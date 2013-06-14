@@ -1,16 +1,22 @@
-<!--The following is the downloaded HTML source of the monginis.net privacy policy that was archived on 2012-12-26.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121226204420id_/http%3A//www.monginis.net/legal-info/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the monginis.net privacy policy that was archived on 2013-06-14.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130614190129id_/http%3A//www.monginis.net/legal-info/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en"><head>
 <meta charset="UTF-8">
 <meta name="keywords" content="privacy policy, monginis cake shop in india, monginis cake shop, cake shop in India, cake shop, Monginis">
 <meta name="description" content="Privacy Policy at Monginis Cake Shop in India applies only to information collated by this Site.">
+<!-- no cache headers -->
+<meta http-equiv="Pragma" content="no-cache">
+<meta http-equiv="no-cache">
+<meta http-equiv="Expires" content="-1">
+<meta http-equiv="Cache-Control" content="no-cache">
+<!-- end no cache headers -->
 <title>Privacy Policy - Monginis Cake Shop in India - Monginis</title>
     
     <script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script src="http://www.monginis.net/scripts/jquery.js"></script>
     <script src="http://www.monginis.net/scripts/jquery.ui.js"></script>
     <script src="http://www.monginis.net/scripts/jquery.corner.js"></script>
-	<script src="http://www.monginis.net/scripts/jquery.hoverintent.js"></script> 
+    <script src="http://www.monginis.net/scripts/jquery.hoverintent.js"></script> 
     <script src="http://www.monginis.net/scripts/jquery.superfish.js"></script> 
     <script src="http://www.monginis.net/scripts/jquery.supersubs.js"></script>    
     <script src="http://www.monginis.net/scripts/jquery.uniform.js"></script>
@@ -139,18 +145,153 @@
 				}
 			});
 		});
-	</script>
+
 
 <!--Script for feedback and Newsletter...-->
-<script type="text/JavaScript">
+
 function toggle(d)
 {
 	var o=document.getElementById(d);
 	o.style.display=(o.style.display=='none')?'block':'none';
 }
 <!--Script for feedback and Newsletter...-->
-</script>
 
+function findcat(val){
+	//alert(val);
+	var dataString = 'id='+ val;
+	//alert(dataString);
+	findval(val);
+	//$("input[name='hcat']").val(val);
+	// alert(site_url);
+	$.ajax
+	({
+	    type: "POST",
+	   // url: site_url+"ajax_citydrop.php",
+	    url: site_url+"ajax_citydrop.php",
+	    data: dataString,
+	    cache: false,
+	    success: function(html)
+	    {
+		//alert('a1');
+		//alert(url);
+		//alert(html);
+		//alert($("#city").html('xw'));
+	    $("select[name='cityselct']").html(html);
+	    }
+	});	
+    }
+   function findval(val){
+   // alert('d');
+     $("input[name='hcat']").val(val);
+     //alert($("input[name='hcat']").val(val));
+   }
+   function findvalcity(val){
+  //alert(val);
+  var dataString = 'id='+ val;
+  if(isNaN(val)==true){
+    $("input[name='hcity']").val(val);
+  }
+  else{
+  //var text =$('#cityselct option:selected').text();
+	//alert(text);
+	//findval(val);
+	// alert(site_url);
+	$.ajax
+	({
+	    type: "POST",
+	    url: site_url+"ajax_cityhidden.php",
+	    data: dataString,
+	    cache: false,
+	    success: function(html)
+	    {
+		//alert(url);
+		//alert(html);
+	    $("input[name='hcity']").val(html);
+	    }
+	});
+  }
+ 
+   }
+   
+   /*function display_results(){
+	alert('aa');
+	var im=$("input[name='hcat']").val();
+	//var a=$("select[name='selectcateg']").val();
+	// alert(im);
+	var b=$("#city").val();
+	//alert(b);
+	var text =$('#city option:selected').text();
+	//var text = document.getElementById('city').options[document.getElementById('city').selectedIndex].text;
+	//alert(text);
+	if(im=='' || b==''){
+	   alert('Please select required field');
+	}
+	
+	else{
+	   parent.window.location.href ="http://www.monginis.net/categorysearch/"+$("input[name='hcat']").val()+"/"+text.toLowerCase();
+	  
+	   // document.location.href ="http://www.monginis.net/";
+	}
+	
+ }*/
+    	function setalert(){
+	    alert('Please fill the below form for continue');
+	    $("#search_form_div").show();
+	}
+	/*$("#inline_demo").click(function(){
+	    alert('a');
+	    alert($.cookie("city"));
+	    if($.cookie("city")=='' || $.cookie("city")==null)
+		    $(".error_div").css("display","none");
+		    });*/
+</script>
+<style>
+	.form_button_new{
+	display: inline-block;
+	border:1px solid #A8A7A7;
+	width:63px;
+	padding:4px;
+	font-size:14px;
+	font-weight:bold;
+	color: #CE047C;
+    }
+    .newhead{
+	   border-bottom: 1px solid #CBCBCB;
+    color: #CE047C;
+    margin: 0 0 20px;
+    padding: 0 0 6px;
+    font-size: 18px;
+     width: 146px;
+    }
+    .form_selectnew{
+	border:1px solid #A8A7A7;
+	padding:4px;
+	width:243px;
+	font-size:13px;
+    }
+    .cakeinfo-modal-new{
+	border-top:0px solid #CCCCCC;
+	color: #CE047C;
+	padding:42px;
+	background: rgb(245,246,246); /* Old browsers */
+background: -moz-linear-gradient(top, rgba(245,246,246,1) 0%, rgba(245,246,246,1) 20%, rgba(245,246,246,1) 31%, rgba(219,220,226,1) 51%, rgba(184,186,198,1) 80%, rgba(221,223,227,1) 92%, rgba(245,246,246,1) 100%); /* FF3.6+ */
+background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,rgba(245,246,246,1)), color-stop(20%,rgba(245,246,246,1)), color-stop(31%,rgba(245,246,246,1)), color-stop(51%,rgba(219,220,226,1)), color-stop(80%,rgba(184,186,198,1)), color-stop(92%,rgba(221,223,227,1)), color-stop(100%,rgba(245,246,246,1))); /* Chrome,Safari4+ */
+background: -webkit-linear-gradient(top, rgba(245,246,246,1) 0%,rgba(245,246,246,1) 20%,rgba(245,246,246,1) 31%,rgba(219,220,226,1) 51%,rgba(184,186,198,1) 80%,rgba(221,223,227,1) 92%,rgba(245,246,246,1) 100%); /* Chrome10+,Safari5.1+ */
+background: -o-linear-gradient(top, rgba(245,246,246,1) 0%,rgba(245,246,246,1) 20%,rgba(245,246,246,1) 31%,rgba(219,220,226,1) 51%,rgba(184,186,198,1) 80%,rgba(221,223,227,1) 92%,rgba(245,246,246,1) 100%); /* Opera 11.10+ */
+background: -ms-linear-gradient(top, rgba(245,246,246,1) 0%,rgba(245,246,246,1) 20%,rgba(245,246,246,1) 31%,rgba(219,220,226,1) 51%,rgba(184,186,198,1) 80%,rgba(221,223,227,1) 92%,rgba(245,246,246,1) 100%); /* IE10+ */
+background: linear-gradient(to bottom, rgba(245,246,246,1) 0%,rgba(245,246,246,1) 20%,rgba(245,246,246,1) 31%,rgba(219,220,226,1) 51%,rgba(184,186,198,1) 80%,rgba(221,223,227,1) 92%,rgba(245,246,246,1) 100%); /* W3C */
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#f5f6f6', endColorstr='#f5f6f6',GradientType=0 ); /* IE6-9 */
+box-shadow:inset 0 0px 0px #000;
+
+    }
+    .tdnew{
+	vertical-align:top;
+	color: #CE047C;
+	padding:2px;
+	font-size:14px;
+	float:right;
+    }
+</style>
 <!--[if IE 8]>
 <style type="text/css">
 	/* css for IE 8 */
@@ -162,9 +303,8 @@ function toggle(d)
 <body>
 
 <div class="bg_left"><img width="183" height="666" alt="" src="http://www.monginis.net/image/body-bg-left.jpg"></div>
-<div class="bg_right"><img width="183" height="666" alt="" src="http://www.monginis.net/image/body-bg-right.jpg">
- 
-  </div> 
+<div class="bg_right"><img width="183" height="666" alt="" src="http://www.monginis.net/image/body-bg-right.jpg"></div>
+
 
 
 <div id="pagewidth">
@@ -172,7 +312,7 @@ function toggle(d)
 	<!-- header -->
 	<header id="header">
     	<div id="logo">
-    		<a href="http://www.monginis.net/"><img src="http://www.monginis.net/image/logo.png" style="margin-left:25px;" alt="Monginis - Home"></a><br><h1 style="color:#2a2e91; font:Arial, Helvetica, sans-serif; size:5px; font-size:smaller; margin-left:5px;"><strong>Buy, send or gift cakes &amp; chocolates online....</strong></h1>
+    		<a href="http://www.monginis.net/"><img src="http://www.monginis.net/image/logo.png" style="margin-left:25px;" alt="Monginis - Home"></a><br><h1 style="color:#2a2e91; font:Arial, Helvetica, sans-serif; size:5px; font-size:smaller; margin-left:5px;"><strong>Buy, send, order or gift cakes &amp; chocolates online....</strong></h1>
         </div>
         
         <div class="meta">
@@ -182,21 +322,43 @@ function toggle(d)
 		            	                <span class="text" id="selected_city"><strong>Select Delivery Location</strong></span>
 	                <span class="arrow"></span>
 	            </a>
-        		
-                <div id="inline_demo" style="display:none;">
-                	<ul class="cityList" id="cityList"><li class="heading">We just want to know which city you would like us to deliver ?</li><li><a href="#error1" class="logout prttyModal" rel="prettyPhoto" onclick="getcity_id(&quot;4_Ahmedabad&quot;); return false;">Ahmedabad</a></li><li><a href="#error1" class="logout prttyModal" rel="prettyPhoto" onclick="getcity_id(&quot;8_Bangalore-Bengaluru&quot;); return false;">Bangalore</a></li><li><a href="#error1" class="logout prttyModal" rel="prettyPhoto" onclick="getcity_id(&quot;5_Baroda&quot;); return false;">Baroda</a></li><li><a href="#error1" class="logout prttyModal" rel="prettyPhoto" onclick="getcity_id(&quot;63_Chennai&quot;); return false;">Chennai</a></li><li><a href="#error1" class="logout prttyModal" rel="prettyPhoto" onclick="getcity_id(&quot;23_Delhi&quot;); return false;">Delhi</a></li><li><a href="#error1" class="logout prttyModal" rel="prettyPhoto" onclick="getcity_id(&quot;3_Goa&quot;); return false;">Goa</a></li><li><a href="#error1" class="logout prttyModal" rel="prettyPhoto" onclick="getcity_id(&quot;1_Hyderabad&quot;); return false;">Hyderabad</a></li><li><a href="#error1" class="logout prttyModal" rel="prettyPhoto" onclick="getcity_id(&quot;14_Indore&quot;); return false;">Indore</a></li><li><a href="#error1" class="logout prttyModal" rel="prettyPhoto" onclick="getcity_id(&quot;62_Jaipur&quot;); return false;">Jaipur</a></li><li><a href="#error1" class="logout prttyModal" rel="prettyPhoto" onclick="getcity_id(&quot;12_Kolkata&quot;); return false;">Kolkata</a></li><li><a href="#error1" class="logout prttyModal" rel="prettyPhoto" onclick="getcity_id(&quot;9_Mumbai&quot;); return false;">Mumbai</a></li><li><a href="#error1" class="logout prttyModal" rel="prettyPhoto" onclick="getcity_id(&quot;10_Nasik&quot;); return false;">Nasik</a></li><li><a href="#error1" class="logout prttyModal" rel="prettyPhoto" onclick="getcity_id(&quot;11_Pune&quot;); return false;">Pune</a></li><li><a href="#error1" class="logout prttyModal" rel="prettyPhoto" onclick="getcity_id(&quot;6_Rajkot&quot;); return false;">Rajkot</a></li><li><a href="#error1" class="logout prttyModal" rel="prettyPhoto" onclick="getcity_id(&quot;2_Secunderabad&quot;); return false;">Secunderabad</a></li><li><a href="#error1" class="logout prttyModal" rel="prettyPhoto" onclick="getcity_id(&quot;7_Surat&quot;); return false;">Surat</a></li><li><a href="#error1" class="logout prttyModal" rel="prettyPhoto" onclick="getcity_id(&quot;0_Any Indian City&quot;); return false; ">Any Indian City</a></li></ul>                	<div class="error_div">
-                   		<div class="errorWindow">
-                            <h3 id="span_cookie">Delivery location is already set to "", if you wish to change it, please hit Continue.<br><br>Please note: The cart will be emptied upon hitting Continue.</h3>
-                                <form>
-                                    <button id="cancel" value="Cancel" class="form_button" onclick="cancel_city(); return false;"><span><span>Cancel</span></span></button>
-                                    <button id="continue" value="Continue" class="form_button big" onclick="setNew_cookie(); return false;"><span><span>Continue</span></span></button>
-                                    <input type="hidden" id="set_flag" name="set_flag" value="">
-                                    <input type="hidden" id="set_city_selected" name="set_city_selected" value="">
-                                </form>
-                            </div>
-                    </div>
-                    
-				</div>
+        	
+                <div id="inline_demo" style="display:none;"><!--%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%-->
+<div id="search_form_div">
+<form id="search_form" method="post" action="" class="cakeinfo-modal-new">
+	
+	
+		<table>
+			<tbody><tr><td><h2 class="newhead">Way to find Gifts</h2></td></tr>
+			
+			<tr><td class="tdnew"><label>Select Category:</label></td>
+			<td><select id="selectcateg" class="form_selectnew" name="selectcateg" onchange="findcat(this.value); return false;">
+			
+					<option value="">Select Category</option>
+                       <option value="cake">Cakes</option>
+		       <option value="flowers">Flowers</option>
+		       <option value="gift">Gifts</option>
+		       <option value="chocolate">Chocolates</option>
+		       
+                    </select></td></tr><tr><td>&nbsp;</td></tr>
+			
+			<tr><td class="tdnew"><label>Select City:</label></td>
+			<td><select name="cityselct" class="form_selectnew" id="cityselct" onchange="findvalcity(this.value); return false;">
+		    <option value="">Select City</option>
+		    </select></td>
+			
+			</tr>
+			<tr><td>&nbsp;</td></tr>
+			<tr><td><input type="hidden" name="hcat" value=""></td></tr>
+			<tr><td><input type="hidden" name="hcity" value=""></td>
+			<td><input type="submit" name="search" class="form_button_new" id="search" value="Find" onclick="display_results1(); return false;"></td></tr>
+		</tbody></table>
+		
+        
+		
+			    </form>
+</div>
+							</div>
 				
         	</div>
             
@@ -258,15 +420,15 @@ function toggle(d)
         </div>
         
         
-        <nav class="menu">
+         <nav class="menu">
         	<ul class="nav_menu">
             	<li><a href="http://www.monginis.net/"><font color="#ffffff">Home</font></a></li>
                 <!--<li><a href="http://beta.monginis.net/products/"><font color="#ffffff">Place Order</font></a></li>-->
                 <li><a href="JavaScript:void(0);"><font color="#ffffff">Our Products</font></a>
-                	<ul><li><a href="http://www.monginis.net/category/popular-cakes/">Popular Cakes</a></li><li><a href="http://www.monginis.net/category/premium-cakes/">Premium Cakes</a></li><li><a href="http://www.monginis.net/category/gifts/">Gifts</a></li><li><a href="http://www.monginis.net/category/gift-hampers/">Gift Hampers</a></li><li><a href="http://www.monginis.net/category/wedding-cakes/">Wedding Cakes</a></li><li><a href="http://www.monginis.net/category/chocolate-cakes/">Chocolate Cakes</a></li><li><a href="http://www.monginis.net/category/vouchers/">Vouchers</a></li><li><a href="http://www.monginis.net/category/photo-cakes/">Photo Cakes</a></li><li><a href="http://www.monginis.net/category/chocolate-gifts/">Chocolate Gifts</a></li><li><a href="http://www.monginis.net/category/marvel-cake/">Marvel Cake</a></li><li><a href="http://www.monginis.net/category/new-year-gifts/">New Year Gifts</a></li><li><a href="http://www.monginis.net/category/all/">View All</a></li></ul>                </li>
+                	<ul><li><a href="http://www.monginis.net/category/popular-cakes/">Popular Cakes</a></li><li><a href="http://www.monginis.net/category/premium-cakes/">Premium Cakes</a></li><li><a href="http://www.monginis.net/category/gifts/">Gifts</a></li><li><a href="http://www.monginis.net/category/gift-hampers/">Gift Hampers</a></li><li><a href="http://www.monginis.net/category/wedding-cakes/">Wedding Cakes</a></li><li><a href="http://www.monginis.net/category/chocolate-cakes/">Chocolate Cakes</a></li><li><a href="http://www.monginis.net/category/vouchers/">Vouchers</a></li><li><a href="http://www.monginis.net/category/photo-cakes/">Photo Cakes</a></li><li><a href="http://www.monginis.net/category/chocolate-gifts/">Chocolate Gifts</a></li><li><a href="http://www.monginis.net/category/flowers/">Flowers</a></li><li><a href="http://www.monginis.net/category/marvel-cake/">Marvel Cake</a></li><li><a href="http://www.monginis.net/category/all/">View All</a></li></ul>                </li>
                 <li><a href="JavaScript:void(0);"><font color="#ffffff">Delivery Options</font></a><!--Delivery Options-->
                 	<ul><li><a href="http://www.monginis.net/deliveryoptions/normal/">Normal Delivery (48 hrs.)</a></li><li><a href="http://www.monginis.net/deliveryoptions/same/">Same Day Delivery (UPTO 1 PM)</a></li><li><a href="http://www.monginis.net/deliveryoptions/next/">Next Day Delivery (24 Hrs)</a></li><li><a href="http://www.monginis.net/deliveryoptions/virtual/">Free Delivery</a></li></ul>                </li>
-                               <li><a href="http://www.monginis.net/occasions/">Occasions</a><ul><li><a href="http://www.monginis.net/occasions/christmas-cakes/">Christmas Cakes</a></li><li><a href="http://www.monginis.net/occasions/popular-occasions/">Popular Occasions</a></li><li><a href="http://www.monginis.net/occasions/special-occasions/">Special Occasions</a></li><li><a href="http://www.monginis.net/occasions/anniversary-day-cakes/">Anniversary Day Cakes</a></li><li><a href="http://www.monginis.net/occasions/special-feelings/">Special Feelings</a></li><li><a href="http://www.monginis.net/occasions/happy-birthday/">Happy Birthday</a></li></ul></li>                <li style="background-color:#7a6fa6;"><a href="http://www.monginis.net/new-year-gifts/"><font color="#ffffff">new year Hampers</font></a></li>
+                                                <li style="background-color:#7a6fa6;"><a href="http://www.monginis.net/occasions/fathers-day-cakes/"><font color="#ffffff">Fathers Day Gifts</font></a></li>
                 <li><a href="http://www.monginis.net/online-gift-hampers/"><font color="#ffffff">Gift Hampers</font></a></li>
                 <li><a href="http://www.monginis.net/store-locator.php"><font color="#ffffff">Store Locator</font></a></li>
                 <li><a href="http://www.monginis.net/corporate-gifting/"><font color="#ffffff">Corporate Gifts</font></a></li>
@@ -282,7 +444,8 @@ function toggle(d)
 	<!-- /header -->
 	<!-- wrapper -->
 	<div id="wrapper" class="clearfix"> 
-        	<!-- maincol -->
+  
+    	<!-- maincol -->
 		<div id="maincol" class="wide"> 
         	<nav id="breadcrumbs">
             	<ul>
@@ -327,62 +490,57 @@ function toggle(d)
 </div>            </div>            
 		</div>
 		<!-- /maincol -->
-    
-
+        </div>
 	<!-- /wrapper -->
 	<!-- footer -->
-	<div id="footer">
-   
-    	<div style="border-bottom:#FFF; border-bottom:thick;">			
+	<div id="footer">	
+    
+    <div style="border-bottom:#FFF; border-bottom:thick;">			
                     <div class="box">
         <img src="/image/food.jpg" width="70" height="130">
         
         </div>
-		<div class="box">
+        </div>
+    					<div class="box">
 													<h5>Corporate Info</h5><ul><li><a href="http://www.monginis.net/corporate-info/careers/">Careers</a></li><li><a href="http://www.monginis.net/corporate-info/about-us/">About Us</a></li><li><a href="http://www.monginis.net/corporate-info/media-room/">Media Room</a></li><li><a href="http://www.monginis.net/corporate-info/our-moral-responsibility/">Our Moral Responsibility</a></li><li><a href="http://blog.monginis.net">Blog</a></li><li><a href="http://www.monginis.net/corporate-info/monginis-in-news/">Monginis in News</a></li></ul></div><div class="box">
 													<h5>Legal Info</h5><ul><li><a href="http://www.monginis.net/legal-info/disclaimer/">Disclaimer</a></li><li><a href="http://www.monginis.net/legal-info/privacy-policy/">Privacy Policy</a></li><li><a href="http://www.monginis.net/legal-info/terms-conditions/">Terms &amp; Conditions</a></li><li><a href="http://www.monginis.net/legal-info/shipping-policy/">Shipping Policy</a></li></ul></div><div class="box">
-													<h5>Login</h5><ul><li><a href="http://www.monginis.net/login.php?type=dealer">Dealers Login</a></li><li><a href="http://www.monginis.net/login.php">Customer Login</a></li><li><a href="http://www.monginis.net/login/download-dealer/">Download Dealer</a></li></ul></div><div class="box">
+													<h5>Login</h5><ul><li><a href="http://www.monginis.net/login.php?type=dealer">Dealers Login</a></li><li><a href="http://www.monginis.net/login.php">Customer Login</a></li><li><a href="http://www.monginis.net/download-dealer1/">Download Dealer</a></li></ul></div><div class="box">
 													<h5>Apply For</h5><ul><li><a href="http://www.monginis.net/apply-for/retail-franchisee/">Retail Franchisee</a></li><li><a href="http://www.monginis.net/apply-for/manufacturing-franchisee/">Manufacturing Franchisee</a></li><li><a href="http://www.monginis.net/apply-for/distributor/">Distributor</a></li><li><a href="http://www.monginis.net/apply-for/superstockiest/">Superstockiest</a></li><li><a href="http://www.monginis.net/apply-for/affiliate-program/">Affiliate Program</a></li></ul></div><div class="box">
-													<h5>Customer Service</h5><ul><li><a href="http://www.monginis.net/customer-service/contact-us/">Contact Us</a></li><li><a href="http://www.monginis.net/customer-service/faqs/">FAQs</a></li><li><a href="http://www.monginis.net/customer-service/corporate-tie-up/">Corporate Tie Up</a></li><li><a href="http://www.monginis.net/store-locator.php">Store Locator</a></li></ul></div>        </div>
- 
-		<!--<div class="box newsletter">
+													<h5>Customer Service</h5><ul><li><a href="http://www.monginis.net/customer-service/contact-us/">Contact Us</a></li><li><a href="http://www.monginis.net/customer-service/faqs/">FAQs</a></li><li><a href="http://www.monginis.net/customer-service/corporate-tie-up/">Corporate Tie Up</a></li><li><a href="http://www.monginis.net/store-locator.php">Store Locator</a></li></ul></div>        <!--<img src="http://www.monginis.net/images/aurangabad-banner.jpg"  />-->
+		<div class="box newsletter">
             <form name="newsletter_subscription" action="http://www.monginis.net/" method="post" id="newsletter_subscription">
             	<input type="text" name="newsletter_email" id="newsletter_email" title="Email Address" class="form_input">
-                <input type="checkbox" id="newsletter_tos_check" name="newsletter_tos_check" value="1" ><label for="newsletter_tos_check">I agree to the privacy policy</label>
+                <input type="checkbox" id="newsletter_tos_check" name="newsletter_tos_check" value="1"><label for="newsletter_tos_check">I agree to the privacy policy</label>
                 <input type="submit" name="newsletter_submit" id="newsletter_submit" value="SUBSCRIBE" class="newsletter_submit" onclick="get_newsletter_submit(); return false;">
             </form>
         </div> 
-        <div class="container">
-        	<div class="left">
-            	<a href="http://www.facebook.com/monginis" target="_blank"><img src="http://www.monginis.net/images/ico_facebook.jpg" alt="Follow us on FaceBook"></a>
-                <a href="https://twitter.com/#!/MonginisBrand" target="_blank"><img src="http://www.monginis.net/images/ico_twitter.jpg" alt="Follow us on Twitter"></a>
-				<a href="http://www.linkedin.com/company/monginis-foods-pvt-ltd-" target="_blank"><img src="http://www.monginis.net/images/ico_linkdin.jpg" alt="Follow us on LinkedIn"></a>
-            </div>
-            <div class="right">
-            	<img src="http://www.monginis.net/images/ico_payment_options.jpg" width="283" height="25" alt="Payment Options">
-            </div>
-        </div>!-->
-       <div style="margin-top:15px;"></div>
-		 				
-						<div class="content" style="overflow: hidden;"><br class="clear">
+    
+    
+    					<div class="content" style="overflow: hidden;"><br class="clear">
 <div class="box links">
 <h2>Send Cakes</h2>
 <ul>
 <li><a href="http://www.monginis.net/send-cakes-to-india/">Send cakes to India</a></li>
 <li><a href="http://www.monginis.net/send-cakes-to-india-from-australia/">Send cakes to India from Australia</a></li>
-<li><a href="http://www.monginis.net/send-cakes-to-india-from-uae/">Send cakes to India from UAE</a></li>
 <li><a href="http://www.monginis.net/send-cakes-to-india-from-uk/">Send cakes to India from UK</a></li>
-<li><a href="http://www.monginis.net/send-cakes-to-india-from-canada/">Send cakes to India from Canada</a></li>
+<li><a href="http://www.monginis.net/send-cakes-to-india-from-uae/">Send cakes to India from UAE</a></li>
 <li><a href="http://www.monginis.net/send-cakes-to-india-from-usa/">Send cakes to India from USA</a></li>
 <li><a title="Send Cakes to India" href="http://www.monginis.net/send-cakes-to-india/">Send cakes to Other Locations in India</a></li>
+<li><a href="http://www.monginis.net/send-cakes-to-india-from-canada/">Send cakes to India from Canada</a></li>
 </ul>
 </div>
 <div class="box links">
 <h2>Send Other Products</h2>
 <ul>
 <li><a href="http://www.monginis.net/send-chocolates-to-india/">Send Chocolates to India</a></li>
+<li><a title="Send Flowers to Jaipur" href="http://www.monginis.net/send-flowers-to-mumbai/">Send Flowers to Mumbai</a></li>
+<li><a href="http://www.monginis.net/send-flowers-to-jaipur/">Send Flowers to Jaipur</a></li>
+<li><a title="Send Flowers to Hyderabad" href="http://www.monginis.net/send-flowers-to-hyderabad/">Send Flowers to Hyderabad</a></li>
+<li><a href="http://www.monginis.net/send-flowers-to-chennai/">Send Flowers to Chennai</a></li>
+<li><a title="Buy Flowers Online" href="http://www.monginis.net/order-flowers-online/">Buy Flowers Online</a></li>
 <li><a href="http://www.monginis.net/send-greeting-cards-to-india/">Send Greeting Cards to India</a></li>
 <li><a href="http://www.monginis.net/candles/">Send Candles to India</a></li>
+<li><a href="http://www.monginis.net/send-chocolates-to-delhi/">Send Chocolates to Delhi</a></li>
 <!--
 <li><a href="http://www.monginis.net/send-flowers-to-india/">Send Flowers to India</a></li>
 <li><a href="http://www.monginis.net/send-flowers-to-goa/">Send Flowers to Goa</a></li>
@@ -392,7 +550,6 @@ function toggle(d)
 <li><a href="http://www.monginis.net/send-flowers-to-baroda/">Send Flowers to Baroda</a></li>
 <li><a href="http://www.monginis.net/send-flowers-to-kolkata/">Send Flowers to Kolkata</a></li>
 <li><a href="http://www.monginis.net/send-flowers-to-delhi/">Send Flowers to Delhi</a></li>
-<li><a href="http://www.monginis.net/send-flowers-to-mumbai/">Send Flowers to Mumbai</a></li>
 <li><a href="http://www.monginis.net/send-flowers-to-bangalore/">Send Flowers to Bangalore</a></li>
 <li><a href="http://www.monginis.net/send-flowers-to-nasik/">Send Flowers to Nasik</a></li>
 <li><a href="http://www.monginis.net/send-flowers-to-surat/">Send Flowers to Surat</a></li>
@@ -400,14 +557,18 @@ function toggle(d)
 <li><a href="http://www.monginis.net/send-flowers-to-india-from-uk/">Send Flowers to India from UK</a></li>
 -->
 <li><a href="http://www.monginis.net/send-chocolates-to-pune/">Send Chocolates to Pune</a></li>
-<li><a href="http://www.monginis.net/send-chocolates-to-delhi/">Send Chocolates to Delhi</a></li>
 <li><a href="http://www.monginis.net/send-chocolates-to-mumbai/">Send Chocolates to Mumbai</a></li>
-<li><a href="http://www.monginis.net/send-chocolates-to-bangalore/">Send Chocolates to Bangalore</a></li>
 <li><a href="http://www.monginis.net/send-chocolates-to-india-from-usa/">Send Chocolates to India from USA</a></li>
+<li><a href="http://www.monginis.net/send-chocolates-to-bangalore/">Send Chocolates to Bangalore</a></li>
 <li><a href="http://www.monginis.net/send-chocolates-to-india-from-uk/">Send Chocolates to India from UK</a></li>
+<!--
 <li><a title="Christmas Chocolates" href="http://www.monginis.net/christmas-chocolates/">Christmas Chocolates</a></li>
 <li><a href="http://www.monginis.net/christmas-candles/">Christmas Candles</a></li>
 <li><a href="http://www.monginis.net/christmas-brownies/">Christmas Brownies</a></li>
+-->
+<li><a href="http://www.monginis.net/chocolate-bouquets/">Chocolate Bouquets</a></li>
+<li><a title="Flowers and Cake Delivery" href="http://www.monginis.net/flower-cake-delivery/"><span class="plus">Flowers and Cake Delivery</span></a></li>
+<li><a href="http://www.monginis.net/flowers-for-mothers-day/"><span class="plus">Flowers for Mothers Day</span></a></li>
 </ul>
 </div>
 <div class="box links">
@@ -421,15 +582,23 @@ function toggle(d)
 <li><a href="http://www.monginis.net/send-gifts-from-UK-to-india/">Gifts from UK to india</a></li>
 <li><a href="http://www.monginis.net/gifts-for-her/">Gifts for Her</a></li>
 <li><a href="http://www.monginis.net/gifts-for-him/">Gifts for Him</a></li>
-<li><a title="Christmas Gifts" href="http://www.monginis.net/christmas-gifts/">Christmas Gifts</a></li>
 <li><a href="http://www.monginis.net/online-gift-shop/">Online Gift Shop</a></li>
 <li><a href="http://www.monginis.net/online-gift-hampers/">Online Gift Hampers</a></li>
 <li><a href="http://www.monginis.net/wedding-gifts-to-india/">Wedding Gifts to India</a></li>
 <li><a href="http://www.monginis.net/anniversary-gifts-to-india/">Anniversary Gifts to India</a></li>
-<li><a href="http://www.monginis.net/christmas-gifts-to-india/">Christmas Gifts to India</a></li>
 <li><a title="Indian Gifts Portal" href="http://www.monginis.net/indian-gifts-portal/">Gifts Portal</a></li>
+<!--
+<li><a href="http://www.monginis.net/christmas-gifts-to-india/">Christmas Gifts to India</a></li>
+<li><a title="Christmas Gifts" href="http://www.monginis.net/christmas-gifts/">Christmas Gifts</a></li>
 <li><a title="Diwali Gifts For Employees" href="http://www.monginis.net/christmas-gifts-for-children/">Christmas Gifts for Children</a></li>
 <li><a href="http://www.monginis.net/new-year-gifts/">New Year Gifts</a></li>
+-->
+<li><a href="http://www.monginis.net/romantic-gifts/">Romantic Gifts</a></li>
+<li><a href="http://www.monginis.net/gifts-for-women/">Gifts for Women</a></li>
+<li><a href="http://www.monginis.net/gifts-for-children/">Gifts for Children</a></li>
+<li><a title="Gift Flowers Online" href="http://www.monginis.net/gift-flowers-online/">Gift Flowers Online</a></li>
+<li><a href="http://www.monginis.net/gifts-for-mothers-day">Gifts For Mothers Day</a></li>
+<li><a title="Rakhi Gifts" href="http://www.monginis.net/rakhi-gifts/">Rakhi Gifts</a></li>
 </ul>
 </div>
 <div class="box links">
@@ -440,6 +609,11 @@ function toggle(d)
 <li><a href="http://www.monginis.net/occasions/boss-day-cakes">Boss's Day Cakes</a></li>
 <li><a href="http://www.monginis.net/occasions/christmas-cakes">Christmas Cakes</a></li>
 <li><a href="http://www.monginis.net/occasions/new-year-cakes">New Year Cakes</a></li>
+<li><a href="http://www.monginis.net/occasions/womens-day-cakes">Women's Day Cakes</a></li>
+<li><a href="http://www.monginis.net/occasions/easter-cakes">Easter Cakes</a></li>
+<li><a href="http://www.monginis.net/occasions/mothers-day-cakes">Mother's Day Cakes</a></li>
+<li><a title="Father's Day Cakes" href="http://www.monginis.net/occasions/fathers-day-cakes/">Father's Day Cakes</a></li>
+<li><a title="Raksha Bandhan Cakes" href="http://www.monginis.net/occasions/raksha-bandhan-cakes/">Raksha Bandhan Cakes</a></li>
 </ul>
 </div>
 <div class="box links">
@@ -447,16 +621,16 @@ function toggle(d)
 <ul>
 <li><a href="http://www.monginis.net/wedding-cakes">Weddings Cakes</a></li>
 <li><a href="http://www.monginis.net/occasions/anniversary-day-cakes">Annivarsary Cakes</a></li>
-<li><a href="http://www.monginis.net/occasions/christening-cakes">Christening Cakes</a></li>
 <li><a href="http://www.monginis.net/occasions/engagement-cakes">Engagement Cakes</a></li>
-<li><a href="http://www.monginis.net/occasions/1st-birthday-cakes">1st Birthday Cakes</a></li>
-<li><a href="http://www.monginis.net/occasions/happy-birthday-cakes">Happy Birthday Cakes</a></li>
+<li><a href="http://www.monginis.net/occasions/christening-cakes">Christening Cakes</a></li>
 <li><a href="http://www.monginis.net/occasions/kids-birthday-cakes">Kids Birthday Cakes</a></li>
 <li><a href="http://www.monginis.net/occasions/new-born-cake">New Born Cakes </a></li>
-<li><a href="http://www.monginis.net/occasions/best-birthday-cakes">Best Birthday Cakes</a></li>
-<li><a href="http://www.monginis.net/occasions/chocolate-birthday-cake">Chocolate Birthday Cakes</a></li>
-<li><a href="http://www.monginis.net/occasions/adult-birthday-cakes">Birthday Cakes for Elders</a></li>
+<li><a href="http://www.monginis.net/occasions/1st-birthday-cakes">1st Birthday Cakes</a></li>
 <li><a href="http://www.monginis.net/occasions/21st-birthday-cakes">21st Birthday Cakes</a></li>
+<li><a title="Birthday Cakes" href="http://www.monginis.net/birthday-cakes/">Birthday Cakes</a></li>
+<li><a href="http://www.monginis.net/occasions/best-birthday-cakes">Best Birthday Cakes</a></li>
+<li><a href="http://www.monginis.net/occasions/adult-birthday-cakes">Birthday Cakes for Elders</a></li>
+<li><a href="http://www.monginis.net/occasions/chocolate-birthday-cake">Chocolate Birthday Cakes</a></li>
 <li><a href="http://www.monginis.net/occasions/novelty-birthday-cakes">Novelty Birthday Cakes</a></li>
 </ul>
 </div>
@@ -483,9 +657,20 @@ function toggle(d)
 </div>
 </div>
 <hr class="divider">
-<p>&nbsp;</p>
-
-<div style="background-color:#FFF; height:90px; border-radius: 8px 8px 8px 8px;"> 
+<p>&nbsp;</p>    
+		
+        <!--<div class="container">
+        	<div class="left">
+            	<a href="http://www.facebook.com/monginis" target="_blank"><img src="http://www.monginis.net/images/ico_facebook.jpg" alt="Follow us on FaceBook"></a>
+                <a href="https://twitter.com/#!/MonginisBrand" target="_blank"><img src="http://www.monginis.net/images/ico_twitter.jpg" alt="Follow us on Twitter"></a>
+				<a href="http://www.linkedin.com/company/monginis-foods-pvt-ltd-" target="_blank"><img src="http://www.monginis.net/images/ico_linkdin.jpg" alt="Follow us on LinkedIn"></a>
+                <a href="http://www.monginis.net/rss.xml" target="_blank"><img src="http://www.monginis.net/images/ico_rss.jpg" alt="Follow us on RSS"></a>
+            </div>
+            <div class="right">
+            	<img src="http://www.monginis.net/images/ico_payment_options.jpg" width="283" height="25" alt="Payment Options">
+            </div>
+        </div>-->
+        <div style="background-color:#FFF; height:90px; border-radius: 8px 8px 8px 8px;"> 
 <h3 style="margin-left:20px;"> Our Affiliates</h3>    
 <marquee behavior="scroll" direction="left" style="margin-top:7px;">
 <img src="/image/product/1.png" width="83" height="53" alt="smile" style="margin-right:20px;">
@@ -506,11 +691,10 @@ function toggle(d)
 <img src="/image/product/16.png" width="83" height="53" alt="smile" style="margin-right:20px;">
 <img src="/image/product/17.png" width="83" height="53" alt="smile" style="margin-right:20px;">
 <img src="/image/product/18.png" width="83" height="53" alt="smile" style="margin-right:20px;">
+<img src="/image/product/hdfc.png" width="83" height="53" alt="smile" style="margin-right:20px;">
+<img src="/image/product/icici.png" width="83" height="53" alt="smile" style="margin-right:20px;">
 </marquee>
-</div>      
-        
-    	
-        
+</div>   
 
     </div>
     
@@ -525,4 +709,5 @@ document.write(unescape("%3Cscript src='" + document.location.protocol + "//" + 
 </script><script src="https://monginis1.app11.hubspot.com/salog.js.aspx" type="text/javascript"></script>
 <!-- End of HubSpot Logging Code -->
 
-</div></body></html>
+
+</body></html>
