@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the weddingideasmag.com privacy policy that was archived on 2012-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121016063959id_/http%3A//www.weddingideasmag.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the weddingideasmag.com privacy policy that was archived on 2013-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130614025057id_/http%3A//www.weddingideasmag.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy for online services
 
 We are committed to safeguarding the privacy of our website visitors; this policy sets out how we will treat your personal information.
 
-Our website uses cookies. By using our website and agreeing to this policy, you consent to our use of cookies in accordance with the terms of this policy. 
+Our website uses cookies. By using our website and agreeing to this policy, you consent to our use of cookies in accordance with the terms of this policy.
 
 ### 1\. What information do we collect?
 
@@ -19,7 +19,7 @@ We may collect, store and use the following kinds of personal information:
 
 ### 2\. Cookies
 
-A cookie consists of a piece of text sent by a web server to a web browser, and stored by the browser. The information is then sent back to the server each time the browser requests a page from the server. This enables the web server to identify and track the web browser. 
+A cookie consists of a piece of text sent by a web server to a web browser, and stored by the browser. The information is then sent back to the server each time the browser requests a page from the server. This enables the web server to identify and track the web browser.
 
 We may use both “session” cookies and “persistent” cookies on the website. We will use the session cookies to: keep track of you whilst you navigate the website; .We will use the persistent cookies to: enable our website to recognise you when you visit;
 
@@ -54,11 +54,11 @@ Where you submit personal information for publication on our website, we will pu
 
 We will not without your express consent provide your personal information to any third parties for the purpose of direct marketing.
 
-### 5\. Disclosures
+### 4\. Disclosures
 
 We may disclose information about you to any of our employees, officers, agents, suppliers or subcontractors insofar as reasonably necessary for the purposes as set out in this privacy policy.
 
-In addition, we may disclose your personal information: 
+In addition, we may disclose your personal information:
 
   1. to the extent that we are required to do so by law;
   2. in connection with any legal proceedings or prospective legal proceedings;
@@ -74,7 +74,7 @@ Except as provided in this privacy policy, we will not provide your information 
 
 Information that we collect may be stored and processed in and transferred between any of the countries in which we operate in order to enable us to use the information in accordance with this privacy policy.
 
-Information which you provide may be transferred to countries (including the United States) which do not have data protection laws equivalent to those in force in the European Economic Area. 
+Information which you provide may be transferred to countries (including the United States) which do not have data protection laws equivalent to those in force in the European Economic Area.
 
 In addition, personal information that you submit for publication on the website will be published on the internet and may be available, via the internet, around the world. We cannot prevent the use or misuse of such information by others.
 
@@ -82,9 +82,9 @@ You expressly agree to such transfers of personal information.
 
 ### 6\. Security of your personal information
 
-We will take reasonable technical and organisational precautions to prevent the loss, misuse or alteration of your personal information. 
+We will take reasonable technical and organisational precautions to prevent the loss, misuse or alteration of your personal information.
 
-We will store all the personal information you provide on our secure (password and firewall-protected) servers. All electronic transactions you make to or receive from us will be encrypted using SSL technology. 
+We will store all the personal information you provide on our secure (password and firewall-protected) servers. All electronic transactions you make to or receive from us will be encrypted using SSL technology.
 
 Of course, data transmission over the internet is inherently insecure, and we cannot guarantee the security of data sent over the internet.
 
@@ -92,7 +92,7 @@ You are responsible for keeping your password and user details confidential. We 
 
 ### 7\. Policy amendments
 
-We may update this privacy policy from time-to-time by posting a new version on our website. You should check this page occasionally to ensure you are happy with any changes. 
+We may update this privacy policy from time-to-time by posting a new version on our website. You should check this page occasionally to ensure you are happy with any changes.
 
 We may also notify you of changes to our privacy policy by email.
 
@@ -119,10 +119,10 @@ Please let us know if the personal information which we hold about you needs to 
 
 ### 11\. Contact
 
-If you have any questions about this privacy policy or our treatment of your personal information, please write to us by email to [info@giraffe-media.co.uk](mailto:info@giraffe-media.co.uk?subject=Contact%20from%20the%20Wedding%20Ideas%20website%20terms%20page) or by post to **Giraffe Media Ltd, Mitre House, Tower Street, Taunton, Somerset, TA1 4BH**.
+If you have any questions about this privacy policy or our treatment of your personal information, please write to us by email to [info@giraffe-media.co.uk](mailto:info@giraffe-media.co.uk "Send an email to Giraffe Media") or by post to **Giraffe Media Ltd, Mitre House, Tower Street, Taunton, Somerset, TA1 4BH**.
 
 ### 12\. Data controller
 
-The data controller responsible in respect of the information collected on this website is **James Payne for Giraffe Media Limited**. 
+The data controller responsible in respect of the information collected on this website is **James Payne** for **Giraffe Media Limited**.
 
 Our data protection registration number is **Z1588547**.
