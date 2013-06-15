@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the provide-savings.com privacy policy that was archived on 2012-10-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121004101054id_/http%3A//provide-savings.com/content/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the provide-savings.com privacy policy that was archived on 2013-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130615051058id_/http%3A//provide-savings.com/content/privacy) for the most accurate reproduction.*
 
 # Fast, Free Auto Insurance Quotes
 
@@ -18,7 +18,7 @@ provide-savings.com has been awarded TRUSTe's Privacy Seal signifying that this 
 
 ### Contact Information
 
-If you have any questions or concerns regarding this policy, you should first send an email to compliance@adharmonics.com. You can also contact us via regular mail at: provide-savings.com, 955 Massachusetts Ave. #323, Cambridge, MA 02139. If you would prefer to contact us via phone, please call 617-466-9231. 
+If you have any questions or concerns regarding this policy, you should first send an email to compliance@adharmonics.com. You can also contact us via regular mail at: provide-savings.com, 1 Kendall Square, Suite B2102, Cambridge, MA 02139. If you would prefer to contact us via phone, please call 617-466-9231. 
 
 ### Personally Identifiable Information
 
@@ -60,7 +60,7 @@ We reserve the right to disclose your PII as required by law and when we believe
 
 ### Access
 
-If your personally identifiable information changes, or if you no longer desire our service, you may [correct, update, amend, delete/remove or deactivate it] by emailing our Customer Support at compliance@adharmonics.com or by contacting us by postal mail at provide-savings.com , 955 Massachusetts Ave. #323, Cambridge, MA 02139. 
+If your personally identifiable information changes, or if you no longer desire our service, you may [correct, update, amend, delete/remove or deactivate it] by emailing our Customer Support at compliance@adharmonics.com or by contacting us by postal mail at provide-savings.com , 1 Kendall Square, Suite B2102, Cambridge, MA 02139. 
 
 ### Data Rentention
 
