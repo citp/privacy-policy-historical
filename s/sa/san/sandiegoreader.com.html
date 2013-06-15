@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the sandiegoreader.com privacy policy that was archived on 2012-12-04.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121204065307id_/http%3A//www.sandiegoreader.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the sandiegoreader.com privacy policy that was archived on 2013-06-15.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130615061018id_/http%3A//www.sandiegoreader.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en" prefix="og: http://ogp.me/ns#"><head>
   <meta http-equiv="Content-Type" content="text/html;charset=utf-8">
@@ -19,7 +19,7 @@
   
 
   
-    <script id="twitter-wjs" src="//platform.twitter.com/widgets.js"></script><script src="https://secure.quantserve.com/quant.js" async="" type="text/javascript"></script><script async="" type="text/javascript" src="https://www.googletagservices.com/tag/js/gpt.js"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript">
+    <script id="twitter-wjs" src="https://platform.twitter.com/widgets.js"></script><script src="https://secure.quantserve.com/quant.js" async="" type="text/javascript"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript">
       var STATIC_MEDIA_URL = 'http://media.sdreader.com/static/';
     </script>
     <script type="text/javascript" src="http://google.com/maps/api/js?sensor=true"></script>
@@ -49,41 +49,35 @@
 
   
     <script type="text/javascript">
-      var googletag = googletag || {};
-      googletag.cmd = googletag.cmd || [];
       (function() {
-        var gads = document.createElement('script');
-        gads.async = true;
-        gads.type = 'text/javascript';
-        var useSSL = 'https:' == document.location.protocol;
-        gads.src = (useSSL ? 'https:' : 'http:') +
-        '//www.googletagservices.com/tag/js/gpt.js';
-        var node = document.getElementsByTagName('script')[0];
-        node.parentNode.insertBefore(gads, node);
+      var useSSL = 'https:' == document.location.protocol;
+      var src = (useSSL ? 'https:' : 'http:') +
+      '//www.googletagservices.com/tag/js/gpt.js';
+      document.write('<scr' + 'ipt src="' + src + '"></scr' + 'ipt>');
       })();
-    </script>
+    </script><script src="https://www.googletagservices.com/tag/js/gpt.js"></script>
 
     <script type="text/javascript">
-      googletag.cmd.push(function() {
-        
-        if (typeof SDReader.DFP.adUnitName === 'undefined') {
-          SDReader.DFP.adUnitName = 'Default';
-        }
+      
+      if (typeof SDReader.DFP.adUnitName === 'undefined') {
+        SDReader.DFP.adUnitName = 'Default';
+      }
 
-        SDReader.DFP.adUnitFullPath = SDReader.DFP.adUnitPath + SDReader.DFP.adUnitName + '_';
+      SDReader.DFP.adUnitFullPath = SDReader.DFP.adUnitPath + SDReader.DFP.adUnitName + '_';
 
-        googletag.defineSlot(SDReader.DFP.adUnitFullPath + '728x90_1', [728, 90], 'ad-unit-728x90-1').addService(googletag.pubads());
-        googletag.defineSlot(SDReader.DFP.adUnitFullPath + '300x250_1', [300, 250], 'ad-unit-300x250-1').addService(googletag.pubads());
-        googletag.defineSlot(SDReader.DFP.adUnitFullPath + '300x250_2', [300, 250], 'ad-unit-300x250-2').addService(googletag.pubads());
-        googletag.defineSlot(SDReader.DFP.adUnitFullPath + '300x250_3', [300, 250], 'ad-unit-300x250-3').addService(googletag.pubads());
-        googletag.defineSlot(SDReader.DFP.adUnitFullPath + '300x250_4', [300, 250], 'ad-unit-300x250-4').addService(googletag.pubads());
-        googletag.defineSlot(SDReader.DFP.adUnitPath + 'Header-Pencil', [992, 30], 'ad-unit-992x30-1').addService(googletag.pubads());
-        
-        
-        googletag.pubads().enableSingleRequest();
-        googletag.pubads().collapseEmptyDivs();
-        googletag.enableServices();
-      });
+      googletag.defineSlot(SDReader.DFP.adUnitFullPath + '728x90_1', [728, 90], 'ad-unit-728x90-1').addService(googletag.pubads());
+      googletag.defineSlot(SDReader.DFP.adUnitFullPath + '300x250_1', [300, 250], 'ad-unit-300x250-1').addService(googletag.pubads());
+      googletag.defineSlot(SDReader.DFP.adUnitFullPath + '300x250_2', [300, 250], 'ad-unit-300x250-2').addService(googletag.pubads());
+      googletag.defineSlot(SDReader.DFP.adUnitFullPath + '300x250_3', [300, 250], 'ad-unit-300x250-3').addService(googletag.pubads());
+      googletag.defineSlot(SDReader.DFP.adUnitFullPath + '300x250_4', [300, 250], 'ad-unit-300x250-4').addService(googletag.pubads());
+      googletag.defineSlot(SDReader.DFP.adUnitPath + 'Header-Pencil', [992, 30], 'ad-unit-992x30-1').addService(googletag.pubads());
+      googletag.defineSlot(SDReader.DFP.adUnitPath + 'Default_ROS_Reskin', [1, 1], 'ad-unit-reskin').addService(googletag.pubads());
+      
+      
+      googletag.pubads().enableSyncRendering();
+      googletag.pubads().enableSingleRequest();
+      googletag.pubads().collapseEmptyDivs();
+      googletag.enableServices();
     </script>
   
 
@@ -106,6 +100,12 @@
 </head>
 
 <body class="" id="body_id">
+
+<div id="ad-unit-reskin">
+  <script type="text/javascript">
+    googletag.display('ad-unit-reskin');
+  </script>
+</div>
 
 <div id="page">
 
@@ -135,7 +135,7 @@
           <li><a href="/music/">Music</a></li>
           <li><a href="/movies/">Movies</a></li>
           <li><a href="/restaurants/">Restaurants</a></li>
-          <li><a href="/photos/galleries/">Photos</a></li>
+          <li><a href="/holler/">Holler</a></li>
           <li><a href="/sd-neighborhoods/">Neighborhoods</a></li>
           <li class="last-child"><a href="/news/travel/">Travel</a></li>
         </ul>
@@ -145,7 +145,7 @@
           <li><a href="/classifieds/">Classifieds</a></li>
           <li><a href="http://www.readerjobs.com/">Jobs</a></li>
           <li><a href="http://readercity.com/">Local Deals</a></li>
-          <li><a href="/rewards/">Rewards</a></li>
+          <li><a href="/photos/galleries/">Photos</a></li>
           <li><a href="/place-pages/">Places</a></li>
           <li><a href="/contests/">Contests</a></li>
           <li><a href="/news/special-issues">Special Issues</a></li>
@@ -284,65 +284,99 @@
 
           
             
-            <div id="staff-blogs">
+            
+            
+<div id="staff-blogs">
   <h2><a href="/weblogs/the-latest/">The Latest...</a></h2>
   
-    <div class="post">
-      
-        <ul class="categories">
-          <li><a href="/weblogs/news-ticker/">News Ticker</a></li>
-        </ul>
-      
-      <h3><a href="/weblogs/news-ticker/2012/dec/03/corrupt-business-as-usual/">Corrupt business as usual?</a></h3>
-      <p class="date"><a href="/staff/don-bauder">Don Bauder</a> 5:07 p.m., Dec. 3</p>
-    </div>
+    
+    
+      <div class="post">
   
-    <div class="post">
-      
-        <ul class="categories">
-          <li><a href="/weblogs/almost-factual-news/">Almost Factual News</a></li>
-        </ul>
-      
-      <h3><a href="/weblogs/almost-factual-news/2012/dec/03/strong-mayor-the-final-farewell/">Strong Mayor: The Final Farewell</a></h3>
-      <p class="date"><a href="/staff/walter-mencken">Walter Mencken</a> 4:24 p.m., Dec. 3</p>
-    </div>
+    <ul class="categories">
+      <li><a href="/weblogs/news-ticker/">News Ticker</a></li>
+    </ul>
   
-    <div class="post">
-      
-        <ul class="categories">
-          <li><a href="/weblogs/jam-session/">Jam Session</a></li>
-        </ul>
-      
-      <h3><a href="/weblogs/jam-session/2012/dec/03/sro-for-joe-garrison-night-people/">SRO for Joe Garrison &amp; Night People</a></h3>
-      <p class="date"><a href="/staff/robert-bush">Robert  Bush</a> 2:20 p.m., Dec. 3</p>
-    </div>
+  <h3><a href="/weblogs/news-ticker/2013/jun/14/manchester-hotel-to-break-ground-in-austin-in-nove/">Manchester hotel to break ground in Austin in November</a></h3>
+  <p class="date"><a href="/staff/don-bauder">Don Bauder</a> 8:43 p.m., June 14</p>
+</div>
+
+    
+      <div class="post">
   
-    <div class="post">
-      
-        <ul class="categories">
-          <li><a href="/weblogs/jam-session/">Jam Session</a></li>
-        </ul>
-      
-      <h3><a href="/weblogs/jam-session/2012/dec/03/band-together-rock-band-guide-book-release-party/">Band Together: rock band guide book release party</a></h3>
-      <p class="date"><a href="/staff/chad-deal">Chad Deal</a> 2:13 p.m., Dec. 3</p>
-    </div>
+    <ul class="categories">
+      <li><a href="/weblogs/big-screen/">Big Screen</a></li>
+    </ul>
   
-    <div class="post">
-      
-        <ul class="categories">
-          <li><a href="/weblogs/news-ticker/">News Ticker</a></li>
-        </ul>
-      
-      <h3><a href="/weblogs/news-ticker/2012/dec/03/reneging-on-refunds/">Reneging on refunds</a></h3>
-      <p class="date"><a href="/staff/dorian-hargrove">Dorian Hargrove</a> 2:05 p.m., Dec. 3</p>
-    </div>
+  <h3><a href="/weblogs/big-screen/2013/jun/14/emblockbuster-or-the-modern-prometheusem/"><em>Blockbuster, or, The Modern Prometheus</em></a></h3>
+  <p class="date"><a href="/staff/matthew-lickona">Matthew Lickona</a> 3:25 p.m., June 14</p>
+</div>
+
+    
+      <div class="post">
   
-  <div class="more-links"><a href="/weblogs/staff/">Staff blogs</a> | <a href="/weblogs/reader/">Community blogs</a> | <a href="/comments/">Comments</a></div>
+    <ul class="categories">
+      <li><a href="/weblogs/news-ticker/">News Ticker</a></li>
+    </ul>
+  
+  <h3><a href="/weblogs/news-ticker/2013/jun/14/sd-10th-in-science-tech-engineer-math-jobs/">SD 10th in science, tech, engineer, math jobs</a></h3>
+  <p class="date"><a href="/staff/don-bauder">Don Bauder</a> 3:23 p.m., June 14</p>
+</div>
+
+    
+      <div class="post">
+  
+  <ul class="categories"><li><a href="/news/concert-reviews/">Concert Reviews</a></li></ul>
+  
+  <h3><a href="/news/2013/jun/14/concert-rocket-roars-back-ink-n-iron/">Rocket roars back at Ink-N-Iron</a></h3>
+  <p class="date"><a href="/staff/mark-carpowich/">Mark Carpowich</a> 11:35 a.m., June 14</p>
+</div>
+
+    
+      <div class="post">
+  
+  <ul class="categories"><li><a href="/news/on-record/">On the Record</a></li></ul>
+  
+  <h3><a href="/news/2013/jun/14/cd-emmodern-vampires-cityem-vampire-weekend/"><em>Modern Vampires of the City,</em> by Vampire Weekend</a></h3>
+  <p class="date"><a href="/staff/allison-mayoral/">Allison Mayoral</a> 11:23 a.m., June 14</p>
+</div>
+
+    
+  
+  <div class="more-links"><a href="/weblogs/staff/">More blog entries</a> | <a href="/news/">More stories</a> | <a href="/comments/">Site comments</a></div>
 </div>
 
           
 
+       
+
           
+            <div id="ad-unit-300x250-1" class="ad-unit">
+              <script type="text/javascript">
+                googletag.cmd.push(function() { googletag.display('ad-unit-300x250-1'); });
+              </script>
+            </div>
+
+            <div id="ad-unit-300x250-2" class="ad-unit">
+              <script type="text/javascript">
+                googletag.cmd.push(function() { googletag.display('ad-unit-300x250-2'); });
+              </script>
+            </div>
+
+            <div id="ad-unit-300x250-3" class="ad-unit">
+              <script type="text/javascript">
+                googletag.cmd.push(function() { googletag.display('ad-unit-300x250-3'); });
+              </script>
+            </div>
+
+            <div id="ad-unit-300x250-4" class="ad-unit">
+              <script type="text/javascript">
+                googletag.cmd.push(function() { googletag.display('ad-unit-300x250-4'); });
+              </script>
+            </div>
+          
+          
+             
             <div id="social-networks" class="tabbed-nav">
               <div class="tab-container">
                 <ul>
@@ -351,11 +385,8 @@
                 </ul>
               </div>
               <div id="twitter" class="tab-content">
-                <script type="text/javascript">
-                  Ellington.Twitter.init('#twitter', {
-                    url: 'https://api.twitter.com/1/ReaderAndy/lists/sdreader/statuses.json'
-                  });
-                </script>
+                <a class="twitter-timeline" href="https://twitter.com/ReaderAndy/sdreader" data-widget-id="345619585225080833" data-chrome="noheader nofooter" height="210">Tweets from SDReader</a>
+                <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
               </div>
               <div id="facebook" class="tab-content ui-tabs-hide">
                 <div id="fbwall"></div>
@@ -384,32 +415,6 @@
           
 
           
-            <div id="ad-unit-300x250-1" class="ad-unit">
-              <script type="text/javascript">
-                googletag.cmd.push(function() { googletag.display('ad-unit-300x250-1'); });
-              </script>
-            </div>
-
-            <div id="ad-unit-300x250-2" class="ad-unit">
-              <script type="text/javascript">
-                googletag.cmd.push(function() { googletag.display('ad-unit-300x250-2'); });
-              </script>
-            </div>
-
-            <div id="ad-unit-300x250-3" class="ad-unit">
-              <script type="text/javascript">
-                googletag.cmd.push(function() { googletag.display('ad-unit-300x250-3'); });
-              </script>
-            </div>
-
-            <div id="ad-unit-300x250-4" class="ad-unit">
-              <script type="text/javascript">
-                googletag.cmd.push(function() { googletag.display('ad-unit-300x250-4'); });
-              </script>
-            </div>
-          
-
-          
           
           
 
@@ -420,15 +425,15 @@
                 <div>
                   <ul>
                     
-                      <li><a href="/news/2012/nov/28/stringers-sweetwater-university-open-soon/">Sweetwater University to “Open” Soon?</a></li>
+                      <li><a href="/news/2013/jun/10/stringers-sweetwater-board-candidate-has-/">Sweetwater board candidate has his sign damaged</a></li>
                     
-                      <li><a href="/news/2012/oct/24/roam-seven-bridge-walk/">Seven Bridge Walk</a></li>
+                      <li><a href="/news/2013/may/28/stringers-safety-sweetwater-school-districts-/">Safety of Sweetwater school district’s buses below par </a></li>
                     
-                      <li><a href="/news/2012/nov/28/roam-elfin-forest/">Elfin Forest Recreational Reserve</a></li>
+                      <li><a href="/news/2013/jun/12/cover-75-reasons-love-san-diego/">75 reasons to love San Diego</a></li>
                     
-                      <li><a href="/news/2012/nov/30/stringers-oceanside-code-enforcement-fines-/">Oceanside Code Enforcement Fines Homeowner</a></li>
+                      <li><a href="/news/2013/jun/13/stringers-chula-vista-police-chief-bejarano-/">Chula Vista police chief Bejarano to home in on crime spot</a></li>
                     
-                      <li><a href="/events/2012/dec/14/51710/"></a></li>
+                      <li><a href="/weblogs/news-ticker/2013/jun/11/assemblymember-shirley-weber-holds-budget-town-hal/"></a></li>
                     
                   </ul>
                 </div>
@@ -438,17 +443,17 @@
                 <div>
                   <ul>
                     
-                      <li><a href="/news/2012/nov/28/citylights1-sd-power-climate-change/">Will SD power structure accept climate change?</a></li>
+                      <li><a href="/news/2013/jun/10/stringers-sweetwater-board-candidate-has-/">Sweetwater board candidate has his sign damaged</a></li>
                     
-                      <li><a href="/news/2012/dec/03/travel-hudson-valley-foie-gras-new-york/">Foie Gras... or Faux Pas?</a></li>
+                      <li><a href="/news/2013/jun/12/blurt-accidental-bachelor/"><em>Accidental Bachelor:</em> A perfect vessel</a></li>
                     
-                      <li><a href="/news/2012/nov/28/stringers-sweetwater-university-open-soon/">Sweetwater University to “Open” Soon?</a></li>
+                      <li><a href="/news/2013/jun/13/stringers-chula-vista-police-chief-bejarano-/">Chula Vista police chief Bejarano to home in on crime spot</a></li>
                     
-                      <li><a href="/news/2012/nov/30/stringers-oceanside-code-enforcement-fines-/">Oceanside Code Enforcement Fines Homeowner</a></li>
+                      <li><a href="/news/2013/jun/14/stringers-border-patrol-reports-bands-/">Border Patrol reports bands of Gypsies crossing from Mexico</a></li>
                     
-                      <li><a href="/news/2012/nov/30/stringers-harsh-words-rv-driver-liberty-station/">Harsh Words for RV Driver at Liberty Station</a></li>
+                      <li><a href="/news/2013/jun/02/stringers-sweetwater-scandal-ed-brands-/">Sweetwater scandal: Ed Brand’s claims contradicted </a></li>
                     
-                      <li><a href="/news/2012/nov/03/stringers-former-charger-seeks-seat-/">Former Charger Seeks Seat on Sweetwater Schools Board</a></li>
+                      <li><a href="/news/2013/jun/12/feature-del-mar-cat-fight/">Del Mar cat fight</a></li>
                     
                   </ul>
                 </div>
@@ -458,17 +463,17 @@
                 <div>
                   <ul>
                     
-                      <li><a href="/weblogs/feast/2012/dec/03/authentic-japanese-old-town/">Authentic Japanese in Old Town</a></li>
+                      <li><a href="/weblogs/news-ticker/2013/jun/13/marriott-wants-fat-subsidy-to-keep-tony-robbins-se/">Marriott wants fat subsidy to keep Tony Robbins seminar in Palm Desert</a></li>
                     
-                      <li><a href="/weblogs/news-ticker/2012/nov/23/sdsu-crime-abounds/">SDSU: crime abounds</a></li>
+                      <li><a href="/weblogs/news-ticker/2013/jun/10/for-profit-colleges-exploit-african-americans/">For-profit colleges exploit African-Americans</a></li>
                     
-                      <li><a href="/weblogs/news-ticker/2012/dec/03/dumanis-joins-filner-in-pleading-for-post-election/">Dumanis plea for post-election campaign cash</a></li>
+                      <li><a href="/weblogs/big-screen/2013/jun/13/someone-spank-crybabies-lucas-spielberg-and-send-t/">Someone spank crybabies Lucas &amp; Spielberg and send them to bed without their suppers</a></li>
                     
-                      <li><a href="/weblogs/news-ticker/2012/nov/08/soaring-fuel-prices-for-police-and-fire-department/">Soaring fuel prices for police and fire department helicopters. City to spend $5.48 million over 5 years</a></li>
+                      <li><a href="/weblogs/big-screen/2013/jun/14/emblockbuster-or-the-modern-prometheusem/"><em>Blockbuster, or, The Modern Prometheus</em></a></li>
                     
-                      <li><a href="/weblogs/feast/2012/dec/03/cocktail-cotija-and-corn/">Cocktail, Cotija and Corn</a></li>
+                      <li><a href="/weblogs/big-screen/2013/jun/14/happy-flag-day/">Happy Flag Day!</a></li>
                     
-                      <li><a href="/weblogs/big-screen/2012/nov/24/dig-a-hole-larry-hagman/">Dig a hole: Larry Hagman</a></li>
+                      <li><a href="/weblogs/big-screen/2013/jun/14/hey-everybody-its-subway-sam/">Hey, everybody, it's Subway Sam!</a></li>
                     
                   </ul>
                 </div>
@@ -484,8 +489,105 @@
               </div>
             </div>
           
-
           
+          
+          
+          
+            
+              <div class="section_wrapper polls">
+                <h2><a href="/polls/">Reader Poll</a></h2>
+                <h3><a href="/polls/2013/may/which-these-wars-was-justified/">Which of these wars was justified?</a></h3>
+                  <div class="poll_results">
+                    
+                      <div class="choice">
+                        <h4 class="choice_title">Civil War
+                        <span class="total">62 votes</span>
+                        </h4>
+                        <span class="bar" title="21" style="width:21%">
+                          <span class="percent">21.1%</span>
+                        </span>
+                      </div>
+                    
+                      <div class="choice">
+                        <h4 class="choice_title">Spanish-American War
+                        <span class="total">13 votes</span>
+                        </h4>
+                        <span class="bar" title="4" style="width:4%">
+                          <span class="percent">4.4%</span>
+                        </span>
+                      </div>
+                    
+                      <div class="choice">
+                        <h4 class="choice_title">World War I
+                        <span class="total">40 votes</span>
+                        </h4>
+                        <span class="bar" title="14" style="width:14%">
+                          <span class="percent">13.6%</span>
+                        </span>
+                      </div>
+                    
+                      <div class="choice">
+                        <h4 class="choice_title">World War II
+                        <span class="total">98 votes</span>
+                        </h4>
+                        <span class="bar" title="33" style="width:33%">
+                          <span class="percent">33.3%</span>
+                        </span>
+                      </div>
+                    
+                      <div class="choice">
+                        <h4 class="choice_title">Vietnam
+                        <span class="total">8 votes</span>
+                        </h4>
+                        <span class="bar" title="3" style="width:3%">
+                          <span class="percent">2.7%</span>
+                        </span>
+                      </div>
+                    
+                      <div class="choice">
+                        <h4 class="choice_title">Iraq
+                        <span class="total">9 votes</span>
+                        </h4>
+                        <span class="bar" title="3" style="width:3%">
+                          <span class="percent">3.1%</span>
+                        </span>
+                      </div>
+                    
+                      <div class="choice">
+                        <h4 class="choice_title">Afghanistan
+                        <span class="total">19 votes</span>
+                        </h4>
+                        <span class="bar" title="6" style="width:6%">
+                          <span class="percent">6.5%</span>
+                        </span>
+                      </div>
+                    
+                      <div class="choice">
+                        <h4 class="choice_title">All of the above
+                        <span class="total">10 votes</span>
+                        </h4>
+                        <span class="bar" title="3" style="width:3%">
+                          <span class="percent">3.4%</span>
+                        </span>
+                      </div>
+                    
+                      <div class="choice">
+                        <h4 class="choice_title">War is never justified
+                        <span class="total">35 votes</span>
+                        </h4>
+                        <span class="bar" title="12" style="width:12%">
+                          <span class="percent">11.9%</span>
+                        </span>
+                      </div>
+                    
+                 </div>
+                 <a href="/polls/2013/may/which-these-wars-was-justified/" class="button">Vote</a> or <a href="/polls/">see all polls</a>
+              </div>
+            
+          
+          
+
+        
         
       </div>
       
@@ -497,49 +599,70 @@
         
           <ul class="sub">
             <li><a href="/">Home</a></li>
-            <li><a href="/contact/">About</a></li>
+            <li><a href="/about/">About</a></li>
             <li><a href="/contact/">Contact Us</a></li>
             <li><a href="/site-map/">Site Map</a></li>
             <li><a href="/privacy/">Privacy Policy</a></li>
             <li><a href="/terms/">Terms of Use</a></li>
             <li><a href="/advertise/">Advertise With Us</a></li>
-            <li><a href="http://www.voicemediagroup.com/">National Advertising</a></li>
-            <li><a href="/digital-edition/" target="_new">Digital Edition</a></li>
+            <li><a href="http://vmgadvertising.com/">National Advertising</a></li>
+            <li><a href="/videos/">Videos</a></li>
+            <li><a href="/archives/">Digital Edition</a></li>
           </ul>
-          <div class="categories">
+         <div class="categories">
             <ul>
+              <li><h5>ARTICLES | FEATURES</h5></li>
+              <li><a href="/archives/">Archives</a></li>
               <li><a href="/staff/">Authors &amp; contributors</a></li>
-              <li><a href="/bands/search/">Bands &amp; musicians</a></li>
-              <li><a href="/news/#find-story-by-category">Columns &amp; features</a></li>
+              <li><a href="/weblogs/">Blogs</a></li>
               <li><a href="/comics/">Comic strips</a></li>
-            </ul>
-            <ul>
-              <li><a href="/comments/">Comments</a></li>
-              <li><a href="/music/shows/">Concerts &amp; music listings</a></li>
               <li><a href="/news/cover-stories">Cover stories</a></li>
-              <li><a href="/events/all/">Event listings
-            </a></li></ul><a href="/events/all/">
-            </a><ul><a href="/events/all/">
-              </a><li><a href="/events/all/"></a><a href="/specials/">Happy hour specials</a></li>
-              <li><a href="/movies/listings/">Movie showtimes</a></li>
-              <li><a href="/legal-guide/">Legal Guide</a></li>
-              <li><a href="/letters/">Letters to the editor</a></li><li>
-            </li></ul>
-            <ul>
-              <li><a href="/alerts/">Email alerts</a></li>
-              <li><a href="/newsletters/">Newsletters</a></li>
-              <li><a href="/archives/">Past issues</a></li>
-              <li><a href="/rss/">RSS feeds</a></li>
+              <li><a href="/stringers">Neighborhood News</a></li>
+              <li><a href="/weblogs/news-ticker">News Ticker</a></li>
+              <li><a href="/news/#find-story-by-category">See all features</a></li>
             </ul>
             <ul>
+              <li><h5><a href="/events/bestbets/">HAPPENINGS</a></h5></li>
+              <li><a href="/bands/search/">Bands &amp; musicians</a></li>
+              <li><a href="/bands/updates/">Breaking music news</a></li>
+              <li><a href="/music/shows/">Concerts &amp; music listings</a></li>
+              <li><a href="/events/search/">Event listings</a></li>
+              <li><a href="/weblogs/jam-session/">Jam Session</a></li>
+              <li><a href="weblogs/big-screen/">Movie blog</a></li>
+              <li><a href="/movies/listings/">Movie showtimes</a></li>
+              <li><a href="/weblogs/out-about/">Out &amp; About</a></li>
+            </ul>
+            <ul>
+              <li><h5><a href="/restaurants/">FOOD &amp; DRINK</a></h5></li>
+              <li><a href="/places/bars/all/">Bars &amp; clubs</a></li>
+              <li><a href="/news/drink-recipes/">Drink recipes</a></li>
+              <li><a href="/weblogs/feast/">Feast!</a></li>
+              <li><a href="/specials/">Happy hour specials</a></li>
+              <li><a href="/news/heres-deal">Here's the Deal</a></li>
+              <li><a href="/restaurants/">Restaurants</a></li>
+              <li><a href="/news/tin-fork/">Tin Fork</a></li>
+            </ul>
+            <ul>
+              <li><h5>STAY IN TOUCH</h5></li>
+              <li><a href="/alerts/">Alerts</a></li>
+              <li><a href="/comments/">Comments</a></li>
+              <li><a href="/contests/">Contests &amp; promotions</a></li>
+              <li><a href="/letters/">Letters to the editor</a></li><li>
+              </li><li><a href="/newsletters/">Newsletters</a></li>
+              <li><a href="/rss/">RSS feeds</a></li>
+              <li><a href="/feedback/">Site feedback</a></li>
+            </ul>
+            <ul>
+              <li><h5>READER</h5></li>
               <li><a href="http://readercity.com/">Reader City</a></li>
               <li><a href="http://readerjobs.com/">Reader Jobs</a></li>
+              <li><a href="/polls/">Reader Polls</a></li>
               <li><a href="http://readerrentals.com/">Reader Rentals</a></li>
-              <li><a href="/rewards/">Reader Rewards</a></li>
+              <li><a href="/legal-guide/">Legal Guide</a></li>
             </ul>
           </div>
-          <div class="legal">
-            <p>© 2012 San Diego Reader. All rights reserved. No part of this site may be reproduced without our written permission.</p>
+           <div class="legal">
+            <p>© 2013 San Diego Reader. All rights reserved. No part of this site may be reproduced without our written permission.</p>
           </div>
         
       </div>
