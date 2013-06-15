@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the webnots.com privacy policy that was archived on 2012-09-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120909145044id_/http%3A//googleadsense.weebly.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the webnots.com privacy policy that was archived on 2013-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130616003123id_/http%3A//www.webnots.com/privacy.html) for the most accurate reproduction.*
 
-# Privacy Policy of googleadsense.weebly.com - Make Money with Google AdSense
+# Privacy Policy - Webmaster Tutorials
 
 **Privacy Policy**  
 Thank you for visiting our web site. This privacy policy tells you how we use personal information collected at this site. Please read this privacy policy before using the site or submitting any personal information. By using the site, you are accepting the practices described in this privacy policy. These practices may be changed, but any changes will be posted and changes will only apply to activities and information on a going forward, not retroactive basis. You are encouraged to review the privacy policy whenever you visit the site to make sure that you understand how any personal information you provide will be used.  
@@ -17,10 +17,14 @@ Thank you for visiting our web site. This privacy policy tells you how we use pe
 Currently we do not use any cookies in this site. We may be using at any point of time in future by changing this privacy policy appropriately.   
   
 **Distribution of Information**  
-We may share information with governmental agencies or other companies assisting us in fraud prevention or investigation. We may do so when: (1) permitted or required by law; or, (2) trying to protect against or prevent actual or potential fraud or unauthorized transactions; or, (3) investigating fraud which has already taken place. The information is not provided to these companies for marketing purposes.   
+We may share information with governmental agencies or other companies assisting us in fraud prevention or investigation. We may do so when:   
+(1) permitted or required by law  
+(2) trying to protect against or prevent actual or potential fraud or unauthorized transactions  
+(3) investigating fraud which has already taken place. The information is not provided to these companies for marketing purposes.   
   
 **Commitment to Data Security**  
 Your personally identifiable information is kept secure. Only authorized employees, agents and contractors (who have agreed to keep information secure and confidential) have access to this information. All emails and newsletters from this site allow you to opt out of further mailings.   
   
 **Privacy Contact Information**  
-If you have any questions, concerns, or comments about our privacy policy you may **[Contact us](https://web.archive.org/contact-us.html)** with your query or suggestion.
+If you have any questions, concerns, or comments about our privacy policy you may **[Contact us](https://web.archive.org/)** with your query or suggestion. Alternatively you can drop a mail to [contact@webnots.com](mailto:contact@webnots.com).  
+
