@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fox17.com privacy policy that was archived on 2012-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121227041047id_/http%3A//fox17.com/sections/station/legal/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fox17.com privacy policy that was archived on 2013-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130615115725id_/http%3A//fox17.com/sections/station/legal/privacy.shtml) for the most accurate reproduction.*
 
 # WZTV FOX17 :: Privacy Policy
 
@@ -30,17 +30,13 @@ All personal information collected by this Website may be disclosed as required 
 
 The Website allows certain advertisements/postings which include links to other sites. The Station has no control over such other sites and is not responsible for any content on such linked sites or for the use by such other sites of any information collected by those sites.
 
-5:00PM The Simpsons
+6:00PM MLB ON FOX
 
-5:30PM King of the Hill
+9:00PM FOX17 News at 9:00
 
-6:00PM Two and a Half Men
+10:00PM Hell's Kitchen
 
-6:30PM Two and a Half Men
-
-7:00PM Ben & Kate
-
-9:00PM FOX17 News at 9:00
+11:00PM Goddwin Games
 
 * * *
 
@@ -48,13 +44,13 @@ The Website allows certain advertisements/postings which include links to other 
 
 [To FOX.com](http://www.fox.com/)
 
-34°
+62°
 
 [](https://web.archive.org/newsroom/wx/#iradar)
 
 ## Forecast
 
-The storm system that brought us snow showers today continues to work eastward.  However, with that low being so close to us the wind will continue ...
+High pressure will remain in control of Middle Tennessee and Southern KY through early Sunday.  This will mean wonderful weather with great temps and mostly clear skies.  On Sunday (Fathers Day) ...
 
 [](https://web.archive.org/newsroom/wx/)
 
