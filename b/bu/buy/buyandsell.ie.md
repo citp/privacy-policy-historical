@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the buyandsell.ie privacy policy that was archived on 2012-11-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121104022857id_/http%3A//www.buyandsell.ie/legal/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the buyandsell.ie privacy policy that was archived on 2013-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130615055814id_/http%3A//www.buyandsell.ie/legal/privacy_policy) for the most accurate reproduction.*
 
 # Buy and Sell anything in Ireland | Easy to use – BuyandSell.ie
 
@@ -34,7 +34,7 @@ While using this website, you may have the opportunity to send us information re
 
 ### Cookies
 
-Cookies are small data files that a website can use in order to recognise visitors who revisit a website so as to facilitate their ongoing access to and use of the website. Cookies are used by websites to store visitor's user settings and therefore most browsers are initially configured to accept cookies. Typically, cookies involve the assigning of a unique number to the visitor. You should be aware that BuyandSell is unable to control the use of cookies or the resulting information by other third parties such as advertisers or parties hosting data for BuyandSell. One simple way to prevent the use of cookies is to activate the facility which is available in most web browsers that enables a user to deny or accept cookies. However, you should realise that certain cookies may be necessary in order to provide you with certain features such as the customised delivery of certain information.
+Cookies are small data files that a website can use in order to recognise visitors who revisit a website so as to facilitate their ongoing access to and use of the website. Cookies are used by websites to store visitor's user settings and therefore most browsers are initially configured to accept cookies. Typically, cookies involve the assigning of a unique number to the visitor. You should be aware that BuyandSell is unable to control the use of cookies or the resulting information by other third parties such as advertisers or parties hosting data for BuyandSell. One simple way to prevent the use of cookies is to activate the facility which is available in most web browsers that enables a user to deny or accept cookies. However, you should realise that certain cookies may be necessary in order to provide you with certain features such as the customised delivery of certain information. Further information can be found by clicking [here](https://web.archive.org/legal/privacy_policy/cookies)
 
 ### Disclaimer
 
@@ -43,3 +43,13 @@ Buyandsell, its directors, employees, servants and agents, affiliates or other r
 ### Amendments
 
 BuyandSell reserves the right in its sole discretion to amend this privacy policy at any time, and you should regularly check this privacy policy for any amendments.
+
+**Congratulations** close
+
+### Your Voucher has been accepted. Your Ad will be live within 15 minutes.
+
+You will receive an email in the next 15 minutes, confirming that your Ad is live on BuyandSell.ie If you have not received your confirmation within this time, please check your spam filter.   
+To avoid messages reaching spam in the future, you should add   
+[noreply@buyandsell.ie](mailto:noreply@buyandsell.ie) to your address book. 
+
+If you have any queries about how we proof ads, please contact our support team
