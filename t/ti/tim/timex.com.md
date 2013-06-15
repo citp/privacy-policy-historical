@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the timex.com privacy policy that was archived on 2012-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121115233256id_/http%3A//www.timex.com/info/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the timex.com privacy policy that was archived on 2013-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130615125821id_/http%3A//www.timex.com/info/privacy-statement) for the most accurate reproduction.*
 
-# Privacy Statement | TIMEX
+# Privacy Statement | Timex
 
 Timex.com, Inc. believes that you, as our online visitor, have the right to know our practices regarding any information we might collect when you visit our website. 
 
