@@ -1,22 +1,21 @@
-> *The following text is extracted and transformed from the first-utility.com privacy policy that was archived on 2012-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120613182415id_/http%3A//www.first-utility.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the first-utility.com privacy policy that was archived on 2013-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130615043749id_/http%3A//www.first-utility.com/privacy) for the most accurate reproduction.*
 
-# Privacy | First Utility
+# Privacy
 
 ###  Privacy policy
 
 First Utility Limited ("We" "Us" or "Our") takes your privacy seriously. This Privacy Policy explains the steps we take to ensure information about you is kept secure and confidential.
 
 Please read this Privacy Policy carefully. Once you use this web site or our services available via it you will be deemed to have read and consented to the uses of your personal data set out in this Privacy Policy. You will also be deemed to have read and accepted this Privacy Policy and the Web Site Terms and Conditions of use.  
-If you are a customer of first:utility, you have indicated through the registration process that you have read and accepted the service terms and conditions, detailed on this website and this Privacy Policy. You must not use Our Web Site or any services available via it if you do not accept this Privacy Policy, the Web Site and service Terms and Conditions.  
- 
+If you are a customer of first:utility, you have indicated through the registration process that you have read and accepted the service terms and conditions, detailed on this website and this Privacy Policy. You must not use Our Web Site or any services available via it if you do not accept this Privacy Policy, the Web Site and service Terms and Conditions.
 
 **1\. Your details: What we hold and the purposes for which information is used**
 
 **_(A) What we hold_**
 
-We collect information about you from a number of sources in order to provide you with services that you have selected from us. These sources may include:
+We collect information about you from a number of sources in order to provide you with our services. These sources may include:
 
-1.  Details we require from you when you first open an account with Us including information from your previous supplier and credit reference agencies.
+1.  Details we require from you in order to open an account for you including information from your previous supplier and credit reference agencies.
 
 This information may include information about meter readings, meter type, outstanding payments and debt recovery.
 
@@ -62,7 +61,7 @@ We use this information for a number of purposes such as:
 
 **2\. Passing on your details**
 
-2.1 We will only pass on personal information about you to third parties to enable us to provide the services requested by you or with your prior consent. Once you have given consent you can, at any time, ask us and any relevant third parties to cease passing on your personal information and we/they will cease providing such services to you.
+2.1 We will only pass on personal information about you to third parties to enable us to provide our services or with your prior consent. Once you have given consent you can, at any time, ask us and any relevant third parties to cease passing on your personal information and we/they will cease providing such services to you.
 
 2.2 We may disclose information about you if necessary as a result of you breaching this Privacy Policy, the Web Site Terms and Conditions or applicable law. We may also disclose your details if required to do so by law or requested to do so by any Governmental or law enforcement agency.
 
@@ -102,7 +101,7 @@ b)    Email cookies which are set on your computer by an email from first:uti
 
 c)    Third party cookies that are used by our sales partners, affiliate network or our online advertising supplier.
 
-d)    In addition any visitor that has clicked on a First Utility advertisement on another website that links to [www.first-utility.com](http://www.first-utility.com/ "www.first-utility.com") will be sent anonymous cookies that will allow us to analyse advertising effectiveness.
+d)    In addition any visitor that has clicked on a First Utility advertisement on another website that links to www.first-utility.com will be sent anonymous cookies that will allow us to analyse advertising effectiveness.
 
 If you delete your cookies, some features of our website such as remembering your login details will not function as a result. You may at any time request us to stop using cookies by contacting us at _customer.service@first-utility.com_.
 
