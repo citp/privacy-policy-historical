@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the clarks.co.uk privacy policy that was archived on 2012-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121101150037id_/http%3A//www.clarks.co.uk/PrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the clarks.co.uk privacy policy that was archived on 2013-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130616013245id_/http%3A//www.clarks.co.uk/PrivacyPolicy) for the most accurate reproduction.*
 
 # Clarks Online - Clarks Privacy Policy - How We Use Your Data
 
@@ -7,7 +7,7 @@
 
 ## How we use your information
 
-Clarks never make your personal details available to any other company for marketing purposes. Clarks (and our representatives) may hold your personal details in order to process your order and maintain your account for research purposes.
+Clarks never make your personal details available to any other company for marketing purposes. Clarks (and our representatives) may hold your personal details in order to process your order and maintain your account for research purposes. If you order with us we store and send you the details of your order as well as our general terms via email. You can find the terms [here](https://web.archive.org/TermsandConditions) at all times. The details about your recent orders can be found in your My Account page once you have logged in.
 
   
 
@@ -20,7 +20,13 @@ We maintain an order history of your purchase(s), which allows you and us to tra
 
 We currently plan on keeping all consumer data until we have completed a review and developed plans for its archiving, deletion or depersonalisation. This review will be complete within 12-18 months.
 
-The data that we collect from you may be transferred, processed and stored at a destination outside the European Economic Area ("EEA"). By submitting your personal details, you agree to this transfer, storing or processing.
+The data that we collect from you may be transferred, processed and stored at a destination outside the European Economic Area ("EEA").
+
+If you have opted in to receive emails from Clarks your data will be transferred and stored by Alterian in USA. By submitting your personal details you agree to this transfer, storing and processing.
+
+We collect data from your browsing behaviour on our website. No personal data is transferred or stored by Coremetrics in USA.
+
+We collect marketing and website purchase data through Tagman, a tracking and analytics supplier in USA that help us improve our marketing campaigns.
 
 We do not store any payment details. Once you have entered your payment details into the site we will use them for the transaction they have been entered for and that transaction only. 
 
