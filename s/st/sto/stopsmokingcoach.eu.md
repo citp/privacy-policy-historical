@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the stopsmokingcoach.eu privacy policy that was archived on 2012-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121203145147id_/http%3A//stopsmokingcoach.eu/infopopup.ashx%3Falias%3Dpublic_privacy_policy%26TB_iframe%3Dtrue%26width%3D510%26height%3D400) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stopsmokingcoach.eu privacy policy that was archived on 2013-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130615051158id_/http%3A//stopsmokingcoach.eu/infopopup.ashx%3Falias%3Dpublic_privacy_policy%26TB_iframe%3Dtrue%26width%3D510%26height%3D400) for the most accurate reproduction.*
 
 # i change
 
