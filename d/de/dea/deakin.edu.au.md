@@ -1,8 +1,9 @@
-> *The following text is extracted and transformed from the deakin.edu.au privacy policy that was archived on 2012-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121113123313id_/http%3A//deakin.edu.au/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the deakin.edu.au privacy policy that was archived on 2013-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130615094535id_/http%3A//www.deakin.edu.au/privacy) for the most accurate reproduction.*
 
 # Deakin University Privacy Statement
 
-Deakin University respects the privacy of users of its website and complies with the _Information Privacy Act 2000_ (Vic).
+Deakin University respects the privacy of users of its website and complies with the _Information Privacy Act 2000_ (Vic).   
+
 
 ### Collecting information about users of the website
 
