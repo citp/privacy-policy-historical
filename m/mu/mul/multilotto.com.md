@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the multilotto.com privacy policy that was archived on 2012-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120625184717id_/http%3A//www.multilotto.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the multilotto.com privacy policy that was archived on 2013-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130615062947id_/http%3A//www.multilotto.com/en/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Multilotto.com
+# Privacy Policy
+
+## Privacy Policy
 
 MULTILOTTO.COM (the website and brand), hereinafter referred to as ‘MULTILOTTO is owned and operated by MULTI BIZ HOLDINGS LTD. MULTILOTTO is committed to ensuring that European Union legislation on data protection is observed during all stages of processing. We want to ensure that as our customer you feel safe in the knowledge that we shall treat all your personal data as highly confidential. Please take the time to read our Privacy Policy carefully. 
 
