@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the isidewith.com privacy policy that was archived on 2012-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121105223126id_/http%3A//www.isidewith.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the isidewith.com privacy policy that was archived on 2013-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130615075012id_/http%3A//www.isidewith.com/privacy-policy) for the most accurate reproduction.*
 
 # iSideWith - Which candidate do you side with in 2012?
 
