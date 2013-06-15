@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the iec.ch privacy policy that was archived on 2012-11-29.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121129111727id_/http%3A//www.iec.ch/about/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the iec.ch privacy policy that was archived on 2013-06-15.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130615235942id_/http%3A//www.iec.ch/about/privacy/%3Fref%3Dfooter) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" dir="ltr" lang="EN" id="iec-ch"><!-- #BeginTemplate "/Templates/content_0levels.dwt" --><!-- DW6 --><head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
@@ -17,11 +17,12 @@
     <meta name="robots" content="index, follow">
     <link rel="shortcut icon" type="image/x-icon" href="/img/favicon.ico">
     <!-- CSS -->
-    <link href="/css/generals.css" rel="stylesheet" type="text/css">
-    <link href="/css/iec-template.css" rel="stylesheet" type="text/css">
-    <link href="/css/iec-contents.css" rel="stylesheet" type="text/css">
+    <link href="/css/generals.css?ver=2" rel="stylesheet" type="text/css">
+    <link href="/css/iec-template.css?ver=2.3" rel="stylesheet" type="text/css">
+    <link href="/css/iec-contents.css?ver=2.2" rel="stylesheet" type="text/css">
     <link href="/css/search_btn_style.css" rel="stylesheet" type="text/css">
     <link href="/css/search_boxform.css" rel="stylesheet" type="text/css">
+ 	<link rel="stylesheet" href="/css/fancybox/jquery.fancybox-1.3.4.css?ver=2" type="text/css" media="screen"> 
     <!--[if lte IE 6]> <link href="/css/iec-template-ie6.css" rel="stylesheet" type="text/css" /> <![endif]-->
     <!-- JS -->
     <script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script src="/js/multi-column.js" type="text/javascript"></script> 
@@ -33,34 +34,34 @@
     <script type="text/javascript" src="/js/smartsuggest/qs_score.js"></script>	  
     <!-- JS for APEX AJAX Sort -->
     <script src="/resources/jscript/ajax.js" language="JavaScript1.2" type="text/javascript"></script>
-    <!-- Font sizer -->
-    <script src="/js/dw_event.js" type="text/javascript"></script>
-    <script src="/js/dw_cookies.js" type="text/javascript"></script>
-    <script src="/js/dw_sizerdx.js" type="text/javascript"></script>   
-    <script type="text/javascript">
-        // setDefaults arguments: size unit, default size, minimum, maximum
-        // optional array of elements or selectors to apply these defaults to
-        dw_fontSizerDX.setDefaults( "px", 12, 9, 18, ['*'] );
-        // set arguments: default size, minimum, maximum
-        // array of elements or selectors to apply these settings to
-        dw_fontSizerDX.set(10, 10, 10, ['input'] );
-        dw_fontSizerDX.set(11, 11, 11, ['.top-tools-mid*', '.top-tools-right*', '.Top-Section *', '.top-snav a'] );
-        dw_fontSizerDX.set(12, 12, 12, ['.news-nav *', '.footer *', '.advertisement .stitle', '.advertisement-nav a', '.dash-subnav a', '.People *' ] );
-        dw_fontSizerDX.set(14, 14, 14, ['.contentheading *'] );
-        dw_fontSizerDX.set(12, 12, 13, ['.txt-left p'] );
-        dw_fontSizerDX.set(12, 12, 15, ['.txt-right p'] );
-        dw_fontSizerDX.set(15, 15, 15, ['.advertisement .title' ] );
-        dw_fontSizerDX.set(17, 17, 17, ['.Top-Section h1', '.scope-title' ] );
-        dw_fontSizerDX.set(35, 35, 40, ['.Dashboard h1'] );
-        dw_fontSizerDX.set(16, 16, 20, ['.Dashboard h2'] );
-        dw_fontSizerDX.set(26, 26, 26, ['h1.BigGreyTitle'] );
-        dw_fontSizerDX.set(24, 24, 24, ['.ProfileContent h1', 'h1.smaller'] );
-        dw_fontSizerDX.set(12, 12, 15, ['.dash-nav a', '.dash-nav *'] );
-        dw_fontSizerDX.set(11, 10, 17, ['.dashlist td', '.dashlist td *', '.dashlist *' ] );
-        dw_fontSizerDX.set(12, 12, 12, ['.Main-container-Standard .dashlist th .title', '.Main-container-Standard .dashlist th .title2lines', '.Main-container-Standard .dashlist th *' ] );
-        dw_Event.add( window, 'load', dw_fontSizerDX.init );
-    </script>
-<!-- END OF HEAD -->
+    <!-- JS FANCYBOX -->
+    <script type="text/javascript" src="/js/jquery.fancybox-1.3.4.pack.js"></script>
+<!-- END OF HEAD -->   
+<!--  FEEDBACK FORM -->		
+    <!-- Loading Feedback CSS File --> <link rel="stylesheet" href="/css/feedback/feedback.css" type="text/css">         
+    <script type="text/javascript" charset="utf-8"> 
+     $(document).ready(function(){
+	 var divTag = document.createElement("div"); 
+	 divTag.id = "divFeedback";
+	 //divTag.innerHTML = '<ul><li class="btn-inner" id="idFeeback" href="http://tstdom2.iec.ch/iec/feedback.nsf/fd.xsp"></li></ul>';
+	 //divTag.innerHTML = '<ul><li id="idFeeback"> <a class="myButton" href="http://tstdom2.iec.ch/iec/feedback.nsf/fd.xsp"><span><img src="/img/feedback-btn-ico.png" alt="get support"></span>Support</a> </li></ul>';
+	 //divTag.innerHTML = '<ul><li id="idFeeback" class="myButton" href="/_feedback-form_J.htm"> <span><img src="/img/feedback-btn-ico_lgrey.png" width="34" height="21" alt=""></span>Feedback </li></ul>';
+	 document.body.appendChild(divTag);   
+	 });
+	 /////////////
+	 $(document).ready(function(){
+	 $("#idFeeback").fancybox({
+	   'padding' : 0,
+	   'type' : 'iframe',
+	   'width' : 330,
+	   'height' : 520,
+	   'scrolling' : 'no',
+	   'overlayColor' : '#000',
+	   'overlayOpacity' : 0.7
+	  });
+	  });
+    </script> 
+<!--  END FEEDBACK FORM -->	
 <!-- #EndEditable -->
 </head>
 <body onload="getHash('dashsub');">
@@ -68,15 +69,15 @@
   <!-- ................................ start TOP div .......................................... -->
   <div class="Top-Section">
   <!-- #BeginEditable "INCLUDE_TOP-BANNER" -->  
-  <script type="text/javascript">
+  <!-- <script type="text/javascript">
 getCurrentLayout();
-</script>
+</script> -->
 <a name="top" href="javascript:;"></a>
 <!-- anchor back to top -->
 <div class="Top">
   <div class="Top-right"></div>
   <div class="Top-left"></div>
-  <div class="logolink"><a href="/index.htm" title="Back to homepage"><img src="/img/logo.jpg" alt=" Button back to homepage" title="Button back to homepage"></a>
+  <div class="logolink"><a href="/index.htm" title="Back to homepage"><img src="/img/logo.gif" alt=" Button back to homepage" title="Button back to homepage"></a>
     <h1>International</h1>
     <h1>Electrotechnical</h1>
     <h1>Commission</h1>
@@ -88,13 +89,14 @@ getCurrentLayout();
 <!--       <li><a class="basket" href="javascript:;"></a> </li> -->
     </li></ul>
   </div><!-- end top-tools-mid -->
-  <div class="top-tools-right">
+  <div class="top-tools-right" style="width:441px;">
     <ul>
-      <li><a class="faq" href="/faq"></a><span class="spacer"></span></li>
-      <li><a class="sitemap" href="/sitemap"></a> <span class="spacer"></span> </li>
-      <li><a class="contact" href="/about/contactus"></a> <span class="spacer"></span></li>
-      <li><a class="rss" href="/subscribe"></a><!-- <span class="spacer"></span> --></li>
-	  <!--<li><a class="login" href="javascript:;"></a></li> -->
+	  <li><a class="myiec2" href="/dyn/www/f?p=103:197:0##ref=toplinks" onclick="_gaq.push(['_trackEvent', 'Header', 'Buttons', 'myIEC']);"></a> <span class="spacer"></span></li>
+      <li><a class="subscribe2" href="/subscribe/?ref=toplinks"></a> <span class="spacer"></span> </li>
+      <li><a class="sitemap2" href="/sitemap/?ref=toplinks"></a> <span class="spacer"></span> </li>
+      <li><a class="faq2" href="/faq/?ref=toplinks"></a><span class="spacer"></span></li>
+      <li><a class="contact2" href="/about/contactus/?ref=toplinks"></a> <span class="spacer"></span></li>
+	  <li><a class="feedback2" id="idFeeback" href="http://tstdom2.iec.ch/iec/feedback.nsf/fd.xsp"></a></li>
     </ul>
   </div><!-- end top-tools-right -->
   <div class="Iec-headlines">International Standards and Conformity Assessment
@@ -107,10 +109,10 @@ getCurrentLayout();
 	  <!-- #BeginEditable "INCLUDE_NAV-FIRST" -->
       <div class="top-nav-section">
   <div class="topnav">
-    <div class="lvl-first" style="width:580px !important;">
+    <div class="lvl-first" style="width:710px !important;">
       <ul>  <!-- to highlight a 1rst level item, simply add [class="on"] on "a" tag. Idem for 2nd nav items -->
         <li>
-            <a id="tnav1" href="/perspectives/" onmouseover="CacheTout('nav', 1);DivStatus('nav','1', 1);" onmousedown="CacheTout('nav', 1);">
+            <a id="tnav1" href="/perspectives/?ref=menu" onmouseover="CacheTout('nav', 1);DivStatus('nav','1', 1);" onmousedown="CacheTout('nav', 1);">
                 <span class="l1-left"></span>
                 <span class="l1-mid">You &amp;<br>the IEC<br></span>
                 <span class="l1-right"></span>
@@ -119,7 +121,7 @@ getCurrentLayout();
         </li>
         
         <li>
-        	<a id="tnav2" href="/about/" onmouseover="CacheTout('nav', 1);DivStatus('nav','2', 1);" onmousedown="CacheTout('nav', 1);">
+        	<a id="tnav2" href="/about/?ref=menu" onmouseover="CacheTout('nav', 1);DivStatus('nav','2', 1);" onmousedown="CacheTout('nav', 1);">
                 <span class="l1-left"></span>
                 <span class="l1-mid">About<br>the IEC</span>
                 <span class="l1-right"></span>
@@ -128,7 +130,7 @@ getCurrentLayout();
         </li>
        
         <li>
-        	<a id="tnav3" href="/news/" onmouseover="CacheTout('nav', 1);DivStatus('nav','3', 1);" onmousedown="CacheTout('nav', 1);">
+        	<a id="tnav3" href="/news/?ref=menu" onmouseover="CacheTout('nav', 1);DivStatus('nav','3', 1);" onmousedown="CacheTout('nav', 1);">
             <span class="l1-left"></span>
             <span class="l1-mid">News<br>&amp; views</span>
             <span class="l1-right"></span>
@@ -137,7 +139,7 @@ getCurrentLayout();
         </li>
         
         <li>
-        	<a id="tnav4" href="/standardsdev/" onmouseover="CacheTout('nav', 1);DivStatus('nav','4', 1);" onmousedown="CacheTout('nav', 1);">
+        	<a id="tnav4" href="/standardsdev/?ref=menu" onmouseover="CacheTout('nav', 1);DivStatus('nav','4', 1);" onmousedown="CacheTout('nav', 1);">
                 <span class="l1-left"></span>
                 <span class="l1-mid">Standards<br>development</span>
                 <span class="l1-right"></span>
@@ -146,7 +148,7 @@ getCurrentLayout();
 		</li>
         
         <li>
-            <a id="tnav5" href="/conformity/" onmouseover="CacheTout('nav', 1);DivStatus('nav','5', 1);" onmousedown="CacheTout('nav', 1);">
+            <a id="tnav5" href="/conformity/?ref=menu" onmouseover="CacheTout('nav', 1);DivStatus('nav','5', 1);" onmousedown="CacheTout('nav', 1);">
                 <span class="l1-left"></span>
                 <span class="l1-mid">Conformity<br>assessment</span>
                 <span class="l1-right"></span>
@@ -155,16 +157,24 @@ getCurrentLayout();
         </li>
         
         <li>
-            <a id="tnav6" href="/members_experts/" onmouseover="CacheTout('nav', 1);DivStatus('nav','6', 1);" onmousedown="CacheTout('nav', 1);">
+            <a id="tnav6" href="/members_experts/?ref=menu" onmouseover="CacheTout('nav', 1);DivStatus('nav','6', 1);" onmousedown="CacheTout('nav', 1);">
                 <span class="l1-left"></span>
-                <span class="l1-mid">Members<br>&amp; Experts</span>
+                <span class="l1-mid">Members<br>&amp; experts</span>
                 <span class="l1-right"></span>
             </a>
             <span class="spacer"></span>
         </li>
-        
+
         <li>
-            <a style="line-height:25px;" id="tnav7" href="http://webstore.iec.ch" onmouseover="CacheTout('nav');DivStatus('nav','7', 1);" onmousedown="CacheTout('nav', 1);">
+            <a id="tnav7" href="/affiliates/?ref=menu" onmouseover="CacheTout('nav', 1);DivStatus('nav','7', 1);" onmousedown="CacheTout('nav', 1);">
+                <span class="l1-left"></span>
+                <span class="l1-mid">Developing<br>countries</span>
+                <span class="l1-right"></span>
+            </a>
+            <span class="spacer"></span>
+        </li>        
+        <li>
+            <a style="line-height:25px;" id="tnav8" href="http://webstore.iec.ch/?ref=menu" onmouseover="CacheTout('nav');DivStatus('nav','8', 1);" onmousedown="CacheTout('nav', 1);">
                 <span class="l1-left"></span>
                 <span class="l1-mid2">Webstore</span>
                 <span class="l1-right"></span>
@@ -245,24 +255,17 @@ getCurrentLayout();
           <ul>
             <li>
                 <span class="spacer"></span>
-                <a id="tnav8" href="/dyn/www/f?p=103:99:0::::FSP_LANG_ID:25" onmouseover="CacheTout('nav', 1);DivStatus('nav','8', 1);" onmousedown="CacheTout('nav', 1);">
+                <a id="tnav9" href="/dyn/www/f?p=103:99:0::::FSP_LANG_ID:25" onmouseover="CacheTout('nav', 1);DivStatus('nav','9', 1);" onmousedown="CacheTout('nav', 1);">
                     <span class="l1-left"></span>
-                    <span class="l1-mid">Advanced<br>Search</span>
+                    <span class="l1-mid">Advanced<br>search</span>
                     <span class="l1-right"></span>
                 </a>
-                <span class="spacer"></span>
             </li>
           </ul>
         </div>
       </div>  
     </div><!-- end top-nav-section --> 
-    <div class="top-tools-section" style="width:120px; float:left; margin-left:0px;"><!-- top tools section -->
-      <ul id="sizer" style="display: block;">
-        <li><a class="bt-fonts-minus decrease" href="#" title="Decrease text size"></a></li>
-        <li><a class="bt-fonts-plus increase" href="#" title="Increase text size"></a></li>
-        <li><a class="bt-fullscreen" onmousedown="switchLayout(); window.location.reload();" href="#" title="Fullscreen layout"></a></li>
-      </ul>
-    </div><!-- end top tools section -->		
+    <!-- end top tools section -->		
     <div class="clear" style="height:1px;"></div>
 <!-- END OF NAV-TOOLS -->
 	
@@ -276,78 +279,82 @@ getCurrentLayout();
     </ul>
     <ul class="cachediv" id="snav1">
       <!-- You & the IEC snav-->
-      <li><span class="spacer"></span><a href="/perspectives" title="What the IEC means to industry, governments and the public.">Your perspective on the IEC</a><span class="spacer"></span></li>
+      <li><span class="spacer"></span><a href="/perspectives/?ref=menu" title="What the IEC means to industry, governments and the public.">Your perspective on the IEC</a><span class="spacer"></span></li>
     </ul>
 	<ul class="cachediv" id="snav2">
       <!-- About the IEC snav-->
-      <li><span class="spacer"></span><a href="/about/globalreach" title="How the IEC serves industry, government and the public to foster trade &amp; development.">Global reach</a></li>
-      <li><span class="spacer"></span><a href="/about/values" title="Where the IEC stands on energy efficiency, climate change and more.">Our values</a></li>
-      <li><span class="spacer"></span><a href="/about/activities" title="Our products and services, and the technology covered.">What we do</a></li>
-      <li><span class="spacer"></span><a href="/dyn/www/f?p=103:63:0" title="Organigramme and management structure of the IEC.">Our structure</a></li>      
-      <li><span class="spacer"></span><a href="/about/profile" title="The 10 000 experts and more than 160 countries that make the IEC.">Who we are</a></li>
-      <li><span class="spacer"></span><a href="/about/locations" title="Where to find your local National Committee or IEC office.">Where we are</a><span class="spacer"></span></li>
+      <li><span class="spacer"></span><a href="/about/globalreach/?ref=menu" title="How the IEC serves industry, government and the public to foster trade &amp; development.">Global reach</a></li>
+      <li><span class="spacer"></span><a href="/about/values/?ref=menu" title="Where the IEC stands on energy efficiency, climate change and more.">Our values</a></li>
+      <li><span class="spacer"></span><a href="/about/activities/?ref=menu" title="Our products and services, and the technology covered.">What we do</a></li>
+      <li><span class="spacer"></span><a href="/dyn/www/f?p=103:63:0##ref=menu" title="Organigramme and management structure of the IEC.">Our structure</a></li>      
+      <li><span class="spacer"></span><a href="/about/profile/?ref=menu" title="The 10 000 experts and more than 160 countries that make the IEC.">Who we are</a></li>
+      <li><span class="spacer"></span><a href="/about/locations/?ref=menu" title="Where to find your local National Committee or IEC office.">Where we are</a><span class="spacer"></span></li>
     </ul>
     <ul class="cachediv" id="snav3">
       <!-- News and Views snav-->
-      <li><span class="spacer"></span><a href="/globalvisions" title="What CEOs from industry say about the IEC.">Global visions</a></li>
-      <li><span class="spacer"></span><a href="/etech" title="Monthly publication with updates on all aspects of the IEC.">e-tech magazine</a></li>
-      <li><span class="spacer"></span><a href="/newslog" title="Chronological updates on key developments for media and IEC experts.">News log</a></li>
-      <li><span class="spacer"></span><a href="/dyn/www/f?p=103:49:0" title="Full listing of technical, management meetings, General Meetings.">Meetings &amp; events</a><span class="spacer"></span></li>
+      <li><span class="spacer"></span><a href="/globalvisions/?ref=menu" title="What CEOs from industry say about the IEC.">Global visions</a></li>
+      <li><span class="spacer"></span><a href="/etech/?ref=menu" title="Monthly publication with updates on all aspects of the IEC.">e-tech magazine</a></li>
+      <li><span class="spacer"></span><a href="/newslog/?ref=menu" title="Chronological updates on key developments for media and IEC experts.">News log</a></li>
+      <li><span class="spacer"></span><a href="/dyn/www/f?p=103:49:0##ref=menu" title="Full listing of technical, management meetings, General Meetings.">Meetings &amp; events</a><span class="spacer"></span></li>
     </ul>
     <ul class="cachediv" id="snav4">
       <!-- Standards development snav-->
-      <li><span class="spacer"></span><a href="/dyn/www/f?p=103:6:0" title="Direct access to the dashboards of all IEC TC/SCs." style="height:28px !important; line-height:12px !important; padding-top:6px !important; padding-bottom:0px !important;">List of Technical<br>
+      <li><span class="spacer"></span><a href="/dyn/www/f?p=103:6:0##ref=menu" title="Direct access to the dashboards of all IEC TC/SCs." style="height:28px !important; line-height:12px !important; padding-top:6px !important; padding-bottom:0px !important;">List of Technical<br>
 		Committees (TC/SC)</a></li>
-      <li><span class="spacer"></span><a href="/standardsdev/publications" title="About our International Standards and other products.">Our publications</a></li>
-      <li><span class="spacer"></span><a href="/standardsdev/how" title="The consensus-finding process that leads to International Standards.">How we work</a></li>
-      <li><span class="spacer"></span><a href="/standardsdev/resources" title="Guidance and tools for the IEC technical community.">TC/SC resource area</a><span class="spacer"></span></li>
+      <li><span class="spacer"></span><a href="/standardsdev/publications/?ref=menu" title="About our International Standards and other products.">Our publications</a></li>
+      <li><span class="spacer"></span><a href="/standardsdev/how/?ref=menu" title="The consensus-finding process that leads to International Standards.">How we work</a></li>
+      <li><span class="spacer"></span><a href="/standardsdev/resources/?ref=menu" title="Guidance and tools for the IEC technical community.">TC/SC resource area</a><span class="spacer"></span></li>
     </ul>
     
       <!-- Conformity assessment snav-->
       <ul class="cachediv" id="snav5">
-      <li><span class="spacer"></span><a href="/conformity/what" title="What is CA? And why is it needed?">What we do</a></li>
-      <li><span class="spacer"></span><a href="/conformity/how" title="Policies and Standards, Processes and Procedures, for the CA community.">How we work</a></li>
-      <li><span class="spacer"></span><a href="/conformity/systems" title="Overview of the CA systems administered by the IEC.">Systems</a></li>
-      <li><span class="spacer"></span><a href="http://www.iecee.org/" title="Global 3rd party conformity assessment for electrotechnical equipment and components." target="_blank">IECEE</a></li>
-      <li><span class="spacer"></span><a href="http://www.iecex.com/" title="Global 3rd party conformity assessment for equipment used in Explosive atmospheres." target="_blank">IECEx</a></li>
-      <li><span class="spacer"></span><a href="http://www.iecq.org/" title="Global quality assessment system for electronic components." target="_blank">IECQ</a><span class="spacer"></span></li>
+      <li><span class="spacer"></span><a href="/conformity/what/?ref=menu" title="What is CA? And why is it needed?">What we do</a></li>
+      <li><span class="spacer"></span><a href="/conformity/how/?ref=menu" title="Policies and Standards, Processes and Procedures, for the CA community.">How we work</a></li>
+      <li><span class="spacer"></span><a href="/conformity/systems/?ref=menu" title="Overview of the CA systems administered by the IEC.">Systems</a></li>
+      <li><span class="spacer"></span><a href="http://www.iecee.org/?ref=menu" title="Global 3rd party conformity assessment for electrotechnical equipment and components." target="_blank">IECEE</a></li>
+      <li><span class="spacer"></span><a href="http://www.iecex.com/?ref=menu" title="Global 3rd party conformity assessment for equipment used in Explosive atmospheres." target="_blank">IECEx</a></li>
+      <li><span class="spacer"></span><a href="http://www.iecq.org/?ref=menu" title="Global quality assessment system for electronic components." target="_blank">IECQ</a><span class="spacer"></span></li>
     </ul>
     <ul class="cachediv" id="snav6">
       <!-- Members & Experts snav-->
-      <li><span class="spacer"></span><a href="/dyn/www/f?p=103:5:0" title="Direct access to the dashboards of all IEC NCs.">List of Members (NC)</a></li>
-      <li><span class="spacer"></span><a href="/members_experts/areas" title="For Management, NCs and TCs, SCs, WGs, Young Professionals, MNet.">Resource areas</a></li>
-      <li><span class="spacer"></span><a href="/members_experts/tools" title="Newdocs, Expert management system, Collaboration Tools, Voting etc.." style="height:28px !important; line-height:12px !important; padding-top:6px !important; padding-bottom:0px !important;">Tools and<br>
+      <li><span class="spacer"></span><a href="/dyn/www/f?p=103:5:0##ref=menu" title="Direct access to the dashboards of all IEC NCs.">List of Members (NC)</a></li>
+      <li><span class="spacer"></span><a href="/members_experts/areas/?ref=menu" title="For Management, NCs and TCs, SCs, WGs, Young Professionals, MNet.">Resource areas</a></li>
+      <li><span class="spacer"></span><a href="/members_experts/tools/?ref=menu" title="Newdocs, Expert management system, Collaboration Tools, Voting etc.." style="height:28px !important; line-height:12px !important; padding-top:6px !important; padding-bottom:0px !important;">Tools and<br>
 		applications</a></li>
-      <li><span class="spacer"></span><a href="/members_experts/refdocs" title="Links to the Directives, Masterplan, Statutes, ACs, Horizontal Standards, and more." style="height:28px !important; line-height:12px !important; padding-top:6px !important; padding-bottom:0px !important;">Reference <br>
+      <li><span class="spacer"></span><a href="/members_experts/refdocs/?ref=menu" title="Links to the Directives, Masterplan, Statutes, ACs, Horizontal Standards, and more." style="height:28px !important; line-height:12px !important; padding-top:6px !important; padding-bottom:0px !important;">Reference <br>
 		material</a><span class="spacer"></span></li>
-    </ul>    
+    </ul>
     <ul class="cachediv" id="snav7">
+      <!-- Affiliates snav-->
+      <li><span class="spacer"></span><a href="/affiliates/?ref=menu" title="Affiliate Country Programme">Affiliate Country Programme</a><span class="spacer"></span></li>
+    </ul>        
+    <ul class="cachediv" id="snav8">
       <!-- Webstore snav-->
-      <li><span class="spacer"></span><a href="http://webstore.iec.ch" title="Buy the IEC publication you need." target="_blank" style="height:28px !important; line-height:12px !important; padding-top:6px !important; padding-bottom:0px !important;">Search and buy <br>
+      <li><span class="spacer"></span><a href="http://webstore.iec.ch/?ref=menu" title="Buy the IEC publication you need." target="_blank" style="height:28px !important; line-height:12px !important; padding-top:6px !important; padding-bottom:0px !important;">Search and buy <br>
       IEC Standards</a><span class="spacer"></span></li>
-      <li><span class="spacer"></span><a href="http://webstore.iec.ch/justpublished" title="Consult the latest publications issued." target="_blank">Just Published</a><span class="spacer"></span></li>
-      <li><span class="spacer"></span><a href="http://webstore.iec.ch/webstore/webstore.nsf/frmtemplatefaq?OpenForm" title="Get help before and after you order." target="_blank" style="height:28px !important; line-height:12px !important; padding-top:6px !important; padding-bottom:0px !important;">Customer Service <br>
+      <li><span class="spacer"></span><a href="http://webstore.iec.ch/justpublished?ref=menu" title="Consult the latest publications issued." target="_blank">Just Published</a><span class="spacer"></span></li>
+      <li><span class="spacer"></span><a href="http://webstore.iec.ch/webstore/webstore.nsf/frmtemplatefaq?OpenForm##ref=menu" title="Get help before and after you order." target="_blank" style="height:28px !important; line-height:12px !important; padding-top:6px !important; padding-bottom:0px !important;">Customer Service <br>
 	Centre FAQs</a><span class="spacer"></span></li>
     </ul>
     
     
-    <ul class="cachediv" id="snav8" style="margin-left:-318px;">
+    <ul class="cachediv" id="snav9">
       <!-- Advanced search snav-->
       <li>
       <span class="spacer"></span>
-      <a href="/dyn/www/f?p=103:99:0::::FSP_LANG_ID:25" title="Find the dashboard of any NC, TC/SC, Management Committee and more..." style="height:28px !important; line-height:12px !important; padding-top:6px !important; padding-bottom:0px !important;">Dashboard <br>
+      <a href="/dyn/www/f?p=103:99:0::::FSP_LANG_ID:25##ref=menu" title="Find the dashboard of any NC, TC/SC, Management Committee and more..." style="height:28px !important; line-height:12px !important; padding-top:6px !important; padding-bottom:0px !important;">Dashboard <br>
 		Finder</a>
         </li>
         
       <li>
       <span class="spacer"></span>
-      <a href="/dyn/www/f?p=103:104:0::::FSP_LANG_ID:25" title="Find working documents, projects and work programmes (by keyword, date, reference, committee, etc.)." style="height:28px !important; line-height:12px !important; padding-top:6px !important; padding-bottom:0px !important;">Documents / Projects/<br>
+      <a href="/dyn/www/f?p=103:104:0::::FSP_LANG_ID:25##ref=menu" title="Find working documents, projects and work programmes (by keyword, date, reference, committee, etc.)." style="height:28px !important; line-height:12px !important; padding-top:6px !important; padding-bottom:0px !important;">Documents / Projects/<br>
 		Work Programme</a>
        </li>
        
       <li>
       <span class="spacer"></span>
-      <a href="/dyn/www/f?p=103:105:0::::FSP_LANG_ID:25" title="Find publications and work in progress (by keyword, date, reference, committee, etc.)." style="height:28px !important; line-height:12px !important; padding-top:6px !important; padding-bottom:0px !important;">Publications /<br>
+      <a href="/dyn/www/f?p=103:105:0::::FSP_LANG_ID:25##ref=menu" title="Find publications and work in progress (by keyword, date, reference, committee, etc.)." style="height:28px !important; line-height:12px !important; padding-top:6px !important; padding-bottom:0px !important;">Publications /<br>
 		Work in Progress</a>
         <span class="spacer"></span>
         </li>
@@ -439,23 +446,27 @@ getCurrentLayout();
 <div class="Footer">
     <div class="FooterTools">
         <!-- AddThis Button BEGIN -->
-        <div class="addthis_toolbox addthis_default_style ">
-            <a class="addthis_button_facebook" style="cursor:pointer"></a>
-            <a class="addthis_button_twitter" style="cursor:pointer"></a>
-            <a class="addthis_button_linkedin" style="cursor:pointer"></a>
+        <div class="addthis_toolbox addthis_default_style">
+		<a href="http://www.addthis.com/bookmark.php" class="addthis_button_compact" style="text-decoration:none;"> SHARE</a> 
             <span class="addthis_separator">|</span>
             <a class="addthis_button_favorites" style="cursor:pointer"></a>
             <a class="addthis_button_email" style="cursor:pointer"></a>
             <a class="addthis_button_print" style="cursor:pointer"></a>
         </div>
-        <script type="text/javascript">var addthis_config = {"data_track_clickback":true};</script>
-        <script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js#username=iecwebmast"></script>
+        <script type="text/javascript">var addthis_config = {"data_track_clickback":true, "ui_click":true};</script>
+        <script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js#username=iecwebmast#async=1"></script>
+		<script type="text/javascript">
+		$(document).ready(function() {
+		 // After the DOM has loaded...
+			 addthis.init()
+		});
+		</script>
         <!-- AddThis Button END -->
     </div> 
-<a class="bt-top" href="#top"></a>
-  <div class="left"><a href="/about/privacy">Privacy</a> | <a href="/about/contactus">Contact</a> | <a href="/about/locations/">IEC Offices</a></div>
-  <div class="right"><a href="/about/copyright" style="margin:0px;">Copyright</a> © <b>IEC
-    <script type="text/javascript">
+  <a class="bt-top" href="#top"></a>
+  <div class="left"><a href="/about/privacy/?ref=footer">Privacy</a> | <a href="/about/contactus/?ref=footer">Contact</a> | <a href="/about/locations/?ref=footer">IEC offices</a></div>
+  <div class="right"><a href="/about/copyright/?ref=footer" style="margin:0px;">Copyright</a> © <b>IEC
+<script type="text/javascript">
 <!--
 var currentTime = new Date()
 var year = currentTime.getFullYear()
@@ -486,4 +497,4 @@ document.write(year)
 
 <!-- #EndTemplate -->
 
-<ul class="smart_autocomplete_container" style="display:none"></ul></body></html>
+<div id="fancybox-tmp"></div><div id="fancybox-loading"><div></div></div><div id="fancybox-overlay"></div><div id="fancybox-wrap"><div id="fancybox-outer"><div class="fancybox-bg" id="fancybox-bg-n"></div><div class="fancybox-bg" id="fancybox-bg-ne"></div><div class="fancybox-bg" id="fancybox-bg-e"></div><div class="fancybox-bg" id="fancybox-bg-se"></div><div class="fancybox-bg" id="fancybox-bg-s"></div><div class="fancybox-bg" id="fancybox-bg-sw"></div><div class="fancybox-bg" id="fancybox-bg-w"></div><div class="fancybox-bg" id="fancybox-bg-nw"></div><div id="fancybox-content"></div><a id="fancybox-close"></a><div id="fancybox-title"></div><a href="javascript:;" id="fancybox-left"><span class="fancy-ico" id="fancybox-left-ico"></span></a><a href="javascript:;" id="fancybox-right"><span class="fancy-ico" id="fancybox-right-ico"></span></a></div></div><div id="divFeedback"></div><ul class="smart_autocomplete_container" style="display:none"></ul></body></html>
