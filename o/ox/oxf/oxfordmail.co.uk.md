@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the oxfordmail.co.uk privacy policy that was archived on 2012-10-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121010092752id_/http%3A//www.oxfordmail.co.uk/my/account/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the oxfordmail.co.uk privacy policy that was archived on 2013-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130615235632id_/http%3A//www.oxfordmail.co.uk/my/account/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy
 
