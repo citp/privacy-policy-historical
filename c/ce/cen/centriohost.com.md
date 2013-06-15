@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the centriohost.com privacy policy that was archived on 2012-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121224212142id_/http%3A//centriohost.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the centriohost.com privacy policy that was archived on 2013-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130615142322id_/http%3A//www.centriohost.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy - CENTRIO HOST ™ - Best Reseller Hosting - Web Hosting Provider - Cheap Master Reseller
+# Privacy Policy - CentrioHost™ - Secure and DDoS Protected Web Hosting Solution
 
 > **Introduction  
 > ** We Centrio™ Team, are committed to protecting any data that we collect concerning you.  By using our services you agree to the use of the data that we collect in accordance with this Privacy Policy. 
@@ -32,4 +32,4 @@
 > ** Any changes to our Privacy Policy will be placed here and will supersede this version of our Policy. We will take reasonable steps to draw your attention to any changes in our Policy. However, to be on the safe side, we suggest that you read this document each time you use the website to ensure that it still meets with your approval. 
 > 
 > **Contacting Us  
-> ** If you have any questions about our Privacy Policy, or if you want to know what information we have collected about you, please send e-mail to : **support** [a] **centriohost.com**.  You can also correct any factual errors in that information or require us to remove your details from any list under our control. 
+> ** If you have any questions about our Privacy Policy, or if you want to know what information we have collected about you, please send e-mail to : **support** [at] **centriohost.com**.  You can also correct any factual errors in that information or require us to remove your details from any list under our control. 
