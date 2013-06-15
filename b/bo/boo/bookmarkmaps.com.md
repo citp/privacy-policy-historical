@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bookmarkmaps.com privacy policy that was archived on 2012-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121231010300id_/http%3A//www.bookmarkmaps.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bookmarkmaps.com privacy policy that was archived on 2013-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130615185357id_/http%3A//www.bookmarkmaps.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy › BookmarkMaps.com : Submit your website in our social bookmarking site for popularity | Link building, article posting, directory submitting by manual submission for increasing backlinks
 
