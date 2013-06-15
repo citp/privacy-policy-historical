@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the elope.com privacy policy that was archived on 2011-10-04.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111004021432id_/http%3A//elope.com/privacy.aspx) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the elope.com privacy policy that was archived on 2013-06-15.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130615205745id_/http%3A//www.elope.com/privacy.aspx) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head id="ctl00_Head1"><title>
 	Elope - Privacy Policy
@@ -11,7 +11,7 @@
         .DockIcon
         {
             position: absolute;
-            z-index: 2;
+            z-index: 42;
             width: 100%;
         }
         .RowHeader
@@ -31,7 +31,8 @@
     <style>
         #RepLocator
         {
-            position: relative;
+            position: absolute;
+			z-index: 45;
             width: 509px;
             height: 295px;
         }
@@ -82,7 +83,7 @@
             top: 40px;
             left: 35px;
             background-color: #617a9c;
-            z-index: 5;
+            z-index: 45;
         }
         .expanded
         {
@@ -109,13 +110,62 @@
             bottom: 0px;
         }
     </style>
+    <!-- PopUpInfo Styles -->
+    <style type="text/css">
+        .PopUpInfo
+        {
+            position: absolute;
+            top: 0px;
+            bottom: 0px;
+            left: 0px;
+            right: 0px;
+            width: 100%;
+            height: 100%;
+            background-image: url('/layout_images/PopUpInfo/SeparationLayer_Black.png');
+            z-index: 150;
+        }
+        .PopUpTable
+        {
+            border: medium #F2AE24 ridge;
+            background-color: #000080;
+            margin-top: 150px;
+            color: #F2AE24;
+        }
+        .PopUpTitle
+        {
+            font-family: Arial, Helvetica, sans-serif;
+            font-size: x-large;
+            font-weight: bold;
+            text-align: center;
+            color: #F2AE24;
+        }
+        .PopUpSubTitle
+        {
+            font-family: Arial, Helvetica, sans-serif;
+            font-size: large;
+            color: #F2AE24;
+        }
+        .PopUpMessageCell
+        {
+            padding: 10px;
+        }
+        .PopUpMessage
+        {
+            font-size: medium;
+            color: #F2AE24;
+        }
+        .PopUpCloseInstructions
+        {
+            color: #F2AE24;
+        }
+    </style>
     <!-- Script Libraries !-->
     <script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="eStylezTemplate.js"></script>
     <script type="text/javascript" src="/updates/cattree.js"></script>
-    <script type="text/javascript" src="http://cdn.jquerytools.org/1.2.5/full/jquery.tools.min.js"></script>
+    <script type="text/javascript" src="/js/jquery.tools.min.js"></script>
     <script type="text/javascript" src="/js/jquery.jqDock.js"></script>
     <script type="text/javascript" src="/js/jquery.marquee.js"></script>
-    <script type="text/javascript" src="http://cloud.github.com/downloads/malsup/cycle/jquery.cycle.all.2.74.js"></script>
+    <script type="text/javascript" src="/js/jquery.cycle.all.2.74.js"></script>
     <script type="text/javascript" src="js/swfobject.js"></script>
     <script type="text/javascript">
 
@@ -136,112 +186,104 @@
     </script>
     
     <script type="text/javascript">
-        $(document).ready(function()
-        {   
+        $(document).ready(function () {
             // jQuery Controls Initialization //
-       		var opts = { align: 'bottom', size: 96, coefficient: 1 };
-       		$('#SizingModels').jqDock(opts);
-       		$('.scrollable').scrollable({ vertical: true, mousewheel: true });
-       		
-       		// UI Intitialization //
+            var opts = { align: 'bottom', size: 96, coefficient: 1 };
+            $('#SizingModels').jqDock(opts);
+            $('.scrollable').scrollable({ vertical: true, mousewheel: true });
+
+            // UI Intitialization //
             $('.scrollable').hide();
             $('#GiftStoreCard').hide();
             $('#PartyStoreCard').hide();
             $('#ToyStoreCard').hide();
-       		$('#RepLocator').hide();
-       		var xScreenWidth = $(window).width();
-       		var xInstructions = xScreenWidth + 25 + 'px';
-       		$('#SizingChart').animate({ left: xInstructions }, 500, 'swing', function()
-        	{
-        		$('#SizingChart').hide();
-       		});
-       		
-    		jQuery.fn.SizingChart_Show = function()
-    		{
-    			var xScreenWidth = $(window).width();
-    			var xSizingChartWidth = $('#SizingChart').outerWidth();
-    			var xLeftWhenShowing = xScreenWidth - xSizingChartWidth;
-    			var xInstructions = xLeftWhenShowing + 'px';
-    			$('#SizingChart').show();
-    			$('#SizingChart').animate({ left: xInstructions }, 750, 'swing');
-    		}
-    		    		
-    		jQuery.fn.SizingChart_Hide = function()
-    		{
-    			var xScreenWidth = $(window).width();
-    			var xInstructions = xScreenWidth + 25 + 'px';
-    			$('#SizingChart').animate({ left: xInstructions }, 750, 'swing', function()
-    			{
-    				$('#SizingChart').hide();
-    			});
-    		}
-    		
-    		jQuery.fn.RepLocator_Show = function()
-    		{
-    		    var xScreenWidth = $(window).width();
-    			var xRepLocatorWidth = $('#RepLocator').outerWidth();
-    			var xLeftWhenShowing = xScreenWidth - xRepLocatorWidth;
-    			var xInstructions = xLeftWhenShowing + 'px';
-    			$('#RepLocator').show();
-    			$('#RepLocator').animate({ left: xInstructions }, 750, 'swing');
-    		}
-            
-            jQuery.fn.RepLocator_Hide = function()
-    		{
-    			var xScreenWidth = $(window).width();
-    			var xInstructions = xScreenWidth + 25 + 'px';
-    			$('#RepLocator').animate({ left: xInstructions }, 750, 'swing', function()
-    			{
-    				$('#RepLocator').hide();
-    			});
-    		}
-    		
+            $('#RepLocator').hide();
+            var xScreenWidth = $(window).width();
+            var xInstructions = xScreenWidth + 25 + 'px';
+            $('#SizingChart').animate({ left: xInstructions }, 350, 'swing', function () {
+                $('#SizingChart').hide();
+            });
+
+            jQuery.fn.SizingChart_Show = function () {
+                $('.FlashContent').hide();
+                var xScreenWidth = $(window).width();
+                var xSizingChartWidth = $('#SizingChart').outerWidth();
+                var xLeftWhenShowing = xScreenWidth - xSizingChartWidth;
+                var xInstructions = xLeftWhenShowing + 'px';
+                $('#SizingChart').show();
+                $('#SizingChart').animate({ left: xInstructions }, 350, 'swing');
+            }
+
+            jQuery.fn.SizingChart_Hide = function () {
+                var xScreenWidth = $(window).width();
+                var xInstructions = xScreenWidth + 25 + 'px';
+                $('#SizingChart').animate({ left: xInstructions }, 350, 'swing', function () {
+                    $('#SizingChart').hide();
+                });
+                $('.FlashContent').show();
+            }
+
+            jQuery.fn.RepLocator_Show = function () {
+                $('.FlashContent').hide();
+                var xScreenWidth = $(window).width();
+                var xRepLocatorWidth = $('#RepLocator').outerWidth();
+                var xLeftWhenShowing = xScreenWidth - xRepLocatorWidth;
+                var xInstructions = xLeftWhenShowing + 'px';
+                $('#RepLocator').show();
+                $('#RepLocator').animate({ left: xInstructions }, 350, 'swing');
+            }
+
+            jQuery.fn.RepLocator_Hide = function () {
+                var xScreenWidth = $(window).width();
+                var xInstructions = xScreenWidth + 25 + 'px';
+                $('#RepLocator').animate({ left: xInstructions }, 350, 'swing', function () {
+                    $('#RepLocator').hide();
+                });
+                $('.FlashContent').show();
+            }
+
             // Event Handlers //
-    		$('.DockIcon').mouseenter(function()
-    		{
-    		    switch($(this).attr('modelType'))
-    			{
-    				case "Infant":                        
-    					//$('.InfantRow').animate({ 'background-color': '#f2788c' }, 400);
-    					$('.InfantRow').css('background-color', '#f2788c');
-    					break;
+            $('.DockIcon').mouseenter(function () {
+                switch ($(this).attr('modelType')) {
+                    case "Infant":
+                        //$('.InfantRow').animate({ 'background-color': '#f2788c' }, 400);
+                        $('.InfantRow').css('background-color', '#f2788c');
+                        break;
 
-    				case "Toddler":
-    					//$('.ToddlerRow').animate({ 'background-color': '#c1ac30' }, 400);
-    					$('.ToddlerRow').css('background-color', '#c1ac30');
-    					break;
-                    
-    				case "Child":
-    					//$('.ChildRow').animate({ 'background-color': '#e19638' }, 400);
-    					$('.ChildRow').css('background-color', '#e19638');
-    					break;
-                    
-    				case "Tween":
-    					//$('.TweenRow').animate({ 'background-color': '#e498b1' }, 400);
-    					$('.TweenRow').css('background-color', '#e498b1');
-    					break;
-                    
-    				case "Teen":
-    					//$('.TeenRow').animate({ 'background-color': '#73b2c5' }, 400);
-    					$('.TeenRow').css('background-color', '#73b2c5');
-    					break;
+                    case "Toddler":
+                        //$('.ToddlerRow').animate({ 'background-color': '#c1ac30' }, 400);
+                        $('.ToddlerRow').css('background-color', '#c1ac30');
+                        break;
 
-    				case "AdultFemale":
-    					//$('.AdultFemaleRow').animate({ 'background-color': '#c28ec0' }, 400);
-    					$('.AdultFemaleRow').css('background-color', '#c28ec0');
-    					break;
-                  
-    				case "AdultMale":
-    					//$('.AdultMaleRow').animate({ 'background-color': '#9aba3e' }, 400);
-    					$('.AdultMaleRow').css('background-color', '#9aba3e');
-    					break;
-    			}
-    		});
-    		
-            $('.DockIcon').mouseleave(function()
-            {
-                switch($(this).attr('modelType'))
-                {
+                    case "Child":
+                        //$('.ChildRow').animate({ 'background-color': '#e19638' }, 400);
+                        $('.ChildRow').css('background-color', '#e19638');
+                        break;
+
+                    case "Tween":
+                        //$('.TweenRow').animate({ 'background-color': '#e498b1' }, 400);
+                        $('.TweenRow').css('background-color', '#e498b1');
+                        break;
+
+                    case "Teen":
+                        //$('.TeenRow').animate({ 'background-color': '#73b2c5' }, 400);
+                        $('.TeenRow').css('background-color', '#73b2c5');
+                        break;
+
+                    case "AdultFemale":
+                        //$('.AdultFemaleRow').animate({ 'background-color': '#c28ec0' }, 400);
+                        $('.AdultFemaleRow').css('background-color', '#c28ec0');
+                        break;
+
+                    case "AdultMale":
+                        //$('.AdultMaleRow').animate({ 'background-color': '#9aba3e' }, 400);
+                        $('.AdultMaleRow').css('background-color', '#9aba3e');
+                        break;
+                }
+            });
+
+            $('.DockIcon').mouseleave(function () {
+                switch ($(this).attr('modelType')) {
                     case "Infant":
                         //$('.InfantRow').animate({ 'background-color': 'Black' }, 400);
                         $('.InfantRow').css('background-color', 'Transparent');
@@ -278,108 +320,92 @@
                         break;
                 }
             });
-            
-            $('#Location').click(function()
-            {
+
+            $('#Location').click(function () {
                 $(this).hide();
                 $('.scrollable').slideDown(400);
                 $('#StoreType > img');
             });
-            
-            
-            $('div.item').mouseenter(function()
-            {
+
+
+            $('div.item').mouseenter(function () {
                 $(this).addClass('Selecteditem');
             });
-            
-            $('div.item').mouseleave(function()
-            {
+
+            $('div.item').mouseleave(function () {
                 $(this).removeClass('Selecteditem');
             });
-            
-            $('div.item').click(function()
-            {
+
+            $('div.item').click(function () {
                 var xLocation = $(this).attr('location');
                 var xNewSRC = 'layout_images/RepLocator/' + xLocation + '.png';
                 $('#Location').attr('src', xNewSRC);
-                
+
                 $('#PartyStoreCard').hide();
                 $('#ToyStoreCard').hide();
                 $('#GiftStoreCard').hide();
-                
+
                 GetRep(xLocation);
-                                                
+
                 var xSelectedItemIndex = $(this).attr('index');
                 var xAPI = $('#Scroller').data("scrollable");
                 xAPI.seekTo(xSelectedItemIndex);
-                
+
                 $('.scrollable').slideUp(400);
                 $('#Location').show();
-                
-                for(index = 1; index <= 5; index += 2)
-                {
+
+                for (index = 1; index <= 5; index += 2) {
                     var xSelector = '#StoreType > img:nth-child(' + index + ')';
                     var xActiveSrc = 'layout_images/RepLocator/' + $(xSelector).attr('OriginalSrc');
                     $(xSelector).attr('src', xActiveSrc);
                     $(xSelector).removeClass('Disabled');
                 }
             });
-            
-            $('#StoreType > img').mouseenter(function()
-            {
-                if(!$(this).hasClass('Disabled'))
-                {
+
+            $('#StoreType > img').mouseenter(function () {
+                if (!$(this).hasClass('Disabled')) {
                     var xMouseEnterSrc = 'layout_images/RepLocator/' + $(this).attr('MouseEnterSrc');
                     $(this).attr('src', xMouseEnterSrc);
                 }
             });
-            
-            $('#StoreType > img').mouseleave(function()
-            {
-                if(!$(this).hasClass('Disabled'))
-                {
+
+            $('#StoreType > img').mouseleave(function () {
+                if (!$(this).hasClass('Disabled')) {
                     var xOriginalSrc = 'layout_images/RepLocator/' + $(this).attr('OriginalSrc');
                     $(this).attr('src', xOriginalSrc);
                 }
             });
-            
-            $('#StoreType > img').mousedown(function()
-            {
-                if(!$(this).hasClass('Disabled'))
-                {
+
+            $('#StoreType > img').mousedown(function () {
+                if (!$(this).hasClass('Disabled')) {
                     var xClickedSrc = 'layout_images/RepLocator/' + $(this).attr('ClickedSrc');
                     $(this).attr('src', xClickedSrc);
                 }
             });
-            
-            $('#StoreType > img').mouseup(function()
-            {
-                if(!$(this).hasClass('Disabled'))
-                {
+
+            $('#StoreType > img').mouseup(function () {
+                if (!$(this).hasClass('Disabled')) {
                     var xMouseEnterSrc = 'layout_images/RepLocator/' + $(this).attr('MouseEnterSrc');
                     $(this).attr('src', xMouseEnterSrc);
                 }
             });
-            
-            $('#StoreType > img').click(function()
-            {
-                if(!$(this).hasClass('Disabled'))
-                {
+
+            $('#StoreType > img').click(function () {
+                if (!$(this).hasClass('Disabled')) {
                     var xStoreType = $(this).attr('storeType');
-                    switch(xStoreType)
-                    {
+                    switch (xStoreType) {
                         case 'GiftStore':
                             $('#PartyStoreCard').hide();
                             $('#ToyStoreCard').hide();
                             $('#GiftStoreCard').show(400);
                             break;
-                            
+
                         case 'PartyStore':
-                            $('#GiftStoreCard').hide();                        
+                            $('#GiftStoreCard').hide();
                             $('#ToyStoreCard').hide();
                             $('#PartyStoreCard').show(400);
                             break;
-                            
+
                         case 'ToyStore':
                             $('#GiftStoreCard').hide();
                             $('#PartyStoreCard').hide();
@@ -1292,9 +1318,10 @@
     <!-- End: Sub-Page Header Content Area !-->
     <meta name="google-site-verification" content="UyFdJsLgpRiNXGnJN4vQ_qT-4oEXrD75VPPHgPGWBdI"></head>
 <body>
+
     <!-- Page Content !-->
     <form name="aspnetForm" method="post" action="/privacy.aspx" id="aspnetForm">
-<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKMTY1NDU2MTA1Mg9kFgJmD2QWBAIBD2QWBgIDDxYCHgRocmVmBRR+L2Nzcy9lbG9wZV9waW5rLmNzc2QCCQ8WAh4HY29udGVudAX6AUZpbmQgZWxvcGUncyBQcml2YWN5IFBvbGljeSBmb3Igb3VyIGhhdCwgY29zdHVtZSBhbmQgYWNjZXNzb3J5IHJlc2VsbGVyczsgb3VyIHNvY2lhbGx5IHJlc3BvbnNpYmxlIGNvbXBhbnkgc2VsbHMgaHVuZHJlZHMgb2YgZnVuLCB1bmlxdWUsIHphbnkgY29zdHVtZSBoYXRzIGFuZCBnbGFzc2VzIHRvIHJldGFpbGVycyBuYXRpb253aWRlLiBMaWNlbnNlZCBmb3Igc3BvcnRzLCBjaGFyYWN0ZXIsIG1vdmllIGFuZCBob2xpZGF5IHRoZW1lcy5kAgoPFgIfAQXzEkhhbGxvd2VlbiBDb3N0dW1lLCBXb21lbiBIYWxsb3dlZW4gQ29zdHVtZSwgQ29zdHVtZXMgZm9yIEhhbGxvd2VlbiwgQ2FwcywgSGF0cyBmb3IgTWVuLCBIYXRzIGZvciBXb21lbiwgUmVkIEhhdHMsIEtpZHMgSGF0cywgU3VuIEdsYXNzZXMsIEV5ZSBHbGFzc2VzLCBTdW5nbGFzc2VzLCBDaGVhcCBHbGFzc2VzLCBIYWxsb3dlZWVuIENvc3R1bWUgQWNjZXNzb3JpZXMsIEhhbGxvd2VlbiBBY2Nlc3NvcmllcywgQ29zdHVtZSBKZXdlbHJ5LCBQYXJ0eSBBY2Nlc3NvcmllcywgRmFuY3kgRHJlc3MgQWNjZXNzb3JpZXMsIENoZWFwIENvc3R1bWUgQWNjZXNzb3JpZXMsIFBpcmF0ZSBDb3N0dW1lLCBQaXJhdGUgQWNjZXNzb3JpZXMsIENoZWFwIEFjY2Vzc29yaWVzLCBIZXJtaW9uZSBDb3N0dW1lLCBIYXJyeSBQb3R0ZXIgUHJvZmVzc29yLCBQcm9mZXNzb3IgTWNHb25hZ2FsbCBDb3N0dW1lLCBEaXNuZXkgUGlyYXRlcyBvZiB0aGUgQ2FyaWJiZWFuLCBEaXNuZXkgQWxpY2UgaW4gV29uZGVybGFuZCwgRGlzbmV5IE1pY2tleSBhbmQgTWlubmllLCBEaXNuZXkgV2lubmllIHRoZSBQb29oLCBEaXNuZXkgUHJpbmNlc3MgYW5kIEZhaXJ5LCBEaXNuZXkgUElYQVIgRmluZGluZyBOZW1vLCBEaXNuZXkgUGl4YXIgVG95IFN0b3J5LCBEaXNuZXkgUHJpbmNlIG9mIFBlcnNpYSwgRGlzbmV5IFRpbSBCdXJ0b24ncyB0aGUgTmlnaHRtYXJlIEJlZm9yZSBDaHJpc3RtYXMsIEhhcnJ5IFBvdHRlciwgV2hlcmUncyBXYWxkbywgTUFEIFNweSB2cyBTcHksIFBlZS1XZWUgSGVybWFuLCBEci4gU2V1c3MsIFJhaW5ib3cgQnJpdGUsIEdyb3VjaG8gTWFyeCwgQWxpY2UgaW4gV29uZGVybGFuZCwgSmltaSBIZW5kcml4LCBEYW1lIEVkbmEsIEV2ZWwgS25pZXZlbCwgRWx2aXMgUHJlc2xleSwgU3RlYW13b3JrcyBTdGVhbXB1bmsgQXBwYXJlbCBhbmQgQWNjZXNzb3JpZXMsIEJpcnRoZGF5IEhhdCwgb3ZlciB0aGUgaGlsbCwgdGhhbmtzZ2l2aW5nLCBjaHJpc3RtYXMsIHNhbnRhLCBlbGYsIGNvY2t0YWlsLCBhdmlhdG9yLCBjaGFudWthaCwgdG9wIGhhdCwgZGlzY28sIGplc3RlciwgbWFyZGkgZ3JhcywgbWFkaGF0dGVyLCBjbG93biwgdW5jbGUgc2FtLCBwYXRyaW90aWMsIGJvcHBlciwgc2NhcmYsIHBvdCBoZWFkLCBiZWVyLCBrZWcsIFN0LiBQYXRyaWNrJ3MgRGF5LCBTdCBQYXR0eSwgU2FpbnQgUGF0cmljaywgTGVwcmVjaGF1biwgc2hhbXJvY2ssIGZlZG9yYSwgaXJpc2ggZmxhZywgY2FwdGFpbiwgZmllc3RhLCBsdWF1LCBjZWxlYnJhdGlvbiwgYmFjaGVsb3IsIGJhY2hlbG9yZXR0ZSwgd2VkZGluZywgcmV0aXJlbWVudCwgZ3JhZHVhdGlvbiwgNHRoIG9mIGp1bHksIGluZGVwZW5kZW5jZSBkYXksIFVTQSwgcGVhY2UsIHBpeGllLCB3aXRjaCwgYmF0LCBjb2NrdGFpbCB3aXRjaCwgd2l6YXJkLCBnb3RoLCB2aXN0b3JpYW4sIHZhbXBpcmUsIHZhbXBpcmVzcywgcGlyYXRlLCBidWNjYW5lZXIsIHBpdGggaGVsbWV0LCBjcm93biwga2luZywgcXVlZW4sIHJvYmluIGhvb2QsIGFkbWlyYWwsIHByaW5jZXNzLCBzYW11cmFpLCBzaW5iYWQsIHNoZWlrLCBwb3BlLCBraW5nIHR1dCwgbWVkdXNhLCB2aWtpbmcsIHNwYXJ0YW4sIHBvbGljZSwgY29uc3RydWN0aW9uLCBicml0aXNoIGJvYmJ5LCBzaGVybG9jayBob2xtZXMsIG1vYnN0ZXIsIGJhc2ViYWxsLCBhZnJvLCBzb2NjZXIsIHRlbm5pcywgZ29sZiwga2l0dHksIGNhdCwgY293LCBkaW5vc2F1ciwgZHJhZ29uLCBwaWcsIGRlZXIsIG1vb3NlLCB3ZXJld29sZiwgeWV0aSwgc2hhcmssIHBhbmRhLCBwb2xhciBiZWFyLCBidW5ueSwgc2V4eSBraXR0ZW4sIHplYnJhLCBmbGFtaW5nbywgZHJhZ29uZmx5LCBwYXJyb3QsIHN0cmlwcGVyLCBrbml0IGNhcCwgYnV0dGEgY2FwLCBEaXNwbGF5LCBoYXQgcmFjaywgZXlld2VhciByYWNrLCBnbGFzc2VzIHJhY2ssIEJlZXIgZ29nZ2xlLCBtYXJ0aW5pLCB3aW5lLCAzMCwgNDAgNTAsIDYwIDcwIDgwLCBvdmVyIHRoZSBoaWxsLCByb2NrZXIsIGZvb3RiYWxsLCBib3dsaW5nLCBiYXNrZXRiYWxsLCBzaGFtcm9jaywgcG9vbCwgOCBiYWxsLCBwb2xpdGljLCBub3NlIGdsYXNzZXMsIGFsaWVuIGJlYXRuaWssIGxpYnJhcmlhbiwgZnUgbWFuIGNodSwgcmltbWVkLCB4LXJheSwgYXZpYXRvciBnb2dnbGUsIG1hY2hpbmlzdCBnb2dnbGUsIFRpYXJhLCBoZWFkYmFuZCwgZWFycmluZywgbmVja2xhY2UsIGJhZGdlLCBtZWRhbCwgZXllcGF0Y2gsIHdpbmdzLCBjaG9rZXIsIGN1ZmZzLCBicmFjZWxldCwgcGlyYXRlIGJlYWRzLCBza3VsbCBjcm9zc2JvbmUsIHBlbmRhbnQsIGFudGlxdWUgZ29sZCwgYW50aXF1ZSBzaWx2ZXIsIGVneXB0aWFuLCB0b2dhIHBpbiwgY2xvYWsgcGluLCBjcm93biwgY2lyY2xldCwgZmxldXIgZGUgbGlzLCBtYXNrLCBzYXNoIHRpYXJhIHNldCwgbm92ZWx0aWUsIHdhbmRkAgMPZBYIZg8PFgIeB1Zpc2libGVnZGQCAQ8PFgIeBFRleHRlZGQCAg8PFgIfAmdkZAIEDw9kFgIeCW9ua2V5ZG93bgU1cmV0dXJuIGp1bXBUb0N0cmxPbkNSKGV2ZW50LCAnY3RsMDAkYnRuRWxvcGVTZWFyY2gnKTtkGAEFHl9fQ29udHJvbHNSZXF1aXJlUG9zdEJhY2tLZXlfXxYBBQ9jdGwwMCRidG5TdWJtaXRxNGnrFuG7Rsf3OUZ288jUhbQybg==">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKMTY1NDU2MTA1Mg9kFgJmD2QWBGYPZBYGAgMPFgIeBGhyZWYFFH4vY3NzL2Vsb3BlX3BpbmsuY3NzZAIJDxYCHgdjb250ZW50BfoBRmluZCBlbG9wZSdzIFByaXZhY3kgUG9saWN5IGZvciBvdXIgaGF0LCBjb3N0dW1lIGFuZCBhY2Nlc3NvcnkgcmVzZWxsZXJzOyBvdXIgc29jaWFsbHkgcmVzcG9uc2libGUgY29tcGFueSBzZWxscyBodW5kcmVkcyBvZiBmdW4sIHVuaXF1ZSwgemFueSBjb3N0dW1lIGhhdHMgYW5kIGdsYXNzZXMgdG8gcmV0YWlsZXJzIG5hdGlvbndpZGUuIExpY2Vuc2VkIGZvciBzcG9ydHMsIGNoYXJhY3RlciwgbW92aWUgYW5kIGhvbGlkYXkgdGhlbWVzLmQCCg8WAh8BBfMSSGFsbG93ZWVuIENvc3R1bWUsIFdvbWVuIEhhbGxvd2VlbiBDb3N0dW1lLCBDb3N0dW1lcyBmb3IgSGFsbG93ZWVuLCBDYXBzLCBIYXRzIGZvciBNZW4sIEhhdHMgZm9yIFdvbWVuLCBSZWQgSGF0cywgS2lkcyBIYXRzLCBTdW4gR2xhc3NlcywgRXllIEdsYXNzZXMsIFN1bmdsYXNzZXMsIENoZWFwIEdsYXNzZXMsIEhhbGxvd2VlZW4gQ29zdHVtZSBBY2Nlc3NvcmllcywgSGFsbG93ZWVuIEFjY2Vzc29yaWVzLCBDb3N0dW1lIEpld2VscnksIFBhcnR5IEFjY2Vzc29yaWVzLCBGYW5jeSBEcmVzcyBBY2Nlc3NvcmllcywgQ2hlYXAgQ29zdHVtZSBBY2Nlc3NvcmllcywgUGlyYXRlIENvc3R1bWUsIFBpcmF0ZSBBY2Nlc3NvcmllcywgQ2hlYXAgQWNjZXNzb3JpZXMsIEhlcm1pb25lIENvc3R1bWUsIEhhcnJ5IFBvdHRlciBQcm9mZXNzb3IsIFByb2Zlc3NvciBNY0dvbmFnYWxsIENvc3R1bWUsIERpc25leSBQaXJhdGVzIG9mIHRoZSBDYXJpYmJlYW4sIERpc25leSBBbGljZSBpbiBXb25kZXJsYW5kLCBEaXNuZXkgTWlja2V5IGFuZCBNaW5uaWUsIERpc25leSBXaW5uaWUgdGhlIFBvb2gsIERpc25leSBQcmluY2VzcyBhbmQgRmFpcnksIERpc25leSBQSVhBUiBGaW5kaW5nIE5lbW8sIERpc25leSBQaXhhciBUb3kgU3RvcnksIERpc25leSBQcmluY2Ugb2YgUGVyc2lhLCBEaXNuZXkgVGltIEJ1cnRvbidzIHRoZSBOaWdodG1hcmUgQmVmb3JlIENocmlzdG1hcywgSGFycnkgUG90dGVyLCBXaGVyZSdzIFdhbGRvLCBNQUQgU3B5IHZzIFNweSwgUGVlLVdlZSBIZXJtYW4sIERyLiBTZXVzcywgUmFpbmJvdyBCcml0ZSwgR3JvdWNobyBNYXJ4LCBBbGljZSBpbiBXb25kZXJsYW5kLCBKaW1pIEhlbmRyaXgsIERhbWUgRWRuYSwgRXZlbCBLbmlldmVsLCBFbHZpcyBQcmVzbGV5LCBTdGVhbXdvcmtzIFN0ZWFtcHVuayBBcHBhcmVsIGFuZCBBY2Nlc3NvcmllcywgQmlydGhkYXkgSGF0LCBvdmVyIHRoZSBoaWxsLCB0aGFua3NnaXZpbmcsIGNocmlzdG1hcywgc2FudGEsIGVsZiwgY29ja3RhaWwsIGF2aWF0b3IsIGNoYW51a2FoLCB0b3AgaGF0LCBkaXNjbywgamVzdGVyLCBtYXJkaSBncmFzLCBtYWRoYXR0ZXIsIGNsb3duLCB1bmNsZSBzYW0sIHBhdHJpb3RpYywgYm9wcGVyLCBzY2FyZiwgcG90IGhlYWQsIGJlZXIsIGtlZywgU3QuIFBhdHJpY2sncyBEYXksIFN0IFBhdHR5LCBTYWludCBQYXRyaWNrLCBMZXByZWNoYXVuLCBzaGFtcm9jaywgZmVkb3JhLCBpcmlzaCBmbGFnLCBjYXB0YWluLCBmaWVzdGEsIGx1YXUsIGNlbGVicmF0aW9uLCBiYWNoZWxvciwgYmFjaGVsb3JldHRlLCB3ZWRkaW5nLCByZXRpcmVtZW50LCBncmFkdWF0aW9uLCA0dGggb2YganVseSwgaW5kZXBlbmRlbmNlIGRheSwgVVNBLCBwZWFjZSwgcGl4aWUsIHdpdGNoLCBiYXQsIGNvY2t0YWlsIHdpdGNoLCB3aXphcmQsIGdvdGgsIHZpc3RvcmlhbiwgdmFtcGlyZSwgdmFtcGlyZXNzLCBwaXJhdGUsIGJ1Y2NhbmVlciwgcGl0aCBoZWxtZXQsIGNyb3duLCBraW5nLCBxdWVlbiwgcm9iaW4gaG9vZCwgYWRtaXJhbCwgcHJpbmNlc3MsIHNhbXVyYWksIHNpbmJhZCwgc2hlaWssIHBvcGUsIGtpbmcgdHV0LCBtZWR1c2EsIHZpa2luZywgc3BhcnRhbiwgcG9saWNlLCBjb25zdHJ1Y3Rpb24sIGJyaXRpc2ggYm9iYnksIHNoZXJsb2NrIGhvbG1lcywgbW9ic3RlciwgYmFzZWJhbGwsIGFmcm8sIHNvY2NlciwgdGVubmlzLCBnb2xmLCBraXR0eSwgY2F0LCBjb3csIGRpbm9zYXVyLCBkcmFnb24sIHBpZywgZGVlciwgbW9vc2UsIHdlcmV3b2xmLCB5ZXRpLCBzaGFyaywgcGFuZGEsIHBvbGFyIGJlYXIsIGJ1bm55LCBzZXh5IGtpdHRlbiwgemVicmEsIGZsYW1pbmdvLCBkcmFnb25mbHksIHBhcnJvdCwgc3RyaXBwZXIsIGtuaXQgY2FwLCBidXR0YSBjYXAsIERpc3BsYXksIGhhdCByYWNrLCBleWV3ZWFyIHJhY2ssIGdsYXNzZXMgcmFjaywgQmVlciBnb2dnbGUsIG1hcnRpbmksIHdpbmUsIDMwLCA0MCA1MCwgNjAgNzAgODAsIG92ZXIgdGhlIGhpbGwsIHJvY2tlciwgZm9vdGJhbGwsIGJvd2xpbmcsIGJhc2tldGJhbGwsIHNoYW1yb2NrLCBwb29sLCA4IGJhbGwsIHBvbGl0aWMsIG5vc2UgZ2xhc3NlcywgYWxpZW4gYmVhdG5paywgbGlicmFyaWFuLCBmdSBtYW4gY2h1LCByaW1tZWQsIHgtcmF5LCBhdmlhdG9yIGdvZ2dsZSwgbWFjaGluaXN0IGdvZ2dsZSwgVGlhcmEsIGhlYWRiYW5kLCBlYXJyaW5nLCBuZWNrbGFjZSwgYmFkZ2UsIG1lZGFsLCBleWVwYXRjaCwgd2luZ3MsIGNob2tlciwgY3VmZnMsIGJyYWNlbGV0LCBwaXJhdGUgYmVhZHMsIHNrdWxsIGNyb3NzYm9uZSwgcGVuZGFudCwgYW50aXF1ZSBnb2xkLCBhbnRpcXVlIHNpbHZlciwgZWd5cHRpYW4sIHRvZ2EgcGluLCBjbG9hayBwaW4sIGNyb3duLCBjaXJjbGV0LCBmbGV1ciBkZSBsaXMsIG1hc2ssIHNhc2ggdGlhcmEgc2V0LCBub3ZlbHRpZSwgd2FuZGQCAQ9kFghmDw8WAh4HVmlzaWJsZWdkZAIBDw8WAh4EVGV4dGVkZAICDw8WAh8CZ2RkAgQPD2QWAh4Jb25rZXlkb3duBTVyZXR1cm4ganVtcFRvQ3RybE9uQ1IoZXZlbnQsICdjdGwwMCRidG5FbG9wZVNlYXJjaCcpO2QYAQUeX19Db250cm9sc1JlcXVpcmVQb3N0QmFja0tleV9fFgEFD2N0bDAwJGJ0blN1Ym1pdDWRQNIjR3lSSoN0oJt/HhlwDOoD">
 
 
 <script type="text/javascript">
@@ -1310,11 +1337,11 @@ function jumpToCtrlOnCR(evt, ctrl_id)
 //]]>
 </script>
 
-<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEWBgKnpqL0CgKCw/6+DQKB7cu1BQLS09ydCwKQrrjJDgLbts3TBB95rJE5mriqkvGXj/+wB/I6Z/Nm">
+<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEWBgK15Kn7DgKCw/6+DQKB7cu1BQLS09ydCwKQrrjJDgLbts3TBDueESC9MV5QkcWgNj0ajjxgxLYG">
     <div>
         <div id="divInfoPopup" style="padding: 5px; border: 1px solid #a9a9a9;">
         </div>
-        <div id="divInfoPopupTips" style="padding: 5px; border: 1px solid #a9a9a9; width: 620px;">
+        <div id="divInfoPopupTips" style="padding: 5px; border: 1px solid #a9a9a9; width: 620px; z-index: 99;">
         </div>
         <table width="760" align="center" cellspacing="0" cellpadding="0" border="0" class="background_color">
             <tbody><tr>
@@ -1542,8 +1569,8 @@ elope, Inc.  cares about your privacy. We use safe, secure technology and other 
                                     <div class="static_menu_padding_links">
                                         <a class="mainlink" href="policies.aspx">terms &amp;<br>
                                             conditions</a></div>
-                                    <div class="static_menu_padding_links">
-                                        <a class="mainlink" href="about.aspx">about elope products</a></div>
+                                    <!--<div class="static_menu_padding_links">
+                                        <a class="mainlink" href="about.aspx">about elope products</a></div>-->
                                     <div class="static_menu_padding_links">
                                         <span class="mainlink" onclick="jQuery.fn.SizingChart_Show();" style="cursor: pointer;">
                                             Sizing Chart</span><br>
@@ -1635,13 +1662,13 @@ elope, Inc.  cares about your privacy. We use safe, secure technology and other 
     </form>
     <!-- Embedded Tools !-->
     <!-- Sizing Chart !-->
-    <div id="SizingChart" style="position: absolute; top: 10%; left: 2000px;">
+    <div id="SizingChart" style="position: absolute; top: 10%; left: 1391px; z-index: 45; display: none;">
         <img src="layout_images/CloseIcon.png" onclick="jQuery.fn.SizingChart_Hide();" style="position: absolute;
-            left: -15px; top: -15px; cursor: pointer; z-index: 5;">
+            left: -15px; top: -15px; cursor: pointer; z-index: 45;">
         <table style="border-style: ridge none ridge ridge; direction: ltr;" cellpadding="0" cellspacing="0" width="600px">
             <tbody><tr style="background-image: url('layout_images/dead_space_bkgd_Inverted.jpg');">
                 <td>
-                    <div id="SizingModels">
+                    <div id="SizingModels" class="jqDocked">
                         <img modeltype="Infant" class="DockIcon" src="layout_images/SizingChart/InfantModel.png">
                         <img modeltype="Toddler" class="DockIcon" src="layout_images/SizingChart/ToddlerModel.png">
                         <img modeltype="Child" class="DockIcon" src="layout_images/SizingChart/ChildModel.png">
@@ -2164,10 +2191,9 @@ elope, Inc.  cares about your privacy. We use safe, secure technology and other 
         </tbody></table>
     </div>
     <!-- Rep Locator !-->
-    <div id="RepLocator" style="position: absolute; top: 10%; left: 2000px; border-style: ridge none ridge ridge;
-        background-image: url('layout_images/dead_space_bkgd_inverted.jpg');">
+    <div id="RepLocator" style="position: absolute; top: 10%; left: 2000px; border-style: ridge none ridge ridge; background-image: url(&quot;layout_images/dead_space_bkgd_inverted.jpg&quot;); display: none;">
         <img src="layout_images/CloseIcon.png" onclick="jQuery.fn.RepLocator_Hide();" style="position: absolute;
-            left: -15px; top: -15px; cursor: pointer; z-index: 5;">
+            left: -15px; top: -15px; cursor: pointer; z-index: 45;">
         <table style="position: absolute; right: 15px; top: 15px; width: 45%;">
             <tbody><tr>
                 <td align="right" style="font-size: large; font-weight: bolder;">
@@ -2190,7 +2216,7 @@ elope, Inc.  cares about your privacy. We use safe, secure technology and other 
             <br>
             <img src="layout_images/RepLocator/ToyStore_Disabled.png" alt="Toy Store" class="StoreTypeButton Disabled" originalsrc="ToyStore.png" mouseentersrc="ToyStore_Selected.png" clickedsrc="ToyStore_Clicked.png" disabledsrc="ToyStore_Disabled.png" storetype="ToyStore">
         </div>
-        <div id="Scroller" class="scrollable vertical">
+        <div id="Scroller" class="scrollable vertical" style="display: none;">
             <div class="items">
                 <div>
                     <div class="item" index="0" location="Alabama">
@@ -2457,7 +2483,7 @@ elope, Inc.  cares about your privacy. We use safe, secure technology and other 
                 <div id="BlankCard" class="InfoCard" style="">
                     <img src="layout_images/RepLocator/BlankInfoCard.png">
                 </div>
-                <div id="GiftStoreCard" class="InfoCard">
+                <div id="GiftStoreCard" class="InfoCard" style="display: none;">
                     <table cellpadding="3" style="margin-top: 15px;">
                         <tbody><tr>
                             <td colspan="2" align="left" style="font-weight: bold;">
@@ -2493,7 +2519,7 @@ elope, Inc.  cares about your privacy. We use safe, secure technology and other 
                         </tr>
                     </tbody></table>
                 </div>
-                <div id="PartyStoreCard" class="InfoCard">
+                <div id="PartyStoreCard" class="InfoCard" style="display: none;">
                     <table cellpadding="3" style="margin-top: 15px;">
                         <tbody><tr>
                             <td colspan="2" align="left" style="font-weight: bold;">
@@ -2529,7 +2555,7 @@ elope, Inc.  cares about your privacy. We use safe, secure technology and other 
                         </tr>
                     </tbody></table>
                 </div>
-                <div id="ToyStoreCard" class="InfoCard">
+                <div id="ToyStoreCard" class="InfoCard" style="display: none;">
                     <table cellpadding="3" style="margin-top: 15px;">
                         <tbody><tr>
                             <td colspan="2" align="left" style="font-weight: bold;">
