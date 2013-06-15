@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the stopagingnow.com privacy policy that was archived on 2012-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121231134012id_/http%3A//www.stopagingnow.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stopagingnow.com privacy policy that was archived on 2013-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130615211851id_/http%3A//www.stopagingnow.com/privacy_policy.html) for the most accurate reproduction.*
 
 # Stop Aging Now Privacy Policy
 
@@ -27,4 +27,4 @@ Fax Line: 240-479-2501
 
 **General**
 
-If you have any concern about the way we treat your privacy or questions about our copyright information, please email us at [customerservice@stopagingnow.com](mailto:customerservice@stopagingnow.com) and we will do our best to resolve it.
+If you have any concern about the way we treat your privacy or questions about our copyright information, please email [Customer Care](https://www.stopagingnow.com/customer_service/contact_form) and we will do our best to resolve it.
