@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the allfreeessays.com privacy policy that was archived on 2012-11-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121111181153id_/http%3A//www.allfreeessays.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the allfreeessays.com privacy policy that was archived on 2013-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130615044922id_/http%3A//www.allfreeessays.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy - AllFreeEssays.com
 
@@ -84,7 +84,7 @@ If you are a California resident, in addition to the rights set forth above, you
 
 
 
-You are entitled to receive a copy of this information in a standardized format and the information will not be specific to you individually. Our designated email address for such requests is **privacy@allfreeessays.com**.
+You are entitled to receive a copy of this information in a standardized format and the information will not be specific to you individually. Our designated email address for such requests is **privacyAll Free Essaysallfreeessays.com**.
 
 * ### Changes
 
