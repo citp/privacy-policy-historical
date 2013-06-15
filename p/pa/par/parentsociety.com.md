@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the parentsociety.com privacy policy that was archived on 2012-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121215030910id_/http%3A//www.parentsociety.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the parentsociety.com privacy policy that was archived on 2013-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130615161441id_/http%3A//www.parentsociety.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Parent Society | Parent Society
+# Privacy Policy | Parent Society
 
 **Privacy Policy**
 
