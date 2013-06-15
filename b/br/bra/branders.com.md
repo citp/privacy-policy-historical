@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the branders.com privacy policy that was archived on 2012-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121231013423id_/http%3A//www.branders.com/content/pages/privacy-policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the branders.com privacy policy that was archived on 2013-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130615102006id_/http%3A//www.branders.com/content/pages/privacy-policy.htm) for the most accurate reproduction.*
 
 # Privacy Policy | Branders.com Promotional Products
 
@@ -9,7 +9,7 @@ The information we learn from customers helps us personalize and continually imp
 
   * Information You Give Us: We receive and store any information you enter on our Web site or give us in any other way. Branders.com is in the practice of collecting the following information: phone, email, company name, quotes, projects, and order information. You can choose not to provide certain information, but then you might not be able to take advantage of many of our features. We use the information that you provide exclusively for the purpose of responding to your requests and communicating with you.
   * Automatic Information: We receive and store certain types of information whenever you interact with us. For example, like many Web sites, we use “cookies,” and we obtain certain types of information when your Web browser accesses Branders.com. The automatic information we receive and store is: user login and password. Although we will not be able to provide you with a personalized experience at Branders.com if we cannot recognize you, we want you to be aware that these tools exist.
-  * E-mail Communications: Your email address is used by Branders.com exclusively to communicate new products and services and special offers that are available to you, to communicate to you regarding your order or potential order, and/or to notify you of material changes to Branders.com privacy policy. If you do not want to receive e-mail or other mail from us, please adjust your My Accounts Page.
+  * E-mail Communications: Your email address is used by Branders.com exclusively to communicate new products and services and [special offers](http://www.branders.com/best-buys/) that are available to you, to communicate to you regarding your order or potential order, and/or to notify you of material changes to Branders.com privacy policy. If you do not want to receive e-mail or other mail from us, please adjust your My Accounts Page.
 
 
 
