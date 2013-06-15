@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the acsa-arch.org privacy policy that was archived on 2012-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121120000947id_/http%3A//www.acsa-arch.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the acsa-arch.org privacy policy that was archived on 2013-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130615232022id_/http%3A//acsa-arch.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
