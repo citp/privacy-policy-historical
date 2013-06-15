@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the trevvy.com privacy policy that was archived on 2012-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121213152906id_/http%3A//www.trevvy.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the trevvy.com privacy policy that was archived on 2013-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130615100829id_/http%3A//www.trevvy.com/privacy) for the most accurate reproduction.*
 
 # Trevvy | Privacy
 
