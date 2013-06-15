@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the political.com privacy policy that was archived on 2012-09-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120920043121id_/http%3A//www.political.com/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the political.com privacy policy that was archived on 2013-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130615072539id_/http%3A//political.com/Privacy) for the most accurate reproduction.*
 
 # Political.com – Privacy Policy
 
