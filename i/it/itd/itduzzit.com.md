@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the itduzzit.com privacy policy that was archived on 2012-10-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121012004424id_/http%3A//cloud.itduzzit.com/clkn/https/www.itduzzit.com/it/doc/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the itduzzit.com privacy policy that was archived on 2013-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130615162521id_/http%3A//cloud.itduzzit.com/clkn/https/www.itduzzit.com/it/doc/privacy-statement) for the most accurate reproduction.*
 
 # itDuzzit - Privacy Statement
 
 Itrios LLC (hereinafter itDuzzit.com) takes your privacy seriously. We know that you care how information about you is used and shared, and we appreciate your trust that we will do so carefully and sensibly. This notice describes our privacy policy. **By visiting itDuzzit.com, you are accepting the practices described in this Privacy Notice.**
 
-[](https://privacy-policy.truste.com/click-with-confidence/wps/en/www.itduzzit.com/seal_m "TRUSTe online privacy certification") [](https://privacy-policy.truste.com/click-with-confidence/eusafe/en/www.itduzzit.com/seal_m "TRUSTe European Safe Harbor certification")
+[](https://privacy.truste.com/privacy-seal/Itrios,-LLC-Jsoft/validation?rid=cdc2554b-f0d0-4b03-bc2d-5a3c4604da09 "TRUSTe European Safe Harbor certification")
 
-itDuzzit.com has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with [TRUSTe's program requirements](http://www.truste.com/privacy_seals_and_services/consumer_privacy/privacy-programs-requirements.html) including transparency, accountability and choice regarding the collection and use of your personal information. The TRUSTe program does not cover information that may be collected through downloadable software. TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy policy or practices, please contact us [here](http://www.itduzzit.com/duzz/contact-privacy). If you are not satisfied with our response you can contact [TRUSTe here](http://watchdog.truste.com/pvr.php?page=complaint). itDuzzit.com complies with the EU Safe Harbor framework as set forth by the Department of Commerce regarding the collection, use, and retention of data from the European Union. 
+itDuzzit.com has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with [TRUSTe's program requirements](http://www.truste.com/privacy_seals_and_services/consumer_privacy/privacy-programs-requirements.html) including transparency, accountability and choice regarding the collection and use of your personal information. The TRUSTe program does not cover information that may be collected through downloadable software. The TRUSTe program covers only information that is collected through this Web site, http://www.itduzzit.com. TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy policy or practices, please contact us [here](http://www.itduzzit.com/duzz/contact-privacy). If you are not satisfied with our response you can contact [TRUSTe here](http://watchdog.truste.com/pvr.php?page=complaint). 
 
-[](https://privacy-policy.truste.com/click-with-confidence/ctv/en/www.itduzzit.com/seal_m "Validate TRUSTe privacy certification")
+itDuzzit.com complies with the U.S. – E.U. Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use and retention of personal data from the European Union member countries. itDuzzit.com has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view itDuzzit.com’s certification, please visit http://www.export.gov/safeharbor/ . 
 
 ## What Personal Information Does itDuzzit.com Gather?
 
@@ -56,7 +56,7 @@ itDuzzit.com is not in the business of selling information about our customers t
 
 
 
-itDuzzit.com may display targeted advertisements based upon personal information. Advertisers (including ad serving companies) may assume that people who interact with, view, or click targeted ads meet the targeting criteria. itDuzzit.com does not provide any personal information to the advertiser when you interact with or view a targeted advertisement. However, by interacting with or viewing an advertisement, you are consenting to the possibility that the advertiser will make the assumption that you meet the targeting criteria used to display the advertisement.
+itDuzzit.com may display targeted advertisements based upon personal information. Advertisers (including ad serving companies) may assume that people who interact with, view, or click targeted ads meet the targeting criteria. itDuzzit.com does not provide any personal information to the advertiser when you interact with or view a targeted advertisement. If you wish not to have this information used for the purpose of serving you targeted ads, you may opt-out by clicking [here](http://preferences-mgr.truste.com/). Please note this does not opt you out of being served advertising. You will continue to receive generic ads. However, by interacting with or viewing an advertisement, you are consenting to the possibility that the advertiser will make the assumption that you meet the targeting criteria used to display the advertisement.
 
 ## How Secure Is Information About Me?
 
@@ -65,6 +65,8 @@ We limit access to personal information about you to employees who we believe re
 itDuzzit.com works to protect the security of your information during transmission by using Secure Sockets Layer (SSL) software, which encrypts information you input.
 
 It is important for you to protect against unauthorized access to your password and to your computer. Be sure to sign off when finished using a shared computer.
+
+We will retain your information for as long as your account is active or as needed to provide you services. If you wish to cancel your account or request that we no longer use your information to provide you services contact us [here](http://www.itduzzit.com/duzz/contact-privacy). We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.
 
 ## What About Third-Party Advertisers and Links to Other Websites?
 
@@ -84,11 +86,15 @@ itDuzzit.com is intended for people 18 and over. We will not knowingly collect i
 
 ## Changes to this Privacy Statement
 
-If we decide to change our privacy policy, we will post those changes to this privacy statement, the home page, and other places we deem appropriate so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it. We reserve the right to modify this privacy statement at any time, so please review it frequently. If we make material changes to this policy, we will notify you here as well as by email. 
+If we decide to change our privacy statement, we will post those changes to this privacy statement, the home page, and other places we deem appropriate so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it. We reserve the right to modify this privacy statement at any time, so please review it frequently. If we make material changes to this policy, we will notify you here as well as by email prior to the change becoming effective. 
 
 ## Blogs
 
-itDuzzit.com offers publicly accessible blogs or community forums. You should be aware that any information you provide in these areas may be read, collected, and used by others who access them.
+itDuzzit.com offers publicly accessible blogs or community forums. You should be aware that any information you provide in these areas may be read, collected, and used by others who access them. To request removal of your personal information from our blog or community forum, contact us at support@itduzzit.com. In some cases, we may not be able to remove your personal information, in which case we will let you know if we are unable to do so and why.
+
+## Testimonials
+
+We display personal testimonials of satisfied customers on our site in addition to other endorsements. With your consent we may post your testimonial along with your name. If you wish to update or delete your testimonial, you can contact us at support@itduzzit.com.
 
 ## Questions and Suggestions
 
