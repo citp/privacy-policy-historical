@@ -1,14 +1,8 @@
-> *The following text is extracted and transformed from the affordablemobiles.co.uk privacy policy that was archived on 2012-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121101230853id_/http%3A//www.affordablemobiles.co.uk/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the affordablemobiles.co.uk privacy policy that was archived on 2013-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130615041239id_/http%3A//www.affordablemobiles.co.uk/privacy.html) for the most accurate reproduction.*
 
 # Affordable Mobiles Privacy Policy
 
-| 
-
-[ ](http://www.facebook.com/affordablemobiles.co.uk "Affordable Mobiles has a fan page on Facebook.")
-
-[ ](http://twitter.com/share?url=www.affordablemobiles.co.uk "Follow Affordable Mobiles on our Twitter account.")
-
-| 
+|  | 
 
 |   
 ---  
@@ -58,7 +52,9 @@ If you have any comments regarding our website or our privacy policies, then ple
   
 [](https://web.archive.org/about/#/whychooseus) [](https://web.archive.org/about/#/freedelivery) [](https://web.archive.org/about/#/awards)
 
-[](https://web.archive.org/iphone5.html) [](https://web.archive.org/samsung-galaxy-s3.html)
+[](https://web.archive.org/contract-mobile-phones/view-all-3-network.html) [](https://web.archive.org/contract-mobile-phones/view-all-t-mobile-network.html)
+
+[](https://web.archive.org/mobile-phone-upgrades.html)
 
 ### Testimonials
 
@@ -67,5 +63,3 @@ If you have any comments regarding our website or our privacy policies, then ple
 “Fantastic customer services - thank you so much - well impressed.”
 
 L. Conway, Coventry
-
-[](https://web.archive.org/about.html)
