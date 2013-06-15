@@ -1,10 +1,12 @@
-> *The following text is extracted and transformed from the serverintellect.com privacy policy that was archived on 2012-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121228203837id_/http%3A//www.serverintellect.com/terms/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the serverintellect.com privacy policy that was archived on 2013-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130615150927id_/http%3A//www.serverintellect.com/terms/privacy.aspx) for the most accurate reproduction.*
 
 # Server Intellect Privacy Policy
 
 ##### Acknowledgement & Acceptance of Terms
 
-Server Intellect is committed to protecting your privacy. This Privacy Statement sets forth our current privacy practices with regard to the information we collect when you or your computer interact with our website. By accessing Server Intellect/ www.serverintellect.com, you acknowledge and fully understand Server Intellect's Privacy Statement and freely consent to the information collection and use practices described in this Website Privacy Statement.
+Server Intellect is committed to protecting your privacy.
+
+Server Intellect complies with the U.S.-EU Safe Harbor Framework and the U.S.-Swiss Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries and Switzerland. Server Intellect has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view our certification, please visit <http://www.export.gov/safeharbor/>
 
 ##### Participating Merchant Policies
 
@@ -65,6 +67,10 @@ We will provide you with the means to ensure that personally identifiable inform
 ##### Changes to this Statement
 
 Server Intellect has the discretion to occasionally update this privacy statement. When we do, we will also revise the "updated" date at the top of this Privacy page. We encourage you to periodically review this privacy statement to stay informed about how we are helping to protect the personal information we collect. Your continued use of the service constitutes your agreement to this privacy statement and any updates
+
+##### Implementation
+
+Server Intellect has established internal mechanisms to verify its continued observations to its privacy policy, including the Safe Harbor principles. Server Intellect reassures those covered by this privacy policy that has any concerns about our processing of personal information to contact us the address below. We will attempt to resolve any concerns or complaints. Server Intellect has also agreed to participate in the dispute resolution program by the EU Data Protection Authorities. 
 
 ##### Contacting Us
 
