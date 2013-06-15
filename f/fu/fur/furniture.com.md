@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the furniture.com privacy policy that was archived on 2012-10-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121029052912id_/http%3A//www.furniture.com/shared/Pages/customerservice/policy.aspx%23190) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the furniture.com privacy policy that was archived on 2013-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130615055905id_/http%3A//www.furniture.com/shared/Pages/customerservice/policy.aspx%23190) for the most accurate reproduction.*
 
-# - Our Policies - Furniture.com
+# Our Policies | Furniture.com
 
 ---  
 Furniture.com is committed to ensuring your shopping experience is everything you expect it to be.  
@@ -75,7 +75,7 @@ Once you place your order, you will receive the contact information of service r
   
 Returns after Delivery  
   
-Furniture.com is proud to offer quality furniture from our retail partners with great value to our customers. Merchandise received by customers in good condition is not returnable or cancelable and no refunds are available.
+We guarantee your complete satisfaction and our goal is to ensure you are pleased with your purchase experience. If for any reason, you are not completely satisfied, we want to hear about it and will try to make it right. You may return your product within 5 days of delivery of your order by calling us at 866-965-3876. Refunds will exclude delivery fees or restocking fee and can only be made if the merchandise is in "as-new" condition. Mattress and Box Spring Items are not refundable or exchangeable.
   
 Other Service Issues  
   
