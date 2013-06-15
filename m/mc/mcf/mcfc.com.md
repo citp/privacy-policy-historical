@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mcfc.com privacy policy that was archived on 2012-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121110055732id_/http%3A//www.mcfc.com/Common/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mcfc.com privacy policy that was archived on 2013-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130615205914id_/http%3A//mcfc.com/Common/Privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Common - Manchester City FC
 
@@ -22,10 +22,9 @@ By supplying your information to us you confirm that you do not consider use of 
 
 You have the right to prevent marketing information being sent direct to you. If you prefer not to receive information from us or from any other organisation to which we may disclose your personal information, you can write to us by mail or email (see the section "how to contact us" below) or by modifying the settings on your personal profile section during the registration process or at any other time. Please note, however, that if you do withhold or withdraw your consent, we and/or they will be unable to keep you informed of new services, products, events or special offers that may interest you. 
 
-####  Cookies Policy  
+####  Cookies Policy
 
-
-Since May 26th 2011, the law states that cookies on websites can only be used with your specific consent. This will come in to action as of May 26th 2012. MCFC is currently formulating the best way to obtain your consent without compromising your enjoyment of the site. We will update you with this information once it is finalised. MCFC uses cookies in the operation of the site in a number of areas. If you choose not to accept our cookies, some services on our site will not be available to you (TBC – will be listed by Dev)
+Since May 26th 2011, the law states that cookies on websites can only be used with your specific consent. This will come in to action as of May 26th 2012. MCFC is currently formulating the best way to obtain your consent without compromising your enjoyment of the site. We will update you with this information once it is finalised. MCFC uses cookies in the operation of the site in a number of areas. If you choose not to accept our cookies, some services on our site will not be available to you.
 
 **a. What is a cookie?**  
 A cookie is a small file of data, often incorporating a unique identifier, that is sent to your computer or mobile phone browser from a website's computer. This data file stores the information you provide us with and in doing so enables us to 'remember' you on repeat visit, effectively letting you move around the site without having to keep reintroducing yourself. Most browsers accept cookies automatically, but you can set your browser to prevent this. If your browser’s preferences allow it, each website or third party service provider is able to send a cookie to your browser. However, to protect your privacy, your browser only allows these websites or third party service providers to access cookies already sent to you, not the cookies sent to you by other sites or other third party service providers. 
