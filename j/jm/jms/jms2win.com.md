@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jms2win.com privacy policy that was archived on 2012-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121106100340id_/http%3A//jms2win.com/en/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jms2win.com privacy policy that was archived on 2013-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130615033831id_/http%3A//www.jms2win.com/en/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy
 
