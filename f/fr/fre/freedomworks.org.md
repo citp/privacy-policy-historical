@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the freedomworks.org privacy policy that was archived on 2012-09-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120920093917id_/http%3A//www.freedomworks.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freedomworks.org privacy policy that was archived on 2013-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130615141731id_/http%3A//www.freedomworks.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | FreedomWorks
 
-_(Last Updated: February 9, 2009)_
+_(Last Updated: August 13, 2012)_
 
 #### Policy Statement
 
@@ -12,7 +12,7 @@ FreedomWorks is dedicated to protecting the privacy of our online members and do
 
 FreedomWorks collects personal information from you on a voluntary basis and we don’t require it to obtain non-membership access to FreedomWorks.org. The types of personal information we collect may include your name, mailing address, email address, and phone number.
 
-We do not sell or share your email address or phone number with any third parties, (other than information technology vendors we use to manage systems such as our database and email delivery). Some activities on FreedomWorks.org explicitly involve sharing your personal information with a third party, such as your elected officials. If you sign a petition or similar call to action that has the express purpose of sending emails or petitions to Congress, the media, or similar, we will share your personal information with the target of the call to action.
+We do not sell your email address or phone number to any third parties. Some activities on FreedomWorks.org explicitly involve sharing your personal information with a third party, such as your elected officials. If you sign a petition or similar call to action that has the express purpose of sending emails or petitions to Congress, the media, or similar, we will share your personal information with the target of the call to action.
 
 On some occasions, we will make our membership postal mailing list available to allied organizations for the purpose of sending direct mail.
 
