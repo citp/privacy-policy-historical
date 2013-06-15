@@ -1,29 +1,87 @@
-> *The following text is extracted and transformed from the findmyhosting.com privacy policy that was archived on 2012-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121231165622id_/http%3A//findmyhosting.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the findmyhosting.com privacy policy that was archived on 2013-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130615072634id_/http%3A//www.findmyhosting.com/privacypolicy) for the most accurate reproduction.*
 
-# Privacy Policy - Find My Hosting
+# Privacy Policy
 
-### What is a Privacy Policy?
-
-FindMyHosting.com created a privacy policy (described herein) to show our dedication and commitment to the privacy of the users of our website. Please read the following to gain an understanding of our privacy policy. If you have any questions whatsoever regarding this policy, please fill out the following contact form and a FindMyHosting.com representative will respond to your query as soon as possible.
+FindMyHosting.com created a privacy policy (described herein) to show our dedication and commitment to the privacy of the users of our website. Please read the following to gain an understanding of our privacy policy. If you have any questions whatsoever regarding this policy, please fill out the following [contact form](https://web.archive.org/contact/) and a FindMyHosting.com representative will respond to your query as soon as possible.
 
 ### What information do we collect from users and how is it used?
 
-FindMyHosting.com is the sole owner of the information collected on this site. We will not sell, share, or rent this information to others in ways different from what is disclosed in this policy. At FindMyHosting.com.com we do not collect any personal information whatsoever, unless you choose to share such information. If you do choose to share personal information via some form of correspondence, such information will not be shared, sold, or rented to others whatsoever.
+This Privacy Policy governs the manner in which FindMyHosting.com collects, uses, maintains and discloses information collected from users (each, a "User") of the [FindMyHosting.com](http://www.findmyhosting.com/) website ("Site"). This privacy policy applies to the Site and all services offered by FindMyHosting.com.
 
-### Correspondence
+### Personal Identification Information
 
-If you correspond with us via E-mail, we may gather the information in a file specific to you. We only collect the information that you provide to us. We will not sell, share, or rent the information that you share with us to others. Like many other websites, FindMyHosting.com collects information about users' utilization and navigation of our site. This information helps us to design our site to better suit our users' needs.
+We may collect personal identification information from Users in a variety of ways, including, but not limited to, when Users visit our site, register on the site, place an order, and in connection with other activities, services, features or resources we make available on our Site. Users may visit our Site anonymously. We will collect personal identification information from Users only if they voluntarily submit such information to us. Users can always refuse to supply personally identification information, except that it may prevent them from engaging in certain Site related activities.
 
-If you request quotes from hosts then your name and email will be shared only with 10 web hosting companies who will then contact you. This information wiill not be shared with any other parties.
+### Non-personal Identification Information
 
-### Does the FindMyHosting.com website use cookies? If so, how are cookies used on the website?
+We may collect non-personal identification information about Users whenever they interact with our Site. Non-personal identification information may include the browser name, the type of computer and technical information about Users means of connection to our Site, such as the operating system and the Internet service providers utilized and other similar information.
 
-Cookies are small files placed on your computer that contain only a unique number. We use this number to recognize your computer when a user of your computer returns. Like most major websites, FindMyHosting.com uses cookies on certain pages of our site. These cookies strictly identify your computer, our cookies do not contain any personal information about you.
+### Web Browser Cookies
 
-### What are the policies of linked sites and other third parties?
+Our Site may use "cookies" to enhance User experience. User's web browser places cookies on their hard drive for record-keeping purposes and sometimes to track information about them. User may choose to set their web browser to refuse cookies, or to alert you when cookies are being sent. If they do so, note that some parts of the Site may not function properly.
 
-This privacy policy only addresses the use and disclosure of information we collect from you. Although you may interact with hosting companies as a result of visiting our site, or link to other sites or third parties via our website, FindMyHosting.com is not responsible for the privacy practices of third parties or the content of linked sites. We encourage you to read the posted privacy policy whenever interacting with any website.
+### How We Use Collected Information
 
-### How will I know about changes in the Privacy Policy?
+FindMyHosting.com may collect and use Users personal information for the following purposes:
 
-FindMyHosting.com reserves the right to update this privacy policy from time to time. Please visit this page periodically so that you will be apprised of any changes. However, we will only use Personally Identifiable Information in accordance with the Privacy Policy that was in effect at the time the information was collected. If at any point we should decide to use that information differently, we will notify users by way of E-mail so that users can approve or disapprove of such use.
+  * To improve customer service  
+Information you provide helps us respond to your customer service requests and support needs more efficiently.
+  * To personalize user experience  
+We may use information in the aggregate to understand how our Users as a group use the services and resources provided on our Site.
+  * To improve our Site  
+We may use feedback you provide to improve our products and services.
+  * To share your information with third parties  
+We may share information with third parties for marketing or other purposes.
+  * To run a promotion, contest, survey or other Site feature
+  * To send Users information they agreed to receive about topics we think will be of interest to them.
+
+
+
+### How We Protect Your Information
+
+We adopt appropriate data collection, storage and processing practices and security measures to protect against unauthorized access, alteration, disclosure or destruction of your personal information and data stored on our Site.
+
+### Third Party Websites
+
+Users may find advertising or other content on our Site that link to the sites and services of our partners, suppliers, advertisers, sponsors, licensors and other third parties. We do not control the content or links that appear on these sites and are not responsible for the practices employed by websites linked to or from our Site. In addition, these sites or services, including their content and links, may be constantly changing. These sites and services may have their own privacy policies and customer service policies. Browsing and interaction on any other website, including websites which have a link to our Site, is subject to that website's own terms and policies.
+
+### Advertising
+
+Ads appearing on our site may be delivered to Users by advertising partners, who may set cookies. These cookies allow the ad server to recognize your computer each time they send you an online advertisement to compile non personal identification information about you or others who use your computer. This information allows ad networks to, among other things, deliver targeted advertisements that they believe will be of most interest to you. This privacy policy does not cover the use of cookies by any advertisers.
+
+### Changes to This Privacy Policy
+
+FindMyHosting.com has the discretion to update this privacy policy at any time. When we do, we will revise the updated date at the bottom of this page. We encourage Users to frequently check this page for any changes to stay informed about how we are helping to protect the personal information we collect. You acknowledge and agree that it is your responsibility to review this privacy policy periodically and become aware of modifications.
+
+### Your Acceptance Of These Terms
+
+By using this Site, you signify your acceptance of this policy. If you do not agree to this policy, please do not use our Site. Your continued use of the Site following the posting of changes to this policy will be deemed your acceptance of those changes.
+
+### Data Request
+
+Upon request we provide site visitors with access to all information [including proprietary information] that we maintain about them. Consumers can access this information by e-mailing us at the below address. 
+
+###  FindMyHosting Cookie Options
+
+Instruction on how to delete cookies on your computer. [Visit Here](http://www.aboutcookies.org/)
+
+Disable third-party cookies in Firefox, [Learn Here](http://support.mozilla.org/en-US/kb/disable-third-party-cookies)
+
+Disable third-party cookies in Chrome:[ Learn Here](http://support.google.com/chrome/bin/answer.py?hl=en&answer=95647)
+
+Disable third-party cookies in Explorer:[ Learn Here](http://windows.microsoft.com/en-US/windows-vista/block-or-allow-cookies)
+
+Opt out of Googles Cookies that are used for retargeting, [Visit Here](https://www.google.com/settings/ads/onweb/)
+
+Opt out of Behavioral Advertising, [Visit Here](http://www.networkadvertising.org/choices/)
+
+### Contacting Us
+
+If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us at: 
+
+FindMyHosting.com  
+465 Brickell Ave, 906   
+Miami FL 33131  
+[privacy@FindMyHosting.com](mailto:privacy@findmyhosting.com)
+
+This document was last updated on March 09, 2013 
