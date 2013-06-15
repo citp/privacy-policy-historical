@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the marathonbet.com privacy policy that was archived on 2012-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121208144757id_/http%3A//help.marathonbet.com/en/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the marathonbet.com privacy policy that was archived on 2013-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130615195935id_/http%3A//help.marathonbet.com/en/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy - online bookmaker MARATHON
 
@@ -8,11 +8,11 @@ Registration with marathonbet.com is mandatory if you wish to use this website.
 
 During the registration stage we will ask you for personal information. This will include your name, address, date of birth and contact details, such as your email and telephone number.
 
-You may update your personal information at any time in the My Account/Personal Details section of the website or by telephoning the Customer Support team. We will also ask you to enter a unique identification ID and a password which you will use for any subsequent logins on this website.
+You may update your personal information at any time in the My Account/Personal Details section of the website or by telephoning the Customer Care team. We will also ask you to enter a unique identification ID and a password which you will use for any subsequent logins on this website.
 
 As the internet is a global commodity, its use to collect and process information data may involve the transmission of this data on an international basis Therefore, by registering and using our website, you acknowledge and agree to our processing of your personal data in this way.
 
-We may occasionally wish to contact you with information on promotional offers (such as Free bets), technical updates and new site features. If you wish to unsubscribe, please correct the correspondence check boxes on the My Preferences - Other Settings page accordingly. Alternatively, this can be done by contacting Customer Support.
+We may occasionally wish to contact you with information on promotional offers (such as Free bets), technical updates and new site features. If you wish to unsubscribe, please correct the correspondence check boxes on the My Preferences - Other Settings page accordingly. Alternatively, this can be done by contacting Customer Care.
 
 ## Cookies
 
@@ -30,7 +30,7 @@ There are also a number of additional security measures in place to protect the 
 
 ## Communications
 
-All telephone calls to and from the Customer Support team will be recorded, and may be used for training and security purposes.
+All telephone calls to and from the Customer Care team will be recorded, and may be used for training and security purposes.
 
 ## Other Sites
 
