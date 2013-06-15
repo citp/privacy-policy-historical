@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dealradar.com privacy policy that was archived on 2012-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121113024636id_/http%3A//www.dealradar.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dealradar.com privacy policy that was archived on 2013-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130615031111id_/http%3A//www.dealradar.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Dealradar.com :: Local Offers | Restaurant Deals | Spa Deals | Local Deals | Deal-a-Day Sites
 
@@ -21,7 +21,7 @@ Additionally, we work with third parties who use cookies and other technologies 
 
 
 
-If you prefer to NOT see personalized content that is relevant to you and your interests, please [click here](https://web.archive.org/deals/houston?edit_personalization=true) and follow the "What's This?" link to update your preferences. Please note that if you choose to opt-out, you are only opting-out of personalized content on this website, and only for the current computer and browser you are using. If you delete or turn off cookies, this option will be reset. 
+If you prefer to NOT see personalized content that is relevant to you and your interests, please [click here](https://web.archive.org/select_your_city?edit_personalization=true) and follow the "What's This?" link to update your preferences. Please note that if you choose to opt-out, you are only opting-out of personalized content on this website, and only for the current computer and browser you are using. If you delete or turn off cookies, this option will be reset. 
 
 ##### 2\. WHAT DO WE USE YOUR INFORMATION FOR?
 
