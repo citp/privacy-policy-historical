@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the bookshare.org privacy policy that was archived on 2012-07-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120710082233id_/https%3A//www.bookshare.org/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bookshare.org privacy policy that was archived on 2013-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130616005239id_/https%3A//www.bookshare.org/about/privacy) for the most accurate reproduction.*
 
 # Privacy - Bookshare - Accessible Books for Individuals with Print Disabilities - Bookshare - Accessible Books for Individuals with Print Disabilities
+
+Bookshare will undergo scheduled maintenance between Friday, June 21st at 5PM and Saturday, June 22nd at 1:00AM PDT. Please note that users will NOT have access to the Bookshare website or related tools during this time. 
 
 Bookshare® is a nonprofit website dedicated to providing accessible books and other materials ("Content") to people with print disabilities. We collect personal information about our users in order to deliver a better service and to meet our legal obligations under the copyright law. Users include our Members with print disabilities, volunteers, school and organizational staff, access technology professionals and parents. We do not provide commercial entities with this personal information for commercial or marketing purposes. This Privacy Policy is intended to fully inform you about our uses of the information we collect. 
 
@@ -39,14 +41,14 @@ We will not provide access to any third parties to the information contained in 
 
 ## Upload & Review Transaction Information
 
-As part of its efforts to build the Bookshare collection, Bookshare accepts uploads of Content and reviews of books and of particular versions of books from its qualified users, organizations and volunteers. Bookshare will maintain transaction logs of these uploads, and will use this information extensively. Users are not required to provide such uploads. Specifically, Bookshare will use this information: 
+As part of its efforts to build and improve the Bookshare collection, Bookshare accepts uploads of Content, accessibility improvements (such as image descriptions) and reviews of books and of particular versions of books from its qualified users, organizations and volunteers. Bookshare will maintain transaction logs of these activities, and will use this information extensively. Users are not required to provide such uploads. Specifically, Bookshare will use this information: 
 
   * To track the quality of uploads and reviews by users, organizations and volunteers, and may identify the uploading person with the Content on the website, and may also publicize particularly high quality uploaders of Content or reviewers.
   * To track uploading activity in violation of copyright law or Bookshare policies, such as content that is not represented correctly, incomplete content, content from other eBook suppliers and so on.
 
 
 
-It may be possible that another service such as a book retailer or a maker of adaptive software can be accessed via a link on the Bookshare site. We will not provide specific information about an individual to any such service. However, it is possible that the linked service may receive information that a link on Bookshare was used to access their site. It is also possible that such a non-Bookshare site may collect personal information on its site. Bookshare is not responsible in any way for information provided or used at sites not under its control. 
+It may be possible that another service can be accessed via a link on the Bookshare site, or via the Bookshare Application Programmers Interface (API). We will not provide specific information about an individual to any such service reached through a link. However, it is possible that the linked service may receive information that a link on Bookshare was used to access their site. It is also possible that such a non-Bookshare site may collect personal information on its site. If you choose to use an assistive technology product that is accessing Bookshare through our API, such a product will have access to your account and transaction information. Bookshare is not responsible in any way for information provided or used by sites or products not under its control. 
 
 ## Receiving Information from Us
 
@@ -62,7 +64,7 @@ Protection of users information is important to Bookshare. When users submit sen
 
 ### Online Protection - Encryption Technology
 
-When our registration form asks users to enter sensitive information, that information is encrypted before transmission and is protected with the standard encryption software in the industry - SSL. While on a secure page, such as our registration page, the lock icon on the bottom of Web browsers such as Netscape Navigator and Microsoft Internet Explorer becomes locked, as opposed to un-locked, or open, when you are on a page that is not secure. Web browsers can also be set to alert you if you are on a page that is secure, which is an alternative method for individuals who use screen readers to access web pages. This icon may not always appear when you are viewing encrypted pages on the site due to the use of multiple frames. However, the information you provide will be encrypted before transmission. To ensure that SSL technology is active, you must use an SSL-enabled browser such as Mozilla Firefox 1.0 or higher (2.0 or higher strongly recommended) or Internet Explorer 3.0 or higher (7.0 or higher strongly recommended). If you have questions regarding security with your specific browser, please refer to your browser's help files or documentation. 
+When our registration form asks users to enter sensitive information, that information is encrypted before transmission and is protected with the standard encryption software in the industry - SSL. While on a secure page, such as our registration page, the lock icon on the bottom of Web browsers such as Mozilla Firefox, Google Chrome, Apple Safari and Microsoft Internet Explorer becomes locked, as opposed to un-locked, or open, when you are on a page that is not secure. Web browsers can also be set to alert you if you are on a page that is secure, which is an alternative method for individuals who use screen readers to access web pages. This icon may not always appear when you are viewing encrypted pages on the site due to the use of multiple frames. However, the information you provide will be encrypted before transmission. To ensure that SSL technology is active, you must use an SSL-enabled browser such as Mozilla Firefox 1.0 or higher (2.0 or higher strongly recommended) or Internet Explorer 3.0 or higher (7.0 or higher strongly recommended). If you have questions regarding security with your specific browser, please refer to your browser's help files or documentation. 
 
 ### Off-Line Security
 
@@ -71,6 +73,12 @@ All of our users' information, not just the sensitive information mentioned abov
 ### Children
 
 The privacy and protection of children is of great importance to Bookshare. For this reason, individuals who are less than 18 years of age will need the permission of a parent or other legal guardian to join. This parent or legal guardian may be entitled to information about the usage of the minor Bookshare user. In addition, material which has been rated as having adult Content will not be available to those under 18 years of age without specific permission from a parent or legal guardian. 
+
+### Use of Cookies and Analytics
+
+This website may set cookies (as described below) for your web browser as you visit our websites or use our products. The Bookshare website may use cookies for a number of purposes, including remembering your login information, analytics, interface preferences and your last place in a given piece of Content. 
+
+The Bookshare website uses Google Analytics, a web analytics service provided by Google, Inc. (“Google”). Google Analytics uses “cookies”, which are text files placed on your computer, to help the website analyze how users use the site. The information generated by the cookie about your use of the website (including your IP address) will be transmitted to and stored by Google on servers in the United States. Google will use this information for the purpose of evaluating your use of the website, compiling reports on website activity for website operators and providing other  services relating to website activity and internet usage.  Google may also transfer this information to third parties where required to do so by law, or where such third parties process the information on Google’s behalf. Google will not associate your IP address with any other data held by Google.  You may refuse the use of cookies by selecting the appropriate settings on your browser, however please note that if you do this you may not be able to use the full functionality of this website.   By using this website, you consent to the processing of data about you by Google in the manner and for the purposes set out above. 
 
 ## Shared Responsibility
 
@@ -91,8 +99,10 @@ The content information uploaded to Bookshare by users is available for Bookshar
 
 ## International Use
 
-Bookshare provides content on a limited basis to international users, only through explicit permissions from publishers and authors. We will do our best to comply with EU Privacy Rules and will not knowingly provide any personal information in violation of these Rules. 
+Bookshare provides content to international users, only through explicit permissions from publishers and authors, and/or applicable national laws. We will do our best to comply with EU Privacy Rules and will not knowingly provide any personal information in violation of these Rules. 
 
 ## Notification of Changes
 
 If we change our Privacy Policy, we will post those changes on our website so our users are always aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it. If at any point we decide to use personally identifiable information in a manner different from that stated at the time it was collected, we will notify users through an email. Users will have a choice as to whether or not we use their information in this different manner. 
+
+Privacy Policy version updated as of January 15, 2013.
