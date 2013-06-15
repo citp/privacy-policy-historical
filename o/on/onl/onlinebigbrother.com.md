@@ -1,7 +1,8 @@
-> *The following text is extracted and transformed from the onlinebigbrother.com privacy policy that was archived on 2012-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121210095206id_/http%3A//www.onlinebigbrother.com/onlinebigbrother-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the onlinebigbrother.com privacy policy that was archived on 2013-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130615035523id_/http%3A//www.onlinebigbrother.com/onlinebigbrother-privacy-policy) for the most accurate reproduction.*
 
-# Onlinebigbrother Privacy Policy Big Brother 15 Spoilers | OnlineBigBrother Live Feed Updates
+# Onlinebigbrother Privacy PolicyBig Brother 15 Spoilers | OnlineBigBrother Live Feed Updates
 
+[](http://click.linksynergy.com/fs-bin/click?id=ZBPvjRdH9tw&offerid=287473.170&subid=0&type=4)  
 Privacy Policy for onlinebigbrother.com
 
 The privacy of our visitors to onlinebigbrother.com is important to us.
@@ -25,4 +26,4 @@ Deleting cookies does not mean you are permanently opted out of any advertising 
 
 Google Adsense: <http://www.google.com/policies/privacy/preview/>
 
-Commission Junction: <http://www.cj.com/privacy_web_user.html>
+Link Share: <http://www.linkshare.com/legal/privacy/>
