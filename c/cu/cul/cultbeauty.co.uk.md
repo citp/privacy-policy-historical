@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the cultbeauty.co.uk privacy policy that was archived on 2012-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121219185626id_/http%3A//www.cultbeauty.co.uk/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cultbeauty.co.uk privacy policy that was archived on 2013-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130615034947id_/http%3A//www.cultbeauty.co.uk/privacy-policy.html) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy | Cult Beauty
 
 At Cult Beauty (Cult Beauty Limited) we are committed to protecting your privacy. This Privacy Policy sets out our privacy practices for the Cult Beauty website. Please take the time to review this Privacy Policy carefully as it tells you how your personal information will be treated by us.
 
@@ -33,6 +33,12 @@ We also ask you for other optional information such as what sort of device you u
 **Log files/IP addresses**
 
 When you visit our Site, we automatically log your IP address (the unique address which identifies your computer on the internet) which is automatically recognised by our web server. We use IP addresses to help us administer the Site and to collect broad demographic information for aggregate use. Your IP address is also logged when you make a purchase as a fraud prevention measure required by the payment gateway.
+
+**Credit and debit card information**
+
+If you select the option to allow us to store your card details, then we will do so using the Sage Pay Token System. If you select a Repeat Purchase Product, then we will automatically store your card details via the Sage Pay Token System.
+
+The Token System is a safe way of Cult Beauty keeping card details without actually storing them. Sage Pay store and convert a customer's sensitive payment information into a secure token or "alias". This token is then used by Cult Beauty to process future transactions as and when required, without asking for your card details each time.
 
 **Non-personal information**
 
