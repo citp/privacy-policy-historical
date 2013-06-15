@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the myalli.com privacy policy that was archived on 2012-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121215141619id_/http%3A//consumer.gsk-chus.com/legal/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myalli.com privacy policy that was archived on 2013-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130615123052id_/https%3A//www.gsk-applicationservices.com/consumer/legal/privacy.aspx) for the most accurate reproduction.*
 
-# GlaxoSmithKline Internet Privacy Statement - ©2012
+# GlaxoSmithKline Internet Privacy Statement - ©2013
 
 ### _GlaxoSmithKline Internet Privacy Statement_
 
