@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the puma.com privacy policy that was archived on 2012-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121222074105id_/http%3A//www.puma.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the puma.com privacy policy that was archived on 2013-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130615161809id_/http%3A//www.puma.com/privacy.html) for the most accurate reproduction.*
 
 # PUMA.com : Privacy Policy
 
@@ -58,4 +58,4 @@ Westford, MA, USA 01886
 
 The Privacy Officer will investigate the matter and respond to your request within 30 days. In the event that you become aware that the information we have about you is incorrect, you should notify the Privacy Officer, who will ensure the information is updated. In the case of a complaint, the Privacy Officer will take corrective action (if necessary) and will advise you of the steps taken to correct the problem. If you are still unsatisfied with the actions taken, you may be entitled to make a written complaint to the appropriate government or legislative body. Effective Date: September 1, 2004
 
-© PUMA SE, 2012
+© PUMA SE, 2013
