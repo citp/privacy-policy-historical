@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the iprental.com privacy policy that was archived on 2012-12-14.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121214020417id_/http%3A//www.iprental.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the iprental.com privacy policy that was archived on 2013-06-15.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130615060848id_/http%3A//iprental.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 <meta name="keywords" content="Privacy Policy, Privacy, Safe Harbor">
@@ -7,7 +7,12 @@
 <meta http-equiv="content-type" content="text/html; charset=utf-8">
 <meta name="verify-v1" content="TgoyjZ90rHW+yZibSNI9TPJ52bWwSHELQGyT0sQtb50=">
 <title>IPRental - Privacy Policy</title>
-<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script src="/js-scripts/mm_swapimg.js" language="javascript"></script>
+<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="https://www.google.com/jsapi"></script>
+<script>
+	google.load("jquery", "1");
+	google.load("jqueryui", "1.8.16");
+</script>
+<script src="/js-scripts/mm_swapimg.js" language="javascript"></script>
 <link href="/css-scripts/main.css" rel="stylesheet" type="text/css" media="screen">
 <link rel="stylesheet" href="/js-scripts/graphics-font/stylesheet.css" type="text/css" charset="utf-8">
 <style>
@@ -26,11 +31,10 @@ body {
   <div id="menu">
   	<span><a href="http://www.iprental.com/" style="float:right; display:inline; margin:0px; margin-right:10px; padding:0px; background:none; border:none;"><img src="/images/IPRental-Logo.png" alt="IP Rental" border="0"></a></span>
     <h3 style="font-family:Georgia, 'Times New Roman', Times, serif; margin-bottom:0px; text-align:center; font-size:14px; margin-left:127px; color:#FFFFFF;">
-	4,343,563 Unique IPs leased since December 4th, 2008</h3>
+	3,213,195 Unique IPs leased since December 4th, 2008</h3>
     <ul>
       <li><a href="https://secure.iprental.com/joinnow/">Join Now</a></li>
       <li><a href="http://www.iprental.com/services/">Services</a></li>
-      <li><a href="http://www.iprental.com/vpn/">VPN</a></li>
       <li><a href="http://www.iprental.com/apidoc/">API</a></li>
       <li><a href="http://www.iprental.com/technical/">How it works</a></li>
       <li><a href="http://www.iprental.com/support/">Support</a></li>
@@ -112,15 +116,7 @@ Email: <a href="mailto:privacy@iprental.com">privacy@iprental.com</a></p>
                 
         	        	
               
-        	<h2>VPN Downloads</h2>  
-            <li style="background:url(/images/vpn-background.png) no-repeat; min-height:137px; padding-top:13px; padding-left:5px;">
-              <a href="http://www.iprental.com/release/IPRentalTunnel.exe"><img name="GetIPRentalBeta" src="/images/GetIPRentalVPN.png" border="0" id="GetIPRentalVPN" alt="Install IPRental's VPN Windows Application"></a>
-              <p align="left" style="padding-left:10px;">
-                Download Version 1.0<br> 
-                8.75MB - 
-                <a href="http://www.iprental.com/release/IPRentalTunnel.exe">Download Here</a>
-              </p>
-            </li>
+        	
                         <h2>Proxy Downloads</h2>  
             <li style="background:url(/images/p-download-bck.png) no-repeat; min-height:293px; padding-top:13px; padding-left:5px;">
                
@@ -187,4 +183,48 @@ Email: <a href="mailto:privacy@iprental.com">privacy@iprental.com</a></p>
 </script>
 
 
-</body></html>
+
+<script language="javascript">
+$(document).ready(function(){
+	function ShowPricingNotification(){
+		var $pricing = $('<div id="pricing-update"></div>')
+			.html('<h4 id="pricing-link">Important update regarding our pricing for 2013</h4>')
+			.css({
+				'display':'none',
+				'text-align':'center',                    
+				'height':'50px',
+				'background':'rgb(232,149,32)',
+				'color':'white',
+				'font-size':'18px',
+				'margin':'4px',
+				'padding':'8px',
+				'-moz-border-radius-topleft': '5px',
+				'-moz-border-radius-topright':'5px',
+				'-moz-border-radius-bottomleft':'5px',
+				'-moz-border-radius-bottomright':'5px',
+				'-webkit-border-top-left-radius':'5px',
+				'-webkit-border-top-right-radius':'5px',
+				'-webkit-border-bottom-left-radius':'5px',
+				'-webkit-border-bottom-right-radius':'5px',
+				'border-top-left-radius':'5px',
+				'border-top-right-radius':'5px',
+				'border-bottom-left-radius':'5px',
+				'border-bottom-right-radius':'5px',
+			});
+		$('#wrapper').prepend($pricing);
+		$('#pricing-update').slideDown();
+		$('#fadecontentwrapper').animate({
+			'top':'155px'
+		});
+		$('#pricing-link').css({
+			'color':'white',
+			'margin':'10px',
+			'cursor':'pointer',
+			'font-size':'22px'
+		}).click(function(){
+			location.href = '/pricing/2013/';
+		});
+	}
+	setTimeout(ShowPricingNotification,2000);
+});
+</script></body></html>
