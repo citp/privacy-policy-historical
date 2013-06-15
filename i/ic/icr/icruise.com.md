@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the icruise.com privacy policy that was archived on 2012-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121212182523id_/http%3A//www.icruise.com/about/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the icruise.com privacy policy that was archived on 2013-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130615105943id_/http%3A//www.icruise.com/about/privacypolicy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -15,7 +15,7 @@ Protecting your privacy is important to us. This privacy statement covers iCruis
 
 
 
-If users have questions or concerns regarding this statement, they should contact us at [support@cruisecheap.com](mailto:support@cruisecheap.com)
+If users have questions or concerns regarding this statement, they should contact us at [support@wmph.com](mailto:support@wmph.com)
 
 ## **Information Collection and Use**
 
@@ -69,7 +69,7 @@ In the event WMPH goes through a business transition, such as a merger, being ac
 **Choice/Opt-out**  
 Our users are given the opportunity to opt-out of having their information used for purposes not directly related to our site at the point where we ask for information. For example, our order form has an opt-out mechanism so users who buy a product from us, but dont want any marketing material, can keep their email address off of our lists. 
 
-Users who no longer wish to receive our newsletter and promotional communications may opt-out of receiving these communications by replying to unsubscribe in the subject line in the email or email us at unsubscribe@iCruise.com 
+Users who no longer wish to receive our newsletter and promotional communications may opt-out of receiving these communications by replying to unsubscribe in the subject line in the email or email us at support@wmph.com 
 
 **Links**  
 This Web site may contain links to other sites. Please be aware that we are not responsible for the privacy practices of such other sites. We encourage our users to be aware when they leave our site and to read the privacy statements of each and every Web site that collects personally identifiable information. This privacy statement applies solely to information collected by this Web site. 
@@ -86,7 +86,7 @@ While we use SSL encryption to protect sensitive information online, we also do 
 
 **Correcting/Updating/Deleting/Deactivating Personal Information**
 
-If a users personally identifiable information changes (such as zip code, phone, email or postal address), or if a user no longer desires our service, we provide a way to correct, update or delete/deactivate users personally identifiable information. This can usually be done by emailing our Customer Support at support@cruisecheap.com. [Or, contact us by telephone or postal mail at the contact information listed below]. 
+If a users personally identifiable information changes (such as zip code, phone, email or postal address), or if a user no longer desires our service, we provide a way to correct, update or delete/deactivate users personally identifiable information. This can usually be done by emailing our Customer Support at support@wmph.com. [Or, contact us by telephone or postal mail at the contact information listed below]. 
 
 **Notification of Changes**
 
@@ -100,16 +100,16 @@ If users have any questions or suggestions regarding our Terms and Conditions an
 
   * WMPH Vacations / iCruise.com  
 220 Congress Park Drive  
-Suite 140  
+Suite 330  
 Delray Beach, Florida 33445  
-Phone: 561-243-2100  
-Fax: 561-243-0007  
-[ contactus@cruisecheap.com](mailto:contactus@cruisecheap.com)
+Phone: 1-561-900-9401  
+Fax: 1-561-243-0007  
+[ contactus@wmph.com](mailto:contactus@wmph.com)
 
 
 
   
-**For Cruise Reservations, please call: Toll Free: 1-800-439-1909**
+**For Cruise Reservations, please call: Toll Free: 1-800-427-8473**
 
 **WMPH Vacations  
 **_Building personal and lasting relationships by consistently exceeding expectations._
