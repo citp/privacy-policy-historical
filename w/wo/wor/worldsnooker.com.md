@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the worldsnooker.com privacy policy that was archived on 2010-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101206085211id_/http%3A//www.worldsnooker.com/privacy_policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the worldsnooker.com privacy policy that was archived on 2013-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130616014325id_/http%3A//www.worldsnooker.com/page/privacypolicy) for the most accurate reproduction.*
 
-# World Snooker
+# World Snooker | Privacy Policy | Privacy Policy
 
-**The World Professional Billiards and Snooker Association Limited ("World Snooker" "WS")**
+The World Professional Billiards and Snooker Association Limited ("World Snooker" "WS") 
 
-**Privacy Policy**
+Privacy Policy 
 
-This document forms part of the [World Snooker Terms and Conditions of Use](http://www.worldsnooker.com/termsandconditions.htm) for the [http://www.worldsnooker.com](http://www.worldsnooker.com/) website (the "Site") and should be read in conjunction with it. Terms and expressions used in this document but not otherwise defined shall have the same meanings as set out in the World Snooker Terms and Conditions of Use.
+This document forms part of the World Snooker Terms and Conditions of Use for the [http://www.worldsnooker.com](http://www.worldsnooker.com/) website (the "Site") and should be read in conjunction with it. Terms and expressions used in this document but not otherwise defined shall have the same meanings as set out in the World Snooker Terms and Conditions of Use.
 
 Introduction
 
@@ -30,7 +30,7 @@ We may collect information about you that is not personally identifiable, such a
 
 When you visit our site, we automatically log your IP address. This is the unique address that identifies your computer on the internet and which is automatically recognised by our web server. We use IP addresses to help us administer the Site and to collect data for broad research use. Where possible we link IP addresses to personally identifiable information that helps us evaluate how we might be able to improve our service.
 
-When you view the Site we may store some information on your computer. This information will be in the form of a "Cookie". "Cookies" are small pieces of information that are stored on your browser on your computer’s hard drive. Our cookies do not contain any personally identifying information, but they do enable us to tailor the Site or advertisement to reflect your interests and preferences. Most web browsers automatically accept cookies, but you can usually change your browser to prevent all Cookies or receive a warning before a Cookie is stored.
+When you view the Site we may store some information on your computer. This information will be in the form of a "Cookie". "Cookies" are small pieces of information that are stored on your browser on your computer's hard drive. Our cookies do not contain any personally identifying information, but they do enable us to tailor the Site or advertisement to reflect your interests and preferences. Most web browsers automatically accept cookies, but you can usually change your browser to prevent all Cookies or receive a warning before a Cookie is stored.
 
 Protection of Personal Information
 
@@ -56,4 +56,5 @@ Our Site may contain chat rooms, forums, message boards, and/or news groups for 
 
 Effect
 
-In the event of any inconsistency between the terms of this document and the World Snooker Terms and Conditions of Use the World Snooker Terms and Conditions of Use shall prevail.
+In the event of any inconsistency between the terms of this document and the World Snooker Terms and Conditions of Use the World Snooker Terms and Conditions of Use shall prevail.  
+
