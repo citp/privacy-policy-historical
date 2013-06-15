@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the thingiverse.com privacy policy that was archived on 2012-10-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121010112234id_/http%3A//www.thingiverse.com/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thingiverse.com privacy policy that was archived on 2013-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130615030957id_/http%3A//www.thingiverse.com/legal/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Thingiverse
-
-Digital designs for real, physical objects. A Universe of Things! 
 
 ## Thingiverse Privacy Policy
 
