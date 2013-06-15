@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the factiva.com privacy policy that was archived on 2012-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121213004500id_/http%3A//www.dowjones.com/privacy-policy.asp%3Flink%3Ddjc-bottom) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the factiva.com privacy policy that was archived on 2013-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130615035014id_/http%3A//www.dowjones.com/privacy-policy.asp%3Flink%3Ddjc-bottom) for the most accurate reproduction.*
 
 # Privacy Policy - Dow Jones
+
+**Special Notice: For customers who received the “Dow Jones introduces a single portal to serve you better” email dated April 23, 2013, we will process your request to unsubscribe from Dow Jones Institutional marketing communications.**
 
 **General:**
 
