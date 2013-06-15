@@ -1,58 +1,40 @@
-> *The following text is extracted and transformed from the jimey.tv privacy policy that was archived on 2012-09-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120919230358id_/http%3A//jimey.tv/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jimey.tv privacy policy that was archived on 2013-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130615233022id_/http%3A//www.ezcast.tv/static/privacy-policy.htm) for the most accurate reproduction.*
 
-# Live video - Live streaming - Jimey.tv
+# Privacy policy
 
- 
+Privacy policy
 
-We collect information from you when you register on our site or fill out a form. 
+**General**
 
-When ordering or registering on our site, as appropriate, you may be asked to enter your: name or e-mail address. You may, however, visit our site anonymously.
+Ezcast is committed to protecting your privacy when you use the Ezcast website. This Privacy Policy informs you of the types of information Ezcast collects about you, how that information is used, whether and to whom Ezcast discloses it, and the choices you have regarding your personal information. Please read carefully. 
 
-Google, as a third party vendor, uses cookies to serve ads on your site. Google's use of the DART cookie enables it to serve ads to your users based on their visit to your sites and other sites on the Internet. Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy..
+**Collection of Information**
 
-**What do we use your information for?**  
+Ezcast may automatically collect certain aggregated data regarding your use of the website. Aggregated information is anonymous, statistical information that reflects the scope of the website's user base, sales, customer patterns and related site information. In addition, certain non-personally identifiable information is collected by Ezcast and other third-party advertising providers during your use of the Ezcast website and in serving advertisements to the Ezcast website.
 
-Any of the information we collect from you may be used in one of the following ways: 
+Ezcast may also use cookies to track and understand the traffic on the Ezcast website. Cookies are alphanumeric identifiers that the Ezcast website places onto the user's computer hard drive. Cookies identify the user's computer hard drive so that the Ezcast website can recognize you the next time you visit.
 
-To personalize your experience  
-(your information helps us to better respond to your individual needs)
+Third party advertisements displayed on or in connection with the Ezcast website may also contain cookies set by such advertisers. Ezcast does not control these cookies and users of the Ezcast website should check the privacy policy of such advertisers to understand whether  
+and how it uses cookies. 
 
-To improve our website  
-(we continually strive to improve our website offerings based on the information and feedback we receive from you)
+**Use of Information**
 
-To improve customer service  
-(your information helps us to more effectively respond to your customer service requests and support needs)
+If you submit personally identifiable information to Ezcast through the Ezcast website, then Ezcast may use your personal information to operate, maintain, and provide to you the features and functionality of the site.
 
-To send periodic emails
+Ezcast does not use your email address or other personally identifiable information to send commercial or marketing messages without your consent or except as part of a specific program or feature for which you will have the ability to opt-in or opt-out. Ezcast may, however, use  
+your email address without further consent for non-marketing or administrative purposes 
 
-The email address you provide may be used to send you information, respond to inquiries, and/or other requests or questions.
+**Disclosure of Information**
 
-**How do we protect your information?**  
+Ezcast may share aggregated statistical information and profile information about users of the Ezcast website with third-parties, including distributors, vendors, advertisers actual and potential customers and business partners. This information is not linked to any personally identifiable information.
 
-We implement a variety of security measures to maintain the safety of your personal information when you enter, submit, or access your personal information. 
+Ezcast will not share your personally identifiable information with any third-parties for their commercial or marketing use without your consent  
+or except as part of a specific program or feature for which you will have the ability to opt-in or opt-out.
 
-**Do we use cookies?**  
+Ezcast may release personally identifiable information and/or non-personally-identifiable information if required to do so by law, or in the good-faith belief that such action is necessary to comply with any laws or respond to a court order, subpoena, or search warrant.
 
-Yes (Cookies are small files that a site or its service provider transfers to your computers hard drive through your Web browser (if you allow) that enables the sites or service providers systems to recognize your browser and capture and remember certain information
+Ezcast also reserves the right to disclose personally identifiable information and/or non-personally-identifiable information that, in good faith, if appropriate or necessary to enforce the Terms of Use, take precautions against liability, to investigate and defend itself against any third-party claims or allegations, to assist government enforcement agencies, to protect the security or integrity of the Ezcast website, and to protect the rights, property, or personal safety of Ezcast, our users or others. 
 
-We use cookies to understand and save your preferences for future visits.
+**Changes and updates to this Privacy Notice**
 
-**Do we disclose any information to outside parties?**  
-
-We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information. This does not include trusted third parties who assist us in operating our website, conducting our business, or servicing you, so long as those parties agree to keep this information confidential. We may also release your information when we believe release is appropriate to comply with the law, enforce our site policies, or protect ours or others rights, property, or safety. However, non-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses.
-
-**Third party links**  
-
-Occasionally, at our discretion, we may include or offer third party products or services on our website. These third party sites have separate and independent privacy policies. We therefore have no responsibility or liability for the content and activities of these linked sites. Nonetheless, we seek to protect the integrity of our site and welcome any feedback about these sites.
-
-**Childrens Online Privacy Protection Act Compliance**  
-
-We are in compliance with the requirements of COPPA (Childrens Online Privacy Protection Act), we do not collect any information from anyone under 13 years of age. Our website, products and services are all directed to people who are at least 13 years old or older.
-
-**Online Privacy Policy Only**  
-
-This online privacy policy applies only to information collected through our website and not to information collected offline.
-
-**Terms and Conditions**  
-
-Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website at 
+This privacy notice may be revised periodically and users are encouraged to review it periodically to stay aware of any changes. Your continued use of the Ezcast website constitutes your agreement to this privacy notice and any future revisions.
