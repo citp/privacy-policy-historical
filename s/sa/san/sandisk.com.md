@@ -1,10 +1,12 @@
-> *The following text is extracted and transformed from the sandisk.com privacy policy that was archived on 2012-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121217195000id_/http%3A//www.sandisk.com/about-sandisk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sandisk.com privacy policy that was archived on 2013-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130615090803id_/http%3A//www.sandisk.com/about-sandisk/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# SanDisk’s Privacy Commitment
+
+## SanDisk's Privacy Commitment
 
 **To create a positive consumer experience and to protect the SanDisk brand by respecting and honoring an individual's privacy when he/she entrusts data to SanDisk.**
 
-**Last updated June 24, 2010.**
+**Last updated December 20, 2012.**
 
 SanDisk respects your privacy, and is committed to providing you with a positive experience on our website and in your other interactions with us. This privacy policy explains our practices for handling personal information on- and off-line. If you provide us with personal information, we will treat it as outlined in this policy.
 
@@ -36,7 +38,7 @@ Please click [here](https://web.archive.org/about-sandisk/privacy-policy/faq) to
 
 SanDisk may amend this policy from time to time, and may do so at our discretion, consistent with applicable data protection laws and rules. If we change our privacy policy, we will post the revised policy here, as well as a notice in a prominent location on our website and, if we have a way and are legally permitted to do so, we will contact you by email in the event this privacy policy is materially changed. The revised policy will supersede and replace any previous privacy policies effective as of the date on which it is posted. Your use of the SanDisk Sites after any change represents and confirms your consent and agreement to any such changes.
 
-Last updated:  
+Last updated: December 20, 2012.  
 The last updated version of this privacy policy can be seen [here](https://web.archive.org/about-sandisk/privacy-policy/archived-privacypolicy).
 
 **Information we collect**
@@ -140,7 +142,7 @@ We may transfer your personal information to SanDisk Corporation in the US or to
 
 **If you are visiting from the European Union or other regions with laws governing data collection and use, please note that you are agreeing to the transfer of your personal information to the United States to SanDisk Corporation and to other countries where the SanDisk Group Companies operate, whose privacy laws may be less strict. By providing your personal information you consent to that transfer.**
 
-SanDisk participates in the U.S. Department of Commerce's Safe Harbor principles for online, off-line and manually processed personal information. For more information about the Safe Harbor program, click [here](http://www.export.gov/safeharbor "Safe Harbor") .
+SanDisk complies with the U.S.-E.U. Safe Harbor Framework and the U.S.-Swiss Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information from the European Union member countries and Switzerland. SanDisk has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access and enforcement. To learn more about the Safe Harbor program and to view SanDisk's membership, please [visit](http://www.export.gov/safeharbor "Safe Harbor").
 
 **International and other notices**
 
@@ -162,13 +164,14 @@ If you have comments or questions about this privacy policy, you can email us at
 
 SanDisk Corporation  
 ---  
-601 McCarthy Boulevard  
-Milpitas, CA 95035 USA  
+951 SanDisk Drive  
+Milpitas, CA 95035-7933  
 Attention: Privacy Officer  
 1 (408) 801-1000  
-United States, Canada:[privacy@sandisk.com](mailto:privacy@sandisk.com)  
-Latin America:[privacy-la@sandisk.com](mailto:privacy-la@sandisk.com)  
-Europe, Middle East, Africa:[privacy-EMEA@sandisk.com](mailto:privacy-EMEA@sandisk.com)  
-Japan:[privacy-japan@sandisk.com](mailto:privacy-japan@sandisk.com)  
-Korea:[privacy-korea@sandisk.com](mailto:privacy-korea@sandisk.com)  
-Asia/Pacific:[privacy-asia@sandisk.com](mailto:privacy-asia@sandisk.com)
+   
+United States, Canada: [privacy@sandisk.com](mailto:privacy@sandisk.com)  
+Latin America: [privacy-la@sandisk.com](mailto:privacy-la@sandisk.com)  
+Europe, Middle East, Africa: [privacy-EMEA@sandisk.com](mailto:privacy-EMEA@sandisk.com)  
+Japan: [privacy-japan@sandisk.com](mailto:privacy-japan@sandisk.com)  
+Korea: [privacy-korea@sandisk.com](mailto:privacy-korea@sandisk.com)  
+Asia/Pacific: [privacy-asia@sandisk.com](mailto:privacy-asia@sandisk.com)
