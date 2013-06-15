@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the prettyopinionated.com privacy policy that was archived on 2012-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121215170018id_/http%3A//www.prettyopinionated.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the prettyopinionated.com privacy policy that was archived on 2013-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130615191253id_/http%3A//www.prettyopinionated.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Pretty Opinionated
 
@@ -32,5 +32,3 @@ opt-out of this type of advertising, you can visit http://www.aboutads.info/choi
 The contents of this statement may be altered at any time, at our discretion.
 
 If you have any questions regarding the privacy policy of @prettyopinionated.  you may contact us at prettyopinionated@gmail.com
-
-[](http://pinterest.com/pin/create/button/?url=http%3A%2F%2Fwww.prettyopinionated.com%2Fprivacy-policy%2F&media=&description=Privacy%20Policy)
