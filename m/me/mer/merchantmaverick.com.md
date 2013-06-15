@@ -1,8 +1,12 @@
-> *The following text is extracted and transformed from the merchantmaverick.com privacy policy that was archived on 2012-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121126093734id_/http%3A//www.merchantmaverick.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the merchantmaverick.com privacy policy that was archived on 2013-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130615094644id_/http%3A//www.merchantmaverick.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy « Merchant Maverick
 
-## [Privacy Policy](http://www.merchantmaverick.com/privacy-policy/ "Privacy Policy")
+Reviews  
+Ratings  
+Comparisons  
+Merchant Accounts, POS Software, Shopping Carts Questions?  
+[Email Us](http://www.merchantmaverick.com/about/contact/) [](http://feeds.feedburner.com/merchantmaverick) [](https://www.facebook.com/MerchantMaverick) [](http://twitter.com/merchantmav)
 
 **What Information Do We Collect?**  
 We collect information from you when you subscribe to our newsletter, respond to a survey or fill out a form. 
