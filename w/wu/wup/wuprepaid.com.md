@@ -1,66 +1,104 @@
-> *The following text is extracted and transformed from the wuprepaid.com privacy policy that was archived on 2011-01-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110120155038id_/http%3A//www.westernunion.com/WUCOMWEB/staticMid.do%3Fmethod%3Dload%26pagename%3DprivacyPolicy%26countryCode%3DUS%26languageCode%3Den) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wuprepaid.com privacy policy that was archived on 2013-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130615121511id_/http%3A//www.westernunion.com/us/privacy-policy%3Flang%3Den) for the most accurate reproduction.*
 
-# Western Union - Privacy Policy
+# Privacy Statement
 
-| 
+Western Union Financial Services, Inc. - Privacy Statement (United States)
 
-Online Privacy Statement Western Union Financial Services, Inc.  **Effective Date: November 1, 2010**
+**FACTS** | **WHAT DOES WESTERN UNION FINANCIAL SERVICES, INC. DO WITH YOUR PERSONAL INFORMATION?**  
+---|---  
+**Why?** | Financial companies choose how they share your personal information, whether you send money, receive money, or we otherwise collect information about you. Federal law gives consumers the right to limit some but not all sharing. Federal law also requires us to tell you how we collect, share, and protect your personal information. Please read this notice carefully to understand what we do.  
+**What?** | The types of personal information we collect and share depend on the product or service you have with us. This information can include, without limitation:  
 
-This Privacy Statement describes how we collect and use your non-public personal information (" **Information** "). It applies only to consumers with a United States mailing address. 
 
-INFORMATION WE COLLECT Western Union collects Information about you from a variety of sources including those listed below. You consent to Western Union’s collection, transfer and storage of Information by computers or other transfer or storage devices in the United States and elsewhere when you supply Information. 
+  * government identification numbers, such as: driver’s license, passport, visa or Social Security number 
+  * name, address, mobile and home telephone number
+  * account balances and transaction history 
+  * credit history and payment history
+  * computer information such as the domain and host you use to access the Internet; your computer’s Internet address; the browser and operating system software you use; social profile and network information; the date and time you access our website and the Internet address used to link to our website when you visit us
 
-  * We collect Information you supply when: (a) you ask us or one of our affiliates to send or receive money or to provide other goods or services; (b) you submit Information on applications or other forms to us or our affiliates; or (c) you otherwise submit Information to us, our affiliates or others;
-  * We collect Information about your transactions with us, our affiliates or others; 
-  * We may collect Information about you from a variety of third party sources such as our business clients, government agencies and consumer reporting agencies and other suppliers of information; and 
-  * We collect Information about your online activity as described in the paragraph below titled " **INTERNET TECHNOLOGY** " together with Information about the domain and host you use to access the Internet; your computer’s Internet address; the browser and operating system software you use; the date and time you access our website and the Internet address used to link to our website when you visit us. 
+You consent to our collection, transfer and storage of Information by computers or other transfer or storage devices in the United States and elsewhere when you supply Information.  
+**When?** | This Privacy Statement was last modified on 3/25/2011.  
+**How?** | All financial companies need to share customers’ and consumers’ personal information to run their everyday business. In the section below, we list the reasons financial companies can share their customers’ and consumers’ personal information; the reasons Western Union Financial Services, Inc. chooses to share; and whether you can limit this sharing.  
+**Reasons we can share your personal information** | **Does Western Union Financial Services, Inc. share?** | **Can you limit this sharing?**  
+---|---|---  
+**For our everyday business purposes**  
+such as to process your transactions; maintain your account(s); respond to court orders and legal investigations; report to credit bureaus; gather information about website access, usage and performance; enhance your consumer experience; validate your creditworthiness or your identity; or as otherwise permitted or required by law | Yes | No  
+**For our marketing purposes**  
+such as to offer our products and services to you or notify you about future events and promotions | Yes | No  
+**For joint marketing with other financial companies** | Yes | No  
+**For our affiliates’ everyday business purposes**  
+such as information about your transactions and experiences | Yes | No  
+**For our affiliates’ everyday business purposes**  
+such as information about your creditworthiness | Yes | Yes  
+**For our affiliates to market to you** | Yes | Yes  
+**For nonaffiliates to market to you** | Yes | Yes  
+**To limit our sharing** | **OPT OUT RIGHT (EXCEPT FOR VERMONT OR CALIFORNIA CONSUMERS)**  
+If you prefer that we limit sharing with affiliates or nonaffiliated third parties as described above, you may opt out of those disclosures as follows: 
 
-INTERNET TECHNOLOGY We use Internet technologies like cookies and web beacons to collect Information and for other purposes, including, but not limited to, those identified below: 
-
-  * To assist us in providing services to you;
-  * To allow you to change web pages during your visit without having to re-enter your password;
-  * To store your preferences and other information and to track activity on our website;
-  * To better understand the effectiveness of our promotional campaigns;
-  * To determine whether you came to our site from a banner ad or an affiliate website;
-  * To deliver Information specific to your interests on additional web sites; and 
-  * To determine whether you've acted on our promotional messages.
-
-  
-A " **cookie** " is a text file placed on your computer's hard drive by a web page server. Cookies contain data that can be read by the website that issued the cookie. " **Web beacons** " are transparent electronic images placed in the web code, also called "clear GIFs" or "web bugs" that collect non-personal data while visiting a web site. Your web browser usually has documentation on how to disable cookies and web beacons. This will limit the performance of Western Union's web site.  INFORMATION WE DISCLOSE Subject (in certain cases) to your opt-out selections (or opt-in selection with respect to Vermont and California consumers, as described below) or as otherwise permitted by law, we may disclose the Information we collect in the paragraphs titled, " **INFORMATION WE COLLECT** " and " **INTERNET TECHNOLOGY** " to our affiliates and to unaffiliated third parties as described below. 
-
-We may disclose Information about current and former consumers and customers to the following types of third parties: 
-
-  1. Financial service providers such as Western Union Agents that offer our services; 
-  2. Banks, credit card companies, brokerage houses, mortgage lenders and mortgage originators; 
-  3. Non-financial companies such as retailers, direct marketers and other providers of goods and services; 
-  4. Government agencies; and 
-  5. As permitted or required by law.
-
-  
-We may also disclose Information to companies that perform marketing services for us or other financial institutions with whom we have joint marketing arrangements.  CONFIDENTIALITY AND SECURITY We endeavor to maintain physical, electronic and procedural safeguards to guard your Information. We also endeavor to restrict Information access to our employees, agents and representatives that need to know it. Despite our efforts, and as you probably know, third parties may unlawfully intercept or access your transmissions to us or may wrongly instruct you to disclose Information to them while posing as Western Union. OPT OUT RIGHT (NON-VERMONT OR CALIFORNIA CONSUMERS) If you prefer that we not disclose certain of your Information to nonaffiliated third parties, you may opt out of those disclosures. If you wish to opt out of disclosures of Information to nonaffiliated third parties, you may: (1) check the opt out box and submit it to us during the registration process (online registrations only); (2) check the opt out box and submit it to us through the "Edit your privacy information" link on our website (accessible through the "Personal Information" link under the "Your Account" menu on our website); (3) call the customer service number listed below to instruct us not to share your Information; or (4) contact us by mail at the address listed below. Some third party (nonaffiliate) disclosures are not subject to an opt-out choice. These include, among others, disclosures necessary to effect, administer or enforce a transaction you request; disclosures to our authorized service providers (including Western Union Agents); disclosures permitted or required by law or disclosures to prevent fraud or other illegal activities. Western Union maintains your opt-out choices and transaction history for a fixed time period. If you do not perform another transaction during the fixed time period, your Information, as well as your opt-out choice will be removed.  VERMONT AND CALIFORNIA CONSUMERS Western Union will only disclose Information about consumers with a Vermont or California mailing address to unaffiliated third parties with your written authorization, unless otherwise permitted by applicable law. Vermont and California disclosures that are permitted by law without written authorization include, among others, disclosures necessary to effect, administer or enforce a transaction you request; disclosures to our authorized service providers (including Western Union Agents); disclosures permitted or required by law or disclosures to prevent fraud or other illegal activities. Written authorizations from Vermont consumers may be delivered to us at P.O. Box 66970, St. Louis, MO 63166-9882 or by email at [privacy@westernunion.com](mailto:privacy@westernunion.com). Vermont authorizations must contain your name, address and signature and your authorization to disclose your Information to nonaffiliated third parties. You may revoke your consent at any time by calling us at 1-800-562-2598, or by writing or emailing us at the addresses provided in this paragraph. California consumers should contact us at the addresses provided in this paragraph for instructions on how to deliver their authorizations.  TEXAS CONSUMERS Complaints concerning sale of checks or money transmission activities should be directed to: Western Union Financial Services, Inc., P.O. Box 4430, Bridgeton, Missouri 63044 or call 1-800-325-4045.
-
-After first contacting Western Union, if you still have an unresolved complaint regarding the company’s sale of checks or money transmission activities, please direct your complaint to
-
-**In person or U.S. Mail:**  
-Texas Department of Banking  
-2601 North Lamar Boulevard  
-Austin, Texas 78705  
-**Telephone Number:** 1-877-276-5554  
-**Fax Number:** 1-512-475-1313  
-**e-mail address:** consumer.complaints@banking.state.tx.us  
-**Website Address:** www.dob.texas.gov 
-
-CHILDREN’S PRIVACY Our website is not directed at children under the age of 13. Western Union does not knowingly collect or maintain Information at our website from those we actually know are under the age of 13.  EXTERNAL WEBSITES Our website may be linked to or from third party websites. Western Union is not responsible for the content or privacy practices of websites that are linked to or from our website.  INTERNET ONLY PROVISIONS Some of this Privacy Statement applies only when you visit us at [www.westernunion.com](http://www.westernunion.com/) or other Western Union branded websites. This includes the paragraphs titled, " **INTERNET TECHNOLOGY,** " " **CHILDREN'S PRIVACY,** " and " **EXTERNAL WEBSITES** " and those parts of the other paragraphs in this Privacy Statement that contain information about the Internet or websites. Everything else applies whether you visit us at an Agent location, on the Internet or on the telephone.  CHANGES Western Union reserves the right to modify this Privacy Statement. You can get updated Privacy Statements by calling us at the telephone number listed below or by visiting our Web site at [www.westernunion.com](http://www.westernunion.com/). We urge you to get updates of this Privacy Statement frequently to obtain the current version. You may change your choices at any time.  CONTACT US To provide your personal choice or to change account information go to your profile page by [clicking here](https://wumt.westernunion.com/WUCOMWEB/signInAction.do?method=load&countryCode=US&languageCode=en&nextSecurePage=Y). If you have questions about our privacy practices or Information we maintain about you contact us by clicking here and selecting ‘Consumer Privacy’ from the drop down menu. 
-
-We also accept questions by regular mail and by telephone at the locations identified below: 
-
-**BY MAIL:**  
+• **Call 1-800-562-2598**  
+or  
+• **Visit us online: westernunion.com, log into your account and edit your Personal Information settings**  
+or  
+• **Mail to:  
 Western Union Financial Services, Inc.  
 Western Union Privacy Office  
 12500 East Belford Avenue  
-Greenwood Village, CO 80112
+Englewood, CO 80112  
+**   
+**VERMONT AND CALIFORNIA CONSUMERS**  
+Western Union will disclose Information about consumers with a Vermont or California mailing address only with your written authorization (“consent’), unless otherwise permitted by law. Written authorizations from Vermont consumers may be delivered to us at the address above or by email at privacy@westernunion.com and must contain your name, address and signature and your consent. You may revoke your consent at any time by calling us at 1-800-562-2598, or by writing or emailing us at the addresses provided above. California consumers should contact us at the addresses above for instructions on how to deliver their consent. 
 
-**BY TELEPHONE:**  
-1-800-562-2598                                             
+**Note: Disclosures not subject to an opt-out choice include: disclosures necessary to effect, administer or enforce a transaction you request; disclosures to our authorized service providers (including Western Union Agents); disclosures permitted or required by law or disclosures to prevent fraud or other illegal activities.**
 
-| 
+Please note: If you are a new consumer or customer, we can begin sharing your information 30 days from the date we sent this notice. When you are no longer our consumer or customer, we continue to share your information as described in this notice. However, you can contact us at any time to limit our sharing.  
+  
+---|---  
+**Questions?** | Call 1-800-562-2598 or click on the “Contact Us” link at westernunion.com  
+---|---  
+**Who we are**  
+---  
+**Who is providing this notice?** | Western Union Financial Services, Inc.  
+**What we do**  
+---  
+**How does Western Union Financial Services, Inc. protect my personal information?** | To help protect your personal information from unauthorized access and use, we endeavor to use reasonable security measures. These measures can include physical, electronic and procedural safeguards such as computer safeguards and secured files and buildings. We also endeavor to limit personal information access to only employees, agents and representatives that need to know. Despite our efforts, third parties may unlawfully intercept or access your transmissions to us or may wrongly instruct you to disclose information to them by posing as Western Union or by misinforming you about our services.  
+**How does Western Union Financial Services, Inc. collect my personal information?** | We collect your personal information, for example, when you:  
+
+
+  * send or receive money, complete a payment or use or request other products or services from us 
+  * submit information to us on applications or other forms and by other means
+  * use our or other online sites (for example, to complete a transaction, manage your accounts, or provide your choices)
+  * enter a promotion
+
+We also collect information about you from a variety of sources, including without limitation, computer systems; third party sources such as our business clients, government agencies, and other suppliers of information; and consumer reporting agencies.  
+**Why can’t I limit all sharing?** | Federal law gives you the right to limit only   
+
+
+  * sharing for affiliates’ everyday business purposes—information about your creditworthiness 
+  * affiliates from using your information to market to you 
+  * sharing for nonaffiliates to market to you 
+
+State laws and individual companies may give you additional rights to limit sharing. For details, see the “To limit our sharing” section.  
+**What happens when I limit sharing for an account I hold jointly with someone else?** | Your choices will apply to everyone on your account.  
+**Definitons**  
+---  
+Affiliates | Companies related by common ownership or control. They can be financial and nonfinancial companies.  
+Non affiliates | Companies not related by common ownership or control. They can be financial and nonfinancial companies.   
+
+
+  * For example, we may disclose Information about current and former consumers and customers to third parties, including without limitation: financial service providers such as Western Union Agents that offer our services; banks, credit card companies, brokerage houses, mortgage lenders and mortgage originators; non-financial companies such as retailers, direct marketers, auto dealers, utility companies, membership clubs and other providers of goods and services; government agencies; and otherwise as permitted or required by law. 
+
+We may also disclose Information to companies that perform marketing services for us or other financial institutions with whom we have joint marketing arrangements.  
+Joint Marketing | A formal agreement between nonaffiliated financial companies that together market financial products or services to you.  
+**Other important information**  
+---  
+**TEXAS CONSUMERS**   
+If you have a complaint, first contact the consumer assistance division of **Western Union Financial Services, Inc.** at **1-800-562-2598** , if you still have an unresolved complaint regarding the company’s money transmission or currency exchange activity, please direct your complaint to: Texas Department of Banking, 2601 North Lamar Boulevard, Austin, Texas 78705, 1-877-276-5554 (toll free), www.dob.texas.gov. 
+
+**CHILDREN’S PRIVACY**  
+Our website is not directed at children under the age of 13. Western Union does not knowingly collect or maintain Information at our website from persons under the age of 13. 
+
+**EXTERNAL WEBSITES**  
+Our website may be linked to or from third party websites. Western Union is not responsible for the content or privacy practices of websites that are linked to or from our website. 
+
+**CHANGES**  
+Western Union reserves the right to modify this Privacy Statement. You can get updated Privacy Statements by calling us at **1-800-562-2598** or by visiting our Web site at www.westernunion.com.
