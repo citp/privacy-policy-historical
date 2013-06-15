@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the coderbyte.com privacy policy that was archived on 2012-11-05.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121105150941id_/http%3A//www.coderbyte.com/Privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the coderbyte.com privacy policy that was archived on 2013-06-15.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130615231359id_/http%3A//www.coderbyte.com/Privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html xmlns="http://www.w3.org/1999/xhtml"><head> 
 <title> Coderbyte </title>  
@@ -75,10 +75,10 @@ $(document).ready(function(){
         <div id="header_right"> 
             <ul id="nav">
                 <a href="../CodingArea/" class="codingarea"> </a>
-                <a href="../About/" class="about"> </a>  
-                <a href="http://forums.coderbyte.com" class="forums"> </a>  
                                  
-                 <a href="../sl/" class="login"> </a>   
+                 
+                <a href="../About/" class="about"> </a>
+                <a href="../sl/" class="login"> </a>   
             </ul>
         </div>
         
@@ -161,14 +161,15 @@ If there are any questions regarding this privacy policy you may contact us usin
     <div id="footer_CodingArea">
     <div id="footerline"> </div> 
         <div>
-            <a href="#" class="copyright" onclick="return false"> Coderbyte 2012 </a>
+            <a href="#" class="copyright" onclick="return false"> Coderbyte 2013 </a>
             <a href="../CodingArea/"> Coding Area </a>
             <a href="../About/"> About </a> 
-            <a href="http://blog.coderbyte.com"> Blog </a> 
-            <a href="http://forums.coderbyte.com"> Forums </a> 
-
+            <a href="http://coderb.it"> Hack </a> 
+            <a href="../sl/"> Sign Up/Login </a>   
+            <a href="http://blog.coderbyte.com/"> Blog </a>  
+            
             <a href="../News/"> News </a> 
-            <a href="#"> Privacy Policy </a> 
+            <a href="#"> Privacy </a> 
             <a href="../Contact/"> Contact </a> 
         </div>
     </div>
@@ -180,5 +181,23 @@ If there are any questions regarding this privacy policy you may contact us usin
 </div> <!-- end container -->
 
 
+
+
+
+<script type="text/javascript"> 
+
+$(document).ready(function(){
+    
+    // hide hack from all footers
+    $('a[href="http://coderb.it"]').css({"display":"none"});
+    
+    // change from privacy policy to privacy
+    $('a[href$="Privacy/"]').text("Privacy");
+    
+    $("#nav .forums").next().css({"display":"none"});
+    
+});
+
+</script>  
 
 </body></html>
