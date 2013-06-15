@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the adidas.com.ph privacy policy that was archived on 2012-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121224123351id_/http%3A//www.adidas.com.ph/pages/legal/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adidas.com.ph privacy policy that was archived on 2013-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130615023241id_/http%3A//www.adidas.com.ph/pages/legal/privacy-policy) for the most accurate reproduction.*
 
 # adidas Privacy policy
 
