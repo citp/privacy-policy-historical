@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the majon.net privacy policy that was archived on 2012-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121230090236id_/http%3A//www.majon.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the majon.net privacy policy that was archived on 2013-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130615091833id_/http%3A//www.majon.com/privacy_policy.html) for the most accurate reproduction.*
 
 # Privacy Policy - Search Engine Marketing
 
 #### **Majon International Privacy Policy**
 
-We respect and are committed to protecting your privacy. Our Privacy Policy lets you know how your personal information is processed and used. We promise that we will take steps to use your personal information only in ways that are compatible with this Privacy Policy. The following policies are only in effect for the web pages, newsletters, discussion lists and opt-in announcement lists owned and operated by Majon International and its web site network. If you require any more information or have any questions about our privacy policy, please feel free to contact us via our [contact page](http://www.majon.com/contact)
+We respect and are committed to protecting your privacy. Our Privacy Policy lets you know how your personal information is processed and used. We promise that we will take steps to use your personal information only in ways that are compatible with this Privacy Policy. The following policies are only in effect for the web pages, newsletters, discussion lists and opt-in announcement lists owned and operated by Majon International and its web site network. If you require any more information or have any questions about our privacy policy, please feel free to contact us via our [contact page](https://www.majon.com/contact)
 
 At www.majon.com, the privacy of our visitors is of extreme importance to us. This privacy policy document outlines the types of personal information is received and collected by www.majon.com and how it is used.
 
@@ -75,8 +75,4 @@ By using our web site and network of web sites, you consent to the collection an
 
 [Information on Web Site Advertising and marketing services  
 ](http://www.majon.com/)  
-[Don Dutra Sr General Contr Sonora](http://www.majon.com/local/building-contractors/california/sonora/don-dutra-sr-general-contr)   
-[Settlement Loans Anamosa IA](http://www.majon.com/local/national-commercial-banks/iowa/anamosa/settlement-loans)   
-[Settlement Loans Bulverde TX](http://www.majon.com/local/national-commercial-banks/texas/bulverde/settlement-loans)   
-[Settlement Loans Whiteriver AZ](http://www.majon.com/local/national-commercial-banks/arizona/whiteriver/settlement-loans)   
-
+[(doorwaypagelink)] 
