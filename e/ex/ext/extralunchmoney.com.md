@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the extralunchmoney.com privacy policy that was archived on 2012-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121231052956id_/http%3A//extralunchmoney.com/pages/view/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the extralunchmoney.com privacy policy that was archived on 2013-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130615115547id_/http%3A//extralunchmoney.com/pages/view/privacy-policy) for the most accurate reproduction.*
 
 # Amateur Porn: Buy & Sell Custom Adult Videos, Adult Videos, Photos, and Custom porn - ExtraLunchMoney.com
 
