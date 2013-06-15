@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the rothira.com privacy policy that was archived on 2012-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121108014238id_/http%3A//www.rothira.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rothira.com privacy policy that was archived on 2013-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130615213206id_/http%3A//www.rothira.com/privacy-policy) for the most accurate reproduction.*
 
-# RothIRA.com Privacy Policy | RothIRA
+# RothIRA
 
-_Last Revised: October 19, 2012_
+_Last Revised: December 17, 2012_
 
 This privacy policy (“Policy”) explains how personal information is collected, used and disclosed by Retirement Online LLC (“Retirement Online LLC”, “we” or “us”) with respect to your access and use of Retirement Online LLC’s website about Roth IRAs located at [www.RothIRA.com](http://www.rothira.com/) (the “Site”) and the service which are available via the Site.
 
@@ -56,6 +56,10 @@ We will not knowingly share the personal information we collect from you through
  By posting a message, you accept that your message and other personal details about you will be analyzed and stored for anti-spam and quality monitoring purposes, in accordance with [Mollom's privacy policy](http://mollom.com/web-service-privacy-policy). 
 
 We are not responsible for the actions of Service Providers or other third parties, nor are we responsible for any additional information you provide directly to any other users or third parties, and we encourage you to become familiar with third party privacy practices before disclosing information directly to any such third parties. Nothing herein restricts the sharing of aggregated or anonymized information, which may be shared with third parties without your consent.
+
+### Remarketing
+
+The Site may run remarketing campaigns. Third-party vendors, including Google, may use a cookie to show you ads on other websites based on your visit. You may opt out of Google's use of cookies by visiting the [Ads Preferences Manager](https://www.google.com/ads/preferences/). Alternatively, you can opt out of a third-party vendor's use of cookies by visiting the [Network Advertising Initiative opt-out page](http://www.networkadvertising.org/managing/opt_out.asp).
 
 ### Links to Other Websites
 
