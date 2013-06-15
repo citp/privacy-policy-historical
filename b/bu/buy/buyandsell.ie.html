@@ -1,8 +1,11 @@
-<!--The following is the downloaded HTML source of the buyandsell.ie privacy policy that was archived on 2012-11-04.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121104022857id_/http%3A//www.buyandsell.ie/legal/privacy_policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the buyandsell.ie privacy policy that was archived on 2013-06-15.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130615055814id_/http%3A//www.buyandsell.ie/legal/privacy_policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
-        <script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript">
+    <script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="/javascripts/jquery.1.6.2.min.js"></script>
+  <script type="text/javascript" src="/javascripts/jquery.main.js"></script>
+  
+        <script type="text/javascript">
 <!--
 if (parent.frames.length) top.location.href= document.location;
 -->
@@ -20,11 +23,8 @@ if (parent.frames.length) top.location.href= document.location;
   
 
   
-  <link href="http://www.rte.ie/style/rte_global_04.css" media="screen" rel="stylesheet" type="text/css">
     
   	<link media="all" rel="stylesheet" type="text/css" href="/stylesheets/all.css">
-	<script type="text/javascript" src="/javascripts/jquery.1.6.2.min.js"></script>
-	<script type="text/javascript" src="/javascripts/jquery.main.js"></script>
     <script type="text/javascript" src="/javascripts/tooltip.js"></script>
 	
 	<!--[if IE 7]><link rel="stylesheet" type="text/css" href="/stylesheets/ie.css" /><![endif]-->
@@ -54,14 +54,36 @@ if (parent.frames.length) top.location.href= document.location;
 
   <body>
 
+
+
+  <div id="announcements">
+    <div id="announcement">
+    Our site uses cookies. Keep using the site as normal to agree to our policy. <a href="/legal/privacy_policy/cookies">More Info</a> OR 
+    <a href="#" id="close">Hide this message.</a>
+    </div>
+  </div> 
+
+  <script type="text/javascript">
+   var close = document.getElementById("close");
+   close.addEventListener('click', function() {
+     $("#announcements").remove();
+     $.get(
+      "/legal/accept_cookie_policy",
+      function(data) {  },
+      "json"
+     );
+   }, false);
+  </script>
+
+
 	<div id="wrapper">
-      
 		<div class="page-holder">
           <div id="header">
   <div class="logo"><a href="http://www.buyandsell.ie">Buy&amp;Sell TM</a></div>
 	<div class="header-container">
 		<div class="add-nav">
 			<ul>
+                                <li id="android-link" style="display:none;"><a href="market://details?id=com.buyandsell.activity">Download our App</a></li>
 				<li><a href="/users">My Account</a></li>
 				<li><a href="/support" rel="nofollow">Support</a></li>
 			</ul>
@@ -91,6 +113,17 @@ jQuery("#search_search_term").click(function(){
 	</div>
 </div>
 
+<script type="text/javascript">
+$(window).load(function(){
+    var user_agent = navigator.userAgent.toLowerCase();
+    var isAndroid = user_agent.indexOf("android") > -1; 
+    if(isAndroid) {
+      $("#android-link").toggle();
+    }
+});
+</script>
+
+
           <div id="main">
 	        			
             <div id="terms" class="grid_12 margintop15">
@@ -107,7 +140,7 @@ jQuery("#search_search_term").click(function(){
 		<h1 class="margintop10">Privacy Policy</h1>
 	</div>
 <div class="margintop20 marginleft10">
-<p>
+<p style="margin-top:15px">
 			Buzreel Limited, trading as BuyandSell ("BuyandSell" or "we") respects and protects your right to privacy in relation to your interactions with this website. We have adopted the following policies to safeguard your personal information and to protect its confidentiality.
 		</p>
 		<p>Any information which is provided by you to BuyandSell via this website or otherwise will be treated in accordance with the terms of the Data Protection Acts 1988 and 2003 and/or such amending or replacement legislation as may be adopted in Ireland from time to time. We encourage you to read this Privacy Statement before using this website. If you do not read or if you disagree with any aspect of the Privacy Statement, you should not use this website. Your use of this website signifies your agreement to be bound by the terms of this Privacy Statement.
@@ -146,7 +179,7 @@ Due to the nature of the internet, we cannot guarantee the protection of your pe
 
 The statistical and analytical information provides us with a general and non-individual specific information about the number of people who visit this website; the number of people who return to the website; the pages that they visit; and where they were before they came to the website and the page in the website at which they exited. This information helps us monitor traffic on a website so that we can manage the website's capacity and efficiency. This type of non-personal information and data can be collected through the standard operation for internet servers and logs as well as "cookies".</p>
 <h3 class="blue">Cookies</h3>
-	<p>Cookies are small data files that a website can use in order to recognise visitors who revisit a website so as to facilitate their ongoing access to and use of the website. Cookies are used by websites to store visitor's user settings and therefore most browsers are initially configured to accept cookies. Typically, cookies involve the assigning of a unique number to the visitor. You should be aware that BuyandSell is unable to control the use of cookies or the resulting information by other third parties such as advertisers or parties hosting data for BuyandSell. One simple way to prevent the use of cookies is to activate the facility which is available in most web browsers that enables a user to deny or accept cookies. However, you should realise that certain cookies may be necessary in order to provide you with certain features such as the customised delivery of certain information.</p>
+	<p>Cookies are small data files that a website can use in order to recognise visitors who revisit a website so as to facilitate their ongoing access to and use of the website. Cookies are used by websites to store visitor's user settings and therefore most browsers are initially configured to accept cookies. Typically, cookies involve the assigning of a unique number to the visitor. You should be aware that BuyandSell is unable to control the use of cookies or the resulting information by other third parties such as advertisers or parties hosting data for BuyandSell. One simple way to prevent the use of cookies is to activate the facility which is available in most web browsers that enables a user to deny or accept cookies. However, you should realise that certain cookies may be necessary in order to provide you with certain features such as the customised delivery of certain information. Further information can be found by clicking <a href="/legal/privacy_policy/cookies">here</a></p>
 	<h3 class="blue">Disclaimer</h3>
 	<p>Buyandsell, its directors, employees, servants and agents, affiliates or other representatives and their respective parent and subsidiary companies, shall not be liable in respect of any claims, emergencies, demands, causes of action, damages, losses, expenses, including without limitation, reasonable legal fees and costs of proceedings arising out of or in connection with the use and/or dissemination of personal information relating to you in accordance with this privacy policy and your consents.</p>
 	<h3 class="blue">Amendments</h3>
@@ -172,8 +205,8 @@ The statistical and analytical information provides us with a general and non-in
 					<li class="twitter">
 						<a href="http://twitter.com/#!/buyandselldotie" target="_blank">Twitter</a>
 					</li>
-					<li class="rte">
-						<a href="http://rte.buyandsell.ie" target="_blank">RTE</a>
+                                        <li class="android">
+						<a href="https://play.google.com/store/apps/details?id=com.buyandsell.activity" target="_blank">Android</a>
 					</li>
 				</ul>
 			</div>
@@ -182,7 +215,7 @@ The statistical and analytical information provides us with a general and non-in
 				<ul>
 					<li><a href="/cars-for-sale/" title="Cars for sale in Ireland">Cars for sale</a></li>
 					<li><a href="/dogs-for-sale/" title="Dogs for Sale in Ireland">Dogs for sale</a></li>
-					<li><a href="/furniture-for-sale/" title="Furniture for sale in Ireland">Furniture for sale</a></li>
+					<li><a href="/furniture-for-sale/" title="Furniture for sale in Ireland.">Furniture for sale</a></li>
 					<li><a href="/motorbikes-for-sale/" title="Motorbikes for sale in Ireland">Motorbikes for sale</a></li>
 					<li><a href="/motors/boats" title="Boats for sale in Ireland">Boats for sale</a></li>
 					<li><a href="/motors/caravans" title="Caravans for Sale in Ireland">Caravans for sale</a></li>
@@ -205,6 +238,7 @@ The statistical and analytical information provides us with a general and non-in
 		</div>
 	</div>
 </div>
+
         </div>
 
         
@@ -513,11 +547,68 @@ The statistical and analytical information provides us with a general and non-in
   });
 </script>
 
-
-      
     </div>
 
 
+  <a href="#android-advert" id="android-advert-trigger" class="open-popup"></a>
+
+  <script type="text/javascript">
+    $(document).ready(function() {
+      var user_agent = navigator.userAgent.toLowerCase();
+      var isAndroid = user_agent.indexOf("android") > -1; 
+      if(isAndroid) {
+        var last_shown_ad = document.cookie.replace(/(?:(?:^|.*;\s*)androidAd\s*\=\s*((?:[^;](?!;))*[^;]?).*)|.*/, "$1");
+        if (!last_shown_ad) {
+          $("#android-advert-trigger").trigger('click');
+          document.cookie = "androidAd=true;max-age=259200;";
+        }
+       }
+      });
+  </script>
+
+  <div class="lightbox-alt" id="android-advert" style="margin:auto;margin-top:-75px;">
+    <div class="title">
+      <strong>Download our app</strong>
+      <a class="close" href="#">close</a>
+    </div>
+    <div class="description">
+      <div class="heading">
+        <span style="display:block;font-size:200%;font-weight:bold;">Welcome to BuyandSell.ie</span>
+        <span style="display:block;font-size:200%;font-weight:bold;margin:30px 0 30px 0;">Download our App from Google Play</span>
+      </div>
+      <p>
+        <span style="margin-left:145px;">
+          <a href="https://play.google.com/store/apps/details?id=com.buyandsell.activity"><img src="../images/buttons/green_now.jpg"></a>
+          <a href="#" class="close" style="float:none;background:url('');"><img src="../images/buttons/gray_later.jpg"></a>
+        </span>
+      </p>
+      <div class="footer">
+      </div>
+    </div>
+  </div>
+  <div class="lightbox-alt" id="payment-confirmation">
+    <div class="title">
+      <strong>Congratulations</strong>
+      <a class="close" href="#">close</a>
+    </div>
+    <div class="description">
+      <div class="heading">
+        <h3>Your Voucher has been accepted. Your Ad will be live within 15 minutes.</h3>
+      </div>
+      <p>
+        You will receive an email in the next 15 minutes, confirming that your Ad is live on <a href="#">BuyandSell.ie</a> If you have not received your confirmation within this time, please check your spam filter.
+        <br>
+        To avoid messages reaching spam in the future, you should add
+        <br>
+        <a href="mailto:noreply@buyandsell.ie">noreply@buyandsell.ie</a> to your address book.
+      </p>
+      <p>If you have any queries about how we proof ads, please contact our support team</p>
+      <div class="footer">
+        <em><a href="#">BuyandSell.ie</a>  Block 1, Westpoint Court, JFK Drive, Dublin 12.</em>
+        <a href="/support" class="link" target="_new">FAQ / Help</a>
+      </div>
+    </div>
+  </div>
 
 
 <div id="lightbox-overlay" style="opacity: 0.65; background-color: rgb(0, 0, 0); position: absolute; overflow: hidden; display: none; top: 0px; left: 0px; z-index: 1000;"></div></body></html>
