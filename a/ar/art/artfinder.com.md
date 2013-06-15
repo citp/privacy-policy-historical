@@ -1,8 +1,10 @@
-> *The following text is extracted and transformed from the artfinder.com privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231054354id_/http%3A//www.artfinder.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the artfinder.com privacy policy that was archived on 2013-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130615193346id_/https%3A//www.artfinder.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy — Artfinder
+# Privacy Policy | Artfinder
 
-Effective as of 1 March 2011.
+Effective as of 30th October 2012.
+
+Last updated: 30th October 2012.
 
 The website `artfinder.com` and any related domains (the “Site”) is owned and operated by Art Discovery Limited (“AF”, “we” or “us").
 
@@ -25,9 +27,9 @@ We may collect and process the following information about you:
 
     5. _2.5_ Cookies: For the same reason, we may also obtain information about your general internet usage and browsing habits. We may do this by using a cookie file which is stored on the hard drive of your computer. Please read Section 6 which provides more information on cookies.
 
-    6. _2.6_ Competitions: We may request additional information when you enter a competition or promotion. The information we may request you to provide may include, but shall not be limited to, you name, age, gender and other demographic information.
+    6. _2.6_ Competitions: We may request additional information when you enter a competition or promotion. The information we may request you to provide may include, but shall not be limited to, your name, age, gender and other demographic information.
 
-    7. _2.7_ Records: If you contact us to report any abuse or make a complaint in accordance with our Terms of Use, report a problem with the Site or for any other reason, we may keep a record of that correspondence.
+    7. _2.7_ Records: If you contact us to report any abuse or make a complaint in accordance with our [Terms of Use](https://web.archive.org/terms-of-use), report a problem with the Site or for any other reason, we may keep a record of that correspondence.
 
     8. _2.8_ Surveys: We may provide you with the opportunity to complete surveys that we may use for research purposes. You may be offered some form of incentive to complete the survey. These surveys are completely optional and you may decide not to respond to them.
 
@@ -77,7 +79,9 @@ You may refuse to accept cookies by activating the settings on your browser whic
 
 Please be aware that our advertisers may also use cookies. Advertisers’ use of cookies is not under our control and is therefore not subject to this Privacy Policy.
 
-  9. ## 9\. Advertising
+  9. This website uses Google AdWords's conversion tracking software to monitor and better understand its visitors, but will not store, save or collect personal information. This website uses remarketing to advertise online - third-party vendors, including Google, use cookies to serve ads based on someone's past visits to this website. Visitors can opt out of Google's use of cookies by visiting the Ads Preferences Manager.
+
+  10. ## 9\. Advertising
 
     1. _9.1_ AF may use third-party advertising companies to target and display advertisements when you visit the Site. AF and its advertisers may also use third party advertising networks to help present and manage advertisements. These advertising networks may use general demographic information (although generally not including your name, address, email address or telephone number) about your visits to the Site to provide advertisements about product, goods and/or services that may be of interest to you. They may also use cookies, web beacons (electronic files that allow a website to count users who have visited that page or to access certain cookies) or similar mobile technologies to help present, target and measure the effectiveness of their advertisements, using data gathered over time and across their networks of web pages to determine or predict the characteristics and preferences of their audience.
 
@@ -87,9 +91,9 @@ Please be aware that our advertisers may also use cookies. Advertisers’ use of
 
     4. _9.4_ We may also transfer statistical or generic trend information about use of the Site, such as information stored via cookies or statistical information, to advertisers. This information will not identify any individuals
 
-    5. _9.5_ Please visit the Internet Advertising Bureau’s consumer website [Your Online Choices](http://www.youronlinechoices.co.uk/) which will provide you with information about how you can opt out from any targeted advertising delivered by IAB member advertising networks..
+    5. _9.5_ Please visit the Internet Advertising Bureau’s consumer website [Your Online Choices](http://www.youronlinechoices.co.uk/) which will provide you with information about how you can opt out from any targeted advertising delivered by IAB member advertising networks.
 
-  10. ## 10\. Access to information
+  11. ## 10\. Access to information
 
 The Data Protection Act 1998 (the “Act”) gives you the right to access information held about you. Your right of access can be exercised in accordance with the Act. Any access request may be subject to a fee of £10 to meet our costs in providing you with details of the information we hold about you.
 
