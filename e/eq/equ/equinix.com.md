@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the equinix.com privacy policy that was archived on 2012-03-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120324194403id_/http%3A//www.equinix.com/company/legal/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the equinix.com privacy policy that was archived on 2013-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130615035559id_/http%3A//www.equinix.com/company/legal/privacy-statement) for the most accurate reproduction.*
 
 # Privacy Statement | Equinix
 
@@ -24,4 +24,4 @@ Tracking technologies may record information such as Internet domain and host na
 
 ### User Consent
 
-By using this Web site, you consent to the terms of Equinix’s Privacy Policy and to our processing of Personal Information for the purposes given above as well as those explained where Equinix collects Personal Information on the web. Equinix reserves the right to change the terms of its privacy policy at any time. If we do change this privacy policy, we will post the changes on this Web site. We encourage you to review this privacy policy each time you visit our Web site to make sure you understand our current policy on collecting and using information collected through our Web site. If you have any inquiries or Carlos Tejada (ctejeda@inshapecrossfit.com) Hans Wijnand (hans.wijnand@gmail.com)s you may contact us at [marketing@equinix.com](mailto:marketing@Equinix.com).
+By using this Web site, you consent to the terms of Equinix’s Privacy Policy and to our processing of Personal Information for the purposes given above as well as those explained where Equinix collects Personal Information on the web. Equinix reserves the right to change the terms of its privacy policy at any time. If we do change this privacy policy, we will post the changes on this Web site. We encourage you to review this privacy policy each time you visit our Web site to make sure you understand our current policy on collecting and using information collected through our Web site.If you have any inquiries or complaints you may contact us at [marketing@equinix.com](mailto:marketing@Equinix.com).
