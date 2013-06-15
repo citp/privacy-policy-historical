@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the webhostingbuzz.com privacy policy that was archived on 2012-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121105164658id_/http%3A//www.webhostingbuzz.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the webhostingbuzz.com privacy policy that was archived on 2013-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130615184148id_/http%3A//www.webhostingbuzz.com/privacy-policy.php) for the most accurate reproduction.*
 
 # WebHostingBuzz's Privacy Policy
 
@@ -102,7 +102,7 @@ When your WebHostingBuzz account is cancelled (either voluntarily or involuntari
 If you have questions or concerns regarding this statement, you can contact WebHostingBuzz at [management@webhostingbuzz.com](mailto:management@webhostingbuzz.com). You can also write to us at the following address:
 
 WebHostingBuzz USA LLC  
-15 Midstate Drive, Suite 212  
+850 Southbridge Street  
 Auburn, MA 01501  
 USA  
 Fax: +1-508-597-8354  
