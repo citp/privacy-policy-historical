@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the governmax.com privacy policy that was archived on 2012-09-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120927101611id_/http%3A//grm.thomsonreuters.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the governmax.com privacy policy that was archived on 2013-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130615025217id_/http%3A//grm.thomsonreuters.com/privacy-policy) for the most accurate reproduction.*
 
 # Thomson Reuters | Government Revenue Management | Privacy Policy
 
