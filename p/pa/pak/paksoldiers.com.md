@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the paksoldiers.com privacy policy that was archived on 2012-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121215012304id_/http%3A//www.paksoldiers.com/privacy-policy-2) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the paksoldiers.com privacy policy that was archived on 2013-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130615214744id_/http%3A//paksoldiers.com/privacy-policy-2) for the most accurate reproduction.*
 
-# Privacy Policy - PakSoldiers | PakSoldiers
+# Privacy Policy - PakSoldiers
 
 **Personally Provided Information  
 **
