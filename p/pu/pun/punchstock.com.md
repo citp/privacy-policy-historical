@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the punchstock.com privacy policy that was archived on 2012-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121231084420id_/http%3A//punchstock.com/com/usa/en/about/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the punchstock.com privacy policy that was archived on 2013-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130616004715id_/http%3A//www.punchstock.com/com/usa/en/about/privacy_policy) for the most accurate reproduction.*
 
 # PunchStock | Privacy Policy
 
@@ -112,6 +112,6 @@ We reserve the right to change the terms of this privacy policy at any time. Whe
 
 ### Contact Information
 
-You can contact PunchStock Sales by emailing sales@punchstock.com, or by phone at 800-390-0461, or by postal mail at PunchStock, 605 5th Avenue South, Suite 400, Seattle, WA 98104.
+You can contact PunchStock Sales by emailing sales@punchstock.com, or by phone at 1 800 770 7644, or by postal mail at PunchStock, 605 5th Avenue South, Suite 400, Seattle, WA 98104.
 
 © 1999-2012 PunchStock, Inc. All rights reserved. Privacy Policy.
