@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the yuppads.com privacy policy that was archived on 2012-09-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120920025554id_/http%3A//www.yuppads.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yuppads.com privacy policy that was archived on 2013-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130615073309id_/http%3A//www.yuppads.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # Yuppads.com-Privacy Policy
 
