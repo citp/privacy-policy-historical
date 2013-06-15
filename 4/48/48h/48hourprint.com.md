@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the 48hourprint.com privacy policy that was archived on 2012-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121123215301id_/http%3A//www.48hourprint.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 48hourprint.com privacy policy that was archived on 2013-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130616004244id_/http%3A//www.48hourprint.com/privacy.html) for the most accurate reproduction.*
 
 # 48HourPrint.com Privacy Statement
-
-##  Privacy Statement 
 
 We have created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses our information gathering and dissemination practices for this web site. 
 
@@ -18,7 +16,7 @@ Our site uses an order form for customers to request information, products, and 
 
 Our site offers customers the ability to upload mailing lists. The personal information on those lists is formatted into a mailing address to be printed onto one of our offered mailing products purchased by the customer. Information contained in these lists is confidential and will not be used for any other reason without the express written consent of the customer. 
 
-**Security**   
+Security    
 
 
 This site has security measures in place to protect the loss, misuse and alteration of the information under our control, including credit card numbers and personal contact information. All data is protected using the most advanced methods available. 
