@@ -1,59 +1,108 @@
-> *The following text is extracted and transformed from the gore.com privacy policy that was archived on 2012-07-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120722000323id_/http%3A//www.gore.com/en_xx/footer/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gore.com privacy policy that was archived on 2013-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130615100416id_/http%3A//www.gore.com/en_xx/footer/privacy.html) for the most accurate reproduction.*
 
-# Gore Privacy Policy
+# Privacy Policy
 
-_Effective Date: 8/5/2009 ([view archived version](https://web.archive.org/web/20120722000323id_/http%3A//www.gore.com/en_xx/footer/privacy_2004.html) )_
+**LAST UPDATED:   **12-04-2012 ( [view archived versions](https://web.archive.org/web/20130615100416id_/http%3A//www.gore.com/en_xx/footer/privacy_archive.html) )
 
-W. L. Gore & Associates, Inc. (referred to below as 'Gore') respects your privacy. The only personally identifiable information Gore collects about you is what you provide to Gore, for example by completing a Gore “contact us” form, participating in a Gore contest or by some other interactive channel.
+W. L. Gore & Associates, Inc. and our [affiliates](https://web.archive.org/web/20130615100416id_/http%3A//www.gore.com/en_xx/affiliates.html) (referred to below collectively as “ **Gore** ”) are concerned about privacy issues and want you to be familiar with how we collect, use and disclose personal information (“ **PI** ,” as defined below).  This Privacy Policy describes our practices in connection with PI that we collect through this website **(** " **Site** "). This Privacy Policy does not address the collection, use or disclosure of information by any third parties, on other websites or offline.
 
-## Information Collection, Use and Disclosure
+By providing PI to us, you agree to the terms and conditions of this Privacy Policy.  We may change this Privacy Policy by posting a new privacy policy on the website.  You can determine when this Privacy Policy was last revised by referring to the " _LAST UPDATED_ " legend at the top of this page.  Any changes to our Privacy Policy will become effective upon our posting of the revised Privacy Policy on the Site.  If you use the Site after we make changes, you will be deemed to accept the Privacy Policy. ****
 
-Gore collects personally identifiable information, such as email address, name, mailing address, phone number and birthday, only if individual Web site visitors wish to give Gore this information. Gore uses personally identifiable information to improve its product offerings, analyze Web site usage, improve and customize its Web sites, and for general customer relationship and service purposes, such as responding to a question about a product.
+## PERSONAL INFORMATION
 
-As part of Gore’s normal business operations, Gore may share a user’s personally identifiable information with certain third-party service providers. For example, Gore discloses personally identifiable information to third parties when it is reasonably necessary in order to enable Gore to provide services that have been requested by users, to provide information that has been requested by users or to provide products that have been ordered by users. Additionally, some of Gore’s Web site operations, product fulfillment operations, marketing programs, data processing and data analysis may be managed and/or conducted by Gore’s affiliates and/or third-party service providers. Gore may provide access to your profile and personally identifiable information to such affiliates and/or third-party service providers for the purpose of providing services to you on behalf of Gore or to enable such affiliates and service providers to provide services to Gore.
+“ **PI** ” is information that identifies an individual, which we collect when you use the Site such as, name, postal address (including billing and shipping addresses), telephone number, fax number, email address, credit and debit card information.
 
-Gore can (and you authorize Gore to) disclose any information about you as required by law, including voluntary disclosures to law enforcement agencies and government officials, as Gore, in its sole discretion, believes necessary or appropriate.
+If you provide PI of another person, please make sure that you have the right to share that information with us. 
 
-Gore may also disclose or use personally identifiable information to investigate and respond to any third party complaints or violations of Gore’s rights.
+### How Gore Uses PI
 
-Gore also collects aggregate statistical information regarding general Web site traffic patterns. In order to do so, Gore's Web site uses cookies. Gore also uses third-party service providers to track and analyze non-personally identifiable usage and volume statistical information from Web site users.
+Gore uses PI primarily to do business with you. We may also use PI for the following purposes: 
 
-## Access to Personally Identifiable Information
-
-If your personally identifiable information changes or if you no longer desire to receive any of Gore’s services, you may correct, update, delete or deactivate your information by contacting Gore using our Contact Us form.
-
-## Choice/Opt-Out
-
-If you provide Gore with your email address or mailing address, Gore may send you newsletters, information on products, services and promotions or offer you the opportunity to participate in Gore marketing and promotions, such as surveys or contests. With respect to any such emails, within the emails Gore will provide you with the opportunity to "opt-out" of having your personally identifiable information used for such purposes by the Gore division that sent the email.
-
-## Governing Law and Data Storage
-
-This Privacy Policy is governed by the laws of the United States of America, which is where this Web site is hosted. You should be aware that when you submit your personally identifiable information to Gore through this Web site, your information will be deemed sent to Gore from the United States of America, that your information may go to a country that has different privacy laws than your home country and that your information will be handled in accordance with the laws of the United States of America. By providing any personal information to Gore through this Web site, all users, including without limitation users in the member states of the European Union, fully understand and unambiguously consent to the submission, collection and processing of such information in the United States of America. Some of Gore’s Web sites are targeted towards countries other than the United States and are intended for visitors from those countries. If you are a resident of a country other than the United States and you give Gore personal information through a Gore Web site targeted towards your country of residence, that information will be stored and used in accordance with the laws of the country in which the Web site is maintained.
-
-## Transfer of Information
-
-In the event Gore or one of its divisions is ever sold to or acquired by another company, Gore reserves the right to transfer ownership of the customer information to the acquiring company.
-
-## Changes in this Privacy Policy
-
-If Gore decides to make any material changes to this Privacy Policy, Gore will notify users by posting any such material changes on this page in this section. Gore reserves the right to modify this Privacy Policy at any time, so please review it frequently. Your use of this Web site after changes to this Privacy Policy have been made constitutes acceptance of those changes going forward.
-
-## Notification of Material Changes since the Effective Date
-
-  1. _August 5, 2009:_   **Information Collection, Use and Disclosure** \- clarification of nature of personally identifiable information collected and shared and clarification of purpose for sharing such information.
-  2. _August 5, 2009:_   **Access to Personally Identifiable Information and Choice/Opt-Out** – explains  how to contact Gore to correct, update, delete or deactivate a user’s personally identifiable information and how to opt-out from within unsolicited commercial email correspondence.
-  3. _August 5, 2009:_   **Governing Law and Data Storage** \- explains that the laws of the United States of America, which is where this Web site is hosted, will govern this Privacy Policy and that user information may be stored in a country that has different privacy laws than the user’s home country. Clarifies that other Gore Web sites targeted towards non-U.S. residents will store information in accordance with the laws of the country in which that Web site is maintained.
+  * fulfill your requests, such as to respond to a question regarding our products, to help you locate a store near you, fulfill your order, process your payment card, and/or to provide you with customer service.
+  * send you important information regarding the Site, changes to our terms, conditions, and policies and/or other administrative information.  Because this information may be important, you may not opt-out of receiving such communications.
+  * inform you of products, programs, services and promotions that we believe may be of interest to you.
+  * allow you to send email to others through our “send to a friend” type functionality.  (By using this functionality, you are telling us that you are entitled to use and provide us with your friend’s name and email address.)
+  * register you for a seminar.
+  * allow you to participate in sweepstakes, contests and similar promotions and to administer these activities. Some of these activities have additional rules, which could contain additional information about how we use and disclose your PI.
+  * customize content for you on our Site and provide you with customized offers.
+  * facilitate our internal business purposes, such as data analysis, audits, developing new products, enhancing our website, improving our services, identifying usage trends and determining the effectiveness of our promotional campaigns. 
 
 
 
-## Comments or Questions
+### How PI is Shared
 
-We welcome any questions, concerns or comments which you may have in relation to our company, products, Web site or Privacy Policy. For general questions about our company and any comments on our Web site and/or our Privacy Policy, please contact Gore using our Contact Us form.
+We may share PI with third parties for the following purposes:
 
-## For More Information
+  * to third party service providers for web hosting, data analysis, IT services, e‑mail delivery services, survey fulfillment, social media applications and postings, payment and credit card processing, order fulfillment and other similar services.
+  * to third parties to allow them to contact you regarding products, programs, services, information and promotions that they believe may be of interest to you.
+  * to identify you to any person to whom you send messages through the Site. 
+  * to third party sponsors of sweepstakes, contests and similar promotions, if you participate.
+  * by you, on services (for example, message boards, chat functionality, “profile pages” and blogs, community sites where you can “share your story” and review products, among other services) to which you are able to post information and materials.  Please note that any information you post or disclose through these services (for example, PI contained in the photos, stories, comments and videos that you submit) will become public information, and may be available to visitors to the Site and to the general public.  ****
+  * in the event of any reorganization, merger, sale, joint venture, assignment, transfer or other disposition of all or any portion of our business, assets or stock (including without limitation in connection with any bankruptcy or similar proceedings).
+  * as we believe to be appropriate (a) under applicable law including laws outside your country of residence; (b) to comply with legal process (c) to respond to requests from public and government authorities including public and government authorities outside your country of residence; (d) to enforce our terms and conditions; (e) to protect our operations; (f) to protect our rights, privacy, safety or property, and/or that of you or others; and (g) to permit us to pursue available remedies or limit the damages that we may sustain. 
 
-Gore Information Center, W. L. Gore & Associates, Inc., 201 Airport Road, Elkton, MD 21921, USA. (Tel.: 888 / 914-4673).
 
-  * [Legal Information of Use of Website](https://web.archive.org/web/20120722000323id_/http%3A//www.gore.com/en_xx/footer/legal.html)
+
+## OTHER INFORMATION
+
+We and our third party service providers may collect Other Information from you, including your IP address, MAC address, your computer type, screen resolution, OS version and Internet browser, as well as information collected through the use of cookies, pixel tags, web beacons, and other similar technologies to better serve you with more tailored information and facilitate your ongoing use of the Site.  We and our third party service providers may also collect Other Information such as demographic data, for example your city or state as well as aggregate PI in a manner such that the end-product does not personally identify you or any other user of the Site, for example, by using PI to calculate the percentage of our users who have a particular telephone area code. 
+
+### Cookies
+
+Cookies allow us to collect information such as browser type, time spent on the Site, pages visited, language preferences, navigation path and products browsed. We and our service providers use the information for security purposes, to facilitate navigation, remember you when you come back to the Site, display information more effectively, and to personalize your experience while visiting the Site (including to recommend products and offers to you based on your use of the Site), as well as for online tracking purposes.  We can recognize your computer to assist your use of the Site.  We also gather statistical information about the usage of the Site in order to continually improve the design and functionality, understand how customers use the Site and to assist us with resolving questions regarding the Site.  Cookies further allow us to select which of our advertisements or offers are most likely to appeal to you and display them while you are on the Site.  We may also use cookies in online advertising to track consumer responses to our advertisements and we may use cookies or other files to track your use of other websites.
+
+If you do not want information collected through the use of cookies, there is a simple procedure in most browsers that allows you to decline the use of cookies.  To learn more about cookies, please visit <http://www.allaboutcookies.org/>.  If you choose to decline cookies, then some or all of the features, functionality and promotions available through the Site may not be available to you.
+
+Because Other Information does not personally identify you, we may use Other Information for any purpose or share it with third parties.  In some instances, we may combine Other Information with PI, such as combining your zip code with your name.  If we do combine any Other Information with PI, the combined information will be treated by us as PI as long as it is combined.  If local law requires us to treat any of the Other Information as PI, we will comply with those laws.
+
+## THIRD PARTY SITES
+
+This Privacy Policy does not address, and we are not responsible for, the privacy, information or other practices of any third parties. The inclusion of a link on the Site does not imply endorsement of the linked site by us or by our affiliates. 
+
+In some cases, we may permit you to use third-party payment services to make payments.  If you wish to make a payment using a Payment Service, you will be directed to a webpage that is hosted by the Payment Service and not by us.  Any information that you provide through a Payment Service Page will be subject to the applicable Payment Service's privacy policy, rather than this Privacy Policy.  We have no control over, and are not responsible for, any Payment Service's use of information collected through any Payment Service Page.
+
+## THIRD PARTY ADVERTISERS
+
+We may use third-party advertising companies to serve ads about goods and services that may be of interest to you when you visit our Site and other websites, based on information about your visit to this Site and other websites.  To do so, these companies may place or recognize a unique cookie on your browser.  If you would like more information about this practice and to know your choices about not having this information used by these companies, please visit <http://www.networkadvertising.org/choices/> and <http://www.aboutads.info/>. 
+
+## SECURITY
+
+We use reasonable organizational, technical and administrative measures to protect PI under our control.  Unfortunately, no data transmission over the Internet or data storage system can be guaranteed to be 100% secure. 
+
+## CHOICES AND ACCESS
+
+If you would like to opt-out from receiving electronic communications from Gore and/or from Gore’s sharing of your PI with third parties for their marketing purposes please [contact us](https://web.archive.org/web/20130615100416id_/http%3A//www.gore.com/en_xx/privacy-contact.html).
+
+If you would like to review, correct, update, suppress, delete or otherwise limit our use of your PI that has been previously provided to us, you may please [contact us](https://web.archive.org/web/20130615100416id_/http%3A//www.gore.com/en_xx/privacy-contact.html). 
+
+In your request, please make clear what information you would like to have changed, what you are opting out from, whether you would like to have your PI suppressed from our database or otherwise let us know what limitations you would like to put on our use of your PI.  We will try to comply with your request as soon as reasonably practicable. 
+
+## RETENTION PERIOD
+
+We will retain your PI for the period necessary to fulfill the purposes outlined in this Privacy Policy unless a longer retention period is required or allowed by law. 
+
+## USE OF SITE BY MINORS
+
+The Site is not directed to individuals under the age of eighteen (18) and we request that these individuals not provide PI through the Site.
+
+## CROSS-BORDER TRANSFER
+
+Your PI may be stored and processed in any country where we have facilities and operations, and by providing any PI to us, you consent to the transfer of such PI to countries outside of your country of residence, including the United States, which may have different data protection rules from your country of residence.
+
+## JOINTLY-USED PI
+
+W. L. Gore & Associates, Inc. and the local Gore affiliate running the Site are the party responsible for the management of PI that is jointly used by Gore.
+
+## SENSITIVE INFORMATION
+
+Please do not send us, or disclose, any sensitive Personal Information ( _e.g._ , social security numbers, information related to racial or ethnic origin, political opinions, religion or other beliefs, health, criminal background or trade union membership) on or through the Site.
+
+## CONTACTING US
+
+If you have any questions regarding this Privacy Policy, please [contact us](https://web.archive.org/web/20130615100416id_/http%3A//www.gore.com/en_xx/privacy-contact.html), or please write to the following address:  W. L. Gore & Associates, Inc., 555 Paper Mill Road, Newark, DE 19711, U.S.A.
+
+ :
+
+  * [Legal Information of Use of Website](https://web.archive.org/web/20130615100416id_/http%3A//www.gore.com/en_xx/footer/legal.html)
 
 
