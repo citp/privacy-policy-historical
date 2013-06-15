@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the eeweb.com privacy policy that was archived on 2012-11-21.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121121181514id_/http%3A//www.eeweb.com/policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the eeweb.com privacy policy that was archived on 2013-06-15.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130615145129id_/http%3A//www.eeweb.com/policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script>
     var date = new Date();
@@ -55,20 +55,46 @@
 			position: relative;
 			/*box-shadow: 0 0 10px 3px rgba(0, 0, 0, .5);*/
 		}
+
 		
+		.leaderboard .pulse-header { color: black; margin: 1px 0 0 0; padding-right:2px; font-size: 14px; font-family: helvetica, arial; text-align: center; font-weight: bold;}
+		.leaderboard {margin: 10px 7px 0 7px; width: 975px; border-bottom: 1px solid #D5D5D5; height: 100px;}
+		.leaderboard .bl-hover {border-color: #1C68B4 !important; color: #1C68B4 !important ;}
+		.leaderboard .bl-hover .pulse-header { color: #1C68B4 !important ;}
+		.leaderboard .pulse-header-summary { width: 145px; display: block; font-size: 11px; float: right; line-height: 13px; margin-right: 2px;}
+		.pulse-button li{list-style-type: none; float: left;  margin-top: -3px;}
+		.pulse-button li a {font-family: arial, helvetica; background-color: #3A7DBE; display: block; padding: 2px 2px; width: 66px; color: #fff; border-radius: 3px; font-size: 10px; text-align:center;}
+		.pulse-button li a:hover {background-color: #999 !important; font-family: arial, helvetica;}
+		.pulse-button li #more_issues { background-color: #666;}
 	</style>
 	<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.4.0/jquery.min.js"></script>
 			
-			<script type="text/javascript" src="http://ad.doubleclick.net/adj/hbp.eeweb/wallpaper;sz=3x3;dcopt=ist;u=-1;ord='+1476978503+'?"></script>
+			<script type="text/javascript" src="http://ad.doubleclick.net/adj/hbp.eeweb/wallpaper;sz=3x3;dcopt=ist;u=-1;ord='+1494764678+'?"></script>
 			
 		
 	<script type="text/javascript" src="/js/biggerlink/link.js"></script>
 	<script type="text/javascript">
-                    	function toggleDelete() {$('#member_delete_form').toggle();}
+    //                	function toggleDelete() {
+    //                		$('#member_delete_form').toggle();
+    //                	}
                     
 		$(document).ready(function() {
 			$('ul.feature_item li').biggerlink();
 			$('.biglink').biggerlink();
+
+		   // Fancy Anchor added by Ralph
+		    $(".x").click(function(event) {
+		        event.preventDefault(); 
+		        var defaultAnchorOffset = 0;     
+		        var $anchor = $('#' + this.hash.substring(1));
+		        var anchorOffset = $anchor.attr('data-anchor-offset');
+		        if (!anchorOffset) // for when anchor does have the offset attribute
+		            anchorOffset = defaultAnchorOffset; 
+		        $('html,body').animate({ 
+		            scrollTop: $anchor.offset().top - anchorOffset
+		        }, 500);        
+		    });
+
 		});
 	</script>
 	
@@ -93,10 +119,11 @@
 
         <div class="container_16">
             <ul>
-                                                    <li class="first name"><a href="/register"><span class="name_style">Join Our Community:</span>&nbsp;&nbsp;Sign-Up</a></li>
+                                                    <li class="first name"><a href="/register"><span class="name_style">Join EEWeb's Community:</span>&nbsp;&nbsp;Sign-Up</a></li>
                     <li class="title_seperator">or</li>
                     <li><a href="/login">Login</a></li>
-                            </ul>
+                                <li class="right_menus"><form class="top_search_bar" action="/search" method="get">Search:<input class="search_go" type="submit" value="GO"><input class="search_box" name="q" value=""></form></li>
+            </ul>
             <div class="clear"></div>
                     </div>
     </div>
@@ -104,8 +131,6 @@
 
 	<script type="text/javascript">
 		$(document).ready(function() {
-			$('.search_components').val('Part Number / Keyword...');
-
 			$('#browse_catalog').toggle(function() {
 			    if($("#mega_menu:empty").length) {
 			        $("#mega_menu").load("/includes/browse_products_menu", function() {$("#mega_menu").slideDown('fast');});
@@ -114,11 +139,6 @@
 
 			$('#close_menu').live('click', function() {$('#browse_catalog').trigger('click');}); 
 
-			$('.search_components').click(function() {
-				$(this).val('');
-				$(this).css('font-style','normal');
-				$(this).css('color','#000');
-			});
 
 			var subNavTimer;
 			var subNavTimer2;
@@ -276,10 +296,8 @@
 			
 			<div id="search_bar">
 				<div id="browse_catalog">&nbsp;</div> 
-				<form name="Sform" target="_blank" action="http://search.digikey.com/scripts/DkSearch/dksus.dll" method="get" class="dksearch" id="dksearch" onsubmit="checkKeyword();">
+				<form name="Sform" target="_blank" method="get" class="dksearch" id="dksearch" onsubmit="checkKeyword();">
 					<input type="hidden" name="lang" value="en"><input type="hidden" name="site" value="US"> 
-					<input type="submit" value="&nbsp;" id="search_button">
-					<input type="text" value="Part Number / Keyword..." accesskey="S" name="KeyWords" id="search_components" class="search_components"> 
 				</form> 
 			</div>
 		</div>
@@ -292,11 +310,11 @@
 				<li><a href="/" id="menu_">Home</a></li>
 				<li><a href="/toolbox/" id="menu_toolbox">Tools</a></li>
 				<li><a href="/news/" id="menu_news">News</a></li>
-				<li><a href="/electronics-forum/" id="menu_discussions">Forum</a></li>
+				<li><a href="/electronics-forum/" id="menu_electronics-forum">Forum</a></li>
 				<li><a href="/community/" id="menu_community">Community</a></li>
 				<li><a href="/articles/" id="menu_articles">Articles</a></li>
 				<li><a href="/projects/" id="menu_projects">Projects</a></li>
-				<li><a href="/companies" id="menu_rtz" style="margin-right:none; width: 119px;">Companies</a></li>
+				<li><a href="/companies" id="menu_companies" style="margin-right:none; width: 119px;">Companies</a></li>
 				<li><a href="/events/" id="menu_events">Events</a></li>
 				<li><a href="/jobs/" id="menu_jobs">Jobs</a></li>
 			</ul>
@@ -312,6 +330,7 @@
 
 				<li><a href="/electromechanical" id="menu_electromechanical">Electromechanical</a></li>
 				<li><a href="/passives" id="menu_passives">Passives</a></li>
+				<li><a href="/sensors" id="menu_sensors">Sensors</a></li>
 
 			</ul>
 
@@ -327,33 +346,31 @@
 				});
 			</script>
 								
-				<style>
-					.leaderboard {margin: 10px 7px 0 7px; width: 975px; border-bottom: 1px solid #D5D5D5; height: 100px;}
-					.leaderboard .bl-hover {border-color: #3a7dbe !important;}
-				</style>
-
-				<script type="text/javascript">
-					
-				</script>
 
 		<div class="leaderboard">
+			
+			<ul class="pulse-button">
+	              		<li style="position: absolute; margin-top: 67px; margin-left: 149px;" class="biglink"><a href="http://bit.ly/169oBoy" target="_blank" style="margin-left: 4px;">Read Now</a></li>
+	              		<li style="position: absolute; margin-top: 67px; margin-left: 76px; z-index: 255" class="biglink"><a href="/pulse" id="more_issues" style="margin-left: 4px;">More Issues</a></li>
+	        </ul>
 			
         	<div style="width: 224px; height: 89px; border: 1px solid #ccc; float: left; margin: 0 10px 0 4px; border-radius: 3px;" class="clearfix biglink">
 	        	
 	            
-	            	<a href="/pulse" style="float: left; margin: 3px 4px 0 4px;"><img src="http://s.eeweb.com/resized/images/remote/http_s.eeweb.com/pulse/images/2012/11/1353515370/Pulse-73-Cover_63_82.png" alt="Matt Rogers - Founder and VP of Engineering at Nest" width="63" height="82"></a>
+	            	<a href="http://bit.ly/169oBoy" target="_blank" style="float: left; margin: 3px 0 0 4px;"><img src="http://d3i5bpxkxvwmz.cloudfront.net/resized/images/remote/http_s.eeweb.com/pulse/images/2013/06/1370970115/Pulse-102-Cover_63_82.PNG" alt="Interview with Matt Lee – Founder and Technical Team Lead at Oscium" width="63" height="82"></a>
 
-	              	<p style="color: #000; margin: 4px 13px 0 14px; font-size: 13px; font-weight: bold; font-family: helvetica, arial; text-align: center;" href="/pulse"> PULSE Magazine </p>
-	              	<p style="width: 137px; display: block; font-size: 11px; float: right; line-height: 14px; margin-right: 5px; margin-bottom: 6px; height: 40px;">Matt Rogers - Founder and VP of Engineering at Nest</p>
-	              	<p href="/pulse" style="float: right; color: #000; text-decoration: none; font-size: 11px; margin: 0 10px 5px 0; font-family: helvetica, arial;">Read Now</p>
+	              	<p class="pulse-header" href="/pulse">Weekly PULSE Issue </p>
+	              	<p class="pulse-header-summary">Interview with Matt Lee – Founder and Technical Team Lead at Oscium </p>
+	              	
 	            
-	                
+	            
         	</div>
+        	    
 			<div style="width: 728px; height: 82px; float: left;" class="clearfix">
 				<script type="text/javascript">
 
 			//<![CDATA[
-			document.write('<script type="text/javascript" src="http://ad.doubleclick.net/adj/hbp.eeweb/;sz=728x90;ord=' + 1476978503 + '?"><\/script>');
+			document.write('<script type="text/javascript" src="http://ad.doubleclick.net/adj/hbp.eeweb/;sz=728x90;ord=' + 1494764678 + '?"><\/script>');
 			//]]>
 
 $(document).ready(function() {
@@ -362,7 +379,7 @@ if ($(leaderboard_ad).width() == 1) { $(leaderboard_ad).attr('src', '/pics/home/
 $('.leaderboard').find('a').last().attr('href', 'http://www.digikey.com/schemeit');
 }
 });
-		</script><script type="text/javascript" src="http://ad.doubleclick.net/adj/hbp.eeweb/;sz=728x90;ord=1476978503?"></script>
+		</script><script type="text/javascript" src="http://ad.doubleclick.net/adj/hbp.eeweb/;sz=728x90;ord=1494764678?"></script>
 			</div>
 		</div>
 		
@@ -474,7 +491,7 @@ $('.leaderboard').find('a').last().attr('href', 'http://www.digikey.com/schemeit
 
 	<h4>Deleting your Account</h4>
 
-	<p>Members may delete their account by an email request. Requests should be sent to <span id="eeEncEmail_E2nksYqzeu"><a href="mailto:info@eeweb.com">info@eeweb.com</a></span><script type="text/javascript">
+	<p>Members may delete their account by an email request. Requests should be sent to <span id="eeEncEmail_GcG5zHTmbn"><a href="mailto:info@eeweb.com">info@eeweb.com</a></span><script type="text/javascript">
 //<![CDATA[
 var l=new Array();
 var output = '';
@@ -483,7 +500,7 @@ for (var i = l.length-1; i >= 0; i=i-1){
 if (l[i].substring(0, 1) == ' ') output += "&#"+unescape(l[i].substring(1))+";"; 
 else output += unescape(l[i]);
 }
-document.getElementById('eeEncEmail_E2nksYqzeu').innerHTML = output;
+document.getElementById('eeEncEmail_GcG5zHTmbn').innerHTML = output;
 //]]>
 </script>.</p>
 
@@ -552,7 +569,7 @@ document.getElementById('eeEncEmail_E2nksYqzeu').innerHTML = output;
 	<p><span class="caps">EEW</span>eb<br>
 1020 W Main St. 100K<br>
 Boise ID 83702<br>
-Email: <span id="eeEncEmail_y3xhHxKCGT"><a href="mailto:info@eeweb.com">info@eeweb.com</a></span><script type="text/javascript">
+Email: <span id="eeEncEmail_EtG52iJW0S"><a href="mailto:info@eeweb.com">info@eeweb.com</a></span><script type="text/javascript">
 //<![CDATA[
 var l=new Array();
 var output = '';
@@ -561,7 +578,7 @@ for (var i = l.length-1; i >= 0; i=i-1){
 if (l[i].substring(0, 1) == ' ') output += "&#"+unescape(l[i].substring(1))+";"; 
 else output += unescape(l[i]);
 }
-document.getElementById('eeEncEmail_y3xhHxKCGT').innerHTML = output;
+document.getElementById('eeEncEmail_EtG52iJW0S').innerHTML = output;
 //]]>
 </script></p></div>
 
@@ -575,36 +592,7 @@ document.getElementById('eeEncEmail_y3xhHxKCGT').innerHTML = output;
     
 			</div> <!-- container_16 -->
 		</div>
-		<div style="background-color: white; width: 996px; margin: 0 auto; padding-bottom: 9px;">
-			<div class="container_16 clearfix" id="main_footer">
-				<div style="float:left;">
-					<script language="JavaScript1.1" src="http://ad.doubleclick.net/adj/N4481.287806.EEWEB.COM/B5392613.7;sz=596x200;click=;ord=[timestamp]?">
-					</script>
-					<noscript>
-					<A HREF="http://ad.doubleclick.net/jump/N4481.287806.EEWEB.COM/B5392613.7;sz=596x200;ord=[timestamp]?">
-					<IMG SRC="http://ad.doubleclick.net/ad/N4481.287806.EEWEB.COM/B5392613.7;sz=596x200;ord=[timestamp]?" BORDER=0 WIDTH=596 HEIGHT=200 ALT="Advertisement"></A>
-					</noscript>
-				</div>
-
-				<div style="float:left;">
-					<script language="JavaScript1.1" src="http://ad.doubleclick.net/adj/N4481.287806.EEWEB.COM/B5392613.9;sz=380x85;click=;ord=[timestamp]?">
-					</script>
-					<noscript>
-					<A HREF="http://ad.doubleclick.net/jump/N4481.287806.EEWEB.COM/B5392613.9;sz=380x85;ord=[timestamp]?">
-					<IMG SRC="http://ad.doubleclick.net/ad/N4481.287806.EEWEB.COM/B5392613.9;sz=380x85;ord=[timestamp]?" BORDER=0 WIDTH=380 HEIGHT=85 ALT="Advertisement"></A>
-					</noscript>
-				</div>
-
-				<div style="float:left;">
-					<script language="JavaScript1.1" src="http://ad.doubleclick.net/adj/N4481.287806.EEWEB.COM/B5392613.8;sz=380x115;click=;ord=[timestamp]?">
-					</script>
-					<noscript>
-					<A HREF="http://ad.doubleclick.net/jump/N4481.287806.EEWEB.COM/B5392613.8;sz=380x115;ord=[timestamp]?">
-					<IMG SRC="http://ad.doubleclick.net/ad/N4481.287806.EEWEB.COM/B5392613.8;sz=380x115;ord=[timestamp]?" BORDER=0 WIDTH=380 HEIGHT=115 ALT="Advertisement"></A>
-					</noscript>
-				</div>
-			</div>
-		</div> 
+		
 	
 	
 	
@@ -613,9 +601,9 @@ document.getElementById('eeEncEmail_y3xhHxKCGT').innerHTML = output;
 			<div class="container_16 clearfix" id="footer_extras">
 	    <div class="region_one">
 				
-					<a href="/pulse"><img src="http://s.eeweb.com/resized/images/remote/http_s.eeweb.com/pulse/images/2012/11/1353515370/Pulse-73-Cover_95_123.png" alt="Matt Rogers - Founder and VP of Engineering at Nest" class="region_one_img" width="95" height="123"></a>
+					<a href="/pulse"><img src="http://d3i5bpxkxvwmz.cloudfront.net/resized/images/remote/http_s.eeweb.com/pulse/images/2013/06/1370970115/Pulse-102-Cover_95_123.PNG" alt="Interview with Matt Lee – Founder and Technical Team Lead at Oscium" class="region_one_img" width="95" height="123"></a>
 					<h3 class="region_one_title">EEWeb Pulse Magazine</h3>
-					<p>Matt Rogers - Founder and VP of Engineering at Nest</p>
+					<p>Interview with Matt Lee – Founder and Technical Team Lead at Oscium</p>
 					<a href="/register" class="region_one_button button_1">Subscribe</a>
 					<a href="/pulse" class="region_one_button button_2">Latest Issue</a>
 				
@@ -654,7 +642,7 @@ document.getElementById('eeEncEmail_y3xhHxKCGT').innerHTML = output;
 	    	    <li><a href="/about">About Us</a></li>
 	    		<li><a href="/policy">Privacy Policy</a></li>
 	    		<li><a href="/terms">Terms and Conditions</a></li>
-	    		<li style="border-right-style: none; padding-left:12px;">© Copyright 2012 Aspen Labs, LLC</li>
+	    		<li style="border-right-style: none; padding-left:12px;">© Copyright 2013 Aspen Labs, LLC</li>
 	    	</ul>
 	    </div>
 	</div>
