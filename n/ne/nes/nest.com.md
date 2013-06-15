@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nest.com privacy policy that was archived on 2012-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121205072232id_/https%3A//www.nest.com/legal/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nest.com privacy policy that was archived on 2013-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130615233333id_/http%3A//nest.com/legal/privacy-statement) for the most accurate reproduction.*
 
 # Nest | The Learning Thermostat | Privacy Statement
 
@@ -16,8 +16,9 @@
   * Buy
     * [ nest.com ](http://store.nest.com/us/)
     * [ amazon.com ](http://www.amazon.com/dp/B009GDHYPQ)
-    * [ Apple Store ](http://store.apple.com/us/product/HA895)
+    * [ Apple Store ](http://store.apple.com/us/product/HA895LL/A/nest-learning-thermostat-2nd-generation)
     * [ Best Buy ](http://www.bestbuy.com/site/Nest+-+Learning+Thermostat+2nd+Generation+-+Stainless-Steel/6913825.p?id=1218813789398&skuId=6913825&st=6913825&cp=1&lp=1)
+    * [ Home Depot ](http://www.homedepot.com/p/t/204005038)
     * [ Lowe’s ](http://www.lowes.com/nest)
     * Local Certified Professional 
 
@@ -97,6 +98,6 @@ We hope this answers all of your questions.  If you have any further questions,
 
 * * *
 
-Policy active as of October 2, 2012: Edited to (1) Reflect specifics relevant to non-US jurisdictions; (2) Conform language. Review previous policies [here](https://web.archive.org/legal/privacy-statement/archive/).
+Policy active as of October 2, 2012: Edited to (1) Reflect specifics relevant to non-US jurisdictions; (2) Conform language. Review previous policies [here](https://web.archive.org/legal/privacy-statement/archive/).
 
 * * *
