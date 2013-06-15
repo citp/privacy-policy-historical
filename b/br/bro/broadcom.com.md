@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the broadcom.com privacy policy that was archived on 2012-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121231031906id_/http%3A//www.broadcom.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the broadcom.com privacy policy that was archived on 2013-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130615035840id_/http%3A//www.broadcom.com/privacy_policy.php) for the most accurate reproduction.*
 
 # Broadcom Privacy Policy | Broadcom
 
@@ -12,7 +12,7 @@ This Privacy Policy describes the information that Broadcom and its subsidiaries
 
 Broadcom respects individual privacy and values the confidence of its customers, employees, consumers, business partners and others. Broadcom is a licensee of the TRUSTe Privacy Program.
 
-Broadcom has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with [TRUSTe�s program requirements](http://www.truste.com/privacy_seals_and_services/consumer_privacy/privacy-programs-requirements.html) including transparency, accountability and choice regarding the collection and use of your personal information. The TRUSTe program does not cover information that may be collected through downloadable software. The TRUSTe program covers only information that is collected through this Web site, [www.broadcom.com](http://www.broadcom.com/)
+Broadcom has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with [TRUSTe's program requirements](http://www.truste.com/privacy_seals_and_services/consumer_privacy/privacy-programs-requirements.html) including transparency, accountability and choice regarding the collection and use of your personal information. The TRUSTe program does not cover information that may be collected through downloadable software. The TRUSTe program covers only information that is collected through this Web site, [www.broadcom.com](http://www.broadcom.com/)
 
 TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy Trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy policy or practices, please contact us at privacy-list@broadcom.com. If you are not satisfied with our response you can contact [TRUSTe here](http://watchdog.truste.com/pvr.php?page=complaint).
 
