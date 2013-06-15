@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the zinescripts.com privacy policy that was archived on 2012-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120513025951id_/http%3A//www.zinescripts.com/pages/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zinescripts.com privacy policy that was archived on 2013-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130615044854id_/http%3A//www.zinescripts.com/pages/privacy) for the most accurate reproduction.*
 
-# Privacy Policy | ZineScripts.com - Awesome Web Apps
-
-## Privacy Policy
+# Privacy Policy | ZineScripts.com - WordPress Plugins and Scripts
 
 This privacy policy sets out how ZineScripts uses and protects any information that you give ZineScripts when you use this website.
 
