@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the seekingmillionaire.com privacy policy that was archived on 2012-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121231153305id_/http%3A//www.seekingmillionaire.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the seekingmillionaire.com privacy policy that was archived on 2013-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130615034302id_/http%3A//www.seekingmillionaire.com/privacy.php) for the most accurate reproduction.*
 
 # Free Millionaire Dating - Wealthy Rich Men & Beautiful Singles Online Personals
 
