@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the lifestylejournal.com privacy policy that was archived on 2012-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120629073731id_/http%3A//lifestylejournal.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lifestylejournal.com privacy policy that was archived on 2013-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130615022124id_/http%3A//lifestylejournal.com/privacy-policy) for the most accurate reproduction.*
 
-# LifestyleJournal.com | Privacy Policy
+# Privacy Policy
 
 LifestyleJournal.com respects your privacy and is committed to protecting the personal information that you furnish. In general, you can visit LifestyleJournal.com on the Internet without identifying yourself or providing personal information. There are times when LifestyleJournal.com may need personal information from you and this Privacy Statement describes the information LifestyleJournal.com collects from you and how we may use it.
 
