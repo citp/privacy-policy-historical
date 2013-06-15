@@ -1,21 +1,6 @@
-> *The following text is extracted and transformed from the eco-chick.com privacy policy that was archived on 2012-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121219113442id_/http%3A//eco-chick.com/contact) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eco-chick.com privacy policy that was archived on 2013-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130615165527id_/http%3A//eco-chick.com/privacy-policy) for the most accurate reproduction.*
 
-# Contact + Privacy Notice · Eco-Chick
-
-[](http://www.flickr.com/photos/64988092@N00/4138997533/ "StarreonPhone by starrevartan, on Flickr")
-
-Email is the best way to contact one of the writers at Eco-Chick. If you have a pressing inquiry, please contact founder and editor Starre Vartan and she will do her best to help you out.
-
-If you are interested in submitting a product for review or a campaign for coverage on Eco-Chick, please see [our guidelines](http://eco-chick.com/advertise-on-eco-chick/).
-
- **Starre Vartan, founder and editor-in-chief**  
-Email: starre (at) eco-chick (dot) com  
-Phone: 203.219.5582  
-AIM: ecochickie  
-Skype: Starre Vartan  
-Twitter: ecochickie
-
- **PRIVACY NOTICE**
+# Privacy Policy » Eco-Chick
 
 This privacy notice discloses the privacy practices for eco-chick.com. This privacy notice applies solely to information collected by this web site. It will notify you of the following:
 
@@ -30,7 +15,7 @@ We will use your information to respond to you, regarding the reason you contact
 
 Unless you ask us not to, we may contact you via email in the future to send you a newsletter, tell you about changes to the website or changes to this privacy policy.
 
- **Your Access to and Control Over Information**  
+**Your Access to and Control Over Information**  
 You may opt out of any future contacts from us at any time. You can do the following at any time by contacting us via the email address or phone number given on our website:
 
 See what data we have about you, if any.  
