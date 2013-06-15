@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the trainingpeaks.com privacy policy that was archived on 2012-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121114063230id_/http%3A//home.trainingpeaks.com/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the trainingpeaks.com privacy policy that was archived on 2013-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130615124648id_/http%3A//home.trainingpeaks.com/privacy-policy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy | TrainingPeaks
 
@@ -56,14 +56,13 @@ If you do not wish to receive cookies, you may set your browser to reject cookie
   * To provide you with a personalized experience when you use the Site;
   * To create a profile from the dealings we have with you to help understand what information you might be interested in receiving from us;
   * To contact you with special offers and other information we believe will be of interest to you;
-  * To contact you with information and notices related to your use of the Site; 
+  * To contact you with information and notices related to your use of the Site;
   * To invite you to participate in surveys and provide feedback to us;
   * To contact you to satisfy any legal or regulatory obligation;
   * To improve the content, functionality and usability of the Site;
   * To improve our products and services and develop new products and services;
   * To improve our marketing and promotional efforts;
   * As set forth in any Privacy Notice or “Click Through Agreement” between you and us.
-
 
 
 
