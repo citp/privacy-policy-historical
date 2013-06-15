@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vfreshers.com privacy policy that was archived on 2012-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121208120113id_/http%3A//www.vfreshers.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vfreshers.com privacy policy that was archived on 2013-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130616005812id_/http%3A//www.vfreshers.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Freshers Jobs India
 
