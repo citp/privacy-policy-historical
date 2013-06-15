@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the earthday.org privacy policy that was archived on 2012-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121125015002id_/http%3A//www.earthday.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the earthday.org privacy policy that was archived on 2013-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130615121341id_/http%3A//www.earthday.org/privacy-policy-0) for the most accurate reproduction.*
 
 # Privacy Policy | Earth Day Network
 
@@ -66,9 +66,13 @@ To make a donation to Earth Day Network, you agree to submit your Personal Infor
 
 To send a Letter or Postcard to an outside recipient, you must submit your name, address, and email address. You then agree that we may share your Personal Information with the recipient of the postcard/letter as listed on our website. We are not responsible for the use of your information once sent to the intended recipient. By sending a letter/postcard, you also agree that your information may be shared with other organizations supporting this environmental cause. We are not responsible for the use of your Personal Information by such organizations.
 
-**8.Contests, Sweepstakes, and Giveaways**
+**8\. Contests, Sweepstakes, and Giveaways**
 
 To enter any of our contests, sweepstakes, or giveaways, you agree to provide the information requested. This information will be disclosed to third parties as required to process and fulfill the contest or sweepstake rules and to award prizes. Your Personal Information, however, will not be sold or used for other purposes unless described in this Privacy Policy or in the rules of the contest or sweepstakes posted on the website, or unless otherwise required by law.
+
+**9\. Age restrictions**
+
+Earth Day Network does not knowingly collect or solicit any information from anyone under the age of 13 or knowingly allow such persons to submit personal information to the organization through its website or other means. Earth Day Network and its content are not directed at children under the age of 13. In the event that we learn that we have collected personal information from a child under age 13 without parental consent, we will delete that information as quickly as possible. If you believe that we might have any information from or about a child under 13, please contact us at [communications@earthday.org](mailto:communications@earthday.org).
 
 **Other Disclosure of Personal Information**
 
