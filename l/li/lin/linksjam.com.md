@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the linksjam.com privacy policy that was archived on 2012-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120627083414id_/http%3A//www.majon.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the linksjam.com privacy policy that was archived on 2013-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130615091833id_/http%3A//www.majon.com/privacy_policy.html) for the most accurate reproduction.*
 
 # Privacy Policy - Search Engine Marketing
 
 #### **Majon International Privacy Policy**
 
-We respect and are committed to protecting your privacy. Our Privacy Policy lets you know how your personal information is processed and used. We promise that we will take steps to use your personal information only in ways that are compatible with this Privacy Policy. The following policies are only in effect for the web pages, newsletters, discussion lists and opt-in announcement lists owned and operated by Majon International and its web site network. If you require any more information or have any questions about our privacy policy, please feel free to contact us via our [contact page](http://www.majon.com/contact)
+We respect and are committed to protecting your privacy. Our Privacy Policy lets you know how your personal information is processed and used. We promise that we will take steps to use your personal information only in ways that are compatible with this Privacy Policy. The following policies are only in effect for the web pages, newsletters, discussion lists and opt-in announcement lists owned and operated by Majon International and its web site network. If you require any more information or have any questions about our privacy policy, please feel free to contact us via our [contact page](https://www.majon.com/contact)
 
 At www.majon.com, the privacy of our visitors is of extreme importance to us. This privacy policy document outlines the types of personal information is received and collected by www.majon.com and how it is used.
 
@@ -72,3 +72,7 @@ Please keep in mind that whenever you voluntarily disclose personal information 
 **  
 Your Consent To This Agreement**  
 By using our web site and network of web sites, you consent to the collection and use of information by Majon International as specified above. If we decide to change our privacy policy, we will post those changes on this page so that you are always aware of what information we collect, how we use it, and under what circumstances we disclose it. Thank you for making Majon International one of the most popular and leading edge marketing and advertising companies on the internet today!
+
+[Information on Web Site Advertising and marketing services  
+](http://www.majon.com/)  
+[(doorwaypagelink)] 
