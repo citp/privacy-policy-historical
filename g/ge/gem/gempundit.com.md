@@ -1,100 +1,68 @@
-> *The following text is extracted and transformed from the gempundit.com privacy policy that was archived on 2011-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110627154744id_/http%3A//www.godaddy.com/agreements/ShowDoc.aspx%3Fpageid%3Dprivacy_parkedpage) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gempundit.com privacy policy that was archived on 2013-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130615091844id_/http%3A//www.gempundit.com/privacy-policy) for the most accurate reproduction.*
 
-# Legal Agreement
+# Privacy Policy | GemPundit.com
 
-**Go Daddy Respects Your Privacy**
+Thank you for visiting Gempundit.com! We want you to know that your privacy is important to us. Our customers are at the heart of everything we do, and we strive to ensure your experience with Gempundit.com is one that you will want to repeat and share with your friends. Part of our commitment to you is to respect and protect the privacy of the personal information you provide to us. The information below is designed to inform you of what information we collect, why we collect such information, and how we use the information we collect. This Privacy Policy is incorporated into our Terms of Service.
 
-**This Privacy Policy explains our privacy and information gathering practices, such as the types of information we collect and under what circumstances that information is shared.**
+When you submit your personal information to us, you are giving us your consent to the collection, use, and disclosure of your information as set forth in this Privacy Policy. We are always available to discuss your questions or concerns regarding this Privacy Policy and our privacy practices. If you would like to speak to a customer service representative.
 
-**Please take the time to review the terms of this Policy.   By using this Site, you agree to accept the terms provided.**
+Please contact us via telephone at 0124-4106764  or email at support@gempundit.com
 
-**Other than as described in this Policy, we will not give any information about you to others without your express permission.**
+#### Collection and Use of Information
 
-**Information Collection and Use**
+As a welcome guest, you can browse our Website without telling us who you are or revealing any personal information about yourself. At various times, you may decide to provide us with your personal information. You should know that we receive and may store all personal information (whether written or oral) that you provide to us through whatever means you provide such information (through our Website, via e-mail, over the telephone, etc.). Personal information means any information that may be used to identify an individual, including, but not limited to, a first and last name, home, billing or other physical address or email address as well as any information associated with the foregoing.
 
-Although this Site is primarily for informational purposes, we may ask you to provide us with your name, email address or other information that could be used to identify you personally.  For example, we may collect this information in the event that you register as a member of this Site, post a comment, sign-up to receive email communications, or submit demographic information as part of a survey.
+#### Use of Your Personal Information
 
-We receive and store any information you enter on our Site or give us in any other way, including through email, telephone, or other communications. If you contact us for support, we will keep an internal record of our communication with you.
+We may use the information we collect about you to:
 
-We may use your information to contact you regarding the information and services available on our Site, functionality changes to our Site, and special offers we think you'll find valuable. If you would rather not receive this information, please see the "Updating Your Information" section below on how to change your preferences.
+1\. Facilitate your purchases and provide the services you request   
+2\. Confirm and track your order   
+3\. Respond to your inquiries and requests   
+4\. Compare and review your personal information for errors, omissions and accuracy   
+5\. Prevent and detect fraud or abuse   
+6\. Improve our Website, service, product offerings, marketing and promotional efforts, and overall customer experience   
+7\. Identify your product and service preferences   
+8.Understand our customer demographics, preferences, interests, and behavior, and contact you (via email, postal mail, or telephone) regarding products and services that we believe may be of interest to you.
 
-We may also use your information to present a co-branded offer with our partners or affiliates. If we collect information from you in connection with a co-branded offer, it will be clear at the point of collection who is collecting the information and whose privacy statement applies.
+#### Personal Information that we May Share with Others
 
-We use information gathered about you from our Site statistics (for example, your IP address) to help diagnose problems with our server, and to administer our Site. We also gather broad demographic information from this data to help us improve our Site and make your browsing and purchasing experience more enjoyable. This is not linked to any personally identifiable information, except as necessary to prevent fraud or abuse on our system.
+In certain circumstances, we may share your personal information with trusted partners.
 
-Our Site uses cookies to enhance your experience with our Site.  Cookies are data files that are placed in your browser to keep track of your personal preferences and to facilitate easy navigation through our Site.  We use cookies to identify you so you don't need to log in each time you visit our Site.  You may opt-out of the use of cookies by altering settings on your browser.  Please note, however, that some areas of the Site will be easier to navigate with the use of cookies..
+  * **Service Providers:  **We use trusted third-party service providers to perform certain services on our behalf, including: shipping, payment processing, data storage/management, web hosting, web analytics, fulfillment, assembly, marketing, mailing, emailing, etc. These service providers only receive personal information if such information is needed to perform their function(s), and they are not authorized to use any personal information for any other purpose(s) other than the purpose(s) set forth by GemPundit.
 
-This Site also contains links to other websites. Unfortunately, we are not responsible for the privacy practices or the content of such sites.
 
-**Security**
+  * **Special Events:  **If you choose to participate in a special event (for example, a promotion, contest, or sweepstakes), GemPundit re your personal information with those organizations participating in the applicable event. Unless we tell you otherwise in connection with a special event, these third parties do not use your information for any other purpose other than to manage the event. We may authorize trusted partners to send you information about products and services that may be of interest to you.  
+ **  
+**
+  * **Compliance with Law and Fraud Protection:**  We may, and you authorize us to use and disclose any information, including personal information: (1) we deem necessary, in our sole discretion, to comply with any applicable law, regulation, legal process, or governmental request; (2) in order to investigate, prevent or take action regarding illegal activities, suspected fraud, situations involving potential threats to the physical safety of any personal or as otherwise required by law; (3) to other companies and organizations for credit fraud protection and risk reduction; and (4) to enforce any agreement we have with you.
+  * **Anonymous information:** We may create anonymous records from personal information by excluding information (such as your name) that makes the information personally identifiable to you. We may use these records for internal purposes, such as analyzing usage patterns so that we may enhance our services, and we also reserve the right to use and disclose any information in such records at our discretion.
+  * **Suggestion and feedbacks:** We value your comments, feedback, testimonials, etc., which help us improve our website, products, and services. By making such submissions to us, you assign your rights in the submissions to us, as described in the "Submissions" section of our [Terms and Conditions](https://web.archive.org/terms-conditions "Terms and Conditions") page.
 
-This Site has security measures in place to protect against the loss, misuse or alteration of the information under our control.
 
-**Updating Your Information**
 
-You may alter your account information or opt out of receiving communications from us and our partners at any time. We have the following options for changing and modifying your account information or contact preferences.
+#### Other Uses of Your Information:
 
-        i.      You may send an email to [support@godaddy.com ](mailto:support@godaddy.com)
+IP Address. When you visit our Website, GemPundit collects your IP address to, among other things, help diagnose problems with its server, administer and tune the operation of its Website, analyze trends, track traffic patterns, gather demographic information for aggregate use, and track the date and duration of each session  
+within our Website. Your IP address may also be used in combination with your personal information to prevent fraud or abuse, customize your shopping experience,  
+improve our website, customer service, products, and promotional efforts, and to understand your preferences, patterns and interests. 
 
-       ii.      You may send mail to Go Daddy at the following postal address:   
-               14455 North Hayden Road, Suite 219, Scottsdale, AZ. 85260 USA
+Data Collection Devices, such as Cookies and Web Beacons. In some instances, GemPundit may collect data through cookies, web logs, web beacons (also known as  
+pixel gifs or action tags) and other monitoring technologies to enhance your browsing and shopping experience on our website. "Cookies" are small pieces of  
+information that are stored by your browser on your computer's hard drive to collect information about your activities on our website. Web beacons are small strings of  
+code placed on a web page or within an email for the purpose of transferring information. 
 
-      iii.      You may call us at: (480) 505-8800
+We use cookies and web beacons to deliver our ads, improve and measure the usability, track visits from our affiliates and partners, performance and effectiveness of   
+our Website, improve and measure the effectiveness of our marketing programs, learn how customers use our website, estimate our audience size, deliver co-branded services, and to customize your shopping experience. Examples of the type of information that we collect through these collection devices, includes: total visitors to  
+the website, pages viewed, unique visitors, time spent on our Website and on certain web pages, etc. 
 
-       iv.      You may fax us at: (480) 505-8844
+We may authorize third parties to use cookies, web beacons and other monitoring technologies to compile information about the use of the Website or interaction with advertisements that appear on the Website.
 
-**Sending Emails**
+You are always free to decline cookies if your browser permits; although, by declining the use of cookies you may not be able to use certain features on the Website.
 
-We use emails to communicate with you and to send information that you have requested.  We also provide email links to allow you to contact us directly. We strive to promptly reply to your messages.
+Our Website may provide links to other third-party Websites which are outside our control and not covered by this privacy policy. We encourage you to review the  
+privacy policies posted on these (and all) Websites.
 
-The information you send to us may be stored and used to improve this Site and our products, or it may be reviewed and discarded.
+#### Accessing and Updating Your Information
 
-**Compliance with Laws and Law Enforcement**
-
-We cooperate with government and law enforcement officials and private parties to enforce and comply with the law. We will disclose any information about you to government or law enforcement officials or private parties as we, in our sole discretion, believe necessary or appropriate to respond to claims and legal process (including without limitation subpoenas), to protect our property and rights or the property and rights of a third party, to protect the safety of the public or any person, or to prevent or stop activity we consider to be illegal or unethical. We will also share your information to the extent necessary to comply with ICANN's rules, regulations and policies.
-
-**Third Party Service Providers**
-
-We may at times provide information about you to third parties to provide various services on our behalf, such as serving advertisements, conducting contests or surveys, performing analyses of our user demographics, shipping of goods or services, and user relationship management. We will only share information about you that is necessary for the third party to provide the requested service. These companies are prohibited from retaining, sharing, storing or using your personally identifiable information for any secondary purposes.
-
-In the event that we use third party advertising companies to serve ads on our behalf, these companies may employ cookies and action tags (also known as single pixel gift or web beacons) to measure advertising effectiveness. Any information that these third parties collect via cookies and action tags is completely anonymous. If you would like more information about this practice and your choices, click [here. ](http://www.networkadvertising.org/managing/opt_out.asp)
-
-**Supplementation of Information**
-
-In order to provide certain services to you, we may on occasion supplement the personal information you submit to us with information from third party sources ( _e.g.,_ information from our strategic partners, service providers, or the United States Postal Service).  We do this to enhance our ability to serve you, to tailor our products and services to you, and to offer you opportunities to purchase products or services that we believe may be of interest to you.
-
-**Contests/Surveys**
-
-From time-to-time, we may provide you with the opportunity to participate in contests or surveys. If you choose to participate, we may request certain personally identifiable information from you. Participation in these contests or surveys is completely voluntary and you therefore have a choice whether or not to disclose the requested information. The requested information typically includes contact information (such as name and address), and demographic information (such as zip code and age level - note that you must be 18 or above to enter). We use this information to notify contest winners and award prizes, to monitor Site traffic, and to personalize our Site.
-
-We may use a third party service provider to conduct these surveys or contests. When we do, that company will be prohibited from using our users' personally identifiable information for any other purpose. We will not share the personally identifiable information you provide through a contest or survey with other third parties unless we give you prior notice and choice.
-
-**Tell-A-Friend**
-
-If a user elects to use our referral service to inform a friend about our Site, we ask the user for the friend's name and email address. Go Daddy will automatically send the friend a one-time email inviting them to visit our Site. Go Daddy stores this information for the sole purpose of sending this one-time email. The friend may contact Go Daddy at [support@godaddy.com ](mailto:support@godaddy.com)to request the removal of this information from our database.
-
-**What Happens to my Personal Information if I Opt Out?**
-
-If you advise us that you wish to opt out of receiving further communications from us, we will place your personally identifiable information in "deactivated" status on our relevant databases. However, you should know that placement of your information in "deactivated" status does not mean your personally identifiable information has been deleted from our database entirely. We will retain and use your personally identifiable information if necessary in order to comply with our legal obligations, resolve disputes, or enforce our agreements.
-
-**Transfer of Data Abroad**
-
-If you are visiting this Site from a country other than the country in which our servers are located, your communications with us may result in the transfer of information across international boundaries.  By visiting this Site and communicating electronically with us, you consent to such transfers.
-
-**Changes in Our Practices**
-
-We reserve the right to modify this Privacy Policy at any time. If we decide to change our Privacy Policy, we will post those changes to this Privacy Policy and any other places we deem appropriate, so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it.
-
-If we make material changes to this Policy, we will notify you here, by email, or by means of a notice on our home page, at least thirty (30) days prior to the implementation of the changes.
-
-**Contacting Our Site**
-
-If you have any questions about our Privacy Policy, the practices of this Site, or your dealings with this Site, please contact us at:
-
-* * *
-
-Go Daddy   
-ATTN: Web Team   
-14455 North Hayden Rd.   
-Suite 219   
-Scottsdale, AZ, 85260, U.S.A.
+If the personally identifiable information GemPundit has gathered from you changes or you would like to access, correct, or delete such information, we will gladly provide you access to, correct, or delete (to the extent allowed by law) any personal information we have collected about you. To request access to, a correction to, or deletion of your personal information, please send an e-mail or contact one of our diamond and jewelry consultants at **0124-4106764**.
