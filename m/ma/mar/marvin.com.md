@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the marvin.com privacy policy that was archived on 2012-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121213063938id_/http%3A//www.marvin.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the marvin.com privacy policy that was archived on 2013-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130615075951id_/http%3A//www.marvin.com/privacy) for the most accurate reproduction.*
 
 # Privacy Statement
 
@@ -91,7 +91,7 @@ Marvin Windows and Doors
 2020 Silver Bell Road, Suite 15  
 Eagan, MN 55122
 
-[ ](https://web.archive.org/) ©Copyright 2009, Marvin Lumber and Cedar Co, All Rights Reserved.
+[ ](https://web.archive.org/) ©Copyright 2013, Marvin Lumber and Cedar Co, All Rights Reserved.
 
  **DATE OF LAST MODIFICATION  
 April 18, 2012**
