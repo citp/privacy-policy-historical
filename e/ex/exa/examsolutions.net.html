@@ -1,0 +1,569 @@
+<!--The following is the downloaded HTML source of the examsolutions.net privacy policy that was archived on 2013-06-15.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130615022839id_/http%3A//examsolutions.net/privacy.php) for the most accurate reproduction.-->
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><!-- InstanceBegin template="/Templates/main.dwt" codeOutsideHTMLIsLocked="false" --><head>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<!-- InstanceBeginEditable name="doctitle" -->
+<title>ExamSolutions: Privacy Statement</title>
+<!-- InstanceEndEditable -->
+<!-- InstanceBeginEditable name="head" -->
+<meta name="keywords" content="maths revision, maths papers, maths tuition, maths, GCSE maths, maths a-level, a-level maths">
+<meta name="description" content="ExamSolutions Privacy Statement">
+<meta name="copyright" content="© ExamSolutions">
+<meta name="author" content="ExamSolutions">
+<link rel="stylesheet" href="/styles/main.css" media="screen">
+<!-- InstanceEndEditable -->
+<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script id="facebook-jssdk" src="//connect.facebook.net/en_GB/all.js#xfbml=1"></script><script type="text/javascript">
+function addBookmark(title,url) {
+	if (window.sidebar) { 
+		window.sidebar.addPanel(title, url,""); 
+	} else if( document.all ) {
+		window.external.AddFavorite( url, title);
+	} else if( window.opera && window.print ) {
+		return true;
+	}
+}
+</script>   
+
+<!--[if !IE]> <-->
+<script type="text/javascript">
+/*- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+	ADxMenu script
+	- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+	(c) 2004 - Aleksandar Vacic, www.aplus.co.yu
+	Some rights reserved, http://creativecommons.org/licenses/by-sa/2.0/
+	- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+	Using:
+	X v3.15.2, Cross-Browser.com DHTML Library
+	Copyright (c) 2004 Michael Foster, Licensed LGPL (gnu.org)
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -*/
+
+/*- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+	central object: keeps track of viewport size, initializes menus
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -*/
+var ADXM_Constructor = function() {
+	//	deny all non-DOM browsers and all IE
+	if ((document.all && !window.opera) || !document.getElementById && !document.documentElement) return;
+
+	var self = this;
+
+	//	deny non-supporting browsers
+	var _ua = navigator.userAgent.toLowerCase();
+	var _nv = (navigator.vendor) ? navigator.vendor.toLowerCase() : "";
+	var _np = (navigator.product) ? navigator.product.toLowerCase() : "";
+
+	/*
+		allow:
+		- Gecko rv:1.5+
+		watch for khtml (webkit) and Opera, for future updates
+	*/
+
+	if (
+		( window.opera )
+		|| ( _np == "gecko" && parseFloat(_ua.indexOf("rv:") + 3) < 1.5 )
+		|| ( _ua.indexOf("webkit") != -1 )
+	) return;
+
+	//	keeps the menu IDs (of the main UL)
+	var _aMenuIDs = new Array();
+	//	keeps menu layouts
+	var _aLayouts = new Array();
+
+	//	return array of 1st level child elements with specified tag name
+	function _GetChildsByTagName(oNode, sNodeName) {
+		var a = new Array();
+		if (oNode && oNode.childNodes && oNode.childNodes.length) {
+			for (var i=0;i<oNode.childNodes.length;i++) {
+				if (oNode.childNodes[i].nodeName == sNodeName) {
+					a[a.length] = oNode.childNodes[i];
+				}
+			}
+		}
+		return a;
+	};
+
+	//	find menus on the page - look for class named "adxm"
+	function _FindMenus() {
+		var aTmp = xGetElementsByClassName("adxm", document, "ul", function(oM) {
+			var sLayout = "H";
+			if ( oM.className.indexOf("adxmV") != -1 )
+				sLayout = "V";
+			_Add(oM.id, sLayout);
+		} );
+	};
+
+	//	add the menu to the array
+	function _Add(sMenuID, sLayout) {
+		if ( typeof(sMenuID) == "undefined") return;
+		_aMenuIDs[_aMenuIDs.length] = sMenuID;
+		_aLayouts[_aLayouts.length] = sLayout;
+	};
+
+	//	process all menus
+	function _Process() {
+		var nMenus = _aMenuIDs.length, oMenu;
+		for (var i=0;i<nMenus;i++) {
+			oMenu = document.getElementById(_aMenuIDs[i]);
+			if (oMenu) {
+				_Processmenu( oMenu, _aLayouts[i], oMenu );
+			}
+		}
+	};
+
+	//	sets properties, handlers and other stuff for menus
+	function _Processmenu(oMenu, sLayout, oMainMenu) {
+		var aMenuLIs = _GetChildsByTagName(oMenu, "LI");
+		var oMenuLI, oUL, aUL;
+		for (var i=0;i<aMenuLIs.length;i++) {
+			oMenuLI = aMenuLIs[i];
+			aUL = oMenuLI.getElementsByTagName("UL");	//	UL elements in sub(main) item
+			if (aUL.length)	{	//	has submenus
+				//	save properties for positioning
+				oMenuLI.submenu = aUL[0];
+				oMenuLI.bIsH = (sLayout == "H");
+
+				oMenuLI.onmouseover = function() {
+					ADXM.Repos(this);
+				};
+
+				//	process the submenu in the same manner. all submenus have vertical layout
+				_Processmenu( aUL[0], "V", oMainMenu );
+			}
+
+		}// for aMenuLIs
+	};
+
+	//	reposition menu to fit in the viewport
+	this.Repos = function(oItem) {
+		var nTmp;
+		//	get the submenu pointer
+		var oMenu = oItem.submenu;
+		var bIsH = oItem.bIsH;
+
+		//	full submenu size
+		var nW = oMenu.offsetWidth;
+		var nH = oMenu.offsetHeight;
+
+		//	full parent item size, width + padding + border
+		var nIW = oItem.offsetWidth;
+		var nIH = oItem.offsetHeight;
+
+		//	inner submenu size, width + padding, no border
+		if (nTmp = xGetComputedStyle(oItem, "width")) nIW = nTmp;
+		if (nTmp = xGetComputedStyle(oItem, "height")) nIH = nTmp;
+
+		//	where should menu be (top-left point) in parent item coordinates?
+		var nLeft = (bIsH) ? 0 : nIW;
+		var nTop = (bIsH) ? nIH : 0;
+
+		//	where is that top-left point menu in page coordinates?
+		var nPageX = xPageX(oItem) + nLeft;
+		var nPageY = xPageY(oItem) + nTop;
+
+		//	get available client dims (with scrolling included)
+		_Viewport();
+		var nClientW = _nCW;
+		var nClientH = _nCH;
+
+		if ( nClientW != 0 && nClientH != 0 ) {
+			//	Horizontal placement
+			var nDiff = 0;
+			if (nPageX < 0) {
+				nDiff += -nPageX;
+				if (!bIsH) nDiff += nIW;
+			} else {
+				nTmp = nClientW - (nPageX + nW);
+				if (nTmp < 0) {
+					nDiff = nTmp;
+					if (!bIsH) nDiff = -nW-nIW;
+				}
+			}
+			if ( nDiff != 0 ) {
+				oMenu.style.right = "auto";
+				nLeft += nDiff;
+				xLeft(oMenu, nLeft);
+			}
+
+			//	Vertical placement
+			var nDiff = 0;
+			if (nPageY < 0) {
+				nDiff += -nPageY;
+				if (bIsH) nDiff += nIH;
+			} else {
+				nTmp = nClientH - (nPageY + nH);
+				if (nTmp < 0) {
+					nDiff = nTmp;
+					if (bIsH) nDiff = -nH-nIH;
+				}
+			}
+			if ( nDiff != 0 ) {
+				oMenu.style.bottom = "auto";
+				nTop += nDiff;
+				xTop(oMenu, nTop);
+			}
+		}
+	};
+
+	//	fetch client width, including scrolled part
+	var _nCW = 0;
+	function _FetchCW() {
+		var nTmp = xClientWidth();
+		if (nTmp > 0) nTmp += xScrollLeft();
+		_nCW = nTmp;
+	};
+
+	//	fetch client height, including scrolled part
+	var _nCH = 0;
+	function _FetchCH() {
+		var nTmp = xClientHeight();
+		if (nTmp > 0) nTmp += xScrollTop();
+		_nCH = nTmp;
+	};
+
+	//	call this one for window.onresize
+	function _Viewport() {
+		_FetchCH();
+		_FetchCW();
+	};
+
+	//	call this one for window.onload
+	this.Init = function() {
+		_Viewport();
+		_FindMenus();
+		_Process();
+	};
+
+};
+var ADXM = new ADXM_Constructor();
+
+/*- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+	set event handlers
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -*/
+if (window.addEventListener) {
+	window.addEventListener("load", ADXM.Init, false);
+} else if (window.attachEvent) {
+	window.attachEvent("onload", ADXM.Init);
+}
+
+/*- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+	these functions are taken from Mike Foster's X library, and simplified where possible.
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -*/
+function xClientWidth() {
+	var w = 0;
+	if (!window.opera && document.documentElement && document.documentElement.clientWidth)
+		w = document.documentElement.clientWidth;
+	else if ( xDef(window.innerWidth, window.innerHeight, document.height) ) {
+		w = window.innerWidth;
+		if (document.height > window.innerHeight) w -= 16;
+	}
+	return w;
+}
+
+function xClientHeight() {
+	var h = 0;
+	if (!window.opera && document.documentElement && document.documentElement.clientHeight)
+		h = document.documentElement.clientHeight;
+	else if ( xDef(window.innerHeight, window.innerWidth, document.width) ) {
+		h = window.innerHeight;
+		if (document.width > window.innerWidth) h -= 16;
+	}
+	return h;
+}
+
+function xScrollLeft() {
+	var offset = 0;
+	if ( xDef(window.pageXOffset) )
+		offset = window.pageXOffset;
+	else if ( document.documentElement && document.documentElement.scrollLeft )
+		offset = document.documentElement.scrollLeft;
+	return offset;
+}
+
+function xScrollTop() {
+	var offset = 0;
+	if ( xDef(window.pageYOffset) )
+		offset = window.pageYOffset;
+	else if ( document.documentElement && document.documentElement.scrollTop )
+		offset = document.documentElement.scrollTop;
+	return offset;
+}
+
+function xLeft(e, iX) {
+	if ( xDef(iX) )
+		e.style.left = iX + "px";
+	else {
+    	if ( xDef(e.offsetLeft) )
+			iX = e.offsetLeft;
+		else
+			iX = parseInt(e.style.left);
+    	if (isNaN(iX))
+			iX = 0;
+	}
+	return iX;
+}
+
+function xTop(e, iY) {
+	if ( xDef(iY) )
+		e.style.top = iY + "px";
+	else {
+		if ( xDef(e.offsetTop) )
+			iY = e.offsetTop;
+		else
+			iY = parseInt(e.style.top);
+		if (isNaN(iY))
+			iY = 0;
+	}
+	return iY;
+}
+
+function xPageX(e) {
+	var x = 0;
+	while (e) {
+		if ( xDef(e.offsetLeft) ) x += e.offsetLeft;
+		else break;
+		e = e.offsetParent;
+	}
+	return x;
+}
+
+function xPageY(e) {
+	var y = 0;
+	while (e) {
+		if ( xDef(e.offsetTop) ) y += e.offsetTop;
+		else break;
+		e = e.offsetParent;
+	}
+	return y;
+}
+
+function xDef() {
+	for (var i=0; i<arguments.length; ++i) {
+		if ( typeof(arguments[i]) == "undefined" )
+			return false;
+	}
+	return true;
+}
+
+function xGetElementsByClassName(clsName, parentEle, tagName, fn) {
+	var found = new Array();
+	var re = new RegExp('\\b'+clsName+'\\b', 'i');
+	var list = parentEle.getElementsByTagName(tagName);
+	for (var i = 0; i < list.length; ++i) {
+		if (list[i].className.search(re) != -1) {
+			found[found.length] = list[i];
+			if (fn) fn(list[i]);
+		}
+	}
+	return found;
+}
+
+function xGetComputedStyle(oEle, sProp) {
+	var p = null;
+	if(document.defaultView && document.defaultView.getComputedStyle){
+		p = document.defaultView.getComputedStyle(oEle,'').getPropertyValue(sProp);
+		p = parseInt(p);
+	} else if(oEle.currentStyle) {
+		p = oEle.currentStyle[sProp];
+		p = parseInt(p);
+	}
+	return p;
+}
+</script>
+<!----> <!--[endif]---->
+
+<!--[if lte IE 6]>
+<style type="text/css" media="screen">
+	@import "/styles/Menu4IE.css";
+	body { behavior:url("/scripts/ADxMenu.htc"); }
+	#mathsBooksH, .greenBody { height:1%;} 
+</style>
+<![endif]-->
+</head>
+
+<body>
+
+<!-- Facebook XFBML -->
+<div id="fb-root"></div>
+<script>
+  window.fbAsyncInit = function() {
+    // init the FB JS SDK
+    FB.init({
+      appId      : '122650481269024',                        // App ID from the app dashboard
+      channelUrl : '//www.examsolutions.net/channel.php', // Channel file for x-domain comms
+      status     : true,                                 // Check Facebook Login status
+      xfbml      : true                                  // Look for social plugins on the page
+    });
+
+    // Additional initialization code such as adding Event Listeners goes here
+  };
+
+  // Load the SDK asynchronously
+  (function(d, s, id){
+     var js, fjs = d.getElementsByTagName(s)[0];
+     if (d.getElementById(id)) {return;}
+     js = d.createElement(s); js.id = id;
+     js.src = "//connect.facebook.net/en_GB/all.js#xfbml=1";
+     fjs.parentNode.insertBefore(js, fjs);
+   }(document, 'script', 'facebook-jssdk'));
+</script>
+<!-- End of Facebook XFBML -->
+
+
+
+
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-2550713-1']);
+  _gaq.push(['_setLocalRemoteServerMode']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+
+
+<div id="wrapper">
+<div id="header">
+<!-- InstanceBeginEditable name="mathslogo" -->
+<div id="logoMathsRevision">
+	<a href="http://www.examsolutions.net/"><h1>Maths Revision Made Easy - ExamSolutions</h1></a>
+</div>
+<!-- InstanceEndEditable -->
+<div id="topMenuCol">
+    
+<!-- LeaderBoard -->
+<script type="text/javascript"><!--
+google_ad_client = "ca-pub-0369952007419495";
+/* LeaderBoard_728x90, created 27/07/10 */
+google_ad_slot = "8115692517";
+google_ad_width = 728;
+google_ad_height = 90;
+//-->
+</script>
+<script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script>
+   
+    </div>
+    <div id="logoMathsRevisionTitle"></div>
+<div class="clear"></div>   
+</div>
+
+<div id="menu">
+	<ul id="menuList" class="adxm">
+		<li><a href="http://www.examsolutions.net/">Home</a></li>
+        
+        <li><a href="/maths-revision/syllabuses/AQA/period-1/specification.php">AQA</a></li>
+        <li><a href="/maths-revision/syllabuses/Edexcel/period-1/specification.php">Edexcel</a></li>
+        <li><a href="/maths-revision/syllabuses/MEI/period-1/specification.php">MEI</a></li>
+        <li><a href="/maths-revision/syllabuses/OCR/period-1/specification.php">OCR</a></li>
+        <li><a href="/maths-revision/syllabuses/CIE/period-1/specification.php">CIE</a></li>
+        <li><a href="/maths-revision/syllabuses/IB/period-1/specification.php">IB</a></li>
+        
+        
+        <li class="submenu"><a href="#">Video Playlists</a>
+			<ul id="TutorialsMenu">
+                <li><a href="/maths-revision/syllabuses/Index/period-1/Core_Pure/module.php">Core Maths/Pure Maths</a></li>
+                <li><a href="/maths-revision/syllabuses/Index/period-1/Further-Pure/module.php">Further Pure Maths</a></li>
+                <li><a href="/maths-revision/syllabuses/Index/period-1/Decision/module.php">Decision Maths</a></li>
+                <li><a href="/maths-revision/syllabuses/Index/period-1/Mechanics/module.php">Mechanics</a></li>
+                <li><a href="/maths-revision/syllabuses/Index/period-1/Statistics/module.php">Statistics</a></li>
+                <li><a href="/maths-revision/syllabuses/algebra/period-1/algebra/module.php">Algebra</a></li>
+                <li><a href="/maths-revision/syllabuses/calculus/period-1/calculus/module.php">Calculus</a></li>
+                <li><a href="/maths-revision/syllabuses/trigonometry/period-1/trigonometry/module.php">Trigonometry</a></li>
+                <li><a href="/maths-revision/index.php">Index</a></li>
+			</ul>
+		</li>
+       
+       <li><a href="/a-level-maths-papers/Edexcel/index.php">Maths Papers</a></li>
+			        
+ 		<li class="submenu"><a href="#">GCSE Maths</a>
+			<ul id="GCSEMenu">
+            	<li><a href="/maths-revision/GCSE-index.php">GCSE Maths Index</a></li>
+            	<li><a href="GCSE-Maths.php">About GCSE Maths</a></li>
+				<li><a href="/maths-revision-papers/showcatrows.php?CategoryID=13">Papers &amp; Solutions</a></li>	
+			</ul>
+		</li>
+        
+        
+        
+        <li class="submenu"><a href="#">Resources</a>
+			<ul id="ResourcesMenu">
+            	 <li><a href="/maths-books.php">Maths Books</a></li>
+                 <li><a href="/calculators.php">Calculators</a></li>
+                 <li><a href="/maths-careers.php">Maths Careers</a></li>
+                 <li><a href="/maths-revision-courses.php">Revision Courses</a></li>
+                 <li><a href="/maths-at-university.php">Maths at University</a></li>
+                 <li><a href="/A-Level-Maths.php">About A-level Maths</a></li>
+                 <li><a href="/maths-resources.php">Exam Board Resources</a></li>
+                 <li><a href="/gcse-maths/gcse-exam-tips.php">GCSE</a></li>
+                <li><a href="/a-level-maths/a-level-core-maths-tips.php">Core Maths</a></li>
+				<li><a href="/a-level-maths/a-level-mechanics-tips.php">Mechanics</a></li>	
+			</ul>
+		</li>
+         
+        <li><a href="http://www.youtube.com/user/ExamSolutions/feed?filter=1" target="_blank">Testimonials</a></li>      
+      
+      <li class="lastMenu"><a href="/maths-aid.php">Donate</a></li>      
+	</ul>
+</div><!-- menu -->
+<div class="clear"></div>
+
+<div id="mainContent">
+<!-- InstanceBeginEditable name="main content" -->
+
+<h1>Privacy Statement</h1>
+
+<p>ExamSolutions.net is committed to protecting Our users' privacy. We offer this statement to inform Our users of how We define, gather and use personally identifiable information ("Personal Information"), which they submit to Us via this Site. We will take reasonable steps to protect Personal Information submitted by users of this Site in such a way as is consistent with this Privacy Statement and in accordance with all applicable data protection and privacy law. The Personal Information that ExamSolutions.net collects from users includes the following: a person's full name, address, and email address.
+If you do not wish Us to process your Personal Information for the reasons and in the manner set out in this Privacy Statement, please do not use this Site or any of the services available through it.
+ExamSolutions.net collects Personal Information submitted by its users as part of the payment process for its services.
+We may also use your Personal Information to contact you, where you have authorised Us to do so, or to provide you with an email newsletter;
+In assessing your request for goods or services for the purposes of the prevention and detection of fraud. One of the purposes for which We may disclose your address and postcode details is to check them against the IMRG Security Alert or any other fraud prevention scheme.</p><p>
+
+</p><p><b>Disclosure of personally identifiable information</b></p>
+<p>Except as set out in this Privacy Statement, We will not sell, rent or disclose your Personal Information to third parties without your prior permission.
+However, you should be aware that if We are requested by the police or regulatory or government authority in investigating illegal activities to provide information concerning your activities whilst using ExamSolutions We shall do so. Similarly, We will disclose your personal data if We are compelled to do so by law; or to protect and defend Our rights or property; or the rights or property of ExamSolutions or, in extreme circumstances, to protect the personal safety of other users of ExamSolutions or the public;</p>
+
+<p><b>Data Protection Act 1998</b></p>
+<p>ExamSolutions.net complies with the Data Protection Act of 1998</p>
+
+<p><b>Security of Your Information</b></p>
+<p>We take the security of your Personal Information seriously and take all reasonable precautions to prevent the loss, misuse or alteration of it. Our agent (PayPal) who have access to your Personal Information are also required to keep that information confidential and secure and are not permitted to use it for any other purpose other than to carry out the provision of services which they are providing to Us or otherwise as set out in this Privacy Statement.
+We have a secure server that uses Secure Socket Layer (SSL) encryption to protect your credit or debit card details. The encryption software scrambles the data with a secret code so that no one can make sense of it while it's being transmitted. When the data reaches its destination, the same software unscrambles the information.</p>
+
+<p><b>Contact Us</b></p>
+<p>If you have any questions concerning Our Privacy Statement, please contact us</p>
+
+  
+  
+<!-- InstanceEndEditable -->
+</div>
+<div class="clear"></div>
+<div id="footer">
+	<ul id="footerMenu">
+		<li><a href="/generator/data/sitemap.html">Site Map</a></li>
+		<li><a href="/about.php">About</a></li>
+		<li><a href="/terms-conditions.php">Terms &amp; Conditions</a></li>
+		<li><a href="/privacy.php">Privacy Policy</a></li>
+        <li><a href="/maths-advertising/advertising.php">Advertising</a></li>
+        <li><a href="/help.php">Help</a></li>
+        <li><a href="/links.php">Links</a></li> 
+		<li class="lastMenu"><a href="mailto:enquiry@examsolutions.net">Contact</a></li>
+	</ul>
+	<div class="clear"></div>
+</div>
+
+<div id="footer2">
+	<p id="aswebdesign"><a href="http://www.aswebdesign.co.uk">Hertfordshire Web Design</a></p>
+	<p id="copyright">© ExamSolutions 2006 - 2013 <!-- InstanceBeginEditable name="footer" -->Privacy Statement<!-- InstanceEndEditable --></p>
+	<div class="clear"></div>
+</div>
+
+</div>
+
+<!-- InstanceEnd -->
+</body></html>
