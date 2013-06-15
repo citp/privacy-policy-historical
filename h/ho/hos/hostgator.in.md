@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the hostgator.in privacy policy that was archived on 2012-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121226022005id_/http%3A//www.hostgator.in/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hostgator.in privacy policy that was archived on 2013-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130615191116id_/http%3A//www.hostgator.in/privacy.shtml) for the most accurate reproduction.*
 
-# Privacy Policy
+# HostGator.in - We Eat Up The Competition
 
 ## Effective May 15, 2010
 
@@ -58,9 +58,11 @@ Any changes to our Privacy Policy will be placed here and will supersede this ve
 
 [hostgator.in](http://www.hostgator.in/) has established internal mechanisms to verify its ongoing adherence to its privacy policy. Hostgator also encourages individuals covered by this privacy policy to raise any concerns about our processing of personal information by contacting [hostgator.in](http://www.hostgator.in/) at the address below.
 
-1st Floor,Vijay Chambers,  
-Opp. Cricket Ground, Mahatmanagar  
-Nashik -422006 
+Glowtouch Technologies Pvt. Ltd  
+Near Kings Park Layout  
+Maryhill  
+Mangalore 575 015  
+Karnataka, India 
 
 Hostgator will seek to resolve any concerns. Hostgator has also agreed to participate in the dispute resolution program provided by the European Data Protection Authorities.
 
