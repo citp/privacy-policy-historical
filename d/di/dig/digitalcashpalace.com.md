@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the digitalcashpalace.com privacy policy that was archived on 2012-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121214000058id_/http%3A//digitalcashpalace.com/about/terms-conditions) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the digitalcashpalace.com privacy policy that was archived on 2013-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130615193347id_/http%3A//digitalcashpalace.com/about/terms-conditions) for the most accurate reproduction.*
 
 # Terms & Conditions - Forex Brokers Portal
 
@@ -55,5 +55,3 @@ All Forex brokers and other companies who offer Forex trading services mentioned
 **4\. Accuracy of the information**
 
 DigitalCashPalace.Com is updated on the daily basis but trading conditions and services for each broker may change any time. Therefore, the resource at the moment of visiting may not accuracy. DigitalCashPalace.com always try its best to stay in touch with the latest changes from brokers with help from website visitors and broker’s representatives.
-
-Last updated by .
