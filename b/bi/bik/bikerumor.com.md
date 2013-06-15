@@ -1,12 +1,14 @@
-> *The following text is extracted and transformed from the bikerumor.com privacy policy that was archived on 2012-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121230200933id_/http%3A//www.bikerumor.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bikerumor.com privacy policy that was archived on 2013-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130616001519id_/http%3A//www.bikerumor.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Bike Rumor
+# Privacy Policy
 
-We take your privacy seriously. This policy describes what personal information we collect and how we use it. (This privacy policy is applicable to websites falling under the primary holder www.bikerumor.com.)
+We take your privacy seriously. This policy describes what personal information we collect and how we use it. This privacy policy is applicable to www.bikerumor.com, triathlonrumor.com, bikerumortechshop.com and any other website owned or operated by BikeBoardMedia, Inc. (hereafter BBM).
 
-**Routine Information Collection**
+**Routine Information Collection & Storage**
 
 All web servers track basic information about their visitors. This information includes, but is not limited to, IP addresses, browser details, timestamps and referring pages. None of this information can personally identify specific visitors to this site. The information is tracked for routine administration and maintenance purposes, and lets me know what pages and information are useful and helpful to visitors.
+
+This site collects a name, email address and IP address for each comment left on any post. This information is stored on our servers, and we make reasonable efforts at securing our and your information. Viewing and use of any BBM-owned website is at your own risk. BBM is not responsible for disclosure of your personal information due to accident, theft, acts of God or other mischievous or illegal behavior. We may make any or all personal information available to appropriate authorities as required by law. We also suggest you review our [Comments Policy](http://www.bikerumor.com/comments-policy).
 
 **Cookies and Web Beacons**
 
