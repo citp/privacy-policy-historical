@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the episerver.com privacy policy that was archived on 2012-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121230183859id_/http%3A//www.episerver.com/Footer/Privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the episerver.com privacy policy that was archived on 2013-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130615020219id_/http%3A//episerver.com/Footer/Privacy-statement) for the most accurate reproduction.*
 
-# Privacy statement - Best .NET Content Management System, CMS, ...
+# Privacy statement - EPiServer Enterprise .NET CMS and Commerce
 
 EPiServer AB is committed to protecting your integrity. This privacy statement describes how data is collected and used on the website www.episerver.com.
 
@@ -20,7 +20,7 @@ EPiServer AB handles suitable personal information, e.g. name, address, e-mail a
 
 ## Cookies on the Website
 
-A cookie is a small text file that visited websites save on your computer. Cookies are used to provide visitors access to various functions. The information in the cookie can be used to track your internet usage. Under the Electronic Communications Act, all visitors to a website with cookis must have access to information stating that the website contains cookies and the purpose for which cookies are used.
+A cookie is a small text file that visited websites save on your computer. Cookies are used to provide visitors access to various functions. The information in the cookie can be used to track your internet usage. Under the Electronic Communications Act, all visitors to a website with cookies must have access to information stating that the website contains cookies and the purpose for which cookies are used.
 
 ### **Name of cookies, domains and purposes**
 
@@ -36,7 +36,8 @@ _utma | [www.google.com](http://www.google.com/) | Google Analytics. Third-party
 _utmb | [www.google.com](http://www.google.com/) | Google Analytics. Third-party cookie used to collect information about how visitors use the website.  
 _utmc | [www.google.com](http://www.google.com/) | Google Analytics. Third-party cookie used to collect information about how visitors use the website.  
 _utmz | [www.google.com](http://www.google.com/) | Google Analytics. Third-party cookie used to collect information about how visitors use the website.  
-_twitter_sess | .twitter.com | Share this on Twitter. Third-party cookie used to push links from the site to Twitter.  
+_twitter_sess | [www.twitter.com](http://www.twitter.com/) | Share this on Twitter. Third-party cookie used to push links from the site to Twitter.  
+munchkin.marketo.net/munchkin.js | [www.marketo.com](http://www.marketo.com/) | Marketo. Third-party cookie used to collect information about how visitors use the website.  
   
 ### **Cookies are used in the following situations on this Web site:**
 
@@ -79,4 +80,4 @@ If you require further information about EPiServer AB's privacy statement, conta
 
 * * *
 
-Updated: 8/16/2012 2:50:19 PM 
+Updated: 3/1/2013 8:42:24 PM 
