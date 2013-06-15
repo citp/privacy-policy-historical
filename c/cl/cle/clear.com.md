@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the clear.com privacy policy that was archived on 2012-10-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121012124314id_/http%3A//www.clear.com/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the clear.com privacy policy that was archived on 2013-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130615073145id_/http%3A//www.clear.com/legal/privacy) for the most accurate reproduction.*
 
-# Legal Privacy Policy
+# Legal | Privacy Policy | CLEAR
 
 Clearwire is committed to protecting your privacy. Please read this privacy policy statement carefully so that you understand what kind of information we may gather about you, how we may use that information, whether we may disclose it to anyone, and the choices you have regarding our use of the information and your ability to correct the information. We will not trade, sell, or disclose to any third party any form of personally identifiable information without your consent, including information derived from registration, subscription, and use of the Clearwire service, except as stated below. This policy applies only to Clearwire, and not to other companies’ or organizations’ Web sites to which we link.
 
