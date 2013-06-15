@@ -1,14 +1,12 @@
-> *The following text is extracted and transformed from the uscutter.com privacy policy that was archived on 2012-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121124113136id_/http%3A//www.uscutter.com/index/page/static/subpage/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the uscutter.com privacy policy that was archived on 2013-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130615172729id_/http%3A//www.uscutter.com/index/page/static/subpage/privacy_policy) for the most accurate reproduction.*
 
 # USCutter
 
-**PRIVACY POLICY STATEMENT**
-
-(USCutter.com and SignUniverse.com are SellTopia, LLC branded companies) 
+**USCUTTER INC. PRIVACY POLICY STATEMENT**
 
 **Introduction**
 
-This statement discloses the privacy practices for USCutter.com and SignUniverse.com, which are owned and operated by SellTopia, LLC. This privacy policy statement applies only to information collected on these websites. We value the privacy of visitors and registered users of our websites. 
+This statement discloses the privacy practices for USCutter.com which are owned and operated by USCutter Inc. This privacy policy statement applies only to information collected on these website. We value the privacy of visitors and registered users of our websites. 
 
 **a.** **Information Involuntarily collected From Visitors**
 
@@ -51,7 +49,7 @@ Our websites may contain links to other sites. Please be aware that we are not r
 
 If you have any privacy questions or issues, the privacy contact for our websites is listed below 
 
-SellTopia, LLC   
+USCutter, Inc.   
 19510 144th Avenue NE   
 Woodinville, WA 98072   
 Tel.: 425-481-3555   
