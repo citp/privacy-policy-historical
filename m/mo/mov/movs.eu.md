@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the movs.eu privacy policy that was archived on 2012-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121014144205id_/http%3A//www.movs.eu/Privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the movs.eu privacy policy that was archived on 2013-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130615030222id_/http%3A//www.movs.ch/Privacy_policy.html) for the most accurate reproduction.*
 
-# - Movs.eu
+# - Movs.ch
 
   * **Information you provide:**  
 When you sign up for a movs.eu Account, we ask you for personal information. We may combine the information you submit under your account with information from other movs.eu services or third parties in order to provide you with a better experience and to improve the quality of our services. For certain services, we may give you the opportunity to opt out of combining such information.
