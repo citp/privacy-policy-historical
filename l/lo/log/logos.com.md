@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the logos.com privacy policy that was archived on 2012-10-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121015165422id_/http%3A//www.logos.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the logos.com privacy policy that was archived on 2013-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130615150315id_/http%3A//www.logos.com/about/privacy) for the most accurate reproduction.*
 
 # Logos Privacy Statement - Logos Bible Software
 
@@ -16,9 +16,11 @@ Statistics reported include display resolution, amount of system memory, version
 
 ### Information You Provide
 
+  * Name
+  * Email Address
+  * Phone Number
   * Searches
   * Purchases
-  * Email Address
 
 
 
@@ -49,4 +51,4 @@ Review the [Faithlife Privacy Policy](https://faithlife.com/privacy) for informa
 
 From time-to-time we may partner with third party companies to provide essential services for users of our websites. These companies may use information (not including your name, addresses, email addresses, telephone numbers, or billing information) about your visits to this and other Web sites in order to provide you with a more customized user experience. If you would like more information about this practice and to know your choices about not having this information used by these companies please see the links below.
 
-Last Updated: 9/22/2012
+Last Updated: 4/2/2013
