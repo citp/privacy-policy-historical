@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the totalsend.com privacy policy that was archived on 2012-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121130164904id_/http%3A//www.totalsend.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the totalsend.com privacy policy that was archived on 2013-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130615152117id_/http%3A//www.totalsend.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy « Total Send – Email Marketing
 
@@ -14,7 +14,7 @@ Your email address is used to only send you information that you have requested.
 
 ### Subscriber Lists, Campaign Content and Campaign Reports
 
-Total Send ensures that all subscriber lists, email content and reports remain private and confidential. Total Send may scan the content of your campaigns to ensure it complies with our [Terms of Use](http://www.totalsend.com/terms/) — to protect against defamatory, inaccurate, abusive, obscene, profane, or threatening material that is racially or ethnically offensive. Total Send will not sell, rent, loan or invite external access to a customer’s contact lists. Nor will Total Send themselves use customer’s contact lists for any purpose.
+Total Send ensures that all subscriber lists, email content and reports remain private and confidential. Total Send may scan the content of your campaigns to ensure it complies with our [Terms of Use](https://web.archive.org/terms/) — to protect against defamatory, inaccurate, abusive, obscene, profane, or threatening material that is racially or ethnically offensive. Total Send will not sell, rent, loan or invite external access to a customer’s contact lists. Nor will Total Send themselves use customer’s contact lists for any purpose.
 
 ### Communications from the Site
 
