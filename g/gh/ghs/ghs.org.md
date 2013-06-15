@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the ghs.org privacy policy that was archived on 2012-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121201021101id_/http%3A//www.ghs.org%3Fid%3D1094%26sid%3D1) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ghs.org privacy policy that was archived on 2013-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130615082323id_/http%3A//www.ghs.org/privacypolicy) for the most accurate reproduction.*
 
-# Privacy Policy - Greenville Hospital System
+# Privacy Policy - Greenville Health System
 
-Greenville Hospital System makes every effort to keep your medical information private.  Click a PDF of the [privacy policy](https://web.archive.org/upload/docs/Privacy_practices.pdf).(PDF). 
+Greenville Health System makes every effort to keep your medical information private.  Click a PDF of the [privacy policy](https://web.archive.org/upload/docs/Privacy_practices.pdf).(PDF). 
 
-The Greenville Hospital System (GHS) makes every effort to keep your health information private. Each time you visit a GHS facility (doctor’s office, clinic, hospital, or outpatient center), a record is made. This health or medical record often includes your symptoms, exams and tests, diagnoses, treatment, and care plan. We need this record to give you high-quality care and to meet legal requirements. 
+The Greenville Health System (GHS) makes every effort to keep your health information private. Each time you visit a GHS facility (doctor’s office, clinic, hospital, or outpatient center), a record is made. This health or medical record often includes your symptoms, exams and tests, diagnoses, treatment, and care plan. We need this record to give you high-quality care and to meet legal requirements. 
 
 This Notice of Privacy Practices applies to all health records produced at GHS, including those received from other providers. It outlines how we may use and give out information about you for treatment, payment, or healthcare operations, and other purposes granted or required by law. It also describes your rights to get and 
 
