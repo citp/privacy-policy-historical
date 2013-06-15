@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the wrestling-edge.com privacy policy that was archived on 2012-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121231025352id_/http%3A//www.wrestling-edge.com/site/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wrestling-edge.com privacy policy that was archived on 2013-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130616003229id_/http%3A//www.wrestling-edge.com/site/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Wrestling-Edge.com
+# Privacy Policy
 
 Wrestling-Edge.com knows that you care about how your personal information is used and shared, and we take your privacy very seriously. Please read the following to learn more about our privacy policy. By visiting our website, you are accepting the practices outlined in this Privacy Policy.
 
@@ -8,19 +8,17 @@ This Privacy Policy covers Wrestling-Edge.com’s treatment of personal informat
 
 Information Collected by Wrestling-Edge.com
 
-[](http://www.partycasino.com/)
-
 We only collect personal information that is relevant to the purpose of our website. This information allows us to provide you with a customized and efficient experience. We do not process this information in a way that is incompatible with this objective. We collect the following types of information from our Wrestling-Edge.com users:
 
 1\. Information You Provide to Us: We receive and store any information you enter on our website or provide to us in any other way. You can choose not to provide us with certain information, but then you may not be able to take advantage of many of our special features.
 
 2\. Automatic Information:
 
-o We receive and store certain types of information whenever you interact with us. Wrestling-Edge.com and its authorized agents automatically receive and record certain “traffic data” on their server logs from your browser including your IP address, Wrestling-Edge.com cookie information, and the page you requested. Wrestling-Edge.com uses this traffic data to help diagnose problems with its servers, analyze trends and administer the website.
+We receive and store certain types of information whenever you interact with us. Wrestling-Edge.com and its authorized agents automatically receive and record certain “traffic data” on their server logs from your browser including your IP address, Wrestling-Edge.com cookie information, and the page you requested. Wrestling-Edge.com uses this traffic data to help diagnose problems with its servers, analyze trends and administer the website.
 
-o Wrestling-Edge.com may collect and, on any page, display the total counts that page has been viewed.
+Wrestling-Edge.com may collect and, on any page, display the total counts that page has been viewed.
 
-o Many companies offer programs that help you to visit websites anonymously. While Wrestling-Edge.com will not be able to provide you with a personalized experience if we cannot recognize you, we want you to be aware that these programs are available.
+Many companies offer programs that help you to visit websites anonymously. While Wrestling-Edge.com will not be able to provide you with a personalized experience if we cannot recognize you, we want you to be aware that these programs are available.
 
 E-mail Communications
 
@@ -33,6 +31,8 @@ Cookies are alphanumeric identifiers that we transfer to your computer’s hard 
 The “help” portion of the toolbar on the majority of browsers will direct you on how to prevent your browser from accepting new cookies, how to command the browser to tell you when you receive a new cookie, or how to fully disable cookies. We recommend that you leave the cookies activated because cookies allow you to use some of Wrestling-Edge.com’s coolest features.
 
 Wrestling-Edge.com’s advertising partners may place a cookie on your browser that makes it possible to collect anonymous non-personally identifiable information that ad delivery systems use to present more relevant ads. If you would prefer to opt-out of this standard practice, please visit our advertising partner Platform-A’s privacy policy and opt-out page.
+
+We use third-party advertising companies to serve ads when you visit our Web site. These companies may use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please see: [http://www.networkadvertising.org/managing/opt_out.asp ](http://www.networkadvertising.org/managing/opt_out.asp "http://www.networkadvertising.org/managing/opt_out.asp ")
 
 Sharing Your Information
 
@@ -58,7 +58,3 @@ Wrestling-Edge.com may amend this Privacy Policy from time to time, at its sole 
 Conditions of Use
 
 If you decide to visit Wrestling-Edge.com website, your visit and any possible dispute over privacy is subject to this Privacy Policy and our Terms of Use, including limitations on damages, arbitration of disputes, and application of California state law.
-
-Effective Date of this Privacy Policy
-
-This Privacy Policy is effective as of 9/10/2010 and last updated 9/10/2010.
