@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the outandaboutlive.co.uk privacy policy that was archived on 2012-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121214165715id_/http%3A//www.outandaboutlive.co.uk/Information/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the outandaboutlive.co.uk privacy policy that was archived on 2013-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130616011307id_/http%3A//www.outandaboutlive.co.uk/Information/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Out and About Live
 
 #### 
 
-#### The Maltings, West Street, Bourne, Lincs. PE10 9PH
+####  The Maltings, West Street, Bourne, Lincs. PE10 9PH
 
-#### Tel:+44 (0)1778 391000 • Fax: +44 (0)1778 421706
+####  Tel:+44 (0)1778 391000 • Fax: +44 (0)1778 421706
 
 **PRIVACY POLICY**
 
@@ -46,7 +46,7 @@ We may collect information about your computer, including where available your I
 
 2.2
 
-For the same reason, we may obtain information about your general internet usage by using a cookie file which is stored on the hard drive of your computer. Cookies contain information that is transferred to your computer's hard drive. They help us to improve our Site and to deliver a better and more personalised service. They enable us:
+For the same reason, we may obtain information about your general internet usage by using a cookie file which is stored on the hard drive of your computer. You can [view our Cookie Policy here](https://web.archive.org/Information/Cookie-Policy). Cookies contain information that is transferred to your computer's hard drive. They help us to improve our Site and to deliver a better and more personalised service. They enable us:
 
 2.2.1
 
