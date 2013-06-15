@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the amtamassage.org privacy policy that was archived on 2012-10-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121020142348id_/http%3A//www.amtamassage.org/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the amtamassage.org privacy policy that was archived on 2013-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130615070715id_/http%3A//www.amtamassage.org/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy — American Massage Therapy Association
 
