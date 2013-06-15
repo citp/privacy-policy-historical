@@ -1,27 +1,17 @@
-> *The following text is extracted and transformed from the sirindia.com privacy policy that was archived on 2012-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121129003708id_/http%3A//www.varighty.com/Help/PrS.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sirindia.com privacy policy that was archived on 2013-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130615042200id_/http%3A//www.varighty.com/Help/PrS.asp) for the most accurate reproduction.*
 
 # VaRighty.com - Best Deals Always
 
-[](http://www.varighty.com/GV.asp)  
-[](http://www.varighty.com/Help/FeedBack.asp)
+[](https://web.archive.org/GV.asp)  
+[](https://web.archive.org/Help/FeedBack.asp)
 
-|  | BUY & SELL  
+|  | 
+
+| 
+
+**Privacy & Security**  
+  
 ---  
-| [First Time Shopper](http://www.varighty.com/Help/FTS1.asp)  
-| [Sell Your Products](http://www.varighty.com/Help/SYP.asp)  
-| [Help Desk](http://www.varighty.com/Help/Hlp.asp)  
-INFORMATION  
-| [Contact us](http://www.varighty.com/Help/CU.asp)  
-| [Shipping Policy](http://www.varighty.com/Help/ShipPol.asp)  
-| [Easy Exchanges & Returns](http://www.varighty.com/Help/EER.asp)  
-| [Secure Shopping](http://www.varighty.com/Help/SSG.asp)  
-| [Payment Options](http://www.varighty.com/Help/Pmt.asp)  
-| [Cash on Delivery](http://www.varighty.com/Help/Cash-On-Delivery.asp)  
-| [Terms & Conditions](http://www.varighty.com/Help/TC.asp)  
-| [Privacy & Security](http://www.varighty.com/Help/PRS.asp)  
-| [Feedback Center](http://www.varighty.com/Help/Feedback.asp)  
-|  |  |   
----|---|---  
 |  |   
 ---  
 | Your Privacy  
