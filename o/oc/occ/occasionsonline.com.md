@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the occasionsonline.com privacy policy that was archived on 2012-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121014132117id_/http%3A//www.occasionsonline.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the occasionsonline.com privacy policy that was archived on 2013-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130615044935id_/http%3A//www.occasionsonline.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Occasions Magazine
+# Privacy Policy | OCCASIONS
 
 **This document was last updated on October 1, 2011.**  
 **1\. ACKNOWLEDGMENT AND ACCEPTANCE OF TERMS**  
