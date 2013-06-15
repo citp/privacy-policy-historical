@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the consumeractiongroup.co.uk privacy policy that was archived on 2012-10-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121015070929id_/http%3A//www.consumeractiongroup.co.uk/forum/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the consumeractiongroup.co.uk privacy policy that was archived on 2013-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130615020320id_/http%3A//www.consumeractiongroup.co.uk/forum/privacy-policy.php) for the most accurate reproduction.*
 
 # - The Consumer Forums
 
@@ -8,13 +8,6 @@ An excellent guide for the layperson in how to use the County Court - a must if 
 £19.99 + £1.50 (P&P)
 
 * * *
-
-[Last Will and Testament Kit](http://consumeractiongroup.co.uk/paypal.php?go=willpack)
-
-  
-Make a legally valid will without the fuss and expense of a solicitor - includes a full step-by-step guide.
-
-£9.99 + £1.50 (P&P)
 
 [BAILIFFS - The Law and Your Rights](http://consumeractiongroup.co.uk/paypal.php?go=bailiff)
 
@@ -163,10 +156,8 @@ NW11 7PE
     
 
 consumeractiongroup.co.uk   
-|  [](http://www.browsealoud.com/uk/videotours/) |    
+[](http://www.consumersniper.com/)
+
+[Reclaim the Right Ltd. - reg.05783665 in the UK reg. office:- 923 Finchley Road London NW11 7PE](http://www.consumeractiongroup.co.uk/forum/feedback.php)  
   
-  
----|---  
-  
-[](http://www.consumersniper.com/)   
-[Reclaim the Right Ltd. - reg.05783665 in the UK reg. office:- 923 Finchley Road London NW11 7PE](http://www.consumeractiongroup.co.uk/forum/feedback.php)
+---|---
