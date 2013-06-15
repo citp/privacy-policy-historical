@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mattamyhomes.com privacy policy that was archived on 2012-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121221191448id_/http%3A//www.mattamyhomes.com/Privacy-Policy%3FCountry%3DUS) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mattamyhomes.com privacy policy that was archived on 2013-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130615232946id_/http%3A//www.mattamyhomes.com/Privacy-Policy%3FCountry%3DUS) for the most accurate reproduction.*
 
 # Mattamy Homes Privacy Policy
 
@@ -76,7 +76,7 @@ Breaches of the policy may lead to corrective or disciplinary action. Employees 
 
 PART (B) Employee Personal Information 
 
-The second portion of Mattamy Homes’ privacy policy deals with personal information collected by Mattamy Homes about its staff in order to administer the employment relationship. While the matter is still to be legally determined, it is very unlikely that PIPEDA applies to personal information used in the employment context. Nevertheless, Mattamy Homes believes it appropriate to treat employment records confidentially. The companies privacy practices reflect PIPEDA principals and are described below.
+The second portion of Mattamy Homes’ privacy policy deals with personal information collected by Mattamy Homes about its staff in order to administer the employment relationship. Though PIPEDA doesn’t strictly apply to personal information used in the employment context, Mattamy Homes believes it appropriate to treat employment records confidentially. The company’s privacy practices reflect PIPEDA principals and are described below.
 
 Obtaining and Verifying Your Personal Information 
 
@@ -123,7 +123,7 @@ Controls on Releasing Employee Personal Information
 Mattamy has a strict policy of not releasing personal information about its employees without their consent other than:
 
   * Information necessary for authorized service providers to perform employment-related tasks (such as payroll and benefits administration).
-  * Information the company is required to disclose by law (including a subpoena or court order).
+  * Information the company is required to disclose by law (e.g. subpoena or court order).
 
 
 
