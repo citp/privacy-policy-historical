@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the dasinc.com privacy policy that was archived on 2012-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121213225857id_/http%3A//www.dasinc.com/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dasinc.com privacy policy that was archived on 2013-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130616033012id_/http%3A//www.dasinc.com/privacy.cfm) for the most accurate reproduction.*
 
-# DAS Inc. - Privacy Policy
+# DAS Companies, Inc. - Privacy Policy
 
 DAS respects our customer's right to privacy online. We hold your detailed customer information in confidence.
 
