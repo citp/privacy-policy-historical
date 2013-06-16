@@ -1,13 +1,13 @@
-> *The following text is extracted and transformed from the yesware.com privacy policy that was archived on 2012-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121219021125id_/http%3A//www.yesware.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yesware.com privacy policy that was archived on 2013-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130616034217id_/http%3A//www.yesware.com/privacy) for the most accurate reproduction.*
 
 # Privacy | Yesware
 
-[](https://privacy.truste.com/privacy-seal/Yesware,-Inc/validation?rid=d997fa07-7131-44af-bdec-76a035ad1b79 "TRUSTe European Safe Harbor certification")
+[ ](https://privacy.truste.com/privacy-seal/Yesware,-Inc/validation?rid=d997fa07-7131-44af-bdec-76a035ad1b79 "TRUSTe European Safe Harbor certification")
 
 **PRIVACY POLICY OF YESWARE, INC.**
 
 Effective: April 1, 2011  
-Last Revised: August 8, 2012
+Last Revised: February 5, 2013
 
 **WELCOME**  
 This Privacy Policy (“Privacy Policy”) is designed to help you understand how Yesware, Inc. (“Yesware”, “we” or “us”) collects and uses the information that you share when you use www.yesware.com and its associated domains (together, the “Site”), as well as the information, software or services available through the Site (collectively, “Services”).  Except where otherwise expressly indicated in this Privacy Policy or on the Site, this Privacy Policy applies only to information collected on the Site and through the Services and does not apply to information that we receive off-line.
@@ -33,9 +33,23 @@ Yesware does not ~~s~~ tore your credit card information.  If you purchase Serv
 A “cookie” is a small file or tool sent from a website to your web browser and stored on your computer.   A “session cookie” is comprised of temporary bits of information that are erased once you exit your web browser or turn off your computer.  A “persistent cookie” is comprised of more permanent bits of information that are placed on the hard drive of your computer and stay there until you delete the cookie.  A persistent cookie enables a website to recognize you when you return.  
 Yesware uses various types of session and persistent cookies to help you access and navigate the Site more efficiently, to customize your experience of the Site and Services, to store certain information that you previously provided (such as username and password), to authenticate users and to statistically monitor how many users are using the Site and Services.  You may set your browser to notify you when a cookie is placed or decline the receipt of cookies; however, certain features of the Site and Services will not function properly or be available if your browser is configured to disable cookies.
 
-The use of cookies by our partners is not covered by our privacy statement.  We do not have access or control over these cookies.  Our partners use session ID cookies to provide us with information about how you use our service. 
+The use of cookies by our partners is not covered by our privacy policy.  We do not have access or control over these cookies.  Our partners use session ID cookies to provide us with information about how you use our service. 
 
 Yesware also may use web beacons (a.k.a. clear GIFs, web bugs or pixel tags) to personalize your experience of the Site and Services.  Web beacons usually are not visible to you and are delivered by a web browser as part of a web page request or in an email.  Web beacons collect General Information, such as the number and time of interactions with an email containing a web beacon, the type of browser used and IP address.  Web beacons may be use alone or in conjunction with cookies; when web beacons are used with cookies, they may link General Information to Personal Information.
+
+  * Flash LSOs
+
+
+
+We use local shared objects, also known as Flash cookies, to store your preferences such as volume control or high game score, or display content based upon what you view on our site to personalize your visit.  Third Parties, with whom we partner to provide certain features on our site or to display advertising based upon your Web browsing activity, use Flash cookies to collect and store information.
+
+Flash cookies are different from browser cookies because of the amount of, type of, and how data is stored.  Cookie management tools provided by your browser will not remove Flash cookies.  To learn how to manage privacy and storage settings for Flash cookies click here: <http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager.html#117118>
+
+  * Behavioral Targeting / Re-Targeting
+
+
+
+We partner with a third party ad network to either display advertising on our Web site or to manage our advertising on other sites.  Our ad network partner uses cookies and Web beacons to collect non-personal information about your activities on this and other Web sites to provide you targeted advertising based upon your interests.  If you wish to not have this information used for the purpose of serving you targeted ads, you may opt-out by clicking [here](http://preferences-mgr.truste.com/).  Please note this does not opt you out of being served advertising.  You will continue to receive generic ads.
 
 **Widgets**
 
@@ -66,7 +80,7 @@ Unless you have consented or as otherwise described in this Privacy Policy, we w
 
 3\. Compliance with Law and Fraud Protection: We may disclose any information, including, without limitation, Personal Information, we deem necessary, in our sole discretion and without your prior permission, to comply with any applicable law such as to comply with a subpoena, regulation, legal process or governmental request.  Yesware reserves the right to disclose your Personal Information if we believe you have or are violating our Terms or in order to protect or defend Yesware’s rights or property, even without a subpoena, warrant or other court order; and
 
-4\. Sale or Transfer of Information: In the event of a sale, merger, liquidation, dissolution or sale or transfer of substantially all of the assets of Yesware or the Site, Personal Information and/or other information collected through the Site may be sold, assigned or transferred to the party acquiring all or substantially all of the equity and/or assets of Yesware, the Site and/or Services.  In the unlikely event of an insolvency, bankruptcy or receivership, your information also may be transferred as a business asset.  By using the Site and Services and submitting your information to us, you consent to the sale and transfer of your information as described in this paragraph.
+4\. Sale or Transfer of Information: In the event of a sale, merger, liquidation, dissolution or sale or transfer of substantially all of the assets of Yesware or the Site, Personal Information and/or other information collected through the Site may be sold, assigned or transferred to the party acquiring all or substantially all of the equity and/or assets of Yesware, the Site and/or Services.  In the unlikely event of an insolvency, bankruptcy or receivership, your information also may be transferred as a business asset.  By using the Site and Services and submitting your information to us, you consent to the sale and transfer of your information as described in this paragraph. You will be notified via email and/or a prominent notice on our Site of any change in ownership or uses of your personal information, as well as any choices you may have regarding your personal information.
 
 **CONTROLLING YOUR PERSONAL INFORMATION**  
 If you tell us that you do not want us to use your Personal Information to contact you, Yesware will respect your wishes. You may instruct Yesware to stop sending you emails, newsletters or other information by sending an email with your name, address, email address and your opt-out instructions with “UNSUBSCRIBE” in the subject line of such email to support@Yesware.com or, if available, following the ‘unsubscribe’ instructions provided.  Yesware may, however, continue to use your Personal Information to contact you to service your account or as otherwise authorized by law.  Please note that if you use more than one name or e-mail address when communicating with Yesware or using the Site, you may continue to receive communications from Yesware to any name and/or email address not specified in your opt-out request.
@@ -83,7 +97,11 @@ Your friend may contact us at support@yesware.com to request that we remove this
 
 **Customer Testimonials**
 
-We post customer testimonials on our web site which may contain personally identifiable information.  We do obtain the customer's consent via email prior to posting the testimonial to post their name along with their testimonial. To request removal of your personal information from Testimonials please contact us at support@yesware.com.
+We post customer testimonials on our web site which may contain personal information.  We do obtain the customer's consent via email prior to posting the testimonial to post their name along with their testimonial. To request removal of your personal information from Testimonials please contact us at support@yesware.com.
+
+**Blog / Forum**
+
+Our Web site offers publicly accessible blogs or community forums. You should be aware that any information you provide in these areas may be read, collected, and used by others who access them. To request removal of your personal information from our blog or community forum, contact us at support@yesware.com.  In some cases, we may not be able to remove your personal information, in which case we will let you know if we are unable to do so and why.
 
 **Single Sign-On**
 
