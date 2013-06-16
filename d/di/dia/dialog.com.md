@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the dialog.com privacy policy that was archived on 2012-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121214204209id_/http%3A//www.proquest.com/go/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dialog.com privacy policy that was archived on 2013-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130616205900id_/http%3A//www.proquest.com/go/privacy) for the most accurate reproduction.*
 
 # ProQuest - Privacy Policy
 
-[Your Privacy](https://web.archive.org/en-US/site/privacy.shtml) | [Pivot and Scholar Universe](https://web.archive.org/en-US/site/privacy_cos.shtml) | [My Research](https://web.archive.org/en-US/site/privacy_myresearch.shtml)
+[Your Privacy](https://web.archive.org/en-US/site/privacy.shtml) | [Pivot and Scholar Universe](https://web.archive.org/en-US/site/privacy_cos.shtml) | [My Research](https://web.archive.org/en-US/site/privacy_myresearch.shtml) | [ProQuest Cookie Policy](https://web.archive.org/en-US/site/privacy_cookiespolicy.shtml)
 
 **Your privacy**
 
