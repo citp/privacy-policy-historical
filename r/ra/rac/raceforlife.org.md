@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the raceforlife.org privacy policy that was archived on 2012-09-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120919120115id_/http%3A//raceforlife.cancerresearchuk.org/utilities/privacy/index.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the raceforlife.org privacy policy that was archived on 2013-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130616072804id_/http%3A//raceforlife.cancerresearchuk.org/utilities/privacy/index.html) for the most accurate reproduction.*
 
 # Privacy - Utilities - Race for Life - Cancer Research UK
 
@@ -31,15 +31,15 @@ We will use your personal information:
 
 As part of this, we may analyse the personal information we collect to create a profile of your interests and preferences so that we can contact you in the most appropriate way and with the most relevant information. Where relevant, we may also assess your personal information for the purposes of fraud and credit risk reduction.
 
-If you enter your contact details in one of our online registration forms, we may use this information to contact you even if you don't "send" or "submit" the form. We will only do this to see if we can help with any problems you might be experiencing with the form or with our websites.
+If you enter your contact details in one of our online registration forms, we may use this information to contact you even if you don’t "send" or "submit" the form. We will only do this to see if we can help with any problems you might be experiencing with the form or with our websites.
 
 We may need to share your information with our service providers, associated organisations and agents for the purposes described above.
 
 ### Cancer information nurses
 
-If you contact the [cancer information nurses](http://aboutus.cancerresearchuk.org/contact-us/contact-our-cancer-information-nurses/ "This link opens in a new window."), either through CancerHelp UK or directly, you may choose to provide details of a personal nature. Only the cancer information nurses will use your personal information and only for the purposes of dealing with your enquiry. They will not pass on your details to anyone else without your express permission, except in exceptional circumstances to comply with the nurses’ code of professional conduct or the law. Examples of this might include children contacting the service reporting abuse, anyone reporting serious self harm, anyone expressing the intention of harming someone else, or if a terrorist threat is reported.
+If you [contact the cancer information nurses](http://www.cancerresearchuk.org/cancer-help/utilities/privacy/ssNODELINK/contact-cancer-nurses), either through CancerHelp UK or directly, you may choose to provide details of a personal nature. Only the cancer information nurses will use your personal information and only for the purposes of dealing with your enquiry. They will not pass on your details to anyone else without your express permission, except in exceptional circumstances to comply with the nurses’ code of professional conduct or the law. Examples of this might include children contacting the service reporting abuse, anyone reporting serious self harm, anyone expressing the intention of harming someone else, or if a terrorist threat is reported.
 
-Your personal information and details of the enquiries received are stored on a secure database. If for any reason you wish to have your personal details removed from their records, please [contact the cancer information nurses](http://aboutus.cancerresearchuk.org/contact-us/contact-our-cancer-information-nurses/ "This link opens in a new window.").
+Your personal information and details of the enquiries received are stored on a secure database. If for any reason you wish to have your personal details removed from their records, please [contact the cancer information nurses](http://www.cancerresearchuk.org/cancer-help/utilities/privacy/ssNODELINK/contact-cancer-nurses).
 
 If you send feedback to the CancerHelp UK team, the feedback will be noted and your contact details kept for a maximum of 3 months. If you have sent a complaint to the site, the correspondence will be kept securely in a complaints file for a maximum of one year, in case we need to refer back to it.
 
@@ -51,9 +51,9 @@ You have a choice about whether you want to receive information about our progre
 
 Cancer Research UK is concerned to protect the privacy of children aged under 16. Some of our websites, such as Race for Life, have specific rules about how children under 16 can take part in our events. Where appropriate we will seek consent from a parent or guardian before collecting personal information about a child aged under 16.
 
-### Do we use 'cookies'?
+### Do we use cookies?
 
-[Please refer to our cookie policy](http://raceforlife.cancerresearchuk.org/utilities/cookies-policy/index.html) for details of how we use cookies and the type of cookies served through our web sites.
+Please refer to [our cookie policy](http://raceforlife.cancerresearchuk.org/utilities/cookies-policy/index.html) for details of how we use cookies and the type of cookies served through our web sites.
 
 ### How do we protect personal information?
 
@@ -75,7 +75,8 @@ You also consent to our transferring your information to countries or jurisdicti
 
 ### Right of access
 
-If you have created an account with us, you can sign into your account to access and update your information.  
+If you have created an account with us, you can sign into your account to access and update your information.
+
 You have the right to ask for a copy of the information we hold about you (for which we may charge a small fee) and to have any inaccuracies in your information corrected. If you wish to exercise these rights, contact Supporter Services at Cancer Research UK, Angel Building, 407 St John Street, London EC1V 4AD or email [supporter.services@cancer.org.uk](mailto:supporter.services@cancer.org.uk)
 
 ### Links
@@ -84,7 +85,8 @@ Our websites may include links to websites run by other organisations. Cancer Re
 
 ### Changes
 
-If your personal details change, please help us to keep your information up to date by notifying us at the above address.  
+If your personal details change, please help us to keep your information up to date by notifying us at the above address.
+
 We may change the terms of this privacy statement from time to time. If we do so, we will post the changes here so please check from time to time. By continuing to use our websites you will be deemed to have accepted such changes.
 
 
