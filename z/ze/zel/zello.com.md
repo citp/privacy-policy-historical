@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the zello.com privacy policy that was archived on 2012-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121230205135id_/http%3A//zello.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zello.com privacy policy that was archived on 2013-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130616123729id_/http%3A//zello.com/privacy) for the most accurate reproduction.*
 
 # Zello. Live conversation.
 
