@@ -1,17 +1,18 @@
-> *The following text is extracted and transformed from the xeikon.com privacy policy that was archived on 2012-10-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121022015132id_/http%3A//www.xeikon.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the xeikon.com privacy policy that was archived on 2013-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130616213018id_/http%3A//www.xeikon.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Xeikon N.V.
 
 ##  Xeikon Privacy Policy
 
-Updated: May 2011
+Updated: March 2013
 
 ###  Introduction
 
 At Xeikon, we are committed to protecting and respecting your personal data. Based on policies and regulations unique to the European Union (amongst others directives 95/46 and 2002/58), we have set forth below our privacy terms with regard to our websites, explaining how we use personal data collected from you on our websites. These include:
 
   * [Xeikon.com](http://www.xeikon.com/)
-  * [b](http://basysprint.com/)[asysPrint.com](http://basysprint.com/ "http://basysprint.com")
+  * [basysPrint.com](http://basysprint.com/)
+  * [ThermoFlexX](http://www.thermoflexx.com/)
 
 
 
@@ -27,8 +28,8 @@ This Policy only applies to the processing of personal data collected by us on o
 
 We process personal data collected on our websites for the following purposes (hereinafter referred to as “Xeikon Purposes”): 
 
-  * Xeikon/basysPrint governance;
-  * The provision of Xeikon/basysPrint services and products;
+  * Xeikon/basysPrint/ThermoFlexX governance;
+  * The provision of Xeikon/basysPrint/ThermoFlexX services and products;
   * Newsletter and other customer communications;
   * Organization of events;
   * The operation of our websites (IP addresses, cookies, web acceleration, and so on)
@@ -87,7 +88,7 @@ We are committed to protect your personal data against accidental or unlawful de
 
 Please be aware that we cannot ensure the security of your data on your computer or during transmission over the internet. In this regard, we advise you to take every possible precaution to protect personal data stored on your computer and transiting on the Internet. 
 
-#### Data Submitted on Behalf of Someone Else
+####  Data Submitted on Behalf of Someone Else
 
 When you provide us with personal data relating to someone else, be sure to collect and supply such personal data in accordance with local applicable law. 
 
