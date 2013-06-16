@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jobvite.com privacy policy that was archived on 2012-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121105021446id_/http%3A//recruiting.jobvite.com/privacy-policy%3Ffooter) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jobvite.com privacy policy that was archived on 2013-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130616232256id_/http%3A//recruiting.jobvite.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy — Jobvite
 
@@ -123,6 +123,8 @@ Our Web site includes Social Media Features, such as the Facebook Like button, G
 **Material Changes**.
 
 Jobvite reserves the right to change this Privacy Policy from time to time. Jobvite will post the revised Privacy Policy on this Site located at <http://www.jobvite.com/Recruiting/PrivacyPolicy.aspx> and will either send a notice to the e-mail address that you specified in your registration and/or post notice of the change so it is visible when users log-on for the first time prior to said changes taking effect so that you are always aware of what personal information Jobvite may collect and how Jobvite may use this information. We encourage you to review this Privacy Policy regularly for any changes. Your continued use of the Site and/or Services will be subject to the then-current Privacy Policy.
+
+[](http://privacy.truste.com/privacy-seal/Jobvite,-Inc-/validation?rid=c9a6135b-a27e-4ea8-b14c-d3d8c60567e9 "TRUSTe European Safe Harbor certification")
 
 **Contact Us**
 
