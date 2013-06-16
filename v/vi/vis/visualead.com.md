@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the visualead.com privacy policy that was archived on 2012-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121216040211id_/http%3A//www.visualead.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the visualead.com privacy policy that was archived on 2013-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130616223342id_/http%3A//www.visualead.com/privacy-policy) for the most accurate reproduction.*
 
 # Visualead - About Privacy | Design with QR Codes | Visualead
 
@@ -50,7 +50,16 @@ You agree to provide true, accurate, complete and current information. For your 
 Upon receipt of your written request and enough information to permit us to identify your personal information, we will disclose to you the information we hold about you. We will also correct, amend or delete any personal information that is inaccurate and notify any third party recipients of the necessary changes.  
 We do not charge for complying with a correction request, however, for all other requests, we may charge a small fee to cover its costs. Requests to delete personal information are subject to any applicable legal and ethical reporting or document retention obligations imposed on Visualead.  
 We ask individual users to identify themselves and the information requested to be accessed, corrected or removed before processing such requests, and we may decline to process requests that are unreasonably repetitive or systematic, require disproportionate technical effort, jeopardize the privacy of others, or would be extremely impractical, or for which access is not otherwise required.  
-Please contact us at the above address for any additional questions or to access and update personal information.  
+Please contact us at the above address for any additional questions or to access and update personal information.
+
+##  Use of Remarketing with Google Analytics:
+
+##  Visualead collects cookies on our Web site to capture information about page visits. This information is anonymous and Visualead uses this information only internally - to deliver the most effective content to our visitors. Information from the cookies is used to gauge page popularity, analyze traffic patterns on our site and guide development of other improvements to our site. Visualead does not require that you accept cookies, however, some functionality on our Web site, our product or service check-out process, and products and services may be disabled if you decline to accept cookies. You can set your browser to notify you when you receive a cookie, giving you the chance to decide whether or not to accept it. You may also change your cookie settings through preferences options in our products and/or services, where applicable. Visualead never gives away information about our users. If you choose to e-mail us and provide personally identifiable information about yourself, Visualead will use this information only to respond to your inquiry. Visualead will not sell, rent or otherwise disclose that information to third parties unless such disclosure is necessary for the purposes set forth in this Policy, by law or a policy or notice contained or associated with a specific Visualead product or service.
+
+Visualead uses analytics data and the DoubleClick cookie to serve ads based on a user's prior visits to our website.  Site visitors may opt out of the DoubleClick cookie by visiting the [Google advertising opt-out page](http://www.google.com/privacy_ads.html "Google advertising opt-out page") or they may opt out of Google Analytics by visiting the [Google Analytics opt-out page](http://tools.google.com/dlpage/gaoptout "Google Analytics opt-out page").
+
+Google has additional information available about their [Remarketing Privacy Guidelines](http://adwords.google.com/support/aw/bin/answer.py?hl=en&answer=100746 "Google's Remarketing Privacy Guidelines"), [Policies](http://adwords.google.com/support/aw/bin/answer.py?hl=en&answer=143465 "Google's Remarketing Policies"), and [Restrictions](http://adwords.google.com/support/aw/bin/answer.py?hl=en&answer=178363 "Google's Remarketing Privacy Restrictions").
+
 Enforcement:  
 Visualead regularly reviews its compliance with this Policy. Please feel free to direct any questions or concerns regarding this Policy or our treatment of personal information by contacting us as provided above. When we receive formal written complaints it is Visualead's policy to contact the complaining user regarding his or her concerns. We will cooperate with the appropriate regulatory authorities, including local data protection authorities, to resolve any complaints regarding the transfer of personal information that cannot be resolved between Visualead and an individual.  
 Changes to this Privacy Policy:  
@@ -58,4 +67,4 @@ Visualead may update this policy. We will notify you about significant changes i
 Questions:  
 If you have any questions about this Privacy Policy or concerns about the way we process your personal information, please contact us at privacy@visualead.com  
 Terms of Use:  
-Our [Terms of Use](https://web.archive.org/terms-of-use) apply to this Privacy Policy.
+Our [Terms of Use](https://web.archive.org/terms-of-use/language:itl/) apply to this Privacy Policy.
