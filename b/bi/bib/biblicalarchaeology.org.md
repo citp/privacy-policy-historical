@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the biblicalarchaeology.org privacy policy that was archived on 2012-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121216014222id_/http%3A//www.biblicalarchaeology.org/about-the-biblical-archaeology-society/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the biblicalarchaeology.org privacy policy that was archived on 2013-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130616144351id_/http%3A//www.biblicalarchaeology.org/about-the-biblical-archaeology-society/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Biblical Archaeology Society
 
@@ -16,7 +16,7 @@ There are times when we may collect personal information from you. For example, 
 
 ## Use of Information About You
 
-From time to time, we are approached by companies or organizations that have a product or service that we believe might be of interest to you. We may share some your information with these companies so that they can communicate their products or services to you (we never share telephone or credit card numbers with any third party).
+From time to time, we are approached by companies or organizations that have a product or service that we believe might be of interest to you. We may share some of your information with these companies so that they can communicate their products or services to you (we never share telephone or credit card numbers with any third party).
 
 Your e-mail address is added to our electronic mailing list so that we can send you our newsletter or information about new products, events and special promotions from the Biblical Archaeology Society.
 
