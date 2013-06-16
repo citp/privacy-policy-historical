@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the visualead.com privacy policy that was archived on 2012-12-16.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121216040211id_/http%3A//www.visualead.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the visualead.com privacy policy that was archived on 2013-06-16.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130616223342id_/http%3A//www.visualead.com/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
@@ -16,23 +16,47 @@
 <meta name="og:image" content="http://www.visualead.com/img/twitter_qr_code_design.png">
 
 
+
+<!-- start google analytics -->
+<script type="text/javascript" async="" src="https://apis.google.com/js/plusone.js"></script><script id="twitter-wjs" src="https://platform.twitter.com/widgets.js"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript">
+
+    var _gaq = _gaq || [];
+    _gaq.push(['_setAccount', 'UA-33564887-1']);
+    _gaq.push(['_trackPageview']);
+
+    (function() {
+        var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+        ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+        //ga.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'stats.g.doubleclick.net/dc.js';
+        var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+    })();
+
+</script>
+<!-- end google anlytics -->
+    
+
 <link href="http://www.visualead.com/favicon.ico" type="image/x-icon" rel="icon"><link href="http://www.visualead.com/favicon.ico" type="image/x-icon" rel="shortcut icon">
 	<link rel="stylesheet" type="text/css" href="/js/fancybox/jquery.fancybox-1.3.4.css">
-	<link rel="stylesheet" type="text/css" href="/css/style.css?v2.6">
+	<link rel="stylesheet" type="text/css" href="/css/style.css?3.4.6">
 	<link rel="stylesheet" type="text/css" href="http://fonts.googleapis.com/css?family=Satisfy">
+	<link rel="stylesheet" type="text/css" href="http://fonts.googleapis.com/css?family=Paprika">
+	<link rel="stylesheet" type="text/css" href="/css/jquery-ui.css">
+	<link rel="stylesheet" type="text/css" href="/css/superfish.css">
+
+	<link rel="stylesheet" type="text/css" href="/css/style_itl.css?3.4.6">
 <meta name="viewport" content="width=1024">
 <!--[if IE 7]>
 <link rel="stylesheet" type="text/css" href="/css/style-IE7.css" /><![endif]-->
 <!--[if IE 8]>
 <link rel="stylesheet" type="text/css" href="/css/style-IE8.css" /><![endif]-->
 
-	<script id="twitter-wjs" src="//platform.twitter.com/widgets.js"></script><script type="text/javascript" async="" src="https://apis.google.com/js/plusone.js"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js"></script>
-	<script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jqueryui/1.8.21/jquery-ui.js"></script>
+	<script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.8.3/jquery.min.js"></script>
+	<script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jqueryui/1.10.2/jquery-ui.js"></script>
 	<script type="text/javascript" src="/js/hoverIntent.js"></script>
 	<script type="text/javascript" src="/js/masonry.js"></script>
 	<script type="text/javascript" src="/js/fancybox/jquery.fancybox-1.3.4.pack.js"></script>
 	<script type="text/javascript" src="/js/fancybox/jquery.easing-1.3.pack.js"></script>
-	<script type="text/javascript" src="/js/Jcrop/jcrop.js"></script>
+	<script type="text/javascript" src="/js/Jcrop/jcrop.js?3.4.6"></script>
 	<script type="text/javascript" src="/js/colorpicker/js/colorpicker.js"></script>
 	<script type="text/javascript" src="/js/jquery_rotate_min.js"></script>
 	<script type="text/javascript" src="/js/jquery.placeholder.js"></script>
@@ -40,6 +64,7 @@
 	<script type="text/javascript" src="/js/jquery.filedrop.js"></script>
 	<script type="text/javascript" src="/js/visualslider.jquery.js?v1.0"></script>
 	<script type="text/javascript" src="/js/jquery.lazyload.js"></script>
+	<script type="text/javascript" src="/js/superfish.js"></script>
 
 <script type="text/javascript">
 
@@ -47,7 +72,7 @@ $(document).ready(function(){
     //alert(window.name);
     //if(window.name == ''){
         //window has no name so we give it a name
-      //  window.name = 1355630531;
+      //  window.name = 1371422462;
       //  $.cookie('vis_win_name',window.name);
     //}
 
@@ -77,6 +102,14 @@ $(document).ready(function(){
 	});
 
 
+    $('#top_menu_supa').superfish({
+        cssArrows: false
+        //add options here if required
+    });
+
+
+
+
 	
 	$('input, password').placeholder();
 
@@ -84,16 +117,23 @@ $(document).ready(function(){
 	/*$('#sign_up_submit').click(function(){
 		if(!$('#UserTermsOfService').is(':checked')){	
 			alert('Please agree to the Terms.');
-			return false;	
+			return false;
 		}
 	});*/
+    $('#sign_in').click(function(){
+        $('#pricing_bundle_type').val('--');
+        $('#pricing_bundle_type_2').val('--');
+                $('.google_login').attr('href', '/google_login/language:itl/');
+        $('.facebook_login').attr('href', '/facebook_login/language:itl/');
+
+    });
 
 	$('#sign_in').fancybox({
 		'overlayColor': '#000',
-		'autoDimensions': false,
-		'width': '550',
-		'height': '500'
-	})
+		'width': '555',
+		'height': '530'
+	});
+
 
 
    /* $('.google_login').click(function(){
@@ -121,10 +161,16 @@ $(document).ready(function(){
 		'auto' : true,
 		'delay': 6000,
 		'slider_height' : 540,
-		'hover_pause' : false
-	});
-	
+		'hover_pause' : false,
+               'image_stop' : 2,
+                    	});
+
+    $('#top_generate_link').click(function(){
+        _gaq.push(['_trackEvent', 'hp_experiment', 'CTA_top_link_clicked']);
+    });
+
 	$('#call_to_action_button button').click(function(){
+        _gaq.push(['_trackEvent', 'hp_experiment', 'CTA_press_button']);
 		//return false;
 		var current_slider_id = $('#slider_holder .active').attr('id');
 		_gaq.push(['_trackEvent', 'Home', 'Home_CTA_'+current_slider_id+'_Clicked', current_slider_id]);
@@ -144,40 +190,46 @@ $(document).ready(function(){
     function remove_loading_gif(){
         $('.feed_box_image').each(function(){
             $(this).css({
-                'background' : '#ccc'
+                'background' : '#fff'
             });
             //alert($(this).attr('src'));
         });
     }
 	
-		
 	
+
 });
-	
+
+$(window).load(function(){
+     $('.hellobar-cta-link').on('click', function(e){
+         _gaq.push(['_trackEvent', 'chrome_app', 'installation_clicked']);
+
+            chrome.webstore.install();
+            return false;
+        });
+});
 </script>
+
+
+
+
 </head>
 
 <body>
+
+
+
+
+
+
+
+
+
 
 <script type="text/javascript">var switchTo5x=true;</script>
 <script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script>
 <script type="text/javascript">stLight.options({publisher: "f1c939dc-2eec-486f-9013-2fef02da1a27"}); </script>
 
-<!-- start google analytics -->
-<script type="text/javascript">
-
-  var _gaq = _gaq || [];
-  _gaq.push(['_setAccount', 'UA-33564887-1']);
-  _gaq.push(['_trackPageview']);
-
-  (function() {
-    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
-    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
-  })();
-
-</script>
-<!-- end google anlytics -->
 
 <!-- start facebook --> 
 <div id="fb-root"></div>
@@ -193,27 +245,49 @@ $(document).ready(function(){
 });
 
 </script>
+
 <!-- end facebook -->
 
-<div class="navigation"><div id="nav_holder" class="added_bg">
+<div class="navigation">
+<div id="nav_holder" class="added_bg">
 <div id="logo">
-            <a href="/" title="Visual QR Code Generator homepage"><img src="/img/visual_qr_code/visualead_logo.png" height="64" width="223" alt="Visualead - Custom QR Code generator" title="Visual QR Code Generator"></a>        </div>         <div id="main_nav">
-        	<ul>
-   <li><a href="/qr-code-generator/select">Create</a></li>
-      <li><a href="/explore-qr-code-designs">Explore</a></li>
-   <li><a href="/features">Features</a></li>
-  <li class="no_border"><a href="/qr-code-tutorial">QR Tutorials</a></li> 
-   <!-- <li><a href="/about-us">About</a></li>-->
-   <!-- <li class="no_border"><a href="http://www.visualead.com/blog/">Blog</a></li>-->
+    <a href="/itl/" title="Visual QR Code Generator homepage"><img src="/img/visual_qr_code/visualead_logo.png" height="64" width="223" alt="Visualead - Custom QR Code generator" title="Visual QR Code Generator"></a></div>
 
-       <!--<ul class="sub_menu">
-           <li><a href="#">Blog</a></li>
-           <li><a href="#">About</a></li>
-       </ul> -->
-   
-<!-- <li class="no_border"><a href="#">Premium</a></li> -->
-</ul>
-        </div>
+<!-- <div style="position: absolute; width: 40px; height: 40px; top: 31px; left: 50%; margin-left: -270px;"><img src="/img/new_look_img/egg2.png" width="40" height="40" alt="Visualead - Happy Easter" /></div> -->	<div id="main_nav">
+		<ul class="sf-menu">
+			<li><a href="/itl/qr-code-generator/add_qr_details/" id="top_generate_link">Crea</a>                </li>
+						<li><a href="/itl/explore-qr-code-designs/">Esplora</a></li>
+			<li>
+                <a href="/features/language:itl/">Caratteristiche</a>                <ul>
+                    <li><a href="/pricing/language:itl/">Prezzi</a></li>
+                    <li><a href="/api/language:itl/">API</a></li>
+                    <li><a href="/features/language:itl/">Caratteristiche</a></li>
+                </ul>
+
+            </li>
+			<li class="no_border"><a href="/itl/qr-code-tutorial/">Tutorial QR</a>                <ul>
+                    <li><a href="http://www.visualead.com/blog/">Blog</a></li>
+                    <li><a href="/about-us/language:itl/">Informazioni di noi</a></li>
+                    <li><a href="/itl/qr-code-tutorial/">Tutorial QR</a></li>
+                </ul>
+            </li>
+		</ul>
+	</div>
+        <style type="text/css">
+
+        </style>
+        <script type="text/javascript">
+            $(document).ready(function(){
+                $('ul.sf-menu').superfish({
+                });
+
+                $('ul.sf-menu li').mouseover(function(){
+                   $(this).find('ul').fadeIn();
+                }).mouseleave(function(){
+                        $(this).find('ul').fadeOut();
+                });
+            });
+        </script>
 
 
 
@@ -222,23 +296,24 @@ $(document).ready(function(){
 <div id="members" class="memners_class">
   <div class="members_box">
   	
-    <a href="#login_pop_up" id="sign_in">Log in/Create account</a>
+    <a href="#login_pop_up" id="sign_in">Entra/Crea un account</a>
   </div>
-</div>
+    </div>
 <div id="login_outer_holder">
 <div id="login_pop_up">
     <div class="socila_logon">
-             <div class="members_heading">Log in with one click</div>
-        <div class="login_buttons" style="margin-left: 33px;"><a href="/users/auth_login/facebook" class="facebook_login">Login with Facebook</a></div>
-                <div class="login_buttons"><a href="/users/auth_login/google" class="google_login" target="_self">Login with Google</a></div>
+             <div class="members_heading">Accedi con un click</div>
+        <div class="login_buttons" style="margin-left: 33px;"><a href="/facebook_login/language:itl/" class="facebook_login">Accedi con Facebook</a></div>
+                <div class="login_buttons"><a href="/google_login/language:itl/" class="google_login" target="_self">Accedi con Google</a></div>
     </div>
-<div id="login">
+            <div class="logon_exp_text">Crea un account attraverso il quale è possibile monitorare e modificare i codici visivi QR</div>
+    <div id="login">
    <div id="login_center">
       <div id="log_in_holder">
-   <div class="members_heading">Or, Log in with us <span style="font-family: Tahoma, Geneva, sans-serif; font-size: 14px;">(</span><a href="#" id="sign_up_switch">Create an account</a><span style="font-family: Tahoma, Geneva, sans-serif; font-size: 14px;">)</span></div>
-   <form action="/users/login_from_site_front_page" id="UserViewForm" method="post" accept-charset="utf-8"><div style="display:none;"><input type="hidden" name="_method" value="POST"></div>  
-   <div class="input text required"><input name="data[User][email]" id="login_email" placeholder="Email" maxlength="250" type="text"></div><div class="input password required"><input name="data[User][password]" id="login_password" placeholder="Password" type="password"></div><input type="hidden" name="data[User][front_page_log_in]" value="1" id="UserFrontPageLogIn"><div style="font-size: 10px; position: absolute; margin-left: 38px; margin-top: 5px;"><a id="forgot_password" href="/users/password_reset_email">Forgot your password?</a></div><div class="input checkbox"><input type="hidden" name="data[User][remember_me]" id="remembr_me_" value="0"><input type="checkbox" name="data[User][remember_me]" id="remembr_me" checked="checked" value="1"></div><div class="input submit"><div class="submit"><input id="login_submit" class="new_button" type="submit" value="Log in"></div></div>    <label for="remember_me" id="remember_me_label">Remember me</label>
-    <br><label id="terms_of_service_label">* By creating an account or logging in you agree to our <a href="/terms-of-use" target="_blank" style="font-size: 12px;">Terms of Use</a></label>        <!-- <input name="remember_me" id="remembr_me" type="checkbox" value="" checked />
+   <div class="members_heading">Oppure, Entra con noi <span style="font-family: Tahoma, Geneva, sans-serif; font-size: 14px;">(</span><a href="#/" id="sign_up_switch">Crea un account</a><span style="font-family: Tahoma, Geneva, sans-serif; font-size: 14px;">)</span></div>
+   <form action="/users/login_from_site_front_page/" id="UserViewForm" method="post" accept-charset="utf-8"><div style="display:none;"><input type="hidden" name="_method" value="POST"></div>  
+   <div class="input text required"><input name="data[User][email]" id="login_email" placeholder="Email" maxlength="250" type="text"></div><div class="input password required"><input name="data[User][password]" id="login_password" placeholder="Password" type="password"></div><input type="hidden" name="data[User][front_page_log_in]" value="1" id="UserFrontPageLogIn"><div style="font-size: 10px; position: absolute; margin-left: 38px; margin-top: 5px;"><a id="forgot_password" href="/password_reset_email/language:itl/">Hai dimenticato la password?</a></div><div class="input checkbox"><input type="hidden" name="data[User][remember_me]" id="remembr_me_" value="0"><input type="checkbox" name="data[User][remember_me]" id="remembr_me" checked="checked" value="1"></div><input type="hidden" name="data[User][pricing_bundle_type]" id="pricing_bundle_type" value=""><div class="input submit"><div class="submit"><input id="login_submit" class="new_button" type="submit" value="Entra"></div></div>    <label for="remember_me" id="remember_me_label">Ricordati di me</label>
+    <br><label id="terms_of_service_label">* Creando un nuovo account o entrando tu accetti le nostre <a href="/terms-of-use/language:itl/" target="_blank" style="font-size: 12px;">Condizioni di Utilizzo</a></label>        <!-- <input name="remember_me" id="remembr_me" type="checkbox" value="" checked />
          
          <input type="submit" id="login_submit" name="login_submit" value="" /> -->
 	</form>      
@@ -246,9 +321,9 @@ $(document).ready(function(){
       </div>
       <div id="sign_up_holder">
 
-            <div class="members_heading">Or, Create an account <span style="font-family: Tahoma, Geneva, sans-serif; font-size: 14px;">(</span><a href="#" id="log_in_switch">Log in</a><span style="font-family: Tahoma, Geneva, sans-serif; font-size: 14px;">)</span></div>
-   <form action="/users/add_from_site" id="UserViewForm" method="post" accept-charset="utf-8"><div style="display:none;"><input type="hidden" name="_method" value="POST"></div>  
-   <div class="input text required"><input name="data[User][email]" id="login_email" placeholder="Email" maxlength="250" type="text"></div><div class="input password required"><input name="data[User][password]" id="login_password" placeholder="Password" type="password"></div><div class="input submit"><div class="submit"><input id="sign_up_submit" class="new_button" type="submit" value="Create account"></div></div><label id="terms_of_service_label">* By creating an account or logging in you agree to our <a href="/terms-of-use" target="_blank" style="font-size: 12px;">Terms of Use</a></label><input type="hidden" name="data[User][front_page_sign_up]" value="1" id="UserFrontPageSignUp"></form>        <!-- <input type="submit" id="login_submit" name="login_submit" value="" /> -->
+            <div class="members_heading">O, Crea un account <span style="font-family: Tahoma, Geneva, sans-serif; font-size: 14px;">(</span><a href="#/" id="log_in_switch">Entra</a><span style="font-family: Tahoma, Geneva, sans-serif; font-size: 14px;">)</span></div>
+   <form action="/users/add_from_site/" id="UserViewForm" method="post" accept-charset="utf-8"><div style="display:none;"><input type="hidden" name="_method" value="POST"></div>  
+   <div class="input text required"><input name="data[User][email]" id="login_email" placeholder="Email" maxlength="250" type="text"></div><div class="input password required"><input name="data[User][password]" id="login_password" placeholder="Password" type="password"></div><div class="input submit"><div class="submit"><input id="sign_up_submit" class="new_button" type="submit" value="Crea un account"></div></div><input type="hidden" name="data[User][pricing_bundle_type_2]" id="pricing_bundle_type_2" value=""><label id="terms_of_service_label">* Creando un nuovo account o entrando tu accetti le nostre <a href="/terms-of-use/language:itl/" target="_blank" style="font-size: 12px;">Condizioni di Utilizzo</a></label><input type="hidden" name="data[User][front_page_sign_up]" value="1" id="UserFrontPageSignUp"></form>        <!-- <input type="submit" id="login_submit" name="login_submit" value="" /> -->
       
       </div>
    </div>
@@ -257,6 +332,7 @@ $(document).ready(function(){
 </div>
 </div>
 </div>
+    
 
 
 <div id="outwrapper">
@@ -322,7 +398,18 @@ $(document).ready(function(){
 	Upon receipt of your written request and enough information to permit us to identify your personal information, we will disclose to you the information we hold about you. We will also correct, amend or delete any personal information that is inaccurate and notify any third party recipients of the necessary changes.<br>
 	We do not charge for complying with a correction request, however, for all other requests, we may charge a small fee to cover its costs. Requests to delete personal information are subject to any applicable legal and ethical reporting or document retention obligations imposed on Visualead.<br>
 	We ask individual users to identify themselves and the information requested to be accessed, corrected or removed before processing such requests, and we may decline to process requests that are unreasonably repetitive or systematic, require disproportionate technical effort, jeopardize the privacy of others, or would be extremely impractical, or for which access is not otherwise required.<br>
-	Please contact us at the above address for any additional questions or to access and update personal information.<br>
+	Please contact us at the above address for any additional questions or to access and update personal information.</p>
+<p>
+	&nbsp;</p>
+<h2 style="color: rgb(0, 0, 0); margin: 1.07em 0px 0.535em; padding: 0px; border: 0px; font-size: 26px; font: inherit; vertical-align: baseline; font-family: Helvetica, Arial, sans-serif; line-height: 1.3em; -webkit-text-size-adjust: none;">
+	Use of Remarketing with Google Analytics:</h2>
+<h2 style="color: rgb(0, 0, 0); margin: 1.07em 0px 0.535em; padding: 0px; border: 0px; font-size: 26px; font: inherit; vertical-align: baseline; font-family: Helvetica, Arial, sans-serif; line-height: 1.3em; -webkit-text-size-adjust: none;">
+	<span style="font-size: 13px; line-height: 1.6em;">Visualead collects cookies on our Web site to capture information about page visits. This information is anonymous and Visualead uses this information only internally - to deliver the most effective content to our visitors. Information from the cookies is used to gauge page popularity, analyze traffic patterns on our site and guide development of other improvements to our site. Visualead does not require that you accept cookies, however, some functionality on our Web site, our product or service check-out process, and products and services may be disabled if you decline to accept cookies. You can set your browser to notify you when you receive a cookie, giving you the chance to decide whether or not to accept it. You may also change your cookie settings through preferences options in our products and/or services, where applicable. Visualead never gives away information about our users. If you choose to e-mail us and provide personally identifiable information about yourself, Visualead will use this information only to respond to your inquiry. Visualead will not sell, rent or otherwise disclose that information to third parties unless such disclosure is necessary for the purposes set forth in this Policy, by law or a policy or notice contained or associated with a specific Visualead product or service.</span></h2>
+<p style="color: rgb(0, 0, 0); font-size: 13px; margin: 1.07em 0px 0.535em; padding: 0px; border: 0px; font: inherit; vertical-align: baseline; font-family: Helvetica, Arial, sans-serif; line-height: 1.6em; -webkit-text-size-adjust: none;">
+	Visualead uses analytics data and the DoubleClick cookie to serve ads based on a user's prior visits to our website.&nbsp; Site visitors may opt out of the DoubleClick cookie by visiting the&nbsp;<a href="http://www.google.com/privacy_ads.html" style="margin: 0px; padding: 0px; border: 0px; font-size: 13px; font: inherit; vertical-align: baseline; line-height: 1.6em;" target="_blank" title="Google advertising opt-out page">Google advertising opt-out page</a>&nbsp;or they may opt out of Google Analytics by visiting the&nbsp;<a href="http://tools.google.com/dlpage/gaoptout" style="margin: 0px; padding: 0px; border: 0px; font-size: 13px; font: inherit; vertical-align: baseline; line-height: 1.6em;" target="_blank" title="Google Analytics opt-out page">Google Analytics opt-out page</a>.</p>
+<p style="color: rgb(0, 0, 0); font-size: 13px; margin: 1.07em 0px 0.535em; padding: 0px; border: 0px; font: inherit; vertical-align: baseline; font-family: Helvetica, Arial, sans-serif; line-height: 1.6em; -webkit-text-size-adjust: none;">
+	Google has additional information available about their&nbsp;<a href="http://adwords.google.com/support/aw/bin/answer.py?hl=en&amp;answer=100746" style="margin: 0px; padding: 0px; border: 0px; font: inherit; vertical-align: baseline; line-height: 1.6em;" target="_blank" title="Google's Remarketing Privacy Guidelines">Remarketing Privacy Guidelines</a>,&nbsp;<a href="http://adwords.google.com/support/aw/bin/answer.py?hl=en&amp;answer=143465" style="margin: 0px; padding: 0px; border: 0px; font: inherit; vertical-align: baseline; line-height: 1.6em;" target="_blank" title="Google's Remarketing Policies">Policies</a>, and&nbsp;<a href="http://adwords.google.com/support/aw/bin/answer.py?hl=en&amp;answer=178363" style="margin: 0px; padding: 0px; border: 0px; font: inherit; vertical-align: baseline; line-height: 1.6em;" target="_blank" title="Google's Remarketing Privacy Restrictions">Restrictions</a>.</p>
+<p>
 	Enforcement:<br>
 	Visualead regularly reviews its compliance with this Policy. Please feel free to direct any questions or concerns regarding this Policy or our treatment of personal information by contacting us as provided above. When we receive formal written complaints it is Visualead's policy to contact the complaining user regarding his or her concerns. We will cooperate with the appropriate regulatory authorities, including local data protection authorities, to resolve any complaints regarding the transfer of personal information that cannot be resolved between Visualead and an individual.<br>
 	Changes to this Privacy Policy:<br>
@@ -330,24 +417,27 @@ $(document).ready(function(){
 	Questions:<br>
 	If you have any questions about this Privacy Policy or concerns about the way we process your personal information, please contact us at privacy@visualead.com<br>
 	Terms of Use:<br>
-	Our <a href="/terms-of-use">Terms of Use</a> apply to this Privacy Policy.</p>
+	Our <a href="/terms-of-use/language:itl/">Terms of Use</a> apply to this Privacy Policy.</p>
 </div></div>        <div class="clear_both"></div>
     </div>
 </div>
+
+
 <div id="footer">
 <div id="infooter">
    <div class="social_holder">
-	<h3>40036 QR Code designs created with overall 356156 Scans</h3>
+    	<h3>395624 Immagini di Codici QR creati complessivamente 3454038 Scansioni</h3>
+        <div style="width: 100%;">
         	<div class="facebook_holder">
-            	<div class="fb-like-box" data-href="http://www.facebook.com/visualead" data-width="366" data-height="185" data-show-faces="true" data-stream="false" data-border_color="#f1f1f1" data-header="false"></div>
+            	<div class="fb-like-box" data-href="http://www.facebook.com/visualead" data-width="366" data-height="250" data-show-faces="true" data-stream="false" data-border_color="#f1f1f1" data-header="false"></div>
             </div>
             <div class="twitter_holder">
             	<div class="twitter_widget">
                 	<div class="twitter_link">
 
-                <a href="http://www.twitter.com/visualead"><img src="/img/twitter_link_with_text.png" width="200" height="73" alt="Follow us on twitter"></a>
+                <a href="http://www.twitter.com/visualead/"><img src="/img/new_look_img/twitter_feed.png" width="48" height="48" alt="Seguici su Twitter"></a>
                         </div>
-                        <div class="twitter_feed">
+                        <div class="twitter_feed"><!--
                         <script charset="utf-8" src="http://widgets.twimg.com/j/2/widget.js"></script>
 						<script>
 							new TWTR.Widget({
@@ -376,8 +466,11 @@ $(document).ready(function(){
   								}
 								}).render().setUser('visualead').start();
 							</script>
-                           
-                    </div>
+                           -->
+                            <a class="twitter-timeline" href="https://twitter.com/visualead" data-widget-id="338638849666334720">Tweets by @visualead</a>
+                            <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
+
+                        </div>
                 
             </div>
         </div>
@@ -397,62 +490,88 @@ $(document).ready(function(){
 </script>
 <script src="//platform.linkedin.com/in.js" type="text/javascript"></script>
 <script type="IN/FollowCompany" data-id="2602981" data-counter="none"></script>
-<a href="https://twitter.com/visualead" class="twitter-follow-button" data-show-count="false">Follow @visualead</a>
+<a href="https://twitter.com/visualead" class="twitter-follow-button" data-show-count="false">Segui @visualead</a>
 <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="//platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
 </div>
     <div class="clear_both"></div>
 </div>
+            </div>
       
      	<div id="footer_mailing_list">
-        	<div class="mailing_list_text">Get email updates:</div>
-            <form action="/subscriptions/add" id="SubscriptionAddForm" method="post" accept-charset="utf-8"><div style="display:none;"><input type="hidden" name="_method" value="POST"></div><div class="input text required"><input name="data[Subscription][name]" id="mailing_name" placeholder="Your name" maxlength="250" type="text"></div><div class="input text required"><input name="data[Subscription][email]" id="mailing_email" placeholder="Email address" maxlength="250" type="text"></div><div class="submit"><input type="submit" value="Subscribe"></div></form>        </div>
+        	<div class="mailing_list_text">Ricevi aggiornamenti via email:</div>
+            <form action="/subscriptions/add/" id="SubscriptionAddForm" method="post" accept-charset="utf-8"><div style="display:none;"><input type="hidden" name="_method" value="POST"></div><div class="input text required"><input name="data[Subscription][name]" id="mailing_name" placeholder="Il tuo nome" maxlength="250" type="text"></div><div class="input text required"><input name="data[Subscription][email]" id="mailing_email" placeholder="Indirizzo email" maxlength="250" type="text"></div><div class="submit"><input type="submit" value="Abbonati"></div></form>        </div>
          <div id="footer_menus">
            <ul class="first_menu">
-            	<li><a href="/about-us">About</a></li>
-                <li><a href="/contact">Contact</a></li>
-               <li><a href="/media-kit">Media Kit</a></li>
-                <li><a href="/FAQ">FAQ</a></li>
-                <li><a href="/terms-of-use">Terms Of Use</a></li>
-                <li><a href="/privacy-policy">Privacy Policy</a></li>
-
+               <li><a href="http://www.visualead.com/blog/" style="font-weight: bold;">Blog</a></li>
+               <li><a href="/itl/qr-code-tutorial/">Tutorial QR</a></li>
+               <li><a href="/media-kit/language:itl/">Kit per i media</a></li>
+               <li><a href="/about-us/language:itl/" style="font-weight: bold;">Informazioni di noi</a></li>
             </ul>
             <ul>
             	<!-- <li><a href="#">Blog</a></li> -->
-                <li><a href="https://www.facebook.com/visualead">Facebook</a></li>
-                <li><a href="https://www.twitter.com/visualead">Twitter</a></li>
-                <li><a href="https://plus.google.com/u/0/b/107767813642938920194/107767813642938920194">Google+</a></li>
+                <li><a href="https://www.facebook.com/visualead/">Facebook</a></li>
+                <li><a href="https://www.twitter.com/visualead/">Twitter</a></li>
+                <li><a href="https://plus.google.com/u/0/b/107767813642938920194/107767813642938920194/">Google+</a></li>
 				<li><a href="https://pinterest.com/visualead/">Pinterest</a></li>
             </ul>
+                        <ul>
+                <li><a href="/FAQ/language:itl/">FAQ</a></li>
+                <li><a href="/contact/language:itl/">Contatti</a></li>
+                <li><a href="/terms-of-use/language:itl/">Condizioni d'Uso</a></li>
+                <li><a href="/privacy-policy/language:itl/">Informativa sulla Privacy</a></li>
+            </ul>
             <ul>
-             				<li><a href="/qr-code-generator/select">Create</a></li>
-				<li><a href="/explore-qr-code-designs">Explore</a></li>
-                <li><a href="http://www.visualead.com/blog/">Blog</a></li>
-                <li><a href="/site_map">Site Map</a></li>
-                <li><a href="/api">API</a></li>
-            </ul>			
-          	
+                                <li><a href="/itl/qr-code-generator/add_qr_details/">Crea</a></li>
+                <li><a href="/itl/explore-qr-code-designs/">Esplora</a></li>
+                <li><a href="/api/language:itl/">API</a></li>
+                <li><a href="/site_map/language:itl/">Mappa del sito</a></li>
+            </ul>
+            <ul>
+                                <li><a href="http://www.visualead.com/itl/">Home Page</a></li>
+                <li><a href="/pricing/language:itl/" style="font-weight: bold;">Prezzi</a></li>
+                <li><a href="/features/language:itl/">Caratteristiche</a></li>
+            </ul>
+
         </div>
         <div id="footer_social">
         	<div class="follow_us">
             	
-                <img src="/img/new_look_img/follow_us.png" width="122" height="33" alt="Follow Us">            </div>
+                <img src="/img/new_look_img/follow_us.png" width="122" height="33" alt="Seguici">            </div>
             <div class="social_icons">
-            	<div class="social_icon"><a href="https://www.facebook.com/visualead" class="facebook"></a></div>
-                <div class="social_icon"><a href="https://www.twitter.com/visualead" class="twitter"></a></div>
+            	<div class="social_icon"><a href="https://www.facebook.com/visualead/" class="facebook"></a></div>
+                <div class="social_icon"><a href="https://www.twitter.com/visualead/" class="twitter"></a></div>
                 <!-- <div class="social_icon"><a class="be" href="#"></a></div> -->
-                <div class="social_icon"><a href="http://www.linkedin.com/company/visualead" class="linkedin"></a></div>
-                <div class="social_icon"><a href="/contact" class="mail"></a></div>
+                <div class="social_icon"><a href="http://www.linkedin.com/company/visualead/" class="linkedin"></a></div>
+                <div class="social_icon"><a href="/contact/language:itl/" class="mail"></a></div>
             </div>
         </div>
-    </div>   <div class="clear_both"></div>
+   </div>
+   <div class="clear_both"></div>
    <div id="copyright">
-    	Copyright 2012 Visualead all rights reserved | QR Code is a registered trademark of DENSO WAVE INCORPORATED
-    </div>
+    	Copyright 2013Visualead, tutti i diritti riservati | QR Code à un marchio registrato da DENSO    </div>
    </div>
     
 
 </div><!-- ClickTale Bottom part -->
 <!-- ClickTale end of Bottom part -->
+    <!-- Google Code for Remarketing tag -->
+    <!-- Remarketing tags may not be associated with personally identifiable information or placed on pages related to sensitive categories. For instructions on adding this tag and more information on the above requirements, read the setup guide: google.com/ads/remarketingsetup -->
+    <script type="text/javascript">
+        /* <![CDATA[ */
+        var google_conversion_id = 1000988496;
+        var google_conversion_label = "hdoFCOi24gMQ0L6n3QM";
+        var google_custom_params = window.google_tag_params;
+        var google_remarketing_only = true;
+        /* ]]> */
+    </script>
+    <script type="text/javascript" src="//www.googleadservices.com/pagead/conversion.js">
+    </script>
+    <noscript>
+        <div style="display:inline;">
+            <img height="1" width="1" style="border-style:none;" alt="" src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/1000988496/?value=0&amp;label=hdoFCOi24gMQ0L6n3QM&amp;guid=ON&amp;script=0"/>
+        </div>
+    </noscript>
+
 
 
 </body></html>
