@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the activelylearn.com privacy policy that was archived on 2012-11-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121104005318id_/http%3A//www.activelylearn.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the activelylearn.com privacy policy that was archived on 2013-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130617003744id_/http%3A//www.activelylearn.com/privacy) for the most accurate reproduction.*
 
-# Privacy - ActivelyLearn
-
-### Privacy
+# Privacy - Actively Learn
 
 Your privacy is important to us. Accordingly, we have developed this Privacy Policy in order for you to understand how we collect, store, use, communicate and disclose your information. 
 
