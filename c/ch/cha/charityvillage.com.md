@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the charityvillage.com privacy policy that was archived on 2012-10-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121023163058id_/https%3A//charityvillage.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the charityvillage.com privacy policy that was archived on 2013-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130616161853id_/http%3A//charityvillage.com/privacy.aspx) for the most accurate reproduction.*
 
 # CharityVillage > Privacy
 
