@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lta.org.uk privacy policy that was archived on 2012-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121231170828id_/http%3A//www.lta.org.uk/Footer/Privacy-Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lta.org.uk privacy policy that was archived on 2013-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130616031835id_/http%3A//www.lta.org.uk/Footer/Privacy-Policy) for the most accurate reproduction.*
 
 # Privacy policy - LTA
 
@@ -48,7 +48,7 @@ If you are an elite player who is required to participate in doping control proc
 
 #### Criminal records data
 
-The LTA is registered with the Criminal Records Bureau to assist it in ensuring that those who take up appointments do not pose a risk to the children in its care. The LTA may therefore process criminal records data disclosed by the CRB. This will be processed in accordance with the CRB’s Code of Practice for Registered Persons.
+The LTA is registered with the Criminal Records Bureau to assist it in ensuring that those who take up appointments do not pose a risk to the children in its care. The LTA may therefore process criminal records data disclosed by the DBS (formerly known as CRB). This will be processed in accordance with the DBS (formerly known as CRB)’s Code of Practice for Registered Persons.
 
 ### Cookies
 
