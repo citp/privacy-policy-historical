@@ -1,10 +1,12 @@
-> *The following text is extracted and transformed from the pearson.com.au privacy policy that was archived on 2012-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121215052417id_/http%3A//www.pearson.com.au/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pearson.com.au privacy policy that was archived on 2013-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130616122151id_/http%3A//www.pearson.com.au/privacy-policy) for the most accurate reproduction.*
 
 # Pearson -
 
 ## Privacy Policy
 
-This Policy will be reviewed from time to time to take account of new or amended laws, new technology and/or changes to our operations and practices and the changing business environment. A copy of this policy can be obtained through our website [www.pearsonaustraliagroup.com.au](http://www.pearsonaustraliagroup.com.au/) or by contacting our Privacy Officer. All personal information held by us will be governed by the most recently updated policy.
+In this Privacy Policy, "us", "we" or "our" means Pearson Australia Group Pty Ltd ABN 40 004 245 943 and its divisions (including without limitation Penguin Group (Australia), Pearson Australia and United Book Distributors) and related bodies corporate.
+
+This Policy will be reviewed from time to time to take account of new or amended laws, new technology and/or changes to our operations and practices and the changing business environment. All personal information held by us will be governed by the most recently updated policy.
 
 This policy sets out: 
 
@@ -24,7 +26,7 @@ This policy sets out:
 
 In general, we collect personal information in order to conduct our business, to provide and market our goods and services and to meet our legal and regulatory obligations. The personal information we collect about you includes (but is not limited to) your name, contact details (including phone numbers and addresses), gender, date of birth, occupation and other information which may assist us in conducting our business, and providing and marketing our goods and services. In certain circumstances we collect financial information, including your credit card information where appropriate.
 
-We also collect information about you that is not personal information. For example, we may collect data relating to your activity on our websites (including the type of internet browser you use, your operating system, address of referring site, and your IP address and clickstream information) via tracking technologies such as cookies, or we may collect information from you in response to a survey, promotion or competition. We generally use this information to report statistics, analyse trends, administer our services, diagnose problems and target and improve the quality of our products and services. Cookies allow your browser to utilise some of the features of our sites. We use both session ID cookies and persistent cookies. Most web browsers are set by default to accept cookies. If you reject cookies you will be unable to take advantage of some of the features of our websites. To the extent this information does not constitute personal information, the National Privacy Principles are not applicable and we may use this information for any lawful purpose.
+We also collect information about you that is not personal information. For example, we may collect data relating to your activity on our websites (including the type of internet browser you use, your operating system, address of referring site, and your IP address and clickstream information) via tracking technologies such as cookies, or we may collect information from you in response to a survey, promotion or competition. We generally use this information to report statistics, analyse trends, administer our services, diagnose problems and target and improve the quality of our products and services. Cookies allow your browser to utilise some of the features of our sites. We use both session ID cookies and persistent cookies. Most web browsers are set by default to accept cookies. If you reject cookies you will be unable to take advantage of some of the features of our websites. To the extent this information does not constitute personal information, the Australian Privacy Principles are not applicable and we may use this information for any lawful purpose.
 
 We generally advise that you do not publish or communicate personal information, or at least limit the personal information that you publish or communicate, to the public via our services, such as in any forums, blogs or anywhere that user generated content can be uploaded ("Non-Confidential Information"). We cannot control any third party collection or use of your Non-Confidential Information that is publicly available.
 
@@ -100,7 +102,7 @@ If you suspect any misuse or loss of, or unauthorised access to, your personal i
 
 ### Accessing and updating or correcting your information and how to contact us
 
-Subject to the exceptions set out in the Privacy Act, you may seek access to, or seek to update or correct, the personal information we hold about you. We will require you to verify your identity and to specify the information to which require access or updating or correction. A fee may be charged for providing access however we will advise you of the likely cost in advance.
+Subject to the exceptions set out in the Privacy Act, you may seek access to, or seek to update or correct, the personal information we hold about you. We will require you to verify your identity and to specify the information to which you require access or updating or correction. A fee may be charged for providing access however we will advise you of the likely cost in advance.
 
 Subscribers or members of our websites will generally be able to access and update their membership and contact details online.
 
@@ -109,8 +111,7 @@ We request that you keep your information as current as possible so that we may 
 If you would like to seek access or request updating or correction to personal information we hold about you, or if you have any questions or complaints about how we collect, use, disclose, manage or store your personal information, you can contact the department that collected your personal information in the first instance, or write to:
 
 **The Privacy Officer**  
-**Pearson Australia Group Pty Ltd ABN 40 004 245 943**  
+**Pearson Australia Group Pty Ltd**  
 707 Collins Street  
 Melbourne VIC 3008  
-Phone: (03) 9811 2400  
 Email: [privacy.officer@pearson.com.au](mailto:privacy.officer@pearson.com.au)
