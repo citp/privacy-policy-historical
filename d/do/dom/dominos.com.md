@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dominos.com privacy policy that was archived on 2012-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121101062238id_/http%3A//order.dominos.com/en/pages/content/content.jsp%3Fpage%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dominos.com privacy policy that was archived on 2013-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130616182011id_/http%3A//order.dominos.com/en/pages/content/content.jsp%3Fpage%3Dprivacy) for the most accurate reproduction.*
 
 # Legal Privacy Policy - Domino's Pizza, Order Pizza Online for Delivery - Dominos.com
 
@@ -16,9 +16,9 @@ The Web Sites or the Applications will not collect any personally identifiable i
 
 Therefore, if you do not want us to obtain any personally identifiable information about you, please do not submit it to us.
 
-You can visit and browse the Domino's Pizza Web Sites and the Applications without revealing personally identifiable information about yourself. You may also choose to disclose personally identifiable information about yourself, which may be maintained as described below. The Web Sites and the Applications may collect personally identifiable information about you by methods such as the following:
+You can visit and browse the Domino's Pizza Web Sites and the Applications without revealing personally identifiable information about yourself, but not all functions will be available to you. You may also choose to disclose personally identifiable information about yourself, which may be maintained as described below. The Web Sites and the Applications may collect personally identifiable information about you by methods such as the following:
 
-  * Registration Forms - If you are offered the opportunity to enter a promotion, to become a registered user of dominos.com, or to opt-in to receive Domino's Pizza information through another site or the Applications, you must apply by filling out the registration form on the site or the Application. This form requires certain personally identifiable information that may include, without limitation, your name, email address, postal address, telephone number, areas of interest, product usage, and/or a unique individual password.
+  * Registration Forms - If you are offered the opportunity to enter a promotion, to become a registered user of dominos.com, or to opt-in to receive Domino's Pizza information through another site or the Applications, you must apply by filling out the registration form on the site or the Application. This form requires certain personally identifiable information that may include, without limitation, your name, email address, postal address, telephone number, areas of interest, product usage, credit/debit card number(s) with associated expiration date(s), CVV and billing zip code(s), and/or a unique individual password.
   * Transactions and Activity - If you become a registered user or if you conduct transactions through the Web Sites or an Application, we will collect information about the transactions you engage in while on the Web Sites or Application and your other activity on the site or Application. This information may include, without limitation, areas of the Web Sites or Application that you visit, transaction type, content that you view, download or submit, transaction amount, payment, and billing information as well as the nature, quantity and price of the goods or services you exchange and the individuals or entities with whom you communicate or transact business.
   * Email and other voluntary communications - You may also choose to communicate with us through email, via our Web Sites, via the Applications, by telephone, in writing, or through other means. We collect the information in these communications, and such information may be personally identifiable.
 
@@ -26,7 +26,7 @@ You can visit and browse the Domino's Pizza Web Sites and the Applications witho
 
 ## Non-Personally Identifiable Information
 
-When you visit the Domino's Pizza Web Sites and Applications, like when you visit most other web sites and applications, certain anonymous information about your visit is automatically logged, which may include information about the type of browser you use, the server name and IP address through which you access the internet (such as "aol.com" or "earthlink.net"), the date and time you access the site, the pages you access while at the Domino's Pizza Web Sites, and the internet address of the web sites, if any, from which you linked directly to the Domino's Pizza site or Application. This information is not personally identifiable.
+When you visit the Domino's Pizza Web Sites and Applications, like when you visit most other web sites and applications, certain anonymous information about your visit is automatically logged, which may include information about the type of browser you use, the server name and IP address through which you access the internet (which identifies the company providing you internet access and general geographic information), the date and time you access the site, the pages you access while at the Domino's Pizza Web Sites, and the internet address of the web sites, if any, from which you linked directly to the Domino's Pizza site or Application. This information is not personally identifiable.
 
 ## Information Use
 
@@ -39,6 +39,7 @@ Domino's Pizza may use the personally identifiable information collected through
   * improving the Web Sites, including tailoring it to users' preferences;
   * providing users with product or service updates, promotional notices and offers, and other information about Domino's Pizza and its affiliates;
   * responding to your questions inquiries, comments and instructions;
+  * protecting our systems from fraud and unlawful access;
   * maintaining the security and integrity of its systems.
 
 
@@ -47,7 +48,7 @@ Domino's Pizza uses the anonymous browsing information collected automatically b
 
 ## Disclosure of Information
 
-Domino's Pizza does not provide personally identifiable information to unaffiliated third parties for their use in marketing directly to you. Domino's Pizza may use unaffiliated companies to help it maintain and operate its Web Sites, Applications or for other reasons related to the operation of its business, and those companies may receive your personally identifiable information for that purpose. These companies may only use such personally identifiable information for the purpose or performing those functions and may not use it for any other purpose. Domino's may also disclose personally identifiable information about you in connection with legal requirements, such as in response to an authorized subpoena, governmental request or investigation, or as otherwise permitted by law.
+Domino's Pizza does not provide personally identifiable information to unaffiliated third parties for their use in marketing directly to you. Domino's Pizza may use unaffiliated companies to help it maintain and operate its Web Sites, Applications, payment processing, or for other reasons related to the operation of its business, and those companies may receive your personally identifiable information for that purpose. These companies may only use such personally identifiable information for the purpose or performing those functions and may not use it for any other purpose. Domino's may also disclose personally identifiable information about you in connection with legal requirements, such as in response to an authorized subpoena, governmental request or investigation, or as otherwise permitted by law.
 
 ## Children's Privacy
 
@@ -55,11 +56,13 @@ The Web Sites and Applications are directed toward and designed for use by perso
 
 ## "Cookies" and Advertisers
 
-The Domino's Pizza Web Sites' and Applications' server, or the servers of companies that are used to operate the Web Sites and Applications, may place a "cookie" on your computer in order to allow you to use the Web Sites and Applications and to personalize your experience. A "cookie" is a small piece of data that can be sent by a web server to your computer, which then may be stored by your browser on your computer's hard drive. Cookies allow us to recognize your computer while you are on our Web Sites and Applications and help customize your online experience and make it more convenient for you. Cookies are also useful in allowing more efficient log-in for users, tracking transaction histories and preserving information between sessions. The information collected from cookies may also be used to improve the functionality of the Web Sites and Applications.
+The Domino's Pizza Web Sites' and Applications' server, or the servers of companies that are used to operate the Web Sites and Applications, may place a "cookie" on your computer or store data in your computer browser in order to allow you to use the Web Sites and Applications and to personalize your experience. A "cookie" is a small piece of data that can be sent by a web server to your computer, which then may be stored by your browser on your computer's hard drive. Cookies and browser storage allow us to recognize your computer while you are on our Web Sites and Applications and help customize your online experience and make it more convenient for you. Cookies and browser storage are also useful in allowing more efficient log-in for users, tracking transaction histories and preserving information between sessions. The information collected from cookies and browser storage may also be used to improve the functionality of the Web Sites and Applications.
 
-Most web browser applications (such as Microsoft Internet Explorer and Netscape Navigator) have features that can notify you when you receive a cookie or prevent cookies from being sent. If you disable cookies, however, you may not be able to use certain personalized functions of the Web Sites.
+Most web browser applications (such as Microsoft Internet Explorer, Google Chrome, Firefox and Apple Safari) have features that can notify you when you receive a cookie or prevent cookies from being sent. If you disable cookies, however, you may not be able to use certain personalized functions of the Web Sites.
 
-### Retargeting
+### Retargeting and Online Behavioral Advertising
+
+Retargeting is a way to use non-personal information to remind you on other websites that you were browsing Domino’s Web Sites previously with the goal to bring you back to our site. Domino's may use the non-personal information collected on its Web Site for online behavioral advertising purposes including retargeting and to customize ads to you when you visit other (non-Domino's) sites. If you wish to opt-out of this process, click the OBA logo on our banner advertisements. You will be directed to an opt-out page where you'll be able to select your data preferences.
 
 Domino's has engaged third parties, including advertising providers such as DoubleClick, to collect certain anonymous information when you visit our web site. The information collected on Domino's behalf by these third parties does not contain your name, address, email address, or any other personally identifiable information.
 
@@ -92,7 +95,7 @@ The Domino's Pizza Web Sites and Applications may contain links to other web sit
 
 ## Security
 
-Domino's Pizza maintains physical, electronic, and procedural safeguards to help guard personally identifiable information. If transactions are offered on the Web Sites or Applications, transaction information is transmitted to and from Domino's in encrypted form using industry-standard Secure Sockets Layer (SSL) connections to help protect such information from interception. Domino's restricts authorized access to your personal information to those persons who have a legitimate purpose to know that information to provide products or services to you and those persons you have authorized to have access to such information. Please be aware, however, that any email or other transmission you send through the internet cannot be completely protected against unauthorized interception.
+Domino's Pizza maintains physical, electronic, and procedural safeguards to help guard personally identifiable information. If transactions are offered on the Web Sites or Applications, transaction information is transmitted to and from Domino's in encrypted form using industry-standard Secure Sockets Layer (SSL) connections to help protect such information from interception. Domino's restricts authorized access to your personal information to those persons who have a legitimate purpose to know that information to provide products or services to you and those persons you have authorized to have access to such information. Credit/debit card number(s) you elect to provide on file as part of your online profile for use when placing an order through the Domino's Pizza Web Sites or Applications will be tokenized and maintained in an encrypted format by a third party provider to further lower any risk. It is your responsibility to protect the integrity of your own account by keeping your account name and password safe. Please be aware, however, that any email or other transmission you send through the internet cannot be completely protected against unauthorized interception.
 
 ## Choice/Opt-Out
 
@@ -109,3 +112,43 @@ If you have questions about this privacy statement, the information practices of
 ## Gift Cards
 
 For terms of use and privacy policy information on Gift Cards, please click [here](https://web.archive.org/en/pages/content/content.jsp?page=giftCards).
+
+## Revision Date
+
+This policy was last updated February 8, 2013.
+
+***** New Password:
+
+**Note:** Use at least 8 characters.
+
+***** Password:
+
+**Note:** Use at least 8 characters.
+
+***** Yes. I would like to receive e-mail offers from Domino's Pizza 
+
+***** Yes. I agree to the [Terms of Use](https://web.archive.org/en/pages/content/content.jsp?page=terms) and I am 13 or older 
+
+House Apartment Business Campus/Base Hotel Dormitory Other
+
+Save this address to my Pizza Profile 
+
+***** Address Nickname:
+
+**Example:** My home, my studio, school, etc.
+
+***** Delivery Instructions:
+
+**Example:** Gate code, ring the door bell, etc.
+
+Make this address my primary address 
+
+Visa Mastercard AMEX Discover JCB Diner's Enroute
+
+Save my credit card for faster future ordering 
+
+***** Credit Card Nickname:
+
+**Example:** My Visa, Corporate Card, etc.
+
+Make this card my primary card 
