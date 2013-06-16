@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the dominos.com privacy policy that was archived on 2012-11-01.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121101062238id_/http%3A//order.dominos.com/en/pages/content/content.jsp%3Fpage%3Dprivacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the dominos.com privacy policy that was archived on 2013-06-16.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130616182011id_/http%3A//order.dominos.com/en/pages/content/content.jsp%3Fpage%3Dprivacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en"><head>
 		<meta charset="UTF-8">
@@ -9,36 +9,99 @@
 	   	
 		<title>Legal Privacy Policy - Domino's Pizza, Order Pizza Online for Delivery - Dominos.com</title>
 		
-		<link href="https://cache.dominos.com/nolo/us/en/011904/assets/build/images/img/favicon.ico" rel="shortcut icon" type="image/x-icon">
-		<link href="https://cache.dominos.com/nolo/us/en/011904/assets/build/images/img/favicon.png" rel="apple-touch-icon">
-		<link href="https://cache.dominos.com/nolo/us/en/011904/assets/build/images/img/favicon72.png" rel="apple-touch-icon" sizes="72x72">
-		<link href="https://cache.dominos.com/nolo/us/en/011904/assets/build/images/img/favicon114.png" rel="apple-touch-icon" sizes="114x114">
-		<link href="https://cache.dominos.com/nolo/us/en/011904/assets/build/images/img/favicon144.png" rel="apple-touch-icon" sizes="144x144">
+		<link href="https://cache.dominos.com/nolo/us/en/013116/assets/build/images/img/favicon.ico" rel="shortcut icon" type="image/x-icon">
+		<link href="https://cache.dominos.com/nolo/us/en/013116/assets/build/images/img/favicon.png" rel="apple-touch-icon">
+		<link href="https://cache.dominos.com/nolo/us/en/013116/assets/build/images/img/favicon72.png" rel="apple-touch-icon" sizes="72x72">
+		<link href="https://cache.dominos.com/nolo/us/en/013116/assets/build/images/img/favicon114.png" rel="apple-touch-icon" sizes="114x114">
+		<link href="https://cache.dominos.com/nolo/us/en/013116/assets/build/images/img/favicon144.png" rel="apple-touch-icon" sizes="144x144">
 	   	
 	   	
 	    <script type="text/javascript" charset="utf-8">
 	   		var envConfig = "nolo-us-prod";
-	    	var urlConfig = { root : "/en", localRoot : "/en", assets : "https://cache.dominos.com/nolo/us/en/011904/assets/build", localAssets : "https://cache.dominos.com/nolo/us/en/011904/assets/build" };
+	    	var urlConfig = { root : "/en", localRoot : "/en", assets : "https://cache.dominos.com/nolo/us/en/013116/assets/build", localAssets : "https://cache.dominos.com/nolo/us/en/013116/assets/build" };
 	    </script>
 	    
 	   	
-		<link rel="stylesheet" type="text/css" href="https://cache.dominos.com/nolo/us/en/011904/assets/build/css/screen.css" media="all">
+		<link rel="stylesheet" type="text/css" href="https://cache.dominos.com/nolo/us/en/013116/assets/build/css/screen.css" media="all">
 		
 		<!--[if IE ]>
-			<link rel="stylesheet" type="text/css" href="https://cache.dominos.com/nolo/us/en/011904/assets/build/css/screen-ie.css" media="all" />
+			<link rel="stylesheet" type="text/css" href="https://cache.dominos.com/nolo/us/en/013116/assets/build/css/screen-ie.css" media="all" />
 		<![endif]-->
 
 		
-		<script type="text/javascript" src="https://cache.dominos.com/nolo/us/en/011904/assets/build/js/core/jquery.js" charset="utf-8"></script>
-		<script type="text/javascript" src="https://cache.dominos.com/nolo/us/en/011904/assets/build/js/core/jquery.validate.min.js" charset="utf-8"></script>
-		<script type="text/javascript" src="https://cache.dominos.com/nolo/us/en/011904/assets/build/js/core/jquery.inputmask.min.js" charset="utf-8"></script>
-		<script type="text/javascript" src="https://cache.dominos.com/nolo/us/en/011904/assets/build/js/core/libraries.js" charset="utf-8"></script>
-		<script type="text/javascript" src="https://cache.dominos.com/nolo/us/en/011904/assets/build/js/site/site.js" charset="utf-8"></script>
+		<script type="text/javascript" src="https://cache.dominos.com/nolo/us/en/013116/assets/build/js/core/jquery.js" charset="utf-8"></script>
+		<script type="text/javascript" src="https://cache.dominos.com/nolo/us/en/013116/assets/build/js/core/jquery.validate.min.js" charset="utf-8"></script>
+		<script type="text/javascript" src="https://cache.dominos.com/nolo/us/en/013116/assets/build/js/core/jquery.inputmask.min.js" charset="utf-8"></script>
+		<script type="text/javascript" src="https://cache.dominos.com/nolo/us/en/013116/assets/build/js/core/modernizr.min.js" charset="utf-8"></script>
+		<script type="text/javascript" src="https://cache.dominos.com/nolo/us/en/013116/assets/build/js/core/libraries.js" charset="utf-8"></script>
+		<script type="text/javascript" src="https://cache.dominos.com/nolo/us/en/013116/assets/build/js/site/site.js" charset="utf-8"></script>
 		
 		<script>
 			// Needed for simplr hashchange, when explicitly setting document.domain
 			$.fn.hashchange.domain = document.domain;
 			$.fn.hashchange.src = urlConfig.assets + "/js/core/document-domain.html";
+		</script>
+		
+		<script>
+			/**********
+				#TODO: MOVE THIS TO HOME PAGE SCRIPTS AND USE jsDPZ.util.cookie
+			***********/
+			
+			// Code to redirect returning users
+			function getCookie(c_name)
+			{
+			    var i,x,y,ARRcookies=document.cookie.split(";");
+	
+			    for (i=0;i<ARRcookies.length;i++)
+			    {
+			        x=ARRcookies[i].substr(0,ARRcookies[i].indexOf("="));
+			        y=ARRcookies[i].substr(ARRcookies[i].indexOf("=")+1);
+			        x=x.replace(/^\s+|\s+$/g,"");
+			        if (x==c_name)
+			        {
+			            return unescape(y);
+			        }
+			     }
+			}
+			if( getCookie("returnUser") ){
+				switch(window.location.hostname){
+					case "localhost.dominos.com" :
+						break;
+					case "www-dev.dominos.com" :
+						window.location = "https://nolo-us-dev.dominos.com/en/";
+						break;
+					case "www-qa.dominos.com" :
+						window.location = "https://nolo-us-qa.dominos.com/en/";
+						break;
+					case "www-qa2.dominos.com" :
+						window.location = "https://nolo-us-qa2.dominos.com/en/";
+						break;
+					case "www-qa3.dominos.com" :
+						window.location = "https://nolo-us-qa3.dominos.com/en/";
+						break;
+					case "www-qa4.dominos.com" :
+						window.location = "https://nolo-us-qa4.dominos.com/en/";
+						break;
+					case "www-preprod.dominos.com" :
+						window.location = "https://nolo-us-preprod.dominos.com/en/";
+						break;
+					case "www-prod1.dominos.com" :
+						window.location = "https://nolo-us-prod1.dominos.com/en/";
+						break;
+					case "www-prod2.dominos.com" :
+						window.location = "https://nolo-us-prod2.dominos.com/en/";
+						break;
+					case "www-prod3.dominos.com" :
+						window.location = "https://nolo-us-prod3.dominos.com/en/";
+						break;
+					case "www-prod1.dominos.com" :
+						window.location = "https://nolo-us-prod1.dominos.com/en/";
+						break;
+					case "www.dominos.com" :
+						window.location = "https://order.dominos.com";
+						break;
+				}
+			}
 		</script>
 
 		
@@ -48,7 +111,6 @@
 				<meta name="robots" content="FOLLOW,INDEX, NOODP">
 				<script>
 					$(function(){
-						
 						var data = {
 							group : "",
 							subGroup : ""
@@ -85,12 +147,13 @@
 			
 		
 		
-		<script type="text/javascript" src="https://cache.dominos.com/nolo/us/en/011904/assets/build/js/external/config.js" charset="utf-8"></script>
+		<script type="text/javascript" src="https://cache.dominos.com/nolo/us/en/013116/assets/build/js/external/config.js" charset="utf-8"></script>
 
 		
 		<script type="text/javascript">
 			site.sessionTools.load();
 		</script>
+		
 	</head>
 	<body>
 		<div id="pageFrame">
@@ -115,11 +178,15 @@
 
 
 <div id="genericHeader">
-	<p class="minorNavigation">
-		<a href="/en/pages/tracker/">Tracker</a>
-		<span class="js-imLoggedIn none">&nbsp;|&nbsp;&nbsp;<a href="/en/pages/customer/#/customer/landing/">My Account</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="#/customer/logout/">Log Out</a></span>
-		<span class="js-imNotLoggedIn none">&nbsp;|&nbsp;&nbsp;<a href="/en/pages/customer/">Log In</a></span>
-	</p>
+	<div id="headerProfileContainer"></div>
+<div id="layout-headerProfile" class="layout-component none">
+	<div class="headerProfile">
+		<div class="js-changeLoginState none">Hi, <a href="/en/pages/customer/#/customer/profile/" class="welcomeUser js-userName">$[firstName]</a>. <a href="/en/pages/customer/#/customer/logout/" class="notUser js-notUser">Not $[firstName]? Sign Out</a></div>
+		<div class="js-changeLoginState"><a href="/en/pages/customer/#/customer/login/" class="signInLink js-login">Sign in</a> Don't have a Pizza Profile? <a href="/en/pages/customer/#/customer/profile/new" class="createAccount js-createProfile">Create one</a></div>
+	</div>
+	<div class="clr"><!--  --></div>
+</div>
+	
 	<div class="mainNavigation">
 		<span><a href="/en/pages/order/">Order</a></span>
 		<span><a href="/en/pages/order/menu.jsp">Menu</a></span>
@@ -130,7 +197,7 @@
 		<div class="clr"><!--  --></div>
 	</div>
 	<div class="subNavigation">
-		<div id="notch"><img src="https://cache.dominos.com/nolo/us/en/011904/assets/build/images/img/logoNotch.gif" alt="Domino's Pizza"></div>
+		<div id="notch"><img src="https://cache.dominos.com/nolo/us/en/013116/assets/build/images/img/logoNotch.gif" alt="Domino's Pizza"></div>
 		<a href="/en" class="logo">Domino's Pizza</a>
 		<div id="js-subNavigationPage">
 			
@@ -157,14 +224,14 @@
 	<p>Domino's Pizza has adopted this Privacy Policy in order to inform you of its policies with respect to information collected from the online and mobile web site (collectively, the "Web Sites") and our tablet and smartphone applications (the "Application" or collectively the "Applications"). Your use of the Web Sites or Applications constitutes your acceptance of this Privacy Policy and your consent to the practices it describes.</p>
 	
 	<h2>Personally Identifiable Information</h2>
-	<p>Personally Identifiable Information is any information that concerns you individually and would permit someone to contact you, for example, your name, address, telephone/fax number, email address or any information you submit to dominos.com or the Applications that identifies you individually.<br><br>The Web Sites or the Applications will not collect any personally identifiable information about you unless you provide it.<br><br>Therefore, if you do not want us to obtain any personally identifiable information about you, please do not submit it to us.<br><br>You can visit and browse the Domino's Pizza Web Sites and the Applications without revealing personally identifiable information about yourself. You may also choose to disclose personally identifiable information about yourself, which may be maintained as described below. The Web Sites and the Applications may collect personally identifiable information about you by methods such as the following:</p>
+	<p>Personally Identifiable Information is any information that concerns you individually and would permit someone to contact you, for example, your name, address, telephone/fax number, email address or any information you submit to dominos.com or the Applications that identifies you individually.<br><br>The Web Sites or the Applications will not collect any personally identifiable information about you unless you provide it.<br><br>Therefore, if you do not want us to obtain any personally identifiable information about you, please do not submit it to us.<br><br>You can visit and browse the Domino's Pizza Web Sites and the Applications without revealing personally identifiable information about yourself, but not all functions will be available to you. You may also choose to disclose personally identifiable information about yourself, which may be maintained as described below. The Web Sites and the Applications may collect personally identifiable information about you by methods such as the following:</p>
 	<ul>
-		<li>Registration Forms - If you are offered the opportunity to enter a promotion, to become a registered user of dominos.com, or to opt-in to receive Domino's Pizza information through another site or the Applications, you must apply by filling out the registration form on the site or the Application. This form requires certain personally identifiable information that may include, without limitation, your name, email address, postal address, telephone number, areas of interest, product usage, and/or a unique individual password.</li>
+		<li>Registration Forms - If you are offered the opportunity to enter a promotion, to become a registered user of dominos.com, or to opt-in to receive Domino's Pizza information through another site or the Applications, you must apply by filling out the registration form on the site or the Application. This form requires certain personally identifiable information that may include, without limitation, your name, email address, postal address, telephone number, areas of interest, product usage, credit/debit card number(s) with associated expiration date(s), CVV and billing zip code(s), and/or a unique individual password.</li>
 		<li>Transactions and Activity - If you become a registered user or if you conduct transactions through the Web Sites or an Application, we will collect information about the transactions you engage in while on the Web Sites or Application and your other activity on the site or Application. This information may include, without limitation, areas of the Web Sites or Application that you visit, transaction type, content that you view, download or submit, transaction amount, payment, and billing information as well as the nature, quantity and price of the goods or services you exchange and the individuals or entities with whom you communicate or transact business.</li>
 		<li>Email and other voluntary communications - You may also choose to communicate with us through email, via our Web Sites, via the Applications, by telephone, in writing, or through other means. We collect the information in these communications, and such information may be personally identifiable.</li>
 	</ul>
 	<h2>Non-Personally Identifiable Information</h2>
-	<p>When you visit the Domino's Pizza Web Sites and Applications, like when you visit most other web sites and applications, certain anonymous information about your visit is automatically logged, which may include information about the type of browser you use, the server name and IP address through which you access the internet (such as "aol.com" or "earthlink.net"), the date and time you access the site, the pages you access while at the Domino's Pizza Web Sites, and the internet address of the web sites, if any, from which you linked directly to the Domino's Pizza site or Application. This information is not personally identifiable.</p>
+	<p>When you visit the Domino's Pizza Web Sites and Applications, like when you visit most other web sites and applications, certain anonymous information about your visit is automatically logged, which may include information about the type of browser you use, the server name and IP address through which you access the internet (which identifies the company providing you internet access and general geographic information), the date and time you access the site, the pages you access while at the Domino's Pizza Web Sites, and the internet address of the web sites, if any, from which you linked directly to the Domino's Pizza site or Application. This information is not personally identifiable.</p>
 	
 	<h2>Information Use</h2>
 	<p>Domino's Pizza may use the personally identifiable information collected through its Web Sites or Applications primarily for such purposes as:</p>
@@ -176,19 +243,22 @@
 		<li>improving the Web Sites, including tailoring it to users' preferences;</li>
 		<li>providing users with product or service updates, promotional notices and offers, and other information about Domino's Pizza and its affiliates;</li>
 		<li>responding to your questions inquiries, comments and instructions;</li>
+		<li>protecting our systems from fraud and unlawful access;</li>
 		<li>maintaining the security and integrity of its systems.</li>
 	</ul>
 	<p>Domino's Pizza uses the anonymous browsing information collected automatically by its servers primarily to help it administer and improve its Web Sites and Applications. Domino's may also use aggregated anonymous information to provide information about its Web Sites and Applications to potential business partners and other unaffiliated entities. Again, this information is not personally identifiable.</p>
 	
 	<h2>Disclosure of Information</h2>
-	<p>Domino's Pizza does not provide personally identifiable information to unaffiliated third parties for their use in marketing directly to you. Domino's Pizza may use unaffiliated companies to help it maintain and operate its Web Sites, Applications or for other reasons related to the operation of its business, and those companies may receive your personally identifiable information for that purpose. These companies may only use such personally identifiable information for the purpose or performing those functions and may not use it for any other purpose. Domino's may also disclose personally identifiable information about you in connection with legal requirements, such as in response to an authorized subpoena, governmental request or investigation, or as otherwise permitted by law.</p>
+	<p>Domino's Pizza does not provide personally identifiable information to unaffiliated third parties for their use in marketing directly to you. Domino's Pizza may use unaffiliated companies to help it maintain and operate its Web Sites, Applications, payment processing, or for other reasons related to the operation of its business, and those companies may receive your personally identifiable information for that purpose. These companies may only use such personally identifiable information for the purpose or performing those functions and may not use it for any other purpose. Domino's may also disclose personally identifiable information about you in connection with legal requirements, such as in response to an authorized subpoena, governmental request or investigation, or as otherwise permitted by law.</p>
 	
 	<h2>Children's Privacy</h2>
 	<p>The Web Sites and Applications are directed toward and designed for use by persons aged 13 or older. Domino's Pizza will not approve applications of, or establish or maintain registrations for any child whom Domino's knows to be under the age of 13. Domino's Pizza does not solicit or knowingly collect personally identifiable information from children under the age of 13. If Domino's nevertheless discovers that it has received personally identifiable information from an individual who indicates that he or she is, or whom Domino's Pizza otherwise has reason to believe is, under the age of 13, Domino's will delete such information from its systems. Additionally, a child's parent or legal guardian may request that the child's information be corrected or deleted from our files by requesting this via our <a href="https://info.dominos.com/dominos_pizza/contact.nsf/frmContact?openform">Contact Us</a> page.</p>
 	
 	<h2>"Cookies" and Advertisers</h2>
-	<p>The Domino's Pizza Web Sites' and Applications' server, or the servers of companies that are used to operate the Web Sites and Applications, may place a "cookie" on your computer in order to allow you to use the Web Sites and Applications and to personalize your experience. A "cookie" is a small piece of data that can be sent by a web server to your computer, which then may be stored by your browser on your computer's hard drive. Cookies allow us to recognize your computer while you are on our Web Sites and Applications and help customize your online experience and make it more convenient for you. Cookies are also useful in allowing more efficient log-in for users, tracking transaction histories and preserving information between sessions. The information collected from cookies may also be used to improve the functionality of the Web Sites and Applications.<br><br>Most web browser applications (such as Microsoft Internet Explorer and Netscape Navigator) have features that can notify you when you receive a cookie or prevent cookies from being sent. If you disable cookies, however, you may not be able to use certain personalized functions of the Web Sites.</p>
-	<h3>Retargeting</h3>
+	<p>The Domino's Pizza Web Sites' and Applications' server, or the servers of companies that are used to operate the Web Sites and Applications, may place a "cookie" on your computer or store data in your computer browser in order to allow you to use the Web Sites and Applications and to personalize your experience. A "cookie" is a small piece of data that can be sent by a web server to your computer, which then may be stored by your browser on your computer's hard drive. Cookies and browser storage allow us to recognize your computer while you are on our Web Sites and Applications and help customize your online experience and make it more convenient for you. Cookies and browser storage are also useful in allowing more efficient log-in for users, tracking transaction histories and preserving information between sessions. The information collected from cookies and browser storage may also be used to improve the functionality of the Web Sites and Applications.</p>
+	<p>Most web browser applications (such as Microsoft Internet Explorer, Google Chrome, Firefox and Apple Safari) have features that can notify you when you receive a cookie or prevent cookies from being sent. If you disable cookies, however, you may not be able to use certain personalized functions of the Web Sites.</p>
+	<h3>Retargeting and Online Behavioral Advertising</h3>
+	<p>Retargeting is a way to use non-personal information to remind you on other websites that you were browsing Domino’s Web Sites previously with the goal to bring you back to our site.  Domino's may use the non-personal information collected on its Web Site for online behavioral advertising purposes including retargeting and to customize ads to you when you visit other (non-Domino's) sites. If you wish to opt-out of this process, click the OBA logo on our banner advertisements.  You will be directed to an opt-out page where you'll be able to select your data preferences.</p>
 	<p>Domino's has engaged third parties, including advertising providers such as DoubleClick, to collect certain anonymous information when you visit our web site.  The information collected on Domino's behalf by these third parties does not contain your name, address, email address, or any other personally identifiable information.</p>
 	<p>These companies typically use cookies, pixel tags / web beacons, and similar technologies to analyze your usage of our sites.  These third parties collect, and share with us, as we may request, non-personally identifiable information during your visits to this and other Web sites in order to provide advertisements about goods and services likely to be of greater interest to you, including such web site usage information about visits to our sites, measure and research the effectiveness of our advertisements, track page usage and paths followed during visits through our sites, help us serve relevant Internet banner advertisements on our sites and on other sites, and track use of our Internet banner advertisements and other links from our marketing partners' sites to our sites.  To see further information about these third party cookies on dominos.com, and opt out as you choose, see the descriptions and links below. To continue to accept cookies and browse normally on dominos.com, click <a href="http://www.dominos.com">here</a></p>
 	<p>Types of cookies and tags on our sites:</p>
@@ -208,7 +278,7 @@
 	<p>The Domino's Pizza Web Sites and Applications may contain links to other web sites not maintained or related to Domino's Pizza. These links are provided as a service to users and are not sponsored by or affiliated with the Web Sites, Applications, or Domino's Pizza. Domino's Pizza has not reviewed any or all of the sites hyper-linked to or from the Web Sites or Applications and is not responsible for the content or privacy practices of other web sites. The links are accessed at the user's own risk, and Domino's Pizza makes no representations or warranties about the content, completeness or accuracy of these links or the sites hyper-linked to the Web Sites or Applications. Web sites that are accessible by hyperlinks from the Domino's Pizza Web Sites or Applications may use cookies. Domino's Pizza encourages you to read the privacy statements provided by other web sites before you provide personally identifiable information to them. Domino's Pizza does not implicitly endorse third-party sites hyper-linked to the Web Sites or Applications.</p>
 	
 	<h2>Security</h2>
-	<p>Domino's Pizza maintains physical, electronic, and procedural safeguards to help guard personally identifiable information. If transactions are offered on the Web Sites or Applications, transaction information is transmitted to and from Domino's in encrypted form using industry-standard Secure Sockets Layer (SSL) connections to help protect such information from interception. Domino's restricts authorized access to your personal information to those persons who have a legitimate purpose to know that information to provide products or services to you and those persons you have authorized to have access to such information. Please be aware, however, that any email or other transmission you send through the internet cannot be completely protected against unauthorized interception.</p>
+	<p>Domino's Pizza maintains physical, electronic, and procedural safeguards to help guard personally identifiable information. If transactions are offered on the Web Sites or Applications, transaction information is transmitted to and from Domino's in encrypted form using industry-standard Secure Sockets Layer (SSL) connections to help protect such information from interception. Domino's restricts authorized access to your personal information to those persons who have a legitimate purpose to know that information to provide products or services to you and those persons you have authorized to have access to such information. Credit/debit card number(s) you elect to provide on file as part of your online profile for use when placing an order through the Domino's Pizza Web Sites or Applications will be tokenized and maintained in an encrypted format by a third party provider to further lower any risk. It is your responsibility to protect the integrity of your own account by keeping your account name and password safe. Please be aware, however, that any email or other transmission you send through the internet cannot be completely protected against unauthorized interception.</p>
 	
 	<h2>Choice/Opt-Out</h2>
 	<p>In order to provide service to you, we may send you communications related to your transactions, security or the administration of the Web Sites or Applications. From time to time, Domino's Pizza and its affiliates may also wish to send you other messages or updates about our Web Sites, Applications, Domino's Pizza, our affiliates, or their promotions and other activities. If you do not wish to receive non-transaction/security related communications from Domino's Pizza and its affiliates, please send an email containing your request via our <a href="https://info.dominos.com/dominos_pizza/contact.nsf/frmContact?openform">Contact Us</a> page.</p>
@@ -221,6 +291,9 @@
 	
 	<h2>Gift Cards</h2>
 	<p>For terms of use and privacy policy information on Gift Cards, please click <a href="/en/pages/content/content.jsp?page=giftCards">here</a>.</p> 
+	
+	<h2>Revision Date</h2>
+	<p>This policy was last updated February 8, 2013.</p> 
 </div></div>
 			</div>
 			<div id="pageFooter"><div id="genericFooter">
@@ -242,8 +315,6 @@
 			<li class="divider">/</li>
 			<li><a href="/en/pages/content/customer-service/faq.jsp">Customer Service</a></li>
 			<li class="divider">/</li>
-			<li><a href="http://more.dominos.com/" target="_blank">Domino's Blog</a></li>
-			<li class="divider">/</li>
 			<li><a href="http://dominosbiz.com/Biz-Public-EN/Biz+Footer/Business+Orders/" target="_blank">Large Business Orders</a></li>
 			<li class="divider">/</li>
 			<li><a href="http://www.dominos.com/about-pizza/">About Pizza</a></li>
@@ -253,10 +324,9 @@
 		<div class="legalStuff">
 			<span class="tag dominosColor1">Legal Stuff:</span>
 			<div>
-				<p class="bold">Any Delivery Charge is not a tip paid to your driver.  Please reward your driver for awesomeness. Our drivers carry less than $20.</p>
-				<p>Domino's pizza made with a Gluten Free Crust is prepared in a common kitchen with the risk of gluten exposure.  Therefore, Domino's DOES NOT recommend this pizza for customers with celiac disease. Customers with gluten sensitivities should exercise judgment in consuming this pizza.</p>
-				<p>Minimum purchase required for delivery. You must ask for this limited time offer. Prices, participation, delivery area and charges may vary. Returned checks, along with the state's maximum allowable returned check fee, may be electronically presented to your bank. ©2012 Domino's IP Holder LLC. Domino's®, Domino's Pizza® and the modular logo are registered trademarks of Domino's IP Holder LLC. "Coca-Cola" and the Contour Bottle design are registered trademarks of The Coca-Cola Company. The Ice Breakers® Mints trademark and trade dress are used under license.</p>
-				<p>Our Guarantee: If you are not completely satisfied with your Domino's <a class="noVisibleLink" href="http://pizza.dominos.com/ " target="_blank">Pizza</a> experience, we will make it right or refund your money.</p>
+				<p><span class="bold">Any Delivery Charge is not a tip paid to your driver. Please reward your driver for awesomeness. Our drivers carry less than $20.</span> You must ask for this limited time offer. Minimum purchase required for delivery. Delivery charge and tax may apply. Prices, participation, delivery area and charges may vary, including AK and HI. Returned checks, along with the state's maximum allowable returned check fee, may be electronically presented to your bank. ©2013 Dominos IP Holder LLC. Dominos®, Domino's Pizza® and the modular logo are trademarks of Domino's IP Holder LLC. "Coca-Cola" and the Contour Bottle design are registered trademarks of The Coca-Cola Company. The Ice Breakers® Mints trademark and trade dress are used under license.</p>
+				<p>Domino's pizza made with a Gluten Free Crust is prepared in a common kitchen with the risk of gluten exposure. Therefore, Domino's DOES NOT recommend this pizza for customers with celiac disease. Customers with gluten sensitivities should exercise judgment in consuming this pizza.</p>
+				<p>Our Guarantee: If you are not completely satisfied with your Domino's <a class="noVisibleLink" href="http://pizza.dominos.com/" target="_blank">Pizza</a> experience, we will make it right or refund your money.</p>
 			</div>
 		</div>
 	</div>
@@ -264,11 +334,14 @@
 		<div class="socialLinks">
 			<div class="facebookButton"><div class="fb-like" data-href="http://www.facebook.com/Dominos" data-send="false" data-layout="button_count" data-show-faces="false"></div></div>
             <div class="twitterButton"><a href="https://twitter.com/dominos" class="twitter-follow-button" data-show-count="false" data-show-screen-name="false" data-width="65px"></a></div>
-            <div class="googleButton"><div class="g-plusone" data-size="medium" data-annotation="none" data-href="https://plus.google.com/116105475887584179390"></div></div>
+            <div class="googleButton"><div class="g-plusone" data-size="medium" data-annotation="none" data-recommendations="false" data-href="https://plus.google.com/116105475887584179390"></div></div>
             <div class="clr"><!--  --></div>
 		</div>
 		<div id="promoLink">
-			<img alt="Open For Lunch" src="https://cache.dominos.com/nolo/us/en/011904/assets/build/images/img/footer-links/footerOpenLunch.gif">
+			<img alt="Open For Lunch" src="https://cache.dominos.com/nolo/us/en/013116/assets/build/images/img/footer-links/footerOpenLunch.gif">
+		</div>
+		<div id="promoLink">
+			<img alt="Delivering Dairy Goodness" src="https://cache.dominos.com/nolo/us/en/013116/assets/build/images/img/footer-links/footerDairyGoodness.jpg">
 		</div>
 	</div>
 	<div class="clr"><!--  --></div>
@@ -288,6 +361,19 @@
 <div id="layout-codeOverlay" class="layout-component none">
    	<h1 class="pageHeading $[codeClass]">Attention!</h1>
 	<p class="$[codeClass]">$[message]</p>
+</div>
+
+<div id="layout-confirmOverlay" class="layout-component none">
+   	<div id="confirmOverlay">
+		<h1 class="pageHeading informationText">Attention</h1>
+   		<p class="informationText">$[message]</p>
+   		<div class="buttons">
+   			<a class="imgButton imgButtonType2 js-closeButton" href="#"><span>Cancel</span></a>
+   			<a class="imgButton imgButtonType1Solid js-continue" href="#"><span>Confirm</span></a>
+   			<div class="clr"><!--  --></div>
+   		</div>
+   		<div class="clr"><!--  --></div>
+   	</div>
 </div>
 
 <div id="layout-visualPizzaOverlay" class="layout-component none">
@@ -311,6 +397,381 @@
 
 <div id="layout-informationNotification" class="layout-component none">
 	<p class="informationNotification informationText">$[text]</p>
+</div>
+
+<div id="layout-messageBox" class="layout-component none">
+	<section class="messageBox">
+		<h1>$[title]</h1>
+		<p>$[description]</p>
+	</section>
+</div>
+
+<div id="layout-pizzaProfileLoginOverlay" class="layout-component none">
+	<div class="loginHeader">
+		<h1 class="pageHeading">Sign in to my Pizza Profile</h1>
+	</div>
+	<form>
+		<div class="formArea horizontal">
+			$[profileFields]
+		</div>
+		<div class="formEntry actions js-formActions">
+			<div>
+				<button class="imgButton imgButtonType1Small js-loginSubmit" type="submit"><span>Sign In</span></button>
+				<a class="buttonType5 hint inline js-createProfile createProfileLink" href="/en/pages/customer/#/customer/profile/new">Create Profile</a>
+				<a class="buttonType5 hint inline js-toggleLogin js-resetPassword forgotPasswordLink" href="#">Forgot your password?</a>
+			</div>
+			<div class="none">
+				<button class="imgButton imgButtonType1Small" type="submit"><span>Reset Password</span></button>
+				<a class="buttonType5 hint inline js-toggleLogin fr" href="#">Back to Sign-in</a>
+			</div>
+		</div>
+	</form>
+</div>
+
+<div id="layout-customerProfileFields" class="layout-component none">
+	<div class="formEntry">
+		<label for="First_Name" class="entryLabel"><strong>*</strong>First Name:</label>
+		<div class="entryGroup">
+			<input type="text" id="First_Name" name="First_Name" maxlength="40" class="medium" value="$[firstName]">
+		</div>
+	</div>
+	<div class="formEntry">
+		<label for="Last_Name" class="entryLabel"><strong>*</strong>Last Name:</label>
+		<div class="entryGroup">
+			<input type="text" id="Last_Name" name="Last_Name" maxlength="40" class="medium" value="$[lastName]">
+		</div>
+	</div>
+	<div class="formEntry">
+		<label for="Email" class="entryLabel"><strong>*</strong>Email Address:</label>
+		<div class="entryGroup">
+			<input type="text" id="Email" name="Email" maxlength="100" class="medium js-email" value="$[email]">
+		</div>
+	</div>
+	<div class="formEntry">
+		<label for="Confirm_Email" class="entryLabel"><strong>*</strong>Confirm Email Address:</label>
+		<div class="entryGroup">
+			<input type="text" id="Confirm_Email" name="Confirm_Email" maxlength="100" class="medium" value="$[email]">
+		</div>
+	</div>
+	<div class="formEntry">
+		<label for="Phone" alt="required" class="entryLabel"><strong>*</strong>Primary Phone Number:</label>
+		<div class="entryGroup">
+			<input type="text" id="Phone" name="Phone" maxlength="15" placeholder="Phone" class="small js-phone" value="$[phone]">
+			<input type="text" id="Extension" name="Extension" maxlength="6" placeholder="Ext." class="mini js-extension" value="$[extension]">
+		</div>
+	</div>
+	<div class="formEntry">
+		<label for="Alt_Phone" class="entryLabel"><strong>*</strong>Alternate Phone Number:</label>
+		<div class="entryGroup">
+			<input type="text" id="Alt_Phone" name="Alt_Phone" maxlength="15" placeholder="Phone" class="small js-phone" value="$[altPhone]">
+			<input type="text" id="Alt_Extension" name="Alt_Extension" maxlength="6" placeholder="Ext." class="mini js-extension" value="$[altExtension]">
+		</div>
+	</div>
+	<div class="formEntry">
+		<label for="Callback_Phone" class="entryLabel"><strong>*</strong>Callback Phone #:</label>
+		<div class="entryGroup">
+			<input type="text" id="Callback_Phone" name="Callback_Phone" maxlength="15" placeholder="Phone" class="small js-phone" value="$[phone]">
+			<input type="text" id="Callback_Extension" name="Callback_Extension" maxlength="6" placeholder="Ext." class="mini js-extension" value="$[extension]">
+			<a class="hint helpIcon noText js-isContentPopup" href="/en/pages/content/content.jsp?page=callbackPhone">Why do we need this?</a>
+		</div>
+	</div>	
+	<div class="formEntry">
+		<label for="Password" class="entryLabel"><strong>*</strong>Password:</label>
+		<div class="entryGroup">
+			<input type="password" id="Password" name="Password" maxlength="40" class="medium js-password">
+		</div>
+	</div>	
+	<div class="formEntry">
+		<label for="Current_Password" class="entryLabel"><strong>*</strong>Current Password:</label>
+		<div class="entryGroup">
+			<input type="password" id="Current_Password" name="Current_Password" maxlength="40" class="medium">
+		</div>
+	</div>	
+	<div class="formEntry">
+		<label for="New_Password" class="entryLabel"><strong>*</strong>New Password:</label>
+		<div class="entryGroup">
+			<input type="password" id="New_Password" name="New_Password" maxlength="40" class="medium">
+			<div class="hint"><strong class="bold">Note:</strong> Use at least 8 characters.</div>
+		</div>
+	</div>
+	<div class="formEntry">
+		<label for="Create_Password" class="entryLabel"><strong>*</strong>Password:</label>
+		<div class="entryGroup">
+			<input type="password" id="Create_Password" name="Create_Password" maxlength="40" class="medium">
+			<div class="hint"><strong class="bold">Note:</strong> Use at least 8 characters.</div>
+		</div>
+	</div>
+	<div class="formEntry">
+		<label for="Confirm_Password" class="entryLabel"><strong>*</strong>Confirm Password:</label>
+		<div class="entryGroup">
+			<input type="password" id="Confirm_Password" name="Confirm_Password" maxlength="40" class="medium">
+		</div>
+	</div>
+	<div class="formEntry">
+		<label for="Birth_Month" class="entryLabel birthDateLabel">Birthday:</label>
+		<div class="entryGroup">
+			<select id="Birth_Month" name="Birth_Month" class="js-birthMonth birthMonthSelect">
+				<option value=" ">month</option>
+				<option value="01">January</option>
+				<option value="02">February</option>
+				<option value="03">March</option>
+				<option value="04">April</option>
+				<option value="05">May</option>
+				<option value="06">June</option>
+				<option value="07">July</option>
+				<option value="08">August</option>
+				<option value="09">September</option>
+				<option value="10">October</option>
+				<option value="11">November</option>
+				<option value="12">December</option>
+			</select>
+			<select id="Birth_Day" name="Birth_Day" class="js-birthDay birthDaySelect">
+			</select>
+		</div>
+	</div>
+	<div class="formEntry entryGroup leftAlign">
+		<label for="Email_Opt_In" class="entryToggle">
+			<input type="checkbox" class="checkbox js-emailOptIn" id="Email_Opt_In" name="Email_Opt_In">
+			<strong>*</strong>Yes. I would like to receive e-mail offers from Domino's Pizza
+		</label>
+	</div>
+	<div class="formEntry entryGroup leftAlign">
+		<label for="Agree_To_Terms_Of_Use" class="entryToggle">
+			<input type="checkbox" class="checkbox js-agreeToTerms" id="Agree_To_Terms_Of_Use" name="Agree_To_Terms_Of_Use">
+			<strong>*</strong>Yes. I agree to the <a class="js-isContentPopup" href="/en/pages/content/content.jsp?page=terms">Terms of Use</a> and I am 13 or older
+		</label>
+	</div>
+</div>
+
+<div id="layout-customerAddressSaved" class="layout-component none">
+	<div class="savedEntry">
+		<div class="controls">
+			<a class="buttonType4 qa-ClEdit js-editAddress" href="#" data-id="$[id]"><span>Edit</span></a>
+			<a class="buttonType3 qa-ClRemove js-deleteAddress" href="#" data-id="$[id]"><span>Remove</span></a>
+		</div>
+		<label class="entryToggle">
+			<input type="radio" name="Address_Selection" class="selection js-addressSelection" value="$[addressName]">
+			<div class="entryName">$[addressName]
+				<div class="primary">(Primary Address)</div>
+			</div>
+		</label>
+		<div class="addressType iconsTemplate">
+			<label class="squareIcon $[addressType]">$[addressType]</label>
+		</div>
+		<div class="description">
+			<p>$[locationName]</p>
+			<p>$[street] $[addressLine2]</p>
+			<p>$[city], $[region] $[postalCode]</p>
+			<p class="deliveryInstructions none">$[deliveryInstructions]</p>
+		</div>
+	</div>
+</div>
+
+<div id="layout-customerAddressFields" class="layout-component none">
+	<div class="formEntry">
+		<div class="entryGroup addressType iconsTemplate js-changeAddressType">
+			<label class="squareIcon House"><input type="radio" name="Address_Type" value="House">House</label>
+			<label class="squareIcon Apartment"><input type="radio" name="Address_Type" value="Apartment">Apartment</label>
+			<label class="squareIcon Business"><input type="radio" name="Address_Type" value="Business">Business</label>
+			<label class="squareIcon Campus"><input type="radio" name="Address_Type" value="Campus">Campus/Base</label>
+			<label class="squareIcon Hotel"><input type="radio" name="Address_Type" value="Hotel">Hotel</label>
+			<label class="squareIcon Dormitory"><input type="radio" name="Address_Type" value="Dormitory">Dormitory</label>
+			<label class="squareIcon Other"><input type="radio" name="Address_Type" value="Other">Other</label>
+		</div>
+	</div>
+	<div class="formEntry"> 
+		<label for="Location_Name" class="entryLabel"><strong>*</strong><span>Location Name:</span></label>
+		<div class="entryGroup">
+			<input type="text" id="Location_Name" name="Location_Name" maxlength="40" value="$[locationName]" class="medium"> 
+		</div>
+	</div>
+	<div class="formEntry"> 
+		<label for="Street" class="entryLabel"><strong>*</strong>Street Address:</label>
+		<div class="entryGroup">
+			<input type="text" id="Street" name="Street" maxlength="40" value="$[street]" class="medium"> 
+		</div>
+	</div>
+	<div class="formEntry"> 
+		<label for="Address_Line_2" class="entryLabel"><strong>*</strong><span>Suite/Apt #:</span></label>
+		<div class="entryGroup">
+			<input type="text" id="Address_Line_2" name="Address_Line_2" maxlength="40" value="$[addressLine2]" class="medium">
+		</div>
+	</div>
+	<div class="formEntry"> 
+		<label for="City" class="entryLabel"><strong>*</strong>City:</label>
+		<div class="entryGroup">
+			<input type="text" id="City" name="City" maxlength="40" value="$[city]" class="medium js-city"> 
+		</div>
+	</div>
+	<div class="formEntry stateZip"> 
+		<label for="Region" class="entryLabel"><strong>*</strong>State:</label>
+		<div class="entryGroup">
+			<select id="Region" name="Region" class="mini js-region">
+				<option value="">Select</option>
+				<option value="AK">AK</option><option value="AL">AL</option><option value="AR">AR</option><option value="AZ">AZ</option> 
+				<option value="CA">CA</option><option value="CO">CO</option><option value="CT">CT</option> 
+				<option value="DC">DC</option><option value="DE">DE</option> 
+				<option value="FL">FL</option> 
+				<option value="GA">GA</option> 
+				<option value="HI">HI</option> 
+				<option value="IA">IA</option><option value="ID">ID</option><option value="IL">IL</option><option value="IN">IN</option> 
+				<option value="KS">KS</option><option value="KY">KY</option> 
+				<option value="LA">LA</option> 
+				<option value="MA">MA</option><option value="MD">MD</option><option value="ME">ME</option><option value="MI">MI</option><option value="MN">MN</option><option value="MO">MO</option><option value="MS">MS</option><option value="MT">MT</option> 
+				<option value="NC">NC</option><option value="ND">ND</option><option value="NE">NE</option><option value="NH">NH</option><option value="NJ">NJ</option><option value="NM">NM</option><option value="NV">NV</option><option value="NY">NY</option>          
+				<option value="OH">OH</option><option value="OK">OK</option><option value="OR">OR</option> 
+				<option value="PA">PA</option> 
+				<option value="RI">RI</option> 
+				<option value="SC">SC</option><option value="SD">SD</option> 
+				<option value="TN">TN</option><option value="TX">TX</option> 
+				<option value="UT">UT</option> 
+				<option value="VT">VT</option><option value="VA">VA</option> 
+				<option value="WA">WA</option><option value="WV">WV</option><option value="WI">WI</option><option value="WY">WY</option>
+			</select>
+			<label for="Postal_Code" class="mini"><strong>*</strong>Zip Code:</label> 
+			<input type="text" id="Postal_Code" name="Postal_Code" maxlength="10" class="mini js-postalCode" value="$[postalCode]">
+		</div>
+	</div>	
+	<div class="formEntry"> 
+		<label for="Region_Campus" class="entryLabel"><strong>*</strong>State:</label>
+		<div class="entryGroup">
+			<select id="Region_Campus" name="Region_Campus" class="medium js-campusRegion">
+				<option value="">- select a state -</option>
+			</select>
+		</div>
+	</div>
+	<div class="formEntry"> 
+		<label for="Campus" class="entryLabel"><strong>*</strong>Campus/Base:</label>
+		<div class="entryGroup">
+			<select id="Campus" name="Campus" class="medium js-campusCampus"> 
+				<option value="">- select a school/campus/base -</option> 
+			</select> 
+		</div>
+	</div>
+	<div class="formEntry"> 
+		<label for="Dorm" class="entryLabel"><strong>*</strong>Dorm/Building:</label>
+		<div class="entryGroup">
+			<select id="Dorm" name="Dorm" class="medium js-campusDorm"> 
+				<option value="">- select a building -</option> 
+			</select> 
+		</div>
+	</div>
+	<div class="formEntry"> 
+		<label for="Room_Number" class="entryLabel"><strong>*</strong>Room #:</label>
+		<div class="entryGroup">
+			<input type="text" id="Room_Number" name="Room_Number" maxlength="40" value="$[addressLine2]" class="mini"> 
+		</div>
+	</div>
+	<div class="formEntry entryGroup js-saveAddressToProfile"> 
+		<label for="Save_Address" class="entryToggle">
+			<input type="checkbox" class="checkbox js-saveToProfile" id="Save_Address" name="Save_Address">
+			Save this address to my Pizza Profile
+		</label>
+	</div>
+	<div class="formEntry">
+		<label for="Address_Name" class="entryLabel"><strong>*</strong><span>Address Nickname:</span></label>
+		<div class="entryGroup">
+			<input type="text" id="Address_Name" name="Address_Name" maxlength="20" value="$[addressName]" class="medium">
+			<div class="hint"><strong class="bold">Example:</strong> My home, my studio, school, etc.</div>
+		</div>
+	</div>
+	<div class="formEntry"> 
+		<label for="Delivery_Instructions" class="entryLabel"><strong>*</strong><span>Delivery Instructions:</span></label>
+		<div class="entryGroup">
+			<input type="text" id="Delivery_Instructions" name="Delivery_Instructions" maxlength="40" value="$[deliveryInstructions]" class="medium"> 
+			<div class="hint"><strong class="bold">Example:</strong> Gate code, ring the door bell, etc.</div>
+		</div>
+	</div> 
+	<div class="formEntry entryGroup"> 
+		<label for="Is_Default" class="entryToggle optional">
+			<input type="checkbox" class="checkbox" id="Is_Default" name="Is_Default">
+			Make this address my primary address
+		</label>
+	</div>
+	
+</div>
+
+<div id="layout-customerCreditCardFields" class="layout-component none">
+	<div class="formEntry">
+		<div class="entryGroup cardType iconsTemplate">
+			<input type="hidden" id="Credit_Card_Type" name="Credit_Card_Type" class="js-creditCardType">
+			<label class="squareIcon VISA">Visa</label>
+			<label class="squareIcon MASTERCARD">Mastercard</label>
+			<label class="squareIcon AMEX">AMEX</label>
+			<label class="squareIcon DISCOVER">Discover</label>
+			<label class="squareIcon JCB">JCB</label>
+			<label class="squareIcon DINERS">Diner's</label>
+			<label class="squareIcon ENROUTE">Enroute</label>
+		</div>
+	</div>
+	<div class="formEntry"> 
+		<label for="Credit_Card_Number" class="entryLabel"><strong>*</strong><span>Credit Card Number:</span></label>
+		<div class="entryGroup">
+			<input type="text" id="Credit_Card_Number" name="Credit_Card_Number" value="$[creditCardNumber]" class="medium js-creditCardNumber" autocomplete="off"> 
+		</div>
+	</div>
+	<div class="formEntry">
+		<label for="Expiration_Month" class="entryLabel"><strong>*</strong>Expiration Date:</label>
+		<div class="entryGroup">
+			<select id="Expiration_Month" name="Expiration_Month" class="mini js-expirationMonth">
+				<option value=" ">month</option>
+				<option value="1">01</option>
+				<option value="2">02</option>
+				<option value="3">03</option>
+				<option value="4">04</option>
+				<option value="5">05</option>
+				<option value="6">06</option>
+				<option value="7">07</option>
+				<option value="8">08</option>
+				<option value="9">09</option>
+				<option value="10">10</option>
+				<option value="11">11</option>
+				<option value="12">12</option>
+			</select>
+			<select id="Expiration_Year" name="Expiration_Year" class="mini js-expirationYear">
+				<option value=" ">year</option>
+			</select>
+		</div>
+	</div>
+	<div class="formEntry"> 
+		<label for="Credit_Card_Security_Code" class="entryLabel"><strong>*</strong><span>Security Code:</span></label>
+		<div class="entryGroup">
+			<input type="text" id="Credit_Card_Security_Code" name="Credit_Card_Security_Code" value="$[securityCode]" class="mini js-securityCode" autocomplete="off">
+			<a class="hint helpIcon noText js-isContentPopup" href="/en/pages/content/content.jsp?page=securityCode">?</a>
+		</div>
+	</div>
+	<div class="formEntry"> 
+		<label for="Billing_Postal_Code" class="entryLabel"><strong>*</strong>Billing Zip Code:</label>
+		<div class="entryGroup">
+			<input type="text" id="Billing_Postal_Code" name="Billing_Postal_Code" maxlength="10" class="mini js-billingPostalCode" value="$[billingPostalCode]" autocomplete="off">
+			<a class="hint helpIcon noText js-isContentPopup" href="/en/pages/content/content.jsp?page=zipCode">?</a>
+		</div>
+	</div>	
+	<div class="formEntry entryGroup"> 
+		<label for="Save_Credit_Card" class="entryToggle noMargin">
+			<input type="checkbox" class="checkbox js-saveToProfile" id="Save_Credit_Card" name="Save_Credit_Card">
+			Save my credit card for faster future ordering
+		</label>
+	</div>
+	<div class="formEntry">
+		<label for="Credit_Card_Nickname" class="entryLabel"><strong>*</strong><span>Credit Card Nickname:</span></label>
+		<div class="entryGroup">
+			<input type="text" id="Credit_Card_Nickname" name="Credit_Card_Nickname" maxlength="20" value="$[creditCardNickname]" class="medium">
+			<div class="hint"><strong class="bold">Example:</strong> My Visa, Corporate Card, etc.</div>
+		</div>
+	</div>
+	<div class="formEntry entryGroup"> 
+		<label for="Is_Default_CC" class="entryToggle optional">
+			<input type="checkbox" class="checkbox" id="Is_Default_CC" name="Is_Default_CC">
+			Make this card my primary card
+		</label>
+	</div>
+</div>
+
+<div id="layout-trackerTile" class="layout-component none">
+	<a class="none tile" href="$[tileLink]" target="_blank" data-promo="$[tilePromoName]">
+		$[tileImage]
+	</a>
 </div>
 
 <!-- Used for display -->
@@ -364,6 +825,9 @@
 	<li id="fieldError-max">Please enter a value less than or equal to {0}.</li>
 	<li id="fieldError-min">Please enter a value greater than or equal to {0}.</li>
 	<li id="fieldError-phone">Please enter a valid phone number.</li>
+	<li id="fieldError-postalcode">Please enter a valid postal code.</li>
+	<li id="fieldError-uniqueAddress">That name is in use.</li>
+	<li id="fieldError-uniqueCard">That name is in use.</li>
 </ul>
 
 <ul class="codes-template none">
@@ -393,9 +857,10 @@
 	<li id="code-eGenericPhoneNumber">Phone Number is not valid.</li>
 	<li id="code-ePostalCode">$[label] is not a Postal Code.</li>
 	<li id="code-eVisa">$[label] is not a valid VISA number.</li>
-	<li id="code-powerCustomer">We could not locate an account with that e-mail and password combination. Please make sure you are using the e-mail address associated with your Domino's account.</li>
+	<li id="code-powerCustomer">We could not locate a Pizza Profile with that e-mail and password combination. Please make sure you are using the e-mail address associated with your Domino's Pizza Profile.</li>
 	<li id="code-powerCustomerGenericError">We're sorry.  We could not save your account at this time.  Please try again later.</li>
 	<li id="code-powerCustomerEmailUsed">Failed to save your account. This email address is already registered.</li>
+	<li id="code-powerCustomerMaxCreditCards">We're sorry.  You've reached the limit on the number of credit cards you can save to your account at a time.</li>
 	<li id="code-ePowerCommunication">We're sorry, there seems to be a technical problem.  Please try again.</li>
 	<li id="code-eOrderMinimumDeliveryFee">Your order does not currently meet the minimum delivery amount of $[label] for this store ( <a href="/en/pages/order/#/section/Food/category/AllEntrees/">Change Order</a> ).</li>
 	<li id="code-eOrderDeliveryUnavailable">Delivery is not available for your current location ( <a href="/en/pages/order/#/locations/search/">Change Location</a> ).</li>
@@ -403,14 +868,17 @@
 	<li id="code-eCreditCardNumber">Credit Card Number is not valid.</li>
 	<li id="code-eOrderDateTimeInvalid">Order Date/Time is Invalid. Please choose a future Date/Time.</li>
 	<li id="code-sQtyReducedMax">You exceeded the maximum quantity allowed for your selection.  We have set your selection to the max quantity allowed.</li>
-	<li id="code-eCouponInvalid">Sorry, invalid coupon/promotion code.</li>
-	<li id="code-eCouponServiceMethod">Sorry, the promotion/coupon code you tried to enter is invalid for the service method of your current order. Would you like to change your service method? <div class="buttons fr"><a class="imgButton imgButtonType2 js-closeButton" href="#"><span>No Thanks</span></a><a class="imgButton imgButtonType1Solid js-closeButton" href="$[label]" id="changeServiceAddCoupon"><span>Add Coupon</span></a><div class="clr"><!--  --></div></div><div class="clr"><!--  --></div></li>
+	<li id="code-eCouponInvalid">Sorry, invalid coupon/promotion code.  Codes must be entered as they appear, including dashes and special characters.</li>
+	<li id="code-eCouponServiceMethod">The offer you selected is valid for %@ orders only, however your order is currently set for %@.  Would you like to change your order to %@, or do you want to remove the offer from your cart? <div class="buttons fr"><a class="imgButton imgButtonType2 js-closeButton" href="#"><span>Remove Offer</span></a><a class="imgButton imgButtonType1Solid js-closeButton" href="$[label]" id="changeServiceAddCoupon"><span>Order %@</span></a><div class="clr"><!--  --></div></div><div class="clr"><!--  --></div></li>
 	<li id="code-eCouponDate">Sorry, the promotion/coupon code you tried to enter is invalid for the date of your current order.</li>
 	<li id="code-eCouponDay">Sorry, the promotion/coupon code you tried to enter is invalid for the day of week of your current order.</li>
 	<li id="code-eCouponTime">Sorry, the promotion/coupon code you tried to enter is invalid for the time of day of your current order.</li>
 	<li id="code-eCouponDuplicate">Sorry, the promotion/coupon code you entered is only allowed to be used 1 time on your current order.</li>
 	<li id="code-eCouponUsageCountViolation">The deal you’ve selected has reached its usage limit and is no longer valid. This deal will be removed from your order.</li>
-	<li id="code-eCouponServiceMethodChanged">One or more of the coupon/promotion codes you have applied is not valid for your new service method. Do you want to continue and have those deals removed from your order?<div class="buttons fr"><a class="imgButton imgButtonType2 js-closeButton" href="#"><span>No Thanks</span></a><a class="imgButton imgButtonType1Solid js-continueButton" href="#"><span>Continue</span></a><div class="clr"><!--  --></div></div><div class="clr"><!--  --></div></li>
+	<li id="code-eCouponServiceMethodChanged">You have a coupon in your cart that is for %@ orders only. If you change your order to %@, we will automatically remove this coupon from your cart.  Would you like to change your order to %@ and remove the coupon, or would you rather order %@ and keep the coupon in your cart?<div class="buttons fr"><a class="imgButton imgButtonType1Solid js-continueButton" href="#"><span>Order %@</span></a><a class="imgButton imgButtonType2 js-closeButton" href="#"><span>Order %@</span></a><div class="clr"><!--  --></div></div><div class="clr"><!--  --></div></li>
+	<li id="code-eCouponBelowMinimumOrderAmount">Minimum purchase of $$[label] (before tax, delivery charges and gratuities) required when redeeming Domino's Dollars. Please add more to your order OR continue to checkout without using Domino's Dollars.</li>
+	<li id="code-eCouponsNotAvailable">We're sorry, there are no available coupons for this store at this time.</li>
+	<li id="code-eMinSauceQty">Sorry, but you've must choose at least one sauce for your $[label].</li>
 	<li id="code-eMaxSauceQty">Sorry, but you've exceeded the sauce limit for your $[label].</li>
 	<li id="code-eMaxToppingsQty">Sorry, but you've exceeded the topping limit for your $[label].</li>
 	<li id="code-eMaxPizzaToppingsQty">Sorry, but you've exceeded the topping limit for the $[label] portion of your pizza.</li>
@@ -426,16 +894,27 @@
 	<li id="code-iStoreClosingWarning">Your store closes at $[label]. Don't worry, if you place your delivery order by $[label] you will still get it delivered.</li>
 	<li id="code-eCreditExpirationDateNotFuture">Your Expiration Date must be in the future.</li>
 	<li id="code-eCreditExpirationDateEmpty">Your Expiration Date is empty.</li>
-	<li id="code-eGenericPointOfServiceError">Sorry, something has gone wrong. Just this once, we encourage you to use the phone. Please call your store at $[label]. <br><br> Ok, enough apologizing, <a href="/en">now take me to the homepage</a>.</li>
 	<li id="code-eTrackerFeedbackWait">Please answer after receiving your order.</li>
 	<li id="code-eTrackerFeedbackNoText">Please enter a valid comment for submission.</li>
 	<li id="code-eTrackerShoutoutChoice">Oops, you forgot to select a note of encouragement.</li>
+	<li id="code-eGenericPointOfServiceError">We are sorry but an error has occurred. Please try again momentarily. If errors persist, contact the store at $[label].</li>
+	<li id="code-eGenericCreditCardMessage">We are sorry but we are unable to process your payment. Please verify the information and try again or use a different payment type. If errors persist, contact the store at $[label].</li>
 	<li id="code-eHalfCheesePizza">You've selected to have cheese on only a portion of your pizza. Although you can't see it on your virtual pizza now, we'll keep the cheese to that portion, leaving the rest cheese-free.</li>
 	<li id="code-eSidesError">Wow, it looks like you are ordering a lot of sides. For an order this big, we want to make sure we get it right. Please call the store to complete this order.</li>
 	<li id="code-eRoutingMessage">Please enter your address and continue with your order.<div class="buttons fr"><a class="imgButton imgButtonType1Solid js-closeButton" href="#"><span>Continue</span></a></div><div class="clr"><!--  --></div></li>
 	<li id="code-eDownloadFlash">For the hottest Dominos.com experience, you need to install <a href="http://get.adobe.com/flashplayer/" target="_blank">Adobe Flash Player</a>.<div class="buttons fr"><a class="imgButton imgButtonType1Solid js-closeButton" href="#"><span>Continue</span></a></div><div class="clr"><!--  --></div></li>
+	<li id="code-eMissingStreetNumberAndName">Oops, looks like your street number or name is missing. Please enter this information so we can fulfill your order.</li>
 	<li id="code-iCarryoutStoreSubstitute">It looks like you have selected carryout.  We want to make sure you have the correct address:<br>$[label]</li>
+	<li id="code-iForgotPasswordSuccess">An email has been sent to <span class="buttonType4">$[label]</span>. Please follow the instructions to change your password.</li>
+	<li id="code-eResetPasswordExpired">Your password change link has been used or expired. Please request a new password using the "Forgot Your Password" link.</li>
+	<li id="code-iResetPasswordSuccess">Your password has been updated! Please sign in using your new password.</li>			
 	<li id="code-iNewDogEar">New</li>
+	<li id="code-confirmPrimaryAddressChange">Do you want to make this your primary address?</li>
+	<li id="code-confirmAddressDelete">Are you sure want to delete this address?</li>
+	<li id="code-confirmPrimaryCardChange">Do you want to make this your primary card?</li>
+	<li id="code-confirmCardDelete">Are you sure want to delete this card?</li>
+	<li id="code-confirmLeaveWhileEditing">You are currently editing your Pizza Profile. If you leave this page, unsaved progress will be lost. Are you sure you want to continue?</li>
+	<li id="code-productNotInStore">We're sorry, the store you have chosen does not carry this product.</li>
 </ul>
 
 <ul class="labels-template none">
@@ -479,11 +958,28 @@
 	<li id="label-Suite/Apt#">Suite/Apt #:</li>
 	<li id="label-Room#">Room #:</li>
 	<li id="label-Unit#">Unit #:</li>
+	<li id="label-Carryout">Carryout</li>
+	<li id="label-Delivery">Delivery</li>
 </ul>
 
 <ul class="title-template none">
 	<li id="title-confirmation">Order Confirmation</li>
 </ul>
+
+<ul class="message-template none">
+	<li id="message-DominosDollars">
+		<p data-role="title">Get $5 in Domino's Dollars™ towards your next online order</p>
+		<p data-role="titleConfirmation">You have $5 in Domino's Dollars™ to use towards your next online order within 10 days of receiving them</p>
+		<p data-role="message">Once you complete your order for two or more medium two-topping pizzas, we'll email you the code for $5 in Domino's Dollars within 24-48 hours. Domino's Dollars need to be used towards an online order within 10 days of receiving them.</p>
+		<p data-role="messageConfirmation">Upon confirming the successful completion of your order for two or more medium two-topping pizzas, we'll email you the code for $5 in Domino's Dollars within 24 - 48 hours.</p>
+		<p data-role="messageEmail">Once you've completed your order, we'll send the code for your $5 in Domino's Dollars™ to the email address entered here within 24-48 hours. The code is valid for use on online orders within 10 days of receiving it.</p>
+	</li>
+	<li id="message-MCR">
+		<p data-role="titleConfirmation">Thanks for Grabbing a Coca-Cola product.</p>
+		<p data-role="messageConfirmation">Upon confirming the successful completion of your order containing a Coca-Cola product, we'll e-mail you a code for 10 BONUS My Coke Rewards® points within 24-48 hours.</p>
+	</li>
+</ul>
+	
 	
 
 	
