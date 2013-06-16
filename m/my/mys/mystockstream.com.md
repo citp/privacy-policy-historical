@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the mystockstream.com privacy policy that was archived on 2012-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121201062851id_/http%3A//mystockstream.com/pg/expages/read/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mystockstream.com privacy policy that was archived on 2013-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130616101610id_/http%3A//mystockstream.com/anypage/privacy) for the most accurate reproduction.*
 
-# MyStockStream.com
+# MyStockStream.com: Privacy
+
+## Privacy
 
 Stockstream Financial Advisory Services LLP (henceforth referred to as Stockstream LLP) and mystockstream.com is committed to protecting your personal information and privacy. The clauses listed in this statement apply to all current, former, registered or unregistered users of the website. The clauses listed in this section are subject to changes from time to time without notice. It is the responsibility of the user to regularly visit this section to review the updated Privacy Policy.
 
