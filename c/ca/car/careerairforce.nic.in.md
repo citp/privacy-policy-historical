@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the careerairforce.nic.in privacy policy that was archived on 2012-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121214232141id_/http%3A//careerairforce.nic.in/index1.asp%3Flinkid%3D13%26lid%3D18%26lang%3D1) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the careerairforce.nic.in privacy policy that was archived on 2013-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130616065338id_/http%3A//careerairforce.nic.in/index1.asp%3Flinkid%3D13%26lid%3D18%26lang%3D1) for the most accurate reproduction.*
 
 # Private Policy - Career Air Force-India
 
