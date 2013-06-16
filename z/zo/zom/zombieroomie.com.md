@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the zombieroomie.com privacy policy that was archived on 2012-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121216124353id_/http%3A//www.zombieroomie.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zombieroomie.com privacy policy that was archived on 2013-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130616101926id_/http%3A//www.zombieroomie.com/privacypolicy) for the most accurate reproduction.*
 
 # Zombie Roomie - Privacy Policy
 
@@ -16,6 +16,6 @@ When your browser requests a page that displays advertising from one of the Adve
 
 **Advertising data**
 
-_Zombie Roomie_ has partnered with third-party advertisers to deliver ads (contextual and non-) that may be tailored to the visitor using information gathered by the code provided by these advertisers. Their privacy policies can be found at the following URLs: [Scribol](http://scribol.com/privacy-policy), [Technorati Media](http://technorati.com/privacy-policy/), and [Project Wonderful](http://www.projectwonderful.com/tos.php).
+_Zombie Roomie_ has partnered with third-party advertisers to deliver ads (contextual and non-) that may be tailored to the visitor using information gathered by the code provided by these advertisers. Their privacy policies can be found at the following URLs: [Scribol](http://scribol.com/privacy-policy) and [Project Wonderful](http://www.projectwonderful.com/tos.php).
 
 If you have any questions or concerns, please contact me via [e-mail](mailto:john@zombieroomie.com).
