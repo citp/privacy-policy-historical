@@ -1,6 +1,11 @@
-> *The following text is extracted and transformed from the momentive.com privacy policy that was archived on 2012-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121214073854id_/http%3A//www.momentive.com/about_us.aspx%3Fid%3D302) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the momentive.com privacy policy that was archived on 2013-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130616235031id_/http%3A//www.momentive.com/about_us.aspx%3Fid%3D302) for the most accurate reproduction.*
 
 # Momentive.com - Momentive Specialty Chemicals Privacy Policy
+
+About Us
+
+  
+| 
 
 Revised July 7, 2011
 
@@ -49,3 +54,5 @@ If you have any questions or concerns about this Privacy Policy, please contact 
 ## PRIVACY POLICY REVISIONS
 
 Momentive reserves the right to modify or supplement this Privacy Policy at any time. Any future modifications or supplements to this Privacy Policy will be posted on this page at the Site. 
+
+| 
