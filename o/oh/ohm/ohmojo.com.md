@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ohmojo.com privacy policy that was archived on 2012-10-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121010075502id_/http%3A//ohmojo.com/privacypolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ohmojo.com privacy policy that was archived on 2013-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130616181635id_/http%3A//ohmojo.com/privacypolicy.aspx) for the most accurate reproduction.*
 
 # OhMojo.com Privacy Policy
 
@@ -40,3 +40,5 @@ OhMojo.com reserves the right to contact site visitors, regarding account status
 
 **OhMojo.com's right to Change Privacy Policy**  
 OhMojo.com reserves the right to change this policy at any time. This policy will always be available on the website for review by visitors. 
+
+| 
