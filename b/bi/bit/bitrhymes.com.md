@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the bitrhymes.com privacy policy that was archived on 2012-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121203093104id_/http%3A//www.bitrhymes.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bitrhymes.com privacy policy that was archived on 2013-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130616024612id_/http%3A//www.bashgaming.com/privacy-policy) for the most accurate reproduction.*
 
-# BitRhymes › Privacy Policy
+# BASH Gaming › Privacy Policy
 
 BitRhymes Inc (“BitRhymes” or “we”) is dedicated to protecting the privacy rights of our online users (“users” or “you”). This Online Privacy Policy (“Privacy Policy”) has been crafted to inform you as to the ways we collect, store, use, and manage the information you provide in connection with any BitRhymes game or application (“Service”). Please note that the scope of this Privacy Policy is limited to only information collected from BitRhymes through use of the Service.
 
@@ -38,6 +38,14 @@ A cookie is a small data file that we transfer to your computer’s hard disk, g
 
 The Service may contain links to other websites. The fact that the Service links to a website or presents a banner ad or other type of advertisement does not mean that BitRhymes endorses or authorizes that third party, nor is it a representation of our affiliation with that third party. BitRhymes is in no way responsible for the privacy policies of these other websites to which you chose to access from the Service. Please be sure to read the privacy policies of those websites when exiting the Service.
 
+### Third Party Platform
+
+When you use or connect to a BitRhymes website or download a BitRhymes  mobile app by or through a Third Party Platform, such as Facebook or other social networking site, you allow us to access and/or collect certain information from your Third Party Platform profile/account (such as your Facebook account) or via any cookies placed on your device by such Third Party Platform as permitted by the terms of the agreement and your privacy settings with the Third Party Platform. We will share such information with the Third Party Platform for their use as permitted by the terms of the agreement and your privacy setting with the Third Party Platform.
+
+We will share some of the information we collect from you upon install of the mobile app with vendors and other service providers who are engaged by or working with us in connection with the operation of the services we provide to you and/or for analytics purposes which may require the reproduction and display of such information in an aggregated and anonymized manner such that will not in any way identify you.
+
+You may “opt out” of the collection of your information for third party analytics purposes by following the directions provided by our third party analytics vendor located at <http://www.mobileapptracking.com/privacy-policy/>. If you “opt out” with our third party analytics provider, that action is specific to the information we collect specifically for that provider, and does not limit our ability to collect information from you, under the terms of this privacy policy, for other vendors.
+
 ### Changing or Deleting Your Information
 
 You may review, update, correct or delete any personal information by changing the applicable information by changing the applicable information in your Facebook profile page. If you completely delete all this information, your account may become deactivated. If you would like us to delete your record in our system, please contact us and we will attempt to accommodate your request if we are not legally obligated to retain the record.
@@ -52,4 +60,4 @@ The Service is not geared toward children under the age of 13 and we do not know
 
 ### Contacting Us
 
-If you have any questions about this Privacy Policy, please [contact us](http://www.bitrhymes.com/wordpress/contact/ "Contact Us").
+If you have any questions about this Privacy Policy, please [contact us](http://www.bashgaming.com/contact/ "Contact Us").
