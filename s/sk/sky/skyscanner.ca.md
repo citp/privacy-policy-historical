@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the skyscanner.ca privacy policy that was archived on 2012-09-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120919182738id_/http%3A//www.skyscanner.ca/privacypolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the skyscanner.ca privacy policy that was archived on 2013-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130616062650id_/http%3A//www.skyscanner.ca/privacypolicy.aspx) for the most accurate reproduction.*
 
-# Privacy Policy - Skyscanner Canada
+# Privacy and cookie policy - Skyscanner Canada
 
 ## Skyscanner Privacy Policy
 
@@ -126,9 +126,11 @@ If you have any questions about this policy, please contact us by [email](http:/
 
 Or by post via the following address:
 
-Skyscanner  
-10 Waterloo Place  
-Edinburgh EH1 3EG
+Skyscanner Ltd  
+Quartermile One  
+15 Lauriston Place  
+Edinburgh EH3 9EN  
+United Kingdom
 
 Tel: 0131 252 5700
 
