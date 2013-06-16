@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the ixquick.com privacy policy that was archived on 2012-10-04.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121004145530id_/https%3A//ixquick.com/eng/privacy-policy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the ixquick.com privacy policy that was archived on 2013-06-16.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130616081019id_/https%3A//www.ixquick.com/eng/privacy-policy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN"><html><head>
 <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
@@ -650,7 +650,23 @@ function show_plugin_install (obj_id, do_display) {
 			}
 	}
 }
-
+function show_ixquick_toolbar () {                                                                                                                                                                                  
+    var div_id='';                                                                                                                                                                                                   
+    if(MY_BROWSER == 'Firefox'){                                                                                                                                                                                     
+        div_id='firefox';                                                                                                                                                                                             
+    }                                                                                                                                                                                                                
+    else if(MY_BROWSER == 'Chrome'){                                                                                                                                                                                 
+        div_id='chrome';                                                                                                                                                                                              
+    }                                                                                                                                                                                                                
+    else if(MY_BROWSER == 'Explorer'){                                                                                                                                                                               
+        div_id='ie';                                                                                                                                                                                                  
+    }                        
+    else if(MY_BROWSER == 'Safari'){
+        div_id='safari';
+    }
+    show(div_id);            
+    show(div_id+'_setting');
+}  
 	function add_plugin (plugin_url, favicon_url, brand, custom_text) {
 		plugin_url += '&browser=' + MY_BROWSER + '&version=' + MY_BROWSER_VERSION;
 
@@ -699,7 +715,7 @@ function show_instructions(base_url, toolbar_type) {
     var browser_type = navigator.userAgent;
 	if (toolbar_type == 0) {	
 		var url = "firefox-toolbar-instructions.html";
-    	if ((browser_type.indexOf("Firefox") != -1) || (browser_type.indexOf("Iceweasel") != -1)
+    	if ((browser_type.indexOf("Firefox") != -1) || (browser_type.indexOf("Iceweasel") != -1) ||
 			(browser_type.indexOf("IceCat") != -1)
 			) {
 			url = "firefox-toolbar-instructions.html";
@@ -1282,13 +1298,14 @@ function makeHomePage (obj, page_url) {
  }
  else {
          // for version greater than or equal to 19 
-         if(BrowserDetect.version >= 19) {
-         out_str += '<ol><li>Go to the Wrench icon <img src=\'/graphics/chrome_toolsmenu.gif\' height="25" style="position:absolute;"/> <span style="padding-left:28px;">-> Settings</span>.</li>';
-         out_str += '<li>Click on "Set pages" in the "On startup" section.</li>';
+         if( (BrowserDetect.version >= 19) && (BrowserDetect.version < 23) ) {
+         out_str += '<ol><li>Go to the Wrench icon <img src=\'/graphics/chrome_toolsmenu.gif\' height="25" style="position:absolute;"/> <span style="padding-left:28px;">-> Settings</span>.</li>';}
+         else {          if(BrowserDetect.version >= 23) {         out_str += '<ol><li>Go to the settings icon <img src=\'/graphics/chrome_settingMenu.gif\' height="25" style="position:absolute;"/> <span style="padding-left:28px;">-> Settings</span>.</li>';
+ } 
+}         out_str += '<li>Click on "Set pages" in the "On startup" section.</li>';
          out_str += '<li>Enter <!--HOME-->/eng/<!--/HOME--> in the "Add a new page" text field.</li>';
          out_str += '<li>Click OK.</li>';
-         } 
- } 
+         }
  } else {
          //  check for windows OS 
          if (BrowserDetect.OS.indexOf('Window') != -1) {
@@ -1306,13 +1323,14 @@ function makeHomePage (obj, page_url) {
          }
  } else {
          // for version greater than 18 
-         if(BrowserDetect.version >= 19) {
+         if( (BrowserDetect.version >= 19) && (BrowserDetect.version < 23) ) {
          out_str += '<ol><li>Go to the Wrench icon <img src=\'/graphics/chrome_toolsmenu.gif\' height="25" style="position:absolute;"/> <span style="padding-left:28px;">-> Settings</span>.</li>';
-         out_str += '<li>Click on "Set pages" in the "On startup" section.</li>';
+         } else {         if(BrowserDetect.version >= 23) {         out_str += '<ol><li>Go to the settings icon <img src=\'/graphics/chrome_settingMenu.gif\' height="25" style="position:absolute;"/> <span style="padding-left:28px;">-> Settings</span>.</li>';
+} 
+}         out_str += '<li>Click on "Set pages" in the "On startup" section.</li>';
          out_str += '<li>Enter <!--HOME-->/eng/<!--/HOME--> in the "Add a new page" text field.</li>';
          out_str += '<li>Click OK.</li>';
-         } 
- }
+         }
  } else {
           // checking for Linux OS 
          if(BrowserDetect.version >= 3 && BrowserDetect.version <= 18) {
@@ -1331,13 +1349,14 @@ function makeHomePage (obj, page_url) {
          out_str += '<li>Close Preferences tab.</li>';
          } 
  } else {
-         if(BrowserDetect.version >= 19) {
-         out_str += '<ol><li>Go to the Wrench icon <img src=\'/graphics/chrome_toolsmenu.gif\' height="25" style="position:absolute;"/> <span style="padding-left:28px;">-> Settings</span>.</li>';
-         out_str += '<li>Click on "Set pages" in the "On startup" section.</li>';
+         if( (BrowserDetect.version >= 19) && (BrowserDetect.version < 23) ) {
+         out_str += '<ol><li>Go to the Wrench icon <img src=\'/graphics/chrome_toolsmenu.gif\' height="25" style="position:absolute;"/> <span style="padding-left:28px;">-> Settings</span>.</li>';}
+         else {         if(BrowserDetect.version >= 23) {         out_str += '<ol><li>Go to the settings icon <img src=\'/graphics/chrome_settingMenu.gif\' height="25" style="position:absolute;"/> <span style="padding-left:28px;">-> Settings</span>.</li>';
+} 
+}         out_str += '<li>Click on "Set pages" in the "On startup" section.</li>';
          out_str += '<li>Enter <!--HOME-->/eng/<!--/HOME--> in the "Add a new page" text field.</li>';
          out_str += '<li>Click OK.</li>';
-         } 
- }
+         }
  } 
  }
          out_str += '</ol></font><br></body></html>';
@@ -1477,7 +1496,7 @@ You can periodically delete cookies from your computer's hard drive, clearing ou
 <!-- Copyright Notice -->
 <div align="center" style="font-size:10px;color:#3777E3;">
 <br>
-© 2012 Ixquick
+© 2013 Ixquick
 </div>
 <script language="javascript" type="text/javascript" src="/js/tooltip.js"></script>
 <!--<script language="javascript" type="text/javascript" src="/js/wz_tooltip.js"></script>-->
@@ -1532,8 +1551,10 @@ You can periodically delete cookies from your computer's hard drive, clearing ou
 
           srcUrl += Lang;
           var pngUrl = srcUrl + ".png"; pngUrl = pathUrl + '.png';
-          srcUrl += ".src";
-          window.sidebar.addSearchEngine(srcUrl, pngUrl, "Ixquick", "Ixquick Search");
+          //srcUrl += ".src";
+		  srcUrl += ".xml";
+          //window.sidebar.addSearchEngine(srcUrl, pngUrl, "Ixquick", "Ixquick Search");
+		  window.external.AddSearchProvider(srcUrl);
 		  var language = get_language(Lang);
 			//load_img('/do/adviewtrack.pl?a=10&g=463&l=' + language);
 			//load_img('/do/adviewtrack.pl?a=10&g=469&l=' + language);
@@ -1672,6 +1693,7 @@ function pos_seal_title(){
         document.getElementById('wholehearted_mission').style.width = document.getElementById('td_content').offsetWidth - 400 + 'px';
         document.getElementById('privacy_position').style.width = document.getElementById('td_content').offsetWidth - 400 + 'px';
 		document.getElementById('worried').style.width = document.getElementById('td_content').offsetWidth - 400 + 'px';
+        document.getElementById('euro_privacy_seal').style.width = document.getElementById('td_content').offsetWidth - 400 + 'px';
 
 		var pa_obj = document.getElementById('subTitle');
 		var absCoords2 = getAbsPosition(pa_obj);
