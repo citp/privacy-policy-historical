@@ -1,0 +1,703 @@
+<!--The following is the downloaded HTML source of the estoren.com privacy policy that was archived on 2013-06-16.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130616035427id_/http%3A//estoren.com/index.php%3Froute%3Dinformation/information%26information_id%3D3) for the most accurate reproduction.-->
+
+<!DOCTYPE html><html dir="ltr" lang="en"><head>
+<meta name="viewport" content="width=device-width; initial-scale=1.0">
+<meta name="viewport" content="width=device-width; initial-scale=1.0; maximum-scale=1.0; user-scalable=0;">
+<meta charset="UTF-8">
+<title>Privacy Policy</title>
+<base href="http://estoren.com/">
+<link href="http://estoren.com/image/data/cart.png" rel="icon">
+
+
+<!-- Twitter bootstrap 2.1.0 -->
+<script type="text/javascript" src="http://estoren.com/catalog/view/theme/pinshop/assist/jquery/jquery-1.8.2.min.js"></script>
+<script type="text/javascript" src="http://estoren.com/catalog/view/theme/pinshop/assist/bootstrap/js/bootstrap.js"></script>
+<link rel="stylesheet" type="text/css" href="http://estoren.com/catalog/view/theme/pinshop/assist/bootstrap/css/bootstrap.min.css">
+<!-- end of bootstrap parts-->
+<!-- main theme CSS -->
+<!--  <link rel="stylesheet" type="text/css" href="http://estoren.com/catalog/view/theme/pinshop/stylesheet/stylesheet_olda.css" />-->
+<link rel="stylesheet" type="text/css" href="http://estoren.com/catalog/view/theme/pinshop/stylesheet/stylesheet.css">
+<link rel="stylesheet" type="text/css" href="http://estoren.com/catalog/view/theme/pinshop/stylesheet/color.php">
+<!-- end of main theme CSS -->
+<!-- Fonts -->
+<link href="http://fonts.googleapis.com/css?family=Open+Sans:300,600&amp;subset=latin,latin-ext" rel="stylesheet" type="text/css">
+<link rel="stylesheet" href="http://estoren.com/catalog/view/theme/pinshop/assist/fonts/font-awesome.css">
+<!-- end of fonts-->
+<!-- jQuery parts -->
+<script type="text/javascript" src="http://estoren.com/catalog/view/theme/pinshop/assist/jquery/ui/jquery-ui-1.8.16.custom.min.js"></script>
+<script type="text/javascript" src="http://estoren.com/catalog/view/theme/pinshop/assist/jquery/common.js"></script>
+<script type="text/javascript" src="http://estoren.com/catalog/view/theme/pinshop/assist/jquery/ui/external/jquery.cookie.js"></script>
+<script type="text/javascript" src="http://estoren.com/catalog/view/theme/pinshop/assist/jquery/jquery.ui.totop.min.js"></script>
+<script type="text/javascript" src="http://estoren.com/catalog/view/theme/pinshop/assist/jquery/easing.js"></script>
+<script type="text/javascript" src="http://estoren.com/catalog/view/theme/pinshop/assist/jquery/jquery.masonry.min.js"></script>
+<script type="text/javascript" src="http://estoren.com/catalog/view/theme/pinshop/assist/jquery/jquery.infinitescroll.min.js"></script>
+<script type="text/javascript" src="http://estoren.com/catalog/view/theme/pinshop/assist/jquery/jquery.imagesloaded.min.js"></script>
+<script type="text/javascript" src="http://estoren.com/catalog/view/theme/pinshop/assist/jquery/modernizr-transitions.js"></script>
+<link rel="stylesheet" type="text/css" href="http://estoren.com/catalog/view/theme/pinshop/assist/jquery/ui/themes/ui-lightness/jquery-ui-1.8.16.custom.css">
+<script type="text/javascript" src="http://estoren.com/catalog/view/theme/pinshop/assist/jquery/colorbox/jquery.colorbox.js"></script>
+<link rel="stylesheet" type="text/css" href="http://estoren.com/catalog/view/theme/pinshop/assist/jquery/colorbox/colorbox.css" media="screen">
+<script type="text/javascript" src="http://estoren.com/catalog/view/theme/pinshop/assist/jquery/tabs.js"></script>
+<!-- end of jQuery parts -->
+
+<!-- bootstrap assets-->
+<script type="text/javascript">
+$('.dropdown-toggle').dropdown();
+$(function ()  
+{ $(".sharer").popover({placement:'top',trigger:'click',html:'true'});  
+ 
+}); 
+$(function(){
+    /* jQuery Masonry by David DeSandro 
+        more info http://masonry.desandro.com/ */
+    var $container = $('#pinboard');
+ 
+    $container.imagesLoaded(function(){
+      $container.masonry({
+      
+        itemSelector: '.item',
+        columnWidth: 233
+      });
+    });
+    /* Infinite scroll by Paul Irish - http://paulirish.com/
+    http://www.infinite-scroll.com/
+    */
+    $container.infinitescroll({
+      navSelector  : '#page-nav',    
+      nextSelector : '#page-nav a', 
+      itemSelector : '.item',
+      animate      : false,
+      loading: {
+          msgText: '<i class="icon-time icnloading colorfront"></i>',
+          finishedMsg: '<i class="icon-ok-circle icnloading colorfront"></i>',
+          img: ''
+        }
+      },
+      
+      // trigger Masonry as a callback
+      function( newElements ) {
+        var $newElems = $( newElements ).css({ opacity: 0 });
+        $newElems.imagesLoaded(function(){
+          $newElems.animate({ opacity: 1 });
+          $container.masonry( 'appended', $newElems, true );
+        });
+      }
+    );
+
+  }); 
+</script>
+<!-- -->
+
+
+</head>
+<body>
+<div class="navbar navbar-fixed-top topbar">
+  <div class="navbar-inner ">
+    <div class="container container2">
+        <a class="logo" href="http://estoren.com/index.php?route=common/home"><img src="http://estoren.com/catalog/view/theme/pinshop/images/blank_logo.png" width="139" height="35"></a>
+        <div class="pull-right colorback" id="headerunder"></div>
+        <div class="pull-right topcart colorback" id="header"><div id="cart">
+  <div class="heading">
+    <a><i class="icon-shopping-cart colorback icon-large icon-top"></i><span id="cart-total" class="colorwhite">0 item(s) - $0.00</span><i class="icon-sort-down colorback icon-large padleft flright carticon"></i></a></div>
+  <div class="content colorback" id="topcart">
+                <div id="mini-closecart" onclick="$('#topcart').hide()">
+            <i id="mini-closecart" class="icon-remove handpoint"></i>
+        </div>
+    <div class="empty">&nbsp;&nbsp;&nbsp;Your shopping cart is empty!</div>
+      </div>
+</div></div>
+
+        <div class="topmenu">
+ 
+            <div class="dropdown">
+            
+            <a class="dropdown-toggle padright" data-toggle="dropdown" href="#">Categories &nbsp;<i class="icon-sort-down icon-up"></i></a>
+                          <ul class="dropdown-menu dropdown-menu-customwidth" role="menu" aria-labelledby="dLabel">
+                                <li class="dropdown-submenu"><a href="http://estoren.com/Women's">Women's</a>
+                                                          <ul class="dropdown-menu dropdown-menu-customwidth">
+                                                                                        <li><a href="http://estoren.com/Women's/Bottoms">Bottoms</a></li>
+                                                                                        <li><a href="http://estoren.com/Women's/Dresses">Dresses</a></li>
+                                                                                        <li><a href="http://estoren.com/Women's/Outerwear">Outerwear</a></li>
+                                                                                        <li><a href="http://estoren.com/Women's/Tops">Tops</a></li>
+                                                                                        <li><a href="http://estoren.com/Women's/Swim">Swim</a></li>
+                                                                                        <li><a href="http://estoren.com/Women's/Sleep &amp; Intimates">Sleep &amp; Intimates</a></li>
+                                                                                        <li><a href="http://estoren.com/Women's/Accessories">Accessories</a></li>
+                                                                                        <li><a href="http://estoren.com/Women's/Shoes">Shoes</a></li>
+                                                                                        <li><a href="http://estoren.com/Women's/Costumes">Costumes</a></li>
+                                                                </ul>
+                                                      </li>
+                                <li class="dropdown-submenu"><a href="http://estoren.com/Men's">Men's</a>
+                                                          <ul class="dropdown-menu dropdown-menu-customwidth">
+                                                                                        <li><a href="http://estoren.com/Men's/Accessories">Accessories</a></li>
+                                                                                        <li><a href="http://estoren.com/Men's/Pants">Pants</a></li>
+                                                                                        <li><a href="http://estoren.com/Men's/Outerwear">Outerwear</a></li>
+                                                                                        <li><a href="http://estoren.com/Men's/Shirts">Shirts</a></li>
+                                                                                        <li><a href="http://estoren.com/Men's/Swim">Swim</a></li>
+                                                                                        <li><a href="http://estoren.com/Men's/Underthings">Underthings</a></li>
+                                                                                        <li><a href="http://estoren.com/Men's/Shoes">Shoes</a></li>
+                                                                </ul>
+                                                      </li>
+                                <li class="dropdown-submenu"><a href="http://estoren.com/Kids &amp; Baby">Kids &amp; Baby</a>
+                                                          <ul class="dropdown-menu dropdown-menu-customwidth">
+                                                                                        <li><a href="http://estoren.com/Kids &amp; Baby/Toys &amp; Games">Toys &amp; Games</a></li>
+                                                                                        <li><a href="http://estoren.com/Kids &amp; Baby/Clothing">Clothing</a></li>
+                                                                                        <li><a href="http://estoren.com/Kids &amp; Baby/Accessories">Accessories</a></li>
+                                                                                        <li><a href="http://estoren.com/Kids &amp; Baby/Nursery">Nursery</a></li>
+                                                                                        <li><a href="http://estoren.com/Kids &amp; Baby/Maternity">Maternity</a></li>
+                                                                                        <li><a href="http://estoren.com/Kids &amp; Baby/Costumes">Costumes</a></li>
+                                                                                        <li><a href="http://estoren.com/Kids &amp; Baby/Shoes">Shoes</a></li>
+                                                                </ul>
+                                                      </li>
+                                <li class="dropdown-submenu"><a href="http://estoren.com/Home">Home</a>
+                                                          <ul class="dropdown-menu dropdown-menu-customwidth">
+                                                                                        <li><a href="http://estoren.com/Home/Candles &amp; Scents">Candles &amp; Scents</a></li>
+                                                                                        <li><a href="http://estoren.com/Home/Decor">Decor</a></li>
+                                                                                        <li><a href="http://estoren.com/Home/Kitsch">Kitsch</a></li>
+                                                                                        <li><a href="http://estoren.com/Home/Stationery &amp; Paper Goods">Stationery &amp; Paper Goods</a></li>
+                                                                                        <li><a href="http://estoren.com/Home/Bedding">Bedding</a></li>
+                                                                                        <li><a href="http://estoren.com/Home/Bath">Bath</a></li>
+                                                                                        <li><a href="http://estoren.com/Home/Kitchen">Kitchen</a></li>
+                                                                                        <li><a href="http://estoren.com/Home/Furniture">Furniture</a></li>
+                                                                                        <li><a href="http://estoren.com/Home/Tableware &amp; Glassware">Tableware &amp; Glassware</a></li>
+                                                                                        <li><a href="http://estoren.com/Home/Outdoor">Outdoor</a></li>
+                                                                                        <li><a href="http://estoren.com/Home/Office">Office</a></li>
+                                                                </ul>
+                                                      </li>
+                                <li class="dropdown-submenu"><a href="http://estoren.com/Art">Art</a>
+                                                          <ul class="dropdown-menu dropdown-menu-customwidth">
+                                                                                        <li><a href="http://estoren.com/Art/Illustration">Illustration</a></li>
+                                                                                        <li><a href="http://estoren.com/Art/Multi-media">Multi-media</a></li>
+                                                                                        <li><a href="http://estoren.com/Art/Photography">Photography</a></li>
+                                                                                        <li><a href="http://estoren.com/Art/Prints &amp; Posters">Prints &amp; Posters</a></li>
+                                                                                        <li><a href="http://estoren.com/Art/Sculpture">Sculpture</a></li>
+                                                                                        <li><a href="http://estoren.com/Art/Original Artwork">Original Artwork</a></li>
+                                                                                        <li><a href="http://estoren.com/Art/Designer Toys">Designer Toys</a></li>
+                                                                                        <li><a href="http://estoren.com/Art/Pins">Pins</a></li>
+                                                                </ul>
+                                                      </li>
+                                <li class="dropdown-submenu"><a href="http://estoren.com/Music">Music</a>
+                                                          <ul class="dropdown-menu dropdown-menu-customwidth">
+                                                                                        <li><a href="http://estoren.com/Music/Band Merch">Band Merch</a></li>
+                                                                                        <li><a href="http://estoren.com/Music/CDs">CDs</a></li>
+                                                                                        <li><a href="http://estoren.com/Music/Digital Downloads">Digital Downloads</a></li>
+                                                                                        <li><a href="http://estoren.com/Music/Vinyl">Vinyl</a></li>
+                                                                                        <li><a href="http://estoren.com/Music/Cassette Tapes">Cassette Tapes</a></li>
+                                                                                        <li><a href="http://estoren.com/Music/Musical Instruments">Musical Instruments</a></li>
+                                                                </ul>
+                                                      </li>
+                                <li class="dropdown-submenu"><a href="http://estoren.com/Books &amp; Media">Books &amp; Media</a>
+                                                          <ul class="dropdown-menu dropdown-menu-customwidth">
+                                                                                        <li><a href="http://estoren.com/Books &amp; Media/Comics">Comics</a></li>
+                                                                                        <li><a href="http://estoren.com/Books &amp; Media/Guides">Guides</a></li>
+                                                                                        <li><a href="http://estoren.com/Books &amp; Media/DVDs">DVDs</a></li>
+                                                                                        <li><a href="http://estoren.com/Books &amp; Media/Books">Books</a></li>
+                                                                                        <li><a href="http://estoren.com/Books &amp; Media/Zines">Zines</a></li>
+                                                                                        <li><a href="http://estoren.com/Books &amp; Media/E-books">E-books</a></li>
+                                                                                        <li><a href="http://estoren.com/Books &amp; Media/Stickers">Stickers</a></li>
+                                                                </ul>
+                                                      </li>
+                                <li class="dropdown-submenu"><a href="http://estoren.com/Jewelry">Jewelry</a>
+                                                          <ul class="dropdown-menu dropdown-menu-customwidth">
+                                                                                        <li><a href="http://estoren.com/Jewelry/Body Jewelry">Body Jewelry</a></li>
+                                                                                        <li><a href="http://estoren.com/Jewelry/Earrings">Earrings</a></li>
+                                                                                        <li><a href="http://estoren.com/Jewelry/Men's">Men's</a></li>
+                                                                                        <li><a href="http://estoren.com/Jewelry/Necklaces">Necklaces</a></li>
+                                                                                        <li><a href="http://estoren.com/Jewelry/Rings">Rings</a></li>
+                                                                                        <li><a href="http://estoren.com/Jewelry/Bracelets">Bracelets</a></li>
+                                                                                        <li><a href="http://estoren.com/Jewelry/Brooches">Brooches</a></li>
+                                                                                        <li><a href="http://estoren.com/Jewelry/Watches">Watches</a></li>
+                                                                </ul>
+                                                      </li>
+                                <li class="dropdown-submenu"><a href="http://estoren.com/Health &amp; Beauty">Health &amp; Beauty</a>
+                                                          <ul class="dropdown-menu dropdown-menu-customwidth">
+                                                                                        <li><a href="http://estoren.com/Health &amp; Beauty/Face &amp; Body Care">Face &amp; Body Care</a></li>
+                                                                                        <li><a href="http://estoren.com/Health &amp; Beauty/Fragrance">Fragrance</a></li>
+                                                                                        <li><a href="http://estoren.com/Health &amp; Beauty/Nutrition">Nutrition</a></li>
+                                                                                        <li><a href="http://estoren.com/Health &amp; Beauty/Makeup">Makeup</a></li>
+                                                                                        <li><a href="http://estoren.com/Health &amp; Beauty/Hair Extensions">Hair Extensions</a></li>
+                                                                                        <li><a href="http://estoren.com/Health &amp; Beauty/Nail Polish &amp; Nail Art">Nail Polish &amp; Nail Art</a></li>
+                                                                </ul>
+                                                      </li>
+                                <li class="dropdown-submenu"><a href="http://estoren.com/Food">Food</a>
+                                                          <ul class="dropdown-menu dropdown-menu-customwidth">
+                                                                                        <li><a href="http://estoren.com/Food/Sweets">Sweets</a></li>
+                                                                                        <li><a href="http://estoren.com/Food/Coffee &amp; Tea">Coffee &amp; Tea</a></li>
+                                                                                        <li><a href="http://estoren.com/Food/Food Accessories">Food Accessories</a></li>
+                                                                                        <li><a href="http://estoren.com/Food/Specialty Foods">Specialty Foods</a></li>
+                                                                                        <li><a href="http://estoren.com/Food/Savories">Savories</a></li>
+                                                                </ul>
+                                                      </li>
+                                <li class="dropdown-submenu"><a href="http://estoren.com/Specialty">Specialty</a>
+                                                          <ul class="dropdown-menu dropdown-menu-customwidth">
+                                                                                        <li><a href="http://estoren.com/Specialty/Everything Else">Everything Else</a></li>
+                                                                                        <li><a href="http://estoren.com/Specialty/Pets">Pets</a></li>
+                                                                                        <li><a href="http://estoren.com/Specialty/Games">Games</a></li>
+                                                                                        <li><a href="http://estoren.com/Specialty/Supplies &amp; Patterns">Supplies &amp; Patterns</a></li>
+                                                                                        <li><a href="http://estoren.com/Specialty/Wedding">Wedding</a></li>
+                                                                </ul>
+                                                      </li>
+                                <li class="dropdown-submenu"><a href="http://estoren.com/Tech">Tech</a>
+                                                          <ul class="dropdown-menu dropdown-menu-customwidth">
+                                                                                        <li><a href="http://estoren.com/Tech/Electronics &amp; Gadgets">Electronics &amp; Gadgets</a></li>
+                                                                                        <li><a href="http://estoren.com/Tech/iPhone &amp; iPad Cases">iPhone &amp; iPad Cases</a></li>
+                                                                                        <li><a href="http://estoren.com/Tech/Accessories">Accessories</a></li>
+                                                                                        <li><a href="http://estoren.com/Tech/Video Games">Video Games</a></li>
+                                                                </ul>
+                                                      </li>
+                              </ul>
+              
+            <a href="http://estoren.com/index.php?route=account/wishlist" id="wishlist-total" class="padright    ">Wish List (0)</a>
+            <a href="http://estoren.com/index.php?route=account/account">My Account</a>
+             
+            <div class="btn-group little-select">
+              <a class="btn-mini colorback " data-toggle="dropdown" href="#">$</a>
+              <ul class="dropdown-menu">
+                  <form action="http://estoren.com/index.php?route=module/currency" method="post" enctype="multipart/form-data">
+  <div id="currency">Currency<br>
+                <a title="Euro" onclick="$('input[name=\'currency_code\']').attr('value', 'EUR'); $(this).parent().parent().submit();">€</a>
+                        <a title="Pound Sterling" onclick="$('input[name=\'currency_code\']').attr('value', 'GBP'); $(this).parent().parent().submit();">£</a>
+                        <a title="US Dollar"><b>$</b></a>
+                <input type="hidden" name="currency_code" value="">
+    <input type="hidden" name="redirect" value="http://estoren.com/index.php?route=information/information&amp;information_id=3">
+  </div>
+</form>
+              </ul>
+            </div>
+                                    
+            
+            
+            
+            </div>
+        </div>
+    </div>
+  </div>
+</div>
+<div class="navbar navbar-static-top menubar responsive-menu">
+  <div class="navbar-inner">   
+        <div class="dropdown">
+            
+            <a class="dropdown-toggle padright" data-toggle="dropdown" href="#">Categories &nbsp;<i class="icon-sort-down icon-up"></i></a>
+                          <ul class="dropdown-menu dropdown-menu-customwidth" role="menu" aria-labelledby="dLabel">
+                                <li><a href="http://estoren.com/Women's">Women's</a>
+                                                          </li><li class="divider"></li>
+                                                                                        <li class="m-sub"><a href="http://estoren.com/Women's/Bottoms">Bottoms</a></li>
+                                                                                        <li class="m-sub"><a href="http://estoren.com/Women's/Dresses">Dresses</a></li>
+                                                                                        <li class="m-sub"><a href="http://estoren.com/Women's/Outerwear">Outerwear</a></li>
+                                                                                        <li class="m-sub"><a href="http://estoren.com/Women's/Tops">Tops</a></li>
+                                                                                        <li class="m-sub"><a href="http://estoren.com/Women's/Swim">Swim</a></li>
+                                                                                        <li class="m-sub"><a href="http://estoren.com/Women's/Sleep &amp; Intimates">Sleep &amp; Intimates</a></li>
+                                                                                        <li class="m-sub"><a href="http://estoren.com/Women's/Accessories">Accessories</a></li>
+                                                                                        <li class="m-sub"><a href="http://estoren.com/Women's/Shoes">Shoes</a></li>
+                                                                                        <li class="m-sub"><a href="http://estoren.com/Women's/Costumes">Costumes</a></li>
+                                                                <li class="divider"></li>
+                                                      
+                                <li><a href="http://estoren.com/Men's">Men's</a>
+                                                          </li><li class="divider"></li>
+                                                                                        <li class="m-sub"><a href="http://estoren.com/Men's/Accessories">Accessories</a></li>
+                                                                                        <li class="m-sub"><a href="http://estoren.com/Men's/Pants">Pants</a></li>
+                                                                                        <li class="m-sub"><a href="http://estoren.com/Men's/Outerwear">Outerwear</a></li>
+                                                                                        <li class="m-sub"><a href="http://estoren.com/Men's/Shirts">Shirts</a></li>
+                                                                                        <li class="m-sub"><a href="http://estoren.com/Men's/Swim">Swim</a></li>
+                                                                                        <li class="m-sub"><a href="http://estoren.com/Men's/Underthings">Underthings</a></li>
+                                                                                        <li class="m-sub"><a href="http://estoren.com/Men's/Shoes">Shoes</a></li>
+                                                                <li class="divider"></li>
+                                                      
+                                <li><a href="http://estoren.com/Kids &amp; Baby">Kids &amp; Baby</a>
+                                                          </li><li class="divider"></li>
+                                                                                        <li class="m-sub"><a href="http://estoren.com/Kids &amp; Baby/Toys &amp; Games">Toys &amp; Games</a></li>
+                                                                                        <li class="m-sub"><a href="http://estoren.com/Kids &amp; Baby/Clothing">Clothing</a></li>
+                                                                                        <li class="m-sub"><a href="http://estoren.com/Kids &amp; Baby/Accessories">Accessories</a></li>
+                                                                                        <li class="m-sub"><a href="http://estoren.com/Kids &amp; Baby/Nursery">Nursery</a></li>
+                                                                                        <li class="m-sub"><a href="http://estoren.com/Kids &amp; Baby/Maternity">Maternity</a></li>
+                                                                                        <li class="m-sub"><a href="http://estoren.com/Kids &amp; Baby/Costumes">Costumes</a></li>
+                                                                                        <li class="m-sub"><a href="http://estoren.com/Kids &amp; Baby/Shoes">Shoes</a></li>
+                                                                <li class="divider"></li>
+                                                      
+                                <li><a href="http://estoren.com/Home">Home</a>
+                                                          </li><li class="divider"></li>
+                                                                                        <li class="m-sub"><a href="http://estoren.com/Home/Candles &amp; Scents">Candles &amp; Scents</a></li>
+                                                                                        <li class="m-sub"><a href="http://estoren.com/Home/Decor">Decor</a></li>
+                                                                                        <li class="m-sub"><a href="http://estoren.com/Home/Kitsch">Kitsch</a></li>
+                                                                                        <li class="m-sub"><a href="http://estoren.com/Home/Stationery &amp; Paper Goods">Stationery &amp; Paper Goods</a></li>
+                                                                                        <li class="m-sub"><a href="http://estoren.com/Home/Bedding">Bedding</a></li>
+                                                                                        <li class="m-sub"><a href="http://estoren.com/Home/Bath">Bath</a></li>
+                                                                                        <li class="m-sub"><a href="http://estoren.com/Home/Kitchen">Kitchen</a></li>
+                                                                                        <li class="m-sub"><a href="http://estoren.com/Home/Furniture">Furniture</a></li>
+                                                                                        <li class="m-sub"><a href="http://estoren.com/Home/Tableware &amp; Glassware">Tableware &amp; Glassware</a></li>
+                                                                                        <li class="m-sub"><a href="http://estoren.com/Home/Outdoor">Outdoor</a></li>
+                                                                                        <li class="m-sub"><a href="http://estoren.com/Home/Office">Office</a></li>
+                                                                <li class="divider"></li>
+                                                      
+                                <li><a href="http://estoren.com/Art">Art</a>
+                                                          </li><li class="divider"></li>
+                                                                                        <li class="m-sub"><a href="http://estoren.com/Art/Illustration">Illustration</a></li>
+                                                                                        <li class="m-sub"><a href="http://estoren.com/Art/Multi-media">Multi-media</a></li>
+                                                                                        <li class="m-sub"><a href="http://estoren.com/Art/Photography">Photography</a></li>
+                                                                                        <li class="m-sub"><a href="http://estoren.com/Art/Prints &amp; Posters">Prints &amp; Posters</a></li>
+                                                                                        <li class="m-sub"><a href="http://estoren.com/Art/Sculpture">Sculpture</a></li>
+                                                                                        <li class="m-sub"><a href="http://estoren.com/Art/Original Artwork">Original Artwork</a></li>
+                                                                                        <li class="m-sub"><a href="http://estoren.com/Art/Designer Toys">Designer Toys</a></li>
+                                                                                        <li class="m-sub"><a href="http://estoren.com/Art/Pins">Pins</a></li>
+                                                                <li class="divider"></li>
+                                                      
+                                <li><a href="http://estoren.com/Music">Music</a>
+                                                          </li><li class="divider"></li>
+                                                                                        <li class="m-sub"><a href="http://estoren.com/Music/Band Merch">Band Merch</a></li>
+                                                                                        <li class="m-sub"><a href="http://estoren.com/Music/CDs">CDs</a></li>
+                                                                                        <li class="m-sub"><a href="http://estoren.com/Music/Digital Downloads">Digital Downloads</a></li>
+                                                                                        <li class="m-sub"><a href="http://estoren.com/Music/Vinyl">Vinyl</a></li>
+                                                                                        <li class="m-sub"><a href="http://estoren.com/Music/Cassette Tapes">Cassette Tapes</a></li>
+                                                                                        <li class="m-sub"><a href="http://estoren.com/Music/Musical Instruments">Musical Instruments</a></li>
+                                                                <li class="divider"></li>
+                                                      
+                                <li><a href="http://estoren.com/Books &amp; Media">Books &amp; Media</a>
+                                                          </li><li class="divider"></li>
+                                                                                        <li class="m-sub"><a href="http://estoren.com/Books &amp; Media/Comics">Comics</a></li>
+                                                                                        <li class="m-sub"><a href="http://estoren.com/Books &amp; Media/Guides">Guides</a></li>
+                                                                                        <li class="m-sub"><a href="http://estoren.com/Books &amp; Media/DVDs">DVDs</a></li>
+                                                                                        <li class="m-sub"><a href="http://estoren.com/Books &amp; Media/Books">Books</a></li>
+                                                                                        <li class="m-sub"><a href="http://estoren.com/Books &amp; Media/Zines">Zines</a></li>
+                                                                                        <li class="m-sub"><a href="http://estoren.com/Books &amp; Media/E-books">E-books</a></li>
+                                                                                        <li class="m-sub"><a href="http://estoren.com/Books &amp; Media/Stickers">Stickers</a></li>
+                                                                <li class="divider"></li>
+                                                      
+                                <li><a href="http://estoren.com/Jewelry">Jewelry</a>
+                                                          </li><li class="divider"></li>
+                                                                                        <li class="m-sub"><a href="http://estoren.com/Jewelry/Body Jewelry">Body Jewelry</a></li>
+                                                                                        <li class="m-sub"><a href="http://estoren.com/Jewelry/Earrings">Earrings</a></li>
+                                                                                        <li class="m-sub"><a href="http://estoren.com/Jewelry/Men's">Men's</a></li>
+                                                                                        <li class="m-sub"><a href="http://estoren.com/Jewelry/Necklaces">Necklaces</a></li>
+                                                                                        <li class="m-sub"><a href="http://estoren.com/Jewelry/Rings">Rings</a></li>
+                                                                                        <li class="m-sub"><a href="http://estoren.com/Jewelry/Bracelets">Bracelets</a></li>
+                                                                                        <li class="m-sub"><a href="http://estoren.com/Jewelry/Brooches">Brooches</a></li>
+                                                                                        <li class="m-sub"><a href="http://estoren.com/Jewelry/Watches">Watches</a></li>
+                                                                <li class="divider"></li>
+                                                      
+                                <li><a href="http://estoren.com/Health &amp; Beauty">Health &amp; Beauty</a>
+                                                          </li><li class="divider"></li>
+                                                                                        <li class="m-sub"><a href="http://estoren.com/Health &amp; Beauty/Face &amp; Body Care">Face &amp; Body Care</a></li>
+                                                                                        <li class="m-sub"><a href="http://estoren.com/Health &amp; Beauty/Fragrance">Fragrance</a></li>
+                                                                                        <li class="m-sub"><a href="http://estoren.com/Health &amp; Beauty/Nutrition">Nutrition</a></li>
+                                                                                        <li class="m-sub"><a href="http://estoren.com/Health &amp; Beauty/Makeup">Makeup</a></li>
+                                                                                        <li class="m-sub"><a href="http://estoren.com/Health &amp; Beauty/Hair Extensions">Hair Extensions</a></li>
+                                                                                        <li class="m-sub"><a href="http://estoren.com/Health &amp; Beauty/Nail Polish &amp; Nail Art">Nail Polish &amp; Nail Art</a></li>
+                                                                <li class="divider"></li>
+                                                      
+                                <li><a href="http://estoren.com/Food">Food</a>
+                                                          </li><li class="divider"></li>
+                                                                                        <li class="m-sub"><a href="http://estoren.com/Food/Sweets">Sweets</a></li>
+                                                                                        <li class="m-sub"><a href="http://estoren.com/Food/Coffee &amp; Tea">Coffee &amp; Tea</a></li>
+                                                                                        <li class="m-sub"><a href="http://estoren.com/Food/Food Accessories">Food Accessories</a></li>
+                                                                                        <li class="m-sub"><a href="http://estoren.com/Food/Specialty Foods">Specialty Foods</a></li>
+                                                                                        <li class="m-sub"><a href="http://estoren.com/Food/Savories">Savories</a></li>
+                                                                <li class="divider"></li>
+                                                      
+                                <li><a href="http://estoren.com/Specialty">Specialty</a>
+                                                          </li><li class="divider"></li>
+                                                                                        <li class="m-sub"><a href="http://estoren.com/Specialty/Everything Else">Everything Else</a></li>
+                                                                                        <li class="m-sub"><a href="http://estoren.com/Specialty/Pets">Pets</a></li>
+                                                                                        <li class="m-sub"><a href="http://estoren.com/Specialty/Games">Games</a></li>
+                                                                                        <li class="m-sub"><a href="http://estoren.com/Specialty/Supplies &amp; Patterns">Supplies &amp; Patterns</a></li>
+                                                                                        <li class="m-sub"><a href="http://estoren.com/Specialty/Wedding">Wedding</a></li>
+                                                                <li class="divider"></li>
+                                                      
+                                <li><a href="http://estoren.com/Tech">Tech</a>
+                                                          </li><li class="divider"></li>
+                                                                                        <li class="m-sub"><a href="http://estoren.com/Tech/Electronics &amp; Gadgets">Electronics &amp; Gadgets</a></li>
+                                                                                        <li class="m-sub"><a href="http://estoren.com/Tech/iPhone &amp; iPad Cases">iPhone &amp; iPad Cases</a></li>
+                                                                                        <li class="m-sub"><a href="http://estoren.com/Tech/Accessories">Accessories</a></li>
+                                                                                        <li class="m-sub"><a href="http://estoren.com/Tech/Video Games">Video Games</a></li>
+                                                                <li class="divider"></li>
+                                                      
+                              </ul>
+              
+            <a href="http://estoren.com/index.php?route=account/wishlist" id="wishlist-total" class="padright">Wish List (0)</a>
+            <a href="http://estoren.com/index.php?route=account/account">My Account</a>
+             
+            <div class="btn-group little-select">
+              <a class="btn-mini colorback " data-toggle="dropdown" href="#">$</a>
+              <ul class="dropdown-menu">
+                  <form action="http://estoren.com/index.php?route=module/currency" method="post" enctype="multipart/form-data">
+  <div id="currency">Currency<br>
+                <a title="Euro" onclick="$('input[name=\'currency_code\']').attr('value', 'EUR'); $(this).parent().parent().submit();">€</a>
+                        <a title="Pound Sterling" onclick="$('input[name=\'currency_code\']').attr('value', 'GBP'); $(this).parent().parent().submit();">£</a>
+                        <a title="US Dollar"><b>$</b></a>
+                <input type="hidden" name="currency_code" value="">
+    <input type="hidden" name="redirect" value="http://estoren.com/index.php?route=information/information&amp;information_id=3">
+  </div>
+</form>
+              </ul>
+            </div>
+                                </div>    
+  </div>
+</div>
+<div class="navbar navbar-static-top menubar">
+  <div class="navbar-inner">   
+    <div class="container container2">
+        <div id="welcome" class="pull-right">
+                        Welcome visitor you can <a href="http://estoren.com/index.php?route=account/login">login</a> or <a href="http://estoren.com/index.php?route=account/register">create an account</a>.                    </div>
+        <div id="header">
+            <div id="search" class="pull-left firstsearch">
+
+                <div class="input-prepend"><span class="add-on handpoint" id="buttn-search"><i class="icon-search icon-large icon-top"></i></span><input type="text" class="form-search" name="filter_name" value="Search" onclick="this.value = '';" onkeydown="this.style.color = '#000000';"></div>
+            </div>
+        </div>
+    </div>
+  </div>
+</div>
+<div class="navbar navbar-static-top menubar responsive-search">
+  <div class="navbar-inner">   
+    <div class="container container2">
+        <div id="header" align="center">
+            <div id="search" class="pull-left fullwidth nopad5">
+                <div class="input-prepend"><span class="add-on handpoint" id="buttn-search-res"><i class="icon-search icon-large icon-top"></i></span><input type="text" class="form-search" name="filter_name2" value="Search" onclick="this.value = '';" onkeydown="this.style.color = '#000000';"></div>
+
+            </div>
+        </div>
+    </div>
+  </div>
+</div>
+<div class="afterheader"></div>
+<div id="notification"></div>
+
+<div id="container"> 
+<div id="content" class="container"><div class="doublepad">  <div class="pagetitle marbot">Privacy Policy</div>
+  <div class="content">
+	<h3>
+		Our Commitment To Privacy</h3>
+	<p>
+		Your privacy is important to us. We provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used. We strive to maintain the privacy of both our merchant clients and the shoppers who patronize their online stores. It is our strict policy not to share, rent or sell such data to anyone without your electronic consent.</p>
+	<h3>
+		The Information We Collect</h3>
+	<p>
+		This notice applies to all information collected or submitted on the [company name] website. On some pages, you can order products, make requests, and register to receive materials.</p>
+	<h3>
+		Information Collection</h3>
+	<p>
+		eStoren collects personally identifiable information from our users at several different points on our website.</p>
+	<p>
+		If you purchase online shopping cart services, or other products or services, we request personally identifiable information from you, including contact information, such as name, e-mail, and shipping address, as well as and financial information, such as credit card number and expiration date.</p>
+	<p>
+		We collect personally identifiable information from you, including contact information, such as name, e-mail, and shipping address, as well as and financial information, such as credit card number and expiration date. Some Merchants allow you to submit information about other people. For example, if you order a gift online and want it sent directly to the recipient, you will need to submit the recipient's address. In this circumstance, the types of personal information collected include name, e-mail, phone number and shipping address.</p>
+	<h3>
+		Information Use and Ownership</h3>
+	<p>
+		If you are a Merchant, we use your personally identifiable information for billing purposes, to fill your orders and to provide service to you. If we have trouble processing an order, we will use this personally identifiable information to contact you. We may also use this personally identifiable information to communicate with you for several other reasons. We may use your e-mail to send you newsletters and updates.</p>
+	<p>
+		If you are a Shopper, we transmit your personally identifiable information to eStoren from whom you have purchased goods or services, so that the eStoren is able to collect your payment and to deliver the goods or services to you. eStoren does not use personally identifiable information from Shoppers for any other purpose, except as outlined in this document. Each eStoren is the sole owner of the personally identifiable information related to individuals, companies or entities purchasing services or products from it. The use of that personally identifiable information is governed by the privacy policy of that eStorent. You should carefully review the privacy policy of eStoren from whom you are purchasing goods or services to determine how that merchant may use your personally identifiable information.</p>
+	<h3>
+		Merchant Communications</h3>
+	<h4>
+		Promotional Communications</h4>
+	<p>
+		We will occasionally send you communications on products, services, special deals, promotions and news at eStoren. Out of respect for your privacy, we present the option not to receive these types of communications.</p>
+	<h4>
+		Service-related Announcements</h4>
+	<p>
+		We will send you service-related announcements on rare occasions when it is necessary to do so, for instance, if our service is temporarily suspended for maintenance. You may not opt-out of these communications, which are not promotional in nature. If you do not wish to receive them, you have the option to cancel your account.</p>
+	<h4>
+		Customer Service</h4>
+	<p>
+		Based upon the personally identifiable information you provide us, we will send you a welcoming e-mail to verify your signup. We will also communicate with you in response to your inquiries, to provide the services you request, to invoice you and to manage your account. We will communicate with you by e-mail, telephone or mail.</p>
+	<h4>
+		Shopping Cart Service</h4>
+	<p>
+		We use your personally identifiable information to provide shopping cart services. You enter information, some of which is personally identifiable information, in eStoren configuration form which instructs us on how to process orders you receive on your website. Such information includes the name of your website, contact information for sending orders, contact information for technical issues, shipping parameters, tax guidelines, Shopper checkout and payment options and affiliate programs.</p>
+	<h3>
+		Information Storage and Maintenance</h3>
+	<h4>
+		Profile</h4>
+	<p>
+		We store information that we collect through cookies, log files, and clear gifs to create a "profile" of your preferences. We tie your personally identifiable information and your purchasing history, to information in the profile, in order to provide tailored promotions and marketing offers and to improve the content of the site for you.</p>
+	<h4>
+		Address Verification</h4>
+	<p>
+		In charging your credit card, we may use external third party software or services to verify your address, in order to validate the charge.</p>
+	<br>
+	<h3>
+		Information Sharing and Disclosure</h3>
+	<h4>
+		Aggregate Information (non-personally identifiable)</h4>
+	<p>
+		We may share aggregated demographic information about our user base with our marketing partners and advertisers. This information does not identify individual users. We do not link aggregate user data with personally identifiable information.</p>
+	<h4>
+		Merchant Personally Identifiable Information</h4>
+	<p>
+		We do not share eStoren' personally identifiable information with third parties. These companies do not retain, share, store or use personally identifiable information for any other purposes.</p>
+	<h4>
+		Shopper Personally Identifiable Information</h4>
+	<p>
+		As noted above, we transmit Shoppers' personally identifiable information to eStoren from whom you have purchased goods or services. We do not share Shoppers' personally identifiable information with third parties, except when the Shopper has provided prior electronic consent.</p>
+	<h4>
+		Legal Disclaimer</h4>
+	<p>
+		We reserve the right to disclose your personally identifiable information as required by law and when we believe that disclosure is necessary to protect our rights and/or to comply with a judicial proceeding, court order, or legal process served on us.</p>
+	<h3>
+		Choice/Opt-out</h3>
+	<p>
+		If you no longer wish to receive promotional communications, you may opt-out of receiving them by following the instructions included in each communication or by e-mailing us.</p>
+	<h3>
+		Technical Methodologies</h3>
+	<h4>
+		Log Files</h4>
+	<p>
+		As with most websites, we gather certain information automatically and store it in log files. This information includes internet protocol (IP) addresses, browser type, internet service provider (ISP), referring/exit pages, operating system, date/time stamp, and clickstream data. We use this information, which does not identify individual users, to analyze trends, to administer the site, to track users' movements around the site and to gather demographic information about our user base as a whole. We do not link this automatically-collected data to personally identifiable information. We use Google Analytics, which uses cookies to track non-personally identifiable information about visitors to our site in the aggregate. Such information includes length of visit, pages visited, geographical location of visitor by IP address and other website browsing behavior. We use this information to improve our website and make it more responsive to the needs of visitors.</p>
+	<h4>
+		Cookies</h4>
+	<p>
+		A cookie is a small text file that is stored on a user's computer for record-keeping purposes. We use cookies on our sites. We do not link the information we store in cookies to any personally identifiable information you submit while on our site. We use persistent cookies. A persistent cookie remains on your hard drive for an extended period of time. You can remove persistent cookies by following directions provided in your Internet browser's "help" file. We set a persistent cookie to store the contents of Shoppers' shopping carts so that if a Shopper closes his or her browser, the contents of the cart will be saved for a finite period of time, usually 1 hour. If you reject cookies, you may still use our sites, but you would not be able to benefit from that capability.</p>
+	<h4>
+		Hyperlinks to Other Sites</h4>
+	<p>
+		Our websites contains links to other sites that are not owned or controlled by eStoren. Please be aware that eStoren not responsible for the privacy practices of such other sites. We encourage you to be aware when you leave our site and to read the privacy statements of each and every website that collects personally identifiable information.</p>
+	<p>
+		This privacy statement applies only to information collected by this website.</p>
+	<h3>
+		Security</h3>
+	<p>
+		The security of your personal information is important to us. When you enter sensitive information such as a credit card number, we encrypt that information using secure socket layer technology (SSL). You can learn more about SSL at <a href="http://en.wikipedia.org/wiki/Secure_Sockets_Layer">http://en.wikipedia.org/wiki/Secure_Sockets_Layer</a>.</p>
+	<p>
+		We follow generally accepted industry standards to protect the personal information submitted to us, both during transmission and once we receive it. No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore, while we strive to use commercially acceptable means to protect your personal information, we cannot guarantee its absolute security.</p>
+	<h3>
+		Business Transitions</h3>
+	<p>
+		In the event eStoren goes through a business transition, such as a merger, acquisition by another company, or sale of all or a portion of its assets, your personally identifiable information will likely be among the assets transferred. You will be notified via e-mail or prominent notice on our websites of any such change in ownership.</p>
+	<h3>
+		Changes in this Privacy Statement</h3>
+	<p>
+		If we decide to change our privacy policy, we will post those changes to this privacy statement, the homepage, and other places we deem appropriate so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it.</p>
+	<p>
+		We reserve the right to modify this privacy statement at any time, so please review it frequently. If we make material changes to this policy, we will notify you here, by e-mail, or by means of a notice on our home page.</p>
+	<h3>
+		Contact Us</h3>
+	<p>
+		If you have any questions or suggestions regarding our privacy policy, please contact us.</p>
+</div>
+<p>
+	&nbsp;</p>
+  <div class="buttons">
+    <div class="alcent"><a href="http://estoren.com/index.php?route=common/home" class="button">Continue</a></div>
+  </div>
+  </div></div>
+<div class="bigfooticon colorbackwhite handpoint" id="footericon"><i class="icon-eject"></i></div>
+
+<div id="footer" class="colorback">
+    <div class="container">
+        <div class="inner footmenu">
+          <div class="span3">
+              <div class="btn-group">
+                <a class="btn dropdown-toggle colorback" data-toggle="dropdown" href="#">
+                    Information                    <i class="icon-caret-up"></i>
+                </a>
+                <ul class="dropdown-menu bottom-up">
+                                    <li><a href="http://estoren.com/about_us">About Us</a></li>
+                                    <li><a href="http://estoren.com/index.php?route=information/information&amp;information_id=6">Delivery Information</a></li>
+                                    <li><a href="http://estoren.com/index.php?route=information/information&amp;information_id=3">Privacy Policy</a></li>
+                                    <li><a href="http://estoren.com/index.php?route=information/information&amp;information_id=5">Terms &amp; Conditions</a></li>
+                                    <li><a href="http://estoren.com/index.php?route=information/information&amp;information_id=7">Payment</a></li>
+                                  </ul>
+              </div>
+          </div>
+           <div class="span3">
+              <div class="btn-group">
+                <a class="btn dropdown-toggle colorback" data-toggle="dropdown" href="#">
+                    Customer Service                    <i class="icon-caret-up"></i>
+                </a>
+                <ul class="dropdown-menu bottom-up">
+                    <li><a href="http://estoren.com/index.php?route=information/contact">Contact Us</a></li>
+                    <li><a href="http://estoren.com/index.php?route=account/return/insert">Returns</a></li>
+                    <li><a href="http://estoren.com/index.php?route=information/sitemap">Site Map</a></li>
+                </ul>
+              </div>
+          </div>         
+           <div class="span3">
+              <div class="btn-group">
+                <a class="btn dropdown-toggle colorback" data-toggle="dropdown" href="#">
+                    Extras                    <i class="icon-caret-up"></i>
+                </a>
+                <ul class="dropdown-menu bottom-up">
+                    <li><a href="http://estoren.com/index.php?route=product/manufacturer">Brands</a></li>
+                    <li><a href="http://estoren.com/index.php?route=product/special">Specials</a></li>
+                </ul>
+              </div>
+          </div>  
+           <div class="span3">
+              <div class="btn-group">
+                <a class="btn dropdown-toggle colorback" data-toggle="dropdown" href="#">
+                    My Account                    <i class="icon-caret-up"></i>
+                </a>
+                <ul class="dropdown-menu bottom-up">
+                    <li><a href="http://estoren.com/index.php?route=account/account">My Account</a></li>
+                    <li><a href="http://estoren.com/index.php?route=account/order">Order History</a></li>
+                    <li><a href="http://estoren.com/index.php?route=account/wishlist">Wish List</a></li>
+                    <li><a href="http://estoren.com/index.php?route=account/newsletter">Newsletter</a></li>
+                </ul>
+              </div>
+          </div>  
+          
+        </div>
+    </div>
+</div>
+<div id="powered">Powered by eSTOREN 2013</div>
+
+<script type="text/javascript">
+
+$(document).ready(function() {
+		$().UItoTop({ easingType: 'easeOutQuart'});
+
+        function setCookie(name, value, lifetime_days) {
+            var exp = new Date();
+            exp.setDate(new Date().getDate() + lifetime_days);
+            document.cookie = name + '=' + value + ';expires=' + exp.toUTCString() + ';path=/';
+        }
+        
+        function getCookie(name) {
+            if(document.cookie) {
+                var regex = new RegExp(escape(name) + '=([^;]*)', 'gm'),
+                matches = regex.exec(document.cookie);
+                if(matches) {
+                    return matches[1];
+                }
+            }
+        }
+        // show list if cookie exists
+        if(getCookie('showfooter') == 5) {
+            $('#footer').show();
+        }   
+        if(getCookie('showfooter') == 9) {
+            $('#footer').hide();
+        }  
+        
+        // click handler to toggle elements and handle cookie
+        $('#footericon').click(function() {
+            // check the current state
+            if($('#footer').is(':hidden')) {
+                // set cookie
+                setCookie('showfooter', '5', 365);
+            } else {
+                // delete cookie
+                setCookie('showfooter', '9', 365);
+            }
+            // toggle
+            $('#footer').slideToggle('fast');
+            return false;
+        });
+    });
+
+</script>
+</div>
+
+
+
+
+<!-- Histats.com  START (hidden counter)-->
+<script type="text/javascript">document.write(unescape("%3Cscript src=%27http://s10.histats.com/js15.js%27 type=%27text/javascript%27%3E%3C/script%3E"));</script><script src="http://s10.histats.com/js15.js" type="text/javascript"></script>
+<a href="http://www.histats.com" target="_blank" title="hidden hit counter"><script type="text/javascript">
+try {Histats.start(1,2357615,4,0,0,0,"");
+Histats.track_hits();} catch(err){};
+</script></a>
+<noscript><a href="http://www.histats.com" target="_blank"><img  src="http://sstatic1.histats.com/0.gif?2357615&101" alt="hidden hit counter" border="0"></a></noscript>
+<!-- Histats.com  END  -->
+
+
+</body></html>
