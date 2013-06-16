@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the christianeducation.com privacy policy that was archived on 2012-12-03.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121203215519id_/http%3A//www.christianeducation.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the christianeducation.com privacy policy that was archived on 2013-06-16.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130616181309id_/http%3A//www.christianeducation.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" class=" js flexbox canvas canvastext webgl no-touch geolocation postmessage websqldatabase no-indexeddb hashchange history draganddrop websockets rgba hsla multiplebgs backgroundsize borderimage borderradius boxshadow textshadow opacity cssanimations csscolumns cssgradients cssreflections csstransforms csstransforms3d csstransitions fontface video audio localstorage sessionstorage webworkers applicationcache svg inlinesvg smil svgclippaths"><!-- Server Name: 319371-IADWEB16 --><head id="Header"><link rel="stylesheet" type="text/css" href="/themes/default/reset.css" media="screen" title="html5doctor.com Reset Stylesheet"><link rel="stylesheet" type="text/css" href="/themes/default/css3.css" media="screen"><link rel="stylesheet" type="text/css" href="/themes/default/general.css" media="screen"><link rel="stylesheet" type="text/css" href="/themes/default/nivo/default/nivo-default.css"><link rel="stylesheet" type="text/css" href="/ec-dForm/style/jquery.ui.all.css" media="screen"><link href="http://fonts.googleapis.com/css?family=Open+Sans:400,400italic,600,600italic,700,800" rel="stylesheet" type="text/css"><link rel="SHORTCUT ICON" type="image/x-icon" href="/favicon.ico?new">
 
@@ -41,6 +41,7 @@ var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga
     
 
     <!-- START CE Retargeting Pixel - Requested by Hsiao Chen 7-9-12 -->
+     <div class="retargetPixel">
         <script type="text/javascript"> 
         /* <![CDATA[ */ 
         var google_conversion_id = 1035478906; 
@@ -58,6 +59,7 @@ var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga
         <img height="1" width="1" style="border-style:none;" alt="" src="http://www.googleadservices.com/pagead/conversion/1035478906/?value=0&label=IF_XCMbj_wIQ-s7g7QM&guid=ON&script=0"/> 
         </div> 
         </noscript> 
+        </div>
     <!-- END CE Retargeting Pixel - Requested by Hsiao Chen 7-9-12 -->
 
 
@@ -66,6 +68,7 @@ var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga
          
         <!-- Google Code for CE -->
         <!-- Remarketing tags may not be associated with personally identifiable information or placed on pages related to sensitive categories. For instructions on adding this tag and more information on the above requirements, read the setup guide: google.com/ads/remarketingsetup -->
+          <div class="retargetPixel">
         <script type="text/javascript">
         /* <![CDATA[ */
         var google_conversion_id = 985087630;
@@ -81,6 +84,7 @@ var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga
         <img height="1" width="1" style="border-style:none;" alt="" src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/985087630/?value=0&amp;label=7mITCPKxlQUQjv3c1QM&amp;guid=ON&amp;script=0"/>
         </div>
         </noscript>
+        </div>
 
 
 
@@ -88,6 +92,7 @@ var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga
      <!-- START CE Retargeting Pixel - Requested by Hsiao Chen 11-30-12 -->
     <!-- Google Code for CE -->
     <!-- Remarketing tags may not be associated with personally identifiable information or placed on pages related to sensitive categories. For instructions on adding this tag and more information on the above requirements, read the setup guide: google.com/ads/remarketingsetup -->
+      <div class="retargetPixel">
     <script type="text/javascript">
     /* <![CDATA[ */
     var google_conversion_id = 1005943214;
@@ -103,7 +108,10 @@ var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga
     <img height="1" width="1" style="border-style:none;" alt="" src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/1005943214/?value=0&amp;label=9Cl6CIK13QQQrvPV3wM&amp;guid=ON&amp;script=0"/>
     </div>
     </noscript>
+    </div>
 
+    
+    
     
 <div id="bgWrap">
     <!--Header Start-->
@@ -150,8 +158,10 @@ var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga
 <script language="javascript" type="text/javascript" src="/js/dForm/jquery.mousewheel.js"></script>
 <script language="javascript" type="text/javascript" src="/js/dForm/df-js.aspx"></script>
 
+
 <div id="dialog-modal" title="Get Matched to A Christian School!" class="dripModal">
 </div>
+<form>
 <div id="ceForm">
     <div class="modalArrow" id="modalArrow" style="display: none;">
         <div class="close" id="closeArrow">
@@ -163,6 +173,7 @@ var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga
     </div>
     <div id="formDF">
         <fieldset>
+            <input id="leadid_token" name="leadid_token" type="hidden" value="" style="display: none;">
             <!--<input type="hidden" name="ResetSession" value="true" />-->
             <!--<input type="hidden" name="showerror" value="true" />-->
             <input type="hidden" name="sessionstarted" value="1">
@@ -171,14 +182,16 @@ var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga
             <input type="hidden" name="EBureauCheck" value="false">
             <input type="hidden" name="IgnoreLeadValidation" value="true">
             <input type="hidden" name="UseLeadCaps" value="true">
-            <input type="hidden" name="CampusPreference" value="Both">
+            <!--<input type="hidden" name="CampusPreference" value="Both" />-->
             <input type="hidden" name="PhoneNumber" value="">
             <input type="hidden" name="AlternatePhoneNumber" value="">
             <input type="hidden" name="AreaOfInterest" value="">
             <input type="hidden" name="SubjectArea" value="">
-            <input type="hidden" name="AllowNonChristian" value="true">
+            <input type="hidden" name="AllowNonChristian" value="false">
             <input type="hidden" name="InCID" value="">
-             <input type="hidden" name="BestTimeToContact" value="12:00 pm">
+            <input type="hidden" name="BestTimeToContact" value="12:00 pm">
+            <input type="hidden" name="NewsletterOptIn" value="Yes, I would like to receive the Education Connection newsletter">
+            <input type="hidden" name="ShowNonChristianSchoolsStep" value="false">
         </fieldset>
         <div style="position: absolute; left: -9999px;" id="iframediv">
         </div>
@@ -331,11 +344,7 @@ var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga
                                 <div id="valText_Email" class="ghostText" style="clear: both; min-width: 150px !important;">
                                     Enter a valid email address.</div>
                             </div>
-                            <div class="formRowNews">
-                                <div class="ez-checkbox"><input name="NewsletterOptIn" id="NewsletterOptIn" type="checkbox" autocomplete="off" class="ez-hide"></div>
-                                <label for="NewsletterOptIn">
-                                    I would like to receive the ChristianEducation.com newsletter</label>
-                            </div>
+                            
                         </fieldset>
                         <!-- END STEP #5 CONTENT -->
                         <!-- BEGIN STEP #6 CONTENT -->
@@ -436,9 +445,10 @@ var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga
                                 </div>
                             </div>
                             <div class="formRowAddtnl clearfix">
-                                <label for="Denomination">Denomination:<br>(optional)</label>                                
+                                <label for="Denomination">
+                                    Denomination:<br>
+                                    (optional)</label>
                                 <select name="Denomination" id="Denomination">
-
                                     <option value="">--SELECT--</option>
                                     <option value="Adventist">Adventist</option>
                                     <option value="Baptist">Baptist</option>
@@ -486,7 +496,20 @@ var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga
                         <fieldset id="stepContent8">
                             <h3>
                                 Additional Questions</h3>
-                            
+                            <div class="formRowAddtnlExt clearfix">
+                                <div id="divCampusPreference">
+                                    <label for="CampusPreference">
+                                        How would you like to learn?</label>
+                                    <select name="CampusPreference" id="CampusPreference" required="">
+                                    <option value="" selected="">--SELECT--</option>
+                                    <option value="Online">Online</option>
+                                    <option value="Campus">Campus</option>
+                                    <option value="Both">Both</option>
+                                    </select>
+                                    <div id="val_CampusPreference" class="ghost">
+                                    </div>
+                                </div>
+                            </div>
                             <div class="formRowAddtnlExt clearfix">
                                 <label>
                                     Do you have existing credits to transfer?</label>
@@ -568,10 +591,11 @@ var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga
                             <div class="formRowAccept clearfix">
                                 <div class="ez-checkbox"><input name="OptinSchoolContact" id="OptinSchoolContact" type="checkbox" class="fieldRight ez-hide" required="" value="Yes"></div>
                                 <label for="OptinSchoolContact">
-                                    I acknowledge that by providing my telephone number and submitting this form, I
-                                    may be contacted by telephone or email by up to three matching schools and the schools
-                                    I have selected, along with EducationDynamics and preferred third-party partners,
-                                    for additional education products and services.</label>
+                                    I acknowledge that by providing my telephone number 
+                                    and submitting this form, I may be contacted by 
+                                    telephone or email by up to three matching schools 
+                                    and the schools I have selected, along with EducationDynamics 
+                                    and preferred third-party partners, for additional education products and services.</label>
                                 <div id="val_OptinSchoolContact" class="ghost">
                                 </div>
                             </div>
@@ -625,6 +649,11 @@ var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga
     </div>
     <!-- END TRUSTE SEAL -->
 </div>
+</form>
+<script src="/js/EC_LeadiD.js" type="text/javascript"></script>
+<div class="retargetPixel">
+    <script id="LeadiDscript_campaign" type="text/javascript" async="" src="https://d1tprjo2w7krrh.cloudfront.net/campaign/501819c7-30c8-4d37-8fb9-4b0c0a76311c.js"></script><script id="LeadiDscript" type="text/javascript">        (function () { var s = document.createElement('script'); s.id = 'LeadiDscript_campaign'; s.type = 'text/javascript'; s.async = true; s.src = (document.location.protocol + '//d1tprjo2w7krrh.cloudfront.net/campaign/501819c7-30c8-4d37-8fb9-4b0c0a76311c.js'); var LeadiDscript = document.getElementById('LeadiDscript'); LeadiDscript.parentNode.insertBefore(s, LeadiDscript); })();</script>
+</div>
 
         <!-- END DRIP FORM -->  
 
@@ -649,9 +678,7 @@ lpMTagConfig.vars.push(
    ['Site', 'cedu'],
    ['Language', 'english'],
    ['Section', 'Home'],
-   ['Source', 'TV'],
-   ['Campaign', 'CE Direct CEGoogleTVDirect_rurl_blank_CID_Blank_lurl_christianeducation.com'],
-   ['SessionID', 'CR176273945']);
+   ['SessionID', 'CR217240837']);
 $(document).ready(function () {
    getErrors();
 });
@@ -689,8 +716,7 @@ function getErrors() {
         <!-- START BODY -->        
             <div class="bodyContent">
                 <h2>Privacy Policy</h2>
-                <p>Last Revised: October 2011 </p>
-
+                
                  <!-- TRUSTE SEAL CODE -->
 
         <div id="c58d7134-4711-4c21-9f71-74668d405ae7"> <script type="text/javascript" src="//privacy-policy.truste.com/privacy-seal/eLearners-com,-Inc-/asc?rid=c58d7134-4711-4c21-9f71-74668d405ae7"></script><a href="//privacy.truste.com/privacy-seal/eLearners-com,-Inc-/validation?rid=d76b4de5-dd03-4789-955a-c87cd33e0dc2" title="TRUSTe online privacy certification" target="_blank"><img style="border: none" src="//privacy-policy.truste.com/privacy-seal/eLearners-com,-Inc-/seal?rid=d76b4de5-dd03-4789-955a-c87cd33e0dc2" alt="TRUSTe online privacy certification"></a></div>
@@ -742,75 +768,28 @@ function getErrors() {
 
     <h3>
 
-        How We Use Your Information</h3>
+        How We Use Your Information And How We Share Your Data</h3>
 
     <p>
 
-        We may use your personal data in the following ways:
-
+        EducationDynamics will not disclose your personally identifiable information except as described below:
     </p>
 
-    <ul>
-
-        <li>For the purpose for which you specifically provided the personal data, for example,
-
-            but not limited to, to match your student matching profile to educational institutions
-
-            or to respond to a specific inquiry. </li>
-
-        <li>To send you notifications about your accounts or transactions with us and to otherwise
-
-            contact you with information that we believe will be of interest to you. </li>
-
-        <li>To notify you about our products and services and special offers. </li>
-
-        <li>To enhance existing features or develop new features products and services.
-
-        </li>
-
-    </ul>
-
-    <p>
-
-        We may combine the information that we collect from you on the Site with information
-
-        that we collect from third parties.
-
-        <br>
-
-    </p>
-
-    <h3>
-
-        Sharing Your Data</h3>
-
-    <p>
-
-        We share this personal data with the educational institutions to which we have matched
-
-        your profile so that these institutions can contact you with information about their
-
-        educational programs. These educational institutions are not governed by this Privacy
-
-        Policy. If you want to know more about a partner school’s use of your information,
-
-        contact the school directly. We share the information you have provided on our matching
-
-        profile with educational institutions.
-
-    </p>
-
-    <p>
-
-        We also share your information with third party service providers who help us to run this Site, provide services offered on this Site or to fulfill your requests with educational institutions and/or educational marketing providers. We may also need to disclose your personal data to third parties if required by law or to enforce our User Agreement or this Privacy Policy, or when we, in our sole discretion, believe it is necessary or appropriate, in connection with a sale or transfer of some or all of our assets in the Site.</p>
-
-    <p>
-
-        <u>If you do not wish to have your personally identifiable information shared, to opt-out from receiving further communications from any third party that is not our agent or service provider. Please contact that marketing partner/affiliate directly. </u>
-
-    </p>
-
-    <h2>
+    <p>If you use our site or if you post on our blogs, forums, message boards, or chat rooms, some personally identifiable information may be seen by other members or users. This includes, but is not limited to, the poster's name, date of post, comments, IP address, survey responses, and other information. This information may also be transferred to any outside entity, including the press or other media that visits our site. </p>
+    
+    <p>We use the information we automatically collect (such as contact information, IP address and basic browser and system details) to help us optimize our sites and the services we currently offer on the sites and may offer in the future.  We also collect personal information and share it with trusted third parties to analyze and provide us with feedback, suggestions and strategies to improve our business processes and the services we provide.  If you elect to provide us with personally identifiable information, such information may also be used for marketing purposes, and may result in follow-up communications from EducationDynamics, our affiliated properties and services, and institutions of higher education about opportunities, programs and other services that are related to education. In addition, from time to time, we may share personally identifiable information (such as e-mail addresses and other contact information such as name, email address and phone number) with carefully selected third parties, so they may offer goods and services that we believe may be of interest to our customers.</p>
+   
+    <p>EducationDynamics shares your personal information with the educational institutions you selected and, if you use one of our matching services, those institutions which we have matched your profile so that these institutions may contact you with information about their programs. Use of your personal information by these educational institutions is not governed by this Privacy Policy.  For further information on such institution’s use of your information, please visit the applicable privacy policy of such institution.  Educational institutions have separate policy practices for which EducationDynamics has no responsibility or liability.  </p>
+    
+    <p>If you submit information to an advertiser or other third party that is made available on or through EducationDynamics, the information obtained during your visit to that advertiser’s website, and the information you give to the advertiser will be governed by the advertiser’s privacy policy.  For further information on such advertiser’s use of your information, please visit the applicable privacy policy of such advertisers. Advertisers made available on this site have separate policy practices for which EducationDynamics has no responsibility or liability. </p>
+    
+    <p>We may disclose account information where we have reason to believe that disclosing the information is necessary to identify, contact, or bring legal action against someone who may be violating EducationDynamics's policies as specified in the Privacy Policy or relevant User Agreement, may be violating state or federal law, or may be causing injury to or interference with (either intentionally or unintentionally) EducationDynamics's rights or property, other users of the Site, or anyone else that could be harmed by such activities. EducationDynamics may disclose or access account information when we believe that the law requires it and for administrative and other purposes that we deem necessary to maintain and improve our services. </p>
+   
+    <p>Additionally, EducationDynamics uses your information to provide you with a customized browsing experience. We also may use your personal information to resolve disputes, troubleshoot problems, respond to your inquiries, detect and protect against error, fraud, or other criminal activity, enforce our User Agreement, and for any other purposes that EducationDynamics deems appropriate. </p>
+    
+    <p>We cannot ensure that all of your private communications and other personal information will never be disclosed in ways not otherwise described in this Policy. For example, we may be forced to disclose information to the government or third parties under certain circumstances, third parties may unlawfully intercept or access transmissions or private communications, or users may abuse or misuse your personal information that they unlawfully collect from the Site. We will try to protect your privacy, however, we do not promise, and you should not expect, that your personal information or private communications will always remain private. </p>
+       
+     <h2>
 
         Newsletter Subscription</h2>
 
@@ -1072,6 +1051,8 @@ function getErrors() {
 
         TRUSTe will then serve as a liaison with us to resolve your concerns.</p>
 
+        <p>This updated policy is effective as of October 24, 2012 </p>
+
             </div>
 
             
@@ -1139,7 +1120,7 @@ function getErrors() {
                     <a href="#" onclick="javascript:try{_gaq.push(['_trackEvent','Newsletter','Sign-Ups']);}catch(e){}"><img id="subscribeBtn" src="/themes/default/images/btnSubscribeNow.png" border="0"></a>
                 </div>
             
-            <div class="footerCr"><a href="/privacy">Privacy Policy</a> | <a href="/terms">Terms of Use</a> | © 2012 ChristianEducation.com</div>
+            <div class="footerCr"><a href="/privacy">Privacy Policy</a> | <a href="/terms">Terms of Use</a> | © <span class="year"></span> ChristianEducation.com</div>
         </div>
     </footer>
 </div>
@@ -1149,4 +1130,16 @@ function getErrors() {
 </div>
 
 
-<ul class="ui-selectmenu-menu ui-widget ui-widget-content ui-selectmenu-menu-dropdown ui-corner-bottom edDrops" aria-hidden="true" role="listbox" aria-labelledby="GraduationYear-button" id="GraduationYear-menu" aria-activedescendant="ui-selectmenu-item-652" style="width: 180px; height: 256px; top: 29px; left: 0px;"><li role="presentation" class="ui-selectmenu-item-selected"><a href="#" tabindex="-1" role="option" aria-selected="true" id="ui-selectmenu-item-652">--SELECT--</a></li><li role="presentation"><a href="#" tabindex="-1" role="option" aria-selected="false">2020</a></li><li role="presentation"><a href="#" tabindex="-1" role="option" aria-selected="false">2019</a></li><li role="presentation"><a href="#" tabindex="-1" role="option" aria-selected="false">2018</a></li><li role="presentation"><a href="#" tabindex="-1" role="option" aria-selected="false">2017</a></li><li role="presentation"><a href="#" tabindex="-1" role="option" aria-selected="false">2016</a></li><li role="presentation"><a href="#" tabindex="-1" role="option" aria-selected="false">2015</a></li><li role="presentation"><a href="#" tabindex="-1" role="option" aria-selected="false">2014</a></li><li role="presentation"><a href="#" tabindex="-1" role="option" aria-selected="false">2013</a></li><li role="presentation"><a href="#" tabindex="-1" role="option" aria-selected="false">2012</a></li><li role="presentation"><a href="#" tabindex="-1" role="option" aria-selected="false">2011</a></li><li role="presentation"><a href="#" tabindex="-1" role="option" aria-selected="false">2010</a></li><li role="presentation"><a href="#" tabindex="-1" role="option" aria-selected="false">2009</a></li><li role="presentation"><a href="#" tabindex="-1" role="option" aria-selected="false">2008</a></li><li role="presentation"><a href="#" tabindex="-1" role="option" aria-selected="false">2007</a></li><li role="presentation"><a href="#" tabindex="-1" role="option" aria-selected="false">2006</a></li><li role="presentation"><a href="#" tabindex="-1" role="option" aria-selected="false">2005</a></li><li role="presentation"><a href="#" tabindex="-1" role="option" aria-selected="false">2004</a></li><li role="presentation"><a href="#" tabindex="-1" role="option" aria-selected="false">2003</a></li><li role="presentation"><a href="#" tabindex="-1" role="option" aria-selected="false">2002</a></li><li role="presentation"><a href="#" tabindex="-1" role="option" aria-selected="false">2001</a></li><li role="presentation"><a href="#" tabindex="-1" role="option" aria-selected="false">2000</a></li><li role="presentation"><a href="#" tabindex="-1" role="option" aria-selected="false">1999</a></li><li role="presentation"><a href="#" tabindex="-1" role="option" aria-selected="false">1998</a></li><li role="presentation"><a href="#" tabindex="-1" role="option" aria-selected="false">1997</a></li><li role="presentation"><a href="#" tabindex="-1" role="option" aria-selected="false">1996</a></li><li role="presentation"><a href="#" tabindex="-1" role="option" aria-selected="false">1995</a></li><li role="presentation"><a href="#" tabindex="-1" role="option" aria-selected="false">1994</a></li><li role="presentation"><a href="#" tabindex="-1" role="option" aria-selected="false">1993</a></li><li role="presentation"><a href="#" tabindex="-1" role="option" aria-selected="false">1992</a></li><li role="presentation"><a href="#" tabindex="-1" role="option" aria-selected="false">1991</a></li><li role="presentation"><a href="#" tabindex="-1" role="option" aria-selected="false">1990</a></li><li role="presentation"><a href="#" tabindex="-1" role="option" aria-selected="false">1989</a></li><li role="presentation"><a href="#" tabindex="-1" role="option" aria-selected="false">1988</a></li><li role="presentation"><a href="#" tabindex="-1" role="option" aria-selected="false">1987</a></li><li role="presentation"><a href="#" tabindex="-1" role="option" aria-selected="false">1986</a></li><li role="presentation"><a href="#" tabindex="-1" role="option" aria-selected="false">1985</a></li><li role="presentation"><a href="#" tabindex="-1" role="option" aria-selected="false">1984</a></li><li role="presentation"><a href="#" tabindex="-1" role="option" aria-selected="false">1983</a></li><li role="presentation"><a href="#" tabindex="-1" role="option" aria-selected="false">1982</a></li><li role="presentation"><a href="#" tabindex="-1" role="option" aria-selected="false">1981</a></li><li role="presentation" class="ui-corner-bottom"><a href="#" tabindex="-1" role="option" aria-selected="false">1980</a></li></ul><ul class="ui-selectmenu-menu ui-widget ui-widget-content ui-selectmenu-menu-dropdown ui-corner-bottom edDrops" aria-hidden="true" role="listbox" aria-labelledby="ExpectedGY-button" id="ExpectedGY-menu" aria-activedescendant="ui-selectmenu-item-327" style="width: 180px; top: 29px; left: 0px;"><li role="presentation" class="ui-selectmenu-item-selected"><a href="#" tabindex="-1" role="option" aria-selected="true" id="ui-selectmenu-item-327">--SELECT--</a></li><li role="presentation"><a href="#" tabindex="-1" role="option" aria-selected="false">2020</a></li><li role="presentation"><a href="#" tabindex="-1" role="option" aria-selected="false">2021</a></li><li role="presentation"><a href="#" tabindex="-1" role="option" aria-selected="false">2022</a></li><li role="presentation" class="ui-corner-bottom"><a href="#" tabindex="-1" role="option" aria-selected="false">2023</a></li></ul></body></html>
+<div class="retargetPixel"><iframe src="http://img-cdn.mediaplex.com/0/20691/universal.html?page_name=christianed_entry_page&amp;ChristianEd_Entry=1&amp;mpuid=" height="1" width="1" frameborder="0"></iframe></div><div class="retargetPixel"><!-- Google Code for CE --> <!-- Remarketing tags may not be associated with personally identifiable information or placed on pages related to sensitive categories. For instructions on adding this tag and more information on the above requirements, read the setup guide: google.com/ads/remarketingsetup -->
+<script type="text/javascript">
+/* <![CDATA[ */
+var google_conversion_id = 1034055822;
+var google_conversion_label = "_2ElCOThsQMQjuGJ7QM";
+var google_custom_params = window.google_tag_params;
+var google_remarketing_only = true;
+/* ]]> */
+</script>
+<script type="text/javascript" src="//www.googleadservices.com/pagead/conversion.js&quot;&gt;&#10;&lt;/script&gt;&#10;&lt;noscript&gt;&#10;&lt;div style=" display:inline;"="">
+<img height="1" width="1" style="border-style:none;" alt="" src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/1034055822/?value=0&label=_2ElCOThsQMQjuGJ7QM&guid=ON&script=0"/>
+</div>
+</noscript></div><div class="retargetPixel"></div></script></div><ul class="ui-selectmenu-menu ui-widget ui-widget-content ui-selectmenu-menu-dropdown ui-corner-bottom edDrops" aria-hidden="true" role="listbox" aria-labelledby="GraduationYear-button" id="GraduationYear-menu" aria-activedescendant="ui-selectmenu-item-879" style="width: 180px; height: 256px; top: 29px; left: 0px;"><li role="presentation" class="ui-selectmenu-item-selected"><a href="#" tabindex="-1" role="option" aria-selected="true" id="ui-selectmenu-item-879">--SELECT--</a></li><li role="presentation"><a href="#" tabindex="-1" role="option" aria-selected="false">2020</a></li><li role="presentation"><a href="#" tabindex="-1" role="option" aria-selected="false">2019</a></li><li role="presentation"><a href="#" tabindex="-1" role="option" aria-selected="false">2018</a></li><li role="presentation"><a href="#" tabindex="-1" role="option" aria-selected="false">2017</a></li><li role="presentation"><a href="#" tabindex="-1" role="option" aria-selected="false">2016</a></li><li role="presentation"><a href="#" tabindex="-1" role="option" aria-selected="false">2015</a></li><li role="presentation"><a href="#" tabindex="-1" role="option" aria-selected="false">2014</a></li><li role="presentation"><a href="#" tabindex="-1" role="option" aria-selected="false">2013</a></li><li role="presentation"><a href="#" tabindex="-1" role="option" aria-selected="false">2012</a></li><li role="presentation"><a href="#" tabindex="-1" role="option" aria-selected="false">2011</a></li><li role="presentation"><a href="#" tabindex="-1" role="option" aria-selected="false">2010</a></li><li role="presentation"><a href="#" tabindex="-1" role="option" aria-selected="false">2009</a></li><li role="presentation"><a href="#" tabindex="-1" role="option" aria-selected="false">2008</a></li><li role="presentation"><a href="#" tabindex="-1" role="option" aria-selected="false">2007</a></li><li role="presentation"><a href="#" tabindex="-1" role="option" aria-selected="false">2006</a></li><li role="presentation"><a href="#" tabindex="-1" role="option" aria-selected="false">2005</a></li><li role="presentation"><a href="#" tabindex="-1" role="option" aria-selected="false">2004</a></li><li role="presentation"><a href="#" tabindex="-1" role="option" aria-selected="false">2003</a></li><li role="presentation"><a href="#" tabindex="-1" role="option" aria-selected="false">2002</a></li><li role="presentation"><a href="#" tabindex="-1" role="option" aria-selected="false">2001</a></li><li role="presentation"><a href="#" tabindex="-1" role="option" aria-selected="false">2000</a></li><li role="presentation"><a href="#" tabindex="-1" role="option" aria-selected="false">1999</a></li><li role="presentation"><a href="#" tabindex="-1" role="option" aria-selected="false">1998</a></li><li role="presentation"><a href="#" tabindex="-1" role="option" aria-selected="false">1997</a></li><li role="presentation"><a href="#" tabindex="-1" role="option" aria-selected="false">1996</a></li><li role="presentation"><a href="#" tabindex="-1" role="option" aria-selected="false">1995</a></li><li role="presentation"><a href="#" tabindex="-1" role="option" aria-selected="false">1994</a></li><li role="presentation"><a href="#" tabindex="-1" role="option" aria-selected="false">1993</a></li><li role="presentation"><a href="#" tabindex="-1" role="option" aria-selected="false">1992</a></li><li role="presentation"><a href="#" tabindex="-1" role="option" aria-selected="false">1991</a></li><li role="presentation"><a href="#" tabindex="-1" role="option" aria-selected="false">1990</a></li><li role="presentation"><a href="#" tabindex="-1" role="option" aria-selected="false">1989</a></li><li role="presentation"><a href="#" tabindex="-1" role="option" aria-selected="false">1988</a></li><li role="presentation"><a href="#" tabindex="-1" role="option" aria-selected="false">1987</a></li><li role="presentation"><a href="#" tabindex="-1" role="option" aria-selected="false">1986</a></li><li role="presentation"><a href="#" tabindex="-1" role="option" aria-selected="false">1985</a></li><li role="presentation"><a href="#" tabindex="-1" role="option" aria-selected="false">1984</a></li><li role="presentation"><a href="#" tabindex="-1" role="option" aria-selected="false">1983</a></li><li role="presentation"><a href="#" tabindex="-1" role="option" aria-selected="false">1982</a></li><li role="presentation"><a href="#" tabindex="-1" role="option" aria-selected="false">1981</a></li><li role="presentation" class="ui-corner-bottom"><a href="#" tabindex="-1" role="option" aria-selected="false">1980</a></li></ul><ul class="ui-selectmenu-menu ui-widget ui-widget-content ui-selectmenu-menu-dropdown ui-corner-bottom edDrops" aria-hidden="true" role="listbox" aria-labelledby="ExpectedGY-button" id="ExpectedGY-menu" aria-activedescendant="ui-selectmenu-item-803" style="width: 180px; top: 29px; left: 0px;"><li role="presentation" class="ui-selectmenu-item-selected"><a href="#" tabindex="-1" role="option" aria-selected="true" id="ui-selectmenu-item-803">--SELECT--</a></li><li role="presentation"><a href="#" tabindex="-1" role="option" aria-selected="false">2020</a></li><li role="presentation"><a href="#" tabindex="-1" role="option" aria-selected="false">2021</a></li><li role="presentation"><a href="#" tabindex="-1" role="option" aria-selected="false">2022</a></li><li role="presentation" class="ui-corner-bottom"><a href="#" tabindex="-1" role="option" aria-selected="false">2023</a></li></ul></body></html>
