@@ -1,65 +1,83 @@
-> *The following text is extracted and transformed from the myblogsite.com privacy policy that was archived on 2004-10-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041009191105id_/http%3A//www.domaindirect.com/policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myblogsite.com privacy policy that was archived on 2013-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130616220312id_/http%3A//myblogsite.com/legal/legal_privacy.bml) for the most accurate reproduction.*
 
-# Domain Name Registration and Web Hosting from Domain Direct
+# Dotster's Privacy Policy
 
-**Security and Privacy Statement**
+Your privacy is very important to Dotster, Inc. ("Dotster"). We want to make your experience using our services and on the Internet as enjoyable and rewarding as possible, and we want you to use the Internet's vast array of information, tools and opportunities with complete confidence.
 
-* * *
+We have created this Privacy Policy to demonstrate our firm commitment to privacy and security. This Privacy Policy describes how Dotster collects information from all end users of Dotster's Internet services (the "Services") including those who access some of our Services but do not have accounts ("Visitors") as well as those who pay a service fee to subscribe to the Services ("Users"). We also describe what we do with the information we collect and the choices Visitors and Users have concerning the collection and use of such information. Dotster requests that you read this Privacy Policy carefully.
 
-## Security Policy
+  1. **Introduction.** Dotster collects information in different ways from Visitors and Users who access the various parts of our Services and the network of websites accessible through our Services. We use this information primarily to provide a customized experience as you use our Services and, generally, do not share this information with third parties. However, we may disclose personal information collected if we have received your permission beforehand or in very special circumstances, such as when we believe that such disclosure is required or permitted by law or other special cases described below.
+  
 
-**Domain Direct** has created a state-of-the-art, real-time transaction system, that uses industry standard Secure Socket Layer (SSL) encryption, as well as private links to international banking networks, to ensure your information is quickly and securely authorized and processed.
+  2. **Registration and Account Information.** Users are asked to provide certain personal information when they sign up for our Services including name, postal address, email address, telephone number, billing information (such as a credit card number), and the type of personal computer being used to access the Services. In addition, for domain registrations, Users may be asked to submit the above listed personal information for the registrant, administrative, technical and billing contacts of a domain name for submission to the appropriate domain registry or registration database (collectively, "Domain Name Registration Information"). Users are asked to complete an online form that collects information about demographics, product usage and preferences, along with other information that will help us improve our products and services. The personal information collected from Users through these forms is used to manage each User's account (such as for billing purposes) and provide Users with information about services that may be of interest to them. This information is not shared with third parties, unless specifically stated otherwise or in special circumstances. However, in instances where Dotster and a partner jointly promote the Services, Dotster may provide the partner certain personal information, such as the name, address, and username of persons who subscribed to the Services as a result of the joint promotion for the sole purpose of allowing us and the partner to assess the results of the promotion. In this instance, personal information may not be used by the partner for any other purpose. Dotster may also generate non-identifying and aggregate profiles from personal information Users provide during registration (such as the total number, but not the names, of Users). As explained in more detail below, we may in certain instances use this aggregated and non-identifying information to sell advertisements that appear on the Services.
+  
 
-Your credit card information is protected in two ways. First of all, as a result of the SSL-based encryption, your card number is ALWAYS secure during transmission. A visual means of confirming this is for you to watch the small padlock icon in your browser. While on any page where financial information is to be entered, this icon will change to a locked state, denoting a secure page. This security measure is privately audited by an independent third-party, Geotrust, whose icon you can click on from any secured page to confirm its secure status.
+  3. **Domain Registration.** In certain jurisdictions or pursuant to the rules of the Internet Corporation for Assigned Names and Numbers ("ICANN") or certain registries, Domain Name Registration Information legally has to be available to the public. Where Domain Name Registration Information is available to the public, anyone can access it through "WHOIS" searches. The WHOIS database is a publicly accessible database that lists the domain name and contact information of the registrant, adminitrative, and technical contacts for the domain name, the nameserver(s), and the domain name's creation and expiration date. The Domain Name Registration Information you provide is hosted by us and provided to the public. At times, our Users may receive solicitations that result from searches of the publicly available WHOIS database conducted by other companies or individuals. However, the solicitation and/or SPAM they receive do not in any way come from Dotster and Dotster does not control the use of WHOIS information by third parties. Further, pursuant to ICANN rules, Dotster is required to make WHOIS data available to a third party that enters into a bulk access agreement. ICANN allows individuals to opt-out (using the account management panel, domain management console or similar service) of their WHOIS information being made available to third parties through bulk access; however, companies, businesses, and other organizations do not have the option to choose not to have their information made available to such a third party under a bulk access agreement. We may also deposit your Domain Name Registration Information with a third-party escrow provider to comply with ICANN requirements.
+  
 
-Secondly, our private links to banking networks ensure that your sensitive information is ALWAYS secure once we have received it. All the information traveling on our banking network is guaranteed 100% secure - in fact, it's more heavily-encrypted than your private telephone conversations!
+  4. **Dotster Partners and Sponsors.** Some products and services are offered to Visitors and Users in conjunction with a partner (e.g., domain registration and for joint promotions, as described in paragraph 2 above). To provide Visitors and Users with some of these products and services, the partner may need to collect and maintain personal information. In these instances, we will provide such data collected or transferred to our Partners and Sponsors. Additionally, many Dotster Users have co-branded pages that are co-sponsored by non-affiliated partners. Dotster will share non-identifying and aggregate information (except as described above), but not personally identifiable information of individual Users, with such partners in order to administer the co-branded products or services offered.
+  
 
-Domain Direct actively works with international banking institutions and law enforcement to discover and prosecute cases of fraudulent credit card use. All connections to, and transactions within Domain Directare logged and regularly audited. WE USE ALL MEANS AVAILABLE TO US TO PURSUE CRIMINAL PROSECUTION AGAINST PERSONS ATTEMPTING FRAUD OR UNAUTHORIZED ACCESS TO OUR SYSTEMS, IN ALL ICPO/INTERPOL JURISDICTIONS.
+  5. **Online Shopping.** At some websites that you access through links on Dotster, you can purchase products and services or register to receive materials, such as a catalog or new product updates. In many cases, you may be asked to provide contact information, such as your name, address, email address, phone number, and credit/debit card information. If you complete an order for a Web site or service that is not provided by Dotster, Dotster has no control over the third parties' use of any personal information you provide when placing such an order and therefore we have no responsibility or liability for the manner in which the organizations that operate such linked websites may collect, use or disclose, secure and otherwise treat your personal information. Except as provided herein, we will not provide any of your personal information to these third parties without your consent. We provide links to these websites as a convenience to the User. Please exercise care when visiting linked websites. The linked websites have separate and independent privacy statements, notices and terms of use which we recommend you read carefully. If you order products directly from Dotster, we will use the personal information you provide only to process that order. We do not share this information with outside parties except to the extent necessary to complete that order.
+  
 
-## Private Information Policy
+  6. **Online Advertisements.** Dotster does not share personally identifiable information about its individual Visitors or Users with advertisers. Dotster may display online advertisements and may share aggregated and non-identifying information about our Visitors and Users collected through the registration process, as well as through online surveys and promotions with these advertisers. Additionally, in some instances, we use this aggregated and non-identifying information to deliver tailored advertisements. For instance, an advertiser tells us the audience they want to reach (for example, males between 25 and 55 years of age) and provides us an advertisement tailored to the audience. Based upon the aggregated and non-identifying information we have collected, we may then display the advertisement to the intended audience.
+  
 
-We appreciate that many users do not feel comfortable providing their real address, due to the the high incidence of junk mail we all suffer from. Our privacy guarantee specifically states that we will **NOT** share, barter, sell, or trade your confidential information with ANYONE, under ANY circumstances (except in the case of legal proceedings). From time to time, Domain Direct may use your personal information to contact you by electronic mail concerning our services. These communications are intended to inform you of important information regarding your account, or about general services provided by Domain Direct. If you do not want to receive email from us regarding new services, please click the "unsubscribe" link which is included at the bottom of any email you receive from Domain Direct. However, in order to fulfill our service obligations to you, we will continue to send you emails regarding your account administration, as well as any necessary information, such as renewal instructions. Also, ICANN regulations require that your contact information be included in the publicly-accessible WhoIs database; if it is not included, you can lose your domain. Note that this will not include your credit card information, the contents or location of your Website, or any email address other than your direct contact address. An example of the information which will be displayed is as follows:
+  7. **Responses to Email Inquiries.** When Visitors or Users send email inquiries to Dotster, the return email address (and other personal information provided in the inquiry) is used to answer the email inquiry we receive. Dotster does not use the return email address for any other purpose and does not share the return email address with any third party.
+  
 
-**[whois.opensrs.net]**
+  8. **Voluntary Customer Surveys.** We may periodically conduct both business and individual customer surveys. We encourage our Users to participate in these surveys because they provide us with important information that helps us to improve the types of services we offer and how we provide them to you. Your personal information and responses will remain strictly confidential, even if the survey is conducted by a third party. Participation in our customer surveys is voluntary. We take the information we receive from individuals responding to our Customer Surveys and combine (or aggregate) it with the responses of other Dotster Users to create broader, generic responses to the survey questions (such as gender, age, residence, hobbies, education, employment, industry sector, or other demographic information). We then use the aggregated information to improve the quality of our services to you, and to develop new services and products. This aggregated, non-personally identifying information may be shared with third parties. Unless otherwise noted in the survey invitation or the survey itself, Users have the option of completing surveys anonymously or providing us with contact information. We may use the contact information to follow up with Users based on the answers they provide. We may also contact you to highlight the changes we have made in response to feedback. 
+  
 
-**Registrant:**  
-Tucows, Inc.  
-96 Mowat Ave.  
-Toronto, ON M6K 3M1  
-CA
+  9. **Service Providers.** We may transfer (or otherwise make available) your personal information to our affiliates and other third parties who provide services on our behalf. For example, as discussed above, we may use service providers to authorize and process payments, administer surveys, and run our promotions. Your personal information may be maintained and processed by our affiliates and other third party service providers in the US or other jurisdictions. Our service providers are given the information they need to perform their designated functions, and we do not authorize them to use or disclose personal information for their own marketing or other purposes. 
+  
 
-**Domain name:** DOMAINFORWARDING.COM
+  10. **Sale of Business.** We may transfer your personal information as an asset in connection with a merger or sale (including transfers made as part of insolvency or bankruptcy proceedings) involving all or part of Dotster as part of a corporate reorganization or stock sale or other change in corporate control. Dotster may share personally identifiable information with other entities that are owned by Dotster or that own Dotster or that have some sort of corporate ownership relationship with Dotster.
+  
 
-**Administrative Contact:**  
-Direct, Domain [**help@domaindirect.com**](mailto:help@domaindirect.com)  
-96 Mowat Ave.  
-Toronto, ON M6K 3M1  
-CA  
-**+1.4165312084 Fax:** +1.4165315584
+  11. **Special Cases.** It is Dotster's policy not to use or share the personal information about Visitors of Users in ways unrelated to the ones described above without your consent. However, Dotster, or our service providers, may disclose personal information about Visitors or Users, or information regarding your use of the Services or websites accessible through our Services, for any reason, in our sole discretion to comply with US, Canadian or other laws, such as the Electronic Communications Privacy Act, regulations, or governmental or legal requests or demands for such information; in response to a search warrant or other legally valid inquiry or order; to an investigative body in the case of a breach of an agreement or contravention of law; to disclose information that is necessary to identify, contact, or bring legal action against someone who, for example, may be violating our Acceptable Use Policy or other user policies; to operate the Services properly; to protect Dotster and our Users; or as otherwise permitted or required by law.
+  
 
-**Technical Contact:**  
-Domain, Direct [**dnstech@domaindirect.com**](mailto:dnstech@domaindirect.com)  
-96 Mowat Avenue  
-Toronto, ON M6K 3M1  
-CA  
-**+1.4165350123 Fax:** +1.4165312516
+  12. **"Cookies" and How Dotster Uses Them.** A "cookie" is a small data file that can be placed on your hard drive when you visit certain websites. Dotster may use cookies to collect, store, and sometimes track information for statistical purposes to improve the products and services we provide and to manage our telecommunications networks.. These cookies do not enable third parties to access any of your User information. You may set your Web browser to notify you when you receive a cookie. However, if you decide not to accept cookies, you may not be able to take advantage of all of the features of our Web site. Additionally, be aware that if you visit non-Dotster websites where you are prompted to log in or that are customizable, you may be required to accept cookies. Advertisers and partners may also use their own cookies. We do not control use of these cookies and expressly disclaim responsibility for information collected through them. In addition, Dotster utilizes cookies to track referrals from internal and external affiliates, as well as advertising campaigns.
+  
 
-**Registration Service Provider:**  
-Domain Direct, [**help@domaindirect.com**](mailto:help@domaindirect.com)  
-1-416-531-2084  
-**http:** //www.domaindirect.com  
-This company may be contacted for domain login/passwords,  
-DNS/Nameserver changes, and general domain support questions.
+  13. **Dotster Statistics.** We use information gathered from our site statistics (for example, User IP addresses) to help diagnose problems with our servers, and to administer our Web site. We also gather broad demographic information from this data to help us improve our site and make your browsing and purchasing experience more enjoyable. 
+  
 
-**Registrar of Record:** TUCOWS, INC.  
-Record last updated on 12-May-2004.  
-Record expires on 01-Jun-2005.  
-Record created on 02-Jun-1998.
+  14. **Public Forums.** Please remember that any information you may disclose in our User Directory, Spotlights/case studies, testimonials, Forums, or other public areas of our websites or the Internet, becomes public information. You should exercise caution when deciding to disclose personal information in these public areas.
+  
 
-**Domain servers in listed order:**  
-NS1.DOMAINDIRECT.COM _**216.40.33.21**_  
-NS2.DOMAINDIRECT.COM _**216.40.33.22**_  
-NS3.DOMAINDIRECT.COM _**204.50.180.58**_
+  15. **Dotster's Commitment to Data Security.** We have implemented measures designed to protect personal information in our custody and control. We maintain reasonable administrative, technical and physical safeguards in an effort to protect against unauthorized access, use, modification and disclosure of personal information in our custody and control. Unfortunately, no data transmission over the Internet or any wireless network can be guaranteed to be 100% secure. As a result, while we strive to protect your personally identifiable information, you acknowledge that: (a) there are security and privacy limitations of the Internet which are beyond our control; (b) the security, integrity and privacy of any and all information and data exchanged between you and us through this site cannot be guaranteed; and (c) any such information and data may be viewed or tampered with in transit by a third party, despite our best efforts. 
 
-**Domain status:**   
-REGISTRAR-LOCK 
+Your online access to certain personal information may be protected with a password you select. We strongly recommend that you do not disclose your password to anyone. We will never ask you for your password in any unsolicited communication (such as letters, phone calls or email messages).
+
+Data related to the services will be maintained in the US. We have personal information retention processes designed to retain personal information of our customers for no longer than necessary for the purposes stated above or to otherwise meet legal requirements.
+
+  
+
+  16. **How to Access or Modify Your Information.** You have the right to access, update, and correct inaccuracies in your personal information in our custody and control, subject to certain exceptions prescribed by law. You may request access, updating and corrections of inaccuracies in your personal information we have in our custody or control by accessing your personal profile in your account or by contacting support via email, phone or online chat. We may request certain personal information for the purposes of verifying the identity of the individual seeking access to their personal information records. 
+
+To ensure you receive the information you need to manage your account and protect your privacy, please be sure to keep your contact and billing information up to date. You can update all account-related information directly through your Control Panel. Alternatively, you can contact Dotster Support by phone or through our online support form.
+
+  
+
+  17. **Where to Direct Questions About Dotster's Privacy Policy.** If you have any questions about this Privacy Policy or the practices described herein, you may contact: User Service, Dotster, Inc., 10 Corporate Dr. Suite 300, Burlington, MA 01803 or support@dotster-inc.com.
+  
+
+  18. **Unsubscribe**
+
+When you become a User of Dotster, you are automatically subscribed to receive notices about your account, email newsletters and news of special promotions offered through Dotster and/or in conjunction with partners.
+
+To unsubscribe from Dotster newsletters and promotional mailings, please update your preferences with our subscription settings tool or email us at [Dotster Support](https://web.archive.org/support/). If you would like to cancel a Dotster membership completely, please contact Dotster Support through our online support form or call us at 800-401-5250.
+
+Please note: Dotster reserves the right to send you email communications that relate directly to your account.
+
+  
+
+  19. **Revisions to This Policy.** Dotster reserves the right to revise, amend, or modify this policy, and our other policies and agreements at any time and in any manner. Notice of any revision, amendment, or modification will be posted in accordance with the Terms of Service.
+  
+
+
+
+This file was last modified December 10, 2012. 
