@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the styledthemes.com privacy policy that was archived on 2012-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121209041141id_/http%3A//www.styledthemes.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the styledthemes.com privacy policy that was archived on 2013-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130616233102id_/http%3A//styledthemes.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
