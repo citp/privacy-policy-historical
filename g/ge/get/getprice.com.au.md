@@ -1,14 +1,12 @@
-> *The following text is extracted and transformed from the getprice.com.au privacy policy that was archived on 2012-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121222023401id_/http%3A//www.getprice.com.au/Privacy-Charter.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the getprice.com.au privacy policy that was archived on 2013-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130616215613id_/http%3A//www.getprice.com.au/Privacy-Charter.htm) for the most accurate reproduction.*
 
-# Privacy Charter - Comparison Shopping Australia
+# Privacy Charter
 
 1.1
 
 | 
 
 Welcome to Get Price Pty Ltd's (Get Price) website: [www.getprice.com.au](http://www.getprice.com.au/) (Site). At Get Price we respect the privacy of everyone who uses the Site and we are committed to maintaining the privacy and security of the personal information of all users of the Site. Our Privacy Charter (Charter) on the collection and use of personal information and other information is outlined below. Please read this Charter before you use the Site.  
-  
----|---  
   
 1.2
 
@@ -318,7 +316,7 @@ We will always use information in accordance with the Charter under which it was
 
 | 
 
-You have the right to access personal information we hold about you at all times. If you are concerned about our use of your personal information, please contact us at "contact at getprice.com.au" with the subject line, "privacy."  
+You have the right to access personal information we hold about you at all times. If you are concerned about our use of your personal information, please contact us at [contact@getprice.com.au](mailto:contact@getprice.com.au) with the subject line, "privacy."  
   
 **Further Information on Privacy**  
   
