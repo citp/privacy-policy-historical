@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the zsl.org privacy policy that was archived on 2012-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121217052113id_/http%3A//www.zsl.org/info/legal/content/privacy-policy%2C193%2CAR.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zsl.org privacy policy that was archived on 2013-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130617014349id_/http%3A//www.zsl.org/info/legal/content/privacy-policy%2C193%2CAR.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -42,3 +42,33 @@ ZSL will retain the personal information you provide within the United Kingdom, 
 ### Security
 
 ZSL is committed to the security of your personal information and we have security procedures in place to protect the loss, misuse or alteration of information under our control. 
+
+* * *
+
+## Privacy policy: Cat Map
+
+ZSL collect information from you to enable us to provide you with the goods and services you ask for. This may include your name, address and email address.
+
+Addresses provided for use on Cat Map are randomly offset from the exact location and will not be displayed on the page or used for any other purpose.
+
+ZSL will use the information you enter into the website only for administration purposes and any other purposes made clear in the data entry forms themselves, in any relevant terms or conditions and on any pages or emails that link to such forms.
+
+Whenever ZSL ask you for information about yourself you may, by ticking the relevant box, opt out of receiving other communications. In addition, whenever you receive other communications by email you will be told how to opt out of being updated by email in the future. If you choose to opt out of being updated as described above ZSL will cease all such future disclosure of data.
+
+Please let ZSL know if you want details of the personal information we hold about you by emailing editor@zsl.org.
+
+In no circumstances will ZSL collect any data that is not directly related to the use of this website so, for example, we will not record other sites that you have visited.
+
+### Copyright and reproduction
+
+Each image submitted must be the sole owner of the copyright and must not infringe the rights of any other party.
+
+The copyright in all images submitted to Cat Map will remain with the copyright holder.
+
+By uploading an image to Cat Map each user grants to ZSL a non-exclusive irrevocable licence to reproduce, publish and communicate to the public by any means their image(s) and copies of their image(s) in all media throughout the world in relation to Cat Map including but not limited to all use in the context of: 
+
+  * Inclusion in ZSL magazines and/or similar.
+  * Inclusion within ZSL’s websites, including within interactive elements associated with the competition and/or exhibition (now known or hereafter created) available for viewing or download from ZSL’s websites.
+  * Inclusion in promotional, press and marketing materials associated with Cat Map.
+
+
