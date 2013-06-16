@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the onbile.com privacy policy that was archived on 2012-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121220045532id_/http%3A//www.onbile.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the onbile.com privacy policy that was archived on 2013-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130616051334id_/http%3A//www.onbile.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy & Terms of Services
 
@@ -30,7 +30,7 @@ Non Personally Identifiable Information: When you access the Site or use the Ser
       * Information that your browser sends whenever you visit a website or online service "Log Data", that may include, but is not limited to your computer's Internet Protocol address, browser type, the web page you were visiting before you came to the Site and information you search for on the Site.
       * Like many websites, we use "cookies" to collect information. A cookie is a small data file that we transfer to your computer's hard disk for record-keeping purposes. We use "persistent cookies" to save your username and login password for future logins to the Site. We use "session ID cookies" to enable certain features of the Service, to better understand how you interact with the Service and to monitor web traffic routing on the Site and aggregate usage of the Service. You can instruct your browser, by changing its options, to stop accepting cookies or to prompt you before accepting a cookie from the website you visit. If you do not accept cookies, however, you may not be able to use all portions of the Site or all functionality of the Service.
 
-Policy Towards Children: We do not knowingly collect personally identifiable information from minors. If a parent or guardian becomes aware that his or her child has provided us with Personal Information without their consent, he or she should contact us at [www.onbile.com/contact-us/](https://web.archive.org/web/20121220045532id_/http%3A//www.onbile.com/www.onbile.com/contact-us/)
+Policy Towards Children: We do not knowingly collect personally identifiable information from minors. If a parent or guardian becomes aware that his or her child has provided us with Personal Information without their consent, he or she should contact us at [www.onbile.com/contact-us/](https://web.archive.org/web/20130616051334id_/http://www.onbile.com/privacy-policy/www.onbile.com/contact-us/)
 
     2. **Account Subscriptions**
 
