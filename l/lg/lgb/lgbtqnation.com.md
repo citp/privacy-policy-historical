@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the lgbtqnation.com privacy policy that was archived on 2012-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121215143609id_/http%3A//www.lgbtqnation.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lgbtqnation.com privacy policy that was archived on 2013-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130616035116id_/http%3A//www.lgbtqnation.com/privacy) for the most accurate reproduction.*
 
 # Privacy – LGBTQ Nation
 
-At **LGBTQ Nation** , we understand that your privacy is important to you; it's important to us also, and that is why we provide this statement about the personal information we collect, how we use that information and with whom it may be shared. You should not, and are not required to, disclose any information that you do not want made public.
+At **LGBTQ Nation** , we understand that your privacy is important to you; it’s important to us also, and that is why we provide this statement about the personal information we collect, how we use that information and with whom it may be shared. You should not, and are not required to, disclose any information that you do not want made public.
 
  **Information We Collect:**
 
@@ -13,9 +13,9 @@ In the course of creating and using your account, we may automatically track cer
  **Email Policy**  
 How we use and protect your Email Address:
 
-We obtain your email address when you register your profile, post a comment or submit a query.
+We obtain your email address when you register an account, subscribe to our mailing list, or contact us with an inquiry or letter to the editor.
 
-Your email address is known only to us, and is never published or revealed by us to other registered or non-registered users of this site. We make every effort to safeguard you from receiving unsolicited email or spam by safeguarding your email address.
+Your email address is known only to us, and is never published or revealed by us to other users of this site. We make every effort to safeguard you from receiving unsolicited email or spam by safeguarding your email address.
 
 In creating an account with our Service, you have established a business relationship with LGBTQ Nation, and acknowledge that you may, on occasion, receive email communication promoting the features and content of this service. However, we will not sell or rent your email addresses to any third party without your permission.
 
@@ -23,7 +23,7 @@ You should understand that posting your email address in any visible area of our
 
  **Cookies:**
 
-Cookies are used to deliver content specific to a user's potential interests and for the administration of passwords, among other purposes. For example, we also may use cookies to deliver customized content and/or targeted advertisements and product offerings. It is important to note that cookies are not linked to personal information. Since our website is specifically designed to your interests, disabling your browser from accepting cookies may prevent you from accessing some features on LGBTQ Nation.
+Cookies are used to deliver content specific to a user’s potential interests and for the administration of passwords, among other purposes. For example, we also may use cookies to deliver customized content and/or targeted advertisements and product offerings. It is important to note that cookies are not linked to personal information. Since our website is specifically designed to your interests, disabling your browser from accepting cookies may prevent you from accessing some features on LGBTQ Nation.
 
  **Your IP Address:**
 
@@ -37,11 +37,11 @@ We are not responsible for the Personal Information you choose to submit in thes
 
  **Third Party Collections of Information:**
 
-LGBTQ Nation has no control over any persons, third party web sites, links or email addresses posted to this website. We do not screen landing pages of external links, and assume no responsibility for any web navigation, including links to members' personal websites or blogs, or textual or banner advertisements, that takes you off this site, and that is not under our control.
+LGBTQ Nation has no control over any persons, third party web sites, links or email addresses posted to this website. We do not screen landing pages of external links, and assume no responsibility for any web navigation, including links to members’ personal websites or blogs, or textual or banner advertisements, that takes you off this site, and that is not under our control.
 
  **Liability:**
 
-LGBTQ Nation disclaims all liability, regardless of the form of action, for the acts or omissions or claims of other members or users (including unauthorized users, or "hackers") of our site or services.  
+LGBTQ Nation disclaims all liability, regardless of the form of action, for the acts or omissions or claims of other members or users (including unauthorized users, or “hackers”) of our site or services.  
 **  
 Ownership:**
 
