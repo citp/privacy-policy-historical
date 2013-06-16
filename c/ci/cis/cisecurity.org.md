@@ -1,9 +1,9 @@
-> *The following text is extracted and transformed from the cisecurity.org privacy policy that was archived on 2012-11-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121117202627id_/http%3A//www.cisecurity.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cisecurity.org privacy policy that was archived on 2013-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130616072544id_/http%3A//www.cisecurity.org/privacy-policy) for the most accurate reproduction.*
 
 # Center for Internet Security
 
 Thank you for visiting the Center for Internet Security (CIS) website.   
-This website is intended to make it easy and efficient to learn about and interact with CIS and its three divisions: Cybersecurity Workforce Development, MS-ISAC and Security Benchmarks.
+This website is intended to make it easy and efficient to learn about and interact with CIS and its four divisions: MS-ISAC, Security Benchmarks, Trusted Purchasing Alliance and Integrated Intelligence Center.
 
 The mission of CIS is to improve and enhance Internet security, so we are sensitive to the privacy issues on the Internet and recognize that visitors to this website are concerned about the type of information we collect and how we use it. CIS is committed to preserving your privacy when visiting this website, and this policy discusses our practices.
 
@@ -38,7 +38,7 @@ When visiting this website the following non-personal information about your vis
 
 
 
-We use non-personal information to find out how people use this website, to help us understand which types of information are of most interest to our visitors so that we can improve this website's content, to assess system performance and to identify problem areas. 
+We use non-personal information internally to find out how people use this website, to help us understand which types of information are of most interest to our visitors so that we can improve this website's content, to assess system performance and to identify problem areas. We do not sell or distribute this information to others for their commercial use. 
 
 We retain the information collected for a period of years and then destroy it.
 
