@@ -1,8 +1,10 @@
-<!--The following is the downloaded HTML source of the podbay.fm privacy policy that was archived on 2012-12-16.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121216184325id_/http%3A//podbay.fm/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the podbay.fm privacy policy that was archived on 2013-06-16.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130616065410id_/http%3A//podbay.fm/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html><head>
 <title>About podbay.fm</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+
 	<link href="/css/bootstrap.css" rel="stylesheet">
 	<style>
 	.thumbnail {
@@ -21,7 +23,7 @@
 
 	<link rel="stylesheet" href="/css/main.css" type="text/css" media="screen" charset="utf-8">	
 	<link rel="stylesheet" href="/css/home.css" type="text/css" media="screen" charset="utf-8">		
-	<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js"></script>	
+	<script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js"></script>	
 	<script src="/js/bootstrap-dropdown.js"></script>	
 	<script type="text/javascript">var _sf_startpt=(new Date()).getTime()</script>	
 </head>
@@ -72,9 +74,15 @@ document.cookie = 'recentshows=; expires=Thu, 01-Jan-70 00:00:01 GMT; path=/; do
 	                  </li>	 
 				  </ul>
                
-<ul class="nav"><li>
-<a target="_blank" href="http://itunes.apple.com/app/id578383413?partnerId=30&amp;siteID=XnHEDI9jBmI">Get the Free App</a>
-</li></ul>
+     <ul class="nav">
+     	<li class="dropdown">
+     		<a href="#" class="dropdown-toggle" data-toggle="dropdown">Get the App<b class="caret"></b></a>
+     		<ul class="dropdown-menu">
+	     		<li><a target="_blank" href="http://itunes.apple.com/app/id578383413?partnerId=30&amp;siteID=XnHEDI9jBmI">Podbay for iPhone</a></li>
+	     		<li><a target="_blank" href="https://play.google.com/store/apps/details?id=com.fountainla.podbay">Podbay for Android</a></li>
+     		</ul>
+     	</li>
+	</ul>
 
 <ul class="nav"><li>
 <a href="/about/">About</a></li>
@@ -136,6 +144,8 @@ document.cookie = 'recentshows=; expires=Thu, 01-Jan-70 00:00:01 GMT; path=/; do
     </div> <!-- /container -->
 	<script src="/js/bootstrap-typeahead.js"></script>
 	<script type="text/javascript">
+	$('#download').tooltip();	
+
   var _gaq = _gaq || [];
   _gaq.push(['_setAccount', 'UA-33062090-1']);
   _gaq.push(['_trackPageview']);
