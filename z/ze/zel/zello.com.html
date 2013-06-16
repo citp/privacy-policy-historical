@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the zello.com privacy policy that was archived on 2012-12-30.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121230205135id_/http%3A//zello.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the zello.com privacy policy that was archived on 2013-06-16.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130616123729id_/http%3A//zello.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en"><head>
     <meta charset="utf-8">
@@ -27,7 +27,7 @@
     <script src="/jslibs/json2.js"></script>
     <script src="/jslibs/phpjs.js"></script>
 
-    <script src="/jslibs/md5.js"></script>
+    <script src="/jslibs/md5.js?version=10462-2"></script>
 
     <script type="text/javascript" src="/jslibs/jgrowl/jquery.jgrowl.js"></script>
 
@@ -39,10 +39,26 @@
     <script src="/jslibs/jcrop/js/jquery.color.js"></script>
     <link href="/jslibs/jcrop/css/jquery.Jcrop.min.css" rel="stylesheet">
 
+    <script type="text/javascript" xmlns="http://www.w3.org/1999/html" src="/jslibs/fancybox/jquery.mousewheel-3.0.4.pack.js"></script>
+    <script type="text/javascript" src="/jslibs/fancybox/jquery.fancybox-1.3.4.pack.js"></script>
+    <link rel="stylesheet" type="text/css" href="/jslibs/fancybox/jquery.fancybox-1.3.4.css" media="screen">
+
+    <link href="/jslibs/jplayer/skin/jplayer.light.css" rel="stylesheet" type="text/css" xmlns="http://www.w3.org/1999/html">
+    <script type="text/javascript" src="/jslibs/jplayer/jquery.jplayer.min.js"></script>
+
+    <script src="/jslibs/jq-effects.js"></script>
+    <script src="/jslibs/jquery.effects.core.js"></script>
+    <script src="/jslibs/jquery.effects.slide.js"></script>
+    <script src="/jslibs/dklab_realplexor.js"></script>
+
+    <script src="/jslibs/channelPlayer/jq-channel-player.js"></script>
+    <link rel="stylesheet" type="text/css" href="/jslibs/channelPlayer/channel-player.css">
+
     <script>
         var Zello = {};
         Zello.pageRequested = '/privacy';
-        Zello.nonce = "1ezawkom91yf4xam7w1o3u3cdq79lh0cmpd80sl0j95ex6quti8n21p6in6uvww8";
+        Zello.nonce = "4n6vgo4uqbrtnlstrr44cyff6b3lmvyh9v2f9xzqzh9cssw99r4bf9hcaaonwcuv";
+        Zello.sid = "8bifpeou48tgoqnrohmbp2f0m1";
         Zello.localeData = {
     "confirmation_email_body": "To associate this e-mail address (%email%) with your Zello account (%account%) we need to confirm that this e-mail address really belongs to you.\n\nPlease click the link below to verify your e-mail address:\nhttp://%host%/user/verify_email?code=%code%&email=%encodedEmail%\n\nThe link will expire in 24 hours.\n\nIf you did not register at Zello, please ignore this e-mail.\n\nThanks,\nZello (previously Loudtalks)\nwww.zello.com",
     "support_service_name": "Zello Support Service",
@@ -157,6 +173,7 @@
     "tos_1": "Your use of software and services provided at this site (&quot;Services&quot;) is subject to the terms of legal agreement between you and Zello Inc. (&quot;Zello&quot;). Zello is located at 701 Brazos Street, 16th floor, Austin, Texas 78701. By using the Services, you agree to be bound by the following terms and conditions (&quot;Terms&quot;).",
 
     "sign_in_wrong_username_or_password": "Wrong username or password",
+    "sign_in_wrong_security_code": "Wrong security code",
     "sign_in_missing_auth_token": "Missing auth token. Refresh the page and try again.",
     "error_database_error": "Database error",
     "error_no_mandatory_params": "No mandatory params",
@@ -170,7 +187,7 @@
     "app_features_easy_header": "Easy to use",
     "app_features_easy_text": "Just push the button to talk. You most likely won't have to configure anything to start using Zello.",
     "app_features_channels_header": "One-to-many",
-    "app_features_channels_text": "Zello supports %schannels%s where you can talk to one person on up to 100 people from all over the <nobr>world &#0133; at</nobr>the same time.",
+    "app_features_channels_text": "Zello supports %schannels%s where you can talk to one person on up to 100 people from all over the <nobr>world &#0133; at</nobr> the same time.",
     "app_features_history_header": "Voice history",
     "app_features_history_text": "Re-play your conversations whenever you want.",
     "app_features_light_header": "Lightweight",
@@ -354,6 +371,11 @@
 
     "user_home_create_channel_channel_website": "Website",
     "user_home_create_channel_channel_location": "Location",
+    "user_home_create_channel_channel_type": "Type",
+
+    "zello_channel_type_open": "Anyone can talk",
+    "zello_channel_type_broadcast": "Listen only",
+    "zello_channel_type_protected": "Zelect",
 
     "user_home_loading_channel_profile": "Loading channel profile...",
 
@@ -428,15 +450,18 @@
     "sign_in_password": "Password",
     "menu_forgot_password": "Forgot your password?",
     "button_sign_in": "Sign In",
+    "work_link": "http://loudtalks.net",
     "work_hide_calculator": "Hide calculator",
     "work_show_calculator": "Show calculator",
-    "work_calculator_users_label": "users",
+    "work_calculator_users_label": "User accounts needed:",
+    "work_calculator_you_price_is": "Your cost is:",
+
     "work_calculator_users_help": "Number of users, who will connect to the system from mobile devices and PCs.",
     "work_calculator_gateways_label": "gateways",
-    "work_calculator_gateways_help": "Number of gateways to two-way radio system. Only applicable if you want to interoperate between Loudtalks and two way radio. You'll typically need one gateway per site, you want to connect.",
+    "work_calculator_gateways_help": "Number of gateways to two-way radio system. Only applicable if you want to interoperate between Zello and two way radio. You'll typically need one gateway per site, you want to connect.",
     "work_main_header": "Push-to-talk",
     "work_main_subheader": "Any device, any network",
-    "work_get_zello_at_work_now": "Get Zello@Work Now",
+    "work_get_zello_at_work_now": "Get <b>Zello@Work</b> Now",
     "work_intro_text": "Two minutes setup, free for 5 users",
     "work_features_header": "Features",
     "work_features_use_popular_phones_header": "Use Popular Phones",
@@ -447,13 +472,14 @@
     "work_dispatch_text": "Connect Windows PCs to your mobile phones and rugged devices for instant, easy dispatch.  Reach all dispatch apps, regardless of type, from a single console.",
     "work_private_header": "Manage Private Networks",
     "work_private_text": "You get total control of your browser, your users, your groups, settings and updates.  All communication is secured and encrypted.  Use a WiFi network or any data plan.",
-    "work_pricing_header": "Pricing and plans",
+    "work_pricing_header": "Free for 5 users",
     "work_service_name": "Zello@Work",
+    "work_service_intro": "Get Zello@Work with no commitments",
     "work_pricing_feature_1": "No commitments",
     "work_pricing_feature_2": "No hardware",
     "work_pricing_feature_3": "Free for 5 users",
     "work_pricing_feature_4": "per user/month",
-    "work_pricing_text": "Zello@Work pricing is per user per month and includes the hosted service with browser administrative access.  All plans include any mix of Zello clients for iOS, BlackBerry, Android, Windows Mobile or Windows PC.  All plans include software updates and second level tech support.  Capacity is limited to number of defined users.  Pricing may change within 30 days’ notice for unpaid months, and customers may change quantities each month.  Billing anniversary is first active day.  Payments must be made from the administrative console.  Pricing is in US $.",
+    "work_pricing_text": "Zello@Work pricing is per user per month and includes the hosted service with browser administrative access.  All plans include any mix of Zello clients for iOS, BlackBerry, Android, Windows Mobile or Windows PC.  All plans include software updates and second level tech support.  Capacity is limited to number of defined users.  Pricing may change within 30 days notice for unpaid months, and customers may change quantities each month.  Billing anniversary is first active day.  Payments must be made from the administrative console.  Pricing is in US $.",
     "mobile_android_title": "Zello for Android",
     "mobile_slogan": "Get the free and fast walkie-talkie app.",
     "mobile_android_feature_1": "Access public and private channels.",
@@ -502,6 +528,7 @@
     "zello_channels_location": "Channel location",
     "zello_channels_voice": "Channel voice message",
     "zello_channel_connect_to_this_channel": "Connect to this channel",
+    "zello_channel_connect_to_this_channel_loading": "Connecting to channel...",
     "forgot_password_header": "Reset your Zello account password",
     "forgot_password_instructions_header": "Enter the e-mail associated with your Zello account then click Continue.",
     "forgot_password_instructions": "We will then email password reset instructions.",
@@ -566,7 +593,7 @@
     "tos_privacy_2": "You agree to the use of your data in accordance with Zello's privacy policy.",
     "tos_modifications_header": "Modifications to the Service",
     "tos_modifications_1": "You agree that Zello may modify the Services from time to time without notice.",
-    "tos_modifications_2": "You agree that Zello may change the prices of the Services. In such case, Zello shall issue a 30 days' notice. The notice of changesmay be posted on the website or on the Services interface.",
+    "tos_modifications_2": "You agree that Zello may change the prices of the Services. In such case, Zello shall issue a 30 days notice. The notice of changes may be posted on the website or on the Services interface.",
     "tos_modifications_3": "Zello shall not be liable to you for any changes in the Service, prices or suspension of the Services.",
     "tos_limits_header": "Limitation of liability",
     "tos_limits_text": "In no event shall Zello be liable to you for any damages, including but not limited to any loss, or other incidental, indirect or consequential damages of any kind arising out of the use of or inability of using the Services, even if Zello has been advised of the possibility of such damages. In no event will Zello be liable for any claim, whether in contract, tort or any other theory of liability, exceed the cost of the Services. This limitation shall apply to claims of personal injury to the extent permitted by law.",
@@ -583,6 +610,7 @@
     "footer_menu_mobile_apps_iphone": "iPhone",
     "footer_menu_mobile_apps_pc": "PC",
     "footer_menu_zello_channels": "Zello Channels",
+    "footer_menu_public_channels": "Public Channels",
     "footer_menu_support": "Support",
     "footer_menu_zello_at_work": "Zello@Work",
     "footer_menu_zello_at_work_features": "Features",
@@ -599,20 +627,20 @@
     "footer_menu_about_zello_contact": "Contact",
     "footer_menu_about_zello_team": "Team",
     "follow_us_on_twitter": "Follow @Zello",
-    "footer_copyright": "&copy; 2007-2012 Zello Inc",
+    "footer_copyright": "&copy; 2007-2013 Zello Inc",
     "default_page_title": "Zello. Live conversation.",
     "meta_description": "Zello Walkie Talkie",
     "meta_author": "Zello Inc",
     "meta_shared_messages_description": "Shared messages from Zello walkie-talkie app",
     "meta_shared_messages_site_name": "Listen to Zello",
-    "meta_channel_page_description": "Zello channel page",
-    "meta_user_page_description": "Zello user profile page",
+    "meta_channel_page_description": "Zello channel",
+    "meta_user_page_description": "Zello user profile",
     "meta_channel_page_site_name": "Zello channels",
     "meta_user_page_site_name": "Zello user",
     "menu_home_link": "Home",
     "menu_support_link": "Support",
     "menu_contact_link": "Contact",
-    "menu_get_zello_at_work": "Get Zello@Work",
+    "menu_get_zello_at_work": "Get <b>Zello@Work</b>",
     "menu_manage_profile": "Manage your profile",
     "menu_manage_channels": "Manage your channels",
     "menu_manage_messages": "Manage your shared messages",
@@ -624,7 +652,18 @@
     "get_zello_other_platforms": "downloads for other platforms",
     "get_zello_all_platforms": "Install Zello for %sAndroid%s, %sBlackBerry%s, %siPhone%s or %sPC%s right now!",
     "shared_message_from_channel": "from channel",
-    "work_support": "Support",
+    "work_support": "Get support",
+    "work_pricelist": "Price list",
+    "work_datasheet": "Data sheet",
+    "work_case_studies": "Case studies",
+    "work_radio_gateway": "Radio gateway",
+    "work_partners": "Partners",
+    "work_contact_sales": "Or contact %ssales@zello.com%s",
+    "label_or": "or",
+    "work_calculator_per_month": "per month",
+    "work_calculator_per_year": "per year",
+    "work_calculator_text_1": "Mix any combination of iOS, Android, BlackBerry, Windows Mobile or Windows PC users.",
+    "work_calculator_text_2": "Pricing includes hosted service with browser administrative access.",
     "status_sign_out": "Sign out",
     "sign_in_empty_username": "Empty username",
     "sign_in_empty_password": "Empty password",
@@ -759,7 +798,28 @@
     "zello_channel_page_share_title": "Zello channel %s",
     "zello_user_page_share_title": "Zello user %s",
     "zello_share_html_link": "HTML link",
-    "zello_share_bb_link": "BB-code"
+    "zello_share_bb_link": "BB-code",
+
+    "partners_header": "Partner opportunities",
+    "partners_link_description_1": "Register your opportunity here",
+    "partners_link_description_2": "and as their network grows you’ll be paid 10% of the first year’s use.",
+    "partners_link_description_3": "Details on the Affiliate program:",
+    "partners_text_1": "Thousands of companies around the globe use Zello@Work for internal communication. As they upgrade employees with smart phones and rugged devices, Zello is the obvious replacement for dedicated 2-way radios or Nextel.",
+    "partners_text_2": "You and your customer can implement a 5-user solution for free without any agreement or payment information. When creating the network be sure to use the customer’s name — networks can’t be shared between customers.",
+    "partners_text_3": "Zello is not available for resale or private label because of subscription billing.",
+
+    "error_channel_not_found": "Channel not found",
+
+    "shared_messages_tabs_header": "Shared messages",
+    "shared_messages_tab_popular": "Popular",
+    "shared_messages_tab_latest": "Latest",
+    "shared_messages_tabs_user_header": "Conversations",
+    "shared_messages_tab_shared_by_user": "Shared by this user",
+    "shared_messages_tab_with_user": "With this user",
+
+    "captcha_refresh_text_caption": "Can not read text? Click here to reset captcha text",
+    "captcha_play_audio_caption": "Can not read text? Click here to play captcha text"
+
 
 
 
@@ -768,10 +828,11 @@
 };
         Zello.availableLanguages = ["en", "ar", "bg", "ca", "zh", "cs", "nl", "fi", "fr", "gl", "de", "el", "he", "hu", "id", "it", "ja", "ko", "lt", "ms", "nb", "pl", "pt", "ro", "ru", "es", "sv", "tr"];
         Zello.availableChannelCategories = ["news", "politics", "sports", "humor", "local", "religion", "technology", "health", "dating", "cars", "marketplace"];
+        Zello.isLogged = '';
         Zello.lang = 'en';
                                                 
     </script>
-    <script src="/js/zello.js?version=5685-1435"></script>
+    <script src="/js/zello.js?version=10462-2"></script>
 
     <!-- Le styles -->
     <link href="/jslibs/bootstrap/css/bootstrap.min.css" rel="stylesheet">
@@ -779,7 +840,7 @@
     <!--
      <link href="css/bootstrap-responsive.css" rel="stylesheet">
      -->
-    <link href="/css/zello.css?version=5685-1435" rel="stylesheet">
+    <link href="/css/zello.css?version=10462-2" rel="stylesheet">
     
 
     <!-- Le fav and touch icons -->
@@ -826,29 +887,12 @@
             </ul>
             <ul class="nav pull-right">
                 <li>
-                    <a href="/work.htm" class="top-orange-link">Get Zello@Work</a>
+                    <a href="/work.htm" class="top-orange-link">Get <b>Zello@Work</b></a>
                 </li>
 
                                     <li class="dropdown">
-                                                    <a data-toggle="dropdown" class="dropdown-toggle" href="#">Sign In <b class="caret"></b></a>
-                            <ul class="dropdown-menu" id="sign-in-menu">
-                                <li id="sign-in-menu-form">
-                                    <form style="padding: 20px; padding-bottom: 0px;" id="singin-form-popup" method="POST" action="/user/signin/proceed">
-                                        <fieldset>
-                                            <label>Username                                                <input autocomplete="off" type="text" id="sign-in-username" class="username" name="username">
-                                            </label>
-                                            <label>
-                                                Password                                                <input type="password" id="sign-in-password" class="password" name="password">
-                                            </label>
-                                        </fieldset>
-                                        <fieldset>
-                                            <button type="submit" class="btn sign-in">Sign In</button>
-                                        </fieldset>
-                                    </form>
-                                </li>
-                                <li><a href="/forgot_password/">Forgot your password?</a></li>
-                            </ul>
-                                            </li>
+                                                    <a href="//zello.com/user/home">Sign In</a>
+                                                                        </li>
                 
                 <li class="dropdown">
                     <a data-toggle="dropdown" class="dropdown-toggle" href="#" style="padding-bottom: 0px !important;">
@@ -856,6 +900,9 @@
                     <ul class="dropdown-menu">
                         <li><a href="/user/change-language?lang=en"><i class="icon-ok"></i> English</a></li>
                         <li><a href="/user/change-language?lang=ru">Русский</a></li>
+                        <li><a href="/user/change-language?lang=it">Italiano</a></li>
+                        <li><a href="/user/change-language?lang=bg">Български</a></li>
+                        <li><a href="/user/change-language?lang=hr">Hrvatski</a></li>
                     </ul>
                 </li>
 
@@ -984,7 +1031,11 @@
 </script>
 
 <script id="user-link-short-hash" type="text/x-jquery-tmpl">
-    <a href="/users/s?name=${encodeURIComponent(name)}"><nobr><i class="icon-user"></i>${name}</a></nobr>
+    {{if blank}}
+        <a target="blank" href="http://zello.com/users/s?name=${encodeURIComponent(name)}"><nobr>${name}</a></nobr>
+    {{else}}
+        <a href="http://zello.com/users/s?name=${encodeURIComponent(name)}"><nobr><i class="icon-user"></i>${name}</a></nobr>
+    {{/if}}
 </script>
 
 <script id="user-link-key" type="text/x-jquery-tmpl">
@@ -1059,31 +1110,32 @@
     <div class="container">
         <div class="row footer-menu">
             <div class="span3">
-                <h3>Mobile Apps</h3>
+                <!--<h3>Mobile Apps</h3>-->
                 <ul class="unstyled">
+                    <li><a href="/ios/">iPhone</a></li>
                     <li><a href="/android/">Android</a></li>
                     <li><a href="/bb/">BlackBerry</a></li>
-                    <li><a href="/ios/">iPhone</a></li>
+                    <li>&nbsp;</li>
                     <li><a href="/data/ZelloSetup.exe">PC</a></li>
-                    <li><a href="/channels/#popular">Zello Channels</a></li>
-                    <li><a href="http://support.zello.com/">Support</a></li>
                 </ul>
             </div>
             <div class="span3">
-                <h3>Zello@Work</h3>
+                <!--<h3>Zello@Work</h3>-->
                 <ul class="unstyled">
-                    <li><a href="/work.htm">Features</a></li>
+                    <li><a href="/channels/#popular">Public Channels</a></li>
+                    <li><a href="http://support.zello.com/">Support</a></li>
+                    <li><a href="/work.htm">Zello@Work</a></li>
                                     </ul>
             </div>
             <div class="span3">
-                <h3>Legal</h3>
+                <!--<h3>Legal</h3>-->
                 <ul class="unstyled">
                     <li><a href="/privacy/">Privacy</a></li>
                     <li><a href="/tos/">Terms of Service</a></li>
                 </ul>
             </div>
             <div class="span3">
-                <h3>About Zello</h3>
+                <!--<h3>About Zello</h3>-->
                 <ul class="unstyled">
                     <li><a href="http://blog.zello.com/">Blog</a></li>
                     <li><a href="/contact.htm">Contact</a></li>
@@ -1107,7 +1159,7 @@
         </div>
         <hr>
         <footer>
-            <p>© 2007-2012 Zello Inc</p>
+            <p>© 2007-2013 Zello Inc</p>
         </footer>
     </div>
 </div>
@@ -1115,4 +1167,4 @@
 <div id="alerts" class="jGrowl bottom-left"></div>
 
 
-</body></html>
+<div id="fancybox-tmp"></div><div id="fancybox-loading"><div></div></div><div id="fancybox-overlay"></div><div id="fancybox-wrap"><div id="fancybox-outer"><div class="fancybox-bg" id="fancybox-bg-n"></div><div class="fancybox-bg" id="fancybox-bg-ne"></div><div class="fancybox-bg" id="fancybox-bg-e"></div><div class="fancybox-bg" id="fancybox-bg-se"></div><div class="fancybox-bg" id="fancybox-bg-s"></div><div class="fancybox-bg" id="fancybox-bg-sw"></div><div class="fancybox-bg" id="fancybox-bg-w"></div><div class="fancybox-bg" id="fancybox-bg-nw"></div><div id="fancybox-content"></div><a id="fancybox-close"></a><div id="fancybox-title"></div><a href="javascript:;" id="fancybox-left"><span class="fancy-ico" id="fancybox-left-ico"></span></a><a href="javascript:;" id="fancybox-right"><span class="fancy-ico" id="fancybox-right-ico"></span></a></div></div></body></html>
