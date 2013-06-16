@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the travelmole.com privacy policy that was archived on 2012-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121103174643id_/http%3A//www.travelmole.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the travelmole.com privacy policy that was archived on 2013-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130616102124id_/http%3A//www.travelmole.com/privacy_policy.php) for the most accurate reproduction.*
 
 # TravelMole - Privacy Policy
 
@@ -7,15 +7,15 @@
 Information Collection and Use  
 Registration  
 Order Forms  
-Cookies  
 Log Files  
 Links  
 Surveys & Contests  
 Security  
 Correcting/Updating Personal Information  
-Notification of Changes
+Notification of Changes  
+Cookies
 
-All User information supplied by Users of TravelMole.com as defined under TravelMole.com Terms & Conditions is covered by the Data Protection Act 1998 (the Act).
+All User information supplied by Users of TravelMole.com as defined under TravelMole.com Terms & Conditions is covered by the Data Protection Act 1998 (the Act) and U.K.'s amended Privacy and Electronic Communication Regulations (PECR) Act 2011.
 
   
 
@@ -43,13 +43,6 @@ In order to receive our newswires, email alerts or access our web site content, 
 ### Order Forms
 
 We request information from users on our order forms. Users have to provide contact information (such as name and delivery address) and financial information (such as credit card number and expiry date), only if the user is an advertiser or subscribing to a premium service. This information is used for billing purposes and to fulfill customer orders.
-
-  
-
-
-### Cookies
-
-A cookie is a small text file written to a user’s hard drive that contains the User ID. The cookies do not contain any personal information about users. The use of cookies is now widespread. The reason we use cookies is to save our users time on the site (so that users do not have to log in with a password more than once); and also so that we can personalise a user's experience of the site. If a user sets up his browser to reject the cookie, he or she may still use the site although functionality will be impaired.
 
   
 
@@ -94,3 +87,74 @@ If a user’s personally identifiable information changes, or if a user wished t
 ### Notification of Changes
 
 If we decide to change our privacy policy, we will post those changes on our Homepage so our users are always aware of what information we collect, how we use it, and under circumstances, if any, we disclose it. If at any point we decide to use personally identifiable information in a manner different from that stated at the time it was collected, we will notify users by way of an email. Users will have a choice as to whether or not we use their information in this different manner. We will use information in accordance with the privacy policy under which the information was collected.
+
+  
+
+
+### Cookie Policy
+
+We use cookies and similar technologies on our web sites to improve performance and make your experience better. 
+
+Your use of our web sites indicates your consent to the cookies described in this policy. Please see HOW YOU CAN CONTROL COOKIES, below, for more information on how to withdraw your consent at any time. 
+
+  
+
+
+### WHAT ARE COOKIES?
+
+A web cookie, a commonly used data collection technology, is simply a piece of text which can be placed on the browser of your personal computer or mobile device and subsequently read as you visit a web site. A cookie may be a session cookie, that is, a cookie that remains on your browser while you are logged on to a particular web site and then disappears when you close your browser, or it may be a persistent cookie, a cookie that remains on your browser over a period of time. Information from a cookie may be collected and used in aggregate form. Or data may be collected into an individual profile or record. That individual record may either be unique but anonymous, or the profile can be linked with information that identifies you as an individual.
+
+You can learn more about cookies, generally, at [www.allaboutcookies.org](http://privacypolicy.ubm.com/cookiepolicy/www.allaboutcookies.org)
+
+  
+
+
+### **HOW DO WE USE COOKIES?**
+
+We may use cookies for a number of purposes:
+
+**1\. Essential cookies**  
+We may use a limited number of cookies essential to particular services you have requested or for security purposes. A few of our sites use a cookie for a shopping cart function when you purchase services or offerings. In particular, if you have registered for a site or use a customer portal we may use a cookie to authenticate the pc or mobile device that you are using.
+
+**2\. Performance cookies**  
+We allow third parties to set analytics, or performance, cookies to collect and report aggregate information. These cookies provide reporting to us on an aggregate basis and so, do not identify you at all. We use the aggregate reports to understand how our web sites are used and improve their usefulness to our audiences.
+
+**3\. Functional cookies**  
+A number of cookies also support how our web sites function, identifying your pc or end device on a unique but anonymous basis. These cookies may, for example, remember your language preferences or recognize an individual’s activity within a single session. 
+
+If you register for a site, we use a cookie to associate your presence with a specific user name and password or account. We may use a persistent cookie to recognize you automatically each time you return, but only if you ask us to do so. We may also use cookies to prepopulate your login or forms you fill out on the site with information you have already provided. 
+
+We may conduct analyses of user traffic to measure the use of our sites and to improve the content of our web sites and our services. These analyses will be performed through the use of IP addresses and cookies. 
+
+We use web beacons and pixels in our emails to track delivery and open rates. Our email provider delivers cookies with our email to recognise a user’s response. The results are stored and reported on against the individual’s email address and the account profile within our database. 
+
+  
+
+
+### **THIRD PARTY COOKIES AND ADVERTISING ON OUR SITES**
+
+We allow third party advertisers, such as Google, to show you advertising on our sites. Third party ad servers may use cookies to control certain routine advertising concerns such as making sure that you do not see the same ad too many times or that the ads are shown in the format best suited for your browser. Advertising may also be targeted: You may be shown ads based on certain demographic information which we provide, for example, the size of the company you work for or your professional responsibilities. Advertisers may also use third party ad servers to target you based on an anonymous but unique profile on your online behavior across a number of unaffiliated websites, a method known as online behavioral advertising. Advertisers may even place their own cookies on our sites. You can find more information about each ad server’s practices by reviewing its privacy policies, for our sites, [DoubleClick](http://support.google.com/dfp_premium/bin/answer.py?hl=en&answer=2551880) and [Google AdSense](http://support.google.com/adsense/bin/answer.py?hl=en&answer=1348695). 
+
+We may use certain demographic information to enable third party ad servers (see below) to show you ads based on information about you in your business capacity, for example, your title within a company or the size of that company. 
+
+Finally, we ask both ad servers, DoubleClick and Google AdSense, to use their cookies on our sites to identify you as you leave and then to show you one of our own ads later, as you visit another site. This relatively simple process is known as re-targeting. 
+
+  
+
+
+### **HOW YOU CAN CONTROL COOKIES**
+
+The cookies we use or allow are an accepted part of ecommerce and important to your use of our web sites. Performance cookies allow us to understand our audiences as a whole and improve how our sites meet your needs and expectations. Many of the functional cookies are basic to how our sites and services work. The cookies we use for registration allow us to conduct our business online. Our sites and services, or parts of them, may not work properly without these cookies.
+
+**Browser controls**  
+Most modern browsers offer you ways to control or block cookies. These browser controls will usually be found in the “options’ or “preferences” menu. For more help, you may take a look at the “Help” settings or review these website for more details -<http://www.aboutcookies.org/Default.aspx?page=1>
+
+  
+
+
+### **THIS PRIVACY POLICY**
+
+If our use of cookies changes, we will post the changes to this policy. Please check frequently as online data collection practices and our use of them continue to evolve. To contact us about this policy, you may email [support@travelmole.com](mailto:support@travelmole.com).  When emailing please indicate which of our sites your question relates to. 
+
+  
+
