@@ -1,12 +1,14 @@
-> *The following text is extracted and transformed from the scalemates.com privacy policy that was archived on 2012-10-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121023180818id_/http%3A//www.scalemates.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the scalemates.com privacy policy that was archived on 2013-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130616235017id_/http%3A//www.scalemates.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy Statement - Scalemates - Scale Modeling Community
 
 At scalemates.com, the privacy of our visitors is of extreme importance to us. This privacy policy document outlines the types of personal information is received and collected by scalemates.com and how it is used.
 
-If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at _admin at scalemates dot com_.
+If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at _scalemates at gmail dot com_.
 
-### **Public Nature of Content Submitted to Sites**
+Last Updated: 7th of June 2013
+
+###  **Public Nature of Content Submitted to Sites**
 
 The nature of this website is to reach a public audience. Please be aware that any information that you submit to us whether through forms or email, including personally identifiable information, may be publicly displayed on sites hosted at http://www.scalemates.com/, or on websites not within our control. If you don’t want others to see such information, don’t submit it or make use of the appropriate privacy settings when posting information..
 
@@ -80,6 +82,6 @@ Articles, forum topics and comments hosted on scalemates.com may link to indepen
 
 ### More info
 
-If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at _admin at scalemates dot com_ or using the contact form.
+If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at _scalemates at gmail dot com_ or using the contact form.
 
 If you feel that this site is not following its stated information policy, you may contact us at the above address.
