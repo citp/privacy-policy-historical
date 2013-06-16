@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the craftsvilla.com privacy policy that was archived on 2012-12-15.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121215165512id_/http%3A//www.craftsvilla.com/privacy-policy-craftsvilla) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the craftsvilla.com privacy policy that was archived on 2013-06-16.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130616055340id_/http%3A//www.craftsvilla.com/privacy-policy-craftsvilla) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en" xmlns:og="http://ogp.me/ns#" xmlns:fb="http://www.facebook.com/2008/fbml"><head>
     	        
@@ -37,7 +37,7 @@
 //]]>
 </script>
 <![endif]-->
-<!--Search tab selected--><script type="text/javascript" async="" src="http://www.google-analytics.com/ga.js"></script><script type="text/javascript" src="http://d1g63s1o9fthro.cloudfront.net/skin/frontend/default/craftsvilla2012/js/changeclass.js"></script><!--Search tab End-->
+<!--Search tab selected--><script type="text/javascript" async="" src="https://apis.google.com/js/plusone.js"></script><script type="text/javascript" async="" src="http://www.google-analytics.com/ga.js"></script><script type="text/javascript" src="http://d1g63s1o9fthro.cloudfront.net/skin/frontend/default/craftsvilla2012/js/changeclass.js"></script><!--Search tab End-->
  
  <!--Accordian Scripts end-->
  <script type="text/javascript" src="http://d1g63s1o9fthro.cloudfront.net/skin/frontend/default/craftsvilla2012/js/jquery.min.js"></script>
@@ -144,7 +144,6 @@ function checkmenu_values(menuon)
 
 <link rel="stylesheet" type="text/css" href="http://d1g63s1o9fthro.cloudfront.net/skin/frontend/default/craftsvilla2012/css/styles_v31.css" media="all">
 <script type="text/javascript" src="http://d1g63s1o9fthro.cloudfront.net/js/prototype/prototype.js"></script>
-<script type="text/javascript" src="http://d1g63s1o9fthro.cloudfront.net/js/prototype/deprecation.js"></script>
 <script type="text/javascript" src="http://d1g63s1o9fthro.cloudfront.net/js/prototype/validation.js"></script>
 <script type="text/javascript" src="http://d1g63s1o9fthro.cloudfront.net/js/scriptaculous/builder.js"></script>
 <script type="text/javascript" src="http://d1g63s1o9fthro.cloudfront.net/js/scriptaculous/effects.js"></script>
@@ -165,9 +164,6 @@ function checkmenu_values(menuon)
 <script type="text/javascript" src="http://d1g63s1o9fthro.cloudfront.net/js/varien/product.js"></script>
 <script type="text/javascript" src="http://d1g63s1o9fthro.cloudfront.net/js/aw_ajaxcartpro/product.js"></script>
 <script type="text/javascript" src="http://d1g63s1o9fthro.cloudfront.net/js/GoogleAnalyticsPlus/distilled.FirstTouch.js"></script>
-<link href="http://www.craftsvilla.com/rss/catalog/new/store_id/1/" title="New Products" rel="alternate" type="application/rss+xml">
-<link href="http://www.craftsvilla.com/rss/catalog/special/store_id/1/cid/0/" title="Special Products" rel="alternate" type="application/rss+xml">
-<link href="http://www.craftsvilla.com/blog/rss/index/store_id/1/" title="Craftsvilla Blog | Handicraft, Handmade, Art &amp; Craft" rel="alternate" type="application/rss+xml">
 <!--[if lt IE 6]>
 <link rel="stylesheet" type="text/css" href="http://d1g63s1o9fthro.cloudfront.net/skin/frontend/default/craftsvilla2012/css/ie6.css" media="all" />
 <![endif]-->
@@ -194,20 +190,31 @@ optionalZipCountries = ["AF","AL","DZ","AS","AD","AO","AI","AQ","AG","AR","AM","
     var aw_base_url = 'http://www.craftsvilla.com/';
 
     AW_ACP = {
-        cartURL : 'http://www.craftsvilla.com/checkout/cart/',
+        //cartURL : '',
+        //useProgress : ,
+        //useConfirmation : ,
+		
+		cartURL : 'http://www.craftsvilla.com/checkout/cart/',
         useProgress : 1,
         useConfirmation : 1,
         isCartPage :  0,
         isProductPage: 0,
-        theme : 'craftsvilla2012',
+        //theme : '',
+		theme : 'craftsvilla2012',
         onRender : [],
         hasFileOption : false,
-        secureUrlOnFrontend: 0,
+        //secureUrlOnFrontend: ,
+		secureUrlOnFrontend: 0,
         wishlistVersionMatch: 1,
-        counterBegin :0,
-        disabled: 0,
-        disabledForProducts: [],
-        disabledForWLItems: [],
+        //counterBegin :,
+        //disabled: ,
+		//disabledForProducts: ,
+        //disabledForWLItems: ,
+		
+		counterBegin :0,
+		disabled: 0,
+		disabledForProducts: 0,
+        disabledForWLItems: 0,
         _isCartConfigurePage: 0    }
 
     if(window.location.href.match('https://') && !AW_ACP.cartURL.match('https://')){
@@ -349,7 +356,7 @@ document.observe('click', function(e){
             <button rel="facebook-connect" class="facebook_login_header spriteimg" type="submit"></button>
             <a rel="nofollow" rel="facebook-connect"></a></li>-->
                     <li id="cartcountdispval"> <a rel="nofollow" href="http://www.craftsvilla.com/checkout/cart/">
-                        <span class="icon icon-cart"></span><span>{0}&nbsp; <span class="price 123">$0.00</span></span> </a> </li>
+                        <span class="icon icon-cart"></span><span>{0}&nbsp; <span class="price 123">Rs. 0</span></span> </a> </li>
           <!--<li class="curency positionrelative"> <a rel="nofollow" class="currencyselect spriteimg" href="#">Select Currency</a>
             <div class="submenu_new accodianheight submenuinner">
               <div class="submenuright">
@@ -363,7 +370,7 @@ document.observe('click', function(e){
       </div>
       <div class="bottom">
         <div class="fleft"> <a href="http://www.craftsvilla.com/" class="icon icon-logo" title="CraftsVilla.com - The Marketplace to Discover India"></a>
-          <div class="spriteimg countscss clr">1300 + Shops | 130,000 + Products | 175,000 + FB Fans</div>
+          <div class="spriteimg countscss clr">1800+ Shops | 200,000+ Products | 500,000+ FB Fans</div>
           <ul id="categories_dropdown" class="clr">
             <li class="dropdown_btn"><a href="#" class="spriteimg btndropdown"></a>
               <ul>
@@ -398,16 +405,16 @@ document.observe('click', function(e){
                     <li><a href="http://www.craftsvilla.com/bags/kids-bag-handbag-jhola-sling-wallet-purse-tote-potli-pouches-mobile-laptop.html">Kids Bags</a></li>
                   </ul>
                 </li>
-                <li><a href="http://www.craftsvilla.com/craftsvilla-hot-sellers.html">Hot Sellers</a></li>
+                <!--<li><a href="http://www.craftsvilla.com/craftsvilla-hot-sellers.html">Hot Sellers</a></li>-->
                 <li><a href="http://www.craftsvilla.com/discounts-n-offers-craftsvilla.html">Discounts &amp; Offers</a></li>  
-                <li><a href="http://www.craftsvilla.com/diwali.html">Diwali</a>                
+                <!--<li><a href="http://www.craftsvilla.com/diwali.html">Diwali</a>                
                   <ul class="level_two">
                     <li><a href="http://www.craftsvilla.com/diwali/diwali-diyas-lights-candles.html">Diyas &amp; Lights</a></li>
                     <li><a href="http://www.craftsvilla.com/diwali/diwali-sweets-chocolates.html">Diwali Sweets</a></li>
                     <li><a href="http://www.craftsvilla.com/diwali/diwali-corporate-gifts.html">Diwali Corporate Gifts</a></li>
                     <li><a href="http://www.craftsvilla.com/diwali/pooja-accessories.html">Pooja Accessories</a></li>
                   </ul>
-                </li>                                
+                </li>-->                                
                 <li><a href="http://www.craftsvilla.com/home-decor-products.html">Home Decor</a>
                   <ul class="level_two level_big">
                     <li><a href="http://www.craftsvilla.com/home-decor-products/decoratives.html">Decoratives</a></li>
@@ -498,7 +505,7 @@ document.observe('click', function(e){
                   </ul>
                 </li>
                 
-                <li><a href="http://www.craftsvilla.com/services.html">Services</a>
+                <!--<li><a href="http://www.craftsvilla.com/services.html">Services</a>
                 
                  <ul class="level_two">
                     <li><a href="http://www.craftsvilla.com/services/dance.html">Dance</a></li>
@@ -507,7 +514,7 @@ document.observe('click', function(e){
                     <li><a href="http://www.craftsvilla.com/services/others.html">Other Services</a></li>
                   </ul>
                 
-                </li>                  
+                </li>-->                  
                 <li><a href="http://www.craftsvilla.com/bath-beauty.html">Bath &amp; Beauty</a>
                   <ul class="level_two">
                     <li><a href="http://www.craftsvilla.com/bath-beauty/soap-rose-tulsi-neem-sandalwood.html">Soaps</a></li>
@@ -573,7 +580,7 @@ document.observe('click', function(e){
                     <li><a href="http://www.craftsvilla.com/footwear-1/footwear-craftsvilla.html">Footwear (Men)</a></li>
                   </ul>
                 </li>
-                <li><a href="http://www.craftsvilla.com/new-arrivals-new-product-launches.html">New Arrivals</a> </li>
+                <!--<li><a href="http://www.craftsvilla.com/new-arrivals-new-product-launches.html">New Arrivals</a> </li>-->
                 <li><a href="http://www.craftsvilla.com/marriage-n-love.html">Wedding</a></li>
                 <li><a href="http://www.craftsvilla.com/spiritual-books-pooja.html">Spiritual</a>
                   <ul class="level_two">
@@ -618,7 +625,7 @@ document.observe('click', function(e){
                                     <a onclick="menu(1);" id="kettleic" class="kettle-hover"><span class="icon_wrapper"><span class="icon-kettle"></span></span><strong>Products</strong></a> </li>
                 <li class="v-line-search"></li>
                 <li>
-                                    <a onclick="javascript:window.location.replace('/shopsearch?searchby=shop&amp;q=Search All Shops')" id="shopic" class="icon_wrapper"><span class="icon_wrapper"><span class="icon-search_shop"></span></span><strong>Shops</strong></a> </li>
+                                    <a onclick="javascript:window.location.replace('/shopsearch?searchby=shop&amp;q=Search All Shops')" id="shopic" class="icon_wrapper"><span class="icon_wrapper"><span class="icon-search_shop"></span></span><strong>View All Shops</strong></a> </li>
                 <!-- <li class="v-line-search"></li>
                 <li>
                                     <a onclick="menu(0);" id="storeic" ><span class="icon_wrapper"><span class="icon-store"></span></span><strong>Crafts</strong></a> </li> -->
@@ -663,7 +670,7 @@ document.observe('click', function(e){
 							</script> 
             </div>
           </form>
-          <div class="clr keywords"><span>Popular Searches:</span> <a rel="nofollow" href="http://www.craftsvilla.com/searchresults?searchby=product&amp;q=ganesha">Ganesha</a> | <a rel="nofollow" href="http://www.craftsvilla.com/searchresults?searchby=product&amp;q=cotton+bags">Cotton Bags</a> | <a rel="nofollow" href="http://www.craftsvilla.com/discounts-n-offers-craftsvilla.html">Discounts &amp; offers</a> | <a rel="nofollow" href="http://www.craftsvilla.com/mahusiano">Mahusiano</a> | <a rel="nofollow" href="http://www.craftsvilla.com/searchresults?searchby=product&amp;q=stoles">Stoles</a></div>
+          <div class="clr keywords"><span>Popular Searches:</span> <a rel="nofollow" href="http://www.craftsvilla.com/searchresults?searchby=product&amp;q=polki">Polki Jewellery</a> | <a rel="nofollow" href="http://www.craftsvilla.com/searchresults?searchby=product&amp;q=kundan">Kundan Jewellery</a> | <a rel="nofollow" href="http://www.craftsvilla.com/searchresults?searchby=product&amp;q=pearl">Pearl Jewellery</a> | <a rel="nofollow" href="http://www.craftsvilla.com/prakruthi">Prakruthi</a> | <a rel="nofollow" href="http://www.craftsvilla.com/searchresults?searchby=product&amp;q=black+chiffon">Black Chiffon Saree</a></div>
         </div>
       </div>
     </div>
@@ -731,7 +738,8 @@ document.observe('click', function(e){
 <!-- end login form --> 
 <script type="text/javascript">
 var dataForm = new VarienForm('form-validate', true);
-</script>                <div class="main-container col1-layout">
+</script>
+                <div class="main-container col1-layout">
                     <div class="main">
                         <div class="col-main">
                             <div class="bdyShadow2">
@@ -758,7 +766,8 @@ var dataForm = new VarienForm('form-validate', true);
 <div style="width: 358px;" class="sub1">
   <div style="margin-top: 0px; margin-right: 0px; margin-bottom: 0px; margin-left: 0px; " class="row levelthree">
     <ul>
-            <li class="sale nav"><a href="http://www.craftsvilla.com/discover-by-craft.html/">Crafts of India</a></li>
+            <li class="sale nav"><a href="http://www.craftsvilla.com/discover-by-craft/">Crafts of India</a></li>
+            <li class="sale nav"><a href="http://www.craftsvilla.com/discover-by-jewellery/">Jewellery of India</a></li>
             <!-- <li class="sale nav"><a href="">Color</a></li> -->
             <li class="sale nav"><a href="http://www.craftsvilla.com/discover-by-taste.html/">Taste</a></li>
             <li class="sale nav"><a href="http://www.craftsvilla.com/shopsearch?searchby=shop&amp;q=Search All Shops">Shops</a></li>
@@ -783,22 +792,22 @@ var dataForm = new VarienForm('form-validate', true);
   	<li class="sale nav"><a href="http://www.craftsvilla.com/jewellery-jewelry.html">Jewellery</a></li>
   	<li class="sale nav"><a href="http://www.craftsvilla.com/sarees-sari.html">Sarees</a></li>
    	<li class="sale nav"><a href="http://www.craftsvilla.com/bags.html">Bags</a></li>  	
-   	<li class="sale nav"><a href="http://www.craftsvilla.com/craftsvilla-hot-sellers.html">Hot Sellers</a></li>  	 
+   	<!--<li class="sale nav"><a href="http://www.craftsvilla.com/craftsvilla-hot-sellers.html">Hot Sellers</a></li>-->  	 
     <!--<li class="sale nav"><a href="http://www.craftsvilla.com/discounts-n-offers-craftsvilla.html">Discounts &amp; Offers</a></li>    -->
     <li class="sale nav"><a href="http://www.craftsvilla.com/wholesale.html">Wholesale</a></li>
-    <li class="sale nav"><a href="http://www.craftsvilla.com/diwali.html">Diwali</a></li>    
+    <!--<li class="sale nav"><a href="http://www.craftsvilla.com/diwali.html">Diwali</a></li>-->    
     <li class="sale nav"><a href="http://www.craftsvilla.com/home-decor-products.html">Home Decor</a></li>
   	<li class="sale nav"><a href="http://www.craftsvilla.com/clothing.html">Clothing</a></li>
   	<li class="sale nav"><a href="http://www.craftsvilla.com/accessories.html">Accessories</a></li>
   	<li class="sale nav"><a href="http://www.craftsvilla.com/home-furnishing.html">Home Furnishing</a></li>
-    <li class="sale nav"><a href="http://www.craftsvilla.com/services.html">Services</a></li>    
+    <!--<li class="sale nav"><a href="http://www.craftsvilla.com/services.html">Services</a></li>-->    
   	<li class="sale nav"><a href="http://www.craftsvilla.com/bath-beauty.html">Bath &amp; Beauty</a></li>
   	<li class="sale nav"><a href="http://www.craftsvilla.com/food-health.html">Food &amp; Health</a></li>
   	<li class="sale nav"><a href="http://www.craftsvilla.com/gifts-birthday-anniversary-wedding.html">Gifts</a></li>
   	<li class="sale nav"><a href="http://www.craftsvilla.com/kids-baby-names-toy.html">Kids</a></li>
   	<li class="sale nav"><a href="http://www.craftsvilla.com/books-india.html">Books</a></li>
   	<li class="sale nav"><a href="http://www.craftsvilla.com/footwear-1.html">Footwear</a></li>
-  	<li class="sale nav"><a href="http://www.craftsvilla.com/new-arrivals-new-product-launches.html">New Arrivals</a></li>
+  	<!--<li class="sale nav"><a href="http://www.craftsvilla.com/new-arrivals-new-product-launches.html">New Arrivals</a></li>-->
   	<li class="sale nav"><a href="http://www.craftsvilla.com/marriage-n-love.html">Wedding</a></li>
   	<li class="sale nav"><a href="http://www.craftsvilla.com/spiritual-books-pooja.html">Spiritual</a></li>
   	<li class="sale nav"><a href="http://www.craftsvilla.com/supplies.html">Supplies</a></li>
@@ -954,7 +963,7 @@ var dataForm = new VarienForm('form-validate', true);
 		Added by Suresh on 26-05-2012 commented original and redirect to home page on continue shopping
 	-->
 	or
-	<a href="http://www.craftsvilla.com/vendeefashion" id="aw_acp_continue">
+	<a href="http://www.craftsvilla.com/variation" id="aw_acp_continue">
 		Shop Amazing Jewelry</a>
 
 	or
@@ -981,7 +990,10 @@ var dataForm = new VarienForm('form-validate', true);
 <div class="ftrBg">
 <div class="card_fb_tw">
 <p>FOLLOW US</p>
-<a href="http://www.facebook.com/craftsvilla" target="_blank" class="spriteimg fbicon"></a> <a href="https://twitter.com/#!/craftsvilla" target="_blank" class="spriteimg tweeticon"><br></a></div>
+<a href="http://www.facebook.com/craftsvilla" target="_blank" class="spriteimg fbicon"></a> <a href="https://twitter.com/#!/craftsvilla" target="_blank" class="spriteimg tweeticon"><br></a>
+<!-- Place this tag where you want the +1 button to render. -->
+<div class="g-plusone"></div>
+</div>
                          <ul>
                             <li id="brdrNo"><h3>our company</h3></li>
                             <li><a href="http://www.craftsvilla.com/about-us-craftsvilla/" rel="nofollow">About us</a></li>
@@ -1043,7 +1055,16 @@ var dataForm = new VarienForm('form-validate', true);
 </div>
 </div>
 </div>
- </div>
+
+
+<!-- Place this tag after the last +1 button tag. -->
+<script type="text/javascript">
+  (function() {
+    var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+    po.src = 'https://apis.google.com/js/plusone.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+  })();
+</script> </div>
 </div>
 <div class="modal" id="modal_register">
     <h2><span class="icon icon-welcome_banner cufon">Welcome to CraftsVilla!</span></h2>
