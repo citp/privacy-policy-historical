@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the joomlancers.com privacy policy that was archived on 2012-10-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121005034440id_/http%3A//www.joomlancers.com/joomlancerscom-privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the joomlancers.com privacy policy that was archived on 2013-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130616134002id_/http%3A//www.joomlancers.com/joomlancerscom-privacy-policy.html) for the most accurate reproduction.*
 
 # JOOMLANCERS.COM PRIVACY POLICY
 
