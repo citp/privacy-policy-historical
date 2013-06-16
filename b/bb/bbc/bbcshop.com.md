@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bbcshop.com privacy policy that was archived on 2012-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121231120625id_/http%3A//www.bbcshop.com/help/security-and-privacy/scat/securityandprivacy/%23privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bbcshop.com privacy policy that was archived on 2013-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130617012020id_/http%3A//www.bbcshop.com/help/security-and-privacy/scat/securityandprivacy/%23privacypolicy) for the most accurate reproduction.*
 
 # Security and Privacy at BBC Shop
 
@@ -265,7 +265,7 @@ The terms and conditions are subject to change at any time, and it is your respo
 
 Back to top
 
-BBC Shop is a division of BBC Worldwide Limited and the BBC Shop site is operated under licence by BBCW (BBCW, We, Us) a company incorporated in England and Wales under company number 1420028, whose registered office is at Woodlands, 201 Wood Lane, Media Centre, London, W12 7TQ. Our VAT number is 333289454. 
+BBC Shop is a division of BBC Worldwide Limited (BBCW, We, Us), a wholly owned subsidiary of the BBC. BBC Shop is operated under licence by BBCW a company incorporated in England and Wales under company number 1420028, whose registered office is at Media Centre, 201 Wood Lane, Media Centre, London, W12 7TQ. Our VAT number is 333289454. 
 
 Back to top
 
@@ -273,61 +273,91 @@ If you have any questions regarding BBC Shop, its goods, services or an order th
 
 Back to top
 
-Our site is only intended for use by people resident in the [**Serviced Countries.**](https://www.bbcshop.com/scat/deliveryinformation#wherewedeliverto) We do not accept orders from individuals outside of those countries. Please review our Serviced Countries page before ordering any goods/services from us.
+### 4\. Service & Product Availability
 
-Back to top
+Our site is only intended for use by people resident in the [**Serviced Countries.**](https://www.bbcshop.com/scat/deliveryinformation#wherewedeliverto) We do not accept orders from individuals outside of those countries. Please review our Serviced Countries page before ordering any goods/services from us. There may also be restrictions on certain products for certain international delivery destinations (for example, DVD’s), so please review the information on that page carefully before ordering the products. 
 
-By placing an order through our site, you warrant that: 
+Goods dispatched by BBC Shop to addresses outside of the European Union are generally not subject to VAT.
 
-  * (a) you are legally capable of entering into binding contracts; 
-  * (b) you are at least 18 years old; and 
-  * (c) the information given on your order form is complete and accurate. 
+If you order goods for delivery outside the UK, they may be subject to import duties and taxes which are levied when the delivery reaches the specified destination. You will be responsible for payment of any such import duties and taxes. Please note that we have no control over these charges and cannot predict their amount. Please contact your local customs office for further information before placing your order. 
 
+Please also note that you must comply with all applicable laws and regulations of the country for which the products are destined. We will not be liable for any breach by you of any such laws. 
 
-
-Back to top
-
-All orders are subject to acceptance by us and availability of the requested item(s). After placing an order, you will receive an email from us acknowledging that we have received your order. It will state what the item(s) you have ordered are, the cost (including VAT and postage and packaging) and delivery and invoice details. If your order has been unsuccessful, you will be made aware of the reason why and possible explanations. Please note that this acknowledgment email does not mean that your order has been accepted – your order constitutes an offer to us to purchase goods or services. All orders are subject to acceptance by us and we will confirm such acceptance by sending you an email confirming that we have dispatched the item(s) to you (the Dispatch Confirmation). That email shall represent our legal acceptance of the offer you made to purchase the item(s) and the contract between us (the Contract) will only be formed when we send you the Dispatch Confirmation. 
-
-If we confirm to you that some but not other item(s) that you have ordered have been dispatched, those item(s) that have not been dispatched will not form part of the Contract. In the event of any change, such as a change in price or expected delivery date between completion of your order and Contract formation, we shall inform you and you shall at that point have the right to either (i) accept such change (in which case your email reply will represent a new offer which we will accept upon notification of dispatch) or (ii) reject such change (in which case your email reply will represent a withdrawal of your order, or the relevant part of your order as the case may be). 
-
-Back to top
-
-### 7\. Availability and Delivery goods
-
-Availability information and delivery times are clearly displayed on the site next to each individual goods/service. If no delivery date is specified, your order will be fulfilled within 30 days of the date of the Dispatch Confirmation, unless there are exceptional circumstances.
+Delivery times are clearly displayed on the site next to each individual item. If no delivery date is specified, your order will be fulfilled within 30 days of the date of the Dispatch Confirmation, unless there are exceptional circumstances.
 
 If BBCW has insufficient stock to deliver the goods you have ordered, BBCW will not charge your credit card until the date your order is sent to you. BBCW will inform you by e-mail at the address given in your order form and any sum which may have been credited from your credit card will be re-credited to you no later than 30 days after the date of your order. 
 
 Back to top
 
-The goods will be at your risk from the time of delivery. 
+By placing an order through our site, you warrant (promise) that: 
 
-Ownership of the goods will only pass to you when we receive full payment of all sums due in respect of the goods, including delivery charges. 
+  * (a) you are legally capable of entering into binding contracts; 
+  * (b) you are at least 18 years old; and 
+  * (c) the information given on your order form is complete and accurate. 
+  * (d) you will keep your password confidential and will be responsible for all of your account activity. If you think that anyone else might have obtained your password, you must change it immediately. 
 
-Back to top
-
-Back to top
-
-Your statutory rights as a consumer are not affected if, for any reason, you wish to return any goods bought from BBC Shop within thirty days of the day after the date the item is delivered (by law, customers in the European Union have the right to withdraw from the purchase of an item within seven working days of the day after the date the item is delivered). This applies to all of our goods except for digital items where the item has been downloaded (for further information, please refer to the “Downloads” section of these Terms and Conditions below). 
-
-Where you have validly exercised your rights to withdraw from any purchase you will receive a full refund of the price paid for the goods in accordance with our [**refunds policy.**](https://www.bbcshop.com/scat/ordering#returnsrefunds)
-
-Please note that we only accept returns for any non-faulty items that are returned in their original condition and which have not been worn/used. 
-
-In the case of CDs, DVDs, videos, video games and any other audio, video, multimedia or software products sold in hard copy form, your right to cancel and return the goods as set out above only applies where such products are unopened and the seal on the goods remains unbroken. We can only accept the return of opened items if they are faulty. In the case of electronic products please see. 
-
-Please see the full Returns policy for more information. For information on your right to cancel [**click here.**](https://www.bbcshop.com/scat/ordering#yourrighttocancel)
+As a consumer, you have legal rights in relation to products that are faulty or not as described. Advice about your legal rights is available from your local Citizens Advice Bureau or Trading Standards office. Nothing in these Terms will affect these legal rights. 
 
 Back to top
 
-Digital files, including without limitation download to own films, digital audio and digital music files ("Downloads") will only be made available for you to download once your payment has been authorised. No contract of any kind between you and BBCW is formed unless and until you make payment for the Downloads.
+All orders are subject to acceptance by us and availability of the requested item(s). After placing an order, you will receive an email from us acknowledging that we have received your order. It will state what the item(s) you have ordered are, the cost (including VAT and postage and packaging) and delivery, invoice and cancellation details. If your order has been unsuccessful, you will be made aware of the reason why and possible explanations. Please note that this acknowledgment email does not mean that your order has been accepted – your order constitutes an offer to us to purchase goods or services. All orders are subject to acceptance by us and we will confirm such acceptance by sending you an email confirming that we have dispatched the item(s) to you (the Dispatch Confirmation). That email shall represent our legal acceptance of the offer you made to purchase the item(s) and the contract between us (the Contract) will only be formed (and we will debit your account) when we send you the Dispatch Confirmation. 
 
-PLEASE NOTE: in order to access any Download from BBC Shop, you will need to download the BBC Shop [**Download Manager**](http://www.bbcshop.com/scat/digitaldownloads#bbcshopdownloadmanager) ("Download Manager"). If you do not download the Download Manager you will not be able to download and access the files you have purchased. The Download Manager may be downloaded at any time, including after purchase. Please refer to the BBC Shop [**Help pages**](http://www.bbcshop.com/scat/digitaldownloads) relating to Downloads for further information.
+If we confirm to you that some but not other item(s) that you have ordered have been dispatched, those item(s) that have not been dispatched will not form part of the Contract. In the event of any change, such as a change in price or expected delivery date between completion of your order and Contract formation, we shall inform you and you shall at that point have the right to either (i) accept such change (in which case your email reply will represent a new offer which we will accept upon notification of dispatch) or (ii) reject such change (in which case your email reply will represent a withdrawal of your order, or the relevant part of your order as the case may be). If you have already paid for the item(s), we will refund the full aount no later than 30 days after the date of your order. 
 
-You may only use the Downloads for personal, non-commercial purposes. Additional information and restrictions on what you are entitled to do with each Download (your "Usage Rights") are stated on the Download Product Page. For further information please refer to the [**Help page.**](http://www.bbcshop.com/scat/digitaldownloads#usagerights) Except for your Usage Rights, any copying, reproduction, lending or hiring, public performance, broadcasting or any other form of distribution of the Downloads is prohibited and will constitute copyright infringement. You acknowledge that the Downloads include security technology which ensures that they may only be used in accordance with the Usage Rights. For further information please refer to the [**Help page.**](http://www.bbcshop.com/scat/digitaldownloads)
+Back to top
 
-You may not cancel any purchase of a Download after your payment has been confirmed and may only return a Download if it is defective. If you are unable to complete the download process or wish us to provide a replacement for a file that is defective please [**contact our helpdesk**](http://www.bbcshop.com/scat/contactus) and, where this is due to our default, we will replace or refund the Download.
+The goods will be at your risk and responsibility from the time we despatch your parcel for delivery. 
+
+Ownership of the goods will pass to you when we receive full payment of all sums due in respect of the goods, including delivery charges. 
+
+Back to top
+
+BBC Worldwide aims to ensure that the pricing of goods and services on BBC Shop is correct at all times. However, the web pages may not always accurately reflect the correct details at the moment at which you place your order. BBC Worldwide reserves the right to change prices without prior notice at any time prior to dispatch. BBC Worldwide cannot confirm the price of an item until your order is accepted via the Dispatch Confirmation. For information on Pre-Orders, please [**click here.**](https://www.bbcshop.com/scat/ordering#preordering)
+
+All prices include VAT (at the UK rate) where applicable, but exclude delivery costs, which will be added to the total amount. If the rate of VAT changes between the date of your order and the date of delivery, we will adjust the VAT you pay, unless you have already paid for the products in full before the change in VAT takes effect. 
+
+Goods dispatched by BBC Shop to addresses outside of the European Union are generally not subject to VAT. 
+
+All credit and charge card holders are subject to validation checks and authorisation by the card issuer. If the issuer of your payment card refuses to authorise payment to us, your order will not be accepted and BBCW will not be liable for any delay or non-delivery. For information on Payment options [**click here.**](https://www.bbcshop.com/scat/usefulinfo#paymentinformation)
+
+Back to top
+
+At the BBC Shop we want to provide you with the best possible customer service. We hope you are delighted with your items. However:   
+
+
+    * If your order is faulty, damaged or mis-described, return it to us within 30 days of delivery for a full refund (including delivery charges); 
+    * If you change your mind:   
+o Return your item and write to us at bbcshop@bbc.com within 7 working days of delivery to cancel your order, and your consumer rights entitle you to a full refund (including delivery charges);  
+o Return your item within 30 days of delivery, and provided it’s in an unused and saleable condition, we will refund the cost of the item (but not the delivery charges).(Certain items are excluded, however, please see the list below).
+
+If you need to return your goods please follow our Returns and Refunds Procedure.
+
+**Returns and Refunds Procedure**
+
+a. Certain items are excluded from refunds or exchanges unless they are faulty. We cannot accept order cancellations or offer a refund or exchange on:
+
+    * Personalised products  
+
+    * Unsealed CDs, DVDs, tapes or other recording media, software or video.  
+b. For all other items, please complete the Returns Form on the reverse of your despatch note.  
+c. It’s important that your returns are in the best possible condition, so please ensure you wrap the item you’re returning securely, remembering to enclose the Returns Form.  
+d. You must obtain a proof of delivery receipt from the Post Office Counter. This is your proof of return and must be provided if the item you are returning fails to arrive at our Returns Warehouse.  
+e. Please allow 14 working days for the goods to be returned and for us to process your return.  
+f. The product must be received by our Returns Department within 30 days of receipt of delivery.  
+g. If the item is faulty, misdescribed or delivered in error, you will be fully refunded, including all postage costs.  
+h. No claims can be processed unless these conditions are strictly adhered to.
+
+All returns should be sent to:
+
+BBC Shop  
+Returns Department  
+Technicolour Unit A  
+Cosford Lane  
+Newbold   
+Rugby CV21 1QN  
+England
+
+This BBC Shop refund policy is separate and additional to your right to cancel under the Distance Selling Regulations. It does not affect your legal rights relating to faulty or mis-described goods. Contact your local Consumer Rights organisation (such as the Citizens Advice Bureau) if you would like more information on your legal rights.
 
 Back to top
 
@@ -335,31 +365,39 @@ All rights, including copyright, in the content of the BBC Shop web pages are ow
 
 Back to top
 
-BBCW shall have no liability to you for any failure to deliver goods you have ordered or any delay in doing so or for any damage or defect to goods delivered that is caused by any event or circumstance beyond its reasonable control. 
+### 11\. Force majeure (Events outside of our control)
+
+BBCW shall have no liability to you for any failure to deliver goods you have ordered or any delay in doing so or for any damage or defect to goods delivered that is caused by any event or circumstance beyond its reasonable control. We will contact you as soon as reasonably possible in such an event. 
 
 Back to top
 
-### 14\. Limitation of Liability 
+If we fail to comply with these Terms, we are responsible for loss or damage you suffer that is a foreseeable result of our breach of these Terms or our negligence, but we are not responsible for any loss which is not foreseeable. Loss or damage is foreseeable if it was an obvious consequence of our breach or if it was contemplated by you and us at the time we entered into the contract. 
 
-Although we take ever care to ensure accuracy, we make no warranties as to the accuracy of the information we place on our web pages. The extent of our liability for any breach of these terms and conditions shall be limited to the value of the goods ordered by you in the relevant transaction, however nothing in these terms and conditions shall exclude or limit BBCW’s liability for death or personal injury as a result of BBCW’s negligence.
+We only supply the items for domestic and private use. You agree not to use the items for business, commercial or re-sale purposes and we have no liability to you for loss of profit, loss of business, business interruption or loss of business opportunity. 
 
-We accept no liability to you for any failure to deliver goods you have ordered or any delay in doing so or for any damage or defect to any item delivered that is caused by any event or circumstance beyond our reasonable control.
+Nothing in these terms and conditions shall exclude or limit BBCW’s liability for: 
+
+• death or personal injury as a result of BBCW’s negligence;  
+• BBCW’s fraud or fraudulent misrepresentation;   
+• any breach of the terms implied by section 12 of the Sale of Goods Act 1979;  
+• any breach of the terms implied by sections 13 to 15 of the Sale of Goods Act 1979;   
+• defective products under the Consumer Protection Act 1987 
 
 Back to top
 
-### 15\. Safe Shopping - secure guarantee 
+### 13\. Safe Shopping - secure guarantee 
 
-BBCW places great importance on maintaining the security of the information that you provide and for this reason we use advanced Internet security system to safeguard your data. In addition, we are VeriSign secured and have a VeriSign SSL Certificate. All the data that you send through, including your credit/debit card number and name and address, is encrypted and converted into code before it is transmitted across the Internet. Therefore in the extremely unlikely event that the data should be intercepted, it would be encrypted and difficult to decipher. 
+BBCW places great importance on maintaining the security of the information that you provide and for this reason we use advanced Internet security system to safeguard your data. In addition, we are GeoTrust approved and have a GeoTrust True Business ID Certificate. All the data that you send through, including your credit/debit card number and name and address, is encrypted and converted into code before it is transmitted across the Internet. Therefore in the extremely unlikely event that the data should be intercepted, it would be encrypted and difficult to decipher. 
 
 Back to top
 
-### 16\. Transfer of Rights and Obligations
+We take your privacy very seriously and are registered under the Data Protection Act. BBCW collects and processes data in accordance with our [**Privacy Policy**](https://www.bbcshop.com/scat/securityandprivacy#privacypolicy). Please take the time to read this Privacy Policy as it contains terms which apply to you. By using BBC Shop you consent to such collection and processing and you warrant that all data provided by you is accurate.
+
+Back to top
+
+### 15\. Transfer of Rights and Obligations
 
 The contract between you and BBCW is binding on you and us and on our respective successors and assigns. You may not transfer, assign, charge or otherwise dispose of a Contract, or any of your rights or obligations arising under it, without our prior written consent. We may transfer, assign, charge, sub-contract or otherwise dispose of a Contract, or any of our rights or obligations arising under it, at any time during the term of the Contract.
-
-Back to top
-
-We take your privacy very seriously and are registered under the Data Protection Act. BBCW collects and processes data in accordance with our [**Privacy Policy**](https://www.bbcshop.com/scat/securityandprivacy#privacypolicy). By using BBC Shop you consent to such collection and processing and you warrant that all data provided by you is accurate.
 
 Back to top
 
@@ -375,7 +413,7 @@ Neither of us shall have any remedy in respect of any untrue statement made by t
 
 Back to top
 
-### 20\. Invalidity and Governing Law & Jurisdiction
+### 18\. Invalidity and Governing Law & Jurisdiction
 
 If for any reason part of these terms and conditions is unenforceable, the validity of the remaining terms and conditions shall not be affected.
 
@@ -383,9 +421,7 @@ Contracts between you and BBCW shall be governed by English law and you and BBCW
 
 Back to top
 
-## Verified by Visa and Mastercard SecureCode 
 
-  
 
 
 ### 1\. Visa and Mastercard SecureCode 
@@ -409,18 +445,5 @@ For further information regarding these services visit:
 ****
 
 Back to top
-
-****
-
-****
-
-[](http://www.bbcshop.com/help/scat/help/)
-
-or
-
-[](http://www.bbcshop.com/page/home/)
-
-  
-
 
 ****
