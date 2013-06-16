@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the foodmate.com privacy policy that was archived on 2012-10-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121021084202id_/http%3A//www.foodmate.com/about/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the foodmate.com privacy policy that was archived on 2013-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130616023739id_/http%3A//www.foodmate.com/about/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy-Global FoodMate
 
