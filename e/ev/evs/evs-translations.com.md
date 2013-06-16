@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the evs-translations.com privacy policy that was archived on 2012-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121220100125id_/http%3A//www.evs-translations.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the evs-translations.com privacy policy that was archived on 2013-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130616063614id_/http%3A//www.evs-translations.com/privacy-policy) for the most accurate reproduction.*
 
 # Professional interpreting and translation services | EVS Translations
 
@@ -6,7 +6,7 @@ This privacy policy sets out what information EVS Translations collects when you
 
 EVS Translations is committed to ensuring that your privacy is protected. Should we ask you to provide specific information, we will only use this in accordance with this privacy policy. 
 
-EVS Translations reserves the right to update this policy as and when required. For this reason, we recommend that you check this page from time to time in order to keep up-to-date with any changes. This policy is effective from 5 August 2008 and was last amended on 18 February 2010. 
+EVS Translations reserves the right to update this policy as and when required. For this reason, we recommend that you check this page from time to time in order to keep up-to-date with any changes. This policy is effective from August 5 2008 and was last amended on February 18 2010. 
 
 ## COLLECTION OF PERSONAL DATA
 
@@ -14,7 +14,7 @@ We only collect personal data when you request an online translation quote or re
 
 ## PROCESSING AND USE OF PERSONAL DATA
 
-EVS Translations uses the collected data in order to better understand your needs and to optimise the range of services which we can provide you with, and in particular for the following reasons where applicable:
+EVS Translations uses the collected data in order to better understand your needs and to optimize the range of services which we can provide you with, and in particular for the following reasons where applicable:
 
   * Internal record keeping
   * Improving our products and services
@@ -23,7 +23,7 @@ EVS Translations uses the collected data in order to better understand your need
 
 
 
-You have the right to withdraw your future consent at any time by simply sending us an E-mail: dataprotection(at)evs-translations.com 
+You have the right to withdraw your future consent at any time by simply sending us an email: dataprotection(at)evs-translations.com 
 
 ## USE OF COOKIES
 
