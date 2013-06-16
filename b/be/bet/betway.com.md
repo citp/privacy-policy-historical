@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the betway.com privacy policy that was archived on 2012-09-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120915044321id_/http%3A//betway.com/help/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the betway.com privacy policy that was archived on 2013-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130616154746id_/http%3A//betway.com/help/privacy-policy) for the most accurate reproduction.*
 
 # Betway Online Casino and Betting :: Privacy Policy
 
 This site is operated by Sailboats Limited and Betway Limited (our “Site”). We have created this privacy policy (“Privacy Policy”) to outline our firm commitment to your privacy. Our policy is based on the Data Protection Act of Malta and the principles held within such law. It will also inform you of type of Personal Data we process when you use our Site, why we process this Data and how we use this Data. 
 
-By using [www.betway.com](https://web.archive.org/web/20120915044321id_/http%3A//betway.com/help/you) acknowledge and accept both the terms and conditions of this privacy policy and the purposes and methods of processing for which your Personal Data is collected.
+By using [www.betway.com](https://web.archive.org/web/20130616154746id_/http%3A//betway.com/help/you) acknowledge and accept both the terms and conditions of this privacy policy and the purposes and methods of processing for which your Personal Data is collected.
 
 ## How your Personal Data is stored and used
 
@@ -14,12 +14,11 @@ Your Personal Data is held by us on servers based in Malta and elsewhere from ti
 
 All of your Data is collected and stored in a secure and protected environment and is correct as it is provided. You are entitled by law to have a copy of the Personal Data recorded and to have any Personal Data corrected. You may change your personal details at anytime by [clicking here](https://web.archive.org/myaccount/personalinformation) and following the simple steps.
 
-Disclosure of your Personal Data will only take place in accordance with applicable laws. Such disclosure will primarily be to other companies in our group, business partners, consultants or suppliers that are engaged to carry out financial or other processing on our behalf.
+You may also “opt out” of the collection of Your information for third party analytics purposes by following the directions provided by Our third party analytics vendor located at <http://www.mobileapptracking.com/privacy-policy/>. If You “opt out” with our third party analytics provider, that action is specific to the information we collect specifically for that provider, and does not limit Our ability to collect information from You, under the terms of this privacy policy, for other vendors.
 
-Due to the nature of the internet and its use to collect and transfer Personal Data, it may necessitate the transmission of your Personal Data outside of the EEA. By using this site you acknowledge and agree to our use of your Personal Data in this manner.
+When you use or connect to Our website or download a Our mobile app by or through a Third Party Platform, such as Facebook or other social networking site, You allow Us to access and/or collect certain information from Your Third Party Platform profile/account (such as your Facebook account) or via any cookies placed on Your device by such Third Party Platform as permitted by the terms of the agreement and your privacy settings with the Third Party Platform. We will share such information with the Third Party Platform for their use as permitted by the terms of the agreement and your privacy setting with the Third Party Platform.
 
-We do not collect your Personal Data when you use our Site without your knowledge or rent, sell or trade your Personal Data to any third party.   
-You may ‘opt out’ of receiving any promotional communications either by choosing to opt out where such option is made available on the Site or in an email you receive from us, or at any time by sending an [email](mailto:support@betway.com) or by writing to us at 9 Empire Stadium Street, Gzira GZR 1300, Malta.
+We will share some of the information we collect from You upon install of the mobile app with vendors and other service providers who are engaged by or working with Us in connection with the operation of the services We provide to You and/or for analytics purposes which may require the reproduction and display of such information in an aggregated and anonymized manner such that will not in any way identify You.
 
 ## Security of Processing
 
