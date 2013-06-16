@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the writing-skills.com privacy policy that was archived on 2012-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121212195418id_/http%3A//www.writing-skills.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the writing-skills.com privacy policy that was archived on 2013-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130616084723id_/http%3A//www.writing-skills.com/privacy) for the most accurate reproduction.*
 
 # Privacy and Cookie policy
 
