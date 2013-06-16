@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the noodle.com privacy policy that was archived on 2012-08-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120805181552id_/http%3A//noodle.com/reflex_privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the noodle.com privacy policy that was archived on 2013-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130616200838id_/http%3A//www.noodle.com/reflex_privacy_policy.html) for the most accurate reproduction.*
 
 # None
 
