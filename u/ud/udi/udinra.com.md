@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the udinra.com privacy policy that was archived on 2012-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121215153544id_/http%3A//udinra.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the udinra.com privacy policy that was archived on 2013-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130616045326id_/http%3A//udinra.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Udinra
 
@@ -21,7 +21,7 @@ Your information is maintained on a secure web server in what we believe to be a
 Udinra only shares personal information to billing companies for completing transactions and for no other purpose. No other information is shared with any other third-party company for any purpose, under any circumstance.  
 Udinra makes every effort to preserve your privacy, personal information may be disclosed when required by law where we have a good-faith belief that such action is necessary to comply with a judicial proceeding, court order or legal process.
 
- **Cookies & 3rd Party Advertisements**
+**Cookies & 3rd Party Advertisements**
 
 Google, as a third party vendor, uses cookies to serve ads on your site. Google’s use of the DART cookie enables it to serve ads to your users based on their visit to your sites and other sites on the Internet. Users may opt out of the use of the DART cookie by visiting the [Google ad and content network privacy policy](http://www.google.com/privacy_ads.html).
 
