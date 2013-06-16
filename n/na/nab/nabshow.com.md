@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nabshow.com privacy policy that was archived on 2012-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121119071134id_/http%3A//www.nabshow.com/2013/about/privacy_policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nabshow.com privacy policy that was archived on 2013-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130616205851id_/http%3A//nabshow.com/2013/about/privacy_policy.asp) for the most accurate reproduction.*
 
 # 2013 NAB Show - About - Privacy Policy
 
