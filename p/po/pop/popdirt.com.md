@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the popdirt.com privacy policy that was archived on 2012-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121223064105id_/http%3A//popdirt.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the popdirt.com privacy policy that was archived on 2013-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130616095558id_/http%3A//popdirt.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | popdirt.com
 
