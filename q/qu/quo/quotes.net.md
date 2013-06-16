@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the quotes.net privacy policy that was archived on 2012-09-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120928094659id_/http%3A//www.abbreviations.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the quotes.net privacy policy that was archived on 2013-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130616100122id_/http%3A//www.quotes.net/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy
 
-STANDS4 LLC cares about your privacy. We want to make you feel comfortable and secure using or purchasing products from our web site. This privacy policy explains the types of information we gather, how it is protected, what we do with it and how you can correct or change information.
+STANDS4 LLC cares about your privacy. We want to make you feel comfortable and secure using our web site. This privacy policy explains the types of information we gather, how it is protected, what we do with it and how you can correct or change information.
 
 ### Consent to this Privacy Policy
 
 By providing STANDS4 LLC with Personal Information (defined below), you signify that you agree with the terms of our current Privacy Policy as posted here. If you do not agree with any term in this Policy, please do not provide any Personal Information.
 
-If you choose not to provide Personal Information, you may not be able to take certain actions, like becoming an Abbreviations.com's editor, access particular areas of the web site, posting comments to our Blog, or send us e-mail.
+If you choose not to provide Personal Information, you may not be able to take certain actions, like becoming an editor, access particular areas of the web site, posting comments to our Blog, or send us e-mail.
 
 ### Continuing Agreement
 
@@ -16,7 +16,7 @@ STANDS4 LLC may change or revise this Privacy Policy from time to time by updati
 
 ### What Personal Information is collected and how?
 
-When you are applying to become an Abbreviations.com editor, adding new entries or sending us email, you may provide us with your name, e-mail address and a short description of your internet experience ("Personal Information").
+When you are applying to become an editor, adding new entries or sending us email, you may provide us with your e-mail address ("Personal Information").
 
 STANDS4 LLC also uses "cookies" to receive and store certain types of information whenever you interact with the web site. Cookies are identifiers transferred to your computer's hard drive through your browser which enable our systems to recognize your browser. This recognition allows web sites to give you customized and personalized service and helps web site owners identify ways to improve your online experience. Cookies may also be used to help web site owners track responses to messages sent on behalf of our advertisers so that STANDS4 LLC may aggregate such information and report results to them. The "help" portion of the toolbar on most browsers will tell you how to reject or disable cookies or receive notice when a new cookie appears. If you choose to reject or disable cookies, you will be unable to use those specific areas of the web site that require the use of cookies.
 
@@ -38,7 +38,7 @@ STANDS4 LLC may use or disclose personal information when STANDS4 LLC believes i
 
 ### How may you change or remove your personal information?
 
-You may at any time review and change your Personal Information stored by this web site by contacting us using our [contact page](http://www.abbreviations.com/contact.php).
+You may at any time review and change your Personal Information stored by this web site by contacting us using our [contact page](http://www.quotes.net/contact.php).
 
 You may also request that STANDS4 LLC permanently remove all Personal Information stored by STANDS4 LLC by delivering notice requesting such removal. Upon such request, STANDS4 LLC will remove all such information and will not thereafter use personally identifiable information about you in any way.
 
