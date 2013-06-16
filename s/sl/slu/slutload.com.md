@@ -1,79 +1,48 @@
-> *The following text is extracted and transformed from the slutload.com privacy policy that was archived on 2007-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071214012342id_/http%3A//www.slutload.com/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the slutload.com privacy policy that was archived on 2013-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130616101754id_/http%3A//www.slutload.com/privacy) for the most accurate reproduction.*
 
-# Privacy Notice - SLUTLOAD.COM - Free Porno Videos / Upload Porn For Free
+# Privacy Policy SlutLoad ™ -
 
-#### SlutLoad Privacy Notice
+Last modified on February 5, 2011.  
+For definitions and additional information please see the [Terms and Conditions](https://web.archive.org/terms/).
 
-SlutLoad recognizes that its customers, visitors, users, and others who use www.SlutLoad.com or other web sites owned or operated by SlutLoad value their privacy. This Privacy Notice details important information regarding the use and disclosure of User information collected on the SlutLoad Sites. SlutLoad provides this Privacy Notice to help you make an informed decision about whether to use or continue using the SlutLoad Sites. 
+This document details information regarding the use and disclosure of user data collected on our Website. The security of your data is important and we will attempt to take commercially reasonable steps to limit any risk that it may be lost, damaged or misused.
 
-This Privacy Notice is incorporated into and is subject to the Terms of Use. Your use of the SlutLoad Sites and any personal information you provide on the SlutLoad Sites remains subject to the terms of this Privacy Notice and our Terms of Use. 
+We do not provide any facility for sending or receiving private or confidential electronic communications. You should not use this Website or Services to transmit any communication for which you intend only the intended recipient(s) to read. All messages and other content entered into this Website or Services can and may be read by the agents and operators of the Website or Services, regardless of whether they are the intended recipients of such messages.
 
-Please note that any video, image, or other content posted at the direction of Users onto the SlutLoad Sites becomes published content and is not considered personally identifiable information subject to this Privacy Notice. 
+* ### Data Collected
 
-#### The Information SlutLoad Collects
+Users can view content without a username and password, and without any information being collected and processed. However the user’s IP address will be recorded in the event that there is any misappropriation of information and/or content.
 
-User Provided Information: You provide certain personally identifiable information (such as your name and email address) to SlutLoad when choosing to participate in various activities on the SlutLoad Sites such as uploading videos, posting messages in our forums or in the video comments section, entering contests or sweepstakes, taking advantage of promotions, responding to surveys, or subscribing to newsletters or other mailing lists. 
+A username and password is required for a number of additional features. Personal information may be requested at time of registration, including an email address. Personal information may be added on a voluntary basis after registration. All this data with the exception of the email address and IP address becomes publicly accessible information.
 
-Cookies Information: When you visit the SlutLoad Sites, we may send one or more cookies - a small text file containing a string of alphanumeric characters - to your computer that uniquely identifies your browser. SlutLoad uses both session cookies and persistent cookies. A persistent cookie remains after you close your browser. Persistent cookies may be used by your browser on subsequent visits to the site. Persistent cookies can be removed by following your web browser help file directions. A session cookie is temporary and disappears after you close your browser. You can reset your web browser to refuse all cookies or to indicate when a cookie is being sent. However, some features of the SlutLoad Sites may not function properly if the ability to accept cookies is disabled. 
+Personal information or video content that you voluntarily disclose online becomes publicly available and can be collected and used by others.
 
-Log File Information: When you use the SlutLoad Sites, our servers automatically record certain information that your web browser sends whenever you visit any website. These server logs may include information such as your web request, Internet Protocol ("IP") address, browser type, browser language, referring / exit pages and URLs, platform type, number of clicks, domain names, landing pages, pages viewed and the order of those pages, the amount of time spent on particular pages, the date and time of your request, and one or more cookies that may uniquely identify your browser. 
+When you visit our Website, we may send one or more cookies to your computer that uniquely identifies your browser session. Our Website uses both session cookies and persistent cookies. If you delete your persistent cookie, some of our Website’s features may not function properly.
 
-#### The Way SlutLoad Uses Information
+When you visit our Website, our servers may automatically capture information that your web browser sends, including but not limited to: the web request, IP address, browser type, browser language, referring URL, platform type, domain names and the date and time of your request.
 
-If you submit personally identifiable information to us through the SlutLoad Sites, then we use your personal information to operate, maintain, and provide to you the features and functionality of the SlutLoad Sites. 
+If you contact us, we may keep a record of that correspondence.
 
-Any personal information or video content that you voluntarily disclose online (on discussion boards, in messages and chat areas, within your public profile page, etc.) becomes publicly available and can be collected and used by others. Your account name (not your email address) is displayed to other Users when you upload videos or send messages through the SlutLoad Sites and other Users can contact you through messages and comments. Any videos that you submit to the SlutLoad Sites may be redistributed through the internet and other media channels, and may be viewed by the general public. 
+* ### How Collected Data is Used
 
-We do not use your email address or other personally identifiable information to send commercial or marketing messages without your consent or except as part of a specific program or feature for which you will have the ability to opt-in or opt-out. We may, however, use your email address without further consent for non-marketing or administrative purposes (such as notifying you of major SlutLoad Site changes or for customer service purposes). 
+Your information submitted to our Website may be used to provide both regular and personalized features.
 
-We use both your personally identifiable information and certain non-personally-identifiable information (such as anonymous User usage data, cookies, IP addresses, browser type, clickstream data, etc.) to improve the quality and design of the SlutLoad Sites and to create new features, promotions, functionality, and services by storing, tracking, and analyzing User preferences and trends. 
+Your username is displayed to other users alongside the content you upload, including videos and comments. Videos that you submit to our Website may be redistributed throughout the internet, and may be viewable by the public.
 
-We use cookies and log file information to: (a) remember information so that you will not have to re-enter it during your visit or the next time you visit the SlutLoad Sites; (b) provide custom, personalized content and information; (c) monitor the effectiveness of our marketing campaigns; (d) monitor aggregate metrics such as total number of visitors, pages viewed, etc.; and (e) track your entries, submissions, and status in promotions, sweepstakes, and contests. 
+We may send you information regarding products or services offered by our affiliates or partners, inform you about any of our related products or services, or provide you with information about any item that we think, in our sole discretion, may be of interest to you.
 
-#### When SlutLoad Discloses Information
+We may also use your email address for non-marketing or administrative reasons.
 
-We provide personally identifiable information and non-personally-identifiable information to our subsidiaries, affiliated companies, or other businesses or persons for the purpose of processing such information on our behalf. We require that these parties agree to process such information in compliance with our privacy policy, and we use reasonable efforts to limit their use of such information and to use other appropriate confidentiality and security measures. 
+We may analyze aggregated user patterns to increase the efficiency of our marketing and hosting operations, and to generally improve the quality of our Website.
 
-We do not share your personally identifiable information (such as name or email address) with other, third-party companies for their commercial or marketing use without your consent or except as part of a specific program or feature for which you will have the ability to opt-in or opt-out. 
+* ### When We Disclose Information
 
-We do share non-personally-identifiable information (such as anonymous User usage data, referring / exit pages and URLs, platform types, number of clicks, etc.) with interested third-parties to assist them in understanding the usage patterns for certain content, services, advertisements, promotions, and/or functionality on the SlutLoad Sites. 
+If under duty a legal obligation, or in order to enforce our [Terms and Conditions](https://web.archive.org/terms/) and other agreements; or to protect the rights, property or safety of our Website or our subscribers or others, we may disclose your personal data. This includes exchanging information with the police and governmental authorities for any kind of illegal activity whether or not identified in the [Terms and Conditions](https://web.archive.org/terms/). It is our policy, whenever commercially possible and legally permissible, to attempt to notify you of an obligation to supply data to any third party.
 
-We may release personally identifiable information and/or non-personally-identifiable information if required to do so by law, or in the good-faith belief that such action is necessary to comply with state and federal laws (such as U.S. Copyright Law) or respond to a court order, subpoena, or search warrant. 
+Should you upload any allegedly illegal material, we may forward all relevant and available information to all relevant authorities without notice.
 
-SlutLoad also reserves the right to disclose personally identifiable information and/or non-personally-identifiable information that SlutLoad believes, in good faith, is appropriate or necessary to enforce our Terms of Use, take precautions against liability, to investigate and defend itself against any third-party claims or allegations, to assist government enforcement agencies, to protect the security or integrity of our web site, and to protect the rights, property, or personal safety of SlutLoad, our Users or others. 
+The transmission of data via the Internet can never be completely secure. We may use commercially reasonable physical and technical safeguards to preserve the security of your personal data. However, we cannot warrant the security of any data you transmit to our Website and you do so at your own risk.
 
-#### Your Choices
+* ### How We Send Notices
 
-You may, of course, decline to submit personally identifiable information through the SlutLoad Sites, in which case SlutLoad may not be able to provide certain services to you. You may update or correct your personal profile information and email preferences at any time by visiting your account profile page. Please note that media files uploaded by Users to the SlutLoad Sites cannot be removed and remain subject to our Terms of Use. 
-
-To protect your privacy and security, we take reasonable steps (such as requesting a unique password) to verify your identity before granting you profile access or making corrections. You are responsible for maintaining the secrecy of your unique password and account information at all times. 
-
-Please contact SlutLoad with any questions or comments about this Privacy Notice, your personal information, your consent, or your opt-in or opt-out choices using this contact form. 
-
-#### Third-party Advertisers, Links to Other Sites
-
-SlutLoad allows other companies, called third-party ad servers or ad networks, to serve advertisements within the SlutLoad Sites. These third-party ad servers or ad networks use technology to send, directly to your browser, the advertisements and links that appear on the SlutLoad Sites. They automatically receive your IP address when this happens. They may also use other technologies (such as cookies, JavaScript, or Web Beacons) to measure the effectiveness of their advertisements and to personalize the advertising content you see. 
-
-SlutLoad does not provide any personally identifiable information to these third-party ad servers or ad networks without your consent or except as part of a specific program or feature for which you will have the ability to opt-in or opt-out. However, please note that if an advertiser asks SlutLoad to show an advertisement to a certain audience (for example, men ages 18-34) or audience segment (for example, men ages 18-24 who have viewed certain channels of content) and you respond to that advertisement, the advertiser or ad-server may conclude that you fit the description of the audience they are trying to reach. The advertiser may also use information regarding your use of the SlutLoad Sites, such as the number of times you viewed an ad (but not any personally identifiable information), to determine which ads to deliver to you. 
-
-You should consult the respective privacy policies of these third-party ad servers or ad networks for more information on their practices and for instructions on how to opt-out of certain practices. SlutLoad's privacy policy does not apply to, and we cannot control the activities of, such other advertisers or web sites. 
-
-#### Our Commitment To Childrens' Privacy
-
-Protecting the privacy of young children is especially important. For that reason, SlutLoad does not knowingly collect or maintain personally identifiable information or non-personally-identifiable information on the SlutLoad Sites from persons under 18 years of age, and no part of our website is directed to persons under 18. If you are under 18 years of age, then please do not use or access the SlutLoad Sites at any time or in any manner. If SlutLoad learns that personally identifiable information of persons under 18 years of age has been collected on the SlutLoad Sites without verified parental consent, then SlutLoad will take the appropriate steps to delete this user/information. 
-
-#### Special Note to International Users
-
-The SlutLoad Sites intended for and directed to Users in the United States. If you are a User accessing the SlutLoad Sites from the European Union, Asia, or any other region with laws or regulations governing personal data collection, use, and disclosure, that differ from United States laws, please be advised that through your continued use of the SlutLoad Sites, which are governed by U.S. law, this Privacy Notice, and our Terms of Use, you are transferring your personal information to the United States and you consent to that transfer. 
-
-#### In the Event of Merger, Sale, or Bankruptcy
-
-In the event that SlutLoad is acquired by or merged with a third party entity, we reserve the right, in any of these circumstances, to transfer or assign the information we have collected from our Users as part of such merger, acquisition, sale, or other change of control. In the unlikely event of our bankruptcy, insolvency, reorganization, receivership, or assignment for the benefit of creditors, or the application of laws or equitable principles affecting creditors' rights generally, we may not be able to control how your personal information is treated, transferred, or used. 
-
-#### Changes and updates to this Privacy Notice
-
-This Privacy Notice may be revised periodically and this will be reflected by the "effective date" below. Please revisit this page to stay aware of any changes. In general, we only use your personal information in the manner described in the Privacy Notice in effect when we received the personal information you provided. Your continued use of the SlutLoad Sites constitutes your agreement to this Privacy Notice and any future revisions. 
-
-For revisions to this Privacy Notice that may be materially less restrictive on our use or disclosure of the personal information you have already provided to us, we will attempt to obtain your consent before implementing such revisions with respect to such information. 
-
-This Privacy Notice was last modified May 22, 2007. 
+Any notice required to be given under this Agreement may be provided by email to a functioning email address or by a general posting on the Website. You can change the email address to which notice is to be sent at any time. Notices by customers to us shall be given by electronic messages.
