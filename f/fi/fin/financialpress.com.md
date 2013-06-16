@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the financialpress.com privacy policy that was archived on 2012-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121216171533id_/http%3A//financialpress.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the financialpress.com privacy policy that was archived on 2013-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130616185604id_/http%3A//financialpress.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy — Financial Press
 
@@ -117,3 +117,5 @@ c. Displaying advertisements. Financial Press and third party advertising provid
 Cookies are used on many major web sites. Most browsers are initially set up to accept Cookies. If you prefer, you can reset your browser either to notify you when you have received a Cookie, or to refuse to accept Cookies. You should understand that while Financial Press does not require you to use Cookies, certain Financial Press Services will not function properly if you set your browser to not accept Cookies.
 
 Certain Financial Press Services may contain electronic images known as “Web Beacons”, sometimes called single-pixel gifs, that allow Financial Press to count users who have visited those pages and to deliver co-branded services. Web Beacons are not used to access your Personal Information; they are a technique used to compile aggregated statistics about Financial Press Service usage. Web Beacons collect only a limited set of information including a Cookie number, time and date of a page view, and a description of the page on which the Web Beacon resides. Certain Financial Press Service web pages may also contain Web Beacons placed there by our advertising partners or web analytics service providers to help Financial Press determine the effectiveness of our Internet advertising campaigns.
+
+﻿
