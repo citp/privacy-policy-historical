@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the xmind.net privacy policy that was archived on 2012-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121216181317id_/http%3A//www.xmind.net/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the xmind.net privacy policy that was archived on 2013-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130616232257id_/https%3A//www.xmind.net/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - XMind: Professional & Powerful Mind Mapping Software
 
