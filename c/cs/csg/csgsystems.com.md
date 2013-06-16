@@ -1,10 +1,8 @@
-> *The following text is extracted and transformed from the csgsystems.com privacy policy that was archived on 2012-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121119170959id_/http%3A//csgi.com/privacy-policy/overview) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the csgsystems.com privacy policy that was archived on 2013-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130616155651id_/http%3A//www.csgi.com/legal/privacy) for the most accurate reproduction.*
 
-# CSG International | Privacy Policy
+# Privacy Policy / CSG International
 
-**Privacy Policy**
-
- **As of January 28, 2011**
+**As of January 28, 2011**
 
 Protecting privacy is not a new endeavor for CSG. CSG has a long-standing tradition of recognizing and protecting the privacy of customers who use its billing and customer care solutions. The company maintains strict customer information privacy policies and uses state of the art technologies to safeguard customer information and communications from unauthorized intrusions.
 
