@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the freakgeeks.com privacy policy that was archived on 2012-11-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121111194310id_/http%3A//www.freakgeeks.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freakgeeks.com privacy policy that was archived on 2013-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130616054603id_/http%3A//www.freakgeeks.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -10,7 +10,7 @@ We collect information from you when you register on our site or subscribe to ou
 
 When ordering or registering on our site, as appropriate, you may be asked to enter your: name or e-mail address. You may, however, visit our site anonymously.
 
-[Google](http://www.freakgeeks.com/google/ "Google"), as a third party vendor, uses cookies to serve ads on your site. Google’s use of the DART cookie enables it to serve ads to your users based on their visit to your sites and other sites on the [Internet](http://www.freakgeeks.com/internet/ "Internet"). Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy..
+Google, as a third party vendor, uses cookies to serve ads on your site. Google’s use of the DART cookie enables it to serve ads to your users based on their visit to your sites and other sites on the Internet. Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy..
 
 **What do we use your information for?**
 
@@ -24,7 +24,7 @@ Any of the information we collect from you may be used in one of the following w
 
 **How do we protect your information?**
 
-We implement a variety of [security](http://www.freakgeeks.com/tag/security/ "security") measures to maintain the safety of your personal information when you enter, submit, or access your personal information.
+We implement a variety of security measures to maintain the safety of your personal information when you enter, submit, or access your personal information.
 
 We offer the use of a secure server. All supplied sensitive/credit information is transmitted via Secure Socket Layer (SSL) technology and then encrypted into our Database to be only accessed by those authorized with special access rights to our systems, and are required to?keep the information confidential.
 
