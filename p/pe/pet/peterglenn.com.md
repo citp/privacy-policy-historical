@@ -1,10 +1,8 @@
-> *The following text is extracted and transformed from the peterglenn.com privacy policy that was archived on 2012-10-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121005031541id_/http%3A//www.peterglenn.com/content/security-and-privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the peterglenn.com privacy policy that was archived on 2013-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130616051442id_/http%3A//www.peterglenn.com/content/security-and-privacy) for the most accurate reproduction.*
 
 # Security and Privacy | Peter Glenn
 
-[Home](https://web.archive.org/) >> Security and Privacy
-
-At Peter Glenn, we are committed to protecting your privacy. We use information about you to process orders and to provide a more personalized shopping experience. We intend to give you as much control as possible over your personal information. In general, you can visit Peter Glenn over the Internet without telling us who you are or revealing any information about yourself. There are times, however, when we may need information from you, such as your name and address. It is our intent to let you know before we collect personal information from you. 
+At Peter Glenn, we are committed to protecting your privacy. We use information about you to process orders and to provide a more personalized shopping experience. We intend to give you as much control as possible over your personal information. In general, you can visit Peter Glenn over the Internet without telling us who you are or revealing any information about yourself. There are times, however, when we may need information from you, such as your name and address. It is our intent to let you know before we collect personal information from you.
 
 If you choose to give us personal information via the Internet, we or our business partners may use it to correspond with you, process an order or provide you with a subscription to our mailing list. It is our intent to let you know how we will use such information. If you tell us that you do not wish to have this information used as a basis for further contact with you, we will respect your wishes. 
 
@@ -37,8 +35,7 @@ Peter Glenn does not sell, trade, or rent your personal information to others. P
 **Our Commitment**
 
 We are committed to protecting your privacy. We use the information we collect on the site to make shopping at Peter Glenn possible and to enhance your overall shopping experience. We do not sell, trade, or rent your personal information to others.  
-
-
 **Let us know what you think**
 
-Peter Glenn welcomes your questions and comments about privacy. Please send to [info@PeterGlenn.com](e-mailto:info@PeterGlenn.com)
+Peter Glenn welcomes your questions and comments about privacy. Please send to [info@PeterGlenn.com](e-mailto:info@PeterGlenn.com)  
+
