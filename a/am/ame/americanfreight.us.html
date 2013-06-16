@@ -1,13 +1,16 @@
-<!--The following is the downloaded HTML source of the americanfreight.us privacy policy that was archived on 2012-12-14.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121214080635id_/http%3A//www.americanfreight.us/Privacy-Statement) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the americanfreight.us privacy policy that was archived on 2013-06-17.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130617001545id_/http%3A//www.americanfreight.us/Privacy-Statement) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 <title>Privacy Statement |  American Freight Furniture </title>
 <meta name="keywords" content="">
 <meta name="description" content="">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
+
 <meta name="robots" content="NOODP">
 <meta name="msvalidate.01" content="A90AD05A54EE0D0A0DFD070BA22489D0">
+<meta name="p:domain_verify" content="a03bbc74869f21099fa9141131cb77df">
 
 <!--<meta name="viewport" content="width=device-width, initial-scale=1.0">-->
 <!--[if lt IE 9]>
@@ -18,14 +21,17 @@
 
 
 
+
 <link href="http://www.americanfreight.us/include/style.css" rel="stylesheet" type="text/css">
-<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="http://www.americanfreight.us/include/menu.js"></script>
+
+<script type="text/javascript" async="" src="https://stats.g.doubleclick.net/dc.js"></script><script type="text/javascript" src="http://www.americanfreight.us/include/menu.js"></script>
 <script src="http://www.americanfreight.us/include/curvy.corners.trunk.js"></script>
 
 <script src="http://www.americanfreight.us/include/jquery/jquery.js" type="text/javascript"></script>
 <link type="text/css" rel="stylesheet" href="http://www.americanfreight.us//include/boxy_front.css">
 <script type="text/javascript" language="JavaScript" src="http://www.americanfreight.us//include/cynets.js"> </script>
 <script type="text/javascript" language="JavaScript" src="http://www.americanfreight.us//include/jquery.boxy.js"> </script>
+<!--<link href="http://www.americanfreight.us/css/bootstrap.min.css" rel="stylesheet" media="screen">-->
 
 
 <script>
@@ -47,8 +53,20 @@ function on_enter_press()
 	 return false;
 }
 
+function change_mobile_to_tablet(win)
+{
+	var width = $(window).width();
+	
+	if (width <= 490)// Mobile 
+		document.getElementById('hide-mobile-loca').innerHTML='';
+	else
+		document.getElementById('hide-other-loca').innerHTML='';
+		
+}
+
 function change_location()
 {
+	document.getElementById('change_location_img').src=SERVER_PATH+'images/loading.gif';
 	var xmlhttp;
 	if (window.XMLHttpRequest)
 	{// code for IE7+, Firefox, Chrome, Opera, Safari
@@ -65,13 +83,29 @@ function change_location()
 		{
 			if(xmlhttp.responseText)
 			{
-				win=cn_window_open('<span style="font-size:25px;">Change Location</span>',xmlhttp.responseText,1);
-
+				win=cn_window_open('Change Location',xmlhttp.responseText,1);
+				document.getElementById('change_location_img').src=SERVER_PATH+'images/change-location.png';
+				change_mobile_to_tablet();
 				if (jQuery.browser.msie && (jQuery.browser.version ==9 || jQuery.browser.version ==8))
 				{
 					var popMargTop = (jQuery(window).height() - jQuery(window).scrollTop()- 300) /2
-					var popMargLeft = (jQuery(window).width() - jQuery(window).scrollLeft()- 500) / 2
+					var width = $(window).width();
+					if (width <= 490)// Mobile 
+						var popMargLeft = (jQuery(window).width() - jQuery(window).scrollLeft()-250) / 2;
+					else	
+						var popMargLeft = (jQuery(window).width() - jQuery(window).scrollLeft()- 500) / 2;
+						
 					jQuery('.boxy-wrapper').css({'top' : popMargTop,'left' : popMargLeft,'positions' :'fixed'});
+				}
+				else// only for mobile
+				{
+					var width = $(window).width();
+					if (width <= 490)
+					{
+						var popMargTop = (jQuery(window).height() - jQuery(window).scrollTop()- 250) /2
+						var popMargLeft = (jQuery(window).width() - jQuery(window).scrollLeft()-250) / 2;
+						jQuery('.boxy-wrapper').css({'top' : popMargTop,'left' : popMargLeft});
+					}
 				}
 
 			}
@@ -101,16 +135,15 @@ function update_change_location()
 {
 	
 	var city,state,zip,location;
-var loc_state="",loc_city="",loc_zip="";
-	
+	var loc_state="",loc_city="",loc_zip="";
 	city = trim(document.getElementById('city').value);
 	state  = trim(document.getElementById('state').value);
 	zip = trim(document.getElementById('zip').value);
-	
+	//alert(zip);
 	if(city=='City name') city='';
 	if(state=='-1') state='';
 	if(zip=='Zip code') zip='';
-	
+	//alert(zip);
 	if(zip)
 	{
 		if(zip.length<5)
@@ -159,7 +192,7 @@ var loc_state="",loc_city="",loc_zip="";
 		if (xmlhttp.readyState==4 && xmlhttp.status==200)
 		{
 			if(xmlhttp.responseText==-1)
-				alert('Enter City Name and state or Zip code');
+				alert('Enter City Name and state or Zip code!');
 			else
 				window.location.href=""+xmlhttp.responseText+"";
 		}
@@ -188,6 +221,34 @@ function clear_text()
 	if(document.getElementById('srcname').value==" - SEARCH PRODUCTS - ")
 		document.getElementById('srcname').value="";
 }
+
+function clear_text_m1()
+{
+	if(document.getElementById('srcname_m1').value==" Search Products ")
+		document.getElementById('srcname_m1').value="";
+}
+
+function clear_text_m2()
+{	 
+	if(document.getElementById('srcname_m2').value==" Find Store (zip)")
+		document.getElementById('srcname_m2').value="";
+}
+/*function display_mobile_menu()
+{
+	
+	if($("#nav").is(':hidden'))
+		$("#nav").show('slow')
+	else
+		$("#nav").hide('slow')
+	
+}*/
+function display_mobile_menu()
+{
+	if(document.getElementById('nav').style.display=='none')
+		document.getElementById('nav').style.display='block';
+	else
+		document.getElementById('nav').style.display='none';	
+}
 </script>
 <script type="text/javascript">
 
@@ -197,88 +258,168 @@ function clear_text()
 
   (function() {
 	var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-	ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+	ga.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'stats.g.doubleclick.net/dc.js';
 	var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
   })();
 
 </script>
 
+
 <script> var SERVER_PATH="http://www.americanfreight.us/";</script>
+
+
 </head>
 
 <body>
+<!--<script src="http://code.jquery.com/jquery-latest.js"></script>
+<script src="http://www.americanfreight.us/js/bootstrap.min.js"></script>
+-->
 
 <table border="0" align="center" cellpadding="0" cellspacing="0" id="site-width">
-	<tbody><tr><td align="left">
-    
-    <table border="0" width="91%" align="right" cellpadding="0" cellspacing="0" style="margin-top:10px; margin-right:35px">
+	<tbody><tr>
+	<td height="15"></td>
+	</tr>
+    <tr><td align="left">
+     <table border="0" align="center" cellpadding="0" cellspacing="0" id="top-location">
     <tbody><tr>
-    <td align="left"><!-- <strong>PRICING / AVAILABILITY FOR: </strong>-->Location Unknown.</td>
-    <td width="70%"><a href="javascript: change_location()"><img src="http://www.americanfreight.us/images/change-location.png" border="0"></a></td>
-    <td align="right"><a href="http://www.americanfreight.us/store_search.php"><img src="http://www.americanfreight.us/images/find-a-local.png" border="0"></a></td>
+    <td align="left" class="loc-fs" style="padding-top:2px"><!-- <strong>PRICING / AVAILABILITY FOR: </strong>--></td>
+    <td width="150px" align="left"><a href="javascript:change_location()"><img id="change_location_img" src="http://www.americanfreight.us/images/change-location.png" border="0"></a></td>
+    <td id="hide-icons-for-main">
+    <div id="icons_links-ipad">
+        <ul>
+        <li><a onclick="_gaq.push(['_trackEvent', 'Social Referral', 'Outbound Link Exit', 'Facebook_Referral']);" href="https://www.facebook.com/AmericanFreightFurniture" target="_blank"><img src="http://www.americanfreight.us/images/facebook.png" title="Facebook" alt="Facebook" border="0"></a></li>
+        <li><a onclick="_gaq.push(['_trackEvent', 'Social Referral', 'Outbound Link Exit', 'Twitter_Referral']);" href="http://twitter.com/AmericanFreight" target="_blank"><img src="http://www.americanfreight.us/images/twitter.png" title="Twitter" alt="Twitter" border="0"></a></li>
+        <li><a onclick="_gaq.push(['_trackEvent', 'Social Referral', 'Outbound Link Exit', 'Pinterest_Referral']);" href="http://pinterest.com/americanfreight" target="_blank"><img src="http://www.americanfreight.us/images/pin_intrest.png" title="Pinterest" alt="Pinterest" border="0"></a></li>
+        <li><a onclick="_gaq.push(['_trackEvent', 'Social Referral', 'Outbound Link Exit', 'Google+_Referral']);" href="https://plus.google.com/+AmericanFreightFurniture/posts" target="_blank"><img src="http://www.americanfreight.us/images/google.png" title="Google" alt="Google" border="0"></a></li>
+        <li><a onclick="_gaq.push(['_trackEvent', 'Social Referral', 'Outbound Link Exit', 'Youtube_Referral']);" href="http://www.youtube.com/user/furnituredeals" target="_blank"><img src="http://www.americanfreight.us/images/youtube_logo-square_small.jpg" title="Youtube" alt="Youtube" border="0"></a></li>
+        <li><a onclick="_gaq.push(['_trackEvent', 'Social Referral', 'Outbound Link Exit', 'Blogger_Referral']);" href="http://americanfreightfurniture.wordpress.com/" target="_blank"><img src="http://www.americanfreight.us/images/bloger.png" title="Blog" alt="Blog" border="0"></a></li>
+        </ul>   </div>
+    </td>
+    <td align="right" id="wlocation"><a href="http://www.americanfreight.us/store_search.php"><img src="http://www.americanfreight.us/images/find-a-local.png" border="0"></a></td>
 </tr>
 </tbody></table>
+
+
 </td></tr>
     <tr>
 	<td align="center"><a href="http://www.americanfreight.us/"><img src="http://www.americanfreight.us/images/logo.jpg" border="0" alt="American Freight Furniture and Mattress Stores" id="logo"></a></td>
 	</tr>
-	<tr>
+	<tr id="search-bar">
 	<td height="15"></td>
 	</tr>
     
 	<tr>
 	    <td>
-		<table width="982" border="0" cellspacing="0" cellpadding="0" align="center" bgcolor="#F0f0f0">
+        <div id="search-bar">
+		<table width="100%" border="0" cellspacing="0" cellpadding="0" align="center" bgcolor="#F0f0f0">
 		<tbody><tr>
-	    <td style=" font-size:10pt;  height:49px; padding-left:22px" class="sub-heading" width="400"><a href="http://www.americanfreight.us/store_search.php">Find A Local Store</a>&nbsp;<font color="#CCCCCC">|</font>&nbsp;<a href="http://www.americanfreight.us/Contact-Us/">Contact Us</a>&nbsp;<font color="#CCCCCC">|</font>&nbsp;<a href="http://www.americanfreight.us/wishlist.php">View Wish List</a>&nbsp;<font color="#CCCCCC">|</font>&nbsp;<a href="http://www.americanfreight.us/email-signup/">Email Subscribe</a></td>
-		<td style="height:49px" align="right"> <form id="form1" name="form1" method="get" action="http://www.americanfreight.us/search.php">
-                        <table width="360" border="0" cellspacing="0" cellpadding="0" align="right">
+	    <td id="search-bar-td" class="sub-heading"><a href="http://www.americanfreight.us/store_search.php">Find A Local Store</a>&nbsp;<font color="#CCCCCC">|</font>&nbsp;<a href="http://www.americanfreight.us/Contact-Us/">Contact Us</a>&nbsp;<font color="#CCCCCC">|</font>&nbsp;<a href="http://www.americanfreight.us/wishlist.php">View Wish List</a>&nbsp;<font color="#CCCCCC">|</font>&nbsp;<a href="http://www.americanfreight.us/email-signup/">Email Subscribe</a></td>
+        <td>
+        <div id="icons_links">
+        <ul>
+        <li><a onclick="_gaq.push(['_trackEvent', 'Social Referral', 'Outbound Link Exit', 'Facebook_Referral']);" href="https://www.facebook.com/AmericanFreightFurniture" target="_blank"><img src="http://www.americanfreight.us/images/facebook.png" title="Facebook" alt="Facebook" border="0"></a></li>
+        <li><a onclick="_gaq.push(['_trackEvent', 'Social Referral', 'Outbound Link Exit', 'Twitter_Referral']);" href="http://twitter.com/AmericanFreight" target="_blank"><img src="http://www.americanfreight.us/images/twitter.png" title="Twitter" alt="Twitter" border="0"></a></li>
+        <li><a onclick="_gaq.push(['_trackEvent', 'Social Referral', 'Outbound Link Exit', 'Pinterest_Referral']);" href="http://pinterest.com/americanfreight" target="_blank"><img src="http://www.americanfreight.us/images/pin_intrest.png" title="Pinterest" alt="Pinterest" border="0"></a></li>
+        <li><a onclick="_gaq.push(['_trackEvent', 'Social Referral', 'Outbound Link Exit', 'Google+_Referral']);" href="https://plus.google.com/+AmericanFreightFurniture/posts" target="_blank"><img src="http://www.americanfreight.us/images/google.png" title="Google" alt="Google" border="0"></a></li>
+        <li><a onclick="_gaq.push(['_trackEvent', 'Social Referral', 'Outbound Link Exit', 'Youtube_Referral']);" href="http://www.youtube.com/user/furnituredeals" target="_blank"><img src="http://www.americanfreight.us/images/youtube_logo-square_small.jpg" title="Youtube" alt="Youtube" border="0"></a></li>
+        <li><a onclick="_gaq.push(['_trackEvent', 'Social Referral', 'Outbound Link Exit', 'Blogger_Referral']);" href="http://americanfreightfurniture.wordpress.com/" target="_blank"><img src="http://www.americanfreight.us/images/bloger.png" title="Blog" alt="Blog" border="0"></a></li>
+        </ul>   </div>     </td>
+		<td style="padding-left:0px" align="right" width="24%"> <form id="form1" name="form1" method="get" action="http://www.americanfreight.us/search.php">
+                        <table width="100%" border="0" cellspacing="0" cellpadding="0" align="right">
 		<tbody><tr>
 	   
-                            	<td width="220" align="left"><input type="text" name="srcname" id="srcname" style="color:#000000;" class="search-box" value=" - SEARCH PRODUCTS - " onclick="javascript: clear_text()"></td>
+                            	<td align="right"><input type="text" name="srcname" id="srcname" style="color:#000000;" class="search-box" value=" - SEARCH PRODUCTS - " onclick="javascript: clear_text()"></td>
                                 
                                
-    <td width="140" align="center"><input name="imageField" type="image" id="imageField" src="http://www.americanfreight.us/images/search.jpg" class="btn"></td>
+    <td align="center"><input name="imageField" type="image" id="imageField" src="http://www.americanfreight.us/images/search.jpg" class="btn"></td>
 							</tr>
 						</tbody></table>
                         </form></td>
     </tr>
 	</tbody></table>
+    
+    </div>
+    
+    
+    
+    <div id="search-bar-mobile">
+		<table width="100%" border="0" cellspacing="0" cellpadding="0" align="center" bgcolor="#F0f0f0">
+		<tbody><tr>
+	   	<td id="search-bar-td" align="left">
+                        <table width="100%" border="0" cellspacing="0" cellpadding="0" align="left">
+		<tbody><tr>
+	   
+                            	<td align="left" width="100"> <form id="form1" name="form1" method="get" action="http://www.americanfreight.us/search.php" style="margin:0px; padding:0px; "><input type="text" name="srcname_m1" id="srcname_m1" class="search-box" value=" Search Products " onclick="javascript: clear_text_m1()"></form></td>
+                                
+                               
+    <td align="left" style="padding-right:5px"><input name="imageField" type="image" id="imageField" src="http://www.americanfreight.us/images/go.jpg" class="btn"> </td>
+    
+    
+	   
+                            	<td align="left" width="100"> <form id="form1" name="form1" method="get" action="http://www.americanfreight.us/store_search.php" style="margin:0px; padding:0px; "><input type="text" name="search" id="srcname_m2" class="search-box" value=" Find Store (zip)" onclick="javascript: clear_text_m2()"></form></td>
+                                
+                               
+    <td align="left" style="padding-right:5px"><input name="radius" type="hidden" value="200"><input type="hidden" name="show_map" value="" id="show_map"><input name="imageField" type="image" id="imageField" src="http://www.americanfreight.us/images/go.jpg" class="btn"> </td>
+							</tr>
+						</tbody></table>
+                       </td>
+ 
+	</tr></tbody></table>
+    
+    </div>
+    
 		</td>
     </tr>
-    <tr>
+   
+    <tr id="search-bar">
 	<td height="15"></td>
 	</tr>
-	<tr>
-		<td style="background:url(http://www.americanfreight.us/images/content-bg.jpg) 0 0 repeat-y; text-align:center">
+	
+     <tr>
+		<td id="content-bg" class="hide-menu">
 			<div id="menu"><ul class="cssMenu cssMenum"><li><a href="http://www.americanfreight.us/" style="text-decoration:none">Home</a></li><li class="divider"></li><li class="leftimg rightimg"><a href="http://www.americanfreight.us/browse-living-rooms-16-16" style="text-decoration:none"><span>Living Rooms</span><!--[if gt IE 6]--></a><!--[endif]--><!--[if lte IE 6]><table><tr><td><![endif]--><ul class="cssMenum"><li class="cssMenui img"><a class="cssMenui" href="http://www.americanfreight.us/browse-sofas--loveseats-16-122">Sofas / Loveseats</a></li><li class="cssMenui img"><a class="cssMenui" href="http://www.americanfreight.us/browse-sectionals-16-28">Sectionals</a></li><li class="cssMenui img"><a class="cssMenui" href="http://www.americanfreight.us/browse-leather-and-more-16-41">Leather and More</a></li><li class="cssMenui img"><a class="cssMenui" href="http://www.americanfreight.us/browse-reclining-sofas-16-151">Reclining Sofas</a></li><li class="cssMenui img"><a class="cssMenui" href="http://www.americanfreight.us/browse-recliners-16-34">Recliners</a></li><li class="cssMenui img"><a class="cssMenui" href="http://www.americanfreight.us/browse-coffee--end-tables-16-146">Coffee &amp; End Tables</a></li><li class="cssMenui img"><a class="cssMenui" href="http://www.americanfreight.us/browse-packages-16-148">Packages</a></li><li class="cssMenui img"><a class="cssMenui" href="http://www.americanfreight.us/browse-futons-16-141">Futons</a></li></ul><!--[if lte IE 6]></td></tr></table></a><![endif]--></li><li class="divider"></li><li class="leftimg rightimg"><a href="http://www.americanfreight.us/browse-bedrooms-17-17" style="text-decoration:none"><span>Bedrooms</span><!--[if gt IE 6]--></a><!--[endif]--><!--[if lte IE 6]><table><tr><td><![endif]--><ul class="cssMenum"><li class="cssMenui img"><a class="cssMenui" href="http://www.americanfreight.us/browse-bedroom-sets-17-142">Bedroom Sets</a></li><li class="cssMenui img"><a class="cssMenui" href="http://www.americanfreight.us/browse-childrens-furniture-17-44">Children's Furniture</a></li><li class="cssMenui img"><a class="cssMenui" href="http://www.americanfreight.us/browse-beds-only-17-155">Beds Only</a></li><li class="cssMenui img"><a class="cssMenui" href="http://www.americanfreight.us/browse-futons-17-141">Futons</a></li></ul><!--[if lte IE 6]></td></tr></table></a><![endif]--></li><li class="divider"></li><li class="leftimg rightimg"><a href="http://www.americanfreight.us/browse-dining-rooms-18-18" style="text-decoration:none"><span>Dining Rooms</span><!--[if gt IE 6]--></a><!--[endif]--><!--[if lte IE 6]><table><tr><td><![endif]--><ul class="cssMenum"><li class="cssMenui img"><a class="cssMenui" href="http://www.americanfreight.us/browse-pub-and-bar-sets-18-35">Pub and Bar Sets</a></li><li class="cssMenui img"><a class="cssMenui" href="http://www.americanfreight.us/browse-casual-dining-18-42">Casual Dining</a></li><li class="cssMenui img"><a class="cssMenui" href="http://www.americanfreight.us/browse-formal-dining-18-43">Formal Dining</a></li></ul><!--[if lte IE 6]></td></tr></table></a><![endif]--></li><li class="divider"></li><li class="leftimg rightimg"><a href="http://www.americanfreight.us/browse-mattresses-25-25" style="text-decoration:none"><span>Mattresses</span><!--[if gt IE 6]--></a><!--[endif]--><!--[if lte IE 6]><table><tr><td><![endif]--><ul class="cssMenum"><li class="cssMenui img"><a class="cssMenui" href="http://www.americanfreight.us/browse-memory-foam-25-147">Memory Foam</a></li><li class="cssMenui img"><a class="cssMenui" href="http://www.americanfreight.us/browse-twin-25-137">Twin</a></li><li class="cssMenui img"><a class="cssMenui" href="http://www.americanfreight.us/browse-full-25-157">Full</a></li><li class="cssMenui img"><a class="cssMenui" href="http://www.americanfreight.us/browse-queen-25-135">Queen</a></li><li class="cssMenui img"><a class="cssMenui" href="http://www.americanfreight.us/browse-king-25-134">King</a></li></ul><!--[if lte IE 6]></td></tr></table></a><![endif]--></li><li class="divider"></li><li class="leftimg rightimg"><a href="http://www.americanfreight.us/browse-accessories-119-119" style="text-decoration:none"><span>Accessories</span><!--[if gt IE 6]--></a><!--[endif]--><!--[if lte IE 6]><table><tr><td><![endif]--><ul class="cssMenum"><li class="cssMenui img"><a class="cssMenui" href="http://www.americanfreight.us/browse-lamps-119-31">Lamps</a></li><li class="cssMenui img"><a class="cssMenui" href="http://www.americanfreight.us/browse-entertainment--tv-119-45">Entertainment &amp; TV</a></li><li class="cssMenui img"><a class="cssMenui" href="http://www.americanfreight.us/browse-other-accessories-119-145">Other Accessories</a></li><li class="cssMenui img"><a class="cssMenui" href="http://www.americanfreight.us/browse-coffee--end-tables-119-146">Coffee &amp; End Tables</a></li></ul><!--[if lte IE 6]></td></tr></table></a><![endif]--></li><li class="divider"></li><li><a href="http://www.americanfreight.us/myaccount.php?menu_page=2" style="text-decoration:none; text-transform:none;">Sign-In</a></li><li><a href="http://www.americanfreight.us/register.php?menu_page=3" style="text-decoration:none; text-transform:none;">Create An Account</a></li></ul></div>			
 		</td>
 	</tr>
 	
+    
+    
+    <tr>
+		<td id="content-bg" class="hide-menu-mobile">
+			<div id="menu-mobile"><nav id="nav-wrap"><div onclick="display_mobile_menu()" id="menu-icon" class="active">MENU</div>
+			<ul id="nav">
+			<li><a href="http://www.americanfreight.us/">Home</a></li><li><a href="http://www.americanfreight.us/browse-living-rooms-16-16" style="text-decoration:none">Living Rooms</a><ul><li><a href="http://www.americanfreight.us/browse-sofas--loveseats-16-122">Sofas / Loveseats</a></li><li><a href="http://www.americanfreight.us/browse-sectionals-16-28">Sectionals</a></li><li><a href="http://www.americanfreight.us/browse-leather-and-more-16-41">Leather and More</a></li><li><a href="http://www.americanfreight.us/browse-reclining-sofas-16-151">Reclining Sofas</a></li><li><a href="http://www.americanfreight.us/browse-recliners-16-34">Recliners</a></li><li><a href="http://www.americanfreight.us/browse-coffee--end-tables-16-146">Coffee &amp; End Tables</a></li><li><a href="http://www.americanfreight.us/browse-packages-16-148">Packages</a></li><li><a href="http://www.americanfreight.us/browse-futons-16-141">Futons</a></li></ul></li><li><a href="http://www.americanfreight.us/browse-bedrooms-17-17" style="text-decoration:none">Bedrooms</a><ul><li><a href="http://www.americanfreight.us/browse-bedroom-sets-17-142">Bedroom Sets</a></li><li><a href="http://www.americanfreight.us/browse-childrens-furniture-17-44">Children's Furniture</a></li><li><a href="http://www.americanfreight.us/browse-beds-only-17-155">Beds Only</a></li><li><a href="http://www.americanfreight.us/browse-futons-17-141">Futons</a></li></ul></li><li><a href="http://www.americanfreight.us/browse-dining-rooms-18-18" style="text-decoration:none">Dining Rooms</a><ul><li><a href="http://www.americanfreight.us/browse-pub-and-bar-sets-18-35">Pub and Bar Sets</a></li><li><a href="http://www.americanfreight.us/browse-casual-dining-18-42">Casual Dining</a></li><li><a href="http://www.americanfreight.us/browse-formal-dining-18-43">Formal Dining</a></li></ul></li><li><a href="http://www.americanfreight.us/browse-mattresses-25-25" style="text-decoration:none">Mattresses</a><ul><li><a href="http://www.americanfreight.us/browse-memory-foam-25-147">Memory Foam</a></li><li><a href="http://www.americanfreight.us/browse-twin-25-137">Twin</a></li><li><a href="http://www.americanfreight.us/browse-full-25-157">Full</a></li><li><a href="http://www.americanfreight.us/browse-queen-25-135">Queen</a></li><li><a href="http://www.americanfreight.us/browse-king-25-134">King</a></li></ul></li><li><a href="http://www.americanfreight.us/browse-accessories-119-119" style="text-decoration:none">Accessories</a><ul><li><a href="http://www.americanfreight.us/browse-lamps-119-31">Lamps</a></li><li><a href="http://www.americanfreight.us/browse-entertainment--tv-119-45">Entertainment &amp; TV</a></li><li><a href="http://www.americanfreight.us/browse-other-accessories-119-145">Other Accessories</a></li><li><a href="http://www.americanfreight.us/browse-coffee--end-tables-119-146">Coffee &amp; End Tables</a></li></ul></li><li><a href="http://www.americanfreight.us/myaccount.php?menu_page=2">Sign-In</a></li><li><a href="http://www.americanfreight.us/register.php?menu_page=3">Create An Account</a></li></ul></nav></div>			
+		</td>
+	</tr>
+    
+   
 
 	
 
 <tr>
-<td align="center" style="background:url(http://www.americanfreight.us/images/content-bg.jpg) 0 0 repeat-y"><img src="http://www.americanfreight.us/images/content-bg-top.jpg" border="0"></td>
-</tr> 
+<td align="center" id="content-bg"><div id="content-bg-top"></div></td>
+</tr>
+
+<!--
+<img src="http://www.americanfreight.us/images/content-bg-top.jpg" border="0">
+<tr>
+<td align="center" id="content-bg-top"></td>
+</tr>--> 
   <tr>
-    <td style="background:url(http://www.americanfreight.us/images/content-bg.jpg) 0 0 repeat-y; ">
-    <table width="972" border="0" cellspacing="0" cellpadding="0" align="center" bgcolor="#FFFFFF">
+    <td id="content-bg-white">
+    <table id="twidth" border="0" cellspacing="0" cellpadding="0" align="center" class="white-color-bg">
       <tbody><tr>
 	  <td>
     
 	
-	<table width="926" border="0" cellspacing="0" cellpadding="0" align="center">
-      <tbody><tr><td> <div style="padding-bottom:10px; "><a href="http://www.americanfreight.us/">Home</a> &gt; Privacy-Statement</div></td></tr>
+	<table id="twidth-12" border="0" cellspacing="0" cellpadding="0" align="center">
+      <tbody><tr><td colspan="3"> <div style="padding-bottom:5px;" class="nb-text-link-page hide-bc"><a href="http://www.americanfreight.us/">Home</a> &gt; Privacy-Statement</div></td></tr>
       <tr>
-	  <td><h1>Privacy Statement</h1></td>
+	  <td class="nb-text-link-page"><h1 style="margin-top:0px">Privacy Statement</h1></td>
 	  </tr>
 	  
-	  <tr>
-        <td valign="top" id="cont" style="padding-top:0px; vertical-align:top">
-        <p>&nbsp;</p>
-<div style="line-height: 18pt; margin: 0in 0in 0pt; background: #f6f6f6"><span style="color: #333333; font-size: 8.5pt">Please read the following policy to understand how your personal information will be treated as you make full use of our many features.</span></div>
-<p>&nbsp;</p>
+	  <tr id="hide-page-content-other">
+        <td valign="top" id="twidth-12" style="padding-top:0px; vertical-align:top">
+        <div style="line-height: 18pt; margin: 0in 0in 0pt; background: #f6f6f6"><span style="color: #333333; font-size: 8.5pt">Please read the following policy to understand how your personal information will be treated as you make full use of our many features.</span></div>
 <div style="line-height: 18pt; margin: 0in 0in 0pt; background: #f6f6f6"><span style="color: #333333; font-size: 8.5pt">Information Collected</span></div>
 <div style="line-height: 18pt; margin: 0in 0in 0pt; background: #f6f6f6">&nbsp;</div>
 <div style="line-height: 18pt; margin: 0in 0in 0pt; background: #f6f6f6"><span style="color: #333333; font-size: 8.5pt">American Freight® collects personally identifying information as a means to help improve the products and services it offers as well as the content offered on its web sites. The information we collect includes the following:</span></div>
@@ -290,9 +431,6 @@ function clear_text()
 <div style="line-height: 18pt; margin: 0in 0in 0pt; background: #f6f6f6"><span style="color: #333333; font-size: 8.5pt">Other Information.</span></div>
 <div style="line-height: 18pt; margin: 0in 0in 0pt; background: #f6f6f6">&nbsp;</div>
 <div style="line-height: 18pt; margin: 0in 0in 0pt; background: #f6f6f6"><span style="color: #333333; font-size: 8.5pt">We collect certain types of other information whenever you access our web sites. This includes the use of “cookies”, which are explained further below, and the information is used to help us provide content specific to your interests.</span></div>
-<p><span style="color: #333333; font-size: 8.5pt">
-</span></p><p style="line-height: 18pt; margin: 0in 0in 0pt; background: #f6f6f6">Third party vendors, including Google, show your ads on sites on the internet. Third party vendors, including Google, use cookies to serve ads based on a user's prior visits to your website. Users may opt out of Google's use of cookies by visiting the <a href="http://www.google.com/privacy_ads.html" target="_blank">Google advertising opt-out page</a>. (Alternatively you can point users to opt out of&nbsp;a third party vendor's use of cookies by visiting&nbsp;the <a href="http://www.networkadvertising.org/managing/opt_out.asp" target="_blank">Network Advertising Initiative&nbsp;opt out page</a>.)</p>
-<p></p>
 <div style="line-height: 18pt; margin: 0in 0in 0pt; background: #f6f6f6">&nbsp;</div>
 <div style="line-height: 18pt; margin: 0in 0in 0pt; background: #f6f6f6"><span style="color: #333333; font-size: 8.5pt">Electronic Mail Communications.</span></div>
 <div style="line-height: 18pt; margin: 0in 0in 0pt; background: #f6f6f6">&nbsp;</div>
@@ -351,13 +489,17 @@ function clear_text()
 <div style="line-height: 18pt; margin: 0in 0in 0pt; background: #f6f6f6"><span style="color: #333333; font-size: 8.5pt">Questions</span></div>
 <div style="line-height: 18pt; margin: 0in 0in 0pt; background: #f6f6f6">&nbsp;</div>
 <div style="line-height: 18pt; margin: 0in 0in 0pt; background: #f6f6f6"><span style="color: #333333; font-size: 8.5pt">If you have any questions or concerns about this privacy notice, the practices of this site or your interaction with this web site, please contact info at <a href="mailto:contactus@americanfreight.us">contactus@americanfreight.us</a> </span></div>
-<div style="margin: 0in 0in 0pt">&nbsp;</div>
+<p style="line-height: 18pt; margin: 0in 0in 0pt; background: #f6f6f6">&nbsp;</p>
+<p style="line-height: 18pt; margin: 0in 0in 0pt; background: #f6f6f6">Third party vendors, including Google, show your ads on sites on the internet. Third party vendors, including Google, use cookies to serve ads based on a user's prior visits to your website. Users may opt out of Google's use of cookies by visiting the <a target="_blank" href="http://www.google.com/privacy_ads.html">Google advertising opt-out page</a>. (Alternatively you can point users to opt out of&nbsp;a third party vendor's use of cookies by visiting&nbsp;the <a target="_blank" href="http://www.networkadvertising.org/managing/opt_out.asp">Network Advertising Initiative&nbsp;opt out page</a>.)</p>
 		</td>
         <td width="7">&nbsp;</td>
+        
         <td width="200" valign="top">
-        <table cellpadding="0" cellspacing="0" border="1" width="200" style="border-collapse:collapse; border-color:#CCC">
+		<div style="background:url(http://www.americanfreight.us/images/page-img-3.jpg) 0 0 no-repeat; width:200px; height:65px; padding-top:10px">
+        <table cellpadding="0" cellspacing="0" border="0" width="180" style="border-collapse:collapse; border-color:#CCC; margin:0px 0px 0px 10px">
         <tbody><tr><td style="padding:5px"><a href="http://www.americanfreight.us/Privacy-Statement/">Privacy Statement</a></td></tr><tr><td style="padding:5px"><a href="http://www.americanfreight.us/Terms-Conditions/">Terms &amp; Conditions</a></td></tr>
          </tbody></table>
+		 </div>
        
 	 <table width="200" border="0" cellspacing="0" cellpadding="0" align="center">
   <tbody><tr>
@@ -370,7 +512,7 @@ function clear_text()
     <td>&nbsp;</td>
   </tr>
   <tr>
-    <td><a href="http://americanfreight.us/sitemap.php"><img src="http://www.americanfreight.us/images/page-img-2.jpg" border="0"></a></td>
+    <td><a href="http://www.americanfreight.us/sitemap/"><img src="http://www.americanfreight.us/images/page-img-2.jpg" border="0"></a></td>
   </tr>
   <tr>
     <td>&nbsp;</td>
@@ -379,11 +521,118 @@ function clear_text()
 </tbody></table>
 </td>
       </tr>
-	  
-	  
-	  
-	  
+      
+<!-- Same Code for Mobile Design -->      
+      <tr id="hide-page-content-mobile">
+        <td valign="top" id="cont" style="padding-top:0px; vertical-align:top">
+       
+	 <table width="100%" border="0" cellspacing="0" cellpadding="0" align="left">
+ 
+
+  
+
+  
+  
+ 
+  <tbody><tr>
+    <td colspan="3" style="padding:0px 20px 0px 0px"><div style="line-height: 18pt; margin: 0in 0in 0pt; background: #f6f6f6"><span style="color: #333333; font-size: 8.5pt">Please read the following policy to understand how your personal information will be treated as you make full use of our many features.</span></div>
+<div style="line-height: 18pt; margin: 0in 0in 0pt; background: #f6f6f6"><span style="color: #333333; font-size: 8.5pt">Information Collected</span></div>
+<div style="line-height: 18pt; margin: 0in 0in 0pt; background: #f6f6f6">&nbsp;</div>
+<div style="line-height: 18pt; margin: 0in 0in 0pt; background: #f6f6f6"><span style="color: #333333; font-size: 8.5pt">American Freight® collects personally identifying information as a means to help improve the products and services it offers as well as the content offered on its web sites. The information we collect includes the following:</span></div>
+<div style="line-height: 18pt; margin: 0in 0in 0pt; background: #f6f6f6">&nbsp;</div>
+<div style="line-height: 18pt; margin: 0in 0in 0pt; background: #f6f6f6"><span style="color: #333333; font-size: 8.5pt">Personal Information.</span></div>
+<div style="line-height: 18pt; margin: 0in 0in 0pt; background: #f6f6f6">&nbsp;</div>
+<div style="line-height: 18pt; margin: 0in 0in 0pt; background: #f6f6f6"><span style="color: #333333; font-size: 8.5pt">American Freight® does not collect any personally identifiable information about you except for the information that you provide to us in order to establish your account, including name, billing address, credit card number and credit card expiration date. We receive, store and use this information to help us communicate with you, respond to your requests and improve the content and services that American Freight® has available.</span></div>
+<div style="line-height: 18pt; margin: 0in 0in 0pt; background: #f6f6f6">&nbsp;</div>
+<div style="line-height: 18pt; margin: 0in 0in 0pt; background: #f6f6f6"><span style="color: #333333; font-size: 8.5pt">Other Information.</span></div>
+<div style="line-height: 18pt; margin: 0in 0in 0pt; background: #f6f6f6">&nbsp;</div>
+<div style="line-height: 18pt; margin: 0in 0in 0pt; background: #f6f6f6"><span style="color: #333333; font-size: 8.5pt">We collect certain types of other information whenever you access our web sites. This includes the use of “cookies”, which are explained further below, and the information is used to help us provide content specific to your interests.</span></div>
+<div style="line-height: 18pt; margin: 0in 0in 0pt; background: #f6f6f6">&nbsp;</div>
+<div style="line-height: 18pt; margin: 0in 0in 0pt; background: #f6f6f6"><span style="color: #333333; font-size: 8.5pt">Electronic Mail Communications.</span></div>
+<div style="line-height: 18pt; margin: 0in 0in 0pt; background: #f6f6f6">&nbsp;</div>
+<div style="line-height: 18pt; margin: 0in 0in 0pt; background: #f6f6f6"><span style="color: #333333; font-size: 8.5pt">To enable us to more effectively communicate with our customers, you may receive a confirmation when you open e-mail correspondence, including your account registration, from us. We also may compare our list of e-mail addresses with those of our affiliates in order to avoid duplicative or otherwise unnecessary messages being sent to you.</span></div>
+<div style="line-height: 18pt; margin: 0in 0in 0pt; background: #f6f6f6">&nbsp;</div>
+<div style="line-height: 18pt; margin: 0in 0in 0pt; background: #f6f6f6"><span style="color: #333333; font-size: 8.5pt">Information from Other Sources.</span></div>
+<div style="line-height: 18pt; margin: 0in 0in 0pt; background: #f6f6f6">&nbsp;</div>
+<div style="line-height: 18pt; margin: 0in 0in 0pt; background: #f6f6f6"><span style="color: #333333; font-size: 8.5pt">To enable us to serve our customers’ needs, we may receive some limited information about you from our affiliates, partners and other third parties. We use the data to ensure the accuracy of our records and we integrate this data with your personal account information.</span></div>
+<div style="line-height: 18pt; margin: 0in 0in 0pt; background: #f6f6f6">&nbsp;</div>
+<div style="line-height: 18pt; margin: 0in 0in 0pt; background: #f6f6f6"><span style="color: #333333; font-size: 8.5pt">Use of Information</span></div>
+<div style="line-height: 18pt; margin: 0in 0in 0pt; background: #f6f6f6">&nbsp;</div>
+<div style="line-height: 18pt; margin: 0in 0in 0pt; background: #f6f6f6"><span style="color: #333333; font-size: 8.5pt">We intend to use the data provided to us above to operate the web site and to assist us with the delivery of content and other products and services. Your information may also be used to contact you when necessary and may be shared with other companies that may want to contact you with offers consistent with your preferences and approval.</span></div>
+<div style="line-height: 18pt; margin: 0in 0in 0pt; background: #f6f6f6">&nbsp;</div>
+<div style="line-height: 18pt; margin: 0in 0in 0pt; background: #f6f6f6"><span style="color: #333333; font-size: 8.5pt">If you send us personal correspondence, such as emails or letters, or if other users or third parties send us correspondence about your activities or postings on the Site, we may collect such information into a file specific to you.</span></div>
+<div style="line-height: 18pt; margin: 0in 0in 0pt; background: #f6f6f6">&nbsp;</div>
+<div style="line-height: 18pt; margin: 0in 0in 0pt; background: #f6f6f6"><span style="color: #333333; font-size: 8.5pt">By accessing and using our web sites, you agree that, with respect to other users’ personally identifiable information that you obtain through the Site or through a www.americanfreight.us-related communication or American Freight-facilitated transaction, American Freight® hereby grants to you a license to use such information only for: (a) <a href="http://www.americanfreight.us-related/"><font color="#333333">www.americanfreight.us-related</font></a> communications that are not unsolicited commercial messages, and (b) any other purpose that such user expressly opts into after adequate disclosure of the purpose(s). In all cases, you must give users an opportunity to remove themselves from your database and a chance to review what information you have collected about them. In addition, under no circumstances, except as defined in this se ction, can you disclose personally identifiable information about another user to any third party without our consent and the consent of such other user after adequate disclosure.</span></div>
+<div style="line-height: 18pt; margin: 0in 0in 0pt; background: #f6f6f6">&nbsp;</div>
+<div style="line-height: 18pt; margin: 0in 0in 0pt; background: #f6f6f6"><span style="color: #333333; font-size: 8.5pt">Use of IP Addresses</span></div>
+<div style="line-height: 18pt; margin: 0in 0in 0pt; background: #f6f6f6">&nbsp;</div>
+<div style="line-height: 18pt; margin: 0in 0in 0pt; background: #f6f6f6"><span style="color: #333333; font-size: 8.5pt">An IP address is a number assigned to your computer automatically when you access the Internet. Where possible, we may use your IP address to help diagnose problems with our site and/or to improve our services to you.</span></div>
+<div style="line-height: 18pt; margin: 0in 0in 0pt; background: #f6f6f6">&nbsp;</div>
+<div style="line-height: 18pt; margin: 0in 0in 0pt; background: #f6f6f6"><span style="color: #333333; font-size: 8.5pt">Use of Cookies</span></div>
+<div style="line-height: 18pt; margin: 0in 0in 0pt; background: #f6f6f6">&nbsp;</div>
+<div style="line-height: 18pt; margin: 0in 0in 0pt; background: #f6f6f6"><span style="color: #333333; font-size: 8.5pt">We may use cookies on certain pages of our site. We may also offer certain features that are only available through the use of a cookie. Among other reasons why we use cookies, cookies allow you to enter your password less frequently during a session. Cookies can also help us provide information which is targeted to your interests or service needs. Cookies are stored on your hard drive, not on our site. Most cookies are “session cookies,” meaning t hat they are automatically deleted at the end of a session. You are always free to decline our cookies if your browser permits, although in that case you may not be able to use certain features on our site and you may be required to reenter your password more frequently during a session.</span></div>
+<div style="line-height: 18pt; margin: 0in 0in 0pt; background: #f6f6f6">&nbsp;</div>
+<div style="line-height: 18pt; margin: 0in 0in 0pt; background: #f6f6f6"><span style="color: #333333; font-size: 8.5pt">Sharing of Information</span></div>
+<div style="line-height: 18pt; margin: 0in 0in 0pt; background: #f6f6f6">&nbsp;</div>
+<div style="line-height: 18pt; margin: 0in 0in 0pt; background: #f6f6f6"><span style="color: #333333; font-size: 8.5pt">Your account information is very important to us and we share such information only in limited situations. For example, we may share the information with affiliates of American Freight®, including those entities that control the content on some of our web pages.</span></div>
+<div style="line-height: 18pt; margin: 0in 0in 0pt; background: #f6f6f6">&nbsp;</div>
+<div style="line-height: 18pt; margin: 0in 0in 0pt; background: #f6f6f6"><span style="color: #333333; font-size: 8.5pt">Unfortunately, due to the existing regulatory environment, we cannot ensure that all of your private communications and other personally identifiable information will never be disclosed in ways not otherwise described in this Privacy Policy. By way of example (without limiting the foregoing), we may be forced to disclose information to the gover nment or third parties under certain circumstances, or third parties may unlawfully intercept or access transmissions or private communications. We can (and you authorize us to) disclose any information about you to law enforcement or other government officials as we, in our sole discretion, believe necessary or appropriate, in connection with an investigation of fraud, intellectual property infringements, or other activity that is illegal or may expose us to legal liability.</span></div>
+<div style="line-height: 18pt; margin: 0in 0in 0pt; background: #f6f6f6">&nbsp;</div>
+<div style="line-height: 18pt; margin: 0in 0in 0pt; background: #f6f6f6"><span style="color: #333333; font-size: 8.5pt">Further, we can (and you authorize us to) disclose your name, street address, city, state, zip code, country, phone number, email, and company to American Freight® participants as we in our sole discretion believe necessary or appropriate in connection with an investigation of fraud, intellectual property infringement, piracy, or other unlawful activity. Therefore, although we use industry standard practices to protect your privacy, we do not promise, and you should not expect, that you r personally identifiable information or private communications will remain private.</span></div>
+<div style="line-height: 18pt; margin: 0in 0in 0pt; background: #f6f6f6">&nbsp;</div>
+<div style="line-height: 18pt; margin: 0in 0in 0pt; background: #f6f6f6"><span style="color: #333333; font-size: 8.5pt">As a general proposition, we do not sell or rent any personally identifiable information about you to any third party.</span></div>
+<div style="line-height: 18pt; margin: 0in 0in 0pt; background: #f6f6f6">&nbsp;</div>
+<div style="line-height: 18pt; margin: 0in 0in 0pt; background: #f6f6f6"><span style="color: #333333; font-size: 8.5pt">Security</span></div>
+<div style="line-height: 18pt; margin: 0in 0in 0pt; background: #f6f6f6">&nbsp;</div>
+<div style="line-height: 18pt; margin: 0in 0in 0pt; background: #f6f6f6"><span style="color: #333333; font-size: 8.5pt">American Freight® uses industry standard efforts to safeguard the confidentiality of your personal identifiable information, such as firewalls, system security measures and Secure Socket Layers (SSL). Please be advised that “perfect security” does not exist in commercial Internet applications and that such security measures may not prevent all loss, misuse or alteration of information on our web sites.</span></div>
+<div style="line-height: 18pt; margin: 0in 0in 0pt; background: #f6f6f6">&nbsp;</div>
+<div style="line-height: 18pt; margin: 0in 0in 0pt; background: #f6f6f6"><span style="color: #333333; font-size: 8.5pt">The registration pages, where you enter your personal and credit card information, are secure. This means that any information you send us is protected by encryption. It is easy to tell when you are protected by encryption – your browser displays a lock or a key which is no longer broken or it changes color when you are on a secure page. The actual icon and its location may vary depending on your browser. For example: Internet Explorer displays a closed padlock at the bottom of the page when a page is secure.</span></div>
+<div style="line-height: 18pt; margin: 0in 0in 0pt; background: #f6f6f6">&nbsp;</div>
+<div style="line-height: 18pt; margin: 0in 0in 0pt; background: #f6f6f6"><span style="color: #333333; font-size: 8.5pt">Except as specifically permitted by this section, you may not disclose your American Freight&nbsp;®&nbsp;password to any third parties nor share it with any third parties. If you lose control of your password, you may lose substantial control over your personally identifiable information and may be subject to legally binding actions taken on your behalf. Therefore, if your password has been compromised for any reason, you should immediately change your password. You may, however, disclose your password to certain third parties with whom American Freight® has entered into specific contractual and technical arrangements designed to safeguard your password (“Authorized Password Users”), in order to enjoy the benefits of those third parti es’ services in relation to the American Freight® services.</span></div>
+<div style="line-height: 18pt; margin: 0in 0in 0pt; background: #f6f6f6">&nbsp;</div>
+<div style="line-height: 18pt; margin: 0in 0in 0pt; background: #f6f6f6"><span style="color: #333333; font-size: 8.5pt">Other Web Sites; Links</span></div>
+<div style="line-height: 18pt; margin: 0in 0in 0pt; background: #f6f6f6">&nbsp;</div>
+<div style="line-height: 18pt; margin: 0in 0in 0pt; background: #f6f6f6"><span style="color: #333333; font-size: 8.5pt">Our web sites contain links to other third-party Web sites. American Freight® is&nbsp;not responsible for the privacy practices, content, use of cookies or the gathering of other information of such third-party web sites.</span></div>
+<div style="line-height: 18pt; margin: 0in 0in 0pt; background: #f6f6f6">&nbsp;</div>
+<div style="line-height: 18pt; margin: 0in 0in 0pt; background: #f6f6f6"><span style="color: #333333; font-size: 8.5pt">Public Forums</span></div>
+<div style="line-height: 18pt; margin: 0in 0in 0pt; background: #f6f6f6">&nbsp;</div>
+<div style="line-height: 18pt; margin: 0in 0in 0pt; background: #f6f6f6"><span style="color: #333333; font-size: 8.5pt">This site may make chat rooms, forums, message boards and/or news groups available to its users. Please remember that any information that is disclosed in these areas becomes public information and you should exercise caution when deciding to disclose your personal information. Views reflected in these forums do not reflect the views or opinions of American Freight®. American Freight® reserves the right, in its sole discretion, to move any comments or posts made on its website, for any reason. </span></div>
+<div style="line-height: 18pt; margin: 0in 0in 0pt; background: #f6f6f6">&nbsp;</div>
+<div style="line-height: 18pt; margin: 0in 0in 0pt; background: #f6f6f6"><span style="color: #333333; font-size: 8.5pt">Children</span></div>
+<div style="line-height: 18pt; margin: 0in 0in 0pt; background: #f6f6f6">&nbsp;</div>
+<div style="line-height: 18pt; margin: 0in 0in 0pt; background: #f6f6f6"><span style="color: #333333; font-size: 8.5pt">American Freight® does not knowingly collect personal information on children. The content of our web sites and the products and services available are not intended for childre n. If you are under 18, you may only use American Freight® with the involvement of a parent or guardian.</span></div>
+<div style="line-height: 18pt; margin: 0in 0in 0pt; background: #f6f6f6">&nbsp;</div>
+<div style="line-height: 18pt; margin: 0in 0in 0pt; background: #f6f6f6"><span style="color: #333333; font-size: 8.5pt">Questions</span></div>
+<div style="line-height: 18pt; margin: 0in 0in 0pt; background: #f6f6f6">&nbsp;</div>
+<div style="line-height: 18pt; margin: 0in 0in 0pt; background: #f6f6f6"><span style="color: #333333; font-size: 8.5pt">If you have any questions or concerns about this privacy notice, the practices of this site or your interaction with this web site, please contact info at <a href="mailto:contactus@americanfreight.us">contactus@americanfreight.us</a> </span></div>
+<p style="line-height: 18pt; margin: 0in 0in 0pt; background: #f6f6f6">&nbsp;</p>
+<p style="line-height: 18pt; margin: 0in 0in 0pt; background: #f6f6f6">Third party vendors, including Google, show your ads on sites on the internet. Third party vendors, including Google, use cookies to serve ads based on a user's prior visits to your website. Users may opt out of Google's use of cookies by visiting the <a target="_blank" href="http://www.google.com/privacy_ads.html">Google advertising opt-out page</a>. (Alternatively you can point users to opt out of&nbsp;a third party vendor's use of cookies by visiting&nbsp;the <a target="_blank" href="http://www.networkadvertising.org/managing/opt_out.asp">Network Advertising Initiative&nbsp;opt out page</a>.)</p></td>
+  </tr>
+  
+   
+  
+   <tr id="hide-page-content-only-mobile">
+  <td style="padding-right:10px; width:180px">
+  <div style="background:url(http://www.americanfreight.us/images/page-img-3.jpg) 0 0 no-repeat; width:200px; height:65px; padding-top:10px">
+  <table cellpadding="0" cellspacing="0" border="0" width="100%" style="border-collapse:collapse; border-color:#CCC; margin:0px 0px 0px 10px">
+        <tbody><tr><td style="padding:5px"><a href="http://www.americanfreight.us/Privacy-Statement/">Privacy Statement</a></td></tr><tr><td style="padding:5px"><a href="http://www.americanfreight.us/Terms-Conditions/">Terms &amp; Conditions</a></td></tr>
+         </tbody></table>
+		 </div>
+		 </td>
+   
+   <td width="200" style="padding-right:10px; width:180px" align="center"><a href="http://www.americanfreight.us/register.php"><img src="http://www.americanfreight.us/images/page-img-1.jpg" border="0" alt="Create an account" title="Create an account"></a></td>   
+         
+    <td align="center"><a href="http://www.americanfreight.us/sitemap/"><img src="http://www.americanfreight.us/images/page-img-2.jpg" border="0"></a></td>       
+  </tr>
+  
+</tbody></table>
+</td>
+      </tr>
+
     </tbody></table>
+
+
+
 	
 	</td>
 	</tr>
@@ -407,18 +656,19 @@ function clears()
 }
 </script>
 
-
-    
 	
-	<tr>
+    <tr class="hide-for-other">
+    
+    
         <td style="background:url(http://www.americanfreight.us/images/content-bg.jpg) 0 0 repeat-y">
-		
-		<table width="960" border="0" cellspacing="0" cellpadding="0" align="center">
+<table width="960" border="0" cellspacing="0" cellpadding="0" align="center">
+    
   <tbody><tr>
   <td valign="top"><img src="http://www.americanfreight.us/images/search-bg-left.jpg"></td>
     <td valign="top" width="960" style="background:url(http://www.americanfreight.us/images/search-bg.jpg) 0 0 repeat-x; height:71px; padding-top:8px">
 	<form name="frm" method="get" action="http://www.americanfreight.us/store_search.php">
 	<table width="920" border="0" cellspacing="0" cellpadding="0" align="center" style="color:#FFFFFF">
+ 
   <tbody><tr>
     <td style="font-size:28px; padding-left:3px; font-weight:normal; font-family: Helvetica, sans-serif" width="250">Retail Locations:<br>
 	</td>
@@ -437,19 +687,28 @@ function clears()
 </tbody></table>
 		</td>
     </tr>
-	    
+
+  
+  
+    
+	  
+    
+     
+     
+ 
+ 
     
     
-    	 
+    
+    
+	 
 	
 	<tr>
-        <td style="background:url(http://www.americanfreight.us/images/content-bg.jpg) 0 0 repeat-y">
+        <td id="content-bg">
 		
-		<table width="950" border="0" cellspacing="0" cellpadding="0" align="center">
-<tbody><tr><td height="10px"></td>
-	</tr>
-	<tr>
-	<td style="padding-left:13px"><span class="sub-heading-red">Print Wish List:</span> &nbsp;&nbsp;&nbsp;&nbsp;<span class="sub-heading-black sub-heading-footer"><a href="http://www.americanfreight.us/myaccount.php">Click to login to your account and save items to your wish list.</a></span></td>
+		<table id="footer-table-width" border="0" cellspacing="0" cellpadding="0" align="center">
+	<tbody><tr id="hide-sec-mobile">
+	<td><span class="sub-heading-red">Print Wish List:</span> &nbsp;&nbsp;<span class="sub-heading-black sub-heading-footer"><a href="http://www.americanfreight.us/myaccount.php">Click to login to your account and save items to your wish list.</a></span></td>
 	<td><!-- AddThis Button BEGIN -->
 <div class="addthis_toolbox addthis_default_style" style="float:right">
 <a href="http://www.addthis.com/bookmark.php?v=250&amp;username=xa-4cecf0ff47879d63" class="addthis_button_compact">Share</a>
@@ -463,26 +722,29 @@ function clears()
 <!-- AddThis Button END --></td>
 	</tr>
 	
+	<tr><td height="10px" colspan="2"></td>
+	</tr>
 	
-	
-	<tr>
-	    <td style=" height:99px; width:970px; padding:6px" valign="top" colspan="2">
+	<tr id="hide-sec-mobile">
+	    <td valign="top" colspan="2"><!--style=" height:99px; width:970px; padding:6px"-->
 		
-		<table width="920" border="0" cellspacing="0" cellpadding="0" align="center" style="text-decoration:none">
+		<table id="footer-menu-table" border="0" cellspacing="0" cellpadding="0" align="left" style="text-decoration:none">
   <tbody><tr>
-    <td style="font-size:18px; color:#ff0000" height="30">Customer Service;</td>
-	<td width="30" rowspan="2" style="border-left:2px solid #cccccc"></td>
-    <td style="font-size:18px; color:#ff0000">My Account</td>
-	<td width="30" rowspan="2" style="border-left:2px solid #cccccc"></td>
-    <td style="font-size:18px; color:#ff0000">Company Info</td>
-	<td width="30" rowspan="2" style="border-left:2px solid #cccccc"></td>
-    <td style="font-size:18px; color:#ff0000">Connect</td>
+    <td height="30"><span class="sub-heading-footer-red">Customer Service;</span></td>
+	<td width="15" rowspan="2" style="border-left:2px solid #cccccc"></td>
+    <td><span class="sub-heading-footer-red">My Account</span></td>
+	<td width="15" rowspan="2" style="border-left:2px solid #cccccc"></td>
+    <td><span class="sub-heading-footer-red">Company Info</span></td>
+	<td width="15" rowspan="2" style="border-left:2px solid #cccccc"></td>
+    <td><span class="sub-heading-footer-red">Connect</span></td>
   </tr>
   <tr>
     <td valign="top"><ul id="footer-link">
 	<li><a href="http://www.americanfreight.us/faq/">Frequently Asked Questions</a></li>
+    <li><a href="http://americanfreightconsumer.com/index.html" target="_blank">Consumer Resource Center</a></li>
+      
 	<li>&nbsp;&nbsp;</li>
-	<li style="font-size:18px; color:#ff0000">Tools &amp; Resources</li>
+	<li><span class="sub-heading-footer-red">Tools &amp; Resources</span></li>
 	
 	<li><a href="http://www.americanfreight.us/Contact-Us/">Contact Us</a></li>
 	<li><a href="http://www.americanfreight.us/email-signup/">E-mail Subscribe</a></li>
@@ -493,7 +755,7 @@ function clears()
 	<li><a href="http://www.americanfreight.us/wishlist.php">Wish List</a></li>
 	<li><a href="http://www.americanfreight.us/wishlist.php?opt=print_wishlist" target="_blank">Print Wish List</a></li>
     <li>&nbsp;&nbsp;</li>
-    <li style="font-size:18px; color:#ff0000">Community</li>
+    <li><span class="sub-heading-footer-red">Community</span></li>
     <li><a href="http://www.americanfreight.us/Charities-We-Support/">Charities We Support</a></li>
     
 	
@@ -507,18 +769,23 @@ function clears()
 	<li><a href="http://www.americanfreight.us/Newsroom/">Newsroom</a></li>
     <!--<li><a href="http://www.americanfreight.us/store_search.php?act=store_list&st_city=-+CITY+-&st_state=-+STATE+-&search=53704&radius=5000&show_map=">Store List</a></li>-->
     <li><a href="http://www.americanfreight.us/store_search.php?act=store_list&amp;st_city=-+CITY+-&amp;st_state=-+STATE+-&amp;search=53704&amp;radius=5000&amp;show_map=">Store List</a></li>
+    <li><a href="http://www.americanfreight.us/Privacy-Statement/">Privacy Statements</a></li>
+	<li><a href="http://www.americanfreight.us/Terms-Conditions/">Terms &amp; Conditions</a></li>
 	
 	</ul></td>
 	<td valign="top"><ul id="footer-link">
-	<li><a href="http://www.facebook.com/AmericanFreightFurniture">Facebook</a></li>
-    <li><a href="http://twitter.com/AmericanFreight">Twitter</a></li>
-    <li><a href="http://pinterest.com/americanfreight/">Pinterest</a></li>
-    <li><a href="http://amfrt.com/americanfreightgp">Google+</a></li>
+	<li><a onclick="_gaq.push(['_trackEvent', 'Social Referral', 'Outbound Link Exit', 'Facebook_Referral']);" href="https://www.facebook.com/AmericanFreightFurniture" target="_blank">Facebook</a></li>
+    <li><a onclick="_gaq.push(['_trackEvent', 'Social Referral', 'Outbound Link Exit', 'Twitter_Referral']);" href="http://twitter.com/AmericanFreight" target="_blank">Twitter</a></li>
+    <li><a onclick="_gaq.push(['_trackEvent', 'Social Referral', 'Outbound Link Exit', 'Pinterest_Referral']);" href="http://pinterest.com/americanfreight" target="_blank">Pinterest</a></li>
+    <li><a onclick="_gaq.push(['_trackEvent', 'Social Referral', 'Outbound Link Exit', 'Google+_Referral']);" href="https://plus.google.com/+AmericanFreightFurniture/posts" target="_blank">Google+</a></li>
     <li><a href="http://www.linkedin.com/company/american-freight-furniture-and-mattress">LinkedIn</a></li>
-	<li><a href="http://www.americanfreight.us/Privacy-Statement/">Privacy Statements</a></li>
-	<li><a href="http://www.americanfreight.us/Terms-Conditions/">Terms &amp; Conditions</a></li>
+    <li><a onclick="_gaq.push(['_trackEvent', 'Social Referral', 'Outbound Link Exit', 'Youtube_Referral']);" href="http://www.youtube.com/user/furnituredeals" target="_blank">Youtube</a></li> 
+	
 	<li><a href="http://www.americanfreight.us/sitemap/">Sitemap</a></li>
-	<li><a href="http://www.americanfreight.us/blog">Blog</a></li>
+	<li><a href="http://www.americanfreight.us/blog">Company Blog</a></li>
+    <li><a onclick="_gaq.push(['_trackEvent', 'Social Referral', 'Outbound Link Exit', 'Blogger_Referral']);" href="http://americanfreightfurniture.wordpress.com/" target="_blank">Home Design Blog</a></li>
+    
+    
 	</ul></td>
   </tr>
   <tr>
@@ -526,9 +793,53 @@ function clears()
   </tr>
   
 
+
 </tbody></table>
 </td>
     </tr>
+    
+     <!--For Responsive Design related to Mobile--> 
+  <tr id="hide-sec-other-footer">
+	    <td valign="top" colspan="2"><!--style=" height:99px; width:970px; padding:6px"-->
+		
+		<table id="footer-menu-table-mobile" border="0" cellspacing="0" cellpadding="0" align="left" style="text-decoration:none">
+  <tbody><tr>
+    <td height="30" width="120"><span class="sub-heading-footer-red">Resources</span></td>
+	<td width="30" rowspan="2"></td>
+    <td width="120"><span class="sub-heading-footer-red">Connect</span></td>
+	
+  </tr>
+  <tr>
+  <td valign="top">
+  <ul id="footer-link">
+	<li><a href="http://www.americanfreight.us/store_search.php">Find A Store</a></li>
+    <li><a href="http://www.americanfreight.us/Contact-Us/">Contact Us</a></li>
+	    <li><a href="http://www.americanfreight.us/email-signup/">E-mail Subscribe</a></li>
+    <li><a href="http://www.americanfreight.us/wishlist.php">View Wish List</a></li>
+   
+  </ul></td>
+	<td valign="top"><ul id="footer-link">
+	<li><a onclick="_gaq.push(['_trackEvent', 'Social Referral', 'Outbound Link Exit', 'Facebook_Referral']);" href="https://www.facebook.com/AmericanFreightFurniture" target="_blank">Facebook</a></li>
+    <li><a onclick="_gaq.push(['_trackEvent', 'Social Referral', 'Outbound Link Exit', 'Twitter_Referral']);" href="http://twitter.com/AmericanFreight" target="_blank">Twitter</a></li>
+    <li><a onclick="_gaq.push(['_trackEvent', 'Social Referral', 'Outbound Link Exit', 'Pinterest_Referral']);" href="http://pinterest.com/americanfreight" target="_blank">Pinterest</a></li>
+    <li><a onclick="_gaq.push(['_trackEvent', 'Social Referral', 'Outbound Link Exit', 'Google+_Referral']);" href="https://plus.google.com/+AmericanFreightFurniture/posts" target="_blank">Google+</a></li>
+	</ul></td>
+  </tr>
+  <tr>
+  <td height="10"></td>
+  </tr>
+  
+    
+</tbody></table>
+
+
+
+</td>
+    </tr>
+    
+    
+    
+    
 </tbody></table>
 
 	
@@ -541,11 +852,11 @@ function clears()
 	<td></td>
 	</tr>
     <tr>
-	<td><img src="http://www.americanfreight.us/images/footer.jpg"></td>
+	<td id="footer-bottom-img"></td>
 	</tr>
 	
-	<tr>
-	<td align="center" style="font-size:14px; color:#999999;">Copyright © 2012 American Freight Inc. All Rights Reserved. </td>
+	<tr class="hide-for-other">
+	<td align="center" style="font-size:14px; color:#999999;">Copyright © 2013 American Freight Inc. All Rights Reserved. </td>
 	</tr>
 	<tr>
 	<td>&nbsp;</td>
@@ -553,7 +864,7 @@ function clears()
     
 </tbody></table>
 
-<div class="footerlinks">
+<div class="footerlinks fl-width hide-for-other">
 <p><strong>Top Furniture Products: </strong> 
 <a href="http://www.americanfreight.us/living-room-furniture.html">Living Room Furniture</a> | 
 <a href="http://www.americanfreight.us/cheap-living-room-furniture.html">Cheap Living Room Furniture</a> | 
@@ -671,7 +982,6 @@ function see_less()
 
 
 </style>
-
 
 	
 </body></html>
