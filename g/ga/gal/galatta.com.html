@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the galatta.com privacy policy that was archived on 2012-12-14.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121214164406id_/http%3A//www.galatta.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the galatta.com privacy policy that was archived on 2013-06-16.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130616091747id_/http%3A//www.galatta.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xmlns:og="http://ogp.me/ns#" xmlns:fb="http://www.facebook.com/2008/fbml" lang="en-US"><head prefix="og: http://ogp.me/ns# fb: http://ogp.me/ns/fb# article: http://ogp.me/ns/article#">
 <title>         Galatta.com - Privacy
@@ -18,6 +18,7 @@
   <meta property="og:description" content="The latest news, movie reviews and previews, music, trailers and photos, event videos and pictures, exclusive interviews with stars from South Indian movies. Galatta.com is the one stop shop for all your movie masala."> 
   <meta property="og:image" content="http://www.galatta.com/templates/frontend/default/images/galatta.jpg">
 	
+
 <meta content="IE=EmulateIE7" http-equiv="X-UA-Compatible">
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 <meta content="http://www.galatta.com/" name="website">
@@ -40,12 +41,16 @@
 		var AJAX_LOADER_1 = '/templates/frontend/default/images/ajax-loading.gif';
 		var GA_URL = 'http://www.galatta.com';
 		var PAGE_NAME = '';
+var THUMB_NAME = ''; // will show sizler
+
+var List_NAME = ''; // will show 
+
 		var HTACCESS = '1';
 		var LANG_NAME = '';
 	
 		function popup(){  
-			window.open('/advertise/bm/bm.php?lid=',"","toolbar=no,statusbars=0,addressbar=no,scrollbars=1,top=0,left=0,width=780,HEIGHT=620").blur();
-			window.focus();
+			//window.open('/advertise/bm/bm.php?lid=',"","toolbar=no,statusbars=0,addressbar=no,scrollbars=1,top=0,left=0,width=780,HEIGHT=620").blur();
+			//window.focus();
 		}
 		
 	</script>
@@ -65,6 +70,7 @@
    
 	
 
+	
 <script type="text/javascript">
   var _gaq = _gaq || [];
   _gaq.push(['_setAccount', 'UA-2346015-3']);
@@ -92,11 +98,13 @@
 		if(PAGE_NAME =='channel')
 		{
 			GA_googleAddSlot("ca-pub-4598819753511212", "ChannelTogglingTamil");
+			GA_googleAddSlot("ca-pub-4598819753511212", "TamilStatic");
 			GA_googleAddSlot("ca-pub-4598819753511212", "VerticalBannerTamil");
 			GA_googleAddSlot("ca-pub-4598819753511212", "Skyscraper1Tamil");
 			GA_googleAddSlot("ca-pub-4598819753511212", "Skyscraper2Tamil");
 			GA_googleAddSlot("ca-pub-4598819753511212", "Skyscraper3Tamil");
 			GA_googleAddSlot("ca-pub-4598819753511212", "Trans-ad-tamilpage");
+			GA_googleAddSlot("ca-pub-4598819753511212", "TamilLanqHorizontal1");
 		}
 		GA_googleAddSlot("ca-pub-4598819753511212", "FooterCenterTamil");
 		GA_googleAddSlot("ca-pub-4598819753511212", "NewsToggleTamil");
@@ -121,24 +129,7 @@
 			GA_googleAddSlot("ca-pub-4598819753511212", "ReviewDetailsBottomSquare1Tamil");
 			GA_googleAddSlot("ca-pub-4598819753511212", "ReviewDetailsBottomSquare2Tamil");
 		}
-		if(PAGE_NAME =='gallery_page')
-		{
-			GA_googleAddSlot("ca-pub-4598819753511212", "PhotosRightSquare1Tamil");
-			GA_googleAddSlot("ca-pub-4598819753511212", "PhotosRightSquare2Tamil");
-			GA_googleAddSlot("ca-pub-4598819753511212", "PhotosRightSquare3Tamil");
-		}
-		if(PAGE_NAME =='gallery_listview' || PAGE_NAME =='photoshoot_listview')
-		{
-			GA_googleAddSlot("ca-pub-4598819753511212", "PhotogalleryactorsRightSquare1Tamil");
-			GA_googleAddSlot("ca-pub-4598819753511212", "PhotogalleryactorsRightSquare2Tamil");
-			GA_googleAddSlot("ca-pub-4598819753511212", "PhotogalleryactorsRightSquare3Tamil");
-		}
-		if(PAGE_NAME =='gallery_thumb' || PAGE_NAME =='photoshoot_thumb')
-		{
-			GA_googleAddSlot("ca-pub-4598819753511212", "PhotogalleryactorsdetailsBottomSquare1Tamil");
-			GA_googleAddSlot("ca-pub-4598819753511212", "PhotogalleryactorsdetailsBottomSquare2Tamil");
-			GA_googleAddSlot("ca-pub-4598819753511212", "PhotogalleryactorsdetailsRightSquareTamil");
-		}
+	
 		if(PAGE_NAME =='music' || PAGE_NAME =='music_detail' || PAGE_NAME =='music_manage' || PAGE_NAME =='music_tag' || PAGE_NAME =='music_player' )
 		{
 			GA_googleAddSlot("ca-pub-4598819753511212", "BackgroundLeftMusic");
@@ -158,10 +149,12 @@
 		if(PAGE_NAME =='channel')
 		{
 			GA_googleAddSlot("ca-pub-4598819753511212", "ChannelTogglingTelugu");
+			GA_googleAddSlot("ca-pub-4598819753511212", "TeluguStatic");
 			GA_googleAddSlot("ca-pub-4598819753511212", "VerticalBannerTelugu");
 			GA_googleAddSlot("ca-pub-4598819753511212", "Skyscraper1Telugu");
 			GA_googleAddSlot("ca-pub-4598819753511212", "Skyscraper2Telugu");
 			GA_googleAddSlot("ca-pub-4598819753511212", "Skyscraper3Telugu");
+			GA_googleAddSlot("ca-pub-4598819753511212", "TeluguLanqHorizontal1");
 		}
 		GA_googleAddSlot("ca-pub-4598819753511212", "FooterCenterTelugu");
 		GA_googleAddSlot("ca-pub-4598819753511212", "NewsToggleTelugu");
@@ -188,24 +181,7 @@
 			GA_googleAddSlot("ca-pub-4598819753511212", "ReviewDetailsBottomSquare1Telugu");
 			GA_googleAddSlot("ca-pub-4598819753511212", "ReviewDetailsBottomSquare2Telugu");
 		}
-		if(PAGE_NAME =='gallery_page')
-		{
-			GA_googleAddSlot("ca-pub-4598819753511212", "PhotosRightSquare1Telugu");
-			GA_googleAddSlot("ca-pub-4598819753511212", "PhotosRightSquare2Telugu");
-			GA_googleAddSlot("ca-pub-4598819753511212", "PhotosRightSquare3Telugu");
-		}
-		if(PAGE_NAME =='gallery_listview' || PAGE_NAME =='photoshoot_listview')
-		{
-			GA_googleAddSlot("ca-pub-4598819753511212", "PhotogalleryactorsRightSquare1Telugu");
-			GA_googleAddSlot("ca-pub-4598819753511212", "PhotogalleryactorsRightSquare2Telugu");
-			GA_googleAddSlot("ca-pub-4598819753511212", "PhotogalleryactorsRightSquare3Telugu");
-		}
-		if(PAGE_NAME =='gallery_thumb' || PAGE_NAME =='photoshoot_thumb')
-		{
-			GA_googleAddSlot("ca-pub-4598819753511212", "PhotogalleryactorsdetailsBottomSquare1Telugu");
-			GA_googleAddSlot("ca-pub-4598819753511212", "PhotogalleryactorsdetailsBottomSquare2Telugu");
-			GA_googleAddSlot("ca-pub-4598819753511212", "PhotogalleryactorsdetailsRightSquareTelugu");
-		}
+		
 		if(PAGE_NAME =='music' || PAGE_NAME =='music_detail' || PAGE_NAME =='music_manage' || PAGE_NAME =='music_tag' || PAGE_NAME =='music_player' )
 		{
 			GA_googleAddSlot("ca-pub-4598819753511212", "BackgroundLeftMusic");
@@ -224,10 +200,12 @@
 		if(PAGE_NAME =='channel')
 		{
 			GA_googleAddSlot("ca-pub-4598819753511212", "ChannelTogglingMalayalam");
+			GA_googleAddSlot("ca-pub-4598819753511212", "MalayalamStatic");
 			GA_googleAddSlot("ca-pub-4598819753511212", "VerticalBannerMalayalam");
 			GA_googleAddSlot("ca-pub-4598819753511212", "Skyscraper1Malayalam");
 			GA_googleAddSlot("ca-pub-4598819753511212", "Skyscraper2Malayalam");
 			GA_googleAddSlot("ca-pub-4598819753511212", "Skyscraper3Malayalam");
+			GA_googleAddSlot("ca-pub-4598819753511212", "MalayalamLanqHorizontal1");
 		}
 		GA_googleAddSlot("ca-pub-4598819753511212", "FooterCenterMalayalam");
 		GA_googleAddSlot("ca-pub-4598819753511212", "NewsToggleMalayalam");
@@ -252,25 +230,7 @@
 			GA_googleAddSlot("ca-pub-4598819753511212", "ReviewsFullBannerMalayalam");
 			GA_googleAddSlot("ca-pub-4598819753511212", "ReviewDetailsBottomSquare1Malayalam");
 			GA_googleAddSlot("ca-pub-4598819753511212", "ReviewDetailsBottomSquare2Malayalam");
-		}
-		if(PAGE_NAME =='gallery_page')
-		{
-			GA_googleAddSlot("ca-pub-4598819753511212", "PhotosRightSquare1Malayalam");
-			GA_googleAddSlot("ca-pub-4598819753511212", "PhotosRightSquare2Malayalam");
-			GA_googleAddSlot("ca-pub-4598819753511212", "PhotosRightSquare3Malayalam");
-		}
-		if(PAGE_NAME =='gallery_listview' || PAGE_NAME =='photoshoot_listview')
-		{
-			GA_googleAddSlot("ca-pub-4598819753511212", "PhotogalleryactorsRightSquare1Malayalam");
-			GA_googleAddSlot("ca-pub-4598819753511212", "PhotogalleryactorsRightSquare2Malayalam");
-			GA_googleAddSlot("ca-pub-4598819753511212", "PhotogalleryactorsRightSquare3Malayalam");
-		}
-		if(PAGE_NAME =='gallery_thumb' || PAGE_NAME =='photoshoot_thumb')
-		{
-			GA_googleAddSlot("ca-pub-4598819753511212", "PhotogalleryactorsdetailsBottomSquare1Malayalam");
-			GA_googleAddSlot("ca-pub-4598819753511212", "PhotogalleryactorsdetailsBottomSquare2Malayalam");
-			GA_googleAddSlot("ca-pub-4598819753511212", "PhotogalleryactorsdetailsRightSquareMalayalam");
-		}
+		}		
 		if(PAGE_NAME =='music' || PAGE_NAME =='music_detail' || PAGE_NAME =='music_manage' || PAGE_NAME =='music_tag' || PAGE_NAME =='music_player' )
 		{
 			GA_googleAddSlot("ca-pub-4598819753511212", "BackgroundLeftMusic");
@@ -290,10 +250,12 @@
 		if(PAGE_NAME =='channel')
 		{
 			GA_googleAddSlot("ca-pub-4598819753511212", "ChannelTogglingKannada");
+			GA_googleAddSlot("ca-pub-4598819753511212", "KannadaStatic");
 			GA_googleAddSlot("ca-pub-4598819753511212", "VerticalBannerKannada");
 			GA_googleAddSlot("ca-pub-4598819753511212", "Skyscraper1Kannada");
 			GA_googleAddSlot("ca-pub-4598819753511212", "Skyscraper2Kannada");
 			GA_googleAddSlot("ca-pub-4598819753511212", "Skyscraper3Kannada");
+			GA_googleAddSlot("ca-pub-4598819753511212", "KannadaLanqHorizontal1");
 		}
 		GA_googleAddSlot("ca-pub-4598819753511212", "FooterCenterKannada");
 		GA_googleAddSlot("ca-pub-4598819753511212", "NewsToggleKannada");
@@ -319,24 +281,7 @@
 			GA_googleAddSlot("ca-pub-4598819753511212", "ReviewDetailsBottomSquare1Kannada");
 			GA_googleAddSlot("ca-pub-4598819753511212", "ReviewDetailsBottomSquare2Kannada");
 		}
-		if(PAGE_NAME =='gallery_page')
-		{
-			GA_googleAddSlot("ca-pub-4598819753511212", "PhotosRightSquare1Kannada");
-			GA_googleAddSlot("ca-pub-4598819753511212", "PhotosRightSquare2Kannada");
-			GA_googleAddSlot("ca-pub-4598819753511212", "PhotosRightSquare3Kannada");
-		}
-		if(PAGE_NAME =='gallery_listview' || PAGE_NAME =='photoshoot_listview')
-		{
-			GA_googleAddSlot("ca-pub-4598819753511212", "PhotogalleryactorsRightSquare1Kannada");
-			GA_googleAddSlot("ca-pub-4598819753511212", "PhotogalleryactorsRightSquare2Kannada");
-			GA_googleAddSlot("ca-pub-4598819753511212", "PhotogalleryactorsRightSquare3Kannada");
-		}
-		if(PAGE_NAME =='gallery_thumb' || PAGE_NAME =='photoshoot_thumb')
-		{
-			GA_googleAddSlot("ca-pub-4598819753511212", "PhotogalleryactorsdetailsBottomSquare1Kannada");
-			GA_googleAddSlot("ca-pub-4598819753511212", "PhotogalleryactorsdetailsBottomSquare2Kannada");
-			GA_googleAddSlot("ca-pub-4598819753511212", "PhotogalleryactorsdetailsRightSquareKannada");
-		}
+	
 		if(PAGE_NAME =='music' || PAGE_NAME =='music_detail' || PAGE_NAME =='music_manage' || PAGE_NAME =='music_tag' || PAGE_NAME =='music_player' )
 		{
 			GA_googleAddSlot("ca-pub-4598819753511212", "BackgroundLeftMusic");
@@ -356,10 +301,12 @@
 		if(PAGE_NAME =='channel')
 		{
 			GA_googleAddSlot("ca-pub-4598819753511212", "ChannelTogglingHindi");
+			GA_googleAddSlot("ca-pub-4598819753511212", "HindiStatic");
 			GA_googleAddSlot("ca-pub-4598819753511212", "VerticalBannerHindi");
 			GA_googleAddSlot("ca-pub-4598819753511212", "Skyscraper1Hindi");
 			GA_googleAddSlot("ca-pub-4598819753511212", "Skyscraper2");
 			GA_googleAddSlot("ca-pub-4598819753511212", "Skyscraper3Hindi");
+			GA_googleAddSlot("ca-pub-4598819753511212", "HindiLanqHorizontal1");
 		}
 		GA_googleAddSlot("ca-pub-4598819753511212", "FooterCenterHindi");
 		GA_googleAddSlot("ca-pub-4598819753511212", "NewsToggleHindi");
@@ -384,24 +331,7 @@
 			GA_googleAddSlot("ca-pub-4598819753511212", "ReviewDetailsBottomSquare1Hindi");
 			GA_googleAddSlot("ca-pub-4598819753511212", "ReviewDetailsBottomSquare2Hindi");
 		}
-		if(PAGE_NAME =='gallery_page')
-		{
-			GA_googleAddSlot("ca-pub-4598819753511212", "PhotosRightSquare1Hindi");
-			GA_googleAddSlot("ca-pub-4598819753511212", "PhotosRightSquare2Hindi");
-			GA_googleAddSlot("ca-pub-4598819753511212", "PhotosRightSquare3Hindi");
-		}
-		if(PAGE_NAME =='gallery_listview' || PAGE_NAME =='photoshoot_listview')
-		{
-			GA_googleAddSlot("ca-pub-4598819753511212", "PhotogalleryactorsRightSquare1Hindi");
-			GA_googleAddSlot("ca-pub-4598819753511212", "PhotogalleryactorsRightSquare2Hindi");
-			GA_googleAddSlot("ca-pub-4598819753511212", "PhotogalleryactorsRightSquare3Hindi");
-		}
-		if(PAGE_NAME =='gallery_thumb' || PAGE_NAME =='photoshoot_thumb')
-		{
-			GA_googleAddSlot("ca-pub-4598819753511212", "PhotogalleryactorsdetailsBottomSquare1Hindi");
-			GA_googleAddSlot("ca-pub-4598819753511212", "PhotogalleryactorsdetailsBottomSquare2Hindi");
-			GA_googleAddSlot("ca-pub-4598819753511212", "PhotogalleryactorsdetailsRightSquareHindi");
-		}
+		
 		if(PAGE_NAME =='music' || PAGE_NAME =='music_detail' || PAGE_NAME =='music_manage' || PAGE_NAME =='music_tag' || PAGE_NAME =='music_player' )
 		{
 			GA_googleAddSlot("ca-pub-4598819753511212", "BackgroundLeftMusic");
@@ -421,10 +351,12 @@
 		if(PAGE_NAME =='channel')
 		{
 			GA_googleAddSlot("ca-pub-4598819753511212", "ChannelTogglingEnglish");
+			GA_googleAddSlot("ca-pub-4598819753511212", "EnglishStatic");
 			GA_googleAddSlot("ca-pub-4598819753511212", "VerticalBannerEnglish");
 			GA_googleAddSlot("ca-pub-4598819753511212", "Skyscraper1English");
 			GA_googleAddSlot("ca-pub-4598819753511212", "Skyscraper2");
 			GA_googleAddSlot("ca-pub-4598819753511212", "Skyscraper3English");
+			GA_googleAddSlot("ca-pub-4598819753511212", "EnglishLanqHorizontal1");
 		}
 		GA_googleAddSlot("ca-pub-4598819753511212", "FooterCenterEnglish");
 		GA_googleAddSlot("ca-pub-4598819753511212", "NewsToggleEnglish");
@@ -448,25 +380,7 @@
 			GA_googleAddSlot("ca-pub-4598819753511212", "ReviewsFullBannerEnglish");
 			GA_googleAddSlot("ca-pub-4598819753511212", "ReviewDetailsBottomSquare1English");
 			GA_googleAddSlot("ca-pub-4598819753511212", "ReviewDetailsBottomSquare2English");
-		}
-		if(PAGE_NAME =='gallery_page')
-		{
-			GA_googleAddSlot("ca-pub-4598819753511212", "PhotosRightSquare1English");
-			GA_googleAddSlot("ca-pub-4598819753511212", "PhotosRightSquare2English");
-			GA_googleAddSlot("ca-pub-4598819753511212", "PhotosRightSquare3English");
-		}
-		if(PAGE_NAME =='gallery_listview' || PAGE_NAME =='photoshoot_listview')
-		{
-			GA_googleAddSlot("ca-pub-4598819753511212", "PhotogalleryactorsRightSquare1English");
-			GA_googleAddSlot("ca-pub-4598819753511212", "PhotogalleryactorsRightSquare2English");
-			GA_googleAddSlot("ca-pub-4598819753511212", "PhotogalleryactorsRightSquare3English");
-		}
-		if(PAGE_NAME =='gallery_thumb' || PAGE_NAME =='photoshoot_thumb')
-		{
-			GA_googleAddSlot("ca-pub-4598819753511212", "PhotogalleryactorsdetailsBottomSquare1English");
-			GA_googleAddSlot("ca-pub-4598819753511212", "PhotogalleryactorsdetailsBottomSquare2English");
-			GA_googleAddSlot("ca-pub-4598819753511212", "PhotogalleryactorsdetailsRightSquareEnglish");
-		}
+		}	
 
 		if(PAGE_NAME =='music' || PAGE_NAME =='music_detail' || PAGE_NAME =='music_manage' || PAGE_NAME =='music_tag' || PAGE_NAME =='music_player' )
 		{
@@ -505,14 +419,33 @@
 		GA_googleAddSlot("ca-pub-4598819753511212", "MusicRightSquare1");
 		GA_googleAddSlot("ca-pub-4598819753511212", "MusicRightSquare2");
 		GA_googleAddSlot("ca-pub-4598819753511212", "MusicRightSquare3");
-         GA_googleAddSlot("ca-pub-4598819753511212", "LeaderBoardMusic");
+		if(LANG_NAME == 'tamil')
+			GA_googleAddSlot("ca-pub-4598819753511212", "LeaderBoardTamilMusic");
+		else
+		   GA_googleAddSlot("ca-pub-4598819753511212", "LeaderBoardMusic");
+		 
 	}
 	if(PAGE_NAME =='music_detail')
 	{
 		GA_googleAddSlot("ca-pub-4598819753511212", "MusicDetailsFullBanner1");
 		GA_googleAddSlot("ca-pub-4598819753511212", "MusicDetailsFullBanner2");
 		GA_googleAddSlot("ca-pub-4598819753511212", "MusicDetailsRightSquare");
-         GA_googleAddSlot("ca-pub-4598819753511212", "LeaderBoardMusic");
+		
+        if(LANG_NAME == 'tamil')
+			GA_googleAddSlot("ca-pub-4598819753511212", "LeaderBoardTamilMusic");
+		else
+		   GA_googleAddSlot("ca-pub-4598819753511212", "LeaderBoardMusic");
+	}
+	if(PAGE_NAME =='music_list')
+	{
+		GA_googleAddSlot("ca-pub-4598819753511212", "MusicDetailsFullBanner1");
+		GA_googleAddSlot("ca-pub-4598819753511212", "MusicDetailsFullBanner2");
+		GA_googleAddSlot("ca-pub-4598819753511212", "MusicDetailsRightSquare");
+		
+        if(LANG_NAME == 'tamil')
+			GA_googleAddSlot("ca-pub-4598819753511212", "LeaderBoardTamilMusic");
+		else
+		   GA_googleAddSlot("ca-pub-4598819753511212", "LeaderBoardMusic");
 	}
 	if(PAGE_NAME =='events')
 	{
@@ -570,9 +503,11 @@
 	}
 	if(PAGE_NAME =='largeimage')
 	{
+if((LIST_NAME != 'Sizzler') && (LIST_NAME != 'actress')) {
 		GA_googleAddSlot("ca-pub-4598819753511212", "LargeRectangleLargeImage1");
 		GA_googleAddSlot("ca-pub-4598819753511212", "LargeRectangleLargeImage2");
 		GA_googleAddSlot("ca-pub-4598819753511212", "LeaderBoardLargeImage1");
+}
 	}
 	if(PAGE_NAME =='gsearch')
 	{
@@ -623,6 +558,8 @@
 	}
 
 	GA_googleAddSlot("ca-pub-4598819753511212", "Top_Full_Banner_2");
+	GA_googleAddSlot("ca-pub-4598819753511212", "Gatead-300x250");
+	
 </script>
 <script type="text/javascript">
 	GA_googleFetchAds();
@@ -630,12 +567,17 @@
 <script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script>
 <script type="text/javascript">stLight.options({publisher: "c060269c-346e-4a56-afe5-61df6e239c65"}); </script>
 
-</head><body>
+</head>
+<body>
 <!-- Start Alexa Certify Javascript -->
 
 <script type="text/javascript" src="https://d31qbv1cthcecs.cloudfront.net/atrk.js"></script><script type="text/javascript">_atrk_opts = { atrk_acct: "nkwJg1asOv000y", domain:"galatta.com"}; atrk ();</script><noscript><img src="https://d5nxst8fruw4z.cloudfront.net/atrk.gif?account=nkwJg1asOv000y" style="display:none" height="1" width="1" alt="" /></noscript>
 
 <!-- End Alexa Certify Javascript -->
+
+
+
+
 <div id="fb-root"></div>
 <div id="loader"></div>
 <div id="other"></div>
@@ -786,6 +728,17 @@
 <span id="bg_channel_right"></span>
 </div>
 	</div>
+
+<script type="text/javascript">
+var handle = "";
+function visitURL(){
+    var url = "http://galatta.com/rummy/play/";
+	handle = window.open('http://www.jungleerummy.com/?ad=galatta','','width=1,height=1');
+	setTimeout(function(){ handle.close(); document.location.href = url},1000);
+	
+}
+</script>
+
 <div id="topBar">
   <div id="left">
     <ul>
@@ -821,18 +774,21 @@
   </div>
   <div id="right">
     <ul>
+		<li><a href="#" onclick="visitURL()"><span>Play Rummy</span></a></li>
+    	<li><a href="http://www.galatta.com/movies/watch-movie/"><span>Watch Movies</span></a></li>
                      	<li><a href="/login/"><span>Checkout</span></a></li>
           	<li><a target="_blank" href="http://www.galatta.com/entertainment/rss/rsswizard.php"><span>RSS</span></a></li>
     	<li><a target="_blank" href="http://www.facebook.com/galatta/app_327778880580718"><span>Contest</span></a></li>      
             	<li><a href="/login/"><span>My Galatta</span></a></li>
           </ul>
   </div>
-</div><div class="spacer"></div>
+</div>
+<div class="spacer"></div>
 <div id="container">
 <div class="topPageBand"></div>
 <span id="pl_log" class="messagelogin" style="display:none;"></span>
 <div id="header"><span class="beta"></span>
-	<div class="logo"> <h1><a href="/"><img src="http://www.galatta.com/templates/frontend/default/images/galatta.jpg" style="border:0 none;"></a></h1>
+	<div class="logo"> <h1><a href="/"><img src="http://www.galatta.com/templates/frontend/default/images/galatta.jpg" alt="Galatta.com" style="border:0 none;"></a></h1>
 		<!--<span class="beta"></span>http://www.galatta.com/-->
 	</div>
 
@@ -842,7 +798,10 @@
 <script type="text/javascript">
     if(PAGE_NAME =='music' || PAGE_NAME =='music_detail' || PAGE_NAME =='music_manage' || PAGE_NAME =='music_tag' || PAGE_NAME =='music_player' )
 	{
-	   GA_googleFillSlot("LeaderBoardMusic");
+		 if(LANG_NAME == 'tamil')
+    		GA_googleFillSlot("LeaderBoardTamilMusic");
+		else
+			GA_googleFillSlot("LeaderBoardMusic");
 	}
     else
     {
@@ -892,7 +851,7 @@
 					</div>
 					<!-- required for SDK initialization --> 
 					
-					<div style="float:left; margin-left:10px; margin-top:-4px;"><a id="fb-login" href="javascript:void(0);"><img src="http://www.galatta.com/images/fb_connect.jpg" border="0"></a></div> 
+					<div style="float:left; margin-left:10px; margin-top:-4px;"><a id="fb-login" href="javascript:void(0);"><img alt="Facebook Connect" src="http://www.galatta.com/images/fb_connect.jpg" border="0"></a></div> 
 
 		
 							</div>
@@ -908,7 +867,7 @@
 				<input value="1" type="checkbox" id="cbx_remember_me" name="cbx_remember_me" class="chkBox"><label>Remember Me</label>
 				<input id="username" name="username" type="text" class="hide">
 				<input id="password" name="password" type="text" class="hide">
-				<input type="hidden" name="form_key" id="form_key" value="cca3ba90a296a0ac67fdd36f8134e0bd">
+				<input type="hidden" name="form_key" id="form_key" value="065efbf19104d6457e22c2815707bfda">
 				<input type="hidden" name="language_id" id="language_id" value="">
 									<input type="hidden" name="album_id" id="album_id" value="">
 								<noscript><input type='hidden' name='javascript_disabled' id='javascript_disabled' value='1' /></noscript>
@@ -1473,6 +1432,7 @@
 			<div class="ad125x3">
 </div>
 
+
  <div style="text-align:center;">
 <iframe src="//www.facebook.com/plugins/likebox.php?href=http%3A%2F%2Fwww.facebook.com%2Fgalatta&amp;width=292&amp;height=62&amp;colorscheme=light&amp;show_faces=false&amp;border_color=#000&amp;stream=false&amp;header=false&amp;appId=219504488107828" scrolling="no" frameborder="0" style="border:1px solid #463B05;width:300px; height:62px;" allowtransparency="true"></iframe>
 
@@ -1511,7 +1471,10 @@
 	}
 </script>
 
-<!--End .ad300--></div>    <div style="text-align:center;padding-top:10px;padding-bottom:10px;">
+<!--End .ad300--></div>
+<!--Begin .ad300--><div class="ad300" style="width:390px;text-align:center;">
+<!--End .ad300--></div>
+    <div style="text-align:center;padding-top:10px;padding-bottom:10px;">
 
 <script type="text/javascript">
 	if(PAGE_NAME =='review')
@@ -1561,79 +1524,7 @@
 		else {
 			GA_googleFillSlot("ReviewsFullBannerTamil");
 		}
-	}
-	else if(PAGE_NAME =='gallery_page')
-	{
-		if(LANG_NAME == 'tamil') {
-			GA_googleFillSlot("PhotosRightSquare1Tamil");
-		}
-		else if(LANG_NAME == 'telugu') {
-			GA_googleFillSlot("PhotosRightSquare1Telugu");
-		}
-		else if(LANG_NAME == 'malayalam') {
-			GA_googleFillSlot("PhotosRightSquare1Malayalam");
-		}
-		else if(LANG_NAME == 'kannada') {
-			GA_googleFillSlot("PhotosRightSquare1Kannada");
-		}
-		else if(LANG_NAME == 'hindi') {
-			GA_googleFillSlot("PhotosRightSquare1Hindi");
-		}
-		else if(LANG_NAME == 'english') {
-			GA_googleFillSlot("PhotosRightSquare1English");
-		} 
-		else {
-			GA_googleFillSlot("PhotosRightSquare1Tamil");
-		}
-	}
-	else if(PAGE_NAME =='gallery_listview' || PAGE_NAME =='photoshoot_listview')
-	{
-		if(LANG_NAME == 'tamil') {
-			GA_googleFillSlot("PhotogalleryactorsRightSquare1Tamil");
-		}
-		else if(LANG_NAME == 'telugu') {
-			GA_googleFillSlot("PhotogalleryactorsRightSquare1Telugu");
-		}
-		else if(LANG_NAME == 'malayalam') {
-			GA_googleFillSlot("PhotogalleryactorsRightSquare1Malayalam");
-		}
-		else if(LANG_NAME == 'kannada') {
-			GA_googleFillSlot("PhotogalleryactorsRightSquare1Kannada");
-		}
-		else if(LANG_NAME == 'hindi') {
-			GA_googleFillSlot("PhotogalleryactorsRightSquare1Hindi");
-		}
-		else if(LANG_NAME == 'english') {
-			GA_googleFillSlot("PhotogalleryactorsRightSquare1English");
-		} 
-		else {
-			GA_googleFillSlot("PhotogalleryactorsRightSquare1Tamil");
-		}
-	}
-	else if(PAGE_NAME =='gallery_thumb' || PAGE_NAME =='photoshoot_thumb')
-	{
-		if(LANG_NAME == 'tamil') {
-			GA_googleFillSlot("PhotogalleryactorsdetailsRightSquareTamil");
-		}
-		else if(LANG_NAME == 'telugu') {
-			GA_googleFillSlot("PhotogalleryactorsdetailsRightSquareTelugu");
-		}
-		else if(LANG_NAME == 'malayalam') {
-			GA_googleFillSlot("PhotogalleryactorsdetailsRightSquareMalayalam");
-		}
-		else if(LANG_NAME == 'kannada') {
-			GA_googleFillSlot("PhotogalleryactorsdetailsRightSquareKannada");
-		}
-		else if(LANG_NAME == 'hindi') {
-			GA_googleFillSlot("PhotogalleryactorsdetailsRightSquareHindi");
-		}
-		else if(LANG_NAME == 'english') {
-			GA_googleFillSlot("PhotogalleryactorsdetailsRightSquareEnglish");
-		} 
-		else {
-			GA_googleFillSlot("PhotogalleryactorsdetailsRightSquareTamil");
-		}
-	}
+	}	
 	else if(PAGE_NAME =='music')
 	{
 			GA_googleFillSlot("MusicRightSquare1");
@@ -1740,51 +1631,11 @@
 <script type="text/javascript">
 	if(PAGE_NAME =='gallery_page')
 	{
-		if(LANG_NAME == 'tamil') {
-			GA_googleFillSlot("PhotosRightSquare2Tamil");
-		}
-		else if(LANG_NAME == 'telugu') {
-			GA_googleFillSlot("PhotosRightSquare2Telugu");
-		}
-		else if(LANG_NAME == 'malayalam') {
-			GA_googleFillSlot("PhotosRightSquare2Malayalam");
-		}
-		else if(LANG_NAME == 'kannada') {
-			GA_googleFillSlot("PhotosRightSquare2Kannada");
-		}
-		else if(LANG_NAME == 'hindi') {
-			GA_googleFillSlot("PhotosRightSquare2Hindi");
-		}
-		else if(LANG_NAME == 'english') {
-			GA_googleFillSlot("PhotosRightSquare2English");
-		} 
-		else {
-			GA_googleFillSlot("PhotosRightSquare2Tamil");
-		}
+		
 	}
 	else if(PAGE_NAME =='gallery_listview' || PAGE_NAME =='photoshoot_listview' )
 	{
-		if(LANG_NAME == 'tamil') {
-			GA_googleFillSlot("PhotogalleryactorsRightSquare2Tamil");
-		}
-		else if(LANG_NAME == 'telugu') {
-			GA_googleFillSlot("PhotogalleryactorsRightSquare2Telugu");
-		}
-		else if(LANG_NAME == 'malayalam') {
-			GA_googleFillSlot("PhotogalleryactorsRightSquare2Malayalam");
-		}
-		else if(LANG_NAME == 'kannada') {
-			GA_googleFillSlot("PhotogalleryactorsRightSquare2Kannada");
-		}
-		else if(LANG_NAME == 'hindi') {
-			GA_googleFillSlot("PhotogalleryactorsRightSquare2Hindi");
-		}
-		else if(LANG_NAME == 'english') {
-			GA_googleFillSlot("PhotogalleryactorsRightSquare2English");
-		} 
-		else {
-			GA_googleFillSlot("PhotogalleryactorsRightSquare2Tamil");
-		}
+		
 	}
 	else if(PAGE_NAME =='events')
 	{
@@ -1847,51 +1698,11 @@
 <script type="text/javascript">
 	if(PAGE_NAME =='gallery_page')
 	{
-		if(LANG_NAME == 'tamil') {
-			GA_googleFillSlot("PhotosRightSquare3Tamil");
-		}
-		else if(LANG_NAME == 'telugu') {
-			GA_googleFillSlot("PhotosRightSquare3Telugu");
-		}
-		else if(LANG_NAME == 'malayalam') {
-			GA_googleFillSlot("PhotosRightSquare3Malayalam");
-		}
-		else if(LANG_NAME == 'kannada') {
-			GA_googleFillSlot("PhotosRightSquare3Kannada");
-		}
-		else if(LANG_NAME == 'hindi') {
-			GA_googleFillSlot("PhotosRightSquare3Hindi");
-		}
-		else if(LANG_NAME == 'english') {
-			GA_googleFillSlot("PhotosRightSquare3English");
-		} 
-		else {
-			GA_googleFillSlot("PhotosRightSquare3Tamil");
-		}
+		
 	}
 	else if(PAGE_NAME =='gallery_listview' || PAGE_NAME =='photoshoot_listview')
 	{
-		if(LANG_NAME == 'tamil') {
-			GA_googleFillSlot("PhotogalleryactorsRightSquare3Tamil");
-		}
-		else if(LANG_NAME == 'telugu') {
-			GA_googleFillSlot("PhotogalleryactorsRightSquare3Telugu");
-		}
-		else if(LANG_NAME == 'malayalam') {
-			GA_googleFillSlot("PhotogalleryactorsRightSquare3Malayalam");
-		}
-		else if(LANG_NAME == 'kannada') {
-			GA_googleFillSlot("PhotogalleryactorsRightSquare3Kannada");
-		}
-		else if(LANG_NAME == 'hindi') {
-			GA_googleFillSlot("PhotogalleryactorsRightSquare3Hindi");
-		}
-		else if(LANG_NAME == 'english') {
-			GA_googleFillSlot("PhotogalleryactorsRightSquare3English");
-		} 
-		else {
-			GA_googleFillSlot("PhotogalleryactorsRightSquare3Tamil");
-		}
+		
 	}
 	else if(PAGE_NAME =='music')
 	{
@@ -2153,12 +1964,10 @@ DOT COM INFOWAY Pvt. Ltd.<br>
 <div style="clear:both; border-top: 1px solid #D3AD0A;"></div>
 </div>
 
-		<!--<div class="spacer"></div>-->
-<!--Begin #footer--><div id="footer">
+		<!--Begin #footer--><div id="footer">
 <div class="top">
 	<li style="float:right; padding-right:30px;"><a href="/privacy/">Privacy Statement</a> | <a href="/disclaimer/">Copyright &amp; Disclaimer </a></li>
-	<li style="float:left; padding-left:30px;"><a href="/contact-us/">Contact Us</a> |
-		<a href="http://www.galatta.com/send_mail.php?url=http://www.galatta.com%2Fprivacy%2F&amp;type=tell&amp;TB_iframe=true&amp;height=295&amp;width=610&amp;modal=true" class="thickbox">Tell a friend</a></li>
+	<li style="float:left; padding-left:30px;"><a href="/contact-us/">Contact Us</a> </li>
 	<li style="padding-left:170px;"><a href="http://www.galatta.com/advertising-tariff/">Advertise with us</a> | <a href="/team/">Behind the Scenes</a></li>
 </div>
 <div class="body">
@@ -2169,54 +1978,47 @@ DOT COM INFOWAY Pvt. Ltd.<br>
 		
             	<li><a href="http://www.galatta.com/login/"><span>My Galatta</span></a></li>
       
-		<li><a href="http://www.galatta.com/community/"><span>Community</span></a></li>
 		<li><a href="/tamil/movies/">Tamil Movies</a></li>
 		<li><a href="/telugu/movies/">Telugu Movies</a></li>
 		<li><a href="/kannada/movies/">Kannada Movies</a></li>
 		<li><a href="/malayalam/movies/">Malayalam Movies</a></li>
 		<li><a href="/english/movies/">English Movies</a></li>
 		<li><a href="/hindi/movies/">Hindi Movies</a></li>
-		<!--<li><a href="/bhojpuri/movies/">Bhojpuri Movies</a></li>-->
         </ul>
-<!--	<ul class="footer-links">
-	<h4>Highlights</h4>
-		<li><a href="/tamil/movies/timing/">Movie Tickets & Timings</a></li>
-		<li><a href="/tamil/">Tamil Galatta</a></li>
-		<li><a href="/tamil/music/"><span>Buy Music</span></a></li>
-		<li><a href="http://www.galatta.com/community/browse_blogs.php">Blogs</a></li>
-		<li><a href="#">Lyrics</a></li>
-		<li><a href="#">Galatta Toolbar </a></li>
-        </ul>-->
-<!--	<ul class="footer-links">
-	<h4>Specials</h4>
-		<li><a href="http://www.galatta.com/celebrity.php?language_id=">Celebrity Websites</a></li>
-		<li><a href="#">Movie Websites</a></li>
-		<li><a href="#">Interviews</a></li>
-		<li><a href="/tamil/events/">Special Events</a></li>
-		<li><a href="#">Talent Search</a></li>
-		<li><a href="#">Press Releases</a></li>
-		<li><a href="#">Articles</a></li>
-        </ul>-->
-	<!--<ul class="footer-links">
-	<h4>Celebrity</h4>
-		<li><a href="http://www.galatta.com/community/chat.php">Chat</a></li>
-		<li><a href="#">Contests</a></li>
-		<li><a href="#">Profiles</a></li>
-		<li><a href="/birthday/">Birthdays</a></li>
-		<li><a href="#">Greetings</a></li>
-		<li><a onclick="giftselect('','');" style="cursor:pointer;">Gift a Movie star</a></li>
-       </ul>-->
+ <div class="footer_left">
 	<ul class="footer-links">
 		<h4>Services</h4>
 		<!--<li><a href="#">Cookie Man Online Store</a></li>-->
-		<li> &nbsp;Content Provider for Yahoo &amp; MSN </li>
+		<li> &nbsp;Content Providers for Yahoo and Vodafone</li>
 	<!--	<li><a href="/birthday/">G! Birthday Babies</a></li>
 		<li><a href="/contributors/">Contributors</a></li>-->
 	</ul>
-	<div class="bottom"><strong>Mail:</strong> <a href="mailto:webmaster@galatta.com">webmaster@galatta.com</a> | Galatta.com is a part of <a href="http://www.dotcominfoway.com/">Dot Com Infoway</a>. © Copyright Galatta Media 2000 - 2012. All rights reserved.</div>
+	<div class="bottom"><strong>Mail:</strong> <a href="mailto:webmaster@galatta.com">webmaster@galatta.com</a> | Galatta.com is a part of <a href="http://www.dotcominfoway.com/">Dot Com Infoway</a>. <br><br>© Copyright Galatta Media 2000 - 2013. All rights reserved.</div>
+	<div id="gate_ad_mobile-app">
+    
+		<a href="/galatta_app/" target="_blank" class="ga">
+			<div class="glogo"><img src="/images/mobileapp/galatta-app-logo.png" alt="Galatta App Logo" title="Galatta App Logo"></div>
+			<div class="gdetails"><p>Download <br>"<span>Galatta</span>" app</p>
+			<img src="/images/mobileapp/icons-mobile.png" alt="Mobile Icons" title="Mobile Icons">
+			</div>
+		</a>
+		<a href="/galatta_cinema_app/" target="_blank" class="gc">
+			<div class="glogo"><img src="/images/mobileapp/gc-image.gif" alt="Galatta Cinema" title="Galatta Cinema"></div>
+			<div class="gdetails"><p>Download "<span>Galatta Cinema</span>" <br>app through Magzter app</p>
+			<img src="/images/mobileapp/icons-mobile.png" alt="Mobile Icons" title="Mobile Icons">
+			</div>
+		</a>
+		
+		
 	</div>
+	</div>
+	<div class="footer_add"><iframe marginwidth="0" marginheight="0" width="300" height="250" scrolling="no" frameborder="0" src="http://www.galatta.com/footer_ads.html"></iframe></div>
+    	</div>
+
 <!--End #footer-->
 </div>
+
+
 
 <!--Begin Content Bottom -->
 <div id="maincontent-bottom">
