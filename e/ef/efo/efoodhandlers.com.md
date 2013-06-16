@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the efoodhandlers.com privacy policy that was archived on 2012-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121107170636id_/http%3A//efoodhandlers.com/Content.aspx%3FPageName%3DPrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the efoodhandlers.com privacy policy that was archived on 2013-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130616024828id_/http%3A//www.efoodhandlers.com/Content.aspx%3FPageName%3DPrivacyPolicy) for the most accurate reproduction.*
 
 # eFoodhandlers Testing and Training - PrivacyPolicy
 
@@ -12,6 +12,7 @@
   * Our Commitment To Data Security
   * What About Food handler Credentials
   * What About Surveys
+  * What About Other Solicitations
 
 **Our Commitment To Privacy**  
 Your privacy is important to us. To better protect your privacy we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used. 
@@ -23,6 +24,7 @@ Name
 Address   
 Birthdate  
 Phone Number   
+Picture (if submitted)   
 (etc.) 
 **_We do not collect or save credit card information._
 
@@ -40,10 +42,13 @@ Finally, we never use or share the personally identifiable information provided 
 
 **Our Commitment To Data Security**
 
-To prevent unauthorized access, maintain data accuracy, and guard against incorrect use of information, we have put in place appropriate physical, electronic, and managerial procedures to safeguard and secure the information we collect online. 
+To prevent unauthorized access, maintain data accuracy, and guard against incorrect use of information, we have put in place physical, electronic, and managerial procedures to safeguard and secure the information we collect online. 
 
 **What about Food handler Credentials**  
-We do allow employers and any other who can identify you by First Name, Last Name and Birthdate to view the status and outcome of your training. Refer to the [View Credentials](https://web.archive.org/web/20121107170636id_/http%3A//efoodhandlers.com/VerifyCredentials.aspx) portion of the website. We do not give employer access to information regarding failed tests. When you use a company Purchase Order or Facility code, you are also giving employers access to all information within your registration. Parents who can identify their child, can also gain access to credentials. 
+We do allow employers and any other who can identify you by First Name, Last Name and Birthdate to view the status and outcome of your training. Refer to the [View Credentials](https://web.archive.org/web/20130616024828id_/http%3A//www.efoodhandlers.com/VerifyCredentials.aspx) portion of the website. We do not give employer access to information regarding failed tests. When you use a company Purchase Order or Facility code, you are also giving employers access to all information within your registration. Parents who can identify their child, can also gain access to credentials. 
 
 **What about Surveys**  
 We may solicit you by email to gain your feedback concerning our services. You will have the ability to 'Opt Out' out of any such solicitations. We also encourage you to submit feedback about your online experience with us using the User Survey link under the Other Options tab. After you have taken a survey, we may contact you to answer a question or to respond to a concern. We also may make your comments available to the public, although no last names will be disclosed. An example might appear like this. "What a great site" John D - Los Angelas If you do not choose to have your information disclosed in this manner, contact [support@eFoodhandlers.com](mailto:support@eFoodhandlers.com?Subject=PrivacyPolicy). 
+
+**What about Other Solicitations**  
+We may periodically feature other eFoodhandlers products and/or services that may be of interest to you. We will also send you renewal reminders if your certificate is approaching expiration. Any solicitations will be done exclusively via email. You will be given the option of opting out of any such solicitations. 
