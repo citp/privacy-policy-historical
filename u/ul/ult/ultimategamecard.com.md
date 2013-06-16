@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ultimategamecard.com privacy policy that was archived on 2012-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121224222833id_/http%3A//www.ultimategamecard.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ultimategamecard.com privacy policy that was archived on 2013-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130616041633id_/http%3A//ultimategamecard.com/privacy.html) for the most accurate reproduction.*
 
 # Ultimate Game Card
 
@@ -99,4 +99,4 @@ How to contact PlaySpan regarding your privacy concerns and questions
 
 If you have questions or comments about our privacy practices, please email us at [info@playspan.com](mailto:info@playspan.com) or write to us at: Visa U.S.A. Inc., Attention: Global Privacy Office, P.O. Box 8999, Mailstop M4-1SW, San Francisco, CA 94128.
 
-© 2012 Ultimate Game Card. All Rights Reserved. 
+© 2013 Ultimate Game Card. All Rights Reserved. 
