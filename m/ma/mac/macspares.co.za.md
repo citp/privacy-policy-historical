@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the macspares.co.za privacy policy that was archived on 2012-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121214202830id_/http%3A//www.macspares.co.za/index.php%3Fmain_page%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the macspares.co.za privacy policy that was archived on 2013-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130616064051id_/http%3A//www.macspares.co.za/index.php%3Fmain_page%3Dprivacy) for the most accurate reproduction.*
 
 # Privacy Notice : MacSpares | Wholesale spare parts, Supplying Africa by E-Commerce
 
