@@ -1,95 +1,131 @@
-> *The following text is extracted and transformed from the mymove.com privacy policy that was archived on 2012-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120630112706id_/http%3A//www.mymove.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mymove.com privacy policy that was archived on 2013-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130616144033id_/http%3A//www.mymove.com/about/policy/privacy.html) for the most accurate reproduction.*
 
-# MyMove™ - Privacy Policy
+# Privacy | My Move
 
-**Privacy Statement**
+This Privacy Policy is effective as of June 11, 2013.
 
-This Privacy Statement is effective as of October 26, 2011. 
+We are committed to respecting the privacy of visitors to our websites.  We have created this Privacy Policy to describe how our websites and social media applications operate, and how we collect, use, and share information gathered from our online visitors.
 
-We are committed to respecting the privacy of visitors to our websites.  We have created this Privacy Statement to describe how our websites operate, and how we collect, use, and share information gathered from our online visitors.
+This Privacy Policy applies to http://www.mymove.com owned and operated by Imagitas, Inc. a Pitney Bowes company, ("Imagitas") referred to in this policy as “Sites,” and social media applications (each an “App”) owned and operated by Imagitas.
 
-This Privacy Statement applies to http://www.mymove.com owned and operated by Imagitas, Inc. a Pitney Bowes company, ("Imagitas") referred to in this statement as "Sites".
+**Sites**
+
+Imagitas, Inc. has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with TRUSTe's [program requirements](http://www.truste.com/privacy_seals_and_services/consumer_privacy/privacy-programs-requirements.html) including transparency, accountability and choice regarding the collection and use of your personal information. The TRUSTe program covers information collected through this Web site, www.mymove.com.TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions.  If you have questions or complaints regarding our privacy policies or practices, please contact us at [info@mymove.com](mailto:info@mymove.com); (781) 906-4800.  If you are not satisfied with our response you can contact [TRUSTe here](https://feedback-form.truste.com/watchdog/request).  
+**  
+The following topics are presented in this Privacy Policy:  
+**  
+1.   Collecting and Using Personal Information from Website Visitors  
+2.   Collecting and Using Other Information  
+3.   Sharing Personal Information  
+4.   Protecting Personal Information  
+5.   Transferring Personal Information to Other Countries  
+6.   Blogs and Public Forums
+
+7.   Visiting Non-Imagitas Websites  
+8.   Country-Specific Requirements  
+9\.   Your Choices  
+10\. Our Right to Change this Privacy Policy
 
   
 **  
-1\. Collecting Personal Information from Website Visitors**  
-In order to provide you with access to certain services or data within our Sites, we may require that you provide certain personal information. This information may include your name, postal address, telephone number, fax number, e-mail address, subscriber name or screen name and password used to access our services.   
-The Personal Information you provide when you become a registered user or customer of the Site is used primarily to help us customize your online experience, increase the convenience of accessing new tools, products and services, and, if applicable, provide the products and/or services you purchase or request. This Personal Information may also be used to make your use of the Site more convenient by, for example, limiting the number of times you have to register with us. If registration is available and You register with the Site, You will be assigned a unique identifier in our record system, that together with your password, is designed to prevent unauthorized access to any information you choose to store on the Site. The data you give us about your personal preferences and demographics (e.g., ZIP code, occupation or the like) may be used to help us offer content, advertisements, products, and services that we believe will be of interest to you. In addition, we may share this information, with our current and potential advertisers so that they can present advertisements more effectively. 
+1\. Collecting and Using Personal Information from Website Visitors**  
+In order to provide you with access to certain services or data within our Sites, we may require that you provide certain personal information. This information may include your name, postal address, telephone number, fax number, e-mail address, subscriber name or screen name and password used to access our services.
 
-  
-In addition, we collect information provided by visitors in registration forms, surveys, contest entries, emails, and other submissions to us.   
+The Personal Information you provide when you become a registered user or customer of the Site is used primarily to help us customize your online experience, increase the convenience of accessing new tools, products and services, and, if applicable, provide the products and/or services you purchase or request. This personal information may also be used to make your use of the Site more convenient by, for example, limiting the number of times you have to register with us. If registration is available and you register with the Site, you will be assigned a unique identifier in our record system, that together with your password, is designed to prevent unauthorized access to any information you choose to store on the Site. The data you give us about your personal preferences and demographics (e.g., ZIP code, occupation or the like) may be used to help us offer content, advertisements, products, and services that we believe will be of interest to you. Also, we may share this information with our current and potential advertisers so that they can present advertisements more effectively.
+
+In addition, we collect information provided by visitors in registration forms, surveys, contest entries, emails, and other submissions to us. If you choose to participate in these surveys, contests, or other submissions, we may request certain personal information from you.  Participation in these offers is completely voluntary, and you therefore have a choice whether or not to disclose this information.
+
 We also collect and track automatically (1) the home server domain names, IP addresses, type of client computer, and type of web browser of visitors to our Sites, and (2) aggregate and specific information on what pages visitors access.
 
-**2.   Blogs**
+Personal information we collect through our Sites will be used to, among other things, fulfill orders and requests for information, for marketing and promoting products and services of Imagitas and other entities that we believe you may find of interest, for feedback purposes, for a statistical analysis of users' behavior, for product development or enhancement, for content improvement, to notify you of upcoming events and to customize content and layout of our Sites. Names, postal and e-mail addresses, and phone numbers collected through our Sites may be used to contact you regarding products and services and upcoming events we believe you might find of interest.
 
-Our Web site offers publicly available blogs, bulletin boards, chat rooms or other community forums.  You should be aware that any information you provide in these areas may be read, collected and used by others who access them.
+We also may use the personal information you provide for our internal purposes, such as administration and operation of our Sites, data analytics, and compliance with our legal obligations, policies and procedures.
 
-**  
-3.   Collecting Other Information**  
-Imagitas uses several automatic data collection tools and techniques including cookies, clickstream, and web beacons.   
+We may combine (1) your personal information with other non-personal information collected from and about you on the Site, and (2) online and offline information collected from and about you.
+
+**2.   Collecting and Using Other Information**  
+Imagitas uses several automatic data collection tools and techniques including cookies, clickstream, and web beacons.  
 **  
 Cookies**  
-We use a technology called "cookies" ] so that we can better serve visitors when they  visit our Sites, request additional information about our company, products or services, or participate in various activities posted on our Sites.   A cookie is a bit of text that is placed on a user's computer hard drive when certain websites are visited.   
-These cookies may be placed by us or by third party vendors (including Google) and are used to obtain data such as user name, shopping cart contents, and web pages or advertisements viewed by the visitor. When the visitor revisits our Sites, we can recognize the visitor by the Internet cookie and customize the visitor's experience accordingly. You may opt out of Google's use of cookies by visiting the [Google advertising opt-out page](http://www.google.com/privacy_ads.html) at [http://www.google.com/privacy/ads/](http://www.google.com/privacy/ads/)
+We use a technology called "cookies" so that we can better serve visitors when they visit our Sites, request additional information about our company, products or services, or participate in various activities posted on our Sites.   A cookie is a bit of text that is placed on a user's computer hard drive when certain websites are visited.
+
+We use both session ID cookies and persistent cookies. We use session cookies to make it easier for you to navigate our Sites. A session ID cookie expires when you close you browser. A persistent cookie remains on your hard drive for an extended period of time. You can remove persistent cookies by following directions provided in your Internet browser’s “help” file.
+
+These cookies may be placed by us or by third party service providers and are used to obtain data such as user name, shopping cart contents, and web pages or advertisements viewed by the visitor. When the visitor revisits our Sites, we can recognize the visitor by the Internet cookie and customize the visitor's experience accordingly. You may learn more about the use of cookies and opt out of certain service provider’s use of cookies [here](http://www.google.com/policies/privacy/ads/) and [here](http://www.networkadvertising.org/choices/).
 
 **Third Party Cookies**
 
-The use of cookies by our partners and service providers is not covered by our privacy statement.  We do not have access or control over these cookies.  Our partners and service providers use session ID cookies to make it easier for you to navigate our site, in order for you to use the shopping cart, etc. 
+Our partners and service providers use session ID cookies to make it easier for you to navigate our Site, in order for you to use the shopping cart, marketing, provide information on products and services etc.  The use of cookies by our partners and service providers is not covered by our privacy policy.
 
-You can set your browser to provide notice whenever a cookie is received, which gives you the opportunity to decide whether to accept it or not.  Without cookies, however, you may not be able to take full advantage of all our Site features. For example, if you turn off cookies or refuse them, you may not be able to view or participate in certain valuable savings or services.    
-In addition, we and our service providers sometimes use "clear GIFs" in connection with cookies and other website functions. Clear GIFs perform administrative functions without detracting from your online experience. They may be used to perform statistical and administrative tasks including measuring site and page traffic, verifying advertising avenues and positioning images on the web. Clear GIFs do not collect Personal Information.  
+You can set your browser to provide notice whenever a cookie is received, which gives you the opportunity to decide whether to accept it or not.  Without cookies, however, you may not be able to take full advantage of all our Site features. For example, if you turn off cookies or refuse them, you may not be able to view or participate in certain valuable savings or services. 
+
+In addition, we and our service providers sometimes use "clear GIFs" in connection with cookies and other website functions. Clear GIFs perform administrative functions without detracting from your online experience. They may be used to perform statistical and administrative tasks including measuring site and page traffic, verifying advertising placements and positioning images on the web. Clear GIFs do not collect personal information.  
 **  
-Clickstream**  
-Certain of our Sites may collect information about the "clickstream" of our customers during their visit to our Sites. This clickstream data contains the pages the visitors came from, the navigational paths they took, and the areas of the Sites they visited.   
-From time to time, we track such information inside and outside of our Sites.  Additionally, we may from time to time track and match clickstream data with personal information you provide to us in order to deliver content and other offerings - i.e., products and services that might improve your customer experience.  We may also share that information with third parties. [
+Single Sign-On**
 
-This site uses web analytics service. Our web analytics provider may record mouse clicks, mouse movements, scrolling activity as well as text you type in this website. This analytics service does not  collect any personally identifiable information entered in this website. The analytics service does not track your browsing habits across web sites which do not use the analytic services. For more information see [Privacy Policy for Information Collected by the ClickTale Web Analytics Service](http://www.clicktale.com/privacy_service.aspx). We are using the information collected by the analytics service provider to enhance user experience on the site. You can choose to disable the Service at [http://www.clicktale.net/disable.html](http://www.clicktale.net/disable.html).
+You may log in to the Site using sign-on services such as Facebook Connect or an Open ID provider.  These services will authenticate your identity and provide you the option to share certain personal information with us such as your name and email address to pre-populate our registration form.  These sign-on services may also give you the option to post information about your activities on this Site to your profile page to share with others in your network.
 
-**  
-Web Beacon**  
+**Social Media Widgets**
+
+Our Site may include social media features such as the Facebook Like button or other features that allow you to share content or experiences on our Site or interact with our Site using the feature.  These features may collect your IP address, the page you are visiting on our Site, and may set a cookie to enable the social media feature to function properly.  These social media features are hosted by a third party or hosted directly on our Site.  Your interactions with these features are governed by the privacy policy of the company providing the feature.
+
+**Social Media Apps**
+
+When using our social media App, we may collect certain information from and about you including your name, email address, social media user ID, friends or contacts list (as provided by the social media network or with your consent), current and former addresses, dates of residency at various addresses, public information about you provided by your social network.  We may also collect information such as recommendations, reviews, or comments you choose to share through our App.
+
+Information we collect from and about you through the App is used to personalize your experience on the App and share information with your social network friends or contacts that use the App or others in your social network based on your social network privacy settings.  We may also share aggregate or anonymous information we collect from and about our App users with third parties for informational or marketing purposes.  For example, we may use aggregate information to identify the volume or percentage of App users that moved within a certain period of time, or identify the most popular cities based on the relocation of App users.
+
+Personal information we collect from and about you through the App is only used within and to manage the App.  It is not combined with other information we may have collected from and about you through our Sites.  If you interact or communicate with us through our Sites, we will handle your personal information as otherwise described in this privacy policy.
+
+**Clickstream**  
+Certain of our Sites may collect information about the "clickstream" of our customers during their visit to our Sites. This clickstream data contains the pages the visitors came from, the navigational paths they took, and the areas of the Sites they visited.
+
+From time to time, we track such information inside and outside of our Sites.  Additionally, we may from time to time track and match clickstream data with personal information you provide to us in order to deliver content and other offerings such as products and services that might improve your customer experience.  We may also share that information with third parties.
+
+This Site uses web analytics services. Our web analytics provider may record mouse clicks, mouse movements, scrolling activity as well as text you type in this Site. This analytics service does not collect any personal information entered in this Site. The analytics service does not track your browsing habits across websites which do not use the analytic services. For more information click [here](http://www.clicktale.com/privacy_service.aspx). We are using the information collected by the analytics service provider to enhance user experience on the Site. You can choose to disable the service [here](http://www.clicktale.net/disable.html).
+
+**Web Beacon**  
 Certain email communications you may receive from us may contain "web beacons."   Web beacons consist of a line of code on our Sites that delivers a small graphic image from another website or third-party ad server. The web beacon may not be visible as it is generally a 1x1 pixel that is often designed to blend into the background of a web page. Web beacons allow third parties to obtain information such as the IP address of the computer that downloaded the page on which the web beacon appears, the URL of the page on which the web beacon appears, the time the page containing the web beacon was viewed, the type of browser used to view the page and the information in cookies set by the third party.  We may use web beacons for activities such as monitoring the effectiveness of the content, advertising, or promotions in our email distributions.
 
-**4.   How We  Use Personal Information**  
-Personal information we collect through our Sites will be used to, among other things, fulfill orders and requests for information, for marketing and promoting products and services of Imagitas and other entities that we believe you may find of interest, for feedback purposes, for a statistical analysis of users' behavior, for product development or enhancement, for content improvement, to notify you of upcoming events and to customize content and layout of our Sites. Names, postal and e-mail addresses, and phone numbers collected through our Sites may be used to contact you regarding products and services and upcoming events we believe you might find of interest.   
-We also may use the personal information you provide for Imagitas internal purposes, such as administration and operation of our Sites, data analytics, and compliance with our legal obligations, policies and procedures.   
-**  
-5.   Sharing Personal Information**  
-We do not share or otherwise disclose personal information about our Site visitors, except as described here or where permitted by law.  Imagitas may share your personal information within the Imagitas family of businesses, which include our parent company Pitney Bowes Inc. and its affiliates and subsidiaries,  and with third parties that perform services for us or on our behalf (for example, advertisers, service providers, financial institutions, shipping companies, consultants, advisors and market research firms).  We also may disclose personal information when, in our judgment, we believe it is necessary or appropriate to prevent fraud, injury, or harm to persons or property, to protect our rights or the rights of others, or as otherwise required by applicable law, regulation or legal process.  For products and services offered to you jointly by us and a third party, your Personal Information may be shared with or independently gathered by the third party. In these situations, Imagitas will only use your Personal Information as outlined in this Privacy Policy, but the third party may use the information in different ways. You can tell when a product or service is offered by a third party, because a page or relevant portion of the page on the Sites  will display the third party's logo and/or name along with our own, or you will be linked to the third party's site to complete the transaction. Please be aware that each company we do business with has its own policies regarding the use and protection of your information that may differ from those outlined in this Privacy Policy. 
+**Flash LSOs**
 
-  
-Referrals: If you opt in to participate in any referral service we may offer, we use the information you submit to determine which of our participating professional(s) may be able to serve your needs. We may then forward your information, which may include Personal Information, contained on our sign-up form to certain professional(s), who may then contact you. 
+We use local shared objects, also known as Flash cookies, to store your preferences such as volume control or high game score, or display content based upon what you view on our site to personalize your visit. Third Parties, with whom we partner to provide certain features on our site or to display advertising based upon your Web browsing activity, use Flash cookies to collect and store information. Flash cookies are different from browser cookies because of the amount of, type of, and how data is stored. Cookie management tools provided by your browser will not remove Flash cookies.  To learn how to manage privacy and storage settings for Flash cookies click [here](http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager.html#117118).
 
-We may provide rent, sell, or otherwise share the personal information we collect from you for marketing campaigns conducted by us or other companies or organizations that offer products or services we believe may be of interest to our customers. By agreeing to open a MyMove  account, you agree to have this personal information used and/or shared for marketing purposes in this way.
+**3.   Sharing Personal Information**  
+We do not share or otherwise disclose personal information about our Site visitors, except as described here or where permitted by law.  Imagitas may share your personal information within the Imagitas family of businesses, which include our parent company Pitney Bowes Inc. and its affiliates and subsidiaries.  We may also share your personal information with third parties that perform services for us or on our behalf (for example, advertisers, service providers, financial institutions, shipping companies, consultants, advisors and market research firms); however, these third parties may only use your personal information as necessary to provide services to us.  We also may disclose personal information when, in our judgment, we believe it is necessary or appropriate to prevent fraud, injury, or harm to persons or property, to protect our rights or the rights of others, or as otherwise required by applicable law, regulation or legal process.  For products and services offered to you jointly by us and a third party, your personal information may be shared with or independently gathered by the third party. In these situations, Imagitas will only use your personal information as outlined in this Privacy Policy, but the third party may use the information in different ways. You can tell when a product or service is offered by a third party, because a page or relevant portion of the page on the Sites  will display the third party's logo and/or name along with our own, or you will be linked to the third party's site to complete the transaction. Your personal information will be shared with these third parties only when you elect to participate in the joint offer or third party offer.  Please be aware that each company we do business with has its own policies regarding the use and protection of your information that may differ from those outlined in this Privacy Policy.
 
-Personal information may also be transferred in connection with a business transition such as a merger, acquisition, insolvency, or asset sale involving any Imagitas business or asset to which the information pertains.  Should such a sale or transfer occur, we will use reasonable efforts to direct the transferee to use personal information you have provided to us in a manner that is consistent with our Privacy Statement.
+Referrals: If you opt in to participate in any referral service we may offer, we use the information you submit to determine which of our participating professional(s) may be able to serve your needs. We may then forward your information, which may include personal information, contained on our sign-up form to certain professional(s), who may then contact you via email or telephone regarding the service.
 
-**  
-6\. Protecting Personal Information**  
+Personal information may also be transferred in connection with a business transition such as a merger, acquisition, insolvency, or asset sale involving any Imagitas business or asset to which the information pertains.  Should such a sale or transfer occur, we will use reasonable efforts to direct the transferee to use personal information you have provided to us in a manner that is consistent with our Privacy Policy and we will provide appropriate notice to you.
+
+**4\. Protecting Personal Information**  
 We maintain reasonable administrative, technical and physical safeguards to protect against loss, misuse or unauthorized access, disclosure, alteration or destruction of personal information you provide on our Sites.  
 **  
-7\. Transferring Personal Information to Other Countries**  
-Where permitted by local laws and regulatory requirements, we may transfer the personal information we collect on our Sites to other countries where we, and our service providers, do business, but we will do so only for the purposes described above.   
+5\. Transferring Personal Information to Other Countries**  
+Where permitted by local laws and regulatory requirements, we may transfer the personal information we collect on our Sites to other countries where we, and our service providers, do business, but we will do so only for the purposes described above.  
 **  
-8\. Visiting Non-Imagitas Websites**  
-This privacy statement applies solely to information collected during your use of our Sites. Our Sites may contain links to other websites that may operate independently from Imagitas.  These and other websites may also reference or link to our Sites.  
-Imagitas is not responsible for the privacy practices or the content of such other non-Imagitas websites.  We encourage you to be aware of the privacy statements of each and every website with which you may interact.  
+6.   Blogs and Public Forums**
+
+Our Site offers publicly available blogs, bulletin boards, chat rooms, ratings or reviews, or other community forums.  You should be aware that any information you provide in these areas may be read, collected and used by others who access them.  We encourage you to be cautious when submitting personal information in these public areas.  To request removal of your personal information from our blog or community forum, contact us at [info@mymove.com](mailto:info@mymove.com).  In some cases, we may not be able to remove your personal information.  In that event, we will provide appropriate notice to you.
+
+**7\. Visiting Non-Imagitas Websites**  
+Our Sites may contain links to other websites, which may have privacy policies that differ from our own.  Imagitas is not responsible for the privacy practices or the content of such other third party websites.  We encourage you to be aware of the privacy policies of each and every website with which you may interact.  
 **  
-9\. Country-Specific Requirements**  
-Imagitas Inc. is a subsidiary of Pitney Bowes, Inc. a global corporation with subsidiary companies located around the world.  This Privacy Statement establishes Pitney Bowes' global principles for the collection, use and disclosure of information gathered through our Sites.   The country in which you are doing business with us or where the Site you are visiting is located/hosted may have specific requirements concerning personal information.  
+8\. Country-Specific Requirements**  
+Imagitas Inc. is a subsidiary of Pitney Bowes, Inc. a global corporation with subsidiary companies located around the world.  This Privacy Policy establishes Pitney Bowes' global principles for the collection, use and disclosure of information gathered through our Sites.   The country in which you are doing business with us or where the Site you are visiting is located/hosted may have specific requirements concerning personal information.  
 **  
-10\. Your Choices**  
+9\. Your Choices**  
 If you wish to update or remove your personal information, opt out from receiving, or opt in to receive, marketing communications from us please do so by indicating your preferences by contacting us at the mail or email address below.  To opt out of receiving marketing emails from third parties, please use the unsubscribe feature within their emails.
 
-If you have any questions or comments about this Privacy Statement, please contact us at:  
+If you have any questions or comments about this Privacy Policy, please contact us at:  
 Imagitas Privacy Officer  
-48 Woerd Ave., Waltham, MA 02453   
-or
-
-[privacyofficer@imagitas.pb.com](mailto:privacyofficer@imagitas.pb.com); (781) 906-4800
+48 Woerd Ave., Waltham, MA 02453  
+or  
+[info@mymove.com](mailto:info@mymove.com); (781) 906-4800
 
 Where required by law, you may request access to your personal information that we maintain.  As permitted by law, we may charge a reasonable fee for providing access to personal information, but we do not charge for lodging a request for access.
 
-You may elect to terminate your MyMove account at any time.  If you do, we will make commercially reasonable efforts to delete your personal information on our servers, although some data that cannot be removed in a commercially reasonable manner may remain in the MyMove secure database.   
+We will retain your information for as long as your account is active or we have a business need to do so.  You may elect to terminate your MyMove account at any time.  If you do, we will make commercially reasonable efforts to delete your personal information on our servers, although some data that cannot be removed in a commercially reasonable manner may remain in the MyMove secure database.  Additionally, your data that was previously archived may be stored in our offline backups.  
 **  
-11\. Our Right to Change this Privacy Statement**  
-This Privacy Statement may be updated periodically to reflect changes in our online information practices. We will not use your personal information in ways that differ from this Privacy Statement without prior notice to you and an opportunity for you to opt out, and in no event will we use your personal information in ways prohibited by law.  If we make a material change to our privacy policy, we will let you know, and give you an opportunity to decide whether to continue using the MyMove service, and whether you agree to any new uses of information we have already collected. We will indicate at the top of the statement when it was most recently updated. We recommend that you visit our Privacy Statement page whenever you visit our Sites so that you are aware of any changes.
+10\. Our Right to Change this Privacy Policy**  
+This Privacy Policy may be updated periodically to reflect changes in our online information practices. When we make a change to this Privacy Policy, we will post the change(s) on the Site.  If we change the Privacy Policy in a material way, we will provide appropriate online notice to you by means of a notice on this Site prior to the change becoming effective. We encourage you to periodically review this page for the latest information on our privacy practices.
