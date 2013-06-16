@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the aam-us.org privacy policy that was archived on 2012-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121231203231id_/http%3A//www.aam-us.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aam-us.org privacy policy that was archived on 2013-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130616205249id_/http%3A//www.aam-us.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -32,5 +32,4 @@ Upon request, we provide site visitors with access to unique identifier informat
 
 We always use industry-standard encryption technologies when transferring and receiving consumer data exchanged with our site. When transferring and receiving certain types of sensitive information (such as financial information), we redirect visitors to a secure server and will notify visitors through a pop-up screen on our site. The Alliance has appropriate security measures in place at our physical facilities to protect against the loss, misuse or alteration of information that we have collected from you at our site.
 
-If you feel that this site is not following its stated information policy, you may contact us through e-mail, telephone or written correspondence (see contact information above).   
-
+If you feel that this site is not following its stated information policy, you may contact us through e-mail, telephone or written correspondence (see contact information above). 
