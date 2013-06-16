@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vindy.com privacy policy that was archived on 2012-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121120140126id_/http%3A//www.vindy.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vindy.com privacy policy that was archived on 2013-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130616090758id_/http%3A//www.vindy.com/privacy) for the most accurate reproduction.*
 
 # Youngstown News, The Vindicator Web Site Privacy Policy
 
@@ -12,7 +12,7 @@ This privacy policy is effective as of September 17, 2001. We reserve the right 
 
 While visiting the Sites, you can be assured that no personal information is collected, retained or used by The Vindicator with one exception:  The Vindicator intends to collect certain personal information when you are using the interactive areas discussed below.  By “personal information” we mean information that is uniquely identified to you, such as your name, e-mail address, postal address, telephone numbers, password and user ID. 
 
-#### **a. **Aggregate Information.** **
+#### **a. **Aggregate Information.****
 
 (1)       The Vindicator may keep track of user behavior by collecting information about (by way of illustration) the number of people who visit a Site and the number of people who visit each page of a Site, and perform statistical analyses of aggregate user behavior, but not based on personal information about you (see Section II below).  The Vindicator will not be using or collecting personal information to do that.  These aggregate analyses allow us to measure the popularity of the Sites and individual features of the Sites for purposes of further development of the Sites.  All information that is collected is used for our own internal purposes to evaluate the content of the Sites, to enhance users’ experiences when visiting the Sites, to customize the content and/or layout of our pages and to provide the services required by an individual user. 
 
@@ -30,15 +30,15 @@ While visiting the Sites, you can be assured that no personal information is col
 
 (5) The Vindicator also may supply the personal information to advertisers, potential advertisers, marketing firms, and others with a commercial or noncommercial interest in the information.  Those third parties may provide information to you about other goods and services, unless you choose to opt-out of having your personal information shared with third parties through the opt-out opportunity provided as part of the registration process.   The opt-out opportunity, however, does not apply in the circumstances described in part **c.** below.
 
-#### **c. Other Disclosures to Third Parties – subpoenas, court and government orders, our attorneys**
+####  **c. Other Disclosures to Third Parties – subpoenas, court and government orders, our attorneys**
 
 By making a submission to the Site(s) or registering for an account, you assume the risk that a court or government agency may order The Vindicator to disclose your submission and/or personally identifying information about you, or that a litigant, a court, a grand jury, or government agency may subpoena that information.  In all such circumstances, The Vindicator reserves the sole discretion to decide how to respond to any such orders or subpoenas, including full compliance and disclosure without prior notice to you.  In the course of responding to a subpoena or order, or in the course of other activities, such as (by way of illustration) defending a lawsuit, The Vindicator may need to consult its own attorneys.  In doing so, The Vindicator may disclose personal information to its attorneys.  The opt-out opportunity does not apply to disclosures made by The Vindicator in response to subpoenas, orders, or to its own attorneys.
 
-### **II. Use of Cookies.**
+###  **II. Use of Cookies.**
 
 Like many other commercial sites, the Sites may utilize a standard technology called a "cookie" to collect information about how each Site is used. Cookies help a web site recognize a user's browser as a previous visitor and thus save and remember any preferences that may have been set while the user was browsing the site. ****A cookie cannot retrieve any other data from your hard drive, pass on a computer virus or capture your e-mail address. The Vindicator uses cookies to see which areas are popular and which are not, and to ensure that users who participate in such activities as polls or surveys may not participate more than once.   Many improvements and updates to our Sites are based on the data collected through the cookies, such as total number of visitors and pages viewed.  Cookies on our Sites will not collect personal information of users who are only browsing the Site.  Cookies may collect your domain name and track your selections through our web pages.  When a user is interacting with one of our features, or interacting in some other way using our Sites, cookies may collect the personal information of the user.
 
-### **III. The Advertising On Our Sites.**
+###  **III. The Advertising On Our Sites.**
 
 The advertising contained on the Sites is delivered to you by BITS and other third party services. In the course of delivering an ad to you, BITS does not collect any personal information about you. BITS may, however, use cookies to collect non-personally identifiable information about you (see Section II above for a discussion of cookies). 
 
@@ -46,17 +46,17 @@ The advertising contained on the Sites is delivered to you by BITS and other thi
 
 Our Sites may contain links to other web sites, including web sites directed to children. We have no control over the privacy practices or the content of any other sites to which can be linked from our Sites, and strongly recommend that you check the applicable privacy policy of the web site sponsor when linking to other web sites. 
 
-### **V. **Disclaimer.   ** **
+### **V. **Disclaimer.   ****
 
 The Sites’ privacy policy does not extend to anything that is inherent in the operation of the Internet, and therefore beyond The Vindicator’s control, and The Vindicator does not intend to apply it or to construe it in any manner contrary to applicable law or government regulation. 
 
-### **VI. **Security of Information.** **
+### **VI. **Security of Information.****
 
 (1) We use our best efforts to ensure the security of personal information submitted by users.  Unfortunately, no electronic communication over the Internet can be guaranteed to be 100% secure.  While we strive to take great care to protect your personal information, The Vindicator cannot warrant the security of any information that you submit to us, and you do so at your own risk.  We store personal information in an area to which the general public does not have permission to access with one exception:  personal information that you include in messages posted to the Sites’ publicly available interactive forums is available to the general public. 
 
 (2) Remember to sign off the Sites and close your browser window when you are finished. That ensures that others cannot pose as you online. This is especially important if you are at a terminal that is accessible to others, such as the library, at school, at the workplace or at an Internet café. 
 
-###  **VII. Use of Materials.**
+### **VII. Use of Materials.**
 
 The right to download and store or output the materials in our Sites is granted for the user's personal use only, and materials may not be reproduced in any edited form.  Any other reproduction, transmission, performance, display or editing of these materials by any means mechanical or electronic without the express written permission of us is strictly prohibited.  To link to the full Terms of Use Agreement pertaining to use of our Sites, please [click here](https://web.archive.org/legal/tou/index.php). 
 
