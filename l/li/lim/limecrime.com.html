@@ -1,0 +1,493 @@
+<!--The following is the downloaded HTML source of the limecrime.com privacy policy that was archived on 2013-06-16.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130616080437id_/http%3A//www.limecrimemakeup.com/pages/Privacy.html) for the most accurate reproduction.-->
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xml:lang="en" lang="en" xmlns="http://www.w3.org/1999/xhtml"><head>
+	
+
+	<title>Privacy</title>
+
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+	<meta name="description" content="">
+	<meta name="keywords" content="Bright makeup, bright colors, bright eyeshadows, bright lipsticks,">
+	<meta http-equiv="Content-Script-Type" content="text/javascript">
+	<meta http-equiv="Content-Style-Type" content="text/css">
+    
+    <!-- Hagamos que Internet Explorer se comporte. IE7 rompe jQuery, con esto debe verse siempre en la última version -->
+	<meta http-equiv="X-UA-Compatible" content="IE=Edge">
+    
+	<link rel="shortcut icon" href="https://www.limecrimemakeup.com/product_images/favicon-lc2.png">
+
+	<link href="https://www.limecrimemakeup.com/templates/whitetheme/Styles/styles.css?1" media="all" type="text/css" rel="stylesheet">
+<link href="https://www.limecrimemakeup.com/templates/whitetheme/Styles/iselector.css?1" media="all" type="text/css" rel="stylesheet">
+<link href="https://www.limecrimemakeup.com/templates/whitetheme/Styles/whitetheme.css?1" media="all" type="text/css" rel="stylesheet">
+<!--[if IE]><link href="https://www.limecrimemakeup.com/templates/whitetheme/Styles/ie.css?1" media="all" type="text/css" rel="stylesheet" /><![endif]-->
+
+
+<link href="https://www.limecrimemakeup.com/templates/whitetheme/Styles/custom.css?1" type="text/css" rel="stylesheet">
+
+	<!-- Tell the browsers about our RSS feeds -->
+	<link rel="alternate" type="application/rss+xml" title="Latest News (RSS 2.0)" href="http://www.limecrimemakeup.com/rss.php?action=newblogs&amp;type=rss">
+<link rel="alternate" type="application/atom+xml" title="Latest News (Atom 0.3)" href="http://www.limecrimemakeup.com/rss.php?action=newblogs&amp;type=atom">
+<link rel="alternate" type="application/rss+xml" title="New Products (RSS 2.0)" href="http://www.limecrimemakeup.com/rss.php?type=rss">
+<link rel="alternate" type="application/atom+xml" title="New Products (Atom 0.3)" href="http://www.limecrimemakeup.com/rss.php?type=atom">
+<link rel="alternate" type="application/rss+xml" title="Popular Products (RSS 2.0)" href="http://www.limecrimemakeup.com/rss.php?action=popularproducts&amp;type=rss">
+<link rel="alternate" type="application/atom+xml" title="Popular Products (Atom 0.3)" href="http://www.limecrimemakeup.com/rss.php?action=popularproducts&amp;type=atom">
+
+
+	<!-- Include visitor tracking code (if any) -->
+	<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="https://www.limecrimemakeup.com/index.php?action=tracking_script"></script><!-- Start Tracking Code for analytics_googleanalytics -->
+
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-5168392-3']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+
+<!-- End Tracking Code for analytics_googleanalytics -->
+
+
+
+	
+
+	
+
+	<script type="text/javascript" src="https://www.limecrimemakeup.com/javascript/jquery.js?1"></script>
+
+<script type="text/javascript" src="//assets.pinterest.com/js/pinit.js"></script>
+
+   </head><body><input name="path" id="path" type="hidden" value="https://www.limecrimemakeup.com">
+     <script type="text/javascript">
+var path=$('#path').val();
+
+function shipping(){
+	var productid=$('#productid').val();
+$.ajax({
+type:"post",
+  url: path+'/javascript/shipping.php',
+  data: "id=1&productid="+productid+"",
+  success: function(result) { 
+
+$('#valmodulos').html(result);
+var iderror=$('#iderror').val();
+var msgerror=$('#msgerror').val();
+var valsesion=$('#valsesion').val();
+
+if(iderror=="1"){
+$('#divdisable').hide(); 
+$('#msgshipping').html(msgerror); 
+
+}else{
+$('#divdisable').show();	
+$('#msgshipping').html(''); 
+
+}
+if(valsesion==1){
+$('#imgbtnlogin').show();	
+}else{
+$('#imgbtnlogin').hide();	
+	}
+  }
+  });
+}
+
+
+function valsesion(){
+	$.ajax({
+type:"post",
+  url: path+'/javascript/shipping.php',
+  data: "id=2",
+  success: function(result) {
+  
+  if(result=="1"){
+$('#imgbtnlogin').hide();	  
+  }else{
+$('#imgbtnlogin').show();	  
+}  
+  }
+  });
+}
+
+
+
+function fpinterest(){
+var productid=$('#productid').val();
+var ur=encodeURIComponent(document.URL);
+
+var pathimg=encodeURIComponent(path+'/product_images/');
+
+//encodeURIComponent
+$.ajax({
+type:"post",
+  url: path+'/javascript/pinterest.php',
+  data: "productid="+productid+"&ur="+ur+"&pathimg="+pathimg+"",
+  success: function(result) { 
+
+ $('#divpinterest').html(result);
+  }});
+}	 
+
+	$(document).ready(function() {
+
+if ($("#divdisable").length > 0) { //Shipping
+shipping();
+}
+
+		
+if ($("#divpinterest").length > 0) { 
+fpinterest();
+}
+var dominio=document.domain;
+//var path=$('#path').val();
+$.ajax({
+  type:"post",
+  url: path+'/linkslenguaje.php',
+  data: "",
+  success: function(result) {  
+
+ 
+ if (result=='pt'){
+$(".details-shop").text("Detalhes / Comprar");
+$("#Newsletter").addClass("imgpt");  
+$('#Newsletter ').removeClass('imgen');
+$("#news-bubble-title").html('<img src="https://www.limecrimemakeup.com/templates/whitetheme/images/news-title-pt.png">');
+$("#shopping-bag-img").html('<img src="https://www.limecrimemakeup.com/templates/whitetheme/images/whitetheme/shopping-bag-pt.png">');
+$("#submit-btnx").addClass("submit-btn2pt");  
+$('#submit-btnx ').removeClass('submit-btn2');
+}
+else
+{
+$(".details-shop").text("Details / Shop");
+$("#Newsletter").addClass("imgen");  
+$('#Newsletter ').removeClass('imgpt');
+$("#news-bubble-title").html('<img src="https://www.limecrimemakeup.com/templates/whitetheme/images/news-title.png">');
+$("#shopping-bag-img").html('<img src="https://www.limecrimemakeup.com/templates/whitetheme/images/whitetheme/shopping-bag.png">');
+$("#submit-btnx").addClass("submit-btn2");  
+$('#submit-btnx ').removeClass('submit-btn2pt');
+
+	 }
+ 
+   
+     }
+});
+
+
+});
+
+	function idioma(len){
+var urlcadena = String(window.location.href);
+//alert(urlcadena);
+//var url='https://'+dominio+'/lenguaje.php';
+$.ajax({
+  type:"post",
+  url: 'http://www.limecrimemakeup.com/lenguaje.php',
+  data: "len="+len+"",
+  success: function(result) {  
+  //window.location='https://localhost/';
+ // alert (result);
+  window.location=""+urlcadena+"";
+   /* $("#busquedacliente").slideDown('slow',function(){$("#busquedacliente").html(result);}) 			*/		
+ //  $("#busquedacliente").html(result);
+   
+     }
+});
+
+}
+	</script>
+<div id="valmodulos">
+
+</div>
+	<script type="text/javascript" src="https://www.limecrimemakeup.com/javascript/menudrop.js?1"></script>
+	<script type="text/javascript" src="https://www.limecrimemakeup.com/javascript/common.js?1"></script>
+	<script type="text/javascript" src="https://www.limecrimemakeup.com/javascript/iselector.js?1"></script>
+
+<script type="text/javascript" src="https://www.limecrimemakeup.com/templates/whitetheme/js/global.js?1"></script>
+<script type="text/javascript" src="https://www.limecrimemakeup.com/templates/whitetheme/js/account.js?1"></script>
+
+	<script type="text/javascript">
+	//<![CDATA[
+	config.ShopPath = 'https://www.limecrimemakeup.com';
+	config.AppPath = '';
+	var ThumbImageWidth = 120;
+	var ThumbImageHeight = 120;
+        Cufon.replace('h2', {hover: true});
+	//]]>
+	</script>
+	
+	<script type="text/javascript" src="https://www.limecrimemakeup.com/javascript/quicksearch.js"></script>
+	
+
+<!-- the sliding divs code -->
+
+<script type="text/javascript" src="https://www.limecrimemakeup.com/templates/whitetheme/js/jquery-1.4.2.min.js"></script>
+<script type="text/javascript" src="https://www.limecrimemakeup.com/templates/whitetheme/js/animatedcollapse.js">
+
+
+/***********************************************
+* Animated Collapsible DIV v2.4- (c) Dynamic Drive DHTML code library (www.dynamicdrive.com)
+* This notice MUST stay intact for legal use
+* Visit Dynamic Drive at http://www.dynamicdrive.com/ for this script and 100s more
+***********************************************/
+
+</script>
+
+
+<script type="text/javascript">
+
+animatedcollapse.addDiv('ingds-slide', 'fade=1')
+animatedcollapse.addDiv('reviews-box', 'fade=1,persist=0')
+animatedcollapse.init()
+
+</script>
+
+<!-- /end sliding divs code -->
+
+<div id="fb-root"><script async="" src="https://connect.facebook.net/en_US/all.js"></script></div>
+<script>
+  window.fbAsyncInit = function() {
+    FB.init({appId: '721346059', status: true, cookie: true,
+             xfbml: true});
+  };
+  (function() {
+    var e = document.createElement('script'); e.async = true;
+    e.src = document.location.protocol +
+      '//connect.facebook.net/en_US/all.js';
+    document.getElementById('fb-root').appendChild(e);
+  }());
+</script>
+
+<!-- the dropdown menu code -->
+
+<script type="text/javascript" language="javascript" src="https://www.limecrimemakeup.com/templates/whitetheme/js/jquery.dropdownPlain.js"></script>
+
+<!-- the jCarousel -->
+
+<script type="text/javascript" src="https://www.limecrimemakeup.com/templates/whitetheme/js/jquery.jcarousel.min.js"></script>
+<link rel="stylesheet" type="text/css" href="https://www.limecrimemakeup.com/templates/whitetheme/Styles/jCarouselSkins/tango/skin.css">
+
+<script type="text/javascript">
+jQuery(document).ready(function() {
+    jQuery('#PressMenu').jcarousel({
+		vertical: true;
+		scroll: 15;
+        // Configuration goes here
+    });
+});
+</script>
+
+<!-- El reveal modal con el formulario de lista de correos. La segunda parte es para que se cierre al volver de CM con el hash "subscribed" -->
+
+<script type="text/javascript" src="https://www.limecrimemakeup.com/templates/whitetheme/js/jquery.reveal.js"></script>
+
+<script type="text/javascript">
+
+var now = (new Date()).getTime();
+var lastTime = 0;
+var lastTimeStr = localStorage['lastTime'];
+if (lastTimeStr) lastTime = parseInt(lastTimeStr, 10);
+if (now - lastTime > 720*60*60*1000) {
+	
+$(document).ready(function() {
+	 $('#Newsletter').reveal({
+		  animation: 'fade',
+		  animationspeed: 150,
+		  });
+     });
+	 
+} 
+localStorage['lastTime'] = ""+now;
+
+</script>
+
+<script type="text/javascript">
+$(document).ready(function() {
+
+   if (window.location.hash){
+      var hash = window.location.hash.substring(1);
+      if (hash == "subscribed"){
+	  	$('#Newsletter').trigger('reveal:close');
+	  }
+   }
+
+});
+</script>
+
+
+
+
+<div id="Container">
+			<div id="AjaxLoading"><img src="http://d26w2zyh2qu1h0.cloudfront.net/images/ajax-loader.gif" alt="">&nbsp; Loading... Please wait...</div>
+		
+
+		        
+        <div id="TopMenu">
+
+	<div id="logo-limecrime">
+
+		<a href="https://www.limecrimemakeup.com" id="HomePageLink" title="Lime Crime Homepage">
+        <img src="https://www.limecrimemakeup.com/templates/whitetheme/images/whitetheme/logo-homepage.jpg"></a>
+
+    </div><!-- end logo-limecrime  -->
+    
+    <div id="shopping-bag-btn">
+    	<a href="http://www.limecrimemakeup.com/cart.php">Shopping Bag</a>
+    </div><!-- /shopping-bag-btn -->
+    
+	<div id="menu-wrap">
+        <div class="CategoryList" id="SideCategoryList">
+   	<ul id="sidemenu">
+			<li class=""><a href="http://www.limecrimemakeup.com/categories/Lips/">Lips</a>
+	
+	</li>	<li class=""><a href="http://www.limecrimemakeup.com/categories/Eyes/">Eyes</a>
+	
+	</li>	<li class=""><a href="http://www.limecrimemakeup.com/categories/Nails/">Nails</a>
+	
+	</li>	<li class=""><a href="http://www.limecrimemakeup.com/categories/Face/">Face</a>
+	
+	</li>
+	</ul>
+</div>
+
+    	<ul><li><a href="https://www.limecrimemakeup.com/blog/">Blog</a></li></ul>
+    </div><!-- /menu-wrap -->
+    
+    	</div><!-- /TopMenu -->
+
+
+	<div id="Wrapper">
+		
+		<div class="WidePage Content" id="WideContent">
+			
+			<div class="Block Moveable Panel" id="PageContent">
+    
+    <h2 class="page-title">Privacy</h2>
+    
+    
+    <div class="BlockContent">
+    
+        <p>Lime Crime understands that the privacy of your personal information is important to you, so we have established privacy policies and practices. This notice explains how your data will be used and shared by Lime Crime. By visiting Limecrimemakeup.com, you accept the policies and practices described in this Privacy Notice.</p>
+<h4>Information We Collect</h4>
+<p>Personal information is collected when you sign in to Limecrimemakeup.com, upon registration with Lime Crime, when placing an order, or when contacting us via phone or email. Additional personal identification information such as user name, password, billing information, and contact information may also be collected in order to offer you Lime Crime products and services. This information will be used to fulfill your orders, process your transactions, facilitate your use of our website, market our products and services, respond to your requests, assist you with future shopping, and improve Limecrimemakeup.com. Choosing not to provide us with information will limit our ability to respond to your shopping needs. In addition, information such as your IP address and the site that referred you to ours will be gathered automatically. All data acquired via the website is stored indefinitely. Because of the nature of the Internet, data may pass through any country and any jurisdiction, including jurisdictions where privacy laws may be different and less protective than those of your home jurisdiction.</p>
+<p>Unless you opt out of receiving promotional materials, we may send you information by email to the address you provided. From time to time we may notify you of special promotions, new products or services, or other information that may interest you. You may also receive notifications of special promotions, new products, or additional services from our third-party associates. If you would like to opt out of receiving correspondence, please send your request to <span class="Email">info@ limecrimemakeup.com</span>.</p>
+<p>We do not rent or sell your personal information to parties not associated with fulfilling your order, unless sharing this information is necessary to provide you with Lime Crime products or is required by law.</p>
+<h4>Cookies</h4>
+<p>A cookie is a small data file that is automatically saved on your computer's hard drive when you visit a website. These cookies may contain information used to record the websites you visit, but do not contain any personally identifiable information such as your name, address, or credit card information. Lime Crime uses cookies to give you a personalized shopping experience.</p>
+<p>If you have signed up with Lime Crime, cookies allow our website to recognize you when you return and give you access to your personal account options. Cookies also let our website remember the contents of your Shopping Cart, allowing you to place orders more easily. We may also use cookies to keep track of the ways in which customers find us and navigate through our website. This information will be used internally to help us determine where improvements can be made to our online store.</p>
+<p>If you do not wish cookies to be saved to your system, you may change your browser's settings so that your computer does not accept them. If cookies are disabled, however, you will not be able to purchase from our website and we will not be able to recognize you as a registered user.</p>
+<h4>Links to Other Websites</h4>
+<p>There may be links to other websites from Limecrimemakeup.com. Lime Crime does not control any third- party websites and we are not responsible for these sites' use of personal information. We encourage you to become familiar with the privacy practices of any linked site when you visit it.</p>
+<h4>Children's Privacy</h4>
+<p>In order to protect the privacy of children on the Internet, we will not knowingly collect personally identifiable information from children under the age of 13 without the prior written consent of a parent or guardian. If we learn that a customer or registered user is actually under the age of 13, we will make every effort to delete all personal information for this person from our database, as our site is intended for adults over the age of 18.</p>
+<h4>Privacy Notice Changes</h4>
+<p>This notice replaces all previous disclosures we may have provided you about our information practices. We reserve the right to revise and modify this policy at any time without notice and to apply these changes in policy to information previously collected, where legally permissible. We will notify you of changes by posting the policy changes on our website. This privacy notice was last updated on August 1, 2010.</p>
+<h4>Contact Us</h4>
+<p>If you have any questions about our privacy notice, please contact us at: <span class="Email">info @ limecrimemakeup.com</span>. Attention: Website Privacy</p>
+<p>The examples contained in our privacy notice are illustrations only, and are not intended to be exhaustive.</p>
+    
+    </div>
+</div>
+                        <fb:like href="https://www.limecrimemakeup.com:443/pages/Privacy.html" font="verdana" send="true" width="450" show_faces="false"></fb:like>
+			
+		</div><!-- end LayoutColumn2 -->
+		<br class="Clear">
+	</div><!-- end wrapper -->
+	                
+                           
+                
+        <div id="Footer">
+        
+      <div id="social-media-box">
+      
+      <span id="facebook-icon" class="social-media-icon">
+      <a href="https://www.facebook.com/limecrime" target="_blank">
+      <img src="https://www.limecrimemakeup.com/templates/whitetheme/images/whitetheme/facebook-icon.png"></a>
+      </span>
+      <span id="twitter-icon" class="social-media-icon">
+      <a href="https://twitter.com/#!/limecrime" target="_blank">
+      <img src="https://www.limecrimemakeup.com/templates/whitetheme/images/whitetheme/twitter-icon.png"></a>
+      </span>
+      <span id="tumblr" class="social-media-icon">
+      <a href="http://limecrime.tumblr.com/" target="_blank">
+      <img src="https://www.limecrimemakeup.com/templates/whitetheme/images/whitetheme/tumblr-icon.png"></a>      
+      </span>
+      <span id="pinterest-icon" class="social-media-icon">
+      <a href="http://pinterest.com/limecrime/" target="_blank">
+      <img src="https://www.limecrimemakeup.com/templates/whitetheme/images/whitetheme/pinterest-icon.png"></a>      
+      </span>
+      <span id="instagram-icon" class="social-media-icon">
+      <a href="http://instagram.com/limecrimemakeup" target="_blank">
+      <img src="https://www.limecrimemakeup.com/templates/whitetheme/images/whitetheme/instagram-icon.png"></a>      
+      </span>
+      <span id="vine-icon" class="social-media-icon">
+      <a href="http://seenive.com/u/928023945146408960" target="_blank">
+      <img src="https://www.limecrimemakeup.com/templates/whitetheme/images/whitetheme/vine-icon.png"></a>      
+      </span>
+      
+      </div><!-- end social-media-box -->        
+      
+      
+<div id="bottom-menu">
+                        
+		<ul class="bottom-menu-list">
+	<li class="bottom-menu-item"><a href="https://www.limecrimemakeup.com/account.php">My Account</a> | </li>   
+	<li class="bottom-menu-item" style="display:"><a href="https://www.limecrimemakeup.com/login.php" onclick="">Log in</a> | </li>
+	<li class="bottom-menu-item"><a href="https://www.limecrimemakeup.com/pages/about.html">About</a> | </li>                
+	<li class="bottom-menu-item"><a href="https://www.limecrimemakeup.com/pages/Frequently-Asked-Questions.html">FAQ</a> | </li>
+    <li class="bottom-menu-item"><a href="https://www.limecrimemakeup.com/pages/contact.html">Contact</a> | </li>
+	<li class="bottom-menu-item"><a href="https://www.limecrimemakeup.com/pages/Careers.html">Careers</a> | </li>                
+    <li class="bottom-menu-item"><a href="https://www.limecrimemakeup.com/pages/stores.html">Stores</a> | </li>
+	<li class="bottom-menu-item"><a href="https://www.limecrimemakeup.com/pages/Privacy.html">Privacy Policy</a> | </li>
+    <li class="bottom-menu-item"><a href="https://www.limecrimemakeup.com/pages/shipping-and-returns.html">Return Policy</a> | </li>
+    <li class="bottom-menu-item"><a href="https://www.limecrimemakeup.com/blog/">Blog</a> | </li>     
+    <li class="bottom-menu-item"><a href="https://www.limecrimemakeup.com/categories/Offers/">Offers</a> | </li>
+    <li class="bottom-menu-item"><a href="#" data-reveal-id="Newsletter">Newsletter</a></li>     
+		</ul>
+
+</div><!-- end bottommenu  -->      
+        
+	    <div id="copyright">
+    	 	<p>Copyright 2013 Lime Crime.</p>
+           </div><!-- end copyright  -->         
+        
+        </div>
+
+        
+        
+        
+        
+        
+        
+        
+
+<!-- Google Code for Retargeting Remarketing List -->
+<script type="text/javascript">
+/* <![CDATA[ */
+var google_conversion_id = 968330580;
+var google_conversion_language = "en";
+var google_conversion_format = "3";
+var google_conversion_color = "666666";
+var google_conversion_label = "6J-bCPzKxgIQ1JrezQM";
+var google_conversion_value = 0;
+/* ]]> */
+</script>
+<script type="text/javascript" src="http://www.googleadservices.com/pagead/conversion.js">
+</script>
+<noscript>
+<div style="display:inline;">
+<img height="1" width="1" style="border-style:none;" alt=""
+src="http://www.googleadservices.com/pagead/conversion/968330580/?label=6J-bCPzKxgIQ1JrezQM&amp;guid=ON&amp;script=0"/>
+</div>
+</noscript>
+
+    
+</div><!-- end Container -->
+
+
+</body></html>
