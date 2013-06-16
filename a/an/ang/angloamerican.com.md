@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the angloamerican.com privacy policy that was archived on 2012-10-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121031043546id_/http%3A//www.angloamerican.com/siteservices/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the angloamerican.com privacy policy that was archived on 2013-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130616152150id_/http%3A//angloamerican.com/siteservices/privacy) for the most accurate reproduction.*
 
 # Anglo American – Privacy
 
