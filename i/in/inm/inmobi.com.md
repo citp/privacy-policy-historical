@@ -1,10 +1,14 @@
-> *The following text is extracted and transformed from the inmobi.com privacy policy that was archived on 2012-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121014083215id_/http%3A//www.inmobi.com/terms/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the inmobi.com privacy policy that was archived on 2013-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130616211909id_/http%3A//www.inmobi.com/inmobi-privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy |InMobi
+# InMobi Privacy Policy | Mobile Advertising - InMobi
 
-##  Last Updated: June 25, 2012
+##  Last Updated: 4 January 2013
 
 InMobi is committed to respecting and protecting individuals' privacy rights. This Privacy Policy explains how InMobi Pte Ltd, its subsidiaries and affiliated companies (collectively, " **InMobi** " or " **we** ", " **us** ", " **our** ") use your personal and device-related information when (i) you view ads served by InMobi on third party websites or mobile apps (see the section below called "InMobi Ad Network"), and (ii) you visit the InMobi website at [www.inmobi.com](http://www.inmobi.com/) (see section below called "InMobi Website"). 
+
+InMobi has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with TRUSTe’s [Web Privacy](http://www.truste.com/privacy-program-requirements/program_requirements_website_privacy) and [TRUSTed Data](http://www.truste.com/privacy-program-requirements/3rd-party-data-collection/) program requirements including transparency, accountability and choice regarding the collection and use of Consumer information. TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy policy or practices, please contact us at [privacy@inmobi.com](mailto:privacy@inmobi.com). If you are not satisfied with our response you can contact [TRUSTe here](http://watchdog.truste.com/pvr.php?page=complaint).
+
+The TRUSTe programs cover the collection and use of information on www.inmobi.com and by InMobi’s technology on third party mobile applications and websites.
 
 ## INMOBI AD NETWORK
 
@@ -26,7 +30,9 @@ We collect some or all of the following information about your device: device ty
 
 We also collect some or all of the following information about the ad you have viewed: (i) the content type of the ad (what the ad is about, e.g. games, finance, entertainment, news); (ii) the ad type (e.g. whether the ad is a text, image, or video based ad); (iii) where the ad is being served (e.g. the address of the website on which the ad appears); and (iv) certain information about post-click activity in relation to the ad (e.g. whether you proceed to purchase the product or service advertised).
 
-On occasion, our partnering mobile publishers or app developers may also disclose to us information they have separately collected about you so that we can improve the relevance of the ads we serve on their behalf. They do this in accordance with their own specific privacy policies and subject to their own applicable legal requirements. We do not use the information they provide to us for any purpose other than serving you with interest-based ads on their behalf. 
+On occasion, our partnering mobile publishers or app developers may also disclose to us information they have separately collected about you so that we can improve the relevance of the ads we serve on their behalf. They do this in accordance with their own specific privacy policies and subject to their own applicable legal requirements. We do not use the information they provide to us for any purpose other than serving you with interest-based ads on their behalf.
+
+There is certain data that although not personally identifiable we consider sensitive, such as viewing of sites with sexual content or information indicating a users’ specific medical condition. We do not use these types of sensitive data from one site for tailoring ads at other sites across our network.
 
 ## How do we use information that we collect?
 
@@ -56,6 +62,10 @@ We may share your information with clients, affiliates and other third parties d
 
 InMobi uses appropriate technical and organisational measures to protect the information it collects about you and your device. In particular, we anonymise all information we collect using one-way hashing technology and encrypt it securely before sharing it with any third parties. 
 
+## How long do you keep information for?
+
+We retain information collected on third-party applications and web sites for a period of 90 days, unless otherwise required by law. After 90 days we further anonymise the data by aggregating it before storing it for analytical purposes.
+
 ## Opting Out of Interest-based Advertising
 
 As described above, the information we collect does not enable us to work out your identity in real life. We use this information only to serve you with interest-based advertisements based on your inferred interests, preferences and location.
@@ -75,6 +85,8 @@ InMobi may offer advertising solutions to clients that include the collection of
 To create an account on the InMobi website we need to collect details of your username, password, email address, country and preferred account type. 
 
 You can also provide us with other optional information, such as your name, picture, postal address, phone number, social network profiles, questionnaire responses, general business information, and other personal, biographical, or demographic info. This optional information is not necessary for you to use the InMobi site or to maintain an account with us, but by sharing this information we can better serve you and improve your overall website experience.
+
+If you provide the name and email address of a friend or colleague, we will use that information to send the individual a one-time invitation to visit or register with our site.
 
 ## The usage information we collect
 
@@ -99,9 +111,15 @@ We use your usage information to analyse our web traffic, to figure out how ofte
 
 ## Who do we share information with?
 
+We will share your personal information only in the ways that are described in this privacy statement. We do not sell your personal information to third parties.
+
 From time to time, we may need to disclose your information to third parties such as to law enforcement authorities or our legal advisers, where it is necessary to comply with the law or regulation; enforce or apply our user terms and conditions; to protect our rights, or to preserve the safety of our users. This may include exchanging information with other companies and organizations for fraud protection. 
 
-We may also share your personal information in connection with any merger, a sale of InMobi assets, or a financing or acquisition of all or a portion of our business to another company. Whenever we share your personal information for this reason we will ensure that the recipient is bound by all appropriate confidentiality obligations and that it commits to using your personal information only for the purposes for which you originally provided it.
+We may also share your personal information to companies that provide services to help us with our business activities (e.g. processing payments or submitting emails to you on our behalf), in connection with any merger, a sale of InMobi assets, or a financing or acquisition of all or a portion of our business to another company. Whenever we share your personal information for this reason we will ensure that the recipient is bound by all appropriate confidentiality obligations and that it commits to using your personal information only for the purposes for which you originally provided it.
+
+You should also be aware that the information submitted to public areas, such as our blogs, may be read, collected, and used by others who access them.
+
+If you interact with social media features on our site, such as the Facebook Like button, or use your social network credentials to comment on our blog, these features may collect information about your use of this site as well as post information about your activities on this site to your profile page. Your interactions with these Features are governed by the privacy policy of the company providing it.
 
 ## International Transfers
 
@@ -109,7 +127,7 @@ We may share your information with our affiliates and other third parties descri
 
 ## How do we keep information secure?
 
-We use appropriate technical and organisational security measures to protect the information we collect. We use multiple electronic, procedural, and physical security measures to protect against unauthorised or unlawful use or alteration of information, and against any accidental loss, destruction, or damage to information. We encrypt all information we collect and maintain this encrypted information securely on our servers behind a firewall. 
+We use appropriate technical and organisational security measures to protect the information we collect. We use multiple electronic, procedural, and physical security measures to protect against unauthorised or unlawful use or alteration of information, and against any accidental loss, destruction, or damage to information. We encrypt all information we collect and maintain this encrypted information securely on our servers behind a firewall. However, no method of transmission over the Internet, or method of electronic storage, is 100% secure. Therefore, we cannot guarantee its absolute security.
 
 ## How long do you keep information for?
 
@@ -119,9 +137,9 @@ We retain information for only as long as is necessary to fulfil the purposes ou
 
 ## Does InMobi use cookies?
 
-We use cookies to help us collect some of the information we describe above, to provide website functionality and advertising to you, and to save you having to provide information you have already given us on subsequent visits to our site. 
+We use cookies and web beacons to help us collect some of the information we describe above, to provide website functionality and advertising to you, and to save you having to provide information you have already given us on subsequent visits to our site. 
 
-For more detailed information about the cookies we use and your rights to control those cookies, please visit our [cookie policy](https://web.archive.org/terms/cookie-policy/).
+For more detailed information about the technologies we use and your rights to control those cookies, please visit our [cookie policy](https://web.archive.org/terms/cookie-policy/).
 
 ## What about Children?
 
@@ -129,11 +147,11 @@ We do not knowingly collect any personal information about children under the ag
 
 ## What about other websites?
 
-The ads we service may contain links to other websites. You should be aware that we are not responsible for the privacy practices of such other websites as those may have different privacy policies and terms of use and are not associated with us. You agree that we cannot control these links and we shall not be responsible for any use of such websites.
+Our website and the ads we service may contain links to other websites. You should be aware that we are not responsible for the privacy practices of such other websites as those may have different privacy policies and terms of use and are not associated with us. You agree that we cannot control these links and we shall not be responsible for any use of such websites.
 
 ## Changes to this Privacy Policy
 
-We may amend this Privacy Policy at any time. The amended Privacy Policy will be displayed on our site. Please check our Privacy Policy regularly to ensure you have read the latest version.
+We may amend this Privacy Policy at any time. The amended Privacy Policy will be displayed on our site. If we make any material changes we will notify you by means of a notice on this site prior to the change becoming effective. Please check our Privacy Policy regularly to ensure you have read the latest version.
 
 ## Your rights
 
@@ -141,8 +159,10 @@ Much of the information we hold is purely technical in nature, and relates to th
 
 Where we do hold limited personal information about you (such as personal information about an InMobi account you have with us), you can ask us for access to this personal information, to correct or update any inaccurate personal information we hold, to stop sending you direct marketing or to stop using your personal information altogether. 
 
-If you would like to exercise any of these rights, please contact us using the details provided below. 
+If you would like to exercise any of these rights, you may be able to make the update within your account settings or by contacting us using the details provided below. 
 
 ## Contacting Us
 
-For the purpose of applicable EU data protection laws, the “data controller” in respect of your personal information is InMobi, the UK branch of InMobi Pte Ltd. Address: Privacy Director, InMobi, 265 Strand, London, WC2R 1BH. If you have any questions about this Privacy Policy, please contact us at: [privacy@inmobi.com](mailto:privacy@inmobi.com).
+For the purpose of applicable EU data protection laws, the “data controller” in respect of your personal information is InMobi, the UK branch of InMobi Pte Ltd. Address: Chief Privacy Officer, InMobi, 265 Strand, London, WC2R 1BH. If you have any questions about this Privacy Policy, please contact us at: [privacy@inmobi.com](mailto:privacy@inmobi.com).
+
+[Find out How InMobi is doing on Privacy?](http://privacychoice.org/trackerlist/index/519)
