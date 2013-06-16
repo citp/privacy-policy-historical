@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nten.org privacy policy that was archived on 2012-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121215151422id_/http%3A//www.nten.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nten.org privacy policy that was archived on 2013-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130616064553id_/http%3A//www.nten.org/privacy-policy) for the most accurate reproduction.*
 
 # NTEN Privacy and Use Policy | NTEN
 
@@ -17,7 +17,7 @@ Our registration forms require users to give us contact information that may inc
 
   * We do not store sensitive information from our visitors, such as credit card or social security numbers.
   * We will never sell your information to a third party.
-  * We will never give your information to a third party for permanent use without your permission 
+  * We will never share your information with a third party without your permission
 
 
 
