@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the nextnetmedia.com privacy policy that was archived on 2012-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121213111117id_/http%3A//nextnetmedia.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nextnetmedia.com privacy policy that was archived on 2013-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130616102139id_/http%3A//nextnetmedia.com/privacy-policy) for the most accurate reproduction.*
 
-# Welcome to Next Net Media LLC | Privacy Policy
+# Privacy Policy | NextNetMedia.com
 
 What information do we collect?
 
