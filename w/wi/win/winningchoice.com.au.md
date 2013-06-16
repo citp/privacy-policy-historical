@@ -1,37 +1,101 @@
-> *The following text is extracted and transformed from the winningchoice.com.au privacy policy that was archived on 2009-10-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091025072158id_/https%3A//www.winningchoice.com.au/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the winningchoice.com.au privacy policy that was archived on 2013-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130616075107id_/http%3A//www.cohort.com.au/privacy-policy) for the most accurate reproduction.*
 
-# Winning Choice - Privacy
+# Cohort Digital » Cohort Digital Privacy Statement
 
-_Privacy Policy_
+**Commitment to Protect your Privacy**
 
-This service is offered by Winning Choice, a company that specialises in the collection of consumers' buying habits and preferences. At Winning Choice, we are committed to maintaining your privacy. If we make changes to this policy, we will immediately update this statement on this website. 
+Cohort Digital respects your privacy and is committed to protecting it.
 
-Winning Choice understands that you are concerned about your privacy. That's why Winning Choice has created this privacy and permission statement, to demonstrate our firm commitment to your privacy. 
+Our Privacy Policy explains how and why we collect personal information, what we use it for, and to whom and when we disclose it. We update our policy from time to time, and you should revisit our website regularly to see the latest copy of the Privacy Policy. Any changes will come into effect when the updated Privacy Policy is posted to the website.
 
-By registering on this site, you unconditionally agree to be bound by this Privacy Policy. 
+In all cases we will treat your personal information with no less protection than that provided for by the Australian Privacy Principles and the privacy laws that are in force in Australia.
 
-_How does Winning Choice use the information I provide?_   
-Winning Choice collects data about you, your interests and the subjects you may like to receive communications about. We also use the information to ensure that selected third parties can send information to you which is as relevant and useful to you as possible. We may merge the information you give with other data sources for profiling and marketing purposes. There is more information below about the different ways in which we collect data under the heading Data Collection. The information that you provide will be processed by Winning Choice pursuant to the Privacy Act (Cth) 1988 & the New Zealand Privacy Act 1993.By entering the competition & supplying your contact details including your email address* you are agreeing that Winning Choice can process your data & supply your contact details to third party organisations so that they can market to you by mail, telephone or email. 
+**How and what Personal Information we collect about you?**
 
-_What about security?_   
-Winning Choice has modern and robust security measures in place to protect the information you give to us from loss, misuse and alteration. We are constantly reviewing and upgrading these security measures to ensure the very best of protection to you. 
+We collect personal information from you when you respond to one of our programs or request to receive further information from an advertiser. Cohort Digital collects data about you, your interests and subjects you select to receive communications about.
 
-_Why does Winning Choice record IP Addresses?_   
-When you visit our site, we may automatically log your IP address (the unique address which identifies your computer on the internet) which is automatically recognised by our web server. We use IP addresses to help us administer the site and to collect broad demographic information for aggregate use. We do not link IP address to personally identifiable information. 
+We may also collect information about you from our website but this information will only identify who you are if you provide us with your details (for example, if you provide us with your contact details). When you visit our website our web server collects the following types of information for statistical purposes
 
-_What are cookies and why does Winning Choice use them?_   
-A cookie is a piece of data stored on a user's computer hard drive, containing information about that user. A cookie can only be accessed across the Internet by the Web site that placed it there. Cookies are used by the Winning Choice Web site to add functionality and security. 
+*Your Internet service provider’s address;  
+*The number of users who visit the website;  
+*The date and time of each visit;  
+*The pages accessed; and  
+*The type of browser used.
 
-You may choose to reject a cookie that the Winning Choice Web site attempts to place on your computer, however you may then be limited in your use of some areas of the Web site. The use of cookies in this way is wide-spread and commonly accepted by the Internet community. 
+No attempt is made to indentify individual users from this information.
 
-_What about other Web sites?_   
-Winning Choice cannot be responsible for the privacy policies or practices of other sites, even if you access them using links from our site and recommend that you check the policy of each site that you visit. 
+Before we disclose your personal information to an overseas recipient such as an advertiser or data warehouse:
 
-_What is "spam" and does Winning Choice send it?_   
-The widely accepted definition of "spam" is unsolicited commercial email, or in other words, email of a commercial nature that the recipient does not want. Winning Choice does not send "spam". This is because when you join Winning Choice, you must expressly agree to allow us to send to you commercial advertising email. Each email we send to you contains a link at the very bottom allowing you to unsubscribe. 
+(a) who is not in Australia or an external Territory; and
 
-_Data Access_   
-You have the right to see what data we hold about you. Any enquiries should be in writing to: Winning Choice, Consumer Care Department, PO Box 369, Strawberry Hills, NSW, 2012. We will provide you with a copy of the data we hold about you for a handling fee of $15 payable by banker’s draft to Winning Choice. If you need us to delete, correct or amend this data, we will do so within 30 days. 
+(b) who is not the entity or the individual;
 
-_Wine Competition_   
-Entry is automatic upon completion (either offline or online) of a questionnaire or survey. Please read the following terms and conditions of entry <http://www.rdp.com.au/termsCon.htm>
+we take steps as are reasonable in the circumstances to ensure that the overseas recipient does not breach the Australian Privacy Principles in relation to your personal information.
+
+**Why we collect Personal Information and what is it used for?**
+
+Cohort collects data about you, your interests and the subjects you may like to receive communications about. We also use the information:
+
+1\. To enable us to provide you products and services;  
+2\. So advertisers you select can communicate with you. Marketing communication be by email, post, over the phone, SMS/MMS and door-to-door canvassing, depending on which contact channel information you have chosen;  
+3\. For security and risk management purposes;  
+4\. To enable us to provide you with information about, and offer you, additional products and services;  
+5\. To provide to third parties to enable them to give you information about, and offer you products and services.  
+6\. To enable us to improve the quality of our products and services and to develop additional products and services, and for staff training and quality assurance purposes;  
+7\. Where a third party has an interest in acquiring part or all of the company, or providing any form of financial accommodation to the company;  
+8\. To improve the quality and quantity of information on our website;  
+9\. Marketing analysis.
+
+Where information is provided to any person or organisation other than Cohort Digital you accept that that person or organisation may not have privacy policies that are as protective as our Privacy Policies, and you consent to the disclosure of your personal information with that understanding.
+
+You may opt-out of receipt of any such offers at any time simply by submitting a request via our feedback form or in any way that we notify you in the relevant communication.
+
+**How we hold your Personal Information**
+
+Cohort Digital and/or its third party suppliers hold your personal information on secure enterprise grade servers.
+
+**To whom do we disclose the Personal Information?**
+
+We disclose personal information to our advertisers, customers, third party agents, directors, employees and contractors only for a purpose that is consistent with the way we have informed you that we will use the information in this Privacy Policy.
+
+We may also disclose personal information to any person or authority where we are required to by law.
+
+Other than as we have set out in our Privacy Policy, we will not disclosure your personal information without your prior consent.
+
+**Cookies**
+
+A cookie is a small piece of computer code which remains on your computer and contains information which helps us identify your browser and previous information viewed in relation to our service.
+
+When you visit our website the cookie records certain details including the date, time and advertising content. None of the information in the cookie contains personally identifiable information about you.
+
+If you do not want us to use cookies then you can easily stop them, or be notified when they are being used, by adopting the appropriate settings on your browser. If you do not allow cookies to be used some or all of our website might not be accessible to you.
+
+**Links to Other Web Sites**
+
+Our web site may include web links to other websites. We are not responsible for the content of those other websites, and do not endorse the products, services or information that is on those websites. If you use those websites you should be aware that they will have different privacy policies and terms and conditions of use, which you should review and agree to prior to using those websites.
+
+**Amending, deleting and how you can obtain access to your Personal Information**
+
+We try to ensure that all information about you that we collect, use or disclose is accurate, complete and up-to-date.
+
+If you want to obtain access to any personal information and data that we hold about you, or believe any of your personal information that we hold is inaccurate, incomplete or it is not necessary to hold it, you can complete the feedback form, and we will use reasonable efforts to provide it and, if required, correct it. We may charge a reasonable fee to cover the costs of providing personal information to you.
+
+Any enquiries should be in writing to: Cohort Digital, Consumer Care Department, PO Box 369, Strawberry Hills, NSW, 2012.
+
+You may at any time, request that we delete your personal information from our database by completing our feedback form. If you need us to delete, correct or amend this data, we will do so within 30 days.
+
+**Security and retention policies**
+
+Cohort Digital is committed to ensuring the security of the information we hold about you. We take all reasonable steps to ensure that the information we hold about you is protected from misuse, interference and loss, and from unauthorised access, modification or disclosure. If Cohort Digital no longer needs the information we will take reasonable steps to destroy the information and/or ensure that the information is de-identified.
+
+If you use the Internet to communicate with us, you should be aware of the risks in transmitting information over the Internet. Cohort Digital does not have control over information while in transit over the Internet and we cannot guarantee its security. Any personal information that we no longer require is destroyed. An exception to this may be where records are retained to comply with legal requirements.
+
+**Complaints**
+
+If you wish to make a complaint or provide any comments on our Privacy Policy please contact us on either: [info@cohort.com.au](mailto:info@cohort.com.au) or 1300 Cohort (1300 264 678). We will contact you to discuss any concerns within 48 hours of receiving your e-mail or call.
+
+**Cohort Digital**
+
+Suite 4.10/405-411 Sussex St
+
+Haymarket NSW 2000
