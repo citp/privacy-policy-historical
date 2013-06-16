@@ -1,14 +1,13 @@
-> *The following text is extracted and transformed from the best-prepaid-cell-phone-plans.com privacy policy that was archived on 2012-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121014090449id_/http%3A//www.best-prepaid-cell-phone-plans.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the best-prepaid-cell-phone-plans.com privacy policy that was archived on 2013-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130616084730id_/http%3A//www.best-prepaid-cell-phone-plans.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
-| 
+**Search This Site:**
 
 COMMITMENT TO YOUR PRIVACY  
 Your privacy on the Internet is of the utmost importance to us. We want to make your experience online satisfying and safe.  
 Because we gather certain types of information about our users, we feel you should fully understand our policy and the terms and conditions surrounding the capture and use of that information. This privacy statement discloses what information we gather and how we use it.
 
-  
 INFORMATION WE GATHER AND TRACK  
 We gather two types of information about users:
 
@@ -57,7 +56,7 @@ Cookies
 We may place a text file called a "cookie" in the browser files of your computer. The cookie itself does not contain Personal Information although it will enable us to relate your use of this site to information that you have specifically and knowingly provided. But the only personal information a cookie can contain is information you supply yourself. A cookie can't read data off your hard disk or read cookie files created by other sites. We use cookies to track user traffic patterns (as described above). Our advertising system delivers a one-time cookie to better track ad impressions and click rates.  
 You can refuse cookies by turning them off in your browser. If you've set your browser to warn you before accepting cookies, you will receive the warning message with each cookie. You do not need to have cookies turned on to use this site. However, you may need cookies to participate actively in any message boards, forums, polling or surveys offered.
 
-##  _Privacy Policy Use_
+## _Privacy Policy Use_
 
 USE OF INFORMATION
 
@@ -86,7 +85,7 @@ OPT-OUT POLICY
 
 We give users options wherever necessary and practical. Such choices include:
 
-  * **Opting not to give feedback or to register to receive any electronic newsletters we may offer.**  
+  *  **Opting not to give feedback or to register to receive any electronic newsletters we may offer.**  
 
   * **Opting not to participate in certain interactive areas we may offer, which completely alleviates the need to gather any personally identifiable information from our users**
 
@@ -95,20 +94,3 @@ We give users options wherever necessary and practical. Such choices include:
 YOUR CONSENT
 
 By using this site, you consent to the collection and use of this information by us. If we decide to change our privacy policy, we will post those changes on this page so that you are always aware of what information we collect, how we use it, and under what circumstances we disclose it.
-
-| **Share this page:  **| |   
----|---|---  
-  
-Enjoy this page? Why not share it with others! Here's how...  
-  
-Hi, Thanks for checking out this site! Go to the menu on the left for the plan write-ups. From there you'll find links to the individual phone reviews as well as other topics. On many of the pages you can even contribute your own questions and reviews.Below you can take a look at some of the current offers.
-
-[](http://www.anrdoezrs.net/click-2386123-10392721?sid=3C)
-
-[](http://www.kqzyfj.com/click-2386123-11021818?sid=3C&url=http%3A%2F%2Fwww.straighttalk.com%2FShopPhones)
-
-[](http://www.kqzyfj.com/click-2386123-10865400?sid=3C)
-
-[](http://www.dpbolvw.net/click-2386123-11079216?sid=3C)
-
-[](http://www.kqzyfj.com/click-2386123-10922727?sid=3C)
