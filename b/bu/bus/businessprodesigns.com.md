@@ -1,6 +1,25 @@
-> *The following text is extracted and transformed from the businessprodesigns.com privacy policy that was archived on 2012-10-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121010184937id_/http%3A//www.businessprodesigns.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the businessprodesigns.com privacy policy that was archived on 2013-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130617015133id_/http%3A//www.businessprodesigns.com/privacy-policy.php) for the most accurate reproduction.*
 
 # BusinessPro Designs Privacy Policy
+
+[ ](https://web.archive.org/web/20130617015133id_/http%3A//www.businessprodesigns.com/index.php)
+
+## US   +1 716 989 0224
+
+## UK   +44 208 133 2514
+
+  
+
+
+  * [Home](https://web.archive.org/web/20130617015133id_/http%3A//www.businessprodesigns.com/index.php)
+  * [Portfolio](https://web.archive.org/web/20130617015133id_/http%3A//www.businessprodesigns.com/web-design-portfolio.php)
+  * [Services](https://web.archive.org/web/20130617015133id_/http%3A//www.businessprodesigns.com/services.php)
+  * [About Us](https://web.archive.org/web/20130617015133id_/http%3A//www.businessprodesigns.com/about-us.php)
+  * [Contact Us](https://web.archive.org/web/20130617015133id_/http%3A//www.businessprodesigns.com/contact-us.php)
+
+  
+  
+
 
 BusinessPro Designs understands the account of responsibility involved in the handling of personal information of its visitors. We accept only that information which is provided to us willingly by you. Considering the privacy concerns in disclosing the personal data about oneself, we give you the liberty of accessing our website with no disclosure of personal information. You might also opt for divulging restricted or certain data as per your convenience. 
 
