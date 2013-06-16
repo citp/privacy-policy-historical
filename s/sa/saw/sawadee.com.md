@@ -1,12 +1,10 @@
-> *The following text is extracted and transformed from the sawadee.com privacy policy that was archived on 2012-10-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121005210342id_/http%3A//www.sawadee.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sawadee.com privacy policy that was archived on 2013-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130616065338id_/http%3A//www.sawadee.com/privacy.htm) for the most accurate reproduction.*
 
 # privacy policy
 
-Text
-
 ## Privacy Policy Statement
 
-This is the web site of **Web Sawade Plc.**.
+This is the web site of **Web Sawadee Plc.**.
 
 Our postal address is   
 **Mahatun Plaza Bldg. 12fl.  
@@ -46,4 +44,4 @@ With respect to security: When we transfer and receive certain types of sensitiv
 
 If you feel that this site is not following its stated information policy, you may contact us at the above addresses or phone number.
 
- 
+text
