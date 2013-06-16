@@ -1,0 +1,7 @@
+> *The following text is extracted and transformed from the hunt4tunes.com privacy policy that was archived on 2013-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130616060514id_/http%3A//www.hunt4tunes.com/privacy.php) for the most accurate reproduction.*
+
+# Privacy Policy - Hunt4Tunes
+
+At Hunt4Tunes, the privacy of our visitors are very important. This privacy policy document outlines the types of personal information we receive and collect and how we use it. For each visitor to our webpage, our web server automatically recognizes information of your browser, IP address, city/state/country. We collect only the domain name, but not the e-mail address of visitors to our webpage, the e-mail addresses of those who communicate with us via e-mail. The information we collect is used for internal review and is then discarded, used to improve the content of our webpage, used to customize the content and/or layout of our page for each individual visitor. 
+
+To try and bring you offers that are of interest to you, we have relationships with other trusted companies that we allow to place ads on our webpages. As a result of your visit to our site, ad server companies may collect information such as your domain type, your IP address and clickstream information. Hunt4Tunes may display ads from third party vendors and by viewing it you agree that we are in no way responsible for the content of these ads, the content of the sites or products advertised in these ads, or the actions taken by those sites. 
