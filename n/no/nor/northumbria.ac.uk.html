@@ -1,16 +1,16 @@
-<!--The following is the downloaded HTML source of the northumbria.ac.uk privacy policy that was archived on 2012-12-16.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121216014409id_/http%3A//www.northumbria.ac.uk/legal/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the northumbria.ac.uk privacy policy that was archived on 2013-06-16.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130616041120id_/http%3A//www.northumbria.ac.uk/legal/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head>
 <meta http-equiv="content-type" content="text-html; charset=utf-8">
 <title>Privacy Statement - Northumbria University, Newcastle UK</title>
 <meta name="description" content="Privacy Statement University of Northumbria at Newcastle, situated in the North East of England.">
 <meta name="keywords" content="northumbria university, NU, university, uk university, uk, university of northumbria, universities, new university, northumbria, british university, unn, newcastle, newcastle polytechnic, northumbria, students, northeast, north east of england, city, courses, learning, study">
-<meta name="author" content="Anne Murray - University of Northumbria - 2012-05-25">
+<meta name="author" content="Anne Murray - University of Northumbria - 2013-02-05">
 <meta name="revisit-after" content="7 days">
 <meta name="copyright" content="Except where stated, copyright of all materials resides with the University of Northumbria at Newcastle (also trading as Northumbria University). No material may be altered to any degree without the University's written consent.">
 <meta name="robots" content="follow, index">
-<link rel="schema.DC" href="http://purl.org/dc/elements/1.1/"><meta name="DC.title" content="Privacy Statement"><meta name="DC.publisher" content="Anne Murray"><meta name="DC.date" content="2012-05-25"><meta name="DC.subject" content="Privacy Statement "><meta name="DC.provenance" content="Created by Tracey Thompson on 2004-04-16"><meta name="DC.rightsholder" content="Northumbria University - Newcastle upon Tyne - United Kingdom"><meta name="DC.format" content="text/html"><meta name="DC.language" content="en">
+<link rel="schema.DC" href="http://purl.org/dc/elements/1.1/"><meta name="DC.title" content="Privacy Statement"><meta name="DC.publisher" content="Anne Murray"><meta name="DC.date" content="2013-02-05"><meta name="DC.subject" content="Privacy Statement "><meta name="DC.provenance" content="Created by Tracey Thompson on 2004-04-16"><meta name="DC.rightsholder" content="Northumbria University - Newcastle upon Tyne - United Kingdom"><meta name="DC.format" content="text/html"><meta name="DC.language" content="en">
 
 <script type="text/javascript">
 var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
@@ -75,7 +75,7 @@ if (readCookie('style') == 'textonly') {
 		
 
 <!-- javascript dynamic jsp file managing short urls and autocompletion -->
-<script type="text/javascript" src="/js/shorturls/short_urls_js.jsp"></script>
+<script type="text/javascript" src="/js/shorturls/short_urls_js_hp.jsp"></script>
 <!-- javascript dynamic jsp file managing short urls and autocompletion -->
 
 <!--comp-start: /header/header.jsp-->
@@ -88,7 +88,24 @@ function doQL(menu) {
 	}
 }
 
-var isExt = true;
+function validateCourseSearchForm(f) {
+	if (f.query.value == 'Search Courses') {
+		window.location = 'http://www.northumbria.ac.uk/?view=CourseList';
+		return false;
+	}
+}
+
+function validateSiteSearchForm(){
+	var ssq = $('#search_query_term').val().replace(/^\s+|\s+$/g,"");
+	if(ssq == '' || ssq == 'Search Site'){
+		alert('You must enter a query term');
+		$('#search_query_term').val('');
+		$('#search_query_term').focus();
+		return false;	
+	}else{
+		return true;	
+	}
+}
 
 $(document).ready(function(){
 	
@@ -128,43 +145,60 @@ $(document).ready(function(){
 
     
 
+<style type="text/css">
+.imgSearch {
+	background: url(/css/assets/hp/2012/go.png) no-repeat scroll 0 0 transparent;	
+	width:19px;
+	height:21px;
+	border:none;
+	color:transparent;
+	font-size:0;
+	margin: -5px 4px 0 0;
+	vertical-align: middle;	
+}
+</style>
     
 <a class="skipToContent" href="#content">skip to content</a>
 
-<a class="default" href="javascript:void(0);">Graphical View</a><a class="textOnly" href="javascript:void(0);">Text-only</a><a href="/" id="logo" title="Northumbria University"><img src="/css/assets/logo.png" alt="Northumbria University"></a>
+<a class="default" href="javascript:void(0);">Graphical View</a><a class="textOnly" href="javascript:void(0);">Text-only</a><a href="/" id="logo" title="Northumbria University"><img src="/css/assets/Homelogo.png" alt="Northumbria University"></a>
 
-<ul id="quick"> 
-	<li><a href="/prosp_req/?fromheader=true" title="Prospectus Request">Prospectus Request</a></li>
-	<li><a href="https://elp.northumbria.ac.uk/" title="eLearning Portal (Blackboard)" target="_blank">eLearning Portal</a></li>
-	<li><a id="mynulink" href="http://my.northumbria.ac.uk" title="MyNorthumbria for Staff and Students">MyNorthumbria</a></li>
-	<li><a href="/?view=CourseList&amp;alpha=A" title="Browse all courses">Courses</a></li>
-	<li><a href="/sd/central/library/" title="eLibrary">eLibrary</a></li>
-	<li><a href="/sd/" title="Faculties and Services">Faculties and Services</a></li>
-	<li><a target="_blank" href="https://sso.northumbria.ac.uk/" title="Email">Email</a></li>
-	<li><a href="https://dta.northumbria.ac.uk/" title="desktopANYWHERE" target="_blank">desktopANYWHERE</a></li>
+<ul id="quick2"> 
+	<li><a href="/browse/" title="About Us">About Us</a></li>
+	<li><a id="mynulink" href="https://my.northumbria.ac.uk/" title="MyNorthumbria">MyNorthumbria</a></li>
+  <li><a href="/?view=CourseList&amp;alpha=A" title="Courses">Courses</a></li>
+	<li><a href="/sd/student/" title="Students">Students</a></li>
+	<li><a href="/staff/" title="Staff">Staff</a></li>
+	<li><a href="/browse/naa/" title="Alumni">Alumni</a></li>
 </ul>
 
-<form method="post" action="/?view=Search+results" id="search" onsubmit="return validateHeaderSearchForm()">
-	<input class="txt ui-autocomplete-input" type="text" name="q" id="search_query_term" value="" autocomplete="off" role="textbox" aria-autocomplete="list" aria-haspopup="true">
-	<input class="img" type="image" src="/css/assets/search_btn_bg.png">
-    <a href="javascript:void(0);"><img src="/static/images/question.png" alt="Search Hints" id="search_tips" border="0" class=""></a>
+<form method="get" action="/" id="csearch" onsubmit="return validateCourseSearchForm(this)">
+	<input type="hidden" name="view" value="CourseSearch">
+	<input class="txt" type="text" name="query" value="Search Courses" onfocus="this.value='';" onblur="if (this.value==''){this.value ='Search Courses'};">
+	<input class="imgSearch" type="submit" value="Go">
+</form>
+
+
+
+<form method="post" action="/?view=Search+results" id="search" onsubmit="return validateSiteSearchForm()">
+	<input class="txt ui-autocomplete-input" type="text" name="q" id="search_query_term" value="Search Site" onfocus="this.value='';" onblur="if (this.value==''){this.value ='Search Site'};" autocomplete="off" role="textbox" aria-autocomplete="list" aria-haspopup="true">
+	<input class="imgSearch" type="submit" value="Go">
+    <!--<a href="javascript:void(0);"><img src="/static/images/question.png" alt="Search Hints" id="search_tips" border="0" /></a>-->
 </form>
 
 	
     
-  <div id="quicklinksdiv">
+  <div id="quicklinksdiv2">
     <select name="quicklinks" onchange="doQL(this)" class="ui-menu-item">
     <option value="" selected="selected">Quick Links...</option>
     <option value=""></option>
     
-    <option value="https://web.archive.org/web/20110327083500/http://www.northumbria.ac.uk/accommodation">accommodation</option><option value="https://web.archive.org/web/20110327083500/http://www.northumbria.ac.uk/examtimetable">exam timetable</option><option value="https://web.archive.org/web/20110327083500/http://www.northumbria.ac.uk/pgce">pgce</option><option value="https://web.archive.org/web/20110327083500/http://www.northumbria.ac.uk/nora">nora</option><option value="https://web.archive.org/web/20110327083500/http://www.northumbria.ac.uk/citethemright">cite them right</option><option value="https://web.archive.org/web/20110327083500/http://www.northumbria.ac.uk/studentsunion">students union</option><option value="https://web.archive.org/web/20110327083500/http://www.northumbria.ac.uk/nursing">nursing</option><option value="https://web.archive.org/web/20110327083500/http://www.northumbria.ac.uk/insight">insight</option><option value="https://web.archive.org/web/20110327083500/http://www.northumbria.ac.uk/jobs">jobs</option><option value="https://web.archive.org/web/20110327083500/http://www.northumbria.ac.uk/cpd">cpd</option><option value="https://web.archive.org/web/20110327083500/http://www.northumbria.ac.uk/careers">careers</option><option value="https://web.archive.org/web/20110327083500/http://www.northumbria.ac.uk/referencing">referencing</option><option value="https://web.archive.org/web/20110327083500/http://www.northumbria.ac.uk/roombooking">room booking</option><option value="https://web.archive.org/web/20110327083500/http://www.northumbria.ac.uk/physiotherapy">physiotherapy</option><option value="https://web.archive.org/web/20110327083500/http://www.northumbria.ac.uk/law">law</option><option value="https://web.archive.org/web/20110327083500/http://www.northumbria.ac.uk/owa">owa</option><option value="https://web.archive.org/web/20110327083500/http://www.northumbria.ac.uk/architecture">architecture</option><option value="https://web.archive.org/web/20110327083500/http://www.northumbria.ac.uk/finance">finance</option><option value="https://web.archive.org/web/20110327083500/http://www.northumbria.ac.uk/jobvacancies">job vacancies</option><option value="https://web.archive.org/web/20110327083500/http://www.northumbria.ac.uk/map">map</option><option value="https://web.archive.org/web/20110327083500/http://www.northumbria.ac.uk/sport">sport</option><option value="https://web.archive.org/web/20110327083500/http://www.northumbria.ac.uk/socialwork">social work</option><option value="https://web.archive.org/web/20110327083500/http://www.northumbria.ac.uk/turnitin">turnitin</option><option value="https://web.archive.org/web/20110327083500/http://www.northumbria.ac.uk/staffsearch">staff search</option><option value="https://web.archive.org/web/20110327083500/http://www.northumbria.ac.uk/scholarships">scholarships</option><option value="https://web.archive.org/web/20110327083500/http://www.northumbria.ac.uk/fashion">fashion</option><option value="https://web.archive.org/web/20110327083500/http://www.northumbria.ac.uk/blackboard">blackboard</option><option value="https://web.archive.org/web/20110327083500/http://www.northumbria.ac.uk/academiccalendar">academic calendar</option><option value="https://web.archive.org/web/20110327083500/http://www.northumbria.ac.uk/alumni">alumni</option></select>
+    <option value="https://web.archive.org/web/20130323162341/http://www.northumbria.ac.uk/nursing">nursing</option><option value="https://web.archive.org/web/20130323162341/http://www.northumbria.ac.uk/law">law</option><option value="https://web.archive.org/web/20130323162341/http://www.northumbria.ac.uk/examtimetable">exam timetable</option><option value="https://web.archive.org/web/20130323162341/http://www.northumbria.ac.uk/psychology">psychology </option><option value="https://web.archive.org/web/20130323162341/http://www.northumbria.ac.uk/sport">sport</option><option value="https://web.archive.org/web/20130323162341/http://www.northumbria.ac.uk/applicantvisitdays">applicant visit days</option><option value="https://web.archive.org/web/20130323162341/http://www.northumbria.ac.uk/email">email</option><option value="https://web.archive.org/web/20130323162341/http://www.northumbria.ac.uk/socialwork">social work</option><option value="https://web.archive.org/web/20130323162341/http://www.northumbria.ac.uk/english">english</option><option value="https://web.archive.org/web/20130323162341/http://www.northumbria.ac.uk/education">education</option><option value="https://web.archive.org/web/20130323162341/http://www.northumbria.ac.uk/physiotherapy">physiotherapy</option><option value="https://web.archive.org/web/20130323162341/http://www.northumbria.ac.uk/engineering">engineering</option><option value="https://web.archive.org/web/20130323162341/http://www.northumbria.ac.uk/opendays">open days</option><option value="https://web.archive.org/web/20130323162341/http://www.northumbria.ac.uk/criminology">criminology</option><option value="https://web.archive.org/web/20130323162341/http://www.northumbria.ac.uk/nora">nora</option><option value="https://web.archive.org/web/20130323162341/http://www.northumbria.ac.uk/prip">prip</option><option value="https://web.archive.org/web/20130323162341/http://www.northumbria.ac.uk/design">design</option><option value="https://web.archive.org/web/20130323162341/http://www.northumbria.ac.uk/accommodation">accommodation</option><option value="https://web.archive.org/web/20130323162341/http://www.northumbria.ac.uk/fashion">fashion</option><option value="https://web.archive.org/web/20130323162341/http://www.northumbria.ac.uk/insight">insight</option><option value="https://web.archive.org/web/20130323162341/http://www.northumbria.ac.uk/map">map</option><option value="https://web.archive.org/web/20130323162341/http://www.northumbria.ac.uk/jobvacancies">job vacancies</option><option value="https://web.archive.org/web/20130323162341/http://www.northumbria.ac.uk/graduation">graduation</option><option value="https://web.archive.org/web/20130323162341/http://www.northumbria.ac.uk/chemistry">chemistry</option><option value="https://web.archive.org/web/20130323162341/http://www.northumbria.ac.uk/pgce">pgce</option><option value="https://web.archive.org/web/20130323162341/http://www.northumbria.ac.uk/mentalhealth">mental health</option><option value="https://web.archive.org/web/20130323162341/http://www.northumbria.ac.uk/journalism">journalism</option><option value="https://web.archive.org/web/20130323162341/http://www.northumbria.ac.uk/citethemright">cite them right</option><option value="https://web.archive.org/web/20130323162341/http://www.northumbria.ac.uk/bustimetable">bus timetable</option></select>
     <a href="javascript:void(0);"><img src="/static/images/question.png" alt="Quick Links Hints" id="qlinks_tips" border="0" class=""></a>
   </div>
 
 
 <br class="cleaner"><br>
 
-	<script language="javascript" type="text/javascript" src="http://wwwstage.northumbria.ac.uk/js/ext.js"></script>
 
 <!--comp-end: /header/header.jsp-->
     <div id="main">
@@ -189,13 +223,24 @@ $(document).ready(function(){
 
 
 
-<div class="headerImage"><img src="/static/images/branchimages/generic/newBusiness.jpg" alt="Business and Research section image"></div>
+<div class="headerImage"><img src="/static/images/branchimages/generic/2010archive/newBusiness.jpg" alt="Business and Research section image"></div>
 
 
 
 <!--comp-end: 2007_unn_branch_image-->
     </div>
-    
+    <style>
+#twitter-widget-0
+{
+width:178px;
+}
+iframe#twitter-widget-0
+{
+	width:150px;
+}
+</style>
+
+
 		
 <!--comp-start: /rhm/address.jsp-->
 
@@ -241,7 +286,7 @@ This Website is managed by the <a href="mailto:it.webteam@northumbria.ac.uk">Web
 If you have any concerns about privacy on the Northumbria University Website, please contact: the Data Protection Officer, Northumbria University, Ellison Place, Newcastle upon Tyne, NE1 8ST. 
 </p>
 <p>
-This Website uses cookies to collect some information. See the paragraph 'Cookies' for an explanation of cookies and information on how to control them. 
+This Website uses cookies to collect some information.&nbsp; 
 </p>
 <p>
 &nbsp; 
@@ -348,38 +393,38 @@ Office of the Information Commissioner
  <div id="footerInternal">
       <p>
       <a href="/" title="Northumbria University"><img src="/css/assets/logo_foot.png" alt="Northumbria University"></a><br><br>
-        <strong>Page last updated on May 25, 2012</strong><br>
+        <strong>Page last updated on February 5, 2013</strong><br>
           <span class="small dni">© Copyright 2010 Northumbria University.
         All material provided subject to copyright permission.</span>
       </p>
       <!--<ul></ul>-->        
       <ul>
-          <li><a href="/browse/contactus/" title="Contact Us"><span class="dni">Contact Us</span></a></li>
-          <li><a href="/legal/copyright/" title="Copyright"><span class="dni">Copyright</span></a></li>
-          <li><a href="/legal/privacy/" title="Privacy"><span class="dni">Privacy</span></a></li>
-          <li><a href="/vc/leservteam/ndp/nucook/" title="Cookies"><span class="dni">Cookies</span></a></li>
-          <li><a href="/legal/disclaimer/" title="Disclaimer"><span class="dni">Disclaimer</span></a></li>          
-          <li><a href="/eqdiv/" title="Equality &amp; Diversity"><span class="dni">Equality &amp; Diversity</span></a></li>
-          <li><a href="/browse/contactus/webcomment" title="Website Comment"><span class="dni">Website Comment</span></a></li>
+        <li><a href="/legal/copyright/" title="Copyright"><span class="dni">Copyright</span></a></li>
+        <li><a href="/legal/privacy/" title="Privacy"><span class="dni">Privacy</span></a></li>
+        <li><a href="/vc/leservteam/ndp/nucook/" title="Cookies"><span class="dni">Cookies</span></a></li>
+        <li><a href="/legal/disclaimer/" title="Disclaimer"><span class="dni">Disclaimer</span></a></li>          
+        <li><a href="/browse/contactus/" title="Contact Us"><span class="dni">Contact Us</span></a></li>
+        <li><a href="/browse/contactus/webcomment" title="Website Comment"><span class="dni">Website Comment</span></a></li>
       </ul> 
                  
       <ul>
-          <li><a href="https://elp.northumbria.ac.uk/" title="eLearning Portal (Blackboard)" target="_blank"><span class="dni">eLearning Portal</span></a></li>
-          <li><a href="/sd/central/ar/spa/dates/" title="Term Dates"><span class="dni">Term Dates</span></a></li>
-          <li><a href="/sd/central/library/" title="Library"><span class="dni">Library</span></a></li>
-          <li><a href="http://nuweb.northumbria.ac.uk/timetabling/tt/ttreports.htm" title="Timetable" target="_blank"><span class="dni">Timetable</span></a></li>
-          <li><a href="/vc/leservteam/foi/" title="FOI"><span class="dni">FOI</span></a></li>
-          <li><a href="/sd/central/campus/hse/healthandsafety/" title="Health &amp; Safety"><span class="dni">Health &amp; Safety</span></a></li>
-          <li><a href="http://work4.northumbria.ac.uk" target="_blank" title="Job Vacancies"><span class="dni">Job Vacancies</span></a></li>
+        <li><a href="/sd/central/library/" title="Library"><span class="dni">Library</span></a></li>
+        <li><a href="http://nuweb.northumbria.ac.uk/library/norapowersearch/index.html" target="_blank" title="NORA"><span class="dni">NORA</span></a></li>
+        <li><a href="/sd/central/library/resources/referencing/" title="Cite them Right"><span class="dni">Cite them Right</span></a></li>
+        <li><a href="http://work4.northumbria.ac.uk" target="_blank" title="Job Vacancies"><span class="dni">Job Vacancies</span></a></li>
+        <li><a href="/sd/central/campus/hse/healthandsafety/" title="Health &amp; Safety"><span class="dni">Health &amp; Safety</span></a></li>
+        <li><a href="/eqdiv/" title="Equality &amp; Diversity"><span class="dni">Equality &amp; Diversity</span></a></li>
+        <li><a href="/vc/leservteam/foi/" title="FOI"><span class="dni">FOI</span></a></li>
       </ul> 
                  
       <ul>
-          <li><a href="/brochure/facilities/acc/" title="Accommodation"><span class="dni">Accommodation</span></a></li>
-          <li><a target="_blank" href="https://sso.northumbria.ac.uk/" title="Email"><span class="dni">Email</span></a></li>
-          <li><a target="_blank" href="http://pebblepad.northumbria.ac.uk/" title="PebblePad"><span class="dni">PebblePad</span></a></li>
-          <li><a href="http://nuweb.northumbria.ac.uk/library/norapowersearch/index.html" target="_blank" title="NORA"><span class="dni">NORA</span></a></li>
-          <li><a href="/sd/central/library/resources/referencing/" title="Cite them Right"><span class="dni">Cite them Right</span></a></li>
-          <li><a target="_blank" href="https://dta.northumbria.ac.uk/" title="DTA"><span class="dni">DTA</span></a></li>
+        <li><a target="_blank" href="https://sso.northumbria.ac.uk/" title="Email"><span class="dni">Email</span></a></li>
+        <li><a href="/brochure/facilities/acc/" title="Accommodation"><span class="dni">Accommodation</span></a></li>
+        <li><a href="http://nuweb.northumbria.ac.uk/timetabling/tt/ttreports.htm" title="Timetable" target="_blank"><span class="dni">Timetable</span></a></li>
+        <li><a href="/sd/central/ar/spa/dates/" title="Term Dates"><span class="dni">Term Dates</span></a></li>
+        <li><a target="_blank" href="https://dta.northumbria.ac.uk/" title="DTA"><span class="dni">desktopANYWHERE</span></a></li>
+        <li><a href="https://elp.northumbria.ac.uk/" title="eLearning Portal (Blackboard)" target="_blank"><span class="dni">eLearning Portal</span></a></li>
+        <li><a target="_blank" href="http://pebblepad.northumbria.ac.uk/" title="PebblePad"><span class="dni">PebblePad</span></a></li>
       </ul>
       <br class="cleaner">
   </div>
