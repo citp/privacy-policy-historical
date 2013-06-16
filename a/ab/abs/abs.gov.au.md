@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the abs.gov.au privacy policy that was archived on 2012-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121230181304id_/http%3A//www.abs.gov.au/websitedbs/D3310114.nsf/Home/Privacy%3Fopendocument%23from-banner%3DGB) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the abs.gov.au privacy policy that was archived on 2013-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130616070649id_/http%3A//abs.gov.au/websitedbs/D3310114.nsf/Home/Privacy%3Fopendocument%23from-banner%3DGB) for the most accurate reproduction.*
 
 # ABS Web Site Privacy Statement
 
