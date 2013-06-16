@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fogodechao.com privacy policy that was archived on 2012-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121210195609id_/http%3A//www.fogodechao.com/index.php%3Fid%3D87) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fogodechao.com privacy policy that was archived on 2013-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130616071209id_/http%3A//www.fogodechao.com/index.php%3Fid%3D87) for the most accurate reproduction.*
 
 # Privacy Policy | Fogo de Chao
 
