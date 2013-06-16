@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the mcdonalds.ca privacy policy that was archived on 2012-10-17.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121017001137id_/http%3A//www.mcdonalds.ca/ca/en/privacy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the mcdonalds.ca privacy policy that was archived on 2013-06-16.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130616050326id_/http%3A//www.mcdonalds.ca/ca/en/privacy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/loose.dtd"><html><head><style></style> 
     
@@ -8,11 +8,18 @@
 
 
 
+
+ 
+
+
 <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1"> 
 <meta name="title" content="Privacy Policy :: McDonalds.ca">
 <meta name="description" content="McDonald's Internet Privacy Policy">
 <meta name="keywords" content="">
 <meta http-equiv="CACHE-CONTROL" content="NO-CACHE">
+<meta name="_market" content="">
+<meta name="_language" content="">
+<meta name="_breadcrumb" content="/ca/en/privacy">
 
 
  
@@ -36,7 +43,7 @@
 <script type="text/javascript" src="/themes/Canada/scripts/global_utils.js"></script>
 <link rel="stylesheet" type="text/css" media="screen" href="/themes/Canada/css/jquery.mcdcolorbox.css">
 <script type="text/javascript" src="/themes/Canada/scripts/jquery.colorbox-mod.js"></script>
-<script type="text/javascript" src="/themes/Canada/scripts/jquery.mcdcolorbox.js"></script>
+<script type="text/javascript" src="/themes/Canada/scripts/jquery.mcdcolorbox.js?p=0"></script>
 <script type="text/javascript" src="/themes/Canada/scripts/jquery.callouts.js"></script>
 <script type="text/javascript" src="/themes/Canada/scripts/jquery-ui-1.7.2.custom.min.js"></script>
 <script type="text/javascript" src="/themes/Canada/scripts/jquery.ifixpng.js"></script>    
@@ -58,11 +65,11 @@ var webtrends = 'www1.mcdonalds.com/metrics/leftnav/mcdonaldsca.js';
         $(document).ready(function(){ 
             var hideMealBuilder = 'true';
             if(hideMealBuilder!='true')
-                changevalue('itemsAdded_ca_en');         
+                changevalue('itemsAdded_ca');         
             
             /*** Bumper ***/
             try {
-                $('a.external').mcdColorboxDeleteConfirm({question:"<strong>Leaving McDonald's Web Site.</strong><p>You are leaving the McDonald's Canada web site for a site that is controlled by a third party, not affiliated with McDonald's. The content and policies, including the privacy policy, on the site you are entering may vary from McDonald's viewpoints and policies. Please be sure to review the policies of every site you visit. McDonald's is not responsible for the opinions, policies, statements or practices of any other companies, such as those that may be expressed in the web site you are entering.</p>",yescontrol:"Continue",nocontrol:"Cancel"});
+                $('a.external').mcdColorboxDeleteConfirm({question:"<strong>Leaving McDonald's Web Site.</strong>You are leaving the McDonald's Canada web site for a site that is controlled by a third party, not affiliated with McDonald's. The content and policies, including the privacy policy, on the site you are entering may vary from McDonald's viewpoints and policies. Please be sure to review the policies of every site you visit. McDonald's is not responsible for the opinions, policies, statements or practices of any other companies, such as those that may be expressed in the web site you are entering.",yescontrol:"Continue",nocontrol:"Cancel"});
             } catch ( exeption ) { /* silence */ }   
          
          }); 
@@ -103,7 +110,7 @@ var webtrends = 'www1.mcdonalds.com/metrics/leftnav/mcdonaldsca.js';
                      if(checkLimit(id)==true)
                      {                      
                           Tracker1('DCS.dcsuri','/food/addItemtoMyMealBuilder','WT.ti','Add to My Meal Builder :: McDonalds.com','DCSext.item',id);  
-                         addItemstoSession(id,'ca_en');
+                         addItemstoSession(id,'ca');
                      }
                      else
                          return false; 
@@ -124,7 +131,7 @@ var webtrends = 'www1.mcdonalds.com/metrics/leftnav/mcdonaldsca.js';
                      {                      
                          if( webtrends !="")
                          Tracker1('DCS.dcsuri','/food/addItemtoMyMealBuilder','WT.ti','Add to My Meal Builder :: McDonalds.com','DCSext.item',id);     
-                         addItemstoSession(id,'ca_en');   
+                         addItemstoSession(id,'ca');   
                      }
                      else
                          return false; 
@@ -143,7 +150,7 @@ var webtrends = 'www1.mcdonalds.com/metrics/leftnav/mcdonaldsca.js';
                      if(checkLimit(itemId)==true)                         
                      {                      
                         Tracker1('DCS.dcsuri','/food/addItemtoMyMealBuilder','WT.ti','Add to My Meal Builder :: McDonalds.com','DCSext.item',itemId);
-                        addItemtoSession(itemId,compList,'ca_en');  
+                        addItemtoSession(itemId,compList,'ca');  
                      }
                      else
                          return false;  
@@ -161,7 +168,7 @@ var webtrends = 'www1.mcdonalds.com/metrics/leftnav/mcdonaldsca.js';
                      if(checkLimit(itemId)==true)                         
                      {
                          Tracker1('DCS.dcsuri','/food/addItemtoMyMealBuilder','WT.ti','Add to My Meal Builder :: McDonalds.com','DCSext.item',itemId);                       
-                         addReverseItemtoSession(itemId,compList,revList,optionalList,masterItemId,'ca_en');
+                         addReverseItemtoSession(itemId,compList,revList,optionalList,masterItemId,'ca');
                      }
                      else
                          return false;  
@@ -176,7 +183,7 @@ var webtrends = 'www1.mcdonalds.com/metrics/leftnav/mcdonaldsca.js';
       {
            //alert("===========checkLimit()======calling========");
            var limit= 20;
-           var existLength=getExistMealbuilderLength('ca_en');
+           var existLength=getExistMealbuilderLength('ca');
            var pids=id.split("|");
            var total_length=pids.length+existLength;
            //alert("total_length======>"+total_length);
@@ -202,24 +209,24 @@ var webtrends = 'www1.mcdonalds.com/metrics/leftnav/mcdonaldsca.js';
 
   
 
-
  
+   
 
     <div id="document_wrapper">
         
         <a name="top"></a>
         
         
-
-    
+ 
+      
 <div id="top_wrapper"> 
     <div id="top_content">
         <div id="logo">
             <div class="logo mlogo parbase">
 
 
-
  
+   
 
     <a href="/ca/en.html">
 <img src="/content/ca/en/privacy/_jcr_content/mlogo/image.img.png/1336914409746.png" width="113" height="98" alt="">
@@ -235,8 +242,8 @@ var webtrends = 'www1.mcdonalds.com/metrics/leftnav/mcdonaldsca.js';
             <div class="mcdonaldsleftnav parbase">
  
     
-
  
+   
     
  
    
@@ -262,12 +269,6 @@ var webtrends = 'www1.mcdonalds.com/metrics/leftnav/mcdonaldsca.js';
                                 </thead>
                                 <tbody>
                             
-                                        <tr>
-                                          <td>
-                                            <a href="/ca/en/menu/full_menu/mccafe.html">McCafé®</a>
-                                          </td>
-                                        </tr>
-                                
                                         <tr>
                                           <td>
                                             <a href="/ca/en/menu/full_menu/value_picks.html">Value Picks®</a>
@@ -313,6 +314,12 @@ var webtrends = 'www1.mcdonalds.com/metrics/leftnav/mcdonaldsca.js';
                                         <tr>
                                           <td>
                                             <a href="/ca/en/menu/full_menu/desserts_shakes.html">Desserts &amp; Shakes</a>
+                                          </td>
+                                        </tr>
+                                
+                                        <tr>
+                                          <td>
+                                            <a href="/ca/en/menu/full_menu/mccafe.html">McCafé®</a>
                                           </td>
                                         </tr>
                                 
@@ -381,23 +388,27 @@ var webtrends = 'www1.mcdonalds.com/metrics/leftnav/mcdonaldsca.js';
             </li>
             
                     <li id="promonav_li">
-                        <a href="/ca/en/promotions.html" id="promonav_link" class="nav_item" style="background-image: url('/content/ca/en/promotions/jcr:content/navimage.img.png/1348942681565.png');"></a>
+                        <a href="/ca/en/promotions.html" id="promonav_link" class="nav_item" style="background-image: url('/content/ca/en/promotions/jcr:content/navimage.img.png/1370265445606.png');"></a>
                     
                     <div class="active_nav_widget" id="promonav_layer">
                       <div id="promonav_inner_layer">
             
                             <div class="float_left">
                         
-                                        <a href="/ca/en/promotions/mcdouble.html">
-                                        <img src="/content/ca/en/promotions/mcdouble/_jcr_content/promolevel2image.img.jpg/1348941038933.jpg" title="">
+                                        <a href="/ca/en/promotions/mcwrap.html">
+                                        <img src="/content/ca/en/promotions/mcwrap/_jcr_content/promolevel2image.img.jpg/1368648824311.jpg" title="">
                                         </a>
                                     
                             </div>
                         
                             <div class="float_left">
                         
-                                        <a href="/ca/en/promotions/monopoly.html">
-                                        <img src="/content/ca/en/promotions/monopoly/_jcr_content/promolevel2image.img.jpg/1347995715845.jpg" title="">
+                                        <a href="/ca/en/promotions/dollardrinkdays.html">
+                                        <img src="/content/ca/en/promotions/dollardrinkdays/_jcr_content/promolevel3image.img.jpg/1368648687006.jpg" title="">
+                                        </a>
+                                    
+                                        <a href="/ca/en/promotions/frappe.html">
+                                        <img src="/content/ca/en/promotions/frappe/_jcr_content/promolevel3image.img.jpg/1371069068864.jpg" title="">
                                         </a>
                                     
                             </div>
@@ -504,12 +515,6 @@ var webtrends = 'www1.mcdonalds.com/metrics/leftnav/mcdonaldsca.js';
                                           </td>
                                         </tr>
                                 
-                                        <tr>
-                                          <td>
-                                            <a href="/ca/en/careers/rest_opp/national_hiring_day.html">National Hiring Day</a>
-                                          </td>
-                                        </tr>
-                                
                                 </tbody>
                             </table>
                             </div>
@@ -536,6 +541,11 @@ var webtrends = 'www1.mcdonalds.com/metrics/leftnav/mcdonaldsca.js';
                     </div>
                 </div>
             
+            </li>
+            
+                    <li id="noflyout_li">
+                        <a href="/ca/en/franchising.html" id="noflyout_link" class="nav_item" style="background-image: url('/content/ca/en/franchising/jcr:content/navimage.img.png/1352411674022.png');"></a>
+                    
             </li>
             
                     <li id="simplenav_li">
@@ -669,11 +679,11 @@ function _utf8_encode(string) {
             <div id="breadcrumb">
                 <div class="mcdonaldsbreadcrumb breadcrumb">
 
+ 
+   
 
  
-
-
-  
+    
    
          
  
@@ -684,7 +694,7 @@ function _utf8_encode(string) {
         </div>      
               
  
-   
+  
   
          </div>
 
@@ -697,8 +707,8 @@ function _utf8_encode(string) {
                <div class="parbase search"> 
  
 
-
  
+   
    <form name="searchfrm" action="javascript:submitSearch();">
      Search&nbsp;&nbsp;&nbsp;&nbsp;<input type="text" name="search" rel=""> 
    </form> 
@@ -721,8 +731,8 @@ function _utf8_encode(string) {
         
             <div id="language">
                 <div class="siteToggler">
-
  
+   
 
 <script>
 
@@ -756,8 +766,8 @@ function siteToggler(lang,link,redirectSearchResultToSearch)
         
             <div id="share">
                 <div class="share socialsharing">
-
  
+   
 
 
 
@@ -838,11 +848,11 @@ function siteToggler(lang,link,redirectSearchResultToSearch)
   
 <div id="share_flyout" style="display: none; top: 30px; left: 70.1562px;">
     
-                <a href="javascript:facebook();" class="external" id="share_facebook" title="Facebook"><img src="/content/dam/sweden/social_sharing_images/share_facebook.png" width="16" height="16" alt="Facebook"></a>      
+                <a href="javascript:facebook();" class="external" id="share_facebook" title="Facebook"><img src="/content/dam/Canada/en/socialsharing/share_facebook.png" width="16" height="16" alt="Facebook"></a>      
             
-                <a href="javascript:twitter();" class="external" id="share_twitter" title="Twitter"><img src="/content/dam/sweden/social_sharing_images/share_twitter.png" width="16" height="16" alt="Twitter"></a>
+                <a href="javascript:twitter();" class="external" id="share_twitter" title="Twitter"><img src="/content/dam/Canada/en/socialsharing/share_twitter.png" width="16" height="16" alt="Twitter"></a>
             
-                <a href="javascript:delicious();" class="external" id="share_delicious" title="Delicious"><img src="/content/dam/sweden/social_sharing_images/share_delicious.png" width="16" height="16" alt="Delicious"></a>
+                <a href="javascript:delicious();" class="external" id="share_delicious" title="Delicious"><img src="/content/dam/Canada/en/socialsharing/share_delicious.png" width="16" height="16" alt="Delicious"></a>
             
 </div> 
 <div style="clear:both"></div>
@@ -864,8 +874,8 @@ function siteToggler(lang,link,redirectSearchResultToSearch)
         
         
 
-
  
+   
     <div id="page_wrapper">
         <div id="page_content">
     
@@ -879,13 +889,13 @@ function siteToggler(lang,link,redirectSearchResultToSearch)
         <div id="content_section" style="background-color:#FFFFFF;  padding-bottom: 71px;">
         
                 
-
  
+   
     <div id="main_content_segment" class="clear">
         <div class="main_content_inner_ko" style="">
             <div class="parsys genericpagecontent"><div class="everything section">
-
  
+   
 
   
 
@@ -1014,8 +1024,8 @@ Fax: 416-446-3429</p>
     
         <div id="page_footer">
             <div class="parsys iparsys footeripar"><div class="iparys_inherited"><div class="parsys iparsys footeripar"><div class="section"><div class="footer">
-
  
+   
 
  
 
@@ -1059,17 +1069,18 @@ Fax: 416-446-3429</p>
     
         <td align="left" valign="middle" class="bigger_and_bolder">
  
+                <div style="float:left;">
+            <a href="http://twitter.com/#!/mcd_canada" onclick="javascript:;" title="">
+                    <img align="absmiddle" src="/content/dam/Canada/en/global/twitter.png" alt=""><span style="margin-left:3px;">Follow</span>
+              </a> 
+           </div>     
+                      <div style="float:left; margin-left:8px;">
+            <a class="external" href="http://www.facebook.com/McDonaldsCanada" onclick="javascript:;" title="">
+                    <img align="absmiddle" src="/content/dam/Canada/en/global/facebook.png" alt=""><span style="margin-left:3px;">Like</span>
+              </a> 
+           </div>     
 
-         <a href="http://twitter.com/#!/mcd_canada" onclick="javascript:;" title="">
-                <img align="absmiddle" src="/content/dam/Canada/en/global/twitter.png" alt="">Follow 
-            </a> 
-            
-
-         <a class="external" href="http://www.facebook.com/McDonaldsCanada" onclick="javascript:;" title="">
-                <img align="absmiddle" src="/content/dam/Canada/en/global/facebook.png" alt="">Like 
-            </a> 
-            
-              
+           
         
                 </td>
             
@@ -1095,7 +1106,7 @@ Fax: 416-446-3429</p>
         
   
      <span>|</span>                 
-     <span style="color:#;font-size:px;"> ©2010-2012&nbsp;&nbsp;McDonald's.</span>
+     <span style="color:#;font-size:px;"> ©2010-2013&nbsp;&nbsp;McDonald's</span>
        
        </td>
     </tr>
@@ -1165,7 +1176,8 @@ Fax: 416-446-3429</p>
 <!-- Created: 12/2/2011 -->
 <script type="text/javascript"> 
 var _tagurl = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'www1.mcdonalds.com/metrics/leftnav/mcdonaldsca.js';
-var _multitrackerurl = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'www1.mcdonalds.com/metrics/leftnav/multitracker.js';
+//var _multitrackerurl = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'www1.mcdonalds.com/metrics/leftnav/multitracker.js';
+var _multitrackerurl = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'www1.mcdonalds.com/metrics/leftnav/multitracker_arabia.js';
 var _rmanalyticsurl = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'www1.mcdonalds.com/metrics/leftnav/RMAnalytics.js';
 </script>
 <script type="text/javascript"> 
@@ -1173,7 +1185,7 @@ document.write("<script type='text/javascript' src="+ _tagurl + "><\/script>");
 document.write("<script type='text/javascript' src="+ _multitrackerurl + "><\/script>");
 document.write("<script type='text/javascript' src="+ _rmanalyticsurl + "><\/script>");
 
-</script><script type="text/javascript" src="https://www1.mcdonalds.com/metrics/leftnav/mcdonaldsca.js"></script><script type="text/javascript" src="https://www1.mcdonalds.com/metrics/leftnav/multitracker.js"></script><script type="text/javascript" src="https://www1.mcdonalds.com/metrics/leftnav/RMAnalytics.js"></script>
+</script><script type="text/javascript" src="https://www1.mcdonalds.com/metrics/leftnav/mcdonaldsca.js"></script><script type="text/javascript" src="https://www1.mcdonalds.com/metrics/leftnav/multitracker_arabia.js"></script><script type="text/javascript" src="https://www1.mcdonalds.com/metrics/leftnav/RMAnalytics.js"></script>
  
 <!-- ----------------------------------------------------------------------------------- -->
 <!-- Warning: The two script blocks below must remain inline. Moving them to an external -->
@@ -1197,20 +1209,7 @@ _tag.dcsCollect();
       
       
            
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
 
-  
-   
- 
 
 
 <script type="text/javascript">
