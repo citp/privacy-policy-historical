@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the callfire.com privacy policy that was archived on 2012-11-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121104020728id_/http%3A//www.callfire.com/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the callfire.com privacy policy that was archived on 2013-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130616023943id_/https%3A//www.callfire.com/legal/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | CallFire
 
 Privacy Statement Effective as of January 26, 2008 
 
-Skyy Consulting inc. (DBA "CallFire" or the "Company") is committed to protecting the privacy of your information. This Privacy Statement describes CallFire's information practices
+CallFire Inc. (DBA "CallFire" or the "Company") is committed to protecting the privacy of your information. This Privacy Statement describes CallFire's information practices
 
   1\. Web Sites Covered
 
