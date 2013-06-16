@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the fillz.com privacy policy that was archived on 2012-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121223122859id_/http%3A//fillz.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fillz.com privacy policy that was archived on 2013-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130616152338id_/http%3A//www.fillz.com/privacy.html) for the most accurate reproduction.*
 
-# FillZ Sales Management : Privacy
+# FillZ.com : Privacy Policy
 
 FillZ knows that you care how information about you is used and shared, and we appreciate your trust that we will do so carefully and sensibly. Please note that FillZ is a division of AbeBooks, Inc. ("AbeBooks"). As a part of AbeBooks, FillZ follows the same information practices as AbeBooks, and information we collect is subject to the AbeBooks Privacy Notice.
 
