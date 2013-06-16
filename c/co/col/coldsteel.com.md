@@ -1,64 +1,36 @@
-> *The following text is extracted and transformed from the coldsteel.com privacy policy that was archived on 2012-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120504221957id_/http%3A//www.coldsteel.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the coldsteel.com privacy policy that was archived on 2013-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130616185437id_/http%3A//coldsteel.com/Privacy.aspx) for the most accurate reproduction.*
 
-# Cold Steel : World's Strongest, Sharpest Knives
+# Privacy Policy
 
-_This site is hosted by Yahoo! Store. Yahoo! hosts the store pages, ordering system, and order data. Yahoo! automatically collects order information but may only use this information in the aggregate. If you accessed this store through Yahoo! Shopping, Yahoo! also automatically collects information about your shopping experience. Please see the[Yahoo! Privacy Policy](http://info.yahoo.com/privacy/us/yahoo/details.html) for more information about how Yahoo! uses this information._
+   
+  
+Thank you for visiting our web site. This privacy policy tells you how we use personal information collected at this site. Please read this privacy policy before using the site or submitting any personal information. By using the site, you are accepting the practices described in this privacy policy. These practices may be changed, but any changes will be posted and changes will only apply to activities and information on a going forward, not retroactive basis. You are encouraged to review the privacy policy whenever you visit the site to make sure that you understand how any personal information you provide will be used. 
 
-## Privacy Policy
+Note, the privacy practices set forth in this privacy policy are for this web site only. If you link to other web sites, please review the privacy policies posted at those sites.  
+  
+##### Collection of Information
 
-01/01/2008
+We collect personally identifiable information, like names, postal addresses, email addresses, etc., when voluntarily submitted by our visitors. The information you provide is used to fulfill your specific request. This information is only used to fulfill your specific request, unless you give us permission to use it in another manner, for example to add you to one of our mailing lists.  
+  
+##### Cookie/Tracking Technology
 
-Cold Steel
+The Site may use cookie and tracking technology depending on the features offered. Cookie and tracking technology are useful for gathering information such as browser type and operating system, tracking the number of visitors to the Site, and understanding how visitors use the Site. Cookies can also help customize the Site for visitors. Personal information cannot be collected via cookies and other tracking technology, however, if you previously provided personally identifiable information, cookies may be tied to such information. Aggregate cookie and tracking information may be shared with third parties.  
+  
+##### Distribution of Information
 
-Our Commitment To Your Privacy
+We may share information with governmental agencies or other companies assisting us in fraud prevention or investigation. We may do so when: (1) permitted or required by law; or, (2) trying to protect against or prevent actual or potential fraud or unauthorized transactions; or, (3) investigating fraud which has already taken place. The information is not provided to these companies for marketing purposes.  
+  
+##### Commitment to Data Security
 
-Your privacy is important to us. To better protect your privacy the following notice explains the information we collect, how it is used, how it is safeguarded, and how to contact us if you have any concerns.
+Your personally identifiable information is kept secure. Only authorized employees, agents and contractors (who have agreed to keep information secure and confidential) have access to this information. All emails and newsletters from this site allow you to opt out of further mailings.  
+  
+##### Privacy Contact information
 
-What Information Is Collected:
+If you have any questions, concerns, or comments about our privacy policy you may contact us using the information below:
 
-As part of the order process, the following information is collected from shoppers:
+  * By E-Mail: customerservice@coldsteel.com 
+  * By Phone: 805-650-8481
 
-Name Shipping/Billing Address Email address Phone number Credit/Debit Card Information
-
-How That Information Is Used:
-
-We use the information you provide about yourself when placing an order only to complete that order. We do not share this information with outside parties except to the extent necessary to complete that order.
-
-We use the information you provide about someone else when placing an order only to ship the product and to confirm delivery. We do not share this information with outside parties except to the extent necessary to complete that order.
-
-We offer gift-cards by which you can personalize a product you order for another person. Information you provide to us to create a gift-card is only used for that purpose, and it is only disclosed to the person receiving the gift.
-
-We use return email addresses to answer the email we receive. Such addresses are not used for any other purpose and are not shared with outside parties.
-
-You can register with our website if you would like to receive our catalog as well as updates on our new products and services. Information you submit on our website will not be used for this purpose unless you fill out the registration form.
-
-We use non-identifying and aggregate information to better design our website and to share with advertisers. For example, we may tell an advertiser that X number of individuals visited a certain area on our website, or that Y number of men and Z number of women filled out our registration form, but we would not disclose anything that could be used to identify those individuals.
-
-Finally, we never use or share the personally identifiable information provided to us online in ways unrelated to the ones described above without also providing you an opportunity to opt-out or otherwise prohibit such unrelated uses.
-
-Our Commitment To The Security of Your Data
-
-To prevent unauthorized access, maintain data accuracy, and ensure the correct use of information, we have put in place appropriate physical, electronic, and managerial procedures to safeguard and secure the information we collect online.
-
-Contact Us 
-
-Charge Card Orders: 1 (800) 255-4716  
-International Order: (805) 650-8481  
-FAX: (805) 642-9727 (24 Hours a Day)  
-6:00AM - 6:00PM (PST) Mon-Fri  
-8:00AM - 5:00PM (PST) Saturday  
-Closed on Sunday  
-
-
-Customer Service:  
-(805) 658-0180   
-8:00AM - 5:00 PM (PST)  
-Cold Steel, Inc.   
-3036-A Seaborg Ave.   
-Ventura, CA 93003   
-
-
-* The Cold Steel Office is not open to the public.   
-* We DO NOT have a retail store in our building.   
-* We can only take orders on this website, by mail or by phone.  
-* If you would prefer to shop at a retail store, please call so that we can give you the location of your nearest Cold Steel dealer. 
+  
+  
+We reserve the right to make changes to this policy. Any changes to this policy will be posted.
