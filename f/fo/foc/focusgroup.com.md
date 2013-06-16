@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the focusgroup.com privacy policy that was archived on 2012-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121107160607id_/http%3A//focusgroup.com/About/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the focusgroup.com privacy policy that was archived on 2013-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130616042703id_/http%3A//focusgroup.com/About/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # About | Privacy Policy
 
-**Last Modified 9/8/2011   **
+**Last Modified 2/08/2013   **
 
 **PRIVACY POLICY AND RESPONDENT BILL OF RIGHTS**  
 We would like to take this opportunity to thank you for visiting our website.  We appreciate that visitors may be concerned about privacy.  For this reason, we have developed the following Privacy Policy and Respondent Bill of Rights.  If you have questions regarding our Privacy Policy, please direct such questions to [yourprivacy@focuspointeglobal.com](mailto:yourprivacy@focuspointeglobal.com?subject=A%20question%20about%20your%20privacy%20policy).
@@ -37,7 +37,7 @@ This website and our focus groups are not intended for children under the age of
 We do not and will not at any time request any personal information via e-mail, nor will we include a link to an account login page in any e-mail.  If you receive an e-mail requesting any personal information, including without limitation your social security number, your credit card or bank information, PLEASE DO NOT RESPOND BY PROVIDING ANY OF THE INFORMATION REQUESTED.  We never request any of this information from you, even if you elect to sign up to participate in our focus groups.  If you receive an e-mail requesting any of this information, it is likely that you have received an attempted theft of your identity commonly called “phishing.”  Likewise, if you receive an e-mail urging you to login to your account and providing you with a link to the login page, it is also likely that you have received a “phishing” e-mail.  In either case, you should bring the e-mail to our attention by forwarding the e-mail to [yourprivacy@focuspointeglobal.com](mailto:yourprivacy@focuspointeglobal.com?subject=A%20question%20about%20your%20privacy%20policy).For more information about “phishing,” you should visit the Federal Trade Commission’s website at www.ftc.gov.
 
 **EFFECTIVE DATE OF THE PRIVACY POLICY; CHANGES**  
-This Privacy Policy is effective September 8, 2011.
+This Privacy Policy became effective September 8, 2011.
 
 We reserve the right to alter or amend this Privacy Policy at any time and without prior notice to you in order to reflect changes in our online information practices.  In an effort to ensure that you receive notice of any changes to the Privacy Policy, we may include a notice on our website.  Alternatively, we may send a notice to the e-mail address you provide to us; however, if you do not provide us with an e-mail address, we will not be able to provide you with such notice. We also recommend that you check back with this web page periodically so that you may be kept informed regarding any changes to the Privacy Policy.  You should also visit our Terms of Use in addition to this Privacy Policy.
 
