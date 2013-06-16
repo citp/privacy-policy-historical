@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the weblog.com privacy policy that was archived on 2012-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121204033109id_/http%3A//weblog.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the weblog.com privacy policy that was archived on 2013-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130616022543id_/http%3A//weblog.com/privacy.html) for the most accurate reproduction.*
 
 # 
 
