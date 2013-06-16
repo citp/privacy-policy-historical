@@ -1,10 +1,8 @@
-> *The following text is extracted and transformed from the christianeducation.com privacy policy that was archived on 2012-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121203215519id_/http%3A//www.christianeducation.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the christianeducation.com privacy policy that was archived on 2013-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130616181309id_/http%3A//www.christianeducation.com/privacy) for the most accurate reproduction.*
 
 # Christian Education Privacy Policy | ChristianEducation.com
 
 ## Privacy Policy
-
-Last Revised: October 2011 
 
 [](https://privacy.truste.com/privacy-seal/eLearners-com,-Inc-/validation?rid=d76b4de5-dd03-4789-955a-c87cd33e0dc2 "TRUSTe online privacy certification")
 
@@ -20,27 +18,23 @@ Personal Data. When you fill out a "Student Matching Profile", our Self-Assessme
 
 Anonymous Data. We automatically collect IP addresses and Web site usage information from you when you visit the Site. This information helps us evaluate how our visitors use and navigate the Site on an aggregate basis, including the number and frequency of visitors to each Web page, and the length of their visits. 
 
-###  How We Use Your Information
+###  How We Use Your Information And How We Share Your Data
 
-We may use your personal data in the following ways: 
+EducationDynamics will not disclose your personally identifiable information except as described below: 
 
-  * For the purpose for which you specifically provided the personal data, for example, but not limited to, to match your student matching profile to educational institutions or to respond to a specific inquiry. 
-  * To send you notifications about your accounts or transactions with us and to otherwise contact you with information that we believe will be of interest to you. 
-  * To notify you about our products and services and special offers. 
-  * To enhance existing features or develop new features products and services. 
+If you use our site or if you post on our blogs, forums, message boards, or chat rooms, some personally identifiable information may be seen by other members or users. This includes, but is not limited to, the poster's name, date of post, comments, IP address, survey responses, and other information. This information may also be transferred to any outside entity, including the press or other media that visits our site. 
 
+We use the information we automatically collect (such as contact information, IP address and basic browser and system details) to help us optimize our sites and the services we currently offer on the sites and may offer in the future. We also collect personal information and share it with trusted third parties to analyze and provide us with feedback, suggestions and strategies to improve our business processes and the services we provide. If you elect to provide us with personally identifiable information, such information may also be used for marketing purposes, and may result in follow-up communications from EducationDynamics, our affiliated properties and services, and institutions of higher education about opportunities, programs and other services that are related to education. In addition, from time to time, we may share personally identifiable information (such as e-mail addresses and other contact information such as name, email address and phone number) with carefully selected third parties, so they may offer goods and services that we believe may be of interest to our customers.
 
+EducationDynamics shares your personal information with the educational institutions you selected and, if you use one of our matching services, those institutions which we have matched your profile so that these institutions may contact you with information about their programs. Use of your personal information by these educational institutions is not governed by this Privacy Policy. For further information on such institution’s use of your information, please visit the applicable privacy policy of such institution. Educational institutions have separate policy practices for which EducationDynamics has no responsibility or liability. 
 
-We may combine the information that we collect from you on the Site with information that we collect from third parties.   
+If you submit information to an advertiser or other third party that is made available on or through EducationDynamics, the information obtained during your visit to that advertiser’s website, and the information you give to the advertiser will be governed by the advertiser’s privacy policy. For further information on such advertiser’s use of your information, please visit the applicable privacy policy of such advertisers. Advertisers made available on this site have separate policy practices for which EducationDynamics has no responsibility or liability. 
 
+We may disclose account information where we have reason to believe that disclosing the information is necessary to identify, contact, or bring legal action against someone who may be violating EducationDynamics's policies as specified in the Privacy Policy or relevant User Agreement, may be violating state or federal law, or may be causing injury to or interference with (either intentionally or unintentionally) EducationDynamics's rights or property, other users of the Site, or anyone else that could be harmed by such activities. EducationDynamics may disclose or access account information when we believe that the law requires it and for administrative and other purposes that we deem necessary to maintain and improve our services. 
 
-###  Sharing Your Data
+Additionally, EducationDynamics uses your information to provide you with a customized browsing experience. We also may use your personal information to resolve disputes, troubleshoot problems, respond to your inquiries, detect and protect against error, fraud, or other criminal activity, enforce our User Agreement, and for any other purposes that EducationDynamics deems appropriate. 
 
-We share this personal data with the educational institutions to which we have matched your profile so that these institutions can contact you with information about their educational programs. These educational institutions are not governed by this Privacy Policy. If you want to know more about a partner school’s use of your information, contact the school directly. We share the information you have provided on our matching profile with educational institutions. 
-
-We also share your information with third party service providers who help us to run this Site, provide services offered on this Site or to fulfill your requests with educational institutions and/or educational marketing providers. We may also need to disclose your personal data to third parties if required by law or to enforce our User Agreement or this Privacy Policy, or when we, in our sole discretion, believe it is necessary or appropriate, in connection with a sale or transfer of some or all of our assets in the Site.
-
-_If you do not wish to have your personally identifiable information shared, to opt-out from receiving further communications from any third party that is not our agent or service provider. Please contact that marketing partner/affiliate directly._
+We cannot ensure that all of your private communications and other personal information will never be disclosed in ways not otherwise described in this Policy. For example, we may be forced to disclose information to the government or third parties under certain circumstances, third parties may unlawfully intercept or access transmissions or private communications, or users may abuse or misuse your personal information that they unlawfully collect from the Site. We will try to protect your privacy, however, we do not promise, and you should not expect, that your personal information or private communications will always remain private. 
 
 ##  Newsletter Subscription
 
@@ -143,3 +137,5 @@ We reserve the right to disclose your personally identifiable information as req
 Christian Education is a licensee of the TRUSTe Privacy Program. TRUSTe is an independent, organization whose mission is to build user's trust and confidence in the Internet by promoting the use of fair information practices. This privacy statement covers the Web site [http://www.christianeducation.com/privacy.aspx](https://web.archive.org/privacy.aspx). Because this Web site wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices and have its privacy practices reviewed for compliance by TRUSTe.
 
 If you have questions or concerns regarding this statement, you should first contact Christian Education at info@christianeducation.com. If you do not receive acknowledgement of your inquiry or your inquiry has not been satisfactorily addressed, you should contact TRUSTe at <http://www.truste.org/consumers/watchdog_complaint.php> TRUSTe will then serve as a liaison with us to resolve your concerns.
+
+This updated policy is effective as of October 24, 2012 
