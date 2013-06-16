@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the listeruption.com privacy policy that was archived on 2012-10-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121017021339id_/http%3A//www.listeruption.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the listeruption.com privacy policy that was archived on 2013-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130616025118id_/http%3A//www.listeruption.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy « List Eruption
+# 
 
 IMPORTANT! THIS PRIVACY POLICY (“POLICY”) DESCRIBES LISTERUPTION.COM, INCORPORATED PROTECTS, USES AND SHARES ANY INFORMATION WHICH IS PROVIDED BY YOU. BY ACCESSING THE SITE, YOU ARE INDICATING THAT YOU HAVE READ, UNDERSTOOD AND AGREE TO THIS PRIVACY POLCY AND OUR TERMS OF SERVICE. IF YOU DO NOT AGREE TO THE TERMS OF SERVICE OR OUR PRIVACY POLICY, PLEASE DO NOT USE THE SITE OR ANY SERVICES OFFERED AT THE SITE.
 
