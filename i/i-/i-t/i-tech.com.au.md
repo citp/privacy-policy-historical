@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the i-tech.com.au privacy policy that was archived on 2012-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121215115953id_/http%3A//www.i-tech.com.au/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the i-tech.com.au privacy policy that was archived on 2013-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130616121426id_/http%3A//www.i-tech.com.au/Privacy.aspx) for the most accurate reproduction.*
 
 # Privacy
 
@@ -22,7 +22,7 @@ Name, address and payment information, although credit card and PO numbers may b
 **E-mail a link to product information to a friend/colleague "Tell a friend"**   
 E-mail address of your friend/colleague and your e-mail address. 
 
-[**_Application of employment_**](https://web.archive.org/web/20121215115953id_/http%3A//www.i-tech.com.au/Jobs.aspx)   
+[**_Application of employment_**](https://web.archive.org/web/20130616121426id_/http%3A//www.i-tech.com.au/Jobs.aspx)   
 First name, last name, address, home phone, city, state, country, whether or not you have the legal right to work in the Australia, any criminal convictions, date available to start, current employment status, whether or not you have any computer skills/training as well as your certification that the information contained in the application is true and correct and that you have authorized the affidavit contained in the application. 
 
 **Is your information used for any other purpose?**   
@@ -49,8 +49,38 @@ We use cookies as a way to give you better service. They personalize your shoppi
 
 [ _Click here_](mailto:info@i-tech.com.au) to contact us. 
 
-|  |   
----|---|---|---|---  
+|  |  | 
+
+| Shopping Cart  
+---  
+  
+[](http://www.i-tech.com.au/Adsltpg.aspx)
+
+[ ](http://www.i-tech.com.au/Flexirent.aspx)  
+  
+| [Specials](http://www.i-tech.com.au/Special.aspx)  
+---  
+| [ Cyberoam CR35wING - 6x GbE ports, 802.11 b/ g/ n, 2300 Mbps Firewall Throughput, 210 Mbps UTM Throughput ](http://www.i-tech.com.au/products/141396_Cyberoam_CR35wING___6x_GbE_ports.aspx)  
+---  
+$884.00   
+Regular Price $1,017.00  
+Your save $133.00  
+[ Leadtek Geforce GTX 680 PCI-E 3.0 4GB 256-bit DDR5, Base: 1006 Boost:1058/ 6008 MHz, 2x DVI, ](http://www.i-tech.com.au/products/146155_Leadtek_Geforce_GTX_680_PCI_E_3_0.aspx)  
+$572.00   
+Regular Price $674.00  
+Your save $102.00  
+[ TUCANO Microfibra Script MacBook Pro 17in - grey BFUS-MB17-GV ](http://www.i-tech.com.au/products/142159_TUCANO_Microfibra_Script_MacBook.aspx)  
+$24.00   
+Regular Price $29.00  
+Your save $5.00  
+[ MAGELLAN EXPLORIST 310 EU MG00310 ](http://www.i-tech.com.au/products/95612_MAGELLAN_EXPLORIST_310_EU_MG00310.aspx)  
+$195.00   
+Regular Price $299.00  
+Your save $104.00  
+[ HP L2314(C4H43AA) 23" IPS w/ LED Backlight, 14MS (GtG), 16:9, 1920X1080, DVI-D+HDMI+VGA, Tilt, 3 ](http://www.i-tech.com.au/products/145263_HP_L2314_C4H43AA__23__IPS_w__LED.aspx)  
+$218.00   
+Regular Price $254.00  
+Your save $36.00  
   
   
 ---  
