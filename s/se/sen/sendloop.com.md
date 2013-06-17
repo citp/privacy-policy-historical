@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the sendloop.com privacy policy that was archived on 2012-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121227183954id_/http%3A//sendloop.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sendloop.com privacy policy that was archived on 2013-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130617020313id_/http%3A//sendloop.com/privacy_policy) for the most accurate reproduction.*
 
-# Privacy Policy | Sendloop
+# Sendloop - Send email newsletters
 
 [Read Turkish version](https://web.archive.org/privacy_policy/tr/)
 
