@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the justuno.com privacy policy that was archived on 2012-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121101072312id_/http%3A//www.justuno.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the justuno.com privacy policy that was archived on 2013-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130617172659id_/http%3A//www.justuno.com/privacy.html) for the most accurate reproduction.*
 
-# Justuno: Coupon Code publishing tool for online retailers.
+# Get Facebook Likes, Tweets, Google +1s and Increase Sales
 
 This Privacy Policy (this "Policy") describes how personal information is collected from users of the Justuno website at http://www.justuno.com (the "Site") and the Justuno coupon publishing service ("Coupon Publishing Service"), operated by Justuno, LLC. ("Justunos," "we," or "us") and how that information is used and disclosed. The Coupon Publishing Service is provided both through the Site and through third party sites via framing techniques as described below ("Third Party Sites"). We encourage you to read this Policy carefully before providing any personal information on the Site or Coupon Publishing Service.                        
 
@@ -21,7 +21,10 @@ Additionally, we may use, and may allow third parties to use, Web beacons on the
 
 How We Use the Information We Collect                        
 
-We use the information we collect to:                        
+We use the information we collect to:
+
+  
+
 
   * contact you for administrative purposes or provide you with customer service;
   * complete transactions requested by you or to verify that you have submitted a coupon to our Coupon Publishing Service;
@@ -48,7 +51,10 @@ We may release personal information when we believe release is appropriate to co
 
 Choice and Access                        
 
-We provide our users with the ability to "opt-in" to receiving certain communications from us or having their information disclosed to third parties by indicating their preferences at the time of registration. If such user later wishes to change these preferences or access, change or delete their personal information we provide the following options:                        
+We provide our users with the ability to "opt-in" to receiving certain communications from us or having their information disclosed to third parties by indicating their preferences at the time of registration. If such user later wishes to change these preferences or access, change or delete their personal information we provide the following options: 
+
+    
+                     
 
   * To "opt-out" of receiving promotional e-mail from us, you can; (a) send an email to help@Justuno.com with your request; or (b) click on the "unsubscribe" field in your on line account management page.
 
