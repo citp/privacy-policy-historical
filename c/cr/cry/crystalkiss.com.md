@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the crystalkiss.com privacy policy that was archived on 2012-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121119155723id_/http%3A//www.crystalkiss.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the crystalkiss.com privacy policy that was archived on 2013-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130617050022id_/http%3A//www.crystalkiss.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Crystal Kiss - Strange News and more...
+# Privacy Policy | Crystal Kiss
 
 Crystal Kiss has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses the information gathering and dissemination practices for this Web site.
 
