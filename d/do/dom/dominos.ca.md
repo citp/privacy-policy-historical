@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dominos.ca privacy policy that was archived on 2012-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121227112225id_/http%3A//www.dominos.ca/pages/legal-privacy-ca.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dominos.ca privacy policy that was archived on 2013-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130617133247id_/http%3A//www.dominos.ca/pages/legal-privacy-ca.jsp) for the most accurate reproduction.*
 
 # Domino's Pizza Privacy Policy
 
@@ -24,7 +24,7 @@ Internal Business Purposes
 
 Domino's Pizza of Canada Ltd. uses the personal information you provide for the purposes for which it was provided, for example to process a request for home delivery of product; to respond to queries or complaints; to notify you that you have won a prize, contest or sweepstakes. Domino's Pizza of Canada Ltd. uses your Personal Information to better understand your needs, to improve our products and services, to develop and advance the business system of Domino's Pizza of Canada Ltd. and to ensure better customer satisfaction. 
 
-Domino's Pizza of Canada Ltd.'s Direct Marketing Domino's Pizza of Canada Ltd. may use your personal information for contacting you about products and services, special offers and upcoming promotions or events offered by us, our affiliates, or our marketing partners that we think may be of interest to you for the purposes of marketing. If you prefer that we not use your personal information for direct marketing, you may opt-out of such uses by sending an email to: the Privacy Manager, [privacymanager@dominos.ca](mailto:privacymanager@dominos.ca) or write to: Privacy Manager, Domino's Pizza of Canada Ltd. PO Box 430, Leamington, Ontario N8H 3W3 or call (519) 326-5280 (Monday to Friday 8 am - 5 pm MST). Any subsequent registration or request, either oral or in writing, for our services or participation in our sweepstakes, contest or surveys may void, temporarily or permanently, your prior elections to opt out of receiving marketing materials from Domino's Pizza of Canada Ltd.. Once you have opted out from our direct marketing, please review all applicable rules and regulations before participating in any contests, sweepstakes, surveys, promotions or services. 
+Domino's Pizza of Canada Ltd.'s Direct Marketing Domino's Pizza of Canada Ltd. may use your personal information for contacting you about products and services, special offers and upcoming promotions or events offered by us, our affiliates, or our marketing partners that we think may be of interest to you for the purposes of marketing. If you prefer that we not use your personal information for direct marketing, you may opt-out of such uses by sending an email to: the Privacy Manager, [privacymanager@dominos.ca](mailto:privacymanager@dominos.ca) or write to: Privacy Manager, Domino's Pizza of Canada Ltd. P.O. Box 21010, 500 Manning Road, Windsor, Ontario N8N 4S1 or call (519) 326-5280 (Monday to Friday 8 am - 5 pm MST). Any subsequent registration or request, either oral or in writing, for our services or participation in our sweepstakes, contest or surveys may void, temporarily or permanently, your prior elections to opt out of receiving marketing materials from Domino's Pizza of Canada Ltd.. Once you have opted out from our direct marketing, please review all applicable rules and regulations before participating in any contests, sweepstakes, surveys, promotions or services. 
 
 ### WHEN AND HOW DO WE DISCLOSE YOUR PERSONAL INFORMATION
 
@@ -34,7 +34,7 @@ Where permitted or required by law, Domino's Pizza of Canada Ltd. may collect, u
 
 ### HOW DO YOU CONSENT
 
-By providing us with your personal information, you consent to our collection, use and disclosure of that information as described in this Privacy Policy as amended from time to time or as described at or before the time of collection, use or disclosure, as the case may be. If you do not want your personal information to be collected, used or disclosed in this manner, please do not submit your personal information to us or exercise opt-out procedures described above or as may be offered at the time of collection. If you have submitted personal information to us and wish to withdraw your consent to its retention, use or disclosure, please send an email to: Privacy Manager at [privacymanager@dominos.ca](mailto:privacymanager@dominos.ca) or write to: Privacy Manager, Domino's Pizza of Canada Ltd. PO Box 430, Leamington, Ontario N8H 3W3 or call (519) 326-5280. You may withdraw your consent, subject to legal or contractual restrictions and reasonable notice. 
+By providing us with your personal information, you consent to our collection, use and disclosure of that information as described in this Privacy Policy as amended from time to time or as described at or before the time of collection, use or disclosure, as the case may be. If you do not want your personal information to be collected, used or disclosed in this manner, please do not submit your personal information to us or exercise opt-out procedures described above or as may be offered at the time of collection. If you have submitted personal information to us and wish to withdraw your consent to its retention, use or disclosure, please send an email to: Privacy Manager at [privacymanager@dominos.ca](mailto:privacymanager@dominos.ca) or write to: Privacy Manager, Domino's Pizza of Canada Ltd. P.O. Box 21010, 500 Manning Road, Windsor, Ontario N8N 4S1 or call (519) 326-5280. You may withdraw your consent, subject to legal or contractual restrictions and reasonable notice. 
 
 ### HOW DO WE PROTECT
 
@@ -44,10 +44,12 @@ We will protect your information with appropriate safeguards and security measur
 
 We will make every reasonable effort to keep personal information as complete, accurate and current as is necessary to fulfill the purpose(s) for which it was collected. It is your right to have access to the personal information which you provided to us. Any request to this end should be sent to our Privacy Manager in writing at the following address: 
 
-Domino's Pizza of Canada Ltd.   
-Privacy Manager   
-PO Box 430   
-Leamington, Ontario N8H 3W3 
+Domino's Pizza of Canada Ltd   
+Attn: Privacy Manager   
+P.O. Box 21010   
+500 Manning Road   
+Windsor, Ontario   
+N8N 4S1 
 
 We will respond to your request within a reasonable time, at minimal or no cost. Please note that we may not be able to provide personal information found on you which contains references to third parties as well as information that is subject to legal privilege, contains confidential information proprietary to Domino's Pizza of Canada Ltd., related to an investigation of a breach of an agreement or a contravention of the law, or cannot be disclosed for other legal reasons. 
 
@@ -55,7 +57,7 @@ We will respond to your request within a reasonable time, at minimal or no cost.
 
 Domino's Pizza of Canada Ltd. reserves the right to change this Privacy Policy from time to time to address the changing needs of our business and / or to ensure compliance with applicable privacy laws. 
 
-If you have any inquiries, complaints, questions or requests regarding this Privacy Policy, please send an email to: Privacy Manager at [privacymanager@dominos.ca](mailto:privacymanager@dominos.ca) or write to: Privacy Manager, Domino's Pizza of Canada Ltd. PO Box 430, Leamington, Ontario N8H 3W3 or call (519) 326-5280. 
+If you have any inquiries, complaints, questions or requests regarding this Privacy Policy, please send an email to: Privacy Manager at [privacymanager@dominos.ca](mailto:privacymanager@dominos.ca) or write to: Privacy Manager, Domino's Pizza of Canada Ltd. P.O. Box 21010, 500 Manning Road, Windsor, Ontario N8N 4S1 or call (519) 326-5280. 
 
 ### OUR ONLINE PRIVACY POLICY
 
@@ -71,7 +73,7 @@ If you do not want us to obtain your personal information, please do not supply 
 
 Domino's Pizza of Canada Ltd. Web site or Applications also acts as a communication portal with our franchisees. Only franchisees and employees of Domino's Pizza of Canada Ltd. can become registered users of Franchisee Login on Domino's Pizza of Canada Ltd. Web site or Applications. Domino's Pizza of Canada Ltd. may collect personal information of its franchisees for this purpose including, without limitation, your name, email address, postal address, telephone number, a unique individual username and a unique individual password. 
 
-Domino's Pizza of Canada Ltd. Franchisees seeking more information or details regarding the above may contact their Franchise Business Consultant or write to: The Marketing Team, Domino's Pizza of Canada Ltd., PO Box 430, Leamington, Ontario N8H 3W3 or call toll free at: (519) 326-5280. 
+Domino's Pizza of Canada Ltd. Franchisees seeking more information or details regarding the above may contact their Franchise Business Consultant or write to: The Marketing Team, Domino's Pizza of Canada Ltd., P.O. Box 21010, 500 Manning Road, Windsor, Ontario N8N 4S1 or call toll free at: (519) 326-5280. 
 
 ### INFORMATION COLLECTED USING TECHNOLOGY
 
@@ -91,7 +93,7 @@ Domino's Pizza of Canada Ltd. maintains physical, electronic, and procedural saf
 
 ### CHILDREN'S POLICY
 
-This Web site or Application is directed toward and designed for use by persons aged 13 or older. Domino's Pizza of Canada Ltd. will not approve applications of, or establish or maintain registrations for any child whom Domino's Pizza of Canada Ltd. knows to be under the age of 13. Domino's Pizza of Canada Ltd. does not solicit or knowingly collect personal information from children under the age of 13. If Domino's Pizza of Canada Ltd. nevertheless discovers that it has received personal information from an individual who indicates that he or she is, or whom Domino's Pizza of Canada Ltd. otherwise has reason to believe is, under the age of 13, Domino's Pizza of Canada Ltd. will delete such information from its systems. Additionally, a child's parent or legal guardian may request that the child's information be corrected or deleted by requesting the same via an email to Privacy Manager at [privacymanager@dominos.ca](mailto:privacymanager@dominos.ca) or write to: Privacy Manager, Domino's Pizza of Canada Ltd. PO Box 430, Leamington, Ontario N8H 3W3 or call (519) 326-5280. 
+This Web site or Application is directed toward and designed for use by persons aged 13 or older. Domino's Pizza of Canada Ltd. will not approve applications of, or establish or maintain registrations for any child whom Domino's Pizza of Canada Ltd. knows to be under the age of 13. Domino's Pizza of Canada Ltd. does not solicit or knowingly collect personal information from children under the age of 13. If Domino's Pizza of Canada Ltd. nevertheless discovers that it has received personal information from an individual who indicates that he or she is, or whom Domino's Pizza of Canada Ltd. otherwise has reason to believe is, under the age of 13, Domino's Pizza of Canada Ltd. will delete such information from its systems. Additionally, a child's parent or legal guardian may request that the child's information be corrected or deleted by requesting the same via an email to Privacy Manager at [privacymanager@dominos.ca](mailto:privacymanager@dominos.ca) or write to: Privacy Manager, Domino's Pizza of Canada Ltd. P.O. Box 21010, 500 Manning Road, Windsor, Ontario N8N 4S1 or call (519) 326-5280. 
 
 ### LEGAL DISCLAIMER
 
@@ -99,6 +101,6 @@ Although we make every effort to preserve user privacy, we may need to disclose 
 
 ### CHANGES TO THIS PRIVACY POLICY
 
-Domino's Pizza of Canada Ltd. reserves the right to modify or supplement this policy at any time. If a material change to the terms of this policy is made, Domino's Pizza of Canada Ltd. will post a notice on its homepage and a link to the new policy. If you wish to change or delete your registration information or opt-out of any promotional materials please contact us via an email to Privacy Manager at [privacymanager@dominos.ca](mailto:privacymanager@dominos.ca) or write to: Privacy Manager, Domino's Pizza of Canada Ltd. PO Box 430, Leamington, Ontario N8H 3W3 or call (519) 326-5280. 
+Domino's Pizza of Canada Ltd. reserves the right to modify or supplement this policy at any time. If a material change to the terms of this policy is made, Domino's Pizza of Canada Ltd. will post a notice on its homepage and a link to the new policy. If you wish to change or delete your registration information or opt-out of any promotional materials please contact us via an email to Privacy Manager at [privacymanager@dominos.ca](mailto:privacymanager@dominos.ca) or write to: Privacy Manager, Domino's Pizza of Canada Ltd. P.O. Box 21010, 500 Manning Road, Windsor, Ontario N8N 4S1 or call (519) 326-5280. 
 
-If for any reason you feel that we have not followed our stated policy please let us know by e-mail at [privacymanager@dominos.ca](mailto:privacymanager@dominos.ca) or write to: Privacy Manager, Domino's Pizza of Canada Ltd. PO Box 430, Leamington, Ontario N8H 3W3 or call (519) 326-5280. We will look into your concern and try to resolve any problem. 
+If for any reason you feel that we have not followed our stated policy please let us know by e-mail at [privacymanager@dominos.ca](mailto:privacymanager@dominos.ca) or write to: Privacy Manager, Domino's Pizza of Canada Ltd. P.O. Box 21010, 500 Manning Road, Windsor, Ontario N8N 4S1 or call (519) 326-5280. We will look into your concern and try to resolve any problem. 
