@@ -1,0 +1,462 @@
+<!--The following is the downloaded HTML source of the anygator.com privacy policy that was archived on 2013-06-17.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130617031141id_/http%3A//us.anygator.com/info%3Fpage%3Dprivacy) for the most accurate reproduction.-->
+
+<!DOCTYPE html><html lang="en-US"><head>
+    <meta name="author" content="">       
+    <meta name="viewport" content="width=device-width,initial-scale=1">
+
+        <link rel="shortcut icon" href="/images/favicon.ico">
+    <meta http-equiv="content-language" content="en-US">
+    <meta http-equiv="content-type" content="text/html; charset=utf-8">
+    <title>Privacy - Anygator.com - Bite the net</title>
+    <meta name="description" content="Anygator.com Bite the net. Privacy policy for our new Feed Rss aggregator.">
+    <meta property="fb:app_id" content="143946715751710">
+    
+                        <meta property="og:type" content="website">
+                    <meta property="og:locale" content="en_US">
+                    <meta property="og:site_name" content="Anygator.com">
+                    <meta property="og:title" content="Privacy - Anygator.com - Bite the net">
+                    <meta property="og:description" content="Anygator.com Bite the net. Privacy policy for our new Feed Rss aggregator.">
+                    <meta property="og:image" content="http://us.anygator.com/images/default-image.png">
+                    <meta property="og:url" content="http://us.anygator.com/info?page=privacy">
+            
+    
+    <!-- Js Files Include -->
+                    <script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script id="facebook-jssdk" src="//connect.facebook.net/en_US/all.js#xfbml=1&amp;appId=143946715751710"></script><script type="text/javascript" src="/js/jquery.min.js?v=1350311289"></script>
+                <script type="text/javascript" src="/js/jquery-ui.min.js?v=1350311289"></script>
+                <script type="text/javascript" src="/js/functions.js?v=1350311289"></script>
+                <script type="text/javascript" src="/js/script.js?v=1350311289"></script>
+                <script type="text/javascript" src="/js/jquery.reveal.js?v=1350311289"></script>
+                <script type="text/javascript" src="/js/show-hide.js?v=1350311289"></script>
+                <script type="text/javascript" src="/js/custom-form-elements.js?v=1350311289"></script>
+                <script type="text/javascript" src="/js/jquery.jscrollpane.min.js?v=1350311289"></script>
+                <script type="text/javascript" src="/js/jquery.mousewheel.js?v=1350311289"></script>
+                <script type="text/javascript" src="/js/jquery.ba-outside-events.min.js?v=1350311289"></script>
+                <script type="text/javascript" src="/js/gs.min.js?v=1350311289"></script>
+                <script type="text/javascript" src="/js/translation.js?v=1350311289"></script>
+                <script type="text/javascript" src="/js/var/en_us.js?v=2264890953"></script>
+                <!-- END Js Files Include -->
+
+    <!-- Css Files Include -->
+                    <link rel="stylesheet" href="/css/global.css?v=1350311289">
+                <link rel="stylesheet" href="/css/header.css?v=1350311289">
+                <link rel="stylesheet" href="/css/captcha.css?v=1350311289">
+                <link rel="stylesheet" href="/css/search.css?v=1350311289">
+                <link rel="stylesheet" href="/css/body-page.css?v=1350311289">
+                <link rel="stylesheet" href="/css/sharing.css?v=1350311289">
+                <link rel="stylesheet" href="/css/modal-window.css?v=1350311289">
+                <link rel="stylesheet" href="/css/login-registrazione.css?v=1350311289">
+                <link rel="stylesheet" href="/css/news-result-box.css?v=1350311289">
+                <link rel="stylesheet" href="/css/form.css?v=1350311289">
+                <link rel="stylesheet" href="/css/sliding-panel.css?v=1350311289">
+                <link rel="stylesheet" href="/css/home.css?v=1350311289">
+                <link rel="stylesheet" href="/css/footer.css?v=1350311289">
+                <link rel="stylesheet" href="/css/jquery.jscrollpane.css?v=1350311289">
+                <link rel="stylesheet" href="/css/services-page.css?v=1350311289">
+                <link rel="stylesheet" href="/css/error.css?v=1350311289">
+                <!-- END Css Files Include -->
+
+    <script type="text/javascript">
+        var base_url = 'http://us.anygator.com';
+        var base_domain_url = 'http://us.anygator.com';
+        var _translation_engine_active = true;
+        var search_current_show = '';
+        
+        
+                    var l_list = [];
+                
+        var u_t = 3;
+                    var u_list = [];
+            </script>
+
+<script type="text/javascript">
+ var RecaptchaOptions = {
+     theme : 'custom',
+    custom_theme_widget: 'recaptcha_widget'
+ };
+
+var RecaptchaChallenge = '6Le4ztUSAAAAAHrTJlVsi39HTPt5MXB66vRr64x1';
+ </script>
+
+
+
+<script type="text/javascript">
+    
+$(document).ready(function(){
+
+    $(".btn-slide").click(function(){
+        if($("#panel").length < 1){
+            $.ajax({
+                type: "POST",
+                url: "/index/ajax",
+                data: 'function=add_feed_form',
+                dataType: 'html',
+                success: function(data) {
+                    $('#panel-add-feed').prepend(data);
+                    $("#panel").slideToggle("slow");
+                    $(this).toggleClass("active"); 
+                }   
+            });
+        } else {
+            $("#panel").slideToggle("slow");
+            $(this).toggleClass("active"); 
+        }
+    });
+});
+
+function selectCategory(category){
+    //alert(category);
+    if($('#'+category+'span').attr('style') == 'background-position: 0px 0px;'){
+        for (i=7; i<19; i++) {
+            $('#'+i+'span').attr('style', 'background-position: 0px 0px;');
+            $('#'+i).attr('checked',false);
+        }
+        $('#'+category+'span').attr('style', 'background-position: 0px -38px;');
+        $('#'+category).attr('checked',true);
+    }else{
+        $('#'+category+'span').attr('style', 'background-position: 0px 0px;');
+        $('#'+category).attr('checked',false);
+    }
+}
+</script>
+
+<script type="text/javascript">
+function slideonlyone(thechosenone) {
+
+     $('.test').each(function(index) {
+            
+          if ($(this).attr("id") == thechosenone) {
+               $(this).fadeIn(0 );
+          }
+          else {
+               $(this).fadeOut(0);
+          }
+     });
+
+}
+
+
+
+</script>
+
+</head><body><div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/all.js#xfbml=1&appId=143946715751710";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+<script type="text/javascript" src="http://platform.twitter.com/widgets.js"></script>
+<script type="text/javascript" src="https://apis.google.com/js/plusone.js">
+  {lang: 
+'en-US'
+}
+</script>
+
+
+
+ <script type="text/javascript" src="http://www.google.com/recaptcha/api/js/recaptcha_ajax.js"></script>
+
+
+<script type="text/javascript">
+    var YMTrackURL = "http://track.youniversalmedia.com/"
+    var YMTrackID="98";
+    document.write(unescape("%3Cscript src='" + YMTrackURL + "inTrack.js' type='text/javascript'%3E%3C/script%3E"));
+</script><script src="http://track.youniversalmedia.com/inTrack.js" type="text/javascript"></script>
+
+
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-13141251-6']);
+  _gaq.push(['_setDomainName', 'anygator.com']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+
+
+
+
+
+
+
+
+<!--HEADER-->
+<!--[if IE]>
+<style type="text/css">
+.search-container input{
+	
+	height:21px;
+	padding:8px 0 0 25px;
+    
+    }
+</style>
+<![endif]-->
+
+
+
+
+    <!-- js goes here for faster page load -->
+		<script type="text/javascript">
+		//global vars
+        var _logged_user = false;
+		var inputWdith = '372px';
+		var inputWdithReturn = '200px';		
+		$(document).ready(function() {
+			$('input[name=search_field]').focus(function(){
+				//clear the text in the box.
+				$(this).val(function() {
+		            $(this).val(''); 
+				});
+				//animate the box
+				$(this).animate({
+					width: inputWdith
+				}, 500 )
+			});	
+			
+			$('input[name=search_field]').blur(function(){
+                if(typeof filters === "undefined") filters = '';
+				if(typeof filters.kw === "undefined" || filters.kw == '') {
+                    if($(this).val() == '') {
+                        $(this).val(_("SEARCH_PLACEHOLDER"));
+                    }
+				} else {
+                    if($(this).val() == '') {
+                        $(this).val(filters.kw);
+                    }
+                }
+				$(this).animate({
+					width: inputWdithReturn
+				}, 800 )
+			});
+		});
+		
+		</script>
+	
+    
+    <div class="header">
+            <div class="slim-header">
+                <div class="slim-header-content">
+                <div class="slim-header-tab">
+     <div class="showhidetrigger" style="display:none;">
+        <span><a href="javascript:void(0);"><i></i>Saved News</a></span> 
+     </div>
+    
+    
+    <div id="showhidetarget" class="showhidetarget"></div>
+    
+
+<div id="user_actions_cnt">
+</div>
+<script type="text/javascript">
+var isLP = false;
+updateUserLoginInfo();
+</script>
+ 
+
+               
+                </div>
+              </div>
+            </div>
+        <div class="header-content">
+            <div class="logo"><a href="/"></a></div>
+            
+            <div class="search-container">
+			<form action="/search/" method="get" onsubmit="return search();">
+				<div class="search-container">
+                <input name="" type="submit" class="search-button orange" value="Search">
+					<input name="search_field" value="Search on Anygator" type="search">
+                    
+				</div>
+			</form>
+			
+			
+		</div>
+        
+        </div>
+    </div>
+
+<div class="header-bar">
+<div class="header-bar-content">
+
+           <ul>
+                                                                        <li><a href="/news" title="News">NEWS</a></li>
+                                        <li class="h-bar"></li>
+                                                            <li><a href="/politics" title="Politics">POLITICS</a></li>
+                                        <li class="h-bar"></li>
+                                                            <li><a href="/finance" title="Finance">FINANCE</a></li>
+                                        <li class="h-bar"></li>
+                                                            <li><a href="/culture" title="Culture">CULTURE</a></li>
+                                        <li class="h-bar"></li>
+                                                            <li id="expand"><a href="/entertainment" title="Entertainment">ENTERTAINMENT</a></li>
+                                        <li class="h-bar"></li>
+                                                            <li><a href="/gossip" title="Gossip">GOSSIP</a></li>
+                                        <li class="h-bar"></li>
+                                                            <li><a href="/music" title="Music">MUSIC</a></li>
+                                        <li class="h-bar"></li>
+                                                            <li><a href="/tech" title="Tech">TECH</a></li>
+                                        <li class="h-bar"></li>
+                                                            <li><a href="/sports" title="Sports">SPORTS</a></li>
+                                        <li class="h-bar"></li>
+                                                            <li><a href="/motors" title="Motors">MOTORS</a></li>
+                                        <li class="h-bar"></li>
+                                                            <li><a href="/travel" title="Travel">TRAVEL</a></li>
+                                        <li class="h-bar"></li>
+                                                            <li><a href="/other" title="Other">OTHER</a></li>
+                                        <li class="h-bar"></li>
+                                       </ul>
+       
+       </div>
+       </div>
+
+<!-- END HEADER-->
+ 
+ <!--SLIDING PANEL-->
+<div class="panel-container" id="panel-add-feed">
+
+    <p class="slide"><a href="javascript:void(0);" class="btn-slide">ADD FEEDS</a></p>
+
+</div>
+
+<!--END SLIDING PANEL-->
+<div class="page">
+    <div class="services-page">
+        <!--POINT 1-->
+<div class="terms-conditions">
+<h3>Registration</h3>
+<p>You can use Anygator without registering. If you want Anygator to remember your settings permanently or if you want to access your personal page from more than one PC you need to register with your email address and a password. In addition this will also protect your account from unauthorized access. When you register we'll send you a welcome email.<br>We may send you service announcements and advertising messages from YOUniversal Media or third parties.<br>You can unsubscribe from these announcements and advertising messages at any time by sending an email to <a href="mailto:unsubscribe@anygator.com">unsubscribe@anygator.com</a></p>
+</div>
+
+
+<div class="terms-conditions">
+<h3>Policy Privacy</h3>
+<p>Anygator.com is operated by YOUniversal Media s.r.l. ("YOUniversal").<br><br>At YOUniversal, we respect the privacy of our users and the importance of the information they entrust to us. We summarize below the basic information policies and practices in place on the Anygator.com website.</p>
+</div>
+
+
+
+
+
+<!--POINT 3-->
+<div class="terms-conditions">
+<h3>Information we may collect</h3>
+<p>We may collect information that can identify you ("personal information"), such as your name and email address, (i) when you (or other users) provide it to us.<br><br>We also may collect other types of information in the following ways when you visit Anygator.com website:</p><ul><li>Our server logs automatically collect information, such as your IP address, your browser type and language, and the date and time of your visit, which helps us track users' movements around our site and understand trends.</li><li>We may assign your computer one or more cookies which may collect information to facilitate access to our website and to personalize your online experience.</li><li>We may use standard Internet tools, such web beacons, which collect information that tracks your use of our website and enables us to customize our services and advertisements.</li></ul><p>We do not knowingly collect personal information from children under the age of 13. Should we ever do so, we will comply with the Children's Online Privacy Protection Act.</p><p></p>
+</div>
+
+<!--POINT 5-->
+
+<div class="terms-conditions">
+<h3>Information others may collect</h3>
+<p>We may allow third-party advertising companies or ad networks to display advertisements on our websites.</p><ul><li>We do not provide any personal information to these companies.</li><li>These companies may use tracking tools, such as cookies, to collect information about computers used to view or interact with their advertisements.</li><li>Some of these companies may be members of the Network Advertising Initiative, which offers consumers the ability to opt out of ad targeting by all member companies.</li></ul><p></p>
+</div>
+
+
+<!--POINT 2-->
+<div class="terms-conditions">
+<h3>How we may use information we collect</h3>
+<p>We may use information to:</p><ul><li>Fulfill your requests for products and services;</li><li>Offer products and services that may be of interest to you;</li><li>Process payment for products or services you order via Anygator;</li><li>Customize the advertising and content that you see on our website;</li><li>Facilitate use of our Anygator website;</li><li>Manage your account and your preferences;</li><li>Analyze use of and improve our website, products and services;</li><li>Identify and protect against fraudulent transactions and other misuses of our website;</li><li>Enforce any EULA, terms of use, terms of service or other terms/policies governing your use of the Anygator website.</li></ul><p></p>
+</div>
+
+
+<!--POINT 4-->
+<div class="terms-conditions">
+<h3>With whom we may share information we collect</h3>
+<p>We will not share your personal information with others except as indicated below, or except when we inform you in advance and give you the opportunity to opt out. We may share personal information with:</p><ul><li>Service providers, such as credit-card payment processors, performing services on our behalf;</li><li>Other YOUniversal businesses;</li><li>Other businesses with which we partner or which we carefully select to offer you products, services, and promotions through our Anygator website; and</li><li>Other third parties in limited circumstances, such as complying with legal requirements, preventing fraud, and protecting the safety of our users.</li></ul><p>We may share aggregated, non-personal information in any of the above situations and also with advertisers and others.</p><p></p>
+</div>
+
+
+<!--POINT 6-->
+<div class="terms-conditions">
+<h3>Your choices</h3>
+<p>You may choose:</p><ul><li>Not to provide personal information, although that may result in your inability to obtain certain services or use certain features of our Anygator website;</li><li>To stop receiving promotional emails or newsletters from us by sending an email to the contact address at the bottom of this policy or by modifying your email and information sharing preferences;</li><li>To delete or decline cookies by changing your browser settings, although if you do so, some of the features or services of the Anygator website may not function properly;</li><li>To review and update your personal information by contacting us at the email address below or, if you have an online account on our website, by logging into that account</li></ul><p></p>
+</div>
+
+<!--POINT 7-->
+<div class="terms-conditions">
+<h3>Security</h3>
+<p>We take appropriate physical, electronic, and other security measures to help safeguard personal information from unauthorized access, alteration, or disclosure.</p>
+</div>
+
+<!--POINT 7-->
+<div class="terms-conditions">
+<h3>Changes to our Privacy Policy</h3>
+<p>We may occasionally update our Privacy Policy to reflect changes in our practices and services. If we make material changes in the way we collect, use, or share your personal information, we will notify you by sending you an email and/or by prominently posting notice of the changes on the Anygator website.</p>
+</div>
+
+<!--POINT 7-->
+<div class="terms-conditions">
+<h3>How to contact us</h3>
+<p>If you have any questions about this summary, our Privacy Policy, or our information practices, please contact us by email: <a href="mailto:info@anygator.com">info@anygator.com</a></p>
+</div>
+
+<div class="clear"></div>
+
+    </div>
+</div>
+
+<!--FOOTER-->
+    <div class="footer-container">
+    <div class="footer">
+    <div class="footer-content">
+        <div class="footer-content-link">
+            <a href="/info?page=condition">Terms and conditions of use</a>
+            <a href="/info?page=privacy">Privacy</a>
+            <a href="/info?page=howitworks">How it works</a>
+            <a href="/info?page=tech">Technology</a>
+            <a href="http://www.youniversalmedia.com/en/about_us.html" target="_blank">About us</a>
+            <a href="http://www.youniversalmedia.com/en/contact.html" target="_blank">Contact us</a>
+            <a target="_blank" href="https://plus.google.com/110606886701065388785" rel="publisher">Google+</a>        </div>
+        <div class="footer-content-logo"></div>
+    </div>
+</div>
+<div class="clear"></div>
+
+
+
+
+
+<script type="text/javascript">
+
+$(document).ready(function() {
+setTimeout(function() {
+    gSs();
+    $('body').append("\n");
+    }, 1000);
+});
+</script>
+
+
+
+<script type="text/javascript">
+// Outbound Link Tracking with Google Analytics
+$("a").on('click',function(e){
+    if(typeof $(this).attr("href") != 'undefined' && $(this).attr("href") != 'javascript:void(0);') {
+        var url = $(this).attr("href");
+        var trgt = (typeof $(this).attr("target") == 'undefined') ? 'self' : $(this).attr("target");
+        trgt = trgt.toLowerCase();
+        if (e.currentTarget.host != window.location.host) {
+            _gaq.push(['_trackEvent', 'Outbound Links', e.currentTarget.host, url, 0]);
+            if (e.metaKey || e.ctrlKey || trgt == 'blank' || trgt == '_blank') {
+                 var newtab = true;
+            }
+            if (!newtab) {
+                 e.preventDefault();
+                 setTimeout('document.location = "' + url + '"', 100);
+            }
+        }
+    }
+});
+</script>
+
+
+    </div>
+<!--END FOOTER-->  
+
+</body></html>
