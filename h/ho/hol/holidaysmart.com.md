@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the holidaysmart.com privacy policy that was archived on 2012-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121222033309id_/http%3A//www.holidaysmart.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the holidaysmart.com privacy policy that was archived on 2013-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130617173626id_/http%3A//www.holidaysmart.com/privacy.htm) for the most accurate reproduction.*
 
 # HolidaySmart Privacy Policy
 
