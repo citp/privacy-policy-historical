@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nrsc.org privacy policy that was archived on 2012-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121217041330id_/http%3A//www.nrsc.org/privacy-donation-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nrsc.org privacy policy that was archived on 2013-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130617063808id_/http%3A//www.nrsc.org/privacy-donation-policy) for the most accurate reproduction.*
 
 # Privacy & Donation Policy
 
