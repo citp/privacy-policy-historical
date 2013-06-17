@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the naijapals.com privacy policy that was archived on 2012-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121216022243id_/http%3A//www.naijapals.com/%3FL%3Dinfo.privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the naijapals.com privacy policy that was archived on 2013-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130618005101id_/http%3A//www.naijapals.com/%3FL%3Dinfo.privacy) for the most accurate reproduction.*
 
-# Info | Privacy - Naijapals - Naijapals
+# Info | Privacy - Naijapals - Naijapals - Naijapals
 
 At Naijapals.com we are committed to ensuring and protecting your privacy at any time you are on our website or communicate electronically with our team. Our Privacy Policy is contained below and provides a detailed explanation as to how we may use your personal information provided to us or any we collect through legal means. 
 
