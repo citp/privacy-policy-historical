@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the youngsexparties.com privacy policy that was archived on 2010-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100619182036id_/http%3A//www.youngsexparties.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the youngsexparties.com privacy policy that was archived on 2013-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130617020613id_/http%3A//youngsexparties.com/privacy.html) for the most accurate reproduction.*
 
 # PRIVACY POLICY
 
@@ -30,4 +30,4 @@ You can access all your personally identifiable information that we collect onli
 granting access or making corrections.
 
 **How To Contact Us:**  
-Should you have other questions or concerns about these privacy policies, please send us an email at: [webmaster@youngsexparties.com](mailto:webmaster@youngsexparties.com).
+Should you have other questions or concerns about these privacy policies, please send us an email at: [webmaster@youngsexparties.com](mailto:webmaster@youngsexparties.com). [Free Teen Porn](http://www.pornflixer.com/categories/teen/)
