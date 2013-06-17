@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the yellowbridge.com privacy policy that was archived on 2012-10-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121005104208id_/http%3A//www.yellowbridge.com/general/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yellowbridge.com privacy policy that was archived on 2013-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130618005844id_/http%3A//www.yellowbridge.com/general/privacy.php) for the most accurate reproduction.*
 
 # YellowBridge Privacy Policy
 
@@ -8,7 +8,7 @@ Your privacy is important to us. To better protect your privacy we provide this 
 
 ## The Information We Collect
 
-This notice applies to all information collected or submitted on the YellowBrige website. On some pages, you can order products, make requests, and register to receive materials. The types of personal information collected at these pages include name, e-mail address, phone number, credit card information, etc.
+This notice applies to all information collected or submitted on the YellowBridge website. On some pages, you can order products, make requests, and register to receive materials. The types of personal information collected at these pages include name, e-mail address, phone number, credit card information, etc.
 
 ## The Way We Use Information
 
