@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the salesvantage.com privacy policy that was archived on 2012-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121230062709id_/http%3A//www.salesvantage.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the salesvantage.com privacy policy that was archived on 2013-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130617151414id_/http%3A//www.salesvantage.com/privacy.php) for the most accurate reproduction.*
 
 # SalesVantage.com Privacy Policy Statement
 
@@ -43,26 +43,3 @@ Policy effective date: July 15, 2003; updated September 18, 2006; updated Februa
 * * *
 
 Copyright © 2000 - 2008 SalesVantage.com, Inc. All rights reserved. 
-
-#### [](http://plus.google.com/b/111268121882645423903/)
-
-#### Sales & Marketing Articles 4U
-
-Advertising & PR   
-[Advertising](https://web.archive.org/article/list.php?c=2), [Public Relations](https://web.archive.org/article/list.php?c=3)
-
-Business Marketing   
-[Brand Marketing](https://web.archive.org/article/list.php?c=4), [Direct Marketing](https://web.archive.org/article/list.php?c=5), [Event Marketing](https://web.archive.org/article/list.php?c=6), [Incentive Marketing](https://web.archive.org/article/list.php?c=26), [Marketing Concepts](https://web.archive.org/article/list.php?c=8), [Marketing Communications](https://web.archive.org/article/list.php?c=7)
-
-Internet & Web   
-[Ecommerce](https://web.archive.org/article/list.php?c=9), [Email Marketing](https://web.archive.org/article/list.php?c=10), [Internet Marketing](https://web.archive.org/article/list.php?c=11), [Web Development](https://web.archive.org/article/list.php?c=12)
-
-Management & Strategy   
-[Business Etiquette](https://web.archive.org/article/list.php?c=13), [Executive Coaching](https://web.archive.org/article/list.php?c=14), [Forecasting & Budgeting](https://web.archive.org/article/list.php?c=15), [Management Insights](https://web.archive.org/article/list.php?c=16), [Presentation Skills](https://web.archive.org/article/list.php?c=17)
-
-Sales & Customer Service   
-[Distributor Sales](https://web.archive.org/article/list.php?c=19), [Negotiating](https://web.archive.org/article/list.php?c=20), [Sales Coaching](https://web.archive.org/article/list.php?c=21), [Sales Strategy](https://web.archive.org/article/list.php?c=22), [Selling Tactics](https://web.archive.org/article/list.php?c=23), [Telemarketing](https://web.archive.org/article/list.php?c=24), [Time Management](https://web.archive.org/article/list.php?c=25)
-
-#### Featured Advertisers
-
-[ ](http://www.salesvantage.com/advertising-with-salesvantage.php)
