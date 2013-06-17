@@ -1,21 +1,21 @@
-> *The following text is extracted and transformed from the sellmytimesharenow.com privacy policy that was archived on 2012-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121216182051id_/http%3A//www.sellmytimesharenow.com/main/index/content/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sellmytimesharenow.com privacy policy that was archived on 2013-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130617031359id_/http%3A//www.sellmytimesharenow.com/main/index/content/privacy) for the most accurate reproduction.*
 
-# timeshare resales and rentals, buy and sell timeshare fast and easy
+# Privacy Policy
 
 ## Overview
 
-We at SellMyTimeshareNOW.com ("SMTN") are committed to respecting the privacy of those who use our web site, [www.SellMyTimeshareNOW.com]() (the "Web Site" or the "SMTN Web Site"). We want our Web Site to be a place where all users feel safe and secure. This Privacy Policy describes our online data collection and usage policies and practices and does not apply to information we collect in any other manner. Words and phrases used in this policy have the same meaning as in our [Terms of Use](http://www.sellmytimesharenow.com/main/index/content/terms/) ("TOU").
+We at SellMyTimeshareNOW.com ("SMTN") are committed to respecting the privacy of those who use [www.SellMyTimeshareNOW.com]() (the "Web Site" or the "SMTN Web Site"). We want our Web Site to be a place where all users feel safe and secure. This Privacy Policy describes our online data collection and usage policies and practices and does not apply to information we collect in any other manner. Words and phrases used in this policy have the same meaning as in our [Terms of Use](http://www.sellmytimesharenow.com/main/index/content/terms/) ("TOU").
 
 Your trust is important to us, and to maintain that trust, we hold firmly to the standards in this Privacy Policy. In particular:
 
-  * Your privacy is not for sale. We do not sell your name, address or other identifying information.
+  * Your privacy is not for sale. We do not sell your name, address, or other identifying information.
   * We do not keep your credit card information.
   * Personal information that we receive from you is stored on a secure server, behind firewalls designed to block unauthorized access.
   * All SMTN or affiliate employees and contractors who have access to your information (as their jobs may require) are contractually required to keep your information private.
 
 
 
-SMTN's Privacy Policy applies only to our own Web Site. While other web sites may be displayed as links within our pages, we have no control over those other Web sites, and they may have different privacy policies. So when linking from the SMTN Web Site to other web sites, including web sites of SMTN's affiliate companies, be sure to review their privacy policies as well.
+SMTN's Privacy Policy applies only to our own Web Site. While other web sites may be displayed as links within our pages, we have no control over those other Web Sites, and they may have different privacy policies. So when linking from the SMTN Web Site to other web sites, including web sites of SMTN's affiliate companies, be sure to review their privacy policies as well.
 
 ## The Information We Collect and Use
 
@@ -23,7 +23,7 @@ In general, SMTN uses the information we receive from you, whether personal, dem
 
 **Your Personal Information.** In some areas of our Web Site, you may be asked to provide "Personal Information," meaning any information that is unique to you, including identifying information such as your name, address, e-mail address, telephone number, and your credit card information if you are reserving a Timeshare or purchasing any of our Services. We may use your Personal Information to communicate with you by e-mail or other methods, to seek your input regarding products and services, to refer your inquiry to similar or identical property advertisers, and to inform you of new opportunities or promotional offers. By choosing to provide us with Personal Information, you are consenting to the use of that information in accordance with the policies and practices described in this Privacy Statement.
 
-In some areas of the Web Site, such as our online forum and in Ads, users of the Web Site (such as yourself) provide the content that they would like to post. Our policy in these situations is to refuse to post Personal Information; however, we cannot be responsible for Personal Information or other identifying information that you may choose to include in your forum posting or Ad.
+In some areas of the Web Site, such as in Ads, users of the Web Site (such as yourself) provide the content that they would like to post. Our policy in these situations is to refuse to post Personal Information; however, we cannot be responsible for Personal Information or other identifying information that you may choose to include in your Ad.
 
 **Your IP Address.** Like most web sites, we receive certain information about your use of the Web Site, such as what areas you visit and what services you access. We gather information about your computer hardware and software, such as your Internet Protocol ("IP") address and browser type. An IP address is a number that is automatically assigned to your computer when you use the Internet. We may use IP addresses to help diagnose problems with our server, administer our Web site, analyze trends, track users' movements, gather broad demographic information for aggregate use in order for us to improve the Web Site, and in general, to provide you the functionality that you see on the Web Site.
 
@@ -31,9 +31,11 @@ In some areas of the Web Site, such as our online forum and in Ads, users of the
 
 You may have the ability to accept or decline cookies. Most web browsers automatically accept cookies, but you can usually modify your browser setting to decline all cookies if you prefer.
 
-Please note that the web sites to which the SMTN Web Site may be linked may make use of their own cookies to collect information from you.
+Third-party services such as Google and DoubleClick may issue cookies to visitors of the SMTN Web Site in order to inform, optimize, and serve ads based on past visits.
 
 **Aggregated anonymous information.** We collect and may also share aggregated anonymous information about visitors to the Web Site (for example, the number of visitors per day) with affiliated companies and other third parties so that they can understand the kinds of users who visit SMTN and how those visitors use the Web Site. The data we collect may also include aggregated anonymous information regarding age, income, or other information relevant to timeshare transactions. It is important to note that this aggregated information does not contain Personal Information.
+
+Anonymous data also is collected to provide SMTN with remarketing opportunities through Google AdWords Display Advertising, and is collected from code provided by either Google Analytics or Google AdWords. Based on anonymous visitor data collected in this manner, Google AdWords may display advertising for the SMTN Web Site on third-party sites that SMTN is not directly affiliated with. Visitors may opt out of having anonymous visitor data collected or used for advertising purposes with Google through their [Ad Preferences Center](https://www.google.com/settings/ads/onweb/?hl=en&sig=ACi0TCgSnYwECSPbkXPjtkC7Io4wrcGtYwqR3jbgYydpdSdMk9L9mUrdfpNgCw8UrTmI44lk39CjD5qs61Sm7rbMQSr5AcXLkNkmHYZNQzWEFwTas028VeXcrWb0MErmPf5T6lp49GGqQBU09DK-FcoP_7s79EfUhPW_AlTmTw6GsunshX4UjQI).
 
 ## Security of your Personal Information
 
@@ -76,4 +78,4 @@ Please note that we may modify this Privacy Statement from time to time, with or
 
 If at any time, you have questions or concerns about this Privacy Statement or believe that we have not adhered to its terms, please feel free to email us at customercare[at]sellmytimesharenow.com or 877-815-4227 (please ask for "Customer Care"). We will do our best to promptly answer your question or resolve your problem.
 
-Privacy Policy effective October 27th, 2009.
+Privacy Policy effective March 22, 2013.
