@@ -1,23 +1,125 @@
-> *The following text is extracted and transformed from the chicagoreader.com privacy policy that was archived on 2010-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101218040052id_/http%3A//www.chicagoreader.com/chicago/online-privacy-policy/page%3Foid%3D1219551) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chicagoreader.com privacy policy that was archived on 2013-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130617172834id_/http%3A//www.chicagoreader.com/chicago/PrivacyPolicy/Page) for the most accurate reproduction.*
 
-# Chicago Reader | About | Privacy policy
+# Chicago Reader | About | PrivacyPolicy
 
-Effective October 10, 2006
+## This Privacy Policy applies to our sites and apps
 
-When you visit one of our Web pages, our server automatically logs your Internet domain or address (IP address) and the Web location you clicked from, so we can tell how many people visit each page and how they find us. If you click on an ad, your click-through is recorded so we can tell advertisers how many people are responding to their ads. Some of our pages may send a small text file called a "cookie" to your computer so we can identify it when you visit. Most Web browsers are set up to accept cookies, but you can reset your browser to refuse all cookies or to indicate when a cookie is being sent. However, some popular Web features and services may not function properly if your cookies are disabled. 
+We are Chicago Reader, a publication of Sun-Times Media LLC. This Policy describes how we treat personal information. This includes our websites and our mobile apps.
 
-We also use Google Analytics to monitor and analyze traffic on our site. Most of our pages contain a code that causes Google to place a cookie on your computer to enable this monitoring. For information on how Google uses these cookies, consult the [Google privacy policy](http://www.google.com/intl/en/privacypolicy.html#information).
+To download a full copy of this Privacy Policy, click here.
 
-We or our advertisers may use a third-party advertising company to serve some of the ads you see on our site. This company may use information (not including your name, address, E-mail address, or telephone number) about your visits to our and other Web sites, in combination with non-personally-identifiable information about your purchases and interests from other online and offline sources, in order to provide ads that may be of interest to you. In addition, we may share information with this company about visitors' use of our Web site and others, for the purpose of managing and targeting ads and for market research analysis on our site and others. Accordingly we and third-party advertising companies may note some of the pages you visit on our site through the use of pixel tags (also called clear gifs). In the course of serving ads to our site, an advertising company may place or recognize a cookie on your computer. If you would like to learn more about the information-gathering practices of the most commonly used third-party advertising companies, or prevent their cookies from being set on your computer, click here for the [DoubleClick privacy policy](http://www.doubleclick.com/us/corporate/privacy/) or here for the [24/7 Real Media privacy policy](http://www.247realmedia.com/privacy.html).
+## We collect information from and about you.
 
-None of the above procedures identifies you personally or collects any personal information about you. We do not and will not collect your name, E-mail address, or any other personal information without your consent. We do not knowingly collect any personal information from children under age 13.
+**Contact information.** For example, we might collect your name and street address. We might also collect your phone number or email.
 
-On certain pages, if you choose to register for a contest, newsletter, message board, or some other purpose, we may ask for personal information such as street and/or E-mail address, phone number, consumer preferences, etc. Unless we specifically say so on the registration or data-entry form, we do not and will not release any such information to third parties unless (a) we have your consent; or (b) we believe in good faith that we are legally required to do so; or (c) there is an emergency involving personal danger; or (d) you have vandalized our site or otherwise behaved in a manner that warrants our contacting the authorities or your Internet service provider. Please note that your consent can be requested and given on the form you fill out. For example, if you check a box that says "Yes, I want to receive information from Multimega Corporation," that will be construed as consent to share your information with that company. 
+**Payment information.** For example, we collect your credit card number when you access parts of our sites (e.g., Reader Real Deal).
 
-If you place a classified ad or make a purchase, we keep the information you give us and may use it to contact you in the future. If you use our Matches system, we may collect information about what features you use or how you move through the site, but we use this information in aggregate form only; we do not associate it with individual user names or identities.
+**Information you submit or post.** We collect the information you post in a public space on our websites.
 
-On some of our pages we offer content or services by providing hyperlinks to other Web sites -- for example, TicketMaster and Amazon.com. Of course these sites are not subject to our policies; we advise you to read their privacy statements.
+**Demographic information.** We may collect information about your interests or hobbies. We might collect this as part of a survey, for example.
 
-Given the nature of Web publishing, our privacy policies may change from time to time; any changes will be posted here as soon as they go into effect.
+**Other information.** If you use our websites, we may collect information about the browser you're using. We might look at what site you came from, or what site you visit when you leave us. If you use our mobile app, we may collect your GPS location. We might look at how often you use the app and where you downloaded it. We collect this information using tracking tools.
 
-If you have any questions about our privacy policy, please write to [mail@chicagoreader.com](mailto:mail@chicagoreader.com).
+↑ Back to top
+
+## We collect information in different ways.
+
+**We collect information directly from you.** For example, if you register for our newsletter. We also collect information if you post a comment or make a request. We may publish your name if you send a letter to the editor.
+
+**We collect information from you passively.** We use tracking tools like browser cookies and web beacons. We also collect information from our mobile apps.
+
+**We get information about you from third parties.** For example, our business partners may give us information about you.
+
+↑ Back to top
+
+## We use information as disclosed and described here.
+
+**We use information to respond to your requests or questions.** For example, we might use your information to register you for a contest. We may use your friend's email address if you send them information from our sites.
+
+**We use information to improve our products and services.** We might use your information to customize your experience with us.
+
+**We use information to look at site trends and customer interests.** We may use your information to make our websites and products better. We may combine information we get from you with information about you we get from third parties.
+
+**We use information for security purposes.** We may use information to protect our company, our customers, or our websites.
+
+**We use information for marketing purposes.** For example, we might send you information about special promotions or offers. We might tell you about new features or products. These might be our own offers or products, or third party offers or products we think you might find interesting. We may use push notifications on our mobile apps. To manage this, read the choices section below.
+
+**We use information to communicate with you about your account or our relationship.** We may contact you about your account. We might also contact you about this Policy or our website Terms.
+
+**We use information to talk to parents or guardians to get permission.** We may use contact information to get permission from parents for children who want to use our sites.
+
+**We use information as otherwise permitted by law.** For example, we may use your IP address for identification purposes in cooperation with internet service providers or law enforcement agencies.
+
+↑ Back to top
+
+## We may share information with third parties.
+
+**We will share information within the Sun-Times family of companies, including its parent, Wrapports, LLC.**
+
+**We will share information with third parties who perform services on our behalf.** For example, we share information with vendors who send emails for us or fulfill your purchases.
+
+**We will share information with our business partners.** For example, we might share information with a business partner who runs a sweepstakes for us. These partners may send you information about events and products by mail or email. To control this, read the choices section below.
+
+**We will share information if we think we have to in order to comply with the law or to protect ourselves.** For example, we will share information at the request of governmental authorities conducting an investigation, or to verify or enforce compliance with our internal policies and applicable laws. We will share information to respond to a court order or subpoena. Or, we might also share information when we are investigating potential fraud. This might include fraud we think has happened during a sweepstakes or promotion. We may share your information whenever we believe disclosure is necessary to limit our liability or to protect or enforce the rights, interests or safety of our products and services, our users or others.
+
+**We may share information with any successor to all or part of our business.** For example, if part of our business was sold we may give our customer list as part of that transaction.
+
+**We may share information for other reasons we may describe to you.**
+
+↑ Back to top
+
+## You have certain choices about our marketing and tracking tools.
+
+**You can opt out of receiving our marketing emails.** To stop receiving our promotional emails, follow the instructions in any promotional message you get from us. You may still receive transactional messages.
+
+**You can control tools on your mobile devices.** For example, you can turn off the GPS locator or push notifications on your mobile device. Each push notification has an "unsubscribe" link.
+
+↑ Back to top
+
+## Our sites and children.
+
+Our sites and apps are meant for adults. We do not knowingly collect personally identifiable information from children under 13 without permission from a parent or guardian. If you are a parent or legal guardian and think your child under 13 has given us information, you can [email](mailto:privacy@wrapports.com) us. You can also write to us at the address listed at the end of this policy. Please mark your inquiries "COPPA Information Request."
+
+↑ Back to top
+
+## We use standard security measures.
+
+The Internet is not 100% secure. We cannot promise that your use of our sites will be completely safe. We encourage you to use caution when using the Internet. This includes not sharing your passwords.
+
+We keep personal information as long as it is necessary or relevant for the practices described in this Policy. We also keep information as otherwise required by law.
+
+↑ Back to top
+
+## We store information in the United States.
+
+If you live outside of the United States, you understand and agree that we may transfer your information to the United States. Our sites are subject to U.S. laws, which may not afford the same level of protection as those in your country.
+
+↑ Back to top
+
+## We may link to other sites or have third party services on our sites we don't control.
+
+If you click on a link to a third party site, you will be taken to websites we do not control. This includes sites that include our logo because we partner with that company. This policy does not apply to the privacy practices of that website. That website sets its own cookies, collects data and /or has its own privacy practices. Read the privacy policy of other websites carefully. We are not responsible for these third party sites.
+
+Our sites may also serve third party ads or content that contains the third party's own cookies or tracking technologies. We do not control the use of those technologies.
+
+↑ Back to top
+
+## Feel free to contact us if you have more questions.
+
+If you have any questions about this Policy or other privacy concerns, please [email](mailto:privacy@wrapports.com) us.
+
+You can also write to us or call at:
+
+Chicago Reader  
+350 N. Orleans Street, 10-S  
+Chicago, IL 60654  
+Attention: Legal - Privacy  
+Phone:312-321-3000
+
+↑ Back to top
+
+## We may update this Policy.
+
+From time to time we may change our privacy policies. We will notify you of any material changes to our Policy as required by law. We will also post an updated copy on our websites. Please check our sites periodically for updates.
+
+© 2013 Sun-Times Media, LLC. All rights reserved.
