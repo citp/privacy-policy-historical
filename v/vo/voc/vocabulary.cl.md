@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vocabulary.cl privacy policy that was archived on 2012-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120607084329id_/http%3A//www.vocabulary.cl/Privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vocabulary.cl privacy policy that was archived on 2013-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130617083936id_/http%3A//vocabulary.cl/Privacy.htm) for the most accurate reproduction.*
 
 # Privacy Policy
 
