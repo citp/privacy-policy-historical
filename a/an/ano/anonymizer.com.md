@@ -1,66 +1,79 @@
-> *The following text is extracted and transformed from the anonymizer.com privacy policy that was archived on 2009-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091230034529id_/http%3A//www.anonymizer.com/company/legal/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the anonymizer.com privacy policy that was archived on 2013-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130617030236id_/https%3A//www.anonymizer.com/legal/privacy-policy) for the most accurate reproduction.*
 
-# Anonymizer Privacy Policy
+# Anonymizer - Legal - Privacy Policy
 
-**[Unsubscribe from our mailing list](https://web.archive.org/consumer/mailinglist_management.html)**
+Anonymizer Privacy Policy
 
-Date Updated: October 7, 2008 
+Date updated: December 17, 2012
 
-**At Anonymizer, we do more than help you protect your privacy.**
+##### At Anonymizer, we do more than help you protect your privacy.
 
-As the leader in Internet privacy & security solutions, Anonymizer knows the value of information and understands your concerns about privacy. As a result, we believe that you have the right to know how we collect and use your personal information. Anonymizer values your trust and respects your privacy - and is committed to protecting them. 
+As the leader in Internet privacy & security solutions, Anonymizer knows the value of information and understands your concerns about privacy. As a result, we believe that you have the right to know how we collect and use your personal information on www.anonymizer.com. Anonymizer values your trust and respects your privacy - and is committed to protecting them.
 
-**What customer information does Anonymizer gather and use?**
+##### What customer information does Anonymizer gather and use?
 
-Anonymizer is the sole owner of the information collected on this site. We will not sell, rent, trade or lease this information to others in ways different from what is disclosed in this policy. 
+Anonymizer is the sole owner of the information collected on this site. We will not sell, rent, trade or lease this information with third parties other than as disclosed in this policy. When you navigate our Web site, Anonymizer will gather certain information such as your Internet Protocol address, browser type, browser language, and the date and time of your visit. We may place a cookie on your computer (see discussion of cookies, below), and use this information for our internal marketing purposes, to improve our Web site or our products and services, or to track abuse.
 
-When you navigate our Web site, Anonymizer will gather certain information such as your Internet Protocol address, browser type, browser language, the date and the date and time of your visit. We may place a cookie on your computer (see discussion of cookies, below), and use this information for our internal marketing purposes, to improve our Web site or our products and services, or to track abuse and spamming. Please note that your use of the Anonymizer Web site is governed by the Anonymizer Terms of Use. FOR INFORMATION REGARDING THE ANONYMIZER TERMS OF USE [CLICK HERE](https://web.archive.org/company/legal/terms_of_use.html). 
+If you participate in live online chat with an Anonymizer representative using the “clickandchat” feature, those chat communications are hosted and managed by Anonymizer’s third party vendor, Web Technologies, Inc., and any information collected by Web Technologies, Inc. as a result of any such participation in the online chat feature is subject to the Web Technologies, Inc. privacy policy at [www.clickandchat.com/privacy-policy.php](http://www.clickandchat.com/privacy-policy.php).
 
-When you place an order, download software, respond to our promotional campaigns, request email technical support or otherwise communicate with us about our goods or services, we will gather, retain and use certain personal information you provide to us. For example, we may collect information such as your name, contact information including address and email address, credit card number, bank account number, your billing and shipping address, and records of the kinds of products and services you have purchased from us or have started trial usage of. We will use this information to complete your order (anonymous cash payment is also available), respond to your request or communication, to assist us in providing our products and services to you, and to manage our relationship with you. By furnishing any such information to us, you expressly consent to the use of your information in accordance with the terms of this privacy policy. 
+This website may run remarketing campaigns through Google and other third party vendors. This means third party vendors, including Google, may show you ads on other sites on the Internet. Third party vendors, including Google, use cookies to serve these ads based on your prior visits to this website. You have the option to opt out of Google’s use of cookies by visiting the Ads Preferences Manager. Alternatively you can opt out of third-party vendor's cookies by visiting the Network Advertising Initiative opt out page.
 
-For your protection, all information with respect to an order, including the credit card holder's name, credit card number, expiration date, security code and billing address, is subject to verification prior to processing any order. This is to assist us in preventing fraud and the unauthorized use of a credit card without the cardholder's permission. Records of your billing information are kept separately from records of your Internet activities because our billing system and Anonymizer privacy and security services run independently. 
+When you place an order, download software, request email technical support, request to receive a newsletter or promotional emails, or otherwise communicate with us about our goods or services, we will gather, retain and use certain personal information you provide to us. For example, we may collect information such as your name, contact information including address and email address, credit card number, your billing and shipping address, and records of the kinds of products and services you have purchased from us or have started trial usage of. We will use this information to complete your order, respond to your request or communication, to assist us in providing our products and services to you, and to manage our relationship with you. By furnishing any such information to us, you expressly consent to the use of your information in accordance with the terms of this privacy policy.
 
-When you use Anonymizer's anonymous Web surfing products and services, due to the configuration of Anonymizer's systems, Anonymizer cannot correlate any individual user with a visit of any individual website. Furthermore, Anonymizer keeps no record of Internet Protocol addresses visited, except as provided in the following sentence. For troubleshooting purposes from time to time it may become necessary for Anonymizer, during limited and usually brief periods of time, to maintain usage data to assist Anonymizer in debugging its system or addressing other problems in its products or services. This usage data may include such information as the Web request, the date and time of your login. This information is not retained once the troubleshooting is resolved. Please note that Anonymizer's products and services are sold and furnished to its customers pursuant to terms and conditions of end user license agreements governing use of the particular products or services being furnished, which agreements may contain provisions regarding the generation, maintenance, use and disposition of customer information which supplement or vary from those of this privacy policy, and which will take precedence in governing the customer's use of the subject products or services. 
+For your protection, all information with respect to an order, including the credit card holder's name, credit card number, expiration date, security code and billing address, is subject to verification prior to processing any order. This is to assist us in preventing fraud and the unauthorized use of a credit card without the cardholder's permission. Records of your billing information are kept separately from records of your Internet activities because our billing system and Anonymizer privacy and security services run independently.
 
-Customers using Nyms and Total Net Shield are provided an anonymous email address that correlates in our system back to their username and real identity. Unless addressed to us, we do not read email messages, instant messages, online chats, or the content of other online communications that pass through our service. Anonymizer will not disclose customer identities or information concerning email communication except as stated below in the discussion of our information sharing practices. 
+##### Will Anonymizer share my information with other companies or people?
 
-**Will Anonymizer share my information with other companies or people?**
+Anonymizer will not sell, rent, trade, or lease your personal information with third parties other than as disclosed within this privacy policy. We may share information with third parties who furnish services necessary to provide you with the products and services offered by us such as a payment credit card processing company to process payments on our behalf, a third party affiliate sign up hosting platform to fulfill our affiliate sign up, and an email service provider to send out emails on our behalf, but only if these third parties agree to comply with our privacy policies and not use your personal data for any other purpose. Apart from this, we disclose personal information only when we have a good faith belief that access, use, preservation or disclosure of such information is reasonably necessary to (a) satisfy any applicable law, regulation, legal process or enforceable governmental request, as required by law and when we believe that disclosure is necessary to protect our rights and/or to comply with a judicial proceeding, court order, or legal process served on our Web site (b) enforce applicable terms of use or other contract rights, including investigation of potential violations thereof, (c) detect, prevent, or otherwise address fraud, security or technical issues (including abuse of our products or services by spamming or other abuses of netiquette, and use of our products or services to attack other systems or to gain unauthorized access to any other system) or (d) protect against imminent harm to the rights, property or safety of Anonymizer, our customers or the public. Please note that if Anonymizer sells all or a portion of its business or assets, Anonymizer reserves the right to transfer customer information to the acquirer as part of that acquisition.
 
-Anonymizer will not sell, rent, trade, or lease your personal information for marketing purposes. We may share information with third parties who furnish services necessary to provide you with the products and services offered by us but only if these third parties agree to comply with our privacy policies and not use your personal data for any other purpose. Apart from this, we disclose personal information only when we have a good faith belief that access, use, preservation or disclosure of such information is reasonably necessary to (a) satisfy any applicable law, regulation, legal process or enforceable governmental request, (b) enforce applicable terms of use or other contract rights, including investigation of potential violations thereof, (c) detect, prevent, or otherwise address fraud, security or technical issues (including abuse of our products or services by spamming or other abuses of netiquette, and use of our products or services to attack other systems or to gain unauthorized access to any other system) or (d) protect against imminent harm to the rights, property or safety of Anonymizer, our customers or the public. Please note that if Anonymizer sells all or a portion of its business or assets, Anonymizer reserves the right to transfer customer information to the acquirer as part of that acquisition. 
+Note to European Customers: The information you provide us will be transferred outside the European Economic Area for the purpose of processing by Anonymizer, Inc., its affiliates and agents. By submitting your information, you agree to that international transfer.
 
-Note to European Customers: The information you provide us will be transferred outside the European Economic Area for the purpose of processing by Anonymizer, Inc., its affiliates and agents. By submitting your information, you agree to that international transfer. 
+##### Does Anonymizer use Cookies?
 
-**Does Anonymizer use Cookies?**
+Like most companies, Anonymizer uses cookies to customize our communication and provide you with better service. A cookie is a small data file that our Web site writes to your hard drive when you visit our site. That file may contain information such as what pages within our Web site you have visited, and how often you have visited those pages. The primary reason Anonymizer uses cookies is to prepare customized pages for you. However, a cookie cannot read data off your computer's hard disk. You can also set your browser to warn you before accepting cookies. We do not link the information we store in cookies to any personally identifiable information you submit while on our site. Does Anonymizer collect information on minors? Anonymizer does not intend to collect information from children who are under the age of 18 in the European Union and Asia Pacific, or under the age of 13 in the United States and Latin America. If you do not meet these age limits, you should not provide information on this site and should ask your parent or guardian to do so for you.
 
-Like most companies, Anonymizer uses cookies to customize our communication and provide you with better service. A cookie is a small data file that our Web site writes to your hard drive when you visit our site. That file may contain information such as what pages within our Web site you have visited, and how often you have visited those pages. The primary reason Anonymizer uses cookies is to prepare customized pages for you. However, a cookie cannot read data off your computer's hard disk. You can also set your browser to warn you before accepting cookies, or you can refuse cookies by turning them off in your browser. 
+##### How do You Update your Personal Information?
 
-**Does Anonymizer collect information on minors?**
+If your personal information changes you may update it by making the change within the “My Profile” page of your account. If you no longer desire our service or would like personal information removed from your account please email [cs@anonymizerinc.com](mailto:cs@anonymizerinc.com) or call 888-270-0141 or 858-866-1399 Monday through Friday from 7:30am to 5:00pm Pacific Standard Time.
 
-Anonymizer does not intend to collect information from children who are under the age of 18 in the European Union and Asia Pacific, or under the age of 13 in the United States and Latin America. If you do not meet these age limits, you should not provide information on this site and should ask your parent or guardian to do so for you. 
+You have the option of storing your credit card information within your profile. This is stored on a secure page and you may update this information at any time by logging into your account. We do not use this information for any other purpose other than to bill you for services you have requested.
 
-**How can I manage my personal information or unsubscribe from emails?**
+##### How Does Anonymizer protect my Personal Information?
 
-Anonymizer maintains the following procedures for you to review or request changes to the information that we collect about you. 
+The security of your personal information is important to us. When you enter sensitive information (such as credit card number) on our order form, we encrypt that information using secure socket layer (SSL).
 
-For e-newsletters, software updates, and special offers, you may unsubscribe from receiving Anonymizer communications at <http://www.anonymizer.com/consumer/mailinglist_management.html>. This link is also included in all email communications that are sent to you. 
+We follow generally accepted industry standards to protect the personal information submitted to us, both during transmission and once we receive it. No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore, while we strive to use commercially acceptable means to protect your personal information, we cannot guarantee its absolute security.
 
-If you have created an account at Anonymizer's online store, you may change your personal information after logging into your account at <https://www.anonymizer.com/consumer/login.html>. 
+If you have any questions about security on our site, you can email us at [cs@anonymizerinc.com](mailto:cs@anonymizerinc.com).
 
-**How can I contact Anonymizer if I have any further questions?**
+##### Surveys
 
-Telephone: 1-858-202-5084  
-Fax: 1-858-866-0164  
+From time-to-time we may provide you the opportunity to participate in surveys on our site. If you participate, we will not request personally identifiable information from you. Participation in these surveys is completely voluntary and anonymous, and you therefore have a choice whether or not to participate. The requested information typically includes opinions, preferences, and habits concerning shopping and online privacy, as well as demographic information (such as age and region).
+
+We use this information to understand consumer preferences, attitudes, and behavior, and to improve our products. We may cite aggregate survey results in press articles related to online privacy and security.
+
+We may use a third party service provider to conduct these surveys or contests; that company is prohibited from using our users’ personally identifiable information for any other purpose. We will not share the personally identifiable information you provide through a survey with other third parties unless we give you prior notice and choice.
+
+##### Links to Other Sites
+
+If you click on a link to a third party site, you will leave the anonymizer.com site you are visiting be redirected to the site you selected. Because we cannot control the activities of third parties, we cannot accept responsibility for any use of your personally identifiable information by such third parties, and we cannot guarantee that they will adhere to the same privacy practices as Anonymizer.com. We encourage you to review the privacy statements of any other service provider from whom you request services. If you visit a third party website that is reached through a link on the Anonymizer website, you should read that site’s privacy statement before providing any personally identifiable information.
+
+##### How can I unsubscribe from promotional emails?
+
+You may unsubscribe from receiving Anonymizer email promotions including e-newsletters and special offers at [www.anonymizer.com/consumer/mailinglist_management.html](http://www.anonymizer.com/consumer/mailinglist_management.html). This link is also included in all email communications that are sent to you.
+
+##### How can I contact Anonymizer if I have any further questions?
+
+Telephone: 1-858-866-1399  
 Toll Free: 1-888-270-0141  
 Address:  
 Anonymizer, Inc.  
-6755 Mira Mesa Blvd.  
-Suite #123-164  
-San Diego, CA 92121-4311 
+9276 Scranton Road  
+Suite 600  
+San Diego, CA 92121
 
-**How will I know if this privacy policy changes?**
+##### How will I know if this privacy policy changes?
 
-Anonymizer is dedicated to continually improving its Web sites by adding new functionality, products, services and programs. Because of those improvements - along with changes in the law, technology, and Anonymizer's business - Anonymizer reserves the right to change, modify, add, or remove portions of this privacy policy at any time simply by posting the revised privacy policy on the site, and without any other notice to you. Any such change, update, or modification will become effective immediately upon posting of the revised privacy policy on the site. We encourage you to review our Privacy Policy whenever you use this Web site to make sure you always understand how your information will be used. 
+Anonymizer is dedicated to continually improving its websites by adding new functionality, products, services and programs. If we decide to change our privacy practices, we will post those changes to this privacy statement, the home page, and other places we deem appropriate so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it.
 
-**Additional Information**
-
-Please note that this policy is only applicable to this site, and not to any other Web sites that you may be able to access from this site, each of which may have data collection and use practices that differ materially from this policy. 
+We reserve the right to modify this privacy statement at any time, so please review it frequently. If we change how we use your personally identifiable information, we will notify you here, by email, or by means of a notice on our home page.
