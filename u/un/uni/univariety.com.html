@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the univariety.com privacy policy that was archived on 2012-12-16.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121216203210id_/http%3A//www.univariety.com/privacy-policy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the univariety.com privacy policy that was archived on 2013-06-17.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130617054508id_/http%3A//www.univariety.com/privacy-policy.php) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns:fb="http://www.facebook.com/2008/fbml"><head>
 <title>Privacy Policy - Univariety</title>
@@ -37,11 +37,10 @@ $('.close').click(function(){
 });
 });
 </script>
-<script type="text/javascript">
-
+  <script type="text/javascript">
   var _gaq = _gaq || [];
-  _gaq.push(['_setAccount', 'UA-30028405-1']);
-  _gaq.push(['_setDomainName', 'google.com']);
+  _gaq.push(['_setAccount', 'UA-36243986-1']);
+  _gaq.push(['_setDomainName', 'univariety.com']);
   _gaq.push(['_trackPageview']);
 
   (function() {
@@ -49,7 +48,6 @@ $('.close').click(function(){
     ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
     var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
   })();
-
 </script>
 </head>
 
@@ -89,7 +87,6 @@ $('.close').click(function(){
  	});
  });
 </script>
-
 <div class="headsection"> 
   <!--Logo : Starts-->
   <!--line171-->			<a title="Univariety" href="http://www.univariety.com/index.php"><img src="http://www.univariety.com/images/logo_Univariety.png"></a>
@@ -103,68 +100,76 @@ $('.close').click(function(){
     <!--header-shortLink : Ends --> 
   </div>
   <!--header-Search : Starts -->
-     <div class="headsearch">
-    <script type="text/javascript"> 
-//var j = jQuery.noConflict();
-	$(document).ready(function() {
-		$("#txtTopSearch").autocompleteHeader("http://www.univariety.com/page_include/ajax_auto_top_search.php", {			
-			width: 260,
-			selectFirst: false			
-		});
+         <div class="headsearch">
+        <script type="text/javascript"> 
+    //var j = jQuery.noConflict();
+    $(document).ready(function() {
+        $("#txtTopSearch").autocompleteHeader("http://www.univariety.com/page_include/ajax_auto_top_search.php", {			
+            width: 260,
+            selectFirst: false			
+        });
 		
 			
-		$("#txtTopSearch").result(function(event, data, formatted) {
-		//alert(data);
-			if (data)
-			{
-				//$(this).parent().next().find("input").val(data[1]);
-				if(data[1] == "#000"){
-					$('#txtTopSearch').val("");
-				}
-				else{
-					$("#txtTopSearchId").val(data[1]);
-				}
-			}
+        $("#txtTopSearch").result(function(event, data, formatted) {
+            //alert(data);
+            if (data)
+            {
+                //$(this).parent().next().find("input").val(data[1]);
+                if(data[1] == "#000"){
+                    $('#txtTopSearch').val("");
+                }
+                else{
+                    $("#txtTopSearchId").val(data[1]);
+                }
+            }
 				
-		});	
+        });	
 		
-		$('#txtTopSearch').autoclear();
-	});
-	
+        $('#txtTopSearch').autoclear();
+    });
+    function submitSearch(){
+        if($('#txtTopSearch').val() != '' && $('#txtTopSearchId').val() != ''){
+            //alert('alert');
+        } else {
+            return false;
+        }
+            
+    }
 </script>
 
-	
-     <form name="frmTopSearch" method="post" action="http://www.univariety.com/page_include/search.php">
+
+<form name="frmTopSearch" method="post" action="">
     <input type="text" class="searchfield" value="Search university by name" name="txtTopSearch" id="txtTopSearch" autocomplete="off">
     <input type="hidden" name="txtTopSearchId" id="txtTopSearchId" value="">
-    <input type="submit" value="search" class="searchsubmit">
-    </form>
-  </div>
-  
+    <input type="submit" value="search" name="search" onclick="return submitSearch();" class="searchsubmit">
+</form>
+      </div>
     <!--header-Search : Ends -->
-  <!--line356-->  <!--Header Menu before signin : Starts -->
+  <!--line422-->  <!--Header Menu before signin : Starts -->
     <div id="header-menu">
     <ul>
-		<li><a href="http://www.univariety.com/user/registration.php">Sign up</a> </li>
+		<li><a href="http://www.univariety.com/app/student/signup">Sign up</a> </li>
 		<li>|</li>
 		<li><a href="#" class="login_button">Login</a></li>
 	</ul>
     <div id="panel">
       <div class="header_login" style="display:none;">
         <div class="login_arrow"><img src="http://www.univariety.com/images/login_arrow.png" alt=""></div>
-        <form action="" method="post" name="frmUserLogin" id="frmUserLogin">
+        <form action="http://www.univariety.com/app/login" method="post" name="frmUserLogin" id="frmUserLogin">
+		<input type="hidden" value="f45a1efeafa6801c409ed4d6a67d75a3" name="unique_id">
+
           <table border="0" cellpadding="0" cellspacing="0" width="100%">
             <tbody><tr>
               <th>Email</th>
-              <td><input type="text" name="txtLoginEmail" id="txtLoginEmail" value="" class="loginfield"></td>
+              <td><input type="text" name="LoginMaster[username]" id="txtLoginEmail" value="" class="loginfield"></td>
             </tr>
             <tr>
               <th>Password</th>
-              <td><input type="password" name="txtLoginPass" id="txtLoginPass" value="" class="passwordfield"></td>
+              <td><input type="password" name="LoginMaster[pass_word]" id="txtLoginPass" value="" class="passwordfield"></td>
             </tr>
             <tr>
               <th>&nbsp;</th>
-              <td><a href="http://www.univariety.com/user/forgot-password.php">Forgot password?</a></td>
+              <td><a href="http://www.univariety.com/app/forgotPassword">Forgot password?</a></td>
             </tr>
             <tr>
               <th>&nbsp;</th>
@@ -173,13 +178,13 @@ $('.close').click(function(){
                 <input type="hidden" name="request_url" value=""></td>
             </tr>
           </tbody></table>
-          <input type="hidden" name="headerlogin" value="1" class="btn_submit btn_normal">
+         <!-- <input type="hidden" name="headerlogin"   value="1" class="btn_submit btn_normal"  />-->
         </form>
       </div>
     </div>
   </div>
     <!--Header Menu before signin : Ends -->
-        
+    
   <!--<div class="sp_login-button">
 <fb:login-button size="large" autologoutlink="false" perms="email,user_birthday,status_update,publish_stream,user_online_presence" onlogin="javascript: Validate();" >Connect</fb:login-button>
 </div>-->
@@ -194,19 +199,20 @@ border-radius: 4px;
 
 }
 </style>
- 
-  <div style="float:right; margin-top:2px;width:165px;height:22px;border:#FFFFFF; ">
-    <div class="fb-login-button" data-show-faces="false" data-max-rows="1" data-width="440" perms="email,user_birthday,status_update,publish_stream,user_online_presence" onlogin="javascript: Validate();">Connect with Facebook</div>
-  </div>
-    <div id="fb-root"><script async="" src="https://connect.facebook.net/en_US/all.js"></script></div>
+ <!--  <div style="float:right; margin-top:2px;width:165px;height:22px;border:#FFFFFF; ">
+    <div class="fb-login-button" data-show-faces="false"
+ data-max-rows="1" data-width="440" perms="email,user_birthday,status_update,publish_stream,user_online_presence" onlogin="javascript: Validate();">Connect with Facebook</div>
+  </div>-->
+    <div id="fb-root"></div>
   <div class="clear"></div>
   <script type="text/javascript">    
-function Validate() {
+/* 
+ function Validate() {
 	window.location.href="http://www.univariety.com/user/registration.php?face=true";
 }      
 window.fbAsyncInit = function() {
 FB.init({
-appId: '178905392238418',	          
+appId: '',	          
   cookie: true,
   xfbml: true,
   oauth: true
@@ -229,6 +235,7 @@ e.src = document.location.protocol +
   '//connect.facebook.net/en_US/all.js';
 document.getElementById('fb-root').appendChild(e);
 }());
+*/
 </script>
   <div class="clear"></div>
 </div>
@@ -294,11 +301,9 @@ document.getElementById('fb-root').appendChild(e);
 		<div id="footer">
 <div class="float_lt">
 	<div class="footerRt">
-				<a href="http://www.univariety.com/aboutus.php">About Us</a>  |&nbsp; <a href="http://www.univariety.com/uknowledge.php">UKnowledge</a>  |&nbsp; <a href="http://www.univariety.com/utools.php">UTools</a>  |&nbsp; <a href="http://www.univariety.com/products.php">Products</a>  |&nbsp; <a href="http://www.univariety.com/contact-us.php">Contact Us</a>  |&nbsp; <a href="http://www.univariety.com/blog.php">Blog</a>  |&nbsp; <a href="http://www.univariety.com/faqs.php">FAQs</a>  |&nbsp; <a href="http://www.univariety.com/privacy-policy.php">Privacy Policy</a>  |&nbsp; <a href="http://www.univariety.com/terms-conditions.php">Terms and Conditions</a>  |&nbsp; <a href="http://www.univariety.com/disclaimer.php">Disclaimer</a>            
-		    
-	</div>
+	<a href="http://www.univariety.com/aboutus.php">About Us</a>  |&nbsp; <a href="http://www.univariety.com/uknowledge.php">UKnowledge</a>  |&nbsp; <a href="http://www.univariety.com/utools.php">UTools</a>  |&nbsp; <a href="http://www.univariety.com/products.php">Products</a>  |&nbsp; <a href="http://www.univariety.com/contact-us.php">Contact Us</a>  |&nbsp; <a href="http://www.univariety.com/blog.php">Blog</a>  |&nbsp; <a href="http://www.univariety.com/faqs.php">FAQs</a>  |&nbsp; <a href="http://www.univariety.com/privacy-policy.php">Privacy Policy</a>  |&nbsp; <a href="http://www.univariety.com/terms-conditions.php">Terms and Conditions</a>  |&nbsp; <a href="http://www.univariety.com/disclaimer.php">Disclaimer</a>	</div>
 		<div class="clear"></div>
-   		<div class="footerCopy" style="padding-left:10px;">Copyright © 2012 <a href="http://www.internationaleducationgateway.org" target="_blank">International Education Gateway Pte Ltd.</a> All Rights Reserved.</div>
+   		<div class="footerCopy" style="padding-left:10px;"><a href="http://www.internationaleducationgateway.org/" target="_blank">International Education Gateway Pte Ltd.</a> © 2013   |   All rights reserved | Univariety ®</div>
         </div>
     	<div class="footerIcon">
             <a href="http://www.facebook.com/pages/Univariety/309527325724729" target="_blank" class="footerIcon-fb"></a> <a href="https://twitter.com/Univariety" target="_blank" class="footerIcon-tw"></a>
