@@ -1,7 +1,19 @@
-> *The following text is extracted and transformed from the bevmo.com privacy policy that was archived on 2011-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111105100055id_/http%3A//www.bevmo.com/misc/contentpage.aspx%3Fcontentpageid%3D3) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bevmo.com privacy policy that was archived on 2013-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130617230124id_/http%3A//www.bevmo.com/misc/contentpage.aspx%3Fcontentpageid%3D3) for the most accurate reproduction.*
 
 # 
 
+|  |   
+  
+| 
+
+### View inventory available for  
+  
+---  
+  
+Please Select
+
+|   
+  
 **BevMo! Privacy and Security Policy**
 
   
@@ -11,7 +23,7 @@ BevMo.com is committed to keeping your personal information strictly confidentia
 
 **Opting Out:**
 
-BevMo.com may send you newsletters, special events and promotional offers via-email when you open up an account or become a ClubBev! member. If you do not wish to receive any of this information simply enter "NO" in the box marked "It's Ok to send me information" when you create an account. If you forget to enter this information and you receive an e-mail, you can click to the "Unsubscribe" link and be removed from our mailing list. 
+BevMo.com may send you newsletters, special events and promotional offers via-email when you open up an account or become a ClubBev! member. If you do not wish to receive any of this information simply enter "NO" in the box marked "It's Ok to send me information" when you create an account. If you forget to enter this information and you receive an e-mail, you can click the "Unsubscribe" link and be removed from our mailing list. 
 
 **Cookies:**
 
@@ -44,3 +56,6 @@ You may at any time modify or change any information you have previously provide
 If you have any concerns or questions with respect to our Privacy Policy, please feel free to 
 
 [contact us](https://web.archive.org/misc/CustomerService.aspx). By using this site, you are agreeing to the conditions of this Privacy Policy. DO NOT USE THIS SITE IF YOU DO NOT AGREE WITH THIS PRIVACY POLICY. If we decide to change our Privacy Policy in whole or in part it will be posted on the site. Please check this page periodically for changes.
+
+Copyright © 2000-2013 BevMo.com. All rights reserved. See our [ Privacy Statement](https://web.archive.org/misc/contentpage.aspx?contentpageid=3)  
+Website design and hosting by [VisionOne](http://www.visionone.ws/), Inc. 
