@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the boltblue.com privacy policy that was archived on 2012-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121213024829id_/http%3A//www.boltblue.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the boltblue.com privacy policy that was archived on 2013-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130618013717id_/http%3A//boltblue.com/privacy-policy) for the most accurate reproduction.*
 
 # Ringtones, Mobile Games, Wallpapers, Text Messaging, Boltblue
 
