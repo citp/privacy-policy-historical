@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the everydayfamily.com privacy policy that was archived on 2012-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121215112855id_/http%3A//www.everydayfamily.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the everydayfamily.com privacy policy that was archived on 2013-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130617044159id_/http%3A//www.everydayfamily.com/privacy-policy) for the most accurate reproduction.*
 
 # EverydayFamily.com Privacy Policy
 
@@ -116,9 +116,11 @@ By using this site, including, without limitation, submitting information on the
 
 **_Comments and Questions_** ** __**If you have any questions, comments or concerns regarding this Privacy Policy, please contact us at EverydayFamily, Attention: Chief Privacy Officer, 2406 Cypress Glen Dr #101, Wesley Chapel, FL 33544. ** _
 
+1-888-660-6631
+
 Opt-Out, Communication Preferences
 
-_** You may modify your communication preferences and/or opt-out from specific communications at any time. Please specify and adjust your preferences [here](http://www.everydayfamily.com/unsubscribe.aspx?email=). _  
+_**You may modify your communication preferences and/or opt-out from specific communications at any time. Please specify and adjust your preferences [here](http://www.everydayfamily.com/unsubscribe.aspx?email=). _  
 **  
 Terms of Use**_ Note also that your use of the Site is subject to our [Terms of Use](http://www.everydayfamily.com/terms/), which contain disclaimers and limitations of liability.
 
