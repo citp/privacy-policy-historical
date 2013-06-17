@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dentaquest.com privacy policy that was archived on 2012-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121201015600id_/http%3A//dentaquest.com/privacy-and-security) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dentaquest.com privacy policy that was archived on 2013-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130617042545id_/http%3A//dentaquest.com/privacy-and-security) for the most accurate reproduction.*
 
 # DentaQuest - DentaQuest Privacy and Security Information
 
