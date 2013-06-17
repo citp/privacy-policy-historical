@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dust514.com privacy policy that was archived on 2012-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121209014730id_/http%3A//www.dust514.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dust514.com privacy policy that was archived on 2013-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130617044649id_/http%3A//dust514.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - DUST 514
 
