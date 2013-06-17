@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cruisedeals.com privacy policy that was archived on 2012-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121115014840id_/http%3A//www.cruisedeals.com/about/privacy_policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cruisedeals.com privacy policy that was archived on 2013-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130617050850id_/http%3A//cruisedeals.com/about/privacy_policy.asp) for the most accurate reproduction.*
 
 # Privacy Policy for CruiseDeals.com
 
@@ -29,3 +29,13 @@ CruiseDeals.com takes precautions to protect users’ Personal Information. To p
 
 **Contact Us**  
 If you have any questions or concerns about this policy, you may contact CruiseDeals.com at [service@cruisedeals.com](mailto:service@cruisedeals.com). We will attempt to respond to your query right away. 
+
+[](http://www.bbb.org/charlotte/business-reviews/cruises/cruise-dealscom-in-charlotte-nc-115986 "Cruise Deals BBBOnline")
+
+* * *
+
+#### Helpful Links
+
+* * *
+
+#### Fun Stuff
