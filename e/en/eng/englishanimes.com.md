@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the englishanimes.com privacy policy that was archived on 2012-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121212044117id_/http%3A//www.englishanimes.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the englishanimes.com privacy policy that was archived on 2013-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130617033926id_/http%3A//www.englishanimes.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Free Anime Online
 
