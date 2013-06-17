@@ -1,22 +1,22 @@
-> *The following text is extracted and transformed from the qrz.com privacy policy that was archived on 2012-10-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121028125154id_/http%3A//www.qrz.com/i/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the qrz.com privacy policy that was archived on 2013-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130617045807id_/http%3A//qrz.com/page/privacy.html) for the most accurate reproduction.*
 
 # privacy by QRZ.COM
 
-[](http://www.qrz.com/click?id=4251)
+[](http://ads.qrz.com/click?id=4776)
 
-[](http://www.qrz.com/click?id=4049)
+[](http://ads.qrz.com/click?id=4703)
 
-[](http://www.qrz.com/click?id=3877)
+[](http://ads.qrz.com/click?id=3877)
 
-[](http://www.qrz.com/click?id=4064)
+[](http://ads.qrz.com/click?id=4422)
 
-[](http://www.qrz.com/click?id=4268)
+[](http://ads.qrz.com/click?id=1991)
 
-[](http://www.qrz.com/click?id=55)
+[](http://ads.qrz.com/click?id=4556)
 
-[](http://www.qrz.com/click?id=1992)
+[](http://ads.qrz.com/click?id=4438)
 
-[](http://www.qrz.com/click?id=3926)
+[](http://ads.qrz.com/click?id=55)
 
   
 
@@ -56,13 +56,13 @@ Contributions Accepted
 > 
 > **Opt Out Procedure**
 > 
-> If you would like to "opt out," that is, to prevent any non-FCC data from being displayed by QRZ about you, please notify us by email. Please address all correspondence to: [editor@qrz.com](mailto:editor@qrz.com) and simply state your amateur radio CALLSIGN and which non-FCC information you would like **not** to have presented by QRZ. 
+> If you would like to "opt out," that is, to prevent any non-FCC data from being displayed by QRZ about you, please notify us by email. Please contact us at [The QRZ Support Center](https://forums.qrz.com/support) and simply state your amateur radio CALLSIGN and that you would like your information removed from QRZ. 
 > 
 > Please be aware that with the exception of your street address that information that is published by the FCC in the public domain will continue to be displayed by QRZ even after you opt out. 'Opting Out' affects only that data that the FCC does **not** provide. Non-FCC data includes your birth date, your biography, your picture, your email address, and your home page address. 
 > 
 > Note that street address de-listing by QRZ will not change the FCC's records in any way. Your information will still be available to anyone who wants it at the FCC's official website. Your information will also very likely continue to be available on other non-QRZ amateur radio websites and callsign servers. 
 > 
-> If you have any additional questions about QRZ's dedication to consumer privacy, please contact us at [editor@qrz.com](mailto:editor@qrz.com). 
+> If you have any additional questions about QRZ's dedication to consumer privacy, please contact us at [The QRZ Support Center](https://forums.qrz.com/support)
 
 |   
 ---|---|---
