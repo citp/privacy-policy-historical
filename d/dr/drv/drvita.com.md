@@ -1,100 +1,129 @@
-> *The following text is extracted and transformed from the drvita.com privacy policy that was archived on 2011-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111229203604id_/http%3A//www.godaddy.com/agreements/ShowDoc.aspx%3Fpageid%3Dprivacy_parkedpage) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the drvita.com privacy policy that was archived on 2013-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130617031229id_/http%3A//www.drvita.com/t-privacy.aspx) for the most accurate reproduction.*
 
-# Legal Agreement
+# DrVita Privacy and Security Policy
 
-**Go Daddy Respects Your Privacy**
+DrVita.com understands the security of your personal information, and we appreciate your trust that we will manage it carefully and sensibly. This notice describes our privacy policy. By visiting DrVita.com, you are accepting the practices described in this Privacy Notice.
 
-**This Privacy Policy explains our privacy and information gathering practices, such as the types of information we collect and under what circumstances that information is shared.**
+#### What Personal Information About Customers Does DrVita.com Gather?
 
-**Please take the time to review the terms of this Policy.   By using this Site, you agree to accept the terms provided.**
+#### What About Cookies?
 
-**Other than as described in this Policy, we will not give any information about you to others without your express permission.**
+#### Does DrVita.com Share the Information It Receives?
 
-**Information Collection and Use**
+#### How Secure Is Information About Me?
 
-Although this Site is primarily for informational purposes, we may ask you to provide us with your name, email address or other information that could be used to identify you personally.  For example, we may collect this information in the event that you register as a member of this Site, post a comment, sign-up to receive email communications, or submit demographic information as part of a survey.
+#### What About Third-Party Advertisers and Links to Other Websites?
 
-We receive and store any information you enter on our Site or give us in any other way, including through email, telephone, or other communications. If you contact us for support, we will keep an internal record of our communication with you.
+#### Which Information Can I Access?
 
-We may use your information to contact you regarding the information and services available on our Site, functionality changes to our Site, and special offers we think you'll find valuable. If you would rather not receive this information, please see the "Updating Your Information" section below on how to change your preferences.
+#### What Choices Do I Have?
 
-We may also use your information to present a co-branded offer with our partners or affiliates. If we collect information from you in connection with a co-branded offer, it will be clear at the point of collection who is collecting the information and whose privacy statement applies.
+#### Are Children Allowed to Use DrVita.com?
 
-We use information gathered about you from our Site statistics (for example, your IP address) to help diagnose problems with our server, and to administer our Site. We also gather broad demographic information from this data to help us improve our Site and make your browsing and purchasing experience more enjoyable. This is not linked to any personally identifiable information, except as necessary to prevent fraud or abuse on our system.
+#### Does DrVita.com Participate in the Safe Harbor Program?
 
-Our Site uses cookies to enhance your experience with our Site.  Cookies are data files that are placed in your browser to keep track of your personal preferences and to facilitate easy navigation through our Site.  We use cookies to identify you so you don't need to log in each time you visit our Site.  You may opt-out of the use of cookies by altering settings on your browser.  Please note, however, that some areas of the Site will be easier to navigate with the use of cookies..
+#### Terms of Use, Notices, and Revisions
 
-This Site also contains links to other websites. Unfortunately, we are not responsible for the privacy practices or the content of such sites.
+#### Examples of Information Collected
 
-**Security**
+ **What Personal Information About Customers Does DrVita.com Gather?**
 
-This Site has security measures in place to protect against the loss, misuse or alteration of the information under our control.
+The information we learn from customers helps us personalize and continually improve your shopping experience at DrVita.com. Here are the types of information we gather.
 
-**Updating Your Information**
+  * **  Information You Give Us:** We receive and store any information you enter on our Web site or give us in any other way. Click here to see examples of what we collect. You can choose not to provide certain information, but then you might not be able to take advantage of many of our features. We use the information that you provide for such purposes as responding to your requests, customizing future shopping for you, improving our stores, and communicating with you.
+  * **Automatic Information:** We receive and store certain types of information whenever you interact with us. For example, similar to many Web sites, we use "cookies," and we obtain certain types of information when your Web browser accesses DrVita.com or advertisements and other content served by or on behalf of DrVita.com on other Web sites. Click here to see examples of the information we receive.
+  * **  E-mail Communications:** To help us make e-mails more useful and interesting, we often receive a confirmation when you open e-mail from DrVita.com if your computer supports such capabilities. We also compare our customer list to ones received from other companies, in an effort to avoid sending unnecessary messages to our customers. If you do not want to receive e-mail or other mail from us, please adjust your Customer Communication Preferences.
+  * **  Information from Other Sources:** We might receive information about you from other sources and add it to our account information.  Click here to see examples of the information we receive.
 
-You may alter your account information or opt out of receiving communications from us and our partners at any time. We have the following options for changing and modifying your account information or contact preferences.
 
-        i.      You may send an email to [support@godaddy.com ](mailto:support@godaddy.com)
 
-       ii.      You may send mail to Go Daddy at the following postal address:   
-               14455 North Hayden Road, Suite 219, Scottsdale, AZ. 85260 USA
+ **What About Cookies?**
 
-      iii.      You may call us at: (480) 505-8800
+Cookies are alphanumeric identifiers that we transfer to your computer's hard drive through your Web browser to enable our systems to recognize your browser and to provide features such as payment purchasing, items recommended for you, personalized advertisements on other areas of the website (e.g., DrVita Community, Articles, etc.), and storage of items in your Shopping Cart between visits.
 
-       iv.      You may fax us at: (480) 505-8844
+  * The Help portion of the toolbar on most browsers will tell you how to prevent your browser from accepting new cookies, how to have the browser notify you when you receive a new cookie, or how to disable cookies altogether. Additionally, you can disable or delete similar data used by browser add-ons, such as Flash cookies, by changing the add-on's settings or visiting the Web site of its manufacturer. However, because cookies allow you to take advantage of some of DrVita.com's essential features, we recommend that you leave them turned on. For instance, if you block or otherwise reject our cookies, you will not be able to add items to your Shopping Cart, proceed to Checkout, or use any DrVita.com products and services that require you to Sign in.
 
-**Sending Emails**
 
-We use emails to communicate with you and to send information that you have requested.  We also provide email links to allow you to contact us directly. We strive to promptly reply to your messages.
 
-The information you send to us may be stored and used to improve this Site and our products, or it may be reviewed and discarded.
+ **Does DrVita.com Share the Information It Receives?**
 
-**Compliance with Laws and Law Enforcement**
+Information about our customers is an important part of our business, and we do not participate in sharing or selling it to any other outside party. We share customer information only as described below and with subsidiaries DrVita.com, Inc. controls. Either are subject to this Privacy Notice or follow practices at least as protective as those described in this Privacy Notice.
 
-We cooperate with government and law enforcement officials and private parties to enforce and comply with the law. We will disclose any information about you to government or law enforcement officials or private parties as we, in our sole discretion, believe necessary or appropriate to respond to claims and legal process (including without limitation subpoenas), to protect our property and rights or the property and rights of a third party, to protect the safety of the public or any person, or to prevent or stop activity we consider to be illegal or unethical. We will also share your information to the extent necessary to comply with ICANN's rules, regulations and policies.
+  * **Third-Party Service Providers:** We employ other companies and individuals to perform functions on our behalf. Examples include (but are not limited to) delivering packages, providing search results and links (including paid listings and links), processing credit card payments, etc. They have access to personal information needed to perform their functions, but may not use it for other purposes.
+  * **Business Transfers:** As we continue to develop our business, we might sell or buy stores, subsidiaries, or business units. In such transactions, customer information generally is one of the transferred business assets but remains subject to the promises made in any pre-existing Privacy Notice (unless, of course, the customer consents otherwise). Also, in the unlikely event that DrVita.com, Inc., or substantially all of its assets are acquired, customer information will of course be one of the transferred assets.
+  * **Protection of DrVita.com and Others:** We release account and other personal information when we believe release is appropriate to comply with the law; enforce or apply our Terms of Use and other agreements; or protect the rights, property, or safety of DrVita.com, our users, or others. This includes exchanging information with other companies and organizations for fraud protection and credit risk reduction. However, this does not include selling, renting, sharing, or otherwise disclosing personally identifiable information from customers for commercial purposes in violation of the commitments set forth in this Privacy Notice.
+  * **With Your Consent:** Other than as set out above, you will receive notice when information about you might go to third parties, and you will have an opportunity to choose not to share the information.
 
-**Third Party Service Providers**
 
-We may at times provide information about you to third parties to provide various services on our behalf, such as serving advertisements, conducting contests or surveys, performing analyses of our user demographics, shipping of goods or services, and user relationship management. We will only share information about you that is necessary for the third party to provide the requested service. These companies are prohibited from retaining, sharing, storing or using your personally identifiable information for any secondary purposes.
 
-In the event that we use third party advertising companies to serve ads on our behalf, these companies may employ cookies and action tags (also known as single pixel gift or web beacons) to measure advertising effectiveness. Any information that these third parties collect via cookies and action tags is completely anonymous. If you would like more information about this practice and your choices, click [here. ](http://www.networkadvertising.org/managing/opt_out.asp)
+ **How Secure Is Information About Me?**
 
-**Supplementation of Information**
+We work to protect the security of your information during transmission by using Secure Sockets Layer (SSL) software, which encrypts information you input.
 
-In order to provide certain services to you, we may on occasion supplement the personal information you submit to us with information from third party sources ( _e.g.,_ information from our strategic partners, service providers, or the United States Postal Service).  We do this to enhance our ability to serve you, to tailor our products and services to you, and to offer you opportunities to purchase products or services that we believe may be of interest to you.
+We reveal only the last four digits of your credit card numbers when confirming an order. Of course, we transmit the entire credit card number to the appropriate credit card company during order processing.
 
-**Contests/Surveys**
+It is important for you to protect against unauthorized access to your password and to your computer. Be sure to sign off when finished using a shared computer. Click here for more information on how to sign off.
 
-From time-to-time, we may provide you with the opportunity to participate in contests or surveys. If you choose to participate, we may request certain personally identifiable information from you. Participation in these contests or surveys is completely voluntary and you therefore have a choice whether or not to disclose the requested information. The requested information typically includes contact information (such as name and address), and demographic information (such as zip code and age level - note that you must be 18 or above to enter). We use this information to notify contest winners and award prizes, to monitor Site traffic, and to personalize our Site.
+ **What About Third-Party Advertisers and Links to Other Websites?**
 
-We may use a third party service provider to conduct these surveys or contests. When we do, that company will be prohibited from using our users' personally identifiable information for any other purpose. We will not share the personally identifiable information you provide through a contest or survey with other third parties unless we give you prior notice and choice.
+Our site includes third-party advertising and links to other Web sites. We do not provide any personally identifiable customer information to these advertisers or third-party Web sites. Click here for more information about our Advertising Policies and Specifications.
 
-**Tell-A-Friend**
+These third-party Web sites and advertisers, or Internet advertising companies working on their behalf, sometimes use technology to send (or "serve") the advertisements that appear on our Web site directly to your browser. They automatically receive your IP address when this happens. They may also use cookies, JavaScript, web beacons (also known as action tags or single-pixel gifs), and other technologies to measure the effectiveness of their ads and to personalize advertising content. We do not have access to or control over cookies or other features that they may use, and the information practices of these advertisers and third-party Web sites are not covered by this Privacy Notice. Please contact them directly for more information about their privacy practices. In addition, [the Network Advertising Initiative](http://www.networkadvertising.org/) offers useful information about Internet advertising companies (also called "ad networks" or "network advertisers"), including information about how to opt-out of their information collection.
 
-If a user elects to use our referral service to inform a friend about our Site, we ask the user for the friend's name and email address. Go Daddy will automatically send the friend a one-time email inviting them to visit our Site. Go Daddy stores this information for the sole purpose of sending this one-time email. The friend may contact Go Daddy at [support@godaddy.com ](mailto:support@godaddy.com)to request the removal of this information from our database.
+DrVita.com also displays personalized third-party advertising based on personal information about customers, such as purchases on DrVita.com, visits to DrVita Associate Web sites, or use of payment services on other Web sites. Click here for more information about the personal information that we gather. Although DrVita.com does not provide any personal information to advertisers, who (including ad-serving companies) may assume users that interact with or click on a personalized advertisement meet their criteria to personalize the ad (for example, users in the northwestern United States who bought or browsed for classical music). If you do not want us to use personal information that we gather to allow third parties to personalize advertisements we display to you, please adjust your Advertising Preferences.
 
-**What Happens to my Personal Information if I Opt Out?**
+ **Which Information Can I Access?**
 
-If you advise us that you wish to opt out of receiving further communications from us, we will place your personally identifiable information in "deactivated" status on our relevant databases. However, you should know that placement of your information in "deactivated" status does not mean your personally identifiable information has been deleted from our database entirely. We will retain and use your personally identifiable information as necessary in order to comply with our legal obligations, resolve disputes, or enforce our agreements.
+DrVita.com gives you access to a broad range of information about your account and your interactions with DrVita.com for the limited purpose of viewing, and in certain cases, updating that information. Click here to see some examples, the list of which will change as our Web site evolves.
 
-**Transfer of Data Abroad**
+ **What Choices Do I Have?**
 
-If you are visiting this Site from a country other than the country in which our servers are located, your communications with us may result in the transfer of information across international boundaries.  By visiting this Site and communicating electronically with us, you consent to such transfers.
+As discussed above, you can always choose not to provide information, even though it might be needed to make a purchase or to take advantage of DrVita.com features, such as Your Profile, Wish Lists, Customer Reviews, etc.
 
-**Changes in Our Practices**
+You can add or update certain information on pages such as those referenced in the “Which Information Can I Access” section. When you update information, we usually keep a copy of the prior version for our records.
 
-We reserve the right to modify this Privacy Policy at any time. If we decide to change our Privacy Policy, we will post those changes to this Privacy Policy and any other places we deem appropriate, so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it.
+If you do not want to receive e-mail or other mail from us, please adjust your Customer Communication Preferences. (If you do not want to receive Terms of Use and other legal notices from us, such as this Privacy Notice, those notices will still govern your use of DrVita.com, and it is your responsibility to review them for changes.)
 
-If we make material changes to this Policy, we will notify you here, by email, or by means of a notice on our home page, at least thirty (30) days prior to the implementation of the changes.
+If you do not want us to use personal information that we gather to allow third parties to personalize advertisements we display to you, please adjust your Advertising Preferences.
 
-**Contacting Our Site**
+The Help portion of the toolbar on most browsers will tell you how to prevent your browser from accepting new cookies, how to have the browser notify you when you receive a new cookie, or how to disable cookies altogether. Additionally, you can disable or delete similar data used by browser add-ons, such as Flash cookies, by changing the add-on's settings or visiting the Web site of its manufacturer. However, because cookies allow you to take advantage of some of DrVita.com's essential features, we recommend that you leave them turned on. For instance, if you block or otherwise reject our cookies, you will not be able to add items to your Shopping Cart, proceed to Checkout, or use any DrVita.com products and services that require you to Sign in.
 
-If you have any questions about our Privacy Policy, the practices of this Site, or your dealings with this Site, please contact us at:
+ **Are Children Allowed to Use DrVita.com?**
 
-* * *
+DrVita.com does not sell products for purchase by children. We sell children's products for purchase by adults. If you are under 18, you may use DrVita.com only with the involvement of a parent or guardian.
 
-Go Daddy   
-ATTN: Web Team   
-14455 North Hayden Rd.   
-Suite 219   
-Scottsdale, AZ, 85260, U.S.A.
+ **Does DrVita.com Participate in the Safe Harbor Program?**
+
+DrVita.com is a participant in the Safe Harbor program developed by the U.S. Department of Commerce and the European Union. We have certified that we adhere to the Safe Harbor Privacy Principles agreed upon by the U.S. and the E.U. For more information about the Safe Harbor and to view our certification, visit the U.S. Department of Commerce's Safe Harbor Web site. If you would like to contact DrVita.com directly about the Safe Harbor program, please send an e-mail to legal@DrVita.com.
+
+ **Terms of Use, Notices, and Revisions**
+
+If you choose to visit DrVita.com, your visit and any dispute over privacy is subject to this Notice and our Terms of Use, including limitations on damages, resolution of disputes, and application of the law of the state of Washington. If you have any concern about privacy at DrVita.com, please contact us with a thorough description, and we will try to resolve it. Our business changes constantly, and our Privacy Notice and the Terms of Use will change also. We may e-mail periodic reminders of our notices and conditions, unless you have instructed us not to, but you should check our Web site frequently to see recent changes. Unless stated otherwise, our current Privacy Notice applies to all information that we have about you and your account. We stand behind the promises we make, and will never materially change our policies or practices to make them less protective of customer information collected in the past without the consent of affected customers.
+
+Related Practices and Information
+
+Terms of Use
+
+Community Rules
+
+Help department
+
+Most Recent Purchases
+
+ **Examples of Information Collected**
+
+ **Information You Give Us**
+
+You provide most such information when you search, buy, bid, post, participate in a contest or questionnaire, or communicate with customer service. For example, you provide information when you search for a product; place an order through DrVita.com; provide information in Your Account (and you might have more than one if you have used more than one e-mail address when shopping with us) or Your Profile; communicate with us by phone, e-mail, or otherwise; complete a questionnaire or a contest entry form; compile Wish Lists or other gift registries; provide employer information when opening a corporate account; participate in Discussion Boards or other community features; provide and rate Reviews; share information with DrVita Friends; and employ other Personal Notification Services, such as Available to Order Notifications. As a result of those actions, you might supply us with such information as your name, address, and phone numbers; credit card information; people to whom purchases have been shipped, including addresses and phone number; people (with addresses and phone numbers) listed in payment settings; e-mail addresses of DrVita Friends and other people; content of reviews and e-mails to us; personal description and photograph in Your Profile; and financial information, including Social Security and driver's license numbers.
+
+ **Automatic Information**
+
+Examples of the information we collect and analyze include the Internet protocol (IP) address used to connect your computer to the Internet; login; e-mail address; password; computer and connection information such as browser type, version, and time zone setting, browser plug-in types and versions, operating system, and platform; purchase history, which we sometimes aggregate with similar information from other customers to create features such as Purchase Groups and Top Sellers; the full Uniform Resource Locator (URL) clickstream to, through, and from our Web site, including date and time; cookie number; products you viewed or searched for; and the phone number you used to call our 800 number. We may also use browser data such as cookies, Flash cookies (also known as Flash Local Shared Objects), or similar data on certain parts of our Web site for fraud prevention and other purposes. During some visits, we may use software tools such as JavaScript to measure and collect session information. This may include; page response times, download errors, length of visits to certain pages, page interaction information (such as scrolling, clicks, and mouse-overs), and methods used to browse away from the page.
+
+ **Information from Other Sources**
+
+Examples of information we receive from other sources include updated delivery and address information from our carriers or other third parties, which we use to correct our records and deliver your next purchase or communication more easily; account information, purchase or redemption information, and page-view information from some merchants with which we operate co-branded businesses or for which we provide technical, fulfillment, advertising, or other services; search term and search result information from some searches conducted through the Web search features offered by our subsidiaries, Alexa Internet and A9.com; search results and links, including paid listings (such as Sponsored Links); and credit history information from credit bureaus, which we use to help prevent and detect fraud and to offer certain credit or financial services to some customers.
+
+ **Information You Can Access**
+
+Examples of information you can access easily at DrVita.com include up-to-date information regarding recent orders; personally identifiable information (including name, e-mail, password, communications and personalized advertising preferences, address book); payment settings (including credit card information and gift certificate, gift card, and check balances); e-mail notification settings (including Alerts, Available to Order notifications, Delivers, Recommended for You, Weekly and Monthly Sales, and newsletters); recommendations (including recent product view history, prior order history, and Favorites); Wish Lists; and Your Profile (including your product Reviews, Requests, and Recommendations, personal profile, and DrVita Friends).
