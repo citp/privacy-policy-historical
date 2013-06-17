@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the localmint.com privacy policy that was archived on 2012-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121130160205id_/http%3A//www.localmint.com/page/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the localmint.com privacy policy that was archived on 2013-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130617101037id_/http%3A//www.localmint.com/page/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Localmint
 
