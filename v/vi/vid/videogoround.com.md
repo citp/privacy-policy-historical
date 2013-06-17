@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the videogoround.com privacy policy that was archived on 2012-07-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120715235301id_/http%3A//www.videogoround.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the videogoround.com privacy policy that was archived on 2013-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130617025320id_/http%3A//www.videogoround.com/privacy.html) for the most accurate reproduction.*
 
 # VideoGoRound.com.Generate Exclusive Viral Videos In SECONDS
 
