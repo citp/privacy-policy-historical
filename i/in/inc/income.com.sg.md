@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the income.com.sg privacy policy that was archived on 2012-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121231043641id_/http%3A//www.income.com.sg/others/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the income.com.sg privacy policy that was archived on 2013-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130617151327id_/http%3A//income.com.sg/others/privacy.asp) for the most accurate reproduction.*
 
 # NTUC Income | About Us
+
+| 
 
   1. **What Personal Information do we collect?**
     1. **Information you give us**  
@@ -100,14 +102,15 @@ If we are going to use the information in a manner materially different from tha
 If you have questions or comments regarding this policy, we welcomes you to contact us by e-mail at **[webmaster@income.com.sg](mailto:webmaster@income.com.sg?subject=General%20Enquiry) **or to our corporate address at:
 
 
+  
 
 
 **75 Bras Basah Road  
 NTUC Income Centre  
-Singapore 189557**
-
-| 
-
+Singapore 189557**  
+  
+---  
+  
 me@income
 
 [](https://appsonline.income.com.sg/meincome/default.aspx)
@@ -130,6 +133,4 @@ Birthday Treats
 
 Advance Queue Booking
 
-[](https://priorityreservation.income.com.sg/Pre-Q/ManageBooking.aspx)  
-  
----|---
+[](https://priorityreservation.income.com.sg/Pre-Q/ManageBooking.aspx)
