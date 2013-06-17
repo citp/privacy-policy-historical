@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the earneasycash.info privacy policy that was archived on 2012-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121223093043id_/http%3A//www.earneasycash.info/index.php%3Fview%3Dprivacy%26) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the earneasycash.info privacy policy that was archived on 2013-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130617021945id_/http%3A//www.earneasycash.info/index.php%3Fview%3Dprivacy%26) for the most accurate reproduction.*
 
 # EarnEasyCash Privacy Statement
 
@@ -10,17 +10,17 @@
   
   
   
-[](https://web.archive.org/web/20121223093043id_/http%3A//www.earneasycash.info/fbannerclick.php?id=5334)
+[](https://web.archive.org/web/20130617021945id_/http%3A//www.earneasycash.info/fbannerclick.php?id=3386)
 
 **Top 6 Clickers**  
 ---  
   
-1\. PMakaCute (305)  
-2\. sashafoxx (267)  
-3\. evenublueg (265)  
-4\. Rich_Pull (250)  
-5\. bluehurley56 (242)  
-6\. ghostofkraken (229)  
+1\. PMakaCute (164)  
+2\. best49 (149)  
+3\. glorybound (140)  
+4\. goforit (134)  
+5\. harrison1999 (127)  
+6\. thinhlu123 (127)  
   
   
   
