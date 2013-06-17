@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the verified-p2p-links.com privacy policy that was archived on 2012-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121124044731id_/http%3A//verified-p2p-links.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the verified-p2p-links.com privacy policy that was archived on 2013-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130617034007id_/http%3A//verified-p2p-links.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy › isoHunt › P2P and BitTorrent link releases
 
@@ -15,7 +15,7 @@
   
 Active torrents indexed from websites and trackers across the internet, unique by info_hash
 
-  Sites: 551  •  Trackers: 212,070  •  **Active Torrents: 10,990,839**  •  Files: 243.38M  •  Size: 15,480.36 TB  •  Peers: 67.34M  
+  Sites: 552  •  Trackers: 226,599  •  **Active Torrents: 12,368,924**  •  Files: 269.83M  •  Size: 16,627.10 TB  •  Peers: 59.15M  
 
 Privacy Policy
 
