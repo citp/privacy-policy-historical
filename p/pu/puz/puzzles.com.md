@@ -1,95 +1,72 @@
-> *The following text is extracted and transformed from the puzzles.com privacy policy that was archived on 2012-07-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120706120115id_/http%3A//puzzles.com/Office/PrivacyPolicy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the puzzles.com privacy policy that was archived on 2013-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130617051210id_/http%3A//puzzles.com/Office/PrivacyPolicy.htm) for the most accurate reproduction.*
 
 # Puzzles.COM - Our Privacy Policy
 
 |  |   
 ---|---|---  
-|  [ Home](https://web.archive.org/web/20120706120115id_/http%3A//puzzles.com/index.htm) / |   
+|  [ Home](https://web.archive.org/web/20130617051210id_/http%3A//puzzles.com/index.htm) / |   
 |  |   
-| 9 Quetions About Our Privacy Policy |   
+|  Effective Date: November 22, 2012 |   
 |  |   
+|  This privacy policy describes how ThinkFun Inc. (“ThinkFun”) handles information received from users of the Puzzles.com website. A separate privacy policy applies to the ThinkFun Brain Lab Tournament Microsite; please [ click here](http://www.thinkfunbrainlab.com/home/privacy) to view that policy. |   
 |  |   
-|  What types of information are Puzzles.COM and ThinkFun collecting, and how are they collecting it? |   
+|  Information Collection |   
+|  The majority of products and services on our site are offered without collecting any personally identifiable information from you. You can surf our site and view much of our content anonymously. |   
 |  |   
-|  What Are Cookies, and How Does Puzzles.COM/ThinkFun Use Them? |   
+|  Information You Provide |   
+|  We collect information when you provide it to us, such as by contacting us or by joining one of our mailing lists. When you make a purchase, we will ask you to provide us with your name, company name, contact information, and credit card information. We will also ask you to create a password, and to choose a security question and enter an answer in case we need to remind you of your password. |   
 |  |   
-|  How does Puzzles.COM use the personally identifiable information that has been collected? |   
+|  Information Collected from You with Technology |   
+|  Through this site, we also automatically collect some non-personally identifiable information about you using technology. For instance, we may collect the domain from which you access the Internet; IP address; browser type; screen resolution; Internet connection speed; operating system; the date and time you access our site; and the Internet address of the website from which you linked to our site. We use such information to make our site more interesting and useful to you. We normally don’t combine this type of information with personally identifiable information; however, we will combine this information with personally identifiable information in some cases, such as to enforce compliance with our house rules or terms of service or to protect our service, site, or other people. |   
 |  |   
-|  Do Puzzles.COM or ThinkFun share information with companies or other organizations? |   
+|  How We Use Cookies |   
+|  Cookies are pieces of information that a website sends to your computer while you are viewing the website. These pieces of information allow the website to remember important information that will make your use of that site more useful. This website, like other Internet sites, uses cookies for a variety of purposes. For instance, when placing an order, we use cookies to remember and process the items in your shopping cart. You can usually set your Internet browser to warn you each time a cookie is being sent or to turn off all cookies. Each browser is a little different, so look at your browser Help menu to learn about the options your browser provides regarding cookies. If you turn cookies off, you won't have access to site features that make your Web experience more efficient -- like the features mentioned above -- and some of our services will not function properly. |   
 |  |   
-|  What choices do I have about Puzzles.COM and ThinkFun collecting, using, and sharing my information? |   
+|  How We Use the Information |   
+|  We use personally identifiable information in a limited number of ways. We use the information to operate our business and to complete transactions, to respond to your requests, and to provide information or updates from us (depending on the option you have chosen). For instance, if you purchase an item, we use your information to process your order. We may use the information we collect to understand and improve our website, our products and our services. In addition, we may also use the information to contact you regarding changes to our privacy policy or other policies that may affect you and your use of our website, products and services. |   
 |  |   
-|  What type of security do Puzzles.COM and ThinkFun provide? |   
-|  |   
-|  How can I access my account information? |   
-|  |   
-|  How do parents access information about their kids? |   
-|  |   
-|  Whom do I contact with questions or concerns about this privacy policy? |   
-|  |   
-|  |   
-|  What types of information are Puzzles.COM and ThinkFun collecting, and how are they collecting it? |   
-|  The majority of products and services on our sites are offered without our collecting any personally identifiable information from you. You can surf our site and view much of our content anonymously.
+|  How We Share the Information |   
+|  We will only share your information as described in this policy or with your consent.
 
-Information You Provide  
-There are a few activities on our site where the collection of personally identifiable information is necessary. Those activities include things like joining the PuzzleCLUB, making a purchase, or contacting us. When personally identifiable information is collected, you will know because you will have to fill out a form. For most activities, we collect only your name and e-mail address. When you make a purchase, we also collect your street and billing addresses, your phone number, and credit card information. By law, we are not allowed to collect more information from children than is reasonably necessary for participation in an activity. 
+Companies That Are Standing In For Us  
+We may use the services of agents and contractors to assist us in providing our products and services, such as a shipping company that delivers a package, a company that helps us process your payment, or contractors that assist us in operating the website. In those instances, we need to share your information with them. These companies are basically standing in for us, and they are not allowed to use the information for independent purposes.
 
-Information Collected from You with Technology  
-Puzzles.COM and ThinkFun collect some information about you using technology, so it may not be readily apparent to you that it is being collected. For instance, when you come to our site your IP address is collected so that we know where to send information you are requesting. An IP address is often associated with the place from which you enter the Internet like your ISP (Internet service provider), your company, or your school, if you are on a school computer. This information is not personally identifiable. Puzzles.COM and ThinkFun sites use information collected through technology to make our sites more interesting and useful to you. We normally don't combine this type of information with personally identifiable information. However, we will combine this information with personally identifiable information to identify a visitor in order to enforce compliance with our house rules or terms of service or to protect our service, site, or others.
+Legal Requirements and Organizations That Help Protect the Security and Safety of Our Guests and Our Site  
+We will give out personal information as required by law, for example, to comply with a court order or subpoena; to enforce our Terms of Use or our site or game rules; or to protect the safety and security of visitors or our site.
 
-|   
-|  |   
-|  What Are Cookies, and How Does Puzzles.COM/ThinkFun Use Them? |   
-|  Cookies are pieces of information that a Web site sends to your computer while you are viewing the Web site. These pieces of information allow the Web site to remember important information that will make your use of that site more useful. Puzzles.COM, ThinkFun and other Internet companies use cookies for a variety of purposes. For instance, the Puzzle Mart uses cookies to remember and process the items in your shopping cart.
-
-You can choose to have your computer warn you each time a cookie is being sent, or you can choose to turn off all cookies. You do this through your browser (like Netscape Navigator or Internet Explorer) settings. Each browser is a little different, so look at your browser Help menu to learn the correct way to modify your cookies. If you turn cookies off, you won't have access to many Puzzles.COM/ThinkFun features that make your Web experience more efficient -- like the features mentioned above -- and some of our services will not function properly.
+Transfer of Assets  
+We may transfer information about you if we sell all or a portion of our assets, such as if we are acquired by or merged with another entity.
 
 |   
 |  |   
-|  How does Puzzles.COM use the personally identifiable information that has been collected? |   
-|  Puzzles.COM uses personally identifiable information in a limited number of ways. We use the information to complete transactions. For instance, if you purchase an item at the Puzzle Mart, we use your information to process your order, or if you contact us for help we will use the information to contact you. We use information collected to send you PuzzleCLUB information, or to notify you of exciting new ThinkFun information, if you have chosen that option. We do not share this information with third parties beyond the need to ship items you have purchased. |   
+|  Your Choices |   
+|  You can use most aspects of our site without giving us any personally identifiable information. When you do register with us or give us personally identifiable information, you will have an opportunity to limit e-mail communications from Puzzles.com. You can also request at any time that we not send future marketing e-mail to you either by unsubscribing using the instructions in our emails or by contacting us at [support@ThinkFun.com](mailto:support@ThinkFun.com). Also, as mentioned above, you may be able to use your browser controls to limit the information that we collect through cookies. |   
 |  |   
-|  Do Puzzles.COM or ThinkFun share information with companies or other organizations? |   
-|  You are one of the most valuable assets of our site. We aren't in the business of selling information about our visitors. We will only share your information in the following manner:
-
-Companies That Are Standing In For Puzzles.COM/ThinkFun
-
-Sometimes we hire companies to help us deliver products or services, like a shipping company that delivers a package. In those instances, we need to share your information with them. These companies are basically standing in for Puzzles.COM and ThinkFun, and they are allowed to use the information only to deliver the product or service.
-
-Organizations That Help Protect the Security and Safety of Our Guests and Our Sites
-
-We will give out personal information as required by law, for example, to comply with a court order or subpoena; to enforce our Terms of Service, or site or game rules; or to protect the safety and security of visitors and our site.
-
-|   
+|  Security |   
+|  Maintaining the security of our visitors’ personally identifiable information is important to us. We take reasonable technical, contractual, administrative, and physical security steps to protect visitors’ information. Personally identifiable information that we collect is stored on our secure server and can only be accessed by certain employees within our company. When you provide credit card information we use a Secure Socket Layer (SSL) Certificate to encrypt and protect your credit card data. We show the Norton Secured seal on our website to assure our visitors of these security practices. |   
 |  |   
-|  What choices do I have about Puzzles.COM and ThinkFun collecting, using, and sharing my information? |   
-|  It is possible for you to use much of our site without giving us any personally identifiable information. When you do register with us or give us personally identifiable information, you will have an opportunity at the time we collect your information to limit e-mail communications from Puzzles.COM. You can request at any time that we not send future e-mail to you either by unsubscribing from the communication or by contacting us at [support@ThinkFun.com](mailto:support@ThinkFun.com). Also, as mentioned above, there are ways to limit the information collected through technology. |   
+|  Accessing and Changing Information |   
+|  You can access or change the personally identifiable information you have provided to us by logging into your account on the website, using your email address and password you used during the initial set-up. If you forget your password, you can retrieve it using the security question that you set during registration. |   
 |  |   
-|  What type of security do Puzzles.COM and ThinkFun provide? |   
-|  The importance of security for all personally identifiable information associated with our visitors is of utmost concern to us. Puzzles.COM and ThinkFun take technical, contractual, administrative, and physical security steps to protect all visitors' information. When you provide credit card information, we use secure socket layer (SSL) encryption to protect it. |   
+|  Children’s Privacy |   
+|  We do not knowingly collect personally identifiable information from children under 13. If a parent or guardian believes that a child under 13 has provided use with personally identifiable information, you can contact Customer Service by email at [support@ThinkFun.com](mailto:support@ThinkFun.com) to request deletion of the information. Please include information in the email that will help us identify the child's account. |   
 |  |   
-|  How can I access my account information? |   
-|  You can access the personally identifiable information you gave us during registration by contacting us via e-mail at [ support@ThinkFun.com](mailto:support@ThinkFun.com). Please include information in the e-mail that will help us identify your account so we can assist you with your inquiry or request. |   
+|  Links to Third-Party Sites |   
+|  Our site may contain links to third-party sites. Their information practices may be different than ours, and we do not have control over the information that is submitted to, or collected by, these third parties. You should consult the privacy policies of these other sites to learn about their practices. |   
 |  |   
-|  How do parents access information about their kids? |   
-|  Puzzles.COM and ThinkFun will not collect information other than email addresses from children who are 12 and younger. You can review your child's personally identifiable information by contacting Customer Service by email at [support@ThinkFun.com](mailto:support@ThinkFun.com). You also have the right to have the child's email address deleted and refuse the further collection and use of their child's personal information by emailing this address. Please include information in the email that will help us identify your child's account so we can assist you with your inquiry or request. |   
+|  Updates |   
+|  From time to time, we may update this Privacy Policy. We will notify you of any material changes to our Privacy Policy by updating this page. We encourage you to periodically check back to learn what information we collect, how we use it, and to whom we share it. Your continued use of our website after any such changes have been posted constitutes your agreement to those changes. |   
 |  |   
-|  Whom do I contact with questions or concerns about this privacy policy? |   
-|  If you need further assistance, please send an email with your questions or comments to [support@ThinkFun.com](mailto:support@ThinkFun.com) or write us at:
+|  Contact Us |   
+|  If you need further assistance, please email your questions or comments to us at [support@ThinkFun.com](mailto:support@ThinkFun.com), call us at 703-549-4999, or write to us at:
 
 ThinkFun Inc.  
 1321 Cameron Street  
 Alexandria, VA 22314  
 Attn: A. Barthello
 
-You can also reach us by phone at 1-703-549-4999.
-
-Also a list of people who may access your information in addition to A. Barthello is [here](https://web.archive.org/web/20120706120115id_/http%3A//puzzles.com/Office/PPList.htm).
-
 |   
 |  |   
-|  *Puzzles.COM is owned and operated by ThinkFun Inc., Everybody plays. ThinkFun designs, manufactures and sells a wide range of thinking games, brainteaser puzzles and toys. |   
-|  |   
-|  |  Last Updated: January 2, 2009 | top |   
+|  |  Last Updated: November 22, 2012 | top |   
 ---|---|---  
 |  | 
