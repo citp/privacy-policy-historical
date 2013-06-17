@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the question.com privacy policy that was archived on 2012-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121216022832id_/http%3A//www.question.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the question.com privacy policy that was archived on 2013-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130618013303id_/http%3A//www.question.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Question.com
 
@@ -22,7 +22,7 @@ However, Your e-mail message, question, or comment may be forwarded to other Que
 
 ## Security
 
-Question.com follows generally accepted industry standards to protect the personal information submitted to us, both during transmission and once we receive it. No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore, while we strive to use commercially acceptable means to protect your personal information, we cannot guarantee its absolute security. We use SSL (Secure Socket Layer) technology to protect your sensitive information on our site. If you have any questions about security on our Web site, you can send an [email](https://web.archive.org/web/20121216022832id_/http://www.question.com/privacy/contact/) using our contact form.
+Question.com follows generally accepted industry standards to protect the personal information submitted to us, both during transmission and once we receive it. No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore, while we strive to use commercially acceptable means to protect your personal information, we cannot guarantee its absolute security. We use SSL (Secure Socket Layer) technology to protect your sensitive information on our site. If you have any questions about security on our Web site, you can send an [email](https://web.archive.org/web/20130618013303id_/http://www.question.com/privacy/contact/) using our contact form.
 
 ## Forum/Bulletin Board
 
@@ -55,6 +55,3 @@ Question.com reserves the right to disclose your personally identifiable informa
 If we decide to change our privacy policy, we will post those changes to this privacy statement, the homepage, and other places we deem appropriate so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it. We reserve the right to modify this privacy statement at any time, so please review it frequently. If we make material changes to this policy, we will notify you here, by email, or by means of a notice on our homepage.
 
 _Updated: Oct 21, 2009_
-
-  
-
