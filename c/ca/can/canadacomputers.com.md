@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the canadacomputers.com privacy policy that was archived on 2012-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121014040327id_/http%3A//www.canadacomputers.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the canadacomputers.com privacy policy that was archived on 2013-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130617053937id_/http%3A//www.canadacomputers.com/privacy.php) for the most accurate reproduction.*
 
 # Canada Computers | Privacy Policies
 
