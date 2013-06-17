@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the basearticles.com privacy policy that was archived on 2012-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121011171826id_/http%3A//www.basearticles.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the basearticles.com privacy policy that was archived on 2013-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130617142122id_/http%3A//www.basearticles.com/privacy-policy.php) for the most accurate reproduction.*
 
 # Base Articles | Free Articles Directory, Free Reprint Articles
 
