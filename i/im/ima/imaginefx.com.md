@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the imaginefx.com privacy policy that was archived on 2012-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121222055728id_/http%3A//www.futureplc.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the imaginefx.com privacy policy that was archived on 2013-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130617232948id_/http%3A//www.futureplc.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy « Future PLC
 
