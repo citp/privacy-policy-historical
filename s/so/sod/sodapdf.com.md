@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sodapdf.com privacy policy that was archived on 2012-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121221041840id_/http%3A//sodapdf.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sodapdf.com privacy policy that was archived on 2013-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130617032800id_/http%3A//sodapdf.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Soda PDF
 
