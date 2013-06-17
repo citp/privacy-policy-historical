@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the mcdonalds.com.ph privacy policy that was archived on 2012-09-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120919203254id_/http%3A//www.mcdonalds.com.ph/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mcdonalds.com.ph privacy policy that was archived on 2013-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130617040712id_/http%3A//mcdonalds.com.ph/content/page/privacy_policy) for the most accurate reproduction.*
 
-# McDonald's Philippines - Love ko 'to
+# McDonalds : Privacy & Policy
 
 Thank you for visiting us online at www.mcdonalds.com.ph. At McDonald's, we strive to do everything we can to respect the trust customers have in our brand and our commitment to your privacy is no exception. We are committed to protecting and safeguarding consumer privacy on the Internet, especially for children.
 
@@ -52,24 +52,6 @@ Use the options in your web browser if you do not wish to receive a cookie or if
 
 We may offer links to sites that are not operated by McDonald's Corporation. If you visit one of these linked sites, you should review their privacy and other policies. We are not responsible for the policies and practices of other companies, and any information you submit to those companies is subject to their privacy policies.
 
-Other McDonald's Web Sites
+**Other McDonald's Web Sites**
 
 All McDonald's web sites operated by McDonald's Corporation will adhere to this privacy policy. The policies of some McDonald's sites may vary, however, because of local customs, practices or laws or due to circumstances unique to that site. In all cases, however, sites operated by McDonald's Corporation will honor the commitments to our customers set forth in this policy regarding the collection and use of personal information.
-
-**Franchisee Web Sites**
-
-Many McDonald's restaurants are owned and operated by franchisees, who are independent businessmen and women. Some franchisees also operate web sites. In many cases, franchisee sites follow this privacy policy. However, please review the privacy policy of each site to determine the privacy policies of that site.
-
-**Changes to our Privacy Policy**
-
-This privacy policy is effective as of 1st April, 2006. From time to time, it may be necessary for McDonald's to change this privacy policy. If we change our policy, we will post the revised version here, so we suggest that you check here periodically for the most up-to-date version of our privacy policy. Rest assured, however, that any changes will not be retroactively applied and will not alter how we handle previously collected information.
-
-Your consent effectively constitutes a waiver of any and all privacy rights pertaining to the disclosure, collection and use of the personal information and data under the specific terms and conditions of McDonald’s Internet Privacy Policy.
-
-**Consent and Waiver**
-
-By using our website, you understand that you are signifying your unequivocal consent to the disclosure, collection and use of the personal information and data described above by McDonald’s, the McDonald’s Family and other entities and third-party providers of McDonald’s engaged to facilitate the implementation and continuous development of McDonald’s food delivery service; Provided that such use shall at all times be pursuant to McDonald’s legitimate business purposes and activities as discussed in the foregoing paragraphs.
-
-**How to Contact Us**
-
-If you have any questions about our McDonald's Internet Privacy Policy, please contact us at: (63) 2 8888500, look for the Customer Care Department representative.
