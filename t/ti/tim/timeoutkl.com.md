@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the timeoutkl.com privacy policy that was archived on 2012-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121110155740id_/http%3A//www.timeoutkl.com/corporate/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the timeoutkl.com privacy policy that was archived on 2013-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130617041028id_/http%3A//www.timeoutkl.com/corporate/Privacy) for the most accurate reproduction.*
 
-# Time Out Kuala Lumpur - What's on in KL, listings, reviews, events and things to do. 100% independent, 100% KL
+# KL Attractions, Activities & What's On in KL - Time Out Kuala Lumpur
 
 Time Out Kuala Lumput ("TOKL") promises to serve its audience with integrity and honesty both in its published matter and online. The same is true now that we publish online. TOKL has developed this privacy policy to demonstrate our firm commitment to privacy and to disclose our information-gathering and -sharing practices for www.timeoutkl.com (the "site"). By visiting the site, you are accepting the practices described in this privacy policy. Our site will develop and evolve over time, and this policy may change to reflect that. 
 
