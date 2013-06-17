@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the glumbo.com privacy policy that was archived on 2012-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121102072924id_/http%3A//www.glumbo.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the glumbo.com privacy policy that was archived on 2013-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130617060117id_/http%3A//www.glumbo.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy | Glumbo
+# Privacy Policy | Glumbo - Coupons & Deals to Save You Money!
 
 **What information do we collect?**
 
