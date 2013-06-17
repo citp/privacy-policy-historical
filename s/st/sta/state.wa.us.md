@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the state.wa.us privacy policy that was archived on 2012-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120630111900id_/http%3A//access.wa.gov/siteinfo/resources/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the state.wa.us privacy policy that was archived on 2013-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130617061539id_/http%3A//access.wa.gov/siteinformation/privacynotice) for the most accurate reproduction.*
 
-# Access Washington - Privacy notice
+# Access Washington - Privacy Notice
 
 Thank you for visiting Access Washington and reviewing our Privacy Notice. This notice addresses collection, use and security of and access to information that may be obtained through use of Access Washington. This notice covers the following topics:
 
@@ -22,11 +22,11 @@ Thank you for visiting Access Washington and reviewing our Privacy Notice. This 
 
 If you do nothing during your visit to our Website but browse, read pages, or download information, we will gather and store certain information about your visit. This information does not identify you personally. We automatically collect and store the following information about your visit:
 
-  1. The Internet Protocol Address and domain name used. The Internet Protocol address is a numerical identifier assigned either to your Internet service provider or directly to your computer. We use the Internet Protocol Address to direct Internet traffic to you. This address can be translated to determine the domain name of your service provider (e.g. xcompany.com or yourschool.edu); 
-  2. The type of browser and operating system you used; 
-  3. The date and time you visited this site; 
-  4. The Webpages or services you accessed at this site; and 
-  5. The Website you visited prior to coming to this Website. 
+  1. The Internet Protocol Address and domain name used. The Internet Protocol address is a numerical identifier assigned either to your Internet service provider or directly to your computer. We use the Internet Protocol Address to direct Internet traffic to you. This address can be translated to determine the domain name of your service provider (e.g. xcompany.com or yourschool.edu);
+  2. The type of browser and operating system you used;
+  3. The date and time you visited this site;
+  4. The Webpages or services you accessed at this site; and
+  5. The Website you visited prior to coming to this Website.
 
 
 
@@ -36,21 +36,21 @@ The information we automatically collect or store is logged and used by Access W
 
 If during your visit to Access Washington you participate in a survey, send an email, or perform some other transaction online, the following additional information will be collected:
 
-  1. The email address and contents of the email; 
-  2. Information volunteered in response to a survey; and 
-  3. Information provided on any online form used to engage in the online transaction. 
+  1. The email address and contents of the email;
+  2. Information volunteered in response to a survey; and
+  3. Information provided on any online form used to engage in the online transaction.
 
 
 
 The information collected is not limited to text characters and may include audio, video, and graphic information formats you send us. The information is retained in accordance with Chapter 40.14 RCW, Preservation and Destruction of Public Records.
 
-We use your email to respond appropriately. This may be to respond to you to address issues you may identify, to further improve our Website, or to forward the email to another agency for appropriate action. Survey information is used for the purpose designated. Information provided on the online form is used to complete the online transaction and perform the service or provide the requested goods. 
+We use your email to respond appropriately. This may be to respond to you to address issues you may identify, to further improve our Website, or to forward the email to another agency for appropriate action. Survey information is used for the purpose designated. Information provided on the online form is used to complete the online transaction and perform the service or provide the requested goods.
 
 **Online Chat Privacy**
 
-Our online privacy policy is intended to let you know what additional information is collected by our Chat service and how it is used. The information is retained in accordance with [RCW Chapter 40.14](http://apps.leg.wa.gov/rcw/default.aspx?cite=40.14), Preservation and Destruction of Public Records.
+Our online privacy policy is intended to let you know what additional information is collected by our Chat service and how it is used. The information is retained in accordance with [RCW Chapter 40.14](http://apps.leg.wa.gov/rcw/default.aspx?cite=40.14)
 
-Disclosure of any information by you, whether in the text of an Access Washington chat room session, or any personal data contained in an e-mail message, including an e-mail address, is strictly voluntary. You are under no obligation whatsoever to offer any information. 
+Disclosure of any information by you, whether in the text of an Access Washington chat room session, or any personal data contained in an e-mail message, including an e-mail address, is strictly voluntary. You are under no obligation whatsoever to offer any information.
 
 We encourage participants to create a nickname just for the chat room to protect your privacy. If you prefer to use your real name to chat, you can do that, but understand that your personal privacy will not be protected as it would be with a fabricated nickname.
 
@@ -60,21 +60,13 @@ After 30 days, user names, IP address, and email addresses are automatically era
 
 The database of transcripts may be used to compile statistics about chat usage and for research to help improve online reference service. Excerpts from transcripts may be used for reports or publications. Personal information (e.g. IP address, email, names, phone numbers, etc.) that might be included in the body of a chat transcript will not be shared outside DES unless otherwise required by law.
 
-To have your chat transcript deleted from the database, please email [accesswa@dis.wa.gov](mailto:accessWa@dis.wa.gov). Please send the date and time the chat started. 
+To have your chat transcript deleted from the database, please email [AccessWA@des.wa.gov](mailto:AccessWA@des.wa.gov). Please send the date and time the chat started.
 
-**Bing Search**
+**Search**
 
-Web search results are provided by Bing.com. To view the Bing.com privacy statement please go to <http://privacy.microsoft.com/en-us/bing.mspx>.
+Web search results are provided by search.usa.gov. To view the search privacy statement please go to <http://www.usa.gov/About/Privacy-Security.shtml>.
 
-Access Washington is a service that uses the Bing API, which allows us to provide both Bing search and search results to you. Due to the specific implementation on Access Washington, the following items referenced in the Bing Privacy Statement are not applicable:
-
-  1. Bing cashback 
-  2. The Search ID cookie 
-  3. Search query sharing with third parties
-
-
-
-## **2\. Personal information and choice** ****
+## **2\. Personal information and choice**
 
 **You may choose whether to provide personal information online**
 
@@ -104,7 +96,7 @@ To the extent required to prevent an unreasonable invasion of personal privacy i
 
 Access Washington may request that you provide certain personal/private information in order to process an online transaction. You may choose not to provide this information, but if you choose not to provide it we will be unable to process the transaction online and you will need to complete the transaction either in person or by mail.
 
-The following laws may prevent Access Washington from disclosing the personal/private information about you except as necessary to process the transaction: 
+The following laws may prevent Access Washington from disclosing the personal/private information about you except as necessary to process the transaction:
 
   1. The residential address and residential telephone number of employees of a public agency which are held by the agency in personnel records, employment or volunteer rosters, or mailing lists of employees. [RCW 42.56.250(3)](http://apps.leg.wa.gov/RCW/default.aspx?cite=42.56.250)
   2. Personal information in files maintained for employees of any public agency to the extent that disclosure would violate their right to privacy. [RCW 42.56.230](http://apps.leg.wa.gov/RCW/default.aspx?cite=42.56.230)
@@ -118,13 +110,13 @@ You can review any personally identifiable information we collect about you by u
 
 ## 6\. Cookies
 
-To better serve our users we use "cookies" to customize your browsing experience with Access Washington. Cookies are simple text files stored on your computer by your web browser. 
+To better serve our users we use "cookies" to customize your browsing experience with Access Washington. Cookies are simple text files stored on your computer by your web browser.
 
 Cookies created on your computer by using this Web site do not contain personally identifying information and do not compromise your privacy or security. We use the cookie feature to help log the information described in "Information Collected and How it is used" section.
 
-Access Washington uses cookies for technical purposes such as to enable better navigation through the site, or to allow you to customize your preferences for interacting with the site. Access Washington may also make use of persistent cookies to remember you between visits so, for example, you can save your customized preference settings for future visits. Each Access Washington site using persistent cookies identifies itself as doing so. 
+Access Washington uses cookies for technical purposes such as to enable better navigation through the site, or to allow you to customize your preferences for interacting with the site. Access Washington may also make use of persistent cookies to remember you between visits so, for example, you can save your customized preference settings for future visits. Each Access Washington site using persistent cookies identifies itself as doing so.
 
-At no time is your private information, whether stored in persistent cookies or elsewhere, shared with third parties who have no right to that information. If you do not wish to have cookies stored on your machine, you can turn them off in your browser. 
+At no time is your private information, whether stored in persistent cookies or elsewhere, shared with third parties who have no right to that information. If you do not wish to have cookies stored on your machine, you can turn them off in your browser.
 
 ## 7\. Security
 
@@ -140,13 +132,13 @@ Reference in this Website to any specific commercial products, processes, or ser
 
 Access Washington reserves the right to revise and update this Privacy Notice at any time without notice by posting such revised Privacy Notice at the Access Washington home page.
 
-To review your personal information, or request correction of your personal information: 
+To review your personal information, or request correction of your personal information:
 
-_DIS Public Disclosure Officer  
+_DES Public Disclosure Officer  
 PO Box 42445  
-Olympia, WA 98504-2445   
-Phone: (360) 902-3551  
-__Fax: (360) 586-5885  
-Email: _[_Public Disclosure Office_](mailto:Harold.Goldes@des.wa.gov)
+Olympia, WA 98504-2445  
+Phone: (360) 902-3551   
+Fax: (360) 586-5885   
+Email: [Public Disclosure Office](mailto:Harold.Goldes@des.wa.gov)_
 
 _Last Modified: October 2011_
