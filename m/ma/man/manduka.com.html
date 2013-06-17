@@ -1,294 +1,1409 @@
-<!--The following is the downloaded HTML source of the manduka.com privacy policy that was archived on 2012-05-29.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120529174501id_/http%3A//www.manduka.com/us/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the manduka.com privacy policy that was archived on 2013-06-17.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130617053401id_/http%3A//www.manduka.com/us/customer-service/privacy-policy) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><!--<![endif]--><head>
-    <title>Manduka™ High Performance Yoga Mats and Yoga Accessories | Privacy Policy</title>
+<!DOCTYPE html><html class=" js flexbox canvas canvastext webgl no-touch geolocation postmessage websqldatabase no-indexeddb hashchange history draganddrop websockets rgba hsla multiplebgs backgroundsize borderimage borderradius boxshadow textshadow opacity cssanimations csscolumns cssgradients cssreflections csstransforms csstransforms3d csstransitions fontface video audio localstorage sessionstorage webworkers applicationcache svg inlinesvg smil svgclippaths" lang="en"><!--<![endif]--><head>
+<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script id="facebook-jssdk" async="" src="//connect.facebook.net/en_US/all.js#xfbml=1"></script><script type="text/javascript" async="" src="https://insight.torbit.com/v1/insight.min.js"></script><script type="text/javascript">var TBRUM=TBRUM||{};TBRUM.q=TBRUM.q||[];TBRUM.q.push(['mark','firstbyte',(new Date).getTime()]);(function(){var a=document.createElement('script');a.type='text/javascript';a.async=true;a.src=document.location.protocol+'//insight.torbit.com/v1/insight.min.js';var b=document.getElementsByTagName('script')[0];b.parentNode.insertBefore(a,b)})();</script>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+
+    <title>Manduka | Privacy Policy</title>
+
+    
+    <meta name="description" content="">
+    <meta name="keywords" content="">
+    
+
     <meta http-equiv="Content-Type" content="text/html;charset=utf-8">
     <meta name="ROBOTS" content="FOLLOW, INDEX">
 
-    <meta name="description" content="Manduka high-performance yoga mats and yoga gear: chosen first by yoga teachers worldwide. Find the world's best yoga mat's and eco-friendly yoga products.">
-    <meta name="keywords" content="manduka, manduka yoga mats, yoga mats, yoga mat, travel yoga mat, sticky yoga mat, yoga gear, yoga props, yoga towels, yoga bags, black mat pro, best yoga mats, yoga products, yoga gear">
-    <link rel="shortcut icon" href="https://manduka-static.s3.amazonaws.com/images/common/favicon.ico" type="image/x-icon">
+    <meta name="viewport" content="width=device-width, initial-scale=0.5">
 
-    <script type="text/javascript" src="https://manduka-static.s3.amazonaws.com/js/swfobject.js"></script>
-    <script type="text/javascript" src="https://manduka-static.s3.amazonaws.com/js/jquery.js"></script>
-    <script type="text/javascript" src="https://manduka-static.s3.amazonaws.com/js/jquery.form.js"></script>
-    <script type="text/javascript" src="https://manduka-static.s3.amazonaws.com/js/jquery.cookie.js"></script>
-    <script type="text/javascript" src="https://manduka-static.s3.amazonaws.com/js/fn.backgroundPosition.js"></script>
-    <script type="text/javascript" src="https://manduka-static.s3.amazonaws.com/js/webcube.js"></script>
-    <script type="text/javascript" src="https://manduka-static.s3.amazonaws.com/js/manduka.js"></script>
-    <script type="text/javascript" src="https://manduka-static.s3.amazonaws.com/meta_catalog/js/cart_summary.js"></script>
-    <script src="https://manduka-static.s3.amazonaws.com/js/jquery.fancybox.js" type="text/javascript"></script>
-
-    <link rel="stylesheet" href="https://manduka-static.s3.amazonaws.com/css/manduka.css" type="text/css" media="screen">
-    <link rel="stylesheet" href="https://manduka-static.s3.amazonaws.com/meta_catalog/css/cart_summary.css" type="text/css" media="screen">
-    <!--[if lte IE 7]><link rel="stylesheet" href="https://manduka-static.s3.amazonaws.com/css/manduka.ie.css" type="text/css" media="screen" /><![endif]-->
-    <link type="text/css" rel="stylesheet" href="https://manduka-static.s3.amazonaws.com/css/jquery.fancybox.css">
-
-	<link rel="image_src" href="https://manduka-static.s3.amazonaws.com/images/common/manduka-logo.gif">
-
+    <script src="/static/webcubecore/js/modernizr.min.js"></script>
+    <link rel="stylesheet" href="/static/webcubecore/css/webcube.css" media="screen">
+    
+    
     <script type="text/javascript">
-//<![CDATA[
-   $(document).ready(function() {
-        // Load the carts item count
-        if ($('#item_count').text() == "") {
-            $('#item_count').load('/us/cart/ajax/cart-item-count/');
-        }
-
-        // Holiday popup for organic traffic
-        if(!$.cookie('organic-popup')){
-            $.getJSON('/us/organic-traffic/', function(data){
-                if(data.source){
-                    // INSERT CODE HERE FOR POPUP
-                    var bannerStrip = $('#email_banner_strip'),
-                        bannerBox = $('.email_banner'),
-                        pageWrap = $('#container');
-
-                    bannerBox.slideDown(400);
-                    pageWrap.animate({'marginTop':'-58px'}, 250);
-                    bannerStrip.slideDown(400);
-
-                    $('span.close_btn').click(function() {
-                        bannerBox.slideUp(300);
-                        pageWrap.animate({'marginTop':'0'}, 450);
-                        bannerStrip.slideUp(300);
-                    });
-
-                	$('#email_signup').submit(function() {
-                		$.post('/us/organic-traffic/email/', {
-                            'email': $('#email_signup_input').val()
-                        }, function(data){
-                            if(data.success){
-                                $('.thankyou').fadeIn(400);
-                            } else {
-                                if(data.message){
-                                    alert(data.message);
-                                } else {
-                                    alert('Sorry, an error occurred. Please check your email address and try again.');
-                                }
-                            }
-                        });
-                		return false;
-                	});
-                }
-            });
-            $.cookie('organic-popup', '1', {expires: 7})
-        }
-   });
-//]]>
+        var _gaq = _gaq || [];
+        _gaq.push(['_setAccount', 'UA-1242647-1']);
+        _gaq.push(['_trackPageview']);
     </script>
     
     
     
+ <link href="/static/css/manduka.css" media="screen" rel="stylesheet" type="text/css">
+ <link href="/static/infopages/css/infopages.css" media="screen" rel="stylesheet" type="text/css">
 
-</head>
-<body class="">
+
     
-    <div id="email_banner_strip"></div>
-    <div id="wrap">
-        
+    <!--[if !IE 7]>
+        <style type="text/css">
+            #wrap {display:table;height:100%}
+        </style>
+    <![endif]-->
+    <link rel="shortcut icon" href="/static/manduka42/favicon.ico">
+    <link rel="apple-touch-icon" href="/static/manduka42/apple-touch-icon.png">
+    <link rel="stylesheet" href="/static/manduka42/css/manduka42.css" media="screen">
+    <!--[if !(IE)|(gte IE 8)]><!-->
+    <script type="text/javascript" src="//use.typekit.com/jav5ffj.js"></script>
+    <script type="text/javascript">try{Typekit.load();}catch(e){}</script>
+    <!--<![endif]-->
 
-        <div id="header_bg"></div>
-        <div id="container">
+    <style type="text/css"></style>
 
-            <div class="email_banner">
+    <link rel="stylesheet" href="/static/default/css/print.css" media="print">
+    <meta name="google-site-verification" content="sl6RLPBAC0foiKj2y8Cjz64d0f4u-J0C9GNPdaFU-5A">
 
-                <form id="email_signup" class="middle clearfix" action="/us/organic-traffic/email/" method="post"><div style="display:none"><input type="hidden" name="csrfmiddlewaretoken" value="224d553f8857e5753f1a0d0653797b94"></div>
+<script async="true" type="text/javascript" src="https://s.adroll.com/j/roundtrip.js"></script></head>
+
+<body id="default" class="infopages customer-service privacy-policy">
+
+
+    <div id="fb-root"></div>
+    <script>(function(d, s, id) {
+      var js, fjs = d.getElementsByTagName(s)[0];
+      if (d.getElementById(id)) {return;}
+      js = d.createElement(s); js.id = id; js.async = true;
+      js.src = "//connect.facebook.net/en_US/all.js#xfbml=1";
+      fjs.parentNode.insertBefore(js, fjs);
+    }(document, 'script', 'facebook-jssdk'));</script>
+    
+    <div id="email_banner_strip" style="display: block;"></div>
+    <div class="email_banner" style="display: block;">
+                <form id="email_signup" class="middle clearfix" action="/us/organic-traffic/email/" method="post"><div style="display:none"><input type="hidden" name="csrfmiddlewaretoken" value="197700ea657e9b25aeed2b4be98cc1e9"></div>
                     <input id="email_signup_input" type="email" name="email" maxlength="128" placeholder="your e-mail">
                     <input id="email_signup_submit" type="submit" class="submit" value="">
                 </form>
-
                 <div class="thankyou"></div>
-
                 <div class="close"><span class="close_btn"></span></div>
             </div> <!--! end of #email_banner -->
+              
 
-            <div id="header">
+    <div id="wrap" style="margin-top: -18px;">
+        <div id="wrap_main" class="">
 
-                <h1 id="manduka_logo"><a href="/us/"><span>Manduka</span></a></h1>
-                <ul id="main_nav">
-                    <li id="shop">
-                        <div id="shop_dd_bg"></div>
-                        <a href="/us/shop/"><span>Shop</span></a>
-                        <ul id="drop_down">
-                                    <li><a href="/us/yoga-gift-guide/">Yoga Gift Guide</a></li>
-
-    
-        <li><a href="/us/shop/">All Gear</a></li>
-    
-
-    
-        <li><a href="/us/shop/categories/products/mats/">Mats</a></li>
+            <section id="global">
+                <div class="position">
+                    <div class="container">
+                        <header>
+                            <h1 id="logo"><a href="/us/" alt="Manduka US Site">Manduka US Site</a></h1>
+                        </header>
+                        <nav>
+                            
     
 
+<ul id="main_menu">
     
-        <li><a href="/us/shop/categories/products/towels/">Towels</a></li>
+        
+<li id="mbi_main_menu_mm_shop" class=" main_dropdown main_shop_arrow shop right">
+    <a href="/us/shop/?dd">
+        <span class="text">shop</span>
+    <span class="icon_dd"></span><span class="icon_arrow"></span></a>
     
-
-    
-        <li><a href="/us/shop/categories/products/bags/">Bags</a></li>
-    
-
-    
-        <li><a href="/us/shop/categories/products/props/">Props</a></li>
-    
-
-    
-        <li><a href="/us/shop/categories/products/bolsters/">Bolsters</a></li>
-    
-
-    
-        <li><a href="/us/shop/categories/products/mat-wash/">Mat Wash</a></li>
-    
-
-    
-        <li><a href="/us/shop/categories/products/accessories/">Accessories</a></li>
-    
-
-    
-        <li><a href="/us/shop/categories/products/media/">Media</a></li>
-    
-
-    
-        <li><a href="/us/shop/categories/products/tees-tanks/">Tees + Tanks</a></li>
-    
-
-        <li><a href="/us/lyrics/">Lyrics Collection</a></li>
-        <li><a href="/us/shop/categories/categories/kits-gifts/">Kits + Gifts</a></li>
-        <!--<li><a href="/us/john-friend/">John Friend Collection</a></li>-->
-                        </ul>
-                    </li>
-                    <li id="community"><a href="/us/community/"><span>Community</span></a></li>
-                    <li id="mission"><a href="/us/mission/"><span>Mission</span></a></li>
-                    <li id="innovation"><a href="/us/innovation/"><span>Innovation</span></a></li>
-                    <li id="blog"><a href="/us/blog/"><span>Blog</span></a></li>
-                </ul>
-
-                <ul id="header_locator_service">
-                    <li id="location_usa" class="active"><a href="/us/"><span>USA</span></a></li>
-                    <li id="location_europe">
-                        <a href="/eu/"><span>Europe</span></a>
-                    </li>
-                    <li id="store_locator"><a href="/us/locator/"><span>Store Locator</span></a></li>
-                    <li id="customer_service"><a href="/us/customer-service/"><span>Customer Service</span></a></li>
-
-					<li id="phone_number"><span>1-877-MANDUKA (626-3852)</span></li>
-
-                </ul>
-                <div id="header_search_cart">
-                    <form action="/us/search/" method="get" accept-charset="utf-8" id="product_search">
-                        <input type="text" name="q" value="search" id="product_search_input" class="labeled_field">
-                        <input type="image" value="Search" src="https://manduka-static.s3.amazonaws.com/images/common/search-arrow.gif" id="product_search_submit">
-                    </form>
-                    <div id="cart_link" class="shopping_cart_info">
-                        <p>shopping cart:</p>
-                        <p><a href="/us/cart/basket/" class="cart_icon">Cart</a></p>
-                        <p><span id="cart_count"><a href="/us/cart/basket/"><span id="item_count"><!--#include virtual="/us/cart/ajax/cart-item-count/"--></span> items</a></span></p>
-                        <div class="cart_extra_active"></div>
-                    </div>
-                </div>
-
-					
-					<!-- US -->
-					<div id="header_free_shipping">
-					    <div id="free_shipping_arrow"></div>
-					    <h3><a href="/us/terms-and-conditions/">Free Shipping on All Orders</a></h3>
-					</div>
-					
-
-            </div> <!-- /header -->
-
-            <div id="content" class="main">
+        
+            
+            <div id="mbdd_main_menu_mm_shop" class="main_dropdown_cont">
+                <div class="main_dropdown_content">
                 
-<div id="accent_header">
-    <p class="shop_online_accent"><a href="/us/shop/">Shop Online →</a></p>
+                
+
+<div class="cta exclude shop_dd_cta" id="cta_key_dd_shop" data-width="213" data-height="172" data-title="Learn More" data-delay="5.00" style="width: 213px; height: 222px;">
+    
+    <div class="cta_item" style="z-index: 1" data-order="" data-image="https://manduka-resources.s3.amazonaws.com/ctas/248x212-2013-Summer-eQual-Towel-Promo.jpg" data-link="/us/no-sweat/?dd-shop" data-alt_text="Learn More">
+
+        
+            <a href="/us/no-sweat/?dd-shop">
+            <img alt="Learn More" src="https://manduka-resources.s3.amazonaws.com/ctas/248x212-2013-Summer-eQual-Towel-Promo.jpg">
+            <span class="title">Learn More</span></a>
+        
+
+        
+    </div>
+    
 </div>
-<div class="flatpage_content">
-    <div class="content">
-        <div id="narrow_column_left"></div>
-        <div class="privacy_policy">
-        <h1 class="title">Privacy Policy</h1>
-    <p>This privacy statement provides notice of our information collection practices and of the ways in which your information may be used. This policy may change from time to time, so please check back periodically to review this information.</p>
-<h2>Personally-Identifiable Information</h2>
-<p>Manduka, LLC typically receives specific data about its website visitors only when such information is provided voluntarily, such as when our visitors request information, purchase or enroll for services, provide resume information for employment opportunities, or send us e-mail. Of course, some of these activities require that you give us information, such as when you make a purchase, use a credit card to pay for services, submit your resume, or request certain types of information. When you provide personally-identifiable information to Manduka, LLC through one of our websites, it will be used to fulfill your specific request. In most cases, you will be given the opportunity to select whether you do, or do not, want Manduka, LLC to use this information for additional purposes. You may also request that Manduka, LLC not use your information by sending an e-mail to idealer[at]gmail.com, however, Manduka, LLC reserves the right, in its discretion, to send you bulletins and other important information about your Manduka, LLC services. Absent any instructions from you, Manduka, LLC may use information you provide to inform you about additional services and products offered by the Manduka, LLC family, authorized agents, and other goods and services providers with whom Manduka, LLC has relationships and whose offerings might be of interest to you. Manduka, LLC will not, however, sell or trade your personally-identifiable information unless we are authorized or legally required to do so, or in the case of imminent physical harm to the visitor or others. On those Manduka, LLC sites where you may provide Manduka, LLC with credit card or other ordering information via the web, Manduka, LLC protects and secures this information by employing commercially customary web-based security and encryption protocols, examples of which include Secure Socket Layer (SSL) and Secure Electronic Transaction (SET). On those sites where you voluntarily offer any feedback, data, answers, questions, comments, suggestions, ideas or the like, Manduka, LLC will treat that portion of the information as non-confidential and non-proprietary and, except as otherwise expressed in this privacy statement, Manduka, LLC assumes no obligation to protect such information from disclosure.</p>
-<h2>Non Personally-Identifiable (Generic) Information</h2>
-<p>In general, Manduka, LLC gathers some generic information automatically. Generic information does NOT reveal the identity of the visitor. It usually includes information about the Internet address assigned to your computer, the number and frequency of visitors, and the Manduka, LLC sites visited. Manduka, LLC gathers this information for the limited purpose of determining customer service and website needs. We accomplish this by using certain technologies, including “cookies” (a technology that can be used to provide the visitor with tailored information about Manduka, LLC services). Manduka, LLC does not combine information collected in this way with any personally-identifiable information. You can set your browser to notify you when you receive a cookie and you can refuse it.</p>
-<h2>Bulletin Boards and Third-Party Sites</h2>
-<p>Information that you disclose in a public space, including on any bulletin board or website Manduka, LLC may host is available to anyone else who visits that space. Manduka, LLC cannot safeguard any information you disclose in these locations. Additionally, Manduka, LLC websites contain links to sites that belong to third parties unrelated to Manduka, LLC. Manduka, LLC cannot protect any information you may disclose in these sites and recommends that you review the privacy policy statements of those sites you visit.</p>
-<h2>Exceptions and Limitations</h2>
-<p>Notwithstanding the foregoing and in compliance with applicable laws, Manduka, LLC:</p>
-<ol>
-<li>cooperates fully with state, local, and federal officials in any investigation relating to any content (including personal or private electronic communications transmitted to Manduka, LLC) or purported unlawful activities of any user of the Service, and</li>
-<li>takes reasonable measures to protect its proprietary rights. For the limited purposes of accomplishing such cooperation and measures and in compliance with applicable laws, Manduka, LLC may be required to disclose personally identifiable information.</li>
-</ol>
-<p>In addition, Manduka, LLC may elect to monitor the areas of communication of any kind:</p>
-<ol>
-<li>to satisfy any law, regulation, or government request;</li>
-<li>if such disclosure is necessary or appropriate to operate Manduka, LLC; or</li>
-<li>to protect the rights or property of Manduka, LLC or others.</li>
-</ol>
-<p>In connection with the potential sale or transfer of any of its interest in www.manduka.com, and other sites owned by the company, Manduka, LLC reserves the right to sell or transfer your information (including , but not limited to name, address information, and other information you provided to Manduka, LLC) to a third party that:</p>
-<ol>
-<li>concentrates its business in communication products or services;</li>
-<li>agrees to be Manduka, LLC’s successor in interest with regard to the maintenance and protection of information collected and maintained by Manduka, LLC; and</li>
-<li>agrees to the obligations of this policy statement</li>
-</ol>
-        </div>
+
+
+                
+                    
+                    
+                
+            
+                <ul id="mbg_main_menu_mm_shop">
+                    <li id="mbi_main_menu_mm_shop_title" class="main_dropdown_title"><span class="text">shop</span></li>
+                    
+                        
+<li id="mbi_main_menu_mats" class=" ">
+    <a href="/us/shop/categories/products/mats/?dd">
+        <span class="text">Mats</span>
+    </a>
+    
+        
+    
+</li>
+
+                    
+                        
+<li id="mbi_main_menu_bags" class=" ">
+    <a href="/us/shop/categories/products/bags/?dd">
+        <span class="text">Bags</span>
+    </a>
+    
+        
+    
+</li>
+
+                    
+                        
+<li id="mbi_main_menu_towels" class=" ">
+    <a href="/us/shop/categories/products/towels/?dd">
+        <span class="text">Towels</span>
+    </a>
+    
+        
+    
+</li>
+
+                    
+                        
+<li id="mbi_main_menu_props-accessories" class=" ">
+    <a href="/us/shop/categories/products/props-accessories/?dd">
+        <span class="text">Props + Accessories</span>
+    </a>
+    
+        
+    
+</li>
+
+                    
+                        
+<li id="mbi_main_menu_mat-wash" class=" ">
+    <a href="/us/shop/categories/products/props-accessories/mat-wash/?dd">
+        <span class="text">Mat Wash</span>
+    </a>
+    
+        
+    
+</li>
+
+                    
+                        
+<li id="mbi_main_menu_tees-tanks" class=" ">
+    <a href="/us/shop/categories/products/tees-tanks/?dd">
+        <span class="text">Tees + Tanks</span>
+    </a>
+    
+        
+    
+</li>
+
+                    
+                        
+<li id="mbi_main_menu_media" class=" ">
+    <a href="/us/shop/categories/products/media/?dd">
+        <span class="text">Media</span>
+    </a>
+    
+        
+    
+</li>
+
+                    
+                        
+<li id="mbi_main_menu_new-arrivals" class=" ">
+    <a href="/us/shop/categories/categories/new-arrivals/?dd">
+        <span class="text">New Arrivals</span>
+    </a>
+    
+        
+    
+</li>
+
+                    
+                        
+<li id="mbi_main_menu_gift-guide" class=" ">
+    <a href="/us/yoga-gift-guide/?dd">
+        <span class="text">Gift Guide</span>
+    </a>
+    
+        
+    
+</li>
+
+                    
+                        
+<li id="mbi_main_menu_sale" class=" ">
+    <a href="/us/shop/categories/categories/sale/?dd">
+        <span class="text">On Sale !</span>
+    </a>
+    
+        
+    
+</li>
+
+                    
+                </ul>
+                
+
+<div class="cta dd_footer" id="cta_key_dd_shop_footer" data-width="450" data-height="40" data-link="/shop/categories/collections/journey-collection/?shopfooter" data-delay="5.00" style="width: 450px; height: 40px;">
+    
+    <div class="cta_item" style="z-index: 1" data-order="" data-image="https://manduka-resources.s3.amazonaws.com/ctas/dd_shop_footer.jpg" data-link="/shop/categories/collections/journey-collection/?shopfooter">
+
+        
+            <a href="/shop/categories/collections/journey-collection/?shopfooter">
+            <img alt="dd_shop_footer" src="https://manduka-resources.s3.amazonaws.com/ctas/dd_shop_footer.jpg">
+            </a>
+        
+
+        
+    </div>
+    
+</div>
+
+
+                
+                    
+                    
+                
+            
+                </div>
+            </div>
+            
+        
+    
+</li>
+
+    
+        
+<li id="mbi_main_menu_new-arrivals" class=" main_dropdown">
+    <a href="/us/shop/categories/categories/new-arrivals/?dd">
+        <span class="text">new arrivals</span>
+    <span class="icon_dd"></span></a>
+    
+        
+            
+            <div id="mbdd_main_menu_new-arrivals" class="main_dropdown_cont">
+                <div class="main_dropdown_content">
+                
+                
+                
+                    
+
+<div class="cta" id="cta_key_dd_new_arrivals" data-width="172" data-height="165" data-title="Summer Collection 2013" data-link="/us/shop/categories/categories/new-arrivals/?NA" data-delay="5.00" style="width: 172px; height: 165px;">
+    
+    <div class="cta_item" style="z-index: 1" data-order="" data-image="https://manduka-resources.s3.amazonaws.com/ctas/NewArrivalsNav-Summer3.jpg" data-link="/us/shop/categories/categories/new-arrivals/?NA" data-alt_text="Summer Collection 2013">
+
+        
+            <a href="/us/shop/categories/categories/new-arrivals/?NA">
+            <img alt="Summer Collection 2013" src="https://manduka-resources.s3.amazonaws.com/ctas/NewArrivalsNav-Summer3.jpg">
+            </a>
+        
+
+        
+    </div>
+    
+</div>
+
+
+                    
+                
+            
+                <ul id="mbg_main_menu_new-arrivals">
+                    <li id="mbi_main_menu_new-arrivals_title" class="main_dropdown_title"><span class="text">new arrivals</span></li>
+                    
+                        
+<li id="mbi_main_menu_limited-edition-manduka-pro-black-mod" class=" ">
+    <a href="/us/shop/categories/products/mats/limited-edition-manduka-pro-black-mod/?NA">
+        <span class="text">Limited Edition Manduka PRO - Black Mod</span>
+    </a>
+    
+        
+    
+</li>
+
+                    
+                        
+<li id="mbi_main_menu_manduka-pro-black-bliss" class=" ">
+    <a href="/us/shop/categories/products/mats/manduka-pro-black-bliss/?NA">
+        <span class="text">Manduka PRO - Black Bliss</span>
+    </a>
+    
+        
+    
+</li>
+
+                    
+                        
+<li id="mbi_main_menu_commuter-htr" class=" ">
+    <a href="/us/shop/categories/collections/journey-collection/commuter/?NA">
+        <span class="text">The Commuter</span>
+    </a>
+    
+        
+    
+</li>
+
+                    
+                        
+<li id="mbi_main_menu_go-getter-htr" class=" ">
+    <a href="/us/shop/categories/collections/journey-collection/go-getter/?NA">
+        <span class="text">The Go-Getter</span>
+    </a>
+    
+        
+    
+</li>
+
+                    
+                        
+<li id="mbi_main_menu_recycled-foam-block" class=" ">
+    <a href="/us/shop/categories/products/props-accessories/blocks/recycled-foam-block/?NA">
+        <span class="text">Recycled Foam Block</span>
+    </a>
+    
+        
+    
+</li>
+
+                    
+                </ul>
+                
+                
+                    
+
+<div class="cta dd_footer" id="cta_key_dd_new_arrivals_footer" data-width="450" data-height="40" data-link="/shop/categories/categories/new-arrivals/" data-delay="5.00" style="width: 450px; height: 40px;">
+    
+    <div class="cta_item" style="z-index: 1" data-order="" data-image="https://manduka-resources.s3.amazonaws.com/ctas/dd_footer_01.gif" data-link="/shop/categories/categories/new-arrivals/">
+
+        
+            <a href="/shop/categories/categories/new-arrivals/">
+            <img alt="dd_new_arrivals_footer" src="https://manduka-resources.s3.amazonaws.com/ctas/dd_footer_01.gif">
+            </a>
+        
+
+        
+    </div>
+    
+</div>
+
+
+                    
+                
+            
+                </div>
+            </div>
+            
+        
+    
+</li>
+
+    
+        
+<li id="mbi_main_menu_mm_community" class=" main_dropdown">
+    <a href="/us/community/?dd" target="_self">
+        <span class="text">community</span>
+    <span class="icon_dd"></span></a>
+    
+        
+            
+            <div id="mbdd_main_menu_mm_community" class="main_dropdown_cont">
+                <div class="main_dropdown_content">
+                
+                
+                
+                    
+                    
+
+<div class="cta" id="cta_key_dd_community" data-width="172" data-height="165" data-title="Join the Manduka Community" data-link="/community/?dd-community" data-delay="5.00" style="width: 172px; height: 165px;">
+    
+    <div class="cta_item" style="z-index: 1" data-order="" data-image="https://manduka-resources.s3.amazonaws.com/ctas/172x165-2013-Community-Dropdown_v1.0.jpg" data-link="/community/?dd-community" data-alt_text="Join the Manduka Community">
+
+        
+            <a href="/community/?dd-community">
+            <img alt="Join the Manduka Community" src="https://manduka-resources.s3.amazonaws.com/ctas/172x165-2013-Community-Dropdown_v1.0.jpg">
+            </a>
+        
+
+        
+    </div>
+    
+</div>
+
+
+                
+            
+                <ul id="mbg_main_menu_mm_community">
+                    <li id="mbi_main_menu_mm_community_title" class="main_dropdown_title"><span class="text">community</span></li>
+                    
+                        
+<li id="mbi_main_menu_you-series" class=" ">
+    <a href="/us/you/">
+        <span class="text">The You Series</span>
+    </a>
+    
+        
+    
+</li>
+
+                    
+                        
+<li id="mbi_main_menu_ambassador-program" class=" ">
+    <a href="/us/community/ambassadors/?dd">
+        <span class="text">Ambassador Program</span>
+    </a>
+    
+        
+    
+</li>
+
+                    
+                        
+<li id="mbi_main_menu_giving-back" class=" ">
+    <a href="/us/community/giving-back/?dd">
+        <span class="text">Giving Back</span>
+    </a>
+    
+        
+    
+</li>
+
+                    
+                        
+<li id="mbi_main_menu_affiliate-program" class=" ">
+    <a href="/us/forms/become-an-affiliate/?dd">
+        <span class="text">Affiliate Program</span>
+    </a>
+    
+        
+    
+</li>
+
+                    
+                        
+<li id="mbi_main_menu_community-updates" class=" ">
+    <a href="/us/community/updates/?dd">
+        <span class="text">Community Updates</span>
+    </a>
+    
+        
+    
+</li>
+
+                    
+                </ul>
+                
+                
+                    
+                    
+
+<div class="cta dd_footer" id="cta_key_dd_community_footer" data-width="450" data-height="40" data-link="/community/" data-delay="5.00" style="width: 450px; height: 40px;">
+    
+    <div class="cta_item" style="z-index: 1" data-order="" data-image="https://manduka-resources.s3.amazonaws.com/ctas/dd_footer_02.gif" data-link="/community/">
+
+        
+            <a href="/community/">
+            <img alt="dd_community_footer" src="https://manduka-resources.s3.amazonaws.com/ctas/dd_footer_02.gif">
+            </a>
+        
+
+        
+    </div>
+    
+</div>
+
+
+                
+            
+                </div>
+            </div>
+            
+        
+    
+</li>
+
+    
+        
+<li id="mbi_main_menu_mission" class=" ">
+    <a href="/us/mission/?dd">
+        <span class="text">mission</span>
+    </a>
+    
+        
+    
+</li>
+
+    
+        
+<li id="mbi_main_menu_innovation" class=" ">
+    <a href="/us/innovation/?dd">
+        <span class="text">innovation</span>
+    </a>
+    
+        
+    
+</li>
+
+    
+        
+<li id="mbi_main_menu_blog" class=" ">
+    <a href="/us/blog/?dd">
+        <span class="text">blog</span>
+    </a>
+    
+        
+    
+</li>
+
+    
+</ul>
+
+
+                        </nav>
+                        <div id="secondary_nav">
+                            
+<ul id="header_secondary">
+    <li id="secondary_location" class="">
+        <a href="javascript:void(0);"><span>USA</span></a>
+        
+        <ul id="secondary_dd_location">
+            <li id="location_usa" class="active"><a href="/us/"><span class="icon"></span><span>USA</span></a></li>
+            <li id="location_europe"><a href="/eu/"><span class="icon"></span><span>Europe</span></a></li>
+        </ul>
+    </li>
+    <li id="store_locator"><a href="/us/locator/"><span>Store Locator</span></a></li>
+    
+    <li id="wholesale"><a href="/us/forms/wholesale/?TN"><span>Wholesale</span></a></li>
+    <li id="my_account"><a href="/us/accounts/"><span>My Account</span></a>
+        <ul id="secondary_dd_account">
+            
+            <li id="account_guest" data-url="/us/accounts/">You are not logged in! <a class="url" href="/us/accounts/">Login</a></li>
+            <li id="account_signup" data-url="/us/accounts/register/">Don't have an account? <a class="url" href="/us/accounts/register/">Sign Up</a></li>
+            
+        </ul>
+    </li>
+    <li id="phone_number">
+        <a href="/us/customer-service/" data-number="18776263852"><span>1-877-MANDUKA (626-3852)</span></a>
+    </li>
+</ul>
+
+<div id="header_search_cart">
+    <form action="/us/search/" method="get" accept-charset="utf-8" id="product_search">
+        <input type="text" name="q" id="product_search_input" class="labeled_field" placeholder="Search">
+        <input type="submit" value="Search" id="product_search_submit">
+    </form>
+    <div id="cart_link" class="shopping_cart_info">
+        <p>shopping cart:</p>
+        <p><a href="/us/cart/basket/" class="cart_icon">Cart</a></p>
+        <p><span id="cart_count"><a href="/us/cart/basket/"><span id="count">0</span> items</a></span></p>
+        <div class="cart_extra_active"></div>
     </div>
 </div>
 
-            </div>
+<div id="header_extra_cta">
+    
 
-            <div id="footer">
-                <div id="footer_csb">
+<div class="cta" id="cta_key_header_extra_cta" data-width="421" data-height="109" data-title="Free Shipping on orders $125+" data-link="/us/terms-and-conditions-shipping/" data-delay="5.00" style="width: 421px; height: 109px;">
+    
+    <div class="cta_item" style="z-index: 1" data-order="" data-image="https://manduka-resources.s3.amazonaws.com/ctas/Free_Shipping_125.png" data-link="/us/terms-and-conditions-shipping/" data-alt_text="Free Shipping on orders $125+">
 
-                    <div id="footer_join_community">
-                        <h3><a href="/us/community/">Join the community to get freebies, first looks, and insider deals on your favorite gear.</a></h3>
-                    </div>
-                    <div id="footer_signup">
-                        <form action="/us/newsletter/" method="post" accept-charset="utf-8" id="form_signup">
-                            <input type="text" name="email" value="your email" id="signup_input" class="labeled_field">
-                            <input type="image" value="Search" src="https://manduka-static.s3.amazonaws.com/images/common/search-arrow.gif" id="product_search_submit">
-                        </form>
-                    </div>
-                    <div id="footer_upward_frog">
-                        <h3><a href="/us/blog/">For more updates from the Manduka community, read our blog</a></h3>
-                    </div>
-                    <div id="footer_manduka_dot_com"><a href="/us/"><span>manduka.com</span></a></div>
+        
+            <a href="/us/terms-and-conditions-shipping/">
+            <img alt="Free Shipping on orders $125+" src="https://manduka-resources.s3.amazonaws.com/ctas/Free_Shipping_125.png">
+            </a>
+        
 
+        
+    </div>
+    
+</div>
+
+
+</div>
+
+<div id="header_extra_text">
+    
+<!-- keytext #keytext_header_extra_text -->
+
+
+</div>
+                        </div>
+                    </div>
                 </div>
-                <p class="footer_legal">Manduka © 2012 | <a href="/us/privacy-policy/">Privacy Policy</a></p>
-                <ul id="footer_nav">
-                    <li id="wholesale"><a href="/us/forms/wholesale/"><span>wholesale</span></a></li>
-                    <li id="downloads"><a href="/us/downloads/"><span>downloads</span></a></li>
-                    <li id="giving_back"><a href="/us/community/giving-back/"><span>giving back</span></a></li>
-                    <li id="careers"><a href="/us/careers/"><span>careers</span></a></li>
-                    <li id="press"><a href="/us/press/"><span>press</span></a></li>
-                    <li id="art_room"><a href="/us/artroom/"><span>art room</span></a></li>
-                    <li id="order_status"><a href="/us/order-status/lost-link/"><span>order status</span></a></li>
-                    <li id="contact_us"><a href="/us/forms/contact/"><span>contact us</span></a></li>
-                </ul>
-            </div><!-- /footer -->
-        </div><!-- /container -->
-    </div><!-- /wrap -->
+
+            </section>
+
+            <section id="content_wrap" role="main" class="">
+
+                <div class="bg_position" style="width: 960px;"></div>
+                
+                
+                <div class="position">
+                    <div id="content_container" class="container">
+                        
+                        <div id="content" class="">
+                            
+                            
+    <div id="accent_header"><p class="shop_online_accent"><a href="/us/shop/">Shop Online →</a></p></div>
+<div id="infopage_wrap">
+    <div id="narrow_column_left">
+        
+            
+
+
+
+<div id="infopage_content">
+<h3><a href="/us/customer-service/">Customer Service</a></h3>
+<ul class="nl_side_ul">
+
     
 
 
-<script type="text/javascript">
-var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
-document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
-</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
-<script type="text/javascript">
+<li>
+    
+    <a href="/us/customer-service/returns-exchanges/">Returns &amp; Exchanges</a>
+    
+    
+</li>
+       
 
-	var pageTracker = _gat._getTracker("UA-1242647-1");
+    
 
-pageTracker._setLocalRemoteServerMode();
-pageTracker._initData();
-pageTracker._trackPageview();
+
+<li>
+    
+    <a href="/us/faq/">FAQ's</a>
+    
+    
+</li>
+       
+
+    
+
+
+<li>
+    
+    <a href="/us/customer-service/order-information/">Order Information</a>
+    
+    
+</li>
+       
+
+    
+
+
+<li>
+    
+    <a href="/us/customer-service/feedback/">Customer Feedback</a>
+    
+    
+</li>
+       
+
+    
+
+
+<li>
+    
+    <a href="/us/forms/contact/">Contact Us</a>
+    
+    
+</li>
+       
+
+    
+
+
+<li>
+    
+    <a href="/us/customer-service/find-your-soul-mat/">Find Your Soul Mat</a>
+    
+    
+</li>
+       
+
+    
+
+
+<li>
+    
+    <a href="/us/customer-service/lifetime-guarantee/">Lifetime Guarantee</a>
+    
+    
+</li>
+       
+
+    
+
+
+<li>
+    
+    <a href="/us/customer-service/shipping-and-delivery/">Shipping and Delivery</a>
+    
+    
+</li>
+       
+
+    
+
+
+<li class="selected">
+    
+    Privacy Policy
+    
+    
+</li>
+       
+ 
+</ul>
+
+
+
+</div>
+        
+    </div>
+    <div id="infopage_widecolumn">
+        
+
+            
+            <div class="privacy_policy" style="border-left: 0px;">
+
+# Privacy Policy 
+
+This privacy statement provides notice of our information collection practices and of the ways in which your information may be used. This policy may change from time to time, so please check back periodically to review this information.
+
+## Personally-Identifiable Information
+
+Manduka, LLC typically receives specific data about its website visitors only when such information is provided voluntarily, such as when our visitors request information, purchase or enroll for services, provide resume information for employment opportunities, or send us e-mail. Of course, some of these activities require that you give us information, such as when you make a purchase, use a credit card to pay for services, submit your resume, or request certain types of information. When you provide personally-identifiable information to Manduka, LLC through one of our websites, it will be used to fulfill your specific request. In most cases, you will be given the opportunity to select whether you do, or do not, want Manduka, LLC to use this information for additional purposes. You may also request that Manduka, LLC not use your information by sending an e-mail to idealer[at]gmail.com, however, Manduka, LLC reserves the right, in its discretion, to send you bulletins and other important information about your Manduka, LLC services. Absent any instructions from you, Manduka, LLC may use information you provide to inform you about additional services and products offered by the Manduka, LLC family, authorized agents, and other goods and services providers with whom Manduka, LLC has relationships and whose offerings might be of interest to you. Manduka, LLC will not, however, sell or trade your personally-identifiable information unless we are authorized or legally required to do so, or in the case of imminent physical harm to the visitor or others. On those Manduka, LLC sites where you may provide Manduka, LLC with credit card or other ordering information via the web, Manduka, LLC protects and secures this information by employing commercially customary web-based security and encryption protocols, examples of which include Secure Socket Layer (SSL) and Secure Electronic Transaction (SET). On those sites where you voluntarily offer any feedback, data, answers, questions, comments, suggestions, ideas or the like, Manduka, LLC will treat that portion of the information as non-confidential and non-proprietary and, except as otherwise expressed in this privacy statement, Manduka, LLC assumes no obligation to protect such information from disclosure.
+
+##How do you know my name when I visit your site?
+<br>
+We use cookies to recognize you and your preferences to make shopping easier. Cookies are bits of information that we automatically store on your computer if your computer accepts cookies. The use of cookies is standard on the internet and many major web sites use them. Cookies stored on your computer do not contain any personally identifiable information. If you do not wish to have a cookie on your system, you can set your browser preferences to refuse them. Please consult your browser's help section for instructions on how to do this. For more information on cookies and how we use them please visit our <a target="blank" href="http://www.manduka.com/us/customer-service/privacy-policy/">privacy policy</a>.
+<br>
+
+<strong>Cookies</strong>
+<br>
+Like many websites, Manduka utilizes “cookies” to maintain a record of your visit to the Sites.  A cookie is a small text file that is transferred by a web server and stored on the hard drive of your computer.  It can only be read by the server that sent it to you.  This information does not identify you personally and you remain anonymous unless you have otherwise provided lululemon with personal information. 
+Cookies help Manduka to improve the Sites and to deliver more personalized service by enabling Manduka to estimate audience size and usage patterns; to store information about your preferences; to speed up your searches and to recognize you when you return to the Sites.
+<br>
+Most web browsers automatically accept cookies.  If you would prefer to prevent your computer from accepting Manduka’s cookies, you may follow your Internet browser’s steps for doing so.  Please note, however, that if you do disable cookies from your browser, you may not be able to access certain sections of the Sites.  
+<br>
+<strong>IP Addresses</strong>
+An IP address is a computer's numeric address, by which it can be located within a network.  Manduka may record your IP address when you visit or use services or features on the Sites.  Manduka may use your IP address for the purposes noted above, and also to help diagnose problems with Manduka server, or to administer the Sites.  Manduka may also use your IP address to identify you when Manduka feels it is necessary to enforce compliance with this Privacy Policy or the Terms of Use, or to protect the Sites, systems, information, employees, service providers, business partners, users, customers and others.
+
+## Non Personally-Identifiable (Generic) Information
+
+In general, Manduka, LLC gathers some generic information automatically. Generic information does NOT reveal the identity of the visitor. It usually includes information about the Internet address assigned to your computer, the number and frequency of visitors, and the Manduka, LLC sites visited. Manduka, LLC gathers this information for the limited purpose of determining customer service and website needs. We accomplish this by using certain technologies, including “cookies” (a technology that can be used to provide the visitor with tailored information about Manduka, LLC services). Manduka, LLC does not combine information collected in this way with any personally-identifiable information. You can set your browser to notify you when you receive a cookie and you can refuse it.
+
+## Bulletin Boards and Third-Party Sites
+
+Information that you disclose in a public space, including on any bulletin board or website Manduka, LLC may host is available to anyone else who visits that space. Manduka, LLC cannot safeguard any information you disclose in these locations. Additionally, Manduka, LLC websites contain links to sites that belong to third parties unrelated to Manduka, LLC. Manduka, LLC cannot protect any information you may disclose in these sites and recommends that you review the privacy policy statements of those sites you visit.
+
+## Exceptions and Limitations
+
+Notwithstanding the foregoing and in compliance with applicable laws, Manduka, LLC:
+
+1. cooperates fully with state, local, and federal officials in any investigation relating to any content (including personal or private electronic communications transmitted to Manduka, LLC) or purported unlawful activities of any user of the Service, and
+2. takes reasonable measures to protect its proprietary rights. For the limited purposes of accomplishing such cooperation and measures and in compliance with applicable laws, Manduka, LLC may be required to disclose personally identifiable information.
+
+In addition, Manduka, LLC may elect to monitor the areas of communication of any kind:
+
+1. to satisfy any law, regulation, or government request;
+2. if such disclosure is necessary or appropriate to operate Manduka, LLC; or
+3. to protect the rights or property of Manduka, LLC or others.
+
+In connection with the potential sale or transfer of any of its interest in www.manduka.com, and other sites owned by the company, Manduka, LLC reserves the right to sell or transfer your information (including , but not limited to name, address information, and other information you provided to Manduka, LLC) to a third party that:
+
+1. concentrates its business in communication products or services;
+2. agrees to be Manduka, LLC’s successor in interest with regard to the maintenance and protection of information collected and maintained by Manduka, LLC; and
+3. agrees to the obligations of this policy statement
+</div>
+
+        
+    </div>
+
+                            
+                        </div>
+                        
+                    </div>
+                </div>
+                
+                
+            </div></section>
+
+        </div>
+    </div>
+
+    <div id="footer">
+        <div class="position">
+            <div class="container">
+                <footer>
+                        
+    <div id="footer_statement">
+        Manduka is more than eco-conscious yoga gear. Way more. We are joyology – a study in living. Our 
+        <a class="blue mission" href="/mission/">{&nbsp;mission&nbsp;}</a> starts on the mat.
+    </div>
+    <div id="footer_fblike">
+        <div class="fb-like" data-href="http://www.facebook.com/MandukaYoga" data-send="false" data-layout="button_count" data-width="100" data-show-faces="false"></div>
+    </div>
+    
+
+<ul id="footer_menu">
+    
+        
+<li id="mbi_footer_menu_connect" class=" footer_col">
+    
+        <span class="text">connect</span>
+    
+    
+        
+            
+                <ul id="mbg_footer_menu_connect">
+                    
+                    
+                        
+<li id="mbi_footer_menu_facebook" class=" footer_graphic footer_menu_item">
+    <a href="http://www.facebook.com/MandukaYoga" target="_blank">
+        <span class="text">facebook</span>
+    </a>
+    
+        
+    
+</li>
+
+                    
+                        
+<li id="mbi_footer_menu_twitter" class=" footer_graphic footer_menu_item">
+    <a href="http://twitter.com/mandukayoga" target="_blank">
+        <span class="text">twitter</span>
+    </a>
+    
+        
+    
+</li>
+
+                    
+                        
+<li id="mbi_footer_menu_pinterest" class=" footer_graphic footer_menu_item">
+    <a href="http://pinterest.com/source/manduka.com/" target="_blank">
+        <span class="text">pinterest</span>
+    </a>
+    
+        
+    
+</li>
+
+                    
+                        
+<li id="mbi_footer_menu_youtube" class=" footer_graphic footer_menu_item">
+    <a href="http://www.youtube.com/user/MandukaTV" target="_blank">
+        <span class="text">youtube</span>
+    </a>
+    
+        
+    
+</li>
+
+                    
+                        
+<li id="mbi_footer_menu_blog" class=" footer_graphic footer_menu_item">
+    <a href="/us/blog/">
+        <span class="text">the blog</span>
+    </a>
+    
+        
+    
+</li>
+
+                    
+                </ul>
+                
+                
+            
+        
+    
+</li>
+
+    
+        
+<li id="mbi_footer_menu_shop" class=" footer_col">
+    <a href="/us/shop/">
+        <span class="text">shop</span>
+    </a>
+    
+        
+            
+                <ul id="mbg_footer_menu_shop">
+                    
+                    
+                        
+<li id="mbi_footer_menu_mats" class=" footer_menu_item">
+    <a href="/us/shop/categories/products/mats/">
+        <span class="text">yoga mats</span>
+    </a>
+    
+        
+    
+</li>
+
+                    
+                        
+<li id="mbi_footer_menu_towels" class=" footer_menu_item">
+    <a href="/us/shop/categories/products/towels/">
+        <span class="text">towels</span>
+    </a>
+    
+        
+    
+</li>
+
+                    
+                        
+<li id="mbi_footer_menu_bags" class=" footer_menu_item">
+    <a href="/us/shop/categories/products/bags/">
+        <span class="text">bags</span>
+    </a>
+    
+        
+    
+</li>
+
+                    
+                        
+<li id="mbi_footer_menu_props" class=" footer_menu_item">
+    <a href="/us/shop/categories/products/props-accessories/?dd">
+        <span class="text">props</span>
+    </a>
+    
+        
+    
+</li>
+
+                    
+                        
+<li id="mbi_footer_menu_accessories" class=" footer_menu_item">
+    <a href="/us/shop/categories/products/props-accessories/?dd">
+        <span class="text">accessories</span>
+    </a>
+    
+        
+    
+</li>
+
+                    
+                        
+<li id="mbi_footer_menu_gift-guide" class=" footer_menu_item">
+    <a href="/us/yoga-gift-guide/">
+        <span class="text">gift guide</span>
+    </a>
+    
+        
+    
+</li>
+
+                    
+                        
+<li id="mbi_footer_menu_collections" class=" footer_menu_item">
+    <a href="/us/lyrics/">
+        <span class="text">collections</span>
+    </a>
+    
+        
+    
+</li>
+
+                    
+                </ul>
+                
+                
+            
+        
+    
+</li>
+
+    
+        
+<li id="mbi_footer_menu_customer-center" class=" footer_col">
+    <a href="/us/customer-service/">
+        <span class="text">customer center</span>
+    </a>
+    
+        
+            
+                <ul id="mbg_footer_menu_customer-center">
+                    
+                    
+                        
+<li id="mbi_footer_menu_my-account" class=" footer_menu_item">
+    <a href="/us/accounts/">
+        <span class="text">my account</span>
+    </a>
+    
+        
+    
+</li>
+
+                    
+                        
+<li id="mbi_footer_menu_faqs" class=" footer_menu_item">
+    <a href="/us/faq/">
+        <span class="text">FAQs</span>
+    </a>
+    
+        
+    
+</li>
+
+                    
+                        
+<li id="mbi_footer_menu_returns" class=" footer_menu_item">
+    <a href="/us/customer-service/returns-exchanges/">
+        <span class="text">returns</span>
+    </a>
+    
+        
+    
+</li>
+
+                    
+                        
+<li id="mbi_footer_menu_order-status" class=" footer_menu_item">
+    <a href="/us/order-status/lost-link/">
+        <span class="text">order status</span>
+    </a>
+    
+        
+    
+</li>
+
+                    
+                        
+<li id="mbi_footer_menu_privacy-policy" class=" footer_menu_item">
+    <a href="/us/customer-service/privacy-policy/">
+        <span class="text">privacy policy</span>
+    </a>
+    
+        
+    
+</li>
+
+                    
+                </ul>
+                
+                
+            
+        
+    
+</li>
+
+    
+        
+<li id="mbi_footer_menu_about-us" class=" footer_col">
+    
+        <span class="text">about us</span>
+    
+    
+        
+            
+                <ul id="mbg_footer_menu_about-us">
+                    
+                    
+                        
+<li id="mbi_footer_menu_mission" class=" footer_menu_item">
+    <a href="/us/mission/">
+        <span class="text">mission</span>
+    </a>
+    
+        
+    
+</li>
+
+                    
+                        
+<li id="mbi_footer_menu_blog" class=" footer_menu_item">
+    <a href="/us/blog/">
+        <span class="text">blog</span>
+    </a>
+    
+        
+    
+</li>
+
+                    
+                        
+<li id="mbi_footer_menu_innovation" class=" footer_menu_item">
+    <a href="/us/innovation/">
+        <span class="text">innovation</span>
+    </a>
+    
+        
+    
+</li>
+
+                    
+                        
+<li id="mbi_footer_menu_careers" class=" footer_menu_item">
+    <a href="/us/careers/">
+        <span class="text">careers</span>
+    </a>
+    
+        
+    
+</li>
+
+                    
+                        
+<li id="mbi_footer_menu_press" class=" footer_menu_item">
+    <a href="/us/press/">
+        <span class="text">press</span>
+    </a>
+    
+        
+    
+</li>
+
+                    
+                </ul>
+                
+                
+            
+        
+    
+</li>
+
+    
+        
+<li id="mbi_footer_menu_community" class=" footer_col">
+    <a href="/us/community/">
+        <span class="text">community</span>
+    </a>
+    
+        
+            
+                <ul id="mbg_footer_menu_community">
+                    
+                    
+                        
+<li id="mbi_footer_menu_ambassador-program" class=" footer_menu_item">
+    <a href="/us/community/ambassadors/">
+        <span class="text">ambassador program</span>
+    </a>
+    
+        
+    
+</li>
+
+                    
+                        
+<li id="mbi_footer_menu_giving-back" class=" footer_menu_item">
+    <a href="/us/community/giving-back/">
+        <span class="text">giving back</span>
+    </a>
+    
+        
+    
+</li>
+
+                    
+                        
+<li id="mbi_footer_menu_affiliate-program" class=" footer_menu_item">
+    <a href="/us/forms/become-an-affiliate/">
+        <span class="text">affiliate program</span>
+    </a>
+    
+        
+    
+</li>
+
+                    
+                </ul>
+                
+                
+            
+        
+    
+</li>
+
+    
+        
+<li id="mbi_footer_menu_wholesale" class=" footer_col">
+    <a href="/us/forms/wholesale/">
+        <span class="text">wholesale</span>
+    </a>
+    
+        
+            
+                <ul id="mbg_footer_menu_wholesale">
+                    
+                    
+                        
+<li id="mbi_footer_menu_open-account" class=" footer_menu_item">
+    <a href="/us/forms/wholesale/">
+        <span class="text">open an account</span>
+    </a>
+    
+        
+    
+</li>
+
+                    
+                        
+<li id="mbi_footer_menu_artroom" class=" footer_menu_item">
+    <a href="/us/artroom/">
+        <span class="text">art room</span>
+    </a>
+    
+        
+    
+</li>
+
+                    
+                </ul>
+                
+                
+            
+        
+    
+</li>
+
+    
+        
+<li id="mbi_footer_menu_catalogs" class=" footer_col">
+    <a href="/us/yoga-catalog/">
+        <span class="text">catalogs</span>
+    </a>
+    
+        
+    
+</li>
+
+    
+</ul>
+
+
+    <a href="/us/blog/" id="footer_frog_blog"><span>the UPWARD FROG blog</span></a>
+<script type="text/javascript">
+adroll_adv_id = "7UYG7F5W2FHQDBOZ6POSG6";
+adroll_pix_id = "42APVXHSGJHVDFRKU45NGY";
+(function () {
+var oldonload = window.onload;
+window.onload = function(){
+   __adroll_loaded=true;
+   var scr = document.createElement("script");
+   var host = (("https:" == document.location.protocol) ? "https://s.adroll.com" : "http://a.adroll.com");
+   scr.setAttribute('async', 'true');
+   scr.type = "text/javascript";
+   scr.src = host + "/j/roundtrip.js";
+   ((document.getElementsByTagName('head') || [null])[0] ||
+    document.getElementsByTagName('script')[0].parentNode).appendChild(scr);
+   if(oldonload){oldonload()}};
+}());
+</script>
+                </footer>
+            </div>
+        </div>
+    </div>
+
+
+
+    <script src="/static/webcubecore/js/jquery.min.js"></script>
+    <script src="/static/webcubecore/js/webcube.js"></script>
+    
+    <script src="/static/js/json2.js"></script>
+    <script src="/static/js/jquery.cookie.js"></script>
+    <script src="/static/js/jquery.jsoncookie.js"></script>
+    
+    <script src="/static/simplecartcore/js/webcube.catalog.js"></script>
+    <script src="/static/simplecartcore/js/webcube.product.js"></script>
+    
+    
+    <script src="https://www.google.com/recaptcha/api/js/recaptcha_ajax.js"></script>
+    
+    <script src="/us/R.js"></script>
+
+    
+ <script type="text/javascript" src="/static/js/fn.headerReplace.js"></script>
+ <script type="text/javascript" src="/static/js/infopages.js"></script>
+ <script type="text/javascript" charset="utf-8">
+    
+ </script>
+
+
+    
+    <script src="/static/manduka42/js/manduka42.js"></script>
+
+    <script type="text/javascript" charset="utf-8"></script>
+     
+    
+    <script type="text/javascript">
+        (function($){
+            $(document).ready(function() {
+                // Holiday popup for organic traffic
+                    $.getJSON('/us/organic-traffic/', function(data){
+                            var banner_closed =  $.cookie('close_btn');
+                            if(!data.email_used_before && !data.user_authenticated &&  banner_closed == null){
+                                // INSERT CODE HERE FOR POPUP
+                                var bannerStrip = $('#email_banner_strip'),
+                                    bannerBox = $('.email_banner'),
+                                    pageWrap = $('#wrap');
+
+                                bannerBox.slideDown(400);
+                                pageWrap.animate({'marginTop':'-18px'}, 250);
+                                bannerStrip.slideDown(400);
+
+                                $('span.close_btn').click(function() {
+                                    bannerBox.slideUp(300);
+                                    pageWrap.animate({'marginTop':'0'}, 450);
+                                    bannerStrip.slideUp(300);
+                                    $.cookie('close_btn', '1', {expires: 15, path: "/"});
+                                });
+
+                                $('#email_signup').submit(function() {
+                                    $.post('/us/organic-traffic/email/', {
+                                        'email': $('#email_signup_input').val()
+                                    }, function(data){
+                                        if(data.success){
+                                            $('.thankyou').fadeIn(400);
+                                        } else {
+                                            if(data.message){
+                                                alert(data.message);
+                                            } else {
+                                                alert('Sorry, an error occurred. Please check your email address and try again.');
+                                            }
+                                        }
+                                    });
+                                    return false;
+                                });
+                            }
+                    });
+            });
+        })(jQuery);
+    </script>
+
+
+
+
+
+
+<script type="text/javascript">  (function() {
+    var ga = document.createElement('script');
+    ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:'   == document.location.protocol ? 'https://ssl'   : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+    })();
 </script>
 
 
-    
+
+
+
+ 
+
+
+
+
+
+ 
+
+
+
 
 
 </body></html>
