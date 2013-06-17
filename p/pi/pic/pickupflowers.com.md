@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pickupflowers.com privacy policy that was archived on 2012-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121016133627id_/http%3A//www.pickupflowers.com/info/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pickupflowers.com privacy policy that was archived on 2013-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130617141125id_/http%3A//www.pickupflowers.com/info/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy of Pickupflowers gives highest importance to the private information of the browsers.
 
@@ -15,6 +15,6 @@ We believe in reducing the SPAM on the Internet and would not be sending you any
 
 This Privacy Policy explains our privacy practices and informs you regarding:
 
-You could E-Mail us at [customerservice@pickupflowers.com](mailto:customerservice@pickupflowers.com), if you have any concerns on your privacy being breached by us. You could also reach us through information provided on [Contact Us](https://web.archive.org/info/contact-us) page.
+You could E-Mail us at , if you have any concerns on your privacy being breached by us. You could also reach us through information provided on [Contact Us](https://web.archive.org/info/contact-us) page.
 
 What are you shopping for? 
