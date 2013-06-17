@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the universal-radio.com privacy policy that was archived on 2012-09-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120919205813id_/http%3A//www.universal-radio.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the universal-radio.com privacy policy that was archived on 2013-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130617021148id_/http%3A//www.universal-radio.com/privacy.html) for the most accurate reproduction.*
 
 # Universal Radio Privacy Policy
 
