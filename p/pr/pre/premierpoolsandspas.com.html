@@ -1,115 +1,454 @@
-<!--The following is the downloaded HTML source of the premierpoolsandspas.com privacy policy that was archived on 2012-06-18.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120618045907id_/http%3A//www.premierpoolsandspas.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the premierpoolsandspas.com privacy policy that was archived on 2013-06-17.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130617041543id_/http%3A//www.premierpoolsandspas.com/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
+
+
+
 <meta content="text/html; charset=utf-8" http-equiv="Content-Type">  
+
+
+
 <meta http-equiv="Content-Language" content="EN">
-<title>Privacy Policy</title>
+
+
+
+<title>Pool Builders | Pool Contractors | Swimming Pool Builders | Swimming Pool Contractors</title>
+
+
+
     <link rel="shortcut icon" href="http://www.premierpoolsandspas.com/wp-content/themes/Pools2/images/favicon.ico">
+
+
+
 <link rel="profile" href="http://gmpg.org/xfn/11">
+
+
+
 <link rel="stylesheet" type="text/css" media="all" href="http://www.premierpoolsandspas.com/wp-content/themes/Pools2/style.css">
+
+
+
 <link rel="pingback" href="http://www.premierpoolsandspas.com/xmlrpc.php">
-<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="https://www.google.com/jsapi?key=ABQIAAAA959_vxPsJipNE7G7wFCvrhQs75PRrEC5t1f8NTfErvG1qCGrWhTNgD7lOWzt0OJ4SbV26AC7Lr7ylA"></script>
-<script type="text/javascript">google.load("jquery", "1.6.3"); </script>
+
+
+
+<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="https://www.google.com/jsapi?key=ABQIAAAA959_vxPsJipNE7G7wFCvrhQs75PRrEC5t1f8NTfErvG1qCGrWhTNgD7lOWzt0OJ4SbV26AC7Lr7ylA"></script>
+
+
+
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.9.0/jquery.min.js"></script>
+
+
+
+
+
+
+
+
+
+
 
 <script type="text/javascript" src="http://www.premierpoolsandspas.com/wp-content/themes/Pools2/js/jquery.tools.min.js"></script>
+
+
+
 <!--[if IE]><script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script><![endif]-->
+
+
+
 <!--[if lte IE 7]><script src="http://ie7-js.googlecode.com/svn/version/2.1(beta4)/IE8.js"></script><![endif]-->
 
+
+
+
+
+
+
 <style type="text/css">
+
+
+
     .oneColElsCtrHdr #mainContent{background-image:none; min-height:390px;}     
+
+
+
     .items div.thumbs img{height:54px;}   
+
+
+
     .scrollable {height:330px;}
+
+
+
 </style>
+
+
+
 <!--[if IE]>
+
+
+
 <style type="text/css">
+
+
+
 .pp-logo  { }
+
+
+
 </style>
+
+
+
 <![endif]-->
+
+
+
 <script type="text/javascript">
+
+
+
 $(document).ready(function() {    
+
+
+
     $('#MenuBar2 li:last').addClass('last');               
+
+
+
 });
+
+
+
 </script> 
+
+
+
 <script type="text/javascript">
+
+
+
 $(function() {
+
+
+
 $(".scrollable").scrollable({ vertical: true, mousewheel: true });
 
+
+
+
+
+
+
 $(".items img").click(function() {
+
+
+
     if ($(this).hasClass("active")) { return; }
+
+
+
     var img = new Image();
+
+
+
     var wrap = $("#image_wrap")
+
+
+
     var url = $(this).attr("src").replace("_t", "");
+
+
+
     img.onload = function() {
+
+
+
         wrap.hide().fadeIn(300);    
+
+
+
         wrap.find("img").attr("src", url);
+
+
+
         clearInterval(s);
+
+
+
     };
+
+
+
     img.src = url;
+
+
+
     $(".items img").removeClass("active");
+
+
+
     $(this).addClass("active");
+
+
+
 }).filter(":first").click();
+
+
+
 });
 
+
+
+
+
+
+
 function swapImages(){
+
+
+
   var $active = $('.active');
+
+
+
   var $next = ($('.active').next().length > 0) ? $('.active').next() : $('');
+
+
+
     $(function(){
+
+
+
     $active.toggleClass('active');
+
+
+
     $next.fadeIn().addClass('active');
+
+
+
     if ($(".items img").hasClass("active")) { return; }
+
+
+
     var img = new Image();
+
+
+
     var wrap = $("#image_wrap")
-    var url = $('.active').attr("src").replace("_t", "");
+
+
+
+    //var url = $('.active').attr("src").replace("_t", "");
+
+
+
+    var url = $('.active').attr("src");
+
+
+
     img.onload = function() {
+
+
+
         wrap.hide().fadeIn(300);    
+
+
+
         wrap.find("img").attr("src", url);
+
+
+
     };
+
+
+
     $next;
+
+
+
     img.src = url;
+
+
+
   });
+
+
+
 }
+
+
+
+
+
+
 
 var s = setInterval('swapImages()', 5000);
 
+
+
+
+
+
+
 </script>
+
+
+
         
-<link rel="alternate" type="application/rss+xml" title="Swimming Pool Builder | Swimming Pool Contractors | Swimming  Pool Construction Company | Premier Pools And Spas » Feed" href="http://www.premierpoolsandspas.com/feed/">
-<link rel="alternate" type="application/rss+xml" title="Swimming Pool Builder | Swimming Pool Contractors | Swimming  Pool Construction Company | Premier Pools And Spas » Comments Feed" href="http://www.premierpoolsandspas.com/comments/feed/">
+
+
+
+
+<!-- This site is optimized with the Yoast WordPress SEO plugin v1.3.4.4 - http://yoast.com/wordpress/seo/ -->
+<link rel="canonical" href="http://www.premierpoolsandspas.com/privacy-policy/">
+<meta property="og:locale" content="en_US">
+<meta property="og:title" content="Privacy Policy - Pool Builders | Pool Contractors | Swimming Pool Builders | Swimming Pool Contractors">
+<meta property="og:url" content="http://www.premierpoolsandspas.com/privacy-policy/">
+<meta property="og:site_name" content="Pool Builders | Pool Contractors | Swimming Pool Builders | Swimming Pool Contractors">
+<meta property="og:type" content="article">
+<!-- / Yoast WordPress SEO plugin. -->
+
+<link rel="alternate" type="application/rss+xml" title="Pool Builders | Pool Contractors | Swimming Pool Builders | Swimming Pool Contractors » Feed" href="http://www.premierpoolsandspas.com/feed/">
+<link rel="alternate" type="application/rss+xml" title="Pool Builders | Pool Contractors | Swimming Pool Builders | Swimming Pool Contractors » Comments Feed" href="http://www.premierpoolsandspas.com/comments/feed/">
+
+
+
+
+
+			<script type="text/javascript">//<![CDATA[
+
+
+			// Google Analytics for WordPress by Yoast v4.2.8 | http://yoast.com/wordpress/google-analytics/
+
+
+			var _gaq = _gaq || [];
+
+
+			_gaq.push(['_setAccount', 'UA-25358833-1']);
+
+
 				
-	<script type="text/javascript">//<![CDATA[
-	// Google Analytics for WordPress by Yoast v4.2.2 | http://yoast.com/wordpress/google-analytics/
-	var _gaq = _gaq || [];
-	_gaq.push(['_setAccount','UA-25358833-1']);
-	_gaq.push(['_trackPageview'],['_trackPageLoadTime']);
-	(function() {
-		var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-		ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
-		var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
-	})();
-	//]]></script>
-<link rel="alternate" type="application/rss+xml" title="Swimming Pool Builder | Swimming Pool Contractors | Swimming  Pool Construction Company | Premier Pools And Spas » Privacy Policy Comments Feed" href="http://www.premierpoolsandspas.com/privacy-policy/feed/">
-<script type="text/javascript" src="http://www.premierpoolsandspas.com/wp-includes/js/l10n.js?ver=20101110"></script>
-<script type="text/javascript" src="http://www.premierpoolsandspas.com/wp-includes/js/comment-reply.js?ver=20090102"></script>
+
+			_gaq.push(['_trackPageview']);
+
+
+			(function () {
+
+
+				var ga = document.createElement('script');
+
+
+				ga.type = 'text/javascript';
+
+
+				ga.async = true;
+
+
+				ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+
+
+
+
+				var s = document.getElementsByTagName('script')[0];
+
+
+				s.parentNode.insertBefore(ga, s);
+
+
+			})();
+
+
+			//]]></script>
+
+
+			<link rel="alternate" type="application/rss+xml" title="Pool Builders | Pool Contractors | Swimming Pool Builders | Swimming Pool Contractors » Privacy Policy Comments Feed" href="http://www.premierpoolsandspas.com/privacy-policy/feed/">
+<script type="text/javascript" src="http://www.premierpoolsandspas.com/wp-includes/js/comment-reply.min.js?ver=3.5.1"></script>
 <link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://www.premierpoolsandspas.com/xmlrpc.php?rsd">
 <link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://www.premierpoolsandspas.com/wp-includes/wlwmanifest.xml"> 
-<link rel="index" title="Swimming Pool Builder | Swimming Pool Contractors | Swimming  Pool Construction Company | Premier Pools And Spas" href="http://www.premierpoolsandspas.com/">
-<link rel="prev" title="Las Vegas Gallery" href="http://www.premierpoolsandspas.com/locations/nevada/las-vegas-henderson-boulder-city-nv-swimming-pool-builder/las-vegas-gallery/">
-<link rel="next" title="ADA Compliance" href="http://www.premierpoolsandspas.com/locations/arizona/goodyear/ada-compliance/">
-<meta name="generator" content="WordPress 3.2.1">
-<link rel="canonical" href="http://www.premierpoolsandspas.com/privacy-policy/">
+<meta name="generator" content="WordPress 3.5.1">
 
-<!-- All in One SEO Pack 1.6.13.4 by Michael Torbert of Semper Fi Web Design[297,433] -->
+<!-- All in One SEO Pack 1.6.15.3 by Michael Torbert of Semper Fi Web Design[329,523] -->
 <!-- /all in one seo pack -->
+<!-- Google Analytics Tracking by Google Analyticator 6.4.3: http://www.videousermanuals.com/google-analyticator/ -->
+
+<script type="text/javascript">
+
+	var analyticsFileTypes = [''];
+
+
+	var analyticsEventTracking = 'enabled';
+
+</script>
+
+
+<script type="text/javascript">
+
+	var _gaq = _gaq || [];
+
+	_gaq.push(['_setAccount', 'UA-25358833-1']);
+
+        _gaq.push(['_addDevId', 'i9k95']); // Google Analyticator App ID with Google 
+
+        
+
+	_gaq.push(['_trackPageview']);
+
+
+
+	(function() {
+
+		var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+
+		ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+
+		var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+
+	})();
+
+</script>
+
+
+
+
 <script async="true" type="text/javascript" src="https://s.adroll.com/j/roundtrip.js"></script></head>
 
-<body class="page page-id-1424 page-template-default pagename-privacy-policy"><div id="wrapper" class="hfeed">
+
+
+
+
+
+
+<body class="page page-id-1424 page-template-default"><div id="wrapper" class="hfeed">
+
+
+
 	<div id="header">
+
+
+
 		<div id="masthead">
+
+
+
 			<div id="access">
-			  				<div class="skip-link screen-reader-text"><a href="#content" title="Skip to content">Skip to content</a></div>
-								<div class="menu-header"><ul id="menu-main-menu" class="menu"><li id="menu-item-25" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-25"><a title="Home" href="/">Home</a></li>
-<li id="menu-item-155" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-155"><a title="Swimming Pools" href="/?page_id=8">Swimming Pools</a>
+
+
+
+			  
+
+
+				<div class="skip-link screen-reader-text"><a href="#content" title="Skip to content">Skip to content</a></div>
+
+
+
+				
+
+
+				<div class="menu-header"><ul id="menu-main-menu" class="menu"><li id="menu-item-25" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-25"><a title="Home" href="/">Home</a></li>
+<li id="menu-item-155" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-155"><a title="Swimming Pools" href="/Swimming-Pools/">Swimming Pools</a>
 <ul class="sub-menu">
 	<li id="menu-item-30" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-30"><a title="Inground Swimming Pools" href="http://www.premierpoolsandspas.com/inground-swimming-pools/">Inground Pools</a></li>
 	<li id="menu-item-29" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-29"><a title="Geometric Swimming  Pools" href="http://www.premierpoolsandspas.com/geometric-swimming-pools/">Geometric Pools</a></li>
@@ -121,7 +460,7 @@ var s = setInterval('swapImages()', 5000);
 	<li id="menu-item-26" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-26"><a title="Commercial Pools" href="http://www.premierpoolsandspas.com/commercial-swimming-pools/">Commercial Pools</a></li>
 </ul>
 </li>
-<li id="menu-item-156" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-156"><a title="Spas &amp; Hot Tubs" href="/?page_id=37">Spas &amp; Hot Tubs</a>
+<li id="menu-item-156" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-156"><a title="Spas &amp; Hot Tubs" href="/hot-tub/">Spas &amp; Hot Tubs</a>
 <ul class="sub-menu">
 	<li id="menu-item-42" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-42"><a title="Above Ground Spas and Hot Tubs" href="http://www.premierpoolsandspas.com/hot-tub/">Above Ground Spas / Hot Tubs</a></li>
 	<li id="menu-item-41" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-41"><a title="Inground" href="http://www.premierpoolsandspas.com/inground-spa/">Inground</a></li>
@@ -157,7 +496,7 @@ var s = setInterval('swapImages()', 5000);
 	<li id="menu-item-112" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-112"><a title="Our Family" href="http://www.premierpoolsandspas.com/family-premier-pools/">Our Family</a></li>
 	<li id="menu-item-113" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-113"><a title="Pool Safety" href="http://www.premierpoolsandspas.com/pool-safety/">Pool Safety</a></li>
 	<li id="menu-item-114" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-114"><a title="Career Opportunities" href="http://www.premierpoolsandspas.com/career/">Career Opportunities</a></li>
-	<li id="menu-item-115" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-115"><a title="Become a Premier Licensee" href="http://www.premierpoolsandspas.com/licensee/">Become a Premier Licensee</a></li>
+	<li id="menu-item-115" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-115"><a title="Become a Premier Licensee" href="http://www.premierpoolsandspas.com/ppas-licensee/">Become a Premier Licensee</a></li>
 	<li id="menu-item-116" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-116"><a title="Pool Maintenance" href="http://www.premierpoolsandspas.com/maintenance-swimming-pools/">Pool Maintenance</a></li>
 	<li id="menu-item-117" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-117"><a title="FAQs" href="http://www.premierpoolsandspas.com/questions-swimming-pools/">FAQs</a></li>
 	<li id="menu-item-2608" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2608"><a title="Premier Pools Brochure" href="http://www.premierpoolsandspas.com/pdf/PremierPoolsBrochure.pdf" onclick="javascript:_gaq.push(['_trackEvent','download','http://www.premierpoolsandspas.com/pdf/PremierPoolsBrochure.pdf']);">Premier Pools Brochure</a></li>
@@ -165,34 +504,63 @@ var s = setInterval('swapImages()', 5000);
 </li>
 <li id="menu-item-159" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-159"><a title="Locations" href="http://www.premierpoolsandspas.com/contact/">Locations</a>
 <ul class="sub-menu">
+	<li id="menu-item-5202" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-5202"><a href="#">Alabama</a>
+	<ul class="sub-menu">
+		<li id="menu-item-5200" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5200"><a href="http://www.premierpoolsandspas.com/?page_id=5176">Auburn</a></li>
+	</ul>
+</li>
 	<li id="menu-item-2610" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2610"><a title="Arizona">Arizona</a>
 	<ul class="sub-menu">
+		<li id="menu-item-4603" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4603"><a href="http://www.premierpoolsandspas.com/locations/arizona/casa-grande/">Casa Grande</a></li>
+		<li id="menu-item-4843" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-4843"><a href="http://www.premierpoolsandspas.com/locations/arizona/phoenix/">Chandler</a></li>
+		<li id="menu-item-4313" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4313"><a href="http://www.premierpoolsandspas.com/locations/arizona/gilbert/">Gilbert</a></li>
+		<li id="menu-item-4513" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4513"><a href="http://www.premierpoolsandspas.com/locations/arizona/glendale/">Glendale</a></li>
 		<li id="menu-item-1333" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1333"><a title="Goodyear" href="http://www.premierpoolsandspas.com/locations/arizona/goodyear/">Goodyear</a></li>
 		<li id="menu-item-1334" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1334"><a title="Peoria" href="http://www.premierpoolsandspas.com/locations/arizona/peoria/">Peoria</a></li>
+		<li id="menu-item-4095" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4095"><a href="http://www.premierpoolsandspas.com/locations/arizona/mesa/">Mesa</a></li>
 		<li id="menu-item-1335" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1335"><a title="Phoenix" href="http://www.premierpoolsandspas.com/locations/arizona/phoenix/">Phoenix</a></li>
-		<li id="menu-item-1336" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1336"><a title="Tucson" href="http://www.premierpoolsandspas.com/locations/arizona/tucson/">Tucson</a></li>
+		<li id="menu-item-4398" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4398"><a href="http://www.premierpoolsandspas.com/locations/arizona/scottsdale/">Scottsdale</a></li>
+		<li id="menu-item-4840" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4840"><a href="http://www.premierpoolsandspas.com/locations/arizona/tucson/">Tucson</a></li>
 	</ul>
 </li>
 	<li id="menu-item-139" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-139"><a title="California">California</a>
 	<ul class="sub-menu">
 		<li id="menu-item-1161" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1161"><a title="Alameda/Contra Costa" href="http://www.premierpoolsandspas.com/locations/california/alameda-swimming-pool-builder/">Alameda/Contra Costa</a></li>
+		<li id="menu-item-5064" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5064"><a href="http://www.premierpoolsandspas.com/locations/california/bakersfield-swimming-pool-builder/">Bakersfield</a></li>
+		<li id="menu-item-3874" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3874"><a href="http://www.premierpoolsandspas.com/locations/california/chico-swimming-pool-builder/">Chico</a></li>
+		<li id="menu-item-4004" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4004"><a href="http://www.premierpoolsandspas.com/locations/california/clovis-fresno-ca/">Clovis – Fresno</a></li>
+		<li id="menu-item-3894" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3894"><a href="http://www.premierpoolsandspas.com/locations/california/galt-swimming-pool-builder/">Galt</a></li>
+		<li id="menu-item-5006" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5006"><a href="http://www.premierpoolsandspas.com/locations/california/glendale-burbank-swimming-pool-builder/">Glendale – Burbank</a></li>
+		<li id="menu-item-5027" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5027"><a href="http://www.premierpoolsandspas.com/locations/california/inland-empire-swimming-pool-builder/">Inland Empire</a></li>
 		<li id="menu-item-1162" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1162"><a title="Lodi" href="http://www.premierpoolsandspas.com/locations/california/lodi-swimming-pool-builder/">Lodi</a></li>
-		<li id="menu-item-1153" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1153"><a title="Modesto/Central Valley" href="http://www.premierpoolsandspas.com/locations/california/modesto-central-valley-swimming-pool-builder/">Modesto/Central Valley</a></li>
+		<li id="menu-item-4934" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-4934"><a>Los Angeles</a>
+		<ul class="sub-menu">
+			<li id="menu-item-4945" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4945"><a href="http://www.premierpoolsandspas.com/locations/california/east-los-angeles-swimming-pool-builder/">- East Los Angeles</a></li>
+			<li id="menu-item-4974" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4974"><a href="http://www.premierpoolsandspas.com/locations/california/los-angeles-south-bay-swimming-pool-builder/">- Los Angeles South Bay</a></li>
+			<li id="menu-item-4935" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4935"><a href="http://www.premierpoolsandspas.com/locations/california/west-los-angeles-swimming-pool-builder/">- West Los Angeles</a></li>
+		</ul>
+</li>
+		<li id="menu-item-3932" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3932"><a href="http://www.premierpoolsandspas.com/locations/california/los-gatos-swimming-pool-builder/">Los Gatos</a></li>
+		<li id="menu-item-4017" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4017"><a href="http://www.premierpoolsandspas.com/locations/california/madera-county/">Madera County</a></li>
+		<li id="menu-item-4918" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4918"><a href="http://www.premierpoolsandspas.com/locations/california/modesto-central-valley-swimming-pool-builder-2/">Modesto – Central Valley</a></li>
+		<li id="menu-item-3958" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3958"><a href="http://www.premierpoolsandspas.com/locations/california/morgan-hill-swimming-pool-builder/">Morgan Hill</a></li>
+		<li id="menu-item-2269" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2269"><a title="Murrieta" href="http://www.premierpoolsandspas.com/locations/california/temecula/murrieta/">Murrieta</a></li>
 		<li id="menu-item-1154" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1154"><a title="Orange County" href="http://www.premierpoolsandspas.com/locations/california/orange-county-swimming-pool-builder/">Orange County</a></li>
+		<li id="menu-item-4911" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4911"><a href="http://www.premierpoolsandspas.com/locations/california/palm-desert/">Palm Desert</a></li>
+		<li id="menu-item-5008" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5008"><a href="http://www.premierpoolsandspas.com/locations/california/pasadena-swimming-pool-builder/">Pasadena</a></li>
 		<li id="menu-item-1155" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1155"><a title="Redding" href="http://www.premierpoolsandspas.com/locations/california/redding-swimming-pool-builder/">Redding</a></li>
+		<li id="menu-item-2268" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2268"><a title="Riverside" href="http://www.premierpoolsandspas.com/locations/california/temecula/riverside/">Riverside</a></li>
 		<li id="menu-item-1156" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1156"><a title="Roseville" href="http://www.premierpoolsandspas.com/locations/california/roseville-swimming-pool-supplies/">Roseville</a></li>
 		<li id="menu-item-1157" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1157"><a title="Sacramento" href="http://www.premierpoolsandspas.com/locations/california/sacramento-swimming-pool-builder/">Sacramento</a></li>
+		<li id="menu-item-5007" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5007"><a href="http://www.premierpoolsandspas.com/locations/california/san-bernadino-swimming-pool-builder/">San Bernadino</a></li>
 		<li id="menu-item-1158" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1158"><a title="San Diego" href="http://www.premierpoolsandspas.com/locations/california/san-diego-swimming-pool-builder/">San Diego</a></li>
 		<li id="menu-item-1159" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1159"><a title="San Jose" href="http://www.premierpoolsandspas.com/locations/california/san-jose-swimming-pool-builder/">San Jose</a></li>
 		<li id="menu-item-1160" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1160"><a title="Santa Clarita/San Fernando Valley" href="http://www.premierpoolsandspas.com/locations/california/santa-clarita-san-fernando-valley-swimming-pool-builder/">Santa Clarita/San Fernando Valley</a></li>
 		<li id="menu-item-1150" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1150"><a title="Sonoma/Marin/San Mateo Counties" href="http://www.premierpoolsandspas.com/locations/california/sonoma-marin-san-mateo-swimming-pool-builder/">Sonoma/Marin/San Mateo Counties</a></li>
-		<li id="menu-item-2186" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2186"><a title="Temecula" href="http://www.premierpoolsandspas.com/locations/california/temecula/">Temecula</a>
-		<ul class="sub-menu">
-			<li id="menu-item-2269" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2269"><a title="Murrieta" href="http://www.premierpoolsandspas.com/locations/california/temecula/murrieta/">Murrieta</a></li>
-			<li id="menu-item-2268" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2268"><a title="Riverside" href="http://www.premierpoolsandspas.com/locations/california/temecula/riverside/">Riverside</a></li>
-		</ul>
-</li>
+		<li id="menu-item-2186" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2186"><a title="Temecula" href="http://www.premierpoolsandspas.com/locations/california/temecula/">Temecula</a></li>
+		<li id="menu-item-3913" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3913"><a href="http://www.premierpoolsandspas.com/locations/california/tracy-swimming-pool-builder/">Tracy</a></li>
 		<li id="menu-item-1152" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1152"><a title="Vacaville/Solano/Napa Counties" href="http://www.premierpoolsandspas.com/locations/california/vacaville-solano-napa-swimming-pool-builder/">Vacaville/Solano/Napa Counties</a></li>
+		<li id="menu-item-5081" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5081"><a href="http://www.premierpoolsandspas.com/locations/california/visalia-swimming-pool-builder/">Visalia</a></li>
 	</ul>
 </li>
 	<li id="menu-item-3647" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-3647"><a href="#">Connecticut</a>
@@ -202,14 +570,19 @@ var s = setInterval('swapImages()', 5000);
 </li>
 	<li id="menu-item-3382" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-3382"><a title="Daytona Beach" href="#">Florida</a>
 	<ul class="sub-menu">
-		<li id="menu-item-3381" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3381"><a title="Daytona Beach" href="http://www.premierpoolsandspas.com/daytona-beac/">Daytona Beach</a></li>
+		<li id="menu-item-4834" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4834"><a href="http://www.premierpoolsandspas.com/bradenton/">Bradenton</a></li>
+		<li id="menu-item-3381" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3381"><a title="Daytona Beach" href="http://www.premierpoolsandspas.com/daytona-beach/">Daytona Beach</a></li>
+		<li id="menu-item-4624" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4624"><a href="http://www.premierpoolsandspas.com/deland/">DeLand</a></li>
+		<li id="menu-item-4625" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4625"><a href="http://www.premierpoolsandspas.com/new-smyrna-beach/">New Smyrna Beach</a></li>
 		<li id="menu-item-3393" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3393"><a title="Sarasota" href="http://www.premierpoolsandspas.com/sarasota/">Sarasota</a></li>
+		<li id="menu-item-4832" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4832"><a href="http://www.premierpoolsandspas.com/hillsborough-county/">Hillsborough County</a></li>
 		<li id="menu-item-3435" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3435"><a title="St. Augustine" href="http://www.premierpoolsandspas.com/st-augustine/">St. Augustine</a></li>
+		<li id="menu-item-4833" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4833"><a href="http://www.premierpoolsandspas.com/venice/">Venice</a></li>
 	</ul>
 </li>
-	<li id="menu-item-2076" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2076"><a title="Georgia">Georgia</a>
+	<li id="menu-item-5203" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-5203"><a href="#">Georgia</a>
 	<ul class="sub-menu">
-		<li id="menu-item-2104" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2104"><a title="Augusta" href="http://www.premierpoolsandspas.com/locations/georgia/augusta/">Augusta</a></li>
+		<li id="menu-item-5201" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5201"><a href="http://www.premierpoolsandspas.com/?page_id=5174">Columbus</a></li>
 	</ul>
 </li>
 	<li id="menu-item-2611" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2611"><a title="Illinois">Illinois</a>
@@ -243,26 +616,15 @@ var s = setInterval('swapImages()', 5000);
 		<li id="menu-item-3638" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3638"><a href="http://www.premierpoolsandspas.com/locations/north-new-jersey-swimming-pool-builder/">North New Jersey</a></li>
 	</ul>
 </li>
-	<li id="menu-item-3099" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-3099"><a href="#">New Mexico</a>
-	<ul class="sub-menu">
-		<li id="menu-item-3121" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3121"><a title="Albuquerque" href="http://www.premierpoolsandspas.com/albuquerque/">Albuquerque</a></li>
-		<li id="menu-item-3120" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3120"><a title="Santa Fe" href="http://www.premierpoolsandspas.com/new-mexico/santa-fe/">Santa Fe</a></li>
-	</ul>
-</li>
 	<li id="menu-item-3221" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-3221"><a title="New York" href="#">New York</a>
 	<ul class="sub-menu">
 		<li id="menu-item-3614" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3614"><a href="http://www.premierpoolsandspas.com/hudsonvalley-swimming-pool-builder/">Hudson Valley</a></li>
-		<li id="menu-item-3637" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3637"><a href="http://www.premierpoolsandspas.com/locations/long-island/">Long Island</a></li>
+		<li id="menu-item-3637" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3637"><a href="http://www.premierpoolsandspas.com/?page_id=3545">Long Island</a></li>
 	</ul>
 </li>
 	<li id="menu-item-3100" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-3100"><a href="#">Nevada</a>
 	<ul class="sub-menu">
 		<li id="menu-item-3115" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3115"><a title="Las Vegas" href="http://www.premierpoolsandspas.com/locations/nevada/las-vegas-henderson-boulder-city-nv-swimming-pool-builder/">Las Vegas</a></li>
-	</ul>
-</li>
-	<li id="menu-item-3103" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-3103"><a href="#">South Carolina</a>
-	<ul class="sub-menu">
-		<li id="menu-item-3116" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3116"><a title="North Augusta" href="http://www.premierpoolsandspas.com/locations/south-carolina/north-augusta/">North Augusta</a></li>
 	</ul>
 </li>
 	<li id="menu-item-3163" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-3163"><a title="INDIA">INDIA</a>
@@ -274,16 +636,25 @@ var s = setInterval('swapImages()', 5000);
 	<li id="menu-item-3104" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-3104"><a href="#">Texas</a>
 	<ul class="sub-menu">
 		<li id="menu-item-3110" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3110"><a title="Austin" href="http://www.premierpoolsandspas.com/locations/texas/austin-swimming-pool-builder/">Austin</a></li>
+		<li id="menu-item-4685" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4685"><a href="http://www.premierpoolsandspas.com/locations/texas/bandera/">Bandera</a></li>
+		<li id="menu-item-4079" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4079"><a href="http://www.premierpoolsandspas.com/locations/texas/baytown-swimming-pool-builder/">Baytown</a></li>
+		<li id="menu-item-4642" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4642"><a href="http://www.premierpoolsandspas.com/locations/texas/boerne/">Boerne</a></li>
+		<li id="menu-item-4655" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4655"><a href="http://www.premierpoolsandspas.com/locations/texas/bulverde/">Bulverde</a></li>
 		<li id="menu-item-3111" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3111"><a title="Dallas" href="http://www.premierpoolsandspas.com/locations/texas/dallas-allen-mckinney-frisco-plano-swimming-pool-builder/">Dallas</a></li>
+		<li id="menu-item-4677" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4677"><a href="http://www.premierpoolsandspas.com/locations/texas/helotes/">Helotes</a></li>
 		<li id="menu-item-3112" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3112"><a title="Houston" href="http://www.premierpoolsandspas.com/locations/texas/houston-swimming-pool-builder/">Houston</a></li>
+		<li id="menu-item-4067" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4067"><a href="http://www.premierpoolsandspas.com/locations/texas/katy-swimming-pool-builder/">Katy</a></li>
+		<li id="menu-item-4053" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4053"><a href="http://www.premierpoolsandspas.com/locations/texas/pearland-swimming-pool-builder/">Pearland</a></li>
 		<li id="menu-item-3114" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3114"><a title="San Antonio" href="http://www.premierpoolsandspas.com/locations/texas/sanantonio/">San Antonio</a></li>
+		<li id="menu-item-4663" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4663"><a href="http://www.premierpoolsandspas.com/locations/texas/scenic-oaks/">Scenic Oaks</a></li>
 		<li id="menu-item-3113" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3113"><a title="Spring" href="http://www.premierpoolsandspas.com/locations/texas/thewoolands-swimming-pool-builder/">Spring</a></li>
+		<li id="menu-item-4033" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4033"><a href="http://www.premierpoolsandspas.com/locations/texas/sugarland-swimming-pool-builder/">Sugarland</a></li>
 	</ul>
 </li>
 </ul>
 </li>
 <li id="menu-item-3093" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3093"><a title="Testimonials" href="http://www.premierpoolsandspas.com/testimonials/">Testimonials</a></li>
-<li id="menu-item-3094" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3094"><a title="Licensee Info" href="http://www.premierpoolsandspas.com/licensee/">Licensee Info</a></li>
+<li id="menu-item-3094" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3094"><a title="Licensee Info" href="http://www.premierpoolsandspas.com/ppas-licensee/">Licensee Info</a></li>
 <li id="menu-item-3090" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3090"><a title="FAQs" href="http://www.premierpoolsandspas.com/questions-swimming-pools/">FAQs</a></li>
 <li id="menu-item-3228" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3228"><a title="Financing" href="http://www.premierpoolsandspas.com/pricing/">Financing</a></li>
 <li id="menu-item-3091" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-ancestor current-menu-parent current_page_parent current_page_ancestor menu-item-3091"><a title="Contact" href="http://www.premierpoolsandspas.com/contact/">Contact</a>
@@ -293,182 +664,332 @@ var s = setInterval('swapImages()', 5000);
 	<li id="menu-item-3161" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3161"><a title="Refer a Friend" href="http://www.premierpoolsandspas.com/refer/">Refer a Friend</a></li>
 </ul>
 </li>
-</ul></div>			</div> <!-- #access -->
-            
-                    <div style="height:25px; display:block;" class="empty-sub"></div>
-                  
-            
-            
-		</div><!-- #masthead -->
-	</div><!-- #header -->
+</ul></div>
 
-	<div id="main">
 
-    <div id="internal-header"><a href="http://www.premierpoolsandspas.com/"><img alt="" border="0" src="http://www.premierpoolsandspas.com/wp-content/themes/Pools2/images/internal-logo.png"></a></div>    
-    
+			</div> <!-- #access -->
+
+
+
+            
+
+
+
+            
+
+
+        <div style="height:25px; display:block;" class="empty-sub"></div>
+
+
+
        
 
 
-		<div id="container">
+           
+
+
+
             
 
 
-    
+
+            
+
+
+
+		</div><!-- #masthead -->
+
+
+
+	</div><!-- #header -->
+
+
+
+
+
+
+
+	<div id="main">
+
+
+
+    <div id="internal-header"><a href="http://www.premierpoolsandspas.com/"><img alt="" border="0" src="http://www.premierpoolsandspas.com/wp-content/themes/Pools2/images/internal-logo.png"></a></div>    
+
     
 
-   <div id="primary" class="widget-area"> 
-   			<div class="textwidget"><div id="socialmedia">
+       
+
+
+
+
+
+		<div id="container">
+
+            <div id="primary" class="widget-area">
+			<div class="textwidget"><div id="socialmedia">
         <div style="float: left; width: 92px; padding: 0 0 0 64px;">
             <img width="92" height="81" alt="" src="http://www.premierpoolsandspas.com/images/asseenonDIY.png">
         </div>
         <div style="float: left; margin: 0 0 0 20px;width: 130px;">
             <span style="padding: 5px 0 13px; display: block;" class="contactsecondarytitle">Follow us on</span>
-             <div style=" height: 35px;float: left; width: 35px; margin: 0 5px 0 0;"><a href="http://www.facebook.com/PremierPoolsUS" onclick="javascript:_gaq.push(['_trackEvent','outbound-widget','http://www.facebook.com']);" target="_blank"><img width="35" height="35" border="0" src="http://www.premierpoolsandspas.com/images/facebook.png" alt=""></a></div>
+             <div style=" height: 35px;float: left; width: 35px; margin: 0 5px 0 0;"><a href="https://www.facebook.com/pages/Premier-Pools-Spas/192754037502127" onclick="javascript:_gaq.push(['_trackEvent','outbound-widget','http://www.facebook.com']);" target="_blank"><img width="35" height="35" border="0" src="http://www.premierpoolsandspas.com/images/facebook.png" alt=""></a></div>
              <div style=" height: 35px;float: left; width: 35px; margin: 0 5px 0 0;"><a href="http://twitter.com/PremierPoolsUS" onclick="javascript:_gaq.push(['_trackEvent','outbound-widget','http://twitter.com']);" target="_blank"><img width="34" height="35" border="0" src="http://www.premierpoolsandspas.com/images/twitter.png" alt=""></a></div>
              <div style=" height: 35px;float: left; width: 35px; margin: 0 5px 0 0;"><a href="http://www.youtube.com/user/PremierPoolsUS" onclick="javascript:_gaq.push(['_trackEvent','outbound-widget','http://www.youtube.com']);" target="_blank"><img width="34" height="35" border="0" src="http://www.premierpoolsandspas.com/images/youtube.png" alt=""></a></div>
         </div>
     </div></div>
-					<div class="textwidget"> </div>
-		      
-  
-    
-   
-   
-   <div id="contact" align="center"><span class="contacttitle">Contact Us Today!</span><br>
+
+		
+			<div class="textwidget"> </div>
+
+		<div id="contact" align="center"><span class="contacttitle">Contact Us Today!</span><br>
+
    <span class="contactsecondarytitle">for a free estimate</span><br>
+
    <form action="" method="post" id="contact_form" name="contact_form" onsubmit="pageTracker._trackEvent('signup','{submit}');">
+
    <input type="hidden" name="lead_source" value="">
+
    <table width="290" border="0" cellspacing="0" cellpadding="3">
+
       <tbody><tr>
+
          <td width="95" align="left" class="contactformtext">Name:</td>
+
          <td width="195" align="left"><input type="text" value="" id="contact_form_name" name="contact_form_name" style="width:153px"></td>
+
       </tr>
+
       <tr>
+
          <td align="left" class="contactformtext">Email:</td>
+
          <td align="left"><input type="text" value="" id="contact_form_email" name="contact_form_email" style="width:153px"></td>
+
       </tr>
+
       <tr>
+
          <td align="left" class="contactformtext">Phone:</td>
+
          <td align="left"><label>
+
                <input type="text" value="" id="contact_form_phone" name="contact_form_phone" style="width:153px">
+
             </label></td>
+
       </tr>
+
       <tr>
+
          <td align="left" class="contactformtext">Zip:</td>
+
          <td align="left"><label>
+
                <input type="text" value="" maxlength="5" id="contact_form_zip" name="contact_form_zip" style="width:153px">
+
             </label></td>
+
       </tr>
+
       <tr>
+
          <td align="left" class="contactformtext">Your Location:</td>
+
          <td align="left">
             <select name="contact_form_location_number" id="contact_form_location_number" style="width:158px">
-               <option selected="selected" value="0">Please choose...</option>
 
-<option value="1">Alameda, Contra Costa, CA</option>
-<option value="2">Austin, TX</option>
-<option value="3">Chandler, AZ</option>
-<option value="4">Dallas/Fort Worth</option>
-<option value="5">Houston</option>
-<option value="6">Las Vegas, Henderson, North Las Vegas, Boulder City, NV</option>
-<option value="7">Lodi, CA</option>
-<option value="8">Modesto, CA</option>
-<option value="9">Marin, Sonoma &amp; San Mateo Counties, CA</option>
-<option value="10">Orange County, CA</option>
-<option value="11">Peoria, AZ</option>
-<option value="12">Phoenix, AZ</option>
-<option value="13">Redding, CA</option>
-<option value="14">Sacramento, CA</option>
-<option value="15">San Diego, CA</option>
-<option value="16">San Jose, CA</option>
-<option value="17">Santa Clarita &amp; San Fernando Valley, CA</option>
-<option value="18">Tucson, AZ</option>
-<option value="19">Vacaville &amp; Solano &amp; Napa Counties, CA</option>
-<option value="20">Temecula, CA</option>
-<option value="21">New Orleans, LA</option>
-<option value="22">St. Louis, MO</option>
-<option value="23">Portland, Bangor, Augusta, ME</option>
-<option value="24">Manchester, Nashua, North Conway, NH</option>
-<option value="25">Boston, Worcester, Springfield, Cape Cod, MA</option>
-<option value="26">Fairfield County, Connecticut</option>
-<option value="27">Rhode Island</option>
-<option value="28"> </option>
-<option value="29">Goodyear, AZ</option>
-<option value="30">Chicago-Northeast Illinois</option>
-<option value="31">Columbia, MO</option>
-<option value="32">Augusta, Georgia</option>
-<option value="33">Albuquerque, New Mexico</option>
-<option value="34">Santa Fe, New Mexico</option>
-<option value="35">Portland , Maine</option>
-<option value="36">Temecula,California</option>
-<option value="37">Riverside,California</option>
-<option value="38"> Murrieta,California</option>
-<option value="39"> North Augusta,South Carolina</option>
-<option value="40"> India,All Cities</option>
-<option value="41">San-Antonio,Texas</option>
-<option value="42">Doylestown , Pennsylvania</option>
-<option value="43">Spring, Texas</option>
-<option value="44">Hudson Valley, New York</option>
-<option value="45">Daytona Beach, Florida</option>
-<option value="46">St. Augustine, Florida</option>
-<option value="47">Sarasota, Florida</option>
-<option value="48">North New Jersey, New Jersey</option>
-<option value="49">Long Island, New York</option>
+   <option selected="selected" value="0">Please choose...</option><option value="26"> </option>
+<option value="0" selected="selected">- Please choose... </option>
+<option value="82">AL - Auburn</option>
+<option value="96">AR - Benton</option>
+<option value="97">AR - Cabot</option>
+<option value="98">AR - Conway</option>
+<option value="99">AR - Hot Springs</option>
+<option value="100">AR - Little Rock</option>
+<option value="101">AR - Searcy</option>
+<option value="58">AZ - Casa Grande</option>
+<option value="3">AZ - Chandler</option>
+<option value="55">AZ - Gilbert</option>
+<option value="57">AZ - Glendale</option>
+<option value="27">AZ - Goodyear</option>
+<option value="54">AZ - Mesa</option>
+<option value="11">AZ - Peoria</option>
+<option value="12">AZ - Phoenix</option>
+<option value="56">AZ - Scottsdale</option>
+<option value="18">AZ - Tucson</option>
+<option value="1">CA - Alameda, Contra Costa</option>
+<option value="77">CA - Bakersfield</option>
+<option value="44">CA - Chico</option>
+<option value="43">CA - Clovis - Fresno</option>
+<option value="71">CA - East Los Angeles</option>
+<option value="45">CA - Galt</option>
+<option value="74">CA - Glendale/Burbank</option>
+<option value="76">CA - Inland Empire</option>
+<option value="7">CA - Lodi</option>
+<option value="72">CA - Los Angeles South Bay</option>
+<option value="47">CA - Los Gatos</option>
+<option value="49">CA - Madera County</option>
+<option value="9">CA - Marin, Sonoma &amp; San Mateo Counties</option>
+<option value="8">CA - Modesto</option>
+<option value="48">CA - Morgan Hill</option>
+<option value="33">CA - Murrieta</option>
+<option value="102">CA - Napa County</option>
+<option value="10">CA - Orange County</option>
+<option value="69">CA - Palm Desert</option>
+<option value="87">CA - Palm Springs</option>
+<option value="75">CA - Pasadena</option>
+<option value="13">CA - Redding</option>
+<option value="32">CA - Riverside</option>
+<option value="14">CA - Sacramento</option>
+<option value="73">CA - San Bernadino</option>
+<option value="15">CA - San Diego</option>
+<option value="16">CA - San Jose</option>
+<option value="17">CA - Santa Clarita &amp; San Fernando Valley</option>
+<option value="79">CA - Simi Valley</option>
+<option value="31">CA - Temecula</option>
+<option value="20">CA - Temecula</option>
+<option value="80">CA - Thousand Oaks</option>
+<option value="46">CA - Tracy</option>
+<option value="19">CA - Vacaville &amp; Solano  Counties</option>
+<option value="78">CA - Visalia</option>
+<option value="70">CA - West Los Angeles</option>
+<option value="25">CT - Fairfield County</option>
+<option value="66">FL - Bradenton</option>
+<option value="38">FL - Daytona Beach</option>
+<option value="60">FL - DeLand</option>
+<option value="68">FL - Hillsborough County</option>
+<option value="59">FL - New Smyrna Beach</option>
+<option value="95">FL - Pinellas County</option>
+<option value="40">FL - Sarasota</option>
+<option value="39">FL - St. Augustine</option>
+<option value="94">FL - St. Petersburg</option>
+<option value="42">FL - Tampa</option>
+<option value="67">FL - Venice</option>
+<option value="81">GA - Columbus</option>
+<option value="92">ID - Boise</option>
+<option value="28">IL - Chicago-Northeast</option>
+<option value="34">INDIA - India</option>
+<option value="88">LA - Baton Rouge</option>
+<option value="21">LA - New Orleans</option>
+<option value="30">ME - Portland</option>
+<option value="23">ME Portland, Bangor, Augusta</option>
+<option value="86">MO - Columbia</option>
+<option value="29">MO - Columbia</option>
+<option value="22">MO - St. Louis</option>
+<option value="24">NH - Manchester, Nashua, North Conway</option>
+<option value="41">NJ - North New Jersey</option>
+<option value="6">NV - Las Vegas, Henderson, North Las Vegas, Boulder City</option>
+<option value="37">NY - Hudson Valley</option>
+<option value="84">OR - Beaverton</option>
+<option value="83">OR - Portland</option>
+<option value="91">PA - Allentown</option>
+<option value="90">PA - Philadelphia</option>
+<option value="89">PA - Souderton</option>
+<option value="93">PA - Southeastern Pennsylvania</option>
+<option value="2">TX - Austin</option>
+<option value="65">TX - Bandera</option>
+<option value="53">TX - Baytown</option>
+<option value="61">TX - Boerne</option>
+<option value="62">TX - Bulverde</option>
+<option value="4">TX - Dallas/Fort Worth</option>
+<option value="64">TX - Helotes</option>
+<option value="5">TX - Houston</option>
+<option value="52">TX - Katy</option>
+<option value="51">TX - Pearland</option>
+<option value="35">TX - San-Antonio</option>
+<option value="63">TX - Scenic Oaks</option>
+<option value="36">TX - Spring</option>
+<option value="50">TX - Sugarland</option>
+<option value="85">WA - Vancouver</option>
+
+
 
             </select>
-         </td>
-      </tr>
-      <tr>
-         <td align="left" class="contactformtext">Interested In:</td>
-         <td align="left">
-            <select name="contact_form_interested_in" id="contact_form_interested_in" style="width:158px">
-               <option selected="selected" value="0">Please choose...</option>
 
-<option value="Building New Pool &amp; Spa">Building New Pool &amp; Spa</option>
+         </td>
+
+      </tr>
+
+      <tr>
+
+         <td align="left" class="contactformtext">Interested In:</td>
+
+         <td align="left">
+
+            <select name="contact_form_interested_in" id="contact_form_interested_in" style="width:158px">
+
+               <option selected="selected" value="0">- Please choose...</option>
+
+
+
+<option value="Building New Pool">Building New Pool</option>
+<option value="Building New Pool and Spa">Building New Pool and Spa</option>
 <option value="Building Inground Spa Only">Building Inground Spa Only</option>
 <option value="Adding a spa to an existing pool">Adding a spa to an existing pool</option>
 <option value="Replaster an existing pool/spa">Replaster an existing pool/spa</option>
 <option value="Remodeling an existing pool/spa">Remodeling an existing pool/spa</option>
 <option value="Pool Repair">Pool Repair</option>
 <option value="Pool Service">Pool Service</option>
+</select>
 
-            </select>
          </td>
-      </tr>
-      <tr>
-         <td align="left" class="contactformtext">Message:</td>
-         <td align="left"><label>
-                 <textarea id="contact_form_message" name="contact_form_message" cols="" rows="5" class="contact-input"></textarea>
-            </label></td>
-      </tr>
-   </tbody></table><br>
-<input type="hidden" id="SPP20111122" name="spiderprotection" value="xilLIJHFS[*T@G(*]@GWG((@GHFGSJHF">
-<script language="javascript" type="text/javascript">
-var uniquecode="xilLIJHFS[*T@G(*]@GWG((@GHFGSJHF";
-document.getElementById('SPP20111122').value = uniquecode; 
-</script>
-   <input style="cursor:hand;" type="image" src="/images/submitcontact.png" onclick="_gaq.push(['_trackEvent', 'signup', 'Button', 'Google Analytics']);"> 
-   </form>
-   <div style="height:15px;"></div>
-   <span class="contacttitle">Give us a Call</span><br><br>
-   <a href="/contact/"><img src="/images/locationphone.png" alt="All Locations" width="285" height="36" border="0"></a> 
-   </div>
-   
 
-    
+      </tr>
+
+      <tr>
+
+         <td align="left" class="contactformtext">Message:</td>
+
+         <td align="left"><label>
+
+                 <textarea id="contact_form_message" name="contact_form_message" cols="" rows="5" class="contact-input"></textarea>
+
+            </label></td>
+
+      </tr>
+
+   </tbody></table><br>
+
+<input type="hidden" id="SPP20111122" name="spiderprotection" value="xilLIJHFS[*T@G(*]@GWG((@GHFGSJHF">
+
+<script language="javascript" type="text/javascript">
+
+var uniquecode="xilLIJHFS[*T@G(*]@GWG((@GHFGSJHF";
+
+document.getElementById('SPP20111122').value = uniquecode; 
+
+</script>
+
+   <input style="cursor:hand;" type="image" src="/images/submitcontact.png" onclick="_gaq.push(['_trackEvent', 'signup', 'Button', 'Google Analytics']);"> 
+
+   </form>
+
+   <div style="height:15px;"></div>
+
+   <span class="contacttitle">Give us a Call</span><br><br>
+
+   <a href="/contact/"><img src="/images/locationphone.png" alt="All Locations" width="285" height="36" border="0"></a> 
+
+   </div>
     
    </div> 
    <script type="text/javascript">
 /* <![CDATA[ */
+
 var google_conversion_id = 1016650469;
+
 var google_conversion_language = "en";
+
 var google_conversion_format = "1";
+
 var google_conversion_color = "ffffff";
+
 var google_conversion_label = "KYRPCMu5zwIQ5bXj5AM";
+
 var google_conversion_value = 0;
-if (1) {
+
 google_conversion_value = 1;
-}
+
 /* ]]> */
 </script>
 <script type="text/javascript" src="http://www.googleadservices.com/pagead/conversion.js">
@@ -477,44 +998,92 @@ google_conversion_value = 1;
 <div style="display:inline;">
 <img height="1" width="1" style="border-style:none;" alt="" src="http://www.googleadservices.com/pagead/conversion/1016650469/?value=1&amp;label=KYRPCMu5zwIQ5bXj5AM&amp;guid=ON&amp;script=0"/>
 </div>
-</noscript>
- 
+</noscript> 
+
 			<div id="content">
+
+
 
 			
 
+
+
+
+
 				<div id="post-1424" class="post-1424 page type-page status-publish hentry">
-											<h1 class="entry-title">Privacy Policy</h1>
+
 					
+						<h1 class="entry-title">Privacy Policy</h1>
+
+					
+
+
 					<div class="entry-content">
-						<p><strong>Your Privacy</strong><br>Your privacy is important to us. To better protect your privacy we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used. To make this notice easy to find, we make it available on our homepage and at every point where personally identifiable information may be requested.
-</p><p><strong>Google Adsense and the DoubleClick DART Cookie</strong><br>Google, as a third party advertisement vendor, uses cookies to serve ads on this site. The use of DART cookies by Google enables them to serve adverts to visitors that are based on their visits to this website as well as other sites on the internet.</p>
-<p>To opt out of the DART cookies you may visit the Google ad and content network privacy policy at the following url <a href="http://www.google.com/privacy_ads.html" onclick="javascript:_gaq.push(['_trackEvent','outbound-article','http://www.google.com']);">http://www.google.com/privacy_ads.html</a> Tracking of users through the DART cookie mechanisms are subject to Google’s own privacy policies.</p>
-<p>Other Third Party ad servers or ad networks may also use cookies to track users activities on this website to measure advertisement effectiveness and other reasons that will be provided in their own privacy policies, Premier Pools &amp; Spas | Swimming Pool Company has no access or control over these cookies that may be used by third party advertisers.
-</p><p><strong>Collection of Personal Information</strong><br>When visiting Premier Pools &amp; Spas | Swimming Pool Company, the IP address used to access the site will be logged along with the dates and times of access. This information is purely used to analyze trends, administer the site, track users movement and gather broad demographic information for internal use. Most importantly, any recorded IP addresses are not linked to personally identifiable information.</p>
-<p><strong>Links to third party Websites</strong><br>We have included links on this site for your use and reference. We are not responsible for the privacy policies on these websites. You should be aware that the privacy policies of these sites may differ from our own. </p>
-<p><strong>Changes to this Privacy Statement</strong><br>The contents of this statement may be altered at any time, at our discretion. </p>
-<p>If you have any questions regarding the privacy policy of Premier Pools &amp; Spas then you may contact us at sales@smartproseo.com
-</p><p>
-</p><div style="font-style:italic;font-size:10px;">Last updated Wed, 31 Aug 2011 23:34</div>
-																	</div><!-- .entry-content -->
+
+						<p><strong>Your Privacy</strong><br>
+Your privacy is important to us. To better protect your privacy we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used. To make this notice easy to find, we make it available on our homepage and at every point where personally identifiable information may be requested.</p>
+<p>&nbsp;</p>
+<p><strong>Google Adsense and the DoubleClick DART Cookie</strong><br>
+Google, as a third party advertisement vendor, uses cookies to serve ads on this site. The use of DART cookies by Google enables them to serve adverts to visitors that are based on their visits to this website as well as other sites on the internet.</p>
+<p>To opt out of the DART cookies you may visit the Google ad and content network privacy policy at the following url <a onclick="javascript:_gaq.push(['_trackPageview', '/out/www.google.com/privacy_ads.html']);" href="http://www.google.com/privacy_ads.html">http://www.google.com/privacy_ads.html</a> Tracking of users through the DART cookie mechanisms are subject to Google’s own privacy policies.</p>
+<p>Other Third Party ad servers or ad networks may also use cookies to track users activities on this website to measure advertisement effectiveness and other reasons that will be provided in their own privacy policies, Premier Pools &amp; Spas | Swimming Pool Company has no access or control over these cookies that may be used by third party advertisers.</p>
+<p>&nbsp;</p>
+<p><strong>Collection of Personal Information</strong><br>
+When visiting Premier Pools &amp; Spas | Swimming Pool Company, the IP address used to access the site will be logged along with the dates and times of access. This information is purely used to analyze trends, administer the site, track users movement and gather broad demographic information for internal use. Most importantly, any recorded IP addresses are not linked to personally identifiable information.</p>
+<p>&nbsp;</p>
+<p><strong>Links to third party Websites</strong><br>
+We have included links on this site for your use and reference. We are not responsible for the privacy policies on these websites. You should be aware that the privacy policies of these sites may differ from our own.</p>
+<p>&nbsp;</p>
+<p><strong>Changes to this Privacy Statement</strong><br>
+The contents of this statement may be altered at any time, at our discretion.</p>
+<p>If you have any questions regarding the privacy policy of Premier Pools &amp; Spas then you may contact us at corporate@ppas.com</p>
+<p>&nbsp;</p>
+<div style="font-style: italic; font-size: 10px;">Last updated Wed, 31 Aug 2011 23:34</div>
+
+						
+						
+					</div><!-- .entry-content -->
+
 				</div><!-- #post-## -->
+
+
 
 				
 
+
+
+
+
 			</div><!-- #content -->
+
 		</div><!-- #container -->
+
         
+
    
+
+
 	</div><!-- #main -->
+
 <div align="center" style="color:#FFCC33; font-size:16px; font-family:calibri; font-weight:bold;"> 
-  <p>swimming pool builder - swimming pool contractor </p>
+
+  <h1>swimming pool builders</h1><h1>swimming pool contractors </h1>
+
+    <h3>pool contractors</h3> <h3>pool builders</h3><h3>swimming pool construction</h3><br>
+
   <p>CLICK HERE TO VIEW OUR COMPANY BROCHURE<br>(<a href="http://www.premierpoolsandspas.com/brochure/" target="_blank" style="color:#ffffff;">online version</a>) (<a href="http://www.premierpoolsandspas.com/pdf/PremierPoolsBrochure.pdf" target="_blank" style="color:#ffffff;">download pdf</a>) </p>
+
  
-<div align="right" style="color:#FFCC33; font-size:16px; font-family:calibri; font-weight:bold;">Each office independently owned and operated</div> </div>
+
+<div align="right" style="color:#FFCC33; font-size:16px; font-family:calibri; font-weight:bold;">Each office is an independently owned and operated licensee<br>
+<br>
+<br>
+<a href="privacy">Privacy Policy</a></div> </div>
+
 	<div id="footer">      
+
         <div class="footer-main-nav"><ul id="menu-main-menu-1" class="menu"><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-25"><a title="Home" href="/">Home</a></li>
-<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-155"><a title="Swimming Pools" href="/?page_id=8">Swimming Pools</a>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-155"><a title="Swimming Pools" href="/Swimming-Pools/">Swimming Pools</a>
 <ul class="sub-menu">
 	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-30"><a title="Inground Swimming Pools" href="http://www.premierpoolsandspas.com/inground-swimming-pools/">Inground Pools</a></li>
 	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-29"><a title="Geometric Swimming  Pools" href="http://www.premierpoolsandspas.com/geometric-swimming-pools/">Geometric Pools</a></li>
@@ -526,7 +1095,7 @@ google_conversion_value = 1;
 	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-26"><a title="Commercial Pools" href="http://www.premierpoolsandspas.com/commercial-swimming-pools/">Commercial Pools</a></li>
 </ul>
 </li>
-<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-156"><a title="Spas &amp; Hot Tubs" href="/?page_id=37">Spas &amp; Hot Tubs</a>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-156"><a title="Spas &amp; Hot Tubs" href="/hot-tub/">Spas &amp; Hot Tubs</a>
 <ul class="sub-menu">
 	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-42"><a title="Above Ground Spas and Hot Tubs" href="http://www.premierpoolsandspas.com/hot-tub/">Above Ground Spas / Hot Tubs</a></li>
 	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-41"><a title="Inground" href="http://www.premierpoolsandspas.com/inground-spa/">Inground</a></li>
@@ -562,7 +1131,7 @@ google_conversion_value = 1;
 	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-112"><a title="Our Family" href="http://www.premierpoolsandspas.com/family-premier-pools/">Our Family</a></li>
 	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-113"><a title="Pool Safety" href="http://www.premierpoolsandspas.com/pool-safety/">Pool Safety</a></li>
 	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-114"><a title="Career Opportunities" href="http://www.premierpoolsandspas.com/career/">Career Opportunities</a></li>
-	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-115"><a title="Become a Premier Licensee" href="http://www.premierpoolsandspas.com/licensee/">Become a Premier Licensee</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-115"><a title="Become a Premier Licensee" href="http://www.premierpoolsandspas.com/ppas-licensee/">Become a Premier Licensee</a></li>
 	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-116"><a title="Pool Maintenance" href="http://www.premierpoolsandspas.com/maintenance-swimming-pools/">Pool Maintenance</a></li>
 	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-117"><a title="FAQs" href="http://www.premierpoolsandspas.com/questions-swimming-pools/">FAQs</a></li>
 	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2608"><a title="Premier Pools Brochure" href="http://www.premierpoolsandspas.com/pdf/PremierPoolsBrochure.pdf" onclick="javascript:_gaq.push(['_trackEvent','download','http://www.premierpoolsandspas.com/pdf/PremierPoolsBrochure.pdf']);">Premier Pools Brochure</a></li>
@@ -570,34 +1139,63 @@ google_conversion_value = 1;
 </li>
 <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-159"><a title="Locations" href="http://www.premierpoolsandspas.com/contact/">Locations</a>
 <ul class="sub-menu">
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-5202"><a href="#">Alabama</a>
+	<ul class="sub-menu">
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5200"><a href="http://www.premierpoolsandspas.com/?page_id=5176">Auburn</a></li>
+	</ul>
+</li>
 	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2610"><a title="Arizona">Arizona</a>
 	<ul class="sub-menu">
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4603"><a href="http://www.premierpoolsandspas.com/locations/arizona/casa-grande/">Casa Grande</a></li>
+		<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-4843"><a href="http://www.premierpoolsandspas.com/locations/arizona/phoenix/">Chandler</a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4313"><a href="http://www.premierpoolsandspas.com/locations/arizona/gilbert/">Gilbert</a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4513"><a href="http://www.premierpoolsandspas.com/locations/arizona/glendale/">Glendale</a></li>
 		<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1333"><a title="Goodyear" href="http://www.premierpoolsandspas.com/locations/arizona/goodyear/">Goodyear</a></li>
 		<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1334"><a title="Peoria" href="http://www.premierpoolsandspas.com/locations/arizona/peoria/">Peoria</a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4095"><a href="http://www.premierpoolsandspas.com/locations/arizona/mesa/">Mesa</a></li>
 		<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1335"><a title="Phoenix" href="http://www.premierpoolsandspas.com/locations/arizona/phoenix/">Phoenix</a></li>
-		<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1336"><a title="Tucson" href="http://www.premierpoolsandspas.com/locations/arizona/tucson/">Tucson</a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4398"><a href="http://www.premierpoolsandspas.com/locations/arizona/scottsdale/">Scottsdale</a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4840"><a href="http://www.premierpoolsandspas.com/locations/arizona/tucson/">Tucson</a></li>
 	</ul>
 </li>
 	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-139"><a title="California">California</a>
 	<ul class="sub-menu">
 		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1161"><a title="Alameda/Contra Costa" href="http://www.premierpoolsandspas.com/locations/california/alameda-swimming-pool-builder/">Alameda/Contra Costa</a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5064"><a href="http://www.premierpoolsandspas.com/locations/california/bakersfield-swimming-pool-builder/">Bakersfield</a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3874"><a href="http://www.premierpoolsandspas.com/locations/california/chico-swimming-pool-builder/">Chico</a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4004"><a href="http://www.premierpoolsandspas.com/locations/california/clovis-fresno-ca/">Clovis – Fresno</a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3894"><a href="http://www.premierpoolsandspas.com/locations/california/galt-swimming-pool-builder/">Galt</a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5006"><a href="http://www.premierpoolsandspas.com/locations/california/glendale-burbank-swimming-pool-builder/">Glendale – Burbank</a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5027"><a href="http://www.premierpoolsandspas.com/locations/california/inland-empire-swimming-pool-builder/">Inland Empire</a></li>
 		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1162"><a title="Lodi" href="http://www.premierpoolsandspas.com/locations/california/lodi-swimming-pool-builder/">Lodi</a></li>
-		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1153"><a title="Modesto/Central Valley" href="http://www.premierpoolsandspas.com/locations/california/modesto-central-valley-swimming-pool-builder/">Modesto/Central Valley</a></li>
+		<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-4934"><a>Los Angeles</a>
+		<ul class="sub-menu">
+			<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4945"><a href="http://www.premierpoolsandspas.com/locations/california/east-los-angeles-swimming-pool-builder/">- East Los Angeles</a></li>
+			<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4974"><a href="http://www.premierpoolsandspas.com/locations/california/los-angeles-south-bay-swimming-pool-builder/">- Los Angeles South Bay</a></li>
+			<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4935"><a href="http://www.premierpoolsandspas.com/locations/california/west-los-angeles-swimming-pool-builder/">- West Los Angeles</a></li>
+		</ul>
+</li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3932"><a href="http://www.premierpoolsandspas.com/locations/california/los-gatos-swimming-pool-builder/">Los Gatos</a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4017"><a href="http://www.premierpoolsandspas.com/locations/california/madera-county/">Madera County</a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4918"><a href="http://www.premierpoolsandspas.com/locations/california/modesto-central-valley-swimming-pool-builder-2/">Modesto – Central Valley</a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3958"><a href="http://www.premierpoolsandspas.com/locations/california/morgan-hill-swimming-pool-builder/">Morgan Hill</a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2269"><a title="Murrieta" href="http://www.premierpoolsandspas.com/locations/california/temecula/murrieta/">Murrieta</a></li>
 		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1154"><a title="Orange County" href="http://www.premierpoolsandspas.com/locations/california/orange-county-swimming-pool-builder/">Orange County</a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4911"><a href="http://www.premierpoolsandspas.com/locations/california/palm-desert/">Palm Desert</a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5008"><a href="http://www.premierpoolsandspas.com/locations/california/pasadena-swimming-pool-builder/">Pasadena</a></li>
 		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1155"><a title="Redding" href="http://www.premierpoolsandspas.com/locations/california/redding-swimming-pool-builder/">Redding</a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2268"><a title="Riverside" href="http://www.premierpoolsandspas.com/locations/california/temecula/riverside/">Riverside</a></li>
 		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1156"><a title="Roseville" href="http://www.premierpoolsandspas.com/locations/california/roseville-swimming-pool-supplies/">Roseville</a></li>
 		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1157"><a title="Sacramento" href="http://www.premierpoolsandspas.com/locations/california/sacramento-swimming-pool-builder/">Sacramento</a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5007"><a href="http://www.premierpoolsandspas.com/locations/california/san-bernadino-swimming-pool-builder/">San Bernadino</a></li>
 		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1158"><a title="San Diego" href="http://www.premierpoolsandspas.com/locations/california/san-diego-swimming-pool-builder/">San Diego</a></li>
 		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1159"><a title="San Jose" href="http://www.premierpoolsandspas.com/locations/california/san-jose-swimming-pool-builder/">San Jose</a></li>
 		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1160"><a title="Santa Clarita/San Fernando Valley" href="http://www.premierpoolsandspas.com/locations/california/santa-clarita-san-fernando-valley-swimming-pool-builder/">Santa Clarita/San Fernando Valley</a></li>
 		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1150"><a title="Sonoma/Marin/San Mateo Counties" href="http://www.premierpoolsandspas.com/locations/california/sonoma-marin-san-mateo-swimming-pool-builder/">Sonoma/Marin/San Mateo Counties</a></li>
-		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2186"><a title="Temecula" href="http://www.premierpoolsandspas.com/locations/california/temecula/">Temecula</a>
-		<ul class="sub-menu">
-			<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2269"><a title="Murrieta" href="http://www.premierpoolsandspas.com/locations/california/temecula/murrieta/">Murrieta</a></li>
-			<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2268"><a title="Riverside" href="http://www.premierpoolsandspas.com/locations/california/temecula/riverside/">Riverside</a></li>
-		</ul>
-</li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2186"><a title="Temecula" href="http://www.premierpoolsandspas.com/locations/california/temecula/">Temecula</a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3913"><a href="http://www.premierpoolsandspas.com/locations/california/tracy-swimming-pool-builder/">Tracy</a></li>
 		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1152"><a title="Vacaville/Solano/Napa Counties" href="http://www.premierpoolsandspas.com/locations/california/vacaville-solano-napa-swimming-pool-builder/">Vacaville/Solano/Napa Counties</a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5081"><a href="http://www.premierpoolsandspas.com/locations/california/visalia-swimming-pool-builder/">Visalia</a></li>
 	</ul>
 </li>
 	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-3647"><a href="#">Connecticut</a>
@@ -607,14 +1205,19 @@ google_conversion_value = 1;
 </li>
 	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-3382"><a title="Daytona Beach" href="#">Florida</a>
 	<ul class="sub-menu">
-		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3381"><a title="Daytona Beach" href="http://www.premierpoolsandspas.com/daytona-beac/">Daytona Beach</a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4834"><a href="http://www.premierpoolsandspas.com/bradenton/">Bradenton</a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3381"><a title="Daytona Beach" href="http://www.premierpoolsandspas.com/daytona-beach/">Daytona Beach</a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4624"><a href="http://www.premierpoolsandspas.com/deland/">DeLand</a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4625"><a href="http://www.premierpoolsandspas.com/new-smyrna-beach/">New Smyrna Beach</a></li>
 		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3393"><a title="Sarasota" href="http://www.premierpoolsandspas.com/sarasota/">Sarasota</a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4832"><a href="http://www.premierpoolsandspas.com/hillsborough-county/">Hillsborough County</a></li>
 		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3435"><a title="St. Augustine" href="http://www.premierpoolsandspas.com/st-augustine/">St. Augustine</a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4833"><a href="http://www.premierpoolsandspas.com/venice/">Venice</a></li>
 	</ul>
 </li>
-	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2076"><a title="Georgia">Georgia</a>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-5203"><a href="#">Georgia</a>
 	<ul class="sub-menu">
-		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2104"><a title="Augusta" href="http://www.premierpoolsandspas.com/locations/georgia/augusta/">Augusta</a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5201"><a href="http://www.premierpoolsandspas.com/?page_id=5174">Columbus</a></li>
 	</ul>
 </li>
 	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2611"><a title="Illinois">Illinois</a>
@@ -648,26 +1251,15 @@ google_conversion_value = 1;
 		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3638"><a href="http://www.premierpoolsandspas.com/locations/north-new-jersey-swimming-pool-builder/">North New Jersey</a></li>
 	</ul>
 </li>
-	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-3099"><a href="#">New Mexico</a>
-	<ul class="sub-menu">
-		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3121"><a title="Albuquerque" href="http://www.premierpoolsandspas.com/albuquerque/">Albuquerque</a></li>
-		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3120"><a title="Santa Fe" href="http://www.premierpoolsandspas.com/new-mexico/santa-fe/">Santa Fe</a></li>
-	</ul>
-</li>
 	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-3221"><a title="New York" href="#">New York</a>
 	<ul class="sub-menu">
 		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3614"><a href="http://www.premierpoolsandspas.com/hudsonvalley-swimming-pool-builder/">Hudson Valley</a></li>
-		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3637"><a href="http://www.premierpoolsandspas.com/locations/long-island/">Long Island</a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3637"><a href="http://www.premierpoolsandspas.com/?page_id=3545">Long Island</a></li>
 	</ul>
 </li>
 	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-3100"><a href="#">Nevada</a>
 	<ul class="sub-menu">
 		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3115"><a title="Las Vegas" href="http://www.premierpoolsandspas.com/locations/nevada/las-vegas-henderson-boulder-city-nv-swimming-pool-builder/">Las Vegas</a></li>
-	</ul>
-</li>
-	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-3103"><a href="#">South Carolina</a>
-	<ul class="sub-menu">
-		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3116"><a title="North Augusta" href="http://www.premierpoolsandspas.com/locations/south-carolina/north-augusta/">North Augusta</a></li>
 	</ul>
 </li>
 	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-3163"><a title="INDIA">INDIA</a>
@@ -679,16 +1271,25 @@ google_conversion_value = 1;
 	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-3104"><a href="#">Texas</a>
 	<ul class="sub-menu">
 		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3110"><a title="Austin" href="http://www.premierpoolsandspas.com/locations/texas/austin-swimming-pool-builder/">Austin</a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4685"><a href="http://www.premierpoolsandspas.com/locations/texas/bandera/">Bandera</a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4079"><a href="http://www.premierpoolsandspas.com/locations/texas/baytown-swimming-pool-builder/">Baytown</a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4642"><a href="http://www.premierpoolsandspas.com/locations/texas/boerne/">Boerne</a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4655"><a href="http://www.premierpoolsandspas.com/locations/texas/bulverde/">Bulverde</a></li>
 		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3111"><a title="Dallas" href="http://www.premierpoolsandspas.com/locations/texas/dallas-allen-mckinney-frisco-plano-swimming-pool-builder/">Dallas</a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4677"><a href="http://www.premierpoolsandspas.com/locations/texas/helotes/">Helotes</a></li>
 		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3112"><a title="Houston" href="http://www.premierpoolsandspas.com/locations/texas/houston-swimming-pool-builder/">Houston</a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4067"><a href="http://www.premierpoolsandspas.com/locations/texas/katy-swimming-pool-builder/">Katy</a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4053"><a href="http://www.premierpoolsandspas.com/locations/texas/pearland-swimming-pool-builder/">Pearland</a></li>
 		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3114"><a title="San Antonio" href="http://www.premierpoolsandspas.com/locations/texas/sanantonio/">San Antonio</a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4663"><a href="http://www.premierpoolsandspas.com/locations/texas/scenic-oaks/">Scenic Oaks</a></li>
 		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3113"><a title="Spring" href="http://www.premierpoolsandspas.com/locations/texas/thewoolands-swimming-pool-builder/">Spring</a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4033"><a href="http://www.premierpoolsandspas.com/locations/texas/sugarland-swimming-pool-builder/">Sugarland</a></li>
 	</ul>
 </li>
 </ul>
 </li>
 <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3093"><a title="Testimonials" href="http://www.premierpoolsandspas.com/testimonials/">Testimonials</a></li>
-<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3094"><a title="Licensee Info" href="http://www.premierpoolsandspas.com/licensee/">Licensee Info</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3094"><a title="Licensee Info" href="http://www.premierpoolsandspas.com/ppas-licensee/">Licensee Info</a></li>
 <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3090"><a title="FAQs" href="http://www.premierpoolsandspas.com/questions-swimming-pools/">FAQs</a></li>
 <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3228"><a title="Financing" href="http://www.premierpoolsandspas.com/pricing/">Financing</a></li>
 <li class="menu-item menu-item-type-post_type menu-item-object-page current-menu-ancestor current-menu-parent current_page_parent current_page_ancestor menu-item-3091"><a title="Contact" href="http://www.premierpoolsandspas.com/contact/">Contact</a>
@@ -698,30 +1299,101 @@ google_conversion_value = 1;
 	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3161"><a title="Refer a Friend" href="http://www.premierpoolsandspas.com/refer/">Refer a Friend</a></li>
 </ul>
 </li>
-</ul></div>	</div><!-- footer -->
+</ul></div>
+	</div><!-- footer -->
+
+
 
 </div><!-- #wrapper -->
+
  
-<a href="http://www.biggiweb.com" target="_blank" title="Powered by Biggiweb Internet Solutions, Inc."></a>
+
+
+
+
+<!-- Google Analytics Code added by Web Ninja Google Analytics plugin v1.0.7: http://josh-fowler.com/?page_id=70 -->
+
+
 <script type="text/javascript">
+
+
+  var _gaq = _gaq || [];
+
+
+  _gaq.push(['_setAccount', 'UA-XXXXXX-X']);
+
+
+  _gaq.push(['_trackPageview']);
+
+
+
+
+
+  (function() {
+
+
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+
+
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+
+
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+
+
+  })();
+
+
+</script>
+
+
+<!-- Web Ninja Google Analytics Done -->
+
+
+<a href="http://www.biggiweb.com" target="_blank" title="Powered by Biggiweb Internet Solutions, Inc.">&nbsp;</a>
+
+<script type="text/javascript">
+
 adroll_adv_id = "SL27LFSZCFEXTDX25YQV5K";
+
 adroll_pix_id = "ATJVR3FDIRGXVGAJWCINUE";
+
 (function () {
+
 var oldonload = window.onload;
+
 window.onload = function(){
+
 __adroll_loaded=true;
+
 var scr = document.createElement("script");
+
 var host = (("https:" == document.location.protocol) ? "https://s.adroll.com" : "http://a.adroll.com");
+
 scr.setAttribute('async', 'true');
+
 scr.type = "text/javascript";
+
 scr.src = host + "/j/roundtrip.js";
+
 ((document.getElementsByTagName('head') || [null])[0] ||
+
 document.getElementsByTagName('script')[0].parentNode).appendChild(scr);
+
 if(oldonload){oldonload()}};
+
 }());
+
 </script>
 
 
 
 
-   </body></html>
+
+
+
+
+
+
+   
+</body></html>
