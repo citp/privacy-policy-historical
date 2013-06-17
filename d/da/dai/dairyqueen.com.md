@@ -1,51 +1,63 @@
-> *The following text is extracted and transformed from the dairyqueen.com privacy policy that was archived on 2012-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120619005144id_/http%3A//www.dairyqueen.com/us-en/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dairyqueen.com privacy policy that was archived on 2013-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130617214040id_/http%3A//www.dairyqueen.com/us-en/Privacy-Statement) for the most accurate reproduction.*
 
-# Privacy Statement - Dairy Queen
+# Dairy Queen
 
-Effective 3/01/2005
+Effective July 27, 2012
 
-International Dairy Queen, Inc. (IDQ) and its subsidiary companies respect your privacy. Please review this Privacy Statement to learn what information we collect and how the information is used. We reserve the right to modify this Privacy Statement. We recommend that you check back from time to time for changes. 
+Please read this privacy statement carefully, because by using our website, you accept and agree to the terms stated below. We may change the terms of this privacy statement at any time, and your continued use of this site is your agreement to any change in terms.
 
-## Collecting Information:
+**Collecting Information:**
 
-Our goal is to create website content that requires minimum collection of information from our visitors. We collect information at different parts of the site:
+Personal Information: In this privacy statement “personal information” means any information about an identifiable individual. We only collect personal information (such as name, address, telephone number, email, birth date, gender or zip code/postal code) when you voluntarily submit it to us. For example, personal information may be collected from you to get your feedback on our website or products, to join a club, to enter you in a survey, contest or sweepstakes, if you submit a question, comment or complaint, if you request or submit information about becoming a franchisee, or for an online cake order. We will only use the information you submit for the purposes for which it is submitted, except with your consent or as required or permitted by law. If you join a club, you may receive newsletters, email or special offers. You may unsubscribe from these features at any time.
 
-(1) _Blizzard_ Fan Club: If you enroll in the _Blizzard_ Fan Club, we will reques personally identifiable information at the time of registration, such as name, e-mail address, birthdate and zip code. You must be 13 or older to register for the _Blizzard_ Fan Club. Members of the Fan Club may receive newsletters, e-mail or special offers from IDQ or their local independent _DairyQueen_ ® operator. You may unsubscribe to these features of the Fan Club at any time.
+Comments about a Specific Location: Most of our locations are independently owned and operated franchises, and we do not own or operate these locations. Comments submitted to us about a specific location will be forwarded to the franchised location, along with any contact information you provide with your comment. If you have comments regarding a specific location, we recommend you contact that location directly so that they may personally and immediately assist you. We do not guarantee the privacy practices of any specific franchised location.
 
-(2) Contests and Surveys: From time to time, the site may feature voluntary contests or surveys, which may request personal contact information (name, address, telephone number, e-mail address). We will use the information provided in connection with the contest or curvey conducted.
+Cookies: We use limited cookie technology. Cookies are used to store bits of information on your hard drive to remember information about that makes using our site more convenient. We do not use cookies to collect or store personal information. 
 
-(3) Merchandise Store: If you order items from our IDQ Merchandise Store, we will collect your billing and shipping information to fulfill your order. 
+Log Files: We use IP addresses to analyze trends, administer the site, track user’s movement, and gather broad demographic information for aggregate use.
 
-(4) Cookies: We do use limited “cookie” technology. Cookies are used to store bits of information on your hard drive to remember pages you have visited in the past. We do not use cookies to collect or store personal information. 
+**Sharing Information:**
 
-(5) Log Files: We use IP addresses to analyze trends, administer the site, track user’s movement, and gather broad demographic information for aggregate use. IP addresses are not linked to personally identifiable information.
+We may share personal information within the _Dairy Queen_ _®_ / _Orange Julius_ _®_ family of companies. The _Dairy Queen_ / _Orange Julius_ family includes International Dairy Queen, Inc., American Dairy Queen Corporation, Orange Julius of America, and their affiliates. Information shared within the _Dairy Queen_ / _Orange Julius_ family will comply with this privacy statement.
 
-## Sharing Information:
+Cakes ordered through our dqcakes.com website are prepared at a _DQ_ location, which are independently owned and operated franchises. We may share the contact information you provide for a cake order to a franchised location for purposes of tracking, responding to, and fulfilling your order.
 
-We do not disclose any personally identifiable information to any third parties, except in the following three circumstances:
+We may share personal information with third parties: (a) to provide services to you, such as purchasing and shipping goods, or credit card processing; (b) for services provided to us, such as web hosting, email services for clubs, or for contest or sweepstakes fulfillment; (c) for the purposes of a merger, sale or other corporate reorganization (including professional advisors involved in completing such a transaction); you agree that any of our successors may use and disclose the information for the same purposes as described in this statement; or (d) as required by law, or as needed to cooperate in any law enforcement investigation or legal proceeding. We may share aggregated demographic information (data that cannot identify any individual person) with our partners and advertisers.
 
-(1) We use an outside shipping company to ship orders, and a credit card processing company to bill users for goods and services. We have agreements with these companies requiring that they keep this information confidential. These companies do not retain, share, store or use personally identifiable information for any secondary purposes.
+If you participate in a contest or sweepstakes, we may publish information such as your name, city of residence or prize winnings.
 
-(2) We may also partner with other parties, such as web hosting companies or marketing firms, to provide services related to the _DQ_ web site. These third parties will also have access to information submitted. We have agreements with these companies requiring that they keep this information confidential. These companies do not retain, share, store or use personally identifiable information for any secondary purposes. 
+**Links:**
 
-(3) We may share contact information with our franchisees, who may independently own and opeate the _Dairy Queen_ in your community. 
+This website may contain links to other sites. Please be aware that we are not responsible for the privacy practices of such other sites. We encourage our users to be aware when they leave our site and to read the privacy statements of each and every website that collects personally identifiable information. This privacy statement applies solely to information collected by this website.
 
-We may share aggregated demographic information (data that cannot identify any individual person) with our partners and advertisers.
+**Franchisee Websites:**
 
-## Links:
+Many _Dairy Queen_ and _Orange Julius_ locations are independently owned and operated businesses and may have their own websites. This privacy statement does not apply to sites run by independently owned and operated locations.
 
-This web site may contain links to other sites. Please be aware that we are not responsible for the privacy practices of such other sites. We encourage our users to be aware when they leave our site and to read the privacy statements of each and every web site that collects personally identifiable information. This privacy statement applies solely to information collected by this web site.
+**Children’s Privacy:**
 
-Individual franchised restaurants and stores that link to this page are independently owned and operated businesses. We do not own or operate these restaurants. IDQ is a separate entity with its own website that is located at [www.idq.com](http://www.idq.com/ "www.idq.com"). This Privacy Statement does not apply to sites owned by independent franchised restaurants and stores.
+We may have separate websites directed toward children. Our privacy policies regarding children are posted on those websites.
 
-## Security:
+**Security:**
 
-This web site takes precautions to protect your information. When our order form asks you to enter sensitive information (such as credit card number), that information is encrypted and is protected by Secure Socket Layering (SSL) encryption. We also take precautions to maintain the security of information maintained off-line. 
+This website takes precautions to protect your information.
 
-## Access:
+**Feedback:**
 
-You may access the personal information that we have about you by contacting IDQ at the address below. 
+If you have any questions or concerns about this Privacy Statement, our privacy practices, or your personal information that is under our control, please contact us at:
 
-## Feedback:
+privacy@idq.com
 
-If you have any questions or concerns about this Privacy Statement and/or our privacy practices, please contact Jamie Guse at [jamie.guse@idq.com](mailto:jamie.guse@idq.com "mailto:jamie.guse@idq.com") or International Dairy Queen, 7505 Metro Blvd, Minneapolis, MN 55439. 
+or
+
+Privacy Compliance Officer
+
+International Dairy Queen, Inc.
+
+7505 Metro Blvd
+
+Minneapolis, MN 55439
+
+**Visitor Agreement:**
+
+Your use of this site is also subject to our [Visitor Agreement.](https://web.archive.org/views/generic/Main.aspx?id=178 "Visitor Agreement")
