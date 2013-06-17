@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nebu.com privacy policy that was archived on 2012-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121102111128id_/http%3A//www.nebu.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nebu.com privacy policy that was archived on 2013-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130617035904id_/http%3A//www.nebu.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -13,3 +13,27 @@ If you would like more information about Yahoo! data collection and to know your
 Further information about cookies
 
 The Interactive Advertising Bureau (IAB) is an industry body that develops standard and guidelines to support online business processes. It has produced a series of web pages which explain how cookies work and how they can be managed.
+
+## List of cookies
+
+### Nebu cookies
+
+Cookie name | Cookie lifetime | Cookie purpose  
+---|---|---  
+GUEST_LANGUAGE_ID| Session*| This cookie is used for showing the website on the proper language.  
+JSESSIONID| Session*| This cookie is used for managing user session on the Nebu website.  
+nebu_cookie_info| 365 days| This cookie stored if the cookie information is already shown for the current user.  
+  
+### Third party cookies
+
+Cookie name | Cookie lifetime | Cookie purpose  
+---|---|---  
+__utmb  
+__utmc  
+__utma  
+__utmz| 30 minutes  
+Session*  
+2 years  
+6 months| Nebu uses Google Analytics for anonymous information about the use of the website (statistical data), such as the visit session, identify unique visitors, traffic source, etc.  
+  
+* These cookies will expire when browser is closed. Session cookies only last for the duration of a user's visit to a website. Session cookies help improve the functionality of website by passing information on from one page to another.
