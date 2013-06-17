@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the recruitireland.com privacy policy that was archived on 2012-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121229134456id_/http%3A//www.recruitireland.com/privacypolicy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the recruitireland.com privacy policy that was archived on 2013-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130617215205id_/http%3A//www.recruitireland.com/privacypolicy.asp) for the most accurate reproduction.*
 
 # RecruitIreland.com Confidentiality and Privacy Policy
 
@@ -95,15 +95,8 @@ We use third-party advertising companies to serve ads when you visit our website
   
 
 
-We may collect information about your computer including if available, your IP Address, Operating System, Browser Type and Location for statistical and behavioural tracking. This information helps us to enhance our service to you. This does not identify any individual; it is used as a tool to gather broad levels of data for analysis and to measure audience size and patterns of usage such as visitor numbers and how unique they are.
+We may collect information about your computer including if available: your IP Address, Operating System, Browser Type and Location for statistical and behavioural tracking. This information helps us to enhance our service to you. This does not identify any individual; it is used as a tool to gather broad levels of data for analysis and to measure audience size and patterns of usage such as visitor numbers and how unique they are.
 
-We may also collect a cookie file for the same reason, these are small files that a site or service provider transfers to your hard drive through your browser which essentially enables us to remember certain non-identifiable information. You can disable cookies through Internet options on your browser menu at any time.
-
-  
-
-
-## Who is RecruitIreland.com?
-
-We are owned by Thomas Crosbie Holdings, you can find further information about them and us on [www.tch.ie](http://www.tch.ie/)
+We may also collect a cookie file for the same reason. [Click here for more information](https://web.archive.org/cookies.asp)
 
 Back
