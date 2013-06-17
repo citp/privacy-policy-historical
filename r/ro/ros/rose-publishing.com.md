@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the rose-publishing.com privacy policy that was archived on 2012-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120614195902id_/http%3A//www.rose-publishing.com/Assets/ClientPages/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rose-publishing.com privacy policy that was archived on 2013-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130617151424id_/http%3A//www.rose-publishing.com/Assets/ClientPages/privacy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy - Rose Publishing
-
-## Privacy Policy
 
 At Rose-Publishing.com, we realize that our customers are concerned about their personal privacy. Will my address be rented out? Will my email be given to spammers? The following paragraphs address these and most other issues regarding our company's Privacy Policy. However, if you do have a question that is not dealt with on this page, please feel free to email, write, or call us and we will be happy to assist you in finding the information you need.
 
