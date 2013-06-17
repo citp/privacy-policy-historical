@@ -1,10 +1,6 @@
-> *The following text is extracted and transformed from the securitywonks.net privacy policy that was archived on 2012-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121128082603id_/http%3A//www.securitywonks.net/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the securitywonks.net privacy policy that was archived on 2013-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130617195605id_/http%3A//www.securitywonks.net/static/privacy-policy) for the most accurate reproduction.*
 
-# SecurityWonks.net - Privacy Policy
-
- 
-
-#### SecurityWonks.net >>Privacy Policy
+# SecurityWonks.net - Free Software Downloads
 
 Introduction
 
@@ -60,3 +56,6 @@ Privacy Policy Changes
 If there were any major update in our information practices, we will update that here and you can see the updates online soon after the updates are placed online in the website.
 
 _This privacy policy was initially updated on 26 November 2007 and later had updates on 28 January 2010 and recent update on 14 Jan 2010._
+
+  
+
