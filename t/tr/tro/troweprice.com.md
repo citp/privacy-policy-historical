@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the troweprice.com privacy policy that was archived on 2011-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111120014532id_/http%3A//corporate.troweprice.com/ccw/home/privacyPolicy.do) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the troweprice.com privacy policy that was archived on 2013-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130618004249id_/http%3A//corporate.troweprice.com/ccw/home/privacyPolicy.do) for the most accurate reproduction.*
 
 # T. Rowe Price investment management
 
