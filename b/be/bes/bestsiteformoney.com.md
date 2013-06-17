@@ -1,10 +1,6 @@
-> *The following text is extracted and transformed from the bestsiteformoney.com privacy policy that was archived on 2012-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121216124249id_/http%3A//bestsiteformoney.com/go/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bestsiteformoney.com privacy policy that was archived on 2013-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130618010539id_/http%3A//bestsiteformoney.com/go/privacy.php) for the most accurate reproduction.*
 
 # Best Site for Money
-
-  
-Recommended  
-[](http://bestsiteformoney.com/go/bannerclick.php?id=15)
 
 Best Site for Money Privacy Policy
 
