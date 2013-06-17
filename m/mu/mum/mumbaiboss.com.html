@@ -1,8 +1,8 @@
-<!--The following is the downloaded HTML source of the mumbaiboss.com privacy policy that was archived on 2012-12-30.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121230194748id_/http%3A//mumbaiboss.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the mumbaiboss.com privacy policy that was archived on 2013-06-18.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130618011824id_/http%3A//mumbaiboss.com/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns:og="http://ogp.me/ns#" xmlns:fb="https://www.facebook.com/2008/fbml" xmlns="http://www.w3.org/1999/xhtml" dir="ltr" lang="en-US"><head>
-        <meta content="text/html;charset=UTF-8">
+        <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
         <title>Privacy Policy | Mumbai Boss</title>
                 <link rel="profile" href="http://gmpg.org/xfn/11">
         <link rel="SHORTCUT ICON" href="http://mumbaiboss.com/wp-content/themes/mumbaiboss_v2/images/favicon.ico">
@@ -11,7 +11,7 @@
     <link rel="stylesheet" type="text/css" media="all" href="http://mumbaiboss.com/wp-content/themes/mumbaiboss_v2/css/960.css">
     <link rel="stylesheet" type="text/css" media="all" href="http://mumbaiboss.com/wp-content/themes/mumbaiboss_v2/css/tab.css">
     <!--[if IE ]><link href="http://mumbaiboss.com/wp-content/themes/mumbaiboss_v2/css/ie.css" rel="stylesheet" type="text/css" /><![endif]-->
-            	<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="http://mumbaiboss.com/wp-content/themes/mumbaiboss_v2/javascripts/jquery-1.4.4.js"></script>
+            	<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script id="facebook-jssdk" async="" src="//connect.facebook.net/en_US/all.js"></script><script type="text/javascript" src="http://mumbaiboss.com/wp-content/themes/mumbaiboss_v2/javascripts/jquery-1.4.4.js"></script>
 	<script type="text/javascript" src="http://mumbaiboss.com/wp-content/themes/mumbaiboss_v2/javascripts/common.js"></script>
     <script type="text/javascript" src="http://mumbaiboss.com/wp-content/themes/mumbaiboss_v2/javascripts/jquery-ui-1.8.6.custom.min.js"></script>
             <link rel="pingback" href="http://mumbaiboss.com/xmlrpc.php">
@@ -24,7 +24,7 @@
 <link rel="next" title="Terms of Use" href="http://mumbaiboss.com/terms-of-use/">
 <meta name="generator" content="WordPress 3.4.2">
 
-<!-- All in One SEO Pack 1.6.15.2 by Michael Torbert of Semper Fi Web Design[338,395] -->
+<!-- All in One SEO Pack 1.6.15.2 by Michael Torbert of Semper Fi Web Design[365,422] -->
 <link rel="canonical" href="http://mumbaiboss.com/privacy-policy/">
 <!-- /all in one seo pack -->
     </head>
@@ -39,19 +39,64 @@
                         <a href="http://mumbaiboss.com/feed/" title="RSS Feed" class="rss">rss</a>
                         <a href="http://twitter.com/mumbaiboss" target="_blank" title="Twitter" class="twitter">Twitter</a>
                         <a href="http://www.facebook.com/pages/MumbaiBoss/278991906126" target="_blank" title="Facebook" class="facebook">Facebook</a>
-                        <a href="http://www.flickr.com/mumbaiboss/" target="_blank" title="Flickr" class="flickr">Flickr</a>
-                    </div>
-                    <div class="f-right">
-                        <div class="SearchSection">
-                            <form method="get" id="searchform" action="http://mumbaiboss.com/">
+                                            </div>
+                    <div class="rightBlock">
+                                                <!--Facebook Starts here - Added on 21st Mar 2012-->
+                        <div id="fb_button">
+                            <div class="fb_button_class" id="fb_login_logout_none"></div>
+                            <fb:login-button autologoutlink="true" perms="email,user_checkins,friends_checkins,read_stream,friends_likes"></fb:login-button>
+                            <div id="fb-root"></div>
+                            <script>
+                                window.fbAsyncInit = function() {
+                                    FB.init({
+                                        appId      : '202295493174432',
+                                        status     : true,
+                                        cookie     : true,
+                                        xfbml      : true
+                                    });
+                                    FB.getLoginStatus(function (response) {
+                                        //alert(response.status);
+                                        if (response.status === 'connected') {
+                                            jQuery("div.fb_button_class").attr("id","fb_logout_div");
+                                        } 
+                                        else {
+                                            jQuery("div.fb_button_class").attr("id","fb_login_div");
+                                        }
+                                    });
+                                    FB.Event.subscribe("auth.logout", function() {
+                                        window.location.reload(true);
+                                        jQuery("div.fb_button_class").attr("id","fb_login_div");
+                                    });
+                                    FB.Event.subscribe('auth.login', function(response) {
+                                        window.location.reload(true);
+                                        jQuery("div.fb_button_class").attr("id","fb_logout_div");
+                                    });
+                                    FB.Event.subscribe('auth.sessionChange', function(response) {
+                                        window.location.reload(true);
+                                    });
+                                };
+
+                                // Load the SDK Asynchronously
+                                (function(d){
+                                    var js, id = 'facebook-jssdk', ref = d.getElementsByTagName('script')[0];
+                                    if (d.getElementById(id)) {return;}
+                                    js = d.createElement('script'); js.id = id; js.async = true;
+                                    js.src = "//connect.facebook.net/en_US/all.js";
+                                    ref.parentNode.insertBefore(js, ref);
+                                }(document));
+                            </script>
+                        </div>
+                        <!--Facebook ends here-->
+                                                <div class="f-right">
+                            <div class="SearchSection">
+                                <form method="get" id="searchform" action="http://mumbaiboss.com/">
 	<div><label class="screen-reader-text" for="s">Search for:</label>
-	<input name="s" class="search-field" size="25" id="s" type="text" onfocus="this.value=''" onblur="this.value='SEARCH MUMBAI BOSS'" value="SEARCH MUMBAI BOSS">
+	<input name="s" class="search-field" id="s" type="text" onfocus="this.value=''" onblur="this.value='SEARCH MUMBAI BOSS'" value="SEARCH MUMBAI BOSS">
 	</div>
-	</form>                        </div>
-                        <!--a href=""><img src="http://mumbaiboss.com/wp-content/themes/mumbaiboss_v2/images/facebook_connct.gif" width="145" height="16" alt="Facebook Connect" /></a-->
+	</form>                            </div>
+                        </div>
                     </div>
-                    
-                                        <div class="clear"></div>
+                    <div class="clear"></div>
                 </div>
 
                 <!--LOGO-->
@@ -59,7 +104,7 @@
                     <div>
                         <a href="http://mumbaiboss.com/" title="Mumbai Boss"><span>MUMBAI BOSS</span></a>
                     </div>
-                    <div align="center" class="logoSlide"><div id="date">Dec 30, 2012</div>  <div id="temperature"><img src="http://mumbaiboss.com/wp-content/themes/mumbaiboss_v2/images/loading_animation.gif" alt="Loading Image"></div></div>
+                    <div align="center" class="logoSlide"><div id="date">Jun 18, 2013</div>  <div id="temperature"><img src="http://mumbaiboss.com/wp-content/themes/mumbaiboss_v2/images/loading_animation.gif" alt="Loading Image"></div></div>
                     <div id="weatherChannel" style="display:none;"></div>
                     <script type="text/javascript">
                         $(document).ready(function(){
@@ -143,50 +188,11 @@
 			<div id="comments">
 
 
-			<!--h3 id="comments-title"--><!--/h3-->
-            <h4>Comments (1)</h4>
-
-
-			<ol class="commentlist">
-					<li class="comment even thread-even depth-1" id="li-comment-16395">
-		<div id="comment-16395">
-		<div class="comment-author vcard">
-						<cite class="fn"><a href="http://nazhminaknopku.ru/forum/member.php?u=220709" rel="external nofollow" class="url">Tushar Bhatti</a></cite> <span class="says"> | </span>		</div><!-- .comment-author .vcard -->
-		
-		<div class="comment-meta commentmetadata"><a href="http://mumbaiboss.com/privacy-policy/comment-page-1/#comment-16395">
-			September 20, 2012 at 12:10 pm</a>		</div><!-- .comment-meta .commentmetadata -->
-
-		<div class="comment-body"><p>Hey, I think your site might be having browser compatibility issues.<br>
-When I look at your website in Safari, it looks fine<br>
-but when opening in Internet Explorer, it has some overlapping.<br>
-I just wanted to give you a quick heads up! Other then that, terrific<br>
-blog!</p>
-</div>
-
-		<div class="reply">
-					</div><!-- .reply -->
-	</div><!-- #comment-##  -->
-
-	</li>
-			</ol>
+	<p class="nocomments">Comments are closed.</p>
 
 
 
-
-								<div id="respond">
-				<h3 id="reply-title">Leave a comment <small><a rel="nofollow" id="cancel-comment-reply-link" href="/privacy-policy/#respond" style="display:none;">Cancel reply</a></small></h3>
-									<form action="http://mumbaiboss.com/wp-comments-post.php" method="post" id="commentform">
-																			<p class="comment-notes">Your email address will not be published. Required fields are marked <span class="required">*</span></p>							<p class="comment-form-author"><label for="author">Name</label> <span class="required">*</span><input id="author" name="author" type="text" value="" size="30" aria-required="true"></p>
-<p class="comment-form-email"><label for="email">Email</label> <span class="required">*</span><input id="email" name="email" type="text" value="" size="30" aria-required="true"></p>
-<p class="comment-form-url"><label for="url">Website</label><input id="url" name="url" type="text" value="" size="30"></p>
-												<p class="comment-form-comment"><label for="comment">Comment</label><textarea id="comment" name="comment" cols="45" rows="8" aria-required="true"></textarea></p>						<p class="form-allowed-tags">You may use these <abbr title="HyperText Markup Language">HTML</abbr> tags and attributes:  <code>&lt;a href="" title=""&gt; &lt;abbr title=""&gt; &lt;acronym title=""&gt; &lt;b&gt; &lt;blockquote cite=""&gt; &lt;cite&gt; &lt;code&gt; &lt;del datetime=""&gt; &lt;em&gt; &lt;i&gt; &lt;q cite=""&gt; &lt;strike&gt; &lt;strong&gt; </code></p>						<p class="form-submit">
-							<input name="submit" type="submit" id="submit" value="Post Comment">
-							<input type="hidden" name="comment_post_ID" value="6" id="comment_post_ID">
-<input type="hidden" name="comment_parent" id="comment_parent" value="0">
-						</p>
-						<p style="display: none;"><input type="hidden" id="akismet_comment_nonce" name="akismet_comment_nonce" value="7f8c05bd15"></p>					</form>
-							</div><!-- #respond -->
-						
+								
 </div><!-- #comments -->
                     </div>
         <div class="clear"></div>
