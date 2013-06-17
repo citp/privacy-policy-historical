@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the vax.co.uk privacy policy that was archived on 2012-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121216020639id_/http%3A//www.vax.co.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vax.co.uk privacy policy that was archived on 2013-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130617145100id_/http%3A//www.vax.co.uk/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Vax Privacy Policy And Website Terms Of Use | Vax
 
 This privacy statement is provided by Vax Limited (referred to as 'Vax' in these terms) for the information of visitors ('you' or 'your') to its vax.co.uk website. Vax Limited is committed to ensuring that your privacy is protected. This privacy statement explains how Vax uses the information collected about you and how you can instruct Vax if you prefer to limit the use of that information. In these terms, 'third parties' means persons, firms or companies that are not subsidiary or associated or joint venture companies of Vax Limited.
 
