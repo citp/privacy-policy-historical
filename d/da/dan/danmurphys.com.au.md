@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the danmurphys.com.au privacy policy that was archived on 2012-10-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121005090637id_/http%3A//danmurphys.com.au/help/privacy-policy-content) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the danmurphys.com.au privacy policy that was archived on 2013-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130617163308id_/http%3A//danmurphys.com.au/help/privacy-policy-content) for the most accurate reproduction.*
 
 # 
 
