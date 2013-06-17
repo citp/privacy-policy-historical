@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the kidsfootlocker.com privacy policy that was archived on 2012-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120617005252id_/http%3A//www.kidsfootlocker.com/customerserv/help%3AprivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kidsfootlocker.com privacy policy that was archived on 2013-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130618004619id_/http%3A//www.kidsfootlocker.com/customerserv/help%3AprivacyPolicy) for the most accurate reproduction.*
 
-# Kids Foot Locker
+# Customer Service - OtherServices - Privacy Policy | Kids Foot Locker
 
 
 
