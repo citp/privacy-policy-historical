@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bollygraph.com privacy policy that was archived on 2012-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121215043404id_/http%3A//www.bollygraph.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bollygraph.com privacy policy that was archived on 2013-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130617032103id_/http%3A//www.bollygraph.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Latest Bollywood News | Bollywood Movies, Actress and Wallpapers
 
@@ -16,7 +16,7 @@ Even though this website does not require that you provide it with personal info
 
 The site uses cookies to track and collect information when you visit this site. A cookie is a small file that resides on your computer and is used by your web browser each time you visit a website. We use cookies to identify computers that give us information about your previous visit. Most leading internet browsers have cookies turned on by default but you can also turn off this feature or erase cookies if you don’t wish to be automatically tracked. However we don’t guarantee that our website will respond as quickly as it does when cookies are turned on. You will also forfeit an opportunity to easily and quickly find what you are interested in.  
 Our cookies don’t collect specific identity related information, just information relating to your computer settings, internet connection, OS and your IP address. It will also collect your browsing patters and geographic location.  
-The advertising on our website is from our advertising partners that serve ads based on what our readers are interested in. This ensures better targeted ads and fewer ads for the general visitor. The information that the ads are based on is not specific i.e. street address, email or phone number but rather general information relating to your time on the site.
+The advertising on our website is from our advertising partners that serve ads based on what our readers are interested in. This ensures better targeted ads and fewer ads for the general visitor. The information that the ads are based on is not specific i.e. street address, email or phone number but rather general information relating to your time on the site. Google as a third party vender  uses a special [DART cookie](http://www.doubleclick.com/privacy/faq.aspx "DART Cookie Description")  to serve ads on our website and other websites. If you don’t want to have this DART cookie on your computer, [you can opt out](http://www.google.com/privacy_ads.html "Google Ad Privacy") .
 
 ### Using Your Information
 
