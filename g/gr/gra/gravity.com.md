@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gravity.com privacy policy that was archived on 2012-10-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121010152308id_/http%3A//www.gravity.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gravity.com privacy policy that was archived on 2013-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130618015516id_/http%3A//gravity.com/privacy) for the most accurate reproduction.*
 
 # Gravity.com
 
