@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the boxwoodtech.com privacy policy that was archived on 2012-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121211024903id_/http%3A//www.boxwoodtech.com/about/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the boxwoodtech.com privacy policy that was archived on 2013-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130618014918id_/http%3A//boxwoodtech.com/about/privacy.cfm) for the most accurate reproduction.*
 
-# Boxwood Technology, Inc.
+# Privacy
 
 Privacy
 
@@ -26,7 +26,7 @@ Your Consent
 Boxwood reserves the right to update our privacy policy to reflect changes, the means we use to collect information or the usage of collected information. When this occurs we make reasonable efforts to notify our clients, including posting a prominent notice on our site and/or via email. This policy was posted October, 2007. Your use of the Boxwood application signifies your assent to the Boxwood Privacy Policy. For more information regarding privacy, please refer to the privacy policies located on the websites of which the online career center application in question resides. 
 
 How to Contact Us  
-We welcome your questions and comments surrounding privacy. Please direct any communications, including requests to update or correct contact information us at: 888-491-8833. 
+We welcome your questions and comments surrounding privacy. Please contact us at 888-491-8833. 
 
 Privacy Policy  
 Boxwood.   
