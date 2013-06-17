@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wellness.com privacy policy that was archived on 2012-07-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120708092000id_/http%3A//www.wellness.com/docs/11323/wellness-com-privacy-policy/site-info) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wellness.com privacy policy that was archived on 2013-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130618002457id_/http%3A//www.wellness.com/docs/11323/wellness-com-privacy-policy/site-info) for the most accurate reproduction.*
 
 # Wellness.com Privacy Policy
 
@@ -71,6 +71,7 @@ We use third-party advertising companies to serve ads when you visit our website
   * Google, as a third party vendor, uses cookies to serve ads on your site. 
   * Google's use of the DART cookie enables it to serve ads to your users based on their visit to your sites and * other sites on the Internet. 
   * Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at [_www.google.com/privacy_ads.html_](http://www.google.com/privacy_ads.html). 
+  * ValueClick, as a third party vendor, users cookies to serve ads on this site and across the web. You may opt-out [_here_](http://info.evidon.com/more_info/7761?ecaid%5b7761%5d=60950-756830). 
 
 
 
@@ -96,6 +97,6 @@ It is not technologically reasonable to remove each and every record of the info
 
 Privacy as it applies to the Internet is a dynamic, rapidly developing area. In the future, the company may make significant changes to its privacy policy affecting the use of the Personal Information it collects. The company will notify users by email of any significant material changes to its privacy policy and obtain your "opt-in" consent to any significant new uses of your Personal Information, if it was collected from you prior to a significant change in this policy. The company may also make non-significant changes to our Privacy Policy that generally will not affect the use of your Personal Information. You should also check this posted Privacy Policy for any future changes. If you do not agree to the terms of this Privacy Policy or any revised policy, please exit the site immediately and terminate your membership in Wellness.com. 
 
-Revised June 18, 2012 · Copyright © 2012 Wellness.com. · All rights reserved. 
+Revised August 20, 2012 · Copyright © 2012 Wellness.com. · All rights reserved. 
 
 Disclaimer: References or links to other sites from Wellness.com does not constitute recommendation or endorsement by Wellness.com. We bear no responsibility for the content of websites other than Wellness.com. 
