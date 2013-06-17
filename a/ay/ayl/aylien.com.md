@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the aylien.com privacy policy that was archived on 2012-10-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121019132020id_/http%3A//www.aylien.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aylien.com privacy policy that was archived on 2013-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130617104810id_/http%3A//aylien.com/privacy) for the most accurate reproduction.*
 
 # AYLIEN
 
