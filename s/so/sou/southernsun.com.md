@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the southernsun.com privacy policy that was archived on 2012-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121216121230id_/http%3A//www.tsogosunhotels.com/Utility/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the southernsun.com privacy policy that was archived on 2013-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130617061034id_/http%3A//www.tsogosunhotels.com/Utility/Privacy) for the most accurate reproduction.*
 
-# Privacy | Tsogo Sun
+# Privacy Policy | Tsogo Sun
 
 **Tsogo  Sun Statement of Privacy**
 
