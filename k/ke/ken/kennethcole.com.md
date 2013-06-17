@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kennethcole.com privacy policy that was archived on 2012-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121129184312id_/http%3A//www.kennethcole.com/helpdesk/index.jsp%3Fdisplay%3Dsafety%26subdisplay%3Dprivacy%26clickid%3Dfooter_privacyPolicy_img) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kennethcole.com privacy policy that was archived on 2013-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130618003822id_/http%3A//www.kennethcole.com/helpdesk/index.jsp%3Fdisplay%3Dsafety%26subdisplay%3Dprivacy%26clickid%3Dfooter_privacyPolicy_img) for the most accurate reproduction.*
 
 # Kenneth Cole : Help Desk
 
@@ -8,7 +8,7 @@
 
 Kenneth Cole Productions, Inc. Privacy Policy
 
-Kenneth Cole Productions, Inc. (together with its wholly owned affiliates and subsidiaries " **KCP** " " **we** ," " **us** ") is concerned about online privacy issues and wants you to be familiar with how we collect, use and disclose Personally Identifiable Information (as defined below). This Privacy Policy (the " **Policy** ") describes our practices in connection with Personally Identifiable Information that we collect through our website located at [www.kennethcole.com](https://web.archive.org/web/20121129184312id_/http%3A//www.kennethcole.com/helpdesk/www.kennethcole.com) and through our company-owned stores (collectively, the " **Site** "). 
+Kenneth Cole Productions, Inc. (together with its wholly owned affiliates and subsidiaries " **KCP** " " **we** ," " **us** ") is concerned about online privacy issues and wants you to be familiar with how we collect, use and disclose Personally Identifiable Information (as defined below). This Privacy Policy (the " **Policy** ") describes our practices in connection with Personally Identifiable Information that we collect through our website located at [www.kennethcole.com](https://web.archive.org/web/20130618003822id_/http%3A//www.kennethcole.com/helpdesk/www.kennethcole.com) and through our company-owned stores (collectively, the " **Site** "). 
 
 By using the Site, you agree to the terms of this Policy. If you do not agree to the terms of this Policy, please do not use the Site. We reserve the right to change this Policy without prior notice. You can determine when this Policy was last revised by referring to the _"Last Updated"_ legend at the top of this page. Any changes to our Policy will become effective upon our posting of the revised Policy on the Site. Use of the Site following such changes constitutes your acceptance of the revised Policy then in effect. 
 
@@ -51,13 +51,7 @@ In some instances, we may combine Non-PII with PII. If we combine any Non-PII wi
       2. II. If you prefer that we not share Non-PII with partners that use tracking technologies to make advertising more efficient by using behavioral tracking, please [CLICK HERE](http://www.networkadvertising.org/) and opt-out of third party collecting non-PII during your visits through the NAI. 
 We will endeavor to comply with your request as soon as reasonably practicable. Please note that if you opt-out as described above, we will not be able to remove PII about you from the databases of third parties with which we have already shared PII as of the date that we implement your opt-out request. If you wish to cease receiving marketing-related e-mails from third parties, please contact such third parties directly or utilize any opt-out mechanisms set forth in their respective privacy policies or marketing-related e-mails. 
     2. **Changing PII.** If you would like to review, correct, update PII that you have previously provided to us through the Site, you may do so by signing on to my account and modifying your information. 
-  6. **Mobile Alerts**  
-You may decide to have promotional text messages sent directly to your mobile device. This program is completely voluntary, and messages will be sent to you only if you have opted in to receive them. Message and data rates may apply. If you have errantly received a marketing text message without opting in to the program, or if you wish to opt out of receiving text messages, you can cancel the program at any time by either:
-    * **Texting the keyword "STOP" to the short code 52653;** or
-    * Contacting Client Services by email at CLIENTSERVICES@KENNETHCOLE.COM or by phone at 1 800 KEN COLE.
-  
-You will need to provide your mobile phone number in order to be removed from the program. It may take up to 10 days to process your stop request. You may receive additional text messages from Kenneth Cole during this time. Kenneth Cole respects your privacy and your mobile number will only be used in this text message program by Kenneth Cole and its third party marketing partners administering this program on Kenneth Cole's behalf as set forth above.
-  7. **Contacting Us.** If you have any questions regarding this Policy, please [contact us via e-mail](https://web.archive.org/helpdesk/index.jsp?subdisplay=contact&display=store). Please note that e-mail communications will not necessarily be secure; accordingly you should not include credit card information or other sensitive information in your e-mail correspondence with us. We can be reached via postal mail at: 
+  6. **Contacting Us.** If you have any questions regarding this Policy, please [contact us via e-mail](https://web.archive.org/helpdesk/index.jsp?subdisplay=contact&display=store). Please note that e-mail communications will not necessarily be secure; accordingly you should not include credit card information or other sensitive information in your e-mail correspondence with us. We can be reached via postal mail at: 
 
        KCP Productions, Inc.  
        603 West 50th Street   
