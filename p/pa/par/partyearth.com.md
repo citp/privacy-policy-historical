@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the partyearth.com privacy policy that was archived on 2012-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121217030837id_/http%3A//www.partyearth.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the partyearth.com privacy policy that was archived on 2013-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130618011222id_/http%3A//www.partyearth.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Party Earth
 
-**Effective December 1, 2007:**
+**Effective May 7, 2013:**
 
 At Party Earth LLC ("Party Earth") we feel very strongly about our customers' privacy. Any information that you give us is held with the utmost care and will not be used other than as described in this privacy policy.
 
@@ -18,7 +18,11 @@ We collect personal information from you on PartyEarth.com when you provide it a
 
 **User Registration**
 
-Registration on PartyEarth.com is strictly voluntary. To register on PartyEarth.com, you must provide your name, e-mail address, age, and geographic information. This information is required in the registration process at PartyEarth.com, but we recognize that this is your personal information and, except as we explain below, we do not distribute this information to third parties without your approval. Becoming a registered user on PartyEarth.com enables you to access Party Earth content. At any time, you may review or update the personal information we have collected from you online by logging on with your e-mail address and password and then going to the "My Party Earth" section of the Site.
+Registration on PartyEarth.com is strictly voluntary. To register on PartyEarth.com, you must provide your name, e-mail address, age, and geographic information. This information is required in the registration process at PartyEarth.com, but we recognize that this is your personal information and, except as we explain below, we do not distribute this information to third parties without your approval. Becoming a registered user on PartyEarth.com enables you to access Party Earth content. At any time, you may review or update the personal information we have collected from you online by logging on with your e-mail address and password and then going to your user profile.
+
+**Email Communications**
+
+When you sign up for a Party Earth account, we opt you in to receive emails and communications from Party Earth. You can manage your email preferences and opt out of emails via your user profile or by contacting customer service at service@partyearth.com. Note that you cannot opt out of receiving required administrative or legal notices.
 
 **Credit Card Policy**
 
@@ -38,7 +42,7 @@ With respect to the ads appearing on PartyEarth.com, information about your visi
 
 **How We Use Your Information**
 
-We use your e-mail address to send you updates and newsletters periodically about new features, special offers and targeted promotional items available on PartyEarth.com. You may choose to not receive certain of these communications by so indicating during the registration process, indicating in your user profile, or in response to one of our e-mails. Each communication will clearly explain how to opt out of future communications. Any demographic information that you voluntarily share with us is used to tailor PartyEarth.com to your interests. We also may share this demographic information with other companies with which we do business.
+We use your e-mail address to send you updates and newsletters periodically about new features, special offers and targeted promotional items available on PartyEarth.com. You may choose to not receive certain of these communications by so indicating in your user profile, or in response to one of our e-mails. Each communication will clearly explain how to opt out of future communications. Any demographic information that you voluntarily share with us is used to tailor PartyEarth.com to your interests. We also may share this demographic information with other companies with which we do business.
 
 **With Whom We Share Information**
 
@@ -60,7 +64,7 @@ We may provide links to third party Web sites as a service to our users. Please 
 
 **How You Can Access or Correct Your Information**
 
-If you are a registered PartyEarth.com user you can make changes to your personal information at any time by clicking on "My Party Earth" and editing your user profile, or by e-mailing us at service@partyearth.com. At any time you can also review your personal information in the "My Party Earth" section of the Site.
+If you are a registered PartyEarth.com user you can make changes to your personal information at any time by clicking on your user profile, or by e-mailing us at service@partyearth.com. At any time you can also review your personal information in your user profile.
 
 **Questions**
 
@@ -70,13 +74,13 @@ Protecting your privacy is one of our highest priorities. If you have any questi
 
 Upon request, PartyEarth.com will:
 
-  1. Remove your personal and account information from our database, thereby deactivating your membership 
+  1. Remove your personal and account information from our database, thereby deactivating your membership
   2. Correct personal information that you state is erroneous
-  3. Permit you to "opt out" of further e-mail contact (excepting notification from PartyEarth.com of major changes to the service) while still allowing access to the site 
+  3. Permit you to "opt out" of further e-mail contact (excepting notification from PartyEarth.com of major changes to the service) while still allowing access to the site
 
 
 
-To request a correction or cancellation, send us a message through the Contact Us form on the Site, or e-mail us at service@partyearth.com. 
+To request a correction or cancellation, send us a message through the Contact Us form on the Site, or e-mail us at service@partyearth.com.
 
 **Notification of Changes**
 
