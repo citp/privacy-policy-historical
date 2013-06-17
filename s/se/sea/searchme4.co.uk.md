@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the searchme4.co.uk privacy policy that was archived on 2012-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121216182339id_/http%3A//www.searchme4.co.uk/Public/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the searchme4.co.uk privacy policy that was archived on 2013-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130617044212id_/http%3A//www.searchme4.co.uk/Public/Privacy.aspx) for the most accurate reproduction.*
 
 # Business Directory, Business Directories, Business Search, UK
 
@@ -13,20 +13,20 @@ Kemps Publishing Ltd is committed to protecting your privacy and only collects t
 
 ##  Cookies
 
-A cookie is an element of data that certain websites write to your computer''s hard drive when you visit them. Our site uses cookies to log search types and frequency. We use cookies to deliver content that matches your specific interests and to safeguard our information from illegal theft and data mining. We use this data on an anonymous basis and we do not correlate this information with personal data of any user. Cookies cannot be used by themselves to identify you. 
+A cookie is an element of data that certain websites write to your computer's hard drive when you visit them. Our site uses cookies to log search types and frequency. We use cookies to deliver content that matches your specific interests and to safeguard our information from illegal theft and data mining. We use this data on an anonymous basis and we do not correlate this information with personal data of any user. Cookies cannot be used by themselves to identify you. 
 
-Most web site browsers automatically accept cookies, but you can alter your browser settings to display a warning before accepting a cookie, or to refuse all cookies. However, disabling the receipt of cookies from SearchMe4 may result in you being unable to use certain features of the site. For more information about cookies, visit www.allaboutcookies.org. 
+Most web site browsers automatically accept cookies, but you can alter your browser settings to display a warning before accepting a cookie, or to refuse all cookies. However, disabling the receipt of cookies from Searchme4 may result in you being unable to use certain features of the site. For more information about cookies, visit www.allaboutcookies.org. 
 
-##  Browser Level Informations
+##  Browser Level Information
 
-Kemps Publishing Ltd web servers automatically collect information about a site user''s IP address, browser type and referrer by reading this information from the user''s browser (information provided by every user''s browser). This information is collected in a database and used (in an aggregated, anonymous manner) in our internal analysis of traffic patterns within our web site. This information is automatically logged by most websites. 
+Kemps Publishing Ltd web servers automatically collect information about a site user's IP address, browser type and referrer by reading this information from the user's browser (information provided by every user's browser). This information is collected in a database and used (in an aggregated, anonymous manner) in our internal analysis of traffic patterns within our web site. This information is automatically logged by most websites. 
 
 ##  External Links
 
-SearchMe4 contains links to advertiser websites. Kemps Publishing Ltd is not responsible for the privacy practices or the content of these websites, which are not directly controlled by Kemps Publishing Ltd. 
+Searchme4 contains links to advertiser websites. Kemps Publishing Ltd is not responsible for the privacy practices or the content of these websites, which are not directly controlled by Kemps Publishing Ltd. 
 
 ##  Security
 
-Kemps Publishing Ltd follows strict security procedures for the storage and disclosure of the information that you have provided in order to prevent unauthorised access, in accordance with data protection legislation. We do not collect sensitive information about you except when you knowingly provide it. In order to maintain the accuracy of our database, you can verify, update or remove your company/personal details by contacting us on [Info@SearchMe4.co.uk](mailto:Info@SearchMe4.co.uk) The SearchMe4 site has security measures in place to protect the loss, misuse and alteration of the information under our control. 
+Kemps Publishing Ltd follows strict security procedures for the storage and disclosure of the information that you have provided in order to prevent unauthorised access, in accordance with data protection legislation. We do not collect sensitive information about you except when you knowingly provide it. In order to maintain the accuracy of our database, you can verify, update or remove your company/personal details by contacting us on [info@searchme4.co.uk](mailto:Info@Searchme4.co.uk) The Searchme4 site has security measures in place to protect the loss, misuse and alteration of the information under our control. 
 
-If you have any further questions please email [ Privacy@SearchMe4.co.uk](mailto:Privacy@SearchMe4.co.uk)
+If you have any further questions please email [ privacy@searchme4.co.uk](mailto:Privacy@Searchme4.co.uk)
