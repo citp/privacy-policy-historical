@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ex.fm privacy policy that was archived on 2011-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110612002446id_/http%3A//ex.fm/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ex.fm privacy policy that was archived on 2013-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130617045442id_/http%3A//ex.fm/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - exfm
 
@@ -8,7 +8,7 @@ Exfm does not sell, trade or rent your personal information to others. We may us
 
 Exfm is a browser extension that works by saving links to mp3 files from web pages you visit while surfing. It then updates your browser extension with any new mp3 files to the pages you've already visited. Any mp3 file indexed is then available for playback in the extension, originating from the posted location. In addition to personal information you might voluntarily provide when you sign up, by the nature of its functionality, exfm software collects information regarding your Internet usage. Privacy controls include: deleting any individual item that you have visited and preventing the site from auto-updating songs into your music.
 
-Exfm also has publicly available profiles where you may share music you note within the extension. This publicly available profile requires a valid email address. 
+Exfm also has publicly available profiles where you may share music you love within the extension. This publicly available profile requires a valid email address. 
 
 Although we do not sell, trade or rent your information, we may release personal and/or non-personal information about you when you request us to do so. In addition, your information may also be accessed by exfm employees as necessary to provide customer support and troubleshoot problems.
 
@@ -20,4 +20,4 @@ At any time, you may request to view or update the personal information that is 
 
 Because the Internet is constantly evolving, so are our policies. By agreeing to our [terms of service](https://web.archive.org/terms), you agree to the terms of this Privacy Policy as it may be amended from time to time. While we may send you a copy of any updates, we recommend that you check back to view the policy at this site from time to time.
 
-If you have any questions regarding this Privacy Policy or our information practices, please contact exfm at privacy@extension.fm.
+If you have any questions regarding this Privacy Policy or our information practices, please contact exfm at privacy@ex.fm.
