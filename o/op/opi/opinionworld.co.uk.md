@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the opinionworld.co.uk privacy policy that was archived on 2012-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121114062325id_/http%3A//opinionworld.co.uk/policies/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the opinionworld.co.uk privacy policy that was archived on 2013-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130619014420id_/http%3A//opinionworld.co.uk/en-GB/policies/privacy) for the most accurate reproduction.*
 
-# None
+# 
 
 **Contents**
 
@@ -184,15 +184,7 @@ Council of Better Business Bureaus, Inc.
 
 BBB EU Safe Harbor
 
-4200 Wilson Boulevard, Suite 800
-
-Arlington, Virginia 22203 USA
-
-Phone: 703-276-0100
-
-Web: [www.us.bbb.org](http://www.us.bbb.org/)
-
-Email: [eusafeharbor@council.bbb.org](mailto:eusafeharbor@council.bbb.org)
+[www.bbb.org/us/safe-harbor-complaints](http://www.bbb.org/us/safe-harbor-complaints)
 
 **NOTE** **: THE DISPUTE RESOLUTION PROCEDURE DESCRIBED IN SECTION 11.B. IS ONLY AVAILABLE FOR CITIZENS OF EU MEMBER COUNTRIES.**
 
@@ -200,6 +192,6 @@ Email: [eusafeharbor@council.bbb.org](mailto:eusafeharbor@council.bbb.org)
 
 SSI hereby reserves the right, in SSI’s sole discretion, to make changes to this Privacy Policy. SSI encourages you to review this Privacy Policy on an ongoing basis. SSI will treat Personal Information in a manner consistent with the Privacy Policy under which the Personal Information was collected, unless SSI receives your consent to treat the Personal Information in a different manner. SSI will obtain your consent prior to changes that are of such nature that your consent is needed or required. For changes that do not require consent, your continued membership in or with a Panel, participation in a Survey, visitation of a Panel Website(s), or disclosure of Personal Information to SSI, after such changes are made will constitute your acceptance of the Privacy Policy as changed. 
 
-Please click [here](https://web.archive.org/sitecore/content/PANEL/Default/policies/privacy-uk2011.aspx) for the most recent prior version of this Privacy Policy.
+Please click [here](http://www.opinionworld.co.uk/policies/privacy-old) for the most recent prior version of this Privacy Policy.
 
 **Last Updated** : 24 August 2012
