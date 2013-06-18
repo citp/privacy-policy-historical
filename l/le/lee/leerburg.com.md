@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the leerburg.com privacy policy that was archived on 2012-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121221054103id_/http%3A//leerburg.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the leerburg.com privacy policy that was archived on 2013-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130618201048id_/http%3A//leerburg.com/privacy.htm) for the most accurate reproduction.*
 
 # Leerburg | Information about our Organization and Website
 
@@ -65,7 +65,7 @@ We do not collect or use personal data for any purpose other than that indicated
 
 If we wish to use your personal data for new purposes, we offer you the means to consent to those new purposes:
 
-> By sending an email - book@leerburg.com  
+> By sending an email - jeff@leerburg.com  
 >  By sending postal mail to this address - PO Box 218, Menomonie, WI 54751  
 >  By calling this telephone number - 715.235.6502
 
@@ -125,7 +125,7 @@ Access to the personal data we may hold about you
 
 You can ask us, by:
 
-  * Sending an email - book@leerburg.com  
+  * Sending an email - jeff@leerburg.com  
 
   * Sending postal mail to this address - PO Box 218, Menomonie, WI 54751  
 
@@ -135,7 +135,7 @@ You can ask us, by:
 
 Upon request, which you can indicate by:
 
-  * Sending an email - book@leerburg.com  
+  * Sending an email - jeff@leerburg.com  
 
   * Sending postal mail to this address - PO Box 218, Menomonie, WI 54751  
 
@@ -193,7 +193,7 @@ Address: | PO Box 218
 Menomonie, WI 54751  
 Phone Number: | 715.235.6502  
 Fax Number: | 715.235.8868  
-Email Address: | book@leerburg.com  
+Email Address: | jeff@leerburg.com  
 URL: | http://leerburg.com  
   
 We do not recommend another means by which visitors' concerns may be addressed.
