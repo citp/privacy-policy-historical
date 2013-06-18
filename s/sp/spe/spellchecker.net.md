@@ -1,91 +1,35 @@
-> *The following text is extracted and transformed from the spellchecker.net privacy policy that was archived on 2012-09-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120918085909id_/http%3A//www.spellchecker.net/privacyandreturnpolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the spellchecker.net privacy policy that was archived on 2013-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130618181625id_/http%3A//www.spellchecker.net/privacy-policy) for the most accurate reproduction.*
 
-# Spellchecker.net :: Privacy and Return Policy
+# Privacy policy | Spellchecker.net
 
-**What information do we collect?**
+## Privacy Policy for [spellchecker.net](https://web.archive.org/)
 
-We collect information from you when you register on our site, place an order, subscribe to our newsletter or respond to a survey. 
+If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at [info@spellchecker.net](mailto:info@spellchecker.net).
 
-When ordering or registering on our site, as appropriate, you may be asked to enter your: name, e-mail address or phone number. You may, however, visit our site anonymously.
+At [spellchecker.net](https://web.archive.org/), the privacy of our visitors is of extreme importance to us. This privacy policy document outlines the types of personal information is received and collected by spellchecker.net and how it is used.
 
-Google, as a third party vendor, uses cookies to serve ads on your site. Google's use of the DART cookie enables it to serve ads to your users based on their visit to your sites and other sites on the Internet. Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy.
+#### Log Files
 
-**What do we use your information for?**
+Like many other Web sites, spellchecker.net makes use of log files. The information inside the log files includes internet protocol ( IP ) addresses, type of browser, Internet Service Provider ( ISP ), date/time stamp, referring/exit pages, and number of clicks to analyze trends, administer the site, track user’s movement around the site, and gather demographic information. IP addresses, and other such information are not linked to any information that is personally identifiable.
 
-Any of the information we collect from you may be used in one of the following ways: 
+#### Cookies and Web Beacons
 
-  * To personalize your experience (your information helps us to better respond to your individual needs) 
-  * To improve our website (we continually strive to improve our website offerings based on the information and feedback we receive from you) 
-  * To improve customer service (your information helps us to more effectively respond to your customer service requests and support needs) 
-  * To administer a contest, promotion, survey or other site feature 
-  * To send periodic emails 
+[spellchecker.net](https://web.archive.org/) does use cookies to store information about visitors preferences, record user-specific information on which pages the user access or visit, customize Web page content based on visitors browser type or other information that the visitor sends via their browser.
 
-  
+#### DoubleClick DART Cookie
 
+.:: Google, as a third party vendor, uses cookies to serve ads on  [spellchecker.net](https://web.archive.org/).
 
-> The email address you provide for order processing, may be used to send you information and updates pertaining to your order, in addition to receiving occasional company news, updates, related product or service information, etc.
+.:: Google's use of the DART cookie enables it to serve ads to users based on their visit to spellchecker.net and other sites on the Internet.
 
-**How do we protect your information?**
-
-We implement a variety of security measures to maintain the safety of your personal information when you place an order or enter, submit, or access your personal information. 
-
-We offer the use of a secure server. All supplied sensitive/credit information is transmitted via Secure Socket Layer (SSL) technology and then encrypted into our Payment gateway providers database only to be accessible by those authorized with special access rights to such systems, and are required to?keep the information confidential.
-
-After a transaction, your private information (credit cards, social security numbers, financials, etc.) will not be stored on our servers.
-
-**Do we use cookies?**
-
-Yes (Cookies are small files that a site or its service provider transfers to your computers hard drive through your Web browser (if you allow) that enables the sites or service providers systems to recognize your browser and capture and remember certain information
-
-We use cookies to understand and save your preferences for future visits.
-
-**DoubleClick DART Cookie**
-
-Google, as a third party vendor, uses cookies to serve ads on www.spellchecker.net. Google's use of the DART cookie enables it to serve ads to users based on their visit to www.spellchecker.net and other sites on the Internet. Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at the following URL - <http://www.google.com/privacy_ads.html>
+.:: Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at the following URL - <http://www.google.com/privacy_ads.html>
 
 Some of our advertising partners may use cookies and web beacons on our site. Our advertising partners include: Google Adsense, Grammarly, Whitesmoke and other affiliate programs.
 
-These third-party ad servers or ad networks may use technology to the advertisements and links that appear on [www.spellchecker.net](http://www.spellchecker.net/) send directly to your browsers. They may automatically receive your IP address when this occurs. Other technologies ( such as cookies, JavaScript, or Web Beacons ) may also be used by the third-party ad networks to measure the effectiveness of their advertisements and / or to personalize the advertising content that you see. [www.spellchecker.net](http://www.spellchecker.net/) has no access to or control over these cookies that are used by third-party advertisers. 
+These third-party ad servers or ad networks may use technology to the advertisements and links that appear on spellchecker.net send directly to your browsers. They may automatically receive your IP address when this occurs. Other technologies ( such as cookies, JavaScript, or Web Beacons ) may also be used by the third-party ad networks to measure the effectiveness of their advertisements and / or to personalize the advertising content that you see.
 
-You should consult the respective privacy policies of these third-party ad servers for more detailed information on their practices as well as for instructions about how to opt-out of certain practices. [www.spellchecker.net's](http://www.spellchecker.net/) privacy policy does not apply to, and we cannot control the activities of, such other advertisers or web sites. If you wish to disable cookies, you may do so through your individual browser options. More detailed information about cookie management with specific web browsers can be found at the browsers' respective websites. 
+[spellchecker.net](https://web.archive.org/) has no access to or control over these cookies that are used by third-party advertisers.
 
-**Do we disclose any information to outside parties?**
+You should consult the respective privacy policies of these third-party ad servers for more detailed information on their practices as well as for instructions about how to opt-out of certain practices. spellchecker.net's privacy policy does not apply to, and we cannot control the activities of, such other advertisers or web sites.
 
-We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information. This does not include trusted third parties who assist us in operating our website, conducting our business, or servicing you, so long as those parties agree to keep this information confidential. We may also release your information when we believe release is appropriate to comply with the law, enforce our site policies, or protect ours or others rights, property, or safety. However, non-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses.
-
-**California Online Privacy Protection Act Compliance**
-
-Because we value your privacy we have taken the necessary precautions to be in compliance with the California Online Privacy Protection Act. We therefore will not distribute your personal information to outside parties without your consent.
-
-As part of the California Online Privacy Protection Act, all users of our site may make any changes to their information at anytime by logging into their Account Page and going to the 'Edit Profile' page.
-
-**Childrens Online Privacy Protection Act Compliance**
-
-We are in compliance with the requirements of COPPA (Childrens Online Privacy Protection Act), we do not collect any information from anyone under 13 years of age. Our website, products and services are all directed to people who are at least 13 years old or older.
-
-**Hosted spellchecking service privacy**
-
-All text data which is spell-checked by hosted service is sent to our server. Text data is processed and sent back to a client. Spell-checked content and user information is not collected. Separate words are collected anonymously - we store in logs user activity for further service improvements, specifically misspelled word, the action performed (change, change all, ignore, add to user dictionary) and the correct word selected for a misspelled word. This policy covers both services: WebSpellChecker (WSC) and SpellCheckAsYouType (SCAYT).
-
-**Your Consent**
-
-By using our site, you consent to our [web site privacy policy](http://www.freeprivacypolicy.com/).
-
-**Changes to our Privacy and Return Policy**
-
-If we decide to change our privacy policy, we will post those changes on this page. 
-
-**Return Policy**
-
-SpellChecker.net has a 100% satisfaction guarantee. We will take back any order that does not meet your requirements within 30 days of receiving the merchandise. If you wish to return an item, please contact SpellChecker.net.
-
-**Contacting Us**
-
-If there are any questions regarding this privacy policy you may contact us using the information below. 
-
-<http://www.spellchecker.net/>  
-PO Box 641697  
-Los Angeles, CA 90005  
-USA  
-info[at]spellchecker.net  
-+1 (310) 362-0280
+If you wish to disable cookies, you may do so through your individual browser options. More detailed information about cookie management with specific web browsers can be found at the browsers' respective websites.
