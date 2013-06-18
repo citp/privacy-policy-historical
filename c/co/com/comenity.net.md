@@ -1,48 +1,53 @@
-> *The following text is extracted and transformed from the comenity.net privacy policy that was archived on 2012-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120617171107id_/http%3A//www.comenity.net/comenity/Home/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the comenity.net privacy policy that was archived on 2013-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130618231419id_/http%3A//www.comenity.net/comenity/Home/Privacy) for the most accurate reproduction.*
 
 # Comenity - Privacy
 
-## Privacy statement
+## Privacy Policy
 
-Last revised January 19, 2012.
+Last Revised: February 2013
 
-This Privacy Policy (also referred to herein as our "Policy") has been created by Comenity, LLC ("Comenity" sometimes also referred to herein as "we" or "us") to demonstrate our commitment to online data protection and privacy. Our website includes areas in which you may provide personal information, therefore we have developed this Policy to inform you of Comenity’s practices concerning information we collect about you on this site. This Policy is available on our homepage and by clicking the privacy link at the bottom of every page throughout our website. If you have additional questions about this Policy, please contact us at _[webmaster@comenity.net](mailto:webmaster@comenity.com)_. This Policy governs the URL http://www.comenity.net, and describes what information our site collects about you, how it is collected and how it is used. This Policy does not apply to the treatment of personal information collected off-line, or to websites found at other locations, including any web sites operated by entities affiliated with Comenity. For information concerning privacy practices of websites operated by other entities, including entities affiliated with Comenity, please consult the privacy practices posted at those websites. You should read this Policy before using our website, as your use of the website signifies that you agree with all terms of this Policy.  If you disagree with any part of this Policy, please do not use the website.
+This Privacy Policy ("Policy") is provided by Comenity, LLC ("we," "us," or "our"), and applies to all visitors to or users of ("you") the URL [http://www.comenity.net](http://www.comenity.net/), our Social Media Pages, and our downloadable software applications (referred to collectively as our "Site"). We provide this Policy to help you understand what information we collect from you online and how we use it.
 
-**Information collected about you**
+The Policy does not apply to the treatment of information collected off-line, or to information collected on websites, Social Media Pages, or downloadable software applications operated by entities within our family of companies, which include Epsilon and LoyaltyOne. Please refer to their online and off-line privacy policies for more information about their privacy practices.
 
-Comenity’s website collects certain personal information about you whenever you send an email to Comenity or complete our on-line form, such as the ”Contact Us” form. The personal information you provide can identify you and your business, and may include such items as your name, email and US mail addresses, and telephone numbers. 
+Your visit to and use of our Site signifies that you agree with all terms of this Policy; please do not visit or use our Site if you disagree with any part of this Policy.
 
-  
-Comenity also collects or logs other information that cannot identify you personally when you visit our web site. This information includes your computer's Internet Protocol ("IP") address and your domain name. An IP address is a number that is automatically assigned to your computer by the Internet Service Provider ("ISP") computer through which you access the web, and a domain name is the name of the ISP computer itself through which you access the web. 
+**1\. Personal Information You Provide Directly To Us**  
+We collect personal information from you online whenever you provide it directly to us. This includes when you send us an email, fill out an application, complete a "Contact Us" form, enter your zip code to find a store, and submit a resume. Such personal information may include your name, email address, mail address, or telephone number. 
 
-Comenity logs IP addresses and domain names and aggregates them for system administration purposes and to monitor the use of our site. We use the aggregated information to measure the number of visits to our site, the average time spent on our site, the number of pages viewed, to monitor various other site statistics and to diagnose problems with our server. This monitoring process helps us continuously improve the content we provide. Comenity does not share these statistics with outside parties and does not link IP addresses or domain names with any personally identifying information, which means that a visitor's session will be logged on our servers, but the visitor will remain anonymous. 
+We do not knowingly collect, use, or maintain personal information from users or visitors under 13.
 
-We also may retain information concerning the websites that users access by means of links at our site, and the web sites from which users link to our site. This information does not include personally identifiable data concerning those users. 
+**2\. Information We Automatically Collect About Your Device**  
+We and/or our service providers, such as analytics companies, will automatically collect navigational and/or device information like IP address, browser type, Unique Device Identifier, and other usage information from your device when you visit or use our Site. We do this to improve our Site, and for other internal business purposes. 
 
-**Information placed automatically on your computer - cookies**
+We may store Browser Cookies on your device or use Pixel Tags or other technology so that we can personalize your visit to our Site and improve our Site and emails. You may be able to erase or block Browser Cookies. Please be aware that some features of our Site may be unavailable to you if your Browser Cookies are erased or blocked. Pixel Tags in emails help us confirm the receipt of and response to our emails, and the time our email is viewed. In addition, we may collect "click-through" information such as where and when you click email links.
 
-When you view our website, we may store certain information on your computer. This information is stored in the form of a small text file called a "cookie," and is used by Comenity in certain cases to record the Flash plug-in version installed on your computer. This information helps us ensure that your browser can read graphics used at our web site. 
+If any information that we automatically collect about your device is ever connected to your personal information, we will use it as described in the "How We Use and Share Your Personal Information" section of this Policy.
 
-  
-Cookies also can be used for other purposes, such as to store user IDs and passwords so that visitors do not have to reenter that information each time they visit a site. These and other cookie functions may be enabled by our website as appropriate. 
+**3\. How We Use and Share Your Personal Information**
 
-Cookies are read only by the server that placed them and cannot execute any code or virus. With most Internet browsers, you can erase cookies from your computer hard drive, block all cookies or receive a warning before a cookie is stored. Please refer to your browser instructions or help screen to learn more about these functions. Please be aware, however, that some features of our website may be unavailable to you if cookies are erased or blocked. 
+**How We Use Your Personal Information:**  
+We may use personal information collected at our Site for servicing, marketing, fraud prevention, other internal business purposes, or for any other purpose permitted by law. We may share personal information with our service providers to perform any and all of these tasks on our behalf. 
 
-#### How your information is used
+**How We Share Your Personal Information:**  
+In addition to sharing your information with third party service providers that provide services for us, we will also share your information throughout our family of companies and with unaffiliated third parties: (i) as required for legal or regulatory compliance, (ii) to protect our rights and property or the rights and property of other parties, (iii) in the event we sell or transfer all or a portion of our business assets, your information may be one of the business assets that are transferred as part of the transaction, (iv) during a bankruptcy proceeding, (v) for servicing, (vi) for internal business purposes, (vii) for fraud prevention, (viii) for marketing and/or to promote additional products, services, and special offers, as permitted by law, (ix) for any purpose you may request, or (x) for any other purpose that may be required or permitted by law. 
 
-We use the information you have provided to us in an online form to respond to your request for information about Comenity or comments you may have about our website or other services provided by Comenity. We will disclose personal information as required to comply with valid legal processes such as a search warrant, subpoena or court order, or to protect our rights and property or the rights and property of our customers, website users or other parties. Comenity also may provide personal information to a purchaser or successor entity in connection with the sale of Comenity, a subsidiary or line of business associated with Comenity, or substantially all of the assets of Comenity or one of its subsidiaries, affiliates or lines of business. Except as permitted by this Policy or law, Comenity does not disclose personal information provided to us online to third parties. 
+**4\. Social Media Pages**  
+From time to time, we may create and manage social media pages that include, but are not limited to, a Twitter account or a Facebook page ("Social Media Pages"). With your consent, personal information like your name, profile picture, gender, networks, user ID, list of friends, birthday, likes, education history, work history, current city, hometown, interests, relationship status, and any other information you have shared on a social media site may be collected by us, and may be used and shared as described in the "How We Use and Share Your Personal Information" section of this Policy. This Policy does not cover the privacy practices of the social media sites on which we may have Social Media Pages. Please review their privacy policies and terms of service if you have any questions about their privacy practices. 
 
-**How your information is protected**
+**5\. International Users**  
+If you are visiting us from a location outside of the United States, please keep in mind that we are U.S.-based. This Policy governs the information collected by or on behalf of this Site irrespective of where you are located when you access it, browse it, or interact with it. 
 
-Comenity takes measures to prevent unauthorized intrusion to its website and the alteration, acquisition or misuse of personal information by unauthorized persons. However, Comenity cautions visitors to its website that no medium of communication, including the Internet, is entirely secure. Accordingly, we cannot be responsible for loss, corruption or unauthorized acquisition and use of personal information provided to our website, or for any damages resulting from such loss, corruption, unauthorized acquisition or unauthorized use. 
+With respect to personal information you provide to us on the Social Media Pages, once received from the social media sites, it is maintained and processed by us on servers and internal systems located in the United States. This means your personal information may be stored outside of the province, state, and/or country in which you reside, and processed by us or a third party as described in this Policy. Moreover, governmental bodies that have jurisdiction over us in the United States (e.g., courts and law enforcement agencies) may be entitled to access your personal information.
 
-#### Links to other sites
+**6\. How Your Information is Protected**  
+We take measures to safeguard your personal information. 
 
-We provide links to external sites as a convenience to our users. The inclusion of any link does not imply our endorsement of the external site company, its website, or the products and services it promotes and sells. We are not responsible for the privacy practices or the content of such websites. We encourage users to be aware when they leave our site and to read the privacy statements of each website that collects personally identifiable information. 
+**7\. Links to Other Sites**  
+We provide links to external websites as a convenience to you, but we are not responsible for the privacy practices of linked websites. Therefore, we encourage you to always read and understand a linked website's privacy policy before using or visiting such a website. 
 
-#### Changes to this Policy
+**8\. Changes to this Policy**  
+From time to time, we may modify this Policy. Should there be a material change to our information collection, use, or disclosure practices, it will be applied only to personal information collected on a going forward basis, and we will update this Policy accordingly. 
 
-This Policy is the sole authorized statement of Comenity’s practices with respect to the collection of information through Comenity’s website and the subsequent use and disclosure of such information. Any summaries of this Policy generated by third party software or otherwise (for example, in connection with the "Platform for Privacy Preferences" or "P3P") shall have no legal effect, are in no way binding upon Comenity, and shall not be relied upon in substitute for this Policy, and neither supersede nor modify this Policy. 
-
-  
-Comenity may revise this Policy from time to time. You should bookmark and periodically review this page to ensure that you are familiar with the most current version of this Policy. You can determine when this Policy was last revised by checking the "Last Revised" legend at the top of the Policy.
+**9\. Contact Us**  
+If you have additional questions about this Policy, please contact us at [privacy@alliancedata.com](mailto:privacy@alliancedata.com). 
