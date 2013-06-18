@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the brickandmobile.com privacy policy that was archived on 2012-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121123014936id_/http%3A//www.brickandmobile.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the brickandmobile.com privacy policy that was archived on 2013-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130618062046id_/http%3A//www.brickandmobile.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy | brick&mobile's privacy policy on purchased products
 
 _Last modified: September 7, 2012_
 
@@ -54,7 +54,8 @@ brick&mobile may present links in a format that enables us to keep track of whet
 
 This Privacy Policy applies to brick&mobile Services only. We do not exercise control over the sites displayed as search results, sites that include brick&mobile applications, products or Services, or links from within our various Services. These other sites may place their own cookies or other files on Your computer, collect data or solicit personal information from You.
 
-brick&mobile only processes personal information for the purposes described in this Privacy Policy and/or the supplementary privacy notices for specific Services. In addition to the above, such purposes include:
+brick&mobile only processes personal information for the purposes described in this Privacy Policy and/or the supplementary privacy notices for specific Services. In addition to the above, such purposes include:  
+
 
   * Providing our Services, including the display of customized content and advertising;
   * Auditing, research and analysis in order to maintain, protect and improve our Services;
@@ -76,7 +77,8 @@ You can decline to submit personal information to any of our Services, in which 
 
 ####  **Information Sharing**
 
-brick&mobile only shares personal information with other companies or individuals outside of brick&mobile in the following limited circumstances:
+brick&mobile only shares personal information with other companies or individuals outside of brick&mobile in the following limited circumstances:  
+
 
   * We have Your consent. We require opt-in consent for the sharing of any sensitive personal information.
   * We provide such information to our subsidiaries, affiliated companies or other trusted businesses or persons for the purpose of processing personal information on our behalf. We require that these parties agree to process such information based on our instructions and in compliance with this Privacy Policy and any other appropriate confidentiality and security measures.
