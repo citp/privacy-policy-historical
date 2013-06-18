@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the theatermania.com privacy policy that was archived on 2012-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121130223635id_/http%3A//www.theatermania.com/extra/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theatermania.com privacy policy that was archived on 2013-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130618031600id_/http%3A//www.theatermania.com/extra/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -25,7 +25,3 @@ Theatermania.com has developed the "Kids' Mania" section of our web site to publ
 **A General Reminder**
 
 In general, you should always be aware when and where you provide personal information online. Postings of such information on bulletin boards or in chat rooms will make this information publicly available and may result in unsolicited communications. 
-
-By providing information about entertainment and cultural events on this site, TheaterMania.com shall not be deemed to endorse,  
-recommend, approve and/or guarantee such events, or any facts, views, advice and/or information contained therein.  
-©1999-2012 **TheaterMania.com, Inc.** All Rights Reserved. [Terms of Use](https://web.archive.org/extra/terms-and-conditions "Terms of Use") & [Privacy Policy](https://web.archive.org/extra/privacy-policy "Privacy Policy")
