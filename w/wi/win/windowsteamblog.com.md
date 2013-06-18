@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the windowsteamblog.com privacy policy that was archived on 2012-10-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121010081836id_/http%3A//windowsteamblog.com/p/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the windowsteamblog.com privacy policy that was archived on 2013-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130618200327id_/http%3A//windowsteamblog.com/p/privacy.aspx) for the most accurate reproduction.*
 
 # The Windows Blog
 
@@ -30,7 +30,7 @@ We may access or disclose information about you, including the content of your c
 
 Information that is collected on the Site may be stored and processed in the United States or any other country in which Microsoft or its affiliates, subsidiaries, or service providers maintain facilities. Microsoft abides by the safe harbor framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of data from the European Union. 
 
-**Control of Your Personal Information** Except as otherwise described in this statement, personal information you provide on the Site will not be shared outside of Microsoft and its controlled subsidiaries and affiliates without your permission. [[BL2]](https://web.archive.org/tiny_mce/plugins/paste/blank.htm#_msocom_2) 
+**Control of Your Personal Information** Except as otherwise described in this statement, personal information you provide on the Site will not be shared outside of Microsoft and its controlled subsidiaries and affiliates without your permission. [[BL2]](http://blogs.windows.com/tiny_mce/plugins/paste/blank.htm#_msocom_2) 
 
 Please be aware that this privacy statement and any choices you make on the Site will not necessarily apply to personal information you may have provided to Microsoft in the context of other, separately operated, Microsoft products or services. 
 
