@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the feedthebot.com privacy policy that was archived on 2012-10-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121020065612id_/http%3A//www.feedthebot.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the feedthebot.com privacy policy that was archived on 2013-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130618121123id_/http%3A//www.feedthebot.com/privacy.html) for the most accurate reproduction.*
 
-# Feedthebot Privacy Policy
+# Privacy
+
+## Privacy Policy
 
 The privacy of our visitors is important to us.
 
