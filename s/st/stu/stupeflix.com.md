@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the stupeflix.com privacy policy that was archived on 2012-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121220034640id_/http%3A//studio.stupeflix.com/en/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stupeflix.com privacy policy that was archived on 2013-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130618093531id_/http%3A//studio.stupeflix.com/en/legal/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Stupeflix
 
@@ -14,9 +14,7 @@ We may also store non-personal information from our users, such as the purchases
 
 We may also collect non-personal, technical information from our users via our web server logs, such as your Internet Protocol address, the kind of browser or computer you use, the date and time of your visit, the country or location from which you access the site, the web pages you view on our site, the web pages you go from our site or the web pages from which you link to our site. None of this information can identify you personally.
 
-Stupeflix uses an outside third party forum company, Uservoice, so you can suggest and vote on improvement ideas for our products. Using Uservoice may in some instances include the storage of your personal information by Uservoice. Uservoice has a separate and independant privacy policy.
-
-Stupeflix uses an outside third party payment processing company, Paypal, to bill you for your purchases, which may in some instances include the storage of your personal information by the third party, such as your credit card number. Paypal has a separate and independant privacy policy.
+Stupeflix does not store your credit card information. Stupeflix uses outside third party payment processing companies, Paypal and Stripe, to bill you for your purchases, which may in some instances include the storage of your personal information by the third party, such as your credit card number. Paypal and Stripe have separate and independent privacy policies.
 
 ## What do we use your information for? 
 
@@ -79,7 +77,7 @@ By using our site, you consent to our privacy policy.
 
 If we decide to change our privacy policy, we will update the Privacy Policy modification date below.
 
-This policy was last modified on December 15th, 2010
+This policy was last modified on February 1st, 2013
 
 ## Contacting Us
 
