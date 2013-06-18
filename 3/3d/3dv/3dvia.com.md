@@ -1,173 +1,156 @@
-> *The following text is extracted and transformed from the 3dvia.com privacy policy that was archived on 2012-10-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121004172441id_/http%3A//www.3dvia.com/about/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 3dvia.com privacy policy that was archived on 2013-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130618105927id_/http%3A//www.3ds.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy on 3DVIA.com
+# Privacy Policy - Dassault Systèmes
 
-The following personal data protection policy (the "Privacy Policy") is a declaration of principles and guidelines for the protection of the personal data of all persons browsing the website of Dassault Systèmes .
+##### 1\. SCOPE OF THIS PRIVACY POLICY
 
-The aim of the Privacy Policy is to inform You about:
+This Privacy Policy sets forth the principles and guidelines governing  the protection of the Personal Data (as defined below) collected on or through the Site and concerning the Site’s visitors and users ("You" or "Your"). 
 
-    1. the personal data collected by Dassault Systèmes; 
-    2. the means and aims of the collection of such personal data, its processing and storage; 
-    3. the disclosure and transfer of such personal data; 
-    4. steps to be taken in order to access and rectify the personal data collected and processed; 
-    5. the mechanisms put in place by Dassault Systèmes and its subsidiaries to ensure the security of personal data; 
-    6. the manner in which any disputes will be settled; 
-    7. how to contact Dassault Systèmes; 
-    8. the date of entry into force of this Privacy Policy and any amendments thereto. 
+Personal data ("Personal Data") means any information relating to an identified or identifiable person. An identifiable person is a person who can be identified, directly or indirectly, in particular by reference to an identification number or to one or more factors specific to the person. 
 
-Dassault Systèmes and its subsidiaries ("DS") abide by the European Data Protection Directive, as well as applicable local legislations and regulations. With respect to Personal Data transferred to the United States relating to European Union citizens, please note that DS subsidiaries who have access to such Personal Data have self-certified that their privacy practices applicable to the processing of personal data is consistent with the United States Safe Harbor Principles. For information on the U.S. Department of Commerce Safe Harbor Program, please visit <http://www.export.gov/safeharbor/>.
+Non-Personal Data means any information that does not result in the identification of a person. 
 
-  1. Scope of this Privacy Policy  
+The Site’s Terms of Use, which can be found at [http://www.3ds.com/terms-of-use](http://www.3ds.com/terms-of-use/ "-") are incorporated into this Privacy Policy. Your use of the Site and any Personal Data You provide on the Site are subject to the terms of this Privacy Policy and those Terms of Use. 
 
+##### 2\. DATA COLLECTED
 
-This Privacy Policy applies to personal data collected on or through the Site ("Personal Data") concerning the contributors, visitors, members, regulators, owners users and others who use the Site (collectively or individually "Users" or "You").
+In order to use certain functions and features of the Site, 3DS requires that You provide certain Personal Data when visiting or using the Site. Personal Data likely includes 
 
-Personal Data means any information relating to an identified or identifiable person. An identifiable person is a person who can be identified, directly or indirectly, in particular by reference to an identification number or to one or more factors specific to the person. 
+  * title, 
+  * first and last name, 
+  * postal address, 
+  * email address, 
+  * telephone number(s), 
+  * login and password, 
+  * university, degree and courses taken,
+  * company, company size, department and job title,
+  * industry and industry sub-industry sectors,
+  * delivery method and people to whom purchases must be shipped,
+  * financial data (credit card number and expiry date, name and address of the cardholder) and 
+  * any other Data as may be relevant for the purposes listed below.
 
-Non-Personal Data means any information which may not result in the identification of a person. Site means DS' 3DVIA portal available through the 3dvia.com domain name or any other address or domain name which might be substituted thereto.
 
-This Privacy Policy is incorporated into and is subject to the 3DVIA [Terms of Use](https://web.archive.org/about/terms.php "Terms of use"). Your use of the Site and any Personal Data You provide on the Site are subject to the terms of this Privacy Policy and our [Terms of Use](https://web.archive.org/about/terms.php "Terms of use"). 3D content and other contributions posted by You onto the public pages of the Site is deemed to be public content and accordingly not covered by this Privacy Policy. However, You may request to have such content deleted at any time.
 
-  2. Types of Personal Data collected  
+In all cases, however, the Personal Data gathered is limited to data necessary to the purposes described under Article 4. 
 
+You are free to decide whether or not to provide all or part of Your Personal Data. However, if You choose not to provide all or part of this Personal Data, the purposes as described in Article 4 hereafter might not be achieved or not properly achieved,  some areas and functions of the Site may not function properly and/or You may be refused access to certain pages on the Site. In particular, You will not be authorized to purchase products or services via the Site. 
 
-In order to use certain functions and features of the Site, such as the feature enabling You to create your account, upload and publish your content, create a group or become a member of a group, the following Personal Data is notably collected:
+##### 3\. PROTECTION OF PERSONAL DATA CONCERNING CHILDREN
 
-    1. photograph; 
-    2. title; 
-    3. surname and forenames; 
-    4. postal address; 
-    5. e-mail address; 
-    6. telephone number; 
-    7. login and password; 
-    8. job description; 
-    9. interests; 
+3DS products are not marketed to children under the age of 13 and 3DS does not knowingly collect, conserve or store Personal Data or Non-Personal Data from children under the age of 13. 3DS is committed to protecting the privacy of children and if 3DS becomes aware that such information was collected, it will treat that information as sensitive. 
 
-We may also collect the following information: 
+##### 4\. METHODS AND PURPOSES OF COLLECTION OF PERSONAL DATA
 
-    1. IP addresses; 
-    2. other non personally identifiable information: such as information concerning the software and hardware You are using and log file information which our servers automatically record, including, without limitation, the pages You visited, the time You spent on each page, the number of clicks You made, the domain names viewed, etc. 
+As stated above, You provide Your Personal Data on a voluntary basis. 
 
-You are free to decide whether or not to provide your Personal Data. However, if You choose not to provide this Personal Data, some areas and functions of the Site may not function properly and/or You may be refused access to certain pages on the Site. In particular, You will not be authorised to upload your content, become a member of a group or community or create your own group or community.
+3DS will collect Personal Data either online or offline and this Privacy Policy is applicable regardless of the means of collection.  In the case of online collection, this Privacy Policy is posted on the Site and in the case of offline collection, You will be notified this Privacy Policy. 
 
-  3. Protection of Personal Data concerning children  
+Personal Data is generally collected to carry out the business of 3DS, such as improving 3DS’s marketing and advertising efforts, better tailoring 3DS products and services to customers’ needs or complying with reporting obligations required by law, and similar activities. 
 
+Your Personal Data collected by 3DS on or through the Site is used by 3DS for the following purposes:
 
-DS affirms its commitment to the protection of the Personal Data of children. In this respect, DS does not knowingly collect or store Personal Data or Non-Personal Data of children under 18 years of age. Moreover, no part of the Site is directed to children under 18 years of age.
+  * To enable You to request information;
+  * To provide You with a personalised interactive use of the Site;
+  * To ascertain Your requirements and interests and provide You with the most suitable products and/or services;
+  * To allow You to open and maintain an account in order to obtain specialised documentation and technical assistance;
+  * To enable You to subscribe to a commercial or support-type service;
+  * To enable You to make online purchases of some of our products; 
+  * To access all the features and options offered by the Site; and
+  * Any other purposes associated with the above purposes..
 
-Users under 18 years of age are requested not to use or access the Site at any time or in any manner, unless they have been specifically authorized to access such Site by their parents or legal representatives. If Personal Data of persons under 18 years of age has been collected on the Site without verified parental consent and DS learns about the same, then DS will take the appropriate steps to delete this information. 
 
-  4. Methods and aims of collection and processing of Personal Data  
 
+By providing Your e-mail address, You hereby expressly authorize, 3DS and its subsidiaries to use it together with other relevant Personal Data to send You commercial or marketing messages. 
 
-As stated above, You provide your Personal Data on a voluntary basis. 
+3DS might also use Your email address for administrative or other non-marketing purposes (for example, to notify You significant changes to the Site). 
 
-DS collects and uses your Personal Data for the following purposes: 
+#####  5\. COOKIES 
 
-    1. To allow You to open an account; 
-    2. To manage your account; 
-    3. To enable you to upload and publish your content on the Site; 
-    4. To enable You to request information from us; 
-    5. To enable You to request information from us; 
-    6. To provide You with a personalised interactive use of the Site; 
-    7. To ascertain your requirements and interests and provide you with the most suitable services; 
-    8. To improve the quality and design of the Site and to create new features, functionality and services; 
-    9. To comply with DS' legal obligations. 
+Cookies are text files stored and used to record non-personal and personal information concerning Your browsing of the Site. 
 
-DS may use your e-mail address or other Personal Data to send you commercial or marketing messages. 
+3DS may use cookies or other technologies which may collect or store Personal Data to improve services for You through, for example:  
 
-Besides, DS may use your e-mail address for administrative or other non-marketing purposes (for example, to notify You of significant changes to the Site). 
+  * enabling a service to recognize your device so You don't have to give the same information several times during one task,
+  * recognizing that You may already have given a username and password so you don't need to do it for every web page requested,
+  * measuring how many people are using services, so they can be made easier to use and there's enough capacity to ensure they are fast,
+  * analyzing data to help 3DS understand how people interact with services so 3DS can make them better.
 
-!!DS may use cookies or other technologies to collect or store Personal Data.!!
 
-Cookies are text files stored by the Site User's browser software on the User's hard drive, and are used to record non-personal and personal information concerning your browsing of the site. DS uses two types of cookies: permanent cookies and temporary cookies. Temporary cookies disappear as soon as You log off from the Site. Permanent cookies remain after logging off from the Site in order to be used on subsequent visits to the Site. You may configure your browser software so that You will be notified when You receive a cookie, and then decide whether to accept it or refuse it. You can also configure your browser software to refuse all cookies; if You do so, however, some areas and features of the Site may not function properly. 
 
-DS uses cookies to: (a) remember information so that You will not have to re-enter it during Your visit or the next time You visit the Site; (b) monitor aggegrate metrics as total number of visitors, pages viewed, etc.
+3DS uses two types of cookies: permanent cookies and temporary cookies. Temporary cookies disappear as soon as You log off from the Site. Permanent cookies remain after logging off from the Site in order to be used on subsequent visits to the Site. 
 
-  5. Personal Data storage term  
+You will be notified the first time You receive a cookie, and then You decide whether to accept it or refuse it. By continuing to use the Site in consideration of the above, You expressly authorize 3DS to use such cookies. 
 
+You can also configure Your browser software to refuse all cookies; if You do so, however, some areas and features of the Site may not function properly and/or You may not access some parts or services of the Site. 
 
-All Personal Data that has been collected will be stored for a limited duration that is relevant to the purpose of such collection and for so long as required by applicable law.
+##### 6\. PERSONAL DATA PROCESSING AND STORAGE TERM 
 
-  6. Information Sharing and Disclosure - Data recipients  
+Processing of Personal Data includes using, storing, recording, transferring, adapting, summarizing, amending, reporting, sharing and destroying Personal Data as necessary under the circumstances or as otherwise required by law. 
 
+All Personal Data that will have been collected will be stored for a limited duration that is relevant to the purpose of such collection and for so long as required by applicable law. 
 
-Some of your Personal Data will be accessible and displayed to other Users of the Site who may view it.
+##### 7\. LINKS TO WEBSITES NOT CONTROLLED BY 3DS OR ITS SUBSIDIARIES
 
-Unless You have authorized DS to do so, we will not share any Personal Data concerning You with any third party. However, we may share your Personal Data with our affiliates and subsidiaries who have a need to know to assist us in providing You with our services. 
+This Site might offer links to third party Websites which may be of interest to You. 
 
-DS undertakes not to sell or rent out collected Personal Data to marketers which are not associated with its activities. DS shall not under any circumstances share your Personal Data with marketing companies. However, DS may transfer Your Personal Data to its own business partners.
+Unless 3DS receives Your express authorization, 3DS does not share any Personal Data with these third parties. However, 3DS may provide them with Non-Personal Data. 
 
-DS may disclose Personal Data to those of its employees and agents who have a need to know such data in carrying out their tasks, and solely for purposes which conform to the reasons for which such data was provided. DS may also communicate Personal Data to third parties who carry out work on DS' behalf (e.g, business partners such as suppliers, contractors, subcontractors), for purposes identical to those for which such data was provided. Before transferring such Personal Data, DS should sign a separate data processing agreement that applies to the collection and/or processing of Personal Data with said third party in accordance with the conditions set out in this Private Policy.
+These third parties use technological processes to send advertisements and links appearing on the Site to Your browser software, via Your IP address. They may also use other technologies (such as cookies, JavaScript or web beacons) to assess the effectiveness of their advertisements and to personalize their content. 
 
-In the event that DS would be acquired by or merge with a third party entity, or if DS decides to sell all or part of our business, DS reserves the right, in any of these circumstances, to transfer or assign the information collected from You as part of such merger, acquisition, sale, or other change of control.
+3DS does not exercise any control over the content of third party Websites or the practices of these third parties in connection with the protection of Personal Data that they might collect and are thus not in the control of 3DS. Consequently, 3DS declines all liability for the content of third party websites or the practices of these third parties concerning the protection of Personal Data. 
 
-If DS learns that a third party uses or discloses Personal Data without complying with this Privacy Policy or in infringement of applicable laws, DS shall take all reasonable steps to avoid such utilisation or such disclosure or to cause it to cease.
+It is therefore Your responsibility to inform yourself as to these third parties' privacy policies. 
 
-  7. Links to Websites not controlled by DS  
+##### 8\. TRANSFER OF PERSONAL DATA 
 
+If You are accessing the Site from a location outside of the European Union, with laws or regulations governing data collection, use, and disclosure that differ from European Union, please note that through Your continued use of the Site, which are governed by French law, the corresponding Terms of Use and this Privacy Policy, You are transferring Your Personal Data to the European Union and You consent to that transfer. 
 
-This Site offers links to third party Websites which may be of interest to You. 
+As the parent company of a global group, 3DS is able to use available technology to efficiently manage Personal Data and obtain such Personal Data online or otherwise throughout its international operations.  Personal Data may be collected through the Site and subsequently disclosed to and used by an affiliate or subsidiary of 3DS (“3DS Group Companies”) for the purposes stated in Article 4 of this Privacy Policy. 
 
-Unless we receive your express authorisation, DS does not provide any Personal Data to these third parties. However, DS may provide them with Non-Personal Data.
+Please note that 3DS may transfer Your Personal Data outside of the European Union, as long as before transferring Your Personal Data, 3DS has ascertained that non European Union entities have certified compliance with the European Union Directive on Data Protection and/or U.S. Safe Harbor Principles or that appropriate contractual measures have been taken to secure the transfer. 
 
-These third parties use technological processes to send advertisements and links appearing on the Site to your browser software, via your IP address. They may also use other technologies (such as cookies, JavaScript or web beacons) to assess the effectiveness of their advertisements and to personalize their content.
+Where 3DS has knowledge that a third party to which 3DS has provided Personal Data for the purposes listed in Article 4 above, is using or disclosing Personal Data contrary to this Privacy Policy or to applicable laws, 3DS will take reasonable steps to prevent or stop such use or disclosure. 
 
-DS does not exercise any control over the content of third party websites or the practices of these third parties concerning the protection of Personal Data, which are not covered by DS' commitment to protect Personal Data. Consequently, DS declines all liability for the content of third party websites or the practices of these third parties concerning the protection of Personal Data.
+You will have the opportunity to decide whether You authorize 3DS to use Your Personal Data for a purpose differing from the purpose for which it was originally collected. 
 
-DS invites You to inform yourself as to these third parties' privacy policies.
+3DS will also disclose Personal Data to third parties if 3DS determines that such disclosure is necessary for technical reasons (such as hosting services by a third party) or to protect 3DS’s legal interests (such as in the event of acquisition or merger by a third company or total or partial liquidation of 3DS).). These transfers may be transmitted over the internet, via mail, via facsimile, or by any other method which 3DS determines is appropriate and in accordance with applicable law. 
 
-  8. Transfer of Personal Data  
+##### 9\. RIGHT OF ACCESS TO AND RECTIFICATION OF THE DATA 
 
+3DS will take reasonable steps to ensure that the Personal Data collected is used for the purposes stated in this Privacy Policy and that such Personal Data is correct and up to date. 
 
-If You are accessing the Site from a location outside of the European Union, with laws or regulations governing data collection, use, and disclosure that differ from European Union, please note that through Your continued use of the Site, which is governed by French law, this Privacy Policy and Our Terms of Use, You are transferring your personal data to European Union and You consent to that transfer.
+You have a right to access Your Personal Data. In addition, You have a right to request the rectification, completion, update or erasure of Your Personal Data. You also have a right to obtain a copy of the Personal Data conserved by 3DS. 
 
-Please note that we may transfer your Personal Data outside the European Union, as long as before transferring Your personal data DS has ascertained that non European Union entities have certified compliance with the European Union and US Safe Harbor Principles or that appropriate contractual measures have been taken to secure the transfer. 
+If You have an account, You can exercise Your rights of access to and rectification of the Personal Data by logging on to Your account. Otherwise,  You may exercise Your rights of access to and rectification of the data by sending an email to the following address: DS.PrivacyPolicy(at)3ds.com. 
 
-  9. Right of access to and rectification of the Data  
+Depending on the scope of the request, 3DS reserves the right to charge a reasonable fee to cover any out-of-pocket costs incurred in connection with such access, modification and deletion of Personal Data.  3DS may deny access to Personal Data in limited circumstances, defined by applicable laws and regulations. 
 
+##### 10\. DATA SECURITY AND RECIPIENTS
 
-DS has put suitable protection mechanism in place and complies with this Privacy Policy in all respects in order to preserve the Personal Data collected and ensure that such Data is correct, exhaustive and up to date. 
+3DS undertakes to ensure the protection and security of Personal Data that You choose to communicate, in order to ensure the confidentiality of Your Personal Data and prevent Your Personal Data from being distorted, damaged, destroyed or disclosed to unauthorized parties. 
 
-You have a right to access your Personal Data, as well as a right to request the rectification, completion, update or erasure of your Personal Data. You also have a right to obtain communication of the Personal Data conserved by DS.
+3DS maintains reasonable physical, electronic, and procedural safeguards to protect Personal Data from loss, misuse and unauthorized access, disclosure, alternation and destruction.  As part of those safeguards, 3DS employs sophisticated technology designed to protect Personal Data during its transmission and prevent transmission errors or unauthorized acts of third parties.  However, while 3DS strives to protect Your Personal Data, in light of the inevitable risks of data transmission over the internet, 3DS can not guarantee full protection against any error occurring during the course of Personal Data transmission which is beyond 3DS' reasonable control. 
 
-If You have an account, You can exercise your rights of access to and rectification of the data by logging on to your account. Otherwise, You may exercise your rights of access to and rectification of the data by using the [contact us ](https://web.archive.org/need-more-help "contact us")form.
+Since all Personal Data is confidential, access is limited to employees, contractors and agents of 3DS or 3DS Group Companies who have a need to know such data in carrying out their tasks. All the people who have access to Your Personal Data are bound by a duty of confidentiality and subject to disciplinary actions and/or other sanctions if they fail to meet these obligations. 
 
-  10. Data Security  
+However, it is important for You to exercise caution to prevent unauthorized access to Your Personal Data. You are responsible for the confidentiality of Your password and information appearing on Your account. Consequently, You must ensure that You log out of Your session in the event of shared use of a computer. 
 
+##### 11\. DISPUTE RESOLUTION 
 
-DS undertakes to ensure the protection and security of Personal Data that You choose to communicate, in order to ensure the confidentially of your Personal Data and prevent your Personal Data from being distorted, damaged, destroyed or disclosed to unauthorised parties. 
+Although 3DS has put in place reasonable safeguards to protect Personal Data, we recognize that there is no method of transmitting or storing Personal Data that is completely secure. 
 
-For this purpose, DS carries out internal monitoring concerning the collection, storage and processing of Personal Data. DS has also put in place security procedures such as controlled physical access, Internet firewalls, intrusion detection and network surveillance. In addition, DS takes the necessary steps (verification of your password and user login) to verify your identity before allowing You to access your Personal Data or your account.
+However, 3DS is committed to ensure the privacy of Personal Data: if You have a reason to believe that the security of Your Personal Data has been compromised or misused, You should contact 3DS via the following address: DS.PrivacyPolicy(at)3ds.com. 
 
-Since all Personal Data is confidential, access is limited to employees, contractors and agents of DS who have a need to know such data in carrying out their tasks. All of the persons who have access to your Personal Data are bound by a duty of confidentiality and subject to disciplinary sanctions if they fail to meet these obligations.
+3DS will investigate and attempt to resolve complaints regarding use and disclosure of Personal Data in accordance with the principles contained in this Privacy Policy. . 
 
-However, it is important for You to exercise caution to prevent unauthorised access to your Personal Data. You are responsible for the confidentiality of your password and information appearing on your account. Consequently, You must ensure that You log out of your session in the event of shared use of a computer.
+Unauthorized access to Personal Data or the improper use of Personal Data may constitute offences under local law and under the regulations in force within each company in the 3DS group. 
 
-  11. Dispute settlement  
+##### 12\. CONTACT 
 
+For any additional question concerning this Privacy Policy, or any request for rectification, completion, update, or deletion of Your Personal Data You may send an email to the following address: DS.PrivacyPolicy(at)3ds.com. 
 
-Although DS has put in place reasonable safeguards to protect Personal Data, we recognize that there is no method of transmitting or storing Personal Data that is completely secure. Consequently, if you have a reason to believe that the security of your Personal Data has been compromised or that your Personal Data has been misused or accessed by an unauthorized person, we ask you to use the [contact us ](https://web.archive.org/need-more-help "contact us")form.
+##### 13\. DATE OF ENTRY INTO FORCE OF THE PRIVACY POLICY AND CHANGES TO IT 
 
-DS will undertake the necessary investigations and attempt to resolve any complaints concerning any utilisation or disclosure of Personal Data in infringement of the principles set out in this Privacy Policy. If the dispute cannot be resolved through DS internal procedures, You may then directly seize the local authorities in charge of personal data protection (e.g. the CNIL in France). 
+This Privacy Policy may be updated according to 3DS' requirements and circumstances, or where required by applicable laws and regulations. 
 
-Unauthorised access to Personal Data or the improper use of Personal Data may constitute offences under local law and under the regulations in force within each company in the DS group. 
-
-  12. Contact  
-
-
-For any additional question concerning this Privacy Policy, you may send an e-mail by using the [contact us](https://web.archive.org/need-more-help "Contact us") form.
-
-  13. Date of entry into force of the Privacy Policy and changes to it  
-
-
-This Privacy Policy is communicated to all users of the Site.
-
-It may be updated according to DS' requirements and circumstances, or where required by law. 
-
-Last modification: 
-
-This Privacy Policy was modified on June 21, 2007
-
-
-
+Last modification: _This Privacy Policy was modified on July 2012_
