@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the metrolist.com privacy policy that was archived on 2012-10-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121015101442id_/http%3A//www1.metrolist.com/default.asp%3Fpage%3Dprivacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the metrolist.com privacy policy that was archived on 2013-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130618080407id_/http%3A//www1.metrolist.com/default.asp%3Fpage%3Dprivacy_policy) for the most accurate reproduction.*
 
 # Metrolist, Inc.
 
