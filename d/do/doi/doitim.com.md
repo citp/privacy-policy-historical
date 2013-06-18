@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the doitim.com privacy policy that was archived on 2012-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121209060533id_/http%3A//doitim.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the doitim.com privacy policy that was archived on 2013-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130618071400id_/http%3A//doitim.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Best Online GTD Service for Getting Things Done, Always Online, Always With You!
 
