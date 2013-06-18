@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hhdwallpapes.com privacy policy that was archived on 2012-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121215151418id_/http%3A//hhdwallpapes.com/sample-page) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hhdwallpapes.com privacy policy that was archived on 2013-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130618105411id_/http%3A//hhdwallpapes.com/sample-page) for the most accurate reproduction.*
 
 # Privacy Policy | HD Wallpapers
 
