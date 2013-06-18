@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the play2wincasino.com privacy policy that was archived on 2012-12-09.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121209042710id_/http%3A//www.play2wincasino.com/privacy_policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the play2wincasino.com privacy policy that was archived on 2013-06-18.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130618030526id_/http%3A//www.play2wincasino.com/privacy_policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 		<title>At Play2WinCasino your privacy will always be our top priority- rest assure!</title>
@@ -10,12 +10,12 @@
 		<link rel="shortcut icon" href="/favicon.ico">
 		<link rel="icon" href="/favicon.ico">
 												<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js"></script>
-		<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jqueryui/1.8.23/jquery-ui.min.js"></script>
+		<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jqueryui/1.7.3/jquery-ui.min.js"></script>
 		<script type="text/javascript" src="/js/jquery.marquee.js"></script>
 		<script type="text/javascript" src="/js/crawler.js"></script><style type="text/css">.marquee{white-space:nowrap;overflow:hidden;visibility:hidden;}#marq_kill_marg_bord{border:none!important;margin:0!important;}</style>
 		<script type="text/javascript" src="/js/jquery.bxSlider.min.js"></script>
 		<script type="text/javascript" src="/js/jcarousellite_1.0.1.pack.js"></script>
-						        <script type="text/javascript">
+						        		        <script type="text/javascript">
         var _gaq = _gaq || [];
           _gaq.push(['_setAccount', 'UA-35177926-1']);
           _gaq.push(['_trackPageview']);
@@ -76,6 +76,7 @@ AC_FL_RunContent(
 				$("#quick_login_popup").slideToggle();
 			}
 			function forgot_password_popup(){
+				$('#login_error_popup').dialog('destroy');
             	if(!$('#forgot_password_popup').is(':data(dialog)')) {
             		$('#forgot_password_popup').dialog({
             			autoOpen	: false,
@@ -116,7 +117,9 @@ AC_FL_RunContent(
                     	if(!$('#login_error_popup').is(':data(dialog)')) {
                     		$('#login_error_popup').dialog({
                     			autoOpen	: false,
-                    			close		: function(event, ui) {},
+                    			close		: function(event, ui) {
+									forgot_password_popup();
+								},
                     			dialogClass	: 'login_error_popup',
                     			draggable	: true,
                     			//height		: 420,
@@ -192,9 +195,9 @@ AC_FL_RunContent(
 				address in your account profile.
 			</div>
 			<form id="forgot_password_form" name="forgot_password_form" action="" method="post" onsubmit="return false;">
-				<input type="text" class="forgot_password_form_input" name="tx_forgot" value="www@www.com" onclick="this.value=''" onblur="if (this.value=='') this.value='www@www.com';" onfocus="if (this.value=='www@www.com') this.value='';">
+				<input type="text" id="forgot_password_form_mail" class="forgot_password_form_input" name="tx_forgot" value="www@www.com" onclick="this.value=''" onblur="if (this.value=='') this.value='www@www.com';" onfocus="if (this.value=='www@www.com') this.value='';">
                 <input type="hidden" name="submit_forgot">
-				<input type="submit" class="forgot_password_form_button" value="Send" onclick="submit_reset_password();return false;">
+				<div id="submit_forgot_password_form" class="forgot_password_form_button" onclick="submit_reset_password();"></div>
 			</form>
 		</div>
 						<div id="ip_bg_wrap">
@@ -267,19 +270,19 @@ AC_FL_RunContent(
 			                                        </div>
 			                                        <div class="clear"></div>
 			                                    </div>
-                                                <!--<div class="lang_row" onclick="location='/it/';">
+                                                <div class="lang_row" onclick="location='/it/';">
 			                                        <div class="lang_row_left"></div>
 			                                        <div class="lang_row_mid">
 			                                            <div class="left"><a href="/it/">Italiano</a></div>
-			                                            <div class="right"><a href="/it/"><img src="http://cdn.rivalpowered.com/content/BestPay/play2win/images/it.png" alt="Italiano" /></a></div>
+			                                            <div class="right"><a href="/it/"><img src="http://cdn.rivalpowered.com/content/BestPay/play2win/images/it.png" alt="Italiano"></a></div>
 			                                        </div>
 			                                        <div class="clear"></div>
-			                                    </div>-->
-			                                    <!--<div class="lang_row" onclick="location='/de/';">
+			                                    </div>
+			                                    <div class="lang_row" onclick="location='/de/';">
 			                                        <div class="lang_row_left"></div>
 			                                        <div class="lang_row_mid">
 			                                            <div class="left"><a href="/de/">Deutsch</a></div>
-			                                            <div class="right"><a href="/de/"><img src="http://cdn.rivalpowered.com/content/BestPay/play2win/images/de.png" alt="Deutsch" /></a></div>
+			                                            <div class="right"><a href="/de/"><img src="http://cdn.rivalpowered.com/content/BestPay/play2win/images/de.png" alt="Deutsch"></a></div>
 			                                        </div>
 			                                        <div class="clear"></div>
 			                                    </div>
@@ -287,10 +290,10 @@ AC_FL_RunContent(
 			                                        <div class="lang_row_left"></div>
 			                                        <div class="lang_row_mid">
 			                                            <div class="left"><a href="/nl/">Nederlands</a></div>
-			                                            <div class="right"><a href="/nl/"><img src="http://cdn.rivalpowered.com/content/BestPay/play2win/images/nl.png" alt="Nederlands" /></a></div>
+			                                            <div class="right"><a href="/nl/"><img src="http://cdn.rivalpowered.com/content/BestPay/play2win/images/nl.png" alt="Nederlands"></a></div>
 			                                        </div>
 			                                        <div class="clear"></div>
-			                                    </div>-->
+			                                    </div>
 			                                </div>
 			                                <div class="clear"></div>
 			    						</div>
@@ -355,8 +358,11 @@ AC_FL_RunContent(
 								</script>
 															<div id="ip_top_pic_wrap">
 									<div id="ip_top_pic">
-																						<a href="/us/christmas"><img src="http://cdn.rivalpowered.com/content/BestPay/play2win/images/ip_banners/christmas.jpg" alt="Merry Christmas"></a>
-																															<img src="http://cdn.rivalpowered.com/content/BestPay/play2win/images/ip_banners/banner_1.jpg">
+										<!--
+																						<a href="/us/christmas"><img src="http://cdn.rivalpowered.com/content/BestPay/play2win/images/ip_banners/christmas_us.jpg" alt="Merry Christmas" /></a>
+																				-->
+																																		<img src="http://cdn.rivalpowered.com/content/BestPay/play2win/images/ip_banners/welcomebanner_us.jpg" alt="Welcome Banner">
+											                                            <a href="/play_game?game=Firestorm_7_255&amp;lang=en&amp;anon=1"><img src="http://cdn.rivalpowered.com/content/BestPay/play2win/images/ip_banners/firestorm_inner_en.png"></a>
 											<img src="http://cdn.rivalpowered.com/content/BestPay/play2win/images/ip_banners/macao.jpg">
 											<img src="http://cdn.rivalpowered.com/content/BestPay/play2win/images/ip_banners/roulette.jpg">
 											<img src="http://cdn.rivalpowered.com/content/BestPay/play2win/images/ip_banners/slots.jpg">
@@ -492,25 +498,12 @@ AC_FL_RunContent(
 						<a href="/about_us">About Us</a> &nbsp;&nbsp; | &nbsp;&nbsp; <a href="/security">Security</a> &nbsp;&nbsp; | &nbsp;&nbsp; <a href="/fair_play">Fair Play</a> &nbsp;&nbsp; | &nbsp;&nbsp; <a href="/responsible_gaming">Responsible Gaming</a> &nbsp;&nbsp; | &nbsp;&nbsp; <a href="/faq">FAQ</a> &nbsp;&nbsp; | &nbsp;&nbsp; <a href="/privacy_policy">Privacy Policy</a>&nbsp;&nbsp; | &nbsp;&nbsp; <a href="/terms_conditions">Terms &amp; Conditions</a> &nbsp;&nbsp; | &nbsp;&nbsp; <a href="/affiliates" target="_blank">Affiliates</a> &nbsp;&nbsp; | &nbsp;&nbsp; <a href="/sitemap">Sitemap</a>
 					</div>
 					<div class="footer_text_row">
-						Copyright 2012 © Play2Win Casino. All Rights Reserved
+						Copyright 2012-2013 © Play2Win Casino. All Rights Reserved
 					</div>
 				</div>
 			</div>
 		</div>
 
-		<!--<script type="text/javascript">
-		
-		  var _gaq = _gaq || [];
-		  _gaq.push(['_setAccount', 'UA-12549728-2']);
-		  _gaq.push(['_trackPageview']);
-		
-		  (function() {
-		    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-		    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
-		    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
-		  })();
-		
-		</script>-->
 		<script type="text/javascript">
 			$('#flags').hover(
 			  function () {
