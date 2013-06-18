@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the uncoverthenet.com privacy policy that was archived on 2012-10-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121017070752id_/http%3A//www.uncoverthenet.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the uncoverthenet.com privacy policy that was archived on 2013-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130618200936id_/http%3A//www.uncoverthenet.com/about/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Uncover the Net
 
-This privacy statement was last updated on 11/27/2004. Uncover the Net has created this privacy statement in order to disclose our information gathering and dissemination practices for this Web site, [www.uncoverthenet.com](http://www.uncoverthenet.com/). 
+This privacy statement was first created on 11/27/2004 and updated on January 1, 2013. Uncover the Net has created this privacy statement in order to disclose our information gathering and dissemination practices for this Web site, [www.uncoverthenet.com](http://www.uncoverthenet.com/). 
 
 Upon reading this privacy statement, you will know:
 
@@ -18,9 +18,9 @@ Upon reading this privacy statement, you will know:
 
 Questions regarding this statement should be directed to the Uncover the Net site administrator by sending an email message to [support@uncoverthenet.com](mailto:support@uncoverthenet.com) or writing to us at the following address:
 
-Uncover the Net  
-847 S Randall Rd Ste 360  
-Elgin, IL 60123 
+UTN Enterprises, Inc.  
+340 S LEMON AVE #9861  
+WALNUT, CA 91789 
 
 To return to the Uncover the Net home page, please [click here](http://www.uncoverthenet.com/).
 
