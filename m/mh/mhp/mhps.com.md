@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mhps.com privacy policy that was archived on 2012-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120623023226id_/http%3A//www.mobilehomeparkstore.com/policies.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mhps.com privacy policy that was archived on 2013-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130618082246id_/http%3A//www.mobilehomeparkstore.com/policies.htm) for the most accurate reproduction.*
 
 # Mobile Home Parks For Sale, RV Parks and Mobile Home Parks For Sale, Manufactured Home Communities
 
@@ -44,6 +44,6 @@ The Company reserves the right to contact site visitors regarding account status
 
 The Company reserves the right to change this policy at any time by notifying visitors of the existence and location of the new or revised privacy policy.
 
-_Copyright � 1998-2009 MobileHomeParkStore.com, LLC_
+_Copyright 1998-2009 MobileHomeParkStore.com, LLC_
 
 Use of this Web site constitutes acceptance of the MobileHomeParkStore.com, LLC and the Niche Investment Networks Privacy Policy.
