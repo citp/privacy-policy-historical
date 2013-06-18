@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the twinings.co.uk privacy policy that was archived on 2012-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121128040308id_/http%3A//www.twinings.co.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the twinings.co.uk privacy policy that was archived on 2013-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130618070516id_/http%3A//twinings.co.uk/privacy-policy) for the most accurate reproduction.*
 
 # Twinings Home of Tea - Privacy Policy
 
