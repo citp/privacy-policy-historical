@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the projecttimes.com privacy policy that was archived on 2012-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121016113141id_/http%3A//www.projecttimes.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the projecttimes.com privacy policy that was archived on 2013-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130618065040id_/http%3A//projecttimes.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Project Times | privacy-policy
 
