@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mobilestorm.com privacy policy that was archived on 2012-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121113061245id_/http%3A//www.mobilestorm.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mobilestorm.com privacy policy that was archived on 2013-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130618030317id_/http%3A//www.mobilestorm.com/privacy) for the most accurate reproduction.*
 
 # mobileStorm Privacy Policy
 
@@ -103,7 +103,7 @@ If you have any questions about this privacy statement or this web site, please 
 
 privacy@mobilestorm.com  
 mobileStorm, Inc.  
-7900 Haskell Ave  
-Van Nuys, CA 91406  
+16530 Ventura Blvd, Suite 502  
+Encino, CA 91436  
 United States  
 818-465-6500
