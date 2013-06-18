@@ -1,15 +1,8 @@
-> *The following text is extracted and transformed from the hancinema.net privacy policy that was archived on 2012-10-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121031025715id_/http%3A//www.hancinema.net/hancinema_privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hancinema.net privacy policy that was archived on 2013-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130618204456id_/http%3A//www.hancinema.net/hancinema_privacy_policy.php) for the most accurate reproduction.*
 
-# HanCinema Privacy Policy Statement @ HanCinema :: The Korean Movie and Drama Database, discover the South Korean cinema and drama diversity
+# HanCinema Privacy Policy Statement @ HanCinema :: The Korean Movie and Drama Database
 
 HanCinema is a web site made by **Cedric Collemine**.
-
-Our postal address is   
-**5392 208 Ss  
-Langley, BC V3A 2J9 - Canada**
-
-We can be reached via e-mail by clicking here, Contact, and leaving us a message.  
-or you can reach us by telephone at 33 (0) 604 725 2413
 
 For each visitor to our Web page, our Web server automatically recognizes no information regarding the domain or e-mail address.
 
@@ -22,6 +15,10 @@ With respect to cookies: We use cookies to store visitors preferences.
 If you do not want to receive e-mail from us in the future, please let us know by visiting us by clicking here, Contact, and leaving us a message.
 
 We use third-party advertising companies to serve ads when you visit our Web site. The third-party advertising technology that we use on this Web site uses information derived from your visits to this site to target advertising within this site. In addition, our advertisers may use other third-party advertising technology to target advertising on this site and other sites. In the course of advertisements being served to you, a unique third-party cookie or cookies may be placed your browser. In addition, we use Web beacons, provided by third-party advertising companies, to help manage and optimize our online advertising. Web beacons enable us to recognize a browser's cookie when a browser visits this site, to learn which banner ads bring users to our Web site and to deliver more relevant advertising.
+
+With respect to Ad Servers: To try and bring you offers that are of interest to you, we have relationships with other companies that we allow to place ads on our Web pages. As a result of your visit to our site, ad server companies may collect information such as your domain type, your IP address and clickstream information. For further information, consult the privacy policies of:
+
+[Gorilla Nation](http://www.gorillanation.com/privacy), [DoubleClick](http://www.doubleclick.com/privacy/index.aspx) (To "opt-out"), [Tribal Fusion](https://www.tribalfusion.com/TribalFusion/privacy.html), [Google](http://www.google.com/privacypolicy.html) and [Google ads privacy](http://www.google.com/privacy_ads.html), [Webgains](http://www.webgains.com/privacy.html), [YesAsia](http://global.yesasia.com/help/Section.aspx?sectionId=651&lang=en), [Zanox](http://www.zanox.com/), [YesStyle](http://www.yesstyle.com/en/Help/Section.aspx?section=cs&sectionId=754), [ShareASale](http://www.shareasale.com/w3c/policy.html), [Komli](http://www.komli.com/sea/content/privacy-policy), [ValueClick](http://www.valueclickmedia.com/privacy.shtml), [Advertising](http://advertising.aol.com/privacy), [Lijit](http://www.lijit.com/company/privacy-policy), [Ubu Digital](http://www.openx.org/privacy), [Innity](http://www.innity.com/privacy_policy.html), [RadiumOne](http://www.radiumone.com/about/privacy.html), [Komoona](http://www.komoona.com/), [Specific Media](http://www.specificmedia.com/privacy), [DramaFever](http://www.dramafever.com/privacypolicy.html/)
 
 From time to time, we may use customer information for new, unanticipated uses not previously disclosed in our privacy notice. If our information practices change at some time in the future we will post the policy changes to our Web site to notify you of these changes and provide you with the ability to opt out of these new uses. If you are concerned about how your information is used, you should check back at our Web site periodically.
 
@@ -36,3 +33,11 @@ Visitors can have this information corrected by sending us e-mail at the above a
 With respect to security: We have appropriate security measures in place in our physical facilities to protect against the loss, misuse or alteration of information that we have collected from you at our site.
 
 If you feel that this site is not following its stated information policy, you may contact us by clicking here, Contact, and leaving us a message or by phone.
+
+Our postal address is   
+**5392 208 St  
+Langley, BC V3A 2J9 - Canada**
+
+We can be reached via e-mail by clicking here, Contact, and leaving us a message.  
+or you can reach us by telephone at 604 725 2413  
+
