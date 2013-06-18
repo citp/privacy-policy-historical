@@ -1,13 +1,15 @@
-> *The following text is extracted and transformed from the owlpages.com privacy policy that was archived on 2012-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121214221523id_/http%3A//www.owlpages.com/index.php%3Ffile%3Dstatement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the owlpages.com privacy policy that was archived on 2013-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130618233343id_/http%3A//www.owlpages.com/index.php%3Ffile%3Dstatement) for the most accurate reproduction.*
 
 # Privacy Statement
 
-The following discloses the information gathering and dissemination practices for this Web site: [The Owl Pages ](https://web.archive.org/web/20121214221523id_/http%3A//www.owlpages.com/index.php)
+The following discloses the information gathering and dissemination practices for this Web site: [The Owl Pages ](http://www.owlpages.com/)
 
 **Advertisers & Cookies**  
 We use third-party advertising companies to serve ads when you visit our Web site. These companies may use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. These companies typically use a cookie or third party web beacon to collect this information. If you would like more information about this practice and to know your choices about not having this information used by these companies, click [here](http://www.networkadvertising.org/managing/opt_out.asp).
 
 Google, as a third party vendor, uses cookies to serve ads to this site. Google's use of the DART cookie enables it to serve ads to you based on your visit to this and other sites on the Internet. Users may opt out of the use of the DART cookie by visiting the [Google ad and content network privacy policy](http://www.google.com/privacy_ads.html).
+
+OwlPages.com is a participant in the Amazon Services LLC Associates Program, an affiliate advertising program designed to provide a means for sites to earn advertising fees by advertising and linking to amazon.com. 
 
 **Registration Forms**  
 The registration forms on this site require users to give contact information. Contact information from the registration form is used only to send material relating to "The Owl Pages", and will not be sold to another party.   
