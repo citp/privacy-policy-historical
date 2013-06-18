@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the crowdfundinsider.com privacy policy that was archived on 2012-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121216034823id_/http%3A//www.crowdfundinsider.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the crowdfundinsider.com privacy policy that was archived on 2013-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130618022928id_/http%3A//www.crowdfundinsider.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Crowdfund Insider
 
@@ -11,7 +11,7 @@
 
 
 
-Below is our privacy policy which incorporates these goals: If you have questions about deleting or correcting your personal data please contact our [support team](https://web.archive.org/web/20121216034823id_/http%3A//www.crowdfundinsider.com/mailto@support@CrowdfundInsider.com).
+Below is our privacy policy which incorporates these goals: If you have questions about deleting or correcting your personal data please contact our [support team](https://web.archive.org/web/20130618022928id_/http%3A//www.crowdfundinsider.com/mailto@support@CrowdfundInsider.com).
 
 CrowdfundInsider Inc. (“ **CrowdfundInsider** ”) operates a website including CrowdfundInsider.com, It is CrowdfundInsider’s policy to respect your privacy regarding any information we may collect while operating our websites.
 
@@ -24,6 +24,14 @@ CrowdfundInsider also collects potentially personally-identifying information li
 ### Gathering of Personally-Identifying Information
 
 Certain visitors to CrowdfundInsider’s websites choose to interact with CrowdfundInsider in ways that require CrowdfundInsider to gather personally-identifying information. The amount and type of information that CrowdfundInsider gathers depends on the nature of the interaction. For example, we ask visitors who sign up for a blog at CrowdfundInsider to provide a username and email address. Those who engage in transactions with CrowdfundInsider – by purchasing access to the Akismet comment spam prevention service, for example – are asked to provide additional information, including as necessary the personal and financial information required to process those transactions. In each case, CrowdfundInsider collects such information only insofar as is necessary or appropriate to fulfill the purpose of the visitor’s interaction with CrowdfundInsider. CrowdfundInsider does not disclose personally-identifying information other than as described below. And visitors can always refuse to supply personally-identifying information, ￼with the caveat that it may prevent them from engaging in certain website-related activities.
+
+Advertising:
+
+  * Third party vendors, including Google, use cookies to serve ads based on a user’s prior visits to your website.
+  * Google’s use of the DoubleClick cookie enables it and its partners to serve ads to your users based on their visit to your sites and/or other sites on the Internet.
+  * Users may opt out of the use of the DoubleClick cookie for interest-based advertising by visiting the [ads preference manager](http://www.google.com/ads/preferences/). (Alternatively, you can direct users to opt out of a third-party vendor’s use of cookies for interest based advertising by visiting [aboutads.info](http://www.aboutads.info/).)
+
+
 
 ### Aggregated Statistics
 
