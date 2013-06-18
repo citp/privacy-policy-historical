@@ -1,9 +1,11 @@
-<!--The following is the downloaded HTML source of the stupeflix.com privacy policy that was archived on 2012-12-20.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121220034640id_/http%3A//studio.stupeflix.com/en/legal/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the stupeflix.com privacy policy that was archived on 2013-06-18.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130618093531id_/http%3A//studio.stupeflix.com/en/legal/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en" xmlns:fb="http://www.facebook.com/2008/fbml" xmlns:og="http://opengraph.org/schema/"><head profile="http://www.w3.org/2005/10/profile">
   <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+  <meta name="format-detection" content="telephone=no">
+  
   
   <title>Privacy Policy - Stupeflix</title>
   <link rel="icon" type="image/png" href="//dhkqztuxzrxqf.cloudfront.net/platform/favicon.png">
@@ -11,11 +13,11 @@
   <link type="text/css" rel="stylesheet" href="/static/fonts.css">
 
   
-  <link rel="stylesheet" href="//dhkqztuxzrxqf.cloudfront.net/studio/builds/studio-4e09b445a6d22ec4a4224d64fc1b2a82.css" type="text/css" charset="utf-8">
-  <script type="text/javascript" async="" src="https://api.mixpanel.com/site_media/js/api/mixpanel.js"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" charset="utf-8" src="//dhkqztuxzrxqf.cloudfront.net/platform/builds/player-1b7dcf52ca9cdf774a23b55dd7fd3ce1.js"></script>
-  <link rel="stylesheet" href="//dhkqztuxzrxqf.cloudfront.net/player/1.32/style-min.css" type="text/css" charset="utf-8">
-  <script type="text/javascript" charset="utf-8" src="//dhkqztuxzrxqf.cloudfront.net/player/1.32/player-min.js"></script>
+  <link rel="stylesheet" href="//dhkqztuxzrxqf.cloudfront.net/studio/builds/studio-6bd21fa130a7c5bd6358f63c85a58dd7.css" type="text/css" charset="utf-8">
+  <link rel="stylesheet" href="//dhkqztuxzrxqf.cloudfront.net/player/1.34/style-min.css" type="text/css" charset="utf-8">
+  <script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" async="" src="https://cdn.mxpnl.com/libs/mixpanel-2.2.min.js"></script><script type="text/javascript" charset="utf-8" src="//dhkqztuxzrxqf.cloudfront.net/player/1.34/player-min.js"></script>
   <script type="text/javascript" src="/jsi18n/studio/"></script>
+  
   
   
   
@@ -23,40 +25,60 @@
   <script src="//dhkqztuxzrxqf.cloudfront.net/platform/js/html5shiv.js"></script>
   <![endif]-->
   
-  <script type="text/javascript" charset="utf-8">
+    
+
+<script type="text/javascript">
+
+  (function(c,a){window.mixpanel=a;var b,d,h,e;b=c.createElement("script");
+  b.type="text/javascript";b.async=!0;b.src=("https:"===c.location.protocol?"https:":"http:")+
+  '//cdn.mxpnl.com/libs/mixpanel-2.2.min.js';d=c.getElementsByTagName("script")[0];
+  d.parentNode.insertBefore(b,d);a._i=[];a.init=function(b,c,f){function d(a,b){
+  var c=b.split(".");2==c.length&&(a=a[c[0]],b=c[1]);a[b]=function(){a.push([b].concat(
+  Array.prototype.slice.call(arguments,0)))}}var g=a;"undefined"!==typeof f?g=a[f]=[]:
+  f="mixpanel";g.people=g.people||[];h=['disable','track','track_pageview','track_links',
+  'track_forms','register','register_once','unregister','identify','alias','name_tag',
+  'set_config','people.set','people.increment','people.track_charge','people.append'];
+  for(e=0;e<h.length;e++)d(g,h[e]);a._i.push([b,c,f])};a.__SV=1.2;})(document,window.mixpanel||[]);
+  mixpanel.init("f2d390c845346a69072c1f28d9c6d1ad");
+
+
+function mixpanel_apply(cmd){
+  var methodName = cmd.shift();
+  var host, target = mixpanel;
+  methodName.split(".").forEach(function(part){
+    host = target;
+    target = target[part];
+  });
+  target.apply(host, cmd);
+}
+
+
+</script>
+
+
+  
+
+<script type="text/javascript">
+
 var _gaq = _gaq || [];
 _gaq.push(['_setAccount', 'UA-2110477-2']);
 _gaq.push(['_setDomainName', '.stupeflix.com']);
 
+
+
 _gaq.push(['_trackPageview']);
 
-var mpq = [];
-
-mpq.push(["init", "f2d390c845346a69072c1f28d9c6d1ad"]);
 
 
 
-function asyncJs(url, sUrl){
-  var ns = document.createElement('script'); ns.type = 'text/javascript'; ns.async = true;
-  ns.src = ('https:' == document.location.protocol ? 'https://' + (sUrl || url) : 'http://' + url);
-  var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ns, s);
-}
-asyncJs('www.google-analytics.com/ga.js', 'ssl.google-analytics.com/ga.js');
-asyncJs('api.mixpanel.com/site_media/js/api/mixpanel.js');
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
 
-mpq.track_links = function(nodes, eventName, properties) {
-  nodes.forEach(function(node){
-    node.addEvent("click", function(e){
-      function follow_link(){
-        window.location.assign(node.href);
-      }
-      e.stop();
-      var timer = setTimeout(follow_link, 500);
-      mpq.push(['track', eventName, properties, follow_link]);
-    });
-  });
-}
 </script>
+
 </head>
 
 
@@ -67,7 +89,6 @@ mpq.track_links = function(nodes, eventName, properties) {
   
     <div id="page">
       
-
 <div id="topnav"><div class="inner">
   <a href="/" id="logo" title="Stupeflix"><img src="//dhkqztuxzrxqf.cloudfront.net/studio/images/stupeflix small.png" alt="Logo Stupeflix"></a>
   <div class="navigation">
@@ -75,13 +96,30 @@ mpq.track_links = function(nodes, eventName, properties) {
     <a class="nav-item nav-link" href="/en/features/">Features</a>
     <a class="nav-item nav-link" href="/en/gallery/">Gallery</a>
     <a class="nav-item nav-link" href="/en/pricing/">Pricing</a>
+    <a class="nav-item nav-link" href="http://ios.stupeflix.com?tn=1" target="_blank">iPhone</a>
     <a class="nav-item nav-link" href="/accounts/login/">Log In</a>
   
     <div class="nav-item create">
       <a class="button" href="/editor/create/">Make a Video</a>
     </div>
   </div>
+
+  <div id="topnav-mobilenav-button" class="mobilenav__button"><span class="mobilenav__button__arrow"></span></div>
+
+  <div id="topnav-mobilenav-menu" class="mobilenav__menu">
+    <ul>
+      
+        <li><a class="mobilenav__menu__link" href="/en/features/">Features</a></li>
+        <li><a class="mobilenav__menu__link" href="/en/gallery/">Gallery</a></li>
+        <li><a class="mobilenav__menu__link" href="/en/pricing/">Pricing</a></li>
+        <li><a class="mobilenav__menu__link" href="/accounts/login/">Log In</a></li>
+      
+    </ul>
+  </div>
 </div></div>
+
+
+
       
 <div id="messages" style="height: 0px"></div>
 
@@ -99,8 +137,7 @@ mpq.track_links = function(nodes, eventName, properties) {
     <p>When ordering or registering on our site, as appropriate, you may be asked to enter your: name, e-mail address and company name. You may, however, visit our site anonymously.</p>
     <p>We may also store non-personal information from our users, such as the purchases you may have made from us, the content you may have uploaded or created, or your account preferences.</p>
     <p>We may also collect non-personal, technical information from our users via our web server logs, such as your Internet Protocol address, the kind of browser or computer you use, the date and time of your visit, the country or location from which you access the site, the web pages you view on our site, the web pages you go from our site or the web pages from which you link to our site. None of this information can identify you personally.</p>
-    <p>Stupeflix uses an outside third party forum company, Uservoice, so you can suggest and vote on improvement ideas for our products. Using Uservoice may in some instances include the storage of your personal information by Uservoice. Uservoice has a separate and independant privacy policy.</p>
-    <p>Stupeflix uses an outside third party payment processing company, Paypal, to bill you for your purchases, which may in some instances include the storage of your personal information by the third party, such as your credit card number. Paypal has a separate and independant privacy policy.</p>
+    <p>Stupeflix does not store your credit card information. Stupeflix uses outside third party payment processing companies, Paypal and Stripe, to bill you for your purchases, which may in some instances include the storage of your personal information by the third party, such as your credit card number. Paypal and Stripe have separate and independent privacy policies.</p>
 
     <h2>What do we use your information for? </h2>
     <p>Any of the information we collect from you may be used in one of the following ways:</p>
@@ -149,7 +186,7 @@ mpq.track_links = function(nodes, eventName, properties) {
 
     <h2>Changes to our Privacy Policy</h2>
     <p>If we decide to change our privacy policy, we will update the Privacy Policy modification date below.</p>
-    <p>This policy was last modified on December 15th, 2010</p>
+    <p>This policy was last modified on February 1st, 2013</p>
 
     <h2>Contacting Us</h2>
     <p>If there are any questions regarding this privacy policy you may contact us using the information below.</p>
@@ -174,67 +211,99 @@ mpq.track_links = function(nodes, eventName, properties) {
       <div id="largeFooterPlaceHolder"></div>
     </div>
     
-<div id="footer" class="large-footer"><div class="inner">
+<div id="footer" class="large-footer">
 
-  <ul>
-    <li class="head">Stupeflix Studio</li>
-    <li><a href="/">Home</a></li>
-    <li><a href="/en/pricing/">Plans &amp; Pricing</a></li>
-    <li><a href="/en/features/">Features</a></li>
-    <li><a href="/en/gallery/">Gallery</a></li>
-    <li><a href="/en/referrals/">Referrals</a></li>
-  </ul>
-  
-  <ul>
-    <li class="head">Stupeflix for</li>
-    <li><a href="/en/realestate/">Real Estate</a></li>
-    <li><a href="/en/education/">Education</a></li>
-  </ul>
-  
-  <ul>
-    <li class="head">Community</li>
-    <li><a href="http://blog.stupeflix.com/">Stupeflix Blog</a></li>
-    <li><a href="http://twitter.com/stupeflix">Twitter</a></li>
-    <li><a href="http://www.facebook.com/Stupeflix">Facebook</a></li>
-  </ul>
-  
-  <ul>
-    <li class="head">Support</li>
-    <li><a href="/en/support/">Help Center</a></li>
-    <li><a href="/en/contact/">Contact us</a></li>
-    <li><a href="/en/jobs/">Jobs</a></li>
-    <li><a href="/en/about/">About us</a></li>
-  </ul>
-  
-  <ul>
-    <li class="head">Developers</li>
-    <li><a href="http://developer.stupeflix.com/" target="_blank">Stupeflix API</a></li>
-    <li><a href="http://developer.stupeflix.com/documentation/" target="_blank">Documentation</a></li>
-  </ul>
-  
-  <div class="signature">
-    <span class="copyright">©2008-2012 Stupeflix</span>
-    | <a href="/en/legal/terms/">Terms of Service</a>
-    | <a href="/en/legal/privacy/">Privacy Policy</a>
+  <div id="footer-navigation-button" class="footer-navigation-button">
+      <span class="label">©2008-2013 Stupeflix</span>
+  </div>
+
+  <div id="footer-navigation-wrapper" class="footer-navigation-wrapper">
+    <div id="footer-navigation" class="footer-navigation main-inner">
+      <ul>
+        <li class="head"><span class="label">Stupeflix Studio</span></li>
+        <li><a href="/">Home</a></li>
+        <li><a href="/en/pricing/">Plans &amp; Pricing</a></li>
+        <li><a href="/en/features/">Features</a></li>
+        <li><a href="/en/gallery/">Gallery</a></li>
+        <li><a href="/en/referrals/">Referrals</a></li>
+      </ul>
+      
+      <ul>
+        <li class="head"><span class="label">Stupeflix for</span></li>
+        <li><a href="/en/realestate/">Real Estate</a></li>
+        <li><a href="/en/education/">Education</a></li>
+        <li><a href="http://developer.stupeflix.com/" target="_blank">Developers</a></li>
+        <li><a href="http://ios.stupeflix.com?ft=1" target="_blank">iPhone</a></li>
+      </ul>
+      
+      <ul>
+        <li class="head"><span class="label">Community</span></li>
+        <li><a href="http://blog.stupeflix.com/">Stupeflix Blog</a></li>
+        <li><a href="http://twitter.com/stupeflix">Twitter</a></li>
+        <li><a href="http://www.facebook.com/Stupeflix">Facebook</a></li>
+      </ul>
+      
+      <ul>
+        <li class="head"><span class="label">Support</span></li>
+        <li><a href="/en/support/">Help Center</a></li>
+        <li><a href="/en/contact/">Contact us</a></li>
+        <li><a href="/en/jobs/">Jobs</a></li>
+        <li><a href="/en/about/">About us</a></li>
+      </ul>
+      
+      <ul>
+        <li class="head"><span class="label">Developers</span></li>
+        <li><a href="http://developer.stupeflix.com/" target="_blank">Stupeflix API</a></li>
+        <li><a href="http://developer.stupeflix.com/documentation/" target="_blank">Documentation</a></li>
+      </ul>
+
+      <div class="languages-select-wrapper">
+        <div class="languages-select"></div>
+      </div>
+
+      <div class="signature">
+        <span class="copyright">©2008-2013 Stupeflix | </span>
+        <a href="/en/legal/terms/">Terms of Service</a>
+        | <a href="/en/legal/privacy/">Privacy Policy</a>
+      </div>
+    </div>
   </div>
   
-  <div class="languages-select"></div>
-</div></div>
+</div>
 
 
   
   
   
-    <script type="text/javascript" charset="utf-8" src="//dhkqztuxzrxqf.cloudfront.net/platform/builds/platform-37fdd8ef572a94663e4ce20a1f130596.js"></script>
-    <script type="text/javascript" charset="utf-8" src="//dhkqztuxzrxqf.cloudfront.net/studio/builds/studio-e4082cffc4757174647b05a87a0a2b24.js"></script>  
+    <script type="text/javascript" charset="utf-8" src="//dhkqztuxzrxqf.cloudfront.net/platform/builds/platform-994e589189f2245b69c7081c7e1d92b3.js"></script>
+    <script type="text/javascript" charset="utf-8">
+  if(Platform.BrowserFeature.support("touchevents")){
+    window.document.body.addClass("touchevents"); // Add touch support class on body
+    window.addEvent("load", function(){
+      FastClick.attach(document.body).touchBoundary = 2; // fixed boundary
+    });
+  }
+</script>
+    <script type="text/javascript" charset="utf-8" src="//dhkqztuxzrxqf.cloudfront.net/studio/builds/studio-3e7aafb751289fba14dd693d061e75a3.js"></script>  
     
     
 <script type="text/javascript" charset="utf-8">
 
   
+Mobile.NavigationManager.register($("topnav-mobilenav-button"), $("topnav-mobilenav-menu"));
+
 
   
-  new Platform.LanguageSelect($$("#footer .languages-select")[0], [["en", "English"], ["fr", "Fran\u00e7ais"]], "en", "/accounts/setlang/");
+
+  
+  new Platform.LanguageSelect($$("#footer .languages-select")[0], 
+    [["en", "English"], ["fr", "Fran\u00e7ais"]], "en", "/accounts/setlang/");
+
+  new Mobile.Navigation($("footer-navigation-button"), $("footer-navigation-wrapper")).addListener({
+    onOpenEnd: function(){
+      window.scrollBy(0, 100);
+    }
+  });
 
 
 </script>
@@ -250,7 +319,7 @@ mpq.track_links = function(nodes, eventName, properties) {
         url: '/core/log-client-rendering-time/',
         data: {
           'view_name': 'studio_marketing_views__privacy_policy__GET',
-          'start_time': '1355975281.93'
+          'start_time': '1371548131.36'
         }
       });
       request.send();
