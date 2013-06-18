@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the curata.com privacy policy that was archived on 2012-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121216152948id_/http%3A//www.hivefire.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the curata.com privacy policy that was archived on 2013-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130618023727id_/http%3A//www.hivefire.com/privacy) for the most accurate reproduction.*
 
 # Content Curation Company: Privacy Policy - Curata
 
 PRIVACY POLICY
 
-www.hivefire.com/privacy
+www.curata.com/t//privacy
 
-Your privacy is important to us. Therefore, we are committed to respecting your privacy and the confidentiality of your personal data and content. This Privacy Policy is designed to assist you in understanding how we use and safeguards the information you provide in using the Service.  In this Privacy Policy, “Terms of Service” means our Terms of Service applicable from time to time and currently found at www.hivefire.com/tos. “Personal Data” means any information that we possess relating to an identified or identifiable user of the Service; other capitalized terms have the meanings given them in the Terms of Service.
+Your privacy is important to us. Therefore, we are committed to respecting your privacy and the confidentiality of your personal data and content. This Privacy Policy is designed to assist you in understanding how we use and safeguards the information you provide in using the Service.  In this Privacy Policy, “Terms of Service” means our Terms of Service applicable from time to time and currently found at www.curata.com/t//tos. “Personal Data” means any information that we possess relating to an identified or identifiable user of the Service; other capitalized terms have the meanings given them in the Terms of Service.
 
 In order to provide you with access to the Service, we may gather and process some or all of the following information:
 
@@ -50,6 +50,6 @@ Some of our business partners may use cookies on our Service.  However, we have
 
 This Privacy Policy applies to services that are owned and operated by us.  It does not necessarily apply to sites our customers create using our software, even if operated by us.  We do not exercise control over other users or third party websites that may link to our Service.  They may place their own or other files on their website, collect data or solicit personal information from you.  We accept no responsibility or liability for these other sites or services.
 
-We reserve the right to modify the provisions of this Privacy Policy if deemed necessary. We will inform you of these changes by publishing the revised Privacy Policy at www.hivefire.com/privacy.  The revised Privacy Policy shall become effective within thirty (30) days of such publishing, unless you expressly accept the revised statement earlier by clicking on the accept button.  You agree that the express acceptance by you, or your continued use of the Service after the notice period of thirty (30) days, shall constitute your acceptance of the Privacy Policy.
+We reserve the right to modify the provisions of this Privacy Policy if deemed necessary. We will inform you of these changes by publishing the revised Privacy Policy at www.curata.com/t/privacy.  The revised Privacy Policy shall become effective within thirty (30) days of such publishing, unless you expressly accept the revised statement earlier by clicking on the accept button.  You agree that the express acceptance by you, or your continued use of the Service after the notice period of thirty (30) days, shall constitute your acceptance of the Privacy Policy.
 
 If you would like to exercise your right to view, correct, complete or remove your Personal Data, please contact us at privacy@curata.com. Upon verification of your identity, we will attempt to quickly fulfill your request, provided we will not act contrary to applicable legislation by fulfilling your request.
