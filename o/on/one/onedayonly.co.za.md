@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the onedayonly.co.za privacy policy that was archived on 2012-10-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121029112120id_/http%3A//www.onedayonly.co.za/index.php/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the onedayonly.co.za privacy policy that was archived on 2013-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130618123805id_/http%3A//www.onedayonly.co.za/privacy-policy) for the most accurate reproduction.*
 
-# OneDayOnly.co.za | Our Privacy Pledge
+# Our Privacy Pledge | OneDayOnly.co.za
 
 It was brought to our attention that, since we're capturing your details, we should have a privacy policy in place. Fair enough.
 
@@ -40,7 +40,9 @@ EFT payments are a bit different, but the risks apparently perceived by some are
 ## facebook
 
   
-You can login to our website using the Facebook connect button. We do that so you can skip the somewhat painful process of registering with us. Connecting to Facebook allows us to pull some information from your Facebook account, but we don't do that. This also enables us to post on your Wall, but we have no intention of doing so. When we change our minds, we'll let you know in a way that can't be missed.
+You can login to our website using the Facebook connect button. We do that so you can skip the somewhat painful process of registering with us. Connecting to Facebook allows us to pull some information from your Facebook account, but we don't do that. We just use your email address to send you your order confirmation and updates, nothing else.
+
+Technically, this could also enable us to post on your Wall, but we have no intention of doing so. When we change our minds, we'll let you know in a way that can't be missed.
 
 Our pledge: Facebook is pretty awesome and we want to keep it that way by not being the kind of people that steal your data or post stuff on your wall without your consent.
 
