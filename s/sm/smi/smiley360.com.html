@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the smiley360.com privacy policy that was archived on 2012-12-17.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121217162134id_/http%3A//smiley360.com/privacy.cfm) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the smiley360.com privacy policy that was archived on 2013-06-18.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130618150042id_/http%3A//smiley360.com/privacy.cfm) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xmlns:fb="http://www.facebook.com/2008/fbml"><head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
@@ -15,12 +15,27 @@
  src: url(GothamHTF-Light.ttf) /* TTF file for CSS3 browsers */
 }
 </style>
-<script type="text/javascript" src="js/jquery-latest.js"></script>
+<script id="twitter-wjs" src="https://platform.twitter.com/widgets.js"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="js/jquery-latest.js"></script>
 <!--[if lt IE 7.]>
 <script defer="" type="text/javascript" src="scripts/pngfix.js"></script>
 <![endif]-->
+<!-- Google Analytics BEGINS -->
+<script type="text/javascript">
 
-<script id="facebook-jssdk" async="" src="//connect.facebook.net/en_US/all.js"></script></head>
+var _gaq = _gaq || [];
+_gaq.push(['_setAccount', 'UA-12114308-1']);
+_gaq.push(['_setDomainName', 'smile.ly']);
+_gaq.push(['_trackPageview']);
+
+(function() {
+var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+})();
+
+</script>
+<!-- Google Analytics ENDS -->
+</head>
 
 <body>
   <div id="divWrapper" class="clearfix">
@@ -82,148 +97,35 @@
 	    } 
 	}
 
-	function getPassword() {
-		var email = document.forms[2].m_email.value;
-		var chkAddress = checkEmail(email);
-		var myNode = document.getElementById('dialogContentPW');
-		if(chkAddress==false){
-		  var myError= getElementsByClass('passError',myNode,'P');
-		  if ( myError[0].hasChildNodes() ){
-		    while ( myError[0].childNodes.length >= 1 ){
-			  myError[0].removeChild( myError[0].firstChild );
-			} 
-	      }
-
-		  var tNode = document.createTextNode('You must enter an email address in the format of name@domain.com.');
-		  myError[0].appendChild(tNode);
-		  myError[0].style.display="block";
-		
-		} else {
-		
-		$.ajax({
-			type: "get",
-			url: "cfcs/member.cfc",
-			data: {
-				method: "getForgotPassword",
-				email:email
-			},
-			dataType: "json",
-			success: function(data) {
-				if(data == 1) {
-					$("#dialogContentPW").html('Thank you. Your password reminder email was sent.');
-				} else {
-					$("#dialogContentPW").html('Oops. The email address you entered was not found in our member accounts. Try again, or contact us for assistance.')
-				}
-		}});
-	  }
-	}
 	
 	/*$(document).ready(function(){
-		$("#forgotPassword").validate({							 
-			rules: {
-				member_email: {
-					required: true,
-					email: true
-				}
-			},
-			messages: {
-				member_email: {
-					required: "A valid email address is required.",
-					email: "Your email address must be in the format of name@domain.com."
-				}
-			}	
-		});
-	});
-
-	$(document).ready(function() {
-	  //$("#forgotPassword").validate();
-	  //document.forms[2].validate();
-	});
-	*/
 /*--*//*]]>*/
 </script>
 
 <div id="divHeader">
   
   <h1><a href="http://smiley360.com/index.cfm" style="display: block; height: 100%; width: 100%;">smiley360.com—Be Heard. Be Happy.</a></h1>
-  <div id="divSML">
-    <p><a href="https://twitter.com/Smiley360" target="_blank"><img src="images/followTwitter.jpg" height="26" width="57" alt="Follow us on twitter" style="margin-bottom: 3px;"></a></p>
-    <p><iframe src="//www.facebook.com/plugins/like.php?href=http://www.facebook.com/Smiley360&amp;send=false&amp;layout=button_count&amp;width=450&amp;show_faces=false&amp;action=like&amp;colorscheme=light&amp;font&amp;height=21" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:450px; height:21px;" allowtransparency="true"></iframe></p>
-  </div>
+  &nbsp;
+
+
+
+
+
+
+
+
+ 
   
-    <div id="divLogin">
-      
-      <form action="/privacy.cfm?ref=privacy.cfm&amp;" id="formLogin" method="post">
-      
-        <p id="pUser">
-          <label for="username">smiley360.com username</label>
-          <input id="username" name="username" type="text" tabindex="1"><br>
-          <input type="checkbox" name="remember_me" value="1" tabindex="3"> Remember Me
-        </p>
-        
-        <p id="pPass">
-          <label for="password">Password</label>
-          <input id="password" name="password" type="password" tabindex="2"><br>
-          <a href="#" id="forgot-password" onclick="ShowLightBoxPW('dialog-boxPW', false, 'recoverPassword'); return false;">Forgot your password?</a>
-        </p>
-        
-        
-        <input name="login" value="login" type="hidden">
-        <p id="pLogin">
-          <input type="image" src="images/buttonLogin.jpg" id="loginBtn" name="loginBtn">
-        </p>
-        <!-- Facebook Connect Login Button -->
-        <p id="fLogin">
-          <fb:login-button v="2" data-scope="publish_stream,email,offline_access" onlogin="doneFB()"><fb:intl>Connect with Facebook</fb:intl></fb:login-button> 
-        </p>
-        <!-- END Facebook Connect Login Button -->
-      </form>
-    </div>
-    <div id="recoverPassword" style="display:none;">
-      <h4 style="text-align: center; margin: 15px 0; font-size: 21px; color: #0054a5;">Recover
-        Password</h4>
-      <form class="formProfile" id="forgotPassword">
-        <div>
-          <label style="width: 150px; margin-top: 7px;">Enter your email:</label>
-          <input type="text" class="required email" id="m_email" name="m_email">
-          <div style="clear: both; height: 1px;">&nbsp;</div>
-        </div>
-        <p class="passError" style="display: none;"></p>
-        <p style="text-align: center; clear: both; margin-top: 15px; padding: 0;">
-          <input type="button" style="float: none !important;" value="Get Password" class="submitButton" onclick="getPassword()">
-        </p>
-      </form>
-    </div>
-    <!-- FB CONNECT SPECIFIC CODE USED FOR PROCESSING LOGINS-->
-	 <div id="fb-root"></div>
-      <script>
-        window.fbAsyncInit = function() {
-          FB.init({
-            appId      : '125617113558',
-            status     : true, 
-            cookie     : true,
-            xfbml      : true,
-            oauth      : true,
-          });
-        };
-        (function(d){
-           var js, id = 'facebook-jssdk'; if (d.getElementById(id)) {return;}
-           js = d.createElement('script'); js.id = id; js.async = true;
-           js.src = "//connect.facebook.net/en_US/all.js";
-           d.getElementsByTagName('head')[0].appendChild(js);
-         }(document));
-      </script>
-    <script>
-		function requestFBPerms(){
-		
-			var myPermissions = "publish_stream,email,offline_access"; 
-			facebook_prompt_permission(myPermissions,doneFB);
-		}
-		function doneFB(result){
-			window.location="fbxfer.php?a=auth";
-		}
-	</script>    
-    <!-- END FB CONNECT SPECIFIC CODE -->
+<div style="width: 250px; float: right;">
+<div id="divNotLoggedin" style="float: right; width: 250px; text-align: right; padding-top: 35px; padding-right: 50px;"><span style="color: rgb(153, 153, 153);">Already a member?</span> <a href="signin.cfm">Sign In</a> </div>
+<!-- begin of social buttons -->
+<div id="socmediabuttons" style="float: right; width: 204px; padding-top:2px;">
+<div style="padding-top: 2px; padding-right: 5px; float: left;"><iframe src="//www.facebook.com/plugins/like.php?href=http://www.facebook.com/Smiley360&amp;send=false&amp;layout=button_count&amp;width=450&amp;show_faces=false&amp;action=like&amp;colorscheme=light&amp;font&amp;height=21" style="border: medium none ; overflow: hidden; width: 80px; height: 20px;" allowtransparency="true" frameborder="0" scrolling="no"></iframe></div>
+<div id="fb" style="padding: 3px; float: left;"><a target="_blank" href="https://www.facebook.com/Smiley360"><img style="border: 0px solid ; width: 18px; height: 18px;" alt="" src="http://www.smiley360.com/img/socialbuttons/facebookpic_mini.png"></a></div>
+<div id="tw" style="padding: 3px; float: left;"><a target="_blank" href="https://www.twitter.com/Smiley360"><img style="border: 0px solid ; width: 18px; height: 18px;" alt="" src="http://www.smiley360.com/img/socialbuttons/twitterpic_mini.png"></a></div>
+<div id="pin" style="padding: 3px; float: left;"><a target="_blank" href="https://www.pinterest.com/Smiley360"><img style="border: 0px solid ; width: 18px; height: 18px;" alt="" src="http://www.smiley360.com/img/socialbuttons/pinterestpic_mini.png"></a></div>
+</div>
+</div>
     <div id="fadePW" class="LB-black-overlay" onclick="if (!is_modal) HideLightBoxPW(); return false;"></div>
     <div id="dialog-boxPW" class="LB-white-content" style="background-color: transparent; border: 0 !important; width: 500px !important; height: 280px !important; top: 50% !important; left: 50% !important; margin-top: -140px !important; margin-left: -250px !important; margin-right: 0 !important;">
       <div style="height: 22px; width: 500px; background: url(images/lightbox-top.png) no-repeat top left;"></div>
@@ -238,24 +140,15 @@
       </div>
       <div style="height: 22px; width: 500px; background: url(images/lightbox-bottom.png) no-repeat top left;"></div>
     </div>
-    <div id="passwordConfirmation" style="display: none;">
-      <!-- Email found -->
-      <p>A password reminder was sent to your email address.</p>
-      <!-- Email nit found -->
-      <p>The email address you provided was not found in our member list. Please
-        check your entry and try again, or <a href="http://smiley360.com/contactUs.cfm">contact us</a> if
-        you need help.</p>
-      <p><img src="images/closeButton.jpg" height="29" width="82" alt="Close" onclick="HideLightBoxPW(); $('#divLogin').toggle(); return false;" style="cursor: pointer;"></p>
-    </div>
-    
     
     <ul id="ulTopNav">
     	
 		<li id="liTopNav01"><a href="http://smiley360.com/whySmilely.cfm">Why smiley360.com?</a></li>
 		<li id="liTopNav02"><a href="https://smiley360.com/signup.cfm">Become a smiley360.com? Member</a></li>
 		<li id="liTopNav03"><a href="http://smiley360.com/hotbrands.php">Smiley360 Connect</a></li>
-		<li id="liTopNav05"><a href="http://smiley360.com/faq.cfm">FAQ</a></li>
-		
+	<li id="liTopNav04"><a href="http://smiley360.ziplist.com/recipes/search">Smiley Recipe Box</a></li> 
+    	<li id="liTopNav05"><a href="http://smiley360.com/faq.cfm">FAQ</a></li>
+
 		
     </ul>
     
@@ -544,34 +437,74 @@
      
       <!--[if !IE]> *******   E N D   O F    C O N T E N T   M A N A G E D   S E C T I O N   *******<![endif]-->
   <div id="divFooter" class="clearfix">
-<ul id="ulBottomButtons">
-  <li><a href="http://smiley360.com/"><img src="images/icon-01.jpg" height="30" width="31" alt="smiley360.com" border="0"></a></li>
-  <li><a href="http://www.facebook.com"><img src="images/icon-02.jpg" height="30" width="30" alt="Facebook" border="0"></a></li>
-  <li><a href="http://www.myspace.com"><img src="images/icon-03.jpg" height="30" width="30" alt="MySpace" border="0"></a></li>
-  <li><a href="http://www.youtube.com"><img src="images/icon-04.jpg" height="30" width="30" alt="YouTube" border="0"></a></li>
-  <li><a href="http://www.stumbleupon.com"><img src="images/icon-05.jpg" height="30" width="30" alt="StumbleUpon" border="0"></a></li>
-  <li><a href="http://www.delicious.com"><img src="images/icon-06.jpg" height="30" width="30" alt="del.icio.us" border="0"></a></li>
-  <li><a href="http://digg.com"><img src="images/icon-07.jpg" height="30" width="30" alt="Digg" border="0"></a></li>
-  <li><img src="images/icon-08.jpg" height="30" width="30" alt="RSS feeds" border="0"></li>
-  <li><a href="http://friendfeed.com"><img src="images/icon-09.jpg" height="30" width="30" alt="FriendFeed" border="0"></a></li>
-  <li><a href="http://www.friendster.com"><img src="images/icon-10.jpg" height="30" width="30" alt="Friendster" border="0"></a></li>
-  <li><a href="http://www.diigo.com"><img src="images/icon-11.jpg" height="30" width="30" alt="diigo.com" border="0"></a></li>
-  <li><a href="http://www.google.com"><img src="images/icon-12.jpg" height="30" width="30" alt="Google" border="0"></a></li>
-  <li><a href="http://www.last.fm"><img src="images/icon-13.jpg" height="30" width="30" alt="last.fm" border="0"></a></li>
-  <li><a href="http://www.linkedin.com"><img src="images/icon-14.jpg" height="30" width="30" alt="LinkedIn" border="0"></a></li>
-  <li><a href="http://www.livejournal.com"><img src="images/icon-15.jpg" height="30" width="30" alt="Live Journal" border="0"></a></li>
-  <li><a href="http://netvibes.com"><img src="images/icon-16.jpg" height="30" width="30" alt="NetVibes" border="0"></a></li>
-  <li><a href="http://technorati.com"><img src="images/icon-17.jpg" height="30" width="30" alt="Technorati" border="0"></a></li>
-  <li><a href="http://www.bebo.com"><img src="images/icon-18.jpg" height="30" width="30" alt="BeBo" border="0"></a></li>
-  <li><a href="http://vimeo.com"><img src="images/icon-19.jpg" height="30" width="30" alt="Vimeo" border="0"></a></li>
-  <li><a href="http://wordpress.com"><img src="images/icon-20.jpg" height="30" width="30" alt="WordPress" border="0"></a></li>
-  <li><a href="http://www.mixx.com"><img src="images/icon-21.jpg" height="30" width="30" alt="Mixx" border="0"></a></li>
-  <li><a href="http://www.blogger.com"><img src="images/icon-22.jpg" height="30" width="30" alt="Blogger.com" border="0"></a></li>
-  <li><a href="http://www.reddit.com"><img src="images/icon-23.jpg" height="30" width="30" alt="Reddit" border="0"></a></li>
-  <li><a href="http://www.yahoo.com"><img src="images/icon-24.jpg" height="30" width="30" alt="Yahoo" border="0"></a></li>
-  <li><a href="http://www.yelp.com"><img src="images/icon-25.jpg" height="30" width="30" alt="Yelp" border="0"></a></li>
+<!-- <ul id="ulBottomButtons">
+  <li><A HREF="http://smiley360.com/"><img src="images/icon-01.jpg" height="30" width="31" alt="smiley360.com" border="0" /></A></li>
+  <li><A HREF="http://www.facebook.com"><img src="images/icon-02.jpg" height="30" width="30" alt="Facebook" border="0" /></A></li>
+  <li><A HREF="http://www.myspace.com"><img src="images/icon-03.jpg" height="30" width="30" alt="MySpace" border="0" /></A></li>
+  <li><A Href="http://www.youtube.com"><img src="images/icon-04.jpg" height="30" width="30" alt="YouTube" border="0" /></A></li>
+  <li><A href="http://www.stumbleupon.com"><img src="images/icon-05.jpg" height="30" width="30" alt="StumbleUpon" border="0" /></A></li>
+  <li><A href="http://www.delicious.com"><img src="images/icon-06.jpg" height="30" width="30" alt="del.icio.us" border="0" /></A></li>
+  <li><A href="http://digg.com"><img src="images/icon-07.jpg" height="30" width="30" alt="Digg" border="0" /></A></li>
+  <li><img src="images/icon-08.jpg" height="30" width="30" alt="RSS feeds" border="0" /></li>
+  <li><A href="http://friendfeed.com"><img src="images/icon-09.jpg" height="30" width="30" alt="FriendFeed" border="0" /></A></li>
+  <li><A href="http://www.friendster.com"><img src="images/icon-10.jpg" height="30" width="30" alt="Friendster" border="0" /></A></li>
+  <li><A href="http://www.diigo.com"><img src="images/icon-11.jpg" height="30" width="30" alt="diigo.com" border="0" /></A></li>
+  <li><A href="http://www.google.com"><img src="images/icon-12.jpg" height="30" width="30" alt="Google" border="0" /></A></li>
+  <li><A Href="http://www.last.fm"><img src="images/icon-13.jpg" height="30" width="30" alt="last.fm" border="0" /></A></li>
+  <li><A href="http://www.linkedin.com"><img src="images/icon-14.jpg" height="30" width="30" alt="LinkedIn" border="0" /></A></li>
+  <li><A href="http://www.livejournal.com"><img src="images/icon-15.jpg" height="30" width="30" alt="Live Journal" border="0" /></A></li>
+  <li><A href="http://netvibes.com"><img src="images/icon-16.jpg" height="30" width="30" alt="NetVibes" border="0" /></A></li>
+  <li><A href="http://technorati.com"><img src="images/icon-17.jpg" height="30" width="30" alt="Technorati" border="0" /></A></li>
+  <li><A href="http://www.bebo.com"><img src="images/icon-18.jpg" height="30" width="30" alt="BeBo" border="0" /></A></li>
+  <li><a href="http://vimeo.com"><img src="images/icon-19.jpg" height="30" width="30" alt="Vimeo" border="0" /></a></li>
+  <li><A href="http://wordpress.com"><img src="images/icon-20.jpg" height="30" width="30" alt="WordPress" border="0" /></A></li>
+  <li><A href="http://www.mixx.com"><img src="images/icon-21.jpg" height="30" width="30" alt="Mixx" border="0" /></A></li>
+  <li><A href="http://www.blogger.com"><img src="images/icon-22.jpg" height="30" width="30" alt="Blogger.com" border="0" /></A></li>
+  <li><A href="http://www.reddit.com"><img src="images/icon-23.jpg" height="30" width="30" alt="Reddit" border="0" /></A></li>
+  <li><A href="http://www.yahoo.com"><img src="images/icon-24.jpg" height="30" width="30" alt="Yahoo" border="0" /></A></li>
+  <li><A href="http://www.yelp.com"><img src="images/icon-25.jpg" height="30" width="30" alt="Yelp" border="0" /></A></li>
 </ul>
-<h6 id="h6SML"><a href="http://www.socialmedia-link.com" target="_blank">sml—social media link</a></h6>
+<h6 id="h6SML"><a href="http://www.socialmedia-link.com" target="_blank">sml&mdash;social media link</a></h6> -->
+
+<!-- SOCIAL BUTTONS FOOTER PLUG-IN -->
+<div id="allicons" style="width: 720px; float:none; padding-top:10px; padding-bottom:50px; margin-left:auto; margin-right:auto;">
+
+<div id="facebooktab" style="width: 240px; float: left;">
+
+<div class="icon" style="padding-top: 3px; width: 50px; float: left;"><a target="_blank" href="http://facebook.com/Smiley360"><img style="border: 0px solid ; width: 37px; height: 37px;" alt="Smiley360 Facebook" src="http://www.smiley360.com/img/socialbuttons/facebookpic.png"></a></div>
+
+<div class="buttonname" style="padding-bottom:2px;"><span style="color: rgb(60, 90, 152); font-family: Helvetica; font-size: 12px;"><span style="font-weight: bold; font-size: 14px;">Smiley360</span> on
+Facebook</span></div>
+<div class="buttoncode"><!-- code --><!-- <div class="fb-like" data-href="http://smiley360.com/index.php" data-send="false" data-layout="button_count" data-width="450" data-show-faces="false"></div>-->
+<iframe src="//www.facebook.com/plugins/like.php?href=http://www.facebook.com/Smiley360&amp;send=false&amp;layout=button_count&amp;width=450&amp;show_faces=false&amp;action=like&amp;colorscheme=light&amp;font&amp;height=21" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:100px; height:21px;" allowtransparency="true"></iframe>
+</div>
+</div>
+
+
+<div id="twittertab" style="width: 240px; float: left;">
+<div class="icon" style="width: 50px; float: left; padding-top: 3px;"><a target="_blank" href="https://twitter.com/smiley360"><img style="border: 0px solid ; width: 37px; height: 37px;" alt="Smiley360 Twitter" src="http://www.smiley360.com/img/socialbuttons/twitterpic.png"></a></div>
+<div class="buttonname" style="padding-bottom:2px;"><span style="color: rgb(61, 173, 238); font-family: Helvetica; font-size: 12px;"><span style="font-weight: bold; font-size: 14px;">Smiley360</span> on Twitter</span></div>
+<div class="buddontcode"><!-- Place this tag where you want the button --><!-- <a href="https://twitter.com/share" class="twitter-share-button" data-url="http://smiley360.com" data-text="Check this out" data-via="Smiley360" data-hashtags="Smiley360">Tweet</a> -->
+
+<a href="https://twitter.com/Smiley360" class="twitter-follow-button" data-show-count="false" data-show-screen-name="false">Follow @Smiley360</a>
+<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script>
+</div>
+</div>
+
+
+
+<div id="pinteresttab" style="width: 240px; float:  left;">
+<div class="icon" style="padding-top: 3px; width: 50px; float: left;"><a target="_blank" href="http://pinterest.com/Smiley360/"><img style="border: 0px solid ; width: 36px; height: 37px;" alt="Smiley360 Google Plus" src="http://www.smiley360.com/img/socialbuttons/pinterestpic.png"></a>
+</div>
+<div class="buttonname" style="padding-bottom:2px;">
+<span style="color: rgb(176, 30, 39); font-family: Helvetica; font-size: 12px;"><span style="font-weight: bold; font-size: 14px;">Smiley360</span> on
+Pinterest</span></div>
+<div class="buttoncode"> <a data-pin-do="buttonFollow" href="http://pinterest.com/smiley360">Follow</a> </div>
+</div>
+</div>
+<script type="text/javascript" src="//assets.pinterest.com/js/pinit.js"></script>
+
+
 <div id="divFooterBottom">
   <ul id="ulBottomNav">
     
@@ -579,6 +512,8 @@
     <li><a href="http://smiley360.com/contactUs.cfm">Contact Us</a></li>
     <li><a href="http://smiley360.com/privacy.cfm">Privacy</a></li>
     <li><a href="http://smiley360.com/terms.cfm">Terms</a></li>
+    <li><a href="disclosure.cfm">Disclosure</a></li>
+    
 	
   </ul>
   <p>SML · 263 West 38th Street, 8th Floor · New York, NY 10018 · <a href="mailto:member.support@smiley360.com" style="color: #3D7EBE;">member.support@smiley360.com</a></p>
