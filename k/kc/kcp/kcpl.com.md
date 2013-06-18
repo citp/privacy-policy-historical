@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kcpl.com privacy policy that was archived on 2012-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121231173824id_/http%3A//www.kcpl.com/reports/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kcpl.com privacy policy that was archived on 2013-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130618141824id_/http%3A//www.kcpl.com/reports/privacy.html) for the most accurate reproduction.*
 
 # KCP&L, Kansas City electric company
 
@@ -24,7 +24,7 @@ We use this information to analyze trends, to administer the site, to track user
 We sometimes link this automatically-collected data to personally identifiable information in order to troubleshoot problems and to provide customer support assistance to users of our Web site. 
 
 **Cookies**  
-A [cookie](https://web.archive.org/web/20121231173824id_/http%3A//www.kcpl.com/reports/cookie.html) is a small text file that is stored on a user's computer for record-keeping purposes. We use cookies on this site. We link the information we store in cookies to personally identifiable information. We use both session ID cookies and persistent cookies. We use session cookies to make it easier for you to navigate our site. A session ID cookie expires when you close your browser. A persistent cookie remains on your hard drive for an extended period of time. You can remove persistent cookies by following directions provided in your Internet browser's "help" file. 
+A [cookie](https://web.archive.org/web/20130618141824id_/http%3A//www.kcpl.com/reports/cookie.html) is a small text file that is stored on a user's computer for record-keeping purposes. We use cookies on this site. We link the information we store in cookies to personally identifiable information. We use both session ID cookies and persistent cookies. We use session cookies to make it easier for you to navigate our site. A session ID cookie expires when you close your browser. A persistent cookie remains on your hard drive for an extended period of time. You can remove persistent cookies by following directions provided in your Internet browser's "help" file. 
 
 We set a persistent cookie to give you the option to store your user ID, so you don't have to enter it more than once. Persistent cookies also enable us to track and target the interests of our users to enhance the experience on our site. 
 
@@ -74,6 +74,9 @@ We use appropriate anti-virus software and take precautions to ensure that this 
 
 **Controlling Spam and Unsolicited Emails**  
 We are concerned about controlling unsolicited commercial email, or "spam". We will not sell, lease or rent our email subscriber lists to third parties. While we continue to actively review and implement new technology and filtering features, there is currently no technology available that will completely prevent the sending and receiving of unsolicited email. We encourage you to be cautious about sharing your email address while online and recommend employing tools such as spam filters.
+
+**Mobile Phone Numbers**  
+If you sign up for text messaging services, you provide us your mobile phone number and agree to receive text messages from us. This is an opt-in program. We do not sell, lease or rent our mobile phone number lists to third parties.
 
 **Children's Privacy**  
 This Web site contains energy-related information that may be of educational interest to children. We do not intend to gather personal information online from or about children. We encourage all children and young teens to seek consent from their parents before providing any information about themselves or their households to anyone on the Internet.
