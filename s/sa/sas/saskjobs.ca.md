@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the saskjobs.ca privacy policy that was archived on 2012-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121218073612id_/http%3A//www.aee.gov.sk.ca/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the saskjobs.ca privacy policy that was archived on 2013-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130618234619id_/http%3A//www.aee.gov.sk.ca/privacy) for the most accurate reproduction.*
 
 # Internet Privacy Policy - Advanced Education - Government of Saskatchewan
 
@@ -16,10 +16,16 @@ Information collected is maintained in a secure environment.
 
 Some Government of Saskatchewan websites may distribute a small file to your browser, called a "cookie". Such files allow us to provide you with personalized information on your future visits to our websites; they are not used for any other purpose. If you wish, you may change the settings on your web browser to deny cookies or to warn you when cookies will be deposited. 
 
-You may direct any personal information, or any questions or comments regarding this policy or the administration of _The Freedom of Information and Protection of Privacy Act_ in the Ministry of Advanced Education, Employment and Immigration to: **Carla Hill  
-**Ministry of Advanced Education, Employment and Immigration  
+You may direct any personal information, or any questions or comments regarding this policy or the administration of _The Freedom of Information and Protection of Privacy Act_ in the Ministry of Advanced Education to: 
+
+**Carla Groeger  
+** Ministry of Advanced Education  
 15th Floor, 1945 Hamilton Street  
-Regina SK  S4P 2CB   
+Regina 
+
+SK 
+
+S4P 2CB   
 Phone: 306.787.0275  
 Email: [privaca@gov.sk.ca](mailto:privaca@gov.sk.ca)
 
