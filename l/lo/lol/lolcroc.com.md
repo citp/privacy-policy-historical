@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the lolcroc.com privacy policy that was archived on 2012-10-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121009213207id_/http%3A//www.lolcroc.com/page/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lolcroc.com privacy policy that was archived on 2013-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130618020122id_/http%3A//www.lolcroc.com/page/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - LoL Croc
+# Privacy Policy - LoLCroc
 
-## Privacy Policy for LoL Croc
+## Privacy Policy for LoLCroc
 
 If you require any more information or have any questions about our privacy policy, please feel free to contact us at damnlol.com{at}gmail.com
 
