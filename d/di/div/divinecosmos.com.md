@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the divinecosmos.com privacy policy that was archived on 2012-09-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120919095449id_/http%3A//divinecosmos.com/contact-us/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the divinecosmos.com privacy policy that was archived on 2013-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130618185742id_/http%3A//divinecosmos.com/index.php/contact-us-sp-198450853/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -10,11 +10,11 @@ Your privacy is important to us. To better protect your privacy we provide this 
 
 This notice applies to all information collected or submitted on any of the Divine Cosmos websites. On some pages, you can order products, make requests, and register to receive materials. The types of personal information collected at these pages are:
 
-Name   
-Address   
-Email address   
-Phone number   
-Credit/Debit Card Information   
+Name  
+Address  
+Email address  
+Phone number  
+Credit/Debit Card Information  
 (etc.)
 
 **The Way We Use Information:**
@@ -33,7 +33,4 @@ Finally, we never use or share the personally identifiable information provided 
 
 To prevent unauthorized access, maintain data accuracy, and ensure the correct use of information, we use a secure Internet host, Ipower.com, Pay Pal and Authorize.net secure online transactions, in order to put in place appropriate physical, electronic, and managerial procedures to safeguard and secure the information we collect online.
 
-[**How To Contact Us** ](http://divinecosmos.com/contact-us)
-
-[Next Article >](http://divinecosmos.com/contact-us/privacy-policy/156-our-objectives-for-this-website)  
----
+[**How To Contact Us** ](http://divinecosmos.com/index.php/contact-us-sp-198450853)
