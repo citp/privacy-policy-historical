@@ -1,37 +1,50 @@
-> *The following text is extracted and transformed from the dunnesstores.com privacy policy that was archived on 2012-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120517125406id_/http%3A//www.dunnesstores.ie/page.php%3Fpid%3D91) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dunnesstores.com privacy policy that was archived on 2013-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130618041134id_/http%3A//www.dunnesstores.com/privacy-policy/content/fcp-content) for the most accurate reproduction.*
 
-# Dunnes Stores Privacy Policy
+# Privacy Policy | Dunnes Stores | Dunnes Stores
 
-#### Privacy Policy
+### Dunnes Stores would like its website users to read the following Privacy Statement which explains how we process and utilize your personal information collected on our site.
 
-Dunnes Stores would like its web site users to read the following Privacy Statement which explains how we process and utilise your personal information collected on our site.
+### Personal information
 
-##### Personal Information
+We ask for your personal details when you register to shop online, request to order gift vouchers online, request information from us or agree to release personal information when signing up for any of our promotional campaigns. 
 
-We ask for your personal details when you submit a request to order gift vouchers online, request information from us or agree to release personal information when signing up for any of our promotional campaigns. This information is only used in the process of facilitating your order or in assisting our knowledge of you as a valued customer and is not released to any third party bodies.  
-How we use your information:  
-The information which you give us in these situations will only ever be seen by us and our website designers and developers (who maintain the site).  
-We will only use your details to reply to your enquiries, improve our service to you or to process your gift voucher order(s). No third party will contact you with information gleaned from the website on our behalf.
+This information is only used to reply to your enquiries; process your online order(s) or gift voucher order(s); to improve our services to you and to assist our knowledge of you as a valued customer.
 
-##### Contacting Us
+This information is not released to any third parties with the exception of our data processing and support services providers, all of whom are appointed by us in compliance with the requirements of the Data Protection Acts of 1988-2003.
 
-Enquiries sent via the website or by email will be regarded as private and confidential and will not be made available to third parties without prior written consent from you.
+### Contacting us
 
-##### Non Personal Information:
+Enquiries sent via the website or by email will be regarded as private and confidential and will not be made available to third parties (with the exception of our data procesing and support services providers, all of whom are appointed by us in compliance with the requirements of the Data Protection Acts 1998-2003) without prior written consent from you. 
 
-Our web site gathers statistical and other analytical information of all visitors to our websites. We use this non-personal data gathered from visitors to our website in a collective form to get a better understanding of where our visitors come from and how they are using the site.  
-The information which you give us will only ever be seen by us and our website designers and developers. No other third party companies will have access to this information. 
+### Non-personal information
 
-##### Technical - Cookies
+Our website gathers statistical and other analytical information of all visitors to our website. We use this non-personal data gathered from visitors to our website in a collective form to get a better understanding of where our visitors come from and how they are using the website. 
 
-What is a Cookie? - "Cookies" are small pieces of information sent by a particular web server to a web browser, which enables the server to collect information from the browser. It enables your computer’s server to access information on this site in a faster and more efficient manner. Visitors to the site are sent anonymous cookies to keep track of their browsing patterns and build up a demographic profile. In addition, any visitor who has clicked on a dunnesstores.com advertisement on another site that links to dunnesstores.com may be sent a semi-persistent (e.g. two weeks lifetime) anonymous cookie that will allow us to analyse advertising effectiveness and manage our relationship with affiliate sites. Most browsers allow you to turn off the cookie function. If you want to know how to do this please look at the help menu on your browser.  
-(You can find out more about the way cookies work on http://www.cookiecentral.com). Cookies are only used on this site to aid in the collection of statistical information.
+The information which you give us will only ever be seen by us and data processing and support services providers, all of whom are appointed by us in compliance with the Data Protection Acts 1988 - 2003.
 
-##### Other Web Sites
+### Cookies
+
+We use cookies on this website. Cookies are tiny text files which identify your computer to our server. Cookies enable your computer's server to access information on this website in a faster and more efficient manner. Cookies do not allow access to your computer and do not store any details relating to you or your credit cards. Cookies are used to record the areas of our website which you have visited and for how long, thus providing us with usage information which enables us to make our website more accessible and to improve the quality of our services. Please check the help menu on your browser for more details. Most Internet browsers will allow you to turn off the cookies function however if you do not allow cookies on your website, you will not be able to shop our website. Please see our [cookies policy](https://web.archive.org/cookie-policy/content/fcp-content "Cookies policy") for all details.
+
+### Other websites
 
 Our web site may contain links to other web sites, which are outside our control and are not covered by the Privacy Policy outlined here. If you access other sites using the links provided, the operators of these sites may collect information from you, which will be used by them in accordance with their privacy policy, which may differ from ours.
 
-##### Changes to Privacy Policy
+### Changes to privacy policy
 
-As legislation protecting all internet users' changes, our website Privacy Statement will also change to ensure we are fully compliant and will be posted on this site so you are always aware of what information we collect, how we use it, and under what circumstances, if any we disclose it.   
-If at any time we decide to use the Personal Data in a manner significantly different from that stated in this website Privacy Policy, or otherwise disclosed to you at the time it was collected, we will notify you by e-mail, and you will have a choice as to whether or not we use your information in the new manner.
+As legislation protecting all internet users changes, our website privacy statement will also change to ensure we are fully compliant and will be posted on this site so you are always aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it.
+
+### Security on dunnesstores.com
+
+We use a 128-bit SSL (secure sockets layer) encrypted secure Internet Connection to protect your payment details. Your computer should automatically allow the opening of the secure connection when you place your order. You can tell whether a page is secure as 'https' will replace the 'http' at the front of the [www.dunnesstores.com](http://www.dunnesstores.com/) in your browser address window. A small locked padlock will also appear in the bottom bar of your browser window.  
+We will never ask a customer to confirm any account or credit card details via email. 
+
+### Verified by Visa®
+
+To give you even more confidence in shopping online with [www.dunnesstores.com](http://www.dunnesstores.com/) we have introduced Verified by Visa and MasterCard® Secure Code™. These services enhance your existing card account against unauthorized use when you shop with us. To use this service, you must first register with the bank or other organisation that issued your card. 
+
+### Our details 
+
+This website is operated by Dunnes Stores Retailing an unlimited company duly incorporated under the laws of Ireland having registered number 490283 and its registered office at 46 - 50 South Great George's Street, Dublin 2, Ireland. Dunnes Stores Retailing's registered VAT number is 9763375H. Dunnes Stores Retailing is a fellow subsidiary of Dunnes Stores. Dunnes Stores is an unlimited company duly incorporated under the laws of Ireland, having registered number 317228 and its registered office at 46 - 50 South Great George's Street, Dublin 2, Ireland. Unless we say otherwise, we use the terms "Dunnes Stores, "we" and "us" in this Privacy Policy to refer to Dunnes Stores Retailing.
+
+Back to top
