@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dell.ca privacy policy that was archived on 2012-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121217171312id_/http%3A//www.dell.ca/content/topics/segtopic.aspx/policy%3Fc%3Dca%26l%3Den%26s%3Dgen%26%7Esection%3D000) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dell.ca privacy policy that was archived on 2013-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130618090801id_/http%3A//www.dell.ca/content/topics/segtopic.aspx/policy%3Fc%3Dca%26l%3Den%26s%3Dgen%26%7Esection%3D000) for the most accurate reproduction.*
 
 # Find a Laptop, Notebook, Desktop, Server, Printer, Software, Service, Monitor or TV at Dell. | Dell Canada
 
