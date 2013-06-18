@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tripit.com privacy policy that was archived on 2012-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121110124310id_/https%3A//www.tripit.com/uhp/privacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tripit.com privacy policy that was archived on 2013-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130618030429id_/https%3A//www.tripit.com/uhp/privacyPolicy) for the most accurate reproduction.*
 
 # TripIt Privacy Policy
 
@@ -52,7 +52,7 @@ We allow you to use your Google ID in order to set up a TripIt Service account. 
 
 _My Travel Application on Linkedin_
 
-We allow you to share your travel information on Linkedin by installing the "[My Travel](http://www.linkedin.com/opensocialInstallation/preview?_ch_panel_id=1&_applicationId=1800)" application and then authorizing Linkedin to access your TripIt Service account. Once the application is installed, you can invite your Linkedin connections to use the same application. 
+We allow you to share your travel information on Linkedin by installing the "My Travel" application and then authorizing Linkedin to access your TripIt Service account. Once the application is installed, you can invite your Linkedin connections to use the same application. 
 
 _Tell-A-Friend_
 
