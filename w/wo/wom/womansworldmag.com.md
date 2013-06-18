@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the womansworldmag.com privacy policy that was archived on 2012-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121204075550id_/http%3A//winit.womansworldmag.com/ww/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the womansworldmag.com privacy policy that was archived on 2013-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130618201215id_/http%3A//winit.womansworldmag.com/ww/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Woman's World
 
