@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the divine.ca privacy policy that was archived on 2012-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121217040414id_/http%3A//www.divine.ca/en/divineca/privacy-policy/c_92) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the divine.ca privacy policy that was archived on 2013-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130618030404id_/http%3A//www.divine.ca/en/divineca/privacy-policy/c_92) for the most accurate reproduction.*
 
 # Privacy Policy, divine.ca - divine.ca
 
@@ -47,8 +47,8 @@ HOW TO CONTACT US: divine.ca is committed to working with consumers to obtain a 
 (<http://www.divine.ca/en/divineca/contact-us/c_271/>) or send a letter to: 
 
 **divine.ca**   
-420 McGill Suite 400   
-Montréal, (QC) H2Y 2G1  
+4810 rue Jean-Talon O. suite 203  
+Montréal, (QC) H4P 2N5  
 [privacy@divine.ca](mailto:privacy@divine.ca)
 
 Date of Last Revision: January 14, 2010
