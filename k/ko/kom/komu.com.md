@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the komu.com privacy policy that was archived on 2012-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121122040516id_/http%3A//www.komu.com/pages/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the komu.com privacy policy that was archived on 2013-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130618180839id_/http%3A//www.komu.com/pages/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -6,7 +6,7 @@ Here at KOMU.com, ("KOMU", "we" and "us"), we understand and respect your concer
 
 We will collect information about you when you transmit information to us through our website or via email, when you sign up for our electronic newsletters, when you register for our promotions, when you upload material to our website, when you register for other online features and services we provide and when you otherwise use our website. By doing any of the foregoing, you assent to this Privacy Policy. If you do not agree with the terms of this Privacy Policy, please do not engage in any of these activities.
 
-## INFORMATION COLLECTED ABOUT YOU AND OUR USE OF SUCH INFORMATION
+## Information Collected About You and Our Use of Such Information
 
 The following describes the types of personal and other information we may collect about you, and how we use and maintain that information:
 
@@ -32,7 +32,7 @@ We will store this information in our database and will use it to communicate wi
 
 We may retain any data you provide to us in an email or other inquiry, for the purpose of tracking the types of questions that we receive.
 
-## WHEN YOUR INFORMATION WILL BE SHARED OR DISCLOSED
+## When Your Information Will be Shared or Disclosed
 
 We may disclose personal information if required to do so by law or in the good-faith belief that such action is necessary to: (a) conform to the edicts of the law or comply with legal process served on KOMU, (b) protect and defend the rights of property of KOMU or the users of our website, and (c) act under exigent circumstances to protect the personal safety of users of our website or the public. We may use such information to establish or exercise our legal rights, or to defend against legal claims.
 
@@ -50,28 +50,28 @@ Notwithstanding anything contained herein, we may disclose personally identifiab
 
 Whenever KOMU handles information that you enter on our website, regardless of where this occurs, we take steps to ensure that your information is treated securely and in accordance with this Privacy Policy. Unfortunately, no data transmission over the Internet can be guaranteed to be 100% secure. As a result, while we strive to protect your personal information, KOMU cannot ensure or warrant the security of any information you transmit to us, and you do so at your own risk. Once we receive your transmission, we make our best effort to ensure its security on our systems.
 
-## THIRD PARTY INFORMATION
+## Third Party Information
 
 You agree that you have provided notice to, and obtained consent from, any third party individuals whose personal information you supply to us with regard to: (a) the purposes for which such third party's personal information has been collected; (b) the intended recipients or categories of recipients of the third party's personal information; (c) which of the third party's information is obligatory and which information, if any, is voluntary; and (d) how the third party can access and, if necessary, rectify the information held about them.
 
-## CHILDREN'S PRIVACY
+## Children's Privacy
 
 If you are under the age of 13, please do not use or access our website in any way. We will not knowingly collect or use any personal information from such children under the age of 13. If we become aware that we have collected any personal information from children under 13, we will promptly delete such information from our databases.
 
-## OTHER WEBSITES
+## Other Websites
 
 For your convenience, our website may contain links to other websites, or you may be otherwise referred to other websites, including websites administered by the University of Missouri or administered by other companies on behalf of KOMU or the University of Missouri, as well as to websites unrelated to KOMU or the University of Missouri. This Privacy Policy does not apply to these linked websites. Each website should be checked for its own privacy policy.
 
-## CHANGES TO THIS POLICY
+## Changes to This Privacy Policy
 
 KOMU may update this Privacy Policy from time to time. In the event that KOMU merges with, or is acquired by another entity, a change to this Privacy Policy may result. Whenever a change to this Privacy Policy is significant, we will place a prominent notice on our website.
 
-## GOVERNING LAW
+## Governing Law
 
 By choosing to visit our website or otherwise provide information to KOMU, you agree that any dispute over privacy or the terms contained in this Privacy Policy will be governed by the laws of the State of Missouri. You also agree to arbitrate such disputes and to abide by any limitation on damages contained in our Terms of Service (available at <http://www.komu.com/pages/terms-of-service>) or other agreement we have with you
 
-## UPDATE INFORMATION / SUGGESTIONS
+## Updating You Information or Giving Suggestions
 
 If you would like to update or correct any information that you have provided to KOMU through your use of this website or otherwise, or you have suggestions for improving this Privacy Policy, please send an email to [webmaster@komu.com](mailto:webmaster@komu.com).
 
-## Effective Date: November 7, 2007
+Effective Date: November 7, 2007
