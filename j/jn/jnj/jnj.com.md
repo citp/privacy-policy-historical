@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the jnj.com privacy policy that was archived on 2012-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121207110630id_/http%3A//www.jnj.com/wps/wcm/connect/JnJ.Com%2520Development/development/others/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jnj.com privacy policy that was archived on 2013-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130618030729id_/http%3A//www.jnj.com/others/privacy) for the most accurate reproduction.*
 
-# Privacy Policy - Johnson & Johnson
-
-Privacy Policy 
+# Privacy Policy | Johnson & Johnson
 
 Welcome to www.jnj.com! This site is owned by Johnson & Johnson Services, Inc. This Privacy Policy is designed to tell you about our practices regarding collection, use, and disclosure of information that you may provide via this site. Please be sure to read this entire Privacy Policy before using or submitting information to this site. This site is intended for use by residents of The United States.
 
@@ -63,6 +61,7 @@ One Johnson & Johnson Plaza
 New Brunswick, New Jersey 08933 U.S.A.  
 1-732-524-0400
 
-  
+You can also contact us through the [Contact Us](https://web.archive.org/contact) page
+
 Changes to This Privacy Policy  
 If this Privacy Policy changes, the revised policy will be posted on this site. Please check back periodically, and especially before you provide any personally identifiable information. This Privacy Policy was last updated on September 17, 2010.
