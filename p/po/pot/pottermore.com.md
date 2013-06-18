@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pottermore.com privacy policy that was archived on 2012-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121218060832id_/http%3A//www.pottermore.com/en/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pottermore.com privacy policy that was archived on 2013-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130618165257id_/http%3A//www.pottermore.com/en/privacy) for the most accurate reproduction.*
 
 # Pottermore: Privacy and Cookies Policy ("Privacy Policy")
 
@@ -67,6 +67,10 @@ Your first name and surname – this is not displayed publicly on Pottermore. We
 § identify and address you when communicating with you about your access to, or use of, Pottermore.com;
 
 § ensure that we correctly associate your Pottermore Account with another of your online accounts when you choose to link those accounts together (for example, when linking a social networking site account).
+
+Your gender - this is not displayed publicly on Pottermore. We only use this information to:
+
+§ address you when communicating with you about your access to, or use of, Pottermore.com; for any other reasonable purposes related to Pottermore.com or to your Pottermore Account.
 
 Your email address – this is not displayed publicly on Pottermore. We only use this information to: 
 
