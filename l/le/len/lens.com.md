@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lens.com privacy policy that was archived on 2012-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121016084130id_/http%3A//www.lens.com/common/faq/privacypolicy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lens.com privacy policy that was archived on 2013-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130619003938id_/http%3A//www.lens.com/common/faq/privacypolicy.asp) for the most accurate reproduction.*
 
 # Lens.com ® - Privacy Policy
 
@@ -20,9 +20,14 @@ If you have any questions or comments about our privacy practices, would like to
 
 [More about Corporate Policies](https://web.archive.org/common/faq/corppolicy.asp)
 
-  * #### Money Back Guarantee
+  * #### 100% Customer Satisfaction
 
 If you're not 100% satisfied with your Lens.com purchase, we'll cheerfully refund all your money. Complete Details
+
+  * Need to send back contact lenses? No problem, no hassles. Just give us a call. Complete Details
+
+Returning contact lenses is FREE and easy. Simply give us a call and we'll take care of you.  
+Complete Details
 
   * #### Shop with Confidence
 
@@ -40,7 +45,9 @@ All your email preferences can be managed from the 'My Account' tab at the top o
 
 [ ](https://web.archive.org/common/faq/whenreceive.asp "Your Lenses are Ready")
 
-With over 7.5 Million contact lenses in stock, we immediately fill your order with your exact prescription.
+With over 14 Million contact lenses in stock, we immediately fill your order with your exact prescription.
+
+Over 2.5 million successful orders delivered!
 
 
 
