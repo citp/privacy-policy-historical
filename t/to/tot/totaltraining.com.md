@@ -1,16 +1,6 @@
-> *The following text is extracted and transformed from the totaltraining.com privacy policy that was archived on 2011-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111109040235id_/http%3A//www.totaltraining.com/corp/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the totaltraining.com privacy policy that was archived on 2013-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130618025442id_/http%3A//www.totaltraining.com/corp/legal_privacy.asp) for the most accurate reproduction.*
 
-# Privacy Policy
-
-|   
-|   
-Your right to privacy is important to us.
-
-Total Training respects your privacy. This Online Privacy Statement is made available to you in order to make you aware of how Total Training collects and uses identifying information for individuals who visit Total Training's Web site. Total Training is committed to taking reasonable steps to protect information provided to us. From time to time, we may use information provided to us to better serve our customer's needs. This Statement explains what information is collected, how it is collected, how it may be used, and how you can take steps to safeguard your interests.
-
-When you visit www.totaltraining.com, place an order directly from Total Training, or request to be placed on our mailing list; whether online, by phone; or in person, or if you participate in a contest, promotion or survey, the company may collect information from you, such as your name, email and postal addresses, and phone and numbers.
-
-****
+# Privacy Policy | Total Training
 
 **TOTAL TRAINING, INC.**  
 **ONLINE PRIVACY POLICY**  
@@ -95,11 +85,9 @@ ATTN: Privacy Compliance Officer
 1930 Palomar Point Way, Suite 106  
 Carlsbad, CA 92008 
 
-You may also contact us by email at customerservice@totaltraining.com. 
+You may also contact us by email at customerservice@totaltraining.com.
 
-****
-
-**Online Registration**  
+ **Online Registration**  
 Total Training maintains a marketing database for purposes of periodically sending notices via email or via telephone conversation to people who have elected to receive them. These notices may be new product announcements; newsletters, special event announcements, related product information or other items which Total Training believes will be of interest to participants. Additions to the list are by Opt-in only, that is, participants must have voluntarily supplied information to Total Training. The information collected and maintained is an individual's first and last name, email address, and may also include postal address and phone number. Total Training collects information for the email list in the following ways:
 
   * Online registration through the Web site
