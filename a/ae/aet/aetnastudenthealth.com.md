@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the aetnastudenthealth.com privacy policy that was archived on 2012-10-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121026135349id_/http%3A//www.aetna.com/about/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aetnastudenthealth.com privacy policy that was archived on 2013-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130618032430id_/http%3A//www.aetna.com/about/privacy.html) for the most accurate reproduction.*
 
 # Web Privacy Statement -- Aetna
 
