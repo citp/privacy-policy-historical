@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the hotelsetc.com privacy policy that was archived on 2012-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121016123901id_/http%3A//www.hotelsetc.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hotelsetc.com privacy policy that was archived on 2013-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130618161407id_/http%3A//www.hotelsetc.com/privacy_policy) for the most accurate reproduction.*
 
-# Hotels Etc., Inc. - Privacy Policy
+# Hotels Etc. - Privacy Policy
 
 **Information stored by Hotels Etc.:  
 **  
