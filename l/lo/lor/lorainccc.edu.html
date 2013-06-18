@@ -1,16 +1,20 @@
-<!--The following is the downloaded HTML source of the lorainccc.edu privacy policy that was archived on 2012-12-18.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121218040423id_/http%3A//www.lorainccc.edu/Current%2BStudents/Campus%2BPolicies/Web%2BSite%2BPrivacy%2BPolicy.htm) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the lorainccc.edu privacy policy that was archived on 2013-06-18.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130618104023id_/http%3A//www.lorainccc.edu/Current%2BStudents/Campus%2BPolicies/Web%2BSite%2BPrivacy%2BPolicy.htm) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head><title>
-	
-		Web Site Privacy Policy
-	
+<!DOCTYPE html><html lang="en"><head><meta charset="utf-8"><title>
+	Web Site Privacy Policy
 </title>
-	<link href="/LCCCWeb//css/lccc.css" rel="stylesheet" type="text/css">
-	<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script src="/LCCCWeb//javascript/lccc.js" type="text/javascript"></script>
-	<link href="/LCCCWeb//Console/console.css" rel="stylesheet" type="text/css">
-	<meta name="description" content="">
-<meta http-equiv="content-type" content="text/html; charset=utf-8"><link rel="search" type="application/opensearchdescription+xml" title="LCCC Web Search" href="http://www.lorainccc.edu/LCCCWeb/LCCCSearch.xml"><link rel="SHORTCUT ICON" href="http://www.lorainccc.edu/LCCCWeb/favicon.ico">
+
+<link href="/LCCCWeb/css/print.css" rel="Stylesheet" type="text/css" media="print">
+<link href="/LCCCWeb/css/reset.css" rel="stylesheet" type="text/css" media="screen">
+<link href="/LCCCWeb/css/lccc.css" rel="stylesheet" type="text/css" media="screen">
+<link href="/LCCCWeb/Console/console.css" rel="stylesheet" type="text/css">
+<link href="/LCCCWeb/css/lccc/jquery-ui-1.9.1.custom.min.css" rel="stylesheet" type="text/css">
+<link href="http://fonts.googleapis.com/css?family=Droid+Sans|Droid+Serif:700italic|Crimson+Text:400italic" rel="stylesheet" type="text/css">
+
+<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script src="http://www.google.com/jsapi" type="text/javascript"></script>
+
+<link rel="search" type="application/opensearchdescription+xml" title="LCCC Web Search" href="http://www.lorainccc.edu/LCCCWeb/LCCCSearch.xml"><link rel="SHORTCUT ICON" href="http://www.lorainccc.edu/LCCCWeb/favicon.ico">
 <script type="text/javascript">
 
   var _gaq = _gaq || [];
@@ -25,10 +29,54 @@
 
 </script>
 
+<script type="text/javascript">
+    /*
+    *  How to load a feed via the Feeds API.
+    */
+
+    google.load("feeds", "1");
+
+    // Our callback function, for when a feed is loaded.
+    function feedLoaded(result) {
+        if (!result.error) {
+            // Grab the container we will put the results into
+            var container = document.getElementById("events");
+            container.innerHTML = '';
+
+            // Loop through the feeds, putting the titles onto the page.
+            // Check out the result object for a list of properties returned in each entry.
+            // http://code.google.com/apis/ajaxfeeds/documentation/reference.html#JSON
+            for (var i = 0; i < result.feed.entries.length; i++) {
+                var entry = result.feed.entries[i];
+                var div = document.createElement("div");
+                div.className += div.className ? 'eventitems' : 'eventitems';
+                var a = document.createElement('a');
+                a.setAttribute('href', entry.link);
+                a.setAttribute('target', 'blank');
+                a.appendChild(document.createTextNode(entry.title));
+                div.appendChild(container.appendChild(a));
+                container.appendChild(div);
+            }
+        }
+    }
+
+    function OnLoad() {
+        // Create a feed instance that will grab Digg's feed.
+        var feed = new google.feeds.Feed("http://feeds.feedburner.com/LcccEvents");
+
+        feed.setNumEntries(10);
+
+        // Calling load sends the request off.  It requires a callback function.
+        feed.load(feedLoaded);
+    }
+
+    google.setOnLoadCallback(OnLoad);
+</script>
 </head>
-<body leftmargin="0" topmargin="0" style="margin-left: 0px; margin-top: 0px;" onload="MM_preloadImages('/LCCCWeb/images/tab_news_f2.gif','/LCCCWeb/images/tab_current_f2.gif','/LCCCWeb/images/tab_future_f2.gif','/LCCCWeb/images/tab_business_f2.gif','/LCCCWeb/images/tab_comm_f2.gif','/LCCCWeb/images/tab_about_f2.gif','/LCCCWeb/images/tab_faculty_f2.gif')">
-	<form name="aspnetForm" method="post" action="SubPage.aspx?NRMODE=Published&amp;NRNODEGUID=%7b3F2C6BA9-6EB1-4558-BE68-21C82726B62F%7d&amp;NRORIGINALURL=%2fCurrent%2bStudents%2fCampus%2bPolicies%2fWeb%2bSite%2bPrivacy%2bPolicy.htm&amp;NRCACHEHINT=NoModifyGuest" id="aspnetForm">
-<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwULLTEyNTczNjMzMTkPZBYCZg9kFgICAQ9kFgoCAQ8WAh4LXyFJdGVtQ291bnQCBhYMAgEPZBYGZg8VAhIvQ3VycmVudCtTdHVkZW50cy8PdGFiX2N1cnJlbnQuZ2lmZAIBDxUBEnRhYl9jdXJyZW50X2YyLmdpZmQCAg8VAxJ0YWJfY3VycmVudF9mMi5naWYQQ3VycmVudCBTdHVkZW50cw90YWJfY3VycmVudC5naWZkAgIPZBYGZg8VAhEvRnV0dXJlK1N0dWRlbnRzLw50YWJfZnV0dXJlLmdpZmQCAQ8VARF0YWJfZnV0dXJlX2YyLmdpZmQCAg8VAw50YWJfZnV0dXJlLmdpZg9GdXR1cmUgU3R1ZGVudHMOdGFiX2Z1dHVyZS5naWZkAgMPZBYGZg8VAhcvQnVzaW5lc3MrYW5kK0luZHVzdHJ5LxB0YWJfYnVzaW5lc3MuZ2lmZAIBDxUBE3RhYl9idXNpbmVzc19mMi5naWZkAgIPFQMQdGFiX2J1c2luZXNzLmdpZhVCdXNpbmVzcyBhbmQgSW5kdXN0cnkQdGFiX2J1c2luZXNzLmdpZmQCBA9kFgZmDxUCFC9Db21tdW5pdHkrU2VydmljZXMvDHRhYl9jb21tLmdpZmQCAQ8VAQ90YWJfY29tbV9mMi5naWZkAgIPFQMMdGFiX2NvbW0uZ2lmEkNvbW11bml0eSBTZXJ2aWNlcwx0YWJfY29tbS5naWZkAgUPZBYGZg8VAgovQWJvdXQrVXMvDXRhYl9hYm91dC5naWZkAgEPFQEQdGFiX2Fib3V0X2YyLmdpZmQCAg8VAw10YWJfYWJvdXQuZ2lmCEFib3V0IFVzDXRhYl9hYm91dC5naWZkAgYPZBYGZg8VAhMvRmFjdWx0eSthbmQrU3RhZmYvD3RhYl9mYWN1bHR5LmdpZmQCAQ8VARJ0YWJfZmFjdWx0eV9mMi5naWZkAgIPFQMPdGFiX2ZhY3VsdHkuZ2lmEUZhY3VsdHkgYW5kIFN0YWZmD3RhYl9mYWN1bHR5LmdpZmQCAg8WAh8AAgEWAmYPZBYIZg8VAREvTmV3cythbmQrRXZlbnRzL2QCAQ8VAQx0YWJfbmV3cy5naWZkAgIPFQEPdGFiX25ld3NfZjIuZ2lmZAIDDxUDDHRhYl9uZXdzLmdpZg1OZXdzICYgRXZlbnRzDHRhYl9uZXdzLmdpZmQCAw9kFgZmD2QWAmYPFgIeBFRleHQFrgE8YSBocmVmPSIvIj5Ib21lPC9hPiAmZ3Q7IDxhIGhyZWY9Ii9DdXJyZW50K1N0dWRlbnRzLyI+Q3VycmVudCBTdHVkZW50czwvYT4gJmd0OyA8YSBocmVmPSIvQ3VycmVudCtTdHVkZW50cy9DYW1wdXMrUG9saWNpZXMvIj5DYW1wdXMgUG9saWNpZXM8L2E+ICZndDsgV2ViIFNpdGUgUHJpdmFjeSBQb2xpY3lkAgMPZBYCZg8PFgQeC05hdmlnYXRlVXJsBUovTENDQ1dlYi9FeHRyYXMvUHJpbnRhYmxlLmFzcHg/Z3VpZD17M0YyQzZCQTktNkVCMS00NTU4LUJFNjgtMjFDODI3MjZCNjJGfR4GVGFyZ2V0BQZfYmxhbmtkZAIFD2QWAmYPFgIfAQW4EQ0KCQk8cCBhbGlnbj0ibGVmdCI+DQoJCQkJPGEgdGl0bGU9IkZhY2Vib29rIiBocmVmPSJodHRwOi8vZmFjZWJvb2suY29tL2xvcmFpbmNjYyIgdGFyZ2V0PSJfYmxhbmsiPg0KCQkJCQkJPGltZyBzdHlsZT0iV0lEVEg6IDMwcHg7IEhFSUdIVDogMzBweCIgYm9yZGVyPSIwIiBhbHQ9IkZhY2Vib29rIiBzcmM9Ii9OUi9yZG9ubHlyZXMvNDIwMUQ5QjktNkE1RS00MDUyLUJGODQtOUMyNzU1Qzg4QkVGLzEwMjkzL0ZhY2Vib29rX2ljb24zOC5wbmciIC8+IDwvYT4mbmJzcDs8YSB0aXRsZT0iVHdpdHRlciIgaHJlZj0iaHR0cDovL3R3aXR0ZXIuY29tL2xvcmFpbmNjYyIgdGFyZ2V0PSJfYmxhbmsiPjxpbWcgc3R5bGU9IldJRFRIOiAzMHB4OyBIRUlHSFQ6IDMwcHgiIGJvcmRlcj0iMCIgYWx0PSJUd2l0dGVyIiBzcmM9Ii9OUi9yZG9ubHlyZXMvNDIwMUQ5QjktNkE1RS00MDUyLUJGODQtOUMyNzU1Qzg4QkVGLzEwMjk1L3R3aXR0ZXJfbG9nbzM1LnBuZyIgLz48L2E+Jm5ic3A7PGEgdGl0bGU9IllvdVR1YmUiIGhyZWY9Imh0dHA6Ly93d3cueW91dHViZS5jb20vbGNjY3dlYnZpZGVvIiB0YXJnZXQ9Il9ibGFuayI+PGltZyBzdHlsZT0iV0lEVEg6IDMwcHg7IEhFSUdIVDogMzBweCIgYm9yZGVyPSIwIiBhbHQ9IllvdVR1YmUiIHNyYz0iL05SL3Jkb25seXJlcy80MjAxRDlCOS02QTVFLTQwNTItQkY4NC05QzI3NTVDODhCRUYvMTAyOTYveW91dHViZV9pY29uMzYucG5nIiAvPjwvYT4mbmJzcDs8YSB0aXRsZT0iTGlua2VkSW4iIGhyZWY9Imh0dHA6Ly93d3cubGlua2VkaW4uY29tL2NvbXBhbnkvbG9yYWluLWNvdW50eS1jb21tdW5pdHktY29sbGVnZSIgdGFyZ2V0PSJfYmxhbmsiPjxpbWcgc3R5bGU9IldJRFRIOiAzMHB4OyBIRUlHSFQ6IDMwcHgiIGJvcmRlcj0iMCIgYWx0PSJMaW5rZWRJbiIgc3JjPSIvTlIvcmRvbmx5cmVzLzQyMDFEOUI5LTZBNUUtNDA1Mi1CRjg0LTlDMjc1NUM4OEJFRi8xMDMwMC9saW5rZWRpbmljb24zNy5wbmciIC8+PC9hPjwvcD4NCjxwPjxmb250IHN0eWxlPSJXSURUSDogMTM0cHg7IEhFSUdIVDogMjhweCIgY2xhc3M9InNpZGVoZHIiPjxzdHJvbmc+TENDQyBBbm5vdW5jZW1lbnRzPC9zdHJvbmc+PC9mb250PjxiciAvPjxzdHJvbmc+PC9zdHJvbmc+PC9wPg0KPHA+PHN0cm9uZz5HaXZlIFlvdXJzZWxmIHRoZSBHaWZ0IG9mIEVkdWNhdGlvbjxiciAvPjwvc3Ryb25nPlJlZ2lzdGVyIGJlZm9yZSBEZWNlbWJlciZuYnNwOzIxIHRvIGJlIGVudGVyZWQgaW50byBhIGRyYXdpbmcgZm9yIGFuIGlQYWQuPGJyIC8+PGEgdGl0bGU9IlJlZ2lzdHJhdGlvbiBTY2hlZHVsZSIgaHJlZj0iL015Q2FtcHVzK0luZm8vUmVnaXN0cmF0aW9uU2NoZWR1bGUuaHRtIj5MZWFybiBtb3JlPC9hPjwvcD4NCjxwPjxzdHJvbmc+UmVjeWNsZWQgQ29tcHV0ZXIgUHJvZ3JhbTxiciAvPjwvc3Ryb25nPkxDQ0MgaGFzIHJlZnVyYmlzaGVkIGNvbXB1dGVycyBhdmFpbGFibGUgZm9yIGVjb25vbWljYWxseSBkaXNhZHZhbnRhZ2VkIHN0dWRlbnRzLiBBIGxpbWl0ZWQgc3VwcGx5IG9mIGNvbXB1dGVycyBpcyBhdmFpbGFibGUuPGJyIC8+PGEgaHJlZj0iL0FjYWRlbWljK0RpdmlzaW9ucy9FbmdpbmVlcmluZytUZWNobm9sb2dpZXMvUmVjeWNsZWQrQ29tcHV0ZXIrUHJvZ3JhbS5odG0iPkxlYXJuIG1vcmU8YnIgLz48L2E+PC9wPg0KPHA+PHN0cm9uZz5BdHRlbnRpb24gTmV3IFN0dWRlbnRzPGJyIC8+PC9zdHJvbmc+WW91IDxzdHJvbmc+PGVtPmNhbm5vdCByZWdpc3RlciBmb3IgY2xhc3NlczwvZW0+PC9zdHJvbmc+IHVudGlsIHlvdSBhdHRlbmQgYW4gb3JpZW50YXRpb24gc2Vzc2lvbiBmb3IgbmV3IHN0dWRlbnRzLiBGb3IgYWRkaXRpb25hbCByZXF1aXJlbWVudHMgYW5kIHRvIHJlZ2lzdGVyIGZvciBhbiBvcmllbnRhdGlvbiBzZXNzaW9uLCB2aXNpdCA8YSB0aXRsZT0iTmV3IFN0dWRlbnQgT3JpZW50YXRpb24iIGhyZWY9Imh0dHA6Ly93d3cubG9yYWluY2NjLmVkdS9vcmllbnRhdGlvbiI+d3d3LmxvcmFpbmNjYy5lZHUvb3JpZW50YXRpb248L2E+LjwvcD4NCjxwPjxzdHJvbmc+U2F2ZSBNb25leSBvbiBUdWl0aW9uPGJyIC8+PC9zdHJvbmc+UmVnaXN0ZXIgZm9yIDEzIHRvIDE4IGNyZWRpdCBob3VycyBhdCBMQ0NDIGFuZCBwYXkgZm9yIG9ubHkgMTMhPGJyIC8+PGEgdGl0bGU9IlR1aXRpb24gYW5kIEZlZXMiIGhyZWY9Ii9UdWl0aW9uK2FuZCtGZWVzLyI+Q2xpY2sgaGVyZSBmb3IgdHVpdGlvbiByYXRlczwvYT4gPC9wPmQCBQ9kFgJmDxYCHwEFxgPCqSAyMDEyIExvcmFpbiBDb3VudHkgQ29tbXVuaXR5IENvbGxlZ2UgfCAxMDA1Jm5ic3A7TiBBYmJlIFJkIC0tIEVseXJpYSwgT0ggNDQwMzUgfCAxLTgwMC05OTUtTENDQyZuYnNwO3wmbmJzcDs8YSBocmVmPSJtYWlsdG86d2VibWFzdGVyQGxvcmFpbmNjYy5lZHUiPldlYm1hc3RlcjwvYT4gfCA8YSB0aXRsZT0iTENDQyBTaXRlIE1hcCIgaHJlZj0iL0xDQ0NXZWIvRXh0cmFzL3NpdGVtYXAuYXNweCI+U2l0ZSBNYXA8L2E+Jm5ic3A7fCA8YSB0aXRsZT0iTWFwcyBhbmQgRGlyZWN0aW9ucyIgaHJlZj0iL0Fib3V0K1VzL21hcHMuaHRtIj5NYXBzIGFuZCBEaXJlY3Rpb25zPC9hPiZuYnNwO3wgPGEgdGl0bGU9IldlYiBQcml2YWN5IFBvbGljeSIgaHJlZj0iL0N1cnJlbnQrU3R1ZGVudHMvQ2FtcHVzK1BvbGljaWVzL1dlYitTaXRlK1ByaXZhY3krUG9saWN5Lmh0bSI+UHJpdmFjeSBQb2xpY3k8L2E+ZAIGD2QWBGYPFgIeB1Zpc2libGVoZAIBDxYCHwRoZBgBBR5fX0NvbnRyb2xzUmVxdWlyZVBvc3RCYWNrS2V5X18WAQUXX2N0bDA6U2VhcmNoMTpidG5TZWFyY2i+Cjl3osqBdU1N7Ddye3nFjFwKag==">
+<body>
+
+    <form name="aspnetForm" method="post" action="SubPage.aspx?NRMODE=Published&amp;NRNODEGUID=%7b3F2C6BA9-6EB1-4558-BE68-21C82726B62F%7d&amp;NRORIGINALURL=%2fCurrent%2bStudents%2fCampus%2bPolicies%2fWeb%2bSite%2bPrivacy%2bPolicy.htm&amp;NRCACHEHINT=NoModifyGuest" id="aspnetForm">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKMTQ2NzgxMjc5MA9kFgJmD2QWAgIBD2QWBAIBD2QWBmYPZBYCZg8WAh4EVGV4dAWuATxhIGhyZWY9Ii8iPkhvbWU8L2E+ICZndDsgPGEgaHJlZj0iL0N1cnJlbnQrU3R1ZGVudHMvIj5DdXJyZW50IFN0dWRlbnRzPC9hPiAmZ3Q7IDxhIGhyZWY9Ii9DdXJyZW50K1N0dWRlbnRzL0NhbXB1cytQb2xpY2llcy8iPkNhbXB1cyBQb2xpY2llczwvYT4gJmd0OyBXZWIgU2l0ZSBQcml2YWN5IFBvbGljeWQCBA9kFgJmDxYCHgtfIUl0ZW1Db3VudAIGFgxmD2QWAmYPFQQcU3VtbWVyIGFuZCBGYWxsIFJlZ2lzdHJhdGlvbosCTmV3IGNsYXNzZXMgZm9yIFN1bW1lciAyMDEzwqBiZWdpbiBKdW5lIDE3IGFuZCBKdWx5IDEsIGFuZCBzZWF0cyBpbiBGYWxsIDIwMTMgY2xhc3NlcyBhcmUgZmlsbGluZyB1cCBxdWlja2x5LiA8YSBocmVmPSJodHRwOi8vd3d3LmxvcmFpbmNjYy5lZHUvQWRtaXNzaW9ucythbmQrUmVnaXN0cmF0aW9uL1JlZ2lzdHJhdGlvblNjaGVkdWxlLmh0bSI+Q2xpY2sgaGVyZSB0byByZWdpc3RlcsKgbm93IGZvcsKgU3VtbWVyIGFuZCBGYWxsIDIwMTPCoGNsYXNzZXMuPC9hPiAgAABkAgEPZBYCZg8VBBZBdHRlbnRpb24gTmV3IFN0dWRlbnRz9wFBbGwgbmV3wqBzdHVkZW50cyBtdXN0IGF0dGVuZCBhbiBvcmllbnRhdGlvbiBzZXNzaW9uwqBiZWZvcmUgcmVnaXN0ZXJpbmcgZm9yIGNsYXNzZXMuIEZvciBhZGRpdGlvbmFsIHJlcXVpcmVtZW50cyBhbmQgdG8gcmVnaXN0ZXIgZm9yIGFuIG9yaWVudGF0aW9uIHNlc3Npb24sIHZpc2l0IDxhIGhyZWY9Imh0dHA6Ly93d3cubG9yYWluY2NjLmVkdS9vcmllbnRhdGlvbiI+d3d3LmxvcmFpbmNjYy5lZHUvb3JpZW50YXRpb248L2E+LiAgAABkAgIPZBYCZg8VBBVTYXZlIE1vbmV5IG9uIFR1aXRpb25BUmVnaXN0ZXIgZm9yIDEzIHRvIDE4IGNyZWRpdCBob3VycyBhdCBMQ0NDIGFuZCBwYXkgZm9yIG9ubHkgMTMhICAAAGQCAw9kFgJmDxUEJVBhcmFsZWdhbCBTdHVkaWVzIEluZm9ybWF0aW9uIFNlc3Npb26IAlRoZSBVbml2ZXJzaXR5IFBhcnRuZXJzaGlwIGFuZCBLZW50IFN0YXRlIFVuaXZlcnNpdHkgd2lsbCBob3N0IGFuIEluZm9ybWF0aW9uIFNlc3Npb24gZnJvbSA1LTcgcC5tLiwgV2VkbmVzZGF5LCBKdW5lIDI2IGFib3V0IHRoZSBiYWNoZWxvcidzIGRlZ3JlZSBwcm9ncmFtIGluIHBhcmFsZWdhbCBzdHVkaWVzLiA8YSBocmVmPSJodHRwOi8vd3d3LmxvcmFpbmNjYy5lZHUvVVAvVVBDb21pbmcrRXZlbnRzLyI+Q2xpY2sgaGVyZSB0byBsZWFybiBtb3JlLjwvYT4gIAAAZAIED2QWAmYPFQQvTmV3IERlZ3JlZSBpbiBCdXNpbmVzcyBGb3JlbnNpY3MgSW52ZXN0aWdhdGlvbnPxAUxlYXJuIG1vcmUgYWJvdXQgdGhpcyBleGNpdGluZyBuZXcgY2FyZWVyIGZpZWxkIGF0IGFuIGluZm9ybWF0aW9uIHNlc3Npb24gYXQgNiBwLm0uLCBXZWRuZXNkYXksIEp1bmUgMjYgYXQgdGhlIFVuaXZlcnNpdHkgUGFydG5lcnNoaXAgUmlkZ2UgQ2FtcHVzLiBMZWFybiBtb3JlIGF0IDxhIGhyZWY9Imh0dHA6Ly93d3cubG9yYWluY2NjLmVkdS9mb3JlbnNpY3MiPnd3dy5sb3JhaW5jY2MuZWR1L2ZvcmVuc2ljczwvYT4uICAAAGQCBQ9kFgJmDxUEIEFkZGljdGlvbiBDb3Vuc2Vsb3IgSW5mbyBTZXNzaW9u/gFMZWFybiBtb3JlIGFib3V0IHRoaXMgbmV3IGNlcnRpZmljYXRlIHByb2dyYW0gYXQgb25lIG9mIG1hbnkgSW5mb3JtYXRpb24gU2Vzc2lvbnMgb2ZmZXJlZCBUaHVyc2RheSwgSnVuZSAyMCBhdCBMQ0NDIGFuZCBGcmlkYXksIEp1bmUgMjggYXQgTENBREEgaW4gTG9yYWluLiBHZXQgdGhlIGRldGFpbHMgYXQgPGEgaHJlZj0iaHR0cDovL3d3dy5sb3JhaW5jY2MuZWR1L2FkZGljdGlvbiI+d3d3LmxvcmFpbmNjYy5lZHUvYWRkaWN0aW9uPC9hPi4gIAAAZAIFD2QWAmYPDxYCHwAFKzwhLS0gL0N1cnJlbnQrU3R1ZGVudHMvQ2FtcHVzK1BvbGljaWVzLyAtLT5kZAICD2QWBGYPFgIeB1Zpc2libGVoZAIBDxYCHwJoZGSZWl0ksLOBDh0CFetJ2W3b8L51hA==">
 
 
 <script language="javascript" type="text/javascript">
@@ -39,276 +87,242 @@
 </script>
 
 
-<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEWAwKIqr4kApmhg8oFArOu+I0GfF1FNJ5dR+kaMjpmJdKhwcA0jLE=">
-		<div style="margin-left: auto; margin-right: auto; width:1080px;">
-		<table width="1080" border="0" cellspacing="0" cellpadding="0">
-			<tbody><tr>
-				<td class="bgtopbar1">
-					<img src="/LCCCWeb/images/logo1.gif" alt="Lorain County Community College" name="logo1" width="237" height="50" border="0" id="logo1">
-				</td>
-				<td align="right" class="bgtopbar1">
-					<div id="_ctl0_Search1_pnlSearch">
+<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEWBAKg4aL/DQKT1Z6HDwKe3/CgAQKT1YaLBWcY47xfCU2QZ8XPkm06qDDl47WI">
+    <div id="quickfinddialog" title="View QuickFind">
+    </div>
+<div class="wrapper">
+  <div class="header"> <a href="/"><img src="/LCCCWeb//images/templates/lccc-logo.png" width="360" height="85" class="logo" alt="Lorain County Community College"></a>
+    <div style="float: right; margin: 0px;">
+	    <a href="https://www.lorainccc.edu/lcccweb/admin/login.aspx?NRORIGINALURL=%2fCurrent%2bStudents%2fCampus%2bPolicies%2fWeb%2bSite%2bPrivacy%2bPolicy.htm">
+		    <img src="/LCCCWeb/images/templates/login.png" width="5" height="5" alt="Login" style="border: 0px;"></a>
+    </div>
+    <div id="_ctl0_search1_pnlSearch">
 	
-    <img src="/LCCCWeb/images/search_hdr.gif" alt="Search Header" name="search_hdr" width="44" height="11" border="0" id="search_hdr">
-    <input name="_ctl0:Search1:txtSearchQuery" type="text" id="_ctl0_Search1_txtSearchQuery">
-    <input type="image" name="_ctl0:Search1:btnSearch" id="_ctl0_Search1_btnSearch" src="/lcccweb/images/btn_go1.gif" border="0">
+    <div class="searchbar">
+        <a id="_ctl0_search1_btnSearch" href="javascript:__doPostBack('_ctl0$search1$btnSearch','')" style="text-decoration: none;">Search</a>&nbsp;&nbsp;<input name="_ctl0:search1:txtSearchQuery" type="text" id="_ctl0_search1_txtSearchQuery">
+        <input type="submit" name="_ctl0:search1:btnSearch2" value="search" id="_ctl0_search1_btnSearch2" style="display:none;">
+        | <a href="https://angel.lorainccc.edu/" target="_blank">ANGEL</a> | <a href="https://mycampus.lorainccc.edu" target="_blank">MyCampus</a> | <a href="/Current+Students/Online+Help+Center/">Help</a>
+        | <a id="OpenQuickFind" href="#">QuickFind</a></div>
 
 </div>
 
-
-				</td>
-				<td width="5" class="bgtopbar">
-					<img src="/LCCCWeb/images/topbar_shadow1.jpg" alt="" name="topbar_shadow1" width="6" height="67" border="0" id="topbar_shadow1"></td>
-				<td width="220" align="left" class="bgtopbar">
-					<div style="float: left; margin: 0px;">
-						<ul class="list1">
-							<li><a href="/About+Us/contact.htm">contact us</a></li>
-							<li><a href="/LCCCWeb/Extras/SiteMap.aspx">site map</a></li>
-						    <li><a href="https://mycampus.lorainccc.edu">mycampus login</a></li>
-						</ul>
-					</div>
-					<div style="float: right; margin: 0px;">
-						<a href="https://www.lorainccc.edu/lcccweb/admin/login.aspx?NRORIGINALURL=%2fCurrent%2bStudents%2fCampus%2bPolicies%2fWeb%2bSite%2bPrivacy%2bPolicy.htm">
-							<img src="/LCCCWeb/images/login.gif" alt="Login" style="border: 0px;"></a>
-					</div>
-				</td>
-			</tr>
-			<tr>
-				<td colspan="2" align="right" class="tabbar2" width="870">
-					
-							<table cellpadding="0" cellspacing="0">
-								<tbody><tr>
-									<td><a href="/default.htm"><img src="/LCCCWeb/images/tab_home_active.gif" alt="LCCC Home" width="32" height="10" border="0" align="absmiddle" class="tabdown"></a></td>
-						
-							<td><a href="/Current+Students/" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('tab_current.gif','','/LCCCWeb/images/tab_current_f2.gif',1);"><img src="/LCCCWeb/images/tab_current_f2.gif" alt="Current Students" name="tab_current.gif" height="28" border="0" align="absmiddle"></a></td>
-						
-							<td><a href="/Future+Students/" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('tab_future.gif','','/LCCCWeb/images/tab_future_f2.gif',1);"><img src="/LCCCWeb/images/tab_future.gif" alt="Future Students" name="tab_future.gif" height="28" border="0" align="absmiddle"></a></td>
-						
-							<td><a href="/Business+and+Industry/" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('tab_business.gif','','/LCCCWeb/images/tab_business_f2.gif',1);"><img src="/LCCCWeb/images/tab_business.gif" alt="Business and Industry" name="tab_business.gif" height="28" border="0" align="absmiddle"></a></td>
-						
-							<td><a href="/Community+Services/" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('tab_comm.gif','','/LCCCWeb/images/tab_comm_f2.gif',1);"><img src="/LCCCWeb/images/tab_comm.gif" alt="Community Services" name="tab_comm.gif" height="28" border="0" align="absmiddle"></a></td>
-						
-							<td><a href="/About+Us/" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('tab_about.gif','','/LCCCWeb/images/tab_about_f2.gif',1);"><img src="/LCCCWeb/images/tab_about.gif" alt="About Us" name="tab_about.gif" height="28" border="0" align="absmiddle"></a></td>
-						
-							<td><a href="/Faculty+and+Staff/" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('tab_faculty.gif','','/LCCCWeb/images/tab_faculty_f2.gif',1);"><img src="/LCCCWeb/images/tab_faculty.gif" alt="Faculty and Staff" name="tab_faculty.gif" height="28" border="0" align="absmiddle"></a></td>
-						
-							</tr></tbody></table>
-				</td>
-				<td colspan="2"><a href="/News+and+Events/" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('/LCCCWeb/images/tab_news.gif','','/LCCCWeb/images/tab_news_f2.gif',1);"><img src="/LCCCWeb/images/tab_news.gif" alt="News &amp; Events" name="tab_news.gif" height="28" border="0"></a></td>
-			</tr>
-			<tr>
-				<td colspan="2" class="topline">
-				</td>
-				<td colspan="2" class="topline">
-					<img src="/LCCCWeb/images/shadow_wht.gif" width="5" height="4"></td>
-			</tr>
-		</tbody></table>
-		
-	<table width="1080" border="0" cellspacing="0" cellpadding="0">
-		<tbody><tr>
-			<td valign="top" bgcolor="#FFFFFF" style="background-color: #FFFFFF;">
-				<div class="hdr1">
-					Web Site Privacy Policy
-				</div>
-				<div class="breadcrumb">
-					<a href="/">Home</a> &gt; <a href="/Current+Students/">Current Students</a> &gt; <a href="/Current+Students/Campus+Policies/">Campus Policies</a> &gt; Web Site Privacy Policy
-				</div>
-				<div class="ln">
-					
+      
+  </div>
+  <div class="topnavbar"><a href="/">Home</a> | <a href="/Current+Students/">Current Students</a> | <a href="/Future+Students/">Future Students</a> | <a href="/Business+and+Industry/">Business &amp; Industry</a> | <a href="/Community+Services/">Community Services</a> | <a href="/About+Us/">About Us</a> | <a href="/Faculty+and+Staff/">Faculty &amp; Staff</a></div>
+        
+  <div class="breadmediawrapper">
+      <div class="breadcrumbs"><a href="/">Home</a> &gt; <a href="/Current+Students/">Current Students</a> &gt; <a href="/Current+Students/Campus+Policies/">Campus Policies</a> &gt; Web Site Privacy Policy</div>
+      <div class="socialmedia">
+<a href="http://twitter.com/lorainccc"><img src="/LCCCWeb/images/templates/twitter-icon.png" width="20" height="19" alt="Follow LCCC on Twitter"></a><a href="http://facebook.com/lorainccc"><img src="/LCCCWeb/images/templates/facebook-icon.png" width="20" height="19" alt="Like LCCC on Facebook"></a><a href="http://www.youtube.com/lcccwebvideo"><img src="/LCCCWeb/images/templates/youtube-icon.png" width="20" height="19" alt="Subscribe to LCCC on YouTube"></a><a href="http://www.linkedin.com/company/lorain-county-community-college" target="_blank"><img src="/LCCCWeb/images/templates/linkedin-icon.png" width="20" height="19" alt="View LCCC on LinkedIn"></a></div>	
+  </div>
+  
+  <div class="midpage submidpage">
+  
+    <div class="leftcol subleftcol">
+        <div class="pagetitleblock"><h1>Web Site Privacy Policy</h1></div>
+        <div class="leftnav">
 		<ul class="ln">
 	
-		<li id="_ctl0_BodyContent_LeftSideNavigation1_NavLevel1__ctl1_NavListItem1" class="level1_channel"><a href="/Current+Students/Academic+Calendar/">Academic Calendar</a></li>
+		<li id="_ctl0_ContentPlaceHolder1_LeftSideNavigation1_NavLevel1__ctl1_NavListItem1" class="level1_channel"><a href="/Current+Students/Academic+Calendar/">Academic Calendar</a></li>
 		
 	
-		<li id="_ctl0_BodyContent_LeftSideNavigation1_NavLevel1__ctl2_NavListItem1" class="level1_channel"><a href="/academic+divisions/">Academic Divisions</a></li>
+		<li id="_ctl0_ContentPlaceHolder1_LeftSideNavigation1_NavLevel1__ctl2_NavListItem1" class="level1_channel"><a href="/academic+divisions/">Academic Divisions</a></li>
 		
 	
-		<li id="_ctl0_BodyContent_LeftSideNavigation1_NavLevel1__ctl3_NavListItem1" class="level1_channel"><a href="/academic+programs/">Academic Programs</a></li>
+		<li id="_ctl0_ContentPlaceHolder1_LeftSideNavigation1_NavLevel1__ctl3_NavListItem1" class="level1_channel"><a href="/academic+programs/">Academic Programs</a></li>
 		
 	
-		<li id="_ctl0_BodyContent_LeftSideNavigation1_NavLevel1__ctl4_NavListItem1" class="level1_channel"><a href="/Current+Students/Academic+Standards+and+Regulations/">Academic Standards and Regulations</a></li>
+		<li id="_ctl0_ContentPlaceHolder1_LeftSideNavigation1_NavLevel1__ctl4_NavListItem1" class="level1_channel"><a href="/Current+Students/Academic+Standards+and+Regulations/">Academic Standards and Regulations</a></li>
 		
 	
-		<li id="_ctl0_BodyContent_LeftSideNavigation1_NavLevel1__ctl5_NavListItem1" class="level1_channel"><a href="/Admissions+and+Registration/">Admissions and Registration</a></li>
+		<li id="_ctl0_ContentPlaceHolder1_LeftSideNavigation1_NavLevel1__ctl5_NavListItem1" class="level1_channel"><a href="/Admissions+and+Registration/">Admissions and Registration</a></li>
 		
 	
-		<li id="_ctl0_BodyContent_LeftSideNavigation1_NavLevel1__ctl6_NavListItem1" class="level1_channel"><a href="/Current+Students/Advising+and+Counseling/">Advising and Counseling</a></li>
+		<li id="_ctl0_ContentPlaceHolder1_LeftSideNavigation1_NavLevel1__ctl6_NavListItem1" class="level1_channel"><a href="/Current+Students/Advising+and+Counseling/">Advising and Counseling</a></li>
 		
 	
-		<li id="_ctl0_BodyContent_LeftSideNavigation1_NavLevel1__ctl7_NavListItem1" class="level1_channel"><a href="/Bookstore/">Bookstore</a></li>
+		<li id="_ctl0_ContentPlaceHolder1_LeftSideNavigation1_NavLevel1__ctl7_NavListItem1" class="level1_channel"><a href="/Bookstore/">Bookstore</a></li>
 		
 	
-		<li id="_ctl0_BodyContent_LeftSideNavigation1_NavLevel1__ctl8_NavListItem1" class="level1_posting"><a href="/Current+Students/food+service.htm">Campus Food Service</a></li>
+		<li id="_ctl0_ContentPlaceHolder1_LeftSideNavigation1_NavLevel1__ctl8_NavListItem1" class="level1_posting"><a href="/Current+Students/food+service.htm">Campus Food Service</a></li>
 		
 	
-		<li id="_ctl0_BodyContent_LeftSideNavigation1_NavLevel1__ctl9_NavListItem1" class="level1_expanded"><a href="/Current+Students/Campus+Policies/">Campus Policies</a></li>
+		<li id="_ctl0_ContentPlaceHolder1_LeftSideNavigation1_NavLevel1__ctl9_NavListItem1" class="level1_expanded"><a href="/Current+Students/Campus+Policies/">Campus Policies</a></li>
 		
-				<li id="_ctl0_BodyContent_LeftSideNavigation1_NavLevel1__ctl9_NavLevel2__ctl0_NavListItem2" class="level2"><a href="/Current+Students/Campus+Policies/ADA.htm">Americans With Disabilities Act</a></li>
+				<li id="_ctl0_ContentPlaceHolder1_LeftSideNavigation1_NavLevel1__ctl9_NavLevel2__ctl0_NavListItem2" class="level2"><a href="/Current+Students/Campus+Policies/ADA.htm">Americans With Disabilities Act</a></li>
 								
 			
-				<li id="_ctl0_BodyContent_LeftSideNavigation1_NavLevel1__ctl9_NavLevel2__ctl1_NavListItem2" class="level2"><a href="/Current+Students/Campus+Policies/TransferAppeal.htm">Appeal Procedure for Transfer of Credit</a></li>
+				<li id="_ctl0_ContentPlaceHolder1_LeftSideNavigation1_NavLevel1__ctl9_NavLevel2__ctl1_NavListItem2" class="level2"><a href="/Current+Students/Campus+Policies/TransferAppeal.htm">Appeal Procedure for Transfer of Credit</a></li>
 								
 			
-				<li id="_ctl0_BodyContent_LeftSideNavigation1_NavLevel1__ctl9_NavLevel2__ctl2_NavListItem2" class="level2"><a href="/Current+Students/Campus+Policies/AssignmentofCatalog.htm">Assignment of Catalog</a></li>
+				<li id="_ctl0_ContentPlaceHolder1_LeftSideNavigation1_NavLevel1__ctl9_NavLevel2__ctl2_NavListItem2" class="level2"><a href="/Current+Students/Campus+Policies/AssignmentofCatalog.htm">Assignment of Catalog</a></li>
 								
 			
-				<li id="_ctl0_BodyContent_LeftSideNavigation1_NavLevel1__ctl9_NavLevel2__ctl3_NavListItem2" class="level2"><a href="/Current+Students/Campus+Policies/Code+of+Conduct.htm">Code of Conduct</a></li>
+				<li id="_ctl0_ContentPlaceHolder1_LeftSideNavigation1_NavLevel1__ctl9_NavLevel2__ctl3_NavListItem2" class="level2"><a href="/Current+Students/Campus+Policies/Code+of+Conduct.htm">Code of Conduct</a></li>
 								
 			
-				<li id="_ctl0_BodyContent_LeftSideNavigation1_NavLevel1__ctl9_NavLevel2__ctl4_NavListItem2" class="level2"><a href="/Current+Students/Campus+Policies/p2p.htm">Copyright and Peer-to-Peer File Sharing</a></li>
+				<li id="_ctl0_ContentPlaceHolder1_LeftSideNavigation1_NavLevel1__ctl9_NavLevel2__ctl4_NavListItem2" class="level2"><a href="/Current+Students/Campus+Policies/p2p.htm">Copyright and Peer-to-Peer File Sharing</a></li>
 								
 			
-				<li id="_ctl0_BodyContent_LeftSideNavigation1_NavLevel1__ctl9_NavLevel2__ctl5_NavListItem2" class="level2"><a href="/Current+Students/Campus+Policies/EmergencyWeatherClosings.htm">Emergency Weather Closings</a></li>
+				<li id="_ctl0_ContentPlaceHolder1_LeftSideNavigation1_NavLevel1__ctl9_NavLevel2__ctl5_NavListItem2" class="level2"><a href="/Current+Students/Campus+Policies/EmergencyWeatherClosings.htm">Emergency Weather Closings</a></li>
 								
 			
-				<li id="_ctl0_BodyContent_LeftSideNavigation1_NavLevel1__ctl9_NavLevel2__ctl6_NavListItem2" class="level2"><a href="/Current+Students/Campus+Policies/FERPA.htm">Family Educational Rights and Privacy Act</a></li>
+				<li id="_ctl0_ContentPlaceHolder1_LeftSideNavigation1_NavLevel1__ctl9_NavLevel2__ctl6_NavListItem2" class="level2"><a href="/Current+Students/Campus+Policies/FERPA.htm">Family Educational Rights and Privacy Act</a></li>
 								
 			
-				<li id="_ctl0_BodyContent_LeftSideNavigation1_NavLevel1__ctl9_NavLevel2__ctl7_NavListItem2" class="level2"><a href="/Current+Students/Campus+Policies/SexualHarassment.htm">Sexual Harassment Policy</a></li>
+				<li id="_ctl0_ContentPlaceHolder1_LeftSideNavigation1_NavLevel1__ctl9_NavLevel2__ctl7_NavListItem2" class="level2"><a href="/Current+Students/Campus+Policies/SexualHarassment.htm">Sexual Harassment Policy</a></li>
 								
 			
-				<li id="_ctl0_BodyContent_LeftSideNavigation1_NavLevel1__ctl9_NavLevel2__ctl8_NavListItem2" class="level2"><a href="/Current+Students/Campus+Policies/Statement+of+Nondescrimination.htm">Statement of Nondescrimination</a></li>
+				<li id="_ctl0_ContentPlaceHolder1_LeftSideNavigation1_NavLevel1__ctl9_NavLevel2__ctl8_NavListItem2" class="level2"><a href="/Current+Students/Campus+Policies/Statement+of+Nondescrimination.htm">Statement of Nondescrimination</a></li>
 								
 			
-				<li id="_ctl0_BodyContent_LeftSideNavigation1_NavLevel1__ctl9_NavLevel2__ctl9_NavListItem2" class="level2"><a href="/Current+Students/Campus+Policies/Grievance.htm">Student Grievance Procedure</a></li>
+				<li id="_ctl0_ContentPlaceHolder1_LeftSideNavigation1_NavLevel1__ctl9_NavLevel2__ctl9_NavListItem2" class="level2"><a href="/Current+Students/Campus+Policies/Grievance.htm">Student Grievance Procedure</a></li>
 								
 			
-				<li id="_ctl0_BodyContent_LeftSideNavigation1_NavLevel1__ctl9_NavLevel2__ctl10_NavListItem2" class="level2"><a href="/Current+Students/Campus+Policies/Tuition+Refund+Policy.htm">Tuition Refund Policy</a></li>
+				<li id="_ctl0_ContentPlaceHolder1_LeftSideNavigation1_NavLevel1__ctl9_NavLevel2__ctl10_NavListItem2" class="level2"><a href="/Current+Students/Campus+Policies/Tuition+Refund+Policy.htm">Tuition Refund Policy</a></li>
 								
 			
-				<li id="_ctl0_BodyContent_LeftSideNavigation1_NavLevel1__ctl9_NavLevel2__ctl11_NavListItem2" class="level2"><a href="/Current+Students/Campus+Policies/Web+Site+Privacy+Policy.htm">Web Site Privacy Policy</a></li>
+				<li id="_ctl0_ContentPlaceHolder1_LeftSideNavigation1_NavLevel1__ctl9_NavLevel2__ctl11_NavListItem2" class="level2"><a href="/Current+Students/Campus+Policies/Web+Site+Privacy+Policy.htm">Web Site Privacy Policy</a></li>
 								
 			
-				<li id="_ctl0_BodyContent_LeftSideNavigation1_NavLevel1__ctl9_NavLevel2__ctl12_NavListItem2" class="level2"><a href="/Current+Students/Campus+Policies/Web+Site+Terms+and+Conditions.htm">Web Site Terms and Conditions</a></li>
+				<li id="_ctl0_ContentPlaceHolder1_LeftSideNavigation1_NavLevel1__ctl9_NavLevel2__ctl12_NavListItem2" class="level2"><a href="/Current+Students/Campus+Policies/Web+Site+Terms+and+Conditions.htm">Web Site Terms and Conditions</a></li>
 								
 			
 	
-		<li id="_ctl0_BodyContent_LeftSideNavigation1_NavLevel1__ctl10_NavListItem1" class="level1_channel"><a href="/campus+security/">Campus Security</a></li>
+		<li id="_ctl0_ContentPlaceHolder1_LeftSideNavigation1_NavLevel1__ctl10_NavListItem1" class="level1_channel"><a href="/campus+security/">Campus Security</a></li>
 		
 	
-		<li id="_ctl0_BodyContent_LeftSideNavigation1_NavLevel1__ctl11_NavListItem1" class="level1_channel"><a href="/employment+and+career+services/">Career Services</a></li>
+		<li id="_ctl0_ContentPlaceHolder1_LeftSideNavigation1_NavLevel1__ctl11_NavListItem1" class="level1_channel"><a href="/employment+and+career+services/">Career Services</a></li>
 		
 	
-		<li id="_ctl0_BodyContent_LeftSideNavigation1_NavLevel1__ctl12_NavListItem1" class="level1_channel"><a href="/Current+Students/Childrens+Learning+Center/">Childrens Learning Center</a></li>
+		<li id="_ctl0_ContentPlaceHolder1_LeftSideNavigation1_NavLevel1__ctl12_NavListItem1" class="level1_channel"><a href="/Current+Students/Childrens+Learning+Center/">Childrens Learning Center</a></li>
 		
 	
-		<li id="_ctl0_BodyContent_LeftSideNavigation1_NavLevel1__ctl13_NavListItem1" class="level1_channel"><a href="http://collegian.lorainccc.edu">Collegian Student Newspaper</a></li>
+		<li id="_ctl0_ContentPlaceHolder1_LeftSideNavigation1_NavLevel1__ctl13_NavListItem1" class="level1_channel"><a href="http://collegian.lorainccc.edu">Collegian Student Newspaper</a></li>
 		
 	
-		<li id="_ctl0_BodyContent_LeftSideNavigation1_NavLevel1__ctl14_NavListItem1" class="level1_posting"><a href="/Current+Students/Computer+Lab+Hours+and+Software.htm">Computer Lab Hours and Software</a></li>
+		<li id="_ctl0_ContentPlaceHolder1_LeftSideNavigation1_NavLevel1__ctl14_NavListItem1" class="level1_posting"><a href="/Current+Students/Computer+Lab+Hours+and+Software.htm">Computer Lab Hours and Software</a></li>
 		
 	
-		<li id="_ctl0_BodyContent_LeftSideNavigation1_NavLevel1__ctl15_NavListItem1" class="level1_channel"><a href="http://www.lorainccc.edu/Employment+and+Career+Services/Student+Coop+Jobs/">Co-op, Internship and Student Employment</a></li>
+		<li id="_ctl0_ContentPlaceHolder1_LeftSideNavigation1_NavLevel1__ctl15_NavListItem1" class="level1_channel"><a href="http://www.lorainccc.edu/Employment+and+Career+Services/Student+Coop+Jobs/">Co-op, Internship and Student Employment</a></li>
 		
 	
-		<li id="_ctl0_BodyContent_LeftSideNavigation1_NavLevel1__ctl16_NavListItem1" class="level1_posting"><a href="/Current+Students/DeansList.htm">Dean's List</a></li>
+		<li id="_ctl0_ContentPlaceHolder1_LeftSideNavigation1_NavLevel1__ctl16_NavListItem1" class="level1_posting"><a href="/Current+Students/Default.htm">Current Students</a></li>
 		
 	
-		<li id="_ctl0_BodyContent_LeftSideNavigation1_NavLevel1__ctl17_NavListItem1" class="level1_channel"><a href="/distance+learning/">Distance Learning</a></li>
+		<li id="_ctl0_ContentPlaceHolder1_LeftSideNavigation1_NavLevel1__ctl17_NavListItem1" class="level1_posting"><a href="/Current+Students/DeansList.htm">Dean's List</a></li>
 		
 	
-		<li id="_ctl0_BodyContent_LeftSideNavigation1_NavLevel1__ctl18_NavListItem1" class="level1_channel"><a href="/early+college/">Early College</a></li>
+		<li id="_ctl0_ContentPlaceHolder1_LeftSideNavigation1_NavLevel1__ctl18_NavListItem1" class="level1_channel"><a href="/Special+Needs+Services/">Disability Services</a></li>
 		
 	
-		<li id="_ctl0_BodyContent_LeftSideNavigation1_NavLevel1__ctl19_NavListItem1" class="level1_channel"><a href="/Current+Students/PLA/">Earn College Credit for What You Already Know</a></li>
+		<li id="_ctl0_ContentPlaceHolder1_LeftSideNavigation1_NavLevel1__ctl19_NavListItem1" class="level1_channel"><a href="/distance+learning/">Distance Learning</a></li>
 		
 	
-		<li id="_ctl0_BodyContent_LeftSideNavigation1_NavLevel1__ctl20_NavListItem1" class="level1_posting"><a href="/Current+Students/e-mail.htm">E-Mail Accounts for LCCC Students</a></li>
+		<li id="_ctl0_ContentPlaceHolder1_LeftSideNavigation1_NavLevel1__ctl20_NavListItem1" class="level1_channel"><a href="/early+college/">Early College</a></li>
 		
 	
-		<li id="_ctl0_BodyContent_LeftSideNavigation1_NavLevel1__ctl21_NavListItem1" class="level1_channel"><a href="/Current+Students/Emergency+Alerts+Text+Messaging+System/">Emergency Alerts Text Messaging System</a></li>
+		<li id="_ctl0_ContentPlaceHolder1_LeftSideNavigation1_NavLevel1__ctl21_NavListItem1" class="level1_channel"><a href="/Current+Students/PLA/">Earn College Credit for What You Already Know</a></li>
 		
 	
-		<li id="_ctl0_BodyContent_LeftSideNavigation1_NavLevel1__ctl22_NavListItem1" class="level1_channel"><a href="/eoc/">Eye on Campus</a></li>
+		<li id="_ctl0_ContentPlaceHolder1_LeftSideNavigation1_NavLevel1__ctl22_NavListItem1" class="level1_posting"><a href="/Current+Students/e-mail.htm">E-Mail Accounts for LCCC Students</a></li>
 		
 	
-		<li id="_ctl0_BodyContent_LeftSideNavigation1_NavLevel1__ctl23_NavListItem1" class="level1_channel"><a href="/financial+aid/">Financial Aid</a></li>
+		<li id="_ctl0_ContentPlaceHolder1_LeftSideNavigation1_NavLevel1__ctl23_NavListItem1" class="level1_channel"><a href="/Current+Students/Emergency+Alerts+Text+Messaging+System/">Emergency Alerts Text Messaging System</a></li>
 		
 	
-		<li id="_ctl0_BodyContent_LeftSideNavigation1_NavLevel1__ctl24_NavListItem1" class="level1_channel"><a href="/Academic+Divisions/Health+Physical+Education+and+Recreation/Fitness+Center/">Fitness Center</a></li>
+		<li id="_ctl0_ContentPlaceHolder1_LeftSideNavigation1_NavLevel1__ctl24_NavListItem1" class="level1_channel"><a href="/eoc/">Eye on Campus</a></li>
 		
 	
-		<li id="_ctl0_BodyContent_LeftSideNavigation1_NavLevel1__ctl25_NavListItem1" class="level1_posting"><a href="/Current+Students/FormsLibrary.htm">Forms Library</a></li>
+		<li id="_ctl0_ContentPlaceHolder1_LeftSideNavigation1_NavLevel1__ctl25_NavListItem1" class="level1_channel"><a href="/financial+aid/">Financial Aid</a></li>
 		
 	
-		<li id="_ctl0_BodyContent_LeftSideNavigation1_NavLevel1__ctl26_NavListItem1" class="level1_channel"><a href="/Current+Students/Graduation+Information/">Graduation Information</a></li>
+		<li id="_ctl0_ContentPlaceHolder1_LeftSideNavigation1_NavLevel1__ctl26_NavListItem1" class="level1_channel"><a href="/Academic+Divisions/Health+Physical+Education+and+Recreation/Fitness+Center/">Fitness Center</a></li>
 		
 	
-		<li id="_ctl0_BodyContent_LeftSideNavigation1_NavLevel1__ctl27_NavListItem1" class="level1_channel"><a href="/Current+Students/Great+Grads/">Great Grads</a></li>
+		<li id="_ctl0_ContentPlaceHolder1_LeftSideNavigation1_NavLevel1__ctl27_NavListItem1" class="level1_posting"><a href="/Current+Students/FormsLibrary.htm">Forms Library</a></li>
 		
 	
-		<li id="_ctl0_BodyContent_LeftSideNavigation1_NavLevel1__ctl28_NavListItem1" class="level1_channel"><a href="/Admissions+and+Registration/International+Students/">International Students</a></li>
+		<li id="_ctl0_ContentPlaceHolder1_LeftSideNavigation1_NavLevel1__ctl28_NavListItem1" class="level1_channel"><a href="/Current+Students/Graduation+Information/">Graduation Information</a></li>
 		
 	
-		<li id="_ctl0_BodyContent_LeftSideNavigation1_NavLevel1__ctl29_NavListItem1" class="level1_channel"><a href="/LCCC+Learning+Centers/">LCCC Learning Centers</a></li>
+		<li id="_ctl0_ContentPlaceHolder1_LeftSideNavigation1_NavLevel1__ctl29_NavListItem1" class="level1_channel"><a href="/Current+Students/Great+Grads/">Great Grads</a></li>
 		
 	
-		<li id="_ctl0_BodyContent_LeftSideNavigation1_NavLevel1__ctl30_NavListItem1" class="level1_channel"><a href="/library/">Library</a></li>
+		<li id="_ctl0_ContentPlaceHolder1_LeftSideNavigation1_NavLevel1__ctl30_NavListItem1" class="level1_channel"><a href="/Admissions+and+Registration/International+Students/">International Students</a></li>
 		
 	
-		<li id="_ctl0_BodyContent_LeftSideNavigation1_NavLevel1__ctl31_NavListItem1" class="level1_channel"><a href="/MyCampus+Info">MyCampus Info</a></li>
+		<li id="_ctl0_ContentPlaceHolder1_LeftSideNavigation1_NavLevel1__ctl31_NavListItem1" class="level1_channel"><a href="/LCCC+Learning+Centers/">LCCC Learning Centers</a></li>
 		
 	
-		<li id="_ctl0_BodyContent_LeftSideNavigation1_NavLevel1__ctl32_NavListItem1" class="level1_channel"><a href="/Special+Needs+Services/">Office for Special Needs Services</a></li>
+		<li id="_ctl0_ContentPlaceHolder1_LeftSideNavigation1_NavLevel1__ctl32_NavListItem1" class="level1_channel"><a href="/library/">Library</a></li>
 		
 	
-		<li id="_ctl0_BodyContent_LeftSideNavigation1_NavLevel1__ctl33_NavListItem1" class="level1_channel"><a href="/Current+Students/Online+Help+Center/">Online Help Center</a></li>
+		<li id="_ctl0_ContentPlaceHolder1_LeftSideNavigation1_NavLevel1__ctl33_NavListItem1" class="level1_channel"><a href="/MyCampus+Info">MyCampus Info</a></li>
 		
 	
-		<li id="_ctl0_BodyContent_LeftSideNavigation1_NavLevel1__ctl34_NavListItem1" class="level1_channel"><a href="/Distance+Learning/iTunesU.htm">Podcasts of Lectures</a></li>
+		<li id="_ctl0_ContentPlaceHolder1_LeftSideNavigation1_NavLevel1__ctl34_NavListItem1" class="level1_channel"><a href="/Current+Students/Online+Help+Center/">Online Help Center</a></li>
 		
 	
-		<li id="_ctl0_BodyContent_LeftSideNavigation1_NavLevel1__ctl35_NavListItem1" class="level1_channel"><a href="/Current+Students/Printing/">Printing on Campus Computers</a></li>
+		<li id="_ctl0_ContentPlaceHolder1_LeftSideNavigation1_NavLevel1__ctl35_NavListItem1" class="level1_channel"><a href="/Distance+Learning/iTunesU.htm">Podcasts of Lectures</a></li>
 		
 	
-		<li id="_ctl0_BodyContent_LeftSideNavigation1_NavLevel1__ctl36_NavListItem1" class="level1_posting"><a href="/Current+Students/records.htm">Records Office</a></li>
+		<li id="_ctl0_ContentPlaceHolder1_LeftSideNavigation1_NavLevel1__ctl36_NavListItem1" class="level1_channel"><a href="/Current+Students/Printing/">Printing on Campus Computers</a></li>
 		
 	
-		<li id="_ctl0_BodyContent_LeftSideNavigation1_NavLevel1__ctl37_NavListItem1" class="level1_channel"><a href="/Sports">Sports Programs</a></li>
+		<li id="_ctl0_ContentPlaceHolder1_LeftSideNavigation1_NavLevel1__ctl37_NavListItem1" class="level1_posting"><a href="/Current+Students/records.htm">Records Office</a></li>
 		
 	
-		<li id="_ctl0_BodyContent_LeftSideNavigation1_NavLevel1__ctl38_NavListItem1" class="level1_posting"><a href="/Current+Students/Student+Assessment+Guide.htm">Student Assessment Guide</a></li>
+		<li id="_ctl0_ContentPlaceHolder1_LeftSideNavigation1_NavLevel1__ctl38_NavListItem1" class="level1_channel"><a href="/Athletics">Sports Programs</a></li>
 		
 	
-		<li id="_ctl0_BodyContent_LeftSideNavigation1_NavLevel1__ctl39_NavListItem1" class="level1_channel"><a href="/Student+Life/">Student Life</a></li>
+		<li id="_ctl0_ContentPlaceHolder1_LeftSideNavigation1_NavLevel1__ctl39_NavListItem1" class="level1_posting"><a href="/Current+Students/Student+Assessment+Guide.htm">Student Assessment Guide</a></li>
 		
 	
-		<li id="_ctl0_BodyContent_LeftSideNavigation1_NavLevel1__ctl40_NavListItem1" class="level1_channel"><a href="/Current+Students/Student+Orientations/">Student Orientations</a></li>
+		<li id="_ctl0_ContentPlaceHolder1_LeftSideNavigation1_NavLevel1__ctl40_NavListItem1" class="level1_channel"><a href="/Student+Life/">Student Life</a></li>
 		
 	
-		<li id="_ctl0_BodyContent_LeftSideNavigation1_NavLevel1__ctl41_NavListItem1" class="level1_channel"><a href="/Student+Life/Student+Senate/">Student Senate</a></li>
+		<li id="_ctl0_ContentPlaceHolder1_LeftSideNavigation1_NavLevel1__ctl41_NavListItem1" class="level1_channel"><a href="/Current+Students/Student+Orientations/">Student Orientations</a></li>
 		
 	
-		<li id="_ctl0_BodyContent_LeftSideNavigation1_NavLevel1__ctl42_NavListItem1" class="level1_channel"><a href="/student+success+plan/">Student Success Plan</a></li>
+		<li id="_ctl0_ContentPlaceHolder1_LeftSideNavigation1_NavLevel1__ctl42_NavListItem1" class="level1_channel"><a href="/Student+Life/Student+Senate/">Student Senate</a></li>
 		
 	
-		<li id="_ctl0_BodyContent_LeftSideNavigation1_NavLevel1__ctl43_NavListItem1" class="level1_channel"><a href="/Current+Students/Testing+Center/">Testing and Assessment Center</a></li>
+		<li id="_ctl0_ContentPlaceHolder1_LeftSideNavigation1_NavLevel1__ctl43_NavListItem1" class="level1_channel"><a href="/student+success+plan/">Student Success Plan</a></li>
 		
 	
-		<li id="_ctl0_BodyContent_LeftSideNavigation1_NavLevel1__ctl44_NavListItem1" class="level1_channel"><a href="/transfer+information/">Transfer Information</a></li>
+		<li id="_ctl0_ContentPlaceHolder1_LeftSideNavigation1_NavLevel1__ctl44_NavListItem1" class="level1_posting"><a href="/Current+Students/Student+Workshops.htm">Student Workshops</a></li>
 		
 	
-		<li id="_ctl0_BodyContent_LeftSideNavigation1_NavLevel1__ctl45_NavListItem1" class="level1_channel"><a href="/tuition+and+fees/">Tuition and Fees</a></li>
+		<li id="_ctl0_ContentPlaceHolder1_LeftSideNavigation1_NavLevel1__ctl45_NavListItem1" class="level1_posting"><a href="/Current+Students/Current+Students+General+Information.htm">Students</a></li>
 		
 	
-		<li id="_ctl0_BodyContent_LeftSideNavigation1_NavLevel1__ctl46_NavListItem1" class="level1_channel"><a href="/Current+Students/Tutoring+Center/">Tutoring Center</a></li>
+		<li id="_ctl0_ContentPlaceHolder1_LeftSideNavigation1_NavLevel1__ctl46_NavListItem1" class="level1_channel"><a href="/Current+Students/Testing+Center/">Testing and Assessment Center</a></li>
 		
 	
-		<li id="_ctl0_BodyContent_LeftSideNavigation1_NavLevel1__ctl47_NavListItem1" class="level1_channel"><a href="/up/">University Partnership</a></li>
+		<li id="_ctl0_ContentPlaceHolder1_LeftSideNavigation1_NavLevel1__ctl47_NavListItem1" class="level1_channel"><a href="/transfer+information/">Transfer Information</a></li>
 		
 	
-		<li id="_ctl0_BodyContent_LeftSideNavigation1_NavLevel1__ctl48_NavListItem1" class="level1_channel"><a href="/Veterans">Veterans' Information</a></li>
+		<li id="_ctl0_ContentPlaceHolder1_LeftSideNavigation1_NavLevel1__ctl48_NavListItem1" class="level1_channel"><a href="/tuition+and+fees/">Tuition and Fees</a></li>
 		
 	
-		<li id="_ctl0_BodyContent_LeftSideNavigation1_NavLevel1__ctl49_NavListItem1" class="level1_channel"><a href="/womens+link/">Women's Link</a></li>
+		<li id="_ctl0_ContentPlaceHolder1_LeftSideNavigation1_NavLevel1__ctl49_NavListItem1" class="level1_channel"><a href="/Current+Students/Tutoring+Center/">Tutoring Center</a></li>
+		
+	
+		<li id="_ctl0_ContentPlaceHolder1_LeftSideNavigation1_NavLevel1__ctl50_NavListItem1" class="level1_channel"><a href="/up/">University Partnership</a></li>
+		
+	
+		<li id="_ctl0_ContentPlaceHolder1_LeftSideNavigation1_NavLevel1__ctl51_NavListItem1" class="level1_channel"><a href="/Veterans">Veterans' Information</a></li>
+		
+	
+		<li id="_ctl0_ContentPlaceHolder1_LeftSideNavigation1_NavLevel1__ctl52_NavListItem1" class="level1_channel"><a href="/womens+link/">Women's Link</a></li>
 		
 	
 		</ul>
 	
-
-				</div>
-				<div class="main" style="background-color: #FFFFFF;">
-					<div id="_ctl0_BodyContent_Radeditorplaceholdercontrol2">
+</div>
+	      <div class="content">
+		    <div id="_ctl0_ContentPlaceHolder1_Radeditorplaceholdercontrol2">
 	
 		<h1 class="arialtwelveblack">LCCC Web Site Privacy Policy</h1>
 <p class="arialtwelveblack">Information and services offered on lorainccc.edu are provided by Lorain County Community College, Elyria, Ohio. The purpose of the site is to provide public information about the college, and to offer online services to students, college faculty and staff. Online services include, but are not limited to college admission, class registration, tuition payment, financial aid and class schedules. Lorain County Community College recognizes the importance of protecting the privacy rights of our users. Any information shared between users and Lorain County Community College is securely managed and safeguarded in accordance with all applicable laws and the policies and guidelines set forth below.</p>
@@ -348,88 +362,156 @@
 <p><b>Visitor comments or review<br></b>If you have questions about this privacy statement or the practices of this website or if you choose to review or correct any information, please contact us at <a href="mailto:webmaster@lorainccc.edu">webmaster@lorainccc.edu</a>, or call (800) 366-5222. </p>
 <p>&nbsp;</p>
 </div>
-					<p style="text-align: right;">
-						<a id="_ctl0_BodyContent_Printerfriendly1_hplPrinterFriendly" href="/LCCCWeb/Extras/Printable.aspx?guid={3F2C6BA9-6EB1-4558-BE68-21C82726B62F}" target="_blank"><img src="/LCCCWeb//images/printable_icon.gif" class="printerimage" alt="Print this page.">Print this page.</a>
-					</p>
-				</div>
-			</td>
-			<td width="199" valign="top" class="sidebar">
-				
-		<p align="left">
-				<a title="Facebook" href="http://facebook.com/lorainccc" target="_blank">
-						<img style="WIDTH: 30px; HEIGHT: 30px" border="0" alt="Facebook" src="/NR/rdonlyres/4201D9B9-6A5E-4052-BF84-9C2755C88BEF/10293/Facebook_icon38.png"> </a>&nbsp;<a title="Twitter" href="http://twitter.com/lorainccc" target="_blank"><img style="WIDTH: 30px; HEIGHT: 30px" border="0" alt="Twitter" src="/NR/rdonlyres/4201D9B9-6A5E-4052-BF84-9C2755C88BEF/10295/twitter_logo35.png"></a>&nbsp;<a title="YouTube" href="http://www.youtube.com/lcccwebvideo" target="_blank"><img style="WIDTH: 30px; HEIGHT: 30px" border="0" alt="YouTube" src="/NR/rdonlyres/4201D9B9-6A5E-4052-BF84-9C2755C88BEF/10296/youtube_icon36.png"></a>&nbsp;<a title="LinkedIn" href="http://www.linkedin.com/company/lorain-county-community-college" target="_blank"><img style="WIDTH: 30px; HEIGHT: 30px" border="0" alt="LinkedIn" src="/NR/rdonlyres/4201D9B9-6A5E-4052-BF84-9C2755C88BEF/10300/linkedinicon37.png"></a></p>
-<p><font style="WIDTH: 134px; HEIGHT: 28px" class="sidehdr"><strong>LCCC Announcements</strong></font><br><strong></strong></p>
-<p><strong>Give Yourself the Gift of Education<br></strong>Register before December&nbsp;21 to be entered into a drawing for an iPad.<br><a title="Registration Schedule" href="/MyCampus+Info/RegistrationSchedule.htm">Learn more</a></p>
-<p><strong>Recycled Computer Program<br></strong>LCCC has refurbished computers available for economically disadvantaged students. A limited supply of computers is available.<br><a href="/Academic+Divisions/Engineering+Technologies/Recycled+Computer+Program.htm">Learn more<br></a></p>
-<p><strong>Attention New Students<br></strong>You <strong><em>cannot register for classes</em></strong> until you attend an orientation session for new students. For additional requirements and to register for an orientation session, visit <a title="New Student Orientation" href="http://www.lorainccc.edu/orientation">www.lorainccc.edu/orientation</a>.</p>
-<p><strong>Save Money on Tuition<br></strong>Register for 13 to 18 credit hours at LCCC and pay for only 13!<br><a title="Tuition and Fees" href="/Tuition+and+Fees/">Click here for tuition rates</a> </p>
-				<span id="_ctl0_BodyContent_RssAggregatorPlaceholderControl1"><h1><a href="http://apps.lorainccc.edu/eventcalendar/">LCCC Events</a></h1>
-<p><strong>January 15 - Live Nation presents Guster</strong>
-<br><a target="_blank" href="http://apps.lorainccc.edu/eventcalendar/details.aspx?evt=5067">Read More...</a>
-</p>
-<p><strong>January 18 - Feeling Good...Swing’n Broadway and More </strong>
-<br><a target="_blank" href="http://apps.lorainccc.edu/eventcalendar/details.aspx?evt=53">Read More...</a>
-</p>
-<p><strong>January 19 - Feeling Good...Swing’n Broadway and More </strong>
-<br><a target="_blank" href="http://apps.lorainccc.edu/eventcalendar/details.aspx?evt=54">Read More...</a>
-</p>
-<p><strong>February 1 - Franc D’Ambrosio’s Broadway</strong>
-<br><a target="_blank" href="http://apps.lorainccc.edu/eventcalendar/details.aspx?evt=8">Read More...</a>
-</p>
-<p><strong>February 9 - Civic Orchestra</strong>
-<br><a target="_blank" href="http://apps.lorainccc.edu/eventcalendar/details.aspx?evt=35">Read More...</a>
-</p>
-</span>
-				
-			</td>
-		</tr>
-	</tbody></table>
+          </div>
+    </div>
 
-		<table width="1080" border="0" cellspacing="0" cellpadding="0">
-			<tbody><tr>
-				<td colspan="2" valign="top" class="footer">
-					© 2012 Lorain County Community College | 1005&nbsp;N Abbe Rd -- Elyria, OH 44035 | 1-800-995-LCCC&nbsp;|&nbsp;<a href="mailto:webmaster@lorainccc.edu">Webmaster</a> | <a title="LCCC Site Map" href="/LCCCWeb/Extras/sitemap.aspx">Site Map</a>&nbsp;| <a title="Maps and Directions" href="/About+Us/maps.htm">Maps and Directions</a>&nbsp;| <a title="Web Privacy Policy" href="/Current+Students/Campus+Policies/Web+Site+Privacy+Policy.htm">Privacy Policy</a>
-					
-				</td>
-			</tr>
-		</tbody></table>
-		</div>
+    <div class="rightcol">
+		<div class="btm-widget">
+      	    <div class="eventlist">
+                <div class="announce-hdr"><h2>Announcements</h2> <!--<span class="readall">Read All >></span>--></div>
+                <div class="aecontent">
+                    
+        <div style="margin-bottom: 5px; font-size: 10pt; border-bottom: solid 1px #d3d3d3;">
+            <p style="margin: 2px 0 12px 0;"></p><h3 style="margin: 3px 0 2px 0;">Summer and Fall Registration</h3>
+            <span style="line-spacing: 11px;">New classes for Summer 2013&nbsp;begin June 17 and July 1, and seats in Fall 2013 classes are filling up quickly. <a href="http://www.lorainccc.edu/Admissions+and+Registration/RegistrationSchedule.htm">Click here to register&nbsp;now for&nbsp;Summer and Fall 2013&nbsp;classes.</a>  </span>
+            <br><a href="" target="_blank" style="line-spacing: 12px;"></a><p></p>
+        </div>
+    
+        <div style="margin-bottom: 5px; font-size: 10pt; border-bottom: solid 1px #d3d3d3;">
+            <p style="margin: 2px 0 12px 0;"></p><h3 style="margin: 3px 0 2px 0;">Attention New Students</h3>
+            <span style="line-spacing: 11px;">All new&nbsp;students must attend an orientation session&nbsp;before registering for classes. For additional requirements and to register for an orientation session, visit <a href="http://www.lorainccc.edu/orientation">www.lorainccc.edu/orientation</a>.  </span>
+            <br><a href="" target="_blank" style="line-spacing: 12px;"></a><p></p>
+        </div>
+    
+        <div style="margin-bottom: 5px; font-size: 10pt; border-bottom: solid 1px #d3d3d3;">
+            <p style="margin: 2px 0 12px 0;"></p><h3 style="margin: 3px 0 2px 0;">Save Money on Tuition</h3>
+            <span style="line-spacing: 11px;">Register for 13 to 18 credit hours at LCCC and pay for only 13!  </span>
+            <br><a href="" target="_blank" style="line-spacing: 12px;"></a><p></p>
+        </div>
+    
+        <div style="margin-bottom: 5px; font-size: 10pt; border-bottom: solid 1px #d3d3d3;">
+            <p style="margin: 2px 0 12px 0;"></p><h3 style="margin: 3px 0 2px 0;">Paralegal Studies Information Session</h3>
+            <span style="line-spacing: 11px;">The University Partnership and Kent State University will host an Information Session from 5-7 p.m., Wednesday, June 26 about the bachelor's degree program in paralegal studies. <a href="http://www.lorainccc.edu/UP/UPComing+Events/">Click here to learn more.</a>  </span>
+            <br><a href="" target="_blank" style="line-spacing: 12px;"></a><p></p>
+        </div>
+    
+        <div style="margin-bottom: 5px; font-size: 10pt; border-bottom: solid 1px #d3d3d3;">
+            <p style="margin: 2px 0 12px 0;"></p><h3 style="margin: 3px 0 2px 0;">New Degree in Business Forensics Investigations</h3>
+            <span style="line-spacing: 11px;">Learn more about this exciting new career field at an information session at 6 p.m., Wednesday, June 26 at the University Partnership Ridge Campus. Learn more at <a href="http://www.lorainccc.edu/forensics">www.lorainccc.edu/forensics</a>.  </span>
+            <br><a href="" target="_blank" style="line-spacing: 12px;"></a><p></p>
+        </div>
+    
+        <div style="margin-bottom: 5px; font-size: 10pt; border-bottom: solid 1px #d3d3d3;">
+            <p style="margin: 2px 0 12px 0;"></p><h3 style="margin: 3px 0 2px 0;">Addiction Counselor Info Session</h3>
+            <span style="line-spacing: 11px;">Learn more about this new certificate program at one of many Information Sessions offered Thursday, June 20 at LCCC and Friday, June 28 at LCADA in Lorain. Get the details at <a href="http://www.lorainccc.edu/addiction">www.lorainccc.edu/addiction</a>.  </span>
+            <br><a href="" target="_blank" style="line-spacing: 12px;"></a><p></p>
+        </div>
+    
+
+                </div>
+                <div class="announce-hdr"><h2>Events</h2>  <span class="readall"><a href="http://apps.lorainccc.edu/eventcalendar" target="_blank">All Events &gt;&gt;</a></span></div>
+                    <div class="aecontent" id="events">
+                    </div>
+            </div>
+        </div>
+    </div>
+    <div class="clear"></div>
+    
+  </div>
+  <span id="_ctl0_ContentPlaceHolder1_Test1_lblTest"><!-- /Current+Students/Campus+Policies/ --></span>
+
+
+  <div class="footerlinks">
+    <div class="links student">
+      <h3>Student Services</h3>
+      <ul>
+        <li><a href="/academic+programs/">Academic Programs</a></li>
+        <li><a href="/Bookstore/">Bookstore</a></li>
+        <li><a href="distance+learning/">Distance Learning</a></li>
+        <li><a href="/library/">Library</a></li>
+        <li><a href="/financial+aid/">Financial Aid/Scholarships</a></li>
+        <li><a href="/admissions+and+registration/registration.htm">Register for Classes</a></li>
+      </ul>
+    </div>
+    <div class="ftrvline"></div>
+    <div class="links student">
+      <h3>Student Activities</h3>
+      <ul>
+        <li><a href="/Student+Life/">Student Life</a></li>
+        <li><a href="/Athletics/">Athletics</a></li>
+        <li><a href="/Student+Life/Clubs+and+Organizations/">Student Clubs</a></li>
+        <li><a href="/About+Us/Arts+and+Culture.htm">Arts &amp; Culture</a></li>
+      </ul>
+    </div>
+    <div class="ftrvline"></div>
+    <div class="links corporate">
+      <h3>Business Services</h3>
+      <ul>
+        <li><a href="/Business+and+Industry/Entrepreneurial+Support/Business+Growth+and+Formation.htm">Business Growth &amp; Formation</a></li>
+        <li><a href="/Business+and+Industry/Meeting+and+Conference+Facilities/">Conferencing Services &amp; Facility Rental</a></li>
+        <li><a href="/Business+and+Industry/PSI/">Non-Profit &amp; Government</a></li>
+        <li><a href="/Academic+Programs/Continuing+Education/">Workforce Training/Education</a></li>
+      </ul>
+    </div>
+    <div class="ftrvline"></div>
+    <div class="links corporate">
+      <h3>Personal Development</h3>
+      <ul>
+        <li><a href="/About+Us/Arts+and+Culture.htm">Arts &amp; Culture</a></li>
+        <li><a href="/Academic+Programs/Continuing+Education/">Upgrade your Skills</a></li>
+        <li><a href="/employment+and+career+services/">Career Assistance</a></li>
+        <li><a href="/Academic+Programs/Continuing+Education/">Continuing Education</a></li>
+      </ul>
+    </div>
+    <div class="ftrvline"></div>
+    <div class="links universitypartnership student">
+      <div style="width: 37px; float: left;">
+        <img src="/LCCCWeb/images/templates/small-up-block.png" width="37" height="38">
+      </div>
+      <div style="width: 170px; margin: 0 0 0 10px; float: left;">
+          <h3>University Partnership</h3>
+          <ul>
+            <li><a href="/UP/Bachelor+and+Master+Degree+Programs/">Bachelor's &amp; Master's Degrees</a></li>
+            <li><a href="/UP/schedule.htm">Class Schedule</a></li>
+            <li><a href="/UP/Scholarships/">Scholarship Opportunities</a></li>
+            <li><a href="/UP/Frequently+Asked+Questions.htm">Frequently Asked Questions</a></li>
+            <li><a href="/UP/contact.htm">Contact the UP</a></li>
+          </ul>
+      </div>
+    </div>
+  </div>
+  <div class="footer"> © 2013 Lorain County Community College | 1005 N Abbe Rd - Elyria, OH 44035 | 1-800-995-LCCC | <a href="mailto:webmaster@lorainccc.edu">Webmaster</a> <!--| Site Map --> | <a href="/About+Us/maps.htm">Maps and Directions</a> | <a href="/Current+Students/Campus+Policies/Web+Site+Privacy+Policy.htm">Privacy Policy</a> </div>
+</div>
 		
 <link href="/LCCCWeb/Console/console.css" type="text/css" rel="stylesheet">
 
 
 
 
-		<script type="text/javascript">  
-function UpdateSiblingFramesInUnpublishedMode()  
-{  
-    for (i=0; i < window.top.frames.length; i++)   
-    {  
-        if (window.top.frames[i] != window)  
-        {  
-            // refresh it with Unpublished mode URL  
-            var frameElementSrc = "";  
-            try 
-            {  
-                frameElementSrc = window.top.frames[i].frameElement.src;  
-            }  
-            catch (e)  
-            {}  
-            if (frameElementSrc && frameElementSrc.indexOf("javascript:") < 0)  
-            {  
-                try 
-                {  
-                    window.top.frames[i].location.href = GetUrlModeUnpublished( window.top.frames[i].location.href );  
-                }  
-                catch (e)  
-                {}  
-            }  
-        }  
-    }  
-}  
+		<script type="text/javascript">
+		    function UpdateSiblingFramesInUnpublishedMode() {
+		        for (i = 0; i < window.top.frames.length; i++) {
+		            if (window.top.frames[i] != window) {
+		                // refresh it with Unpublished mode URL  
+		                var frameElementSrc = "";
+		                try {
+		                    frameElementSrc = window.top.frames[i].frameElement.src;
+		                }
+		                catch (e)
+            { }
+		                if (frameElementSrc && frameElementSrc.indexOf("javascript:") < 0) {
+		                    try {
+		                        window.top.frames[i].location.href = GetUrlModeUnpublished(window.top.frames[i].location.href);
+		                    }
+		                    catch (e)
+                { }
+		                }
+		            }
+		        }
+		    }  
 		</script>
-
-	
+    
+    
 
 <!-- Generated by Microsoft.ContentManagement.WebControls.Console to reset form.action -->
 <script type="text/javascript">
@@ -484,8 +566,16 @@ function UpdateSiblingFramesInUnpublishedMode()
 
 
 </form>
+    
 
-	
+
+<script src="//ajax.googleapis.com/ajax/libs/jquery/1.8.2/jquery.min.js"></script>
+<script src="//ajax.googleapis.com/ajax/libs/jqueryui/1.9.1/jquery-ui.min.js"></script>
+<script type="text/javascript" src="/LCCCWeb/js/utility.js"></script>
+<!--[if lt IE 8]><script type="text/javascript" src="/lcccweb/js/jquery-ie-fade-fix.js"></script><![endif]-->
+
+    <script type="text/javascript" src="/LCCCWeb/js/columns.js"></script>
+
 
 
 
