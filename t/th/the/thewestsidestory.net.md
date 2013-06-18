@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thewestsidestory.net privacy policy that was archived on 2012-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121215153416id_/http%3A//www.thewestsidestory.net/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thewestsidestory.net privacy policy that was archived on 2013-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130618064741id_/http%3A//www.thewestsidestory.net/privacy) for the most accurate reproduction.*
 
 # The Westside Story » Privacy Policy
 
