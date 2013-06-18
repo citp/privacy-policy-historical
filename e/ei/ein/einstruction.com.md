@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the einstruction.com privacy policy that was archived on 2012-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121217221123id_/http%3A//www.einstruction.com/about-einstruction/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the einstruction.com privacy policy that was archived on 2013-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130618235149id_/http%3A//www.einstruction.com/about-einstruction/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | © eInstruction®
 
@@ -16,11 +16,11 @@ We may use your IP address to help diagnose problems with our server, and to adm
 
 We will not disclose collected information to any organization outside eInstruction.
 
-**Security**
+ **Security**
 
 This Website has security measures in place to protect the loss, misuse and alteration of the information under our control. The servers are located in a secure environment and access to sensitive data is provided to authorized individuals only.
 
-**Supplemental Information**
+ **Supplemental Information**
 
 This Website may supplement the information that you provide with information that is received from third parties.
 
@@ -37,7 +37,7 @@ If you contact us directly, please let us know which kind of information you wou
     * Product promotions  
     * Newsletters
 
-**Children's Online Privacy Protection Act (COPPA)**
+ **Children's Online Privacy Protection Act (COPPA)**
 
 If you use the ExamView Internet test-hosting feature, please be aware of the following privacy issue.
 
@@ -47,7 +47,7 @@ Accordingly, FOR STUDENTS UNDER THE AGE OF 13, please DO NOT provide us with the
 
 Your access to the Internet test-hosting service is conditioned upon your agreement to comply with this requirement. Your use of the service will constitute your agreement to comply and to hold us harmless from any cost or damage we might suffer as a consequence of your failure to do so.
 
-**Contacting the Website**
+ **Contacting the Website**
 
 If you have any questions about this privacy statement, the practices of this Website, or your dealings with this Website, you can contact:
 
