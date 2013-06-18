@@ -1,8 +1,7 @@
-> *The following text is extracted and transformed from the hr.com privacy policy that was archived on 2012-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121216022604id_/http%3A//www.hr.com/en/about_us/privacy_information) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hr.com privacy policy that was archived on 2013-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130618111512id_/http%3A//www.hr.com/en/about_us/privacy_information) for the most accurate reproduction.*
 
-# Privacy Information: HR Human Resources
+# Privacy Information - The Human Resources Social Network
 
-**Privacy Policy**  
 HR.com and its affiliates and partners respect the privacy of its visitors. HR.com does not collect any personal information through the website without the knowledge of the visitor.
 
 The following process explains our information gathering and disseminating practices at HR.com. Please read this information so that you can feel comfortable about participating in our community.
@@ -15,7 +14,6 @@ For the same purposes, we use "cookies" - small text files placed on your comput
 
 To View our Terms and Conditions, [click here](https://web.archive.org/en/about_us/terms_content_policy/).
 
-**Personal Information:**  
 As an HR.com member you are required to provide certain information about yourself upon registration such as your name, address, email address, phone number, and in the instance of a purchase, your credit card information. 
 
 By providing any personal information to this Site, you fully understand and unambiguously consent to the collection and processing of such information in any country.
@@ -40,4 +38,4 @@ __**How HR.com protects your personal information
 **__Other websites  
 __**The Site may also contain links to other websites and advertising. The privacy policies of those websites and advertisers may significantly differ from that of our Site. It is your responsibility to contact such website operator or advertiser directly to determine their privacy policy
 
-We appreciate your participation in the HR community, and will do our best to honor your requests. To learn about the different membership options we have available, please **[click here](https://web.archive.org/en/memberships/)**[.](https://web.archive.org/en/1119278002691/)
+We appreciate your participation in the HR community, and will do our best to honor your requests. To learn about the different memberships, [click here](http://www.hr.com/en/memberships/).
