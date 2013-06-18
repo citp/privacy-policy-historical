@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the shopcade.com privacy policy that was archived on 2012-10-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121021132301id_/http%3A//www.shopcade.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shopcade.com privacy policy that was archived on 2013-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130618184144id_/http%3A//www.shopcade.com/privacy) for the most accurate reproduction.*
 
-# Shopcade
+# Privacy - Shopcade: Your Personal Shopping App
 
 For the same reason, we may obtain information about your general internet usage by using a cookie file which is stored on the hard drive of your computer. Cookies contain information that is transferred to your computer's hard drive. They help us to improve the Service and to deliver a better and more personalized service. Shopvolution Limited ("we", "us" or "our") is committed to protecting and respecting your privacy. This policy (together with our [Terms of Service](http://apps.facebook.com/shopcade/tc) ) sets out the basis on which any personal data we collect from you, or that you provide to us, will be processed by us. Please read the following carefully to understand our views and practices regarding your personal data and how we will treat it.
 
@@ -101,5 +101,7 @@ Any changes we may make to our privacy policy in the future will be posted on th
 
   
 
+
+## Contact
 
 Questions, comments and requests regarding this privacy policy are welcome and should be addressed to [[support]@shopvolution.com](mailto:support@shopvolution.com) or Shopvolution Limited, Privacy Office, 87 Notting Hill Gate, W11 3JS, London, United Kingdom
