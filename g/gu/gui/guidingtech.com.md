@@ -1,13 +1,13 @@
-> *The following text is extracted and transformed from the guidingtech.com privacy policy that was archived on 2012-11-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121111133142id_/http%3A//www.guidingtech.com/terms-of-use/%23Privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the guidingtech.com privacy policy that was archived on 2013-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130618222205id_/http%3A//www.guidingtech.com/terms-of-use/%23Privacypolicy) for the most accurate reproduction.*
 
-# Terms Of Use
+# Terms Of Use - Guiding Tech
 
 The following page lists the various policies/terms of use for Guiding Tech. Click on a link to check the corresponding policy or scroll down to read them one by one.
 
-  1. [Copyright Policy](http://www.guidingtech.com/terms-of-use/#Copyrightpolicy)
-  2. [Privacy Policy](http://www.guidingtech.com/terms-of-use/#Privacypolicy)
-  3. [Comment Policy](http://www.guidingtech.com/terms-of-use/#Commentpolicy)
-  4. [Disclaimer and Disclosure](http://www.guidingtech.com/terms-of-use/#Disclaimeranddisclosure)
+  1. Copyright Policy
+  2. Privacy Policy
+  3. Comment Policy
+  4. Disclaimer and Disclosure
 
 
 
