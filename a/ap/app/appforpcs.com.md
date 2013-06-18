@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the appforpcs.com privacy policy that was archived on 2012-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121217090653id_/http%3A//www.appforpcs.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the appforpcs.com privacy policy that was archived on 2013-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130618025819id_/http%3A//www.appforpcs.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy | App for PCs
 
-This privacy policy sets out how [Viberforpc.com](http://www.appforpcs.com/ "Viber for PC") uses and protects any information that you give when you use this website.
+This privacy policy sets out how [AppforPCs.com](http://www.appforpcs.com/ "Viber for PC") uses and protects any information that you give when you use this website.
 
-[Viberforpc.com](http://www.appforpcs.com/ "Viber for PC") is committed to ensuring that your privacy is protected. Should we ask you to provide certain information by which you can be identified when using this website, then you can be assured that it will only be used in accordance with this privacy statement.
+[AppforPCs.com](http://www.appforpcs.com/ "Viber for PC") is committed to ensuring that your privacy is protected. Should we ask you to provide certain information by which you can be identified when using this website, then you can be assured that it will only be used in accordance with this privacy statement.
 
 may change this policy from time to time by updating this page. You should check this page from time to time to ensure that you are happy with any changes. This policy is effective from: July 2012
 
@@ -42,7 +42,7 @@ You can find more information about cookies at:
 
   * [www.allaboutcookies.org](http://www.allaboutcookies.org/)
   * [www.youronlinechoices.eu](http://www.youronlinechoices.eu/)
-  * For a video about cookies visit [a look at cookies](http://www.google.co.uk/goodtoknow/data-on-the-web/cookies)
+  * For a video about cookies visit� [a look at cookies](http://www.google.co.uk/goodtoknow/data-on-the-web/cookies)
 
 
 
