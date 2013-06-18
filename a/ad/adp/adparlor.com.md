@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the adparlor.com privacy policy that was archived on 2012-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120626024530id_/http%3A//www.adparlor.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adparlor.com privacy policy that was archived on 2013-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130618030410id_/http%3A//adparlor.com/privacypolicy.php) for the most accurate reproduction.*
 
 # AdParlor - Privacy Policy
 
@@ -12,7 +12,7 @@ AdParlor logs IP address, date/time stamp, aggregate user data, and browser type
 
 **Cookies**
 
-We may use cookies when you use our services. . In addition, Adparlor uses cookies in connection with consumers visiting the web pages of social media sites where we provide services to our account holders; however, the data we collect in connection with consumers is used solely for tracking clicks and conversions – and is not used for any cross-site data collection or tracking. Cookies are small text files that are placed on your computer's hard drive by our servers to identify your computer to our servers. You can also disable cookies or otherwise manage them through tools provided with your browser software and with third-party software packages, or not use the features that require cookies. 
+We may use cookies when you use our services. . In addition, Adparlor uses cookies in connection with consumers visiting the web pages of social media sites where we provide services to our account holders; however, the data we collect in connection with consumers is used solely for tracking clicks and conversions – and is not used for any cross-site data collection or tracking. Cookies are small text files that are placed on your computer's hard drive by our servers to identify your computer to our servers. You can also disable cookies or otherwise manage them through tools provided with your browser software and with third-party software packages, or not use the features that require cookies. . 
 
 **Links**
 
@@ -27,8 +27,10 @@ AdParlor does not collect or obtain personally identifiable information about co
 To completely and permanently delete a user account, a user may contact us by postal mail at the following address: 
 
 AdParlor Delete Account  
-99 Spadina Avenue #401   
-Toronto, Ontario Canada, M5V 3P8 
+129 Spadina Ave.  
+Suite 400  
+Toronto ON, M5V 2L3  
+Canada 
 
 Or by sending email to privacy@adparlor.com subject "DELETE ACCOUNT" -- please note that the email must come from the account you wish to delete. 
 
@@ -55,5 +57,7 @@ AdParlor is a wholly-owned subsidiary of Adknowledge, Inc., which is a member of
 If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, please contact us at: privacy@adparlor.com or at 
 
 AdParlor  
-99 Spadina Avenue #401  
-Toronto, Ontario Canada, M5V 3P8
+129 Spadina Ave.  
+Suite 400  
+Toronto ON, M5V 2L3  
+Canada 
