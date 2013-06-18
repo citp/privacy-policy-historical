@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the live2support.com privacy policy that was archived on 2012-11-26.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121126091612id_/http%3A//live2support.com/privacyls.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the live2support.com privacy policy that was archived on 2013-06-18.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130618234902id_/http%3A//live2support.com/privacyls.php) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 <title>Live2Support - Privacy Statement</title>
@@ -32,20 +32,20 @@ p {font-family : tahoma;	font-size: 12px;color: #333333; text-align:left;backgro
 padding-top:15px;
 }
 </style>
-<script type="text/javascript" async="" src="https://live2support.com/js/lsjs1.php?stid=1&amp;cmi=&amp;jqry=Y"></script><script type="text/JavaScript">
+<script type="text/JavaScript">
 <!--
 function stopError() {   return true; }
 window.onerror = stopError;
 //-->
 </script>
-<script type="text/javascript" src="https://live2support.com/jsall/jquery.js"></script>
-<script type="text/javascript" src="https://live2support.com/jsall/jquery-l2slayers.php"></script>
+<script type="text/javascript" src="/jsall/jquery.js"></script>
+<script type="text/javascript" src="/jsall/jquery-l2slayers.php"></script>
 <script type="text/javascript" src="https://live2support.com/js/lyrjs/js/ui.dialogr-js.php"></script>
 <link href="https://live2support.com/js/lyrjs/css/ui-lightness/jquery-ui-1.8.6.custom.css" rel="stylesheet" type="text/css">
 <script type="text/javascript"> 
 // top2bottom, top2bottom_middle, top2bottom_right, bottom2top, bottom2top_middle, bottom2top_right, 
 // right2left, right2left_middle, right2left_bottom,left2right, left2right_middle, left2right_bottom 
-// fixed 
+// fixed , Fixed Floate (ff and ff_timeframe)
 var l2secl="N"; 
 //global 
 $(document).ready(setTimeout('func3()',250)); 
@@ -92,7 +92,7 @@ $(document).ready(function () {
 <div id="container">
 <div id="header">
   <!--  Live chat software, live support software program, Live help software Service, add live chat on website, support operator, live agent, customer support, live service -->
-  <div id="l2s_trk2" style="z-index:100; "></div>
+  <div id="l2s_trk2" style="z-index: 100; width: 113px; position: fixed; height: 113px; top: 0px; right: 0px; margin-top: 4.67661px;"></div>
   <div style="display:block;  height:90px;">
     <div style="float:left; width:18%;"> <a href="http://www.live2support.com/"><img src="/imgs/home10/0309-logo.gif" alt="Live Chat Software, Live Help Software" title="Live Chat Software, Live Help Software" width="198" height="80" style="border:none;"></a></div>
     <div style="float:left; width:82%;">
@@ -116,20 +116,12 @@ $(document).ready(function () {
     var l2slay_pos="L";
 	var l2sdialogofftxt="Leave a Message";
 	var l2sdialogontxt="Live Chat Online";
-     var l2s_pht=escape(location.protocol); if(l2s_pht.indexOf("http")==-1) l2s_pht='http:';  
-//  function l2s_load() { document.write('<scr'+'ipt type="text/javascr'+'ipt" src ="'+unescape(l2s_pht)+'//live2support.com/js/lsjs1.php?stid=1&cmi=&jqry=N"  defer=true>'+'</scr'+'ipt>');  } 
-// l2s_load();  document.getElementById('l2s_trk').style.visibility='hidden'; 
+	var l2slwdth= 335; /* 382; */ 
+	var l2slhight=390; /* 438; */ 
 
-(function () { 
-document.getElementById('l2s_trk').style.visibility='hidden'; 
-var l2scd = document.createElement('script'); l2scd.type = 'text/javascript'; l2scd.async = true; 
-l2scd.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'live2support.com/js/lsjs1.php?stid=1&cmi=&jqry=Y'; 
-var l2sscr = document.getElementsByTagName('script')[0]; l2sscr.parentNode.insertBefore(l2scd, l2sscr); 
-})(); 
-
-//-->
-
-</script>
+    var l2s_pht=escape(location.protocol); if(l2s_pht.indexOf("http")==-1) l2s_pht='http:';  
+ function l2s_load() { document.write('<scr'+'ipt type="text/javascr'+'ipt" src ="'+unescape(l2s_pht)+'//live2support.com/js/lsjs1.php?stid=1&cmi=&jqry=Y"  defer=true>'+'</scr'+'ipt>');  } 
+l2s_load();  document.getElementById('l2s_trk').style.visibility='hidden'; //--></script><script type="text/javascript" src="https://live2support.com/js/lsjs1.php?stid=1&amp;cmi=&amp;jqry=Y" defer="true"></script>
 <div id="dialog3l2s" title="" style="display:none;"></div><!-- live2support.com tracking codes closed -->
     </div>
   </div>
@@ -153,7 +145,7 @@ var l2sscr = document.getElementsByTagName('script')[0]; l2sscr.parentNode.inser
         <div class="clear"></div>
       </li>
       -->
-      <li style="float: left;text-align: center;margin: 0px;overflow: hidden; width:16%;"><a href="/howwork.php" class="ahlink">HOW IT WORK</a></li>
+      <li style="float: left;text-align: center;margin: 0px;overflow: hidden; width:16%;"><a href="/howwork.php" class="ahlink">HOW IT WORKS</a></li>
       <li style="float: left;text-align: center;margin: 0px;overflow: hidden; width:16%;"><a href="/order.php" class="ahlink">SIGN UP</a></li>
       <!--
       <li style="float: left;text-align: center;margin: 0px;overflow: hidden; width:11%;"><a href="/contactus.php"  class="ahlink">CONTACT US</a></li>-->
@@ -262,75 +254,92 @@ var l2sscr = document.getElementsByTagName('script')[0]; l2sscr.parentNode.inser
         </div><!-- body closed -->
   
 <!-- end #container --></div>  
+<style type="text/css">
+#footer strong {
+	font-size:14px;
+}
+.fottercls
+{
+padding-top:0px; 
+padding-left:5px; 
+line-height:22px; 
+width:16%; 
+float:left; 
+color:#6F9;	
+	}
+</style>
 <div id="footer" style="background-color:#00408E;">
 <div align="center">
-<div style="background:url(/imgs/home10/2foot.png3); background-repeat:no-repeat; width:1010px; height:275px;  font-size:12px; padding-left:14px; text-align:left;">
+<div style="width:1010px; height:220px;  font-size:12px; padding-left:14px; text-align:left;">
         <div>&nbsp;</div>
-        <div style="padding-top:0px; padding-left:5px; line-height:27px; width:16%; float:left;"><strong>About Us</strong><br>
+        <div class="fottercls"><strong>About Us</strong><br>
               <a href="/">Home</a> <br>
               <a href="/live2support_aboutus.php">About Us </a><br>
               <a href="/benefits.php">Benefits</a><br>
               <a href="/press_release/">Press Release </a><br>
               <a href="/testimonial.php">Testimonial </a><br>
               <a href="/awards/">Awards </a><br>
+			 <a href="http://blog.live2support.com/">Blog</a><br>
           </div>
-           <div style="padding-top:0px; padding-left:5px; line-height:27px; width:16%; float:left;"><strong>Features</strong><br>
+           <div class="fottercls"><strong>Features</strong><br>
  <a href="/features_live_chat.php">Features</a><br>
-              <a href="/pricing.php">Pricing</a><br>
-              <strong>Live Chat For</strong><br>
+              <a href="/live-chat-addon.php">Add-ons</a><br>
+              <strong>Available In</strong><br>
+              <span style="color:#ffffff">Windows<br>Mac OS<br></span>
               <a href="/live-chat-iphone-application.php">iPhone ( iPod &amp; iPad )</a><br>
-              <a href="/live-chat-for-blackberry.php">Blackberry</a><br>
+              <!-- a href="/live-chat-for-blackberry.php" >Blackberry</a><br / -->
               <a href="/live-chat-for-android.php">Android</a><br>
           </div>
-          <div style="padding-top:0px; padding-left:5px; line-height:27px; width:16%; float:left;"><strong>Online Help</strong><br>
+          <div class="fottercls"><strong>Online Help</strong><br>
               <a href="/whylive2support.php">Why Live Chat Service?</a><br>
               <a href="/livechat_hostedservice.php">Hosted Live Chat Software</a><br>
-              <a href="/howwork.php">How it work</a><br>
-              <a href="/livechat-add-software.php">Add Chat on Website</a><br>
+              <a href="/howwork.php">How it Works</a><br>
+              <a href="/livechat-add-software.php">Add Chat to Website</a><br>
             <a href="/newsletter/index.php">News Letter </a> 
           </div>
-          <div style="padding-top:0px; padding-left:5px; line-height:27px; width:16%; float:left;"><strong>Offers</strong><br>
+          <div class="fottercls"><strong>Offers</strong><br>
               <a href="/order.php">15 Days Free Trial</a><br>
-              <a href="/downloads/">Free Download Application</a><br>
+              <a href="/downloads/">Free Download</a><br>
               <!-- a href="/freehosting.php" >1 Year Free Hosting</a><br / -->
               <a href="/affiliate.php">Affiliate Program </a><br>
           </div>
         
-          <div style="padding-top:0px; padding-left:5px; line-height:27px; width:16%; float:left;"><strong>Products</strong><br>
-      <div style="padding:8px 0px 0px 0px;"> <a href="/">Live Chat Software</a></div>
-            <div style="padding-top:0px; padding-left:20px; line-height:17px;"> <a href="/prgold.php" style="font-size:10px; ">Gold Package</a><br>
-                  <a href="/prsilver.php" style="font-size:10px; ">Silver Package</a><br>
-                <a href="/prbronze.php" style="font-size:10px; ">Bronze Package</a> </div>
-            <a href="http://www.cdmessenger.com">CD Messenger</a>
-              <div style="padding-top:0px; padding-left:20px; line-height:17px;"><a href="http://www.cdmessenger.com/office-instant-messenger-features.php" style="font-size:10px; ">Features</a><br>
+          <div class="fottercls"><strong>Products</strong><br>
+      <div style="padding:8px 0px 0px 0px;"> <a href="/" style="color:#6F9">Live Chat Software</a></div>
+            <div style="padding-top:0px; padding-left:20px; line-height:17px;"> <a href="/prgold.php">Gold Package</a><br>
+                  <a href="/prsilver.php">Silver Package</a><br>
+                <a href="/prbronze.php">Bronze Package</a> </div>
+            <a href="http://www.cdmessenger.com" style="color:#6F9">CD Messenger</a>
+              <div style="padding-top:0px; padding-left:20px; line-height:17px;"><a href="http://www.cdmessenger.com/office-instant-messenger-features.php">Features</a><br>
             </div>
           </div>        
         
-            <div style="padding-top:0px; padding-left:5px; line-height:27px; width:16%; float:left;"><strong>Contact Us</strong><br>
-              <a href="/contactus.php">Email Support </a><br>
-              <strong>Support Outsourcing : </strong><br>
-              <a href="/support-outsourcing/">Customer Support Outsourcing</a><br>
-              <a href="/support-outsourcing/email-support-outsourcing.php">Email Support Service</a><br>
-              <span style="clear:both; padding-top:50px;">&nbsp;<a href="/support-outsourcing/live-chat-operators-outsourcing.php">Why Support Outsourcing from Live2Support</a></span><br>
-              <br>
-              <!-- div id="l2s_trk3" ></div --->
+            <div class="fottercls"><strong><a href="/contactus.php" style="color:#6F9;">Contact Us</a></strong><br>
+              <!-- a href="/contactus.php">Email Support </a><br / -->
+              
+              <!-- strong>Support Outsourcing : </strong><br />
+              <a href="/support-outsourcing/" >Customer Support Outsourcing</a><br />
+              <a href="/support-outsourcing/email-support-outsourcing.php" >Email Support Service</a><br />
+              <span style="clear:both; padding-top:50px;">&nbsp;<a href="/support-outsourcing/live-chat-operators-outsourcing.php" >Why Support Outsourcing from Live2Support</a></span><br />
+              <br / -->
+              <div id="l2s_trk3"></div>
             <script type="text/javascript">  
- var l2simgon3 = "/imgs/home10/mery_on.gif"; 
- var l2simgoff3 = "/imgs/home10/mery_off.gif"; 
+ var l2sontxt3 = "Live Chat"; 
+ var l2sofftxt3 = "Live Chat"; 
         </script>
-        
           </div>      
                </div>
 </div>
             <!-- end #footer --></div>
 <div style="background-color:#e7f6ff; background-image: url(/imgs/home10/foot2_2.png); background-repeat:repeat-x; text-align:center;">     
       <div style="color: #000000; font-size: 10px; font-family: tahoma; margin:0px; padding:3px;  text-align:center; ">
+      <span style="color:#ffffff; "><a href="/termsuse.php#discl" style="color:#ffffff; text-decoration:none;">Disclaimer</a> ||&nbsp; </span>
         <span style="color:#ffffff; "><a href="/privacyls.php" style="color:#ffffff; text-decoration:none ">Privacy Policy</a> ||&nbsp; </span>
         <span style="color:#ffffff;  "><a href="/termsuse.php" style="color:#ffffff; text-decoration:none">Terms Of Use</a> ||&nbsp; </span>
         <span style="color:#ffffff;"><a href="/sitemap.php" style="color:#ffffff; text-decoration:none">Site Map</a> ||&nbsp; </span>
         <span style="padding-top:4px;"><a href="/l2srss.xml"><img src="/imgs/rss.png" alt="RSS"></a></span>
 
-      <div class="style8Copy" style="color:#ffffff">© 2003-2012 Live2Support Inc. All Rights Reserved.</div>
+      <div class="style8Copy" style="color:#ffffff">© 2003-<script>document.write(new Date().getFullYear())</script>2020 Live2Support Inc. All Rights Reserved.</div>
 
 </div>
 </div>
