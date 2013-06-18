@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bangkokair.com privacy policy that was archived on 2012-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121216163944id_/http%3A//bangkokair.com/eng/pages/view/privacy-and-security) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bangkokair.com privacy policy that was archived on 2013-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130618090226id_/http%3A//www.bangkokair.com/eng/pages/view/privacy-and-security) for the most accurate reproduction.*
 
 # Privacy & Security - Bangkok Airways
 
