@@ -1,52 +1,49 @@
-> *The following text is extracted and transformed from the paqoo.com privacy policy that was archived on 2011-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111114190536id_/http%3A//www.paqoo.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the paqoo.com privacy policy that was archived on 2013-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130618065837id_/http%3A//www.paqoo.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Home Design | Decorating Ideas | Gardening - Gallery of Home Design, Decorating Ideas and Gardening
+# Privacy Policy
 
-Privacy Policy  
-Home Design | Decorating Ideas| Gardening (Paqoo Dot Com) Privacy Statement
+The owners and operators of paqoo.com take your online privacy seriously. This document outlines the types of information collected by our servers and provides links to the privacy policies of our third-party advertising partners.
 
-What follows is the Privacy Statement for all Paqoo Dot Com websites (a.k.a. blogs) including all the websites run under the Paqoo Dot Com domain. Please read this statement regarding our blogs. If you have questions please ask us via our contact form.
+**User Accounts**
 
-Email Addresses
+Membership is an optional part of the paqoo.com web site. No user account is required in order to browse or download the content we provide. However, creating an account enables extra features such as (but not limitted to) the ability to submit content, create a list of your own wallpapers, or post comments.
 
-You may choose to add your email address to our contact list via the forms on our websites. We agree that we will never share you email with any third party and that we will remove your email at your request. We don’t currently send advertising via email, but in the future our email may contain advertisements and we may send dedicated email messages from our advertisers without revealing your email addresses to them. If you have any problem removing your email address please contact us via our contact form.
+By creating an account, you are volunteering certain information about yourself that will be stored on our servers. This data includes at a minimum a username, password, and valid email address. Additional information may optionally be added by you to your account profile. Your profile information is public and may appear on our web site, with the exception of your email address and password.
 
-Comments/Message Boards
+**Personally Identified Data**
 
-Most Paqoo Dot Com websites contain comment sections (a.k.a. message boards). We do not actively monitor these comments and the information on them is for entertainment purposes only. If we are alerted to something we deem inappropriate in any way, we may delete it at our discretion. We use email validation on most of our message boards in order to reduce “comment spam.” These email addresses will not be shared with any third party.
+We strongly discourage users from entering their full name, phone number, physical address, or other sensitive information in user profiles, comments, or other areas of the site. Furthermore, we request that minors and any individuals with limited decision making ability not create an account on this site without the approval and supervision of a guardian.
 
-Cookies and Web Beacons
+We make a reasonable attempt to monitor for cases where users post personally identifiable information about other individuals to public portions of the web site and remove the offending material.
 
-Paqoo Dot Com does use cookies to store information about visitors preferences, record user-specific information on which pages the user access or visit, customize Web page content based on visitors browser type or other information that the visitor sends via their browser. Some of our advertising partners may use cookies and web beacons on our site. Our advertising partners include Google Adsense, Infolinks, Chitika, Kontera.
+**Server Logs**
 
-These third-party ad servers or ad networks use technology to the advertisements and links that appear on Paqoo Dot Com send directly to your browsers. They automatically receive your IP address when this occurs. Other technologies ( such as cookies, JavaScript, or Web Beacons ) may also be used by the third-party ad networks to measure the effectiveness of their advertisements and / or to personalize the advertising content that you see.
+Like most web sites, paqoo.com logs web-, database-, and other server-software usage and access information. This information may include your internet protocal (IP) address, which in many cases can be translated to an affiliation (such as your work, school, or internet service provider), or a geographical location. We only use this information for debugging purposes and for aggregating into anonymous usage and traffic statistics.
 
-If you wish to disable cookies, you may do so through your individual browser options. More detailed information about cookie management with specific web browsers can be found at the browsers’ respective websites.
+**Cookies**
 
-Traffic Reports
+While browsing paqoo.com, a small number of text files referred to as "cookies" may be created on your local file system by your web browser at the request of our servers. These files allow us to personalize the browsing experience for both registered and non-registered users. You are free to delete them at any time, or configure your browser not to create them. However, we do not promise that every feature of paqoo.com will function as expected without cookies enabled.
 
-Our industry-standard traffic reporting records IP addresses, Internet service provider information, referrer strings, browser types and the date and time pages are loaded. We use this information in the aggregate only to provide traffic statistics to advertisers and to figure out which features and editorials are most popular.
+**Third-Party Advertisers**
 
-Legal Proceedings
+In order to cover the costs of providing hdwallpapers as a free resource to the public, we have relationships with many third-party advertising networks. The practices of our advertising partners are not directly covered by paqoo.com's privacy policy. We recommend that you read their policies. For your convenience we provide a list our advertising partners below. Unfortunately we cannot guarantee it is always comprehensive and up to date.
 
-We will make every effort to preserve user privacy but Paqoo Dot Com may need to disclose information when required by law.
+_Google Adsense:_ We present you the following information about Google and the [DoubleClick DART cookie](http://www.doubleclick.com/privacy/faq.aspx): 
 
-Business Transitions
+  * Google, as a third party vendor, uses cookies to serve ads on your site.
+  * Google's use of the DART cookie enables it to serve ads to your users based on their visit to your sites and other sites on the Internet.
+  * Users may opt out of the use of the DART cookie by visiting the [Google ad and content network privacy policy](http://www.google.com/privacy_ads.html).
 
-If Paqoo Dot Com is acquired by or merges with another firm, the assets of our websites, including personal information, will likely be transferred to the new firm.
 
-Links
 
-Paqoo Dot Com websites frequently link to other websites. We are not responsible for the content or business practices of these websites. When you leave our websites we encourage you to read the destination site’s privacy policy. This privacy statement applies solely to information collected by Paqoo Dot Com
+**Sharing/Selling of Data**
 
-Notification of Changes
+paqoo.com does not share or sell personally identifiable data to third parties such as spammers or direct marketers. We respect your privacy.
 
-When Paqoo Dot Com makes changes to this privacy policy we will post those changes here.
+**Account Cancellation**
 
-Contact Information
+Upon request, your paqoo.com account can be canceled. Your user profile will no longer appear on the web site and your submissions will no longer be listed publicly for download. Any comments you have posted will still appear and include your username, but will not be linked to your profile. After cancellation, you will be not be available for log-in.
 
-If you have any questions regarding our privacy policy, please contact us.
+**Data Retention**
 
-Update – 04/03/2009
-
-We use third-party advertising companies to serve ads when you visit our website. These companies may use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you.
+The data submitted to and generated by this web site may be copied to additional machines for redundancy and backup purposes. For any problems or questions don't hesitate to [contact us](http://www.paqoo.com/contact/).
