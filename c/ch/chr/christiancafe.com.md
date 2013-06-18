@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the christiancafe.com privacy policy that was archived on 2012-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121016002155id_/http%3A//www.christiancafe.com/guests/help/privacy_statement.jsp%3Bjsessionid%3DB57A20DFB8BD509BBD59E30809D7516C.tcc3) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the christiancafe.com privacy policy that was archived on 2013-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130618140552id_/http%3A//www.christiancafe.com/guests/help/privacy_statement.jsp) for the most accurate reproduction.*
 
 # ChristianCafe.com: Guest Help
 
@@ -21,6 +21,8 @@ In registering for the Service, you provide us with a username, an email address
 **2\. What are "cookies" and how does RealCafes.com use them?**
 
 In addition to the information described above that RealCafes.com collects, we also collect information "anonymously" using "cookies." A cookie is a small text file containing a unique identification number that is transferred from a Web site to the hard drive of your computer so that the Web site may identify you and track your activities on the Web site. This unique number identifies your browser-- but not you -- to RealCafes.com computers whenever you visit the Service. A cookie will not let a Web site know any personally identifiable information about you, such as your real name and address. RealCafes.com does not collect personally identifiable information about any one person using cookies. Because cookies are only text files, they cannot run on your computer, search your computer for other information, or transmit any information to anyone. RealCafes.com generally uses cookies to determine in what state your computer workstation is located. Third party advertising networks for RealCafes.com may issue cookies when serving advertisements.
+
+RealCafes.com and third-party vendors, including Google, use first-party cookies (such as the Google Analytics cookie) and third-party cookies (such as the Double Click cookie) together to inform, optimize, and serve ads based on a visitor's past visits to ChristianCafe.com. This is done in the form of Remarketing. Remarketing is used to advertise online to visitors who visit ChristianCafe.com. These ads are shown across the Internet, utilizing Display Advertising features of Google Analytics. Visitors can opt-out of Google Analytics for Display Advertising and customize Google Display Network ads using the [Ad Preferences Manager](https://www.google.com/settings/ads/onweb/). An opt-out [browser add-on](https://tools.google.com/dlpage/gaoptout/) is also available.
 
 The use of cookies is now an industry standard, and you will find them used on most major Web sites. Most browsers are initially set up to accept cookies. If you prefer, you can reset your browser either to notify you when you have received a cookie, or to refuse to accept cookies. You should understand that while RealCafes.com does not require you to use cookies, certain areas of the Service will not function properly if you set your browser to not accept cookies. For example, you may have difficulty searching the Service, completing the Service questionnaire, and paying for your Service subscription.
 
@@ -60,20 +62,10 @@ You are ultimately responsible for the security of your ChristianCafe.com userna
 
 **7\. What you can do to better protect yourself on the Internet**
 
-  * **Know the risks.**
-  
-When you communicate with others online, you should be aware that, when disclosing personal information such as one's actual name, member name, e-mail address, etc., on a Web page, in a newsgroup, chat room or forum, that information may be collected and used by others to send you unsolicited e-mail from other parties, outside RealCafes.com. Some of the e-mail you receive may be useful to you, but some may not. 
-
-**Educate yourself.**   
-Search the Web for as much information as you can about how to protect your privacy.
-
-  * **Use PGP (Pretty Good Privacy)**
-  
-[http://www.pgp.com](http://www.pgp.com/) or another encryption program.
+  * **Know the risks** \- When you communicate with others online, you should be aware that, when disclosing personal information such as one's actual name, member name, e-mail address, etc., on a Web page, in a newsgroup, chat room or forum, that information may be collected and used by others to send you unsolicited e-mail from other parties, outside RealCafes.com. Some of the e-mail you receive may be useful to you, but some may not. 
+  * **Educate yourself** \- Search the Web for as much information as you can about how to protect your privacy. 
+  * **Use PGP** ([Pretty Good Privacy](http://www.pgp.com/)) or another encryption program. 
 
 
-**8\. Yahoo! Search Marketing**
 
-We have contracted with Yahoo! Search Marketing to monitor certain pages of our Web site for the purpose of reporting Web traffic, statistics, advertisement 'click-throughs', and/or other activities on our Web site. Where authorized by us, Yahoo! Search Marketing may use cookies, Web beacons, and/or other monitoring technologies to compile anonymous statistics about our Web site visitors. No personally identifiable information is collected by or transferred to Yahoo! Search Marketing. For more information about how the information is collected and used by Yahoo! Search Marketing, please see the privacy policy located at or linked from [http://searchmarketing.yahoo.com](http://searchmarketing.yahoo.com/).
-
-Last updated November 29, 2007
+Last updated April 17, 2013
