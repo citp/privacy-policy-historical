@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hermo.my privacy policy that was archived on 2012-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121218040415id_/http%3A//hermo.my/help/privacyStatement.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hermo.my privacy policy that was archived on 2013-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130618103653id_/http%3A//www.hermo.my/help/privacyStatement.html) for the most accurate reproduction.*
 
 # Help Center — Welcome to Hermo
 
