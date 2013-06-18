@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the scrapgirls.com privacy policy that was archived on 2009-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090619210945id_/http%3A//www.scrapgirls.com/privacy_policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the scrapgirls.com privacy policy that was archived on 2013-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130618101927id_/http%3A//scrapgirls.com/privacy_policy.htm) for the most accurate reproduction.*
 
 # Scrap Girls - Privacy Policy
+
+Scrap Girls Privacy Policy
 
 **1\. The information we collect**
 
@@ -70,7 +72,7 @@ Scrap Girls.com reserves the right to amend or modify our Privacy Policy at any 
 
 **7\. Questions or comments**
 
-If you have any questions regarding our Privacy Policy, please email them to hello@scrapgirls.com.  
+If you have any questions regarding our Privacy Policy, please email them to [hello@scrapgirls.com](mailto:hello@scrapgirls.com).  
    
 
 
@@ -91,8 +93,62 @@ Under federal law, a your credit card issuer cannot hold you liable for charges 
 
 **5\. Alternative customer purchasing options**
 
-If you do not feel comfortable sending your credit card information to us over the Internet, you still can shop with us. When you are checking out, choose the Print Order Form option. Then send this order form along with your check or money order to: Scrap Girls, 10817 Highland Circle, Highland, UT 84003
+If you do not feel comfortable sending your credit card information to us over the Internet, you still can shop with us. When you are checking out, choose the Print Order Form option. Then send this order form along with your check or money order to: Scrap Girls, 4110 SE Hawthorne #753 Portland, OR 97214
 
-|  |   
-  
+[](http://store.scrapgirls.com/storefront.php)  
+[**Click here to see larger size**](https://web.archive.org/web/20130618101927id_/http%3A//scrapgirls.com/sales/FirstTimeCustomer_600.jpg)
 
+[](http://digital-scrapbooking-elements-review.toptenreviews.com/scrapgirls-review.html)
+
+Scrap Girls has been awarded with the 2012 Gold Award from [Top Ten Reviews](http://digital-scrapbooking-elements-review.toptenreviews.com/scrapgirls-review.html) for having the **Best Digital Scrapbooking Elements Service Available.**
+
+Digital scrapbooking is...
+
+  * Fast.
+  * Creative.
+  * Fun.
+  * And it saves you money.*
+
+
+
+Let Scrap Girls show you how surprisingly simple it can be to become a great digital scrapbooker! 
+
+* Digital supplies are less expensive to purchase and can be used over and over and over again...
+
+[](http://store.scrapgirls.com/product/9316/MORE-Scrapbook-Software-Secrets-Revealed%3A-Photoshop---Download-version)
+
+NEW! Discover your hidden scrapbooking talent today! [MORE Scrapbook Software Secrets Revealed for Photoshop](http://store.scrapgirls.com/product/9316/MORE-Scrapbook-Software-Secrets-Revealed%3A-Photoshop---Download-version) will have you doing the same tricks and knowing the same tips as the professionals! With [MORE Scrapbook Software Secrets Revealed for Photoshop](http://store.scrapgirls.com/product/9316/MORE-Scrapbook-Software-Secrets-Revealed%3A-Photoshop---Download-version), you will be creating your own digital elements and enjoying advanced techniques on your digital scrapbooking layouts in no time!
+
+[](http://store.scrapgirls.com/product/6558/MORE-Scrapbook-Software-Secrets-Revealed%3A-Photoshop-Elements---Downloadable-version)
+
+Have a blast doing the more advanced tricks that you see other people and professional digital scrapbookers doing. Learn how with [MORE Scrapbook Software Secrets Revealed for Photoshop Elements](http://store.scrapgirls.com/product/6558/MORE-Scrapbook-Software-Secrets-Revealed%3A-Photoshop-Elements---Downloadable-version).
+
+[](http://store.scrapgirls.com/product/11266/Scrapbook-Software-Secrets-Revealed%3A-Photoshop-Elements----Downloadable-version)
+
+Learn how easy it is to create digital scrapbooking layouts in PSE 6.0, 7.0, and 8.0 with these easy-to-understand, **newly updated** , tutorial movies in [Scrapbook Software Secrets Revealed for Photoshop Elements 6.0, 7.0, and 8.0](http://store.scrapgirls.com/product/11266/Scrapbook-Software-Secrets-Revealed%3A-Photoshop-Elements----Downloadable-version). 
+
+( **Note:** This version also works for PSE 2.0, 3.0, 4.0, and 5.0. [See the product details page for more information.](http://store.scrapgirls.com/product/11266/Scrapbook-Software-Secrets-Revealed%3A-Photoshop-Elements----Downloadable-version)
+
+[](http://store.scrapgirls.com/product/15905/Scrapbook-Software-Secrets-Revealed%3A-Photoshop-CS4%2C-CS3%2C-CS2%2C-CS---Downloadable-version)
+
+Find out how easy it is to use Photoshop to create digital scrapbooking layouts and edit your photos with the **newly updated** [Scrapbook Software Secrets Revealed for Photoshop (CS4, CS3, CS2, and CS)](http://store.scrapgirls.com/product/15905/Scrapbook-Software-Secrets-Revealed%3A-Photoshop-CS4%2C-CS3%2C-CS2%2C-CS---Downloadable-version).
+
+[](http://store.scrapgirls.com/product/5516/Scrapbook-Software-Secrets-Revealed%3A-Paint-Shop-Pro-%28PSP%29-X---Downloadable-version)
+
+Learn how easy it is to create digital scrapbooking layouts with these easy-to-understand tutorial movies for [Paint Shop Pro X](http://store.scrapgirls.com/product/5516/Scrapbook-Software-Secrets-Revealed%3A-Paint-Shop-Pro-%28PSP%29-X---Downloadable-version). (Can be used for PSP XI, too!)
+
+[](http://store.scrapgirls.com/product/7173/Mastering-Brushes-for-Photoshop-Elements)
+
+This ebook, [Mastering Brushes for Photoshop Elements](http://store.scrapgirls.com/product/7173/Mastering-Brushes-for-Photoshop-Elements), was created from the popular online class **Creative Brushwork**. It is perfect for the scrapbooker who want to go above and beyond basic brushing techniques taught in Scrapbook Software Secrets Revealed for Photoshop Elements. Make your layouts shine with the polish that advanced brushwork can bring! 
+
+[Photoshop version available here.](http://store.scrapgirls.com/product/7172/Mastering-Brushes-for-Photoshop)
+
+[](http://store.scrapgirls.com/product/7004/digital-Photography-Simplified-eBook)
+
+This great eBook will take digital scrapbookers photos to a new layer. Diane Miller's photographs are amazing and her [Photography Simplified eBook](http://store.scrapgirls.com/product/7004/digital-Photography-Simplified-eBook) shows you how you can get fabulous shots, too!
+
+[](http://www.kqzyfj.com/click-1565823-10706084) [](http://www.anrdoezrs.net/click-1565823-10706090)
+
+[](http://www.dpbolvw.net/click-1565823-10480604) [](http://flip-pal-affiliates.com/idevaffiliate/idevaffiliate.php?id=196_0_1_19)
+
+[](http://www.mozy.com/home?ref=3f9a896b&kbid=95684&m=24&i=97)
