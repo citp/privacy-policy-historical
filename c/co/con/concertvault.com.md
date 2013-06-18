@@ -1,30 +1,6 @@
-> *The following text is extracted and transformed from the concertvault.com privacy policy that was archived on 2012-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121214085447id_/http%3A//www.wolfgangsvault.com/concerts/support/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the concertvault.com privacy policy that was archived on 2013-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130618082740id_/http%3A//www.wolfgangsvault.com/concerts/support/privacy-policy.html) for the most accurate reproduction.*
 
 # Wolfgang's Vault Privacy Policy - wolfgangsvault.com
-
-Classic Rock
-
- _Channels_
-
-  *   * **Rock**
-  *  __
-  * **Blues**
-  *  __
-  * **Jazz**
-  *  __
-  * **Country**
-  *  __
-  * **Folk & Bluegrass**
-  *  __
-  * **Indie**
-  *  __
-  * **Interviews**
-  *  __
-  * **Video**
-
-
-
- **Classic Rock** __
 
 We are committed to protecting your personal security and privacy, and we appreciate your trust that we will do so. By collecting such information at our website we strongly believe that we can significantly improve our level of customer service and make your future visits to our website more worthwhile. 
 
@@ -40,7 +16,7 @@ In the Concert Vault we use your information to support the personalized service
 
 When you make an online purchase from either the Concert Vault or Wolfgang's Vault, we use your information to process your order. We will also send you emails to confirm your order, and we may need to contact you via phone, postal mail or email if we have other questions regarding your order. In addition, you will be automatically signed up to receive email updates about our products, services, promotions and additions to our websites.
 
-You can be removed from our email list by following the directions on any email that we send to you or by clicking on the "MY ACCOUNT" link in the top right corner of any page on our website. Please note that it may up to six to eight weeks to remove your from our list.
+You can be removed from our email list by following the directions on any email that we send to you, or by clicking on the "MY ACCOUNT" link at the top of any page on our website. Please note that it may take up to 72 hours to remove you from our list.
 
 #### Sharing your information
 
@@ -73,6 +49,6 @@ If you suspect any illegal use of your card, call your issuing bank immediately 
 Questions regarding this Policy should be directed to [privacy@wolfgangsvault.com](mailto:privacy@wolfgangsvault.com). We may also be contacted directly at the following address:
 
 Attn: Privacy Officer  
-Wolfgang's Vault  
-149 Bluxome Street  
-San Francisco, CA 94107 
+Concert Vault  
+350 7th Ave, Suite 500  
+New York, NY 10001 
