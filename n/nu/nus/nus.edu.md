@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nus.edu privacy policy that was archived on 2012-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121118061820id_/http%3A//nus.edu/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nus.edu privacy policy that was archived on 2013-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130618085039id_/http%3A//nus.edu/privacy) for the most accurate reproduction.*
 
 # NUS - Privacy
 
