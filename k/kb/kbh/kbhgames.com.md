@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the kbhgames.com privacy policy that was archived on 2012-10-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121009104719id_/http%3A//www.kbhgames.com/page/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kbhgames.com privacy policy that was archived on 2013-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130618181104id_/http%3A//kbhgames.com/page/privacy.html) for the most accurate reproduction.*
 
-# Privacy - KBH Games
+# KBH Games privacy
 
 We get asked a lot what our policy is on the games we put up. It's really very simple. We put up games that we find fun and we don't alter them in anyway and we always try to give credit to their creators. That's really important to us. 
 
@@ -23,6 +23,3 @@ This site contains links to other sites. We are not responsible for the privacy 
 
 **ADVERTISMENT**  
 We pledge that we'll never have pop up on kbhgames.com. We understand how annoying they are.
-
-**CONTACT US**  
-If you have any comments or questions about this privacy statement, don't hesitate to contact us using the [contact form](http://kbhgames.com/contact/)
