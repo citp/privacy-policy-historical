@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the stylehive.com privacy policy that was archived on 2012-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121215111932id_/http%3A//blog.stylehive.com/index.php/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stylehive.com privacy policy that was archived on 2013-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130618182143id_/http%3A//blog.stylehive.com/index.php/privacy) for the most accurate reproduction.*
 
 # Stylehive - Privacy Policy
 
@@ -28,10 +28,10 @@ We may use the information we collect on this site to provide the Service, to cu
 
 We use industry standard security measures to protect the loss, misuse and alteration of the information under our control.  While there is no such thing as “perfect security” on the Internet, we will take all reasonable steps to insure the safety of your personal information. 
 
-**Children**   
+**Children**  
 Because we do not intentionally collect information from anyone under the age of 13, no one under 13 years of age is authorized to use the Service. 
 
-**General**   
-If you choose to use the Service, your visit and any dispute over privacy is subject to this Privacy Policy and our [Terms of Use](http://blog.stylehive.com/index.php/termsofuse "Terms of Use") including limitations on liability and application of the law of the United States and the State of California.  This Privacy Policy is subject to change at any time.  Any changes will be set forth on this page. 
+**General**  
+If you choose to use the Service, your visit and any dispute over privacy is subject to this Privacy Policy and our [Terms of Use](http://blog.stylehive.com/index.php/termsofuse "Terms of Use") including limitations on liability and application of the law of the United States and the State of California.  This Privacy Policy is subject to change at any time.  Any changes will be set forth on this page.
 
 _Updated 7/1/2009_
