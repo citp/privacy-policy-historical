@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bluetrackmedia.com privacy policy that was archived on 2012-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121217031158id_/http%3A//www.bluetrackmedia.com/%3Fpage%3Dprivacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bluetrackmedia.com privacy policy that was archived on 2013-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130618231726id_/http%3A//bluetrackmedia.com/%3Fpage%3Dprivacy_policy) for the most accurate reproduction.*
 
 # Blue Track Media : THE Incentive Advertising Agency with Innovative Proprietary Technology
 
