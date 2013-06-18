@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the rinkworks.com privacy policy that was archived on 2012-09-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120919185619id_/http%3A//rinkworks.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rinkworks.com privacy policy that was archived on 2013-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130618180933id_/http%3A//rinkworks.com/privacy) for the most accurate reproduction.*
 
 # RinkWorks: Privacy Policy
 
-[](http://www.rinkworks.com/fnovel/)
+[](http://www.rinkworks.com/subscriptions/)
 
 _RinkWorks_ respects the privacy and confidentially of its associates and readers. Below is our policy regarding the privacy of Internet users. 
 
