@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the orderofbooks.com privacy policy that was archived on 2012-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120614122700id_/http%3A//www.orderofbooks.com/disclaimer-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the orderofbooks.com privacy policy that was archived on 2013-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130618025320id_/http%3A//www.orderofbooks.com/disclaimer-privacy-policy) for the most accurate reproduction.*
 
-# Disclaimer/Privacy Policy | OrderOfBooks.com
+# Disclaimer/Privacy Policy - OrderOfBooks.com
 
 This Privacy Policy governs the manner in which Order of Books collects, uses, maintains and discloses information collected from users (each, a “User”) of the http://www.orderofbooks.com website (“Site”). This privacy policy applies to the Site and all products and services offered by Order of Books.
 
