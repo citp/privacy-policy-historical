@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the ticketbis.net privacy policy that was archived on 2012-10-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121022122457id_/http%3A//www.ticketbis.net/static/en_GB/privacidad.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ticketbis.net privacy policy that was archived on 2013-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130618203536id_/http%3A//www.ticketbis.net/informacion/privacidad) for the most accurate reproduction.*
 
-# Privacy Policy
+# PRIVACY
 
 ### **TERMS AND CONDITIONS - PRIVACY AND PROTECTION OF PERSONAL INFORMATION ON WWW.TICKETBIS.NET**
 
