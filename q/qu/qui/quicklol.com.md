@@ -1,65 +1,54 @@
-> *The following text is extracted and transformed from the quicklol.com privacy policy that was archived on 2011-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110622052352id_/http%3A//intrustdomainsstore.com/help/privacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the quicklol.com privacy policy that was archived on 2013-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130618063207id_/http%3A//quicklol.com/privacy-policy) for the most accurate reproduction.*
 
-# None
+# Privacy Policy
 
-In this document, Domain Names International is referred to as “DNI”.
+This Privacy Policy governs the manner in which Quick LOL.com collects, uses, maintains and discloses information collected from users (each, a “User”) of the http://quicklol.com website (“Site”). This privacy policy applies to the Site and all products and services offered by Quick LOL.com.
 
-DNI respects your privacy. We do not sell or rent your personal information to third parties for marketing purposes without your explicit consent. By law, domain name registration information must be made available through Whois, a publicly accessible database that lists the domain name registration information of each registrant. Since domain name registration information is available to the public through Whois, anyone can access it on other web resources that offer Whois. Therefore, the domain name registration information you provide us is, and must be, made available to the public. At times our customers may be included within searches of the Whois database; however, any "spam" received through the use of Whois does not originate from DNI.
+## Personal identification information
 
-The privacy policy of this statement applies to our services offered under the domain name DNI and to our subsidiaries or joint venture websites. We promise that we will not use your personal information in any way that is incompatible with this privacy policy. By visiting this website you agree to be bound by the terms and conditions of this privacy policy. This privacy policy is incorporated into and subject to the terms of the DNI Universal Terms of Service (“UTOS”) Agreement. Please do not use or access the DNI website if you do not agree to the UTOS or to this privacy policy.
+We may collect personal identification information from Users in a variety of ways, including, but not limited to, when Users visit our site, fill out a form, and in connection with other activities, services, features or resources we make available on our Site. Users may be asked for, as appropriate, name, email address. Users may, however, visit our Site anonymously. We will collect personal identification information from Users only if they voluntarily submit such information to us. Users can always refuse to supply personally identification information, except that it may prevent them from engaging in certain Site related activities.
 
-DNI does not create individual profiles for visitors. We only collects aggregate data.  Because your trust and confidence is important to us, DNI conducts its business under the following privacy principles: 
+## Non-personal identification information
 
-**Principle 1 - No Collection of Personal Information**
+We may collect non-personal identification information about Users whenever they interact with our Site. Non-personal identification information may include the browser name, the type of computer and technical information about Users means of connection to our Site, such as the operating system and the Internet service providers utilized and other similar information.
 
-DNI does not collect any personal information such as names, ages, phone numbers, addresses, or e-mail addresses from visitors to our website.
+## Web browser cookies
 
-**Principle 2 - No Combination of Browsing and Web Traffic Information with Personal Information**
+Our Site may use “cookies” to enhance User experience. User’s web browser places cookies on their hard drive for record-keeping purposes and sometimes to track information about them. User may choose to set their web browser to refuse cookies, or to alert you when cookies are being sent. If they do so, note that some parts of the Site may not function properly.
 
-Since DNI does not collect any personal information from website visitors, we do not combine traffic analysis information with personal information such as name, age, phone number or mailing address.
+## How we use collected information
 
-**Principle 3 - No Aggregation of Individual Visitor Traffic Patterns across Multiple Sites**
+Quick LOL.com may collect and use Users personal information for the following purposes:  
+\- To improve customer service  
+Information you provide helps us respond to your customer service requests and support needs more efficiently.  
+\- To improve our Site  
+We may use feedback you provide to improve our products and services.  
+\- To send periodic emails  
+We may use the email address to respond to their inquiries, questions, and/or other requests.  
+How we protect your information
 
-DNI does not collect individual profile information for visitors across multiple sites and does not aggregate information from any other sources about browsing patterns of individual visitors across multiple sites.
+We adopt appropriate data collection, storage and processing practices and security measures to protect against unauthorized access, alteration, disclosure or destruction of your personal information, username, password, transaction information and data stored on our Site.
 
-**Principle 4 - Collection of Non-Personally Identifiable Information**
+## Sharing your personal information
 
-DNI collects anonymous visitor information including IP addresses, browser types (such as Internet Explorer or Netscape), referring pages, pages visited, and time spent on the web site. DNI collects this non-personally identifiable information for the following purposes: (1) to provide anonymous statistical analysis of web page traffic patterns for our website; (2) to administer our website and servers, (3) to allow for auditing of our services by third parties, and (4) to improve our services.
+We do not sell, trade, or rent Users personal identification information to others. We may share generic aggregated demographic information not linked to any personal identification information regarding visitors and users with our business partners, trusted affiliates and advertisers for the purposes outlined above.
 
-**Principle 5 - Anonymous Use of Cookies**
+## Google Adsense
 
-It is DNI's policy to use cookies only for more accurate anonymous traffic analysis such as tracking the time/date of the visit, the page viewed, the referrer, and transaction information for eCommerce pages. The cookie information does not include personal data such as name, age, phone number, e-mail address or mailing address. In addition, DNI does not link cookies to personal data such as name, age, phone number, e-mail address or mailing address. Because we do not build a database of individual visitors, the data that we do collect is never stored in any individual user profile; the data collected serves only to update aggregate counts allowing us to monitor traffic on our site.
+Some of the ads may be served by Google. Google’s use of the DART cookie enables it to serve ads to Users based on their visit to our Site and other sites on the Internet. DART uses “non personally identifiable information” and does NOT track personal information about you, such as your name, email address, physical address, etc. You may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at http://www.google.com/privacy_ads.html
 
-**Principle 6 - No Individual Profiling**
+## Changes to this privacy policy
 
-DNI does not create individual profiles of visitors. Unlike other tracking services we do not have a database of individual profiles of each visitor. DNI collects data in aggregate form, and data is not recorded or stored about individual visitors.
+Quick LOL.com has the discretion to update this privacy policy at any time. When we do, we will revise the updated date at the bottom of this page. We encourage Users to frequently check this page for any changes to stay informed about how we are helping to protect the personal information we collect. You acknowledge and agree that it is your responsibility to review this privacy policy periodically and become aware of modifications.
 
-**Notices:**
+## Your acceptance of these terms
 
-**Compliance with Laws and Law Enforcement**
+By using this Site, you signify your acceptance of this policy. If you do not agree to this policy, please do not use our Site. Your continued use of the Site following the posting of changes to this policy will be deemed your acceptance of those changes.
 
-We cooperate with government and law enforcement officials when legally required to do so. This includes disclosing any information necessary or appropriate to enforce our Universal Terms of Service, or in response to subpoenas, claims and other legal process, to protect our own property and rights or the property and rights of any third party, to protect the safety of the public or any person, or to prevent or stop activity we consider to be illegal or unethical. We also share your information to the extent necessary to comply with ICANN's rules, regulations and policies.
+## Contacting us
 
-**Transfer of Data Abroad**
+If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us at:
 
-If you are visiting any DNI website from a country other than the country in which our servers are located, any communication with us may result in the transfer of information across international borders.  By visiting any DNI website and communicating electronically with us, you consent to such transfers.
+<http://quicklol.com/contact-us/>
 
-DNI may amend this privacy policy at any time by posting the amendment terms to our website.
-
-For your safety and protection, your credit card information is not stored on our servers. Our payment gateway provider, Durango Merchant Services, keeps this information encrypted and secure on your behalf.
-
-Inquiries to DNI shall be made either by email, sent by first class mail to the physical address provided on the DNI Web site, or sent by first class mail to DNI's address at:
-
-Domain Names International, Inc.
-
-Legal Counsel
-
-11605 Meridian Market View
-
-Unit 124-134
-
-Falcon, CO 80831
-
-Revised: 4/12/2011
-
-Copyright © 2011 Domain Names International.  All Rights Reserved.
+_This document was last updated on November 04, 2012_
