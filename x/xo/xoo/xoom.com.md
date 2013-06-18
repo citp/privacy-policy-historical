@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the xoom.com privacy policy that was archived on 2012-10-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121023192511id_/https%3A//www.xoom.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the xoom.com privacy policy that was archived on 2013-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130618161556id_/http%3A//www.xoom.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Xoom
 
-Xoom Corporation, a California Corporation, takes your Privacy very seriously. This Privacy Policy applies to the Site **www.xoom.com** and is effective as of **2012-07-05**.
+Xoom Corporation, a California Corporation, takes your Privacy very seriously. This Privacy Policy applies to the Site **www.xoom.com** and is effective as of **2013-04-23**.
 
 We are committed to protecting our customers' privacy and security. This Privacy Statement explains what personal information we collect about you, with whom we share it, and how you [The user of the Service] can direct us not to share certain information with certain parties. "Personal Information" refers to information such as name and email that can be used to identify an individual. You should read this Privacy Policy in its entirety. Certain sections may apply differently to residents of different jurisdictions.
 
-[](https://clicktoverify.truste.com/pvr.php?page=validate&url=www.xoom.com&lang=en&sealid=101) Xoom Corporation has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with [TRUSTe's program requirements](http://www.truste.com/privacy_seals_and_services/consumer_privacy/privacy-programs-requirements.html) including transparency, accountability and choice regarding the collection and use of your personal information. TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions.
+[](https://clicktoverify.truste.com/pvr.php?page=validate&url=www.xoom.com&lang=en&sealid=101)Xoom Corporation has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with [TRUSTe's program requirements](http://www.truste.com/privacy_seals_and_services/consumer_privacy/privacy-programs-requirements.html) including transparency, accountability and choice regarding the collection and use of your personal information. TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions.
 
 If you have questions or concerns regarding this statement, you should first [contact us](https://web.archive.org/contact-xoom-customer-service). If you are not satisfied with our response you can contact [TRUSTe here](http://watchdog.truste.com/pvr.php?page=complaint).
 
@@ -80,7 +80,7 @@ Federal and state laws allow you to restrict the sharing of your personal inform
 
 ## COMPLAINTS
 
-If you have a complaint, first contact **Xoom Customer Service at 1-877-815-1531**. If you are a Texas resident and you still have an unresolved complaint regarding Xoom's money transmission activity, please direct your complaint to: Texas Department of Banking: 2601 North Lamar Boulevard; Austin, Texas 78705; 1-877-276-5554 (toll free); [www.dob.texas.gov](http://www.dob.texas.gov/) or email [consumer.complaints@dob.texas.gov](mailto:consumer.complaints@dob.texas.gov). 
+If you have a complaint, first contact **Xoom Customer Service at 1-877-815-1531**. If you are a Texas resident and you still have an unresolved complaint regarding Xoom's money transmission activity, please direct your complaint to: Texas Department of Banking: 2601 North Lamar Boulevard; Austin, Texas 78705; 1-877-276-5554 (toll free); [www.dob.texas.gov](http://www.dob.texas.gov/) or email [consumer.complaints@dob.texas.gov](mailto:consumer.complaints@dob.texas.gov).
 
 ## THIRD PARTY SITES
 
