@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the discgolfscene.com privacy policy that was archived on 2012-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121217034739id_/http%3A//www.discgolfscene.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the discgolfscene.com privacy policy that was archived on 2013-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130618024838id_/http%3A//www.discgolfscene.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | The DiscGolfScene
 
@@ -12,7 +12,7 @@ We may collect certain limited information about you when you visit the Website.
 
 ## How we collect the information
 
-The Website may use cookies to collect information about your computer in order to facilitate your use of the Website. For example, when you visit the Website, cookies allow us to recognize you, and then when you return to our website, they allow us to customize your views of the Website and store information as such the scores you post, your friends and so on. Cookies do not allow us to personally identify you beyond the information you provide on the Website, but help us improve the quality of your visit to the Website. We also collect information that you provide to us when you register to establish a profile page. Such information might consist of your name, if you provide it, e-mail address, geographic location and computer identification. 
+The Website may use cookies to collect information about your computer in order to facilitate your use of the Website. For example, when you visit the Website, cookies allow us to recognize you, and then when you return to our website, they allow us to customize your views of the Website and store information such as the scores you post, your friends and so on. Cookies do not allow us to personally identify you beyond the information you provide on the Website, but help us improve the quality of your visit to the Website. We also collect information that you provide to us when you register to establish a profile page. Such information might consist of your name, if you provide it, e-mail address, geographic location and computer identification. 
 
 ## How we use the information you provide us
 
