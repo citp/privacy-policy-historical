@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the confirmit.com privacy policy that was archived on 2012-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121230221847id_/http%3A//www.confirmit.com/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the confirmit.com privacy policy that was archived on 2013-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130618162229id_/http%3A//confirmit.com/privacy-policy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy | Confirmit
 
@@ -88,8 +88,7 @@ Social Media Buttons | Keep track if you've previously liked or promoted a page 
 Youtube Video | Gathers anonymous statistics on video interation | Third Party Cookie. Low Privacy Intrusiveness.  
 Login Cookies | Remembers your login into private sections of the Extranet | Session Cookie. Low Privacy Intrusiveness.  
 Google Analytics | To understand how the site is being used in order to improve the user experience. All user data is anonymous | Third Party Cookie. Low Privacy Intrusiveness.  
-Marketo | To understand user behavior within our site and collect user feedback. All data is anonymous until the user has provided his/her own information | Third Party Cookie. Medium Privacy Intrusiveness.  
-Hubspot | To understand areas of our site that require maintenance and to identify top sources of content. All data is anonymous | Third Party Cookie. Low Privacy Intrusiveness.  
+Site Analytics | To understand user behavior within our site and collect user feedback. All data is anonymous until the user has provided his/her own information | Third Party Cookie. Medium Privacy Intrusiveness.  
   
 ## Service Quality Monitoring
 
