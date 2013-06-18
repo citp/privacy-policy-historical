@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the smartpress.com privacy policy that was archived on 2011-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111220215052id_/http%3A//smartpress.com/pages/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the smartpress.com privacy policy that was archived on 2013-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130618021702id_/http%3A//smartpress.com/pages/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Smartpress.com
 
@@ -6,7 +6,7 @@
 
 ### Commitment to Privacy
 
-We at Smartpress.com understand the importance of protecting the privacy of our users. The information collected on the Smartpress.com website is used to market and improve the services we offer, to improve the Smartpress.com web site content, and to contact you with updates to the web site or for other marketing purposes.
+We at Smartpress.com understand the importance of protecting the privacy of our users. The information collected on the Smartpress.com website is used exclusively by Smartpress.com to market and improve the services we offer to our customers, to improve the Smartpress.com web site content, and to contact you with updates to the web site or for other marketing purposes directly related to your Smartpress.com customer relationship.
 
 Certain areas of Smartpress.com, including those areas used to make purchases, require registration and/or a password for access. Information obtained from registered users of these areas may also be used for Smartpress.com marketing purposes, and cookies may be used in those and other areas, as is described in this Policy. Information obtained in these areas may also be used in accordance with agreements governing access to and use of the specific areas. In addition, visitors to Smartpress.com will need to register for a Smartpress.com Login user ID and password to use many of the interactive features on Smartpress.com as well as to make a purchase or file an order from Smartpress.com. Log file data and other information gathered from registered users of Smartpress.com are used to improve the Smartpress.com customer experience.
 
@@ -30,7 +30,7 @@ If necessary, Smartpress.com obtains consumer information from third-party pro
 
 ### Cookies
 
-A cookie is a series of data characters that, when programmed into a web site, is placed by the web server into the browser's application folder on your computer. Once placed onto your machine, the cookie will allow the web site to “recognize” you as a unique individual. Smartpress.com uses these cookies to associate individual customers with their information profiles. No personal information of any kind is stored in these cookies. They are only used by Smartpress.com to “remember” your user ID when you login to Smartpress.com on your computer. They are not passed on to any 3rd party. They are also not used to target you with advertisements.
+A cookie is a series of data characters that, when programmed into a web site, is placed by the web server into the browser's application folder on your computer. Once placed onto your machine, the cookie will allow the web site to “recognize” you as a unique individual. Smartpress.com uses these cookies to associate individual customers with their information profiles. No personal information of any kind is stored in these cookies. They are only used by Smartpress.com to “remember” your user ID when you login to Smartpress.com on your computer. They are not passed on to any 3rd party. 
 
 ### Links
 
