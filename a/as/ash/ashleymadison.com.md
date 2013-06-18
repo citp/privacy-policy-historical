@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the ashleymadison.com privacy policy that was archived on 2012-09-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120920085413id_/http%3A//www.ashleymadison.com/app/public/privacy.p) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ashleymadison.com privacy policy that was archived on 2013-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130618164508id_/http%3A//www.ashleymadison.com/app/public/privacy.p) for the most accurate reproduction.*
 
-# Ashley Madison | Privacy Policy | Life is Short. Have an Affair
+# Ashley Madison® | Privacy Policy | Life is Short. Have an Affair.®
 
 Ashley Dating Life Inc. ("we," "us" or "Ashley Madison") is firmly committed to privacy. The following discloses our information gathering and dissemination practices for this website (the "Website") and use of our service ("Service"). By accessing the Website, you accept this Privacy Statement and agree to the terms, conditions and notices contained or referenced herein. We reserve the right to make changes to this Privacy Statement at any time without prior notice and such changes become effective once a revised Privacy Policy is posted on our Website. Your continued use of our Website constitutes your acceptance of such changes. Accordingly, you should review this Privacy Statement from time to time for changes. THIS PRIVACY STATEMENT WAS LAST UPDATED ON: August 22, 2011.
 
@@ -66,7 +66,7 @@ The Canadian government has enacted the Personal Information Protection and Elec
 **California Privacy Rights**  
 Under California Civil Code sections 1798.83-1798.84, California residents are entitled to ask Ashley Madison for a notice describing what categories of personal customer information we share with third parties or affiliates for those third parties or affiliates' direct marketing purposes. That notice will identify the categories of information shared and will include a list of the third parties and affiliates with whom it was shared, along with their names and addresses. If you are a California resident and would like a copy of this notice, please submit a written request to the address listed below. Please note that it may take 60 days from receipt of your written request to receive the notice.
 
-To contact us concerning Privacy issues, please use the [Contact Form](http://www.ashleymadison.com/app/public/contact.p). All other inquiries should be sent using our [Contact Us](http://www.ashleymadison.com/app/public/contact.p) section.
+To contact us concerning Privacy issues, please use the [Contact Form](https://www.ashleymadison.com/app/public/contactform.p?contactform=1). All other inquiries should be sent using our [Contact Us](https://www.ashleymadison.com/app/public/contactform.p) section.
 
 **Attn:** Privacy Officer  
 Avid Dating Life Inc.  
