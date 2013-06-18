@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the sudoku.name privacy policy that was archived on 2012-09-19.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120919073141id_/http%3A//www.sudoku.name/privacy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the sudoku.name privacy policy that was archived on 2013-06-18.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130618111308id_/http%3A//www.sudoku.name/privacy.php) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"><html><head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
@@ -19,7 +19,7 @@
     <td colspan="2"> 
       <table width="100%" border="0" cellspacing="0" cellpadding="0">
   <tbody><tr> 
-    <td nowrap="nowrap"><a href="/"><img src="pictures/head2.png" width="372" height="61" border="0" title="Sudoku" alt="Sudoku"></a></td>
+    <td nowrap="nowrap"><a href="/"><img src="pictures/head2.png" width="372" height="61" border="0" title="" alt=""></a></td>
     <td width="100%" align="right" valign="top" height="100%">
                 <table width="100%" border="0" cellspacing="0" cellpadding="0" height="100%">
   <tbody><tr>
@@ -37,7 +37,7 @@
     <td align="right" nowrap="nowrap">
     
     
-    <img src="pictures/sudoku-logo.png" title="Sudoku puzzle" alt="Sudoku puzzle"></td>
+    <img src="pictures/sudoku-logo.png" width="201" height="61"></td>
   </tr>
 </tbody></table>
     </td>
@@ -47,21 +47,30 @@
   </tr>
   <tr> 
     <td width="20%" valign="top"> 
-      <script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script>
+      <style type="text/css">
+/*SPRITES*/
+.sprite-menu {background:url(pictures/csg-5199d41e7a0e2.png);}
+
+.sprite-menu-menu1_03{ background-position: 0 0; width: 12px; height: 12px; } 
+.sprite-menu-small-sudoku{ background-position: 0 -62px; width: 15px; height: 15px; } 
+.sprite-menu-sudoku-book{ background-position: 0 -127px; width: 16px; height: 14px; } 
+.sprite-menu-sudoku-favorites{ background-position: 0 -191px; width: 21px; height: 22px; } 
+.sprite-menu-sudoku-rules{ background-position: 0 -263px; width: 16px; height: 16px; } 
+.sprite-menu-sudoku-solver{ background-position: 0 -329px; width: 15px; height: 15px; } 
+.sprite-menu-upload-sudoku{ background-position: 0 -394px; width: 20px; height: 18px; } 
+</style>
+<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script>
 function favorites()
 {
 	//dont take this off, or change all menu.txt
-	//window.external.AddFavorite(location.href, '﻿Sudoku');
 	title=document.title;
 	url=location.href;
 	if (window.sidebar) 
 	{ // Mozilla Firefox Bookmark
-		//alert("yes");
 		window.sidebar.addPanel(title, url,"");	
 	} 
 	else if( window.external ) 
 	{ // IE Favorite		
-		//alert("no");
 		window.external.AddFavorite( url, title); 
 	}	
 	else if(window.opera && window.print) 
@@ -71,12 +80,12 @@ function favorites()
 }
 </script>
 <br style="line-height:37px;">
-<table width="3%" border="0" cellspacing="0" cellpadding="0">
+<table width="3%" border="0" cellspacing="0" cellpadding="0" style="margin-right:25px;">
   <tbody><tr>
     <td><table width="100%" border="0" cellspacing="0" cellpadding="0">
         <tbody><tr> 
           <td width="100%" height="12" background="pictures/images/menu1_02.jpg" bgcolor="#666666"></td>
-          <td width="12" height="12" align="right"> <img src="pictures/images/menu1_03.jpg" width="12" height="12" alt=""></td>
+          <td width="12" height="12" align="right"><img src="pictures/transparent.gif" class="sprite-menu sprite-menu-menu1_03" alt=""></td>
         </tr>
       </tbody></table></td>
   </tr>
@@ -84,29 +93,27 @@ function favorites()
     <td>
     <table width="100%" border="0" cellspacing="1" cellpadding="2" style="font-family:Verdana, Geneva, sans-serif; font-size:14px; border:#666 1px solid; border-top:none">
               <tbody><tr> 
-                <td width="10%" valign="top"><img src="pictures/small-sudoku.png"></td>
+                <td width="10%" valign="top"><img src="pictures/transparent.gif" class="sprite-menu sprite-menu-small-sudoku" alt=""></td>
                 <td width="90%"><a href="/"> 
                   Sudoku</a></td>
               </tr>
               <tr> 
-                <td valign="top"><img src="pictures/sudoku-rules.png"></td>
+                <td valign="top"><img src="pictures/transparent.gif" class="sprite-menu sprite-menu-sudoku-rules"></td>
                 <td><a href="rules/en"> 
                   Sudoku rules</a></td>
               </tr>
-                            <tr> 
-                <td valign="top" nowrap=""><img src="pictures/sudoku-solver.png"></td>
-                <td><a href="sudoku-solver/en"><font color="#000000" face="Verdana, Arial, Helvetica, sans-serif"> 
-                  Sudoku solver                  </font></a></td>
-              </tr>
-                                          
               <tr> 
-                <td valign="top"><img src="pictures/upload-sudoku.png" alt="upload Sudoku" title="Upload Sudoku"></td>
+                <td valign="top" nowrap=""><img src="pictures/transparent.gif" class="sprite-menu sprite-menu-sudoku-solver"></td>
+                <td><a href="sudoku-solver/en" style="color:#000">Sudoku solver</a></td>
+              </tr>
+                            <tr> 
+                <td valign="top"><img src="pictures/transparent.gif" class="sprite-menu sprite-menu-upload-sudoku" title="Upload Sudoku"></td>
                 <td>
                 <a href="upload-puzzle.php?ln=en" rel="nofollow">Upload Sudoku</a>
                 </td>
               </tr>
               <tr> 
-                <td valign="top"><img src="pictures/sudoku-book.jpg" width="16" height="14" alt="sudoku books" title="sudoku books"></td>
+                <td valign="top"><img src="pictures/transparent.gif" class="sprite-menu sprite-menu-sudoku-book" alt="sudoku books" title="sudoku books"></td>
                 <td onmouseover="javascript:document.getElementById('sudoku_books').style.display='';" onmouseout="javascript:document.getElementById('sudoku_books').style.display='none';">
                 <div style="position:relative">
                 <a href="javascript:;">Sudoku books</a>
@@ -125,13 +132,12 @@ function favorites()
               </tr>
               
                             <tr> 
-                <td valign="top"><img src="pictures/sudoku-favorites.png"></td>
+                <td valign="top"><img src="pictures/transparent.gif" class="sprite-menu sprite-menu-sudoku-favorites"></td>
                 <td><a href="javascript:favorites();">Add to favorites</a></td>
               </tr>
                           </tbody></table>
             </td>
   </tr>
-  
 </tbody></table>    </td>
     <td valign="top"><h1><font size="5" face="Verdana, Arial, Helvetica, sans-serif">Privacy 
         Policy</font></h1>
@@ -246,7 +252,6 @@ function favorites()
   <tr> 
     <td colspan="2" align="center"><p>&nbsp;</p>
       <div style=" font-family:Verdana, Geneva, sans-serif; font-size:12px; width:780px; text-align:center; margin-top:15px">
-<!-- google_ad_section_start(weight=ignore) -->
 <div style="font-weight:bold">
 <a href="/">Sudoku</a>
 	 | 
@@ -258,11 +263,11 @@ function favorites()
 	 | 
 	<a href="index-ru.php">Судоку</a> 
 	| 
-    <a href="index-no.php" rel="nofollow">Norsk</a>
+    <a href="index-no.php">Norsk</a>
 	| 
-    <a href="index-sv.php" rel="nofollow">Svenska</a>
+    <a href="index-sv.php">Svenska</a>
 	| 
-    <a href="index-da.php" rel="nofollow">Dansk</a>
+    <a href="index-da.php">Dansk</a>
 	| 
     <a href="index-fi.php">Suomi</a>
 	| 
@@ -270,7 +275,7 @@ function favorites()
 	| 
     <a href="index-it.php">Italiano</a>
 	| 
-    <a href="index-fr.php" rel="nofollow">Français</a>
+    <a href="index-fr.php">Français</a>
         | 
 	<a href="index-sk.php">Slovenčina</a>
         | 
@@ -294,19 +299,17 @@ function favorites()
 	| 
     <a href="index-id.php">Bahasa Indonesia</a>
 	| 
-    <a href="index-th.php" rel="nofollow">ซูโดะกุ</a>
+    <a href="index-th.php">ซูโดะกุ</a>
 </div>
-
-    <!-- google_ad_section_end -->
     <br>
-     		<a href="syndication.php" style="color:#000000" rel="nofollow">Syndication</a> | 
-		<a href="privacy.php" style="color:#000000" rel="nofollow">privacy</a> | 
-			<a href="/contact-us.php?ln=en" rel="nofollow"> 
+     		<a href="syndication.php" style="color:#000000">Syndication</a> | 
+		<a href="privacy.php" style="color:#000000">privacy</a> | 
+			<a href="/contact-us.php?ln=en"> 
 	contact us	</a>
          
      <br><br>
      ﻿© www.sudoku.name All rights reserved       <br>
-       2005-2012  
+       2005-2013  
 </div>
 <script type="text/javascript">
 
