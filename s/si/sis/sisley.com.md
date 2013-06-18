@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the sisley.com privacy policy that was archived on 2012-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121221191053id_/http%3A//www.sisley.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sisley.com privacy policy that was archived on 2013-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130618093616id_/http%3A//www.sisley.com/privacy) for the most accurate reproduction.*
 
-# Privacy - Sisley.com | Sisley
+# Privacy - Sisley.com
 
 This information describes how the personal data of users consulting the Bencom S.r.l. websites is managed and processed.  
 This information, provided in compliance with art. 13 of Italian Legislative Decree no. 196 of 2003 (Personal data Protection Law), is only for this website owned by Bencom S.r.l. and not for any other websites consulted by the user through links over which the aforementioned company has no control whatsoever.
