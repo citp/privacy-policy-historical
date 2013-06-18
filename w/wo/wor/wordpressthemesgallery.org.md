@@ -1,100 +1,87 @@
-> *The following text is extracted and transformed from the wordpressthemesgallery.org privacy policy that was archived on 2011-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110627154744id_/http%3A//www.godaddy.com/agreements/ShowDoc.aspx%3Fpageid%3Dprivacy_parkedpage) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wordpressthemesgallery.org privacy policy that was archived on 2013-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130618095853id_/http%3A//www.site5.com/legal/privacy-policy) for the most accurate reproduction.*
 
-# Legal Agreement
+# Site5 - Privacy Policy
 
-**Go Daddy Respects Your Privacy**
+Site5.com ("Site5") has created this privacy statement in order to demonstrate our commitment to privacy to our customers and users of our consulting services, online services, websites, and web services ("Services").
 
-**This Privacy Policy explains our privacy and information gathering practices, such as the types of information we collect and under what circumstances that information is shared.**
+This privacy policy governs the manner in which Site5 uses, maintains and discloses information collected from its customers and users of our Services.
 
-**Please take the time to review the terms of this Policy.   By using this Site, you agree to accept the terms provided.**
+## 1\. Privacy
 
-**Other than as described in this Policy, we will not give any information about you to others without your express permission.**
+Site5 is committed to developing long lasting relationships based on trust. As such, Site5 will do everything in its power to ensure that your right to privacy is maintained and protected. Our Services are not directed at children under 13 years of age.
 
-**Information Collection and Use**
+## 2\. Information We Collect
 
-Although this Site is primarily for informational purposes, we may ask you to provide us with your name, email address or other information that could be used to identify you personally.  For example, we may collect this information in the event that you register as a member of this Site, post a comment, sign-up to receive email communications, or submit demographic information as part of a survey.
+Site5 may request or collect personal information from online users in a variety of ways, including through online forms for ordering products and services, and other instances where users are invited to volunteer such information.
 
-We receive and store any information you enter on our Site or give us in any other way, including through email, telephone, or other communications. If you contact us for support, we will keep an internal record of our communication with you.
+The information we collect is personal information that identifies you personally, such as:
 
-We may use your information to contact you regarding the information and services available on our Site, functionality changes to our Site, and special offers we think you'll find valuable. If you would rather not receive this information, please see the "Updating Your Information" section below on how to change your preferences.
+  * First & last name
+  * Postal address
+  * Telephone and fax numbers
+  * URL
+  * E-mail address
+  * Credit card information
+  * Other billing information
 
-We may also use your information to present a co-branded offer with our partners or affiliates. If we collect information from you in connection with a co-branded offer, it will be clear at the point of collection who is collecting the information and whose privacy statement applies.
 
-We use information gathered about you from our Site statistics (for example, your IP address) to help diagnose problems with our server, and to administer our Site. We also gather broad demographic information from this data to help us improve our Site and make your browsing and purchasing experience more enjoyable. This is not linked to any personally identifiable information, except as necessary to prevent fraud or abuse on our system.
 
-Our Site uses cookies to enhance your experience with our Site.  Cookies are data files that are placed in your browser to keep track of your personal preferences and to facilitate easy navigation through our Site.  We use cookies to identify you so you don't need to log in each time you visit our Site.  You may opt-out of the use of cookies by altering settings on your browser.  Please note, however, that some areas of the Site will be easier to navigate with the use of cookies..
+Site5 may also collect information about how users access our Services using a tracking ID unique to each user through the use of cookies or other similar means.
 
-This Site also contains links to other websites. Unfortunately, we are not responsible for the privacy practices or the content of such sites.
+## 3\. What are Cookies?
 
-**Security**
+A cookie is a piece of data stored on the user's computer tied to information about the user. We may use both session ID cookies and persistent cookies. For session ID cookies, once you close your browser or log out, the cookie terminates and is erased. A persistent cookie is a small text file stored on your computer’s hard drive for an extended period of time.
 
-This Site has security measures in place to protect against the loss, misuse or alteration of the information under our control.
+Your browser’s help file contains information and instructions for removing persistent cookies. Session ID cookies may be used by Site5 to track user preferences while the user is using our Services. They also help to minimize load times and save on server processing. Persistent cookies may be used by Site5 to store whether, for example, you want your password remembered or not, and other information. Cookies used on Site5 websites do not contain personally identifiable information.
 
-**Updating Your Information**
+## 4\. Log Files
 
-You may alter your account information or opt out of receiving communications from us and our partners at any time. We have the following options for changing and modifying your account information or contact preferences.
+Like most standard websites, we use log files. This information may include internet protocol (IP) addresses, browser type, internet service provider (ISP), referring/exit pages, platform type, date/time stamp, and number of clicks to analyze trends, administer the site, track user's movement in the aggregate, and gather broad demographic information for aggregate use. However, none of the information stored in our log files, including but not limited to IP addresses, is linked to personally identifiable information.
 
-        i.      You may send an email to [support@godaddy.com ](mailto:support@godaddy.com)
+## 5\. How we use this Information
 
-       ii.      You may send mail to Go Daddy at the following postal address:   
-               14455 North Hayden Road, Suite 219, Scottsdale, AZ. 85260 USA
+Site5 may use the personally identifiable information collected by Site5 to contact customers regarding products and services offered by Site5 and, to the extent the User has agreed to it, by its trusted affiliates, independent contractors and business partners.
 
-      iii.      You may call us at: (480) 505-8800
+We may also use this information for research purposes regarding the effectiveness of our Services and marketing and sales efforts. Site5 will not in any way share this information with a third party either for free or by selling it, unless you specifically authorize such disclosures.
 
-       iv.      You may fax us at: (480) 505-8844
+## 6\. Disclosure of Information
 
-**Sending Emails**
+Site5 may also disclose aggregate, anonymous, data based on information collected from Users to investors and potential partners. In such cases, statistical information only will be disclosed and personally identifiable data will be kept strictly confidential. In case Site5 is sold, the information collected from users may be transferred to the new owners.
 
-We use emails to communicate with you and to send information that you have requested.  We also provide email links to allow you to contact us directly. We strive to promptly reply to your messages.
+Site5 may from time to time engage third parties, including its own subsidiaries and affiliated companies, to preserve, analyze or otherwise store or manipulate data received by Site5 from its customers. In all such cases, such third party service providers will be required to treat all such data with the same degree of care as Site5 and they will be prohibited from disclosing such data to any other person or party, except as otherwise provided for in this Privacy Policy.
 
-The information you send to us may be stored and used to improve this Site and our products, or it may be reviewed and discarded.
+## 7\. Special Offers and Updates
 
-**Compliance with Laws and Law Enforcement**
+Our customers and users will occasionally receive information on products, services, special deals, and possibly a newsletter. Out of respect for the privacy of our users we present the option to not receive these types of communications.
 
-We cooperate with government and law enforcement officials and private parties to enforce and comply with the law. We will disclose any information about you to government or law enforcement officials or private parties as we, in our sole discretion, believe necessary or appropriate to respond to claims and legal process (including without limitation subpoenas), to protect our property and rights or the property and rights of a third party, to protect the safety of the public or any person, or to prevent or stop activity we consider to be illegal or unethical. We will also share your information to the extent necessary to comply with ICANN's rules, regulations and policies.
+## 8\. Service Announcements
 
-**Third Party Service Providers**
+On rare occasions it is necessary to send out a strictly service related announcement, if, for instance, our service is temporarily suspended for maintenance. Generally, users may not opt-out of these communications, though they can deactivate their account. However, these communications are not promotional in nature.
 
-We may at times provide information about you to third parties to provide various services on our behalf, such as serving advertisements, conducting contests or surveys, performing analyses of our user demographics, shipping of goods or services, and user relationship management. We will only share information about you that is necessary for the third party to provide the requested service. These companies are prohibited from retaining, sharing, storing or using your personally identifiable information for any secondary purposes.
+## 9\. Legal Disclaimer
 
-In the event that we use third party advertising companies to serve ads on our behalf, these companies may employ cookies and action tags (also known as single pixel gift or web beacons) to measure advertising effectiveness. Any information that these third parties collect via cookies and action tags is completely anonymous. If you would like more information about this practice and your choices, click [here. ](http://www.networkadvertising.org/managing/opt_out.asp)
+Though we make every effort to preserve your privacy, we may need to disclose personal information when required by law, if we have a good-faith belief that such action is necessary and required to comply with a current judicial proceeding, a court order or legal process served on Site5.
 
-**Supplementation of Information**
+Site5 websites contain links to other sites. Please be aware that Site5 is not responsible for the privacy practices of such other sites. We encourage you to read the privacy statements of each and every Web site that collects personally identifiable information. The Site5 Privacy Policy as described herein applies solely to information collected by Site5.
 
-In order to provide certain services to you, we may on occasion supplement the personal information you submit to us with information from third party sources ( _e.g.,_ information from our strategic partners, service providers, or the United States Postal Service).  We do this to enhance our ability to serve you, to tailor our products and services to you, and to offer you opportunities to purchase products or services that we believe may be of interest to you.
+## 10\. Maintenance of Information
 
-**Contests/Surveys**
+The information provided to Site5 is saved indefinitely and may be stored on one or more databases directly or indirectly maintained by Site5. Site5 employs industry standard security measures to protect the confidentiality of the information.
 
-From time-to-time, we may provide you with the opportunity to participate in contests or surveys. If you choose to participate, we may request certain personally identifiable information from you. Participation in these contests or surveys is completely voluntary and you therefore have a choice whether or not to disclose the requested information. The requested information typically includes contact information (such as name and address), and demographic information (such as zip code and age level - note that you must be 18 or above to enter). We use this information to notify contest winners and award prizes, to monitor Site traffic, and to personalize our Site.
+While we cannot guarantee that loss, misuse or alteration to data will not occur; we make every effort to prevent such occurrences. Any other particularly sensitive information, such as credit card numbers collected for commercial transactions, is encrypted prior to transmission by you to Site5.
 
-We may use a third party service provider to conduct these surveys or contests. When we do, that company will be prohibited from using our users' personally identifiable information for any other purpose. We will not share the personally identifiable information you provide through a contest or survey with other third parties unless we give you prior notice and choice.
+## 11\. Safe Harbor
 
-**Tell-A-Friend**
+Site5 has certified its participation and compliance with the US-EU Safe Harbor Framework and the US-Swiss Safe Harbor Framework as set forth by the US Department of Commerce regarding the transfer of personal information from European Union member countries and Switzerland to the United States. The principles of Safe Harbor compliance are notice, choice, onward transfer, security, data integrity, access, and enforcement. Additional information about the Safe Harbor principles and certification process can be found at the US Department of Commerce's [Safe Harbor](http://www.export.gov/safeharbor/) website.
 
-If a user elects to use our referral service to inform a friend about our Site, we ask the user for the friend's name and email address. Go Daddy will automatically send the friend a one-time email inviting them to visit our Site. Go Daddy stores this information for the sole purpose of sending this one-time email. The friend may contact Go Daddy at [support@godaddy.com ](mailto:support@godaddy.com)to request the removal of this information from our database.
+Site5 has further committed to refer unresolved privacy complaints under the US-EU Safe Harbor Principles to an independent dispute resolution mechanism, the BBB EU Safe Harbor, operated by the Council of Better Business Bureaus. If you do not receive timely acknowledgment of your complaint, or if your complaint is not satisfactorily addressed by Site5, please visit the BBB EU Safe Harbor [web site](http://www.bbb.org/us/safe-harbor-complaints) for more information and to file a complaint.
 
-**What Happens to my Personal Information if I Opt Out?**
+## 12\. Your Responsibility
 
-If you advise us that you wish to opt out of receiving further communications from us, we will place your personally identifiable information in "deactivated" status on our relevant databases. However, you should know that placement of your information in "deactivated" status does not mean your personally identifiable information has been deleted from our database entirely. We will retain and use your personally identifiable information if necessary in order to comply with our legal obligations, resolve disputes, or enforce our agreements.
+You are responsible for the security of the login information, such as usernames and passwords, which give you access to your private information maintained by Site5. Make sure you keep login information in a safe place and do not share it with others.
 
-**Transfer of Data Abroad**
+Note that key-loggers, viruses, or other surveillance devices can intercept login information on the computers from which you access our Services, so you should take precautions regarding such devices, especially from public computers. In addition, you should always log out from any relevant Services when you are not actively using them.
 
-If you are visiting this Site from a country other than the country in which our servers are located, your communications with us may result in the transfer of information across international boundaries.  By visiting this Site and communicating electronically with us, you consent to such transfers.
+## 13\. Questions
 
-**Changes in Our Practices**
-
-We reserve the right to modify this Privacy Policy at any time. If we decide to change our Privacy Policy, we will post those changes to this Privacy Policy and any other places we deem appropriate, so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it.
-
-If we make material changes to this Policy, we will notify you here, by email, or by means of a notice on our home page, at least thirty (30) days prior to the implementation of the changes.
-
-**Contacting Our Site**
-
-If you have any questions about our Privacy Policy, the practices of this Site, or your dealings with this Site, please contact us at:
-
-* * *
-
-Go Daddy   
-ATTN: Web Team   
-14455 North Hayden Rd.   
-Suite 219   
-Scottsdale, AZ, 85260, U.S.A.
+Any questions concerning this Privacy Policy may be directed to [privacy@site5.com](mailto:privacy@site5.com "privacy").
