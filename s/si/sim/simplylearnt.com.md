@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the simplylearnt.com privacy policy that was archived on 2012-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120509012114id_/http%3A//www.simplylearnt.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the simplylearnt.com privacy policy that was archived on 2013-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130619220638id_/http%3A//www.simplylearnt.com/privacy_policy) for the most accurate reproduction.*
 
-# PrivacyPolicy - simplylearnt.com
+# Privacy Policy - simplylearnt.com
 
 **_Privacy Policy_**
 
@@ -90,7 +90,7 @@ SimplyLearnt may update this privacy policy. In the event there are significant 
   **Questions or Comments**  
 If you have questions or comments about this privacy policy, please email us at info@simplyLearnt.com or contact us at: www.SimplyLearnt.com
 
-Kamal Group of Companies, Sole Proprietorship.  
+Kamal Learning Solutions Pvt. Ltd.  
 Attn: Privacy Policy issues  
 F 46/A, Moti Nagar,
 
