@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the goaww.com privacy policy that was archived on 2012-10-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121010073239id_/http%3A//goaww.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the goaww.com privacy policy that was archived on 2013-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130619073823id_/http%3A//goaww.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy at GoAww.com
 
