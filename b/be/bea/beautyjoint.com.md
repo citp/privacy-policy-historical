@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the beautyjoint.com privacy policy that was archived on 2012-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121218193648id_/http%3A//www.beautyjoint.com/index.php%3Froute%3Dinformation/information%26information_id%3D2) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the beautyjoint.com privacy policy that was archived on 2013-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130620014547id_/http%3A//www.beautyjoint.com/index.php%3Froute%3Dinformation/information%26information_id%3D2) for the most accurate reproduction.*
 
 # Privacy Policy
 
