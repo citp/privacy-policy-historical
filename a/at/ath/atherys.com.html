@@ -1,7 +1,26 @@
-<!--The following is the downloaded HTML source of the atherys.com privacy policy that was archived on 2012-12-17.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121217204606id_/http%3A//atherys.com/pages/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the atherys.com privacy policy that was archived on 2013-06-19.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130619031937id_/http%3A//atherys.com/pages/privacy) for the most accurate reproduction.-->
 
-<!DOCTYPE html><html id="XenForo" lang="en-US" dir="LTR" class="Public LoggedOut NoSidebar" xmlns:fb="http://www.facebook.com/2008/fbml"><head>
+<!DOCTYPE html><html id="XenForo" lang="en-US" dir="LTR" class="Public LoggedOut NoSidebar" xmlns:fb="http://www.facebook.com/2008/fbml"><!-- Project Wonderful Ad Box Loader --><!-- Put this after the <body> tag at the top of your page --><head><script type="text/javascript" async="" src="//www.projectwonderful.com/pwa.js"></script><script async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript">
+   (function(){function pw_load(){
+      if(arguments.callee.z)return;else arguments.callee.z=true;
+      var d=document;var s=d.createElement('script');
+      var x=d.getElementsByTagName('script')[0];
+      s.type='text/javascript';s.async=true;
+      s.src='//www.projectwonderful.com/pwa.js';
+      x.parentNode.insertBefore(s,x);}
+   if (window.attachEvent){
+    window.attachEvent('DOMContentLoaded',pw_load);
+    window.attachEvent('onload',pw_load);}
+   else{
+    window.addEventListener('DOMContentLoaded',pw_load,false);
+    window.addEventListener('load',pw_load,false);}})();
+</script>
+<!-- End Project Wonderful Ad Box Loader -->
+
+
+
+
 
 	<meta charset="utf-8">
 	
@@ -12,77 +31,174 @@
 		</script>
 	
 
-	<title>Privacy Policy |  A'therys Ascended</title>
-	<script>var awesomeTitle = "Privacy Policy |  A'therys Ascended";</script>
+	<title>Privacy Policy |  A'therys Ascended / Atherys Ascended</title>
+	<script>var awesomeTitle = "Privacy Policy |  A'therys Ascended / Atherys Ascended";</script>
 	
 	<noscript><style>.JsOnly { display: none !important; }</style></noscript>
-	<link rel="stylesheet" href="css.php?css=xenforo,form,public&amp;style=4&amp;dir=LTR&amp;d=1355660591">
-	<link rel="stylesheet" href="css.php?css=bbcm_js,login_bar,pagenode,panel_scroller,share_page&amp;style=4&amp;dir=LTR&amp;d=1355660591">
+	<link rel="stylesheet" href="css.php?css=xenforo,form,public&amp;style=21&amp;dir=LTR&amp;d=1371145901">
+	<link rel="stylesheet" href="css.php?css=Gritter,GritterEXTRA,bbcm_js,facebook,login_bar,pagenode,panel_scroller,share_page,wf_default&amp;style=21&amp;dir=LTR&amp;d=1371145901">
 	
 	
 
+	<script>
+
+	var _gaq = [['_setAccount', 'UA-38018682-1'], ['_trackPageview']];
+	!function(d, t)
+	{
+		var g = d.createElement(t),
+			s = d.getElementsByTagName(t)[0];	
+		g.async = true;
+		g.src = ('https:' == d.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+		s.parentNode.insertBefore(g, s);
+	}
+	(document, 'script');
+
+	</script>
+		<script src="//ajax.googleapis.com/ajax/libs/jquery/1.5.2/jquery.min.js"></script>	
 	
-		<script src="http://content.gazamo-cdn.com/atherys/js/jquery/jquery-1.5.2.min.js"></script>	
+		<script>if (!window.jQuery) { document.write('<scr'+'ipt type="text/javascript" src="http://content.gazamo-cdn.com/atherys/js/jquery/jquery-1.5.2.min.js"><\/scr'+'ipt>'); }</script><script type="text/javascript" src="http://content.gazamo-cdn.com/atherys/js/jquery/jquery-1.5.2.min.js"></script>
 		
 	<script src="http://content.gazamo-cdn.com/atherys/js/xenforo/xenforo.js?_v=bba17b4a"></script>
 	<script src="http://content.gazamo-cdn.com/atherys/js/GFNCoders/title.min.js?_v=bba17b4a"></script>
+	<script src="http://content.gazamo-cdn.com/atherys/js/gritter/jquery.gritter.js?_v=bba17b4a"></script>
 	<script src="http://content.gazamo-cdn.com/atherys/js/bdTagMe/frontend.js?_v=bba17b4a"></script>
 
+
+<script type="text/javascript">
+!function($, window, document, _undefined)
+{
+    XenForo.PopupMenu.prototype.__construct = function($container)
+    {
+        // the container holds the control and the menu
+        this.$container = $container;
+
+        // take the menu, which will be a sibling of the control, and append/move it to the end of the body
+        this.$menu = this.$container.find('.Menu').appendTo('body');
+        this.menuVisible = false;
+
+        // check that we have the necessary elements
+        if (!this.$menu.length)
+        {
+            console.warn('Unable to find menu for Popup %o', this.$container);
+
+            return false;
+        }
+
+        // add a unique id to the menu
+        this.$menu.id = XenForo.uniqueId(this.$menu);
+
+        // variables related to dynamic content loading
+        this.contentSrc = this.$menu.data('contentSrc');
+        this.contentDest = this.$menu.data('contentDest');
+        this.loading = null;
+        this.unreadDisplayTimeout = null;
+        this.newlyOpened = false;
+
+        // bind events to the menu control
+        this.$clicker = $container.find('[rel="Menu"]').first().click($.context(this, 'controlClick'));
+
+        if (!XenForo.isTouchBrowser())
+        {
+            this.$clicker.mouseover($.context(this, 'controlHover')).hoverIntent(
+                {
+                    sensitivity: 1,
+                    interval: 0,
+                    timeout: 0,
+                    over: $.context(this, 'controlHoverIntent'),
+                    out: function(){}
+                });
+        }
+
+        this.$control = this.addPopupGadget(this.$clicker);
+
+        // the popup group for this menu, if specified
+        this.popupGroup = this.$control.closest('[data-popupGroup]').data('popupGroup');
+
+        //console.log('Finished popup menu for %o', this.$control);
+    };
+}(jQuery, this, document);
+</script>	
+	<script src="http://content.gazamo-cdn.com/atherys/js/responsive/responsive.js"></script>
 	
-	<link rel="alternate" type="application/rss+xml" title="RSS feed for  A'therys Ascended" href="forums/-/index.rss">
+	<link rel="alternate" type="application/rss+xml" title="RSS feed for  A'therys Ascended / Atherys Ascended" href="forums/-/index.rss">
 	
 	
 	
+	<meta property="og:site_name" content=" A'therys Ascended / Atherys Ascended">
+	
+	<meta property="og:image" content="http://atherys.com/styles/DBT_MMO/custom/logo.png">
+	<meta property="og:type" content="article">
+	<meta property="og:url" content="http://atherys.com/pages/privacy/">
+	<meta property="og:title" content="Privacy Policy">
+	<meta property="fb:app_id" content="136951796483739">
+	
+
 
 	<link rel="canonical" href="http://atherys.com/pages/privacy/">
-    <link rel="SHORTCUT ICON" href="http://atherys.com/favicon.ico">
 
+	
+	<script type="text/javascript" src="http://content.gazamo-cdn.com/atherys/js/kingk/bbcm/bbcodes.js"></script>
+
+        <link href="http://fonts.googleapis.com/css?family=Alegreya+SC" rel="stylesheet" type="text/css">
 </head>
 
 <body class="node14 node251">
+<div id="skin_background">
+
+                          
+
+<div id="topbar">
+      <div class="skin_width">
 
 
-<header>
-	<!---<script type="text/javascript">
 
-$.setCookie('cache', '1');
+<div style="width:100%; float:left;">
+<div class="navTabs navTabs_top">
 
-</script>--->
 
-<div id="header">
+
+
+
 	
-		
 
 <div id="loginBar">
 	<div class="pageWidth">
 		<div class="pageContent">	
-			<h3 id="loginBarHandle">
-				<label for="LoginControl"><a href="login/" class="concealed noOutline">Log in or Sign up</a></label>
-			</h3>
-			
-			<span class="helper"></span>
-
-			
+<div class="loginButton navTab">
+<a href="/login" class="OverlayTrigger navlike" title="Login">Login</a> 
+</div>
+<div class="registerButton navTab">
+<a href="/register" class="navlike" title="Register">Register</a>
+</div>
 		</div>
 	</div>
 </div>
-	
 
 
-<div id="header">
-	<div id="logoBlock">
-	<div class="pageWidth">
-		<div class="pageContent">
-	
+</div>
+</div>
 
-<div id="searchBar">
+<div style="width:25%; float:right;">
+
+</div>
+
+
+      </div>
+</div>
+
+
+
+<div class="skin_width">
+
+
+<div id="searchBar" class="pageWidth">
 	
 	<fieldset id="QuickSearch">
 		<form action="search/search" method="post" class="formPopup">
 			
 			<div class="primaryControls">
 				<!-- block: primaryControls -->
-				<input type="search" name="keywords" value="" class="textCtrl" placeholder="Search..." results="0" title="Enter your search and hit enter" id="QuickSearchQuery">				
+				<input type="search" name="keywords" value="" class="textCtrl" placeholder="Search..." results="0" title="Enter your search and hit enter" id="QuickSearchQuery" style="background:none; border:none;">				
 				<!-- end block: primaryControls -->
 			</div>
 			
@@ -143,276 +259,32 @@ $.setCookie('cache', '1');
 	</fieldset>
 	
 </div>
-			
-</div>
-
-			
-			<div id="logo"><a href="http://atherys.com">
-				<span></span>
-				<img src="http://content.gazamo-cdn.com/atherys/styles/baisik/xenforo/logo.png" alt=" A'therys Ascended">
-			</a></div>
-			
-			<span class="helper"></span>
-		</div>
-	</div>
-</div>
-	
-
-<div id="navigation" class="pageWidth">
-	<div class="pageContent">
-		<nav>
-
-<div class="navTabs">
-	<ul class="publicTabs">
-	
-		<!-- home -->
-		
-			<li class="navTab home PopupClosed"><a href="http://atherys.com" class="navLink"><img src="http://content.gazamo-cdn.com/atherys/styles/baisik/xenforo/xenfocus/home.png" class="user_icon" alt=""></a></li>
-		
-		
-		
-		<!-- extra tabs: home -->
-		
-		
-		
-		<!-- forums -->
-		
-			<li class="navTab forums selected">
-			
-				<a href="http://atherys.com/forum/" class="navLink">Forums</a>
-				<a href="http://atherys.com/forum/" class="SplitCtrl" rel="Menu"></a>
-				
-				<div class="tabLinks">
-					<div class="primaryContent menuHeader">
-						<h3>Forums</h3>
-						<div class="muted">Quick Links</div>
-					</div>
-					<ul class="secondaryContent blockLinksList">
-					
-						
-						<li><a href="search/?type=post">Search Forums</a></li>
-						
-						<li><a href="find-new/threads">What's New?</a></li>
-					
-					</ul>
-				</div>
-			</li>
-		
-		
-		
-		<!-- extra tabs: middle -->
-		
-		
-			
-				<li class="navTab events Popup PopupControl PopupClosed">
-			
-				<a href="http://atherys.com/events/" class="navLink">Events</a>
-				<a href="http://atherys.com/events/" class="SplitCtrl" rel="Menu"></a>
-				
-				<div class="Menu JsOnly tabMenu">
-					<div class="primaryContent menuHeader">
-						<h3>Events</h3>
-						<div class="muted">Quick Links</div>
-					</div>
-					<ul class="secondaryContent blockLinksList">
-	<li><a href="events/monthly">Monthly View</a></li>
-	<li><a href="events/weekly">Weekly View</a></li>
-	<li><a href="events/upcoming">Upcoming Events</a></li>
-	<li><a href="events/history">Events Archive</a></li>
-	
-</ul>
-				</div>
-			</li>
-			
-		
-		
-		
-		
-		<!-- members -->
-		
-			<li class="navTab members Popup PopupControl PopupClosed">
-			
-				<a href="http://atherys.com/members/" class="navLink">Members</a>
-				<a href="http://atherys.com/members/" class="SplitCtrl" rel="Menu"></a>
-				
-				<div class="Menu JsOnly tabMenu">
-					<div class="primaryContent menuHeader">
-						<h3>Members</h3>
-						<div class="muted">Quick Links</div>
-					</div>
-					<ul class="secondaryContent blockLinksList">
-					
-						<li><a href="members/">Registered Members</a></li>
-						<li><a href="online/">Current Visitors</a></li>
-						<li><a href="recent-activity/">Recent Activity</a></li>
-					<li><a href="top-users/">Top Contributors</a></li>
-					</ul>
-				</div>
-			</li>
-				
-		
-		<!-- help tab removed -->
-		
-		
-		<!-- Chat -->
-			<li class="navTab chat Popup PopupControl PopupClosed">
-			
-<a href="chat/" class="navLink">Chat</a>
-				<a href="chat/" class="SplitCtrl" rel="Menu"></a>
-				
-				<div class="Menu JsOnly tabMenu">
-					<div class="primaryContent menuHeader">
-						<h3></h3>
-						<div class="muted">Quick Links</div>
-					</div>
-					<ul class="secondaryContent blockLinksList">
-					
-
-<script type="text/javascript">
-// Popup window code
-function newPopup(url) {
-	popupWindow = window.open(
-		url,'popUpWindow','height=700,width=800,left=10,top=10,resizable=yes,scrollbars=yes,toolbar=yes,menubar=no,location=no,directories=no,status=yes')
-}
-</script>
-<a href="JavaScript:newPopup('/chat/popup/');">Popup</a>
-					
-					</ul>
-				</div>
-			</li>	
-
-		<!-- guides -->
-			<li class="navTab guides Popup PopupControl PopupClosed">
-			
-				<a href="/categories/guides.38/" class="navLink">Guides</a>
-				<a href="/categories/guides.38/" class="SplitCtrl" rel="Menu"></a>
-				
-				<div class="Menu JsOnly tabMenu">
-					<div class="primaryContent menuHeader">
-						<h3></h3>
-						<div class="muted">Quick Links</div>
-					</div>
-					<ul class="secondaryContent blockLinksList">
-					
-<li><a href="/pages/rules/">Server Rules</a></li>
-<li><a href="/pages/ranks/">Ranks</a></li>
-<li><a href="/pages/newplayersguide/">New Players Guide</a></li>
-<li><a href="/pages/townycommands/">Towny Commands</a></li>
-<li><a href="/pages/chestshop/">Chest Shop Commands</a></li>
-<li><a href="/pages/teamspeak/">Teamspeak Guide</a></li>
-<li><a href="/pages/heroes/">Heroes Commands</a></li>
-
-<li><a href="/categories/warrior-classes.188/">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Warrior Classes</a></li>
-<li><a href="/categories/mage-classes.197/">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Mage Classes</a></li>
-<li><a href="/categories/rogue-classes.208/">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Rogue Classes</a></li>
-<li><a href="/categories/healer-classes.221/">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Healer Classes</a></li>
-					
-					</ul>
-				</div>
-			</li>	
 
 
-		<!-- lore -->
-			<li class="navTab lore Popup PopupControl PopupClosed">
-			
-				<a href="/categories/atherys-lore.32/" class="navLink">Lore</a>
-				<a href="/categories/atherys-lore.32/" class="SplitCtrl" rel="Menu"></a>
-				
-				<div class="Menu JsOnly tabMenu">
-					<div class="primaryContent menuHeader">
-						<h3></h3>
-						<div class="muted">Quick Links</div>
-					</div>
-					<ul class="secondaryContent blockLinksList">
-					
-<li><a href="/categories/gods.48/">Gods</a></li>
-<li><a href="/categories/organizations.146/">Organizations</a></li>
-<li><a href="/categories/guilds.46/">Guilds</a></li>
-<li><a href="/categories/nations.10/">Nations</a></li>
-<li><a href="/categories/mechanics.89/">Mechanics</a></li>
-<li><a href="/categories/history.50/">History</a></li>
-<li><a href="/categories/characters.51/">Characters</a></li>
-<li><a href="/categories/places.52/">Places</a></li>
-<li><a href="/categories/fauna.100/">Fauna</a></li>
-					
-					</ul>
-				</div>
-			</li>	
 
-		<!-- Downloads -->
-			<li class="navTab downloads Popup PopupControl PopupClosed">
-			
-				<a href="/categories/downloads.244/" class="navLink">Downloads</a>
-				<a href="/categories/downloads.244/" class="SplitCtrl" rel="Menu"></a>
-				
-				<div class="Menu JsOnly tabMenu">
-					<div class="primaryContent menuHeader">
-						<h3></h3>
-						<div class="muted">Quick Links</div>
-					</div>
-					<ul class="secondaryContent blockLinksList">
-					
-<li><a href="/forums/texturepack/">Texture Packs</a></li>
-<li><a href="/forums/projects/">A'therys Project Builds</a></li>
-					
-					</ul>
-				</div>
-			</li>	
+<div id="headerMover">
+	<div id="headerProxy"></div>
 
-		<!-- Shop -->
-			<li class="navTab shop Popup PopupControl PopupClosed">
-			
-				<a href="http://shop.gazamo.com/" class="navLink">Shop</a>
-				<a href="http://shop.gazamo.com/" class="SplitCtrl" rel="Menu"></a>
-				
-				<div class="Menu JsOnly tabMenu">
-					<div class="primaryContent menuHeader">
-						<h3></h3>
-						<div class="muted">Quick Links</div>
-					</div>
-					<ul class="secondaryContent blockLinksList">
-					
-<li><a href="http://shop.gazamo.com/product-category/hero-levels/">Hero Levels</a></li>
-<li><a href="http://shop.gazamo.com/product-category/town-plots/">Town Plots</a></li>
-<li><a href="http://shop.gazamo.com/product-category/rank-packages/">Rank Packages</a></li>
-					
-					</ul>
-				</div>
-			</li>	
-
-		<!-- extra tabs: end -->
-		
-		
-		
-		<!-- no selection -->
-		
-		
-	</ul>
-	
-	
-</div>
-
-<span class="helper"></span>
-			
-		</nav>	
-	</div>
-</div>
-</div>
-
-
-	
-	
-</header>
-<div id="headerMover3">
-	<div id="headerProxy" style="display:none;"></div>
-
-<div id="content" class="pagenode_container">
+<div id="content" class="pagenode_container" style="margin-top:350px;">
 	<div class="pageWidth">
 		<div class="pageContent">
 			<!-- main content area -->
 			
-			
+			<!-- Project Wonderful Ad Box Code -->
+<div id="pw_adbox_67407_3_0" style="display: inline; position: fixed; background-color: transparent; width: 160px; height: 600px; margin-left: -185px; margin-top: -140px;"></div>
+<script type="text/javascript"></script>
+<noscript><map name="admap67407" id="admap67407"><area href="http://www.projectwonderful.com/out_nojs.php?r=0&c=0&id=67407&type=3" shape="rect" coords="0,0,160,600" title="" alt="" target="_blank" /></map>
+<table cellpadding="0" cellspacing="0" style="width:160px;border-style:none;background-color:;"><tr><td><img src="http://www.projectwonderful.com/nojs.php?id=67407&type=3" style="width:160px;height:600px;border-style:none;" usemap="#admap67407" alt="" /></td></tr><tr><td colspan="1"><center><a style="font-size:10px;color:#FFFFFF;text-decoration:none;line-height:1.2;font-weight:bold;font-family:Tahoma, verdana,arial,helvetica,sans-serif;text-transform: none;letter-spacing:normal;text-shadow:none;white-space:normal;word-spacing:normal;" href="http://www.projectwonderful.com/advertisehere.php?id=67407&type=3&tag=78095" target="_blank">Ads by Project Wonderful!  Your ad here, right now: $0</a></center></td></tr></table>
+</noscript>
+<!-- End Project Wonderful Ad Box Code -->
 
+
+	
+	<div class="section widget-container">
+		
+	</div>
+
+			
 			
 						
 						
@@ -425,10 +297,10 @@ function newPopup(url) {
 <nav>
 	
 
-	<fieldset class="breadcrumb">
+	<fieldset class="breadcrumb" data-limit="3">
 		<a href="misc/quick-navigation-menu?selected=node-14" class="OverlayTrigger jumpMenuTrigger" data-cacheoverlay="true" title="Open quick navigation"><!--Jump to...--></a>
 			
-		<div class="boardTitle"><strong> A'therys Ascended</strong></div>
+		<div class="boardTitle"><strong> A'therys Ascended / Atherys Ascended</strong></div>
 		
 		<span class="crumbs">
 			
@@ -471,18 +343,6 @@ function newPopup(url) {
 	<div class="scrollContainer">
 		<div class="PanelContainer">
 			<ol class="Panels">
-				
-					<li class="panel Notice DismissParent notice_notice_cookies">
-	<div class="baseHtml noticeContent">This site uses cookies. By continuing to use this site, you are agreeing to our use of cookies. <a href="help/cookies">Learn More.</a></div>
-	
-	
-</li>
-				
-					<li class="panel Notice DismissParent notice_7">
-	<div class="baseHtml noticeContent"><p style="color: red; font-style: bold; text-align: center; font-size: 15px;">Registration is now open!</p></div>
-	
-	
-</li>
 				
 					<li class="panel Notice DismissParent notice_2">
 	<div class="baseHtml noticeContent"><script language="JavaScript">
@@ -536,13 +396,13 @@ var i = Math.floor(7*Math.random())
 document.write(r_text[i]);
 
 //-->
-</script>Tip: Get involved on the forums! It's a great way to learn and get into the game!</div>
+</script>Tip: You can see your skills by typing '/skills'.</div>
 	
 	
 </li>
 				
-					<li class="panel Notice DismissParent notice_6">
-	<div class="baseHtml noticeContent">Hi Guest! If you're having any problems using the new website, please create a new topic explaining your problem in the <a href="/forums/tech-support/">Technical/Website Support</a> forum section!</div>
+					<li class="panel Notice DismissParent notice_8">
+	<div class="baseHtml noticeContent"><br><p style="color:green; font-size:20px; text-align:center;">Server has been updated to 1.5.2!</p></div>
 	
 	
 </li>
@@ -556,8 +416,102 @@ document.write(r_text[i]);
 
 						
 						
+
+
+
+
+	
+
+		
+
+
+		<script type="text/javascript">
+			$("#dismiss-link-2").hide();
+			window.setTimeout(showNotifications, 0);
+
+			function showNotifications() {
+				if(!$.getCookie('notification_2')) {
+					$(function () {
+						$.extend($.gritter.options, {
+							position: 'bottom-right',
+						});
+
+						$.gritter.add({
+							id: 2,
+							
+							sticky: 0,
+							class_name: 'easy',
+							time: '7000',
+							fade_in_speed: '150',
+							fade_out_speed: '150',
+							title: 'Vote',
+							text: '<p>Did you know, you could earn up to 1500 Yora a day just by <span style="color: #ff0000;"><strong><a href="pages/vote/"><span style="color: #ff0000;"> voting<\/span><\/a><\/strong><\/span>?<\/p>',
+							dismiss: '0',
+							
+					});
+
+					
+					$('#close-2').click(function(){
+						var expires = 0;
+						expires = new Date(new Date().getTime() + expires * 86400000);
+						$.setCookie('notification_2', 'xf_notification_2_closed')
+						});
 						
+
+
+						$("#dismiss-link-2")
+						.appendTo("#dismiss-container-2");
+
+						$("#dismiss-link-2").show();
+
+				});
+
+			}
+			}
+		</script>
+
+		
+			<style type="text/css">
+				#gritter-item-2 .gritter-item
+				{
+					color: rgb(179, 146, 126);
+				background: url(rgba.php?r=43&g=34&b=29&a=255);
+				}
+
+				#gritter-item-2 .gritter-item a
+				{
+					color: rgb(179, 146, 126);
+				}
+			</style>
+		
+
+	
+
 						
+						<div style="width:728px;margin-left:auto;margin-right:auto;">
+<!-- Project Wonderful Ad Box Code -->
+<div style="text-align:center;"><div style="display:inline-block;" id="pw_adbox_67405_5_0"></div></div>
+<script type="text/javascript"></script>
+<noscript><div style="text-align:center;"><div style="display:inline-block;"><map name="admap67405" id="admap67405"><area href="http://www.projectwonderful.com/out_nojs.php?r=0&c=0&id=67405&type=5" shape="rect" coords="0,0,728,90" title="" alt="" target="_blank" /></map>
+<table cellpadding="0" cellspacing="0" style="width:728px;border-style:none;background-color:;"><tr><td><img src="http://www.projectwonderful.com/nojs.php?id=67405&type=5" style="width:728px;height:90px;border-style:none;" usemap="#admap67405" alt="" /></td></tr><tr><td colspan="1"><center><a style="font-size:10px;color:#FFFFFF;text-decoration:none;line-height:1.2;font-weight:bold;font-family:Tahoma, verdana,arial,helvetica,sans-serif;text-transform: none;letter-spacing:normal;text-shadow:none;white-space:normal;word-spacing:normal;" href="http://www.projectwonderful.com/advertisehere.php?id=67405&type=5" target="_blank">Ads by Project Wonderful!  Your ad here, right now: $0</a></center></td></tr></table></div></div>
+</noscript>
+<!-- End Project Wonderful Ad Box Code -->
+</div>
+
+
+	
+	<div class="section widget-container">
+		
+	</div>
+
+												
+							<!-- h1 title, description -->
+							<div class="titleBar">
+								
+								<h1>Privacy Policy</h1>
+								
+								
+							</div>
 						
 						
 						
@@ -565,7 +519,6 @@ document.write(r_text[i]);
 						
 						<!-- main template -->
 						
- 
 
 
 
@@ -581,10 +534,10 @@ document.write(r_text[i]);
 
 
 
-<div id="pageNodeContent" class="sectionMain">
-<div class="messageText baseHtml">
+<div id="pageNodeContent">
 
-<div id="pageNodeNavigation" class="secondaryContent">
+	
+
 	
 	<article>This Privacy Policy governs the manner in which Gazamo collects, uses, maintains and discloses information collected from users of the <a href="http://gazamo.com/" target="_blank" class="externalLink" rel="nofollow">http://gazamo.com/</a> website. This privacy policy applies to the Site and all products and services offered by Gazamo.<br>
 <br>
@@ -648,19 +601,12 @@ By using this Site, you signify your acceptance of this policy and terms of serv
 If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us at:<br>
 Gazamo<br>
 <a href="http://gazamo.com/" target="_blank" class="externalLink" rel="nofollow">http://gazamo.com/</a><br>
-<a href="mailto:webmaster@gazamo.com">webmaster@gazamo.com<script type="text/javascript">
-/* <![CDATA[ */
-(function(){try{var s,a,i,j,r,c,l=document.getElementById("__cf_email__");a=l.className;if(a){s='';r=parseInt(a.substr(0,2),16);for(j=2;a.length-j;j+=2){c=parseInt(a.substr(j,2),16)^r;s+=String.fromCharCode(c);}s=document.createTextNode(s);l.parentNode.replaceChild(s,l);}}catch(e){}})();
-/* ]]> */
-</script></a><br>
+<a href="mailto:webmaster@gazamo.com">webmaster@gazamo.com</a><br>
  <br>
  <br>
  <br>
 This document was last updated on April 14, 2012</article>
-	 
-
- 	
-
+	
 	
 	<div class="bottomContent">
 
@@ -686,7 +632,7 @@ This document was last updated on April 14, 2012</article>
 			
 				<div class="facebookLike shareControl">
 					
-					<fb:like href="http://atherys.com/pages/privacy/" show_faces="true" width="500" action="like" font="trebuchet ms" colorscheme="light"></fb:like>
+					<fb:like href="http://atherys.com/pages/privacy/" show_faces="true" width="500" action="like" font="trebuchet ms" colorscheme="dark"></fb:like>
 				</div>
 			
 			
@@ -699,7 +645,6 @@ This document was last updated on April 14, 2012</article>
 </div>
 						
 						
-
 						
 						
 							<!-- login form, to be moved to the upper drop-down -->
@@ -709,8 +654,19 @@ This document was last updated on April 14, 2012</article>
 
 
 
-<form action="login/login" method="post" class="xenForm " id="login" style="display:none">
+<form action="login/login" method="post" class="xenForm eAuth" id="login" style="display:none">
 
+	
+		<ul id="eAuthUnit">
+			
+				
+				
+					
+					<li><a href="register/facebook?reg=1" class="fbLogin" tabindex="110"><span>Login with Facebook</span></a></li>
+				
+				
+			
+		</ul>
 	
 
 	<div class="ctrlWrapper">
@@ -757,17 +713,16 @@ This document was last updated on April 14, 2012</article>
 						
 					
 			
-			<div id="waindigoCopyrightNotice" class="footerLegal" style="clear:both"><div class="pageContent"><span class="muted">Certain <a href="http://www.waindigo.com/" class="concealed">XenForo add-ons by Waindigo</a>™ ©2011-2012 <a href="http://www.waindigo.com" class="concealed">Waindigo Limited</a>.</span></div></div>
-			
+						
 			<div class="breadBoxBottom">
 
 <nav>
 	
 
-	<fieldset class="breadcrumb">
+	<fieldset class="breadcrumb" data-limit="3">
 		<a href="misc/quick-navigation-menu?selected=node-14" class="OverlayTrigger jumpMenuTrigger" data-cacheoverlay="true" title="Open quick navigation"><!--Jump to...--></a>
 			
-		<div class="boardTitle"><strong> A'therys Ascended</strong></div>
+		<div class="boardTitle"><strong> A'therys Ascended / Atherys Ascended</strong></div>
 		
 		<span class="crumbs">
 			
@@ -795,13 +750,450 @@ This document was last updated on April 14, 2012</article>
 		</span>
 	</fieldset>
 </nav></div>
-			
+			<!-- Project Wonderful Ad Box Code -->
+<div style="text-align:center;position:relative;top:20px"><div style="display:inline-block;" id="pw_adbox_67406_5_0"></div></div>
+<script type="text/javascript"></script>
+<noscript><div style="text-align:center;"><div style="display:inline-block;"><map name="admap67406" id="admap67406"><area href="http://www.projectwonderful.com/out_nojs.php?r=0&c=0&id=67406&type=5" shape="rect" coords="0,0,728,90" title="" alt="" target="_blank" /></map>
+<table cellpadding="0" cellspacing="0" style="width:728px;border-style:none;background-color:;"><tr><td><img src="http://www.projectwonderful.com/nojs.php?id=67406&type=5" style="width:728px;height:90px;border-style:none;" usemap="#admap67406" alt="" /></td></tr><tr><td colspan="1"><center><a style="font-size:10px;color:#FFFFFF;text-decoration:none;line-height:1.2;font-weight:bold;font-family:Tahoma, verdana,arial,helvetica,sans-serif;text-transform: none;letter-spacing:normal;text-shadow:none;white-space:normal;word-spacing:normal;" href="http://www.projectwonderful.com/advertisehere.php?id=67406&type=5&tag=78095" target="_blank">Ads by Project Wonderful!  Your ad here, right now: $0</a></center></td></tr></table></div></div>
+</noscript>
+<!-- End Project Wonderful Ad Box Code -->
+
+
+	
+	<div class="section widget-container">
+		
+	</div>
+
 						
-			
+			<div style="width:728;height:90;">
+<!-- Project Wonderful Ad Box Code -->
+<div style="text-align:center;"><div style="display:inline-block;" id="pw_adbox_67406_5_0"></div></div>
+<script type="text/javascript"></script>
+<noscript><div style="text-align:center;"><div style="display:inline-block;"><map name="admap67406" id="admap67406"><area href="http://www.projectwonderful.com/out_nojs.php?r=0&c=0&id=67406&type=5" shape="rect" coords="0,0,728,90" title="" alt="" target="_blank" /></map>
+<table cellpadding="0" cellspacing="0" style="width:728px;border-style:none;background-color:;"><tr><td><img src="http://www.projectwonderful.com/nojs.php?id=67406&type=5" style="width:728px;height:90px;border-style:none;" usemap="#admap67406" alt="" /></td></tr><tr><td colspan="1"><center><a style="font-size:10px;color:#FFFFFF;text-decoration:none;line-height:1.2;font-weight:bold;font-family:Tahoma, verdana,arial,helvetica,sans-serif;text-transform: none;letter-spacing:normal;text-shadow:none;white-space:normal;word-spacing:normal;" href="http://www.projectwonderful.com/advertisehere.php?id=67406&type=5&tag=78095" target="_blank">Ads by Project Wonderful!  Your ad here, right now: $0</a></center></td></tr></table></div></div>
+</noscript>
+<!-- End Project Wonderful Ad Box Code -->
+</div>
 						
 		</div>
 	</div>
 </div>
+
+<header>
+	
+<div id="header">
+<div style="position:relative;">
+	<div id="logoBlock">
+	<div class="pageWidth">
+		<div class="pageContent">
+			
+			
+			<div id="logo"><a href="http://atherys.com">
+				<span></span>
+				
+					<img src="styles/DBT_MMO/custom/logo.png" alt=" A'therys Ascended / Atherys Ascended">
+				
+			</a></div>
+			
+			<span class="helper"></span>
+		</div>
+	</div>
+</div>
+	
+
+
+<div class="nav_area">
+<div class="custom_navigation"> <div class="custom_navigation_right"> <div class="custom_navigation_bg">
+<div id="navigation" style="position:absolute; top:20px; left:0px; background:none;">
+	<div class="pageContent">
+		<nav>
+		
+
+<div class="navTabs">
+	<ul class="publicTabs">
+	
+		<!-- home -->
+		
+			<li class="navTab home PopupClosed"><a href="http://atherys.com" class="navLink">Home</a></li>
+		
+		
+		
+		<!-- extra tabs: home -->
+		
+		
+		
+		<!-- forums -->
+		
+			<li class="navTab forums selected">
+			
+				<a href="http://atherys.com/forum/" class="navLink NoPopupGadget" rel="Menu">Forums</a>
+				
+				<div class="tabLinks">
+					<div class="primaryContent menuHeader">
+						<h3>Forums</h3>
+						<div class="muted">Quick Links</div>
+					</div>
+					<ul class="secondaryContent blockLinksList">
+					
+						
+						<li><a href="search/?type=post">Search Forums</a></li>
+						
+						<li><a href="find-new/threads">What's New?</a></li>
+					
+					</ul>
+				</div>
+			</li>
+		
+		
+		
+		<!-- extra tabs: middle -->
+		
+		
+			
+				<li class="navTab events Popup PopupControl PopupClosed">
+			
+				<a href="http://atherys.com/events/" class="navLink NoPopupGadget" rel="Menu">Events</a>
+				
+				<div class="Menu JsOnly tabMenu">
+					<div class="primaryContent menuHeader">
+						<h3>Events</h3>
+						<div class="muted">Quick Links</div>
+					</div>
+					<ul class="secondaryContent blockLinksList">
+	<li><a href="events/monthly">Monthly View</a></li>
+	<li><a href="events/weekly">Weekly View</a></li>
+	<li><a href="events/upcoming">Upcoming Events</a></li>
+	<li><a href="events/history">Events Archive</a></li>
+	
+</ul>
+				</div>
+			</li>
+			
+		
+			
+				<li class="navTab media Popup PopupControl PopupClosed">
+			
+				<a href="http://atherys.com/media/" class="navLink NoPopupGadget" rel="Menu">Media</a>
+				
+				<div class="Menu JsOnly tabMenu">
+					<div class="primaryContent menuHeader">
+						<h3>Media</h3>
+						<div class="muted">Quick Links</div>
+					</div>
+					<ul class="secondaryContent blockLinksList">
+	<li><a href="media/categories">Categories</a></li>
+	<li><a href="media/playlists">Playlists</a></li>
+	
+		<li><a href="media/random">Random Media</a></li>
+	
+	
+	
+</ul>
+				</div>
+			</li>
+			
+		
+			
+				<li class="navTab nodetab306 PopupClosed">
+					<a href="http://atherys.com/link-forums/wiki.306/" class="navLink">Wiki</a>
+					
+				</li>
+			
+		
+			
+				<li class="navTab nodetab293 Popup PopupControl PopupClosed">
+			
+				<a href="http://atherys.com/categories/lore-library.293/" class="navLink NoPopupGadget" rel="Menu">Library</a>
+				
+				<div class="Menu JsOnly tabMenu">
+					<div class="primaryContent menuHeader">
+						<h3>Library</h3>
+						<div class="muted">Quick Links</div>
+					</div>
+					<ul class="secondaryContent blockLinksList">
+	
+
+	
+	
+
+	
+<li>
+	
+		<a href="pages/lore-rules/">Rules</a>
+	
+</li>
+
+<li>
+	
+		<a href="libraries/books.296/">Books</a>
+	
+</li>
+
+<li>
+	
+		<a href="libraries/characters.292/">Characters</a>
+	
+</li>
+
+<li>
+	
+		<a href="libraries/organizations.295/">Organizations</a>
+	
+</li>
+
+<li>
+	
+		<a href="libraries/places.297/">Places</a>
+	
+</li>
+
+</ul>
+				</div>
+			</li>
+			
+		
+			
+				<li class="navTab nodetab288 Popup PopupControl PopupClosed">
+			
+				<a href="http://atherys.com/categories/trade.288/" class="navLink NoPopupGadget" rel="Menu">Trade</a>
+				
+				<div class="Menu JsOnly tabMenu">
+					<div class="primaryContent menuHeader">
+						<h3>Trade</h3>
+						<div class="muted">Quick Links</div>
+					</div>
+					<ul class="secondaryContent blockLinksList">
+	
+
+	
+	
+
+	
+<li>
+	
+		<a href="forums/buying/">Buying</a>
+	
+</li>
+
+<li>
+	
+		<a href="forums/selling/">Selling</a>
+	
+</li>
+
+<li>
+	
+		<a href="forums/specialty_items/">Specialty Items</a>
+	
+</li>
+
+<li>
+	
+		<a href="forums/Price_Check2/">Price Check</a>
+	
+</li>
+
+</ul>
+				</div>
+			</li>
+			
+		
+			
+				<li class="navTab nodetab38 Popup PopupControl PopupClosed">
+			
+				<a href="http://atherys.com/categories/guides.38/" class="navLink NoPopupGadget" rel="Menu">Guides</a>
+				
+				<div class="Menu JsOnly tabMenu">
+					<div class="primaryContent menuHeader">
+						<h3>Guides</h3>
+						<div class="muted">Quick Links</div>
+					</div>
+					<ul class="secondaryContent blockLinksList">
+	
+
+	
+	
+
+	
+<li>
+	
+		<a href="pages/rules/">Server Rules</a>
+	
+</li>
+
+<li>
+	
+		<a href="pages/ranks/">Ranks</a>
+	
+</li>
+
+<li>
+	
+		<a href="pages/newplayersguide/">New Players Guide</a>
+	
+</li>
+
+<li>
+	
+		<a href="pages/townycommands/">Towny Commands</a>
+	
+</li>
+
+<li>
+	
+		<a href="pages/chestshop/">Chest Shop Commands</a>
+	
+</li>
+
+<li>
+	
+		<a href="pages/teamspeak/">Teamspeak Guide</a>
+	
+</li>
+
+<li>
+	
+		<a href="pages/heroes/">Hero Commands</a>
+	
+</li>
+
+<li>
+	
+		<a href="categories/hero-classes.187/">Hero Classes</a>
+	
+</li>
+
+</ul>
+				</div>
+			</li>
+			
+		
+			
+				<li class="navTab nodetab281 PopupClosed">
+					<a href="http://atherys.com/pages/vote/" class="navLink">Vote</a>
+					
+				</li>
+			
+		
+		
+		
+		<!-- members -->
+		
+			<li class="navTab members Popup PopupControl PopupClosed">
+			
+				<a href="http://atherys.com/members/" class="navLink NoPopupGadget" rel="Menu">Members</a>
+				
+				<div class="Menu JsOnly tabMenu">
+					<div class="primaryContent menuHeader">
+						<h3>Members</h3>
+						<div class="muted">Quick Links</div>
+					</div>
+					<ul class="secondaryContent blockLinksList">
+					
+						<li><a href="/help/staff-list">Staff List</a></li>
+						<li><a href="members/">Registered Members</a></li>
+						<li><a href="online/">Current Visitors</a></li>
+						<li><a href="recent-activity/">Recent Activity</a></li>
+					<li><a href="top-users/">Top Contributors</a></li>
+					</ul>
+				</div>
+			</li>
+				
+		
+		<!-- Chat -->
+			<li class="navTab chat Popup PopupControl PopupClosed">
+			
+<a href="chat/" class="navLink NoPopupGadget" rel="Menu">Chat</a>
+				
+				<div class="Menu JsOnly tabMenu">
+					<div class="primaryContent menuHeader">
+						<h3></h3>
+						<div class="muted">Quick Links</div>
+					</div>
+					<ul class="secondaryContent blockLinksList">
+					
+
+<script type="text/javascript">
+// Popup window code
+function newPopup(url) {
+	popupWindow = window.open(
+		url,'popUpWindow','height=700,width=800,left=10,top=10,resizable=yes,scrollbars=yes,toolbar=yes,menubar=no,location=no,directories=no,status=yes')
+}
+</script>
+<a href="JavaScript:newPopup('/chat/popup/');">Popup</a>
+					
+					</ul>
+				</div>
+			</li>		
+
+		<!-- Shop -->
+			<li class="navTab shop Popup PopupControl PopupClosed">
+			
+				<a href="http://shop.gazamo.com/" class="navLink NoPopupGadget" rel="Menu">Shop</a>
+				
+				<div class="Menu JsOnly tabMenu">
+					<div class="primaryContent menuHeader">
+						<h3></h3>
+						<div class="muted">Quick Links</div>
+					</div>
+					<ul class="secondaryContent blockLinksList">
+					
+<li><a href="http://atherys.buycraft.net/category/39044">Pet Shop</a></li>
+<li><a href="http://shop.gazamo.com/product-category/hero-levels/">Hero Levels</a></li>
+<li><a href="http://shop.gazamo.com/product-category/town-plots/">Town Plots</a></li>
+<li><a href="http://shop.gazamo.com/product-category/rank-packages/">Rank Packages</a></li>
+					
+					</ul>
+				</div>
+			</li>	
+
+		<!-- extra tabs: end -->
+		
+		
+		
+		<!-- no selection -->
+		
+		
+	</ul>
+	
+	
+</div>
+
+<span class="helper"></span>
+			
+		</nav>	
+	</div>
+</div>
+</div></div></div>
+</div>
+
+
+
+
+<br><br>
+
+<div class="welcomearea">
+    <div class="welcome_right">
+         <div class="welcome_padding">
+
+  <div class="welcome_image">
+<a href="/media/atherys-ascended-minecraft-server-trailer.6/popout" class="OverlayTrigger">
+    <img src="styles/DBT_MMO/custom/welcome_intro.gif" alt=""></a>
+  </div>
+
+  <h3> Welcome to the plane of A'therys, mortal. </h3>
+You have arrived at an auspicious time. For seven thousand years, gods have ruled the men of the Mortal Plane, an Age of Balance unchanging across the eons. But no more. As the Second Calling dawned, the gods were called from the plane, leaving humanity to its own devices.<br><br>Where in this strife will you stand? Close to the strongholds of the six nations, serving in military or economy? Perhaps a greater organization beckons to you, a guild of knowledge or shadow? Or will you forge your own path, as the Mortal Heroes once did, ignoring your fellow man and the few lingering gods in the world? These choices are but the beginning, Adventurer. Take up your mantle of sword or sorcery, sharp wit or strength immeasurable, and awaken from your slumber. A'therys awaits.
+         </div>
+     </div> 
+</div>
+<div style="clear:both;"> </div>
+	
+</div>
+</div>
+
+	
+	
+</header>
 
 </div>
 
@@ -814,24 +1206,21 @@ This document was last updated on April 14, 2012</article>
 		<div class="pageContent">
 
 <div id="copyrightNotice" style="float: left;">
-©2012 <b><a href="http://gazamo.com">
-Gazamo Network</a></b> - All rights reserved.
+©2013 <b><a style="color: green;" href="http://gazamo.com">
+Gazamo</a></b> - All rights reserved.
 </div>
 			
 			
 			<ul class="footerLinks">
 			
-
-				<li><a href="/pages/terms/">Terms and Rules</a></li>
-				<li><a href="/pages/privacy/">Privacy Policy</a></li>
-			
 				
 					<li><a href="misc/contact" class="OverlayTrigger" data-overlayoptions="{&quot;fixed&quot;:false}">Contact Us</a></li>
 				
-				<li><a href="forums/-/index.rss" rel="alternate" class="globalFeed" target="_blank" title="RSS feed for  A'therys Ascended">RSS</a></li>
+				<li><a href="http://atherys.com">Home</a></li>
+				<li><a href="/pages/privacy/#navigation">Top</a></li>
+				<li><a href="forums/-/index.rss" rel="alternate" class="globalFeed" target="_blank" title="RSS feed for  A'therys Ascended / Atherys Ascended">RSS</a></li>
 			
 			</ul>
-			
 			
 			<span class="helper"></span>
 		</div>
@@ -841,12 +1230,14 @@ Gazamo Network</a></b> - All rights reserved.
 <div class="footerLegal">
 	<div class="pageWidth">
 		<div class="pageContent">
-<div id="copyright" style="float: center;">
-<a href="http://xenforo.com" class="concealed">Forum software by XenForo™ ©2010-2012 XenForo Ltd.</a>
-</div>
-        <div class="plugincopyright" style="float: right; display: inline;">
-        Certain <a class="concealed" href="http://www.waindigo.com/"> XenForo add-ons by Waindigo</a>™ ©2011-2012 <a class="concealed" href="http://www.waindigo.com">Waindigo Limited</a>
-</div>
+			<div id="copyright"><a href="http://xenforo.com" class="concealed">Forum software by XenForo™ ©2010-2012 XenForo Ltd.</a></div>
+
+			<ul id="legal">
+			
+				<li><a href="/pages/terms/">Terms &amp; Conditions</a></li>
+				<li><a href="/pages/privacy/">Privacy Policy</a></li>
+			
+			</ul>
 		
 			
 			
@@ -865,9 +1256,9 @@ jQuery.extend(true, XenForo,
 	visitor: { user_id: 0 },
 	serverTimeInfo:
 	{
-		now: 1355777166,
-		today: 1355702400,
-		todayDow: 1
+		now: 1371611976,
+		today: 1371596400,
+		todayDow: 3
 	},
 	_lightBoxUniversal: "1",
 	_enableOverlays: "1",
@@ -880,13 +1271,13 @@ jQuery.extend(true, XenForo,
 		mask:
 		{
 			color: "rgb(255, 255, 255)",
-			opacity: "0.5",
+			opacity: "0.6",
 			loadSpeed: 200,
 			closeSpeed: 100
 		}
 	},
 	_ignoredUsers: [],
-	_loadedScripts: {"pagenode":true,"share_page":true,"login_bar":true,"panel_scroller":true,"bbcm_js":true,"http:\/\/content.gazamo-cdn.com\/atherys\/js\/GFNCoders\/title.min.js?_v=bba17b4a":true,"http:\/\/content.gazamo-cdn.com\/atherys\/js\/bdTagMe\/frontend.js?_v=bba17b4a":true},
+	_loadedScripts: {"pagenode":true,"share_page":true,"bbcm_js":true,"login_bar":true,"wf_default":true,"panel_scroller":true,"Gritter":true,"GritterEXTRA":true,"facebook":true,"http:\/\/content.gazamo-cdn.com\/atherys\/js\/GFNCoders\/title.min.js?_v=bba17b4a":true,"http:\/\/content.gazamo-cdn.com\/atherys\/js\/gritter\/jquery.gritter.js?_v=bba17b4a":true,"http:\/\/content.gazamo-cdn.com\/atherys\/js\/bdTagMe\/frontend.js?_v=bba17b4a":true},
 	_cookieConfig: { path: "/", domain: "", prefix: "xf_"},
 	_csrfToken: "",
 	_csrfRefreshUrl: "login/csrf-token-refresh",
@@ -922,10 +1313,12 @@ jQuery.extend(XenForo.phrases,
 });
 
 // Facebook Javascript SDK
-XenForo.Facebook.appId = "";
+XenForo.Facebook.appId = "136951796483739";
 XenForo.Facebook.forceInit = true;
-
-!function(a,b,c,d){XenForo.BbcmSpoiler=function(a){a.hide()};XenForo.register(".bbcmSpoiler","XenForo.BbcmSpoiler")}(jQuery,this,document);
+jQuery.extend(XenForo.phrases,
+				{
+				dismiss_notification: "Dismiss Notification"
+				});
 
 </script>
 
@@ -938,10 +1331,26 @@ XenForo.Facebook.forceInit = true;
 	XenForo.bdTagMe_suggestionMaxLength = 0;
 } (jQuery, this, document);
 </script>
-<script type="text/javascript">
-/* <![CDATA[ */
-(function(){try{var s,a,i,j,r,c,l=document.getElementsByTagName("a"),t=document.createElement("textarea");for(i=0;l.length-i;i++){try{a=l[i].getAttribute("href");if(a&&"www.cloudflare.com/email-protection"==a.substr(7 ,35)){s='';j=43;r=parseInt(a.substr(j,2),16);for(j+=2;a.length-j&&a.substr(j,1)!='X';j+=2){c=parseInt(a.substr(j,2),16)^r;s+=String.fromCharCode(c);}j+=1;s+=a.substr(j,a.length-j);t.innerHTML=s.replace(/</g,"&lt;").replace(/>/g,"&gt;");l[i].setAttribute("href","mailto:"+t.value);}}catch(e){}}}catch(e){}})();
-/* ]]> */
-</script>
 
-</div></div></body></html>
+
+
+
+
+
+<center>
+<br>
+<vb:if condition="!$show['dbtech_skinbranding_mmoskin']">
+<a href="http://www.dragonbyte-tech.com/" target="_blank" title="Skin By Dragonbyte Tech ">
+<img src="http://content.gazamo-cdn.com/atherys/styles/DBT_MMO/custom/copyright.gif" alt="Skin By Dragonbyte Tech">
+</a>
+<br>
+<a href="http://www.dragonbyte-tech.com/vbecommerce.php?do=product&amp;productid=182"> "DragonByte MMO" </a> Theme by <a href="http://www.dragonbyte-tech.com/">  DragonByte Technologies </a>
+</vb:if>
+<br><br>
+</center>
+
+
+</div>
+</div>
+
+</body></html>
