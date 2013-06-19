@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gettyimages.com privacy policy that was archived on 2012-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121221105647id_/http%3A//www.gettyimages.com/Corporate/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gettyimages.com privacy policy that was archived on 2013-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130619040159id_/http%3A//www.gettyimages.com/Corporate/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # Getty Images Privacy Policy - Getty Images
 
@@ -120,4 +120,4 @@ Contact Information
 
 You can contact Getty Images Sales by emailing [sales@gettyimages.com](mailto:sales@gettyimages.com%20%20%20%20%20%20%20%20%20%20?subject=Privacy%20Policy), or by phone at 206-925-5000, or by postal mail at Getty Images, Inc., Sales, 605 5th Avenue South, Suite 400, Seattle, WA 98104. 
 
-© 1999-2012 Getty Images, Inc. All rights reserved. Privacy Policy.
+© 1999-2013 Getty Images, Inc. All rights reserved. Privacy Policy.
