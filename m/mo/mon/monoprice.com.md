@@ -1,15 +1,15 @@
-> *The following text is extracted and transformed from the monoprice.com privacy policy that was archived on 2012-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120615161450id_/http%3A//www.monoprice.com/home/home.asp%3Fpn%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the monoprice.com privacy policy that was archived on 2013-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130620002727id_/http%3A//www.monoprice.com/home/home.asp%3Fpn%3Dprivacy) for the most accurate reproduction.*
 
 # HDMI Cable, Home Theater Accessories, HDMI Products, Cables, Adapters, Video/Audio Switch, Networking, USB, Firewire, Printer Toner, and more!
 
-  * 30 day money back guarantee!
-  * No restocking fee!
-  * Easy return!
-  * 100% safe SSL encrypted shopping!
-  * PCI-DSS Level 1 Compliant!
-  * 9.66/10 Resellerratings.com Customer Satisfaction Rate!
-  * Lifetime warranty on all cables and non-electronic products!
-  * Free life time tech support!
+  * 30 day money back guarantee
+  * No restocking fee
+  * Easy return
+  * 100% safe SSL encrypted shopping
+  * PCI-DSS Level 1 Compliant
+  * 9.70/10 Resellerratings.com Customer Satisfaction Rate
+  * Lifetime warranty on all cables and non-electronic products
+  * Free life time tech support
 
 
 
@@ -21,7 +21,7 @@
 ---  
 | [HOME](http://www.monoprice.com/ "Go back to Monoprice home page") > Privacy Policy  
   
-**Monoprice.com is a licensee of the TRUSTe Privacy Program. TRUSTe is an independent, non-profit organization whose mission is to build user's trust and confidence in the Internet by promoting the use of fair information practices.**
+**Monoprice.com is a licensee of the TRUSTe Privacy Program. TRUSTe is an independent organization whose mission is to build user's trust and confidence in the Internet by promoting the use of fair information practices.**
 
   
 |  This privacy statement covers the site http://www.monoprice.com. Because this Web site wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices and have its privacy practices reviewed for compliance by TRUSTe. The TRUSTe program covers only information that is collected through this Web site, and does not cover information that may be collected through software downloaded from the site. 
@@ -32,13 +32,15 @@ _http://www.truste.org/consumers/watchdog_complaint.php_. TRUSTe will then serve
 
 By displaying the TRUSTe trustmark, our website, Monoprice.com has agreed to inform you on:
 
-* What personally identifiable information of yours Monoprice.com collects.
-* The organization collecting the information.
-* How the information is used.
-* With whom the information may be shared.
-* What choices are available to you regarding collection, use and distribution of the information.
-* The kind of security procedures that are in place to protect the loss, misuse or alteration of information under Monoprice.com control.
-* How you can correct any inaccuracies in the information.   
+  * What personally identifiable information of yours Monoprice.com collects.
+  * The organization collecting the information.
+  * How the information is used.
+  * With whom the information may be shared.
+  * What choices are available to you regarding collection, use and distribution of the information.
+  * The kind of security procedures that are in place to protect the loss, misuse or alteration of information under Monoprice.com control.
+  * How you can correct any inaccuracies in the information.
+
+  
 ---|---  
 [](http://www.truste.org/ivalidate.php?url=www.monoprice.com&sealid=101%20)  
   
@@ -50,7 +52,7 @@ Attn: Privacy Policy
 Rancho Cucamonga, CA 91730  
 USA
 
-You can e-mail us or reach us by telephone at 909-989-6887.   
+You can e-mail us or reach us by telephone at 877-271-2592.   
   
 ---  
   
@@ -139,7 +141,7 @@ To honor the privacy of our users, we offer the option to not receive these type
 Customers may change or review their stored account information such as street address or e-mail address through our website by visiting our "My Account" section. You must have your username and password in order to access your account. In the event you forget both your username and password, please contact our customer service department for assistance. 
 
 **Choice/Opt-out**  
-Our Web site gives you the opportunity to opt-out of receiving marketing communications from us. If you no longer wish to receive communications from us you may opt-out by calling 909-989-6887 or simply send us an email at privacy@monoprice.com with your email address.
+Our Web site gives you the opportunity to opt-out of receiving marketing communications from us. If you no longer wish to receive communications from us you may opt-out by calling 877-271-2592 or simply send us an email at privacy@monoprice.com with your email address.
 
 **Notification of Changes**  
 If we decide to change our Privacy Policy, we will post those changes to this privacy statement, our homepage, and other places we deem appropriate so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it. We reserve the right to modify this privacy statement at any time, so please review it frequently. If we make material changes to this policy, we will notify you here, by email, or by means of a notice on our homepage. 
@@ -225,10 +227,14 @@ LivePerson welcomes your feedback on our privacy policy. Send your comments to p
 
 We recommend that you review this policy periodically, as we may update it from time to time. 
 
-If you have opted out of receiving communications from Monoprice.com, you will still be able to view news of policy changes at www.monoprice.com. Otherwise, you may e-mail us at support@Monoprice.com or call us at (909) 989-6887 to ask our customer service department about changes and updates. 
+We use SteelHouse marketing tools. Please see their privacy policy below: 
+
+We partner with SteelHouse to deliver offers that are relevant to your interests based on what you've viewed on our site. SteelHouse's cookies only collect Non-Personally Identifiable Information for online marketing purposes. This information is anonymous and cannot be traced back to any individual. 
+
+If you have opted out of receiving communications from Monoprice.com, you will still be able to view news of policy changes at www.monoprice.com. Otherwise, you may e-mail us at support@Monoprice.com or call us toll free at (877)271-2592 to ask our customer service department about changes and updates. 
 
 Last Update  
-The Privacy Policy contained herein became officially effective January 14, 2010. 
+The Privacy Policy contained herein became officially effective January 14, 2010.
 
   
 
