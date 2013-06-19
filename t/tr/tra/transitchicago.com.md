@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the transitchicago.com privacy policy that was archived on 2012-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121218214058id_/http%3A//www.transitchicago.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the transitchicago.com privacy policy that was archived on 2013-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130619050909id_/http%3A//www.transitchicago.com/privacy.aspx) for the most accurate reproduction.*
 
-# Privacy Policy
+# CTA Privacy Policy
 
 Welcome to the Chicago Transit Authority web site. This statement provides the CTA's privacy policy on information that is collected through this web site, and the Chicago Card® and Chicago Card Plus® programs and the use of that information.
 
@@ -21,6 +21,11 @@ We collect several different types of information on our site. We collect person
 We automatically collect and store technical information about your visit to our site including: (1) the name of the domain and host from which you access the Internet; (2) the type of browser software and operating system used to access our site; (3) the date and time you access our site; and (4) the pages you visit on our site. The technical information collected will not personally identify you.
 
 The following information explains in more detail the different forms of personal and technical information and how we may collect and use that information.
+
+## Location Information
+
+In order to provide location-based information, such as a list of nearby transit stops, our site may request that your browser or device provide us with your rough or precise location. We may also aggregate anonymous data to better understand how people are using these location-enhanced services and later enhance those services.  
+ 
 
 ## Order Forms
 
