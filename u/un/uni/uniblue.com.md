@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the uniblue.com privacy policy that was archived on 2012-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121228120501id_/http%3A//www.uniblue.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the uniblue.com privacy policy that was archived on 2013-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130619032325id_/http%3A//www.uniblue.com/privacy) for the most accurate reproduction.*
 
 # Uniblue Privacy Policy
 
-_Last Updated: 11/10/2012._
+_Last Updated: 19/02/2013._
 
 Uniblue is committed to safeguard the privacy of its customers and individuals who make use of our online facilities. This policy provides you with information about what data we collect and how this data is processed by us. 
 
@@ -26,13 +26,17 @@ In general, you can visit the Uniblue website (the 'Website') without telling us
 
 **Click Tale web analytics service** \- We use ClickTale web analytics services on our Website. ClickTale may record mouse clicks, mouse movements, scrolling activity as well as any text you type in this website. Neither we nor ClickTale collect any personally identifiable information that you do not voluntarily enter in this website and we mark certain "sensitive" visitor fields (such as fields where financial information is inputted) in a special way so that such information will not be transmitted, stored and processed by the Clicktale service. Visiting this Website will not cause your browsing habits to be tracked across web sites by us or ClickTale. For more information on ClickTale's collection of information, please see [Privacy Policy for Information Collected by the ClickTale Web Analytics Service](http://www.clicktale.com/privacy_service.aspx). We are using the information collected by ClickTale service for the reasons set out above in the section on Collection and Use of Information. You can choose to disable the Clicktale service at <http://www.clicktale.net/disable.html>. 
 
-**Electronic notices** \- We may provide you with information and notices regarding the Uniblue products, surveys or other information which may be of use or interest to You, via the email address you designate in the payment process or when you sign up for our newsletter. We may also follow up on an abandoned shopping cart to see if there was a problem with your use of our website. You may withdraw your consent for promotional or retargeting emails at any time by following the unsubscribe instructions located at the bottom of each notice sent. We may also send you transactional, technical or other service notifications from time to time. These messages are sent only to individuals who have purchased our products or services and are essential to maintain the functionality of same, so there is no opt-out available for this type of notifications. 
+**Electronic notices** \- We may provide you with information and notices regarding the Uniblue products, surveys or other information which may be of use or interest to You, via the email address you designate in the payment process or when you sign up for our newsletter. We may also send you transactional, technical or other service notifications from time to time. These messages are sent only to individuals who have purchased our products or services and are essential to maintain the functionality of same, so there is no opt-out available for this type of notifications. 
 
 **Uniblue Products** \- Whilst in use, the Uniblue product may collect some information from your computer (e.g. frequency of use, system name, windows version and browser type, IP address, installed devices and date of installation). We will only use this information to improve our products and services. When you purchase a Uniblue product from this website, you will be required to provide personal information (including your credit card details) to our trusted billing merchant. Information you provide to our billing merchant will be processed in accordance with its privacy policy and you are therefore advised to review such policy prior to purchase. Uniblue will have access to all details on the purchase, excluding your credit card or other payment details, for authentication of license, statistical, notification and support related services. You may also access your purchase details remotely by submitting a request on our Support Website. 
 
 ### Information sharing
 
-Uniblue will only use your personal information for the purposes which are specified in this policy. We may engage third party service providers that assist us in providing or improving our services as explained above and we might need to share some personal or other data with them to enable them to do so. These service providers are either subject to this privacy policy or follow practices that offer an equivalent level of protection and may be located outside the EU, in countries where an adequate level of protection is ensured. We will not sell or rent your personal information to third parties for marketing purposes without your consent. 
+Uniblue will only use your personal information for the purposes which are specified in this policy. 
+
+We may engage third party service providers that assist us in providing or improving our services as explained above and we might need to share some personal or other data with them to enable them to do so. These service providers are either subject to this privacy policy or follow practices that offer an equivalent level of protection and may be located outside the EU, in countries where an adequate level of protection is ensured. We will not sell or rent your personal information to third parties for marketing purposes without your consent. 
+
+To further improve our products and the service we offer to you, we may also need to divulge certain information collected by our products to third party partners and/or suppliers. In any case, we will only provide anonymous or non-personally identifiable information to such third parties. We will not sell or rent your personal information to third parties for marketing purposes without your consent. 
 
 ### Information processing and security
 
@@ -53,7 +57,3 @@ This Website is not aimed at children and we do not knowingly collect any person
 ### Changes to this policy
 
 Please note that this policy may change from time to time. All updates will be published at this site and, if the changes are significant, the changes will be posted on this page thirty days prior to taking effect. Each version of this policy will be identifiable at the top of this document by its effective date. We encourage you to refer to this policy periodically. 
-
-* * *
-
-v.111012
