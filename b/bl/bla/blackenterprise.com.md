@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the blackenterprise.com privacy policy that was archived on 2012-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121223053657id_/http%3A//www.blackenterprise.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the blackenterprise.com privacy policy that was archived on 2013-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130619020140id_/http%3A//www.blackenterprise.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Black Enterprise
 
 This is the Website of **BLACK ENTERPRISE**.
 
-Our postal address is **130 Fifth Ave., 10th fl., New York, NY 10011**
+Our postal address is **260 Madison Avenue, 11th fl., New York, NY 10016**
 
 We can be reached via e-mail at [eprise@blackenterprise.com](mailto:eprise@blackenterprise.com) or you can reach us by telephone at (212) 242-8000.
 
