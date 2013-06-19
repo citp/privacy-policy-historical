@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the longhornsteakhouse.com privacy policy that was archived on 2012-12-31.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121231033959id_/http%3A//www.longhornsteakhouse.com/privacy-policy.asp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the longhornsteakhouse.com privacy policy that was archived on 2013-06-19.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130619021147id_/http%3A//www.longhornsteakhouse.com/privacy-policy.asp) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
     <title id="PageTitle">LongHorn Steakhouse Restaurant</title>
@@ -60,27 +60,28 @@ and more in an inviting western atmosphere. It’s more than just a great steak 
         var frmName = document.getElementById("frmLocatorHeader");
         var txtZipSearch = document.getElementById("txtSearch");
         var sPath = window.location.pathname;
-        //var sPage = sPath.substring(sPath.lastIndexOf('\\') + 1);
-        var sPage = sPath.substring(sPath.lastIndexOf('/') + 1);
+//        //var sPage = sPath.substring(sPath.lastIndexOf('\\') + 1);
+//        var sPage = sPath.substring(sPath.lastIndexOf('/') + 1);
 
-        var appQs = "P=S&";
-        if (sPage == "Default.asp") {
-            appQs = "P=D&";
-        }
-        else if (sPage == "menu_seasonal.asp") {
-            appQs = "P=S&";
-        }
-        else {
-            appQs = "P=S&";
-        }
+//        var appQs = "P=S&";
+//        if (sPage == "Default.asp") {
+//            appQs = "P=D&";
+//        }
+//        else if (sPage == "menu_seasonal.asp") {
+//            appQs = "P=S&";
+//        }
+//        else {
+//            appQs = "P=S&";
+//        }
 
         if (c == "2") {
 
 
             if (txtZipSearch.value != "") {
 
-                window.location.href = "/locator_g/default.aspx?" + appQs + "q=" + txtZipSearch.value;
+                //window.location.href = "/locator_g/default.aspx?" + appQs + "q=" + txtZipSearch.value;
                 //window.location.href = "/locator/default.asp?zipSearch=" + txtZipSearch.value;
+                window.location.href = "/locations/default.aspx?q=" + txtZipSearch.value;
 
             }
             else {
@@ -93,8 +94,8 @@ and more in an inviting western atmosphere. It’s more than just a great steak 
 
             if (txtZipSearch.value != "") {
                 //frmName.action = "/locator/locationSearchAlt.asp?zipSearch=" + txtZipSearch.value;
-
-                frmName.action = "/locator_g/default.aspx?" + appQs + "q=" + txtZipSearch.value;
+                //frmName.action = "/locator_g/default.aspx?" + appQs + "q=" + txtZipSearch.value;
+                frmName.action = "/locations/default.aspx?q=" + txtZipSearch.value;
 
             }
             else {
@@ -133,6 +134,22 @@ and more in an inviting western atmosphere. It’s more than just a great steak 
 
     }
 
+    function JoinTheClub()
+    {
+        if (window.location.href.indexOf("//demo.") >= 0)
+        {        
+            window.location.href = "https://demo.longhornsteakhouse.com/secure/email/CreateAccount.aspx";
+        }
+        else if (window.location.href.indexOf("//stage.") >= 0)
+        {
+            window.location.href = "https://stage.longhornsteakhouse.com/secure/email/CreateAccount.aspx";
+        }
+        else
+        {
+            window.location.href = "https://www.longhornsteakhouse.com/secure/email/CreateAccount.aspx";
+        }
+    }
+
 </script>
 
 <div id="header">
@@ -161,9 +178,9 @@ http://www.omniture.com -->
             Our Menu
             <!--[if lte IE 7]></span><![endif]-->
         </a></li>
-        <li id="passion-for-grilling"><a href="/passion-for-grilling.asp" title="Passion For Grilling">
+        <li id="passion-for-grilling"><a href="/passion-for-grilling.asp" title="Passion For Grilling®">
             <!--[if lte IE 7]><span><![endif]-->
-            Passion For Grilling
+            Passion For Grilling®
             <!--[if lte IE 7]></span><![endif]-->
         </a></li>
         <li id="live-at-longhorn"><a href="http://www.liveatlonghorn.com/" title="Live At LongHorn">
@@ -177,7 +194,7 @@ http://www.omniture.com -->
             Gift Cards
             <!--[if lte IE 7]></span><![endif]-->
         </a></li>
-        <li id="join-the-club" class="last-child"><a href="https://www.longhornsteakhouse.com/secure/email/CreateAccount.aspx" title="Join the Club">
+        <li id="join-the-club" class="last-child"><a href="javascript:JoinTheClub();" title="Join the Club">
             <!--[if lte IE 7]><span><![endif]-->
             Join the Club
             <!--[if lte IE 7]></span><![endif]-->
@@ -480,9 +497,10 @@ http://www.omniture.com -->
             <li><a href="/sustainability/">Sustainability</a></li>
             <li style="background:none;" class="last-child"><a href="http://www.facebook.com/longhornsteakhouse ">Facebook</a></li>
         </ul>
+       
         <ul>
             <li class="first-child"><a href="/about/news.asp">Media</a></li>
-            <li><a href="/privacy-policy.asp">Privacy Notice (Updated Dec. 19, 2012)/Your California
+            <li><a href="/privacy-policy.asp">Privacy Notice / Your California
                 Privacy Rights</a></li>
             <li><a href="/sitemap.asp">Site Map</a></li>
             <!--<li><a href="/search/search.asp">Search</a></li>-->
