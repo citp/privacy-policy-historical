@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the alpharooms.com privacy policy that was archived on 2012-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121231083112id_/http%3A//www.alpharooms.com/webpages/cobrand/0/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the alpharooms.com privacy policy that was archived on 2013-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130619203820id_/http%3A//www.alpharooms.com/webpages/cobrand/0/privacy.aspx) for the most accurate reproduction.*
 
 # Alpharooms.com privacy policy
 
@@ -50,7 +50,7 @@ You expressly agree to such uses of your personal information.
 
 Your information is shared with hotel, airline, car rental, and other providers, who offer their products and services for sale through this Website (“Travel Providers”) and our employees, officers, agents and service providers in order to process your booking requests, provide other services you have asked for, process information or manage aspects of our Website. For example, we give your details to the hotel you have booked. We do not share your information for marketing purposes unless you have specifically agreed that we may do this. 
 
-Information that you provide may be stored and processed in and transferred between any of the countries in which our Travel Providers operate. Information which you provide may therefore be transferred to countries which do not have data protection laws equivalent to those in force in the European Economic Area (EEA), in particular where your booking destination is outside the EEA. Please note, if we cannot pass this information to the relevant Travel Providers, whether in the EEA or not, we cannot provide the services to you. 
+Information that you provide may be stored and processed in and transferred between any of the countries in which our Travel Providers operate. Where necessary to deliver the services you have asked for, information which you provide may therefore be transferred to countries which do not have data protection laws equivalent to those in force in the European Economic Area (EEA), in particular where your booking destination is outside the EEA. Where this is the case, we take all reasonable steps to ensure that appropriate protection of your data is maintained. Please note, if we cannot pass this information to the relevant Travel Providers, whether in the EEA or not, we cannot provide the services to you. 
 
 We may disclose your personal information: 
 
@@ -80,7 +80,11 @@ You may instruct us to provide you with any personal information we hold about y
 
 We may withhold such personal information to the extent permitted by law. 
 
+Please note that details of any bookings you have made with us can be viewed by logging in through the 'Manage my booking' section of our website. 
+
 We ask you to opt in before we use your personal information for marketing purposes. If at any time you wish to opt out you can do so by clicking the “unsubscribe” link contained in each marketing communication. Alternatively you can write to us requesting this removal at the address shown in Section 10 of this Privacy Policy. 
+
+We will correct any inaccuracies in any personal information we hold about you free of charge. 
 
 ##  8\. Change to this Privacy Policy 
 
