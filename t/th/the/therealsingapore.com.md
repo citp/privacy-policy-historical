@@ -1,54 +1,79 @@
-> *The following text is extracted and transformed from the therealsingapore.com privacy policy that was archived on 2012-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121219142252id_/http%3A//www.therealsingapore.com/content/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the therealsingapore.com privacy policy that was archived on 2013-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130619203351id_/http%3A//therealsingapore.com/content/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | The Real Singapore
 
-**What information do we collect?**  
-We collect information from you when you register on our site.  
-When ordering or registering on our site, as appropriate, you may be asked to enter your: name, e-mail address, mailing address, phone number or credit card information. You may, however, visit our site anonymously.  
-Google, as a third party vendor, uses cookies to serve ads to webusers. Google's use of the DART cookie enables it to serve ads to you based on your visit to our site and other sites on the Internet. You may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy.
+**Privacy Policy**
 
-**What do we use your information for?**  
-Any of the information we collect from you may be used in one of the following ways:  
-; To personalize your experience  
-(your information helps us to better respond to your individual needs)  
-; To improve our website  
-(we continually strive to improve our website offerings based on the information and feedback we receive from you)  
-; To improve customer service  
-(your information helps us to more effectively respond to your customer service requests and support needs)  
-; To process transactions  
-(Your information, whether public or private, will not be sold, exchanged, transferred, or given to any other company for any reason whatsoever, without your consent, other than for the express purpose of delivering the purchased product or service requested.)  
-; To send periodic emails  
-(The email address you provide for order processing, may be used to send you information and updates pertaining to your order, in addition to receiving occasional company news, updates, related product or service information, etc.)  
-Note: If at any time you would like to unsubscribe from receiving future emails, we include detailed unsubscribe instructions at the bottom of each email.
+By using our site, you consent to our [Privacy Policy](http://therealsingapore.com/content/privacy-policy) and [Terms and Conditions](http://therealsingapore.com/content/terms-and-conditions), together the Website Conditions. If you do not consent to these conditions, please leave the site and cease use of the website and related services immediately.
 
-**How do we protect your information?**  
-We implement a variety of security measures to maintain the safety of your personal information when you place an order or enter, submit, or access your personal information.  
-We offer the use of a secure server. All supplied sensitive/credit information is transmitted via Secure Socket Layer (SSL) technology and then encrypted into our Payment gateway providers database only to be accessible by those authorized with special access rights to such systems, and are required to keep the information confidential.  
-After a transaction, your private information (credit cards, social security numbers, financials, etc.) will not be stored on our servers.
+This Privacy Policy applies to all information collected by TheRealSingapore.com and/or its related entities, affiliates and subsidiaries. This, along with the Website [Terms and Conditions](http://therealsingapore.com/content/terms-and-conditions) makes up the 'Website Conditions' which you agree to be bound by through the use of our website. 
 
-**Do we use cookies?**  
-Yes (Cookies are small files that a site or its service provider transfers to your computers hard drive through your Web browser (if you allow) that enables the sites or service providers systems to recognize your browser and capture and remember certain information.  
-We use cookies to help us remember and process the items in your shopping cart and understand and save your preferences for future visits.  
-If you prefer, you can choose to have your computer warn you each time a cookie is being sent, or you can choose to turn off all cookies via your browser settings. Like most websites, if you turn your cookies off, some of our services may not function properly. However, you can still place orders by contacting customer service.
+For the purpose of this Policy, “we” and “our” shall refer to TheRealSingapore.com.
 
-**Do we disclose any information to outside parties?**  
-We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information. This does not include trusted third parties who assist us in operating our website, conducting our business, or servicing you, so long as those parties agree to keep this information confidential. We may also release your information when we believe release is appropriate to comply with the law, enforce our site policies, or protect ours or others rights, property, or safety. However, non-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses.
+**1.         When is information collected from you?**
 
-**Online Privacy Policy Only**  
-This online privacy policy applies only to information collected through our website and not to information collected offline.
+1.1      When you register for or use any of our services on websites owned and/or operated by us.
 
-**Terms and Conditions**  
-Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website at <http://therealsingapore.com/content/disclaimer>
+1.2      When you take part in any contest, survey or promotion conducted by us and/or our business partners.
 
-**Your Consent**  
-By using our site, you consent to our [Privacy Policy](http://therealsingapore.com/content/privacy-policy).
+1.3      When you register as a member of websites owned and/or operated by us, or hosted by us on behalf of our business partners or use services on such websites.
 
-**Changes to our Privacy Policy**  
-If we decide to change our privacy policy, we will post those changes on this page.  
-This policy was last modified on 10 / 1 / 2012
+**2.         What is the information used for?**
 
-**Contacting Us**  
-If there are any questions regarding this privacy policy you may contact us using the information below.  
-[admin@therealsingapore.com](mailto:admin@therealsingapore.com)
+2.1      Information which you provide to us may be used and disclosed by us and our affiliates, business partners and contractors (who may be based outside Singapore) for the following purposes:
 
-This policy is powered by Trust Guard [PCI Compliance](http://www.trust-guard.com/).
+2.1.1  to respond to your requests and queries;
+
+2.1.2  to provide goods and services to you;
+
+2.1.3  to verify and process your personal particulars and payments;
+
+2.1.4  to communicate with you;
+
+2.1.5  to enforce contractual and legal rights and obligations;
+
+2.1.6  for marketing research, user profile and statistical analysis;
+
+2.1.7  to send you information, promotions, updates, and marketing and advertising materials in relation to our goods and services and those of third party organisations;
+
+2.1.8  complying with law, the requests of law enforcement and regulatory officials, or orders of court; and
+
+2.1.9  for any other purposes for which we have obtained your consent, including during the registration process.
+
+2.2      In the event that you participate in contests or other promotional programs on our websites sponsored or organized by third parties or purchase goods and services offered by third parties or offer goods and services to third parties on our sites, your information may be disclosed to and used by such third parties.
+
+2.3      We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information. This does not include trusted third parties who assist us in operating our website, conducting our business, or servicing you, so long as those parties agree to keep this information confidential.
+
+2.4      We will release your information only if we are compelled to do so under a court order such as a subpeona and the release of such information is necessary to comply with the law, enforce our site policies, or protect ours or others rights, property, or safety.
+
+**3.         Use of cookies**
+
+3.1      TheRealSingapore.com uses "cookies", where a small data file is sent to your browser to store and track information about you when you enter our websites. The cookie is used to track information such as the number of users and their frequency of use, profiles of users and their preferred sites.
+
+3.2      Like many web site operators, TheRealSingapore.com may use an independent company to measure and analyse the Internet usage across our web sites.  TheRealSingapore.com uses such services to collect the following core information on the usage of our web sites, including:
+
+3.2.1  The number of page views (or page impressions) that occur on TheRealSingapore.com web sites;
+
+3.2.2  The number of unique visitors to TheRealSingapore.com
+
+3.2.3  How long these unique visitors (on average) spend on TheRealSingapore.com when they do visit; and
+
+3.2.4  Common entry and exit points into TheRealSingapore.com.
+
+3.3      This information is collated by the Third Parties and provided to TheRealSingapore.com to assist in analysing the usage of web sites. Such data is also accessible by media organizations and research companies, for the purpose of conducting industry comparisons with other Internet portals.
+
+3.4      Pages on TheRealSingapore.com web sites may be coded with software which enables the Third Party Market Research Companies and TheRealSingapore.com to track visitors to our web sites.
+
+**4.     Online Privacy Policy Only**
+
+4.1     This privacy policy applies only to information collected through our website and not to information collected offline.
+
+5\.     **Changes to our Privacy Policy**
+
+5.1     TheRealSingapore.com reserves the right to change, without prior notice or liability, these policies by updating this page with the new policies. 
+
+**6.    Contacting Us**
+
+6.1 If you have any problems or questions regarding this privacy policy, all enquiries may be directed to TheRealSingapore.com Admin Team: [admin@therealsingapore.com](mailto:admin@therealsingapore.com)
+
+(Last updated on 3 April 2012)
