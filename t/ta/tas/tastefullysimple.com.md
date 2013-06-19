@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tastefullysimple.com privacy policy that was archived on 2012-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121014124823id_/https%3A//www.tastefullysimple.com/privacypolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tastefullysimple.com privacy policy that was archived on 2013-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130620001007id_/http%3A//www.tastefullysimple.com/privacypolicy.aspx) for the most accurate reproduction.*
 
 # Tastefully Simple - Privacy Policy
 
