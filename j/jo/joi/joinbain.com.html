@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the joinbain.com privacy policy that was archived on 2012-11-30.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121130111711id_/http%3A//joinbain.com/global/privacy-policy.asp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the joinbain.com privacy policy that was archived on 2013-06-19.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130619191406id_/http%3A//joinbain.com/global/privacy-policy.asp) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 
@@ -7,7 +7,7 @@
 
 	<link rel="stylesheet" media="screen" href="/css/global.css">
 	
-	<script type="text/javascript" async="" src="https://api.demandbase.com/api/v2/ip.json?key=220945eaa3af5b596133e0176c3b30525a54a78e&amp;callback=Synapse.demandbaseGA.track&amp;page=https://web.archive.org/web/20121130111711id_/http%3A//joinbain.com/global/privacy-policy.asp&amp;referrer="></script><script type="text/javascript" async="" src="https://web.archive.org/web/20120920014151/https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="/js/jquery.js"></script>
+	<script type="text/javascript" async="" src="https://api.demandbase.com/api/v2/ip.json?key=220945eaa3af5b596133e0176c3b30525a54a78e&amp;callback=Synapse.demandbaseGA.track&amp;page=https://web.archive.org/web/20130619191406id_/http%3A//joinbain.com/global/privacy-policy.asp&amp;referrer="></script><script type="text/javascript" async="" src="https://www.google.com/cse/cse.js?cx=011340019395057604687:gve1p7mqbns"></script><script type="text/javascript" async="" src="https://web.archive.org/web/20130423130623/https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="/js/jquery.js"></script>
 	
 	<script type="text/javascript" src="/js/superfish.js"></script>
 	<script type="text/javascript" src="/js/jquery.swfobject.js"></script>
@@ -26,16 +26,43 @@
 		
 		<!-- TOP NAV AND SEARCH BOX -->
 		<script language="javascript">
-		function search()
-		{
+		/*function search(){
 		    text = document.getElementById("search_box").value;
 		    url ="http://search.bain.com/search?q=' + text + '&btnG=Search&site=JoinBain&client=JoinBain&proxystylesheet=JoinBain_new&output=xml_no_dtd";
             top.window.location.href=url;
-		}
-		function navigateToRegistration(path)
-		{
+		}*/
+		function navigateToRegistration(path){
 		    window.location = path;
 		}
+		
+		
+		//Add text in search box
+		$(document).ready(function(){
+			var input = $("#gsc-i-id1");
+			input.val(input.val() + "Search Join Bain");
+			// Input focus toggle
+			$("#gsc-i-id1").inputFocusToggle();
+		});
+		
+		$.fn.inputFocusToggle = function(){
+			$(this).each(function(){
+				var a=$(this);
+				var b=a.val();
+				if(b!=""){
+					a.focus(function(){
+						if(a.val()==b){
+							a.val("")
+						}
+					});
+					a.blur(function(){
+						if(a.val()==""){
+							a.val(b)
+						}
+					})
+				}
+			})
+		};
+		
 		</script>
 		
 		
@@ -44,21 +71,55 @@
 				<div class="right_aligned">
 					<!-- SEARCH AREA BEGINS -->
 					<div id="search_area">
-					<form method="get" action="http://search.bain.com/search">
-						<input id="search_box" type="text" name="q" value="">
+					<!--<form method="get" action="http://search.bain.com/search">
+						<input id="search_box" type="text" name="q" value=""/>
 						<input type="image" src="/img/buttons/btn_search.png" align="absBottom" name="btnG">
-						<input type="hidden" name="site" value="JoinBain">
-						<input type="hidden" name="client" value="JoinBain">
-						<input type="hidden" name="proxystylesheet" value="JoinBain_new">
-						<input type="hidden" name="output" value="xml_no_dtd"></form>
-					
+						<input type="hidden" name="site" value="JoinBain"/>
+						<input type="hidden" name="client" value="JoinBain"/>
+						<input type="hidden" name="proxystylesheet" value="JoinBain_new"/>
+						<input type="hidden" name="output" value="xml_no_dtd"/></form>
+					</form>-->
+
+<div style="width:209px !important;">
+<script>
+  (function() {
+    var cx = '011340019395057604687:gve1p7mqbns';
+    var gcse = document.createElement('script');
+    gcse.type = 'text/javascript';
+    gcse.async = true;
+    gcse.src = 'https://www.google.com/cse/cse.js?cx=' + cx;
+    var s = document.getElementsByTagName('script')[0];
+    s.parentNode.insertBefore(gcse, s);
+  })();
+</script>
+<gcse:searchbox-only></gcse:searchbox-only>
+</div>
+<style type="text/css">
+div.gsc-input-box{height:16px !important;}
+div#___gcse_0{margin-left:6px !important;margin-top:2px !important;position:absolute !important;z-index:199999 !important;width:209px !important;}
+input.gsc-input{border:none !important;background:#FFF !important;font-size:11px !important;width:159px !important;}
+.gsib_a{padding:0px 0px 0px 0px !important;}
+.gsc-search-box-tools .gsc-search-box .gsc-input{padding-right:5px !important;}
+.gsc-search-button-v2{width:13px !important;height:13px !important;padding:1px 10px 1px 10px !important;margin-left:-2px !important;}
+.gsc-completion-container{z-index:200000 !important;}
+div.gsc-input-box{width:166px !important;}
+input#gsc-i-id1{width:140px !important;}
+div#gs_st0{position:absolute !important;margin-top:-8px !important;margin-left:-20px !important;}
+</style>
+<!--[if IE]>
+<style type="text/css">
+div.gsc-input-box{width:166px !important;}
+.gsc-search-button-v2{margin-left:0px !important;}
+</style>
+<![endif]-->
+
 					</div>
 					<!--END SEARCH AREA -->
 					<ul>
 						<!--workaround to have the home icon appear, it's set as the background in the css #join_bain, using a img tag would cause a spacing issue with the layout-->
 						<li class="home_icon"><a href="/default.asp" id="join_bain"><span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span></a></li>
 						<li><a href="http://www.bain.com" id="bain_com" target="_blank"><span>BAIN.COM</span></a></li>
-						<li><a href="http://www.bain.com/about/worldwide-offices/index.aspx" target="_blank" id="our_offices"><span>OUR OFFICES</span></a></li>
+						<li><a href="http://www.bain.com/about/worldwide-offices/index.aspx" id="our_offices" target="_blank"><span>OUR OFFICES</span></a></li>
 						<li><a href="/apply-to-bain/bain-on-your-campus/" id="your_campus"><span>YOUR SCHOOL</span></a></li>
 						<li><a href="/global/connect-with-us.asp" id="connect_with_us"><span>CONNECT WITH US</span></a></li>
 						
@@ -96,19 +157,9 @@
 						<li><a href="http://www.bain.com/about/worldwide-offices/index.aspx" target="_blank">Worldwide offices</a></li>
 					</ul>
 				</li>
-				<li id="build_your_career"><a href="/build-your-career/default.asp"><span>Build Your Career</span></a>
-					<ul>
-						<li><a href="/build-your-career/your-background/default.asp">Your background</a></li>
-						<li><a href="/build-your-career/bain-career-progression/default.asp">Career progression</a></li>
-						<li><a href="/build-your-career/training/default.asp">Training</a></li>
-						<li><a href="/build-your-career/your-results-story/default.asp">Your results story</a></li>
-						<li><a href="/build-your-career/career-flexibility/default.asp">Career flexibility</a></li>
-						<li><a href="/build-your-career/alumni-network/default.asp">Alumni network</a></li>
-					</ul>
-				</li>
 				<li id="life_at_bain"><a href="/life-at-bain/default.asp"><span>Life at Bain</span></a>
 					<ul>
-						<li><a href="/life-at-bain/bain-people/default.asp">Bain people</a></li>
+						<li><a href="/life-at-bain/bain-people/meet-our-people_grid.asp">Meet our people</a></li>
 						<li><a href="/life-at-bain/at-the-office/default.asp">At the office</a></li>
 						<li><a href="/life-at-bain/supportive-environment/default.asp">Supportive environment</a></li>
 						<li><a href="/life-at-bain/diversity/default.asp">Diversity and inclusion</a></li>
@@ -116,9 +167,20 @@
 						<li><a href="/life-at-bain/beyond-the-desk/default.asp">Beyond the desk</a></li>
 					</ul>
 				</li>
+				<li id="build_your_career"><a href="/bain-career/default.asp"><span>A Bain Career</span></a>
+					<ul>
+						<li><a href="/bain-career/bain-career-progression/default.asp">Career progression</a></li>
+						<li><a href="/bain-career/training/default.asp">Global training</a></li>
+						<li><a href="/bain-career/personal-impact/default.asp">Personal impact</a></li>
+						<li><a href="/bain-career/flexible-work-options/default.asp">Flexible work options</a></li>
+						<li><a href="/bain-career/career-accelerator/default.asp">A career accelerator</a></li>
+						<li><a href="/bain-career/alumni-network/default.asp">Alumni network</a></li>
+					</ul>
+				</li>
 				<li id="apply_to_bain"><a href="/apply-to-bain/default.asp"><span>Apply to Bain</span></a>
 					<ul>
 						<li><a href="/apply-to-bain/what-bain-looks-for/default.asp">What Bain looks for</a></li>
+						<li><a href="/apply-to-bain/your-background/default.asp">Your background</a></li>
 						<li><a href="/apply-to-bain/recruiting-process/default.asp">Recruiting process</a></li>
 						<li><a href="/apply-to-bain/bain-on-your-campus/default.asp">Bain on your campus</a></li>
 						<li><a href="/apply-to-bain/apply-now/default.asp">Apply now</a></li>
@@ -178,7 +240,7 @@
 				
 				<!-- End Feature Profile  -->
 
-				
+                
 				</div>
 				<!-- End Section Menu -->
 				
@@ -198,9 +260,7 @@
 		 <div id="bottom_cap"></div>
 	<!-- END WRAPPER -->
 		<div id="footer">
-		<div id="foot_left">
-		© 1996-2012 BAIN &amp; COMPANY	
-		</div>
+		<div id="foot_left">© 1996-2013 BAIN &amp; COMPANY</div>
 		<div id="foot_right">
 			<ul>
 				<li><a href="http://www.bain.com" target="_blank">BAIN.COM</a></li>
