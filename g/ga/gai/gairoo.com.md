@@ -1,100 +1,95 @@
-> *The following text is extracted and transformed from the gairoo.com privacy policy that was archived on 2011-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110627154744id_/http%3A//www.godaddy.com/agreements/ShowDoc.aspx%3Fpageid%3Dprivacy_parkedpage) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gairoo.com privacy policy that was archived on 2013-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130619230523id_/http%3A//www.flavaworks.com/vod/privacy) for the most accurate reproduction.*
 
-# Legal Agreement
+# Flava Works Video On Demand the Best Gay XXX Video Source
 
-**Go Daddy Respects Your Privacy**
+**FLAVA WORKS PRIVACY POLICY**
 
-**This Privacy Policy explains our privacy and information gathering practices, such as the types of information we collect and under what circumstances that information is shared.**
+Effective as of January 1st, 2011 (the "Effective Date") 
 
-**Please take the time to review the terms of this Policy.   By using this Site, you agree to accept the terms provided.**
+This Privacy Policy (the "Policy") applies to Flava Works, Inc. and FlavaWorks.com (collectively, referred to herein as "Flava Works," "we" or "us") family of websites (the "Sites"). These include thugboy.com; cocodorm.com; rawrods.com; mixitupboy.com; cocoboyz.com; papicock.com; flavamen.com; thugsforsex.com; topthugs.com; flavaworks.com; flavacams.com and any other websites at which this Policy appears. It does NOT apply to other online or offline Flava Works websites, products or services. 
 
-**Other than as described in this Policy, we will not give any information about you to others without your express permission.**
+This Policy explains what information we collect about you and what we do with it. We reserve the right to modify this Policy at any time, and we will notify you of any material changes to the Policy by posting the new Policy here and changing the "Effective Date" at the top. We may also use alternative methods to alert you to changes to the Policy. We encourage you to check this page periodically for any changes. By using or navigating any of the Sites or any portion of the Sites, you acknowledge that you have read, understand and agree to be bound by this Policy or any modified Policy as posted. If you do not agree to these terms, please do not use or visit any of the Sites or any portion of the Sites. 
 
-**Information Collection and Use**
+**What information do we collect?**
 
-Although this Site is primarily for informational purposes, we may ask you to provide us with your name, email address or other information that could be used to identify you personally.  For example, we may collect this information in the event that you register as a member of this Site, post a comment, sign-up to receive email communications, or submit demographic information as part of a survey.
+We collect personal information that you provide to us such as your name, e-mail address, street address and telephone number. We also collect your credit card number, credit card expiration date and banking information from you. We generally collect this personal information on our registration and order forms when you sign up to receive products or services from one of the Sites. When you participate in special events such as contests and polls, you may be asked to provide your name, e-mail, username and password, telephone number and birth date. We may also collect information from our online surveys if you choose to participate, such as age, gender and income level. 
 
-We receive and store any information you enter on our Site or give us in any other way, including through email, telephone, or other communications. If you contact us for support, we will keep an internal record of our communication with you.
+When you visit any of our Sites, we collect certain anonymous demographic information about you, including your IP address and browser program. We also collect information regarding your use of the Sites through the use of cookies (see below for more about cookies). In addition, for those that download videos from the site, a unique combination of user data is attached to that download, which will be attached to that product if redistributed, reproduced, and/or shared with third parties. 
 
-We may use your information to contact you regarding the information and services available on our Site, functionality changes to our Site, and special offers we think you'll find valuable. If you would rather not receive this information, please see the "Updating Your Information" section below on how to change your preferences.
+If you choose to post messages, comments or other information in one of the public forums on any of our Sites, we will maintain on the Sites such information about you as you choose to disclose in your posting. 
 
-We may also use your information to present a co-branded offer with our partners or affiliates. If we collect information from you in connection with a co-branded offer, it will be clear at the point of collection who is collecting the information and whose privacy statement applies.
+If you send us personal correspondence, such as emails or letters, we may collect such information into a file specific to you. We will maintain a record or notes of communications with you regarding your account. 
 
-We use information gathered about you from our Site statistics (for example, your IP address) to help diagnose problems with our server, and to administer our Site. We also gather broad demographic information from this data to help us improve our Site and make your browsing and purchasing experience more enjoyable. This is not linked to any personally identifiable information, except as necessary to prevent fraud or abuse on our system.
+**How do we use your information?**
 
-Our Site uses cookies to enhance your experience with our Site.  Cookies are data files that are placed in your browser to keep track of your personal preferences and to facilitate easy navigation through our Site.  We use cookies to identify you so you don't need to log in each time you visit our Site.  You may opt-out of the use of cookies by altering settings on your browser.  Please note, however, that some areas of the Site will be easier to navigate with the use of cookies..
+We use your information in order to process your credit card payments, to fulfill your orders and/or requests, to facilitate your viewing of our Sites, to communicate with you, and to provide you with information about Flava Works, some of our partners and third party companies in which we think you may be interested. 
 
-This Site also contains links to other websites. Unfortunately, we are not responsible for the privacy practices or the content of such sites.
+Flava Works uses your e-mail address to contact you when necessary and to send periodic e-mail newsletters and promotional e-mails to you about services and products offered by us as well as by third party companies in which we think you may be interested. 
 
-**Security**
+We use IP addresses and anonymous demographic information to tailor your experiences at our Sites by showing content in which we think you will be interested and displaying content according to your preferences. Anonymous demographic information is shared with advertisers and market researchers on an aggregate basis. 
 
-This Site has security measures in place to protect against the loss, misuse or alteration of the information under our control.
+We use information collected to evaluate and improve our services. We may develop and use, in our sole discretion, consumer research, which may be based on your use of our services.
 
-**Updating Your Information**
+We also provide a unique form of identification, which may consist of the users IP address, user ID or other uniquely identifiable member information, for each download made by members. The unique identification is used to enforce Flava Works Copyright and Trademark rights if a download is distributed without first obtaining permission from Flava Works. 
 
-You may alter your account information or opt out of receiving communications from us and our partners at any time. We have the following options for changing and modifying your account information or contact preferences.
+Personal information collected on and/or through the Sites is stored and processed in the United States and by using any of the Sites, you consent to any such transfer of information outside of your country to the United States. 
 
-        i.      You may send an email to [support@godaddy.com ](mailto:support@godaddy.com)
+**Do we share the information we collect with third parties?**
 
-       ii.      You may send mail to Go Daddy at the following postal address:   
-               14455 North Hayden Road, Suite 219, Scottsdale, AZ. 85260 USA
+In some cases, we will share information we collect (including personal information and/or anonymous demographic information) with third party companies who may offer products or services in which we believe you may be interested. We also share this information with third parties with whom we partner to co-promote and administer sweepstakes and contests on our Sites. 
 
-      iii.      You may call us at: (480) 505-8800
+We may also share information we collect with third party service providers to manage certain aspects of the services we provide, such as maintaining our servers and processing or fulfilling orders for products and services you purchase through the Sites. 
 
-       iv.      You may fax us at: (480) 505-8844
+We may also disclose your information in special cases if required to do so by law, court order or governmental authority or when we believe in good faith that disclosing this information is otherwise necessary or advisable, including, for instance, to identify, contact, or bring legal action against someone who may be causing injury to or interfering with the rights or property of Flava Works, another user or anyone else that could be harmed by such activities. 
 
-**Sending Emails**
+In the event of a change in ownership or a merger with, acquisition by, or sale of assets to, another entity, we reserve the right to transfer all user information collected in connection with the Sites, including but not limited to email addresses, to a separate entity. Flava Works will notify you (via a posting on the Sites or the Policy or via email (in our discretion)) of such a transfer, and you may choose to modify your registration information at that time. This means that if you are concerned about your personal data migrating to a new owner, you can deactivate your account. 
 
-We use emails to communicate with you and to send information that you have requested.  We also provide email links to allow you to contact us directly. We strive to promptly reply to your messages.
+**Is the information submitted in public forums confidential?**
 
-The information you send to us may be stored and used to improve this Site and our products, or it may be reviewed and discarded.
+No. The Sites may offer chat rooms, forums, message boards and/or news groups to our users. Please remember that any information disclosed in these areas becomes public information. Accordingly, you should exercise caution when deciding to disclose your personal information in any public forum, and you do so at your own risk. 
 
-**Compliance with Laws and Law Enforcement**
+**Do we use cookies?**
 
-We cooperate with government and law enforcement officials and private parties to enforce and comply with the law. We will disclose any information about you to government or law enforcement officials or private parties as we, in our sole discretion, believe necessary or appropriate to respond to claims and legal process (including without limitation subpoenas), to protect our property and rights or the property and rights of a third party, to protect the safety of the public or any person, or to prevent or stop activity we consider to be illegal or unethical. We will also share your information to the extent necessary to comply with ICANN's rules, regulations and policies.
+Yes. Cookies are pieces of information generated by web servers and stored on your computer for future access. The Sites use cookie technology to enhance your online experience by making it easier for you to navigate through our Sites or to make a feature work better. Generally, cookies can be disabled at your discretion. However enabling cookies for FW Sites is absolutely essential and Sites will not work without cookies. 
 
-**Third Party Service Providers**
+**Do we use web beacons?**
 
-We may at times provide information about you to third parties to provide various services on our behalf, such as serving advertisements, conducting contests or surveys, performing analyses of our user demographics, shipping of goods or services, and user relationship management. We will only share information about you that is necessary for the third party to provide the requested service. These companies are prohibited from retaining, sharing, storing or using your personally identifiable information for any secondary purposes.
+Yes. Some of our Sites may contain electronic images known as "web beacons" or single-pixel GIFs that allow us to count visitors to our Sites and deliver co-branded services. Web beacons collect limited, non-personal information including cookie number, time and date of a page view and a description of the page on which the web beacon resides. 
 
-In the event that we use third party advertising companies to serve ads on our behalf, these companies may employ cookies and action tags (also known as single pixel gift or web beacons) to measure advertising effectiveness. Any information that these third parties collect via cookies and action tags is completely anonymous. If you would like more information about this practice and your choices, click [here. ](http://www.networkadvertising.org/managing/opt_out.asp)
+**How secure is your information?**
 
-**Supplementation of Information**
+Flava Works takes reasonable precautions to maintain the security of any information obtained from and about you and to protect against the loss, misuse and alteration of information under our control. Our third party payment processors provide you with a secure web page through which to submit your billing information when you join the membership portion of any of our Sites, and we are not responsible for their handling or use of your information. The personally identifiable information held by Flava Works is stored in a secure location with limited administrative access. 
 
-In order to provide certain services to you, we may on occasion supplement the personal information you submit to us with information from third party sources ( _e.g.,_ information from our strategic partners, service providers, or the United States Postal Service).  We do this to enhance our ability to serve you, to tailor our products and services to you, and to offer you opportunities to purchase products or services that we believe may be of interest to you.
+In addition, your subscriber account is secured by a password created by you. Do not share your password with anyone. It is your responsibility to keep your password confidential, and Flava Works cannot be held liable for any loss or misuse of your password. 
 
-**Contests/Surveys**
+**Does this Policy apply to any linked websites other than the Sites?**
 
-From time-to-time, we may provide you with the opportunity to participate in contests or surveys. If you choose to participate, we may request certain personally identifiable information from you. Participation in these contests or surveys is completely voluntary and you therefore have a choice whether or not to disclose the requested information. The requested information typically includes contact information (such as name and address), and demographic information (such as zip code and age level - note that you must be 18 or above to enter). We use this information to notify contest winners and award prizes, to monitor Site traffic, and to personalize our Site.
+No. The Sites may contain links to other Internet sites, resources and sources of Flava Works. By clicking on any banner advertisement or other link, you will be redirected off the Sites and to third party websites. Flava Works is not responsible for the privacy policies or content of such websites. You should make sure that you read and understand the privacy policies of these sites and direct any concerns regarding external links to the site administrator or Webmaster of that third party website. 
 
-We may use a third party service provider to conduct these surveys or contests. When we do, that company will be prohibited from using our users' personally identifiable information for any other purpose. We will not share the personally identifiable information you provide through a contest or survey with other third parties unless we give you prior notice and choice.
+**How do you unsubscribe from emails sent by Flava Works?**
 
-**Tell-A-Friend**
+All e-mails you receive from us will include specific instructions on how to unsubscribe, and you may unsubscribe at any time. Additionally, we give you the following options for removing your information from our database: 
 
-If a user elects to use our referral service to inform a friend about our Site, we ask the user for the friend's name and email address. Go Daddy will automatically send the friend a one-time email inviting them to visit our Site. Go Daddy stores this information for the sole purpose of sending this one-time email. The friend may contact Go Daddy at [support@godaddy.com ](mailto:support@godaddy.com)to request the removal of this information from our database.
+(1) Send an email to info@flavaemail.com (please indicate that you would like to be unsubscribed from Flava Works emails and make sure to include your email in your email message); 
 
-**What Happens to my Personal Information if I Opt Out?**
+(2) Select the opt-out link at the bottom of any Flava Works email and follow the instructions provided; 
 
-If you advise us that you wish to opt out of receiving further communications from us, we will place your personally identifiable information in "deactivated" status on our relevant databases. However, you should know that placement of your information in "deactivated" status does not mean your personally identifiable information has been deleted from our database entirely. We will retain and use your personally identifiable information if necessary in order to comply with our legal obligations, resolve disputes, or enforce our agreements.
+(3) Send a letter to the following address: 
 
-**Transfer of Data Abroad**
+Flava Works, Inc.  
+2610 North Miami Ave.  
+Miami, FL 33127-4438
 
-If you are visiting this Site from a country other than the country in which our servers are located, your communications with us may result in the transfer of information across international boundaries.  By visiting this Site and communicating electronically with us, you consent to such transfers.
+Please note, however, you cannot opt out of receiving emails from us regarding your account and/or the status of an order. 
 
-**Changes in Our Practices**
+**How do you update/correct your information?**
 
-We reserve the right to modify this Privacy Policy at any time. If we decide to change our Privacy Policy, we will post those changes to this Privacy Policy and any other places we deem appropriate, so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it.
+To correct or update the personal information you have provided to Flava Works you must unsubscribe and then apply for a new membership. 
 
-If we make material changes to this Policy, we will notify you here, by email, or by means of a notice on our home page, at least thirty (30) days prior to the implementation of the changes.
+Please note, however, that even if you update or remove your personal information from our live database, your data may be retained in our backup files and archives. 
 
-**Contacting Our Site**
+**Got more questions? We can help!**
 
-If you have any questions about our Privacy Policy, the practices of this Site, or your dealings with this Site, please contact us at:
+Flava Works recognizes the importance of protecting your privacy. If you have any questions about this Privacy Policy, the practices of our Sites or your dealings with Flava Works, please contact us at support@flavaworks.com or by mail at 2610 North Miami Ave., Miami, FL 33127-4438. 
 
-* * *
-
-Go Daddy   
-ATTN: Web Team   
-14455 North Hayden Rd.   
-Suite 219   
-Scottsdale, AZ, 85260, U.S.A.
+**Please note that persons under the age of 18 are prohibited from viewing our Sites, and Flava Works does not knowingly collect any personal information from persons under the age of 18.**
