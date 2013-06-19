@@ -1,10 +1,6 @@
-> *The following text is extracted and transformed from the manaflask.com privacy policy that was archived on 2012-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121130015748id_/http%3A//www.manaflask.com/en/privacy/policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the manaflask.com privacy policy that was archived on 2013-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130620015832id_/http%3A//manaflask.com/en/privacy) for the most accurate reproduction.*
 
-# Top Raiding: Guides, Streams, Interviews and Blogs
-
-This policy is effective as of April 14, 2009.
-
-At Manaflask.com (the "Site") we care strongly about your right to privacy and therefore we have several privacy settings on our Site that limits people's access to your information. However you are always in control of your own information since you decide when and what to enter and share with the community or your friends.
+# Manaflask | Privacy Policy
 
 ## Information Gathering, Using and Cookies
 
