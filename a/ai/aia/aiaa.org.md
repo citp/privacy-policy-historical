@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the aiaa.org privacy policy that was archived on 2012-10-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121024233844id_/https%3A//www.aiaa.org/Detail.aspx%3Fid%3D69) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aiaa.org privacy policy that was archived on 2013-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130620014432id_/https%3A//www.aiaa.org/Detail.aspx%3Fid%3D69) for the most accurate reproduction.*
 
 # Privacy Policy : The American Institute of Aeronautics and Astronautics
 
-The American Institute of Aeronautics and Astronautics (AIAA) is committed to protecting the privacy of its members who utilize the Institute website. To serve that goal, AIAA has adopted this privacy policy. 
+The American Institute of Aeronautics and Astronautics (AIAA) is committed to protecting the privacy of its members who utilize the Institute website. To serve that goal, AIAA has adopted this privacy policy.
 
 #### Information Collected 
 
@@ -16,13 +16,12 @@ We collect the email addresses of those who communicate with us via email and fo
 
 We may aggregate information on what pages users access. AIAA uses this information to enhance our online offerings, information, and services. 
 
-We also collect information volunteered by users, such as survey information and/or site registrations. This information is kept confidential by AIAA and, again, is used for internal purposes. 
+We also collect information volunteered by users, such as survey information and/or site registrations. This information is kept confidential by AIAA and, again, is used for internal purposes.
 
 #### Security 
 
-The Association undertakes reasonable efforts to ensure that all personally identifiable information collected on our site remains secure. AIAA staff is trained to treat member and customer information confidentially. Of course, AIAA cannot provide a guarantee against inadvertent disclosure or intentional misappropriation of data by a third party. 
+The Association undertakes reasonable efforts to ensure that all personally identifiable information collected on our site remains secure. AIAA staff is trained to treat member and customer information confidentially. Of course, AIAA cannot provide a guarantee against inadvertent disclosure or intentional misappropriation of data by a third party.
 
 #### Comments
 
-If you have any comments about the AIAA website, including the handling or use of personal information, please contact us by emailing custserv@aiaa.org or by calling 703.264.7500.   
-
+If you have any comments about the AIAA website, including the handling or use of personal information, please contact us by emailing custserv@aiaa.org or by calling 703.264.7500. 
