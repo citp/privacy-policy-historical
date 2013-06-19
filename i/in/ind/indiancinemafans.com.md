@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the indiancinemafans.com privacy policy that was archived on 2012-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120519045709id_/http%3A//www.indiancinemafans.com/board/upload/rules-2/privacy-policy-18728) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the indiancinemafans.com privacy policy that was archived on 2013-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130619061413id_/http%3A//www.indiancinemafans.com/board/upload/rules-2/privacy-policy-18728) for the most accurate reproduction.*
 
 # Privacy Policy
 
