@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hardsexmate.com privacy policy that was archived on 2012-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121208224415id_/http%3A//www.hardsexmate.com/privacy.html%3F) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hardsexmate.com privacy policy that was archived on 2013-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130619053849id_/http%3A//www.hardsexmate.com/privacy.html%3F) for the most accurate reproduction.*
 
 # HardSexMate - Privacy
 
