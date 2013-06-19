@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the gamesht.com privacy policy that was archived on 2012-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121227042446id_/http%3A//www.gamesht.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gamesht.com privacy policy that was archived on 2013-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130620013510id_/http%3A//www.gamesht.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Video Game Reviews-Hardware Reviews-Technology Review
-
-## Privacy Policy
+# Privacy Policy
 
 This Privacy Policy covers all the pages related to GamesHT (gamesht.com) site. Please have a look at this policy carefully before you proceed or access any of the pages of this site. Your access to the pages’ indicates that you have read and understood the policy and you agree to abide by the Terms of Use in effect.
 
