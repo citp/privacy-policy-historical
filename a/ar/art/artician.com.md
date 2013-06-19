@@ -1,18 +1,18 @@
-> *The following text is extracted and transformed from the artician.com privacy policy that was archived on 2012-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121119172633id_/http%3A//www.artician.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the artician.com privacy policy that was archived on 2013-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130619093722id_/http%3A//www.artician.com/privacy) for the most accurate reproduction.*
 
 # Artician Privacy Policy
 
   
 
 
-**Last updated:** September 27 2011
+**Last updated:** April 27 2013
 
-The Artician Network is owned and operated by Artician LLC, and Artician Web Development Studios.  
+The Artician Network is owned and operated by Artician LLC, and Artician Studios LLC.  
 We can be reached via e-mail at  | [View Terms of Use](https://web.archive.org/terms/). 
 
 ## Definitions:
 
-The website, this website, us, we, and Artician refers to - Artician, Artician LLC., Artician.com, Artician.net, Artician Network, and Artician Web Development Studios.
+The website, this website, us, we, and Artician refers to - Artician, Artician LLC., Artician.com, Artician.net, Artician Network, Artician Studios LLC, and Artician Web Development Studios.
 
 You - first person, singular, referring to the person reading these Terms of Use, and accessing the Artician Network.
 
