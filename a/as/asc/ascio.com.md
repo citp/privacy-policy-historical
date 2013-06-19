@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ascio.com privacy policy that was archived on 2012-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121014110606id_/http%3A//www.ascio.com/node/73) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ascio.com privacy policy that was archived on 2013-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130619032104id_/http%3A//www.ascio.com/cookie-policy) for the most accurate reproduction.*
 
 # Cookie Policy | Ascio
 
@@ -40,8 +40,7 @@ We also use cookies to deliver targeted online ads, questionnaires, analysis, et
 
 **2.5 Cookies from our partners**
 
-In this section you find a list of the technology partners, that sends cookies through our website and have access to the information collected with cookies from the website.  
- 
+In this section you find a list of the technology partners, that sends cookies through our website and have access to the information collected with cookies from the website.
 
   * Google
 
