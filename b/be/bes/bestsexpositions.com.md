@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the bestsexpositions.com privacy policy that was archived on 2012-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120504002953id_/http%3A//bestsexpositions.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bestsexpositions.com privacy policy that was archived on 2013-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130619080340id_/http%3A//www.bestsexpositions.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy - BestSexPositions.com
+# Privacy Policy - bestsexpositions.com
 
-Thank you for visiting BestSexPositions.com, a site within the network of sites operated by Liquid Logic, Inc. (“Liquid Logic”, “we” or “us”) each of which have adopted this Privacy Notice. 
+Thank you for visiting bestsexpositions.com, a site within the network of sites operated by Liquid Logic, Inc. (“Liquid Logic”, “we” or “us”) each of which have adopted this Privacy Notice. 
 
 Your privacy is important to us. To better protect your privacy, we provide this notice explaining our information practices and the choices you can make about the way your information is collected and used by Liquid Logic, Inc. and its subsidiaries.
 
