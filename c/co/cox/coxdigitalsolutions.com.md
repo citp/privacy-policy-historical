@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the coxdigitalsolutions.com privacy policy that was archived on 2012-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121014092444id_/http%3A//www.coxdigitalsolutions.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the coxdigitalsolutions.com privacy policy that was archived on 2013-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130619160046id_/http%3A//www.coxdigitalsolutions.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy « Cox Digital Solutions Cox Digital Solutions
+# Privacy Policy
 
 This the privacy policy for Publishers, Advertisers, and Network Operators. If you would like to view our Consumer Privacy Policy, please [click here](http://www.coxdigitalsolutions.com//privacy/consumer-privacy-policy). To view our consumer opt-out, [click here](http://www.coxdigitalsolutions.com//privacy/consumer-opt-out-program).
 
@@ -16,7 +16,7 @@ If you are a Publisher, Advertiser, or Network Operator, you can browse certain 
 
 If you are a Publisher, Advertiser, or Network Operator, Cox Digital Solutions requires certain information related to your business, your website, and your use of the Service. Cox Digital Solutions will collect and store this information. Cox Digital Solutions may collect your email addresses, mailing and billing address and order information, IP address, information about your site, including but not limited to your site’s page impressions, advertising prices, and information about your visitors.
 
-To improve and personalize the Service, Cox Digital Solutions may collect information about your business from third parties and provide this information on your behalf. This information may include, but is not limited to the following: third-party counts of monthly page views, visitor composition, and rankings in various indices. Cox Digital Solutions may not provide you the option to turn off the presentation of this information. 
+To improve and personalize the Service, Cox Digital Solutions may collect information about your business from third parties and provide this information on your behalf. This information may include, but is not limited to the following: third-party counts of monthly page views, visitor composition, and rankings in various indices. Cox Digital Solutions may not provide you the option to turn off the presentation of this information.
 
 Cox Digital Solutions may collect tax information, including Value Added Tax (VAT) or federal tax ID numbers. Cox Digital Solutions will collect information regarding your activities with respect to the Service. Cox Digital Solutions will collect any comments you send to us and any information you post to the Cox Digital Solutions site or on a Publisher site. Cox Digital Solutions may also collect information through the use of Cookies (see below). Cox Digital Solutions collects personal information when you: (1) register with Cox Digital Solutions to become a Publisher, Advertiser, or Network Operator, (2) provide comments or submit a problem to Cox Digital Solutions, (3) request information from Cox Digital Solutions and provide your name or return contact information, or (4) respond to special offers, contests or surveys. As part of the registration process, you may be asked to provide contact information and other personally identifying information. 
 
@@ -24,9 +24,7 @@ Cox Digital Solutions may collect tax information, including Value Added Tax (VA
 “Cookies” are small data files that may be downloaded to your computer when you visit the Cox Digital Solutions site or a Publisher site and permit the Cox Digital Solutions server to identify your browser whenever you interact with the Cox Digital Solutions site or with a Cox Digital Solutions Publisher site. Cox Digital Solutions uses cookies to recognize repeat visits by users of its Service and to collect information about its users’ interactions with the Services. These cookies contain identification information that enables us to streamline a user’s experiences using the Services and to report such information to Publishers, Advertisers, and Network Operators. You may set your browser software to reject cookies, but you may not be able to optimize the features of the Services. In some cases, you may not be able to access Services if cookies are disabled.
 
 **C. USE AND DISCLOSURE OF PERSONALLY IDENTIFYING INFORMATION**  
-Our primary purpose in collecting personal information is to provide you with a safe, smooth, efficient, and customized experience. 
-
-1) If you are a Publisher we may share information about your site, including but not limited to page impressions, site traffic, prices and readership with Advertisers, Publishers, Network Operators. We will not share personally identifiable information about you with Advertisers without your prior written or electronic consent.
+Our primary purpose in collecting personal information is to provide you with a safe, smooth, efficient, and customized experience.  1) If you are a Publisher we may share information about your site, including but not limited to page impressions, site traffic, prices and readership with Advertisers, Publishers, Network Operators. We will not share personally identifiable information about you with Advertisers without your prior written or electronic consent.
 
 2) If you are an Advertiser we may disclose your contact information and email address to Publishers on whose Sites you have placed advertisements. 
 
@@ -75,4 +73,4 @@ USA
 **I. ENTIRE AGREEMENT**  
 The term “including” in this Privacy Policy shall mean “including without limitation.” This Privacy Policy supplements and is incorporated into the Network Operator Agreement (if applicable) and the Terms and Conditions. This Privacy Policy constitutes the entire agreement, and replaces and supersedes all prior agreements, between you and Cox Digital Solutions concerning the subject matter discussed in this Privacy Policy. Access to your account will signify your acceptance of this Privacy Policy.
 
-BY USING THE COX DIGITAL SOLUTIONS SERVICE, I REPRESENT THAT I HAVE READ AND UNDERSTOOD THIS ENTIRE PRIVACY POLICY AND I AGREE TO ALL THE TERMS OF THIS PRIVACY POLICY AS STATED ABOVE. 
+BY USING THE COX DIGITAL SOLUTIONS SERVICE, I REPRESENT THAT I HAVE READ AND UNDERSTOOD THIS ENTIRE PRIVACY POLICY AND I AGREE TO ALL THE TERMS OF THIS PRIVACY POLICY AS STATED ABOVE.
