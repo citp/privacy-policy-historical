@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the d-a-l.com privacy policy that was archived on 2012-03-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120313205329id_/http%3A//www.d-a-l.com/kb/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the d-a-l.com privacy policy that was archived on 2013-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130619163720id_/http%3A//www.techie7.com/kb/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Techie7
 
-Techie7.com (Fromerly D-A-L.com) is owned and operated by D24 MEDIA LTD
+Techie7.com (Previously D-A-L.com) is owned and operated by D24 MEDIA LTD
 
 D24 MEDIA is committed to protecting your privacy and maintaining the security of any personal information received from you. We strictly adhere to the requirements of the data protection legislation in the UK.
 
@@ -26,11 +26,6 @@ The purpose of this statement is to explain to you what personal information we 
 
 By Post:
 
-D24 MEDIA LTD  
-Westfield House  
-Bonnetts Lane  
-Ifield, Crawley  
-West Sussex  
-RH11 0NY, UK.
+**D24 MEDIA LTD, Dalton House, 60 Windsor Avenue, London, SW19 2RR, UNITED KINGDOM**
 
 By Email: sales@d24media.com
