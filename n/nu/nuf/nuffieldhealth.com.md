@@ -1,201 +1,233 @@
-> *The following text is extracted and transformed from the nuffieldhealth.com privacy policy that was archived on 2012-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121212073338id_/http%3A//www.nuffieldhealth.com/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nuffieldhealth.com privacy policy that was archived on 2013-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130620014511id_/http%3A//www.nuffieldhealth.com/nuffield-health-privacy-policy) for the most accurate reproduction.*
 
-# Privacy statement | Nuffield Health
+# Nuffield Health Privacy Policy | Nuffield Health
 
-Nuffield Health Privacy Policy updated on 24th May 2012
+Nuffield Health ("We") are committed to protecting and respecting your privacy.
 
-###### 1\. Recent Changes in European Legislation
+This policy (and any other documents referred to on it) sets out the basis on which any personal data we collect from you, or that you provide to us, will be processed by us. Please read the following carefully to understand our practices regarding your personal data and how we will treat it.
+
+For the purpose of the Data Protection Act, the data controller is Nuffield Health with registered address at 40-44 Coombe Road, New Malden, Surrey, KT3 4QF a Registered Charity Number: 205533 (England & Wales), a Charity Registered in Scotland Number: SC041793 and a Company Limited by Guarantee Registered in England Number 576970. 
+
+Nuffield Health understands that your information is entrusted to us and we are committed to protecting and respecting your privacy. To this end Nuffield Health complies with data protection legislation and with clinical confidentiality guidelines. This privacy policy is designed to tell you about our practices regarding the collection, use, storage and disclosure of personal information that we hold about you and which you may provide when either contacting us for an enquiry or registering with us to use or access our services.
+
+When we refer to “personal information” in this policy, we mean information that could or has the potential to identify you as an individual or provides information about you.  Accordingly, we may hold and use information about you as a customer, a patient, or in any other capacity, for example, when you visit our websites, complete a form, access our services or speak to us. 
+
+* * *
+
+##### Security of your personal information
+
+We endeavour to protect all information we hold about you by ensuring that we have appropriate security measures in place to prevent unauthorised access, information being lost, destroyed or damaged. We conduct audits to monitor our compliance to Information Security and data protection.
+
+In the usual course of our business, we may use third party organisations to support the essential delivery of our services. This may be to support IT systems in which your information is stored, or for the purposes of debt collection, transportation and storage of information and confidential destruction. 
+
+Where a third party data processor is used, we ensure that they operate under contractual restrictions with regard to confidentiality and security, in addition to their obligations under the Data Protection Act.
+
+Personal information you provide to us is held on a secure server in locked information centres and is encrypted wherever possible. Information is kept for as long as is reasonably necessary. Some IT service providers may host data in servers located outside of the EEA using cloud solutions. Where this is the case we have implemented appropriate security to protect the personal information you disclose to us from loss, misuse, unauthorised access, disclosure alteration and destruction.
+
+* * *
+
+##### Information collected when you contact us to enquire about our services
+
+When you contact us to enquire about a service or a product, we will collect personal information about you to enable us to provide you with the information that you have enquired about. Information collected will be kept securely and only accessed by those individuals responsible for ensuring you are provided with the correct information about our services.
+
+* * *
+
+##### Telephone Calls
+
+In the interests of training and continually improving our services calls to Nuffield Health and its agents may be monitored or recorded. Private calls to and from patients in our hospitals are not recorded.
+
+* * *
+
+##### Health Information collected during treatments and services
+
+Where sensitive clinical information is collected it will be kept confidential and secure and will only be disclosed to and received from those individuals involved with your treatment or care, or to their agents and, if applicable, to any person or organisation who may be responsible for meeting your treatment expenses or their agents. Information may be provided to external service providers and regulatory bodies for the purpose of clinical audit to ensure the highest standards of care and record keeping are maintained.
+
+Anonymous or aggregated data may be used by Nuffield Health, or disclosed to others contracted by Nuffield Health, for clinical audit, research or statistical purposes.
+
+* * *
+
+##### Information entered onto the Nuffield Health website
+
+Please be sure to read this entire privacy policy before using or submitting information to the Nuffield Health website.
+
+The Nuffield Health website is controlled and owned by Nuffield Health referred to in this privacy statement as ‘we’, ‘us’ or ‘our’.
+
+By using the site, you agree to the terms of this Privacy Policy.  Whenever you submit information via the site, you consent to the collection, use, and disclosure of that information in accordance with this Privacy Policy.
+
+The site is intended for use by residents of the United Kingdom.
+
+* * *
+
+##### What personal information do we collect from you when you access our website and when?
+
+We may collect and process personal information when you:
+
+  * register to use our website
+  * enquire about any of our services or treatments
+  * register or book to receive any of our services or treatments
+  * fill in a form
+  * complete customer surveys on our website
+  * post material on the site
+  * participate in a competition or promotion sponsored by us
+  * if you contact us, we may keep a record of that correspondence.
+
+
+
+We may also collect sensitive information about you related to your health that you have entered into a web form, emailed via our website or relayed in a telephone call to our call centre. Please note that information sent through a web form enquiry or via email is normally unprotected until it reaches us.
+
+* * *
+
+##### The security of Information entered via the Website & Where We Store Your Personal Data
+
+Data transmission over the internet is not completely secure and we cannot guarantee the security of your personal information or other data transmitted to or from our website; any such transmission is at your own risk. Once we have received your information, we will use strict procedures and security features to try to prevent unauthorised access.
+
+The collection, use, and disclosure of data that we collect from you may be transferred to, and stored at, a destination outside the European Economic Area ("EEA"). It may also be processed by staff operating outside the EEA who work for us or for one of our suppliers. In these cases we have implemented appropriate security measures in compliance with the EU Data Protection Directive to protect your personal information. By submitting your personal data, and in providing any personal and/or sensitive information to us, you agree to this transfer, storing or processing. We will take all steps reasonably necessary to ensure that your data is treated securely and in accordance with this privacy policy.
+
+* * *
+
+##### Payment Transactions
+
+Any payment transactions will be encrypted using SSL technology. Where we have given you (or where you have chosen) a password which enables you to access certain parts of our site, you are responsible for keeping this password confidential. We ask you not to share a password with anyone.
+
+* * *
+
+##### How do we use your personal information provided through our website?
+
+Your personal information will be kept confidential and secure and only used in connection with Nuffield Health services for the purpose for which it was collected and in accordance with our requirements under data protection legislation and clinical confidentiality guidelines. Sensitive information related to your health will only be used: to enable our employees to provide you with information and services appropriate to your interests and preferences, or to enable contracted service providers to provide you with services relating to our communications with you or in connection with any medical treatment which you may be receiving or seeking advice. Any personal information you provide will be held for as long as is reasonably necessary having regard for the purpose for which it was collected.
+
+We may use your personal data for some or all of the following reasons:
+
+  * To provide various Nuffield Health services and to allow you to ensure that content from our site is presented in the most effective manner for you;
+  * To provide you with information, products or services that you request from us or which we feel may interest you, where you have consented to be contacted for such purposes;
+  * To carry out our obligations arising from any contracts entered into between you and us;
+  * To allow you to participate in interactive features of our service, when you choose to do so;
+  * To notify you about changes to our service.
+
+
+
+* * *
+
+##### What do we do with any non-personal information collected when accessing the website?
+
+Other non-personal information which you submit may also be collected to enable us to better understand our customers, improve our website, general marketing and to help provide a better experience of our services. We may also use other companies to set cookies on your website and gather cookie information for us – please refer to the information detailed below. From time to time we may also analyse Internet Internet Protocol (IP) addresses or other anonymous data sources too.
+
+* * *
+
+##### Recent Changes in European Legislation
 
 In line with recent changes in European legislation, UK law now requires website operators to ask for a website user’s permission when placing certain kinds of cookie on their devices for the first time.
 
-Where consent is required, the law states that it should be “informed consent”. This increases  
-the onus on websites to ensure that visitors understand what cookies are and why website operators and others want to use them.
+Where consent is required, the law states that it should be “informed consent”. This increases the onus on websites to ensure that visitors understand what cookies are and why website operators and others want to use them.
 
 Here at Nuffield Health we are committed to providing the best digital service to our visitors whilst protecting their privacy, and are happy to share our position on the recent changes in Cookie law.
 
 * * *
 
-###### 1.2 What are Cookies?
+##### What are Cookies?
 
 Cookies are text files containing small amounts of information which are downloaded to your device when you visit a website. Cookies are then sent back to the originating website on each subsequent visit, or to another website that recognises that cookie. Cookies are useful because they allow a website to recognise a user’s device. 
 
 Cookies do lots of different jobs, like letting you navigate between pages efficiently, remembering your preferences, and generally improve the user experience.
 
-They can also help to ensure that adverts you see online are more relevant to you and your interests.  
- ****
+They can also help to ensure that adverts you see online are more relevant to you and your interests.
 
 * * *
 
-###### 1.3 Category 1 Cookies
+##### Category 1 Cookies
 
 These cookies are essential in order to enable you to move around the website and use its features, such as accessing secure areas of the website. Without these cookies services you have asked for, like shopping baskets or e-billing, cannot be provided.
 
 User consent is not required for the delivery of those cookies which are strictly necessary to provide services requested by the user.
 
-Nuffield Health collects these types of cookies
+Nuffield Health collects these types of cookies.
 
 * * *
 
-###### 1.4 Category 2 Cookies
+##### Category 2 Cookies
 
 These cookies collect information about how visitors use a website, for instance which pages visitors go to most often, and if they get error messages from web pages. These cookies don’t collect information that identifies a visitor. All information these cookies collect is aggregated and therefore anonymous. It is only used to improve how a website works.
 
 Web analytics that use cookies to gather data to enhance the performance of a website fall into this category. For example, they may be used for testing designs and ensuring a consistent look and feel is maintained for the user. This category does not include cookies used for behavioural/ targeted advertising networks.
 
-Nuffield Health collects these types of cookies by functional use in clause 2.1 . By using nuffieldhealth.com you agree that we can place these types of cookies on your device
+Nuffield Health collects these types of cookies by functional use in clause 2.1. By using nuffieldhealth.com you agree that we can place these types of cookies on your device.
 
 * * *
 
-###### 1.5 Category 3 Cookies
+##### Category 3 Cookies
 
 These cookies allow the website to remember choices you make (such as your user name, language or the region you are in) and provide enhanced, more personal features. For instance, a website may be able to provide you with local weather reports or traffic news by storing in a cookie the region in which you are currently located. These cookies can also be used to remember changes you have made to text size, fonts and other parts of web pages that you can customise. They may also be used to provide services you have asked for such as watching a video or commenting on a blog. The information these cookies collect may be anonymised and they cannot track your browsing activity on other websites.
 
 These cookies are used to remember customer selections that change the way the site behaves or looks. It might also include cookies that are used to deliver a specific function, but where that function includes cookies used for behavioural/targeted advertising networks they must be included in category 4 as well as this category.
 
-Nuffield Health collects these types of cookies by functional use in clause 2.1. By using nuffieldhealth.com you agree that we can place these types of cookies on your device
+Nuffield Health collects these types of cookies by functional use in clause 2.1. By using nuffieldhealth.com you agree that we can place these types of cookies on your device.
 
 * * *
 
-###### 1.6 Category 4 Cookies
+##### Category 4 Cookies
 
 These cookies are used to deliver adverts more relevant to you and your interests They are also used to limit the number of times you see an advertisement as well as help measure the effectiveness of the advertising campaign. They are usually placed by advertising networks with the website operator’s permission. They remember that you have visited a website and this information is shared with other organisations such as advertisers. Quite often targeting or advertising cookies will be linked to site functionality provided by the other organisation.
 
-Nuffield Health do not collect these cookies, and will endeavour to obtain clear and informed user consent depending on the purpose for which the category 4 cookies are to be used.
-
+Nuffield Health do not collect these cookies, and will endeavour to obtain clear and informed user consent depending on the purpose for which the category 4 cookies are to be used.  
 Definitions supplied by the International Chamber of Commerce ‘ICC UK Cookie Guide’ April 2012.
 
-* * *
-
-###### 1.7
-
 For more information on Nuffield Health’s position on the recent changes to the Cookie Law contact us: Nuffield Health Digital Marketing Team, 40-44 Coombe Road, KT3 4QF.
-
-* * *
-
-###### 1.8
 
 For information on how to delete cookies, please refer to: <http://www.wikihow.com/Clear-Your-Browser's-Cookies>
 
 * * *
 
-###### 2.0
+##### Marketing
 
-Nuffield Health understands that your information is entrusted to us and we are committed to protecting and respecting your privacy.  
-This policy explains how the information we collect from you, or you provide, will be processed.
+If you have consented to our processing your personal information for marketing purposes we may send you information about our Nuffield Health products and services which may be of interest to you.
 
-This website is controlled and owned by Nuffield Health referred to in this privacy statement as ‘we’, ‘us’ or ‘our’.
-
-This Privacy Policy is designed to tell you about our practices regarding collection, use, and disclosure of information that you may provide via this site. Please be sure to read this entire Privacy Policy before using or submitting information to this site.
+You have the right to ask us not to process your information in this way at any time. If you no long wish to receive web based marketing information you can unsubscribe by [unsubscribe@nuffieldhealth.com](mailto:unsubscribe@nuffieldhealth.com "Please email unsubscribe@nuffieldhealth.com").
 
 * * *
 
-###### 2.1
+##### Third Party Websites
 
-By using this site, you agree to the terms of this Privacy Policy. Whenever you submit information via this site, you consent to the collection, use, and disclosure of that information in accordance with this Privacy Policy.
-
-This site is intended for use by residents of the United Kingdom.
+Our website may contain links to other websites which are outside of our control and are not covered by this privacy policy. If you link to these websites we encourage you to read their own privacy policies which may differ from ours.
 
 * * *
 
-###### 2.2 Information collected from you
+##### Fraud
 
-We may collect and process data provided when you;
-
-  * Register to use our website
-  * Enquire about any of our services
-  * Fill in a form
-  * Complete customer surveys on our website
-  * Post material on the site
-  * Participate in a competition or promotion sponsored by us
-  * If you contact us, we may keep a record of that correspondence
-  * When collecting sensitive information i.e. related to your health, we will ask you to give your consent for us to collect this information by ticking a box.
-
-
+Information may be disclosed to others with a view to preventing fraud or to assist in police investigations in line with the Data Protection Act.
 
 * * *
 
-###### 2.3 Information we collect about your visit to our site
+##### CCTV
 
-As you navigate through our site, certain anonymous information can be passively collected (that is, gathered without you actively providing the information) using various technologies, such as cookies, navigational data collection (log files, server logs) or by using scripts, such as Javascript, that run on the device you are using (i.e. client-side). 
-
-Your Internet browser automatically transmits to this site some of this anonymous information, such as the address of the website you just came from, the Internet Protocol (IP) address and the browser version your computer is currently using or how you move your mouse and the page and what clicks you make.
-
-We may also use other companies to set cookies or run client-side scripts on our websites and gather cookie information for us. You may set your browser to not run scripts, to notify you when a cookie is sent or to refuse cookies altogether, but certain features of this site might not work without cookies or scripts, such as Javascript, enabled. Please refer to your web browser’s manual or help files in order to understand how you can control how and what passive data is submitted by your browser.
-
-We may use and combine passively collected anonymous information to provide better service to site visitors, customise the site based on your preferences, compile and analyse statistics and trends, and otherwise administer and improve the site for your use
+Nuffield Health premises are surveyed by CCTV for the purpose of security and images and videos may be retained for a limited period.
 
 * * *
 
-###### 2.4
+##### Accessing and updating your information
 
-On certain parts of our website we use dynamic telephone numbers for tracking purposes. We use this tracking technology to enable us to better understand how visitors arrive to our website and what leads them to call us. This data may include searches that you made to arrive at the site, pages which you viewed, and telephone numbers used to make calls from. We may combine this data with a recording of the telephone conversation and personally identifiable information collected about you.
+You have the right to access information held about you. Your right of access can be exercised in accordance with the Data Protection Act. Any access request may be subject to a fee of £10 to meet our costs in providing you with details of the information we hold about you. At any time you can request a copy of the information that we hold about you, including copies of your medical records (where relevant), by contacting:
 
-* * *
-
-###### 2.5
-
-The collection, use, and disclosure of information contemplated in this Privacy Policy may involve a transfer of the information to jurisdictions located outside your country of residence that may not have equivalent laws and rules regarding personally identifiable information. In these cases, you will be asked to consent to such transfers and disclosures in accordance with this Privacy Policy.
-
-* * *
-
-###### 2.6
-
-Sensitive information related to your health will be used only for the following purposes: to enable our employees to provide you with information and services appropriate to your interests and preferences, or to enable contracted service providers to provide you with services relating to our communications with you.
-
-* * *
-
-###### 2.7
-
-We employ reasonable measures to protect your personal information and ensure that it is not accessed by unauthorised persons. Information storage is on secure computers in a locked information centre and information is encrypted wherever possible. Unfortunately, data transmission over the internet is not completely secure and we cannot guarantee the security of your personal information transmitted to or from our website; any such transmission is at your own risk.
-
-* * *
-
-###### 2.8 Marketing
-
-If you have consented to us processing your personal information for marketing purposes, we may send you information about products and services that we believe may interest you.
-
-You have the right to ask us not to process your information in this way at any time.
-
-If you no longer wish to receive email based marketing information you can unsubscribe by emailing us at [unsubscribe@nuffieldhealth.com](mailto:unsubscribe@nuffieldhealth.com "Please email unsubscribe@nuffieldhealth.com").
-
-For non-web based marketing information please write to us at: Nuffield Health Marketing CRM Team, 40-44 Coombe Road, KT3 4QF.
-
-* * *
-
-###### 3.0 Third Party Websites
-
-Our website may contain links to other websites which are outside of our control and are not covered by this privacy policy. If you navigate to these websites we encourage you to read their own privacy policies, which may differ from ours.
-
-* * *
-
-###### 4.0 Accessing and updating your information
-
-At any time you can request a copy of the information that we hold about you, including copies of your medical records (where relevant), by contacting:
-
-**Data Protection Officer  **  
- **40-44 Coombe Road**  
- **New Malden**  
- **Surrey**  
- **KT3 4QF**
+Data Protection Officer    
+40-44 Coombe Road  
+New Malden  
+Surrey  
+KT3 4QF
 
 If your details change or are incorrect please let us know.
 
 * * *
 
-###### Changes to our Privacy Statement
+##### Changes to our Privacy Statement
 
 We keep our privacy policy under regular review and as a result it may be amended from time to time without notice. As a result we encourage you to review this privacy statement regularly.
 
 * * *
 
-###### Contact
+##### Contact
 
-If you have any questions in relation to our privacy policy please contact:
+If you have any questions in relation to our privacy statement please contact:
 
-**Group Information Governance Manager**  
- **40-44 Coombe Road**  
- **New Malden**  
- **Surrey**  
- **KT3 4QF**
-
-This privacy policy should be read in conjunction with the [Nuffield Health website Terms and Conditions](https://web.archive.org/terms-and-conditions/ "Terms & Conditions").
+Group Information Governance Manager   
+40-44 Coombe Road  
+New Malden  
+Surrey  
+KT3 4QF
