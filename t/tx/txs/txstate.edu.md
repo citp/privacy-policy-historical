@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the txstate.edu privacy policy that was archived on 2012-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121229212420id_/http%3A//www.tr.txstate.edu/privacy-statement.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the txstate.edu privacy policy that was archived on 2013-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130619064853id_/http%3A//www.tr.txstate.edu/privacy-statement.html) for the most accurate reproduction.*
 
 # Privacy Statement : Technology Resources : Texas State University
 
