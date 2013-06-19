@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ipipeline.com privacy policy that was archived on 2012-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121125122329id_/http%3A//ipipeline.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ipipeline.com privacy policy that was archived on 2013-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130619230009id_/http%3A//ipipeline.com/privacy-policy.php) for the most accurate reproduction.*
 
 # iPipeline - integrated solutions for the Insurance & Financial Services Industry
 
@@ -17,7 +17,7 @@ Our internet address is located at [http://www.ipipeline.com](http://www.ipipeli
 
 **Our business address is:  
 iPipeline  
-750 Springdale Drive, Suite 100  
+222 Valley Creek Blvd., Suite 300  
 Exton, PA 19341**
 
 You may contact us by e-mail at [privacy@iPipeline.com](mailto:privacy@iPipeline.com).
