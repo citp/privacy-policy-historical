@@ -1,38 +1,2122 @@
-<!--The following is the downloaded HTML source of the teleflora.com privacy policy that was archived on 2011-12-21.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111221202435id_/http%3A//www.teleflora.com/securityprivacy-061909.asp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the teleflora.com privacy policy that was archived on 2013-06-19.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130619200130id_/http%3A//www.teleflora.com/securityprivacy.asp) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html><head>
-<meta name="ROBOTS" content="NOINDEX, NOFOLLOW">
-<title>Teleflora.com Security and Privacy Policy </title><meta name="description" content="We want you to feel comfortable using the Site, so we have created this Privacy Policy to let you know what information we may collect from you on the Site and how we may use that information.">
+    
+
+    <link rel="stylesheet" type="text/css" href="http://teleflora.edgesuite.net/Images/Vendors/00005557/teleflora-main.css">
+    <!-- Jquery Library version 1.8.3 -->
+    <script id="facebook-jssdk" async="" src="//connect.facebook.net/en_US/all.js"></script><script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jquery/1.8.3/jquery.min.js"></script>
+    <script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jqueryui/1.9.2/jquery-ui.min.js"></script>
+    <link rel="stylesheet" type="text/css" href="http://teleflora.edgesuite.net/Images/vendors/00005557/jquery/ui.all.css">
+    <link rel="stylesheet" type="text/css" href="http://teleflora.edgesuite.net/Images/vendors/00005557/jquery/ui.core.css">
+    <link rel="stylesheet" type="text/css" href="http://teleflora.edgesuite.net/Images/vendors/00005557/jquery/jquery-ui.css">
+
+    <!-- Hover Intent - Delays mouse over effect for top navigation drop down menu -->
+    <script type="text/javascript" src="http://teleflora.edgesuite.net/images/vendors/00005557/hpv2/js/jquery.hoverIntent.minified.js"></script>
+
+    <!-- Jquery carousel - Cycle functionality used for featured tiles on homepage -->
+    <script type="text/javascript" src="http://teleflora.edgesuite.net/images/vendors/00005557/jquery.cycle.all.js"></script>
+
+    <!-- Omniture event tagging for top navigation clicks -->
+    <script type="text/javascript" src="http://teleflora.edgesuite.net/images/vendors/00005557/topnavurl.js"></script>
+
+    <!-- iFrame Submodal - Used for Quick View as well as other sitewide iframe modals -->
+    <script type="text/javascript" src="http://teleflora.edgesuite.net/images/vendors/00005557/submodal/common.js"></script>
+    <script type="text/javascript" src="http://teleflora.edgesuite.net/images/vendors/00005557/submodal/subModal.js"></script>
+    <link rel="stylesheet" type="text/css" href="http://teleflora.edgesuite.net/images/vendors/00005557/submodal/subModal.css">
+
+
+    <!-- Jquery Lean Modal - Used for PDP Product Info and other minimal sitewide modals -->
+    <script type="text/javascript" src="http://teleflora.edgesuite.net/images/vendors/00005557/jquery.leanModal.min.js"></script>
+
+    <!-- Jquery Validate Plug-in -->
+    <script type="text/javascript" src="http://teleflora.edgesuite.net/images/vendors/00005557/jquery.validate.min.js"></script>
+
+    <!-- Jquery Qtip - Used for Product Availability Service Tool Tip -->
+    <script type="text/javascript" src="http://teleflora.edgesuite.net/images/vendors/00005557/jquery.qtip.min.js"></script>
+
+    <!-- Jquery Date picker for calendar functionality -->
+    <script type="text/javascript" src="http://teleflora.edgesuite.net/Images/vendors/00005557/jquery/js/ui.datepicker.teleflora.js"></script>
+    <script type="text/javascript" src="http://teleflora.edgesuite.net/Images/vendors/00005557/jquery/js/datepicker.js"></script>
+
+    <!-- Basic javascript functions -->
+    <script type="text/javascript" src="http://teleflora.edgesuite.net/include/functions.js"></script>
+
+    <!-- Social Media Files -->
+    <!-- Removed http protocol -->
+    <script type="text/javascript" src="//apis.google.com/js/plusone.js"></script>
+    
+    <script language="javascript" type="text/javascript" src="http://teleflora.edgesuite.net/images/vendors/00005557/teleflora-head.js"></script> 
+    
+
+    <script type="text/javascript">
+        var facebook_status = null;
+        var facebook_id = null;
+        var facebook_token = null;
+        var facebook_connected = false;
+        var facebook_force_refresh = false;
+        var facebook_image_src = null;
+        // $j17 was originally used with noConflict, but is no longer necessary.
+        // It is assigned the current value of jQuery
+        var $j17 = jQuery;
+    </script>
+    <meta property="fb:app_id" content="500238873324281">
+    <script type="text/javascript">
+        $j17(document).ready(function() {
+            function facebookReady() {
+                FB.init({
+                    appId: "500238873324281",
+                    status: true, // check login status
+                    cookie: true,
+                    xfbml: true,  // parse XFBML
+                    oauth: true
+                });
+                $j17(document).trigger("facebook:ready");
+            }
+
+            if (window.FB) {
+                facebookReady();
+            } else {
+                window.fbAsyncInit = facebookReady;
+            }
+        });
+
+        $j17(document).live("facebook:ready", function() {
+           // Additional initialization code here
+            FB.getLoginStatus(function(response) {
+                // this try catch is present to prevent the browser from
+                // displaying an error in the status bar of IE.
+                onStatus(response); // once on page load
+                FB.Event.subscribe('auth.statusChange', onStatus); // every status change
+            });
+        });
+    </script>
+
+
+<script type="text/javascript" language="javascript" src="http://teleflora.edgesuite.net/js/json2.js"></script>
+<script type="text/javascript" language="javascript" src="http://teleflora.edgesuite.net/js/moment.min.js"></script>
+<script type="text/javascript" language="javascript" src="http://teleflora.edgesuite.net/js/mustache.min.js"></script>
+<script type="text/javascript" language="javascript" src="http://teleflora.edgesuite.net/js/jquery.cookie.min.js"></script>
+
+<script language="javascript" type="text/javascript">
+    // Global variables that need to be present on
+    // any page that allows facebook login in
+
+    // enum status
+    var fbbdayEnum = { "unknown": 0, "connected": 1, "clicked": 2, "notauthorized": 3 };
+
+    // This variable holds the friends birthday list
+    // Only friends that publish valid birthdays are included
+    var facebook_friendStructArray = null;
+    
+    // This is the new scope variable
+    var facebook_scope = 'email,user_birthday,friends_birthday';
+
+    // This is the currently clicked birthday name.
+    var facebook_birthday = null;
+    
+    // Name of clicked birthday
+    var facebook_birthday_state = Number($.cookie('facebook_birthday_state'));
+
+</script>
+
+<script type="text/javascript">
+// Global code
+
+// JavaScript "struct" factory
+// Usage:
+// var Item = makeStruct("id firstName lastName birthDay picture");
+// var row = new Item(facebook_id, first_name, last_name, birthday, picture);
+// alert(row.birthday); // displays: 11/18/1981
+
+function makeStruct(names) {
+    // Split the string to get element names
+    var names = names.split(' ');
+    // Determine the count
+    var count = names.length;
+    
+    // Create the object constructor
+    function constructor() {
+        for (var i = 0; i < count; i++) {
+        this[names[i]] = arguments[i];
+        }
+    }
+    
+    // Return the constructor function (object ref)
+    return constructor;
+}
+
+// Object logging function
+// Not as useful with IE as it is with Chrome and FireFox.
+window.log = function() {
+    var curdomain = document.domain.toString();
+    if ((curdomain.indexOf('estgweb') != -1) || (curdomain.indexOf('edevweb1') != -1)) {
+    log.history = log.history || [];
+    log.history.push(arguments);
+    if(this.console){
+        console.log( Array.prototype.slice.call(arguments) );
+        }
+    }
+};
+
+function updateUI(resapi) {
+    $('#fblikephoto').attr('src',facebook_image_src);
+    $('#faceBookLikeName').attr('href', "https://www.teleflora.com/Secure/MyAcctLogin.asp?sid=523946264");
+    $('#faceBookLikeName').html( 'Hello ' + resapi.first_name);
+    $('#faceBookLikeName').attr('class', 'top-top-nav');
+    $('#faceBookLink').css('display', 'none');
+    $('#faceBookLike').css('display', 'inline');
+    $('#vendorPhoneDisplay').css('display', 'none');
+    $('.FBStatusPhoto').attr('src', facebook_image_src);
+    $('a:contains("MY ACCOUNT")').hide();
+    $('a:contains("\'s Account")').hide();
+    $('a[onclick="TFlogoutUser()"]').hide();
+}
+
+function UpdateUINoBDays() {
+    FB.api('/' + facebook_id + '?fields=id,first_name,last_name,birthday,email,friends.fields(id,first_name,last_name,birthday,picture)',
+    function(resapi) {
+        log('FB.api response', resapi);
+        var jqxhr = $.ajax({
+            url: "/chgFBStatus.asp",
+            type: "POST",
+            data: "Action=appallowed&status=" + facebook_status
+              + "&Id=" + facebook_id
+              + "&accessToken=" + facebook_token
+              + "&name=" + resapi.first_name + ' ' + resapi.last_name
+              + "&first_name=" + resapi.first_name
+              + "&last_name=" + resapi.last_name
+              + "&email=" + resapi.email,
+            dataType: 'json'
+        })
+    .always(function(jqXHR, textStatus) {
+            log('FB.api always', textStatus, jqXHR);
+            })
+    .done(function(data, textStatus, jqXHR) {
+            log('FB.api done 0', data, textStatus, jqXHR);
+
+            if (data.register === "register") {
+                updatemailingpreference();
+            }
+
+            updateUI(resapi);
+            facebook_connected = true;
+            
+            if ((facebook_status === "connected") && (data.success === "true") && (!data.id || (data.id.length == 0))) {
+                $(document).trigger("facebook:connect");
+            }
+            else if (true == facebook_force_refresh) {
+                facebook_force_refresh = false;
+                window.location.href = window.location.href;
+            }
+        })
+    .fail(function(jqXHR, textStatus, errorThrown) {
+        $.removeCookie('fbbdparsed');
+        $.removeCookie('fbbirthdays');
+        log('Remove cookies', 'fbbdparsed', 'fbbirthdays');
+        log('FB.api fail', jqXHR, textStatus, errorThrown);
+        })
+    });
+}
+
+function UpdateUIwBDays() {
+    FB.api('/' + facebook_id + '?fields=id,first_name,last_name,birthday,email,friends.fields(id,first_name,last_name,birthday,picture)',
+    function(resapi) {
+        log('FB.api response', resapi);
+        var jqxhr = $.ajax({
+            url: "/chgFBStatus.asp",
+            type: "POST",
+            data: "Action=appallowed&status=" + facebook_status
+              + "&Id=" + facebook_id
+              + "&accessToken=" + facebook_token
+              + "&name=" + resapi.first_name + ' ' + resapi.last_name
+              + "&first_name=" + resapi.first_name
+              + "&last_name=" + resapi.last_name
+              + "&email=" + resapi.email,
+            dataType: 'json'
+        })
+    .always(function(jqXHR, textStatus) {
+            log('FB.api always', textStatus, jqXHR);
+            })
+    .done(function(data, textStatus, jqXHR) {
+            log('FB.api done 1', data, textStatus, jqXHR);
+            if (data.register === "register") {
+                updatemailingpreference();
+            }
+            updateUI(resapi);
+            facebook_connected = true;
+            // Check if we have birthdays
+            // Check if the session cookie is defined
+            if (null === $.cookie('fbbirthdays')) {
+                // Calculate date range
+                var now = moment();
+                var nowp90 = now.clone().add('days',90);
+                // Parse friend data
+                log('Return friends list', resapi.friends.data);
+                facebook_friendStructArray = $.map(resapi.friends.data, function(el, i) {
+                    // Convert date using moment
+                    log('Checking el', el);
+                    if (typeof(el.birthday) != 'undefined') {
+                        var eldate = moment(el.birthday);
+                        // Set the year and try again
+                        if (!eldate.isValid())
+                            eldate = moment(el.birthday + '/2001');
+                        if (eldate.month() < now.month())
+                            eldate.year(now.year() + 1);
+                        else
+                            eldate.year(now.year());
+                        if (eldate.isValid()) {
+                            if ((now <= eldate) && (eldate <= nowp90)) {
+                                el.fbbday = eldate.format('MMM Do');
+                                el.datediff = eldate.diff(now, 'days');
+                                log('el added', el);
+                                return el;
+                            }
+                        } else {
+                            log('partial date not valid', el, eldate);
+                        }
+                    } else {
+                        log('el rejected', el);
+                    }
+                });
+                log('Map returned', facebook_friendStructArray);
+
+                // Sort the returned map
+                facebook_friendStructArray = facebook_friendStructArray.sort(function(el1, el2) {
+                    return (el1.datediff - el2.datediff);
+                    }).slice(0,9);
+                log('Top 10 birthdays', facebook_friendStructArray);
+                log('stringified bdays', JSON.stringify(facebook_friendStructArray));
+                // Set parsed flag so we don't do this any more than necessary
+                $.cookie('fbbdparsed','parsed', { path: '/' });
+                log('Set cookie', 'fbbdparsed','parsed');
+                
+                // Turn on JSON, store birthdays in client cookie, turn off JSON
+                $.cookie.json = true;
+                $.cookie('fbbirthdays', facebook_friendStructArray, { path: '/' });
+                log('Set cookie', 'fbbirthdays', facebook_friendStructArray);
+                // How to read birthdays into JavaScript object 
+                // var bdays = $.cookie('fbbirthdays');
+                // Turn off JSON
+                $.cookie.json = false;
+            }
+            
+            updatesnippetdisplay();
+            
+            if ((facebook_status === "connected") && (data.success === "true") && (!data.id || (data.id.length == 0))) {
+                $(document).trigger("facebook:connect");
+            }
+            else if (true == facebook_force_refresh) {
+                facebook_force_refresh = false;
+                window.location.href = window.location.href;
+                }
+        })
+    .fail(function(jqXHR, textStatus, errorThrown) {
+        $.removeCookie('fbbdparsed');
+        $.removeCookie('fbbirthdays');
+        log('Remove cookies', 'fbbdparsed', 'fbbirthdays');
+        log('FB.api fail', jqXHR, textStatus, errorThrown);
+        })
+    });
+}
+
+// function is called if extended permissions for
+// birthdays and friends_birthdays is necessary.
+function needIncreasedPermissions() {
+    log('needIncreasedPermissions');
+    log('Reading cookie fbbdpermdenied', $.cookie('fbbdpermdenied'));
+    if (null === $.cookie('fbbdpermdenied')) {
+        FB.login(function(user) {
+            log('FB.login response', user);
+            if (user.authResponse) {
+                FB.api('/' + user.authResponse.userID + '/permissions?fields=permission',
+                function(resapi) {
+                    if ((typeof(resapi.data[0].user_birthday) == 'undefined') || (typeof(resapi.data[0].friends_birthday) == 'undefined')) {
+                        // Clear out the parsed birthdays
+                        $.removeCookie('fbbirthdays')
+                        // Clear the fb b'day name cookie 
+                        $.removeCookie('facebook_birthday_fname');
+                        // Ask for increased permissions
+                        // User may not allow, so be prepared to handle
+                        log('Saving true to cookie fbbdpermdenied', $.cookie('fbbdpermdenied'));
+                        $.cookie('fbbdpermdenied','true', { path: '/' });
+                        FB.api('/' + facebook_id + '?fields=id,first_name,last_name,birthday,email,friends.fields(id,first_name,last_name,birthday,picture)',
+                        function(resapi) {
+                            log('FB.api response', resapi);
+                            var jqxhr = $.ajax({
+                                url: "/chgFBStatus.asp",
+                                type: "POST",
+                                data: "Action=appallowed&status=" + facebook_status
+                                  + "&Id=" + facebook_id
+                                  + "&accessToken=" + facebook_token
+                                  + "&name=" + resapi.first_name + ' ' + resapi.last_name
+                                  + "&first_name=" + resapi.first_name
+                                  + "&last_name=" + resapi.last_name
+                                  + "&email=" + resapi.email,
+                                dataType: 'json'
+                            })
+                        .always(function(jqXHR, textStatus) {
+                                log('FB.api always', textStatus, jqXHR);
+                                })
+                        .done(function(data, textStatus, jqXHR) {
+                                log('FB.api done 2', data, textStatus, jqXHR);
+
+                                updateUI(resapi);
+                                facebook_connected = true;
+                                
+                                if ((facebook_status === "connected") && (data.success === "true") && (!data.id || (data.id.length == 0))) {
+                                    $(document).trigger("facebook:connect");
+                                }
+                                else if (true == facebook_force_refresh) {
+                                    facebook_force_refresh = false;
+                                    window.location.href = window.location.href;
+                                    }
+                            })
+                        .fail(function(jqXHR, textStatus, errorThrown) {
+                            $.removeCookie('fbbdparsed');
+                            $.removeCookie('fbbirthdays');
+                            log('Remove cookies', 'fbbdparsed', 'fbbirthdays');
+                            log('FB.api fail', jqXHR, textStatus, errorThrown);
+                            })
+                        });
+                    }
+                    else {
+                        justGetTheBirthdays();
+                    }
+                })
+            }
+        }, {scope: 'email,user_birthday,friends_birthday'});
+    } else {
+            FB.api('/' + facebook_id + '?fields=id,first_name,last_name,birthday,email,friends.fields(id,first_name,last_name,birthday,picture)',
+            function(resapi) {
+                log('FB.api response', resapi);
+                var jqxhr = $.ajax({
+                    url: "/chgFBStatus.asp",
+                    type: "POST",
+                    data: "Action=appallowed&status=" + facebook_status
+                      + "&Id=" + facebook_id
+                      + "&accessToken=" + facebook_token
+                      + "&name=" + resapi.first_name + ' ' + resapi.last_name
+                      + "&first_name=" + resapi.first_name
+                      + "&last_name=" + resapi.last_name
+                      + "&email=" + resapi.email,
+                    dataType: 'json'
+                })
+            .always(function(jqXHR, textStatus) {
+                    log('FB.api always', textStatus, jqXHR);
+                    })
+            .done(function(data, textStatus, jqXHR) {
+                    log('FB.api done 3', data, textStatus, jqXHR);
+                    updateUI(resapi);
+                    facebook_connected = true;
+                    
+                    if ((facebook_status === "connected") && (data.success === "true") && (!data.id || (data.id.length == 0))) {
+                        $(document).trigger("facebook:connect");
+                    }
+                    else if (true == facebook_force_refresh) {
+                        facebook_force_refresh = false;
+                        window.location.href = window.location.href;
+                        }
+                })
+            .fail(function(jqXHR, textStatus, errorThrown) {
+                $.removeCookie('fbbdparsed');
+                $.removeCookie('fbbirthdays');
+                log('Remove cookies', 'fbbdparsed', 'fbbirthdays');
+                log('FB.api fail', jqXHR, textStatus, errorThrown);
+                })
+        });
+    }
+}
+// end function needIncreasedPermissions()
+
+function justGetTheBirthdays() {
+    log('justGetTheBirthdays');
+    FB.api('/' + facebook_id + '?fields=id,first_name,last_name,birthday,email,friends.fields(id,first_name,last_name,birthday,picture)',
+    function(resapi) {
+        log('FB.api response', resapi);
+        var jqxhr = $.ajax({
+            url: "/chgFBStatus.asp",
+            type: "POST",
+            data: "Action=appallowed&status=" + facebook_status
+              + "&Id=" + facebook_id
+              + "&accessToken=" + facebook_token
+              + "&name=" + resapi.first_name + ' ' + resapi.last_name
+              + "&first_name=" + resapi.first_name
+              + "&last_name=" + resapi.last_name
+              + "&email=" + resapi.email,
+            dataType: 'json'
+        })
+    .always(function(jqXHR, textStatus) {
+            log('FB.api always', textStatus, jqXHR);
+            })
+    .done(function(data, textStatus, jqXHR) {
+            log('FB.api done 4', data, textStatus, jqXHR);
+            if (data.register === "register") {
+                updatemailingpreference();
+            }
+
+            updateUI(resapi);
+            facebook_connected = true;
+            // Check if we have birthdays
+            // Check if the session cookie is defined
+            if (null === $.cookie('fbbirthdays')) {
+                // Calculate date range
+                var now = moment();
+                var nowp90 = now.clone().add('days',90);
+                // Parse friend data
+                log('Return friends list', resapi.friends.data);
+                facebook_friendStructArray = $.map(resapi.friends.data, function(el, i) {
+                    // Convert date using moment
+                    log('Checking el', el);
+                    if (typeof(el.birthday) != 'undefined') {
+                        var eldate = moment(el.birthday);
+                        // Set the year and try again
+                        if (!eldate.isValid())
+                            eldate = moment(el.birthday + '/2001');
+                        if (eldate.month() < now.month())
+                            eldate.year(now.year() + 1);
+                        else
+                            eldate.year(now.year());
+                        if (eldate.isValid()) {
+                            if ((now <= eldate) && (eldate <= nowp90)) {
+                                el.fbbday = eldate.format('MMM Do');
+                                el.datediff = eldate.diff(now, 'days');
+                                log('el added', el);
+                                return el;
+                            }
+                        } else {
+                            log('partial date not valid', el, eldate);
+                        }
+                    } else {
+                        log('el rejected', el);
+                    }
+                });
+                log('Map returned', facebook_friendStructArray);
+
+                // Sort the returned map
+                facebook_friendStructArray = facebook_friendStructArray.sort(function(el1, el2) {
+                    return (el1.datediff - el2.datediff);
+                    }).slice(0,9);
+                log('Top 10 birthdays', facebook_friendStructArray);
+                log('stringified bdays', JSON.stringify(facebook_friendStructArray));
+                // Set parsed flag so we don't do this any more than necessary
+                $.cookie('fbbdparsed','parsed', { path: '/' });
+                log('Set cookie', 'fbbdparsed','parsed');
+                
+                // Turn on JSON, store birthdays in client cookie, turn off JSON
+                $.cookie.json = true;
+                $.cookie('fbbirthdays', facebook_friendStructArray, { path: '/' });
+                log('Set cookie', 'fbbirthdays', facebook_friendStructArray);
+                // How to read birthdays into JavaScript object 
+                // var bdays = $.cookie('fbbirthdays');
+                // Turn off JSON
+                $.cookie.json = false;
+            }
+            
+            updatesnippetdisplay();
+            
+            if ((facebook_status === "connected") && (data.success === "true") && (!data.id || (data.id.length == 0))) {
+                $(document).trigger("facebook:connect");
+            }
+            else if (true == facebook_force_refresh) {
+                facebook_force_refresh = false;
+                window.location.href = window.location.href;
+                }
+        })
+    .fail(function(jqXHR, textStatus, errorThrown) {
+        $.removeCookie('fbbdparsed');
+        $.removeCookie('fbbirthdays');
+        log('Remove cookies', 'fbbdparsed', 'fbbirthdays');
+        log('FB.api fail', jqXHR, textStatus, errorThrown);
+        })
+    })
+}
+// end function justGetTheBirthdays()
+
+/**
+* This assumes the user is logged in and renders their profile picture,
+* name and a logout link.
+*/
+function showAccountInfo(response) {
+    log('showAccountInfo', response);
+    // check if increased permissions are needed
+    FB.api('/' + response.authResponse.userID + '/permissions?fields=permission',
+    function(resapi) {
+        log('FB.api permissions', resapi);
+        if ((typeof(resapi.data[0].user_birthday) == 'undefined') || (typeof(resapi.data[0].friends_birthday) == 'undefined')) {
+            // Clear out the parsed birthdays
+            $.removeCookie('fbbirthdays')
+            // Clear the fb b'day name cookie 
+            $.removeCookie('facebook_birthday_fname');
+            // Ask for increased permissions
+            // User may not allow, so be prepared to handle
+            needIncreasedPermissions();
+        }
+        else {
+            justGetTheBirthdays();
+        }
+    })
+}
+
+/** This function is called when the facebook log in status is app_not_allowed
+*   the registration screen
+**/
+function showRegistrationDialog(user) {
+    log('showRegistrationDialog', user);
+    $('#faceBookLink').css('display','none');
+    $('#faceBookLike').css('display','none');
+    facebook_connected = false;
+    var oauth = window.open('/popups/OAuthPopup.asp', 'OAuth', 'height=800,width=600,top=0,left=0');
+}
+
+/**
+* This assumes the user is logged out, and renders a login button.
+*/
+function showLoginButton() {
+        $.post("/chgFBStatus.asp", "Action=appnotallowed&status=" + facebook_status
+                                                     + "&Id=" + facebook_id
+                                                     + "&accessToken=''"
+                                                     + "&name=''"
+                                                     + "&first_name=''"
+                                                     + "&last_name=''"
+                                                     + "&email=''"
+                                                    , function(msg)
+                                                    {
+                                                        try {
+                                                            document.getElementById('faceBookLink').style.display = "inline";
+                                                            document.getElementById('faceBookLike').style.display = "none";
+                                                            $('a:contains("MY ACCOUNT")').show();
+                                                            $('a:contains("\'s Account")').show();
+                                                            $('a[onclick="TFlogoutUser()"]').show();
+                                                            facebook_connected = false;
+                                                            updatesnippetdisplay();
+                                                            if (true == facebook_force_refresh){
+                                                                facebook_force_refresh = false;
+                                                                window.location.href = window.location.href;
+                                                                }
+                                                            var suc = msg.success;
+                                                            }
+                                                         catch (e) {
+                                                                facebook_connected = false;
+                                                            }
+                                                    }
+                                                    ,"json");
+
+}
+
+
+/**
+* 
+* This will be called once on page load, and every time the status changes.
+* 
+*/
+function onStatus(response) {
+    log('onStatus', response);
+    // Load the b'day state from cookie
+    // This will be null if cookie not created
+    facebook_birthday_state = Number($.cookie('facebook_birthday_state'));
+    log('reading facebook_birthday_state', $.cookie('facebook_birthday_state'));
+    log('state of facebook_birthday_state comparison', facebook_birthday_state, fbbdayEnum.clicked, (facebook_birthday_state != fbbdayEnum.clicked))
+    if (response.status === 'connected') {
+        // user is logged in to facebook and has authorized Teleflora
+        facebook_status = response.status;
+        facebook_id = response.authResponse.userID;
+        facebook_token = response.authResponse.accessToken;
+        facebook_image_src = "https://graph.facebook.com/" + response.authResponse.userID + "/picture";
+        // Check if a birthday link has been clicked
+        // Do nothiing is someone is selected, we want this to flow
+        // between pages
+        if (facebook_birthday_state != fbbdayEnum.clicked) {
+            // A birthday link was not clicked, so reset the state
+            facebook_birthday_state = fbbdayEnum.connected;
+            $.cookie('facebook_birthday_state', fbbdayEnum.connected, { path: '/' });
+            // Clear the fb b'day name cookie 
+            $.removeCookie('facebook_birthday_fname');
+            // At this point, there is no reason to reset the b'day list
+        }
+        log('onStatus', 'writing facebook_birthday_state', facebook_birthday_state);
+        showAccountInfo(response);
+    } else if (response.status === 'not_authorized') {
+        // user is logged in to facebook and has refused to authorize Teleflora
+        // or user has not visited Teleflora.com
+        facebook_status = response.status;
+        facebook_id = '';
+        facebook_token = '';
+        facebook_image_src = '';
+        // Reset the cookie to 'not authorized' state
+        // This means user is logged in to facebook,
+        // but has not authorized the teleflora app
+        facebook_birthday_state = fbbdayEnum.notauthorized;
+        $.cookie('facebook_birthday_state', facebook_birthday_state, { path: '/' });
+        log('onStatus', 'writing facebook_birthday_state', facebook_birthday_state);
+        showLoginButton(response);
+    } else {
+        // User is not logged in, status unknown
+        facebook_status = response.status;
+        facebook_id = '';
+        facebook_token = '';
+        facebook_image_src = '';
+        // Reset the cookie to 'unknown'
+        // This means user is not logged in to facebook
+        // We do not know any info about the user
+        facebook_birthday_state = fbbdayEnum.unknown;
+        $.cookie('facebook_birthday_state', facebook_birthday_state, { path: '/' });
+        log('onStatus', 'writing facebook_birthday_state', facebook_birthday_state);
+        showLoginButton(response);
+        }
+}
+
+function FBLogout() {
+    FB.getLoginStatus(function(user) {
+    if (user.status == 'connected') {
+        FB.logout(function(response) {
+                var oldLocation = location; 
+                window.location.replace("/include/TFcomlogout.asp?oldLocation=" + oldLocation);
+        });
+    }
+    else {
+                var oldLocation = location; 
+                window.location.replace("/include/TFcomlogout.asp?oldLocation=" + oldLocation);
+    }
+    });
+}
+
+function FBLogin(required_scope) {
+    // Check the logged in status of the user
+    FB.getLoginStatus(function(user) {
+        // If status is connected, user is logged in to facebook
+        // and has already authorized the app in their account
+        if (user.status == 'connected') {
+            window.log('connected', users);
+            // Query FB for required basic user parameters
+            FB.api('/me', function(response) {
+                if (user.authResponse) {
+                    if (response.email != null && user.authResponse.userID != null && user.status == 'connected') {
+                        facebook_image_src = "https://graph.facebook.com/" + user.authResponse.userID + "/picture";
+                        facebook_id = user.authResponse.userID;
+                        facebook_token = user.authResponse.accessToken;
+                    }
+                }
+            });
+        }
+        else {
+            // status is something other than connected
+            // Offer the user a chance to log in
+            FB.login(function(user) {
+                // Check if we have an authResponse object
+                if (user.authResponse) {
+                    window.log('not connected', user);
+                    // Request user basic app parameters
+                    FB.api('/me', function(response) {
+                        window.log('FB.api(/me', response);
+                        if (user.authResponse) {
+                            if (response.email != null && user.authResponse.userID != null && user.status == 'connected') {
+                                facebook_image_src = "https://graph.facebook.com/" + user.authResponse.userID + "/picture";
+                                facebook_id = user.authResponse.userID;
+                                facebook_token = user.authResponse.accessToken;
+                                $('#fblikephoto').attr('src',facebook_image_src);
+                                $('#faceBookLikeName').attr('href', "https://www.teleflora.com/Secure/MyAcctLogin.asp?sid=523946264");
+                                $('#faceBookLikeName').html( 'Hello ' + response.first_name);
+                                $('#faceBookLikeName').attr('class', 'top-top-nav');
+                                $('#faceBookLink').css('display', 'none');
+                                $('#faceBookLike').css('display', 'inline');
+                                $('#vendorPhoneDisplay').css('display', 'none');
+                                $('.FBStatusPhoto').attr('src', facebook_image_src);
+                                $('a:contains("MY ACCOUNT")').hide();
+                                $('a:contains("\'s Account")').hide();
+                                $('a[onclick="TFlogoutUser()"]').hide();
+                                facebook_connected = true;
+                                // showRegistrationDialog(user);
+                            }
+                        }
+                    });
+                }
+            }, { scope: required_scope });
+        }
+    }, true);
+}
+
+function FBConnect(required_scope, redirect_page) {
+    FB.getLoginStatus(function(user) {
+        if (user.status == 'connected') {
+            FB.api('/me', function(response) {
+                if (user.authResponse) {
+                    if (response.email != null && user.authResponse.userID != null && user.status == 'connected') {
+                        facebook_image_src = "https://graph.facebook.com/" + user.authResponse.userID + "/picture";
+                        facebook_id = user.authResponse.userID;
+                        facebook_token = user.authResponse.accessToken;
+                        if (FBConnect.arguments.length > 1) {
+                            window.location.href = redirect_page;
+                        }
+                    }
+                }
+            });
+        }
+        else {
+            FB.login(function(user) {
+                if (user.authResponse) {
+                    // showRegistrationDialog(user);
+                    FB.api('/me', function(response) {
+                        if (user.authResponse) {
+                            if (response.email != null && user.authResponse.userID != null && user.status == 'connected') {
+                                facebook_image_src = "https://graph.facebook.com/" + user.authResponse.userID + "/picture";
+                                facebook_id = user.authResponse.userID;
+                                facebook_token = user.authResponse.accessToken;
+                                if (FBConnect.arguments.length > 1) {
+                                    window.location.href = redirect_page;
+                                }
+                            }
+                        }
+                    });
+                    
+                    setTimeout(function() {
+                        try {
+                            if ($("#fb-window-dialog-mailinglist").dialog( "isOpen" ) !== true) {
+                                FB.getLoginStatus(function(response) {
+                                        facebook_force_refresh = true;
+                                        onStatus(response);
+                                });
+                            }
+                        }
+                        catch (err) {
+                            FB.getLoginStatus(function(response) {
+                                    facebook_force_refresh = true;
+                                    onStatus(response);
+                            });
+                        }
+                    }
+                    , 2000);
+                }
+            }, { scope: required_scope });
+        }
+    }, true);
+}
+
+function fbbdayfriendclicked() {
+
+    log('entering fbbdayfriendclicked()');
+    $('#facebookbirthdays').append('<span id=\"fbbdtitle\" class=\"fbbdtitlecls\">Selected a friend to shop for</span>');
+    
+    var birthday_shopper = {};
+    
+    birthday_shopper.facebook_birthday_fname = $.cookie('facebook_birthday_fname');
+    log('facebook_birthday_fname', birthday_shopper.facebook_birthday_fname);
+    
+    birthday_shopper.facebook_birthday_fbday = $.cookie('facebook_birthday_fbday');
+    log('birthday_shopper.facebook_birthday_fbday', birthday_shopper.facebook_birthday_fbday);
+
+    birthday_shopper.facebook_birthday_avatar = $.cookie('facebook_birthday_avatar');
+    log('birthday_shopper.facebook_birthday_avatar', birthday_shopper.facebook_birthday_avatar);
+
+    var templ = '<div id="fbbdayshopper" class="fbbdayshopper">' +
+                '<span id="fbbdayshoppingtext" class="fbbdayshoppingtextcls">Now shopping for...</span>' +
+                '<img id="shoppingfor" src="{{facebook_birthday_avatar}}" style="width: 20px; height: 20px;" />&nbsp;' +
+                '<span id="fbbdayfname" class="fbbdayfnamecls">{{facebook_birthday_fname}}</span>&nbsp;' +
+                '<span id="fbbdayfbday" class="fbbdayfbdaycls">{{facebook_birthday_fbday}}</span>&nbsp;' +
+                '<br /><a href=# id="fbbdayresetFriend" class="fbbdayresetFriendcls">Change friend</a>' +
+                '</div>';
+    
+    var html = Mustache.to_html(templ, birthday_shopper);
+    $('#facebookbirthdays').html(html);
+    
+    $('#fbbdayresetFriend').on('click', function() {
+        $.cookie('facebook_birthday_state', fbbdayEnum.connected, { path: '/' });
+        $.removeCookie('facebook_birthday_fname');
+        facebook_birthday_state = fbbdayEnum.connected;
+        updatesnippetdisplay()
+    })
+}
+
+function updatesnippetdisplay() {
+
+    log('entering updatesnippetdisplay()');
+    var thisURL = document.URL.toLowerCase();
+    if (thisURL.indexOf("sympathy") !== -1)
+        return;
+    if (thisURL.indexOf("funeral") !== -1)
+        return;
+    var fbdbs = $('#breadcrumb_container').html();
+    if ((typeof fbdbs !== "undefined") && (fbdbs !== undefined) && (null != fbdbs)) {
+        fbdbs = fbdbs.toLowerCase();    
+        if (fbdbs.indexOf("sympathy") !== -1)
+            return;
+        if (fbdbs.indexOf("funeral") !== -1)
+            return;
+    }
+
+    log('updatesnippetdisplay()', 'facebook_birthday_state', facebook_birthday_state);
+    switch (facebook_birthday_state) {
+
+        case fbbdayEnum.connected:
+            var fbbdaytmpl =
+            '<ul id="fbdaylist" class="fbbdaylistcls">' +
+                '{{#.}}<li><a href=# id="{{id}}" class="fbbdaylistitem" fname="{{first_name}}" fbday="{{fbbday}}" picsrc="{{picture.data.url}}"><img id="photo{{id}}" src="{{picture.data.url}}" style="width: 20px; height: 20px;" /><span class="fbbdayfname">{{first_name}}</span><span class="fbbdayspacer">&nbsp;</span><span class="fbbdaydaycls">{{fbbday}}</span></></li>{{/.}}' +
+            '</ul>';
+
+            // Append the title
+            $('#facebookbirthdays').html('<span id=\"fbbdtitle\" class=\"fbbdtitlecls\">List of Birthdays</span>');
+
+            // Read the cookie
+            $.cookie.json = true;
+            var facebook_friendStructArray = $.cookie('fbbirthdays');
+            $.cookie.json = false;
+            log('fbbday facebook_friendStructArray', facebook_friendStructArray);
+
+            var html = Mustache.to_html(fbbdaytmpl, facebook_friendStructArray);
+            log('fbbday mustache html', html);
+
+            $('#facebookbirthdays').append(html);
+
+            // Attach to the click event
+            $('#fbdaylist a').on("click", function() {
+				try {
+				    s.linkTrackVars = 'eVar16';
+				    s.eVar16 = 'Facebook Birthday';
+				    s.tl(this, 'o');
+				}
+				catch (err)
+				{
+				    log('Omniture post error', err);
+				}
+                facebook_birthday_state = fbbdayEnum.clicked;
+                $.cookie('facebook_birthday_state', facebook_birthday_state, { path: '/' });
+                log('fbbday', 'writing facebook_birthday_state', facebook_birthday_state);
+                $.cookie('facebook_birthday_fname', $(this).attr('fname'), { path: '/' });
+                $.cookie('facebook_birthday_fbday', $(this).attr('fbday'), { path: '/' });
+                $.cookie('facebook_birthday_avatar', $(this).attr('picsrc'), { path: '/' });
+                fbbdayfriendclicked();
+            });
+            break;
+        case fbbdayEnum.clicked:
+            fbbdayfriendclicked();
+
+            break;
+        case fbbdayEnum.notauthorized:
+        case fbbdayEnum.unknown:
+        default:
+            // Append snippet title
+            $('#facebookbirthdays').append('<span id="fbbdtitle" class="fbbdtitlecls">Not Connected with Facebook</span>');
+
+            // Append the log in hyperlink and graphic
+            $('#facebookbirthdays').append('<div id="fbbdlink" class="fbnotloggedin">' +
+            '<a href="#" id="fbbdlinkanchor">' +
+
+	        '<img id="fb_login_image_tallnav" src="/Images/connect_light_small_short.gif" alt="Connect">Login with Facebook</a></div>');
+
+            // Attach the click event to a function
+            // Writeing out the onlick in an append does not work correctly
+            $('#fbbdlinkanchor').click(function() {
+                FBLogin("email,user_birthday,friends_birthday"); return false;
+            })
+            break;
+    }
+}
+
+function updatemailingpreference() {
+    var registermail = false;
+    $j17("#fb-window-dialog-mailinglist").dialog({
+        height: 300,
+        width: 500,
+        dialogClass:'cat-headers',
+        resizable: false,
+        modal: true,
+        buttons: {
+            "close and continue >>": function() {
+                registermail = true;
+                $j17(this).dialog("close");
+                var ischecked = "false";
+                
+                if ($('#selectmaillist').is(':checked'))
+                    ischecked = "true";
+                
+                var str = "Action=register&status=" + facebook_status + "&Id=" + facebook_id + "&optin=" + ischecked;
+                log("post string", str);
+                $j17.post("/chgFBStatus.asp", str
+    							             , function(msg) {
+                                                log("return msg", msg);
+                                                var suc = msg.success;
+                                                var strloc = window.location.href;
+                                                log("strloc", strloc);
+                                                if (strloc.toUpperCase().indexOf('MYACCTLOGIN') != -1)
+                                                {
+                                                    window.location.href = window.location.href;
+                                                    }
+								               }, "json");
+            }
+        }
+    });
+}
+
+</script>
+<title>Security and Privacy Policy | Teleflora </title><meta name="description" content="To better protect your privacy, we provide this notice explaining our privacy practices and the choices you can make about the ways in which information about you is collected and used at www.teleflora.com. "><meta name="keywords" content="security privacy policy">
+
 <link rel="shortcut icon" href="http://www.teleflora.com/images/vendors/00005557/favicon.ico" mce_href="http://www.teleflora.com/images/vendors/00005557/favicon.ico">
 
-<link rel="canonical" href="http://www.teleflora.com/securityprivacy-061909.asp">
+<link rel="canonical" href="http://www.teleflora.com/securityprivacy.asp">
 		
 
-	<link rel="stylesheet" type="text/css" href="http://teleflora.edgesuite.net/Images/Vendors/00005557/tables.css">
+    <link rel="stylesheet" type="text/css" href="http://teleflora.edgesuite.net/images/Vendors/00005557/tables.css">
 	
 		<link rel="stylesheet" type="text/css" href="http://teleflora.edgesuite.net/style/tf_hp.css">
 	
-<script type="text/javascript" src="http://teleflora.edgesuite.net/Images/vendors/00005557/optesthead.js"></script>
+    <script type="text/javascript" src="http://teleflora.edgesuite.net/Images/vendors/00005557/optesthead.js"></script>
+    
+	    <link rel="stylesheet" type="text/css" href="http://teleflora.edgesuite.net/style/jquerymodal.css">
+    
 
-</head>
+<script type="text/javascript" src="//web.archive.org/web/20131012045913/http://ajax.googleapis.com/ajax/libs/jquery/1.8.3/jquery.min.js"></script><script type="text/javascript" src="https://www.upsellit.com/launch/teleflora.jsp"></script></head>
+<body>
 
-<body onload="sli_init();ShowReviewNewUserAlertBox();">
+
+    <!-- div is neccessary for appending FB SDK code -->
+    <div id="fb-root"></div>
+    <script type="text/javascript">
+        // load fb code asynchronously 
+        // Per FB docs, best place to locate this code is immediately after the body tag 
+        // Load the SDK Asynchronously
+        (function(d) {
+            var js, id = 'facebook-jssdk', ref = d.getElementsByTagName('script')[0];
+            if (d.getElementById(id)) { return; }
+            js = d.createElement('script'); js.id = id; js.async = true;
+            js.src = "//connect.facebook.net/en_US/all.js";
+            ref.parentNode.insertBefore(js, ref);
+        } (document));
+    </script>
+    <div id="fb-window-dialog-mailinglist" title="join our mailing list" style="display:none">
+        <input type="checkbox" checked="checked" id="selectmaillist">
+        <div id="fb-window-text">Join our mailing list to receive our latest<br>offers and holiday specials.</div>
+        <div id="fb-window-teleflora"></div>
+    </div>
 
 <script type="text/javascript" src="http://teleflora.edgesuite.net/Images/vendors/00005557/opteststart.js"></script>
 
 <div align="center">
 
-<table cellpadding="0" cellspacing="0" border="0" bgcolor="#ffffff" id="Table2">
+<table cellpadding="0" cellspacing="0" border="0" width="100%" bgcolor="#ffffff" id="Table2">
 	
 	<tbody><tr>
-		<td>
-<!----><!--#htmlid=13127#-->
+		<td align="center">
+<!----><script>
+function ReloadCalendardates2(input,callback,firstload){
+// if(!firstload === true && document.getElementById('modal_delivery').length > 0 && document.getElementById('modal_zipcode').length > 0 && $('#module_zipcode').val() != '[enter zip/postal code]') {
+ if($('#module_zipcode').val() !=  $('#modal_zipcode').prop("defaultValue") && $('#module_zipcode').val() != '') {
+    $.ajax({
+        type: 'POST',
+       url: '/ajax/AjaxBuildCalendarDates.asp',
+       data: 'pas=on&zipcode=' + encodeURIComponent(input) ,
+       dataType: 'json',
+         success: function(response) {
+/*			$('#cateogory-findabouquet-errortext').html(''); hideError('cateogory-findabouquet-errortext');
+			if (response.items[0].ScheduledDays.length == 0) {
+			    showPASError('We\'re sorry but there are no florists serving this area, please choose a different zip code.'); bRetarget=true;
+				callback = function(){}
+			}
+*/            $.each(response.items, function(i, item) {
+               if (item.ScheduledDays !='') {
+                    scheduledDays=item.ScheduledDays;
+                }
+               if (item.ClosedDays !='') {
+                   daysClosed=item.ClosedDays;
+              }
+           });
+/*           var dateSelected = document.getElementById('modal_delivery').value;
+           if (dateSelected.length > 0 && dateSelected != '[select date]'){
+               if(!scheduledDays.map(function(e){return (new Date(e[2],e[0]-1,e[1]) - new Date(dateSelected.split('/')[2],dateSelected.split('/')[0]-1,dateSelected.split('/')[1]) == 0)}).reduce(function(p,c){return p||c},false)){
+                   showPASError('We\'re sorry the date chosen is not available, please choose from one of the available dates.'); bRetarget=true;
+               }
+           }
+*/           $('#modal_delivery').datepicker('enable');
+           if(typeof(callback)=='function'){
+              callback();
+           }
+       }
+   });
+  } else {
+    if (document.getElementById('modal_delivery').length === 0){
+       showPASZipError();
+       $('#module_zipcode').val() != '[enter zip/postal code]';
+       firstZipClick = true;
+       enableCalendarShow2.enabled = true;
+       enableCalendarShow2();
+    	}
+     bRetarget=true;
+     return true;
+ }
+}
+function enableCalendarShow2(disableShow){
+   if(enableCalendarShow2.enabled){
+       $('#modal_delivery').datepicker('enable');
+       if(!disableShow && $('#modal_delivery').val() != $('#modal_delivery').prop("defaultValue")) $('#modal_delivery').datepicker('show');
+   }
+   enableCalendarShow2.enabled=true;
+}
+enableCalendarShow2.enabled=true;
+</script>
+<!-- NON SECURE HEADER PNG/IMAGES.SHOPFLOWERS.NET FINAL -->
+<!-- TIMESTAMP: 2013-04-29 09:13PM MT updated footer section1 -->
+<style>
+#ui-datepicker-div, .ui-datepicker-div { z-index:10000 !important; } /* force datepicker infront of modal */
 
-<!-- hello world -->
-<!-- INSIDE NAV -->
+/* -------- HTML5 Reset Stylesheet Start --------  */
+* {
+}
+html, body, div, span, object, iframe, h1, h2, h3, h4, h5, h6, p, blockquote, pre, abbr, address, cite, code, del, dfn, em, img, ins, kbd, q, samp, small, strong, sub, sup, var, b, i, dl, dt, dd, ol, ul, li, fieldset, form, label, legend, /*table, caption, tbody, tfoot, thead, tr, th, td,*/ caption, tbody, tfoot, thead, article, aside, canvas, details, figcaption, figure, footer, header, hgroup, menu, nav, section, summary, time, mark, audio, video {
+	margin:0;
+	padding:0;
+	border:0;
+	outline:0;
+}
+html, body {
+/*    line-height:1; //comment out to fix space problem on the bottom of footer. */
+/*    line-height:0;*/
+}
+article, aside, details, figcaption, figure, footer, header, hgroup, menu, nav, section {
+	display:block;
+}
+nav ul {
+	list-style:none;
+}
+blockquote, q {
+	quotes:none;
+}
+blockquote:before, blockquote:after, q:before, q:after {
+	content:'';
+	content:none;
+}
+a {
+	margin:0;
+	padding:0;
+}
+ins {
+	color:#000;
+	text-decoration:none;
+}
+mark {
+	color:#000;
+	font-style:italic;
+	font-weight:bold;
+}
+del {
+	text-decoration: line-through;
+}
+abbr[title], dfn[title] {
+	border-bottom:1px dotted;
+	cursor:help;
+}
+table {
+	border-collapse:collapse;
+	border-spacing:0;
+}
+hr {
+	display:block;
+	height:1px;
+	border:0;
+	border-top:1px solid #cccccc;
+	margin:1em 0;
+	padding:0;
+}
+input, select {
+	vertical-align:middle;
+}
+/*  Homepage v5 CSS
+==============================================*/
+a {
+	outline: none;
+}
+/* -------- Cleaning float ------ */
+.clearfix:after {
+	content: " "; /* make NEW element */
+	display: block; /* set Block Level */
+	clear: both;
+	height: 0;
+	visibility: hidden;
+}
+/* IE6,7 */
+.clearfix {
+	min-height: 1px;
+}
+/* Mac IE5.x */
+* html .clearfix {
+	height: 1px;/*¥*//*/
+  height: auto;
+  overflow: hidden;
+  /**/
+}
+body {
+	background:#ffffff;
+}
+/* CSS to span 100% */
+div table#Table3, div table#Table2 {
+	width: 100%;
+}
+div table#Table3 td table, div table#Table2 td table {
+	margin:0 auto;
+}
+div table#Table26 {
+	width: 100%;
+}
+/* - End - */
 
 
+
+/*  Header
+==============================================*/
+#header_container {
+	width:100%;
+/*	background-color:#a60721;*/
+	text-align:center;
+}
+#header {
+	width:980px;
+	margin:0 auto;
+	text-align:left;
+}
+#logoarea {
+	float:left;
+	width:355px;
+	font-family:verdana, Helvetica, sans-serif;
+	font-size:11px;
+	color:#fff;
+	margin:0;
+	padding:0;
+	text-transform:none;
+	font-style:italic;
+	font-weight:nomal;
+}
+#logoarea .greenbar {
+	width:160px;
+	height:8px;
+/*	background-color:#ffffff; move to teleflora-main.css */
+}
+#logoarea .TFlogo {
+	display:inline;/*	margin-left: 6px;*/
+}
+.TFlogo-smalltext {
+	position:relative;
+	top:-21px;
+}
+#header_search {
+	float:right;
+/*	width:600px;*/
+	width:450px;
+	position:relative;
+	top:0px;
+	left:0px;
+}
+/*  Header - Language Translation
+==============================================*/
+#translations_container {
+	font-family:verdana, Helvetica, sans-serif;
+	font-size:11px;
+/*	background:transparent; replaced PNG Transparency Color */
+	width: 75px;
+	text-align:left;
+/*	height: 65px;*/
+	margin-left: 0px;
+	padding-left:10px;
+	margin-top: 10px;
+	position:absolute;
+	top: 0px;
+	right: 250px;
+	z-index:1;
+	zoom:1;
+}
+.translations_container_shadow {
+	-moz-box-shadow: 3px 3px 5px 0 rgba(0, 0, 0, 0.2);
+	-webkit-box-shadow: 3px 3px 5px 0 rgba(0, 0, 0, 0.2);
+	box-shadow: 3px 3px 5px 0 rgba(0, 0, 0, 0.2);
+	zoom: 1;
+ filter: progid:DXImageTransform.Microsoft.Shadow(Color=#666666, Strength=3, Direction=90) progid:DXImageTransform.Microsoft.Shadow(Color=#666666, Strength=3, Direction=135);
+}
+#translations1 {
+	display: none;
+	width: 70px;
+	text-align:left;
+}
+#translations2 {
+	display: none;
+	width: 70px;
+	text-align:left;
+}
+#translations3 {
+	display: none;
+	width: 70px;
+	text-align:left;
+}
+
+.languageMenuWrapper {
+	height:16px;
+	padding-top:0px;
+	margin:0px;
+	width:70px;
+}
+.languageMenu {
+	font-family:Verdana, Arial, sans-serif;
+	font-size:8pt;
+	height:16px;
+	position:relative;
+	width:70px;
+	z-index:4;
+}
+.languageMenu ul {
+	list-style-type:none;
+	margin:0;
+	padding:5px 0px;
+	width:70px;
+}
+.languageMenu li {
+	float:left;
+	width:70px;
+}
+.languageMenu a, .languageMenu a:visited {
+	background:transparent;
+	background-position:50px 5px;
+	border:none;
+	color:#ffffff;
+	display: inline-block;
+	font-size:1em;
+	height:13px;
+	line-height:13px;
+	padding-left:0px;
+	text-decoration:none;
+	width:55px;
+	text-transform:uppercase;
+}
+.languageMenu ul ul {
+	height:0;
+	left:0;
+	position:relative;
+	top:0px;
+/*	visibility:hidden; */
+	display:none;
+	width:60px;
+}
+.languageMenu ul ul a, .languageMenu ul ul a:visited {
+	background:transparent;
+	color:#ffffff;
+	font-weight:normal;
+	height:auto;
+	line-height:1.1em;
+	padding:3px 0px;
+	width:60px;
+}
+.languageMenu table {
+	position:absolute;
+	top:0;
+	left:0;
+	border-collapse:collapse;
+}
+.languageMenu a:hover, .languageMenu ul a:hover {
+	color:#ffffff;
+	background:transparent;
+	background-position:50px 5px;
+/*	visibility:visible;*/
+	text-decoration:underline;
+}
+.languageMenu a:hover, .languageMenu ul ul a:hover {
+	color:#ffffff;
+	background:transparent;
+/*	visibility:visible;*/
+	text-decoration:underline;
+}
+.languageMenu:hover > a, .languageMenu ul ul:hover > a {
+	color:#ffffff;
+	background:transparent;
+	text-decoration:underline;
+}
+/*
+.languageMenu ul li:hover ul, .languageMenu ul a:hover ul {
+	visibility:visible;
+}
+*/
+
+/*  Header - SLI Search
+==============================================*/
+#SLISearchArea {
+	position:relative;
+	padding:10px 0;
+	float:right;
+	text-align:right;
+	width:265px;
+	text-transform:none;
+	font-style:normal;
+}
+.search {
+	font-family: Verdana, Arial, sans-serif;
+	font-size:11px;
+	color:#fff;
+	padding-right:5px;
+}
+.SLISearchForm {
+	font-family: Verdana, Arial, sans-serif;
+	color: #000;
+	/*	background-color:#ff7c02;*/
+	background-color:#ffffff;
+	/*	font-weight:900;*/
+	font-size: 10px;
+	width:140px;
+	height: 25px;
+	line-height: 25px;
+	border: 0px;
+	padding: 0px 5px 0px 0px;
+	margin: 0px;
+}
+.search_btn {
+	position:relative;
+	vertical-align: middle;
+	left:0px;
+}
+/*  Header - Login
+==============================================*/
+#LoginArea {
+	position:relative;
+	float:right;
+	width:600px;
+	text-align:right;
+	font-family: Verdana, Arial, sans-serif;
+	color: #fff;
+	font-size:11px;
+	text-transform:uppercase;
+	border:0px solid green;
+	top:10px;
+}
+#LoginArea span, #LoginArea td, #LoginArea a {
+	position:relative;
+	font-family: Verdana, Arial, sans-serif;
+	color: #fff;
+	font-size: 11px;
+	text-transform:uppercase;
+}
+#LoginArea a:hover {
+	text-decoration:underline;
+	color: #fff;
+}
+.vendorphone {
+	margin-right:10px;
+}
+.myaccont {
+	margin-right:10px;
+}
+.signout {
+	margin-right:0px;
+}
+.login {
+	margin-right:0px;
+}
+a.signin {
+	color: #fff;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 10px;
+	font-weight: 100;
+	text-transform: uppercase;
+	text-decoration:none;
+	margin-right:10px;
+}
+a.signin:hover {
+	color: #fff;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 10px;
+	font-weight: 100;
+	text-transform: uppercase;
+	text-decoration:underline;
+}
+/*  TopNav - Updated 040212
+==============================================*/
+#topnav_container {
+	width:100%;
+	height:45px;
+	text-align:center;
+	background-color:#f1f1f1;
+	-moz-box-shadow: 0 5px 5px 0 rgba(0, 0, 0, 0.3);
+	-webkit-box-shadow: 0 5px 5px 0 rgba(0, 0, 0, 0.3);
+	box-shadow: 0 5px 5px 0 rgba(0, 0, 0, 0.3);
+	zoom: 1;
+ filter: progid:DXImageTransform.Microsoft.Shadow(Color=#cccccc, Strength=3, Direction=135);
+}
+#topnav_inner {
+	position:relative;
+	width: 980px;
+	text-align:center;
+	margin:0 auto;
+	left: 0px;
+	z-index:22;
+}
+/* -------- Top Navigation ------ */
+.container {
+	width: 810px;
+	padding: 0;
+	margin: 0 auto;
+
+}
+ul#topnav {
+	margin: 0;
+	padding: 0;
+	float:left;
+	width: 100%;
+	list-style: none;
+	font-size: 1.1em;
+}
+
+ul#topnav li {
+	float: left;
+	margin: 0;
+	position: relative;
+
+	text-align:left;
+}
+ul#topnav li a {
+	float: left;
+	font-size:20px;
+	font-family: 'Cardo', "Times New Roman", Times, serif;
+	color:#000;
+	text-decoration:none;
+	letter-spacing:0px;
+	height:45px;
+	line-height:45px;
+}
+.first-level {
+	padding-left:15px;
+	padding-right:25px;
+	position: relative;
+	z-index: 33;
+}
+/*-----move to teleflroa-main.css
+.first-level-hover {
+	background: #ffffff;
+	color: #a60721 !important;
+	text-indent:4.3mm !important;
+}
+*/
+.first-level-hover {
+	text-indent:4.3mm !important;
+}
+ul#topnav li .sub {
+	position: absolute;
+	top: 45px;
+	left: 0px;/*IMPORTANT OF IE	*/
+	background-color:#ffffff;
+	padding-bottom:5px;
+	padding-top:10px;
+	z-index:22;
+	display: none;
+	text-align:left;
+}
+ul#topnav li .sub ul {
+	list-style: none;
+	margin: 0;
+	padding: 0;
+	width: 200px;
+	float: left;
+	background-color:#ffffff;
+}
+ul#topnav .sub ul li {
+	width: 100%;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:11px;
+	color:#000;
+	background-color:#ffffff;
+}
+ul#topnav .sub ul li a {
+	float: none;
+	text-indent: 0; /*--Reset text indent--*/
+	height: auto;
+	margin-left:5px;
+	margin-right:5px;
+	padding-left:11px;
+	display: block;
+	text-decoration: none;
+	color: #000;
+	font-size: 12px;
+	font-family:Arial, Helvetica, sans-serif;
+	letter-spacing:0px;
+	background-color:#ffffff;
+	line-height:21px;
+}
+/*-----move to teleflroa-main.css
+ul#topnav .sub ul li a:hover {
+	color: #fff;
+	background-color:#a60721;
+}
+*/
+ul#topnav li .sub {
+	-moz-box-shadow: 0 0 10px rgba(0, 0, 0, 0.7);
+	-webkit-box-shadow: 0 0 10px rgba(0, 0, 0, 0.7);
+	box-shadow: 0 0 10px rgba(0, 0, 0, 0.7);
+}
+.subheader {
+	background: transparent;
+	color: #000000;
+	cursor: pointer;
+	display: none;
+	font-family: 'Cardo', "Times New Roman", Times, serif;
+	font-size: 20px;
+	height: 45px;
+	left: 0px;
+	letter-spacing: 0;
+	line-height: 45px;
+	position: absolute;
+	text-decoration: none;
+	text-indent: 23px;
+	top: 0px;
+	-moz-box-shadow:0 5px 10px rgba(0, 0, 0, 0.7);
+	-webkit-box-shadow:0 5px 10px rgba(0, 0, 0, 0.7);
+	box-shadow:0 5px 10px rgba(0, 0, 0, 0.7);
+	width: 100%;
+}
+ul#topnav li .subheader a {
+	color: #000000;
+	font-family: 'Cardo', "Times New Roman", Times, serif;
+	font-size: 20px;
+	letter-spacing: 0;
+	text-decoration: none;
+	text-indent: 15px;
+}
+a.hp-topnav-dealoftheday {
+	padding-left:15px;
+	padding-right:25px;
+}
+/* move to teleflora-main.css 
+a.hp-topnav-dealoftheday:hover {
+	color: #a60721 !important;
+}
+*/
+.hp-arrowdown {
+	border-left: 5px solid transparent;
+	border-top: 5px solid #ffffff;
+	border-right: 5px solid transparent;
+	height: 2px;
+	margin-left: 5px;
+	width: 0;
+	display:inline-block;
+}
+#breadcrumb_container {
+	margin: 0;
+	padding: 15px 0 5px 0;
+	text-align: left;
+	width: 980px;
+	color: #444444;
+	font-size: 7pt;
+	font-weight: normal;
+	font-family: Verdana, Geneva, sans-serif
+}
+#breadcrumb_container a, #breadcrumb_container div a, #breadcrumb_container h1 {
+	color: #444444;
+	font-size: 7pt;
+	font-weight: normal;
+ font-family: Verdana, Geneva, sans-serif  text-align: left;
+	display:inline;
+}
+#breadcrumb_container > div {
+	float: none !important;	
+	display: inline-block;	
+}
+.shopcart-VIEW2 {
+	margin-top: 5px;
+	text-align:left;
+}
+.pbdiv{
+margin-top:0px !important;
+width: 100%;
+}
+@media screen and (-webkit-min-device-pixel-ratio:0) { 
+.first-level-hover {
+	text-indent:4.2mm !important;
+}
+}
+</style>
+<!--STARTS HERE-->
+<style>
+/* --------------------------------------------
+CSS for converting image-buttons to css-buttons 
+----------------------------------------------- */
+.cssbutton {
+	background: #000000;
+	border: 0 none;
+	display: block;
+	font-size: 16px !important;
+	font-family:Verdana, Geneva, sans-serif !important;
+	font-weight: normal !important;
+	padding: 4px 0 6px 0 !important;
+	-webkit-background-clip: padding-box;
+	-webkit-border-radius: 17px;
+	-moz-border-radius: 17px;
+	border-radius: 17px;
+	-moz-box-shadow: 2px 2px 5px 0px #888;
+	-webkit-box-shadow: 2px 2px 5px 0px #888;
+	box-shadow: 2px 2px 5px 0px #888;
+	letter-spacing: 0.1mm;
+	color:#ffffff !important;
+	width: 210px;
+	text-decoration:none !important;
+	text-align:center !important;
+	cursor:pointer;
+	/*behavior: url(//images.shopflowers.net/Images/vendors/00005557/cssbuttons/PIE.htc);*/
+	position:relative;
+	z-index:1;
+	zoom:1;
+}
+/* move to teleflora-main.css
+.cssbutton:hover {
+	background: #a60721 !important;
+}
+.cssbutton-nohover {
+	background: #a60721 !important;
+}
+*/
+.cssbutton-small1 {
+	width: 100px !important;
+}
+.cssbutton-small2 {
+	width: 75px !important;
+/*	background: #a60721 !important; move to teleflora-main.css */
+}
+/* move to teleflora-main.css
+.cssbutton-small2:hover {
+	background: #a60721 !important;
+}
+*/
+.cssbutton-small3 {
+	width: 75px !important;
+	background: #000000 !important;
+}
+.cssbutton-small3:hover {
+	background: #000000 !important;
+}
+.cssbutton-large1 {
+	width: 255px !important;
+}
+.MyAcctNewsletter-TFUpdateButton2 {
+    float: right;
+}
+.MyAcctNewsLetterUnsubscribe-TFUpdateButton2 {
+	float:right;
+}
+#faceBookLink{
+	margin-right: 15px;	
+}
+#fb_login_image_tallnav, #fblikephoto{
+	vertical-align:middle;
+	margin-right: 5px;
+}
+#category-row2 {
+	display:none;
+}
+#category-section1-leftnav {
+	font-family: Verdana, Geneva, sans-serif;
+	font-size: 8pt;
+	color: #444444;
+	padding-bottom: 10px;	
+}
+#category-section1-leftnav li.left-nav {
+	list-style:none;
+	padding: 8px 0;	
+	margin:0;	
+}
+
+.left-nav {list-style:none;}
+
+#sub-nav{margin-top:25px}
+
+.left-subnav {
+	list-style:none;
+	font-family: Verdana, Geneva, sans-serif;
+	font-size: 8pt;
+	color: #444444;
+	padding: 3px 0;
+	margin:0;
+}	
+.pdp-cssbutton {
+  background: #a60721;
+  border: 0 none;
+  display: block;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 14px;
+  font-weight: normal;
+  padding: 3px 0 3px 0;
+  -webkit-background-clip: padding-box;
+  -webkit-border-radius: 17px;
+  -moz-border-radius: 17px;
+  border-radius: 17px;
+  -moz-box-shadow: 2px 2px 5px 0px #888;
+  -webkit-box-shadow: 2px 2px 5px 0px #888;
+  box-shadow: 2px 2px 5px 0px #888;
+  letter-spacing: 0.1mm;
+  color:#ffffff;
+  width: 135px;
+  text-decoration:none;
+  text-align:center;
+  cursor:pointer;
+  /*behavior: url(//images.shopflowers.net/Images/vendors/00005557/cssbuttons/PIE.htc);*/
+  position:relative;
+  z-index:1;
+  zoom:1;
+}
+.ul-fix2 {margin-left:-183px;}
+.shopcart-VIEW9, .shopcart-VIEW3{text-align:left;}
+</style>
+<!--ENDS HERE-->
+
+<!--[if IE]>
+<style>
+/*  Price
+==============================================*/
+table {
+	border-collapse:separate;
+}
+</style>
+<![endif]-->
+<!--[if IE 8]>
+<style>
+
+ul#topnav li .sub {	
+	top: 42px;
+	left: -3px;
+ 	filter: progid:DXImageTransform.Microsoft.Shadow(color='#A0A0A0', Direction=90, Strength=3) progid:DXImageTransform.Microsoft.Shadow(color='#A0A0A0', Direction=180, Strength=3) progid:DXImageTransform.Microsoft.Shadow(color='#A0A0A0', Direction=270, Strength=3) progid:DXImageTransform.Microsoft.Shadow(color='#A0A0A0', Direction=360, Strength=3);
+}
+.first-level-hover{
+	left: -3px;
+	top: -6px;
+    text-indent:4.1mm !important;
+	filter: progid:DXImageTransform.Microsoft.Shadow(color='#A0A0A0', Direction=0, Strength=3)  progid:DXImageTransform.Microsoft.Shadow(color='#A0A0A0', Direction=90, Strength=3)  progid:DXImageTransform.Microsoft.Shadow(color='#A0A0A0', Direction=270, Strength=3) progid:DXImageTransform.Microsoft.Shadow(color='#A0A0A0', Direction=360, Strength=3);
+}
+</style>
+ <![endif]-->
+<!--[if IE 7]>
+ <style>
+ ul#topnav li .sub {	
+	top: 42px;
+	left: 3px;
+ 	filter: progid:DXImageTransform.Microsoft.Shadow(color='#A0A0A0', Direction=90, Strength=3) progid:DXImageTransform.Microsoft.Shadow(color='#A0A0A0', Direction=180, Strength=3) progid:DXImageTransform.Microsoft.Shadow(color='#A0A0A0', Direction=270, Strength=3) progid:DXImageTransform.Microsoft.Shadow(color='#A0A0A0', Direction=360, Strength=3);
+}
+ .first-level-hover{
+ 	left: 3px;
+	top: -6px;
+    text-indent:10px !important;
+	filter: progid:DXImageTransform.Microsoft.Shadow(color='#A0A0A0', Direction=0, Strength=3)  progid:DXImageTransform.Microsoft.Shadow(color='#A0A0A0', Direction=90, Strength=3)  progid:DXImageTransform.Microsoft.Shadow(color='#A0A0A0', Direction=270, Strength=3) progid:DXImageTransform.Microsoft.Shadow(color='#A0A0A0', Direction=360, Strength=3);    
+ }
+
+
+
+
+
+ </style>
+ <![endif]-->
+<style>
+/*  Footer - Section No.1
+==============================================*/
+#insidefooter_wrapper {
+	background-color: transparent;
+	margin-top: 30px;
+}
+#insidefooter_section1 {
+	background: transparent;
+	width:980px;
+	padding: 20px 0;
+	margin:0 auto;
+	border-top: 1px solid #DCDCDC;
+}
+#insidefooter_section1 .section1tile {
+	float: left;
+	text-align:left;
+}
+#insidefooter_section1 #tile1,#insidefooter_section1 #tile2,#insidefooter_section1 #tile3 {
+	border-right: 1px solid #DCDCDC;
+	width:25%;
+}
+#insidefooter_section1 #tile1,#insidefooter_section1 #tile2,#insidefooter_section1 #tile3,#insidefooter_section1 #tile4 {
+	height:82px;
+}
+#insidefooter_section1 #tile1{
+	margin-left:20px;
+}
+#insidefooter_section1 #tile2 img{
+	margin-left:19px;
+}
+#insidefooter_section1 #tile4 img{
+	margin-left:11px;
+}
+
+
+/*  Footer Section No.2
+==============================================*/
+#insidefooter_section2 {
+	background: transparent;
+	width:980px;
+	margin:0 auto;
+	padding:35px 0;
+	font-family: 'Open Sans', Arial, Helvetica, sans-serif;
+	color:#444444;
+	text-decoration:none;
+	border-top: 4px double #DCDCDC;	
+	border-bottom: 4px double #DCDCDC;
+}
+#insidefooter_section2 a, #insidefooter_section2 li {
+	color: #818080;
+	font-family: 'Open Sans', Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	text-decoration: none;
+}
+#insidefooter_section2 a:hover {
+	text-decoration: underline;
+}
+#insidefooter_section2 .fmenu {
+	float:left;
+	padding:0px 75px 0px 15px;
+	text-align:left;
+}
+#insidefooter_section2 #fmenu4{
+	padding-right: 0px !important;
+}
+#insidefooter_section2 #fmenu1, #insidefooter_section2 #fmenu2, #insidefooter_section2 #fmenu3{
+	border-right: 1px solid #dcdcdc;
+}
+#insidefooter_section2 .fmenu .title {
+	font-family: 'Open Sans', Arial, Helvetica, sans-serif;
+	font-size:11px;
+	margin-bottom:5px;
+	margin-left:0px;
+	font-weight:bold;
+}
+
+.fmenu ul li {
+	background: #ffffff;
+	list-style-type: none;
+	margin-left: 0px;
+	padding: 3px 0px;
+}
+.fmenu a {
+	color: #818080;
+	font-family: 'Open Sans', Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	text-decoration: none;
+}
+/*  Footer - Copyright
+==============================================*/
+#tfcopyright {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	color:#b0b0b0;
+	font-size:10px;
+	width:980px;
+	background-color:#fff;
+	margin:0 auto;
+	text-align:left;
+	padding: 15px 0;
+}
+/* iPad [portrait + landscape] */
+@media only screen and (min-device-width: 768px) and (max-device-width: 1024px) {
+	.pdp-cssbutton { -webkit-appearance:none; -webkit-border-radius:0; border-radius:0;}
+}
+
+/* iPhone [portrait + landscape] */
+@media only screen and (max-device-width: 480px) {
+	.pdp-cssbutton { -webkit-appearance:none; -webkit-border-radius:0; border-radius:0;}
+}
+</style>
+<!-- .........DO NOT DELETE......  -->
+<div align="center">
+<!--.........DO NOT DELETE......  -->
+<div id="promo_container" style="width:100%"> 
+  
+   
+</div>
+
+<!-- Header -->
+<div id="header_container" class="pngPrimaryColor">
+  <div id="header" class="clearfix">
+    <div id="logoarea">
+      <div class="greenbar pngFourthColor"></div>
+       <div class="TFlogo"><a href="/" title="Teleflora Logo" onclick="OmnitureTrack(this.href, 'Home', 'v5_TFLogo', 'v5_TFLogo'); return false;"><img width="148" height="73" border="0" alt="Teleflora" src="//images.shopflowers.net/images/vendors/00005557/flowers/HP_Logo.png" class="PNGColor_HP_Logo, pngPrimaryColor"></a> <span class="TFlogo-smalltext">Fresh flowers hand-delivered daily.</span></div>
+    </div>    
+    <div id="header_search"> 
+<div id="translations_container">
+      <div id="translations1">
+        <div class="languageMenuWrapper">
+          <div class="languageMenu">
+            <ul>
+              <li> <a id="tbw_uxTopChooseLanguage_OnLink" href="javascript:OneLink('teleflora.com');" title="English">English</a><span class="hp-arrowdown"></span>
+                <ul>
+                  <li><a href="javascript:OneLink('es.teleflora.com');" title="Español">Español</a></li>
+                  <li><a href="javascript:OneLink('fr.teleflora.com');" title="Français">Français</a></li>
+                </ul>
+              </li>
+            </ul>
+          </div>
+        </div>
+      </div>
+      <div id="translations2">
+        <div class="languageMenuWrapper">
+          <div class="languageMenu">
+            <ul>
+              <li><a id="tbw_uxTopChooseLanguage_OnLink" href="javascript:OneLink('es.teleflora.com');" title="Español">Español</a><span class="hp-arrowdown arrowcolor1"></span>
+                <ul>
+                  <li><a href="javascript:OneLink('fr.teleflora.com');" title="Français">Français</a></li>
+                  <li><a href="javascript:OneLink('teleflora.com');" title="English">English</a></li>
+                </ul>
+              </li>
+            </ul>
+          </div>
+        </div>
+      </div>
+      <div id="translations3">
+        <div class="languageMenuWrapper">
+          <div class="languageMenu">
+            <ul>
+              <li><a id="tbw_uxTopChooseLanguage_OnLink" href="javascript:OneLink('fr.teleflora.com');" title="Français">Français</a><span class="hp-arrowdown arrowcolor1"></span>
+                <ul>
+                  <li><a href="javascript:OneLink('teleflora.com');" title="English">English</a></li>
+                  <li><a href="javascript:OneLink('es.teleflora.com');" title="Español">Español</a></li>
+                </ul>
+              </li>
+            </ul>
+          </div>
+        </div>
+      </div>
+    </div>    
+      <!--Search -->      
+      <div id="SLISearchArea"> 
+        <!--<form name="searchform" action="http://flowers.teleflora.com/search" method="get" ID="Form1">-->
+        <form name="searchform" action="http://flowers.teleflora.com/search" method="get" id="Form1">
+          <input type="hidden" name="fm" value="home" id="Hidden1">
+          <span class="search">SEARCH</span> <span>
+          <input type="text" name="w" class="SLISearchForm" id="sli_search_1" autocomplete="off" value="">
+          <input type="hidden" name="promotioncode" value="" id="Hidden2">
+          </span><span><input type="image" src="//images.shopflowers.net/images/vendors/00005557/flowers/HP_Search.png" alt="" id="Image1" name="Image1" border="0" class="search_btn PNGColor_HP_Search, pngSecondaryColor"></span>
+          <input type="hidden" name="asug" id="Hidden3">
+        </form>
+      </div>
+      <!-- END OF Search --> 
+      
+      <!--Login -->
+      <div id="LoginArea">
+        <div id="faceBookLike" style="display: none;"> <img id="fblikephoto" alt="" style="width: 20px; height: 20px;"> <a id="faceBookLikeName" href="#"></a> | <a id="faceBookLogOut" href="#" onclick="FBLogout(); return false;">Sign Out</a> | </div>
+        <span id="faceBookLink" style="display:none"> <a href="#" onclick="FBLogin ('email'); return false;"> <img id="fb_login_image_tallnav" src="/images/connect_light_small_short.gif" alt="Connect">Login
+        with Facebook</a> </span> <span id="vendorPhoneDisplay" class="vendorphone space" style="display: inline; color:#ffffff;">800-835-3356</span> 
+         
+        <span class="login"><a href="https://www.teleflora.com/secure/myacctlogin.asp" class="signin">MY ACCOUNT</a></span> 
+         
+        <a href="http://www.teleflora.com/basket.asp">My CART(0)</a> </div>
+      <!--END OF Login --> 
+    </div>
+  </div>
+</div>
+<!-- end of header_container -->
+
+<div id="topnav_container">
+  <div id="topnav_inner" class="clearfix">
+    <!--#htmlid=18270#--> 
+    <!-- TIMESTAMP: 2013-06-16 12:00am BP -->
+<!-- TELEFLORA TOPNAV SNIPPET Global --> 
+
+<ul id="topnav">
+
+  <li><a class="hp-topnav-dealoftheday" href="http://www.teleflora.com/flowers/bouquet/florists-choice-bouquet-316088p.asp" title="" onclick="OmnitureTrack(this.href, 'deal of the day', 'TopNav', 'TopNav'); return false">deal of the day</a></li>
+
+  <li><a class="first-level hp-topnav-birthday" href="http://www.teleflora.com/birthday/birthday-flowers-all-64062_64063c.asp" title="" onclick="OmnitureTrack(this.href, 'birthday', 'TopNav', 'TopNav'); return false">+ birthday</a>
+    <div class="subheader"></div>
+    <div class="sub">
+      <ul>
+        <li><a href="http://www.teleflora.com/birthday/birthday-flowers-all-64062_64063c.asp" onclick="OmnitureTrack(this.href, 'birthday', 'TopNav', 'TopNav'); return false">Birthday for Everyone</a></li>
+        <li><a href="http://www.teleflora.com/birthday/birthday-flowers-for-her-64062_106809c.asp" onclick="OmnitureTrack(this.href, 'birthday', 'TopNav', 'TopNav'); return false">Birthday for Her</a></li>
+        <li><a href="http://www.teleflora.com/birthday/birthday-flowers-for-him-64062_106808c.asp" onclick="OmnitureTrack(this.href, 'birthday', 'TopNav', 'TopNav'); return false">Birthday for Him</a></li>
+        <li><a href="http://www.teleflora.com/birthday/birthday-flowers-for-kids-64062_107305c.asp" onclick="OmnitureTrack(this.href, 'birthday', 'TopNav', 'TopNav'); return false">Birthday for Kids</a></li>
+        <li><a href="http://www.teleflora.com/lavish-collection.asp" onclick="OmnitureTrack(this.href, 'birthday', 'TopNav', 'TopNav'); return false">The Lavish Collection</a></li>
+      </ul>
+    </div>
+  </li>
+
+  <li><a class="first-level hp-topnav-occasions" href="http://www.teleflora.com/flower-arrangements/flower-bouquet-arrangements.asp" title="" onclick="OmnitureTrack(this.href, 'Occasions', 'TopNav', 'TopNav'); return false">+ occasions</a>
+    <div class="subheader"></div>
+    <div class="sub">
+      <ul>     
+        
+        <li><a href="http://www.teleflora.com/flowers/anniversary-flowers-64065_64066c.asp" onclick="OmnitureTrack(this.href, 'Occasions', 'TopNav', 'TopNav'); return false">Anniversary</a></li>
+        <li><a href="http://www.teleflora.com/birthday/birthday-flowers-all-64062_64063c.asp" onclick="OmnitureTrack(this.href, 'Occasions', 'TopNav', 'TopNav'); return false">Birthday</a></li>
+        <li><a href="http://www.teleflora.com/flowers/congratulations-flowers-plants-6296_6297c.asp" onclick="OmnitureTrack(this.href, 'Occasions', 'TopNav', 'TopNav'); return false">Congratulations!</a></li>
+        <li><a href="http://www.teleflora.com/corporate-gifts/flowers-plants-gift-baskets-6292_6293c.asp" onclick="OmnitureTrack(this.href, 'Occasions', 'TopNav', 'TopNav'); return false">Corporate Gifts</a></li>
+        <li><a href="http://www.teleflora.com/sympathy-flowers.asp" onclick="OmnitureTrack(this.href, 'Occasions', 'TopNav', 'TopNav'); return false">Funeral &amp; Sympathy</a></li>
+        <li><a href="http://www.teleflora.com/flowers/get-well-flowers-98390_98391c.asp" onclick="OmnitureTrack(this.href, 'Occasions', 'TopNav', 'TopNav'); return false">Get Well Soon</a></li>
+        <li><a href="http://www.teleflora.com/graduation-bouquets/flowers-plants-gift-baskets-79960_79961c.asp" onclick="OmnitureTrack(this.href, 'Occasions', 'TopNav', 'TopNav'); return false">Graduation</a></li>
+        <li><a href="http://www.teleflora.com/housewarming-gifts/new-home-flowers-148326_148328c.asp" onclick="OmnitureTrack(this.href, 'Occasions', 'TopNav', 'TopNav'); return false">Housewarming Gifts</a></li>
+        <li><a href="http://www.teleflora.com/love-romance/flowers-plants-gift-baskets-92119_92120c.asp" onclick="OmnitureTrack(this.href, 'Occasions', 'TopNav', 'TopNav'); return false">Love &amp; Romance</a></li>
+        <li><a href="http://www.teleflora.com/flowers/new-baby-flowers-97560_97561c.asp" onclick="OmnitureTrack(this.href, 'Occasions', 'TopNav', 'TopNav'); return false">Newborn Baby</a></li>
+        <!-- <li><a href="http://www.teleflora.com/lavish-collection.asp" onClick="OmnitureTrack(this.href, 'Occasions', 'TopNav', 'TopNav'); return false">The Lavish Boutique</a></li>-->
+        <li><a href="http://www.teleflora.com/teacher-gift/holiday-gifts-teachers-151779_151780c.asp" onclick="OmnitureTrack(this.href, 'Occasions', 'TopNav', 'TopNav'); return false">Teacher Gifts</a></li>
+        <li><a href="http://www.teleflora.com/flowers/i-am-sorry-flowers-plants-72594_72597c.asp" onclick="OmnitureTrack(this.href, 'Occasions', 'TopNav', 'TopNav'); return false">Say "I'm Sorry"</a></li>
+        <li><a href="http://www.teleflora.com/flowers/thinking-of-you-flowers-72634_72637c.asp" onclick="OmnitureTrack(this.href, 'Occasions', 'TopNav', 'TopNav'); return false">Say "I'm Thinking of You"</a></li>
+        <li><a href="http://www.teleflora.com/flowers/thank-you-flowers-plants-gift-baskets-6326_6334c.asp" onclick="OmnitureTrack(this.href, 'Occasions', 'TopNav', 'TopNav'); return false">Say "Thank You"</a></li>
+        <li><a href="http://www.teleflora.com/flowers/just-because-flowers-105200_105201c.asp" onclick="OmnitureTrack(this.href, 'Occasions', 'TopNav', 'TopNav'); return false">Send "Just Because"</a></li>
+      </ul>
+    </div>
+  </li>
+  <li><a class="first-level hp-topnav-flowers" href="http://www.teleflora.com/online-flowers/send-flowers-online.asp" title="" onclick="OmnitureTrack(this.href, 'Flowers', 'TopNav', 'TopNav'); return false">+ flowers</a>
+    <div class="subheader"></div>
+    <div class="sub">
+      <ul>
+        <li><a href="http://www.teleflora.com/flowers/bouquet/florists-choice-bouquet-316088p.asp" onclick="OmnitureTrack(this.href, 'Flowers', 'TopNav', 'TopNav'); return false">Deal of the Day</a></li>
+        <li><a href="http://www.teleflora.com/floral-arrangements/bestselling-bouquets-plants-62450_62451c.asp" onclick="OmnitureTrack(this.href, 'Flowers', 'TopNav', 'TopNav'); return false">Bestsellers</a></li>
+        <li><a href="http://www.teleflora.com/fresh-flowers/summer-bouquets/summer-flower-98539_98540c.asp" onclick="OmnitureTrack(this.href, 'Flowers', 'TopNav', 'TopNav'); return false">Summer Flowers</a></li>
+        <li><a href="http://www.teleflora.com/flower-by-colors/flowers-by-color-arrangements.asp" onclick="OmnitureTrack(this.href, 'Flowers', 'TopNav', 'TopNav'); return false">by Color</a></li>
+        <li><a href="http://www.teleflora.com/online-flowers/send-flowers-online.asp" onclick="OmnitureTrack(this.href, 'Flowers', 'TopNav', 'TopNav'); return false">by Type of Flower</a></li>
+        <li><a href="http://www.teleflora.com/flower-gifts/send-flower-gift.asp" onclick="OmnitureTrack(this.href, 'Flowers', 'TopNav', 'TopNav'); return false">by Recipient</a></li>
+        <li><a href="http://www.teleflora.com/floral-arrangements/flowers-in-a-gift-13485_13486c.asp" onclick="OmnitureTrack(this.href, 'Flowers', 'TopNav', 'TopNav'); return false">2-in-1 Teleflora Exclusives</a></li>
+        <li><a href="http://www.teleflora.com/floral-arrangements/new-flowers-plants-baskets-72502_72503c.asp" onclick="OmnitureTrack(this.href, 'Flowers', 'TopNav', 'TopNav'); return false">What's New</a></li>
+        <li><a href="http://www.teleflora.com/flowers/zen-flower-arrangements-99001_99002c.asp" onclick="OmnitureTrack(this.href, 'Flowers', 'TopNav', 'TopNav'); return false">Zen Flowers</a></li>
+        <li><a href="http://www.teleflora.com/international-flowers/international-flower-delivery.asp" onclick="OmnitureTrack(this.href, 'Flowers', 'TopNav', 'TopNav'); return false">International Delivery</a></li>
+        <li><a href="http://www.teleflora.com/escape-at-home-bouquets.asp" onclick="OmnitureTrack(this.href, 'Flowers', 'TopNav', 'TopNav'); return false">World of Flowers</a></li>
+      </ul>
+    </div>
+  </li>
+  <li><a class="first-level hp-topnav-plantsandgifts" href="http://www.teleflora.com/best-gifts-baskets-plants.asp" title="" onclick="OmnitureTrack(this.href, 'Plants and Gifts', 'TopNav', 'TopNav'); return false">+ plants &amp; gifts</a>
+    <div class="subheader"></div>
+    <div class="sub">
+      <ul>
+        <li><a href="http://www.teleflora.com/plants/plants-collection-509_807c.asp" onclick="OmnitureTrack(this.href, 'Plants and Gifts', 'TopNav', 'TopNav'); return false">Bestselling Plants</a></li>
+        <li><a href="http://www.teleflora.com/plants/plants-collection/flowering-plants-509_108975c.asp" onclick="OmnitureTrack(this.href, 'Plants and Gifts', 'TopNav', 'TopNav'); return false">Flowering Plants</a></li>
+        <li><a href="http://www.teleflora.com/gift-baskets/gift-basket-collection-10980_10981c.asp" onclick="OmnitureTrack(this.href, 'Plants and Gifts', 'TopNav', 'TopNav'); return false">Gift Baskets</a></li>
+        <li><a href="http://www.teleflora.com/lavish-collection.asp" onclick="OmnitureTrack(this.href, 'Flowers', 'TopNav', 'TopNav'); return false">The Lavish Collection</a></li>
+        <li><a href="http://www.teleflora.com/plants/plants-collection/green-plants-509_114406c.asp" onclick="OmnitureTrack(this.href, 'Plants and Gifts', 'TopNav', 'TopNav'); return false">Green Plants</a></li>
+        <li><a href="http://www.teleflora.com/plants/orchid-and-tropical-plants-509_114391c.asp" onclick="OmnitureTrack(this.href, 'Plants and Gifts', 'TopNav', 'TopNav'); return false">Orchids &amp; Tropical Plants</a></li>
+        <li><a href="http://www.teleflora.com/funeral-flowers/sympathy-plants-and-gift-baskets-87_117380c.asp" onclick="OmnitureTrack(this.href, 'Plants and Gifts', 'TopNav', 'TopNav'); return false">Sympathy Plants</a></li>
+        <li><a href="http://www.teleflora.com/floral-arrangements/flowers-in-a-gift-13485_13486c.asp" onclick="OmnitureTrack(this.href, 'Plants and Gifts', 'TopNav', 'TopNav'); return false">Teleflora Exclusives</a></li>
+        <li><a href="http://www.teleflora.com/flowers/zen-flower-arrangements-99001_99002c.asp" onclick="OmnitureTrack(this.href, 'Plants and Gifts', 'TopNav', 'TopNav'); return false">Zen Collection</a></li>
+        <li> <a href="http://www.teleflora.com/flower-ideas/floral-arrangement-ideas.asp" title="Flower Ideas" onclick="OmnitureTrack(this.href, 'Flower Guides', 'TopNav', 'TopNav'); return false"> Gift Guides</a>
+      </li></ul>
+    </div>
+  </li>
+  <li><a class="first-level hp-topnav-price" href="http://www.teleflora.com/discount-flowers/discount-flowers-online.asp" title="" onclick="OmnitureTrack(this.href, 'Price', 'TopNav', 'TopNav'); return false">+ price</a>
+    <div class="subheader"></div>
+    <div class="sub">
+      <ul>
+        <li><a href="http://www.teleflora.com/floral-arrangements/bouquets-under-40-83528_83529c.asp" onclick="OmnitureTrack(this.href, 'Price', 'TopNav', 'TopNav'); return false">Flowers Under $40</a></li>
+        <li><a href="http://www.teleflora.com/inexpensive-flowers/inexpensive-funeral-flowers-125432_125433c.asp" onclick="OmnitureTrack(this.href, 'Price', 'TopNav', 'TopNav'); return false">Flowers $40 - $60</a></li>
+        <li><a href="http://www.teleflora.com/floral-arrangements/bouquets-60-to-80-83528_83734c.asp" onclick="OmnitureTrack(this.href, 'Price', 'TopNav', 'TopNav'); return false">Flowers $60 - $80</a></li>
+        <li><a href="http://www.teleflora.com/designer-flowers/luxury-flowers-83528_150594c.asp" onclick="OmnitureTrack(this.href, 'Price', 'TopNav', 'TopNav'); return false">Flowers $80+</a></li>
+        <li><a href="http://www.teleflora.com/lavish-collection.asp" onclick="OmnitureTrack(this.href, 'Price', 'TopNav', 'TopNav'); return false">The Lavish Collection</a></li>
+      </ul>
+    </div>
+  </li>
+</ul>
+
+    
+  </div>
+</div>
+<div class="clearfix"><img src="/images/vendors/00005557/spacer.gif" width="1" height="1" style="display:block;" border="0"></div>
+<div id="breadcrumb_container" class="clearfix"></div>
+
+<!--<script type="text/javascript" src="//images.shopflowers.net/images/vendors/00005557/1.4.1-jquery.min.js"></script> 
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js" type="text/javascript"></script>
+<script type="text/javascript" src="//images.shopflowers.net/images/vendors/00005557/jquery.cycle.all.js"></script> 
+<script type="text/javascript" src="//images.shopflowers.net/Images/vendors/00005557/jquery/superfish.js"></script> 
+<script type="text/javascript" src="//images.shopflowers.net/Images/vendors/00005557/jquery/supersubs.js"></script> 
+<script type="text/javascript" src="//images.shopflowers.net/Images/vendors/00005557/topnavurl.js"></script> 
+<script type="text/javascript" src="//images.shopflowers.net/Images/vendors/00005557/jquery.validate.js"></script> 
+<script type="text/javascript" src="//images.shopflowers.net/images/vendors/00005557/hpv2/js/jquery.hoverIntent.minified.js"></script> 
+<script type="text/javascript" src="//images.shopflowers.net/images/vendors/00005557/hpv2/js/jquery-ui.js" ></script> 
+<link rel="stylesheet" type="text/css" href="//images.shopflowers.net/images/vendors/00005557/submodal/subModal.css" />
+<script type="text/javascript" src="//images.shopflowers.net/images/vendors/00005557/submodal/common.js"></script> 
+<script type="text/javascript" src="//images.shopflowers.net/images/vendors/00005557/submodal/subModal.js"></script> 
+<script type="text/javascript" src="//images.shopflowers.net/images/vendors/00005557/public_smo_scripts.js"></script> -->
 <script type="text/javascript">
 // This function is for a page-level content sensitive implementation
 function OneLink(sHostname)
@@ -40,308 +2124,393 @@ function OneLink(sHostname)
 document.location.href = document.location.protocol + "//" + sHostname +
 document.location.pathname + document.location.search;
 }
+</script> 
+<script>
+ $(document).ready(function() {
+   var current_url = document.location.href;
+   var spanish_url = "es.teleflora.com";
+   var french_url = "fr.teleflora.com";
+   var english_url = "teleflora.com";
+  
+   if(current_url.indexOf(spanish_url) >= 0){
 
+		$("#translations1").css("display","none");
+		$("#translations2").css("display","block");
+		$("#translations3").css("display","none");				
+   } else if(current_url.indexOf(french_url) >= 0){
+		$("#translations1").css("display","none");
+		$("#translations2").css("display","none");
+		$("#translations3").css("display","block");					   
+   } else {
+		$("#translations1").css("display","block");
+		$("#translations2").css("display","none");
+		$("#translations3").css("display","none");					   
+   }
+   
+	$("#translations_container").hover(function(){
+		$("#translations_container").addClass("pngSecondaryColor");
+		$("#translations_container").addClass("translations_container_shadow");
+		$(".languageMenu ul ul").css('display', 'block');
+		
+    },function(){
+		$("#translations_container").removeClass("pngSecondaryColor");
+		$("#translations_container").removeClass("translations_container_shadow"); 
+		$(".languageMenu ul ul").css('display', 'none');
+    });
+	
+ });
+</script> 
+<script language="JavaScript"> 
+$(document).ready(function(){
+
+	function megaHoverOver(){
+	 	var currenthover1 = $(this);
+		var newtext1 = currenthover1.find(".first-level").text();
+		newtext1 = newtext1.replace(/[\+]/g,"");
+		currenthover1.find(".first-level").html(newtext1);	
+		currenthover1.find(".first-level").addClass("first-level-hover");		
+		currenthover1.find(".subheader").show();
+		currenthover1.find(".sub").show();	
+
+		//Calculate width of all ul's
+		(function($) { 
+			jQuery.fn.calcSubWidth = function() {
+				rowWidth = 0;
+				//Calculate row
+				$(this).find("ul").each(function() {					
+					rowWidth += $(this).width(); 
+				});	
+			};
+		})(jQuery); 
+		
+		if ( $(this).find(".row").length > 0 ) { //If row exists...
+			var biggestRow = 0;	
+			//Calculate each row
+			$(this).find(".row").each(function() {							   
+				$(this).calcSubWidth();
+				//Find biggest row
+				if(rowWidth > biggestRow) {
+					biggestRow = rowWidth;
+				}
+			});
+			//Set width
+
+
+			$(this).find(".sub").css({'width' :biggestRow});
+			$(this).find(".row:last").css({'margin':'0'});
+			
+		} else { //If row does not exist...
+			
+			$(this).calcSubWidth();
+			//Set Width
+			$(this).find(".sub").css({'width' : rowWidth});
+		}		
+	}
+
+	function megaHoverOut(){ 
+		var currenthover2 = $(this);
+		currenthover2.find(".first-level").removeClass("first-level-hover");	
+		var oldtext = currenthover2.find(".first-level").text();
+		var newtext2 = "+ " + oldtext;
+		currenthover2.find(".first-level").html(newtext2);
+		currenthover2.find(".sub").hide();
+		currenthover2.find(".subheader").hide();			
+		$(".hp-topnav-dealoftheday").removeClass("first-level-hover");	
+	}
+	var config = {    
+		 sensitivity: 2, // number = sensitivity threshold (must be 1 or higher)    
+		 interval: 50, // number = milliseconds for onMouseOver polling interval    
+		 over: megaHoverOver, // function = onMouseOver callback (REQUIRED)    
+		 timeout: 100, // number = milliseconds delay before onMouseOut    
+		 out: megaHoverOut // function = onMouseOut callback (REQUIRED)    
+	};
+	$("ul#topnav li").hoverIntent(config);
+});
 </script>
+<script language="JavaScript"> 
+// -------------
+// Win Flower Form Validation
+// -------------
+function Email_Validator(theForm)
 
-
-
-
-<!--dcocodepartner-->
-<style> 
-
-
-#translations {float:left; width:110px; margin-left:320px; margin-top:3px;}
-
-.sameday div{float:left; position:relative; left:415px; color: #a20004; font-weight:600;}
-
-li, ul {text-align:left;}
-
-.pbdiv {
-font-family:verdana;
-font-size:9pt;
-width:100%;
+{
+var validRegExp = /^[a-zA-Z]+([_\.-]?[a-zA-Z0-9]+)*@[a-zA-Z0-9]+([\.-]?[a-zA-Z0-9]+)*(\.[a-zA-Z]{2,4})+$/;
+var checkStr;
+var checkConfirmStr;
+	if (theForm.Email.value == "")
+	{
+	alert("Please enter a value for the \"Email\" field.");
+	theForm.Email.focus();
+	return (false);
+	} else {
+		checkStr = theForm.Email.value;
+		if(checkStr.search(validRegExp) != -1){
+			var dataString = 'Email='+ theForm.Email.value + '&check=' + theForm.check.value + '&optinsource=' + theForm.optinsource.value + '&nomatch=' + theForm.nomatch.value;  
+			$.ajax({  
+			  type: "POST",  
+			  url: "http://www.teleflora.com/popups/winflowers.asp",  
+			  data: dataString,  
+			  success: function() {  			 
+				showPopWin('http://www.teleflora.com/email-sign-up.asp?banner=suppress', 450, 450, null);
+			  }  
+			});  			
+			return (false);
+		}	else { 
+		alert("Please enter a valid e-mail address!");
+		theForm.Email.focus();
+		return false; 
+		}
+	}
 }
-.style1 {font-size:8pt;}
 
-.pr-snippet-social-bar {display:none;}
+// -------------
+// Customer Service Popup Win
+// -------------
+var newwindow;
+var newurl;
+var test=window.document.location;
+function poptastic(url)
+{
+ newurl=url+test;
+ newwindow=window.open(newurl,'name','height=1,width=1');
+ if (window.focus) {newwindow.focus()}
+}
 
+</script> 
+<script language="JavaScript"> 
+$(document).ready(function(){
+	jQuery.fn.exists = function() { return this.length>0; };
+	var	basketwidth = 760;
+	var regularwidth = 980;
+	if ($("form[name=basketitem]").exists()) {
+		$("#breadcrumb_container").css({'width' : basketwidth});
+	} else {
+		$("#breadcrumb_container").css({'width' : regularwidth});
+	}
+});
+</script>
+<!--/* START CODE: Find a Bouquet Section for Static Cateogry page */-->
+<style>
+.category-color1 {
+	color: #373737 !important;
+	border-color:#e6e6e6 !important;
+}
+.category-color2 {
+	color: #f402a8 !important;
+	border-color:#f402a8 !important;
+}
+#category-wrapper {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	width: 980px;
+	margin: 0 auto;
+	text-align: left;
+}
+#category-column11, #category-column12, #category-column21, #category-column22 {
+	float:left;
+}
+#category-column11 {
+	width: 220px;
+}
+#category-column12 {
+	width: 760px;
 
-
-a.signin {font-family: Verdana, Arial, Helvetica, sans-serif; 
-font-size: 10px; font-weight:100; color:#444; text-transform:uppercase;}
-
-.signin {font-family: Verdana, Arial, Helvetica, sans-serif; 
-font-size: 10px; font-weight:100; color:#444;  text-transform:uppercase;}
-
-li.top-top-nav {font-family: Verdana, Arial, Helvetica, sans-serif;
-font-size: 10px; color: #444; 
-margin-left: 0px; text-decoration: none; font-weight:100;  text-transform:uppercase;}
-
-.top-top-nav {font-family: Verdana, Arial, Helvetica, sans-serif; 
-font-size: 10px; color: #444; 
-margin-left: 0px; text-decoration: none; font-weight:100;  text-transform:uppercase;}
-
-a.top-top-nav {font-family: Verdana, Arial, Helvetica, sans-serif; 
-font-size: 10px; color: #444; margin-left: 0px; text-decoration: none; font-weight:100;  
-text-transform:uppercase;}
-
-.checkout{position:relative; top:10px; }
-
-div.items {}
-
-ul.guides-drop {margin-top:0px; margin-left: 0px; position:relative; z-index:50; left:40px; top:2px;}
-
-div.number {padding-bottom: 0px; width:570px;  
-margin-top:0px; 
-font-family: Verdana, Arial, Helvetica, sans-serif; 
-font-size: 10px; color: #000; position:relative; left:20px; top:-2px; 
-text-decoration: none; font-weight:100;}
-
-.header {font-family: Verdana, Arial, Helvetica, sans-serif;}
-
-
-.sf-menu a {
-	border-left:	0px solid #CFDEFF;
-	border-top:		0px solid #CFDEFF;
-	padding-left: 	5px;
-	padding-right: 	0px;
-	padding-top: 	.25em;
-	padding-bottom: .25em;
-	text-decoration:none;
-	font-family: Verdana, Arial, Helvetica, sans-serif;
+}
+#category-column21, #category-column22 {
+	width: 489px;
+	border-top: 1px solid #dddddd;
+	padding-top: 10px;
+	border-bottom: 1px solid #dddddd;
+	padding-bottom: 10px;
+}
+#category-column21 {
+	border-right: 1px solid #dddddd;
+}
+#category-column22 {
+	border-right: 1px solid #ffffff;
+}
+#category-section1-header {
+	border-bottom: 1px solid #dddddd;
+	padding-bottom: 10px;
+}
+#category-section2 {
+	padding: 10px 0;
+	border-bottom: 1px solid #dddddd;
+	font-size: 12px;
+}
+#category-sort {
+	display:inline-block;
+}
+.sortby {
+	width: 175px !important;
+	float:none !important;
 	font-size:12px;
-	font-weight:100;
-	color:#000000;
+	text-align:center;
+	border:1px solid #ccc;
+	border-top:none;
+	margin-top:-10px;
+	background-color:#eee;
+	text-transform:lowercase;   
+}
+#cateogory-findabouquet {
+	display:inline-block;
+}
+.cat-recentlyviewed {
+	text-align: center;
+}
+.prod-recentlyviewed-item {
+	margin-left:0px;
+}
+#category-section3 {
+	padding: 20px 0;
+}
+#category-section0-pagination, #category-section4-pagination {
+	padding: 10px 0;
+}
+.category-viewall {
+	width: 60%;
+	text-align:left;	
+	display: inline-block;
+}
+.category-pages {
+	width: 39%;
+}
+.viewall{
+	float:left !important;
+}
+.cateogory-findabouquet-help {
+	cursor: pointer;
+	background: #ffffff;
+}
+#category-sort {
+	float:right !important;
+	line-height: 30px;
+}
+#cateogory-findabouquet {
+	float:left !important;
+	line-height: 30px;	
+}
+ .cateogory-findabouquet-help{
+	cursor: pointer;
+	background: #ffffff;
+ }
+ .cateogory-findabouquet-zipcode input {
+	 font-family:Arial, Helvetica, sans-serif;
+	 font-size: 12px;
+	 color: #000000;
+	 padding:3px;
+	 height: 22px;
+ }
+ .cateogory-findabouquet-calendar input {
+	 font-family:Arial, Helvetica, sans-serif;
+	 font-size: 12px;
+	 color: #000000;
+	 padding:3px;
+	 height: 22px;	 	 
+ }
+ #category-findabouquet-resetbutton {
+	 display: none;
+ }
+ #cateogory-findabouquet-errortext{
+	width: 550px;
+	line-height: 1.25; 
+ }
+ #cateogory-findabouquet-errortext, #cateogory-findabouquet-errortext a { 
+ 	font-size:12px;
+}
+ .item {
+	display:inline-block; 
+	width:175px;
+	margin-top:30px;
+	*display: inline;
+	zoom: 1;
+	vertical-align: bottom;
 }
 
-.sf-menu a, .sf-menu a:visited {
-color:#000;
+.category-product {
+	width: 175px;
+	position:relative;
 }
 
-a.guides-anchor {margin-top:-19px;}
+#CHOICE {position:relative;}
 
-ul.guides-drop-block {margin-top:0px; margin-left:0px;}
-
-
-</style>
-<!--[if IE]>
-<style>
-ul.guides-drop {margin-top:0px; margin-left: 0px; position:relative; z-index:50; left:40px; top:4px;}
-
-.guides-anchor {margin-top:-21px;}
-	</style>
-<![endif]-->
-<script type="text/javascript" src="http://teleflora.edgesuite.net/Images/vendors/00005557/jquery/jquery-1.2.6.min.js"></script>
-<script type="text/javascript" src="http://teleflora.edgesuite.net/Images/vendors/00005557/jquery/supersubs.js"></script>
-<script type="text/javascript" src="http://teleflora.edgesuite.net/Images/vendors/00005557/jquery/superfish.js"></script>
-<script type="text/javascript" src="http://teleflora.edgesuite.net/Images/vendors/00005557/topnavurl.js"></script>
-<style>
-		#sli_search_1 {width:80px;}
-		</style>
-<!--[if IE]>
-<style>
-
-
-
-.sf-menu li.sfHover ul {
-	left:			0;
-	top:			22px; /* match top ul list item height */
-	z-index:		99; }
-	</style>
-<![endif]-->
-
-<div align="center" id="topnav">
-<div align="center">
-  
-  <div align="right">
-    
-  </div>
-  
-  <table width="980" cellspacing="0" cellpadding="0" border="0" id="Table1" style="padding-top:5px;">
-    <form name="searchform" action="http://flowers.teleflora.com/search" method="get" id="Form1"></form>
-    
-    <input type="hidden" name="fm" value="home" id="Hidden1">
-    <input type="hidden" name="promotioncode" value="" id="Hidden2">
-    <tbody><tr>
-      <td width="271" valign="top" rowspan="2" align="left"><div><a href="http://www.teleflora.com/" onmouseover="closeAll(1);" title="Teleflora Logo"><img src="http://teleflora.edgesuite.net/images/vendors/00005557/top-nav-logo-oct0311.jpg" alt="Teleflora fresh flowers hand-delivered daily" border="0" style="padding-bottom: 3px;"></a></div>
-        <div style="font-family:verdana, Helvetica, sans-serif; font-size:10pt; color:#4C7322; margin-left:5px;  float:left; margin-top:0; margin-bottom:0; padding:0; float:left; width:px;">Fresh flowers hand-delivered daily</div></td>
-      <td align="right">
-      
-  
-       
-      
+.category-product-dod {
+        position:absolute; 
+        top:-305px;
+	width: 175px;
+}	
+#cateogory-findabouquet-errortext.error, #cateogory-findabouquet-errortext.error a { color:#ff0000; font-size:12px; }
+#category_findabouquet_zipcode_label { color:transparent; width:25px; font-size:20px; position:absolute; background-image:url(http://teleflora.edgesuite.net/images/vendors/00005557/buttons/1-pinkcircle.jpg); background-repeat:no-repeat; text-indent:-9999px;}
+#dlvry_date2_1_label { color:transparent; width:25px; font-size:20px; position:absolute; background-image:url(http://teleflora.edgesuite.net/images/vendors/00005557/buttons/2-pinkcircle.jpg); background-repeat:no-repeat; text-indent:-9999px; }
+#category_findabouquet_zipcode { margin-left:30px; margin-right:20px; }
+#dlvry_date2_1 { margin-left:30px; }
+.category-productdescription{
+	min-height: 81px;	
+}
+.catproduct-startingat{
+	font-size: 12px;	
+}
+#ProductSearch{
+	display: block;
+}
+ </style>
+ <script type="text/javascript">
+$(document).ready(function()
+{
+	var tooltiphtml = "<div style='width:300px; text-align: left; font-size: 10px; font-family: Arial, Helvetica, sans-serif; color: #000000;'><span style='display: inline-block; width: 30px; text-align: left; vertical-align:top;'><img src='//images.shopflowers.net/images/vendors/00005557/category-popupinfo-20121018.png' border='0' /></span><span style='display: inline-block; width: 250px; padding-left: 10px;'> Availability of our hand arranged bouquets varies across US and Canada, please enter this information so that we can personalize your shopping experience.</span></div>"
+	
+	var gobuttonhtml = "<div style='width:300px; text-align: left; font-size: 10px; font-family: Arial, Helvetica, sans-serif; color: #000000;'><span style='display: inline-block; width: 30px; text-align: left; vertical-align:top;'><img src='//images.shopflowers.net/images/vendors/00005557/category-popupinfo-20121018.png' border='0' /></span><span style='display: inline-block; width: 250px; padding-left: 10px;'>We're using this information to provide you a list of bouquets available in your area.</span></div>"
+	
+   $('#findabouquethelp').qtip({
+      position: {
+         corner: {
+            target: 'topRight',
+            tooltip: 'bottomLeft'
+         }
+      },
+	  content: tooltiphtml,
+      style: {
+         name: 'grey',
+         padding: '7px 13px',
+         width: {
+            max: 320,
+            min: 0
+         },
+         tip: true
+      }
+   });
    
-      
-      
-      <div align="right" class="number" style="position:relative; left:0px;">
-      
-       <a href="javascript:OneLink('es.teleflora.com');">Español</a>
-   
-   <span class="translation-spacer">|</span>
-   <a href="javascript:OneLink('fr.teleflora.com');">Français</a>&nbsp;&nbsp;&nbsp;&nbsp;
-          <!-- <img src="http://teleflora.edgesuite.net/images/vendors/00005557/md-same-day.jpg" align="absbottom" />   -->
-          <span class="space">
-          800-835-3356
-          </span> &nbsp;&nbsp;&nbsp;
-          
-          <span class="signin">
-          <a href="https://www.teleflora.com/secure/myacctlogin.asp" class="signin">MY ACCOUNT</a>
-          </span>&nbsp;&nbsp;&nbsp;
-          <!--<a href="https://www.teleflora.com/secure/myacctbilling.asp?regtype=1"><img src="http://teleflora.edgesuite.net/images/vendors/00005557/email-pict.jpg" width="14" height="10" border="0"> sign-up</a>-->
-          
-          <a href="http://www.teleflora.com/basket.asp" style="font-family: 'Trebuchet MS', Trebuchet, Arial, Helvetica, Tahoma, sans-serif; font-size: 10px; color: #000; margin-left: 0px; text-decoration: none; font-weight:100;  text-transform:uppercase; text-decoration:none; text-transform:uppercase;" class="top-top-nav"><img src="http://teleflora.edgesuite.net/images/vendors/00005557/shopping-cart.gif" border="0" width="22" height="21">
-          0
-          items </a> </div></td>
-    </tr>
-    <tr>
-    <td align="right" valign="top"><div class="sameday"><a href="javascript:void(0);" onclick="window.open ('/popups/custom.asp?popupid=8305', 'mywindow','menubar=1,resizable=1,width=350,height=250');"><div>SAME–DAY DELIVERY ON ALL BOUQUETS.</div><div><img src="http://teleflora.edgesuite.net/images/vendors/00005557/same-day-mini.jpg" width="32" height="17" border="0"></div></a></div></td>
-      <!-- <td align="right" valign="top"><div style="padding-top:10px;"><a href="javascript:void(0);" onClick="window.open ('/popups/custom.asp?popupid=8305', 'mywindow','menubar=1,resizable=1,width=350,height=250');" ><img src="http://teleflora.edgesuite.net/images/vendors/00005557/oct0311-same-day.jpg" width="280" height="17" border="0"/></a></div></td>-->
-      <!--<td><a href="http://www.findaflorist.com" Target="faf"><img src="http://teleflora.edgesuite.net/images/vendors/00005557/nav_faf.gif" width="60" height="10" alt="find a florist" border="0"></a></td>-->
-    </tr>
-    <tr>
-      <td colspan="3" align="right"></td>
-    </tr>
-  </tbody></table>
-  <table width="980" id="Table2">
-    <tbody><tr>
-      <td width="970" align="left"><div style="height:1px;" align="left"><img src="http://teleflora.edgesuite.net/images/vendors/00005557/spacer.gif" width="550" height="1" alt="flowers spacer"></div>
-        <ul class="sf-menu" style=" position:relative; z-index:50;">
-
-
-
-
- <li class="current1" style="margin-left:5px;"><a href="http://www.teleflora.com/christmas/wreaths-trees-flowers-baskets-85517_85518c.asp" class="header" title="Christmas Flowers" style="color:#444;" onclick="OmnitureTrack(this.href, 'christmas', 'InsideTopNav', 'InsideTopNav'); return false">CHRISTMAS&nbsp;<img src="http://teleflora.edgesuite.net/images/vendors/00005557/gray-down-arrow.gif" border="0" width="6" height="10"> </a>
-            <ul class="border">
-              <li class="color"><a href="http://www.teleflora.com/christmas/wreaths-trees-flowers-baskets-85517_85518c.asp" onclick="OmnitureTrack(this.href, 'christmas', 'InsideTopNav', 'InsideTopNav'); return false">All Christmas</a></li>
-              <li class="color"><a href="http://www.teleflora.com/christmas-flowers/christmas-centerpieces-flowers-85517_89543c.asp" onclick="OmnitureTrack(this.href, 'christmas', 'InsideTopNav', 'InsideTopNav'); return false">Christmas Centerpieces</a>
-              </li><li class="color"><a href="http://www.teleflora.com/christmas-flowers/christmas-keepsake-flowers-85517_121746c.asp" onclick="OmnitureTrack(this.href, 'christmas', 'InsideTopNav', 'InsideTopNav'); return false"> Christmas Keepsakes</a></li>
-              <li class="color"><a href="http://www.teleflora.com/christmas-plants/christmas-plants-gift-baskets-85517_111522c.asp" onclick="OmnitureTrack(this.href, 'christmas', 'InsideTopNav', 'InsideTopNav'); return false">Plants &amp; Gift Baskets</a></li>
-              <li class="color"><a href="http://www.teleflora.com/christmas-flowers/christmas-trees-plants-85517_89657c.asp" onclick="OmnitureTrack(this.href, 'christmas', 'InsideTopNav', 'InsideTopNav'); return false">Christmas Trees</a></li>
-              <li class="color"><a href="http://www.teleflora.com/christmas-flowers/christmas-wreaths-garlands-85517_90219c.asp" onclick="OmnitureTrack(this.href, 'christmas', 'InsideTopNav', 'InsideTopNav'); return false">Christmas Wreaths</a></li>
-              <li class="color"><a href="http://www.teleflora.com/christmas-flowers/christmas-hostess-gifts-flowers-85517_89652c.asp" onclick="OmnitureTrack(this.href, 'christmas', 'InsideTopNav', 'InsideTopNav'); return false">Hostess Gifts</a></li>
-              <li class="color"><a href="http://www.teleflora.com/christmas-flower-gifts-decorations-85517_122162c.asp" onclick="OmnitureTrack(this.href, 'christmas', 'InsideTopNav', 'InsideTopNav'); return false">Christmas Home Decor</a></li>
-			  <li class="color"><a href="/faith-hill-flower-collection.asp" onclick="OmnitureTrack(this.href, 'christmas', 'InsideTopNav', 'InsideTopNav'); return false">Christmas Collection by Faith Hill</a></li>
-            </ul>
-          </li>
-          <li class="current1" style="margin-left:5px;"><a href="http://www.teleflora.com/birthday/birthday-flowers-all-64062_64063c.asp" class="header" title="Birthday Flowers" style="color:#444;" onclick="OmnitureTrack(this.href, 'birthday', 'InsideTopNav', 'InsideTopNav'); return false">BIRTHDAY <img src="/images/vendors/00005557/gray-down-arrow.gif" border="0" width="6" height="10"> </a>
-            <ul class="border">
-              <li class="color"><a href="http://www.teleflora.com/birthday/birthday-flowers-all-64062_64063c.asp" onclick="OmnitureTrack(this.href, 'birthday', 'InsideTopNav', 'InsideTopNav'); return false">Birthday for Everyone</a></li>
-              <li class="color"><a href="http://www.teleflora.com/birthday/birthday-flowers-for-her-64062_106809c.asp" onclick="OmnitureTrack(this.href, 'birthday', 'InsideTopNav', 'InsideTopNav'); return false">Birthday for Her</a></li>
-              <li class="color"><a href="http://www.teleflora.com/birthday/birthday-flowers-for-him-64062_106808c.asp" onclick="OmnitureTrack(this.href, 'birthday', 'InsideTopNav', 'InsideTopNav'); return false">Birthday for Him</a></li>
-              <li class="color"><a href="http://www.teleflora.com/birthday/birthday-flowers-for-kids-64062_107305c.asp" onclick="OmnitureTrack(this.href, 'birthday', 'InsideTopNav', 'InsideTopNav'); return false">Birthday for Kids</a></li>
-              <li class="color"><a href="http://www.teleflora.com/lavish-collection.asp" onclick="OmnitureTrack(this.href, 'birthday', 'InsideTopNav', 'InsideTopNav'); return false">The Lavish Collection</a></li> 
-            </ul>
-          </li>
-          <li class="current1" style="margin-left:5px;"> <a href="http://www.teleflora.com/flower-arrangements/flower-bouquet-arrangements.asp" class="header" title="Flower Arrangements" style="color:#444;" onclick="OmnitureTrack(this.href, 'Occasions', 'InsideTopNav', 'InsideTopNav'); return false"> OCCASIONS <img src="/images/vendors/00005557/gray-down-arrow.gif" border="0" width="6" height="10"> </a>
-            <ul class="border">
-              <li class="color"><a href="http://www.teleflora.com/christmas/wreaths-trees-flowers-baskets-85517_85518c.asp" onclick="OmnitureTrack(this.href, 'Occasions', 'InsideTopNav', 'InsideTopNav'); return false">Christmas</a></li>             
-              <li class="color"><a href="http://www.teleflora.com/flowers/hanukkah-flowers-89450_89451c.asp" onclick="OmnitureTrack(this.href, 'Occasions', 'InsideTopNav', 'InsideTopNav'); return false">Hanukkah</a></li>             
-              <li class="color"><a href="http://www.teleflora.com/flowers/anniversary-flowers-64065_64066c.asp" onclick="OmnitureTrack(this.href, 'Occasions', 'InsideTopNav', 'InsideTopNav'); return false">Anniversary</a></li>
-              <li class="color"><a href="http://www.teleflora.com/birthday/birthday-flowers-all-64062_64063c.asp" onclick="OmnitureTrack(this.href, 'Occasions', 'InsideTopNav', 'InsideTopNav'); return false">Birthday Flowers</a></li>
-              <li class="color"><a href="http://www.teleflora.com/flowers/congratulations-flowers-plants-6296_6297c.asp" onclick="OmnitureTrack(this.href, 'Occasions', 'InsideTopNav', 'InsideTopNav'); return false">Congratulations!</a></li>
-              <li class="color"><a href="http://www.teleflora.com/corporate-gifts/flowers-plants-gift-baskets-6292_6293c.asp" onclick="OmnitureTrack(this.href, 'Occasions', 'InsideTopNav', 'InsideTopNav'); return false">Corporate Gifts</a></li>
-              <li class="color"><a href="http://www.teleflora.com/sympathy-flowers.asp" onclick="OmnitureTrack(this.href, 'Occasions', 'InsideTopNav', 'InsideTopNav'); return false">Funeral &amp; Sympathy</a></li>
-              <li class="color"><a href="http://www.teleflora.com/flowers/get-well-flowers-98390_98391c.asp" onclick="OmnitureTrack(this.href, 'Occasions', 'InsideTopNav', 'InsideTopNav'); return false">Get Well Soon</a></li>
-              <li class="color"><a href="http://www.teleflora.com/housewarming-gifts/new-home-flowers-148326_148328c.asp" onclick="OmnitureTrack(this.href, 'Occasions', 'InsideTopNav', 'InsideTopNav'); return false">Housewarming</a></li>
-              <li class="color"><a href="http://www.teleflora.com/love-romance/flowers-plants-gift-baskets-92119_92120c.asp" onclick="OmnitureTrack(this.href, 'Occasions', 'InsideTopNav', 'InsideTopNav'); return false">Love &amp; Romance</a></li>
-              <li class="color"><a href="http://www.teleflora.com/flowers/new-baby-flowers-97560_97561c.asp" onclick="OmnitureTrack(this.href, 'Occasions', 'InsideTopNav', 'InsideTopNav'); return false">Newborn Baby</a></li>
-              <li class="color"><a href="http://www.teleflora.com/lavish-collection.asp" onclick="OmnitureTrack(this.href, 'Occasions', 'InsideTopNav', 'InsideTopNav'); return false">The Lavish Boutique</a></li>
-              <li class="color"><a href="http://www.teleflora.com/teacher-gift/holiday-gifts-teachers-151779_151780c.asp" onclick="OmnitureTrack(this.href, 'Occasions', 'InsideTopNav', 'InsideTopNav'); return false">Teacher Gifts</a></li>
-              <li class="color"><a href="http://www.teleflora.com/flowers/i-am-sorry-flowers-plants-72594_72597c.asp" onclick="OmnitureTrack(this.href, 'Occasions', 'InsideTopNav', 'InsideTopNav'); return false">Say "I'm Sorry"</a></li>
-              <li class="color"><a href="http://www.teleflora.com/flowers/thinking-of-you-flowers-72634_72637c.asp" onclick="OmnitureTrack(this.href, 'Occasions', 'InsideTopNav', 'InsideTopNav'); return false">Say "I'm Thinking of You"</a></li>
-              <li class="color"><a href="http://www.teleflora.com/flowers/thank-you-flowers-plants-gift-baskets-6326_6334c.asp" onclick="OmnitureTrack(this.href, 'Occasions', 'InsideTopNav', 'InsideTopNav'); return false">Say "Thank You"</a></li>
-              <li class="color"><a href="http://www.teleflora.com/flowers/just-because-flowers-105200_105201c.asp" onclick="OmnitureTrack(this.href, 'Occasions', 'InsideTopNav', 'InsideTopNav'); return false">Send "Just Because"</a></li>
-            </ul>
-          </li>
-          <li style="margin-left:5px;"> <a href="http://www.teleflora.com" class="header" title="Flowers" style="color:#444;" onclick="OmnitureTrack(this.href, 'Flowers', 'InsideTopNav', 'InsideTopNav'); return false">FLOWERS <img src="/images/vendors/00005557/gray-down-arrow.gif" border="0" width="6" height="10"> </a>
-            <ul class="border">
-              <li class="color"><a href="/faith-hill-flower-collection.asp" onclick="OmnitureTrack(this.href, 'Flowers', 'InsideTopNav', 'InsideTopNav'); return false">Christmas Collection by Faith Hill</a></li>
-              <li class="color"><a href="http://www.teleflora.com/escape-at-home-bouquets.asp" onclick="OmnitureTrack(this.href, 'Flowers', 'TopNav', 'TopNav'); return false">World of Flowers</a></li>
-              <li class="color"><a href="http://www.teleflora.com/lavish-collection.asp" onclick="OmnitureTrack(this.href, 'Flowers', 'InsideTopNav', 'InsideTopNav'); return false">The Lavish Collection</a></li>
-              <li class="color"><a href="http://www.teleflora.com/fresh-flowers/seasonal-flowers-111546_111547c.asp" onclick="OmnitureTrack(this.href, 'Flowers', 'TopNav', 'TopNav'); return false">Winter Flowers</a></li>
-              <li class="color"><a href="http://www.teleflora.com/floral-arrangements/bestselling-bouquets-plants-62450_62451c.asp" onclick="OmnitureTrack(this.href, 'Flowers', 'TopNav', 'TopNav'); return false">Bestsellers</a></li>
-              <li class="color"><a href="http://www.teleflora.com/flowers/bouquet/florists-choice-bouquet-316088p.asp" onclick="OmnitureTrack(this.href, 'Flowers', 'TopNav', 'TopNav'); return false">Deal of the Day</a></li>
-              <li class="color"><a href="http://www.teleflora.com/flower-by-colors/flowers-by-color-arrangements.asp" onclick="OmnitureTrack(this.href, 'Flowers', 'TopNav', 'TopNav'); return false">by Color</a></li>
-              <li class="color"><a href="http://www.teleflora.com/online-flowers/send-flowers-online.asp" onclick="OmnitureTrack(this.href, 'Flowers', 'TopNav', 'TopNav'); return false">by Type of Flower</a></li>
-              <li class="color"><a href="http://www.teleflora.com/flower-gifts/send-flower-gift.asp" onclick="OmnitureTrack(this.href, 'Flowers', 'TopNav', 'TopNav'); return false">by Recipient</a></li>
-              <li class="color"><a href="http://www.teleflora.com/floral-arrangements/flowers-in-a-gift-13485_13486c.asp" onclick="OmnitureTrack(this.href, 'Flowers', 'TopNav', 'TopNav'); return false">2-in-1 Teleflora Exclusives</a></li>
-              <li class="color"><a href="http://www.teleflora.com/floral-arrangements/new-flowers-plants-baskets-72502_72503c.asp" onclick="OmnitureTrack(this.href, 'Flowers', 'TopNav', 'TopNav'); return false">What's New</a></li>
-              <li class="color"><a href="http://www.teleflora.com/flowers/zen-flower-arrangements-99001_99002c.asp" onclick="OmnitureTrack(this.href, 'Flowers', 'TopNav', 'TopNav'); return false">Zen Flowers</a></li>
-              <li class="color"><a href="http://www.teleflora.com/international-flowers/international-flower-delivery.asp" onclick="OmnitureTrack(this.href, 'Flowers', 'TopNav', 'TopNav'); return false">International Delivery</a></li>
-            </ul>
-          </li>
-          <li style="margin-left:5px;"> <a href="/plants/plants-collection-509_807c.asp" class="header" title="Plants and Gifts" style="color:#444;" onclick="OmnitureTrack(this.href, 'Plants and Gifts', 'InsideTopNav', 'InsideTopNav'); return false"> PLANTS <img src="/images/vendors/00005557/gray-down-arrow.gif" border="0" style="position:relative; z-index:0" width="6" height="10"></a>
-            <ul class="border">
-              <li class="color"><a href="http://www.teleflora.com/plants/plants-collection-509_807c.asp" onclick="OmnitureTrack(this.href, 'Plants and Gifts', 'InsideTopNav', 'InsideTopNav'); return false">Bestselling Plants</a></li>
-              <li class="color"><a href="http://www.teleflora.com/plants/plants-collection/flowering-plants-509_108975c.asp" onclick="OmnitureTrack(this.href, 'Plants and Gifts', 'InsideTopNav', 'InsideTopNav'); return false">Flowering Plants</a></li>
-              <li class="color"><a href="http://www.teleflora.com/gift-baskets/gift-basket-collection-10980_10981c.asp" onclick="OmnitureTrack(this.href, 'Plants and Gifts', 'InsideTopNav', 'InsideTopNav'); return false">Gift Baskets</a></li>
-              <li class="color"><a href="http://www.teleflora.com/lavish-collection.asp" onclick="OmnitureTrack(this.href, 'Flowers', 'InsideTopNav', 'InsideTopNav'); return false">The Lavish Collection</a></li>
-              <li class="color"><a href="http://www.teleflora.com/plants/plants-collection/green-plants-509_114406c.asp" onclick="OmnitureTrack(this.href, 'Plants and Gifts', 'InsideTopNav', 'InsideTopNav'); return false">Green Plants</a></li>
-              <li class="color"><a href="http://www.teleflora.com/plants/orchid-and-tropical-plants-509_114391c.asp" onclick="OmnitureTrack(this.href, 'Plants and Gifts', 'InsideTopNav', 'InsideTopNav'); return false">Orchids &amp; Tropical Plants</a></li>
-              <li class="color"><a href="http://www.teleflora.com/funeral-flowers/sympathy-plants-and-gift-baskets-87_117380c.asp" onclick="OmnitureTrack(this.href, 'Plants and Gifts', 'InsideTopNav', 'InsideTopNav'); return false">Sympathy Plants</a></li>
-              <li class="color"><a href="http://www.teleflora.com/floral-arrangements/flowers-in-a-gift-13485_13486c.asp" onclick="OmnitureTrack(this.href, 'Plants and Gifts', 'InsideTopNav', 'InsideTopNav'); return false">Teleflora Exclusives</a></li>
-              <li class="color"><a href="http://www.teleflora.com/flowers/zen-flower-arrangements-99001_99002c.asp" onclick="OmnitureTrack(this.href, 'Plants and Gifts', 'InsideTopNav', 'InsideTopNav'); return false">Zen Collection</a></li>
-              <li class="color"> <a href="http://www.teleflora.com/flowersinspiration.asp" title="Flower Ideas" onclick="OmnitureTrack(this.href, 'Flower Guides', 'InsideTopNav', 'InsideTopNav'); return false"> Gift Guides </a>
-                <ul class="border guides-drop-block">
-                  <li class="color"><a href="http://www.teleflora.com/FLOWER-NEWS"><strong>Read:</strong> News Articles</a></li>
-                  <li class="color"><a href="http://www.teleflora.com/flower-card-message/help-writing-card-messages.asp" onclick="OmnitureTrack(this.href, 'Flower Guides', 'TopNav', 'TopNav'); return false"><strong>Help:</strong> Writing Card Messages</a></li>
-                  <li class="color"><a href="http://www.teleflora.com/anniversary_guide.asp" onclick="OmnitureTrack(this.href, 'Flower Guides', 'InsideTopNav', 'InsideTopNav'); return false">Anniversary Gift Ideas</a></li>
-                  <li class="color"><a href="http://www.teleflora.com/floral-gift-guide/birthday-gift-ideas.asp" onclick="OmnitureTrack(this.href, 'Flower Guides', 'InsideTopNav', 'InsideTopNav'); return false">Birthday Gift Ideas</a></li>
-                  <li class="color"><a href="http://www.teleflora.com/floral-gift-guide/christmas-gift-ideas.asp" onclick="OmnitureTrack(this.href, 'Flower Guides', 'InsideTopNav', 'InsideTopNav'); return false">Christmas Gift Ideas</a></li>
-                  <li class="color"><a href="http://www.teleflora.com/floral-gift-guide/get-well-gift-ideas.asp" onclick="OmnitureTrack(this.href, 'Flower Guides', 'InsideTopNav', 'InsideTopNav'); return false">Get Well Gift Ideas</a></li>
-                  <li class="color"><a href="http://www.teleflora.com/floral-gift-guide/new-baby-gift-ideas.asp" onclick="OmnitureTrack(this.href, 'Flower Guides', 'InsideTopNav', 'InsideTopNav'); return false">New Baby Gift Ideas</a></li>
-                  <li class="color"><a href="http://www.teleflora.com/sympathyguide.asp" onclick="OmnitureTrack(this.href, 'Flower Guides', 'InsideTopNav', 'InsideTopNav'); return false">Sympathy Flower Guide</a></li>
-                  <li class="color"><a href="http://www.teleflora.com/floral-gift-guide/thank-you-gift-ideas.asp" onclick="OmnitureTrack(this.href, 'Flower Guides', 'InsideTopNav', 'InsideTopNav'); return false">Thank You Gift Ideas</a></li>
-                  <li class="color"><a href="http://www.teleflora.com/wedding-flowers.asp" onclick="OmnitureTrack(this.href, 'Flower Guides', 'InsideTopNav', 'InsideTopNav'); return false">Wedding Flower Ideas</a></li>
-                  <li class="color"><a href="http://www.teleflora.com/astrology_flowers.asp" onclick="OmnitureTrack(this.href, 'Flower Guides', 'InsideTopNav', 'InsideTopNav'); return false">Astrology Flower Symbols</a></li>
-                  <li class="color"><a href="http://www.teleflora.com/floral-gift-guide/birth-month-flower-meaning.asp" onclick="OmnitureTrack(this.href, 'Flower Guides', 'InsideTopNav', 'InsideTopNav'); return false">Birth Month Flowers</a></li>
-                  <li class="color"><a href="http://www.teleflora.com/flowercare.asp" onclick="OmnitureTrack(this.href, 'Flower Guides', 'InsideTopNav', 'InsideTopNav'); return false">Caring for Fresh Cut Flowers</a></li>
-                  <li class="color"><a href="http://www.teleflora.com/plantcare.asp" onclick="OmnitureTrack(this.href, 'Flower Guides', 'InsideTopNav', 'InsideTopNav'); return false">Caring for House Plants</a></li>
-                  <li class="color"><a href="http://www.teleflora.com/flowerglossary.asp" onclick="OmnitureTrack(this.href, 'Flower Guides', 'InsideTopNav', 'InsideTopNav'); return false"> Glossary of Flowers</a></li>
-                  <li class="color"><a href="http://www.teleflora.com/about-flowers/flower-meaning.asp" onclick="OmnitureTrack(this.href, 'Flower Guides', 'InsideTopNav', 'InsideTopNav'); return false">Meaning of Flowers</a></li>
-                  <li class="color"><a href="http://www.teleflora.com/flowercolors.asp" onclick="OmnitureTrack(this.href, 'Flower Guides', 'InsideTopNav', 'InsideTopNav'); return false">Meaning of Flower Color </a></li>
-                  <li class="color"><a href="http://www.teleflora.com/rose_colors.asp" onclick="OmnitureTrack(this.href, 'Flower Guides', 'InsideTopNav', 'InsideTopNav'); return false">Meaning of Rose Colors</a></li>
-                  <li class="color"><a href="http://www.teleflora.com/rose_numbers.asp" onclick="OmnitureTrack(this.href, 'Flower Guides', 'InsideTopNav', 'InsideTopNav'); return false">Meaning of Rose Numbers</a></li>
-                </ul>
-              </li>
-            </ul>
-          </li>
-          <li style="margin-left:5px;"> <a href="http://www.teleflora.com/discount-flowers/discount-flowers-online.asp" class="header" title="Discount Flowers" style="color:#444;" onclick="OmnitureTrack(this.href, 'Price', 'InsideTopNav', 'InsideTopNav'); return false"> PRICE <img src="/images/vendors/00005557/gray-down-arrow.gif" border="0" width="6" height="10"> </a>
-            <ul class="border">
-              <li class="color"><a href="http://www.teleflora.com/floral-arrangements/bouquets-under-40-83528_83529c.asp" onclick="OmnitureTrack(this.href, 'Price', 'InsideTopNav', 'InsideTopNav'); return false">Flowers Under $40</a></li>
-              <li class="color"><a href="http://www.teleflora.com/inexpensive-flowers/inexpensive-funeral-flowers-125432_125433c.asp" onclick="OmnitureTrack(this.href, 'Price', 'InsideTopNav', 'InsideTopNav'); return false">Flowers $40 - $60</a></li>
-              <li class="color"><a href="http://www.teleflora.com/floral-arrangements/bouquets-60-to-80-83528_83734c.asp" onclick="OmnitureTrack(this.href, 'Price', 'InsideTopNav', 'InsideTopNav'); return false">Flowers $60 - $80</a></li>
-              <li class="color"><a href="http://www.teleflora.com/designer-flowers/luxury-flowers-83528_150594c.asp" onclick="OmnitureTrack(this.href, 'Price', 'InsideTopNav', 'InsideTopNav'); return false">Flowers $80+</a></li>
-              <li class="color"><a href="http://www.teleflora.com/lavish-collection.asp" onclick="OmnitureTrack(this.href, 'Price', 'InsideTopNav', 'InsideTopNav'); return false">The Lavish Collection</a></li>
-            </ul>
-          </li>
-        </ul></td>
-      <td width="45" valign="middle" style="margin: 0px; padding-left: 0px;"><img src="http://teleflora.edgesuite.net/images/vendors/00005557/nav/oct0311-searchbutton.jpg" alt="search" style="position:relative; top: -5px; left:-10px;" border="0" height="21" width="22"></td>
-      <td style="margin: 0px; padding-left: 0px;" valign="middle" width="135"><input type="text" name="w" class="searchbox" id="sli_search_1" autocomplete="off" value="Enter Search" onfocus="this.value=''" style="font-family: Verdana,Arial,sans-serif; color: #A20004; font-weight:900; margin-top: -3px; font-size: 7pt; text-decoration: none; height: 18px; position: relative; left: -5px; top:-2px; width:130px;">
-        <input type="hidden" name="asug" id="Hidden3">
-      </td>
-      <td width="20"><input src="http://teleflora.edgesuite.net/images/vendors/00005557/nav/oct0311-gobutton.gif" alt="go" id="Image1" name="Image1" style="vertical-align: middle; position:relative; top: -4px; left:-5px;" border="0" type="image"></td>
-      <!--input type="submit" name=submit value=submit-->
-
-      
-    </tr>
-  </tbody></table>
-  <table cellpadding="0" cellspacing="0">
-    <tbody><tr>
-      <td style="border:0px; border-bottom:1px; border-style:solid; border-color: #999; margin:0; padding:0;"><div style="height:1px;"><img src="http://teleflora.edgesuite.net/images/vendors/00005557/spacer.gif" width="980" height="1" alt="flowers"></div></td>
-    </tr>
-    <tr>
-      <td align="left"><div style="height:18px; text-align:left;">
-          
-        </div></td>
-    </tr>
-  </tbody></table>
-</div>
-
+   $('input#category-findabouquet-gobutton').qtip({
+      position: {
+         corner: {
+            target: 'topRight',
+            tooltip: 'bottomLeft'
+         }
+      },
+	  content: gobuttonhtml,
+      style: {
+         name: 'grey',
+         padding: '7px 13px',
+         width: {
+            max: 320,
+            min: 0
+         },
+         tip: true
+      },
+	  show: {
+				when: 'click'
+			},
+	  hide: {
+			delay: 2000  
+	  }
+   });
+});
+</script>
+<!--/* CODE ENDS : Find a Bouquet Section for Static Category page */-->
 
 <table width="90%" align="center" border="0" cellspacing="2" cellpadding="2">
 <tbody><tr><td>
-<a href="http://www.teleflora.com/" class="vd7gy">Home<span class="tdn"> &gt;</span></a> <a href="/customerservice.asp" class="vd7gy">Customer Service</a> <font class="vd7gy"><span class="tdn">&gt;</span> Safety &amp; Privacy</font> <br>
+<a href="http://www.teleflora.com/" tile="Teleflora Flowers homepage" class="vd7gy">Home<span class="tdn"> &gt;</span></a> <a href="http://www.teleflora.com/customerservice.asp" class="vd7gy">Customer Service</a> <font class="vd7gy"><span class="tdn">&gt;</span> Safety &amp; Privacy</font> <br>
 <br>
 <table cellpadding="0" cellspacing="0" border="0" width="980">
   <tbody><tr>
@@ -349,9 +2518,9 @@ ul.guides-drop {margin-top:0px; margin-left: 0px; position:relative; z-index:50;
       <div id="lt_nav_customerservice">
         <div class="heading" style="margin-top:0px ">Quick Contact</div>
         <div>CALL <span style="color:#666666">800-835-3356</span></div>
-        <div style="margin-bottom:6px ">EMAIL <a href="/formintro.asp" style="color:#666666">Customer Service</a></div>
-        <div class="heading"> <a href="/contactus.asp">Contact Us</a> </div>
-        <div class="heading"> <a href="https://www.teleflora.com/secure/myacctlogin.asp?sid=434489255">My Account</a> </div>
+        <div style="margin-bottom:6px ">EMAIL <a href="http://www.teleflora.com/formintro.asp" style="color:#666666">Customer Service</a></div>
+        <div class="heading"> <a href="http://www.teleflora.com/contactus.asp">Contact Us</a> </div>
+        <div class="heading"> <a href="https://www.teleflora.com/secure/myacctlogin.asp?sid=523946264">My Account</a> </div>
         <div class="heading"> <a href="https://www.teleflora.com/securityprivacy.asp">Security &amp; Privacy<br>
           Revised 09/01/2011</a> </div>
         <div class="heading">Security &amp; Privacy</div>
@@ -371,11 +2540,11 @@ ul.guides-drop {margin-top:0px; margin-left: 0px; position:relative; z-index:50;
 
           </ul>
         </div>
-        <div class="heading"> <a href="/ordering.asp">Ordering</a><br>
+        <div class="heading"> <a href="http://www.teleflora.com/ordering.asp">Ordering</a><br>
         </div>
-        <div class="heading"> <a href="/abouttf.asp">About Us</a><br>
+        <div class="heading"> <a href="http://www.teleflora.com/abouttf.asp">About Us</a><br>
         </div>
-        <div class="heading"> <a href="/services.asp">Services</a><br>
+        <div class="heading"> <a href="http://www.teleflora.com/services.asp">Services</a><br>
         </div>
       </div></td>
     <!-- LEFT SEARCH COLUMN / -->
@@ -383,24 +2552,24 @@ ul.guides-drop {margin-top:0px; margin-left: 0px; position:relative; z-index:50;
       <table cellpadding="0" cellspacing="0" border="0" width="738">
         <tbody><tr>
           <td align="left" class="vd8gy"><img src="http://teleflora.edgesuite.net/images/vendors/00005557/teleflora_customer_privacy.jpg" width="220" height="220" border="0" align="left" style="margin-right:11pt; margin-bottom:11pt;" alt="Teleflora Customer Privacy">
-            <p align="left"><strong><u>Security and Privacy</u></strong></p>
-            <p>Effective date:  September 1, 2011<br>
-              Your privacy is important to Teleflora LLC ("we" or "us").  To better protect your privacy, we provide  this notice explaining our privacy practices and the choices you can make about  the ways in which information about you is collected and used at www.teleflora.com.  We encourage you to read and review the terms  of this Privacy Policy before using our Web site.  By using our Web site, you agree to accept  the terms of our Privacy Policy.  If you  do not agree with any part of this Privacy Policy, please do not use our Web  site.</p>
-            <a name="Aggregate_Information"><h2>Information  We Collect</h2></a>
-            <p><em>Personally  Identifiable Information</em><br>
+            <h1 class="gift-headers" style="margin-left:5px; color:#669900;">Security and Privacy</h1>
+           <p align="left"> Effective date:  September 1, 2011<br><br>
+              Your privacy is important to Teleflora LLC ("we" or "us").  To better protect your privacy, we provide  this notice explaining our privacy practices and the choices you can make about  the ways in which information about you is collected and used at www.teleflora.com.  We encourage you to read and review the terms  of this Privacy Policy before using our Web site.  <span style="font-weight:bold;">By using our Web site, you agree to accept  the terms of our Privacy Policy.  If you  do not agree with any part of this Privacy Policy, please do not use our Web  site.</span></p>
+          <br> <br> <a name="Aggregate_Information"><h2 class="left-nav">Information  We Collect</h2></a>
+            <p><span style="font-style:italic; font-weight:bold;">Personally  Identifiable Information</span><br>
               To fulfill your requests for  information, enable you to participate in our offerings or to upload your  resume on our Careers webpage, and provide you with opportunities to learn  about other products and services in which we think you might be interested, we  ask that you provide us with certain personally identifiable information.  The types of personally identifiable information  that may be collected include: name, address, e-mail address, telephone number,  fax number, date of birth, employment information and information related to  your education, training, list of references, credit card information, and  information about your interests in and use of various products, programs, and  services.  By providing your personal  information on our Web site, you consent to allow us to use that information in  accordance with this Privacy Policy. <br>
               <br>
               In some instances, we may  request that you submit information about other people.  For example, if you order a gift and want it  sent directly to the recipient, you might submit the recipient's name and  address; or if you include references, you might submit the reference’s name  and e-mail address.  The types of  personally identifiable information that may be collected about other people  include: recipient's name, address, e-mail address, and telephone number.<br>
               <br>
               Any information you  disclose voluntarily on our Web site or in any forum and blogs that we may  develop in the future becomes public information.  We cannot control the actions of our Web site  users and advise you to use your discretion in sharing information about  yourself on the Internet.  All  information sharing is optional and done so at your own risk.<br>
               <br>
-  <em>Non-Personally  Identifiable Information</em><br>
+  <span style="font-style:italic; font-weight:bold;">Non-Personally  Identifiable Information</span><br>
               We also may collect  certain non-personally identifiable information when you visit many of our Web  pages, such as the type of browser you are using (<em>e.g., </em>Fire Fox,  Internet Explorer), the type of operating system you are using, (<em>e.g.</em>,  Windows Vista, Mac OS), the domain name of your Internet service provider (<em>e.g., </em>Comcast, AT&amp;T), the name of the Web pages you visit, the time you  access our Web pages, and the length of time you stay on those pages.  <br>
               <br>
               We collect this  information in order to determine which areas of our Web site are most popular  and to enhance your experience with our Web site.  This information may also be shared with  third parties on an aggregate and non-personally identifiable basis.  However, please be assured that this  information will in no way personally identify you or any other visitors of our  Web site.<br>
               <br>
               Our Web site uses  ClickTale or other third party web analytics service.  Such service may record mouse clicks, mouse  movements, scrolling activity as well as any text you type in this Web  site.  The service does not collect  personally identifiable information that you do not voluntarily enter in this  Web site.  The service does not track  your browsing habits across web sites which do not use the service.  For more information on ClickTale or to  disable the ClickTale service, please visit: <a href="http://www.clicktale.com/">www.clicktale.com</a>. </p>
-            <a name="How_we_use"></a><h2>How We Use  the Information</h2>
+            <a name="How_we_use"></a><h2 class="left-nav">How We Use  the Information</h2>
             <p>We use your  personally identifiable information to provide the requested information or  content, respond to your inquiries about our offerings, offer you other  products, programs or services that we believe may be of interest to you, or  for other purposes disclosed at the time of collection.  We also may use your personally identifiable  information to contact you regarding your use of our products or services, or  regarding changes to our Privacy Policy, or other policies or terms that affect  you and your use of our Web site or our products and services.  In addition, we may use such information to  improve the content and navigation of our Web site, or for other internal  purposes.  <br>
               <br>
               We use the information that  you provide about others to enable us to send them your gifts or information.  From time to time, we also may use this  information to offer our products, programs, or services to them.<br>
@@ -412,23 +2581,23 @@ ul.guides-drop {margin-top:0px; margin-left: 0px; position:relative; z-index:50;
               <br>
               Although we  take appropriate measures to safeguard against unauthorized disclosures of  information, we cannot assure you that personally identifiable information that  we collect will never be disclosed in a manner that is inconsistent with this  Privacy Policy.<br>
               <br>
-  <strong>Information  Sharing</strong><br>
+ </p><h2 class="left-nav">Information  Sharing</h2>
   <br>
               We may, from  time to time, share personally identifiable information with other companies  affiliated with us and unrelated third parties (e.g., retailers, marketers) to  enable them to provide users with opportunities to learn of products or  services in which they may be interested.   You should also be aware that this means that we may transfer  information to any country in the world, including the United States and other  countries that may not offer the same level of data protection as the country  where you reside.  Please see the  "Your Choices" section below for more information on how you can express  your preferences regarding our sharing of information.  <br>
               <br>
-              We also may  disclose personally identifiable information in the following instances:<br>
+            <span style="font-style:italic; font-weight:bold;">We also may  disclose personally identifiable information in the following instances:</span><br><br>
   <em>Legal Action:</em>   We may disclose information about our users, including personally  identifiable information, when legally required to do so, at the request of  governmental authorities conducting an investigation, to verify or enforce  compliance with the policies governing our Web site or applicable laws, or to  protect against misuse or unauthorized use of our Web site.  We also may disclose user information  whenever we believe disclosure is necessary to limit our legal liability; to  protect or defend our rights or property; or protect the safety, rights, or  property of our users.<br>
   <br>
   <em>Corporate Change:</em>   We may sell, transfer, or otherwise disclose user information, including  personally identifiable information, to a successor entity in connection with a  corporate merger, consolidation, asset sale, or other corporate change or  combination of assets involving us. <br>
   <br>
               In addition, we  may disclose anonymous, aggregated user statistics to third parties for a  variety of purposes.  For example, we may  disclose how many individuals visited certain areas of our Web site, how many  men or women receive our newsletter, or other demographic data about users of  our products or services.  <br>
               <br>
-  <strong>Your  Choices</strong><br>
+ <h2 class="left-nav">Your  Choices</h2>
   <br>
               As noted above, we may use  the personally identifiable information we collect from you to offer you  products and services that may be of interest to you.  If  you would like to opt out of future promotional materials from us, you may  indicate this preference by following the unsubscribe instructions at the end  of e-mail communications or by logging into your account and changing your communication  preferences.  <br>
               <br>
-            As also noted above, we may,  from time to time, share personally identifiable information with companies  whose practices are not covered by this Privacy Policy (e.g., other marketers,  retailers, participatory databases, and non-profit organizations) that want to  market products or services to you.  To  request that we not share your information for such marketing purposes, you may  log into your profile and change your account preferences accordingly or e-mail  us at <a href="mailto:legalinfo@teleflora.com">legalinfo@teleflora.com</a>.</p>
-            <a name="cookies"></a><h2>Cookies  &amp; Web Beacons</h2>
+            As also noted above, we may,  from time to time, share personally identifiable information with companies  whose practices are not covered by this Privacy Policy (e.g., other marketers,  retailers, participatory databases, and non-profit organizations) that want to  market products or services to you.  To  request that we not share your information for such marketing purposes, you may  log into your profile and change your account preferences accordingly or e-mail  us at <a href="mailto:legalinfo@teleflora.com">legalinfo@teleflora.com</a>.<p></p>
+            <a name="cookies"></a><h2 class="left-nav">Cookies  &amp; Web Beacons</h2>
             <p>To enhance your experience  with our site, many of our Web pages use "cookies." Cookies are text  files we place in your computer's browser to store your preferences. Cookies,  by themselves, do not tell us your e-mail address or other personally  identifiable information unless you choose to provide this information to us  by, for example, registering at our site.  However, once you choose to furnish the site  with personally identifiable information, this information may be linked to the  data stored in the cookie.<br>
               <br>
               We use cookies to  understand site usage and to improve the content and offerings on our site.  For example, we may use cookies to personalize  your experience at our Web pages (e.g., to recognize you by name when you  return to our site), save your password in password-protected areas, and enable  you to use shopping carts on our sites.  We also may use cookies to offer you products,  programs, or services.  <br>
@@ -436,35 +2605,35 @@ ul.guides-drop {margin-top:0px; margin-left: 0px; position:relative; z-index:50;
               Cookies do not cause damage  to your computer systems or files, and only the website that transferred a  particular cookie to you can read, modify or delete such cookie.  You always have the option of disabling  cookies using your browser preferences.   Most browsers allow you to delete existing cookies, to automatically  decline cookies or to be given the choice of declining or accepting the  transfer of particular cookies to your computer.  However, please be aware that some features  of our Web site may not function properly or may be slower if you refuse  cookies.  We do not control cookies that  you may occasionally get from third-party sites.<br>
               <br>
   "Web beacons" or  clear .gifs are small pieces of code placed on a Web page to monitor the  behavior of and collect data about the visitors viewing a Web page.  For example, Web beacons can be used to count  the users who visit a Web page or to deliver a cookie to the browser of a  visitor viewing that page.  We may use Web  beacons on this site from time to time for these and other purposes.</p>
-            <a name="third_party"></a><h2>Collection  of Information by Third-Party Sites and Sponsors</h2>
+            <a name="third_party"></a><h2 class="left-nav">Collection  of Information by Third-Party Sites and Sponsors</h2>
             <p>We may, from time to time, offer  content (e.g., contests, sweepstakes, or promotions) that is sponsored by or co-branded  with identified third parties, including affiliated businesses.  By virtue of these relationships, the third  parties may obtain personally identifiable information that visitors  voluntarily submit to participate in the site activity.  We have no control over these third parties'  use of this information.  Since these  third parties will use your information in accordance with their own privacy  practices, you should check their websites for information regarding their  privacy policies.  We will notify you at  the time of requesting personally identifiable information if these third  parties will obtain such information.<br>
               <br>
               We may use a reputable  third party to present or serve the advertisements that you may see at our Web  pages.  These third-party ad servers may  use cookies, Web beacons, clear .gifs, or similar technologies to help present  such advertisements, and to help measure and research the advertisements’  effectiveness.  The use of these  technologies by these third-party ad servers is subject to their own privacy  policies and is not covered by our Privacy Policy.  <br>
               <br>
               We and our advertisers may  use third parties to serve or present the ads that appear on our site and to  conduct research about the advertisements.   For more information about third-party ad servers, please visit: <a href="http://www.networkadvertising.org/">www.networkadvertising.org</a>. <br>
               <br>
-  <strong>Links to Other Sites</strong><br>
+  </p><h2 class="left-nav">Links to Other Sites</h2>
   <br>
-            Our site may contain links  to other sites that are not operated by us and whose information practices may  be different than ours.  You should  consult the other sites' privacy notices as we have no control over information  that is submitted to, or collected by, these third parties.  We are not responsible for the privacy  practices of these other sites and cannot guarantee the security of any of your  personal information collected there.</p>
-            <a name="commitment"></a><h2>Our  Commitment to Data Security</h2>
+            Our site may contain links  to other sites that are not operated by us and whose information practices may  be different than ours.  You should  consult the other sites' privacy notices as we have no control over information  that is submitted to, or collected by, these third parties.  We are not responsible for the privacy  practices of these other sites and cannot guarantee the security of any of your  personal information collected there.<p></p>
+            <a name="commitment"></a><h2 class="left-nav">Our  Commitment to Data Security</h2>
             <p>We have put in place  physical, electronic, and managerial procedures to safeguard and help prevent  unauthorized access to, maintain security of, and correctly use the information  we collect.  Personally identifiable  information and account activity are also protected through the use of e-mail  addresses and passwords.  In order to  maintain the security of your information, you should protect the  confidentiality of such information used to log into your account.  Unfortunately, no data transmission over the  Internet can be guaranteed to be 100% secure.   As a result, while we strive to protect your personal information and  privacy, we cannot guarantee or warrant the security of any information you  disclose or transmit to us online and cannot be responsible for the theft,  destruction, or inadvertent disclosure of your personal information.</p>
-            <a name="access"></a><h2>How You Can  Access and Update Information</h2>
+            <a name="access"></a><h2 class="left-nav">How You Can  Access and Update Information</h2>
             <p>If you have previously provided  any personally identifiable information to us by way of our Web site, you  retain the right to review, correct, update, delete or otherwise modify such  information.<br>
               <br>
               To access the personally  identifiable information that we have collected about you that we maintain, or  to correct factual errors in such information, simply log into your account  using your e-mail address and password to update your information.  Or you may also contact us at the “Contact”  address, telephone number or e-mail provided below.<br>
               To protect your privacy and  security, we will take reasonable steps to help verify your identity before  granting access or making corrections.<br>
               <br>
-  <strong>International Visitors</strong><br>
+ </p><h2 class="left-nav">International Visitors</h2>
   <br>
               Information  we collect will be transferred to and processed in the United States where our  central database is operated.  The  privacy laws of the U.S. may not be as comprehensive as the data protection  laws of the European Union and elsewhere.   Please be assured that we take reasonable steps to ensure that your privacy  is protected and implement necessary measures on an ongoing basis to keep your  personal information secure.  By providing  us with your personally identifiable information, you consent to its use in  accordance with this Privacy Policy, including the transfer of personally  identifiable information relating to you to our computer systems in the United  States.  <br>
               <br>
-  <strong>Privacy Policy for Minors</strong> <br>
+ <h2 class="left-nav">Privacy Policy for Minors</h2>
   <br>
-            We  do not knowingly collect information from minors.  If you are under the age of 18, we request  that you do not provide any personally identifiable information to us.</p>
-            <a name="updates"></a><h2>Updates  to This Privacy Policy</h2>
+            We  do not knowingly collect information from minors.  If you are under the age of 18, we request  that you do not provide any personally identifiable information to us.<p></p>
+            <a name="updates"></a> <h2 class="left-nav">Updates  to This Privacy Policy</h2>
             <p>From  time to time, we reserve the right to make updates to this Privacy Policy.  We will notify you about material changes in  the way we treat personally identifiable information by, for example, placing a  notice on our Web site.  We encourage you  to periodically check back and review this Privacy Policy so that you always  will know what information we collect, how we use it, and to whom we disclose  it.  Your continued use of our Web site  following any changes to this Privacy Policy will be deemed to constitute your  acceptance of such change.<br>
               <br>
-              <strong>How to Contact Us</strong><br>
+             </p><h3 class="left-nav">How to Contact Us</h3>
               <br>
               If you have any questions  or concerns about this Privacy Policy or its implementation, you may contact us  at: <br>
               Teleflora LLC<br>
@@ -473,7 +2642,7 @@ ul.guides-drop {margin-top:0px; margin-left: 0px; position:relative; z-index:50;
               Attention: Chief Legal Officer<br>
               Telephone: (310) 966-5700 <br>
               E-mail: <a href="mailto:legalinfo@teleflora.com">legalinfo@teleflora.com</a><br>
-          © 2011 Teleflora  LLC.  All rights reserved.</p></td>
+          © 2012 Teleflora  LLC.  All rights reserved.<p></p></td>
         </tr>
         <tr>
           <td height="30"></td>
@@ -486,237 +2655,122 @@ ul.guides-drop {margin-top:0px; margin-left: 0px; position:relative; z-index:50;
 </td></tr>
 </tbody></table>
 
-<!--#htmlid=13128#-->
-<style>
-.footerlinks {
-	font-family: Geneva, Arial, Helvetica, sans-serif;
-	font-size:9px;
-	color:#444444;
-	text-decoration:none;
-}
-a.footerlinks {
-	font-family: Geneva, Arial, Helvetica, sans-serif;
-	font-size:9px;
-	color:#444444;
-	text-decoration:none;
-}
-</style>
-<script language="JavaScript">
-<!--
-function Form1_Validator(theForm)
-{
+<!--#htmlid=19598#-->
+<!-- TF Category FOOTER PNG/IMAGES.SHOPFLOWERS.NET FINAL -->
+<!-- TIMESTAMP: 2013-04-22 05:30PM HY -->
 
-var alertsay = ""; // define for long lines
-// alertsay is not necessary for your code,
-// but I need to break my lines in multiple lines
-// so the code won't extend off the edge of the page
+<script>
+$('.category-quickview img').attr("src", "//images.shopflowers.net/images/vendors/00005557/Inside_Category_QuickView.png").addClass('PNGColor_CategoryQuickView pngPrimaryColor');
+$('.category-product').mouseover(function() {
+	var prodheight = $(this).height();
+	var prodheight = prodheight - 150;
+	$(this).children('.category-quickview').css('top', prodheight);
+});
+$('.category-quickview').css('left', '25px');
+</script>
 
-// check if email field is blank
-if (theForm.Email.value == "")
-{
-alert("Please enter a value for the \"Email\" field.");
-theForm.Email.focus();
-return (false);
-}
+<div id="insidefooter_wrapper">
+  <div id="insidefooter_section1" class="clearfix">
+    <div id="tile1" class="section1tile"> <a href="http://www.teleflora.com/win-free-flowers.asp"><img src="//images.shopflowers.net/images/vendors/00005557/Inside_Footer_WinFlowers.png" width="245" height="44" border="0" alt="" class="PNGColor_Footer_WinFlowers pngPrimaryColor"></a>
+      <form name="email_signup" method="post" onsubmit="return Email_Validator(this); ">
+        <input type="hidden" name="check" value="">
+        <input type="hidden" name="nomatch" value="">
+        <input type="hidden" name="optinsource" value="TFFTR">
+        <input name="Email" type="text" size="25" maxlength="50" id="Email" align="middle" class="winFlowerForm" value="enter email address" onfocus="this.value=''">
+		<input name="submit" type="image" src="//images.shopflowers.net/images/vendors/00005557/Inside_Footer_Go.png" border="0" alt="GO" align="middle" class="PNGColor_Footer_Go pngPrimaryColor">
+      </form>
+    </div>
+    <div id="tile2" class="section1tile"><img src="//images.shopflowers.net/images/vendors/00005557/Inside_Footer_StayConnected.03.06.13.png" width="196" height="82" border="0" alt="" class="PNGColor_Footer_StayConnected pngPrimaryColor" usemap="#tile2Map">
+        <map name="tile2Map">
+          <area shape="rect" coords="18,36,47,65" href="http://www.facebook.com/teleflora" target="_blank" alt="Facebook">
+          <area shape="rect" coords="51,36,81,64" href="http://plus.google.com/+teleflora/" target="_blank" alt="Google+">
+          <area shape="rect" coords="85,35,114,65" href="http://twitter.com/#!/teleflora" target="_blank" alt="Twitter">
+          <area shape="rect" coords="120,35,149,64" href="http://pinterest.com/teleflora/" target="_blank" alt="Pinterest">
+          <area shape="rect" coords="155,36,184,65" href="http://www.youtube.com/teleflora/" target="_blank" alt="Youtube">
+    </map></div>
+    <div id="tile3" class="section1tile">
+    
+    
+    <script src="/js/liveChat.js"></script><style>.livechaton, .livechatoff {display:none;}</style><div class="livechat"><div class="livechaton">
+	<script type="text/javascript">
+    // Center a livechat popup window.
+    var popupWindow = null;
+    function centeredPopupLB(url,winName,w,h,scroll){
+        if(popupWindow !== null){
+            popupWindow.close();
+        }
+        LeftPosition = (screen.width) ? (screen.width-w)/2 : 0;
+        TopPosition = (screen.height) ? (screen.height-h)/2 : 0;
+        settings = 'height='+h+',width='+w+',top='+TopPosition+',left='+LeftPosition+',scrollbars=no, resizable'
+        popupWindow = window.open(url,winName,settings)
+        if(parseInt(navigator.appVersion) >= 4){popupWindow.window.focus();}
+    }
+    </script>
+<a href="http://www.teleflora.com/chat.asp" onclick="centeredPopupLB(this.href,'myWinRule','550','720','yes');return false"><img src="http://teleflora.edgesuite.net/images/vendors/00005557/TFLiveChat.gif" width="174" height="73" border="0" alt="LIVE CHAT NOW" style="margin:0 30px"></a>
+</div><div class="livechatoff">    
+    <a href="javascript:void(0);" onclick="window.open ('http://www.teleflora.com/popups/custom.asp?popupid=8305', 'mywindow','menubar=1,resizable=1,width=350,height=250');"><img src="//images.shopflowers.net/images/vendors/00005557/Inside_Footer_samedaydelivery.png" width="244" height="81" border="0" alt="SAME-DAY-DELIVERY" class="PNGColor_Footer_SamedayDelivery pngPrimaryColor"></a>
+</div></div>
+    
+    
+    </div>
+    <div id="tile4" class="section1tile"><a href="http://www.teleflora.com/Secure/MyAcctTFRewardsOptin.asp"><img src="//images.shopflowers.net/images/vendors/00005557/Inside_Footer_Rewards.png" width="205" height="77" border="0" alt="Teleflora Rewards" class="PNGColor_Footer_Rewards pngPrimaryColor"></a></div>
+  </div>
+  <!-- end of insidefooter_section 1 -->
+  
+  <div id="insidefooter_section2" class="clearfix">
+    <div id="fmenu1" class="fmenu">
+      <div class="title">COMPANY</div>
+      <ul>
+        <li><a href="http://www.teleflora.com/info-about-teleflora.asp">ABOUT US</a></li>
+        <li><a href="https://teleflora.tms.hrdepartment.com/cgi-bin/a/searchjobs_quick.cgi">CAREERS</a></li>       
+        <li><a href="http://www.teleflora.com/media.asp">MEDIA ROOM</a></li>
+        <li><a href="http://www.teleflora.com/flower-news/">BLOG</a></li>        
+        <li><a href="http://www.teleflora.com/teleflora-sitemap.asp">SITEMAP</a></li>        
+      </ul>
+    </div>
+    <div id="fmenu2" class="fmenu">
+	  <div class="title">LEARN MORE ABOUT</div>
+      <ul>
+        <li><a href="http://flowers.teleflora.com/reviews/?srccode=tf_reviews">BOUQUET REVIEWS</a></li>   
+        <li><a href="http://www.teleflora.com/customerservice.asp">CUSTOMER SERVICE</a></li>           
+        <li><a href="http://www.teleflora.com/info-partner-programs.asp">PARTNER &amp; AFFILIATE PROGRAMS</a></li>
+        <li><a href="http://www.findaflorist.com/">FIND A FLORIST</a></li>
+        <li><a href="http://www.teleflora.com/securityprivacy.asp">SECURITY &amp; PRIVACY</a></li>
+      </ul>
+    </div>
+    <div id="fmenu3" class="fmenu">
+    <div class="title">SHOP TELEFLORA</div>
+      <ul>
+        <li><a href="http://www.teleflora.com/same-day-flowers/flowers-same-day-delivery-125661_125678c.asp">SAME-DAY FLOWER DELIVERY</a></li>
+        <li><a href="http://www.teleflora.com/cheap-flowers/cheap-flower-delivery-83528_128623c.asp">CHEAP FLOWERS</a></li>
+        <li><a href="http://www.teleflora.com/birthday/birthday-flowers-all-64062_64063c.asp">BIRTHDAY FLOWERS</a></li>
+        <li><a href="http://www.teleflora.com/funeral-flowers/funeral-flower-arrangements.asp">FUNERAL FLOWERS</a></li>
+        <li><a href="http://www.teleflora.com/wedding-florist/wedding-florists.asp">WEDDING FLOWERS</a></li>          
+      </ul>
+    </div>
+    <div id="fmenu4" class="fmenu">
+      <div class="title">CUSTOMER SERVICE</div>
+      <ul>
+        <li><a href="http://www.teleflora.com/ordering.asp">ORDER &amp; DELIVERY POLICY</a></li>        
+        <li><a href="http://www.teleflora.com/international-flowers/international-flower-delivery.asp">INTERNATIONAL FLOWER DELIVERY</a></li>  
+        <li><a href="http://www.teleflora.com/customerservice.asp">CONTACT US</a></li>
+        <li><a href="http://www.teleflora.com/customerservice.asp">SEND FEEDBACK</a></li>
+        <li>1.800.835.3356</li>     
+      </ul>
+    </div>
+  </div>
+  <!-- end of insidefooter_section 2 -->
+  <div id="tfcopyright">©<script type="text/javascript">var d = new Date(); document.write(d.getFullYear());</script>2020 Teleflora, LLC All rights reserved. Teleflora LLC is a registered ISO and MSP of HSBC Bank, USA, National Association, Buffalo NY.</div>
+</div>
+<!-- end of insidefooter_wrapper-->
+<!-- CODE START .........DO NOT DELETE......  --> 
 
-// test if valid email address, must have @ and .
-var checkEmail = "@.";
-var checkStr = theForm.Email.value;
-var EmailValid = false;
-var EmailAt = false;
-var EmailPeriod = false;
-for (i = 0;  i < checkStr.length;  i++)
-{
-ch = checkStr.charAt(i);
-for (j = 0;  j < checkEmail.length;  j++)
-{
-if (ch == checkEmail.charAt(j) && ch == "@")
-EmailAt = true;
-if (ch == checkEmail.charAt(j) && ch == ".")
-EmailPeriod = true;
-	  if (EmailAt && EmailPeriod)
-		break;
-	  if (j == checkEmail.length)
-		break;
-	}
-	// if both the @ and . were in the string
-if (EmailAt && EmailPeriod)
-{
-		EmailValid = true
-		break;
-	}
-}
-if (!EmailValid)
-{
-alert("The \"email\" field must contain an \"@\" and a \".\".");
-theForm.Email.focus();
-return (false);
-}
-
-}
-//--></script>
-<!-- BEGIN SEARCH FOOTER -->
-</div></td>
-</tr>
-<tr>
-  <td align="left"><table width="980" border="0" cellspacing="0" cellpadding="0">
-      <tbody><tr>
-        <td class="footerlinks" align="left"><div class="footerlinks" align="center">Shop for: <a href="http://www.teleflora.com/same-day-flowers/flowers-same-day-delivery-125661_125678c.asp" class="footerlinks" title="Same Day flower delivery"><u>Same Day Flower Delivery</u></a> | <a href="http://www.teleflora.com/cheap-flowers/cheap-flower-delivery-83528_128623c.asp" title="Cheap Flowers" class="footerlinks"><u>Cheap Flowers</u></a> | <a href="http://www.teleflora.com/birthday/birthday-flowers-all-64062_64063c.asp" class="footerlinks" title="Birthday Flowers"><u>Birthday Flowers</u></a> | <a href="http://www.teleflora.com/funeral-flowers/funeral-flower-arrangements.asp" class="footerlinks" title="Funeral Flowers"><u>Funeral Flowers</u></a>| <a href="http://www.teleflora.com" class="footerlinks" title="Send Flowers Online"><u>Send Flowers Online</u></a></div>
-          <br>
-          <table width="980" border="0" cellspacing="0" cellpadding="0">
-            <tbody><tr>
-              <td width="80" align="left"><!--<img src="/images/vendors/00005557/bottom.nav_02.gif" width="133" height="23" alt="">--></td>
-              <td width="175" id="inside-mcfee" align="left"><!--<table width="169" border="0" cellpadding="0" cellspacing="0">
-                <tr valign="middle">
-                  <Form name="email_signup" method="post"  action="/Popups/winflowers.asp" onSubmit="return Form1_Validator(this);window.open('/popups/winflowers.asp','EmailSignup','width=50,height=50,toolbar=no,menubar=no,scrollbars=yes, resizable=yes')" target="EmailSignup">
-                    <td width="112"><input type=hidden name=check value="">
-                        <input type=hidden name=nomatch value="">
-                        <input name="Email" type="text" size="16" maxlength="50" id="email" align="middle"  value="enter email address" style="margin-left:0px; height:17px; font-size:7pt;" onFocus="this.value=''"></td>
-                    <td width="57"><input name="submit" type=image src="/images/vendors/00005557/bottom.nav_06.gif" align="middle" width="17" height="22" style="margin-top:3px;">                      </td>
-                  </form>
-                </tr>
-              </table>--></td>
-              <td width="162" style="padding-left:20px;" align="left">
-                <a href="https://www.teleflora.com/secure/MyAcctTFRewardsSplash.asp"><img src="/images/vendors/00005557/reward-footer.jpg" border="0" style="position:relative; top:-5px;"></a>
-                </td>
-              <td width="287" align="right">
-
-<script language="javascript">
-var newwindow;
-var newurl;
-var test=window.document.location;
-function poptastic(url)
-{
- newurl=url+test;
- newwindow=window.open(newurl,'name','height=1,width=1');
- if (window.focus) {newwindow.focus()}
-}</script>
-<a href="javascript:poptastic('/popups/custom.asp?popupid=7055&amp;urlname=');" mce_href="javascript:poptastic('/popups/custom.asp?popupid=7055&amp;urlname=');" style="font-family: Geneva, Arial, Helvetica, sans-serif; font-size:10px; color:#444444; position: relative; top:-5px; font-weight:bold;">Customer Service 1.800.835.3356 | </a><a href="javascript:poptastic('/popups/custom.asp?popupid=7036&amp;urlname=');" mce_href="javascript:poptastic('/popups/custom.asp?popupid=7036&amp;urlname=');"><img src="/images/vendors/00005557/newbottom_nav_04_p1.gif" alt="Send us your feedback!" border="0"></a>
-
-                </td>
-            </tr>
-          </tbody></table></td>
-      </tr>
-      
-      <tr>
-        <td height="20" align="center"><span style="font-family: Geneva, Arial, Helvetica, sans-serif; font-size:9px;"><a href="http://flowers.teleflora.com/reviews/?srccode=tf_reviews" title="Teleflora flower bouquet reviews" style="font-family: Geneva, Arial, Helvetica, sans-serif; font-size:9px;" class="navcolor">Bouquet Reviews</a> | <a rel="nofollow" href="http://www.teleflora.com/customerservice.asp" style="font-family: Geneva, Arial, Helvetica, sans-serif; font-size:9px;" class="navcolor">Customer Service</a> |  <a href="http://www.teleflora.com/media.asp" title="Media" style="font-family: Geneva, Arial, Helvetica, sans-serif; font-size:9px; margin-left:1px;" class="navcolor">Media</a> | <a href="http://community.teleflora.com" title="Teleflora's Community Blog" style="font-family: Geneva, Arial, Helvetica, sans-serif; font-size:9px; margin-left:1px;" class="navcolor">Join Our Community</a> | <a href="http://www.teleflora.com/info-about-teleflora.asp" title="About Teleflora" style="font-family: Geneva, Arial, Helvetica, sans-serif; font-size:9px; margin-left:1px;" class="navcolor">About Us</a> | <a rel="nofollow" href="http://www.teleflora.com/info-partner-programs.asp" style="font-family: Geneva, Arial, Helvetica, sans-serif; font-size:9px; margin-left:1px; font-stretch:expanded;" class="navcolor" title="Teleflora Partner &amp; Affiliate Programs">Partner &amp; Affiliate Programs</a> | <a href="http://www.findaflorist.com/" target="faf" title="Find a Florist" style="font-family: Geneva, Arial, Helvetica, sans-serif; font-size:9px; margin-left:1px;" class="navcolor">Find a Florist</a> | <a rel="nofollow" href="http://www.teleflora.com/securityprivacy.asp" style="font-family: Geneva, Arial, Helvetica, sans-serif; font-size:9px; margin-left:1px;" class="navcolor">Security/Privacy</a> | <a rel="nofollow" href="http://www.teleflora.com/ordering.asp" style="font-family: Geneva, Arial, Helvetica, sans-serif; font-size:9px; margin-left:1px;" class="navcolor">Order &amp; Delivery Policy </a> | <a href="http://www.teleflora.com/international-flowers/international-flower-delivery.asp" title="International Flower Delivery" style="font-family: Geneva, Arial, Helvetica, sans-serif; font-size:9px; margin-left:1px;" class="navcolor">International Flower Delivery</a> | <a rel="nofollow" href="https://teleflora.tms.hrdepartment.com/cgi-bin/a/searchjobs_quick.cgi" style="font-family: Geneva, Arial, Helvetica, sans-serif; font-size:9px;" class="navcolor">Careers</a> |<a href="http://www.teleflora.com/teleflora-sitemap.asp" title="Teleflora Flower Site Map" style="font-family: Geneva, Arial, Helvetica, sans-serif; font-size:9px; margin-left:1px;" class="navcolor">Site Map</a></span></td>
-      </tr>
-      
-      <tr>
-        <td colspan="4" align="center" class="gy7tdn" a=""><br>
-          <br>
-          Copyright
-          <script type="text/javascript">
-var d = new Date()
-document.write(d.getFullYear())
-  </script>2020
-          Teleflora. All rights reserved. </td>
-      </tr>
-    </tbody></table>
-    <!-- END SEARCH FOOTER -->
-    </td></tr></tbody></table>
-    <style>
-      span.catproduct-price {
-width:40px;
-text-align:center; 
-font-size:12px;
-color:#000000;
-font-family:Arial,Helvetica,sans-serif; 
-text-decoration:none;
-font-weight:100;
-
-}
-
-span.catproduct-slashprice {
-text-align:center; 
-font-family:Arial,Helvetica,sans-serif; 
-color:#900b06; 
-font-size:12px; 
-font-weight:900;
-text-decoration:none;
-}
-
-
-.addTags {margin: 0; height:140px;}
-
-.radioOpt {float:left;}
-
-#howhappywastherecipientwiththebouquet .prfieldwrap {
-    height: 50px;
-}
-
-
-.checkboxes {
-    float: right;
-    width: 350px;
-}
-
-#describeyourself .prfieldwrap {
-    height: 40px;
-}
-
-
-      </style>
-
-
-      <!--[if IE]>
-<style>
-span.catproduct-slashprice {
-text-align:center; 
-font-family:Arial,Helvetica,sans-serif; 
-color:#900b06; 
-font-size:12px; 
-font-weight:900;
-text-decoration:none;
-width:175px;
-}
-
-
-span.catproduct-price {
-width:175px;
-text-align:center; 
-font-size:12px;
-color:#000000;
-font-family:Arial,Helvetica,sans-serif; 
-text-decoration:none;
-font-weight:100;
-}
-
-
-	</style>
-<![endif]-->
-
-
-
+<!-- CODE END .........DO NOT DELETE......  -->
+<div id="maxymWrapper"></div>
+</div></td></tr></tbody></table>
 
 </div>
-	<!--#Start of pixels-->
-
-
- 
-<iframe src="https://www.imiclk.com/cgi/r.cgi?m=3&amp;mid=ZenLPe3e&amp;ptid=HOME" frameborder="0" scrolling="NO" width="0" height="0"> </iframe>
-
-
-
-
-  
-
-<!-- begin Marin Software Tracking Script -->
-<script type="text/javascript">
-var _marinClientId = "559woa3610";
-var _marinProto = (("https:" == document.location.protocol) ? "https://" : "http://");
-document.write(unescape("%3Cscript src='" + _marinProto + "tracker.marinsm.com/tracker/" +
-_marinClientId + ".js' type='text/javascript'%3E%3C/script%3E"));
-</script><script src="https://tracker.marinsm.com/tracker/559woa3610.js" type="text/javascript"></script>
-<script type="text/javascript">
-try {
-_marinTrack.trackPage();
-} catch(err) {}
-</script>
-<noscript>
-<img src="https://tracker.marinsm.com/tp?act=1&cid=559woa3610&script=no" >
-</noscript>
-<!-- end Copyright Marin Software -->
+<!--#Start of pixels-->
 
 
 <script type="text/javascript">
@@ -774,13 +2828,19 @@ var testtype = new Array();
 
 testtype[0] = '13708'; //generic page
 testtype[1] = '13702'; //product page with a single product - product page [0-9]p.asp
-testtype[2] = '13704'; // product page with multiple products - product page [0-9]p.asp
+testtype[2] = '13704'; // product page with multiple products - product page [0-9]p.asp - Not used anymore due to new PDP design
 testtype[3] = '13705'; //category page [0-9]c.asp
 testtype[4] = '13706'; //basket page - we are looking for basket.asp
 testtype[5] = '13707'; //home page - if ".asp" does not exist and there is no more "/" after .com/
 testtype[6] = ''; //delivery page - this is not implemented yet
 
+var testvalue = new Array();
+
+testvalue[0] = '0.005'; //capture recordings for .5% of traffic
+testvalue[1] = '0.10'; //capture recordings for 10% of traffic
+
 var testid = testtype[0];
+var testrecording = testvalue[0];
 
 var url = window.location.href;
 
@@ -790,6 +2850,7 @@ testid = testtype[4];
 
 else if ((url == 'http://www.teleflora.com') || (url == 'http://www.teleflora.com/')||(url.indexOf("http://www.teleflora.com/?")!=-1)||(url.indexOf("http://www.teleflora.com/&")!=-1)||(url.indexOf("http://www.teleflora.com?")!=-1)||(url.indexOf("http://www.teleflora.com&")!=-1)||(url.indexOf("http://www.teleflora.com/feature.asp")!=-1)){ //home page - if ".asp" does not exist and there is no more "/" after .com/
 testid = testtype[5];
+testrecording = testvalue[1];
 } //rework
 
 else if ((url.indexOf("0c.asp")!=-1)||(url.indexOf("1c.asp")!=-1)||(url.indexOf("2c.asp")!=-1)||(url.indexOf("3c.asp")!=-1)||(url.indexOf("4c.asp")!=-1)||(url.indexOf("5c.asp")!=-1)||(url.indexOf("6c.asp")!=-1)||(url.indexOf("7c.asp")!=-1)||(url.indexOf("8c.asp")!=-1)||(url.indexOf("9c.asp")!=-1)){ //category page [0-9]c.asp
@@ -797,13 +2858,14 @@ testid = testtype[3];
 }
 
 else if ((url.indexOf("0p.asp")!=-1)||(url.indexOf("1p.asp")!=-1)||(url.indexOf("2p.asp")!=-1)||(url.indexOf("3p.asp")!=-1)||(url.indexOf("4p.asp")!=-1)||(url.indexOf("5p.asp")!=-1)||(url.indexOf("6p.asp")!=-1)||(url.indexOf("7p.asp")!=-1)||(url.indexOf("8p.asp")!=-1)||(url.indexOf("9p.asp")!=-1)){ //product page [0-9]p.asp
+testid = testtype[1];
 
-  if (optrial.opProductImagesNum == 1){
-  testid = testtype[1];
-  }
-  else {
-  testid = testtype[2];
-  }
+//  if (optrial.opProductImagesNum == 1){
+//  testid = testtype[1];
+//  }
+//  else {
+//  testid = testtype[2];
+//  }
 }
 
 
@@ -820,8 +2882,9 @@ document.write(unescape("%3Cscript src='"+((document.location.protocol=='https:'
 </script><script src="https://clicktale.pantherssl.com/WRc3.js" type="text/javascript"></script>
 <script type="text/javascript">
 var ClickTaleSSL=1;
-if(typeof ClickTale=='function') ClickTale(testid,0.025,"www02");
+if(typeof ClickTale=='function') ClickTale(testid,testrecording,"www02");
 </script> 
+
 <!-- ClickTale end of Bottom part -->
 
 
@@ -832,91 +2895,55 @@ if(typeof ClickTale=='function') ClickTale(testid,0.025,"www02");
 
 
 
-<script language="JavaScript" type="text/javascript">
-    function trim(str) {
-        return str.replace(/^\s+|\s+$/g,"");
-    }
-</script>
-<script type="text/javascript" src="https://px.steelhousemedia.com/st?aid=9326&amp;cb=74811874149669580&amp;shcv=&amp;shcq=&amp;shcp=&amp;shpn=&amp;shpc=&amp;shpp=&amp;shpb=&amp;shpi=&amp;shps=&amp;tdr=&amp;plh=https%3A%2F%2Fweb.archive.org%2Fweb%2F20111221202435id_%2Fhttp%253A%2F%2Fwww.teleflora.com%2Fsecurityprivacy-061909.aspInsert additional data starting with &amp;"></script><script type="text/javascript">
-// tracking pixel version 2.8.6
-var url2 = window.location.href; 
-if (url2.indexOf("p.asp")>-1){
-var shpn=name_tracking; 
-var shpc=''; 
-var shpp=price_tracking; 
-var shpb=''; 
-var shpi=''; 
-var shps=sku_tracking; 
-//var shps='';
-}
- else {
-var shpn=''; 
-var shpc=''; 
-var shpp=''; 
-var shpb=''; 
-var shpi=''; 
-var shps=''; 
-} if (url2.indexOf("asket.asp")>-1){
-var basket_sku = '';
-var basket_skutotal = '';
-var field_sku = document.getElementById('prodDet_1');
-                if(!field_sku) {  } else {
-                var oldHTML = field_sku.innerHTML;
-                var temp_sku = oldHTML.split('Item #');
-                basket_sku = temp_sku[1];
-                var temp_sku2 = basket_sku.split('<br>');
-                basket_sku = temp_sku2[0];
-                  var mystr = basket_sku;
-basket_sku = trim(mystr);   }
-basket_skutotal = basket_sku;
-for (var zebra=2; zebra <12; zebra++){
-var elementnamez = 'prodDet_'+zebra;
-field_sku = document.getElementById(elementnamez);
-                if(!field_sku) {  }   else {
-                var oldHTML = field_sku.innerHTML;
-                var temp_sku = oldHTML.split('Item #');
-                basket_sku = temp_sku[1];
-                var temp_sku2 = basket_sku.split('<br>');
-                basket_sku = temp_sku2[0];
-                  var mystr = basket_sku;
-basket_sku = trim(mystr); 
-basket_skutotal = basket_skutotal + ","+ basket_sku;  }
-}
 
-var shcv=''; 
-var shcq=''; 
-var shcp=basket_skutotal; 
+ 
+
+
+
+
+
+
+
+
+
+<script type="text/javascript">
+function USI_installCode() {
+	var USI_headID = document.getElementsByTagName("head")[0];
+	var USI_installID = document.createElement('script');
+	USI_installID.type = 'text/javascript';
+	USI_installID.src = 'http'+ (document.location.protocol=='https:'?'s://www':'://www')+ '.upsellit.com/launch/teleflora.jsp';
+	USI_headID.appendChild(USI_installID);
+}
+if (window.addEventListener){
+	window.addEventListener('load', USI_installCode, true);
+} else if (window.attachEvent) {
+	window.attachEvent('onload', USI_installCode);
 } else {
-var shcv=''; 
-var shcq=''; 
-var shcp=''; 
+	USI_installCode();
 }
-var additional='Insert additional data starting with &';
-var aid='9326';var tdr='';if (top.document.referrer != ''){tdr = encodeURIComponent(top.document.referrer);}var plh='';if (parent.location.href != ''){plh = encodeURIComponent(parent.location.href);}shpi = encodeURIComponent(shpi);(function(){steelhouse={add:function(a,b,c,d){d=d||false;if(a.addEventListener){a.addEventListener(b,c,d)}else if(a.attachEvent){a.attachEvent("on"+b,c)}},load:function(){var a;if(typeof a=='undefined'){a=Math.random()*100000000000000000}var b=document.createElement('script');var c='px.steelhousemedia.com/st?aid='+aid+'&cb='+a+'&shcv='+shcv+'&shcq='+shcq+'&shcp='+shcp+'&shpn='+shpn+'&shpc='+shpc+'&shpp='+shpp+'&shpb='+shpb+'&shpi='+shpi+'&shps='+shps+'&tdr='+tdr+'&plh='+plh+additional;b.type='text/javascript';b.src=('https:'==document.location.protocol?'https://':'http://')+c;var d=document.getElementsByTagName('script');var e=Number(d.length)-1;var f=document.getElementsByTagName('script')[e];f.parentNode.insertBefore(b,f)}};steelhouse.load();})();
 </script>
-
-
-	
 <!--#End of pixels--><!--#Start of random pixels-->
 <!--#End of random pixels-->
 		<script type="text/javascript">
 		var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
 		document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
 		</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
+	        
 		<script type="text/javascript">
-		try {
-		var pageTracker = _gat._getTracker("UA-2932962-1");
-		pageTracker._trackPageview();
-		} catch(err) {}</script>
-	
+		    try 
+		    {
+		        var pageTracker = _gat._getTracker("UA-2932962-1");
+		        pageTracker._trackPageview();
+		    }       
+            catch (err) { }
+	    </script>    
+   
 
 <script language="JavaScript" type="text/javascript" src="http://teleflora.edgesuite.net/js/menu_js.js"></script>
 <script language="javascript" type="text/javascript" src="/js/tf_homepagejs.asp"></script>
 <script language="JavaScript" type="text/javascript" src="http://teleflora.edgesuite.net/Images/Vendors/00005557/tf_com.js"></script>
 
 <script type="text/javascript" src="http://teleflora.edgesuite.net/Images/vendors/00005557/optestend.js"></script>
- 
-	<script language="javascript" type="text/javascript" src="http://teleflora.resultspage.com/autosuggest/searchbox_suggest_v1.js"></script> 
 
 <script type="text/javascript">
 	var showNewUserAlertBox;
@@ -929,6 +2956,10 @@ var aid='9326';var tdr='';if (top.document.referrer != ''){tdr = encodeURICompon
 		}
 	}	
 </script>
+
+
+    <script language="javascript" type="text/javascript" src="http://teleflora.edgesuite.net/images/vendors/00005557/teleflora-end.js"></script>
+
 
 
 </body></html>
