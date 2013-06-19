@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hellopoetry.com privacy policy that was archived on 2012-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121123201510id_/http%3A//hellopoetry.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hellopoetry.com privacy policy that was archived on 2013-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130619142759id_/http%3A//hellopoetry.com/privacy) for the most accurate reproduction.*
 
 # Privacy policy — Hello Poetry
 
@@ -36,7 +36,7 @@ We reserve the right to disclose your personally identifiable information as req
 
 To modify or delete any or all of the personal information you have provided to us, please login and update your profile.
 
-_People under 13 are not permitted to use Hello Poetry on their own, and so this privacy policy makes no provision for their use of the site._
+ _People under 13 are not permitted to use Hello Poetry on their own, and so this privacy policy makes no provision for their use of the site._
 
 ### Questions
 
