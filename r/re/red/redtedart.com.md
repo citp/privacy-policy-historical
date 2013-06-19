@@ -1,9 +1,10 @@
-> *The following text is extracted and transformed from the redtedart.com privacy policy that was archived on 2012-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121225113919id_/http%3A//www.redtedart.com/cookies-privacy-policies-disclosure) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the redtedart.com privacy policy that was archived on 2013-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130619033422id_/http%3A//www.redtedart.com/cookies-privacy-policies-disclosure) for the most accurate reproduction.*
 
-# Red Ted Art's Blog Cookies, Privacy Policies & Disclosure » Red Ted Art's Blog
+# Cookies, Privacy Policies & Disclosure - Red Ted Art's Blog
 
-## Cookies, Privacy Policies & Disclosure
-
+[](http://pinterest.com/pin/create/button/?url=http%3A%2F%2Fwww.redtedart.com%2Fcookies-privacy-policies-disclosure%2F&media=&description=Cookies%2C%20Privacy%20Policies%20%26%23038%3B%20Disclosure) |   
+---|---  
+  
 ## **Privacy Policy**
 
 **Log Files**
@@ -23,7 +24,7 @@ Red Ted Ary uses cookies that
 
   * Google, as a third party vendor, uses cookies to serve ads on  Red Ted Art.
   * Google’s use of the DART cookie enables it to serve ads to users based on their visit to Red Ted Art and other sites on the Internet.
-  * Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at the following URL – http://www.google.com/privacy_ads.html
+  * Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at the following URL – http://www.google.com/privacy_ads.html or [click through to opt out](http://www.google.com/privacy_ads.html)
 
 
 
@@ -51,10 +52,5 @@ These third-party ad servers or ad networks use technology to the advertisements
 
 Note: on occasion Red Ted Art will share an affiliate link with you – usually to Amazon books or craft supplies, that have been used on Red Ted Art. On those occasions should you purchase the item through the affiliate link, I will receive a small percentage of the sale, which helps cover running costs of this site.
 
-## Disclosure – Giveaways/ competitions:
-
-  * Most competitions on this site as of July 2012 will have been paid for.
-
-
-
-[](http://pinterest.com/pin/create/button/?url=http%3A%2F%2Fwww.redtedart.com%2Fcookies-privacy-policies-disclosure%2F&media=&description=Cookies%2C%20Privacy%20Policies%20%26%23038%3B%20Disclosure)
+[](http://pinterest.com/pin/create/button/?url=http%3A%2F%2Fwww.redtedart.com%2Fcookies-privacy-policies-disclosure%2F&media=&description=Cookies%2C%20Privacy%20Policies%20%26%23038%3B%20Disclosure) |   
+---|---
