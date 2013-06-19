@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jessicawatson.com.au privacy policy that was archived on 2012-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121109140057id_/http%3A//www.jessicawatson.com.au/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jessicawatson.com.au privacy policy that was archived on 2013-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130619192035id_/http%3A//jessicawatson.com.au/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
