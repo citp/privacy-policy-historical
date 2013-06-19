@@ -1,12 +1,20 @@
-> *The following text is extracted and transformed from the businessoffashion.com privacy policy that was archived on 2012-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121126090046id_/http%3A//www.businessoffashion.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the businessoffashion.com privacy policy that was archived on 2013-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130619210700id_/http%3A//businessoffashion.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy and Cookie Policy | BoF – The Business of Fashion
+# Privacy Policy - BoF - The Business of Fashion
 
-This privacy policy covers this website and all sites (together, the “ **Websites** “) produced by Imran Amed / The Business of Fashion (“ **we** “, “ **us** “).
+Last Updated February 16, 2013
 
-It is your responsibility to read and understand this privacy policy. If you do not agree to all of this privacy policy and do not wish to be bound by it, you are not authorised to access or otherwise use the Websites.  In reviewing this privacy policy, please also read our User Agreement which can be found at: businessoffashion.com/terms-of-use.
+**GENERAL RULES AND DEFINITIONS**
 
-We are committed to safeguarding your privacy online.  We appreciate that you do not want any personal information you provide to us distributed indiscriminately and here we explain how we collect information, what we do with it and what controls you have. This privacy policy may change from time to time so please check back here frequently.
+This page describes the Privacy Policy that govern your use of certain Business of Fashion digital products, including the website www.businessoffashion.com and mobile applications, offered by The Business of Fashion Ltd. (“BoF”, “us” or “we”).
+
+If you choose to use [www.businessoffashion.com](http://www.businessoffashion.com/), any mobile sites and applications, or any of the features of this site (the “Site”), including but not limited to RSS, API, software and other downloads (collectively, the “Services”), you will be agreeing to abide by all of the terms and conditions of the BoF Privacy Policy.  Your continued use of the Site and Services now, or following the posting of notice of changes in these operating rules, will indicate acceptance by you of such rules.
+
+It is your responsibility to read and understand this privacy policy. **If you do not agree to all of this privacy policy and do not wish to be bound by it, you are not authorised to access or otherwise use the Site or Services.**   In reviewing this privacy policy, please also read our [Terms & Conditions](http://businessoffashion.com/tcs)
+
+We may change, add or remove portions of this Privacy Policy at any time, which shall become effective immediately upon posting. It is your responsibility to review this Privacy Policy prior to each use of the Site and Services and by continuing to use this Site and Services, you agree to any changes.  
+
+We are committed to safeguarding your privacy online.  We appreciate that you do not want any personal information you provide to us distributed indiscriminately and here we explain how we collect information, what we do with it and what controls you have. This privacy policy may change from time to time.
 
 This privacy policy explains the following:
 
@@ -28,23 +36,23 @@ This privacy policy explains the following:
 
 ### Personal Information we collect about you
 
-1.1 Your personal information is collected when you register or fill in a form on a Website, or you send an email to Imran Amed /The Business of Fashion. Personal information that is provided by you will only be used for the purpose for which it is provided, unless you are informed otherwise at the time of giving the information. You may inform Imran Amed /The Business of Fashion at any time if you wish Imran Amed /The Business of Fashion to cease using your personal information.
+1.1 Your personal information is collected when you register or fill in a form on a Website, or you send an email to BoF. Personal information that is provided by you will only be used for the purpose for which it is provided, unless you are informed otherwise at the time of giving the information. You may inform BoF at any time if you wish BoF to cease using your personal information.
 
-1.2  Imran Amed /The Business of Fashion will from time to time collect information from you for purpose of creating de-personalised data that does not reveal your identity.  Imran Amed /The Business of Fashion uses this information to improve our products ** _ _** and occasionally for other internal purposes.  This information is only used in de-personalised form and is not connected to any name, address or other personal identifying information.
+1.2  BoF will from time to time collect information from you for purpose of creating de-personalised data that does not reveal your identity.  BoF uses this information to improve our products ** _ _** and occasionally for other internal purposes.  This information is only used in de-personalised form and is not connected to any name, address or other personal identifying information.
 
-1.3 There are links on the Websites to third party websites over which Imran Amed /The Business of Fashion has no control. Imran Amed /The Business of Fashion accepts no responsibility or liability for any third party practices on third party websites. Imran Amed /The Business of Fashion advises you to carefully read third party privacy statements prior to the use of any third party website.
+1.3 There are links on the Websites to third party websites over which BoF has no control. BoF accepts no responsibility or liability for any third party practices on third party websites. BoF advises you to carefully read third party privacy statements prior to the use of any third party website.
 
 ### Storage of Personal Information
 
 2.1 The Websites have appropriate technical and organisational measures in place to protect against unauthorised or unlawful use of your personal information as well as the accidental loss, destruction or damage of your personal information whilst under our control. However no data transmission over the internet can be guaranteed to be 100% secure and whilst we strive to protect your personal information, we cannot guarantee the security of any information you transmit to us and you do so at your own risk.
 
-2.2 Due to the international nature of the internet, the collecting and processing of your personal information in accordance with this privacy policy will often involve transferring such information between countries in which Imran Amed /The Business of Fashion, other companies in the Imran Amed /The Business of Fashion group of companies and strategic partners are located.
+2.2 Due to the international nature of the internet, the collecting and processing of your personal information in accordance with this privacy policy will often involve transferring such information between countries in which BoF, other companies in the BoF group of companies and strategic partners are located.
 
-2.3 Imran Amed /The Business of Fashion shall take steps to ensure that any transfer of your personal information to a country or territory outside the European Economic Area, whose laws provide for a lesser standard of protection for your personal information than that provided under European law, shall be made subject to arrangements which will require that your personal information be processed to a standard compliant with European data protection laws.
+2.3 BoF shall take steps to ensure that any transfer of your personal information to a country or territory outside the European Economic Area, whose laws provide for a lesser standard of protection for your personal information than that provided under European law, shall be made subject to arrangements which will require that your personal information be processed to a standard compliant with European data protection laws.
 
 ### Use of Personal Information
 
-3.1 Imran Amed/The Business of Fashion processes personal information for the purpose of:
+3.1 BoF processes personal information for the purpose of:
 
   * monitoring, developing and improving the Websites, our services and your experience
   * providing a personalised service
@@ -56,11 +64,11 @@ This privacy policy explains the following:
 
 
 
-3.2 Imran Amed /The Business of Fashion may also contact you about your registration details even if you have opted-out of or declined to consent to receiving promotional emails.
+3.2 BoF may also contact you about your registration details even if you have opted-out of or declined to consent to receiving promotional emails.
 
 ### Disclosures
 
-4.1 We may disclose your personal information to partners of Imran Amed /The Business of Fashion who supply services to you on behalf of Imran Amed /The Business of Fashion and who need to process personal information in the provision of such services.  When you request goods and services from Imran Amed /The Business of Fashion, you are consenting to the disclosure of your personal information to Imran Amed /The Business of Fashion’s partners who may provide such goods and services.  Imran Amed & Company/The Business of Fashion will not disclose any of your personal information to any other third parties without your express consent.
+4.1 We may disclose your personal information to partners of BoF who supply services to you on behalf of BoF and who need to process personal information in the provision of such services.  When you request goods and services from BoF, you are consenting to the disclosure of your personal information to BoF’s partners who may provide such goods and services.  BoF will not disclose any of your personal information to any other third parties without your express consent.
 
 4.2 We may disclose depersonalised data (such as aggregated statistics) about the users of our Websites in order to describe our sales, customers, traffic patterns and other site information to prospective partners, advertisers, investors and other reputable third parties and for other lawful purposes, but these statistics will include no personally identifying information.
 
@@ -124,7 +132,7 @@ When you create or log in to an account on [http://www.google.com](http://www.t
 
 Cookies: ad.uk.doubleclick.net
 
-The Business of Fashion uses Google to serve advertisements. Advertisements are received from Google servers to your browser along with a cookie to anonymously identify you as you visit websites which serve advertising from Google servers.
+BoF uses Google to serve advertisements. Advertisements are received from Google servers to your browser along with a cookie to anonymously identify you as you visit websites which serve advertising from Google servers.
 
 More information about this cookie, including how to opt-out of receiving the cookie can be found at <http://www.google.com/settings/ads/onweb/>
 
@@ -147,13 +155,3 @@ You may opt-out find out more information, including how to opt-out of these coo
 ### Contact Details
 
 9.1  If you do not understand or accept this privacy policy or wish to contact us concerning any matter relating to your personal information then please email [info@businessoffashion.com](mailto:info@businessoffashion.com).
-
-* * *
-
-#### Legal
-
-Unless otherwise noted, all content, photos and video are the property of Imran Amed. Short text extracts of the content found on this website may be reproduced elsewhere, on the condition that The Business of Fashion is properly credited as the source with a link to the Business of Fashion  
-URL: [http://www.businessoffashion.com](http://www.businessoffashion.com/)  
-[Terms and Conditions](http://www.businessoffashion.com/terms-of-use "Full legal disclaimer") and [Privacy and Cookie Policy](http://www.businessoffashion.com/privacy-policy)
-
-© Copyright Amed & Company 2006-2012. All rights reserved.
