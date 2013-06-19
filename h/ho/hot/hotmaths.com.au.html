@@ -1,9 +1,8 @@
-<!--The following is the downloaded HTML source of the hotmaths.com.au privacy policy that was archived on 2012-12-24.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121224112146id_/http%3A//www.hotmaths.com.au/home/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the hotmaths.com.au privacy policy that was archived on 2013-06-19.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130619110351id_/http%3A//www.hotmaths.com.au/home/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html><head>
-    <link type="text/css" rel="stylesheet" href="/stylesheets/cssReset.20121129.css">
-    <link type="text/css" rel="stylesheet" href="/home/template/css/homeStyles.20121129.css">
+    <link type="text/css" rel="stylesheet" href="/home/template/css/homeStyles.20130613.css">
     <link rel="SHORTCUT ICON" href="/images/HOTmaths.ico">
 
     <title>Privacy</title>
@@ -13,14 +12,18 @@
     
 
 
-	<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="/struts/js/base/jquery-1.4.2.min.js"></script>
-	<script type="text/javascript" src="/struts/js/base/jquery-ui.min.js"></script>
-	<script type="text/javascript" src="/struts/js/plugins/jquery.form.min.js"></script>
+
+
+	<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="/struts/js/base/jquery-1.8.3.min.js"></script>
+	<script type="text/javascript" src="/struts/js/base/jquery-ui.min.js?s2j=3.5.1"></script>
+	<script type="text/javascript" src="/struts/js/plugins/jquery.form.min.js?s2j=3.5.1"></script>
   <script type="text/javascript" src="/struts/js/plugins/jquery.subscribe.min.js"></script>
-        	<link rel="stylesheet" href="/users/generalFiles/hotmaths-jquery-ui/jquery-ui.css" type="text/css">
-  <script type="text/javascript" src="/struts/js/struts2/jquery.struts2.min.js"></script>
+
+  <script type="text/javascript" src="/struts/js/struts2/jquery.struts2.min.js?s2j=3.5.1"></script>
+
 <script type="text/javascript">
-jQuery(document).ready(function () {
+$(function() {
+	jQuery.struts2_jquery.version="3.5.1";
 	jQuery.struts2_jquery.loadAtOnce = true;
   	jQuery.scriptPath = "/struts/";
 	jQuery.ajaxSettings.traditional = true;
@@ -28,18 +31,22 @@ jQuery(document).ready(function () {
 	jQuery.ajaxSetup ({
 		cache: false
 	});
+	
+	jQuery.struts2_jquery.require("js/struts2/jquery.ui.struts2.min.js");
+	
 });
 </script>
 
+        	<link id="jquery_theme_link" rel="stylesheet" href="/users/generalFiles/hotmaths-jquery-ui/jquery-ui.css?s2j=3.5.1" type="text/css">
 
-    <script type="text/javascript" src="/javascript/browserVersion.20121129.js"></script>
+    <script type="text/javascript" src="/javascript/browserVersion.20130613.js"></script>
 
     
 
-<link type="text/css" rel="stylesheet" href="/home/template/css/headerStyles.20121129.css">
-<script type="text/javascript" src="/javascript/acrobatCheck.20121129.js"></script>
-<script type="text/javascript" src="/javascript/flashCheck.20121129.js"></script>
-<script type="text/javascript" src="/home/template/headerScripts.20121129.js"></script>
+<link type="text/css" rel="stylesheet" href="/home/template/css/headerStyles.20130613.css">
+<script type="text/javascript" src="/javascript/acrobatCheck.20130613.js"></script>
+<script type="text/javascript" src="/javascript/flashCheck.20130613.js"></script>
+<script type="text/javascript" src="/home/template/headerScripts.20130613.js"></script>
 
 <script type="text/javascript">
     var WARNING_SCREEN_RES = "This system is best viewed at the screen resolution of 1024 x 576 or higher.";
@@ -48,7 +55,7 @@ jQuery(document).ready(function () {
     var WARNING_UPDATE_FLASH = "Adobe Flash player is required. Click <a href=http://get.adobe.com/flashplayer/ target=_blank>here</a> to download.";
 </script>
     
-    <link type="text/css" rel="stylesheet" href="/home/template/css/footerStyles.20121129.css">
+    <link type="text/css" rel="stylesheet" href="/home/template/css/footerStyles.20130613.css">
 <meta property="og:image" content="http://syd1hotstage.hotmaths.com.au/home/template/img/ogImage.gif">
 </head>
 <body>
@@ -61,101 +68,52 @@ jQuery(document).ready(function () {
 <script type="text/javascript">
     function popupRegistrationWindow() {
         var params = "width=600,height=700,top=100,left=300,menubar=no,resizable=no,scrollbars=yes,status=no,toolbar=no";
-        var paymentWindow = window.open("/usersCommon/showRegistrationHome.action", "paymentWindow", params);
+        var paymentWindow = window.open("/usersCommon/showRegistrationHome.action;jsessionid=08257F060F35B51B689D25046DD880DA", "paymentWindow", params);
         paymentWindow.focus();
     }
 </script>
-<!--[if gte IE 8]>
-<style type="text/css">
-.inputText {
-    padding-top: 5px;
-}
-</style>
-<![endif]-->
 
-<div id="warningMsg" style="display: none;"></div>
-<div id="hm-header">
-    <div id="qaz"></div>
-    <div id="header-logo">
-        <a id="cambridgeLogo" href="/"></a>
-        <a id="hotmathsLogo" href="/"></a>
+<div id="warningMsg" style="display:none;"></div>
+<div class="header">
+    <div class="headerLogos">
+        <a class="cambridgeLogo" href="/"></a>
+        <a class="hotmathsLogo" href="/"></a>
     </div>
-    <div id="header-login">
-        <form id="loginForm" onsubmit="disableButton()" action="/controlCentre/userLogin.action" method="POST">
-
-            <div id="errorText"><span id="val"></span></div>
-            <table class="inputsTable" cellpadding="0" cellspacing="0">
-                <tbody><tr>
-                    <td style="width: 160px;">
-                        <div class="inputTextBlock lblFrmFld">
-                            <input name="username" class="inputText" type="text">
-                            <div class="fieldLabel">Username</div>
-                        </div>
-                    </td>
-                    <td style="width: 160px;">
-                        <div class="inputTextBlock lblFrmFld">
-                            <input name="password" class="inputPassword" type="password">
-                            <div class="fieldLabel">Password</div>
-                        </div>
-                    </td>
-                    <td>
-                        <input id="loginBtn" type="submit" value="">
-                    </td>
-                </tr>
-            </tbody></table>
-
-            <div id="lb_text">
-                <a id="forgotPassword" href="/home/contactUs/forgotPassword/index.jsp">Forgotten login details?</a>
-                <a id="joinNow" href="javascript:popupRegistrationWindow();">JOIN NOW</a>
-            </div>
-        </form>
-    </div>
-
-    <div id="header-menu">
-        <ul id="navMenu">
-            
-            <li>
-                <a class="navMenu-heading" href="/">home</a>
-            </li>
-            <li>
-                <a class="navMenu-heading" href="/home/aboutUs">about us</a>
-            </li>
-            <li>
-                <a class="navMenu-heading" href="/home/whatsNew">what's new</a>
-            </li>
-            <li class="dropdown">
-                <a class="navMenu-heading">take a tour<div class="dropdownIcon"></div></a>
+    <span class="joinNow"><a href="javascript:popupRegistrationWindow()">JOIN NOW</a></span>
+    <div class="nav">
+        
+        <ul>
+            <li class="link"><a href="/">home</a></li>
+            <li class="link"><a href="/home/aboutUs">about us</a></li>
+            <li class="link"><a href="/home/whatsNew">what's new</a></li>
+            <li class="">
+                <a>take a tour</a>
+                <div class="ddIcon"></div>
                 <ul>
-                    <li><a href="/home/sampleLessons">sample&nbsp;lessons</a></li>
-                    <li><a href="/home/videos">videos</a></li>
+                    <li class="link"><a href="/home/sampleLessons">sample&nbsp;lessons</a></li>
+                    <li class="link"><a href="/home/videos">videos</a></li>
                 </ul>
             </li>
-            <li>
-                <a class="navMenu-heading" href="/home/trial">try it now</a>
-            </li>
-            <li class="dropdown">
-                <a class="navMenu-heading">pricing<div class="dropdownIcon"></div></a>
+            <li class=""><a href="/home/trial">try it now</a></li>
+            <li class="">
+                <a>pricing</a>
+                <div class="ddIcon"></div>
                 <ul>
-                    <li><a href="/home/pricingAtHome">at&nbsp;home</a></li>
-                    <li><a href="/home/pricingInSchools">in&nbsp;schools</a></li>
-                    </ul>
-            </li>
-            <li class="dropdown">
-                <a class="navMenu-heading">benefits<div class="dropdownIcon"></div></a>
-                <ul>
-                    <li><a href="/home/atHome">at&nbsp;home</a></li>
-                    <li><a href="/home/inClass">in&nbsp;the&nbsp;classroom</a></li>
+                    <li class="link"><a href="/home/pricingAtHome">at&nbsp;home</a></li>
+                    <li class="link"><a href="/home/pricingInSchools">in&nbsp;schools</a></li>
                 </ul>
             </li>
-            <li>
-                <a class="navMenu-heading" href="/home/topics">topics</a>
+            <li class="">
+                <a>benefits</a>
+                <div class="ddIcon"></div>
+                <ul>
+                    <li class="link"><a href="/home/atHome">at&nbsp;home</a></li>
+                    <li class="link"><a href="/home/inClass">in&nbsp;the&nbsp;classroom</a></li>
+                </ul>
             </li>
-            <li>
-                <a class="navMenu-heading" href="/home/contactUs">contact us</a>
-            </li>
-            <li>
-                <a class="navMenu-heading" href="/home/help">help</a>
-            </li>
+            <li class="link"><a href="/home/topics">topics</a></li>
+            <li class="link"><a href="/home/contactUs">contact us</a></li>
+            <li class="link"><a href="/home/help">help</a></li>
         </ul>
         <a id="twIcon" href="http://twitter.com/#!/HOTmathsHQ" title="Find us on twitter" target="_blank"></a>
         <a id="fbIcon" href="http://www.facebook.com/pages/Cambridge-HOTmaths/100409190014645" title="Find us on facebook" target="_blank"></a>
@@ -273,7 +231,7 @@ var google_conversion_value = 0;
             
         
     </div>
-    <div id="copyright">© 2011 Cambridge University Press Australia and New Zealand</div>
+    <div id="copyright">© 2013 Cambridge University Press Australia and New Zealand</div>
 </div>
     </div>
 
