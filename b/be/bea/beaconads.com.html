@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the beaconads.com privacy policy that was archived on 2012-11-12.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121112202258id_/http%3A//beaconads.com/about/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the beaconads.com privacy policy that was archived on 2013-06-19.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130619115745id_/http%3A//beaconads.com/about/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang=""><head>
 	<meta http-equiv="content-type" content="text/html;charset=utf-8">
@@ -8,17 +8,14 @@
 	<base href="https://beaconads.com">
 	<meta name="description" content="BuySellAds.com Online Advertising Network">
 	<meta name="keywords" content="sorry, keywords are lame...">
-	<link rel="stylesheet" href="/stuff/bsa.min.css?1352415480" type="text/css">
-	<link rel="stylesheet" href="/stuff/css/beaconads.css?1352415480" type="text/css">
-	<link rel="stylesheet" href="/stuff/css/skinny.css?1352415480" type="text/css" media="screen and (max-width: 1100px)">
-	<script type="text/javascript" src="/stuff/all.js?1352415480"></script>
+	<link rel="stylesheet" href="/stuff/bsa.min.css?1368882671" type="text/css">
+	<link rel="stylesheet" href="/stuff/css/beaconads.css?1368882671" type="text/css">
+	<link rel="stylesheet" href="/stuff/css/skinny.css?1368882671" type="text/css" media="screen and (max-width: 1100px)">
+	<script type="text/javascript" src="/stuff/all.js?1368882671"></script>
 	<link rel="shortcut icon" href="/images/i/favicon_ba.ico">
-
 
 </head>
 <body id="p" class="def notloggedin cart  ">
-
-<div class="disabledcss">Does BuySellAds look broken? Disable your ad blocker, their haphazard default filters sometimes break our site.</div>
 
 
 
@@ -71,12 +68,12 @@
 							<input type="password" id="password" name="password" value="" rel="password" class="hidedefault">
 						</li>
 						<li>
-							<button class="button" id="submit1" name="submit1"><span><em>Login</em></span></button>
+							<button class="button primary small" id="submit1" name="submit1"><span><em>Login</em></span></button>
 						</li>
 					</ul>
 					<span class="loginalt">
-						<a href="/users/forgot" class="quickedit">reset password</a>
-						<a href="/users/register">Signup</a>
+						<a href="/users/forgot" class="quickedit first">reset password</a>
+						<a href="/users/register" class="quickedit">Signup</a>
 					</span>
 		        </div>
 		    </form>
@@ -88,8 +85,8 @@
 		<div class="carttab">
 			<a href="/cart">
 				<span class="cart-total">
-					$119,859.65				</span>
-				<span class="view"><span class="cart-quantity">639 Items in cart</span></span>
+					$1,508.00				</span>
+				<span class="view"><span class="cart-quantity">16 Items in cart</span></span>
 			</a>
 		</div>
 		
@@ -103,16 +100,17 @@
 				<div class="pad cf">
 					
 					<div class="search">
-						<form action="/buy/searchform" method="post">
+						<form action="/buy/searchform" method="post" autocomplete="off">
 							<button class="button">
 								<span>
 									<em>Search</em>
 								</span>
 							</button>
-							<input name="tagsearch" type="text" rel="search the marketplace" class="hidedefault keyword" value="search the marketplace">
+							<input name="tagsearch" type="text" rel="search the marketplace" class="hidedefault keyword" value="search the marketplace" autocomplete="off">
+							<div class="autocomplete" style="">
+							</div>
 						</form>
 					</div>
-				
 				</div>
 			</div>
 
@@ -198,7 +196,7 @@
 				</ul>
 		
 		<p class="copyright cf">
-			© 2008 - 2012 <a href="/about">Beacon Ads LLC</a>&nbsp;  <a href="/about/terms">Terms</a> / <a href="/about/privacy">Privacy</a> / <a href="/about/refunds">Refunds</a>
+			© 2008 - 2013 <a href="/about">Beacon Ads LLC</a>&nbsp;  <a href="/about/terms">Terms</a> / <a href="/about/privacy">Privacy</a> / <a href="/about/refunds">Refunds</a>
 			<br>
 						~ Powered by <a href="http://buysellads.com" target="_blank">BuySellAds</a>
 						<br><br>
@@ -232,6 +230,33 @@
 	</div> 
 </div>
 
+<div class="disabledcss" style="position:absolute;top:0;left:0;right:0;background:#000;color:#fff;padding:15px;font-size:15px;">Does BuySellAds look broken? Disable your ad blocker, their haphazard default filters sometimes break our site.</div>
 
+<script>
+OnInit(function () {
+	var selector;
+	$('.search form input[name="tagsearch"]').autocomplete({source: function (request, response) {
+		request.tagsearch = request.term;
+		$.ajax({url: '/buy/search/js/1', type: "POST", data: request, dataType: "json", success: response});
+	}, minLength: 3, appendTo: '.autocomplete', select: selector = function (event, ui) {
+		event.preventDefault();
+		if (typeof ui.item == 'undefined')
+			$('.search form').submit();
+		else
+			window.location = "http://beaconads.com/buy/detail/" + ui.item.id;
+	}, open: function (event, ui) {
+		$('.ui-autocomplete').attr('style', '');
+		if (!$('.autocomplete #viewmore').length)
+		{
+			$('.autocomplete ul').eq(0).append('<li class="moreresults ui-menu-item" id="viewmore"><a href="#" data-autocomplete="">View More Results</a></li>');
+			$('#viewmore').unbind('click').click(function () { $('.search form').submit(); });
+		}
+	}}).data('autocomplete')._renderItem = function(ul, item) {
+		return $('<li></li>')
+			.data('item.autocomplete', item)
+			.append("<a class=\"gatrack\" rel=\"Autocomplete;Search;" + $('.search form input[name="tagsearch"]').val() + "\"><img src='" + item.icon + "' /><span class=\"propname\">" + item.value + "</span><span class=\"impscount\">" + item.imps + " Impressions</span></a>")
+			.appendTo(ul);
+    };
+});</script>
 
 </body></html>
