@@ -1,58 +1,73 @@
-> *The following text is extracted and transformed from the dyestat.com privacy policy that was archived on 2010-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100503094537id_/http%3A//www.dyestat.com/%3Fpg%3Dprivacy%26PHPSESSID%3D6a9445ad92a3a3bfc8c2e33f78644613) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dyestat.com privacy policy that was archived on 2013-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130619222014id_/http%3A//www.runnerspace.com/index.php%3Fdo%3Dprivacy) for the most accurate reproduction.*
 
-# The DyeStat Privacy Policy | DyeStat.com
+# RunnerSpace.com - Privacy Policy
 
-You are on: [DyeStat Home](https://web.archive.org/v5/) | **Privacy Policy**
+**RunnerSpace.com Privacy Policy**
 
-Privacy Policy
+**Information Collection and Use by RunnerSpace.com**
 
-Welcome to the DyeStat web site, owned and produced by Student Sports, Inc. All Products and Services offered by DyeStat, whether on the DyeStat web site or through any other medium or method of commerce or communication, are made available subject to this Privacy Policy. By using our Products and Services, you agree, without limitation or qualification, to be bound by this Privacy Policy or any other privacy or data collection policy applicable to the DyeStat web site and to receive any required legal notices regarding our privacy practices through the continuous posting of a clear and conspicuous link to the current version of this Privacy Policy throughout the DyeStat web site near the bottom of most pages. If you become an inactive user, we will adhere to the policies and practices as described in this Privacy Policy, which may be revised from time to time. Please note that DyeStat does not collect any personal information from persons who are younger than 13 years of age. 
+RunnerSpace collects user submitted information such as name, email address, and age to authenticate users and to send notifications to those users relating to the RunnerSpace service. RunnerSpace also collects other profile data including but not limited to: personal interests, gender and age in order to assist users in finding and communicating with each other.
 
-Please note that the DyeStat web site may contain links to other sites and that, unless you decide to opt out, DyeStat may share certain data with affiliate or subsidiary corporations or with certain marketing partners. Web sites that are linked to the DyeStat web site or those which carry the DyeStat brand for co-branding or marketing purposes may have privacy policies which differ from that of DyeStat.  
+RunnerSpace also logs non-personally-identifiable information including IP address, profile information, aggregate user data, and browser type, from users and visitors to the site. This data is used to manage the website, track usage and improve the website services. This non-personally-identifiable information may be shared with third-parties to provide more relevant services and advertisements to members. User IP addresses are recorded for security and monitoring purposes 
 
+User Profile information including members' pictures and first names are displayed to people in order to facilitate user interaction in the RunnerSpace members. Email addresses are used for the purposes of inviting new friends to join RunnerSpace, to add users to members' friends' profiles, and to send notifications related to the service. With the exception of inviting friends, adding friends, and notifications, a user's email address is not shared or displayed to people within a user's personal network Users within a personal network communicate on RunnerSpace.com with each other through the RunnerSpace.com service, without disclosing their email addresses. To facilitate searching and finding friends and acquaintances on the service, RunnerSpace.com may allow users to search for other members using first and last name, email address, and schools and/or companies where users may have attended or worked in the future.
 
-**1\. WHAT INFORMATION OF YOURS DOES DYESTAT COLLECT?**
+We may also use a user's email address to send updates, a newsletter or news regarding the service. Users may choose not to receive email of this type by changing their "notification" setting to "Do not send me notification emails" in the user "http://www.RunnerSpace.com/mySettings.php?do=privacy"
 
-We collect data that allows us to better understand you and your interests and to communicate with you about information, products and services you may be interested in. In doing so, DyeStat collects information which makes you different from its other unique users. 
+From time to time, RunnerSpace.com or a partner, may sponsor a promotion, sweepstake or contest on RunnerSpace.com. Users may be asked to provide personal information including name, email address or home address or to answer questions in order to participate. We may transfer personal information to certain ad partners that you have explicitly requested to receive information from. It will be clear at the point of collection who is collecting the personal information and whose privacy statement will apply. 
 
-Information collected online is usually defined as being either anonymous or personally identifiable. 
+**Invitations and Other Communications to Non-members**
 
-Anonymous information refers to data that cannot be tied back to a specific individual. For example, DyeStat collects information each time a visitor comes to the DyeStat web site so we can improve the overall quality of the visitor's online experience. DyeStat collects the visitor's IP address, referral data (e.g., the Internet address of the last Web page visited by a user before clicking over to a DyeStat Network site), and browser and platform type (e.g., a Netscape browser or a Macintosh platform). DyeStat collects this user information for purposes of product monitoring, product improvement, and targeted advertising. This information is collected for all visitors to sparqtraining.com. 
+RunnerSpace.com members can invite friends to join the service by sending invitation emails via our automated invitation system. RunnerSpace.com stores the email addresses that members provide so that the respondents may be added to the friend's list of the member sending the invitations, and also to stop them sending further invitations. RunnerSpace.com does not sell these email addresses or use them to send any other communication besides invitations, invitation reminders (up to three (3) per email address). Recipients of invitations from RunnerSpace.com may contact RunnerSpace.com to request the removal of their information from our database, however we never send more than one e-mail.
 
-Personally identifiable information refers to data that tells us specifically who you are, such as your name, email address or postal address. DyeStat collects personal information in several different ways, including, but not limited to, the following:  
+RunnerSpace.com members may also store email addresses of people they know in their internal RunnerSpace.com address book and may also choose to send invitations and other communications to those addresses.
 
+You may prevent RunnerSpace.com email invitations and other messages from being sent to any email address you control by sending a single email with the subject "BLOCK" to privacy@RunnerSpace.com Please note that the email must come from the account you wish to block. 
 
-  * 1\. DyeStat Mail: Signing up to receive our e-newsletter or e-mail promotional notices, requires that we capture and store your e-mail address 
-  * 2\. Correspondence: If you contact DyeStat, we may keep a record of that correspondence. We do not collect any email addresses of those who communicate with the DyeStat network via email. We use the information provided so that we may respond to the email. 
+**Use of Cookies**
 
+RunnerSpace.com uses cookies to store visitors' preferences and to record session information, for purposes including ensuring that visitors are not repeatedly offered the same advertisements and to customize newsletter, advertising, and Web page content based on browser type and user profile information. We do not link the information we store in cookies to any personally identifiable information you submit while on our site. You may be able to configure your browser to accept or reject all or some cookies, or notify you when a cookie is set -- each browser is different, so check the "Help" menu of your browser to learn how to change your cookie preferences -- however, you must enable cookies from RunnerSpace.com in order to use most functions on the site. Please note that RunnerSpace.com allows 3rd party advertisers that are presenting advertisements on some of our pages to set and access their cookies on your computer. Advertisers' use of cookies is subject to their own privacy policies, not the RunnerSpace Privacy Policy. 
 
+**Links**
 
-**2\. WHAT ORGANIZATION IS COLLECTING YOUR INFORMATION**
+RunnerSpace.com contains links to sites. RunnerSpace.com is not responsible for the privacy policies and/or practices on other sites. When linking to another site a user should read the privacy policy stated on that site. Our privacy policy only governs information collected on RunnerSpace.com. 
 
-When you register for a service at the DyeStat web site your personal information is generally collected and maintained by DyeStat and may be shared with our subsidiaries, affiliates or marketing partners. If you would prefer that DyeStat not share this information with our partners, please click here . Please note that you will no longer receive email communications from DyeStat. 
+**Chat Rooms, Blogs, Message Boards and Public Forums**
 
-Be aware that DyeStat business partners, sponsors or advertisers may have links on the DyeStat web site that take you to external sites. Some of these sites may collect personally identifiable information from you, and third-party advertising networks for DyeStat. While DyeStat hopes that all third parties involved adhere to our policies regarding the privacy of our users, the DyeStat Privacy Policy does not cover third-party data collection practices and DyeStat does not assume any responsibility for any actions of third parties. 
+Please be aware that whenever you voluntarily post public information to Blogs, Message Boards or any other Public Forums that that information can be accessed by the public and can in turn be used by those people to send you unsolicited communications.
 
-**3\. HOW DOES THE DYESTAT NETWORK USE THE INFORMATION IT COLLECTS?**
+**Correcting/Updating or Removing Information**
 
-DyeStat requests information from its users so that users can enjoy customized experiences across the DyeStat web site, including personalization services, interactive communications, and much more. Most of these Products and Services are available to you at no cost, and DyeStat may at some point display advertisements so we can continue to provide great content and services. We can also better prepare future content based on your interests. If at any time you no longer wish to receive DyeStat Services or Communications that require your personal information, please click here to remove your personal information from our database. 
+RunnerSpace.com users may modify or remove any of their personal information at any time by logging into their account and accessing features such as My profile and My account. 
 
-The following are examples of how DyeStat may use the information it collects: 
+**Email Choice/Opt-out**
 
-DyeStat uses the information collected (both anonymous and personal) to personalize and enhance the content you see on the DyeStat web site. In some cases, our Products and Services cannot work unless you have volunteered accurate information. 
+Members who no longer wish to receive updates or notifications may choose not to by selecting 'Do not send me notification emails' in the user profile 'Account Settings'. Users who do not wish to receive RunnerSpace.com newsletters may choose not to by selecting 'Do not send me newsletters' in the user profile 'My Account'. All notification emails and RunnerSpace.com newsletters also include the above instructions for opting-out of those communications in the future. 
 
-DyeStat may collect anonymous data and share it with third-party advertisers in an aggregate form. We may disclose to those advertisers the numbers of DyeStat users who have certain demographic characteristics and the number of those people who have seen and "clicked" on a particular display. We may also disclose to those advertisers the overall demographics available regarding who saw and "clicked" on their advertisement. No personally identifiable information will be disclosed as part of this process. 
+**Third Party Advertising**
 
-DyeStat also uses the aggregate data to perform statistical analyses of the collective characteristics and behavior of our registered users and visitors, to measure user demographics and interests regarding specific areas of the DyeStat web site, and to analyze how and where best to use our resources. We do not track what pages individual users are browsing, but rather how well each page performs overall. Without such data, we would not know which parts of the DyeStat Network are the most popular, and we would not be able to change and update the content and services appropriately. 
+RunnerSpace.com or one of our Web advertising partners may deliver ads appearing on this web site to users. Our Web advertising partners may set cookies. These cookies allow the ad server to recognize your computer each time they send you an online advertisement. In this way, ad servers may compile information about where you, or others who are using your computer, saw their advertisements and determine which ads are clicked on. This information allows an ad network to deliver targeted advertisements that they believe will be of most interest to you. This privacy statement covers the use of cookies by RunnerSpace.com and does not cover the use of cookies by any advertisers. 
 
-DyeStat may, from time to time, use your information to contact you about changes or enhancements to Products and Services on the DyeStat web site, issues regarding your account, or DyeStat Terms and Conditions violations or suspensions. 
+**Security**
 
-Unless you told DyeStat that you did not want us to share your personal information with subsidiaries, affiliates or marketing partners, these third parties may use that information to contact you about products and services that may be of interest to you. 
+RunnerSpace.com member accounts are secured by member-created passwords RunnerSpace.com takes precautions to insure that member account information is kept private. We use reasonable measures to protect member information that is stored within our database, and we restrict access to member information to those employees who need access to perform their job functions, such as our customer service personnel and technical staff. Please note that we cannot guarantee the security of member account information. Unauthorized entry or use, hardware or software failure, and other factors may compromise the security of member information at any time. For any additional information about the security measures we use on RunnerSpace.com, please contact us a privacy@RunnerSpace.com 
 
-**4\. WHAT CAN YOU DO TO BETTER PROTECT YOURSELF ON THE INTERNET?**
+**Sharing and Disclosure of Information RunnerSpace.com Collects**
 
-**Know the risks.**  
-Meeting new people in an online community (chat room, forum, newsgroup, message board, Web page, etc.) is one of the best things about the Internet, but you should always be careful about disclosing personal information such as an actual name, member name, email address, and so on. This information may be collected and used by others within the online community to send unsolicited email messages from other parties, outside the DyeStat web site. Some of the messages you receive may be useful to you, but some may not. In an effort to curtail unsolicited email, DyeStat blocks certain email addresses and domains from sending messages to email addresses at our domains. 
+Except as otherwise described in this privacy statement, RunnerSpace will not disclose personal information to any third party unless we believe that disclosure is necessary: (1) to conform to legal requirements or to respond to a subpoena, search warrant or other legal process received by RunnerSpace.com, whether or not a response is required by applicable law; (2) to enforce the RunnerSpace.com Member Agreement or to protect our rights; or (3) to protect the safety of members of the public and users of the service. RunnerSpace reserves the right to transfer personal information to a successor in interest that acquires rights to that information as a result of the sale of RunnerSpace or substantially all of its assets to that successor in interest. For more information see the "Changes in Our Privacy Policy" section below. 
 
-**Educate yourself.**  
-Search the Web for as much information as you can about how to protect your privacy. Look for a privacy policy on the Web sites you visit. 
+**Changes in Our Privacy Policy**
+
+From time to time we may make changes to our privacy policy. If we make changes, we will post them on our site to make users aware of what the changes are so users will always be aware of what information we collect, how we use it, and when we may disclose it. A user is bound by any minor changes to the policy when she or he uses the site after those changes have been posted. If, however, we are going to use users' personally identifiable information in a manner materially different from that stated at the time of collection we will notify by posting a notice on our web site for 30 days. 
+
+**Contacting the Web Site**
+
+If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, please contact us at:
+
+RunnerSpace
+
+P.O. Box 3915
+
+Eugene, OR 97403
+
+privacy@runnerspace.com
