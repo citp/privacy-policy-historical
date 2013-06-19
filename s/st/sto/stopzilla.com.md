@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the stopzilla.com privacy policy that was archived on 2012-10-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121017042611id_/http%3A//www.stopzilla.com/about/legal/w3c/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stopzilla.com privacy policy that was archived on 2013-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130619104850id_/http%3A//www.stopzilla.com/about/legal/w3c/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | STOPzilla – Security Software by STOPzilla
 
-## IS3, INC. (STOPzilla)
+## iS3, INC. (STOPzilla)
 
 ### http://www.stopzilla.com
 
@@ -43,7 +43,7 @@ Cookies are small text files that most Web sites, including iS3, place on your c
 
 ### Resident Software:
 
-For those who purchase support services from iS3 (SmartSupport), a resident program is installed on your desktop to provide a direct link to our support center via a chat application. This resident program also provides our technicians with your registration number and historical data from previous infections. If your machine is compromised in any way, this application provides an immediate connection with our technicians to repair any damage made by a malware infection. This application does not interfere with the operation of your computer.
+For those who purchase support services from iS3 (STOPzilla Premium Support), a resident program is installed on your desktop to provide a direct link to our support center via a chat application. This resident program also provides our technicians with your registration number and historical data from previous infections. If your machine is compromised in any way, this application provides an immediate connection with our technicians to repair any damage made by a malware infection. This application does not interfere with the operation of your computer.
 
 * * *
 
@@ -60,15 +60,3 @@ iS3 cannot guarantee that the information you provide to us is completely safe. 
 * * *
 
 If you have questions or comments on this Privacy Statement, please email us at [support@iS3.com](mailto:support@iS3.com), write to us at Privacy Concerns, c/o iS3, 2200 NW Boca Raton Blvd, Boca Raton, FL 33431 or call toll free 1-877-877-9944.
-
-TOLL FREE PHONE
-
-SUPPORT
-
-USA & Canada
-
-1-877-877-9944 
-
-International
-
-0-800-520-0429
