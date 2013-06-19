@@ -1,460 +1,546 @@
-<!--The following is the downloaded HTML source of the halomaps.org privacy policy that was archived on 2005-04-04.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20050404154619id_/http%3A//www.halomaps.org/index.cfm%3Fpg%3D1%26nid%3D82) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the halomaps.org privacy policy that was archived on 2013-06-19.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130619054905id_/http%3A//hce.halomaps.org/index.cfm%3Fpg%3D12) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN"><html><head>
-	<title>HALO CE Maps - The Halo CE Maps Archive the place for Halo CE maps for the Halo Custom Edition game</title>
-	<link href="style.css" rel="stylesheet" rev="stylesheet" type="text/css">
-	<meta name="Description" content="Halo CE Maps website www.halomaps.org a free download service of UXB Internet offers Halo CE Maps download Halo PC Maps and Maps for Halo CE Halo Custom Edition. Halo Mods for Halo PC Halo CE and Halo Custom edition as well as Halo PC Halo CE videos and Halo Movies. HALO Maps - www.halomaps.org the place for Halo PC Halo CE New Custom maps for the Halo PC Halo CE  and Halo Custom Edition game ">
-	<meta name="Keywords" content="Halo,Maps,mods,video,files,halo-maps,haloPC,haloCE,gearbox,game,PC,downloads,movies,custom,edition,haloce-maps,halopc-maps,utilities ">
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
+	<meta name="Keywords" content="halo, custom, editiom, halo CE, Halo Maps, game levels, PC game, first person game,shooter,  halo custom edition, Halo PC, tutorials, tags, halo tags">
+	<meta http-equiv="content-type" content="text/html;charset=iso-8859-1">
+	<meta name="verify-v1" content="EoU2vA16r5P/0OvBJvzmWM3mJjUhaxsqM1yAEHFpFR8=">
+	
+	<meta name="Description" content="Halo Custom Edition - Maps, Tags, Tutorials and Assets for the Halo CE Game -  Halo Custom Edition - Maps, Tags, Tutorials and Assets for the Halo CE Game">
+	<title>Halo Custom Edition - Maps, Tags, Tutorials and Assets for t</title>
+	 
+	<link rel="stylesheet" href="style.css" type="text/css">
+	<link href="thickbox.css" rel="stylesheet" type="text/css" title="prettyPhoto main stylesheet" charset="utf-8">
+	<link rel="shortcut icon" href="favicon.ico">
+	<script language="JavaScript" src="jquery.js" type="text/javascript"></script>
+	<script src="jsval.js" type="text/javascript" language="JavaScript"></script>
+	<script language="JavaScript" src="Thickbox.js" type="text/javascript"></script>
+	
 	<script language="javascript">
-	function files(fileName) {
-     myFloater = window.open('','myWindow','scrollbars=yes,status=no,width=400,height=480')
-     myFloater.location.href = fileName;
-	}
-	function win(fileName) {
-     myFloater = window.open('','newsWindow','scrollbars=yes,status=yes,location=yes,menubar=yes,toolbar=yes,resizeable=yes,width=800,height=600')
-     myFloater.location.href = fileName;
-	}
 	function pic(fileName) {
      myFloater = window.open('','newsWindow','scrollbars=yes,status=no,width=800,height=600')
      myFloater.location.href = fileName;
 	}
-	
-	
-</script>
-	
-
-
-<script language="JAVASCRIPT" type="text/javascript">
-
+	</script>
+	<script language="JavaScript">
 <!--
+extensions = new Array("jpeg",".jpg",".gif",".png","tiff",".tif",".bmp",".tga",".pcx","JPEG",".JPG",".GIF",".PNG","TIFF",".TIF",".BMP","TGA",".PCX")
 
-
-function _CF_onError(form_object, input_object, object_value, error_message)
-    {
-	alert(error_message);
-       	return false;	
-    }
-
-
-
-function _CF_hasValue(obj, obj_type)
-    {
-    if (obj_type == "TEXT" || obj_type == "PASSWORD")
-	{
-    	if (obj.value.length == 0) 
-      		return false;
-    	else 
-      		return true;
-    	}
-    else if (obj_type == "SELECT")
-	{
-        for (i=0; i < obj.length; i++)
-	    	{
-		if (obj.options[i].selected)
+function verifyfiletype(id, name, value) {
+	
+    var extension = value.substring(value.length-4, value.length)
+	for (var i = 0; i < extensions.length; i++) {
+		if (extension == extensions[i]) {
+  			hidewMe('submitbuttons'); 
+ 			showMe('whenSlowMessage'); 
 			return true;
-		}
+		    break
+		  }
+	 } return false
+}
 
-       	return false;	
-	}
-    else if (obj_type == "SINGLE_VALUE_RADIO" || obj_type == "SINGLE_VALUE_CHECKBOX")
-	{
-
-		if (obj.checked)
-			return true;
-		else
-       		return false;	
-	}
-    else if (obj_type == "RADIO" || obj_type == "CHECKBOX")
-	{
-
-        for (i=0; i < obj.length; i++)
-	    	{
-		if (obj[i].checked)
-			return true;
-		}
-
-       	return false;	
-	}
-	}
-
-
-function  _CF_checkNewServer(_CF_this)
-
-    {
-
-    if  (!_CF_hasValue(_CF_this.remoteIP, "TEXT" )) 
-
-        {
-
-        if  (!_CF_onError(_CF_this, _CF_this.remoteIP, _CF_this.remoteIP.value, "Please enter an IP number"))
-
-            {
-
-            return false; 
-
-            }
-
-        }
-
-
-    if  (!_CF_hasValue(_CF_this.remoteport, "TEXT" )) 
-
-        {
-
-        if  (!_CF_onError(_CF_this, _CF_this.remoteport, _CF_this.remoteport.value, "Please enter a Port number"))
-
-            {
-
-            return false; 
-
-            }
-
-        }
-
-
-    return true;
-
-    }
-
-
+function showMe(id) {
+	var elem = document.getElementById(id);
+	elem.style.visibility = "visible";
+	elem.style.display = "block";
+}
+function hidewMe(id) {
+	var elem = document.getElementById(id);
+	elem.style.visibility = "hidden";
+	elem.style.display = "none";
+}  	
+			
+			
 //-->
-
 </script>
-
+<!-- Place this tag in your head or just before your close body tag -->
+<script type="text/javascript" src="https://apis.google.com/js/plusone.js"></script>	
 </head>
+<body>
 
-<body leftmargin="0" topmargin="0" class="bgcolorclass">
+<div class="content">
 
-<table width="100%" border="0" cellspacing="0" cellpadding="0" bgcolor="#6E9DE6">
-	<tbody><tr>
-		<td width="233"><img src="images/top_1.gif" width="233" height="117" border="0" alt=""></td>
-		<td width="224"><img src="images/top_2.gif" width="224" height="117" border="0" alt=""></td>
-		<td background="images/top_spacer.gif"><img src="images/top_spacer.gif" width="11" height="117" border="0" alt=""></td>
-		<td width="167"><img src="images/top_3.gif" width="167" height="117" border="0" alt=""></td>
-		<td width="138"><img src="images/top_4.gif" width="138" height="117" border="0" alt=""></td>
-	</tr>
-</tbody></table>
-<table width="100%" border="0" cellspacing="0" cellpadding="0">
-	<tbody><tr>
-		<td width="100%" background="images/wide-h-line.gif"><img src="images/wide-h-line.gif" width="35" height="10" border="0" alt=""></td>
-	</tr>
-</tbody></table>
-<img src="images/space10.gif" width="10" height="10" border="0" alt=""><font class="normaltext">A Free Service of UXB Internet for all your Halo Custom Edition map files.</font>
+<div class="header">
+	<div class="top_info">
+		<p>Maps, Tags, Tutorials and Assets for the Halo Custom Edition Game</p>
+		</div>
+	<div class="logo">
+		<img src="images/toplogo0.jpg" alt="Halo Custom Edition Maps Website" hspace="0" vspace="0" border="0">
+	</div>
+</div>
+<div id="menu">
+		<div id="menuitems">
+			<a href="http://www.halomaps.org">Halo Maps Home</a>
+			<a href="http://hce.halomaps.org" id="menuselected">Halo CE Maps</a>
+			<a href="http://videos.halomaps.org">Halo CE Videos</a>
+			<a href="http://art.halomaps.org">Halo CE Art</a>
+			
+			<a href="http://h2v.halomaps.org">Halo 2 Vista</a>
+			<a href="http://www.halomovies.org">Halo Movies</a>
+			<a href="http://hcec.halomaps.org">Halo CE Chronicles</a>
+			<a href="http://www.portalgamemaps.com">Portal Maps</a>
+			<a href="http://forum.halomaps.org">Forum</a>
+		</div>
+	</div>
 
-<table width="100%" border="0" cellspacing="0" cellpadding="0">
-	<tbody><tr>
-		<td width="200" valign="top">
-			<table width="100%" cellspacing="8" cellpadding="5">
-				<tbody><tr>
-					<td width="190" valign="top" class="columnborder">
-						<font class="sidetitle">Main Menu</font>
-						<br><img src="images/space10.gif" width="10" height="10" border="0" alt=""><br>
-						<table width="100%" cellspacing="1" cellpadding="2">
-							
-							<tbody><tr>
-								<td><a href="./" class="menulink">Home</a><br></td>
-							</tr>
-							
-							<tr>
-								<td><a href="index.cfm?pg=4" class="menulink">News Archive</a><br></td>
-							</tr>
-							<tr>
-								<td><a href="http://forum.uxbgames.com/" class="menulink">User Forum</a><br></td>
-							</tr>
-							<tr>
-								<td><a href="index.cfm?pg=6" class="menulink">Halo Server list</a><br></td>
-							</tr>
-							<tr>
-								<td><a href="index.cfm?pg=16" class="menulink">Search Halo Maps</a><br></td>
-							</tr>
-							<tr>
-								<td><a href="submit/" class="menulink">Submit Maps</a><br></td>
-							</tr>
-							<tr>
-								<td><a href="index.cfm?pg=20" class="menulink">Subscribe to Email list</a><br></td>
-							</tr>
-							
-							<tr>
-								<td><a href="ftp://guest:guest@ftp2.halomaps.org/" class="menulink" target="_new">SUBMIT CONTENT FTP</a><br></td>
-							</tr>
-							
-						</tbody></table>
-						<img src="images/space10.gif" width="10" height="10" border="0" alt=""><br>
-						
-						<font class="sidetitle">downloads</font>
-						<br><img src="images/space10.gif" width="10" height="10" border="0" alt=""><br>
-						<table width="100%" cellspacing="1" cellpadding="2">
-							
-							<tbody><tr>
-								<td><a href="index.cfm?pg=15&amp;sid=21" class="menulink">The Halo CE Chronicles</a><br></td>
-							</tr>
-							
-							<tr>
-								<td><a href="index.cfm?pg=15&amp;sid=19" class="menulink">Map Preview Movies</a><br></td>
-							</tr>
-							
-							<tr>
-								<td><a href="index.cfm?pg=8&amp;sid=10" class="menulink">Halo CE Maps</a><br></td>
-							</tr>
-							
-							<tr>
-								<td><a href="index.cfm?pg=15&amp;sid=17" class="menulink">Movie Contest Entries</a><br></td>
-							</tr>
-							
-							<tr>
-								<td><a href="index.cfm?pg=15&amp;sid=18" class="menulink">Movie Contest Winners</a><br></td>
-							</tr>
-							
-							<tr>
-								<td><a href="index.cfm?pg=15&amp;sid=14" class="menulink">Halo Flash  Movies (high)</a><br></td>
-							</tr>
-							
-							<tr>
-								<td><a href="index.cfm?pg=15&amp;sid=15" class="menulink">Halo Flash Movies (Low)</a><br></td>
-							</tr>
-							
-							<tr>
-								<td><a href="index.cfm?pg=14&amp;sid=5" class="menulink">Halo Movies</a><br></td>
-							</tr>
-							
-							<tr>
-								<td><a href="index.cfm?pg=14&amp;sid=22" class="menulink">Halo Machinima Series</a><br></td>
-							</tr>
-							
-							<tr>
-								<td><a href="index.cfm?pg=8&amp;sid=8" class="menulink">Halo Utilities</a><br></td>
-							</tr>
-							
-							<tr>
-								<td><a href="index.cfm?pg=8&amp;sid=20" class="menulink">Halo CE Map Tags &amp; Models</a><br></td>
-							</tr>
-							
-							<tr>
-								<td><a href="index.cfm?pg=8&amp;sid=13" class="menulink">Misc. Halo Stuff</a><br></td>
-							</tr>
-							
-							<tr>
-								<td><a href="index.cfm?pg=8&amp;sid=11" class="menulink">Official Halo CE Files</a><br></td>
-							</tr>
-							
-							<tr>
-								<td><a href="index.cfm?pg=8&amp;sid=12" class="menulink">Official Halo PC files</a><br></td>
-							</tr>
-							
-							
-						</tbody></table>
-						
-											
-						
-						
-						<font class="sidetitle">Articles</font>
-						<br><img src="images/space10.gif" width="10" height="10" border="0" alt=""><br>
-						<table width="100%" cellspacing="1" cellpadding="2">
-							
-							<tbody><tr>
-								<td><a href="index.cfm?pg=1&amp;nid=86" class="menulink">Submission Guidelines</a><br></td>
-							</tr>
-							
-							<tr>
-								<td><a href="index.cfm?pg=1&amp;nid=21" class="menulink">Game Server Rules</a><br></td>
-							</tr>
-							
-							<tr>
-								<td><a href="index.cfm?pg=1&amp;nid=99" class="menulink">Halo Maps FAQ</a><br></td>
-							</tr>
-							
-							<tr>
-								<td><a href="index.cfm?pg=1&amp;nid=105" class="menulink">FAQ on New HaloCE!</a><br></td>
-							</tr>
-							
-							
-						</tbody></table>
+
+		 
+		 
+<div class="left">
+	<h3>MENU</h3>
+	<div class="mainmenu" id="mainmenu">
+		<a href="./">Home Page</a><br>
+		<a href="index.cfm?pg=4">Articles</a><br>
+		<a href="http://forum.halomaps.org">User Forum</a><br>
+		<a href="index.cfm?pg=66">Halo CE Servers</a><br>
+		<a href="index.cfm?pg=91">Map ScreenShots</a><br>
+		<a href="index.cfm?pg=92">ScreenShot Clan</a><br>
+		<a href="index.cfm?pg=60">Submit Files</a><br>
+	</div>
+	<h3>Search</h3>
+	<div class="search">
+		<form action="index.cfm" onsubmit="return validateStandard(this, 'error');">
+		<b>Quick Search</b> 
+		<input type="text" name="search" value="" maxlength="50" style="font-size: xx-small;" required="1" minlength="3" err="Please enter a valid search term"> <br>
+		<input type="submit" name="B1" value="Search">
+	</form><br>
+	</div>
+	<h3>Follow/Share Us</h3>
+	<div style="width: 160px; padding-left: 20px;">
+	&nbsp;<g:plusone></g:plusone>
+	<div id="fb-root"></div><script src="http://connect.facebook.net/en_US/all.js#xfbml=1"></script><fb:like href="http://hce.halomaps.org" send="false" layout="button_count" width="160" show_faces="true" font=""></fb:like>
+		<br>
+	<a href="http://www.twitter.com/HaloCEmaps" target="_blank"><img src="http://twitter-badges.s3.amazonaws.com/twitter-a.png" alt="Follow HaloCEmaps on Twitter"></a>
+	</div>
+
+<!-- Place this tag where you want the +1 button to render -->
+<br>
+	<h3>Troubleshooting</h3>
+	
+		<a href="index.cfm?pg=6&amp;sid=12">Website FAQ</a><br>
+		
+		<a href="index.cfm?pg=6&amp;sid=11">Troubleshooting Halo CE</a><br>
+		
+		<a href="index.cfm?pg=6&amp;sid=7">Dedicated Server</a><br>
+		<br>
+	<h3>Extras</h3>
+	<a href="hek/">Official HEK Mapping Tutorial</a><br>
+	<a href="http://ghost.halomaps.org/" target="_blank">Ghost's Tutorials Index</a><br>
+	<a href="index.cfm?pg=67">Top 100 Favorites Lists</a><br>
+	<a href="index.cfm?pg=2007">Top 50 Year 2007 Lists</a><br>
+	<a href="index.cfm?pg=2008">Top 50 Year 2008 Lists</a><br>
+	<a href="index.cfm?pg=2009">Top 50 Year 2009 Lists</a><br>
+	<a href="index.cfm?pg=2010">Top 50 Year 2010 Lists</a><br>
+	<a href="index.cfm?pg=2011">Top 50 Year 2011 Lists</a><br>
+	<a href="index.cfm?pg=2012">Top 50 Year 2012 Lists</a><br>
+	
+	
+	<br>
+	<h3>Email Notices</h3>
+	<div class="search">
+		<form action="index.cfm" onsubmit="return validateStandard(this, 'error');">
+		<input type="hidden" name="pg" value="62">
+		Receive email updates<br>
+		<input type="text" name="emailaddress1" value="" maxlength="50" style="font-size: xx-small;" required="1" regexp="JSVAL_RX_EMAIL" minlength="3" err="Please enter a valid email address"> <br>
+		<input type="submit" name="B2" value="Subscribe">
+	</form>
+	</div><br>
+	<h3>Translate</h3>
+<div id="google_translate_element"></div><script>
+function googleTranslateElementInit() {
+  new google.translate.TranslateElement({
+    pageLanguage: 'en',
+    layout: google.translate.TranslateElement.InlineLayout.SIMPLE
+  }, 'google_translate_element');
+}
+</script><script src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>
+<br>
+
+	<h3>File Sections</h3>
+		<a href="index.cfm?pg=1">All Files</a><br>
+	
+		<a href="index.cfm?pg=1&amp;sid=38">Halo Custom Edition Game</a><br>
+	
+		
+		<a href="index.cfm?pg=1&amp;sid=11">Official Halo CE Files</a><br>
+	
+		
+		<a href="index.cfm?pg=1&amp;sid=10">Halo CE Maps</a><br>
+	
+		
+		<div class="submenulink">
+		
+			
+				
+				
+					
+					
+				
+					
+					
+				
+					
+					
+				
+				 
+		
+			
+				
+				
+					
 						
 						
-						<img src="images/space10.gif" width="10" height="10" border="0" alt=""><br>
-						<font class="sidetitle">Add Halo Server</font>
-						<br><img src="images/space10.gif" width="10" height="10" border="0" alt=""><br>
-						<table width="100%" border="0" cellspacing="0" cellpadding="4">
-							<form name="NewServer" action="index.cfm" method="POST" onsubmit="return _CF_checkNewServer(this)"></form>
-							<input type="hidden" name="pg" value="61">
-							<tbody><tr>
-								<td valign="top" class="columnborder">
-									<font class="smalltext">Add your Halo Server <br>to the database<hr size="1" color="White" noshade=""></font>
-									<font class="smalltext">Enter IP Number<br></font>
-									<input type="Text" name="remoteIP" style="font-size: xx-small; font-family: Verdana;" size="17" maxlength="15">
-									<br><font class="smalltext">Enter Port<br></font>
-									<input type="Text" name="remoteport" style="font-size: xx-small; font-family: Verdana;" size="5" maxlength="8" value="2302">
-									<input type="image" name="B1" src="images/right-arrow-button.gif" align="middle" hspace="6" vspace="0" border="0"><br><br>
-								</td>
-							</tr>
-							
-						</tbody></table><br>
+					
+					
+				
+					
+					
+				
+					
+					
+				
+				
+					<a href="index.cfm?pg=1&amp;sid=10&amp;fc2=1">Small</a><br>
+				 
+		
+			
+				
+				
+					
+					
+				
+					
 						
 						
-						<font class="sidetitle">Links</font>
-						<br><img src="images/space10.gif" width="10" height="10" border="0" alt=""><br>
-						<table width="100%" cellspacing="1" cellpadding="2">
-							
-							<tbody><tr>
-								<td><a href="index.cfm?pg=1&amp;nid=83" class="menulink">Official Halo Websites</a><br></td>
-							</tr>
-							
-							<tr>
-								<td><a href="index.cfm?pg=1&amp;nid=87" class="menulink">Halo Web Sites</a><br></td>
-							</tr>
-							
-							<tr>
-								<td><a href="index.cfm?pg=1&amp;nid=88" class="menulink">Clan Web Links</a><br></td>
-							</tr>
-							
-							<tr>
-								<td><a href="index.cfm?pg=1&amp;nid=176" class="menulink">Halo Machinima Websites</a><br></td>
-							</tr>
-							
-							
-						</tbody></table>
-						<br>
+					
+					
+				
+					
+					
+				
+				
+					<a href="index.cfm?pg=1&amp;sid=10&amp;fc2=2">Medium</a><br>
+				 
+		
+			
+				
+				
+					
+					
+				
+					
+					
+				
+					
 						
 						
+					
+					
+				
+				
+					<a href="index.cfm?pg=1&amp;sid=10&amp;fc2=3">Large</a><br>
+				 
+		
+		</div>
+		
+		<a href="index.cfm?pg=1&amp;sid=41">Lumoria Campaign</a><br>
+	
+		
+		<a href="index.cfm?pg=1&amp;sid=27">Modifed Single Player Maps</a><br>
+	
+		
+		<a href="index.cfm?pg=1&amp;sid=37">Custom Single Player Maps</a><br>
+	
+		
+		<a href="index.cfm?pg=1&amp;sid=35">CMT Single Player Maps</a><br>
+	
+		
+		<a href="index.cfm?pg=1&amp;sid=39">Multiplayer Maps w/ AI</a><br>
+	
+		
+		<a href="index.cfm?pg=1&amp;sid=24">Modified Multiplayer Maps</a><br>
+	
+		
+		<div class="submenulink">
+		
+			
+				
+				
+					
+					
+				
+					
+					
+				
+					
+					
+				
+				 
+		
+			
+				
+				
+					
 						
 						
-						<font class="sidetitle">Information</font>
-						<br><img src="images/space10.gif" width="10" height="10" border="0" alt=""><br>
-						<table width="100%" cellspacing="1" cellpadding="2">
-							
-							<tbody><tr>
-								<td><a href="index.cfm?pg=1&amp;nid=82" class="menulink">Privacy Policy </a><br></td>
-							</tr>
-							
-							<tr>
-								<td><a href="index.cfm?pg=10" class="menulink">Contact US</a><br></td>
-							</tr>
-						</tbody></table>
+					
+					
+				
+					
+					
+				
+					
+					
+				
+				
+					<a href="index.cfm?pg=1&amp;sid=24&amp;fc2=1">Small</a><br>
+				 
+		
+			
+				
+				
+					
+					
+				
+					
 						
-						<br>
-						<script type="text/javascript"><!--
+						
+					
+					
+				
+					
+					
+				
+				
+					<a href="index.cfm?pg=1&amp;sid=24&amp;fc2=2">Medium</a><br>
+				 
+		
+			
+				
+				
+					
+					
+				
+					
+					
+				
+					
+						
+						
+					
+					
+				
+				
+					<a href="index.cfm?pg=1&amp;sid=24&amp;fc2=3">Large</a><br>
+				 
+		
+		</div>
+		
+		<a href="index.cfm?pg=1&amp;sid=40">YELO - Open Sauce Maps</a><br>
+	
+		
+		<a href="index.cfm?pg=1&amp;sid=29">Maps for Machinima</a><br>
+	
+		
+		<div class="submenulink">
+		
+			
+				
+				
+					
+					
+				
+					
+					
+				
+					
+					
+				
+				 
+		
+			
+				
+				
+					
+						
+						
+					
+					
+				
+					
+					
+				
+					
+					
+				
+				
+					<a href="index.cfm?pg=1&amp;sid=29&amp;fc2=1">Small</a><br>
+				 
+		
+			
+				
+				
+					
+					
+				
+					
+						
+						
+					
+					
+				
+					
+					
+				
+				
+					<a href="index.cfm?pg=1&amp;sid=29&amp;fc2=2">Medium</a><br>
+				 
+		
+			
+				
+				
+					
+					
+				
+					
+					
+				
+					
+						
+						
+					
+					
+				
+				
+					<a href="index.cfm?pg=1&amp;sid=29&amp;fc2=3">Large</a><br>
+				 
+		
+		</div>
+		
+		<a href="index.cfm?pg=1&amp;sid=26">Custom UI Files</a><br>
+	
+		
+		<a href="index.cfm?pg=1&amp;sid=8">Halo Utilities</a><br>
+	
+		
+		<a href="index.cfm?pg=1&amp;sid=23">Tutorials</a><br>
+	
+		
+		<a href="index.cfm?pg=1&amp;sid=28">3D Model Files</a><br>
+	
+		
+		<a href="index.cfm?pg=1&amp;sid=20">Halo CE Misc. Tags</a><br>
+	
+		
+		<a href="index.cfm?pg=1&amp;sid=34">Halo CE Biped Tags</a><br>
+	
+		
+		<a href="index.cfm?pg=1&amp;sid=32">Halo CE Scenery Tags</a><br>
+	
+		
+		<a href="index.cfm?pg=1&amp;sid=33">Halo CE Tag Packs</a><br>
+	
+		
+		<a href="index.cfm?pg=1&amp;sid=30">Halo CE Vehicle Tags</a><br>
+	
+		
+		<a href="index.cfm?pg=1&amp;sid=31">Halo CE Weapon Tags</a><br>
+	
+		
+		<a href="index.cfm?pg=1&amp;sid=13">Misc. Halo Files</a><br>
+	
+		
+		<a href="index.cfm?pg=1&amp;sid=25">The Halo CE Chronicles </a><br>
+	
+		<br>
+	<br>
+	<h3>Donate</h3>	
+	<form action="https://www.paypal.com/cgi-bin/webscr" method="post">
+<input type="hidden" name="cmd" value="_s-xclick">
+<input type="image" src="https://www.paypal.com/en_US/i/btn/btn_donateCC_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
+<img alt="" border="0" src="https://www.paypal.com/en_US/i/scr/pixel.gif" width="1" height="1">
+<input type="hidden" name="encrypted" value="-----BEGIN PKCS7-----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-----END PKCS7-----
+">
+</form>
+<p>Help us defer the<br>cost of bandwidth.</p>
+<h3>RSS Feed</h3>
+<a href="rss.cfm"><img src="images/feed-icon-14x14.png" alt="" width="14" height="14" hspace="6" border="0">RSS Feed</a>
+	<br><br>
+
+
+	<script type="text/javascript"><!--
 google_ad_client = "pub-7086844621019153";
-google_alternate_color = "698ECE";
+/* 160x600, created 3/12/08 */
+google_ad_slot = "9496339589";
 google_ad_width = 160;
 google_ad_height = 600;
-google_ad_format = "160x600_as";
-google_ad_channel ="";
-google_color_border = "6699CC";
-google_color_bg = "003366";
-google_color_link = "FFFFFF";
-google_color_url = "AECCEB";
-google_color_text = "AECCEB";
-//--></script>
+//-->
+</script>
 <script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
 </script>
-						
-						
-						
-					</td>
-				</tr>
-			</tbody></table>
-		</td>
-		<td valign="top">
-			<table width="100%" border="0" cellspacing="0" cellpadding="0">
-				<tbody><tr>
-					<td>
-					
 
-
-<table width="100%" border="0" cellspacing="8" cellpadding="20">
-	<tbody><tr>
-		<td class="columnborder">
+</div>	
+	
+		
+			
+						<div class="right">
+			<h2>Halo Maps Privacy Policy</h2>
+			
+				<div class="instructions" style="padding-right: 40px; padding-left: 40px;">
+				<p style="font-size: 14px;"> Halo Maps is an online file repository for the Halo Custom Edition Game.	</p><br>
 
 			
-			<font class="blogheaderdate">June 22 2004</font><br>
-			<font class="blogheadertitle">Privacy Policy </font> <font class="blogheadersection">&nbsp;&nbsp;&nbsp;(General Information)</font> 
-			<br>
-			<hr class="blogbreakline">
-			<table align="right">
-				<tbody><tr>
-					<td align="right">
-					
-					</td>
-				</tr>
-			</tbody></table>
-			
-				<font class="blogtext">INTRODUCTION 
-<br>
-<br>Because your privacy is important to us, UXB Internet conducts its business under the following privacy principles: 
-<br>
-<br>YOUR INFORMATION IS SECURE 
-<br>All the information we compile for your web site and personal information that we collect about you is considered confidential. This information is protected by usernames and passwords. You should keep your password and user name confidential. We have implemented industry standard security mechanisms to protect this information from loss, misuse and unauthorized access, disclosure, alteration and destruction. Examples include limited access, firewalls and security analyzers using SSL encryption to protect transmission of data. 
-<br>
-<br>
-<br>NO CUSTOMER WEBSITE DATA IS EVER DIVULGED 
-<br>UXB Internet will not divulge financial, technical or statistical information we compile for your site except for the express purpose of generating reports which have been authorized by you or otherwise agreed to by you, or unless acting under a good faith belief that such action is necessary to: (1) conform to legal requirements or comply with legal process; (2) protect and defend the rights or property of UXB Internet; (3) enforce our agreements with customers and visitors; or (4) troubleshoot any service problems. 
-<br>
-<br>
-<br>USE OF COOKIES AND OTHER DATA COLLECTION METHODS 
-<br>Cookies are small pieces of information that a web site transfers to your computer's hard disk for record-keeping purposes. Cookies can make a web site more useful by allowing the site to personalize information for visitors and by storing information about customer preferences on a particular site. The use of cookies is an industry standard, and many major web sites use them to provide useful features for their customers. 
-<br>
-<br>Most browsers are initially set up to accept cookies. If you would prefer, you can set your browser to reject cookies. However, you will not be able to access any web based administration tools used to manage your UXB Internet designed website. 
-<br>
-<br>Your visitors can also reject cookies. If a visitor to your web site rejects cookies, UXB Internet designed websites will attempt to offer full functionality however some functions may be limited as required by its design. 
-<br>
-<br>
-<br>PERSONAL INFORMATION 
-<br>UXB Internet may require users who signed up for services, to give us contact information (such as their name, mailing address and e-mail address), and/or financial information (such as a credit card number). This personal and financial information allows UXB Internet to process and fulfill your request, register your account, check your qualifications for registration and to bill you for products and services. 
-<br>
-<br>When you submit comments and questions on our products and services via the feedback form on our website we also ask for your e-mail address. This is to allow us to contact you if there are questions about your feedback. 
-<br>
-<br>In addition to the uses for the information you submit to us, we may use personally identifiable information about you to: 
-<br>
-<br>
-<br>Contact you when necessary for additional information necessary to process or fulfill your order; determine if you are satisfied with our service. 
-<br>
-<br>Send or contact you with information or special offers about UXB Internet products and services. 
-<br>
-<br>Send ot Contact you with notices about service interruptions, system upgrades and changes to basic services or policies. 
-<br>
-<br>UXB Internet may release account information when we believe, in good faith, that such release is reasonably necessary to (i) comply with law, (ii) enforce or apply the terms of any of our user agreements or (iii) protect the rights, property or safety of UXB Internet, our users, or others. 
-<br>
-<br>UXB Internet may share customers' personal information with qualified third parties in order to process your order or perform a credit worthiness check. 
-<br>
-<br>
-<br>We will NOT use personally identifiable information about you to: 
-<br>
-<br>
-<br>Share information about you with advertisers, business partners, sponsors, competitors and other third parties. 
-<br>
-<br>UXB Internet will NOT disclose details about transactions, visitors or customers using your website. 
-<br>
-<br>UXB Internet will not share, sell, transfer or disclose your email address for inclusion on any third party mailing list. 
-<br>
-<br>CHANGES TO OUR PRIVACY POLICY 
-<br>UXB Internet reserves the right to revise, amend, or modify this Policy, our Internet Service Agreement and our other policies and agreements at any time and in any manner. Notice of any revision, amendment, or modification will be posted in accordance with the Internet Service 
-<br>
-<br>
-			
-			<br>
-			<br>
-			<a href="index.cfm" class="blogtextlink">(Back to Main)</a>&nbsp;&nbsp;&nbsp;&nbsp;
-			<a href="index.cfm?pg=4" class="blogtextlink">(News Archive list)</a></font><br>
-			<hr class="blogseperator">
-			<br>
-			
-</td>
-	</tr>
-</tbody></table>
+<p><strong>INTRODUCTION</strong><br>
+Because your privacy is important to us, Halo Maps conducts its business under the following privacy principles: </p><br>
 
-					</td>
-				</tr>
-			</tbody></table>
-		</td>
-	</tr>
-</tbody></table>
-<table width="100%" border="0" cellspacing="0" cellpadding="10">
-	<tbody><tr>
-		<td align="center"><font class="normaltext">© Copyright 2004 - Halo Maps website designed and maintained by <a href="http://www.uxbinternet.com/" class="uxblink">UXB Internet</a> - Wolcott Connecticut</font></td>
-	</tr>
-</tbody></table>
+		
+<p><strong>YOUR INFORMATION IS SECURE</strong><br>
+All the information we compile for your web site and personal information that we collect about you is considered confidential.  We have implemented industry standard security mechanisms to protect this information 
+from loss, misuse and unauthorized access, disclosure, alteration and destruction. Examples include limited access, firewalls and security analyzers using SSL encryption to protect transmission of data. </p><br>
 
 
+<p><strong>USE OF COOKIES AND OTHER DATA COLLECTION METHODS</strong> <br>
+Cookies are small pieces of information that a web site transfers to your computer's hard disk for record-keeping purposes. Cookies can make a web site more useful 
+by allowing the site to personalize information for visitors and by storing information about customer preferences on a particular site. The use of cookies is an 
+industry standard, and many major web sites use them to provide useful features for their customers. Most browsers are initially set up to accept cookies. 
+If you would prefer, you can set your browser to reject cookies. However, you will not be able to access some of the advanced features of the website or be able to login. </p><br>
+
+
+<p><strong>PERSONAL INFORMATION AND EMAIL ADDRESSES </strong><br>
+<strong>Halo Maps will not sell, share or give out your email address</strong> to any third party for the use of unsolicited email.  Halo Maps does reserve the right to perodically contact you 
+via email with offers or announcements about the Halo Maps website.  Halo Maps requires registered users who signed up for services, to supply a working e-mail address. 
+This personal information allows Halo Maps to process and fulfill your request for an account. When you submit comments and questions on our products and services via the feedback form on our website 
+we also ask for your e-mail address. This is to allow us to contact you if there are questions about your feedback. We will not sell, share or give out your email address.</p><br>
+
+
+<p>Halo Maps may release account information when we believe, in good faith, that such release is reasonably necessary to (i) comply with law, (ii) enforce or apply the terms 
+of any of our user agreements or (iii) protect the rights, property or safety of Halo Maps, our users, or others. </p><br>
+
+<p>We will NOT use personally identifiable information about you to: Share information about you with advertisers, business partners, sponsors, competitors and other third parties. </p>
+
+<p>Halo Maps will NOT disclose details about transactions, visitors or customers using this website except to to (i) comply with law, (ii) enforce or apply the terms 
+of any of our user agreements or (iii) protect the rights, property or safety of Halo Maps, our users, or others. . </p><br>
+
+<p><strong>CHANGES TO OUR PRIVACY POLICY </strong><br>
+Halo Maps reserves the right to revise, amend, or modify this Policy, our Terms of Service Agreement and our other policies and 
+agreements at any time and in any manner. Notice of any revision, amendment, or modification will be posted in accordance with the 
+ Service that has been changed.</p><br>
+
+
+				</div>
+				 <p>updated: Aug-06-2009</p>
+				
+				
+</div>
+<div class="footer">
+	<p><a href="index.cfm?pg=11">Contact us</a> | <a href="index.cfm?pg=10">Advertise With Us</a> | <a href="index.cfm?pg=12">Privacy Statement</a> | <br>
+	Halo Maps and UXB Internet has no affiliation or connection to Bungie or Microsoft Corporation. This is a fan site only<br>
+ Website Design © 2004 - 2013 - Halo Maps / UXB Internet - Design by: <a href="http://www.uxbinternet.com/">UXB Internet</a> - all rights reserved<br>
+Halo ® is a registered trademark of Microsoft Corporation and <a href="http://www.bungie.net/">Bungie</a><br>
+The Halo Custom Edition  Game is © <a href="http://www.gearboxsoftware.com/" class="footerlink">Gearbox Software</a> All rights reserved.<br></p>
+</div>
+
+
+</div>
 
 </body></html>
