@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the aaireland.ie privacy policy that was archived on 2012-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121217060600id_/http%3A//www.aaireland.ie/AA/About-Us/Privacy-Policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aaireland.ie privacy policy that was archived on 2013-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130619022012id_/http%3A//www.aaireland.ie/AA/About-Us/Privacy-Policy.aspx) for the most accurate reproduction.*
 
 # AA Ireland | Data Protection & Privacy Policy | AA Ireland
 
@@ -8,7 +8,7 @@ AA (We) are committed to protecting your privacy. We comply with the principles 
 
 ## How we use information you provide us
 
-We use the information we receive from you to provide goods and/or services that you request, to communicate with you, and to personalise our information sent to you. We do not sell, trade, or rent your personal information to others.
+We use the information we receive from you or which we obtain from our dealings with you as an AA customer (including in relation to products and/or services we provide to you and/or your use of those products and/or services) to provide products and/or services that you request, to communicate with you, and to personalise information provided to you. Examples of how we may personalise information include using your information to generate an insurance quote for you, or notifying you when we will be delivering certain products in your area.
 
 We store all the information you provide us, including information provided via forms you complete on our website, and information which we may collect from your browsing. Our server, in common with nearly all web servers, logs each page that is downloaded from the site.
 
@@ -22,7 +22,7 @@ If you apply for other financial services and/or products, a check of your detai
 
 We make outbound phone calls for a number of reasons relating to our many products, including breakdown cover and insurance. We are fully committed to the regulations set out by the Central Bank of Ireland and other relevant legislation and follow strict processes to ensure we comply with them.
 
-Third parties may deliver some of our products to you or provide all or part of the service requested by you. In these instances, whilst the information you provide will be disclosed to them, it will only be used for the administration of the service provided (including for example claims processing), underwriting and pricing purposes as appropriate, testing, and to maintain management information for business analysis.
+Third parties may deliver some of our products to you or provide all or part of the service requested by you. In these instances, whilst the information you provide will be disclosed to them, it will only be used for the administration of the service provided (including for example verification of any quote given to you and claims processing), underwriting and pricing purposes as appropriate, testing, and to maintain management information for business analysis.
 
 When you enter a contest or other promotional feature, we may ask for your name, address, phone numbers and email address so we can administer the contest and notify winners. Occasionally, we may also use the information we collect to notify you by post, phone, mobile phone, email and SMS about new or existing AA Group services, products and special offers we think you'll find valuable.
 
@@ -59,7 +59,7 @@ In the event of telephone calls from you, we also reserve the right to ask secur
 
 If you contact us electronically we may collect your electronic identifier, eg Internet protocol (IP) address or phone number supplied by your service provider. This is to identify any repeat website visits, fraudulent behaviour or mystery shoppers using our websites.
 
-Before you provide any data to us we will endeavour to make it clear why we need it. Sometimes we may need sensitive personal data (examples may be past medical history or motoring convictions). When this is required we will obtain your consent first. Otherwise, by providing us with information, either orally or written, or by using our website, you consent to the collection, use and processing of this information by AA Ireland to provide and send you information about their services.
+Before you provide any data to us we will endeavour to make it clear, for example in our Data Protection and Privacy Policy, in the relevant application process and/or in the terms and conditions of the product or service concerned, why we need this data and how we will use it. Sometimes we may need sensitive personal data (examples may be past medical history or motoring convictions). When this is required we will obtain your consent first. Otherwise, by providing us with information, either orally or in writing, or by using our website, you consent to our collection, use and processing of the information we obtain from or about you as a result of our dealings with you as an AA customer (including any data we obtain from third parties) for the purposes of which we have advised you. Your information may also be used for offering renewals, research, statistical, rating purposes and crime prevention, and may be passed on to a third party to enable us to do this. The third party will only be a member of the Acromas Group of companies, or an insurer on the AA panel, which are noted in the Product Providers section.
 
 A customer may properly give their spouse's or partner's consent over the phone or via the website providing the customer confirms they have permission to do so. If the consent is written, the spouse must independently endorse such consent.
 
@@ -117,8 +117,8 @@ If cookies are disabled on your device you will still be able to use most of thi
 
 How you manage your cookies depends on your browser. To find out which browser you use:
 
-  * **PC** : open your browser and go to the **Help** menu and then click on the **About** option.
-  * **Apple Mac** : open your browser and go to the **Apple** menu and then click on the **About** option.
+  * **PC** : open your browser and go to the **Help** menu and then click on the **About** option. 
+  * **Apple Mac** : open your browser and go to the **Apple** menu and then click on the **About** option. 
   * **Mobile device** : check your settings.
 
 
