@@ -1,8 +1,10 @@
-> *The following text is extracted and transformed from the panopto.com privacy policy that was archived on 2012-11-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121112043855id_/http%3A//www.panopto.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the panopto.com privacy policy that was archived on 2013-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130619201652id_/http%3A//www.panopto.com/privacy) for the most accurate reproduction.*
 
 # Privacy | Panopto
 
-##  Information Collected
+## Panopto, Inc. (“Panopto”) is committed to protecting any personal information that you may provide to us. In particular, we believe it is important for you to know how we treat information about you that we may receive from this Site.
+
+## Information Collected
 
 In general, you can visit this Site without telling us who you are or revealing any information about yourself. Our web servers collect the domain names, not the e-mail addresses, of visitors. Our web servers also seek (as many Web sites do) to place a "cookie" (a small data file) on your computer's hard drive which allows the server to determine the computer when it visits again, in order to track statistical information about navigation to and throughout certain areas of our site, and to Panopto promotions on other sites. This cookie is not used to obtain your name or any personal data, and the information that is tracked is used only for internal purposes, such as to improve site navigation and to measure the effectiveness of our promotional placements, and is not shared with anyone other than Panopto affiliates and contractors who assist Panopto in these efforts and are bound to confidentiality. However, if you prefer not to accept cookies, you can set your browser to reject them or to alert you before one is placed.
 
@@ -52,8 +54,8 @@ We may update this privacy policy from time to time. When we do so, changes in o
 
 ##  Opting Out
 
-If when using this Site you have previously furnished us with contact information, or you want to suspend or close-out your hosted account, please use the [**Contact Us**](https://web.archive.org/contact) page.
+If when using this Site you have previously furnished us with contact information, or you want to suspend or close-out your hosted account, please use the [**Contact Us**](http://panoptosupport.com/contact) page.
 
 ##  Contacting Us
 
-If you have any questions about this privacy policy, please use the [**Contact Us**](https://web.archive.org/contact) page. We welcome your questions and suggestions about our privacy policy.
+If you have any questions about this privacy policy, please use the [**Contact Us**](http://panoptosupport.com/contact) page. We welcome your questions and suggestions about our privacy policy.
