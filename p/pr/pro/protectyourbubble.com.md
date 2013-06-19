@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the protectyourbubble.com privacy policy that was archived on 2012-10-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121021051118id_/http%3A//us.protectyourbubble.com/legal-information/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the protectyourbubble.com privacy policy that was archived on 2013-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130619154717id_/http%3A//us.protectyourbubble.com/legal-information/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy - Protect Your Bubble
 
@@ -62,8 +62,10 @@ We do not knowingly collect personal information from anyone under the age of 13
 
 We welcome your questions or comments regarding this online Privacy Policy. Please write to The Assurant Privacy Office, Post Office Box 979047, Miami, FL 33197-9047 or e-mail us your question at [theprivacyoffice@assurant.com](mailto:theprivacyoffice@assurant.com).
 
-We’re a new kind of insurance company. Different, special even. For starters we’ve got British roots, so we’ve got a sense of humor. But we’re backed by a global insurance company, so we’ve got the dependability you’re looking for. But what really makes us different is that we’re here for the little things you don’t always think about insuring. Things like smart phones, tablets, laptops, pets and travel. Because these little things actually help make life better, and that’s a big deal.
+Protect Your Bubble is part of Assurant Solutions, a division of Assurant, Inc., serving clients and their customers in 12 countries throughout North America, the Caribbean, Latin America, Europe and Asia.
 
-We take that little things approach in everything we do. So we don’t just offer great coverage at competitive prices, we make the whole process simple and easy. We ditch the legal speak for plain English. We make claims headache free. Because we’re not here to make difficult times more difficult. We’re here to make life easier.
+The Assurant Solutions family of companies* has more than 200 combined years of experience in global specialty insurance and risk management administering specialty insurance, extended service contracts and other products through relationships with leading financial institutions, retailers, automobile dealers, manufacturers and mobile carriers. The company's customized policies for consumer electronics, appliances, jewelry and other products extend beyond the manufacturer's warranty and provide millions of customers with the comfort of knowing their products can be repaired or replaced.
 
-So that’s us in a nutshell. Thanks for stopping by.  Now you’ll see how easy it is to take care of the little things with Protectyourbubble.com.
+Assurant Solutions provides service contracts to more than 56 million consumers worldwide with a national network of 2,500 service providers employing more than 10,000 service technicians and generating $1.5 billion in annual service contract revenue.
+
+_* The companies, including The Signal, L.P., American Bankers Insurance Company of Florida, American Security Insurance Company, Federal Warranty Service Corporation, United Service Protection, Inc. and Assurant Services Protection, Inc., comprising Assurant Solutions are part of Assurant, Inc., a Delaware Incorporated company listed with the New York Stock Exchange under the symbol AIZ. Assurant is a Fortune 500 company and a member of the S &P 500, and has approximately $27 billion in assets and $8 billion in annual revenue._
