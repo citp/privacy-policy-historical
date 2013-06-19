@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the atherys.com privacy policy that was archived on 2012-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121217204606id_/http%3A//atherys.com/pages/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the atherys.com privacy policy that was archived on 2013-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130619031937id_/http%3A//atherys.com/pages/privacy) for the most accurate reproduction.*
 
-# Privacy Policy | A'therys Ascended
-
-[ ](http://atherys.com/)
+# Privacy Policy | A'therys Ascended / Atherys Ascended
 
 This Privacy Policy governs the manner in which Gazamo collects, uses, maintains and discloses information collected from users of the <http://gazamo.com/> website. This privacy policy applies to the Site and all products and services offered by Gazamo.
 
@@ -69,3 +67,17 @@ Gazamo
 [webmaster@gazamo.com](mailto:webmaster@gazamo.com)
 
 This document was last updated on April 14, 2012
+
+[ ](http://atherys.com/)
+
+[ ](https://web.archive.org/media/atherys-ascended-minecraft-server-trailer.6/popout)
+
+###  Welcome to the plane of A'therys, mortal. 
+
+You have arrived at an auspicious time. For seven thousand years, gods have ruled the men of the Mortal Plane, an Age of Balance unchanging across the eons. But no more. As the Second Calling dawned, the gods were called from the plane, leaving humanity to its own devices.
+
+Where in this strife will you stand? Close to the strongholds of the six nations, serving in military or economy? Perhaps a greater organization beckons to you, a guild of knowledge or shadow? Or will you forge your own path, as the Mortal Heroes once did, ignoring your fellow man and the few lingering gods in the world? These choices are but the beginning, Adventurer. Take up your mantle of sword or sorcery, sharp wit or strength immeasurable, and awaken from your slumber. A'therys awaits. 
+
+  
+[ ](http://www.dragonbyte-tech.com/ "Skin By Dragonbyte Tech ")   
+[ "DragonByte MMO" ](http://www.dragonbyte-tech.com/vbecommerce.php?do=product&productid=182) Theme by [ DragonByte Technologies ](http://www.dragonbyte-tech.com/)
