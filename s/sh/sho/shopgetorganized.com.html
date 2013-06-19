@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the shopgetorganized.com privacy policy that was archived on 2012-11-16.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121116192600id_/http%3A//www.shopgetorganized.com/custserv/privacy.asp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the shopgetorganized.com privacy policy that was archived on 2013-06-19.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130619055217id_/http%3A//www.shopgetorganized.com/custserv/privacy.asp) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd"><html><!-- InstanceBegin template="/Templates/main.dwt" codeOutsideHTMLIsLocked="false" --><head>
 <!-- InstanceBeginEditable name="page_ASP" --><!-- InstanceEndEditable -->
@@ -14,10 +14,10 @@
 <meta name="rating" content="General">
 <meta name="revisit-after" content="7 days">
 <meta name="robots" content="ALL">
-<meta name="ncxcartid" content="2012111614105524079119976">
+<meta name="ncxcartid" content="2013061901504532325576442">
 <base href="http://www.shopgetorganized.com/">
 <link rel="canonical" href="http://www.shopgetorganized.com/custserv/privacy.asp">
-<link rel="shortcut icon" href="http://cdn.taylorgifts.com/images/go/favicon.ico" type="image/x-icon">
+<link rel="shortcut icon" href="/images/go/favicon.ico" type="image/x-icon">
 <link rel="stylesheet" href="/css/global.css" type="text/css" media="screen,print">
 <link rel="stylesheet" href="/css/GO/styles.css" type="text/css" media="screen,print">
 <script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="/common/jquery/1.4.2/jquery-1.4.2.min.js"></script>
@@ -41,7 +41,7 @@ var PgConf = {
 var _vis_opt_account_id = 4597;
 var _vis_opt_protocol = (('https:' == document.location.protocol) ? 'https://' : 'http://');
 document.write('<s' + 'cript src="' + _vis_opt_protocol + 'dev.visualwebsiteoptimizer.com/deploy/js_visitor_settings.php?v=1&a='+_vis_opt_account_id+'&url='+encodeURIComponent(document.URL)+'&random='+Math.random()+'" type="text/javascript">' + '<\/s' + 'cript>');
-</script><script src="https://dev.visualwebsiteoptimizer.com/deploy/js_visitor_settings.php?v=1&amp;a=4597&amp;url=https%3A%2F%2Fweb.archive.org%2Fweb%2F20121116192600id_%2Fhttp%253A%2F%2Fwww.shopgetorganized.com%2Fcustserv%2Fprivacy.asp&amp;random=0.14626148233361969" type="text/javascript"></script>
+</script><script src="https://dev.visualwebsiteoptimizer.com/deploy/js_visitor_settings.php?v=1&amp;a=4597&amp;url=https%3A%2F%2Fweb.archive.org%2Fweb%2F20130619055217id_%2Fhttp%253A%2F%2Fwww.shopgetorganized.com%2Fcustserv%2Fprivacy.asp&amp;random=0.013742028736279499" type="text/javascript"></script>
 <script type="text/javascript">
 if(typeof(_vis_opt_settings_loaded) == "boolean") { document.write('<s' + 'cript src="' + _vis_opt_protocol + 'd5phz18u4wuww.cloudfront.net/vis_opt_no_jquery.js" type="text/javascript">' + '<\/s' + 'cript>'); }
 // if your site already has jQuery 1.4.2, replace vis_opt.js with vis_opt_no_jquery.js above 
@@ -92,43 +92,57 @@ if(ovtacParamFound == 1){
 	<!-- ClickTale end of Top part -->
 	
 
+
+
 <div id="header">
 
-	<div style="float: left;">
+
+
+<div id="topheaderlink">
+	<a href="/my-account.asp" title="Sign In">Sign&nbsp;In</a>&nbsp;&nbsp;•&nbsp;&nbsp;
+    <a href="/my-account.asp" title="My Account">My&nbsp;Account</a>
+        &nbsp;&nbsp;•&nbsp;&nbsp;<a href="/my-account.asp?orders" title="Order Tracking">Order Tracking</a>&nbsp;&nbsp;•&nbsp;&nbsp;<a href="/custserv/about.asp" title="About">About</a>&nbsp;&nbsp;•&nbsp;&nbsp;<a href="/custserv/customer-service.asp" title="Customer Service">Customer Service</a>&nbsp;&nbsp;•&nbsp;&nbsp;<span style="font-size:1.1em">Toll Free: 1-800-829-1133</span>
+</div>
+
+<div id="header_middle">
+
+    <div style="float: left;">
 	<a class="logo logohover" href="/" title="Home"></a>
 	</div>
-	<div id="search_form">
+
+
+    <div id="search_form">
 	<form method="get" action="/search.asp" name="frmSearch" id="frmSearch">
 		<fieldset>
 			<legend>Search</legend>
 			<input type="hidden" name="internalsearch" value="Y">
-			<input class="txt" type="text" name="keyword" id="keyword" value="" onfocus="if (this.value == this.defaultValue) this.value =''; " onblur="if (this.value == '') this.value = this.defaultValue;">
-			<input type="image" class="btn" src="http://cdn.taylorgifts.com/images/go/btn_search.jpg" onclick="return newSearch();" title="SEARCH">
+			<input class="txt" type="text" name="keyword" id="keyword" value="" onfocus="if (this.value == this.defaultValue) this.value =''; " onblur="if (this.value == '') this.value = this.defaultValue;close_suggestions(250);" onkeyup="start_suggestions(200);" autocomplete="off">
+			<input type="image" class="btn" src="/images/go/btn_search.jpg" onclick="return newSearch();" title="SEARCH">
 		</fieldset>
 		</form>
+		<div id="suggest_box" onmouseover="close_suggestions(60000)"></div>
 	</div>
 	<div id="cart">
-		<ul>
-			<li class="view arrow_white"><a href="/my-account.asp" title="My Account">My&nbsp;Account</a> | <a href="/my-account.asp" title="Sign In">Sign&nbsp;In</a></li>
-			<li class="arrow_white"><a href="/my-account.asp?orders" title="Order Tracking">Order Tracking</a></li>
-		</ul>
+
 		<div class="cartdetails">
-			0 Item(s)
+			<a href="/cart.asp">Cart:&nbsp;0 Item(s)</a>
 		</div>
-		<li><a href="/cart.asp" title="View Cart" class="view_cart">Cart / Checkout</a></li>
+
 
 	</div>
-	<ul id="cpanel">
-		
-			<li><a href="/custserv/about.asp" title="About Us">About Us</a></li>
-			<li><a href="/email-info.asp" title="Subscribe to Email">Subscribe to Email</a></li>
-			
-		<!-- <li><a href="/custserv/about.asp" title="About Us">About Us</a></li>//-->
-		<li><a href="/custserv/customer-service.asp" title="Customer Service">Customer Service</a></li>
-	</ul>
+
+</div>
+
+
+
+
+
+
+
 
 	<ul id="nav">
-		<div onmouseover="showDropDown(1);" onmouseout="hideDropDowns(1);"><li id="red_nav">
+
+		<div onmouseover="showDropDown(1);" onmouseout="hideDropDowns(1);"><li class="the_nav">
 		<ul id="dropdown1">
 			<li><a href="/bathroom/201302" title="Bathroom">Bathroom</a></li>
 			<li class="last"><a href="/bedroom/201301" title="Bedroom">Bedroom</a></li>
@@ -139,8 +153,12 @@ if(ovtacParamFound == 1){
 			<li><a href="/laundry_room/201304" title="Laundry Room">Laundry Room</a></li>
 			<li class="viewall">&nbsp;</li>
 		</ul>
-		<a id="tab1" href="#">Shop by Room</a></li></div>
-		<div onmouseover="showDropDown(2);" onmouseout="hideDropDowns(2);"><li id="blue_nav">
+		<a id="tab1" href="#">Shop by Room</a><span class="navbar"></span></li>
+
+        </div>
+
+
+		<div onmouseover="showDropDown(2);" onmouseout="hideDropDowns(2);"><li class="the_nav" style="background:url(../../images/GO/grey_nav_sep_bar.png) no-repeat left center; ">
 		<ul id="dropdown2">
 			<li><a href="/bathroom_organizers/202315" title="Bathroom Organizers">Bathroom Organizers</a></li>
 			<li class="last"><a href="/laundry_room_storage/202318" title="Laundry Room Storage">Laundry Room Storage</a></li>
@@ -162,8 +180,9 @@ if(ovtacParamFound == 1){
 			<li class="last"><a href="/storage_organizers/202307" title="Storage Organizers">Storage Organizers</a></li>
 			<li class="viewall"><a href="/storage_and_organization/202/list" title="Storage &amp; Organization">Storage &amp; Organization</a></li>
 		</ul>
-		<a id="tab2" href="/storage_and_organization/202" title="Storage &amp; Organization">Storage &amp; Organization</a></li></div>
-		<div onmouseover="showDropDown(3);" onmouseout="hideDropDowns(3);"><li id="yellow_nav">
+		<a id="tab2" href="/storage_and_organization/202" title="Storage &amp; Organization">Storage &amp; Organization</a><span class="navbar"></span></li></div>
+
+        <div onmouseover="showDropDown(3);" onmouseout="hideDropDowns(3);"><li class="the_nav" style="background:url(../../images/GO/grey_nav_sep_bar.png) no-repeat left center; ">
 		<ul id="dropdown3">
 			<li><a href="/cordless_lighting/204301" title="Cordless Lighting">Cordless Lighting</a></li>
 			<li class="last"><a href="/misc/204304" title="Misc">Misc</a></li>
@@ -171,8 +190,9 @@ if(ovtacParamFound == 1){
 			<li class="last"><a href="/outdoor_lighting/203302" title="Outdoor Lighting">Outdoor Lighting</a></li>
 			<li class="viewall"><a href="/lighting/204/list" title="Lighting">Lighting</a></li>
 		</ul>
-		<a id="tab3" href="/lighting/204" title="Lighting">Lighting</a></li></div>
-		<div onmouseover="showDropDown(4);" onmouseout="hideDropDowns(4);"><li id="green_nav">
+		<a id="tab3" href="/lighting/204" title="Lighting">Lighting</a><span class="navbar"></span></li></div>
+
+        <div onmouseover="showDropDown(4);" onmouseout="hideDropDowns(4);"><li class="the_nav" style="background:url(../../images/GO/grey_nav_sep_bar.png) no-repeat left center; ">
 		<ul id="dropdown4">
 			<li><a href="/address_signs/203312" title="Address Signs">Address Signs</a></li>
 			<li class="last"><a href="/outdoor_cooking_accessories/203304" title="Outdoor Cooking Accessories">Outdoor Cooking Accessories</a></li>
@@ -191,28 +211,40 @@ if(ovtacParamFound == 1){
 			<li class="viewall"><a href="/outdoor/203/list" title="Outdoor">Outdoor</a></li>
 		</ul>
 		<a id="tab4" href="/outdoor/203" title="Outdoor">Outdoor</a></li></div>
-		<div onmouseover="showDropDown(5);" onmouseout="hideDropDowns(5);"><li id="purple_nav">
+
+        <div onmouseover="showDropDown(5);" onmouseout="hideDropDowns(5);"><li class="the_nav" style="background:url(../../images/GO/grey_nav_sep_bar.png) no-repeat left center; ">
 		<ul id="dropdown5">
+			<li><a href="/as-seen-on-tv.asp" title="About Us">As Seen on TV</a></li>
 			<li><a href="/automotive/205305" title="Automotive">Automotive</a></li>
-			<li class="last"><a href="/carts_and_bags/205308" title="Carts and Bags">Carts and Bags</a></li>
+			<li><a href="/carts_and_bags/205308" title="Carts and Bags">Carts and Bags</a></li>
 			<li><a href="/cleaning/205307" title="Cleaning">Cleaning</a></li>
-			<li class="last"><a href="/gifts_and_novelty_items/205301" title="Gifts and Novelty Items">Gifts and Novelty Items</a></li>
-			<li class="last"><a href="/home_decor/205302" title="Home Decor">Home Decor</a></li>
+			<li><a href="/clearance/207" title="Clearance">Clearance</a></li>
+			<!--<li><a href="/gifts_and_novelty_items/205301" title="Gifts and Novelty Items">Gifts and Novelty Items</a></li>//-->
+			<li><a href="/home_decor/205302" title="Home Decor">Home Decor</a></li>
 			<li><a href="/housewares/205303" title="Housewares">Housewares</a></li>
-			<li class="last"><a href="/personal_care_products/205306" title="Personal Care Products">Personal Care Products</a></li>
+			<li><a href="/personal_care_products/205306" title="Personal Care Products">Personal Care Products</a></li>
 			<li><a href="/pets/205304" title="Pets">Pets</a></li>
 			<li class="viewall"><a href="/other/205/list" title="Other">Other</a></li>
 		</ul>
-		<a id="tab5" href="/other/205" title="Other">Other</a></li></div>
+		<a id="tab5" href="/more/205" title="More">More</a></li></div>
+
+        <div><li class="the_nav" style="background:url(../../images/GO/grey_nav_sep_bar.png) no-repeat left center; ">
+		<a href="/new-arrivals.asp">New Arrivals</a></li></div>
+
+        <div><li class="the_nav" style="background:url(../../images/GO/grey_nav_sep_bar.png) no-repeat left center; ">
+		<a href="http://blog.shopgetorganized.com/">Get Organized Blog</a></li></div>
+
+
 	</ul>
+
 
 	<div id="search">
 
+
 		<ul>
-			<li class="navlink"></li>
 			<li id="offer_phrase"><marquee class="phrase" behavior="scroll" scrollamount="2" direction="left" loop="2"><span style="text-transform:uppercase;">Add $50 to your cart to receive free shipping.</span><a href="javascript:void(0)" onclick="alert('Additional shipping charges may apply as noted in product descriptions.')" style="padding-left:12px;font-size:8pt;"><em>restrictions</em></a></marquee></li>
-			<li class="phone">1-800-829-1133</li>
 		</ul>
+
 
 	</div>
 </div>
@@ -261,138 +293,156 @@ if(ovtacParamFound == 1){
 <!-- InstanceEndEditable -->
 
 		</div>
-		
-
-<script type="text/javascript">
-	function hoverround_popup() {
-
-		window.open("http://teamsynpack.go2jump.org/aff_c?offer_id=70&aff_id=154","_blank","toolbar=yes, location=yes, directories=no, status=no, menubar=yes, scrollbars=yes, resizable=no, copyhistory=yes, width=825, height=1500");
-	}
-</script>
-<div id="content_sidebar">
-
-    <h2 class="tv"><a href="/as-seen-on-tv.asp">As Seen on TV</a></h2><div class="tvicon"></div>
-    <div class="line"><hr></div>
-    <h2 class="new"><a href="/new-arrivals.asp">New Arrivals</a></h2><div class="newicon"></div>
-    <div class="line"><hr></div>
-    <h2 class="clearance"><a href="/clearance/207">Clearance</a></h2><div class="clearanceicon"></div>
-    <div class="line"><hr></div>
-	<!--<h2 class="tv"><a href="/holiday_store.asp">Holiday Store</a></h2><div class="hsicon"></div>
-	 <div class="line"><hr></div>//-->
-    <div id="leftnav">
-
-			<h3>Featured Organizers</h3>
-			<ul class="featured">
-		
-				<li><a href="/item/slim_slide_out_pantry/28307 " title="Slim Slide Out Pantry">Slim Slide Out Pantry</a></li>
-		
-				<li><a href="/item/over_door_mirror_armoire/28877 " title="Overdoor Mirror Armoire">Overdoor Mirror Armoire</a></li>
-		
-				<li><a href="/item/spice_clip_set/22513 " title="Spice Clip Set">Spice Clip Set</a></li>
-		
-				<li><a href="/item/k-cup_coffee_organizers/36095 " title="K-Cup Coffee Organizers">K-Cup Coffee Organizers</a></li>
-		
-			</ul>
-			<div class="line"><hr></div>
-		
-			<h3>Featured Rooms</h3>
-			<ul class="featured">
-		
-				<li><a href="/closet/201303" title="Closet">Closet</a></li>
-		
-				<li><a href="/kitchen/201305" title="Kitchen">Kitchen</a></li>
-		
-				<li><a href="/bathroom/201302" title="Bathroom">Bathroom</a></li>
-		
-				<li><a href="/laundry_room/201304" title="Laundry Room">Laundry Room</a></li>
-		
-			</ul>
-			<div class="line"><hr></div>
-		
-        <h3>Get Organized Email</h3>
-        <form id="frmemailsignup" name="frmemailsignup" action="/sub.asp" method="get">
-        <ul>
-            <li>Sign up for savings!</li>
-            <li>Discounts up to 90%</li>
-            <li>Web Exclusives!</li>
-            <li>Weekly Specials!</li>
-			<li>Save 10% Instantly!</li>
-            <li class="morelink"><a href="/email-info.asp" title="Learn More">Learn More</a></li>
-            <li class="inputbox"><input type="text" name="email" id="email" value="" class="emailsubmit"></li>
-            <li class="inputbox"><input type="image" src="/images/GO/btn_submit_wide.jpg" value="Submit"></li>
-        </ul>
-        </form>
-        <map name="social_map" id="social_map">
-		  <area shape="rect" coords="1,38,130,68" href="http://www.facebook.com/ShopGetOrganized" target="_blank" alt="Facebook.com">
-		  <area shape="rect" coords="1,71,125,98" href="http://www.twitter.com/homeorganized" target="_blank" alt="Twitter.com">
-		</map>
-	<!--
-        <div class="line"><hr></div>
-        <h3>Browse Our Catalog</h3>
-        <p><a href="http://getorganized.dirxion.com/"><img src="http://cdn.taylorgifts.com/images/go/catalog_image.jpg" alt="Catalog Cover"></a></p>
-	-->
-        <div class="line"><hr></div>
-        <p><a href="http://blog.shopgetorganized.com/"><img src="http://cdn.taylorgifts.com/images/go/go_goblog.jpg" alt="ShopGetOrganized Blog"></a></p>
-        <p><img src="http://cdn.taylorgifts.com/images/go/go_socialnetworking.jpg" alt="" usemap="#social_map"></p>
-        <div class="line"><hr></div>
-        <h3>Most Orders Shipped Via</h3>
-        <p><a href="/custserv/shipping.asp"><img src="http://cdn.taylorgifts.com/images/go/fedex.gif" alt="FedEx"></a></p>
-    </div>
-
-</div>
+		</div>
 		<div style="clear: both;"></div>
 	</div>
-	<div id="visit">
-		<div id="organized" class="box">
-			<h3>Visit Our Other Stores</h3>
+ 
+    <div id="visit">
 		
-			<a href="http://www.taylorgifts.com/" title="Taylor Gifts"><img src="http://cdn.taylorgifts.com/images/go/go_tglogo.png"></a>
-			<a href="http://www.kitchenandmuchmore.com/" title="Kitchen More"><img src="http://cdn.taylorgifts.com/images/go/bg_kitchen_more.gif"></a>
+				<div id="organized" class="box_wide">
+                    <h2>Email Exclusives</h2>
+                    <div class="email_text">Sign up to receive our email discounts, newsletters, organizing trends, and more!</div>
+                    <div id="email_submit">
+                         <form id="frmemailsignup" name="frmemailsignup" action="/sub.asp" method="get">
+                                <input type="text" name="email" id="email" value="Enter Email Address:" class="email_txt">
+                                <input type="image" src="/images/GO/btn_mail2.jpg" value="Submit" class="email_btn">
+                         </form>
+                    </div>           	
+		
+		</div>
+		
+        
+		
+            <div id="kit_more" class="box_social">
+                <h3>Get Social with Get Organized</h3>
+                
+                <div>
+                	<div class="social_row">
+                    	
+                        <div class="social_pic"><a href="http://www.facebook.com/ShopGetOrganized"><img alt="Facebook.com" src="/images/go/go_facebook_footer.jpg"></a></div>
+                        <div class="social_txt">Join us on Facebook</div>
+                    </div>
+                    
+                    <div class="social_row">
+                    	<div class="social_pic"><a href="http://pinterest.com/shopgo/"><img alt="ShopGetOrganized Blog" src="/images/go/go_pin_footer.jpg"></a></div>
+                        <div class="social_txt">Follow us on Pinterest</div>
+                    </div>
+                    
+                    <div class="social_row">
+                		<div class="social_pic"><a href="http://blog.shopgetorganized.com/"><img alt="blog.shopgetorganized.com" src="/images/go/go_blog_footer.jpg"></a></div>
+                        <div class="social_txt">Read the GO Blog for organizing<br> tips, info, and products.</div>
+                    </div>
+                </div>
+		
+		</div>
+		
+        
+		
+        <div id="secure" class="box">
+		
+            	<div><a href="http://www.napo.net/who/ " title="National Association of Professional Organizers" target="_blank"><img src="/images/go/go_logonapo_footer.png"></a>    
+                </div>
+                
+                <div class="ship_txt">Most Orders Ship Via
+                </div>
+                
+                <div><a href="/custserv/shipping.asp" title="FedEx_SmartPost" target="_blank"><img src="/images/go/FedEx_SmartPost.png"></a>    
+                </div>
+                
 			
 		</div>
-		<div id="kit_more" class="box">
 		
-			<a href="http://www.napo.net/who/ " title="National Association of Professional Organizers" target="_blank"><img src="http://cdn.taylorgifts.com/images/go/go_logonapo.png"></a>
-		
-		</div>
-		<div id="secure" class="box">
-		
-			<script type="text/javascript" src="https://seal.verisign.com/getseal?host_name=www.shopgetorganized.com&amp;size=M&amp;use_flash=YES&amp;use_transparent=YES&amp;lang=en"></script><a href="http://www.verisign.com/ssl-certificate/" target="_blank">ABOUT SSL CERTIFICATES</a>
-		
-			
-			<!-- security metrics logo -->
-			<br>
-			
-				<a href="http://www.securitymetrics.com/site_certificate.adp?s=208%2e184%2e36%2e40&amp;i=105113" target="_blank">
-<img src="http://www.securitymetrics.com/images/sm_ccsafe_check1.gif" alt="SecurityMetrics for PCI Compliance, QSA, IDS, Penetration Testing, Forensics, and Vulnerability Assessment" border="0"></a>
-				
-		</div>
-		<div id="payment" class="box">
-			<h3>We gladly accept</h3>
-			<ul>
-				<li><img src="http://cdn.taylorgifts.com/images/go/bg_logo_paypal.png" alt="PayPal"></li>
-				<li><img src="http://cdn.taylorgifts.com/images/go/bg_logo_visa.png" alt="Visa"></li>
-				<li><img src="http://cdn.taylorgifts.com/images/go/bg_logo_master.png" alt="Master Card"></li>
-				<li><img src="http://cdn.taylorgifts.com/images/go/bg_logo_discover.png" alt="Discover"></li>
-				<li><img src="http://cdn.taylorgifts.com/images/go/bg_logo_american_express.png" alt="American Express"></li>
-			</ul>
-			
-		</div>
-		<div id="quick" class="box">
-			<h3>Quick Links</h3>
-			<ul>
-				<li><a href="/custserv/about.asp" title="About Us">About Us</a></li>
-				<li><a href="/custserv/contact.asp" title="Contact Us">Contact Us</a></li>
-				<li><a href="/custserv/customer-service.asp" title="Customer Service">Customer Service</a></li>
-				<li><a href="/custserv/promotions.asp" title="Current Promotions">Current Promotions</a></li>
-			
-			</ul>
-		</div>
+        
+        
+            <div id="quick">
+            	<div>
+                    <h3>Info &amp; Policies</h3>
+                    <ul>
+                        <li><a href="/custserv/about.asp" title="About Us">About Us</a></li>
+                        <li><a href="/custserv/contact.asp" title="Contact Us">Contact Us</a></li>
+                        <li><a href="/custserv/customer-service.asp" title="Customer Service">Customer Service</a></li>
+                        <li><a href="/custserv/promotions.asp" title="Current Promotions">Current Promotions</a></li>
+                    
+                    </ul>
+                 </div>
+                <script language="JavaScript">
+					<!--
+					function JumpToIt(frm) {
+						var newPage = frm.url.options[frm.url.selectedIndex].value
+						if (newPage != "None") {
+							location.href=newPage
+						}
+					}
+					//-->
+					</script>
+
+
+                 <br>
+                 <h3>Visit Our Other Store</h3>
+                 <div class="styled_select">
+                     <form>
+                        <select name="url">
+                            <option value="http://www.taylorgifts.com" selected="selected">Taylor Gifts</option>
+                        </select>
+                        <input value="Go" onclick="JumpToIt(this.form)" src="images/go/btn_go_go.jpg" type="button" class="other_sites_go">
+                     </form>
+                 </div>
+            </div>
+            
+        
 	</div>
-	<div id="footer">
-		<p>© 2011 Taylor Gifts | <a href="/custserv/privacy.asp" title="Privacy &amp; Security">Privacy &amp; Security</a> | <a href="/sitemap.asp" title="Sitemap">Sitemap</a> | <a href="/affiliates.asp" title="Affiliates">Affiliates</a> | <a href="/testimonials.asp" title="Testimonials">Testimonials</a></p>
+    
+    
+     
+     <div style="width:990px; height:3px; text-align:center">
+    	<hr style="color:#F00; width:990px; height:3px">
+     </div>
+    		<div class="GO_footer_bottom">
+            	
+                <div class="GO_fb_pic"><a href="" target="_blank">
+<script type="text/javascript">var seal_host = (("https:" == document.location.protocol) ? "https://" : "http://");document.write(unescape("%3Ca target='_blank' href='http://www.stellaservice.com/profile/1646'%3E%3Cimg src='" + seal_host + "seal.stellaservice.com/seals/stellaservice_excellent.png?c=1646' border='0' title='ShopGetOrganized.com is top rated for customer service' /%3E%3C/a%3E"));</script></a><a target="_blank" href="http://www.stellaservice.com/profile/1646"><img src="https://seal.stellaservice.com/seals/stellaservice_excellent.png?c=1646" border="0" title="ShopGetOrganized.com is top rated for customer service"></a></div>
+                
+                <div class="GO_fb_pic" style="margin-top:7px"><a href="https://trustsealinfo.verisign.com/splash?form_file=fdf/splash.fdf&amp;dn=www.shopgetorganized.com&amp;lang=en" target="_blank">
+<img src="/images/GO/norton_footer.jpg" alt="Norton" border="0"></a></div>
+                
+                <div class="GO_fb_pic" style="margin-top:5px"><a href="http://www.securitymetrics.com/site_certificate.adp?s=208%2e184%2e37%2e39&amp;i=105113" target="_blank">
+<img src="http://www.securitymetrics.com/images/sm_ccsafe_check1.gif" alt="SecurityMetrics for PCI Compliance, QSA, IDS, Penetration Testing, Forensics, and Vulnerability Assessment" border="0"></a></div>
+    		</div>
+    
+    
+    
+   <div id="footer">
+    
+    
+    	<p>© 2013 Get Organized  
+	      
+        
+        
+        | <a href="/custserv/privacy.asp" title="Privacy &amp; Security">Privacy &amp; Security</a> | <a href="/sitemap.asp" title="Sitemap">Sitemap</a> | <a href="/affiliates.asp" title="Affiliates">Affiliates</a> | <a href="/testimonials.asp" title="Testimonials">Testimonials</a></p>
 		<p>600 Cedar Hollow Road · Paoli, PA 19301 · 1.800.868.6169</p>
 	</div>
+
+
+
+
+<!-- Google Code for New Universal Remarketing Tag -->
+<!-- Remarketing tags may not be associated with personally identifiable information or placed on pages related to sensitive categories. For instructions on adding this tag and more information on the above requirements, read the setup guide: google.com/ads/remarketingsetup -->
+<script type="text/javascript">
+/* <![CDATA[ */
+var google_conversion_id = 1069840731;
+var google_conversion_label = "nb8eCIuFugMQ2_KR_gM";
+var google_custom_params = window.google_tag_params;
+var google_remarketing_only = true;
+/* ]]> */
+</script>
+<script type="text/javascript" src="//www.googleadservices.com/pagead/conversion.js">
+</script>
+<noscript>
+<div style="display:inline;">
+<img height="1" width="1" style="border-style:none;" alt="" src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/1069840731/?value=0&amp;label=nb8eCIuFugMQ2_KR_gM&amp;guid=ON&amp;script=0"/>
+</div>
+</noscript>
+
 
 	<!-- ClickTale Bottom part -->
 	<div id="ClickTaleDiv" style="display: none;"></div>
@@ -433,7 +483,7 @@ if(ovtacParamFound == 1){
 		</script>
 		<!-- END: buySAFE Seal -->
 		
-</div>
+
 
 <script type="text/javascript">
 if(typeof(init_page)=="function"){if(typeof(jQuery)!="undefined")$(document).ready(init_page);else init_page();}
@@ -459,6 +509,13 @@ var google_conversion_value = 0;
 
 				<script type="text/javascript" src="https://tags.mediaforge.com/js/432"></script>
 			
+<script type="text/javascript"><!--
+{
+document.write("<img src=http://tracking.searchmarketing.com/welcome.asp?SMCID=1275&x="+escape(document.referrer)+" width=1 height=1>");
+}
+//-->
+</script><img src="http://tracking.searchmarketing.com/welcome.asp?SMCID=1275&amp;x=" width="1" height="1">
+
 
 <!-- GOOGLE ANALYTICS SCRIPT --> 
 <script type="text/javascript">
@@ -498,7 +555,7 @@ _gaq.push(["_trackPageLoadTime"]);
 		
 
 <!-- 
-	CartID: "2012111614105524079119976"
+	CartID: "2013061901504532325576442"
 	Source: "GNETF210"
 	Offer: "GNETF210"
 	PH: "55", DT: ""
