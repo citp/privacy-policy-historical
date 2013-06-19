@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wahl.com privacy policy that was archived on 2012-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121212055801id_/http%3A//www.wahl.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wahl.com privacy policy that was archived on 2013-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130619020037id_/http%3A//wahl.com/privacy) for the most accurate reproduction.*
 
 # Wahl | Privacy Policy
 
