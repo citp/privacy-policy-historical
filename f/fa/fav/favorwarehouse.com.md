@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the favorwarehouse.com privacy policy that was archived on 2012-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121209140654id_/http%3A//www.favorwarehouse.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the favorwarehouse.com privacy policy that was archived on 2013-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130619040820id_/http%3A//www.favorwarehouse.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -26,7 +26,7 @@ By using our web site or purchasing a product from us, you agree to the collecti
 
 ## Commitment to customer service
 
-Favor Warehouse is committed to our customers’ satisfaction and creating a great customer experience. You can contact our customer care department via email at info@favorwarehouse.com or at 1-888-835-8086.
+Favor Warehouse is committed to our customers’ satisfaction and creating a great customer experience. You can contact our customer care department via email at info@favorwarehouse.com or at 914-514-3244.
 
 ## Authorized third parties
 
