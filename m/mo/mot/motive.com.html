@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the motive.com privacy policy that was archived on 2012-11-22.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121122114139id_/http%3A//www.alcatel-lucent.com/wps/portal/privacy%3Flu_lang_code%3Den) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the motive.com privacy policy that was archived on 2013-06-19.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130619223743id_/http%3A//www3.alcatel-lucent.com/wps/portal/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html xmlns="http://www.w3.org/1999/xhtml"><head>
     <!-- Google verification tag -->
@@ -22,21 +22,22 @@
 
 <!-- BEGIN HEAD -->
 
-
-	<link href="/wps/themes/html/ExternalVGAMain/css/common.css?date=20110216" rel="styleSheet" type="text/css">
-	<link href="/wps/themes/html/ExternalVGAMain/css/font_sm.css?date=20110216" rel="styleSheet" type="text/css">
-	<link href="/wps/themes/html/ExternalVGAMain/css/themestyles.css?date=20110217" rel="styleSheet" type="text/css">
-    <link href="/wps/themes/html/ExternalVGAMain/css/Styles.css?date=20110216" rel="styleSheet" type="text/css">
-	<!-- Common JavaScript-->
-	<script type="text/javascript" language="Javascript" src="/wps/themes/html/ExternalVGAMain/js/common.js?date=20100530"></script>
-
 <!--  Internet Refresh -->
-<link rel="stylesheet" type="text/css" title="Alcatel-Lucent Corporate" href="http://www.alcatel-lucent.com/_site/_styles/alu.css" media="screen">
-<link rel="stylesheet" type="text/css" href="http://www.alcatel-lucent.com/_site/_styles/alu-print.css" media="print">
-<script type="text/javascript" language="Javascript" src="/wps/themes/html/ExternalVGAMain/js/jquery-1.4.4.min.js"></script>
-<!--[if IE]><link rel="stylesheet" type="text/css" href="http://www.alcatel-lucent.com/_site/_styles/alu-ie.css" media="screen" /><![endif]-->
-<!--[if IE 6]><script type="text/javascript" src="http://www.alcatel-lucent.com/_site/_scripts/alu-ie-6.js"></script><![endif]-->
-<script type="text/javascript" src="http://www.alcatel-lucent.com/_site/_scripts/alu.js"></script>
+	<link href="/wps/themes/html/ExternalVGAMain/css/common.css?date=20110216" rel="styleSheet" type="text/css">
+	<link href="/wps/themes/html/ExternalVGAMain/css/themestyles.css?date=20110217" rel="styleSheet" type="text/css">
+	<script type="text/javascript" language="Javascript" src="/wps/themes/html/ExternalVGAMain/js/common.js?date=20100530"></script>
+<link rel="stylesheet" type="text/css" href="/_site/_styles/styles.css">
+<link rel="stylesheet" type="text/css" href="/_site/_styles/print.css" media="print">
+<!--[if lt IE 9]>
+<script src="/_site/_scripts/html5shiv.js"></script>
+<link rel="stylesheet" type="text/css" href="/_site/_styles/ie.css" />
+<![endif]-->
+
+<script type="text/javascript" src="http://use.typekit.com/qft6szy.js"></script>
+<script type="text/javascript">try{Typekit.load();}catch(e){}</script>
+
+<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js"></script>
+<script type="text/javascript" src="/_site/_scripts/alcatel.js"></script>
 <!-- End of Internet Refresh -->
 
 <!-- END HEAD -->
@@ -56,24 +57,18 @@
 		
 		function replaceSpaces() {
 			var proceed = "yes";
-		
-			if(document.searchForm.S_FULLTEXT.value.replace(/\s/g,"") == "" || document.searchForm.S_FULLTEXT.value == "Search" || 
-					document.searchForm.S_FULLTEXT.value == "Search") {
+		var searchForm = document.getElementById("mini-search");
+			if(searchForm.S_FULLTEXT.value.replace(/\s/g,"") == "" || searchForm.S_FULLTEXT.value == "Search" || 
+					searchForm.S_FULLTEXT.value == "Search") {
 				proceed = "no";
 				alert('You must enter a search term');
 			}
 			if (proceed == "yes") {
-				var boxString=document.searchForm.S_FULLTEXT.value;
+				var boxString=searchForm.S_FULLTEXT.value;
 				boxString = boxString.replace(/</g," ");
 				boxString = boxString.replace(/>/g," ");
-				//boxString = boxString.replace(/'/g," ");
-
-
-				//var nonChar = new RegExp("\\s","g");
-				//boxString=boxString.replace(nonChar,"+");
-				document.searchForm.S_FULLTEXT.value=boxString;
-                //document.searchForm.action = document.searchForm.action + '&searchTerm=' + boxString + '&topnav=yes&kt=alcatel&root=' + 'All of Alcatel';
-				document.searchForm.submit()
+				searchForm.S_FULLTEXT.value=boxString;
+				searchForm.submit()
 			}	
 		}				
 	</script><script language="Javascript">
@@ -134,6 +129,7 @@
 
 
 	
+
 <!-- START COMMON JAVASCRIPT -->
 	
 	
@@ -143,8 +139,9 @@
 	</div>
 <!-- END COMMON JAVASCRIPT -->
 
-	
-		<!-- START PREHEADER -->
+
+
+					<!-- START PREHEADER -->
 		 	
 			<div style="position:absolute;top:0">
 				<form action="#" id="findscode" name="findscode" method="">
@@ -156,7 +153,7 @@
 			</script>	
 			<!-- END PREHEADER -->
 			<!-- BEGIN HEADER -->
-			<div id="alu-header"> 
+			<header id="site-head">
 				
 
 
@@ -176,8 +173,10 @@
 
 
 								
-				<div id="alu-header-inner">
-					<h1><a href="http://www.alcatel-lucent.com/">Alcatel-Lucent</a></h1>
+				<div id="site-head-inner">
+		
+
+					<h1><a href="http://www.alcatel-lucent.com">Alcatel-Lucent</a></h1>
 					
 
 
@@ -207,25 +206,14 @@
 <!-- Top navigation -->
 <div id="row-1">
  	<form action="#" id="change_lang" name="change_lang" class="" method="get">
-		<ul id="alu-header-mini-nav">
-			<li><a class="tab left" href="https://market.alcatel-lucent.com/release/employee/SPEmployeeLoginRedirectSvlt?SP_PAGE_ID=0">Sign In / Register</a></li>
-	   		<li>
  	
-				<a class="tab" href="/worldwide">Worldwide</a>
-	    	</li>
-
 		
-				<li><a class="tab right" href="javascript:changeLanguageLocale ('/wps/portal/!ut/p/kcxml/04_Sj9SPykssy0xPLMnMz0vM0Y_QjzKLd4w3CXMFSYGYRq6m-pEoYgbxjgiRIH1vfV-P_NxU_QD9gtzQiHJHR0UAN0ZNRg!!/delta/base64xml/L0lKWWttUSEhL3dITUFDc0FJVUFOby80SUVhREFBIS9mcg!!','fr')">Français</a></li>
 			
-		</ul>
 		
 		<input type="hidden" name="lu_lang_code" id="lu_lang_code" value="en">
  	</form>
 </div>
 <!-- END ROW1 -->
-<!-- START ROW2 -->
-		<div id="alu-atsoi"></div>
-<!-- END ROW2 -->
 
 
 
@@ -243,427 +231,98 @@
 
 
 
-	
-	<!-- START SUBMENU -->
-		<ul id="alu-header-nav">
-			<li><a href="/your-needs/">Your Needs</a>
-				<div class="uber-menu" id="your-needs">
-					<div class="buckets four-column">
-						<div class="bucket-small">
-							<h2><a href="/serviceproviders">Service Providers</a></h2>
-							
-							<a href="/serviceproviders"><img src="http://www.alcatel-lucent.com/_site/_images/features/HLN_195x100.jpg" width="195" height="100" alt="" class="feature"></a>
-							
-							<ul>
-							
-							 
-<li><a href="http://www2.alcatel-lucent.com/hln/">Leverage the full potential of your network and deliver on the promise of the cloud. Explore the High Leverage Network™</a></li>
-
-								
-							</ul>
-						</div>
-						<div class="bucket-small">
-							<h2><a href="http://enterprise.alcatel-lucent.com/">Enterprise</a></h2>
-							<a href="http://enterprise.alcatel-lucent.com/"><img src="http://www.alcatel-lucent.com/_site/_images/features/yourneeds-enterprise.jpg" width="195" height="100" alt="" class="feature"></a>
-							<ul>
-								<li><a href="http://enterprise.alcatel-lucent.com/?solution=UnifiedCommunications&amp;page=Homepage">Collaborate more effectively with unified communications</a></li>
-								<li><a href="http://enterprise.alcatel-lucent.com/?solution=NetworkInfrastructure&amp;page=homepage_ApplicationsConvergedNetworks" title="http://enterprise.alcatel-lucent.com/?solution=NetworkInfrastructure&amp;page=homepage_ApplicationsConvergedNetworks">Enable real-time application delivery</a></li>
-							</ul>
-						</div>
-						<div class="bucket-small">
-							<h2><a href="http://enterprise.alcatel-lucent.com/?solution=Industries&amp;page=Home">Industries</a></h2>
-							<a href="http://enterprise.alcatel-lucent.com/?solution=Industries&amp;page=Directory">
-								<img src="http://www.alcatel-lucent.com/_site/_images/features/yourneeds-industries.jpg" width="195" height="100" alt="" class="feature">
-							</a>
-							<ul>
-								<li><a href="http://enterprise.alcatel-lucent.com/?solution=Industries&amp;page=Directory">How can dynamic communications help my industry?</a></li>
-							</ul>
-						</div>
-						<div class="bucket-small no-pad">
-							<h2><a href="http://www.alcatel-lucent.com/open-api-platform/">Developers</a></h2>
-							<a href="http://www.alcatel-lucent.com/open-api-platform/">
-								<img src="http://www.alcatel-lucent.com/_site/_images/features/yourneeds-developers.jpg" width="195" height="100" alt="" class="feature">
-							</a>
-							<ul>
-								<li><a href="http://www.alcatel-lucent.com/open-api-platform/">Open API Platform</a></li>
-							</ul>
-						</div>
-					</div>
-				</div>
-			</li>
-			<li><a href="/our-portfolio/">Our Portfolio</a>
-				<div class="uber-menu" id="our-portfolio">
-					<div class="buckets three-column">
-						<div class="bucket-triple">
-							<h2><a href="/serviceproviders">Service Providers</a></h2>
-							
-							<div class="link-bucket">
-								<h3><a href="/solutions">Solutions</a></h3>
-								<ul>
-									<li><a class="find-solution" href="/solutions">Find a Solution</a></li>
-								</ul>
-								
-								<h4>Featured Solutions</h4>
-								<ul><li><a href="http://www2.alcatel-lucent.com/application_enablement/">Application Enablement</a></li>
-								
-								<li><a href="http://www.alcatel-lucent.com/new-thinking/market-growth/cloud.html">Cloud</a></li>
-									<li><a href="http://www.alcatel-lucent.com/motive/index.html">Customer Experience</a></li>
-									
-									<li><a href="http://www.alcatel-lucent.com/ims-communications/index.html">IMS Communications</a></li>
-									<li><a href="http://www.alcatel-lucent.com/lightradio">lightRadio</a></li>
-									
-									<li><a href="http://lte.alcatel-lucent.com/">LTE</a></li>
-									<li><a href="/wps/portal/Solutions/detail?LMSG_CABINET=Solution_Product_Catalog&amp;LMSG_CONTENT_FILE=Solutions/Solution2_Detail_000240.xml">Mobile Advertising</a></li>
-									
-									
-									 
-
-<li><a href="/solutions/mobile-backhaul/">Mobile Backhaul </a></li>
-
-
-
-									
-									
-									<li><a href="/multimedia/">Personalized Multimedia Experience</a></li>
-									<li><a href="/wireless/">Wireless IP</a></li>
-									</ul>
-									
-					
-							</div>
-							
-							<div class="link-bucket">
-								<h3><a href="/products">Products</a></h3>
-								<ul>
-									<li><a href="/wps/portal/Products/productsaz">Products A-Z</a></li>
-									<li><a href="/wps/portal/Products/category?LMSG_CABINET=Solution_Product_Catalog&amp;LMSG_CONTENT_FILE=Product_Categories/Product_Category_000031.xml&amp;LMSG_SELECTEDCATEGORY=Y">Access </a></li>
-									<li><a href="/wps/portal/Products/category?LMSG_CABINET=Solution_Product_Catalog&amp;LMSG_CONTENT_FILE=Product_Categories/Product_Category_000032.xml&amp;LMSG_SELECTEDCATEGORY=Y">Applications</a></li>
-									<li><a href="/wps/portal/Products/category?LMSG_CABINET=Solution_Product_Catalog&amp;LMSG_CONTENT_FILE=Product_Categories/Product_Category_000033.xml&amp;LMSG_SELECTEDCATEGORY=Y">Carrier Ethernet, IP/MPLS &amp; ATM networks</a></li>
-									<li><a href="/wps/portal/Products/category?LMSG_CABINET=Solution_Product_Catalog&amp;LMSG_CONTENT_FILE=Product_Categories/Product_Category_000034.xml&amp;LMSG_SELECTEDCATEGORY=Y">Carrier VoIP, Voice and Multimedia</a></li>
-									<li><a href="/wps/portal/Products/category?LMSG_CABINET=Solution_Product_Catalog&amp;LMSG_CONTENT_FILE=Product_Categories/Product_Category_000035.xml&amp;LMSG_SELECTEDCATEGORY=Y">Convergence/IMS </a></li>
-									<li><a href="/wps/portal/Products/category?LMSG_CABINET=Solution_Product_Catalog&amp;LMSG_CONTENT_FILE=Product_Categories/Product_Category_000037.xml&amp;LMSG_SELECTEDCATEGORY=Y">Mobile</a></li>
-									<li><a href="/wps/portal/Products/category?LMSG_CABINET=Solution_Product_Catalog&amp;LMSG_CONTENT_FILE=Product_Categories/Product_Category_000038.xml&amp;LMSG_SELECTEDCATEGORY=Y">Network, Service Management &amp; OSS/BSS</a></li>
-									<li><a href="/wps/portal/Products/category?LMSG_CABINET=Solution_Product_Catalog&amp;LMSG_CONTENT_FILE=Product_Categories/Product_Category_000039.xml&amp;LMSG_SELECTEDCATEGORY=Y">Optics</a></li>
-									<li><a href="/wps/portal/Products/category?LMSG_CABINET=Solution_Product_Catalog&amp;LMSG_CONTENT_FILE=Product_Categories/Product_Category_000040.xml&amp;LMSG_SELECTEDCATEGORY=Y">Submarine Systems</a></li>
-									<li><a href="/wps/portal/Products/category?LMSG_CABINET=Solution_Product_Catalog&amp;LMSG_CONTENT_FILE=Product_Categories/Product_Category_000041.xml&amp;LMSG_SELECTEDCATEGORY=Y">Wireless Access and Transmission</a></li>
-									
-								</ul>
-							</div>
-							
-							<!-- Navigation update 2012 (SC#2927825) -->
-							<!-- 
-							<div class="link-bucket">
-								<h3><a href="/services">Services</a></h3>
-								<ul><li><a href="/services/transformation_services.html">Transformation Services</a></li>
-									<li><a href="/services/business_consulting_services.html">Business Consulting</a></li>
-									<li><a href="/services/integration_services.html">Integration Services</a></li>
-									<li><a href="/services/maintenance-services.html">Maintenance Services</a></li>
-									<li><a href="/services/managed_services.html">Managed Services</a></li>
-								</ul>
-							</div>
-							-->
-							
-							<div class="link-bucket">
-								<!-- <h3><a href="/services">Services</a></h3> -->
-								
-														
-<h3><a href="/services">Services</a></h3>
-
-								
-								<ul><li><a href="/services/consulting-services.html">Consulting Services</a></li>
-									<li><a href="/services/professional-services.html">Professional Services</a></li>
-									<li><a href="/services/maintenance-services.html">Maintenance Services</a></li>
-									<li><a href="/services/managed-services.html">Managed Services</a></li>
-									
-								</ul>
-							</div>
-							
-							
-						</div>
-						<div class="bucket-double">
-						
-						<!--  	<h2><a href="http://enterprise.alcatel-lucent.com/">Enterprise</a></h2>-->
-						
-						 
-<h2><a href="http://enterprise.alcatel-lucent.com/">Enterprise</a></h2>
-
-							
-							<div class="link-bucket">
-								<!--<h3><a href="http://enterprise.alcatel-lucent.com/?solution=All&amp;page=Directory">Solutions</a></h3>  -->
-								
-								 
-<h3><a href="http://enterprise.alcatel-lucent.com/?solution=All&amp;page=Directory">Solutions</a></h3>
- 
- 
- 
- 
- 
- 
-							
-								<ul>
-									<li><a href="http://enterprise.alcatel-lucent.com/?solution=ContactCenter&amp;page=Homepage">Contact Centers</a></li>
-									<li><a href="http://enterprise.alcatel-lucent.com/?solution=NetworkInfrastructure&amp;page=homepage">Network Infrastructure</a></li>
-									<li><a href="http://enterprise.alcatel-lucent.com/?solution=IPTelephony&amp;page=Homepage">IP Telephony</a></li>
-									<li><a href="http://enterprise.alcatel-lucent.com/?solution=ManagementSolutions&amp;page=Homepage">Management Solutions</a></li>
-									<li><a href="http://enterprise.alcatel-lucent.com/?solution=Mobility&amp;page=Homepage">Mobility</a></li>
-									<li><a href="http://enterprise.alcatel-lucent.com/?solution=ProcessIntegration&amp;page=Homepage">Process Integration</a></li>
-									<li><a href="http://enterprise.alcatel-lucent.com/?solution=Security&amp;page=Homepage">Security</a></li>
-									<li><a href="http://enterprise.alcatel-lucent.com/?solution=UnifiedCommunications&amp;page=Homepage">Unified Communications</a></li>
-									<li><a href="http://enterprise.alcatel-lucent.com/?solution=VideoCollaboration&amp;page=overview">Video Collaboration</a></li>
-								</ul>
-								<h4>By Business Size</h4>
-								<ul>
-									<li><a href="http://enterprise.alcatel-lucent.com/?solution=Large&amp;page=Homepage">Large Enterprise</a></li>
-									<li><a href="http://enterprise.alcatel-lucent.com/?solution=Medium&amp;page=Homepage">Mid-size Enterprise</a></li>
-									<!-- <li><a href="http://enterprise.alcatel-lucent.com/?solution=SMB&amp;page=Homepage">Small Enterprise</a></li> -->
-									
-									 
-<li><a href="http://enterprise.alcatel-lucent.com/?solution=SMB&amp;page=Homepage">Small Enterprise</a></li>
-
-									
-								</ul>
-							</div>
-							
-							<div class="link-bucket">
-								<!--  <h3><a href="http://enterprise.alcatel-lucent.com/?product=All&amp;page=Directory">Products</a></h3>-->
-								
-								  
-<h3><a href="http://enterprise.alcatel-lucent.com/?product=All&amp;page=Directory">Products</a></h3>
-
- 
- 
- 
- 
- 
- 
-								<ul>
-									<li><a href="http://enterprise.alcatel-lucent.com/?product=All&amp;page=Directory">Product Directory</a></li>
-								</ul>
-								
-								<!-- <h3 class="top-pad"><a href="http://enterprise.alcatel-lucent.com/?dept=EnterpriseServices&amp;page=Homepage">Services</a></h3> -->
-								
-								 
-<h3><a href="http://enterprise.alcatel-lucent.com/?dept=EnterpriseServices&amp;page=Homepage">Services</a></h3>
-
-								
-								<ul>
-
-									
- 
-<li><a href="http://enterprise.alcatel-lucent.com/?dept=EnterpriseServices&amp;page=homepage">Enterprise Services Overview</a></li>
-
-									
-									
-									<li><a href="http://enterprise.alcatel-lucent.com/?dept=ProfessionalServices&amp;page=Landing">Professional Services</a></li>
-									<li><a href="http://enterprise.alcatel-lucent.com/?dept=EnterpriseServices&amp;page=ManagedServices">Managed Services</a></li>
-									<li><a href="http://enterprise.alcatel-lucent.com/?dept=EnterpriseServices&amp;page=SupportServices">Support Services</a></li>
-									<li><a href="http://enterprise.alcatel-lucent.com/?dept=FinancingSolutions&amp;page=homepage">Financial Services</a></li>
-								</ul>
-							</div>
-							
-						</div>
-						
-						<div class="bucket-single">
-							<h2><a href="http://enterprise.alcatel-lucent.com/?solution=Industries&amp;page=Home">Industries</a></h2>
-							
-							<div class="link-bucket">
-								<h3><a href="http://enterprise.alcatel-lucent.com/?solution=Industries&amp;page=Directory">Solutions</a></h3>
-								<ul>
-									<li><a href="/wps/portal/solution/detail?LMSG_CABINET=Solution_Product_Catalog&amp;LMSG_CONTENT_FILE=Solutions/Solution2_Detail_000064.xml">Airport</a></li>
-									<li><a href="http://enterprise.alcatel-lucent.com/?solution=Education&amp;page=Homepage">Education</a></li>
-									<li><a href="http://enterprise.alcatel-lucent.com/?solution=Finance&amp;page=Homepage">Finance</a></li>
-									<li><a href="http://enterprise.alcatel-lucent.com/?solution=Healthcare&amp;page=Homepage">Healthcare</a></li>
-									<li><a href="/wps/portal/solution/detail?LMSG_CABINET=Solution_Product_Catalog&amp;LMSG_CONTENT_FILE=Solutions/Solution2_Detail_000066.xml">Highways</a></li>
-									<li><a href="http://enterprise.alcatel-lucent.com/?solution=Hospitality&amp;page=Homepage">Hospitality</a></li>
-									<li><a href="http://enterprise.alcatel-lucent.com/?solution=Manufacturing&amp;page=Homepage">Manufacturing</a></li>
-									<li><a href="/wps/portal/solution/detail?LMSG_CABINET=Solution_Product_Catalog&amp;LMSG_CONTENT_FILE=Solutions/Solution2_Detail_000062.xml">Oil &amp; Gas</a></li>
-									<li><a href="http://enterprise.alcatel-lucent.com/?solution=PowerUtilities&amp;page=Home">Power Utilities</a></li>
-									<li><a href="http://enterprise.alcatel-lucent.com/?solution=PublicSafety&amp;page=Home">Public Safety</a></li>
-									<li><a href="http://enterprise.alcatel-lucent.com/?solution=Defense&amp;page=Homepage">Defense - Global</a></li>
-									<li><a href="http://www.lgsinnovations.com/wps/portal/lgs">Defense - U.S</a></li>
-									<li><a href="http://enterprise.alcatel-lucent.com/?solution=Railways&amp;page=Home">Railways</a></li>
-									<li><a href="http://enterprise.alcatel-lucent.com/?solution=Retail&amp;page=Homepage">Retail</a></li>
-									<li><a href="http://enterprise.alcatel-lucent.com/?solution=Government&amp;page=homepage">State &amp; Local Authorities</a></li>
-								</ul>
-							</div>
-						</div>
-						
-					</div>
-				</div>
-			</li>
-			<li><a href="/new-thinking/">New Thinking</a>
-				<div class="uber-menu" id="new-thinking">
-					<div class="buckets four-column">
-					
-					<!-- Removal of all contents of column Ideas for Growth -->
-					
-					<!--  	<div class="bucket-small">
-							<img src="http://www.alcatel-lucent.com/_site/_images/features/newthinking-connected.jpg" width="195" height="100" alt="" class="feature" />
-							<h3>Ideas for Growth</h3>
-							<ul>
-								<li><a href="/new-thinking/market-growth/application-content-value-chain.html">Application & Content Value Chain</a></li>
-							    <li><a href="/new-thinking/market-growth/internet-of-things.html">Internet of Things</a></li>
-								<li><a href="/new-thinking/market-growth/cloud.html">Cloud</a></li>
-								<li><a href="/new-thinking/market-growth/wireless-all-around.html">Wireless All Around</a></li>
-							</ul>
-						</div> -->
-						
-						
-						<div class="bucket-small">
-							<a href="/belllabs"><img src="http://www.alcatel-lucent.com/_site/_images/features/newthinking-belllabs.jpg" width="195" height="100" alt="" class="feature"></a>
-							<h3><a href="/belllabs">Bell Labs</a></h3>
-							<ul>
-								<li><a href="/wps/portal/BellLabs/AboutBellLabs">About Bell Labs</a></li>
-								<li><a href="/wps/portal/BellLabs/Research">Bell Labs Research</a></li>
-								<li><a href="/wps/portal/BellLabs/Technology">Bell Labs Technologies</a></li>
-								<li><a href="/wps/portal/BellLabs/Community">Community</a></li>
-								<li><a href="/wps/portal/BellLabs/Global">Global Labs </a></li>
-
-							</ul>
-						</div>
-						<div class="bucket-small">
-							<a href="/publications"><img src="http://www.alcatel-lucent.com/_site/_images/features/newthinking-publications.jpg" width="195" height="100" alt="" class="feature"></a>
-							<h3><a href="/publications">Publications</a></h3>
-							<ul>
-							
-								<li><a href="http://www2.alcatel-lucent.com/blogs/techzine/">Alcatel-Lucent TechZine</a> </li>
-								<li><a href="/wps/portal/BellLabs/TechJournal/">Bell Labs Technical Journal</a> </li>
-								<li><a href="http://www2.alcatel-lucent.com/enrich/en/">Enriching Communications e-zine</a></li>
-								<li><a href="/wps/portal/whitepapers">White Papers</a></li>
-							</ul>
-						</div>
-						
-						<div class="bucket-small">
-							<img src="http://www.alcatel-lucent.com/_site/_images/features/partnership_195x100.jpg" width="195" height="100" alt="" class="feature">
-							<h3>Partnerships</h3>
-							<ul>
-								<li><a href="/wps/portal/innovation/alrpp">Alcatel-Lucent Research Partner Program</a></li>
-								<li><a href="http://enterprise.alcatel-lucent.com/?dept=PartnerwithAlcatelLucent&amp;page=ApplicationPartners">Alcatel-Lucent Application Partner Program</a></li>
-
-								</ul>
-						</div>
-						
-						<div class="bucket-small no-pad">
-							<img src="http://www.alcatel-lucent.com/_site/_images/features/program_195x100.jpg" width="195" height="100" alt="" class="feature">
-							<h3>Programs</h3>
-							<ul>
-												
-								<li><a href="/eco/">Eco-Sustainability</a></li>
-						
-								<li><a href="http://enterprise.alcatel-lucent.com/?dept=Innovation&amp;page=Homepage">Enterprise Innovations</a> </li>
-								<li><a href="http://www.alcatel-lucent.com/mci/">Market and Consumer Insight</a></li>
-								<li><a href="http://www.alcatel-lucent.com/open-api-platform/">Open API Platform</a></li>
-
-								</ul>
-						</div>
-						
-						
-						
-					</div>
-				</div>
-			</li>
-			<li><a href="/support">Support</a>
-				<div class="uber-menu" id="support">
-					<div class="buckets four-column">
-						<div class="bucket-small"> <a href="/university/"><img src="http://www.alcatel-lucent.com/_site/_images/features/support-src.jpg" width="195" height="100" alt="" class="feature"></a>
-							<h3><a href="/university/">Alcatel-Lucent University</a></h3>
-						</div>
-						<div class="bucket-small"> <a href="http://support.alcatel-lucent.com/"><img src="http://www.alcatel-lucent.com/_site/_images/features/support-olcs.jpg" width="195" height="100" alt="" class="feature"></a>
-							<h3><a href="http://support.alcatel-lucent.com/">Network Customer Support (OLCS)</a></h3>
-						</div>
-						<div class="bucket-small">
-							<h2><a href="/support">Service Providers</a></h2>
-							<ul><li><a href="/university/">Alcatel-Lucent University Training</a></li>
-								<li><a href="http://support.alcatel-lucent.com/">Documentation and Downloads</a></li>
-								<li><a href="https://market.alcatel-lucent.com/release/jsp/sso/login.jsp">Sign in to Business Partner and Customer Portals</a> </li>
-								<li><a href="https://market.alcatel-lucent.com/release/SPRegistrantTypeSvlt">Register</a></li>
-								<li><a href="http://webform.alcatel-lucent.com/res/alu/survey/alu2CustomForm.jsp?cw=alu2CorpSalesInquiry&amp;REFERRER=globalnav">Sales Inquiries</a></li>
-							</ul>
-						</div>
-						<div class="bucket-small no-pad">
-							<h2><a href="http://enterprise.alcatel-lucent.com/?dept=TrainingandSupport&amp;page=homepage">Enterprise &amp; Industries</a></h2>
-							<ul>
-								<li><a href="http://enterprise.alcatel-lucent.com/?dept=TrainingandSupport&amp;page=homepage">Enterprise Support &amp; Training</a></li>
-								<li><a href="http://enterprise.alcatel-lucent.com/?dept=PartnerwithAlcatelLucent&amp;page=homepage">Find a Business Partner </a></li>
-								<li><a href="https://service.esd.alcatel-lucent.com/portal/page/portal/EService/customer_support">Technical Assistance</a></li>
-								<li><a href="http://enterprise.alcatel-lucent.com/?dept=TrainingandSupport&amp;page=Catalog">Training Catalog</a></li>
-								<li><a href="http://enterprise.alcatel-lucent.com/?dept=AboutUs&amp;page=SalesInquiry">Sales Inquiries</a></li>
-							</ul>
-						</div>
-					</div>
-				</div>
-			</li>
-			<li><a href="/aboutus">About Us</a>
-				<div class="uber-menu" id="about-us">
-					<div class="buckets four-column">					
-												
-						<div class="bucket-small"> <a href="/company-overview"><img src="http://www.alcatel-lucent.com/_site/_images/features/aboutus-company.jpg" width="195" height="100" alt="" class="feature"></a>
-							<h3><a href="/company-overview">Company Overview</a></h3>
-							<ul>
-								<li><a href="/company-overview">A quick glance at how we operate, how we think and how we live</a></li>
-							</ul>
-						</div>
-																		
-						<div class="bucket-small">
-							<a href="http://www2.alcatel-lucent.com/news-center/">
-								<img src="http://www.alcatel-lucent.com/_site/_images/features/aboutus-newsroom.jpg" width="195" height="100" alt="" class="feature">
-							</a>
-							<h3><a href="http://www2.alcatel-lucent.com/news-center/">News Center</a></h3>
-							<ul>
-								<li><a href="http://www2.alcatel-lucent.com/news-center/">Find all the news about Alcatel-Lucent from our blogs to our zines</a></li>
-							</ul>
-						</div>
-						
-						<div class="bucket-small"> <a href="/corporate-responsibility"><img src="http://www.alcatel-lucent.com/_site/_images/features/aboutus-csr.jpg" width="195" height="100" alt="" class="feature"></a>
-							<h3><a href="/corporate-responsibility">Corporate Responsibility</a></h3>
-							<ul>
-								<li><a href="/corporate-responsibility">Alcatel-Lucent considers Corporate Responsibility a business imperative</a></li>
-							</ul>
-						</div>
-						
-						<div class="bucket-small no-pad">
-							<h3>Audiences</h3>
-							<ul>
-								<li><a href="http://www.alcatel-lucent.com/open-api-platform">Developers</a></li>
-								<li><a href="/investors">Investors &amp; Shareholders</a></li>
-								<li><a href="http://www2.alcatel-lucent.com/industryanalysts/">Industry Analysts</a></li>
-								<li><a href="/press">Press</a></li>
-								<li><a href="/suppliers">Suppliers</a></li>
-								<li>&nbsp;</li>
-								<li><a href="/careers">Careers</a></li>
-						
-			<li><a href="http://corporatereporting.alcatel-lucent.com">Corporate Reporting</a></li>
-												
-							</ul>
-						</div>
-					</div>
-				</div>
-			</li>
-		</ul>
-
-	<!-- Search form -->
-
-	
-	<form id="alu-header-search" action="/Search/s.s" name="searchForm" method="get" onsubmit="replaceSpaces();return false;">		
+	<form id="mini-search" method="get" action="/Search/s.s" onsubmit="replaceSpaces();return false;">
 		
 		<fieldset>
-			<legend>Search the Alcatel-Lucent Website</legend>
-			<label for="alu-header-search-q">Search</label>
-			<input type="text" id="alu-header-search-q" name="S_FULLTEXT">
-			
-			<input type="submit" id="alu-header-search-submit" value="Search">
-			
-			<input type="hidden" name="siteId" value="internet">
-			<input type="hidden" name="templateId" value="search">
-			<input type="hidden" name="locale" value="en">
+				<label for="mini-q">Search</label>
+				<input id="mini-q" type="text" name="S_FULLTEXT">
+				<input type="submit" id="mini-submit" value="Seach">
+				<input type="hidden" name="siteId" value="internet">
+				<input type="hidden" name="templateId" value="search">
+				<input type="hidden" name="locale" value="en">
 		</fieldset>
 	</form>
+		
+		<ul id="mini-nav">
+			<li><a href="https://market.alcatel-lucent.com/release/employee/SPEmployeeLoginRedirectSvlt?SP_PAGE_ID=0">Sign-in</a></li>
+			<li><a href="https://market.alcatel-lucent.com/release/employee/SPEmployeeLoginRedirectSvlt?SP_PAGE_ID=0">Register</a></li>
+		</ul>
+		<menu id="primary-nav">
+			<li>
+				<menu>
+					
+				</menu>
+			</li>
+ 
+			<li><a href="http://www2.alcatel-lucent.com/service-provider/">Service Provider</a>
+					
+				<menu>
+ 
+					<li><a href="http://www.alcatel-lucent.com/solutions">Solutions</a></li>
+					<li><a href="http://www.alcatel-lucent.com/products">Products</a></li>
+					<li><a href="http://www.alcatel-lucent.com/services">Services</a></li>
+					<li><a href="/wps/portal/support">Support</a></li>
+					<li><a href="/university/">Training</a></li>
+					
+				</menu>
+			</li>
+			
+					<li><a href="http://www2.alcatel-lucent.com/enterprise-and-industries/">Enterprise</a></li>
+					
+				<menu>
+				</menu>
+			
+ 
+			<li><a href="/wps/portal/aboutus">Company</a>
+					
+				<menu>
+ 
+					<li><a href="/aboutus/companyoverview.html">Overview</a></li>
+					
+ 
+					<li><a href="/wps/portal/pressroom">Newsroom</a></li>
+					
+ 
+					<li><a href="http://www2.alcatel-lucent.com/industryanalysts/">Analysts</a></li>
+					
+ 
+					<li><a href="/wps/portal/Investors">Investors</a></li>
+					
+ 
+					<li><a href="/sustainability/">Sustainability</a></li>
+					
+ 
+					<li><a href="/wps/portal/Suppliers">Suppliers</a></li>
+					
+ 
+					<li><a href="/publications/">Publications</a></li>
+					
+				</menu>
+			</li>
+			<li><a href="/wps/portal/careers">Careers</a>
+				<menu>
+				</menu>
+			</li>
+ 
+			<li><a href="http://www2.alcatel-lucent.com/innovation/">Innovation</a>
+					
+				<menu>
+ 
+					<li><a href="/wps/portal/belllabs">Bell Labs</a></li>
+ 
+					<li><a href="http://www2.alcatel-lucent.com/hln/">High Leverage Network™</a></li>
+					
+ 
+					<li><a href="/eco/">Eco-Sustainability</a></li>
+					
 	
-	<!-- END SUBMENU -->
-
+				</menu>
+			</li>
+		</menu>
 
 
 				</div>
-			</div>
+			</header>
 			<!-- END HEADER -->
 		<div id="alu-body">
 			<div class="standard2col">
@@ -708,8 +367,8 @@ http://www.omniture.com -->
 
 	s.prop7 = "en";
 
-    	if ( "Portal Server 02" != "null" ) 
-		s.server = "Portal Server 02";
+    	if ( "Portal Server 01" != "null" ) 
+		s.server = "Portal Server 01";
 
 	if ( 'null' != 'null') 
 		s.prop11 = 'null';
@@ -926,136 +585,244 @@ Murray Hill, New Jersey 07974</p>
 
  <div class="spacer">&nbsp;</div>
 	<!-- BEGIN FOOTER -->
-<div id="alu-footer">
-	<div id="alu-footer-links">
-		<ul class="alu-footer-link-bucket">
-					<li class="dark"><a href="/contactus">Contact Us</a></li>
-			<li class="dark"><a href="/Search/">Search our Site</a></li>
-			<li class="dark"><a href="/worldwide">Worldwide</a></li>
-			<li class="dark pad-both"><a href="http://www2.alcatel-lucent.com/news-center/">News &amp; Info</a></li>
+<footer id="site-foot">
+	<div id="site-foot-inner">
+		<menu id="i18n">
 			
-			<li><a href="http://www2.alcatel-lucent.com/blogs/corporate/">Corporate Blog</a></li>
+			<li><a href="/wps/portal/worldwide">Worldwide</a></li>
 			
-						
-			<li><a href="http://corporatereporting.alcatel-lucent.com">Corporate Reporting</a></li>
-								
-			<li><a href="/events">Events</a></li>
-			<li><a href="http://www2.alcatel-lucent.com/news-center/">News Center</a></li>
-			<li><a href="/press">Press Room</a></li>
-			<li><a href="/publications">Publications</a></li>
-			<li><a href="http://www2.alcatel-lucent.com/news-center/">Social Media</a></li>
-		</ul>
-		<ul class="alu-footer-link-bucket">
-			<li class="dark pad-bottom">Information For</li>
-			<li><a href="http://www.alcatel-lucent.com/support/channel-partner.html">Channel  Partners</a></li>
-			<li><a href="http://www.alcatel-lucent.com/open-api-platform">Developers</a></li>
 			
-			 <!--<li><a href="http://enterprise.alcatel-lucent.com/">Enterprise</a></li>  --> 
-			  
-<li><a href="http://enterprise.alcatel-lucent.com/">Enterprise</a></li>
+			<li><a href="/wps/portal?lu_lang_code=fr">France</a></li>
+			
+			
+		</menu>
+		<menu>
+			<li>Jump To</li>
+					
+			<li><a href="/wps/portal/pressroom">Newsroom</a></li>
+			<li><a href="/wps/portal/Events">Events</a></li>
+			
+			<li><a href="/wps/portal/careers">Careers</a></li>
 
-			<li><a href="http://enterprise.alcatel-lucent.com/?solution=Industries&amp;page=Home">Industries</a></li>
-			<li><a href="http://www2.alcatel-lucent.com/industryanalysts/">Industry Analysts</a></li>
-			<li><a href="/investors">Investors &amp; Shareholders</a></li>
-			<li><a href="/careers">Job Seekers</a></li>
-			<li><a href="/press">Press</a></li>
-			<li><a href="/suppliers/">Suppliers</a></li>
-			<li><a href="/serviceproviders">Service Providers</a></li>
+			<li><a href="/publications/">Publications</a></li>
 			
-		</ul>
-		<ul class="alu-footer-link-bucket">
-			<li class="dark pad-bottom"><a href="/serviceproviders">Service Providers</a></li>
-			<li><a href="http://www.alcatel-lucent.com/serviceproviders/cable_mso/">Cable Operators</a></li>
-			<li><a href="/products">Products</a></li>
-			<li><a href="http://webform.alcatel-lucent.com/res/alu/survey/alu2CustomForm.jsp?cw=alu2CorpSalesInquiry&amp;REFERRER=footernav">Sales Inquiries</a></li>
-			<!-- <li><a href="/services">Services</a></li> -->
+
+			<li><a href="https://market.alcatel-lucent.com/release/jsp/sso/login.jsp">Customer Portal</a></li>
 			
-									
-<li><a href="/services">Services</a></li>
+
+			<li><a href="https://businessportal.alcatel-lucent.com/">Enterprise Business Portal</a></li>
 			
-			<li><a href="/solutions">Solutions</a></li>
-			<li><a href="/support">Support</a></li>
-			
-			<!--  <li class="dark pad-both"><a href="http://enterprise.alcatel-lucent.com/">Enterprise</a></li> -->  
-			
-			
-			 
-<li class="dark pad-both"><a href="http://enterprise.alcatel-lucent.com/?solution=All&amp;page=Directory">Enterprise</a></li>
 
 			
-			
-						
-			<!--  <li><a href="http://enterprise.alcatel-lucent.com/?solution=All&amp;page=Directory">Enterprise Solutions</a></li>-->
-			
-			
-			 
-<li><a href="http://enterprise.alcatel-lucent.com/?solution=All&amp;page=Directory">Enterprise Solutions</a></li>
 
 			
+		</menu>
+		<menu>
+
+			<li><a href="http://www2.alcatel-lucent.com/service-provider/">Service Provider</a></li>
 			
-			<!-- <li><a href="http://enterprise.alcatel-lucent.com/?product=All&amp;page=Directory">Products</a></li> -->
+
+			<li><a href="http://www.alcatel-lucent.com/solutions">Solutions</a></li>
 			
-			 
-<li><a href="http://enterprise.alcatel-lucent.com/?product=All&amp;page=Directory">Products</a></li>
+
+			<li><a href="http://www.alcatel-lucent.com/products">Products</a></li>
+			
+			
+			<li><a href="http://www.alcatel-lucent.com/services">Services</a></li>
+			
+			<li><a href="/wps/portal/support">Support</a></li>
+			
+			<li><a href="/university/">Training</a></li>
+			
+			<li><a href="/support/channel-partner.html?lu_lang_code=en">Channel Partner Portal</a></li>
+		</menu>
+		<menu>
+			
+			<li><a href="http://www2.alcatel-lucent.com/enterprise-and-industries/">Enterprise</a></li>
+
 
 			
-			
-			
-			<li><a href="http://enterprise.alcatel-lucent.com/?dept=PartnerwithAlcatelLucent&amp;page=homepage">Partners</a></li>
-			
-			
-			<!-- <li><a href="http://enterprise.alcatel-lucent.com/?dept=EnterpriseServices&amp;page=Homepage">Services</a></li> -->
-			 
-<li><a href="http://enterprise.alcatel-lucent.com/?dept=EnterpriseServices&amp;page=Homepage">Services</a></li>
+			<li><a href="http://enterprise.alcatel-lucent.com/?product=All&amp;page=Directory">Products</a></li>
 
+		
 			
+			<li><a href="http://enterprise.alcatel-lucent.com/?solution=All&amp;page=Directory">Solutions</a></li>
+	
+
+	
+		
 			
+			<li><a href="http://enterprise.alcatel-lucent.com/?dept=Innovation&amp;page=Homepage">New Thinking</a></li>
+	
+			
+			<li><a href="http://enterprise.alcatel-lucent.com/?dept=EnterpriseServices&amp;page=Homepage">Services</a></li>
+		
+
 			
 			<li><a href="http://enterprise.alcatel-lucent.com/?dept=TrainingandSupport&amp;page=homepage">Support</a></li>
-			<li><a href="http://enterprise.alcatel-lucent.com/?dept=AboutUs&amp;page=SalesInquiry">Sales Inquiries</a></li>
-			
-			<li class="dark pad-both"><a href="http://enterprise.alcatel-lucent.com/?solution=Industries&amp;page=Home">Industries</a></li>
-			<li><a href="http://enterprise.alcatel-lucent.com/?solution=Industries&amp;page=Directory">Solutions</a></li>
-			<li><a href="http://webform.alcatel-lucent.com/res/alu/survey/alu2CustomForm.jsp?cw=alu2CorpSalesInquiry&amp;REFERRER=footernav">Sales Inquiries</a></li>
-			
-		</ul>
-		<ul class="alu-footer-link-bucket">
-			<li class="dark pad-bottom"><a href="/support">Support</a></li>
-			<li><a href="/university/">Alcatel-Lucent University Training</a></li>
-			<li><a href="http://www.alcatel-lucent.com/support/channel-partner.html">Channel Partner Web Portal</a></li>
-			<li><a href="https://market.alcatel-lucent.com/release/jsp/sso/login.jsp">Customer Portal</a></li>
-			<li><a href="http://enterprise.alcatel-lucent.com/?dept=TrainingandSupport&amp;page=homepage">Enterprise Support &amp; Training</a></li>
-			<li><a href="http://support.alcatel-lucent.com/">Network Customer Support (OLCS)</a></li>
-			<li><a href="/wps/portal/phonesmodems">Phones &amp; Modems</a></li>
-			<li><a href="/src">Service Routing Certification Program</a></li>
-		</ul>
-		<ul class="alu-footer-link-bucket">
-			<li class="dark"><a href="http://www.alcatel-lucent.com/aboutus">About Us</a></li>
-			<li><a href="/belllabs">Bell Labs</a></li>
-			<li><a href="/careers">Careers</a></li>
-							
-			<li><a href="/company-overview/">Company Overview</a></li>
-							
-				
-			<li><a href="/corporate-responsibility">Corporate Responsibility</a></li>
-				
-										
-			<li><a href="/eco/">Eco-Sustainability</a></li>
-				
-			<li><a href="/wps/portal/AboutUs/leadership/">Management Team</a></li>
-			<li><a href="/wps/portal/Investors/StockChart/">Stock Chart</a></li>
-				<li class="dark pad-both">Affiliate Sites</li>
-				<li><a href="http://www.lgsinnovations.com/">LGS Innovations (U.S. government sales)</a></li>
-				<li><a href="http://www.greentouch.org/">GreenTouch™</a></li>
-				<li><a href="http://www.ngconnect.org/">ng Connect</a></li>
-		</ul>
 	
-	</div>
-	<div id="alu-footer-copyright">
-		Copyright © 2006-2012 Alcatel-Lucent. All rights reserved. | <a href="/wps/portal/termsofuse">Terms of Use</a>&nbsp;|&nbsp;<a href="/wps/portal/privacy">Privacy</a>&nbsp;|&nbsp;<a href="/sitemap/sitemap.html">Site Map </a> |&nbsp;<a href="http://www2.alcatel-lucent.com/rss">RSS</a>
-	</div>
-</div>
+	
+			
+			<li><a href="http://enterprise.alcatel-lucent.com/?dept=PartnerwithAlcatelLucent&amp;page=Homepage">Partners</a></li>
+	
+		
+</menu>
+		<menu>
+			
+			<li><a href="http://www2.alcatel-lucent.com/enterprise-and-industries/">Industries</a></li><a href="http://www2.alcatel-lucent.com/enterprise-and-industries/">
+	
+			
+			</a><li><a href="http://www2.alcatel-lucent.com/enterprise-and-industries/"></a><a href="http://www2.alcatel-lucent.com/power-utilities">Power Utilities</a></li>
+	
+			
+			<li><a href="http://www2.alcatel-lucent.com/oil-and-gas">Oil &amp; Gas</a></li>
+	
+			
+			<li><a href="http://enterprise.alcatel-lucent.com/?solution=Defense&amp;page=Homepage">Defense</a></li>
+	
+			
+			<li><a href="http://www2.alcatel-lucent.com/public-safety">Public Safety</a></li>
+	
+			
+			<li><a href="http://enterprise.alcatel-lucent.com/?solution=Government&amp;page=homepage">State &amp; Local Government</a></li>
+	
+			
+			<li><a href="http://www2.alcatel-lucent.com/highways">Highways</a></li>
+	
+			
+			<li><a href="http://www2.alcatel-lucent.com/railways">Railways</a></li>
+	
+		</menu>
+		<menu>
+			<li>Information For</li>
+						
+			<li><a href="http://www2.alcatel-lucent.com/industryanalysts/">Industry Analysts</a></li>
+			
+						
+			<li><a href="http://www2.alcatel-lucent.com/enterprise-and-industries/">Enterprises</a></li>
+			
+						
+			<li><a href="/wps/portal/Suppliers">Suppliers</a></li>
+			
+						
+			<li><a href="/wps/portal/Investors">Investors &amp; Shareholders</a></li>
+			
+			
+			<li><a href="http://www2.alcatel-lucent.com/service-provider/">Service Providers</a></li>
 
+			<li>&nbsp;</li>
+			<li>&nbsp;</li>
+			<li>&nbsp;</li>
+		</menu>
+		<menu>
+
+			<li><a href="http://www2.alcatel-lucent.com/innovation/">Innovation</a></li>
+			
+
+			<li><a href="/wps/portal/belllabs">Bell Labs</a></li>
+			
+
+			<li><a href="http://www.alcatel-lucent.com/solutions/carrier-cloud">Cloud</a></li>
+			
+
+			<li><a href="/serviceproviders/data-center/">Data Centers</a></li>
+			
+
+			<li><a href="http://www2.alcatel-lucent.com/hln/">High Leverage Network™</a></li>
+			
+
+			<li><a href="/innovation/ipv6/">IPv6</a></li>
+			
+		</menu>
+		<menu>
+						
+			<li><a href="/wps/portal/aboutus">Company</a></li>
+			
+						
+			<li><a href="/wps/portal/AboutUs/leadership/">Executive Team</a></li>
+			
+						
+			<li><a href="/wps/portal/Investors/StockChart/">Stock Chart</a></li>
+			
+						
+			<li><a href="/sustainability/">Sustainability</a></li>
+			
+						
+			<li><a href="/wps/portal/AboutUs/factsheet">Fact Sheet</a></li>
+			
+						
+			<li><a href="/wps/portal/pressroom">Newsroom</a></li>
+			
+						
+			<li><a href="/wps/portal/Events">Events</a></li>
+	
+						
+			<li><a href="http://corporatereporting.alcatel-lucent.com/">Corporate Reporting</a></li>
+			
+						
+			<li><a href="/wps/portal/investors/governance">Corporate Governance</a></li>
+			
+		</menu>
+		<menu>
+			<li>Affiliate Sites</li>
+						
+			<li><a href="http://www.lgsinnovations.com/" target="_blank">LGS Innovations</a></li>
+			
+			<li><a href="http://www.optism.com/" target="_blank">Optism™</a></li>
+			<li><a href="http://www.ngconnect.org/" target="_blank">ng Connect Program</a></li>
+			<li><a href="http://www.greentouch.org/" target="_blank">GreenTouch™</a></li>
+		</menu>
+		<menu>
+			<li>Follow Us</li>
+						
+			<li><a href="http://www2.alcatel-lucent.com/blogs/corporate/">Blog</a></li>
+			
+						
+						
+			<li><a href="http://www2.alcatel-lucent.com/rss/"><img src="/_site/_images/rss-new.png"></a> <a href="http://www2.alcatel-lucent.com/rss/">RSS</a></li>
+			
+						
+			<li><a href="http://twitter.com/Alcatel_Lucent" target="_blank"><img src="/_site/_images/twitter.png"></a> <a href="http://twitter.com/Alcatel_Lucent" target="_blank">Twitter</a></li>
+			
+			<li><a href="http://www.linkedin.com/company/alcatel-lucent" target="_blank"><img src="/_site/_images/linkedin.png"></a> <a href="http://www.linkedin.com/company/alcatel-lucent" target="_blank">LinkedIn</a></li>
+			<li><a href="http://www.youtube.com/user/AlcatelLucentCorp" target="_blank"><img src="/_site/_images/youtube.png"></a> <a href="http://www.youtube.com/user/AlcatelLucentCorp" target="_blank">YouTube</a></li>
+			
+		</menu>
+		<menu>
+						
+			<li><a href="/wps/portal/contactus">Contact Us</a></li>
+			
+						
+			<li><a href="/wps/portal/howtobuy">Sales Inquiries - Service Provider</a></li>
+			
+						
+			<li><a href="http://enterprise.alcatel-lucent.com/?content=AboutUs&amp;page=EnterpriseContacts">Enterprise Contacts</a></li>
+			
+					
+			<li><a href="http://www.lgsinnovations.com/">U.S. Government Sales</a></li>
+	
+		</menu>
+	</div>
+	<menu id="legal">
+		<li>©2013 Alcatel-Lucent</li>
+		<li>All Rights Reserved</li>
+
+			<li><a href="/wps/portal/termsofuse">Terms of Use</a></li>
+
+
+
+			<li><a href="/wps/portal/privacy">Privacy</a></li>
+
+
+						
+		<li><a href="http://www.alcatel-lucent.com/sitemap">Site Map</a></li>
+	
+		
+						
+		<li><a href="/wps/portal/contactus">Contact Us</a></li>
+			
+	</menu>
+</footer>
 <!-- END FOOTER -->
 
 
