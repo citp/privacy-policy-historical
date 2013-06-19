@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the techliance.com privacy policy that was archived on 2012-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121230230432id_/http%3A//www.techliance.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the techliance.com privacy policy that was archived on 2013-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130619045216id_/http%3A//www.techliance.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Techliance
-
-  | 
+# Privacy Policy • Techliance
 
 Your privacy is important to us. Techliance respects the privacy of every individual who visits our Web site. To better protect your privacy, we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used. To make this notice easy to find, we make it available on our homepage and on every page where personally identifiable information is requested.
 
