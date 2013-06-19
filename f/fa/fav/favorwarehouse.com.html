@@ -1,11 +1,11 @@
-<!--The following is the downloaded HTML source of the favorwarehouse.com privacy policy that was archived on 2012-12-09.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121209140654id_/http%3A//www.favorwarehouse.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the favorwarehouse.com privacy policy that was archived on 2013-06-19.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130619040820id_/http%3A//www.favorwarehouse.com/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xmlns:fb="http://www.facebook.com/2008/fbml" xml:lang="en" lang="en" itemscope="" itemtype="http://schema.org/"><head>
 <title>Privacy Policy</title>
 <meta name="Author" content="Favor Warehouse">
 <meta name="Language" content="English">
-<meta name="Copyright" content="© 2012">
+<meta name="Copyright" content="© 2013">
 <meta name="Publisher" content="Favor Warehouse">
 <meta name="Robots" content="Index, Follow">
 <base href="http://www.favorwarehouse.com/mm5/">
@@ -23,16 +23,24 @@ function eraseCookie(name,value){createCookie(name,value,-1);}
 </script>
 <link href="fw.css" rel="stylesheet" type="text/css">
 <link type="text/css" rel="stylesheet" href="//ajax.googleapis.com/ajax/libs/jqueryui/1.8.3/themes/start/jquery-ui.css">
-<script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.js"></script>
+<script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.js"></script>
 <script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jqueryui/1.8.3/jquery-ui.min.js"></script>
 <script type="text/javascript" src="/jscript/jquery.misc.js"></script>
+<script>
+$( document ).ready( function(){
+$.fn.popup = function( url ){
+var win = window.open( url, 'Facebook','toolbar=no,location=0,directories=no,status=no,scrollbars=no,resizable=no,copyhistory=no,width=700,height=360,screenX=300,screenY=200').focus();
+}
+} );
+</script>
 <link type="text/css" rel="stylesheet" href="minibasket.css" media="all">
+<!-- Your customer ID = 0 -->
 <link rel="canonical" href="http://www.favorwarehouse.com/privacy-policy/">
 <link rel="stylesheet" type="text/css" id="listmenu-o" href="nav-menu/listmenu.css" title="Vertical 'Office'">
 <link rel="stylesheet" type="text/css" id="fsmenu-fallback" href="nav-menu/listmenu_fallback-test.css">
 <script type="text/javascript" src="nav-menu/fsmenu.js"></script>
 <script type="text/javascript" src="https://apis.google.com/js/plusone.js"></script>
-<script type="text/javascript" charset="iso-8859-1" src="https://server.iad.liveperson.net/hcp/html/mTag.js?site=91883683"></script></head>
+<script charset="UTF-8" src="https://lptag.liveperson.net/tag/tag.js?site=91883683"></script></head>
 <body bgcolor="#C0CFE0">
 <!-- Global Header -->
 <!-- One Page Checkout data intercept. do NOT remove
@@ -131,7 +139,7 @@ if (el.defaultValue==el.value) el.value = ""
 </tr>
 </tbody></table></td>
 </tr>
-<tr> <td height="46" align="left" valign="middle"> <a href="http://www.favorwarehouse.com/mm5/fall-sale.htm" onclick="newWindow(this.href, 'popup', 590, 330, 0, 0, 0, 0, 0, 0, 0); return false;"><img src="graphics/00000001/gui/fall-sale-banner.jpg" alt="Holiday Sale" width="980" height="41" border="0"></a> </td>
+<tr> <td height="46" align="left" valign="middle"><img src="graphics/00000001/gui/spring-sale-banner.jpg" alt="Holiday Sale" width="980" height="61" border="0"> </td>
 </tr>
 <tr>
 <td height="2" align="left" valign="middle"></td>
@@ -143,27 +151,42 @@ if (el.defaultValue==el.value) el.value = ""
 <tr> <td align="left" valign="bottom"> </td>
 </tr>
 <tr> <td width="200" align="left" valign="top" background="graphics/00000001/gui/menu-back.png" bgcolor="#528EB4"> <table width="200" border="0" align="center" cellpadding="0" cellspacing="0">
-<tbody><tr> <td height="25" align="center" valign="middle"><table width="170" border="0" align="center" cellpadding="0" cellspacing="0" class="fwbox2">
+<tbody><tr> <td height="25" colspan="2" align="center" valign="middle"><table width="170" border="0" align="center" cellpadding="0" cellspacing="0" class="fwbox2">
 <tbody><tr> <td height="114" align="center" valign="top"><a href="http://www.favorwarehouse.com/favors-sale/" target="_self"><img src="graphics/00000001/gui/favors-sale-sm.jpg" alt="Wedding Favors Sale - Click Here For Details" width="200" height="114" border="0"></a></td>
 </tr>
 </tbody></table></td>
 </tr>
-<tr> <td height="5" align="center" valign="middle"></td>
+<tr> <td height="5" colspan="2" align="center" valign="middle"></td>
 </tr>
-<tr> <td height="30" align="center" valign="middle" background="graphics/00000001/search-bg3.gif" style="background-repeat: no-repeat"><div id="search" align="left" style="margin-left: 8px; margin-top: 5px;"> <div> <form method="get" action="http://www.favorwarehouse.com/search/">
-<input type="text" id="query" name="q" size="22" onfocus="clearDefault(this)" class="search-text-field searchspring-query" autocomplete="off">
-<input name="submit" type="submit" class="search-box-button" value="Search">
+<tr> <td height="30" colspan="2" align="center" valign="middle">
+<!-- START SEARCH -->
+<div id="top-search">
+<form method="get" id="searchform" action="http://www.favorwarehouse.com/search/">
+<div>
+<input type="text" value="Enter a Keyword or Item #" onfocus="clearDefault(this)" name="q" id="query" class="search-text-field searchspring-query" autocomplete="off">
+<input type="submit" id="searchsubmit" value="">
+</div>
 </form>
 </div>
+<!-- END SEARCH -->
+</td>
+</tr>
+<tr> <td width="10" align="left" valign="top"> </td>
+<td align="left" valign="top"><div id="navcontainer"> <ul id="navlist">
+<li id="active"><a href="http://www.favorwarehouse.com/new-products/" target="_self" title="New Products">New Products</a></li>
+<li id="active"><a href="http://www.favorwarehouse.com/best-selling-favors/" target="_self" title="Best Sellers">Best Sellers</a></li>
+<li id="active"><a href="http://www.favorwarehouse.com/featured-products-hide/" target="_self" title="Featured Products">Featured Products</a></li>
+<li id="active"><a href="http://www.favorwarehouse.com/clearance-hide/" target="_self" title="Clearance">Clearance</a></li>
+</ul>
 </div></td>
 </tr>
-<tr> <td align="left" valign="top"> <font size="medium"></font> <div align="center">
+<tr> <td colspan="2" align="left" valign="top">
+<div align="center">
 <ul class="menulist" id="listMenuRoot">
 <li><a id="top-level1" href="/shop-by-occasion/" title="Shop for Favors by Occasion">Shop for Favors by Occasion</a></li>
 <li class="top-level2"><a href="/wedding-favors/" title="Wedding Favors">Wedding Favors</a>
 <ul>
-<li><a class="xyy" href="/red-tag-specials/" title="Wedding Favors Red Tag Specials">Red Tag Specials</a></li>
-<li><a class="xyz" href="/new-wedding-favors/" title="New Wedding Favors">New Wedding Favors for 2012</a></li>
+<li><a class="xyz" href="/new-wedding-favors/" title="New Wedding Favors">New Wedding Favors for 2013</a></li>
 <li><a class="xyz" href="/unique-wedding-favors/" title="Unique Wedding Favors">Unique Wedding Favors</a></li>
 <li><a class="xyz" href="/wine-wedding-favors/" title="Wine &amp; Bartop Wedding Favors">Wine Wedding Favors</a></li>
 <li><a class="xyz" href="/seasonal-wedding-favors/" title="Seasonal Wedding Favors">Seasonal Wedding Favors</a></li>
@@ -172,52 +195,29 @@ if (el.defaultValue==el.value) el.value = ""
 <li><a class="xyz" href="/personalized-wedding-favors/" title="Personalized Wedding Favors">Personalized Wedding Favors</a></li>
 <li><a class="xyz" href="/place-card-holders/" title="Place Card Holders">Place Card Holders</a></li>
 <li><a class="xyz" href="/place-card-frames/" title="Place Card Frames">Place Card Frames</a></li>
-<li><a class="xyz" href="/silver-wedding-favors/" title="Silver Wedding Favors">Silver Wedding Favors</a></li>
 <li><a class="xyz" href="/candle-wedding-favors/" title="Candle Wedding Favors">Candle Wedding Favors</a></li>
-<li><a class="xyz" href="/coffee-wedding-favors/" title="Coffee Wedding Favors">Coffee Wedding Favors</a></li>
-<li><a class="xyz" href="/tea-wedding-favors/" title="Tea Wedding Favors">Tea Wedding Favors</a></li>
-<li><a class="xyz" href="/jewelry-box-favors/" title="Jewelry Box Wedding Favors">Jewelry Box Favors</a></li>
 <li><a class="xyz" href="/edible-favors/" title="Edible Wedding Favors">Edible Favors</a></li>
-<li><a class="xyz" href="/bath-and-soap-favors/" title="Vanity &amp; Soap Favors">Vanity &amp; Soap Favors</a></li>
-<li><a class="xyz" href="/wedding-bell-favors/" title="Wedding Bell Favors">Wedding Bell Favors</a></li>
 <li><a class="xyz" href="/wedding-frame-favors/" title="Wedding Frame Favors">Wedding Frame Favors</a></li>
 <li><a class="xyz" href="/99cent-favors/" title="$0.99 Cent Wedding Favors">$0.99 Cent Favors</a></li>
-<li><a class="xyz" href="/coaster-favors/" title="Coaster Wedding Favors">Coaster Wedding Favors</a></li>
-<li><a class="xyz" href="/key-chain-wedding-favors/" title="Key Chain Wedding Favors">Key Chain Wedding Favors</a></li>
-<li><a class="xyz" href="/bookmark-wedding-favors/" title="Bookmark Wedding Favors">Bookmark Wedding Favors</a></li>
-<li><a class="xyz" href="/european-style-favors/" title="European Wedding Favors">European Wedding Favors</a></li>
-<li><a class="xyz" href="/crystal-wedding-favors/" title="Crystal Wedding Favors">Crystal Wedding Favors</a></li>
 <li><a class="xyz" href="/fall-theme-wedding-favors/" title="Fall Wedding Favors">Fall Wedding Favors</a></li>
 <li><a class="xyz" href="/beach-theme-wedding-favors/" title="Beach Wedding Favors">Beach Wedding Favors</a></li>
-<li><a class="xyz" href="/invitations/" title="Wedding Invitations">Wedding Invitations</a></li>
-<li><a class="xyz" href="/wedding-cameras/" title="Wedding Cameras">Wedding Cameras</a></li>
 <li><a class="xyz" href="/wedding-memorial-candles/" title="Wedding Memorial Candles">Wedding Memorial Candles</a></li>
-<li><a class="xyz" href="/unity-candles/" title="Unity Candles">Unity Candles</a></li>
-<li><a class="xyz" href="/ceramic-wedding-favors/" title="Ceramic Wedding Favors">Ceramic Wedding Favors</a></li>
 <li><a class="xyz" href="/cheap-wedding-favors/" title="Cheap Wedding Favors">Cheap Wedding Favors</a></li>
 <li><a class="xyz" href="/popular-wedding-favors/" title="Popular Wedding Favors">Popular Wedding Favors</a></li>
 <li><a class="xyz" href="/trendy-wedding-favors/" title="Trendy Wedding Favors">Trendy Wedding Favors</a></li>
-<li><a class="xyz" href="/wedding-reception-favors/" title="Wedding Accessories">Wedding Accessories</a></li>
 <li><a class="xyz" href="/wedding-favors-view-all-hide/" title="All Wedding Favors">All Wedding Favors</a></li>
-<li><a class="xyz" href="/compact-mirror-wedding-favors/" title="Compact Mirror Favors">Compact Mirror Favors</a></li>
-<li><a class="xyz" href="/bridesmaids-gifts/" title="Bridesmaids Favors">Bridesmaids Gifts</a></li>
 </ul>
 </li>
 <li class="top-level3"><a href="/bridal-shower-favors/" title="Bridal Shower Favors">Bridal Shower Favors</a>
 <ul>
 <li><a class="xyy" href="/new-bridalshower-favors/" title="New Bridal Shower Favors">New Bridal Shower Favors</a></li>
-<li><a class="xyz" href="/whats-hot-bridal-shower/" title="Hot Bridal Shower Favors">Whats Hot for 2012</a></li>
-<li><a class="xyz" href="/soap-bridal-shower-favors/" title="Vanity &amp; Soap Bridal Favors">Vanity &amp; Soap Favors</a></li>
+<li><a class="xyz" href="/whats-hot-bridal-shower/" title="Hot Bridal Shower Favors">Whats Hot for 2013</a></li>
 <li><a class="xyz" href="/place-card-holders-bridal/" title="Bridal Shower Place Card Holders">Bridal Shower Place Card Holders</a></li>
 <li><a class="xyz" href="/bridal-shower-candle-favors1/" title="Bridal Shower Candle Favors">Bridal Shower Candle Favors</a></li>
 <li><a class="xyz" href="/bridal-shower-photo-frame-favors/" title="Bridal Shower Photo Frames">Bridal Shower Photo Frames</a></li>
 <li><a class="xyz" href="/personalized-bridal-shower-favors-1/" title="Personalized Bridal Favors">Personalized Bridal Favors</a></li>
 <li><a class="xyz" href="/themed-bridal-shower-favors/" title="Themed Bridal Shower Favors">Themed Bridal Shower Favors</a></li>
 <li><a class="xyz" href="/edible-bridal-shower-favors/" title="Edible Bridal Shower Favors">Edible Bridal Shower Favors</a></li>
-<li><a class="xyz" href="/crystal-bridal-shower-favors/" title="Crystal Bridal Shower Favors">Crystal Bridal Shower Favors</a></li>
-<li><a class="xyz" href="/silver-bridal-shower-favors/" title="Silver Bridal Shower Favors">Silver Bridal Shower Favors</a></li>
-<li><a class="xyz" href="/ceramic-bridal-shower-favors/" title="Ceramic Bridal Shower Favors">Ceramic Bridal Shower Favors</a></li>
-<li><a class="xyz" href="/mikasa-bridal-shower-favors/" title="Mikasa Bridal Shower Favors">Mikasa Bridal Shower Favors</a></li>
 <li><a class="xyz" href="/99cent-bridal-shower-favors/" title="$0.99 Bridal Shower Favors">$0.99 Bridal Shower Favors</a></li>
 <li><a class="xyz" href="/wine-bartop-bridal-shower-favors/" title="Wine &amp; Bartop Bridal Favors">Wine and Bartop Bridal Favors</a></li>
 </ul>
@@ -235,17 +235,12 @@ if (el.defaultValue==el.value) el.value = ""
 <li><a class="xyz" href="/birth-announcement-favors/" title="Birth Announcement Favors">Birth Announcement Favors</a></li>
 <li><a class="xyz" href="/anniversary-favors/" title="Anniversary Favors">Anniversary Favors</a></li>
 <li><a class="xyz" href="/graduation-favors/" title="Graduation Favors">Graduation Favors</a></li>
-<li><a class="xyz" href="/wedding-favors-deal-of-the-day/" title="Deal Of The Day">Deal Of The Day</a></li>
 <li><a class="xyz" href="/holiday-favors/" title="Holiday Favors">Holiday Favors</a></li>
 <li><a class="xyz" href="/christmas-favors/" title="Christmas Favors">Christmas Favors</a></li>
 <li><a class="xyz" href="/hanukkah-favors/" title="Hanukkah Favors">Hanukkah Favors</a></li>
-<li><a class="xyz" href="/reunion-favors/" title="Reunion Favors">Reunion Favors</a></li>
-<li><a class="xyz" href="/prom-favors/" title="Prom Favors">Prom Favors</a></li>
-<li><a class="xyz" href="/easter-favors/" title="Easter Favors">Easter Favors</a></li>
 <li><a class="xyz" href="/alternative-lifestyle-favors/" title="Alternative Lifestyle Favors">Alternative Lifestyle Favors</a></li>
 </ul>
 </li>
-<li class="top-level"><a href="/religious-favors/" title="Religious Favors">Religious Event Favors</a></li>
 <li><a id="top-level5" href="/Favor-Packaging/" title="Favor Packaging">Favor Packaging</a></li>
 <li class="top-level"><a href="/organza-bags-and-gift-boxes/" title="Organza Bags &amp; Gift Boxes">Organza Bags &amp; Gift Boxes</a></li>
 <li class="top-level"><a href="/ribbons-and-bows/" title="Personalized and Bulk Ribbon &amp; Bows">Bulk Ribbon &amp; Bows</a></li>
@@ -276,7 +271,6 @@ if (el.defaultValue==el.value) el.value = ""
 <li class="top-level"><a href="/BabyAspen/" title="Baby Aspen Favors">Baby Aspen</a></li>
 <li class="top-level"><a href="/jds-engravable-gifts/" title="JDS Personalized Gifts">JDS Personalized Gifts</a></li>
 <li class="top-level"><a href="/lorenzo-collection/" title="Lorenzo Collection">Lorenzo Collection</a></li>
-<li class="top-level"><a href="/TheMintBox/" title="The Mint Box">The Mint Box</a></li>
 <li class="top-level"><a href="/doc-milo/" title="Doc Milo Partware">Doc Milo</a></li>
 <li class="top-level"><a href="/wedding-star/" title="Wedding Star Gifts">Wedding Star</a></li>
 </ul>
@@ -301,50 +295,51 @@ addEvent(window, 'load', new Function('listMenu.activateMenu("listMenuRoot", arr
 <td width="600" align="center" valign="top" background="graphics/00000001/gui/favor-warehouse_r1_c2.png"><table width="590" border="0" cellspacing="0" cellpadding="0">
 <tbody><tr> <td height="5" align="center" valign="middle"></td>
 </tr>
-<tr> <td height="20" align="center" valign="top">&nbsp;</td>
-</tr>
 <tr> <td align="center" valign="top"> <table width="550" border="0" cellspacing="0" cellpadding="0">
-<tbody><tr> <td align="left" valign="top"><br>
-<span class="breadcrumb-links"><a href="http://www.favorwarehouse.com" target="_self">Home</a></span><b><font size="1"> &gt; Privacy Policy</font></b><br> <br></td>
+<tbody><tr> <td align="left" valign="top"><br> <span class="breadcrumb-links"><a href="http://www.favorwarehouse.com" target="_self">Home</a></span><b><font size="1"> &gt; Privacy Policy</font></b><br> <br></td>
 </tr>
 <tr> <td align="center" valign="middle" height="40"> <h1 class="fwtextmed">Favor Warehouse Security and Privacy Policy</h1></td>
 </tr>
-<tr> <td align="left" valign="top">
-<p>Favor Warehouse is committed to protecting the privacy of our customers and using information responsibly. Our security and privacy policies are detailed below.</p>
-<p></p><h2>How we use information</h2> <p></p>
+<tr> <td align="left" valign="top"> <p>Favor Warehouse is committed to protecting the privacy of our customers and using information responsibly. Our security and privacy policies are detailed below.</p>
+<p>
+</p><h2>How we use information</h2>
+<p></p>
 <p>Our site stores personal information we collect in during the transaction process in order process the transaction and execute your order. Limited information from the order for including contact information (name, address, telephone number, email address, etc.) from the order form is used to process your orders and communicate order status including shipment tracking information.</p>
-<p>Your contact information is also used to get in touch with you when necessary either directly or via our shipping partners including UPS, USPS and FedEx.
-</p>
+<p>Your contact information is also used to get in touch with you when necessary either directly or via our shipping partners including UPS, USPS and FedEx. </p>
 <p>Financial information (credit card numbers, credit card expiration dates, billing address, etc.) that is collected is used strictly to bill you for products and services. Information collected on any of our forms may be used to contact you, whether by telephone, live chat or via emails in response to your inquiries. From time to time Favor Warehouse may also contact you via email to inform you of new product releases and promotions - our email marketing contacts provide a means for you to opt-out of further promotional emails.</p>
-<p></p><h2>Cookies</h2><p></p>
+<p>
+</p><h2>Cookies</h2>
+<p></p>
 <p>Cookies are transferred from our servers to your computer via your Web browser. They make it possible for us to store your shopping cart details until you are ready to check out. They also allow our servers to recognize your browser on subsequent visits.</p>
-<p></p><h2>How we collect information</h2><p></p>
+<p>
+</p><h2>How we collect information</h2>
+<p></p>
 <p>This site uses a secure server (SSL) certified by GeoTrust? to encrypt all of your personal information. We employ strict security measures and information access controls to safeguard your personal information.</p>
-<p></p><h2>Customer agreement</h2><p></p>
+<p>
+</p><h2>Customer agreement</h2>
+<p></p>
 <p>By using our web site or purchasing a product from us, you agree to the collection and use of information as set forth in this privacy policy. Any updates to our information security and privacy policies will be posted to this page.</p>
-<p></p><h2>Commitment to customer service</h2><p></p>
-<p>Favor Warehouse is committed to our customers’ satisfaction and creating a great customer experience. You can contact our customer care department via email at info@favorwarehouse.com or at 1-888-835-8086.</p>
-<p></p><h2>Authorized third parties</h2><p></p>
+<p>
+</p><h2>Commitment to customer service</h2>
+<p></p>
+<p>Favor Warehouse is committed to our customers’ satisfaction and creating a great customer experience. You can contact our customer care department via email at info@favorwarehouse.com or at 914-514-3244.</p>
+<p>
+</p><h2>Authorized third parties</h2>
+<p></p>
 <p>We use third-party service providers including but not limited to Google, MSN, Yahoo and Amazon to serve ads on our behalf across the Internet. These providers may collect anonymous information about your visits to our site and may use this information to serve you advertisements for other goods and services.</p>
 <p>They may also use information about your visits to this and other websites to serve targeted advertisements for other goods and services. No personally identifiable information is used in this process.</p>
-<p>We also work with a third party to monitor site performance and identify opportunities to improve our products and services. We do not share personally identifiable information with these third parties.</p>
-</td>
+<p>We also work with a third party to monitor site performance and identify opportunities to improve our products and services. We do not share personally identifiable information with these third parties.</p></td>
 </tr>
 <tr> <td align="left" valign="middle" class="seobold">&nbsp;</td>
 </tr>
 <tr> <td align="left" valign="middle">&nbsp;</td>
 </tr>
-<tr> <td align="left" valign="middle"><br>
-<br>
-<br>
-<br>
-<br></td>
+<tr> <td align="left" valign="middle"><br> <br> <br> <br> <br></td>
 </tr>
 <tr> <td align="left" valign="top" class="seobold">&nbsp;</td>
 </tr>
 </tbody></table>
-<br>
-</td>
+<br> </td>
 </tr>
 <tr> <td align="center" valign="top"><br> <br></td>
 </tr>
@@ -364,11 +359,15 @@ addEvent(window, 'load', new Function('listMenu.activateMenu("listMenuRoot", arr
 </tr>
 <tr> <td>&nbsp;</td>
 </tr>
-<tr> <td align="center" valign="top"><br> <!-- START SCANALERT CODE -->
-<a target="_blank" href="https://www.scanalert.com/RatingVerify?ref=www.favorwarehouse.com"><img width="94" height="54" border="0" src="//images.scanalert.com/meter/www.favorwarehouse.com/13.gif" alt="HACKER SAFE certified sites prevent over 99.9% of hacker crime." oncontextmenu="alert('Copying Prohibited by Law - HACKER SAFE is a Trademark of ScanAlert'); return false;"></a> <!-- END SCANALERT CODE -->
-<br> <br> <!-- GeoTrust QuickSSL [tm] Smart Icon tag. Do not edit. -->
-<script language="JavaScript" type="text/javascript" src="//smarticon.geotrust.com/si.js"></script> <!-- end GeoTrust Smart Icon tag -->
-<br> <br></td>
+<tr> <td align="center" valign="top"><br>
+
+<iframe src="https://www.facebook.com/plugins/like.php?href=http://www.favorwarehouse.com/how-to-select-wedding-favors/&amp;layout=standard&amp;show_faces=false&amp;width=170&amp;action=like&amp;colorscheme=light&amp;height=30" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:170px; height:30px;" allowtransparency="true"></iframe>
+<br><br>
+<script type="text/javascript" src="http://static.weddingwire.com/static/js/widgets/wwrated/2011.js"></script><div id="ww-widget-wwrated-2011" class="ww-reset ww-widget-wwrated-2011"><a target="_new" href="http://www.weddingwire.com/reviews/www-favorwarehouse-com-farmingdale/43803603bb0a38a2.html" title="www.FavorWarehouse.com, Long Island Wedding Favors">	<img class="ww-top" src="http://static.weddingwire.com/static/images/logo/wwRated_2011-blue-top.png" alt="WeddingWire Rated 2011"></a>	<img class="ww-bottom" src="http://static.weddingwire.com/static/images/logo/wwRated_2011-blue-bottom.png" alt="Weddings, Wedding Planning, Wedding Websites, Wedding Venues"><div class="ww-clear"> </div></div><script type="text/javascript"><!--
+WeddingWire.createWWRated2011({"vendorId":"43803603bb0a38a2", "id":"ww-widget-wwrated-2011"});
+--></script>
+<br><a href="http://twitter.com/favorwarehouse" target="_blank"> <img src="graphics/00000001/gui/fw_twitter.png" alt="Follow us on Twitter" width="100" height="67" border="0"></a><br>
+<a href="http://twitter.com/favorwarehouse" target="_blank" title="Follow Favor Warehouse on Twitter">Follow us on Twitter</a></td>
 </tr>
 <tr> <td>&nbsp;</td>
 </tr>
@@ -391,14 +390,16 @@ addEvent(window, 'load', new Function('listMenu.activateMenu("listMenuRoot", arr
 </tr>
 </tbody></table>
 <!-- Global Footer -->
-<div id="gblfooter-frame"><div id="gblfooter-subframe1"></div><div id="gblfooter-subframe2"><span class="footer-links"><a href="/" target="_self">Home</a> | <a href="http://wedding.favorwarehouse.com">Popular Searches</a> | <a href="/affiliates/" target="_self">Affiliates</a> | <a href="/phone-orders/" target="_self">Phone Orders</a> | <a href="/disclaimer/" target="_self">Disclaimer</a> | <a href="/order-info/" target="_self">Ordering Info</a> | <a href="/shipping-info/" target="_self">Shipping Info</a> | <a href="/return-policy/" target="_self">Return Policy</a> | <a href="/privacy-policy/" target="_self">Privacy Policy</a> | <a href="/faq/" target="_self">FAQ</a> | <a href="/contact/" target="_self">Contact</a> | <a href="/smap/" target="_self">Site Map</a></span><br><br>All Content ©2012 <span class="footer-links"><a href="/" target="_self">FavorWarehouse Wedding Favors</a></span>. All rights Reserved.<br> <a href="http://www.facebook.com/FavorWarehouse" class="fb-footer" title="Favor Warehouse on Facebook" border="0"></a> <a href="http://twitter.com/#!/favorwarehouse" class="twitter-footer" title="Favor Warehouse on Twitter" border="0"></a>
-<div id="gblfooter-subframe3">We accept all major credit cards. Online orders accepted 7 days a week, 24 hours a day.<br>All orders shipped via United Parcel Service (UPS).<br><br><img src="graphics/en-US/gui/payment-methods.png" width="444" height="44">
+<div id="gblfooter-frame"><div id="gblfooter-subframe1"></div><div id="gblfooter-subframe2"><span class="footer-links"><a href="/" target="_self">Home</a> | <a href="http://wedding.favorwarehouse.com">Popular Searches</a> | <a href="/affiliates/" target="_self">Affiliates</a> | <a href="/phone-orders/" target="_self">Phone Orders</a> | <a href="/disclaimer/" target="_self">Disclaimer</a> | <a href="/order-info/" target="_self">Ordering Info</a> | <a href="/shipping-info/" target="_self">Shipping Info</a> | <a href="/return-policy/" target="_self">Return Policy</a> | <a href="/privacy-policy/" target="_self">Privacy Policy</a> | <a href="/faq/" target="_self">FAQ</a> | <a href="/contact/" target="_self">Contact</a> | <a href="/smap/" target="_self">Site Map</a></span><br><br>All Content ©2013 <span class="footer-links"><a href="/" target="_self">FavorWarehouse Wedding Favors</a></span>. All rights Reserved.<br> <a href="http://www.facebook.com/FavorWarehouse" class="fb-footer" title="Favor Warehouse on Facebook" border="0"></a> <a href="http://twitter.com/#!/favorwarehouse" class="twitter-footer" title="Favor Warehouse on Twitter" border="0"></a>
+<div id="gblfooter-subframe3">We accept all major credit cards. Online orders accepted 7 days a week, 24 hours a day.<br>All orders shipped via United Parcel Service (UPS).<br><br><img src="graphics/00000001/gui/payment-methods.png" width="500" height="44">
 <div id="gblfooter-subframe4">
 <div id="geotrust-footer"><!-- GeoTrust QuickSSL [tm] Smart Icon tag. Do not edit. --><script language="JavaScript" type="text/javascript" src="//smarticon.geotrust.com/si.js"></script> <!-- end GeoTrust Smart Icon tag --></div>
-<div id="mcafee-footer"><!-- START SCANALERT CODE --><a target="_blank" href="https://www.scanalert.com/RatingVerify?ref=www.favorwarehouse.com" onclick="recordOutboundLink(this, 'Outbound Links', 'scanalert.com/RatingVerify?ref=www.favorwarehouse.com');return false;"><img width="94" height="54" border="0" src="//images.scanalert.com/meter/www.favorwarehouse.com/13.gif" alt="HACKER SAFE certified sites prevent over 99.9% of hacker crime." oncontextmenu="alert('Copying Prohibited by Law - HACKER SAFE is a Trademark of ScanAlert'); return false;"></a><!-- END SCANALERT CODE --></div><div id="bongo-footer"><a href="https://bongous.com/signup.php" onclick="recordOutboundLink(this, 'Outbound Links', 'bongous.com/signup.php');return false;"><img src="graphics/00000001/gui/bongo-header.png" alt="Bongo International" width="99" height="54" border="0"></a></div>
+<div id="bongo-footer"><a href="https://bongous.com/signup.php" onclick="recordOutboundLink(this, 'Outbound Links', 'bongous.com/signup.php');return false;"><img src="graphics/00000001/gui/bongo-header.png" alt="Bongo International" width="99" height="54" border="0"></a></div>
+<div id="reseller-footer"><a href="https://seals.resellerratings.com/landing.php?seller=31994" onclick="recordOutboundLink(this, 'Outbound Links', 'seals.resellerratings.com/landing.php?seller=31994');return false;" target="_blank"><img src="graphics/00000001/gui/reseller.png" width="115" height="52" border="0"></a></div>
 </div>
 </div>
-</div></div>
+</div>
+</div>
 <!-- Holiday Sale window pop up -->
 <script>
 function newWindow(a_str_windowURL, a_str_windowName, a_int_windowWidth, a_int_windowHeight, a_bool_scrollbars, a_bool_resizable, a_bool_menubar, a_bool_toolbar, a_bool_addressbar, a_bool_statusbar, a_bool_fullscreen) {
@@ -446,8 +447,11 @@ event.target.form.submit();
 } catch (e) {}
 });
 </script>
-<!-- BEGIN LivePerson Monitor. --><script language="javascript"> var lpMTagConfig = {'lpServer' : "server.iad.liveperson.net",'lpNumber' : "91883683",'lpProtocol' : (document.location.toString().indexOf('https:')==0) ? 'https' : 'http'}; function lpAddMonitorTag(src){if(typeof(src)=='undefined'||typeof(src)=='object'){src=lpMTagConfig.lpMTagSrc?lpMTagConfig.lpMTagSrc:'/hcp/html/mTag.js';}if(src.indexOf('http')!=0){src=lpMTagConfig.lpProtocol+"://"+lpMTagConfig.lpServer+src+'?site='+lpMTagConfig.lpNumber;}else{if(src.indexOf('site=')<0){if(src.indexOf('?')<0)src=src+'?';else src=src+'&';src=src+'site='+lpMTagConfig.lpNumber;}};var s=document.createElement('script');s.setAttribute('type','text/javascript');s.setAttribute('charset','iso-8859-1');s.setAttribute('src',src);document.getElementsByTagName('head').item(0).appendChild(s);} if (window.attachEvent) window.attachEvent('onload',lpAddMonitorTag); else window.addEventListener("load",lpAddMonitorTag,false);</script><!-- END LivePerson Monitor. -->
+<!-- BEGIN LivePerson Monitor. -->
+<script type="text/javascript">
+if(typeof window.lpTag==='undefined'){window.lpTag={site:'91883683',_v:'1.3',protocol:location.protocol,events:{bind:function(app,ev,fn){lpTag.defer(function(){lpTag.events.bind(app,ev,fn)},0)},trigger:function(app,ev,json){lpTag.defer(function(){lpTag.events.trigger(app,ev,json)},1)}},defer:function(fn,fnType){if(fnType==0){this._defB=this._defB||[];this._defB.push(fn)}else if(fnType==1){this._defT=this._defT||[];this._defT.push(fn)}else{this._defL=this._defL||[];this._defL.push(fn)}},load:function(src,chr,id){var t=this;setTimeout(function(){t._load(src,chr,id)},0)},_load:function(src,chr,id){var url=src;if(!src){url=this.protocol+'//'+((this.ovr&&this.ovr.domain)?this.ovr.domain:'lptag.liveperson.net')+'/tag/tag.js?site='+this.site}var s=document.createElement('script');s.setAttribute('charset',chr?chr:'UTF-8');if(id){s.setAttribute('id',id)}s.setAttribute('src',url);document.getElementsByTagName('head').item(0).appendChild(s)},init:function(){this._timing=this._timing||{};this._timing.start=(new Date()).getTime();var that=this;if(window.attachEvent){window.attachEvent('onload',function(){that._domReady('domReady')})}else{window.addEventListener('DOMContentLoaded',function(){that._domReady('contReady')},false);window.addEventListener('load',function(){that._domReady('domReady')},false)}if(typeof(window._lptStop)=='undefined'){this.load()}},_domReady:function(n){if(!this.isDom){this.isDom=true;this.events.trigger('LPT','DOM_READY',{t:n})}this._timing[n]=(new Date()).getTime()}};lpTag.init()}
+</script>
+<!-- END LivePerson Monitor. -->
 <script type="text/javascript" src="//assets.pinterest.com/js/pinit.js"></script>
-<script src="http://checkout.google.com/files/digital/urchin_post.js" type="text/javascript"></script>
 
 </td></tr></tbody></table></body></html>
