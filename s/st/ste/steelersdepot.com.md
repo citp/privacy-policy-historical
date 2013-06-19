@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the steelersdepot.com privacy policy that was archived on 2012-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121220191636id_/http%3A//www.steelersdepot.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the steelersdepot.com privacy policy that was archived on 2013-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130619185104id_/http%3A//www.steelersdepot.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Steelers Depot
 
@@ -77,18 +77,6 @@ If you decide to visit Steelers Depot website, your visit and any possible dispu
 14\. Effective Date of this Privacy Policy:
 
 This Privacy Policy is effective as of July 21, 2010 and last updated July 21, 2010.
-
-#### Incoming search terms for the article:
-
-  * steelers depot rss
-  * authorized steelers fan shop
-  * interent traffic to steelers depot
-  * special needs children at steeler training camp
-  * steelers and its types
-  * steelers browser
-  * www the steelers depot com
-
-
 
 Be Sociable, Share!
 
