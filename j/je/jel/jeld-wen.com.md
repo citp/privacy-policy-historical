@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jeld-wen.com privacy policy that was archived on 2012-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121221144810id_/http%3A//www.jeld-wen.com/product-support/information/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jeld-wen.com privacy policy that was archived on 2013-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130619033146id_/http%3A//www.jeld-wen.com/product-support/information/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | JELD-WEN Doors & Windows
 
