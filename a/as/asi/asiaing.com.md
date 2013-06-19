@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the asiaing.com privacy policy that was archived on 2012-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121212192745id_/http%3A//asiaing.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the asiaing.com privacy policy that was archived on 2013-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130619134932id_/http%3A//asiaing.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy - Asiaing.com: Free eBooks, Free Magazines, Free Magazine Subscriptions
 
