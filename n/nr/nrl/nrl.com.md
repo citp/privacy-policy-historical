@@ -1,123 +1,90 @@
-> *The following text is extracted and transformed from the nrl.com privacy policy that was archived on 2012-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121230055412id_/http%3A//www.nrl.com/nrlhome/privacy/tabid/10627/default.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nrl.com privacy policy that was archived on 2013-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130619232728id_/http%3A//www.telstra.com.au/privacy/privacy-statement/%3Fref%3DNet-Footer-Corp-Privacy) for the most accurate reproduction.*
 
-# NRL Privacy - NRL.com
+# 
 
-NRL respects the privacy of its fans, clubs, players, business contacts and employees.
+We are committed to providing you with the highest levels of customer service. This includes protecting your privacy.
 
-This Policy outlines the policy of NRL in managing personal information which it holds.
+Set out below is information that we are required to communicate to our customers. We recommend that you keep this information for future reference.
 
-NRL is bound by the National Privacy Principles ('NPPs') contained in the Privacy Act 1988 (Cth) ('Privacy Act').
+Set out below is information that we are required to communicate to our customers. We recommend that you keep this information for future reference.
 
-Due to an exemption in the Privacy Act, this Policy does not apply to NRL's treatment of an employee record, where that treatment is directly related to the current or former employment relationship between NRL and the individual.
+Personal information held by us may include your name, date of birth, current and previous addresses, telephone or mobile phone number, email address, bank account or credit card details, occupation, driver's licence number and your Telstra PIN, username or password. We also hold details of your Telstra services (including their status), as well as certain details about your personal interests.
 
-In summary, 'Personal Information' is information or an opinion relating to an individual which can be used to identify that individual.
+If you choose not to provide certain personal information (e.g. your date of birth), we may not be able to provide you with the services you require, or the level of service on which we pride ourselves.
 
-## Why does NRL collect personal information?
+Occasionally, you may need to provide personal information about other individuals to us (e.g. about your authorised representatives). If so, we rely on you to inform those individuals that you are providing their personal information to us and to advise them that we can be contacted for further information (see 'How to contact us' at the end of this brochure).
 
-NRL collects personal information in order to conduct its business of operating and managing the NRL competition.
+We collect personal information in a number of ways, including:
 
-## About whom do we collect personal information?
-
-The type of personal information NRL may collect and hold includes (but is not limited to) information about:
-
-  * fans;
-  * players who participate in matches in the NRL competition;
-  * players who participate in matches in competitions conducted by the New South Wales Rugby League ('NSWRL'), Australian Rugby Football League ('ARL'), Queensland Rugby League ('QRL'), Country Rugby League ('CRL') or other leagues which are affiliated with the International Rugby League Federation;
-  * representatives of clubs who participate in the NRL competition or competitions conducted by NSWRL, ARL, QRL, CRL or other leagues which are affiliated with the International Rugby League Federation;
-  * persons with whom NRL comes into contact in the course of operating and managing the NRL competition;
-  * prospective employees, employees, and contractors; and
-  * other people who may come into contact with NRL.
+  * directly from you, for example, when you provide information by phone, in application forms or other agreements, or when you submit your personal details through our websites (eg. during telstra.com registration);
+  * from third parties such as our related companies, credit reporting agencies or your representatives;
+  * from publicly available sources of information;
+  * from the organisations identified under 'When we disclose your personal information';
+  * from our own records of how you use your Telstra services;
+  * when you visit our websites. For more information on how our websites collect information please view [Telstra's Privacy Information](https://web.archive.org/privacy/privacy-information/index.htm); or
+  * when legally required to do so - for example, under the Telecommunications (Service Provider - Identity Checks for Pre-paid Public Mobile Telecommunications Services) Determination 2000.
 
 
 
-In this policy NRL means NRL and the members of the NRL partnership.
+Your personal information may be used to:
 
-## What kinds of personal information do we collect?
-
-In general, the type of personal information NRL collects and holds includes (but is not limited to): names, addresses, contact details, occupations and other information which assist us in conducting our business, providing and marketing our services and meeting our legal obligations.
-
-In most cases, if personal information we request is not provided, we may not be able to supply the relevant product or service.
-
-## How do we collect personal information?
-
-Personal Information you provide: NRL will generally collect personal information by way of forms filled out by people, face-to-face meetings, interviews, business cards, telephone conversations and from third parties.
-
-Personal Information provided by other people: In some circumstances NRL may be provided with personal information about an individual from a third party, for example from an NRL club or a reference from another person.
-
-## Web site Collection
-
-NRL collects personal information from its web site through emails. We also use third parties to analyse traffic at that web site, which may involve the use of cookies. Information collected through such analysis is anonymous.
-
-## How might we use and disclose your personal information?
-
-NRL may use and disclose your personal information for the primary purpose for which it is collected, for reasonably expected secondary purposes which are related to the primary purpose and in other circumstances authorised by the Privacy Act.
-
-In general, we may use and disclose your personal information for the following purposes:
-
-  * to operate and manage the NRL competition;
-  * to conduct our business, including for marketing and research purposes;
-  * to communicate with you;
-  * to comply with our legal obligations.
+  * verify your identity;
+  * assist you to subscribe to our services;
+  * provide the services you require;
+  * administer and manage those services, including charging, billing and collecting debts;
+  * inform you of ways the services provided to you could be improved;
+  * conduct appropriate checks for credit-worthiness and for fraud;
+  * research and develop our services;
+  * gain an understanding of your information and communication needs in order for us to provide you with a better service; and
+  * maintain and develop our business systems and infrastructure, including testing and upgrading of these systems.
 
 
 
-Apart from in the above circumstances, your personal information will generally not be disclosed without your consent.
+Also, your personal information is collected so that we, our related bodies and our dealers can promote and market services to you (including by way of direct mail, telemarketing, email, SMS and MMS messages). This is to keep you informed of products, services and special offers and may continue after you cease acquiring services from us. If you do not wish us, our related bodies or our dealers to contact you to promote and market products, services and special offers to you, please call 1800 039 059.
 
-## To whom might we disclose your personal information?
+In order to deliver the services you require, we may disclose your personal information to organisations outside of Telstra. Your personal information is disclosed to these organisations only in relation to us providing our services to you.
 
-We may disclose your personal information to:
-
-ARL, NSWRL, QRL, CRL and any other league which is affiliated with the International Rugby League Federation. other companies or individuals who assist us in providing services or who perform functions on our behalf (such as mailing houses) and organisations that carry out activities essential to our research activities; or anyone else to whom you authorise us to disclose it.
-
-## Sensitive information
-
-Some personal information which we collect is 'sensitive information'. Sensitive information includes health information about an individual.
-
-Sensitive information will be used and disclosed only for the purpose for which it was provided or a directly related secondary purpose, unless you agree otherwise, or where certain other limited circumstances apply (eg, where required by law).
-
-## Management of personal information
-
-The NPPs require us to take reasonable steps to protect the security of personal information. NRL staff are required to respect the confidentiality of personal information and the privacy of individuals.
-
-NRL takes steps to protect personal information held from misuse and loss and from unauthorised access, modification or disclosure, for example by use of physical security and restricted access to electronic records.
-
-Where we no longer require your personal information for a permitted purpose under the NPPs, we will take reasonable steps to destroy it.
-
-## How do we keep personal information accurate and up-to-date?
-
-NRL endeavours to ensure that the personal information it holds is accurate, complete and up-to-date. You can contact us in order to update any personal information we hold about you. Our contact details are set out below.
-
-You have the ability to seek access to your personal information.
-
-Subject to the exceptions set out in the Privacy Act, you may seek access to personal information which NRL holds about you by contacting NRL's Privacy Officer.
-
-We will require you to verify your identity and to specify what information you require. A fee may be charged for providing access. We will advise you of the likely cost in advance.
-
-## Updates to this Policy
-
-This Policy will be reviewed from time to time to take account of new laws and technology, changes to our operations and practices and the changing business environment. The most current version of this Policy can be obtained by contacting our Privacy Officer.
-
-## Enquiries
-
-If you have any questions about privacy-related issues please contact NRL's Privacy Officer:
-
-  * Phone: (02) 9339 8500
-  * Facsimile: (02) 9339 8501
-  * Address: NRL Privacy Officer
-  * National Rugby League Ltd
-  * GPO Box 3498
-  * SYDNEY NSW 2001
+  * customer enquiries;
+  * mailing operations;
+  * billing and debt-recovery functions;
+  * information technology services;
+  * installation, maintenance and repair services;
+  * marketing, telemarketing and door-knocking services;
+  * market research; and
+  * website usage analysis.
 
 
 
-## Subscription Terms and Conditions
+We take reasonable steps to ensure that these organisations are bound by confidentiality and privacy obligations in relation to the protection of your personal information.
 
-I accept that by subscribing to the NRL's emailing list that I will receive periodic notification via email and or conventional post outlining NRL news, offers and other information relevant to the NRL or sponsors products and services.
+  * your authorised representatives or your legal advisers (e.g. when requested by you to do so);
+  * credit-reporting and fraud-checking agencies;
+  * credit providers (for credit related purposes such as credit-worthiness, credit rating, credit provision and financing);
+  * our dealers;
+  * our related companies;
+  * our professional advisers, including our accountants, auditors and lawyers;
+  * other telecommunication and information service providers (for example, if you obtain services from other providers, we may need to disclose your personal information for billing purposes);
+  * the manager of the Integrated Public Number Database. For more information on the Integrated Public Number Database please read [Telstra's Privacy Information](https://web.archive.org/privacy/privacy-information/index.htm);
+  * government and regulatory authorities and other organisations, as required or authorised by law; and
+  * organisations who manage our business and corporate strategies, including those involved in a transfer/sale of all or part of our assets or business (including accounts and trade receivables) and those involved in managing our corporate risk and funding functions (e.g. securitisation).
 
-I understand that all personal information provided by myself on this website including will reside in a centralised database at NRL head office in Sydney. I also understand that this information will be updated as and when requested only by myself or as authorised by me. I understand it is my right to have access to any of my personal details held by the NRL and that this information will be provided to me within a reasonable amount of time.
 
-I understand that under no circumstances will the NRL sell, barter, transfer or distribute my personal details to any other third party no exceptions. I do however understand that NRL may publish some information provided by myself (on an strictly anonymous basis) within the website or within other media forms, if permission granted by myself and NRL may send information on behalf of a third party to my personal address.
 
-I understand that I can exercise my right to review personal information submitted to NRL.COM at any time by logging into NRL.COM and using the 'edit profile' link.
+We take all reasonable precautions to ensure that the personal information we collect, use and disclose is accurate, complete and up-to-date.
 
-I understand that to remove my NRL.COM account and personal information I should login and use the 'delete my account' functionality under 'edit profile'.
+However, the accuracy of that information depends to a large extent on the information you provide. That's why we recommend that you:
+
+  * let us know if there are any errors in your personal information; and
+  * keep us up-to-date with changes to your personal information such as your name or address. If you are a subscriber to one of our online products or services, you may change your personal details by using the relevant facility on our websites.
+
+
+
+You have a right to access your personal information, subject to some exceptions allowed by law. If you would like to do so, please let us know. You may be required to put your request in writing for security reasons.
+
+We reserve the right to charge a fee for searching for and providing access to your information.
+
+If you have any questions in relation to privacy, please contact us on **1800 039 059** between 9.00am and 5.00pm, Monday to Friday. Please note that this number is not for general service enquiries. Alternatively, you can write to [privacy@online.telstra.com.au](mailto:privacy@online.telstra.com.au)
+
+Telstra Privacy Statement March 2008  
+Telstra Corporation Limited ABN 33 051 775 556  
+C011 03-08 P616244 131530
