@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the rumblegames.com privacy policy that was archived on 2012-04-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120427121628id_/http%3A//www.rumblegames.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rumblegames.com privacy policy that was archived on 2013-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130619223942id_/https%3A//www.rumblegames.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Rumble | Free to Play Online Games
+# Privacy Policy | Rumble
 
 _**Last Updated: March 14, 2012**_
 
