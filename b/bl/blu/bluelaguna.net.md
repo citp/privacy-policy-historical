@@ -1,16 +1,18 @@
-> *The following text is extracted and transformed from the bluelaguna.net privacy policy that was archived on 2011-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110430121748id_/http%3A//valueclickmedia.com/webuser_privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bluelaguna.net privacy policy that was archived on 2013-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130619114603id_/http%3A//valueclickmedia.com/webuser_privacy.shtml) for the most accurate reproduction.*
 
 # Display Web User Privacy Policy | ValueClick Media
 
-_Updated as of 9/9/2010_
+**Display Web User Privacy Policy**
 
-[Display Member Privacy Policy](https://web.archive.org/about/privacy/display-member)
+_Updated as of_ _10_ _/_ _4_ _/2012_
+
+[Display Member Privacy Policy](http://www.valueclickmedia.com/about/privacy/display-member)
 
 Welcome to ValueClickMedia.com, a division of ValueClick, Inc. (hereinafter "ValueClick Media", “we” or “us”). All references to “ValueClick Media”, “we” or “us” in this Privacy Policy shall refer only to ValueClick Media excluding Lead Generation (as defined below).
 
 At ValueClick Media, privacy is a top priority and we provide this Privacy Policy to outline our practices and procedures with respect to information collection and use to enable you to make an informed decision about sharing information with us. ValueClick Media is an advertising network which means we may deliver advertisements to the websites you visit.
 
-Please note that this Privacy Policy applies solely to ValueClick Media, excluding ValueClick Media’s lead generation component (“Lead Generation”) which is addressed in a separate privacy policy linked as follows: [Click Here for Lead Generation’s privacy policy](https://web.archive.org/about/privacy/lead-gen-web-user). All other ValueClick, Inc. entities are governed by separate privacy policies found on such entities’ websites.
+Please note that this Privacy Policy applies solely to ValueClick Media, excluding ValueClick Media’s lead generation component (“Lead Generation”) which is addressed in a separate privacy policy linked as follows: [Click Here for Lead Generation’s privacy policy](http://www.valueclickmedia.com/about/privacy/lead-gen-web-user). All other ValueClick, Inc. entities are governed by separate privacy policies found on such entities’ websites.
 
 ValueClick Media is a member of the Network Advertising Initiative which works to address important privacy and consumer protection issues in emerging media. For more information, please click here.
 
@@ -31,13 +33,13 @@ Information NOT Collected - PII
 
 | 
 
-We do not collect personally identifiable information (data collected with an intention to identify and contact a person such as name, address, telephone number or e-mail address) (hereinafter “PII”). However, the Lead Generation business does collect PII.  More information on the collection of PII can be found on clicking on the following link to Lead Generation’s [privacy policy](https://web.archive.org/about/privacy/lead-gen-web-user).  
+We do not collect personally identifiable information (data collected with an intention to identify and contact a person such as name, address, telephone number or e-mail address) (hereinafter “PII”). However, the Lead Generation business does collect PII. More information on the collection of PII can be found on clicking on the following link to Lead Generation’s [privacy policy](http://www.valueclickmedia.com/about/privacy/lead-gen-web-user).  
   
 Information Collected - Non-PII
 
 | 
 
-The non-personally identifiable information we collect may include as an example, IP address, browser types, operating systems, domain names, access dates and times, referring website addresses, online transactions and browsing and search activity.  
+The non-personally identifiable information we collect may include as an example, IP address, browser types, operating systems, domain names, access dates and times, referring website addresses, online transactions and browsing and search activity. In the event any health-related information is collected, that data is anonymous and the health information is limited to these [health segments](http://www.valueclickmedia.com/hs).  
   
 How Used
 
@@ -49,13 +51,13 @@ Sharing Your Information
 
 | 
 
-We may share your Information with third party service providers we have contracted with, ValueClick, Inc. and its subsidiaries and affiliates, including ValueClick Media (“Value Click Entities”), third party marketing partners, business partners and our clients.   
+We may share your Information with third party service providers we have contracted with, ValueClick, Inc. and its subsidiaries and affiliates, including ValueClick Media (“Value Click Entities”), third party marketing partners, business partners and our clients.  
   
 Your Choices
 
 | 
 
-You may regulate the collection of your Information through your browser settings or use of an "opt-out Cookie".  Click on the link for more detailed information.  
+You may regulate the collection of your Information through your browser settings or use of an "opt-out Cookie". Click on the link for more detailed information.  
   
 Security
 
@@ -73,24 +75,24 @@ Retention
 
 | 
 
-We retain Non-PII for use to more effectively match advertisements and website content to your interests for no more than eighteen (18) months.  Aggregate reports generated from such data may be retained for a longer period.  
+We retain Non-PII for use to more effectively match advertisements and website content to your interests for no more than eighteen (18) months. Aggregate Non-PII data for reporting may be retained for a longer period.  
   
 Contact Us
 
 | 
 
-If you have any questions about this Privacy Policy, the practices of or your dealings with us relating to this Privacy Policy, please email us at [privacy@valueclick.com](mailto:privacy@valueclick.com) or you can send correspondence to us at the following address: ValueClick Media, Privacy Officer, 30699 Russell Ranch Road, Suite 250, Westlake Village, CA 91362.  
+If you have any questions about this Privacy Policy, the practices of or your dealings with us relating to this Privacy Policy, please fill out our [Feedback Form](http://www.valueclick.com/feedback?t=p&r=vcm-wpp01) or you can send correspondence to us at the following address: ValueClick Media, Privacy Officer, 30699 Russell Ranch Road, Suite 250, Westlake Village, CA 91362.  
   
 **INFORMATION WE COLLECT**
 
 **Non-Personally Identifiable Information.**  
 As part of our on-going efforts to ensure the best possible experience for all recipients of ValueClick Media advertising, we may use log files, web beacons and cookies to collect data from browsers, advertiser and third party sites (“Sites”) to aggregate Information. The Information collected is used for marketing purposes, enables us to determine which advertisements perform well, allows us to more effectively match advertisements and website content to your interests, assists us in improving the operation of our services, helps us to maintain the quality of our services, enhances our services to our business partners and clients and enables us to provide general statistics to our business partners and clients regarding use of ValueClick Media’s services.
 
-“Log files” track actions occurring on Sites and collect data including your IP address, browser type, Internet service provider, referring/exit pages, platform type, date/time stamp, click data and types of advertisements viewed.
+“Log files” track actions occurring on Sites and collect data including, as an example, your IP address, browser type, Internet service provider, referring/exit pages, operating system, date/time stamp, click data and types of advertisements viewed.
 
 "Web beacons" are electronic files used to track your navigation of a website or collection of sites, the completion of transactions, submittal of applications and browsing behavior.
 
-"Cookies" are files (e.g. HTTP cookies) that are stored on your Internet enabled device (which includes your computer, BlackBerry or other PDA). Cookies are used to improve the experience web users have when they see web advertisements and ensure that when a web user clicks on an advertisement, they are sent to the correct click-through destination. We may use Cookies to estimate the total reach of an advertising campaign, as well as frequency of display. This allows advertisers to determine with greater accuracy the composition of the audience they reach. Cookies are also used to control the delivery of a series of advertisements to a web browser, and to limit the number of times a web browser receives any one advertisement.
+"Cookies" are files (e.g. HTTP cookies) that are stored on your Internet enabled device (which may include, as an example, your computer, tablet, BlackBerry, smartphone or other PDA). Cookies are used to improve the experience web users have when they see web advertisements and ensure that when a web user clicks on an advertisement, they are sent to the correct click-through destination. We may use Cookies for purposes that include estimating the total reach of an advertising campaign, as well as frequency of display. This allows advertisers to determine with greater accuracy the composition of the audience they reach. Cookies may also be used to control the delivery of a series of advertisements to a web browser, and to limit the number of times a web browser receives any one advertisement.
 
 There are two classes of Cookies based on how long they remain on your system: (i) “Session Cookies” are used only during your visit to the Sites and are erased once you close your browser, and (ii) “Persistent Cookies” remain on your browser for 2 years from your last visit to the Sites and enable us to remember you on subsequent visits to the Sites and provide more relevant content to you on such Sites.
 
@@ -110,35 +112,29 @@ Please be aware that the websites of our advertiser clients as well as the websi
 
 **YOUR CHOICES**
 
-ValueClick Media also offers an “opt-out Cookie” to block the placement of future ValueClick Media Cookies on your system for 10 years from the time you opted out. If you have multiple internet browsers or users on the same computer, you will need to perform the opt-out operation for each browser and/or user. If you or your privacy software deletes the opt-out Cookie from your computer, you will need to repeat the process.
+ValueClick Media also offers an “opt-out Cookie” to block the placement of future ValueClick Media Cookies on your system for 10 years from the time you opted out. If you have multiple internet browsers or users on the same computer or device, you will need to perform the opt-out operation for each browser, device and/or user. If you or your privacy software deletes the opt-out Cookie from your computer, browser or device, you will need to repeat the process.
 
-[ _Install the ValueClick Media Opt-Out Cookie_](https://admin.valueclickmedia.com/corp/optout)
+[Install the ValueClick Media Opt-Out Cookie](http://www.valueclickmedia.com/about/privacy/opt-out)
 
-Please note that the above link for an opt-out Cookie is only applicable to ValueClick Media and not any other ValueClick company website. Also, please note that use of the opt-out Cookie will affect our ability to provide you content and advertisements that will more effectively match your interests and may prevent us from controlling the frequency with which you may view any particular advertisement. Please report any problems related to the opt-out process to [privacy@valueclickmedia.com](mailto:privacy@valueclickmedia.com).
+Please note that the above link for an opt-out Cookie is only applicable to ValueClick Media and not any other ValueClick company or ValueClick company website. Also, please note that use of the opt-out Cookie will affect our ability to provide you content and advertisements that will more effectively match your interests and may prevent us from controlling the frequency with which you may view any particular advertisement. Please report any problems related to the opt-out process by filling out our [Feedback Form](http://www.valueclick.com/feedback?t=o&r=vcm-wpp02).
 
 **PROCESSING AND STORING YOUR DATA**
 
-FOR EUROPEAN UNION CITIZENS
+FOR EUROPEAN UNION AND SWISS CITIZENS
 
-The European Union ("EU") maintains strict privacy laws. These rules differ significantly from the laws of the United States of America (“US”). To reconcile these differences, the US and the EU have created a safe harbor (“Safe Harbor”) that defines mutually acceptable privacy operations. For more information see <http://www.export.gov/safeharbor/>.
+The European Union ("EU") maintains strict privacy laws. These rules differ significantly from the laws of the United States of America (“U.S.”). To reconcile these differences, the US and the EU have created a safe harbor (“U.S.-EU Safe Harbor Framework”) that defines mutually acceptable privacy operations. The U.S. and Switzerland have created a similar safe harbor (“U.S.-Swiss Safe Harbor Framework”). For more information see <http://www.export.gov/safeharbor/>.
 
-ValueClick Media complies with the U.S.-EU Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries.  We have certified that we adhere to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement.  To learn more about the Safe Harbor program, and to view the company's certification, please visit <http://www.export.gov/safeharbor/>.
+ValueClick Media complies with the U.S.-EU and US-Swiss Safe Harbor Frameworks as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries and Switzerland. We have certified that we adhere to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view the company's certification, please visit <http://www.export.gov/safeharbor/>.
 
-In compliance with the Safe Harbor Principles, we commit to resolve complaints about your privacy and our collection or use of your personal information.  In the first instance, European Union citizens with inquiries or complaints regarding this privacy policy should first contact: [privacy@valueclickmedia.com](mailto:privacy@valueclickmedia.com).   ValueClick Media  has further committed to refer unresolved privacy complaints under the Safe Harbor Principles to an independent dispute resolution mechanism, the BBB EU Safe Harbor, operated by the Council of Better Business Bureaus. Thus, if you do not receive timely acknowledgment of your complaint, or if your complaint is not satisfactorily addressed by ValueClick Media you may contact:  
+In compliance with U.S.-EU and U.S.-Swiss Safe Harbor Privacy Principles, we commit to resolve complaints about your privacy and our collection or use of your personal information. European Union or Swiss citizens with inquiries or complaints regarding this privacy policy should first fill out our [Feedback Form](http://www.valueclick.com/feedback?t=p&r=vcm-wpp02). 
 
-Council of Better Business Bureaus, Inc.  
-BBB EU Safe Harbor  
-4200 Wilson Boulevard, Suite 800  
-Arlington, VA 22203  
-Phone: 703-276-0100  
-Web: [www.us.bbb.org](http://www.us.bbb.org/)  
-Email: [eusafeharbor@council.bbb.org](mailto:eusafeharbor@council.bbb.org)
+ValueClick Media has further committed to refer unresolved privacy complaints under the U.S.-EU and U.S.-Swiss Safe Harbor Privacy Principles to an independent dispute resolution mechanism, the BBB EU SAFE HARBOR, operated by the Council of Better Business Bureaus. Thus, if you do not receive timely acknowledgment of your complaint, or if your complaint is not satisfactorily addressed by ValueClick Media please visit the BBB EU SAFE HARBOR website at [www.bbb.org/us/safe-harbor-complaints](http://www.bbb.org/us/safe-harbor-complaints) for more information and to file a complaint.
 
 **Network Advertising Initiative.**  
 ValueClick Media is a member of the Network Advertising Initiative (“NAI”). The NAI is a cooperative of online marketing and analytics companies committed to building consumer awareness and establishing responsible business and data management practices and standards. For more information, please visit [http://www.networkadvertising.org](http://www.networkadvertising.org/).
 
 **Security.**  
-ValueClick Media employs appropriate measures to ensure the security of all Information and We routinely evaluate our practices to identify security threats or opportunities for the improvement of our services. No transmission of information is guaranteed to be completely secure. Unauthorized entry or use, hardware or software failure, and other factors may compromise data security. You acknowledge and agree to assume this risk when communicating with us.
+ValueClick Media employs appropriate measures to ensure the security of all Information and we routinely evaluate our practices to identify security threats or opportunities for the improvement of our services. No transmission of information is guaranteed to be completely secure. Unauthorized entry or use, hardware or software failure, and other factors may compromise data security. You acknowledge and agree to assume this risk when communicating with us.
 
 **CHANGES**
 
@@ -146,7 +142,7 @@ As the standards governing Internet privacy continue to evolve, ValueClick Media
 
 **RETENTION**
 
-We retain Non-PII for use to more effectively match advertisements and website content to your interests for no more than eighteen (18) months.  Aggregate reports generated from such data may be retained for a longer period.
+We retain Non-PII for use to more effectively match advertisements and website content to your interests for no more than eighteen (18) months. Aggregate reports generated from such data may be retained for a longer period.
 
 **MISCELLANEOUS**
 
