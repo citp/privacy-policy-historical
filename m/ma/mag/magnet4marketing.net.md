@@ -1,74 +1,78 @@
-> *The following text is extracted and transformed from the magnet4marketing.net privacy policy that was archived on 2012-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121207074423id_/http%3A//www.magnet4marketing.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the magnet4marketing.net privacy policy that was archived on 2013-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130619073129id_/http%3A//www.magnet4marketing.net/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy -
 
-**What information do we collect?**
+This privacy policy sets out how **Magnet4Marketing.net** uses and protects any information that you give **Magnet4Marketing** when you use this website.
 
-We collect information from you when you subscribe to our newsletter.When ordering or registering on our site, as appropriate, you may be asked to enter your: name, e-mail address or web address. You may, however, visit our site anonymously.
+Magnet4Marketing.net is committed to ensuring that your privacy is protected. Should we ask you to provide certain information by which you can be identified when using this website, then you can be assured that it will only be used in accordance with this privacy statement.
 
-Google, as a third party vendor, uses cookies to serve ads on this site.
+**Magnet4Marketing.net** may change this policy from time to time by updating this page. You should check this page from time to time to ensure that you are happy with any changes. This policy is effective from [1st July 2010].
 
-Google’s use of the DART cookie enables it to serve ads to this site based on their visit to this site and any other sites on the Internet. Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy here: <http://www.google.com/policies/privacy/>
+**What we collect**
 
-#### What do we use your information for?
+We may collect the following information:
 
-Any of the information we collect from you may be used in one of the following ways:
+• name and job title  
+• contact information including email address  
+• demographic information such as postcode, preferences and interests  
+• other information relevant to customer surveys and/or offers
 
-_**To personalize your experience**_  
-(your information helps us to better respond to your individual needs)
+**What we do with the information we gather**
 
-_**To improve our website**_  
-(we continually strive to improve our website offerings based on the information and feedback we receive from you)
+We require this information to understand your needs and provide you with a better service, and in particular for the following reasons:
 
-**_To process transactions_**
+• Internal record keeping.  
+• We may use the information to improve our products and services.  
+• We may periodically send promotional emails about new products, special offers or other information which we think you may find interesting using the email address which you have provided.  
+• From time to time, we may also use your information to contact you for market research purposes. We may contact you by email, phone, fax or mail. We may use the information to customize the website according to your interests.
 
-> Your information, whether public or private, will not be sold, exchanged, transferred, or given to any other company for any reason whatsoever, without your consent, other than for the express purpose of delivering the purchased product or service requested.
+**Security**
 
-_**To administer a contest, promotion, survey or other site feature; To send periodic emails**_
+We are committed to ensuring that your information is secure. In order to prevent unauthorized access or disclosure, we have put in place suitable physical, electronic and managerial procedures to safeguard and secure the information we collect online.
 
-> The email address you provide for order processing, may be used to send you information and updates pertaining to your order, in addition to receiving occasional company news, updates, related product or service information, etc.
+**How we use cookies**
 
-**How do we protect your information?**
+A cookie is a small file which asks permission to be placed on your computer’s hard drive. Once you agree, the file is added and the cookie helps analyze web traffic or lets you know when you visit a particular site. Cookies allow web applications to respond to you as an individual. The web application can tailor its operations to your needs, likes and dislikes by gathering and remembering information about your preferences.
 
-We implement a variety of security measures to maintain the safety of your personal information when you enter, submit, or access your personal information.
+We use traffic log cookies to identify which pages are being used. This helps us analyze data about web page traffic and improve our website in order to tailor it to customer needs. We only use this information for statistical analysis purposes and then the data is removed from the system.
 
-We offer the use of a secure server. All supplied sensitive/credit information is transmitted via Secure Socket Layer (SSL) technology and then encrypted into our Payment gateway providers database only to be accessible by those authorized with special access rights to such systems, and are required to? keep the information confidential.
+Overall, cookies help us provide you with a better website, by enabling us to monitor which pages you find useful and which you do not. A cookie in no way gives us access to your computer or any information about you, other than the data you choose to share with us.
 
-After a transaction, your private information (credit cards, social security numbers, financials, etc.) **will not** be stored on our servers.
+You can choose to accept or decline cookies. Most web browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies if you prefer. This may prevent you from taking full advantage of the website.
 
-**Do we use cookies?**
+**Links to other websites**
 
-Yes (Cookies are small files that a site or its service provider transfers to your computers hard drive through your Web browser (if you allow) that enables the sites or service providers systems to recognize your browser and capture and remember certain information.
+Our website may contain links to other websites of interest. However, once you have used these links to leave our site, you should note that we do not have any control over that other website. Therefore, we cannot be responsible for the protection and privacy of any information which you provide whilst visiting such sites and such sites are not governed by this privacy statement. You should exercise caution and look at the privacy statement applicable to the website in question.
 
-We use cookies to keep track of advertisements and compile aggregate data about site traffic and site interaction so that we can offer better site experiences and tools in the future.
+**Controlling your personal information**
 
-**Do we disclose any information to outside parties?**
+You may choose to restrict the collection or use of your personal information in the following ways:
 
-We **do not** sell, trade, or otherwise transfer to outside parties your personally identifiable information. This does not include trusted third parties who assist us in operating our website, conducting our business, or servicing you, so long as those parties agree to keep this information confidential. We may also release your information when we believe release is appropriate to comply with the law, enforce our site policies, or protect ours or others rights, property, or safety. However, non-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses.
+• whenever you are asked to fill in a form on the website, look for the box that you can click to indicate that you do not want the information to be used by anybody for direct marketing purposes  
+• if you have previously agreed to us using your personal information for direct marketing purposes, you may change your mind at any time by writing to or emailing us at:
 
-**Third party links**
+magnet4marketing[at]live.co.uk
 
-****Occasionally, at our discretion, we may include or offer third party products or services on our website. These third party sites have separate and independent privacy policies. We therefore have no responsibility or liability for the content and activities of these linked sites. Nonetheless, we seek to protect the integrity of our site and welcome any feedback about these sites.
+We will not sell, distribute or lease your personal information to third parties unless we have your permission or are required by law to do so. We may use your personal information to send you promotional information about third parties which we think you may find interesting if you tell us that you wish this to happen.
 
-**Online Privacy Policy Only**
+You may request details of personal information which we hold about you under the Data Protection Act 1998. A small fee will be payable. If you would like a copy of the information held on you please write to:
 
-This online privacy policy applies only to information collected through our website and not to information collected offline.
+Fabrizio Van Marciano
 
-**Your Consent**
+Benderloch
 
-By using our site, you consent to our [online privacy policy](http://www.freeprivacypolicy.com/).
+Kingsley Avenue
 
-**Changes to our Privacy Policy**
+Appledore
 
-****If we decide to change our privacy policy, we will post those changes on this page.
+Bideford
 
-**Contacting Us**
+Devon
 
-****If there are any questions regarding this privacy policy you may contact us using the information below. ****
+EX39 1PF
 
-**http://www.magnet4marketing.net** __
+Tel: +44 (0) 7539 243339
 
-_United Kingdom_  
-[Contact us](http://www.magnet4marketing.net/contact-us) __
+If you believe that any information we are holding on you is incorrect or incomplete, please write to or email us as soon as possible, at the above address. We will promptly correct any information found to be incorrect.
 
-_This policy is powered by **Free Privacy Policy** and Rhino Support. Compare **Rhino Support** to [Zen Desk](http://www.rhinosupport.com/zendesk.htm) and save!_
+Please visit out [affiliate disclosure](http://www.magnet4marketing.net/disclosure/ "Affiliate Disclosure") page.
