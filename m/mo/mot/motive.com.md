@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the motive.com privacy policy that was archived on 2012-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121122114139id_/http%3A//www.alcatel-lucent.com/wps/portal/privacy%3Flu_lang_code%3Den) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the motive.com privacy policy that was archived on 2013-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130619223743id_/http%3A//www3.alcatel-lucent.com/wps/portal/privacy) for the most accurate reproduction.*
 
 # Privacy
 
