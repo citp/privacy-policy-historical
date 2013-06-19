@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the chatrwireless.com privacy policy that was archived on 2012-12-31.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121231132935id_/http%3A//www.chatrwireless.com/web/content/support_policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the chatrwireless.com privacy policy that was archived on 2013-06-19.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130619075533id_/http%3A//www.chatrwireless.com/web/content/support_policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd"><html><head>	
 	
@@ -36,14 +36,6 @@
 	<meta name="distribution" content="Global">
 	<meta name="revisit-after" content="1 days">	
 	
-	  <script>
-	  document.cookie = "cookieCheck=yes";
-  	  cookieOk = document.cookie.indexOf("cookieCheck=yes") > -1;
-  	  if (!cookieOk) {
-  		 window.location.href = "/cms/error/cookie-error.html";
-  	  }
-  	  </script>
-  	
   	  	
 
 
@@ -157,7 +149,7 @@ function scTagCommonVars(tagObject) {
 		tagObject.channel="Customer";
 		tagObject.server="www.chatrwireless.com";
 		tagObject.prop2="EN";
-		tagObject.eVar1="FQQkQhTfbv4vvfq";
+		tagObject.eVar1="DgbmRBjM0hMTqh3";
 	}
 }
 scTagCommonVars(s);
@@ -343,7 +335,7 @@ scTagCommonVars(s);
 									
                                     
                                     
-                                    	<li class="francais" style="padding-top:3px;"><a href="/web/chatr.portal;jsessionid=FQQkQhTfbv4vvfqN0cTyn6sTQH93fhpx6Rl75sZpCGDN056pbZgp!-1571678535!-747189255?_nfpb=true&amp;_pageLabel=GCT&amp;_nfls=true&amp;setLanguage=fr&amp;template=support_policy">Français</a></li>
+                                    	<li class="francais" style="padding-top:3px;"><a href="/web/chatr.portal?_nfpb=true&amp;_pageLabel=GCT&amp;_nfls=true&amp;setLanguage=fr&amp;template=support_policy">Français</a></li>
                                     
                                     
                                 </ul>
@@ -395,9 +387,9 @@ scTagCommonVars(s);
                                     
                                     
 	                                    
-	                                    	<li class="english"><a href="/web/chatr.portal;jsessionid=FQQkQhTfbv4vvfqN0cTyn6sTQH93fhpx6Rl75sZpCGDN056pbZgp!-1571678535!-747189255?_nfpb=true&amp;_pageLabel=GCT&amp;_nfls=true&amp;setLanguage=fr&amp;template=support_policy">Français</a></li>
+	                                    	<li class="english"><a href="/web/chatr.portal?_nfpb=true&amp;_pageLabel=GCT&amp;_nfls=true&amp;setLanguage=fr&amp;template=support_policy">Français</a></li>
 	                                    
-	                                    	<li class="francais"><a href="/web/chatr.portal;jsessionid=FQQkQhTfbv4vvfqN0cTyn6sTQH93fhpx6Rl75sZpCGDN056pbZgp!-1571678535!-747189255?_nfpb=true&amp;_pageLabel=GCT&amp;_nfls=true&amp;setLanguage=fr&amp;template=support_policy">Français</a></li>
+	                                    	<li class="francais"><a href="/web/chatr.portal?_nfpb=true&amp;_pageLabel=GCT&amp;_nfls=true&amp;setLanguage=fr&amp;template=support_policy">Français</a></li>
 	                                    
                                     
                                     <li class="facebook"><a href="http://www.facebook.com/chatrwireless" target="_blank"><img style="padding-right:5px;" src="/cms/images/menu/en/icon_fb.png" alt="facebook" title="facebook" /></a></li>
@@ -481,13 +473,13 @@ scTagCommonVars(s);
 				var errorText = '';
 
 				if ( !isValidUserName( $("#layoverUsername").val() ) )
-				{
-					errorText += "Please enter a username that is between 6 and 20 characters in length.";
+				{					
+					errorText += "Invalid username/chatr phone number.";
 				}
 
 				if ( errorText != '' )
 				{
-					$('.loginLayoverError').text( errorText );
+					$('.loginLayoverError').html( errorText );
 				}
 				else
 				{
@@ -641,7 +633,7 @@ scTagCommonVars(s);
 				</div>
 				<div class="loginLayoverError error"></div>
 				<div class="holder layoverUsername">
-					Username
+					Username / chatr phone number
 				</div>
 				<div class="holder">
 					<input type="text" class="required" name="layoverUsername" id="layoverUsername" value="" tabindex="1" maxlength="20">
@@ -1156,13 +1148,14 @@ $("document").ready( function(){
 						<a href="/web/content/termsAndConditions"><h3>Terms &amp; Conditions</h3></a><span style="float:left;">&nbsp;&nbsp;|&nbsp;&nbsp;</span>
 						<a href="/web/content/special_needs"><h3>chatr Special Needs</h3></a><span style="float:left;">&nbsp;&nbsp;|&nbsp;&nbsp;</span>
 						<a href="/web/content/sitemap"><h3>Site Map</h3></a><span style="float:left;">&nbsp;&nbsp;|&nbsp;&nbsp;</span>
-						<span class="chatrInc" style="float:left;">© 2010-2012</span>
+						<span class="chatrInc" style="float:left;">© 2010-2013</span>
 					</div>
 			  </div>			  
 		 </div>
 	</div>
 </div>
 <script>
+	$(".bea-portal-book-primary").append("<div class='footerPush'></div>");
 	if(isUserLoggedIn) {
 		$(".footer_register_link").hide();
 		$(".footer_signin_link").hide();
@@ -1174,6 +1167,15 @@ $("document").ready( function(){
 		$(this).css('color','#FFFFFF');
 	});
 </script>
+<style>
+.bea-portal-book-primary {
+	margin: 0 auto -264px;
+}
+#footerMainDiv, .footerPush {
+	height: 264px;
+	clear:both;
+}
+</style>
 
 				
 			
