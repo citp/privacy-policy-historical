@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the copdconnect.com privacy policy that was archived on 2012-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121108025012id_/http%3A//www.copdconnect.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the copdconnect.com privacy policy that was archived on 2013-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130620014606id_/http%3A//www.copdconnect.com/privacy-policy) for the most accurate reproduction.*
 
 # Our Privacy Policy | COPD Connect
 
