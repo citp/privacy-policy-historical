@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the areavibes.com privacy policy that was archived on 2012-11-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121104091001id_/http%3A//www.areavibes.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the areavibes.com privacy policy that was archived on 2013-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130619101735id_/http%3A//www.areavibes.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - AreaVibes
 
@@ -6,10 +6,10 @@ AreaVibes Inc. recognizes that the privacy of your personal information is impor
 
 AreaVibes Inc. will not sell or disclose your personal information to third parties. However, in the following instances we reserve the right to disclose this information: 
 
-  * •  While enforcing the AreaVibes Inc. terms of use
-  * •  For any reason required by law
-  * •  To protect other users of the website
-  * •  To protect the general safety and rights of the public
+  * While enforcing the AreaVibes Inc. terms of use
+  * For any reason required by law
+  * To protect other users of the website
+  * To protect the general safety and rights of the public
 
 
 
