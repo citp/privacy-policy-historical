@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the calloptionputoption.com privacy policy that was archived on 2012-10-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121020061646id_/http%3A//www.calloptionputoption.com/Privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the calloptionputoption.com privacy policy that was archived on 2013-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130619072322id_/http%3A//www.calloptionputoption.com/Privacy_policy.html) for the most accurate reproduction.*
 
 # Privacy_policy
 
@@ -63,11 +63,9 @@ Ultimately, you are solely responsible for maintaining the secrecy of your passw
 
 **India 09887766554**
 
-[](https://web.archive.org/web/20121020061646id_/http%3A//www.calloptionputoption.com/index.html)
+[](https://web.archive.org/web/20130619072322id_/http%3A//www.calloptionputoption.com/index.html)
 
 [](http://www.copyscape.com/dmca-takedown-notice-search/)
-
-**OPTION MASTERS attains ISO 9001:2008 Certification for Stock Equity and Commodity Research for National & International Market.**
 
 **Copyright © 2008 calloptionputoption.com   All rights reserved. ****Rights of Subscription Reserved.** **  
 **This site can be best viewed in IE 5.0 or above, 1024 x 768 Resolution.
