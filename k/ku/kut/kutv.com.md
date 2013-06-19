@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the kutv.com privacy policy that was archived on 2012-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121127172123id_/http%3A//www.kutv.com/station/legal/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kutv.com privacy policy that was archived on 2013-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130620012744id_/http%3A//kutv.com/station/legal/privacy.shtml) for the most accurate reproduction.*
 
-# KUTV :: Station Info - Privacy Policy
-
-## Privacy Policy
+# KUTV.com |Privacy Policy
 
 **General**  
 The following privacy policy describes what information is collected by KUTV and how that information is used. This privacy policy is effective as of February 8, 2007 and will remain in effect until such date as the policy may be modified by the Station in its sole and absolute discretion. Any such changes will be posted on the Website. Your use of the Website constitutes your agreement to the privacy policy as in effect at that time. 
@@ -25,14 +23,3 @@ All personal information collected by this Website may be disclosed as required 
 
 **Linked Sites**  
 The Website allows certain advertisements/postings which include links to other sites. The Station has no control over such other sites and is not responsible for any content on such linked sites or for the use by such other sites of any information collected by those sites. 
-
-[an error occurred while processing this directive] 
-
-## Forecast
-
-Weather update for the morning of November 27, 2012.  Lots of sunshine is expected today as a ridge of high pressure sits over the Intermountain West.  However, along the Wasatch Front, the valley inversions are locked firmly in place & hazy skies will be the result.  The inversions look like they will stick around for a good majority of the week, not clearing out until at least Thursday or Friday.  Clouds will increase late in the week ahead of our next storm.  That system will impact the region late next weekend and early next week.   \- Lindsay Storrs, 2 News Weather Team.
-
-[an error occurred while processing this directive] 
-
-  
-
