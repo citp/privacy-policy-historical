@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the eucalyptus.com privacy policy that was archived on 2012-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121115235753id_/http%3A//www.eucalyptus.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eucalyptus.com privacy policy that was archived on 2013-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130620012525id_/http%3A//www.eucalyptus.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy | Cloud Computing Software from Eucalyptus
+# Privacy Policy | Build AWS-compatible Private Clouds with Eucalyptus
 
 ## EUCALYPTUS SYSTEMS, INC.
 
-Thank you for your interest in the website located at [www.eucalyptus.com](http://www.eucalyptus.com/ "www.eucalyptus.com") (the "Website") operated and owned by Eucalyptus Systems, Inc. ("Eucalyptus," "we," "our," or "us").
+Thank you for your interest in the website located at [www.eucalyptus.com](http://www.eucalyptus.com/) (the "Website") operated and owned by Eucalyptus Systems, Inc. ("Eucalyptus," "we," "our," or "us").
 
 This Privacy Policy, effective April 30, 2009, describes how personal information that we receive or collect is processed, disclosed and used. By using the Website, you acknowledge your consent to this Privacy Policy. If you do not agree with the terms, please do not use the Website.
 
