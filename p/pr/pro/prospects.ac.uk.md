@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the prospects.ac.uk privacy policy that was archived on 2012-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121208130310id_/http%3A//prospects.ac.uk/graduate_prospects_privacy_statement.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the prospects.ac.uk privacy policy that was archived on 2013-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130619224314id_/http%3A//prospects.ac.uk/graduate_prospects_privacy_statement.htm) for the most accurate reproduction.*
 
 # Privacy statement and cookie information | Prospects.ac.uk
 
@@ -73,3 +73,7 @@ CVs that are registered through the virtual fair may be searched by employers an
 ## 9\. Unsubscribing and disabling your My Prospects account
 
 Unsubscribe from Prospects by following the unsubscribe link in our email communication to you or alternatively go to [unsubscribe](https://web.archive.org/my_prospects_unsubscribe.htm).
+
+## 10\. Subject access request
+
+Please contact us at the above address.
