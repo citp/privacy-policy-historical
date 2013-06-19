@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bidsson.com privacy policy that was archived on 2012-10-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121003032748id_/http%3A//www.bidsson.com/page/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bidsson.com privacy policy that was archived on 2013-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130619232146id_/http%3A//www.bidsson.com/page/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Bidsson LLC
 
