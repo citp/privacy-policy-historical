@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the birst.com privacy policy that was archived on 2012-11-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121112220249id_/http%3A//www.birst.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the birst.com privacy policy that was archived on 2013-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130619231514id_/http%3A//www.birst.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Birst BI
 
