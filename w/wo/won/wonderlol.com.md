@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wonderlol.com privacy policy that was archived on 2012-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121215142304id_/http%3A//www.wonderlol.com/page/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wonderlol.com privacy policy that was archived on 2013-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130619220835id_/http%3A//www.wonderlol.com/page/privacy.html) for the most accurate reproduction.*
 
 # Have Some Fun! Wonder LOL! - Wonder LOL!
 
