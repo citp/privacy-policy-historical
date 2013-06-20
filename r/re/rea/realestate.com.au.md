@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the realestate.com.au privacy policy that was archived on 2012-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120510141622id_/http%3A//www.realestate.com.au/cgi-bin/rsearch%3Fa%3Dv%26t%3Dres%26id%3D587) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the realestate.com.au privacy policy that was archived on 2013-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130620040011id_/http%3A//www.realestate.com.au/cgi-bin/rsearch%3Fa%3Dv%26t%3Dres%26id%3D587) for the most accurate reproduction.*
 
 # Real Estate, Property, Land and Homes for Sale, lease and rent - realestate.com.au
 
 ## Introduction
 
-The www.realestate.com.au web site ("the web site") is operated by realestate.com.au Pty Ltd ("REA"). REA is a subsidiary of REA Group Ltd and operates the web site on behalf of REA Group Ltd and its related companies ("we", "our" and "us" in this Privacy Policy). Click here to view our [contact details](http://www.realestate.com.au/cgi-bin/rsearch?a=v&t=res&id=65 "Contact Us").
+The www.realestate.com.au web site including the realestate.com.au mobile site ("the web site") is operated by realestate.com.au Pty Ltd ("REA"). REA is a subsidiary of REA Group Ltd and operates the web site on behalf of REA Group Ltd and its related companies ("we", "our" and "us" in this Privacy Policy). Click here to view our [contact details](http://www.realestate.com.au/cgi-bin/rsearch?a=v&t=res&id=65 "Contact Us").
 
 The Privacy Policy set out below outlines the manner in which we manage personal information obtained through or displayed on the web site or otherwise provided by real estate agents or visitors to the website. (Personal information obtained through the [www.home-loans.com.au](http://www.home-loans.com.au/) web site of realestate.com.au Home Loans will be managed in accordance with the Privacy and Legal statement contained on that web site.) By using the web site, or entering into an agreement with us in relation to the web site or any of our other web sites (eg to list a property or advertise on the web site) you are taken to have read, and agreed to the collection, use, disclosure and handling of your personal information in accordance with, this Privacy Policy. This Privacy Policy is in addition to any other terms and conditions applicable to the web site. Specific privacy terms contained in any documents made available by us should be read together with this Privacy Policy.
 
@@ -31,7 +31,7 @@ For more information about privacy issues in Australia and protecting your priva
 
 In order to provide you with services, answer your enquiries, deal with your requests or improve the services we offer you, we may collect and process the following personal information about you:
 
-  * Information, such as your name, email and other contact details (including information that you provide by filling in forms on the web site). This includes information provided at the time of registering to use the web site, subscribing to our service, posting material, requesting further services or applying for credit. We may also ask you for personal information if you report a problem with the web site. 
+  * Information, such as your name, email and other contact details (including information that you provide by filling in forms on the web site). This includes information provided at the time of registering to use the web site, including registering or logging into our website via your social networking site (“SNS”) account and any information provided by that SNS to enable you to register or log into our website and use the requested service from time to time, subscribing to our service, posting material, requesting further services or applying for credit. We may also ask you for personal information if you report a problem with the web site. 
   * If you contact us, we may keep a record of that correspondence. 
   * We may also ask you to complete surveys that we use for research purposes, although you do not have to respond to them. 
   * Details of transactions you carry out through the web site. 
@@ -49,6 +49,7 @@ We may use personal information in the following ways:
   * To ensure that content from the web site is presented in the most effective manner for you and for your computer.
   * To provide a better service to you, for instance by automatically populating forms on the web site by which you make enquiries of selected estate agents. 
   * To provide you with service information, products or services that you request from us.
+  * To verify your identity when you register or log into our web site via your SNS account.
   * We may (1) use personal information held about you to provide you with information about offers, promotions, goods or services, which we believe may be of interest to you and (2) share your information with our service providers and other third parties so that they can contact you directly about their offers, promotions, goods or services. If we do use your personal information in these ways, we will always give you the opportunity to request that your information not be used for further direct marketing in the future.
   * To allow you to participate in interactive features of our service, when you choose to do so. 
   * To notify you about changes to our service and remind you of your password and username.
