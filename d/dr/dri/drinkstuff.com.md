@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the drinkstuff.com privacy policy that was archived on 2012-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121101134236id_/http%3A//www.drinkstuff.com/policies.asp%3Fmode%3Dfooter) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the drinkstuff.com privacy policy that was archived on 2013-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130621003432id_/http%3A//www.drinkstuff.com/policies.asp%3Fmode%3Dfooter) for the most accurate reproduction.*
 
 # Privacy & Security Policies | Drinkstuff.com
 
@@ -12,7 +12,7 @@ When you visit, register or order products or services on www.drinkstuff.com you
 
 To maintain customer service standards and to assist staff training, we may record and monitor incoming calls.
 
-At Drinkstuff we check all orders for security purposes using a number of means, some of which involve outside sources such as the Electoral Role.
+At drinkstuff, we check all orders for security purposes using a number of means, some of which involve outside sources such as the Electoral Role.
 
 #### What we do with your information
 
@@ -25,6 +25,8 @@ We send out a monthly email newsletter and an occasional smaller email with spec
 Your email address is used for logging into your account and for contact between yourself and drinkstuff.com (new order emails, newsletters) only. We will not pass any of your details onto a 3rd party company other than the information required to deliver your orders for our couriers.
 
 If our business enters into a joint venture with or is sold to or merged with another business entity, your information may be disclosed to our new business partners or owners.
+
+All customer data and order history is available online from the "My account" and may be corrected, blocked or deleted by request. Please contact our customer services team for assistance.
 
 Cookies are small pieces of information that are stored on your computer's hard drive by your browser. These allow us to store your account information and provide features to make your shopping on our website easier.
 
