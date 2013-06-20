@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the roanoke.edu privacy policy that was archived on 2012-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121221023847id_/http%3A//roanoke.edu/x28182.xml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the roanoke.edu privacy policy that was archived on 2013-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130621001540id_/http%3A//roanoke.edu/x28182.xml) for the most accurate reproduction.*
 
 # Privacy Policy - Roanoke College - Salem, Virginia
 
@@ -34,5 +34,3 @@ We reserve the right to contact you without prior notice through the use of emai
 ### External Links 
 
 Our website may provide links to other websites or resources.We do not contact these sites and resources, we do not endorse them, and we are not responsible for their availability, content or delivery of services.In particular, external sites are not bound by the College's online privacy policy; they may have their own or none at all.Since we cannot guarantee the same level of privacy and security of these sites, we recommend that you read their privacy policies, which may differ from ours.
-
-�
