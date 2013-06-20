@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the medtronic.com privacy policy that was archived on 2012-10-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121003214220id_/http%3A//www.medtronic.com/statements/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the medtronic.com privacy policy that was archived on 2013-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130620160409id_/http%3A//www.medtronic.com/statements/privacy.htm) for the most accurate reproduction.*
 
 # Privacy Statement
 
