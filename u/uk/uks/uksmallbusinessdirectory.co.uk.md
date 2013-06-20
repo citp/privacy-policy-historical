@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the uksmallbusinessdirectory.co.uk privacy policy that was archived on 2012-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121227085043id_/http%3A//www.uksmallbusinessdirectory.co.uk/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the uksmallbusinessdirectory.co.uk privacy policy that was archived on 2013-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130620114042id_/http%3A//www.uksmallbusinessdirectory.co.uk/privacy.htm) for the most accurate reproduction.*
 
 # UK Small Business Directory - privacy policy
 
@@ -78,6 +78,8 @@ We use third-party advertising companies to serve ads when you visit our website
 Google, as a third party vendor, uses cookies to serve ads on our site. Google's use of the [DART cookie](http://www.doubleclick.com/privacy/faq.aspx) enables it to serve ads to our users based on their visit to our sites and other sites on the Internet. Users may opt out of the use of the DART cookie by visiting the [Google ad and content network privacy policy](http://www.google.com/privacy_ads.html). 
 
 The search box on this web site ("Search Box") is powered by Google Inc ("Google"). You acknowledge and agree that Google's privacy policy (located at <http://www.google.co.uk/privacy.html>) shall apply to your use of the Search Box and by using the Search Box you consent to Google using your personal data in accordance with its privacy policy. 
+
+The Comment System on this web site ("Comment System") is powered by Google Inc ("Google"). You acknowledge and agree that Google's privacy policy (located at <http://www.google.co.uk/privacy.html>) shall apply to your use of the Comment System and by using the Comment System you consent to Google using your personal data in accordance with its privacy policy. 
 
 ### How to reject cookies
 
