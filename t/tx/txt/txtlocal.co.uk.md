@@ -1,8 +1,30 @@
-> *The following text is extracted and transformed from the txtlocal.co.uk privacy policy that was archived on 2012-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121209055104id_/http%3A//www.textlocal.com/terms/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the txtlocal.co.uk privacy policy that was archived on 2013-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130620090211id_/http%3A//www.textlocal.com/privacy) for the most accurate reproduction.*
 
-# Terms and Conditions - Privacy
+# Terms and Conditions by TextLocal Privacy Policy
 
-## Controllers of Personal Information
+[**Sign Up Free**  
+ **Full Access - Free Credits**  
+ **Takes 60 Seconds**](https://web.archive.org/signup)
+
+### Our price promise
+
+We will match or beat any similar price offer.
+
+[Find out more](https://web.archive.org/uk-and-international-sms-text-prices)
+
+### Account Management
+
+Save time through our management services.
+
+[Find out more](https://web.archive.org/mobile-marketing-account-management)
+
+### Download our brochure
+
+Find out more about Textlocal and how we can help you.
+
+[Download](https://web.archive.org/mobile-marketing-guides/free-reports-and-guides)
+
+## Legal Information
 
 Any personal information provided to Textlocal.com (Textlocal) is controlled primarily by Txtlocal Ltd.
 
@@ -66,11 +88,9 @@ Txtlocal does not claim ownership of Content you submit or make available for in
 
 Txtlocal will never resell your stored data. Your personal details, your uploaded contact information, your captured mobile numbers will all be kept safe on our secure servers housed at Rackspace in Docklands, London. If we were to resell your data we would damage our hard earned reputation and lose all our customers. We do everything possible to keep your data safe and secure.
 
-It is Your responsibility to read and accept the [Terms & Conditions](http://www.textlocal.com/terms) which are associated with this Privacy Policy.
+It is Your responsibility to read and accept the [Terms & Conditions](https://web.archive.org/terms) which are associated with this Privacy Policy.
 
-### Notices
-
-General notices regarding the Service are posted on www.Textlocal.co.uk or www.Textlocal.com or the Txtlocal partner websites or Your mobile operator’s web or WAP site if they are offering the Txtlocal Services (as applicable).
+General notices regarding the Service are posted on www.textlocal.co.uk or www.textlocal.com or the Txtlocal partner websites or Your mobile operator’s web or WAP site if they are offering the Txtlocal Services (as applicable).
 
 Inquiries from You may be sent to contact@txtlocal.com or through the Support area of the Web site.
 
