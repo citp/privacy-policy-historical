@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ama-assn.org privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231223320id_/http%3A//www.ama-assn.org/ama/pub/footer/privacy-policy.page) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ama-assn.org privacy policy that was archived on 2013-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130620141312id_/http%3A//www.ama-assn.org/go/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy
 
