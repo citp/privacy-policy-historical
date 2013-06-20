@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vitalfootball.co.uk privacy policy that was archived on 2012-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121223121656id_/http%3A//www.vitalfootball.co.uk/privacypolicy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vitalfootball.co.uk privacy policy that was archived on 2013-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130620090303id_/http%3A//www.vitalfootball.co.uk/privacypolicy.asp) for the most accurate reproduction.*
 
 # UK Football News, Results and Forums.
 
@@ -27,4 +27,11 @@ We are not responsible for any actions or privacy policies used by these third p
 
 If you divulge personal information on the forums that information can be collected by third parties and used to contact you, we assume no responsibility for this and have no control at all.
 
+  
+
+
 We are registered with and comply with the terms set out in the Data Protection Act. 
+
+**Cookie Policy**
+
+At Vital Football, we along with most other modern websites use small files called 'cookies' to create the most secure, effective and functional website possible for our users. Without these files our business model, based on advertising, breaks down and we would be unable to continue to provide the services that you are here to utilise. By continuing to use this website after seeing this message, you consent to our use of cookies on this device unless you have disabled them. For full details please read our Cookie Policy which can be found here. However, if you would like to disable cookies on this device, please view our Cookie Policy which contains an opt-out tool for disabling advertising cookies. Please also visit our information pages on 'How to manage cookies' if you would also like to block all other types of cookies. Please be aware that parts of this site will not function correctly if you disable cookies.
