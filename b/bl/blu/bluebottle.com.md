@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bluebottle.com privacy policy that was archived on 2012-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121230222415id_/http%3A//www.bluebottle.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bluebottle.com privacy policy that was archived on 2013-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130620142315id_/http%3A//bluebottle.com/privacy.php) for the most accurate reproduction.*
 
 # Bluebottle Email: Privacy
 
@@ -6,13 +6,13 @@
 
 "Your email service is the best one of all. There is no other better spam provider other than yours.... TRULY THE BEST..." - **Jainam S,**
 
-"I just wanted to say a big 'Thank you!' to everyone who is working hard to maintain and improve your services." - **Thomas B,**
+"Your mail service is fine and so nice." - **Satish K,**
 
-"Thank you very much for providing this excellent service." - **Ricardo I,**
+"I love your services specially your spam blocker, pending feature, recipient security, and POP3 service." - **Jayzon R,**
 
-"I've been using your service for a few months now, and I've been pretty happy with it. In fact, I'm happy enough to upgrade to Bluebottle Premium." - **_Bob K_**
+"A great service! The best free e-mail provider around!"- **_Connagh_**
 
-"I have to say that your service is remarkable!" - **_Mario S_**
+"Your email service is the best one of all. There is no other better spam protector than yours.... TRULY THE BEST." - **_Jainam S_**
 
 ##  Bluebottle - the Only Anti-Spam solution you will ever need
 
