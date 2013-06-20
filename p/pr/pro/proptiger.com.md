@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the proptiger.com privacy policy that was archived on 2012-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121223045347id_/http%3A//www.proptiger.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the proptiger.com privacy policy that was archived on 2013-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130620222218id_/http%3A//www.proptiger.com/privacy_policy.php) for the most accurate reproduction.*
 
-# proptiger.com - Residential Propeties in India
+# Privacy Policy - Proptiger.com
 
 This Privacy policy is subject to the terms of the Site Policy (User agreement) of this website.
 
@@ -21,3 +21,5 @@ You agree that proptiger may use your personal information to contact you and de
 All proptiger websites including this website fully comply with all Indian Laws applicable. proptiger has always cooperated with all law enforcement inquires. proptiger may disclose all or part of your personal details in response to a request from the law enforcement authorities or in a case of bonafide requirement to prevent an imminent breach of the law.
 
 proptiger has taken all reasonable steps to ensure that information on this site is authentic. Users are advised to research bonafides of advertisers independently. proptiger shall not have any responsibility in this regard. We also recommend that you visit link to User agreement/Disclaimer for more comprehensive information on this aspect.
+
+PropTiger has implemented and uses Display Advertising. PropTiger is using Remarketing with Google Analytics to advertise online. You can opt-out of Google Analytics for Display Advertising and customize Google Display Network ads using the Ads Preferences Manager. Third-party vendors, including Google, show our ads on sites across the Internet. We and third-party vendors, including Google, use first-party cookies (such as the Google Analytics cookies) and third-party cookies (such as the DoubleClick cookie) together to inform, optimize, and serve ads based on someone's past visits to our website. 
