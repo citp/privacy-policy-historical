@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the champssports.com privacy policy that was archived on 2012-12-07.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121207123237id_/http%3A//www.champssports.com/customerserv/help%3AprivacyPolicy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the champssports.com privacy policy that was archived on 2013-06-20.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130620133205id_/http%3A//www.champssports.com/customerserv/help%3AprivacyPolicy) for the most accurate reproduction.-->
 
 <html xmlns:fb="http://www.facebook.com/2008/fbml"><head><script language="JavaScript">
 function openBMLWindow(url,height) {
@@ -21,20 +21,18 @@ function openInvestWin(url) {
 
 
 
-<!-- -->
 
+<script type="text/javascript" src="/images/common/jquery/jquery.latest.js"></script>
 
 <script type="text/javascript" src="/ns/common/coradiant/tsedge_instr-min.js"> </script>
-<!-- web-46 -->
+<!-- web-11 -->
 <meta name="msvalidate.01" content="EDC57CBB5433904007B934915238FE4A">
 
 
-	<meta http-equiv="published" content="Friday, December 7, 2012 6:32:36">
+	<meta http-equiv="published" content="Thursday, June 20, 2013 8:32:05">
 
 	
-
-	<script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jquery/1.7/jquery.min.js"></script>
-
+	
 	<script type="text/javascript" src="/combine?type=js&amp;files=shared/scripts/jquery.bgiframe.pack.js,shared/scripts/ajax.js,shared/scripts/common.js,shared/search/scripts/sizesearch.js"></script>
 
 	
@@ -48,55 +46,43 @@ function openInvestWin(url) {
 	</script>
 
 	
-	<script type="text/javascript" src="http://www.champssports.com/shared/wishlist/wl_sharedWishList.js"></script>
-	
 	<script>
 	var wishlistpostCardURL = 'https://www.champssports.com/wishlist/wl_postcard.cfm';
 	var wishlistmailSender  = 'https://www.champssports.com/wishlist/wl_mailSender.cfm';
-	var dsnname = 'pro-cs-lb';
+	var dsnname = 'PRO-CS-LB-ALT';
 	
 		var microsite = '';
 	
 		var doCoreMetrix = true;	
 	
 	</script>
-	<style type="text/css">
-			@import "http://www.champssports.com/shared/wishlist/wl_sharedWishList.css";
-			.loading {
-				background: transparent url(http://www.champssports.com/images/cs/quickview/quickview_loader.gif) center no-repeat;
-			}
-	</style>
+	
+	<script type="text/javascript" src="https://app.salecycle.com/capture/CHAMPSSPORTS.js"></script></head><body style="background: #d5d7d6 url(http://www.champssports.com/images/cs/topnav/Wide/champs_site_bkg2.jpg) top center repeat-y"><ignoreurlreformat>
+		
 
-<script type="text/javascript" src="https://app.salecycle.com/capture/CHAMPSSPORTS.js"></script></head><body style="background: #d5d7d6 url(http://www.champssports.com/images/cs/topnav/Wide/champs_site_bkg2.jpg) top center repeat-y"><ignoreurlreformat>
-	<script type="text/javascript">
-		
-			var login_template_path = "http://www.champssports.com/login/login.cfm?secured=false&bv_RR_enabled=false&bv_AA_enabled=false&bv_JS_enabled=true&ignorebv=false";
-		
-		var register_url = "https://www.champssports.com/account/default.cfm?action=accountCreate";
-    </script> 
-	<script type="text/javascript" src="http://www.champssports.com/shared/myAccount/login.js"></script>
-    <link href="http://www.champssports.com/shared/myAccount/login.css" rel="stylesheet" type="text/css">
-</ignoreurlreformat>
+		<script type="text/javascript">
+			
+				var login_template_path = "http://www.champssports.com/login/login.cfm?secured=false&bv_RR_enabled=false&bv_AA_enabled=false&bv_JS_enabled=true&ignorebv=false";
+			
+			var register_url = "https://www.champssports.com/account/default.cfm?action=accountCreate";
+	    </script>
+
+	    
+	</ignoreurlreformat>
 
 	<script type="text/javascript">
         $(document).ready(function() {
             $(".loginRequired").each(initializeLoginRequired);
         });
     </script> 
-<style type="text/css">
-	.hideUntilLoaded {
-		display: none;
-	}
-	.showUntilLoaded {
-		display: block;
-	}
-</style>
+
 <script type="text/javascript">
 	$(document).ready(function() {
 		$(".showUntilLoaded").hide();
 		$(".hideUntilLoaded").show();
 	});
-</script> 
+</script>
+
 <script language="javascript">
 <!--
 		function updateWelcome (coremetricsEventId, CoremetricsCategoryId) {
@@ -126,6 +112,12 @@ function openInvestWin(url) {
 		
 			var ret_val= $.ajax({ type: "GET", url: logoutPath, data: {Next: escape(thisurl)}, async: false, cache : false }).responseText;
 			eraseCookie('BAZAARVOICEUSER');
+
+			//revmove any URL params after logout only if in shopping cart
+			if(thisurl.indexOf("shoppingcart/default.cfm") !== -1){
+				thisurl = thisurl.substring(0, thisurl.indexOf('?'));
+			}
+
 			window.location=thisurl;
 		}
 		
@@ -133,11 +125,7 @@ function openInvestWin(url) {
 </script>
 
 	<script type="text/javascript" src="/combine?type=js&amp;files=shared/endeca/js/bsn.AutoSuggest_2.1.3.js" charset="utf-8"></script>
-    <style type="text/css">
-		@import url("http://www.champssports.com/shared/endeca/css/autosuggest_inquisitor.css");
-		@import url("http://www.champssports.com/endeca/autosuggest.css");
-	</style>
-        
+	    
 	<ignoreurlreformat>
     <script type="text/javascript">
 		var advancedSearchShouldSubmit = false;
@@ -171,9 +159,27 @@ function openInvestWin(url) {
     </script>
 	</ignoreurlreformat>
 
+    		<script type="text/javascript" src="/combine?type=js&amp;files=shared/wishlist/wl_sharedWishList.js,shared/myAccount/login.js"></script>
+    	
 
 
-<style type="text/css">
+                	<style type="text/css">
+				@import '/combine?type=css&files=/css/typography.css,/css/style.css,/css/default_template.css,shared/storepickup/style.css,/storepickup/style.css,shared/wishlist/wl_sharedWishList.css,shared/myAccount/login.css,shared/endeca/css/autosuggest_inquisitor.css,/endeca/autosuggest.css';
+                	</style>
+		
+                	<style type="text/css">
+				
+			.loading {
+				background: transparent url(http://www.champssports.com/images/cs/quickview/quickview_loader.gif) center no-repeat;
+			}
+	
+	.hideUntilLoaded {
+		display: none;
+	}
+	.showUntilLoaded {
+		display: block;
+	}
+
 	div.autosuggest ul em {
 		color: #86aed1;
 	}
@@ -197,15 +203,11 @@ function openInvestWin(url) {
 		font-size: 14px;
 		font-weight: normal;
 	}	
-</style> 
 
-
-                <style type="text/css">
-					@import 'http://www.champssports.com/css/typography.css'; @import 'http://www.champssports.com/css/style.css'; @import 'http://www.champssports.com/css/default_template.css'; @import 'http://www.champssports.com/shared/storepickup/style.css'; @import 'http://www.champssports.com/storepickup/style.css'; 
-                </style>
-            
-                <style type="text/css">
-					@import 'http://t.p.mybuys.com/css/mbstyles.css'; 
+                	</style>
+		
+                	<style type="text/css">
+				@import 'http://t.p.mybuys.com/css/mbstyles.css'; 
 	.checkout_step {
 		height: 35px;
 		background-color: transparent;
@@ -225,8 +227,8 @@ function openInvestWin(url) {
 		background-image: url(http://www.champssports.com/images/cs/checkout/header-receipt.gif);
 	}	
 
-                </style>
-            
+                	</style>
+		
 <script language="javascript1.1" src="//libs.coremetrics.com/eluminate.js" type="text/javascript"></script>
 
 <script language="javascript1.1" src="http://www.champssports.com/coremetrics/cmdatatagutils.js" type="text/javascript"></script>
@@ -255,8 +257,9 @@ function openInvestWin(url) {
 	
             <style type="text/css">
                 </style>
+<link rel="stylesheet" href="/images/common/css/global-styles.css">
 <script src="//cdn.optimizely.com/js/82719230.js"></script>
-<link rel="stylesheet" type="text/css" href="//www.champssports.com/ns/css/cs-master-combine.css">
+<link rel="stylesheet" type="text/css" href="//www.champssports.com/ns/css/cs-master-combine-20130218.css">
 <link rel="stylesheet" type="text/css" href="//www.champssports.com/ns/shadowbox/shadowbox.css">
 <style>
 table#promo_container, table#main, #custserv {margin:10px 0 0 0 !important}
@@ -629,11 +632,11 @@ body {
 <!-- start search -->    
 	<div class="head-search-field-bg">&nbsp;</div>
     <div class="head-search-box">
-        <form name="keywordSearch" action="/catalog/advancedSearch.cfm" method="get">
+        <form name="keywordSearch" action="javascript:void(0);" method="">
             <input type="hidden" name="module" value="topnav">
             <input type="hidden" name="action" value="keywordsearch">
             <input type="hidden" name="search" value="k">
-            <input type="text" id="reduce_input_text_height" name="keyword" size="15" maxlength="40" value="KEYWORD/PRODUCT#" onfocus="this.style.color=&quot;#666&quot;;this.value=&quot;&quot;;">
+            <input type="text" id="reduce_input_text_height" name="keyword" size="15" maxlength="40" value="KEYWORD/PRODUCT#" onfocus="this.style.color=&quot;#666&quot;;this.value=&quot;&quot;;" autocomplete="off">
             <div class="head-search-btn"><a href="#" onclick="submitKeywordSearch();"><img src="//www.champssports.com/images/cs/global/pixel.gif" border="0" height="35" width="35" alt="Go"></a></div>
         </form>    
         <script type="text/javascript" src="/ns/common/js/keyword-search.js"></script>         
@@ -656,115 +659,113 @@ body {
     <div onmouseover="openTab(this, 'navButtonShoes');" onmouseout="closeTab(this);">
         <ul>
             <li>
-                <div class="navBtn navButtonShoes"><a href="http://www.champssports.com/Shoes/?cm_sp=Header-_-Category-_-Shoes" title="Athletic Shoes"><img src="//www.champssports.com/images/fl/global/pixel.gif" alt="Shoes" width="71" height="37" border="0"><span>Shoes</span></a></div>
+                <div class="navBtn navButtonShoes"><a href="http://www.champssports.com/Shoes/_-_/N-rj" manual_cm_sp="Header-_-Category-_-Shoes" title="Athletic Shoes"><img src="//www.champssports.com/images/fl/global/pixel.gif" alt="Shoes" width="71" height="37" border="0"><span>Shoes</span></a></div>
                 <div class="sticker_menu menu_size_shoes">
                     <div class="sticker_menu_inner">
                     
                         <div class="dd_column spec_wide">
-                            <p><a href="http://www.champssports.com/_-_/keyword-mens+shoes?cm_sp=TopNav-_-Shoes-_-Shoesmensshoes&amp;cm=TnDdshoesmensshoes" title="Men's Shoes">MEN'S</a></p>
+                            <p><a href="http://www.champssports.com/Mens/Shoes/_-_/N-24Zrj" manual_cm_sp="TopNav-_-Shoes-_-Shoesmensshoes&amp;cm=TnDdshoesmensshoes&quot;" title="Men's Shoes">MEN'S</a></p>
                             <ul>
-                                <li><a href="http://www.champssports.com/_-_/N-1z141xe/keyword-mens+shoes?cm_REF=New+Arrivals&amp;cm_sp=TopNav-_-Shoes-_-Shoesmensnewarrivals&amp;cm=TnDdshoesmensnewarrivals" title="New Arrivals - Men's Shoes">New Arrivals</a></li>
-                                <li><a href="http://www.champssports.com/_-_/keyword-mens+basketball+shoes?cm_sp=TopNav-_-Shoes-_-Shoesmensbasketballshoes&amp;cm=TnDdshoesmensbasketballshoes" title="Men's Basketball Shoes">Basketball Shoes</a></li>
-                                <li><a href="http://www.champssports.com/_-_/keyword-mens+boots?cm_sp=TopNav-_-Shoes-_-Shoesmensboots&amp;cm=TnDdshoesmensboots" title="Men's Boots">Boots</a></li>
-                                <li><a href="http://www.champssports.com/_-_/keyword-mens+casual+shoes?cm_sp=TopNav-_-Shoes-_-Shoesmenscasualshoes&amp;cm=TnDdshoesmenscasualshoes" title="Men's Casual Shoes">Casual Shoes</a></li>
-                                <li><a href="http://www.champssports.com/_-_/keyword-mens+running+shoes?cm_sp=TopNav-_-Shoes-_-Shoesmensrunningshoes&amp;cm=TnDdshoesmensrunningshoes" title="Men's Running Shoes">Running Shoes</a></li>
-                                <li><a href="http://www.champssports.com/_-_/keyword-mens+sandals?cm_sp=TopNav-_-Shoes-_-Shoesmenssandals&amp;cm=TnDdshoesmenssandals" title="Men's Sandals">Sandals &amp; Slides</a></li>
-                                <li><a href="http://www.champssports.com/_-_/keyword-mens+training+shoes?cm_sp=TopNav-_-Shoes-_-Shoesmenstrainingshoes&amp;cm=TnDdshoesmenstrainingshoes" title="Men's Training Shoes">Training Shoes</a></li>
-                                <li><a href="http://www.champssports.com/_-_/keyword-sale+mens+shoes?cm_sp=TopNav-_-Shoes-_-Shoessalemensshoes&amp;cm=TnDdshoessalemensshoes" title="Sale Men's Shoes">Sale</a></li>
+                                <li><a href="http://www.champssports.com/Mens/Shoes/_-_/N-24ZrjZ1z141xe" manual_cm_sp="TopNav-_-Shoes-_-Shoesmensnewarrivals&amp;cm=TnDdshoesmensnewarrivals" title="New Arrivals - Men's Shoes">New Arrivals</a></li>
+                                <li><a href="http://www.champssports.com/Mens/Basketball/Shoes/_-_/N-24ZfmZrj" manual_cm_sp="TopNav-_-Shoes-_-Shoesmensbasketballshoes&amp;cm=TnDdshoesmensbasketballshoes" title="Men's Basketball Shoes">Basketball Shoes</a></li>
+                                <li><a href="http://www.champssports.com/Mens/Boots/_-_/N-24Zhb" manual_cm_sp="TopNav-_-Shoes-_-Shoesmensboots&amp;cm=TnDdshoesmensboots" title="Men's Boots">Boots</a></li>
+                                <li><a href="http://www.champssports.com/Mens/Casual/Shoes/_-_/N-24ZfeZrj" manual_cm_sp="TopNav-_-Shoes-_-Shoesmenscasualshoes&amp;cm=TnDdshoesmenscasualshoes" title="Men's Casual Shoes">Casual Shoes</a></li>
+                                <li><a href="http://www.champssports.com/Mens/Running/Shoes/_-_/N-24Zf9Zrj" manual_cm_sp="TopNav-_-Shoes-_-Shoesmensrunningshoes&amp;cm=TnDdshoesmensrunningshoes" title="Men's Running Shoes">Running Shoes</a></li>
+                                <li><a href="http://www.champssports.com/Mens/Sandals/_-_/N-24Zi3" manual_cm_sp="TopNav-_-Shoes-_-Shoesmenssandals&amp;cm=TnDdshoesmenssandals" title="Men's Sandals">Sandals &amp; Slides</a></li>
+                                <li><a href="http://www.champssports.com/Mens/Training/Shoes/_-_/N-24ZfhZrj" manual_cm_sp="TopNav-_-Shoes-_-Shoesmenstrainingshoes&amp;cm=TnDdshoesmenstrainingshoes" title="Men's Training Shoes">Training Shoes</a></li>
+                                <li><a href="http://www.champssports.com/Sale/Mens/Shoes/_-_/N-1z141ydZ24Zrj" manual_cm_sp="TopNav-_-Shoes-_-Shoessalemensshoes&amp;cm=TnDdshoessalemensshoes" title="Sale Men's Shoes">Sale</a></li>
 							</ul>
                         </div>
                         
                         <div class="drop_shoe_size">
                         	<p>Shop by Size</p>
                         	<ul>
-                            	<li><a href="http://www.champssports.com/_-_/keyword-mens+shoes/?size=06.0&amp;cm_sp=TopNav-_-Shoes-_-Shoesmenssize6.0&amp;cm=TnDdshoesmenssize6.0" title="6">6</a></li>
-                                <li><a href="http://www.champssports.com/_-_/keyword-mens+shoes/?size=06.5&amp;cm_sp=TopNav-_-Shoes-_-Shoesmenssize6.5&amp;cm=TnDdshoesmenssize6.5" title="6.5">6.5</a></li>
-                                <li><a href="http://www.champssports.com/_-_/keyword-mens+shoes/?size=07.0&amp;cm_sp=TopNav-_-Shoes-_-Shoesmenssize7.0&amp;cm=TnDdshoesmenssize7.0" title="7">7</a></li>
-                                <li><a href="http://www.champssports.com/_-_/keyword-mens+shoes/?size=07.5&amp;cm_sp=TopNav-_-Shoes-_-Shoesmenssize7.5&amp;cm=TnDdshoesmenssize7.5" title="7.5">7.5</a></li>
-                                <li><a href="http://www.champssports.com/_-_/keyword-mens+shoes/?size=08.0&amp;cm_sp=TopNav-_-Shoes-_-Shoesmenssize8.0&amp;cm=TnDdshoesmenssize8.0" title="8">8</a></li>
-                                <li><a href="http://www.champssports.com/_-_/keyword-mens+shoes/?size=08.5&amp;cm_sp=TopNav-_-Shoes-_-Shoesmenssize8.5&amp;cm=TnDdshoesmenssize8.5" title="8.5">8.5</a></li>
-                                <li><a href="http://www.champssports.com/_-_/keyword-mens+shoes/?size=09.0&amp;cm_sp=TopNav-_-Shoes-_-Shoesmenssize9.0&amp;cm=TnDdshoesmenssize9.0" title="9">9</a></li>
-                                <li><a href="http://www.champssports.com/_-_/keyword-mens+shoes/?size=09.5&amp;cm_sp=TopNav-_-Shoes-_-Shoesmenssize9.5&amp;cm=TnDdshoesmenssize9.5" title="9.5">9.5</a></li>
-                                <li><a href="http://www.champssports.com/_-_/keyword-mens+shoes/?size=10.0&amp;cm_sp=TopNav-_-Shoes-_-Shoesmenssize10.0&amp;cm=TnDdshoesmenssize10.0" title="10">10</a></li>
-                                <li><a href="http://www.champssports.com/_-_/keyword-mens+shoes/?size=10.5&amp;cm_sp=TopNav-_-Shoes-_-Shoesmenssize10.5&amp;cm=TnDdshoesmenssize10.5" title="10.5">10.5</a></li>
-                                <li><a href="http://www.champssports.com/_-_/keyword-mens+shoes/?size=11.0&amp;cm_sp=TopNav-_-Shoes-_-Shoesmenssize11.0&amp;cm=TnDdshoesmenssize11.0" title="11">11</a></li>
-                                <li><a href="http://www.champssports.com/_-_/keyword-mens+shoes/?size=11.5&amp;cm_sp=TopNav-_-Shoes-_-Shoesmenssize11.5&amp;cm=TnDdshoesmenssize11.5" title="11.5">11.5</a></li>
-                                <li><a href="http://www.champssports.com/_-_/keyword-mens+shoes/?size=12.0&amp;cm_sp=TopNav-_-Shoes-_-Shoesmenssize12.0&amp;cm=TnDdshoesmenssize12.0" title="12">12</a></li>
-                                <li><a href="http://www.champssports.com/_-_/keyword-mens+shoes/?size=12.5&amp;cm_sp=TopNav-_-Shoes-_-Shoesmenssize12.5&amp;cm=TnDdshoesmenssize12.5" title="12.5">12.5</a></li>
-                                <li><a href="http://www.champssports.com/_-_/keyword-mens+shoes/?size=13.0&amp;cm_sp=TopNav-_-Shoes-_-Shoesmenssize13.0&amp;cm=TnDdshoesmenssize13.0" title="13">13</a></li>
-                                <li><a href="http://www.champssports.com/_-_/keyword-mens+shoes/?size=13.5&amp;cm_sp=TopNav-_-Shoes-_-Shoesmenssize13.5&amp;cm=TnDdshoesmenssize13.5" title="13.5">13.5</a></li>
-                                <li><a href="http://www.champssports.com/_-_/keyword-mens+shoes/?size=14.0&amp;cm_sp=TopNav-_-Shoes-_-Shoesmenssize14.0&amp;cm=TnDdshoesmenssize14.0" title="14">14</a></li>
-                                <li><a href="http://www.champssports.com/_-_/keyword-mens+shoes/?size=14.5&amp;cm_sp=TopNav-_-Shoes-_-Shoesmenssize14.5&amp;cm=TnDdshoesmenssize14.5" title="14.5">14.5</a></li>
-                                <li><a href="http://www.champssports.com/_-_/keyword-mens+shoes/?size=15.0&amp;cm_sp=TopNav-_-Shoes-_-Shoesmenssize15.0&amp;cm=TnDdshoesmenssize15.0" title="15">15</a></li>
-                                <li><a href="http://www.champssports.com/_-_/keyword-mens+shoes/?size=15.5&amp;cm_sp=TopNav-_-Shoes-_-Shoesmenssize15.5&amp;cm=TnDdshoesmenssize15.5" title="15.5">15.5</a></li>
-                                <li><a href="http://www.champssports.com/_-_/keyword-mens+shoes/?size=16.0&amp;cm_sp=TopNav-_-Shoes-_-Shoesmenssize16.0&amp;cm=TnDdshoesmenssize16.0" title="16">16</a></li>
-                                <li><a href="http://www.champssports.com/_-_/keyword-mens+shoes/?size=17.0&amp;cm_sp=TopNav-_-Shoes-_-Shoesmenssize17.0&amp;cm=TnDdshoesmenssize17.0" title="17">17</a></li>
-                                <li><a href="http://www.champssports.com/_-_/keyword-mens+shoes/?size=18.0&amp;cm_sp=TopNav-_-Shoes-_-Shoesmenssize18.0&amp;cm=TnDdshoesmenssize18.0" title="18">18</a></li>
+                            	<li><a href="http://www.champssports.com/Shoes/_-_/N-rjZ6m" manual_cm_sp="TopNav-_-Shoes-_-Shoesmenssize6.0&amp;cm=TnDdshoesmenssize6.0" title="6">6</a></li>
+                                <li><a href="http://www.champssports.com/Shoes/_-_/N-rjZ8m" manual_cm_sp="TopNav-_-Shoes-_-Shoesmenssize6.5&amp;cm=TnDdshoesmenssize6.5" title="6.5">6.5</a></li>
+                                <li><a href="http://www.champssports.com/Shoes/_-_/N-rjZ4z" manual_cm_sp="TopNav-_-Shoes-_-Shoesmenssize7.0&amp;cm=TnDdshoesmenssize7.0" title="7">7</a></li>
+                                <li><a href="http://www.champssports.com/Shoes/_-_/N-rjZbh" manual_cm_sp="TopNav-_-Shoes-_-Shoesmenssize7.5&amp;cm=TnDdshoesmenssize7.5" title="7.5">7.5</a></li>
+                                <li><a href="http://www.champssports.com/Shoes/_-_/N-rjZ59" manual_cm_sp="TopNav-_-Shoes-_-Shoesmenssize8.0&amp;cm=TnDdshoesmenssize8.0" title="8">8</a></li>
+                                <li><a href="http://www.champssports.com/Shoes/_-_/N-rjZdd" manual_cm_sp="TopNav-_-Shoes-_-Shoesmenssize8.5&amp;cm=TnDdshoesmenssize8.5" title="8.5">8.5</a></li>
+                                <li><a href="http://www.champssports.com/Shoes/_-_/N-rjZ5w" manual_cm_sp="TopNav-_-Shoes-_-Shoesmenssize9.0&amp;cm=TnDdshoesmenssize9.0" title="9">9</a></li>
+                                <li><a href="http://www.champssports.com/Shoes/_-_/N-rjZca" manual_cm_sp="TopNav-_-Shoes-_-Shoesmenssize9.5&amp;cm=TnDdshoesmenssize9.5" title="9.5">9.5</a></li>
+                                <li><a href="http://www.champssports.com/Shoes/_-_/N-rjZ5v" manual_cm_sp="TopNav-_-Shoes-_-Shoesmenssize10.0&amp;cm=TnDdshoesmenssize10.0" title="10">10</a></li>
+                                <li><a href="http://www.champssports.com/Shoes/_-_/N-rjZ2s" manual_cm_sp="TopNav-_-Shoes-_-Shoesmenssize10.5&amp;cm=TnDdshoesmenssize10.5" title="10.5">10.5</a></li>
+                                <li><a href="http://www.champssports.com/Shoes/_-_/N-rjZ5j" manual_cm_sp="TopNav-_-Shoes-_-Shoesmenssize11.0&amp;cm=TnDdshoesmenssize11.0" title="11">11</a></li>
+                                <li><a href="http://www.champssports.com/Shoes/_-_/N-rjZ2u" manual_cm_sp="TopNav-_-Shoes-_-Shoesmenssize11.5&amp;cm=TnDdshoesmenssize11.5" title="11.5">11.5</a></li>
+                                <li><a href="http://www.champssports.com/Shoes/_-_/N-rjZ6t" manual_cm_sp="TopNav-_-Shoes-_-Shoesmenssize12.0&amp;cm=TnDdshoesmenssize12.0" title="12">12</a></li>
+                                <li><a href="http://www.champssports.com/Shoes/_-_/N-rjZ3h" manual_cm_sp="TopNav-_-Shoes-_-Shoesmenssize12.5&amp;cm=TnDdshoesmenssize12.5" title="12.5">12.5</a></li>
+                                <li><a href="http://www.champssports.com/Shoes/_-_/N-rjZ8q" manual_cm_sp="TopNav-_-Shoes-_-Shoesmenssize13.0&amp;cm=TnDdshoesmenssize13.0" title="13">13</a></li>
+                                <li><a href="http://www.champssports.com/Shoes/_-_/N-rjZ3i" manual_cm_sp="TopNav-_-Shoes-_-Shoesmenssize13.5&amp;cm=TnDdshoesmenssize13.5" title="13.5">13.5</a></li>
+                                <li><a href="http://www.champssports.com/Shoes/_-_/N-rjZ6n" manual_cm_sp="TopNav-_-Shoes-_-Shoesmenssize14.0&amp;cm=TnDdshoesmenssize14.0" title="14">14</a></li>
+                                <li><a href="http://www.champssports.com/Shoes/_-_/N-rjZ51" manual_cm_sp="TopNav-_-Shoes-_-Shoesmenssize14.5&amp;cm=TnDdshoesmenssize14.5" title="14.5">14.5</a></li>
+                                <li><a href="http://www.champssports.com/Shoes/_-_/N-rjZ36" manual_cm_sp="TopNav-_-Shoes-_-Shoesmenssize15.0&amp;cm=TnDdshoesmenssize15.0" title="15">15</a></li>
+                                <li><a href="http://www.champssports.com/Shoes/_-_/N-rjZ7f" manual_cm_sp="TopNav-_-Shoes-_-Shoesmenssize16.0&amp;cm=TnDdshoesmenssize16.0" title="16">16</a></li>
+                                <li><a href="http://www.champssports.com/Shoes/_-_/N-rjZ3k" manual_cm_sp="TopNav-_-Shoes-_-Shoesmenssize17.0&amp;cm=TnDdshoesmenssize17.0" title="17">17</a></li>
+                                <li><a href="http://www.champssports.com/Shoes/_-_/N-rjZ70" manual_cm_sp="TopNav-_-Shoes-_-Shoesmenssize18.0&amp;cm=TnDdshoesmenssize18.0" title="18">18</a></li>
                             </ul>
                         </div>
                         
                         <div class="dd_column">
-                        	<p><a href="http://www.champssports.com/_-_/keyword-shoes?cm_sp=TopNav-_-Shoes-_-Shoesallshoes&amp;cm=TnDdshoesallshoes" title="Shop All Shoes"><strong>Shop All Shoes</strong></a></p>
+                        	
                         </div>
                        
                         <div class="item_spacer_big">&nbsp;</div>
                         
                         <div class="dd_column spec_wide">
-							<p><a href="http://www.champssports.com/_-_/keyword-womens+shoes?cm_sp=TopNav-_-Shoes-_-Shoeswomensshoes&amp;cm=TnDdshoeswomensshoes" title="Women's Shoes">WOMEN'S</a></p>
+							<p><a href="http://www.champssports.com/Womens/Shoes/_-_/N-25Zrj" manual_cm_sp="TopNav-_-Shoes-_-Shoeswomensshoes&amp;cm=TnDdshoeswomensshoes" title="Women's Shoes">WOMEN'S</a></p>
                             <ul>
-                                <li><a href="http://www.champssports.com/_-_/N-1z141xe/keyword-womens+shoes?cm_REF=New+Arrivals?cm_sp=TopNav-_-Shoes-_-Shoeswomensnewarrivals&amp;cm=TnDdshoeswomensnewarrivals" title="New Arrivals - Women's Shoes">New Arrivals</a></li>
-                                <li><a href="http://www.champssports.com/_-_/keyword-womens+boots?cm_sp=TopNav-_-Shoes-_-Shoeswomensboots&amp;cm=TnDdshoeswomensboots" title="Women's Boots">Boots</a></li>
-                                <li><a href="http://www.champssports.com/_-_/keyword-womens+casual+shoes?cm_sp=TopNav-_-Shoes-_-Shoeswomenscasualshoes&amp;cm=TnDdshoeswomenscasualshoes" title="Women's Casual Shoes">Casual Shoes</a></li>
-                                <li><a href="http://www.champssports.com/_-_/keyword-womens+running+shoes?cm_sp=TopNav-_-Shoes-_-Shoeswomensrunningshoes&amp;cm=TnDdshoeswomensrunningshoes" title="Women's Running Shoes">Running Shoes</a></li>
-                                <li><a href="http://www.champssports.com/_-_/keyword-womens+sandals?cm_sp=TopNav-_-Shoes-_-Shoeswomenssandals&amp;cm=TnDdshoeswomenssandals" title="Women's Sandals">Sandals &amp; Slides</a></li>
-                                <li><a href="http://www.champssports.com/_-_/keyword-womens+training+shoes?cm_sp=TopNav-_-Shoes-_-Shoeswomenstrainingshoes&amp;cm=TnDdshoeswomenstrainingshoes" title="Women's Training Shoes">Training Shoes</a></li>
-                                <li><a href="http://www.champssports.com/_-_/keyword-womens+volleyball+shoes?cm_sp=TopNav-_-Shoes-_-Shoeswomensvolleyballshoes&amp;cm=TnDdshoeswomensvolleyballshoes" title="Women's Volleyball Shoes">Volleyball Shoes</a></li>
-                                <li><a href="http://www.champssports.com/_-_/keyword-sale+womens+shoes?cm_sp=TopNav-_-Shoes-_-Shoessalewomensshoes&amp;cm=TnDdshoessalewomensshoes" title="Sale Women's Shoes">Sale</a></li>
+                                <li><a href="http://www.champssports.com/Womens/Shoes/_-_/N-25ZrjZ1z141xe" manual_cm_sp="TopNav-_-Shoes-_-Shoeswomensnewarrivals&amp;cm=TnDdshoeswomensnewarrivals" title="New Arrivals - Women's Shoes">New Arrivals</a></li>
+                                <li><a href="http://www.champssports.com/Womens/Boots/_-_/N-25Zhb" manual_cm_sp="TopNav-_-Shoes-_-Shoeswomensboots&amp;cm=TnDdshoeswomensboots" title="Women's Boots">Boots</a></li>
+                                <li><a href="http://www.champssports.com/Womens/Casual/Shoes/_-_/N-25ZfeZrj" manual_cm_sp="TopNav-_-Shoes-_-Shoeswomenscasualshoes&amp;cm=TnDdshoeswomenscasualshoes" title="Women's Casual Shoes">Casual Shoes</a></li>
+                                <li><a href="http://www.champssports.com/Womens/Running/Shoes/_-_/N-25Zf9Zrj" manual_cm_sp="TopNav-_-Shoes-_-Shoeswomensrunningshoes&amp;cm=TnDdshoeswomensrunningshoes" title="Women's Running Shoes">Running Shoes</a></li>
+                                <li><a href="http://www.champssports.com/Womens/Sandals/_-_/N-25Zi3" manual_cm_sp="TopNav-_-Shoes-_-Shoeswomenssandals&amp;cm=TnDdshoeswomenssandals" title="Women's Sandals">Sandals &amp; Slides</a></li>
+                                <li><a href="http://www.champssports.com/Womens/Training/Shoes/_-_/N-25ZfhZrj" manual_cm_sp="TopNav-_-Shoes-_-Shoeswomenstrainingshoes&amp;cm=TnDdshoeswomenstrainingshoes" title="Women's Training Shoes">Training Shoes</a></li>
+                                <li><a href="http://www.champssports.com/Sale/Womens/Shoes/_-_/N-1z141ydZ25Zrj" manual_cm_sp="TopNav-_-Shoes-_-Shoessalewomensshoes&amp;cm=TnDdshoessalewomensshoes" title="Sale Women's Shoes">Sale</a></li>
                             </ul>
                             
                         </div>
 
                         <div class="dd_column spec_wide">                           
-                            <p><a href="http://www.champssports.com/_-_/keyword-kids+shoes?cm_sp=TopNav-_-Shoes-_-Shoeskidsshoes&amp;cm=TnDdshoeskidsshoes" title="Kids Shoes">KIDS'</a></p>
+                            <p><a href="http://www.champssports.com/_-_/keyword-kids+shoes" manual_cm_sp="TopNav-_-Shoes-_-Shoeskidsshoes&amp;cm=TnDdshoeskidsshoes" title="Kids Shoes">KIDS'</a></p>
                             <ul>
-                                <li><a href="http://www.champssports.com/_-_/N-1z141xe/keyword-kids+shoes?cm_REF=New+Arrivals?cm_sp=TopNav-_-Shoes-_-Shoeskidsnewarrivals&amp;cm=TnDdshoeskidsnewarrivals" title="New Arrivals - Kids' Shoes">New Arrivals</a></li>
-                            	<li><a href="http://www.champssports.com/_-_/keyword-kids+basketball+shoes?cm_sp=TopNav-_-Shoes-_-Shoeskidsbasketballshoes&amp;cm=TnDdshoeskidsbasketballshoes" title="Kids Basketball Shoes">Basketball Shoes</a></li>
-                                <li><a href="http://www.champssports.com/_-_/keyword-kids+boots?cm_sp=TopNav-_-Shoes-_-Shoeskidsboots&amp;cm=TnDdshoeskidsboots" title="Kids Boots">Boots</a></li>
-                                <li><a href="http://www.champssports.com/_-_/keyword-kids+casual+shoes?cm_sp=TopNav-_-Shoes-_-Shoeskidscasualshoes&amp;cm=TnDdshoeskidscasualshoes" title="Kids Casual Shoes">Casual Shoes</a></li>
-                                <li><a href="http://www.champssports.com/_-_/keyword-kids+running+shoes?cm_sp=TopNav-_-Shoes-_-Shoeskidsrunningshoes&amp;cm=TnDdshoeskidsrunningshoes" title="Kids Running Shoes">Running Shoes</a></li>
-                                <li><a href="http://www.champssports.com/_-_/keyword-kids+sandals?cm_sp=TopNav-_-Shoes-_-Shoeskidssandals&amp;cm=TnDdshoeskidssandals" title="Kids Sandals">Sandals &amp; Slides</a></li>
-                                <li><a href="http://www.champssports.com/_-_/keyword-sale+kids+shoes?cm_sp=TopNav-_-Shoes-_-Shoessalekidsshoes&amp;cm=TnDdshoessalekidsshoes" title="Sale Kids Shoes">Sale</a></li>
+                                <li><a href="http://www.champssports.com/_-_/N-1z141xe/keyword-kids+shoes" manual_cm_sp="cm_sp=TopNav-_-Shoes-_-Shoeskidsnewarrivals&amp;cm=TnDdshoeskidsnewarrivals" title="New Arrivals - Kids' Shoes">New Arrivals</a></li>
+                            	<li><a href="http://www.champssports.com/_-_/keyword-kids+basketball+shoes" manual_cm_sp="TopNav-_-Shoes-_-Shoeskidsbasketballshoes&amp;cm=TnDdshoeskidsbasketballshoes" title="Kids Basketball Shoes">Basketball Shoes</a></li>
+                                <li><a href="http://www.champssports.com/_-_/keyword-kids+boots" manual_cm_sp="TopNav-_-Shoes-_-Shoeskidsboots&amp;cm=TnDdshoeskidsboots" title="Kids Boots">Boots</a></li>
+                                <li><a href="http://www.champssports.com/_-_/keyword-kids+casual+shoes" manual_cm_sp="TopNav-_-Shoes-_-Shoeskidscasualshoes&amp;cm=TnDdshoeskidscasualshoes" title="Kids Casual Shoes">Casual Shoes</a></li>
+                                <li><a href="http://www.champssports.com/_-_/keyword-kids+running+shoes" manual_cm_sp="TopNav-_-Shoes-_-Shoeskidsrunningshoes&amp;cm=TnDdshoeskidsrunningshoes" title="Kids Running Shoes">Running Shoes</a></li>
+                                <li><a href="http://www.champssports.com/_-_/keyword-kids+sandals" manual_cm_sp="TopNav-_-Shoes-_-Shoeskidssandals&amp;cm=TnDdshoeskidssandals" title="Kids Sandals">Sandals &amp; Slides</a></li>
+                                <li><a href="http://www.champssports.com/_-_/keyword-sale+kids+shoes" manual_cm_sp="TopNav-_-Shoes-_-Shoessalekidsshoes&amp;cm=TnDdshoessalekidsshoes" title="Sale Kids Shoes">Sale</a></li>
 							</ul>
                         </div>
                         
                         <div class="dd_column spec_wide">
                             <p>TOP BRANDS</p>
                             <ul>
-                                <li><a href="http://www.champssports.com/adidas/?cm_sp=TopNav-_-Shoes-_-Shoesadidas&amp;cm=TnDdshoesadidas" title="adidas Shoes">adidas</a></li>
-                                <li><a href="http://www.champssports.com/adidas-Originals/?cm_sp=TopNav-_-Shoes-_-Shoesadidasoriginals&amp;cm=TnDdshoesadidasoriginals" title="adidas Originals Shoes">adidas Originals</a></li>
-                                <li><a href="http://www.champssports.com/ASICS/?cm_sp=TopNav-_-Shoes-_-Shoesasics&amp;cm=TnDdshoesasics" title="ASICS Shoes">ASICS</a></li>
-                                <li><a href="http://www.champssports.com/Converse/?cm_sp=TopNav-_-Shoes-_-Shoesconverse&amp;cm=TnDdshoesconverse" title="Converse Shoes">Converse</a></li>
-                                <li><a href="http://www.champssports.com/jordan-shoes/?cm_sp=TopNav-_-Shoes-_-Shoesjordan&amp;cm=TnDdshoesjordan" title="Jordan Shoes">Jordan</a></li>
-                                <li><a href="http://www.champssports.com/_-_/keyword-mizuno+shoes?cm_sp=TopNav-_-Shoes-_-Shoesmizuno&amp;cm=TnDdshoesmizuno" title="Mizuno Shoes">Mizuno</a></li>
-                                <li><a href="http://www.champssports.com/searchresults/brand:New%20Balance/?cm_sp=TopNav-_-Shoes-_-Shoesnewbalance&amp;cm=TnDdshoesnewbalance" title="New Balance Shoes">New Balance</a></li>
-                                <li><a href="http://www.champssports.com/nike-shoes/?cm_sp=TopNav-_-Shoes-_-Shoesnikee&amp;cm=TnDdshoesnike" title="Nike Shoes">Nike</a></li>
-                                <li><a href="http://www.champssports.com/_-_/keyword-puma+shoes?cm_sp=TopNav-_-Shoes-_-Shoespuma&amp;cm=TnDdshoespuma" title="PUMA Shoes">PUMA</a></li>
-                                <li><a href="http://www.champssports.com/Reebok/?cm_sp=TopNav-_-Shoes-_-Shoesreebok&amp;cm=TnDdshoesreebok" title="Reebok Shoes">Reebok</a></li>
-                                <li><a href="http://www.champssports.com/_-_/keyword-under+armour+shoes?cm_sp=TopNav-_-Shoes-_-Shoesunderarmour&amp;cm=TnDdshoesunderarmour" title="Under Armour Shoes">Under Armour</a></li>
+                                <li><a href="http://www.champssports.com/adidas/Shoes/_-_/N-zcZrj" manual_cm_sp="TopNav-_-Shoes-_-Shoesadidas&amp;cm=TnDdshoesadidas" title="adidas Shoes">adidas</a></li>
+                                <li><a href="http://www.champssports.com/adidas-Originals/Shoes/_-_/N-zrZrj" manual_cm_sp="TopNav-_-Shoes-_-Shoesadidasoriginals&amp;cm=TnDdshoesadidasoriginals" title="adidas Originals Shoes">adidas Originals</a></li>
+                                <li><a href="http://www.champssports.com/ASICS/Shoes/_-_/N-10iZrj" manual_cm_sp="TopNav-_-Shoes-_-Shoesasics&amp;cm=TnDdshoesasics" title="ASICS Shoes">ASICS</a></li>
+                                <li><a href="http://www.champssports.com/Converse/" manual_cm_sp="TopNav-_-Shoes-_-Shoesconverse&amp;cm=TnDdshoesconverse" title="Converse Shoes">Converse</a></li>
+                                <li><a href="http://www.champssports.com/Jordan/Shoes/_-_/N-11cZrj" manual_cm_sp="TopNav-_-Shoes-_-Shoesjordan&amp;cm=TnDdshoesjordan" title="Jordan Shoes">Jordan</a></li>
+                                <li><a href="http://www.champssports.com/Mizuno/Shoes/_-_/N-104Zrj" manual_cm_sp="TopNav-_-Shoes-_-Shoesmizuno&amp;cm=TnDdshoesmizuno" title="Mizuno Shoes">Mizuno</a></li>
+                                <li><a href="http://www.champssports.com/New-Balance/Shoes/_-_/N-10eZrj" manual_cm_sp="TopNav-_-Shoes-_-Shoesnewbalance&amp;cm=TnDdshoesnewbalance" title="New Balance Shoes">New Balance</a></li>
+                                <li><a href="http://www.champssports.com/Nike/Shoes/_-_/N-zzZrj" manual_cm_sp="TopNav-_-Shoes-_-Shoesnikee&amp;cm=TnDdshoesnike" title="Nike Shoes">Nike</a></li>
+                                <li><a href="http://www.champssports.com/PUMA/Shoes/_-_/N-zqZrj" manual_cm_sp="TopNav-_-Shoes-_-Shoespuma&amp;cm=TnDdshoespuma" title="PUMA Shoes">PUMA</a></li>
+                                <li><a href="http://www.champssports.com/Reebok/Shoes/_-_/N-zlZrj" manual_cm_sp="TopNav-_-Shoes-_-Shoesreebok&amp;cm=TnDdshoesreebok" title="Reebok Shoes">Reebok</a></li>
+                                <li><a href="http://www.champssports.com/Under-Armour/Shoes/_-_/N-10qZrj" manual_cm_sp="TopNav-_-Shoes-_-Shoesunderarmour&amp;cm=TnDdshoesunderarmour" title="Under Armour Shoes">Under Armour</a></li>
                             </ul>
                         </div>
                         
                         <div class="dd_column spec_wide">
                             <p>TOP SELLERS</p>
                             <ul>
-                                <li><a href="http://www.champssports.com/_-_/keyword-basketball+shoes?cm_sp=TopNav-_-Shoes-_-Shoesbasketballshoes&amp;cm=TnDdshoesbasketballshoes" title="Basketball Shoes">Basketball Shoes</a></li>
-                                <li><a href="http://www.champssports.com/_-_/keyword-griffey+shoes?cm_sp=TopNav-_-Shoes-_-Shoesgriffeyshoes&amp;cm=TnDdshoesgriffeyshoes" title="Griffey Shoes">Griffey Shoes</a></li>
-                                <li><a href="http://www.champssports.com/_-_/keyword-lebron+shoes?cm_sp=TopNav-_-Shoes-_-Shoeslebronshoes&amp;cm=TnDdshoeslebronshoes" title="LeBron Shoes">LeBron Shoes</a></li>
-                                <li><a href="http://www.champssports.com/_-_/keyword-mizuno+wave?cm_sp=TopNav-_-Shoes-_-Shoesmizunowave&amp;cm=TnDdshoesmizunowave" title="Mizuno Wave">Mizuno Wave</a></li>
-                                <li><a href="http://www.champssports.com/_-_/keyword-nike+air+max?cm_sp=TopNav-_-Shoes-_-Shoesnikeairmax&amp;cm=TnDdshoesnikeairmax" title="Nike Air Max">Nike Air Max</a></li>
-                                <li><a href="http://www.champssports.com/_-_/keyword-nike+cortez?cm_sp=TopNav-_-Shoes-_-Shoesnikecortez&amp;cm=TnDdshoesnikecortez" title="Nike Cortez">Nike Cortez</a></li>
-                                <li><a href="http://www.champssports.com/_-_/keyword-nike+free?cm_sp=TopNav-_-Shoes-_-Shoesnikefree&amp;cm=TnDdshoesnikefree" title="Nike Free">Nike Free</a></li>
-                                <li><a href="http://www.champssports.com/_-_/keyword-reebok+zig?cm_sp=TopNav-_-Shoes-_-Shoesreebokzig&amp;cm=TnDdshoesreebokzig" title="Reebok Zig">Reebok Zig</a></li>
+                                <li><a href="http://www.champssports.com/Basketball/Shoes/_-_/N-fmZrj" manual_cm_sp="TopNav-_-Shoes-_-Shoesbasketballshoes&amp;cm=TnDdshoesbasketballshoes" title="Basketball Shoes">Basketball Shoes</a></li>
+                                <li><a href="http://www.champssports.com/_-_/keyword-griffey+shoes" manual_cm_sp="TopNav-_-Shoes-_-Shoesgriffeyshoes&amp;cm=TnDdshoesgriffeyshoes" title="Griffey Shoes">Griffey Shoes</a></li>
+                                <li><a href="http://www.champssports.com/_-_/keyword-lebron+shoes" manual_cm_sp="TopNav-_-Shoes-_-Shoeslebronshoes&amp;cm=TnDdshoeslebronshoes" title="LeBron Shoes">LeBron Shoes</a></li>
+                                <li><a href="http://www.champssports.com/_-_/keyword-mizuno+wave" manual_cm_sp="TopNav-_-Shoes-_-Shoesmizunowave&amp;cm=TnDdshoesmizunowave" title="Mizuno Wave">Mizuno Wave</a></li>
+                                <li><a href="http://www.champssports.com/_-_/keyword-nike+air+max" manual_cm_sp="TopNav-_-Shoes-_-Shoesnikeairmax&amp;cm=TnDdshoesnikeairmax" title="Nike Air Max">Nike Air Max</a></li>
+                                <li><a href="http://www.champssports.com/_-_/keyword-nike+cortez" manual_cm_sp="TopNav-_-Shoes-_-Shoesnikecortez&amp;cm=TnDdshoesnikecortez" title="Nike Cortez">Nike Cortez</a></li>
+                                <li><a href="http://www.champssports.com/_-_/keyword-nike+free" manual_cm_sp="TopNav-_-Shoes-_-Shoesnikefree&amp;cm=TnDdshoesnikefree" title="Nike Free">Nike Free</a></li>
+                                <li><a href="http://www.champssports.com/_-_/keyword-reebok+zig" manual_cm_sp="TopNav-_-Shoes-_-Shoesreebokzig&amp;cm=TnDdshoesreebokzig" title="Reebok Zig">Reebok Zig</a></li>
                             </ul>
                         </div>
 
@@ -781,56 +782,56 @@ body {
     <div onmouseover="openTab(this, 'navButtonClothing');" onmouseout="closeTab(this);">
         <ul>
             <li>
-                <div class="navBtn navButtonClothing"><a href="http://www.champssports.com/Clothing/?cm_sp=Header-_-Category-_-Clothing" title="Athletic Clothing"><img src="//www.champssports.com/images/fl/global/pixel.gif" alt="Clothing" width="96" height="37" border="0"><span>Clothing</span></a></div>
+                <div class="navBtn navButtonClothing"><a href="http://www.champssports.com/Clothing/_-_/N-rk" manual_cm_sp="Header-_-Category-_-Clothing" title="Athletic Clothing"><img src="//www.champssports.com/images/fl/global/pixel.gif" alt="Clothing" width="96" height="37" border="0"><span>Clothing</span></a></div>
                 <div class="sticker_menu menu_size_mega">
                     <div class="sticker_menu_inner">
                         
                         <div class="dd_column col_narrow">
-                            <p><a href="http://www.champssports.com/_-_/keyword-mens+clothing?cm_sp=TopNav-_-Clothing-_-Clothingmens&amp;cm=TnDdclothingmens" title="Men's Clothing">MEN'S</a></p>
+                            <p><a href="http://www.champssports.com/Mens/Clothing/_-_/N-24Zrk" manual_cm_sp="TopNav-_-Clothing-_-Clothingmens&amp;cm=TnDdclothingmens" title="Men's Clothing">MEN'S</a></p>
                             <ul>
-                                <li><a href="http://www.champssports.com/_-_/N-1z141xe/keyword-mens+clothing?cm_REF=New+Arrivals?cm_SORT=New+Arrivals&amp;cm_sp=TopNav-_-Clothing-_-Clothingmensnewarrivals&amp;cm=TnDdclothingmensnewarrivals" title="New Arrivals - Men's Clothing">New Arrivals</a></li>
-                                <li><a href="http://www.champssports.com/_-_/keyword-mens+t+shirts?cm_sp=TopNav-_-Clothing-_-Clothingmenstshirts&amp;cm=TnDdclothingmenstshirts" title="Men's T-Shirts">T-Shirts</a></li>
-                                <li><a href="http://www.champssports.com/_-_/keyword-mens+hats?cm_sp=TopNav-_-Clothing-_-Clothingmenshats&amp;cm=TnDdclothingmenshats" title="Men's Hats &amp; Caps">Hats &amp; Caps</a></li>
-                                <li><a href="http://www.champssports.com/_-_/keyword-mens+hoodies?cm_sp=TopNav-_-Clothing-_-Clothingmenshoodies&amp;cm=TnDdclothingmenshoodies" title="Men's Hoodies">Hoodies</a></li>
-                                <li><a href="http://www.champssports.com/_-_/keyword-mens+jackets?cm_sp=TopNav-_-Clothing-_-Clothingmensjackets&amp;cm=TnDdclothingmensjackets" title="Men's Jackets">Jackets</a></li>
-                                <li><a href="http://www.champssports.com/_-_/keyword-mens+jerseys?cm_sp=TopNav-_-Clothing-_-Clothingmensjerseys&amp;cm=TnDdclothingmensjerseys" title="Men's Jerseys">Jerseys</a></li>
-                                <li><a href="http://www.champssports.com/_-_/keyword-mens+pants?cm_sp=TopNav-_-Clothing-_-Clothingmenspants&amp;cm=TnDdclothingmenspants" title="Men's Pants">Pants</a></li>
-                                <li><a href="http://www.champssports.com/_-_/keyword-mens+shorts?cm_sp=TopNav-_-Clothing-_-Clothingmensshorts&amp;cm=TnDdclothingmensshorts" title="Men's Shorts">Shorts</a></li>                               
-                              <li><a href="http://www.champssports.com/_-_/keyword-mens+sweatshirts?cm_sp=TopNav-_-Clothing-_-Clothingmenssweatshirts&amp;cm=TnDdclothingmenssweatshirts" title="Men's Sweatshirts">Sweatshirts</a></li>
-                              <li><a href="http://www.champssports.com/_-_/keyword-mens+socks?cm_sp=TopNav-_-Clothing-_-Clothingmenssocks&amp;cm=TnDdclothingmenssocks" title="Men's Socks">Socks</a></li>
-                              <li><a href="http://www.champssports.com/_-_/keyword-sale+mens+clothing?cm_sp=TopNav-_-Clothing-_-Clothingmenssale&amp;cm=TnDdclothingmenssale" title="Sale Men's Clothing">Sale</a></li>
+                                <li><a href="http://www.champssports.com/Mens/Clothing/_-_/N-24ZrkZ1z141xe" manual_cm_sp="TopNav-_-Clothing-_-Clothingmensnewarrivals&amp;cm=TnDdclothingmensnewarrivals" title="New Arrivals - Men's Clothing">New Arrivals</a></li>
+                                <li><a href="http://www.champssports.com/Mens/T-Shirts/_-_/N-24Zif" manual_cm_sp="TopNav-_-Clothing-_-Clothingmenstshirts&amp;cm=TnDdclothingmenstshirts" title="Men's T-Shirts">T-Shirts</a></li>
+                                <li><a href="http://www.champssports.com/Mens/Hats/_-_/N-24Zlq" manual_cm_sp="TopNav-_-Clothing-_-Clothingmenshats&amp;cm=TnDdclothingmenshats" title="Men's Hats &amp; Caps">Hats &amp; Caps</a></li>
+                                <li><a href="http://www.champssports.com/_-_/keyword-mens+hoodies" manual_cm_sp="TopNav-_-Clothing-_-Clothingmenshoodies&amp;cm=TnDdclothingmenshoodies" title="Men's Hoodies">Hoodies</a></li>
+                                <li><a href="http://www.champssports.com/Mens/Jackets-Vests/_-_/N-24Zj7" manual_cm_sp="TopNav-_-Clothing-_-Clothingmensjackets&amp;cm=TnDdclothingmensjackets" title="Men's Jackets">Jackets</a></li>
+                                <li><a href="http://www.champssports.com/Mens/Jerseys/_-_/N-24Ziy" manual_cm_sp="TopNav-_-Clothing-_-Clothingmensjerseys&amp;cm=TnDdclothingmensjerseys" title="Men's Jerseys">Jerseys</a></li>
+                                <li><a href="http://www.champssports.com/Mens/Pants/_-_/N-24Zjr" manual_cm_sp="TopNav-_-Clothing-_-Clothingmenspants&amp;cm=TnDdclothingmenspants" title="Men's Pants">Pants</a></li>
+                                <li><a href="http://www.champssports.com/Mens/Shorts/_-_/N-24Zjf" manual_cm_sp="TopNav-_-Clothing-_-Clothingmensshorts&amp;cm=TnDdclothingmensshorts" title="Men's Shorts">Shorts</a></li>                               
+                              <li><a href="http://www.champssports.com/Mens/Sweatshirts/_-_/N-24Zj3" manual_cm_sp="TopNav-_-Clothing-_-Clothingmenssweatshirts&amp;cm=TnDdclothingmenssweatshirts" title="Men's Sweatshirts">Sweatshirts</a></li>
+                              <li><a href="http://www.champssports.com/Mens/Socks/_-_/N-24Zn9" manual_cm_sp="TopNav-_-Clothing-_-Clothingmenssocks&amp;cm=TnDdclothingmenssocks" title="Men's Socks">Socks</a></li>
+                              <li><a href="http://www.champssports.com/Sale/Mens/Clothing/_-_/N-1z141ydZ24Zrk" manual_cm_sp="TopNav-_-Clothing-_-Clothingmenssale&amp;cm=TnDdclothingmenssale" title="Sale Men's Clothing">Sale</a></li>
 							</ul>
                         </div>
                         
                         <div class="dd_column col_narrow">
-							<p><a href="http://www.champssports.com/_-_/keyword-womens+clothing?cm_sp=TopNav-_-Clothing-_-Clothingwomens&amp;cm=TnDdclothingwomens" title="Womens Clothing">WOMEN'S</a></p>
+							<p><a href="http://www.champssports.com/Womens/Clothing/_-_/N-25Zrk" manual_cm_sp="TopNav-_-Clothing-_-Clothingwomens&amp;cm=TnDdclothingwomens" title="Womens Clothing">WOMEN'S</a></p>
                             <ul>
-                                <li><a href="http://www.champssports.com/_-_/N-1z141xe/keyword-womens+shoes?cm_REF=New+Arrivals?cm_sp=TopNav-_-Clothing-_-Clothingwomensnewarrivals&amp;cm=TnDdclothingwomensnewarrivals" title="New Arrivals - Women's Clothing">New Arrivals</a></li>
-                                <li><a href="http://www.champssports.com/_-_/keyword-womens+t+shirts?cm_sp=TopNav-_-Clothing-_-Clothingwomenstshirts&amp;cm=TnDdclothingwomenstshirts" title="Women's T-Shirts">T-Shirts</a></li>
-                                <li><a href="http://www.champssports.com/_-_/keyword-womens+tank+tops?cm_sp=TopNav-_-Clothing-_-Clothingwomenstanktops&amp;cm=TnDdclothingwomenstanktops" title="Women's Tank Tops">Tank Tops</a></li>
-                                <li><a href="http://www.champssports.com/_-_/keyword-womens+hoodies?cm_sp=TopNav-_-Clothing-_-Clothingwomenshoodies&amp;cm=TnDdclothingwomenshoodies" title="Women's Hoodies">Hoodies</a></li>
-                                <li><a href="http://www.champssports.com/_-_/keyword-womens+jackets?cm_sp=TopNav-_-Clothing-_-Clothingwomensjackets&amp;cm=TnDdclothingwomensjackets" title="Women's Jackets">Jackets</a></li>
-                                <li><a href="http://www.champssports.com/_-_/keyword-womens+pants?cm_sp=TopNav-_-Clothing-_-Clothingwomenspants&amp;cm=TnDdclothingwomenspants" title="Women's Pants">Pants</a></li>
-                                <li><a href="http://www.champssports.com/_-_/keyword-womens+shorts?cm_sp=TopNav-_-Clothing-_-Clothingwomensshorts&amp;cm=TnDdclothingwomensshorts" title="Women's Shorts">Shorts</a></li>
-                                <li><a href="http://www.champssports.com/_-_/keyword-womens+sports+bras?cm_sp=TopNav-_-Clothing-_-Clothingwomenssportsbras&amp;cm=TnDdclothingwomenssportsbras" title="Women's Sports Bras">Sports Bras</a></li>
-                                <li><a href="http://www.champssports.com/_-_/keyword-womens+sweatshirts?cm_sp=TopNav-_-Clothing-_-Clothingwomenssweatshirts&amp;cm=TnDdclothingwomenssweatshirts" title="Women's Sweatshirts">Sweatshirts</a></li>
-                                <li><a href="http://www.champssports.com/_-_/keyword-womens+socks?cm_sp=TopNav-_-Clothing-_-Clothingwomenssocks&amp;cm=TnDdclothingwomenssocks" title="Women's Socks">Socks</a></li>
-                                <li><a href="http://www.champssports.com/_-_/keyword-sale+womens+clothing?cm_sp=TopNav-_-Clothing-_-Clothingwomenssale&amp;cm=TnDdclothingwomenssale" title="Sale Women's Clothing">Sale</a></li>
+                                <li><a href="http://www.champssports.com/Womens/Clothing/_-_/N-25ZrkZ1z141xe" manual_cm_sp="TopNav-_-Clothing-_-Clothingwomensnewarrivals&amp;cm=TnDdclothingwomensnewarrivals" title="New Arrivals - Women's Clothing">New Arrivals</a></li>
+                                <li><a href="http://www.champssports.com/Womens/T-Shirts/_-_/N-25Zif" manual_cm_sp="TopNav-_-Clothing-_-Clothingwomenstshirts&amp;cm=TnDdclothingwomenstshirts" title="Women's T-Shirts">T-Shirts</a></li>
+                                <li><a href="http://www.champssports.com/Womens/Tanks-Singlets-Tanks/_-_/N-25Zil" manual_cm_sp="TopNav-_-Clothing-_-Clothingwomenstanktops&amp;cm=TnDdclothingwomenstanktops" title="Women's Tank Tops">Tank Tops</a></li>
+                                <li><a href="http://www.champssports.com/_-_/keyword-womens+hoodies" manual_cm_sp="TopNav-_-Clothing-_-Clothingwomenshoodies&amp;cm=TnDdclothingwomenshoodies" title="Women's Hoodies">Hoodies</a></li>
+                                <li><a href="http://www.champssports.com/Womens/Jackets-Vests/_-_/N-25Zj7" manual_cm_sp="TopNav-_-Clothing-_-Clothingwomensjackets&amp;cm=TnDdclothingwomensjackets" title="Women's Jackets">Jackets</a></li>
+                                <li><a href="http://www.champssports.com/Womens/Pants/_-_/N-25Zjr" manual_cm_sp="TopNav-_-Clothing-_-Clothingwomenspants&amp;cm=TnDdclothingwomenspants" title="Women's Pants">Pants</a></li>
+                                <li><a href="http://www.champssports.com/Womens/Shorts/_-_/N-25Zjf" manual_cm_sp="TopNav-_-Clothing-_-Clothingwomensshorts&amp;cm=TnDdclothingwomensshorts" title="Women's Shorts">Shorts</a></li>
+                                <li><a href="http://www.champssports.com/Womens/Sport-Tops-Bras/_-_/N-25Zkc" manual_cm_sp="TopNav-_-Clothing-_-Clothingwomenssportsbras&amp;cm=TnDdclothingwomenssportsbras" title="Women's Sports Bras">Sports Bras</a></li>
+                                <li><a href="http://www.champssports.com/Womens/Sweatshirts-Crew-Sweatshirts/_-_/N-25Zj4" manual_cm_sp="TopNav-_-Clothing-_-Clothingwomenssweatshirts&amp;cm=TnDdclothingwomenssweatshirts" title="Women's Sweatshirts">Sweatshirts</a></li>
+                                <li><a href="http://www.champssports.com/Womens/Socks/_-_/N-25Zn9" manual_cm_sp="TopNav-_-Clothing-_-Clothingwomenssocks&amp;cm=TnDdclothingwomenssocks" title="Women's Socks">Socks</a></li>
+                                <li><a href="http://www.champssports.com/Sale/Womens/Clothing/_-_/N-1z141ydZ25Zrk" manual_cm_sp="TopNav-_-Clothing-_-Clothingwomenssale&amp;cm=TnDdclothingwomenssale" title="Sale Women's Clothing">Sale</a></li>
                             </ul>
                         </div>
                         <div class="dd_column">
-                            <p><a href="http://www.champssports.com/_-_/keyword-kids+clothing?cm_sp=TopNav-_-Clothing-_-Clothingkids&amp;cm=TnDdclothingkids" title="Kids Clothing">KIDS'</a></p>
+                            <p><a href="http://www.champssports.com/_-_/keyword-kids+clothing" manual_cm_sp="TopNav-_-Clothing-_-Clothingkids&amp;cm=TnDdclothingkids" title="Kids Clothing">KIDS'</a></p>
                             <ul>
-                                <li><a href="http://www.champssports.com/_-_/N-1z141xe/keyword-kids+shoes?cm_REF=New+Arrivals?cm_sp=TopNav-_-Clothing-_-Clothingkidsnewarrivals&amp;cm=TnDdclothingkidsnewarrivals" title="New Arrivals - Kids' Clothing">New Arrivals</a></li>
-                                <li><a href="http://www.champssports.com/_-_/keyword-kids+t+shirts?cm_sp=TopNav-_-Clothing-_-Clothingkidstshirts&amp;cm=TnDdclothingkidstshirts" title="Kids T-Shirts">T-Shirts</a></li>
-                                <li><a href="http://www.champssports.com/_-_/keyword-kids+hoodies?cm_sp=TopNav-_-Clothing-_-Clothingkidshoodies&amp;cm=TnDdclothingkidshoodies" title="Kids Hoodies">Hoodies</a></li>
-                                <li><a href="http://www.champssports.com/_-_/keyword-kids+jackets?cm_sp=TopNav-_-Clothing-_-Clothingkidsjackets&amp;cm=TnDdclothingkidsjackets" title="Kids Jackets">Jackets</a></li>
-                                <li><a href="http://www.champssports.com/_-_/keyword-kids+jerseys?cm_sp=TopNav-_-Clothing-_-Clothingkidsjerserys&amp;cm=TnDdclothingkidsjerseys" title="Kids Jerseys">Jerseys</a></li>
-                                <li><a href="http://www.champssports.com/_-_/keyword-kids+pants?cm_sp=TopNav-_-Clothing-_-Clothingkidspants&amp;cm=TnDdclothingkidspants" title="Kids Pants">Pants</a></li>
-                                <li><a href="http://www.champssports.com/_-_/keyword-kids+shorts?cm_sp=TopNav-_-Clothing-_-Clothingkidsshorts&amp;cm=TnDdclothingkidsshorts" title="Kids Shorts">Shorts</a></li>
-                             <li><a href="http://www.champssports.com/_-_/keyword-kids+sweatshirts?cm_sp=TopNav-_-Clothing-_-Clothingkidssweatshirts&amp;cm=TnDdclothingkidssweatshirts" title="Kids Sweatshirts">Sweatshirts</a></li>
-                             <li><a href="http://www.champssports.com/_-_/keyword-kids+socks?cm_sp=TopNav-_-Clothing-_-Clothingkidssocks&amp;cm=TnDdclothingkidssocks" title="Kids Socks">Socks</a></li>
-                             <li><a href="http://www.champssports.com/_-_/keyword-sale+kids+clothing?cm_sp=TopNav-_-Clothing-_-Clothingkidssale&amp;cm=TnDdclothingkidssale" title="Sale Kids Clothing">Sale</a></li>
+                                <li><a href="http://www.champssports.com/_-_/N-1z141xe/keyword-kids+shoes" manual_cm_sp="TopNav-_-Clothing-_-Clothingkidsnewarrivals&amp;cm=TnDdclothingkidsnewarrivals" title="New Arrivals - Kids' Clothing">New Arrivals</a></li>
+                                <li><a href="http://www.champssports.com/_-_/keyword-kids+t+shirts" manual_cm_sp="TopNav-_-Clothing-_-Clothingkidstshirts&amp;cm=TnDdclothingkidstshirts" title="Kids T-Shirts">T-Shirts</a></li>
+                                <li><a href="http://www.champssports.com/_-_/keyword-kids+hoodies" manual_cm_sp="TopNav-_-Clothing-_-Clothingkidshoodies&amp;cm=TnDdclothingkidshoodies" title="Kids Hoodies">Hoodies</a></li>
+                                <li><a href="http://www.champssports.com/_-_/keyword-kids+jackets" manual_cm_sp="TopNav-_-Clothing-_-Clothingkidsjackets&amp;cm=TnDdclothingkidsjackets" title="Kids Jackets">Jackets</a></li>
+                                <li><a href="http://www.champssports.com/_-_/keyword-kids+jerseys" manual_cm_sp="TopNav-_-Clothing-_-Clothingkidsjerserys&amp;cm=TnDdclothingkidsjerseys" title="Kids Jerseys">Jerseys</a></li>
+                                <li><a href="http://www.champssports.com/_-_/keyword-kids+pants" manual_cm_sp="TopNav-_-Clothing-_-Clothingkidspants&amp;cm=TnDdclothingkidspants" title="Kids Pants">Pants</a></li>
+                                <li><a href="http://www.champssports.com/_-_/keyword-kids+shorts" manual_cm_sp="TopNav-_-Clothing-_-Clothingkidsshorts&amp;cm=TnDdclothingkidsshorts" title="Kids Shorts">Shorts</a></li>
+                             <li><a href="http://www.champssports.com/_-_/keyword-kids+sweatshirts" manual_cm_sp="TopNav-_-Clothing-_-Clothingkidssweatshirts&amp;cm=TnDdclothingkidssweatshirts" title="Kids Sweatshirts">Sweatshirts</a></li>
+                             <li><a href="http://www.champssports.com/_-_/keyword-kids+socks" manual_cm_sp="TopNav-_-Clothing-_-Clothingkidssocks&amp;cm=TnDdclothingkidssocks" title="Kids Socks">Socks</a></li>
+                             <li><a href="http://www.champssports.com/_-_/keyword-sale+kids+clothing" manual_cm_sp="TopNav-_-Clothing-_-Clothingkidssale&amp;cm=TnDdclothingkidssale" title="Sale Kids Clothing">Sale</a></li>
 							</ul>
                             
                         </div>
@@ -838,16 +839,16 @@ body {
                         <div class="dd_column spec_wide">
 							<p>TOP BRANDS</p>
                             <ul>
-                                <li><a href="http://www.champssports.com/_-_/keyword-adidas+clothing?cm_sp=TopNav-_-Clothing-_-Clothingadidas&amp;cm=TnDdclothingadidas" title="adidas Clothing">adidas</a></li>
-                                <li><a href="http://www.champssports.com/_-_/keyword-adidas+originals+clothing?cm_sp=TopNav-_-Clothing-_-Clothingadidasoriginals&amp;cm=TnDdclothingadidasoriginals" title="adidas Originals Clothing">adidas Originals</a></li>
-                                <li><a href="http://www.champssports.com/_-_/keyword-champs+sports+gear?cm_sp=TopNav-_-Clothing-_-Clothingcsg&amp;cm=TnDdclothingcsg" title="Champs Sports Clothing">Champs Sports Gear</a></li>
-                                <li><a href="http://www.champssports.com/_-_/keyword-jordan+clothing?cm_sp=TopNav-_-Clothing-_-Clothingjordan&amp;cm=TnDdclothingjordan" title="Jordan Clothing">Jordan</a></li>
-                                <li><a href="http://www.champssports.com/_-_/keyword-nike+clothing?cm_sp=TopNav-_-Clothing-_-Clothingnike&amp;cm=TnDdclothingnike" title="Nike Clothing">Nike</a></li>
-                                <li><a href="http://www.champssports.com/_-_/keyword-puma+clothing?cm_sp=TopNav-_-Clothing-_-Clothingpuma&amp;cm=TnDdclothingpuma" title="PUMA Clothing">PUMA</a></li>
-                                <li><a href="http://www.champssports.com/_-_/keyword-reebok+clothing?cm_sp=TopNav-_-Clothing-_-Clothingreebok&amp;cm=TnDdclothingreebok" title="Reebok Clothing">Reebok</a></li>
-                                <li><a href="http://www.champssports.com/_-_/keyword-under+armour+clothing?cm_sp=TopNav-_-Clothing-_-Clothingunderarmour&amp;cm=TnDdclothingunderarmour" title="Under Armour Clothing">Under Armour</a></li>
+                                <li><a href="http://www.champssports.com/adidas/Clothing/_-_/N-zcZrk" manual_cm_sp="TopNav-_-Clothing-_-Clothingadidas&amp;cm=TnDdclothingadidas" title="adidas Clothing">adidas</a></li>
+                                <li><a href="http://www.champssports.com/adidas-Originals/Clothing/_-_/N-zrZrk" manual_cm_sp="TopNav-_-Clothing-_-Clothingadidasoriginals&amp;cm=TnDdclothingadidasoriginals" title="adidas Originals Clothing">adidas Originals</a></li>
+                                <li><a href="http://www.champssports.com/CSG-Champs-Sports-Ge/Clothing/_-_/N-225Zrk" manual_cm_sp="TopNav-_-Clothing-_-Clothingcsg&amp;cm=TnDdclothingcsg" title="Champs Sports Clothing">Champs Sports Gear</a></li>
+                                <li><a href="http://www.champssports.com/Jordan/Clothing/_-_/N-11cZrk" manual_cm_sp="TopNav-_-Clothing-_-Clothingjordan&amp;cm=TnDdclothingjordan" title="Jordan Clothing">Jordan</a></li>
+                                <li><a href="http://www.champssports.com/Nike/Clothing/_-_/N-zzZrk" manual_cm_sp="TopNav-_-Clothing-_-Clothingnike&amp;cm=TnDdclothingnike" title="Nike Clothing">Nike</a></li>
+                                <li><a href="http://www.champssports.com/PUMA/Clothing/_-_/N-zqZrk" manual_cm_sp="TopNav-_-Clothing-_-Clothingpuma&amp;cm=TnDdclothingpuma" title="PUMA Clothing">PUMA</a></li>
+                                <li><a href="http://www.champssports.com/Reebok/Clothing/_-_/N-zlZrk" manual_cm_sp="TopNav-_-Clothing-_-Clothingreebok&amp;cm=TnDdclothingreebok" title="Reebok Clothing">Reebok</a></li>
+                                <li><a href="http://www.champssports.com/Under-Armour/Clothing/_-_/N-10qZrk" manual_cm_sp="TopNav-_-Clothing-_-Clothingunderarmour&amp;cm=TnDdclothingunderarmour" title="Under Armour Clothing">Under Armour</a></li>
                             </ul>
-                            <p><a href="http://www.champssports.com/_-_/keyword-clothing?cm_sp=TopNav-_-Clothing-_-Clothingshopall&amp;cm=TnDdclothingshopall" title="Shop All Clothing"><strong>Shop All Clothing</strong></a></p>
+                            
                         </div>
 
                     </div><!-- close sticker_menu_inner -->
@@ -863,42 +864,39 @@ body {
     <div onmouseover="openTab(this, 'navButtonAccess');" onmouseout="closeTab(this);">
         <ul>
             <li>
-                <div class="navBtn navButtonAccess"><a href="http://www.champssports.com/Accessories/?cm_sp=Header-_-Category-_-Accessories" title="Accessories"><img src="//www.champssports.com/images/fl/global/pixel.gif" alt="Accessories" width="118" height="37" border="0"><span>Accessories</span></a></div>
+                <div class="navBtn navButtonAccess"><a href="http://www.champssports.com/Accessories/_-_/N-rl" manual_cm_sp="Header-_-Category-_-Accessories" title="Accessories"><img src="//www.champssports.com/images/fl/global/pixel.gif" alt="Accessories" width="118" height="37" border="0"><span>Accessories</span></a></div>
                 <div class="sticker_menu menu_size_1">
                     <div class="sticker_menu_inner">
                     
                         <div class="dd_column">
                             <p>ACCESSORIES</p>
                             <ul>
-                                <li><a href="http://www.champssports.com/_-_/N-1z141xe/keyword-accessories?cm_REF=New+Arrivals?cm_sp=TopNav-_-Accessories-_-Accessoriesnewarrivals&amp;cm=TnDdaccessoriesnewarrivals" title="New Arrivals - Accessories">New Arrivals</a></li>
-                                <li><a href="http://www.champssports.com/_-_/keyword-backpacks?cm_sp=TopNav-_-Accessories-_-Accessoriesbackpacks&amp;cm=TnDdaccessoriesbackpacks" title="Backpacks">Backpacks</a></li>
-                                <li><a href="http://www.champssports.com/_-_/keyword-belts?cm_sp=TopNav-_-Accessories-_-Accessoriesbelts&amp;cm=TnDdaccessoriesbelts" title="Belts">Belts</a></li>
-                                <li><a href="http://www.champssports.com/_-_/keyword-duffle+bags?cm_sp=TopNav-_-Accessories-_-Accessoriesdufflebags&amp;cm=TnDdaccessoriesdufflebags" title="Duffle Bags">Duffle Bags</a></li>
-                                <li><a href="http://www.champssports.com/_-_/keyword-gym+sacks?cm_sp=TopNav-_-Accessories-_-Accessoriesgymsacks&amp;cm=TnDdaccessoriesgymsacks" title="Gym Sacks">Gym Sacks</a></li>
-                                <li><a href="http://www.champssports.com/_-_/keyword-hats?cm_sp=TopNav-_-Accessories-_-Accessorieshats&amp;cm=TnDdaccessorieshats" title="Hats &amp; Caps">Hats &amp; Caps</a></li>
-                                <li><a href="http://www.champssports.com/Headbands-Wristbands/_-_/N-m1?cm_sp=TopNav-_-Accessories-_-Accessoriesbackpacks&amp;cm=TnDdaccessoriesbackpacks" title="Headbands &amp; Wristbands">Headbands &amp; Wristbands</a></li>
-                                <li><a href="http://www.champssports.com/_-_/keyword-headphones?cm_sp=TopNav-_-Accessories-_-Accessoriesheadphones&amp;cm=TnDdaccessoriesheadphones" title="Headphones">Headphones</a></li>
-                                <li><a href="http://www.champssports.com/_-_/keyword-socks?cm_sp=TopNav-_-Accessories-_-Accessoriessocks&amp;cm=TnDdaccessoriessocks" title="Socks">Socks</a></li>
-                                <li><a href="http://www.champssports.com/_-_/keyword-sunglasses?cm_sp=TopNav-_-Accessories-_-Accessoriessunglasses&amp;cm=TnDdaccessoriessunglasses" title="Sunglasses">Sunglasses</a></li>
-                                <li><a href="http://www.champssports.com/_-_/keyword-watches?cm_sp=TopNav-_-Accessories-_-Accessorieswatches&amp;cm=TnDdaccessorieswatches" title="Watches">Watches</a></li>
-                                <li><a href="http://www.champssports.com/_-_/keyword-sale+accessories?cm_sp=TopNav-_-Accessories-_-Accessoriessale&amp;cm=TnDdaccessoriessale" title="Sale Accessories">Sale</a></li>
+                                <li><a href="http://www.champssports.com/Accessories/_-_/N-rlZ1z141xe" manual_cm_sp="TopNav-_-Accessories-_-Accessoriesnewarrivals&amp;cm=TnDdaccessoriesnewarrivals" title="New Arrivals - Accessories">New Arrivals</a></li>
+                                <li><a href="http://www.champssports.com/Bags-Backpacks/_-_/N-kn" manual_cm_sp="TopNav-_-Accessories-_-Accessoriesbackpacks&amp;cm=TnDdaccessoriesbackpacks" title="Backpacks">Backpacks</a></li>
+                                <li><a href="http://www.champssports.com/Belts-Buckles/_-_/N-ku" manual_cm_sp="TopNav-_-Accessories-_-Accessoriesbelts&amp;cm=TnDdaccessoriesbelts" title="Belts">Belts</a></li>
+                                <li><a href="http://www.champssports.com/Bags-Duffel-Bags/_-_/N-ko" manual_cm_sp="TopNav-_-Accessories-_-Accessoriesdufflebags&amp;cm=TnDdaccessoriesdufflebags" title="Duffle Bags">Duffle Bags</a></li>
+                                <li><a href="http://www.champssports.com/Bags-Gym-Sacks/_-_/N-kp" manual_cm_sp="TopNav-_-Accessories-_-Accessoriesgymsacks&amp;cm=TnDdaccessoriesgymsacks" title="Gym Sacks">Gym Sacks</a></li>
+                                <li><a href="http://www.champssports.com/Hats/_-_/N-lq" manual_cm_sp="TopNav-_-Accessories-_-Accessorieshats&amp;cm=TnDdaccessorieshats" title="Hats &amp; Caps">Hats &amp; Caps</a></li>
+                                <li><a href="http://www.champssports.com/Headbands-Wristbands/_-_/N-m1" manual_cm_sp="TopNav-_-Accessories-_-Accessoriesbackpacks&amp;cm=TnDdaccessoriesbackpacks" title="Headbands &amp; Wristbands">Headbands &amp; Wristbands</a></li>
+                                <li><a href="http://www.champssports.com/Socks/_-_/N-n9" manual_cm_sp="TopNav-_-Accessories-_-Accessoriessocks&amp;cm=TnDdaccessoriessocks" title="Socks">Socks</a></li>
+                                <li><a href="http://www.champssports.com/Sunglasses/_-_/N-ns" manual_cm_sp="TopNav-_-Accessories-_-Accessoriessunglasses&amp;cm=TnDdaccessoriessunglasses" title="Sunglasses">Sunglasses</a></li>
+                                <li><a href="http://www.champssports.com/Sale/Accessories/_-_/N-1z141ydZrl" manual_cm_sp="TopNav-_-Accessories-_-Accessoriessale&amp;cm=TnDdaccessoriessale" title="Sale Accessories">Sale</a></li>
 							</ul>
                         </div>
                         
                         <div class="dd_column">
 							<p>TOP BRANDS</p>
                             <ul>
-                            	<li><a href="http://www.champssports.com/_-_/keyword-adidas+accessories?cm_sp=TopNav-_-Accessories-_-Accessoriesadidas&amp;cm=TnDdaccessoriesadidas" title="adidas Accessories">adidas</a></li>
-                                <li><a href="http://www.champssports.com/_-_/keyword-asics+accessories?cm_sp=TopNav-_-Accessories-_-Accessoriesasics&amp;cm=TnDdaccessoriesasics" title="ASICS Accessories">ASICS</a></li>
-                                <li><a href="http://www.champssports.com/searchresults/brand:Jansport/?cm_sp=TopNav-_-Accessories-_-Accessoriesjansport&amp;cm=TnDdaccessoriesjansport" title="Jansport Backpacks">Jansport</a></li>
-                                <li><a href="http://www.champssports.com/_-_/keyword-jordan+accessories?cm_sp=TopNav-_-Accessories-_-Accessoriesjordan&amp;cm=TnDdaccessoriesjordan" title="Jordan Accessories">Jordan</a></li>
-                                <li><a href="http://www.champssports.com/searchresults/brand:Monster/?cm_sp=TopNav-_-Accessories-_-Accessoriesmonster&amp;cm=TnDdaccessoriesmonster" title="Monster Beats by Dr. Dre">Monster</a></li>
-                                <li><a href="http://www.champssports.com/_-_/keyword-new+era+hats?cm_sp=TopNav-_-Accessories-_-Accessoriesnewera&amp;cm=TnDdaccessoriesnewera" title="New Era Hats">New Era</a></li>
-                                <li><a href="http://www.champssports.com/_-_/keyword-nike+accessories?cm_sp=TopNav-_-Accessories-_-Accessoriesnike&amp;cm=TnDdaccessoriesnike" title="Nike Accessories">Nike</a></li>
-                                <li><a href="http://www.champssports.com/searchresults/brand:Oakley/?cm_sp=TopNav-_-Accessories-_-Accessoriesoakley&amp;cm=TnDdaccessoriesoakley" title="Oakley Sunglasses">Oakley</a></li>
-                                <li><a href="http://www.champssports.com/_-_/keyword-under+armour+accessories?cm_sp=TopNav-_-Accessories-_-Accessoriesunderarmour&amp;cm=TnDdaccessoriesunderarmour" title="Under Armour Accessories">Under Armour</a></li>
+                            	<li><a href="http://www.champssports.com/adidas/Accessories/_-_/N-zcZrl" manual_cm_sp="TopNav-_-Accessories-_-Accessoriesadidas&amp;cm=TnDdaccessoriesadidas" title="adidas Accessories">adidas</a></li>
+                                <li><a href="http://www.champssports.com/ASICS/Accessories/_-_/N-10iZrl" manual_cm_sp="TopNav-_-Accessories-_-Accessoriesasics&amp;cm=TnDdaccessoriesasics" title="ASICS Accessories">ASICS</a></li>
+                                <li><a href="http://www.champssports.com/JanSport/_-_/N-1z13wxd" manual_cm_sp="TopNav-_-Accessories-_-Accessoriesjansport&amp;cm=TnDdaccessoriesjansport" title="Jansport Backpacks">Jansport</a></li>
+                                <li><a href="http://www.champssports.com/Jordan/Accessories/_-_/N-11cZrl" manual_cm_sp="TopNav-_-Accessories-_-Accessoriesjordan&amp;cm=TnDdaccessoriesjordan" title="Jordan Accessories">Jordan</a></li>
+                                <li><a href="http://www.champssports.com/New-Era/_-_/N-11v" manual_cm_sp="TopNav-_-Accessories-_-Accessoriesnewera&amp;cm=TnDdaccessoriesnewera" title="New Era Hats">New Era</a></li>
+                                <li><a href="http://www.champssports.com/Nike/Accessories/_-_/N-zzZrl" manual_cm_sp="TopNav-_-Accessories-_-Accessoriesnike&amp;cm=TnDdaccessoriesnike" title="Nike Accessories">Nike</a></li>
+                                <li><a href="http://www.champssports.com/Oakley/Sunglasses/_-_/N-20cZns" manual_cm_sp="TopNav-_-Accessories-_-Accessoriesoakley&amp;cm=TnDdaccessoriesoakley" title="Oakley Sunglasses">Oakley</a></li>
+                                <li><a href="http://www.champssports.com/Under-Armour/Accessories/_-_/N-10qZrl" manual_cm_sp="TopNav-_-Accessories-_-Accessoriesunderarmour&amp;cm=TnDdaccessoriesunderarmour" title="Under Armour Accessories">Under Armour</a></li>
                             </ul>
-                            <p><a href="http://www.champssports.com/_-_/keyword-accessories/?cm_sp=TopNav-_-Accessories-_-Accessoriesshopall&amp;cm=TnDdaccessoriesshopall" title="Shop All Accessories">Shop All</a></p>
+                            
                         </div>
     
 
@@ -915,51 +913,51 @@ body {
     <div onmouseover="openTab(this, 'navButtonCasual');" onmouseout="closeTab(this);">
         <ul>
             <li>
-                <div class="navBtn navButtonCasual"><a href="http://www.champssports.com/Casual/?cm_sp=TopNav-_-Casual-_-Casualsupcat&amp;cm=TnCasualSupcat" title="Casual Shoes - Clothing"><img src="//www.champssports.com/images/fl/global/pixel.gif" alt="Casual Shoes - Clothing" width="80" height="37" border="0"><span>Casual</span></a></div>
+                <div class="navBtn navButtonCasual"><a href="http://www.champssports.com/Casual/_-_/N-fe" manual_cm_sp="TopNav-_-Casual-_-Casualsupcat&amp;cm=TnCasualSupcat" title="Casual Shoes - Clothing"><img src="//www.champssports.com/images/fl/global/pixel.gif" alt="Casual Shoes - Clothing" width="80" height="37" border="0"><span>Casual</span></a></div>
                 <div class="sticker_menu menu_size_1">
                     <div class="sticker_menu_inner">
     
                         <div class="dd_column">
-                            <p><a href="http://www.champssports.com/_-_/keyword-casual+shoes?cm_sp=TopNav-_-Casual-_-Casualshoes&amp;cm=TnDdcasualshoes/" title="Casual Shoes">CASUAL SHOES</a></p>
+                            <p><a href="http://www.champssports.com/Casual/Shoes/_-_/N-feZrj" manual_cm_sp="TopNav-_-Casual-_-Casualshoes&amp;cm=TnDdcasualshoes/" title="Casual Shoes">CASUAL SHOES</a></p>
                             <ul>
-                                <li><a href="http://www.champssports.com/_-_/N-1z141xe/keyword-casual+sneakers?cm_REF=New+Arrivals?cm_sp=TopNav-_-Casual-_-Casualshoesnewarrivals&amp;cm=TnDdcasualshoesnewarrivals" title="New Arrivals - Casual Shoes">New Arrivals</a></li>
-                                <li><a href="http://www.champssports.com/_-_/keyword-boat+shoes?cm_sp=TopNav-_-Casual-_-Casualboatshoes&amp;cm=TnDdboatshoes/" title="Boat Shoes">Boat Shoes</a></li>
-                                <li><a href="http://www.champssports.com/_-_/keyword-casual+boots?cm_sp=TopNav-_-Casual-_-Casualboots&amp;cm=TnDdcasualboots/" title="Casual Boots">Boots</a></li>
-                                <li><a href="http://www.champssports.com/_-_/keyword-casual+sandals?cm_sp=TopNav-_-Casual-_-Casualsandals&amp;cm=TnDdcasualsandals/" title="Casual Sandals &amp; Slides">Sandals &amp; Slides</a></li>
-                                <li><a href="http://www.champssports.com/_-_/keyword-sale+casual+shoes?cm_sp=TopNav-_-Casual-_-Casualsaleshoes&amp;cm=TnDdcasualsaleshoes/" title="Sale Casual Shoes">Sale</a></li>
+                                <li><a href="http://www.champssports.com/Casual/Shoes/_-_/N-feZrjZ1z141xe" manual_cm_sp="TopNav-_-Casual-_-Casualshoesnewarrivals&amp;cm=TnDdcasualshoesnewarrivals" title="New Arrivals - Casual Shoes">New Arrivals</a></li>
+                                <li><a href="http://www.champssports.com/Dress-Shoes-Boat-Shoes/_-_/N-hi" manual_cm_sp="TopNav-_-Casual-_-Casualboatshoes&amp;cm=TnDdboatshoes/" title="Boat Shoes">Boat Shoes</a></li>
+                                <li><a href="http://www.champssports.com/Casual/Boots/_-_/N-feZhb" manual_cm_sp="TopNav-_-Casual-_-Casualboots&amp;cm=TnDdcasualboots/" title="Casual Boots">Boots</a></li>
+                                <li><a href="http://www.champssports.com/Casual/Sandals/_-_/N-feZi3" manual_cm_sp="TopNav-_-Casual-_-Casualsandals&amp;cm=TnDdcasualsandals/" title="Casual Sandals &amp; Slides">Sandals &amp; Slides</a></li>
+                                <li><a href="http://www.champssports.com/Sale/Casual/Shoes/_-_/N-1z141ydZfeZrj" manual_cm_sp="TopNav-_-Casual-_-Casualsaleshoes&amp;cm=TnDdcasualsaleshoes/" title="Sale Casual Shoes">Sale</a></li>
 							</ul>
                             <div class="item_spacer">&nbsp;</div>
 							<p>TOP BRANDS</p>
                             <ul>
-                                <li><a href="http://www.champssports.com/adidas-Originals/?cm_sp=TopNav-_-Casual-_-adidasoriginalscasualbrand&amp;cm=TnDdadidasoriginalscasualbrand/" title="adidas Originals Casual Shoes, Clothing">adidas Originals</a></li>
-                                <li><a href="http://www.champssports.com/_-_/keyword-converse+casual?cm_sp=TopNav-_-Casual-_-conversecasualbrand&amp;cm=TnDdconversecasualshoes/" title="Converse Casual Shoes">Converse</a></li>
-                                <li><a href="http://www.champssports.com/_-_/keyword-jordan+casual?cm_sp=TopNav-_-Casual-_-jordancasualbrand&amp;cm=TnDdjordancasualshoes/" title="Jordan Casual Shoes, Clothing">Jordan</a></li>
-                                <li><a href="http://www.champssports.com/_-_/keyword-nike+casual?cm_sp=TopNav-_-Casual-_-nikecasualbrand&amp;cm=TnDdnikecasualshoes/" title="Nike Casual Shoes, Clothing">Nike</a></li>
-                                <li><a href="http://www.champssports.com/_-_/keyword-puma+casual?cm_sp=TopNav-_-Casual-_-pumacasualbrand&amp;cm=TnDdpumacasualshoes/" title="PUMA Casual Shoes, Clothing">PUMA</a></li>
-                                <li><a href="http://www.champssports.com/searchresults/brand:Timberland/?cm_sp=TopNav-_-Casual-_-timberlandcasualbrand&amp;cm=TnDdtimberlandcasualboots/" title="Timberland Shoes, Boots">Timberland</a></li>
-                                <li><a href="http://www.champssports.com/searchresults/brand:Southpole/?cm_sp=TopNav-_-Casual-_-southpolecasualbrand&amp;cm=TnDdsouthpolecasualclothing/" title="Southpole Casual Clothing">Southpole</a></li>
+                                <li><a href="http://www.champssports.com/adidas-Originals/Casual/_-_/N-zrZfe" manual_cm_sp="TopNav-_-Casual-_-adidasoriginalscasualbrand&amp;cm=TnDdadidasoriginalscasualbrand/" title="adidas Originals Casual Shoes, Clothing">adidas Originals</a></li>
+                                <li><a href="http://www.champssports.com/Converse/_-_/N-108" manual_cm_sp="TopNav-_-Casual-_-conversecasualbrand&amp;cm=TnDdconversecasualshoes/" title="Converse Casual Shoes">Converse</a></li>
+                                <li><a href="http://www.champssports.com/Jordan/Casual/_-_/N-11cZfe" manual_cm_sp="TopNav-_-Casual-_-jordancasualbrand&amp;cm=TnDdjordancasualshoes/" title="Jordan Casual Shoes, Clothing">Jordan</a></li>
+                                <li><a href="http://www.champssports.com/Nike/Casual/_-_/N-zzZfe" manual_cm_sp="TopNav-_-Casual-_-nikecasualbrand&amp;cm=TnDdnikecasualshoes/" title="Nike Casual Shoes, Clothing">Nike</a></li>
+                                <li><a href="http://www.champssports.com/PUMA/Casual/_-_/N-zqZfe" manual_cm_sp="TopNav-_-Casual-_-pumacasualbrand&amp;cm=TnDdpumacasualshoes/" title="PUMA Casual Shoes, Clothing">PUMA</a></li>
+                                <li><a href="http://www.champssports.com/Timberland/Casual/_-_/N-ztZfe" manual_cm_sp="TopNav-_-Casual-_-timberlandcasualbrand&amp;cm=TnDdtimberlandcasualboots/" title="Timberland Shoes, Boots">Timberland</a></li>
+                                <li><a href="http://www.champssports.com/Southpole/_-_/N-12p" manual_cm_sp="TopNav-_-Casual-_-southpolecasualbrand&amp;cm=TnDdsouthpolecasualclothing/" title="Southpole Casual Clothing">Southpole</a></li>
                             </ul>
                         </div>
 
                         <div class="dd_column">
-                            <p><a href="http://www.champssports.com/_-_/keyword-casual+clothing?cm_sp=TopNav-_-Casual-_-Casualclothing&amp;cm=TnDdcasualclothing" title="Casual Clothing">CASUAL CLOTHING</a></p>
+                            <p><a href="http://www.champssports.com/Casual/Clothing/_-_/N-feZrk" manual_cm_sp="TopNav-_-Casual-_-Casualclothing&amp;cm=TnDdcasualclothing" title="Casual Clothing">CASUAL CLOTHING</a></p>
                             <ul>
-                                <li><a href="http://www.champssports.com/_-_/N-1z141xe/keyword-casual+clothing?cm_REF=New+Arrivals?cm_sp=TopNav-_-Casual-_-Casualclothingnewarrivals&amp;cm=TnDdcasualclothingnewarrivals" title="New Arrivals - Casual Clothing">New Arrivals</a></li>
-                                <li><a href="http://www.champssports.com/_-_/keyword-casual+t+shirts?cm_sp=TopNav-_-Casual-_-Casualt-shirts&amp;cm=TnDdcasualt-shirts/" title="Casual T-Shirts">T-Shirts</a></li>
-                                <li><a href="http://www.champssports.com/_-_/keyword-casual+hats?cm_sp=TopNav-_-Casual-_-Casualhats&amp;cm=TnDdcasualhats/" title="Casual Hats">Hats</a></li>
-                                <li><a href="http://www.champssports.com/_-_/keyword-casual+hoodies?cm_sp=TopNav-_-Casual-_-Casualhoodies&amp;cm=TnDdcasualhoodies/" title="Casual Hoodies">Hoodies</a></li>
-                                <li><a href="http://www.champssports.com/_-_/keyword-casual+jackets?cm_sp=TopNav-_-Casual-_-Casualjackets&amp;cm=TnDdcasualjackets/" title="Casual Jackets">Jackets</a></li>
-                                <li><a href="http://www.champssports.com/_-_/keyword-casual+shorts?cm_sp=TopNav-_-Casual-_-Casualshorts&amp;cm=TnDdcasualshorts/" title="Casual Shorts">Shorts</a></li>
-                                <li><a href="http://www.champssports.com/_-_/keyword-sale+casual+clothing?cm_sp=TopNav-_-Casual-_-Casualsaleclothing&amp;cm=TnDdcasualsaleclothing/" title="Sale Casual Clothing">Sale</a></li>
+                                <li><a href="http://www.champssports.com/Casual/Clothing/_-_/N-feZrkZ1z141xe" manual_cm_sp="TopNav-_-Casual-_-Casualclothingnewarrivals&amp;cm=TnDdcasualclothingnewarrivals" title="New Arrivals - Casual Clothing">New Arrivals</a></li>
+                                <li><a href="http://www.champssports.com/Casual/T-Shirts/_-_/N-feZif" manual_cm_sp="TopNav-_-Casual-_-Casualt-shirts&amp;cm=TnDdcasualt-shirts/" title="Casual T-Shirts">T-Shirts</a></li>
+                                <li><a href="http://www.champssports.com/Casual/Hats/_-_/N-feZlq" manual_cm_sp="TopNav-_-Casual-_-Casualhats&amp;cm=TnDdcasualhats/" title="Casual Hats">Hats</a></li>
+                                <li><a href="http://www.champssports.com/_-_/keyword-casual+hoodies" manual_cm_sp="TopNav-_-Casual-_-Casualhoodies&amp;cm=TnDdcasualhoodies/" title="Casual Hoodies">Hoodies</a></li>
+                                <li><a href="http://www.champssports.com/Casual/Jackets-Vests/_-_/N-feZj7" manual_cm_sp="TopNav-_-Casual-_-Casualjackets&amp;cm=TnDdcasualjackets/" title="Casual Jackets">Jackets</a></li>
+                                <li><a href="http://www.champssports.com/Casual/Shorts/_-_/N-feZjf" manual_cm_sp="TopNav-_-Casual-_-Casualshorts&amp;cm=TnDdcasualshorts/" title="Casual Shorts">Shorts</a></li>
+                                <li><a href="http://www.champssports.com/Sale/Casual/Clothing/_-_/N-1z141ydZfeZrk" manual_cm_sp="TopNav-_-Casual-_-Casualsaleclothing&amp;cm=TnDdcasualsaleclothing/" title="Sale Casual Clothing">Sale</a></li>
 							</ul>
                             <div class="item_spacer">&nbsp;</div>
 							<p>TOP SELLERS</p>
                             <ul>
-                                <li><a href="http://www.champssports.com/_-_/keyword-nike+air+force+1?cm_sp=TopNav-_-Casual-_-Casualaf1&amp;cm=TnDdcasualaf1/" title="Nike Air Force 1">Nike Air Force 1</a></li>
-                                <li><a href="http://www.champssports.com/_-_/keyword-adidas+adicolor?cm_sp=TopNav-_-Casual-_-Casualadidasoriginalsadicolor&amp;cm=TnDdadidasoriginalsadicolor/" title="adidas Originals adicolor">adidas adicolor</a></li>
-                                <li><a href="http://www.champssports.com/_-_/keyword-nike+acg?cm_sp=TopNav-_-Casual-_-Casualnikeacg&amp;cm=TnDdcasualnikeacg/" title="Nike ACG">Nike ACG</a></li>
-                                <li><a href="http://www.champssports.com/_-_/keyword-nike+shox?cm_sp=TopNav-_-Casual-_-Casualnikeshox&amp;cm=TnDdcasualnikeshox/" title="Nike Shox">Nike Shox</a></li>
-                                <li><a href="http://www.champssports.com/_-_/keyword-adidas+originals+superstar?cm_sp=TopNav-_-Casual-_-Casualadidasoriginalssuperstar&amp;cm=TnDdadidasoriginalssuperstar/" title="adidas Originals Superstar">adidas Originals Superstar</a></li>
+                                <li><a href="http://www.champssports.com/_-_/keyword-nike+air+force+1" manual_cm_sp="TopNav-_-Casual-_-Casualaf1&amp;cm=TnDdcasualaf1/" title="Nike Air Force 1">Nike Air Force 1</a></li>
+                                <li><a href="http://www.champssports.com/_-_/keyword-adidas+adicolor" manual_cm_sp="TopNav-_-Casual-_-Casualadidasoriginalsadicolor&amp;cm=TnDdadidasoriginalsadicolor/" title="adidas Originals adicolor">adidas adicolor</a></li>
+                                <li><a href="http://www.champssports.com/_-_/keyword-nike+acg" manual_cm_sp="TopNav-_-Casual-_-Casualnikeacg&amp;cm=TnDdcasualnikeacg/" title="Nike ACG">Nike ACG</a></li>
+                                <li><a href="http://www.champssports.com/_-_/keyword-nike+shox" manual_cm_sp="TopNav-_-Casual-_-Casualnikeshox&amp;cm=TnDdcasualnikeshox/" title="Nike Shox">Nike Shox</a></li>
+                                <li><a href="http://www.champssports.com/_-_/keyword-adidas+originals+superstar" manual_cm_sp="TopNav-_-Casual-_-Casualadidasoriginalssuperstar&amp;cm=TnDdadidasoriginalssuperstar/" title="adidas Originals Superstar">adidas Originals Superstar</a></li>
                             </ul>
                         </div>
 
@@ -977,57 +975,58 @@ body {
     <div onmouseover="openTab(this, 'navButtonRun');" onmouseout="closeTab(this);">
         <ul>
             <li>
-                <div class="navBtn navButtonRun"><a href="http://www.champssports.com/Running/?cm_sp=TopNav-_-Running-_-Runningsupcat&amp;cm=TnRunSupcat" title="Running Shoes - Clothing"><img src="//www.champssports.com/images/fl/global/pixel.gif" alt="Running Shoes - Clothing" width="89" height="37" border="0"><span>Running</span></a></div>
+                <div class="navBtn navButtonRun"><a href="http://www.champssports.com/Running/_-_/N-f9" manual_cm_sp="TopNav-_-Running-_-Runningsupcat&amp;cm=TnRunSupcat" title="Running Shoes - Clothing"><img src="//www.champssports.com/images/fl/global/pixel.gif" alt="Running Shoes - Clothing" width="89" height="37" border="0"><span>Running</span></a></div>
                 <div class="sticker_menu menu_size_1">
                     <div class="sticker_menu_inner">
                     
                         <div class="dd_column">
-                            <p><a href="http://www.champssports.com/_-_/keyword-running+shoes?cm_sp=TopNav-_-Running-_-Runningshoes&amp;cm=TnDdrunningshoes/" title="Running Shoes">RUNNING SHOES</a></p>
+                            <p><a href="http://www.champssports.com/Running/Shoes/_-_/N-f9Zrj" manual_cm_sp="TopNav-_-Running-_-Runningshoes&amp;cm=TnDdrunningshoes/" title="Running Shoes">RUNNING SHOES</a></p>
                             <ul>
-                                <li><a href="http://www.champssports.com/_-_/N-1z141xe/keyword-running+shoes?cm_REF=New+Arrivals?cm_sp=TopNav-_-Running-_-Runningshoesnewarrivals&amp;cm=TnDdrunningshoesnewarrivals" title="New Arrivals - Running Shoes">New Arrivals</a></li>
-                                <li><a href="http://www.champssports.com/_-_/keyword-cushioned+running+shoes?cm_sp=TopNav-_-Running-_-cushionedRunningshoes&amp;cm=TnDdcushionedrunningshoes/" title="Cushioned Running Shoes">Cushioned</a></li>
-                                <li><a href="http://www.champssports.com/_-_/keyword-barefoot+running+shoes?cm_sp=TopNav-_-Running-_-barefootRunningshoes&amp;cm=TnDdbarefootrunningshoes/" title="Barefoot/Minimalist Running Shoes">Barefoot/Minimalist</a></li>
-                                <li><a href="http://www.champssports.com/_-_/keyword-lightweight+running+shoes?cm_sp=TopNav-_-Running-_-lightweightRunningshoes&amp;cm=TnDdlightweightrunningshoes/" title="Lightweight Running Shoes">Lightweight</a></li>
-                                <li><a href="http://www.champssports.com/_-_/keyword-stability+running+shoes?cm_sp=TopNav-_-Running-_-stabilityRunningshoes&amp;cm=TnDdstabilityrunningshoes/" title="Stability Running Shoes">Stability</a></li>
-                                <li><a href="http://www.champssports.com/_-_/keyword-motion+running+shoes?cm_sp=TopNav-_-Running-_-motionRunningshoes&amp;cm=TnDdmotionrunningshoes/" title="Motion Control Running Shoes">Motion Control</a></li>
-                                <li><a href="http://www.champssports.com/_-_/keyword-performance+running+shoes?cm_sp=TopNav-_-Running-_-performanceRunningshoes&amp;cm=TnDdperformancerunningshoes/" title="Performance Running Shoes">Performance</a></li>
-                                <li><a href="http://www.champssports.com/_-_/keyword-trail+running+shoes?cm_sp=TopNav-_-Running-_-trailRunningshoes&amp;cm=TnDdtrailrunningshoes/" title="Trail Running Shoes">Trail</a></li>
-                                <li><a href="http://www.champssports.com/_-_/keyword-sale+running+shoes?cm_sp=TopNav-_-Running-_-Runningsaleshoes&amp;cm=TnDdsalerunningshoes/" title="Sale Running Shoes">Sale</a></li>
+                                <li><a href="http://www.champssports.com/Running/Shoes/_-_/N-f9ZrjZ1z141xe" manual_cm_sp="TopNav-_-Running-_-Runningshoesnewarrivals&amp;cm=TnDdrunningshoesnewarrivals" title="New Arrivals - Running Shoes">New Arrivals</a></li>
+                                <li><a href="http://www.champssports.com/Performance-Running-Shoes-Cushioned/_-_/N-gs" manual_cm_sp="TopNav-_-Running-_-cushionedRunningshoes&amp;cm=TnDdcushionedrunningshoes/" title="Cushioned Running Shoes">Cushioned</a></li>
+                                <li><a href="http://www.champssports.com/Performance-Running-Shoes-Barefoot-Running/_-_/N-1xe" manual_cm_sp="TopNav-_-Running-_-barefootRunningshoes&amp;cm=TnDdbarefootrunningshoes/" title="Barefoot/Minimalist Running Shoes">Barefoot/Minimalist</a></li>
+                                <li><a href="http://www.champssports.com/Performance-Running-Shoes-Lightweight-Performance/_-_/N-170" manual_cm_sp="TopNav-_-Running-_-lightweightRunningshoes&amp;cm=TnDdlightweightrunningshoes/" title="Lightweight Running Shoes">Lightweight</a></li>
+                                <li><a href="http://www.champssports.com/Performance-Running-Shoes-Stability/_-_/N-gt" manual_cm_sp="TopNav-_-Running-_-stabilityRunningshoes&amp;cm=TnDdstabilityrunningshoes/" title="Stability Running Shoes">Stability</a></li>
+                                <li><a href="http://www.champssports.com/Performance-Running-Shoes-Motion-Control/_-_/N-gv" manual_cm_sp="TopNav-_-Running-_-motionRunningshoes&amp;cm=TnDdmotionrunningshoes/" title="Motion Control Running Shoes">Motion Control</a></li>
+                                <li><a href="http://www.champssports.com/Performance-Running-Shoes/_-_/N-gr" manual_cm_sp="TopNav-_-Running-_-performanceRunningshoes&amp;cm=TnDdperformancerunningshoes/" title="Performance Running Shoes">Performance</a></li>
+                                <li><a href="http://www.champssports.com/Outdoor-Shoes-Trail-Running-Shoes/_-_/N-23f" manual_cm_sp="TopNav-_-Running-_-trailRunningshoes&amp;cm=TnDdtrailrunningshoes/" title="Trail Running Shoes">Trail</a></li>
+                                <li><a href="http://www.champssports.com/Sale/Running/Shoes/_-_/N-1z141ydZf9Zrj" manual_cm_sp="TopNav-_-Running-_-Runningsaleshoes&amp;cm=TnDdsalerunningshoes/" title="Sale Running Shoes">Sale</a></li>
 							</ul>
                             <div class="item_spacer">&nbsp;</div>
-							<p><a href="http://www.champssports.com/_-_/keyword-running+accessories?cm_sp=TopNav-_-Running-_-Runningaccessories&amp;cm=TnDdrunningaccessories/" title="Running Accessories">RUNNING ACCESSORIES</a></p>
+							<p><a href="http://www.champssports.com/Running/Accessories/_-_/N-f9Zrl" manual_cm_sp="TopNav-_-Running-_-Runningaccessories&amp;cm=TnDdrunningaccessories/" title="Running Accessories">RUNNING ACCESSORIES</a></p>
                             <ul>
-                                <li><a href="http://www.champssports.com/_-_/N-1z141xe/keyword-running+accessories?cm_REF=New+Arrivals?cm_sp=TopNav-_-Running-_-Runningaccessoriesnewarrivals&amp;cm=TnDdrunningaccessoriesnewarrivals" title="New Arrivals - Running Accessories">New Arrivals</a></li>
-                                <li><a href="http://www.champssports.com/_-_/keyword-running+heart+monitors?cm_sp=TopNav-_-Running-_-Runningheartmonitors&amp;cm=TnDdrunningheartmonitors/" title="Heart Monitors">Heart Monitors</a></li>
-                                <li><a href="http://www.champssports.com/_-_/keyword-nike+plus+running+equipment?cm_sp=TopNav-_-Running-_-Runningnikeplus&amp;cm=TnDdnikeplusrunning/" title=" Nike Plus">Nike Plus</a></li>
-                                <li><a href="http://www.champssports.com/_-_/keyword-running+socks?cm_sp=TopNav-_-Running-_-Runningsocks&amp;cm=TnDdrunningsocks/" title="Running Socks">Socks</a></li>
-                                <li><a href="http://www.champssports.com/_-_/keyword-running+watches?cm_sp=TopNav-_-Running-_-Runningwatches&amp;cm=TnDdrunningwatches/" title="Running Watches">Watches</a></li>
-                                <li><a href="http://www.champssports.com/_-_/keyword-sale+running+accessories?cm_sp=TopNav-_-Running-_-Runningsaleaccessories&amp;cm=TnDdsalerunningaccessories/" title="Sale Running Accessories">Sale</a></li>
+                                <li><a href="http://www.champssports.com/Running/Accessories/_-_/N-f9ZrlZ1z141xe" manual_cm_sp="TopNav-_-Running-_-Runningaccessoriesnewarrivals&amp;cm=TnDdrunningaccessoriesnewarrivals" title="New Arrivals - Running Accessories">New Arrivals</a></li>
+                                <li><a href="http://www.champssports.com/_-_/keyword-running+heart+monitors" manual_cm_sp="TopNav-_-Running-_-Runningheartmonitors&amp;cm=TnDdrunningheartmonitors/" title="Heart Monitors">Heart Monitors</a></li>
+                                <li><a href="http://www.champssports.com/_-_/keyword-nike+plus+running+equipment" manual_cm_sp="TopNav-_-Running-_-Runningnikeplus&amp;cm=TnDdnikeplusrunning/" title=" Nike Plus">Nike Plus</a></li>
+                                <li><a href="http://www.champssports.com/Running/Socks/_-_/N-f9Zn9" manual_cm_sp="TopNav-_-Running-_-Runningsocks&amp;cm=TnDdrunningsocks/" title="Running Socks">Socks</a></li>
+                                <li><a href="http://www.champssports.com/_-_/keyword-running+watches" manual_cm_sp="TopNav-_-Running-_-Runningwatches&amp;cm=TnDdrunningwatches/" title="Running Watches">Watches</a></li>
+                                <li><a href="http://www.champssports.com/Sale/Running/Accessories/_-_/N-1z141ydZf9Zrl" manual_cm_sp="TopNav-_-Running-_-Runningsaleaccessories&amp;cm=TnDdsalerunningaccessories/" title="Sale Running Accessories">Sale</a></li>
                             </ul>
                         </div>
                         
                         <div class="dd_column">
-                            <p><a href="http://www.champssports.com/_-_/keyword-running+clothing?cm_sp=TopNav-_-Running-_-Runningclothing&amp;cm=TnDdrunningclothing/" title="Running Clothing">RUNNING CLOTHING</a></p>
+                            <p><a href="http://www.champssports.com/Running/Clothing/_-_/N-f9Zrk" manual_cm_sp="TopNav-_-Running-_-Runningclothing&amp;cm=TnDdrunningclothing/" title="Running Clothing">RUNNING CLOTHING</a></p>
                             <ul>
-                                <li><a href="http://www.champssports.com/_-_/N-1z141xe/keyword-running+clothing?cm_REF=New+Arrivals?cm_sp=TopNav-_-Running-_-Runningclothingnewarrivals&amp;cm=TnDdrunningclothingnewarrivals" title="New Arrivals - Running Clothing">New Arrivals</a></li>
-                                <li><a href="http://www.champssports.com/_-_/keyword-running+t+shirts?cm_sp=TopNav-_-Running-_-Runningt-shirts&amp;cm=TnDdrunningshirts/" title="Running T-Shirts ">T-Shirts</a></li>
-                                <li><a href="http://www.champssports.com/_-_/keyword-running+jackets?cm_sp=TopNav-_-Running-_-Runningjackets&amp;cm=TnDdrunningjackets/" title="Running Jackets ">Jackets</a></li>
-                                <li><a href="http://www.champssports.com/_-_/keyword-running+pants?cm_sp=TopNav-_-Running-_-Runningpants&amp;cm=TnDdrunningpants/" title="Running Pants ">Pants</a></li>
-                                <li><a href="http://www.champssports.com/_-_/keyword-running+shorts?cm_sp=TopNav-_-Running-_-Runningshorts&amp;cm=TnDdrunningshorts/" title="Running Shorts ">Shorts</a></li>                        
-                                <li><a href="http://www.champssports.com/_-_/keyword-running+tights?cm_sp=TopNav-_-Running-_-Runningtights&amp;cm=TnDdrunningtights/" title="Running Tights ">Tights</a></li>
-                                <li><a href="http://www.champssports.com/_-_/keyword-sale+running+clothing?cm_sp=TopNav-_-Running-_-Runningsaleclothing&amp;cm=TnDdsalerunningclothing/" title="Sale Running Clothing">Sale</a></li>
+                                <li><a href="http://www.champssports.com/Running/Clothing/_-_/N-f9ZrkZ1z141xe" manual_cm_sp="TopNav-_-Running-_-Runningclothingnewarrivals&amp;cm=TnDdrunningclothingnewarrivals" title="New Arrivals - Running Clothing">New Arrivals</a></li>
+                                <li><a href="http://www.champssports.com/Running/T-Shirts/_-_/N-f9Zif" manual_cm_sp="TopNav-_-Running-_-Runningt-shirts&amp;cm=TnDdrunningshirts/" title="Running T-Shirts ">T-Shirts</a></li>
+                                <li><a href="http://www.champssports.com/Running/Jackets-Vests/_-_/N-f9Zj7" manual_cm_sp="TopNav-_-Running-_-Runningjackets&amp;cm=TnDdrunningjackets/" title="Running Jackets ">Jackets</a></li>
+                                <li><a href="http://www.champssports.com/Running/Pants/_-_/N-f9Zjr" manual_cm_sp="TopNav-_-Running-_-Runningpants&amp;cm=TnDdrunningpants/" title="Running Pants ">Pants</a></li>
+                                <li><a href="http://www.champssports.com/Running/Shorts/_-_/N-f9Zjf" manual_cm_sp="TopNav-_-Running-_-Runningshorts&amp;cm=TnDdrunningshorts/" title="Running Shorts ">Shorts</a></li>                        
+                                <li><a href="http://www.champssports.com/Running/Pants-Tights/_-_/N-f9Zk1" manual_cm_sp="TopNav-_-Running-_-Runningtights&amp;cm=TnDdrunningtights/" title="Running Tights ">Tights</a></li>
+                                <li><a href="http://www.champssports.com/Sale/Running/Clothing/_-_/N-1z141ydZf9Zrk" manual_cm_sp="TopNav-_-Running-_-Runningsaleclothing&amp;cm=TnDdsalerunningclothing/" title="Sale Running Clothing">Sale</a></li>
 							</ul>
                             <div class="item_spacer">&nbsp;</div>
 							<p>TOP BRANDS</p>
                             <ul>
-                            	<li><a href="http://www.champssports.com/_-_/keyword-adidas+running?cm_sp=TopNav-_-Running-_-Runningadidasbrand&amp;cm=TnDdadidasrunning/" title="adidas Running Shoes, Clothing">adidas</a></li>
-                                <li><a href="http://www.champssports.com/_-_/keyword-asics+running?cm_sp=TopNav-_-Running-_-Runningasicsbrand&amp;cm=TnDdasicsrunning/" title="ASICS Running Shoes, Clothing">ASICS</a></li>
-                                <li><a href="http://www.champssports.com/_-_/keyword-mizuno+running?cm_sp=TopNav-_-Running-_-Runningmizunobrand&amp;cm=TnDdmizunorunning/" title="Mizuno Running Shoes, Clothing">Mizuno</a></li>
-                                <li><a href="http://www.champssports.com/_-_/keyword-new+balance+running+shoes?cm_sp=TopNav-_-Running-_-Runningnewbalancebrand&amp;cm=TnDdnewbalancerunning/" title="New Balance Running Shoes">New Balance</a></li>
-                                <li><a href="http://www.champssports.com/_-_/keyword-nike+running?cm_sp=TopNav-_-Running-_-Runningnikebrand&amp;cm=TnDdnikerunning/" title="Nike Running Shoes, Clothing">Nike</a></li>
-                                <li><a href="http://www.champssports.com/_-_/keyword-reebok+running+shoes?cm_sp=TopNav-_-Running-_-Runningreebokbrand&amp;cm=TnDdreebokrunning/" title="Reebok Running Shoes">Reebok</a></li>
-                                <li><a href="http://www.champssports.com/_-_/keyword-saucony+running?cm_sp=TopNav-_-Running-_-Runningsauconybrand&amp;cm=TnDdsauconyrunning/" title="Saucony Running Shoes, Clothing">Saucony</a></li>
-                                <li><a href="http://www.champssports.com/_-_/keyword-under+armour+running?cm_sp=TopNav-_-Running-_-Runninguabrand&amp;cm=TnDdunderarmourrunning/" title="Under Armour Running Shoes, Clothing">Under Armour</a></li>
+                            	<li><a href="http://www.champssports.com/adidas/Running/_-_/N-zcZf9" manual_cm_sp="TopNav-_-Running-_-Runningadidasbrand&amp;cm=TnDdadidasrunning/" title="adidas Running Shoes, Clothing">adidas</a></li>
+                                <li><a href="http://www.champssports.com/ASICS/Running/_-_/N-10iZf9" manual_cm_sp="TopNav-_-Running-_-Runningasicsbrand&amp;cm=TnDdasicsrunning/" title="ASICS Running Shoes, Clothing">ASICS</a></li>
+                                <li><a href="http://www.champssports.com/Mizuno/Running/_-_/N-104Zf9" manual_cm_sp="TopNav-_-Running-_-Runningmizunobrand&amp;cm=TnDdmizunorunning/" title="Mizuno Running Shoes, Clothing">Mizuno</a></li>
+                                <li><a href="http://www.champssports.com/New-Balance/Running/_-_/N-10eZf9" manual_cm_sp="TopNav-_-Running-_-Runningnewbalancebrand&amp;cm=TnDdnewbalancerunning/" title="New Balance Running Shoes">New Balance</a></li>
+                                <li><a href="http://www.champssports.com/Nike/Running/_-_/N-zzZf9" manual_cm_sp="TopNav-_-Running-_-Runningnikebrand&amp;cm=TnDdnikerunning/" title="Nike Running Shoes, Clothing">Nike</a></li>
+                                <li><a href="http://www.champssports.com/Reebok/Running/_-_/N-zlZf9" manual_cm_sp="TopNav-_-Running-_-Runningreebokbrand&amp;cm=TnDdreebokrunning/" title="Reebok Running Shoes">Reebok</a></li>
+                                <li><a href="http://www.champssports.com/Saucony/_-_/N-zo" manual_cm_sp="TopNav-_-Running-_-Runningsauconybrand&amp;cm=TnDdsauconyrunning/" title="Saucony Running Shoes, Clothing">Saucony</a></li>
+                                <li><a href="http://www.champssports.com/Under-Armour/Running/_-_/N-10qZf9" manual_cm_sp="TopNav-_-Running-_-Runninguabrand&amp;cm=TnDdunderarmourrunning/" title="Under Armour Running Shoes, Clothing">Under Armour</a></li>
+                                <li><a href="http://www.champssports.com/Vibram/_-_/N-1z13wj2" manual_cm_sp="TopNav-_-Running-_-Runninguabrand&amp;cm=TnDdvibram/" title="Vibram Five Fingers">Vibram</a></li>
                             </ul>
                         </div>
                         
@@ -1045,57 +1044,56 @@ body {
 	<div onmouseover="openTab(this, 'navButtonFangear');" onmouseout="closeTab(this);">
         <ul>
             <li>
-                <div class="navBtn navButtonFangear"><a href="http://www.champssports.com/Fangear/?cm_sp=TopNav-_-FanGear-_-FGsupcat&amp;cm=TnFGSupcat" title="Fan Gear - Sports Apparel"><img src="//www.champssports.com/images/fl/global/pixel.gif" alt="Fan Gear - Sports Apparel" width="95" height="37" border="0"><span>Fan Gear</span></a></div>
+                <div class="navBtn navButtonFangear"><a href="http://www.champssports.com/Fan-Gear/_-_/N-rm" manual_cm_sp="TopNav-_-FanGear-_-FGsupcat&amp;cm=TnFGSupcat" title="Fan Gear - Sports Apparel"><img src="//www.champssports.com/images/fl/global/pixel.gif" alt="Fan Gear - Sports Apparel" width="95" height="37" border="0"><span>Fan Gear</span></a></div>
                 <div class="sticker_menu menu_size_2">
                     <div class="sticker_menu_inner">
                     
                         <div class="dd_column col_narrow">
-                            <p><a href="http://www.champssports.com/NFL/?cm_sp=TopNav-_-FanGear-_-FGnfl&amp;cm=TnDdnflfangear/" title="Shop All NFL Fan Gear">NFL</a></p>
+                            <p><a href="http://www.champssports.com/promo/default/promoId--5002225/" manual_cm_sp="TopNav-_-FanGear-_-FGnfl&amp;cm=TnDdnflfangear/" title="Shop All NFL Fan Gear">NFL</a></p>
                             <ul>
-                                <li><a href="http://www.champssports.com/_-_/N-1z141xe/keyword-nfl+fan+gear?cm_REF=New+Arrivals?cm_sp=TopNav-_-FanGear-_-Fangearnflnewarrivals&amp;cm=TnDdfangearnflnewarrivals" title="New Arrivals - NFL Fan Gear">New Arrivals</a></li>
-                                <li><a href="http://www.champssports.com/_-_/keyword-nfl+jerseys?cm_sp=TopNav-_-FanGear-_-FGnfljerseys&amp;cm=TnDdnfljerseys/" title="NFL Jerseys">Jerseys</a></li>
-                                <li><a href="http://www.champssports.com/_-_/keyword-nfl+t+shirts?cm_sp=TopNav-_-FanGear-_-FGnflt-shirts&amp;cm=TnDdnflt-shirts/" title="NFL T-Shirts">T-Shirts</a></li>
-                                <li><a href="http://www.champssports.com/_-_/keyword-nfl+hats?cm_sp=TopNav-_-FanGear-_-FGnflhats&amp;cm=TnDdnflhats/" title="NFL Hats">Hats</a></li>
-                                <li><a href="http://www.champssports.com/_-_/keyword-nfl+hoodies?cm_sp=TopNav-_-FanGear-_-FGnflhoodies&amp;cm=TnDdnflhoodies/" title="NFL Hoodies">Hoodies</a></li>
-                                <li><a href="http://www.champssports.com/_-_/keyword-sale+nfl+fan+gear?cm_sp=TopNav-_-FanGear-_-FGnflsale&amp;cm=TnDdsalenflfangear/" title="Sale NFL Fan Gear">Sale</a></li>
+                                <li><a href="http://www.champssports.com/NFL/_-_/N-1y7Z1z141xe" manual_cm_sp="TopNav-_-FanGear-_-Fangearnflnewarrivals&amp;cm=TnDdfangearnflnewarrivals" title="New Arrivals - NFL Fan Gear">New Arrivals</a></li>
+                                <li><a href="http://www.champssports.com/Jerseys/NFL/_-_/N-iyZ1y7" manual_cm_sp="TopNav-_-FanGear-_-FGnfljerseys&amp;cm=TnDdnfljerseys/" title="NFL Jerseys">Jerseys</a></li>
+                                <li><a href="http://www.champssports.com/T-Shirts/NFL/_-_/N-ifZ1y7" manual_cm_sp="TopNav-_-FanGear-_-FGnflt-shirts&amp;cm=TnDdnflt-shirts/" title="NFL T-Shirts">T-Shirts</a></li>
+                                <li><a href="http://www.champssports.com/Hats/NFL/_-_/N-lqZ1y7" manual_cm_sp="TopNav-_-FanGear-_-FGnflhats&amp;cm=TnDdnflhats/" title="NFL Hats">Hats</a></li>
+                                <li><a href="http://www.champssports.com/_-_/keyword-nfl+hoodies" manual_cm_sp="TopNav-_-FanGear-_-FGnflhoodies&amp;cm=TnDdnflhoodies/" title="NFL Hoodies">Hoodies</a></li>
+                                <li><a href="http://www.champssports.com/Sale/Fan-Gear/NFL/_-_/N-1z141ydZrmZ1y7" manual_cm_sp="TopNav-_-FanGear-_-FGnflsale&amp;cm=TnDdsalenflfangear/" title="Sale NFL Fan Gear">Sale</a></li>
 							</ul>
                             <div class="item_spacer spacer_narrow">&nbsp;</div>
-		    <p><a href="http://www.champssports.com/MLB/?cm_sp=TopNav-_-FanGear-_-FGmlb&amp;cm=TnDdmlbfangear/" title="Shop All MLB Fan Gear">MLB</a></p>
+		    <p><a href="http://www.champssports.com/MLB/" manual_cm_sp="TopNav-_-FanGear-_-FGmlb&amp;cm=TnDdmlbfangear/" title="Shop All MLB Fan Gear">MLB</a></p>
                             <ul>
-                                <li><a href="http://www.champssports.com/_-_/N-1z141xe/keyword-mlb+fan+gear?cm_REF=New+Arrivals?cm_sp=TopNav-_-FanGear-_-Fangearmlbnewarrivals&amp;cm=TnDdfangearmlbnewarrivals" title="New Arrivals - MLB Fan Gear">New Arrivals</a></li>
-                                <li><a href="http://www.champssports.com/_-_/keyword-mlb+jerseys?cm_sp=TopNav-_-FanGear-_-FGmlbjerseys&amp;cm=TnDdmlbjerseys/" title="MLB Jerseys">Jerseys</a></li>
-                                <li><a href="http://www.champssports.com/_-_/keyword-mlb+t+shirts?cm_sp=TopNav-_-FanGear-_-FGmlbt-shirts&amp;cm=TnDdmlbt-shirts/" title="MLB T-Shirts">T-Shirts</a></li>
-                                <li><a href="http://www.champssports.com/_-_/keyword-mlb+hats?cm_sp=TopNav-_-FanGear-_-FGmlbhats&amp;cm=TnDdmlbhats/" title="MLB Hats">Hats</a></li>
-                                <li><a href="http://www.champssports.com/_-_/keyword-mlb+hoodies?cm_sp=TopNav-_-FanGear-_-FGmlbhoodies&amp;cm=TnDdmlbhoodies/" title="MLB Hoodies">Hoodies</a></li>
-                                <li><a href="http://www.champssports.com/_-_/keyword-sale+mlb+fan+gear?cm_sp=TopNav-_-FanGear-_-FGmlbsale&amp;cm=TnDdsalemlbfangear/" title="Sale MLB Fan Gear">Sale</a></li>
+                                <li><a href="http://www.champssports.com/MLB/_-_/N-1y6Z1z141xe" manual_cm_sp="TopNav-_-FanGear-_-Fangearmlbnewarrivals&amp;cm=TnDdfangearmlbnewarrivals" title="New Arrivals - MLB Fan Gear">New Arrivals</a></li>
+                                <li><a href="http://www.champssports.com/Jerseys/MLB/_-_/N-iyZ1y6" manual_cm_sp="TopNav-_-FanGear-_-FGmlbjerseys&amp;cm=TnDdmlbjerseys/" title="MLB Jerseys">Jerseys</a></li>
+                                <li><a href="http://www.champssports.com/T-Shirts/MLB/_-_/N-ifZ1y6" manual_cm_sp="TopNav-_-FanGear-_-FGmlbt-shirts&amp;cm=TnDdmlbt-shirts/" title="MLB T-Shirts">T-Shirts</a></li>
+                                <li><a href="http://www.champssports.com/Hats/MLB/_-_/N-lqZ1y6" manual_cm_sp="TopNav-_-FanGear-_-FGmlbhats&amp;cm=TnDdmlbhats/" title="MLB Hats">Hats</a></li>
+                                <li><a href="http://www.champssports.com/_-_/keyword-mlb+hoodies" manual_cm_sp="TopNav-_-FanGear-_-FGmlbhoodies&amp;cm=TnDdmlbhoodies/" title="MLB Hoodies">Hoodies</a></li>
+                                <li><a href="http://www.champssports.com/Sale/Fan-Gear/MLB/_-_/N-1z141ydZrmZ1y6" manual_cm_sp="TopNav-_-FanGear-_-FGmlbsale&amp;cm=TnDdsalemlbfangear/" title="Sale MLB Fan Gear">Sale</a></li>
                             </ul>
                             <div class="item_spacer spacer_narrow">&nbsp;</div>
                         	<ul>
-                            	<li><a href="http://www.champssports.com/_-_/keyword-nhl+fan+gear?cm_sp=TopNav-_-FanGear-_-FGnhl&amp;cm=TnDdnhlfangear/" title="Shop All NHL Fan Gear"><strong>NHL</strong></a></li>
-			<li><a href="http://www.champssports.com/_-_/keyword-world+soccer?cm_sp=TopNav-_-FanGear-_-FGworldsoccer&amp;cm=TnDdworldsoccer/" title="Shop All World Soccer Fan Gear"><strong>World Soccer</strong></a></li>
+			<li><a href="http://www.champssports.com/World-Soccer/_-_/N-1ya" manual_cm_sp="TopNav-_-FanGear-_-FGworldsoccer&amp;cm=TnDdworldsoccer/" title="Shop All World Soccer Fan Gear"><strong>World Soccer</strong></a></li>
                             </ul>
                         </div>
                         
                         <div class="dd_column col_narrow">
-                            <p><a href="http://www.champssports.com/_-_/keyword-college+fan+gear?cm_sp=TopNav-_-FanGear-_-FGcollege&amp;cm=TnDdcollegefangear/" title="Shop All College Fan Gear">COLLEGE</a></p>
+                            <p><a href="http://www.champssports.com/College/_-_/N-1y8" manual_cm_sp="TopNav-_-FanGear-_-FGcollege&amp;cm=TnDdcollegefangear/" title="Shop All College Fan Gear">COLLEGE</a></p>
                             <ul>
-                        <li><a href="http://www.champssports.com/_-_/N-1z141xe/keyword-college+fan+gear?cm_REF=New+Arrivals?cm_sp=TopNav-_-FanGear-_-Fangearcollegenewarrivals&amp;cm=TnDdfangearcollegenewarrivals" title="New Arrivals - College Fan Gear">New Arrivals</a></li>
-		        <li><a href="http://www.champssports.com/College-Football/?cm_sp=TopNav-_-FanGear-_-FGcollegefootball&amp;cm=TnDdcollegefootball/" title="College Football Jerseys, T-Shirts, Hats, Hoodies">Football</a></li>
-		        <li><a href="http://www.champssports.com/College-Basketball/?cm_sp=TopNav-_-FanGear-_-FGcollegebasketball&amp;cm=TnDdcollegebasketball/" title="College Basketball Jerseys, T-Shirts, Hats, Hoodies">Basketball</a></li>
-                        <li><a href="http://www.champssports.com/_-_/keyword-college+jerseys?cm_sp=TopNav-_-FanGear-_-FGcollegejerseys&amp;cm=TnDdcollegejerseys/" title="College Jerseys">Jerseys</a></li>
-                        <li><a href="http://www.champssports.com/_-_/keyword-college+t+shirts?cm_sp=TopNav-_-FanGear-_-FGcolleget-shirts&amp;cm=TnDdcolleget-shirts/" title="College T-Shirts">T-Shirts</a></li>                                
-                                <li><a href="http://www.champssports.com/_-_/keyword-college+hats?cm_sp=TopNav-_-FanGear-_-FGcollegehats&amp;cm=TnDdcollegehats/" title="College Hats">Hats</a></li>
-                                <li><a href="http://www.champssports.com/_-_/keyword-college+hoodies?cm_sp=TopNav-_-FanGear-_-FGcollegehoodies&amp;cm=TnDdcollegehoodies/" title="College Hoodies">Hoodies</a></li>
-                                <li><a href="http://www.champssports.com/_-_/keyword-sale+college+fan+gear?cm_sp=TopNav-_-FanGear-_-FGcollegesale&amp;cm=TnDdsalecollegefangear/" title="Sale College Fan Gear">Sale</a></li>
+                        <li><a href="http://www.champssports.com/College/_-_/N-1y8Z1z141xe" manual_cm_sp="TopNav-_-FanGear-_-Fangearcollegenewarrivals&amp;cm=TnDdfangearcollegenewarrivals" title="New Arrivals - College Fan Gear">New Arrivals</a></li>
+		        <li><a href="http://www.champssports.com/Football/College/_-_/N-fiZ1y8" manual_cm_sp="TopNav-_-FanGear-_-FGcollegefootball&amp;cm=TnDdcollegefootball/" title="College Football Jerseys, T-Shirts, Hats, Hoodies">Football</a></li>
+		        <li><a href="http://www.champssports.com/Basketball/College/_-_/N-fmZ1y8" manual_cm_sp="TopNav-_-FanGear-_-FGcollegebasketball&amp;cm=TnDdcollegebasketball/" title="College Basketball Jerseys, T-Shirts, Hats, Hoodies">Basketball</a></li>
+                        <li><a href="http://www.champssports.com/Jerseys/College/_-_/N-iyZ1y8" manual_cm_sp="TopNav-_-FanGear-_-FGcollegejerseys&amp;cm=TnDdcollegejerseys/" title="College Jerseys">Jerseys</a></li>
+                        <li><a href="http://www.champssports.com/T-Shirts/College/_-_/N-ifZ1y8" manual_cm_sp="TopNav-_-FanGear-_-FGcolleget-shirts&amp;cm=TnDdcolleget-shirts/" title="College T-Shirts">T-Shirts</a></li>                                
+                                <li><a href="http://www.champssports.com/Hats/College/_-_/N-lqZ1y8" manual_cm_sp="TopNav-_-FanGear-_-FGcollegehats&amp;cm=TnDdcollegehats/" title="College Hats">Hats</a></li>
+                                <li><a href="http://www.champssports.com/_-_/keyword-college+hoodies" manual_cm_sp="TopNav-_-FanGear-_-FGcollegehoodies&amp;cm=TnDdcollegehoodies/" title="College Hoodies">Hoodies</a></li>
+                                <li><a href="http://www.champssports.com/Sale/Fan-Gear/College/_-_/N-1z141ydZrmZ1y8" manual_cm_sp="TopNav-_-FanGear-_-FGcollegesale&amp;cm=TnDdsalecollegefangear/" title="Sale College Fan Gear">Sale</a></li>
 							</ul>
                             <div class="item_spacer spacer_narrow">&nbsp;</div>
-		    <p><a href="http://www.champssports.com/NBA/?cm_sp=TopNav-_-FanGear-_-FGnba&amp;cm=TnDdnbafangear/" title="Shop All NBA Fan Gear">NBA</a></p>
+		    <p><a href="http://www.champssports.com/NBA/" manual_cm_sp="TopNav-_-FanGear-_-FGnba&amp;cm=TnDdnbafangear/" title="Shop All NBA Fan Gear">NBA</a></p>
                             <ul>
-                                <li><a href="http://www.champssports.com/_-_/N-1z141xe/keyword-nba+fan+gear?cm_REF=New+Arrivals?cm_sp=TopNav-_-FanGear-_-Fangearnbanewarrivals&amp;cm=TnDdfangearnbanewarrivals" title="New Arrivals - NBA Fan Gear">New Arrivals</a></li>
-                                <li><a href="http://www.champssports.com/_-_/keyword-nba+jerseys?cm_sp=TopNav-_-FanGear-_-FGnbajerseys&amp;cm=TnDdnbajerseys/" title="NBA Jerseys">Jerseys</a></li>
-                                <li><a href="http://www.champssports.com/_-_/keyword-nba+t+shirts?cm_sp=TopNav-_-FanGear-_-FGnbat-shirts&amp;cm=TnDdnbat-shirts/" title="NBA T-Shirts">T-Shirts</a></li>
-                                <li><a href="http://www.champssports.com/_-_/keyword-nba+hats?cm_sp=TopNav-_-FanGear-_-FGnbahats&amp;cm=TnDdnbahats/" title="NBA Hats">Hats</a></li>
-                                <li><a href="http://www.champssports.com/_-_/keyword-sale+nba+fan+gear?cm_sp=TopNav-_-FanGear-_-FGnbasale&amp;cm=TnDdsalenbafangear/" title="Sale NBA Fan Gear">Sale</a></li>
+                                <li><a href="http://www.champssports.com/NBA/_-_/N-1y5Z1z141xe" manual_cm_sp="TopNav-_-FanGear-_-Fangearnbanewarrivals&amp;cm=TnDdfangearnbanewarrivals" title="New Arrivals - NBA Fan Gear">New Arrivals</a></li>
+                                <li><a href="http://www.champssports.com/Jerseys/NBA/_-_/N-iyZ1y5" manual_cm_sp="TopNav-_-FanGear-_-FGnbajerseys&amp;cm=TnDdnbajerseys/" title="NBA Jerseys">Jerseys</a></li>
+                                <li><a href="http://www.champssports.com/T-Shirts/NBA/_-_/N-ifZ1y5" manual_cm_sp="TopNav-_-FanGear-_-FGnbat-shirts&amp;cm=TnDdnbat-shirts/" title="NBA T-Shirts">T-Shirts</a></li>
+                                <li><a href="http://www.champssports.com/Hats/NBA/_-_/N-lqZ1y5" manual_cm_sp="TopNav-_-FanGear-_-FGnbahats&amp;cm=TnDdnbahats/" title="NBA Hats">Hats</a></li>
+                                <li><a href="http://www.champssports.com/Sale/Fan-Gear/NBA/_-_/N-1z141ydZrmZ1y5" manual_cm_sp="TopNav-_-FanGear-_-FGnbasale&amp;cm=TnDdsalenbafangear/" title="Sale NBA Fan Gear">Sale</a></li>
                             </ul>
                         </div>
                         
@@ -1112,25 +1110,25 @@ body {
 	<div onmouseover="openTab(this, 'navButtonBrands');" onmouseout="closeTab(this);">
         <ul>
             <li>
-                <div class="navBtn navButtonBrands"><a href="http://www.champssports.com/Brands/?cm_sp=TopNav-_-Brands-_-Brandssupcat&amp;cm=TnBrandsSupcat" title="Brands at Champs Sports"><img src="//www.champssports.com/images/fl/global/pixel.gif" alt="Brands at Champs Sports" width="83" height="37" border="0"><span>Brands</span></a></div>
+                <div class="navBtn navButtonBrands"><a href="http://www.champssports.com/Brands/" manual_cm_sp="TopNav-_-Brands-_-Brandssupcat&amp;cm=TnBrandsSupcat" title="Brands at Champs Sports"><img src="//www.champssports.com/images/fl/global/pixel.gif" alt="Brands at Champs Sports" width="83" height="37" border="0"><span>Brands</span></a></div>
                 <div class="sticker_menu menu_size_3">
                     <div class="sticker_menu_inner">
                         
                         <div class="dd_column col_narrow">
                             <p>TOP BRANDS</p>
                             <ul>
-                                <li><a href="http://www.champssports.com/adidas/?cm=57831cm_sp=TopNav-_-Brands-_-Brandsadidas&amp;cm=TnDdadidasbrand/" title="adidas">adidas</a></li>
-                                <li><a href="http://www.champssports.com/adidas-Originals/?cm_sp=TopNav-_-Brands-_-Brandsadidasoriginals&amp;cm=TnDdadidasoriginalsbrand/" title="adidas Originals">adidas Originals</a></li>
-                                <li><a href="http://www.champssports.com/ASICS/?cm_sp=TopNav-_-Brands-_-Brandsasics&amp;cm=TnDdasicsbrand" title="ASICS">ASICS</a></li>
-                                <li><a href="http://www.champssports.com/jordan-shoes/?cm_sp=TopNav-_-Brands-_-Brandsjordan&amp;cm=TnDdjordans/" title="Jordans">Jordan</a></li>
-                                <li><a href="http://www.champssports.com/searchresults/brand:New%2520Era/?cm_sp=TopNav-_-Brands-_-Brandsnewera&amp;cm=newerabrand/" title="New Era">New Era</a></li>
-                                <li><a href="http://www.champssports.com/nike-shoes/?cm_sp=TopNav-_-Brands-_-Brandsnike&amp;cm=TnDdnikebrand/" title="Nike">Nike</a></li>
-                                <li><a href="http://www.champssports.com/searchresults/brand:PUMA/?cm_sp=TopNav-_-Brands-_-Brandspuma&amp;cm=TnDdpumabrand/" title="PUMA">PUMA</a></li>
-                                <li><a href="http://www.champssports.com/Reebok/?cm=57831?cm_sp=TopNav-_-Brands-_-Brandsreebok&amp;cm=TnDdreebokbrand/" title="Reebok">Reebok</a></li>
-                                <li><a href="http://www.champssports.com/searchresults/brand:Timberland/?cm_sp=TopNav-_-Brands-_-Brandstimberland&amp;cm=TnDdtimberlandbrand/" title="Timberland">Timberland</a></li>
-                                <li><a href="http://www.champssports.com/Under-Armour/?cm_sp=TopNav-_-Brands-_-Brandsunderarmour&amp;cm=TnDdunderarmourbrand/" title="Under Armour">Under Armour</a></li>
+                                <li><a href="http://www.champssports.com/adidas/_-_/N-zc" manual_cm_sp="TopNav-_-Brands-_-Brandsadidas&amp;cm=TnDdadidasbrand/" title="adidas">adidas</a></li>
+                                <li><a href="http://www.champssports.com/adidas-Originals/" manual_cm_sp="TopNav-_-Brands-_-Brandsadidasoriginals&amp;cm=TnDdadidasoriginalsbrand/" title="adidas Originals">adidas Originals</a></li>
+                                <li><a href="http://www.champssports.com/ASICS/_-_/N-10i" manual_cm_sp="TopNav-_-Brands-_-Brandsasics&amp;cm=TnDdasicsbrand" title="ASICS">ASICS</a></li>
+                                <li><a href="http://www.champssports.com/Jordan/_-_/N-11c" manual_cm_sp="TopNav-_-Brands-_-Brandsjordan&amp;cm=TnDdjordans/" title="Jordans">Jordan</a></li>
+                                <li><a href="http://www.champssports.com/New-Era/_-_/N-11v" manual_cm_sp="TopNav-_-Brands-_-Brandsnewera&amp;cm=newerabrand/" title="New Era">New Era</a></li>
+                                <li><a href="http://www.champssports.com/Nike/_-_/N-zz" manual_cm_sp="TopNav-_-Brands-_-Brandsnike&amp;cm=TnDdnikebrand/" title="Nike">Nike</a></li>
+                                <li><a href="http://www.champssports.com/PUMA/_-_/N-zq" manual_cm_sp="TopNav-_-Brands-_-Brandspuma&amp;cm=TnDdpumabrand/" title="PUMA">PUMA</a></li>
+                                <li><a href="http://www.champssports.com/Reebok/_-_/N-zl" manual_cm_sp="TopNav-_-Brands-_-Brandsreebok&amp;cm=TnDdreebokbrand/" title="Reebok">Reebok</a></li>
+                                <li><a href="http://www.champssports.com/Timberland/_-_/N-zt" manual_cm_sp="TopNav-_-Brands-_-Brandstimberland&amp;cm=TnDdtimberlandbrand/" title="Timberland">Timberland</a></li>
+                                <li><a href="http://www.champssports.com/Under-Armour/_-_/N-10q" manual_cm_sp="TopNav-_-Brands-_-Brandsunderarmour&amp;cm=TnDdunderarmourbrand/" title="Under Armour">Under Armour</a></li>
                                <br> 
-                                <li><a href="http://www.champssports.com/Brands/?cm_sp=TopNav-_-Brands-_-Brandsmore&amp;cm=morebrands" title="More Brands"><strong>Shop All</strong></a></li>
+                                <li><a href="http://www.champssports.com/Brands/" manual_cm_sp="TopNav-_-Brands-_-Brandsmore&amp;cm=morebrands" title="More Brands"><strong>Shop All</strong></a></li>
 							</ul>
                         </div>
                         
@@ -1146,7 +1144,7 @@ body {
 <div class="sticker_wrapper">
     <ul>
         <li>
-            <div class="navBtn navButtonSale" onmouseover="this.className='navBtn navButtonSaleOver';" onmouseout="this.className='navBtn navButtonSale';"><a href="http://www.champssports.com/Sale/?cm_sp=TopNav-_-Sale-_-Salesupcat&amp;cm=TnSaleSupcat" title="Sale Shoes - Fan Gear - Clothing"><img src="//www.champssports.com/images/fl/global/pixel.gif" width="62" height="37" border="0"><span>Sale</span></a></div>
+            <div class="navBtn navButtonSale" onmouseover="this.className='navBtn navButtonSaleOver';" onmouseout="this.className='navBtn navButtonSale';"><a href="http://www.champssports.com/Sale/_-_/N-1z141yd?cm_sp=TopNav-_-Sale-_-Salesupcat&amp;cm=TnSaleSupcat" title="Sale Shoes - Fan Gear - Clothing"><img src="//www.champssports.com/images/fl/global/pixel.gif" width="62" height="37" border="0"><span>Sale</span></a></div>
         </li>
     </ul>
 </div><!-- close sticker_wrapper -->
@@ -1214,7 +1212,7 @@ body {
     	We offer FREE SHIPPING on ORDERS OVER $75 with a FIT GUARANTEE that offers free returns or exchanges at any Champs Sports store if your kicks or clothing don't fit just right.
     </p>
     <p>
-		*Use promotion code IPCH2W67 at checkout. Promotion/source code box is located in step 4 of checkout. Order value must total $75 or more before services, taxes, shipping and handling. Valid online at champssports.com, by phone or mail. Offer is limited to standard ground delivery within the 48 contiguous United States and APO/FPO addresses. Excludes bulk orders and drop ships. Entire order must be shipped to a single address. Does not apply to prior purchases or open orders and cannot be combined with any other offer. Customer is responsible for shipping costs on returned merchandise. May not be used toward purchase of Gift Cards or team orders. Promotion may be modified or terminated at any time. Certain restrictions and exclusions may apply. Offer expires 12/31/2012 (11:59 pm CT).
+		*Use promotion code IPCH2W67 at checkout. Promotion/source code box is located in step 4 of checkout. Order value must total $75 or more before services, taxes, shipping and handling. Valid online at champssports.com, by phone or mail. Offer is limited to standard ground delivery within the 48 contiguous United States and APO/FPO addresses. Excludes bulk orders and drop ships. Entire order must be shipped to a single address. Does not apply to prior purchases or open orders and cannot be combined with any other offer. Customer is responsible for shipping costs on returned merchandise. May not be used toward purchase of Gift Cards or team orders. Promotion may be modified or terminated at any time. Certain restrictions and exclusions may apply.
     </p>
 </div>
 </div><!-- end tpbann -->
@@ -1325,7 +1323,7 @@ body {
 	<div id="helpcontent">
 		<div id="helpheader">
         		<a href="http://www.champssports.com/customerserv/"><img src="http://www.champssports.com/images/cs/staticheaders/hdr_customerservice.gif" alt="Customer Service" border="0"></a>
-		</div>
+		<div class="chat-custserv-header-button"><a href="#" onclick="cmCreateConversionEventTag('Live Chat',1,'Chat',0); cmCreateConversionEventTag('Live Chat',2,'Chat',0); startChatAndCobrowse(gIChannel, gServer, gAttachedData, prefillValues, agentOnlyValues, bEnterOnQueuePage); return false;"><img src="/images/eb/global/pixel.gif" height="186" width="254" border="0"></a></div></div>
 
 		
 
@@ -1441,19 +1439,19 @@ body {
             <li><a href="http://www.champssports.com/jordan-shoes/?cm_sp=footer-_-topsellers-_-jordans" title="Jordans">Jordans</a></li>
             <li><a href="http://www.champssports.com/_-_/keyword-griffey+shoes?cm_sp=footer-_-topsellers-_-griffeyshoes" title="Griffey Shoes">Griffey Shoes</a></li>
             <li><a href="http://www.champssports.com/_-_/keyword-nike+shox?cm_sp=footer-_-topsellers-_-nikeshox" title="Nike Shox">Nike Shox</a></li>
-            <li><a href="http://www.champssports.com/_-_/keyword-nike+casual+shoes?cm_sp=footer-_-topsellers-_-nikecasual" title="Nike Casual Shoes">Nike Casual Shoes</a></li>
+            <li><a href="http://www.champssports.com/Nike/Casual/Shoes/_-_/N-zzZfeZrj?cm_sp=footer-_-topsellers-_-nikecasual" title="Nike Casual Shoes">Nike Casual Shoes</a></li>
             <li><a href="http://www.champssports.com/_-_/keyword-nike+cortez?cm_sp=footer-_-topsellers-_-nikecortez" title="Nike Cortez">Nike Cortez</a></li>
             <li><a href="http://www.champssports.com/_-_/keyword-nike+free?cm_sp=footer-_-topsellers-_-nikefree" title="Nike Free">Nike Free</a></li>
-            <li><a href="http://www.champssports.com/_-_/keyword-football+cleats?cm_sp=footer-_-topsellers-_-footballcleats" title="Football Cleats">Football Cleats</a></li>
+            <li><a href="http://www.champssports.com/Football/Cleats/_-_/N-fiZg6?cm_sp=footer-_-topsellers-_-footballcleats" title="Football Cleats">Football Cleats</a></li>
         </ul>
         <ul>
-            <li><a href="http://www.champssports.com/_-_/keyword-asics+running+shoes?cm_sp=footer-_-topsellers-_-asicsrun" title="Asics Running Shoes">Asics Running Shoes</a></li>
-            <li><a href="http://www.champssports.com/_-_/keyword-under+armour+clothing?cm_sp=footer-_-topsellers-_-uacloth" title="Under Armour Clothing">Under Armour Clothing</a></li>
-            <li><a href="http://www.champssports.com/_-_/keyword-under+armour+shoes?cm_sp=footer-_-topsellers-_-uashoes" title="Under Armour Shoes">Under Armour Shoes</a></li>
+            <li><a href="http://www.champssports.com/ASICS/Running/Shoes/_-_/N-10iZf9Zrj?cm_sp=footer-_-topsellers-_-asicsrun" title="Asics Running Shoes">Asics Running Shoes</a></li>
+            <li><a href="http://www.champssports.com/Under-Armour/Clothing/_-_/N-10qZrk?cm_sp=footer-_-topsellers-_-uacloth" title="Under Armour Clothing">Under Armour Clothing</a></li>
+            <li><a href="http://www.champssports.com/Under-Armour/Shoes/_-_/N-10qZrj?cm_sp=footer-_-topsellers-_-uashoes" title="Under Armour Shoes">Under Armour Shoes</a></li>
             <li><a href="http://www.champssports.com/_-_/keyword-reebok+zig?cm_sp=footer-_-topsellers-_-rbkzig" title="Reebok Zig">Reebok Zig</a></li>
-            <li><a href="http://www.champssports.com/NBA/?cm_sp=footer-_-topsellers-_-nbacloth" title="NBA Clothing">NBA Clothing</a></li>
+            <li><a href="http://www.champssports.com/NBA/_-_/N-1y5?cm_sp=footer-_-topsellers-_-nbacloth" title="NBA Clothing">NBA Clothing</a></li>
             <li><a href="http://www.champssports.com/_-_/keyword-adidas+adicolor?cm_sp=footer-_-topsellers-_-adicolor" title="adidas adiColor">adidas adiColor</a></li>
-            <li><a href="http://www.champssports.com/_-_/keyword-jordan+clothing?cm_sp=footer-_-topsellers-_-jordanclothing" title="Jordan Clothing">Jordan Clothing</a></li>
+            <li><a href="http://www.champssports.com/Jordan/Clothing/_-_/N-11cZrk?cm_sp=footer-_-topsellers-_-jordanclothing" title="Jordan Clothing">Jordan Clothing</a></li>
         </ul>
     </div>
     
@@ -1472,15 +1470,15 @@ body {
     </p>
 
     <p>
-        <a class="clear_border" href="http://www.champssports.com/content/feedback/" title="Contact Information">Contact Us</a>
-        <a href="//www.footlocker-inc.com/CO_index.htm" title="Job Opprotunities" target="_blank">Job Opportunities</a>
+        <a class="clear_border" href="https://www.champssports.com/content/feedback/" title="Contact Information">Contact Us</a>
+        <a href="http://www.champssports.jobs" title="Job Opprotunities" target="_blank">Job Opportunities</a>
         <a href="http://www.champssports.com/customerserv/help:privacyPolicy/" title="Privacy Policy">Privacy Policy</a>
         <a href="http://www.champssports.com/customerserv/help:terms/" title="Terms of Use"> Terms of Use</a>
         <a href="http://www.footlocker-inc.com/company.cfm?page=champs-sports" target="_blank" title="About Us">About Us</a>
         <a href="http://www.champssports.com/sitemap/" title="Sitemap">Sitemap</a>
     </p>
     
-    <p>© 2012 Footlocker.com, Inc. All rights reserved. Prices subject to change without notice. Products shown may not be available in our stores. (<a class="clear_border" href="http://www.champssports.com/customerserv/help:productInformation/">more info</a>)</p>
+    <p>© 2013 Footlocker.com, Inc. All rights reserved. Prices subject to change without notice. Products shown may not be available in our stores. (<a class="clear_border" href="http://www.champssports.com/customerserv/help:productInformation/">more info</a>)</p>
 </div><!-- close footer_tagline -->
 
 <div id="footer_partners">
@@ -1500,8 +1498,7 @@ body {
 
 
 
-</footer></div><!-- close overall_wrapper -->
-
+</footer></div><!-- close overall_wrapper --> 
       
 
 </div>
@@ -1520,4 +1517,4 @@ body {
 	__scS.src=__scP+"app.salecycle.com/capture/CHAMPSSPORTS.js";
 	document.getElementsByTagName("head")[0].appendChild(__scS);}catch(e){}
 </script>
-</body></html>
+<div id="sb-container"><div id="sb-overlay"></div><div id="sb-wrapper"><div id="sb-logo"></div><div id="sb-title"><div id="sb-title-inner"></div></div><div id="sb-wrapper-inner"><div id="sb-body"><div id="sb-body-inner"></div><div id="sb-loading"><div id="sb-loading-inner"><span>loading</span></div></div></div></div><div id="sb-info"><div id="sb-info-inner"><div id="sb-counter"></div><div id="sb-nav"><a id="sb-nav-close" title="Close" onclick="Shadowbox.close()">Close</a><a id="sb-nav-next" title="Next" onclick="Shadowbox.next()">Next</a><a id="sb-nav-play" title="Play" onclick="Shadowbox.play()"></a><a id="sb-nav-pause" title="Pause" onclick="Shadowbox.pause()"></a><a id="sb-nav-previous" title="Previous" onclick="Shadowbox.previous()">Previous</a></div></div></div></div></div></body></html>
