@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the muvee.com privacy policy that was archived on 2012-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120605031650id_/http%3A//www.muvee.com/en/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the muvee.com privacy policy that was archived on 2013-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130620160718id_/http%3A//www.muvee.com/en/legal/privacy) for the most accurate reproduction.*
 
-# Legal - muvee
+# Privacy Statement | muvee
 
 muvee Technologies Pte. Ltd. (“muvee”) and its subsidiaries respect your privacy and are committed to protecting it. muvee has provided this Privacy Statement to inform you of our Privacy Policy and practices and of the choices you can make about the way your information is collected online and how that information is used. We have organized our websites so that, in general, you can visit muvee on the Web without identifying yourself or revealing any personal information. We make this notice readily available on our home page and at the bottom of every muvee web page.
 
