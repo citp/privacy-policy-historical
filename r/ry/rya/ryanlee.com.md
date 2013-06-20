@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the ryanlee.com privacy policy that was archived on 2011-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110519090117id_/http%3A//www.ryanlee.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ryanlee.com privacy policy that was archived on 2013-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130620150620id_/http%3A//ryanlee.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Ryan Lee
+# Privacy Policy | Ryan Lee | Continuity Income | Internet Marketing
 
 This privacy notice discloses the privacy practices for _ryanlee.com_ This privacy notice applies solely to information collected by this web site. It will notify you of the following: 
 
