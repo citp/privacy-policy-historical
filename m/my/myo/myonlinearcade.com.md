@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the myonlinearcade.com privacy policy that was archived on 2012-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121215072514id_/http%3A//myonlinearcade.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myonlinearcade.com privacy policy that was archived on 2013-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130620124259id_/http%3A//myonlinearcade.com/privacypolicy) for the most accurate reproduction.*
 
 # My Online Arcade Privacy Policy
 
 **MYONLINEARCADE.COM  PRIVACY POLICY**
 
-MyOnlineArcade is committed to providing an entertaining, fun and educational service. Myonlinearcade.com is a property of Next Point Media. MyOnlineArcade respects the privacy concerns of visitors to Myonlinearcade.com. MyOnlineArcade does not target its website or services to under 13 year olds, but does take measures to help protect those that happen to be under 13. We take measures to help children protect their privacy while online. For example, we do not ask children to disclose more personal information than is necessary for them to participate in a particular activity.
+MyOnlineArcade is committed to providing an entertaining, fun and educational service. MyOnlineArcade respects the privacy concerns of visitors to Myonlinearcade.com. MyOnlineArcade does not target its website or services to under 13 year olds, but does take measures to help protect those that happen to be under 13. We take measures to help children protect their privacy while online. For example, we do not ask children to disclose more personal information than is necessary for them to participate in a particular activity.
 
 **Information we collect**  
 We may log IP addresses and/or drop cookies and/or flash cookies to prevent abuse of our website and or to provide and or to enhance services. Email addresses of persons under 13 are not stored. They are encrypted into an unrecoverable format using a one way hash. Of those users who choose to register we collect date of birth, username, password and email address of users 13 years and older. For registered users non personal information may be collected related to use of the website and website services and activities such as high scores, game rankings, league rankings, game challenges, avatars, etc.
