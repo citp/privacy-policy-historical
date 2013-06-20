@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the trackads.biz privacy policy that was archived on 2012-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121204062334id_/http%3A//www.trackads.biz/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the trackads.biz privacy policy that was archived on 2013-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130620105655id_/http%3A//trackads.biz/privacy.php) for the most accurate reproduction.*
 
 # URL Cloaker
 
