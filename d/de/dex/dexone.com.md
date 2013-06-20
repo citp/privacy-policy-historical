@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the dexone.com privacy policy that was archived on 2012-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121220085847id_/http%3A//www.dexone.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dexone.com privacy policy that was archived on 2013-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130620160056id_/http%3A//www.dexone.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Dex One Corporation | Small Business Advertising, Local Marketing Solutions - Dex One
 
-**Updated April 11, 2012.**
+**Updated May 14, 2013.**
 
-Dex Media, Inc. d/b/a Dex One and R.H. Donnelley Inc. d/b/a Dex One (collectively "Dex One") understands and respects your concerns about privacy. We may from time-to-time revise this privacy policy and the date of last revision will be available at the top of this page. Please check back periodically. **By visiting the Websites (as defined in the Terms of Use), you are acknowledging and accepting this Privacy Policy. Your continued use of the Websites after changes have been posted to the Privacy Policy will constitute your acceptance of such changes.**
+Dex Media West, Inc., Dex Media East, Inc. and R.H. Donnelley Inc. (collectively "Dex One") understands and respects your concerns about privacy. We may from time-to-time revise this privacy policy and the date of last revision will be available at the top of this page. Please check back periodically. **By visiting the Websites (as defined in the Terms of Use), you are acknowledging and accepting this Privacy Policy. Your continued use of the Websites after changes have been posted to the Privacy Policy will constitute your acceptance of such changes.**
 
 **Information we collect:**  Dex One may ask for and collect personally identifiable information throughout the websites. Depending on the information and/or services you request, you may be asked to provide your name, email address, and other information. Once you provide your personal information, you are not anonymous to Dex One.
 
