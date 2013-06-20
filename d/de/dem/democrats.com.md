@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the democrats.com privacy policy that was archived on 2012-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121201084158id_/http%3A//www.democrats.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the democrats.com privacy policy that was archived on 2013-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130620103618id_/http%3A//www.democrats.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Democrats.com
 
@@ -12,11 +12,11 @@ We collect Democrats.community membership information to screen membership reque
 
 We encourage Democrats.community members to connect with each other. If you choose, you can publish as much personal information as you like in our Membership Directory, which is only viewable by other Democrats.community members.
 
-We collect petition signatures to allow members to express their views on important topics. We do not display e-mail addresses to protect your privacy, but your email will go to the petition recipient so they can reply to you. We also use your address to email you about the progress of the petition and other campaigns by Democrats.com. Once again, you can unsubscribe from our Activist list by following the instructions at the bottom of every e-mail.
+We collect petition signatures to allow members to express their views on important topics. We do not display e-mail addresses to protect your privacy, but your email and name will go to the petition recipient so they can reply to you. We also email you about the progress of the petition and other campaigns by Democrats.com. Once again, you can unsubscribe from our Activist list by following the instructions at the bottom of every e-mail.
 
 We process online contributions for Democrats.com. You will receive an immediate confirmation by e-mail. All such payments will read "Democrats.com" on your credit card bill. We use secure SSL technology to protect your sensitive information. We do not store your credit card number in order to avoid fraud.
 
-We occasionally send advertising e-mails from approved Democratic candidates and committees, and progressive causes. You may unsubscribe from this advertising list at any time without affecting your newsletter subscription or community membership by following the instructions at the bottom of each e-mail. If you respond to a partner ad by signing a petition or completing a form, we will forward the information you provide to our partner. For local Democratic candidates who want to represent you, we will send you their sample newsletter with an unsubscribe link if you do not want any more emails from that candidate. If you do not unsubscribe within two days, we will provide your address to the candidate.
+We occasionally send advertising e-mails from our partners, which are approved Democratic candidates and committees, and progressive causes. You may unsubscribe from our partners list at any time without affecting your newsletter subscription or community membership by following the instructions at the bottom of each partner e-mail. If you respond to a partner ad by signing a petition or completing a form, we will forward the information you provide to our partner. For local Democratic candidates who want to represent you, we will send you their sample newsletter with an unsubscribe link if you do not want any more emails from that candidate. If you do not unsubscribe within two days, we will provide your address to the candidate, who will also include an unsubscribe link in every email they send you.
 
 If we make significant changes to our privacy policy, we will notify you by e-mail and give you the opportunity to unsubscribe from our e-mail list.
 
