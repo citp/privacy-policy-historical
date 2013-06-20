@@ -1,138 +1,230 @@
-> *The following text is extracted and transformed from the bjs.com privacy policy that was archived on 2012-10-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121010081739id_/http%3A//www.bjs.com/privacy-policy.content.about_privacy.A.about) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bjs.com privacy policy that was archived on 2013-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130620162926id_/http%3A//www.bjs.com/privacy-policy.content.about_privacy.A.about) for the most accurate reproduction.*
 
 # Privacy Policy - BJ's Wholesale Club
 
-**Effective Date: September 20, 2001  
-Last Updated: June 30, 2012 (to reflect change in hours for Member Care) **
+BJ’s respects your right to privacy. We appreciate that you care about how your information is collected, used and shared. These highlights briefly summarize: (1) how we collect information from or about you offline and on BJs.com and other web site(s) operated by or for BJ’s Wholesale Club, Inc. (“BJ’s Sites”), (2) how we use and share that information, and (3) the choices you have with regard to the collection, use and sharing of that information.
 
-This Privacy Policy describes our privacy practices with respect to information we collect about our Members and other customers and visitors who (1) shop in our warehouse clubs or purchase products through this and other web site(s) operated by BJ’s Wholesale Club, Inc. (“BJ’s Sites”), or (2) register to use BJ’s Sites.
+Our privacy practices are governed by the full Privacy Policy which follows these highlights, and we encourage you to take the time to read the full policy.
 
-**COMMITMENT TO PRIVACY**
-
-BJ’s knows that you care about how your information is used and shared. We respect your right to privacy. Your ability to make informed choices about the use of your information is important to us. We want to make sure that you understand the type of information we collect about you, how it is used and the safeguards that we have in place in order to protect it. This Privacy Policy explains our policy regarding the collection, use, disclosure and protection of personal information.
-
+  
 **WHAT INFORMATION DO WE COLLECT?**
 
-The type of information that we collect and retain depends upon your interaction with BJ’s and BJ’s Sites. Here is a short overview of the various types of interactions.
+We may collect personally identifiable information about you — such as your name, Membership number, postal address, email address, telephone number, driver's license number and credit card account information — that you provide to us or that we receive from third-party sources.
 
-  1. **Information You Give Us.** We collect the personally identifiable information (such as your name, Membership Number, address, email address, telephone number, driver’s license number, and, if you pay by credit card, your account information) that you provide us with when you: 
-    * Purchase, upgrade, downgrade or renew your BJ’s Membership.
-    * Register, make a purchase, indicate your marketing preferences or process a rebate on or through BJ’s Sites.
-    * Participate in surveys or contests (information we collect may include demographic information, such as age, gender and number of household members).
-    * Communicate with us for any reason, such as replying to inquiries by mail or through BJ’s Sites, by telephone, through BJ’s Member Care, or in person at one of our Clubs.
-You may choose not to provide certain information; however, you might then be unable to take advantage of many of the opportunities offered by BJ’s, including the online features offered on BJ’s Sites. 
-  2. **Automatic Information.** When you interact with BJ’s, we may maintain a record of the following types of information: 
-    * Your purchases from BJ’s Sites and Clubs.
-    * Your Internet Protocol (“IP”) address or other technical information such as a referring web site, if any, and the path you take through BJ’s Sites when you visit BJ’s online. The IP address or technical information collected by BJ’s Sites is not linked by us to personally identifiable information, except in cases where BJ’s must provide IP addresses to certain credit card processors in connection with the processing of your credit card transaction. You may want to contact your credit card provider with any questions regarding the transactional information they require.
-  3. **Information from Third Parties.** BJ’s may receive personally identifiable information from third parties such as the following: 
-    * Updated delivery and address information from our shippers, or other third parties, such as Service Providers and Product Suppliers who furnish various fulfillment and consulting services.
-    * Information from our Specialty Business Partners, the third parties that offer products and co-branded services to our Members, including but not limited to, optical products and travel services. These Specialty Business Partners will have received your information in connection with transactions that you conducted with them or because you have provided it to them in connection with your purchase of their products or use of their services. These Specialty Business Partners have established their own respective policies and practices regarding the collection and use of personal information gathered from you. You should therefore refer to their privacy policies to understand how they handle your information and choices you have with respect thereto (see “Specialty Business Partners” under ONLINE SPECIFICS below).
-    * Information from our Service Providers who perform functions on our behalf (see DO WE SHARE YOUR INFORMATION WITH THIRD PARTIES? below for examples of BJ’s Service Providers).
-    * Information from our Product Suppliers with whom we participate in joint promotional activities.
-    * Demographic information (such as age, gender and number of household members), purchase preference information and mailing lists from our Product Suppliers and other third parties.
+We may collect your email address and non-personally identifiable information through the use of cookies, web beacons and similar technology. We also may collect transactional information about purchases you make in our Clubs or on BJ’s Sites.
 
+We may authorize third parties to collect non-personally identifiable information from you via third-party cookies, on our behalf, in order to deliver advertisements about our products and services that are customized to your preferences when you visit other, non-BJ’s affiliated web sites.
 
+Read more about the information we collect
 
-**DO WE USE TECHNOLOGY TO COLLECT INFORMATION?**
-
-We collect information through technology to make our sites more useful to you and for various purposes related to our business. For instance, when you come to our sites, we collect your IP address. An IP address is associated with the access point through which you enter the Internet, and is typically controlled by your Internet Service Provider (ISP) or your company. Standing alone, your IP address is not personally identifiable. We may use IP addresses to collect information regarding how frequently our guests visit various parts of our sites, and we may combine IP addresses with personally identifiable information.
-
-Our Web sites collect information through a variety of technical methods, including cookies and Web beacons. Cookies are pieces of information that a Web site sends to your computer while you are viewing the Web site. Web beacons are small pieces of data that are embedded in images on the pages of Web sites. Cookies, web beacons and other technical methods may involve the transmission of information either directly to us or to another party authorized by us to collect information on our behalf. If you do not want us to store this information, or if you are using a public computer, the “Help” portion of the toolbar (on most browsers) will tell you how to prevent your browser from accepting new cookies, how to have the browser notify you when you receive a new cookie, or how to disable cookies altogether. Some of our Specialty Business Partners may also use cookies on their respective sites (for example, BJ’s Travel®). However, we have no access to, or control over, these cookies. Therefore, please read the privacy policies of all other sites linked to this web site. We may use the information collected through these technical methods for many purposes, including delivering content, tracking and enhancing our visitors’ experience on our Web sites. For example, when you return to our Web sites after logging in, cookies provide information so that we will remember who you are. We also may use technical methods to analyze the traffic patterns on our Web site, such as the frequency with which our users visit various parts of our Web sites, or other activity on our sites. These technical methods may enable us to collect and use information in a form that is personally identifiable. 
-
+  
 **HOW DO WE USE YOUR INFORMATION?**
 
-The personal information we collect is generally used to process your requests and transactions, to provide you with high-quality service, to tell you about opportunities we think will be of interest to you, to customize your experience on BJ’s Sites, and to understand your needs so that we may provide you with the most suitable products and services. For example, we may use your postal address, email address and/or telephone number to help us:
+Like many retailers, we may use the information we collect to process your requests and transactions; improve the operation of our web sites and Clubs; provide you with marketing and promotional information; facilitate, improve and customize the services that we provide to you; and communicate with you about our products and services.
 
-  * Provide Member/non-member support.
-  * Communicate Membership opportunities and renewal notices.
-  * Advise you about BJ’s products and services, including information about manufacturers’ product recalls.
-  * Process and fulfill your order and notify you of your order status.  
+We may combine any of the information, both personally identifiable and non-personally identifiable, that we collect offline, on BJ’s Sites and from third-party sources.
 
-  * Solicit your feedback about BJ’s products and services.  
+Read more about how we use the information we collect
 
-  * Provide you with promotional information that we believe adds value to your Membership, such as coupons, promotions, or information about services (“Promotional Material”).  
+**  
+DO WE SHARE YOUR INFORMATION WITH THIRD PARTIES?**
 
-  * Notify contest winners and award prizes. 
+We only share your personally identifiable information with third parties in the following limited situations:
 
-
-
-If you do not wish to receive Promotional Material from us, we make it easy for you to let us know. You can [contact us](https://web.archive.org/contact-us.content.contact_us.A.about) at any time to indicate your marketing preferences (see WHAT CHOICES DO I HAVE REGARDING THE USE OF MY INFORMATION? below). 
-
-The purchase history that we collect is generally used to assist BJ’s in selecting and offering products and services to Members which best suit their needs and to keep track of eligible purchases for BJ’s Rewards® and any other incentive programs. The non-personally identifiable information that we automatically collect is utilized in the aggregate to help us look for trends so that we can improve the BJ’s shopping experience for you and our other Members. 
-
-**Send-To-A-Friend:** If Members elect to use our referral service for sending a friend information on BJ’s Sites, we may ask them for the friend’s name and email address. Some email Promotional Material may also contain links to “Send to a Friend.” Promotional Material may be sent by a Service Provider on behalf of BJ’s. Any email addresses submitted to BJ’s for the purpose of forwarding Promotional Material to others will not be used for BJ’s mailing lists and will not be collected for re-distribution. 
-
-BJ’s does not sell or rent your personally identifiable information to third parties. Under certain circumstances and from time to time, BJ’s may share your personally identifiable information with third parties as set forth below. In such circumstances, we provide only the information necessary to perform the function or to provide the service for which it has been shared. These third parties are not permitted to use the personal information provided by us for any purposes other than those authorized by BJ’s and these third parties are required to keep the information confidential. BJ’s may share your information with third parties such as: 
-
-  * **Product Suppliers:** BJ’s may share your personally identifiable information with BJ’s Product Suppliers when participating in joint promotional activities in order to advise you of upcoming offerings and promotions, to conduct research, or to provide marketing assistance that will benefit both our Product Suppliers and BJ’s.  
-
-  * **Service Providers:** BJ’s may share your personally identifiable information with trusted Service Providers who may provide operational or other support services to our Members, or who perform certain functions on our behalf. Examples include providers who fulfill orders, process payments, process rebates, distribute emails, conduct research or provide other marketing assistance.  
-
-  * **Specialty Business Partners:** BJ’s may share your personally identifiable information with BJ’s Specialty Business Partners, such as BJ’s Travel®, in order that they may notify you of their offerings. Sometimes we may send offers to selected groups of Members on behalf of our Specialty Business Partners. To facilitate Members’ orders with Specialty Business Partners’ web sites that link to BJ’s Sites, BJ’s may “pre-populate,” or permit these sites to recognize and input certain personal Member information to avoid repeated reentry of required information associated with these orders. If you apply for or request certain products or services directly from our Specialty Business Partners, you may receive information directly from them regarding their products or services.  
-
-  * **Sweepstakes and Marketing Promotions:** BJ’s may share your personally identifiable information when we partner with another company to offer or provide products, services, contests or promotions. In this case, BJ’s and the partner company may cross-reference our customer databases to identify common customers. Additionally, such information may be shared with the partner company to notify winners or to fulfill promotional obligations.  
-
-  * **Other Disclosures:** BJ’s may share your personally identifiable information if BJ’s believes in good faith that such disclosure is: (a) authorized by law or necessary to comply with a legal process; (b) in response to legal claims; (c) to respond to Member inquiries originating with the account’s Primary Member or an officer or principal of a Business Member’s organization; (d) necessary to protect personal safety, property or other rights of BJ’s and its Members or employees; or (e) an integral part of a sale of all or part of our business.
+  * with third-party Member Service Partners in conjunction with making special offers available to Members;
+  * with product suppliers and other third-party business partners in conjunction with certain marketing activities;
+  * with our service providers;
+  * as required by law;
+  * in response to legal claims;
+  * to protect the safety, property or other rights of BJ’s and its Members and employees; or
+  * as an integral part of a sale of all or part of our business.
 
 
 
-We may share aggregated demographic information and/or customer profile data with our business partners, advertisers, and others. This is not linked to any personal information that can identify any individual person.
+  
+Read more about how we share your information
 
-**WHAT CHOICES DO I HAVE REGARDING THE USE OF MY INFORMATION?**
+  
+**WHAT CHOICES DO I HAVE?**
 
-We want to communicate with you only if you want to hear from us. We give you the opportunity to opt out of receiving Promotional Material from BJ’s and from the sharing of your information with our Product Suppliers and Specialty Business Partners. Your choice to opt out will apply only to all Memberships sharing the same Membership Number (Primary Members and Household Members share the same Membership Number). Your choice to opt out will not apply to our “Specialty Business” Partners to the extent you provide information directly to them in connection with transactions that you conduct with them or with the purchase of their products or use of their services. (See "Specialty Business Partners" under ONLINE SPECIFICS below.)
+Most web browsers can be set to block cookies, and you may be able to opt out of the use of third-party cookies by visiting the [Network Advertising Initiative Web site](http://www.networkadvertising.org/managing/opt_out.asp).
 
-If you do provide information directly to such third parties, you may receive communications from them irrespective of your election with BJ’s. We are not responsible for any information that you provide directly to these parties, and we encourage you to become familiar with their privacy and security practices and policies. Also, your opt out choice will not apply to the sharing of information with our Service Providers when you have given your personally identifiable information to us related to your Membership, processing of orders, or other specific purposes.
+To opt out of receiving promotional or marketing emails from BJ’s you may:
 
-If you do not want to receive Promotional Material from us and you prefer that we not share information with our Specialty Business Partners or Product Suppliers, please follow these directions:
+  * Click on the unsubscribe link at the bottom of any promotional or marketing email you receive from BJ’s.
+  * Access your Online Profile via the “Login” link on the BJs.com Home Page and update your email marketing preferences. 
 
-**To change your email preferences** to indicate that you do not want to receive Promotional Material via email, you can click on the unsubscribe link on the bottom of any promotional email that you receive from BJ’s as the sender.
 
-**To change all marketing preferences either** :
 
-  * Call BJ’s Member Care at 800-BJS-CLUB (800-257-2582), Monday – Friday, 9AM – 7PM E.T., Saturday, 9AM – 6PM E.T. and Sunday, 12NOON – 6PM E.T.  
+To opt out of receiving promotional or marketing material from BJ’s via postal mail, promotional telephone calls from BJ’s or to opt out of the sharing of your information with third parties for marketing purposes, you may:
 
+  * Click on the customer care link on the BJs.com Home Page to email us.
   * Write us at the following address: BJ’s Wholesale Club, Inc., Attn: BJ’s Member Care, 25 Research Drive, Westborough, MA 01581.
+  * Call BJ’s Member Care at 800-BJS-CLUB (257-2582), Monday – Friday, 9AM – 7PM, Saturday, 9AM – 6PM and Sunday, NOON – 6PM E.T.
+
+
+
+Read more about the choices you have
+
+  
+**HOW DO I CONTACT BJ’s?**
+
+If you have any questions, comments or concerns regarding this Privacy Policy, please contact us in writing at:
+
+> **BJ’s Wholesale Club, Inc.  
+>  ****Attn: Member Care  
+>  ****25 Research Drive  
+>  ****Westborough** **, MA 01581**   
+> 
+
+  
+
+
+* * *
+
+**Effective: January 15, 2013**
+
+This Privacy Policy describes BJ’s (“us”, “we”, “our”) privacy practices with respect to information we collect both online (through BJs.com and other web site(s) operated by or for BJ’s Wholesale Club, Inc. (“BJ’s Sites”)) and offline about our Members and other customers and visitors.
+
+  
+**COMMITMENT TO PRIVACY**
+
+BJ’s knows that you care about how your information is used and shared. We respect your right to privacy. Your ability to make informed choices about the use of your information is important to us. We want to make sure that you understand the information we collect about you, how it is used, how it is shared and the safeguards that we have in place in order to protect it. This Privacy Policy explains our policy regarding the collection, use, disclosure and protection of information.
+
+  
+**WHAT INFORMATION DO WE COLLECT?**
+
+**Personally Identifiable Information**
+
+We may collect the personally identifiable information (“PII”) that you provide to us, such as when you purchase, renew or modify your BJ’s Membership; make a purchase in our Clubs or on BJ’s Sites; participate in surveys or contests; or communicate with us for any reason. The types of PII that we may collect from you include your name, Membership number, postal address, email address, telephone number, driver's license number and credit card account information. We may also collect transactional information about the purchases you make in our Clubs or on BJ’s Sites. Finally, we may collect certain information, such as your email address, through web beacons as described in more detail in the section titled “Information Collected Through Cookies and Web Beacons” below.
+
+We may receive PII about you from third-party sources, such as service providers, product suppliers and Member Service Partners (i.e., third-party business partners that offer products and services to our Members, including, for example, optical products and travel services). We may combine the PII we collect from you with information we collect from these other sources, both offline and online. The initial collection and sharing of the PII we receive from third parties, including Member Service Partners, is governed by the privacy policies of those third parties, and you should refer to those third parties' policies to understand how they handle your PII and the choices you have.
+
+**Non-Personally Identifiable Information**
+
+When you visit BJ’s Sites, we may collect non-PII from you, such as your Internet Protocol (“IP”) address, your browser type, the referring web site, if any, the items you view or place in your shopping cart on BJ’s Sites, and the path you take through BJ’s Sites. We collect non-PII through a variety of technical methods, including cookies and web beacons.
+
+**Information Collected Through Cookies and Web Beacons**
+
+Cookies are pieces of information that any web site may transfer to your browser that are then stored in your computer's system and which allow BJ’s Sites to recognize you if you return to the Sites using the same computer and browser. We use cookies to store users’ preferences and to record information about your visit to BJ’s Sites. We also use cookies to customize advertising and web page content based on browser type and user profile information. The deposit of cookies by BJ’s Sites may enhance your online experience by allowing us to save your preferences for your next visit. Our cookies may also measure the general activity on BJ’s Sites and measure advertising effectiveness, which allows us to determine which areas and features are most popular. This information allows us to make improvements to BJ’s Sites.
+
+Third parties with whom we have partnered may use “third-party” cookies to collect non-PII from you on our behalf. These third parties will use the non-PII collected via third-party cookies to deliver advertisements about our products and services that are customized to your preferences when you visit other non-BJ’s affiliated web sites on the Internet.
+
+Web beacons, also known as “clear gifs,” “one-pixel gifs,” “web bugs,” “Internet tags” or “pixel tags,” are small graphic images (usually invisible) that can be embedded in content and advertising on a web site or in an email. These may be embedded on BJ’s Sites or on advertisements for BJ’s appearing on third-party web sites or in email. Web beacons can recognize certain types of information on your browser, check whether you have viewed a web page or email message, and determine, among other things, the time and date that you viewed the web beacon, the IP address of your computer, and the URL of the web page from which the web beacon was viewed. We, and third parties acting on our behalf, may collect your email address through the use of web beacons when you interact with BJ’s Sites or our email advertising. However, your name, postal address, credit card account information or other PII is not collected by web beacons.
+
+See the section titled “What Choices Do I Have?” for information on choices available relating to our cookie usage and marketing activities.
+
+  
+**HOW DO WE USE YOUR INFORMATION?**
+
+Like many retailers, the information we collect is generally used to process your requests and transactions, to improve the operation of our web sites and Clubs, to provide you with marketing and promotional information that we believe adds value to your Membership (“Promotional Material”), to customize your experience on BJ’s Sites, to keep track of eligible purchases for BJ’s Rewards® and any other incentive programs, to understand your needs so that we may provide you with the most suitable products and services, and to otherwise communicate with you about our products and services. We may combine any of the information, both personally identifiable and non-personally identifiable, that we collect offline, on BJ’s Sites and from third-party sources.
+
+As indicated above, our third-party partners may use, on our behalf, the non-PII that they collect through third-party cookies to deliver advertisements about our products and services that are customized to your preferences when you visit other, non-BJ’s affiliated web sites on the Internet.
+
+**Send-to-a-Friend** : If Members elect to use our referral service for sending information to a friend on BJ’s Sites, we may ask them for the friend's name and email address. Some email Promotional Material may also contain links to “Send-to-a-Friend.” Any email addresses submitted to BJ’s for the purpose of forwarding Promotional Material to others will not be used for BJ’s mailing lists and will not be collected for re-distribution.
+
+  
+**DO WE SHARE YOUR INFORMATION WITH THIRD PARTIES?**
+
+BJ’s only shares your PII with third parties in the limited situations set forth below. In such situations, we provide only the information necessary to perform the function or to provide the service for which it has been shared. These third parties are not permitted to use the PII provided by us for any purposes other than those authorized by BJ’s, and these third parties are required to otherwise keep the PII confidential.
+
+In addition, BJ’s may share aggregated demographic information and/or customer-profile data with our business partners, advertisers and others. This is not linked to any PII that can identify any individual person.
+
+**Member Services**
+
+BJ’s may share your PII with our third-party Member Service Partners who are carefully selected partners, that, for the benefit of our Members, we allow to make special offers. Member Service Partners’ web sites and offers may or may not be co-branded. To facilitate Members’ orders with Member Service Partners' web sites that link to BJ’s Sites, BJ’s may “pre-populate” or permit these sites to recognize and input certain Member PII to avoid repeated re-entry of required information associated with these orders. If you apply for or request certain products or services directly from our Member Service Partners, you may receive information directly from them regarding their products or services.
+
+In addition, we may share your PII with product suppliers and other third-party business partners so they can: (1) offer you benefits, discounts or promotions (for example, special offers from our product suppliers); (2) offer or assist us in offering sweepstakes, contests and other marketing promotions; (3) advise you of upcoming offerings and promotions available through joint, co-branded promotional activities with BJ’s; and (4) conduct research or provide marketing assistance.
+
+In some cases, instead of sharing your PII, we may send you offers on behalf of our third-party business partners, including Member Service Partners. In such cases, those third-party business partners will only have access to your PII if you respond to them directly. Any PII you provide directly to third-party business partners, including Member Service Partners, is subject to those third parties' own privacy policies. We are not responsible for the privacy practices of the Member Service Partner. We encourage our users to read the privacy policies of all Member Service Partners that collect PII. This BJ’s Privacy Policy applies solely to information collected by BJ’s. Should you wish to change your marketing preferences with respect to any Member Service Partner, please be sure to do so by following the instructions contained in their individual privacy policies. 
+
+In some cases, third-party business partners may require, as a condition of providing services to you, that you authorize them to share your PII with us. If we terminate our relationship with a third-party business partner, the PII you provided to them may be returned to us, and we may provide that PII to a new third party offering the same or similar services.
+
+**Service Providers**
+
+BJ’s may share your PII with trusted service providers who may provide operational or other support services to our Members, or who perform certain functions on our behalf. Examples include providers who fulfill orders, process payments, process rebates, distribute emails, conduct research or provide other marketing assistance.
+
+**Other Disclosures**
+
+BJ’s may share your PII if BJ’s believes, in good faith, that such disclosure is: (a) authorized by law or necessary to comply with a legal process; (b) in response to legal claims; (c) necessary to protect personal safety, property or other rights of BJ’s and its Members or employees; or (d) an integral part of a sale of all or part of our business, including assets, merger or reorganization.
+
+  
+**WHAT CHOICES DO I HAVE?**
+
+**Choices Regarding the Collection of My Information**
+
+**Cookies:** Most web browsers will allow you to erase cookies, notify you when you receive a new cookie or block them altogether. If you would like to exercise control over BJ’s collection of non-PII via cookies, please use the Help function in your browser to find instructions on how to set your browser's cookie preferences. If you elect to block cookies from BJ’s Sites, you may be unable to take advantage of many of the opportunities and online features offered by BJ’s Sites.
+
+**Third-Party Cookies:** To opt-out of the collection of your non-PII via third-party cookies and other types of online behavioral advertising, please click [here](http://www.networkadvertising.org/managing/opt_out.asp) to visit the Network Advertising Initiative web site which enables opt-out of participating third-party online advertising networks.
+
+**Choices Regarding the Use of My Information**
+
+We give you the opportunity to opt out of receiving Promotional Material from BJ’s or the sharing of your information with Member Service Partners and other third-party business partners for marketing purposes. Your choice to opt out will apply only to the Memberships sharing the same Membership Number (Primary Members and Household Members share the same Membership Number).
+
+**Email:** To indicate that you do not want to receive Promotional Material via email or to change the frequency with which Promotional Material is sent via email, you may:
+
+  * Click on the unsubscribe link on the bottom of any promotional email that you receive from BJ’s as the sender to access the Email Preference Center.
+  * Access your Online Account via the "Sign in" link on the BJs.com Home Page and update your email marketing preferences by clicking on the subscribe/unsubscribe link.
+
+
+
+**Direct Mail or Telemarketing** : To indicate that you do not want to receive Promotional Material via postal mail or to receive promotional telephone calls, you may:
+
+  * Click on the Customer care link on the BJs.com Home Page to email us.
+  * Write us at the following address: BJ’s Wholesale Club, Inc., Attn: BJ’s Member Care, 25 Research Drive, Westborough, MA 01581.
+  * Call BJ’s Member Care at 800-BJS-CLUB (257-2582), Monday – Friday, 9AM – 7PM, Saturday, 9AM – 6PM and Sunday, NOON – 6PM E.T.
+
+
+
+**Third-Party Sharing:** If you prefer that we do not share your information with Member Service Partners and other third-party business partners for marketing purposes, you may:
+
+  * Click on the Customer care link on the BJs.com Home Page to email us.
+  * Write us at the following address: BJ’s Wholesale Club, Inc., Attn: BJ’s Member Care, 25 Research Drive, Westborough, MA 01581.
+  * Call BJ’s Member Care at 800-BJS-CLUB (257-2582), Monday – Friday, 9AM – 7PM, Saturday, 9AM – 6PM and Sunday, NOON – 6PM E.T.
 
 
 
 Please be advised that even if you choose to opt out of all forms of communication from BJ’s, you will continue to receive communications regarding product safety alerts, as well as Membership renewal information.
 
+  
 **HOW DO I ACCESS MY INFORMATION?**
 
-You may update, review, or correct your account information, including your marketing preferences, at any time by:
+You may update, review or correct your account information by:
 
-  * Accessing your Online Profile via the "Login" link on the BJs.com Home Page.  
-Calling BJ’s Member Care at 800-BJS-CLUB (800-257-2582), Monday – Friday, 9AM – 7PM E.T., Saturday, 9AM – 6PM E.T and Sunday, 12NOON – 6PM E.T.  
-
+  * Accessing your Online Account via the “Sign in” link on the BJs.com Home Page by clicking on the subscribe/unsubscribe link.
+  * Calling BJ’s Member Care at 800-BJS-CLUB (257-2582), Monday – Friday, 9AM – 7PM, Saturday, 9AM – 6PM and Sunday, NOON – 6PM E.T.
   * Writing us at the following address: BJ’s Wholesale Club, Inc., Attn: BJ’s Member Care, 25 Research Drive, Westborough, MA 01581.
 
 
 
-Please note that many direct-mail promotions and postal mailing lists are prepared well in advance, so you may continue to receive some communications after you elect to opt out. We appreciate your patience in giving us time to carry out your request.
-
+  
 **IS MY INFORMATION SECURE?**
 
-BJ’s is committed to maintaining the security of information under our control. To try to prevent unauthorized access, maintain data accuracy, and ensure correct use of information, we have put in place industry-standard physical, electronic, and managerial procedures to safeguard and secure the information we collect.
+BJ’s is committed to maintaining the security of information under our control. To try to prevent unauthorized access, maintain data accuracy and ensure correct use of information, we have put in place appropriate administrative, technical and physical safeguards to protect the information we collect. Any information collected on BJ’s Sites is located on a secure server located behind a firewall and is not directly connected to the Internet. BJ’s employs Secure Socket Layer software and password protection procedures to safeguard PII collected.
 
-With respect to account information BJ’s collects online, such information is accessible online only through the use of a password. To protect the confidentiality of this category of personal information, you must keep your password confidential and not disclose it to any other person. You are responsible for all uses of BJ’s Sites by any person using your password. If other people have access to your email, they may be able to change information about your user profile. You should not use an email account operated by an employer because many employers have the legal right to access such email accounts. Please notify us immediately if you believe your password has been misused. Other than on BJ’s Sites, BJ’s will never ask you for your password.
+  
+**INFORMATION ABOUT CHILDREN UNDER 13**
 
-Any information collected on BJ’s Sites is located on a secure server located behind a firewall and is not directly connected to the Internet. BJ’s employs Secure Socket Layer (“SSL”) software and password protection procedures to safeguard personal information collected. Please see “Specialty Business Partners” under ONLINE SPECIFICS for important information on the security practices of our Specialty Business Partners’ sites.
+BJ’s Sites are general audience web sites and are not targeted to children under 13 years of age. BJ’s does not knowingly collect or store the PII of children under the age of 13. If we learn that we have PII about a child under the age of 13, we will delete that information.
 
-**HOW AM I NOTIFIED OF CHANGES TO THIS PRIVACY POLICY?**
+  
+**CHANGES TO THIS PRIVACY POLICY**
 
-We reserve the right to change this Privacy Policy at any time. However, we will alert you that changes have been made by indicating at the top of the Privacy Policy the date it was last updated. If we ever make a material change to how we use the information you provide and the new uses are unrelated to uses we disclose in this statement, we will communicate the changes in advance and provide you the opportunity to change your marketing preferences. We will use information in accordance with the Privacy Policy under which the information was collected.
+We reserve the right to change this Privacy Policy at any time. To make you aware of material changes to this policy, we will post the date the policy was last revised at the top of the policy. We encourage you to periodically review this Privacy Policy. Your continued use of BJ’s Sites, patronage of our Clubs or interaction with BJ’s, constitutes your agreement to this Privacy Policy and any updates.
 
-**ONLINE SPECIFICS**
+  
+**YOUR CALIFORNIA PRIVACY RIGHTS**
 
-**Specialty Business Partners**
+Members and other customers and visitors who reside in California, and who have provided their PII to BJ’s, may request information about our sharing of certain categories of PII with third parties for their direct marketing purposes. Such requests must be submitted to us in writing at the contact address at the bottom of this Privacy Policy.
 
-BJ’s Sites contain links to other sites which offer products and services to BJ’s Members (for example, BJ’s Auto Buying ProgramSM. Each linking site has established its own respective policies and practices on the collection and use of personal information gathered from visitors. Please visit our Specialty Business Partner Sites (“Partner Sites”) in order to view each respective site’s privacy policy. You can find links to these sites by clicking on Services in the upper navigation of any BJs.com page.
+This request may be made no more than once per calendar year. We reserve the right to not respond to requests submitted other than to the address specified below.
 
-Although co-branded with the BJ’s name, these Partner Sites are independently operated. Please be aware that when you visit our Partner Sites, you are leaving BJ’s Sites. We are not responsible for the privacy practices of the Partner Sites. We encourage our users to read the privacy policies of all Partner Sites that collect personally identifiable information. This BJ’s Privacy Policy **applies solely to information collected by BJ’s.** Should you wish to change your marketing preferences with respect to any Partner Sites, please be sure to do so by following the instructions contained in their individual privacy policies.
+  
+**HOW DO I CONTACT BJ’s?**
 
-**Children**
+If you have any questions, comments or concerns regarding this Privacy Policy, please contact us in writing at:
 
-We encourage parents to take an active interest in their children’s use of the Internet. BJ’s Sites are not targeted to children younger than 13 years of age. BJ’s does not knowingly collect or store information of children younger than 13. Visitors to BJ’s Sites who are under the age of 13 may use these sites only with the supervision and consent of a parent or guardian. None of the products or services available through BJ’s Sites may be purchased by anyone less than 18 years of age.
-
-**If you feel that BJ’s is not abiding by its posted Privacy Policy, please notify BJ’s[online](https://web.archive.org/contact-us.content.contact_us.A.about) or by writing to BJ’s Wholesale Club, Inc., Attn: Member Care, 25 Research Drive, Westborough, MA 01581.**
+> **BJ’s Wholesale Club, Inc.  
+>  ****Attn: Member Care  
+>  ****25 Research Drive  
+>  ****Westborough, MA 01581**
