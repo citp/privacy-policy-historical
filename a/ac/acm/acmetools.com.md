@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the acmetools.com privacy policy that was archived on 2012-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120625170851id_/http%3A//www.acmetools.com/webapp/wcs/stores/servlet/PrivacyPolicyView%3FlangId%3D-1%26storeId%3D10052%26catalogId%3D10101) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the acmetools.com privacy policy that was archived on 2013-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130620163235id_/http%3A//www.acmetools.com/webapp/wcs/stores/servlet/PrivacyPolicyView%3FlangId%3D-1%26storeId%3D10052%26catalogId%3D10101) for the most accurate reproduction.*
 
 # Power Tools, Woodworking Tools, Cordless Tools from DeWalt, Makita, Milwaukee and others at AcmeTools.com
-
-## Privacy Policy
 
 ACME TOOLS respects your right to privacy and is committed to protecting our customer's personal information. This Privacy Policy details the following practices regarding information collection, use and disclosure practices for this Web site (http://www.acmetools.com): 
 
@@ -61,6 +59,47 @@ We use your personal information to communicate with you if and when necessary i
 
 
 We may also use collected information in order to help diagnose problems with this Web site. We may use all information we collect to analyze statistical use patterns and demographic data (basically, where our visitors come from and what demographic characteristics they have) and to improve this Web site to better serve our customers. We use your IP address to help diagnose problems with our servers, and to administer this Web site. Your IP address is used to help identify you and your shopping cart and to gather broad demographic information. We may also prepare and keep statistical records and other data about you and other users of this Web site, but we do that in a way that does not identify you or any other user personally. We may hire third parties to help acmetools.com collect and analyze such data, and we may share such statistical data with third parties. Again, such statistical data will not specifically identify you or any other user. We use this information to help us make this Web site more useful to visitors - to learn about the number of visitors to this Web site, what part of this Web site they are interested in, how long they use this Web site, and the types of technology our visitors use.
+
+## Privacy Policy
+
+ACME TOOLS respects your right to privacy and is committed to protecting our customer's personal information. This Privacy Policy details the following practices regarding information collection, use and disclosure practices for this Web site (http://www.acmetools.com): 
+
+  1. What information does acmetools.com collect from you, where do we collect information from you and how do we use it?
+  2. With whom do we share your information?
+  3. How can you update, correct or delete your personally identifiable information?
+  4. What are your choices regarding collection, use and distribution of your information?
+  5. What security precautions are in place to protect against the loss, misuse or alteration of your information?
+  6. Use of "cookies."
+  7. Contacting acmetools.com about privacy questions or concerns.
+  8. Changes to this Privacy Policy. 
+
+
+
+### WHAT PERSONAL INFORMATION DO WE GATHER?
+
+When you visit this Web site, you may provide acmetools.com with two types of information: personal information you knowingly and voluntarily choose to disclose, and information that we automatically collect as you browse this Web site.
+
+ **Information You Voluntarily Submit -** We collect and store any information you enter on this Web site, or provide to acmetools.com in other contacts we have with you. Information is collected from visitors to this Web site, including in the areas described below, as applicable. During the on-line ordering process, you can review, change, or delete personally identifiable information that you have submitted. You may change any of your personally identifiable information in your account online at any time. You may request to have the information on your account deleted or removed, although you cannot delete information associated with past purchases.
+
+ **Placing Orders -** When you order from acmetools.com, we collect personally identifiable information from you. If you order one of our products or services, we will collect and maintain your name, e-mail address, billing address, shipping address, telephone number, product selections, credit card or other payment information, order number, referring URL, IP address and a password. We collect this, and other information, as disclosed in this Policy, in order to fill your order, to communicate with you about your order and to send you promotional materials. Before confirming your order, you will have the opportunity to review the product order form and make changes and additions to the information it contains. These changes will be automatically kept for future use. 
+
+**Shopping and Web Site Registration -** We collect IP addresses for the purposes of system administration, to gather broad demographic information, to enable ads to be served on this Web site, to report non-personally identifiable information to our advertisers, and to monitor the level of activity on this Web site. We collect information from visitors to this Web site regarding the URLs they came from, their IP addresses, domain types, the browser type used to come to this Web site, the country, state and telephone area code where their servers are located, the pages of this Web site that visitors viewed during their visit, and any search terms entered on this Web site.
+
+ **Employment Applications -** Some areas of this Web site may allow you to submit information related to job opportunities with ACME TOOLS. Please note that your submission of such information may be further governed by specific provisions that appear on any applicable employment opportunities sections of this Web site. 
+
+**Gift Certificates -** If you purchase a gift certificate from this Website, you will give acmetools.com the recipient’s name, mailing information and phone number for the recipient. The recipient information you give acmetools.com will only be used to send the gift certificate and for no other purpose.
+
+ **Online Surveys -** In order to improve our services to you, we ask some of our customers to voluntarily complete surveys, which may be collected by an independent third party. Individual survey answers are confidential, although non-personally identifiable information is collected and disclosed to third parties. If you do not wish to participate in a survey, simply decline to participate when asked.
+
+ **Contests and Sweepstakes -** When you enter a contest or other promotion, we may ask you for contact information such as your name, address and e-mail address in order to administer the contest, to send you promotional e-mails, notify winners and make the winner's list publicly available pursuant to certain state's laws. Your consent to such promotional use and disclosure of this information is a condition of your participation. As a condition of receiving any prize, you will be required to submit an eligibility affidavit, for acmetools.com to ensure that you are eligible to receive the prize according to the contest rules.
+
+**Contact Information -** If you contact acmetools.com customer service representatives by telephone, e-mail or letter, we may keep a record of your correspondence or comments. If you report a problem with this Web site, we may collect such information in a file specific to you. If you contact acmetools.com through our feedback area or by calling one of our customer service representatives, we may ask for your name and e-mail address in order to send you a reply. If other users or third parties send acmetools.com correspondence about your activities or purchases on this Web site, we may keep the information in a file specific to you. We use a third party to help acmetools.com provide customer service. In order to help you most effectively, we provide them with your order information.
+
+ **Extended Warranty Information -** Our warranty programs are administered by a third party warranty company. When you purchase a warranty on a product or service, we submit your name, address, telephone number, e-mail address, warranty purchased and product purchased to the warranty company. 
+
+**Advertising -** We may display advertisements on this Web site in the form of targeted banners and promotions. acmetools.com takes the advertisement and includes it in an acmetools.com e-mail to prior customers meeting certain criteria. We may also display ads linked to certain search terms that you have entered, or to certain pages that you are viewing. In this process, advertisers never have access to individual account information; only acmetools.com has access to individual's accounts. Additionally, acmetools.com may share aggregated data with advertisers.
+
+ **Newsletters -** We offer free newsletters and promotional e-mails as a service to our customers. We will send you newsletters and e-mails periodically listing current specials and deals. To stop receiving our newsletter, send an e-mail to us at [optout@acmetools.com](mailto:optout@acmetools.com).
 
 ### DISCLOSING YOUR PERSONAL INFORMATION TO OTHERS.
 
