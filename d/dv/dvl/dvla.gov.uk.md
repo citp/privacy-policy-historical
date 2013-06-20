@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dvla.gov.uk privacy policy that was archived on 2012-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121212074310id_/http%3A//www.dft.gov.uk/dvla/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dvla.gov.uk privacy policy that was archived on 2013-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130620110109id_/http%3A//www.dft.gov.uk/dvla/privacy.aspx) for the most accurate reproduction.*
 
 # Privacy and Cookie Policy
 
