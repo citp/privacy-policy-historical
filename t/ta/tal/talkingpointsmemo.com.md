@@ -1,26 +1,28 @@
-> *The following text is extracted and transformed from the talkingpointsmemo.com privacy policy that was archived on 2012-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121115002439id_/http%3A//talkingpointsmemo.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the talkingpointsmemo.com privacy policy that was archived on 2013-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130620162813id_/http%3A//talkingpointsmemo.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy | Talking Points Memo
 
-### [Talking Points Memo](http://talkingpointsmemo.com/)
+## [Amended as of April 4, 2013](http://talkingpointsmemo.com/privacy-policy-pre-442013.php)
 
 ## General
 
-TPM Media LLC, publisher of talkingpointsmemo.com and tpmcafe.com (hereafter referred to collectively as “TPM”) is committed to maintaining the privacy of personal information that you provide to us when using TPM (hereafter referred to collectively as the “Services”). This Privacy Policy describes how we treat personal information received about you when you visit TPM.
+TPM Media LLC, publisher of talkingpointsmemo.com (hereafter referred to as “TPM”) is committed to maintaining the privacy of personal information that you provide to us when using TPM (hereafter referred to collectively as the “Services”). This Privacy Policy describes how we treat personal information received about you when you visit TPM.
 
 ## Information We Collect
 
-We may collect personally identifiable information from you that may include your name, age, address, e-mail address, and other information. We do not, however, knowingly collect personal information from children under the age of thirteen. In addition, we may conduct occasional online surveys. These surveys are entirely voluntary and you may easily decline to participate. Furthermore, we automatically collect non-personally identifiable IP addresses and Web site usage information from you when you visit TPM.
+We may collect personally identifiable information from you that may include your name, age, address, e-mail address, and other information. We do not, however, knowingly collect personal information from children under the age of thirteen. In addition, we may conduct occasional online surveys. These surveys are entirely voluntary and you may easily decline to participate. Furthermore, we automatically collect non- personally identifiable IP addresses and other Web site usage information from you when you visit TPM.
 
 ## How We Use Information Collected
 
-We may use information: (i) for the purposes for which you specifically provided the information, (ii) to send you e-mails only relating to TPM unless you have opted out of receiving such e-mail, (iii) to enhance existing features or develop new features, products and services, and (iv) to provide advertisers and other third parties with aggregate (non-personally identifiable) information about our user base and usage patterns.
+We may use information: (i) for the purposes for which you specifically provided the information, (ii) to send you e-mails on our behalf and on behalf of other relevant parties unless you have opted out of receiving such e-mail, (iii) to enhance existing features or develop new features, products and services, and (iv) to provide advertisers and other third parties with aggregate (non-personally identifiable) information about our user base and usage patterns.
 
 We will not share your personally identifiable information outside of TPM Media unless you “opt in” to having your personally identifiable information shared with a company that is not affiliated with us. However, we may disclose and use personally identifiable information in special circumstances where it is necessary to enforce our Terms of Use or when we, in good faith, believe that the law requires us to do so.
 
-## Blogging and Comments
+Notwithstanding the forgoing, if we collect your personally identifiable information in connection with our relationships with third parties (i.e., on behalf of third parties affiliated with political or other advocacy groups): (i) we may share with third parties any information you provide, or that is collected, in the course of visiting any pages that are made available in cooperation with such third parties, and (ii) if you provide an e-mail address in this context, we reserve the right to present you with advertisements on behalf of third parties.
 
-The blogging and comments functions of tpmcafe.com allow you to post your own articles and to comment on what other readers have to say. When you use these features (for example, by posting to a blog or making a comment), you may be making public any information that you provide including your name, location and e-mail address.
+## Participation, Discussion and Comments
+
+Certain participation, discussion and comments functions on TPM allow you to post your own opinions and points of view and to comment on TPM posts and on what other readers have to say. TPM reserves the right to use such user-generated content, as well as any content provided to TPM via e-mail, for any purpose. When you use these features (for example, by participating in a discussion or making a comment), you may be making public any information that you provide including your name, location and e- mail address. TPM is not responsible for any personal information that you make public via the Services’ features, and has no obligation to remove any content that you made available thereby. Furthermore, TPM is not responsible for the actions or disclosures of any users of TPM Services.
 
 ## Cookies and Web Beacons
 
@@ -33,3 +35,7 @@ The Services may contain links to other sites. Please be aware that TPM Media is
 ## Transfer to U.S. or Other Countries
 
 Your information may be stored and processed in the United States or any other country where TPM Media LLC has facilities, and by subscribing to our services, you consent to the transfer of information outside of your country.
+
+## Amendments
+
+TPM may choose to amend this policy periodically. Any changes will be available for review on this page.
