@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vivaahsurat.com privacy policy that was archived on 2011-01-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110131202509id_/http%3A//www.vivaahsurat.com/Privacy%2520Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vivaahsurat.com privacy policy that was archived on 2013-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130620154733id_/http%3A//www.vivaahsurat.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -12,10 +12,15 @@ We will give you the chance to refuse any marketing email from us or from anothe
 
 The type of information we will collect about you includes:
 
-Your Name  
-Address  
-Phone Number  
+Your Name
+
+Address
+
+Phone Number
+
 Email Address
+
+IP Address
 
 We will never collect sensitive information about you without your explicit consent.
 
