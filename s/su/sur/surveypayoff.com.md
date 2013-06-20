@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the surveypayoff.com privacy policy that was archived on 2012-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121230094701id_/http%3A//www.surveysay.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the surveypayoff.com privacy policy that was archived on 2013-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130620105702id_/http%3A//www.surveysay.com/privacy) for the most accurate reproduction.*
 
 # SurveySay.com - Privacy Policy
 
