@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the epsb.ca privacy policy that was archived on 2012-10-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121003014547id_/http%3A//epsb.ca/privacy/index.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the epsb.ca privacy policy that was archived on 2013-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130620085611id_/http%3A//epsb.ca/privacy/index.shtml) for the most accurate reproduction.*
 
 # District-wide Privacy Statement
 
