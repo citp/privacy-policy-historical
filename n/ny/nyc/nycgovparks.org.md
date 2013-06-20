@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nycgovparks.org privacy policy that was archived on 2012-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121231152447id_/http%3A//nyc.gov/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nycgovparks.org privacy policy that was archived on 2013-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130621005849id_/http%3A//nyc.gov/privacy) for the most accurate reproduction.*
 
 # NYC.gov - NYC.gov Privacy Policy
 
