@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the agacistore.com privacy policy that was archived on 2012-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121221233841id_/http%3A//www.agacistore.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the agacistore.com privacy policy that was archived on 2013-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130620140328id_/http%3A//www.agacistore.com/privacy.aspx) for the most accurate reproduction.*
 
 # A'GACI: Privacy & Security
 
@@ -13,11 +13,11 @@ We do not sell, rent, or loan customer email addresses to any other party.
 
 Your email address will be used to send your order and shipping confirmations, and for relevant correspondence regarding your order. We may also send you occasional email notices relating to our products or services. If you do not want to receive email from us in the future, please let us know by sending email to us at 
 
-_[customerservice@agacistore.com](mailto:customerservice@agacistore.com)_ or by calling us at (866) 362-4224.
+_[customerservice@agacistore.com](mailto:customerservice@agacistore.com)_ or by calling us at 1-855-212-4224.
 
 ### Your postal address
 
-If you supply us with your postal address you may receive occasional mailings from us with information on products and services or upcoming events. If you do not wish to receive such mailings, please let us know by sending email to us at _[customerservice@agacistore.com](mailto:customerservice@agacistore.com)_ or by calling us at (866) 362-4224.  
+If you supply us with your postal address you may receive occasional mailings from us with information on products and services or upcoming events. If you do not wish to receive such mailings, please let us know by sending email to us at _[customerservice@agacistore.com](mailto:customerservice@agacistore.com)_ or by calling us at 1-855-212-4224.  
 
 
 ### Changing your email or postal address information
