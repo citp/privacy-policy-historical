@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the jobscience.com privacy policy that was archived on 2012-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121223014948id_/http%3A//www.jobscience.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jobscience.com privacy policy that was archived on 2013-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130620140131id_/http%3A//www.jobscience.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy | Jobscience
+# Privacy Policy - Recruitment on the World's #1 CRM
 
 Jobscience is committed to protecting the privacy of our users. We want to provide a safe, secure user experience. We will use our best efforts to ensure that the information you submit to us remains private, and is used only for the purposes as set forth herein. The following reflects our commitment to you.
 
@@ -22,7 +22,7 @@ Since Jobscience is a career site, we give you the option of putting your resume
 
 ## Privacy Commitment Changes
 
-If we decide to change our privacy commitment for Jobscience, we will post those changes here so that you will always know what information we gather, how we might use that information, and whether we will disclose it to anyone. If, at any time, you have questions or concerns about Jobscience's privacy commitment, please feel free to call (866) 284-1892 and speak to one of our representatives.
+If we decide to change our privacy commitment for Jobscience, we will post those changes here so that you will always know what information we gather, how we might use that information, and whether we will disclose it to anyone. If, at any time, you have questions or concerns about Jobscience’s privacy commitment, please feel free to call (866) 284-1892 and speak to one of our representatives.
 
 ## Safe Harbor Data Privacy Policy
 
@@ -109,4 +109,4 @@ San Francisco, CA 94105
 
 -OR-
 
-email to: [info@jobscience.com](mailto:info@jobscience.com)
+email to: [info@jobscience.com](mailto:info@jobscience.com)
