@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cpmstar.com privacy policy that was archived on 2012-10-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121023215130id_/http%3A//www.cpmstar.com/index.aspx%3Fnav%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cpmstar.com privacy policy that was archived on 2013-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130620153506id_/https%3A//cpmstar.com/index.aspx%3Fnav%3Dprivacy) for the most accurate reproduction.*
 
 # CPMStar - The Online Advertising Network Devoted To Gamers
 
