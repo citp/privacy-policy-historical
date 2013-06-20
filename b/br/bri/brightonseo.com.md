@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the brightonseo.com privacy policy that was archived on 2012-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121217220336id_/http%3A//www.brightonseo.com/cookie-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the brightonseo.com privacy policy that was archived on 2013-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130620195605id_/http%3A//www.brightonseo.com/cookie-privacy-policy) for the most accurate reproduction.*
 
 # Cookie and Privacy Policy - BrightonSEO - BrightonSEO
 
@@ -17,6 +17,8 @@ Once a visitor completes the contact form, participates in a competition, access
 
 The collected information can include your name, company and job title, address and contact details.
 
+We also collect information about people attending our events, such as email address, job title and the name of your employer.
+
 ## How SiteVisibility/BrightonSEO Uses the Collected Information
 
 The information collected anonymously for the purposes of Google Analytics enables the company to improve the user experience and better understand its users. The information we collect is used to generate reports to make the site more user friendly and to determine which types of content are most appealing for our users.
@@ -27,7 +29,9 @@ By completing any of the contact forms and submitting your information, you enab
 
 ## Sharing Your Information
 
-We will not sell your information, trade it with any other company, or use it for any other purpose other than to communicate to you offers about the Company’s own service offerings, or closely related events or opportunities we would reasonably consider you to have an interest in based on your initial or any subsequent requests.
+We will not sell your information, trade it with any other company (other than those within our Group), or use it for any other purpose other than to communicate to you offers about the Company’s own service offerings, or closely related events or opportunities we would reasonably consider you to have an interest in based on your initial or any subsequent requests.
+
+Our "group of companies" are "BrightonSEO and clockworkTalent"
 
 ## How Long Will We Keep Your Data
 
@@ -144,8 +148,8 @@ AdInsight is a phone call analytics tool, used by companies to understand the cu
   
 ---|---|---  
 adiV | The adiV cookie contains an identifier which is used by AdInsight to track a visitor over time. This allows AdInsight to show multiple visits made by a customer over time from the same browser. | This cookie is set to expire 1 year after the visitor leaves the website.  
-adiVi  | The adiVi cookie contains an identifier which is used by AdInsight to help track a visitor’s path while they are on the website.  | This cookie is set to expire 30 minutes after the visitor leaves the website.  
-adiLP  | The adiLP cookie is used to help track visitors who have multiple tabs open in the same browser to prevent errors in tracking.  |   
+adiVi | The adiVi cookie contains an identifier which is used by AdInsight to help track a visitor’s path while they are on the website. | This cookie is set to expire 30 minutes after the visitor leaves the website.  
+adiLP | The adiLP cookie is used to help track visitors who have multiple tabs open in the same browser to prevent errors in tracking. |   
   
 ## Third Party Cookies
 
