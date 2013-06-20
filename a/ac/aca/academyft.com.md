@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the academyft.com privacy policy that was archived on 2012-10-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121010172130id_/http%3A//www.academyft.com/privacy_policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the academyft.com privacy policy that was archived on 2013-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130620221127id_/http%3A//www.academyft.com/privacy_policy.htm) for the most accurate reproduction.*
 
-# Privacy Policy - Academy of Financial Trading.
+# Privacy Policy - Learn How to Trade the Financial Markets, How to Be a Trader in Forex, CFDs, commodities, indices. Trading Education.
 
 ## **Privacy** Policy
 
