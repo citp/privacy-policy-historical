@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the teacollection.com privacy policy that was archived on 2012-10-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121019000701id_/http%3A//www.teacollection.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the teacollection.com privacy policy that was archived on 2013-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130620165232id_/http%3A//www.teacollection.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Tea Collection
 
@@ -66,7 +66,7 @@ In addition, we may use such information to:
 
 ### Outside Tea Collection
 
-The information that you give us and information about your order may be combined with other personally identifiable information (such as demographic information and past purchase history) available from our records and other sources. This information will be used to make our future marketing efforts more efficient. This information may also be shared with other marketers to bring you offers of interest. If you prefer that we do not share your name and address with other marketers, please email us at [service@teacollection.com](mailto:service@teacollection.com).
+The information that you give us and information about your order may be combined with other personally identifiable information (such as demographic information and past purchase history) available from our records and other sources. This information will be used to make our future marketing efforts more efficient. This information may also be shared with other marketers to bring you offers of interest. If you prefer that we do not share your name and address with other marketers, please email us at [service@teacollection.com](mailto:service@teacollection.com). We use a third party service to collect, process and/or store information regarding consumer preferences related to our products and our websites. This third-party service provider may use cookies and transparent GIF files to collect information on the our websites as a part of the service. You may review this third-party service provider's privacy policy at www.Alvakids.com/privacy.html.
 
 We may share information with governmental agencies or other companies assisting us in fraud prevention or investigation. We may do so when (1) permitted or required by law, or (2) trying to protect against or prevent actual or potential fraud or unauthorized transactions, or (3) investigating fraud that has already taken place. In addition, Tea Collection reserves the right to disclose personal information to a third party if a law, regulation, search warrant, subpoena or court order legally requires or authorizes us to do so.
 
