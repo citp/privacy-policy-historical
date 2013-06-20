@@ -1,17 +1,17 @@
-> *The following text is extracted and transformed from the niit-tech.com privacy policy that was archived on 2012-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120505125319id_/http%3A//www.niit-tech.com/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the niit-tech.com privacy policy that was archived on 2013-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130621015453id_/http%3A//www.niit-tech.com//privacy-statement) for the most accurate reproduction.*
 
-# Privacy Statement - NIIT Tech
+# Privacy Statement | NIIT Technologies
 
 All contents are Copyright © 2007 NIIT Technologies. All rights reserved. No portion of this Privacy Statement may be copied/ reproduced in any form, or by any means without the prior written approval from NIIT Technologies Ltd.
 
-Contents
+**Contents**
 
 1\. Introduction  
 2\. NIIT Technologies' Principles to Protect Privacy
 
 The following terms and conditions apply to all visitors, or users of this Web Site. By accessing this Web Site, the user acknowledges acceptance of these terms and conditions.
 
-1\. Introduction
+**1\. Introduction**
 
 NIIT Technologies Limited ("NIIT Technologies") is committed to respecting your privacy and distinguishes your need for appropriate safety of any personally identifiable information ("Personal Information") you share with NIIT Technologies. NIIT Technologies has created privacy policy under the Indian IT Act, 2000, Information Technology (Reasonable security practices and procedures and sensitive personal data or information) Rules, 2011 (hereinafter referred to as Data Privacy Rules) in order to demonstrate its commitment to privacy. Personal Information means any information that may be used to identify an individual, including, but not limited to, a first and last name, addresses including an e-mail address or other contact details.  The authenticity of the personal information is the sole responsibility of the provider and that NIIT Technologies shall not be held accountable for the same.
 
@@ -23,7 +23,7 @@ Your Consent
 
 By using this Web site, you consent to the terms of NIIT Technologies' Privacy Policy and to NIIT Technologies' processing of Personal Information for the purposes given above. There are times, however, when NIIT Technologies may need information from you, such as your name and address. When information is needed, NIIT Technologies will try (but is not obligated) to let you know at the time of collection, how it will use the personal information. Usually, the personal information NIIT Technologies collects is used only by it to respond to your inquiry, process an order or allow you to access specific account information. Occasionally, NIIT Technologies may make the e-mail addresses, of those who provide information, available to other reputable organizations whose products or services it thinks you may find interesting. In these cases, you will be offered an opportunity to limit access to your information. In case NIIT Technologies does not receive any response from you to limit the access of your information, it shall be deemed that you consent to such distribution of your Personal Information as mentioned above.
 
-2\. NIIT Technologies' Principles to Protect Privacy 
+**2\. NIIT Technologies' Principles to Protect Privacy  **
 
 In order to protect your privacy, NIIT Technologies has adopted the following principles  
 a) Security  
@@ -35,7 +35,7 @@ f) Access/Accuracy
 
 (a) Security  
 Wherever your Personal Information may be held within NIIT Technologies, the company intends to take reasonable steps to protect it from unauthorized access or disclosure. This information is only used to fulfil your specific request, unless you give us permission to use it in another manner. This site has security measures in place to protect the loss, misuse, and/or alteration of information under our control. The data resides behind a firewall with access restricted to authorized NIITians. NIIT Technologies does not link IP address to anything personally identifiable  
-Spam emails or unsolicited bulk emails are a major concern and NIIT Technologies has taken reasonable measures to minimize the transmission and impact of spam emails in its environment. Only sufficient information is forwarded to the sender in case of identification of a spam email and it gets rejected by NIIT Technologies. 
+Spam emails or unsolicited bulk emails are a major concern and NIIT Technologies has taken reasonable measures to minimize the transmission and impact of spam emails in its environment. Only sufficient information is forwarded to the sender in case of identification of a spam email and it gets rejected by NIIT Technologies.
 
 (b) Cookie/Tracking Technology  
 The Site may use cookie and tracking technology depending on the features offered. Cookie and tracking technology are useful for gathering information such as browser type and operating system, tracking the number of visitors to the Site, and understanding how visitors use the Site. Cookies can also help customize the Site for visitors. Personal information cannot be collected via cookies and other tracking technology; however, if you previously provided personally identifiable information, cookies may be tied to such information. Aggregate cookie and tracking information may be shared with third parties.
@@ -52,13 +52,13 @@ Where NIIT Technologies collects Personal Information on the Site, NIIT Technolo
 (f) Access/Accuracy  
 To the extent that you do provide NIIT Technologies with Personal Information, NIIT Technologies wishes to maintain accurate Personal Information. Where NIIT Technologies collects Personal Information from you on the site, its aim is to provide a means of contacting NIIT Technologies should you need to update or correct that information. If for any reason, those means are unavailable or inaccessible, you may send updates and corrections about your Personal Information to [privacy@niit-tech.com](mailto:privacy@niit-tech.com), or to the grievance officer, and NIIT Technologies will make reasonable efforts to incorporate the changes.
 
-If you have any questions/suggestions about NIIT Technologies Data Privacy Policy please e-mail us at [privacy@niit-tech.com](mailto:privacy@niit-tech.com). 
+If you have any questions/suggestions about NIIT Technologies Data Privacy Policy please e-mail us at [privacy@niit-tech.com](mailto:privacy@niit-tech.com).
 
 (g) Grievance Redressal: As per rule 5(9) of the Data Privacy Rules, Colonel (Retd) AK Anand has been designated as Grievance Officer. The contact details of the officer are as below:  
 E-mail id: [arun.anand@niit-tech.com](mailto:arun.anand@niit-tech.com)  
 Phone: +91 120 381 5643
 
-All the grievances and any discrepancies of the provider of information shall be redressed within one month (30 days) from the date of receipt of grievance. 
+All the grievances and any discrepancies of the provider of information shall be redressed within one month (30 days) from the date of receipt of grievance.
 
 NIIT Technologies reserves its right to change, modify or update this privacy policy at any time without notice.
 
