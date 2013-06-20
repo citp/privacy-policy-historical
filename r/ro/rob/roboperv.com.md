@@ -1,100 +1,67 @@
-> *The following text is extracted and transformed from the roboperv.com privacy policy that was archived on 2012-03-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120314200414id_/http%3A//www.godaddy.com/agreements/ShowDoc.aspx%3Fpageid%3Dprivacy_parkedpage) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the roboperv.com privacy policy that was archived on 2013-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130620150325id_/http%3A//service.adultprovide.com/docs/privacy.htm) for the most accurate reproduction.*
 
-# Legal Agreement
+# RealityKings Privacy Policy
 
-**Go Daddy Respects Your Privacy**
+Your privacy is of utmost importance to us. This Privacy Policy governs your use of this website and all of our other websites including, but not limited to, [realitykings.com](http://realitykings.com/), [bignaturals.com](http://bignaturals.com/), [milfhunter.com](http://milfhunter.com/), [cumfiesta.com](http://cumfiesta.com/), [8thstreetlatinas.com](http://8thstreetlatinas.com/), [inthevip.com](http://inthevip.com/), [welivetogether.com](http://welivetogether.com/), [mikeinbrazil.com](http://mikeinbrazil.com/), [milfnextdoor.com](http://milfnextdoor.com/), [moneytalks.com](http://moneytalks.com/), [firsttimeauditions.com](http://firsttimeauditions.com/), [roundandbrown.com](http://roundandbrown.com/), [eurosexparties.com](http://eurosexparties.com/), [daredorm.com](http://www.daredorm.com/), [streetblowjobs.com](http://streetblowjobs.com/), [vipcrew.com](http://vipcrew.com/), [captainstabbin.com](http://captainstabbin.com/), [mikesapartment.com](http://mikesapartment.com/), [teamsquirt.com](http://www.teamsquirt.com/), [blackgfs.com](http://www.blackgfs.com/), [momsbangteens.com](http://www.momsbangteens.com/), [flowertucci.com](http://www.flowertucci.com/), [bigtitsboss.com](http://www.bigtitsboss.com/), [dangerousdongs.com](http://www.dangerousdongs.com/), [extremeasses.com](http://www.extremeasses.com/), [extremenaturals.com](http://www.extremenaturals.com/), [realorgasms.com](http://www.realorgasms.com/), [topshelfpussy.com](http://www.topshelfpussy.com/), [wivesinpantyhose.com](http://www.wivesinpantyhose.com/), [cumgirls.com](http://www.cumgirls.com/), [happytugs.com](http://www.happytugs.com/), [bikinicrashers.com](http://www.bikinicrashers.com/), [itsreal.com](http://www.itsreal.com/), [hotbush.com](http://www.hotbush.com/), [saturdaynightlatinas.com](http://www.saturdaynightlatinas.com/), [seemywife.com](http://www.seemywife.com/), [40inchplus.com](http://www.40inchplus.com/), [monstercurves.com](http://www.monstercurves.com/), [pure18.com](http://www.pure18.com/), [cfnmsecret.com](http://www.cfnmsecret.com/), [hdlove.com](http://hdlove.com/), [dickdorm.com](http://www.dickdorm.com/), [papi.com](http://www.papi.com/), [boysfirsttime.com](http://www.boysfirsttime.com/), [trannysurprise.com](http://www.trannysurprise.com/), and [plentyofdicks.com](http://www.plentyofdicks.com/), (the "Sites", "we" or "us"). As noted below, please be aware that we may change our Privacy Policy in the future and it is your obligation to review this Privacy Policy from time to time and the effective date listed with it.   
 
-**This Privacy Policy explains our privacy and information gathering practices, such as the types of information we collect and under what circumstances that information is shared.**
 
-**Please take the time to review the terms of this Policy.   By using this Site, you agree to accept the terms provided.**
+Adults Only Service   
 
-**Other than as described in this Policy, we will not give any information about you to others without your express permission.**
 
-**Information Collection and Use**
+**THIS IS AN ADULTS _ONLY_ SERVICE**. We will suspend or terminate any accounts which we believe are being used by anyone under the age of eighteen (18) years old or the age of majority in the jurisdiction in which you view the Sites; additionally, we reserve the right to report such person to the proper authorities along with all information provided to us by or with respect to such person.    
 
-Although this Site is primarily for informational purposes, we may ask you to provide us with your name, email address or other information that could be used to identify you personally.  For example, we may collect this information in the event that you register as a member of this Site, post a comment, sign-up to receive email communications, or submit demographic information as part of a survey.
 
-We receive and store any information you enter on our Site or give us in any other way, including through email, telephone, or other communications. If you contact us for support, we will keep an internal record of our communication with you.
+Disclosures Made as Necessitated by Law or Safety   
 
-We may use your information to contact you regarding the information and services available on our Site, functionality changes to our Site, and special offers we think you'll find valuable. If you would rather not receive this information, please see the "Updating Your Information" section below on how to change your preferences.
 
-We may also use your information to present a co-branded offer with our partners or affiliates. If we collect information from you in connection with a co-branded offer, it will be clear at the point of collection who is collecting the information and whose privacy statement applies.
+Your name, physical address, phone number and password are considered confidential. However, all information you provide to us may be shared with other third parties as necessary to comply with applicable law, to cooperate with law enforcement and the court system.   
 
-We use information gathered about you from our Site statistics (for example, your IP address) to help diagnose problems with our server, and to administer our Site. We also gather broad demographic information from this data to help us improve our Site and make your browsing and purchasing experience more enjoyable. This is not linked to any personally identifiable information, except as necessary to prevent fraud or abuse on our system.
 
-Our Site uses cookies to enhance your experience with our Site.  Cookies are data files that are placed in your browser to keep track of your personal preferences and to facilitate easy navigation through our Site.  We use cookies to identify you so you don't need to log in each time you visit our Site.  You may opt-out of the use of cookies by altering settings on your browser.  Please note, however, that some areas of the Site will be easier to navigate with the use of cookies..
+Information Collected From You   
 
-This Site also contains links to other websites. Unfortunately, we are not responsible for the privacy practices or the content of such sites.
 
-**Security**
+During sign up we require that you provide certain information which may include Account Data (i.e., your name, physical address, email address, phone number, username, and password), Financial Data (i.e., credit card/billing information) along with "Demographic Information". Demographic Information may include IP address(es), referring website information, Internet browser used, zip code and/or other data regarding search history, browsing history, registration and user history.    
 
-This Site has security measures in place to protect against the loss, misuse or alteration of the information under our control.
 
-**Updating Your Information**
+How is this Information Used?   
 
-You may alter your account information or opt out of receiving communications from us and our partners at any time. We have the following options for changing and modifying your account information or contact preferences.
 
-        i.      You may send an email to [support@godaddy.com ](mailto:support@godaddy.com)
+We do not collect or store any Financial Data, which is collected by our third-party payment processors. Financial Data will only be used by third party processors as necessary to initiate and complete any orders placed by your account.
 
-       ii.      You may send mail to Go Daddy at the following postal address:   
-               14455 North Hayden Road, Suite 219, Scottsdale, AZ. 85260 USA
+We may use "cookies" and Demographic Information to better your experience on the Site by allowing us to tailor your experience on the Sites according to your preferences and what we think may appeal to you based on such Demographic Information. Aggregate, non-individual membership Demographic Information may be shared with third parties with whom we have a direct or indirect relationship who may offer products or services we believe you may be interested in. 
 
-      iii.      You may call us at: (480) 505-8800
+We may also share the aggregate Demographic Information with third parties for the purposes of analyzing usage data, maintaining servers and other purposes relating to maintaining and improving our service and the Sites.   
 
-       iv.      You may fax us at: (480) 505-8844
 
-**Sending Emails**
+You Are Responsible For Information You Provide to Third Parties   
 
-We use emails to communicate with you and to send information that you have requested.  We also provide email links to allow you to contact us directly. We strive to promptly reply to your messages.
 
-The information you send to us may be stored and used to improve this Site and our products, or it may be reviewed and discarded.
+Credit card transactions are processed via industry standard encryption through third party processors, which processors only use your information for that purpose. Financial Data is considered private information and will not be shared with us or with third parties except with your authorization and as necessary to carry out orders placed by you with the understanding by you that such transaction(s) may be subject to the rules and policies of such third party. Financial or other Data provided by you to any companies or websites advertising on the Sites or in response to emails sent to you by the Sites are not governed by this Privacy Policy. Any information provided by you to a third party, and any transaction with such a third party, is subject to that third party's terms and conditions and privacy policy.    
 
-**Compliance with Laws and Law Enforcement**
 
-We cooperate with government and law enforcement officials and private parties to enforce and comply with the law. We will disclose any information about you to government or law enforcement officials or private parties as we, in our sole discretion, believe necessary or appropriate to respond to claims and legal process (including without limitation subpoenas), to protect our property and rights or the property and rights of a third party, to protect the safety of the public or any person, or to prevent or stop activity we consider to be illegal or unethical. We will also share your information to the extent necessary to comply with ICANN's rules, regulations and policies.
+Emails From Us and use of Your Email Address   
 
-**Third Party Service Providers**
 
-We may at times provide information about you to third parties to provide various services on our behalf, such as serving advertisements, conducting contests or surveys, performing analyses of our user demographics, shipping of goods or services, and user relationship management. We will only share information about you that is necessary for the third party to provide the requested service. These companies are prohibited from retaining, sharing, storing or using your personally identifiable information for any secondary purposes.
+Your email address will be used by us to contact you when we have special offers or other information to provide you. Such information may include, without limitation, new services offered by us, information relating to your account and other information related to your subscription to the Sites. We may send you emails prior to and after you have terminated your membership to our service until such time as you advise us, in accordance with the procedures explained below, that you no longer wish to receive email from us and/or from third parties with whom we have a direct or indirect relationship. We may share your email address with other third parties, with whom we have a direct or indirect relationship with, for the purposes of sending you special advertisements or promotions. If at any time you no longer wish to receive emails from us or from such third parties please visit _<http://unsub.emailprovide.com/Unsub.do>_ , or you may send us an email at [_support@rknethelp.com_](mailto:support@rknethelp.com). We and our advertising partners fully comply with the federal CAN-SPAM Act and as such all emails from us and our advertising partners will always, among other required disclosures, have a place for you to opt out of receipt of further email correspondence. Please note we will never send you an email directly or through our marketing partners without your consent. **Please immediately report any emails you may receive, without your prior authorization, that purport to promote the Sites.**   
 
-In the event that we use third party advertising companies to serve ads on our behalf, these companies may employ cookies and action tags (also known as single pixel gift or web beacons) to measure advertising effectiveness. Any information that these third parties collect via cookies and action tags is completely anonymous. If you would like more information about this practice and your choices, click [here. ](http://www.networkadvertising.org/managing/opt_out.asp)
 
-**Supplementation of Information**
+Advertisements   
 
-In order to provide certain services to you, we may on occasion supplement the personal information you submit to us with information from third party sources ( _e.g.,_ information from our strategic partners, service providers, or the United States Postal Service).  We do this to enhance our ability to serve you, to tailor our products and services to you, and to offer you opportunities to purchase products or services that we believe may be of interest to you.
 
-**Contests/Surveys**
+We utilize the services of outside advertising agencies to advertise our services and goods and/or services offered by third parties. Either we or our advertising agencies may use cookies and/or "action tags" to measure advertising effectiveness on an "anonymous basis". Some emails from us may contain advertisements from companies unrelated to the Sites. Should you elect to visit any such advertiser's website, we cannot, and do not, make any representations about applicable terms and conditions or privacy policies for such advertisers' websites. If you choose to make any purchases on such sites or accept any offers from such companies, we may provide your information, including Account Data, to the advertiser as necessary to your request. Finally, we cannot, and do not, make any representations about the privacy policies or terms and conditions of advertisements appearing anywhere on our service, whether through our website or emails, this is regardless of whether or not there may be any mentions of or references to any or all of the Sites on such advertisers' website(s).    
 
-From time-to-time, we may provide you with the opportunity to participate in contests or surveys. If you choose to participate, we may request certain personally identifiable information from you. Participation in these contests or surveys is completely voluntary and you therefore have a choice whether or not to disclose the requested information. The requested information typically includes contact information (such as name and address), and demographic information (such as zip code and age level - note that you must be 18 or above to enter). We use this information to notify contest winners and award prizes, to monitor Site traffic, and to personalize our Site.
 
-We may use a third party service provider to conduct these surveys or contests. When we do, that company will be prohibited from using our users' personally identifiable information for any other purpose. We will not share the personally identifiable information you provide through a contest or survey with other third parties unless we give you prior notice and choice.
+Changes to the Privacy Policy   
 
-**Tell-A-Friend**
 
-If a user elects to use our referral service to inform a friend about our Site, we ask the user for the friend's name and email address. Go Daddy will automatically send the friend a one-time email inviting them to visit our Site. Go Daddy stores this information for the sole purpose of sending this one-time email. The friend may contact Go Daddy at [support@godaddy.com ](mailto:support@godaddy.com)to request the removal of this information from our database.
+We may change this privacy policy at any time. You agree that we are under no duty to send you notice of such changes. Instead it is your responsibility to check this Privacy Policy from time to time. No change in the privacy policy will be effective until thirty (30) days after it is posted, unless the privacy policy has clear language indicating otherwise.   
 
-**What Happens to my Personal Information if I Opt Out?**
 
-If you advise us that you wish to opt out of receiving further communications from us, we will place your personally identifiable information in "deactivated" status on our relevant databases. However, you should know that placement of your information in "deactivated" status does not mean your personally identifiable information has been deleted from our database entirely. We will retain and use your personally identifiable information as necessary in order to comply with our legal obligations, resolve disputes, or enforce our agreements.
+Changes in the Ownership of the Sites   
 
-**Transfer of Data Abroad**
 
-If you are visiting this Site from a country other than the country in which our servers are located, your communications with us may result in the transfer of information across international boundaries.  By visiting this Site and communicating electronically with us, you consent to such transfers.
-
-**Changes in Our Practices**
-
-We reserve the right to modify this Privacy Policy at any time. If we decide to change our Privacy Policy, we will post those changes to this Privacy Policy and any other places we deem appropriate, so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it.
-
-If we make material changes to this Policy, we will notify you here, by email, or by means of a notice on our home page, at least thirty (30) days prior to the implementation of the changes.
-
-**Contacting Our Site**
-
-If you have any questions about our Privacy Policy, the practices of this Site, or your dealings with this Site, please contact us at:
+The Sites are a growing online service. As such, we may have the occasion to buy or sell assets, including but not limited to merger, dissolution, and transfer of ownership. Depending upon the nature of the transaction, we may share any and all data provided by you to us (including Account Information) with third parties, as necessary to initiate, investigate or complete any such transaction(s).
 
 * * *
 
-Go Daddy   
-ATTN: Web Team   
-14455 North Hayden Rd.   
-Suite 219   
-Scottsdale, AZ, 85260, U.S.A.
+The RK Net Help support center is here to help you with any problems you may have from billing to technical issues or password recovery. We know that when it comes to [iPhone porn](http://mobile.bigtits.com/) and [mobile porn](http://mobile.madthumbs.com/), there can be streaming snags, but that's why the RK Net Help support center is here to make sure you have the smoothest and best [porn](http://www.madthumbs.com/) experience possible. We want you to get back to enjoying [boobs](http://www.bigtits.com/) as soon as possible, so let us handle all your problems, and you sit back and enjoy. 
