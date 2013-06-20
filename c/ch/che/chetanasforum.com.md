@@ -1,6 +1,10 @@
-> *The following text is extracted and transformed from the chetanasforum.com privacy policy that was archived on 2012-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121218110854id_/http%3A//www.chetanasforum.com/index.php%3Fshowtopic%3D18709) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chetanasforum.com privacy policy that was archived on 2013-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130620214855id_/http%3A//www.chetanasforum.com/index.php%3Fshowtopic%3D18709) for the most accurate reproduction.*
 
-# ChetanaS - Privacy Policy... - ChetanaSforum
+# ChetanaS - Privacy Policy... - Rules & Regulations - ChetanaSforum
+
+###  [ #1  ](http://www.chetanasforum.com/index.php?showtopic=18709#entry34139 "ChetanaS - Privacy Policy...: post #1")
+
+Posted 03 March 2008 - 06:33 PM
 
 **ChetanaS - Privacy Policy**
 
@@ -28,12 +32,12 @@ You can choose to disable or selectively turn off our cookies or third-party coo
 
 \- Google, as a third party vendor, uses cookies to serve ads on our website.  
 \- Google's use of the DART cookie enables it to serve ads to our users based on their visit to our sites and other sites on the Internet.  
-\- Users may opt out of the use of the DART cookie by visiting the [Google Ad and Content Network Privacy Policy](http://www.google.com/privacy_ads.html).   
-\- You can [Check Here](http://www.doubleclick.com/privacy/faq.aspx) to know more details about DoubleClick DART Cookie.
+\- Users may opt out of the use of the DART cookie by visiting the [Google Ad and Content Network Privacy Policy](http://www.google.com/privacy_ads.html "External link").   
+\- You can [Check Here](http://www.doubleclick.com/privacy/faq.aspx "External link") to know more details about DoubleClick DART Cookie.
 
  **Third Party Advertisements**
 
-To try and bring you offers that are of interest to you, we have relationships with few third-party companies that we allow to place ads in our web pages. As a result of your visit to our site, third-party ad serving companies (such as Google's AdSense) may collect information such as your domain type, your IP address and clickstream information. It could also access and set cookies in your browser, use web beacons as mentioned above. For further information, please consult the Privacy Policy of respective ad serving companies. (For example, [Privacy Policy of Google (Adsense)](http://www.google.com/privacy.html))
+To try and bring you offers that are of interest to you, we have relationships with few third-party companies that we allow to place ads in our web pages. As a result of your visit to our site, third-party ad serving companies (such as Google's AdSense) may collect information such as your domain type, your IP address and clickstream information. It could also access and set cookies in your browser, use web beacons as mentioned above. For further information, please consult the Privacy Policy of respective ad serving companies. (For example, [Privacy Policy of Google (Adsense)](http://www.google.com/privacy.html "External link"))
 
  **Contact us for more info**
 
@@ -42,3 +46,40 @@ If you have any privacy related issues, you may contact the administrator of thi
  **Privacy Policy - subject to change**
 
 If our information practices change at some time in the future, we will post the policy changes at our Web site to notify you of these changes. If you are concerned about how your information is used, you should check back at our Web site periodically or directly [Contact Us](http://www.chetanasforum.com/index.php?&autocom=contactform) for any clarifications. 
+
+  
+
+
+**VERY IMPORTANT MESSAGE FROM CHETANA ****
+
+[ **CLICK HERE TO REGISTER**](http://www.chetanasforum.com/index.php?act=Reg&CODE=00) in this forum to get the best **Career Guidance & Latest Job Updates** directly into your mailbox. Registration is simple & hardly takes 1 minute. **5,00,000** people are already part of this **ChetanaS** job revolution.
+
+\-------------------------------------------------------------------------  
+Best Wishes...ChetanaS  
+\-------------------------------------------------------------------------
+
+[www.facebook.com/ChetanaSforum](http://www.facebook.com/ChetanaSforum)
+
+\- LIKE our FaceBook Page to get job updates
+
+[www.JavaKen.com](http://www.javaken.com/)
+
+\- JAVA / J2EE Jobs, Walk-In & FAQ
+
+[www.TestingKen.com](http://www.testingken.com/)
+
+\- TESTING Jobs, Walk-In & FAQ
+
+[www.ChetanaSinterview.com](http://www.chetanasinterview.com/)
+
+\- 6000 Latest Placement Papers
+
+[www.ChetanaSforum.com](http://www.chetanasforum.com/)
+
+\- Jobs & Career Guidance
+
+[www.ChetanaS.com](http://www.chetanas.com/)
+
+\- Latest Jobs for Freshers & Experienced  
+\------------------------------------------------------------------------- 
+  *[03 March 2008 - 06:33 PM]: 2008-03-03T13:03:45+00:00
