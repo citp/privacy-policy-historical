@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the getpaidtotry.com privacy policy that was archived on 2012-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120618234219id_/http%3A//www.getpaidtotry.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the getpaidtotry.com privacy policy that was archived on 2013-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130620165644id_/http%3A//www.getpaidtotry.com/privacy.php) for the most accurate reproduction.*
 
 # Paid Surveys | Paid Online Surveys | Get Paid To Take Surveys | Try Products - GetPaidToTry
 
@@ -40,17 +40,26 @@ Web pages may contain electronic images (called a "single-pixel GIF" or "web bea
 
 Since the use of new technology including cookies, web beacons, and other technology is rapidly evolving, as is our use of new and evolving technology, we may change or use additional or new technology from time to time. You are encouraged to visit this page for any updates or sign up for the automatic email notification of Privacy Policy changes as described herein.
 
+**Use of Data Collected**
+
+We use your personal, demographic and profile data to enhance your experience at our site and to enable us to present content we think you might be interested in. We use your contact information to send you information about our company and promotional material from our partners. We may also use your personal, demographic and profile data to improve our site, for statistical analysis, for marketing and promotional purposes, and for editorial or feedback purposes for our advertisers. Information collected by us may be added to our databases and used for future telemarketing, SMS text-messaging, e-mails or postal mailings regarding site updates, new products and services, upcoming events, and/or status of orders placed online. By using this site, you agree that you may be contacted in any manner contemplated in this section even if your number is found on a do not call registry, in-house list or similar registry.
+
+**Text messages**
+
+By accepting the terms and conditions of this Site and providing your cell phone number, you are expressly consenting to receive SMS, wireless or other mobile offering to your cell phone from us and other organizations. You understand that your wireless carrier's standard charges and rates apply to these messages. For SMS text messages, you may remove your information by replying "STOP", "END", or "QUIT" to the SMS text message you have received and we will remove your personal information within 10 days of receiving such request.
+
 **No Information Collected from Minors:**
 
 MINORS UNDER THE AGE OF 18 SHOULD NOT PROVIDE ANY PII AND/OR OTHER INFORMATION, INCLUDING THEIR EMAIL ADDRESS, TO GetPaidToTry.com. GetPaidToTry.com ALSO DOES NOT KNOWIINGLY ACCEPT PII AND/OR OTHER DATA FROM ANY USERS OF ITS WEBSITES AND/OR ANY THIRD PARTIES.
 
 **Sharing of Information:**
 
-We may sell, transfer, or share any information that is collected by or provided to us at any time in our sole discretion.
+To send emails, the email address you provide for membership may be used to send you information and updates pertaining to your membership, in addition to receiving occasional company news, updates, promotions, related product or service information, etc. All emails you receive from GetPaidToTry.com will come from GetPaidToTry.com, so you may easily distinguish our emails. We will never sell your email address to third party email marketing companies. Your email will be shared with All Inbox, LLC,  The mailing partner of GetPaidToTry.com. Note: If at any time you would like to unsubscribe from receiving future emails, we include detailed unsubscribe instructions at the bottom of each email.  We reserve the right to sell, transfer, or share any other information that is collected by or provided to us at any time in our sole discretion.  
+
 
 **How to Unsubscribe:**
 
-If you wish to unsubscribe from a particular offer, you will need to follow the instructions that are at the end of each email message. If you wish to unsubscribe from all of our offers, you must visit and follow the instructions provided at [http:// GetPaidToTry.com.com/unsubscribe.php](http://%20getpaidtotry.com.com/unsubscribe.php)
+If you wish to unsubscribe from a particular offer, you will need to follow the instructions that are at the end of each email message. If you wish to unsubscribe from all of our offers, you must visit and follow the instructions provided at [http://GetPaidToTry.com.com/unsubscribe.php](http://getpaidtotry.com.com/unsubscribe.php)
 
 **Practices of Third Parties:**
 
@@ -68,6 +77,6 @@ Effective Date: August 31, 2010
 
 If you have questions about this Privacy Policy, please contact us at: [privacy@GetPaidToTry.com](mailto:privacy@GetPaidToTry.com) or:
 
-2966 Ave U  
-Suite 149 Brooklyn NY 11229  
+2920 Ave R Suite 146  
+Brooklyn NY 11229  
 
