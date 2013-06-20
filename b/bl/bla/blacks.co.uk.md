@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the blacks.co.uk privacy policy that was archived on 2012-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121204040923id_/http%3A//www.blacks.co.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the blacks.co.uk privacy policy that was archived on 2013-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130621005630id_/http%3A//www.blacks.co.uk/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -6,7 +6,7 @@
 
 Blacks Outdoor Retail Limited ("Blacks", "we", "us" or "our") respects the privacy of all individuals who use our site www.blacks.co.uk ("Website"). This privacy policy, together with our Terms of Website Use, Supply Terms and any other documents referred to in them, explains what information we gather from you, how we use it and how you may control our use of your personal information. Please read the following carefully to understand our views and practices regarding your personal data and how we will treat it.
 
-For the purposes of the Data Protection Act 1998 (the "Act"), the data controller is Blacks Outdoor Retail Limited of 440-450 Cob Drive, Swan Valley, Northampton, NN4 9BB, registered in England and Wales with company number 7795258. 
+For the purposes of the Data Protection Act 1998 (the "Act"), the data controller is Blacks Outdoor Retail Limited of Hollinsbrook Way, Pilsworth, Bury, BL9 8RR, registered in England and Wales with company number 7795258.
 
 ## 1\. Information we may collect from you
 
@@ -50,13 +50,13 @@ For example, we may use an outside carrier company to deliver orders, and a cred
   * **2.1.12** We may disclose your personal information to third parties:  
 **2.1.12.1** in the event that we sell of buy any business or assets, in which case we may disclose your personal data to the prospective seller or buyer of such business or assets;  
 
- **2.1.12.2** if the Outdoor Group Limited or substantially all of its assets are acquired by a third party, in which case personal data held by it about its customers will be one of the transferred assets; and  
-**2.1.12.3** You should be aware that if we are requested to comply with any legal obligation, or in order to enforce or apply our Terms of Website Use or Supply Terms and other agreements, or to protect the rights, property or safety of The Outdoor Group, our customers or others to provide your personal information and/or user information, we are entitled to do so. This includes exchanging information with other companies and organisations for the purposes of fraud prevention and credit risk reduction. 
+ **2.1.12.2** if Blacks Outdoor Retail Limited or substantially all of its assets are acquired by a third party, in which case personal data held by it about its customers will be one of the transferred assets; and  
+**2.1.12.3** You should be aware that if we are requested to comply with any legal obligation, or in order to enforce or apply our Terms of Website Use or Supply Terms and other agreements, or to protect the rights, property or safety of Blacks Outdoor Retail Limited, our customers or others to provide your personal information and/or user information, we are entitled to do so. This includes exchanging information with other companies and organisations for the purposes of fraud prevention and credit risk reduction. 
 
 
 **2.2** Correcting/updating personal information
 
-If your personal information changes (such as your post code), or if you no longer desire our services, we will endeavour to provide a way to correct, update or remove your personal data provided to us. This can easily be done by emailing Customer Services at [customerservice@blacks.co.uk](mailto:customerservice@blacks.co.uk)
+If your personal information changes (such as your post code), or if you no longer desire our services, we will endeavour to provide a way to correct, update or remove your personal data provided to us. This can easily be done by emailing Customer Services at [customercare@blacks.co.uk](mailto:customercare@blacks.co.uk)
 
 **2.3** Third parties who may use the information
 
@@ -66,7 +66,7 @@ We may also use your data or permit selected third parties to use your data to p
 
 **2.4** Your consent
 
-By placing an order online, over the telephone or during the registration process you will be giving us your consent to contact you to offer promotional goods and services. You have the right to ask us not to process your personal data for marketing purposes. We will usually inform you (before collecting your data) if we intend to use your data for such purposes or if we intend to disclose your information to any third party for such purposes. You can exercise your right to prevent such processing, or to opt-out of receiving regular communications from us by checking certain boxes on the forms we use to collect your data or by emailing us at unsubscribe@blacks.co.uk. If you withdraw your consent to use of your personal information we will stop such use as soon as reasonably practicable. 
+By placing an order online, over the telephone or during the registration process you will be giving us your consent to contact you to offer promotional goods and services. You have the right to ask us not to process your personal data for marketing purposes. We will usually inform you (before collecting your data) if we intend to use your data for such purposes or if we intend to disclose your information to any third party for such purposes. You can exercise your right to prevent such processing, or to opt-out of receiving regular communications from us by checking certain boxes on the forms we use to collect your data. If you withdraw your consent to use of your personal information we will stop such use as soon as reasonably practicable. 
 
 ## **3\. Security**
 
@@ -93,14 +93,14 @@ customer account password used to access our Website. We do not have access to y
 ## 4\. Contact
 
 If you have any questions, comments or requests regarding this policy please contact the Customer Service Department at:  
-[customerservice@blacks.co.uk.](mailto:customerservice@blacks.co.uk) You can also write to us at:
+[customercare@blacks.co.uk.](mailto:customercare@blacks.co.uk) You can also write to us at:
 
 Blacks Customer Service Department,  
 Blacks Outdoor Retail Limited  
-440-450 Cob Drive  
-Swan Valley  
-Northampton  
-NN4 9BB 
+Hollinsbrook Way  
+Pilsworth  
+Bury  
+BL9 8RR 
 
 ## 5\. Third party websites
 
