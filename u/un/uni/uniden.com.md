@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the uniden.com privacy policy that was archived on 2012-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121219131328id_/http%3A//www.uniden.com/privacy-policy/page/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the uniden.com privacy policy that was archived on 2013-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130620203443id_/http%3A//www.uniden.com/privacy-policy/page/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - B2C Static Page at Uniden
 
