@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the ratecity.com.au privacy policy that was archived on 2012-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121217035234id_/http%3A//www.ratecity.com.au/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ratecity.com.au privacy policy that was archived on 2013-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130620165935id_/https%3A//www.ratecity.com.au/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Compare Credit Cards, Home Loans, Car Insurance, Savings Accounts and Personal Loans | RateCity.com.au
+# Privacy Policy | Compare Credit Cards, Home Loans, Car Insurance, Savings Accounts and Personal Loans | RateCity
 
-_ Last updated: 31 May 2012 _
+_ Last updated: 06 Jun 2013 _
 
 ### Introduction
 
@@ -24,15 +24,26 @@ The data entered by you may include your name, postal or email address, date of 
 
 ### Using and Disclosing Personal Information
 
-RateCity may disclose your personal information in certain circumstances to third party organisations whose products you may be interested in or require. These organisations may include banks, building societies, brokers, health insurance funds, life companies, managed fund and superannuation organisations, dealer groups, general insurers/car insurers, financial advisers and planners and their service providers. 
+RateCity uses your personal information to: 
 
-Where your personal information is disclosed, the information will be held, used or disclosed consistently with privacy policy of the third party recipient.
+  * respond to your requests;
+  * provide you with information about our products, services and information that we think may be of interest to you, if you request us to do so;
+  * provide products and services to you;
+  * deal with complaints or issues you may have in relation to our services;
+  * review your dealings with us, including the products and services you use, your potential needs, and new products that might be of interest to you or other customers;
+  * ensure our internal business operations are running smoothly which may include fulfilling legal requirements and conducting confidential systems maintenance and testing.
 
-If you a quote for health insurance via the RateCity website, a wide range of personal information will be required in order to produce the quote requested. If you wish to apply for health insurance via the RateCity website, both your personal information and credit card details will be required in order for your application to be lodged with the health insurer. Your credit card details will [be transferred directly to the health insurance provider you have selected via a secure payment gateway. Your credit card details will not be retained by RateCity after they have been submitted to the health fund.]
 
-Your personal information may also be disclosed to in relation to maintaining, reviewing and developing our business systems, procedures and infrastructure including testing or upgrading our computer systems as required or authorised by law, for example, to government or regulatory bodies for purposes related to public health or safety, the prevention or detection of unlawful activities or to protect public revenue.
 
-We will never share your personal information with a third party or allow a third party to promote its products and services directly to you without your explicit consent.
+RateCity may disclose your personal information in certain circumstances to third party organisations whose products you may be interested in or require. These organisations may include banks, building societies, health insurance funds, life companies, managed fund and superannuation organisations, dealer groups, general insurers/car insurers, financial advisers and planners and their service providers. 
+
+Where your personal information is disclosed, the information will be held, used or disclosed consistently with privacy policy of the third party recipient. 
+
+If you request a quote for health insurance via the RateCity website, a wide range of personal information will be required in order to produce the quote requested. If you wish to apply for health insurance via the RateCity website, both your personal information and credit card details will be required in order for your application to be lodged with the health insurer. Your credit card details will be transferred directly to the health insurance provider you have selected via a secure payment gateway. Your credit card details will not be retained by RateCity after they have been submitted to the health fund. 
+
+Your personal information may also be disclosed to in relation to maintaining, reviewing and developing our business systems, procedures and infrastructure including testing or upgrading our computer systems as required or authorised by law, for example, to government or regulatory bodies for purposes related to public health or safety, the prevention or detection of unlawful activities or to protect public revenue. 
+
+We will never share your personal information with a third party or allow a third party to promote its products and services directly to you without your explicit consent. 
 
 ### Consumer Calculators Available on RateCity
 
@@ -67,7 +78,7 @@ We may use independent companies to measure and analyse Internet usage across th
 
 This aggregate, non-personal information is collated and provided to us to assist in analysing usage of the website. This data may be used from time to time for research purposes to provide media with insights on trends in financial behaviour. The data is also accessible by media organisations and research companies for the purpose of conducting industry comparisons with other Internet sites. 
 
-Pages on the website may be coded with tracking software. This is transparent to the user, as the software makes use of an invisible image (via Javascript) or an invisible Java Applet, at the bottom of the web page. This software stores a cookie in your browser, which contains a unique identifier. This enables the ability to track the number of unique visitors to the website. In no way does this unique identifier identify a user personally. We do not and will not marry any data collected by independent tracking software with any personal information collected on the website.
+Pages on the website may be coded with tracking software. This is transparent to the user, as the software makes use of an invisible image, JavasScript, or an invisible Java Applet, on the web page. This software stores a cookie in your browser, which contains a unique identifier. This enables the ability to track the number of unique visitors to the website.
 
 ### Advertisements
 
