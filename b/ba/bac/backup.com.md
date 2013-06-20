@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the backup.com privacy policy that was archived on 2012-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121226192021id_/http%3A//www.symantec.com/about/profile/policies/privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the backup.com privacy policy that was archived on 2013-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130620141246id_/http%3A//www.symantec.com/about/profile/policies/privacy.jsp) for the most accurate reproduction.*
 
 # Complete Privacy Policy | Symantec
 
@@ -149,7 +149,7 @@ If you have registered your product and created a Norton Account, we will match 
 
 
 
-**Strictly Necessary Cookies**
+ **Strictly Necessary Cookies**
 
   * ASP.NET_SessionId
   * CartGuid
@@ -170,7 +170,7 @@ If you have registered your product and created a Norton Account, we will match 
 
 
 
-**Performance Cookies (First Party)**
+ **Performance Cookies (First Party)**
 
   * _g_c
   * _g_u
@@ -201,7 +201,7 @@ If you have registered your product and created a Norton Account, we will match 
 
 
 
-**Performance Cookies (Third Party)**
+ **Performance Cookies (Third Party)**
 
 **Host** | **Cookie**  
 ---|---  
@@ -227,7 +227,7 @@ tubemogul.com | _tmid
 
 
 
-**Functionality Cookies (First Party)**
+ **Functionality Cookies (First Party)**
 
   * filter_state_
   * IS3_GSV
@@ -238,7 +238,7 @@ tubemogul.com | _tmid
 
 
 
-**Functionality Cookies (Third Party)**
+ **Functionality Cookies (Third Party)**
 
 **Host** | **Cookie**  
 ---|---  
@@ -257,13 +257,13 @@ Sales.liveperson.net | LivePersonID
 
 
 
-**Targeting Cookies (First Party)**
+ **Targeting Cookies (First Party)**
 
-  * _mkto_ _trk
+  *  _mkto_ _trk
 
 
 
-**Targeting Cookies (Third Party)**
+ **Targeting Cookies (Third Party)**
 
 **Host** | **Cookie**  
 ---|---  
@@ -286,7 +286,7 @@ com-verisign.netmng.com | evo5_VERISIGN
 
 
 
-**Performance Cookies (First Party)**
+ **Performance Cookies (First Party)**
 
   * campaign
   * mlc
@@ -296,7 +296,7 @@ com-verisign.netmng.com | evo5_VERISIGN
 
 
 
-**Performance Cookies (Third Party)**
+ **Performance Cookies (Third Party)**
 
 **Host** | **Cookie**  
 ---|---  
@@ -312,7 +312,7 @@ sales.liveperson.net | HumanClickSiteContainerID_1573289
 
 
 
-**Functionality Cookies (First Party)**
+ **Functionality Cookies (First Party)**
 
   * culture
   * detected
@@ -320,7 +320,7 @@ sales.liveperson.net | HumanClickSiteContainerID_1573289
 
 
 
-**Functionality Cookies (Third Party)**
+ **Functionality Cookies (Third Party)**
 
 **Host** | **Cookie**  
 ---|---  
@@ -338,9 +338,9 @@ Sales.liveperson.net | LivePersonID
 
 
 
-**Targeting Cookies (First Party)**
+ **Targeting Cookies (First Party)**
 
-  * _mkto_ _trk
+  *  _mkto_ _trk
 
 
 
@@ -352,7 +352,7 @@ Sales.liveperson.net | LivePersonID
 
 
 
-**Strictly Necessary Cookies (First Party)**
+ **Strictly Necessary Cookies (First Party)**
 
   * ASP.NET_SessionId
 
@@ -371,7 +371,7 @@ Sales.liveperson.net | LivePersonID
 
 
 
-**Performance Cookies (First Party)**
+ **Performance Cookies (First Party)**
 
   * mbox
   * s_cc
@@ -384,7 +384,7 @@ Sales.liveperson.net | LivePersonID
 
 
 
-**Performance Cookies (Third Party)**
+ **Performance Cookies (Third Party)**
 
 **Host** | **Cookie**  
 ---|---  
@@ -401,7 +401,7 @@ tubemogul.com | _tmid
 
 
 
-**Functionality Cookies (First Party)**
+ **Functionality Cookies (First Party)**
 
   * BC_BANDWIDTH
   * sym090_bookmark
@@ -420,9 +420,9 @@ tubemogul.com | _tmid
 
 
 
-**Targeting Cookies (First Party)**
+ **Targeting Cookies (First Party)**
 
-  * _mkto_ _trk
+  *  _mkto_ _trk
 
 
 
@@ -439,7 +439,7 @@ tubemogul.com | _tmid
 
 
 
-**Strictly Necessary Cookies (First Party)**
+ **Strictly Necessary Cookies (First Party)**
 
   * JSESSIONID
   * BIGipServerpool_now-prd1.norton.com
@@ -461,7 +461,7 @@ We use Performance Cookies for the following purposes:
 
 
 
-**Performance Cookies (First Party)**
+ **Performance Cookies (First Party)**
 
   * TLID
   * es
@@ -472,7 +472,7 @@ We use Performance Cookies for the following purposes:
 
 
 
-**Performance Cookies (Third Party)**
+ **Performance Cookies (Third Party)**
 
 **Host** | **Cookie**  
 ---|---  
@@ -491,7 +491,7 @@ tubemogul.com | _tmid
 
 
 
-**Functionality Cookies (First Party)**
+ **Functionality Cookies (First Party)**
 
   * COUNTRY
   * LANGUAGE
@@ -500,7 +500,7 @@ tubemogul.com | _tmid
 
 
 
-**Functionality Cookies (Third Party)**
+ **Functionality Cookies (Third Party)**
 
   * None on this site.
 
@@ -525,7 +525,7 @@ tubemogul.com | _tmid
 
 
 
-**Strictly Necessary Cookies**
+ **Strictly Necessary Cookies**
 
   * ASP.NET_SessionID
   * BIGipServerbuy1_prd_SSL
@@ -556,7 +556,7 @@ tubemogul.com | _tmid
 
 
 
-**Performance Cookies**
+ **Performance Cookies**
 
   * event69
   * s_cc
@@ -583,7 +583,7 @@ tubemogul.com | _tmid
 
 
 
-**Available Opt-out**
+ **Available Opt-out**
 
 ### Functionality Cookies
 
