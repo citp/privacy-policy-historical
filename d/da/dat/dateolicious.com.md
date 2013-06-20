@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the dateolicious.com privacy policy that was archived on 2012-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121130232255id_/http%3A//dateolicious.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dateolicious.com privacy policy that was archived on 2013-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130620172641id_/http%3A//dateolicious.com/privacy.aspx) for the most accurate reproduction.*
 
 # Privacy Information
-
-[Edit Profile](http://dateolicious.com/member/editprofile.aspx) [New Users](http://dateolicious.com/new-users/1) [My City](http://dateolicious.com/member/mycity.aspx) [Search User](http://dateolicious.com/spu.aspx) [My Matches](http://dateolicious.com/member/compatible.aspx) [Top Rated](http://dateolicious.com/top-rated.aspx?q=all&page=1) |  |  |  |  |  [Dating Sites](http://dateolicious.com/dating-sites.aspx) |  [Quick Dates](http://dateolicious.com/member/quickdates.aspx) |  [Ice Breaker](http://dateolicious.com/member/icebreaker.aspx) |  [Chat!](http://dateolicious.com/member/chat.aspx) | 
 
 ##  Privacy Policy Agreement 
 
