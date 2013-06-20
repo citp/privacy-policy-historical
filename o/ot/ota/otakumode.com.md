@@ -1,78 +1,141 @@
-> *The following text is extracted and transformed from the otakumode.com privacy policy that was archived on 2012-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121213001658id_/http%3A//otakumode.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the otakumode.com privacy policy that was archived on 2013-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130621013242id_/http%3A//otakumode.com/privacy) for the most accurate reproduction.*
 
-# TokyoOtakuMode | Privacy Policy
+# Tokyo Otaku Mode β | Privacy Policy
 
-Tokyo Otaku Mode Inc. ("TOM") and its subsidiaries respect the privacy rights of our users and are committed to protecting the information collected through its online products, applications, websites and other services ("Services"). TOM has adopted this privacy policy ("Privacy Policy") to explain how TOM collects, stores and uses the information collected in connection with TOM’s Services. Should you have any questions relating to this Privacy Policy, please contact us at[](javascript:mail_to\("",""\)).
+This Privacy Policy is incorporated by reference into the Tokyo Otaku Mode Inc.[Terms of Use](https://web.archive.org/tos). The term “ **Company** ” “ **TOM** ,” “ **we** ,” and “ **us** ” includes Tokyo Otaku Mode Inc. and our affiliates and subsidiaries. The Privacy Policy explains how TOM may:
 
-PLEASE READ THIS PRIVACY POLICY CAREFULLY. BY ACCESSING OR USING ANY WEBSITE, SERVICE, GAME OR APPLICATION OFFERED BY TOM, YOU AGREE TO BE BOUND BY THE TERMS AND CONDITIONS DESCRIBED HEREIN AND ON OUR [TERMS OF USE](https://web.archive.org/tos). AND ANY TERMS AND AGREEMENTS INCORPORATED BY REFERENCE. IF YOU DO NOT AGREE TO ALL OF THESE TERMS, DO NOT ACCESS OR USE ANY SERVICES.
-
-TOM reserves the right to modify this Privacy Policy at reasonable times, so please review it frequently. Your continued use of Services will signify your acceptance of the changes to this Privacy Policy.
-
-## NON-PERSONAL DATA
-
-For purposes of this Privacy Policy, "non-personal data" means information that does not directly identify you. Additionally, non-personal data means "aggregate" and "de-personalized" information, which is data TOM collects about the use of TOM’s Services, from which any personally identifiable data has been removed. TOM may use tools or third party analytical software to automatically collect and use certain non-personal data that does not directly enable TOM to identify you. The types of non-personal data TOM may collect and use include, but are not limited to  
-
-
-  1. Device properties, including, but not limited to unique device identifier or other device identifier ("UDID").
-  2. Device software platform and firmware.
-  3. Mobile phone carrier.
-  4. Geographical data such as zip code, area code and location.
-  5. Game score and achievements.
-  6. Other non-personal data as reasonably required by TOM to enhance the Services and other TOM products and services.
+  * collect,
+  * use, and
+  * disclose
 
 
 
-TOM may use and disclose to TOM’s partners and contractors the collected non-personal data for purposes of analyzing usage of the Services, advertisement serving, managing and providing the Services and to further develop the Services and other TOM services and products.
+information we obtain through the “Service.”
 
-You recognize and agree that the analytics companies utilized by TOM may combine the information collected with other information they have independently collected from other services or products relating to your activities. These companies collect and use information under their own privacy policies.
+The “ **Service** ” means any website, mobile application, or Internet service under the control of TOM, whether partial or otherwise, in connection with providing an online platform for TOM's services.
 
-## PERSONAL INFORMATION
+“ **Personal Information** ” means information that alone or when in combination with other information may be used to readily identify, contact, or locate you, such as: name, address, email address, or phone number. We do not consider Personal Information to include information that has been anonymized so that it does not allow a third party to easily identify a specific individual.
 
-We define "personal information" as information enabling identification of a specific individual including your name, date of birth, address, phone number, etc. Further, it also includes the information enabling identification of an individual in combination with a plurality of other information.
+## THE SERVICE COLLECTS YOUR INFORMATION
 
-### PURPOSE OF USING PERSONAL INFORMATION
+We collect Personal Information when you:
 
-The personal information we have collected through Services provided by us will be used for the following purposes:
-
-  1. Personal authentication when you use Services and indication of your name etc. on each service screen.
-  2. Promotion of communication between users on each service.
-  3. Maintenance Services and transmission of important advices etc.
-  4. Charging you with the fee for fee-based services.
-  5. Execution of campaign, planning or questionnaire in Services and sending of a present etc.
-  6. Improvement of Services and use of information for developing new services.
-  7. Creation of statistical data within the scope where identification of any particular individual is not possible.
-  8. Marketing activities for the Services and our business partners.
-  9. Response to an enquiry received from you.
-  10. Any other matters as far as the purpose of usage has been publicized by us for provision of individual services and agreed by you.
+  * register to use the Service;
+  * log in with social networking credentials;
+  * use the Service;
+  * purchase items from the TOM Store; and
+  * communicate with us.
 
 
 
-### RESTRICTION IN USE OF PERSONAL INFORMATION
+We also collect information, such as anonymous usage statistics, by using cookies, server logs, and other similar technology as you use the Service.
 
-We will not handle personal information beyond the scope of the purposes of use without prior consent of the person him/herself. However, the following cases are exceptionally not applicable:
+ **Personal Information Collection.** You must register to use the Service. To register, you will need to provide Personal Information, such as your email address and pictures. You may also provide other optional information. When you purchase items from the TOM store, you will need to provide a billing and/or shipping address.
 
-  1. In accordance with laws and regulations.
-  2. If it is the case required for protecting a human life and body or the property but it is difficult to obtain consent of the person him/herself.
-  3. If it is the case particularly required for enhancing public health and fostering children soundly but it is difficult to obtain consent of the person him/herself.
-  4. If it is the case that any governmental organization, municipal pubic body or its entrusted party needs to cooperate in performing legally prescribed clerical works but consent of the person him/herself may cause an obstacle in execution of the relevant clerical works.
+ **Social Sign-On.** We collect Personal Information from the applicable social media websites when you use your social media credentials to log into the Service. For example, when you log in with your Facebook credentials, we may collect the Personal Information you have made publicly available in Facebook, such as your name and profile picture. We may also obtain other information with your permission, such as your friends list.
+
+ **Using the Service.** We collect information you post through the Service. For example, when you interact with other users by posting comments or joining forum on the Service, the Service will collect the information you provide in such submissions, including any Personal Information.
+
+ **Making Payments.** When you make payments through the Service, you may need to provide Personal Information to our third-party service providers, such as your credit card number. We do not share this information with any third parties other than to process payments. When you provide payment information, it is protected using secure socket layer technology (SSL) and tokenization so that only the payment processor stores credit card information. Please note that our payment processors' use of your personal information is governed by their own policies and procedures.
+
+ **Customer Support.** We may collect Personal Information through your communications with our customer-support team.
+
+ **Location Information from Your Mobile Device.** We may collect and store your location information if you enable your mobile device to send it to us. Collection of this information may improve the provision of the Service.
+
+ **Cookies, Automatic Data Collection, and Related Technologies.** The Service collect and store information that is generated automatically as you use it, including your preferences and anonymous usage statistics.
+
+When you visit the Service, we and our third-party service providers receive and record information on our server logs from your browser, including your IP address, and from cookies and similar technology. Cookies are small text files placed in visitors' computer browsers to store their preferences. Most browsers allow you to block and delete cookies. However, if you do that, the Service may not work properly
+
+By using the Service, you are authorizing us to gather, parse, and retain data related to the provision of the Service.
+
+## HOW COMPANY USES YOUR INFORMATION
+
+We use Personal Information to
+
+  * facilitate and improve our services; and
+  * communicate with you.
 
 
 
-## COLLECTION OF INFORMATION
+We may use aggregate information for any purpose, including for marketing purposes.
 
-We may collect mainly, including but not limited to, the following information concerning you in providing Services:
+ **Internal and Service-Related Usage.** We use information, including Personal Information, for internal and service-related purposes only and may provide it to third parties to allow us to facilitate the Service. We may use and retain any data we collect to provide and improve our services.
 
-  1. Personal information that can be obtained through services being operated on SNS such as Facebook.
-  2. Information obtained concerning use of Services.
-  3. Information obtained mechanically when there is an access to Services.
-  4. It may not be possible to delete information concerning you due to nature of the retained data even if its deletion is requested by you. In such a case, we will respond to your request by suspending use of the retained data.
+ **Communications.** We may send email to the email address you provide to us to verify your account and for informational and operational purposes, such as account management, customer service, or system maintenance.
+
+ **Purchase.** We send your purchases to the name and address (either e-mail or physical) you provide to us during the check-out process in the TOM store.
+
+ **Marketing.** We may use information, including Personal Information, to provide online advertising on the Service and to facilitate transmittal of information that may be useful, relevant, valuable or otherwise of interest to you.
+
+ **Aggregate Data.** We may anonymize and aggregate data collected through the Service and use it for any purpose.
+
+## COMPANY MAY DISCLOSE YOUR INFORMATION
+
+We may share your information:
+
+  * with our third-party service providers;
+  * to comply with legal obligations;
+  * to protect and defend our rights and property; and
+  * with your permission.
 
 
 
-## USE OF COOKIE
+We do not rent, sell, or share Personal Information about you with other people or nonaffiliated companies for their direct marketing purposes, unless we have your permission.
 
-We may use the Cookie in order for you to use the Services provided by us more conveniently.
+ **We Use Vendors and Service Providers.** We may share any information we receive with vendors and service providers retained in connection with the provision of the Service.
 
-While whether the Cookie is used or not can be changed in the setting of the browser you are using, there may be a possibility of normal use of the Services becoming impossible if use of the Cookie is declined.
+ **Displaying to Other Users.** The content you post to the Service may be displayed on the Service. Other users of the Service may be able to see some information about you, such as your SUKI!, following and followers. We are not responsible for privacy practices of the other users who will view and use the posted information.
 
-Last updated on April 14, 2012
+ **Social Networking and Other Websites.** The Service may allow you to share information, including Personal Information, with social networking websites, such as Facebook. We do not share your Personal Information with them unless you direct the Service to share it. Their use of the information will be governed by their privacy policies, and you may be able to modify your privacy settings on their websites.
+
+ **Search Engines.** Personal Information, such as your user name may also be accessible via search engines or similar services.
+
+ **Marketing.** We do not rent, sell, or share Personal Information about you with other people or nonaffiliated companies for their direct marketing purposes, unless we have your permission. We may allow access to other data collected by the Service to enable the delivery of online advertising on this website, or otherwise facilitate transmittal of information that may be useful, relevant, valuable or otherwise of interest to you.
+
+ **As Required By Law and Similar Disclosures.** We may access, preserve, and disclose your Personal Information, other account information, and content if we believe doing so is required or appropriate to: comply with law enforcement requests and legal process, such as a court order or subpoena; respond to your requests; or protect yours', ours' or others' rights, property, or safety.
+
+ **Merger, Sale, or Other Asset Transfers.** If we are involved in a merger, acquisition, financing due diligence, reorganization, bankruptcy, receivership, sale of company assets, or transition of service to another provider, your information may be sold or transferred as part of such a transaction as permitted by law and/or contract. We cannot control how such entities may use or disclose such information.
+
+We may also disclose your Personal Information with your permission.
+
+## SECURITY OF YOUR INFORMATION
+
+We take steps to ensure that your information is treated securely and in accordance with this Privacy Policy. Unfortunately, the Internet cannot be guaranteed to be 100% secure, and we cannot ensure or warrant the security of any information you provide to us. We do not accept liability for unintentional disclosure.
+
+By using the Service or providing Personal Information to us, you agree that we may communicate with you electronically regarding security, privacy, and administrative issues relating to your use of the Service. If we learn of a security system's breach, we may attempt to notify you electronically by posting a notice on the Service or sending an email to you. You may have a legal right to receive this notice in writing. To receive free written notice of a security breach (or to withdraw your consent from receiving electronic notice), please notify us at.
+
+## CHILDREN'S PRIVACY
+
+We do not knowingly collect information from children under 13 and we do not want it. We will take steps to delete it if we learn we have collected it.
+
+We do not knowingly collect, maintain, or use Personal Information from children under 13 years of age, and no part of the Service is directed to children under the age of 13. If you learn that your child has provided us with Personal Information without your consent, you may alert us at. If we learn that we have collected any Personal Information from children under 13, we will promptly take steps to delete such information and terminate the child's account.
+
+## INTERNATIONAL USERS
+
+By using the Service, you will transfer data to the United States.
+
+By choosing to visit the Service or otherwise provide information to us, you agree that any dispute over privacy or the terms contained in this Privacy Policy will be governed by the laws of the state of California and the adjudication of any disputes arising in connection with Company or the Service will be in accordance with the[ Terms of Use](https://web.archive.org/tos).
+
+If you are visiting from the European Union or other regions with laws governing data collection and use, please note that you are agreeing to the transfer of your information to the United States and processing globally. By providing your information you consent to any transfer and processing in accordance with this Policy.
+
+## UPDATE YOUR INFORMATION OR POSE A QUESTION OR SUGGESTION
+
+If you would like to update or correct any information that you have provided to us through your use of the Service or otherwise, or if you have suggestions for improving this Privacy Policy, please send an email to.
+
+## CHANGES TO OUR PRIVACY POLICY AND PRACTICES
+
+We may revise this Privacy Policy, so review it periodically.
+
+ **Posting of Revised Privacy Policy.** We will post any adjustments to the Privacy Policy on this web page, and the revised version will be effective when it is posted. If you are concerned about how your information is used, bookmark this page and read this Privacy Policy periodically.
+
+ **New Uses of Personal Information.** From time to time, we may desire to use Personal Information for uses not previously disclosed in our Privacy Policy. If our practices change regarding previously collected Personal Information in a way that would be materially less restrictive than stated in the version of this Privacy Policy in effect at the time we collected the information, we will make reasonable efforts to provide notice and obtain consent to any such uses as may be required by law.
+
+## Contact Information
+
+Tokyo Otaku Mode Inc.  
+1-25-12-801 Taito  
+Taito-ku  
+Tokyo 110-0016  
+Japan
+
+Last updated on March 23, 2013
