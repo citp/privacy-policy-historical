@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the creaturecomfortsblog.com privacy policy that was archived on 2012-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121230052620id_/http%3A//www.creaturecomfortsblog.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the creaturecomfortsblog.com privacy policy that was archived on 2013-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130620124330id_/http%3A//www.creaturecomfortsblog.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Creature Comforts - daily inspiration, style, diy projects + freebies
+# Privacy Policy | Creature ComfortsCreature Comforts
 
 Privacy Policy for **www.CreatureComfortsBlog.com**
 
@@ -16,4 +16,4 @@ We also use third party advertisements on **www.CreatureComfortsBlog.com** ** *
 
 You can choose to disable or selectively turn off our cookies or third-party cookies in your browser settings, or by managing preferences in programs such as Norton Internet Security. However, this can affect how you are able to interact with our site as well as other websites. This could include the inability to login to services or programs, such as logging into forums or accounts.
 
-AdSense Privacy Policy Provided by [JenSense](http://www.jensense.com/).
+AdSense Privacy Policy Provided by [JenSense](http://creaturecomfortsblog.com/ccwp/wp-content/uploads/2012/12/www.JenSense.com).
