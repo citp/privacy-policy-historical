@@ -1,6 +1,10 @@
-> *The following text is extracted and transformed from the skidzopedia.com privacy policy that was archived on 2012-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121126232744id_/http%3A//www.skidzopedia.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the skidzopedia.com privacy policy that was archived on 2013-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130620135246id_/http%3A//www.skidzopedia.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Skidzopedia
+
+[Home](http://www.skidzopedia.com/)  »  Privacy Policy
+
+## Privacy Policy
 
 **Skidzopedia.com** is committed to protecting your privacy. I only use the information I collect about you to process advertisements and to send you feeds via email, which is automated. Please read on for more details about our privacy policy.
 
