@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the degreeplus.net privacy policy that was archived on 2012-10-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121002235436id_/http%3A//degreeplus.net/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the degreeplus.net privacy policy that was archived on 2013-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130620090853id_/http%3A//degreeplus.net/privacy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy - DegreePlus.net
 
-This privacy policy was last updated on October 1st, 2009
+This privacy policy was last updated on February 22nd, 2013
 
 Degreeplus.net is committed to protecting your privacy when you visit our Website, so we want you to know what information we collect and how we use that information. We reserve the right to append or otherwise modify this Privacy Statement at any time, so please re-visit this page occasionally to check for updates.
 
@@ -32,7 +32,7 @@ Our website provides users the opportunity to request information from schools, 
   
 We use the information we automatically collect to help us better plan our Website to meet your Internet needs. Information you provide to us is used for marketing purposes, and may result in follow-up communications.
 
-DegreePlus.net may share personally identifiable information with third party businesses for the purpose of direct marketing, specifically email marketing. All third parties are bound by the CAN SPAM Act (s.877) of 2003, and are required to be in full compliance of all consumer opt-out rules and regulations.
+DegreePlus.net may share personally identifiable information with third party businesses for the purpose of direct marketing, telemarketing and specifically email marketing. All third parties are bound by the CAN SPAM Act (s.877) of 2003, and are required to be in full compliance of all consumer opt-out rules and regulations.
 
   
 The company respects the privacy of users visiting our sites and will abide by all applicable laws concerning the release of personal information. If you do not want to receive our e-mail marketing, please submit a request to have your e-mail address removed by clicking the "Unsubscribe" link in the email that brought you to our site.
