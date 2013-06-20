@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the easytobook.com privacy policy that was archived on 2012-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121210175319id_/http%3A//www.easytobook.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the easytobook.com privacy policy that was archived on 2013-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130620165228id_/http%3A//www.easytobook.com//privacy) for the most accurate reproduction.*
 
 # Privacy Policy - EasyToBook.com
 
@@ -37,4 +37,4 @@ After you have made your booking on our website, we send you an email to confirm
 To develop our booking service, we may send you after sales emails. If you do not appreciate such emails you can easily opt out by clicking on the Preferences link on the top of our Newsletter. You can alternatively send an email to support@ematters.nl to unsubscribe.  
 Should you have any questions or remarks about our privacy statement, please contact customercare@easytobook.com.
 
-[.](https://web.archive.org/faq/?amu=1 "Help and FAQ")
+[.](https://web.archive.org/%7Blang%7D/faq/?amu=1 "Help and FAQ")
