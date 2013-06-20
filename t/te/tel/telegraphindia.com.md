@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the telegraphindia.com privacy policy that was archived on 2012-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121103055138id_/http%3A//www.telegraphindia.com/section/others/privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the telegraphindia.com privacy policy that was archived on 2013-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130621012409id_/http%3A//www.telegraphindia.com/section/others/privacy.jsp) for the most accurate reproduction.*
 
 # Privacy Policy
 
