@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vectorcardservices.com privacy policy that was archived on 2012-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121011140644id_/http%3A//vectorcardservices.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vectorcardservices.com privacy policy that was archived on 2013-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130620021912id_/http%3A//vectorcardservices.com/privacy.html) for the most accurate reproduction.*
 
 # Vector Card Services
 
@@ -7,16 +7,14 @@ This Privacy Policy explains the privacy policies of Vector Card Services (Vecto
 
 We are committed to protecting your privacy and security while offering you our products and services.
 
-This disclosure explains what information we collect about you, and how we use, share and safeguard information in connection with the Prepaid MasterCard. 
+This disclosure explains what information we collect about you, and how we use, share and safeguard information in connection with any prepaid card product managed by Vector Card Services. 
 
   
 **DEFINITIONS**
 
 **We, our, and us,** means Vector Card Services. 
 
-**You, and your,** means consumers who have a prepaid card issued by Choice Bank Limited and provided by Vector Card Services. This Privacy Policy will apply to you if you are a current or former consumer who has a continuing relationship with us.
-
-**Issuing Bank,** means Choice Bank Limited. Your card is issued by Choice Bank Limited pursuant to a license from MasterCard International Incorporated.
+**You, and your,** means consumers who have a prepaid card issued by the issuing partner as displayed on the back of the card and provided by Vector Card Services. This Privacy Policy will apply to you if you are a current or former consumer who has a continuing relationship with us.
 
 **INFORMATION**
 
@@ -38,6 +36,4 @@ You can correct errors in your information either via the website or by contacti
 
 **We may change our Privacy Disclosure** from time to time. We will provide current customers with a revised disclosure posted on our website that describes the new practices as required by law. This policy replaces any other previous Privacy Policy about our consumer information sharing practices.
 
-Revised: 07/2012
-
-MasterCard is a registered trademark of MasterCard International Incorporated.
+Revised: 04/2013
