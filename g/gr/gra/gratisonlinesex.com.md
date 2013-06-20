@@ -1,8 +1,10 @@
-> *The following text is extracted and transformed from the gratisonlinesex.com privacy policy that was archived on 2012-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121219175111id_/http%3A//www.gratisonlinesex.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gratisonlinesex.com privacy policy that was archived on 2013-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130620221052id_/http%3A//www.gratisonlinesex.com/privacy-policy) for the most accurate reproduction.*
 
-# 100% Free webcam sex » Privacy Policy
+# Privacy Policy » 100% Free webcam sex » Free sex chat » Adult chat
 
-This Privacy Policy governs the manner in which Gratisonlinesex.com collects, uses, maintains and discloses information collected from users (each, a “User”) of the <http://www.gratisonlinesex.com/> website (“Site”). This privacy policy applies to the Site and all products and services offered by gratisonlinesex.com.
+### Privacy Policy
+
+This Privacy Policy governs the manner in which Gratisonlinesex.com collects, uses, maintains and discloses information collected from users (each, a “User”) of the http://*.gratisonlinesex.com/ website (“Site”). This privacy policy applies to the Site and all products and services offered by gratisonlinesex.com.
 
 **Personal identification information**
 
@@ -20,12 +22,10 @@ Our Site may use “cookies” to enhance User experience. User’s web browser 
 
 Gratisonlinesex.com may collect and use Users personal information for the following purposes:
 
-  * _\- To personalize user experience_  
-We may use information in the aggregate to understand how our Users as a group use the services and resources provided on our Site.
-  * _\- To improve our Site_  
+\- To personalize user experience  
+We may use information in the aggregate to understand how our Users as a group use the services and resources provided on our Site.  
+\- To improve our Site  
 We may use feedback you provide to improve our products and services.
-
-
 
 **How we protect your information**
 
@@ -45,12 +45,21 @@ Gratisonlinesex.com has the discretion to update this privacy policy at any time
 
 By using this Site, you signify your acceptance of this policy. If you do not agree to this policy, please do not use our Site. Your continued use of the Site following the posting of changes to this policy will be deemed your acceptance of those changes.
 
+**Cookie Information:**
+
+Cookie name | Default expiration time | Description  
+---|---|---  
+__utma | 2 years from set/update | Used to distinguish users and sessions. The cookie is created when the javascript library executes and no existing __utma cookies exists. The cookie is updated every time data is sent to Google Analytics.  
+__utmb  | 30 mins from set/update Used to determine new sessions/visits. | The cookie is created when the javascript library executes and no existing __utmb cookies exists. The cookie is updated every time data is sent to Google Analytics.   
+__utmc  | End of browser session Not used in ga.js. |  Set for interoperability with urchin.js. Historically, this cookie operated in conjunction with the __utmb cookie to determine whether the user was in a new session/visit.   
+__utmz | 6 months from set/update | Stores the traffic source or campaign that explains how the user reached your site. The cookie is created when the javascript library executes and is updated every time data is sent to Google Analytics.  
+__utmv  | 2 years from set/update | Used to store visitor-level custom variable data. This cookie is created when a developer uses the _setCustomVar method with a visitor level custom variable. This cookie was also used for the deprecated _setVar method. The cookie is updated every time data is sent to Google Analytics.  
+__PHPSESSID  |  After Closing your browser | This cookie is used for website functionality.  
+  
+[Privacy Statement Google](http://www.google.com/policies/privacy/)
+
 **Contacting us**
 
 If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us at:  
-admin@gratisonlinesex.nl
-
+[admin@gratisonlinesex.com](mailto:admin@gratisonlinesex.com)  
 This document was last updated on November 24, 2012
-
-Welcome to Gratisonlinesex.com - Are you looking for hot amateur **live cam** models from over the world to **sex chat** with? Don't search any longer, we have hot amateur women, men and couples that are waiting for you in a 100% **free webcam sex** chat. So what are you waiting for? Click on a model to start your 100% free sex chat today! All webcam models that are active in the chatrooms are at least 18 years or older and verified as required by law. This **free webcam sex** service and **live cams** are provided and Powered by  [Chaturbate.com](http://chaturbate.com/affiliates/in/ZmU7/9EV1k/?track=WGOSD) This website contains sexually oriented material where women, men and couples are performing sexual acts. This website is therefore classified as an **adult website** that exhibits **webcam sex** where people have a **sex chat** with each other. Therefore this website is only suitable for visitors at the age of 18 years or older as required by law. © Gratisonlinesex.com - All right reserved.   
-
