@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the 123malaysia.com privacy policy that was archived on 2012-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120528105200id_/http%3A//123malaysia.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 123malaysia.com privacy policy that was archived on 2013-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130621013908id_/http%3A//123malaysia.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | 123Malaysia.com • Malaysia Marketplace & Directory
+# Privacy Policy | 123Malaysia.com • Malaysia Online Advertising
 
 **Your Privacy**  
 Your privacy is important to us. To better protect your privacy we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used. To make this notice easy to find, we make it available on our homepage and at every point where personally identifiable information may be requested.
