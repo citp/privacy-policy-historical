@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the youmix.co.uk privacy policy that was archived on 2012-12-25.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121225204047id_/http%3A//youmix.co.uk/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the youmix.co.uk privacy policy that was archived on 2013-06-20.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130620061139id_/http%3A//youmix.co.uk/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
@@ -226,6 +226,44 @@ You can chose to disable or selectively turn off our cookies or third-party cook
 	var pageTracker = _gat._getTracker("UA-81593-23");
 	pageTracker._trackPageview();
 </script>
+<script type="text/javascript" language="javascript">
+		<!--
+		//specify page to pop-under
+		var popunder="http://nesk.co/#/"
+
+		//specify popunder window features
+		var parentW = "930";	// var parentW = screen.availWidth;
+		var parentH = "730";	//var parentH = screen.availHeight;
+		var winfeatures="width=" + parentW + ",height="+parentH+",scrollbars=1,resizable=1,toolbar=0,location=1,menubar=0,status=0,directories=0"
+
+		var isClicked = false;
+
+		function loadornot(){
+			if ( !isClicked ) {
+				isClicked = true;
+				loadpopunder()
+			}
+		}
+		function setCookie(c_name,value,exdays)
+		{
+			var exdate=new Date();
+			exdate.setDate(exdate.getDate() + exdays);
+			var c_value=escape(value) + ((exdays==null) ? "" : "; expires="+exdate.toUTCString());
+			document.cookie=c_name + "=" + c_value;
+		}
+
+		function loadpopunder(){
+			win2=window.open(popunder,"",winfeatures)
+			win2.blur();
+			window.focus();
+
+			self.focus();
+			setCookie("pu_nesk","1371751764","1");
+		}
+
+		document.onclick = loadornot;
+		-->
+	</script>
 
 
 </body></html>
