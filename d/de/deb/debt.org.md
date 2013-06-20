@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the debt.org privacy policy that was archived on 2012-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121219051303id_/http%3A//www.debt.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the debt.org privacy policy that was archived on 2013-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130620085413id_/http%3A//www.debt.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - We Will Not Share Your Information
 
@@ -10,4 +10,4 @@ This website is an advertisement that provides consumer leads to debt resolution
 
 Every visitor of Debt.org is recognized by our web server. We do employ the use of cookies, but our Web site only recognizes a visitor’s domain name, and no e-mail address or any other information about the visitor is collected. The server also collects information about which pages on the Web site are accessed and for how long the pages are visited. Debt.org can also determine if a visitor reached the Web site by utilizing a certain search engine or via a specific advertising banner. This information is used exclusively to enhance the quality of Debt.org. In no event will information on visitors to Debt.org be sold or transmitted to a third party unless expressly authorized by a visitor.
 
-If you have any questions about Debt.org, or its privacy policy, please email [webmaster@debt.org](mailto:webmaster@debt.org) or call (877) 359-8091.
+If you have any questions about Debt.org, or its privacy policy, please email [webmaster@debt.org](mailto:webmaster@debt.org) or call (888) 650-0875.
