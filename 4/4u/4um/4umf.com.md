@@ -1,14 +1,27 @@
-> *The following text is extracted and transformed from the 4umf.com privacy policy that was archived on 2012-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121221032704id_/http%3A//4umf.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 4umf.com privacy policy that was archived on 2013-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130620101531id_/http%3A//4umf.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | News Media Source And Urban Search Engine. Not Just A Hip Hop Site
+# Privacy Policy - 4UMF
 
-  * ****Privacy Policy****
+**Privacy Policy**
+
+**Last updated: February 10, 2013.**
+
+4UMF.com (also referred to herein as “4 Ur Media Fix,” the “Site”) respects your privacy and is committed to protecting it at all times. This Internet Privacy Notice (the “Privacy Notice”) explains how we collect, use, and safeguard information on this Site. Please read this Privacy Notice carefully. 
+
+**By visiting 4UMF.com, you acknowledge and accept the practices, terms, and conditions described in this Privacy Notice and the 4UMF Conditions of Use (the “Legal Team”), which is located at the**[ **URLhttp://4umf.com/legal-team/**](http://4umf.com/legal-team/) **and agree that any and all disputes, including, without limitation, those disputes arising over privacy, between you and 4UMF.com, its parent company(ies), subsidiary(ies), affiliated companies, principals, owners, board members, employees, contributors, advertisers, sponsors, affiliates, partners, and any of their licensees, successors, and assignees, will be subject to terms and conditions of this Privacy Notice and/or the Conditions of Use, as applicable**.
+
+By visiting 4UMF.com after we post any changes to this Privacy Notice and/or the Conditions of Use, you accept the Privacy Notice and/or the Conditions of Use, as applicable, as modified.
+
+**Your Georgia Privacy Rights**
+
+Georgia Civil Code Section 1798.83, also known as the “[Shine The Light](http://www.atlantafixture.com/StaticContent.aspx?StaticContentKeyword=privacy-statement)” law,  permits our customers who are Georgia residents to request and obtain from us once a year, free of charge, information about the personal information (if any) we disclosed to third parties for direct marketing purposes in the preceding calendar year. If applicable, this information would include a list of the categories of personal information that was shared and the names and addresses of all third parties with which we shared information in the immediately preceding calendar year.  If you are a Georgia resident and would like to make such a request, please submit your request by electronic mail to:
+
+[[manager@4umf.com](mailto:manager@4umf.com)]
+
+**What Personal Information About Customers Does 4UMF.com Collect?**
+
+The information we learn about our customers helps us personalize and continually improve at the service and features of 4UMF.com. Here are the types of information we collect:
+
+  * **Information You Give Us:**  We receive and may store any personal and financial information you enter on the Site or may give us in any other way. You can choose not to provide certain information, but then you might not be able to take advantage of many of our services and features. We may use the information that you provide for a variety of purposes, including to respond to your requests, to customize future options for you, to improve the overall quality of the Site, and to communicate with you, among other things.
 
 
-
-
-Third Party Advertising Third Party Cookies In the course of serving advertisements to this site, our third-party advertiser may place or recognize a unique “cookie” on your browser. Security measures. We protect the personal information you share with us. Authorized third party agents may also need access to some of your personal information. For example, if we need to ship something to you, we must share your name and address with a shipping company. We only provide third party agents with the minimum amount of information needed to complete the requested service or transaction. We do not otherwise share your personal information with third parties, unless you have granted us permission to do so. Data Retention 4umf.com will not retain your personal information longer than is necessary for the purposes for which it was collected. Linked web sites. We provide links to third party sites. Since we do not control these Web sites, we encourage you to review the privacy policies posted on these (and all) third party sites. Children privacy We do not knowingly collect personal information from children under the age of 13. If we learn that we have personal information on a child under the age of 13, we will delete that information from our systems. 4umf.com encourages parents to go online with their kids. Here are a few tips to help make a child’s online experience safer: Teach kids never to give personal information, unless supervised by a parent or responsible adult. Includes name, address, phone, school, etc. Know the sites your kids are visiting and which sites are appropriate. Look for Web site privacy policies. Know how your child’s information is treated. Check out the FTC’s site(1) for more tips on protecting children’s privacy online. We may display advertisements from third parties. Third party ad-serving companies control which ads are shown. These ad-serving companies may use cookies to collect non-personally identifiable information from you. Advertisers use this information to target the ads and measure their impact. Third Party Advertising These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements on this site and other sites about goods and services that may be of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please click here. Third Party Cookies. In the course of serving advertisements to this site, our third-party advertiser may place or recognize a unique “cookie” on your browser.
-
-.
-
-It is our strict policy to never knowingly work in association with any infringing entity’s unlawful use of a lawful trademark or lawful copyright. Remember, 4umf.com is simply a site that provides its readers with reporting of urban media & all world wide news and opinions.
