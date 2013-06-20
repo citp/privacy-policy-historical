@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the emailcenterpro.com privacy policy that was archived on 2012-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121016025850id_/http%3A//www.emailcenterpro.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the emailcenterpro.com privacy policy that was archived on 2013-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130620121535id_/http%3A//www.emailcenterpro.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy Statement - Email Center Pro
 
@@ -27,7 +27,7 @@ If you have questions, we can be reached by email at customerservice@paloalto.co
 Effective Date: 02/22/08
 
 **[Palo Alto Software](http://www.paloalto.com/)**  
-488 East 11th, Suite 220  
+44 West Broadway, Suite 500  
 Eugene, OR 97401, USA  
 (800) 605-7057  
 [sales@paloalto.com](mailto:sales@paloalto.com)
