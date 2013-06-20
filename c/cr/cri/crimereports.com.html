@@ -1,19 +1,23 @@
-<!--The following is the downloaded HTML source of the crimereports.com privacy policy that was archived on 2012-10-16.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121016220544id_/https%3A//www.crimereports.com/legal/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the crimereports.com privacy policy that was archived on 2013-06-20.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130620123805id_/https%3A//www.crimereports.com/footer/privacy) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html><head>
-    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-<meta name="description" content="Crime Reports keeps you informed about crime in your neighborhood. Law enforcement uses Crime Reports to improve community awareness and reduce crime.">
-<meta name="keywords" content="crime, crime map, crime mapping, mapping, crime report, crimereports.com community policing, community safety, neighborhood crime, neighborhood crime, neighborhood crime statistics, neighborhood crime watch, neighborhood crime reports, free neighborhood crime report">
-<title>Community Policing &amp; Neighborhood Crime Statistics | CrimeReports.com</title>
-<link rel="shortcut icon" href="/favicon.ico">
-<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script src="/javascripts/prototype.js?1349298871" type="text/javascript"></script>
-<script src="/javascripts/effects.js?1349298871" type="text/javascript"></script>
-<script src="/javascripts/dragdrop.js?1349298871" type="text/javascript"></script>
-<script src="/javascripts/controls.js?1349298871" type="text/javascript"></script>
-<script src="/javascripts/application.js?1349298871" type="text/javascript"></script>
-<script src="/javascripts/homepage.js?1349298871" type="text/javascript"></script>
-<link href="/stylesheets/main.css?1349298871" media="screen" rel="stylesheet" type="text/css">
+<html data-ng-app="crimeReportsApp"><head>
+    <meta content="authenticity_token" name="csrf-param">
+<meta content="S3juOZbSBi3rJu0ObGI5KOzRwu7gEsZKz0YY2A+jHGE=" name="csrf-token">
+    <script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script src="/assets/manifests/crime_reports-809dd7e78e541dd6778126013a9069b6.js" type="text/javascript"></script> 
+    <link href="/assets/beta_manifest-29c19ee9350400f48bd33fdb4369d862.css" media="screen" rel="stylesheet" type="text/css">
+  </head>
+  <body>
+    <div align="center" class="footerOuter">
+      <div class="mainDiv">
+         
+ <div class="header">
+  <div class="right">
+      <button id="submitTipButton" class="btn-action" onclick="window.open('https://secure.crimestoppers-uk.org/ams.form.anonymous.asp', '_newtab')">Submit a Tip</button><br>
+  </div>
+  <a href="/"><img src="/assets/crimereports_logo-4d72a8f9adff327fbc98a27b80177032.png" width="262" height="49" border="0" alt="CrimeReports Logo" class="logo"></a>
+  <span><a href="https://www.crimereports.com" class="selected">for UK</a> | <a href="https://www.crimereports.co.uk">Switch to US and Canada</a></span><br>
+</div>
 <script type="text/javascript">
   var _gaq = _gaq || [];
   _gaq.push(['_setAccount', 'UA-137535-2']);
@@ -27,678 +31,296 @@
 </script>
 
 
-
-
-  </head>
-  <body>
-    <div id="alertMessageContainer"></div>
-
-    <div id="pageWrapper">
-      <div id="header">
-  <div id="content">
-    <div id="headerLogoDiv" style="float: left; font-size: 24px;"><a href="/"><img src="/images/cr_logo_white.png" border="0" style="margin-top: 10px;" title="CrimeReports" alt="CrimeReports"></a></div>
-
- 
-      <div id="ukRedirect" style="position:absolute;top:25px;left:280px;padding:0px;"><h3 style="padding:0px;margin:0px;">You are currently on the US and Canada site.</h3><h3 style="padding:0px;margin:0px;">Switch here to see <a style="color:#FFCC66;" href="https://www.crimereports.co.uk/map?CRSearch=winchester%20Hampshire,%20uk">UK</a>.</h3></div> 
-      <script type="text/javascript">
-  //Swf calls this w/ username and password, that's why we do this
-  function securityCheck() {
-    var username = escape(document.getElementById('username').value);
-    //See if we need a security popup, if so pop it up, if not just log in normally
-    new Ajax.Request('/accounts/security_check', {asynchronous:true, evalScripts:true, method:'post', onSuccess:function(request){processSecurityRequest(request)}, parameters:'?login='+username + '&authenticity_token=' + encodeURIComponent('5WKDhea4LaSWEzM0+tV1/lxYFhNXBIUWZpEtGLj5lt0=')})
-  }
-
-  function processSecurityRequest(transport) {
-    var secure_required;
-    var secure_url;
-    var responseString = transport.responseText;
-    var startIndex = responseString.indexOf("<secure>")
-    if ( startIndex > 0 && startIndex + 12 < responseString.length ) {
-      secure_required = responseString.slice(startIndex + 8, startIndex + 12);
-    }
-    startIndex = responseString.indexOf("<url>");
-    var endIndex = responseString.indexOf("</url>");
-    if ( startIndex > 0 && endIndex > 0 ) {
-      secure_url = responseString.slice(startIndex +5, endIndex);
-    }
-    if (secure_required == "true") {
-      jQuery("#ukSecurityModal").html("Only logon if you understand your responsibilities under your organisations Data Protection Policy together with the Guidance &amp; Instructions for CrimeReports/CommandCentral Information Security (<a href='" + secure_url + "'>click here to view</a>). Misuse may result in prosecution or disciplinary proceedings.");
-
-      jQuery("#ukSecurityModal").dialog({
-        resizable:false,
-        modal:true,
-        width:450,
-        buttons: { "Confirm":function(){
-                      securityLogin();
-                      jQuery(this).dialog("close");},
-                    Cancel:function(){
-                      jQuery(this).dialog("close");
-                    }
-                  }
-
-      });
-    } else {
-      loginboxLogin();
-    }
-  }
-
-  function loginboxLogin(username, password){
-    if (username == undefined || password == undefined) {
-      var username = escape(document.getElementById('username').value);
-      var password = escape(document.getElementById('password').value);
-    }
-    redirectToAgencySwfOnAgencyLogin = true;
-    redirectToCC = false;
-    new Ajax.Request('/accounts/login', {asynchronous:true, evalScripts:true, method:'post', onSuccess:function(request){processLoginRequest(request)}, parameters:'?login='+username+'&password='+password + '&authenticity_token=' + encodeURIComponent('5WKDhea4LaSWEzM0+tV1/lxYFhNXBIUWZpEtGLj5lt0=')})
-  }
-
-  function securityLogin(username, password){
-    if (username == undefined || password == undefined) {
-      var username = escape(document.getElementById('username').value);
-      var password = escape(document.getElementById('password').value);
-    }
-      redirectToAgencySwfOnAgencyLogin = false;
-      redirectToCC = true;
-    new Ajax.Request('/accounts/login', {asynchronous:true, evalScripts:true, method:'post', onSuccess:function(request){processLoginRequest(request)}, parameters:'?login='+username+'&password='+password + '&authenticity_token=' + encodeURIComponent('5WKDhea4LaSWEzM0+tV1/lxYFhNXBIUWZpEtGLj5lt0=')})
-  }
-
-
-  function LogoutUser(){
-
-    var userInfoDiv = document.getElementById('userInfoDiv');
-    if ( userInfoDiv.style.display != "none") {
-      new Ajax.Request('/accounts/destroy_session', {asynchronous:true, evalScripts:true, onSuccess:function(request){processLogoutRequestResponse(request)}, parameters:'authenticity_token=' + encodeURIComponent('5WKDhea4LaSWEzM0+tV1/lxYFhNXBIUWZpEtGLj5lt0=')})
-    }
-  }
-
-  function processLogoutRequestResponse(transport){
-    _gaq.push(['_trackEvent', 'Account', 'Logout']);
-    _messagingBroker.TriggerEvent(MessagingBroker.LOGGED_OUT_EVENT);
-  }
-
-  function loginbox_message_listener(eventName){
-    switch(eventName){
-      case MessagingBroker.LOGGED_IN_EVENT:
-        clearAlertMessage();
-        new Ajax.Request('/accounts/logged_in.json', {asynchronous:true, evalScripts:true, onSuccess:function(request){processLoginInfo(request)}, parameters:'authenticity_token=' + encodeURIComponent('5WKDhea4LaSWEzM0+tV1/lxYFhNXBIUWZpEtGLj5lt0=')})
-      break;
-      case MessagingBroker.LOGGED_OUT_EVENT:
-        var userInfoDiv = document.getElementById('userInfoDiv');
-        userInfoDiv.style.display = "none";
-        var loginDiv = document.getElementById('loginDiv');
-        loginDiv.style.display = "inline";
-        redirectToAgencySwfOnAgencyLogin = false;
-      break;
-      case MessagingBroker.LOGIN_INVALID_IP_EVENT:
-        displayAlertMessage("Sorry, access is denied from this location.", true);
-        redirectToAgencySwfOnAgencyLogin = false;
-      break;
-      case MessagingBroker.LOGIN_CREDENTIALS_FAILED_EVENT:
-        displayAlertMessage("Oops, your user name or password is invalid.  <a href='#' onclick='fireForgotPasswordEvent(); return false;'>Forgot your password</a>? <a href='#' onclick='fireCreateAccountEvent(); return false;'>Need an account</a>?", true);
-        redirectToAgencySwfOnAgencyLogin = false;
-      break;
-      case MessagingBroker.LOGIN_FAILED_ACCOUNT_LOCKED:
-        displayAlertMessage("Your account has been locked because of three failed login attempt.  Retry in one hour.", true);
-        redirectToAgencySwfOnAgencyLogin = false;
-      break;
-      case MessagingBroker.LOGIN_REQUEST_FAILURE_EVENT:
-        redirectToAgencySwfOnAgencyLogin = false;
-      break;
-    }
-  }
-  if(_messagingBroker){ _messagingBroker.RegisterListener(loginbox_message_listener); }
-
-  new Ajax.Request('/accounts/logged_in.json', {asynchronous:true, evalScripts:true, onSuccess:function(request){processLoginInfo(request)}, parameters:'authenticity_token=' + encodeURIComponent('5WKDhea4LaSWEzM0+tV1/lxYFhNXBIUWZpEtGLj5lt0=')})
-</script>
-<div style="float:right; position: relative; width: 364px; height: 71px;">
-  <div id="loginDiv" style="display: none;">
-    <div style="width: 271px; height: 71px; position: relative; float: left; background-image: url('/images/login_bg.png'); background-repeat: no-repeat;">
-      <form action="/login" method="post" id="loginForm" onsubmit="return false;">
-        <input id="username" name="username" style="position: absolute; left: 15px; top: 10px; width: 84px; font-size: 11px; color: #303080; border: none; padding: 2px 2px; margin: 0px;" type="text" value="">
-        <input id="password" name="password" style="position: absolute; left: 110px; top: 10px; width: 84px; font-size: 11px; color: #303080; border: none; padding: 2px 2px; margin: 0px;" type="password" value="">
-        <input type="image" src="/images/login.gif" value="Submit" alt="Login" style="border: 0; position: absolute; left: 210px; top: 8px;" onclick="loginboxLogin();">
-        <div style="position: absolute; left: 15px; top: 32px; font-size: 11px;">Email</div>
-        <div style="position: absolute; left: 110px; top: 32px; font-size: 11px;">Password 
-          (<a href="#" onclick="fireForgotPasswordEvent(); return false;" style="font-weight: normal">Forgot</a>?)
-        </div>
-        <div style="position: relative; color: white; left: 65px; top: 50px; font-size: 10px;">
-          Not a member? <a href="#" onclick="fireCreateAccountEvent(); return false;" style="color: #FFCC66;">Join CrimeReports today!</a>
-        </div>
-      </form>
-    </div>
-  </div>
-  <div id="userInfoDiv" style="position: absolute; right: 15px; top: 10px; width: 400px; font-size: 11px; text-align: right; display: none">
-  </div>
-  <div id="ukSecurityModal" title="Security Check"></div>
+        <div class="leftContent">
+  <ul class="leftNav">
+    <li class="first"><b>Next Steps</b>
+      <ul>
+        <li><a href="http://www2.publicengines.com/l/12812/2012-10-09/3ssz2" target="_blank" class="signUp" onclick="footerPlayForm('http://www2.publicengines.com/l/12812/2012-10-09/3ssz2');return false;">Get an Online Demo</a></li>
+        <li><a href="http://www2.publicengines.com/l/12812/2012-10-09/3sszd" target="_blank" class="moreInfo" onclick="footerPlayForm('http://www2.publicengines.com/l/12812/2012-10-09/3sszd');return false;">Request More Information</a></li>
+        <li class="last"><a href="#" class="call">Call 1-888-888-CRIME</a></li>
+      </ul>
+    </li>
+    <li>
+      <ul>
+        <li><a href="/footer/privacy/">Privacy Policy</a></li>
+        <li><a href="/footer/terms/">Terms Of Use</a></li>
+        <li><a href="/footer/disclaimer/">Disclaimer</a></li>
+      </ul>
+    </li>
+  </ul>
 </div>
 
-  </div>
-</div>
-
-      
-      <div id="page">
-      
-      <div id="pageContent">
-        
-          <table width="100%" style="border: 0; border-collapse: collapse;">
-	<tbody><tr style="background-color: white;">
-		<td style="text-align: left;"><img src="/images/corner_white_tl.gif" style="border=0;"></td>
-		<td style="text-align: right;"><img src="/images/corner_white_tr.gif" style="border=0;"></td>
-	</tr>
-</tbody></table>
-
-          
-            <div style="background-color: white; padding: 1px 15px;">
-          
-        
-        <style>
-<!--
-@font-face
-	{font-family:Wingdings}
-@font-face
-	{font-family:"Cambria Math"}
-@font-face
-	{font-family:Calibri}
-@font-face
-	{font-family:Verdana}
-p.MsoNormal, li.MsoNormal, div.MsoNormal
-	{margin:0in;
-	margin-bottom:.0001pt;
-	line-height:normal;
-	font-size:10.0pt;
-	font-family:"Arial","sans-serif";
-	color:#404040}
-h1
-	{margin-top:12.0pt;
-	margin-right:0in;
-	margin-bottom:3.0pt;
-	margin-left:0in;
-	line-height:normal;
-	page-break-after:avoid;
-	font-size:16.0pt;
-	font-family:"Arial","sans-serif";
-	color:gray;
-	font-weight:bold}
-h2
-	{margin-top:12.0pt;
-	margin-right:0in;
-	margin-bottom:3.0pt;
-	margin-left:0in;
-	line-height:normal;
-	page-break-after:avoid;
-	font-size:14.0pt;
-	font-family:"Arial","sans-serif";
-	color:#404040;
-	font-weight:bold;
-	font-style:italic}
-h3
-	{margin-top:0in;
-	margin-right:0in;
-	margin-bottom:12.0pt;
-	margin-left:0in;
-	text-indent:1.5in;
-	line-height:normal;
-	text-autospace:none;
-	font-size:10.0pt;
-	font-family:"Arial","sans-serif";
-	color:#404040;
-	letter-spacing:.5pt;
-	font-weight:normal}
-h4
-	{margin-top:0in;
-	margin-right:0in;
-	margin-bottom:12.0pt;
-	margin-left:0in;
-	text-indent:2.0in;
-	line-height:normal;
-	text-autospace:none;
-	font-size:10.0pt;
-	font-family:"Arial","sans-serif";
-	color:#404040;
-	letter-spacing:.5pt;
-	font-weight:normal}
-h5
-	{margin-top:0in;
-	margin-right:0in;
-	margin-bottom:12.0pt;
-	margin-left:0in;
-	text-indent:2.5in;
-	line-height:normal;
-	text-autospace:none;
-	font-size:10.0pt;
-	font-family:"Arial","sans-serif";
-	color:#404040;
-	letter-spacing:.5pt;
-	font-weight:normal}
-h6
-	{margin-top:0in;
-	margin-right:0in;
-	margin-bottom:12.0pt;
-	margin-left:0in;
-	text-indent:3.0in;
-	line-height:normal;
-	text-autospace:none;
-	font-size:10.0pt;
-	font-family:"Arial","sans-serif";
-	color:#404040;
-	letter-spacing:.5pt;
-	font-weight:normal}
-p.MsoHeading7, li.MsoHeading7, div.MsoHeading7
-	{margin-top:0in;
-	margin-right:0in;
-	margin-bottom:12.0pt;
-	margin-left:0in;
-	text-indent:3.5in;
-	line-height:normal;
-	text-autospace:none;
-	font-size:10.0pt;
-	font-family:"Arial","sans-serif";
-	color:#404040;
-	letter-spacing:.5pt}
-p.MsoHeading8, li.MsoHeading8, div.MsoHeading8
-	{margin-top:0in;
-	margin-right:0in;
-	margin-bottom:12.0pt;
-	margin-left:0in;
-	text-indent:4.0in;
-	line-height:normal;
-	text-autospace:none;
-	font-size:10.0pt;
-	font-family:"Arial","sans-serif";
-	color:#404040;
-	letter-spacing:.5pt}
-p.MsoHeading9, li.MsoHeading9, div.MsoHeading9
-	{margin-top:0in;
-	margin-right:0in;
-	margin-bottom:12.0pt;
-	margin-left:0in;
-	line-height:normal;
-	text-autospace:none;
-	font-size:10.0pt;
-	font-family:"Arial","sans-serif";
-	color:#404040;
-	letter-spacing:.5pt}
-p.MsoCommentText, li.MsoCommentText, div.MsoCommentText
-	{margin:0in;
-	margin-bottom:.0001pt;
-	line-height:normal;
-	font-size:10.0pt;
-	font-family:"Arial","sans-serif";
-	color:#404040}
-p.MsoHeader, li.MsoHeader, div.MsoHeader
-	{margin:0in;
-	margin-bottom:.0001pt;
-	line-height:normal;
-	font-size:10.0pt;
-	font-family:"Arial","sans-serif";
-	color:#404040}
-p.MsoFooter, li.MsoFooter, div.MsoFooter
-	{margin:0in;
-	margin-bottom:.0001pt;
-	line-height:normal;
-	font-size:10.0pt;
-	font-family:"Arial","sans-serif";
-	color:#404040}
-span.MsoEndnoteReference
-	{vertical-align:super}
-p.MsoEndnoteText, li.MsoEndnoteText, div.MsoEndnoteText
-	{margin:0in;
-	margin-bottom:.0001pt;
-	line-height:normal;
-	font-size:10.0pt;
-	font-family:"Arial","sans-serif";
-	color:#404040}
-p.MsoBodyText, li.MsoBodyText, div.MsoBodyText
-	{margin-top:0in;
-	margin-right:0in;
-	margin-bottom:12.0pt;
-	margin-left:0in;
-	text-indent:.5in;
-	line-height:normal;
-	font-size:10.0pt;
-	font-family:"Arial","sans-serif";
-	color:#404040}
-a:link, span.MsoHyperlink
-	{color:blue;
-	text-decoration:underline}
-a:visited, span.MsoHyperlinkFollowed
-	{color:purple;
-	text-decoration:underline}
-p
-	{margin-top:0in;
-	margin-right:0in;
-	margin-bottom:11.9pt;
-	margin-left:0in;
-	line-height:11.25pt;
-	font-size:8.0pt;
-	font-family:"Verdana","sans-serif";
-	color:#404040}
-p.MsoCommentSubject, li.MsoCommentSubject, div.MsoCommentSubject
-	{margin:0in;
-	margin-bottom:.0001pt;
-	line-height:normal;
-	font-size:10.0pt;
-	font-family:"Arial","sans-serif";
-	color:#404040;
-	font-weight:bold}
-p.MsoAcetate, li.MsoAcetate, div.MsoAcetate
-	{margin:0in;
-	margin-bottom:.0001pt;
-	line-height:normal;
-	font-size:8.0pt;
-	font-family:"Arial","sans-serif";
-	color:#404040}
-p.MsoListParagraph, li.MsoListParagraph, div.MsoListParagraph
-	{margin-top:0in;
-	margin-right:0in;
-	margin-bottom:0in;
-	margin-left:.5in;
-	margin-bottom:.0001pt;
-	line-height:normal;
-	font-size:10.0pt;
-	font-family:"Arial","sans-serif";
-	color:#404040}
-p.MsoQuote, li.MsoQuote, div.MsoQuote
-	{margin-top:0in;
-	margin-right:1.0in;
-	margin-bottom:12.0pt;
-	margin-left:1.0in;
-	line-height:normal;
-	font-size:10.0pt;
-	font-family:"Arial","sans-serif";
-	color:#404040}
-span.BodyTextChar
-	{font-family:"Times New Roman","serif"}
-p.BodyTextContinued, li.BodyTextContinued, div.BodyTextContinued
-	{margin-top:0in;
-	margin-right:0in;
-	margin-bottom:12.0pt;
-	margin-left:0in;
-	line-height:normal;
-	font-size:10.0pt;
-	font-family:"Arial","sans-serif";
-	color:#404040}
-span.QuoteChar
-	{font-family:"Times New Roman","serif"}
-span.HeaderChar
-	{font-family:"Times New Roman","serif"}
-span.FooterChar
-	{font-family:"Times New Roman","serif"}
-p.H3, li.H3, div.H3
-	{margin-top:5.0pt;
-	margin-right:0in;
-	margin-bottom:5.0pt;
-	margin-left:0in;
-	line-height:normal;
-	page-break-after:avoid;
-	text-autospace:none;
-	font-size:14.0pt;
-	font-family:"Arial","sans-serif";
-	color:#404040;
-	font-weight:bold}
-span.BalloonTextChar
-	{font-family:"Arial","sans-serif"}
-span.zzmpTrailerItem
-	{font-family:"Times New Roman","serif";
-	color:windowtext;
-	position:relative;
-	top:0pt;
-	letter-spacing:0pt;
-	text-decoration:none none;
-	vertical-align:baseline}
-span.CommentTextChar
-	{font-family:"Times New Roman","serif"}
-span.CommentSubjectChar
-	{font-family:"Times New Roman","serif";
-	font-weight:bold}
-span.Heading2Char
-	{font-family:"Arial","sans-serif";
-	font-weight:bold;
-	font-style:italic}
-p.indent, li.indent, div.indent
-	{margin-right:0in;
-	margin-left:0in;
-	line-height:normal;
-	font-size:10.0pt;
-	font-family:"Arial","sans-serif";
-	color:#404040}
-span.EndnoteTextChar
-	{font-family:"Times New Roman","serif"}
-span.Heading1Char
-	{font-family:"Arial","sans-serif";
-	color:gray;
-	font-weight:bold}
-@page WordSection1
-	{margin:1.0in 1.0in 1.0in 1.0in}
-div.WordSection1
-	{}
-ol
-	{margin-bottom:0in}
-ul
-	{margin-bottom:0in}
--->
-</style>
-<p style="font-size: 11px; padding: 0px;"><span style="color:#2E7FCB">Privacy Policy</span>  |  <a href="/home/terms" style="color:#2E7FCB">Terms Of Use</a>  |  <a href="/home/disclaimer" style="color:#2E7FCB">Disclaimer</a></p>
-<h1>Privacy Policy</h1>
+<div id="footerPrivacy" class="rightContent">
+      <div class="padding">
+        <h1>Privacy Policy</h1>
 <p class="MsoNormal" style="text-autospace:none"><i>This policy is effective as of October 11, 2010</i></p>
-<p class="MsoNormal">&nbsp;</p>
-<p class="MsoNormal">This Privacy Policy governs all Public Engines Services, as defined in the Public Engines' Terms of Use, available at
+<p class="MsoNormal"> </p>
+<p class="MsoNormal">This Privacy Policy governs all PublicEngines Services, as defined in the PublicEngines' Terms of Use, available at
 <a href="/home/terms" target="_blank">
-https://www.crimereports.com/home/terms</a>. Public Engines, Inc. respects your privacy and we are committed to protecting it. We recognize your need for appropriate protection and management of the personal information we learn about you while you visit or
- use our Public Engines Services. This Privacy Policy lets you know how we use and protect that information. The information that we receive depends on what you do during your visit, what information you provide, and what service(s) you request.
-<b>YOUR USE OF THE PUBLIC ENGINES SERVICES SIGNIFIES YOUR CONSENT TO OUR PROCESSING OF YOUR INFORMATION AS DESCRIBED IN THIS PRIVACY POLICY.&nbsp; IF YOU DO NOT AGREE TO THE TERMS OF THIS PRIVACY POLICY, PLEASE DO NOT USE THE PUBLIC ENGINES SERVICES.</b></p>
-<p class="MsoNormal">&nbsp;</p>
+https://www.crimereports.com/home/terms</a>. PublicEngines, Inc. respects your privacy and we are committed to protecting it. We recognize your need for appropriate protection and management of the personal information we learn about you while you visit or
+ use our PublicEngines Services. This Privacy Policy lets you know how we use and protect that information. The information that we receive depends on what you do during your visit, what information you provide, and what service(s) you request.
+<b>YOUR USE OF THE PUBLIC ENGINES SERVICES SIGNIFIES YOUR CONSENT TO OUR PROCESSING OF YOUR INFORMATION AS DESCRIBED IN THIS PRIVACY POLICY.  IF YOU DO NOT AGREE TO THE TERMS OF THIS PRIVACY POLICY, PLEASE DO NOT USE THE PUBLIC ENGINES SERVICES.</b></p>
+<p class="MsoNormal"> </p>
 <p class="MsoNormal">YOU AGREE THAT PUBLIC ENGINES MAY SHARE ANY AND ALL INFORMATION AND COMMUNICATIONS PUBLIC ENGINES COLLECTS FROM YOU IN CONNECTION WITH YOUR USE OF THE PUBLIC ENGINES SERVICES (OTHER THAN YOUR PASSWORD) WITH PARTICIPATING LAW ENFORCEMENT
- AGENCIES AND/OR PUBLIC SAFETY OFFICIALS FOR THE PURPOSES OF FACILITATING CITIZEN DIALOG, INFORMATION EXCHANGE, RESPONDING TO EMERGENCIES, AND OTHER OFFICIAL USES, AND YOU HEREBY CONSENT TO SUCH DISCLOSURES.&nbsp; IF YOU DO NOT WANT PUBLIC ENGINES TO DISCLOSE YOUR
+ AGENCIES AND/OR PUBLIC SAFETY OFFICIALS FOR THE PURPOSES OF FACILITATING CITIZEN DIALOG, INFORMATION EXCHANGE, RESPONDING TO EMERGENCIES, AND OTHER OFFICIAL USES, AND YOU HEREBY CONSENT TO SUCH DISCLOSURES.  IF YOU DO NOT WANT PUBLIC ENGINES TO DISCLOSE YOUR
  INFORMATION AS DESCRIBED ABOVE, PLEASE DO NOT USE ANY PUBLIC ENGINES SERVICES.</p>
-<p class="MsoNormal">&nbsp;</p>
+<p class="MsoNormal"> </p>
 <ol start="1" type="1" style="margin-top:0in">
-<li class="MsoNormal" style="text-autospace:none"><b>Information Public Engines Gathers and Tracks</b>. Public Engines collects two kinds of information about visitors:
+<li class="MsoNormal" style="text-autospace:none"><b>Information PublicEngines Gathers and Tracks</b>. PublicEngines collects two kinds of information about visitors:
 </li></ol>
-<p class="MsoNormal" style="margin-left:.25in; text-autospace:none">&nbsp;</p>
+<p class="MsoNormal" style="margin-left:.25in; text-autospace:none"> </p>
 <p class="MsoNormal" style="margin-left:1.0in; text-indent:-.5in; text-autospace:none">
-a.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <b>Personal Information</b>. When you register for an account, voluntarily provide health information, request a service or information, place an order, submit feedback, post information onto your public profile, or participate in a forum or survey,
- we may need to ask you for personal information such as your name, address, email address and telephone number, along with other information you may wish to provide for effective use of the Public Engines Services ("<u>User Information</u>").
+a.         <b>Personal Information</b>. When you register for an account, voluntarily provide health information, request a service or information, place an order, submit feedback, post information onto your public profile, or participate in a forum or survey,
+ we may need to ask you for personal information such as your name, address, email address and telephone number, along with other information you may wish to provide for effective use of the PublicEngines Services ('<u>User Information</u>').
+</p>
+<p class="MsoNormal" style="margin-left:1.0in; text-indent:-.5in; text-autospace:none"> 
 </p>
 <p class="MsoNormal" style="margin-left:1.0in; text-indent:-.5in; text-autospace:none">
-&nbsp;</p>
-<p class="MsoNormal" style="margin-left:1.0in; text-indent:-.5in; text-autospace:none">
-b.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <b>Non-Identifying Information</b>. We may also collect certain indirect and/or aggregate information as a result of your use of, and interaction with, the Public Engines Services ("<u>Usage Information</u>"). We may also use certain<span style="color:black">
- standard web measurement and tracking technologies such as "cookies," web server logs, or other
-</span>statistics programs to collect Usage Information and track and record how you use the Public Engines Services.&nbsp; This data is anonymous and does not personally identify you. Usage Information helps us measure the success of the Public Engines Services
- and its features or pages and to improve your online experience.&nbsp; Your browser may have an option that allows you to accept cookies, reject cookies, or receive notification when a cookie is sent, but you should note that the use of such restrictive browser
- settings may limit your use or the convenience of the Public Engines Services.&nbsp; We do not use spyware, adware or any other similarly intrusive software.&nbsp; We may create anonymous Information records from User Information by excluding information (such as your
- name and email address) that make the data personally identifiable to you ("<u>Anonymous Information</u>").&nbsp; Public Engines reserves the right to use and disclose Usage Information and Anonymous Information to third parties in its sole discretion.&nbsp; Collectively,
- Usage Information, Anonymous Information and User Information are referred to in this Privacy Policy as "<u>Information</u>."&nbsp;
+b.         <b>Non-Identifying Information</b>. We may also collect certain indirect and/or aggregate information as a result of your use of, and interaction with, the PublicEngines Services ('<u>Usage Information</u>'). We may also use certain<span style="color:black">
+ standard web measurement and tracking technologies such as 'cookies,' web server logs, or other
+</span>statistics programs to collect Usage Information and track and record how you use the PublicEngines Services.  This data is anonymous and does not personally identify you. Usage Information helps us measure the success of the PublicEngines Services
+ and its features or pages and to improve your online experience.  Your browser may have an option that allows you to accept cookies, reject cookies, or receive notification when a cookie is sent, but you should note that the use of such restrictive browser
+ settings may limit your use or the convenience of the PublicEngines Services.  We do not use spyware, adware or any other similarly intrusive software.  We may create anonymous Information records from User Information by excluding information (such as your
+ name and email address) that make the data personally identifiable to you ('<u>Anonymous Information</u>').  PublicEngines reserves the right to use and disclose Usage Information and Anonymous Information to third parties in its sole discretion.  Collectively,
+ Usage Information, Anonymous Information and User Information are referred to in this Privacy Policy as '<u>Information</u>.' 
+</p>
+<p class="MsoNormal" style="margin-left:1.0in; text-indent:-.5in; text-autospace:none"> 
 </p>
 <p class="MsoNormal" style="margin-left:1.0in; text-indent:-.5in; text-autospace:none">
-&nbsp;</p>
-<p class="MsoNormal" style="margin-left:1.0in; text-indent:-.5in; text-autospace:none">
-c.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <b>Tip Service.&nbsp; </b>For Public Engines' anonymous tip submission services, Public Engines uses industry standard encryption and delivery routines to provide security and anonymity of the information being submitted. Unless you expressly provide
- it, no identifying information is collected or recorded by Public Engines through this online submission transaction.</p>
-<p class="MsoNormal" style="margin-left:1.0in; text-indent:-.5in; text-autospace:none">
-&nbsp;</p>
+c.         <b>Tip Service.  </b>For PublicEngines' anonymous tip submission services, PublicEngines uses industry standard encryption and delivery routines to provide security and anonymity of the information being submitted. Unless you expressly provide
+ it, no identifying information is collected or recorded by PublicEngines through this online submission transaction.</p>
+<p class="MsoNormal" style="margin-left:1.0in; text-indent:-.5in; text-autospace:none"> 
+</p>
 <ol start="2" type="1" style="margin-top:0in">
 <li class="MsoNormal" style="text-autospace:none"><b>How We Use Your Information.
-</b>By providing your Information to us, you consent to our use of your Information in the following ways as applicable:&nbsp;&nbsp;&nbsp;
+</b>By providing your Information to us, you consent to our use of your Information in the following ways as applicable:   
 </li></ol>
 <p class="indent" style="margin-top:0in; margin-right:0in; margin-bottom:0in; margin-left:1.0in; margin-bottom:.0001pt; text-indent:-.25in">
-<span style="font-family:Symbol; color:black">·<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-</span></span><span style="color:black">to provide you the Public Engines Services;</span></p>
+<span style="font-family:Symbol; color:black">·<span style="font:7.0pt 'Times New Roman'">        
+</span></span><span style="color:black">to provide you the PublicEngines Services;</span></p>
 <p class="indent" style="margin-top:0in; margin-right:0in; margin-bottom:0in; margin-left:1.0in; margin-bottom:.0001pt; text-indent:-.25in">
-<span style="font-family:Symbol; color:black">·<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<span style="font-family:Symbol; color:black">·<span style="font:7.0pt 'Times New Roman'">        
 </span></span>to provide information that you request; </p>
 <p class="indent" style="margin-top:0in; margin-right:0in; margin-bottom:0in; margin-left:1.0in; margin-bottom:.0001pt; text-indent:-.25in">
-<span style="font-family:Symbol; color:black">·<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<span style="font-family:Symbol; color:black">·<span style="font:7.0pt 'Times New Roman'">        
 </span></span><span style="color:black">to create your account;</span></p>
 <p class="indent" style="margin-top:0in; margin-right:0in; margin-bottom:0in; margin-left:1.0in; margin-bottom:.0001pt; text-indent:-.25in">
-<span style="font-family:Symbol; color:black">·<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<span style="font-family:Symbol; color:black">·<span style="font:7.0pt 'Times New Roman'">        
 </span></span><span style="color:black">to allow you to join a group;</span></p>
 <p class="indent" style="margin-top:0in; margin-right:0in; margin-bottom:0in; margin-left:1.0in; margin-bottom:.0001pt; text-indent:-.25in">
-<span style="font-family:Symbol; color:black">·<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<span style="font-family:Symbol; color:black">·<span style="font:7.0pt 'Times New Roman'">        
 </span></span><span style="color:black">to indicate to other users that you are registered with certain groups and/or have completed various activities;</span></p>
 <p class="indent" style="margin-top:0in; margin-right:0in; margin-bottom:0in; margin-left:1.0in; margin-bottom:.0001pt; text-indent:-.25in">
-<span style="font-family:Symbol; color:black">·<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<span style="font-family:Symbol; color:black">·<span style="font:7.0pt 'Times New Roman'">        
 </span></span><span style="color:black">to share with </span>law enforcement agencies and/or public safety officials for the purposes of facilitating citizen dialog, information exchange, responding to emergencies, and other official uses</p>
 <p class="indent" style="margin-top:0in; margin-right:0in; margin-bottom:0in; margin-left:1.0in; margin-bottom:.0001pt; text-indent:-.25in">
-<span style="font-family:Symbol; color:black">·<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<span style="font-family:Symbol; color:black">·<span style="font:7.0pt 'Times New Roman'">        
 </span></span>to share with service providers as necessary to provide the services you request;</p>
 <p class="indent" style="margin-top:0in; margin-right:0in; margin-bottom:0in; margin-left:1.0in; margin-bottom:.0001pt; text-indent:-.25in">
-<span style="font-family:Symbol; color:black">·<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<span style="font-family:Symbol; color:black">·<span style="font:7.0pt 'Times New Roman'">        
 </span></span>to combine with or enhance information provided by third parties for marketing purposes;</p>
 <p class="indent" style="margin-top:0in; margin-right:0in; margin-bottom:0in; margin-left:1.0in; margin-bottom:.0001pt; text-indent:-.25in">
-<span style="font-family:Symbol; color:black">·<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<span style="font-family:Symbol; color:black">·<span style="font:7.0pt 'Times New Roman'">        
 </span></span>to contact you, respond to your inquiries, and send you information;
 </p>
 <p class="indent" style="margin-top:0in; margin-right:0in; margin-bottom:0in; margin-left:1.0in; margin-bottom:.0001pt; text-indent:-.25in">
-<span style="font-family:Symbol; color:black">·<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<span style="font-family:Symbol; color:black">·<span style="font:7.0pt 'Times New Roman'">        
 </span></span>to notify you of services that we believe may be of interest to you;</p>
 <p class="indent" style="margin-top:0in; margin-right:0in; margin-bottom:0in; margin-left:1.0in; margin-bottom:.0001pt; text-indent:-.25in">
-<span style="font-family:Symbol; color:black">·<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-</span></span>to analyze, manage and improve the Public Engines Services; </p>
+<span style="font-family:Symbol; color:black">·<span style="font:7.0pt 'Times New Roman'">        
+</span></span>to analyze, manage and improve the PublicEngines Services; </p>
 <p class="indent" style="margin-top:0in; margin-right:0in; margin-bottom:0in; margin-left:1.0in; margin-bottom:.0001pt; text-indent:-.25in">
-<span style="font-family:Symbol; color:black">·<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-</span></span>to notify you of important new changes to the Public Engines Services;</p>
+<span style="font-family:Symbol; color:black">·<span style="font:7.0pt 'Times New Roman'">        
+</span></span>to notify you of important new changes to the PublicEngines Services;</p>
 <p class="indent" style="margin-top:0in; margin-right:0in; margin-bottom:0in; margin-left:1.0in; margin-bottom:.0001pt; text-indent:-.25in">
-<span style="font-family:Symbol; color:black">·<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-</span></span>to help us diagnose problems with our server or other technical issues relating to the performance of the Public Engines Services; or</p>
+<span style="font-family:Symbol; color:black">·<span style="font:7.0pt 'Times New Roman'">        
+</span></span>to help us diagnose problems with our server or other technical issues relating to the performance of the PublicEngines Services; or</p>
 <p class="indent" style="margin-top:0in; margin-right:0in; margin-bottom:0in; margin-left:1.0in; margin-bottom:.0001pt; text-indent:-.25in">
-<span style="font-family:Symbol; color:black">·<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<span style="font-family:Symbol; color:black">·<span style="font:7.0pt 'Times New Roman'">        
 </span></span>for other purposes required for compliance <span style="color:black">
 with applicable laws.</span></p>
-<p class="indent" style="margin-top:0in; margin-right:0in; margin-bottom:0in; margin-left:1.0in; margin-bottom:.0001pt">
-&nbsp;</p>
+<p class="indent" style="margin-top:0in; margin-right:0in; margin-bottom:0in; margin-left:1.0in; margin-bottom:.0001pt"> 
+</p>
 <ol start="3" type="1" style="margin-top:0in">
 <li class="MsoNormal" style="text-autospace:none"><b>Security</b>. We use commercially reasonable security procedures to protect the information you share with us from unauthorized access or disclosure. However, your email transmissions and/or other communications
- containing User Information may be unlawfully intercepted or accessed by third parties and/or the Public Engines Services may be subject to hostile network attacks or administrative errors.&nbsp; We cannot and do not guarantee the security of any information transmitted
+ containing User Information may be unlawfully intercepted or accessed by third parties and/or the PublicEngines Services may be subject to hostile network attacks or administrative errors.  We cannot and do not guarantee the security of any information transmitted
  over the Internet. Even after we receive your User Information, we cannot guarantee that your User Information may not be accessed, disclosed, altered, or destroyed as a result of a breach of our commercially reasonable efforts or as a result of any other
- event beyond our reasonable control. Accordingly, we cannot and do not guarantee that your User Information is completely secure and safe from such risks.<span style="color:black">&nbsp;
+ event beyond our reasonable control. Accordingly, we cannot and do not guarantee that your User Information is completely secure and safe from such risks.<span style="color:black"> 
 <b><span style="text-transform:uppercase">For the avoidance of doubt, WE expressly disclaim any representation or warranty, whether express or implied, with respect to ensuring, guaranteeing or otherwise offering any definitive promise of security in connection
  with your user Information or Usage Information.</span></b></span> </li></ol>
-<p class="MsoNormal" style="text-autospace:none">&nbsp;</p>
+<p class="MsoNormal" style="text-autospace:none"> </p>
 <ol start="4" type="1" style="margin-top:0in">
-<li class="MsoNormal" style="text-autospace:none"><b>Privacy Protections for Children.</b> The Public Engines Services are not directed at children. Therefore, we do not wish to receive, nor do we knowingly collect, personal information from minors. We expressly
- request that no child under the age of 13 use the Public Engines Services or provide any information.
+<li class="MsoNormal" style="text-autospace:none"><b>Privacy Protections for Children.</b> The PublicEngines Services are not directed at children. Therefore, we do not wish to receive, nor do we knowingly collect, personal information from minors. We expressly
+ request that no child under the age of 13 use the PublicEngines Services or provide any information.
 </li></ol>
-<p class="MsoNormal" style="text-autospace:none">&nbsp;</p>
+<p class="MsoNormal" style="text-autospace:none"> </p>
 <ol start="5" type="1" style="margin-top:0in">
-<li class="MsoNormal" style="text-autospace:none"><b>Linked Sites</b>.&nbsp; The Public Engines Services may link to other web sites not controlled by Public Engines. Although we try to be careful in the selection of our strategic service and technology partners,
+<li class="MsoNormal" style="text-autospace:none"><b>Linked Sites</b>.  The PublicEngines Services may link to other web sites not controlled by PublicEngines. Although we try to be careful in the selection of our strategic service and technology partners,
  we are not responsible for the privacy or security practices of any other web sites, and you acknowledge and agree that any use of such other web sites is entirely at your own risk. You should carefully review the privacy and security practices of the other
  web sites before you provide such web sites with any of your personal information.
 </li></ol>
-<p class="MsoNormal" style="text-autospace:none">&nbsp;</p>
+<p class="MsoNormal" style="text-autospace:none"> </p>
 <ol start="6" type="1" style="margin-top:0in">
 <li class="MsoNormal" style="text-autospace:none"><b>Disclosure of Your Information</b>.
 <ol start="1" type="a" style="margin-top:0in">
 <li class="MsoNormal" style="text-autospace:none"><b><span style="text-transform:uppercase">YOU AGREE THAT PUBLIC ENGINES MAY SHARE ANY AND ALL INFORMATION AND COMMUNICATIONS PUBLIC ENGINES COLLECTS FROM YOU IN CONNECTION WITH YOUR USE OF THE PUBLIC ENGINES
  SERVICES (OTHER THAN YOUR PASSWORD) WITH PARTICIPATING LAW ENFORCEMENT AGENCIES AND/OR PUBLIC SAFETY OFFICIALS FOR THE PURPOSES OF FACILITATING CITIZEN DIALOG, INFORMATION EXCHANGE, RESPONDING TO EMERGENCIES, AND OTHER OFFICIAL USES, AND YOU HEREBY CONSENT
- TO SUCH DISCLOSURES.&nbsp; IF YOU DO NOT WANT PUBLIC ENGINES TO DISCLOSE YOUR INFORMATION AS DESCRIBED ABOVE, PLEASE DO NOT USE ANY PUBLIC ENGINES SERVICES.&nbsp;
-</span></b></li><li class="MsoNormal" style="text-autospace:none">For certain Public Engines Services, some elements of User Information are made available to other users (e.g., if you publish information to your public profile); however, in such cases you will be able to
- choose different levels of privacy via your account settings (e.g., members in your neighborhood group may have different access levels than other users of the services).&nbsp; If you publish information to a forum (if a forum feature is made available by Public
- Engines), that information will be public. </li><li class="MsoNormal" style="text-autospace:none">We may share general activity information relating to use of the Public Engines Services by various users, to indicate to other users that such activities are taking place. For example, various features may
+ TO SUCH DISCLOSURES.  IF YOU DO NOT WANT PUBLIC ENGINES TO DISCLOSE YOUR INFORMATION AS DESCRIBED ABOVE, PLEASE DO NOT USE ANY PUBLIC ENGINES SERVICES. 
+</span></b></li><li class="MsoNormal" style="text-autospace:none">For certain PublicEngines Services, some elements of User Information are made available to other users (e.g., if you publish information to your public profile); however, in such cases you will be able to
+ choose different levels of privacy via your account settings (e.g., members in your neighborhood group may have different access levels than other users of the services).  If you publish information to a forum (if a forum feature is made available by Public
+ Engines), that information will be public. </li><li class="MsoNormal" style="text-autospace:none">We may share general activity information relating to use of the PublicEngines Services by various users, to indicate to other users that such activities are taking place. For example, various features may
  indicate to others (using first name, last initial) that you have signed up, joined a group, or earned a badge. Such features may also indicate an agency which has received an anonymous tip.
-</li><li class="MsoNormal" style="text-autospace:none">We may share your Information with third party service providers to provide you with the Public Engines Services; to conduct quality assurance testing; to facilitate creation of Accounts; or to provide technical
- support. These third party service providers are required not to use your Information other than to provide the services requested by Public Engines.&nbsp; You expressly consent to the sharing of your Information with our service providers for the sole purpose
+</li><li class="MsoNormal" style="text-autospace:none">We may share your Information with third party service providers to provide you with the PublicEngines Services; to conduct quality assurance testing; to facilitate creation of Accounts; or to provide technical
+ support. These third party service providers are required not to use your Information other than to provide the services requested by PublicEngines.  You expressly consent to the sharing of your Information with our service providers for the sole purpose
  of providing services to you. </li><li class="MsoNormal" style="text-autospace:none">We may disclose your Information when we have reason to believe that such disclosure is necessary to identify, contact or bring legal action against someone who may be causing injury to or interference with
- (either intentionally or unintentionally) our rights or property, customers or other users of the Public Engines Services, or anyone else who could be harmed by such activities, or is appropriate or necessary to enforce our rights, take precautions against
- liability, investigate and defend against any third-party claims or allegations, and/or protect the security or integrity of the Public Engines Site.
+ (either intentionally or unintentionally) our rights or property, customers or other users of the PublicEngines Services, or anyone else who could be harmed by such activities, or is appropriate or necessary to enforce our rights, take precautions against
+ liability, investigate and defend against any third-party claims or allegations, and/or protect the security or integrity of the PublicEngines Site.
 </li><li class="MsoNormal" style="text-autospace:none">We may disclose your Information to respond to judicial process and provide information to law enforcement agencies in connection with an investigation on matters related to public safety, as permitted by law,
  or otherwise as required by law, or in the good-faith belief that such action is necessary to comply with state and federal laws
 </li><li class="MsoNormal" style="text-autospace:none">We may disclose your Information with your consent.
-</li><li class="MsoNormal" style="text-autospace:none">We may share some or all of your Information with our Affiliates, in which case we will require our Affiliates to honor this Privacy Policy.&nbsp; "<u>Affiliates</u>" means a parent company, any subsidiaries, joint
- ventures, or other companies under a common control.&nbsp; </li><li class="MsoNormal" style="text-autospace:none">We may sell or buy other businesses or entities.&nbsp; In such event, we may transfer or assign the information we have collected as part of such merger, acquisition, sale, or other change of control to another company.&nbsp;
- In such transactions, your User Information may be included in the transferred business assets.&nbsp; Such company will assume the rights and obligations regarding your User Information as described in this Privacy Policy.&nbsp; You agree that we can accordingly assign,
+</li><li class="MsoNormal" style="text-autospace:none">We may share some or all of your Information with our Affiliates, in which case we will require our Affiliates to honor this Privacy Policy.  '<u>Affiliates</u>' means a parent company, any subsidiaries, joint
+ ventures, or other companies under a common control.  </li><li class="MsoNormal" style="text-autospace:none">We may sell or buy other businesses or entities.  In such event, we may transfer or assign the information we have collected as part of such merger, acquisition, sale, or other change of control to another company. 
+ In such transactions, your User Information may be included in the transferred business assets.  Such company will assume the rights and obligations regarding your User Information as described in this Privacy Policy.  You agree that we can accordingly assign,
  sell, license or transfer any information, including User Information, that you have provided to us to those third parties directly involved in the transfer or disposition of such assets.
 </li><li class="MsoNormal" style="text-autospace:none">Also, in the unlikely event of our bankruptcy, insolvency, reorganization, receivership, or assignment for the benefit of creditors, or the application of laws or equitable principles affecting creditors' rights
- generally, we may not be able to control how your User Information is treated, transferred, or used and your User Information may be included in the transferred assets.&nbsp;
+ generally, we may not be able to control how your User Information is treated, transferred, or used and your User Information may be included in the transferred assets. 
 </li><li class="MsoNormal" style="text-autospace:none">We may use your Usage Information to identify and develop products and services that may be of interest to you and we may send you information about special offers, products, services, programs, promotions,
  surveys, publications, invitations or other opportunities from ourselves or our Partners that may be of interest to certain demographic groups. We do not sell your User Information to third parties.
 </li></ol>
 </li></ol>
-<p class="MsoNormal" style="text-autospace:none">&nbsp;</p>
+<p class="MsoNormal" style="text-autospace:none"> </p>
 <ol start="7" type="1" style="margin-top:0in">
-<li class="MsoNormal" style="text-autospace:none"><b>Feedback; Removal from Contact List; Changing Information</b>.&nbsp; If you have a question or comment about the Public Engines Services, or wish to update your contact information or be removed from our contact
+<li class="MsoNormal" style="text-autospace:none"><b>Feedback; Removal from Contact List; Changing Information</b>.  If you have a question or comment about the PublicEngines Services, or wish to update your contact information or be removed from our contact
  list, please email us at <a href="mailto:webmaster@PublicEngines.com">
-webmaster@PublicEngines.com</a>.&nbsp; If you do not want to receive further promotional materials from us, simply contact us at the email address listed above or respond to the link in the mail you receive, and request to be removed from the contact list. Once
- we receive your request, we will use commercially reasonable efforts to remove your name from the contact list. If you wish to update any of your User Information and are unable to do so through the Public Engines Services, please contact us at such email
+webmaster@PublicEngines.com</a>.  If you do not want to receive further promotional materials from us, simply contact us at the email address listed above or respond to the link in the mail you receive, and request to be removed from the contact list. Once
+ we receive your request, we will use commercially reasonable efforts to remove your name from the contact list. If you wish to update any of your User Information and are unable to do so through the PublicEngines Services, please contact us at such email
  address, and we will use commercially reasonable efforts to update your contact information accordingly. Please be aware, however, even if we update your User Information in our contact list, or we remove such information, it may still be stored in other databases
- (including those kept for archival purposes) and may still be used to compile aggregated or demographic information for supply to third parties in accordance with this Privacy Policy.&nbsp; We may also be required to keep this information and not delete it (or
+ (including those kept for archival purposes) and may still be used to compile aggregated or demographic information for supply to third parties in accordance with this Privacy Policy.  We may also be required to keep this information and not delete it (or
  to keep this information for a certain time, in which case we will comply with your deletion request only after we have fulfilled such requirements).
 </li></ol>
-<p class="MsoNormal" style="margin-left:.5in; text-autospace:none">&nbsp;</p>
+<p class="MsoNormal" style="margin-left:.5in; text-autospace:none"> </p>
 <ol start="8" type="1" style="margin-top:0in">
-<li class="MsoNormal" style="text-autospace:none"><b>International Users</b>.&nbsp; By using the Public Engines Services, you agree and acknowledge that the Public Engines Services are hosted in the United States. If you are attempting to access the Public Engines
- Services from a physical location in any region with laws or regulations governing personal data collection, use, and disclosure that differ from United States laws, please be advised that through your continued use of the Public Engines Services, which is
+<li class="MsoNormal" style="text-autospace:none"><b>International Users</b>.  By using the PublicEngines Services, you agree and acknowledge that the PublicEngines Services are hosted in the United States. If you are attempting to access the PublicEngines
+ Services from a physical location in any region with laws or regulations governing personal data collection, use, and disclosure that differ from United States laws, please be advised that through your continued use of the PublicEngines Services, which is
  governed by U.S. law, this Privacy Policy, and the Terms of Service, you are transferring your User Information to the United States and you consent to the application of the laws of the United States and/or the State of Utah with respect to any dispute arising
- from or related to the Privacy Policy and/or your use of the Public Engines Services, other than such rules, regulations, case law, and/or international treaties that would result in the application of the laws of a jurisdiction other than the United States
- or the State of Utah, and the exclusive jurisdiction of the State of Utah, County of Salt Lake, USA<span style="color:#3C1A0F">.&nbsp;
+ from or related to the Privacy Policy and/or your use of the PublicEngines Services, other than such rules, regulations, case law, and/or international treaties that would result in the application of the laws of a jurisdiction other than the United States
+ or the State of Utah, and the exclusive jurisdiction of the State of Utah, County of Salt Lake, USA<span style="color:#3C1A0F">. 
 </span>YOU EXPRESSLY CONSENT TO PUBLIC ENGINES' PROCESSING OF YOUR PERSONAL INFORMATION IN ACCORDANCE WITH THIS PRIVACY POLICY. YOUR PERSONAL INFORMATION MAY BE PROCESSED BY PUBLIC ENGINES IN THE COUNTRY WHERE IT WAS COLLECTED AND IN THE UNITED STATES. UNITED
  STATES LAWS REGARDING PROCESSING OF PERSONAL INFORMATION MAY BE LESS STRINGENT THAN THE LAWS IN YOUR COUNTRY. IF YOU REPRESENT AN ORGANIZATION, YOU WILL BE RESPONSIBLE TO ENSURE THAT EACH MEMBER OF YOUR ORGANIZATION (INCLUDING EMPLOYEES AND CONTRACTORS) ABOUT
  WHOM PERSONAL INFORMATION MAY BE PROVIDED TO PUBLIC ENGINES HAS GIVEN HIS OR HER EXPRESS CONSENT TO PUBLIC ENGINES' PROCESSING OF SUCH PERSONAL INFORMATION.
 </li></ol>
-<p class="MsoNormal" style="margin-left:.25in; text-autospace:none">&nbsp;</p>
+<p class="MsoNormal" style="margin-left:.25in; text-autospace:none"> </p>
 <ol start="9" type="1" style="margin-top:0in">
-<li class="MsoNormal" style="text-autospace:none"><b><span style="text-transform:uppercase">Miscellaneous</span></b><span style="text-transform:uppercase">.&nbsp;
+<li class="MsoNormal" style="text-autospace:none"><b><span style="text-transform:uppercase">Miscellaneous</span></b><span style="text-transform:uppercase">. 
 </span>If any part of the Privacy Policy is determined to be invalid or unenforceable pursuant to applicable law, then the invalid or unenforceable provision will be deemed superseded by a valid, enforceable provision that most closely matches the intent of
  the original provision and the remainder of the Privacy Policy shall continue in force and effect.
 </li></ol>
-<p class="MsoNormal" style="margin-left:.5in; text-autospace:none">&nbsp;</p>
+<p class="MsoNormal" style="margin-left:.5in; text-autospace:none"> </p>
 <ol start="10" type="1" style="margin-top:0in">
 <li class="MsoNormal" style="text-autospace:none"><b><span style="text-transform:uppercase">Changes.
 </span></b>This Privacy Policy is subject to occasional revision, and if we make any substantial changes in the way we use your User Information, we will notify you by sending you an e-mail to the last e-mail address you provided to us and/or by prominently
- posting notice of the changes on our Public Engines Site.&nbsp; Any changes to this Privacy Policy will be effective upon the earlier of thirty (30) calendar days following our dispatch of an e-mail notice to you or thirty (30) calendar days following our posting
- of notice of the changes on our Public Engines Site.&nbsp; These changes will be effective immediately for new users of our Public Engines Services.&nbsp; Please note that at all times you are responsible for updating your User Information to provide us with your most
- current e-mail address.&nbsp; In the event that the last e-mail address that you have provided us is not valid, or for any reason is not capable of delivering to you the notice described above, our dispatch of the e-mail containing such notice will nonetheless
- constitute effective notice of the changes described in the notice.&nbsp; In any event, changes to this Privacy Policy may affect our use of User Information that you provided us prior to our notification to you of the changes.&nbsp; If you do not wish to permit changes
- in our use of your User Information, you must notify us prior to the effective date of the changes that you wish to deactivate your account with us.&nbsp; Continued use of our Public Engines Service, following notice of such changes shall indicate your acknowledgement
+ posting notice of the changes on our PublicEngines Site.  Any changes to this Privacy Policy will be effective upon the earlier of thirty (30) calendar days following our dispatch of an e-mail notice to you or thirty (30) calendar days following our posting
+ of notice of the changes on our PublicEngines Site.  These changes will be effective immediately for new users of our PublicEngines Services.  Please note that at all times you are responsible for updating your User Information to provide us with your most
+ current e-mail address.  In the event that the last e-mail address that you have provided us is not valid, or for any reason is not capable of delivering to you the notice described above, our dispatch of the e-mail containing such notice will nonetheless
+ constitute effective notice of the changes described in the notice.  In any event, changes to this Privacy Policy may affect our use of User Information that you provided us prior to our notification to you of the changes.  If you do not wish to permit changes
+ in our use of your User Information, you must notify us prior to the effective date of the changes that you wish to deactivate your account with us.  Continued use of our PublicEngines Service, following notice of such changes shall indicate your acknowledgement
  of such changes and agreement to be bound by the terms and conditions of such changes.
 </li></ol>
-<p class="MsoListParagraph">&nbsp;</p>
-<span style="font-size:10.0pt; font-family:&quot;Arial&quot;,&quot;sans-serif&quot;; color:#404040"><br clear="all" style="page-break-before:always">
-</span>
-</div>
-
-        
-          </div>
-          <table width="100%" style="border: 0; border-collapse: collapse;">
-	<tbody><tr style="background-color: white;">
-		<td style="text-align: left;"><img src="/images/corner_white_bl.gif" style="border=0;"></td>
-		<td style="text-align: right;"><img src="/images/corner_white_br.gif" style="border=0;"></td>
-	</tr>
-</tbody></table>
-
-        
-        </div>
-        
-
-
-  <div id="footer">
-    <div class="footerBlock" style="font-size: 11px; padding: 0px;">
-      <div style="float: left; padding: 7px 0px;">
-        <a href="/home/about">About Us</a> |
-        <a href="/home/contact">Contact Us</a> |
-        <a href="/home/law_enforcement_tools">Law Enforcement Tools</a> |
-        <a href="/home/iphone_app">iPhone App</a> |
-        <a href="/press/headlines">Press</a> |
-        <a href="/faq">FAQ</a> |
-        <a href="/legal/privacy">Privacy Policy</a> |
-        <a href="/home/terms">Terms of Use</a> |
-        <a href="/home/disclaimer">Disclaimer</a>
       </div>
-      <div style="float: right; padding: 5px 0px;">
-        <a title="Follow on Facebook" target="_blank" href="http://www.facebook.com/pages/Salt-Lake-City-UT/CrimeReportscom/61084693755?ref=ts" style="margin-left: 2px;"><img src="/images/social/FaceBook.png"></a>
-        <a title="Follow on Twitter" target="_blank" href="http://twitter.com/crimereports" style="margin-left: 2px;"><img src="/images/social/Twitter.png"></a>
-        <a title="Stumble It" target="_blank" href="http://www.stumbleupon.com/submit?url=crimereports.com" style="margin-left: 2px;"><img src="/images/social/StumbleUpon.png"></a>
-        <a title="Digg It" target="_blank" href="http://digg.com/submit?url=crimereports.com&amp;title=CrimeReports&amp;bodytext=Search crime in your neighborhood on the largest, most-comprehensive, crime-mapping service in the world.&amp;media=MEDIA&amp;topic=CrimeReports" style="margin-left: 2px;"><img src="/images/social/Digg.png"></a>
-        <a title="YouTube" target="_blank" href="http://www.youtube.com/user/CrimeReportsVideos" style="margin-left: 2px;"><img src="/images/social/YouTube.png"></a>
-      </div>
-      <div style="float: right; padding: 7px 7px;">©2010 Public Engines, Inc.  All Rights Reserved.</div>
     </div>
+    <div class="clear"></div>
+    
+<div style="display: none">
+  <div class="blackOut" style="position:fixed; z-index:500; top:0; background-color:#000000; width:100%; height:100%; display:none; filter:alpha(opacity=0); -moz-opacity:0.0; -khtml-opacity:0.0; opacity:0.0" align="center"></div>
+  <!--<div class="usbFadeVid" style="position:fixed; z-index:501; top:0; width:100%; height:100%; display:none; filter:alpha(opacity=0); -moz-opacity:0.0; -khtml-opacity:0.0; opacity:0.0" align="center">
+    <table border="0" width="640" cellspacing="0" cellpadding="0" align="center" style="margin-top:130px">
+      <tr>
+        <td align="right"><p style="margin:0; padding:5px"><a href="#" class="usbVidClose" style="text-decoration:none; color:#FFFFFF">(X) Close</a></p></td>
+      </tr>
+      <tr>
+        <td style="background-color:#000000; border:2px solid #999999" id="usbVidPlayer">
+          <object width="640" height="360">
+            <param name="movie" value="" id="param1"></param>
+            <param name="allowFullScreen" value="true"></param>
+            <param name="allowscriptaccess" value="always"></param>
+            <embed src="" type="application/x-shockwave-flash" width="640" height="360" allowscriptaccess="always" allowfullscreen="true" id="embed1"></embed>
+          </object>
+        </td>
+      </tr>
+    </table>
+  </div>-->
+  
+  <div id="footerVideo" class="modal-wrap login-mod">
+    <div id="footerVideoClose" onclick="footerCloseVideo()">(X) Close</div>
+    <object width="640" height="360">
+      <param name="movie" value="" id="param1">
+      <param name="allowFullScreen" value="true">
+      <param name="allowscriptaccess" value="always">
+      <embed src="" type="application/x-shockwave-flash" width="640" height="360" allowscriptaccess="always" allowfullscreen="true" id="embed1">
+    </object>
+  </div>
+  <div id="footerFormIframe" class="modal-wrap login-mod">
+    <div id="footerClose"><img onclick="footerCloseForm()" src="/assets/btn-close-034ecd0538b58151fb1fa174962c37e0.png" width="16" height="16"></div>
+    <iframe src="" width="100%" height="500" type="text/html" frameborder="0" allowtransparency="true" style="border: 0" id="frame1"></iframe>
+  </div>
+</div>
+<!--
+<div class="formFade" style="position:fixed; z-index:501; top:0; width:100%; height:100%; display:none; filter:alpha(opacity=0); -moz-opacity:0.0; -khtml-opacity:0.0; opacity:0.0" align="center">
+  <table border="0" width="500" cellspacing="0" cellpadding="0" align="center" style="margin-top:80px">
+    <tr>
+      <td align="right"><p style="margin:0; padding:5px"><a href="#" class="formClose" style="text-decoration:none; color:#FFFFFF">(X) Close</a></p></td>
+    </tr>
+    <tr>
+      <td style="background-color:#F0F5FB; border:2px solid #054E83; -moz-border-radius:8px; -webkit-border-radius:8px; border-radius:8px;">
+        <iframe src="" width="100%" height="500" type="text/html" frameborder="0" allowTransparency="true" style="border: 0" id="frame1"></iframe>
+      </td>
+    </tr>
+  </table>
+</div>
+-->
+        
+  <div class="footer" align="center">
+    <div class="footerSocial">
+      <a href="http://www.youtube.com/user/CrimeReportsVideos" target="_blank"><img src="/assets/social_youtube_gray-538a3b825909d6d46b53e2b2a62bdf33.png" width="26" height="26" border="0" alt="Follow Us on YouTube"><br>YouTube</a>
+      <a href="http://twitter.com/crimereports" target="_blank"><img src="/assets/social_twitter_gray-c8ca746a2e34264cd8504426a770fd19.png" width="26" height="26" border="0" alt="Follow Us on Twitter"><br>Twitter</a>
+      <a href="http://www.linkedin.com/company/public-engines" target="_blank"><img src="/assets/social_linkedin_gray-82109832b92a6fa9120575d3fe77fddc.png" width="26" height="26" border="0" alt="Follow Us on LinkedIn"><br>LinkedIn</a>
+      <a href="http://www.facebook.com/CrimeReports" target="_blank"><img src="/assets/social_facebook_gray-4c0aa966afd3e083f537097e5fd90db8.png" width="26" height="26" border="0" alt="Follow Us on Facebook"><br>Facebook</a>
+    </div>
+    <ul style="margin-right:30px">
+      <li><img src="/assets/public_engines_footer_logo-99666711ea54e5820e91833d106f2c74.png" width="140" height="48" border="0" alt="PublicEngines"></li>
+    </ul>
+    <ul>
+      <li><b>Products</b></li>
+      <li><a href="http://www.publicengines.com/products/crimereports.php" target="_blank">CrimeReports</a></li>
+      <li><a href="http://www.publicengines.com/products/commandcentral.php" target="_blank">CommandCentral</a></li>
+      <li><a href="http://www.publicengines.com/products/tipsoft.php" target="_blank">TipSoft</a></li>
+      <li><a href="http://www.publicengines.com/products/cityconnect.php" target="_blank">CityConnect</a></li>
+    </ul>
+    <ul style="margin-right:30px">
+      <li><b>Mobile</b></li>
+      <li><a href="/footer/iphone_app">iPhone</a></li>
+    </ul>
+    <ul>
+      <li><b>Company</b></li>
+      <li><a href="/footer/about">About</a></li>
+      <li><a href="http://www.publicengines.com/company/contact.php">Contact</a></li>
+      <li><a href="http://www.publicengines.com/company/press.php" target="_blank">Press</a></li>
+      <li><a href="http://www.publicengines.com/resources/testimonials.php" target="_blank">Customer Testimonials</a></li>
+    </ul>
+    <ul>
+      <li><b>Legal</b></li>
+      <li><a href="/footer/privacy">Privacy</a></li>
+      <li><a href="/footer/terms">Terms of Use</a></li>
+      <li><a href="/footer/disclaimer">Disclaimer</a></li>
+    </ul>
+    <div class="clear"></div>
+    <div class="v2link">Looking for the previous version of CrimeReports? Access it <a href="/home">here</a></div>
   </div>
 
 
+        <!-- US -->
       </div>
-    
-	
+     </div> 
+  
 
 </body></html>
