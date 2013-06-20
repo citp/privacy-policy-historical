@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the bjs.com privacy policy that was archived on 2012-10-10.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121010081739id_/http%3A//www.bjs.com/privacy-policy.content.about_privacy.A.about) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the bjs.com privacy policy that was archived on 2013-06-20.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130620162926id_/http%3A//www.bjs.com/privacy-policy.content.about_privacy.A.about) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html class="dj_khtml dj_safari"><head>
 		<title>Privacy Policy - BJ's Wholesale Club</title>
@@ -69,9 +69,11 @@
 </tbody></table>
 
 <!-- Layout enclosing table --><!--Header--><!-- BEGIN HeaderDisplay.jspf --><!-- Start - JSP File name:  style1/CachedHeaderDisplay.jsp -->
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+
 
 <script>if(top.location.host!=self.location.host)window.location="GenericError.jsp"</script>
-<!--sr-2--><!-- BEGIN CommonJSToInclude.jspf -->
+<!--sr-3--><!-- BEGIN CommonJSToInclude.jspf -->
 
 <script type="text/javascript">
 dojo.registerModulePath("wc", "../wc");
@@ -149,6 +151,20 @@ var h_w = window;
 
 
 <!-- SiteTagging End -->
+
+<link href="/wcsstore/BJs/css/mini.css" rel="stylesheet" type="text/css">
+
+<!--[if IE 7]>
+	<link rel="stylesheet" type="text/css" href="/wcsstore/BJs/css/ie7.css">
+<![endif]-->
+<!--[if IE 8]>
+	<link rel="stylesheet" type="text/css" href="/wcsstore/BJs/css/ie8.css">
+<![endif]-->
+<!--[if IE 9]>
+	<link rel="stylesheet" type="text/css" href="/wcsstore/BJs/css/ie9.css">
+<![endif]-->
+
+
 
 <script type="text/javascript">
 <!-- <![CDATA[
@@ -236,7 +252,6 @@ function createCookie(name,value,days) {
 	else var expires = "";
 	document.cookie = name+"="+value+expires+"; path=/";
 }
-
 function createSessionCookie(name,value) {
 	createCookie(name,value,'');
 }
@@ -249,8 +264,7 @@ function readCookie(name) {
 		while (c.charAt(0)==' ') c = c.substring(1,c.length);
 		if (c.indexOf(nameEQ) == 0) return c.substring(nameEQ.length,c.length);
 	}
-	return null;
-	
+	return null;	
 }
 
 function eraseCookie(name) {
@@ -369,12 +383,6 @@ function openFAQs(url, name) {
 function openHelp(url, name) {
 	return openReSizableWindow(url, 1024, 512, name);
 }
-function addScOpenEvent(){
-		
-	}
-	
-
-
 
 </script>
 
@@ -402,6 +410,7 @@ function addScOpenEvent(){
 
 		//Declare a variable to track the add to cart action - CQ 2710
 		var updateQuantityInProgress = false;
+		this.pointer     = null;    
 		
 		//Declare a variable to track the remove from cart action - CQ 2710
 		var removeFromCartInProgress= false;
@@ -427,6 +436,9 @@ function addScOpenEvent(){
 		
 		function updateQuantityFromCart(quantityBox, orderItemId, quantity,statusCount, elevenPlusValue, supplierData,catEntryId) {
 		
+		    var cvr1 = document.getElementById('typeAheadList');	
+     		cvr1.style.display ="none";	
+		     
 			//Check if a request is already in progress. If not, allow this request to proceed.
 			if(!updateQuantityInProgress){
 				
@@ -483,6 +495,10 @@ function addScOpenEvent(){
 		}
 
 		function deleteFromCart(boxNumber, orderItemId,lineItemType,catEntryId) {
+		    
+		    var cvr1 = document.getElementById('typeAheadList');	
+		    cvr1.style.display ="none";	
+		    
 			//Check if a request is already in progress. If not, allow this request to proceed.
 			if(!removeFromCartInProgress){
 				
@@ -622,12 +638,15 @@ wc.render.declareRefreshController({
 					//check if it is first item is added to cart and add scOpen event
 					if(message.orderItemId[0]){
 						//add cookie
-						createSessionCookie('isScOpenEventAdded','yes');
-						addScOpenEvent();
+						//createSessionCookie('isScOpenEventAdded','yes');						
 					}
 				}
 	    }
-	    widget.refresh(param);
+	    
+	    // Added for 3009 - Removing MiniShopCartDisplayURL while adding item to wish list
+	    if (message.actionId != 'AjaxInterestItemAdd' && message.actionId != 'AjaxInterestItemDelete') {
+	    	widget.refresh(param);
+	    }
 	}
 
 	,postRefreshHandler: function(widget) {
@@ -642,7 +661,7 @@ wc.render.declareRefreshController({
         */
 		var controller = this;
         var renderContext = this.renderContext;
-
+        
         //The dialog contents has changed..so destroy the old dialog with stale data..
         destroyDialog();
 		//fix for 2567
@@ -735,14 +754,78 @@ wc.render.declareRefreshController({
   
 <script type="text/javascript">
       
+    var myVar=null;
+    function myresetFunction()
+    {
+       clearTimeout(myVar);
+       myVar=setTimeout(function(){},1000);
+    }
+	
+
+	function toggleBox(szDivID, iState) // 1 visible, 0 hidden
+	{
+					var obj = document.layers ? document.layers[szDivID] :
+					document.getElementById ?  document.getElementById(szDivID).style :
+					document.all[szDivID].style;
+					obj.visibility = document.layers ? (iState ? "show" : "hide") : (iState ? "visible" : "hidden");
+					obj.display =(iState ? "block" : "none");
+	}   
+	
+	
+	
+	function toggleBoxForTab(e){
+		var keynum = 0;
+		
+		if(window.event) { keynum = e.keyCode; }  
+		else if(e.which) { keynum = e.which; }   
+	      if(keynum == '9'){             
+	                toggleBox('typeAheadList',0); 
+	      }   
+	      if(keynum == '38'){
+	      		this.selectList(-1);
+	      }
+	      
+	      if(keynum == '40'){
+	      	this.selectList(1);
+	      }
+	      
+	      if(keynum == '13'){	      	
+	      	document.getElementById('originalSearchKeywords').value = document.getElementById('typeAheadAnc_'+this.pointer).innerHTML;
+	      	
+	      }
+	      
+	      this.selectList=function(inc){	
+	      		var list=document.getElementById('typeAhead');
+	      		var listLen = list.getElementsByTagName('li').length;
+	      		
+	      		if(this.pointer >= listLen || this.pointer < 0){
+	      			this.pointer = null;
+	      		}
+	      			   
+	      		         								                  
+                if( this.pointer != null && this.pointer+inc >= 0  ) { 
+                    document.getElementById('typeAheadAnc_'+this.pointer).className = '';            
+                    this.pointer += inc;            
+                    document.getElementById('typeAheadAnc_'+this.pointer).className = 'keyAction';            
+                    
+                }
+                if( this.pointer == null ) {            
+                    this.pointer = 0;                                
+                    document.getElementById('typeAheadAnc_'+this.pointer).className = 'keyAction';                                
+                }    
+	}
+      }
+      
+      
+      
+      
 	function submitSearchForm() {
 	    
-		var str = new String(document.getElementById('originalSearchKeywords').value);  
-		var cookieSearchKeywords="cookieSearchKeywords";
-		createSessionCookie(cookieSearchKeywords,str);	
-		str = str.replace(/^\s+|\s+$/g,'');		
-		
-		if (str !='') {			
+        /* CQ 3095 for sending original keyword to Coremetrics, 
+        cookie gets created in ActionClass for originalSearchKeywords */ 	
+		var str = document.getElementById('originalSearchKeywords').value;
+        str = str.replace(/^\s+|\s+$/g,'');		
+		if (str !='' && str !='keyword(s) or item #') {			
 			var strUpper= str.toUpperCase();		
 			var inputSearch=strUpper.split(" ");			
 			var strSorted =inputSearch.sort();		
@@ -754,6 +837,122 @@ wc.render.declareRefreshController({
 			alert('Please enter a search term.');
 		}
 	}
+	function typeAheadLookup(textBox,storeId,catalogId,langId,e) {
+		var code = e.keyCode ? e.keyCode : e.which;
+		if(code != '38' && code != '40' && code != '13'){
+		var skuTextBoxObject = textBox;
+		var textBoxValue = skuTextBoxObject.value;
+        var params = [];
+        var yy=' ';
+        params["storeId"]=storeId;
+        params["catalogId"]=catalogId;
+        params["langId"]=langId;
+		if(textBox.value != '' && textBox.value.length > 2) {
+		  //check timer if greater than 1000 ms
+		  yy=textBox.value.charAt(textBox.value.length-1);
+		  if(yy == ' '){
+		    //myresetFunction();
+		    return false;
+		   }
+         params["typeAheadStart"]=textBox.value;
+		 document.onmousedown=function(e){
+		 	e = e || window.event;		 	
+      		var elementId = (e.target || e.srcElement).id; 
+   			if(elementId.substring(0,12) != 'typeAheadAnc'){	     		
+            	toggleBox('typeAheadList',0); 
+            }
+	      };
+		  callTypeAheadAjax(params);
+		  }else{
+		   if(textBox.value == '' || textBox.value.length < 3){
+		     toggleBox('typeAheadList',0);
+		   }
+		 }
+		  //myresetFunction();
+		  
+		}
+		}
+		
+		/*** TypeAhead Lookup Ajax Call  ***/
+	function callTypeAheadAjax(paramVal){
+		var actionUrl = "/webapp/wcs/stores/servlet/BJsTypeAheadSearch" ;
+		dojo.xhrGet({
+			url: actionUrl,				
+			handleAs: "text",
+			content: paramVal,
+			//service: this,
+			load: function(data){
+				console.debug("AJAX call successful");
+				console.debug(data);
+				populateSearchListCallback(data);	
+                        },
+			error: function(errObj,ioArgs) {
+				 console.debug("Unexpected error occurred during an xhrPost request.");
+			}
+		});
+       }
+	 var numInSearchListArray = 0;
+	 var searchList = new Array(); 
+     
+     function trimString(sInString) {
+		sInString = sInString.replace( /^\s+/g, "" );// strip leading
+		return sInString.replace( /\s+$/g, "" );// strip trailing
+	 }
+     
+	 function populateSearchListCallback(text) { 
+       		searchList = new Array(); // destroy the old array and build a new one
+       		numInSearchListArray = 0;
+       		
+       		var lastIndex = 0;
+       		for (var c = 0; c < text.length; c++) {
+       			if (text.charAt(c).indexOf(",") != -1) {
+       				if (lastIndex > 0) {
+       					searchList[numInSearchListArray++] = trimString(text.substring(lastIndex,c));
+       				}
+       				lastIndex = c+1;
+       			}
+       		}
+       		if(lastIndex > 3){
+       		  document.getElementById("typeAheadList").innerHTML=drawOutput(0);
+       		    toggleBox('typeAheadList',1);
+       		 }
+       		else{
+       		  toggleBox('typeAheadList',0);
+       		}
+       }
+    // Private method to help in drawing the drop down of keyword matches
+	function drawOutput(startValue) {
+        var outputText='<ul id="typeAhead" class=\"dropdownList\">';
+		var numDisplayed = 0;
+		var startElement = 0;
+		for (var x = startValue; x < numInSearchListArray ; x++) {
+			var num = searchList[x];
+                outputText+='<li>'; 
+      			outputText+='<a id="typeAheadAnc_'+x+'" href="#" onclick=\"javascript:doSearch(\''+num+'\')\" onkeypress=\"javascript:ifEnterPressed(event,\''+num+'\')\" );">';
+      			outputText+=num;
+      			outputText+='</a>';
+		    	outputText+='</li>';
+				numDisplayed ++;
+			
+		}
+		outputText+='</ul>';
+		return outputText;
+	}
+	
+	function doSearch(selectStr){
+     dojo.byId('originalSearchKeywords').value=selectStr;
+     dojo.byId('tASearch').value='Y';
+	 submitSearchForm();
+	}
+	
+	function ifEnterPressed(e,selectStr){
+            if (e.keyCode == '13') { 
+		
+                 dojo.byId('originalSearchKeywords').value=selectStr;
+                  submitSearchForm();
+           }
+      }
+
 </script>
 
 <!--  start of header  -->
@@ -761,7 +960,7 @@ wc.render.declareRefreshController({
 	<!---->
 <div id="logo">
 	<a href="/"> 
-		<img src="/wcsstore/BJs/images/BJs_logo.gif" alt="BJ's Wholesale Club" border="0"> 
+		<img src="/wcsstore/BJs/images/transparent.gif" class="bjsFtSprit bjsLogo" alt="BJ's Wholesale Club" border="0"> 
 	</a>
 </div>
 <div id="SiteTagDiv"></div>	
@@ -776,7 +975,7 @@ wc.render.declareRefreshController({
 		 populateLatLong(form, zipCode);
 	}
 	function whatIsThisWindow() {
-		var urlLocation = '/webapp/wcs/stores/servlet/BjsContentPopUpView?langId=-1&amp;storeId=10201&amp;catalogId=10201&amp;titleName=Associate+Membership+%23+to+Online+Registration';
+		var urlLocation = '/webapp/wcs/stores/servlet/BjsContentPopUpView?langId=-1&amp;storeId=10201&amp;catalogId=&amp;titleName=Associate+Membership+%23+to+Online+Registration';
 		window.open(urlLocation, "mywindow", "status=1,scrollbars=1,resizable=1,width=470,height=240");
 	}
 </script>
@@ -785,7 +984,7 @@ wc.render.declareRefreshController({
 		 
 			       <a href="/info.aboutmembership.options"> Membership</a> | 
 		<!-- BEGIN UserDisplayParams.jsp -->
-<a href="/webapp/wcs/stores/servlet/LogonForm?langId=-1&amp;storeId=10201&amp;catalogId=10201&amp;logonReturnURL=%2fprivacy-policy.content.about_privacy.A.about&amp;logonReturnURL=%2fcheckered-coca-cola-barstool.product.185617">Sign In/Register</a>
+<a href="/webapp/wcs/stores/servlet/LogonForm?langId=-1&amp;storeId=10201&amp;catalogId=10201&amp;logonReturnURL=%2fprivacy-policy.content.about_privacy.A.about&amp;logonReturnURL=%2fwebapp%2fwcs%2fstores%2fservlet%2fLocatorMapDirectionsView%3fstoreId%3d10201%26catalogId%3d%26langId%3d-1%26locationId%3d359">Sign In/Register</a>
 <!-- END UserDisplayParams.jsp -->
 		</div>
 	<!-- 2298-Abandon cart fix for nonmember regn and emailoptions update -->
@@ -801,8 +1000,8 @@ wc.render.declareRefreshController({
 	
 	<li dojotype="wc.widget.RefreshArea" border="1" id="wishList" widgetid="wishList" controllerid="wishListController">
 		
-		<a href="/webapp/wcs/stores/servlet/InterestItemDisplay?storeId=10201&amp;catalogId=10201&amp;langId=-1&amp;listId=." id="wishListLink">wish list
-		   <img src="/wcsstore/BJs/images/icon_check_mark.gif" align="middle" class="cart-img-align">
+		<a href="/webapp/wcs/stores/servlet/InterestItemDisplay?storeId=10201&amp;catalogId=&amp;langId=-1&amp;listId=." id="wishListLink">wish list
+		   <img src="/wcsstore/BJs/images/transparent.gif" align="middle" class="bjsFtSprit checkLogo cart-img-align">
 		
 				(0)
 			
@@ -820,147 +1019,103 @@ wc.render.declareRefreshController({
 	
 	<li dojotype="wc.widget.RefreshArea" border="1" id="MiniShoppingCart" widgetid="MiniShoppingCart" controllerid="miniShoppingCartController" role="wairole:region" waistate:live="polite" waistate:atomic="true" waistate:relevant="all">
 		
-	<input type="hidden" value="{0}" id="miniShopCartTotalData">
+		
+
+<script language="javascript">
+function errorHandler(id,newloc){
+	 var tx = document.getElementById(id);
+	 tx.src=newloc;	 
+	}
+</script>
+
+
+		
+
+
+<script language="javascript">
+
+function goToHomePage(){
+	document.location.href = '/';
+}
+function goToShoppingCart(){
+	document.location.href = '/webapp/wcs/stores/servlet/ViewCart?langId=-1&storeId=10201&catalogId=&continueURL=%2fwebapp%2fwcs%2fstores%2fservlet%2fCouponsDisplayView%3fstoreId%3d10201%26catalogId%3d%26langId%3d-1&orderId=.';
+}
+
+</script>
+
+
+	<input type="hidden" value="0" id="miniShopCartTotalData">
 <!-- Mark the position..will show our dialog here --> 
 <div id="placeHolder"></div>
 	
 
 <div>
-	<!--<span class="cart-btn"><a href="/webapp/wcs/stores/servlet/OrderItemDisplay?langId=-1&amp;storeId=10201&amp;catalogId=10201"><img src="/wcsstore/BJs/images/icon-cart.gif" alt="Cart" align="top" class="cart-img-align"/></a></span>
+	<!--<span class="cart-btn"><a href="/webapp/wcs/stores/servlet/ViewCart?langId=-1&amp;storeId=10201&amp;catalogId=&amp;continueURL=%2fwebapp%2fwcs%2fstores%2fservlet%2fCouponsDisplayView%3fstoreId%3d10201%26catalogId%3d%26langId%3d-1&amp;orderId=."><img src="/wcsstore/BJs/images/icon-cart.gif" alt="Cart" align="top" class="cart-img-align"/></a></span>
 	-->
-	<a href="/webapp/wcs/stores/servlet/OrderItemDisplay?langId=-1&amp;storeId=10201&amp;catalogId=10201" class="topLinks" style="margin-right: 0px;">
-		cart&nbsp;
-		<img src="/wcsstore/BJs/images/icon_shopping_cart.gif" alt="Cart" align="top" class="cart-img-align">
+	<a href="/webapp/wcs/stores/servlet/ViewCart?langId=-1&amp;storeId=10201&amp;catalogId=&amp;continueURL=%2fwebapp%2fwcs%2fstores%2fservlet%2fCouponsDisplayView%3fstoreId%3d10201%26catalogId%3d%26langId%3d-1&amp;orderId=." title="cart" id="thenode">
+		cart&nbsp;		
+		<img src="/wcsstore/BJs/images/order/transparent.gif" alt="Cart" border="0" align="absbottom" class="bjsSprit cartIcon">
+
 		
 				(0)
 			
 	</a> 
-	<!--<a href="/webapp/wcs/stores/servlet/OrderItemDisplay?langId=-1&amp;storeId=10201&amp;catalogId=10201" style="margin-right: 0px;" class="topLinks" id="miniCartTotals">{0}</a>
---></div>
-
-<div id="quick_cart_container" style="position:absolute;display:none;">
-	<div id="quick_cart">  
-		<div class="container" id="WC_MiniShopCartDisplay_div_1"> 
-			<div id="MiniShopCartProductsList" style="display:none;">
-				
-<table width="324" cellspacing="0" cellpadding="0" border="0">
-<tbody>
-<tr>
-<td>
-	<table width="100%" cellspacing="0" cellpadding="0" border="0" class="general-backcolor">
-	<tbody><tr>
-	<td width="290" class="largeBoldTxt PaddingBottomSmall PaddingLeftLarge PaddingTopSmall">
-		<!--<a href="/webapp/wcs/stores/servlet/OrderItemDisplay?langId=-1&amp;storeId=10201&amp;catalogId=10001"><img src="/wcsstore/Westons/images/colors/color7/nav/btn_view_cart.gif" alt="Cart" align="top"></a> -->
-		Shopping Cart
-	</td>
-	<td width="6" rowspan="10" align="right" valign="top">
-		<img src="/wcsstore/BJs/images/icon-x.gif" alt="Close" style="cursor:pointer" class="PaddingTopSmall PaddingRightSmall" onclick="hideElementById('MiniShopCartProductsList');">
-	</td>
-	</tr>
-
-	<tr>
-	<td class="miniBorder" colspan="2">
-	<div id="miniShopCart">
-
-	<form name="MiniShoppingCartForm" id="MiniShoppingCartForm" action="">
-
-			<input type="hidden" name="totalitemincart" value="">
-
-		<table cellspacing="0" cellpadding="0" border="0" width="100%">
-		<tbody><tr>
-		<td class="BordersGrayBottom PaddingTopMedium PaddingBottomMedium PaddingLeftLarge PaddingRightLarge" valign="top">
-			<div class="popupproductlist_add">
-			
-			 	<div id="miniShopCartEmpty" style="display:none;"><br>Your shopping cart is empty.<br><br></div>
-			 <!-- {/if} -->
-			</div>
-		</td>
-		</tr>
-		</tbody></table>
-	</form>
-
-	</div>
-	</td>
-	</tr>
 	
-	</tbody></table>
-</td>
-</tr>
-</tbody>
-</table>
-								
-			</div>
-	
-			<div id="MiniShopCartRecentlyAdded" style="display:none;">
-				
-	<div role="dialog" dojoattachpoint="titleBar" class="dijitDialogTitleBar" tabindex="0" wairole="dialog">
-	<span style="display: none; visibility: hidden;" dojoattachpoint="titleNode" class="dijitDialogTitle"></span>
-	<span style="display: none; visibility: hidden;" dojoattachpoint="closeButtonNode" class="dijitDialogCloseIcon" dojoattachevent="onclick: hide">
-		<span style="display: none; visibility: hidden;" dojoattachpoint="closeText" class="closeText">x</span>
-	</span>
-	</div>
-	<div dojoattachpoint="containerNode">
-	<div id="quick_cart">
-		<div class="container" id="WC_MiniShopCartDisplay_div_1">
+</div>
+
+
+
+<div id="quick_cart_container" class="hide padBtm25px">
+<div id="quick_cart">  
+	<div class="container" id="WC_MiniShopCartDisplay_div_1"> 
+	<div id="MiniShopCartProductsList" style="display:none;">
+
+	<div class="minicartbg padTop5px padBtm2px padRt5px">
+    	<a href="#" title="Close" class="float-right" id="closeMiniCart"><img src="/wcsstore/BJs/images/order/close.png" border="0" alt="Close" title="Close"></a>
+        <div class="clear"></div>
+    </div>
+    <div class="padAll10px">
+    	<h6>Shopping Cart</h6>
+        <div class="padTop2px padTop8px float-left wid45">
+        	<span class="float-left mrgTop2px"><img src="/wcsstore/BJs/images/transparent.gif" border="0" align="absbottom" class="bjsSprit cartIcon"></span> <span class="float-left"><span class="float-left mrgRt3px">0</span>Item(s) in cart</span>
+        </div>
+        <div class="float-right">
+        	<input type="button" class="btnClass" href="/webapp/wcs/stores/servlet/ViewCart?langId=-1&amp;storeId=10201&amp;catalogId=&amp;continueURL=%2fwebapp%2fwcs%2fstores%2fservlet%2fCouponsDisplayView%3fstoreId%3d10201%26catalogId%3d%26langId%3d-1&amp;orderId=." value="Cart Details" title="Cart Details">
+        </div>
+        <div class="clear"></div>
+      
+        <form name="MiniShoppingCartForm" id="MiniShoppingCartForm" action="">
+
+			<input type="hidden" name="totalitemincart" value="0">
+			 <input type="hidden" name="totalMerchItemsInCart" value="0">
+			 <input type="hidden" id="numItems" name="numItem" value="0">
+        	
+			 <div class="brdTopSld mrgTop5px brdBtmSld minicartScroll">
+			 	  <div class="wid100 grey_bgr padTop5px padBtm5px">  <p class="txtCtrAlign red_txt txt_italic">Your shopping cart is empty.</p></div>
+			 </div>
+			 
+   </form></div>
+   </div>
+   </div>
+   </div>
+</div>
 		
-			<div id="MiniShopCartRecentlyAdded" style="display: block;">
-	
-<div id="inlineCartContainer">
-	<table border="0" cellpadding="0" cellspacing="0" width="324" class="general-backcolor miniShopCartTitle">
-	<tbody><tr>
- 		<td class="BordersGrayBottom largeBoldTxt PaddingBottomSmall PaddingLeftLarge PaddingTopSmall">Added to Shopping Cart:</td>
- 		<td class="BordersGrayBottom PaddingBottomSmall" valign="top"><div align="right"><img src="/wcsstore/BJs/images/icon-x.gif" alt="Close" class="PaddingTopSmall PaddingRightSmall" style="cursor: pointer;" onclick="hideElementById('MiniShopCartRecentlyAdded');"></div></td>
-	</tr>
-		<tr>
-					<td colspan="2" class="BordersGrayBottom PaddingTopMedium PaddingBottomMedium PaddingLeftLarge PaddingRightLarge" valign="top">
-
-						<div class="popupproductlist_add">
-								 
-							
-
-							
-
-						</div>
-
-		    		</td>	
-				</tr>
-			
-			
-	
-				
-								
-
-	<tr>
-		<td></td>
-	</tr>
-
-
-	
-	</tbody></table>
-</div>
-			</div>
-		</div>
-	</div>          		 	
-</div>
-	<span dojoattachpoint="tabEnd" dojoattachevent="onfocus:_cycleFocus" tabindex="0"></span>
-
-
-			</div>
-		</div>
-	</div>          		 	
-</div>
+		
 	</li>
 	
 	<script type="text/javascript">
 		// displays the mini shopping cart dropdown
 		function displayShoppingCart(event) {
-			showMiniShopCartDropDown(event,'placeHolder','quick_cart_container','orderItemsList');
+		    toggleBox('typeAheadList',0);
+		    showMiniShopCartDropDown(event,'placeHolder','quick_cart_container','orderItemsList');
 		}
 		
 		dojo.addOnLoad(function() {
 			// only allow mini shopping cart to display after the page has completely loaded, otherwise
 			// there's a possibility of an 'Operation Aborted' error in IE.
 			dojo.byId("MiniShoppingCart").onmouseover = displayShoppingCart;
+			
+			
 		});
 	</script>
 	
@@ -973,12 +1128,15 @@ wc.render.declareRefreshController({
 
 	
 	<li class="last"><a href="javascript:;" onmouseover="hideElementById('quick_cart_container');javascript:divMenu.show('emailDropDiv', this, -109, 12);" onmouseout="javascript:divMenu.hide('emailDropDiv');">email sign-up</a>
-	<span class="icon_arrow_down"></span>
+	<span class="icon_arrow_down" style="padding-top:2px;">
+		<img src="/wcsstore/BJs/images/transparent.gif" class="bjsFtSprit bjsDwnArr" alt="" border="0">
+
+	</span>
 	<div class="hiDropMenu fixedmenu" id="emailDropDiv">
 	
 		
 		
-	<form action="javascript:submitEmail('emailForm','/webapp/wcs/stores/servlet/BJsUserEmailOptionsUpdate?langId=-1&amp;storeId=10201&amp;catalogId=10201&amp;URL=LogonForm&amp;errorView=EmailOptionsUpdateForm');" method="post" name="emailForm" id="emailForm">
+	
 	<ul class="emailDrop">
 		<li class="title">EMAIL OFFERS</li>
 		<li>Sign up for BJ's email offers.</li>
@@ -996,7 +1154,7 @@ wc.render.declareRefreshController({
             <input type="image" class="submit" value="SignUp" src="/wcsstore/BJs/images/buttons/btn2_sign_up.gif" alt="sign up">
 			</li>
 	</ul>
-	</form>
+	
 	
 	</div></li>
 </ul>
@@ -1009,9 +1167,16 @@ wc.render.declareRefreshController({
 			<input type="hidden" name="langId" value="-1">
 			<input type="hidden" name="pageSize" value="40">
 			<input type="hidden" name="currentPage" value="1">	
-			<input type="hidden" name="searchKeywords" id="searchKeywords" value="">			
-			<input type="text" value="keyword(s) or item #" class="input" title="Search Keywords" name="originalSearchKeywords" id="originalSearchKeywords" onclick="javascript:clearField(this.form['originalSearchKeywords']);">
-			<input type="image" src="/wcsstore/BJs/images/btn_search.gif" alt="search" title="search" class="submit" value="Search">
+			<input type="hidden" name="searchKeywords" id="searchKeywords" value="">		
+			<input type="hidden" name="tASearch" id="tASearch" value="">		
+			<div>
+			<input type="text" value="keyword(s) or item #" class="input" title="Search Keywords" autocomplete="off" name="originalSearchKeywords" id="originalSearchKeywords" onkeydown="javascript:toggleBoxForTab(event)" onkeyup="javascript:typeAheadLookup(this,10201,10201,-1,event)" onclick="javascript:clearField(this.form['originalSearchKeywords']);">
+			<input type="image" src="/wcsstore/BJs/images/transparent.gif" alt="search" title="search" class="submit bjsFtSprit srchCls" value="Search">
+			
+			<div class="selectFreeTypeAhead">
+			<div class="typeAheadList" id="typeAheadList"></div>
+			</div>
+			</div>
 		</form>
 </div>
 </div>
@@ -1021,20 +1186,13 @@ wc.render.declareRefreshController({
 
 		<li>
 		<a href="/electronics.category.160.2002336" class="" onmouseover="javascript:divMenu.show('dd160', this, 0, 26);" onmouseout="javascript:divMenu.hide('dd160');">
-		Electronics </a> <!-- Add class="on" in the link for on-tab in categories.-->
+		Electronics </a>
+		<img src="/wcsstore/BJs/images/transparent.gif" class="bjsFtSprit bjsTopnav" style="padding-top:10px;">
+		 <!-- Add class="on" in the link for on-tab in categories.-->
 		<div class="dropdownStyle" id="dd160">
 		<ul class="dropdownList">
 			
 				<li><a href="/electronics/televisions.category.178.160.2000006.1">Televisions</a></li>
-					
-			
-				<li><a href="/electronics/dvd--blu-ray-disc-players.category.194.160.2000568.1">DVD &amp; Blu-ray Disc Players</a></li>
-					
-			
-				<li><a href="/electronics/gps-navigation.category.198.160.2001020.1">GPS Navigation</a></li>
-					
-			
-				<li><a href="/electronics/security-systems.category.203.160.2000359.1">Security Systems</a></li>
 					
 			
 				<li><a href="/electronics/cameras--camcorders.category.209.160.2001817.1">Cameras &amp; Camcorders</a></li>
@@ -1043,10 +1201,19 @@ wc.render.declareRefreshController({
 				<li><a href="/electronics/audio--home-theater.category.161.160.2000259.1">Audio &amp; Home Theater</a></li>
 					
 			
-				<li><a href="/electronics/apple-products.category.3000000000000029503.160.2005280.1">Apple Products</a></li>
+				<li><a href="/electronics/telephones--communication.category.377.160.2000342.1">Telephones &amp; Communication</a></li>
+					
+			
+				<li><a href="/electronics/dvd--blu-ray-disc-players.category.194.160.2000568.1">DVD &amp; Blu-ray Disc Players</a></li>
+					
+			
+				<li><a href="/electronics/security-systems.category.203.160.2000359.1">Security Systems</a></li>
 					
 			
 				<li><a href="/electronics/video-games--systems.category.223.160.2000352.1">Video Games &amp; Systems</a></li>
+					
+			
+				<li><a href="/electronics/gps-navigation.category.198.160.2001020.1">GPS Navigation</a></li>
 					
 			
 				<li><a href="/electronics/mp3-accessories--docking-stations.category.3000000000000017503.160.2004786.1">MP3 Accessories &amp; Docking Stations</a></li>
@@ -1055,19 +1222,19 @@ wc.render.declareRefreshController({
 				<li><a href="/electronics/musical-instruments.category.371.160.2002543.1">Musical Instruments</a></li>
 					
 			
-				<li><a href="/electronics/dvds--movies.category.370.160.2001218.1">DVDs &amp; Movies</a></li>
+				<li><a href="/electronics/books.category.30543.160.2002002.1">Books</a></li>
 					
 			
-				<li><a href="/electronics/telephones--communication.category.377.160.2000342.1">Telephones &amp; Communication</a></li>
+				<li><a href="/electronics/itunes.category.3000000000000041003.160.2005986.1">iTunes</a></li>
 					
 			
 				<li><a href="/electronics/telescopes-binoculars--sports-cameras.category.381.160.2001777.1">Telescopes, Binoculars &amp; Sports Cameras</a></li>
 					
 			
-				<li><a href="/electronics/books.category.30543.160.2002002.1">Books</a></li>
+				<li><a href="/electronics/batteries.category.121503.160.2001330.1">Batteries</a></li>
 					
 			
-				<li><a href="/electronics/batteries.category.121503.160.2001330.1">Batteries</a></li>
+				<li><a href="/electronics/digital-picture-frames.category.369.160.2000494.1">Digital Picture Frames</a></li>
 					
 				
 			</ul>
@@ -1076,7 +1243,9 @@ wc.render.declareRefreshController({
 		
 		<li>
 		<a href="/computers.category.743.2000825" class="" onmouseover="javascript:divMenu.show('dd743', this, 0, 26);" onmouseout="javascript:divMenu.hide('dd743');">
-		Computers </a> <!-- Add class="on" in the link for on-tab in categories.-->
+		Computers </a>
+		<img src="/wcsstore/BJs/images/transparent.gif" class="bjsFtSprit bjsTopnav" style="padding-top:10px;">
+		 <!-- Add class="on" in the link for on-tab in categories.-->
 		<div class="dropdownStyle" id="dd743">
 		<ul class="dropdownList">
 			
@@ -1116,7 +1285,9 @@ wc.render.declareRefreshController({
 		
 		<li>
 		<a href="/office-supplies.category.1143.2002010" class="" onmouseover="javascript:divMenu.show('dd1143', this, 0, 26);" onmouseout="javascript:divMenu.hide('dd1143');">
-		Office Supplies </a> <!-- Add class="on" in the link for on-tab in categories.-->
+		Office Supplies </a>
+		<img src="/wcsstore/BJs/images/transparent.gif" class="bjsFtSprit bjsTopnav" style="padding-top:10px;">
+		 <!-- Add class="on" in the link for on-tab in categories.-->
 		<div class="dropdownStyle" id="dd1143">
 		<ul class="dropdownList">
 			
@@ -1138,7 +1309,9 @@ wc.render.declareRefreshController({
 		
 		<li>
 		<a href="/home.category.385.2000199" class="" onmouseover="javascript:divMenu.show('dd385', this, 0, 26);" onmouseout="javascript:divMenu.hide('dd385');">
-		Home </a> <!-- Add class="on" in the link for on-tab in categories.-->
+		Home </a>
+		<img src="/wcsstore/BJs/images/transparent.gif" class="bjsFtSprit bjsTopnav" style="padding-top:10px;">
+		 <!-- Add class="on" in the link for on-tab in categories.-->
 		<div class="dropdownStyle" id="dd385">
 		<ul class="dropdownList">
 			
@@ -1151,34 +1324,34 @@ wc.render.declareRefreshController({
 				<li><a href="/home/bedding--bath.category.395.385.2001081.1">Bedding &amp; Bath</a></li>
 					
 			
-				<li><a href="/home/housewares.category.646.385.2001737.1">Housewares</a></li>
-					
-			
-				<li><a href="/home/air-conditioners-fans--heaters.category.386.385.2000426.1">Air Conditioners, Fans &amp; Heaters</a></li>
-					
-			
 				<li><a href="/home/kitchen-appliances.category.610.385.2000046.1">Kitchen Appliances</a></li>
-					
-			
-				<li><a href="/home/home-improvement.category.623.385.2000668.1">Home Improvement</a></li>
-					
-			
-				<li><a href="/home/emergency-preparedness.category.3000000000000008007.385.2004433.1">Emergency Preparedness</a></li>
-					
-			
-				<li><a href="/home/rugs.category.653.385.2002664.1">Rugs</a></li>
-					
-			
-				<li><a href="/home/pet-supplies.category.712.385.2001751.1">Pet Supplies</a></li>
 					
 			
 				<li><a href="/home/vacuums-storage--laundry.category.730.385.2001372.1">Vacuums, Storage &amp; Laundry</a></li>
 					
 			
+				<li><a href="/home/housewares.category.646.385.2001737.1">Housewares</a></li>
+					
+			
+				<li><a href="/home/rugs.category.653.385.2002664.1">Rugs</a></li>
+					
+			
+				<li><a href="/home/emergency-preparedness.category.3000000000000008007.385.2004433.1">Emergency Preparedness</a></li>
+					
+			
+				<li><a href="/home/flowers.category.670.385.2002397.1">Flowers</a></li>
+					
+			
+				<li><a href="/home/pet-supplies.category.712.385.2001751.1">Pet Supplies</a></li>
+					
+			
+				<li><a href="/home/home-improvement.category.623.385.2000668.1">Home Improvement</a></li>
+					
+			
 				<li><a href="/home/luggage.category.705.385.2000509.1">Luggage</a></li>
 					
 			
-				<li><a href="/home/floral.category.670.385.2002397.1">Floral</a></li>
+				<li><a href="/home/cooling--heating.category.386.385.2000426.1">Cooling &amp; Heating</a></li>
 					
 			
 				<li><a href="/home/gourmet-food--gift-baskets.category.683.385.2000170.1">Gourmet Food &amp; Gift Baskets</a></li>
@@ -1187,13 +1360,13 @@ wc.render.declareRefreshController({
 				<li><a href="/home/art-gallery.category.602.385.2000631.1">Art Gallery</a></li>
 					
 			
-				<li><a href="/home/automotive.category.3000000000000031003.385.2005542.1">Automotive</a></li>
-					
-			
 				<li><a href="/home/wine-cellars--storage.category.742.385.2003408.1">Wine Cellars &amp; Storage</a></li>
 					
 			
 				<li><a href="/home/funeral.category.3000000000000009503.385.2004508.1">Funeral</a></li>
+					
+			
+				<li><a href="/home/automotive.category.3000000000000031003.385.2005542.1">Automotive</a></li>
 					
 				
 			</ul>
@@ -1202,50 +1375,55 @@ wc.render.declareRefreshController({
 		
 		<li>
 		<a href="/seasonal.category.28511.2001117" class="" onmouseover="javascript:divMenu.show('dd28511', this, 0, 26);" onmouseout="javascript:divMenu.hide('dd28511');">
-		Seasonal </a> <!-- Add class="on" in the link for on-tab in categories.-->
+		Seasonal </a>
+		<img src="/wcsstore/BJs/images/transparent.gif" class="bjsFtSprit bjsTopnav" style="padding-top:10px;">
+		 <!-- Add class="on" in the link for on-tab in categories.-->
 		<div class="dropdownStyle" id="dd28511">
 		<ul class="dropdownList">
+			
+				<li><a href="/seasonal/awnings--outdoor-shading.category.29510.28511.2003635.1">Awnings &amp; Outdoor Shading</a></li>
+					
+			
+				<li><a href="/seasonal/boating.category.32013.28511.2003529.1">Boating</a></li>
+					
+			
+				<li><a href="/seasonal/cooling--heating.category.386.28511.2001008.1">Cooling &amp; Heating</a></li>
+					
 			
 				<li><a href="/seasonal/emergency-preparedness.category.3000000000000008007.28511.2004431.1">Emergency Preparedness</a></li>
 					
 			
-				<li><a href="/seasonal/fall-cleanup.category.3000000000000036003.28511.2005719.1">Fall Cleanup</a></li>
+				<li><a href="/seasonal/fathers-day-gifts.category.3000000000000055003.28511.2006928.1">Father's Day Gifts</a></li>
 					
 			
-				<li><a href="/seasonal/fireplaces--accessories.category.475.28511.2001059.1">Fireplaces &amp; Accessories</a></li>
-					
-			
-				<li><a href="/seasonal/free-shipping.category.3000000000000001012.28511.2003671.1">Free Shipping</a></li>
-					
-			
-				<li><a href="/seasonal/greenhouses.category.29503.28511.2001122.1">Greenhouses</a></li>
+				<li><a href="/seasonal/lawn-and-garden.category.124010.28511.2001431.1">Lawn and Garden</a></li>
 					
 			
 				<li><a href="/seasonal/patio-furniture.category.29505.28511.2003620.1">Patio Furniture</a></li>
 					
 			
-				<li><a href="/seasonal/team-sports.category.28027.28511.2005786.1">Team Sports</a></li>
+				<li><a href="/seasonal/storage--organization.category.731.28511.2006365.1">Storage &amp; Organization</a></li>
+					
+			
+				<li><a href="/seasonal/swimming-pools--accessories.category.28024.28511.2003523.1">Swimming Pools &amp; Accessories</a></li>
+					
+			
+				<li><a href="/seasonal/swing-sets-and-climbers.category.810.28511.2003537.1">Swing Sets and Climbers</a></li>
 					
 			
 				<li><a href="/seasonal/sheds-and-storage.category.3000000000000001009.28511.2003739.1">Sheds and Storage</a></li>
 					
 			
-				<li><a href="/seasonal/tailgating--entertaining.category.3000000000000016007.28511.2004826.1">Tailgating &amp; Entertaining</a></li>
+				<li><a href="/seasonal/trampolines-and-accessories.category.3000000000000001017.28511.2003756.1">Trampolines and Accessories</a></li>
 					
 			
-				<li><a href="/seasonal/halloween-costumes-and-decor.category.3000000000000016513.28511.2004772.1">Halloween Costumes and Decor</a></li>
+				<li><a href="/seasonal/outdoor-party.category.3000000000000032003.28511.2005569.1">Outdoor Party</a></li>
 					
 			
-				<li><a href="/seasonal/gourmet-food-and-gift-baskets.category.3000000000000001010.28511.2003722.1">Gourmet Food and Gift Baskets</a></li>
+				<li><a href="/seasonal/screenhouses-and-privacy-panels.category.3000000000000001015.28511.2003758.1">Screenhouses and Privacy Panels</a></li>
 					
 			
 				<li><a href="/seasonal/gift-cards.category.124013.28511.2001427.1">Gift Cards</a></li>
-					
-			
-				<li><a href="/seasonal/floral-collections.category.3000000000000001011.28511.2003710.1">Floral Collections</a></li>
-					
-			
-				<li><a href="/seasonal/holiday-decorations.category.3000000000000038004.28511.2005830.1">Holiday Decorations</a></li>
 					
 				
 			</ul>
@@ -1254,14 +1432,16 @@ wc.render.declareRefreshController({
 		
 		<li>
 		<a href="/sports.category.986.2000149" class="" onmouseover="javascript:divMenu.show('dd986', this, 0, 26);" onmouseout="javascript:divMenu.hide('dd986');">
-		Sports </a> <!-- Add class="on" in the link for on-tab in categories.-->
+		Sports </a>
+		<img src="/wcsstore/BJs/images/transparent.gif" class="bjsFtSprit bjsTopnav" style="padding-top:10px;">
+		 <!-- Add class="on" in the link for on-tab in categories.-->
 		<div class="dropdownStyle" id="dd986">
 		<ul class="dropdownList">
 			
 				<li><a href="/sports/exercise--fitness.category.987.986.2002231.1">Exercise &amp; Fitness</a></li>
 					
 			
-				<li><a href="/sports/bicycling.category.128004.986.2000919.1">Bicycling</a></li>
+				<li><a href="/sports/boating.category.32013.986.2000957.1">Boating</a></li>
 					
 			
 				<li><a href="/sports/camping.category.1011.986.2001801.1">Camping</a></li>
@@ -1270,28 +1450,28 @@ wc.render.declareRefreshController({
 				<li><a href="/sports/team-sports.category.28027.986.2000806.1">Team Sports</a></li>
 					
 			
-				<li><a href="/sports/fan-gear--memorabilia.category.1026.986.2001426.1">Fan Gear &amp; Memorabilia</a></li>
-					
-			
-				<li><a href="/sports/lawn-games.category.132040.986.2003145.1">Lawn Games</a></li>
-					
-			
-				<li><a href="/sports/fishing.category.3000000000000027012.986.2005116.1">Fishing</a></li>
-					
-			
-				<li><a href="/sports/golf.category.1020.986.2001326.1">Golf</a></li>
-					
-			
-				<li><a href="/sports/game-room.category.1015.986.2000278.1">Game Room</a></li>
-					
-			
 				<li><a href="/sports/swimming-pools--accessories.category.28024.986.2000405.1">Swimming Pools &amp; Accessories</a></li>
+					
+			
+				<li><a href="/sports/bicycling.category.128004.986.2000919.1">Bicycling</a></li>
 					
 			
 				<li><a href="/sports/motor-sports.category.1034.986.2002129.1">Motor Sports</a></li>
 					
 			
-				<li><a href="/sports/boating.category.32013.986.2000957.1">Boating</a></li>
+				<li><a href="/sports/lawn-games.category.132040.986.2003145.1">Lawn Games</a></li>
+					
+			
+				<li><a href="/sports/golf.category.1020.986.2001326.1">Golf</a></li>
+					
+			
+				<li><a href="/sports/fan-gear--memorabilia.category.1026.986.2001426.1">Fan Gear &amp; Memorabilia</a></li>
+					
+			
+				<li><a href="/sports/fishing.category.3000000000000027012.986.2005116.1">Fishing</a></li>
+					
+			
+				<li><a href="/sports/game-room.category.1015.986.2000278.1">Game Room</a></li>
 					
 			
 				<li><a href="/sports/telescopes-binoculars--sports-cameras.category.381.986.2000148.1">Telescopes, Binoculars &amp; Sports Cameras</a></li>
@@ -1303,29 +1483,37 @@ wc.render.declareRefreshController({
 		
 		<li>
 		<a href="/toys.category.808.2000705" class="" onmouseover="javascript:divMenu.show('dd808', this, 0, 26);" onmouseout="javascript:divMenu.hide('dd808');">
-		Toys </a> <!-- Add class="on" in the link for on-tab in categories.-->
+		Toys </a>
+		<img src="/wcsstore/BJs/images/transparent.gif" class="bjsFtSprit bjsTopnav" style="padding-top:10px;">
+		 <!-- Add class="on" in the link for on-tab in categories.-->
 		<div class="dropdownStyle" id="dd808">
 		<ul class="dropdownList">
+			
+				<li><a href="/toys/lawn-games.category.132040.808.2006855.1">Lawn Games</a></li>
+					
 			
 				<li><a href="/toys/swing-sets-and-climbers.category.810.808.2003552.1">Swing Sets and Climbers</a></li>
 					
 			
-				<li><a href="/toys/bouncers--outdoor-play.category.129003.808.2001769.1">Bouncers &amp; Outdoor Play</a></li>
+				<li><a href="/toys/trampolines.category.32001.808.2000704.1">Trampolines</a></li>
 					
 			
-				<li><a href="/toys/trampolines--fitness.category.32001.808.2000704.1">Trampolines &amp; Fitness</a></li>
-					
-			
-				<li><a href="/toys/arts--crafts.category.809.808.2003469.1">Arts &amp; Crafts</a></li>
+				<li><a href="/toys/video-games--systems.category.223.808.2000271.1">Video Games &amp; Systems</a></li>
 					
 			
 				<li><a href="/toys/bikes--riding-toys.category.818.808.2000078.1">Bikes &amp; Riding Toys</a></li>
 					
 			
+				<li><a href="/toys/arts--crafts.category.809.808.2003469.1">Arts &amp; Crafts</a></li>
+					
+			
 				<li><a href="/toys/vehicles--remote-control-toys.category.836.808.2002749.1">Vehicles &amp; Remote Control Toys</a></li>
 					
 			
-				<li><a href="/toys/video-games-and-systems.category.3000000000000001003.808.2003694.1">Video Games and Systems</a></li>
+				<li><a href="/toys/bouncers--outdoor-play.category.129003.808.2001769.1">Bouncers &amp; Outdoor Play</a></li>
+					
+			
+				<li><a href="/toys/board--family-games.category.3000000000000038509.808.2005850.1">Board &amp; Family Games</a></li>
 					
 			
 				<li><a href="/toys/dolls--accessories.category.844.808.2001268.1">Dolls &amp; Accessories</a></li>
@@ -1337,13 +1525,13 @@ wc.render.declareRefreshController({
 				<li><a href="/toys/kids-furniture.category.3000000000000002041.808.2004169.1">Kids' Furniture</a></li>
 					
 			
-				<li><a href="/toys/indoor-play.category.3000000000000019003.808.2004916.1">Indoor Play</a></li>
-					
-			
 				<li><a href="/toys/learning-toys--musical-instruments.category.840.808.2000477.1">Learning Toys &amp; Musical Instruments</a></li>
 					
 			
 				<li><a href="/toys/pretend-play--dress-up.category.824.808.2000663.1">Pretend Play &amp; Dress-up</a></li>
+					
+			
+				<li><a href="/toys/indoor-play.category.3000000000000019003.808.2004916.1">Indoor Play</a></li>
 					
 				
 			</ul>
@@ -1352,7 +1540,9 @@ wc.render.declareRefreshController({
 		
 		<li>
 		<a href="/baby.category.1035.2002451" class="" onmouseover="javascript:divMenu.show('dd1035', this, 0, 26);" onmouseout="javascript:divMenu.hide('dd1035');">
-		Baby </a> <!-- Add class="on" in the link for on-tab in categories.-->
+		Baby </a>
+		<img src="/wcsstore/BJs/images/transparent.gif" class="bjsFtSprit bjsTopnav" style="padding-top:10px;">
+		 <!-- Add class="on" in the link for on-tab in categories.-->
 		<div class="dropdownStyle" id="dd1035">
 		<ul class="dropdownList">
 			
@@ -1392,7 +1582,9 @@ wc.render.declareRefreshController({
 		
 		<li>
 		<a href="/health--beauty.category.850.2001045" class="" onmouseover="javascript:divMenu.show('dd850', this, 0, 26);" onmouseout="javascript:divMenu.hide('dd850');">
-		Health &amp; Beauty </a> <!-- Add class="on" in the link for on-tab in categories.-->
+		Health &amp; Beauty </a>
+		<img src="/wcsstore/BJs/images/transparent.gif" class="bjsFtSprit bjsTopnav" style="padding-top:10px;">
+		 <!-- Add class="on" in the link for on-tab in categories.-->
 		<div class="dropdownStyle" id="dd850">
 		<ul class="dropdownList">
 			
@@ -1441,53 +1633,61 @@ wc.render.declareRefreshController({
 		
 		<li>
 		<a href="/jewelry.category.100.2000297" class="" onmouseover="javascript:divMenu.show('dd100', this, 0, 26);" onmouseout="javascript:divMenu.hide('dd100');">
-		Jewelry </a> <!-- Add class="on" in the link for on-tab in categories.-->
+		Jewelry </a>
+		<img src="/wcsstore/BJs/images/transparent.gif" class="bjsFtSprit bjsTopnav" style="padding-top:10px;">
+		 <!-- Add class="on" in the link for on-tab in categories.-->
 		<div class="dropdownStyle" id="dd100">
 		<ul class="dropdownList">
 			
-				<li><a href="/jewelry/birthstones.category.3000000000000036004.100.2005773.1">Birthstones</a></li>
-					
-			
-				<li><a href="/jewelry/jewelry-favorites.category.3000000000000026005.100.2005027.1">Jewelry Favorites</a></li>
-					
-			
-				<li><a href="/jewelry/luxury-diamond-boutique.category.3000000000000015005.100.2004711.1">Luxury Diamond Boutique</a></li>
-					
-			
 				<li><a href="/jewelry/rings.category.101.100.2000701.1">Rings</a></li>
-					
-			
-				<li><a href="/jewelry/earrings.category.107.100.2000652.1">Earrings</a></li>
-					
-			
-				<li><a href="/jewelry/necklaces--pendants.category.113.100.2001178.1">Necklaces &amp; Pendants</a></li>
-					
-			
-				<li><a href="/jewelry/bracelets.category.119.100.2001016.1">Bracelets</a></li>
 					
 			
 				<li><a href="/jewelry/engagement-and-wedding.category.125.100.2001395.1">Engagement and Wedding</a></li>
 					
 			
-				<li><a href="/jewelry/diamond-jewelry.category.26001.100.2000038.1">Diamond Jewelry</a></li>
+				<li><a href="/jewelry/watches.category.137.100.2002179.1">Watches</a></li>
+					
+			
+				<li><a href="/jewelry/earrings.category.107.100.2000652.1">Earrings</a></li>
+					
+			
+				<li><a href="/jewelry/luxury-diamond-boutique.category.3000000000000015005.100.2004711.1">Luxury Diamond Boutique</a></li>
+					
+			
+				<li><a href="/jewelry/swarovski-crystal-elements.category.3000000000000045003.100.2006390.1">Swarovski Crystal Elements</a></li>
+					
+			
+				<li><a href="/jewelry/necklaces--pendants.category.113.100.2001178.1">Necklaces &amp; Pendants</a></li>
+					
+			
+				<li><a href="/jewelry/birthstones.category.3000000000000036004.100.2005773.1">Birthstones</a></li>
+					
+			
+				<li><a href="/jewelry/bracelets.category.119.100.2001016.1">Bracelets</a></li>
 					
 			
 				<li><a href="/jewelry/gold-jewelry.category.26002.100.2000296.1">Gold Jewelry</a></li>
 					
 			
-				<li><a href="/jewelry/silver-jewelry.category.26003.100.2000300.1">Silver Jewelry</a></li>
-					
-			
-				<li><a href="/jewelry/pearl-jewelry.category.26004.100.2000298.1">Pearl Jewelry</a></li>
+				<li><a href="/jewelry/diamond-jewelry.category.26001.100.2000038.1">Diamond Jewelry</a></li>
 					
 			
 				<li><a href="/jewelry/gemstone-jewelry.category.128.100.2000852.1">Gemstone Jewelry</a></li>
 					
 			
+				<li><a href="/jewelry/silver-jewelry.category.26003.100.2000300.1">Silver Jewelry</a></li>
+					
+			
 				<li><a href="/jewelry/designer-fashion-jewelry.category.130.100.2001184.1">Designer Fashion Jewelry</a></li>
 					
 			
-				<li><a href="/jewelry/watches.category.137.100.2002179.1">Watches</a></li>
+				<li><a href="/jewelry/pearl-jewelry.category.26004.100.2000298.1">Pearl Jewelry</a></li>
+					
+			
+				<li><a href="/jewelry/religious-jewelry.category.3000000000000042007.100.2006000.1">Religious Jewelry</a></li>
+					
+			
+				<li><a href="/jewelry/initial-jewelry.category.3000000000000046005.100.2006642.1">Initial Jewelry</a></li>
 					
 			
 				<li><a href="/jewelry/jewelry-boxes--accessories.category.26005.100.2000303.1">Jewelry Boxes &amp; Accessories</a></li>
@@ -1525,7 +1725,6 @@ wc.render.declareRefreshController({
 	<li><a href="javascript:popupWindow('http://www.ehealthinsurance.com/ehi/Alliance?allid=BJS29291');">Health Insurance</a> </li>
 	<li><a href="javascript:popupWindow('http://www.libertymutual.com/bjs/index.html?&amp;src=BJs_servicepages');">Home &amp; Auto Insurance</a></li>
 	<li><a href="javascript:popupWindow('http://www.bjshomeimprovement.com');">Home Improvement</a></li>
-	<li><a href="/prepaid-phone-cards.content.services_prepaid_phone.A.services">Prepaid Phone Cards</a></li>
 	<li><a href="http://tires.bjs.com">Tire Center</a></li>
 	<li class="last"><a href="javascript:popupWindow('http://estore.vzwshop.com/bjs');">Verizon Wireless</a></li>
 </ul>
@@ -1669,124 +1868,156 @@ function showLessRefine() {
 						<div class="caption" style="display:none;">about_privacy</div>
 				<div class="maincontainer_nonav maincontainer_hasnav">
 
-<h1>Privacy Policy</h1>
-<p><strong>Effective Date: September 20, 2001<br>
-Last Updated: June 30, 2012 (to reflect change in hours for Member Care) </strong></p>
-<p>This Privacy Policy describes our privacy practices with respect to information we collect about our Members and other customers and visitors who (1) shop in our warehouse clubs or purchase products through this and other web site(s) operated by BJ’s Wholesale Club, Inc. (“BJ’s Sites”), or (2) register to use BJ’s Sites.</p>
-<p><strong>COMMITMENT TO PRIVACY</strong></p>
-<p>BJ’s knows that you care about how your information is used and shared. We respect your right to privacy. Your ability to make informed choices about the use of your information is important to us. We want to make sure that you understand the type of information we collect about you, how it is used and the safeguards that we have in place in order to protect it. This Privacy Policy explains our policy regarding the collection, use, disclosure and protection of personal information.</p>
-<p><strong>WHAT INFORMATION DO WE COLLECT?</strong></p>
-<p>The type of information that we collect and retain depends upon your interaction with BJ’s and BJ’s Sites. Here is a short overview of the various types of interactions.</p>
-<ol type="A">
-	<li><strong>Information You Give Us.</strong> We collect the personally identifiable information (such as your name, Membership Number, address, email address, telephone number, driver’s license number, and, if you pay by credit card, your account information) that you provide us with when you:
-		<ul>
-
-			<li>Purchase, upgrade, downgrade or renew your BJ’s Membership.</li>
-			<li>Register, make a purchase, indicate your marketing preferences or process a rebate on or through BJ’s Sites.</li>
-			<li>Participate in surveys or contests (information we collect may include demographic information, such as age, gender and number of household members).</li>
-           
-			<li>Communicate with us for any reason, such as replying to inquiries by mail or through BJ’s Sites, by telephone, through BJ’s Member Care, or in person at one of our Clubs.</li>
-
-		</ul>
-		You may choose not to provide certain information; however, you might then be unable to take advantage of many of the opportunities offered by BJ’s, including the online features offered on BJ’s Sites.
-	</li>
-	<li><strong>Automatic Information.</strong> When you interact with BJ’s, we may maintain a record of the following types of information:
-		<ul>
-			<li>Your purchases from BJ’s Sites and Clubs.</li>
-
-			<li>Your Internet Protocol (“IP”) address or other technical information such as a referring web site, if any, and the path you take through BJ’s Sites when you visit BJ’s online. The IP address or technical information collected by BJ’s Sites is not linked by us to personally identifiable information, except in cases where BJ’s must provide IP addresses to certain credit card processors in connection with the processing of your credit card transaction. You may want to contact your credit card provider with any questions regarding the transactional information they require.</li>
-
-		</ul>
-	</li>
-	<li><strong>Information from Third Parties.</strong> BJ’s may receive personally identifiable information from third parties such as the following:
-		<ul>
-
-			<li>Updated delivery and address information from our shippers, or other third parties, such as Service Providers and Product Suppliers who furnish various fulfillment and consulting services.</li>
-			<li>Information from our Specialty Business Partners, the third parties that offer products and co-branded services to our Members, including but not limited to, optical products and travel services. These Specialty Business Partners will have received your information in connection with transactions that you conducted with them or because you have provided it to them in connection with your purchase of their products or use of their services.  These Specialty Business Partners have established their own respective policies and practices regarding the collection and use of personal information gathered from you. You should therefore refer to their privacy policies to understand how they handle your information and choices you have with respect thereto (see “Specialty Business Partners” under  <a href="#online_specifics">ONLINE SPECIFICS</a> below).</li>
-			<li>Information from our Service Providers who perform functions on our behalf (see <a href="#share-information">DO WE SHARE YOUR INFORMATION WITH THIRD PARTIES?</a> below for examples of  BJ’s Service Providers).</li>
-			<li>Information from our Product Suppliers with whom we participate in joint promotional activities.</li>
-			<li>Demographic information (such as age, gender and number of household members), purchase preference information and mailing lists from our Product Suppliers and other third parties.</li>
-		</ul>
-	</li>
-</ol>
-<p><strong>DO WE USE TECHNOLOGY TO COLLECT INFORMATION? </strong></p>
-<p> We collect information through technology to make our sites more useful to you and for various purposes related to our business. For instance, when you come to our sites, we collect your IP address. An IP address is associated with the access point through which you enter the Internet, and is typically controlled by your Internet Service Provider (ISP) or your company. Standing alone, your IP address is not personally identifiable. We may use IP addresses to collect information regarding how frequently our guests visit various parts of our sites, and we may combine IP addresses with personally identifiable information.</p>
-<p>Our Web sites collect information through a variety of technical methods, including cookies and Web beacons. Cookies are pieces of information that a Web site sends to your computer while you are viewing the Web site. Web beacons are small pieces of data that are embedded in images on the pages of Web sites. Cookies, web beacons and other technical methods may involve the transmission of information either directly to us or to another party authorized by us to collect information on our behalf. If you do not want us to store this information, or if you are using a public computer, the “Help” portion of the toolbar (on most browsers) will tell you how to prevent your browser from accepting new cookies, how to have the browser notify you when you receive a new cookie, or how to disable cookies altogether. Some of our Specialty Business Partners may also use cookies on their respective sites (for example, BJ’s Travel<sup>®</sup>). However, we have no access to, or control over, these cookies. Therefore, please read the privacy policies of all other sites linked to this web site.
-  
-  We may use the information collected through these technical methods for many purposes, including delivering content, tracking and enhancing our visitors’ experience on our Web sites. For example, when you return to our Web sites after logging in, cookies provide information so that we will remember who you are. We also may use technical methods to analyze the traffic patterns on our Web site, such as the frequency with which our users visit various parts of our Web sites, or other activity on our sites. These technical methods may enable us to collect and use information in a form that is personally identifiable. </p>
-<p> <strong>HOW DO WE USE YOUR INFORMATION?</strong></p>
-<p> The personal information we collect is generally used to process your requests and transactions, to provide you with high-quality service, to tell you about opportunities we think will be of interest to you, to customize your experience on BJ’s Sites, and to understand your needs so that we may provide you with the most suitable products and services. For example, we may use your postal address, email address and/or telephone number to help us:</p>
+<h1>Privacy Policy Highlights </h1>
+<p>BJ’s respects your right to privacy. We appreciate that you care about how your information is collected, used and shared. These highlights briefly summarize: (1) how we collect information from or about you offline and on BJs.com and other web site(s) operated by or for BJ’s Wholesale Club, Inc. (“BJ’s Sites”), (2) how we use and share that information, and (3) the choices you have with regard to the collection, use and sharing of that information.</p>
+<p>Our privacy practices are governed by the full <a href="#privacy">Privacy Policy</a> which follows these highlights, and we encourage you to take the time to read the full policy.</p>
+<p><br>
+  <strong>WHAT INFORMATION DO WE COLLECT?</strong></p>
+<p>We may collect personally identifiable information about you — such as your name, Membership number, postal address, email address, telephone number, driver's license number and credit card account information — that you provide to us or that we receive from third-party sources.</p>
+<p>We may collect your email address and non-personally identifiable information through the use of cookies, web beacons and similar technology. We also may collect transactional information about purchases you make in our Clubs or on BJ’s Sites.</p>
+<p>We may authorize third parties to collect non-personally identifiable information from you via third-party cookies, on our behalf, in order to deliver advertisements about our products and services that are customized to your preferences when you visit other, non-BJ’s affiliated web sites.</p>
+<p><a href="#collect">Read more about the information we collect</a></p>
+<p><br>
+  <strong>HOW DO WE USE YOUR INFORMATION?</strong></p>
+<p>Like many retailers, we may use the information we collect to process your requests and transactions; improve the operation of our web sites and Clubs; provide you with marketing and promotional information; facilitate, improve and customize the services that we provide to you; and communicate with you about our products and services.</p>
+<p>We may combine any of the information, both personally identifiable and non-personally identifiable, that we collect offline, on BJ’s Sites and from third-party sources.</p>
+<p><a href="#use">Read more about how we use the information we collect</a></p>
+<p><strong><br>
+  DO WE SHARE YOUR INFORMATION WITH THIRD PARTIES?</strong></p>
+<p>We only share your personally identifiable information with third parties in the following limited situations:</p>
 <ul>
-  <li>Provide Member/non-member support.</li>
-  <li>Communicate Membership opportunities and renewal notices.</li>
-  <li>Advise you about BJ’s products and services, including information about manufacturers’ product recalls.</li>
-  <li>Process and fulfill your order and notify you of your order status.<br>
-    </li>
-  <li>Solicit your feedback about BJ’s products and services.<br>
-    </li>
-  <li>Provide you with promotional information that we believe adds value to your Membership, such as coupons, promotions, or information about services (“Promotional Material”).<br>
-    </li>
-  <li>Notify contest winners and award prizes.  </li>
+  <li> with third-party Member Service Partners in conjunction with making special offers available to Members;</li>
+  <li> with product suppliers and other third-party business partners in conjunction with certain marketing activities;</li>
+  <li> with our service providers;</li>
+  <li>as required by law;</li>
+  <li> in response to legal claims;</li>
+  <li> to protect the safety, property or other rights of BJ’s and its Members and employees; or</li>
+  <li>as an integral part of a sale of all or part of our business.</li>
 </ul>
-<p>If you do not wish to receive Promotional Material from us, we make it easy for you to let us know. You can <a href="/contact-us.content.contact_us.A.about">contact us</a> at any time to indicate your marketing preferences (see <a href="#what_choices">WHAT CHOICES DO I HAVE REGARDING THE USE OF MY INFORMATION?</a> below). </p>
-<p>The purchase history that we collect is generally used to assist BJ’s in selecting and offering products and services to Members which best suit their needs and to keep track of eligible purchases for BJ’s Rewards<sup>®</sup> and any other incentive programs. The non-personally identifiable information that we automatically collect is utilized in the aggregate to help us look for trends so that we can improve the BJ’s shopping experience for you and our other Members.
-</p>
-<p><strong>Send-To-A-Friend:</strong> If Members elect to use our referral service for sending a friend information on BJ’s Sites, we may ask them for the friend’s name and email address. Some email Promotional Material may also contain links to “Send to a Friend.” Promotional Material may be sent by a Service Provider on behalf of BJ’s. Any email addresses submitted to BJ’s for the purpose of forwarding Promotional Material to others will not be used for BJ’s mailing lists and will not be collected for re-distribution.
-</p>
-<p id="share-information"><strong>DO WE SHARE YOUR INFORMATION WITH THIRD PARTIES?
-</strong></p>
-<p>BJ’s does not sell or rent your personally identifiable information to third parties. Under certain circumstances and from time to time, BJ’s may share your personally identifiable information with third parties as set forth below. In such circumstances, we provide only the information necessary to perform the function or to provide the service for which it has been shared. These third parties are not permitted to use the personal information provided by us for any purposes other than those authorized by BJ’s and these third parties are required to keep the information confidential.
-  
-  BJ’s may share your information with third parties such as:
-</p>
+<p><a href="#share"><br>
+  Read more about how we share your information</a></p>
+<p><br>
+  <strong>WHAT CHOICES DO I HAVE?</strong></p>
+<p>Most web browsers can be set to block cookies, and you may be able to opt out of the use of third-party cookies by visiting the <a href="http://www.networkadvertising.org/managing/opt_out.asp" target="_blank">Network Advertising Initiative Web site</a>.</p>
+<p>To opt out of receiving promotional or marketing emails from BJ’s you may:</p>
 <ul>
-  <li><strong>Product Suppliers:</strong> BJ’s may share your personally identifiable information with BJ’s Product Suppliers when participating in joint promotional activities in order to advise you of upcoming offerings and promotions, to conduct research, or to provide marketing assistance that will benefit both our Product Suppliers and BJ’s.<br>
-  </li>
-  <li><strong>Service Providers: </strong>BJ’s may share your personally identifiable information with trusted Service Providers who may provide operational or other support services to our Members, or who perform certain functions on our behalf. Examples include providers who fulfill orders, process payments, process rebates, distribute emails, conduct research or provide other marketing assistance.<br>
-  </li>
-  <li><strong>Specialty Business Partners:</strong> BJ’s may share your personally identifiable information with BJ’s Specialty Business Partners, such as BJ’s Travel®, in order that they may notify you of their offerings. Sometimes we may send offers to selected groups of Members on behalf of our Specialty Business Partners. To facilitate Members’ orders with Specialty Business Partners’ web sites that link to BJ’s Sites, BJ’s may “pre-populate,” or permit these sites to recognize and input certain personal Member information to avoid repeated reentry of required information associated with these orders. If you apply for or request certain products or services directly from our Specialty Business Partners, you may receive information directly from them regarding their products or services.<br>
-  </li>
-  <li><strong>Sweepstakes and Marketing Promotions: </strong>BJ’s may share your personally identifiable information when we partner with another company to offer or provide products, services, contests or promotions. In this case, BJ’s and the partner company may cross-reference our customer databases to identify common customers. Additionally, such information may be shared with the partner company to notify winners or to fulfill promotional obligations.<br>
-    </li>
-  <li><strong>Other Disclosures:</strong> BJ’s may share your personally identifiable information if BJ’s believes in good faith that such disclosure is: (a) authorized by law or necessary to comply with a legal process; (b) in response to legal claims; (c) to respond to Member inquiries originating with the account’s Primary Member or an officer or principal of a Business Member’s organization; (d) necessary to protect personal safety, property or other rights of BJ’s and its Members or employees; or (e) an integral part of a sale of all or part of our business.</li>
+  <li>Click on the unsubscribe link at the bottom of any promotional or marketing email you receive from BJ’s.</li>
+  <li>Access your Online Profile via the “Login” link on the BJs.com Home Page and update your email marketing preferences. </li>
 </ul>
-<p>We may share aggregated demographic information and/or customer profile data with our business partners, advertisers, and others. This is not linked to any personal information that can identify any individual person.</p>
-<p id="what_choices"><strong>WHAT CHOICES DO I HAVE REGARDING THE USE OF MY INFORMATION?</strong></p>
-<p>We want to communicate with you only if you want to hear from us. We give you the opportunity to opt out of receiving Promotional Material from BJ’s and from the sharing of your information with our Product Suppliers and Specialty Business Partners. Your choice to opt out will apply only to all Memberships sharing the same Membership Number (Primary Members and Household Members share the same Membership Number). Your choice to opt out will not apply to our “Specialty Business” Partners to the extent you provide information directly to them in connection with transactions that you conduct with them or with the purchase of their products or use of their services. (See "Specialty Business Partners" under <a href="#online_specifics">ONLINE SPECIFICS</a> below.)</p>
-<p>If you do provide information directly to such third parties, you may receive communications from them irrespective of your election with BJ’s. We are not responsible for any information that you provide directly to these parties, and we encourage you to become familiar with their privacy and security practices and policies. Also, your opt out choice will not apply to the sharing of information with our Service Providers when you have given your personally identifiable information to us related to your Membership, processing of orders, or other specific purposes.</p>
-<p>If you do not want to receive Promotional Material from us and you prefer that we not share information with our Specialty Business Partners or Product Suppliers, please follow these directions:</p>
-<p><strong>To change your email preferences</strong> to indicate that you do not want to receive Promotional Material via email, you can click on the unsubscribe link on the bottom of any promotional email that you receive from BJ’s as the sender.</p>
-<p><strong>To change all marketing preferences either</strong>:</p>
+<p>To opt out of receiving promotional or marketing material from BJ’s via postal mail, promotional telephone calls from BJ’s or to opt out of the sharing of your information with third parties for marketing purposes, you may:</p>
 <ul>
-  <li>Call BJ’s Member Care at 800-BJS-CLUB (800-257-2582), Monday – Friday, 9<small>AM</small> – 7<small>PM</small> E.T., Saturday, 9<small>AM</small> – 6<small>PM</small> E.T. and Sunday, 12<small>NOON</small> – 6<small>PM</small> E.T.<br>
-    </li>
+  <li>Click on the customer care link on the BJs.com Home Page to email us.</li>
   <li>Write us at the following address: BJ’s Wholesale Club, Inc., Attn: BJ’s Member Care, 25 Research Drive, Westborough, MA 01581.</li>
+  <li>Call BJ’s Member Care at 800-BJS-CLUB (257-2582), Monday – Friday, 9<small>AM</small> – 7<small>PM</small>, Saturday, 9<small>AM</small> – 6<small>PM</small> and Sunday, N<small>OON</small> – 6<small>PM</small> E.T.</li>
+</ul>
+<p><a href="#choices">Read more about the choices you have</a></p>
+<p><br>
+  <strong>HOW DO I CONTACT BJ’s?</strong></p>
+<p>If you have any questions, comments or concerns regarding this Privacy Policy, please contact us in writing at:</p>
+<blockquote>
+  <p><strong>BJ’s Wholesale Club, Inc.<br>
+      </strong><strong>Attn: Member Care<br>
+      </strong><strong>25 Research Drive<br>
+      </strong><strong>Westborough</strong><strong>, MA 01581 </strong> <br>
+    </p>
+  </blockquote>
+<br>
+<hr>
+<h1>  <a name="privacy">Privacy Policy</a></h1>
+<p><strong>Effective: January 15, 2013</strong></p>
+<p>This Privacy Policy describes BJ’s (“us”, “we”, “our”) privacy practices with respect to information we collect both online (through BJs.com and other web site(s) operated by or for BJ’s Wholesale Club, Inc. (“BJ’s Sites”)) and offline about our Members and other customers and visitors.</p>
+<p><br>
+  <strong>COMMITMENT TO PRIVACY</strong></p>
+<p>BJ’s knows that you care about how your information is used and shared. We respect your right to privacy. Your ability to make informed choices about the use of your information is important to us. We want to make sure that you understand the information we collect about you, how it is used, how it is shared and the safeguards that we have in place in order to protect it. This Privacy Policy explains our policy regarding the collection, use, disclosure and protection of information.</p>
+<p><br>
+  <strong><a name="collect">WHAT INFORMATION DO WE COLLECT?</a></strong></p>
+<p><strong>Personally Identifiable Information</strong></p>
+<p>We may collect the personally identifiable information (“PII”) that you provide to us, such as when you purchase, renew or modify your BJ’s Membership; make a purchase in our Clubs or on BJ’s Sites; participate in surveys or contests; or communicate with us for any reason. The types of PII that we may collect from you include your name, Membership number, postal address, email address, telephone number, driver's license number and credit card account information. We may also collect transactional information about the purchases you make in our Clubs or on BJ’s Sites. Finally, we may collect certain information, such as your email address, through web beacons as described in more detail in the section titled “Information Collected Through Cookies and Web Beacons” below.</p>
+<p>We may receive PII about you from third-party sources, such as service providers, product suppliers and Member Service Partners (i.e., third-party business partners that offer products and services to our Members, including, for example, optical products and travel services). We may combine the PII we collect from you with information we collect from these other sources, both offline and online. The initial collection and sharing of the PII we receive from third parties, including Member Service Partners, is governed by the privacy policies of those third parties, and you should refer to those third parties' policies to understand how they handle your PII and the choices you have.</p>
+<p><strong>Non-Personally Identifiable Information</strong></p>
+<p>When you visit BJ’s Sites, we may collect non-PII from you, such as your Internet Protocol (“IP”) address, your browser type, the referring web site, if any, the items you view or place in your shopping cart on BJ’s Sites, and the path you take through BJ’s Sites. We collect non-PII through a variety of technical methods, including cookies and web beacons.</p>
+<p><strong>Information Collected Through Cookies and Web Beacons</strong></p>
+<p>Cookies are pieces of information that any web site may transfer to your browser that are then stored in your computer's system and which allow BJ’s Sites to recognize you if you return to the Sites using the same computer and browser. We use cookies to store users’ preferences and to record information about your visit to BJ’s Sites. We also use cookies to customize advertising and web page content based on browser type and user profile information. The deposit of cookies by BJ’s Sites may enhance your online experience by allowing us to save your preferences for your next visit. Our cookies may also measure the general activity on BJ’s Sites and measure advertising effectiveness, which allows us to determine which areas and features are most popular. This information allows us to make improvements to BJ’s Sites.</p>
+<p>Third parties with whom we have partnered may use “third-party” cookies to collect non-PII from you on our behalf. These third parties will use the non-PII collected via third-party cookies to deliver advertisements about our products and services that are customized to your preferences when you visit other non-BJ’s affiliated web sites on the Internet.</p>
+<p>Web beacons, also known as “clear gifs,” “one-pixel gifs,” “web bugs,” “Internet tags” or “pixel tags,” are small graphic images (usually invisible) that can be embedded in content and advertising on a web site or in an email. These may be embedded on BJ’s Sites or on advertisements for BJ’s appearing on third-party web sites or in email. Web beacons can recognize certain types of information on your browser, check whether you have viewed a web page or email message, and determine, among other things, the time and date that you viewed the web beacon, the IP address of your computer, and the URL of the web page from which the web beacon was viewed. We, and third parties acting on our behalf, may collect your email address through the use of web beacons when you interact with BJ’s Sites or our email advertising. However, your name, postal address, credit card account information or other PII is not collected by web beacons.</p>
+<p>See the section titled “<a href="#choices">What Choices Do I Have?</a>” for information on choices available relating to our cookie usage and marketing activities.</p>
+<p><br>
+  <strong><a name="use">HOW DO WE USE YOUR INFORMATION?</a></strong></p>
+<p>Like many retailers, the information we collect is generally used to process your requests and transactions, to improve the operation of our web sites and Clubs, to provide you with marketing and promotional information that we believe adds value to your Membership (“Promotional Material”), to customize your experience on BJ’s Sites, to keep track of eligible purchases for BJ’s Rewards<sup>®</sup> and any other incentive programs, to understand your needs so that we may provide you with the most suitable products and services, and to otherwise communicate with you about our products and services. We may combine any of the information, both personally identifiable and non-personally identifiable, that we collect offline, on BJ’s Sites and from third-party sources.</p>
+<p>As indicated above, our third-party partners may use, on our behalf, the non-PII that they collect through third-party cookies to deliver advertisements about our products and services that are customized to your preferences when you visit other, non-BJ’s affiliated web sites on the Internet.</p>
+<p><strong>Send-to-a-Friend</strong>: If Members elect to use our referral service for sending information to a friend on BJ’s Sites, we may ask them for the friend's name and email address. Some email Promotional Material may also contain links to “Send-to-a-Friend.” Any email addresses submitted to BJ’s for the purpose of forwarding Promotional Material to others will not be used for BJ’s mailing lists and will not be collected for re-distribution.</p>
+<p><br>
+  <strong><a name="share">DO WE SHARE YOUR INFORMATION WITH THIRD PARTIES?</a></strong></p>
+<p>BJ’s only shares your PII with third parties in the limited situations set forth below. In such situations, we provide only the information necessary to perform the function or to provide the service for which it has been shared. These third parties are not permitted to use the PII provided by us for any purposes other than those authorized by BJ’s, and these third parties are required to otherwise keep the PII confidential.</p>
+<p>In addition, BJ’s may share aggregated demographic information and/or customer-profile data with our business partners, advertisers and others. This is not linked to any PII that can identify any individual person.</p>
+<p><strong>Member Services</strong></p>
+<p>BJ’s may share your PII with our third-party Member Service Partners who are carefully selected partners, that, for the benefit of our Members, we allow to make special offers. Member Service Partners’ web sites and offers may or may not be co-branded. To facilitate Members’ orders with Member Service Partners' web sites that link to BJ’s Sites, BJ’s may “pre-populate” or permit these sites to recognize and input certain Member PII to avoid repeated re-entry of required information associated with these orders. If you apply for or request certain products or services directly from our Member Service Partners, you may receive information directly from them regarding their products or services.</p>
+<p>In addition, we may share your PII with product suppliers and other third-party business partners so they can: (1) offer you benefits, discounts or promotions (for example, special offers from our product suppliers); (2) offer or assist us in offering sweepstakes, contests and other marketing promotions; (3) advise you of upcoming offerings and promotions available through joint, co-branded promotional activities with BJ’s; and (4) conduct research or provide marketing assistance.</p>
+<p>In some cases, instead of sharing your PII, we may send you offers on behalf of our third-party business partners, including Member Service Partners. In such cases, those third-party business partners will only have access to your PII if you respond to them directly. Any PII you provide directly to third-party business partners, including Member Service Partners, is subject to those third parties' own privacy policies. We are not responsible for the privacy practices of the Member Service Partner. We encourage our users to read the privacy policies of all Member Service Partners that collect PII. This BJ’s Privacy Policy applies solely to information collected by BJ’s. Should you wish to change your marketing preferences with respect to any Member Service Partner, please be sure to do so by following the instructions contained in their individual privacy policies. </p>
+<p align="left">In some cases, third-party business partners may require, as a condition of providing services to you, that you authorize them to share your PII with us. If we terminate our relationship with a third-party business partner, the PII you provided to them may be returned to us, and we may provide that PII to a new third party offering the same or similar services.</p>
+<p align="left"><strong>Service Providers</strong></p>
+<p>BJ’s may share your PII with trusted service providers who may provide operational or other support services to our Members, or who perform certain functions on our behalf. Examples include providers who fulfill orders, process payments, process rebates, distribute emails, conduct research or provide other marketing assistance.</p>
+<p><strong>Other Disclosures</strong></p>
+<p>BJ’s may share your PII if BJ’s believes, in good faith, that such disclosure is: (a) authorized by law or necessary to comply with a legal process; (b) in response to legal claims; (c) necessary to protect personal safety, property or other rights of BJ’s and its Members or employees; or (d) an integral part of a sale of all or part of our business, including assets, merger or reorganization.</p>
+<p><br>
+  <strong><a name="choices">WHAT CHOICES DO I HAVE?</a></strong></p>
+<p><strong>Choices Regarding the Collection of My Information</strong></p>
+<p><strong>Cookies: </strong>Most web browsers will allow you to erase cookies, notify you when you receive a new cookie or block them altogether. If you would like to exercise control over BJ’s collection of non-PII via cookies, please use the Help function in your browser to find instructions on how to set your browser's cookie preferences. If you elect to block cookies from BJ’s Sites, you may be unable to take advantage of many of the opportunities and online features offered by BJ’s Sites.</p>
+<p><strong>Third-Party Cookies: </strong>To opt-out of the collection of your non-PII via third-party cookies and other types of online behavioral advertising, please click <a href="http://www.networkadvertising.org/managing/opt_out.asp" target="_blank">here</a> to visit the Network Advertising Initiative web site which enables opt-out of participating third-party online advertising networks.</p>
+<p><strong>Choices Regarding the Use of My Information</strong></p>
+<p>We give you the opportunity to opt out of receiving Promotional Material from BJ’s or the sharing of your information with Member Service Partners and other third-party business partners for marketing purposes. Your choice to opt out will apply only to the Memberships sharing the same Membership Number (Primary Members and Household Members share the same Membership Number).</p>
+<p><strong>Email: </strong>To indicate that you do not want to receive Promotional Material via email or to change the frequency with which Promotional Material is sent via email, you may:</p>
+<ul>
+  <li> Click on the unsubscribe link on the bottom of any promotional email that you receive from BJ’s as the sender to access the Email Preference Center.</li>
+  <li> Access your Online Account via the "Sign in" link on the BJs.com Home Page and update your email marketing preferences by clicking on the subscribe/unsubscribe link.</li>
+</ul>
+<p><strong>Direct Mail or Telemarketing</strong>: To indicate that you do not want to receive Promotional Material via postal mail or to receive promotional telephone calls, you may:</p>
+<ul>
+  <li> Click on the Customer care link on the BJs.com Home Page to email us.</li>
+  <li> Write us at the following address: BJ’s Wholesale Club, Inc., Attn: BJ’s Member Care, 25 Research Drive, Westborough, MA 01581.</li>
+  <li>Call BJ’s Member Care at 800-BJS-CLUB (257-2582), Monday – Friday, 9<small>AM</small> – 7<small>PM</small>, Saturday, 9<small>AM</small> – 6<small>PM</small> and Sunday, N<small>OON</small> – 6<small>PM</small> E.T.</li>
+</ul>
+<p><strong>Third-Party Sharing: </strong>If you prefer that we do not share your information with Member Service Partners and other third-party business partners for marketing purposes, you may:</p>
+<ul>
+  <li> Click on the Customer care link on the BJs.com Home Page to email us.</li>
+  <li> Write us at the following address: BJ’s Wholesale Club, Inc., Attn: BJ’s Member Care, 25 Research Drive, Westborough, MA 01581.</li>
+  <li>Call BJ’s Member Care at 800-BJS-CLUB (257-2582), Monday – Friday, 9<small>AM</small> – 7<small>PM</small>, Saturday, 9<small>AM</small> – 6<small>PM</small> and Sunday, N<small>OON</small> – 6<small>PM</small> E.T.</li>
 </ul>
 <p>Please be advised that even if you choose to opt out of all forms of communication from BJ’s, you will continue to receive communications regarding product safety alerts, as well as Membership renewal information.</p>
-<p><strong>HOW DO I ACCESS MY INFORMATION?</strong></p>
-<p>You may update, review, or correct your account information, including your marketing preferences, at any time by:</p>
+<p><br>
+  <strong>HOW DO I ACCESS MY INFORMATION?</strong></p>
+<p>You may update, review or correct your account information by:</p>
 <ul>
-  <li>Accessing your Online Profile via the "Login" link on the BJs.com Home Page.<br>
-    Calling BJ’s Member Care at 800-BJS-CLUB (800-257-2582), Monday – Friday, 9<small>AM</small> – 7<small>PM</small> E.T., Saturday, 9<small>AM</small> – 6<small>PM</small> E.T and Sunday, 12<small>NOON</small> – 6<small>PM</small> E.T.<br>
-  </li>
+  <li>Accessing your Online Account via the “Sign in” link on the BJs.com Home Page by clicking on the subscribe/unsubscribe link.</li>
+  <li>Calling BJ’s Member Care at 800-BJS-CLUB (257-2582), Monday – Friday, 9<small>AM</small> – 7<small>PM</small>, Saturday, 9<small>AM</small> – 6<small>PM</small> and Sunday, N<small>OON</small> – 6<small>PM</small> E.T.</li>
   <li>Writing us at the following address: BJ’s Wholesale Club, Inc., Attn: BJ’s Member Care, 25 Research Drive, Westborough, MA 01581.</li>
 </ul>
-<p>Please note that many direct-mail promotions and postal mailing lists are prepared well in advance, so you may continue to receive some communications after you elect to opt out. We appreciate your patience in giving us time to carry out your request.</p>
-<p><strong>IS MY INFORMATION SECURE?</strong></p>
-<p>BJ’s is committed to maintaining the security of information under our control. To try to prevent unauthorized access, maintain data accuracy, and ensure correct use of information, we have put in place industry-standard physical, electronic, and managerial procedures to safeguard and secure the information we collect.</p>
-<p>With respect to account information BJ’s collects online, such information is accessible online only through the use of a password. To protect the confidentiality of this category of personal information, you must keep your password confidential and not disclose it to any other person. You are responsible for all uses of BJ’s Sites by any person using your password. If other people have access to your email, they may be able to change information about your user profile. You should not use an email account operated by an employer because many employers have the legal right to access such email accounts. Please notify us immediately if you believe your password has been misused. Other than on BJ’s Sites, BJ’s will never ask you for your password.</p>
-<p>Any information collected on BJ’s Sites is located on a secure server located behind a firewall and is not directly connected to the Internet. BJ’s employs Secure Socket Layer (“SSL”) software and password protection procedures to safeguard personal information collected. Please see “Specialty Business Partners” under <a href="#online_specifics">ONLINE SPECIFICS</a> for important information on the security practices of our Specialty Business Partners’ sites.</p>
-<p><strong>HOW AM I NOTIFIED OF CHANGES TO THIS PRIVACY POLICY?</strong></p>
-<p>We reserve the right to change this Privacy Policy at any time. However, we will alert you that changes have been made by indicating at the top of the Privacy Policy the date it was last updated. If we ever make a material change to how we use the information you provide and the new uses are unrelated to uses we disclose in this statement, we will communicate the changes in advance and provide you the opportunity to change your marketing preferences. We will use information in accordance with the Privacy Policy under which the information was collected.</p>
-<p id="online_specifics"><strong>ONLINE SPECIFICS</strong></p>
-<p><strong>Specialty Business Partners</strong></p>
-<p>BJ’s Sites contain links to other sites which offer products and services to BJ’s Members (for example, <a href="javascript:popupWindow('http://www.bjsauto.com/affiliate.aspx?Affiliate=712');">BJ’s Auto Buying Program</a><sup>SM</sup>. Each linking site has established its own respective policies and practices on the collection and use of personal information gathered from visitors. Please visit our Specialty Business Partner Sites (“Partner Sites”) in order to view each respective site’s privacy policy. You can find links to these sites by clicking on Services in the upper navigation of any BJs.com page.</p>
-<p>Although co-branded with the BJ’s name, these Partner Sites are independently operated. Please be aware that when you visit our Partner Sites, you are leaving BJ’s Sites. We are not responsible for the privacy practices of the Partner Sites. We encourage our users to read the privacy policies of all Partner Sites that collect personally identifiable information. This BJ’s Privacy Policy <strong>applies solely to information collected by BJ’s.</strong> Should you wish to change your marketing preferences with respect to any Partner Sites, please be sure to do so by following the instructions contained in their individual privacy policies.</p>
-<p><strong>Children</strong></p>
-<p>We encourage parents to take an active interest in their children’s use of the Internet. BJ’s Sites are not targeted to children younger than 13 years of age. BJ’s does not knowingly collect or store information of children younger than 13. Visitors to BJ’s Sites who are under the age of 13 may use these sites only with the supervision and consent of a parent or guardian. None of the products or services available through BJ’s Sites may be purchased by anyone less than 18 years of age.</p>
-<p><strong>If you feel that BJ’s is not abiding by its posted Privacy Policy, please notify BJ’s <a href="/contact-us.content.contact_us.A.about">online</a> or by writing to BJ’s Wholesale Club, Inc., Attn: Member Care, 25 Research Drive, Westborough, MA 01581.</strong></p>
-<br><br>
+<p><br>
+  <strong>IS MY INFORMATION SECURE?</strong></p>
+<p>BJ’s is committed to maintaining the security of information under our control. To try to prevent unauthorized access, maintain data accuracy and ensure correct use of information, we have put in place appropriate administrative, technical and physical safeguards to protect the information we collect. Any information collected on BJ’s Sites is located on a secure server located behind a firewall and is not directly connected to the Internet. BJ’s employs Secure Socket Layer software and password protection procedures to safeguard PII collected.</p>
+<p><br>
+  <strong>INFORMATION ABOUT CHILDREN UNDER 13</strong></p>
+<p>BJ’s Sites are general audience web sites and are not targeted to children under 13 years of age. BJ’s does not knowingly collect or store the PII of children under the age of 13. If we learn that we have PII about a child under the age of 13, we will delete that information.</p>
+<p><br>
+  <strong>CHANGES TO THIS PRIVACY POLICY</strong></p>
+<p>We reserve the right to change this Privacy Policy at any time. To make you aware of material changes to this policy, we will post the date the policy was last revised at the top of the policy. We encourage you to periodically review this Privacy Policy. Your continued use of BJ’s Sites, patronage of our Clubs or interaction with BJ’s, constitutes your agreement to this Privacy Policy and any updates.</p>
+<p><br>
+  <strong>YOUR CALIFORNIA PRIVACY RIGHTS</strong></p>
+<p>Members and other customers and visitors who reside in California, and who have provided their PII to BJ’s, may request information about our sharing of certain categories of PII with third parties for their direct marketing purposes. Such requests must be submitted to us in writing at the contact address at the bottom of this Privacy Policy.</p>
+<p>This request may be made no more than once per calendar year. We reserve the right to not respond to requests submitted other than to the address specified below.</p>
+<p><br>
+  <strong>HOW DO I CONTACT BJ’s?</strong></p>
+<p>If you have any questions, comments or concerns regarding this Privacy Policy, please contact us in writing at:</p>
+<blockquote>
+  <p><strong>BJ’s Wholesale Club, Inc.<br>
+      </strong><strong>Attn: Member Care<br>
+      </strong><strong>25 Research Drive<br>
+    </strong><strong>Westborough, MA 01581 </strong></p>
+</blockquote>
+<p><br>
+  </p>
 </div>
+
 					</div>
 				
        </div>
@@ -1804,12 +2035,12 @@ Last Updated: June 30, 2012 (to reflect change in hours for Member Care) </stron
     <div class="content"> 
       <ul class="list">
 	    <li style="font-size: 10px;"><a href="/privacy-policy.content.about_privacy.A.about"><strong>PRIVACY POLICY</strong></a></li>
-        <li style="font-size: 10px;"><a href="/careers-move-here.content.careers.A.careers">Careers</a></li>
+        <li style="font-size: 10px; padding-top:2px;"><a href="/careers-move-here.content.careers.A.careers">Careers</a></li>
         <li style="font-size: 10px;"><a href="/company-background.content.about_background.A.about">Company Background</a></li> 
         <li style="font-size: 10px;"><a href="/community-relations.content.about_community_relations.A.about_community">Community Relations</a></li> 
         <li style="font-size: 10px;"><a href="/about/press.shtml">Press Room</a></li> 
         <li style="font-size: 10px;"><a href="/terms-of-use.content.about_terms.A.about">Terms of Use</a></li>
-		<li style="text-decoration:none;"><a href="http://www.facebook.com/bjswholesaleclub" target="_blank" style="text-decoration:none;"><img src="/biz/footer/images/facebook.gif" alt="Facebook" width="24" height="24" vspace="10" border="0"></a>&nbsp;&nbsp;<a href="http://twitter.com/#!/bjswholesale" target="_blank" style="text-decoration:none;"><img src="/biz/footer/images/twitter.gif" alt="Twitter" width="24" height="24" vspace="10" border="0"></a>&nbsp;&nbsp;<a href="http://www.pinterest.com/bjswholesale" target="_blank" style="text-decoration:none;"><img src="/biz/footer/images/pinterest.gif" alt="Pinterest" width="24" height="24" vspace="10" border="0"></a></li>
+		<li style="text-decoration:none;"><a href="http://www.facebook.com/bjswholesaleclub" target="_blank" style="text-decoration:none;"><img src="http://bjs.richfx.com.edgesuite.net/image/media/facebook.jpg" alt="Facebook" width="24" height="24" vspace="10" border="0"></a>&nbsp;&nbsp;<a href="http://twitter.com/#!/bjswholesale" target="_blank" style="text-decoration:none;"><img src="http://bjs.richfx.com.edgesuite.net/image/media/twitter.jpg" alt="Twitter" width="24" height="24" vspace="10" border="0"></a>&nbsp;&nbsp;<a href="http://www.pinterest.com/bjswholesale" target="_blank" style="text-decoration:none;"><img src="http://bjs.richfx.com.edgesuite.net/image/media/pinterest.jpg" alt="Pinterest" width="24" height="24" vspace="10" border="0"></a></li>
       </ul> 
     </div> 
   </div> 
@@ -1823,12 +2054,13 @@ Last Updated: June 30, 2012 (to reflect change in hours for Member Care) </stron
         <li style="font-size: 10px;"><a href="/webapp/wcs/stores/servlet/BJsMembershipSummaryView?langId=-1&amp;storeId=10201&amp;catalogId=10201&amp;URL=AjaxLogonForm">My Account</a></li>
         <li style="font-size: 10px;"><a href="/about/news/index.shtml">Club News</a></li>
 		<li style="font-size: 10px;"><a href="/about/news/cat28.shtml">BJ’s Book Club</a></li>
-      </ul> 
+		<li style="text-decoration:none;"><a href="http://www.bjs.com/summer.content.inclub_summer.A?cm_sp=Summer0412:2013-_-NA-_-NA" target="_blank" style="text-decoration:none;"><img src="http://bjs.richfx.com.edgesuite.net/image/media/bjs_summer_13.jpg" alt="BJ's Summer Headquarters >" width="123" height="29" border="0" style="padding-top:9px;"></a></li>      </ul> 
       <ul class="list"> 
-        <li style="font-size: 10px;"><a href="/webapp/wcs/stores/servlet/CouponsDisplayView?storeId=10201&amp;catalogId=10201">In-Club Coupons</a></li> 
+        <li style="font-size: 10px;"><a href="/webapp/wcs/stores/servlet/CouponsDisplayView?storeId=10201&amp;catalogId=10201">In-Club Coupons</a></li>
+        <li style="font-size: 10px;"><a href="/travel-services.content.services.A">Travel + Services</a></li> 
         <li style="font-size: 10px;"><a href="/one-day-pass.content.join_one_day_pass.A.join_consumer">One Day Pass </a></li> 
-        <li style="font-size: 10px;"><a href="/privileges-and-conditions.content.about_privileges.A.about">Privileges &amp; Conditions</a></li> 
-        <li></li> 
+        <li style="font-size: 10px;"><a href="/privileges-and-conditions.content.about_privileges.A.about">Privileges &amp; Conditions</a></li>
+		<li style="text-decoration:none;"><a href="http://bjssolutions.wordpress.com/category/recipes/" target="_blank" style="text-decoration:none;"><img src="http://bjs.richfx.com.edgesuite.net/image/media/footer_recipes.jpg" alt="BJ's Recipes >" width="73" height="15" border="0" style="padding-top:2px;"></a></li>
       </ul> 
     </div> 
   </div> 
@@ -1867,7 +2099,7 @@ Last Updated: June 30, 2012 (to reflect change in hours for Member Care) </stron
 <!-- eSpot 21 --><!-- Start - JSP File Name:  ContentAreaESpot.jsp -->
 					<div class="genericESpot">
 						<div class="caption" style="display:none;">FooterESpot21</div>
-				<div class="line"></div> <div class="copyright">© 1997 - 2012 BJ's Wholesale Club, Inc.</div>
+				<div class="line"></div> <div class="copyright">© 1997 - 2013 BJ's Wholesale Club, Inc.</div>
 					</div>
 				
 
