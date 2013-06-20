@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the zmtcdn.com privacy policy that was archived on 2012-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121102130110id_/http%3A//www.zomato.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zmtcdn.com privacy policy that was archived on 2013-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130620172234id_/http%3A//www.zomato.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Zomato
+
+## Privacy Policy
 
 **Last updated on December 30th, 2011.**
 
@@ -25,7 +27,7 @@ _Submissions._ We store and may publicly display your submissions in order to pr
 
 _Feedback._ If you contact us to provide feedback, register a complaint, or ask a question, we will record any personal information and other content that you provide in your communication so that we can effectively respond to your communication.
 
-_Activity._ We record information relating to your use of Zomato, such as the searches you undertake, the pages you view, your browser type, IP address, location, requested URL, referring URL, and timestamp information. We use this type of information to administer Zomato and provide the highest possible level of service to you. We also use this information in the aggregate to perform statistical analyses of user behavior and characteristics in order to measure interest in and use of the various areas of Zomato. You cannot be identified from this aggregate information. 
+_Activity._ We record information relating to your use of Zomato, such as the searches you undertake, the pages you view, your browser type, IP address, location, requested URL, referring URL, and timestamp information. We use this type of information to administer Zomato and provide the highest possible level of service to you. We also use this information in the aggregate to perform statistical analyses of user behavior and characteristics in order to measure interest in and use of the various areas of Zomato. You cannot be identified from this aggregate information.
 
 _Cookies._ We send cookies to your computer in order to uniquely indentify your browser and improve the quality of our service. The term " **cookies** " refers to small pieces of information that a website sends to your computer's hard drive while you are viewing the site. We may use both session cookies (which expire once you close your browser) and persistent cookies (which stay on your computer until you delete them). Persistent cookies can be removed by following your browser help file directions. If you choose to disable cookies, some areas of Zomato may not work properly or at all. Zomato uses third party tools, who may collect anonymous information about your visits to Zomato using cookies, and interaction with Zomato products and services. Such third parties may also use information about your visits to Zomato products and services and other web sites to target advertisements for Zomato's products and services. No PII is collected or used in this process. These third parties do not know or have access to the name, phone number, address, email address, or any personally identifying information about Zomato's users. Zomato users can opt-out of sharing this information with third parties by deactivating cookies, the process of which varies by browser to browser. Please refer to the help file of your browser to understand the process of deactivating Cookies on your browser.
 
@@ -65,12 +67,12 @@ Zomato may contain links to third party websites to which we have no affiliation
 
 ## V. Controlling your personal data
 
-To the extent you include personal information in your submissions (such as a photo of yourself), third parties may be able to identify you, associate you with your user account, and contact you. Third parties can also associate you with your user account using the member lookup feature on Zomato, but only if the third party already knows your full name and you include information in your submission that allows the third party to distinguish you from other users who might share the same full name. Please do not include information in your submissions that you expect to keep private. In addition, you can reduce the risk of being personally identified by choosing a fictitious account name, though doing so could detract from the credibility of your submissions. 
+To the extent you include personal information in your submissions (such as a photo of yourself), third parties may be able to identify you, associate you with your user account, and contact you. Third parties can also associate you with your user account using the member lookup feature on Zomato, but only if the third party already knows your full name and you include information in your submission that allows the third party to distinguish you from other users who might share the same full name. Please do not include information in your submissions that you expect to keep private. In addition, you can reduce the risk of being personally identified by choosing a fictitious account name, though doing so could detract from the credibility of your submissions.
 
   
 
 
-As a registered Zomato user, you can modify some of your personal information and your privacy preferences by accessing the "Account" section of this website. For example, you may choose not to receive e-mail solicitations from Zomato by accessing the "Account" tab on Zomato (after signing in) and updating your newsletter/notification settings. 
+As a registered Zomato user, you can modify some of your personal information and your privacy preferences by accessing the "Account" section of this website. For example, you may choose not to receive e-mail solicitations from Zomato by accessing the "Account" tab on Zomato (after signing in) and updating your newsletter/notification settings.
 
 ## VI. Security
 
@@ -90,8 +92,8 @@ You may opt-out of receiving any messages or newsletters from us by changing you
 
 ## VIII. Reason for permissions needed on Zomato mobile applications
 
-Reading your address book is required if you need to share the app with your friends (explicit permission will be sought before this)   
-SMS permissions are required if you need to share the app with your friends (again, explicit permission will be sought before this)   
+Reading your address book is required if you need to share the app with your friends (explicit permission will be sought before this)  
+SMS permissions are required if you need to share the app with your friends (again, explicit permission will be sought before this)  
 Your contact information is sought to enable one click sign-up (with explicit permissions) while inside the app and to write reviews for restaurants. We have a no spam policy.
 
   
