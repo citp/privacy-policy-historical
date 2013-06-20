@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the chictopia.com privacy policy that was archived on 2012-10-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121004074325id_/http%3A//www.chictopia.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chictopia.com privacy policy that was archived on 2013-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130620214520id_/http%3A//www.chictopia.com/about/privacy) for the most accurate reproduction.*
 
-# The People's Fashion Destination - Chictopia
+# Privacy Policy | Chictopia
 
 **1.                   ****Overview** ****
 
