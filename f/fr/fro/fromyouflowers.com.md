@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fromyouflowers.com privacy policy that was archived on 2012-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121204015143id_/http%3A//www.fromyouflowers.com/secpriv.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fromyouflowers.com privacy policy that was archived on 2013-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130620103116id_/http%3A//www.fromyouflowers.com/secpriv.htm) for the most accurate reproduction.*
 
 # Privacy and Security | FromYouFlowers®
 
@@ -34,7 +34,3 @@ From time to time, we may be required by law enforcement or judicial authorities
 **Security Measures**
 
 From You Flowers Web Site is protected by a VeriSign Security Certificate. Our customers can be assured that their personal information, including credit card information, is safe. 
-
-Flowers with Same Day Delivery, We Guarantee the Florist Arranged Flowers will be Delivered Today!
-
-Copyright © 2012 From You Flowers, LLC - Old Saybrook, CT - New York, NY. All rights reserved.
