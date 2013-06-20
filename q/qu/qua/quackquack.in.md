@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the quackquack.in privacy policy that was archived on 2012-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121011025341id_/http%3A//www.quackquack.in/privacy%2520policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the quackquack.in privacy policy that was archived on 2013-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130620170132id_/http%3A//www.quackquack.in/privacy%2520policy.php) for the most accurate reproduction.*
 
-# QuackQuack.in - Privacy Policy
+# QuackQuack.in Online Dating - Privacy Policy
 
 Privacy Policy
 
@@ -60,7 +60,7 @@ Public information supplied by the member is intended to be viewed by visitors t
 
 We primarily use email addresses submitted by members when forwarding anonymous e-mails from ad responders. Respondees' email addresses are not disclosed to the responder. We also use members email addresses to send news/updates regarding our site, but the member may choose not to receive emails of this type by unsubscribing.
 
-TEmail addresses may also be used in private correspondence with members for customer service. Financial information is used to bill members for products and services. All other private information submitted by members is confidential and will not be disclosed except as required by law or to protect members of Quackquack.in. All private information can be updated or deleted by the member at any time.
+Email addresses may also be used in private correspondence with members for customer service. Financial information is used to bill members for products and services. All other private information submitted by members is confidential and will not be disclosed except as required by law or to protect members of Quackquack.in. All private information can be updated or deleted by the member at any time.
 
   * Surveys & Contests:
 
