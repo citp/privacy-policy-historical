@@ -1,0 +1,1053 @@
+<!--The following is the downloaded HTML source of the bigflix.com privacy policy that was archived on 2013-06-20.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130620153045id_/http%3A//www.bigflix.com/privacy) for the most accurate reproduction.-->
+
+<!DOCTYPE html><html xmlns="http://www.w3.org/1999/xhtml" xmlns:fb="http://www.facebook.com/2008/fbml" lang="en"><head>
+		<title>BIGFlix - Watch Movies Online | Hindi Movies | Tamil Movies | Telugu Movies | Malayalam| Download Movies | Bollywood on Demand across PC, Mobile, iPad, iPhone and Android</title>
+		<meta charset="UTF-8">
+		<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+		<meta name="description" content="Bigflix.com is Video on demand service, where you can reserve and preview new DVDs, Online rentals are easy, just visit bigflix.com now to select new and upcoming releases. Bigflix is India's premier movies on demand service offering 1000+ movies in Hindi, Tamil, Telugu, Malayalam, Punjabi and many other Indian languages. You can watch movies online, stream at DVD quality with no ad breaks. Now get to see Bollywood movies in the comfort of your home on PC, iPad, iPhone, Android and smart TV. Watch Movies Online or Streaming right to your TV and many other devices. Only Rs249/month.">
+		<meta name="keywords" content="bollywood, download movies, full movie, watch movies, movies online, stream movies, instant streaming, full length movies, online, new movies, dvd movies, new on dvd, new movie releases, top dvd rentals, Watch Movie Online, Hindi Movies Online, Punjabi Movies, Watch Telugu Movies, Watch Malayalam movies, Watch Tamil Movies, Watch Hindi Movies, Watch English movies, android app">
+		<meta name="robots" content="index, follow">
+		<meta name="revisit-after" content="1 day">
+		<meta name="copyright" content="Bigflix">
+		<meta name="googlebot" content="noodp">
+		<meta name="language" content="English">
+		<meta name="web_author" content="Bigflix.com">
+		<meta name="author" content="BIGFlix.com">
+		<meta http-equiv="X-UA-Compatible" content="requiresActiveX=true">
+		<meta http-equiv="pragma" content="nocache" expires="0" cache-control="no-cache">
+		<meta name="rating" content="general">
+		<meta name="distribution" content="global">
+		<meta name="verify-v1" content="jOTERuXym8kYRrzYh1CVQWkXSBthh9kelxjXA4C1wbk=">
+		<meta name="google-site-verification" content="yBr4_74hfCyAtqFILFANtHre-3yFXNMduotV_Y_N1ik">
+		
+
+
+
+
+
+
+
+
+
+		
+
+
+
+
+
+<link rel="shortcut icon" type="image/x-icon" href="/apache_file/favicon.ico">
+<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script id="facebook-jssdk" async="" src="//connect.facebook.net/en_US/all.js"></script><script type="text/javascript" src="/apache_file/js/jquery-ui-1.8.22/js/jquery-1.7.2.min.js"></script>
+<link href="/apache_file/css/ui/style.css" type="text/css" rel="stylesheet">
+
+<script type="text/javascript">
+	jQuery.noConflict();
+</script>
+
+		<script type="text/javascript" src="http://www.bigflix.com//apache_file/js/ui/ui.js"></script>
+		
+		
+		
+	</head>
+
+	<body>
+		
+		
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<script type="text/javascript">
+
+      var FB_LOGIN_STATUS = false;
+      var FB_USER_ID = "";
+      var FB_ACCESS_TOKEN ="";
+      var FB_USER_FIRST_NAME = "";
+      var FB_USER_LAST_NAME = "";
+      var FB_USER_EMAIL ="";
+      var FB_USER_PROFILE_PICTURE_URL = "";
+
+	var isFBCallSuccess = false;
+     function fb_bf_login(id,email,firstName,lastName)
+     {
+        if(typeof email != "undefined")
+        {
+			jQuery.ajax(
+        	{
+        		type:"POST",
+        		url:"/xaja/FBLogin.do",
+        		data:{id:id,email:email,firstName:firstName,lastName:lastName,partnerID:30},
+        		success:function(msg){
+                	window.location.href = window.location.href ;
+         		}
+        	});
+        }
+     }
+     function fb_getLoginStatus()
+     {
+         FB.getLoginStatus(function(response) {
+              if(response.status === "connected")
+              {
+                 FB_USER_ID = response.authResponse.userID;
+                 FB_ACCESS_TOKEN = response.authResponse.accessToken;
+                 return true;
+              } else if (response.status === 'not_authorized'){
+              jQuery(".fbbutton").html('<img height="43px" width="242px" title="Connect with facebook" caption="Connect with facebook" alt="Connect with facebook" description="Connect with facebook" src="/apache_file/images/BIGFLIX_Images/facebook-connect-button.png">');
+                return false;
+              }else{
+              	jQuery(".fbbutton").html('<img height="43px" width="242px" title="Connect with facebook" caption="Connect with facebook" alt="Connect with facebook" description="Connect with facebook" src="/apache_file/images/BIGFLIX_Images/facebook-connect-button.png">');
+                 return false;
+              }
+          },true);
+          return  FB_LOGIN_STATUS;
+     }
+
+     function fb_postActivity(url,accessToken,objectType)
+     {
+         FB.api(
+               '/me/og_bigflix:watch?'+objectType+'='+url+'&access_token='+accessToken,
+               'post',
+               function(response) {
+                  if (!response || response.error) {
+                  if(typeof console != "undefined"){
+                          console.log(response.error);
+                     }
+                  } else {
+                      if(typeof console != "undefined"){
+                             console.log('Watch Action was successful! Action ID: ' + response.id);
+                      }
+                  }
+               });
+     }
+       // Initialise FB JS SDK
+       window.fbAsyncInit = function() {
+
+           FB.init({
+             appId      : '115242405266241',
+             status     : true,
+             cookie     : true,
+             xfbml      : true,
+             oauth	 : true
+           });
+
+           FB.Event.subscribe('auth.login', function(response) {
+                               
+          	 });
+
+		FB.getLoginStatus(function(response) {
+                                   if(response.status === "connected")
+                                   {
+                                     FB_LOGIN_STATUS = true;
+                                     FB_USER_ID = response.authResponse.userID;
+                                     FB_ACCESS_TOKEN = response.authResponse.accessToken;
+                                     jQuery(".logtitle").hide();
+                           			 jQuery(".fbbutton").hide();
+                           			 jQuery("#fbActivity").show();
+                                   }
+                        },true);
+
+        };
+
+        // Load the SDK Asynchronously
+        (function(d){
+             var js, id = 'facebook-jssdk', ref = d.getElementsByTagName('script')[0];
+             if (d.getElementById(id)) {return;}
+             js = d.createElement('script'); js.id = id; js.async = true;
+             js.src = "//connect.facebook.net/en_US/all.js";
+             ref.parentNode.insertBefore(js, ref);
+        }(document));
+        
+function showLoadSpinner()
+{
+  	FB.login(function(response){
+		if (response.authResponse){
+			var FB_USER_ID = response.authResponse.userID;
+			var FB_ACCESS_TOKEN = response.authResponse.accessToken;
+			FB.api('/me?access_token='+FB_ACCESS_TOKEN, function(response){
+				var FB_USER_FIRST_NAME = response.first_name;
+				var FB_USER_LAST_NAME = response.last_name;
+				var FB_USER_EMAIL = response.email;
+				fb_bf_login(FB_USER_ID,FB_USER_EMAIL,FB_USER_FIRST_NAME,FB_USER_EMAIL);
+			});
+		}},{scope: 'email,publish_actions,publish_stream,friends_activities'});
+}
+</script>
+<script type="text/javascript">
+
+jQuery(document).ready(function() {
+	//for more nav
+	jQuery('li a.more-arrow ').click (function () {
+	jQuery(this).toggleClass("active");
+	jQuery(".morelang").fadeToggle("slow"), 800;
+	return false;
+	}); 
+	var pathArray = window.location.pathname.split( '/' );	
+	if(pathArray==',register')
+	{
+		jQuery('#tick2').addClass('red');
+		jQuery('#tick1').removeClass('red');
+		jQuery('#tick3').removeClass('red');
+	}
+	else if(pathArray==',login')
+	{
+		jQuery('#tick1').addClass('red');
+		jQuery('#tick2').removeClass('red');
+		jQuery('#tick3').removeClass('red');
+	}
+	else if(pathArray==',faq')
+	{
+		jQuery('#tick3').addClass('red');
+		jQuery('#tick1').removeClass('red');
+		jQuery('#tick2').removeClass('red');
+	}
+	
+}); 
+
+function pwdFocus(pass,fakePass) {
+	jQuery('#'+fakePass).hide();
+	jQuery('#'+pass).show();
+	jQuery('#'+pass).focus();
+}
+
+function pwdBlur(pass,fakePass) {
+	if (jQuery('#'+pass).attr('value') == '') {
+		jQuery('#'+pass).hide();
+		jQuery('#'+fakePass).show();
+	}
+}
+
+function clear_click(thisfield, defaulttext)
+{
+	if (thisfield.value == defaulttext) {
+		thisfield.value = "";
+	}
+}
+
+function recall_click(thisfield, defaulttext)
+{
+	if (thisfield.value == "") 
+	{
+		thisfield.value = defaulttext;
+	}
+}
+
+/*var mouseX;
+var mouseY;
+jQuery(document).mousemove( function(e) {
+   mouseX = e.pageX; 
+   mouseY = e.pageY;
+}); */ 
+
+jQuery(document).ready(function() {
+	jQuery("#moreLang").mouseover(function(){
+		var position = jQuery("#moreLang").position();
+		//$("p:last").text( "left: " + position.left + ", top: " + position.top );
+		if(jQuery('#moreLanguages').hide())
+		{
+			jQuery('#moreLanguages').css({'top':position.top+20,'left':position.left}).fadeIn(100);
+		}
+	});
+
+	jQuery("#moreLang").mouseout(function(){
+	  jQuery('#moreLanguages').fadeOut(100);
+	});
+
+	jQuery("#moreLanguages").mouseout(function(){
+	  jQuery('#moreLanguages').fadeOut(100);
+	}); 
+});
+
+</script>
+
+
+<script>
+function callModel()
+{
+	//Cancel the link behavior
+	//e.preventDefault();
+	//Get the A tag
+	//var id = jQuery(this).attr('href');
+	//Get the screen height and width
+	var maskHeight = jQuery(document).height();
+	var maskWidth = jQuery(window).width();
+	//Set heigth and width to mask to fill up the whole screen
+	jQuery('#mask').css({'width':maskWidth,'height':maskHeight});
+	//transition effect		
+	jQuery('#mask').show();	
+	jQuery('#mask').fadeIn(1000);	
+	jQuery('#mask').fadeTo("slow",0.8);	
+	//Get the window height and width
+	var winH = jQuery(window).height();
+	var winW = jQuery(window).width();
+	//Set the popup window to center
+	jQuery('#boxes').show();	
+	jQuery('#dialog').css('top',  winH/3-jQuery('#dialog').height()/3);
+	jQuery('#dialog').css('left', winW/2-jQuery('#dialog').width()/2);
+	//transition effect
+	jQuery('#dialog').fadeIn(2000); 
+
+	jQuery('#dialog').css("padding", "20px");
+	
+}
+function closeModel()
+{
+	jQuery('#dialog').css("padding", "20px");
+	jQuery('#mask').hide();
+jQuery('#dialog').html('');
+	//jQuery('.window').hide();
+	jQuery('#boxes').hide();	
+}
+jQuery(document).ready(function() {	
+	//select all the a tag with name equal to modal
+	//jQuery('a[name=modal]').click(function(e) {
+	
+	//if close button is clicked
+	jQuery('.window .close').click(function (e) {
+		//Cancel the link behavior
+		e.preventDefault();
+		jQuery('#mask').hide();
+		jQuery('.window').hide();
+	});		
+	//if mask is clicked
+	//jQuery('#mask').click(function () {
+	//	jQuery(this).hide();
+	//	jQuery('.window').hide();
+	//});			
+	jQuery(window).resize(function () {
+ 		var box = jQuery('#boxes .window');
+        //Get the screen height and width
+        var maskHeight = jQuery(document).height();
+        var maskWidth = jQuery(window).width();
+        //Set height and width to mask to fill up the whole screen
+        jQuery('#mask').css({'width':maskWidth,'height':maskHeight});
+               
+        //Get the window height and width
+        var winH = jQuery(window).height();
+        var winW = jQuery(window).width();
+
+        //Set the popup window to center
+        box.css('top',  winH/2 - box.height()/2);
+        box.css('left', winW/2 - box.width()/2);
+	 
+	});
+});
+	function userLogin(method,destinationUrl)
+	{
+		callModel();
+
+
+
+		jQuery('#dialog').css("padding", "0px");
+
+
+		var n = new Date().getTime();
+		var url = '/web/tiles/ui/login.jsp?'+n;
+		if(destinationUrl!=null | destinationUrl != 'undefined')
+		{
+			url +=url + '&r='+destinationUrl;
+		}
+		jQuery('#dialog').load(url, function(response, status, xhr){
+		
+		if(status == 'error')
+		{
+			closeModel();
+			return;
+		}else{
+			//Get the window height and width
+			jQuery('#dialog').addClass("window loginwindow3");
+			var winH = jQuery(window).height();
+			var winW = jQuery(window).width();
+			winH = winH - 100;
+			
+				winW  = winW - 600;
+			
+			jQuery('#dialog').css('top',  winH/3-jQuery('#dialog').height()/3);
+			jQuery('#dialog').css('left', winW/2-jQuery('#dialog').width()/2);
+	
+			if(method == 'login'){
+				jQuery('#loginArea').css("display","block");
+				jQuery('#registerArea').css("display","none");
+				jQuery('#registerHeader').hide();
+				jQuery('#alreadyRegistered').hide();
+				jQuery('#loginHeader').show();
+				jQuery('#notRegistered').show();
+			}
+			else{
+				jQuery('#loginArea').css("display","none");
+				jQuery('#registerArea').css("display","block");
+				jQuery('#loginHeader').hide();
+				jQuery('#notRegistered').hide();
+				jQuery('#registerHeader').show();
+				jQuery('#alreadyRegistered').show();
+			}
+		}
+	});
+}
+	var showDirectModal = 'null';
+	if(showDirectModal != 'null'){
+		
+			setTimeout("userLogin(showDirectModal)",500);
+		
+		
+	}
+/* Login restriction message */
+ var showLogInModal = 'false';
+ if(showLogInModal == 'null'){
+ 	
+		setTimeout("userLogin('register')",2000);
+		
+ }
+	
+
+
+</script>
+<div id="boxes">
+  <div class="window" id="dialog" style="top: 54.6667px; left: 474.5px; display: none;"> <img height="32px" width="32px" title="Waiting for the response" caption="Waiting for the response" alt="Waiting for the response" description="Waiting for the response" src="/apache_file/images/new_images/ajax-loader.gif"></div>
+  <!-- Start of Login Dialog -->
+  <!-- Start of Sticky Note -->
+  <!-- End of Sticky Note -->
+  <!-- Mask to cover the whole screen -->
+  <div id="mask" style="width: 1366px; height: 240px; display: none; opacity: 0.8;"></div>
+</div>
+<div class="header">
+	<div class="container">
+		<div class="left logo">
+			<a href="/">
+			<h1 class="logoblock" onclick="" title="BIGFLIX">
+				<span>BIGFLIX</span>
+			</h1>
+			</a>
+			<a href="/">
+    			<img height="63px" width="154px" title="BIGFlix-Watch Bollywood Movies Online,Hindi Movies" caption="BIGFlix-Watch Bollywood Movies Online,Hindi Movies" alt="BIGFlix-Watch Bollywood Movies Online,Hindi Movies" description="BIGFlix-Watch Bollywood Movies Online,Hindi Movies" src="/apache_file/images/ui/logo.jpg" align="absmiddle"> 
+    			<span style="visibility: hidden;">Watch Bollywood Movies Online,Hindi Movies</span>
+    		</a>
+		</div>
+		<div class="right sidelinks">
+			<strong>
+				
+					<a id="tick1" onclick="userLogin('login');" href="javascript:void(0);">Login </a> &nbsp;&nbsp;|&nbsp;&nbsp; <a id="tick2" href="javascript:void(0);" onclick="userLogin('register');">Register</a>  
+				
+			
+				<span id="plansDiv" style="display:none;">&nbsp;&nbsp;|&nbsp;&nbsp; <a id="tick2" href="/package-list">Plans</a> </span> 
+			
+				&nbsp;&nbsp;|&nbsp;&nbsp;<a id="tick3" href="/faq">Help</a>
+			</strong>
+			<div style="display:none;" id="userMenu" class="dropdown">
+		       <ul>
+		         <li><a href="/my-account">My Account</a></li>
+		         <li><a href="/my-playlist">Continue Watching</a></li>
+		         <li><a href="/my-history">My Queue</a></li>
+		         <li class="last"><a href="/sign-out">Logout</a></li>
+		       </ul>
+      		</div>
+		</div>
+		<div class="clearall"></div>
+	</div>
+</div>
+
+<div class="link-container">
+	<div class="container">
+		<div class="left">
+			<div class="navigation-list">
+				<ul>
+					<li class="home">
+						<a href="/" title=" Bigflix Home: Watch Movies Online" class="homelink homeicon  active ">
+							<span>Home</span> 
+						</a>
+					</li>
+					
+						<li><a href="/watch-hindi-movies">Hindi</a></li>
+						
+						<li><a href="/watch-telugu-movies">Telugu</a></li>
+						
+						<li><a href="/watch-malayalam-movies">Malayalam</a></li>
+						
+						<li><a href="/watch-tamil-movies">Tamil</a></li>
+						
+					
+					<li class="more" id="moreLang"> 
+						<a href="javascript:void(0);" class="more-arrow">More</a>
+						<div style="display:none;" class="morelang">
+		
+								
+									<a href="/watch-bengali-movies">Bengali</a>
+									
+									<a href="/watch-world-cinema-movies">World Cinema</a>
+									
+									<a href="/watch-english-movies">English</a>
+									
+									<a href="/watch-kannada-movies">Kannada</a>
+									
+									<a href="/watch-marathi-movies">Marathi</a>
+									
+									<a href="/watch-punjabi-movies">Punjabi</a>
+									
+									<a href="/watch-gujarati-movies">Gujarati</a>
+									
+								  
+							
+						</div>
+					</li>
+				</ul>
+				<div class="clearall"></div>
+			</div>
+		</div>
+		<div class="right searchblock">
+        	<input name="text" id="searchsuggest" value="Search for Movies,Actors,etc.." type="text" autocomplete="off" class="searchbox" onclick="clear_click(this, 'Search for Movies,Actors,etc..')" onblur="recall_click(this,'Search for Movies,Actors,etc..')">
+			<input name="hdsearchbtn" id="hdsearchbtn" alt="Search from over 1000 blockbuster movies" height="22px" width="29px" title="Search from over 1000 blockbuster movies" type="image" src="/apache_file/images/ui/searchbutton2.jpg" align="absmiddle" onclick="search();">
+			<div id="shadow" style="position: absolute; top: 79px; left: 941px; visibility: hidden; display: none;">
+				<div class="output" id="output1" style="display:block;">
+				</div>
+			</div>
+			
+
+
+
+<script type="text/javascript">
+
+var searchKeyword = "";
+ var suggestions = new Array("Boris", "Backer", "Peter", "Test","Bums");
+    var outp;
+    var oldins;
+    var posi = -1;
+    var words = new Array();
+    var input;
+    var key;
+
+    function setVisible(visi){
+        var x = document.getElementById("shadow");
+		var t = document.getElementsByName("text")[0];
+		x.style.position = 'absolute';
+        x.style.top =  (findPosY(t)+3)+"px";
+        x.style.left = (findPosX(t)+2)+"px";
+        x.style.visibility = visi;
+		x.style.display = 'hidden'==visi?'none':'block';		
+    }
+
+    function init(){
+        outp = document.getElementById("output1");
+		window.setInterval("lookAt()", 100);
+        setVisible("hidden");
+		var textfield = document.getElementsByName("text")[0];
+        document.onkeydown = keygetter; //needed for Opera...
+        document.onkeyup = keyHandler;
+	}
+
+    function findPosX(obj)
+    {
+        var curleft = 0;
+        if (obj.offsetParent){
+            while (obj.offsetParent){
+                curleft += obj.offsetLeft;
+                obj = obj.offsetParent;
+            }
+        }
+        else if (obj.x)
+            curleft += obj.x;
+        return curleft;
+    }
+
+    function findPosY(obj)
+    {
+        var curtop = 0;
+        if (obj.offsetParent){
+            curtop += obj.offsetHeight;
+            while (obj.offsetParent){
+                curtop += obj.offsetTop;
+                obj = obj.offsetParent;
+            }
+        }
+        else if (obj.y){
+            curtop += obj.y;
+            curtop += obj.height;
+        }
+        return curtop;
+    }
+    
+    function lookAt(){
+       var ins = document.getElementsByName("text")[0].value;
+	   if (oldins == ins) {return;}
+       else if (ins.length > 0){
+       		 if(ins != searchKeyword){
+		  		getSuggestedData(ins);
+		  		}  
+        }
+        else{
+            setVisible("hidden");
+            posi = -1;
+        }
+        oldins = ins;
+    }
+    
+    function addWord(word){
+        var sp = document.createElement("div");
+        sp.appendChild(document.createTextNode(word));
+        sp.onmouseover = mouseHandler;
+        sp.onmouseout = mouseHandlerOut;
+        sp.onclick = mouseClick;
+        outp.appendChild(sp);
+    }
+    
+    function clearOutput(){
+        while (outp.hasChildNodes()){
+            noten=outp.firstChild;
+            outp.removeChild(noten);
+        }
+        posi = -1;
+    }
+    
+    function getWord(beginning){
+    	getSuggestedData(val);
+        /*var words = new Array();
+        for (var i=0;i<suggestions.length; ++i){
+            var j = -1;
+            var correct = 1;
+            while (correct == 1 && ++j < beginning.length){
+                if (suggestions[i].charAt(j) != beginning.charAt(j)) correct = 0;
+            }
+            if (correct == 1) words[words.length] = suggestions[i];
+        }
+        return words;*/
+    }
+    
+    function setColor (_posi, _color, _forg){
+		outp.childNodes[_posi].style.background = _color;
+        outp.childNodes[_posi].style.color = _forg;
+    }
+    
+    function keygetter(event){
+        if (!event && window.event) event = window.event;
+        if (event) key = event.keyCode;
+        else key = event.which;
+    }
+        
+    function keyHandler(event){
+	 if(jQuery('#loginArea').html() != null && jQuery('#loginArea').css('display') != 'none')
+	 {
+		if(key == 13)
+		{
+			return userSignIn();
+    	
+            }
+	 }
+	 if(jQuery('#registerArea').html() != null && jQuery('#registerArea').css('display') != 'none' )
+	 {
+		if(key == 13)
+		{
+			return validateSignUp();
+         }
+	 }
+
+
+
+        if (document.getElementById("shadow").style.visibility == "visible"){
+        var textfield = document.getElementsByName("text")[0];
+        if (key == 40){ //Key down
+            //alert (words);
+            if (words.length > 0 && posi < words.length-1){
+                if (posi >=0) setColor(posi, "#FFFFFF", "#666666");
+                else input = textfield.value;
+                setColor(++posi, "#666666", "white");
+                //textfield.value = outp.childNodes[posi].firstChild.nodeValue;
+            }
+        }
+        else if (key == 38){ //Key up
+            if (words.length > 0 && posi >= 0){
+                if (posi >=1){
+                    setColor(posi, "#FFFFFF", "#666666");
+                    setColor(--posi, "#666666", "white");
+                    //textfield.value = outp.childNodes[posi].firstChild.nodeValue;
+                }
+                else{
+                    setColor(posi, "#FFFFFF", "#666666");
+                    textfield.value = input;
+                    textfield.focus();
+                    posi--;
+                }
+            }
+        }
+        else if (key == 27){ // Esc
+            //textfield.value = input;
+            setVisible("hidden");
+            posi = -1;
+            oldins = input;
+        }
+        else if (key == 8){ // Backspace
+            posi = -1;
+            oldins=-1;
+        }else if(key == 13)
+		{
+			if(posi != -1)
+			{
+				textfield.value = outp.childNodes[posi].firstChild.nodeValue;
+	            textfield.focus();
+				setVisible("hidden");
+	            posi = -1;
+	            oldins = textfield.value;
+            }
+            search();
+		}
+        }
+    }
+    
+    var mouseHandler=function(){
+        for (var i=0;i<outp.childNodes.length;++i)
+        {    
+			setColor (i, "#FFFFFF", "#666666");
+		}
+        this.style.background = "#666666";
+        this.style.color= "white";
+    }
+    
+    var mouseHandlerOut=function(){
+        this.style.background = "#FFFFFF";
+        this.style.color= "#666666";
+    }
+    
+    var mouseClick=function(){
+        document.getElementsByName("text")[0].value = this.firstChild.nodeValue;
+        setVisible("hidden");
+        posi = -1;
+        oldins = this.firstChild.nodeValue;
+    }
+	//jQuery(".text").keyup(function() 
+	//{
+	window.onload = init();	
+	//	return false;    
+//	});
+	
+
+
+function getSuggestedData(val) {
+	if(val=='Search for Movies,Actors,etc..')
+	{
+		return;
+	}
+	//var url = "/xaja/BFDispatch.do?parameter=autoSuggestForHome&searchword="+val;
+	jQuery.ajax({
+		type: "Post",
+		url: "/xaja/BFDispatch.do",
+		data: {parameter:'autoSuggestForHome',searchword:val},
+		success: function(responseText)
+		{
+			if(responseText != null)
+			{
+				var op = responseText.split("##");
+				words = op[1].split("@#@");
+				if ((words.length > 0) && (words[0]!='')){
+	                clearOutput();
+	                for (var i=0;i<words.length; ++i) 
+					{
+						addWord (words[i]);
+					}
+	                setVisible("visible");
+	                input = document.getElementsByName("text")[0].value;
+	            }
+	            else{
+	                setVisible("hidden");
+	                posi = -1;
+	            }			
+			}
+		}
+	});
+    
+}
+</script>
+		</div>
+		<div class="clearall"></div>
+	</div>
+</div>
+
+		<div class="brdcrmb"><a href="/home">Home</a> &gt;&nbsp;<strong>Privacy Policy</strong> </div>
+<div class="content-wrapper" id="inner">
+  <div class="content-left left fulllength">
+    <div class="accountblock">
+      <div class="title">BIGFLIX <span class="captalize">Privacy Policy</span></div>
+      <div class="termscontent">
+        <p>BIGFlix ("<a class="red" href="http://www.bigflix.com/">www.bigflix.com</a>") recognizes that its customers, visitors, users, and others who use <a class="red" href="http://www.bigflix.com/">www.bigflix.com</a> (Website) or other web sites owned or operated by Big Flicks Pvt Ltd (hereinafter referred to as collectively or individually "Users") value their privacy. </p>
+        <p>This Privacy Notice details important information regarding the use and disclosure of User information collected on the website of BIGFlix. BIGFlix provides this Privacy Notice to help you make an informed decision about, whether to use or continue using the Website.</p>
+        <p>This Privacy Notice is incorporated into and is subject to the Terms of Use of our site. (<a class="red" href="http://www.bigflix.com/terms">http://www.bigflix.com/terms</a>) Your use of our Website and any personal information you provide on our website remains subject to the terms of this Privacy Notice and our Terms of Use.</p>
+        <p>Please note that any literature, comments, messages, blogs, scribbles etc. posted/uploaded/conveyed/communicated by users on our Website becomes published content and is not considered personally identifiable information subject to this Privacy Notice.</p>
+        <p> We distribute movies that have been appropriately certified by the Central Board of Film Certification, television and other filmed entertainment. We reserve the right to display and promote the filmed entertainment or other information on our Website to you in any manner we choose in our sole and absolute discretion.</p>
+        <p>The information our website gathers  from its Users are as follows:</p>
+        <p><strong>User Provided Information:</strong> You provide certain personally identifiable information  (such as your name and email address) to us while choosing to participate in  various activities on our website such as uploading videos, posting messages in  our forums or in the video comments section, entering contests or, taking  advantage of promotions, responding to surveys, or subscribing to newsletters  or other mailing lists.</p>
+        <p><strong>Cookies Information:</strong> When you visit our website, we may send one or more cookies  - a small text file containing a string of alphanumeric characters - to your  computer that uniquely identifies your browser. We use both session cookies and  persistent cookies. A persistent cookie remains after you close your browser.  Persistent cookies may be used by your browser on subsequent visits to the  site. Persistent cookies can be removed by following your web browser help file  directions. A session cookie is temporary and disappears after you close your  browser. You can reset your web browser to refuse all cookies or to indicate  when a cookie is being sent. However, some features of our website may not  function properly if the ability to accept cookies is disabled.</p>
+        <p><strong>Log File Information:</strong> When you use our website, our servers  automatically record certain information that your web browser sends whenever  you visit any website. These server logs may include information such as your  web request, Internet Protocol ("IP") address, browser type, browser  language, referring / exit pages and URLs, platform type, number of clicks,  domain names, landing pages, pages viewed and the order of those pages, the  amount of time spent on particular pages, the date and time of your request,  and one or more cookies that may uniquely identify your browser. </p>
+        <p><strong>Clear  GIFs Information: </strong>When  you use our website, we may employ "clear GIFs" (a.k.a. Web Beacons)  which are used to track the online usage patterns of our Users anonymously  (i.e., in a non-personally-identifiable manner). In addition, we may also use  clear GIFs in HTML-based emails sent to our users to track which emails are  opened by recipients.</p>
+        <p>Manner of usage of User's Information</p>
+        <ul class="termslist">
+          <li>Your personally identifiable information submitted to       us through our Website, shall be used to operate, maintain, and provide to       you the features and functionality of our Website.</li>
+          <li>Any personal information that you voluntarily disclose       online (on discussion boards, in messages and chat areas, within your       public profile page, etc.) becomes publicly available and can be collected       and used by others. Your account name or your email address is displayed       to other Users when you send messages through our website and other Users       can contact you through messages and comments.</li>
+          <li>We may use your email address or other personally       identifiable information to send commercial or marketing messages without       your consent and except as part of a specific program or feature for which       you will have the ability to opt-in or opt-out. We may, however, use your       email address without further consent for non-marketing or administrative purposes       (such as notifying you of major changes or for customer service purposes).</li>
+          <li>We use both your personally identifiable information       and certain non-personally-identifiable information (such as anonymous       User usage data, cookies, IP addresses, browser type, click stream data,       etc.) to improve the quality and design of our website and to create new       features, promotions, functionality, and services by storing, tracking,       and analyzing User preferences and trends.</li>
+          <li>We use cookies, clear gifs, and log file information  to: (a) remember information so that you will not have to re-enter it during  your visit or the next time you visit our website; (b) provide custom,  personalized content and information; (c) monitor the effectiveness of our  marketing campaigns; (d) monitor aggregate metrics such as total number of  visitors, pages viewed, etc.; and (e) track your entries, submissions, and  status in promotions, sweepstakes, and contests. </li>
+        </ul>
+        <p>When <a class="red" href="http://www.bigflix.com">www.bigflix.com</a> Discloses Information</p>
+        <ul class="termslist">
+          <li>We provide personally identifiable information and       non-personally-identifiable information to our subsidiaries, affiliated       companies, or other businesses or persons for the purpose of processing       such information on our behalf. We require that these parties agree to       process such information in compliance with our privacy policy, and we use       reasonable efforts to limit their use of such information and to use other       appropriate confidentiality and security measures.</li>
+          <li>We do not share your personally identifiable information       (such as name or email address) with other, third-party companies for       their commercial or marketing use without your consent or except as part       of a specific program or feature for which you will have the ability to       opt-in or opt-out.</li>
+          <li>We do share non-personally identifiable information       (such as anonymous User usage data, referring / exit pages and URLs,       platform types, number of clicks, etc.) with interested third-parties for       commercial and marketing use or to assist them in understanding the usage       patterns for certain content, services, advertisements, promotions, and/or       functionality on the Website.</li>
+          <li>We may release personally identifiable information       and/or non-personally-identifiable information if required to do so by       law, or in the good-faith belief that such action is necessary to comply       with state and central laws (such as Copyright Law of India) or respond to       a court order, subpoena, or search warrant or at the request of any       judicial and or quasi judicial authority or the Government of India or       State to disclose this information to a third party, after taking all due       precautions before the information requested is disclosed.</li>
+          <li><a class="red" href="http://www.bigflix.com">BIGFlix</a> also       reserves the right to disclose personally identifiable information and/or       non-personally-identifiable information that <a class="red" href="http://www.bigflix.com">www.bigflix.com</a> believes, in good faith, is appropriate or necessary to enforce our Terms       of Use, take precautions against liability, to investigate and defend       itself against any third party claims or allegations, to assist government       enforcement agencies, to protect the security or integrity of our web       site, and to protect the rights, property, or personal safety of <a class="red" href="http://www.bigflix.com">www.bigflix.com</a>,       our Users or others</li>
+        </ul>
+        <p>Your Choices</p>
+        <p>You may choose to decline to submit  personally identifiable information through our website, in which case we may  not be able to provide certain services to you. In such an event, you will be  notified of the same at the time of opening your account and we shall not be  liable and or responsible for the lack of certain services to you. You may  update or correct your personal profile information and email preferences at  any time by visiting your account profile page on our website. Please note that  media files uploaded by Users on our website cannot be removed and remain  subject to our Terms of Use.</p>
+        <p> To protect your privacy and  security, we take reasonable steps (such as requesting a unique password) to  verify your identity before granting you profile access or making corrections.  You are responsible for maintaining the secrecy of your unique password and  account information at all times.</p>
+        <p>Please contact <a class="red" href="mailto:privacy@bigflicks.com">privacy@bigflicks.com</a> with any questions or comments about this Privacy Notice,  your personal information, your consent, or your opt-in or opt-out choices.</p>
+        <p>Third party Advertisers, Links to  Other Sites</p>
+        <p>We allow other companies, called  third party ad servers or ad networks, to serve advertisements within our  website. These third-party ad servers or ad networks use technology to send,  directly to your browser, the advertisements and links that appear on our  website. They automatically receive your IP address when this happens. They may  also use other technologies (such as cookies, JavaScript, or Web Beacons) to  measure the effectiveness of their advertisements and to personalize the  advertising content you see. We do not provide any personally identifiable  information to these third-party ad servers or ad networks without your consent  or except as part of a specific program or feature for which you may request to  opt-out. However, please note that if an advertiser asks Us to show an  advertisement to a certain audience (for example, men aged 18-34) or audience  segment (for example, men aged 18-24 who have viewed certain channels of  content) and you respond to that advertisement, the advertiser or ad server may  conclude that you fit the description of the audience they are trying to reach.  The advertiser may also use information regarding your use of our website, such  as the number of times you viewed an ad (but not any personally identifiable  information), to determine which ads to deliver to you.</p>
+        <p> You should consult the respective  privacy policies of these third party ad servers or ad networks on their  practices and for instructions on how to opt-out of certain practices. Our  privacy policy does not apply to, and we cannot control the activities of, such  other advertisers or web sites.</p>
+        <p>Our Commitment to Data Security</p>
+        <p>We use commercially reasonable  physical, managerial, and technical safeguards to preserve the integrity and  security of your personal information. We cannot, however, ensure or warrant  the security of any information you transmit to us and you do so at your own  risk. Once we receive your transmission of information, we make commercially  reasonable efforts to ensure the security of our systems. However, please note  that this is not a guarantee that such information may not be accessed, disclosed,  altered, or destroyed by breach of any of our physical, technical, or  managerial safeguards.</p>
+        <p>If we come to know about a breach in  the security systems, then we may attempt to notify you electronically so that  you can take appropriate protective steps. We may post a notice on our website  if a security breach occurs. Depending on where you live, you may have a legal  right to receive notice of a security breach in writing. To receive a free  written notice of a security breach (or to withdraw your consent from receiving  electronic notice) you should notify us using this link <a class="red" href="mailto:securitybreach@bigflicks.com">securitybreach@bigflicks.com</a> </p>
+        <p>Our Commitment to Children's Privacy</p>
+        <p>Protecting the privacy of young  children is especially important. For that reason, we do not knowingly collect  or maintain personally identifiable information or non-personally-identifiable  information on our website from persons below 18 years of age, and no part of  our website is directed to persons below the age of 18 years. If you are under  18 years of age, then please do not use or access our website at any time or in  any manner. If we learn that personally identifiable information of persons  below 18 years of age has been collected on our website then we will take appropriate  steps to delete this information. If you have questions about our Site or  Privacy Policy, please feel free to contact the BIGFlix Privacy Coordinator at <a class="red" href="mailto:privacy@bigflicks.com">privacy@bigflicks.com</a> </p>
+        <p>Special Note to International Users</p>
+        <p><a class="red" href="http://www.bigflix.com">www.bigflix.com</a> is a  website hosted in India and is intended for and directed to Users worldwide. If  you are a User accessing our website from any other country with laws or  regulations governing personal data collection, use, and disclosure, that  differ from the laws of India, please be advised that through your use of our  website, this Privacy Notice, and our Terms of Use, you are transferring your  personal information to India and you consent to that transfer. We will only be  complying with the legal provisions on the subject matter as applicable in  India from time to time.</p>
+        <p>In the Event of Merger, Sale, or  Bankruptcy</p>
+        <p>In the event that BIGFlix is acquired by or merged with a third  party entity, we reserve the right, in any of these circumstances, to transfer  or assign the information we have collected from our Users as part of such  merger, acquisition, sale, or other change of control. In the unlikely event of  our bankruptcy, insolvency, reorganization, receivership, or assignment for the  benefit of creditors, or the application of laws or equitable principles  affecting creditors' rights generally, we may not be able to control how your  personal information is treated, transferred, or used.</p>
+        <p>Changes and Updates to this Privacy  Notice:</p>
+        <p> We reserve the right at any time to  (i) change the terms of this Privacy Notice; (ii) &nbsp;change the Terms of Use, including eliminating  or modifying any content on or feature of the Website; or (iii) change/charge  any fees or charges for use of the services.</p>
+        <p> Any changes we make shall be  effective immediately from the notice, which we may give either by posting the  new notice on the website or via electronic mail. Your use of the services after  such notice will be deemed acceptance of such changes. Be sure to review  changes in the Privacy Notice periodically to ensure your familiarity with the  most current version. You will always be able to tell when the version was last  updated by checking the "Last Revised date in the header of this Privacy Notice.</p>
+        <p> If site users have any questions or  suggestions regarding our privacy policy, please contact us at:</p>
+        <p>E-mail: <a class="red" href="mailto:privacy@bigflicks.com">privacy@bigflicks.com</a><br>
+          Postal address: 401, Level 4, Infiniti, New Link Road, Andheri (West), Mumbai  400 053.</p>
+        <p><strong>Website Administration</strong> <br>
+		Business Name: BIGFlix.com<br>
+		Address: 401 Level 4, <br>
+		Infiniti, New Link Road<br>
+		Andheri (West),<br>
+		City: Mumbai<br>
+		State: Maharashtra<br>
+		Pin code: 400 053<br>
+		Country: India<br>
+		Website URL: <a class="red" href="http://www.bigflix.com">http://www.bigflix.com</a></p>
+      </div>
+    </div>
+  </div>
+  <div class="clearall"></div>
+</div>
+		
+
+
+
+
+
+
+
+
+
+
+<script type="text/javascript">
+
+function subscribeNewsLetter(emailid,source) {
+	
+	var id = jQuery('#emailId').val();
+    
+    if(!validEmailAddress(id))
+	{
+    	jQuery('#dialog').html('Please enter valid email id');
+	callModel();
+    	setTimeout('closeModel()',5000);
+		return false;
+	}
+	
+	jQuery.ajax({
+		type: "POST",
+		async: false,
+		url:"/xaja/cc",
+		data: { e: id },
+		success: function(msg) {
+			if(msg == "DUPLICATE"){
+				jQuery('#dialog').html('This email address is already registered. Please try again');
+				callModel();
+				setTimeout('closeModel()',5000);
+				return false;
+			}
+			else{
+				jQuery.ajax({
+						type: "GET",
+						url:"/BFDispatch.do",
+						data: {parameter: "bigflixNewsLetterSubscription",source:"bigflix",emailid:id},
+						beforeSend: function ( xhr ) {
+						    jQuery('#dialog').html('<img src=\'/apache_file/images/new_images/ajax-loader.gif\'/>');
+						    callModel();
+						},
+						success: function(msg) {
+							if(msg.indexOf('success')!= -1)
+							{
+								jQuery('#dialog').html('Congrats!!You are subscribed to our news letter');
+								setTimeout('closeModel()',5000);
+							}
+							else{
+								jQuery('#dialog').html("Sorry!!Please try later.");
+								setTimeout('closeModel()',5000);
+							}
+							callModel();
+					}
+				});
+			}
+		}
+	});
+}
+
+function validEmailAddress(c) {
+    var b = /^([\w-]+(?:\.[\w-]+)*)@((?:[\w-]+\.)*\w[\w-]{0,66})\.([a-z]{2,6}(?:\.[a-z]{2})?)$/i;
+    if (c.length = 0) {
+        return false
+    } else {
+        var d = new Array(100);
+        d = c.split(",");
+        if (!b.test(d[0].replace(/^\s+|\s+$/g, ""))) {
+            return false
+        }
+        return true
+    }
+}
+function clear_click(thisfield, defaulttext){
+	   if (thisfield.value == defaulttext) {
+		   thisfield.value = "";
+		}
+	}
+	function recall_click(thisfield, defaulttext){
+	   if (thisfield.value == "") {
+	 	  thisfield.value = defaulttext;
+		}
+	}
+</script>
+
+<div class="footerblock">
+  <div class="footer-container">
+    <div class="block1">
+      <div class="app-social">
+        <div class="title">Download Free BIGFLIX  Apps</div>
+        <div class="applist">
+          <ul>
+            <li class="apple"><a href="http://itunes.apple.com/in/app/bigflix-hd/id469988374?mt=8" class="linkapp" title="iphone &amp; ipad"><span>iphone &amp; ipad</span></a></li>
+            <li class="android">
+            	<a href="https://play.google.com/store/apps/details?id=com.bigflix.bigflixtablet&amp;feature=more_from_developer#?t=W251bGwsMSwxLDEwMiwiY29tLmJpZ2ZsaXguYmlnZmxpeHRhYmxldCJd" class="linkapp" title="Android Smart Phones &amp; Tablets">
+            		<span>Smart Phones &amp; Tablets</span>
+            	</a>
+            </li>
+            <li class="windows">
+            	<a href="http://www.windowsphone.com/en-in/store/app/bigflix/c928834f-4547-4bb0-97ce-fdf6b00e6f1c" class="linkapp" title="Windows Phones &amp; Tablets">
+            		<span>Smart Phones &amp; Tablets</span>
+            	</a>
+            </li>
+            <li class="backberry" title="Coming Soon for Blackberry">
+            	<a href="javascript:void(0);" class="linkapp" title="Coming Soon for Blackberry">
+            		<span>Smart Phones &amp; Tablets</span>
+            	</a>
+            </li>
+          </ul>
+          <div class="clearall"></div>
+        </div>
+        <div class="divider"><img src="/apache_file/images/ui/divider-line.jpg" alt="Download Free Apps"></div>
+        <div class="sociallist">
+          <ul>
+            <li class="txt">Follow us</li>
+            <li class="facebook"><a href="http://www.facebook.com/bigflix" class="linkapp" title="facebook"><span>facebook</span></a></li>
+            <li class="twitter"><a href="https://twitter.com/OfficialBigflix" class="linkapp" title="twitter"><span>twitter</span></a></li>
+          </ul>
+          <div class="clearall"></div>
+        </div>
+      </div>
+      <div class="links">
+        <div class="boldlinks">
+          <ul>
+            <li><a href="/about">About BIGFLIX</a></li>
+            <li><a href="/press">Press Center</a></li>
+            <li><a href="/contact-us">Contact Us</a></li>
+            <li><a href="/faq">Help Center</a></li>
+          </ul>
+        </div>
+        <div class="otherlinks">
+          <ul>
+            <li><a href="/terms">Terms &amp; Conditions</a></li>
+            <li><a href="/privacy">Privacy Policy</a></li>
+            <li><a href="/sitemap.xml">Sitemap</a></li>
+          </ul>
+        </div>
+      </div>
+      <div class="cards">
+        <div class="title">Payment Methods we Accept</div>
+        <div class="cardlist">
+          <ul>
+            <li class="visa"><a class="linkapp" title="VISA"><span>VISA</span></a></li>
+            <li class="master"><a class="linkapp" title="Master card"><span>Master Card</span></a></li>
+            
+            	<li class="amex"><a class="linkapp" title="AMEX"><span>AMEX</span></a></li>
+            
+            <li class="paypal"><a class="linkapp" title="PayPal"><span>Paypal</span></a></li>
+          </ul>
+          <div class="clearall"></div>
+          <div style="text-align:center;padding-top:5px"><img height="53px" width="119px" src="/apache_file/images/ui/thawte_ssl_secure_site_seal.gif" alt="Payments Secured By thawte" title="Payments Secured By thawte" description="Payments Secured By thawte" caption="Payments Secured By thawte"> </div>
+        </div>
+      </div>
+      <div class="msg"><img src="/apache_file/images/ui/otherdetails.gif" alt="Million+ Visitors served | 2000+ Movies catalogue &amp; updated regularly | 20000+ Active subscribers | Available in 15+ Languages" desscription="Million+ Visitors served | 2000+ Movies catalogue &amp; updated regularly | 20000+ Active subscribers | Available in 15+ Languages" caption="Million+ Visitors  served | 2000+ Movies catalogue &amp; updated regularly | 20000+ Active subscribers | Available in 15+ Languages" title="Million+ Visitors served | 2000+ Movies catalogue &amp; updated regularly | 20000+ Active subscribers | Available in 15+ Languages"></div>
+      <div class="signup">
+        <div class="title">Sign Up for our Newsletter</div>
+        <div class="inputblock">
+          <input name="" id="emailId" type="text" onblur="recall_click(this,'Email address')" onclick="clear_click(this, 'Email address')" value="Email address" class="textbox">
+          <br>
+          <input type="image" onclick="subscribeNewsLetter('emailId','bigflix');" name="imageField" id="imageField" alt="Sign Up and get to see latest movies online" title="Sign Up and get to see latest movies online" description="Sign Up and get to see latest movies online" caption="Sign Up and get to see latest movies online" class="button" src="/apache_file/images/ui/signup-bttn.gif">
+        </div>
+      </div>
+      <div class="clearall"></div>
+    </div>
+    <div class="block2">
+      <h1>Watch High Quality Movies Online</h1><p>BIGFLIX is a premier Movies on Demand online streaming service in Hindi, English, Tamil, Telugu, Malayalam and multiple regional languages. There is a wide assortment of movies across genres like action, drama, thriller, romance amongst many others. Members of BIGFLIX watch unlimited movies across multiple device - PC, iPad, iPhone, Android, Blackberry, Windows mobile, Windows 8 &amp; Smart TVs. BIGFLIX is now a premium movie entertainment destination for millions of users across the globe.</p>
+   	  
+    </div>
+    <div class="block3">
+      <p>Copyrights © 2013 BIGFLIX Private Limited. All Rights Reserved.</p>
+    </div>
+  </div>
+</div>
+
+
+<script type="text/javascript">
+
+		  var _gaq = _gaq || [];
+		  _gaq.push(['_setAccount', 'UA-1992703-9']);
+		  _gaq.push(['_trackPageview']);
+		
+		  (function() {
+		    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+		    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+		    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+		  })();
+
+</script>
+<!-- Google Code for Main Code -->
+<!-- Remarketing tags may not be associated with personally identifiable information or placed on pages related to sensitive categories. For instructions on adding this tag and more information on the above requirements, read the setup guide: google.com/ads/remarketingsetup -->
+<script type="text/javascript">
+/* <![CDATA[ */
+var google_conversion_id = 1043961425;
+var google_conversion_label = "Nxs8CJG3tAQQ0azm8QM";
+var google_custom_params = window.google_tag_params;
+var google_remarketing_only = true;
+/* ]]> */
+</script>
+<script type="text/javascript" src="//www.googleadservices.com/pagead/conversion.js">
+</script>
+<noscript>
+<div style="display:inline;">
+<img height="1" width="1" style="border-style:none;" alt="google conversion" src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/1043961425/?value=0&amp;label=Nxs8CJG3tAQQ0azm8QM&amp;guid=ON&amp;script=0"/>
+</div>
+</noscript>
+
+		
+	
+</body></html>
