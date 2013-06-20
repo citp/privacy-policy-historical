@@ -1,8 +1,25 @@
-> *The following text is extracted and transformed from the vegas.com privacy policy that was archived on 2008-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081224030331id_/http%3A//www.vegas.com/about/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vegas.com privacy policy that was archived on 2013-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130620111641id_/http%3A//www.vegas.com/about/privacy.html) for the most accurate reproduction.*
 
 # VEGAS.com: About VEGAS.com: Privacy & Security
 
-_Updated Aug. 28, 2007_
+_Updated July 20, 2011_
+
+VEGAS.com takes the privacy of our site visitors and customers very seriously. On this page, we address what information we collect from you and how we use that information. If you have additional questions that are not answered here, please feel free to [contact us](https://web.archive.org/about/contactus.html). 
+
+  * Information We Collect
+  * Information We Collect About You
+  * Other Information VEGAS.com Collects
+  * Information from Third-Party Sources
+  * How VEGAS.com Uses the Information We Collect
+  * What You'll Receive from VEGAS.com
+  * What Information VEGAS.com Shares
+  * VEGAS.com Products Offered on Other Sites
+  * How VEGAS.com Protects Your Information
+  * About This Policy
+  * Accessing and Updating Your Information
+  * If You Have Questions
+
+
 
 * * *
 
@@ -41,9 +58,11 @@ back to top
 
 If you wish, you may set your browser to refuse cookies. However, by refusing to accept a cookie, you will not be able to access some pages or purchase certain travel services on VEGAS.com. Since many websites use some form of cookie technology, setting your browser to refuse cookies may restrict your access to certain information or product offerings on those websites. Some VEGAS.com cookie files remain on your computer's hard drive unless and until you manually delete the file. VEGAS.com cookie files do not contain personally identifiable information or track an individual users' movement through our site. 
 
-A VEGAS.com third-party advertiser cookie file may also be placed on your hard drive during your visit to our website. The purpose of these types of cookies is to collect aggregate statistics about your visit to our website. These cookies do not contain personally identifiable information or track an individual users' movement through our site. 
+A VEGAS.com third-party advertiser cookie file may also be placed on your hard drive during your visit to our website. The purpose of these types of cookies is to collect aggregate statistics about your visit to our website. These companies may use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. These cookies do not contain personally identifiable information. 
 
-For more information on cookies, [click here](http://ciac.llnl.gov/ciac/bulletins/i-034.shtml)  
+For example, Google, as a third party vendor, uses cookies to serve ads on VEGAS.com. Google's use of the DoubleClick DART cookie enables it to serve ads to VEGAS.com users based on their visit to VEGAS.com and other sites on the Internet.Users may opt out of the use of the DART cookie by visiting the [Google ad and content network privacy policy](http://www.google.com/privacy_ads.html). 
+
+For more information on cookies, [click here](http://www.ftc.gov/ftc/cookies.shtm)  
 
 
 **Tracking Pixels**  
@@ -195,7 +214,7 @@ VEGAS.com understands that the safety of your personal information is extremely 
 
 Personal data that you send or submit to us over the Internet is protected by Secure Socket Layer (SSL) technology. We also use industry-standard firewalls to protect any personal data that we store. 
 
-VEGAS.com is also digitally certified by VeriSign, the leader in digital trust services. You can find verification of this certification on one of our secure pages, like our billing pages. Simply click on the key or lock image in the bottom bar of your browser window while on one of our secure pages. A window will appear with our site security information. 
+VEGAS.com is also digitally certified by Comodo, the leader in digital trust services. You can find verification of this certification on one of our secure pages, like our billing pages. Simply click on the key or lock image in the bottom bar of your browser window while on one of our secure pages. A window will appear with our site security information. 
 
 back to top
 
