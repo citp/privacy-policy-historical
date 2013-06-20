@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hosterstats.com privacy policy that was archived on 2012-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121230182837id_/http%3A//www.hosterstats.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hosterstats.com privacy policy that was archived on 2013-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130620172219id_/http%3A//www.hosterstats.com/privacypolicy.html) for the most accurate reproduction.*
 
 # HosterStats.com Privacy Policy
 
@@ -20,6 +20,6 @@ You can chose to disable or selectively turn off our cookies or third-party cook
 
 Deleting cookies does not mean you are permanently opted out of any advertising program. Unless you have settings that disallow cookies, the next time you visit a site running the advertisements, a new cookie will be added.
 
-HosterStats.com uses Google Analytics to provide its website usage statistics.
+HosterStats.com uses Google Analytics and Piwik to provide its website usage statistics.
 
 AdSense Privacy Policy based on privacy policy by [JenSense](http://www.jensense.com/)
