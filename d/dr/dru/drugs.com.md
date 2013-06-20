@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the drugs.com privacy policy that was archived on 2012-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121230221325id_/http%3A//www.drugs.com/support/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the drugs.com privacy policy that was archived on 2013-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130620145345id_/http%3A//www.drugs.com/support/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy for Drugs.com
 
@@ -8,7 +8,9 @@ For the purposes of this privacy policy, the terms "we", "us", "our" and "Drugs.
 
 ## TRUSTe
 
-[](http://privacy.truste.com/privacy-seal/Drugs-com/validation?rid=d18cba4a-afc4-4863-af81-8262bb120271)Drugs.com has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with [TRUSTe's program requirements](http://www.truste.com/privacy_seals_and_services/consumer_privacy/privacy-programs-requirements.html) including transparency, accountability and choice regarding the collection and use of your personal information. The TRUSTe program does not cover information that may be collected through downloadable software. TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. The TRUSTe certification only covers information collected on our Web site www.drugs.com and does not cover information that may be collected through our Mobile Application. 
+[](https://privacy.truste.com/privacy-seal/Drugs-com/validation?rid=d18cba4a-afc4-4863-af81-8262bb120271 "TRUSTe online privacy certification")
+
+Drugs.com has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with [TRUSTe's program requirements](http://www.truste.com/privacy_seals_and_services/consumer_privacy/privacy-programs-requirements.html) including transparency, accountability and choice regarding the collection and use of your personal information. The TRUSTe program does not cover information that may be collected through downloadable software. TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. The TRUSTe certification only covers information collected on our Web site www.drugs.com and does not cover information that may be collected through our Mobile Application. 
 
 If you have questions or concerns regarding this statement, you should first contact:
 
@@ -19,9 +21,9 @@ If you have questions or concerns regarding this statement, you should first con
 > Telephone: +64 9 476 8500  
 > By e-mail: 
 
-If you are not satisfied with our response you can contact [TRUSTe here](http://watchdog.truste.com/pvr.php?page=complaint).
+If you are not satisfied with our response you can contact [TRUSTe here](https://feedback-form.truste.com/watchdog/request).
 
-Drugs.com collects no personal information about you when you visit our web site unless otherwise stated or unless you choose to provide this information to us (such as through registration on our site, Mednotes, or on the product information submission forms). However, we may collect and store certain information automatically. This information will not be shared with anyone beyond the web site support staff, except when required by law enforcement investigation (such as to comply with a judicial proceeding, court order or subpoena), and will be used only as a source of anonymous statistical information. This information may include:
+Drugs.com collects no personally identifiable information about you when you visit our web site unless otherwise stated or unless you choose to provide this information to us (such as through registration on our site, Mednotes, or on the product information submission forms). However, we may collect and store certain information automatically. This information will not be shared with anyone beyond the web site support staff, except when required by law enforcement investigation (such as to comply with a judicial proceeding, court order or subpoena), and will be used only as a source of anonymous statistical information. This information may include:
 
   * Internet Protocol (IP) address of the domain from which You access the Internet, either Your individual address or the proxy provided by Your Internet Service Provider (ISP).
   * Date and time You access our site.
@@ -37,7 +39,7 @@ We may use the summary statistics to help us make our site more useful to visito
 
 This Web site contains links to other sites that are not owned or controlled by us. Please be aware that we are not responsible for the privacy practices of such other sites.
 
-We encourage you to be aware when you leave our site and to read the privacy statements of each and every Web site that collects personally identifiable information.
+We encourage you to be aware when you leave our site and to read the privacy policies of each and every Web site that collects personally identifiable information.
 
 This privacy statement applies only to information collected by this Web site.
 
@@ -83,7 +85,7 @@ If you choose to use our referral service to tell a friend about our site, we wi
 
 In order to use some areas of this web site, you must first complete the registration form. During registration you are required to provide contact information such as your name, age, email address, preferred username, password and preferred subscriptions. We will only use this information to contact you about the services on our site in which you have expressed interest. You also have the option to provide demographic information to us; we encourage you to submit this information so we can provide you a more personalized experience on our site.
 
-If your personally identifiable information changes, or if you no longer desire our service, you may update or deactivate your information by signing into your account or by emailing our [Customer Support](http://www.drugs.com/support/contact.html) or by contacting us by telephone or postal mail at the contact information listed above.
+If your personally identifiable information changes, or if you no longer desire our service, you may update, delete, or deactivate your information by signing into your account or by emailing our [Customer Support](http://www.drugs.com/support/contact.html) or by contacting us by telephone or postal mail at the contact information listed above.
 
 ### E-mail Disclosure
 
@@ -121,8 +123,12 @@ Drugs.com reserves the right to disclose your personally identifiable informatio
 
 You may update or close/delete your account at any time. When a member is signed in a prominent link is provided to comprehensive account settings including options to permanently delete their account and to opt in or out of email newsletters. Deleting your account will also remove any personally identifiable information that may have been submitted to Drugs.com upon registration. 
 
+### Social Media Widgets
+
+Our Web site includes Social Media Features, such as the Facebook like button [and Widgets, such as the Share this button or interactive mini-programs that run on our site]. These Features may collect your IP address, which page you are visiting on our site, and may set a cookie to enable the Feature to function properly. Social Media Features and Widgets are either hosted by a third party or hosted directly on our Site. Your interactions with these Features are governed by the privacy policy of the company providing it.
+
 ### Changes to the Privacy Policy
 
-If we decide to change our privacy policy, we will post those changes to this privacy statement, the homepage, and other places we deem appropriate so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it. We reserve the right to modify this privacy statement at any time, so please review it frequently. If we make material changes to this policy, we will notify you here, by email, or by means of a notice on our homepage.
+If we decide to change our privacy policy, we will post those changes to this privacy policy, the homepage, and other places we deem appropriate so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it. We reserve the right to modify this privacy policy at any time, so please review it frequently. If we make material changes to this policy, we will notify you here, by email, or by means of a notice on our homepage prior to the change becoming effective.
 
-Updated: June 28th, 2012
+Updated: June 14th, 2013
