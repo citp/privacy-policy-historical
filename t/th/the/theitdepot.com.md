@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the theitdepot.com privacy policy that was archived on 2012-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121129184302id_/http%3A//www.theitdepot.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theitdepot.com privacy policy that was archived on 2013-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130620155016id_/http%3A//www.theitdepot.com/privacypolicy.html) for the most accurate reproduction.*
 
-# Theitdepot - Privacy Policy
+# Privacy Policy
 
 This Privacy statement covers the site [http://www.theitdepot.com](http://www.theitdepot.com/) The policy covers only information that is collected through this Web site, and does not cover information that may be collected through software downloaded from the site.
 
-1\. If you have questions or concerns regarding this statement, you should first contact Theitdepot.com Webmaster, at webmaster@theitdepot.com.
+1\. If you have questions or concerns regarding this statement, you should first contact Theitdepot.com Webmaster, at administrator@theitdepot.com.
 
 **Information Collection and Use**
 
@@ -58,7 +58,7 @@ Theitdepot.com takes precautions to protect its customers' information. When you
 
 **Correction/Updating/Reviewing Personal Information**
 
-Customers may change or review their stored account information such as street address or e-mail address through their “My Account” option. You must have your username and password in order to access your account. In the event you forget both your username and password, please contact our customer service department for assistance. 
+Customers may change or review their stored account information such as street address or e-mail address through their "My Account" option. You must have your username and password in order to access your account. In the event you forget both your username and password, please contact our customer service department for assistance. 
 
 The Privacy Policy contained herein became officialy effective Jan 6th, 2007. Theitdepot.com
 
