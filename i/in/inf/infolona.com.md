@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the infolona.com privacy policy that was archived on 2012-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121114182250id_/http%3A//infolona.com/node/69) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the infolona.com privacy policy that was archived on 2013-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130620105602id_/http%3A//infolona.com/node/69) for the most accurate reproduction.*
 
 # INFOLONA – PRIVACY POLICY | Infolona
 
