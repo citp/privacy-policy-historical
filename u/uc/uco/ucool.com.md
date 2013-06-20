@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the ucool.com privacy policy that was archived on 2012-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121105142721id_/http%3A//tynon.ucool.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ucool.com privacy policy that was archived on 2013-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130620033110id_/http%3A//tynon.ucool.com/privacy) for the most accurate reproduction.*
 
-# The First Epic Webgame - Tynon
+# Tynon
 
 uCool Privacy Policy 
 
