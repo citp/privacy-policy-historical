@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the network54.com privacy policy that was archived on 2012-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120620095546id_/http%3A//www.network54.com/Help%3Ftopic%3DPrivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the network54.com privacy policy that was archived on 2013-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130620034001id_/http%3A//www.network54.com/Help%3Ftopic%3DPrivacy) for the most accurate reproduction.*
 
 # Privacy
 
@@ -19,6 +19,8 @@ Network54.com has security measures in place to protect the loss, misuse and alt
 Minors may optionally provide contact information without prior parental consent or parental notification. This site also gives minors the ability to publicly post or distribute personally identifiable contact information without prior parental consent.   
 **NAI Disclosure**  
 Network54 uses third-party advertising companies to serve ads when you visit our Web site. These companies may use anonymous information (not including your name, address, email address, or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, click [here](http://www.networkadvertising.org/optout_nonppii.asp).   
+**Use of VigLink**  
+Please note that Network54.com makes use of a system called VigLink in order to change links to certain online retailers being displayed on the site to include an affiliate marketing tag. This tag permits those online retailers to know that a user clicking those links has been referred by our site so that we may receive a commission on certain sales. VigLink and other online referral software programs are commonly used across the Internet, though if you have a problem with this practice, you can [turn off VigLink](http://www.viglink.com/policies/ftc).   
 **Removal of Information from the Network54.com System**  
 You may request to have your Network54.com login information removed from our system provided that you have given us enough information to verify your request. This can be done by providing us with a valid email address when you create your Network54 login. Requests to have information removed from our system should be sent via email to support@network54.com from the email address that we have associated with your login.   
 **Contact Information**  
