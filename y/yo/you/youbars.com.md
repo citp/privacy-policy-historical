@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the youbars.com privacy policy that was archived on 2012-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121226205628id_/http%3A//www.youbars.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the youbars.com privacy policy that was archived on 2013-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130620092240id_/http%3A//www.youbars.com/privacy) for the most accurate reproduction.*
 
-# You Bar - Customized Bars, Trail Mix, & Shakes | Privacy
+# YouBar Privacy Policy
 
 or <http://www.youbars.com/contactus>
 
