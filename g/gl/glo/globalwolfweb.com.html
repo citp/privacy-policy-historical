@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the globalwolfweb.com privacy policy that was archived on 2012-12-27.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121227151248id_/http%3A//www.lwolf.com/privacy-statement) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the globalwolfweb.com privacy policy that was archived on 2013-06-20.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130620222334id_/http%3A//www.lwolf.com/privacy-statement) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en" id="p192"><head>
 
@@ -33,7 +33,7 @@
 <!-- the following script defines the Calendar.setup helper function, which makes adding a calendar a matter of 1 or 2 lines of code. -->
 <script type="text/javascript" src="http://www.lwolf.com/JScriptCalendar/calendar-setup.js"></script>
 
-<script type="text/javascript" src="http://www.lwolf.com/scripts/jquery/jquery-1.4.2.min.js"></script>
+<script type="text/javascript" src="http://www.lwolf.com/scripts/jquery/jquery-1.7.1.min.js"></script>
 <script type="text/javascript" src="http://www.lwolf.com/scripts/jquery/jquery-ui-1.7.2.custom.min.js"></script>
 <!--[if IE 6]>
     <script type="text/javascript" src="http://www.lwolf.com/scripts/jquery/jquery.bgiframe.min.js"></script>
@@ -140,17 +140,19 @@ LW_PhoneRe = /^((\+\w{1,3}(-| )?\(?\w\)?(-| )?\w{1,5})|(\(?\w{2,6}\)?))(-| )?(\w
 LW_URLRe = /^https?:\/\/([-\w\.]+)+(:\d+)?(\/([\w\/_\.]*(\?\S+)?)?)?$/;
 function AddtoFavorites() {
 	try {
-	if(window.sidebar) {
-		window.sidebar.addPanel(document.title, location.href,"");
+	    if (window.sidebar) {
+	        window.sidebar.addPanel(document.title, location.href, "");
 
-	} 
-	else if( document.all ) { 
-		window.external.AddFavorite(location.href, document.title);
+	    }
+	    else if (document.all) {
+	        window.external.AddFavorite(location.href, document.title);
 
-	} 
-	else if( window.opera && window.print ) { 
+	    }
+	    else if (window.opera && window.print) {
 
-	}
+	    } else {
+	        alert("Press Ctrl-D to bookmark this page");
+	    }
 	} catch(ex) {
 		alert("Press Ctrl-D to bookmark this page");
 	}
@@ -313,6 +315,10 @@ function AddtoFavorites() {
 			<a href="http://www.lwolf.com/brokerwolf" class="topmenu" target="" title="" onclick="">Solutions</a>
 			<ul class="subnav">
 				<li class="sn_first">
+					<a href="http://www.agentWOLF.com" class="submenu" target="_blank" title="agentWOLF" onclick="">agentWOLF</a>
+				</li>
+				
+				<li class="sn_mid">
 					<a href="http://www.lwolf.com/brokerwolf" class="submenu" target="" title="brokerWOLF" onclick="">brokerWOLF</a>
 				</li>
 				
@@ -338,6 +344,10 @@ function AddtoFavorites() {
 				
 				<li class="sn_mid">
 					<a href="http://www.lwolf.com/wolfwatch" class="submenu" target="" title="WOLFwatch" onclick="">WOLFwatch</a>
+				</li>
+				
+				<li class="sn_mid">
+					<a href="http://www.lwolf.com/wolfvision" class="submenu" target="" title="WOLFvision" onclick="">WOLFvision</a>
 				</li>
 				
 				<li class="sn_mid">
@@ -462,15 +472,15 @@ function AddtoFavorites() {
   	</div>
   </div>
   <div class="clear"></div>
-  	<!-- next select code removes the top bar with the testimonials and mission statement for retheculous and agent wolf pages, as well as landing page for agent designs -->
+  	<!-- next select code removes the top bar with the testimonials and mission statement for some landing pages -->
   	
 	<div class="lw_products_inner">
 	  <div class="lw_container">
   		<section class="lw_l_24">
   			
   			<figure class="lw_media_slide_inner" onclick="location.href='http://www.lwolf.com/mission-statement';">
-	  			<h2>Your clients will help you improve your product, <br>if you just listen to them.</h2>
-<cite>- Lone Wolf, Mission Statement #3 <a href="http://www.lwolf.com/mission-statement">View All</a></cite>
+	  			<h2>Sometimes we must take one small step back<br>to take one giant leap forward!</h2>
+<cite>- Lone Wolf Principle #5 <a href="http://www.lwolf.com/mission-statement">View All</a></cite>
   			</figure>
   		</section>
   		</div>
@@ -517,6 +527,10 @@ function AddtoFavorites() {
 			<a href="http://www.lwolf.com/brokerwolf" class="topmenu" target="" title="" onclick="">Solutions</a>
 			<ul class="subnav">
 				<li class="sn_first">
+					<a href="http://www.agentWOLF.com" class="submenu" target="_blank" title="agentWOLF" onclick="">agentWOLF</a>
+				</li>
+				
+				<li class="sn_mid">
 					<a href="http://www.lwolf.com/brokerwolf" class="submenu" target="" title="brokerWOLF" onclick="">brokerWOLF</a>
 				</li>
 				
@@ -542,6 +556,10 @@ function AddtoFavorites() {
 				
 				<li class="sn_mid">
 					<a href="http://www.lwolf.com/wolfwatch" class="submenu" target="" title="WOLFwatch" onclick="">WOLFwatch</a>
+				</li>
+				
+				<li class="sn_mid">
+					<a href="http://www.lwolf.com/wolfvision" class="submenu" target="" title="WOLFvision" onclick="">WOLFvision</a>
 				</li>
 				
 				<li class="sn_mid">
@@ -717,7 +735,7 @@ function AddtoFavorites() {
 				<div class="lw_disclaimer">
 					<p class="lwolf_disclaimer">
 						<img class="lwolf_logo_company" src="http://www.lwolf.com/GlobalTemplates/OfficeTemplates/LW-CompanySite/images/sml_wolf.png" width="64" height="37" border="0" alt="lone wolf logo">
-						<span>© 2012 Lone Wolf Real Estate Technologies Inc. All Rights Reserved.</span>
+						<span>© 2013 Lone Wolf Real Estate Technologies Inc. All Rights Reserved.</span>
 					</p>
 					
 
@@ -734,13 +752,15 @@ function AddtoFavorites() {
 	Administrative Office<br>231 Shearson Cres,310<br>Cambridge&nbsp;ON&nbsp;&nbsp;N1T 1J5<br>
 			</div>
 	
-</div>
 
-<div class="lwolf">
-	<div class="lwolf_text">
-		Site Powered By <a href="http://www.lwolf.com" target="_blank" title="click to view lwolf.com">Lone Wolf Real Estate Technologies</a> v2012.0.1.30
+	<div class="lone_wolf_powered_container" style="padding:10px 0px;">
+		
+        <a href="http://www.lwolf.com" target="_blank" class="lone_wolf_powered" rel="nofollow"><img src="http://www.lwolf.com/images/lone-wolf-powered.png" width="90" height="40" title=" v2013.0.1. 50" alt=" v2013.0.1. 50" border="0"> </a>
+	
 	</div>
-	<a href="http://www.lwolf.com" target="_blank" title="click to view lwolf.com" class="lwolf_logo"><img src="http://www.lwolf.com/images/lwolf.jpg" width="49" height="27" alt="Lone Wolf Real Estate Technologies Logo" border="0"></a>
+	
+
+
 </div>
 
 <!--GOOGLE SNIPPET-->
@@ -840,8 +860,12 @@ pageTracker._trackPageview();
 			<a href="http://www.KeyToYourOffice.com" class="topmenu" target="_blank" title="" onclick="">www.KeyToYourOffice.com</a>
 		</li>
 		
-		<li class="tn_last">
+		<li class="tn_mid">
 			<a href="http://www.WOLFmediaNetwork.com" class="topmenu" target="_blank" title="" onclick="">www.WOLFmediaNetwork.com</a>
+		</li>
+		
+		<li class="tn_last">
+			<a href="http://www.agentWOLF.com" class="topmenu" target="_blank" title="www.agentWOLF.com" onclick="">www.agentWOLF.com</a>
 		</li>
 					
 	</ul>
@@ -908,6 +932,7 @@ pageTracker._trackPageview();
 
 		});
 	</script>
+
 
 
 </body></html>
