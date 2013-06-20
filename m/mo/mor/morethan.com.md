@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the morethan.com privacy policy that was archived on 2012-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121102101401id_/http%3A//www.morethan.com/Pages/Legal/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the morethan.com privacy policy that was archived on 2013-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130620155540id_/http%3A//www.morethan.com/Pages/Legal/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # MORE TH>N Car, Home, Pet, Breakdown, Life and Travel Insurance quotes online from Royal & SunAlliance – Legal Stuff
 
@@ -120,7 +120,7 @@ You can check that your correct registration number details are shown on the MID
 
 Cookies are small text files placed on your computer and are commonly used on the internet. There are various types of cookies which perform different functions, such as remembering which items you have placed in your shopping basket or analysing your browsing behaviour to enable advertisers to present you with adverts more relevant to you and your interests. 
 
-For more information about cookies, visit [www.allaboutcookies.org](https://web.archive.org/web/20121102101401id_/http%3A//www.morethan.com/Pages/Legal/www.allaboutcookies.org). 
+For more information about cookies, visit [www.allaboutcookies.org](http://www.allaboutcookies.org/). 
 
 ## Accepting or rejecting cookies
 
