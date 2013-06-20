@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the journalgazette.net privacy policy that was archived on 2012-10-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121017132634id_/http%3A//www.journalgazette.net/article/99999999/ABOUT04/709742840) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the journalgazette.net privacy policy that was archived on 2013-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130620165505id_/http%3A//www.journalgazette.net/article/99999999/ABOUT04/709742840) for the most accurate reproduction.*
 
 # JournalGazette.net - about us | The Journal Gazette | Fort Wayne, IN
 
@@ -6,11 +6,9 @@ Effective June 27, 2006
 
 This site, journalgazette.net, is covered by the policies herein. Fort Wayne Newspapers is part of the Real Cities Network (or "RCN"), a national network of Internet sites serving geographic and common interest communities across the United States. RCN affiliates each have their own Terms of Use and Privacy Policies. Please review all affiliate's policies to understand the privacy terms applicable on their sites. You can view the sites included in the Real Cities Network at http://www.realcities.com/. 
 
-Fort Wayne Newspapers is a licensee of the TRUSTe Privacy Program. TRUSTe is an independent, non-profit organization whose mission is to build users' trust and confidence in the Internet by promoting the use of fair information practices. This privacy statement covers FortWayne.com and journalgazette.net. 
+This privacy statement covers FortWayne.com and journalgazette.net. 
 
-Because this web site wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices and have its privacy practices reviewed for compliance by TRUSTe. If you have questions or concerns regarding this statement, you should first contact Fort Wayne Newspapers at: FortWayne.com Feedback. If you do not receive acknowledgment of your inquiry, or if your inquiry is not satisfactorily addressed, you should then contact TRUSTe through the TRUSTe Dispute Resolution Process at http://www.truste.org/consumers/watchdog_complaint.php. TRUSTe will serve as a liaison with the Web site to resolve your concerns. 
-
-The TRUSTe program covers only information that is collected through this Web site, and does not cover information that may be collected through software downloaded from the site. 
+If you have questions or concerns regarding this statement, you should first contact Fort Wayne Newspapers at: FortWayne.com Feedback. 
 
 When does Fort Wayne Newspapers collect my personally identifiable information? 
 
@@ -64,13 +62,13 @@ This Web site contains links to other sites that are not owned or controlled by 
 
 We encourage you to be aware when you leave our site and to read the privacy statements of each and every Web site that collects personally identifiable information. 
 
-This privacy statement applies only to information collected by this Web site. 
+This privacy statement applies only to information collected by this Web site.
 
-**Newsright**
+ **Newsright**
 
-This website uses services provided by Newsright. Newsright collects content usage information and may use cookies in conjunction with this activity. Your continued readership of the site means you accept the privacy policy of the Newsright. Please refer to the Newsright privacy policy at <http://www.newsregistry.com/privacycenter/servicepolicy.aspx> for further information. 
+This website uses services provided by Newsright. Newsright collects content usage information and may use cookies in conjunction with this activity. Your continued readership of the site means you accept the privacy policy of the Newsright. Please refer to the Newsright privacy policy at <http://www.newsregistry.com/privacycenter/servicepolicy.aspx> for further information.
 
-**PRIVACY PROTECTION FOR CHILDREN**. In compliance with the Children's Online Privacy Protection Act (COPPA), we will not knowingly provide access to Fort Wayne Newspapers sites to persons under the age of thirteen (13). If Fort Wayne Newspapers later learns that any registered user is under the age of thirteen (13), we will take appropriate steps to remove the member's information from the database and we will restrict this individual from future access to Fort Wayne Newspapers sites. We feel strongly about protecting the privacy of children. We encourage kids to involve their parents in any interactive activity they participate in online. Except where otherwise disclosed, we will not collect or use any personal information from children we know to be under the age of thirteen without obtaining express parental consent. All general information collected from users under the age of thirteen is used only for aggregate statistical analysis. 
+ **PRIVACY PROTECTION FOR CHILDREN**. In compliance with the Children's Online Privacy Protection Act (COPPA), we will not knowingly provide access to Fort Wayne Newspapers sites to persons under the age of thirteen (13). If Fort Wayne Newspapers later learns that any registered user is under the age of thirteen (13), we will take appropriate steps to remove the member's information from the database and we will restrict this individual from future access to Fort Wayne Newspapers sites. We feel strongly about protecting the privacy of children. We encourage kids to involve their parents in any interactive activity they participate in online. Except where otherwise disclosed, we will not collect or use any personal information from children we know to be under the age of thirteen without obtaining express parental consent. All general information collected from users under the age of thirteen is used only for aggregate statistical analysis. 
 
 **Acceptance of Privacy Policy**. By using journalgazette.net and Fort Wayne Newspapers sites and services, you signify your acceptance of this Privacy Statement. If you do not agree or are not comfortable with any policy described in this Privacy statement, your only remedy is to discontinue use of the sites. We reserve the right, to modify this Privacy Statement at any time. If we materially change how we use your personal information we will notify you either by e-mail or through a notice on the web site. Your continued use of any portion of Fort Wayne Newspapers sites following notification or posting of such changes, will constitute your accept of those changes. If you have questions or concerns about our specific policies, please contact us through our feedback form at: [FortWayne.com Feedback](mailto:feedback@fwn.fortwayne.com). 
 
@@ -82,7 +80,7 @@ Electronic Privacy Information Center - established to focus public attention on
 
 Privacy Issues Page - from the Center for Democracy and Technology (CDT). 
 
-Cookie Central - dedicated to provide full information upon Internet Cookies. 
+Cookie Central - dedicated to provide full information upon Internet Cookies.
 
 Terms of Use
 
