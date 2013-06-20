@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vesselfinder.com privacy policy that was archived on 2012-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121220105241id_/http%3A//www.vesselfinder.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vesselfinder.com privacy policy that was archived on 2013-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130620151308id_/http%3A//www.vesselfinder.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Vessel Finder - Free AIS Ship Tracking of Marine Traffic
 
