@@ -1,11 +1,6 @@
-> *The following text is extracted and transformed from the bustedmugshots.com privacy policy that was archived on 2012-10-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121023235230id_/http%3A//www.bustedmugshots.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bustedmugshots.com privacy policy that was archived on 2013-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130620103411id_/http%3A//www.bustedmugshots.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
-
-  * [Home](http://www.bustedmugshots.com/ "Busted!") » 
-  * Privacy Policy
-
-
 
 When accessing our Website, Citizens Information Associates LLC will learn certain information about you during your visit. How we will handle information we learn about you depends upon what you do when visiting our site.
 
@@ -30,4 +25,4 @@ If you identify yourself by sending us an e-mail containing personal information
 
 Citizens Information Associates LLC will not obtain personally-identifying information about you when you visit our site, unless you choose to provide such information to us, nor will such information be sold or otherwise transferred to unaffiliated third parties without the approval of the user at the time of collection.
 
-If you would like to remove your user account, please email us at [support@bustedmugshots.com](mailto:support@bustedmugshots.com), with "Delete User Account" in the subject line.
+If you would like to remove your user account, please email us at [support@BustedGrid.com](mailto:support@bustedgrid.com), with "Delete User Account" in the subject line.
