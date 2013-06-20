@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the values.com privacy policy that was archived on 2011-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111207005431id_/http%3A//www.values.com/about-us/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the values.com privacy policy that was archived on 2013-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130620124241id_/http%3A//www.values.com/about-us/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Values - Pass It On
-
-This policy covers how Values.com and The Foundation for a Better Life treats the personal information you provide and the information related to your past use of the Foundation’s website.
 
 ### GENERAL
 
@@ -16,7 +14,7 @@ The Foundation for a Better life uses information for the following general purp
 
 ### SHARING AND DISCLOSURE
 
-The Foundation for a Better Life does not rent, sell, or share personal information about you with other people or nonaffiliated companies except to provide services you've requested, when we have your permission, or under the following circumstances:
+The Foundation for a Better Life does not rent, sell, or share personal information about you with other people or non-affiliated companies except to provide services you've requested, when we have your permission, or under the following circumstances:
 
 We respond to subpoenas, court orders, or legal process, or to establish or exercise our legal rights or defend against legal claims.
 
