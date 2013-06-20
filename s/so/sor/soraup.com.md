@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the soraup.com privacy policy that was archived on 2012-11-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121104234424id_/http%3A//www.soraup.com/info.php%3Fact%3Dprivacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the soraup.com privacy policy that was archived on 2013-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130621003910id_/http%3A//soraup.com/info.php%3Fact%3Dprivacy_policy) for the most accurate reproduction.*
 
 # Sora Up » More Information » Privacy Policy
 
