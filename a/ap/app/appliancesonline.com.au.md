@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the appliancesonline.com.au privacy policy that was archived on 2012-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121014035011id_/http%3A//www.appliancesonline.com.au/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the appliancesonline.com.au privacy policy that was archived on 2013-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130620151057id_/http%3A//www.appliancesonline.com.au/privacy-policy.aspx) for the most accurate reproduction.*
 
-# Privacy Policy - Appliances Online
+# Privacy Policy - Appliances On
 
 Appliances Online Pty Ltd (" **AppliancesOnline.com.au™** ") and its related companies are committed to providing you with a high level of customer service. This includes protecting and maintaining the privacy, accuracy and security of your personal information. We are bound by, and will abide by, the National Privacy Principles in the Privacy Act (Cth) 1988 (" **Privacy Act** "). 
 
@@ -83,8 +83,8 @@ We reserve the right to modify this privacy policy at any time, so please review
 We encourage and value your feedback. If you have any questions about our privacy policy, or have a problem or complaint, please let us know. Our contact details are:
 
 **Appliances Online Pty Ltd**  
-Level 2, 90 New South Head Road Edgecliff NSW 2027
+Level 2, 20A Danks Street, Redfern NSW 2016
 
 **Phone:** 1300 000 500  
-**Fax:** (02) 9326 1289  
-**E-mail:** privacy(at)AppliancesOnline.com.au
+ **Fax:** (02) 9326 1289  
+ **E-mail:** privacy@appliancesonline.com.au
