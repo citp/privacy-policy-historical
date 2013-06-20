@@ -1,10 +1,6 @@
-> *The following text is extracted and transformed from the watches2u.com privacy policy that was archived on 2012-09-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120915063906id_/http%3A//www.watches2u.com/info/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the watches2u.com privacy policy that was archived on 2013-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130620151951id_/http%3A//www.watches2u.com/info/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
-
-Watches2u is an Official Watch Stockist
-
-[ ](http://www.watches2u.com/watches/krug-baumen/2163kl-ladies-revelation-white.html)
 
 When you visit, register, or order product(s) on Watches2u.com, you will be asked to provide certain information about yourself, including your name and contact details. We may also collect information about your usage of the website, as well as information about you from emails and letters you send to us.
 
