@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 123inkcartridges.ca privacy policy that was archived on 2012-08-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120818002654id_/http%3A//privacy-policy.truste.com/verified-policy/www.123inkcartridges.ca) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 123inkcartridges.ca privacy policy that was archived on 2013-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130620153455id_/http%3A//privacy-policy.truste.com/verified-policy/www.123inkcartridges.ca) for the most accurate reproduction.*
 
 # Privacy Policy for www.123inkcartridges.ca
 
@@ -101,8 +101,8 @@ You can contact us about this privacy statement by writing or email us at the ad
 
 123inkcartridges.ca Inc. 
 
-7365 Rue Chouinard 
+2210 52e Av 
 
-LaSalle, Quebec, Canada H8N 2L6
+Lachine, , Canada H8T 2Y3
 
 Phone: 1-866-979-7463
