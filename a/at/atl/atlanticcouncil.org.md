@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the atlanticcouncil.org privacy policy that was archived on 2011-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110606040923id_/http%3A//acus.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the atlanticcouncil.org privacy policy that was archived on 2013-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130620205509id_/http%3A//www.acus.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Atlantic Council
 
