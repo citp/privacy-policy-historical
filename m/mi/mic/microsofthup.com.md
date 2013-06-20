@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the microsofthup.com privacy policy that was archived on 2010-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100614210108id_/http%3A//www.microsofthup.com/hupus/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the microsofthup.com privacy policy that was archived on 2013-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130621003015id_/http%3A//www.microsofthup.com/hupus/privacy.aspx%3Fculture%3Den-US) for the most accurate reproduction.*
 
-# Microsoft Home Use Program - Only $9.95 for Microsoft Office Professional Plus 2010. The software suite includes Word, Excel PowerPoint, Outlook, Publisher, Access and more!
+# Microsoft Home Use Program - Microsoft Office Professional Plus 2013. The software suite includes Word, Excel, PowerPoint, Outlook, Publisher, Access and more!
 
 **DIGITAL** **RIVER** **ONLINE PRIVACY POLICY**
 
