@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the apr.com privacy policy that was archived on 2012-10-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121002034857id_/http%3A//www.apr.com/Privacy-Statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the apr.com privacy policy that was archived on 2013-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130620195527id_/http%3A//www.apr.com/Privacy-Statement) for the most accurate reproduction.*
 
-# APR - Privacy Statement
+# Privacy Statement | Alain Pinel Realtors
 
 [ ](https://web.archive.org/Home)
 
