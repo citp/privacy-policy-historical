@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sabmiller.com privacy policy that was archived on 2012-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121218095217id_/http%3A//www.sabmiller.com/index.asp%3Fpageid%3D13) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sabmiller.com privacy policy that was archived on 2013-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130621000539id_/http%3A//www.sabmiller.com/index.asp%3Fpageid%3D13) for the most accurate reproduction.*
 
 # SABMiller - Services - Privacy & cookies
 
@@ -18,7 +18,7 @@ We know that people have concerns about cookies, but we believe that the benefit
 
 You can delete the files that contain cookies – those files are stored as part of your internet browser. If you wish to restrict or block the cookies which are set by SABMiller.com, or indeed any other website, or if you wish to receive notification of cookie placement requests or decline cookies completely, you can do this through your browser settings. The Help function within your browser should tell you how. Please be aware that declining or denying cookies may prevent you from being able to use the website to its highest capability.
 
-Alternatively, you may wish to visit [www.aboutcookies.org](http://www.aboutcookies.org/ "Opens in a new browser window.") which contains comprehensive information on how to do this on a wide variety of browsers. You will also find details on how to delete cookies from your computer as well as more general information about cookies. For information on how to do this on the browser of your mobile device you will need to refer to your manual.
+Alternatively, you may wish to visit [www.aboutcookies.org](http://www.aboutcookies.org/) which contains comprehensive information on how to do this on a wide variety of browsers. You will also find details on how to delete cookies from your computer as well as more general information about cookies. For information on how to do this on the browser of your mobile device you will need to refer to your manual.
 
 This is a list of the main cookies set by the SABMiller plc website, and what each is used for:
 
