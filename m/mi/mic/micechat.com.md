@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the micechat.com privacy policy that was archived on 2012-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121217164632id_/http%3A//micechat.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the micechat.com privacy policy that was archived on 2013-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130620152700id_/http%3A//micechat.com/privacy-policy) for the most accurate reproduction.*
 
 # MiceChat - Privacy Policy
 
@@ -68,7 +68,7 @@ We have security measures in place to protect the loss, misuse and alteration of
 
 **Correcting, Updating, or Removing Personal Information**
 
-In case you wish to correct, update, or remove your personal information, we will use commercially reasonable efforts to find a way to correct, update, or remove the personal data you give us as it is used on our Web site(s) and to the extent we control the use of such data. You can do this at supplied member profile pages or by [contacting the administrator](http://micechat.com/forums/contactus.php).
+In case you wish to correct, update, or remove your personal information, we will use commercially reasonable efforts to find a way to correct, update, or remove the personal data you give us as it is used on our Web site(s) and to the extent we control the use of such data. You can do this at supplied member profile pages or by [contacting the administrator](https://web.archive.org/forums/contactus.php).
 
 **Acceptance of These Terms**
 
