@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the notalwaysromantic.com privacy policy that was archived on 2012-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121130010047id_/http%3A//notalwaysromantic.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the notalwaysromantic.com privacy policy that was archived on 2013-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130620152931id_/http%3A//notalwaysromantic.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy » Funny & Unusual Romantic & Love Stories – Not Always Romantic
 
