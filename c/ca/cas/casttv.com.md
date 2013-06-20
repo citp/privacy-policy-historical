@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the casttv.com privacy policy that was archived on 2012-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121221183817id_/http%3A//privacy.tribune.com) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the casttv.com privacy policy that was archived on 2013-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130620085636id_/http%3A//www.zap2it.com/services/site/zap-privacy-policy%2C0%2C7712844.story) for the most accurate reproduction.*
 
-# Privacy Policy - Tribune - privacy.tribune.com
+# Privacy policy - Zap2it
 
 Tribune Company is a diverse multimedia company and, together with its Affiliates, operates daily newspapers, television stations, a digital broadcast program network, and news, entertainment, and information websites. In this Privacy Policy, “Affiliates” refers to our subsidiaries and entities that Tribune or its subsidiaries operate or have an ownership interest in. 
 
