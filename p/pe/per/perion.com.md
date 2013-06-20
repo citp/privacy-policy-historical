@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the perion.com privacy policy that was archived on 2012-10-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121006155034id_/http%3A//www.perion.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the perion.com privacy policy that was archived on 2013-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130620085647id_/http%3A//www.perion.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Perion
 
@@ -6,7 +6,7 @@
 
 THIS STATEMENT APPLIES TO PERION NETWORK LTD. AND ITS SUBSIDIARIES’ (“PERION”) INFORMATION COLLECTION AND USE POLICIES WITH RESPECT TO USE OF THE WEBSITE, SERVICES AND PRODUCTS. BY USING THE WEBSITE, SERVICES OR PRODUCTS, YOU CONSENT TO THE DATA PRACTICES AND INFORMATION COLLECTION AS DESCRIBED IN THIS STATEMENT. PERION IS COMMITTED TO PRESERVING THE PRIVACY OF OUR USERS. THIS PRIVACY STATEMENT EXPLAINS WHICH INFORMATION WE COLLECT AND HOW WE USE IT.
 
-IF YOU DO NOT AGREE TO THE TERMS AND CONDITIONS SET FORTH HEREIN, DO NOT USE THE SERVICES, WEBSITES, AND PRODUCTS MADE AVAILABLE BY PERION (the “SERVICES”).
+IF YOU DO NOT AGREE TO THE TERMS AND CONDITIONS SET FORTH HEREIN, DO NOT USE THE SERVICES, WEBSITES, AND PRODUCTS MADE AVAILABLE BY PERION (collectively, the “PERION SERVICES” or the “SERVICES”).
 
 **THE SITE AND SERVICES**
 
@@ -20,9 +20,9 @@ While there is no such thing as “perfect security” on the Internet, we will 
 
 Perion may collect Information when you interact with the Perion Services, depending on how you use the Perion Services, the Information, may include: ****
 
-a)      Certain technical information gathered or received when you use the Perion Services. Some of the technical information that may be collected or received includes: Your manner of connecting to the Internet, such as the type of browser you are using, operating system and domain name of you Internet service provider; and Internet protocol (IP) address, as further explained below;
+a)      Certain technical information gathered or received when you visit the Website or access/use the Perion Services including without limitation: the type of browser, operating system, ISP, location and Internet protocol (IP) address;
 
-b)      Information made available by you in public Areas;
+b)      Information made available by you in public areas within the Website and/or the Services;
 
 c)      Registration-related information (such as name, home or work addresses, e-mail addresses, telephone and fax numbers, birth date or gender);
 
@@ -34,7 +34,7 @@ f)       Information about mobile devices used to access Perion including 
 
 g)      In addition, many software versions provided by Perion (“Software”) are configured to automatically report back information relating to computer errors arising in connection with use of the Software, without notice to you. Information on your Software configuration settings may be included. This data is sent to Perion to help us diagnose performance issues with, and improve, the Software.
 
-Your Information is usually automatically collected and stored in log files of the Services’ computer servers and may be supplemented with additional information from other companies. All computers setting information will neither contain nor be linked to any personally identifiable information.
+Your Information is usually automatically collected and stored in log files of the Services’ computer servers and may be supplemented with additional information from other companies.
 
 **OUR USE OF THE INFORMATION   **
 
@@ -65,15 +65,11 @@ Our Website provides Users the opportunity to opt-out of receiving certain commu
 
 A User may review and update his personal information provided by him by accessing the Software settings.  We take reasonable steps to ensure that the personal information is kept accurate, complete, and current, but we depend on our Users to update or correct their personal information whenever necessary. Upon receipt of your written request and enough information to permit us to identify you, we will disclose to you the information we hold about you. We will also correct, amend or delete any personal information that is inaccurate and notify any third party recipients of the necessary changes. We ask individual users to identify themselves and the information requested to be accessed, corrected or removed before processing such requests, and we may decline to process requests that are unreasonably repetitive or systematic, require disproportionate technical effort, jeopardize the privacy of others, or would be extremely impractical, or for which access is not otherwise required. You agree that Perion may retain (but shall have no obligation to retain) your data for a limited reasonable period after your use of or license to Perion Services has been terminated, expired, or otherwise lapsed, for the sole purpose of enabling you to renew your use of or license to the Services shortly thereafter, after such period the data shall be erased.
 
-**COOKIES**
+**COOKIES AND OTHER TECHNOLOGIES**
 
-“Cookies” are pieces of information that are placed on an individual’s computer hard drive to enable the individual to more easily communicate and interact with the Service and the Website. Perion may use cookies to save certain information about a User and others who visit the Website, in order to facilitate and enhance future activities with the Services and/or Website. Perion does not use cookies to retrieve information from a computer that is unrelated to the Service. Perion currently contracts with several online partners to help manage and optimize the Services and measure the effectiveness of its advertising and how visitors use the Website. To do this, Perion uses Web beacons and cookies provided by Perion’s marketing companies on the Website. The type of information Perion collects includes the User’s IP address (as further described below), pages visited, the product codes and prices that visitors purchase and coupons that were used during purchase. This information helps Perion learn things such as what pages are most attractive to visitors of the Website, which of Perion’s products most interest its customers, and what kinds of offers our customers like to see.
+“Cookies” are pieces of information that are placed on an individual’s computer hard drive to enable the individual to more easily communicate and interact with the Service and the Website. Perion may use cookies and other technologies to save certain information about a User and others who visit and interact with the Website and the Services, in order to facilitate and enhance Users interactions and activities with the Services and/or Website and to provide User with personalized content which may include interest based information, online ads or other marketing materials. Perion may use third party tracking services to analyze this information, help manage and optimize the Services and measure the effectiveness of its advertising and how visitors use the Website. To do this, Perion may use Web beacons and cookies or other technologies provided by these third parties on the Website or the Services. Such technologies may be able to collect the User IP address, User browsing data in connection with the Website, the Services or other sites or services outside of Perion. Perion may use and/or provide this information in the aggregate, and on anonymous basis, to its partners including for the purpose of delivering advertising that may be more relevant to you, and to help measure the effectiveness of an advertising campaign. This information helps Perion learn things such as what pages are most attractive to visitors of the Website, which of Perion’s products most interest its customers, and what kinds of offers our customers like to see.
 
-We may use an outside advertising company to display advertisements on the Website and Services. These third parties also may use cookies, pixel tags, and other technologies to, among other things, enable such third parties to record which ads your browser has loaded and which site pages you may have been viewing when the ads were delivered or accessed. Use of such third-party sites is subject to the terms of use and privacy policies of those third parties. The advertisement company may also collect cookies received with outside ad banners. In addition, we may use third party advertisers to serve or track advertisements on websites. We do not have access to information that would confirm the use of cookies by the advertising company. Perion does not control the use of this technology or the resulting information and is not responsible for any actions or policies of such third parties.  Most browsers are initially set up to accept cookies, but you can reset your browser to refuse all cookies or to indicate when a cookie is being sent. However, some Services may not function properly if your cookies are disabled. By using any Perion Services, you have affirmatively consented to the collection of information and cookies as described above.
-
-**IP ADDRESSES**
-
-An Internet Protocol address is a number that is automatically assigned to a computer when using the Internet. Web servers can automatically identify individual computers by their IP address. Perion may collect IP addresses to: Facilitate system administration; Diagnose system problems; Report aggregate User information; and Avoid hacking attacks on the Perion server. Perion does not link IP addresses to any personally identifiable information, even if such information is voluntarily provided by a User.
+We may use an outside advertising company to display advertisements on the Website and Services. These third parties also may use cookies, pixel tags, and other technologies to, among other things, enable such third parties to record which ads your browser has loaded and which site pages you may have been viewing when the ads were delivered or accessed. Use of such third-party sites is subject to the terms of use and privacy policies of those third parties. The advertisement company may also collect cookies received with outside ad banners. In addition, we may use third party advertisers to serve or track advertisements on websites. We do not have access to information that would confirm the use of cookies by the advertising company. Perion does not control the use of this technology or the resulting information and is not responsible for any actions or policies of such third parties.  Most browsers are initially set up to accept cookies, but you can reset your browser to refuse all cookies or to indicate when a cookie is being sent. However, some Services may not function properly if your cookies are disabled. By using any Perion Services, you have affirmatively consented to the collection of Information and cookies as described above.
 
 **OTHER WEB SITES; LINKS**
 
@@ -93,7 +89,7 @@ By providing any personally identifiable information to us pursuant to this Priv
 
 **CHANGES TO THIS POLICY**
 
-If we decide to change this Privacy Policy, we will post these changes on the Website or other places we deem appropriate so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it. We reserve the right to modify this Privacy Policy at any time, so please review it frequently.
+If we decide to change this Privacy Policy, we will post these changes on the Website or other places we deem appropriate so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it. We reserve the right to modify this Privacy Policy at any time, so please review it frequently. Your continued use of the Website and/or Services will constitute your acceptance of any modified Privacy Policy.
 
 **ENFORCEMENT**
 
@@ -103,4 +99,4 @@ Perion regularly reviews its compliance with this Privacy Policy. When we receiv
 
 If you have any questions or concerns about this Privacy Policy, please feel free to contact us by email to: [privacy@perion.com](mailto:privacy@perion.com).
 
-Last Updated: February16, 2012
+Last Updated: June, 2013
