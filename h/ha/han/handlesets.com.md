@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the handlesets.com privacy policy that was archived on 2012-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121219144305id_/http%3A//www.handlesets.com/index.cfm%3Fpage%3Dhelp%3Asecurity) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the handlesets.com privacy policy that was archived on 2013-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130620195638id_/http%3A//www.handlesets.com/index.cfm%3Fpage%3Dhelp%3Asecurity) for the most accurate reproduction.*
 
 # Handlesets.com: Security & Privacy
 
@@ -7,8 +7,8 @@
 Handlesets.com is a website of Build.com, Inc. Our corporate website can be [viewed here](http://corp.build.com/).
 
 Our postal address is:  
-PO Box 7990  
-Chico, CA 95927
+402 Otterson Drive, Suite 100  
+Chico, CA 95928
 
 We can be reached online through our online Customer Service or we can be contacted by phone at (888) 649-0865, which is our Customer Service call center.
 
@@ -61,5 +61,9 @@ If you choose to visit Handlesets.com, your visit and any dispute over privacy i
 ## Does Build.com Participate in the Safe Harbor Program?
 
 Build.com is a participant in the Safe Harbor program developed by the U.S. Department of Commerce and European Commission. For more information about the Safe Harbor and to view our certification, visit the [U.S. Department of Commerce's Safe Harbor Web site](http://export.gov/safeharbor/) or view our [Safe Harbor Privacy Policy](https://web.archive.org/index.cfm?page=help:safeharborprivacypolicy)
+
+## Update to Privacy Policy
+
+The Privacy Policy was last update Jan. 1, 2010.
 
 **Copyright © 2000-2012 Build.com, Inc. All Rights Reserved.**
