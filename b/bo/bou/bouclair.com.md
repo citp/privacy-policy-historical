@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the bouclair.com privacy policy that was archived on 2012-03-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120323033340id_/http%3A//www.bouclair.com/en/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bouclair.com privacy policy that was archived on 2013-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130621001920id_/http%3A//www.bouclair.com/content/privacypolicy) for the most accurate reproduction.*
 
-# privacy policy - home fashion. smart value - Bouclair
+# Bouclair Home
 
 We are committed to protecting the privacy of our customers. Bouclair does not share any of our customers' personal information with any third parties.
 
@@ -8,9 +8,9 @@ We are committed to protecting the privacy of our customers. Bouclair does not s
 
 We are committed to maintaining the privacy of our customers in the electronic environment. The following outlines our practices concerning the collection and use of your information collected on this website. By visiting our website at www.bouclair.com you agree to be bound by the terms and conditions of this privacy policy and these legal terms and conditions.
 
-You may be required to provide personal information to us when registering for the Bouclair Email Club. You will know when this information is being collected because you will be asked to complete and submit a form. We need this information to be able to inform our customers about our promotions and/or provide customer support.
+You may be required to provide personal information to us when registering for the Bouclair E-mail Club. You will know when this information is being collected because you will be asked to complete and submit a form. We need this information to be able to inform our customers about our promotions and/or provide customer support.
 
-We do not share any of our customers personal information with any third parties, except to internal service providers that we use to facilitate or outsource one or more aspects of the business, product and service operations that we provide to you. These internal service providers' are subject to confidentiality agreements and other legal restrictions that prohibit their use of the information we provide them for any other purpose except to facilitate the specific outsourced related operation, unless you have explicitly agreed or given your prior permission to them for additional uses.
+We do not share any of our customer's personal information with any third parties, except to internal service providers that we use to facilitate or outsource one or more aspects of the business, product and service operations that we provide to you. These internal service providers are subject to confidentiality agreements and other legal restrictions that prohibit their use of the information we provide them for any other purpose except to facilitate the specific outsourced-related operation, unless you have explicitly agreed or given your prior permission to them for additional uses.
 
 If you submit your contact information and resume for employment purposes with us, this information will only be used to evaluate your qualifications for the desired position and possibly to contact you for further information.
 
@@ -30,4 +30,4 @@ The laws of the Province of Quebec shall apply to the interpretation of this pri
 
 If you have questions, comments or concerns regarding this privacy policy, please contact us at [info@bouclair.com](mailto:info@bouclair.com).
 
-Bouclair 
+Bouclair
