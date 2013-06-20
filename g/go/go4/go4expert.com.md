@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the go4expert.com privacy policy that was archived on 2012-09-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120920112835id_/http%3A//www.go4expert.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the go4expert.com privacy policy that was archived on 2013-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130620163951id_/http%3A//www.go4expert.com/privacy.php) for the most accurate reproduction.*
 
-# Programming and SEO Forums - Privacy Policy
+# Programming and Web Development Forum - Privacy Policy
 
 **Overview**
 
-Go4Expert.com, Inc. is a community of programmers on the web and this "Privacy Statement" discloses the privacy practices for the entire Go4Expert.com website and Go4Expert.com respects your privacy. Below is an outline of the information that Go4Expert.com gathers, how it’s used, and how you can "opt-out". 
+Go4Expert.com, Inc. is a community of programmers on the web and this "Privacy Statement" discloses the privacy practices for the entire Go4Expert.com website and Go4Expert.com respects your privacy. Below is an outline of the information that Go4Expert.com gathers, how itâ€™s used, and how you can "opt-out". 
 
-We invite you to contact us if you have questions about this policy. You may [contact us](http://www.go4expert.com/forums/sendmessage.php).
+We invite you to contact us if you have questions about this policy. You may [contact us](http://www.go4expert.com/sendmessage.php).
 
 **Statement**
 
@@ -58,7 +58,7 @@ The information collected during the registration process for the Go4Expert.com 
   * Customize content based upon user preferences 
   * Contact members 
   * Display member status 
-  * Display the date of a member´s last visit. 
+  * Display the date of a memberÂ´s last visit. 
   * Enable automatic log-ins upon further visits. 
   * Determining which features our overall user population likes best. 
   * To enhance the user experience in our website. 
@@ -81,7 +81,7 @@ We use third-party advertising companies to serve ads when you visit our website
 
 **Questions and Comments**
 
-If you have any questions, comments or suggestions regarding our web site's privacy policy, or regarding any other aspects of our website, please [contact us](http://www.go4expert.com/forums/sendmessage.php). 
+If you have any questions, comments or suggestions regarding our web site's privacy policy, or regarding any other aspects of our website, please [contact us](http://www.go4expert.com/sendmessage.php). 
 
 **Notification of Changes**
 
