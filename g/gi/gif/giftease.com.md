@@ -1,100 +1,105 @@
-> *The following text is extracted and transformed from the giftease.com privacy policy that was archived on 2011-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110627154744id_/http%3A//www.godaddy.com/agreements/ShowDoc.aspx%3Fpageid%3Dprivacy_parkedpage) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the giftease.com privacy policy that was archived on 2013-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130620105148id_/http%3A//www.giftease.com/privacy-policy) for the most accurate reproduction.*
 
-# Legal Agreement
+# Privacy Policy | Giftease
 
-**Go Daddy Respects Your Privacy**
+**Giftease values the privacy of your personal information. We do not sell, or otherwise share your personally identifiable information with any third parties, except as may be necessary to provide the services which you have requested for, or for promoting a safe and improved experience on the Website, in accordance with this policy.**
 
-**This Privacy Policy explains our privacy and information gathering practices, such as the types of information we collect and under what circumstances that information is shared.**
+**Please note that giftease.com does not capture or store your Payment Card details (i.e. credit/debit card number, expiration date, CVV etc.). When you make a purchase using your card, all required transaction details are captured on the payment gateway’s secured payment page, and are securely transmitted to your card issuer for obtaining an authorization decision. At no time during the purchase process or thereafter does Giftease have access to, or store, your complete card account information.**
 
-**Please take the time to review the terms of this Policy.   By using this Site, you agree to accept the terms provided.**
+Giftease maintains the highest standards for secure transactions and customer information privacy. Please read the following statement to learn about our information gathering and dissemination practices.
 
-**Other than as described in this Policy, we will not give any information about you to others without your express permission.**
+Note: Our privacy policy is subject to change at any time without notice. To make sure you are aware of any changes, please review this policy periodically.
 
-**Information Collection and Use**
+By using this Website you agree to be bound by the terms and conditions of this Privacy Policy. If you do not agree please do not use or access our Website.
 
-Although this Site is primarily for informational purposes, we may ask you to provide us with your name, email address or other information that could be used to identify you personally.  For example, we may collect this information in the event that you register as a member of this Site, post a comment, sign-up to receive email communications, or submit demographic information as part of a survey.
+By using the Website, you expressly consent to our use and disclosure of your personal information in accordance with this Privacy Policy. This Privacy Policy is incorporated into and subject to the Terms of Use.
 
-We receive and store any information you enter on our Site or give us in any other way, including through email, telephone, or other communications. If you contact us for support, we will keep an internal record of our communication with you.
+**1\. Collection of Personally Identifiable Information and other Information**
 
-We may use your information to contact you regarding the information and services available on our Site, functionality changes to our Site, and special offers we think you'll find valuable. If you would rather not receive this information, please see the "Updating Your Information" section below on how to change your preferences.
+When you use our Website, we collect and store your personal information which is provided by you from time to time. This information enables us to provide services and features that better meet your needs, and to customize our Website to make your experience safer and easier.
 
-We may also use your information to present a co-branded offer with our partners or affiliates. If we collect information from you in connection with a co-branded offer, it will be clear at the point of collection who is collecting the information and whose privacy statement applies.
+In general, you can browse the Website anonymously without telling us who you are or revealing any personal information about yourself. Once you give us your personal information, you are not anonymous to us. You always have the option to not provide information by choosing not to use a particular service or feature on the Website.
 
-We use information gathered about you from our Site statistics (for example, your IP address) to help diagnose problems with our server, and to administer our Site. We also gather broad demographic information from this data to help us improve our Site and make your browsing and purchasing experience more enjoyable. This is not linked to any personally identifiable information, except as necessary to prevent fraud or abuse on our system.
+Apart from the personal information you provide by entering this on the Website, we may automatically track certain information about you based upon your behaviour on our Website. We use this information to do internal research on our users' demographics, interests, and behaviour to better understand, protect and serve our users. This information is compiled and analysed on an aggregated basis. This information may include the URL that you just came from (whether this URL is on our Website or not), which URL you next go to (whether this URL is on our Website or not), your computer browser information, and your IP address.
 
-Our Site uses cookies to enhance your experience with our Site.  Cookies are data files that are placed in your browser to keep track of your personal preferences and to facilitate easy navigation through our Site.  We use cookies to identify you so you don't need to log in each time you visit our Site.  You may opt-out of the use of cookies by altering settings on your browser.  Please note, however, that some areas of the Site will be easier to navigate with the use of cookies..
+We use data collection devices such as "cookies" on certain pages of the Website to help analyse our web page flow, measure promotional effectiveness, and promote trust and safety. "Cookies" are small files placed on your hard drive that assist us in providing our services. We offer certain features that are only available through the use of a "cookie".
 
-This Site also contains links to other websites. Unfortunately, we are not responsible for the privacy practices or the content of such sites.
+We also use cookies to allow you to enter your password less frequently during a session. Cookies can also help us provide information that is targeted to your interests. Most cookies are "session cookies," meaning that they are automatically deleted from your hard drive at the end of a session. You are always free to decline our cookies if your browser permits, although in that case you may not be able to use certain features on the Website and you may be required to re-enter your password more frequently during a session. The cookies do not contain any of your personally identifiable information.
 
-**Security**
+Unless you voluntarily identify yourself (through registration, for example), we will have no way of knowing who you are, even if we assign a cookie to your computer. The only personal information a cookie can contain is information you supply (an example of this is when transact as a guest or add items to shopping bag). A cookie cannot read data off your hard drive.
 
-This Site has security measures in place to protect against the loss, misuse or alteration of the information under our control.
+Additionally, you may encounter "cookies" or other similar devices on certain pages of the Website that are placed by third parties. We do not control the use of cookies by third parties.
 
-**Updating Your Information**
+If you choose to buy on the Website, we collect personal information, including billing address, shipping address, contact numbers, email IDs, which are required by us to provide the services.
 
-You may alter your account information or opt out of receiving communications from us and our partners at any time. We have the following options for changing and modifying your account information or contact preferences.
+If you choose to post messages on our message boards, chat rooms or other message areas or leave feedback, or if you send us personal correspondence, such as emails or letters, we will collect that information you provide to us. We retain this information as necessary to resolve disputes, provide customer support and troubleshoot problems as permitted by law.
 
-        i.      You may send an email to [support@godaddy.com ](mailto:support@godaddy.com)
+We collect personally identifiable information (email address, name, phone number, etc.) from you when you set up a free account with us, or provide your email ID to enable us to send you updates, or in the course of placing an order. While you can browse some sections of our Website without being a registered member or having an account with us, certain activities (such as placing an order) do require registration. We do use your contact information to send you updates as well as offers based on your previous orders and your interests.
 
-       ii.      You may send mail to Go Daddy at the following postal address:   
-               14455 North Hayden Road, Suite 219, Scottsdale, AZ. 85260 USA
+**2\. Use of Personal /Profile Data / Your Information**
 
-      iii.      You may call us at: (480) 505-8800
+We use personal information to provide the services you request. To the extent we use your personal information to market to you, we will provide you the ability to opt-out of such uses. We use your personal information to address your queries and complaints, resolve disputes; troubleshoot problems; help promote a safe service; inform you about online and offline offers, products, services, and updates; customize your experience; detect and protect us against error, fraud and other criminal activity; enforce our terms and conditions; and as otherwise described to you at the time of collection.
 
-       iv.      You may fax us at: (480) 505-8844
+We identify and use your IP address to help diagnose problems with our server, and to administer our Website. Your IP address is also used to help identify you and to gather broad demographic information.
 
-**Sending Emails**
+We will occasionally ask you to complete optional online surveys. These surveys may ask you for contact information and demographic information. We use this data to tailor your experience at our Website, providing you with content that we think you might be interested in and to display content according to your preferences.
 
-We use emails to communicate with you and to send information that you have requested.  We also provide email links to allow you to contact us directly. We strive to promptly reply to your messages.
+In our efforts to continually improve your experience on the Website, as well as to improve our services, we collect and analyse demographic, profile and behaviour data about our users' activity on our Website. **  
+**
 
-The information you send to us may be stored and used to improve this Site and our products, or it may be reviewed and discarded.
+**3\. Sharing of personal information**
 
-**Compliance with Laws and Law Enforcement**
+We may share personal information with our other corporate entities and affiliates to help detect and prevent identity theft, fraud and other potentially illegal acts; correlate related or multiple accounts to prevent abuse of our services; and to facilitate joint or co-branded services that you request where such services are provided by more than one corporate entity. Those entities and affiliates may not market to you as a result of such sharing unless you explicitly opt-in.
 
-We cooperate with government and law enforcement officials and private parties to enforce and comply with the law. We will disclose any information about you to government or law enforcement officials or private parties as we, in our sole discretion, believe necessary or appropriate to respond to claims and legal process (including without limitation subpoenas), to protect our property and rights or the property and rights of a third party, to protect the safety of the public or any person, or to prevent or stop activity we consider to be illegal or unethical. We will also share your information to the extent necessary to comply with ICANN's rules, regulations and policies.
+We may disclose personal information if required to do so by law or in the good faith belief that such disclosure is reasonably necessary to respond to subpoenas, court  
+orders, or other legal process. We may disclose personal information to law enforcement offices, third party rights owners, or others in the good faith belief that such disclosure is reasonably necessary to: enforce our Terms or Privacy Policy; respond to claims that an advertisement, posting or other content violates the rights of a third party; or protect the rights, property or personal safety of our users or the general public.
 
-**Third Party Service Providers**
+We and our affiliates will share / sell some or all of your personal information with another business entity should we (or our assets) plan to merge with, or be acquired by that business entity, or re-organization, amalgamation, restructuring of business. Should such a transaction occur, that other business entity (or the new combined entity) will be required to follow this privacy policy with respect to your personal information.
 
-We may at times provide information about you to third parties to provide various services on our behalf, such as serving advertisements, conducting contests or surveys, performing analyses of our user demographics, shipping of goods or services, and user relationship management. We will only share information about you that is necessary for the third party to provide the requested service. These companies are prohibited from retaining, sharing, storing or using your personally identifiable information for any secondary purposes.
+**4\. Links to Other Websites**
 
-In the event that we use third party advertising companies to serve ads on our behalf, these companies may employ cookies and action tags (also known as single pixel gift or web beacons) to measure advertising effectiveness. Any information that these third parties collect via cookies and action tags is completely anonymous. If you would like more information about this practice and your choices, click [here. ](http://www.networkadvertising.org/managing/opt_out.asp)
+Our Website links to other websites that may collect personally identifiable information about you. Giftease is not responsible for the privacy practices or the content of those linked websites.
 
-**Supplementation of Information**
+**5\. Security Precautions on Giftease.com**
 
-In order to provide certain services to you, we may on occasion supplement the personal information you submit to us with information from third party sources ( _e.g.,_ information from our strategic partners, service providers, or the United States Postal Service).  We do this to enhance our ability to serve you, to tailor our products and services to you, and to offer you opportunities to purchase products or services that we believe may be of interest to you.
+Our Website has stringent security measures in place to protect the loss, misuse, and alteration of the information under our control. Whenever you change or access your account information, we offer the use of a secure server. Once your information is in our possession we adhere to strict security guidelines, protecting it against unauthorized access.
 
-**Contests/Surveys**
+Although we will endeavor to safeguard the confidentiality of your personally identifiable information, transmissions made by means of the Internet cannot be made absolutely secure. By using this website, you agree that Giftease will have no liability for disclosure of your information due to errors in transmission or unauthorized acts of third parties.
 
-From time-to-time, we may provide you with the opportunity to participate in contests or surveys. If you choose to participate, we may request certain personally identifiable information from you. Participation in these contests or surveys is completely voluntary and you therefore have a choice whether or not to disclose the requested information. The requested information typically includes contact information (such as name and address), and demographic information (such as zip code and age level - note that you must be 18 or above to enter). We use this information to notify contest winners and award prizes, to monitor Site traffic, and to personalize our Site.
+**6\. Opting In / Opting Out**
 
-We may use a third party service provider to conduct these surveys or contests. When we do, that company will be prohibited from using our users' personally identifiable information for any other purpose. We will not share the personally identifiable information you provide through a contest or survey with other third parties unless we give you prior notice and choice.
+We provide all users with the opportunity to opt-out of receiving non-essential (promotional, marketing-related) communications from us on behalf of our partners, and from us in general, after setting up an account.
 
-**Tell-A-Friend**
+If you want to remove your contact information from all Giftease.com lists and newsletters, please visit  **My subscriptions” in the “My Account” section of the website, after you sign in.**
 
-If a user elects to use our referral service to inform a friend about our Site, we ask the user for the friend's name and email address. Go Daddy will automatically send the friend a one-time email inviting them to visit our Site. Go Daddy stores this information for the sole purpose of sending this one-time email. The friend may contact Go Daddy at [support@godaddy.com ](mailto:support@godaddy.com)to request the removal of this information from our database.
+**7\. Advertisements on Giftease.com**
 
-**What Happens to my Personal Information if I Opt Out?**
+We may use third-party advertising companies to serve ads when you visit our Website. These companies may use information (not including your name, address, email  
+address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you.
 
-If you advise us that you wish to opt out of receiving further communications from us, we will place your personally identifiable information in "deactivated" status on our relevant databases. However, you should know that placement of your information in "deactivated" status does not mean your personally identifiable information has been deleted from our database entirely. We will retain and use your personally identifiable information if necessary in order to comply with our legal obligations, resolve disputes, or enforce our agreements.
+**8\. Your Consent**
 
-**Transfer of Data Abroad**
+By using the Website and/ or by providing your information, you consent to the collection and use of the information you disclose on the Website in accordance with this Privacy Policy, including but not limited to Your consent for sharing your information as per this privacy policy.
 
-If you are visiting this Site from a country other than the country in which our servers are located, your communications with us may result in the transfer of information across international boundaries.  By visiting this Site and communicating electronically with us, you consent to such transfers.
+If we decide to change our privacy policy, we will post those changes on this page so that you are always aware of what information we collect, how we use it, and under what circumstances we disclose it.
 
-**Changes in Our Practices**
+**9\. Grievance Officer**
 
-We reserve the right to modify this Privacy Policy at any time. If we decide to change our Privacy Policy, we will post those changes to this Privacy Policy and any other places we deem appropriate, so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it.
+In accordance with Information Technology Act 2000 and rules made there under, the name and contact details of the Grievance Officer are provided below:
 
-If we make material changes to this Policy, we will notify you here, by email, or by means of a notice on our home page, at least thirty (30) days prior to the implementation of the changes.
+  
+Mr. Vivek Mathur
 
-**Contacting Our Site**
+Giftease Technologies India Pvt. Ltd.
 
-If you have any questions about our Privacy Policy, the practices of this Site, or your dealings with this Site, please contact us at:
+A-6, 2nd floor, Liberty Society,  Phase II, North Main Road, Koregaon  Park, Pune 411 001
 
-* * *
+Phone: +91- (0)20 26153001
 
-Go Daddy   
-ATTN: Web Team   
-14455 North Hayden Rd.   
-Suite 219   
-Scottsdale, AZ, 85260, U.S.A.
+Email: [complainces@giftease.com](mailto:complainces@giftease.com)
+
+Time: Mon – Fri (10:00 – 19:00)
+
+**10\. Questions?**
+
+Questions regarding this policy statement should be directed to the following address: [complainces@giftease.com](mailto:complainces@giftease.com)
