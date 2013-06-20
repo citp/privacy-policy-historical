@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the responsesource.com privacy policy that was archived on 2012-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121219151454id_/http%3A//www.dwpub.com/w3c) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the responsesource.com privacy policy that was archived on 2013-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130620142703id_/http%3A//www.dwpub.com/w3c) for the most accurate reproduction.*
 
 # Privacy policy | DWPub
 
@@ -89,7 +89,7 @@ We may update this Privacy Policy by posting new versions on this website. You s
 
 Under the Data Protection Act you have the right to request a copy of the personal information that we hold hold about you and to have any inaccuracies corrected. We charge £10 for information requests and will require you to prove your identity with two pieces of approved photographic identification. We will use reasonable efforts to supply, correct or delete personal information about you on our files.
 
-You can instruct us to remove you from marketing communications at any time. Just call us on 0845 370 7777 or email [admin@dwpub.com](mailto:admin@dwpub.com).
+You can instruct us to remove you from marketing communications at any time. Just call us on 0845 370 7777 or email [hello@dwpub.com](mailto:hello@dwpub.com).
 
 ### Third party websites external to Daryl Willcox Publishing
 
@@ -97,4 +97,4 @@ Our websites contain hyperlinks to websites owned and operated by third parties.
 
 ### Contacting Daryl Willcox Publishing about this Privacy Policy
 
-If you have any questions or comments about this privacy policy, you can call us on: 0845 370 7777, email us at: [admin@dwpub.com](mailto:admin@dwpub.com) or write to us at: Daryl Willcox Publishing Ltd, Melrose House, 42 Dingwall Road, Croydon, Surrey, CR9 2DX.
+If you have any questions or comments about this privacy policy, you can call us on: 0845 370 7777, email us at: [hello@dwpub.com](mailto:hello@dwpub.com) or write to us at: Daryl Willcox Publishing Ltd, Melrose House, 42 Dingwall Road, Croydon, Surrey, CR9 2DX.
