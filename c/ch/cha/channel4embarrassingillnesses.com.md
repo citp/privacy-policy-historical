@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the channel4embarrassingillnesses.com privacy policy that was archived on 2012-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121221091203id_/http%3A//www.channel4.com/4viewers/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the channel4embarrassingillnesses.com privacy policy that was archived on 2013-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130620160407id_/http%3A//www.channel4.com/4viewers/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Channel 4 - 4viewers
 
@@ -8,45 +8,53 @@ Channel 4 is committed to protecting your personal information, being transparen
 
 The purpose of this privacy policy is to give you a clear explanation about how Channel 4 uses personal and behavioural information we collect from you when you use our websites and mobile sites such as channel4.com, mobile applications such as Channel 4 News or applications such as 4oD on any other devices (e.g. PS3 and Xbox) - collectively called our "Digital Products and Services".
 
-  * This is the main privacy policy for Channel 4's Digital Products and Services. However, some of our Digital Products and Services may have additional privacy policies so you should read these when you register or subscribe to these services. It is important for you to read this policy in full to understand what information we hold about you, how we may use it and how you can access, update and delete your personal information. However, if you don't have time to read the whole policy now, here are the main reasons we collect different types of information about our users:
-  * To help us monitor and improve our Digital Products and Services;
-  * To provide you with a more personalised experience, such as making programme recommendations or telling you when a programme you might like is available to watch on 4oD.
-  * To send you details about our Digital Products and Services, where you have signed up to receive such marketing communications.
-  * To help sell online advertising space. Channel 4 is able to put this advertising revenue back into the free services we provide to you.
+This is the main privacy policy for Channel 4's Digital Products and Services. However, some of our Digital Products and Services may have additional privacy policies so you should read these when you register or subscribe to these services. It is important for you to read this policy in full to understand what information we hold about you, how we may use it and how you can access, update and delete your personal information. However, if you don't have time to read the whole policy now, here are the main reasons we collect different types of information about our users:
+
+  * To help us monitor and improve our Digital Products and Services; 
+
+
+  * To provide you with a more personalised experience, such as making programme recommendations or telling you when a programme you might like is available to watch on 4oD. 
+
+
+  * To send you details about our Digital Products and Services, where you have signed up to receive such marketing communications. 
+
+
+  * To help sell online advertising space. Channel 4 is able to put this advertising revenue back into the free services we provide to you. 
 
 
 
+  
 To be able to do these things, it's important we collect and analyse data including who our viewers are and how they use our Digital Products and Services.
 
 **Should I read any other information or terms?**
 
-Whenever you use our Digital Products and Services, information may be collected through the use of cookies so you should read our Cookies Policy ([COOKIES](http://www.channel4.com/4viewers/cookies "Cookies")) for more information about this.
+Whenever you use our Digital Products and Services, information may be collected through the use of cookies so you should read our [Cookies Policy](http://www.channel4.com/4viewers/cookies) for more information about this. You should also see our [Viewer Promise](http://www.channel4.com/4viewers/viewer-promise), which sets out Channel 4's general approach to data.
 
 If you're interested in the legal stuff, we recommend visiting the Information Commissioner's Office website ([www.ico.gov.uk](http://www.ico.gov.uk/)). The ICO regulates data protection and e-privacy in the UK so there is lots of useful guidance about this on their website.
 
 **What are Channel 4's privacy principles?**
 
-Channel 4's privacy principles in respect of how it collects, uses and manages your personal information are summarised as follows:
+Channel 4's privacy principles in respect of how it collects, uses and manages your personal information are enshrined in our Viewer Promise. In summary these principles are as follows:
 
   * When we ask for data it's to give something back. 
 
 
 
-Registering with our Digital Products and Services gives you access to a growing number of benefits, such as access to all our programmes on 4oD. Asking for your name means we know how to talk to you. Knowing your date of birth helps us to give you better recommendations of Channel 4 programmes, and knowing your gender helps us offer you more relevant advertising.
+Registering with our Digital Products and Services gives you access to a growing number of benefits, such as access to all our programmes on 4oD. Asking for your name means we know how to talk to you. Knowing your date of birth helps us give you better recommendations of Channel 4 programmes, and also, together with your postcode, address and gender, helps us offer you more relevant advertising.
 
   * We are clear on what data we hold and what we do with it. 
 
 
 
-In collecting and using your personal information, we will be clear about what we are doing and make sure that you understand the way in which we are using it. Also, we won't sell your information to anyone.
+In collecting and using your personal information, we will be clear about what we are doing and make sure that you understand the way in which we are using it. Also, we won't sell your personal information to anyone but we may share your information with third parties as set out in this Privacy Policy.
 
   * You control the data we hold on you. 
 
 
 
-If requested, we will delete your personal information securely and swiftly, and all the information we hold on your activity on our Digital Products and Services will be anonymised, so we won't know it's yours.
+You can ask us to close your account at any time within the "My Account" pages on channel4.com. We will delete your main account (such as your name, email address, date of birth and postal address) securely and swiftly, and anonymise all the remaining information we hold about you such as your activity on our Digital Products and Services.
 
-  * We will have in place appropriate security measures to protect your information from unauthorised access, and will only work with responsible organisations which are carefully chosen by Channel 4 when handling your information. 
+  * We will have in place appropriate security measures to protect your information from unauthorised access, and will only work with responsible organisations which have been carefully chosen by Channel 4, when handling your information. 
 
 
 
@@ -68,29 +76,33 @@ v. your personal information must be deleted when it is no longer required; and
 
 vi. information about your internet use must be protected even where the information being collected is not personally identifiable.
 
-At Channel 4, we make sure we stick to these data protection and e-privacy laws. As mentioned above, information about the laws, and your rights, can be found on the ICO's website - www.ico.gov.uk.
+At Channel 4, we make sure we stick to these data protection and e-privacy laws. As mentioned above, information about the laws, and your rights, can be found on the ICO's website - [www.ico.gov.uk](http://www.ico.gov.uk/).
 
 **What information will Channel 4 collect about me?**
 
 Channel 4 may collect and hold the following information about you:
 
-  * Information you provide to us such as when you complete a survey, or register or sign up to any of Channel 4's Digital Products and Services (e.g. registering with Channel4.com to access My4oD or subscribing to newsletters and marketing emails). 
+  * Information you provide to us such as when you complete a survey, or register or sign up to any of Channel 4's Digital Products and Services (e.g. registering with Channel4.com to access My4oD, subscribing to newsletters and marketing emails or participating in Channel 4 communities). 
 
 
 
-On registration with Channel4.com, we currently ask for your first and surname, your email address, date of birth, gender and a password. However, we may ask you for other information from time to time, such as your postcode, so that, for example, we can offer you relevant local content, information or services, we can deliver more relevant advertising or make sure a competition prize gets to you if you're a winner. We will always be clear about how this information will be used.
+On registration with Channel4.com, we currently ask for your first and surname, your email address, date of birth, gender and a password. We also ask you to provide us with some additional,voluntary information when you register – namely, your house number and postcode. Knowing a little more about you means that we are able to tailor the advertising we present to you. This helps us to generate more money from our online advertising, which goes back into creating great content for you to enjoy for free. Occasionally, we may also use your house number and postcode to tell you about relevant Channel 4 events in your area that you might be interested in.
+
+We may also ask you for other information from time to time, when you enter a competition, for example. This might include your full address and contact telephone number, for example, so that we can make sure a competition prize gets to you if you’re a winner.
 
   * Information we collect using cookies or similar technologies stored on your device about how you use our Digital Products and Services. 
 
 
 
-Cookies are very useful and do lots of different jobs which help to make your experience on websites as smooth as possible. For example, they let you move between web pages efficiently, remembering your preferences, and generally improve your user experience. They can also help to ensure that adverts you see online are more relevant to you and your interests. We provide much more information about how we use cookies and other similar technologies in our Cookies Policy ([COOKIES](http://www.channel4.com/4viewers/cookies)).
+Cookies are very useful and do lots of different jobs that help to make your experience on websites as smooth as possible. For example, they let you move between web pages efficiently, remembering your preferences, and generally improve your user experience.They can also help to ensure that adverts you see online are more relevant to you and your interests. We provide much more information about how we use cookies and other similar technologies in our [Cookies Policy](http://www.channel4.com/4viewers/cookies).
 
-  * Information provided by other companies (such as advertisers you may have bought a product from) who have obtained your permission to share information about you.
+  * Information provided by other companies (such as advertisers you may have bought a product from or other reputable data sources) who have obtained your permission to share information about you. 
 
 
 
 If advertisers want to advertise to you, or people like you, using Channel 4's Digital Products and Services they may provide us with information about you to help us target their advertising.
+
+We may also obtain additional information about you from other reputable data sources. The data these companies might hold about you has been collected from publicly available records, such as the electoral roll, or via a range of sources with your permission (such as surveys or where you have agreed, via opt-in, for your information to be shared with third parties). We may check our registered viewer database against the information they hold on their systems to see if there are any matched individuals. If there is a match, we can collect and store some of this additional information (which may include statements about your lifestyle and interests) in our database and use it to further enhance our understanding of the types of products and services you might be interested in.
 
   * Information from our web servers' logs, such as IP addresses. 
 
@@ -108,108 +120,117 @@ We collect information from social media activity, including likes, shares and t
 
 Channel 4 will use the information we collect about you in the following ways:
 
-  * To help us to monitor, analyse and improve our Digital Products and Services.
+  * To help us to monitor, analyse and improve our Digital Products and Services. 
 
 
 
 This information helps us to understand which Channel 4 content, products and services are most interesting, enjoyable and useful to our users, and if they are shared via social networks. The information also helps us to identify when errors occur within our Digital Products and Services and test different versions of a page or feature to see which one works best. All of which helps us improve our Products and Services for our users.
 
-  * To allow you to take part in the interactive features of our Digital Products and Services, such as games you can play along with while a show is live on TV.
-  * To provide you with a more personalised experience. By looking at the information we have about you, we can create a more tailored experience. For example, we will do this by making programme recommendations. 
+  * To allow you to take part in the interactive features of our Digital Products and Services, such as games you can play along with while a show is live on TV. 
+
+
+  * To provide you with a more personalised experience. By looking at the information we have about you, we can create a more tailored experience. For example, we will do this by making programme recommendations or telling you about relevant Channel 4 events in your area. 
+
+
   * To inform the way we commission future content at Channel 4. We will use aggregated and anonymous user data to help our commissioning teams understand what type of content our users like so that they can make more of it in the future. 
-  * To sell advertising on our Digital Products and Services.
+
+
+  * To sell advertising on our Digital Products and Services. 
 
 
 
-We will be able to serve you tailored, relevant advertising. For example, if we think that you are interested in health and beauty, you may find that we serve you with health and beauty product advertising from time to time. We may also tailor advertising based on information about you which has been supplied to us separately by an advertiser. Advertisers want to make sure that their adverts are being seen by users who are more likely to be interested in their brand, product or service; so by serving relevant advertising, Channel 4 is able to generate more advertising revenue than it would do otherwise. As a not-for-profit organisation, Channel 4 will put this advertising revenue back into the free services we are able to provide to you. Where we do not have any information about you, you will of course still see advertising across our Digital Products and Services but this will not be tailored to you. 
+We may combine all the information we hold about you (including, for example, your registration data; information about the programmes, adverts and services you access on our Digital Products and Services; and information you provide when you take part in a Channel 4 survey) with information that we receive from third parties, such as advertisers and/or reputable data sources, to build up an idea of the types of products and services which might be of interest to you.
+
+By understanding more about you, we are able to serve you more tailored, relevant advertising. For example, if we think that you are interested in health and beauty, you may find that we serve you with health and beauty product advertising from time to time. Advertisers want to make sure that their adverts are being seen by users who are more likely to be interested in their brand, product or service; so by serving relevant advertising, Channel 4 is able to generate more advertising revenue than it would do otherwise. As a not-for-profit organisation, Channel 4 will put this advertising revenue back into the free services we are able to provide to you.   
+Where we do not have any information about you, you will of course still see advertising across our Digital Products and Services but this will not be tailored to you. 
 
 **Please note that we do not disclose personally identifiable information to our advertisers without your consent, but we may provide them with aggregate information about our users (for example, we may inform them that 500 men under 30 have viewed their advertisement on a given day).**
 
-  * To market services to you.
+  * To market services to you. 
 
 
 
-We will send you information about our Digital Products and Services or other marketing activities, but only where you have signed up to receive these from us. Similarly, sometimes, third party partners will want to send you information about products and services, but will only do so if you have agreed to receive them by ticking an opt-in box.
+We will send you information about our Digital Products and Services or other marketing activities, but only where you have signed up to receive these from us. Similarly, sometimes, third party partners will want to send you information about products and services, but will only do so if you have agreed to receive them by ticking an opt-in box. 
 
-  * We will email you occasionally about the Digital Products and Services that you have signed up for (for example, to provide you with password reminders or to contact you about content you have submitted to us via our Digital Products and Services) so that we are able to deliver these services to you. We may also invite you to participate in surveys from time to time to help us understand what you think about our programmes, products and services, and in turn make them better.
-
-
+We will email you occasionally about the Digital Products and Services that you have signed up for (for example, to provide you with password reminders or to contact you about content you have submitted to us via our Digital Products and Services) so that we are able to deliver these services to you. We may also invite you to participate in surveys from time to time to help us understand what you think about our programmes, products and services, and in turn make them better.
 
 **I am a user aged 16 or under**
 
-Please note that you need to be 16 or over to register with Channel4.com. However, some of our Digital Products and Services (such as educational games and websites) may be specifically aimed at younger audiences. In these cases, if you are aged 16 or under, please speak to your parent/guardian to get their permission **before** you provide any personal information to Channel 4 because without this consent, you are not allowed to provide us with personal information. We may also ask for your parent/guardian's contact details so that we can check they are happy for you to use our Digital Products and Services.
+Please note that you need to be 16 or over to register with Channel4.com. However, some of our Digital Products and Services (such as educational games and websites) may be specifically aimed at younger audiences. In these cases, if you are aged 16 or under, please speak to your parent/guardian to get their permission before you provide any personal information to Channel 4 because without this consent, you are not allowed to provide us with personal information. We may also ask for your parent/guardian’s contact details so that we can check they are happy for you to use our Digital Products and Services.
 
-**Does Channel 4's privacy policy apply to third party websites or social networking sites?**
+**Does Channel 4’s privacy policy apply to third party websites or social networking sites?**
 
 This policy only applies to our use of your information via the Channel 4 Digital Products and Services. Therefore, it does not apply to third party websites to which Channel 4 might provide links or on which Channel 4 content is embedded.
 
-Equally, it is important to note that when you access Channel 4's Digital Products and Services via a social networking site, such as Facebook or Twitter, that site may also collect and use your information. So, we would advise you to check the privacy policies for those social networking sites and applications to see how your information is being used.
+Equally, it is important to note that when you access Channel 4’s Digital Products and Services via a social networking site, such as Facebook or Twitter, that site may also collect and use your information. So, we would advise you to check the privacy policies for those social networking sites and applications to see how your information is being used.
 
 **What about third party advertisements?**
 
-Channel 4 may use third party advertising networks and servers to provide the advertisements which you see on our Digital Products and Services.
+Channel 4 may use third party advertising networks and servers to provide the advertisements which you see on our Digital Products and Services.   
+Cookies may be placed on your device by our third party service providers which remember that you have visited a website in order to provide you with targeted adverts which are more relevant to you and your interests. This is often called online behavioural advertising (OBA) (also known as ‘behavioural targeting’ or ‘interest based advertising’) and is done by grouping together shared interests based upon previous web browsing activity. Advertising may then be displayed to you when you visit Channel 4’s Digital Products and Services which matches these interests. Your web browsing behaviour can also be used to infer things about you, such as your age and gender, which Channel 4 might use to provide more relevant advertising to you on our Digital Products and Services. 
 
-Cookies may be placed on your device by our third party service providers which remember that you have visited a website in order to provide you with targeted adverts which are more relevant to you and your interests. This is often called online behavioural advertising (OBA) (also known as ‘behavioural targeting' or ‘interest based advertising') and is done by grouping together shared interests based upon previous web browsing activity. Advertising may then be displayed to you when you visit Channel 4's Digital Products and Services which matches these interests. Your web browsing behaviour can also be used to infer things about you, such as your age and gender, which Channel 4 might use to provide more relevant advertising to you on our Digital Products and Services.
+Personalised retargeting is another form of OBA that enables our advertiser partners to show you ads based on your online browsing away from Channel 4 websites. For example, if you visited the website of an online travel company you may start seeing adverts from the same travel company displaying special offers or showing you the products that you were browsing when you come to our websites. This allows companies to advertise to people who previously visited their website. 
 
-Personalised retargeting is another form of OBA that enables our advertiser partners to show you ads based on your online browsing away from Channel 4 websites. For example, if you visited the website of an online travel company you may start seeing adverts from the same travel company displaying special offers or showing you the products that you were browsing when you come to our websites. This allows companies to advertise to people who previously visited their website.
+Although these cookies can track your visits around the web they don’t know who you are. Even if you sign in to Channel4.com, the OBA data is still not linked to your profile. 
 
-Although these cookies can track your visits around the web they don't know who you are. Even if you sign in to Channel4.com, the OBA data is still not linked to your profile.
-
-See more about third party cookies in our Cookies Policy - [COOKIES](http://www.channel4.com/4viewers/cookies)
+See more about third party cookies in our [Cookies Policy](http://www.channel4.com/4viewers/cookie)
 
 **How can I manage cookies?**
 
-We provide more information about cookies and similar technologies used on our Digital Products and Services in our Cookies Policy - [COOKIES](http://www.channel4.com/4viewers/cookies). This also tells you how to control and manage cookies in your browser and how to opt-out of certain types of cookies.
+We provide more information about cookies and similar technologies used on our Digital Products and Services in our [Cookies Policy](http://www.channel4.com/4viewers/cookie). This also tells you how to control and manage cookies in your browser and how to opt-out of certain types of cookies.
 
 **What about spam?**
 
-We will not send you any unsolicited marketing. We will only send you emails or other marketing messages where you have signed up to receive these.
-
-Marketing emails you have signed up to will also tell you how you can unsubscribe should you decide that you no longer wish to receive them.
-
-Please note that registered users may receive important information about Channel 4's Digital Products and Services (such as changes to the Digital Products and Services themselves or other service administration matters). As a registered user, this is not spam.
+We will not send you any unsolicited marketing. We will only send you emails or other marketing messages where you have signed up to receive these.   
+Marketing emails you have signed up to will also tell you how you can unsubscribe should you decide that you no longer wish to receive them.   
+Please note that registered users may receive important information about Channel 4’s Digital Products and Services (such as changes to the Digital Products and Services themselves or other service administration matters). As a registered user, this is not spam.
 
 **How can I access and update my personal information?**
 
-You can update some of your personal information by signing in to Channel4.com using your email address and password and visiting your details page. We do not allow you to change your date of birth as this supports our Parental Control function. We also currently do not allow you to change your email address, due to technical constraints, but are in the process of updating this and you'll be able to amend or change your email address in the coming months.
+You can update some of your personal information by signing in to Channel4.com using your email address and password and visiting your details page. We do not allow you to change your date of birth as this supports our Parental Control function.
 
 **Will Channel 4 share my information with anyone else?**
 
 Channel 4 commits to keeping your personal information confidential save that we:
 
   * use a range of data processing companies to help manage your information. However, we require these companies to comply strictly with our instructions and they are not allowed to use your information for their own business purposes (unless you have explicitly agreed to this). We also require these companies to have appropriate physical and technological security measures to protect your personal information. 
-  * may share your information with third parties where you have specifically agreed to this. We won't however sell your data to any third party.
-  * may disclose your personal information where we are required or permitted to do so by law or to protect or enforce our rights or the rights of any third party.
+
+
+  * may share your information with third parties where you have specifically agreed to this. We won’t, however, sell your data to any third party. 
+
+
+  * may disclose your personal information where we are required or permitted to do so by law or to protect or enforce our rights or the rights of any third party. 
 
 
 
 **How long does Channel 4 keep my personal information?**
 
-We will keep your information only for as long as it is relevant and useful for the purpose for which it was originally collected.
+We will keep your information only for as long as it is relevant and useful for the purpose for which it was originally collected. 
 
-If you close your account, your personal information (i.e. the information you gave us when you registered, such as your email address) will be deleted promptly which means that all other information we might hold about you (such as how you have used our Digital Products and Services for example) will be anonymised and we won't be able to recognise that data as yours or contact you about it. Please note if you don't want to continue to receive relevant targeted advertising on our Digital Products and Services after you have closed your account, we recommend that you also delete any cookies set on your device. If you want more information on how to manage your cookies, our Cookies Policy can help - [COOKIES](http://www.channel4.com/4viewers/cookies)
+If you close your account, your personal information (i.e. the information you gave us when you registered, such as your email address) will be deleted promptly, which means that all other information we might hold about you (such as how you have used our Digital Products and Services) will be anonymised and we won’t be able to recognise that data as yours or contact you about it. Please note if you don’t want to continue to receive relevant targeted advertising on our Digital Products and Services after you have closed your account, we recommend that you also delete any cookies set on your device. If you want more information on how to manage your cookies, [our Cookies Policy](http://www.channel4.com/4viewers/cookie) can help. 
 
-Where we hold other information (resulting from, for example, submitted competition answers) we will keep this for the minimum amount of time necessary for the purposes of running the competition or other relevant purpose.
+Where we hold other information (resulting from, for example, submitted competition answers) we will keep this for the minimum amount of time necessary for the purposes of running the competition or other relevant purpose. 
 
 Please note that if your account appears to have not been used for 2 years, we may try and contact you to check whether it is still in use and/or we may delete it.
 
 **Security Measures**
 
-Once we have received your information, we will use strict procedures and security features to try to prevent unauthorised access.
+Once we have received your information, we will use strict procedures and security features to try to prevent unauthorised access. 
 
-Unfortunately, the sending of information via the internet is not completely secure. Although we will do our utmost to protect your information, we cannot guarantee the security of your data sent to our Digital Products and Services; any sending of information is therefore at your own risk. 
+Unfortunately, the sending of information via the internet is not completely secure. Although we will do our utmost to protect your information, we cannot guarantee the security of your data sent to our Digital Products and Services; any sending of information is therefore at your own risk.
 
 **How do I contact Channel 4 if have a question about privacy issues?**
 
-If you have any questions or concerns about privacy issues, you can use the form on our ‘Contact us' page which can be found here - [CONTACT US](http://www.channel4.com/4viewers/contact-us "contact")
+If you have any questions or concerns about privacy issues, you can use the form on our ‘Contact us’ page which can be found here - [CONTACT US](http://www.channel4.com/4viewers/contact-us)
 
 **Access to your information**
 
-If you would like to know what personal information Channel 4 holds about you, you may make a request to Channel 4 for copies of this information. You should be aware that we will need to see proof of identity before processing any such request (known as a ‘subject access request') and may charge an administration fee of up to £10 to cover our costs in providing you with this information.
+If you would like to know what personal information Channel 4 holds about you, you may make a request to Channel 4 for copies of this information. You should be aware that we will need to see proof of identity before processing any such request (known as a ‘subject access request’) and may charge an administration fee of up to £10 to cover our costs in providing you with this information. 
 
-All subject access requests should be made in writing and addressed to Channel 4 Enquiries, PO Box 1058, Belfast, BT1 9DU. Alternatively, you can use the form on our ‘Contact us' page which can be found here - [CONTACT US  
-](http://www.channel4.com/4viewers/contact-us)
+All subject access requests should be made in writing and addressed to Channel 4 Enquiries, PO Box 1058, Belfast, BT1 9DU. Alternatively, you can use the form on our ‘Contact us’ page which can be found here – [CONTACT US](http://www.channel4.com/4viewers/contact-us)
 
 **Changes to this policy**
 
 Our privacy policy may change from time to time. Any changes we may make to our privacy policy in the future will be posted on this page, and, where appropriate, notified to you by email.
+
+Last updated 10 May 2013
