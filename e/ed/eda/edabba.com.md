@@ -1,6 +1,10 @@
-> *The following text is extracted and transformed from the edabba.com privacy policy that was archived on 2012-10-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121003235750id_/http%3A//www.edabba.com/content.aspx%3Fpgid%3D51349) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the edabba.com privacy policy that was archived on 2013-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130620160100id_/http%3A//www.edabba.com/content/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy | edabba.com
+
+## You are here
+
+[Home](https://web.archive.org/) » Privacy Policy
 
 We are committed to protecting your privacy. We will only use the information that we collect about you lawfully. 
 
