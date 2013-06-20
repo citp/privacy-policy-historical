@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the wildflowercases.com privacy policy that was archived on 2012-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121217073600id_/http%3A//www.wildflowercases.com/pages/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wildflowercases.com privacy policy that was archived on 2013-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130620105720id_/http%3A//www.wildflowercases.com/pages/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | wildflower cases
+# Privacy Policy | Wildflower cases
 
 **Privacy Policy   **
 
@@ -44,7 +44,7 @@ We respect your privacy and give you an opportunity to opt-out of receiving anno
 
 \- Web page: http://www.wildflowercases.com/pages/contact-us 
 
-\- Email: wildflowercases@gmail.com 
+\- Email: wildflowercases [at] gmail.com 
 
 \- Phone: 323-552-9722 
 
@@ -58,7 +58,7 @@ Wildflower welcomes your questions or comments regarding this Statement of Priva
 
 Wildflower Cases 5042 Wilshire Blvd #21094 Los Angeles, CA 90036 
 
-Email Address: wildflowercases@gmail.com 
+Email Address: wildflowercases [at] gmail.com 
 
 Telephone number: 323-552-9722 
 
