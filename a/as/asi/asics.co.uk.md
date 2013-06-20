@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the asics.co.uk privacy policy that was archived on 2012-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121219070932id_/http%3A//www.asics.co.uk/about/myasics/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the asics.co.uk privacy policy that was archived on 2013-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130620173258id_/http%3A//www.asics.co.uk/about/myasics/privacy) for the most accurate reproduction.*
 
 # My ASICS | Privacy policy
 
@@ -76,7 +76,7 @@ We maintain adequate technical and organizational security measures to protect y
 
 ### Access and Correction Rights
 
-You can request access to, and have the opportunity to update and amend your personal information, and you can exercise any other rights you enjoy under applicable data protection laws, including, for example, objection to and blocking of the processing of your personal information, by contacting the Digital Communications team at online@eu.asics.com. For security reasons, we reserve the right to take stops to authenticate your identity before providing access to your personal information. Subject to applicable law, we may charge you a small fee to access your data.
+You can request access to, and have the opportunity to update and amend your personal information, and you can exercise any other rights you enjoy under applicable data protection laws, including, for example, objection to and blocking of the processing of your personal information, by contacting the Digital Communications team at digitalcomms@eu.asics.com. For security reasons, we reserve the right to take stops to authenticate your identity before providing access to your personal information. Subject to applicable law, we may charge you a small fee to access your data.
 
 ### Retention of data
 
@@ -88,7 +88,7 @@ In the event you have registered your My ASICS account, ASICS Europe, qualifying
 
 ### If You Are Under 16 Years Old
 
-If you are under 16 years old, please get the consent of your parent or legal guardian before you give us any personal information about yourself by way e-mail or any other Internet means. Your parents or guardian can send us their consent by e-mail, although we may follow up by phone or other means in some circumstances. They will need to give us their name, e-mail address, street address, telephone number, and any other identifying information that we may request. ASICS Europe needs this information in order to verify that they have provided the necessary consent. Your parent or guardian should contact us by using the e-mail address: online@eu.asics.com
+If you are under 16 years old, please get the consent of your parent or legal guardian before you give us any personal information about yourself by way e-mail or any other Internet means. Your parents or guardian can send us their consent by e-mail, although we may follow up by phone or other means in some circumstances. They will need to give us their name, e-mail address, street address, telephone number, and any other identifying information that we may request. ASICS Europe needs this information in order to verify that they have provided the necessary consent. Your parent or guardian should contact us by using the e-mail address: digitalcomms@eu.asics.com
 
 IF YOU ARE UNDER 16 YEARS OLD, DO NOT CONTACT US UNTIL AFTER YOUR PARENT OR GUARDIAN HAS SENT US AN E-MAIL CONSENTING TO YOUR CONTACT.
 
@@ -98,6 +98,6 @@ ASICS Europe reserves the right at our sole discretion, to modify, add or remove
 
 ### Privacy Queries
 
-If you have any questions regarding this policy, or you wish to update your details or remove your personal data from our records, please inform us online@eu.asics.com
+If you have any questions regarding this policy, or you wish to update your details or remove your personal data from our records, please inform us digitalcomms@eu.asics.com
 
 Thank you for visiting the ASICS Sites of ASICS Europe.
