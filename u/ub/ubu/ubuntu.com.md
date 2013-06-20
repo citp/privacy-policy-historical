@@ -1,14 +1,6 @@
-> *The following text is extracted and transformed from the ubuntu.com privacy policy that was archived on 2012-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121227123336id_/http%3A//www.ubuntu.com/aboutus/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ubuntu.com privacy policy that was archived on 2013-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130620133316id_/http%3A//www.ubuntu.com/privacy-policy) for the most accurate reproduction.*
 
-# Canonical's privacy policy | Ubuntu
-
-**What’s changed?** On Thursday 18th October 2012 we updated our privacy policies by consolidating them into one document.
-
- **Why?** We care about your privacy and want to ensure that it is clear what personal information we are collecting from you, when we collect it and what we do with that personal information. By consolidating all of our policies into one place we hope that it will be easier for you to see what we're doing.
-
- **What's changed?** Nothing. We're not doing anything different with your personal information. We're just making things clearer.
-
-Please read the updated Privacy Policy to find out more.
+# Contributing to Ubuntu TV | TV | Devices | Ubuntu
 
 Canonical collects personal information from you in a number of different ways. For example, when you download one of our products, receive services from us or use one of our websites (including [www.canonical.com](http://www.canonical.com/) and [www.ubuntu.com](http://www.ubuntu.com/)).
 
@@ -17,7 +9,7 @@ At Canonical, we consider your privacy to be extremely important to us. These ar
   * We don't ask you for personal information unless we truly need it.
   * We don't share your personal information with anyone except to provide you with services, products, to comply with the law, or to protect our rights.
   * We don't store personal information unless required for the on-going operation of services to you, to provide you with products, to comply with law or to protect our rights.
-  * We will use personal information that you provide to us in accordance with this Privacy Policy.
+  * We will use personal information that you provide to us in accordance with this privacy policy.
 
 
 
@@ -25,13 +17,47 @@ At Canonical, we consider your privacy to be extremely important to us. These ar
 
 We may collect the following types of personal information from you:
 
-  * **Websites** \- When you register to use certain parts of our websites, such as wikis or message boards, or register for free accounts, we may ask for personal information such as your full name, email address and a password.
-  * **Chat rooms, forums and newsgroups** \- These are available to our community. Any information that you disclose in these areas becomes public information and may be recorded, archived and republished by anyone. Please exercise caution when deciding to disclose any personal information in such areas.
-  * **Canonical products** \- When you register for services or purchase any product from Canonical, we may ask for information such as your email address, billing address, and credit card information. Credit card information is only used in processing your transaction. Please note that we may use a third party payment processing merchant to process your payments.
-  * **Non-personally identifying information** \- Canonical may collect non-personally-identifying information of the sort that web browsers and servers typically make available, such as the browser type, referring site, and the date and time of each visitor's request. Our purpose in collecting non-personally identifying information is to better understand how visitors use our websites and services. For further information about ow we use cookies, see the "cookie" section below.
-  * **Error reports** \- When you chose to send an error report, it includes a unique identifier for your computer. This identifier does not identify you, unless you (or someone acting on your behalf) discloses it separately. An error report may include personal information such as the state of programs that were running at the time. You can block future error reports from the privacy panel of System Settings.
-  * **Ubuntu Online Accounts** \- When you use Ubuntu Online Accounts, your personal information is stored on your PC and it can be accessed by some applications. To see the legal notice explaining how we use this personal information, please [click here](http://www.ubuntu.com/aboutus/online-accounts-legal-notice).
-  * **General** \- If you contact us and provide us with information, we may keep a record of that correspondence and information.
+  * ### Websites
+
+When you register to use certain parts of our websites, such as wikis or message boards, or register for free accounts, we may ask for personal information such as your full name, email address and a password.
+
+  * ### Chat rooms, forums and newsgroups
+
+These are available to our community. Any information that you disclose in these areas becomes public information and may be recorded, archived and republished by anyone. Please exercise caution when deciding to disclose any personal information in such areas.
+
+  * ### Canonical products
+
+When you register for services or purchase any product from Canonical, we may ask for information such as your email address, billing address, and credit card information. Credit card information is only used in processing your transaction. Please note that we may use a third party payment processing merchant to process your payments.
+
+  * ### Non-personally identifying information
+
+Canonical may collect non-personally-identifying information of the sort that web browsers and servers typically make available, such as the browser type, referring site, and the date and time of each visitor's request. Our purpose in collecting non-personally identifying information is to better understand how visitors use our websites and services. For further information about how we use cookies, see the "cookie" section below.
+
+  * ### Error reports
+
+When you chose to send an error report, it includes a unique identifier for your computer. This identifier does not identify you, unless you (or someone acting on your behalf) discloses it separately. An error report may include personal information such as the state of programs that were running at the time. You can block future error reports from the privacy panel of System Settings.
+
+  * ### Ubuntu online accounts
+
+When you use Ubuntu online accounts, your personal information is stored on your PC and it can be accessed by some applications. To see the legal notice explaining how we use this personal information, please [click here](https://web.archive.org/legal/online-accounts).
+
+  * ### General
+
+If you contact us and provide us with information, we may keep a record of that correspondence and information.
+
+  * ### Searching in the dash
+
+When you enter a search term into the dash Ubuntu will search your Ubuntu computer and will record the search terms locally. Unless you have opted out (see the “Online Search” section below), we will also send your keystrokes as a search term to productsearch.ubuntu.com and selected third parties so that we may complement your search results with online search results from such third parties including: Facebook, Twitter, BBC and Amazon. Canonical and these selected third parties will collect your search terms and use them to provide you with search results while using Ubuntu.
+
+By searching in the dash you consent to:
+
+    1. the collection and use of your search terms and IP address in this way; and
+    2. the storage of your search terms and IP address by Canonical and such selected third parties (if applicable).
+
+Canonical will only use your search terms and IP address in accordance with this Privacy Policy. For information on how our selected third parties may use your information, please see their privacy policies.
+
+You may restrict your dash so that we don’t send searches to third parties and you don't receive online search results. To do this go to the Privacy panel and toggle the ‘Include online search results’ option to off. The Privacy panel can be found in your System Settings or via a dash search. For a current list of our selected third parties, please see the [third party privacy policies](https://web.archive.org/privacy-policy/third-parties).
+
 
 
 
@@ -69,15 +95,19 @@ We use persistent cookies to support a smooth user experience. This cookie remai
 
 ### Cookies we use
 
-Cookie| Name| Purpose| More information  
+Cookie | Name | Purpose | More information  
 ---|---|---|---  
-site cookie acceptance| _cookies_accepted| This cookie is used to record if a user has accepted the use of cookies on our website.| To withdraw your consent after accepting this cookie, delete the _cookies_accepted cookie. Find out how at [www.aboutcookies.org](http://www.aboutcookies.org/)  
-Google Analytics| _utma  
-_utmb  
-_utmc  
-_utmz| These cookies are used to collect information about how visitors use our website, which we use to help improve it. The cookies collect information in an anonymous form, including the number of visitors to the site, where visitors have come to the site from and the pages they visited.| Find out more about Google Analytics privacy please visit [www.google.com/intl/en_uk/analytics/privacyoverview.html](http://www.google.com/intl/en_uk/analytics/privacyoverview.html)  
-Crazyegg| is_returning| Crazyegg tracks javascript on some pages of our site to understand what links our visitors are clicking on. This helps us optimize our content for the best user experience. The Crazyegg script may store a cookie on your computer. This cookie may contain a session ID, a visitor ID and a few other dynamically created parameters that allow Crazyegg to track our site's traffic accurately. No personal information is stored within the cookie.| For Crazy Egg's complete Privacy Policy please visit [www.crazyegg.com/privacy](http://www.crazyegg.com/privacy).  
-Marketo Munchkin| _mkto_trk| Marketo's cookie allows us to track repeated visits to the website, and link each visit to the information voluntarily provided by the visitor. For example, if the visitor is asked to provide us with their name, company name and email address, we will know the identity of the visitor when they visit the site at a later date, or when we send them email.| For Marketo's complete Privacy Policy please visit [uk.marketo.com/trust/privacy.php](http://uk.marketo.com/trust/privacy.php)  
+site cookie acceptance | _cookies_accepted | This cookie is used to record if a user has accepted the use of cookies on our website. | To withdraw your consent after accepting this cookie, delete the _cookies_accepted cookie. Find out how at [www.aboutcookies.org](http://www.aboutcookies.org/)  
+Google Analytics | 
+
+  * _utma
+  * _utmb
+  * _utmc
+  * _utmz
+
+| These cookies are used to collect information about how visitors use our website, which we use to help improve it. The cookies collect information in an anonymous form, including the number of visitors to the site, where visitors have come to the site from and the pages they visited. | Find out more about Google Analytics privacy please visit [www.google.com/intl/en_uk/analytics/privacyoverview.html](http://www.google.com/intl/en_uk/analytics/privacyoverview.html)  
+Crazyegg | is_returning | Crazyegg tracks javascript on some pages of our site to understand what links our visitors are clicking on. This helps us optimize our content for the best user experience. The Crazyegg script may store a cookie on your computer. This cookie may contain a session ID, a visitor ID and a few other dynamically created parameters that allow Crazyegg to track our site's traffic accurately. No personal information is stored within the cookie. | For Crazy Egg's complete Privacy Policy please visit [www.crazyegg.com/privacy](http://www.crazyegg.com/privacy).  
+Marketo Munchkin| _mkto_trk | Marketo's cookie allows us to track repeated visits to the website, and link each visit to the information voluntarily provided by the visitor. For example, if the visitor is asked to provide us with their name, company name and email address, we will know the identity of the visitor when they visit the site at a later date, or when we send them email.| For Marketo's complete Privacy Policy please visit [uk.marketo.com/trust/privacy.php](http://uk.marketo.com/trust/privacy.php)  
   
 If you do not wish to have cookies placed on your computers, please set your browsers to refuse cookies before visiting our websites and using our services.
 
@@ -91,7 +121,7 @@ Although most changes are likely to be minor, Canonical may change this Privacy 
 
 ## Legal notice
 
-For further information on Canonical's terms and conditions please see the [legal notice](https://web.archive.org/legal) for our websites and our [terms of service](https://one.ubuntu.com/terms) for Ubuntu One.
+For further information on Canonical's terms and conditions please see the [legal notice](https://web.archive.org/legal) for our websites and our [terms of service for Ubuntu One](https://one.ubuntu.com/terms).
 
 For certain products and services we may also provide you with specific terms and conditions. Please refer to those specific legal notices for further information. This Privacy Policy is incorporated by reference into those legal notices.
 
