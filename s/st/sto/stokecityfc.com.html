@@ -1,14 +1,15 @@
-<!--The following is the downloaded HTML source of the stokecityfc.com privacy policy that was archived on 2012-12-27.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121227103833id_/http%3A//www.stokecityfc.com/global/privacy-policy.aspx) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the stokecityfc.com privacy policy that was archived on 2013-06-20.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130620215016id_/http%3A//www.stokecityfc.com/global/privacy-policy.aspx) for the most accurate reproduction.-->
 
-<!DOCTYPE html><html lang="en" class="no-js"><!--<![endif]--><head>
+<!DOCTYPE html><html lang="en" class=" js flexbox canvas canvastext webgl no-touch geolocation postmessage websqldatabase indexeddb hashchange history draganddrop websockets rgba hsla multiplebgs backgroundsize borderimage borderradius boxshadow textshadow opacity cssanimations csscolumns cssgradients cssreflections csstransforms csstransforms3d csstransitions fontface generatedcontent video audio localstorage sessionstorage webworkers applicationcache svg inlinesvg smil svgclippaths"><!--<![endif]--><head>
          <meta charset="utf-8">
 	 <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
-<script type="text/javascript">
+<script type="text/javascript" async="" src="https://web.archive.org/web/20130921125346/https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript">
   var adlZone = 'ROS'; 
+var ionosImpressionsUrl = 'http://FLIIONOSAdCapture-173219926.eu-west-1.elb.amazonaws.com/blank.png';
 </script>
 
-<script type="text/javascript" src="/js/combinedHeader_CBC6FB284FFAEE051DD9D264733F7225.js"></script>
+<script type="text/javascript" src="/combinedjs/combinedHeader_CBC6FB284FFAEE051DD9D264733F7225.js"></script>
 
 <style type="text/css">
 #action #splash_box {position:absolute; display:none; padding:0px; z-index:2000; top:30px!important; width: 790px!important; height: 628px!important; }
@@ -27,7 +28,7 @@
 
 	<link rel="stylesheet" href="/css/base.css">
 	  <link rel="stylesheet" href="/css/action.css">
-	<link rel="stylesheet" href="/css/action_skin.css">
+	<link rel="stylesheet" href="/skin/action_skin.css">
         <link rel="stylesheet" href="/css/style.css">
  
 <link rel="shortcut icon" type="image/ico" href="/images/icons/favicon.ico">
@@ -46,7 +47,7 @@ var subscription_response ="<section id='newsletter_signup_popup3' class='block 
 "</section>";
  var error_response = "<section id='newsletter_signup_popup4' class='block col6 popup'><div class='clearfix'><div class='content'><p class='title'>Some error occurred while saving the subscription information. Please try again later after some time.</p></div><div class='widget_cta clearfix'> <a href='javascript:void(0)' onclick='javascript:closeDialog();' class='cta close' title='Close'>Close</a></div></div></section>";
 </script>
-<script type="text/javascript" src="/js/combinedtop_D101E082788977B4E723B9EFF0DBDA2A.js"></script>
+<script type="text/javascript" src="/combinedjs/combinedtop_E2CCAD6FF9E13846BA0D3046EF76F908.js"></script>
 
 
 
@@ -72,6 +73,73 @@ var subscription_response ="<section id='newsletter_signup_popup3' class='block 
 
 <script language="javascript" type="text/javascript">
 
+function AdvertisementTracking(advertInfo, isClick){		
+		var advertTrackingLink ;
+		var adGAAccount = "UA-29399239-5";
+		if(isClick){
+			advertTrackingLink = '/FLiClick/'; 
+		}else{
+			advertTrackingLink = '/FLiImpression/';
+		}
+		advertTrackingLink += "Stoke City : " + advertInfo;
+		trackVirtualPageview(advertTrackingLink, adGAAccount) ;
+	}
+
+        function IonosImpressionTracking(addata)
+        {
+			var controlId ="objOrders_" +  (addata.replace("#", "")).substring(0,36);
+			var orderIds = $("input[id$=" + controlId + "]").val();
+			SendOrderIds(orderIds); 			
+        }
+
+	function SendOrderIds(orderIds)
+	{
+			if(!(orderIds == null || orderIds == undefined || orderIds.length <= 1))
+			{
+				var url=ionosImpressionsUrl + "?" + orderIds ;	
+
+				try
+				{				
+					if ($.browser.msie && window.XDomainRequest) 
+					{	
+						var xdr = new XDomainRequest();						
+						xdr.open("get", url);																	
+						
+						xdr.onload = function () {
+							var JSON = $.parseJSON(xdr.responseText);
+							if (JSON == null || typeof (JSON) == 'undefined')
+							{
+								JSON = $.parseJSON(data.firstChild.textContent);
+							}
+
+							xdr.onprogress = function(){ };
+							xdr.ontimeout = function(){ };
+							xdr.onerror = function () { };							
+						};	
+					
+						xdr.send();
+					}
+					else
+					{
+					 
+						$.ajax({
+							url: url,																						
+							type: 'GET'  			
+						});
+					}
+				}
+				catch(e)
+				{
+					
+				}
+				
+				
+			}
+	}
+
+
+
+
     ShowSplash();
 
     function ShowSplash() {
@@ -95,12 +163,148 @@ var subscription_response ="<section id='newsletter_signup_popup3' class='block 
             console.error("Splash config error");
         }
     }   
+</script><div id="splash_mask" class="ui-widget-overlay" style="height: 47631px; opacity: 0.85; display: block; width: 1366px;"></div><div id="splash_box" style="height: 100px; width: 100px; top: 70px; left: 288px; opacity: 1; display: block; background-image: none;"><div id="splash_content" style="display: block;"><!--[if lt IE 7 ]> <html lang="en" class="no-js ie6"> <![endif]-->
+<!--[if IE 7 ]>    <html lang="en" class="no-js ie7"> <![endif]-->
+<!--[if IE 8 ]>    <html lang="en" class="no-js ie8"> <![endif]-->
+<!--[if IE 9 ]>    <html lang="en" class="no-js ie9"> <![endif]-->
+<!--[if (gt IE 9)|!(IE)]><!-->
+
+<!--<![endif]-->
+
+<script src="//archive.org/includes/analytics.js?v=cf34f82" type="text/javascript"></script>
+<script type="text/javascript">window.addEventListener('DOMContentLoaded',function(){var v=archive_analytics.values;v.service='wb';v.server_name='wwwb-app42.us.archive.org';v.server_ms=559;archive_analytics.send_pageview({});});</script><script type="text/javascript" src="/_static/js/ait-client-rewrite.js" charset="utf-8"></script>
+<script type="text/javascript">
+WB_wombat_Init("https://web.archive.org/web/", "20131004035019", "www.stokecityfc.com:80");
 </script>
+<script type="text/javascript" src="/_static/js/wbhack.js" charset="utf-8"></script>
+<script type="text/javascript">
+__wbhack.init('https://web.archive.org/web');
+</script>
+<link rel="stylesheet" type="text/css" href="/_static/css/banner-styles.css">
+<link rel="stylesheet" type="text/css" href="/_static/css/iconochive.css">
+<!-- End Wayback Rewrite JS Include -->
+
+<meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+<title>FLi Splash</title>
+<link rel="stylesheet" href="/web/20131004035019cs_/http://www.stokecityfc.com/css/style.css">
+<script>
+	var loader = [];
+</script>
+<script src="/web/20131004035019js_/http://www.stokecityfc.com/js/libs/modernizr-2.0.6.js"></script>
+
+
+
+<div class="ui-dialog">
+	<div class="ui-dialog-content">
+    <section id="splash" class="block">
+				
+
+     
+         <div class="optional_module profile_summary">
+<div class="module_image">
+
+
+
+
+
+</div>
+
+
+
+
+      <h4>
+
+
+</h4>
+<p>We've rebranded our website to provide you with a range of new and exclusive features. So that you're able to enjoy the exciting new site, we need to put cookies on your computer. If you want to know more about what the cookies will be used for see our <a href="/web/20131004035019/http://www.stokecityfc.com/global/cookie-privacy-policy.aspx" target="_blank">cookie &amp; privacy notice</a>. By entering the site you accept that we will put cookies on your computer.</p>
+</div>     
+    
+
+     
+    
+         <div class="logo">
+	<a href="/web/20131004035019/http://www.stokecityfc.com/" title="Stoke City FC Official Website">
+		<img src="/web/20131004035019im_/http://www.stokecityfc.com/cms_images/team/stokecity226-226728.png" width="60" height="60" alt="Stoke City FC Official Website" title="Stoke City FC Official Website">
+	</a>
+</div>
+<div class="titleWrapper">
+ <h2> Stoke City FC Official Website</h2>
+<a href="javascript:void(0);" onclick="fliSplash.box.hide();" class="enter" title="ENTER WEBSITE">ENTER WEBSITE</a>
+</div>
+
+ <span class="sponsor">Official website sponsor           
+
+
+       
+           <a href="https://web.archive.org/web/20131004035019/http://fliionosadclick-1954213438.eu-west-1.elb.amazonaws.com/AdClickRegistrationService.svc/RegisterClientClick?OrderCampaignUnitID=869349dc-127f-4b14-883a-084beefcf91d&amp;TargetURL=http%3a%2f%2fwww.bet365.com&amp;TenantID=FLI" onclick="AdvertisementTracking ('Splash Page : Splash Sponsor : Stoke City Pictures : #7161 bet365', true);" data-optlable="Splash Page : Splash Sponsor : Stoke City Pictures : #7161 bet365" title="bet365" target="_blank"><img alt="bet365" src="https://web.archive.org/web/20131004035019im_/http://files.fliionos.co.uk/FILES/Clubs/pa_38/EN-US/root/Vendors/ExternalVendors/7161bet365/images/bet365tcm_76-18219.jpg" height="28" width="231" onload="AdvertisementTracking ( 'Splash Page : Splash Sponsor : Stoke City Pictures : #7161 bet365', false);" title="bet365"></a>
+       
+
+     <input type="hidden" id="objOrders_11F5D51E-7675-418F-8A0F-1FBC2C427203" value="869349dc-127f-4b14-883a-084beefcf91d" name="objOrders_11F5D51E-7675-418F-8A0F-1FBC2C427203">
+
+
+ </span>     
+
+
+		<div class="main">
+			
+       
+           <a href="https://web.archive.org/web/20131004035019/http://fliionosadclick-1954213438.eu-west-1.elb.amazonaws.com/AdClickRegistrationService.svc/RegisterClientClick?OrderCampaignUnitID=ab3f7bae-77e0-4eb9-9405-a573e9ba2aca&amp;TargetURL=http%3a%2f%2fwww.player.stokecityfc.com%2f&amp;TenantID=FLI" onclick="AdvertisementTracking ('Splash Page : Lead Campaign : SMS Fli : Stoke City fc', true);" data-optlable="Splash Page : Lead Campaign : SMS Fli : Stoke City fc" title="" target="_blank"><img alt="" src="https://web.archive.org/web/20131004035019im_/http://files.fliionos.co.uk/FILES/Clubs/ION/en-us/root/Vendors/ExternalVendors/stokecityfc/images/fl_plyr_getcloser_hpto_premier6tcm_9-22866.jpg" height="292" width="763" onload="AdvertisementTracking ( 'Splash Page : Lead Campaign : SMS Fli : Stoke City fc', false);" title=""></a>
+       
+
+     <input type="hidden" id="objOrders_22A94610-5DD0-40D6-8652-536919E97298" value="ab3f7bae-77e0-4eb9-9405-a573e9ba2aca" name="objOrders_22A94610-5DD0-40D6-8652-536919E97298">
+
+	   </div>
+		<ul>
+			
+       
+           <li>
+               <a href="https://web.archive.org/web/20131004035019/http://fliionosadclick-1954213438.eu-west-1.elb.amazonaws.com/AdClickRegistrationService.svc/RegisterClientClick?OrderCampaignUnitID=4fcc4ecd-2c1a-4361-a2f5-d2c7b84a3b0f&amp;TargetURL=http%3a%2f%2fwww.player.stokecityfc.com%2f&amp;TenantID=FLI" onclick="AdvertisementTracking ('Splash Page : FLi Promo Campaign : SMS Fli : Stoke city fc1', true);" data-optlable="Splash Page : FLi Promo Campaign : SMS Fli : Stoke city fc1" title="" target="_blank"><img alt="" src="https://web.archive.org/web/20131004035019im_/http://files.fliionos.co.uk/FILES/Clubs/ION/en-us/root/Vendors/ExternalVendors/stokecityfc1/images/fl_plyr_getcloser_minihpto_premier6tcm_9-23647.jpg" height="92" width="175" onload="AdvertisementTracking ( 'Splash Page : FLi Promo Campaign : SMS Fli : Stoke city fc1', false);" title=""></a></li>
+       
+
+     <input type="hidden" id="objOrders_141D1868-8F1B-4C7E-A4FE-D80580F9ECC5" value="4fcc4ecd-2c1a-4361-a2f5-d2c7b84a3b0f" name="objOrders_141D1868-8F1B-4C7E-A4FE-D80580F9ECC5">
+
+			
+       
+           <li>
+               <a href="https://web.archive.org/web/20131004035019/http://fliionosadclick-1954213438.eu-west-1.elb.amazonaws.com/AdClickRegistrationService.svc/RegisterClientClick?OrderCampaignUnitID=30ad94ed-e357-448b-8d3b-cd5a5cd48e08&amp;TargetURL=http%3a%2f%2fwww.scfcdirect.com%2fretailmain.aspx&amp;TenantID=FLI" onclick="AdvertisementTracking ('Splash Page : Club Promo Campaign : Stoke City Kits 2013-14 : Stoke City 1314 Kits Splash', true);" data-optlable="Splash Page : Club Promo Campaign : Stoke City Kits 2013-14 : Stoke City 1314 Kits Splash" title="Stoke City FC 2013-14 Kits" target="_blank"><img alt="Stoke City FC 2013-14 Kits" src="https://web.archive.org/web/20131004035019im_/http://files.fliionos.co.uk/FILES/Clubs/pa_38/EN-US/root/Vendors/ExternalVendors/stokecity1314kitssplash/images/splashforeverstoketcm_76-23810.jpg" height="92" width="175" onload="AdvertisementTracking ( 'Splash Page : Club Promo Campaign : Stoke City Kits 2013-14 : Stoke City 1314 Kits Splash', false);" title="Stoke City FC 2013-14 Kits"></a></li>
+           <li>
+               <a href="https://web.archive.org/web/20131004035019/http://fliionosadclick-1954213438.eu-west-1.elb.amazonaws.com/AdClickRegistrationService.svc/RegisterClientClick?OrderCampaignUnitID=6ca8cc5d-c570-40c2-b7ff-8d3c3274047d&amp;TargetURL=http%3a%2f%2fwww.stokecityfc.com%2fcommercial%2fchristmas.aspx&amp;TenantID=FLI" onclick="AdvertisementTracking ('Splash Page : Club Promo Campaign : Yule Britannia 2013 2 : YuleBritannia2013splashsmall', true);" data-optlable="Splash Page : Club Promo Campaign : Yule Britannia 2013 2 : YuleBritannia2013splashsmall" title="Yule Britannia 2013" target="_blank"><img alt="Yule Britannia 2013" src="https://web.archive.org/web/20131004035019im_/http://files.fliionos.co.uk/FILES/Clubs/pa_38/EN-US/root/Vendors/ExternalVendors/yulebritannia2013splashsmall/images/splashyulebritanniatcm_76-23808.jpg" height="92" width="175" onload="AdvertisementTracking ( 'Splash Page : Club Promo Campaign : Yule Britannia 2013 2 : YuleBritannia2013splashsmall', false);" title="Yule Britannia 2013"></a></li>
+       
+
+     <input type="hidden" id="objOrders_EE8534FC-592F-4D67-BDA1-E30CF88702D9" value="30ad94ed-e357-448b-8d3b-cd5a5cd48e08,6ca8cc5d-c570-40c2-b7ff-8d3c3274047d" name="objOrders_EE8534FC-592F-4D67-BDA1-E30CF88702D9">
+
+		</ul>
+    </section>
+</div>
+</div>
+
+<!--
+     FILE ARCHIVED ON 03:50:19 Oct 04, 2013 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 11:02:31 Feb 24, 2020.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+-->
+<!--
+playback timings (ms):
+  captures_list: 216.537
+  PetaboxLoader3.resolve: 32.41
+  CDXLines.iter: 16.94 (3)
+  exclusion.robots.policy: 0.184
+  esindex: 0.02
+  RedisCDXSource: 114.173
+  LoadShardBlock: 80.82 (3)
+  PetaboxLoader3.datanode: 376.48 (4)
+  load_resource: 331.282
+  exclusion.robots: 0.197
+--></div></div>
 
 <input name="ctl00$Ionos_BackgroundImage_FullPage$hdnBackgroundImage" type="hidden" id="Ionos_BackgroundImage_FullPage_hdnBackgroundImage" class="hdnBackgroundImage">
 <input name="ctl00$Ionos_BackgroundImage_FullPage$hdnBackgroundImageUrl" type="hidden" id="Ionos_BackgroundImage_FullPage_hdnBackgroundImageUrl" class="hdnBackgroundImageUrl">
 <input name="ctl00$Ionos_BackgroundImage_FullPage$hdnBackgroundImageTrackingKey" type="hidden" id="Ionos_BackgroundImage_FullPage_hdnBackgroundImageTrackingKey" class="hdnBackgroundImageTrackingKey" value="Full Page Background">
-
+ 
 
 <div id="gradient_bg">
 <script type="text/javascript">
@@ -115,7 +319,7 @@ var subscription_response ="<section id='newsletter_signup_popup3' class='block 
 	var mfNWID = new Array(979, 1);
 	var adlPro = window.location.protocol == 'https:' ? 'https:' : 'http:';	
 	 Addjs(adlSite, adlZone, mfNWID, adlPro);
-</script>
+</script><script type="text/javascript" src="https://web.archive.org/web/20130921125346/http://js.adlink.net/js?lang=uk&amp;s=www.stokecityfc.com&amp;z=ROS&amp;d=1582542158553"></script>
 
 <section id="search_site" class="block">
 	<ul>
@@ -157,12 +361,12 @@ var subscription_response ="<section id='newsletter_signup_popup3' class='block 
 
 <form method="post" action="#" id="frmSiteMaster">
 <div class="aspNetHidden">
-<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwULLTIxMzE5MDk1NDYPZBYCZg9kFgICBA9kFgRmD2QWAmYPFgIeBFRleHQFOzxkaXYgaWQ9J0NsdWJTcG9uc29yc19sZWFndWVfc3BvbnNvcicgY2xhc3M9J2xvYWRlcic+PC9kaXY+ZAIDD2QWCmYPZBYCZg8WAh8ABU08ZGl2IGlkPSdDbHViU3BvbnNvcnNfbmV3c19zZWN0aW9uX3NlY3Rpb25fc3BvbnNvcl90b3AnIGNsYXNzPSdsb2FkZXInPjwvZGl2PmQCAQ9kFgICAQ8WAh4LXyFJdGVtQ291bnQCBhYMAgEPZBYCZg8VDgAAMS9uZXdzL2FydGljbGUvbGl2ZXJwb29sLXBob3RvLWdhbGxlcnktNTYxOTc4LmFzcHgABG5ld3MXTGl2ZXJwb29sIFBob3RvIEdhbGxlcnkXTGl2ZXJwb29sIFBob3RvIEdhbGxlcnlBL2Ntc19pbWFnZXMvbWF0Y2gvc2hvdHRvbi1lbnJpcXVlLWxpdmVycG9vbDIyNi01NjE5NzBfMTUweDExMy5qcGcxL25ld3MvYXJ0aWNsZS9saXZlcnBvb2wtcGhvdG8tZ2FsbGVyeS01NjE5NzguYXNweAAXTGl2ZXJwb29sIFBob3RvIEdhbGxlcnkXTGl2ZXJwb29sIFBob3RvIEdhbGxlcnk1UGljdHVyZXMgZnJvbSBvdXIgMy0xIHdpbiBhdCB0aGUgQnJpdGFubmlhIFN0YWRpdW0uLi4UMTAgaG91cnMgMTcgbWlucyBhZ29kAgIPZBYCZg8VDgRldmVuAD1odHRwOi8vd3d3LnBsYXllci5zdG9rZWNpdHlmYy5jb20vbGF0ZXN0LW5ld3MvYXJ0aWNsZS8xOTcyMzYzD3RhcmdldD0nX2JsYW5rJwV2aWRlbxNTdG9rZSAzIExpdmVycG9vbCAxE1N0b2tlIDMgTGl2ZXJwb29sIDE7L2Ntc19pbWFnZXMvdmlkZW8vMTk3MjM2My0wMTE1MTUxNDYwMDIyNi01NjE5NjRfMTUweDExMy5qcGc9aHR0cDovL3d3dy5wbGF5ZXIuc3Rva2VjaXR5ZmMuY29tL2xhdGVzdC1uZXdzL2FydGljbGUvMTk3MjM2Mw90YXJnZXQ9J19ibGFuaycTU3Rva2UgMyBMaXZlcnBvb2wgMRNTdG9rZSAzIExpdmVycG9vbCAxK01hdGNoIGhpZ2hsaWdodHMgZnJvbSB0aGUgQnJpdGFubmlhIFN0YWRpdW0UMTAgaG91cnMgMzggbWlucyBhZ29kAgMPZBYCZg8VDgAAMC9uZXdzL2FydGljbGUvcHVsaXMtcXVvdGVzLWxpdmVycG9vbC01NjE5MjQuYXNweAAEbmV3cyRQdWxpczogJiMzOTtBIEZhYnVsb3VzIFJlc3BvbnNlJiMzOTskUHVsaXM6ICYjMzk7QSBGYWJ1bG91cyBSZXNwb25zZSYjMzk7LC9jbXNfaW1hZ2VzL25ld3MvcHVsaXMyMjYtMzY2ODU2XzE1MHgxMTMuanBnMC9uZXdzL2FydGljbGUvcHVsaXMtcXVvdGVzLWxpdmVycG9vbC01NjE5MjQuYXNweAAkUHVsaXM6ICYjMzk7QSBGYWJ1bG91cyBSZXNwb25zZSYjMzk7JFB1bGlzOiAmIzM5O0EgRmFidWxvdXMgUmVzcG9uc2UmIzM5O0NNYW5hZ2VyIGRlbGlnaHRlZCB3aXRoIHRoZSB3YXkgQ2l0eSBib3VuY2VkIGJhY2sgZnJvbSBlYXJseSBzZXRiYWNrFDExIGhvdXJzIDEyIG1pbnMgYWdvZAIED2QWAmYPFQ4EZXZlbgA9aHR0cDovL3d3dy5wbGF5ZXIuc3Rva2VjaXR5ZmMuY29tL2xhdGVzdC1uZXdzL2FydGljbGUvMzAxOTU1Mw90YXJnZXQ9J19ibGFuaycFdmlkZW8gVklERU86IEEgU3BlY2lhbCBOaWdodCAtIFdhbHRlcnMgVklERU86IEEgU3BlY2lhbCBOaWdodCAtIFdhbHRlcnMwL2Ntc19pbWFnZXMvcGxheWVyL3dhbHRlcnMyMjYtMzY0NzIxXzE1MHgxMTMuanBnPWh0dHA6Ly93d3cucGxheWVyLnN0b2tlY2l0eWZjLmNvbS9sYXRlc3QtbmV3cy9hcnRpY2xlLzMwMTk1NTMPdGFyZ2V0PSdfYmxhbmsnIFZJREVPOiBBIFNwZWNpYWwgTmlnaHQgLSBXYWx0ZXJzIFZJREVPOiBBIFNwZWNpYWwgTmlnaHQgLSBXYWx0ZXJzRkpvbmF0aGFuIFdhbHRlcnMgZGVsaWdodGVkIHdpdGggaGlzIGRvdWJsZSBhcyBTdG9rZSBiZWF0IExpdmVycG9vbCAzLTEUMTEgaG91cnMgMTYgbWlucyBhZ29kAgUPZBYCZg8VDgAEbGFzdDMvbmV3cy9hcnRpY2xlL3dhbHRlcnMtbGl2ZXJwb29sLXN1Y2Nlc3MtNTYxOTM2LmFzcHgABG5ld3MaVGhlIFN3ZWV0IFRhc3RlIE9mIFN1Y2Nlc3MaVGhlIFN3ZWV0IFRhc3RlIE9mIFN1Y2Nlc3M5L2Ntc19pbWFnZXMvbWF0Y2gvd2FsdGVycy1saXZlcnBvb2wyMjYtNTYxNzI1XzE1MHgxMTMuanBnMy9uZXdzL2FydGljbGUvd2FsdGVycy1saXZlcnBvb2wtc3VjY2Vzcy01NjE5MzYuYXNweAAaVGhlIFN3ZWV0IFRhc3RlIE9mIFN1Y2Nlc3MaVGhlIFN3ZWV0IFRhc3RlIE9mIFN1Y2Nlc3M2VHdvLWdvYWwgV2FsdGVycyBkZWxpZ2h0ZWQgd2l0aCB2aWN0b3J5IG92ZXIgTGl2ZXJwb29sFDExIGhvdXJzIDI4IG1pbnMgYWdvZAIGD2QWAmYPFQ4EZXZlbgRsYXN0PWh0dHA6Ly93d3cucGxheWVyLnN0b2tlY2l0eWZjLmNvbS9sYXRlc3QtbmV3cy9hcnRpY2xlLzMwMTk1NDkPdGFyZ2V0PSdfYmxhbmsnBXZpZGVvI1ZJREVPOiBBYnNvbHV0ZWx5IEZhbnRhc3RpYyAtIFB1bGlzI1ZJREVPOiBBYnNvbHV0ZWx5IEZhbnRhc3RpYyAtIFB1bGlzLC9jbXNfaW1hZ2VzL25ld3MvcHVsaXMyMjYtNTQ0NDU1XzE1MHgxMTMuanBnPWh0dHA6Ly93d3cucGxheWVyLnN0b2tlY2l0eWZjLmNvbS9sYXRlc3QtbmV3cy9hcnRpY2xlLzMwMTk1NDkPdGFyZ2V0PSdfYmxhbmsnI1ZJREVPOiBBYnNvbHV0ZWx5IEZhbnRhc3RpYyAtIFB1bGlzI1ZJREVPOiBBYnNvbHV0ZWx5IEZhbnRhc3RpYyAtIFB1bGlzRlRvbnkgUHVsaXMgZGVsaWdodGVkIHdpdGggdGhlIHRlYW0mIzM5O3MgcmVzcG9uc2UgdG8gY29tZSBiYWNrIGFuZC4uLi4UMTEgaG91cnMgMzcgbWlucyBhZ29kAgIPZBYCZg8WAh8ABckBPCEtLSBQbGFjZW1lbnQ6U3Rva2UgQ2l0eSBST1MgTVBVIDMwMHgyNTAgKDI3MTY1NTkpIC0tPjxkaXYgaWQ9Im1mMjcxNjU1OSIgY2xhc3M9Im1mYzE3MCI+PHNjcmlwdCB0eXBlPSJ0ZXh0L2phdmFzY3JpcHQiPmlmICh0eXBlb2YgZ2V0SGVsaW9zVGFnID09J2Z1bmN0aW9uJykgZ2V0SGVsaW9zVGFnKDI3MTY1NTksIDE3MCk7PC9zY3JpcHQ+PC9kaXY+ZAIDD2QWAgIBDxYCHwECBRYKZg9kFgJmDxUMMS9uZXdzL2FydGljbGUvbGl2ZXJwb29sLXBob3RvLWdhbGxlcnktNTYxOTc4LmFzcHgABG5ld3MXTGl2ZXJwb29sIFBob3RvIEdhbGxlcnlBL2Ntc19pbWFnZXMvbWF0Y2gvc2hvdHRvbi1lbnJpcXVlLWxpdmVycG9vbDIyNi01NjE5NzBfMTUweDExMy5qcGcXTGl2ZXJwb29sIFBob3RvIEdhbGxlcnkxL25ld3MvYXJ0aWNsZS9saXZlcnBvb2wtcGhvdG8tZ2FsbGVyeS01NjE5NzguYXNweAAXTGl2ZXJwb29sIFBob3RvIEdhbGxlcnkXTGl2ZXJwb29sIFBob3RvIEdhbGxlcnk1UGljdHVyZXMgZnJvbSBvdXIgMy0xIHdpbiBhdCB0aGUgQnJpdGFubmlhIFN0YWRpdW0uLi4UMTAgaG91cnMgMTcgbWlucyBhZ29kAgEPZBYCZg8VDD1odHRwOi8vd3d3LnBsYXllci5zdG9rZWNpdHlmYy5jb20vbGF0ZXN0LW5ld3MvYXJ0aWNsZS8xOTcyMzYzD3RhcmdldD0nX2JsYW5rJwV2aWRlbxNTdG9rZSAzIExpdmVycG9vbCAxOy9jbXNfaW1hZ2VzL3ZpZGVvLzE5NzIzNjMtMDExNTE1MTQ2MDAyMjYtNTYxOTY0XzE1MHgxMTMuanBnE1N0b2tlIDMgTGl2ZXJwb29sIDE9aHR0cDovL3d3dy5wbGF5ZXIuc3Rva2VjaXR5ZmMuY29tL2xhdGVzdC1uZXdzL2FydGljbGUvMTk3MjM2Mw90YXJnZXQ9J19ibGFuaycTU3Rva2UgMyBMaXZlcnBvb2wgMRNTdG9rZSAzIExpdmVycG9vbCAxK01hdGNoIGhpZ2hsaWdodHMgZnJvbSB0aGUgQnJpdGFubmlhIFN0YWRpdW0UMTAgaG91cnMgMzggbWlucyBhZ29kAgIPZBYCZg8VDDAvbmV3cy9hcnRpY2xlL3B1bGlzLXF1b3Rlcy1saXZlcnBvb2wtNTYxOTI0LmFzcHgABG5ld3MkUHVsaXM6ICYjMzk7QSBGYWJ1bG91cyBSZXNwb25zZSYjMzk7LC9jbXNfaW1hZ2VzL25ld3MvcHVsaXMyMjYtMzY2ODU2XzE1MHgxMTMuanBnJFB1bGlzOiAmIzM5O0EgRmFidWxvdXMgUmVzcG9uc2UmIzM5OzAvbmV3cy9hcnRpY2xlL3B1bGlzLXF1b3Rlcy1saXZlcnBvb2wtNTYxOTI0LmFzcHgAJFB1bGlzOiAmIzM5O0EgRmFidWxvdXMgUmVzcG9uc2UmIzM5OyRQdWxpczogJiMzOTtBIEZhYnVsb3VzIFJlc3BvbnNlJiMzOTtDTWFuYWdlciBkZWxpZ2h0ZWQgd2l0aCB0aGUgd2F5IENpdHkgYm91bmNlZCBiYWNrIGZyb20gZWFybHkgc2V0YmFjaxQxMSBob3VycyAxMiBtaW5zIGFnb2QCAw9kFgJmDxUMPWh0dHA6Ly93d3cucGxheWVyLnN0b2tlY2l0eWZjLmNvbS9sYXRlc3QtbmV3cy9hcnRpY2xlLzMwMTk1NTMPdGFyZ2V0PSdfYmxhbmsnBXZpZGVvIFZJREVPOiBBIFNwZWNpYWwgTmlnaHQgLSBXYWx0ZXJzMC9jbXNfaW1hZ2VzL3BsYXllci93YWx0ZXJzMjI2LTM2NDcyMV8xNTB4MTEzLmpwZyBWSURFTzogQSBTcGVjaWFsIE5pZ2h0IC0gV2FsdGVycz1odHRwOi8vd3d3LnBsYXllci5zdG9rZWNpdHlmYy5jb20vbGF0ZXN0LW5ld3MvYXJ0aWNsZS8zMDE5NTUzD3RhcmdldD0nX2JsYW5rJyBWSURFTzogQSBTcGVjaWFsIE5pZ2h0IC0gV2FsdGVycyBWSURFTzogQSBTcGVjaWFsIE5pZ2h0IC0gV2FsdGVyc0ZKb25hdGhhbiBXYWx0ZXJzIGRlbGlnaHRlZCB3aXRoIGhpcyBkb3VibGUgYXMgU3Rva2UgYmVhdCBMaXZlcnBvb2wgMy0xFDExIGhvdXJzIDE2IG1pbnMgYWdvZAIED2QWAmYPFQwzL25ld3MvYXJ0aWNsZS93YWx0ZXJzLWxpdmVycG9vbC1zdWNjZXNzLTU2MTkzNi5hc3B4AARuZXdzGlRoZSBTd2VldCBUYXN0ZSBPZiBTdWNjZXNzOS9jbXNfaW1hZ2VzL21hdGNoL3dhbHRlcnMtbGl2ZXJwb29sMjI2LTU2MTcyNV8xNTB4MTEzLmpwZxpUaGUgU3dlZXQgVGFzdGUgT2YgU3VjY2VzczMvbmV3cy9hcnRpY2xlL3dhbHRlcnMtbGl2ZXJwb29sLXN1Y2Nlc3MtNTYxOTM2LmFzcHgAGlRoZSBTd2VldCBUYXN0ZSBPZiBTdWNjZXNzGlRoZSBTd2VldCBUYXN0ZSBPZiBTdWNjZXNzNlR3by1nb2FsIFdhbHRlcnMgZGVsaWdodGVkIHdpdGggdmljdG9yeSBvdmVyIExpdmVycG9vbBQxMSBob3VycyAyOCBtaW5zIGFnb2QCBA9kFgJmDxYCHwAFygE8IS0tIFBsYWNlbWVudDpTdG9rZSBDaXR5IEhvbWUgTVBVIDMwMHgyNTAgKDI3MTY1NjcpIC0tPjxkaXYgaWQ9Im1mMzc3NTI3NSIgY2xhc3M9Im1mYzUyOSI+PHNjcmlwdCB0eXBlPSJ0ZXh0L2phdmFzY3JpcHQiPmlmICh0eXBlb2YgZ2V0SGVsaW9zVGFnID09J2Z1bmN0aW9uJykgZ2V0SGVsaW9zVGFnKDM3NzUyNzUsIDUyOSk7PC9zY3JpcHQ+PC9kaXY+ZGTJ5lD/bap+dkneN1Q6MWNjeYeQNg==">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwULLTIxMzE5MDk1NDYPZBYCZg9kFgICBA9kFgRmD2QWAmYPFgIeBFRleHQFOzxkaXYgaWQ9J0NsdWJTcG9uc29yc19sZWFndWVfc3BvbnNvcicgY2xhc3M9J2xvYWRlcic+PC9kaXY+ZAIDD2QWBmYPZBYCZg8WAh8ABU08ZGl2IGlkPSdDbHViU3BvbnNvcnNfbmV3c19zZWN0aW9uX3NlY3Rpb25fc3BvbnNvcl90b3AnIGNsYXNzPSdsb2FkZXInPjwvZGl2PmQCAQ9kFgICAQ8WAh4LXyFJdGVtQ291bnQCBhYMAgEPZBYCZg8VDgAAKy9uZXdzL2FydGljbGUvYm93ZW4tbmllZHp3aWVja2ktODc0NTk2LmFzcHgABG5ld3McSHVnaGVzIFJldW5pdGVkIFdpdGggS2V5IE1lbhxIdWdoZXMgUmV1bml0ZWQgV2l0aCBLZXkgTWVuPy9jbXNfaW1hZ2VzL25ld3MvYm93ZW4taHVnaGVzLW5pZWR6d2llY2tpMjI2LTg3MzczNl8xNTB4MTEzLmpwZysvbmV3cy9hcnRpY2xlL2Jvd2VuLW5pZWR6d2llY2tpLTg3NDU5Ni5hc3B4ABxIdWdoZXMgUmV1bml0ZWQgV2l0aCBLZXkgTWVuHEh1Z2hlcyBSZXVuaXRlZCBXaXRoIEtleSBNZW40QXBwb2ludG1lbnRzIG9mIEJvd2VuIGFuZCBOaWVkendpZWNraSBub3cgY29uZmlybWVkIBM2IGhvdXJzIDU0IG1pbnMgYWdvZAICD2QWAmYPFQ4EZXZlbgAqL25ld3MvYXJ0aWNsZS9taWQtcHJpY2UtbGF0ZXN0LTg3NDAyNC5hc3B4AARuZXdzFUNvdW50ZG93biBUbyBEZWFkbGluZRVDb3VudGRvd24gVG8gRGVhZGxpbmVCL2Ntc19pbWFnZXMvb3RoZXIvc3Rva2Utdi1jaGVsc2VhLWF1ZzExLTE3MzYyMjYtMjQ1ODE2XzE1MHgxMTMuanBnKi9uZXdzL2FydGljbGUvbWlkLXByaWNlLWxhdGVzdC04NzQwMjQuYXNweAAVQ291bnRkb3duIFRvIERlYWRsaW5lFUNvdW50ZG93biBUbyBEZWFkbGluZTdDaXR5IHNlZWtpbmcgZnVydGhlciBib29zdCB0byBleGNlbGxlbnQgTWlkLXByaWNlIHNhbGVzFDEwIGhvdXJzIDQ5IG1pbnMgYWdvZAIDD2QWAmYPFQ4AAC4vbmV3cy9hcnRpY2xlL2dvbGYtd2l0aC10aGUtZ2FmZmVyLTg1NjEwMC5hc3B4AARuZXdzFEdvbGYgV2l0aCBUaGUgR2FmZmVyFEdvbGYgV2l0aCBUaGUgR2FmZmVyPi9jbXNfaW1hZ2VzL25ld3Mvc2NmYy1nb2xmLWRheS1zZXAxMC0wMDMyMjYtODU2MDk4XzE1MHgxMTMuanBnLi9uZXdzL2FydGljbGUvZ29sZi13aXRoLXRoZS1nYWZmZXItODU2MTAwLmFzcHgAFEdvbGYgV2l0aCBUaGUgR2FmZmVyFEdvbGYgV2l0aCBUaGUgR2FmZmVyO05ld3Mgb24gdGhlIENsdWImIzM5O3MgZmlyc3QgZ29sZiBkYXkgb2YgdGhlIDIwMTMvMTQgc2Vhc29uFDE1IGhvdXJzIDQ1IG1pbnMgYWdvZAIED2QWAmYPFQ4EZXZlbgAsL25ld3MvYXJ0aWNsZS9odWdoZXMtb24tZml4dHVyZXMtODcyOTIzLmFzcHgABG5ld3MZR2V0dGluZyBUaGUgUmlnaHQgQmFsYW5jZRlHZXR0aW5nIFRoZSBSaWdodCBCYWxhbmNlNC9jbXNfaW1hZ2VzL25ld3MvaHVnaGVzLXBsYXllcjIyNi04NDUzNzhfMTUweDExMy5qcGcsL25ld3MvYXJ0aWNsZS9odWdoZXMtb24tZml4dHVyZXMtODcyOTIzLmFzcHgAGUdldHRpbmcgVGhlIFJpZ2h0IEJhbGFuY2UZR2V0dGluZyBUaGUgUmlnaHQgQmFsYW5jZS5IdWdoZXMgbm90IHBsYW5uaW5nIHdob2xlc2FsZSBjaGFuZ2VzIHRvIHNxdWFkCTEgZGF5IGFnb2QCBQ9kFgJmDxUOAARsYXN0PWh0dHA6Ly93d3cucGxheWVyLnN0b2tlY2l0eWZjLmNvbS9sYXRlc3QtbmV3cy9hcnRpY2xlLzMyMTQwNDMPdGFyZ2V0PSdfYmxhbmsnBXZpZGVvHFZJREVPOiBIdWdoZXMgQ2FuJiMzOTt0IFdhaXQcVklERU86IEh1Z2hlcyBDYW4mIzM5O3QgV2FpdDYvY21zX2ltYWdlcy9uZXdzL21hcmstaHVnaGVzLTR4MzIyNi04NDU5MzZfMTUweDExMy5qcGc9aHR0cDovL3d3dy5wbGF5ZXIuc3Rva2VjaXR5ZmMuY29tL2xhdGVzdC1uZXdzL2FydGljbGUvMzIxNDA0Mw90YXJnZXQ9J19ibGFuayccVklERU86IEh1Z2hlcyBDYW4mIzM5O3QgV2FpdBxWSURFTzogSHVnaGVzIENhbiYjMzk7dCBXYWl0Q05ldyBtYW5hZ2VyIGV4Y2l0ZWQgZm9yIG5ldyBzZWFzb24gZm9sbG93aW5nIHJlbGVhc2Ugb2YgZml4dHVyZXMuLi4JMSBkYXkgYWdvZAIGD2QWAmYPFQ4EZXZlbgRsYXN0Ki9uZXdzL2FydGljbGUvZml4dHVyZXMtc2Nob2xlcy04NzI1NzYuYXNweAAEbmV3cw1BIFRvdWdoIFN0YXJ0DUEgVG91Z2ggU3RhcnRDL2Ntc19pbWFnZXMvbWF0Y2gvc2hhd2Nyb3NzLWdlcnJhcmQtbGl2ZXJwb29sMjI2LTQxMzk3OV8xNTB4MTEzLmpwZyovbmV3cy9hcnRpY2xlL2ZpeHR1cmVzLXNjaG9sZXMtODcyNTc2LmFzcHgADUEgVG91Z2ggU3RhcnQNQSBUb3VnaCBTdGFydC5TY2hvbGVzIHZlcmRpY3Qgb24gZml4dHVyZXMgZm9yIDIwMTMtMTQgc2Vhc29uCTEgZGF5IGFnb2QCAw9kFgICAQ8WAh8BAgUWCmYPZBYCZg8VDCsvbmV3cy9hcnRpY2xlL2Jvd2VuLW5pZWR6d2llY2tpLTg3NDU5Ni5hc3B4AARuZXdzHEh1Z2hlcyBSZXVuaXRlZCBXaXRoIEtleSBNZW4/L2Ntc19pbWFnZXMvbmV3cy9ib3dlbi1odWdoZXMtbmllZHp3aWVja2kyMjYtODczNzM2XzE1MHgxMTMuanBnHEh1Z2hlcyBSZXVuaXRlZCBXaXRoIEtleSBNZW4rL25ld3MvYXJ0aWNsZS9ib3dlbi1uaWVkendpZWNraS04NzQ1OTYuYXNweAAcSHVnaGVzIFJldW5pdGVkIFdpdGggS2V5IE1lbhxIdWdoZXMgUmV1bml0ZWQgV2l0aCBLZXkgTWVuNEFwcG9pbnRtZW50cyBvZiBCb3dlbiBhbmQgTmllZHp3aWVja2kgbm93IGNvbmZpcm1lZCATNiBob3VycyA1NCBtaW5zIGFnb2QCAQ9kFgJmDxUMKi9uZXdzL2FydGljbGUvbWlkLXByaWNlLWxhdGVzdC04NzQwMjQuYXNweAAEbmV3cxVDb3VudGRvd24gVG8gRGVhZGxpbmVCL2Ntc19pbWFnZXMvb3RoZXIvc3Rva2Utdi1jaGVsc2VhLWF1ZzExLTE3MzYyMjYtMjQ1ODE2XzE1MHgxMTMuanBnFUNvdW50ZG93biBUbyBEZWFkbGluZSovbmV3cy9hcnRpY2xlL21pZC1wcmljZS1sYXRlc3QtODc0MDI0LmFzcHgAFUNvdW50ZG93biBUbyBEZWFkbGluZRVDb3VudGRvd24gVG8gRGVhZGxpbmU3Q2l0eSBzZWVraW5nIGZ1cnRoZXIgYm9vc3QgdG8gZXhjZWxsZW50IE1pZC1wcmljZSBzYWxlcxQxMCBob3VycyA0OSBtaW5zIGFnb2QCAg9kFgJmDxUMLi9uZXdzL2FydGljbGUvZ29sZi13aXRoLXRoZS1nYWZmZXItODU2MTAwLmFzcHgABG5ld3MUR29sZiBXaXRoIFRoZSBHYWZmZXI+L2Ntc19pbWFnZXMvbmV3cy9zY2ZjLWdvbGYtZGF5LXNlcDEwLTAwMzIyNi04NTYwOThfMTUweDExMy5qcGcUR29sZiBXaXRoIFRoZSBHYWZmZXIuL25ld3MvYXJ0aWNsZS9nb2xmLXdpdGgtdGhlLWdhZmZlci04NTYxMDAuYXNweAAUR29sZiBXaXRoIFRoZSBHYWZmZXIUR29sZiBXaXRoIFRoZSBHYWZmZXI7TmV3cyBvbiB0aGUgQ2x1YiYjMzk7cyBmaXJzdCBnb2xmIGRheSBvZiB0aGUgMjAxMy8xNCBzZWFzb24UMTUgaG91cnMgNDUgbWlucyBhZ29kAgMPZBYCZg8VDCwvbmV3cy9hcnRpY2xlL2h1Z2hlcy1vbi1maXh0dXJlcy04NzI5MjMuYXNweAAEbmV3cxlHZXR0aW5nIFRoZSBSaWdodCBCYWxhbmNlNC9jbXNfaW1hZ2VzL25ld3MvaHVnaGVzLXBsYXllcjIyNi04NDUzNzhfMTUweDExMy5qcGcZR2V0dGluZyBUaGUgUmlnaHQgQmFsYW5jZSwvbmV3cy9hcnRpY2xlL2h1Z2hlcy1vbi1maXh0dXJlcy04NzI5MjMuYXNweAAZR2V0dGluZyBUaGUgUmlnaHQgQmFsYW5jZRlHZXR0aW5nIFRoZSBSaWdodCBCYWxhbmNlLkh1Z2hlcyBub3QgcGxhbm5pbmcgd2hvbGVzYWxlIGNoYW5nZXMgdG8gc3F1YWQJMSBkYXkgYWdvZAIED2QWAmYPFQw9aHR0cDovL3d3dy5wbGF5ZXIuc3Rva2VjaXR5ZmMuY29tL2xhdGVzdC1uZXdzL2FydGljbGUvMzIxNDA0Mw90YXJnZXQ9J19ibGFuaycFdmlkZW8cVklERU86IEh1Z2hlcyBDYW4mIzM5O3QgV2FpdDYvY21zX2ltYWdlcy9uZXdzL21hcmstaHVnaGVzLTR4MzIyNi04NDU5MzZfMTUweDExMy5qcGccVklERU86IEh1Z2hlcyBDYW4mIzM5O3QgV2FpdD1odHRwOi8vd3d3LnBsYXllci5zdG9rZWNpdHlmYy5jb20vbGF0ZXN0LW5ld3MvYXJ0aWNsZS8zMjE0MDQzD3RhcmdldD0nX2JsYW5rJxxWSURFTzogSHVnaGVzIENhbiYjMzk7dCBXYWl0HFZJREVPOiBIdWdoZXMgQ2FuJiMzOTt0IFdhaXRDTmV3IG1hbmFnZXIgZXhjaXRlZCBmb3IgbmV3IHNlYXNvbiBmb2xsb3dpbmcgcmVsZWFzZSBvZiBmaXh0dXJlcy4uLgkxIGRheSBhZ29kZPb67IFvhWxNYilqeLFVpI+YmzN/">
 </div>
 
 <div class="aspNetHidden">
 
-	<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEWBgLnntPLCQLxt6buAgKD6Zv+AwK4l9ypDQKMw8L1CQK1k/qOAa8G6BCaqf5nRxy8+JQ/IApSZbdS">
+	<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEWBgL6ztnQAQLxt6buAgKD6Zv+AwK4l9ypDQKMw8L1CQK1k/qOAQcR4cn8XYqE9K+gJ+l2Tim/iFW5">
 </div>
 
 <span title="skip-link" id="skip-link"><a accesskey="0" href="#content" title="Skip to main content">Skip to main content</a></span>
@@ -170,9 +374,32 @@ var subscription_response ="<section id='newsletter_signup_popup3' class='block 
 
 <script>
 
-   adloader.push({ "url": "/UserControls/IONOS/Ionos_High_Media.ascx", "params": { "IsCPA": 'false', "HasTitle": 'False', "HasLink": 'False',"HasDescription": 'False',"HasLink": 'False', "hasLiTags": '',"IsFooter": 'False', "AdData": '3245C556-2D2A-432F-93F9-98CCFE7ACAFD$$$pa_38$$$AlwayOn|AlwaysOn$$$1@League Sponsor', "SectionName": 'League Sponsor', "ClubName": 'Stoke City' , "isCached" : '', "CacheKey": 'ClubSponsors_league_sponsor', "CombineAdRequest": 'False', "PoweredByText": '' , "PoweredInNextLine": 'False' }, "args": { "el": "#ClubSponsors_league_sponsor"} })
+
+   adloader.push({ "url": "/UserControls/IONOS/Ionos_High_Media.ascx", 
+   "params": { 
+    "IsCPA": 'false', 
+    "HasTitle": 'False', 
+    "HasLink": 'False',
+    "HasDescription": 'False',
+    "HasLink": 'False',
+     "hasLiTags": '',
+     "IsFooter": 'False',
+      "AdData": '3245C556-2D2A-432F-93F9-98CCFE7ACAFD$$$pa_38$$$AlwayOn|AlwaysOn$$$1@League Sponsor', 
+      "SectionName": 'League Sponsor', 
+      "ClubName": 'Stoke City' ,
+       "isCached" : '',
+        "CacheKey": 'ClubSponsors_league_sponsor', "CombineAdRequest": 'False', 
+        "PoweredByText": '' , "PoweredInNextLine": 'False',
+         "IsNavigationAd" : 'False' 
+       }
+       , "callback" : "sendIonosOrderIds"
+,"args": { 
+            "el": "#ClubSponsors_league_sponsor"
+            ,"addata" : '3245C556-2D2A-432F-93F9-98CCFE7ACAFD$$$pa_38$$$AlwayOn|AlwaysOn$$$1@League Sponsor'}
+        })
 
 </script>
+
 <div id="ClubSponsors_league_sponsor" class="loader"></div>
 
 
@@ -197,8 +424,12 @@ var subscription_response ="<section id='newsletter_signup_popup3' class='block 
                         <button value="Subscribe" id="subscribe_newsletter" class="cta" onclick="return onclick_pop1('email','emailErrorText')">SUBSCRIBE</button>
 	</fieldset>
 			</div>
-      </li> 
-      <li><a href="http://www.bet365.com/" target="_blank" onclick="EventTracking('External Link', 'Click','Bet');">bet</a></li>
+      </li>
+ 
+          
+	  <li><a href="http://www.bet365.com/" target="_blank" onclick="EventTracking('External Link', 'Click','Bet');">bet</a></li>
+	  
+
       <li><a onclick="EventTracking('External Link', 'Click','Mobile');" href="/mobile/" title="mobile">mobile</a></li>
     </ul>
   </div>
@@ -229,19 +460,22 @@ var subscription_response ="<section id='newsletter_signup_popup3' class='block 
           <h4>Features</h4>
           <ul>
             <li>
-              <a href="/news/stokecityplayer.aspx" title="Stoke City Player Info" target="_self">Stoke City Player Info</a>
-            </li>
-            <li>
-              <a href="/news/magazine.aspx" title="Matchday Magazine Info" target="_self">Matchday Magazine Info</a>
-            </li>
-            <li>
-              <a href="/news/socialmedia.aspx" title="Social Media Info" target="_self">Social Media Info</a>
-            </li>
-            <li>
-              <a href="/news/media.aspx" title="Media &amp; Press Info" target="_self">Media &amp; Press Info</a>
+              <a href="http://www.stokecityfc.com/1314/" title="2013-14 Season" target="_self">2013-14 Season</a>
             </li>
             <li>
               <a href="http://itunes.apple.com/gb/app/official-stoke-city-fc/id364265825?mt=8" title="iPhone / iPod app" target="_blank">iPhone / iPod app</a>
+            </li>
+            <li>
+              <a href="/news/stokecityplayer.aspx" title="Stoke City Player info" target="_self">Stoke City Player info</a>
+            </li>
+            <li>
+              <a href="/news/magazine.aspx" title="Matchday Magazine info" target="_blank">Matchday Magazine info</a>
+            </li>
+            <li>
+              <a href="/news/socialmedia.aspx" title="Social Media info" target="_blank">Social Media info</a>
+            </li>
+            <li>
+              <a href="/news/media.aspx" title="Media &amp; Press info" target="_blank">Media &amp; Press info</a>
             </li>
             <li>
               <a href="http://www.twitter.com/stokecity/staff" title="Staff Twitter feed" target="_blank">Staff Twitter feed</a>
@@ -307,6 +541,9 @@ var subscription_response ="<section id='newsletter_signup_popup3' class='block 
             <li>
               <a href="http://www.player.stokecityfc.com/live-matches" title="Live Audio Commentary" target="_blank">Live Audio Commentary</a>
             </li>
+            <li>
+              <a href="http://www.o-publishing.co.uk/shop/catalog/5" title="Buy Matchday Magazines" target="_blank">Buy Matchday Magazines</a>
+            </li>
           </ul>
         </li>
         <li class="advertorial loader" id="navigation_club_cross_sell_2">
@@ -340,9 +577,6 @@ var subscription_response ="<section id='newsletter_signup_popup3' class='block 
               <a href="/tickets/saledates/" title="Ticket Sale Dates">Ticket Sale Dates</a>
             </li>
             <li>
-              <a href="/tickets/matchdayprices/" title="Matchday Prices">Matchday Prices</a>
-            </li>
-            <li>
               <a href="/tickets/seasontickets/" title="Season Ticket Prices">Season Ticket Prices</a>
             </li>
             <li>
@@ -360,10 +594,16 @@ var subscription_response ="<section id='newsletter_signup_popup3' class='block 
           <h4>Features</h4>
           <ul>
             <li>
+              <a href="http://www.stokecityfc.com/1314/" title="2013-14 Season" target="_self">2013-14 Season</a>
+            </li>
+            <li>
               <a href="http://www.scfcdirect.com/events.aspx?section=eve" title="Buy Tickets Online" target="_blank">Buy Tickets Online</a>
             </li>
             <li>
-              <a href="/commercial/matchdayhospitality.aspx" title="Matchday Hospitality" target="_self">Matchday Hospitality</a>
+              <a href="/club/britanniastadium/directions.aspx" title="Directions to Stadium" target="_self">Directions to Stadium</a>
+            </li>
+            <li>
+              <a href="http://www.stokecityfc.com/commercial/hospitality/" title="Matchday Hospitality" target="_self">Matchday Hospitality</a>
             </li>
             <li>
               <a href="/tickets/matchdaybuses.aspx" title="Matchday Buses" target="_self">Matchday Buses</a>
@@ -414,6 +654,9 @@ var subscription_response ="<section id='newsletter_signup_popup3' class='block 
             </li>
             <li>
               <a href="/team/academy/" title="The Academy">The Academy</a>
+            </li>
+            <li>
+              <a href="/team/ladies/" title="Ladies &amp; Girls CofE">Ladies &amp; Girls CofE</a>
             </li>
             <li>
               <a href="/team/transfers-signings/" title="Transfers &amp; Signings">Transfers &amp; Signings</a>
@@ -546,10 +789,13 @@ var subscription_response ="<section id='newsletter_signup_popup3' class='block 
           <h4>Features</h4>
           <ul>
             <li>
-              <a href="http://www.facebook.com/stokecity" title="Facebook page" target="_blank">Facebook page</a>
+              <a href="http://www.facebook.com/stokecity" title="facebook.com/stokecity" target="_blank">facebook.com/stokecity</a>
             </li>
             <li>
-              <a href="http://www.twitter.com/stokecity" title="Twitter page" target="_blank">Twitter page</a>
+              <a href="http://www.twitter.com/stokecity" title="twitter.com/stokecity" target="_blank">twitter.com/stokecity</a>
+            </li>
+            <li>
+              <a href="/club/community/city7s.aspx" title="City 7s" target="_self">City 7s</a>
             </li>
             <li>
               <a href="http://itunes.apple.com/gb/app/official-stoke-city-fc/id364265825?mt=8" title="iPhone / iPod app" target="_blank">iPhone / iPod app</a>
@@ -637,7 +883,10 @@ var subscription_response ="<section id='newsletter_signup_popup3' class='block 
               <a href="/club/community/fund.aspx" title="Community Fund" target="_self">Community Fund</a>
             </li>
             <li>
-              <a href="/jobs/index.aspx" title="Job Vacancies" target="_self">Job Vacancies</a>
+              <a href="/club/safeguarding.aspx" title="Safeguarding" target="_self">Safeguarding</a>
+            </li>
+            <li>
+              <a href="http://www.stokecityfc.com/jobs" title="Job Vacancies" target="_self">Job Vacancies</a>
             </li>
           </ul>
         </li>
@@ -669,7 +918,7 @@ var subscription_response ="<section id='newsletter_signup_popup3' class='block 
               <a href="/commercial/commercial/" title="Commercial News">Commercial News</a>
             </li>
             <li>
-              <a href="/commercial/hospitality/" title="Matchday Hospitality">Matchday Hospitality</a>
+              <a href="/commercial/hospitality/" title="Seasonal Hospitality">Seasonal Hospitality</a>
             </li>
             <li>
               <a href="/commercial/conferences/" title="Conferences">Conferences</a>
@@ -694,6 +943,12 @@ var subscription_response ="<section id='newsletter_signup_popup3' class='block 
         <li class="features">
           <h4>Features</h4>
           <ul>
+            <li>
+              <a href="http://www.stokecityfc.com/1314/" title="2013-14 Season" target="_self">2013-14 Season</a>
+            </li>
+            <li>
+              <a href="/commercial/calendar.aspx" title="Events Calendar" target="_self">Events Calendar</a>
+            </li>
             <li>
               <a href="http://www.scfcdirect.com" title="SCFC Direct" target="_blank">SCFC Direct</a>
             </li>
@@ -950,9 +1205,32 @@ _e_117p_0</td><td>Facebook cookies created when Facebook share or like links cli
 
 <script>
 
-   adloader.push({ "url": "/UserControls/IONOS/Ionos_High_Media.ascx", "params": { "IsCPA": 'false', "HasTitle": 'False', "HasLink": 'False',"HasDescription": 'False',"HasLink": 'False', "hasLiTags": '',"IsFooter": 'False', "AdData": '0C0D36C6-8E96-48CF-BDFA-CD1518653068$$$pa_38$$$AlwayOn|AlwaysOn$$$1', "SectionName": '', "ClubName": 'Stoke City' , "isCached" : '', "CacheKey": 'ClubSponsors_news_section_section_sponsor_top', "CombineAdRequest": 'False', "PoweredByText": '' , "PoweredInNextLine": 'False' }, "args": { "el": "#ClubSponsors_news_section_section_sponsor_top"} })
+
+   adloader.push({ "url": "/UserControls/IONOS/Ionos_High_Media.ascx", 
+   "params": { 
+    "IsCPA": 'false', 
+    "HasTitle": 'False', 
+    "HasLink": 'False',
+    "HasDescription": 'False',
+    "HasLink": 'False',
+     "hasLiTags": '',
+     "IsFooter": 'False',
+      "AdData": '0C0D36C6-8E96-48CF-BDFA-CD1518653068$$$pa_38$$$AlwayOn|AlwaysOn$$$1', 
+      "SectionName": '', 
+      "ClubName": 'Stoke City' ,
+       "isCached" : '',
+        "CacheKey": 'ClubSponsors_news_section_section_sponsor_top', "CombineAdRequest": 'False', 
+        "PoweredByText": '' , "PoweredInNextLine": 'False',
+         "IsNavigationAd" : 'False' 
+       }
+       , "callback" : "sendIonosOrderIds"
+,"args": { 
+            "el": "#ClubSponsors_news_section_section_sponsor_top"
+            ,"addata" : '0C0D36C6-8E96-48CF-BDFA-CD1518653068$$$pa_38$$$AlwayOn|AlwaysOn$$$1'}
+        })
 
 </script>
+
 <div id="ClubSponsors_news_section_section_sponsor_top" class="loader"></div>
 
 	
@@ -969,86 +1247,86 @@ _e_117p_0</td><td>Facebook cookies created when Facebook share or like links cli
             <ul>
         
             <li class=" ">
-                <a href="/news/article/liverpool-photo-gallery-561978.aspx" class="news">
+                <a href="/news/article/bowen-niedzwiecki-874596.aspx" class="news">
                     <span></span>
-                    <img alt="Liverpool Photo Gallery" title="Liverpool Photo Gallery" src="/cms_images/match/shotton-enrique-liverpool226-561970_150x113.jpg" width="68" height="51">
+                    <img alt="Hughes Reunited With Key Men" title="Hughes Reunited With Key Men" src="/cms_images/news/bowen-hughes-niedzwiecki226-873736_150x113.jpg" width="68" height="51">
                 </a>
-                <a href="/news/article/liverpool-photo-gallery-561978.aspx" title="Liverpool Photo Gallery">
-                    <strong>Liverpool Photo Gallery</strong>
+                <a href="/news/article/bowen-niedzwiecki-874596.aspx" title="Hughes Reunited With Key Men">
+                    <strong>Hughes Reunited With Key Men</strong>
                 </a>
                 <p class="info">
-                    Pictures from our 3-1 win at the Britannia Stadium...<br>
-                    <span class="duration">10 hours 17 mins ago</span>
+                    Appointments of Bowen and Niedzwiecki now confirmed <br>
+                    <span class="duration">6 hours 54 mins ago</span>
                 </p>
             </li>
         
             <li class="even ">
-                <a href="http://www.player.stokecityfc.com/latest-news/article/1972363" target="_blank" class="video">
+                <a href="/news/article/mid-price-latest-874024.aspx" class="news">
                     <span></span>
-                    <img alt="Stoke 3 Liverpool 1" title="Stoke 3 Liverpool 1" src="/cms_images/video/1972363-01151514600226-561964_150x113.jpg" width="68" height="51">
+                    <img alt="Countdown To Deadline" title="Countdown To Deadline" src="/cms_images/other/stoke-v-chelsea-aug11-1736226-245816_150x113.jpg" width="68" height="51">
                 </a>
-                <a href="http://www.player.stokecityfc.com/latest-news/article/1972363" target="_blank" title="Stoke 3 Liverpool 1">
-                    <strong>Stoke 3 Liverpool 1</strong>
+                <a href="/news/article/mid-price-latest-874024.aspx" title="Countdown To Deadline">
+                    <strong>Countdown To Deadline</strong>
                 </a>
                 <p class="info">
-                    Match highlights from the Britannia Stadium<br>
-                    <span class="duration">10 hours 38 mins ago</span>
+                    City seeking further boost to excellent Mid-price sales<br>
+                    <span class="duration">10 hours 49 mins ago</span>
                 </p>
             </li>
         
             <li class=" ">
-                <a href="/news/article/pulis-quotes-liverpool-561924.aspx" class="news">
+                <a href="/news/article/golf-with-the-gaffer-856100.aspx" class="news">
                     <span></span>
-                    <img alt="Pulis: 'A Fabulous Response'" title="Pulis: 'A Fabulous Response'" src="/cms_images/news/pulis226-366856_150x113.jpg" width="68" height="51">
+                    <img alt="Golf With The Gaffer" title="Golf With The Gaffer" src="/cms_images/news/scfc-golf-day-sep10-003226-856098_150x113.jpg" width="68" height="51">
                 </a>
-                <a href="/news/article/pulis-quotes-liverpool-561924.aspx" title="Pulis: 'A Fabulous Response'">
-                    <strong>Pulis: 'A Fabulous Response'</strong>
+                <a href="/news/article/golf-with-the-gaffer-856100.aspx" title="Golf With The Gaffer">
+                    <strong>Golf With The Gaffer</strong>
                 </a>
                 <p class="info">
-                    Manager delighted with the way City bounced back from early setback<br>
-                    <span class="duration">11 hours 12 mins ago</span>
+                    News on the Club's first golf day of the 2013/14 season<br>
+                    <span class="duration">15 hours 45 mins ago</span>
                 </p>
             </li>
         
             <li class="even ">
-                <a href="http://www.player.stokecityfc.com/latest-news/article/3019553" target="_blank" class="video">
+                <a href="/news/article/hughes-on-fixtures-872923.aspx" class="news">
                     <span></span>
-                    <img alt="VIDEO: A Special Night - Walters" title="VIDEO: A Special Night - Walters" src="/cms_images/player/walters226-364721_150x113.jpg" width="68" height="51">
+                    <img alt="Getting The Right Balance" title="Getting The Right Balance" src="/cms_images/news/hughes-player226-845378_150x113.jpg" width="68" height="51">
                 </a>
-                <a href="http://www.player.stokecityfc.com/latest-news/article/3019553" target="_blank" title="VIDEO: A Special Night - Walters">
-                    <strong>VIDEO: A Special Night - Walters</strong>
+                <a href="/news/article/hughes-on-fixtures-872923.aspx" title="Getting The Right Balance">
+                    <strong>Getting The Right Balance</strong>
                 </a>
                 <p class="info">
-                    Jonathan Walters delighted with his double as Stoke beat Liverpool 3-1<br>
-                    <span class="duration">11 hours 16 mins ago</span>
+                    Hughes not planning wholesale changes to squad<br>
+                    <span class="duration">1 day ago</span>
                 </p>
             </li>
         
             <li class=" last">
-                <a href="/news/article/walters-liverpool-success-561936.aspx" class="news">
+                <a href="http://www.player.stokecityfc.com/latest-news/article/3214043" target="_blank" class="video">
                     <span></span>
-                    <img alt="The Sweet Taste Of Success" title="The Sweet Taste Of Success" src="/cms_images/match/walters-liverpool226-561725_150x113.jpg" width="68" height="51">
+                    <img alt="VIDEO: Hughes Can't Wait" title="VIDEO: Hughes Can't Wait" src="/cms_images/news/mark-hughes-4x3226-845936_150x113.jpg" width="68" height="51">
                 </a>
-                <a href="/news/article/walters-liverpool-success-561936.aspx" title="The Sweet Taste Of Success">
-                    <strong>The Sweet Taste Of Success</strong>
+                <a href="http://www.player.stokecityfc.com/latest-news/article/3214043" target="_blank" title="VIDEO: Hughes Can't Wait">
+                    <strong>VIDEO: Hughes Can't Wait</strong>
                 </a>
                 <p class="info">
-                    Two-goal Walters delighted with victory over Liverpool<br>
-                    <span class="duration">11 hours 28 mins ago</span>
+                    New manager excited for new season following release of fixtures...<br>
+                    <span class="duration">1 day ago</span>
                 </p>
             </li>
         
             <li class="even last">
-                <a href="http://www.player.stokecityfc.com/latest-news/article/3019549" target="_blank" class="video">
+                <a href="/news/article/fixtures-scholes-872576.aspx" class="news">
                     <span></span>
-                    <img alt="VIDEO: Absolutely Fantastic - Pulis" title="VIDEO: Absolutely Fantastic - Pulis" src="/cms_images/news/pulis226-544455_150x113.jpg" width="68" height="51">
+                    <img alt="A Tough Start" title="A Tough Start" src="/cms_images/match/shawcross-gerrard-liverpool226-413979_150x113.jpg" width="68" height="51">
                 </a>
-                <a href="http://www.player.stokecityfc.com/latest-news/article/3019549" target="_blank" title="VIDEO: Absolutely Fantastic - Pulis">
-                    <strong>VIDEO: Absolutely Fantastic - Pulis</strong>
+                <a href="/news/article/fixtures-scholes-872576.aspx" title="A Tough Start">
+                    <strong>A Tough Start</strong>
                 </a>
                 <p class="info">
-                    Tony Pulis delighted with the team's response to come back and....<br>
-                    <span class="duration">11 hours 37 mins ago</span>
+                    Scholes verdict on fixtures for 2013-14 season<br>
+                    <span class="duration">1 day ago</span>
                 </p>
             </li>
         
@@ -1079,7 +1357,10 @@ _e_117p_0</td><td>Facebook cookies created when Facebook share or like links cli
                         
 
 	                 <section class="mpu col4">
-		 				<!-- Placement:Stoke City ROS MPU 300x250 (2716559) --><div id="mf2716559" class="mfc170"><script type="text/javascript">if (typeof getHeliosTag =='function') getHeliosTag(2716559, 170);</script></div>
+		 				
+      
+          <script type="text/javascript">   document.MAX_ct0 ='INSERT_CLICK_MACRO';   var m3_u = (location.protocol=='https:'?'https://delivery.ads-creativesyndicator.com/adserver/www/delivery/ajs.php':'http://delivery.ads-creativesyndicator.com/adserver/www/delivery/ajs.php');   var m3_r = Math.floor(Math.random()*99999999999);   if (!document.MAX_used) document.MAX_used = ',';   document.write ("<scr"+"ipt type='text/javascript' src='"+m3_u);   document.write ("?zoneid=2892&amp;charset=UTF-8");   document.write ('&amp;cb=' + m3_r);   if (document.MAX_used != ',') document.write ("&amp;exclude=" + document.MAX_used);   document.write ('&amp;charset=UTF-8');   document.write ("&amp;loc=" + escape(window.location));   document.write ("&amp;tzo=" + (new Date().getTimezoneOffset()));   if (document.referrer) document.write ("&amp;referer=" + escape(document.referrer));   if (document.context) document.write ("&context=" + escape(document.context));   if ((typeof(document.MAX_ct0) != 'undefined') && (document.MAX_ct0.substring(0,4) == 'http')) {       document.write ("&amp;ct0=" + escape(document.MAX_ct0));   }   if (document.mmm_fo) document.write ("&amp;mmm_fo=1");   document.write ("'><\/scr"+"ipt>");</script><script type="text/javascript" src="https://delivery.ads-creativesyndicator.com/adserver/www/delivery/ajs.php?zoneid=2892&amp;charset=UTF-8&amp;cb=67626639011&amp;charset=UTF-8&amp;loc=https%3A//web.archive.org/web/20130620215016id_/http%253A//www.stokecityfc.com/global/privacy-policy.aspx&amp;tzo=0"></script><noscript><a href='http://delivery.ads-creativesyndicator.com/adserver/www/delivery/ck.php?n=ae018103&amp;cb=INSERT_RANDOM_NUMBER' target='_blank'><img src='http://delivery.ads-creativesyndicator.com/adserver/www/delivery/avw.php?zoneid=2892&amp;charset=UTF-8&amp;cb=INSERT_RANDOM_NUMBER&amp;n=ae018103&amp;ct0=INSERT_CLICK_MACRO' border='0' alt='' /></a></noscript>
+      
 
 			</section>
 
@@ -1104,65 +1385,65 @@ _e_117p_0</td><td>Facebook cookies created when Facebook share or like links cli
     
             <div>
                 <div class="item">
-                    <a href="/news/article/liverpool-photo-gallery-561978.aspx" class="news" title="Liverpool Photo Gallery">
+                    <a href="/news/article/bowen-niedzwiecki-874596.aspx" class="news" title="Hughes Reunited With Key Men">
                         <span></span>
-                        <img src="/cms_images/match/shotton-enrique-liverpool226-561970_150x113.jpg" alt="Liverpool Photo Gallery" width="68" height="51">
+                        <img src="/cms_images/news/bowen-hughes-niedzwiecki226-873736_150x113.jpg" alt="Hughes Reunited With Key Men" width="68" height="51">
                     </a>
-				    <h5><a href="/news/article/liverpool-photo-gallery-561978.aspx" title="Liverpool Photo Gallery">Liverpool Photo Gallery</a></h5>
-				    <p>Pictures from our 3-1 win at the Britannia Stadium...</p>
-				    <span class="duration">10 hours 17 mins ago</span>
+				    <h5><a href="/news/article/bowen-niedzwiecki-874596.aspx" title="Hughes Reunited With Key Men">Hughes Reunited With Key Men</a></h5>
+				    <p>Appointments of Bowen and Niedzwiecki now confirmed </p>
+				    <span class="duration">6 hours 54 mins ago</span>
                     
                 </div>
             </div>
         
             <div>
                 <div class="item">
-                    <a href="http://www.player.stokecityfc.com/latest-news/article/1972363" target="_blank" class="video" title="Stoke 3 Liverpool 1">
+                    <a href="/news/article/mid-price-latest-874024.aspx" class="news" title="Countdown To Deadline">
                         <span></span>
-                        <img src="/cms_images/video/1972363-01151514600226-561964_150x113.jpg" alt="Stoke 3 Liverpool 1" width="68" height="51">
+                        <img src="/cms_images/other/stoke-v-chelsea-aug11-1736226-245816_150x113.jpg" alt="Countdown To Deadline" width="68" height="51">
                     </a>
-				    <h5><a href="http://www.player.stokecityfc.com/latest-news/article/1972363" target="_blank" title="Stoke 3 Liverpool 1">Stoke 3 Liverpool 1</a></h5>
-				    <p>Match highlights from the Britannia Stadium</p>
-				    <span class="duration">10 hours 38 mins ago</span>
+				    <h5><a href="/news/article/mid-price-latest-874024.aspx" title="Countdown To Deadline">Countdown To Deadline</a></h5>
+				    <p>City seeking further boost to excellent Mid-price sales</p>
+				    <span class="duration">10 hours 49 mins ago</span>
                     
                 </div>
             </div>
         
             <div>
                 <div class="item">
-                    <a href="/news/article/pulis-quotes-liverpool-561924.aspx" class="news" title="Pulis: 'A Fabulous Response'">
+                    <a href="/news/article/golf-with-the-gaffer-856100.aspx" class="news" title="Golf With The Gaffer">
                         <span></span>
-                        <img src="/cms_images/news/pulis226-366856_150x113.jpg" alt="Pulis: 'A Fabulous Response'" width="68" height="51">
+                        <img src="/cms_images/news/scfc-golf-day-sep10-003226-856098_150x113.jpg" alt="Golf With The Gaffer" width="68" height="51">
                     </a>
-				    <h5><a href="/news/article/pulis-quotes-liverpool-561924.aspx" title="Pulis: 'A Fabulous Response'">Pulis: 'A Fabulous Response'</a></h5>
-				    <p>Manager delighted with the way City bounced back from early setback</p>
-				    <span class="duration">11 hours 12 mins ago</span>
+				    <h5><a href="/news/article/golf-with-the-gaffer-856100.aspx" title="Golf With The Gaffer">Golf With The Gaffer</a></h5>
+				    <p>News on the Club's first golf day of the 2013/14 season</p>
+				    <span class="duration">15 hours 45 mins ago</span>
                     
                 </div>
             </div>
         
             <div>
                 <div class="item">
-                    <a href="http://www.player.stokecityfc.com/latest-news/article/3019553" target="_blank" class="video" title="VIDEO: A Special Night - Walters">
+                    <a href="/news/article/hughes-on-fixtures-872923.aspx" class="news" title="Getting The Right Balance">
                         <span></span>
-                        <img src="/cms_images/player/walters226-364721_150x113.jpg" alt="VIDEO: A Special Night - Walters" width="68" height="51">
+                        <img src="/cms_images/news/hughes-player226-845378_150x113.jpg" alt="Getting The Right Balance" width="68" height="51">
                     </a>
-				    <h5><a href="http://www.player.stokecityfc.com/latest-news/article/3019553" target="_blank" title="VIDEO: A Special Night - Walters">VIDEO: A Special Night - Walters</a></h5>
-				    <p>Jonathan Walters delighted with his double as Stoke beat Liverpool 3-1</p>
-				    <span class="duration">11 hours 16 mins ago</span>
+				    <h5><a href="/news/article/hughes-on-fixtures-872923.aspx" title="Getting The Right Balance">Getting The Right Balance</a></h5>
+				    <p>Hughes not planning wholesale changes to squad</p>
+				    <span class="duration">1 day ago</span>
                     
                 </div>
             </div>
         
             <div>
                 <div class="item">
-                    <a href="/news/article/walters-liverpool-success-561936.aspx" class="news" title="The Sweet Taste Of Success">
+                    <a href="http://www.player.stokecityfc.com/latest-news/article/3214043" target="_blank" class="video" title="VIDEO: Hughes Can't Wait">
                         <span></span>
-                        <img src="/cms_images/match/walters-liverpool226-561725_150x113.jpg" alt="The Sweet Taste Of Success" width="68" height="51">
+                        <img src="/cms_images/news/mark-hughes-4x3226-845936_150x113.jpg" alt="VIDEO: Hughes Can't Wait" width="68" height="51">
                     </a>
-				    <h5><a href="/news/article/walters-liverpool-success-561936.aspx" title="The Sweet Taste Of Success">The Sweet Taste Of Success</a></h5>
-				    <p>Two-goal Walters delighted with victory over Liverpool</p>
-				    <span class="duration">11 hours 28 mins ago</span>
+				    <h5><a href="http://www.player.stokecityfc.com/latest-news/article/3214043" target="_blank" title="VIDEO: Hughes Can't Wait">VIDEO: Hughes Can't Wait</a></h5>
+				    <p>New manager excited for new season following release of fixtures...</p>
+				    <span class="duration">1 day ago</span>
                     
                 </div>
             </div>
@@ -1213,7 +1494,7 @@ _e_117p_0</td><td>Facebook cookies created when Facebook share or like links cli
                        <script src="/js/plugins/fli.newsArchive.js" type="text/javascript"></script>
 <script>
        var monthNames = ["January","February","March","April","May","June","July","August","September","October","November","December"];
-       var currentDate= "2012,12";
+       var currentDate= "2013,6";
 </script>
 <section id="news_archive" class="block col4">
   <div class="clearfix">
@@ -1233,7 +1514,10 @@ _e_117p_0</td><td>Facebook cookies created when Facebook share or like links cli
 
 
 			<section class="mpu">
-				<!-- Placement:Stoke City Home MPU 300x250 (2716567) --><div id="mf3775275" class="mfc529"><script type="text/javascript">if (typeof getHeliosTag =='function') getHeliosTag(3775275, 529);</script></div>
+				
+      
+          <script type="text/javascript">   document.MAX_ct0 ='INSERT_CLICK_MACRO';   var m3_u = (location.protocol=='https:'?'https://delivery.ads-creativesyndicator.com/adserver/www/delivery/ajs.php':'http://delivery.ads-creativesyndicator.com/adserver/www/delivery/ajs.php');   var m3_r = Math.floor(Math.random()*99999999999);   if (!document.MAX_used) document.MAX_used = ',';   document.write ("<scr"+"ipt type='text/javascript' src='"+m3_u);   document.write ("?zoneid=2893&amp;charset=UTF-8");   document.write ('&amp;cb=' + m3_r);   if (document.MAX_used != ',') document.write ("&amp;exclude=" + document.MAX_used);   document.write ('&amp;charset=UTF-8');   document.write ("&amp;loc=" + escape(window.location));   document.write ("&amp;tzo=" + (new Date().getTimezoneOffset()));   if (document.referrer) document.write ("&amp;referer=" + escape(document.referrer));   if (document.context) document.write ("&context=" + escape(document.context));   if ((typeof(document.MAX_ct0) != 'undefined') && (document.MAX_ct0.substring(0,4) == 'http')) {       document.write ("&amp;ct0=" + escape(document.MAX_ct0));   }   if (document.mmm_fo) document.write ("&amp;mmm_fo=1");   document.write ("'><\/scr"+"ipt>");</script><script type="text/javascript" src="https://delivery.ads-creativesyndicator.com/adserver/www/delivery/ajs.php?zoneid=2893&amp;charset=UTF-8&amp;cb=80441437654&amp;charset=UTF-8&amp;loc=https%3A//web.archive.org/web/20130620215016id_/http%253A//www.stokecityfc.com/global/privacy-policy.aspx&amp;tzo=0"></script><noscript><a href='http://delivery.ads-creativesyndicator.com/adserver/www/delivery/ck.php?n=ae84cc02&amp;cb=INSERT_RANDOM_NUMBER' target='_blank'><img src='http://delivery.ads-creativesyndicator.com/adserver/www/delivery/avw.php?zoneid=2893&amp;charset=UTF-8&amp;cb=INSERT_RANDOM_NUMBER&amp;n=ae84cc02&amp;ct0=INSERT_CLICK_MACRO' border='0' alt='' /></a></noscript>
+      
 
 			</section>
 	</aside>
@@ -1259,9 +1543,32 @@ _e_117p_0</td><td>Facebook cookies created when Facebook share or like links cli
 
 <script>
 
-   adloader.push({ "url": "/UserControls/IONOS/Ionos_High_Media.ascx","callback":"slots", "params": { "IsCPA": 'false', "HasTitle": 'False', "HasLink": 'False',"HasDescription": 'False',"HasLink": 'False', "hasLiTags": '',"IsFooter": 'True', "AdData": '130BF5EB-388F-4DA0-AAD5-3877FE8D58D4$$$pa_38$$$AlwayOn|AlwaysOn$$$15@Bottom Section', "SectionName": 'Footer', "ClubName": 'Stoke City' , "isCached" : '', "CacheKey": 'sponsors', "CombineAdRequest": 'False', "PoweredByText": '' , "PoweredInNextLine": 'False' }, "args": { "el": "#sponsors"} })
+
+   adloader.push({ "url": "/UserControls/IONOS/Ionos_High_Media.ascx","callback":"slots", 
+   "params": { 
+    "IsCPA": 'false', 
+    "HasTitle": 'False', 
+    "HasLink": 'False',
+    "HasDescription": 'False',
+    "HasLink": 'False',
+     "hasLiTags": '',
+     "IsFooter": 'True',
+      "AdData": '130BF5EB-388F-4DA0-AAD5-3877FE8D58D4$$$pa_38$$$AlwayOn|AlwaysOn$$$15@Bottom Section', 
+      "SectionName": 'Footer', 
+      "ClubName": 'Stoke City' ,
+       "isCached" : '',
+        "CacheKey": 'sponsors', "CombineAdRequest": 'False', 
+        "PoweredByText": '' , "PoweredInNextLine": 'False',
+         "IsNavigationAd" : 'False' 
+       }
+       
+,"args": { 
+            "el": "#sponsors"
+            ,"addata" : '130BF5EB-388F-4DA0-AAD5-3877FE8D58D4$$$pa_38$$$AlwayOn|AlwaysOn$$$15@Bottom Section'}
+        })
 
 </script>
+
 
 
 
@@ -1408,9 +1715,6 @@ _e_117p_0</td><td>Facebook cookies created when Facebook share or like links cli
         <a href="/tickets/saledates/" title="Ticket Sale Dates">Ticket Sale Dates</a>
       </li>
       <li>
-        <a href="/tickets/matchdayprices/" title="Matchday Prices">Matchday Prices</a>
-      </li>
-      <li>
         <a href="/tickets/seasontickets/" title="Season Ticket Prices">Season Ticket Prices</a>
       </li>
       <li>
@@ -1441,6 +1745,9 @@ _e_117p_0</td><td>Facebook cookies created when Facebook share or like links cli
       </li>
       <li>
         <a href="/team/academy/" title="The Academy">The Academy</a>
+      </li>
+      <li>
+        <a href="/team/ladies/" title="Ladies &amp; Girls CofE">Ladies &amp; Girls CofE</a>
       </li>
       <li>
         <a href="/team/transfers-signings/" title="Transfers &amp; Signings">Transfers &amp; Signings</a>
@@ -1523,7 +1830,7 @@ _e_117p_0</td><td>Facebook cookies created when Facebook share or like links cli
         <a href="/commercial/commercial/" title="Commercial News">Commercial News</a>
       </li>
       <li>
-        <a href="/commercial/hospitality/" title="Matchday Hospitality">Matchday Hospitality</a>
+        <a href="/commercial/hospitality/" title="Seasonal Hospitality">Seasonal Hospitality</a>
       </li>
       <li>
         <a href="/commercial/conferences/" title="Conferences">Conferences</a>
@@ -1570,216 +1877,768 @@ _e_117p_0</td><td>Facebook cookies created when Facebook share or like links cli
 
 <script>
 
-   adloader.push({ "url": "/UserControls/IONOS/Ionos_High_Media.ascx", "params": { "IsCPA": 'false', "HasTitle": 'True', "HasLink": 'True',"HasDescription": 'True',"HasLink": 'True', "hasLiTags": '',"IsFooter": 'False', "AdData": '6FB4737B-A44B-42E5-ACB2-A1176290A5DE$$$pa_38$$$AlwayOn|AlwaysOn$$$1@Club Cross Sell', "SectionName": 'News', "ClubName": 'Stoke City' , "isCached" : 'true', "CacheKey": 'navigation_club_cross_sell_1', "CombineAdRequest": 'True', "PoweredByText": '' , "PoweredInNextLine": 'False' }, "args": { "el": "#navigation_club_cross_sell_1"} })
+
+   adloader.push({ "url": "/UserControls/IONOS/Ionos_High_Media.ascx", 
+   "params": { 
+    "IsCPA": 'false', 
+    "HasTitle": 'True', 
+    "HasLink": 'True',
+    "HasDescription": 'True',
+    "HasLink": 'True',
+     "hasLiTags": '',
+     "IsFooter": 'False',
+      "AdData": '6FB4737B-A44B-42E5-ACB2-A1176290A5DE$$$pa_38$$$AlwayOn|AlwaysOn$$$1@Club Cross Sell', 
+      "SectionName": 'News', 
+      "ClubName": 'Stoke City' ,
+       "isCached" : 'true',
+        "CacheKey": 'navigation_club_cross_sell_1', "CombineAdRequest": 'True', 
+        "PoweredByText": '' , "PoweredInNextLine": 'False',
+         "IsNavigationAd" : 'True' 
+       }
+       , "callback" : "sendIonosOrderIds"
+,"args": { 
+            "el": "#navigation_club_cross_sell_1"
+            ,"addata" : '6FB4737B-A44B-42E5-ACB2-A1176290A5DE$$$pa_38$$$AlwayOn|AlwaysOn$$$1@Club Cross Sell'}
+        })
 
 </script>
+
 
 
 
 
 <script>
 
-   adloader.push({ "url": "/UserControls/IONOS/Ionos_High_Media.ascx", "params": { "IsCPA": 'false', "HasTitle": 'False', "HasLink": 'False',"HasDescription": 'True',"HasLink": 'False', "hasLiTags": '',"IsFooter": 'False', "AdData": '4FB712E3-6250-465C-A80E-249555B0CA59$$$pa_38$$$AlwayOn|AlwaysOn$$$1@Club Sponsor', "SectionName": 'News', "ClubName": 'Stoke City' , "isCached" : 'true', "CacheKey": 'navigation_club_sponsor_1', "CombineAdRequest": 'True', "PoweredByText": '' , "PoweredInNextLine": 'False' }, "args": { "el": "#navigation_club_sponsor_1"} })
+
+   adloader.push({ "url": "/UserControls/IONOS/Ionos_High_Media.ascx", 
+   "params": { 
+    "IsCPA": 'false', 
+    "HasTitle": 'False', 
+    "HasLink": 'False',
+    "HasDescription": 'True',
+    "HasLink": 'False',
+     "hasLiTags": '',
+     "IsFooter": 'False',
+      "AdData": '4FB712E3-6250-465C-A80E-249555B0CA59$$$pa_38$$$AlwayOn|AlwaysOn$$$1@Club Sponsor', 
+      "SectionName": 'News', 
+      "ClubName": 'Stoke City' ,
+       "isCached" : 'true',
+        "CacheKey": 'navigation_club_sponsor_1', "CombineAdRequest": 'True', 
+        "PoweredByText": '' , "PoweredInNextLine": 'False',
+         "IsNavigationAd" : 'True' 
+       }
+       , "callback" : "sendIonosOrderIds"
+,"args": { 
+            "el": "#navigation_club_sponsor_1"
+            ,"addata" : '4FB712E3-6250-465C-A80E-249555B0CA59$$$pa_38$$$AlwayOn|AlwaysOn$$$1@Club Sponsor'}
+        })
 
 </script>
+
 
 
 
 
 <script>
 
-   adloader.push({ "url": "/UserControls/IONOS/Ionos_High_Media.ascx", "params": { "IsCPA": 'false', "HasTitle": 'False', "HasLink": 'False',"HasDescription": 'False',"HasLink": 'False', "hasLiTags": '',"IsFooter": 'False', "AdData": 'A11FE8EF-CF13-4602-B2ED-0F50B16A4BFF$$$pa_38$$$AlwayOn|AlwaysOn$$$1@Section Sponsor', "SectionName": 'News', "ClubName": 'Stoke City' , "isCached" : 'true', "CacheKey": 'navigation_section_sponsor_1', "CombineAdRequest": 'True', "PoweredByText": 'Powered by' , "PoweredInNextLine": 'False' }, "args": { "el": "#navigation_section_sponsor_1"} })
+
+   adloader.push({ "url": "/UserControls/IONOS/Ionos_High_Media.ascx", 
+   "params": { 
+    "IsCPA": 'false', 
+    "HasTitle": 'False', 
+    "HasLink": 'False',
+    "HasDescription": 'False',
+    "HasLink": 'False',
+     "hasLiTags": '',
+     "IsFooter": 'False',
+      "AdData": 'A11FE8EF-CF13-4602-B2ED-0F50B16A4BFF$$$pa_38$$$AlwayOn|AlwaysOn$$$1@Section Sponsor', 
+      "SectionName": 'News', 
+      "ClubName": 'Stoke City' ,
+       "isCached" : 'true',
+        "CacheKey": 'navigation_section_sponsor_1', "CombineAdRequest": 'True', 
+        "PoweredByText": 'Powered by' , "PoweredInNextLine": 'False',
+         "IsNavigationAd" : 'True' 
+       }
+       , "callback" : "sendIonosOrderIds"
+,"args": { 
+            "el": "#navigation_section_sponsor_1"
+            ,"addata" : 'A11FE8EF-CF13-4602-B2ED-0F50B16A4BFF$$$pa_38$$$AlwayOn|AlwaysOn$$$1@Section Sponsor'}
+        })
 
 </script>
+
 
 
 
 
 <script>
 
-   adloader.push({ "url": "/UserControls/IONOS/Ionos_High_Media.ascx", "params": { "IsCPA": 'false', "HasTitle": 'True', "HasLink": 'True',"HasDescription": 'True',"HasLink": 'True', "hasLiTags": '',"IsFooter": 'False', "AdData": 'E0D6E542-ADD3-44D6-81EA-E33E5742EE8F$$$pa_38$$$AlwayOn|AlwaysOn$$$1@Club Cross Sell', "SectionName": 'Fixtures and Results', "ClubName": 'Stoke City' , "isCached" : 'true', "CacheKey": 'navigation_club_cross_sell_2', "CombineAdRequest": 'True', "PoweredByText": '' , "PoweredInNextLine": 'False' }, "args": { "el": "#navigation_club_cross_sell_2"} })
+
+   adloader.push({ "url": "/UserControls/IONOS/Ionos_High_Media.ascx", 
+   "params": { 
+    "IsCPA": 'false', 
+    "HasTitle": 'True', 
+    "HasLink": 'True',
+    "HasDescription": 'True',
+    "HasLink": 'True',
+     "hasLiTags": '',
+     "IsFooter": 'False',
+      "AdData": 'E0D6E542-ADD3-44D6-81EA-E33E5742EE8F$$$pa_38$$$AlwayOn|AlwaysOn$$$1@Club Cross Sell', 
+      "SectionName": 'Fixtures and Results', 
+      "ClubName": 'Stoke City' ,
+       "isCached" : 'true',
+        "CacheKey": 'navigation_club_cross_sell_2', "CombineAdRequest": 'True', 
+        "PoweredByText": '' , "PoweredInNextLine": 'False',
+         "IsNavigationAd" : 'True' 
+       }
+       , "callback" : "sendIonosOrderIds"
+,"args": { 
+            "el": "#navigation_club_cross_sell_2"
+            ,"addata" : 'E0D6E542-ADD3-44D6-81EA-E33E5742EE8F$$$pa_38$$$AlwayOn|AlwaysOn$$$1@Club Cross Sell'}
+        })
 
 </script>
+
 
 
 
 
 <script>
 
-   adloader.push({ "url": "/UserControls/IONOS/Ionos_High_Media.ascx", "params": { "IsCPA": 'false', "HasTitle": 'False', "HasLink": 'False',"HasDescription": 'True',"HasLink": 'False', "hasLiTags": '',"IsFooter": 'False', "AdData": '21AB8378-3BDA-44ED-A753-775F2B63ED6C$$$pa_38$$$AlwayOn|AlwaysOn$$$1@Club Sponsor', "SectionName": 'Fixtures and Results', "ClubName": 'Stoke City' , "isCached" : 'true', "CacheKey": 'navigation_club_sponsor_2', "CombineAdRequest": 'True', "PoweredByText": '' , "PoweredInNextLine": 'False' }, "args": { "el": "#navigation_club_sponsor_2"} })
+
+   adloader.push({ "url": "/UserControls/IONOS/Ionos_High_Media.ascx", 
+   "params": { 
+    "IsCPA": 'false', 
+    "HasTitle": 'False', 
+    "HasLink": 'False',
+    "HasDescription": 'True',
+    "HasLink": 'False',
+     "hasLiTags": '',
+     "IsFooter": 'False',
+      "AdData": '21AB8378-3BDA-44ED-A753-775F2B63ED6C$$$pa_38$$$AlwayOn|AlwaysOn$$$1@Club Sponsor', 
+      "SectionName": 'Fixtures and Results', 
+      "ClubName": 'Stoke City' ,
+       "isCached" : 'true',
+        "CacheKey": 'navigation_club_sponsor_2', "CombineAdRequest": 'True', 
+        "PoweredByText": '' , "PoweredInNextLine": 'False',
+         "IsNavigationAd" : 'True' 
+       }
+       , "callback" : "sendIonosOrderIds"
+,"args": { 
+            "el": "#navigation_club_sponsor_2"
+            ,"addata" : '21AB8378-3BDA-44ED-A753-775F2B63ED6C$$$pa_38$$$AlwayOn|AlwaysOn$$$1@Club Sponsor'}
+        })
 
 </script>
+
 
 
 
 
 <script>
 
-   adloader.push({ "url": "/UserControls/IONOS/Ionos_High_Media.ascx", "params": { "IsCPA": 'false', "HasTitle": 'False', "HasLink": 'False',"HasDescription": 'False',"HasLink": 'False', "hasLiTags": '',"IsFooter": 'False', "AdData": 'FE59E0E4-7375-4C81-92E3-CDF40BD29725$$$pa_38$$$AlwayOn|AlwaysOn$$$1@Section Sponsor', "SectionName": 'Fixtures and Results', "ClubName": 'Stoke City' , "isCached" : 'true', "CacheKey": 'navigation_section_sponsor_2', "CombineAdRequest": 'True', "PoweredByText": 'Powered by' , "PoweredInNextLine": 'False' }, "args": { "el": "#navigation_section_sponsor_2"} })
+
+   adloader.push({ "url": "/UserControls/IONOS/Ionos_High_Media.ascx", 
+   "params": { 
+    "IsCPA": 'false', 
+    "HasTitle": 'False', 
+    "HasLink": 'False',
+    "HasDescription": 'False',
+    "HasLink": 'False',
+     "hasLiTags": '',
+     "IsFooter": 'False',
+      "AdData": 'FE59E0E4-7375-4C81-92E3-CDF40BD29725$$$pa_38$$$AlwayOn|AlwaysOn$$$1@Section Sponsor', 
+      "SectionName": 'Fixtures and Results', 
+      "ClubName": 'Stoke City' ,
+       "isCached" : 'true',
+        "CacheKey": 'navigation_section_sponsor_2', "CombineAdRequest": 'True', 
+        "PoweredByText": 'Powered by' , "PoweredInNextLine": 'False',
+         "IsNavigationAd" : 'True' 
+       }
+       , "callback" : "sendIonosOrderIds"
+,"args": { 
+            "el": "#navigation_section_sponsor_2"
+            ,"addata" : 'FE59E0E4-7375-4C81-92E3-CDF40BD29725$$$pa_38$$$AlwayOn|AlwaysOn$$$1@Section Sponsor'}
+        })
 
 </script>
+
 
 
 
 
 <script>
 
-   adloader.push({ "url": "/UserControls/IONOS/Ionos_High_Media.ascx", "params": { "IsCPA": 'false', "HasTitle": 'True', "HasLink": 'True',"HasDescription": 'True',"HasLink": 'True', "hasLiTags": '',"IsFooter": 'False', "AdData": '0FD217CB-0879-42DD-ACF0-607F72FD72AA$$$pa_38$$$AlwayOn|AlwaysOn$$$1@Club Cross Sell', "SectionName": 'Tickets', "ClubName": 'Stoke City' , "isCached" : 'true', "CacheKey": 'navigation_club_cross_sell_3', "CombineAdRequest": 'True', "PoweredByText": '' , "PoweredInNextLine": 'False' }, "args": { "el": "#navigation_club_cross_sell_3"} })
+
+   adloader.push({ "url": "/UserControls/IONOS/Ionos_High_Media.ascx", 
+   "params": { 
+    "IsCPA": 'false', 
+    "HasTitle": 'True', 
+    "HasLink": 'True',
+    "HasDescription": 'True',
+    "HasLink": 'True',
+     "hasLiTags": '',
+     "IsFooter": 'False',
+      "AdData": '0FD217CB-0879-42DD-ACF0-607F72FD72AA$$$pa_38$$$AlwayOn|AlwaysOn$$$1@Club Cross Sell', 
+      "SectionName": 'Tickets', 
+      "ClubName": 'Stoke City' ,
+       "isCached" : 'true',
+        "CacheKey": 'navigation_club_cross_sell_3', "CombineAdRequest": 'True', 
+        "PoweredByText": '' , "PoweredInNextLine": 'False',
+         "IsNavigationAd" : 'True' 
+       }
+       , "callback" : "sendIonosOrderIds"
+,"args": { 
+            "el": "#navigation_club_cross_sell_3"
+            ,"addata" : '0FD217CB-0879-42DD-ACF0-607F72FD72AA$$$pa_38$$$AlwayOn|AlwaysOn$$$1@Club Cross Sell'}
+        })
 
 </script>
+
 
 
 
 
 <script>
 
-   adloader.push({ "url": "/UserControls/IONOS/Ionos_High_Media.ascx", "params": { "IsCPA": 'false', "HasTitle": 'False', "HasLink": 'False',"HasDescription": 'True',"HasLink": 'False', "hasLiTags": '',"IsFooter": 'False', "AdData": '7F69D4C0-1352-47CD-A034-EBFD6BD6D01D$$$pa_38$$$AlwayOn|AlwaysOn$$$1@Club Sponsor', "SectionName": 'Tickets', "ClubName": 'Stoke City' , "isCached" : 'true', "CacheKey": 'navigation_club_sponsor_3', "CombineAdRequest": 'True', "PoweredByText": '' , "PoweredInNextLine": 'False' }, "args": { "el": "#navigation_club_sponsor_3"} })
+
+   adloader.push({ "url": "/UserControls/IONOS/Ionos_High_Media.ascx", 
+   "params": { 
+    "IsCPA": 'false', 
+    "HasTitle": 'False', 
+    "HasLink": 'False',
+    "HasDescription": 'True',
+    "HasLink": 'False',
+     "hasLiTags": '',
+     "IsFooter": 'False',
+      "AdData": '7F69D4C0-1352-47CD-A034-EBFD6BD6D01D$$$pa_38$$$AlwayOn|AlwaysOn$$$1@Club Sponsor', 
+      "SectionName": 'Tickets', 
+      "ClubName": 'Stoke City' ,
+       "isCached" : 'true',
+        "CacheKey": 'navigation_club_sponsor_3', "CombineAdRequest": 'True', 
+        "PoweredByText": '' , "PoweredInNextLine": 'False',
+         "IsNavigationAd" : 'True' 
+       }
+       , "callback" : "sendIonosOrderIds"
+,"args": { 
+            "el": "#navigation_club_sponsor_3"
+            ,"addata" : '7F69D4C0-1352-47CD-A034-EBFD6BD6D01D$$$pa_38$$$AlwayOn|AlwaysOn$$$1@Club Sponsor'}
+        })
 
 </script>
+
 
 
 
 
 <script>
 
-   adloader.push({ "url": "/UserControls/IONOS/Ionos_High_Media.ascx", "params": { "IsCPA": 'false', "HasTitle": 'False', "HasLink": 'False',"HasDescription": 'False',"HasLink": 'False', "hasLiTags": '',"IsFooter": 'False', "AdData": 'A683711F-3C35-4B5A-A2E7-7FE3DC188317$$$pa_38$$$AlwayOn|AlwaysOn$$$1@Section Sponsor', "SectionName": 'Tickets', "ClubName": 'Stoke City' , "isCached" : 'true', "CacheKey": 'navigation_section_sponsor_3', "CombineAdRequest": 'True', "PoweredByText": 'Powered by' , "PoweredInNextLine": 'False' }, "args": { "el": "#navigation_section_sponsor_3"} })
+
+   adloader.push({ "url": "/UserControls/IONOS/Ionos_High_Media.ascx", 
+   "params": { 
+    "IsCPA": 'false', 
+    "HasTitle": 'False', 
+    "HasLink": 'False',
+    "HasDescription": 'False',
+    "HasLink": 'False',
+     "hasLiTags": '',
+     "IsFooter": 'False',
+      "AdData": 'A683711F-3C35-4B5A-A2E7-7FE3DC188317$$$pa_38$$$AlwayOn|AlwaysOn$$$1@Section Sponsor', 
+      "SectionName": 'Tickets', 
+      "ClubName": 'Stoke City' ,
+       "isCached" : 'true',
+        "CacheKey": 'navigation_section_sponsor_3', "CombineAdRequest": 'True', 
+        "PoweredByText": 'Powered by' , "PoweredInNextLine": 'False',
+         "IsNavigationAd" : 'True' 
+       }
+       , "callback" : "sendIonosOrderIds"
+,"args": { 
+            "el": "#navigation_section_sponsor_3"
+            ,"addata" : 'A683711F-3C35-4B5A-A2E7-7FE3DC188317$$$pa_38$$$AlwayOn|AlwaysOn$$$1@Section Sponsor'}
+        })
 
 </script>
+
 
 
 
 
 <script>
 
-   adloader.push({ "url": "/UserControls/IONOS/Ionos_High_Media.ascx", "params": { "IsCPA": 'false', "HasTitle": 'True', "HasLink": 'True',"HasDescription": 'True',"HasLink": 'True', "hasLiTags": '',"IsFooter": 'False', "AdData": 'D8ED3FCF-F7ED-4CB6-8699-54F6EED86FEF$$$pa_38$$$AlwayOn|AlwaysOn$$$1@Club Cross Sell', "SectionName": 'Team', "ClubName": 'Stoke City' , "isCached" : 'true', "CacheKey": 'navigation_club_cross_sell_4', "CombineAdRequest": 'True', "PoweredByText": '' , "PoweredInNextLine": 'False' }, "args": { "el": "#navigation_club_cross_sell_4"} })
+
+   adloader.push({ "url": "/UserControls/IONOS/Ionos_High_Media.ascx", 
+   "params": { 
+    "IsCPA": 'false', 
+    "HasTitle": 'True', 
+    "HasLink": 'True',
+    "HasDescription": 'True',
+    "HasLink": 'True',
+     "hasLiTags": '',
+     "IsFooter": 'False',
+      "AdData": 'D8ED3FCF-F7ED-4CB6-8699-54F6EED86FEF$$$pa_38$$$AlwayOn|AlwaysOn$$$1@Club Cross Sell', 
+      "SectionName": 'Team', 
+      "ClubName": 'Stoke City' ,
+       "isCached" : 'true',
+        "CacheKey": 'navigation_club_cross_sell_4', "CombineAdRequest": 'True', 
+        "PoweredByText": '' , "PoweredInNextLine": 'False',
+         "IsNavigationAd" : 'True' 
+       }
+       , "callback" : "sendIonosOrderIds"
+,"args": { 
+            "el": "#navigation_club_cross_sell_4"
+            ,"addata" : 'D8ED3FCF-F7ED-4CB6-8699-54F6EED86FEF$$$pa_38$$$AlwayOn|AlwaysOn$$$1@Club Cross Sell'}
+        })
 
 </script>
+
 
 
 
 
 <script>
 
-   adloader.push({ "url": "/UserControls/IONOS/Ionos_High_Media.ascx", "params": { "IsCPA": 'false', "HasTitle": 'False', "HasLink": 'False',"HasDescription": 'True',"HasLink": 'False', "hasLiTags": '',"IsFooter": 'False', "AdData": '6E4E25D2-417B-426E-B5EA-559BA21C7416 $$$pa_38$$$AlwayOn|AlwaysOn$$$1@Club Sponsor', "SectionName": 'Team', "ClubName": 'Stoke City' , "isCached" : 'true', "CacheKey": 'navigation_club_sponsor_4', "CombineAdRequest": 'True', "PoweredByText": '' , "PoweredInNextLine": 'False' }, "args": { "el": "#navigation_club_sponsor_4"} })
+
+   adloader.push({ "url": "/UserControls/IONOS/Ionos_High_Media.ascx", 
+   "params": { 
+    "IsCPA": 'false', 
+    "HasTitle": 'False', 
+    "HasLink": 'False',
+    "HasDescription": 'True',
+    "HasLink": 'False',
+     "hasLiTags": '',
+     "IsFooter": 'False',
+      "AdData": '6E4E25D2-417B-426E-B5EA-559BA21C7416 $$$pa_38$$$AlwayOn|AlwaysOn$$$1@Club Sponsor', 
+      "SectionName": 'Team', 
+      "ClubName": 'Stoke City' ,
+       "isCached" : 'true',
+        "CacheKey": 'navigation_club_sponsor_4', "CombineAdRequest": 'True', 
+        "PoweredByText": '' , "PoweredInNextLine": 'False',
+         "IsNavigationAd" : 'True' 
+       }
+       , "callback" : "sendIonosOrderIds"
+,"args": { 
+            "el": "#navigation_club_sponsor_4"
+            ,"addata" : '6E4E25D2-417B-426E-B5EA-559BA21C7416 $$$pa_38$$$AlwayOn|AlwaysOn$$$1@Club Sponsor'}
+        })
 
 </script>
+
 
 
 
 
 <script>
 
-   adloader.push({ "url": "/UserControls/IONOS/Ionos_High_Media.ascx", "params": { "IsCPA": 'false', "HasTitle": 'False', "HasLink": 'False',"HasDescription": 'False',"HasLink": 'False', "hasLiTags": '',"IsFooter": 'False', "AdData": '378EB57B-8B05-4E92-A5F6-BEC21FF5F157$$$pa_38$$$AlwayOn|AlwaysOn$$$1@Section Sponsor', "SectionName": 'Team', "ClubName": 'Stoke City' , "isCached" : 'true', "CacheKey": 'navigation_section_sponsor_4', "CombineAdRequest": 'True', "PoweredByText": 'Powered by' , "PoweredInNextLine": 'False' }, "args": { "el": "#navigation_section_sponsor_4"} })
+
+   adloader.push({ "url": "/UserControls/IONOS/Ionos_High_Media.ascx", 
+   "params": { 
+    "IsCPA": 'false', 
+    "HasTitle": 'False', 
+    "HasLink": 'False',
+    "HasDescription": 'False',
+    "HasLink": 'False',
+     "hasLiTags": '',
+     "IsFooter": 'False',
+      "AdData": '378EB57B-8B05-4E92-A5F6-BEC21FF5F157$$$pa_38$$$AlwayOn|AlwaysOn$$$1@Section Sponsor', 
+      "SectionName": 'Team', 
+      "ClubName": 'Stoke City' ,
+       "isCached" : 'true',
+        "CacheKey": 'navigation_section_sponsor_4', "CombineAdRequest": 'True', 
+        "PoweredByText": 'Powered by' , "PoweredInNextLine": 'False',
+         "IsNavigationAd" : 'True' 
+       }
+       , "callback" : "sendIonosOrderIds"
+,"args": { 
+            "el": "#navigation_section_sponsor_4"
+            ,"addata" : '378EB57B-8B05-4E92-A5F6-BEC21FF5F157$$$pa_38$$$AlwayOn|AlwaysOn$$$1@Section Sponsor'}
+        })
 
 </script>
+
 
 
 
 
 <script>
 
-   adloader.push({ "url": "/UserControls/IONOS/Ionos_High_Media.ascx", "params": { "IsCPA": 'false', "HasTitle": 'True', "HasLink": 'True',"HasDescription": 'True',"HasLink": 'True', "hasLiTags": '',"IsFooter": 'False', "AdData": '77F35B91-2E44-4A1E-8C9A-0D707ABC49D9$$$pa_38$$$AlwayOn|AlwaysOn$$$1@Club Cross Sell', "SectionName": 'Stats', "ClubName": 'Stoke City' , "isCached" : 'true', "CacheKey": 'navigation_club_cross_sell_5', "CombineAdRequest": 'True', "PoweredByText": '' , "PoweredInNextLine": 'False' }, "args": { "el": "#navigation_club_cross_sell_5"} })
+
+   adloader.push({ "url": "/UserControls/IONOS/Ionos_High_Media.ascx", 
+   "params": { 
+    "IsCPA": 'false', 
+    "HasTitle": 'True', 
+    "HasLink": 'True',
+    "HasDescription": 'True',
+    "HasLink": 'True',
+     "hasLiTags": '',
+     "IsFooter": 'False',
+      "AdData": '77F35B91-2E44-4A1E-8C9A-0D707ABC49D9$$$pa_38$$$AlwayOn|AlwaysOn$$$1@Club Cross Sell', 
+      "SectionName": 'Stats', 
+      "ClubName": 'Stoke City' ,
+       "isCached" : 'true',
+        "CacheKey": 'navigation_club_cross_sell_5', "CombineAdRequest": 'True', 
+        "PoweredByText": '' , "PoweredInNextLine": 'False',
+         "IsNavigationAd" : 'True' 
+       }
+       , "callback" : "sendIonosOrderIds"
+,"args": { 
+            "el": "#navigation_club_cross_sell_5"
+            ,"addata" : '77F35B91-2E44-4A1E-8C9A-0D707ABC49D9$$$pa_38$$$AlwayOn|AlwaysOn$$$1@Club Cross Sell'}
+        })
 
 </script>
+
 
 
 
 
 <script>
 
-   adloader.push({ "url": "/UserControls/IONOS/Ionos_High_Media.ascx", "params": { "IsCPA": 'false', "HasTitle": 'False', "HasLink": 'False',"HasDescription": 'True',"HasLink": 'False', "hasLiTags": '',"IsFooter": 'False', "AdData": '8AD97504-7671-4766-A72C-7A84566C62E7$$$pa_38$$$AlwayOn|AlwaysOn$$$1@Club Sponsor', "SectionName": 'Stats', "ClubName": 'Stoke City' , "isCached" : 'true', "CacheKey": 'navigation_club_sponsor_5', "CombineAdRequest": 'True', "PoweredByText": '' , "PoweredInNextLine": 'False' }, "args": { "el": "#navigation_club_sponsor_5"} })
+
+   adloader.push({ "url": "/UserControls/IONOS/Ionos_High_Media.ascx", 
+   "params": { 
+    "IsCPA": 'false', 
+    "HasTitle": 'False', 
+    "HasLink": 'False',
+    "HasDescription": 'True',
+    "HasLink": 'False',
+     "hasLiTags": '',
+     "IsFooter": 'False',
+      "AdData": '8AD97504-7671-4766-A72C-7A84566C62E7$$$pa_38$$$AlwayOn|AlwaysOn$$$1@Club Sponsor', 
+      "SectionName": 'Stats', 
+      "ClubName": 'Stoke City' ,
+       "isCached" : 'true',
+        "CacheKey": 'navigation_club_sponsor_5', "CombineAdRequest": 'True', 
+        "PoweredByText": '' , "PoweredInNextLine": 'False',
+         "IsNavigationAd" : 'True' 
+       }
+       , "callback" : "sendIonosOrderIds"
+,"args": { 
+            "el": "#navigation_club_sponsor_5"
+            ,"addata" : '8AD97504-7671-4766-A72C-7A84566C62E7$$$pa_38$$$AlwayOn|AlwaysOn$$$1@Club Sponsor'}
+        })
 
 </script>
+
 
 
 
 
 <script>
 
-   adloader.push({ "url": "/UserControls/IONOS/Ionos_High_Media.ascx", "params": { "IsCPA": 'false', "HasTitle": 'False', "HasLink": 'False',"HasDescription": 'False',"HasLink": 'False', "hasLiTags": '',"IsFooter": 'False', "AdData": '513D7C29-C1BA-4E12-A2B4-AD7C552A0369$$$pa_38$$$AlwayOn|AlwaysOn$$$1@Section Sponsor', "SectionName": 'Stats', "ClubName": 'Stoke City' , "isCached" : 'true', "CacheKey": 'navigation_section_sponsor_5', "CombineAdRequest": 'True', "PoweredByText": 'Powered by' , "PoweredInNextLine": 'False' }, "args": { "el": "#navigation_section_sponsor_5"} })
+
+   adloader.push({ "url": "/UserControls/IONOS/Ionos_High_Media.ascx", 
+   "params": { 
+    "IsCPA": 'false', 
+    "HasTitle": 'False', 
+    "HasLink": 'False',
+    "HasDescription": 'False',
+    "HasLink": 'False',
+     "hasLiTags": '',
+     "IsFooter": 'False',
+      "AdData": '513D7C29-C1BA-4E12-A2B4-AD7C552A0369$$$pa_38$$$AlwayOn|AlwaysOn$$$1@Section Sponsor', 
+      "SectionName": 'Stats', 
+      "ClubName": 'Stoke City' ,
+       "isCached" : 'true',
+        "CacheKey": 'navigation_section_sponsor_5', "CombineAdRequest": 'True', 
+        "PoweredByText": 'Powered by' , "PoweredInNextLine": 'False',
+         "IsNavigationAd" : 'True' 
+       }
+       , "callback" : "sendIonosOrderIds"
+,"args": { 
+            "el": "#navigation_section_sponsor_5"
+            ,"addata" : '513D7C29-C1BA-4E12-A2B4-AD7C552A0369$$$pa_38$$$AlwayOn|AlwaysOn$$$1@Section Sponsor'}
+        })
 
 </script>
+
 
 
 
 
 <script>
 
-   adloader.push({ "url": "/UserControls/IONOS/Ionos_High_Media.ascx", "params": { "IsCPA": 'false', "HasTitle": 'True', "HasLink": 'True',"HasDescription": 'True',"HasLink": 'True', "hasLiTags": '',"IsFooter": 'False', "AdData": 'C302E674-D2E6-42B4-BEBF-8B7C4FA4FC31$$$pa_38$$$AlwayOn|AlwaysOn$$$1@Club Cross Sell', "SectionName": 'Fans', "ClubName": 'Stoke City' , "isCached" : 'true', "CacheKey": 'navigation_club_cross_sell_6', "CombineAdRequest": 'True', "PoweredByText": '' , "PoweredInNextLine": 'False' }, "args": { "el": "#navigation_club_cross_sell_6"} })
+
+   adloader.push({ "url": "/UserControls/IONOS/Ionos_High_Media.ascx", 
+   "params": { 
+    "IsCPA": 'false', 
+    "HasTitle": 'True', 
+    "HasLink": 'True',
+    "HasDescription": 'True',
+    "HasLink": 'True',
+     "hasLiTags": '',
+     "IsFooter": 'False',
+      "AdData": 'C302E674-D2E6-42B4-BEBF-8B7C4FA4FC31$$$pa_38$$$AlwayOn|AlwaysOn$$$1@Club Cross Sell', 
+      "SectionName": 'Fans', 
+      "ClubName": 'Stoke City' ,
+       "isCached" : 'true',
+        "CacheKey": 'navigation_club_cross_sell_6', "CombineAdRequest": 'True', 
+        "PoweredByText": '' , "PoweredInNextLine": 'False',
+         "IsNavigationAd" : 'True' 
+       }
+       , "callback" : "sendIonosOrderIds"
+,"args": { 
+            "el": "#navigation_club_cross_sell_6"
+            ,"addata" : 'C302E674-D2E6-42B4-BEBF-8B7C4FA4FC31$$$pa_38$$$AlwayOn|AlwaysOn$$$1@Club Cross Sell'}
+        })
 
 </script>
+
 
 
 
 
 <script>
 
-   adloader.push({ "url": "/UserControls/IONOS/Ionos_High_Media.ascx", "params": { "IsCPA": 'false', "HasTitle": 'False', "HasLink": 'False',"HasDescription": 'True',"HasLink": 'False', "hasLiTags": '',"IsFooter": 'False', "AdData": 'E8D5BD40-33D0-4B0C-8FAC-BDC0DF4889E6$$$pa_38$$$AlwayOn|AlwaysOn$$$1@Club Sponsor', "SectionName": 'Fans', "ClubName": 'Stoke City' , "isCached" : 'true', "CacheKey": 'navigation_club_sponsor_6', "CombineAdRequest": 'True', "PoweredByText": '' , "PoweredInNextLine": 'False' }, "args": { "el": "#navigation_club_sponsor_6"} })
+
+   adloader.push({ "url": "/UserControls/IONOS/Ionos_High_Media.ascx", 
+   "params": { 
+    "IsCPA": 'false', 
+    "HasTitle": 'False', 
+    "HasLink": 'False',
+    "HasDescription": 'True',
+    "HasLink": 'False',
+     "hasLiTags": '',
+     "IsFooter": 'False',
+      "AdData": 'E8D5BD40-33D0-4B0C-8FAC-BDC0DF4889E6$$$pa_38$$$AlwayOn|AlwaysOn$$$1@Club Sponsor', 
+      "SectionName": 'Fans', 
+      "ClubName": 'Stoke City' ,
+       "isCached" : 'true',
+        "CacheKey": 'navigation_club_sponsor_6', "CombineAdRequest": 'True', 
+        "PoweredByText": '' , "PoweredInNextLine": 'False',
+         "IsNavigationAd" : 'True' 
+       }
+       , "callback" : "sendIonosOrderIds"
+,"args": { 
+            "el": "#navigation_club_sponsor_6"
+            ,"addata" : 'E8D5BD40-33D0-4B0C-8FAC-BDC0DF4889E6$$$pa_38$$$AlwayOn|AlwaysOn$$$1@Club Sponsor'}
+        })
 
 </script>
+
 
 
 
 
 <script>
 
-   adloader.push({ "url": "/UserControls/IONOS/Ionos_High_Media.ascx", "params": { "IsCPA": 'false', "HasTitle": 'False', "HasLink": 'False',"HasDescription": 'False',"HasLink": 'False', "hasLiTags": '',"IsFooter": 'False', "AdData": '0BCF957E-D498-44A3-91BC-B22E6AB766BF$$$pa_38$$$AlwayOn|AlwaysOn$$$1@Section Sponsor', "SectionName": 'Fans', "ClubName": 'Stoke City' , "isCached" : 'true', "CacheKey": 'navigation_section_sponsor_6', "CombineAdRequest": 'True', "PoweredByText": 'Powered by' , "PoweredInNextLine": 'False' }, "args": { "el": "#navigation_section_sponsor_6"} })
+
+   adloader.push({ "url": "/UserControls/IONOS/Ionos_High_Media.ascx", 
+   "params": { 
+    "IsCPA": 'false', 
+    "HasTitle": 'False', 
+    "HasLink": 'False',
+    "HasDescription": 'False',
+    "HasLink": 'False',
+     "hasLiTags": '',
+     "IsFooter": 'False',
+      "AdData": '0BCF957E-D498-44A3-91BC-B22E6AB766BF$$$pa_38$$$AlwayOn|AlwaysOn$$$1@Section Sponsor', 
+      "SectionName": 'Fans', 
+      "ClubName": 'Stoke City' ,
+       "isCached" : 'true',
+        "CacheKey": 'navigation_section_sponsor_6', "CombineAdRequest": 'True', 
+        "PoweredByText": 'Powered by' , "PoweredInNextLine": 'False',
+         "IsNavigationAd" : 'True' 
+       }
+       , "callback" : "sendIonosOrderIds"
+,"args": { 
+            "el": "#navigation_section_sponsor_6"
+            ,"addata" : '0BCF957E-D498-44A3-91BC-B22E6AB766BF$$$pa_38$$$AlwayOn|AlwaysOn$$$1@Section Sponsor'}
+        })
 
 </script>
+
 
 
 
 
 <script>
 
-   adloader.push({ "url": "/UserControls/IONOS/Ionos_High_Media.ascx", "params": { "IsCPA": 'false', "HasTitle": 'True', "HasLink": 'True',"HasDescription": 'True',"HasLink": 'True', "hasLiTags": '',"IsFooter": 'False', "AdData": 'F1433FDA-FB03-4C54-AA99-71E46B378539$$$pa_38$$$AlwayOn|AlwaysOn$$$1@Club Cross Sell', "SectionName": 'Club', "ClubName": 'Stoke City' , "isCached" : 'true', "CacheKey": 'navigation_club_cross_sell_7', "CombineAdRequest": 'True', "PoweredByText": '' , "PoweredInNextLine": 'False' }, "args": { "el": "#navigation_club_cross_sell_7"} })
+
+   adloader.push({ "url": "/UserControls/IONOS/Ionos_High_Media.ascx", 
+   "params": { 
+    "IsCPA": 'false', 
+    "HasTitle": 'True', 
+    "HasLink": 'True',
+    "HasDescription": 'True',
+    "HasLink": 'True',
+     "hasLiTags": '',
+     "IsFooter": 'False',
+      "AdData": 'F1433FDA-FB03-4C54-AA99-71E46B378539$$$pa_38$$$AlwayOn|AlwaysOn$$$1@Club Cross Sell', 
+      "SectionName": 'Club', 
+      "ClubName": 'Stoke City' ,
+       "isCached" : 'true',
+        "CacheKey": 'navigation_club_cross_sell_7', "CombineAdRequest": 'True', 
+        "PoweredByText": '' , "PoweredInNextLine": 'False',
+         "IsNavigationAd" : 'True' 
+       }
+       , "callback" : "sendIonosOrderIds"
+,"args": { 
+            "el": "#navigation_club_cross_sell_7"
+            ,"addata" : 'F1433FDA-FB03-4C54-AA99-71E46B378539$$$pa_38$$$AlwayOn|AlwaysOn$$$1@Club Cross Sell'}
+        })
 
 </script>
+
 
 
 
 
 <script>
 
-   adloader.push({ "url": "/UserControls/IONOS/Ionos_High_Media.ascx", "params": { "IsCPA": 'false', "HasTitle": 'False', "HasLink": 'False',"HasDescription": 'True',"HasLink": 'False', "hasLiTags": '',"IsFooter": 'False', "AdData": '8CC59DFE-5261-4313-B76D-70B16ED27D66$$$pa_38$$$AlwayOn|AlwaysOn$$$1@Club Sponsor', "SectionName": 'Club', "ClubName": 'Stoke City' , "isCached" : 'true', "CacheKey": 'navigation_club_sponsor_7', "CombineAdRequest": 'True', "PoweredByText": '' , "PoweredInNextLine": 'False' }, "args": { "el": "#navigation_club_sponsor_7"} })
+
+   adloader.push({ "url": "/UserControls/IONOS/Ionos_High_Media.ascx", 
+   "params": { 
+    "IsCPA": 'false', 
+    "HasTitle": 'False', 
+    "HasLink": 'False',
+    "HasDescription": 'True',
+    "HasLink": 'False',
+     "hasLiTags": '',
+     "IsFooter": 'False',
+      "AdData": '8CC59DFE-5261-4313-B76D-70B16ED27D66$$$pa_38$$$AlwayOn|AlwaysOn$$$1@Club Sponsor', 
+      "SectionName": 'Club', 
+      "ClubName": 'Stoke City' ,
+       "isCached" : 'true',
+        "CacheKey": 'navigation_club_sponsor_7', "CombineAdRequest": 'True', 
+        "PoweredByText": '' , "PoweredInNextLine": 'False',
+         "IsNavigationAd" : 'True' 
+       }
+       , "callback" : "sendIonosOrderIds"
+,"args": { 
+            "el": "#navigation_club_sponsor_7"
+            ,"addata" : '8CC59DFE-5261-4313-B76D-70B16ED27D66$$$pa_38$$$AlwayOn|AlwaysOn$$$1@Club Sponsor'}
+        })
 
 </script>
+
 
 
 
 
 <script>
 
-   adloader.push({ "url": "/UserControls/IONOS/Ionos_High_Media.ascx", "params": { "IsCPA": 'false', "HasTitle": 'False', "HasLink": 'False',"HasDescription": 'False',"HasLink": 'False', "hasLiTags": '',"IsFooter": 'False', "AdData": '11D1BC5F-AD4A-4B7D-BC61-9B2408701214$$$pa_38$$$AlwayOn|AlwaysOn$$$1@Section Sponsor', "SectionName": 'Club', "ClubName": 'Stoke City' , "isCached" : 'true', "CacheKey": 'navigation_section_sponsor_7', "CombineAdRequest": 'True', "PoweredByText": 'Powered by' , "PoweredInNextLine": 'False' }, "args": { "el": "#navigation_section_sponsor_7"} })
+
+   adloader.push({ "url": "/UserControls/IONOS/Ionos_High_Media.ascx", 
+   "params": { 
+    "IsCPA": 'false', 
+    "HasTitle": 'False', 
+    "HasLink": 'False',
+    "HasDescription": 'False',
+    "HasLink": 'False',
+     "hasLiTags": '',
+     "IsFooter": 'False',
+      "AdData": '11D1BC5F-AD4A-4B7D-BC61-9B2408701214$$$pa_38$$$AlwayOn|AlwaysOn$$$1@Section Sponsor', 
+      "SectionName": 'Club', 
+      "ClubName": 'Stoke City' ,
+       "isCached" : 'true',
+        "CacheKey": 'navigation_section_sponsor_7', "CombineAdRequest": 'True', 
+        "PoweredByText": 'Powered by' , "PoweredInNextLine": 'False',
+         "IsNavigationAd" : 'True' 
+       }
+       , "callback" : "sendIonosOrderIds"
+,"args": { 
+            "el": "#navigation_section_sponsor_7"
+            ,"addata" : '11D1BC5F-AD4A-4B7D-BC61-9B2408701214$$$pa_38$$$AlwayOn|AlwaysOn$$$1@Section Sponsor'}
+        })
 
 </script>
+
 
 
 
 
 <script>
 
-   adloader.push({ "url": "/UserControls/IONOS/Ionos_High_Media.ascx", "params": { "IsCPA": 'false', "HasTitle": 'True', "HasLink": 'True',"HasDescription": 'True',"HasLink": 'True', "hasLiTags": '',"IsFooter": 'False', "AdData": '0E863C0A-7D98-43F4-AACB-786F2056D75E$$$pa_38$$$AlwayOn|AlwaysOn$$$1@Club Cross Sell', "SectionName": 'Commercial', "ClubName": 'Stoke City' , "isCached" : 'true', "CacheKey": 'navigation_club_cross_sell_8', "CombineAdRequest": 'True', "PoweredByText": '' , "PoweredInNextLine": 'False' }, "args": { "el": "#navigation_club_cross_sell_8"} })
+
+   adloader.push({ "url": "/UserControls/IONOS/Ionos_High_Media.ascx", 
+   "params": { 
+    "IsCPA": 'false', 
+    "HasTitle": 'True', 
+    "HasLink": 'True',
+    "HasDescription": 'True',
+    "HasLink": 'True',
+     "hasLiTags": '',
+     "IsFooter": 'False',
+      "AdData": '0E863C0A-7D98-43F4-AACB-786F2056D75E$$$pa_38$$$AlwayOn|AlwaysOn$$$1@Club Cross Sell', 
+      "SectionName": 'Commercial', 
+      "ClubName": 'Stoke City' ,
+       "isCached" : 'true',
+        "CacheKey": 'navigation_club_cross_sell_8', "CombineAdRequest": 'True', 
+        "PoweredByText": '' , "PoweredInNextLine": 'False',
+         "IsNavigationAd" : 'True' 
+       }
+       , "callback" : "sendIonosOrderIds"
+,"args": { 
+            "el": "#navigation_club_cross_sell_8"
+            ,"addata" : '0E863C0A-7D98-43F4-AACB-786F2056D75E$$$pa_38$$$AlwayOn|AlwaysOn$$$1@Club Cross Sell'}
+        })
 
 </script>
+
 
 
 
 
 <script>
 
-   adloader.push({ "url": "/UserControls/IONOS/Ionos_High_Media.ascx", "params": { "IsCPA": 'false', "HasTitle": 'False', "HasLink": 'False',"HasDescription": 'True',"HasLink": 'False', "hasLiTags": '',"IsFooter": 'False', "AdData": 'FB1FDE18-9BEA-4878-86E6-0CC954213EE3$$$pa_38$$$AlwayOn|AlwaysOn$$$1@Club Sponsor', "SectionName": 'Commercial', "ClubName": 'Stoke City' , "isCached" : 'true', "CacheKey": 'navigation_club_sponsor_8', "CombineAdRequest": 'True', "PoweredByText": '' , "PoweredInNextLine": 'False' }, "args": { "el": "#navigation_club_sponsor_8"} })
+
+   adloader.push({ "url": "/UserControls/IONOS/Ionos_High_Media.ascx", 
+   "params": { 
+    "IsCPA": 'false', 
+    "HasTitle": 'False', 
+    "HasLink": 'False',
+    "HasDescription": 'True',
+    "HasLink": 'False',
+     "hasLiTags": '',
+     "IsFooter": 'False',
+      "AdData": 'FB1FDE18-9BEA-4878-86E6-0CC954213EE3$$$pa_38$$$AlwayOn|AlwaysOn$$$1@Club Sponsor', 
+      "SectionName": 'Commercial', 
+      "ClubName": 'Stoke City' ,
+       "isCached" : 'true',
+        "CacheKey": 'navigation_club_sponsor_8', "CombineAdRequest": 'True', 
+        "PoweredByText": '' , "PoweredInNextLine": 'False',
+         "IsNavigationAd" : 'True' 
+       }
+       , "callback" : "sendIonosOrderIds"
+,"args": { 
+            "el": "#navigation_club_sponsor_8"
+            ,"addata" : 'FB1FDE18-9BEA-4878-86E6-0CC954213EE3$$$pa_38$$$AlwayOn|AlwaysOn$$$1@Club Sponsor'}
+        })
 
 </script>
+
 
 
 
 
 <script>
 
-   adloader.push({ "url": "/UserControls/IONOS/Ionos_High_Media.ascx", "params": { "IsCPA": 'false', "HasTitle": 'False', "HasLink": 'False',"HasDescription": 'False',"HasLink": 'False', "hasLiTags": '',"IsFooter": 'False', "AdData": '01C7A278-46B8-4AAF-A7DF-CC35656561A5$$$pa_38$$$AlwayOn|AlwaysOn$$$1@Section Sponsor', "SectionName": 'Commercial', "ClubName": 'Stoke City' , "isCached" : 'true', "CacheKey": 'navigation_section_sponsor_8', "CombineAdRequest": 'True', "PoweredByText": 'Powered by' , "PoweredInNextLine": 'False' }, "args": { "el": "#navigation_section_sponsor_8"} })
+
+   adloader.push({ "url": "/UserControls/IONOS/Ionos_High_Media.ascx", 
+   "params": { 
+    "IsCPA": 'false', 
+    "HasTitle": 'False', 
+    "HasLink": 'False',
+    "HasDescription": 'False',
+    "HasLink": 'False',
+     "hasLiTags": '',
+     "IsFooter": 'False',
+      "AdData": '01C7A278-46B8-4AAF-A7DF-CC35656561A5$$$pa_38$$$AlwayOn|AlwaysOn$$$1@Section Sponsor', 
+      "SectionName": 'Commercial', 
+      "ClubName": 'Stoke City' ,
+       "isCached" : 'true',
+        "CacheKey": 'navigation_section_sponsor_8', "CombineAdRequest": 'True', 
+        "PoweredByText": 'Powered by' , "PoweredInNextLine": 'False',
+         "IsNavigationAd" : 'True' 
+       }
+       , "callback" : "sendIonosOrderIds"
+,"args": { 
+            "el": "#navigation_section_sponsor_8"
+            ,"addata" : '01C7A278-46B8-4AAF-A7DF-CC35656561A5$$$pa_38$$$AlwayOn|AlwaysOn$$$1@Section Sponsor'}
+        })
 
 </script>
+
 
 
 
@@ -1799,7 +2658,7 @@ _e_117p_0</td><td>Facebook cookies created when Facebook share or like links cli
 <span id="PieChartLossColour"></span>
 <span id="PieChartDrawColour"></span>
 
- <script type="text/javascript" src="/js/combinedbottom_462BED21395BE7C2BA1C3DCA8E5502F7.js"></script>
+ <script type="text/javascript" src="/combinedjs/combinedbottom_F5E81AD61145CC110C3AA7A489C0EF48.js"></script>
 
 
 <!--[if lt IE 9]>
@@ -1811,16 +2670,17 @@ _e_117p_0</td><td>Facebook cookies created when Facebook share or like links cli
 
 
 <script>
-var bodyTag = document.getElementsByTagName("body")[0];
-bodyTag.setAttribute("style",$("[id$=_hdnBackgroundImage]").val());
 
 	var rollUpAccount = "UA-29399239-1";
-	var clubAccount = "UA-29374317-1";
+	var clubAccount = "UA-29374317-1";	
 	$(document).ready(function(){
+		var bodyTag = $("body");
+		var bodyImage = $("[id$=_hdnBackgroundImage]").val();
+		bodyTag.attr("style", bodyImage);
 		fli.init(loader,adloader);
 		var domainNameForGA = 'www.stokecityfc.com';        
 		gaTracking(domainNameForGA, rollUpAccount, clubAccount);
-       onkeyPressMethod();
+		onkeyPressMethod();
 	});
 
     function EventTracking(category, action, opt_label){		
@@ -1831,6 +2691,7 @@ bodyTag.setAttribute("style",$("[id$=_hdnBackgroundImage]").val());
 		gatrackevent(category, action, opt_label , rollUpAccount, clubAccount) ;
 	}
 
+	
 	$(document).ready(function(){
 		window.twttr = (function (d,s,id) {			
 			var t, js, fjs = d.getElementsByTagName(s)[0];
@@ -1866,7 +2727,19 @@ bodyTag.setAttribute("style",$("[id$=_hdnBackgroundImage]").val());
 			_ga.trackFacebook();
 	});
 </script>
-
+<script language="javascript" type="text/javascript">
+var orderIds = "";
+		  $("input[id^=" + "objOrders_" + "]").each(
+		  function(){
+			if($(this).val().length >0)
+				{ orderIds+= $(this).val() +",";}
+		  });
+		  
+		  if(!(orderIds == null || orderIds == undefined || orderIds.length <= 1))
+			{ orderIds =orderIds.substring(0,orderIds.length-1);
+				SendOrderIds(orderIds);
+			}
+</script>
 
 
 </form>
