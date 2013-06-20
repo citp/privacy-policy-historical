@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the phoenix.edu privacy policy that was archived on 2012-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121014132412id_/http%3A//www.phoenix.edu/copyright-legal/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the phoenix.edu privacy policy that was archived on 2013-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130620142418id_/http%3A//www.phoenix.edu/copyright-legal/privacy_policy.html) for the most accurate reproduction.*
 
 # Privacy Policy - University of Phoenix
 
@@ -6,7 +6,7 @@
 
 ## PRIVACY POLICY – SUMMARY
 
-**Updated:  **August 15, 2012
+**Updated:** October 18, 2012
 
 Summarized below are key elements of our Privacy Policy. To read our full Privacy Policy ("Policy") [click here.](https://web.archive.org/copyright-legal/privacy_policy.html#full-version)  
 
@@ -95,7 +95,7 @@ Phoenix, AZ 85040 USA
 
 ## PRIVACY POLICY – FULL VERSION
 
-**Updated:** August 15, 2012  
+**Updated:** October 18, 2012  
 
 
 **Scope**
@@ -131,7 +131,7 @@ Apollo may amend or otherwise modify this Privacy Policy at any time, so please 
 
 As used in this Privacy Policy, the following terms have the following meanings:
 
-"Business Associates" means third party service providers which Apollo Group, Inc. or the  University may contract with to provide services on our behalf including those related to the Sites or for transactions occurring on the Sites including, but not limited to, Social Networking, hosting, web analytics, Online Behavioral Advertising, lead generation, academic, business, career, or financial services.
+"Business Associates" means third party service providers which Apollo Group, Inc. or the  University may contract with to provide services on our behalf including but not limited to, Social Networking, hosting, web analytics, Online Behavioral Advertising, lead generation, academic, business, career, or financial services.
 
 "Educational Partners" means a.) Apollo Group, Inc., University of Phoenix, and their subsidiaries and affiliates including educational companies or institutions that Apollo Group, Inc. or its subsidiaries may be providing educational or other related services to under contract and b.) third party companies who may participate in Apollo Group, Inc. or University of Phoenix career initiatives (e.g. potential employers).  
 
