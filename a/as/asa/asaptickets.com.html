@@ -1,7 +1,13 @@
-<!--The following is the downloaded HTML source of the asaptickets.com privacy policy that was archived on 2012-12-26.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121226022502id_/http%3A//www.asaptickets.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the asaptickets.com privacy policy that was archived on 2013-06-20.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130620142338id_/http%3A//www.asaptickets.com/privacy) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" lang="en"><head>
+<!DOCTYPE html><html xmlns="http://www.w3.org/1999/xhtml" lang="en"><head>
+    <!--[if lt IE 9]> <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script><![endif]-->
+    <link href="http://fonts.googleapis.com/css?family=Open+Sans+Condensed:700" rel="stylesheet">
+    <link href="http://fonts.googleapis.com/css?family=Open+Sans:300" rel="stylesheet">
+    <meta name="google" content="notranslate">
+    <meta charset="utf-8">
+    <meta name="SKYPE_TOOLBAR" content="SKYPE_TOOLBAR_PARSER_COMPATIBLE">
         
     
 <title>Asaptickets.com Privacy Policy</title>
@@ -16,8 +22,7 @@
 <meta property="og:image" content="/logo.gif">
 
 
-	<meta name="SKYPE_TOOLBAR" content="SKYPE_TOOLBAR_PARSER_COMPATIBLE">
-	<link rel="image_src" type="image/png" href="http://www.asaptickets.com/img/asaptickets2/asap_logo_1.png">
+    <link rel="image_src" type="image/png" href="http://www.asaptickets.com/img/asaptickets2/asap_logo_1.png">
 	<link rel="SHORTCUT ICON" href="http://www.asaptickets.com/img/asaptickets2/favicon.ico">
         <link href="https://plus.google.com/101273188344270491600" rel="publisher">
 	<meta name="format-detection" content="telephone=no">
@@ -28,78 +33,81 @@
         <meta name="geo.region" content="US-CA">
         <meta name="ICBM" content="37.793099, -122.394806">
 	<base href="http://www.asaptickets.com/">
-        <link rel="canonical" href="http://www.asaptickets.com/privacy">
         
-	<script type="text/javascript" async="" src="https://apis.google.com/js/plusone.js"></script><script language="JavaScript" type="text/javascript">/*<![CDATA[*/
-		var isMobile = false;
+    <script type="text/javascript" async="" src="https://mc.yandex.ru/metrika/watch.js"></script><script type="text/javascript" async="" src="https://apis.google.com/js/plusone.js"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script>
+        var discountId = '';
+    	var isMobile = false;
 		window.flightClass = "economic";
 		var showReturnCalendar = true;
-		var selected_date = 25;
-		var phone = "(888) 585-2727";
+		var selected_date = 20;
+		var phone = "888-585-2727";
 		var wwwFullDir = "http://www.asaptickets.com/";
 		var baseClassUrl = "http://www.asaptickets.com/";
-            window.serverToday = new Date(2012, 11, 25, 23, 59, 59);
-	/*]]>*/</script>
+        window.serverToday = new Date(2013, 5, 20, 23, 59, 59);
+        var isResultPage = false;
+	</script>
 
 	
-<link rel="stylesheet" type="text/css" href="http://www.asaptickets.com/combo/tempcssCXGwIBN.1356079367.css">
+
+<link rel="stylesheet" type="text/css" href="http://www.asaptickets.com/combo/tempcssAABvSyG.1371736341.css">
         
 	<!--[if lte IE 7]><link rel="StyleSheet" href="http://www.asaptickets.com/templatesCsss?id=161" type="text/css" /><![endif]-->
 	
 	
-<link rel="stylesheet" type="text/css" href="http://www.asaptickets.com/combo/stylesCAWXERQ.1355411077.css">
-<script type="text/javascript" src="http://www.asaptickets.com/combo/scriptsCAWXERQ.1355411077.js"></script>
+<script type="text/javascript" src="http://www.asaptickets.com/combo/scriptsEIAJHFY.1371731480.js"></script>
         
 	<script>
-		_travel.dom.addLoadEvent(function() {
-                
-                validator.init();
-                    
-                if ($('#originalRibbon').length > 0) {
-                        var ribbonOffset = $('#originalRibbon').offset().top;
-                        var ribbonClone = $('#originalRibbon').clone();
-                        ribbonClone.attr('id', 'fakeRibbon');
-                        ribbonClone.hide();
-                        ribbonClone.addClass('callUsRibbon__pinned');
-                        ribbonClone.find('#referal_id').attr('id', 'referal_id4');
-                        ribbonClone.appendTo('.container');
-                        if ($(window).scrollTop() > ribbonOffset) {
-                            ribbonClone.show();
-                        }
-                        $(window).scroll(function(event) {
-                            var scrollTop = $(window).scrollTop();
-                            if (scrollTop > ribbonOffset) {
-                                ribbonClone.show();
-                            } else if (scrollTop <= ribbonOffset) {
-                                ribbonClone.hide();
-                            }
-                        });
+        $(document).ready(function(){
+             // js old validation class
+             validator.init();
+            // header shadow
+            if ($('.js-header-shadow').css('position') == 'fixed')
+            {
+                $(window).on('scroll', function(){
+                    if ($(window).scrollTop() > 0) 
+                    {
+                        $('.js-header-shadow').addClass('h-shadow');
                     }
-                    
-                                    _travel.ajax.postToContainer(wwwFullDir + 'main/discountId/controller/displayId', null, 'referal_id,referal_id2,referal_id3,referal_id4,referal_id5');
-                
-	});
-		
+                    else
+                    {
+                        $('.js-header-shadow').removeClass('h-shadow');
+                    }
+                })
+            }
+            // discount id init
+            $.post(wwwFullDir + 'main/discountId/controller/displayId', null, function(rsp){
+                $('.referal').text(rsp);
+                $('[id^="referal_id"]').text(rsp);
+                discountId = rsp.replace( /-/g, '');
+            });
+        })
 	</script>
-
+    
 	<script async="true" type="text/javascript" src="https://s.adroll.com/j/roundtrip.js"></script></head>
 	
-
-	<body class="yui-skin-sam economic">
-            <script language="Javascript">
-                $(function(){
-                    mainPagePopUp
-                        .setForm('.feedback-popup')
-                        .setMask('.popupMask:first')
-                        .setFeedback('.feedback-txt')
-                        .setFormThx('.feedback-thx-msg')
-                        .setWobble('.feedback-lnk', 60000);
-                })
-            </script>
-            
+<body>
+    <section class="popup popup-why-use-an-agent popup-day" id="why-use-an-agent-container">
+  <span class="icon icon-x popup-close" onclick="homePopup.fadeOut();"></span>
+  <img src="http://www.asaptickets.com/image?id=202806" class="ajax-loading js-ajax-loading-image">
+  <section class="hidden js-ajax-home-popup-container">
+  
+  </section>
+</section>
+  
+    
 <script type="text/javascript">
 
 $(document).ready(function() {
+    var template = _travel.template.create(433);
+    template
+        .setContainer('.js-callback-popup-container')
+        .setOnLoadCallback(function(){
+            this.disableLoadingImage();
+        })
+        .setOnReadyCallback(function(){
+            this.container.fadeIn();
+        });
+        
     var callback = new Dialog();
     callback.setContainer('#callBackDialog', 392, 500, 9998).
     setOverlay({}, true);
@@ -108,15 +116,25 @@ $(document).ready(function() {
     for (var i = 2; i <= 13; i++) {
         controlShowArr.push('#openCallBack' + i);
     }
-    callback.addControlShowArray(controlShowArr).
+    callback.addControlShowArray(controlShowArr, 'click', 'fadeIn', 400, function(){
+       template.load();
+    }).
     addControlHideArray([
         '#close',
         '#close2'
     ]);
 });
+
+var callBackBtnClicked = false;
 function sendCallBackRequest()
 {
-	var name = _travel.dom.get('cb_name').value;
+    if (callBackBtnClicked) {
+    	return;
+	}
+	callBackBtnClicked = true;
+
+    var locationStr = window.location.hostname + window.location.pathname + window.location.search;
+    var name = _travel.dom.get('cb_name').value;
 	var email = _travel.dom.get('cb_mail').value;
 	var phone = _travel.dom.get('cb_phone').value;
 	var message = _travel.dom.get('cb_message').value;
@@ -134,8 +152,8 @@ function sendCallBackRequest()
 	if (name == '') {
 		errors += "Type in your name\n";
 	}
-	if (phone == '' && contactType == 'phone') {
-		errors += "Type in your phone\n";
+    if ((contactType == 'phone' && phone == '') || (phone != '' && !_travel.validation.phone(phone))) {
+		errors += "Invalid phone\n";
 	}
 	if ((contactType == 'email' || contactType == 'any') && !_travel.validation.email(email)) {
 		errors += "Invalid email\n";
@@ -145,166 +163,193 @@ function sendCallBackRequest()
 	}
 	
 	if (errors.length != 0) {
+		callBackBtnClicked = false;
 		alert(errors);
 		return;
 	}
 	
+            pixel.leaveARequest();
+        var workTime = 'd';
+    
 	ajax_do('http://tracking.admarketplace.net/tracking?pid=2864&fc=1&cid=2810&eventid=0&orderval=0.00&v=2&orderid=&custominfo=');
-	ajax_do(wwwFullDir + 'main/common/callBack/controller/send?name=' + name + '&mail=' + email + '&phone=' + phone + '&message=' + message + '&howtocontact=' + contactType + '&subject=' + '' + '&location=' + window.location);
-	
 
-	$('#notifSent').fadeIn('1000');
+	$.ajax({
+	  type: "POST",
+	  url: wwwFullDir + "app/asaptickets/form/request",
+	  data: { meth: 'callback', name: name, mail: email, phone: phone, message: message, howtocontact: contactType, workTime: workTime, location: locationStr}
+	}).done(function( msg ) {
+	  if (msg == 'ok') {
+		$('#notifSent').fadeIn('1000');
+	  } else {
+		  alert('Error occurred. Please try later.');
+		  callBackBtnClicked = false;
+	  }
+	});
 }
 
 </script>
 
-<div id="callBackDialog" style="display:none">
-    <img src="http://www.asaptickets.com/image?id=198932" id="close2" alt="Close">
+<div class="hidden" id="callBackDialog">
+    <img src="http://www.asaptickets.com/image?id=198932" class="closeImage" id="close2" alt="Close">
     <h2>
             Let Us Contact You Back ASAP
         </h2>
-    <p>
-            Our Travel Agents have instant access to special unpublished fares that are aren't available online. If you prefer not to call us now, please, leave a request, and we'll contact you back with all the best itinerary options.
-        </p>
-    <h4>Let Us Know How To Reach You:</h4>
-    <form action="">                                          
-					<label>Your Name:</label><input type="text" name="name" id="cb_name">
-					<label>Your Phone:</label><input type="text" name="phone" id="cb_phone">
-					<label>Your E-mail:</label><input type="text" name="mail" id="cb_mail">
-					<label>Your Message:</label><textarea rows="5" cols="5" name="message" id="cb_message"></textarea>                                    
-                                        <div class="clear"></div>
-					<label>How to Contact:</label>
-					<input type="radio" name="howtocontact" id="by_phone" value="by_phone">
-					<label for="byPhone">By Phone</label>
-					<input type="radio" name="howtocontact" id="by_email" value="by_email">
-					<label for="byEmail">By E-mail</label>
-					<input type="radio" name="howtocontact" id="any" value="any" checked="checked">
-					<label for="anyContact">Any</label>
-					<input type="button" id="request_button" value="Send Request" onclick="sendCallBackRequest()">
-        <div class="success" id="notifSent" style="display:none">Thank You! Your request has been sent.</div>
-				</form>
+    <img src="http://www.asaptickets.com/image?id=202806" class="ajax-loading js-ajax-loading-image">
+    <section class="hidden js-callback-popup-container">
+    
+    </section>
 </div> 
 
 
-            <span class="feedback-lnk" title="Help us to improve - leave your feedback" onclick="mainPagePopUp.fadeIn();"></span>
-            <div class="popupMask"></div>
-           <form class="feedback-popup" action="" style="display:none">
-                <h3 class="popup-hdr">Help Us to Improve</h3>
-                <img src="http://www.asaptickets.com/image?id=198932" class="popup-close" height="34" width="34" alt="X" onclick="mainPagePopUp.fadeOut();">
-                <textarea class="feedback-txt" rows="5" cols="5" placeholder="Tell us what you think about our site"></textarea>              
-                <span class="feedback-thx-msg">Thank you for your feedback!</span>
-                <button class="button feedback-btn" onclick="mainPagePopUp.dislike();return false;">
-                    <img src="http://www.asaptickets.com/image?id=199970" alt="Dislike">
-                </button>
-                <button class="button feedback-btn" onclick="mainPagePopUp.like();return false;">
-                    <img src="http://www.asaptickets.com/image?id=199969" alt="Like">
-                </button>
-            </form>
-                        <form id="newsltr-popup-main" name="newsletterForm" class="newsltr-popup" style="display:none">
-                <h3 class="popup-hdr">Exclusive Deals in Your Inbox</h3>
-                <img src="http://www.asaptickets.com/image?id=198932" id="newsltr-popup-close" class="popup-close" height="34" width="34" alt="X">
-                <fieldset class="newsltr-row">
-                    <p class="newsltr-txt">Don’t Miss Out! Sign up for Exclusive Deals Today</p>
-                    <input id="nl_email" class="newsltr-input initial floatLeft focus-clear validate-email" onfocus="$(this).removeClass('input_messages_error')" errortext="Enter valid e-mail adress" value="Your e-mail">
-    				<input type="hidden" id="hidden_nl_email">
-                    <input id="nl_name" class="newsltr-input initial floatRight focus-clear validate-alpha" onfocus="$(this).removeClass('input_messages_error')" errortext="Enter your name" value="Your name">
-                </fieldset>
-                <fieldset class="newsltr-row">
-                <p id="newsltr-dest-text" class="newsltr-txt">Please select from the list below your preferred destination(s):</p>
-                <ul class="newsltr-list">
-                    <li class="newsltr-list-item"><input name="all" id="nl_anywhere" type="checkbox" class="newsltr-check" onchange="checkUncheckAll(document.newsletterForm.reg);"><label for="nl_anywhere">Anywhere</label></li>
-                    <li class="newsltr-list-item"><input name="reg" id="nl_middleEast" type="checkbox" class="newsltr-check"><label for="nl_middleEast">Middle East &amp; Northern Africa</label></li>
-                    <li class="newsltr-list-item"><input name="reg" id="nl_Africa" type="checkbox" class="newsltr-check"><label for="nl_Africa">Africa</label></li>
-                    <li class="newsltr-list-item"><input name="reg" id="nl_India" type="checkbox" class="newsltr-check"><label for="nl_India">Indian Subcontinent</label></li>
-                    <li class="newsltr-list-item"><input name="reg" id="nl_Asia" type="checkbox" class="newsltr-check"><label for="nl_Asia">Asia</label></li>
-                    <li class="newsltr-list-item"><input name="reg" id="nl_latinAmerica" type="checkbox" class="newsltr-check"><label for="nl_latinAmerica">South &amp; Latin America</label> </li>
-                    <li class="newsltr-list-item"><input name="reg" id="nl_Europe" type="checkbox" class="newsltr-check"><label for="nl_Europe">Europe</label></li>
-                    <li class="newsltr-list-item"><input name="reg" id="nl_bf_travelDeals" type="checkbox" class="newsltr-check"><label for="nl_bf_travelDeals">Business and First Class Deals</label></li>
-                    <li class="newsltr-list-item"><input name="reg" id="nl_Oceania" type="checkbox" class="newsltr-check"><label for="nl_Oceania">Oceania</label></li>
-                </ul>
-                </fieldset>
-                <fieldset class="newsltr-row">
-                <p class="newsltr-txt newsltr-discl">Your privacy is important. We will only send you ASAPtickets newsletters, updates and special offers customized to your interests! <a href="http://www.asaptickets.com/privacy" target="_blank">Privacy Policy</a>.</p>
-                <span id="saveNewslleterOK" class="newsltr-thx" style="display:none">Thank you for joining!</span>
-                <input type="button" id="saveNewsletterBtn" onclick="saveNewsletterOptions()" class="button floatRight" value="Sign Up">
-                </fieldset>
-            </form>
-                        <div class="exitPopup">
-                <span class="exitPopup__close" onclick="$('.popupMask').fadeOut();$('.exitPopup').fadeOut();"></span>
-                <div class="exitPopup__body">
-                    <h3 class="exitPopup__body__title">Can't find what you're looking for?</h3>
-                    <p class="exitPopup__body__text">We’re here to help you find the lowest airfares!<br>Call one of our Travel Experts toll-free at <span style="white-space: nowrap;">(888)&nbsp;585-2727</span></p>
-                    <h4 class="exitPopup__body__title2">Why Book with ASAPtickets?</h4>
-                    <ol class="exitPopup__body__list">
-                        <li>Unpublished fares available only over the phone</li>
-                        <li>Exclusive offers, discount rates, last-minute deals</li>
-                        <li>Free seat holds while you think</li>
-                        <li>24/7 dedicated customer care</li>                       
-                    </ol>
-                </div>
-                <div class="exitPopup__footer">
-                    <label class="exitPopup__footer__label">Connect with ASAPtickets:</label>
-                    <a href="https://www.facebook.com/ASAPtickets?ref=ts" class="exitPopup__footer__button exitPopup__footer__button-fb" target="_blank">facebook</a>
-                    <a href="https://twitter.com/#!/ASAPtickets" class="exitPopup__footer__button exitPopup__footer__button-tw" target="_blank">twitter</a>
-                </div>
-            </div>
-	<div class="container">
-            <div class="l-hdr">                			  
-			  <a class="hdr-logo hdr-logo-winter" href="http://www.asaptickets.com/">
-                          <img src="http://www.asaptickets.com/image?id=200816" alt="ASAPtickets logo">
-                        </a>              
-    		  <!-- <a class="hdr-logo" href="http://www.asaptickets.com/"><img src="" alt="ASAPtickets logo"/></a>  -->
-                            <p class="hdr-msg">Over <span class="t-bold t-hilite">300 LIVE Travel Agents</span> Are Standing By<br>Ready To Provide You With <span class="t-bold t-hilite">Excellent</span> Service!</p>            
-            <div class="hdr-phone"> 
-              <span class="hdr-promo">
-                Your Promo Code: <span class="hdr-promo-code">SAVE<span id="referal_id"></span></span>
-              </span>
-              <div class="hdr-phone-main">
-                <label class="hdr-phone-247">Call<br>24/7</label><span style="white-space: nowrap;">(888)&nbsp;585-2727</span>
-              </div>
-              <span class="hdr-phone-opt">1.650.238.5588</span>
-              <a class="hdr-phone-opt" href="callto://asaptickets.com">Skype</a>
-              <a class="hdr-phone-opt t-pseudo" id="openCallBack">leave a request</a>
-            </div>    			
-						<div class="clear"></div>
-		</div>
-         <div class="socialBarWrapper">  
-                    <div class="socialBar">
-                Follow us on:
-                <a target="_blank" class="social-fb" href="https://www.facebook.com/ASAPtickets?ref=ts "></a>
-                <a target="_blank" class="social-gp" href="https://plus.google.com/101273188344270491600" rel="publisher"></a>                
-                <a target="_blank" class="social-tw" href="https://twitter.com/#!/ASAPtickets"></a>                
-                    </div></div>
-		
-<div id="mainMenu">
-        <ul>
-            <li><a class="menu-link" href="http://www.asaptickets.com/">Home</a></li>
-            <li><a class="menu-link" href="http://www.asaptickets.com/special-offers/">Special Offers</a></li>
-            <li><a href="http://www.asaptickets.com/flights-to-usa/">Flights to USA</a></li>
-            <li><a class="menu-link" href="http://www.asaptickets.com/grouptravel">Group Travel</a></li>
-            <li><a class="menu-link" href="http://www.asaptickets.com/business-class/">Business Class</a></li>
-            <li><a class="menu-link" href="http://www.asaptickets.com/first-class/">First Class</a></li>
-            <li><a class="menu-link" href="http://www.asaptickets.com/travel-services/">Travel Services</a></li>
-            <li><a class="menu-link" href="http://www.asaptickets.com/customer-service/">Customer Service</a></li>            
-            <li><a class="menu-link" href="http://www.asaptickets.com/testimonials/">Testimonials</a></li>
-                        <li class="last">                          
-              <a class="social-link social-fb" target="_blank" href="https://www.facebook.com/ASAPtickets?ref=ts" title="Follow us on Facebook"></a>
-              <a class="social-link social-tw" target="_blank" href="https://twitter.com/#!/ASAPtickets" title="Follow us on Twitter"></a>
-              <a class="social-link social-gp" target="_blank" href="https://plus.google.com/101273188344270491600" rel="publisher" title="Follow us on Google+"></a>
-              <a class="social-link social-nl newsltr-popup-open" href="" onclick="return false;" title="Sign up for Great Deals"></a>
-            </li>
-
-                    </ul>	
+    <div class="js_csc_login_block hidden" style="background-color: white">
+    <a href="#" class="js_newsltr-popup-close hidden"></a>
+    <iframe src="https://secure.itncorp.com/support/loginitnf" width="500" height="380" frameborder="0" scrolling="no">
+    
+    </iframe>
 </div>
 
+<script>
+$(document).ready(function() {
+	var dialog = new Dialog();
+	dialog.setContainer('.js_csc_login_block', 500, 350, 555).
+		setOverlay({}, true).
+		addControlShow('.js_csc_form_open').
+		addControlHide('.js_newsltr-popup-close');
+});
 
+var eventMethod = window.addEventListener ? "addEventListener" : "attachEvent";
+var eventer = window[eventMethod];
+var messageEvent = eventMethod == "attachEvent" ? "onmessage" : "message";
 
+eventer(messageEvent,function(e) {
+	if (e.data == 'closePopup') {
+		$('.js_newsltr-popup-close').click();
+	}
+},false);
+</script>
+    <script>
+var multiCityPopup = new Popup();
 
-<div id="breadcrumbs">
-	    <a href="http://www.asaptickets.com/">Home</a> <label>►</label>
-								
-							<span>Privacy Policy</span>
-			</div>
+$(function(){
+    
+    var template = _travel.template.create(426);
+    template.setContainer('.js-multy-city-container').setOnLoadCallback(function(){
+        this.disableLoadingImage();
+        this.container.fadeIn();
+    });
+    
+    multiCityPopup.setContainer('#mc-popup-container');
+    multiCityPopup.postDisplay = function(){
+        template.load();
+    };
+    
+    $('.js-multicity-popup-close').click(function(){
+        multiCityPopup.fadeOut();
+    })
+})
+</script>
+    <section class="popup popup-mcity " id="mc-popup-container">
+      <span class="icon icon-x popup-close js-multicity-popup-close"></span>
+      <img src="http://www.asaptickets.com/image?id=202806" class="ajax-loading js-ajax-loading-image">
+      <section class="hidden js-multy-city-container">
+          
+       </section>
+    </section>
+  
+            <form class="feedback-popup hidden" action="">
+   <h3 class="popup-hdr">Help Us Improve</h3>
+    <img src="http://www.asaptickets.com/image?id=198932" class="popup-close" height="34" width="34" alt="X" onclick="mainPagePopUp.fadeOut();">
+    
+    <img src="http://www.asaptickets.com/image?id=202806" class="ajax-loading js-ajax-loading-image">
+    <section class="hidden js-feedback-popup-container">
+    
+    </section>
+</form>
+<span class="feedback-lnk js-fadein-link" title="Help us improve - leave your feedback"></span>
+                 <form id="newsltr-popup-main" name="newsletterForm" class="newsltr-popup" style="display:none">
+    <h3 class="popup-hdr">Exclusive Deals in Your Inbox</h3>
+    <img src="http://www.asaptickets.com/image?id=198932" id="newsltr-popup-close" class="popup-close" height="34" width="34" alt="X">
+    <fieldset class="newsltr-row">
+        <p class="newsltr-txt">Don’t Miss Out! Sign up for Exclusive Deals Today</p>
+        <input id="nl_email" class="newsltr-input initial floatLeft focus-clear validate-email" onfocus="$(this).removeClass('input_messages_error')" errortext="Enter valid e-mail adress" value="Your e-mail">
+    	<input type="hidden" id="hidden_nl_email">
+        <input id="nl_name" class="newsltr-input initial floatRight focus-clear validate-alpha" onfocus="$(this).removeClass('input_messages_error')" errortext="Enter your name" value="Your name">
+    </fieldset>
+    <fieldset class="newsltr-row">
+    <p id="newsltr-dest-text" class="newsltr-txt">Please select from the list below your preferred destination(s):</p>
+    <ul class="newsltr-list">
+        <li class="newsltr-list-item"><input name="all" id="nl_anywhere" type="checkbox" class="newsltr-check" onchange="checkUncheckAll(document.newsletterForm.reg);"><label for="nl_anywhere">Anywhere</label></li>
+        <li class="newsltr-list-item"><input name="reg" id="nl_middleEast" type="checkbox" class="newsltr-check"><label for="nl_middleEast">Middle East &amp; Northern Africa</label></li>
+        <li class="newsltr-list-item"><input name="reg" id="nl_Africa" type="checkbox" class="newsltr-check"><label for="nl_Africa">Africa</label></li>
+        <li class="newsltr-list-item"><input name="reg" id="nl_India" type="checkbox" class="newsltr-check"><label for="nl_India">Indian Subcontinent</label></li>
+        <li class="newsltr-list-item"><input name="reg" id="nl_Asia" type="checkbox" class="newsltr-check"><label for="nl_Asia">Asia</label></li>
+        <li class="newsltr-list-item"><input name="reg" id="nl_latinAmerica" type="checkbox" class="newsltr-check"><label for="nl_latinAmerica">South &amp; Latin America</label> </li>
+        <li class="newsltr-list-item"><input name="reg" id="nl_Europe" type="checkbox" class="newsltr-check"><label for="nl_Europe">Europe</label></li>
+        <li class="newsltr-list-item"><input name="reg" id="nl_bf_travelDeals" type="checkbox" class="newsltr-check"><label for="nl_bf_travelDeals">Business and First Class Deals</label></li>
+        <li class="newsltr-list-item"><input name="reg" id="nl_Oceania" type="checkbox" class="newsltr-check"><label for="nl_Oceania">Oceania</label></li>
+    </ul>
+    </fieldset>
+    <fieldset class="newsltr-row">
+    <p class="newsltr-txt newsltr-discl">Your privacy is important. We will only send you ASAPtickets newsletters, updates and special offers customized to your interests! <a href="http://www.asaptickets.com/privacy" target="_blank">Privacy Policy</a>.</p>
+    <span id="saveNewslleterOK" class="newsltr-thx" style="display:none">Thank you for joining!<br>Please check your email to complete subscription.</span>
+    <input type="button" id="saveNewsletterBtn" onclick="saveNewsletterOptions();pixel.newsletters();" class="button floatRight" value="Sign Up">
+    </fieldset>
+</form>
+        <section class="h-fixed js-header-shadow">
+      <div class="wrapper">
+        <header class="main">
+          <div class="head">
+            <a class="h-logo" href="http://www.asaptickets.com/">
+                <img src="http://www.asaptickets.com/img/asaptickets2/economic/logo.png" alt="ASAPtickets logo" width="100%">
+            </a>
+    
+            <div class="h-soc">
+              <p>Let’s become friends</p>
+              <div class="fb-like fb-like-position" data-send="false" data-href="https://www.facebook.com/ASAPtickets" data-layout="button_count" data-width="450" data-show-faces="false" data-font="segoe ui"></div>
+            </div>
+             <div class="h-number ">
+                        
+              <span class="h-call-ico"></span>
+              <p>Our Agents Are Ready for Your Call 24/7</p>
+              <span class="h-call-number "><span style="white-space: nowrap;">888-585-2727</span></span>
+                                      </div>
+            <ul class="h-links">
+                             
+              <li><a class="blue" href="" onclick="return false;" id="openCallBack">Leave a request</a></li>
+                                      </ul>
+    
+            <div class="h-pcode">
+                        
+                <p>Your Promo-Code:<br><span>SAVE<span class="referal"></span></span></p>
+                        </div>
+    
+            <span class="bbb-logo"></span>
+          </div>
+                  <nav>
+            <ul class="m-nav">
+              <li class="current"><a class="home" href="http://www.asaptickets.com/">Home Page</a></li>
+              <li><a href="http://www.asaptickets.com/special-offers">Special Offers</a></li>
+              <li><a href="http://www.asaptickets.com/travel-services">Travel Extras</a></li>
+              <li><a href="http://www.asaptickets.com/customer-service">Customer Service</a></li>
+              <li><a href="http://www.asaptickets.com/business-and-first-class">Business &amp; First Class</a></li>
+    
+              <li class="last js_csc_form_open"><a href="" onclick="return false;">my trip</a></li>
+            </ul>
+          </nav>
+        </header>
+      </div>
+    </section>
+        <div class="head-fix"></div>
+           
+     
+            <div class="container">
+                <div class="breadcrumbs"> 
+	    <a class="t-vmid" href="http://www.asaptickets.com/">Home</a> <span class="breadcrumbs-arr">→</span>
+					
+							<span class="breadcrumbs-curr">Privacy Policy</span>
+			    </div>
+        <div class="head-fix-breadcrumbs"></div>
+     
 <table cellpadding="0" cellspacing="0" border="0" width="100%">
 <tbody><tr>
 	<td valign="top" style="padding-bottom:20px">
@@ -465,66 +510,127 @@ function sendCallBackRequest()
 	For all customer service related questions, please email us at <a href="mailto:customerservice@asaptickets.com"><font color="#0257A7">customerservice@asaptickets.com</font></a><br>
 	</td>
 </tr>
-</tbody></table>
-			<div class="footer">
-                <img width="1" height="1" alt="" src="https://secure.itncorp.com/fax_online/tracking.php?discountId=5933873&amp;mfs=Bot: ia_archiver&amp;incomingPhone=8885852727">				<div class="menu">
-					<a href="http://www.asaptickets.com/">Home</a> | <a href="http://www.asaptickets.com/about/">About Us</a> |  <a href="http://www.asaptickets.com/contact_us/">Contact Us</a> | <a href="http://www.asaptickets.com/customer-service/">Customer Service</a> | <a href="http://www.asaptickets.com/privacy/">Privacy Policy</a> | <a href="http://www.asaptickets.com/airlines">Airlines</a> | <a href="http://www.asaptickets.com/links/">Links</a>
-				</div>				
-                            <div class="accreds">
-                                <a class="accreds-item accreds-iatan" href="//www.myiata.org/GlobalData-web/cacEvaluation.do?operation=enterCheckACodeEvaluation" target="_blank"></a>
-                                <a class="accreds-item accreds-asta" href="//www.asta.org/" target="_blank"></a>
-                                <a class="accreds-item accreds-arc" href="//www.arccorp.com/support/arc-check.jsp?checkNumber=05578602" target="_blank"></a>
-                                <a class="accreds-item accreds-tg" href="//www.travelguard.com/" target="_blank"></a>
-                                <a class="accreds-item accreds-bbb" href="//www.bbb.org/greater-san-francisco/business-reviews/travel-agencies-and-bureaus/international-travel-network-in-san-francisco-ca-72752#bbblogo" title="International Travel Network, Travel Agencies &amp; Bureaus, San Francisco, CA" target="_blank"></a>
-                            </div>
-				
-					<div id="disclaimer"><div class="disclaimertext"><blank></blank></div></div>				
-				© 2012 International Travel Network. All rights reserved. <br>
-				CST 2077868; Last modified:Tue, 25 Dec 2012 19:25	<br>
-				Users Online: 20 / 0 / 			</div>
+</tbody></table></div><!-- closing container -->
+    
+<div class="wrapper">
+    <footer>
+    
+			<script>
+				$("document").ready(function() {
+					setTimeout(function(){
+						var pixel = document.createElement("img");
+						pixel.src = "https://secure.itncorp.com/oaf/?tracking&mfs=Bot: ia_archiver&incomingPhone=8885852727&discountId=" + discountId;
+						pixel.width = 1;
+						pixel.height = 1;
+						pixel.border = 0;
+						$("footer").append("<div style='display:none' class='js-footer-tbo-pixel'></div>");
+						$("footer").find(".js-footer-tbo-pixel").append(pixel);
+					}, 1000);
+				});
+			</script>
+			      <div class="foot">
+        <a class="f-logo" href="http://www.asaptickets.com/">
+            <img src="http://www.asaptickets.com/img/asaptickets2/economic/logo-foot.png">
+        </a>
+        <p class="copyright">© 2013 International Travel Network. All rights reserved. CST 2077868-40; Last modified:Thu, 20 Jun 2013 07:23    Users Online: 22 / 0 / </p>
+        <ul class="foot-ul">
+          <li><a href="http://www.asaptickets.com/privacy">Privacy Policy</a></li>
+          <li><a href="http://www.asaptickets.com/testimonials">Testimonials</a></li>
+          <li><a href="http://www.asaptickets.com/links">Links</a></li>
+        </ul>
+        <ul class="foot-ul">
+          <li><a href="http://www.asaptickets.com/about">About Us</a></li>
+          <li><a href="http://www.asaptickets.com/contact_us">Contact Us</a></li>
+          <li><a href="http://www.asaptickets.com/customer-service">Customer Service</a></li>
+        </ul>
+        <div class="f-soc">
+        <a class="tw" target="_blank" href="https://twitter.com/#!/ASAPtickets" title="Follow us on Twitter"></a>
+        <a class="fb" target="_blank" href="https://www.facebook.com/ASAPtickets?ref=ts" title="Follow us on Facebook"></a>
+        <a class="g" target="_blank" href="https://plus.google.com/101273188344270491600" rel="publisher" title="Follow us on Google+"></a>
+        </div>
+      </div>
+      <p class="t-par"> <blank></blank></p>
+      <ul class="foot-accreds">
+        <li><a class="accr-ico01" href="//www.myiata.org/GlobalData-web/cacEvaluation.do?operation=enterCheckACodeEvaluation" target="_blank"></a></li>
+        <li><a class="accr-ico02" href="//www.asta.org" target="_blank"></a></li>
+        <li><a class="accr-ico03" href="//www.arccorp.com/support/arc-check.jsp?checkNumber=05578602" target="_blank"></a></li>
+        <li><a class="accr-ico04" href="//www.travelguard.com" target="_blank"></a></li>
+        <li><a class="accr-ico05" href="//www.bbb.org/greater-san-francisco/business-reviews/travel-agencies-and-bureaus/international-travel-network-in-san-francisco-ca-72752#bbblogo" title="International Travel Network, Travel Agencies &amp; Bureaus, San Francisco, CA" target="_blank"></a></li>
+      </ul>
+    </footer>
+  </div>
+  
+  <!-- Metrix, pixels, other -->
+  
+    
+<script type="text/javascript" src="http://www.asaptickets.com/combo/scriptsAzZXWQz.1370865315.js"></script>
 
-			
-                    
-<script type="text/javascript" src="http://www.asaptickets.com/combo/scriptsAzZXWQz.1352813987.js"></script>
-                    <script type="text/javascript">
-	var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
-	document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
-	</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
-	<script type="text/javascript">
-	try {
-	var pageTracker = _gat._getTracker("UA-161175-1");
-	pageTracker._trackPageview();
-	} catch(err) {}
+    <script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-161175-1']);
+  _gaq.push(['_setDomainName', 'asaptickets.com']);
+  _gaq.push(['_setAllowLinker', true]);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
 </script>
 
-		
-                    <script type="text/javascript">
-                      (function() {
-                        var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
-                        po.src = 'https://apis.google.com/js/plusone.js';
-                        var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
-                      })();
-                    </script>
-
-		</div>
-        <script type="text/javascript">
-            adroll_adv_id = "LIV2XY5EZVHCHE2OZ3FJOF";
-            adroll_pix_id = "4K2TFHFIYJD2DBKCKT3HDO";
-            (function () {
-            var oldonload = window.onload;
-            window.onload = function(){
-               __adroll_loaded=true;
-               var scr = document.createElement("script");
-               var host = (("https:" == document.location.protocol) ? "https://s.adroll.com" : "http://a.adroll.com");
-               scr.setAttribute('async', 'true');
-               scr.type = "text/javascript";
-               scr.src = host + "/j/roundtrip.js";
-               ((document.getElementsByTagName('head') || [null])[0] ||
-                document.getElementsByTagName('script')[0].parentNode).appendChild(scr);
-               if(oldonload){oldonload()}};
-            }());
-        </script>
 	
+    <script type="text/javascript">
+      (function() {
+        var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+        po.src = 'https://apis.google.com/js/plusone.js';
+        var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+      })();
+    </script>
+    <script type="text/javascript">
+        adroll_adv_id = "LIV2XY5EZVHCHE2OZ3FJOF";
+        adroll_pix_id = "4K2TFHFIYJD2DBKCKT3HDO";
+        (function () {
+        var oldonload = window.onload;
+        window.onload = function(){
+           __adroll_loaded=true;
+           var scr = document.createElement("script");
+           var host = (("https:" == document.location.protocol) ? "https://s.adroll.com" : "http://a.adroll.com");
+           scr.setAttribute('async', 'true');
+           scr.type = "text/javascript";
+           scr.src = host + "/j/roundtrip.js";
+           ((document.getElementsByTagName('head') || [null])[0] ||
+            document.getElementsByTagName('script')[0].parentNode).appendChild(scr);
+           if(oldonload){oldonload()}};
+        }());
+    </script>
+    
+	<!-- Yandex.Metrika counter -->
+	<script type="text/javascript">
+	(function (d, w, c) {
+		(w[c] = w[c] || []).push(function() {
+			try {
+				w.yaCounter13384900 = new Ya.Metrika({id:13384900, enableAll: true, ut:"noindex", webvisor:true});
+			} catch(e) {}
+		});
+
+		var n = d.getElementsByTagName("script")[0],
+			s = d.createElement("script"),
+			f = function () { n.parentNode.insertBefore(s, n); };
+		s.type = "text/javascript";
+		s.async = true;
+		s.src = (d.location.protocol == "https:" ? "https:" : "http:") + "//mc.yandex.ru/metrika/watch.js";
+
+		if (w.opera == "[object Opera]") {
+			d.addEventListener("DOMContentLoaded", f);
+		} else { f(); }
+	})(document, window, "yandex_metrika_callbacks");
+	</script>
+	<noscript><div style="display: none;"><img src="//mc.yandex.ru/watch/13384900?ut=noindex" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
+	<!-- /Yandex.Metrika counter -->
+
 
 
 </body></html>
