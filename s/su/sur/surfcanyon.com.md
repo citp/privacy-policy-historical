@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the surfcanyon.com privacy policy that was archived on 2012-10-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121021012900id_/http%3A//www.surfcanyon.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the surfcanyon.com privacy policy that was archived on 2013-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130620194108id_/http%3A//www.surfcanyon.com/privacy) for the most accurate reproduction.*
 
 # Surf Canyon Privacy Policy
 
@@ -50,7 +50,7 @@ We reserve the right to disclose your personally identifiable information as req
 
 ### 3.1 Log Files
 
-As is true of most Web sites, we gather certain information automatically and store it in log files. This information includes internet protocol (IP) addresses, browser type, internet service provider (ISP), operating system, date/time stamp, and clickstream data.
+As is true of most Web sites, we gather certain information automatically and store it in log files. This information includes internet protocol (IP) addresses, browser type, operating system, date/time stamp, and clickstream data.
 
 We use this information, which does not identify individual users, to analyze trends, to administer the site, to track users' movements around the site and to gather demographic information about our user base as a whole. We do not link this automatically-collected data to personally identifiable information.
 
