@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the whova.com privacy policy that was archived on 2012-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121110090049id_/http%3A//www.whova.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the whova.com privacy policy that was archived on 2013-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130620154404id_/http%3A//whova.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -16,7 +16,11 @@ To comply with the Children's Online Privacy Protection Act, Whova doesn't colle
 
 ## Browser extension privacy 
 
-For those browser extensions released by whova, they only capture basic profile information on pages being browsed by a user. The extensions doesn't capture any privacy related information or use it for other purposes. Finally The browser extensions will display additional information on an existing page with a minimum disturbance. User can easily to turn it on or off. 
+For those browser extensions released by whova, they only capture basic profile information on pages being browsed by a user. The extensions doesn't capture any privacy related information or use it for other purposes. Finally The browser extensions will display additional information on an existing page with a minimum disturbance. User can easily turn it on or off. 
+
+## Whova iPhone/Android app
+
+We analyze and track user behavior using Google Analytics in the iPhone/Android app only to improve the quality of our product and usability of the app. No personal information will be collected. 
 
 ## Security
 
@@ -28,4 +32,4 @@ Since whova crawled and analyzed data from internet, so sometime it may include 
 
 ## Questions?
 
-If you have any further questions or feedback, please contact us at [info@whova.com](mailto:info@whova.com). or drop a feedback at [Feedback](http://feedback.whova.com/)
+If you have any further questions or feedback, please contact us at [support@whova.com](mailto:support@whova.com). or drop a feedback at [Feedback](http://feedback.whova.com/)
