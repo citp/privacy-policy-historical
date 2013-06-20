@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pveducation.org privacy policy that was archived on 2012-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121221135246id_/http%3A//mollom.com/web-service-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pveducation.org privacy policy that was archived on 2013-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130620085857id_/https%3A//mollom.com/web-service-privacy-policy) for the most accurate reproduction.*
 
 # Web service privacy policy | Mollom
 
@@ -8,7 +8,7 @@ _This privacy policy explains how Mollom BVBA ("we") processes your personal dat
 
 **How it works** – When you post a message on a website that uses our service (called "the website" in the remainder of this text), the website's server will first send your message – as well as some information about your identity (such as your IP address, name or nickname, e-mail address and OpenID) – to our server. Our server will then compare your message and your identity details with all elements in our database, and perform several complex statistical computations in order to assess the quality of your message (e.g., spam, abuse, etc.).
 
-If our server then determines that the content of your message is of insufficient quality or constitutes spam or abuse, it will inform the website thereof. The website server may then decide to reject your message, or to provide you with an additional question to find out whether you are in fact a human being, and not a machine trying to send out as much commercial communications as possible. Please note that it is sometimes possible that our server wrongfully determines the actual quality of the content of your message, or wrongfully considers your message as spam or abuse.
+If our server then determines that the content of your message is of insufficient quality or constitutes spam or abuse, it will inform the website thereof. The website server may then decide to reject your message, or to provide you with an additional question to find out whether you are in fact a human being, and not a machine trying to send out as much commercial communications as possible. Also, in case the server is uncertain about the quality of the message, it may forward your message to a human moderator who will assess the quality of your message and act accordingly. Please note that it is sometimes possible that our server or moderators wrongfully determine the actual quality of the content of your message, or wrongfully consider your message as spam or abuse.
 
 **What we store about you** – We store all information provided to us by the website. This will include, in particular, the following personal data about you (to the extent effectively provided to us by the website): the content of your message, your name or nickname, IP address, user ID, OpenID, e-mail address, URL of your website, and the date and time you post a message.
 
@@ -25,6 +25,8 @@ Also note that we can provide access to your personal data in case of illegal or
 **How we protect you** – We are bound by the strict rules of Belgian and European data protection legislation, which prevents us from making unlawful use of your personal data. Please note that the website's operator may be bound by other rules, depending on his jurisdiction.
 
 **Your rights** – You have the right to gain access to, correct and/or remove all personal data we store about you on our servers. All this is provided to you free of charge. In order to exercise your rights, please [contact us](https://web.archive.org/contact).
+
+**Revision** – From time to time, we change our products and services which may require us to update our privacy policy accordingly. Your continued use of the website using our service following the posting of any changes to this privay policy means you accept such changes. This policy was last updated on June, 19th 2013.
 
 ## Summary
 
