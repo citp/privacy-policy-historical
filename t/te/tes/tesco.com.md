@@ -1,8 +1,10 @@
-> *The following text is extracted and transformed from the tesco.com privacy policy that was archived on 2012-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121222174822id_/http%3A//www.tesco.com/termsandconditions/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tesco.com privacy policy that was archived on 2013-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130621015040id_/http%3A//www.tesco.com/help/privacy-and-cookies) for the most accurate reproduction.*
 
-# Tesco.com Privacy policy
+# Privacy and Cookies Policy - Tesco.com
 
-Tesco.com ("the Website") is owned and operated by Tesco Stores Limited, part of the Tesco Group. This policy, together with our [Terms and Conditions](http://www.tesco.com/termsandconditions/termsconditionsGeneral.htm), explain how Tesco may use information we collect about you, as well as your rights over any personal information we hold about you. Please read this policy and our [Terms and Conditions](http://www.tesco.com/termsandconditions/termsconditionsGeneral.htm) carefully; by accessing the Website you confirm to have understood and agreed to them.
+We use cookies to give you the best possible experience on our site. By continuing to use the site you agree to our use of cookies. [Find out more.](https://web.archive.org/web/20130615042927/http://www.tesco.com/help/privacy-and-cookies/)
+
+Tesco.com ("the Website") is owned and operated by Tesco Stores Limited, part of the Tesco Group. This policy, together with our [Terms and Conditions](https://web.archive.org/help/terms-and-conditions/), explain how Tesco may use information we collect about you, as well as your rights over any personal information we hold about you. Please read this policy and our [Terms and Conditions](https://web.archive.org/help/terms-and-conditions/) carefully; by accessing the Website you confirm to have understood and agreed to them.
 
 ### Information we collect about you
 
@@ -75,6 +77,8 @@ To change your contact preferences simply click "Your Account" in the top frame 
 
 We like to hear your views to help us improve our service. From time to time, we may contact you to ask your opinions. Again, if you do not want to be contacted for this purpose, make your choice on the "Contact Preferences" page.
 
+## Cookies
+
 In order to comply with new rules, we use a system of classifying the different types of cookies which we use on the Website, or which may be dropped by third parties through our websites. The classification was developed by the International Chamber of Commerce UK and explains more about which cookies we use, why we use them, and the functionality you will lose if you decide you don't want to have them on your device. Please be reassured that we are working on other privacy and cookie-related improvements to the Website.
 
 ### What is a cookie?
@@ -95,25 +99,25 @@ A list of all the cookies used on the Website by category is set out below.
 
 ### Strictly necessary cookies
 
-### These cookies enable services you have specifically asked for. For those types of cookies that are strictly necessary, no consent is required.
+**These cookies enable services you have specifically asked for. For those types of cookies that are strictly necessary, no consent is required.**
 
 These cookies are essential in order to enable you to move around the Website and use its features, such as accessing secure areas of the Website. Without these cookies services you have asked for, like shopping baskets or e-billing, cannot be provided. 
 
 ### Performance cookies
 
-### These cookies collect anonymous information on the pages visited. By using the Website, you agree that we can place these types of cookies on your device.
+**These cookies collect anonymous information on the pages visited. By using the Website, you agree that we can place these types of cookies on your device.**
 
 These cookies collect information about how visitors use the Website, for instance which pages visitors go to most often, and if they get error messages from web pages. These cookies don't collect information that identifies a visitor. All information these cookies collect is aggregated and therefore anonymous. It is only used to improve how the Website works. 
 
 ### Functionality cookies
 
-### These cookies remember choices you make to improve your experience. By using the Website, you agree that we can place these types of cookies on your device.
+**These cookies remember choices you make to improve your experience. By using the Website, you agree that we can place these types of cookies on your device.**
 
 These cookies allow the Website to remember choices you make (such as your user name, language or the region you are in) and provide enhanced, more personal features. These cookies can also be used to remember changes you have made to text size, fonts and other parts of web pages that you can customise. They may also be used to provide services you have asked for such as watching a video or commenting on a blog. The information these cookies collect may be anonymised and they cannot track your browsing activity on other websites.
 
 ### Targeting or advertising cookies
 
-### These cookies collect information about your browsing habits in order to make advertising relevant to you and your interests.
+**These cookies collect information about your browsing habits in order to make advertising relevant to you and your interests.**
 
 These cookies are used to deliver adverts more relevant to you and your interests. They are also used to limit the number of times you see an advertisement as well as help measure the effectiveness of the advertising campaign. They are usually placed by advertising networks with our permission. They remember that you have visited a website and this information is shared with other organisations such as advertisers. Quite often targeting or advertising cookies will be linked to site functionality provided by the other organisation.
 
