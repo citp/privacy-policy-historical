@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the procamrunning.in privacy policy that was archived on 2012-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121220010128id_/http%3A//www.procamrunning.in/Privacy-Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the procamrunning.in privacy policy that was archived on 2013-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130621004347id_/http%3A//procamrunning.in/PRIVACY-POLICY) for the most accurate reproduction.*
 
-# Procamrunning Official Site 2012 - Privacy Policy
+# Procamrunning Official Site - Privacy Policy
 
 Procam International Ltd. ("Procam") recognizes that its visitors, users, and others who use **[www.procamrunning.in](http://www.procamrunning.in/)** value their privacy. This Privacy Notice details important information regarding the use and disclosure of user information collected on via the **[www.procamrunning.in](http://www.procamrunning.in/)** website. It provides this Privacy Notice to help you make an informed decision about whether to use or continue using **[www.procamrunning.in](http://www.procamrunning.in/)**
 
