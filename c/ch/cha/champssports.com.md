@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the champssports.com privacy policy that was archived on 2012-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121207123237id_/http%3A//www.champssports.com/customerserv/help%3AprivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the champssports.com privacy policy that was archived on 2013-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130620133205id_/http%3A//www.champssports.com/customerserv/help%3AprivacyPolicy) for the most accurate reproduction.*
 
 # Customer Service - OtherServices - Privacy Policy | Champs Sports
 
