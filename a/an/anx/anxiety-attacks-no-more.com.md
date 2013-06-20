@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the anxiety-attacks-no-more.com privacy policy that was archived on 2010-10-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101008144959id_/http%3A//anxiety-attacks-no-more.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the anxiety-attacks-no-more.com privacy policy that was archived on 2013-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130620171819id_/http%3A//www.anxiety-attacks-no-more.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Anxiety Attacks No More
+
+## Privacy Policy
 
 Welcome to Your anxiety-attacks-no-more.com (the “Site”).
 
@@ -65,3 +67,7 @@ We will let our Visitors and Authorized Customers know about changes to our priv
 **Links:** ****
 
 This web site contains links to other web sites. Please note that when you click on one of these links, you are moving to another web site. We encourage you to read the privacy statements of these linked sites as their privacy policies may differ from ours.
+
+[](http://d11896fmrx-0tj9gjfyzovfl38.hop.clickbank.net/?tid=PANAWAYANXNOMORELGBANNER)
+
+[](http://www.anxiety-attacks-no-more.com/panic-away-purchase-bonuses.html)
