@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ashleystewart.com privacy policy that was archived on 2012-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121220114643id_/http%3A//www.ashleystewart.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ashleystewart.com privacy policy that was archived on 2013-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130620133358id_/http%3A//www.ashleystewart.com/privacy) for the most accurate reproduction.*
 
 # Ashley Stewart
 
@@ -72,7 +72,7 @@ We may disclose information about you if there is a sale of all or part of our b
 
 **Your Choices about the Information We Collect**
 
-If you do not wish to receive e-mails about special offers, new fashion trends, contests and other promotions from AshleyStewart.com  click the unsubscribe link at the bottom of our emails, or if you do not wish to receive other marketing materials by regular mail from AshleyStewart.com, please call us toll free at 1-888-520-6948 or 201-272-1164.
+If you do not wish to receive e-mails about special offers, new fashion trends, contests and other promotions from AshleyStewart.com  click the unsubscribe link at the bottom of our emails, or if you do not wish to receive other marketing materials by regular mail from AshleyStewart.com, please call us toll free at 1-866-284-0424 or 717-522-4389.
 
 **Privacy of Children Who Visit the Web Site**
 
@@ -99,7 +99,7 @@ If you are visiting the Website from a location outside of the U.S., your connec
 
 **Updating Personal Information**
 
-We prefer to keep your personal information accurate and up-to-date. If you would like to change your contact information, please go to My Account, and log in with your email address and password, or call us toll free at 1-888-520-6948 or 201-272-1164 Monday through Friday, 9 AM – 9 PM and Saturday 10 AM – 4 PM EST.
+We prefer to keep your personal information accurate and up-to-date. If you would like to change your contact information, please go to My Account, and log in with your email address and password, or call us toll free at 1-866-284-0424 or 717-522-4389 Monday through Friday, 9 AM – 9 PM and Saturday 10 AM – 4 PM EST.
 
 **Links**
 
@@ -117,4 +117,4 @@ While we use the foregoing security measures to protect your information, please
 
 **Questions / Changes in Policy**
 
-If you have questions or concerns with respect to our Privacy Policy, you may contact us toll free at 1-888-520-6948 or 201-272-1164. We may elect to change or amend our Privacy Policy; in such event, we will post the policy changes in our Privacy Policy on the Website. If you are concerned about how your personal information is used, please visit our Website often for this and other important announcements and updates.
+If you have questions or concerns with respect to our Privacy Policy, you may contact us toll free at 1-866-284-0424 or 717-522-4389. We may elect to change or amend our Privacy Policy; in such event, we will post the policy changes in our Privacy Policy on the Website. If you are concerned about how your personal information is used, please visit our Website often for this and other important announcements and updates.
