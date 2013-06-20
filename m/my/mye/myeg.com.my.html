@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the myeg.com.my privacy policy that was archived on 2012-12-30.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121230065423id_/http%3A//www.myeg.com.my/policy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the myeg.com.my privacy policy that was archived on 2013-06-20.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130620112025id_/http%3A//myeg.com.my/policy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html dir="ltr" xml:lang="en-gb" xmlns="http://www.w3.org/1999/xhtml" lang="en-gb"><head>
 
@@ -14,6 +14,15 @@
 <title>Privacy Policy</title>
 <link href="favicon.ico" rel="shortcut icon" type="image/x-icon">
 <link rel="stylesheet" href="htmlsite/images/mod_jflanguageselection.css" type="text/css">
+<!-- START GOTO/QUICK SHORTCUT JQUERY -->
+    <script src="//ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
+	<script>
+		$(document).ready(function(){
+			$("#goto").load("./index_files/goToServicesProperties.txt");
+    		$("#quick").load("./index_files/shortCutProperties.txt");
+ 		 });
+	</script>
+    <!-- END GOTO/QUICK SHORTCUT JQUERY -->
 <!-- CSS -->
 <style type="text/css" media="screen">
 /*\*/@import url("htmlsite/css/template_css.css");/**/
@@ -131,16 +140,22 @@ src="htmlsite/images/en.gif" alt="English (United Kingdom)" title="English
 					<div id="logo" class="width33 aligncenter">
                         <a href="/"><img src="/images/icetheme/logo_style2.png" alt="IT Headline" width="132" height="60" /></a>
                     </div> 		-->
+                    <div class="floatright  width50">
+					  <!-- <a href="http://www.myeg.com.my/makethepitch/index.html"><img src="htmlsite/images/iPidato-banner_c.jpg" width="450" height="95" border="0"></a>-->
+					   <!--a href="promotions.html#"><img src="htmlsite/images/myeg_fashion-val-1.jpg" width="450" height="90" border="0"></a-->
+                    </div>
+
         </div>
         <div id="main-nav">
           <ul class="menu" id="nav">
-            <li><a href="index.html"><span>Home</span></a></li>
-            <li><a href="about.html"><span>About</span><span class="sub"> us</span></a></li>
-            <li class="parent item67"><a href="investors.html"><span>Investors</span></a></li>
-            <li><a href="faq.html"><span>FAQ</span></a></li>
-            <li><a href="careers.html"><span>Careers</span></a></li>
-            <li><a href="contact.php"><span>Contact</span><span class="sub"> us</span></a></li>
-          </ul>
+                        <li><a href="index.html"><span>Home</span></a></li>
+                        <li><a href="about.html"><span>About</span><span class="sub"> us</span></a></li>
+                        <li class="parent item67"><a href="investors.html"><span>Investors</span></a></li>
+                        <li><a href="faq.html"><span>FAQ</span></a></li>
+						<li><a href="promotions.html"><span>Latest Promotions</span></a></li>
+                        <li><a href="careers.html"><span>Careers</span></a></li>
+                        <li><a href="contact.php"><span>Contact</span><span class="sub"> us</span></a></li>
+                    </ul>
         </div>
       </div>
     </div>
@@ -316,7 +331,14 @@ class="clearfix">
                                         </p></td>
                                     </tr>
                                     <tr>
-                                      <td><label>Go to:</label>
+                                      <td>
+                                      <!-- START NEW GO TO -->
+                                          <p id="login_button">
+    									  </p><div id="goto"></div>
+    									  <p></p>
+                                          <!-- END NEW GO TO -->
+                                          <!-- START OLD GO TO -->
+                                      <!--label>Go to:</label>
                                         <select name="goTo" id="goto">
                                           <option selected="selected" value="dashboard">Services Menu</option>
                                           <option value="JPJ">JPJ</option>
@@ -332,7 +354,9 @@ class="clearfix">
                                     <tr>
                                       <td><p id="login_button">
                                           <button type="submit"><span class="round"><span>Log in</span></span></button>
-                                        </p></td>
+                                        </p-->
+                                        <!-- END OLD GO TO -->
+                                        </td>
                                     </tr>
                                     <tr>
                                       <td><ul class="loginimages">
@@ -355,14 +379,19 @@ class="clearfix">
                           <div>
                             <div>
                               <h3><span>Quick</span> Shortcuts</h3>
-                              <ul>
+                              <!-- START NEW QUICK SHORTCUT -->
+                                  <div id="quick"></div>
+                                  <!-- END NEW QUICK SHORTCUT -->
+                                  <!-- START OLD QUICK SHORTCUT --> 
+                              <!--ul>
 <li><a href="https://rdtax.myeg.com.my/RHBI/formIns1.jsp">AUTO INSURANCE RENEWAL</a></li>
 <li><a href="http://app7.myeg.com.my/logistic/customer/Search">ROAD TAX DELIVERY STATUS</a></li>
 <li><a href="https://jpj.myeg.com.my/KIOSK/index.jsp">LDL APPLICATION</a></li>
 <li><a href="https://jpj.myeg.com.my/PrepaiduserReg/">PDRM SUMMONS ALERT</a></li>
 <li><a href="http://v2.myeg.com.my/PrepaidTopUp/topup.jsp">TOPUP PREPAID ACCOUNT</a></li>
 <li><a href="https://rdtax.myeg.com.my/roadtaxReceipt/">ROAD TAX RECEIPT</a></li>
-</ul>
+</ul-->
+<!-- END OLD QUICK SHORTCUT -->
                             </div>
                           </div>
                         </div>
