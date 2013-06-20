@@ -1,9 +1,9 @@
-> *The following text is extracted and transformed from the affiliateseeking.com privacy policy that was archived on 2012-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120905112420id_/http%3A//www.affiliateseeking.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the affiliateseeking.com privacy policy that was archived on 2013-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130620145829id_/http%3A//www.affiliateseeking.com/privacy.html) for the most accurate reproduction.*
 
 # AffiliateSeeking.com :: Privacy Policy
 
   
-**Privacy Policy Last Updated:** 13 February 2010
+**Privacy Policy Last Updated:** 13 December 2012
 
 **Why we collect and use your personal information**  
 AffiliateSeeking.com collects some personal information from you. This is so we can reply to any site submissions you make within different parts of our site, to contact you if we need to once you joined our forum, etc. The information we collect from you also enables us to contact you from time to time about new offers, features and updates that we have on our site. The personal information we collect from you may include, but is not limited to your name, email address and your websites details/information. 
@@ -18,7 +18,7 @@ The way we gather information depends on the section of our site. We may ask you
 When you visit our site, we will also collect information about your visit. This may include the time of day you visited our site, how long you were on our site, etc. We do this so we can better understand the way our visitors use our site, we can then therefore better assist our visitors to provide them with the services they are likely to be most interested in.
 
 **Cookies**  
-At this time, Cookies are not used on the AffiliateSeeking.com site.
+We at AffiliateSeeking do not directly use cookies, but we do use a 3rd party stats provider and also 3rd party advertising providers like Adsense. The Stats provider and 3rd party advertising providers may use cookies while showing ads on our website and collect statistics or other information. They may also use cookies for other purposes.
 
 **Your personal information and other companies'**  
 What ever personally information you submit to our site, we will not sell, rent or trade your information to other companies.
