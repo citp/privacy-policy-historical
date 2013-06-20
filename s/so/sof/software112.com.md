@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the software112.com privacy policy that was archived on 2012-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121014103122id_/http%3A//www.software112.com/policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the software112.com privacy policy that was archived on 2013-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130620151057id_/http%3A//www.software112.com/policy.php) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -89,7 +89,8 @@ These companies may use information (not including your name, address, email add
 
 The Company knows that your privacy is very important to you and we respect that.We welcome questions and comments regarding this policy, so feel free to contact us.
 
-At any moment, the user may exercise the rights of access, rectification, cancellation or opposition by sending an email with de reference SOFTWARE 112 (Dpto. LOPD) to, including a photocopy of their valid identification and indicating the right they wish to exercise.
+At any moment, the user may exercise the rights of access, rectification, cancellation or opposition by sending an email with de reference SOFTWARE 112 (Dpto. LOPD) to  
+, including a photocopy of their valid identification and indicating the right they wish to exercise.
 
   
 
