@@ -1,607 +1,820 @@
-<!--The following is the downloaded HTML source of the petflow.com privacy policy that was archived on 2012-12-26.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121226172240id_/http%3A//www.petflow.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the petflow.com privacy policy that was archived on 2013-06-20.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130620101448id_/http%3A//www.petflow.com/privacy) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html lang="en-US" xml:lang="en-US" xmlns="http://www.w3.org/1999/xhtml"><head>
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-<meta property="fb:page_id" content="275733681996">
-<title>PetFlow | Privacy Policy</title>
-<meta name="title" content="PetFlow Food For Life!">
-<link rel="shortcut icon" href="/favicon.ico" type="image/x-icon">
-<meta name="description" content="PetFlow is a new hassle free way to shop for pet food! We make it easy for you to set a delivery schedule, so you never have to shop for pet food again!">
-<!-- Begin Monetate tag v6. Place at start of document head. DO NOT ALTER. -->
-<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" async="" src="https://www.googlecommerce.com/trustedstores/gtmp_compiled.js"></script><script type="text/javascript" async="" src="https://sb.monetate.net/js/1/a-8c85895a/p/petflow.com/438999/g"></script><script type="text/javascript">
-var monetateT = new Date().getTime();
-(function() {
-    var p = document.location.protocol;
-    if (p == "http:" || p == "https:") {
-        var m = document.createElement('script'); m.type = 'text/javascript'; m.async = true; m.src = (p == "https:" ? "https://s" : "http://") + "b.monetate.net/js/1/a-8c85895a/p/petflow.com/" + Math.floor((monetateT + 3161690) / 3600000) + "/g";
-        var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(m, s);
-    }
-})();
+<!DOCTYPE html><html lang="en-US"><head>
+
+  <!-- Begin Monetate tag v6. Place at start of document head. DO NOT ALTER. -->
+  <script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" async="" src="https://sb.monetate.net/js/1/a-8c85895a/p/petflow.com/438999/g"></script><script type="text/javascript">
+  var monetateT = new Date().getTime();
+  (function() {
+      var p = document.location.protocol;
+      if (p == "http:" || p == "https:") {
+          var m = document.createElement('script'); m.type = 'text/javascript'; m.async = true; m.src = (p == "https:" ? "https://s" : "http://") + "b.monetate.net/js/1/a-8c85895a/p/petflow.com/" + Math.floor((monetateT + 3161690) / 3600000) + "/g";
+          var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(m, s);
+      }
+  })();
+  </script>
+  <!-- End Monetate tag. -->
+
+  <script type="text/javascript" src="//cdnjs.cloudflare.com/ajax/libs/jquery/1.8.3/jquery.min.js"></script>
+  <script type="text/javascript" src="//cdnjs.cloudflare.com/ajax/libs/handlebars.js/1.0.rc.2/handlebars.min.js"></script>
+  
+  <script type="text/javascript">
+
+var intervals = { }
+var events    = { }
+
+// we need to build a prototype function to handle currency
+// format
+// @TODO move to self contained
+String.prototype.money = function() {
+	return parseFloat(this).toFixed(2)
+}
+
+// Retrieve user summary data
+$.get('/payload?' + (new Date()).getTime(), function(payload) {
+
+	// define custome events to be fired on element loads
+	// $(window).bind('user-menu side-cart', function(event, name, value) {
+
+	events['user-menu'] = events['side-cart'] = function(event) {
+
+		// clear event check interval
+		clearInterval(intervals[event])
+
+		// determine jquery selector
+		selector = '.' + event
+
+		// if top
+		if (payload.fragments && (content = payload.fragments[event])) { 
+    	$(selector).html(content)
+    
+    } else {
+
+    	// for some reason we need to register helper in this context, as it
+    	// will not take in others
+			Handlebars.registerHelper('money', function(value) {
+		    return String(value).money()
+			});
+			  
+
+	    // parse handlebar template and place
+	    // into appropriate dom container
+
+	    template = Handlebars.compile($(selector + '-template').html())
+	    $(selector).html(content = template(payload))
+
+
+	    // finally lets create a fragment to speed up subsequent requests
+	    $.post('/fragment/' + event + '/create', {
+	    	user_id    : payload.user.id,
+	    	session_id : payload.user.session_id,
+	    	content    : content
+	    })
+   	}
+
+ 	}
+
+	// define custom event to fire 
+	//$(window).bind('alert', function(event) {
+	events.alert = function(event) { 
+		// clear event check interval
+		clearInterval(intervals[event])
+
+		if (payload.alerts) { 		
+		  template = Handlebars.compile($('script#user-alert-messages').html())
+		  $('div.messages').html(content = template({
+		    'alerts' : payload.alerts
+		  }))
+
+		  // after alerts have been shown toss em into the drink
+		  $.post('/alert/delete', {
+		    user_id    : payload.user.id,
+		    session_id : payload.user.session_id 
+		  });
+		
+		}
+	}
+
+	// we define a payload finished event to make sure clean up
+	// on payload occurs
+	//$(window).bind('payload-finished', function(event) {
+	events['payload-finished'] = function(event) { 
+		clearInterval(intervals[event])
+
+		$.get('/payload/finish')		
+	}
+
+}, 'json' )
+
+.fail(function()   { })
+.always(function() { })
+
+
+
+// Responsible for firing event once event type has
+// been bound; for right now, this is simply doing a
+// check on document events
+function fire_when_ready(event, lambda) {
+
+	//$(document).ready(function() { 
+		intervals[event] = setInterval(function() { 
+			//$(window).trigger(event)
+			//events[event](event)
+			events[event] && events[event](event)
+
+			// call lambda to do any additional work
+			lambda && lambda()
+		
+		}, 200)
+
+	//});
+}
+
+</script>  
+  <meta charset="UTF-8">
+  <script type="text/javascript">var NREUMQ=NREUMQ||[];NREUMQ.push(["mark","firstbyte",new Date().getTime()]);</script>
+
+  <title>Petflow | Privacy Policy
+</title>
+  <link rel="shortcut icon" href="/favicon.ico">
+      <meta name="description" content="We carry hundreds of quality pet food brands for dogs and cats!  No matter what food or treat you're looking for, we've got you covered!">
+  
+          
+    <link rel="stylesheet" type="text/css" href="//ajax.googleapis.com/ajax/libs/jqueryui/1.9.0/themes/base/jquery-ui.css">
+  
+  
+  <link href="/css/application_2ae283951db8a0bc2408d4951c999a96_asdf.css" media="all" rel="stylesheet" type="text/css">
+<link href="/css/pages/privacy_asdf.css" media="all" rel="stylesheet" type="text/css">
+
+<script src="https://bounceexchange.com/bounce/i.js?client_id=590" async=""></script></head>
+<body>
+  <div id="page-vars" data-rwbase="http://www.petflow.com/" data-cart-id="1161052"></div>
+    
+    
+    <div class="top-bar">
+  <div class="container">
+    <div class="contact">
+      <i class="icon-comment"></i> <strong><a href="http://www.petflow.com/support" title="" id="http:__www.petflow.com_support" class="" target="_blank">Click for help or call 1-888-316-7297</a></strong> (M-F, 9AM-8PM Eastern)
+    </div>
+    <div class="sub-menu user-menu" id="sub_menu_user"></div>
+    <div class="break"></div>
+  </div>
+</div>
+
+<script type="text/x-handlebars-template" id="user-top-bar-template" class="user-menu-template">
+
+
+<ul>
+  <li>
+    <i class="icon-shopping-cart"></i> <strong>
+    <a href="http://www.petflow.com/checkout" title="" id="_checkout" class="" >My Cart 
+      (<span class="cart-count">{{cart.count}}</span> items)</a></strong>
+  </li>      
+
+  {{#unless user.logged_in}}
+    <li><a href="http://www.petflow.com/user/login" title="" id="_user_login" class="" >Login</a></li>
+
+  {{else}}
+    <li><a href="http://www.petflow.com/" title="" id="bbbdb7c2ab" class="" >Home</a></li>
+    <li><a href="http://www.petflow.com/user/{{user.id}}/programs" title="" id="_user_{{user.id}}_programs" class="" >My Orders</a></li>
+    <li><a href="http://www.petflow.com/user/{{user.id}}/summary" title="" id="_user_{{user.id}}_summary" class="" >Account Info</a></li>
+    <li><a href="http://www.petflow.com/user/logout" title="" id="_user_logout" class="" >Log out</a></l>
+
+  {{/unless}}
+</ul>
+
+
 </script>
-<!-- End Monetate tag. -->
-<link rel="stylesheet" type="text/css" href="/xcss/page:privacy/global1.css">
-<link rel="stylesheet" type="text/css" href="/xcss/page:privacy/styles20.css">
-<link rel="stylesheet" type="text/css" href="/css/nav.css">
-<link rel="stylesheet" type="text/css" href="/xcss/page:privacy/sidebar4.css">
-<!--[if IE 7]>
-<link rel="stylesheet" type="text/css" href="/css/ie7_10.css"/>
-<![endif]-->
-<!--[if IE 8]>
-<link rel="stylesheet" type="text/css" href="/css/ie8_7.css"/>
-<![endif]-->
-<!--[if IE 9]>
-<link rel="stylesheet" type="text/css" href="/css/ie9_4.css"/>
-<![endif]-->
-<link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css?family=Open+Sans:700">
-<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.8.1/jquery.min.js" type="text/javascript"></script>
-<script src="/js/typewatch.js?1356542560" type="text/javascript"></script>
-<script src="/js/jquery.hints.js?1356542560" type="text/javascript"></script>
-<script src="/xjs/page:privacy/pf-init.js" type="text/javascript"></script>
-<script src="/js/pf-global8.js?1356542560" type="text/javascript" defer="true"></script>
-<!--
-Here’s to the crazy ones.
-The misfits.
-The rebels.
-The troublemakers.
-The round pegs in the square holes.
-The ones who see things differently.
-They’re not fond of rules.
-And they have no respect for the status quo.
-You can quote them, disagree with them, glorify or vilify them.
-About the only thing you can’t do is ignore them.
-Because they change things.
-They push the human race forward.
-And while some may see them as the crazy ones, we see genius.
-Because the people who are crazy enough to think they can change the world, are the ones who do.
-- Steve Jobs
- -->
-</head>
-<body id="top" class="not-logged-in page-privacy section-site">
-	
 
-<!--[if IE 7]>
-			<style type='text/css'>
-		
-		.new-search{
-			margin-top:0px !important;
-			padding-bottom:0px !important;
-		}
-		#search{
-			text-align:left !important;
-			padding-bottom:1px !important;
-			margin-top:2px !important;
-			position:relative;
-			margin-left:-30px;
-		}
-		.taf{
-			margin-top:-16px !important;
-		}
-		#font-size-switcher-header{
-			margin-top:-5px !important;
-		}
-		.search-btn{
-			margin-top:0px !important;
-		}
-		
-		</style>
-	<![endif]-->
-<!--[if IE 8]>
-	<style type='text/css'>
-	
-	#search-form{
-		padding-bottom:2px !important;
-	}
-	#search{
-		text-align:left !important;
-		margin-top:3px !important;
-		position:relative;
-	}
-	.input_hint{
-		margin-top:3px !important;
-		position:relative;
-	}
-	
-	</style>
-<![endif]-->
+<script type="text/javascript">
+// fill top bar content
+fire_when_ready('user-menu')
 
-<div id="shipping-pop-overlay" class="hide abs" style="background-color:black;opacity:0.7;z-index:1001;"></div>
-<div id="shipping-pop-wrapper" class="corner-8 hide abs sh-pop-box-shadow" style="width:450px;height:auto;background-color:white;z-index:1002;margin-top:80px;padding:8px;padding-bottom:25px;">
-    <div class="sh-pop-header">
-        <div class="sh-pop-close right rel" style="z-index:10000;">
-            <div id="sh-pop-close-link" class="left" style="z-index:10000;">Close and continue shopping</div>
-            <div id="sh-pop-close-button" class="left" style="z-index:10000;">
-                <img src="/images/upsell/skip.png" alt="Skip">
+</script>
+    <div class="overlay" data-type=""></div>
+
+        <div id="shipping_modal" class="corner-8 hide sh-pop-box-shadow">
+    <div class="shipping-wrapper">
+        <div class="close-wrapper">
+            <div class="close-link">Close and continue shopping</div>
+            <div class="close-btn">
+                <i class="icon-remove"></i>
             </div>
         </div>
         <div class="clear"></div>
-        <div class="sh-pop-free-shipping-title center" style="padding-top:20px;">
-            <img src="/images/shipping/FreeShippingPopTitle49.png" alt="FREE SHIPPING on all orders over $49+">
+        <div class="shipping-title">
+            <img src="/images/modals/free_shipping/FreeShippingPopTitle49.png" alt="FREE SHIPPING on all orders over $49+">
         </div>
-        <div class="sh-pop-middle" style="margin-left:24px;margin-top:2px;text-align:left !important;">
-            <div class="sh-pop-all-products" style="font-family:Tahoma,sans-serif;font-weight:bold;color:#ff8a00;font-size:15px;margin-bottom:-1px;text-align:left !important;">
+        <div class="shipping-middle">
+            <div class="products">
                 Good on ALL products!
             </div>
-            <div class="sh-pop-mid-bottom-text" style="text-align:left !important;">
+            <div class="fast-shipping">
                 Free FAST shipping on all orders over $49!
             </div>
-            <div class="sh-pop-mid-bottom-text" style="text-align:left !important;">
+            <div class="time-shipping">
                 2-3 day shipping across most of the country!
             </div>
         </div>
-        <div class="sh-pop-lower" style="margin-top:10px;margin-left:20px;">
-            <div class="left">
-                <div class="sh-pop-blue-box-wrapper corner-8" style="border:1px solid #b5d4ed;">
+        <div class="shipping-lower">
+            <div class="wrapper">
+                <div class="box-wrapper">
                     <table>
-                        <thead class="sh-pop-blue-box-headers" style="font-family:Tahoma,sans-serif;font-weight:bold;font-size:14px;color:#00468d;margin-top:6px;margin-left:12px;">
+                        <thead class="box-headers">
                             <tr>
-                                <td class="sh-pop-blue-box-pad-subtotal">SUB TOTAL</td>
-                                <td class="sh-pop-blue-box-pad-shipping">SHIPPING</td>
+                                <td class="subtotal">SUB TOTAL</td>
+                                <td class="shipping-text">SHIPPING</td>
                             </tr>
                         </thead>
-                        <tbody class="sh-pop-blue-box-content" style="font-family:Arial,sans-serif;font-weight:normal;font-size:12.5px;">
-                            <tr><td style="height:1px;width:101%;border-bottom:1px solid #b5d4ed;opacity:0.5;"></td><td style="height:1px;width:101%;border-bottom:1px solid #b5d4ed;opacity:0.5;"></td></tr>
-                            <tr style="border-bottom:1px solid #b5d4ed;">
-                                <td style="width:120px;">
-                                    <div class="left" style="margin-left:10px;margin-top:3px;margin-bottom:2px;">
+                        <tbody class="box-content">
+                            <tr>
+                                <td class="box-border"></td>
+                                <td class="box-border"></td>
+                            </tr>
+                            <tr class="mid-content">
+                                <td class="inner-mid-content">
+                                    <div class="over-49">
                                         OVER $49
                                     </div>
-                                    <div class="right" style="padding-right:10px;margin-top:5px;margin-bottom:2px;">
-                                        <img src="/images/header/arrow.png" alt="arrow">
+                                    <div class="arrow">
+                                        <img src="/images/modals/free_shipping/arrow.png" alt="arrow">
                                     </div>
                                 </td>
-                                <td style="margin-top:2px;margin-bottom:1px;">
-                                    <span class="sh-pop-free-text" style="color:#50c800;font-weight:bold;">FREE!</span>
+                                <td class="free-text-wrapper">
+                                    <span class="free-text">FREE!</span>
                                 </td>
                             </tr>
-                            <tr><td style="height:1px;width:101%;border-bottom:1px solid #b5d4ed;opacity:0.5;"></td><td style="height:1px;width:101%;border-bottom:1px solid #b5d4ed;opacity:0.5;"></td></tr>
                             <tr>
-                                <td style="width:120px;">
-                                    <div class="left" style="margin-left:10px;margin-top:3px;margin-bottom:3px;">
+                                <td class="lower-content">
+                                    <div class="under-49">
                                         UNDER $49
                                     </div>
-                                    <div class="right" style="padding-right:10px;margin-top:5px;margin-bottom:2px;">
-                                        <img src="/images/header/arrow.png" alt="arrow">
+                                    <div class="arrow2">
+                                        <img src="/images/modals/free_shipping/arrow.png" alt="arrow">
                                     </div>
                                 </td>
-                                <td style="margin-top:2px;margin-bottom:2px;">$4.95 flat rate</td>
+                                <td class="flat-rate">$4.95 flat rate</td>
                             </tr>
                         </tbody>
                     </table>
                 </div>
             </div>
-            <div class="sh-pop-fedex-logo right" style="margin-top:21px;margin-right:20px;">
-                <img src="/images/header/fedexlogo.png" alt="FedEx">
+            <div class="fedex-logo">
+                <img src="/images/modals/free_shipping/fedexlogo.png" alt="FedEx">
             </div>
         </div>
-        <div class="clear"></div>
-        <div class="sh-pop-footer center" style="margin-top:11px;">
-            <div class="sh-pop-footer-first" style="font-weight:bold;font-size:13px;">
+        <div class="break"></div>
+        <div class="shipping-footer">
+            <div class="footer-first">
                 Automatically applied at checkout, no special coupons required.
             </div>
-            <div class="sh-pop-last" style="color:#505050;font-size:11px;">
+            <div class="footer-last">
                 <div>Please note: We cannot ship to PO Boxes and international addresses.</div>
                 <div>Only valid within the continental US.</div>
             </div>
         </div>
     </div>
+</div>  
+    <div class="container main-box">
+
+        <div class="header">
+  <a href="/"><img src="/images/logo.png" alt="PetFlow.com" class="logo"></a>
+
+    <form action="http://www.petflow.com/explorer">
+    <input id="search_box" type="text" name="search" class="search" placeholder="Food, Treats, Toys, etc.">
+    <a href="http://www.petflow.com/" title="" id="http:__www.petflow.com_" class="search-btn"><i class="icon-search"></i> Search</a>
+  </form>
+
+  <img src="/images/free-shipping.png" class="free-shipping" alt="Free Shipping">
+</div>
+<div class="main-nav">
+    <div class="container">
+    <ul>
+      <li class="top-level">
+        <a href="http://www.petflow.com/explorer?f[]=species:dog&amp;f[]=category:food" title="" id="http:__www.petflow.com_explorer?f[]=species:dog&amp;f[]=category:food" class="top-level">Dog Food</a>
+        <div class="sub-menu">
+  <div class="col">
+    <h4>Top Categories</h4>
+    <ul>
+            <li><a href="http://www.petflow.com/explorer?f[]=category:dry+food&amp;f[]=species:dog" title="" id="_explorer?f[]=category:dry+food&amp;f[]=species:dog" class="">Dry Food</a></li>
+      <li><a href="http://www.petflow.com/explorer?f[]=category:canned+food&amp;f[]=species:dog" title="" id="_explorer?f[]=category:canned+food&amp;f[]=species:dog" class="">Canned Food</a></li>
+            <li><a href="http://www.petflow.com/explorer?f[]=category:supplements&amp;f[]=species:dog" title="" id="_explorer?f[]=category:supplements&amp;f[]=species:dog" class="">Supplements</a></li>
+            <li><a href="http://www.petflow.com/explorer?f[]=lifestyle:prescription&amp;f[]=species:dog" title="" id="_explorer?f[]=lifestyle:prescription&amp;f[]=species:dog" class="">Prescription</a></li>
+    </ul>
+  </div>
+  <div class="col">
+    <h4>Top Brands</h4>
+    <ul>
+            <li><a href="http://www.petflow.com/explorer?f[]=brand:blue+buffalo&amp;f[]=category:food&amp;f[]=species:dog" title="" id="_explorer?f[]=brand:blue+buffalo&amp;f[]=category:food&amp;f[]=species:dog" class="">Blue Buffalo</a></li>
+      <li><a href="http://www.petflow.com/explorer?f[]=brand:merrick&amp;f[]=category:food&amp;f[]=species:dog" title="" id="_explorer?f[]=brand:merrick&amp;f[]=category:food&amp;f[]=species:dog" class="">Merrick</a></li>
+      <li><a href="http://www.petflow.com/explorer?f[]=brand:taste+of+the+wild&amp;f[]=category:food&amp;f[]=species:dog" title="" id="_explorer?f[]=brand:taste+of+the+wild&amp;f[]=category:food&amp;f[]=species:dog" class="">Taste Of The Wild</a></li>
+      <li><a href="http://www.petflow.com/explorer?f[]=brand:wellness&amp;f[]=category:food&amp;f[]=species:dog" title="" id="_explorer?f[]=brand:wellness&amp;f[]=category:food&amp;f[]=species:dog" class="">Wellness</a></li>
+      <li><a href="http://www.petflow.com/explorer?f[]=brand:natural+balance&amp;f[]=category:food&amp;f[]=species:dog" title="" id="_explorer?f[]=brand:natural+balance&amp;f[]=category:food&amp;f[]=species:dog" class="">Natural Balance</a></li>
+      <li><a href="http://www.petflow.com/explorer?f[]=brand:fromm&amp;f[]=category:food&amp;f[]=species:dog" title="" id="_explorer?f[]=brand:fromm&amp;f[]=category:food&amp;f[]=species:dog" class="">Fromm</a></li>
+      <li><a href="http://www.petflow.com/explorer?f[]=brand:royal+canin+veterinary+diet&amp;f[]=category:food&amp;f[]=species:dog" title="" id="_explorer?f[]=brand:royal+canin+veterinary+diet&amp;f[]=category:food&amp;f[]=species:dog" class="">Royal Canin Veterinary Diet</a></li>
+      <li><a href="http://www.petflow.com/explorer?f[]=brand:canidae&amp;f[]=category:food&amp;f[]=species:dog" title="" id="_explorer?f[]=brand:canidae&amp;f[]=category:food&amp;f[]=species:dog" class="">Canidae</a></li>
+    </ul>
+  </div>
+  <div class="col last-col">
+    <h4>Featured Product</h4>
+    <div class="sub-menu-ad">
+      <a href="/product/petflow/petflow-natural-bully-stick-6-dog-chew">
+        <img src="/images/filters/dog_food.jpg">
+      </a>
+    </div>
+    <a href="http://www.petflow.com/explorer?f[]=species:dog&amp;f[]=category:food" title="" id="http:__www.petflow.com_explorer?f[]=species:dog&amp;f[]=category:food" class="shop-btn">Shop all dog food<i class="icon-caret-right"></i></a>
+  </div>
+</div>      </li>
+      <li class="top-level">
+        <a href="http://www.petflow.com/explorer?f[]=species:cat&amp;f[]=category:food" title="" id="http:__www.petflow.com_explorer?f[]=species:cat&amp;f[]=category:food" class="top-level">Cat Food</a>
+        <div class="sub-menu">
+  <div class="col">
+    <h4>Top Categories</h4>
+    <ul>
+            <li><a href="http://www.petflow.com/explorer?f[]=category:dry+food&amp;f[]=species:cat" title="" id="_explorer?f[]=category:dry+food&amp;f[]=species:cat" class="">Dry Food</a></li>
+      <li><a href="http://www.petflow.com/explorer?f[]=category:canned+food&amp;f[]=species:cat" title="" id="_explorer?f[]=category:canned+food&amp;f[]=species:cat" class="">Canned Food</a></li>
+      <li><a href="http://www.petflow.com/explorer?f[]=category:vitamins&amp;f[]=species:cat" title="" id="_explorer?f[]=category:vitamins&amp;f[]=species:cat" class="">Vitamins</a></li>
+      <li><a href="http://www.petflow.com/explorer?f[]=category:supplements&amp;f[]=species:cat" title="" id="_explorer?f[]=category:supplements&amp;f[]=species:cat" class="">Supplements</a></li>
+      <li><a href="http://www.petflow.com/explorer?f[]=lifestyle:prescription&amp;f[]=species:cat" title="" id="_explorer?f[]=lifestyle:prescription&amp;f[]=species:cat" class="">Prescription</a></li>
+    </ul>
+  </div>
+  <div class="col">
+    <h4>Top Brands</h4>
+    <ul>
+            <li><a href="http://www.petflow.com/explorer?f[]=brand:wellness&amp;f[]=category:food&amp;f[]=species:cat" title="" id="_explorer?f[]=brand:wellness&amp;f[]=category:food&amp;f[]=species:cat" class="">Wellness</a></li>
+      <li><a href="http://www.petflow.com/explorer?f[]=brand:royal+canin+veterinary+diet&amp;f[]=category:food&amp;f[]=species:cat" title="" id="_explorer?f[]=brand:royal+canin+veterinary+diet&amp;f[]=category:food&amp;f[]=species:cat" class="">Royal Canin Veterinary Diet</a></li>
+      <li><a href="http://www.petflow.com/explorer?f[]=brand:fancy+feast&amp;f[]=category:food&amp;f[]=species:cat" title="" id="_explorer?f[]=brand:fancy+feast&amp;f[]=category:food&amp;f[]=species:cat" class="">Fancy Feast</a></li>
+      <li><a href="http://www.petflow.com/explorer?f[]=brand:blue+buffalo&amp;f[]=category:food&amp;f[]=species:cat" title="" id="_explorer?f[]=brand:blue+buffalo&amp;f[]=category:food&amp;f[]=species:cat" class="">Blue Buffalo</a></li>
+      <li><a href="http://www.petflow.com/explorer?f[]=brand:evo&amp;f[]=category:food&amp;f[]=species:cat" title="" id="_explorer?f[]=brand:evo&amp;f[]=category:food&amp;f[]=species:cat" class="">EVO</a></li>
+      <li><a href="http://www.petflow.com/explorer?f[]=brand:friskies&amp;f[]=category:food&amp;f[]=species:cat" title="" id="_explorer?f[]=brand:friskies&amp;f[]=category:food&amp;f[]=species:cat" class="">Friskies</a></li>
+      <li><a href="http://www.petflow.com/explorer?f[]=brand:temptations&amp;f[]=category:food&amp;f[]=species:cat" title="" id="_explorer?f[]=brand:temptations&amp;f[]=category:food&amp;f[]=species:cat" class="">Temptations</a></li>
+      <li><a href="http://www.petflow.com/explorer?f[]=brand:weruva&amp;f[]=category:food&amp;f[]=species:cat" title="" id="_explorer?f[]=brand:weruva&amp;f[]=category:food&amp;f[]=species:cat" class="">Weruva</a></li>
+    </ul>
+  </div>
+  <div class="col last-col">
+    <h4>Featured Product</h4>
+    <div class="sub-menu-ad">
+      <a href="/spoiled">
+        <img src="//d4fxuz90idxmu.cloudfront.net/images/default/products/medium/32971-2.jpg">
+      </a>
+    </div>
+    <a href="http://www.petflow.com/explorer?f[]=species:cat&amp;f[]=category:food" title="" id="http:__www.petflow.com_explorer?f[]=species:cat&amp;f[]=category:food" class="shop-btn">Shop all cat food<i class="icon-caret-right"></i></a>
+  </div>
+</div>      </li>
+      <li class="top-level">
+        <a href="http://www.petflow.com/explorer?f[]=species:dog&amp;f[]=category:treats" title="" id="http:__www.petflow.com_explorer?f[]=species:dog&amp;f[]=category:treats" class="top-level">Dog Treats</a>
+        <div class="sub-menu">
+  <div class="col">
+    <h4>Top Categories</h4>
+    <ul>
+            <li><a href="http://www.petflow.com/explorer?search=dental&amp;f[]=category:treats&amp;f[]=species:dog" title="" id="_explorer?search=dental&amp;f[]=category:treats&amp;f[]=species:dog" class="">Dental</a></li>
+      <li><a href="http://www.petflow.com/explorer?search=jerky&amp;f[]=category:treats&amp;f[]=species:dog" title="" id="_explorer?search=jerky&amp;f[]=category:treats&amp;f[]=species:dog" class="">Jerky</a></li>
+      <li><a href="http://www.petflow.com/explorer?f[]=conditions:crunchy&amp;f[]=category:treats&amp;f[]=species:dog" title="" id="_explorer?f[]=conditions:crunchy&amp;f[]=category:treats&amp;f[]=species:dog" class="">Crunchy</a></li>
+      <li><a href="http://www.petflow.com/explorer?search=freeze+dried&amp;f[]=category:treats&amp;f[]=species:dog" title="" id="_explorer?search=freeze+dried&amp;f[]=category:treats&amp;f[]=species:dog" class="">Freeze Dried</a></li>
+      <li><a href="http://www.petflow.com/explorer?search=soft+%26+chewy&amp;f[]=category:treats&amp;f[]=species:dog" title="" id="_explorer?search=soft+%26+chewy&amp;f[]=category:treats&amp;f[]=species:dog" class="">Soft &amp; Chewy</a></li>
+    </ul>
+  </div>
+  <div class="col">
+    <h4>Top Brands</h4>
+    <ul>
+            <li><a href="http://www.petflow.com/explorer?f[]=brand:merrick&amp;f[]=category:treats&amp;f[]=species:dog" title="" id="_explorer?f[]=brand:merrick&amp;f[]=category:treats&amp;f[]=species:dog" class="">Merrick</a></li>
+      <li><a href="http://www.petflow.com/explorer?f[]=brand:blue+buffalo&amp;f[]=category:treats&amp;f[]=species:dog" title="" id="_explorer?f[]=brand:blue+buffalo&amp;f[]=category:treats&amp;f[]=species:dog" class="">Blue Buffalo</a></li>
+      <li><a href="http://www.petflow.com/explorer?f[]=brand:cadet&amp;f[]=category:treats&amp;f[]=species:dog" title="" id="_explorer?f[]=brand:cadet&amp;f[]=category:treats&amp;f[]=species:dog" class="">Cadet</a></li>
+      <li><a href="http://www.petflow.com/explorer?f[]=brand:dogswell&amp;f[]=category:treats&amp;f[]=species:dog" title="" id="_explorer?f[]=brand:dogswell&amp;f[]=category:treats&amp;f[]=species:dog" class="">Dogswell</a></li>
+      <li><a href="http://www.petflow.com/explorer?f[]=brand:natural+balance&amp;f[]=category:treats&amp;f[]=species:dog" title="" id="_explorer?f[]=brand:natural+balance&amp;f[]=category:treats&amp;f[]=species:dog" class="">Natural Balance</a></li>
+      <li><a href="http://www.petflow.com/explorer?f[]=brand:zukes&amp;f[]=category:treats&amp;f[]=species:dog" title="" id="_explorer?f[]=brand:zukes&amp;f[]=category:treats&amp;f[]=species:dog" class="">Zukes</a></li>
+      <li><a href="http://www.petflow.com/explorer?f[]=brand:pet+time&amp;f[]=category:treats&amp;f[]=species:dog" title="" id="_explorer?f[]=brand:pet+time&amp;f[]=category:treats&amp;f[]=species:dog" class="">Pet Time</a></li>
+      <li><a href="http://www.petflow.com/explorer?f[]=brand:greenies&amp;f[]=category:treats&amp;f[]=species:dog" title="" id="_explorer?f[]=brand:greenies&amp;f[]=category:treats&amp;f[]=species:dog" class="">Greenies</a></li>
+    </ul>
+  </div>
+  <div class="col last-col">
+    <h4>Featured Product</h4>
+    <div class="sub-menu-ad">
+      <a href="/explorer/brand/thundershirt">
+        <img src="/images/filters/dog_treats.jpg">
+      </a>
+    </div>
+    <a href="http://www.petflow.com/explorer?f[]=species:dog&amp;f[]=category:treats" title="" id="http:__www.petflow.com_explorer?f[]=species:dog&amp;f[]=category:treats" class="shop-btn">Shop all dog treats <i class="icon-caret-right"></i></a>
+  </div>
+</div>      </li>
+      <li class="top-level">
+        <a href="http://www.petflow.com/explorer?f[]=species:cat&amp;f[]=category:treats" title="" id="http:__www.petflow.com_explorer?f[]=species:cat&amp;f[]=category:treats" class="top-level">Cat Treats</a>
+        <div class="sub-menu">
+  <div class="col">
+    <h4>Top Categories</h4>
+    <ul>
+            <li><a href="http://www.petflow.com/explorer?search=catnip&amp;f[]=category:catnip&amp;f[]=species:cat" title="" id="_explorer?search=catnip&amp;f[]=category:Catnip&amp;f[]=species:cat" class="">Catnip</a></li>
+      <li><a href="http://www.petflow.com/explorer?search=crunchy&amp;f[]=category:treats&amp;f[]=species:cat" title="" id="_explorer?search=crunchy&amp;f[]=category:treats&amp;f[]=species:cat" class="">Crunchy</a></li>
+      <li><a href="http://www.petflow.com/explorer?search=dental&amp;f[]=category:treats&amp;f[]=species:cat" title="" id="_explorer?search=dental&amp;f[]=category:treats&amp;f[]=species:cat" class="">Dental</a></li>
+      <li><a href="http://www.petflow.com/explorer?search=freeze+dried&amp;f[]=category:treats&amp;f[]=species:cat" title="" id="_explorer?search=freeze+dried&amp;f[]=category:treats&amp;f[]=species:cat" class="">Freeze Dried</a></li>
+      <li><a href="http://www.petflow.com/explorer?search=jerky&amp;f[]=category:treats&amp;f[]=species:cat" title="" id="_explorer?search=jerky&amp;f[]=category:treats&amp;f[]=species:cat" class="">Jerky</a></li>
+      <li><a href="http://www.petflow.com/explorer?search=soft+%26+chewy&amp;f[]=category:treats&amp;f[]=species:cat" title="" id="_explorer?search=soft+%26+chewy&amp;f[]=category:treats&amp;f[]=species:cat" class="">Soft &amp; Chewy</a></li>
+    </ul>
+  </div>
+  <div class="col">
+    <h4>Top Brands</h4>
+    <ul>
+            <li><a href="http://www.petflow.com/explorer?f[]=brand:temptations&amp;f[]=category:treats&amp;f[]=species:cat" title="" id="_explorer?f[]=brand:temptations&amp;f[]=category:treats&amp;f[]=species:cat" class="">Temptations</a></li>
+      <li><a href="http://www.petflow.com/explorer?f[]=brand:evo&amp;f[]=category:treats&amp;f[]=species:cat" title="" id="_explorer?f[]=brand:evo&amp;f[]=category:treats&amp;f[]=species:cat" class="">EVO</a></li>
+      <li><a href="http://www.petflow.com/explorer?f[]=brand:greenies&amp;f[]=category:treats&amp;f[]=species:cat" title="" id="_explorer?f[]=brand:greenies&amp;f[]=category:treats&amp;f[]=species:cat" class="">Greenies</a></li>
+      <li><a href="http://www.petflow.com/explorer?f[]=brand:catswell&amp;f[]=category:treats&amp;f[]=species:cat" title="" id="_explorer?f[]=brand:catswell&amp;f[]=category:treats&amp;f[]=species:cat" class="">Catswell</a></li>
+      <li><a href="http://www.petflow.com/explorer?f[]=brand:pill+pockets&amp;f[]=category:treats&amp;f[]=species:cat" title="" id="_explorer?f[]=brand:pill+pockets&amp;f[]=category:treats&amp;f[]=species:cat" class="">Pill Pockets</a></li>
+      <li><a href="http://www.petflow.com/explorer?f[]=brand:zukes&amp;f[]=category:treats&amp;f[]=species:cat" title="" id="_explorer?f[]=brand:zukes&amp;f[]=category:treats&amp;f[]=species:cat" class="">Zukes</a></li>
+      <li><a href="http://www.petflow.com/explorer?f[]=brand:wellness&amp;f[]=category:treats&amp;f[]=species:cat" title="" id="_explorer?f[]=brand:wellness&amp;f[]=category:treats&amp;f[]=species:cat" class="">Wellness</a></li>
+      <li><a href="http://www.petflow.com/explorer?f[]=brand:petite+cuisine&amp;f[]=category:treats&amp;f[]=species:cat" title="" id="_explorer?f[]=brand:petite+cuisine&amp;f[]=category:treats&amp;f[]=species:cat" class="">Petite Cuisine</a></li>
+    </ul>
+  </div>
+  <div class="col last-col">
+    <h4>Featured Product</h4>
+    <div class="sub-menu-ad">
+      <a href="/product/temptations/tasty-chicken-flavor">
+        <img src="/images/filters/cat_treats_2.jpg">
+      </a>
+    </div>
+    <a href="http://www.petflow.com/explorer?f[]=species:cat&amp;f[]=category:treats" title="" id="http:__www.petflow.com_explorer?f[]=species:cat&amp;f[]=category:treats" class="shop-btn">Shop all cat treats<i class="icon-caret-right"></i></a>
+  </div>
+</div>      </li>
+      <li class="top-level">
+        <a href="http://www.petflow.com/explorer?f[]=category:litter" title="" id="http:__www.petflow.com_explorer?f[]=category:litter" class="top-level">Litter</a>
+        <div class="sub-menu">
+  <div class="col">
+    <h4>Top Categories</h4>
+    <ul>
+      <li><a href="http://www.petflow.com/explorer?search=clumping&amp;f[]=category:litter&amp;f[]=species:cat" title="" id="http:__www.petflow.com_explorer?search=clumping&amp;f[]=category:litter&amp;f[]=species:cat" class="">Clumping</a></li>
+            <li><a href="http://www.petflow.com/explorer?search=biodegradable&amp;f[]=category:litter&amp;f[]=species:cat" title="" id="http:__www.petflow.com_explorer?search=biodegradable&amp;f[]=category:litter&amp;f[]=species:cat" class="">Biodegradable</a></li>
+            <li><a href="http://www.petflow.com/explorer?search=liners" title="" id="http:__www.petflow.com_explorer?search=liners" class="">Liners</a></li>
+      <li><a href="http://www.petflow.com/explorer?search=multiple+cats&amp;f[]=category:litter&amp;f[]=species:cat" title="" id="http:__www.petflow.com_explorer?search=multiple+cats&amp;f[]=category:litter&amp;f[]=species:cat" class="">Multiple Cats</a></li>
+      <li><a href="http://www.petflow.com/explorer?f[]=conditions:non-clumping&amp;f[]=category:litter&amp;f[]=species:cat" title="" id="http:__www.petflow.com_explorer?f[]=conditions:non-clumping&amp;f[]=category:litter&amp;f[]=species:cat" class="">Non-Clumping</a></li>
+      <li><a href="http://www.petflow.com/explorer?search=scented&amp;f[]=category:litter&amp;f[]=species:cat" title="" id="http:__www.petflow.com_explorer?search=scented&amp;f[]=category:litter&amp;f[]=species:cat" class="">Scented</a></li>
+      <li><a href="http://www.petflow.com/explorer?search=unscented&amp;f[]=category:litter&amp;f[]=species:cat" title="" id="http:__www.petflow.com_explorer?search=unscented&amp;f[]=category:litter&amp;f[]=species:cat" class="">Unscented</a></li>
+    </ul>
+  </div>
+  <div class="col">
+    <h4>Top Brands</h4>
+    <ul>
+      <li><a href="http://www.petflow.com/explorer?f[]=brand:world%27s+best&amp;f[]=category:litter" title="" id="http:__www.petflow.com_explorer?f[]=brand:world%27s+best&amp;f[]=category:litter" class="">World's Best</a></li>
+      <li><a href="http://www.petflow.com/explorer?f[]=brand:tidy+cats&amp;f[]=category:litter" title="" id="http:__www.petflow.com_explorer?f[]=brand:tidy+cats&amp;f[]=category:litter" class="">Tidy Cats</a></li>
+      <li><a href="http://www.petflow.com/explorer?f[]=brand:fresh+step&amp;f[]=category:litter" title="" id="http:__www.petflow.com_explorer?f[]=brand:fresh+step&amp;f[]=category:litter" class="">Fresh Step</a></li>
+      <li><a href="http://www.petflow.com/explorer?f[]=brand:dr.+elsey%27s&amp;f[]=category:litter" title="" id="http:__www.petflow.com_explorer?f[]=brand:dr.+elsey%27s&amp;f[]=category:litter" class="">Dr. Elsey's</a></li>
+      <li><a href="http://www.petflow.com/explorer?f[]=brand:arm+%26+hammer&amp;f[]=category:litter" title="" id="http:__www.petflow.com_explorer?f[]=brand:arm+%26+hammer&amp;f[]=category:litter" class="">Arm &amp; Hammer</a></li>
+      <li><a href="http://www.petflow.com/explorer?f[]=brand:feline+pine&amp;f[]=category:litter" title="" id="http:__www.petflow.com_explorer?f[]=brand:feline+pine&amp;f[]=category:litter" class="">Feline Pine</a></li>
+      <li><a href="http://www.petflow.com/explorer?f[]=brand:swheat+scoop&amp;f[]=category:litter" title="" id="http:__www.petflow.com_explorer?f[]=brand:swheat+scoop&amp;f[]=category:litter" class="">Swheat Scoop</a></li>
+      <li><a href="http://www.petflow.com/explorer?f[]=brand:ever+clean&amp;f[]=category:litter" title="" id="http:__www.petflow.com_explorer?f[]=brand:ever+clean&amp;f[]=category:litter" class="">Ever Clean</a></li>
+    </ul>
+  </div>
+  <div class="col last-col">
+    <h4>Featured Product</h4>
+    <div class="sub-menu-ad">
+      <a href="/explorer?search=Blue+Buffalo+Naturally+Fresh+Clumping+Litter">
+        <img src="/images/filters/litter.jpg">
+      </a>
+    </div>
+    <a href="http://www.petflow.com/explorer?f[]=category:litter" title="" id="http:__www.petflow.com_explorer?f[]=category:litter" class="shop-btn">Shop for all litter <i class="icon-caret-right"></i></a>
+  </div>
+</div>      </li>
+      <li class="top-level sub-menu-left">
+        <a href="http://www.petflow.com/explorer?f[]=category:toys" title="" id="http:__www.petflow.com_explorer?f[]=category:toys" class="top-level">Toys</a>
+        <div class="sub-menu">
+  <div class="col">
+    <h4>Top Categories</h4>
+    <ul>
+      <li><a href="http://www.petflow.com/explorer?f[]=species:dog&amp;f[]=category:toys" title="" id="http:__www.petflow.com_explorer?f[]=species:dog&amp;f[]=category:toys" class="">Dog Toys</a></li>
+      <li><a href="http://www.petflow.com/explorer?f[]=species:cat&amp;f[]=category:toys" title="" id="http:__www.petflow.com_explorer?f[]=species:cat&amp;f[]=category:toys" class="">Cat Toys</a></li>
+    </ul>
+  </div>
+  <div class="col">
+    <h4>Top Brands</h4>
+    <ul>
+            <li><a href="http://www.petflow.com/explorer?f[]=brand:multipet&amp;f[]=category:toys" title="" id="_explorer?f[]=brand:multipet&amp;f[]=category:toys" class="">MultiPet</a></li>
+      <li><a href="http://www.petflow.com/explorer?f[]=brand:kong&amp;f[]=category:toys" title="" id="_explorer?f[]=brand:kong&amp;f[]=category:toys" class="">Kong</a></li>
+      <li><a href="http://www.petflow.com/explorer?f[]=brand:ethical+pet&amp;f[]=category:toys" title="" id="_explorer?f[]=brand:ethical+pet&amp;f[]=category:toys" class="">Ethical Pet</a></li>
+      <li><a href="http://www.petflow.com/explorer?f[]=brand:nylabone&amp;f[]=category:toys" title="" id="_explorer?f[]=brand:nylabone&amp;f[]=category:toys" class="">Nylabone</a></li>
+      <li><a href="http://www.petflow.com/explorer?f[]=brand:frolicat&amp;f[]=category:toys" title="" id="_explorer?f[]=brand:frolicat&amp;f[]=category:toys" class="">FroliCat</a></li>
+      <li><a href="http://www.petflow.com/explorer?f[]=brand:hugglehounds&amp;f[]=category:toys" title="" id="_explorer?f[]=brand:hugglehounds&amp;f[]=category:toys" class="">HuggleHounds</a></li>
+      <li><a href="http://www.petflow.com/explorer?f[]=brand:vip+products&amp;f[]=category:toys" title="" id="_explorer?f[]=brand:vip+products&amp;f[]=category:toys" class="">VIP Products</a></li>
+      <li><a href="http://www.petflow.com/explorer?f[]=brand:jw+pet&amp;f[]=category:toys" title="" id="_explorer?f[]=brand:jw+pet&amp;f[]=category:toys" class="">JW Pet</a></li>
+    </ul>
+  </div>
+  <div class="col last-col">
+    <h4>Featured Product</h4>
+    <div class="sub-menu-ad">
+      <a href="/product/accessories/ethical-pet-single-beam-laser-pet-toy">
+        <img src="/images/filters/toys.jpg">
+      </a>
+    </div>
+    <a href="http://www.petflow.com/explorer?f[]=category:toys" title="" id="http:__www.petflow.com_explorer?f[]=category:toys" class="shop-btn">Shop for all toys <i class="icon-caret-right"></i></a>
+  </div>
+</div>      </li>
+      <li class="top-level sub-menu-left">
+        <a href="http://www.petflow.com/explorer?f[]=category:accessories" title="" id="http:__www.petflow.com_explorer?f[]=category:accessories" class="top-level">Accessories</a>
+        <div class="sub-menu">
+  <div class="col">
+    <h4>Dogs</h4>
+    <ul>
+                  <li><a href="http://www.petflow.com/explorer?f[]=category:beds&amp;f[]=species:dog" title="" id="_explorer?f[]=category:beds&amp;f[]=species:dog">Beds</a></li>
+      <li><a href="http://www.petflow.com/explorer?f[]=category:training+pads&amp;f[]=species:dog" title="" id="_explorer?f[]=category:training+pads&amp;f[]=species:dog">Training Pads</a></li>
+            <li><a href="http://www.petflow.com/explorer?f[]=category:bowls&amp;f[]=species:dog" title="" id="_explorer?f[]=category:bowls&amp;f[]=species:dog">Bowls</a></li>
+      <li><a href="http://www.petflow.com/explorer?search=collars&amp;f[]=species:dog" title="" id="_explorer?search=collars&amp;f[]=category:accessories&amp;f[]=species:dog">Collars</a></li>
+                  <li><a href="http://www.petflow.com/explorer?f[]=category:safety&amp;f[]=species:dog" title="" id="_explorer?f[]=category:safety&amp;f[]=species:dog">Safety</a></li>
+            <li><a href="http://www.petflow.com/explorer?f[]=category:placemats&amp;f[]=species:dog" title="" id="_explorer?f[]=category:placemats&amp;f[]=species:dog">Placemats</a></li>
+            <li><a href="http://www.petflow.com/explorer?f[]=category:mugs&amp;f[]=species:dog" title="" id="_explorer?f[]=category:mugs&amp;f[]=species:dog">Mugs</a></li>
+            <li><a href="http://www.petflow.com/explorer?f[]=category:apparel&amp;f[]=species:dog" title="" id="_explorer?f[]=category:apparel&amp;f[]=species:dog">Apparel</a></li>
+            <li><a href="http://www.petflow.com/explorer?f[]=category:waste+disposal&amp;f[]=species:dog" title="" id="_explorer?f[]=category:waste+disposal&amp;f[]=species:dog">Waste Disposal</a></li>
+            <li><a href="http://www.petflow.com/explorer?f[]=category:jewelry&amp;f[]=species:dog" title="" id="_explorer?f[]=category:jewelry&amp;f[]=species:dog">Jewelry</a></li>
+      <li><a href="http://www.petflow.com/explorer?f[]=category:carriers&amp;f[]=species:dog" title="" id="_explorer?f[]=category:carriers&amp;f[]=species:dog">Carriers</a></li>
+      <li><a href="http://www.petflow.com/explorer?search=grooming&amp;f[]=category:accessories&amp;f[]=species:dog" title="" id="_explorer?search=grooming&amp;f[]=category:accessories&amp;f[]=species:dog">Grooming</a></li>
+    </ul>
+  </div>
+  <div class="col">
+    <h4>Cats</h4>
+    <ul>
+            <li><a href="http://www.petflow.com/explorer?search=grooming&amp;f[]=category:accessories&amp;f[]=species:cat" title="" id="_explorer?search=grooming&amp;f[]=category:accessories&amp;f[]=species:cat" class="">Grooming</a></li>
+            <li><a href="http://www.petflow.com/explorer?f[]=category:catnip&amp;f[]=species:cat" title="" id="_explorer?f[]=category:catnip&amp;f[]=species:cat" class="">Catnip</a></li>
+                  <li><a href="http://www.petflow.com/explorer?f[]=category:mugs&amp;f[]=species:cat" title="" id="_explorer?f[]=category:mugs&amp;f[]=species:cat" class="">Mugs</a></li>
+                  <li><a href="http://www.petflow.com/explorer?f[]=category:litter+boxes" title="" id="_explorer?f[]=category:litter+boxes" class="">Litter Boxes</a></li>
+          </ul>
+  </div>
+  <div class="col last-col">
+    <h4>Featured Product</h4>
+    <div class="sub-menu-ad">
+      <a href="/explorer/brand/the-mountain">
+        <img src="/images/filters/accessories.jpg">
+      </a>
+    </div>
+    <a href="http://www.petflow.com/explorer?f[]=category:accessories" title="" id="http:__www.petflow.com_explorer?f[]=category:accessories" class="shop-btn">Shop for accessories<i class="icon-caret-right"></i></a>
+  </div>
+</div>      </li>
+      <li class="top-level sub-menu-left">
+        <a href="http://www.petflow.com/explorer?f[]=deals:specials" title="" id="http:__www.petflow.com_explorer?f[]=deals:specials" class="top-level"><i class="icon-star"></i>Specials<i class="icon-star"></i></a>
+        <div class="sub-menu sub-menu-specials">
+  <div class="col">
+    <h4>Top Categories</h4>
+    <ul>
+                  <li><a href="http://www.petflow.com/explorer?f[]=deals:specials&amp;f[]=species:dog" title="" id="_explorer?f[]=deals:specials&amp;f[]=species:dog" class="">Dog Blowouts</a></li>
+            <li><a href="http://www.petflow.com/explorer?f[]=deals:specials&amp;f[]=species:cat" title="" id="_explorer?f[]=deals:specials&amp;f[]=species:cat" class="">Cat Blowouts</a></li>
+    </ul>
+  </div>
+</div>      </li>
+      <li class="top-level sub-menu-left spoiled-tab">
+        <a href="http://www.petflow.com/spoiled" title="" id="http:__www.petflow.com_spoiled" class="top-level" target="_blank"><i class="icon-heart"></i> Spoil 'Em <i class="icon-heart"></i></a>
+              </li>
+    </ul>
+    <div class="break"></div>
+  </div>
+</div>
+
+<div class="messages">
+  </div>
+
+<script type="text/x-handlebars-template" id="user-alert-messages">
+
+
+<div class="message bs" >
+  {{#each alerts}}
+  <div class="alert alert-{{this.type}}">
+    <button type="button" class="close" data-dismiss="alert">&times;</button>
+    <i class="icon-bullhorn"></i>
+    &nbsp; {{{this.message}}}
+  </div>
+  {{/each}}
 </div>
 
 
-<div align="center">
-	<input type="hidden" id="is_iphone" value="0">
-	<input type="hidden" id="is_ipad" value="0">
-	<div id="loginBar-wrapper">
-	<div align="center">
-	<div id="loginBar">
-		<div class="left">
-													<img class="header-chat-bubble left" src="/images/header/chatbubble.png" alt="chat">
-						<div class="chat-wrapper left">
-							<a href="/support" style="font-size:14px;">Click for help or call 1-888-316-7297<span style="font-size:12px;"> (M-F, 9AM-8PM Eastern)</span></a>
-						</div>
-						<div class="clear"></div>
-									</div>
-		<div class="right">
-							<img class="header-shopping-icon left" src="/images/header/cart.png" alt="cart">
-	    		<a class="cart left" href="https://www.petflow.com/checkout">View Shopping Cart</a>
-				&nbsp;
-				|&nbsp;<a id="login-open" href="/user/login" style="margin-left:4px;">Existing Member</a>
-				<a id="login-close" href="#" class="hide">X Close Login Panel</a>
-					</div>
-	</div>
-	<div class="clear"></div>
-	</div>
+</script>
+
+<script type="text/javascript" language="javascript">
+  
+// fire alerts event when ready/bound
+fire_when_ready('alert')
+
+</script>
+        
+              <div class="main-content">
+                <div class="privacy">
+    <div class="left">
+        <h1>Privacy Policy</h1>
+        <br>
+        <ul class="custom-list">
+            <li><a class="scroll" href="#privacy-policy">Privacy Policy</a></li>
+            <li><a class="scroll" href="#privacy-information">How Does Petflow Gather and Use Information?</a></li>
+            <li><a class="scroll" href="#privacy-security">What Security Procedures Does Petflow Use To Protect Personal Information?</a></li>
+            <li><a class="scroll" href="#privacy-collection">Will Petflow Disclose The Information It Collects To Outside Parties?</a></li>
+            <li><a class="scroll" href="#privacy-links">External Links.</a></li>
+            <li><a class="scroll" href="#privacy-children">Collection Of Information From Children.</a></li>
+            <li><a class="scroll" href="#privacy-usa">Consent To Processing In The United States.</a></li>
+            <li><a class="scroll" href="#privacy-alerts">Modification And Notification Of Changes.</a></li>
+            <li><a class="scroll" href="#privacy-contact">How to Contact Us.</a></li>
+        </ul>
+    </div>
+    <div class="right">
+        <img src="http://www.petflow.com/images/legal/privacy.png" alt="" id="9e2fehttp:__www.petflow.com_images_legal_privacy.png" class="privacy-img">
+    </div>
+    <div class="clear"></div>
+    <ol id="privacy">
+        <li id="privacy-policy">
+            Privacy Policy.
+            <p class="privacy-txt">
+            The information we collect through our Site helps us provide you with information specific to your needs and interests. Please read below to review our Privacy Policy and the types of information we gather through our Site. In this Privacy Policy, “we”, “us”, “our” and other similar references mean Petflow LLC and “you” and “your” and other similar references mean a specific user of the Site. Your access to and use the Site is subject to the <a href="http://www.petflow.com/terms" title="" id="http:__www.petflow.com_terms" class="terms-link">Terms of Service</a>. All capitalized terms not defined in this Privacy Policy shall have the meanings ascribed to them in the <a href="http://www.petflow.com/terms" title="" id="http:__www.petflow.com_terms" class="terms-link">Terms of Service</a>. By visiting the Site, you accept the practices described in this Privacy Policy.
+            </p>
+        </li>
+        <li id="privacy-information">
+            How Does Petflow Gather and Use Information?
+            <ol type="i">
+                <li>
+                    <p class="privacy-txt">Cookies. Cookies are pieces of data assigned by a web server that uniquely identify the browser on your PC. Websites typically use temporary cookies called “session” cookies to ensure that you are recognized when you move from page to page within one site and that any information you have entered is remembered. For example, if an e commerce site did not use session cookies then items placed in a shopping basket would disappear by the time you reach the checkout. Websites also use cookies called “persistent” cookies to enable a website to remember you on subsequent visits, speeding up or enhancing your experience of services or functions offered. Petflow may install both persistent and session cookies when a user arrives at the Site. Cookies enable our systems to gather information about your navigational patterns through the site. Viewers have the option to accept or disable cookies at any time through their browsers. Visit the “help” portion of your toolbar for more information. If you block or refuse to accept cookies, or delete cookies between visits to the site, you may not be able to access or use certain features or functions of the Site.</p>
+                </li>
+                <li>
+                    <p class="privacy-txt">Server Statistics. We collect general statistics to track user trends on our Site. These statistics include hits to our server, the types of browsers used to access our Site, page views, and navigational patterns. The information that is collected in this manner does NOT provide us with any personally identifiable information about our users. It helps us track “where” our users are coming from. This allows us to pinpoint high traffic areas and determine the most effective ways to communicate with our users. As part of that ongoing analysis, Petflow also uses devices called “web beacons” to help us identify when emails sent to you have been received and read. In order to prevent the introduction of viruses and hackers into the Petflow site we may collect information, such as IP addresses, into a log file to be used to identify potential hackers of the Petflow site.</p>
+                </li>
+                <li>
+                    <p class="privacy-txt">Personal Information You Provide Us. For the purposes of this Privacy Policy, “Personal Information” is any information that identifies you, would enable someone to contact you, or that describes your relationship with Petflow. Personal Information includes, but is not limited to, credit card information that you provide to us in order to conduct a transaction via the Site. We collect and store Personal Information when you register to use our Site, ask a question, complete a form, conduct a transaction, or send us an email. While you are not required to submit any information to our Site, if you do not provide the requested information, you may not be able to access or use some of the features and functions of our Site and we may not be able to provide you with certain services. Petflow uses your Personal Information to complete transactions, respond to your requests, deliver the products and services you request, and notify you of promotions, updates, or special offers that we think may interest you. If you are already receiving Petflow.com emails and no longer wish to receive such communications, simply follow the "unsubscribe" instructions that appear in every Petflow.com e-email, or contact us through the preference center to modify subscriptions.</p>
+                </li>
+            </ol>
+        </li>
+        <li id="privacy-security">
+            What Security Procedures Does Petflow Use To Protect Personal Information?
+            <p class="privacy-txt">We take commercially reasonable steps to protect your Personal Information from loss, misuse, and unauthorized access, disclosure, alteration or destruction. However, no Internet or e-mail transmission is ever fully secure or error free. Please keep this in mind when disclosing any Personal Information to us or to any other party via the Internet or through e-mail.</p>
+        </li>			
+        <li id="privacy-collection">
+            Will Petflow Disclose The Information It Collects To Outside Parties?
+            <p class="privacy-txt">We may share your information, including Personal Information, to third parties, as set forth below:</p>
+            <ol type="i">
+                <li>
+                    <p class="privacy-txt">Agents, Consultants and Related Third Parties: We, like many businesses, sometimes hire other companies to perform certain business-related functions. Examples include mailing information, maintaining databases and processing payments. When we employ another company to perform a function of this nature, we only provide them with the information that they need to perform their specific function.</p>
+                </li>
+                <li>
+                    <p class="privacy-txt">Advertisers: We may aggregate Personal Information with Personal Information of other users of the site, and disclose such information in a non-personally, or personally identifiable manner to advertisers and other third parties for marketing and promotional purposes. In these situations, we may disclose to these entities any information that could be used to identify you personally.</p>
+                </li>
+                <li>
+                    <p class="privacy-txt">Legal Requirements: We may disclose Personal Information if required to do so by law or in the good faith belief that such action is necessary to (a) comply with a legal obligation, (b) protect and defend our rights or property, (c) act in urgent circumstances to protect the personal safety of users of the Site or the public, or (d) protect against legal liability.</p>
+                </li>
+                <li>
+                    <p class="privacy-txt">Business Transfers: As we develop our business, we might sell or buy businesses or assets. In the event of a corporate sale, merger, reorganization, dissolution or similar event, Personal Information may be part of the transferred assets.</p>
+                </li>
+            </ol>
+        </li>
+        <li id="privacy-links">
+            External Links.
+            <p class="privacy-txt">Other companies or organizations may have links to their web sites on the Site. We are not responsible for how these other companies or organizations collect, use, disclose, or secure the information that you provide them. If you choose to access a third party web site linked to from the Site, you do so at your own risk and subject to any terms of service or privacy policy (if any) associated with such third party web site.</p> 
+        </li>
+        <li id="privacy-children">
+            Collection Of Information From Children.
+            <p class="privacy-txt">We do not direct any of our content specifically to children. Users of the Site are required to be at least 18 years old, and any user under 18 is not an authorized user. We encourage parents and legal guardians to monitor their children’s Internet usage and to instruct their children to never provide Personal Information though this Site or any other web site without their permission. If you have reason to believe that a child under the age of 18 has provided Personal Information to us through the Site, please contact us and we will endeavor to delete any Personal Information we have collected about that user.</p>
+        </li>
+        <li id="privacy-usa">
+            Consent To Processing In The United States.
+            <p class="privacy-txt">By providing any Personal Information to us, all users, including, without limitation, users in Canada and the member states of the European Union, fully understand and unambiguously consent to this Privacy Policy and to the transfer of such Personal Information across international borders in accordance with Petflow’s standard operations, including the collection, storage, and processing of such information in the United States of America.</p>
+        </li>
+        <li id="privacy-alerts">
+            Modification And Notification Of Changes.
+            <p class="privacy-txt">We may at our sole discretion edit this Privacy Policy. Notice of all changes to the Privacy Policy will be provided as specified in Section 12 (Modification and Notification of Changes) of the Terms of Service.</p>
+        </li>
+        <li id="privacy-contact">
+            How to Contact Us.
+            <p class="privacy-txt">If you have questions or suggestions regarding this Privacy Policy or our privacy practices please visit our support page at <a href="http://www.petflow.com/support" title="" id="http:__www.petflow.com_support" class="support-link">www.petflow.com/support</a>.</p>
+            <p class="privacy-txt">Or mail us at:<br>
+                </p><address class="privacy-txt">
+                    Petflow<br>
+                    1140 Broadway, #1502<br>
+                    NY, NY 10001<br> 	
+                </address>
+            <p></p>
+        </li>
+    </ol>
+    </div>
 </div>
-<div id="page-wrapper">
-	<div id="page">
-		<div id="header">
-			<div id="login-wrapper" class="right">
-			</div>
-	<div class="logo" style="margin-top:10px;margin-left:28px;">
-		<a target="_self" href="/"><img alt="PetFlow Food For Life! - logo" src="/images/newHeaderLogo.png"></a>
-	</div>
 
-	        	<div class="navigation">
-        	<div id="search-wrapper">
-    						<form class="corner-8 new-search" id="search-form" action="/explorer" method="get" style="text-align:left;background-color:#FFF;width:420px;float:left;border-top:2px solid #999;border-left:1px solid #BBB;border-right:1px solid #BBB;border-bottom:1px solid #BBB;margin-left:25px;margin-top:-10px;">
-				<input id="pf_search_button" type="image" value="submit" class="search-btn right" alt="Search and picture of a magnifying glass" src="/images/nav/search_new.png" style="margin-top:1px;margin-right:1px;">
-				<input type="text" class="input left" id="search" name="search" title="Food, Treats, Toys, etc." value="" style="height:28px;width:290px;border:none !important;border:0 !important;margin-bottom:0px;">
-				<h1 style="width:0px;height:0px:position:absolute;" class="white right hide" id="search-title"></h1>
-			</form>
-				</div>
-	<div class="clear"></div>
-	
-	<div class="right shipping-information" style="margin-top:-20px;margin-right:27px;">
-		<div id="show_shipping_pop">
-			<img src="/images/header/shippingpop_icon49.png">
-		</div>
-	</div>
+      </div>
+    
+    
+
+    <div id="bottom-links">
+  <div class="container">
+    <div class="break"></div>
+    <div class="col first-col">
+      <h3>Popular Brands</h3>
+      <ul>
+        <li><a href="http://www.petflow.com/explorer?f[]=brand:blue+buffalo" title="" id="http:__www.petflow.com_explorer?f[]=brand:blue+buffalo" class="">Blue Buffalo</a></li>
+        <li><a href="http://www.petflow.com/explorer?f[]=brand:wellness" title="" id="http:__www.petflow.com_explorer?f[]=brand:wellness" class="">Wellness</a></li>
+        <li><a href="http://www.petflow.com/explorer?f[]=brand:led+power" title="" id="http:__www.petflow.com_explorer?f[]=brand:led+power" class="">LED Power</a></li>
+        <li><a href="http://www.petflow.com/explorer?f[]=brand:merrick" title="" id="http:__www.petflow.com_explorer?f[]=brand:merrick" class="">Merrick</a></li>
+        <li><a href="http://www.petflow.com/explorer?f[]=brand:royal+canin+veterinary+diet" title="" id="http:__www.petflow.com_explorer?f[]=brand:royal+canin+veterinary+diet" class="">Royal Canin Veterinary Diet</a></li>
+        <li><a href="http://www.petflow.com/explorer?f[]=brand:taste+of+the+wild" title="" id="http:__www.petflow.com_explorer?f[]=brand:taste+of+the+wild" class="">Taste Of The Wild</a></li>
+        <li><a href="http://www.petflow.com/explorer?f[]=brand:natural+balance" title="" id="http:__www.petflow.com_explorer?f[]=brand:natural+balance" class="">Natural Balance</a></li>
+        <li><a href="http://www.petflow.com/explorer?f[]=brand:evo" title="" id="http:__www.petflow.com_explorer?f[]=brand:evo" class="">EVO</a></li>
+      </ul>
+    </div>
+    <div class="col">
+      <h3>Popular Searches</h3>
+      <ul>
+        <li><a href="http://www.petflow.com/explorer?f[]=category:dry+food" title="" id="http:__www.petflow.com_explorer?f[]=category:dry+food" class="">Dry Food</a></li>
+        <li><a href="http://www.petflow.com/explorer?f[]=lifestyle:grain-free" title="" id="http:__www.petflow.com_explorer?f[]=lifestyle:grain-free" class="">Grain Free</a></li>
+        <li><a href="http://www.petflow.com/explorer?f[]=category:canned+food" title="" id="http:__www.petflow.com_explorer?f[]=category:canned+food" class="">Canned Food</a></li>
+        <li><a href="http://www.petflow.com/explorer?f[]=lifestyle:diet" title="" id="http:__www.petflow.com_explorer?f[]=lifestyle:diet" class="">Diet</a></li>
+        <li><a href="http://www.petflow.com/explorer?f[]=conditions:weight+management" title="" id="http:__www.petflow.com_explorer?f[]=conditions:weight+management" class="">Weight Management</a></li>
+        <li><a href="http://www.petflow.com/explorer?f[]=lifestyle:prescription" title="" id="http:__www.petflow.com_explorer?f[]=lifestyle:prescription" class="">Prescription</a></li>
+        <li><a href="http://www.petflow.com/explorer?f[]=conditions:allergy" title="" id="http:__www.petflow.com_explorer?f[]=conditions:allergy" class="">Allergy</a></li>
+        <li><a href="http://www.petflow.com/explorer?f[]=lifestyle:organic" title="" id="http:__www.petflow.com_explorer?f[]=lifestyle:organic" class="">Organic</a></li>
+      </ul>
+    </div>
+    <div class="col">
+      <h3>Company Info</h3>
+      <ul>
+        <li><a href="http://www.petflow.com/about-us" title="" id="http:__www.petflow.com_about-us" class="">About Us</a></li>
+                <li><a href="http://blog.petflow.com" title="" id="http:__blog.petflow.com" class="">Blog</a></li>
+        <li><a href="http://www.petflow.com/press" title="" id="http:__www.petflow.com_press" class="">Press</a></li>
+        <li><a href="http://www.petflow.com/suggest-a-product" title="" id="http:__www.petflow.com_suggest-a-product" class="">Suggest a Product</a></li>
+                <li><a href="http://www.trustpilot.com/review/petflow.com" title="" id="http:__www.trustpilot.com_review_petflow.com" class="" target="_blank">Testimonials</a></li>
+      </ul>
+    </div>
+    <div class="col">
+      <h3>Legal</h3>
+      <ul>
+        <li><a href="http://www.petflow.com/privacy" title="" id="http:__www.petflow.com_privacy" class="">Privacy Policy</a></li>
+        <li><a href="http://www.petflow.com/terms-of-service" title="" id="http:__www.petflow.com_terms-of-service" class="">Terms of Service</a></li>
+      </ul>
+    </div>
+    <div class="col">
+      <h3>Contact Us</h3>
+      <ul>
+        <li><a href="http://www.petflow.com/support" title="" id="http:__www.petflow.com_support" class="" target="_blank"><i class="icon-phone"></i> 1-888-316-PAWS (1-888-316-7297)</a></li>
+        <li><a href="https://www.facebook.com/petflow" title="" id="https:__www.facebook.com_petflow" class=""><i class="icon-facebook-sign"></i> Find us on Facebook</a></li>
+        <li><a href="http://www.petflow.com/support" title="" id="http:__www.petflow.com_support" class="" target="_blank"><i class="icon-envelope"></i> Visit our Help Center</a></li>
+      </ul>
+    </div>
+    <div class="break"></div>
+    <img src="/images/secure.png" class="site-ratings" id="secure-logos" alt="">
+    <a href="//www.stellaservice.com/profile/petflow.com/" target="_blank">
+      <img src="/images/footer/stella_rating_excellent.png" class="stella-rating">
+    </a>
+    <div class="break"></div>
+  </div>
 </div>
-<div class="clear"></div>
+<div id="footer">
+  <div class="container">
+    <img src="/images/sm-logo.png" alt="">
+    <p>© Copyright 2013 PetFlow.com, All Rights Reserved. Made with love in NYC.</p>
+    <div class="break"></div>
+  </div>
 </div>
-	<div class="search-filters-wrapper" style="width:980px;background-color:white;">
-	<ul class="search-filters-table" style="margin:0;padding:0;">
-																							
-																																																																																																																														<a href="/explorer?search=Dog+Food&amp;f">
-					<li class="search-filters-category" id="top_category_dog_food" style="border-right:1px solid #78C6DD;">
-						<div class="category-title" style="font-size:12pt;font-weight:bold;color:#0E4179;display:block;">Dog Food</div>
-					</li>
-				</a>
-																										
-																																																																																																																														<a href="/explorer?search=Cat+Food&amp;f">
-					<li class="search-filters-category" id="top_category_cat_food" style="border-right:1px solid #78C6DD;">
-						<div class="category-title" style="font-size:12pt;font-weight:bold;color:#0E4179;display:block;">Cat Food</div>
-					</li>
-				</a>
-																										
-																																																																																																																																																																																																<a href="/explorer?pet[]=Dog&amp;category[]=Treats&amp;search=Dog+Treats&amp;f">
-					<li class="search-filters-category" id="top_category_dog_treats" style="border-right:1px solid #78C6DD;">
-						<div class="category-title" style="font-size:12pt;font-weight:bold;color:#0E4179;display:block;">Dog Treats</div>
-					</li>
-				</a>
-																										
-																																																																																																																																																																																																<a href="/explorer?pet[]=Cat&amp;category[]=Treats&amp;search=Cat+Treats&amp;f">
-					<li class="search-filters-category" id="top_category_cat_treats" style="border-right:1px solid #78C6DD;">
-						<div class="category-title" style="font-size:12pt;font-weight:bold;color:#0E4179;display:block;">Cat Treats</div>
-					</li>
-				</a>
-																										
-																																																																																																																																																															<a href="/explorer?category[]=Litter&amp;search=Litter&amp;f">
-					<li class="search-filters-category" id="top_category_litter" style="border-right:1px solid #78C6DD;">
-						<div class="category-title" style="font-size:12pt;font-weight:bold;color:#0E4179;display:block;">Litter</div>
-					</li>
-				</a>
-																										
-																																																																																																																																																															<a href="/explorer?category[]=Toys&amp;search=Toys&amp;f">
-					<li class="search-filters-category" id="top_category_toys" style="border-right:1px solid #78C6DD;">
-						<div class="category-title" style="font-size:12pt;font-weight:bold;color:#0E4179;display:block;">Toys</div>
-					</li>
-				</a>
-																										
-																																																																																																																																																															<a href="/explorer?category[]=Accessories&amp;search=Accessories&amp;f">
-					<li class="search-filters-category" id="top_category_accessories" style="border-right:1px solid #78C6DD;">
-						<div class="category-title" style="font-size:12pt;font-weight:bold;color:#0E4179;display:block;">Accessories</div>
-					</li>
-				</a>
-																										
-																																																																																						<a href="/explorer?conditions[]=Specials&amp;search=special&amp;f">
-					<li class="search-filters-category" id="top_category_specials" style="border-right:1px solid #78C6DD;">
-						<div class="category-title" style="font-size:12pt;font-weight:bold;color:#0E4179;display:block;">Specials</div>
-					</li>
-				</a>
-																										
-																																																																																						<a href="/user/programs">
-					<li class="search-filters-category" id="top_category_my-orders" style="">
-						<div class="category-title" style="font-size:12pt;font-weight:bold;color:#0E4179;display:block;">My Orders</div>
-					</li>
-				</a>
-						</ul>
-	<div class="clear"></div>
-</div>
-<div class="under-header-drop-shadow"><img src="/images/headerdropshadow.jpg" height="4" alt="dropshadow" border="0"></div>
-
-<script type="text/javascript">
-	(function() {
-		var nxt_host = (("https:" == document.location.protocol) ? "https://" : "http://"); nxt_host += "vector.nextopiasoftware.com/";
-		document.write(unescape("%3C") + "script src='" + nxt_host + "nxt-ac-js-1.2-min.js' type='text/javascript'" + unescape("%3E%3C/script%3E"));
-		document.write(unescape("%3C") + "link rel='stylesheet' type='text/css' href='" + nxt_host + "ac-1.2.css'" + unescape("%3E"));
-	})();
-</script><script src="https://vector.nextopiasoftware.com/nxt-ac-js-1.2-min.js" type="text/javascript"></script><link rel="stylesheet" type="text/css" href="https://vector.nextopiasoftware.com/ac-1.2.css">
-<script type="text/javascript">
-(function() {
-	var jnxtac = jQuery.noConflict(true);
-	jnxtac.ui.autocomplete.prototype._drawProduct = function (b) {
-		
-		b.Url = b.Link;
-		b.Name = b.Title;
-		
-		b.Url = '/' + b.Url;
-		b.Link = '/' + b.Link;
-		
-		if ("https:" == document.location.protocol &&
-			b.Image.substr(0, 6) != "https:") {
-			b.Image = "https:" + b.Image.substr(5);
-		}
-		if (b.Price.indexOf('||') > -1) {
-			var prices = b.Price.split('||');
-			var lowPrice = Math.min.apply(Math, prices);
-			b.Price = 'From $' + lowPrice ;
-		} else {
-			b.Price = '$' + Number(b.Price).toFixed(2);
-		}
-		return "<img src=\"" + b.Image + "\"/><span class=\"nxt-ac-item-text\"><p style=\"width:250px !important;height:43px;overflow-y:hidden;\">" + this._encapsulateMatches(b.Title) + "</p><span class=\"nxt-ac-item-price\">" + b.Price + "</span></span>";
-	};
-	jnxtac("#search").autocomplete({cid:'68191f94f2838c651799972953aaa0bc'});
-})();
-</script>	<div id="content-wrapper">
-	<div id="content">
-			
-
-		<div class="left">
-		<h1>Privacy Policy</h1>
-		<br>
-		<ul class="custom-list">
-			<li><a class="scroll" href="#privacy-policy">Privacy Policy</a></li>
-			<li><a class="scroll" href="#privacy-information">How Does Petflow Gather and Use Information?</a></li>
-			<li><a class="scroll" href="#privacy-security">What Security Procedures Does Petflow Use To Protect Personal Information?</a></li>
-			<li><a class="scroll" href="#privacy-collection">Will Petflow Disclose The Information It Collects To Outside Parties?</a></li>
-			<li><a class="scroll" href="#privacy-links">External Links.</a></li>
-			<li><a class="scroll" href="#privacy-children">Collection Of Information From Children.</a></li>
-			<li><a class="scroll" href="#privacy-usa">Consent To Processing In The United States.</a></li>
-			<li><a class="scroll" href="#privacy-alerts">Modification And Notification Of Changes.</a></li>
-			<li><a class="scroll" href="#privacy-contact">How to Contact Us.</a></li>
-		</ul>
-		</div>
-		<div class="right">
-			<img src="/images/privacy/privacy.gif" height="220" width="409" alt="Dog silhouettes with question marks on them.">
-		</div>
-		<div class="clear"></div>
-		<ol id="privacy">
-			<li id="privacy-policy">
-				Privacy Policy.
-				<p class="privacy-txt">
-				The information we collect through our Site helps us provide you with information specific to your needs and interests. Please read below to review our Privacy Policy and the types of information we gather through our Site. In this Privacy Policy, “we”, “us”, “our” and other similar references mean Petflow LLC and “you” and “your” and other similar references mean a specific user of the Site. Your access to and use the Site is subject to the <a href="/terms-of-service" target="_self">Terms of Service</a>. All capitalized terms not defined in this Privacy Policy shall have the meanings ascribed to them in the <a href="/terms-of-service" target="_self">Terms of Service</a>. By visiting the Site, you accept the practices described in this Privacy Policy.
-				</p>
-				<a class="scroll top" href="#top">top</a>
-			</li>
-			<li id="privacy-information">
-				How Does Petflow Gather and Use Information?
-				<ol type="i">
-					<li>
-						<p class="privacy-txt">Cookies. Cookies are pieces of data assigned by a web server that uniquely identify the browser on your PC. Websites typically use temporary cookies called “session” cookies to ensure that you are recognized when you move from page to page within one site and that any information you have entered is remembered. For example, if an e commerce site did not use session cookies then items placed in a shopping basket would disappear by the time you reach the checkout. Websites also use cookies called “persistent” cookies to enable a website to remember you on subsequent visits, speeding up or enhancing your experience of services or functions offered. Petflow may install both persistent and session cookies when a user arrives at the Site. Cookies enable our systems to gather information about your navigational patterns through the site. Viewers have the option to accept or disable cookies at any time through their browsers. Visit the “help” portion of your toolbar for more information. If you block or refuse to accept cookies, or delete cookies between visits to the site, you may not be able to access or use certain features or functions of the Site.</p>
-					</li>
-					<li>
-						<p class="privacy-txt">Server Statistics. We collect general statistics to track user trends on our Site. These statistics include hits to our server, the types of browsers used to access our Site, page views, and navigational patterns. The information that is collected in this manner does NOT provide us with any personally identifiable information about our users. It helps us track “where” our users are coming from. This allows us to pinpoint high traffic areas and determine the most effective ways to communicate with our users. As part of that ongoing analysis, Petflow also uses devices called “web beacons” to help us identify when emails sent to you have been received and read. In order to prevent the introduction of viruses and hackers into the Petflow site we may collect information, such as IP addresses, into a log file to be used to identify potential hackers of the Petflow site.</p>
-					</li>
-					<li>
-						<p class="privacy-txt">Personal Information You Provide Us. For the purposes of this Privacy Policy, “Personal Information” is any information that identifies you, would enable someone to contact you, or that describes your relationship with Petflow. Personal Information includes, but is not limited to, credit card information that you provide to us in order to conduct a transaction via the Site. We collect and store Personal Information when you register to use our Site, ask a question, complete a form, conduct a transaction, or send us an email. While you are not required to submit any information to our Site, if you do not provide the requested information, you may not be able to access or use some of the features and functions of our Site and we may not be able to provide you with certain services. Petflow uses your Personal Information to complete transactions, respond to your requests, deliver the products and services you request, and notify you of promotions, updates, or special offers that we think may interest you. If you are already receiving Petflow.com emails and no longer wish to receive such communications, simply follow the "unsubscribe" instructions that appear in every Petflow.com e-email, or contact us through the preference center to modify subscriptions.</p>
-					</li>
-				</ol>
-				<a class="scroll top" href="#top">top</a>
-			</li>
-			<li id="privacy-security">
-				What Security Procedures Does Petflow Use To Protect Personal Information?
-				<p class="privacy-txt">We take commercially reasonable steps to protect your Personal Information from loss, misuse, and unauthorized access, disclosure, alteration or destruction. However, no Internet or e-mail transmission is ever fully secure or error free. Please keep this in mind when disclosing any Personal Information to us or to any other party via the Internet or through e-mail.</p>
-				<a class="scroll top" href="#top">top</a>
-			</li>			
-			<li id="privacy-collection">
-				Will Petflow Disclose The Information It Collects To Outside Parties?
-				<p class="privacy-txt">We may share your information, including Personal Information, to third parties, as set forth below:</p>
-				<ol type="i">
-					<li>
-						<p class="privacy-txt">Agents, Consultants and Related Third Parties: We, like many businesses, sometimes hire other companies to perform certain business-related functions. Examples include mailing information, maintaining databases and processing payments. When we employ another company to perform a function of this nature, we only provide them with the information that they need to perform their specific function.</p>
-					</li>
-					<li>
-						<p class="privacy-txt">Advertisers: We may aggregate Personal Information with Personal Information of other users of the site, and disclose such information in a non-personally, or personally identifiable manner to advertisers and other third parties for marketing and promotional purposes. In these situations, we may disclose to these entities any information that could be used to identify you personally.</p>
-					</li>
-					<li>
-						<p class="privacy-txt">Legal Requirements: We may disclose Personal Information if required to do so by law or in the good faith belief that such action is necessary to (a) comply with a legal obligation, (b) protect and defend our rights or property, (c) act in urgent circumstances to protect the personal safety of users of the Site or the public, or (d) protect against legal liability.</p>
-					</li>
-					<li>
-						<p class="privacy-txt">Business Transfers: As we develop our business, we might sell or buy businesses or assets. In the event of a corporate sale, merger, reorganization, dissolution or similar event, Personal Information may be part of the transferred assets.</p>
-					</li>
-				</ol>
-				<a class="scroll top" href="#top">top</a>
-			</li>
-			<li id="privacy-links">
-				External Links.
-				<p class="privacy-txt">Other companies or organizations may have links to their web sites on the Site. We are not responsible for how these other companies or organizations collect, use, disclose, or secure the information that you provide them. If you choose to access a third party web site linked to from the Site, you do so at your own risk and subject to any terms of service or privacy policy (if any) associated with such third party web site.</p> 
-				<a class="scroll top" href="#top">top</a>
-			</li>
-			<li id="privacy-children">
-				Collection Of Information From Children.
-				<p class="privacy-txt">We do not direct any of our content specifically to children. Users of the Site are required to be at least 18 years old, and any user under 18 is not an authorized user. We encourage parents and legal guardians to monitor their children’s Internet usage and to instruct their children to never provide Personal Information though this Site or any other web site without their permission. If you have reason to believe that a child under the age of 18 has provided Personal Information to us through the Site, please contact us and we will endeavor to delete any Personal Information we have collected about that user.</p>
-				<a class="scroll top" href="#top">top</a>
-			</li>
-			<li id="privacy-usa">
-				Consent To Processing In The United States.
-				<p class="privacy-txt">By providing any Personal Information to us, all users, including, without limitation, users in Canada and the member states of the European Union, fully understand and unambiguously consent to this Privacy Policy and to the transfer of such Personal Information across international borders in accordance with Petflow’s standard operations, including the collection, storage, and processing of such information in the United States of America.</p>
-				<a class="scroll top" href="#top">top</a>
-			</li>
-			<li id="privacy-alerts">
-				Modification And Notification Of Changes.
-				<p class="privacy-txt">We may at our sole discretion edit this Privacy Policy. Notice of all changes to the Privacy Policy will be provided as specified in Section 12 (Modification and Notification of Changes) of the Terms of Service.</p>
-				<a class="scroll top" href="#top">top</a>
-			</li>
-			<li id="privacy-contact">
-				How to Contact Us.
-				<p class="privacy-txt">If you have questions or suggestions regarding this Privacy Policy or our privacy practices please send an email message to <a href="mailto:help@petflow.com">help@petflow.com</a>.</p>
-				<p class="privacy-txt">Or mail us at:<br>
-					</p><address class="privacy-txt">
-						Petflow<br>
-						1140 Broadway, #1502<br>
-						NY, NY 10001<br> 	
-					</address>
-				<p></p>
-				<a class="scroll top" href="#top">top</a>
-			</li>
-		</ol>
-		</div><!--end content-->
-		</div><!--end 'content-wrapper'-->
-	</div><!--end 'page'-->
-</div><!--end 'page-wrapper'-->
-	<div class="footer-shadow-up center" style="">
-		<img src="/images/footer/shadow.png" alt="Footer Shadow">
-	</div>
-	<div class="full-footer-wrapper center" style="width:985px;margin:0 auto;margin-top:15px;font-size:9pt;font-family:Tahoma, sans-serif !important;">
-		<div class="footer-first-row">
-			<div class="footer-first-row-left left" style="width:482px;">
-				<div class="footer-small-box corner-8" style="padding-top:12px;padding-bottom:15px;padding-left:25px;padding-right:30px;background:#D0F5FE;border:1px solid #73DEF5;">
-					<div class="legal-title txt-left" style="font-size:12pt;color:#134B89;font-weight:bold;">Legal:</div>
-					<div class="legal-links" style="color:#000;margin-top:5px;font-size:9pt !important;">
-						<a href="/privacy">Privacy Policy</a> | <a href="/shipping">Shipping &amp; Returns Policy</a> | <a href="/terms-of-service">Terms of Service</a>
-					</div>
-				</div>
-			</div>
-			<div class="footer-first-row-right right" style="width:482px;">
-				<div class="footer-small-box corner-8" style="padding-top:12px;padding-bottom:15px;padding-left:23px;padding-right:23px;background:#D0F5FE;border:1px solid #73DEF5;">
-					<div class="company-info-title txt-left" style="font-size:12pt;color:#134B89;font-weight:bold;">Company Info:</div>
-					<div class="company-info-links" style="color:#000;margin-top:5px;font-size:9pt !important;">
-						<a href="/aboutus">About Us</a> | <a href="http://blog.petflow.com">Blog</a> | <a href="/press">Press</a> | <a href="/suggestaproduct">Suggest a Product</a> | <a href="/testimonials">Testimonials</a>
-					</div>
-				</div>
-			</div>
-		</div>
-		<div class="clear"></div>
-		<div class="footer-second-row" style="padding-top:18px;">
-			<div class="footer-big-box corner-8" style="padding:20px;padding-left:25px;padding-top:12px;padding-bottom:25px;background:#D0F5FE;border:1px solid #73DEF5;">
-				<div class="footer-contact-us-title txt-left" style="font-size:12pt;color:#134B89;font-weight:bold;">Contact Us:</div>
-				<div class="footer-contact-us-content" style="margin-top:12px;">
-					<div class="footer-contact-us-phone-wrapper">
-						<div class="footer-phone-image-wrapper left" style="margin-top:-4px;margin-left:-4px;">
-							<img class="footer-phone-image" src="/images/footer/footer_phone.png" alt="Phone">
-						</div>
-						<div class="footer-phone-info-wrapper left" style="margin-left:7px;margin-top:3px;">
-							<div class="footer-phone-number-wrapper">
-								<span class="footer-purple-phone-number" style="color:#9955BA;font-weight:bold;font-size:12pt;">1-888-316-PAWS </span><span class="footer-normal-phone-number" style="font-size:10pt;">(1-888-316-7297)</span>
-							</div>
-							<div class="footer-phone-hours-wrapper left" style="font-style:italic;">Monday - Friday, 9AM - 8PM Eastern</div>
-							<div class="clear"></div>
-						</div>
-					</div>
-					<div class="footer-contact-us-right right" style="margin-top:-5px;">
-						<div class="footer-contact-us-email left" style="margin-right:124px;">
-							<a class="footer-email-link-wrapper" href="/support">
-								<div class="footer-email-icon left">
-									<img class="footer-email-image" src="/images/footer/footer_question.png" alt="Questions?" style="width:37px;height:37px;">
-								</div>
-								<div class="footer-email-text left" style="margin-top:10px;margin-left:6px;font-size:10pt;">
-									Visit our Help Center
-								</div>
-							</a>
-						</div>
-						<div class="footer-contact-us-facebook left" style="margin-right:55px;">
-							<a target="_blank" class="footer-facebook-link-wrapper" href="https://www.facebook.com/petflow">
-								<div class="footer-facebook-icon left" style="margin-top:-1px;">
-									<img class="footer-facebook-image" src="/images/footer/footer_facebook_new.png" alt="Facebook">
-								</div>
-								<div class="footer-facebook-text left" style="margin-top:10px;margin-left:2px;font-size:10pt;">
-									Find us on Facebook
-								</div>
-							</a>
-						</div>
-						<div class="clear"></div>
-					</div>
-					<div class="clear"></div>
-				</div>
-			</div>
-		</div>
-		<div class="clear"></div>
-		<div class="footer-third-row" style="padding-top:18px;">
-			<div class="footer-big-box corner-8" style="padding-right:5px;padding-top:4px;padding-bottom:4px;padding-left:25px;background:#D0F5FE;border:1px solid #73DEF5;">
-				<table style="width:100%;">
-					<tbody>
-						<tr>
-							<td valign="center" style="width:480px;">
-								<div class="footer-third-row-left left">
-									© Copyright 2012 PetFlow.com, All Rights Reserved.  <a class="footer-made-with-love" target="_blank" href="http://nytm.org/made">Made with love in NYC</a>.
-								</div>
-							</td>
-							<td>
-								<div class="AuthorizeNetSeal right">
-									<script type="text/javascript" language="javascript">var ANS_customer_id="d6ffb58b-2ae0-419a-b55e-01e36c13b810";</script>
-									<script type="text/javascript" language="javascript" src="https://verify.authorize.net/anetseal/seal.js"></script>
-									<a class="hide" href="https://www.authorize.net/" id="AuthorizeNetText" target="_blank">Merchant Services</a>
-								</div>
-								<div class="verisign-seal right">
-									<a target="_blank" onclick="return popitupverisign();" href="https://sealinfo.verisign.com/splash?form_file=fdf/splash.fdf&amp;dn=WWW.PETFLOW.COM&amp;lang=en">
-										<img id="verisign_seal" src="/images/footer/verisign_logo.png" alt="VeriSign Seal">
-									</a>
-								</div>
-								<div class="norton-seal right">
-									<a target="_blank" href="https://safeweb.norton.com/report/show?url=petflow.com">
-										<img id="norton_seal" src="/images/footer/norton_logo.png" alt="Norton Seal">
-									</a>
-								</div>
-								<div class="clear"></div>
-							</td>
-						</tr>
-					</tbody>
-				</table>
-			</div>
-		</div>
-	</div>
-<!-- BEGIN: Google Trusted Store -->
-<script type="text/javascript">
-  var gts = gts || [];
-
-  gts.push(["id", "22735"]);
-    gts.push(["google_base_subaccount_id", "7260175"]);
-  gts.push(["google_base_country", "US"]);
-  gts.push(["google_base_language", "en"]);
-
-  (function() {
-    var scheme = (("https:" == document.location.protocol) ? "https://" : "http://");
-    var gts = document.createElement("script");
-    gts.type = "text/javascript";
-    gts.async = true;
-    gts.src = scheme + "www.googlecommerce.com/trustedstores/gtmp_compiled.js";
-    var s = document.getElementsByTagName("script")[0];
-    s.parentNode.insertBefore(gts, s);
-  })();
-</script>
-<!-- END: Google Trusted Store -->
-<script type="text/javascript" async="" src="https://api.insparq.com/v2.0.0/widget/scripts/issw.js" data-issw-publisher-id="c177ca7fade9d9366fff35fb62380903">
-</script>
-<script type="text/javascript">
-  var _gaq = _gaq || [];
-  _gaq.push(['_setAccount', 'UA-11683782-1']);
-  _gaq.push(['_trackPageview']);
-
-  (function() {
-    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
-    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
-  })();
-</script>
-<!-- Google Code for Dynamic Remarketing Smart Pixel Remarketing List -->
-<script type="text/javascript">
-/* <![CDATA[ */
-var google_conversion_id = 1011114655;
-var google_conversion_language = "en";
-var google_conversion_format = "3";
-var google_conversion_color = "ffffff";
-var google_conversion_label = "Lp7JCMm_4gMQn8WR4gM";
-var google_conversion_value = 0;
-var google_custom_params = {
-	pagetype:"home"
-};
-var google_remarketing_only = true
-/* ]]> */
-</script>
-<script type="text/javascript" src="https://www.googleadservices.com/pagead/conversion.js">
-</script>
-<noscript>
-<div style="display:inline;"><img height="1" width="1" style="border-style:none;" alt="" src="https://www.googleadservices.com/pagead/conversion/1011114655/?label=Lp7JCMm_4gMQn8WR4gM&amp;guid=ON&amp;script=0" /></div>
-</noscript>
-<div id="hover-container"></div>
-
-<script src="https://www.adreadytractions.com/rt/294491?p=14471"></script>
-<img height="1" width="1" src="https://a.triggit.com/px?u=68eccb251c29685d&amp;rtv=petflow,pfsite,pfvisitor">
 
 <!-- Alertra Check -->
 
+<script type="text/javascript">
+// fires custom payload-finished event on document (when event has been determined to be bound)
+fire_when_ready('payload-finished')
+</script>
+    <div class="top-btn-container">
+    <div class="top-btn">
+      <i class="icon-caret-up"></i> Back to Top
+    </div>
+  </div>
+
+    
+      <!-- Start BounceX tag. Deploy at the beginning of document head. -->
+  <script>
+  (function(d) {
+    var e = d.createElement('script');
+    e.src = d.location.protocol + '//bounceexchange.com/bounce/i.js?client_id=590';
+    e.async = true;
+    d.getElementsByTagName("head")[0].appendChild(e);
+   }(document));
+   </script>
+    <!-- End BounceX tag -->
+      <script type="text/javascript" src="//petflow.ugc.bazaarvoice.com/static/2239-en_us/bvapi.js">
+  </script>
+  <script type="text/javascript">
+      $BV.configure("global", {
+          submissionContainerUrl: "http://www.petflow.com/review"
+      });
+  </script>
+      <script type="text/javascript">
+    var _gaq = _gaq || [];
+    _gaq.push(['_setAccount', 'UA-11683782-1']);
+    _gaq.push(['_trackPageview']);
+
+    (function() {
+      var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+      ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+      var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+    })();
+  </script>
+    <script type="text/javascript" src="//cdnjs.cloudflare.com/ajax/libs/jquery/1.8.3/jquery.min.js"></script>
+  <script type="text/javascript" src="//cdnjs.cloudflare.com/ajax/libs/jquery-easing/1.3/jquery.easing.min.js"></script>
+  <script type="text/javascript" src="//cdnjs.cloudflare.com/ajax/libs/sugar/1.3.7/sugar.min.js"></script>
+  <script type="text/javascript" src="//cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/2.2.2/bootstrap.min.js"></script>
+  <script type="text/javascript" src="//cdnjs.cloudflare.com/ajax/libs/jqueryui/1.9.2/jquery-ui.min.js"></script>
+  <script type="text/javascript" src="//cdnjs.cloudflare.com/ajax/libs/jquery-cookie/1.3.1/jquery.cookie.min.js"></script>
+  <script type="text/javascript" src="//cdnjs.cloudflare.com/ajax/libs/handlebars.js/1.0.rc.2/handlebars.min.js"></script>
+
+        
+  
+  
+  <script src="/js/application_dabe609c3ad810a89df5c945119582b6_asdf.js" type="text/javascript"></script>
+<script src="/js/default_asdf.js" type="text/javascript"></script>
+  <script type="text/javascript">if(!NREUMQ.f){NREUMQ.f=function(){NREUMQ.push(["load",new Date().getTime()]);var e=document.createElement("script");e.type="text/javascript";e.src=(("http:"===document.location.protocol)?"http:":"https:")+"//"+"rpm-images.newrelic.com/42/eum/rum.js";document.body.appendChild(e);if(NREUMQ.a)NREUMQ.a();};NREUMQ.a=window.onload;window.onload=NREUMQ.f;};NREUMQ.push(["nrfj","beacon-3.newrelic.com","4ca04d96b1","1465007","ZFdbNkRXVxIFVkMKW10dehdFQlYMS1BQJ1FVU0wOQhlJEw1DVgBN",0,249,new Date().getTime(),"","","","",""]);</script>
 
 
 
-</div></body></html>
+<script type="text/javascript" src="https://rpm-images.newrelic.com/42/eum/rum.js"></script></body></html>
