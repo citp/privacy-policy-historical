@@ -1,7 +1,7 @@
-<!--The following is the downloaded HTML source of the oddee.com privacy policy that was archived on 2012-10-14.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121014145509id_/http%3A//www.oddee.com/privacy.aspx) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the oddee.com privacy policy that was archived on 2013-06-20.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130620214847id_/http%3A//www.oddee.com/privacy.aspx) for the most accurate reproduction.-->
 
-<html xmlns:fb="http://ogp.me/ns/fb#"><head>
+<!DOCTYPE html><html xmlns:fb="http://ogp.me/ns/fb#"><head>
 	<title>Privacy Policy</title>
 
 	<meta name="description" content="A Blog on Oddities: the odd, bizarre and strange things of our world!">
@@ -10,8 +10,13 @@
 
 	<meta http-equiv="Content-Type" content="text/html;charset=utf-8">
 
-	<link rel="stylesheet" type="text/css" href="/_media/css/oddee/oddee2.css">
-	<link rel="alternate" type="application/rss+xml" title="Oddee RSS Feed" href="/rss.aspx">
+	<link rel="stylesheet" href="/_media/css/oddee/rsstyle.css">
+    <link rel="stylesheet" type="text/css" href="/_media/css/oddee/oddee2.css">
+    
+    <!-- SlideBox CSS -->
+    <link rel="stylesheet" type="text/css" href="/_media/css/oddee/slidebox.css">
+	
+    <link rel="alternate" type="application/rss+xml" title="Oddee RSS Feed" href="/rss.aspx">
 	<link rel="SHORTCUT ICON" href="/_media/imgs/oddee/favicon.ico">
 
 	<link rel="apple-touch-icon" href="/_media/imgs/oddee/apple-touch-icon.png">
@@ -23,7 +28,42 @@
 	<meta property="fb:app_id" content="341133059311759">
 	<meta property="og:site_name" content="Oddee">
 
-    <script type="text/javascript" async="" src="http://contentwidgets.net/widget/yshkj9"></script><script id="facebook-jssdk" src="//connect.facebook.net/en_US/all.js#xfbml=1&amp;appId=341133059311759"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script async="" type="text/javascript" src="https://www.googletagservices.com/tag/js/gpt.js"></script><script src="//ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js"></script>
+    <script id="twitter-wjs" src="//platform.twitter.com/widgets.js"></script><script id="facebook-jssdk" src="//connect.facebook.net/en_US/all.js#xfbml=1&amp;appId=341133059311759"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script async="" type="text/javascript" src="https://www.googletagservices.com/tag/js/gpt.js"></script><script src="//ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js"></script>
+    
+    <script type="text/javascript">
+        $(function () {
+            $(".sb1_link").mouseover(function () {//bottom:90px;width:100%;height:15px;
+                $('.sb1_bk', $(this)).animate({ top: 0, height: 15 }, 'fast');
+                $('.sb1_text', $(this)).animate({ top: -2, height: 15 }, 'fast');
+            });
+
+            $(".sb1_link").mouseleave(function () {
+                $('.sb1_bk', $(this)).animate({ top: -17, height: 0 }, 'fast');
+                $('.sb1_text', $(this)).animate({ top: -17, height: 0 }, 'fast');
+            });
+        });
+
+        // Cookies functions
+        function getCookie(c_name) {
+            var i, x, y, ARRcookies = document.cookie.split(";");
+            for (i = 0; i < ARRcookies.length; i++) {
+                x = ARRcookies[i].substr(0, ARRcookies[i].indexOf("="));
+                y = ARRcookies[i].substr(ARRcookies[i].indexOf("=") + 1);
+                x = x.replace(/^\s+|\s+$/g, "");
+                
+                if (x == c_name) {
+                    return unescape(y);
+                }
+            }
+        }
+
+        function setCookie(c_name, value, exdays) {
+            var exdate = new Date();
+            exdate.setDate(exdate.getDate() + exdays);
+            var c_value = escape(value) + ((exdays == null) ? "" : "; expires=" + exdate.toUTCString());
+            document.cookie = c_name + "=" + c_value;
+        }
+    </script>
 
     
 
@@ -46,6 +86,7 @@
 		googletag.cmd.push(function() {
 		googletag.defineSlot('/1020973/160x600_above_the_fold', [160, 600], 'div-gpt-ad-1346100848791-0').addService(googletag.pubads());
 		googletag.defineSlot('/1020973/300x250_above_the_fold', [300, 250], 'div-gpt-ad-1346100848791-2').addService(googletag.pubads());
+		googletag.defineSlot('/1020973/300x250_below_the_fold_p1', [300, 250], 'div-gpt-ad-1360326381477-0').addService(googletag.pubads());
 		googletag.pubads().enableSingleRequest();
 		googletag.enableServices();
 		});
@@ -57,14 +98,14 @@
 	
 	<script type="text/javascript">
 
-        // is the site running local or remote?
-        var pISLOCAL = (document.domain.substr(0, 5) == "local")
+		// is the site running local or remote?
+		var pISLOCAL = (document.domain.substr(0, 5) == "local")
 
 		var _gaq = _gaq || [];
 		_gaq.push(['_setAccount', 'UA-4956890-1']);
 		
-        _gaq.push(['_trackPageview']);
-        
+	        _gaq.push(['_trackPageview']);
+        	
 
 		  (function() {
 		    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
@@ -87,7 +128,7 @@
 	
 
 </head>
-<body onload="" bgcolor="#FFFFFF" marginheight="0" marginwidth="0" topmargin="0" leftmargin="0" rightmargin="0" background="/_media/imgs/oddee/fondoCont.gif">
+<body onload="" bgcolor="#FFFFFF" marginheight="0" marginwidth="0" topmargin="0" leftmargin="0" rightmargin="0" background="/_media/imgs/oddee/fondoCont.gif" style="overflow-x:hidden;">
 
 
 <!-- FB -->
@@ -102,8 +143,6 @@
 
 
 <center>
-
-
 <div id="d_menu2">
 <div style="width:1008px; margin-left:auto; margin-right:auto; padding-top:10px">
 	
@@ -114,39 +153,43 @@
 
 
 
-<div id="d_header">
-<table width="1000" height="106" cellpadding="0" cellspacing="0">
-	<tbody><tr>
-		<td width="603"><a href="/"><img src="/_media/imgs/oddee/logo.jpg" width="603" height="106" alt="Oddee.com - A Blog on Oddities: the odd, bizarre and strange things of our world!" border="0"></a></td>
-		<td width="397" align="center" id="td_menusocial">
+<div id="d_header" style="height:106px;">
+    <table width="1000" height="106" cellpadding="0" cellspacing="0">
+	    <tbody><tr>
+		    <td width="603">
+                <a href="/"><img src="/_media/imgs/oddee/logo.jpg" width="603" height="106" alt="Oddee.com - A Blog on Oddities: the odd, bizarre and strange things of our world!" border="0" style=""></a>
+            </td>
+		    <td width="397" align="center" id="td_menusocial">
 
-			
+			    
 <table cellpadding="0" cellspacing="0">
 	<tbody><tr>
 		<td align="right" style="padding-right:5px"><a onclick="GAevent('subscriptions','FB', '', null, true)" href="http://www.Facebook.com/Oddee"><img src="/_media/imgs/oddee/menusocialt1.jpg" border="0"></a></td>
 		<td><a onclick="GAevent('subscriptions','FB', '', null, true)" href="http://www.Facebook.com/Oddee"><img src="/_media/imgs/oddee/menusociali1.jpg" border="0"></a></td>
-		<td><a onclick="GAevent('subscriptions','FB', '', null, true)" href="http://www.Facebook.com/Oddee" class="socialn" style="color:#3d60af">100,026</a></td>
+		<td><a onclick="GAevent('subscriptions','FB', '', null, true)" href="http://www.Facebook.com/Oddee" class="socialn" style="color:#3d60af">117,539</a></td>
 	</tr>
 	<tr>
 		<td align="right" style="padding-right:5px"><a onclick="GAevent('subscriptions','TW', '', null, true)" href="http://www.Twitter.com/OddeeBlog"><img src="/_media/imgs/oddee/menusocialt2.jpg" border="0"></a></td>
 		<td><a onclick="GAevent('subscriptions','TW', '', null, true)" href="http://www.Twitter.com/OddeeBlog"><img src="/_media/imgs/oddee/menusociali2.jpg" border="0"></a></td>
-		<td><a onclick="GAevent('subscriptions','TW', '', null, true)" href="http://www.Twitter.com/OddeeBlog" class="socialn" style="color:#60d1fa">14,035</a></td>
+		<td><a onclick="GAevent('subscriptions','TW', '', null, true)" href="http://www.Twitter.com/OddeeBlog" class="socialn" style="color:#60d1fa">14,795</a></td>
 	</tr>
 	<tr>
 		<td align="right" style="padding-right:5px"><a onclick="GAevent('subscriptions','RSS', '', null, true)" href="http://feeds.feedburner.com/Oddee"><img src="/_media/imgs/oddee/menusocialt3.jpg" border="0"></a></td>
 		<td><a onclick="GAevent('subscriptions','RSS', '', null, true)" href="http://feeds.feedburner.com/Oddee"><img src="/_media/imgs/oddee/menusociali3.jpg" border="0"></a></td>
-		<td><a onclick="GAevent('subscriptions','RSS', '', null, true)" href="http://feeds.feedburner.com/Oddee" class="socialn" style="color:#ee7e15">32,104</a></td>
+		<td><a onclick="GAevent('subscriptions','RSS', '', null, true)" href="http://feeds.feedburner.com/Oddee" class="socialn" style="color:#ee7e15">32,171</a></td>
 	</tr>
 </tbody></table>
 
-		</td>
-	</tr>
-</tbody></table>
+		    </td>
+	    </tr>
+    </tbody></table>
 </div>
 
-
-
-
+<div id="menu_bar" align="center">
+    <div style="position:relative;top:5px;">
+        <a class="menu_bar_links" href="/amazing-art/">Art</a>|<a class="menu_bar_links" href="/cool-ads/">Ads</a>|<a class="menu_bar_links" href="/funny-signs/">Signs</a>|<a class="menu_bar_links" href="/funny-names/">Names</a>|<a class="menu_bar_links" href="/cool-places/">Places</a>|<a class="menu_bar_links" href="/strange-people/">People</a>|<a class="menu_bar_links" href="/cool-objects/">Objects</a>|<a class="menu_bar_links" href="/cool-gift-ideas/">Gifts</a>|<a class="menu_bar_links" href="/weird-science/">Science</a>|<a class="menu_bar_links" href="/strange-stories/">Stories</a>|<a class="menu_bar_links" href="/bizarre-medical-stories/">Medicine</a>|<a class="menu_bar_links" href="/fun-tech/">Tech</a>|<a class="menu_bar_links" href="/cool-home-design/">Home Design</a>|<a class="menu_bar_links" href="/misc/">Misc</a>|<a class="menu_bar_links" href="/random.aspx">Random</a>
+    </div>
+</div>
 
 
 <!--Oddee's container -->
@@ -160,12 +203,13 @@
 
 
 
+
 <!--Oddee's menu-->
 
-<div id="d_menu">
+<!--<div id="d_menu">
 <img src="/_media/imgs/oddee/menu.jpg" width="96" height="564" usemap="#menu_Map" border="0" onload="if (screen.width < 1135) { document.getElementById('d_grid').style.width='1000px'; document.getElementById('d_menu').style.display='none' }">
 <br><img src="/_media/imgs/oddee/fondomenufin.jpg">
-</div>
+</div>-->
 
 
 <!--/Oddee's menu  -->
@@ -177,11 +221,11 @@
 
 <!--Oddee's Content -->
 
-<div id="d_content">
-<div id="d_contentS1">&nbsp;</div>
-<div id="d_contentC">
-
-	
+    <div id="d_content">
+        <div id="d_contentS1">
+            &nbsp;</div>
+        <div id="d_contentC">
+            
 
 <h1 class="tit">Privacy Policy</h1>
 We respect our users’ privacy and we are committed to safeguarding their privacy while online at ODDEE.COM. The following discloses the information gathering and dissemination practices for ODDEE.COM.
@@ -248,74 +292,70 @@ If users have any questions or suggestions regarding our privacy policy, please 
 
 
 
-
-</div><div id="d_contentS2">&nbsp;</div>
-</div>
+        </div>
+        <div id="d_contentS2">
+            &nbsp;</div>
+    </div>
 
 <!--/Oddee's Content -->
-
-
-
-
-
-
-
-<!-- Oddee's image maps definition -->
-<map name="menu_Map">
-<area shape="rect" alt="" coords="0,533,87,556" href="/random.aspx">
-<area shape="rect" alt="" coords="30,498,87,525" href="/misc/">
-<area shape="rect" alt="" coords="30,464,87,489" href="/fun-tech/">
-<area shape="rect" alt="" coords="8,427,87,455" href="/weird-science/">
-<area shape="rect" alt="" coords="0,393,87,420" href="/bizarre-medical-stories/">
-<area shape="rect" alt="" coords="15,358,87,385" href="/strange-stories/">
-<area shape="rect" alt="" coords="15,322,87,350" href="/strange-people/">
-<area shape="rect" alt="" coords="22,286,87,315" href="/cool-gift-ideas/">
-<area shape="rect" alt="" coords="9,253,87,279" href="/cool-home-design/">
-<area shape="rect" alt="" coords="7,216,87,245" href="/cool-objects/">
-<area shape="rect" alt="" coords="15,183,86,210" href="/funny-names/">
-<area shape="rect" alt="" coords="15,148,87,175" href="/cool-places/">
-<area shape="rect" alt="" coords="30,113,87,140" href="/funny-signs/">
-<area shape="rect" alt="" coords="30,76,86,104" href="/cool-ads/">
-<area shape="rect" alt="" coords="30,41,87,70" href="/amazing-art/">
-<area shape="rect" alt="" coords="22,7,88,35" href="/">
-</map>
-<map name="menu2_Map">
-	<area shape="rect" alt="" coords="0,54,150,78" href="/contactus.aspx">
-	<area shape="rect" alt="" coords="11,26,149,54" href="http://feeds.feedburner.com/Oddee">
-	<area shape="rect" alt="" coords="54,0,150,26" href="/about.aspx">
-</map>
-<map name="followus_Map">
-<area shape="rect" alt="" coords="98,18,145,64" href="http://feeds.feedburner.com/Oddee" target="_blank">
-<area shape="rect" alt="" coords="50,18,98,64" href="http://www.facebook.com/Oddee" target="_blank">
-<area shape="rect" alt="" coords="0,18,50,63" href="http://www.twitter.com/OddeeBlog" target="_blank">
-</map>
+    <map name="menu2_Map">
+        <area shape="rect" alt="" coords="0,54,150,78" href="/contactus.aspx">
+        <area shape="rect" alt="" coords="11,26,149,54" href="http://feeds.feedburner.com/Oddee">
+        <area shape="rect" alt="" coords="54,0,150,26" href="/about.aspx">
+    </map>
+    <map name="followus_Map">
+        <area shape="rect" alt="" coords="98,18,145,64" href="http://feeds.feedburner.com/Oddee" target="_blank">
+        <area shape="rect" alt="" coords="50,18,98,64" href="http://www.facebook.com/Oddee" target="_blank">
+        <area shape="rect" alt="" coords="0,18,50,63" href="http://www.twitter.com/OddeeBlog" target="_blank">
+    </map>
 <!--/Oddee's image maps definition -->
 
-
-
-
-<table cellpadding="0" cellspacing="0" id="t_search">
-    <tbody><tr>
-        <td>Search:</td>
-        <td>
-            <form action="http://www.google.com/cse" id="cse-search-box">
-	            <div style="position:relative;top:7px;">
-	                <input type="hidden" name="cx" value="partner-pub-1943569606117530:41g334tv6io">
-	                <input type="hidden" name="ie" value="UTF-8">
-	                <input type="text" name="q" size="14">
-	                <input type="submit" name="sa" value="Go">
-	            </div>
-            </form>
-        </td>
-        <form action="http://www.feedburner.com/fb/a/emailverify" method="post" target="popupwindow" onsubmit="GAevent('subscriptions','EmailFeedburner', this.email.value, null, true);window.open('http://www.feedburner.com/fb/a/emailverifySubmit?feedId=1010610', 'popupwindow', 'scrollbars=yes,width=550,height=520');return true;"></form>
-            <td align="center">
-                &nbsp;&nbsp;
-                Subscribe: 
-                <input id="email" type="text" size="13" onfocus="if (this.value=='Your E-mail') { this.value='' }" value="Your E-mail" name="email"><input type="hidden" value="http://feeds.feedburner.com/~e?ffid=1010610" name="url"><input type="hidden" value="Oddee" name="title"><input type="hidden" name="loc" value="en_US"><input type="submit" value="Go">
+    <table cellpadding="0" cellspacing="0" id="t_search">
+        <tbody><tr>
+            <td>
+                <div style=" position:relative;top:7px;">
+                    Search:</div>
             </td>
-        
-    </tr>
-</tbody></table>
+            <td>
+                <form action="http://www.google.com/cse" id="cse-search-box">
+                <div style="position:relative;top:7px;">
+                    <input type="hidden" name="cx" value="partner-pub-1943569606117530:41g334tv6io">
+                    <input type="hidden" name="ie" value="UTF-8">
+                    <input type="text" name="q" size="14">
+                    <input type="submit" name="sa" value="Go">
+                </div>
+                </form>
+            </td>
+        <!--<form action="http://www.feedburner.com/fb/a/emailverify" method="post" target="popupwindow" onsubmit="GAevent('subscriptions','EmailFeedburner', this.email.value, null, true);window.open('http://www.feedburner.com/fb/a/emailverifySubmit?feedId=1010610', 'popupwindow', 'scrollbars=yes,width=550,height=520');return true;">-->
+        <script type="text/javascript">
+            function email_validate(obj) {
+                if ($(obj).val() == "Your E-mail") {
+                    alert("You need to enter an e-mail address");
+                    return false;
+                } else {
+                    GAevent('subscriptions', 'Email', $(obj).value, null, true);
+
+                    setCookie("subscribed", 1, 365);
+                    
+                    var left = (screen.width / 2) - (600 / 2);
+                    var top = (screen.height / 2) - (350 / 2);
+                    popupw = window.open('about:blank', 'popupw', 'width=600, height=400, top=' + top + ', left=' + left);
+                    
+                    return true;
+                }
+            }
+        </script>
+            <form id="email_subscription" name="email_subscription" action="/newsletter/subscribe.aspx" method="post" target="popupw" onsubmit="return email_validate($('txtEmail'));"></form>
+            <td align="center">
+                <div style="position:relative;top:7px;">
+                    Subscribe:
+                <!--<input id="email" type="text" size="13" onfocus="if (this.value=='Your E-mail') { this.value='' }" value="Your E-mail" name="email"><input type="hidden" value="http://feeds.feedburner.com/~e?ffid=1010610" name="url"/><input type="hidden" value="Oddee" name="title"/><input type="hidden" name="loc" value="en_US"/><input type="submit" value="Go" />-->
+                    <input id="txtEmail" type="text" size="13" onblur="if(this.value=='') this.value='Your E-mail'" onfocus="if(this.value =='Your E-mail') this.value=''" value="Your E-mail" name="txtEmail">
+                    <input type="submit" value="Go"></div>
+            </td>
+            
+        </tr>
+    </tbody></table>
 
 
 
@@ -324,1168 +364,1775 @@ If users have any questions or suggestions regarding our privacy policy, please 
 
 
 <!--Oddee's middle sidebar -->
-<div id="d_sidebar1">
-    
+    <div id="d_sidebar1">
+        
 
-	
-	    <!-- 300x250_above_the_fold -->
-	    <div id="div-gpt-ad-1346100848791-2" style="width:300px; height:250px;">
-		    <script type="text/javascript">
+
+        
+
+    <!-- 300x250_above_the_fold -->
+            <div id="div-gpt-ad-1346100848791-2" style="width:300px;height:250px;margin-top:15px;">
+        <script type="text/javascript">
+
 			    googletag.cmd.push(function() { googletag.display('div-gpt-ad-1346100848791-2'); });
 			</script>
+            </div>
+        
+
+
+
+        <script type="text/javascript">
+            /*$(function () {
+                //$('#chritsmas_cat').animate({ top: -96 }, 'fast');
+
+                var degree = 0, timer;
+                var right_left = 1;
+
+                rotate();
+
+                function rotate() {
+                    $('#chritsmas_bells').css({ WebkitTransform: 'rotate(' + degree + 'deg)' });
+                    $('#chritsmas_bells').css({ '-moz-transform': 'rotate(' + degree + 'deg)' });
+
+                    timer = setTimeout(function () {
+                        if (degree > -25 && degree < 25)
+                            degree += right_left;
+                        else {
+                            right_left == 1 ? right_left = -1 : right_left = 1;
+                            degree += right_left;
+                        }
+
+                        rotate();
+                    }, 10);
+                }
+            });*/
+        </script>        
+        
+        
+
+<table width="300" background="/_media/imgs/oddee/fondoBarra.gif" cellpadding="0" cellspacing="0" style="margin-top:10px;">
+    <tbody><tr>
+        <td style="padding-left:15px;" height="35">
+            <img src="/_media/imgs/oddee/CoolProducts.gif"></td>
+        <td width="8">
+            &nbsp;</td>
+    </tr>
+    <tr>
+        <td colspan="2">
+            <div id="slideshow-div" class="rs-slideshow">
+
+                    
+                            
+                            <div class="slide-container">
+                                <a onclick="GAevent('page','click_SB_products300', 'http://www.amazon.com/Cute-Teddy-Bear-USB-Webcam/dp/B002Y2EVW0/', null, true)" href="http://www.amazon.com/Cute-Teddy-Bear-USB-Webcam/dp/B002Y2EVW0/?tag=oddee300-20" target="_blank">
+                                <img src="/_media/imgs/Oddee/prodBIG/124.jpg" title="Cute Teddy Bear USB Webcam" width="300"></a>
+                                <span class="slide-caption">Lightstar Pillow</span>
+                                </div>
+                                <ol class="slides">
+                            
+                            
+                            <li>
+                                <a onclick="GAevent('page','click_SB_products300', 'http://www.amazon.com/WowWee-Rovio-Enabled-Robotic-WebCam/dp/B001CQLGD6/', null, true)" href="/_media/imgs/oddee/prodBIG/122.jpg" target="_blank" title="Rovio Wi-Fi Enabled Robotic WebCam" data-link-to="http://www.amazon.com/WowWee-Rovio-Enabled-Robotic-WebCam/dp/B001CQLGD6/?tag=oddee300-20">Rovio Wi-Fi Enabled Robotic WebCam</a>
+                            </li>
+                            
+                            
+                            <li>
+                                <a onclick="GAevent('page','click_SB_products300', 'http://www.amazon.com/Cute-Little-Mans-Webcam-Illumination/dp/B001ABTTTQ/', null, true)" href="/_media/imgs/oddee/prodBIG/123.jpg" target="_blank" title="Cute Little Man's Foot USB Webcam" data-link-to="http://www.amazon.com/Cute-Little-Mans-Webcam-Illumination/dp/B001ABTTTQ/?tag=oddee300-20">Cute Little Man's Foot USB Webcam</a>
+                            </li>
+                            
+                            
+                            <li>
+                                <a onclick="GAevent('page','click_SB_products300', 'http://www.amazon.com/Wallet-Always-inLoadedin-Office-Product/dp/B0029SVXAC/', null, true)" href="/_media/imgs/oddee/prodBIG/120.jpg" target="_blank" title="Loaded! $100 Bill Wallet" data-link-to="http://www.amazon.com/Wallet-Always-inLoadedin-Office-Product/dp/B0029SVXAC/?tag=oddee300-20">Loaded! $100 Bill Wallet</a>
+                            </li>
+                            
+                            
+                            <li>
+                                <a onclick="GAevent('page','click_SB_products300', 'http://www.amazon.com/PROMOTION-DISPLAY-TECHNOLOGY-MINORU-Minoru/dp/B0027VT704/', null, true)" href="/_media/imgs/oddee/prodBIG/121.jpg" target="_blank" title="Minoru Webcam USB 3D" data-link-to="http://www.amazon.com/PROMOTION-DISPLAY-TECHNOLOGY-MINORU-Minoru/dp/B0027VT704/?tag=oddee300-20">Minoru Webcam USB 3D</a>
+                            </li>
+                            
+                            
+                            <li>
+                                <a onclick="GAevent('page','click_SB_products300', 'http://www.amazon.com/Fred-Friends-TSAW-Table-Saw/dp/B002L162IK/', null, true)" href="/_media/imgs/oddee/prodBIG/118.jpg" target="_blank" title="Fred Table Saw" data-link-to="http://www.amazon.com/Fred-Friends-TSAW-Table-Saw/dp/B002L162IK/?tag=oddee300-20">Fred Table Saw</a>
+                            </li>
+                            
+                            
+                            <li>
+                                <a onclick="GAevent('page','click_SB_products300', 'http://www.amazon.com/Ak-Bullet-Ice-Cube-Tray/dp/B001J8RWWQ/', null, true)" href="/_media/imgs/oddee/prodBIG/119.jpg" target="_blank" title="Bullet AK47 Ice Cube Tray" data-link-to="http://www.amazon.com/Ak-Bullet-Ice-Cube-Tray/dp/B001J8RWWQ/?tag=oddee300-20">Bullet AK47 Ice Cube Tray</a>
+                            </li>
+                            
+                            
+                            <li>
+                                <a onclick="GAevent('page','click_SB_products300', 'http://www.amazon.com/17988-BBQ-Branding-Iron/dp/B001S343AQ/', null, true)" href="/_media/imgs/oddee/prodBIG/116.jpg" target="_blank" title="Bbq Branding Iron For Personalized Grilling" data-link-to="http://www.amazon.com/17988-BBQ-Branding-Iron/dp/B001S343AQ/?tag=oddee300-20">Bbq Branding Iron For Personalized Grilling</a>
+                            </li>
+                            
+                            
+                            <li>
+                                <a onclick="GAevent('page','click_SB_products300', 'http://www.amazon.com/ToastieTush-Round-TT-R-ToastieTush-Toilet-Heater/dp/B001MP46AC/', null, true)" href="/_media/imgs/oddee/prodBIG/117.jpg" target="_blank" title="Toilet Seat Heater" data-link-to="http://www.amazon.com/ToastieTush-Round-TT-R-ToastieTush-Toilet-Heater/dp/B001MP46AC/?tag=oddee300-20">Toilet Seat Heater</a>
+                            </li>
+                            
+                            
+                            <li>
+                                <a onclick="GAevent('page','click_SB_products300', 'http://www.amazon.com/100-Bill-Beach-Towels-30/dp/B002ZFWUVA/', null, true)" href="/_media/imgs/oddee/prodBIG/114.jpg" target="_blank" title="Beach Towels and Bath Towels Collection" data-link-to="http://www.amazon.com/100-Bill-Beach-Towels-30/dp/B002ZFWUVA/?tag=oddee300-20">Beach Towels and Bath Towels Collection</a>
+                            </li>
+                            
+
+                            </ol>
+                        
+
+                <span id="rsslide_prev" style="cursor:pointer;position:absolute;bottom:150px;left:2px;opacity:0.3;" onmouseover="$(this).css('opacity', 0.9);" onmouseout="$(this).css('opacity', 0.3);">
+                <img src="/_media/imgs/Oddee/rnd_prev.png"></span>
+                <span id="rsslide_next" style="cursor:pointer;position:absolute;bottom:150px;left:282px;opacity:0.3;" onmouseover="$(this).css('opacity', 0.9);" onmouseout="$(this).css('opacity', 0.3);">
+                <img src="/_media/imgs/Oddee/rnd_next.png"></span>
+            </div>
+            <script src="/_media/js/Oddee/jquery.rs.slideshow.min.js"></script>
+            <script type="text/javascript">
+                $('#slideshow-div').rsfSlideshow({
+                    interval: 3,
+                    transition: 500,
+                    effect: {
+                        effects: Array('slideUp', 'slideLeft', 'slideRight'),
+                        iteration: 'backAndForth'
+                    }
+                });
+
+                $('#rsslide_next').click(function () {
+                    $('#slideshow-div').rsfSlideshow('nextSlide');
+                });
+
+                $('#rsslide_prev').click(function () {
+                    $('#slideshow-div').rsfSlideshow('previousSlide');
+                });
+            </script>
+        </td>
+    </tr>
+</tbody></table>
+
+        <div style="background-color:#eadec9;padding:8px;margin-top:10px;">
+            <img src="/_media/imgs/oddee/BestThisMonth.gif"></div>
+        
+
+
+
+
+
+
+		
+
+<div class="sb1_link" style="margin-bottom:10px;">
+    <div style="position:relative; overflow:hidden;">
+        <a onclick="GAevent('page','click_SB_Month', '98590', null, true)" href="/item_98590.aspx" title="9 Most Shocking Teen Fads - ">
+        <img width="300" height="100" src="/_media/imgs/oddee/artSB/98590.jpg" style="" border="0">
+
+        <div style="position:absolute;bottom:5px;width:40px;height:15px;background-color:black;opacity:0.5;filter: alpha(opacity = 50);z-index:3;"></div><div style="position:absolute;bottom:3px;float:left;font-family:arial;font-size:12px;color:gold;margin-left:3px;z-index:3;"><strong>NSFW</strong></div>
+
+        <div class="sb1_bk" style="position:absolute;top:-17px;width:100%;height:0px;background-color:black;opacity:0.5;filter: alpha(opacity = 50);z-index:3;"></div>
+        </a><div class="sb1_text" style="position:absolute;top:-17px;left:0px;font-family:arial;font-size:12px;color:#ffffff;margin-left:3px;z-index:3;"><a onclick="GAevent('page','click_SB_Month', '98590', null, true)" href="/item_98590.aspx" title="9 Most Shocking Teen Fads - ">
+            </a><a href="/strange-people/" style="color:#ffffff;text-decoration:none;">Strange People</a>
         </div>
-    
-    <table width="300" background="/_media/imgs/oddee/fondoBarra.gif" cellpadding="0" cellspacing="0">	
-	    <tbody><tr><td colspan="2" style="padding-left:15px" height="35"><img src="/_media/imgs/oddee/BestThisMonth.gif"></td><td width="8"></td></tr>
-            		
-
-	<tr>
-		<td class="colI1"><img width="50" src="/_media/imgs/articles2/a98349_min2.jpg"></td>
-		<td class="colI2"><a class="artd" href="/item_98349.aspx" title="9 Weird Facts About Marijuana - marijuana, 420, norml, mpp, ">
-		9 Weird Facts About Marijuana</a></td>
-	</tr>
-	<tr><td height="8"></td></tr>
-  
-		
-
-	<tr>
-		<td class="colI1"><img width="50" src="/_media/imgs/articles2/a98320_min2.jpg"></td>
-		<td class="colI2"><a class="artd" href="/item_98320.aspx" title="10 Amazing Photos of Before and After Makeup - ">
-		10 Amazing Photos of Before and After Makeup</a></td>
-	</tr>
-	<tr><td height="8"></td></tr>
-  
-		
-
-	<tr>
-		<td class="colI1"><img width="50" src="/_media/imgs/articles2/a98330_min2.jpg"></td>
-		<td class="colI2"><a class="artd" href="/item_98330.aspx" title="12 Amazing Real People Who Look Like Cartoons - ">
-		12 Amazing Real People Who Look Like Cartoons</a></td>
-	</tr>
-	<tr><td height="8"></td></tr>
-  
-
-
- 
-
-    </tbody></table>
-    
-    
-        <table width="300" background="/_media/imgs/oddee/fondoBarra.gif" cellpadding="0" cellspacing="0">
-            <tbody><tr>
-                <td colspan="2" style="padding-left:15px" height="35"><img src="/_media/imgs/oddee/NewAt.gif"></td><td width="8"></td>
-            </tr>
-            		
-
-	<tr>
-		<td class="colI1"><img width="50" src="/_media/imgs/articles2/a98369_min2.jpg"></td>
-		<td class="colI2"><a class="artd" href="/item_98369.aspx" title="12 Incredible Architectural Illusions - ">
-		12 Incredible Architectural Illusions</a></td>
-	</tr>
-	<tr><td height="8"></td></tr>
-  
-		
-
-	<tr>
-		<td class="colI1"><img width="50" src="/_media/imgs/articles2/a98360_min2.jpg"></td>
-		<td class="colI2"><a class="artd" href="/item_98360.aspx" title="10 Coolest Dental Offices  - ">
-		10 Coolest Dental Offices </a></td>
-	</tr>
-	<tr><td height="8"></td></tr>
-  
-		
-
-	<tr>
-		<td class="colI1"><img width="50" src="/_media/imgs/articles2/a98358_min2.jpg"></td>
-		<td class="colI2"><a class="artd" href="/item_98358.aspx" title="Only In Los Angeles! - only in LA, Hollywood, los angeles">
-		Only In Los Angeles!</a></td>
-	</tr>
-	<tr><td height="8"></td></tr>
-  
-		
-
-	<tr>
-		<td class="colI1"><img width="50" src="/_media/imgs/articles2/a98359_min2.jpg"></td>
-		<td class="colI2"><a class="artd" href="/item_98359.aspx" title="10 Coolest Prosthetic Limbs - ">
-		10 Coolest Prosthetic Limbs</a></td>
-	</tr>
-	<tr><td height="8"></td></tr>
-  
-		
-
-	<tr>
-		<td class="colI1"><img width="50" src="/_media/imgs/articles2/a98357_min2.jpg"></td>
-		<td class="colI2"><a class="artd" href="/item_98357.aspx" title="7 Amazing Animals Rescuing Other Animals (Caught on Video) - animal, rescue, kruger">
-		7 Amazing Animals Rescuing Other Animals (Caught on Video)</a></td>
-	</tr>
-	<tr><td height="8"></td></tr>
-  
-		
-
-	<tr>
-		<td class="colI1"><img width="50" src="/_media/imgs/articles2/a98355_min2.jpg"></td>
-		<td class="colI2"><a class="artd" href="/item_98355.aspx" title="10 Odd But Awesome Publicity Stunts - publicity, stunts, pranks, commercial, ads">
-		10 Odd But Awesome Publicity Stunts</a></td>
-	</tr>
-	<tr><td height="8"></td></tr>
-  
-		
-
-	<tr>
-		<td class="colI1"><img width="50" src="/_media/imgs/articles2/a98356_min2.jpg"></td>
-		<td class="colI2"><a class="artd" href="/item_98356.aspx" title="8 Most Shocking Bullying Stories - ">
-		8 Most Shocking Bullying Stories</a></td>
-	</tr>
-	<tr><td height="8"></td></tr>
-  
-		
-
-	<tr>
-		<td class="colI1"><img width="50" src="/_media/imgs/articles2/a98354_min2.jpg"></td>
-		<td class="colI2"><a class="artd" href="/item_98354.aspx" title="12 Craziest Flexible People Stretching in Public - ">
-		12 Craziest Flexible People Stretching in Public <img src="/_media/imgs/oddee/tagnsfw2.gif"></a></td>
-	</tr>
-	<tr><td height="8"></td></tr>
-  
-		
-
-	<tr>
-		<td class="colI1"><img width="50" src="/_media/imgs/articles2/a98325_min2.jpg"></td>
-		<td class="colI2"><a class="artd" href="/item_98325.aspx" title="15 Modern Fruit Bowls  - ">
-		15 Modern Fruit Bowls </a></td>
-	</tr>
-	<tr><td height="8"></td></tr>
-  
-		
-
-	<tr>
-		<td class="colI1"><img width="50" src="/_media/imgs/articles2/a98348_min2.jpg"></td>
-		<td class="colI2"><a class="artd" href="/item_98348.aspx" title="12 Hilarious Public Apologies - ">
-		12 Hilarious Public Apologies</a></td>
-	</tr>
-	<tr><td height="8"></td></tr>
-  
-		
-
-	<tr>
-		<td class="colI1"><img width="50" src="/_media/imgs/articles2/a98351_min2.jpg"></td>
-		<td class="colI2"><a class="artd" href="/item_98351.aspx" title="10 Coolest Treadmills - ">
-		10 Coolest Treadmills</a></td>
-	</tr>
-	<tr><td height="8"></td></tr>
-  
-		
-
-	<tr>
-		<td class="colI1"><img width="50" src="/_media/imgs/articles2/a98350_min2.jpg"></td>
-		<td class="colI2"><a class="artd" href="/item_98350.aspx" title="12 Most Badass Chest Body Mods - body modification, tattoo, piercing, needles, extreme">
-		12 Most Badass Chest Body Mods</a></td>
-	</tr>
-	<tr><td height="8"></td></tr>
-  
-		
-
-	<tr>
-		<td class="colI1"><img width="50" src="/_media/imgs/articles2/a98349_min2.jpg"></td>
-		<td class="colI2"><a class="artd" href="/item_98349.aspx" title="9 Weird Facts About Marijuana - marijuana, 420, norml, mpp, ">
-		9 Weird Facts About Marijuana</a></td>
-	</tr>
-	<tr><td height="8"></td></tr>
-  
-		
-
-	<tr>
-		<td class="colI1"><img width="50" src="/_media/imgs/articles2/a98346_min2.jpg"></td>
-		<td class="colI2"><a class="artd" href="/item_98346.aspx" title="9 Shocking Cases of When You Are Too Fat To… - controversial, fat, too fat to, overweight, shocking">
-		9 Shocking Cases of When You Are Too Fat To…</a></td>
-	</tr>
-	<tr><td height="8"></td></tr>
-  
-		
-
-	<tr>
-		<td class="colI1"><img width="50" src="/_media/imgs/articles2/a98352_min2.jpg"></td>
-		<td class="colI2"><a class="artd" href="/item_98352.aspx" title="15 Amazing Photos From the World's Best Fathers - ">
-		15 Amazing Photos From the World's Best Fathers</a></td>
-	</tr>
-	<tr><td height="8"></td></tr>
-  
-		
-
-	<tr>
-		<td class="colI1"><img width="50" src="/_media/imgs/articles2/a98341_min2.jpg"></td>
-		<td class="colI2"><a class="artd" href="/item_98341.aspx" title="12 Coolest Cable Organizers - ">
-		12 Coolest Cable Organizers</a></td>
-	</tr>
-	<tr><td height="8"></td></tr>
-  
-		
-
-	<tr>
-		<td class="colI1"><img width="50" src="/_media/imgs/articles2/a98338_min2.jpg"></td>
-		<td class="colI2"><a class="artd" href="/item_98338.aspx" title="10 Coolest Homes Made From Vehicles - home, house, plane, train, car, vehicle, automobile, recycled, rennovated">
-		10 Coolest Homes Made From Vehicles</a></td>
-	</tr>
-	<tr><td height="8"></td></tr>
-  
-		
-
-	<tr>
-		<td class="colI1"><img width="50" src="/_media/imgs/articles2/a98336_min2.jpg"></td>
-		<td class="colI2"><a class="artd" href="/item_98336.aspx" title="12 Craziest Pregnant Costumes - ">
-		12 Craziest Pregnant Costumes</a></td>
-	</tr>
-	<tr><td height="8"></td></tr>
-  
-		
-
-	<tr>
-		<td class="colI1"><img width="50" src="/_media/imgs/articles2/a98334_min2.jpg"></td>
-		<td class="colI2"><a class="artd" href="/item_98334.aspx" title="10 Weird But Totally Cool Bunk Beds - ">
-		10 Weird But Totally Cool Bunk Beds</a></td>
-	</tr>
-	<tr><td height="8"></td></tr>
-  
-		
-
-	<tr>
-		<td class="colI1"><img width="50" src="/_media/imgs/articles2/a98333_min2.jpg"></td>
-		<td class="colI2"><a class="artd" href="/item_98333.aspx" title="12 Creepiest Looking New Species - ">
-		12 Creepiest Looking New Species</a></td>
-	</tr>
-	<tr><td height="8"></td></tr>
-  
-		
-
-	<tr>
-		<td class="colI1"><img width="50" src="/_media/imgs/articles2/a98332_min2.jpg"></td>
-		<td class="colI2"><a class="artd" href="/item_98332.aspx" title="10 Weirdest Things Ever Done For Charity - charity, charitable, donations, weird, funny">
-		10 Weirdest Things Ever Done For Charity</a></td>
-	</tr>
-	<tr><td height="8"></td></tr>
-  
-		
-
-	<tr>
-		<td class="colI1"><img width="50" src="/_media/imgs/articles2/a98339_min2.jpg"></td>
-		<td class="colI2"><a class="artd" href="/item_98339.aspx" title="12 Totally Crazy Slippers - ">
-		12 Totally Crazy Slippers</a></td>
-	</tr>
-	<tr><td height="8"></td></tr>
-  
-		
-
-	<tr>
-		<td class="colI1"><img width="50" src="/_media/imgs/articles2/a98328_min2.jpg"></td>
-		<td class="colI2"><a class="artd" href="/item_98328.aspx" title="12 Coolest Magazine Holders and Racks - ">
-		12 Coolest Magazine Holders and Racks</a></td>
-	</tr>
-	<tr><td height="8"></td></tr>
-  
-		
-
-	<tr>
-		<td class="colI1"><img width="50" src="/_media/imgs/articles2/a98327_min2.jpg"></td>
-		<td class="colI2"><a class="artd" href="/item_98327.aspx" title="10 Freakiest Cat Videos - maru, cat, lolcat, helicopter cat">
-		10 Freakiest Cat Videos</a></td>
-	</tr>
-	<tr><td height="8"></td></tr>
-  
-		
-
-	<tr>
-		<td class="colI1"><img width="50" src="/_media/imgs/articles2/a98330_min2.jpg"></td>
-		<td class="colI2"><a class="artd" href="/item_98330.aspx" title="12 Amazing Real People Who Look Like Cartoons - ">
-		12 Amazing Real People Who Look Like Cartoons</a></td>
-	</tr>
-	<tr><td height="8"></td></tr>
-  
-		
-
-	<tr>
-		<td class="colI1"><img width="50" src="/_media/imgs/articles2/a98329_min2.jpg"></td>
-		<td class="colI2"><a class="artd" href="/item_98329.aspx" title="16 of The Funniest ‘Out of Order' Signs - ">
-		16 of The Funniest ‘Out of Order' Signs</a></td>
-	</tr>
-	<tr><td height="8"></td></tr>
-  
-		
-
-	<tr>
-		<td class="colI1"><img width="50" src="/_media/imgs/articles2/a98326_min2.jpg"></td>
-		<td class="colI2"><a class="artd" href="/item_98326.aspx" title="12 Hilarious ‘Slide to Unlock' Ideas - ">
-		12 Hilarious ‘Slide to Unlock' Ideas</a></td>
-	</tr>
-	<tr><td height="8"></td></tr>
-  
-		
-
-	<tr>
-		<td class="colI1"><img width="50" src="/_media/imgs/articles2/a98324_min2.jpg"></td>
-		<td class="colI2"><a class="artd" href="/item_98324.aspx" title="9 Most Controversial Stories About Traveling with Kids by Plane - ">
-		9 Most Controversial Stories About Traveling with Kids by Plane</a></td>
-	</tr>
-	<tr><td height="8"></td></tr>
-  
-		
-
-	<tr>
-		<td class="colI1"><img width="50" src="/_media/imgs/articles2/a98321_min2.jpg"></td>
-		<td class="colI2"><a class="artd" href="/item_98321.aspx" title="12 Most Breathtaking Vaulted Ceilings - ">
-		12 Most Breathtaking Vaulted Ceilings</a></td>
-	</tr>
-	<tr><td height="8"></td></tr>
-  
-		
-
-	<tr>
-		<td class="colI1"><img width="50" src="/_media/imgs/articles2/a98323_min2.jpg"></td>
-		<td class="colI2"><a class="artd" href="/item_98323.aspx" title="12 Hilarious Photos of First Day of School - ">
-		12 Hilarious Photos of First Day of School</a></td>
-	</tr>
-	<tr><td height="8"></td></tr>
-  
-		
-
-	<tr>
-		<td class="colI1"><img width="50" src="/_media/imgs/articles2/a98322_min2.jpg"></td>
-		<td class="colI2"><a class="artd" href="/item_98322.aspx" title="10 Disgusting Common Ingredients In Cosmetics - makeup, cosmetics, gross">
-		10 Disgusting Common Ingredients In Cosmetics</a></td>
-	</tr>
-	<tr><td height="8"></td></tr>
-  
-		
-
-	<tr>
-		<td class="colI1"><img width="50" src="/_media/imgs/articles2/a98320_min2.jpg"></td>
-		<td class="colI2"><a class="artd" href="/item_98320.aspx" title="10 Amazing Photos of Before and After Makeup - ">
-		10 Amazing Photos of Before and After Makeup</a></td>
-	</tr>
-	<tr><td height="8"></td></tr>
-  
-		
-
-	<tr>
-		<td class="colI1"><img width="50" src="/_media/imgs/articles2/a98319_min2.jpg"></td>
-		<td class="colI2"><a class="artd" href="/item_98319.aspx" title="12 Most Amazing Bird Formations - ">
-		12 Most Amazing Bird Formations</a></td>
-	</tr>
-	<tr><td height="8"></td></tr>
-  
-		
-
-	<tr>
-		<td class="colI1"><img width="50" src="/_media/imgs/articles2/a98316_min2.jpg"></td>
-		<td class="colI2"><a class="artd" href="/item_98316.aspx" title="14 Great Parody Twitter Accounts - twitter, facebook, internet, funny, parody">
-		14 Great Parody Twitter Accounts <img src="/_media/imgs/oddee/tagnsfw2.gif"></a></td>
-	</tr>
-	<tr><td height="8"></td></tr>
-  
-		
-
-	<tr>
-		<td class="colI1"><img width="50" src="/_media/imgs/articles2/a98318_min2.jpg"></td>
-		<td class="colI2"><a class="artd" href="/item_98318.aspx" title="10 Hilarious Hipster Mustaches - ">
-		10 Hilarious Hipster Mustaches</a></td>
-	</tr>
-	<tr><td height="8"></td></tr>
-  
-		
-
-	<tr>
-		<td class="colI1"><img width="50" src="/_media/imgs/articles2/a98317_min2.jpg"></td>
-		<td class="colI2"><a class="artd" href="/item_98317.aspx" title="10 Coolest Gadgets and Furniture Made of Concrete - ">
-		10 Coolest Gadgets and Furniture Made of Concrete</a></td>
-	</tr>
-	<tr><td height="8"></td></tr>
-  
-		
-
-	<tr>
-		<td class="colI1"><img width="50" src="/_media/imgs/articles2/a98311_min2.jpg"></td>
-		<td class="colI2"><a class="artd" href="/item_98311.aspx" title="Another 15 of the Funniest Sleeping Positions - ">
-		Another 15 of the Funniest Sleeping Positions</a></td>
-	</tr>
-	<tr><td height="8"></td></tr>
-  
-		
-
-	<tr>
-		<td class="colI1"><img width="50" src="/_media/imgs/articles2/a98314_min2.jpg"></td>
-		<td class="colI2"><a class="artd" href="/item_98314.aspx" title="10 Most Incredible Sex Facts - ">
-		10 Most Incredible Sex Facts <img src="/_media/imgs/oddee/tagnsfw2.gif"></a></td>
-	</tr>
-	<tr><td height="8"></td></tr>
-  
-		
-
-	<tr>
-		<td class="colI1"><img width="50" src="/_media/imgs/articles2/a98315_min2.jpg"></td>
-		<td class="colI2"><a class="artd" href="/item_98315.aspx" title="12 Absolutely Hilarious Elevator Notes - ">
-		12 Absolutely Hilarious Elevator Notes</a></td>
-	</tr>
-	<tr><td height="8"></td></tr>
-  
-		
-
-	<tr>
-		<td class="colI1"><img width="50" src="/_media/imgs/articles2/a98310_min2.jpg"></td>
-		<td class="colI2"><a class="artd" href="/item_98310.aspx" title="10 Funniest Public Pranks - pranks, public, funny, practical jokes, punked, trolling">
-		10 Funniest Public Pranks</a></td>
-	</tr>
-	<tr><td height="8"></td></tr>
-  
-		
-
-	<tr>
-		<td class="colI1"><img width="50" src="/_media/imgs/articles2/a98313_min2.jpg"></td>
-		<td class="colI2"><a class="artd" href="/item_98313.aspx" title="10 Most Inspirational Athletes With Prosthetic Limbs - ">
-		10 Most Inspirational Athletes With Prosthetic Limbs</a></td>
-	</tr>
-	<tr><td height="8"></td></tr>
-  
-		
-
-	<tr>
-		<td class="colI1"><img width="50" src="/_media/imgs/articles2/a98306_min2.jpg"></td>
-		<td class="colI2"><a class="artd" href="/item_98306.aspx" title="9 of the Most Brazen Art Thefts - art heist, mona lisa, zurich">
-		9 of the Most Brazen Art Thefts</a></td>
-	</tr>
-	<tr><td height="8"></td></tr>
-  
-		
-
-	<tr>
-		<td class="colI1"><img width="50" src="/_media/imgs/articles2/a98312_min2.jpg"></td>
-		<td class="colI2"><a class="artd" href="/item_98312.aspx" title="10 of The Worst Fake IDs - ">
-		10 of The Worst Fake IDs</a></td>
-	</tr>
-	<tr><td height="8"></td></tr>
-  
-		
-
-	<tr>
-		<td class="colI1"><img width="50" src="/_media/imgs/articles2/a98309_min2.jpg"></td>
-		<td class="colI2"><a class="artd" href="/item_98309.aspx" title="10 Awesomely Clever Pet Friendly Furniture Items - ">
-		10 Awesomely Clever Pet Friendly Furniture Items</a></td>
-	</tr>
-	<tr><td height="8"></td></tr>
-  
-		
-
-	<tr>
-		<td class="colI1"><img width="50" src="/_media/imgs/articles2/a98301_min2.jpg"></td>
-		<td class="colI2"><a class="artd" href="/item_98301.aspx" title="7 Amazing Anesthesia Awareness stories - ">
-		7 Amazing Anesthesia Awareness stories</a></td>
-	</tr>
-	<tr><td height="8"></td></tr>
-  
-		
-
-	<tr>
-		<td class="colI1"><img width="50" src="/_media/imgs/articles2/a98308_min2.jpg"></td>
-		<td class="colI2"><a class="artd" href="/item_98308.aspx" title="10 Coolest Flirting Facts You Wish You Knew - ">
-		10 Coolest Flirting Facts You Wish You Knew</a></td>
-	</tr>
-	<tr><td height="8"></td></tr>
-  
-		
-
-	<tr>
-		<td class="colI1"><img width="50" src="/_media/imgs/articles2/a98307_min2.jpg"></td>
-		<td class="colI2"><a class="artd" href="/item_98307.aspx" title="10 Funniest Examples of What Happens When You Forget to Log Out - ">
-		10 Funniest Examples of What Happens When You Forget to Log Out</a></td>
-	</tr>
-	<tr><td height="8"></td></tr>
-  
-		
-
-	<tr>
-		<td class="colI1"><img width="50" src="/_media/imgs/articles2/a98303_min2.jpg"></td>
-		<td class="colI2"><a class="artd" href="/item_98303.aspx" title="10 Insane Stories of People Who Faked Their Own Deaths - ">
-		10 Insane Stories of People Who Faked Their Own Deaths</a></td>
-	</tr>
-	<tr><td height="8"></td></tr>
-  
-		
-
-	<tr>
-		<td class="colI1"><img width="50" src="/_media/imgs/articles2/a98304_min2.jpg"></td>
-		<td class="colI2"><a class="artd" href="/item_98304.aspx" title="10 Totally Cool Dorm Rooms - dorm, room, college, university, dormatory, amazing, cool">
-		10 Totally Cool Dorm Rooms</a></td>
-	</tr>
-	<tr><td height="8"></td></tr>
-  
-		
-
-	<tr>
-		<td class="colI1"><img width="50" src="/_media/imgs/articles2/a98298_min2.jpg"></td>
-		<td class="colI2"><a class="artd" href="/item_98298.aspx" title="12 Funniest Food “Fatalities” - ">
-		12 Funniest Food “Fatalities”</a></td>
-	</tr>
-	<tr><td height="8"></td></tr>
-  
-		
-
-	<tr>
-		<td class="colI1"><img width="50" src="/_media/imgs/articles2/a98300_min2.jpg"></td>
-		<td class="colI2"><a class="artd" href="/item_98300.aspx" title="12 Amazing Photographs with Optical Illusions - ">
-		12 Amazing Photographs with Optical Illusions</a></td>
-	</tr>
-	<tr><td height="8"></td></tr>
-  
-		
-
-	<tr>
-		<td class="colI1"><img width="50" src="/_media/imgs/articles2/a98302_min2.jpg"></td>
-		<td class="colI2"><a class="artd" href="/item_98302.aspx" title="10 Wackiest Wigs - ">
-		10 Wackiest Wigs</a></td>
-	</tr>
-	<tr><td height="8"></td></tr>
-  
-		
-
-	<tr>
-		<td class="colI1"><img width="50" src="/_media/imgs/articles2/a98299_min2.jpg"></td>
-		<td class="colI2"><a class="artd" href="/item_98299.aspx" title="10 Coolest Plastic Surgery Ads - ">
-		10 Coolest Plastic Surgery Ads</a></td>
-	</tr>
-	<tr><td height="8"></td></tr>
-  
-		
-
-	<tr>
-		<td class="colI1"><img width="50" src="/_media/imgs/articles2/a98296_min2.jpg"></td>
-		<td class="colI2"><a class="artd" href="/item_98296.aspx" title="11 Funny Texts Sent to the Wrong Number - ">
-		11 Funny Texts Sent to the Wrong Number</a></td>
-	</tr>
-	<tr><td height="8"></td></tr>
-  
-		
-
-	<tr>
-		<td class="colI1"><img width="50" src="/_media/imgs/articles2/a98297_min2.jpg"></td>
-		<td class="colI2"><a class="artd" href="/item_98297.aspx" title="12 Totally Bizarre Cake Toppers - ">
-		12 Totally Bizarre Cake Toppers <img src="/_media/imgs/oddee/tagnsfw2.gif"></a></td>
-	</tr>
-	<tr><td height="8"></td></tr>
-  
-		
-
-	<tr>
-		<td class="colI1"><img width="50" src="/_media/imgs/articles2/a98293_min2.jpg"></td>
-		<td class="colI2"><a class="artd" href="/item_98293.aspx" title="10 Most Hilarious Unibrows - unibrow, monobrow, funny, funniest, hilarious, eyebrows, facial hair">
-		10 Most Hilarious Unibrows</a></td>
-	</tr>
-	<tr><td height="8"></td></tr>
-  
-		
-
-	<tr>
-		<td class="colI1"><img width="50" src="/_media/imgs/articles2/a98295_min2.jpg"></td>
-		<td class="colI2"><a class="artd" href="/item_98295.aspx" title="12 Coolest Paperweights - ">
-		12 Coolest Paperweights</a></td>
-	</tr>
-	<tr><td height="8"></td></tr>
-  
-		
-
-	<tr>
-		<td class="colI1"><img width="50" src="/_media/imgs/articles2/a98294_min2.jpg"></td>
-		<td class="colI2"><a class="artd" href="/item_98294.aspx" title="10 Weirdest (and Totally Cool) Pedal-Powered Gadgets - ">
-		10 Weirdest (and Totally Cool) Pedal-Powered Gadgets</a></td>
-	</tr>
-	<tr><td height="8"></td></tr>
-  
-		
-
-	<tr>
-		<td class="colI1"><img width="50" src="/_media/imgs/articles2/a98292_min2.jpg"></td>
-		<td class="colI2"><a class="artd" href="/item_98292.aspx" title="12 Hilarious Dog Signs - ">
-		12 Hilarious Dog Signs</a></td>
-	</tr>
-	<tr><td height="8"></td></tr>
-  
-		
-
-	<tr>
-		<td class="colI1"><img width="50" src="/_media/imgs/articles2/a98290_min2.jpg"></td>
-		<td class="colI2"><a class="artd" href="/item_98290.aspx" title="10 Insanely Cool Wall Lamps - ">
-		10 Insanely Cool Wall Lamps</a></td>
-	</tr>
-	<tr><td height="8"></td></tr>
-  
-		
-
-	<tr>
-		<td class="colI1"><img width="50" src="/_media/imgs/articles2/a98291_min2.jpg"></td>
-		<td class="colI2"><a class="artd" href="/item_98291.aspx" title="8 Bizarre Weapons of Assault - weird, weapons, assault">
-		8 Bizarre Weapons of Assault</a></td>
-	</tr>
-	<tr><td height="8"></td></tr>
-  
-		
-
-	<tr>
-		<td class="colI1"><img width="50" src="/_media/imgs/articles2/a98289_min2.jpg"></td>
-		<td class="colI2"><a class="artd" href="/item_98289.aspx" title="10 Amazing Microscopic Images - microscope, close-up, microscopic, insects, human, body, Nikon, Photomicrography">
-		10 Amazing Microscopic Images</a></td>
-	</tr>
-	<tr><td height="8"></td></tr>
-  
-		
-
-	<tr>
-		<td class="colI1"><img width="50" src="/_media/imgs/articles2/a98288_min2.jpg"></td>
-		<td class="colI2"><a class="artd" href="/item_98288.aspx" title="12 Most Shocking Images of Extreme Child Training - ">
-		12 Most Shocking Images of Extreme Child Training</a></td>
-	</tr>
-	<tr><td height="8"></td></tr>
-  
-		
-
-	<tr>
-		<td class="colI1"><img width="50" src="/_media/imgs/articles2/a98287_min2.jpg"></td>
-		<td class="colI2"><a class="artd" href="/item_98287.aspx" title="15 Coolest iPad Docks and Stands - ">
-		15 Coolest iPad Docks and Stands</a></td>
-	</tr>
-	<tr><td height="8"></td></tr>
-  
-		
-
-	<tr>
-		<td class="colI1"><img width="50" src="/_media/imgs/articles2/a98286_min2.jpg"></td>
-		<td class="colI2"><a class="artd" href="/item_98286.aspx" title="12 Questionable Costumes Parents Dressed Their Kids In - ">
-		12 Questionable Costumes Parents Dressed Their Kids In</a></td>
-	</tr>
-	<tr><td height="8"></td></tr>
-  
-		
-
-	<tr>
-		<td class="colI1"><img width="50" src="/_media/imgs/articles2/a98278_min2.jpg"></td>
-		<td class="colI2"><a class="artd" href="/item_98278.aspx" title="10 Scariest Stalkers - stalkers, stalked, stalking, celebrity, famous">
-		10 Scariest Stalkers</a></td>
-	</tr>
-	<tr><td height="8"></td></tr>
-  
-		
-
-	<tr>
-		<td class="colI1"><img width="50" src="/_media/imgs/articles2/a98285_min2.jpg"></td>
-		<td class="colI2"><a class="artd" href="/item_98285.aspx" title="8 Most Disturbing Diets - ">
-		8 Most Disturbing Diets</a></td>
-	</tr>
-	<tr><td height="8"></td></tr>
-  
-		
-
-	<tr>
-		<td class="colI1"><img width="50" src="/_media/imgs/articles2/a98283_min2.jpg"></td>
-		<td class="colI2"><a class="artd" href="/item_98283.aspx" title="12 Absolutely Hilarious Parental Notes - ">
-		12 Absolutely Hilarious Parental Notes</a></td>
-	</tr>
-	<tr><td height="8"></td></tr>
-  
-		
-
-	<tr>
-		<td class="colI1"><img width="50" src="/_media/imgs/articles2/a98280_min2.jpg"></td>
-		<td class="colI2"><a class="artd" href="/item_98280.aspx" title="12 Cleverest Tip Jars - tips, tip jar, clever, funny, crazy, unique, creative">
-		12 Cleverest Tip Jars</a></td>
-	</tr>
-	<tr><td height="8"></td></tr>
-  
-		
-
-	<tr>
-		<td class="colI1"><img width="50" src="/_media/imgs/articles2/a98282_min2.jpg"></td>
-		<td class="colI2"><a class="artd" href="/item_98282.aspx" title="12 Controversial Photos of Armpit Hair - ">
-		12 Controversial Photos of Armpit Hair</a></td>
-	</tr>
-	<tr><td height="8"></td></tr>
-  
-		
-
-	<tr>
-		<td class="colI1"><img width="50" src="/_media/imgs/articles2/a98281_min2.jpg"></td>
-		<td class="colI2"><a class="artd" href="/item_98281.aspx" title="12 Wackiest Louis Vuitton Copycats - ">
-		12 Wackiest Louis Vuitton Copycats</a></td>
-	</tr>
-	<tr><td height="8"></td></tr>
-  
-		
-
-	<tr>
-		<td class="colI1"><img width="50" src="/_media/imgs/articles2/a98277_min2.jpg"></td>
-		<td class="colI2"><a class="artd" href="/item_98277.aspx" title=" 15 Creative Bandages You Can Actually Buy - ">
-		 15 Creative Bandages You Can Actually Buy</a></td>
-	</tr>
-	<tr><td height="8"></td></tr>
-  
-		
-
-	<tr>
-		<td class="colI1"><img width="50" src="/_media/imgs/articles2/a98279_min2.jpg"></td>
-		<td class="colI2"><a class="artd" href="/item_98279.aspx" title="10 Outstanding Olympic Athletes' Tattoos - ">
-		10 Outstanding Olympic Athletes' Tattoos</a></td>
-	</tr>
-	<tr><td height="8"></td></tr>
-  
-		
-
-	<tr>
-		<td class="colI1"><img width="50" src="/_media/imgs/articles2/a98275_min2.jpg"></td>
-		<td class="colI2"><a class="artd" href="/item_98275.aspx" title="20 Great Geeky Wedding Invitations - geeky, weddings, romantic, save the dates, wedding invitations, funny, nerdy">
-		20 Great Geeky Wedding Invitations</a></td>
-	</tr>
-	<tr><td height="8"></td></tr>
-  
-		
-
-	<tr>
-		<td class="colI1"><img width="50" src="/_media/imgs/articles2/a98276_min2.jpg"></td>
-		<td class="colI2"><a class="artd" href="/item_98276.aspx" title="12 Absolutely Hilarious Real Estate Signs - ">
-		12 Absolutely Hilarious Real Estate Signs</a></td>
-	</tr>
-	<tr><td height="8"></td></tr>
-  
-
-
- 
-
-            <tr>
-                <td height="30" align="right"><b><a href="/4/">More Articles »</a> &nbsp;</b></td>
-            </tr>
-        </tbody></table>
-    
-    <br>
-
-	<iframe class="fb-fan-box" scrolling="no" frameborder="0" src="http://www.facebook.com/connect/connect.php?id=238779731616&amp;connections=10&amp;stream=0" allowtransparency="true" width="300" height="246"></iframe>
+        <div class="sb1_text" style="position:absolute;top:-17px;right:0px;font-family:arial;font-size:12px;color:#ffffff;margin-right:3px;z-index:3;">146,562 views</div>
+        
+
+	    <a onclick="GAevent('page','click_SB_Month', '98590', null, true)" class="artd" href="/item_98590.aspx" title="9 Most Shocking Teen Fads - " style="position:relative; top:-35px;">
+
+            </a>
+    <!--<br />-->
+    </div>
+    <a onclick="GAevent('page','click_SB_Month', '98590', null, true)" class="artd" href="/item_98590.aspx" title="9 Most Shocking Teen Fads - " style="position:relative;top:-7px;">
+        9 Most Shocking Teen Fads
+    </a>
 </div>
+
+		
+
+<div class="sb1_link" style="margin-bottom:10px;">
+    <div style="position:relative; overflow:hidden;">
+        <a onclick="GAevent('page','click_SB_Month', '98594', null, true)" href="/item_98594.aspx" title="8 Embarrassing Photos of People Who Got Stuck - ">
+        <img width="300" height="100" src="/_media/imgs/oddee/artSB/98594.jpg" style="" border="0">
+
+        
+
+        <div class="sb1_bk" style="position:absolute;top:-17px;width:100%;height:0px;background-color:black;opacity:0.5;filter: alpha(opacity = 50);z-index:3;"></div>
+        </a><div class="sb1_text" style="position:absolute;top:-17px;left:0px;font-family:arial;font-size:12px;color:#ffffff;margin-left:3px;z-index:3;"><a onclick="GAevent('page','click_SB_Month', '98594', null, true)" href="/item_98594.aspx" title="8 Embarrassing Photos of People Who Got Stuck - ">
+            </a><a href="/strange-stories/" style="color:#ffffff;text-decoration:none;">Strange Stories</a>
+        </div>
+        <div class="sb1_text" style="position:absolute;top:-17px;right:0px;font-family:arial;font-size:12px;color:#ffffff;margin-right:3px;z-index:3;">124,478 views</div>
+        
+
+	    <a onclick="GAevent('page','click_SB_Month', '98594', null, true)" class="artd" href="/item_98594.aspx" title="8 Embarrassing Photos of People Who Got Stuck - " style="position:relative; top:-35px;">
+
+            </a>
+    <!--<br />-->
+    </div>
+    <a onclick="GAevent('page','click_SB_Month', '98594', null, true)" class="artd" href="/item_98594.aspx" title="8 Embarrassing Photos of People Who Got Stuck - " style="position:relative;top:-7px;">
+        8 Embarrassing Photos of People Who Got Stuck
+    </a>
+</div>
+
+		
+
+<div class="sb1_link" style="margin-bottom:10px;">
+    <div style="position:relative; overflow:hidden;">
+        <a onclick="GAevent('page','click_SB_Month', '98587', null, true)" href="/item_98587.aspx" title="12 Hilarious Pictures of Pinterest Fails - ">
+        <img width="300" height="100" src="/_media/imgs/oddee/artSB/98587.jpg" style="" border="0">
+
+        
+
+        <div class="sb1_bk" style="position:absolute;top:-17px;width:100%;height:0px;background-color:black;opacity:0.5;filter: alpha(opacity = 50);z-index:3;"></div>
+        </a><div class="sb1_text" style="position:absolute;top:-17px;left:0px;font-family:arial;font-size:12px;color:#ffffff;margin-left:3px;z-index:3;"><a onclick="GAevent('page','click_SB_Month', '98587', null, true)" href="/item_98587.aspx" title="12 Hilarious Pictures of Pinterest Fails - ">
+            </a><a href="/misc/" style="color:#ffffff;text-decoration:none;">Misc</a>
+        </div>
+        <div class="sb1_text" style="position:absolute;top:-17px;right:0px;font-family:arial;font-size:12px;color:#ffffff;margin-right:3px;z-index:3;">105,500 views</div>
+        
+
+	    <a onclick="GAevent('page','click_SB_Month', '98587', null, true)" class="artd" href="/item_98587.aspx" title="12 Hilarious Pictures of Pinterest Fails - " style="position:relative; top:-35px;">
+
+            </a>
+    <!--<br />-->
+    </div>
+    <a onclick="GAevent('page','click_SB_Month', '98587', null, true)" class="artd" href="/item_98587.aspx" title="12 Hilarious Pictures of Pinterest Fails - " style="position:relative;top:-7px;">
+        12 Hilarious Pictures of Pinterest Fails
+    </a>
+</div>
+
+
+
+
+
+        
+            <div style="background-color:#eadec9; padding:10px">
+                <img src="/_media/imgs/oddee/NewAt.gif">
+            </div>
+            
+
+
+
+
+
+
+		
+
+<div class="sb1_link" style="margin-bottom:10px;">
+    <div style="position:relative; overflow:hidden;">
+        <a onclick="GAevent('page','click_SB_New', '98622', null, true)" href="/item_98622.aspx" title="10 Most Chilling Stories of Modern Day Cannibalism - ">
+        <img width="300" height="100" src="/_media/imgs/oddee/artSB/98622.jpg" style="" border="0">
+
+        <div style="position:absolute;bottom:5px;width:40px;height:15px;background-color:black;opacity:0.5;filter: alpha(opacity = 50);z-index:3;"></div><div style="position:absolute;bottom:3px;float:left;font-family:arial;font-size:12px;color:gold;margin-left:3px;z-index:3;"><strong>NSFW</strong></div>
+
+        <div class="sb1_bk" style="position:absolute;top:-17px;width:100%;height:0px;background-color:black;opacity:0.5;filter: alpha(opacity = 50);z-index:3;"></div>
+        </a><div class="sb1_text" style="position:absolute;top:-17px;left:0px;font-family:arial;font-size:12px;color:#ffffff;margin-left:3px;z-index:3;"><a onclick="GAevent('page','click_SB_New', '98622', null, true)" href="/item_98622.aspx" title="10 Most Chilling Stories of Modern Day Cannibalism - ">
+            </a><a href="/strange-stories/" style="color:#ffffff;text-decoration:none;">Strange Stories</a>
+        </div>
+        <div class="sb1_text" style="position:absolute;top:-17px;right:0px;font-family:arial;font-size:12px;color:#ffffff;margin-right:3px;z-index:3;">16,155 views</div>
+        
+
+	    <a onclick="GAevent('page','click_SB_New', '98622', null, true)" class="artd" href="/item_98622.aspx" title="10 Most Chilling Stories of Modern Day Cannibalism - " style="position:relative; top:-35px;">
+
+            </a>
+    <!--<br />-->
+    </div>
+    <a onclick="GAevent('page','click_SB_New', '98622', null, true)" class="artd" href="/item_98622.aspx" title="10 Most Chilling Stories of Modern Day Cannibalism - " style="position:relative;top:-7px;">
+        10 Most Chilling Stories of Modern Day Cannibalism
+    </a>
+</div>
+
+		
+
+<div class="sb1_link" style="margin-bottom:10px;">
+    <div style="position:relative; overflow:hidden;">
+        <a onclick="GAevent('page','click_SB_New', '98621', null, true)" href="/item_98621.aspx" title="8 People Who Refused Millionaire Offers - ">
+        <img width="300" height="100" src="/_media/imgs/oddee/artSB/98621.jpg" style="" border="0">
+
+        
+
+        <div class="sb1_bk" style="position:absolute;top:-17px;width:100%;height:0px;background-color:black;opacity:0.5;filter: alpha(opacity = 50);z-index:3;"></div>
+        </a><div class="sb1_text" style="position:absolute;top:-17px;left:0px;font-family:arial;font-size:12px;color:#ffffff;margin-left:3px;z-index:3;"><a onclick="GAevent('page','click_SB_New', '98621', null, true)" href="/item_98621.aspx" title="8 People Who Refused Millionaire Offers - ">
+            </a><a href="/strange-people/" style="color:#ffffff;text-decoration:none;">Strange People</a>
+        </div>
+        <div class="sb1_text" style="position:absolute;top:-17px;right:0px;font-family:arial;font-size:12px;color:#ffffff;margin-right:3px;z-index:3;">37,140 views</div>
+        
+
+	    <a onclick="GAevent('page','click_SB_New', '98621', null, true)" class="artd" href="/item_98621.aspx" title="8 People Who Refused Millionaire Offers - " style="position:relative; top:-35px;">
+
+            </a>
+    <!--<br />-->
+    </div>
+    <a onclick="GAevent('page','click_SB_New', '98621', null, true)" class="artd" href="/item_98621.aspx" title="8 People Who Refused Millionaire Offers - " style="position:relative;top:-7px;">
+        8 People Who Refused Millionaire Offers
+    </a>
+</div>
+
+		
+
+<div class="sb1_link" style="margin-bottom:10px;">
+    <div style="position:relative; overflow:hidden;">
+        <a onclick="GAevent('page','click_SB_New', '98616', null, true)" href="/item_98616.aspx" title="7 Incredible Casino Stories - ">
+        <img width="300" height="100" src="/_media/imgs/oddee/artSB/98616.jpg" style="" border="0">
+
+        
+
+        <div class="sb1_bk" style="position:absolute;top:-17px;width:100%;height:0px;background-color:black;opacity:0.5;filter: alpha(opacity = 50);z-index:3;"></div>
+        </a><div class="sb1_text" style="position:absolute;top:-17px;left:0px;font-family:arial;font-size:12px;color:#ffffff;margin-left:3px;z-index:3;"><a onclick="GAevent('page','click_SB_New', '98616', null, true)" href="/item_98616.aspx" title="7 Incredible Casino Stories - ">
+            </a><a href="/strange-stories/" style="color:#ffffff;text-decoration:none;">Strange Stories</a>
+        </div>
+        <div class="sb1_text" style="position:absolute;top:-17px;right:0px;font-family:arial;font-size:12px;color:#ffffff;margin-right:3px;z-index:3;">34,527 views</div>
+        
+
+	    <a onclick="GAevent('page','click_SB_New', '98616', null, true)" class="artd" href="/item_98616.aspx" title="7 Incredible Casino Stories - " style="position:relative; top:-35px;">
+
+            </a>
+    <!--<br />-->
+    </div>
+    <a onclick="GAevent('page','click_SB_New', '98616', null, true)" class="artd" href="/item_98616.aspx" title="7 Incredible Casino Stories - " style="position:relative;top:-7px;">
+        7 Incredible Casino Stories
+    </a>
+</div>
+
+		
+
+<div class="sb1_link" style="margin-bottom:10px;">
+    <div style="position:relative; overflow:hidden;">
+        <a onclick="GAevent('page','click_SB_New', '98614', null, true)" href="/item_98614.aspx" title="7 Amazing Blind People - Inspirational Blind People">
+        <img width="300" height="100" src="/_media/imgs/oddee/artSB/98614.jpg" style="" border="0">
+
+        
+
+        <div class="sb1_bk" style="position:absolute;top:-17px;width:100%;height:0px;background-color:black;opacity:0.5;filter: alpha(opacity = 50);z-index:3;"></div>
+        </a><div class="sb1_text" style="position:absolute;top:-17px;left:0px;font-family:arial;font-size:12px;color:#ffffff;margin-left:3px;z-index:3;"><a onclick="GAevent('page','click_SB_New', '98614', null, true)" href="/item_98614.aspx" title="7 Amazing Blind People - Inspirational Blind People">
+            </a><a href="/strange-people/" style="color:#ffffff;text-decoration:none;">Strange People</a>
+        </div>
+        <div class="sb1_text" style="position:absolute;top:-17px;right:0px;font-family:arial;font-size:12px;color:#ffffff;margin-right:3px;z-index:3;">35,594 views</div>
+        
+
+	    <a onclick="GAevent('page','click_SB_New', '98614', null, true)" class="artd" href="/item_98614.aspx" title="7 Amazing Blind People - Inspirational Blind People" style="position:relative; top:-35px;">
+
+            </a>
+    <!--<br />-->
+    </div>
+    <a onclick="GAevent('page','click_SB_New', '98614', null, true)" class="artd" href="/item_98614.aspx" title="7 Amazing Blind People - Inspirational Blind People" style="position:relative;top:-7px;">
+        7 Amazing Blind People
+    </a>
+</div>
+
+		
+
+<div class="sb1_link" style="margin-bottom:10px;">
+    <div style="position:relative; overflow:hidden;">
+        <a onclick="GAevent('page','click_SB_New', '98615', null, true)" href="/item_98615.aspx" title="12 Most Awkward Baby Photos - ">
+        <img width="300" height="100" src="/_media/imgs/oddee/artSB/98615.jpg" style="" border="0">
+
+        
+
+        <div class="sb1_bk" style="position:absolute;top:-17px;width:100%;height:0px;background-color:black;opacity:0.5;filter: alpha(opacity = 50);z-index:3;"></div>
+        </a><div class="sb1_text" style="position:absolute;top:-17px;left:0px;font-family:arial;font-size:12px;color:#ffffff;margin-left:3px;z-index:3;"><a onclick="GAevent('page','click_SB_New', '98615', null, true)" href="/item_98615.aspx" title="12 Most Awkward Baby Photos - ">
+            </a><a href="/misc/" style="color:#ffffff;text-decoration:none;">Misc</a>
+        </div>
+        <div class="sb1_text" style="position:absolute;top:-17px;right:0px;font-family:arial;font-size:12px;color:#ffffff;margin-right:3px;z-index:3;">61,935 views</div>
+        
+
+	    <a onclick="GAevent('page','click_SB_New', '98615', null, true)" class="artd" href="/item_98615.aspx" title="12 Most Awkward Baby Photos - " style="position:relative; top:-35px;">
+
+            </a>
+    <!--<br />-->
+    </div>
+    <a onclick="GAevent('page','click_SB_New', '98615', null, true)" class="artd" href="/item_98615.aspx" title="12 Most Awkward Baby Photos - " style="position:relative;top:-7px;">
+        12 Most Awkward Baby Photos
+    </a>
+</div>
+
+		
+
+<div class="sb1_link" style="margin-bottom:10px;">
+    <div style="position:relative; overflow:hidden;">
+        <a onclick="GAevent('page','click_SB_New', '98613', null, true)" href="/item_98613.aspx" title="8 Bizarre Overdoses - ">
+        <img width="300" height="100" src="/_media/imgs/oddee/artSB/98613.jpg" style="" border="0">
+
+        
+
+        <div class="sb1_bk" style="position:absolute;top:-17px;width:100%;height:0px;background-color:black;opacity:0.5;filter: alpha(opacity = 50);z-index:3;"></div>
+        </a><div class="sb1_text" style="position:absolute;top:-17px;left:0px;font-family:arial;font-size:12px;color:#ffffff;margin-left:3px;z-index:3;"><a onclick="GAevent('page','click_SB_New', '98613', null, true)" href="/item_98613.aspx" title="8 Bizarre Overdoses - ">
+            </a><a href="/bizarre-medical-stories/" style="color:#ffffff;text-decoration:none;">Bizarre Medical Stories</a>
+        </div>
+        <div class="sb1_text" style="position:absolute;top:-17px;right:0px;font-family:arial;font-size:12px;color:#ffffff;margin-right:3px;z-index:3;">59,310 views</div>
+        
+
+	    <a onclick="GAevent('page','click_SB_New', '98613', null, true)" class="artd" href="/item_98613.aspx" title="8 Bizarre Overdoses - " style="position:relative; top:-35px;">
+
+            </a>
+    <!--<br />-->
+    </div>
+    <a onclick="GAevent('page','click_SB_New', '98613', null, true)" class="artd" href="/item_98613.aspx" title="8 Bizarre Overdoses - " style="position:relative;top:-7px;">
+        8 Bizarre Overdoses
+    </a>
+</div>
+
+		
+
+<div class="sb1_link" style="margin-bottom:10px;">
+    <div style="position:relative; overflow:hidden;">
+        <a onclick="GAevent('page','click_SB_New', '98612', null, true)" href="/item_98612.aspx" title="10 Fascinating Facts About Farting - farts, farting, facts about farting, fart facts, fascinating farts, embarrassing farts, passing gas,">
+        <img width="300" height="100" src="/_media/imgs/oddee/artSB/98612.jpg" style="" border="0">
+
+        
+
+        <div class="sb1_bk" style="position:absolute;top:-17px;width:100%;height:0px;background-color:black;opacity:0.5;filter: alpha(opacity = 50);z-index:3;"></div>
+        </a><div class="sb1_text" style="position:absolute;top:-17px;left:0px;font-family:arial;font-size:12px;color:#ffffff;margin-left:3px;z-index:3;"><a onclick="GAevent('page','click_SB_New', '98612', null, true)" href="/item_98612.aspx" title="10 Fascinating Facts About Farting - farts, farting, facts about farting, fart facts, fascinating farts, embarrassing farts, passing gas,">
+            </a><a href="/weird-science/" style="color:#ffffff;text-decoration:none;">Weird Science</a>
+        </div>
+        <div class="sb1_text" style="position:absolute;top:-17px;right:0px;font-family:arial;font-size:12px;color:#ffffff;margin-right:3px;z-index:3;">69,075 views</div>
+        
+
+	    <a onclick="GAevent('page','click_SB_New', '98612', null, true)" class="artd" href="/item_98612.aspx" title="10 Fascinating Facts About Farting - farts, farting, facts about farting, fart facts, fascinating farts, embarrassing farts, passing gas," style="position:relative; top:-35px;">
+
+            </a>
+    <!--<br />-->
+    </div>
+    <a onclick="GAevent('page','click_SB_New', '98612', null, true)" class="artd" href="/item_98612.aspx" title="10 Fascinating Facts About Farting - farts, farting, facts about farting, fart facts, fascinating farts, embarrassing farts, passing gas," style="position:relative;top:-7px;">
+        10 Fascinating Facts About Farting
+    </a>
+</div>
+
+		
+
+<div class="sb1_link" style="margin-bottom:10px;">
+    <div style="position:relative; overflow:hidden;">
+        <a onclick="GAevent('page','click_SB_New', '98611', null, true)" href="/item_98611.aspx" title="7 Honeymoons Gone Wrong - worst honeymoons, honeymoon accidents">
+        <img width="300" height="100" src="/_media/imgs/oddee/artSB/98611.jpg" style="" border="0">
+
+        
+
+        <div class="sb1_bk" style="position:absolute;top:-17px;width:100%;height:0px;background-color:black;opacity:0.5;filter: alpha(opacity = 50);z-index:3;"></div>
+        </a><div class="sb1_text" style="position:absolute;top:-17px;left:0px;font-family:arial;font-size:12px;color:#ffffff;margin-left:3px;z-index:3;"><a onclick="GAevent('page','click_SB_New', '98611', null, true)" href="/item_98611.aspx" title="7 Honeymoons Gone Wrong - worst honeymoons, honeymoon accidents">
+            </a><a href="/strange-stories/" style="color:#ffffff;text-decoration:none;">Strange Stories</a>
+        </div>
+        <div class="sb1_text" style="position:absolute;top:-17px;right:0px;font-family:arial;font-size:12px;color:#ffffff;margin-right:3px;z-index:3;">58,623 views</div>
+        
+
+	    <a onclick="GAevent('page','click_SB_New', '98611', null, true)" class="artd" href="/item_98611.aspx" title="7 Honeymoons Gone Wrong - worst honeymoons, honeymoon accidents" style="position:relative; top:-35px;">
+
+            </a>
+    <!--<br />-->
+    </div>
+    <a onclick="GAevent('page','click_SB_New', '98611', null, true)" class="artd" href="/item_98611.aspx" title="7 Honeymoons Gone Wrong - worst honeymoons, honeymoon accidents" style="position:relative;top:-7px;">
+        7 Honeymoons Gone Wrong
+    </a>
+</div>
+
+		
+
+<div class="sb1_link" style="margin-bottom:10px;">
+    <div style="position:relative; overflow:hidden;">
+        <a onclick="GAevent('page','click_SB_New', '98610', null, true)" href="/item_98610.aspx" title="7 Fascinating Near-Death Experiences - NDE, near-death experiences">
+        <img width="300" height="100" src="/_media/imgs/oddee/artSB/98610.jpg" style="" border="0">
+
+        
+
+        <div class="sb1_bk" style="position:absolute;top:-17px;width:100%;height:0px;background-color:black;opacity:0.5;filter: alpha(opacity = 50);z-index:3;"></div>
+        </a><div class="sb1_text" style="position:absolute;top:-17px;left:0px;font-family:arial;font-size:12px;color:#ffffff;margin-left:3px;z-index:3;"><a onclick="GAevent('page','click_SB_New', '98610', null, true)" href="/item_98610.aspx" title="7 Fascinating Near-Death Experiences - NDE, near-death experiences">
+            </a><a href="/strange-people/" style="color:#ffffff;text-decoration:none;">Strange People</a>
+        </div>
+        <div class="sb1_text" style="position:absolute;top:-17px;right:0px;font-family:arial;font-size:12px;color:#ffffff;margin-right:3px;z-index:3;">52,960 views</div>
+        
+
+	    <a onclick="GAevent('page','click_SB_New', '98610', null, true)" class="artd" href="/item_98610.aspx" title="7 Fascinating Near-Death Experiences - NDE, near-death experiences" style="position:relative; top:-35px;">
+
+            </a>
+    <!--<br />-->
+    </div>
+    <a onclick="GAevent('page','click_SB_New', '98610', null, true)" class="artd" href="/item_98610.aspx" title="7 Fascinating Near-Death Experiences - NDE, near-death experiences" style="position:relative;top:-7px;">
+        7 Fascinating Near-Death Experiences
+    </a>
+</div>
+
+		
+
+<div class="sb1_link" style="margin-bottom:10px;">
+    <div style="position:relative; overflow:hidden;">
+        <a onclick="GAevent('page','click_SB_New', '98608', null, true)" href="/item_98608.aspx" title="10 Most Brazen Impostors - ">
+        <img width="300" height="100" src="/_media/imgs/oddee/artSB/98608.jpg" style="" border="0">
+
+        
+
+        <div class="sb1_bk" style="position:absolute;top:-17px;width:100%;height:0px;background-color:black;opacity:0.5;filter: alpha(opacity = 50);z-index:3;"></div>
+        </a><div class="sb1_text" style="position:absolute;top:-17px;left:0px;font-family:arial;font-size:12px;color:#ffffff;margin-left:3px;z-index:3;"><a onclick="GAevent('page','click_SB_New', '98608', null, true)" href="/item_98608.aspx" title="10 Most Brazen Impostors - ">
+            </a><a href="/strange-people/" style="color:#ffffff;text-decoration:none;">Strange People</a>
+        </div>
+        <div class="sb1_text" style="position:absolute;top:-17px;right:0px;font-family:arial;font-size:12px;color:#ffffff;margin-right:3px;z-index:3;">50,568 views</div>
+        
+
+	    <a onclick="GAevent('page','click_SB_New', '98608', null, true)" class="artd" href="/item_98608.aspx" title="10 Most Brazen Impostors - " style="position:relative; top:-35px;">
+
+            </a>
+    <!--<br />-->
+    </div>
+    <a onclick="GAevent('page','click_SB_New', '98608', null, true)" class="artd" href="/item_98608.aspx" title="10 Most Brazen Impostors - " style="position:relative;top:-7px;">
+        10 Most Brazen Impostors
+    </a>
+</div>
+
+		
+
+<div class="sb1_link" style="margin-bottom:10px;">
+    <div style="position:relative; overflow:hidden;">
+        <a onclick="GAevent('page','click_SB_New', '98609', null, true)" href="/item_98609.aspx" title="12 Coolest Recreations of Family Photos - ">
+        <img width="300" height="100" src="/_media/imgs/oddee/artSB/98609.jpg" style="" border="0">
+
+        
+
+        <div class="sb1_bk" style="position:absolute;top:-17px;width:100%;height:0px;background-color:black;opacity:0.5;filter: alpha(opacity = 50);z-index:3;"></div>
+        </a><div class="sb1_text" style="position:absolute;top:-17px;left:0px;font-family:arial;font-size:12px;color:#ffffff;margin-left:3px;z-index:3;"><a onclick="GAevent('page','click_SB_New', '98609', null, true)" href="/item_98609.aspx" title="12 Coolest Recreations of Family Photos - ">
+            </a><a href="/misc/" style="color:#ffffff;text-decoration:none;">Misc</a>
+        </div>
+        <div class="sb1_text" style="position:absolute;top:-17px;right:0px;font-family:arial;font-size:12px;color:#ffffff;margin-right:3px;z-index:3;">103,327 views</div>
+        
+
+	    <a onclick="GAevent('page','click_SB_New', '98609', null, true)" class="artd" href="/item_98609.aspx" title="12 Coolest Recreations of Family Photos - " style="position:relative; top:-35px;">
+
+            </a>
+    <!--<br />-->
+    </div>
+    <a onclick="GAevent('page','click_SB_New', '98609', null, true)" class="artd" href="/item_98609.aspx" title="12 Coolest Recreations of Family Photos - " style="position:relative;top:-7px;">
+        12 Coolest Recreations of Family Photos
+    </a>
+</div>
+
+		
+
+<div class="sb1_link" style="margin-bottom:10px;">
+    <div style="position:relative; overflow:hidden;">
+        <a onclick="GAevent('page','click_SB_New', '98607', null, true)" href="/item_98607.aspx" title="12 Hilarious Breakups via Letter and Text - ">
+        <img width="300" height="100" src="/_media/imgs/oddee/artSB/98607.jpg" style="" border="0">
+
+        
+
+        <div class="sb1_bk" style="position:absolute;top:-17px;width:100%;height:0px;background-color:black;opacity:0.5;filter: alpha(opacity = 50);z-index:3;"></div>
+        </a><div class="sb1_text" style="position:absolute;top:-17px;left:0px;font-family:arial;font-size:12px;color:#ffffff;margin-left:3px;z-index:3;"><a onclick="GAevent('page','click_SB_New', '98607', null, true)" href="/item_98607.aspx" title="12 Hilarious Breakups via Letter and Text - ">
+            </a><a href="/misc/" style="color:#ffffff;text-decoration:none;">Misc</a>
+        </div>
+        <div class="sb1_text" style="position:absolute;top:-17px;right:0px;font-family:arial;font-size:12px;color:#ffffff;margin-right:3px;z-index:3;">75,154 views</div>
+        
+
+	    <a onclick="GAevent('page','click_SB_New', '98607', null, true)" class="artd" href="/item_98607.aspx" title="12 Hilarious Breakups via Letter and Text - " style="position:relative; top:-35px;">
+
+            </a>
+    <!--<br />-->
+    </div>
+    <a onclick="GAevent('page','click_SB_New', '98607', null, true)" class="artd" href="/item_98607.aspx" title="12 Hilarious Breakups via Letter and Text - " style="position:relative;top:-7px;">
+        12 Hilarious Breakups via Letter and Text
+    </a>
+</div>
+
+		
+
+<div class="sb1_link" style="margin-bottom:10px;">
+    <div style="position:relative; overflow:hidden;">
+        <a onclick="GAevent('page','click_SB_New', '98606', null, true)" href="/item_98606.aspx" title="10 Coolest Stress Balls - ">
+        <img width="300" height="100" src="/_media/imgs/oddee/artSB/98606.jpg" style="" border="0">
+
+        
+
+        <div class="sb1_bk" style="position:absolute;top:-17px;width:100%;height:0px;background-color:black;opacity:0.5;filter: alpha(opacity = 50);z-index:3;"></div>
+        </a><div class="sb1_text" style="position:absolute;top:-17px;left:0px;font-family:arial;font-size:12px;color:#ffffff;margin-left:3px;z-index:3;"><a onclick="GAevent('page','click_SB_New', '98606', null, true)" href="/item_98606.aspx" title="10 Coolest Stress Balls - ">
+            </a><a href="/cool-gift-ideas/" style="color:#ffffff;text-decoration:none;">Cool Gift Ideas</a>
+        </div>
+        <div class="sb1_text" style="position:absolute;top:-17px;right:0px;font-family:arial;font-size:12px;color:#ffffff;margin-right:3px;z-index:3;">51,942 views</div>
+        
+
+	    <a onclick="GAevent('page','click_SB_New', '98606', null, true)" class="artd" href="/item_98606.aspx" title="10 Coolest Stress Balls - " style="position:relative; top:-35px;">
+
+            </a>
+    <!--<br />-->
+    </div>
+    <a onclick="GAevent('page','click_SB_New', '98606', null, true)" class="artd" href="/item_98606.aspx" title="10 Coolest Stress Balls - " style="position:relative;top:-7px;">
+        10 Coolest Stress Balls
+    </a>
+</div>
+
+		
+
+<div class="sb1_link" style="margin-bottom:10px;">
+    <div style="position:relative; overflow:hidden;">
+        <a onclick="GAevent('page','click_SB_New', '98605', null, true)" href="/item_98605.aspx" title="10 Unbelieveble Stories of Students Who Got Arrested at School - ">
+        <img width="300" height="100" src="/_media/imgs/oddee/artSB/98605.jpg" style="" border="0">
+
+        
+
+        <div class="sb1_bk" style="position:absolute;top:-17px;width:100%;height:0px;background-color:black;opacity:0.5;filter: alpha(opacity = 50);z-index:3;"></div>
+        </a><div class="sb1_text" style="position:absolute;top:-17px;left:0px;font-family:arial;font-size:12px;color:#ffffff;margin-left:3px;z-index:3;"><a onclick="GAevent('page','click_SB_New', '98605', null, true)" href="/item_98605.aspx" title="10 Unbelieveble Stories of Students Who Got Arrested at School - ">
+            </a><a href="/strange-people/" style="color:#ffffff;text-decoration:none;">Strange People</a>
+        </div>
+        <div class="sb1_text" style="position:absolute;top:-17px;right:0px;font-family:arial;font-size:12px;color:#ffffff;margin-right:3px;z-index:3;">60,452 views</div>
+        
+
+	    <a onclick="GAevent('page','click_SB_New', '98605', null, true)" class="artd" href="/item_98605.aspx" title="10 Unbelieveble Stories of Students Who Got Arrested at School - " style="position:relative; top:-35px;">
+
+            </a>
+    <!--<br />-->
+    </div>
+    <a onclick="GAevent('page','click_SB_New', '98605', null, true)" class="artd" href="/item_98605.aspx" title="10 Unbelieveble Stories of Students Who Got Arrested at School - " style="position:relative;top:-7px;">
+        10 Unbelieveble Stories of Students Who Got Arrested at School
+    </a>
+</div>
+
+		
+
+<div class="sb1_link" style="margin-bottom:10px;">
+    <div style="position:relative; overflow:hidden;">
+        <a onclick="GAevent('page','click_SB_New', '98604', null, true)" href="/item_98604.aspx" title="10 Craziest Texting Gadgets - ">
+        <img width="300" height="100" src="/_media/imgs/oddee/artSB/98604.jpg" style="" border="0">
+
+        
+
+        <div class="sb1_bk" style="position:absolute;top:-17px;width:100%;height:0px;background-color:black;opacity:0.5;filter: alpha(opacity = 50);z-index:3;"></div>
+        </a><div class="sb1_text" style="position:absolute;top:-17px;left:0px;font-family:arial;font-size:12px;color:#ffffff;margin-left:3px;z-index:3;"><a onclick="GAevent('page','click_SB_New', '98604', null, true)" href="/item_98604.aspx" title="10 Craziest Texting Gadgets - ">
+            </a><a href="/fun-tech/" style="color:#ffffff;text-decoration:none;">Fun Tech</a>
+        </div>
+        <div class="sb1_text" style="position:absolute;top:-17px;right:0px;font-family:arial;font-size:12px;color:#ffffff;margin-right:3px;z-index:3;">57,538 views</div>
+        
+
+	    <a onclick="GAevent('page','click_SB_New', '98604', null, true)" class="artd" href="/item_98604.aspx" title="10 Craziest Texting Gadgets - " style="position:relative; top:-35px;">
+
+            </a>
+    <!--<br />-->
+    </div>
+    <a onclick="GAevent('page','click_SB_New', '98604', null, true)" class="artd" href="/item_98604.aspx" title="10 Craziest Texting Gadgets - " style="position:relative;top:-7px;">
+        10 Craziest Texting Gadgets
+    </a>
+</div>
+
+		
+
+<div class="sb1_link" style="margin-bottom:10px;">
+    <div style="position:relative; overflow:hidden;">
+        <a onclick="GAevent('page','click_SB_New', '98603', null, true)" href="/item_98603.aspx" title="15 Hilarious Look Alikes - ">
+        <img width="300" height="100" src="/_media/imgs/oddee/artSB/98603.jpg" style="" border="0">
+
+        
+
+        <div class="sb1_bk" style="position:absolute;top:-17px;width:100%;height:0px;background-color:black;opacity:0.5;filter: alpha(opacity = 50);z-index:3;"></div>
+        </a><div class="sb1_text" style="position:absolute;top:-17px;left:0px;font-family:arial;font-size:12px;color:#ffffff;margin-left:3px;z-index:3;"><a onclick="GAevent('page','click_SB_New', '98603', null, true)" href="/item_98603.aspx" title="15 Hilarious Look Alikes - ">
+            </a><a href="/misc/" style="color:#ffffff;text-decoration:none;">Misc</a>
+        </div>
+        <div class="sb1_text" style="position:absolute;top:-17px;right:0px;font-family:arial;font-size:12px;color:#ffffff;margin-right:3px;z-index:3;">98,426 views</div>
+        
+
+	    <a onclick="GAevent('page','click_SB_New', '98603', null, true)" class="artd" href="/item_98603.aspx" title="15 Hilarious Look Alikes - " style="position:relative; top:-35px;">
+
+            </a>
+    <!--<br />-->
+    </div>
+    <a onclick="GAevent('page','click_SB_New', '98603', null, true)" class="artd" href="/item_98603.aspx" title="15 Hilarious Look Alikes - " style="position:relative;top:-7px;">
+        15 Hilarious Look Alikes
+    </a>
+</div>
+
+		
+
+<div class="sb1_link" style="margin-bottom:10px;">
+    <div style="position:relative; overflow:hidden;">
+        <a onclick="GAevent('page','click_SB_New', '98601', null, true)" href="/item_98601.aspx" title="8 Amazing Newborns Who Survived the Impossible - ">
+        <img width="300" height="100" src="/_media/imgs/oddee/artSB/98601.jpg" style="" border="0">
+
+        <div style="position:absolute;bottom:5px;width:40px;height:15px;background-color:black;opacity:0.5;filter: alpha(opacity = 50);z-index:3;"></div><div style="position:absolute;bottom:3px;float:left;font-family:arial;font-size:12px;color:gold;margin-left:3px;z-index:3;"><strong>NSFW</strong></div>
+
+        <div class="sb1_bk" style="position:absolute;top:-17px;width:100%;height:0px;background-color:black;opacity:0.5;filter: alpha(opacity = 50);z-index:3;"></div>
+        </a><div class="sb1_text" style="position:absolute;top:-17px;left:0px;font-family:arial;font-size:12px;color:#ffffff;margin-left:3px;z-index:3;"><a onclick="GAevent('page','click_SB_New', '98601', null, true)" href="/item_98601.aspx" title="8 Amazing Newborns Who Survived the Impossible - ">
+            </a><a href="/strange-stories/" style="color:#ffffff;text-decoration:none;">Strange Stories</a>
+        </div>
+        <div class="sb1_text" style="position:absolute;top:-17px;right:0px;font-family:arial;font-size:12px;color:#ffffff;margin-right:3px;z-index:3;">64,412 views</div>
+        
+
+	    <a onclick="GAevent('page','click_SB_New', '98601', null, true)" class="artd" href="/item_98601.aspx" title="8 Amazing Newborns Who Survived the Impossible - " style="position:relative; top:-35px;">
+
+            </a>
+    <!--<br />-->
+    </div>
+    <a onclick="GAevent('page','click_SB_New', '98601', null, true)" class="artd" href="/item_98601.aspx" title="8 Amazing Newborns Who Survived the Impossible - " style="position:relative;top:-7px;">
+        8 Amazing Newborns Who Survived the Impossible
+    </a>
+</div>
+
+		
+
+<div class="sb1_link" style="margin-bottom:10px;">
+    <div style="position:relative; overflow:hidden;">
+        <a onclick="GAevent('page','click_SB_New', '98600', null, true)" href="/item_98600.aspx" title="10 Weirdest Reasons to be Kicked Off a Plane - ">
+        <img width="300" height="100" src="/_media/imgs/oddee/artSB/98600.jpg" style="" border="0">
+
+        
+
+        <div class="sb1_bk" style="position:absolute;top:-17px;width:100%;height:0px;background-color:black;opacity:0.5;filter: alpha(opacity = 50);z-index:3;"></div>
+        </a><div class="sb1_text" style="position:absolute;top:-17px;left:0px;font-family:arial;font-size:12px;color:#ffffff;margin-left:3px;z-index:3;"><a onclick="GAevent('page','click_SB_New', '98600', null, true)" href="/item_98600.aspx" title="10 Weirdest Reasons to be Kicked Off a Plane - ">
+            </a><a href="/strange-stories/" style="color:#ffffff;text-decoration:none;">Strange Stories</a>
+        </div>
+        <div class="sb1_text" style="position:absolute;top:-17px;right:0px;font-family:arial;font-size:12px;color:#ffffff;margin-right:3px;z-index:3;">74,218 views</div>
+        
+
+	    <a onclick="GAevent('page','click_SB_New', '98600', null, true)" class="artd" href="/item_98600.aspx" title="10 Weirdest Reasons to be Kicked Off a Plane - " style="position:relative; top:-35px;">
+
+            </a>
+    <!--<br />-->
+    </div>
+    <a onclick="GAevent('page','click_SB_New', '98600', null, true)" class="artd" href="/item_98600.aspx" title="10 Weirdest Reasons to be Kicked Off a Plane - " style="position:relative;top:-7px;">
+        10 Weirdest Reasons to be Kicked Off a Plane
+    </a>
+</div>
+
+		
+
+<div class="sb1_link" style="margin-bottom:10px;">
+    <div style="position:relative; overflow:hidden;">
+        <a onclick="GAevent('page','click_SB_New', '98602', null, true)" href="/item_98602.aspx" title="10 Coolest Pillowcases - ">
+        <img width="300" height="100" src="/_media/imgs/oddee/artSB/98602.jpg" style="" border="0">
+
+        
+
+        <div class="sb1_bk" style="position:absolute;top:-17px;width:100%;height:0px;background-color:black;opacity:0.5;filter: alpha(opacity = 50);z-index:3;"></div>
+        </a><div class="sb1_text" style="position:absolute;top:-17px;left:0px;font-family:arial;font-size:12px;color:#ffffff;margin-left:3px;z-index:3;"><a onclick="GAevent('page','click_SB_New', '98602', null, true)" href="/item_98602.aspx" title="10 Coolest Pillowcases - ">
+            </a><a href="/cool-objects/" style="color:#ffffff;text-decoration:none;">Cool Objects</a>
+        </div>
+        <div class="sb1_text" style="position:absolute;top:-17px;right:0px;font-family:arial;font-size:12px;color:#ffffff;margin-right:3px;z-index:3;">58,350 views</div>
+        
+
+	    <a onclick="GAevent('page','click_SB_New', '98602', null, true)" class="artd" href="/item_98602.aspx" title="10 Coolest Pillowcases - " style="position:relative; top:-35px;">
+
+            </a>
+    <!--<br />-->
+    </div>
+    <a onclick="GAevent('page','click_SB_New', '98602', null, true)" class="artd" href="/item_98602.aspx" title="10 Coolest Pillowcases - " style="position:relative;top:-7px;">
+        10 Coolest Pillowcases
+    </a>
+</div>
+
+		
+
+<div class="sb1_link" style="margin-bottom:10px;">
+    <div style="position:relative; overflow:hidden;">
+        <a onclick="GAevent('page','click_SB_New', '98599', null, true)" href="/item_98599.aspx" title="8 Amazing Man-Made Islands - ">
+        <img width="300" height="100" src="/_media/imgs/oddee/artSB/98599.jpg" style="" border="0">
+
+        
+
+        <div class="sb1_bk" style="position:absolute;top:-17px;width:100%;height:0px;background-color:black;opacity:0.5;filter: alpha(opacity = 50);z-index:3;"></div>
+        </a><div class="sb1_text" style="position:absolute;top:-17px;left:0px;font-family:arial;font-size:12px;color:#ffffff;margin-left:3px;z-index:3;"><a onclick="GAevent('page','click_SB_New', '98599', null, true)" href="/item_98599.aspx" title="8 Amazing Man-Made Islands - ">
+            </a><a href="/amazing-art/" style="color:#ffffff;text-decoration:none;">Amazing Art</a>
+        </div>
+        <div class="sb1_text" style="position:absolute;top:-17px;right:0px;font-family:arial;font-size:12px;color:#ffffff;margin-right:3px;z-index:3;">62,045 views</div>
+        
+
+	    <a onclick="GAevent('page','click_SB_New', '98599', null, true)" class="artd" href="/item_98599.aspx" title="8 Amazing Man-Made Islands - " style="position:relative; top:-35px;">
+
+            </a>
+    <!--<br />-->
+    </div>
+    <a onclick="GAevent('page','click_SB_New', '98599', null, true)" class="artd" href="/item_98599.aspx" title="8 Amazing Man-Made Islands - " style="position:relative;top:-7px;">
+        8 Amazing Man-Made Islands
+    </a>
+</div>
+
+		
+
+<div class="sb1_link" style="margin-bottom:10px;">
+    <div style="position:relative; overflow:hidden;">
+        <a onclick="GAevent('page','click_SB_New', '98598', null, true)" href="/item_98598.aspx" title="7 Incredible Tunnels… Used for Crime - ">
+        <img width="300" height="100" src="/_media/imgs/oddee/artSB/98598.jpg" style="" border="0">
+
+        
+
+        <div class="sb1_bk" style="position:absolute;top:-17px;width:100%;height:0px;background-color:black;opacity:0.5;filter: alpha(opacity = 50);z-index:3;"></div>
+        </a><div class="sb1_text" style="position:absolute;top:-17px;left:0px;font-family:arial;font-size:12px;color:#ffffff;margin-left:3px;z-index:3;"><a onclick="GAevent('page','click_SB_New', '98598', null, true)" href="/item_98598.aspx" title="7 Incredible Tunnels… Used for Crime - ">
+            </a><a href="/strange-stories/" style="color:#ffffff;text-decoration:none;">Strange Stories</a>
+        </div>
+        <div class="sb1_text" style="position:absolute;top:-17px;right:0px;font-family:arial;font-size:12px;color:#ffffff;margin-right:3px;z-index:3;">65,434 views</div>
+        
+
+	    <a onclick="GAevent('page','click_SB_New', '98598', null, true)" class="artd" href="/item_98598.aspx" title="7 Incredible Tunnels… Used for Crime - " style="position:relative; top:-35px;">
+
+            </a>
+    <!--<br />-->
+    </div>
+    <a onclick="GAevent('page','click_SB_New', '98598', null, true)" class="artd" href="/item_98598.aspx" title="7 Incredible Tunnels… Used for Crime - " style="position:relative;top:-7px;">
+        7 Incredible Tunnels… Used for Crime
+    </a>
+</div>
+
+		
+
+<div class="sb1_link" style="margin-bottom:10px;">
+    <div style="position:relative; overflow:hidden;">
+        <a onclick="GAevent('page','click_SB_New', '98596', null, true)" href="/item_98596.aspx" title="10 Funniest " soup="" of="" the="" day"="" signs="" -="" "="">
+        <img width="300" height="100" src="/_media/imgs/oddee/artSB/98596.jpg" style="" border="0">
+
+        
+
+        <div class="sb1_bk" style="position:absolute;top:-17px;width:100%;height:0px;background-color:black;opacity:0.5;filter: alpha(opacity = 50);z-index:3;"></div>
+        </a><div class="sb1_text" style="position:absolute;top:-17px;left:0px;font-family:arial;font-size:12px;color:#ffffff;margin-left:3px;z-index:3;"><a onclick="GAevent('page','click_SB_New', '98596', null, true)" href="/item_98596.aspx" title="10 Funniest " soup="" of="" the="" day"="" signs="" -="" "="">
+            </a><a href="/funny-signs/" style="color:#ffffff;text-decoration:none;">Funny Signs</a>
+        </div>
+        <div class="sb1_text" style="position:absolute;top:-17px;right:0px;font-family:arial;font-size:12px;color:#ffffff;margin-right:3px;z-index:3;">53,366 views</div>
+        
+
+	    <a onclick="GAevent('page','click_SB_New', '98596', null, true)" class="artd" href="/item_98596.aspx" title="10 Funniest " soup="" of="" the="" day"="" signs="" -="" "="" style="position:relative; top:-35px;">
+
+            </a>
+    <!--<br />-->
+    </div>
+    <a onclick="GAevent('page','click_SB_New', '98596', null, true)" class="artd" href="/item_98596.aspx" title="10 Funniest " soup="" of="" the="" day"="" signs="" -="" "="" style="position:relative;top:-7px;">
+        10 Funniest "Soup of the Day" Signs
+    </a>
+</div>
+
+		
+
+<div class="sb1_link" style="margin-bottom:10px;">
+    <div style="position:relative; overflow:hidden;">
+        <a onclick="GAevent('page','click_SB_New', '98597', null, true)" href="/item_98597.aspx" title="10 Funniest Uses for an Ex-wife's Wedding Dress - ">
+        <img width="300" height="100" src="/_media/imgs/oddee/artSB/98597.jpg" style="" border="0">
+
+        
+
+        <div class="sb1_bk" style="position:absolute;top:-17px;width:100%;height:0px;background-color:black;opacity:0.5;filter: alpha(opacity = 50);z-index:3;"></div>
+        </a><div class="sb1_text" style="position:absolute;top:-17px;left:0px;font-family:arial;font-size:12px;color:#ffffff;margin-left:3px;z-index:3;"><a onclick="GAevent('page','click_SB_New', '98597', null, true)" href="/item_98597.aspx" title="10 Funniest Uses for an Ex-wife's Wedding Dress - ">
+            </a><a href="/strange-stories/" style="color:#ffffff;text-decoration:none;">Strange Stories</a>
+        </div>
+        <div class="sb1_text" style="position:absolute;top:-17px;right:0px;font-family:arial;font-size:12px;color:#ffffff;margin-right:3px;z-index:3;">68,082 views</div>
+        
+
+	    <a onclick="GAevent('page','click_SB_New', '98597', null, true)" class="artd" href="/item_98597.aspx" title="10 Funniest Uses for an Ex-wife's Wedding Dress - " style="position:relative; top:-35px;">
+
+            </a>
+    <!--<br />-->
+    </div>
+    <a onclick="GAevent('page','click_SB_New', '98597', null, true)" class="artd" href="/item_98597.aspx" title="10 Funniest Uses for an Ex-wife's Wedding Dress - " style="position:relative;top:-7px;">
+        10 Funniest Uses for an Ex-wife's Wedding Dress
+    </a>
+</div>
+
+		
+
+<div class="sb1_link" style="margin-bottom:10px;">
+    <div style="position:relative; overflow:hidden;">
+        <a onclick="GAevent('page','click_SB_New', '98593', null, true)" href="/item_98593.aspx" title="10 Craziest Things that Fans Did for their Idols - crazy, craziest, fans, idols">
+        <img width="300" height="100" src="/_media/imgs/oddee/artSB/98593.jpg" style="" border="0">
+
+        
+
+        <div class="sb1_bk" style="position:absolute;top:-17px;width:100%;height:0px;background-color:black;opacity:0.5;filter: alpha(opacity = 50);z-index:3;"></div>
+        </a><div class="sb1_text" style="position:absolute;top:-17px;left:0px;font-family:arial;font-size:12px;color:#ffffff;margin-left:3px;z-index:3;"><a onclick="GAevent('page','click_SB_New', '98593', null, true)" href="/item_98593.aspx" title="10 Craziest Things that Fans Did for their Idols - crazy, craziest, fans, idols">
+            </a><a href="/strange-people/" style="color:#ffffff;text-decoration:none;">Strange People</a>
+        </div>
+        <div class="sb1_text" style="position:absolute;top:-17px;right:0px;font-family:arial;font-size:12px;color:#ffffff;margin-right:3px;z-index:3;">88,720 views</div>
+        
+
+	    <a onclick="GAevent('page','click_SB_New', '98593', null, true)" class="artd" href="/item_98593.aspx" title="10 Craziest Things that Fans Did for their Idols - crazy, craziest, fans, idols" style="position:relative; top:-35px;">
+
+            </a>
+    <!--<br />-->
+    </div>
+    <a onclick="GAevent('page','click_SB_New', '98593', null, true)" class="artd" href="/item_98593.aspx" title="10 Craziest Things that Fans Did for their Idols - crazy, craziest, fans, idols" style="position:relative;top:-7px;">
+        10 Craziest Things that Fans Did for their Idols
+    </a>
+</div>
+
+		
+
+<div class="sb1_link" style="margin-bottom:10px;">
+    <div style="position:relative; overflow:hidden;">
+        <a onclick="GAevent('page','click_SB_New', '98595', null, true)" href="/item_98595.aspx" title="9 of The Coolest Countries - ">
+        <img width="300" height="100" src="/_media/imgs/oddee/artSB/98595.jpg" style="" border="0">
+
+        
+
+        <div class="sb1_bk" style="position:absolute;top:-17px;width:100%;height:0px;background-color:black;opacity:0.5;filter: alpha(opacity = 50);z-index:3;"></div>
+        </a><div class="sb1_text" style="position:absolute;top:-17px;left:0px;font-family:arial;font-size:12px;color:#ffffff;margin-left:3px;z-index:3;"><a onclick="GAevent('page','click_SB_New', '98595', null, true)" href="/item_98595.aspx" title="9 of The Coolest Countries - ">
+            </a><a href="/cool-places/" style="color:#ffffff;text-decoration:none;">Cool Places</a>
+        </div>
+        <div class="sb1_text" style="position:absolute;top:-17px;right:0px;font-family:arial;font-size:12px;color:#ffffff;margin-right:3px;z-index:3;">76,783 views</div>
+        
+
+	    <a onclick="GAevent('page','click_SB_New', '98595', null, true)" class="artd" href="/item_98595.aspx" title="9 of The Coolest Countries - " style="position:relative; top:-35px;">
+
+            </a>
+    <!--<br />-->
+    </div>
+    <a onclick="GAevent('page','click_SB_New', '98595', null, true)" class="artd" href="/item_98595.aspx" title="9 of The Coolest Countries - " style="position:relative;top:-7px;">
+        9 of The Coolest Countries
+    </a>
+</div>
+
+		
+
+<div class="sb1_link" style="margin-bottom:10px;">
+    <div style="position:relative; overflow:hidden;">
+        <a onclick="GAevent('page','click_SB_New', '98594', null, true)" href="/item_98594.aspx" title="8 Embarrassing Photos of People Who Got Stuck - ">
+        <img width="300" height="100" src="/_media/imgs/oddee/artSB/98594.jpg" style="" border="0">
+
+        
+
+        <div class="sb1_bk" style="position:absolute;top:-17px;width:100%;height:0px;background-color:black;opacity:0.5;filter: alpha(opacity = 50);z-index:3;"></div>
+        </a><div class="sb1_text" style="position:absolute;top:-17px;left:0px;font-family:arial;font-size:12px;color:#ffffff;margin-left:3px;z-index:3;"><a onclick="GAevent('page','click_SB_New', '98594', null, true)" href="/item_98594.aspx" title="8 Embarrassing Photos of People Who Got Stuck - ">
+            </a><a href="/strange-stories/" style="color:#ffffff;text-decoration:none;">Strange Stories</a>
+        </div>
+        <div class="sb1_text" style="position:absolute;top:-17px;right:0px;font-family:arial;font-size:12px;color:#ffffff;margin-right:3px;z-index:3;">124,478 views</div>
+        
+
+	    <a onclick="GAevent('page','click_SB_New', '98594', null, true)" class="artd" href="/item_98594.aspx" title="8 Embarrassing Photos of People Who Got Stuck - " style="position:relative; top:-35px;">
+
+            </a>
+    <!--<br />-->
+    </div>
+    <a onclick="GAevent('page','click_SB_New', '98594', null, true)" class="artd" href="/item_98594.aspx" title="8 Embarrassing Photos of People Who Got Stuck - " style="position:relative;top:-7px;">
+        8 Embarrassing Photos of People Who Got Stuck
+    </a>
+</div>
+
+		
+
+<div class="sb1_link" style="margin-bottom:10px;">
+    <div style="position:relative; overflow:hidden;">
+        <a onclick="GAevent('page','click_SB_New', '98592', null, true)" href="/item_98592.aspx" title="12 Coolest Pieces of Latte Art - ">
+        <img width="300" height="100" src="/_media/imgs/oddee/artSB/98592.jpg" style="" border="0">
+
+        
+
+        <div class="sb1_bk" style="position:absolute;top:-17px;width:100%;height:0px;background-color:black;opacity:0.5;filter: alpha(opacity = 50);z-index:3;"></div>
+        </a><div class="sb1_text" style="position:absolute;top:-17px;left:0px;font-family:arial;font-size:12px;color:#ffffff;margin-left:3px;z-index:3;"><a onclick="GAevent('page','click_SB_New', '98592', null, true)" href="/item_98592.aspx" title="12 Coolest Pieces of Latte Art - ">
+            </a><a href="/amazing-art/" style="color:#ffffff;text-decoration:none;">Amazing Art</a>
+        </div>
+        <div class="sb1_text" style="position:absolute;top:-17px;right:0px;font-family:arial;font-size:12px;color:#ffffff;margin-right:3px;z-index:3;">45,832 views</div>
+        
+
+	    <a onclick="GAevent('page','click_SB_New', '98592', null, true)" class="artd" href="/item_98592.aspx" title="12 Coolest Pieces of Latte Art - " style="position:relative; top:-35px;">
+
+            </a>
+    <!--<br />-->
+    </div>
+    <a onclick="GAevent('page','click_SB_New', '98592', null, true)" class="artd" href="/item_98592.aspx" title="12 Coolest Pieces of Latte Art - " style="position:relative;top:-7px;">
+        12 Coolest Pieces of Latte Art
+    </a>
+</div>
+
+		
+
+<div class="sb1_link" style="margin-bottom:10px;">
+    <div style="position:relative; overflow:hidden;">
+        <a onclick="GAevent('page','click_SB_New', '98591', null, true)" href="/item_98591.aspx" title="12 Amazing Things Made With Cardboard Tubes - ">
+        <img width="300" height="100" src="/_media/imgs/oddee/artSB/98591.jpg" style="" border="0">
+
+        
+
+        <div class="sb1_bk" style="position:absolute;top:-17px;width:100%;height:0px;background-color:black;opacity:0.5;filter: alpha(opacity = 50);z-index:3;"></div>
+        </a><div class="sb1_text" style="position:absolute;top:-17px;left:0px;font-family:arial;font-size:12px;color:#ffffff;margin-left:3px;z-index:3;"><a onclick="GAevent('page','click_SB_New', '98591', null, true)" href="/item_98591.aspx" title="12 Amazing Things Made With Cardboard Tubes - ">
+            </a><a href="/cool-objects/" style="color:#ffffff;text-decoration:none;">Cool Objects</a>
+        </div>
+        <div class="sb1_text" style="position:absolute;top:-17px;right:0px;font-family:arial;font-size:12px;color:#ffffff;margin-right:3px;z-index:3;">56,933 views</div>
+        
+
+	    <a onclick="GAevent('page','click_SB_New', '98591', null, true)" class="artd" href="/item_98591.aspx" title="12 Amazing Things Made With Cardboard Tubes - " style="position:relative; top:-35px;">
+
+            </a>
+    <!--<br />-->
+    </div>
+    <a onclick="GAevent('page','click_SB_New', '98591', null, true)" class="artd" href="/item_98591.aspx" title="12 Amazing Things Made With Cardboard Tubes - " style="position:relative;top:-7px;">
+        12 Amazing Things Made With Cardboard Tubes
+    </a>
+</div>
+
+		
+
+<div class="sb1_link" style="margin-bottom:10px;">
+    <div style="position:relative; overflow:hidden;">
+        <a onclick="GAevent('page','click_SB_New', '98590', null, true)" href="/item_98590.aspx" title="9 Most Shocking Teen Fads - ">
+        <img width="300" height="100" src="/_media/imgs/oddee/artSB/98590.jpg" style="" border="0">
+
+        <div style="position:absolute;bottom:5px;width:40px;height:15px;background-color:black;opacity:0.5;filter: alpha(opacity = 50);z-index:3;"></div><div style="position:absolute;bottom:3px;float:left;font-family:arial;font-size:12px;color:gold;margin-left:3px;z-index:3;"><strong>NSFW</strong></div>
+
+        <div class="sb1_bk" style="position:absolute;top:-17px;width:100%;height:0px;background-color:black;opacity:0.5;filter: alpha(opacity = 50);z-index:3;"></div>
+        </a><div class="sb1_text" style="position:absolute;top:-17px;left:0px;font-family:arial;font-size:12px;color:#ffffff;margin-left:3px;z-index:3;"><a onclick="GAevent('page','click_SB_New', '98590', null, true)" href="/item_98590.aspx" title="9 Most Shocking Teen Fads - ">
+            </a><a href="/strange-people/" style="color:#ffffff;text-decoration:none;">Strange People</a>
+        </div>
+        <div class="sb1_text" style="position:absolute;top:-17px;right:0px;font-family:arial;font-size:12px;color:#ffffff;margin-right:3px;z-index:3;">146,562 views</div>
+        
+
+	    <a onclick="GAevent('page','click_SB_New', '98590', null, true)" class="artd" href="/item_98590.aspx" title="9 Most Shocking Teen Fads - " style="position:relative; top:-35px;">
+
+            </a>
+    <!--<br />-->
+    </div>
+    <a onclick="GAevent('page','click_SB_New', '98590', null, true)" class="artd" href="/item_98590.aspx" title="9 Most Shocking Teen Fads - " style="position:relative;top:-7px;">
+        9 Most Shocking Teen Fads
+    </a>
+</div>
+
+		
+
+<div class="sb1_link" style="margin-bottom:10px;">
+    <div style="position:relative; overflow:hidden;">
+        <a onclick="GAevent('page','click_SB_New', '98589', null, true)" href="/item_98589.aspx" title="10 Funniest Apology Notes - ">
+        <img width="300" height="100" src="/_media/imgs/oddee/artSB/98589.jpg" style="" border="0">
+
+        
+
+        <div class="sb1_bk" style="position:absolute;top:-17px;width:100%;height:0px;background-color:black;opacity:0.5;filter: alpha(opacity = 50);z-index:3;"></div>
+        </a><div class="sb1_text" style="position:absolute;top:-17px;left:0px;font-family:arial;font-size:12px;color:#ffffff;margin-left:3px;z-index:3;"><a onclick="GAevent('page','click_SB_New', '98589', null, true)" href="/item_98589.aspx" title="10 Funniest Apology Notes - ">
+            </a><a href="/funny-signs/" style="color:#ffffff;text-decoration:none;">Funny Signs</a>
+        </div>
+        <div class="sb1_text" style="position:absolute;top:-17px;right:0px;font-family:arial;font-size:12px;color:#ffffff;margin-right:3px;z-index:3;">83,539 views</div>
+        
+
+	    <a onclick="GAevent('page','click_SB_New', '98589', null, true)" class="artd" href="/item_98589.aspx" title="10 Funniest Apology Notes - " style="position:relative; top:-35px;">
+
+            </a>
+    <!--<br />-->
+    </div>
+    <a onclick="GAevent('page','click_SB_New', '98589', null, true)" class="artd" href="/item_98589.aspx" title="10 Funniest Apology Notes - " style="position:relative;top:-7px;">
+        10 Funniest Apology Notes
+    </a>
+</div>
+
+		
+
+<div class="sb1_link" style="margin-bottom:10px;">
+    <div style="position:relative; overflow:hidden;">
+        <a onclick="GAevent('page','click_SB_New', '98588', null, true)" href="/item_98588.aspx" title="10 Craziest Disguises Used To Commit a Crime - ">
+        <img width="300" height="100" src="/_media/imgs/oddee/artSB/98588.jpg" style="" border="0">
+
+        
+
+        <div class="sb1_bk" style="position:absolute;top:-17px;width:100%;height:0px;background-color:black;opacity:0.5;filter: alpha(opacity = 50);z-index:3;"></div>
+        </a><div class="sb1_text" style="position:absolute;top:-17px;left:0px;font-family:arial;font-size:12px;color:#ffffff;margin-left:3px;z-index:3;"><a onclick="GAevent('page','click_SB_New', '98588', null, true)" href="/item_98588.aspx" title="10 Craziest Disguises Used To Commit a Crime - ">
+            </a><a href="/strange-stories/" style="color:#ffffff;text-decoration:none;">Strange Stories</a>
+        </div>
+        <div class="sb1_text" style="position:absolute;top:-17px;right:0px;font-family:arial;font-size:12px;color:#ffffff;margin-right:3px;z-index:3;">80,730 views</div>
+        
+
+	    <a onclick="GAevent('page','click_SB_New', '98588', null, true)" class="artd" href="/item_98588.aspx" title="10 Craziest Disguises Used To Commit a Crime - " style="position:relative; top:-35px;">
+
+            </a>
+    <!--<br />-->
+    </div>
+    <a onclick="GAevent('page','click_SB_New', '98588', null, true)" class="artd" href="/item_98588.aspx" title="10 Craziest Disguises Used To Commit a Crime - " style="position:relative;top:-7px;">
+        10 Craziest Disguises Used To Commit a Crime
+    </a>
+</div>
+
+		
+
+<div class="sb1_link" style="margin-bottom:10px;">
+    <div style="position:relative; overflow:hidden;">
+        <a onclick="GAevent('page','click_SB_New', '98587', null, true)" href="/item_98587.aspx" title="12 Hilarious Pictures of Pinterest Fails - ">
+        <img width="300" height="100" src="/_media/imgs/oddee/artSB/98587.jpg" style="" border="0">
+
+        
+
+        <div class="sb1_bk" style="position:absolute;top:-17px;width:100%;height:0px;background-color:black;opacity:0.5;filter: alpha(opacity = 50);z-index:3;"></div>
+        </a><div class="sb1_text" style="position:absolute;top:-17px;left:0px;font-family:arial;font-size:12px;color:#ffffff;margin-left:3px;z-index:3;"><a onclick="GAevent('page','click_SB_New', '98587', null, true)" href="/item_98587.aspx" title="12 Hilarious Pictures of Pinterest Fails - ">
+            </a><a href="/misc/" style="color:#ffffff;text-decoration:none;">Misc</a>
+        </div>
+        <div class="sb1_text" style="position:absolute;top:-17px;right:0px;font-family:arial;font-size:12px;color:#ffffff;margin-right:3px;z-index:3;">105,500 views</div>
+        
+
+	    <a onclick="GAevent('page','click_SB_New', '98587', null, true)" class="artd" href="/item_98587.aspx" title="12 Hilarious Pictures of Pinterest Fails - " style="position:relative; top:-35px;">
+
+            </a>
+    <!--<br />-->
+    </div>
+    <a onclick="GAevent('page','click_SB_New', '98587', null, true)" class="artd" href="/item_98587.aspx" title="12 Hilarious Pictures of Pinterest Fails - " style="position:relative;top:-7px;">
+        12 Hilarious Pictures of Pinterest Fails
+    </a>
+</div>
+
+		
+
+<div class="sb1_link" style="margin-bottom:10px;">
+    <div style="position:relative; overflow:hidden;">
+        <a onclick="GAevent('page','click_SB_New', '98585', null, true)" href="/item_98585.aspx" title="12 Funniest Pictures of Mischief with Statues - ">
+        <img width="300" height="100" src="/_media/imgs/oddee/artSB/98585.jpg" style="" border="0">
+
+        
+
+        <div class="sb1_bk" style="position:absolute;top:-17px;width:100%;height:0px;background-color:black;opacity:0.5;filter: alpha(opacity = 50);z-index:3;"></div>
+        </a><div class="sb1_text" style="position:absolute;top:-17px;left:0px;font-family:arial;font-size:12px;color:#ffffff;margin-left:3px;z-index:3;"><a onclick="GAevent('page','click_SB_New', '98585', null, true)" href="/item_98585.aspx" title="12 Funniest Pictures of Mischief with Statues - ">
+            </a><a href="/misc/" style="color:#ffffff;text-decoration:none;">Misc</a>
+        </div>
+        <div class="sb1_text" style="position:absolute;top:-17px;right:0px;font-family:arial;font-size:12px;color:#ffffff;margin-right:3px;z-index:3;">89,196 views</div>
+        
+
+	    <a onclick="GAevent('page','click_SB_New', '98585', null, true)" class="artd" href="/item_98585.aspx" title="12 Funniest Pictures of Mischief with Statues - " style="position:relative; top:-35px;">
+
+            </a>
+    <!--<br />-->
+    </div>
+    <a onclick="GAevent('page','click_SB_New', '98585', null, true)" class="artd" href="/item_98585.aspx" title="12 Funniest Pictures of Mischief with Statues - " style="position:relative;top:-7px;">
+        12 Funniest Pictures of Mischief with Statues
+    </a>
+</div>
+
+		
+
+<div class="sb1_link" style="margin-bottom:10px;">
+    <div style="position:relative; overflow:hidden;">
+        <a onclick="GAevent('page','click_SB_New', '98576', null, true)" href="/item_98576.aspx" title="10 Clever Ways People Make Money in Today's Economy - make money, earn money, clever business ideas, clever ways">
+        <img width="300" height="100" src="/_media/imgs/oddee/artSB/98576.jpg" style="" border="0">
+
+        
+
+        <div class="sb1_bk" style="position:absolute;top:-17px;width:100%;height:0px;background-color:black;opacity:0.5;filter: alpha(opacity = 50);z-index:3;"></div>
+        </a><div class="sb1_text" style="position:absolute;top:-17px;left:0px;font-family:arial;font-size:12px;color:#ffffff;margin-left:3px;z-index:3;"><a onclick="GAevent('page','click_SB_New', '98576', null, true)" href="/item_98576.aspx" title="10 Clever Ways People Make Money in Today's Economy - make money, earn money, clever business ideas, clever ways">
+            </a><a href="/misc/" style="color:#ffffff;text-decoration:none;">Misc</a>
+        </div>
+        <div class="sb1_text" style="position:absolute;top:-17px;right:0px;font-family:arial;font-size:12px;color:#ffffff;margin-right:3px;z-index:3;">77,490 views</div>
+        
+
+	    <a onclick="GAevent('page','click_SB_New', '98576', null, true)" class="artd" href="/item_98576.aspx" title="10 Clever Ways People Make Money in Today's Economy - make money, earn money, clever business ideas, clever ways" style="position:relative; top:-35px;">
+
+            </a>
+    <!--<br />-->
+    </div>
+    <a onclick="GAevent('page','click_SB_New', '98576', null, true)" class="artd" href="/item_98576.aspx" title="10 Clever Ways People Make Money in Today's Economy - make money, earn money, clever business ideas, clever ways" style="position:relative;top:-7px;">
+        10 Clever Ways People Make Money in Today's Economy
+    </a>
+</div>
+
+		
+
+<div class="sb1_link" style="margin-bottom:10px;">
+    <div style="position:relative; overflow:hidden;">
+        <a onclick="GAevent('page','click_SB_New', '98581', null, true)" href="/item_98581.aspx" title="12 Weirdest Fake Brands - ">
+        <img width="300" height="100" src="/_media/imgs/oddee/artSB/98581.jpg" style="" border="0">
+
+        
+
+        <div class="sb1_bk" style="position:absolute;top:-17px;width:100%;height:0px;background-color:black;opacity:0.5;filter: alpha(opacity = 50);z-index:3;"></div>
+        </a><div class="sb1_text" style="position:absolute;top:-17px;left:0px;font-family:arial;font-size:12px;color:#ffffff;margin-left:3px;z-index:3;"><a onclick="GAevent('page','click_SB_New', '98581', null, true)" href="/item_98581.aspx" title="12 Weirdest Fake Brands - ">
+            </a><a href="/misc/" style="color:#ffffff;text-decoration:none;">Misc</a>
+        </div>
+        <div class="sb1_text" style="position:absolute;top:-17px;right:0px;font-family:arial;font-size:12px;color:#ffffff;margin-right:3px;z-index:3;">92,110 views</div>
+        
+
+	    <a onclick="GAevent('page','click_SB_New', '98581', null, true)" class="artd" href="/item_98581.aspx" title="12 Weirdest Fake Brands - " style="position:relative; top:-35px;">
+
+            </a>
+    <!--<br />-->
+    </div>
+    <a onclick="GAevent('page','click_SB_New', '98581', null, true)" class="artd" href="/item_98581.aspx" title="12 Weirdest Fake Brands - " style="position:relative;top:-7px;">
+        12 Weirdest Fake Brands
+    </a>
+</div>
+
+		
+
+<div class="sb1_link" style="margin-bottom:10px;">
+    <div style="position:relative; overflow:hidden;">
+        <a onclick="GAevent('page','click_SB_New', '98584', null, true)" href="/item_98584.aspx" title="8 Bizarre Stories of People Who Like to Get Married a LOT - ">
+        <img width="300" height="100" src="/_media/imgs/oddee/artSB/98584.jpg" style="" border="0">
+
+        
+
+        <div class="sb1_bk" style="position:absolute;top:-17px;width:100%;height:0px;background-color:black;opacity:0.5;filter: alpha(opacity = 50);z-index:3;"></div>
+        </a><div class="sb1_text" style="position:absolute;top:-17px;left:0px;font-family:arial;font-size:12px;color:#ffffff;margin-left:3px;z-index:3;"><a onclick="GAevent('page','click_SB_New', '98584', null, true)" href="/item_98584.aspx" title="8 Bizarre Stories of People Who Like to Get Married a LOT - ">
+            </a><a href="/strange-stories/" style="color:#ffffff;text-decoration:none;">Strange Stories</a>
+        </div>
+        <div class="sb1_text" style="position:absolute;top:-17px;right:0px;font-family:arial;font-size:12px;color:#ffffff;margin-right:3px;z-index:3;">76,562 views</div>
+        
+
+	    <a onclick="GAevent('page','click_SB_New', '98584', null, true)" class="artd" href="/item_98584.aspx" title="8 Bizarre Stories of People Who Like to Get Married a LOT - " style="position:relative; top:-35px;">
+
+            </a>
+    <!--<br />-->
+    </div>
+    <a onclick="GAevent('page','click_SB_New', '98584', null, true)" class="artd" href="/item_98584.aspx" title="8 Bizarre Stories of People Who Like to Get Married a LOT - " style="position:relative;top:-7px;">
+        8 Bizarre Stories of People Who Like to Get Married a LOT
+    </a>
+</div>
+
+		
+
+<div class="sb1_link" style="margin-bottom:10px;">
+    <div style="position:relative; overflow:hidden;">
+        <a onclick="GAevent('page','click_SB_New', '98583', null, true)" href="/item_98583.aspx" title="8 Most Amazing Tiny Homes - ">
+        <img width="300" height="100" src="/_media/imgs/oddee/artSB/98583.jpg" style="" border="0">
+
+        
+
+        <div class="sb1_bk" style="position:absolute;top:-17px;width:100%;height:0px;background-color:black;opacity:0.5;filter: alpha(opacity = 50);z-index:3;"></div>
+        </a><div class="sb1_text" style="position:absolute;top:-17px;left:0px;font-family:arial;font-size:12px;color:#ffffff;margin-left:3px;z-index:3;"><a onclick="GAevent('page','click_SB_New', '98583', null, true)" href="/item_98583.aspx" title="8 Most Amazing Tiny Homes - ">
+            </a><a href="/cool-home-design/" style="color:#ffffff;text-decoration:none;">Cool Home Design</a>
+        </div>
+        <div class="sb1_text" style="position:absolute;top:-17px;right:0px;font-family:arial;font-size:12px;color:#ffffff;margin-right:3px;z-index:3;">111,755 views</div>
+        
+
+	    <a onclick="GAevent('page','click_SB_New', '98583', null, true)" class="artd" href="/item_98583.aspx" title="8 Most Amazing Tiny Homes - " style="position:relative; top:-35px;">
+
+            </a>
+    <!--<br />-->
+    </div>
+    <a onclick="GAevent('page','click_SB_New', '98583', null, true)" class="artd" href="/item_98583.aspx" title="8 Most Amazing Tiny Homes - " style="position:relative;top:-7px;">
+        8 Most Amazing Tiny Homes
+    </a>
+</div>
+
+		
+
+<div class="sb1_link" style="margin-bottom:10px;">
+    <div style="position:relative; overflow:hidden;">
+        <a onclick="GAevent('page','click_SB_New', '98586', null, true)" href="/item_98586.aspx" title="10 Awesome Vine 6-second Videos - Best Vines, Vine Videos">
+        <img width="300" height="100" src="/_media/imgs/oddee/artSB/98586.jpg" style="" border="0">
+
+        
+
+        <div class="sb1_bk" style="position:absolute;top:-17px;width:100%;height:0px;background-color:black;opacity:0.5;filter: alpha(opacity = 50);z-index:3;"></div>
+        </a><div class="sb1_text" style="position:absolute;top:-17px;left:0px;font-family:arial;font-size:12px;color:#ffffff;margin-left:3px;z-index:3;"><a onclick="GAevent('page','click_SB_New', '98586', null, true)" href="/item_98586.aspx" title="10 Awesome Vine 6-second Videos - Best Vines, Vine Videos">
+            </a><a href="/fun-tech/" style="color:#ffffff;text-decoration:none;">Fun Tech</a>
+        </div>
+        <div class="sb1_text" style="position:absolute;top:-17px;right:0px;font-family:arial;font-size:12px;color:#ffffff;margin-right:3px;z-index:3;">91,000 views</div>
+        
+
+	    <a onclick="GAevent('page','click_SB_New', '98586', null, true)" class="artd" href="/item_98586.aspx" title="10 Awesome Vine 6-second Videos - Best Vines, Vine Videos" style="position:relative; top:-35px;">
+
+            </a>
+    <!--<br />-->
+    </div>
+    <a onclick="GAevent('page','click_SB_New', '98586', null, true)" class="artd" href="/item_98586.aspx" title="10 Awesome Vine 6-second Videos - Best Vines, Vine Videos" style="position:relative;top:-7px;">
+        10 Awesome Vine 6-second Videos
+    </a>
+</div>
+
+		
+
+<div class="sb1_link" style="margin-bottom:10px;">
+    <div style="position:relative; overflow:hidden;">
+        <a onclick="GAevent('page','click_SB_New', '98582', null, true)" href="/item_98582.aspx" title="10 Very Unusual Graves - ">
+        <img width="300" height="100" src="/_media/imgs/oddee/artSB/98582.jpg" style="" border="0">
+
+        
+
+        <div class="sb1_bk" style="position:absolute;top:-17px;width:100%;height:0px;background-color:black;opacity:0.5;filter: alpha(opacity = 50);z-index:3;"></div>
+        </a><div class="sb1_text" style="position:absolute;top:-17px;left:0px;font-family:arial;font-size:12px;color:#ffffff;margin-left:3px;z-index:3;"><a onclick="GAevent('page','click_SB_New', '98582', null, true)" href="/item_98582.aspx" title="10 Very Unusual Graves - ">
+            </a><a href="/amazing-art/" style="color:#ffffff;text-decoration:none;">Amazing Art</a>
+        </div>
+        <div class="sb1_text" style="position:absolute;top:-17px;right:0px;font-family:arial;font-size:12px;color:#ffffff;margin-right:3px;z-index:3;">80,437 views</div>
+        
+
+	    <a onclick="GAevent('page','click_SB_New', '98582', null, true)" class="artd" href="/item_98582.aspx" title="10 Very Unusual Graves - " style="position:relative; top:-35px;">
+
+            </a>
+    <!--<br />-->
+    </div>
+    <a onclick="GAevent('page','click_SB_New', '98582', null, true)" class="artd" href="/item_98582.aspx" title="10 Very Unusual Graves - " style="position:relative;top:-7px;">
+        10 Very Unusual Graves
+    </a>
+</div>
+
+		
+
+<div class="sb1_link" style="margin-bottom:10px;">
+    <div style="position:relative; overflow:hidden;">
+        <a onclick="GAevent('page','click_SB_New', '98579', null, true)" href="/item_98579.aspx" title="12 Creative Cookie Cutters - ">
+        <img width="300" height="100" src="/_media/imgs/oddee/artSB/98579.jpg" style="" border="0">
+
+        
+
+        <div class="sb1_bk" style="position:absolute;top:-17px;width:100%;height:0px;background-color:black;opacity:0.5;filter: alpha(opacity = 50);z-index:3;"></div>
+        </a><div class="sb1_text" style="position:absolute;top:-17px;left:0px;font-family:arial;font-size:12px;color:#ffffff;margin-left:3px;z-index:3;"><a onclick="GAevent('page','click_SB_New', '98579', null, true)" href="/item_98579.aspx" title="12 Creative Cookie Cutters - ">
+            </a><a href="/cool-home-design/" style="color:#ffffff;text-decoration:none;">Cool Home Design</a>
+        </div>
+        <div class="sb1_text" style="position:absolute;top:-17px;right:0px;font-family:arial;font-size:12px;color:#ffffff;margin-right:3px;z-index:3;">49,989 views</div>
+        
+
+	    <a onclick="GAevent('page','click_SB_New', '98579', null, true)" class="artd" href="/item_98579.aspx" title="12 Creative Cookie Cutters - " style="position:relative; top:-35px;">
+
+            </a>
+    <!--<br />-->
+    </div>
+    <a onclick="GAevent('page','click_SB_New', '98579', null, true)" class="artd" href="/item_98579.aspx" title="12 Creative Cookie Cutters - " style="position:relative;top:-7px;">
+        12 Creative Cookie Cutters
+    </a>
+</div>
+
+
+
+
+
+        
+        <br>
+        <iframe class="fb-fan-box" scrolling="no" frameborder="0" src="http://www.facebook.com/connect/connect.php?id=238779731616&amp;connections=10&amp;stream=0" allowtransparency="true" width="300" height="246">
+        </iframe>
+    </div>
 <!--/Oddee's middle sidebar -->
-
-
-
-
-
-
 
 <!--Oddee's right sidebar -->
 
-<div id="d_sidebar2">
-<div id="d_sidebar2S1">&nbsp;</div>
-<div id="d_sidebar2C">
+    <div id="d_sidebar2">
+        <div id="d_sidebar2S1">
+            &nbsp;</div>
+        <div id="d_sidebar2C">
+            
+            
+    <!-- 160x600_above_the_fold -->
+                <div id="div-gpt-ad-1346100848791-0" style="width:160px;height:600px;margin-top:15px;">
+        <script type="text/javascript">
 
-			
 
 
 
 
-			
 
-				<!-- 160x600_above_the_fold -->
-				<div id="div-gpt-ad-1346100848791-0" style="width:160px; height:600px;">
-				<script type="text/javascript">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 					googletag.cmd.push(function() { googletag.display('div-gpt-ad-1346100848791-0'); });
 				</script>
-				</div>
-
-			
-             
-
-
-			<table |width="160" background="/_media/imgs/oddee/fondoBarra.gif" cellpadding="0" cellspacing="0">
-				<tbody><tr><td colspan="2" style="padding-left:15px" height="35"><img src="/_media/imgs/oddee/OddProducts.gif"></td><td width="8"></td></tr>
-
-						
-
-	<tr>
-		<td class="colI1"><img width="50" src="/_media/imgs/articles/a342_min.jpg"></td>
-		<td class="colI2"><a class="artd2" href="/item_96570.aspx" title="10 Far-out Valentine's Gifts - Weird Valentine's Gifts, Strange Valentine's Gifts">
-		10 Far-out Valentine's Gifts</a></td>
-	</tr>
-	<tr><td height="8"></td></tr>
-  
-		
-
-	<tr>
-		<td class="colI1"><img width="50" src="/_media/imgs/articles/a324_min.jpg"></td>
-		<td class="colI2"><a class="artd2" href="/item_96553.aspx" title="10 Geekiest T-Shirts - geek t-shirts, funny t-shirts">
-		10 Geekiest T-Shirts</a></td>
-	</tr>
-	<tr><td height="8"></td></tr>
-  
-		
-
-	<tr>
-		<td class="colI1"><img width="50" src="/_media/imgs/articles2/a97077_min2.jpg"></td>
-		<td class="colI2"><a class="artd2" href="/item_97077.aspx" title="10 Coolest Bathroom Accessories - bathroom accessories">
-		10 Coolest Bathroom Accessories</a></td>
-	</tr>
-	<tr><td height="8"></td></tr>
-  
-		
-
-	<tr>
-		<td class="colI1"><img width="50" src="/_media/imgs/articles/a375_min.jpg"></td>
-		<td class="colI2"><a class="artd2" href="/item_96603.aspx" title="10 Coolest Computer Mice - cool computer mouse, cool PC mouse, cool mouse">
-		10 Coolest Computer Mice</a></td>
-	</tr>
-	<tr><td height="8"></td></tr>
-  
-		
-
-	<tr>
-		<td class="colI1"><img width="50" src="/_media/imgs/articles2/a96789_min2.jpg"></td>
-		<td class="colI2"><a class="artd2" href="/item_96789.aspx" title="12 Funniest Wedding Cake Toppers - cake topper, wedding cake toppers, wedding toppers">
-		12 Funniest Wedding Cake Toppers</a></td>
-	</tr>
-	<tr><td height="8"></td></tr>
-  
-		
-
-	<tr>
-		<td class="colI1"><img width="50" src="/_media/imgs/articles/a329_min.jpg"></td>
-		<td class="colI2"><a class="artd2" href="/item_96557.aspx" title="12 Strangest Ties - Funny Ties, Weird Ties">
-		12 Strangest Ties</a></td>
-	</tr>
-	<tr><td height="8"></td></tr>
-  
-		
-
-	<tr>
-		<td class="colI1"><img width="50" src="/_media/imgs/articles/a365_min.jpg"></td>
-		<td class="colI2"><a class="artd2" href="/item_96593.aspx" title="10 Coolest Bottle Openers - cool bottle openers, novelty bottle openers">
-		10 Coolest Bottle Openers</a></td>
-	</tr>
-	<tr><td height="8"></td></tr>
-  
-		
-
-	<tr>
-		<td class="colI1"><img width="50" src="/_media/imgs/articles/a420_min.jpg"></td>
-		<td class="colI2"><a class="artd2" href="/item_96648.aspx" title="10 Most Creative Holders - cool holders, creative holders">
-		10 Most Creative Holders</a></td>
-	</tr>
-	<tr><td height="8"></td></tr>
-  
-		
-
-	<tr>
-		<td class="colI1"><img width="50" src="/_media/imgs/articles/a332_min.jpg"></td>
-		<td class="colI2"><a class="artd2" href="/item_96561.aspx" title="10 Coolest USB Accessories - USB Accessories, Best USB Accessories, USB Cooler, USB Rocket and Missile launcher">
-		10 Coolest USB Accessories</a></td>
-	</tr>
-	<tr><td height="8"></td></tr>
-  
-		
-
-	<tr>
-		<td class="colI1"><img width="50" src="/_media/imgs/articles/a339_min.jpg"></td>
-		<td class="colI2"><a class="artd2" href="/item_96567.aspx" title="10 Coolest USB Flash Drives - USB Sticks, USB Pen drive">
-		10 Coolest USB Flash Drives</a></td>
-	</tr>
-	<tr><td height="8"></td></tr>
-  
-
-
- 
-
-			</tbody></table>
-
-
-			<table width="160" background="/_media/imgs/oddee/fondoBarra.gif" cellpadding="0" cellspacing="0">
-				<tbody><tr><td colspan="2" style="padding-left:15px" height="60"><img src="/_media/imgs/oddee/MostPopular.gif"></td><td width="8"></td></tr>
-                
-						
-
-	<tr>
-		<td class="colI1"><img width="50" src="/_media/imgs/articles2/a98269_min2.jpg"></td>
-		<td class="colI2"><a class="artd2" href="/item_98269.aspx" title="8 Most Disturbing Body Parts after Plastic Surgery - ">
-		8 Most Disturbing Body Parts after Plastic Surgery <img src="/_media/imgs/oddee/tagnsfw2.gif"></a></td>
-	</tr>
-	<tr><td height="8"></td></tr>
-  
-		
-
-	<tr>
-		<td class="colI1"><img width="50" src="/_media/imgs/articles2/a98166_min2.jpg"></td>
-		<td class="colI2"><a class="artd2" href="/item_98166.aspx" title="7 Amazing Facts About The Penis - penis, sex">
-		7 Amazing Facts About The Penis</a></td>
-	</tr>
-	<tr><td height="8"></td></tr>
-  
-		
-
-	<tr>
-		<td class="colI1"><img width="50" src="/_media/imgs/articles2/a98159_min2.jpg"></td>
-		<td class="colI2"><a class="artd2" href="/item_98159.aspx" title="8 Weirdest Stuff People Tried to Trade Sex For - ">
-		8 Weirdest Stuff People Tried to Trade Sex For <img src="/_media/imgs/oddee/tagnsfw2.gif"></a></td>
-	</tr>
-	<tr><td height="8"></td></tr>
-  
-		
-
-	<tr>
-		<td class="colI1"><img width="50" src="/_media/imgs/articles2/a98256_min2.jpg"></td>
-		<td class="colI2"><a class="artd2" href="/item_98256.aspx" title="10 Funniest Cropped Pictures - cropped pics, cropped photos">
-		10 Funniest Cropped Pictures <img src="/_media/imgs/oddee/tagnsfw2.gif"></a></td>
-	</tr>
-	<tr><td height="8"></td></tr>
-  
-		
-
-	<tr>
-		<td class="colI1"><img width="50" src="/_media/imgs/articles2/a98182_min2.jpg"></td>
-		<td class="colI2"><a class="artd2" href="/item_98182.aspx" title="12 Most Extreme Cases of Tanorexia - tan addiction">
-		12 Most Extreme Cases of Tanorexia</a></td>
-	</tr>
-	<tr><td height="8"></td></tr>
-  
-		
-
-	<tr>
-		<td class="colI1"><img width="50" src="/_media/imgs/articles2/a98314_min2.jpg"></td>
-		<td class="colI2"><a class="artd2" href="/item_98314.aspx" title="10 Most Incredible Sex Facts - ">
-		10 Most Incredible Sex Facts <img src="/_media/imgs/oddee/tagnsfw2.gif"></a></td>
-	</tr>
-	<tr><td height="8"></td></tr>
-  
-		
-
-	<tr>
-		<td class="colI1"><img width="50" src="/_media/imgs/articles2/a98194_min2.jpg"></td>
-		<td class="colI2"><a class="artd2" href="/item_98194.aspx" title="15 Hilariously Inappropriate Playgrounds - ">
-		15 Hilariously Inappropriate Playgrounds</a></td>
-	</tr>
-	<tr><td height="8"></td></tr>
-  
-		
-
-	<tr>
-		<td class="colI1"><img width="50" src="/_media/imgs/articles2/a98208_min2.jpg"></td>
-		<td class="colI2"><a class="artd2" href="/item_98208.aspx" title="10 Strangest Uses For Sex Dolls - sex doll, Real Doll, inflatable, doll, sex">
-		10 Strangest Uses For Sex Dolls <img src="/_media/imgs/oddee/tagnsfw2.gif"></a></td>
-	</tr>
-	<tr><td height="8"></td></tr>
-  
-		
-
-	<tr>
-		<td class="colI1"><img width="50" src="/_media/imgs/articles2/a98161_min2.jpg"></td>
-		<td class="colI2"><a class="artd2" href="/item_98161.aspx" title="12 Totally Crazy Nipple Tattoos and Piercings - nipple piercings, nipple piercing">
-		12 Totally Crazy Nipple Tattoos and Piercings <img src="/_media/imgs/oddee/tagnsfw2.gif"></a></td>
-	</tr>
-	<tr><td height="8"></td></tr>
-  
-		
-
-	<tr>
-		<td class="colI1"><img width="50" src="/_media/imgs/articles2/a98296_min2.jpg"></td>
-		<td class="colI2"><a class="artd2" href="/item_98296.aspx" title="11 Funny Texts Sent to the Wrong Number - ">
-		11 Funny Texts Sent to the Wrong Number</a></td>
-	</tr>
-	<tr><td height="8"></td></tr>
-  
-		
-
-	<tr>
-		<td class="colI1"><img width="50" src="/_media/imgs/articles2/a98238_min2.jpg"></td>
-		<td class="colI2"><a class="artd2" href="/item_98238.aspx" title="12 Extremely Long Tattoos - long tattoo design">
-		12 Extremely Long Tattoos <img src="/_media/imgs/oddee/tagnsfw2.gif"></a></td>
-	</tr>
-	<tr><td height="8"></td></tr>
-  
-		
-
-	<tr>
-		<td class="colI1"><img width="50" src="/_media/imgs/articles2/a98158_min2.jpg"></td>
-		<td class="colI2"><a class="artd2" href="/item_98158.aspx" title="12 Funniest and Most Inappropriate Ronald McDonald Photos - ronald mcdonald images, funny mcdonald pictures">
-		12 Funniest and Most Inappropriate Ronald McDonald Photos <img src="/_media/imgs/oddee/tagnsfw2.gif"></a></td>
-	</tr>
-	<tr><td height="8"></td></tr>
-  
-		
-
-	<tr>
-		<td class="colI1"><img width="50" src="/_media/imgs/articles2/a98226_min2.jpg"></td>
-		<td class="colI2"><a class="artd2" href="/item_98226.aspx" title="8 Terrifying Stories of Cannibalism - cannibals, cannibalism, eating humans, zombie apocalypse, zombies">
-		8 Terrifying Stories of Cannibalism <img src="/_media/imgs/oddee/tagnsfw2.gif"></a></td>
-	</tr>
-	<tr><td height="8"></td></tr>
-  
-		
-
-	<tr>
-		<td class="colI1"><img width="50" src="/_media/imgs/articles2/a98202_min2.jpg"></td>
-		<td class="colI2"><a class="artd2" href="/item_98202.aspx" title="12 Hilariously Honest Product Names - hilarious names">
-		12 Hilariously Honest Product Names</a></td>
-	</tr>
-	<tr><td height="8"></td></tr>
-  
-		
-
-	<tr>
-		<td class="colI1"><img width="50" src="/_media/imgs/articles2/a98165_min2.jpg"></td>
-		<td class="colI2"><a class="artd2" href="/item_98165.aspx" title="10 Funny Signs that Will Make You Smile - ">
-		10 Funny Signs that Will Make You Smile</a></td>
-	</tr>
-	<tr><td height="8"></td></tr>
-  
-		
-
-	<tr>
-		<td class="colI1"><img width="50" src="/_media/imgs/articles2/a98184_min2.jpg"></td>
-		<td class="colI2"><a class="artd2" href="/item_98184.aspx" title="14 Hilarious Examples of being Friend-Zoned on Facebook - ">
-		14 Hilarious Examples of being Friend-Zoned on Facebook</a></td>
-	</tr>
-	<tr><td height="8"></td></tr>
-  
-		
-
-	<tr>
-		<td class="colI1"><img width="50" src="/_media/imgs/articles2/a98195_min2.jpg"></td>
-		<td class="colI2"><a class="artd2" href="/item_98195.aspx" title="10 Most Controversial Debates about Breastfeeding - controversial breastfeeding">
-		10 Most Controversial Debates about Breastfeeding <img src="/_media/imgs/oddee/tagnsfw2.gif"></a></td>
-	</tr>
-	<tr><td height="8"></td></tr>
-  
-		
-
-	<tr>
-		<td class="colI1"><img width="50" src="/_media/imgs/articles2/a98270_min2.jpg"></td>
-		<td class="colI2"><a class="artd2" href="/item_98270.aspx" title="10 Incredible “Perfect” Crimes - perfect crime, heist, db cooper">
-		10 Incredible “Perfect” Crimes</a></td>
-	</tr>
-	<tr><td height="8"></td></tr>
-  
-		
-
-	<tr>
-		<td class="colI1"><img width="50" src="/_media/imgs/articles2/a98150_min2.jpg"></td>
-		<td class="colI2"><a class="artd2" href="/item_98150.aspx" title="10 Heaviest People in the World - fattest people in the world, Robert Earl Hughes  ">
-		10 Heaviest People in the World <img src="/_media/imgs/oddee/tagnsfw2.gif"></a></td>
-	</tr>
-	<tr><td height="8"></td></tr>
-  
-		
-
-	<tr>
-		<td class="colI1"><img width="50" src="/_media/imgs/articles2/a98271_min2.jpg"></td>
-		<td class="colI2"><a class="artd2" href="/item_98271.aspx" title="8 Most Extreme Weight Loss Methods - ">
-		8 Most Extreme Weight Loss Methods</a></td>
-	</tr>
-	<tr><td height="8"></td></tr>
-  
-		
-
-	<tr>
-		<td class="colI1"><img width="50" src="/_media/imgs/articles2/a98315_min2.jpg"></td>
-		<td class="colI2"><a class="artd2" href="/item_98315.aspx" title="12 Absolutely Hilarious Elevator Notes - ">
-		12 Absolutely Hilarious Elevator Notes</a></td>
-	</tr>
-	<tr><td height="8"></td></tr>
-  
-		
-
-	<tr>
-		<td class="colI1"><img width="50" src="/_media/imgs/articles2/a98278_min2.jpg"></td>
-		<td class="colI2"><a class="artd2" href="/item_98278.aspx" title="10 Scariest Stalkers - stalkers, stalked, stalking, celebrity, famous">
-		10 Scariest Stalkers</a></td>
-	</tr>
-	<tr><td height="8"></td></tr>
-  
-		
-
-	<tr>
-		<td class="colI1"><img width="50" src="/_media/imgs/articles2/a98156_min2.jpg"></td>
-		<td class="colI2"><a class="artd2" href="/item_98156.aspx" title="12 Funniest " honest"="" advertisements="" -="" true="" advertisements,="" real="" advertisements"="">
-		12 Funniest "Honest" Advertisements</a></td>
-	</tr>
-	<tr><td height="8"></td></tr>
-  
-
-
- 
-
-			</tbody></table>
-
-
-
-			<br>
-			<b>Oddee by Category:</b>
-			<li><a class="artd" href="/amazing-art/">Amazing Art</a>
-			</li><li><a class="artd" href="/cool-ads/">Cool Ads</a> <br>
-			</li><li><a class="artd" href="/funny-signs/">Funny Signs</a>
-			</li><li><a class="artd" href="/funny-names/">Funny Names</a> 
-			</li><li><a class="artd" href="/cool-places/">Cool Places</a> 
-			</li><li><a class="artd" href="/strange-people/">Strange People</a>
-			</li><li><a class="artd" href="/cool-objects/">Cool Objects</a> 
-			</li><li><a class="artd" href="/cool-gift-ideas/">Cool Gift Ideas</a> 
-			</li><li><a class="artd" href="/weird-science/">Weird Science</a> 			 
-			</li><li><a class="artd" href="/strange-stories/">Strange Stories</a>  
-			</li><li><a class="artd" href="/bizarre-medical-stories/">Bizarre Medical Stories</a> 
-			</li><li><a class="artd" href="/fun-tech/">Fun Tech</a> 
-			</li><li><a class="artd" href="/cool-home-design/">Cool Home Design</a> 
-			</li><li><a class="artd" href="/misc/">Misc</a>
-			</li><li><a class="artd" href="/QuickeeList.aspx">Quickee</a>
-			<br><br>
-
-			<!--<b>Search Oddee.com:</b><BR>
-				
-			<form action="http://www.google.com/cse" id="cse-search-box">
-			  <div>
-			    <input type="hidden" name="cx" value="partner-pub-1943569606117530:41g334tv6io" />
-			    <input type="hidden" name="ie" value="UTF-8" />
-			    <input type="text" name="q" size="14" />
-			    <input type="submit" name="sa" value="Go" />
-			  </div>
-			</form>-->
-
-			<b>Sites we like:</b><br>
-			<a onclick="GAevent('out','click','I-Am-Bored.com', null, true)" rel="nofollow" href="http://www.i-am-bored.com">I-am-bored</a> |
-			<a onclick="GAevent('out','click','Gajitz.com', null, true)" rel="nofollow" href="http://Gajitz.com">Gajitz</a>
-			<a onclick="GAevent('out','click','UniqueDaily.com', null, true)" rel="nofollow" href="http://www.UniqueDaily.com">UniqueDaily</a><br>
-			<a onclick="GAevent('out','click','Uncoached.com', null, true)" rel="nofollow" href="http://www.Uncoached.com">Uncoached</a> |
-			<a onclick="GAevent('out','click','Unreality.com', null, true)" rel="nofollow" href="http://www.Unrealitymag.com">Unreality</a>
-			<a onclick="GAevent('out','click','DarkRoastedBlend.com', null, true)" rel="nofollow" href="http://www.darkroastedblend.com/">DRB</a> |
-			<a onclick="GAevent('out','click','Inspiratorium', null, true)" rel="nofollow" href="http://blog.dmorton.ca/">Inspiratorium</a>
-			<a onclick="GAevent('out','click','WebUrbanist.com', null, true)" rel="nofollow" href="http://WebUrbanist.com">WebUrbanist</a> |
-			<a onclick="GAevent('out','click','WebEcoist.com', null, true)" rel="nofollow" href="http://WebEcoist.com">Ecoist</a><br>
-			<a onclick="GAevent('out','click','IncredibleThings.com', null, true)" rel="nofollow" href="http://www.incrediblethings.com">IncredibleThings</a><br>
-            <a onclick="GAevent('out','click','Dornob.com', null, true)" rel="nofollow" href="http://Dornob.com">Dornob</a> |
-			<a onclick="GAevent('out','click','GorillaMask.net', null, true)" rel="nofollow" href="http://GorillaMask.net">GorillaMask</a><br>
-            <a onclick="GAevent('out','click','EatLiver.com', null, true)" rel="nofollow" href="http://eatliver.com/">Eat Liver</a> |
-			<a onclick="GAevent('out','click','Neatorama.com', null, true)" rel="nofollow" href="http://www.Neatorama.com">Neatorama</a>
-            <a onclick="GAevent('out','click','Uphaa.com', null, true)" rel="nofollow" href="http://www.Uphaa.com">Uphaa</a><br>
-			<br>
-
-	                
-
-			<a rel="nofollow" href="http://www.pcmag.com/article2/0,2817,2327435,00.asp"><img src="/_media/imgs/oddee/PCMag.gif" border="0"></a><br>
-			<small style="line-height:13px">Oddee.com makes PC Magazine's Top 100 Web Sites of 2008!</small>
-
-
-			<br><br>
-
-
-			<b>Great articles on other blogs:</b>
-			<br>
-			
-				<!-- Classic, created 06/06/11 -->				
-                <div id="wahohaEZwj6V">
                 </div>
-                <script async="" type="text/javascript" src="http://wahoha.com/widget/EZwj6V" charset="utf-8"></script>				<!-- end -->			
+            
+            <script type="text/javascript">
+                $(function () {
+                    $('.sb2').mouseover(function () {
+                        $('.sb2_img_160_bk', $(this)).show();
+                        $('.sb2_img_160_text', $(this)).show();
+                    });
+                    $('.sb2').mouseleave(function () {
+                        $('.sb2_img_160_bk', $(this)).hide();
+                        $('.sb2_img_160_text', $(this)).hide();
+                    });
+                });
+            </script>
+			<table width="160" background="/_media/imgs/oddee/fondoBarra.gif" cellpadding="0" cellspacing="0" style="margin-top:10px;">
+                <tbody><tr>
+                    <td style="padding-left:15px" height="30">
+                        <img src="/_media/imgs/oddee/CoolStuff.gif">
+                    </td>
+                    <td width="8">
+                        &nbsp;</td>
+                </tr>
+                		
+        <tr>
+		    <td colspan="2">
+                <div class="sb2" style="overflow:hidden;height:160px;">
+                    <a onclick="GAevent('page','click_SB_Product', '28', null, true)" href="http://www.amazon.com/dp/B0050DBRQS/?tag=oddeesidebar-20" target="_blank" title="Bleeding Zombie Targets" style="text-decoration:none;">
+                        <img class="sb2_img_160" src="/_media/imgs/Oddee/prodSQ/28.jpg" width="160" border="0">
+		                <div class="sb2_img_160_bk" style="display:none;position:relative;top:-165px;height:160px;background-color:black;opacity:0.5;filter:alpha(opacity = 50);"></div>
+                        <div class="sb2_img_160_text" style="display:none;position:relative;top:-295px;color:white;margin-left:10px;margin-right:10px;font-size:18px;">
+                            Bleeding Zombie Targets<br>
+                        </div>
+                    </a>
+                </div>
+            </td>
+	    </tr>
+	    <tr>
+	        <td height="8"></td>
+        </tr>
+    		
+        <tr>
+		    <td colspan="2">
+                <div class="sb2" style="overflow:hidden;height:160px;">
+                    <a onclick="GAevent('page','click_SB_Product', '104', null, true)" href="http://www.amazon.com/gp/product/B0018PT502?tag=oddeesidebar-20" target="_blank" title="Digital Photo Frame Fridge Magnet" style="text-decoration:none;">
+                        <img class="sb2_img_160" src="/_media/imgs/Oddee/prodSQ/104.jpg" width="160" border="0">
+		                <div class="sb2_img_160_bk" style="display:none;position:relative;top:-165px;height:160px;background-color:black;opacity:0.5;filter:alpha(opacity = 50);"></div>
+                        <div class="sb2_img_160_text" style="display:none;position:relative;top:-295px;color:white;margin-left:10px;margin-right:10px;font-size:18px;">
+                            Digital Photo Frame Fridge Magnet<br>
+                        </div>
+                    </a>
+                </div>
+            </td>
+	    </tr>
+	    <tr>
+	        <td height="8"></td>
+        </tr>
+    		
+        <tr>
+		    <td colspan="2">
+                <div class="sb2" style="overflow:hidden;height:160px;">
+                    <a onclick="GAevent('page','click_SB_Product', '55', null, true)" href="http://www.amazon.com/gp/product/B000GBJ8H4/?tag=oddeesidebar-20" target="_blank" title="Hog Wild Pro Thumb Wrestler" style="text-decoration:none;">
+                        <img class="sb2_img_160" src="/_media/imgs/Oddee/prodSQ/55.jpg" width="160" border="0">
+		                <div class="sb2_img_160_bk" style="display:none;position:relative;top:-165px;height:160px;background-color:black;opacity:0.5;filter:alpha(opacity = 50);"></div>
+                        <div class="sb2_img_160_text" style="display:none;position:relative;top:-295px;color:white;margin-left:10px;margin-right:10px;font-size:18px;">
+                            Hog Wild Pro Thumb Wrestler<br>
+                        </div>
+                    </a>
+                </div>
+            </td>
+	    </tr>
+	    <tr>
+	        <td height="8"></td>
+        </tr>
+    		
+        <tr>
+		    <td colspan="2">
+                <div class="sb2" style="overflow:hidden;height:160px;">
+                    <a onclick="GAevent('page','click_SB_Product', '41', null, true)" href="http://www.amazon.com/dp/B004FX4TYG/?tag=oddeesidebar-20" target="_blank" title="Three Player Chess" style="text-decoration:none;">
+                        <img class="sb2_img_160" src="/_media/imgs/Oddee/prodSQ/41.jpg" width="160" border="0">
+		                <div class="sb2_img_160_bk" style="display:none;position:relative;top:-165px;height:160px;background-color:black;opacity:0.5;filter:alpha(opacity = 50);"></div>
+                        <div class="sb2_img_160_text" style="display:none;position:relative;top:-295px;color:white;margin-left:10px;margin-right:10px;font-size:18px;">
+                            Three Player Chess<br>
+                        </div>
+                    </a>
+                </div>
+            </td>
+	    </tr>
+	    <tr>
+	        <td height="8"></td>
+        </tr>
+    		
+        <tr>
+		    <td colspan="2">
+                <div class="sb2" style="overflow:hidden;height:160px;">
+                    <a onclick="GAevent('page','click_SB_Product', '69', null, true)" href="http://www.amazon.com/Superman-Merchandise-Velours-Bathrobe-Uniform/dp/B004FWWWSC/?tag=oddeesidebar-20" target="_blank" title="Superman - Merchandise - Cotton / Velours Bathrobe" style="text-decoration:none;">
+                        <img class="sb2_img_160" src="/_media/imgs/Oddee/prodSQ/69.jpg" width="160" border="0">
+		                <div class="sb2_img_160_bk" style="display:none;position:relative;top:-165px;height:160px;background-color:black;opacity:0.5;filter:alpha(opacity = 50);"></div>
+                        <div class="sb2_img_160_text" style="display:none;position:relative;top:-295px;color:white;margin-left:10px;margin-right:10px;font-size:18px;">
+                            Superman - Merchandise - Cotton / Velours Bathrobe<br>
+                        </div>
+                    </a>
+                </div>
+            </td>
+	    </tr>
+	    <tr>
+	        <td height="8"></td>
+        </tr>
+    		
+        <tr>
+		    <td colspan="2">
+                <div class="sb2" style="overflow:hidden;height:160px;">
+                    <a onclick="GAevent('page','click_SB_Product', '27', null, true)" href="http://www.amazon.com/dp/B000EUDAWG/?tag=oddeesidebar-20" target="_blank" title="Remote Control Tarantula" style="text-decoration:none;">
+                        <img class="sb2_img_160" src="/_media/imgs/Oddee/prodSQ/27.jpg" width="160" border="0">
+		                <div class="sb2_img_160_bk" style="display:none;position:relative;top:-165px;height:160px;background-color:black;opacity:0.5;filter:alpha(opacity = 50);"></div>
+                        <div class="sb2_img_160_text" style="display:none;position:relative;top:-295px;color:white;margin-left:10px;margin-right:10px;font-size:18px;">
+                            Remote Control Tarantula<br>
+                        </div>
+                    </a>
+                </div>
+            </td>
+	    </tr>
+	    <tr>
+	        <td height="8"></td>
+        </tr>
+    		
+        <tr>
+		    <td colspan="2">
+                <div class="sb2" style="overflow:hidden;height:160px;">
+                    <a onclick="GAevent('page','click_SB_Product', '131', null, true)" href="http://www.amazon.com/dp/B0010NWP9K/?tag=oddeesidebar-20" target="_blank" title="Gentleman's Ball Scratcher" style="text-decoration:none;">
+                        <img class="sb2_img_160" src="/_media/imgs/Oddee/prodSQ/131.jpg" width="160" border="0">
+		                <div class="sb2_img_160_bk" style="display:none;position:relative;top:-165px;height:160px;background-color:black;opacity:0.5;filter:alpha(opacity = 50);"></div>
+                        <div class="sb2_img_160_text" style="display:none;position:relative;top:-295px;color:white;margin-left:10px;margin-right:10px;font-size:18px;">
+                            Gentleman's Ball Scratcher<br>
+                        </div>
+                    </a>
+                </div>
+            </td>
+	    </tr>
+	    <tr>
+	        <td height="8"></td>
+        </tr>
+    		
+        <tr>
+		    <td colspan="2">
+                <div class="sb2" style="overflow:hidden;height:160px;">
+                    <a onclick="GAevent('page','click_SB_Product', '100', null, true)" href="http://www.amazon.com/Polaroid-CZA-05300B-Instant-Digital-Camera/dp/B001RIYUJQ/?tag=oddeesidebar-20" target="_blank" title="Polaroid Instant Digital Camera" style="text-decoration:none;">
+                        <img class="sb2_img_160" src="/_media/imgs/Oddee/prodSQ/100.jpg" width="160" border="0">
+		                <div class="sb2_img_160_bk" style="display:none;position:relative;top:-165px;height:160px;background-color:black;opacity:0.5;filter:alpha(opacity = 50);"></div>
+                        <div class="sb2_img_160_text" style="display:none;position:relative;top:-295px;color:white;margin-left:10px;margin-right:10px;font-size:18px;">
+                            Polaroid Instant Digital Camera<br>
+                        </div>
+                    </a>
+                </div>
+            </td>
+	    </tr>
+	    <tr>
+	        <td height="8"></td>
+        </tr>
+    		
+        <tr>
+		    <td colspan="2">
+                <div class="sb2" style="overflow:hidden;height:160px;">
+                    <a onclick="GAevent('page','click_SB_Product', '107', null, true)" href="http://www.amazon.com/gp/product/B0030NLBDE/?tag=oddeesidebar-20" target="_blank" title="Suck UK Salt and Pepper 'Bots" style="text-decoration:none;">
+                        <img class="sb2_img_160" src="/_media/imgs/Oddee/prodSQ/107.jpg" width="160" border="0">
+		                <div class="sb2_img_160_bk" style="display:none;position:relative;top:-165px;height:160px;background-color:black;opacity:0.5;filter:alpha(opacity = 50);"></div>
+                        <div class="sb2_img_160_text" style="display:none;position:relative;top:-295px;color:white;margin-left:10px;margin-right:10px;font-size:18px;">
+                            Suck UK Salt and Pepper 'Bots<br>
+                        </div>
+                    </a>
+                </div>
+            </td>
+	    </tr>
+	    <tr>
+	        <td height="8"></td>
+        </tr>
+    		
+        <tr>
+		    <td colspan="2">
+                <div class="sb2" style="overflow:hidden;height:160px;">
+                    <a onclick="GAevent('page','click_SB_Product', '54', null, true)" href="http://www.amazon.com/gp/product/B002673RWS/?tag=oddeesidebar-20" target="_blank" title="Condiment Gun" style="text-decoration:none;">
+                        <img class="sb2_img_160" src="/_media/imgs/Oddee/prodSQ/54.jpg" width="160" border="0">
+		                <div class="sb2_img_160_bk" style="display:none;position:relative;top:-165px;height:160px;background-color:black;opacity:0.5;filter:alpha(opacity = 50);"></div>
+                        <div class="sb2_img_160_text" style="display:none;position:relative;top:-295px;color:white;margin-left:10px;margin-right:10px;font-size:18px;">
+                            Condiment Gun<br>
+                        </div>
+                    </a>
+                </div>
+            </td>
+	    </tr>
+	    <tr>
+	        <td height="8"></td>
+        </tr>
+    		
+        <tr>
+		    <td colspan="2">
+                <div class="sb2" style="overflow:hidden;height:160px;">
+                    <a onclick="GAevent('page','click_SB_Product', '108', null, true)" href="http://www.amazon.com/gp/product/B000GKW6BU?tag=oddeesidebar-20" target="_blank" title="Zombie Brain Gelatin Mold" style="text-decoration:none;">
+                        <img class="sb2_img_160" src="/_media/imgs/Oddee/prodSQ/108.jpg" width="160" border="0">
+		                <div class="sb2_img_160_bk" style="display:none;position:relative;top:-165px;height:160px;background-color:black;opacity:0.5;filter:alpha(opacity = 50);"></div>
+                        <div class="sb2_img_160_text" style="display:none;position:relative;top:-295px;color:white;margin-left:10px;margin-right:10px;font-size:18px;">
+                            Zombie Brain Gelatin Mold<br>
+                        </div>
+                    </a>
+                </div>
+            </td>
+	    </tr>
+	    <tr>
+	        <td height="8"></td>
+        </tr>
+    		
+        <tr>
+		    <td colspan="2">
+                <div class="sb2" style="overflow:hidden;height:160px;">
+                    <a onclick="GAevent('page','click_SB_Product', '82', null, true)" href="http://www.amazon.com/gp/product/0898159776/?tag=oddeesidebar-20" target="_blank" title="Eat-a-bug Cookbook" style="text-decoration:none;">
+                        <img class="sb2_img_160" src="/_media/imgs/Oddee/prodSQ/82.jpg" width="160" border="0">
+		                <div class="sb2_img_160_bk" style="display:none;position:relative;top:-165px;height:160px;background-color:black;opacity:0.5;filter:alpha(opacity = 50);"></div>
+                        <div class="sb2_img_160_text" style="display:none;position:relative;top:-295px;color:white;margin-left:10px;margin-right:10px;font-size:18px;">
+                            Eat-a-bug Cookbook<br>
+                        </div>
+                    </a>
+                </div>
+            </td>
+	    </tr>
+	    <tr>
+	        <td height="8"></td>
+        </tr>
+    		
+        <tr>
+		    <td colspan="2">
+                <div class="sb2" style="overflow:hidden;height:160px;">
+                    <a onclick="GAevent('page','click_SB_Product', '116', null, true)" href="http://www.amazon.com/17988-BBQ-Branding-Iron/dp/B001S343AQ/?tag=oddeesidebar-20" target="_blank" title="Bbq Branding Iron For Personalized Grilling" style="text-decoration:none;">
+                        <img class="sb2_img_160" src="/_media/imgs/Oddee/prodSQ/116.jpg" width="160" border="0">
+		                <div class="sb2_img_160_bk" style="display:none;position:relative;top:-165px;height:160px;background-color:black;opacity:0.5;filter:alpha(opacity = 50);"></div>
+                        <div class="sb2_img_160_text" style="display:none;position:relative;top:-295px;color:white;margin-left:10px;margin-right:10px;font-size:18px;">
+                            Bbq Branding Iron For Personalized Grilling<br>
+                        </div>
+                    </a>
+                </div>
+            </td>
+	    </tr>
+	    <tr>
+	        <td height="8"></td>
+        </tr>
+    		
+        <tr>
+		    <td colspan="2">
+                <div class="sb2" style="overflow:hidden;height:160px;">
+                    <a onclick="GAevent('page','click_SB_Product', '30', null, true)" href="http://www.amazon.com/dp/B007TLC4YS/?tag=oddeesidebar-20" target="_blank" title="Offensive Business Cards" style="text-decoration:none;">
+                        <img class="sb2_img_160" src="/_media/imgs/Oddee/prodSQ/30.jpg" width="160" border="0">
+		                <div class="sb2_img_160_bk" style="display:none;position:relative;top:-165px;height:160px;background-color:black;opacity:0.5;filter:alpha(opacity = 50);"></div>
+                        <div class="sb2_img_160_text" style="display:none;position:relative;top:-295px;color:white;margin-left:10px;margin-right:10px;font-size:18px;">
+                            Offensive Business Cards<br>
+                        </div>
+                    </a>
+                </div>
+            </td>
+	    </tr>
+	    <tr>
+	        <td height="8"></td>
+        </tr>
+    		
+        <tr>
+		    <td colspan="2">
+                <div class="sb2" style="overflow:hidden;height:160px;">
+                    <a onclick="GAevent('page','click_SB_Product', '36', null, true)" href="http://www.amazon.com/dp/B002JTWRDS/?tag=oddeesidebar-20" target="_blank" title="Modern Knives Set" style="text-decoration:none;">
+                        <img class="sb2_img_160" src="/_media/imgs/Oddee/prodSQ/36.jpg" width="160" border="0">
+		                <div class="sb2_img_160_bk" style="display:none;position:relative;top:-165px;height:160px;background-color:black;opacity:0.5;filter:alpha(opacity = 50);"></div>
+                        <div class="sb2_img_160_text" style="display:none;position:relative;top:-295px;color:white;margin-left:10px;margin-right:10px;font-size:18px;">
+                            Modern Knives Set<br>
+                        </div>
+                    </a>
+                </div>
+            </td>
+	    </tr>
+	    <tr>
+	        <td height="8"></td>
+        </tr>
+    		
+        <tr>
+		    <td colspan="2">
+                <div class="sb2" style="overflow:hidden;height:160px;">
+                    <a onclick="GAevent('page','click_SB_Product', '11', null, true)" href="http://www.amazon.com/dp/B0006MY7JM/?tag=oddeesidebar-20" target="_blank" title="Floating Ping Pong Table" style="text-decoration:none;">
+                        <img class="sb2_img_160" src="/_media/imgs/Oddee/prodSQ/11.jpg" width="160" border="0">
+		                <div class="sb2_img_160_bk" style="display:none;position:relative;top:-165px;height:160px;background-color:black;opacity:0.5;filter:alpha(opacity = 50);"></div>
+                        <div class="sb2_img_160_text" style="display:none;position:relative;top:-295px;color:white;margin-left:10px;margin-right:10px;font-size:18px;">
+                            Floating Ping Pong Table<br>
+                        </div>
+                    </a>
+                </div>
+            </td>
+	    </tr>
+	    <tr>
+	        <td height="8"></td>
+        </tr>
+    		
+        <tr>
+		    <td colspan="2">
+                <div class="sb2" style="overflow:hidden;height:160px;">
+                    <a onclick="GAevent('page','click_SB_Product', '50', null, true)" href="http://www.amazon.com/GROW-a-Girlfriend-Novelty-Gift/dp/B005LY2HHO/?tag=oddeesidebar-20" target="_blank" title="GROW a Girlfriend Novelty Gift" style="text-decoration:none;">
+                        <img class="sb2_img_160" src="/_media/imgs/Oddee/prodSQ/50.jpg" width="160" border="0">
+		                <div class="sb2_img_160_bk" style="display:none;position:relative;top:-165px;height:160px;background-color:black;opacity:0.5;filter:alpha(opacity = 50);"></div>
+                        <div class="sb2_img_160_text" style="display:none;position:relative;top:-295px;color:white;margin-left:10px;margin-right:10px;font-size:18px;">
+                            GROW a Girlfriend Novelty Gift<br>
+                        </div>
+                    </a>
+                </div>
+            </td>
+	    </tr>
+	    <tr>
+	        <td height="8"></td>
+        </tr>
+    		
+        <tr>
+		    <td colspan="2">
+                <div class="sb2" style="overflow:hidden;height:160px;">
+                    <a onclick="GAevent('page','click_SB_Product', '10', null, true)" href="http://www.amazon.com/dp/B007VQKR7W/?tag=oddeesidebar-20" target="_blank" title="Tiny Functional Cannons" style="text-decoration:none;">
+                        <img class="sb2_img_160" src="/_media/imgs/Oddee/prodSQ/10.jpg" width="160" border="0">
+		                <div class="sb2_img_160_bk" style="display:none;position:relative;top:-165px;height:160px;background-color:black;opacity:0.5;filter:alpha(opacity = 50);"></div>
+                        <div class="sb2_img_160_text" style="display:none;position:relative;top:-295px;color:white;margin-left:10px;margin-right:10px;font-size:18px;">
+                            Tiny Functional Cannons<br>
+                        </div>
+                    </a>
+                </div>
+            </td>
+	    </tr>
+	    <tr>
+	        <td height="8"></td>
+        </tr>
+    		
+        <tr>
+		    <td colspan="2">
+                <div class="sb2" style="overflow:hidden;height:160px;">
+                    <a onclick="GAevent('page','click_SB_Product', '53', null, true)" href="http://www.amazon.com/gp/product/B000H5858W/?tag=oddeesidebar-20" target="_blank" title="Beer Belt" style="text-decoration:none;">
+                        <img class="sb2_img_160" src="/_media/imgs/Oddee/prodSQ/53.jpg" width="160" border="0">
+		                <div class="sb2_img_160_bk" style="display:none;position:relative;top:-165px;height:160px;background-color:black;opacity:0.5;filter:alpha(opacity = 50);"></div>
+                        <div class="sb2_img_160_text" style="display:none;position:relative;top:-295px;color:white;margin-left:10px;margin-right:10px;font-size:18px;">
+                            Beer Belt<br>
+                        </div>
+                    </a>
+                </div>
+            </td>
+	    </tr>
+	    <tr>
+	        <td height="8"></td>
+        </tr>
+    		
+        <tr>
+		    <td colspan="2">
+                <div class="sb2" style="overflow:hidden;height:160px;">
+                    <a onclick="GAevent('page','click_SB_Product', '67', null, true)" href="http://www.amazon.com/Begin-Pink-Shark-Baby-Bath/dp/B0051XG6B8/?tag=oddeesidebar-20" target="_blank" title="Pink Shark Baby Bath Robe" style="text-decoration:none;">
+                        <img class="sb2_img_160" src="/_media/imgs/Oddee/prodSQ/67.jpg" width="160" border="0">
+		                <div class="sb2_img_160_bk" style="display:none;position:relative;top:-165px;height:160px;background-color:black;opacity:0.5;filter:alpha(opacity = 50);"></div>
+                        <div class="sb2_img_160_text" style="display:none;position:relative;top:-295px;color:white;margin-left:10px;margin-right:10px;font-size:18px;">
+                            Pink Shark Baby Bath Robe<br>
+                        </div>
+                    </a>
+                </div>
+            </td>
+	    </tr>
+	    <tr>
+	        <td height="8"></td>
+        </tr>
+    		
+        <tr>
+		    <td colspan="2">
+                <div class="sb2" style="overflow:hidden;height:160px;">
+                    <a onclick="GAevent('page','click_SB_Product', '76', null, true)" href="http://www.amazon.com/Bodyguard-Sexy-Kitchen-Cooking-Apron/dp/B004JPJOMW/?tag=oddeesidebar-20" target="_blank" title="Bodyguard Sexy Kitchen Cooking Apron " style="text-decoration:none;">
+                        <img class="sb2_img_160" src="/_media/imgs/Oddee/prodSQ/76.jpg" width="160" border="0">
+		                <div class="sb2_img_160_bk" style="display:none;position:relative;top:-165px;height:160px;background-color:black;opacity:0.5;filter:alpha(opacity = 50);"></div>
+                        <div class="sb2_img_160_text" style="display:none;position:relative;top:-295px;color:white;margin-left:10px;margin-right:10px;font-size:18px;">
+                            Bodyguard Sexy Kitchen Cooking Apron <br>
+                        </div>
+                    </a>
+                </div>
+            </td>
+	    </tr>
+	    <tr>
+	        <td height="8"></td>
+        </tr>
+    		
+        <tr>
+		    <td colspan="2">
+                <div class="sb2" style="overflow:hidden;height:160px;">
+                    <a onclick="GAevent('page','click_SB_Product', '66', null, true)" href="http://www.amazon.com/Will-Take-Coffee-Novelty-Office/dp/B001Q8MLDO/?tag=oddeesidebar-20" target="_blank" title="No One Will Take Your Cup! Plug Coffee Mug" style="text-decoration:none;">
+                        <img class="sb2_img_160" src="/_media/imgs/Oddee/prodSQ/66.jpg" width="160" border="0">
+		                <div class="sb2_img_160_bk" style="display:none;position:relative;top:-165px;height:160px;background-color:black;opacity:0.5;filter:alpha(opacity = 50);"></div>
+                        <div class="sb2_img_160_text" style="display:none;position:relative;top:-295px;color:white;margin-left:10px;margin-right:10px;font-size:18px;">
+                            No One Will Take Your Cup! Plug Coffee Mug<br>
+                        </div>
+                    </a>
+                </div>
+            </td>
+	    </tr>
+	    <tr>
+	        <td height="8"></td>
+        </tr>
+    
 
-
-</li></div><div id="d_sidebar2S2">&nbsp;</div>
-</div>
+            </tbody></table>
+            <b>Sites we like:</b><br>
+            <a onclick="GAevent('out','click','I-Am-Bored.com', null, true)" rel="nofollow" href="http://www.i-am-bored.com">I-am-bored</a> |
+            <a onclick="GAevent('out','click','Gajitz.com', null, true)" rel="nofollow" href="http://Gajitz.com">Gajitz</a>
+            <a onclick="GAevent('out','click','UniqueDaily.com', null, true)" rel="nofollow" href="http://www.UniqueDaily.com">UniqueDaily</a><br>
+            <a onclick="GAevent('out','click','Uncoached.com', null, true)" rel="nofollow" href="http://www.Uncoached.com">Uncoached</a> |
+            <a onclick="GAevent('out','click','Unreality.com', null, true)" rel="nofollow" href="http://www.Unrealitymag.com">Unreality</a>
+            <a onclick="GAevent('out','click','DarkRoastedBlend.com', null, true)" rel="nofollow" href="http://www.darkroastedblend.com/">DRB</a> |
+            <a onclick="GAevent('out','click','Inspiratorium', null, true)" rel="nofollow" href="http://blog.dmorton.ca/">Inspiratorium</a>
+            <a onclick="GAevent('out','click','WebUrbanist.com', null, true)" rel="nofollow" href="http://WebUrbanist.com">WebUrbanist</a> |
+            <a onclick="GAevent('out','click','WebEcoist.com', null, true)" rel="nofollow" href="http://WebEcoist.com">Ecoist</a><br>
+            <a onclick="GAevent('out','click','IncredibleThings.com', null, true)" rel="nofollow" href="http://www.incrediblethings.com">IncredibleThings</a><br>
+            <a onclick="GAevent('out','click','Dornob.com', null, true)" rel="nofollow" href="http://Dornob.com">Dornob</a> |
+            <a onclick="GAevent('out','click','GorillaMask.net', null, true)" rel="nofollow" href="http://GorillaMask.net">GorillaMask</a><br>
+            <a onclick="GAevent('out','click','EatLiver.com', null, true)" rel="nofollow" href="http://eatliver.com/">Eat Liver</a> |
+            <a onclick="GAevent('out','click','Neatorama.com', null, true)" rel="nofollow" href="http://www.Neatorama.com">Neatorama</a>
+            <a onclick="GAevent('out','click','Uphaa.com', null, true)" rel="nofollow" href="http://www.Uphaa.com">Uphaa</a><br>
+            <br>
+            
+            
+            <a rel="nofollow" href="http://www.pcmag.com/article2/0,2817,2327435,00.asp">
+            <img src="/_media/imgs/oddee/PCMag.gif" border="0"></a><br>
+            <small style="line-height:13px">Oddee.com makes PC Magazine's Top 100 Web Sites of
+            <a rel="nofollow" href="http://www.pcmag.com/article2/0,2817,2327435,00.asp">2008</a> &amp;
+            <a rel="nofollow" href="http://www.pcmag.com/article2/0,2817,2372442,00.asp">2010</a>!</small>
+            <br>
+            <br><b>Great articles on other blogs:</b>
+            <br>
+            
+		<div id="knowd-widget-570"></div><script async="async" src="http://knowd.com/w/570.js?swid=319&amp;heid=knowd-widget-570"></script>
+            
+        </div>
+    </div>
 
 <!--/Oddee's right sidebar -->
 
 
 </div> <!--/Oddee's grid -->
+
 
 
 
@@ -1514,10 +2161,35 @@ If users have any questions or suggestions regarding our privacy policy, please 
 <div id="mlinks" style="width:99%; text-align:center; margin-left: auto; margin-right: auto;">
 
 	<script type="text/javascript" src="http://api.content.ad/Scripts/widget.js?id=f1bca9c5-a1d4-43a2-8f75-a60dcf38f0e5&amp;d=b2RkZWUuY29t&amp;wid=970"></script>
+	<div id="knowd-widget-571"></div><script async="async" src="http://knowd.com/w/571.js?swid=319&amp;heid=knowd-widget-571"></script>
 
 	<!-- WAHOHA created 08/28/12 -->
-	<div id="wahohayshkj9"></div>
-	<script type="text/javascript">(function(){function a(){var s=document.createElement("script");s.type="text/javascript";s.async=true;
+	<div id="wahoha"></div>
+	<script type="text/javascript">
+
+		var mlinks = document.getElementById("mlinks")
+
+		// default works for 1681+
+		var mlinksw  = "70%"
+
+		if (screen.width >= 1900) {
+			mlinksw  = "75%"
+		} else if(screen.width >= 1680) {
+			mlinksw = "85%"
+		} else if(screen.width >= 1440) {
+			mlinksw = "90%"
+		} else if(screen.width >= 1280) {
+			mlinksw = "90%"
+		} else if(screen.width >= 1360) {
+			mlinksw = "90%"
+		} else if(screen.width >= 1152) {
+			mlinksw = "88%"
+		} else if (screen.width <= 1024) {
+			mlinksw = "99%"
+		}
+		mlinks.style.width = mlinksw 
+
+	/*(function(){function a(){var s=document.createElement("script");s.type="text/javascript";s.async=true;
 
 		var mlinks = document.getElementById("mlinks")
 		var wahoha = document.getElementById("wahoha")
@@ -1553,6 +2225,7 @@ If users have any questions or suggestions regarding our privacy policy, please 
 
 		s.src="http://contentwidgets.net/widget/" + wahohaID;
 		var x=document.getElementsByTagName("script")[0];x.parentNode.insertBefore(s,x);}a();})();
+	*/
 	</script>
 	<!-- end -->
 
@@ -1563,7 +2236,7 @@ If users have any questions or suggestions regarding our privacy policy, please 
 
 
 <br>
-<small class="copyr">Copyright © 2007 - 2012 Oddee. All rights reserved - <a href="/privacy.aspx" class="copyr">Privacy Policy</a> - <a href="/TOS.aspx" class="copyr">Terms and Conditions of Use</a>  </small> 
+<small class="copyr">Copyright © 2007 - 2013 Oddee. All rights reserved - <a href="/privacy.aspx" class="copyr">Privacy Policy</a> - <a href="/TOS.aspx" class="copyr">Terms and Conditions of Use</a> - <a href="About.aspx" class="copyr">About</a> - <a href="/_media/imgs/oddee/mediakit.jpg" class="copyr">Advertise</a> - <a href="ContactUs.aspx" class="copyr">Contact Us</a></small> 
 
 
 </div>
@@ -1583,7 +2256,7 @@ If users have any questions or suggestions regarding our privacy policy, please 
 <!--At last, but not least, some final useful files... -->
 
 
-<div id="BF_WIDGET_1">&nbsp;<script type="text/javascript" src="http://ct.buzzfeed.com/wd/UserWidget?u=oddee.com&amp;to=1&amp;or=vb&amp;wid=1&amp;cb=1580378605684"></script></div>
+<div id="BF_WIDGET_1">&nbsp;<script type="text/javascript" src="http://ct.buzzfeed.com/wd/UserWidget?u=oddee.com&amp;to=1&amp;or=vb&amp;wid=1&amp;cb=1580378607594"></script></div>
 <script type="text/javascript">
 (function( ){
 BF_WIDGET_JS=document.createElement("script"); BF_WIDGET_JS.type="text/javascript";
@@ -1596,11 +2269,319 @@ setTimeout(function() {document.getElementById("BF_WIDGET_1").appendChild(BF_WID
 
 
 
-
-
 <script type="text/javascript" src="http://www.google.com/coop/cse/brand?form=cse-search-box&amp;lang=en"></script>
 
+<script type="text/javascript">
+    // --- Twitter ---
+    window.twttr = (function (d, s, id) {
+        var t, js, fjs = d.getElementsByTagName(s)[0];
+        if (d.getElementById(id)) return; js = d.createElement(s); js.id = id;
+        js.src = "//platform.twitter.com/widgets.js"; fjs.parentNode.insertBefore(js, fjs);
+        return window.twttr || (t = { _e: [], ready: function (f) { t._e.push(f) } });
+    } (document, "script", "twitter-wjs"));
 
+    twttr.ready(function (twttr) {
+        twttr.events.bind('tweet', function (event) {
+            GAevent('subscriptions', 'TW', '', null, true)
+        });
+
+        twttr.events.bind('follow', function (event) {
+            var followed_user_id = event.data.user_id;
+            var followed_screen_name = event.data.screen_name;
+        });
+    });
+</script>
+<div id="slidebox_left" style="z-index:2; text-align:center">
+    <a class="close"></a>
+    <div id="last" align="left" style="padding-left:8px; text-align:center">
+        <div style="padding-top:5px; padding-bottom:5px; padding-right:20px"><strong>Subscribe to Oddee</strong></div>
+        <form action="/newsletter/subscribe.aspx" method="post" target="popupw" onsubmit="return email_validate($('txtEmail2'));">
+            By E-mail:
+            <input id="txtEmail2" type="text" size="8" onblur="if(this.value=='') this.value='Your E-mail'" onfocus="if(this.value =='Your E-mail') this.value=''" value="Your E-mail" name="txtEmail">
+            <input type="submit" value="Go">
+        </form>
+        <fb:like-box href="http://www.facebook.com/Oddee" width="200" colorscheme="light" show_faces="false" stream="false" header="false"></fb:like-box><br>
+        <a href="https://twitter.com/OddeeBlog" class="twitter-follow-button" data-width="200px" data-show-count="true" data-show-screen-name="false" data-size="large" data-lang="en">Follow</a><br>
+            <a onclick="GAevent('subscriptions','RSS', '', null, true)" href="http://feeds.feedburner.com/Oddee" style="padding-top:5px">
+                <img src="/_media/imgs/oddee/rss.png" width="32" border="0" valign="middle" style="padding-right:10px">
+            	RSS
+            </a>
+    </div>
+</div>
+
+<strong id="slideboxlast_left"></strong>
+
+<script type="text/javascript">
+    var subscribed = getCookie("subscribed");
+    var shown = getCookie("shown");
+    
+    //alert("shown: "  + shown);
+    
+    if (shown == null || shown == "") {
+        setCookie("shown", parseInt(1), 365);
+        shown = 0;
+    } else
+        setCookie("shown", parseInt(shown) + 1, 365);
+
+    if ((subscribed == null || subscribed == "") && (parseInt(shown) + 1) <= 2) {
+        (function () {
+            $(function () {
+                var currentTime, openTime, originalPosition, slidebox;
+
+                currentTime = function () {
+                    return (new Date()).getTime();
+                };
+
+                slidebox = $('#slidebox_left');
+                originalPosition = slidebox.css('right');
+
+                openTime = null;
+
+                $(window).scroll(function () {
+                    var distanceTop;
+                    distanceTop = $('#slideboxlast_left').offset().top - $(window).height();
+
+                    if ($(window).scrollTop() > 600) {
+                        slidebox.animate({
+                            'left': '0px'
+                        }, 300);
+
+                        if (!openTime) {
+                            openTime = currentTime();
+                            return openTime;
+                        }
+                    } else {
+                        return slidebox.stop(true).animate({
+                            'left': originalPosition
+                        }, 100);
+                    }
+                });
+
+                slidebox.find('.close').click(function () {
+                    var elapsedTime;
+
+                    $(this).parent().remove();
+                    elapsedTime = currentTime() - openTime;
+                    return;
+                });
+
+                slidebox.find('.related a').click(function () {
+                    var elapsedTime;
+
+                    elapsedTime = currentTime() - openTime;
+                    return;
+                });
+            });
+        })();
+    }
+</script>
+
+<script type="text/javascript">
+    // Aniversary coupon
+    $(function () {
+        //var giveaway = getCookie("giveaway");
+
+        // If cookie not set show the coupon popup
+        //if (giveaway == null || giveaway == "") {
+        if (0) {
+            GAevent('giveaway1b', 'shown', "", null, true);
+            
+            pPreload(['coupon3.jpg', 'coupon_pick.png', '31.jpg', '32.jpg', '33.jpg'], '/_media/imgs/Oddee/aniversary_coupon/', 5000, function () {
+                $('#ac_bk').css('height', $(window).height());
+                $('#ac_bk').css('width', $(window).width());
+
+                $('#ac_bk').show();
+                $('#ac').show();
+
+                var mtop = ($(window).height() / 2) - ((467 + 119) / 2);
+                var mleft = ($(window).width() / 2) - (700 / 2);
+
+                $('#ac').css('top', mtop);
+                $('#ac').animate({ left: mleft }, 'slow');
+            })
+
+            setCookie("giveaway", 1, 365);
+        }
+
+        $('#ac_close').click(function () {
+            GAevent('giveaway1b', 'close', "", null, true);
+
+            $('#ac').hide();
+            $('#ac_bk').hide();
+        })
+
+        $('#ac_rules').click(function () {
+            popupcenter("giveaway_rules.aspx", "Giveaway Rules", 400, 500);
+        });
+
+        $('#btnSignIn').click(function () {
+            // Save data via ajax
+            if ($('#chkReadRules').attr('checked')) {
+                if (validateEmail($('#txtAC_Email').val())) {
+                    sys_getJSON("/oddee/ajax/giveaway_save.aspx?txtAC_Email=" + $('#txtAC_Email').val() + "&lstGift=" + $("#lstGift").val(), function (data, error) {
+                        if (data == null) {
+                            GAevent('giveaway1b', 'register', "", null, true);
+
+                            alert("Thanks for participating in Oddee's aniversary giveaway!");
+
+                            // Closing
+                            $('#ac').hide();
+                            $('#ac_bk').hide();
+                        } else {
+                            GAevent('giveaway1b', 'duplicate_email', "", null, true);
+
+                            alert(data.error);
+                            
+                            // Closing
+                            $('#ac').hide();
+                            $('#ac_bk').hide();
+                        }
+                    });
+
+                } else {
+                    alert("You need to enter a valid email address");
+                }
+            } else
+                alert("You need to check the 'I read the rules' checkbox first");
+        });
+
+        $('#ac_pick1').mouseover(function () {
+            $('#ac_pick1_specs').show();
+        });
+
+        $('#ac_pick1').mouseleave(function () {
+            $('#ac_pick1_specs').hide();
+        });
+
+        $('#ac_pick2').mouseover(function () {
+            $('#ac_pick2_specs').show();
+        });
+
+        $('#ac_pick2').mouseleave(function () {
+            $('#ac_pick2_specs').hide();
+        });
+
+        $('#ac_pick3').mouseover(function () {
+            $('#ac_pick3_specs').show();
+        });
+
+        $('#ac_pick3').mouseleave(function () {
+            $('#ac_pick3_specs').hide();
+        });
+    });
+
+    function validateEmail(email) {
+        // http://stackoverflow.com/a/46181/11236
+
+        var re = /^(([^<>()[\]\\.,;:\s@\"]+(\.[^<>()[\]\\.,;:\s@\"]+)*)|(\".+\"))@((\[[0-9]{1,3}\.[0-9]{1,3}\.[0-9]{1,3}\.[0-9]{1,3}\])|(([a-zA-Z\-0-9]+\.)+[a-zA-Z]{2,}))$/;
+        return re.test(email);
+    }
+    
+    function popupcenter(pageURL, title, w, h) {
+        var left = (screen.width / 2) - (w / 2);
+        var top = (screen.height / 2) - (h / 2);
+        var targetWin = window.open(pageURL, title, 'toolbar=no, location=no, directories=no, status=no, menubar=no, scrollbars=no, resizable=no, copyhistory=no, width=' + w + ', height=' + h + ', top=' + top + ', left=' + left);
+    } 
+
+    function sys_getJSON(jsonURL, callback, callbackOnError, useSameCallback) {
+        if (useSameCallback != null && callbackOnError == null) { if (useSameCallback) { callbackOnError = callback } }
+
+        $.ajax({ url: jsonURL, dataType: "json",
+            success: function (data) {
+                callback(data);
+            },
+            error: function (XMLHttpRequest, textStatus, errorThrown) {
+                callbackOnError(null, error);
+            }
+        });
+    }
+
+    // preloads images and callsback when done
+    function pPreload(images, path, timeOut, callback) {
+
+        // if the path wasn't specified, set it to empty string
+        if (path == null) { path = '' }
+
+        // for each image to be preloaded...
+        var promises = [];
+        for (i = 0; i < images.length; i++) {
+            (function (url, promise) {
+                var img = new Image();
+                img = new Image();
+                img.onload = function () {
+                    promise.resolve();
+                };
+                img.src = url;
+            })(path + images[i], promises[i] = jQuery.Deferred());
+        };
+
+        // if a callback was specified...
+        if (callback != null) {
+            // if a callback timeout was specified, set it
+            var timeOutFired = false;
+            var timeOutID = null;
+            if (timeOut != null) {
+                var callbackTimedOut = function () { timeOutFired = true; callback() }
+                timeOutID = setTimeout(callbackTimedOut, timeOut)
+            }
+
+            // when all images are loaded, callback
+            jQuery.when.apply(jQuery, promises).done(function () {
+                // if a timeout was specified, kill it
+                if (timeOut != null) { clearTimeout(timeOutID) }
+
+                // if a timeout was not reached OR was not specified, callback
+                if (!timeOutFired) { callback(true) } // true = preload was done successfully
+            });
+
+
+        }
+    }
+</script>
+<!--<div id="ac_bk" style="position:absolute;background-color:black;opacity:0.5;top:0px;left:0px;z-index:3;display:none; position:fixed"></div>
+<div id="ac" style="background-image:url('/_media/imgs/Oddee/aniversary_coupon/coupon3.jpg');z-index:3;width:700px;height:467px;position:absolute;left:-700px;display:none; position:fixed">
+    <img id="ac_close" src="/_media/imgs/Oddee/aniversary_coupon/close.png" style="position:absolute;right:-23px;top:-15px;cursor:pointer;" />
+    <img id="ac_rules" src="/_media/imgs/Oddee/aniversary_coupon/rules.png" style="position:absolute;right:45px;bottom:35px;cursor:pointer;z-index:5;" />
+        <a href="http://www.amazon.com/Electric-Novelties-Plasma-Nebula-Ball/dp/B000QSQSMU/?tag=oddeegiveaway-20" target="_blank" onclick="GAevent('giveaway1b', 'click', '1', null, true);">
+            <div id="ac_pick1" align="center" style="position:absolute;top:192px;left:160px;">
+                <div style="position:absolute;top:25px;left:-15px; width:120px;height:40px;background-color:Black;opacity:0.5;"></div>
+                <div style="position:absolute;top:30px;color:White; font-family:Arial; font-size:12px; line-height:15px;">See product at<br />Amazon.com</div>
+               <img src="/_media/imgs/Oddee/aniversary_coupon/32.jpg" width="90">
+            </div>
+        </a>
+        <div id="ac_pick1_specs" style="position:absolute;top:305px;left:173px;color:White;font-family:Arial;font-size:22px;display:none;">GIFT 1</div>
+
+        <a href="http://www.amazon.com/Hopside-Down-Beer-Glass-Double/dp/B004GUKS84/?tag=oddeegiveaway-20" target="_blank" onclick="GAevent('giveaway1b', 'click', '2', null, true);">
+            <div id="ac_pick2" align="center" style="position:absolute;top:192px;left:305px;">
+                <div style="position:absolute;top:25px;left:-15px; width:120px;height:40px;background-color:Black;opacity:0.5;"></div>
+                <div style="position:absolute;top:30px;color:White; font-family:Arial; font-size:12px; line-height:15px;">See product at<br />Amazon.com</div>
+                <img src="/_media/imgs/Oddee/aniversary_coupon/31.jpg" width="90">
+            </div>
+        </a>
+        <div id="ac_pick2_specs" style="position:absolute;top:305px;left:317px;color:White;font-family:Arial;font-size:22px;display:none;">GIFT 2</div>
+
+        <a href="http://www.amazon.com/Newtons-Cradle-Balance-Balls-inch/dp/B00123CO44/?tag=oddeegiveaway-20" target="_blank" onclick="GAevent('giveaway1b', 'click', '3', null, true);">
+            <div id="ac_pick3" align="center" style="position:absolute;top:192px;left:450px;">
+                <div style="position:absolute;top:25px;left:-15px; width:120px;height:40px;background-color:Black;opacity:0.5;"></div>
+                <div style="position:absolute;top:30px;color:White; font-family:Arial; font-size:12px; line-height:15px;">See product at<br />Amazon.com</div>
+                <img src="/_media/imgs/Oddee/aniversary_coupon/33.jpg" width="90">
+            </div>
+        </a>
+        <div id="ac_pick3_specs" style="position:absolute;top:305px;left:460px;color:White;font-family:Arial;font-size:22px;display:none;">GIFT 3</div>
+        <div style="background-image:url('/_media/imgs/Oddee/aniversary_coupon/coupon_pick.png');background-repeat:no-repeat;width:453px;height:119px;font-family:Arial;color:black;position:relative;top:467px;">
+
+        <select id="lstGift" name="lstGift" style="position:absolute;top:67px;left:80px">
+            <option value="1">Gift 1</option>
+            <option value="2">Gift 2</option>
+            <option value="3">Gift 3</option>
+        </select>
+
+        <input type="text" value="enter your email" onfocus="if(this.value == 'enter your email') {this.value = '';}" onblur="if (this.value == '') {this.value = 'enter your email';}" id="txtAC_Email" name="txtAC_Email" style="position:absolute;top:65px;left:240px;" />
+        <input id="btnSignIn" type="button" value="OK" style="position:absolute;top:65px;left:400px;" />
+        <input id="chkReadRules" type="checkbox" checked="checked" style="position:absolute;top:87px;left:150px;" />
+        <div style="position:absolute;top:87px;left:175px;">I have read the <a href="#" style="color:black;" onclick="popupcenter('giveaway_rules.aspx', 'Giveaway Rules', 400, 500);">rules</a></div>
+    </div>
+</div>-->
 
 
 </center></body></html>
