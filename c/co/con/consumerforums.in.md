@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the consumerforums.in privacy policy that was archived on 2012-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121208075156id_/http%3A//www.consumerforums.in/Privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the consumerforums.in privacy policy that was archived on 2013-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130620085930id_/http%3A//www.consumerforums.in/Privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -51,17 +51,17 @@ This online privacy policy applies only to information collected through our web
 
  **Your Consent**
 
-By using our site, you consent to our [online privacy policy](http://www.freeprivacypolicy.com/).
+By using our site, you consent to our [online privacy policy](http://www.consumerforums.in/).
 
  **Changes to our Privacy Policy**
 
 If we decide to change our privacy policy, we will post those changes on this page. 
 
-This policy was last modified on 5th August 2012
+This policy was last modified on 5th April 2013
 
  **Contacting Us**
 
 If there are any questions regarding this privacy policy you may contact us using the information below. 
 
 www.consumerforums.in  
-server@consumerforums.in
+contactconsumerforums@gmail.com
