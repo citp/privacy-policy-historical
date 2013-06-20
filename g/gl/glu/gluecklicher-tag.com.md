@@ -1,8 +1,10 @@
-> *The following text is extracted and transformed from the gluecklicher-tag.com privacy policy that was archived on 2011-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110614023732id_/http%3A//www.lucky-day-uk.com/pages/UK/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gluecklicher-tag.com privacy policy that was archived on 2013-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130620194442id_/http%3A//www.lucky-day-uk.com/pages/UK/privacy.html) for the most accurate reproduction.*
 
 # DVX Interactive: Privacy Policy
 
 **PRIVACY POLICY**
+
+**Updated: October 22, 2012**
 
 DVX LLC ("we" or "us") are committed to protecting and respecting your privacy.
 
@@ -13,35 +15,39 @@ The data controller is DVX LLC, PO Box 244090, Atlanta, GA 30324, USA
 **1\. INFORMATION WE MAY COLLECT FROM YOU**
 
 We may collect and process the following data about you:  
-Information that you provide by filling in any forms on our sites, www.lucky-day-uk.com, or any others that we own and may from time to time use to collect data ("our site") or when otherwise contacting us; if you contact us, we may keep a record of that correspondence; details of transactions you carry out through our site and of the fulfillment of your orders; details of your visits to our site and the resources that you access.
+Information that you provide by filling in any forms on our sites or any others that we own and may from time to time use to collect data ("our site") or when otherwise contacting us; if you contact us, we may keep a record of that correspondence; details of transactions you carry out through our site and of the fulfillment of your orders; details of your visits to our site and the resources that you access.
 
-**2\. IP ADDRESSES AND COOKIES**
+You should be aware that this site is not intended for, or designed to attract, individuals under the age of 18. We do not collect personally identifiable information from any person we actually know is an individual under the age of 18.
 
-We may collect information about your computer, including where available your IP address, operating system and browser type, for system administration and to report aggregate information to our advertisers. This is statistical data about our users' browsing actions and patterns, and does not identify any individual.
+**2\. USE OF COOKIES AND IP ADDRESSES**
 
-For the same reason, we may obtain information about your general internet usage by using a cookie file which is stored on your hard drive of your computer. Cookies enable us to improve our service to you, estimate our audience size and usage pattern, store information about your preferences, and recognise you when you return to our site.
+DVX is committed to your privacy and keeping you fully informed as to how we implement and use cookies on our web properties.
 
-You can set your browser up to refuse the setting of cookies. However, if you do this you may be unable to enjoy full use of the site and you may not be able to take advantage of certain promotions we may run from time to time.
+A cookie is a small piece of information that is stored on a computer for the purpose of identifying that browser during interaction on websites. Cookies may be used to store items such as identifiers and user preferences. A website may set a cookie to the browser if the browser’s preferences allow it. A browser only permits a website to access the cookies it has set, not those set by other websites.
 
-Please note that entities who advertise on our site may also use cookies, but we do not have access to them or control over them.
+We place a transactional cookie on your computer when you arrive at our prize draw websites. This allows us to report a customer visit to our marketing partners and also allows us to track users to monitor for fraud; however, this cookie does not track or identify any individual user, and expire in 24 hours. These cookies do not track your visits to websites other than Lucky Day properties or your overall web usage in any way. You can set your browser to refuse the setting of cookies. However, if you do this you may be unable to enjoy full use of the site and you may not be able to take advantage of certain promotions we may run from time to time. Please note that entities who advertise on our site may also use cookies, but we do not have access to them or control over them.
+
+We also may collect information about your computer without the use of cookies (including, where available, your IP address, operating system, and browser type) for system administration, security purposes, and to report aggregate information to our advertisers. This is statistical data about our users’ browsing actions and patterns, and does not identify any individual.
 
 **3\. USES WE MAY MAKE OF YOUR INFORMATION**
 
-We use information held about you in the following ways:To ensure that content from our site is presented in the most effective manner for you and for your computer;
+We use information held about you in the following ways:  
 
-To provide you with information, products, services or offers via e-mail, SMS, phone or post, that you request from us or which we feel may interest you;
 
-To confirm the accuracy of the information that we hold about you via third party providers of such services, to include phone, e-mail and postal verification methods;
+  * To ensure that content from our site is presented in the most effective manner for you and for your computer;
+  * To provide you with information, products, services or offers via e-mail, SMS, phone or post, that you request from us or which we feel may interest you;
+  * To confirm the accuracy of the information that we hold about you via third party providers of such services, to include phone, e-mail and postal verification methods;
+  * To notify you about changes to our service.
 
-To notify you about changes to our service.
+
 
 **4\. PASSING YOUR INFORMATION TO THIRD PARTIES**
 
 We may sell your data (or otherwise pass it on) to carefully selected third parties who may use it to contact you in relation to offers which we feel may interest you.
 
-If you do not want us to pass your details on to third parties for marketing purposes, please ensure that you do not give your consent via the relevant boxes situated on the form on which we collect your data (the registration form).
+If you do not want us to pass your details on to third parties for marketing purposes, please ensure that you do not give your consent via the relevant boxes situated on the form on which we collect your data (the registration form). You may also email us at info@dvxinteractive.com to request to be opted out from future third-party marketing efforts.
 
-Save where you have given your consent, we do not disclose information about identifiable individuals to our advertisers. However, we may provide them with aggregate, generalised information about our users.
+Save where you have given your consent, we do not disclose information about identifiable individuals to our advertisers. However, we may provide them with aggregate, generalized information about our users.
 
 **5\. OPTING OUT**
 
@@ -64,7 +70,9 @@ Our site may, from time to time, contain links to third party websites. If you f
 
 **8\. WHERE WE STORE YOUR PERSONAL DATA**
 
-The data that we collect from you is transferred to, stored at and processed at our secure data center, which may be outside the country in which you reside (including the European Economic Area ("EEA"), Canada, or the United States). DVX adheres to best practices in the storage of your personal data. By submitting your personal data, you agree to the transfer, storage and processing of any data provided to DVX (or, its partners).
+The data that we collect from you is transferred to, stored at and processed at our secure data center, which may be outside the country in which you reside (including the European Economic Area ("EEA"), Australia, Canada, or the United States). DVX adheres to best practices in the storage of your personal data. By submitting your personal data, you agree to the transfer, storage and processing of any data provided to DVX (or, its partners).
+
+U.S. - EU Safe Harbor Privacy Statement: DVX is committed to handling personal information in accordance with the Safe Harbor Principles. DVX’s Safe Harbor certification can be found at <https://safeharbor.export.gov/list.aspx>. For more information about the Safe Harbor Principles, please visit the U.S. Department of Commerce’s Website at [http://export.gov/safeharbor/.](http://export.gov/safeharbor/)
 
 Although we do our best to protect your personal data, we cannot guarantee the security of personally identifiable data transmitted to our site, and any transmission is at your own risk.
 
@@ -78,6 +86,13 @@ Any changes we may make to our privacy policy in the future will be posted on th
 
 **11\. CONTACT**
 
-Questions, comments and requests regarding this privacy policy are welcomed and should be addressed to info@dvxinteractive.com.
+Questions, comments and requests regarding this privacy policy are welcomed and should be addressed to info@dvxinteractive.com or may be mailed to the following address:
 
-© DVX LLC 2011
+  
+DVX Interactive   
+PO Box 244090   
+Atlanta, GA 30324 USA 
+
+If you do not feel as though your complaint has been satisfactorily addressed, disputes shall be resolved using the American Arbitration Association (www.adr.org.)
+
+© DVX LLC 2013
