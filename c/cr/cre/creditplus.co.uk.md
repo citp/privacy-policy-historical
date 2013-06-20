@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the creditplus.co.uk privacy policy that was archived on 2012-10-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121031145953id_/http%3A//www.creditplus.co.uk/terms.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the creditplus.co.uk privacy policy that was archived on 2013-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130621013552id_/http%3A//www.creditplus.co.uk/terms.html) for the most accurate reproduction.*
 
 # Car Loan Terms and Conditions - Creditplus trading as Whichdeal Ltd
 
@@ -55,7 +55,7 @@ If you make an application, your details will be held on computer and used in a 
 
 
 
-You authorise us to make all enquiries necessary to verify this information to enable us to consider this application. By agreeing to the terms and conditions when making your application, you are giving your consent for your information to be used by Creditplus for administrative, underwriting, marketing and revenue purposes. This includes our sister site [www.visitcars.co.uk](http://www.visitcars.co.uk/). If you do not want your details to be used for marketing please write to Creditplus, Waterloo House, Fleets Corner, Nuffield Road, Poole, Dorset, BH17 0HL. Under the terms of the act you have the right to obtain a copy of the information held about you upon payment of the appropriate fee. 
+You authorise us to make all enquiries necessary to verify this information to enable us to consider this application. By agreeing to the terms and conditions when making your application, you are giving your consent for your information to be used by Creditplus for administrative, underwriting, marketing and revenue purposes. This may include partners or related 3rd parties. This also includes our sister site [www.visitcars.co.uk](http://www.visitcars.co.uk/). If you do not want your details to be used for marketing please write to Creditplus, Waterloo House, Fleets Corner, Nuffield Road, Poole, Dorset, BH17 0HL. Under the terms of the act you have the right to obtain a copy of the information held about you upon payment of the appropriate fee. 
 
 This is the web site of Whichdeal Limited, trading as Creditplus. Our postal address is: Creditplus, Waterloo House, Fleets Corner, Nuffield Road, Poole, Dorset, BH17 0HL. Our telephone number is 08717 502 495.
 
