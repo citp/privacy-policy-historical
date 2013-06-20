@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the primarygames.com privacy policy that was archived on 2012-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121016194901id_/http%3A//www.primarygames.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the primarygames.com privacy policy that was archived on 2013-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130620184256id_/http%3A//www.primarygames.com/privacy.htm) for the most accurate reproduction.*
 
 # Privacy Statement - PrimaryGames.com - Free Games for Kids
 
