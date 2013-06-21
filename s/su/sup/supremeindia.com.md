@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the supremeindia.com privacy policy that was archived on 2012-09-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120926221543id_/http%3A//www.supremeindia.com/pages/Privacy-Policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the supremeindia.com privacy policy that was archived on 2013-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130622005311id_/http%3A//www.supremeindia.com/pages/privacy%2520policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
-Protecting your privacy is very important to us. We have accordingly developed this Privacy Policy to protect your personal information and keep it confidential.We do everything we reasonably can, to protect your rights of privacy on systems and the website, controlled by us. We often may provide hyperlinks to third party websites for product related information. We are not liable for any unauthorized or unlawful disclosures of your personal and confidential information made by those third parties, who are not subject to our control.You should take note that the information and privacy practices of such sites, may be different from ours. Our privacy policy is subject to change at any time without notice. 
+Protecting your privacy is very important to us. We have accordingly developed this Privacy Policy to protect your personal information and keep it confidential.We do everything we reasonably can, to protect your rights of privacy on systems and the website, controlled by us. We oftenwhy may provide hyperlinks to third party websites for product related information. We are not liable for any unauthorized or unlawful disclosures of your personal and confidential information made by those third parties, who are not subject to our control.You should take note that the information and privacy practices of such sites, may be different from ours. Our privacy policy is subject to change at any time without prior notice. 
 
 **What information do we collect?**
 
@@ -16,20 +16,21 @@ We collect information from you, when you register on our site,place an order or
 
 
 
-**What do we use your information for?**
+**Where do we use your information?**
 
 We require this information to understand your needs and provide you with a better service, and in particular for the following reasons.  
 
 
+  * To process the transaction  
+
   * Internal record keeping
   * To improve our customer service
-  * To process the transaction 
 
 
 
 **How do we protect your information?**
 
-We are committed to ensuring that your information is secure. In order to prevent unauthorised access or disclosure, we implement a variety of security measure to maintain the safety of your personal information, when you place an order or register.
+We are committed to ensuring that your information is secure. In order to prevent unauthorised access or disclosure, we implement a variety of security measures to maintain the safety of your personal information, when you place an order or register. We do not disclose our customer information to other parties on any reason.
 
 **Third party links**
 
