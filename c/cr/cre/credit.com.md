@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the credit.com privacy policy that was archived on 2012-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121116143300id_/http%3A//www.credit.com/privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the credit.com privacy policy that was archived on 2013-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130621081440id_/http%3A//www.credit.com/privacy.jsp) for the most accurate reproduction.*
 
 # Privacy Policy | Credit.com
 
-**This privacy policy was most recently updated on October 31, 2011.**   
+**This privacy policy was most recently updated on May 30, 2013.**   
 It governs Credit.com’s collection, use and disclosure of non-public personal information (“NPPI”), defined below, received from our current and former customers or collected by us concerning our current and former customers. We reserve the right to modify this privacy policy at any time, so please review it frequently. If we make material changes to this policy, we will notify you here, by email, or by means of a notice on our homepage. 
 
 We take the privacy and security of your NPPI seriously and believe it is important that you understand: 
@@ -15,7 +15,7 @@ We take the privacy and security of your NPPI seriously and believe it is import
 
 
 
-[](http://www.truste.org/ivalidate.php?url=www.credit.com&sealid=111) Credit.com is dedicated to protecting the privacy of our customers. Credit.com’s privacy policy and information practices have been independently certified for compliance by the TRUSTe® Privacy Program. Credit.com is a licensee of the TRUSTe Privacy Program. TRUSTe is an independent, non-profit organization whose mission is to build users' trust and confidence in the Internet by promoting the use of fair information practices. This privacy policy covers the site www.credit.com. Because this web site wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices and have its privacy practices reviewed for compliance by TRUSTe. 
+[](http://www.truste.org/ivalidate.php?url=www.credit.com&sealid=111) Credit.com is dedicated to protecting the privacy of our customers. Credit.com’s privacy policy and information practices have been independently certified for compliance by the TRUSTe® Privacy Program. Credit.com is a licensee of the TRUSTe Privacy Program. TRUSTe is an independent organization whose mission is to build users' trust and confidence in the Internet by promoting the use of fair information practices. This privacy policy covers the site www.credit.com. Because this web site wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices and have its privacy practices reviewed for compliance by TRUSTe.
 
 ### What information we collect and how we collect it.
 
