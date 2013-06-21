@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the miamastore.com privacy policy that was archived on 2012-12-17.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121217171134id_/http%3A//www.miamastore.com/cms.php%3Fid_cms%3D2) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the miamastore.com privacy policy that was archived on 2013-06-21.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130621131707id_/http%3A//www.miamastore.com/cms.php%3Fid_cms%3D2) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en"><head>
 	<title>Privacy policy - MiamaStore.com</title>
@@ -7,8 +7,9 @@
 	<meta name="keywords" content="privacy policy, privacy, notice, legal, credits">
 	<meta http-equiv="Content-Type" content="application/xhtml+xml; charset=utf-8">
 	<meta name="robots" content="index,follow">
-	<link rel="icon" type="image/vnd.microsoft.icon" href="http://www.miamastore.com/img/favicon.ico?1353343413">
-	<link rel="shortcut icon" type="image/x-icon" href="http://www.miamastore.com/img/favicon.ico?1353343413">
+    <meta name="msvalidate.01" content="67FED996D7C288680A461804F2C9B92C">
+	<link rel="icon" type="image/vnd.microsoft.icon" href="http://www.miamastore.com/img/favicon.ico?1359406665">
+	<link rel="shortcut icon" type="image/x-icon" href="http://www.miamastore.com/img/favicon.ico?1359406665">
 	<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript">
 		var baseDir = 'http://www.miamastore.com/';
 		var static_token = '0268af459ef6aae2138e1580dd4ad768';
@@ -26,6 +27,7 @@
 		<link href="/modules/pm_advancedtopmenu/css/pm_advancedtopmenu_global.css" rel="stylesheet" type="text/css" media="all">
 		<link href="/modules/pm_advancedtopmenu/css/pm_advancedtopmenu_advanced.css" rel="stylesheet" type="text/css" media="all">
 		<link href="/modules/pm_advancedtopmenu/css/pm_advancedtopmenu.css" rel="stylesheet" type="text/css" media="all">
+		<link href="/modules/paypal/css/paypal.css" rel="stylesheet" type="text/css" media="all">
 		<link href="http://fonts.googleapis.com/css?family=Playfair+Display&amp;v2" rel="stylesheet" type="text/css">
 		<script type="text/javascript" src="/js/jquery/jquery-1.4.4.min.js"></script>
 		<script type="text/javascript" src="/js/jquery/jquery.easing.1.3.js"></script>
@@ -75,12 +77,79 @@ _gaq.push(['_trackPageview', '']);_gaq.push(['_trackPageLoadTime']);
 
 <!-- BlockWishlist -->
 <script type="text/javascript" src="/modules/blockwishlist/js/ajax-wishlist.js"></script>
-<!-- END BlockWishlist --><!-- load javascript, css --><link rel="stylesheet" href="/modules/plblog/frontent/css/style.css" media="screen" type="text/css"><!-- /load javascript, css --><!--[if lt IE 8]>
+<!-- END BlockWishlist --><!--[if lt IE 8]>
 <script type="text/javascript" src="http://www.miamastore.com/modules/pm_advancedtopmenu/js/pm_advancedtopmenuiefix.js"></script>
 <![endif]-->
 <link rel="stylesheet" type="text/css" href="http://www.miamastore.com/css/jquery.autocomplete.css">
 <script type="text/javascript" src="http://www.miamastore.com/js/jquery/jquery.autocomplete.js"></script>
-<!-- /MODULE PM_AdvancedTopMenu || Presta-Module.com -->
+<!-- /MODULE PM_AdvancedTopMenu || Presta-Module.com --><script type="text/javascript">
+
+$(document).ready( function() {
+
+	$('#payment_paypal_express_checkout').click(function() {
+		$('#paypal_payment_form').submit();
+		return false;
+	});
+
+	$('#paypal_payment_form').live('submit', function() {
+		var nb = $('#quantity_wanted').val();
+		var id = $('#idCombination').val();
+
+		$('#paypal_payment_form input[name=quantity]').val(nb);
+		$('#paypal_payment_form input[name=id_p_attr]').val(id);
+	});
+
+	function displayExpressCheckoutShortcut() {
+		var id_product = $('input[name="id_product"]').val();
+		var id_product_attribute = $('input[name="id_product_attribute"]').val();
+
+		$.ajax({
+			type: "GET",
+			url: baseDir+'/modules/paypal/express_checkout/ajax.php',
+			data: { get_qty: "1", id_product: id_product, id_product_attribute: id_product_attribute },
+			cache: false,
+			success: function(result) {
+				if (result >= '1')
+					$('#container_express_checkout').slideDown();
+				else
+					$('#container_express_checkout').slideUp();
+				return true;
+			}
+		});
+	}
+
+	$('select[name^="group_"]').change(function () {
+		displayExpressCheckoutShortcut();
+	});
+
+	$('.color_pick').click(function () {
+		displayExpressCheckoutShortcut();
+	});
+	
+	
+			
+
+	var modulePath = 'modules/paypal';
+	var subFolder = '/integral_evolution';
+	var fullPath = baseDir + modulePath + subFolder;
+	var confirmTimer = false;
+		
+	if ($('form[target="hss_iframe"]').length == 0) {
+		if ($('select[name^="group_"]').length > 0)
+			displayExpressCheckoutShortcut();
+		return false;
+	} else {
+		checkOrder();
+	}
+
+	function checkOrder() {
+		confirmTimer = setInterval(getOrdersCount, 1000);
+	}
+
+	});
+
+
+</script>
 </head>
 
 <body id="cms">
@@ -113,7 +182,7 @@ _gaq.push(['_trackPageview', '']);_gaq.push(['_trackPageLoadTime']);
 	</div>
         
 		<a id="header_logo" href="http://www.miamastore.com/" title="MiamaStore.com">
-			<img class="logo" src="http://www.miamastore.com/img/logo.jpg?1353343413" alt="MiamaStore.com">
+			<img class="logo" src="http://www.miamastore.com/img/logo.jpg?1359406665" alt="MiamaStore.com">
 		</a>
 		<div id="header_right">
         	<!-- Block social  -->
@@ -129,7 +198,7 @@ _gaq.push(['_trackPageview', '']);_gaq.push(['_trackPageLoadTime']);
 			});
 			</script>
             <div id="social_block_top">
-            
+                <img src="http://www.miamastore.com/themes/theme205/img//worldwideshipping.jpg" style="margin-right:36px; margin-top:6px;">
 
 <!--<script type="text/javascript" src="http://download.skype.com/share/skypebuttons/js/skypeCheck.js"></script>
 <a href="skype:miamastore?chat" class="atTip"><img src="http://mystatus.skype.com/bigclassic/miamastore" style="border: none;" height="25" alt="Il mio stato" /></a>-->
@@ -276,7 +345,6 @@ _gaq.push(['_trackPageview', '']);_gaq.push(['_trackPageLoadTime']);
 																																<li><a href="http://www.miamastore.com/category.php?id_category=49" title="Commercial dresses" class="">Commercial dresses</a></li>
 																																<li><a href="http://www.miamastore.com/category.php?id_category=23" title="Cheap wedding dresses" class="">Cheap wedding dresses</a></li>
 																																<li><a href="http://www.miamastore.com/category.php?id_category=22" title="Vintage" class="">Vintage</a></li>
-																																<li><a href="http://www.miamastore.com/category.php?id_category=21" title="Maternity" class="">Maternity</a></li>
 																																<li><a href="http://www.miamastore.com/category.php?id_category=20" title="V-neck" class="">V-neck</a></li>
 																																<li><a href="http://www.miamastore.com/category.php?id_category=19" title="Strapless" class="">Strapless</a></li>
 																																<li><a href="http://www.miamastore.com/category.php?id_category=18" title="Sweetheart" class="">Sweetheart</a></li>
@@ -301,6 +369,7 @@ _gaq.push(['_trackPageview', '']);_gaq.push(['_trackPageLoadTime']);
 																											<div class="adtm_column adtm_column_88">
 						<h5><a href="http://www.miamastore.com/category.php?id_category=39" title="WEDDING ACCESSORIES" class="">WEDDING ACCESSORIES</a></h5>																			<ul class="adtm_elements adtm_elements_88">
 																								<li><a href="http://www.miamastore.com/category.php?id_category=40" title="Veils" class="">Veils</a></li>
+																																<li><a href="http://www.miamastore.com/category.php?id_category=74" title="Wedding Bouquets" class="">Wedding Bouquets</a></li>
 																																<li><a href="http://www.miamastore.com/category.php?id_category=73" title="Ribbons &amp; Sashes" class="">Ribbons &amp; Sashes</a></li>
 																																<li><a href="http://www.miamastore.com/category.php?id_category=64" title="Dress Covers" class="">Dress Covers</a></li>
 																																<li><a href="http://www.miamastore.com/category.php?id_category=62" title="Wedding coats" class="">Wedding coats</a></li>
@@ -313,7 +382,7 @@ _gaq.push(['_trackPageview', '']);_gaq.push(['_trackPageLoadTime']);
 																																<li><a href="http://www.miamastore.com/category.php?id_category=43" title="Jewelry" class="">Jewelry</a></li>
 																																<li><a href="http://www.miamastore.com/category.php?id_category=42" title="Tiaras" class="">Tiaras</a></li>
 																																<li><a href="http://www.miamastore.com/category.php?id_category=41" title="Wraps &amp; Shawls" class="">Wraps &amp; Shawls</a></li>
-																																<li><a href="http://www.miamastore.com/category.php?id_category=74" title="Wedding Bouquets" class="">Wedding Bouquets</a></li>
+																																<li><a href="http://www.miamastore.com/category.php?id_category=108" title="Wedding garters" class="">Wedding garters</a></li>
 																						</ul>
 												</div>
 											
@@ -330,6 +399,7 @@ _gaq.push(['_trackPageview', '']);_gaq.push(['_trackPageLoadTime']);
 																																<li><a href="http://www.miamastore.com/category.php?id_category=28" title="Flower girl" class="">Flower girl</a></li>
 																																<li><a href="http://www.miamastore.com/category.php?id_category=29" title="Cheap wedding party dresses" class="">Cheap wedding party dresses</a></li>
 																																<li><a href="http://www.miamastore.com/category.php?id_category=47" title="Fast delivery dresses" class="">Fast delivery dresses</a></li>
+																																<li><a href="http://www.miamastore.com/category.php?id_category=72" title="New Collection 2013/14" class="">New Collection 2013/14</a></li>
 																						</ul>
 												</div>
 											
@@ -517,7 +587,7 @@ _gaq.push(['_trackPageview', '']);_gaq.push(['_trackPageLoadTime']);
 						<h5><a href="http://www.miamastore.com/category.php?id_category=87" title="CHAMPAGNE SHOES" class="">CHAMPAGNE SHOES</a></h5>																		</div>
 											
 																											<div class="adtm_column adtm_column_121">
-						<h5><a href="http://www.miamastore.com/category.php?id_category=0" title="WHITE SHOES" class="">WHITE SHOES</a></h5>																		</div>
+						<h5><a href="http://www.miamastore.com/category.php?id_category=85" title="WHITE SHOES" class="">WHITE SHOES</a></h5>																		</div>
 											
 												</div>
 				</td>
@@ -533,6 +603,7 @@ _gaq.push(['_trackPageview', '']);_gaq.push(['_trackPageLoadTime']);
 			</div>
 <!--[if lte IE 6]></td></tr></table></a><![endif]-->
 </li>
+<li class="li-niveau1 advtm_menu_10 "><a href="http://www.miamastore.com/cms.php?id_cms=22" title="GIFT CARD" class=" a-niveau1"><span class="advtm_menu_span advtm_menu_span_10">GIFT CARD</span></a></li>
 </ul>
 <div class="clear"></div>
 </div>
@@ -547,9 +618,11 @@ var ld_conversion_map = new Array();
 ld_conversion_map["1"] = 2;
 ld_conversion_map["5"] = 1;
 ld_conversion_map["6"] = 4;
+ld_conversion_map["7"] = 2;
 ld_conversion_map["en"] = 2;
 ld_conversion_map["it"] = 1;
 ld_conversion_map["ja"] = 4;
+ld_conversion_map["pt"] = 2;
 $(document).ready(function(){
 	$('#languages_block_top a').each(function(){
 		var ld_href = $(this).attr('href');
@@ -649,6 +722,10 @@ var removingLinkText = 'remove this product from my cart';
 	</div>
 </div>
 
+<center>
+<a href="http://www.trustpilot.com/review/miamastore.com"><img src="http://www.miamastore.com/themes/theme205/img/review.jpg"></a>
+</center>
+
 <iframe src="//www.facebook.com/plugins/likebox.php?href=http%3A%2F%2Fwww.facebook.com%2Fmiamastore&amp;width=220&amp;height=62&amp;colorscheme=light&amp;show_faces=false&amp;border_color&amp;stream=false&amp;header=true&amp;appId=316534211742891" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:220px; height:82px;" allowtransparency="true"></iframe>
 
 <br>
@@ -688,10 +765,6 @@ var removingLinkText = 'remove this product from my cart';
 	<span class="grower CLOSE"> </span><a href="http://www.miamastore.com/category.php?id_category=7" title="Wedding dresses, bridal gowns at wholesale price. High quality wedding dresses on sale at MiamaStore.com. Shop now, get the wedding gown of your dreams! Free Shipping!">Wedding dresses</a>
 			<ul style="display: none;">
 									
-<li>
-	<a href="http://www.miamastore.com/category.php?id_category=8" title="Looking for a unique A-line bridal gown for your wedding? Miamastore offers a variety of beautiful A-line wedding dresses online. Browse now and pick your the perfect style!">A-line</a>
-	</li>
-												
 <li>
 	<a href="http://www.miamastore.com/category.php?id_category=9" title="Buy ball gown wedding dresses at wholesale price. Our online store provides hundreds of  high quality wedding gowns for brides all at discount price. Take a look now.">Ball gown</a>
 	</li>
@@ -741,10 +814,6 @@ var removingLinkText = 'remove this product from my cart';
 	</li>
 												
 <li>
-	<a href="http://www.miamastore.com/category.php?id_category=21" title="MiamaStore.com supplies various stylish maternity wedding dresses online. Buy discount maternity wedding gowns, top quality, shop now at our wholesale prices! Free Shipping!">Maternity</a>
-	</li>
-												
-<li>
 	<a href="http://www.miamastore.com/category.php?id_category=22" title="A collection of unique and stunning vintage and antique style wedding dresses, vintage bridal gowns for sale on MiamaStore.com, Free Shipping!">Vintage</a>
 	</li>
 												
@@ -762,11 +831,15 @@ var removingLinkText = 'remove this product from my cart';
 ">Fall - Winter Collection</a>
 	</li>
 												
-<li class="last">
+<li>
 	<a href="http://www.miamastore.com/category.php?id_category=71" title="MiamaStore New Wedding Dresses Collection 2013 - 2014 
 A-line, Empire Waist, Ball Gown and much more! All the Styles you were looking for are now available now in our 2013 - 2014 Wedding Dresses New Collection.
 Every Bridal Gown in the category is Customizable and Made to Measure ♥
 Find out you favourite New Wedding Gown now!">New Collection 2013 - 2014</a>
+	</li>
+												
+<li class="last">
+	<a href="http://www.miamastore.com/category.php?id_category=8" title="Looking for a unique A-line bridal gown for your wedding? Miamastore offers a variety of beautiful A-line wedding dresses online. Browse now and pick your the perfect style!">A-line</a>
 	</li>
 							</ul>
 	</li>
@@ -795,8 +868,16 @@ Find out you favourite New Wedding Gown now!">New Collection 2013 - 2014</a>
 	<a href="http://www.miamastore.com/category.php?id_category=29" title="Trying to find some cheap and discount wedding party dresses online? MiamaStore is the right choice. Affordable prices, fast delivery and Free Shipping! Get your dress now!">Cheap wedding party dresses</a>
 	</li>
 												
-<li class="last">
+<li>
 	<a href="http://www.miamastore.com/category.php?id_category=47" title="">Fast delivery dresses</a>
+	</li>
+												
+<li class="last">
+	<a href="http://www.miamastore.com/category.php?id_category=72" title="MiamaStore New Ceremony Dresses Collection 2013 - 2014 
+Bridesmaid dresses, Prom dresses, Cocktail dresses and much more!
+All the Styles you were looking for are now available in our 2013 - 2014 Wedding Party  Dresses New Collection.
+Every Ceremony Dress in the category is Customizable and Made to Measure ♥
+Find out you favourite New Wedding Party Dress now!">New Ceremony Dresses Collection 2013 - 2014 </a>
 	</li>
 							</ul>
 	</li>
@@ -911,11 +992,16 @@ Every item in the category can be made in every color! Hand Made with high quali
 Choose one of these Wedding and Ceremony Ribbons and Sashes online now! Only at MiamaStore.com">Ribbons &amp; Sashes</a>
 	</li>
 												
-<li class="last">
+<li>
 	<a href="http://www.miamastore.com/category.php?id_category=74" title="Buy now your favorite Wedding Bouquet Online! Choose from hundreds of styles and colors.
 Every Wedding Bouquet is absolutely amazing and elegant.
 Choose the wedding bouquet of your dreams and keep the memory of your wedding forever!
 Wedding Bouquets Online at wholesale price, only at MiamaStore.com!">Wedding Bouquets</a>
+	</li>
+												
+<li class="last">
+	<a href="http://www.miamastore.com/category.php?id_category=108" title="Buy now your favourite wedding garter online. Special price and best quality!
+Now on sale at MiamaStore.com!">Wedding garters</a>
 	</li>
 							</ul>
 	</li>
@@ -1020,25 +1106,6 @@ Buy now your favourite Women Coat or Jacket Online now!">Coats &amp; Jackets</a>
 	</li>
 												
 <li>
-	<span class="grower CLOSE"> </span><a href="http://www.miamastore.com/category.php?id_category=65" title="Choose now from our big selection of women knitwear online.
-Women pullovers, long sleeves shirt, jumpers and cardigans online at wholesale price!">Knitwear</a>
-			<ul style="display: none;">
-									
-<li>
-	<a href="http://www.miamastore.com/category.php?id_category=103" title="">Sweaters</a>
-	</li>
-												
-<li>
-	<a href="http://www.miamastore.com/category.php?id_category=104" title="">Cardigans</a>
-	</li>
-												
-<li class="last">
-	<a href="http://www.miamastore.com/category.php?id_category=105" title="">Knit Dresses</a>
-	</li>
-							</ul>
-	</li>
-												
-<li>
 	<a href="http://www.miamastore.com/category.php?id_category=69" title="">Sleepwear</a>
 	</li>
 												
@@ -1059,7 +1126,14 @@ Free Worldwide Shipping and amazing quality. Shop now online your women boots.">
 	</li>
 												
 <li>
-	<a href="http://www.miamastore.com/category.php?id_category=68" title="Buy now your favourite Wedding Shoes online at MiamaStore.com, 100+ different styles! Ivory Shoes, White Shoes, Red Shoes, everything you need at a very cheap price.">Wedding shoes</a>
+	<span class="grower CLOSE"> </span><a href="http://www.miamastore.com/category.php?id_category=68" title="Buy now your favourite Wedding Shoes online at MiamaStore.com, 100+ different styles! Ivory Shoes, White Shoes, Red Shoes, everything you need at a very cheap price.">Wedding shoes</a>
+			<ul style="display: none;">
+									
+<li class="last">
+	<a href="http://www.miamastore.com/category.php?id_category=114" title="This is a Special Wedding Shoes Category! Find now your discounted bridal shoes at wholesale price only on MiamaStore.com!
+Discount Price Wedding Shoes Bargain. High quality cheap discounted wedding shoes online here!">DISCOUNTED PRICE BRIDAL SHOES</a>
+	</li>
+							</ul>
 	</li>
 												
 <li>
@@ -1073,6 +1147,10 @@ Choose from hundreds od colors and models of heels and find your style now! Only
 	</li>
 												
 <li>
+	<a href="http://www.miamastore.com/category.php?id_category=77" title="">Wedges</a>
+	</li>
+												
+<li>
 	<a href="http://www.miamastore.com/category.php?id_category=78" title="">Platform Heels</a>
 	</li>
 												
@@ -1080,8 +1158,12 @@ Choose from hundreds od colors and models of heels and find your style now! Only
 	<a href="http://www.miamastore.com/category.php?id_category=79" title="">Peep Toes</a>
 	</li>
 												
-<li class="last">
+<li>
 	<a href="http://www.miamastore.com/category.php?id_category=81" title="">High Heels</a>
+	</li>
+												
+<li class="last">
+	<a href="http://www.miamastore.com/category.php?id_category=106" title="">Low Heels</a>
 	</li>
 							</ul>
 	</li>
@@ -1130,63 +1212,7 @@ MiamaStore GIFT CARD!">Gift Card</a>
 	</div>
 </div>
 <!-- /Block categories module -->
-<!-- Lastest post -->
-			<div class="block">
-			<h4>Latest Posts</h4>
-			<div class="block_content center pl_block">
-				<ul>
-									<li>
-						<a href="http://www.miamastore.com/modules/plblog/frontent/details.php?plcn=wedding-diy&amp;plidp=19&amp;plpn=il-guestbook-fai-da-te"><span style="font-weight:bold">Il Guestbook fai da te</span></a>
-						<i>2012-10-11 09:57:15</i>
-												     
- &nbsp; 
-  Mai sentito parlare del    wedding guestbook   ? E’ diventato un accessorio necessario quasi quanto      l’abito da sposa      o il...
-					</li>
-									<li>
-						<a href="http://www.miamastore.com/modules/plblog/frontent/details.php?plcn=wedding-style&amp;plidp=18&amp;plpn=il-mint-green-wedding-tendenze-2013"><span style="font-weight:bold">Il mint green wedding: tendenze 2013</span></a>
-						<i>2012-10-10 10:00:26</i>
-												   
- &nbsp; 
-  Anno che vai tendenze che trovi, e le   tendenze in fatto di matrimoni   arrivano direttamente da oltre oceano. Non che la bella Europa...
-					</li>
-								</ul>
-													<a class="button" href="http://www.miamastore.com/modules/plblog/frontent/all-post.php">View all</a>
-							</div>
-		</div>
-	<!-- /Lastest post -->
 
-<!-- Blog categories -->
-			<div id="categories_block_left" class="block pl_block_category">
-			<h4>Blog categories</h4>
-			<div class="block_content">
-				<ul class="tree dynamized">
-															
-<li>
-	<a href="http://www.miamastore.com/modules/plblog/frontent/list-post.php?plidc=2&amp;plcn=wedding-gown" title="">Wedding Gown</a>
-	</li>
-																				
-<li>
-	<a href="http://www.miamastore.com/modules/plblog/frontent/list-post.php?plidc=3&amp;plcn=accessori-sposa" title="<p>Consigli per una sposa sempre perfetta: accessori, consigli e nuove tendenze per rendere il più bel giorno della propria vita davvero indimenticabile</p>">Accessori Sposa</a>
-	</li>
-																				
-<li>
-	<a href="http://www.miamastore.com/modules/plblog/frontent/list-post.php?plidc=4&amp;plcn=wedding-style" title="<p>Regala uno stile di tendenza al tuo matrimonio, per una cerimonia da favola</p>">Wedding Style</a>
-	</li>
-																				
-<li>
-	<a href="http://www.miamastore.com/modules/plblog/frontent/list-post.php?plidc=5&amp;plcn=eventi" title="<p>Tanti eventi dedicati al mondo del matrimonio per i futuri sposini</p>">Eventi</a>
-	</li>
-																				
-<li class="last">
-	<a href="http://www.miamastore.com/modules/plblog/frontent/list-post.php?plidc=6&amp;plcn=wedding-diy" title="<p>Idee originali e fai da te per il tuo matrimonio</p>">Wedding DIY</a>
-	</li>
-													</ul>
-			</div>
-		</div>
-	<!-- /Blog categories -->
-
-<!-- Blog tags -->
-<!-- /Blog tags -->
         
         
   
@@ -1300,7 +1326,7 @@ MiamaStore GIFT CARD!">Gift Card</a>
     </div>
     <div style="padding: 5px; font-style:italic;">* on orders over $99.9</div>
     
-    <p>Copyright notice © 2011-2012 miamastore.com All rights reserved - VAT 04979100650</p>
+    <p>Copyright notice © 2011-2013 miamastore.com All rights reserved - VAT 04979100650</p>
 </div>
 			<!-- [[%FOOTER_LINK]] -->
 		</div>
