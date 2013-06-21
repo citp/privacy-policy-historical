@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the gifsoup.com privacy policy that was archived on 2012-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121224111813id_/http%3A//gifsoup.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gifsoup.com privacy policy that was archived on 2013-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130621193737id_/http%3A//gifsoup.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy - GIFSoup.com
+# YouTube to Animated GIF - GIFSoup.com
 
 GIFSoup, Inc. ("GIFSoup") takes the private nature of your personal information very seriously. This Privacy Policy describes how we treat the information we collect when you visit and use the website available at GIFSoup.com (the "Website") and is made available under the Creative Commons Sharealike license. Please read this notice very carefully. 
 
