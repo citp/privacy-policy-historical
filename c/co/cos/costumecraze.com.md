@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the costumecraze.com privacy policy that was archived on 2012-09-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120919225755id_/http%3A//www.costumecraze.com/_privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the costumecraze.com privacy policy that was archived on 2013-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130621034324id_/http%3A//www.costumecraze.com/_privacy.html) for the most accurate reproduction.*
 
 # Costume Craze Privacy Policy
 
@@ -9,6 +9,8 @@ All information you provide is confidential. Your information will not be given 
 ## And now, you can read the extended version:
 
 Costume Craze is committed to protecting your privacy, and otherwise providing a safe environment for you to shop. We want you to be aware of the information we collect (and do not collect) and how it is we protect your information while ordering at Costume Craze. As such, we have created the following "Privacy Policy," which we invite you to read over carefully (along with our "Terms & Conditions" notice).
+
+Privacy of children is of the utmost importance to Costume Craze. We do not knowingly market or sell goods to children under the age of 13. Nor do we knowingly collect personal information of children under the age of 13. In the rare case that we discover we have unintentionally collected such information, immediate action will be taken--including, but not limited to, deleting such records from our database(s), and pursuing any further action, as deemed necessary, to ensure that privacy is protected.
 
 When placing an order (whether through our website, www.costumecraze.com, or via phone), Costume Craze collects such information as your name, email address, phone number, mailing and/or billing address, etc. This information is collected for the sole purpose of completing your order and is only shared with direct fulfillment partners (such as bank and credit card partners, shipping partners, etc.). It is never shared, sold, or otherwise distributed to third parties not directly associated with the fulfillment of your order.
 
