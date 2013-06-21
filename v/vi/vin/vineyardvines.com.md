@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vineyardvines.com privacy policy that was archived on 2012-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121220222502id_/http%3A//www.vineyardvines.com/Privacy-Policy/privacy-policy%2Cdefault%2Cpg.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vineyardvines.com privacy policy that was archived on 2013-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130621104656id_/http%3A//www.vineyardvines.com/Privacy-Policy/privacy-policy%2Cdefault%2Cpg.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -15,7 +15,7 @@
   
 
 
-PRIVACY POLICY UPDATED March 20, 2012
+PRIVACY POLICY UPDATED February, 2013
 
 At vineyardvines.com, your privacy is a top priority. Please read our privacy policy details. vineyard vines® collects customer information to improve your overall shopping experience with us. We respect your privacy and are committed to maintaining and using this information responsibly. This privacy policy addresses the use and disclosure of information we collect from you on our website as well as information we collect directly from customers on the telephone or in our stores. Personal information relating to you and your order history are only available to you if you provide the correct password that you create on vineyardvines.com. After providing your password, you can edit or delete your information at any time through the My Account page.
 
@@ -90,4 +90,4 @@ Customer Care
 37 Brown House Road  
 Stamford, CT 06902
 
-PRIVACY POLICY UPDATED March 20, 2012
+PRIVACY POLICY UPDATED February, 2013
