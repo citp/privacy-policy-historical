@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the healthpartners.com privacy policy that was archived on 2012-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121220041414id_/http%3A//www.healthpartners.com/public/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the healthpartners.com privacy policy that was archived on 2013-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130621113640id_/http%3A//www.healthpartners.com/public/privacy) for the most accurate reproduction.*
 
-# HealthPartners - Website privacy policy
+# Website privacy policy | HealthPartners
 
 **Effective as of: 06/12/2012**
 
@@ -66,6 +66,6 @@ All questions and concerns about your privacy can be sent to [privacy@healthpart
 HealthPartners   
 8170 33rd Ave. S.   
 Bloomington, MN 55425   
-Attention: Tobi Tanzer
+Attention: Office of Integrity and Compliance
 
 GP:2279548v2  
