@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the thebitbot.com privacy policy that was archived on 2012-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121129190625id_/http%3A//thebitbot.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thebitbot.com privacy policy that was archived on 2013-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130621031924id_/http%3A//thebitbot.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy « TheBitBot.Com News, Views, and Reviews
+# Privacy | TheBitBot.Com News, Views, and Reviews
 
 **What information do we collect?**
 
