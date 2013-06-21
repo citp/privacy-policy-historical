@@ -1,9 +1,9 @@
-<!--The following is the downloaded HTML source of the mosis.com privacy policy that was archived on 2012-12-19.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121219200344id_/http%3A//mosis.com/pages/about/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the mosis.com privacy policy that was archived on 2013-06-21.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130621140419id_/http%3A//www.mosis.com/pages/about/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head>
-	<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-	<title>			MOSIS Web Site Privacy Statement		</title>
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8">  	<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+  	<title>			MOSIS Web Site Privacy Statement		</title>
 	<!-- ***** START STYLES ***** -->
 
 	<link href="/favicon.ico" type="image/x-icon" rel="icon"><link href="/favicon.ico" type="image/x-icon" rel="shortcut icon">
@@ -11,7 +11,7 @@
 	<meta name="description" content="MOSIS Is An Multi-Project Wafer (MPW) Integrated Circuit (IC) Fabrication Service Provider">
 	<link rel="stylesheet" type="text/css" href="/css/reset.css?1328899914">
 	<link rel="stylesheet" type="text/css" href="/css/images.css?1330556711">
-	<link rel="stylesheet" type="text/css" href="/css/generic.css?1352309861">
+	<link rel="stylesheet" type="text/css" href="/css/generic.css?1363890705">
 	<link rel="stylesheet" type="text/css" href="/css/main.css?1354571464">
 	<link rel="stylesheet" type="text/css" href="/css/navigation.css?1328899914">
 	<link rel="stylesheet" type="text/css" href="/css/sidebar.css?1349125630">
@@ -58,6 +58,74 @@
 	  customSearchControl.draw('cse-search-form', options);
 	}, true);
 	</script>
+    <script type="text/javascript">
+		function browser_test() {
+			var nVer = navigator.appVersion;
+			var nAgt = navigator.userAgent;
+			var browserName  = navigator.appName;
+			var fullVersion  = ''+parseFloat(navigator.appVersion); 
+			var majorVersion = parseInt(navigator.appVersion,10);
+			var nameOffset,verOffset,ix, version_int;
+			
+			// In Opera, the true version is after "Opera" or after "Version"
+			if ((verOffset=nAgt.indexOf("Opera"))!=-1) {
+			 browserName = "Opera";
+			 fullVersion = nAgt.substring(verOffset+6);
+			 if ((verOffset=nAgt.indexOf("Version"))!=-1) 
+			   fullVersion = nAgt.substring(verOffset+8);
+			}
+			// In MSIE, the true version is after "MSIE" in userAgent
+			else if ((verOffset=nAgt.indexOf("MSIE"))!=-1) {
+			 browserName = "Microsoft Internet Explorer";
+			 fullVersion = nAgt.substring(verOffset+5);
+			}
+			// In Chrome, the true version is after "Chrome" 
+			else if ((verOffset=nAgt.indexOf("Chrome"))!=-1) {
+			 browserName = "Chrome";
+			 fullVersion = nAgt.substring(verOffset+7);
+			}
+			// In Safari, the true version is after "Safari" or after "Version" 
+			else if ((verOffset=nAgt.indexOf("Safari"))!=-1) {
+			 browserName = "Safari";
+			 fullVersion = nAgt.substring(verOffset+7);
+			 if ((verOffset=nAgt.indexOf("Version"))!=-1) 
+			   fullVersion = nAgt.substring(verOffset+8);
+			}
+			// In Firefox, the true version is after "Firefox" 
+			else if ((verOffset=nAgt.indexOf("Firefox"))!=-1) {
+			 browserName = "Firefox";
+			 fullVersion = nAgt.substring(verOffset+8);
+			}
+			// In most other browsers, "name/version" is at the end of userAgent 
+			else if ( (nameOffset=nAgt.lastIndexOf(' ')+1) < 
+					  (verOffset=nAgt.lastIndexOf('/')) ) 
+			{
+			 browserName = nAgt.substring(nameOffset,verOffset);
+			 fullVersion = nAgt.substring(verOffset+1);
+			 if (browserName.toLowerCase()==browserName.toUpperCase()) {
+			  browserName = navigator.appName;
+			 }
+			}
+			// trim the fullVersion string at semicolon/space if present
+			if ((ix=fullVersion.indexOf(";"))!=-1)
+			   fullVersion=fullVersion.substring(0,ix);
+			if ((ix=fullVersion.indexOf(" "))!=-1)
+			   fullVersion=fullVersion.substring(0,ix);
+			
+			majorVersion = parseInt(''+fullVersion,10);
+			if (isNaN(majorVersion)) {
+			 fullVersion  = ''+parseFloat(navigator.appVersion); 
+			 majorVersion = parseInt(navigator.appVersion,10);
+			}
+			version_int = parseInt(majorVersion);
+			if (browserName == "Microsoft Internet Explorer") {
+				if  (majorVersion < 8) {
+				alert ("You appear to be using " + browserName + " Version " + fullVersion + ". Some pages will not display or operate correctly with this browser.  MOSIS recommends that you use a more recent browser."); 
+				}
+			}
+		}
+	</script>
+
 	<!-- ***** END SCRIPTS ***** -->
 </head>
 <body id="pp-pages-about" class="controller-pages action-display pass-about pass-privacy">
@@ -356,20 +424,21 @@
 		<li class="mosis-user-group">
 		<a href="/support/mosis-user-group" class="mosis-user-group">MOSIS User Group</a>					</li>
 		</ul>		</li>
-				</ul>									<dl>
+				</ul>								<!-- Usage for holiday announcement
+        	<dl>
             <dd>
 
-		<img src="/img/structural/xmas_bell03.gif?1355509445" alt="bells" class="left" width="35" height="31" border="0">        MOSIS and many of its vendors reduce operations for the winter
+		<img src="/img/structural/xmas_bell03.gif?1355509445" alt="bells" class="left" width="35" height="31" border="0" />        MOSIS and many of its vendors reduce operations for the winter
         holidays. MOSIS staff will be unavailable from 3 P.M. (PST) Friday,
         21-Dec-12 until 8:30 A.M. (PST) Wednesday, 2-Jan-13. </dd>
 
         <dd>Submissions through our automated front end will continue without
         interruption.</dd>
 
-			</dl>	
+			</dl>	-->
 					
 			<ul class="clear">
-			<li>© 2010 The MOSIS Service, USC Information Sciences Institute</li>
+			<li>© 2013 The MOSIS Service, USC Information Sciences Institute</li>
 
 			<li><a href="/support/contact-us">Contacts</a></li>
 			<li><a href="/pages/about/privacy">Privacy Statement</a></li>
