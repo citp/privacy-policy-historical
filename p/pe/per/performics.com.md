@@ -1,44 +1,30 @@
-> *The following text is extracted and transformed from the performics.com privacy policy that was archived on 2012-09-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120919234210id_/http%3A//www.performics.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the performics.com privacy policy that was archived on 2013-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130621101059id_/http%3A//www.performics.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy | Performics
 
-## www.performics.com
+This Website is provided by Performics. We take the privacy of our users and their personal information very seriously.
 
-  
-**Scope and Effective Date**  
-This policy is effective 10/15/2007 and covers data collected by the Performics website located at www.performics.com.  It does not cover data collected by Performics’s Connect Commerce website, by other products or services by any client of Google, DoubleClick, Publicis Groupe or Performics.  This site is intended to provide information on the products and services offered by Performics.
+For your convenience, all Performics Websites contain links to a number of other Websites, both inside and outside Performics & Publicis Groupe. The privacy policies and procedures described here do not apply to those sites; we suggest contacting those sites directly for information on their data collection and distribution policies.
 
-##  No Personal Data Collected at This Site
+The purpose of this privacy policy is to set out the principles governing our use of personal information that we may obtain about you. By using the site, or by registering as a user of the services that we provide, you agree to this use. We ask you to read this privacy policy carefully. Any dispute which may arise over privacy will be subject to this policy, the data protection notice (if any) incorporated into this Website and the provisions of US laws. We may change our privacy policy from time to time. We therefore ask you to check it occasionally to ensure that you are aware of the most recent version that will apply each time you access this site.
 
-  
-This site does not offer the ability for users to submit personal data.
+**Personal information collection and use**  
+Performics will only collect personally identifiable data, such as your name or email address, when it is voluntarily submitted to us at this Website. Performics will use this information to comply with your request for information or as otherwise disclosed to you when you submit your information. From time to time, we may refer to that information to better understand your needs and how we can improve our services. We may use that information to contact you. We will not otherwise transfer the personally identifiable information you provide at this site to any third party unless otherwise disclosed to you.
 
-###  Collection and Use of Non-Personal Information
+**Non-personal information collection and use**  
+Similar to most commercial organizations, we monitor the use of this site by collecting aggregate information. We may automatically collect non-personal information about you such as the type of internet browsers you use, the pages you visit or the Website which directed you to our site. You cannot be identified from this information and it is used only to assist us in providing an effective service on this website.
 
-  
-**Passive Browser Information**  
-Passive Browser information is collected by the web server hosting www.performics.com.  This server logs standard information communicated by web browsers as they make requests to the server, including:  
-•    IP address of the requesting computer  
-•    Date and time of the request  
-•    The URL of the actual request  
-•    Any cookie returned by the browser
+**Use of cookies**  
+Cookies are small files which are sent to your web browser and stored on your computer’s hard drive. Their purpose is to help analyze web traffic. You may set your web browser to notify you of cookie placement requests or to decline cookies completely.  You can delete the files that contain cookies; those files are stored as part of your internet browser.
 
-Your browser offers options on the management and preference of cookies.  Cookies are discussed in this policy in more detail below under “Analytics”.
+**Under 13 year olds**  
+This Website is not intended or designed to attract children under the age of 13. We do not knowingly collect personally identifiable data from or about any person under the age of 13. If you are under 13 years old and wish to ask a question or use this site in any way which requires you to submit your personal information, please get your parent or guardian to do so on your behalf.
 
-    **Analytics**  
-This site uses Google Analytics for website analysis, which includes the recording and processing of such information as how your browser navigates this site and what keywords drove traffic to this site.  Google Analytics utilizes both cookies and web beacons.  “Cookies” are small text files that contain a string of alpha-numeric characters and are used to associate an action taken by a browser with subsequent actions taken by that browser.  Web beacons are small strings of HTML code that are placed in a Web page, and are sometimes called “clear GIFs” (Graphics Interchange Format) or “pixel tags.”  Web beacons are most often used in conjunction with cookies. 
+**Security of your personal data**  
+We have implemented technologies and policies with the objective of protecting your privacy from unauthorized access and improper use and will update these measures as appropriate as new technologies become available.
 
-**Other Performics Products and Services**  
-The Performics business offers products and services that collect online information.  This policy covers only data collected by Performics on this site and does not cover data collected by other products or services or data collected on other sites. 
+**Access and corrections**  
+Under data protection law you have a right to request access to personal data which are held about you on payment of a small fee. You also have the right to require any inaccuracies in your information to be corrected free of charge.
 
-**Security**  
-We have implemented reasonable security measures in order to protect information from loss, misuse and unauthorized access, disclosure, alteration or destruction.  Our employees are made aware of, and are accountable for compliance with, these procedures.
-
-**Links to Other Sites**  
-This website may contain links to other sites, such as the Connect Commerce service or the Publicis Groupe corporate website.  You may also wish to read the privacy policies of the other sites you visit to learn about their data practices, which may differ from those described in this privacy policy. 
-
-**Changes to this Privacy Policy**  
-This privacy policy is subject to change.  If we make any material or substantive changes in the way that we treat the information collected at this site, we will post a clear and conspicuous notice of these changes on this site and in this privacy policy.
-
-**More Information**  
-If you have further questions or concerns relating to this site’s privacy practices, please email [PrivacyQuestions@performics.com](mailto:PrivacyQuestions@doubleclick.com?subject=A%20Privacy%20Question%20or%20Comment%20from%20the%20Performics.com%20Web%20Site&body=Message%3A). 
+**Who is responsible for personal information collected on this site?**  
+If you have any questions about Performics’ privacy policy, please email [m](mailto:info@performics.com)[arketing@performics.com](mailto:marketing@performics.com)
