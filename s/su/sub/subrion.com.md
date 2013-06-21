@@ -1,15 +1,13 @@
-> *The following text is extracted and transformed from the subrion.com privacy policy that was archived on 2012-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120606224759id_/http%3A//www.subrion.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the subrion.com privacy policy that was archived on 2013-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130621125013id_/http%3A//www.subrion.com/privacy-policy.html) for the most accurate reproduction.*
 
-# Privacy Policy :: Open Source CMS, Auto Classified Script, Real Estate Classified, PHP Yellow Pages Script
+# Privacy Policy :: Open Source CMS
 
 ## This is the web site of Intelliants LLC
 
-Our postal address is 
-
-**Intelliants LLC**  
-1903 60th Place E.  
-Bradenton, FL 34203  
-USA 
+> **Intelliants LLC**  
+>  1903 60th Place E.  
+>  Bradenton, FL 34203  
+>  USA 
 
 We can be reached via e-mail at [info@intelliants.com](mailto:info@intelliants.com)
 
