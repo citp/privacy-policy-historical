@@ -1,11 +1,12 @@
-<!--The following is the downloaded HTML source of the eventbee.com privacy policy that was archived on 2012-12-30.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121230194750id_/http%3A//www.eventbee.com/main/privacystatement) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the eventbee.com privacy policy that was archived on 2013-06-21.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130621041057id_/http%3A//www.eventbee.com/main/privacystatement) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 <meta http-equiv="Cache-Control" content="no-cache">
 <meta http-equiv="Pragma" content="no-cache">
 <meta http-equiv="Expires" content="0">
+
 
 
 
@@ -44,12 +45,21 @@
 <link rel="stylesheet" type="text/css" href="/main/css/common.css">
 
 <script type="text/javascript" src="/main/js/common/nifty.js"></script>
+<script type="text/javascript" src="/main/js/jquery/jquery.js"></script>
 <script type="text/javascript" src="/main/js/prototype.js"></script>
 <script type="text/javascript" src="/main/js/common/common.js"></script>
 <script type="text/javascript" src="/main/js/braintreestates.js"></script>
+
 <style>
 #header {
 	height: 94px;
+}
+#bodycontainer {
+background:#F8F8F8;
+margin:0 auto;
+}
+#container {
+background: transparent;
 }
 </style>
 </head>
@@ -119,9 +129,7 @@ openpopupclick=false;
 </script>
 <!-- new header  -->
 <style>
-#header {
-height:100px;
-}
+
 p {
 font-family:Lucida Grande,Lucida Sans Unicode,sans-serif;
 font-size:12px;
@@ -139,55 +147,98 @@ font-family:Lucida Grande,Lucida Sans Unicode,sans-serif;
 font-size:12px;
 line-height: 20px;
 }
+
 </style>
 <div id="backgroundPopup"></div>
+<div id="header_top">
+
+<!-- Start Top Header -->
+ <table width="989px" cellpadding="0" cellspacing="0" align="center">
+  <tbody><tr>
+  <td align="right">
+  <span class="header_top_content" style="padding-right: 10px;"><a style="background-image: url(http://www.volumebee.com/images/favicon.ico);background-repeat: no-repeat;padding-left: 19px;height:28px;display:inline-block;" href="http://volumebee.com">Volumebee </a> </span>
+  <span class="header_top_content" style="padding-right: 10px;"><a style="background-image: url(/main/images/icon_small_twitter.png);background-repeat: no-repeat;padding-left: 19px;height:28px;display:inline-block;" href="http://twitter.com/eventbee">Twitter </a> </span>
+  <span class="header_top_content" style="padding-right: 30px;"><a style="background-image: url(/main/images/icon_small_facebook.png);background-repeat: no-repeat;padding-left: 19px;display:inline-block;height:28px;" href="http://facebook.com/eventbeeinc">Facebook </a></span>
+  <span class="header_top_content" style="padding-right: 15px;"><a style="background-image: url(/main/images/home/email.png);background-repeat: no-repeat;padding-left: 20px;height:20px;display:inline-block;" href="#" onclick="openPopUp('/main/user/supportemail.jsp','350','330','layoutwidget2')">Contact </a> </span>
+  <span class="header_top_content" style="padding-right: 15px;"><a style="background-image: url(/main/images/home/faq.png);background-repeat: no-repeat;padding-left: 20px;height:20px;display:inline-block;" href="/main/faq">FAQ </a> </span>
+  <span class="header_top_content"><a style="background-image: url(/main/images/home/tickets.png);background-repeat: no-repeat;padding-left: 20px;display:inline-block;height:20px;" href="#" onclick="openPopUp('/main/user/mytickets.jsp','550','430','layoutwidget')">Tickets </a></span>
+  </td>
+  </tr>
+  </tbody></table>
+<!-- End Top Header -->
+</div>
 <div id="header">
 <!-------------------------Begin of Header----------------------------->
  <div class="background">
     <div class="inner">
-    <table width="100%" cellspacing="0" cellpadding="0" align="center"><tbody><tr><td align="left">
+    <table width="100%" cellspacing="0" cellpadding="0" align="center" valign="middle"><tbody><tr><td align="left" valign="middle">
     <div class="logo"><a href="/main"><img src="http://www.eventbee.com/home/images/logo_big.jpg" style="border-style: none">
     <br><h1><b>Sell More Tickets With Less Effort!</b></h1></a>
     </div>
     </td>
     <td align="right" valign="bottom">
-    <div id="topnav">
+      <div id="topnav">
     
 	   <table align="right"><tbody><tr><td>
-	   <a href="/main/user/signup" style="text-decoration: none">
-	   	  <b><span class="headerfont">Sign Up</span></b>
-	   	  </a>
-	   	   <span class="headerfont"> | </span>
-	   	  <a href="/main/user/login" style="text-decoration: none">
-	   	  <b><span class="headerfont">Login</span></b>
-	   	  </a>
-		   <span class="headerfont"> | </span>
-	   	  <a href="#" onclick="openPopUp('/main/user/mytickets.jsp','550','430','layoutwidget')" style="text-decoration: none">
-	   	  <b><span class="headerfont">Tickets</span></b>
-	   	  </a>
-	   	   <span class="headerfont"> | </span>
-	   	  <a href="/main/pricing" style="text-decoration: none">
-	   	  <b><span class="headerfont">$1 Flat Fee Pricing</span></b>
-	   	  </a>
+	    <!-- <span class="header_links">
+	   <a href="#" onClick="openPopUp('/main/user/mytickets.jsp','550','430','layoutwidget')" STYLE="text-decoration: none">Tickets</a>
+	   <a href="/main/pricing"  STYLE="text-decoration: none">$1 Flat Fee Pricing</a>
+	   </span> -->
+	   <span style="padding-right:10px">
+	    
+ 
+ 		
+    	 <span style="padding-right:10px"> 
+    	 <a href="/main/user/signup" style="text-decoration:none;" onmouseout="javascript:this.className='signuporloginbutton';" onmouseover="javascript:this.className='signuporloginbuttonhover';" class="signuporloginbutton">
+    	 Sign Up</a></span>
+    	 
+    	  
+    	 	<span style="padding-right:10px"> <a href="/main/user/login" style="text-decoration:none;" onmouseout="javascript:this.className='signuporloginbutton';" onmouseover="javascript:this.className='signuporloginbuttonhover';" class="signuporloginbutton">
+    	 Login</a></span>
+    	 
+ 
+    	 
+    	 
+	   </span>
+	  
          
               
 	   </td></tr></tbody></table>
+
 
     </div><!-- end top-nav -->
    </td></tr></tbody></table>
    </div>
  </div><!--end background-->
-<div id="bar"></div>
+
 <!-- new header -->
 
 </div>
+<script>
+//data();
+/*function data(){
+var sd='';
+document.getElementById('data').value=sd;
+}*/
+/*function searchevent(){
+var str=document.getElementById('data').value;
+str=str.replace(/^\s+|\s+$/g,'');
+if(str.length<=2){
+alert("Please Enter atleast 3 characters to search");
+}else{
+document.getElementById('data').value=str;
+document.search2.submit();
+}
+}*/
+</script>
 
  <!-------------------------End of Header----------------------------->
 </div>
 <div id="bodycontainer">
 
 
-<div id="wrapper" class="clearfix">
+
+
 <div id="singledatacol">
 	<!--<div id="tasktitlebar"></div>  -->
 
@@ -197,6 +248,9 @@ line-height: 20px;
 #maincontent {
 padding: 0px;
 }
+ #container a {
+ color: #0C50A1;
+ }
 </style>	  
 
 
@@ -442,7 +496,8 @@ padding: 0px;
  <!-------------------------End of main content----------------------------->
 </div>
 </div>
-</div>
+
+
 
 </div>
 <div id="footer"><!-------------------------Begin of Footer----------------------------->
@@ -467,9 +522,9 @@ padding: 0px;
 		
         <div align="left" style="padding:0px;vertical-align: middle;"><a href="http://facebook.com/eventbeeinc" style="background-image: url(/main/images/home/icon_facebook.png);background-repeat: no-repeat;padding-left: 29px;display:block;height:28px;">Facebook </a></div>
        <div align="left" style="padding:0px;vertical-align: middle;"><a href="http://blog.eventbee.com/" style="background-image: url(/main/images/home/icon_blog.png);background-repeat: no-repeat;padding-left: 29px;display:block;height:28px;">Blog</a></div>
-	 <div align="left" style="padding:0px;vertical-align: middle;"><a href="http://www.youtube.com/eventbee" style="background-image: url(/main/images/home/iconYouTube.png);background-repeat: no-repeat;padding-left: 29px;display:block;height:28px;">Videos</a></div>
+	 <div align="left" style="padding:0px;vertical-align: middle;"><a href=" http://www.youtube.com/user/eventbee/videos" target="_blank" style="background-image: url(/main/images/home/iconYouTube.png);background-repeat: no-repeat;padding-left: 29px;display:block;height:28px;">Videos</a></div>
 	   
-     </span>
+     </span>                                                          
 	  </td></tr>
 	 </tbody></table>
   </td>
@@ -486,8 +541,12 @@ padding: 0px;
 	 <span class="footertab"><a href="/main/event-promotion">Promotion - Facebook, Twitter, Email Invites</a></span><br>
 	 <span class="footertab"><a href="/main/event-manage">Manage - iPhone &amp; Android Check-In, Scan, Reports</a></span>
 	 <span class="footertabheader"><h2>More Solutions</h2></span>
-	    <span class="footertab"><a href="/main/email-marketing">Email Marketing</a></span><br>
-	   <span class="footertab"><a href="/main/membership-management">Membership Management</a></span>
+	  <span class="footertab"><a href="http://www.volumebee.com">Volumebee - Get one to many with Volumebee!</a></span> <br>
+	   <span class="footertab">Eventbee Attendee Check-In App<br><span><a href="http://itunes.apple.com/us/app/eventbee-real-time-attendee/id403069848?mt=8"><img src="/main/images/home/iphone.png" border="0"></a></span><span style="padding-left:10px;"> <a href="https://market.android.com/details?id=com.eventbee.mobile"><img src="/main/images/home/android_as.png" border="0"></a></span></span>
+	  
+	    <!-- <span class="footertab"><a href="/main/email-marketing">Email Marketing</a></span><br/>
+	   <span class="footertab"><a href="/main/membership-management">Membership Management</a></span>-->
+	   
 	 </td></tr>
 	 </tbody></table>
   </td>
@@ -549,14 +608,14 @@ padding: 0px;
 </div> 
 
 <div align="center">
-    <span class="footertab">Copyright 2003-2012. Eventbee Inc. All Rights Reserved.</span><br>
+    <span class="footertab">Copyright 2003-2013. Eventbee Inc. All Rights Reserved.</span><br>
 	<span class="footertab"><a href="/main/privacystatement">Privacy Statement</a> | <a href="/main/termsofservice">Terms Of Service</a></span><br>
-	<span class="footertab">Trusted by 25,000+ Event Managers all over the world for their Online Registration, Event Ticketing, Email Marketing and Event Promotion needs!</span>
+	<span class="footertab">Trusted by 30,000+ Event Managers all over the world for their Online Registration, Event Ticketing, Email Marketing and Event Promotion needs!</span>
 </div>
 
 </div>
 
- <!-------------------------End of Footer----------------------------->
+	    <!-------------------------End of Footer----------------------------->
 </div>
 
 
