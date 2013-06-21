@@ -1,6 +1,16 @@
-> *The following text is extracted and transformed from the teachmama.com privacy policy that was archived on 2012-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121219111501id_/http%3A//teachmama.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the teachmama.com privacy policy that was archived on 2013-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130621050744id_/http%3A//teachmama.com/privacy-policy) for the most accurate reproduction.*
 
 # privacy policy - teach mama
+
+All the important stuff can be found here:
+
+  * **Privacy Policy**
+  * **[Disclosure](http://teachmama.com/disclosure)**
+  * **[Official Sweepstakes Rules](http://teachmama.com/official-rules)**
+
+
+
+——————————————————————————
 
 This Privacy Policy governs the manner in which teach mama media, llc (tmm) collects, uses, maintains and discloses information collected from users (each, a “User”) of the [http://teachmama.com](http://teachmama.com/) website (“Site”). This privacy policy applies to the Site and all products and services offered by tmm.
 
@@ -60,10 +70,17 @@ By using this Site, you signify your acceptance of this policy. If you do not ag
 If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us at:
 
   * teach mama media, llc
-  * teachmama@verizon.net
+  * amy@teachmama.com
+  * http://amymascott.com
 
 
 
-This document was last updated on October 15, 2011
+This document was last updated on January 1, 2013
 
-fyi: Many thanks to Valerie of [Frugal Family Fun Blog](http://www.frugalfamilyfunblog.com/) for providing the skeleton of this Privacy Policy and to ffor providing supplemental information.
+**Again, more of the important stuff can be found here:**
+
+  * **Privacy Policy**
+  * **[Disclosure](http://teachmama.com/disclosure)**
+  * **[Official Sweepstakes Rules](http://teachmama.com/official-rules)**
+
+
