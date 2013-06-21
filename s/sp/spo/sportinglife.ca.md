@@ -1,58 +1,96 @@
-> *The following text is extracted and transformed from the sportinglife.ca privacy policy that was archived on 2003-04-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030419015118id_/http%3A//www.sportinglife.ca/CustomerService/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sportinglife.ca privacy policy that was archived on 2013-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130621091125id_/http%3A//www.sportinglife.ca/policies/100003/PrivacyPolicy) for the most accurate reproduction.*
 
-# Sporting Life
+# Sporting Life Online Store - Canada Goose, The North Face, Arcteryx, Nike, Lacoste
 
-|  |   
----  
-| [Customer Service](https://web.archive.org/web/20030419015118id_/http%3A//www.sportinglife.ca/CustomerService)  
-|  | [About Us](https://web.archive.org/web/20030419015118id_/http%3A//www.sportinglife.ca/AboutUs)  
-| [Shopping Online](https://web.archive.org/web/20030419015118id_/http%3A//www.sportinglife.ca/CustomerService/shopping.asp)  
-| [Privacy & Security](https://web.archive.org/web/20030419015118id_/http%3A//www.sportinglife.ca/CustomerService/privacy.asp)  
-| [Terms & Conditions](https://web.archive.org/web/20030419015118id_/http%3A//www.sportinglife.ca/CustomerService/terms.asp)  
-| [In-Store Policy](https://web.archive.org/web/20030419015118id_/http%3A//www.sportinglife.ca/CustomerService/policy.asp)  
-| [Contact Us](https://web.archive.org/web/20030419015118id_/http%3A//www.sportinglife.ca/AboutUs/contactus.asp)  
-| [Your Life Line Account](https://web.archive.org/web/20030419015118id_/http%3A//www.sportinglife.ca/CustomerService/lifeline.asp)  
-| [Retail Stores](https://web.archive.org/web/20030419015118id_/http%3A//www.sportinglife.ca/Stores)  
-|  |   
----  
-|  |  |   
----  
-   
-   
-   
-|  | 
+This Privacy Policy sets out the manner in which Sporting Life collects, uses, discloses and otherwise manages the personal information of our customers.  This Privacy Policy applies to the privacy practices at our Sporting Life stores ("Stores"), on our website located at [www.sportinglife.ca](http://www.sportinglife.ca/) and other websites where this policy is posted including [www.sportinglife10k.ca](http://www.sportinglife10k.ca/) and [www.livelifeatsportinglife.ca](http://www.livelifeatsportinglife.ca/) (“Website"), and through other interactions with our customers.
 
-Your Privacy & Security  
-Sporting Life Inc. knows that you are concerned about the privacy and security of your personal information. Information such as your address is needed to purchase or register at SportingLife.ca. To provide you with a safe, and secure shopping experience, we use the highest level of security available. Internet Explorer 4.5 or higher or Netscape Communicator 4.7 or higher supports this level of security.What is your Personal Information used for?  
-Information collected by Sporting Life Inc. may be used to: |  | Allow you to order products and services, become a Life Line member of Sporting Life, and participate in special promotions.  
----|---  
-| Verify credit card and payment information.  
-| Improve the site by observing the pages and products that are most popular.  
-| Personalize the delivery of information and recommend products and services to you.  
-Your personal information may also be used to create statistics about Sporting Life Inc. that we use to measure our performance. These statistics do not contain any information that could identify you personally.Sporting Life Inc. does not sell your personal information to any organization, for any purpose. When is your Personal Information collected?  
-When you become a member of Sporting Life - Life Line and/or place an order, we request personal information about you including your credit card number, email address, shipping address, billing address and telephone number. This allows us to process your order correctly.
+**_What information do we collect and how do we use it?_**
 
-Who may have access to your Personal Information?  
-Strict controls are maintained over access to personal information you share with Sporting Life Inc..  
-  | a) Within Sporting Life  
----|---  
-| Sporting Life Inc. strictly controls access to your personal information to employees who need this information to serve you or to the employees who analyze our performance to measure and improve Sporting Life.  
-  | b) Other Organizations  
-| Sporting Life Inc. uses industry service providers to assist us with customer service, processing of orders, fraud prevention, and other key functions. We only share the information necessary for these service providers to perform their role in serving you and Sporting Life Inc.. These third parties are required to keep all customer information confidential.  
-| At times, a third party may sponsor a contest, offer a service or promotion to Sporting Life visitors.  
-| Sporting Life Inc. may share statistics about the performance of SportingLife.ca website with other reputable organizations. These include statistics such as the total number of website users. Your personal information cannot be identified from these statistics.  
-  
-Would Sporting Life disclose your Personal Information?  
-By law, Sporting Life Inc. must comply with the law and co-operate with law enforcement and other officials in any investigation requiring either personal or account information, including any information provided online through Sporting Life Inc..  Does Sporting Life Use "Cookies"?  
-Cookies are small files of information that are stored on your computer's hard drive by your web browser. Sporting Life Inc. uses cookies to remember information you gave us so you don't have to re-enter it each time you visit SportingLife.ca. The cookies we use do not contain any personal information. Most web browsers automatically accept cookies, but you can change the preferences of your browser so that it does not accept them. In order to use all the features of Sporting Life's online store, we recommend that you accept cookies.  Your Personal Information Is Secure  
-For security of transactions, SportingLife.ca uses the Secure Sockets Layer (SSL) protocol, which encrypts any information you send to us electronically. The encryption process protects your information, such as your credit card number, billing and shipping information by scrambling it before it is sent to us from your computer.  Getting Your Consent  
-By using SportingLife.ca, you are consenting to the collection and use of personal and account information by Sporting Life Inc., for the purposes set out in this policy. 
+  We may collect personal information when you:
 
-Changes to Our Privacy Policy  
-All policy changes will be posted on SportingLife.ca promptly to inform visitors of what information is collected, how it is used, and under what circumstances it may be disclosed. Visitors should check our website periodically for more information on how we use the data we collect.  Any Questions or Comments?  
-Sporting Life Inc. welcomes your feedback regarding our website and/or this policy. If you have any comments or suggestions please send us an e-mail at [Info@SportingLife.ca](mailto:Info@SportingLife.ca)Contact Us Regarding Privacy  
-Should you have any concerns regarding privacy on our site or should you wish to have your personal information deleted, please e-mail us at [Info@SportingLife.ca](mailto:Info@SportingLife.ca), so we may address your concerns.  
-If you wish to update your personal information, please visit our store.e-Newsletters  
-Sporting Life Inc. may work with outside organizations as technical resources for e-mailing Sporting Life's marketing campaigns and our e-Newsletter subscription service. In conducting these marketing campaigns and our e-Newsletter service, some of these companies are given access to some or all of the information you provide to us, and these outside organizations may use cookies on our behalf. We will provide these outside organizations with the relevant subscriber information to successfully send out e-Newsletters, such as eMail addresses. Any outside organization that assists us with e-Newsletters has agreed not to use or disclose such information for any other purpose.
+  * Purchase or return merchandise on our Website or in one of our Stores;
+  * Join our Life Line program;
+  * Create an account on our Website;
+  * Request services on our Website, such as our Wish List and Gift Lists;
+  * Sign-up to receive promotional e-mail or other communications from us;
+  * Use the “E-mail a Friend” or other similar features on our Website;
+  * Participate in our contests, sweepstakes, promotions, fundraisers or events;
+  * Apply for employment; and
+  * Contact us with a comment, question or complaint.
 
-Customers who choose to voluntarily opt in to receive a Sporting Life e-Newsletter will receive occasional emails that outline store and site specials, plus other information.
+ 
+
+_Product Purchases & Returns:_  When you make a purchase on the Website, we collect personal information such as your name, e-mail address, shipping and billing address as well as your payment information.  We use this information to process and fulfil you order.  When you purchase one of our gift cards, we collect the recipient’s name and email or mailing address so that we can send the gift card to the recipient directly on your behalf.
+
+  _Life Line:_   When you join our Life Line program, we collect personal information such as your name, phone number, e-mail address and information about your transactions.  We use this information to administer your participation in the program and to send you coupons, special discounts and other communications based on your specific purchases, transactions, tastes and preferences.
+
+  _Online Registration:_ In general, you do not have to register to visit our Website. Some of the features offered through our Website may require you to register and provide personal information such as your name, e-mail address, mailing address information and a password that you create. Your registration information is used to provide and otherwise administer the service you requested. We may also request certain optional demographic information from you when you register. We use this optional information to help us understand our customers and to tailor and enhance our product and service offerings, promotions and events.
+
+  _Website Services:_ When you use certain services provided on our Website, we may request additional personal information from you in order to provide that service.  For example, when you create a Gift List, we will collect the name of the event, certain details about your event and your shipping address.
+
+  _E-Mail Communications:_   From time to time, we may obtain your consent to send you e-mail or other communications about products, services, promotions or events that may be of interest to you.  You can opt-out of receiving these promotional e-mails by following the unsubscribe instructions in any of our e-mails or by contacting us as set out below.
+
+  The “E-mail a Friend” and other similar features on our Websites permit you to send e-mail to others.  To do so, we require you to submit your name and e-mail address, as well as the name and e-mail address of the recipient.  We do not use the names or e-mail addresses submitted in these circumstances for any other purpose without the consent of you or the e-mail recipient to do so. Please ensure that you only submit e-mail addresses of friends or family who would want to receive the message.
+
+  _Promotions and Events:_ When you enter a contest or sweepstakes, or participate in a promotion, fundraiser or event, we may collect personal information such as your name, address, phone number, e-mail address, payment information and other information you provide. We use this information to administer your participation in the contest, sweepstakes, promotion, fundraiser or event.  If a contest, sweepstakes, promotion, fundraiser or event is jointly sponsored by us and other sponsors or is hosted in support of another organization, your personal information may be shared with such other sponsors or organizations, as specified at the time of collection of your personal information. We have no control over the manner in which these sponsors or organizations treat your personal information, and recommend you review their respective privacy notices or statements.
+
+  _Employment:_ In connection with a job application or related inquiry, you may provide us with certain personal information about yourself (such as that contained in a resume, cover letter, or similar employment-related materials). We use this information for the purpose of processing and responding to your application for employment.
+
+_Customer Service:_ If you contact us with a comment, question or complaint, you may be asked for information that identifies you (such as your name, address and a phone number) along with additional information we need to help us promptly answer your question or respond to your comment, question or complaint. We may retain this information to assist you in the future and to improve our customer service, product and service offerings, and events and promotions.
+
+**_Do we use Cookies and other Tracking mechanisms?_**
+
+  In general, you can visit our Website without telling us who you are or submitting any personal information. However, we collect the IP (Internet protocol) addresses of all visitors to our Website and other related information such as page requests, browser type, operating system and average time spent on our Website. We use this information to help us understand our Website activity, and to monitor and improve our Website.
+
+  _Cookies:_   Our Website uses a technology called "cookies". A cookie is a tiny element of data that our Website can send to your browser, which may then be stored on your hard drive so we can recognize you when you return.  For example, if you have an account, these cookies may let us know who you are and will provide us with information that we use to personalize our Website in accordance with your preferences. You may set your Web browser to notify you when you receive a cookie or to not accept certain cookies.  However, you may find that certain parts of our Website will not function without the use of cookies.
+
+_Advertising:_    Cookies, web beacons, tracer tags and similar technologies help us to improve, deliver, and understand how you use our Website and the ads that are served to you on and off the Website.  For example, we may use third-party ad networks to serve our ads on other websites. These ad networks may use cookies, tracer tags or web beacons to report certain information about your visits to our Website and the websites that advertise and feature links to our Website, in order to serve and measure the effectiveness of our ads.  In addition, ads appearing on our Website may be delivered to users by third-party ad networks, which may use cookies or similar technologies. These cookies allow the ad network to recognize your browser each time they serve you an ad. This information allows ad networks to tailor ads that may be of interest to you. 
+
+  _Social Media_ :  We may offer you the opportunity to engage with our content on or through third-party social networking websites, plug-ins and applications.   When you engage with our content on or through third-party social networking websites, plug-ins and applications, you may allow us to have access to certain information associated with your social media account (e.g., name, username, email address, profile picture, gender) to deliver the content or as part of the operation of the website, plug-in or application.  When you provide information from your social media account, we may use this information to personalize your experience on the Website and on the third-party social networking websites, plug-ins and applications, and to provide you with other products or services you may request.
+
+  **_To whom do we disclose information_** **?**
+
+  We will not disclose, trade, rent, sell or otherwise transfer your personal information, without your consent, except as otherwise set out herein.
+
+  _Service Providers:_
+
+  We may transfer (or otherwise make available) your personal information to our affiliates and other third parties who provide services on our behalf. For example, we may use service providers to authorize and process payments, host our Website, operate certain of its features, serve advertisements on our Website, send e-mail or other communications, run our contests, promotions, fundraisers or events, conduct customer research, and manage and analyze data and our advertising effectiveness.  Any access to your personal information by our affiliates or service providers will be limited to that necessary for them to perform their designated functions and we do not authorize them to use or disclose your personal information for their own marketing purposes.  We and our service providers may also use your personal information for fraud detection and prevention purposes.
+
+  Your personal information may be maintained and processed by our affiliates and other third party service providers in the US or other jurisdictions. For additional information about the way in which our affiliates and service providers treat your personal information, contact us as set out below.
+
+_Legal Disclosures_
+
+  Sporting Life and our Canadian, US and other affiliates and service providers may provide your personal information in response to a search warrant or other legally valid inquiry or order, or to an investigative body in the case of a breach of an agreement or contravention of law, or as otherwise required by applicable Canadian, US or other law.  Sporting Life may also disclose personal information where necessary for the establishment, exercise or defence of legal claims, or as otherwise permitted by applicable law.
+
+  _Sale or Transfer of Information_
+
+  We may transfer any information we have about you as an asset in connection with a merger or sale (including transfers made as part of insolvency or bankruptcy proceedings) involving all or part of Sporting Life or as part of a corporate reorganization or other change in corporate control.
+
+  **_What websites do we link to?_**
+
+  Our Website may contain links to third-party sites that Sporting Life does not own or operate. Also, links to our Website may be featured on third party websites on which we advertise. Except as provided herein, we will not provide any of your personal information to these third parties without your consent. We provide links to third party websites as a convenience to our users. These links are not intended as an endorsement of or referral to the linked websites. The linked websites have separate and independent privacy statements, notices and terms of use, which we recommend you read carefully. We do not have any control over such websites, and therefore we have no responsibility or liability for the manner in which the organizations that operate such linked websites may collect, use or disclose, secure and otherwise treat your personal information.
+
+  **_How do we safeguard your personal information?_**
+
+We maintain reasonable administrative, technical and physical safeguards in an effort to protect against unauthorized access, use, modification and disclosure of personal information in our custody and control. Your online access to certain of your personal information may be protected with a password you select. We strongly recommend that you do not disclose your password to anyone. We will never ask you for your password in any unsolicited communication (such as letters, phone calls or email messages).
+
+We have personal information retention processes designed to retain personal information of our customers for no longer than necessary for the purposes stated above or to otherwise meet legal requirements.
+
+  **_How may you access your personal information?_**
+
+  You have the right to access, update, and correct inaccuracies in your personal information in our custody and control, subject to certain exceptions prescribed by law.  You may request access, updating and corrections of inaccuracies in your personal information in our custody or control by sending a request to [Contact us](http://www.sportinglife.ca/sportinglife/contactUs.jsp), attention Privacy Administrator.
+
+  **_How will we notify you if this policy changes?_**
+
+  This Privacy Policy may be updated periodically to reflect changes to our personal information practices. The revised Privacy Policy will be posted on this Website. We strongly encourage you to please refer to this Privacy Policy often for the latest information about our personal information practices.
+
+  **_How can you contact us?_**
+
+  To contact us regarding any questions, comments or complaints, to obtain information about the way in which we or our service providers treat your personal information, or to request access to your personal information, you may [Contact us](http://www.sportinglife.ca/sportinglife/contactUs.jsp) by email or mail at the following address:
+
+ **SportingLife**  
+130 Merton Street  
+Suite 600  
+Toronto, Ontario  
+M4S 1A4  
+Canada
