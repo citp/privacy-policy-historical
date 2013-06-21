@@ -1,7 +1,8 @@
-<!--The following is the downloaded HTML source of the estarland.com privacy policy that was archived on 2012-10-20.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121020234214id_/http%3A//www.estarland.com/index.asp%3Fpage%3DPrivacyPolicy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the estarland.com privacy policy that was archived on 2013-06-22.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130622014944id_/http%3A//www.estarland.com/index.asp%3Fpage%3DPrivacyPolicy) for the most accurate reproduction.-->
 
 <html><head>
+<link rel="canonical" href="http://www.estarland.com/PrivacyPolicy.html">
 <meta name="verify-v1" content="qV8mFgm/nwls3YsRJZuhXUeJZm4x238xdEpsaXYB3+A=">
 <meta name="google-site-verification" content="zYmFvkSp3Xu-UAhfBm50PanN1MxJS8X0YY5KwBRUJ-4">
 <meta name="google-site-verification" content="yCKOJzDwUkBIxzue0bvyqV1mSrISMvWVI4d3z4IccUA">
@@ -9,13 +10,86 @@
 <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
 <meta name="description" content="">
 <meta name="keywords" content="">
-<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script language="JavaScript" src="js/common.js">
+<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="js/jquery-1.5.1.min.js"></script>
+<script type="text/javascript" src="js/jquery-ui-1.8.10.custom.min.js"></script>
+<link rel="stylesheet" href="css/jquery-ui.custom.css" type="text/css">
+<link rel="stylesheet" href="css/smoothness/jquery-ui-1.8.10.custom.css" type="text/css">
+<script language="JavaScript" src="js/common.js">
 </script>
+<style>
+.ui-widget {
+    font-size: 8pt;
+}
+</style>
 <script language="JavaScript">
 <!--
 function MM_onload() {
-	MM_preloadImages('images/topmenu_myaccount_over.gif','images/topmenu_help_over.gif','images/tab_welcome_over.gif','images/tab_newgames_over.gif','images/tab_usedgames_over.gif','images/tab_imports_over.gif','images/tab_anime_over.gif','images/tab_tradein_over.gif','images/tab_services_over.gif','images/topmenu_mycart_over.gif','images/platforms/leftmenu_platf_ps2_over.gif','images/platforms/leftmenu_platf_xbox_over.gif','images/platforms/leftmenu_platf_gc_over.gif','images/platforms/leftmenu_platf_gba_over.gif','images/platforms/leftmenu_platf_ps_over.gif','images/leftmenu_platf_nint_over.gif','images/leftmenu_platf_sega_over.gif','images/leftmenu_platf_other_over.gif');
+	MM_preloadImages('images/topmenu_myaccount_over.gif','images/topmenu_help_over.gif','images/tab_welcome_over.gif','images/tab_newgames_over.gif','images/tab_usedgames_over.gif','images/tab_imports_over.gif','images/tab_anime_over.gif','images/tab_tradein_over.gif','images/tab_services_over.gif','images/topmenu_mycart_over.gif','images/platforms/leftmenu_platf_ps2_over.gif','images/platforms/leftmenu_platf_xbox_over.gif','images/platforms/leftmenu_platf_gc_over.gif','images/platforms/leftmenu_platf_gba_over.gif','images/platforms/leftmenu_platf_ps_over.gif','images/leftmenu_platf_nint_over.gif','images/leftmenu_platf_sega_over.gif','images/leftmenu_platf_other_over.gif','images/leftmenu_platf_sony_over.gif','images/leftmenu_platf_micr_over.gif');
 }
+
+var widthCorrected = false;
+jQuery.noConflict();
+jQuery(document).ready(function(){
+	jQuery(function() {
+		function change(item) {
+			if (item){
+				jQuery("#searchInput").val(item.value);
+				//var objs = document.getElementsByName('form1');
+				//if (objs.length > 0)
+				//	objs[0].submit();
+				window.location.href = '/index.asp?product=' + item.id;
+			}
+		}
+		function tip(message) {
+		}
+		jQuery("#searchInput").autocomplete({
+			minLength: 1,
+			change: function(event, ui) {
+				change(ui.item);
+			},
+			source: function(request, response) {
+				tip("");
+				var d = new Date();
+				jQuery.post(
+					"ajax.asp",
+					{
+						action: "searchautocomplete",
+						term: request.term,
+						t: d.valueOf()
+					},
+					function(data) {
+						var r = null;
+						eval(data);
+						if (r == null)
+							return;
+						tip(r.Data.length == 0 ? "Not found!" : "");
+						response(jQuery.map(r.Data, function(item) {
+							return {
+								id: item.ID,
+								value: item._Value,
+								label: item._Label,
+								src: item
+							}
+						}));
+					}
+				);
+			},
+			select: function(event, ui) {
+				change(ui.item);
+			}
+		})
+		.data("autocomplete")._renderItem = function(ul, item) {
+			//if (!widthCorrected) {
+				//jQuery(ul).css('width', 'auto');
+				//jQuery(ul).css('min-width', '250px;');
+				//jQuery(ul).width(250);
+				widthCorrected = true;
+			//}
+			return jQuery("<li></li>").width(560).data("item.autocomplete", item).append('<a>' + item.label + '</a>').appendTo(ul);
+		};
+	});
+});
+
 //-->
 </script>
 
@@ -51,12 +125,12 @@ eval("page" + id + " = window.open(URL, '" + id + "', 'toolbar=0,scrollbars=1,lo
       <td width="765"> 
   <table width="765" border="0" cellspacing="0" cellpadding="0">
     <tbody><tr> 
-      <td rowspan="3" valign="bottom"><a href="index.asp?page=DefaultPage"><img src="images/estarland_logo.gif" width="219" height="55" alt="eStarland, Home of the best trade in values on the planet! New &amp; used video games &amp; anime merchandise from worldwide." border="0"></a></td>
+      <td rowspan="3" valign="bottom"><a href="index.asp?page=DefaultPage"><img src="images/header_562x55_2_01.jpg" width="219" height="56" alt="eStarland, Home of the best trade in values on the planet! New &amp; used video games &amp; anime merchandise from worldwide." border="0"></a></td>
       <td rowspan="3" width="343">
         <table width="343" border="0" cellspacing="0" cellpadding="0">
           <tbody><tr>
-            <td><a href="index.asp?page=DefaultPage"><img src="images/top_header1.jpg" border="0" width="175" height="56"></a></td>
-            <td><a href="index.asp?page=DefaultPage"><img src="images/top_header2.jpg" border="0" width="168" height="56"></a></td>
+            <td><a href="/TradeIn.html"><img src="images/header_562x55_2_02.jpg" border="0" width="175" height="56"></a></td>
+            <td><a href="/TradeIn.html"><img src="images/header_562x55_2_03.jpg" border="0" width="168" height="56"></a></td>
           </tr>
         </tbody></table>
       </td>
@@ -142,7 +216,7 @@ eval("page" + id + " = window.open(URL, '" + id + "', 'toolbar=0,scrollbars=1,lo
                   <tbody><tr> 
                     <td width="8"><img src="images/pix.gif" width="8" height="26"></td>
                     <td width="139"> 
-                      <input type="text" name="search" size="17" value="" class="text1">
+                      <input type="text" name="search" id="searchInput" size="17" value="" class="text1 ui-autocomplete-input" autocomplete="off" role="textbox" aria-autocomplete="list" aria-haspopup="true">
                     </td>
                     <td width="122"> 
                       <select name="page" class="text1">
@@ -204,29 +278,23 @@ eval("page" + id + " = window.open(URL, '" + id + "', 'toolbar=0,scrollbars=1,lo
               <table width="138" border="0" cellspacing="0" cellpadding="0" bgcolor="#FFFFFF" height="80">
                 <tbody><tr> 
                   <td rowspan="3" bgcolor="#999999" width="1"><img src="images/pix.gif" width="1" height="10"></td>
-                  <td width="136"><img src="images/leftmenu_currentplatforms.gif" width="136" height="18" alt="Current Video Games"><br>
+                  <td width="136"><img src="images/leftmenu_currentplatforms1.gif" width="136" height="23" alt="Current Video Games"><br>
                     <img src="images/pix.gif" width="50" height="5"><br>
                     
+<a href="Playstation4.html" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('pl_PS4','','images/platforms/ps4hover.gif',1)">
+<img src="images/platforms/ps4.gif" width="136" height="19" name="pl_PS4" border="0" alt="Playstation 4"></a><br>
+
 <a href="Playstation3.html" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('pl_PS3','','images/platforms/leftmenu_platf_ps3_over.gif',1)">
-<img src="images/platforms/leftmenu_platf_ps3.gif" width="136" height="19" name="pl_PS3" border="0" alt="Playstation 3"></a><br>
+<img src="images/platforms/leftmenu_platf_ps3.gif" width="136" height="19" name="pl_PS3" border="0" alt="PlayStation 3"></a><br>
 
 <a href="PSVITA.html" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('pl_PSVita','','images/platforms/leftmenu_platf_vita_over.jpg',1)">
 <img src="images/platforms/leftmenu_platf_vita.jpg" width="136" height="19" name="pl_PSVita" border="0" alt="PlayStation Vita"></a><br>
 
-<a href="PSP.html" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('pl_PSP','','images/platforms/leftmenu_platf_psp_over_1_.jpg',1)">
-<img src="images/platforms/leftmenu_platf_psp_1_.gif" width="136" height="19" name="pl_PSP" border="0" alt="PSP"></a><br>
-
-<a href="Playstation2.html" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('pl_PS2','','images/platforms/leftmenu_platf_ps2_over.gif',1)">
-<img src="images/platforms/leftmenu_platf_ps2.gif" width="136" height="19" name="pl_PS2" border="0" alt="Playstation 2"></a><br>
-
-<a href="Playstation.html" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('pl_PS','','images/platforms/leftmenu_platf_ps_over.gif',1)">
-<img src="images/platforms/leftmenu_platf_ps.gif" width="136" height="19" name="pl_PS" border="0" alt="Playstation"></a><br>
+<a href="Xboxone.html" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('pl_XboxOne','','images/platforms/xb1hover.gif',1)">
+<img src="images/platforms/xb1.gif" width="136" height="19" name="pl_XboxOne" border="0" alt="Xbox One"></a><br>
 
 <a href="Xbox360.html" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('pl_Xbox360','','images/platforms/leftmenu_platf_xbox_over.gif',1)">
 <img src="images/platforms/leftmenu_platf_xbox.gif" width="136" height="19" name="pl_Xbox360" border="0" alt="Xbox 360"></a><br>
-
-<a href="XBox.html" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('pl_XBox','','images/platforms/xover.gif',1)">
-<img src="images/platforms/x.gif" width="136" height="19" name="pl_XBox" border="0" alt="XBox"></a><br>
 
 <a href="NintendoWiiU.html" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('pl_WiiU','','images/platforms/wiiu_currentplatforms_button_selected.gif',1)">
 <img src="images/platforms/wiiu_currentplatforms_button.gif" width="136" height="19" name="pl_WiiU" border="0" alt="Nintendo Wii U"></a><br>
@@ -245,9 +313,31 @@ eval("page" + id + " = window.open(URL, '" + id + "', 'toolbar=0,scrollbars=1,lo
                 </tr>
                 <tr> 
                   <td width="136">
-                    <img src="images/leftmenu_classicplatforms.gif" width="136" height="19" alt="Classic Video Games"><br>
+                    <img src="images/leftmenu_classicplatforms1.gif" width="136" height="23" alt="Classic Video Games"><br>
                     
                     <img src="images/pix.gif" width="10" height="5"><br>
+				<div onmouseout="HideDiv('Sony')" onmouseover="ShowDiv('Sony', 'platform6121')">
+					<a href="#" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('platform6121','','images/leftmenu_platf_sony_over.gif',1)"><img src="images/leftmenu_platf_sony.gif" width="136" height="20" name="platform6121" id="platform6121" border="0" alt="Sony"></a><br>
+					<div id="Sony" style="position: absolute; z-index: 10000; visibility: hidden;">
+						<table cellspacing="0" cellpadding="1" bgcolor="#e5e5e5" style="border-style: solid; border-width: 1px; border-color: #000000;">
+							
+<tbody><tr><td width="10"></td><td><a href="PSP.html" class="SideMenu">PSP</a></td><td width="10"></td></tr><tr></tr>
+<tr><td width="10"></td><td><a href="Playstation2.html" class="SideMenu">PlayStation 2</a></td><td width="10"></td></tr><tr></tr>
+<tr><td width="10"></td><td><a href="Playstation.html" class="SideMenu">PlayStation</a></td><td width="10"></td></tr><tr></tr>
+
+						</tbody></table>
+					</div>
+				</div>
+				<div onmouseout="HideDiv('Microsoft')" onmouseover="ShowDiv('Microsoft', 'platform6122')">
+					<a href="#" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('platform6122','','images/leftmenu_platf_micr_over.gif',1)"><img src="images/leftmenu_platf_micr.gif" width="136" height="20" name="platform6122" id="platform6122" border="0" alt="Microsoft"></a><br>
+					<div id="Microsoft" style="position: absolute; z-index: 10000; visibility: hidden;">
+						<table cellspacing="0" cellpadding="1" bgcolor="#e5e5e5" style="border-style: solid; border-width: 1px; border-color: #000000;">
+							
+<tbody><tr><td width="10"></td><td><a href="XBox.html" class="SideMenu">XBox</a></td><td width="10"></td></tr><tr></tr>
+
+						</tbody></table>
+					</div>
+				</div>
                     <div onmouseout="HideDiv('Nintendo')" onmouseover="ShowDiv('Nintendo', 'platform612')">
                     <a href="#" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('plaform612','','images/leftmenu_platf_nint_over.gif',1)"><img src="images/leftmenu_platf_nint.gif" width="136" height="20" name="plaform612" id="platform612" border="0" alt="Nintendo"></a><br>
 		  <div id="Nintendo" style="position:absolute; z-index:10000; visibility:hidden;">
@@ -289,10 +379,11 @@ eval("page" + id + " = window.open(URL, '" + id + "', 'toolbar=0,scrollbars=1,lo
 <tr><td width="10"></td><td><a href="Atari7800.html" class="SideMenu">Atari 7800</a></td><td width="10"></td></tr><tr></tr>
 <tr><td width="10"></td><td><a href="LYNX.html" class="SideMenu">Atari LYNX</a></td><td width="10"></td></tr><tr></tr>
 <tr><td width="10"></td><td><a href="AtariJaguar.html" class="SideMenu">Atari Jaguar</a></td><td width="10"></td></tr><tr></tr>
-<tr><td width="10"></td><td><a href="TurboGrafx.html" class="SideMenu">Turbo Grafx 16</a></td><td width="10"></td></tr><tr></tr>
+<tr><td width="10"></td><td><a href="colecovision.html" class="SideMenu">ColecoVision</a></td><td width="10"></td></tr><tr></tr>
 <tr><td width="10"></td><td><a href="NeoGeo.html" class="SideMenu">Neo Geo</a></td><td width="10"></td></tr><tr></tr>
 <tr><td width="10"></td><td><a href="NeoGeoCD.html" class="SideMenu">Neo Geo CD</a></td><td width="10"></td></tr><tr></tr>
 <tr><td width="10"></td><td><a href="NeoGeoPocket.html" class="SideMenu">Neo Geo Pocket</a></td><td width="10"></td></tr><tr></tr>
+<tr><td width="10"></td><td><a href="TurboGrafx.html" class="SideMenu">Turbo Grafx 16</a></td><td width="10"></td></tr><tr></tr>
 
 			</tbody></table>
 		  </div></div>
@@ -301,7 +392,7 @@ eval("page" + id + " = window.open(URL, '" + id + "', 'toolbar=0,scrollbars=1,lo
                 <tr> 
                   <td width="136"> <div align="center">
 
-                    <a href="index.asp?page=Anime"><img src="images/leftmenu_merch.gif" width="136" height="18" alt="Anime Merchandise" border="0"></a><br>
+                    <a href="index.asp?page=Anime"><img src="images/leftmenu_merch1.gif" width="136" height="23" alt="Anime Merchandise" border="0"></a><br>
 
 <table width="136" border="0" cellspacing="0" cellpadding="1">
 <tbody><tr><td width="15" valign="top"><img src="images/bullet_subcat.gif" width="8" height="6" hspace="2" vspace="4"></td><td width="117" class="text2Bold"><a href="ToysFigures%5FPreorder.html">Toys &amp; Figures (Preorder)</a></td></tr>
@@ -318,7 +409,8 @@ eval("page" + id + " = window.open(URL, '" + id + "', 'toolbar=0,scrollbars=1,lo
 <tbody><tr>
 <td><img src="images/pix.gif" width="30" height="4"></td>
 </tr>
-           
+
+   
 <tr>              
                 <td> 
                   <!-- BEGIN LivePerson Button Code -->
@@ -332,7 +424,7 @@ eval("page" + id + " = window.open(URL, '" + id + "', 'toolbar=0,scrollbars=1,lo
                 </tr>
 
                 <tr> 
-                  <td colspan="2"><img src="images/leftmenu_quicklinks.gif" width="137" height="18"></td>
+                  <td colspan="2"><img src="images/leftmenu_quicklinks1.gif" width="137" height="23"></td>
                   <td bgcolor="#999999" width="1"><img src="images/pix.gif" height="10" width="1"></td>
                 </tr>
 <tr>
@@ -341,19 +433,15 @@ eval("page" + id + " = window.open(URL, '" + id + "', 'toolbar=0,scrollbars=1,lo
      <div style="padding:5px">
         <li><a href="/index.asp?page=NewsSubscription" class="text2">Newsletter 
         Signup</a><br>
-        </li><li><a href="/index.asp?page=Account" class="text2">My Accounts</a><br>
-        </li><li><a href="/index.asp?page=ShopCart" class="text2">My Cart</a><br>
-        </li><li><a href="/PriceDrops.search..spage.1.html" class="text2">Recent 
-        Price Drops</a><br>
         </li><li><a href="/search.search.gift%2Bcertificate.html" class="text2">Gift 
         Certificate</a><br>
-        </li><li><a href="/index.asp?page=Services" class="text2">CD Repairs</a><br>
-        </li><li><a href="/Wholesale-Video-Games.html" class="text2bold">Wholesale</a><br>       
-        </li><li><a href="/Affiliates.html" class="text2bold">Affiliates</a><br>  
+        </li><li><a href="/Wholesale-Video-Games.html" class="text2bold">Wholesale</a><br>        
 <p align="center">
+<a href="http://www.estarland.com/gamersXchange.html" border="0"> <img src="images/gxcsiteimg_121x111_.jpg" alt="gamersXchange, a marketplace by gamers" border="0"></a>
+
+<a href="/Search.search.june2013.html"><img src="/images/nafp_121x230_.jpg" border="0" alt="New Anime and Game Merchandise avaliable for preorder"></a>
 <img src="images/estarland_seal.jpg" alt="eStarland.com 100% Satisfaction Guarantee">
-</p>
-</li></div></td>
+</p></li></div></td>
 <td bgcolor="#999999" width="1"> <img src="images/pix.gif" height="10" width="1"> </td>
 
   </tr>
@@ -405,74 +493,108 @@ Privacy Statement</font></b><font size="2" face="Verdana, Arial, Helvetica, sans
 
   <table width="765" border="0" cellspacing="0" cellpadding="0">
     <tbody><tr> 
-      <td> 
-        <div align="center"><img src="images/pix.gif" width="100" height="5"></div>
-      </td>
-    </tr>
-    <tr> 
-      <td bgcolor="#FF6600"> 
-        <div align="center"><img src="images/pix.gif" width="100" height="16"></div>
-      </td>
-    </tr>
+         </tr>
     <tr> 
       <td> <div align="Left"> <p>
-      <a href="http://www.orkut.com/Main#Community?cmm=101440658">
+      <a href="https://www.facebook.com/CertifiedGamers">
 </a><table border="0" cellspacing="0" cellpadding="0" width="765" align="left">
 <tbody>
 <tr>
 <td>
-<table border="1" cellspacing="0" bordercolor="#cccccc" cellpadding="0" width="765">
+<table border="0" cellspacing="0" bordercolor="#000000" cellpadding="0" width="765">
 <tbody>
 <tr>
 <td height="104" valign="top" align="left">
-<table border="0" cellspacing="0" cellpadding="0" width="764">
+<table border="0" cellspacing="0" cellpadding="0" width="764" background="" align="left">
 <tbody>
 <tr>
-<td bgcolor="#cccccc" height="25" width="254"><span class="text0bold"><b>&nbsp;&nbsp;&nbsp;Order Related</b></span></td>
-<td height="25" width="1"></td>
-<td bgcolor="#cccccc" height="25" width="254"><span class="text0bold"><b>&nbsp;&nbsp;&nbsp;Shipping / Returns</b></span></td>
-<td height="25" width="1"></td>
-<td bgcolor="#cccccc" height="25" width="254"><span class="text0bold"><b>&nbsp;&nbsp;&nbsp;Site Policy / Site Map</b></span></td></tr>
-<tr>
-<td height="106" valign="bottom" width="244">
-<ul><span class="Text0">
-<li><a href="javascript:popUp('/index.asp?page=Help&amp;section=Shipping#PackageTracking')">Track Your Order</a> 
-</li><li><a href="javascript:popUp('/index.asp?page=Help&amp;section=FAQ')">Problems with Your Order </a>
-</li><li><a href="javascript:popUp('/index.asp?page=Help&amp;section=Tradein#start')">Trade-Ins </a>
-</li><li><a href="javascript:popUp('/index.asp?page=ContactUs')">Contact Us</a> </li></span></ul></td>
-<td height="106" valign="top" width="1" align="left"></td>
-<td height="106" valign="bottom" width="265">
+<td bgcolor="#999999" width="1"></td>
+<td bgcolor="#9099b3" height="25" width="203">
+<p align="center"><font color="#ffffff" size="2" face="arial, helvetica, sans-serif"><strong>Order Related</strong></font></p></td>
+<td height="25" width="1"><font size="2" face="arial, helvetica, sans-serif"></font></td>
+<td bgcolor="#9099b3" height="25" width="203">
+<p align="center"><font color="#ffffff" size="2" face="arial, helvetica, sans-serif"><strong>Shipping / Returns</strong></font></p></td>
+<td height="25" width="1"><font size="2" face="arial, helvetica, sans-serif"></font></td>
+<td bgcolor="#9099b3" height="25" width="203" border="1">
+<p align="center"><font color="#ffffff" size="2" face="arial, helvetica, sans-serif"><strong>Site Policy / Site Map</strong></font></p></td>
+<td height="25" width="1"><font size="2" face="arial, helvetica, sans-serif"></font></td>
+<td bgcolor="#9099b3" height="25" width="151" border="1">
+<p align="center"><font color="#ffffff"><strong><font size="2" face="arial, helvetica, sans-serif">Follow Us</font> </strong></font></p></td>
+<td bgcolor="#999999" width="1"></td></tr>
+<tr height="10" bgcolor="#f4f4f4">
+<td bgcolor="#999999" width="1"></td>
+<td height="10" width="203"></td>
+<td height="10" width="1"><font class="text1"></font></td>
+<td height="10"><font class="text1"></font></td>
+<td height="10" width="1"><font class="text1"></font></td>
+<td height="10" width="203"><font class="text1"></font></td>
+<td height="10" width="1"><font class="text1"></font></td>
+<td height="10" width="151"><font class="text1"></font></td>
+<td bgcolor="#999999" width="1"></td></tr>
+<tr bgcolor="#f4f4f4">
+<td bgcolor="#999999" width="1"></td>
+<td valign="top"><span class="Text0">
+<ul>
+<li><a href="javascript:popUp('/index.asp?page=Help&amp;section=Shipping#PackageTracking')"><font class="text1">Track Your Order </font></a>
+</li><li>
+<div align="left"><a href="javascript:popUp('/index.asp?page=Help&amp;section=FAQ')"><font class="text1">Problems </font></a></div>
+</li><li>
+<div align="left"><a href="javascript:popUp('/index.asp?page=Help&amp;section=Tradein#start')"><font class="text1">Trade-Ins </font></a></div>
+</li><li>
+<div align="left"><a href="javascript:popUp('/index.asp?page=ContactUs')"><font class="text1">Contact Us </font></a></div></li></ul></span></td>
+<td height="25" width="1"><font class="text1"></font></td>
+<td valign="top"><span class="text0">
+<ul>
+<li><a href="javascript:popUp('/index.asp?page=Help&amp;section=Shipping#DomesticShipping')"><font class="text1">Shipping Options</font></a><font class="text1"></font> 
+</li><li>
+<div align="left"><a href="javascript:popUp('/index.asp?page=Help&amp;section=Shipping#DeliveryTime')"><font class="text1">Estimated Delivery Time </font></a></div>
+</li><li>
+<div align="left"><a href="javascript:popUp('/index.asp?page=Help&amp;section=Ordering#ReturnPolicy')"><font class="text1">Return &amp; Exchange</font></a></div>
+</li><li>
+<div align="left"><a href="javascript:popUp('/index.asp?page=Help&amp;section=Preowned#Guarantee')"><font class="text1">Product Warranty</font></a></div></li></ul></span></td>
+<td height="25" width="1"><font class="text1"></font></td>
+<td valign="top">
 <ul><span class="text0">
-<li><a href="javascript:popUp('/index.asp?page=Help&amp;section=Shipping#DomesticShipping')">Shipping Options</a> 
-</li><li><a href="javascript:popUp('/index.asp?page=Help&amp;section=Shipping#DeliveryTime')">Estimated Delivery Time</a> 
-</li><li><a href="javascript:popUp('/index.asp?page=Help&amp;section=Ordering#ReturnPolicy')">Product Return &amp; Exchange</a> 
-</li><li><a href="javascript:popUp('/index.asp?page=Help&amp;section=Preowned#Guarantee')">Product Warranty</a> </li></span></ul></td>
-<td height="106" valign="top" width="1" align="left"></td>
-<td height="106" valign="bottom" width="240">
-<ul><span class="text0">
-<li><a href="/index.asp?page=PrivacyPolicy" target="_blank">Privacy Policy </a>
-</li><li><a href="/index.asp?page=PrivacyPolicy&amp;section=#SecurityPolicy" target="_blank">Site Security</a> 
-</li><li><a href="/index.asp?page=TermsOfUse" target="_blank">Terms of Use</a> 
-</li><li><a href="/index.asp?page=SiteMap">Site Map</a> </li></span></ul></td></tr></tbody></table></td></tr></tbody></table>
-<p align="center"><font class="text0">Follow us on </font><a href="http://www.twitter.com/estarland"><font class="text0">Twitter</font></a><font class="text0">, </font><a href="http://www.facebook.com/estarland"><font class="text0">Facebook</font></a><font class="text0">,</font><font class="text0"> </font><a href="http://www.orkut.com/Main#Community?cmm=101440658"><font class="text0">Orkut</font></a><font class="text0">, and </font><a href="http://estarland.blogspot.com"><font class="text0">Blogspot</font></a> <br><br><a href="http://www.twitter.com/estarland"><img border="0" src="/images//System/twit.jpg"></a><a href="http://www.facebook.com/estarland"><img border="0" src="/images//System/fb.jpg"></a><a href="http://www.myspace.com/estarland"></a><a href="http://www.orkut.com/Main#Community?cmm=101440658"><img border="0" src="/images//System/orkut.jpg"></a><a href="http://estarland.blogspot.com"><img border="0" src="/images//System/blogger.jpg"></a><br></p></td></tr><tr>
+<li>
+<div align="left"><a href="/index.asp?page=PrivacyPolicy" target="_blank"><font class="text1">Privacy Policy </font></a></div>
+</li><li>
+<div align="left"><a href="/index.asp?page=PrivacyPolicy&amp;section=#SecurityPolicy" target="_blank"><font class="text1">Site Security </font></a></div>
+</li><li>
+<div align="left"><a href="/index.asp?page=TermsOfUse" target="_blank"><font class="text1">Terms of Use </font></a></div>
+</li><li>
+<div align="left"><a href="/index.asp?page=SiteMap"><font class="text1">Site Map</font> </a></div></li></span></ul></td>
+<td height="25" width="1"></td>
+<td>
+<p align="center"><a href="http://www.twitter.com/estarland"><img border="0" src="/images//System/twit.jpg" width="35" height="35"></a><a href="http://www.facebook.com/estarland"><img border="0" src="/images//System/fb.jpg" width="35" height="35"></a><a href="http://www.orkut.com/Main#Community?cmm=101440658"><img border="0" src="/images//System/orkut.jpg" width="35" height="35"></a><a href="http://estarland.blogspot.com/"><img border="0" src="/images//System/blogger.jpg" width="35" height="35"></a><font class="text1"><strong></strong></font></p>
+<p align="center"><font class="text1" color="#666666"><font color="#666666">For information on joining our Affiliates Program,&nbsp;&nbsp; </font></font><a href="/index.asp?page=Affiliates"><font class="text1">click here.</font></a><br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </p></td>
+<td bgcolor="#999999" width="1"></td></tr>
+<tr height="1">
+<td bgcolor="#999999" height="1" width="1"></td>
+<td bgcolor="#999999" height="1" width="203"></td>
+<td bgcolor="#999999" height="1" width="1"><font class="text1"></font></td>
+<td bgcolor="#999999" height="1"><font class="text1"></font></td>
+<td bgcolor="#999999" height="1" width="1"><font class="text1"></font></td>
+<td bgcolor="#999999" height="1" width="203"><font class="text1"></font></td>
+<td bgcolor="#999999" height="1" width="1"><font class="text1"></font></td>
+<td bgcolor="#999999" height="1" width="151"><font class="text1"></font></td>
+<td bgcolor="#999999" height="1" width="1"></td></tr></tbody></table></td></tr></tbody></table></td></tr><tr>
 <td><span class="text0Bold">
-<div align="center"><br>For information on joining our Affiliates Program, <a href="index.asp?page=Affiliates">click here</a>. <br><br></div>
 <div align="center">
 <table border="0" cellspacing="0" cellpadding="0" width="759">
 <tbody>
 <tr valign="top">
-<td width="250" align="left"><img src="/images/logos_1.gif" width="250" height="46"></td>
-<td width="294" align="middle"><span class="text1Bold">eStarland.com</span>&nbsp;<br><span class="text1"><a href="index.asp?page=About">About</a> | <a href="index.asp?page=StoreLocations">Store Locations</a> | <a href="index.asp?page=employment">Employment</a> </span><br><span class="text1">Copyright © 2003-2012 Connected Wire Inc 
-<div></div></span></td>
-<td width="215" align="left"><img src="/images/logos_2.gif" width="216" height="46"></td></tr></tbody></table></div></span></td></tr></tbody></table>        
+<td width="111" align="left">
+<p><br><img alt="estarland.com" src="images/estarlandlogo2.gif" width="111" height="28"> </p></td>
+<td width="290" align="middle"><span class="text1">
+<p align="left"><br><span class="text1">&nbsp;&nbsp;&nbsp; <a href="/index.asp?page=About">About</a> | <a href="/index.asp?page=StoreLocations">Store Locations</a> | <a href="/index.asp?page=employment">Employment</a> </span><br><span class="text1">&nbsp;&nbsp;&nbsp; <font color="#666666">Copyright © 2003-2013 Connected Wire Inc </font></span></p></span></td>
+<td width="153" align="left">
+<p align="center"><a href="https://www.facebook.com/CertifiedGamers"><img border="o" alt="certified gamers" src="/images/cgmofcg_153x70_.gif" width="138" height="63"></a></p></td>
+<td width="205" align="left"><img src="/images/logos_2.gif" width="164" height="35"><img src="/images/logos_1.gif" width="190" height="35"> 
+<p></p></td></tr></tbody></table></div></span></td></tr></tbody></table>        
       </p></div></td> 
     </tr>
     <tr> 
-      <td bgcolor="#333366"> 
-        <div align="center"><img src="images/pix.gif" width="100" height="10"></div>
-
-      </td>
-    </tr>
+            </tr>
   </tbody></table>
 </td>
 <td width="10"><img src="images/pix.gif" width="1" height="1"><img src="images/pix.gif" width="10" height="10"></td>
@@ -500,4 +622,4 @@ Privacy Statement</font></b><font size="2" face="Verdana, Arial, Helvetica, sans
 
 
 
-</body></html>
+<ul class="ui-autocomplete ui-menu ui-widget ui-widget-content ui-corner-all" role="listbox" aria-activedescendant="ui-active-menuitem" style="z-index: 1; top: 0px; left: 0px; display: none;"></ul></body></html>
