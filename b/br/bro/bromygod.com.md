@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bromygod.com privacy policy that was archived on 2012-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121118071802id_/http%3A//www.bromygod.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bromygod.com privacy policy that was archived on 2013-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130621083626id_/http%3A//www.bromygod.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Bro My God | Probably the most Bro site out there. Hot Chicks, Booze, Cars, and Anything Funny
 
@@ -63,3 +63,27 @@ Our Website provides links and pointers to various websites maintained by other 
 **Contact**
 
 If you have any questions about this Privacy Policy, the practices of our Website or your dealings with our Website, please contact us.
+
+**Copyright Information**  
+All images on BroMyGod.com are readily available in various places on the Internet and believed to be in public domain. Images posted are believed to be posted within our rights according to the U.S. Copyright Fair Use Act (title 17, U.S. Code.)  
+If you believe that any content appearing on BroMyGod.com infringes on your copyright, please let us know. E-Mail info[at]bromygod[dot]com  
+following information to us and the infringing material will be removed as soon as possible.  
+(a) your name, address, telephone number, and e-mail address;  
+(b) a description of the copyrighted work that you claim has been infringed;  
+(c) the exact URL or a description of each place where alleged infringing material is located;  
+(d) a statement by you that you have a good faith belief that the disputed use has not been authorized by you, your agent, or the law;  
+(e) your electronic or physical signature or the electronic or physical signature of the person authorized to act on your behalf; and  
+(f) a statement by you made under penalty of perjury, that the information in your notice is accurate, that you are the copyright owner or authorized to act on the copyright owner’s behalf  
+Please also note that under Section 512(f) of the Copyright Act any person who knowingly materially misrepresents that material or activity is infringing may be subject to liability.
+
+Boombox Media Group LLC has the right to edit and/or alter any submission. Boombox Media Group LLC reserves the right not to use the submission at all and/or to use as much or as little of the submission as it chooses.
+
+**Terms of Submitting photos:**
+
+All photos Boombox Media Group LLC deems boring, stupid, redundant, unoriginal, and not funny, we reserve the right to blow them up in in the next Michael Bay movie or put them in our wall of shame in the office.
+
+By submitting your videos/photos, for good and valuable consideration, the sufficiency and receipt of which you hereby acknowledge, you hereby grant to Boombox Media Group LLCa non-exclusive, perpetual, worldwide license to edit, telecast, rerun, reproduce, use, syndicate, license, print, distribute and otherwise exploit the materials you submit, or any portion thereof, as incorporated in any of Boombox Media Group LLCs programming or the promotion thereof, in any manner and in any medium or forum, whether now known or hereafter devised, without making payment to you or any third party. You represent and warrant to Boombox Media Group LLC that you have the full legal right, power and authority to grant to Boombox Media Group LLC the license provided for herein, that you own or control the complete exhibition and other rights to the materials you submitted for the purposes contemplated in this license and that neither the materials nor the exercise of the rights granted herein shall infringe upon or violate the right of privacy or right of publicity of, or constitute a libel or slander against, or violate any common law or any other right of, any person or entity. You agree to indemnify, defend and hold harmless Boombox Media Group LLC, its parent and affiliated companies, its and their licensees, successors and assigns, and each of its and their officers, agents and employees from all liabilities or losses, including, without limitation, reasonable attorneys’ fees, arising out of or related Boombox Media Group LLC’s exercise of the rights granted herein. This license shall be governed by the laws of the State of California.
+
+Anyone submitting photos to Us also agrees to name their first born born child, Rico Suave. If you stop reproducing after the first child, you must agree to acquire a Lion from Africa and name it Juicy Juice. If you are unwilling to do so you must agree to change your name to BroMyGod.
+
+Boombox Media Group LLC not only owns the rights to any photos you upload, but also owns the rights to your mom and quite possibly your sister. Should We wish to exercise this option, you agree to surrender your mom and or sister, and any claim you or your family may have on her, within 5 (five) working days of receiving written notification from Boombox Media Group LLC. In the event your dad or your mom’s parent(s) intervene and claim joint-ownership of your mom, Boombox Media Group LLC reserves the right to bitch slap them and give all parties Justin Beiber haircuts. If, upon receiving your mom, she attempts to leave BroMyGod’s kitchen, where she belongs, she too will be given a Justin Beiber haircut and be asked to make us all sandwiches. If you have read all of this you are awesome and you now owe Boombox Media Group LLC 100 dollars and a beer.
