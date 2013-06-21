@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the smartsheet.com privacy policy that was archived on 2012-10-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121025123256id_/http%3A//www.smartsheet.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the smartsheet.com privacy policy that was archived on 2013-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130621112508id_/http%3A//www.smartsheet.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Smartsheet
 
@@ -118,4 +118,4 @@ We may update this privacy statement to reflect changes to our information pract
 
 ## Contact Information
 
-Questions regarding this Policy or the practices of this Site should be directed to Smartsheet.com's Security Administrator by [online submittal](http://www.smartsheet.com/contact) or by regular mail addressed to Smartsheet.com, Inc., Attn: Security Administrator, 10500 NE 8th St. Suite 1550, Bellevue WA 98004.
+Questions regarding this Policy or the practices of this Site should be directed to Smartsheet.com's Security Administrator by [online submittal](http://www.smartsheet.com/contact) or by regular mail addressed to Smartsheet.com, Inc., Attn: Security Administrator, 10500 NE 8th St. Suite 2000, Bellevue WA 98004.
