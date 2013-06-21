@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the push-analytics.com privacy policy that was archived on 2012-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120626070543id_/http%3A//www.fearzone.com/static/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the push-analytics.com privacy policy that was archived on 2013-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130621044956id_/http%3A//www.fearzone.com/static/privacy-policy) for the most accurate reproduction.*
 
 # FearZone.com
 
