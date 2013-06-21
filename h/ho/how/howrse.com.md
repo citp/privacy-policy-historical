@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the howrse.com privacy policy that was archived on 2012-10-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121017033917id_/http%3A//www.howrse.com/footer/privacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the howrse.com privacy policy that was archived on 2013-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130621110029id_/http%3A//www.howrse.com/footer/privacyPolicy) for the most accurate reproduction.*
 
 # Privacy policy
 
@@ -96,7 +96,7 @@ In order to exercise these rights, you may write to the following addresses:
   
 
 
-  * \- By e-mail: contact@howrse.com 
+  * \- By form: <http://www.howrse.com/support>
   * \- By mail: Owlient, 26-28, rue de Chambéry – 75015 Paris (France) 
 
   
@@ -137,7 +137,7 @@ You are advised that this Privacy Policy is intended to meet the laws and regula
 
 **Contact us**
 
-If you have any questions or concerns about this Privacy Policy or its implementation, you may contact us via e-mail at contact@howrse.com or by mail at Owlient, 26-28, rue de Chambéry – 75015 Paris (France). 
+If you have any questions or concerns about this Privacy Policy or its implementation, you may contact us by mail at Owlient, 26-28, rue de Chambéry – 75015 Paris (France). 
 
   
 
