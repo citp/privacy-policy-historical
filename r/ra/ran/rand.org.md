@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rand.org privacy policy that was archived on 2012-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121014153136id_/http%3A//www.rand.org/site_info/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rand.org privacy policy that was archived on 2013-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130621100511id_/http%3A//www.rand.org/site_info/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy | RAND
 
@@ -31,7 +31,7 @@ Credit card numbers are used for processing of orders only and are not given to 
 
 As a general rule, RAND uses personal information only for the purpose for which it was submitted. At the time of collection, RAND may ask whether you will permit RAND to use your personal information in other ways. For example, RAND may ask you whether you would like to receive certain information and email from RAND or its service partners, or if you wish to participate in demographic surveys. Unless you specifically consent to such use, RAND will use your information only for the purpose for which it was submitted.
 
-RAND will not send you unsolicited information, commercial offers, or advertisements, including email, without your consent. If at any time you would like to be removed from our physical mailing list (e.g., to receive printed catalogs), please send an email message to [order@rand.org](mailto:order@rand.org), or write to RAND Distribution Services at the address below. To be removed from ALL email mailing list, please send an email message to [maillist@rand.org](mailto:maillist@rand.org) with "unsubscribe" in the subject line or message.
+RAND will not send you unsolicited information, commercial offers, or advertisements, including email, without your consent. If at any time you would like to be removed from our physical mailing list (e.g., to receive printed catalogs), please send an email message to [order@rand.org](mailto:order@rand.org), or write to RAND Distribution Services at the address below. To unsubscribe from an email mailing list, login to your [My RAND account](https://web.archive.org/profile.html#email-subscriptions) using the email address at which you receive RAND newsletters. You will then be able to manage your current subscriptions.
 
 If RAND decides to change its privacy policy, we will post those changes on this page so that our users are always aware of what information we collect, how we use it, and the circumstances, if any, under which we disclose it. If at any point RAND decides to use personal information in a manner different from that stated at the time it was collected, we will notify users by email. Users will have a choice as to whether or not RAND uses their information in this different manner. RAND will use information in accordance with the privacy policy under which the information was collected. 
 
@@ -55,13 +55,11 @@ If you have any questions about this privacy statement, terms of use for this si
 
 Generally, RAND uses your personal information to operate the site and to deliver our services. For example, if you place an order for a RAND publication, RAND will ask for personal information needed to process your order, such as your address. RAND may provide other companies access to your personal information so that they can provide routine services, such as credit card processing or shipping your order(s).
 
-RAND may use your email address to respond to incoming service requests from you. We may also provide you, on occasion, with information about new products or special offers that may interest you. For information about being removed from the RAND mailing list(s), please see the principle regarding [](https://web.archive.org/site_info.html#choice)CHOICE.
+RAND may use your email address to respond to incoming service requests from you. We may also provide you, on occasion, with information about new products or special offers that may interest you. For information about being removed from the RAND mailing list(s), please see the principle regarding CHOICE.
 
 ### How does RAND use the demographic data you may provide?
 
 RAND may request demographic information or profile data when registering for an account, in online surveys or questionnaires. Provision of this information is strictly voluntary and is used to tailor our products or services to better meet the needs of those visiting our site. This demographic information is not shared with third parties except as required by law. From time to time, RAND may also collect demographic data as a component of our research undertakings. However, we will not gather such data without your knowledge or consent.
-
-### Does RAND share personal information with other companies?
 
 RAND does not share your personal information except with partners who assist in providing services or products associated with the RAND sites. Without this relationship, RAND could not provide its service to you. Under their agreements with us, these third-party partners may not retain, share, store, or use personal information for any secondary purposes.
 
@@ -75,18 +73,16 @@ This site contains links to other sites. RAND will take every reasonable step to
 
 ### What about cookies and non-personally identifiable information?
 
-When visitors come to our site, we collect and aggregate information indicating, among other things, which web pages were visited, the order in which they were visited, and which hyperlinks, if any, were "clicked" by the visitor. Collecting such information involves the logging of IP addresses, operating system (e.g., Windows or Macintosh), type of browser software (e.g., Netscape Navigator or Internet Explorer), and Internet Service Providers (e.g., AOL or EarthLink) used by each visitor to the site. Although such information is not personally identifiable, it can be used to determine the IP address of the visitor's Internet Service Provider and the geographic location of his or her point of connectivity to the Internet.
+When visitors come to our site, we collect and aggregate information indicating, among other things, which web pages were visited, the order in which they were visited, and which hyperlinks, if any, were "clicked" by the visitor. Collecting such information involves the logging of IP addresses, operating system (e.g., Windows or Macintosh), type of browser software (e.g., Netscape Navigator or Internet Explorer), and Internet Service Providers (e.g., AOL or Verizon) used by each visitor to the site. Although such information is not personally identifiable, it can be used to determine the IP address of the visitor's Internet Service Provider and the geographic location of his or her point of connectivity to the Internet.
 
 Cookies are small bits of information that our site places on the hard drive of your computer. The site may require you to enable cookies to utilize all of our services. The cookie itself does not contain any personally identifiable information about a visitor, and RAND does not use cookies in order to obtain such information. RAND will never save credit card information in cookies. Cookies are used by most major sites of the Internet.
 
 RAND uses non-personally identifiable information and information obtained through the use of cookies in order to improve the site. By tracking how many people visit our site and where visitors go on our site, we are able to determine which parts of the site users like the best, which parts need some improvement, and what changes should be made. By obtaining this information, we are able to continually improve our site and bring you the best online experience possible.
 
+Likewise, use of the RAND mobile app involves tracking of non-personally identifiable information to understand activity, measure impact, and make informed decisions about how to improve the experience.
+
 ### How can you contact us about this website?
 
 If you have any questions about this privacy statement, the practices of RAND, or your experience with this website, please contact [feedback](https://web.archive.org/about/feedback.html), call (310) 393-0411, or write to RAND, 1776 Main Street, P.O. Box 2138, Santa Monica, CA 90407-2138.
 
-##### [About this Site](https://web.archive.org/site_info.html)
-
-##### [About RAND](https://web.archive.org/about.html)
-
-_Revised July 29, 2010_
+_Revised February 5, 2013_
