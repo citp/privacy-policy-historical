@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nysed.gov privacy policy that was archived on 2012-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121230192453id_/http%3A//usny.nysed.gov/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nysed.gov privacy policy that was archived on 2013-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130621032651id_/http%3A//usny.nysed.gov/privacy.html) for the most accurate reproduction.*
 
 # NYSED::Privacy Policy
 
@@ -200,7 +200,7 @@ If you have questions about the SED Website privacy statement or this Website, p
 
 You can also write SED at:
 
-> David Walsh  
+> Benny Thottam   
 >  Chief Information Officer  
->  State Education Department - Room 121 EB  
+>  State Education Department - Room 573 EBA  
 >  Washington Avenue, Albany, New York 12234
