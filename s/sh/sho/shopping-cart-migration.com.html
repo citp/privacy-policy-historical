@@ -1,38 +1,38 @@
-<!--The following is the downloaded HTML source of the shopping-cart-migration.com privacy policy that was archived on 2012-11-30.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121130232114id_/http%3A//www.shopping-cart-migration.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the shopping-cart-migration.com privacy policy that was archived on 2013-06-21.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130621045408id_/http%3A//www.shopping-cart-migration.com/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-gb" lang="en-gb"><head>
+<script type="text/javascript" async="" src="https://mc.yandex.ru/metrika/watch.js"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script>
+  // <![CDATA[
+_udn = "shopping-cart-migration.com"
+   // ]]>
+</script>
+
   <title>Privacy Policy</title>
-  <meta name="description" content="Cart2Cart Privacy Policy">
+  <meta name="description" content="Cart2Cart provides the highest level of privacy security. Read Privacy Policy and ensure that your personal data is secured.">
   <meta http-equiv="content-type" content="text/html; charset=utf-8">
   <meta name="keywords" content="cart2cart privacy, cart2cart policy">
   <meta name="title" content="Privacy Policy">
   <meta name="author" content="Administrator">
   <base href="http://www.shopping-cart-migration.com/">
   <link href="/favicon.ico" rel="shortcut icon" type="image/x-icon">
-  <link rel="stylesheet" href="/templates/system/css/system.css" type="text/css" media="screen">
-  <link rel="stylesheet" href="/templates/system/css/general.css" type="text/css" media="screen">
-  <link rel="stylesheet" href="/templates/jclean/js/fancybox/jquery.fancybox-1.3.4.css" type="text/css" media="screen">
-  <link rel="stylesheet" href="/templates/jclean/css/style.css" type="text/css" media="screen">
-  <link rel="stylesheet" href="http://www.shopping-cart-migration.com/modules/mod_superfishmenu/tmpl/css/superfish.css" type="text/css">
-  <link rel="stylesheet" href="http://www.shopping-cart-migration.com/modules/mod_superfishmenu/tmpl/css/superfish-navbar.css" type="text/css">
-  <script type="text/javascript" async="" src="https://mc.yandex.ru/metrika/watch.js"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1/jquery.min.js"></script>
+  <link rel="stylesheet" href="/templates/jclean/css/style.css?ver=1371754216" type="text/css" media="screen">
 
-<meta name="netinsert" content="0.0.1.3.1.6.1">
+<meta name="netinsert" content="0.0.1.3.1.6.1">   
 <meta name="SKYPE_TOOLBAR" content="SKYPE_TOOLBAR_PARSER_COMPATIBLE">
 <link href="http://feeds.feedburner.com/Cart2CartLatestNews" type="application/rss+xml" rel="alternate">
-
-<script type="text/javascript">
-
+<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.8.3/jquery.min.js"></script>
+<script async="" type="text/javascript">
+// <![CDATA[
 function setCookie (name, value, expires, path, domain, secure) {
-      document.cookie = name + "=" + escape(value) +
-        ((expires) ? "; expires=" + expires : "") +
-        ((path) ? "; path=" + path : "") +
-        ((domain) ? "; domain=" + domain : "") +
-        ((secure) ? "; secure" : "");
+document.cookie = name + "=" + escape(value) +
+((expires) ? "; expires=" + expires : "") +
+((path) ? "; path=" + path : "") +
+((domain) ? "; domain=" + domain : "") +
+((secure) ? "; secure" : "");
 }
 
-function getCookie(name) {
+function  getCookie(name) {
 	var cookie = " " + document.cookie;
 	var search = " " + name + "=";
 	var setStr = null;
@@ -42,76 +42,61 @@ function getCookie(name) {
 		offset = cookie.indexOf(search);
 		if (offset != -1) {
 			offset += search.length;
-			end = cookie.indexOf(";", offset)
+		end = cookie.indexOf(";", offset)
 			if (end == -1) {
 				end = cookie.length;
 			}
-			setStr = unescape(cookie.substring(offset, end));
+		setStr = unescape(cookie.substring(offset, end));
 		}
 	}
 	return(setStr);
 }
-
 if( getCookie('_C2C_REFERER') == null ){
-   setCookie('_C2C_REFERER', window.document.referrer, 'Mon, 20-Jan-2022 10:10:10 GMT', '/', '.shopping-cart-migration.com');
+	var referer = window.document.referrer;
+	if( referer.indexOf( 'google' ) < 0 && referer.indexOf( 'shopping-cart-migration.com' ) < 0 ){
+		setCookie('_C2C_REFERER', window.document.referrer, 'Mon, 20-Jan-2022 10:10:10 GMT', '/', 'shopping-cart-migration.com');
+	}
 }
 
+$(document).ready(function() {
+
+	if( getCookie('f_source_cart') != null ){
+	var selectedTheme = getCookie('f_source_cart');
+	$('#footer-source-cart').val(selectedTheme);
+	}
+		
+	if( getCookie('f_target_cart') != null ){
+	var selectedTheme = getCookie('f_target_cart');
+	$('#footer-target-cart').val(selectedTheme);
+	}
+
+});
+   // ]]>
 </script>
 
-<script type="text/javascript">
-
+<script async="" type="text/javascript">
+// <![CDATA[
   var _gaq = _gaq || [];
   _gaq.push(['_setAccount', 'UA-211799-27']);
   _gaq.push(['_setDomainName', 'shopping-cart-migration.com']);
   _gaq.push(['_addIgnoredRef', 'shopping-cart-migration']);
   _gaq.push(['_trackPageview']);
   _gaq.push(['_trackPageLoadTime']);
+  setTimeout("_gaq.push(['_trackEvent', '15_seconds', 'read'])",15000);
 
   (function() {
     var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
     ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
     var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
   })();
-
-</script>
-		<script type="text/javascript">
-		 // <![CDATA[
-	function supporttime(){
-	var d = new Date()
-var gmtHours = -d.getTimezoneOffset()/60;
-		var startTime = 5 + gmtHours;
-	var endTime = 18 + gmtHours;
-
-	if (startTime < 0) {startTime = 24 + startTime;}
-	if (startTime > 24) {startTime = startTime - 24;}
-	if (endTime < 0) {endTime = 24 + endTime;}
-	if (endTime > 24) {endTime = endTime - 24;}
-	var start_time_suffix = "am";
-	var end_time_suffix = "am";
-	
-    var startconvertedHour;
-    var stopconvertedHour;
-    
-    if (startTime < 12)  startconvertedHour = startTime + ":00 am";
-    if (startTime == 0)  startconvertedHour = "12:00 am";
-    if (startTime == 12) startconvertedHour = "12:00 pm";
-    if (startTime > 12)  startconvertedHour = startTime-12 + ":00 pm";
-    
-    if (endTime < 12)  stopconvertedHour = endTime + ":00 am";
-    if (endTime == 0)  stopconvertedHour = "12:00 am";
-    if (endTime == 12) stopconvertedHour = "12:00 pm";
-    if (endTime > 12)  stopconvertedHour = endTime-12 + ":00 pm";
-       
-    document.write (startconvertedHour + " - " + stopconvertedHour);
-    
-	}
- // ]]>
+    // ]]>
 </script>
 
-<script type="text/javascript" src="https://apis.google.com/js/plusone.js"></script>
+<script async="" type="text/javascript" src="https://apis.google.com/js/plusone.js"></script>
 
 <!-- Yandex.Metrika counter -->
-<script type="text/javascript">
+<script async="" type="text/javascript">
+// <![CDATA[
 (function (d, w, c) {
     (w[c] = w[c] || []).push(function() {
         try {
@@ -130,57 +115,76 @@ var gmtHours = -d.getTimezoneOffset()/60;
         d.addEventListener("DOMContentLoaded", f);
     } else { f(); }
 })(document, window, "yandex_metrika_callbacks");
+   // ]]>
 </script>
 <noscript><div><img src="//mc.yandex.ru/watch/7233358" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
 <!-- /Yandex.Metrika counter -->
 
-<!-- Fancybox -->
-<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.4/jquery.min.js"></script>
-<script type="text/javascript" src="/templates/jclean/js/fancybox/jquery.fancybox-1.3.4.pack.js"></script>
+<!-- Begin HomeSlider -->
 
-<script type="text/javascript">
+<script src="/templates/jclean/js/scripts.js"></script>
+  <script>
+  // <![CDATA[
+    $(function(){
+      $('#slides').slides({
+        preload: true,
+        preloadImage: '/templates/jclean/images/slider/loading.gif',
+        play: 5000,
+        pause: 7500,
+        hoverPause: true
+      });
+    });
+   // ]]>
+</script>
+<!-- End HomeSlider -->
+
+<!-- Fancybox -->
+
+<script async="" type="text/javascript">
+// <![CDATA[
 $(document).ready(function() {
-	
-	$(".video_tube").click(function() {
-	$.fancybox({
-			'padding'				: 0,
+  $(".video_tube").click(function() {
+  $.fancybox({
+      'padding'       : 0,
             'autoDimensions'        : false,
             'width'                 : 720,
             'height'                : 450, 
-			'transitionIn'	        : 'none',
-			'transitionOut'	        : 'none',
-			'title'					: this.title,
-			'href'					: this.href.replace(new RegExp("watch\\?v=", "i"), 'v/'),
-			'allowfullscreen'		: true,
+      'transitionIn'          : 'none',
+      'transitionOut'         : 'none',
+      'title'         : this.title,
+      'href'          : this.href.replace(new RegExp("watch\\?v=", "i"), 'v/'),
+      'allowfullscreen'   : true,
             'hideOnContentClick'    : false,
             'type'                  : 'swf',
-            'swf'					: {
-			'allowfullscreen'		: 'true',
+            'swf'         : {
+      'allowfullscreen'   : 'true',
             'wmode'                 : 'opaque',
-			}
+      }
 
-		});
-		return false;
-	});
-	
-	$("a[rel=gallery_fancy]").fancybox({
-		'transitionIn'		: 'none',
-		'autoScale'         : false,
-		'allowfullscreen'	: true,
-		'transitionOut'		: 'none',
-		'titlePosition' 	: 'over',
-		'titleFormat'       : function(title, currentArray, currentIndex, currentOpts) {
-		    return '<span id="fancybox-title-over">Image ' +  (currentIndex + 1) + ' / ' + currentArray.length + ' ' + title + '</span>';
-	}
-	
-	});
-	
+    });
+    return false;
+  });
+  
+  $("a[rel=gallery_fancy]").fancybox({
+    'transitionIn'    : 'none',
+    'autoScale'         : false,
+    'allowfullscreen' : true,
+    'transitionOut'   : 'none',
+    'titlePosition'   : 'over',
+    'titleFormat'       : function(title, currentArray, currentIndex, currentOpts) {
+        return '<span id="fancybox-title-over">Image ' +  (currentIndex + 1) + ' / ' + currentArray.length + ' ' + title + '</span>';
+  }
+  
+  });
+  
 });
+   // ]]>
 </script>
 <!-- End Fancybox -->
+
 </head>
 <body>
-<!--Privacy Policy || Cart2Cart Privacy Policy || cart2cart privacy, cart2cart policy-->
+<!---->
   <!--[if lt IE 7]>
   <div style='border: 1px solid #F7941D; background: #FEEFDA; text-align: center; clear: both; height: 75px; position: absolute;'>
     <div style='position: absolute; right: 3px; top: 3px; font-family: courier new; font-weight: bold;'><a href='#' onclick='javascript:this.parentNode.parentNode.style.display="none"; return false;'><img src='http://www.ie6nomore.com/files/theme/ie6nomore-cornerx.jpg' style='border: none;' alt='Close this notice'/></a></div>
@@ -200,35 +204,21 @@ $(document).ready(function() {
 <div class="main">
   <div style="width:981px;margin:0 auto;">
     <!-- header start -->
-    <table width="100%" cellspacing="0" cellpadding="0" border="0" style="height:133px;">
+    <table width="100%" cellspacing="0" cellpadding="0" border="0" style="height:152px;">
     <tbody><tr>
-        <td width="363" rowspan="2" valign="bottom"><a href="/" title="Back to Home Page"><img src="/templates/jclean/images/logo.gif" width="77" height="82" alt="Privacy Policy" border="0"><img src="/templates/jclean/images/logo_text.gif" width="220" height="82" alt="cart2cart privacy, cart2cart policy" border="0"></a></td>
+        <td width="363" rowspan="2" valign="middle" style="padding-top:15px;"><a href="/" style="text-decoration:none;" title="Back to Home Page"><img src="/templates/jclean/images/logo.gif" width="77" height="82" alt="Privacy Policy" border="0"><img src="/templates/jclean/images/logo_text.gif" width="220" height="82" alt="cart2cart privacy, cart2cart policy" border="0"></a></td>
         <td height="66" valign="top">
         <div id="loginForm"></div>
               </td>
     </tr>
     <tr>
-
       <td>
-	  		<div class="goog_search" style="line-height: 100%;float:left;margin-right: 0px;padding-top:10px; width: 250px; overflow: hidden; ">
-			<form action="http://www.google.com/cse" id="cse-search-box">
-				<div>
-				<input type="hidden" name="cx" value="008541276288642829268:rev0jd1_b4e">
-				<input type="hidden" name="ie" value="UTF-8">
-				<input class="goog_search_input" type="text" name="q" size="20">
-				<!--input type="submit" name="sa" value="Search" /-->
-				<input type="image" align="top" src="/templates/jclean/images/button_login_top.gif">
-				</div>
-			</form>
-			<script type="text/javascript" src="http://www.google.com/cse/brand?form=cse-search-box&amp;lang=en"></script>
-			<small style="font-size: 10px;"></small>
-		</div>
-		
-		<div style="float: left; margin: 7px 5px 0pt 62px;position:relative;"><div class="toll_free">US&amp;Canada<br>Toll Free</div><span style="font-size: 18px; font-weight: bold; color: #169b36; padding: 9px 0 0; ">1-800-224-1462 </span> <br><span style="font-size: 9px; display: block;"><b>Mon. – Fri.: </b> <script type="text/javascript"> supporttime();</script>5:00 am - 6:00 pm
+	
+		<div style="float: left; margin: 7px 5px 0pt 130px;position:relative;"><div class="toll_free">US&amp;Canada<br>Toll Free</div><span style="font-size: 18px; font-weight: bold; color: #169b36; padding: 9px 0 0; ">1-800-224-1462 </span> <br><span style="font-size: 9px; display: block;"><b style="text-align:center;display: inline-block;width: 140px;">Monday – Friday </b> <!--script type="text/javascript"> supporttime();</script-->
 <noscript>9:00 - 17:00 (GMT +2)</noscript>	<!-- 05:00 - 13:00 (EDT) <br>11:00 - 19:00 (GMT+2) --> <br>(For sales and general questions only)</span>		</div>
 
 
-	  <!-- BEGIN FUSION TAG CODE - DO NOT EDIT! --><div><div id="proactivechatcontainer6fbl0lemr5"></div><table border="0" cellspacing="2" cellpadding="2"><tbody><tr><td align="center" id="swifttagcontainer6fbl0lemr5"><div style="display: inline;" id="swifttagdatacontainer6fbl0lemr5"></div><script type="text/javascript" src="https://support.magneticone.com/visitor/index.php?/Default/LiveChat/HTML/HTMLButton/cHJvbXB0dHlwZT1jaGF0JnVuaXF1ZWlkPTZmYmwwbGVtcjUmdmVyc2lvbj00LjMwLjY0OSZwcm9kdWN0PUZ1c2lvbiZmaWx0ZXJkZXBhcnRtZW50aWQ9NiZ2YXJpYWJsZVswXVswXT1jYXJ0MmNhcnQmdmFyaWFibGVbMF1bMV09aHR0cCZjdXN0b21vbmxpbmU9JmN1c3RvbW9mZmxpbmU9JmN1c3RvbWF3YXk9JmN1c3RvbWJhY2tzaG9ydGx5PQo4MzY5OGFmMDIzNzJjYTliNGY4MTFmNzllOGU1OWExNWNkYzZmOTkw"></script></td> </tr></tbody></table></div> <script type="text/javascript">var swiftscriptelem6fbl0lemr5=document.createElement("script");swiftscriptelem6fbl0lemr5.type="text/javascript";var swiftrandom = Math.floor(Math.random()*1001); var swiftuniqueid = "6fbl0lemr5"; var swifttagurl6fbl0lemr5="https://support.magneticone.com/visitor/index.php?/Default/LiveChat/HTML/HTMLButton/cHJvbXB0dHlwZT1jaGF0JnVuaXF1ZWlkPTZmYmwwbGVtcjUmdmVyc2lvbj00LjMwLjY0OSZwcm9kdWN0PUZ1c2lvbiZmaWx0ZXJkZXBhcnRtZW50aWQ9NiZ2YXJpYWJsZVswXVswXT1jYXJ0MmNhcnQmdmFyaWFibGVbMF1bMV09aHR0cCZjdXN0b21vbmxpbmU9JmN1c3RvbW9mZmxpbmU9JmN1c3RvbWF3YXk9JmN1c3RvbWJhY2tzaG9ydGx5PQo4MzY5OGFmMDIzNzJjYTliNGY4MTFmNzllOGU1OWExNWNkYzZmOTkw";setTimeout("swiftscriptelem6fbl0lemr5.src=swifttagurl6fbl0lemr5;document.getElementById('swifttagcontainer6fbl0lemr5').appendChild(swiftscriptelem6fbl0lemr5);",1);</script><!-- END FUSION TAG CODE - DO NOT EDIT! -->
+	  <!-- BEGIN FUSION TAG CODE - DO NOT EDIT! --><div><div id="proactivechatcontainer6fbl0lemr5"></div><table border="0" cellspacing="2" cellpadding="2"><tbody><tr><td align="center" id="swifttagcontainer6fbl0lemr5" style="padding-left:74px;"><div style="display: inline;" id="swifttagdatacontainer6fbl0lemr5"></div><script type="text/javascript" src="https://support.magneticone.com/visitor/index.php?/Default/LiveChat/HTML/HTMLButton/cHJvbXB0dHlwZT1jaGF0JnVuaXF1ZWlkPTZmYmwwbGVtcjUmdmVyc2lvbj00LjMwLjY0OSZwcm9kdWN0PUZ1c2lvbiZmaWx0ZXJkZXBhcnRtZW50aWQ9NiZ2YXJpYWJsZVswXVswXT1jYXJ0MmNhcnQmdmFyaWFibGVbMF1bMV09aHR0cCZjdXN0b21vbmxpbmU9JmN1c3RvbW9mZmxpbmU9JmN1c3RvbWF3YXk9JmN1c3RvbWJhY2tzaG9ydGx5PQo4MzY5OGFmMDIzNzJjYTliNGY4MTFmNzllOGU1OWExNWNkYzZmOTkw"></script></td> </tr></tbody></table></div> <script type="text/javascript">var swiftscriptelem6fbl0lemr5=document.createElement("script");swiftscriptelem6fbl0lemr5.type="text/javascript";var swiftrandom = Math.floor(Math.random()*1001); var swiftuniqueid = "6fbl0lemr5"; var swifttagurl6fbl0lemr5="https://support.magneticone.com/visitor/index.php?/Default/LiveChat/HTML/HTMLButton/cHJvbXB0dHlwZT1jaGF0JnVuaXF1ZWlkPTZmYmwwbGVtcjUmdmVyc2lvbj00LjMwLjY0OSZwcm9kdWN0PUZ1c2lvbiZmaWx0ZXJkZXBhcnRtZW50aWQ9NiZ2YXJpYWJsZVswXVswXT1jYXJ0MmNhcnQmdmFyaWFibGVbMF1bMV09aHR0cCZjdXN0b21vbmxpbmU9JmN1c3RvbW9mZmxpbmU9JmN1c3RvbWF3YXk9JmN1c3RvbWJhY2tzaG9ydGx5PQo4MzY5OGFmMDIzNzJjYTliNGY4MTFmNzllOGU1OWExNWNkYzZmOTkw";setTimeout("swiftscriptelem6fbl0lemr5.src=swifttagurl6fbl0lemr5;document.getElementById('swifttagcontainer6fbl0lemr5').appendChild(swiftscriptelem6fbl0lemr5);",1);</script><!-- END FUSION TAG CODE - DO NOT EDIT! -->
 	 </td>
     </tr>
     </tbody></table>
@@ -236,7 +226,22 @@ $(document).ready(function() {
     <!-- main menu section -->		
 		
     <div class="moduletable">
-			<ul class="menu sf-menu sf-navbar"><li class="item60"><a href="http://www.shopping-cart-migration.com/"><span>Home</span></a></li><li class="item88"><a href="http://app.shopping-cart-migration.com/estimator"><span>Pricing</span></a></li><li class="item59"><a href="/supported-carts"><span>Supported Carts</span></a></li><li class="item133"><a href="http://www.shopping-cart-migration.com/provided-services"><span>Services</span></a></li><li class="item90"><a href="http://www.shopping-cart-migration.com/faq"><span>FAQs</span></a></li></ul>
+			<div class="goog_search" style="float:right;line-height: 100%;margin-right: 0px;padding-top:6px; width: 250px; overflow: hidden;">
+<form action="http://www.google.com/cse" id="cse-search-box">
+<div>
+<input type="hidden" name="cx" value="008541276288642829268:rev0jd1_b4e">
+<input type="hidden" name="ie" value="UTF-8">
+<input class="goog_search_input" type="text" name="q" size="20">
+<!--input type="submit" name="sa" value="Search" /-->
+<input type="image" align="top" src="/templates/jclean/images/button-login-top.gif">
+</div>
+</form>
+<script type="text/javascript" src="http://www.google.com/cse/brand?form=cse-search-box&amp;lang=en"></script>
+</div>		</div>
+			
+		
+    <div class="moduletable">
+			<ul class="menu sf-menu sf-navbar"><li class="item60"><a href="http://www.shopping-cart-migration.com/"><span>Home</span></a></li><li class="item88"><a href="http://app.shopping-cart-migration.com/estimator"><span>Pricing</span></a></li><li class="item59"><a href="/supported-carts"><span>Supported Carts</span></a></li><li class="item133"><a href="http://www.shopping-cart-migration.com/provided-services"><span>Services</span></a></li><li class="item159"><a href="/blog"><span>Blog</span></a></li><li class="item90"><a href="http://www.shopping-cart-migration.com/faq"><span>FAQs</span></a></li></ul>
 		</div>
 	<!-- main menu section ends -->
     <div style="clear:both;"></div>
@@ -247,9 +252,12 @@ $(document).ready(function() {
     <div class="moduletabletestimonialku3">
 			<div class="small_blue">
 										<img src="/components/com_testimonialku/left_blue.gif" border="0" alt="Cart2Cart" width="20" height="14">&nbsp;
-										What a great service I migrated my zen cart to magenta with no problems at all. Thanks! you saved me days of hand coding products.
+										Magento sites are our focus. We have now successfully completed 2 migrations for clients using Cart2Cart. Seriously thinking of putting more of our focus on migrations. Keep up the good work guys.
+
+Michael
+ ...&nbsp;
 										<img src="/components/com_testimonialku/right_blue.gif" border="0" alt="Cart2Cart" width="20" height="14">
-									<div class="testimonial_author">Steve Howery</div>
+									<div class="testimonial_author">Michael </div>
 									<div class="testimonial_website"></div>				
 						
 							</div>		</div>
@@ -277,7 +285,7 @@ $(document).ready(function() {
 
 
 
-<p class="success_message">This privacy policy applies to <a href="http://www.shopping-cart-migration.com/migration-scenario-for-api-hosted-shopping-carts" title="Cart2Cart service">Cart2Cart service</a> developed by MagneticOne. </p><p>MagneticOne is committed to ensuring that your privacy  is protected. We recognize the importance of protecting all the information  provided by Cart2Cart service users, newsletter subscribers and all MagneticOne  customers. All our customers and users are encouraged to read this privacy  policy prior to submitting any personal information or using the website in any  other manner. 
+<p class="success_message">This privacy policy applies to Cart2Cart developed by MagneticOne. </p><p>MagneticOne is committed to ensuring that your privacy  is protected. We recognize the importance of protecting all the information  provided by Cart2Cart users, newsletter subscribers and all MagneticOne  customers. All our customers and users are encouraged to read this privacy  policy prior to submitting any personal information or using the website in any  other manner. 
 </p><h2>
   Information  Collection and Usage</h2>
 <p>
@@ -342,11 +350,11 @@ $(document).ready(function() {
 								<div class="testimonial">
 									<div class="testimonial_text">
 										<img src="/images/stories/left.gif" border="0" alt="Cart2Cart" width="20" height="14">&nbsp;
-										The migration was easy to set up and get running. Excellent service and support.
+										Unfailingly great service- perfect migration saving us hours and hours of tedious work- and the support staff are friendly- and very patient with any questions. Highly recommended for website data transfer.
 										<img src="/images/stories/right.gif" border="0" alt="Cart2Cart" width="20" height="14">
 									</div>
-									<div class="date">Date Written: 30 March 2012</div>
-									<div class="testimonial_author">Roberto Tevar </div>
+									<div class="date">Date Written: 27 February 2012</div>
+									<div class="testimonial_author">Peter Lole </div>
 									<div class="testimonial_website"></div>				
 								</div>
 							
@@ -354,11 +362,13 @@ $(document).ready(function() {
 								<div class="testimonial">
 									<div class="testimonial_text">
 										<img src="/images/stories/left.gif" border="0" alt="Cart2Cart" width="20" height="14">&nbsp;
-										Oksana Lanchak(support manager) was very helpful even though my source store had some image issues in the transfer she helped me out. I am very satisfied with the end result of using cart2cart after all the support you ...&nbsp;
+										It was a bit confused at first as Cart2Cart thought I wanted to migrate the whole website, but once they understood all we wanted was to migrate the users, the process was fast and smooth.
+
+Thank you, Cart2Cart, it ...&nbsp;
 										<img src="/images/stories/right.gif" border="0" alt="Cart2Cart" width="20" height="14">
 									</div>
-									<div class="date">Date Written: 08 April 2011</div>
-									<div class="testimonial_author">Anonymous User</div>
+									<div class="date">Date Written: 15 November 2011</div>
+									<div class="testimonial_author">Charllene Wang </div>
 									<div class="testimonial_website"></div>				
 								</div>
 							
@@ -368,7 +378,23 @@ $(document).ready(function() {
 	</div>
   <div class="footer_push"></div>
 </div>
+<div class="footerBlockGrayBig">
+<div class="footerBlockGray">
+	<div class="footerBlockContent">
+		<a href="/blog" class="footerBlockSt">
+			<div class="footerBlockIcon footerBlockFirst"></div>
+			<span class="footerBlockTitle">Read Our Blog</span><br><span class="footerBlockSubtitle">News, strategy and insights</span></a>
+		
+		<a href="javascript:startChat_nz1nsbr6('0');" onclick="javascript: window.open('https://support.magneticone.com/visitor/index.php?/Default/LiveChat/Chat/Request/_sessionID=/_promptType=chat/_proactive=0/_filterDepartmentID=6/_randomNumber=jjxrj9bdvsgc6a338kk95auvkzbm2bmn/_fullName=/_email=/', 'livechatwin', 'toolbar=0,location=0,directories=0,status=1,menubar=0,scrollbars=0,resizable=1,width=600,height=680,top=200,left=600');" class="footerBlockSt footerBlockBord">
+			<div class="footerBlockIcon footerBlockSecond"></div>
+			<span class="footerBlockTitle">Start a Chat</span><br><span class="footerBlockSubtitle">Want to have a word with us?</span></a>
 
+		<a href="/become-partner" class="footerBlockSt">
+			<div class="footerBlockIcon footerBlockThird"></div>
+			<span class="footerBlockTitle">Become a Partner</span><br><span class="footerBlockSubtitle">Join Cart2Cart Partner Program</span></a>
+	</div>
+</div>
+</div>
   <div class="footer_wrapper">
 	<div class="footer_content">
 	<div class="footer_column">
@@ -378,7 +404,7 @@ $(document).ready(function() {
         </div>
       		
     <div class="moduletable">
-			<ul class="menu"><li class="item97"><a href="/quick-demo-tour"><span>Quick Demo Tour</span></a></li><li class="item111"><a href="/cart2cart-videos"><span>Cart2Cart Videos</span></a></li><li class="item109"><a href="/provided-services"><span>Provided Services</span></a></li><li class="item54"><a href="/terms-of-service"><span>Terms of Service</span></a></li><li class="item86"><a href="/service-level-agreement"><span>Service Level Agreement</span></a></li><li class="item72"><a href="/privacy-policy"><span>Privacy Policy</span></a></li><li class="item80"><a href="/sitemap"><span>Sitemap</span></a></li><li class="item106"><a href="/useful-articles"><span>Useful Articles</span></a></li><li class="item100"><a href="/release-notes"><span>Release Notes</span></a></li><li class="item89"><a href="/component/artforms/?formid=1"><span>Contact Us</span></a></li></ul>		</div>
+			<ul class="menu"><li class="item163"><a href="/faq"><span>FAQs</span></a></li><li class="item97"><a href="/quick-demo-tour"><span>Quick Demo Tour</span></a></li><li class="item109"><a href="/provided-services"><span>Provided Services</span></a></li><li class="item106"><a href="http://www.shopping-cart-migration.com/blog"><span>Blog</span></a></li><li class="item111"><a href="/cart2cart-videos"><span>Video Tutorials</span></a></li><li class="item54"><a href="/terms-of-service"><span>Terms of Service</span></a></li><li class="item86"><a href="/service-level-agreement"><span>Service Level Agreement</span></a></li><li class="item72"><a href="/privacy-policy"><span>Privacy Policy</span></a></li><li class="item80"><a href="/sitemap"><span>Sitemap</span></a></li></ul>		</div>
 	
 	</div>
 	<div class="footer_column">
@@ -388,49 +414,249 @@ $(document).ready(function() {
         </div>
       		
     <div class="moduletable">
-			<ul class="menu"><li class="item91"><a href="http://support.magneticone.com/index.php?/Tickets/Submit/RenderForm/5" target="_blank"><span>Submit a Ticket</span></a></li><li class="item102"><a href="http://www.shopping-cart-migration.com/component/artforms/?formid=8" target="_blank"><span>Request for Customization</span></a></li><li class="item92"><a href="http://www.shopping-cart-migration.com/component/acajoom/?act=subone&amp;listid=1"><span>Newsletter Subscribe</span></a></li><li class="item93"><a href="http://cart2cart.betaeasy.com/" target="_blank"><span>Feature/Bug Submit</span></a></li><li class="item104"><a href="http://www.shopping-cart-migration.com/component/artforms/?formid=7"><span>Complaint Form</span></a></li><li class="item126"><a href="/component/artforms/?formid=2"><span>Request for Assisted Migration</span></a></li></ul>		</div>
+			<ul class="menu"><li class="item91"><a href="http://support.magneticone.com/index.php?/Tickets/Submit/RenderForm/5" target="_blank"><span>Submit a Ticket</span></a></li><li class="item157"><a href="/support-service-plans?utm_source=Footer&amp;utm_medium=Site&amp;utm_campaign=SupportPlan"><span>Support Packages</span></a></li><li class="item93"><a href="http://cart2cart.betaeasy.com/" target="_blank"><span>Submit a Feature/Bug</span></a></li><li class="item104"><a href="http://www.magneticone.com/complaints-form.html " target="_blank"><span>Complaint Form</span></a></li><li class="item100"><a href="/release-notes"><span>Release Notes</span></a></li><li class="item89"><a href="/contact-us"><span>Contact Us</span></a></li></ul>		</div>
 	
-		<div class="social_buttons">
-			<h3>Connect with us</h3>
-			<a target="_blank" class="sm_icon rss_icon" href="http://feeds.feedburner.com/Cart2CartLatestNews/" rel="nofollow" title="Subscribe to Cart2Cart News RSS Feed">&nbsp;</a><a target="_blank" class="sm_icon twitter_icon" href="http://twitter.com/#!/Cart2CartBlog" title="Follow us on">&nbsp;</a><a target="_blank" class="sm_icon facebook_icon" href="http://www.facebook.com/Cart2Cart" title="Follow us on">&nbsp;</a><a target="_blank" class="sm_icon blog_icon" href="http://blog.shopping-cart-migration.com/" title="Follow us on">&nbsp;</a>
-		</div>
 	</div>
 	<div class="footer_column">
 				
 		              <div class="moduletable">
-          <h3>Partner Programs</h3>
+          <h3>For Partner</h3>
         </div>
       		
     <div class="moduletable">
-			<ul class="menu"><li class="item94"><a href="/for-shopping-cart-developers"><span>Developers of Commercial Shopping Carts</span></a></li><li class="item95"><a href="/offer-for-affiliates"><span>Offer for Affiliates</span></a></li><li class="item99"><a href="/offer-for-partners-and-resellers"><span>Offer For Partners and Resellers</span></a></li><li class="item74"><a href="/migration-service-partners" target="_blank"><span>Migration Partners</span></a></li><li class="item118"><a href="/cart2cart-press-kit"><span>Cart2Cart Press Kit</span></a></li></ul>		</div>
+			<ul class="menu"><li class="item158"><a href="/become-partner"><span>Become a Partner</span></a></li><li class="item74"><a href="/migration-service-partners" target="_blank"><span>Migration Partners</span></a></li><li class="item118"><a href="/cart2cart-press-kit"><span>Cart2Cart Press Kit</span></a></li><li class="item139"><a href="http://www.api2cart.com/" target="_blank"><span>Cart2Cart API</span></a></li></ul>		</div>
 	
 	</div>
 	<div class="footer_column last_col">
-		<a class="assisted_banner" href="http://www.shopping-cart-migration.com/assisted-migration" title="Find out more about Assisted Migration Service"><img src="/templates/jclean/images/assisted.gif" title="Assisted Migration Service" alt="Assisted Migration Service"> </a>
-		
+		<!--a class="assisted_banner" href="http://www.shopping-cart-migration.com/assisted-migration" title="Find out more about Assisted Migration Service"><img src="/templates/jclean/images/assisted.gif" title="Assisted Migration Service" alt="Assisted Migration Service" /> </a-->
+		<div class="social_buttons">
+			<h3>Connect with us</h3>
+			<a target="_blank" class="sm_icon rss_icon" href="http://feeds.feedburner.com/Cart2CartLatestNews/" rel="nofollow" title="Subscribe to Cart2Cart News RSS Feed">&nbsp;</a><a target="_blank" class="sm_icon twitter_icon" href="http://twitter.com/#!/Cart2CartBlog" title="Follow us on">&nbsp;</a><a target="_blank" class="sm_icon facebook_icon" href="http://www.facebook.com/Cart2Cart" title="Follow us on">&nbsp;</a><a target="_blank" class="sm_icon blog_icon" href="/blog" title="Follow us on">&nbsp;</a><a target="_blank" class="sm_icon youtube_icon" href="http://www.youtube.com/Cart2CartVideo" title="Follow us on">&nbsp;</a>
+		</div>
 		<div class="footer_info">
-			<div class="copyright"><a href="http://magneticone.com/" target="_blank" title="MagneticOne">MagneticOne</a> © 2008-2012  <br></div>
-		<!--Privacy Policy <br /> Cart2Cart Privacy Policy--></div>
+			<div class="copyright"><a href="http://magneticone.com/" target="_blank" title="MagneticOne">MagneticOne</a> © 2008-2013  <br></div>
+		<!----></div>
+		<a href="javascript: void(0);" id="toDownServices" class="home-buttons" title="MagneticOne Services"><strong>MagneticOne Services</strong></a>
 	</div>
 
+	</div>  
+  </div>
+<!--div class="bottom_line"> &nbsp; </div-->
+<div id="footer-our-services">
+	<div id="footer-services">
+		<a href="http://www.file2cart.com/" target="_blank" class="f2c-services our-service">www.file2cart.com</a>
+		<a href="http://www.api2cart.com/" target="_blank" class="a2c-services our-service">www.api2cart.com</a>
+		<a href="http://www.shopping-cart-diagnostics.com/" target="_blank" class="scd-services our-service">www.shopping-cart-diagnostics.com</a>
+		<a href="http://www.cms2cms.com/" target="_blank" class="cms2cms-services our-service">www.cms2cms.com</a>
+	</div>
+</div>
+
+  <div class="">		
+		
+    <div class="moduletable">
+			<div class="footer-toolbar-wrapper full">
+	<div class="footer-toolbar">
+	<form id="footer-toolbar-form">
+		<div class="left-select">
+		<div class="error-footer-message msource">Please select source cart!</div>
+		<select class="footer-select" name="source_cart_id" id="footer-source-cart" onchange="setCookie('f_source_cart', this.value, 'Mon, 20-Jan-2022 10:10:10 GMT', '/', 'shopping-cart-migration.com');">
+				  <option value="selectSource">Select Source Cart </option>
+                  <option value="3DCartApi">3DCart 3.x, 4.x API</option>
+                  <option value="3DCart">3DCart 3.x CSV</option>
+                  <option value="AceShop">AceShop 1.4.x</option>
+                  <option value="AspDotNetStorefront">AspDotNetStorefront Multistore 8.x, 9.x</option>
+                  <option value="Bigcommerce">BigCommerce</option>
+                  <option value="BigcommerceApi">Bigcommerce API</option>
+                  <option value="ChannelAdvisor">Channel Advisor</option>
+                  <option value="CoreCommerce">CoreCommerce CSV</option>
+                  <option value="Creloaded62pro">CRE Loaded 6.2 Standard, Pro, B2B</option>
+                  <option value="Creloaded63standard">CRE Loaded 6.3 - 6.4 PCI (Standard/CE, Pro, B2B)</option>
+                  <option value="Cscart203">CS-Cart 1.3.x - 2.2.x</option>
+                  <option value="Cscart3">CS-Cart 3.x</option>
+                  <option value="Cubecart3">CubeCart 3.x, 4.x</option>
+                  <option value="Cubecart5">CubeCart 5.x.x</option>
+                  <option value="DigiShop8">DigiShop 8.x</option>
+                  <option value="Hhgmultistore">H.H.G. multistore 4.x</option>
+                  <option value="Interspire">Interspire 3.x, 4.x, 5.x, 6.x</option>
+                  <option value="JooCart">JooCart 1.5.x</option>
+                  <option value="LemonStand">LemonStand</option>
+                  <option value="LoadedCommerce">Loaded Commerce 6.5 PCI (Standard/CE, Pro, B2B)</option>
+                  <option value="Magento1212">Magento 1.1.x-1.7.x CE, 1.6.x-1.12.x EE</option>
+                  <option value="MagentoGo">Magento Go</option>
+                  <option value="MijoShop">MijoShop 1.3.x</option>
+                  <option value="Miva">Miva Merchant 4.x</option>
+                  <option value="Miva5">Miva Merchant 5.x</option>
+                  <option value="MobicartApi">MobiCart</option>
+                  <option value="Opencart14">Opencart 0.7.9 - 1.5.x</option>
+                  <option value="Oscmax2">osCMax 2.0.x - 2.5.x</option>
+                  <option value="Oscommerce22ms2">osCommerce 2.2.x, 2.3.x</option>
+                  <option value="Oxid">OXID eShop 4.4.x - 4.7.x</option>
+                  <option value="Pinnacle361">Pinnacle Cart 3.5.x, 3.6.x, 3.7.x</option>
+                  <option value="Prestashop11">PrestaShop 1.3.x 1.4.x</option>
+                  <option value="Prestashop15">PrestaShop 1.5.x</option>
+                  <option value="Shopify">Shopify</option>
+                  <option value="Shopp">Shopp 1.1.x</option>
+                  <option value="Shopp12">Shopp 1.2.x</option>
+                  <option value="Shopscript282">Shop-Script Pro/Premium 2.8.x WebAsyst</option>
+                  <option value="Shopscriptfree">Shop-Script 2.x Free WebAsyst</option>
+                  <option value="Squirrelcart242">Squirrelcart 2.4.x, 3.1.x</option>
+                  <option value="Summercart3">Summer Cart 3.x</option>
+                  <option value="Sunshop4">SunShop 4.x.x</option>
+                  <option value="Tomatocart">Tomatocart 1.x</option>
+                  <option value="Ubercart">Ubercart 1.x-2.x</option>
+                  <option value="Virtuemart113">VirtueMart 1.0.x, 1.1.x</option>
+                  <option value="Virtuemart2">VirtueMart 2.0.x</option>
+                  <option value="Volusion">Volusion</option>
+                  <option value="WPecommerce">WP e-Commerce 3.6.x - 3.7.x</option>
+                  <option value="WPecommerce38">WP e-Commerce 3.8.x</option>
+                  <option value="Woocommerce">WooCommerce 1.4.x - 1.6.x</option>
+                  <option value="Xcart40">X-Cart 4.0.x</option>
+                  <option value="Xcart419">X-Cart 4.1.x, 4.2.x</option>
+                  <option value="Xcart43">X-Cart 4.3.x, 4.4.x</option>
+                  <option value="Xtcommerce3">xt:Commerce 3.x</option>
+                  <option value="XtcommerceVeyton">xt:Commerce Veyton 4.x</option>
+                  <option value="Yahoostore">Yahoo! Store</option>
+                  <option value="Zencart137">Zen Cart 1.2.x, 1.3.x</option>
+                  <option value="Zencart15">Zen Cart 1.5.x</option>
+                </select>
+				<div class="none-cart-block"><a href="http://www.shopping-cart-migration.com/planned-shopping-carts" title="Planned Shopping Carts">Didn't find your cart in the list?</a></div>
+		</div>
+		<div class="right-select">
+			<div class="error-footer-message mtarget">Please select target cart!</div>
+			<select name="target_cart_id" class="footer-select" id="footer-target-cart" onchange="setCookie('f_target_cart', this.value, 'Mon, 20-Jan-2022 10:10:10 GMT', '/', 'shopping-cart-migration.com');">
+				  <option value="selectTarget">Select Target Cart </option>
+                  <option value="3DCartApi">3DCart 3.x, 4.x API</option>
+                  <option value="3DCart">3DCart 3.x CSV</option>
+                  <option value="AceShop">AceShop 1.4.x</option>
+                  <option value="AspDotNetStorefront">AspDotNetStorefront Multistore 8.x, 9.x</option>
+                  <option value="Bigcommerce">BigCommerce</option>
+                  <option value="BigcommerceApi">Bigcommerce API</option>
+                  <option value="CartToCsv">Cart to CSV File</option>
+                  <option value="Creloaded62pro">CRE Loaded 6.2 Standard, Pro, B2B</option>
+                  <option value="Creloaded63standard">CRE Loaded 6.3 - 6.4 PCI (Standard/CE, Pro, B2B)</option>
+                  <option value="Cscart203">CS-Cart 1.3.x - 2.2.x</option>
+                  <option value="Cscart3">CS-Cart 3.x</option>
+                  <option value="Cubecart3">CubeCart 3.x, 4.x</option>
+                  <option value="Cubecart5">CubeCart 5.x.x</option>
+                  <option value="DrupalCommerce">Drupal Commerce 7.x-1.x</option>
+                  <option value="Hhgmultistore">H.H.G. multistore 4.x</option>
+                  <option value="Interspire">Interspire 3.x, 4.x, 5.x, 6.x</option>
+                  <option value="JooCart">JooCart 1.5.x</option>
+                  <option value="Litecommerce">LiteCommerce3 1.0.x</option>
+                  <option value="LoadedCommerce">Loaded Commerce 6.5 PCI (Standard/CE, Pro, B2B)</option>
+                  <option value="Magento1212">Magento 1.1.x-1.7.x CE, 1.6.x-1.12.x EE</option>
+                  <option value="MagentoGo">Magento Go</option>
+                  <option value="MijoShop">MijoShop 1.3.x</option>
+                  <option value="Miva">Miva Merchant 4.x</option>
+                  <option value="Miva5">Miva Merchant 5.x</option>
+                  <option value="MobicartApi">MobiCart</option>
+                  <option value="Opencart14">Opencart 0.7.9 - 1.5.x</option>
+                  <option value="Oscmax2">osCMax 2.0.x - 2.5.x</option>
+                  <option value="Oscommerce22ms2">osCommerce 2.2.x, 2.3.x</option>
+                  <option value="Oxid">OXID eShop 4.4.x - 4.7.x</option>
+                  <option value="Pinnacle361">Pinnacle Cart 3.5.x, 3.6.x, 3.7.x</option>
+                  <option value="Prestashop11">PrestaShop 1.3.x 1.4.x</option>
+                  <option value="Prestashop15">PrestaShop 1.5.x</option>
+                  <option value="ShopSite">ShopSite</option>
+                  <option value="Shopify">Shopify</option>
+                  <option value="Shopp">Shopp 1.1.x</option>
+                  <option value="Shopp12">Shopp 1.2.x</option>
+                  <option value="Shopscript282">Shop-Script Pro/Premium 2.8.x WebAsyst</option>
+                  <option value="Shopscriptfree">Shop-Script 2.x Free WebAsyst</option>
+                  <option value="Shoptab">Shoptab</option>
+                  <option value="Squirrelcart242">Squirrelcart 2.4.x, 3.1.x</option>
+                  <option value="Summercart3">Summer Cart 3.x</option>
+                  <option value="Sunshop4">SunShop 4.x.x</option>
+                  <option value="Tomatocart">Tomatocart 1.x</option>
+                  <option value="Ubercart">Ubercart 1.x-2.x</option>
+                  <option value="Ubercart3">Ubercart 3.x</option>
+                  <option value="Virtuemart113">VirtueMart 1.0.x, 1.1.x</option>
+                  <option value="Virtuemart2">VirtueMart 2.0.x</option>
+                  <option value="Volusion">Volusion</option>
+                  <option value="WPecommerce">WP e-Commerce 3.6.x - 3.7.x</option>
+                  <option value="WPecommerce38">WP e-Commerce 3.8.x</option>
+                  <option value="Woocommerce">WooCommerce 1.4.x - 1.6.x</option>
+                  <option value="Woocommerce2">WooCommerce 2.0.x</option>
+                  <option value="Xcart40">X-Cart 4.0.x</option>
+                  <option value="Xcart419">X-Cart 4.1.x, 4.2.x</option>
+                  <option value="Xcart43">X-Cart 4.3.x, 4.4.x</option>
+                  <option value="Xcart45">X-Cart 4.5.x</option>
+                  <option value="Xtcommerce3">xt:Commerce 3.x</option>
+                  <option value="XtcommerceVeyton">xt:Commerce Veyton 4.x</option>
+                  <option value="Zencart137">Zen Cart 1.2.x, 1.3.x</option>
+                  <option value="Zencart15">Zen Cart 1.5.x</option>
+                </select>
+		</div>
+		<div class="button-select-block"><a href="https://app.shopping-cart-migration.com/#register" class="button-select" title="Start Migration Now!" onclick="_gaq.push(['_trackEvent', 'Toolbar', 'ToolbarClick', 'Clicked',, false]);">Start Now!</a></div>
+	</form>
 	
 	</div>
-	  
-  </div>
-<div class="bottom_line"> &nbsp; </div>
+	
+	<div class="toolbar-close full"></div>
+</div>
+<div class="footer-toolbar-small t-hidden">
+<span>Quick Migration Toolbar</span>
+<div class="toolbar-close small"></div>
+</div>
+<script type="text/javascript"> 
+// <![CDATA[
+  $(document).ready(function () { 
+  
+  var toolbar=getCookie('toolbar_mode');
+
+  if (toolbar == null, toolbar == "1") {
+  $(".footer-toolbar-small").delay(5000).slideToggle("slow");
+  
+  } else { $ (".footer-toolbar-wrapper").delay(5000).slideToggle("slow"); }
+
+  
+$(".toolbar-close.full").click(function() {
+  setCookie('toolbar_mode', '1', 'Mon, 20-Jan-2022 10:10:10 GMT', '/', 'shopping-cart-migration.com');
+  $(".footer-toolbar-wrapper").slideToggle("slow");
+  $(".footer-toolbar-small").slideToggle("slow");
+
+  });
+  
+  $(".toolbar-close.small, .footer-toolbar-small span").click(function() {
+  setCookie('toolbar_mode', '2', 'Mon, 20-Jan-2022 10:10:10 GMT', '/', 'shopping-cart-migration.com');
+  $(".footer-toolbar-wrapper").slideToggle("slow");
+  $(".footer-toolbar-small").slideToggle("slow");
+
+  });
+  
+  $(".button-select").click(function() {
+    if ($('select[name^="source_cart_id"]').val() == "selectSource") {     
+           $(".error-footer-message.msource").show("fast");   
+      return false;
+        } else {$(".error-footer-message.msource").hide("fast"); 
+      };
+    if ($('select[name^="target_cart_id"]').val() == "selectTarget") {     
+           $(".error-footer-message.mtarget").show("fast");  
+      return false;      
+        } else {$(".error-footer-message.mtarget").hide("fast"); 
+      };
+  });
+});
+// ]]>
+</script>		</div>
+	 </div>
+
 <div style="height: 0px; overflow:hidden;">
+
 	<!-- Top Login Form Ajax start -->
 	<script type="text/javascript"> 
 		jQuery.ajax({url: "https://app.shopping-cart-migration.com/index/get-user-info",success: function (response) {jQuery('#loginForm').html(response.text);},dataType: 'jsonp'}); 
 	</script>
 	<!-- Top Login Form Ajax end -->
-
+  <script src="/templates/jclean/js/contact-forms.js" type="text/javascript"></script>
 	<!--kayako badge script-->
 		<!--kayako badge script end-->
-	<script id="pap_x2s6df8d" src="http://affiliate.magneticone.com/scripts/clickjs.php" type="text/javascript"></script>
+	<script async="" id="pap_x2s6df8d" src="http://affiliate.magneticone.com/scripts/clickjs.php" type="text/javascript"></script>
 	<script type="text/javascript">
+// <![CDATA[
 	var CampaignID='38f65c71';
 	papTrack();
+     // ]]>
 	</script>
 	<!--betaeasy code-->
 	<script type="text/javascript">
@@ -440,7 +666,7 @@ $(document).ready(function() {
     }
    // ]]>
 </script><script src="https://dq14tx02jmrhj.cloudfront.net/betaeasy2.js" type="text/javascript"></script>
-<script type="text/javascript">
+<script async="" type="text/javascript">
 // <![CDATA[
 try {
     BetaEasy.init({
@@ -460,8 +686,9 @@ try {
 // ]]>
 </script>
 </div>
-<a href="http://www.shopping-cart-migration.com/release-notes" title="Current service version and latest revision date" class="release_notes">Service Version: 4.43.8594 (Nov 29, 2012)</a>	<!--RESOLUTION CHECK AND BAGE -->
+<a href="http://www.shopping-cart-migration.com/release-notes" title="Current service version and latest revision date" class="release_notes">Service Version: 4.46.10510 (Jun 12, 2013)</a>	<!--RESOLUTION CHECK AND BAGE -->
 		<script type="text/javascript">
+    // <![CDATA[
 	var winW = 630;
 if (document.body && document.body.offsetWidth) {
  winW = document.body.offsetWidth;
@@ -475,20 +702,70 @@ if (window.innerWidth && window.innerHeight) {
  winW = window.innerWidth;
 }
 if (winW > 1280) {
-document.write("<div class='start_now'><a title='Start Now! FREE migration of 10 products/customers available' href='https://app.shopping-cart-migration.com/#register'><img alt='Free Migration Preview Available!' src='/templates/jclean/images/migration_preview_badge.png' /></a></div>");
+document.write("<div class='start_now'><a title='Purchase All-in-One Service' href='http://www.shopping-cart-migration.com/support-service-plans?utm_source=Lable&utm_medium=Site&utm_campaign=SupportPlan'><img alt='Purchase All-in-One Service' src='/templates/jclean/images/purchase-all-in-one-service.png'/></a></div>");
 }
-	</script><div class="start_now"><a title="Start Now! FREE migration of 10 products/customers available" href="https://app.shopping-cart-migration.com/#register"><img alt="Free Migration Preview Available!" src="/templates/jclean/images/migration_preview_badge.png"></a></div>
-	
-<!--Privacy Policy || Cart2Cart Privacy Policy || cart2cart privacy, cart2cart policy-->
+// ]]>
+	</script><div class="start_now"><a title="Purchase All-in-One Service" href="http://www.shopping-cart-migration.com/support-service-plans?utm_source=Lable&amp;utm_medium=Site&amp;utm_campaign=SupportPlan"><img alt="Purchase All-in-One Service" src="/templates/jclean/images/purchase-all-in-one-service.png"></a></div>
+
+<!---->
 <script type="text/javascript">
+  // <![CDATA[
   var rpxJsHost = (("https:" == document.location.protocol) ? "https://" : "http://static.");
   document.write(unescape("%3Cscript src='" + rpxJsHost + "rpxnow.com/js/lib/rpx.js' type='text/javascript'%3E%3C/script%3E"));
+  // ]]>
 </script><script src="https://rpxnow.com/js/lib/rpx.js" type="text/javascript"></script>
 <script type="text/javascript">
+  // <![CDATA[
   RPXNOW.overlay = true;
   RPXNOW.language_preference = 'en';
+  // ]]>
 </script>
 
+<script type="text/javascript"> 
+// <![CDATA[
+$("#toDownServices").click(function() {
+	
+	var toolbar=getCookie('toolbar_mode');
+	
+	if (toolbar == null, toolbar == "2") {
+	$ (".footer-toolbar-wrapper").hide("slow");
+	$(".footer-toolbar-small").show("slow");
+	} 
+	
+	$("#footer-our-services").slideToggle("slow");
+	$("html, body").animate({ scrollTop: $(document).height() },"slow");
+});
+// ]]>
+</script> 
+
+
+<!--[if IE]>
+<script async src="/templates/jclean/js/jquery.corner.js"></script>
+<script async type="text/javascript">
+    $(document).ready(function(){
+    $(".home-buttons").corner("round 15px");
+    });
+</script>
+<![endif]-->
+<div style="display:none;">
+<!-- Google Code for Remarketing tag -->
+<!-- Remarketing tags may not be associated with personally identifiable information or placed on pages related to sensitive categories. For instructions on adding this tag and more information on the above requirements, read the setup guide: google.com/ads/remarketingsetup -->
+<script async="" type="text/javascript">
+/* <![CDATA[ */
+var google_conversion_id = 1016180284;
+var google_conversion_label = "L6KsCNSfhgUQvNzG5AM";
+var google_custom_params = window.google_tag_params;
+var google_remarketing_only = true;
+/* ]]> */
+</script>
+<script async="" type="text/javascript" src="//www.googleadservices.com/pagead/conversion.js">
+</script>
+</div>
+<noscript>
+<div style="display:inline;">
+<img height="1" width="1" style="border-style:none;" alt="" src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/1016180284/?value=0&amp;label=L6KsCNSfhgUQvNzG5AM&amp;guid=ON&amp;script=0"/>
+</div>
+</noscript>
 
 
 </body></html>
