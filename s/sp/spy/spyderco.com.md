@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the spyderco.com privacy policy that was archived on 2012-10-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121005052556id_/http%3A//www.spyderco.com/about/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the spyderco.com privacy policy that was archived on 2013-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130622015052id_/http%3A//www.spyderco.com/about/privacy.php) for the most accurate reproduction.*
 
 # :: Spyderco Privacy, Security and Return Policy ::
 
@@ -22,7 +22,7 @@ Return request must be made within 30 days of delivery. All returns require a Re
 [Home](https://web.archive.org/index.php) [Catalog](https://web.archive.org/catalog/) [Shopping Cart](https://web.archive.org/catalog/cart2.php) [Find Dealers](https://web.archive.org/dealers/) [Forums](https://web.archive.org/forums/) [Edge-U-Cation](https://web.archive.org/edge-u-cation/)  
 [News](https://web.archive.org/news/news.php) [About Spyderco](https://web.archive.org/about/) [Contact Us](https://web.archive.org/contact/) [Privacy, Security and Returns](https://web.archive.org/about/privacy.php) [Warranty Information](https://web.archive.org/edge-u-cation/index.php?item=10)
 
-Copyright © 2012. All rights reserved. All product names, art and text herein are the property of Spyderco, Inc. and may not be reproduced in part or whole without the sole written permission of Spyderco, Inc.  
+Copyright © 2013. All rights reserved. All product names, art and text herein are the property of Spyderco, Inc. and may not be reproduced in part or whole without the sole written permission of Spyderco, Inc.  
   
 Please note, images shown on Spyderco.com may be of Production Prototypes.  
 Modification of products, materials, measurements, technical specifications and availability can occur. 
