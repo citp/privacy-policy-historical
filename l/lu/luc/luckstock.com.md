@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the luckstock.com privacy policy that was archived on 2012-10-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121009003056id_/http%3A//luckstock.com/pages/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the luckstock.com privacy policy that was archived on 2013-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130621183751id_/http%3A//luckstock.com/pages/privacy-policy.html) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy | LuckStock
 
 ##  WE RESPECT YOUR PRIVACY **· We don't share your private data with third-parties.
 
