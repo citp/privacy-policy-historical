@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sbcodez.com privacy policy that was archived on 2012-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121206111354id_/http%3A//sbcodez.com/other/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sbcodez.com privacy policy that was archived on 2013-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130621203600id_/http%3A//sbcodez.com/other/privacy-policy) for the most accurate reproduction.*
 
 # Swag Codes | Privacy Policy
 
