@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the comics.com privacy policy that was archived on 2012-09-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120913045924id_/http%3A//www.gocomics.com/help/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the comics.com privacy policy that was archived on 2013-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130621083105id_/http%3A//www.gocomics.com/help/privacy) for the most accurate reproduction.*
 
 # GoComics.com
 
-At Universal Uclick ("Uclick"), we respect your right to privacy and we understand that visitors to Universal Uclick's Web Sites need to control the uses of their personal information. The privacy policy below details the measures taken by Universal Uclick to protect your privacy in connection with your use of [www.gocomics.com](http://www.gocomics.com/), [www.uPuzzles.com](http://www.upuzzles.com/), [www.ComicsSherpa.com](http://www.comicssherpa.com/) , [www.InfiniteCrosswords.com](http://www.infinitecrosswords.com/) and other sites or applications owned and operated by Universal Uclick, ("Sites"). Universal Uclick does not intend to collect any personal information from children under 13 unless Universal Uclick believes such collection to be permitted by law; please read below for Universal Uclick's policy with respect to children under 13.
+At Universal Uclick ("Uclick"), we respect your right to privacy and we understand that visitors to Universal Uclick's Web Sites need to control the uses of their personal information. The privacy policy below details the measures taken by Universal Uclick to protect your privacy in connection with your use of [www.gocomics.com](http://www.gocomics.com/), [www.uPuzzles.com](http://www.upuzzles.com/), [www.ComicsSherpa.com](http://www.comicssherpa.com/), [www.InfiniteCrosswords.com](http://www.infinitecrosswords.com/) and other sites or applications, including mobile applications, owned and operated by Universal Uclick, ("Sites"). Universal Uclick does not intend to collect any personal information from children under 13 unless Universal Uclick believes such collection to be permitted by law; please read below for Universal Uclick's policy with respect to children under 13.
 
 **What does the this Privacy Policy cover?**  
 This policy covers the treatment and use of personally identifiable information that is collected by Universal Uclick, at any of its owned, operated or affiliated Web sites and when you sign up to use any of the services provided at the sites.
@@ -38,6 +38,9 @@ Universal Uclick also uses an order form for users to request information, produ
 
 **Special Contests or Promotions**  
 Universal Uclick may occasionally present a special contest or promotion that is sponsored by another company. To qualify for entry in that contest or promotion, we may ask you to provide personal information. If we plan to share that information with the sponsor(s) or with others, we will provide a statement to that effect in the contest or promotion terms. 
+
+**Location Data**  
+If you use a device with a Global Positioning System ("GPS") or other location detection functionality, then we may collect precise information about the location of your device during your use of our sites and applications. We may use your location information to provide any requested location services and we may provide alternate functionality in your use of our sites and applications based on your location. You may opt-out from further allowing us to have any access to your location data by disabling your device's location detection functionality or GPS system. 
 
 **IP Address**  
 An Internet Protocol (IP) address is unique string of numbers that is assigned to your computer by your Internet Service Provider. Web servers automatically identify your computer by its IP address. We will use your IP address to help diagnose problems with our server and to administer our site. Your IP address also may be used to gather broad demographic information. 
