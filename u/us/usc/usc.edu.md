@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the usc.edu privacy policy that was archived on 2012-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121126031043id_/http%3A//policies.usc.edu/p2admOpBus/privacy_personal_information.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the usc.edu privacy policy that was archived on 2013-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130621071215id_/http%3A//policies.usc.edu/p2admOpBus/privacy_personal_information.html) for the most accurate reproduction.*
 
 # USC Policy: Privacy of Personal Information
 
@@ -62,9 +62,9 @@ The following offices have responsibility for providing interpretation and imple
   * For issues or complaints regarding use or misuse of your own personal identification information
   * Students—Dean of Academic Records and Registrar _(213) 740-4623_
   * Faculty—Vice Provost for Faculty Affairs _(213) 740-6715_
-  * Staff—Director, Personnel Services _(213) 740-7953_
+  * Staff—Executive Director, Human Resources Administration _(213) 821-8111_
   * System Access, Security and Access Termination Administrative Information Services (AIS) _(213) 821-2000_
-  * Information Services Division (ISD) _(213) 740-5555_
+  * Information Technology Services (ITS) _(213) 740-5555_
   * Vendor/Contractor Access to Information and Confidentiality Agreements
   * Disbursement Control _(213) 740-2720_
   * Purchasing Department _(213) 740-2281_
@@ -79,21 +79,22 @@ The following offices have responsibility for providing interpretation and imple
 **Lloyd Armstrong, Jr.** , Provost and Senior Vice President, Academic Affairs  
 University of Southern California
 
-### Quick Helps
+### Quick links
 
-  * [Index to university policy](https://web.archive.org/web/20121126031043id_/http%3A//policies.usc.edu/i-alphaindex.html)—an alphabetical list of every policy
-  * [What's new](https://web.archive.org/web/20121126031043id_/http%3A//policies.usc.edu/i-newpoli.html)—the most recent changes to university policy
-  * [Policy procedures](https://web.archive.org/web/20121126031043id_/http%3A//policies.usc.edu/i-policy_procedures.html)—help for those wishing to issue or revise a university policy
+  * [Index to university policy](https://web.archive.org/web/20130621071215id_/http%3A//policies.usc.edu/i-alphaindex.html)—an alphabetical list of every policy
+  * [What's new](https://web.archive.org/web/20130621071215id_/http%3A//policies.usc.edu/i-newpoli.html)—the most recent changes to university policy
+  * [Policy procedures](https://web.archive.org/web/20130621071215id_/http%3A//policies.usc.edu/i-policy_procedures.html)—help for those wishing to issue or revise a university policy
   * [Academic calendar](http://academics.usc.edu/calendar/)
-  * [Holiday schedule](https://web.archive.org/web/20121126031043id_/http%3A//policies.usc.edu/i-holidays_schedule.html)
+  * [Holiday schedule](https://web.archive.org/web/20130621071215id_/http%3A//policies.usc.edu/i-holidays_schedule.html)
 
 
-  * [Policy archive](https://web.archive.org/web/20121126031043id_/http%3A//policies.usc.edu/i-archive.html)—historical reference to policy updates
+  * [Policy archive](https://web.archive.org/web/20130621071215id_/http%3A//policies.usc.edu/i-archive.html)—historical reference to policy updates
 
 
 
 ### Helpful links
 
+  * [Employee Gateway](http://employees.usc.edu/)
   * [Payroll](http://ais-ss.usc.edu/empldoc/)
   * [Benefits](http://www.usc.edu/dept/Benefits/)
   * [Compliance Help & Hotline](http://ooc.usc.edu/help-hotline)
