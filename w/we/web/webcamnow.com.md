@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the webcamnow.com privacy policy that was archived on 2012-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121119103511id_/http%3A//webcamnow.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the webcamnow.com privacy policy that was archived on 2013-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130621154812id_/http%3A//webcamnow.com/privacy.html) for the most accurate reproduction.*
 
-# WebcamNow Privacy Policy
-
-Privacy Policy
+# WebcamNow - Privacy Policy
 
 **WebcamNow.com Inc. (hereinafter referred to as "WebcamNow") is committed to protecting your privacy. We understand that both personal and financial information is especially sensitive and that you may have concerns about sharing other personal information with us as well. We believe you should control the amount of information we receive about you. Where possible, we allow you to give as much or as little personal information to us as you feel comfortable providing.**
 
@@ -69,3 +67,5 @@ In addition, WebcamNow reserves the right to allow access to its systems to thir
 
 **Your Comments**   
 We welcome your feedback. If you have questions or comments about our privacy policies, feel free to drop us an e-mail at [privacy@webcamnow.com](mailto:privacy@webcamnow.com). 
+
+* * *
