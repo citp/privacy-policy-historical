@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bluemountain.com privacy policy that was archived on 2012-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121014220026id_/http%3A//www.bluemountain.com/new_warrants.pd) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bluemountain.com privacy policy that was archived on 2013-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130622014612id_/http%3A//www.bluemountain.com/new_warrants.pd) for the most accurate reproduction.*
 
 # Blue Mountain- Privacy Policy
 
@@ -66,7 +66,7 @@ If you elect to purchase a Membership or redeem a promotional membership on Blue
 
 Additional data may be collected from Members based upon certain services they elect to utilize on our web site. For example, we may track the categories of greetings you send in order to make appropriate recommendations for products or services available on our site or those of our Business Partners. Members may register for Blue Mountain Reminders, which are e-mail alerts to track important dates and occasions they specify. Blue Mountain Membership allows you to store greetings for future delivery, bookmark favorite greetings, and save greetings received in an online scrapbook. By obtaining this information, we can provide our Members with specific content and advertising in which they might be interested. None of this information is required to use our service or to become a Member; however, the omission of certain types of data will limit the value of your membership.
 
-If you become a Member of Blue Mountain from one of our co-branded sites, we may share your registration information with the co-branded partner. In such instances, the site will be clearly labeled with the branding information of our partner and links to its privacy policy will be conspicuously posted. We may also disclose your offline address to postal advertisers and catalogue marketers. If you do not wish to receive such communications, you can send an e-mail to [Customer Service](http://www.bluemountain.com/customer/emailus.pd) and you will be removed from the list.
+If you become a Member of Blue Mountain from one of our co-branded sites, we may share your registration information with the co-branded partner. In such instances, the site will be clearly labeled with the branding information of our partner and links to its privacy policy will be conspicuously posted. We may also disclose your offline address to postal advertisers and catalogue marketers. If you do not wish to receive such communications, you can send an e-mail to [Customer Service](http://www.bluemountain.com/help/index.pd) and you will be removed from the list.
 
 **BLUE MOUNTAIN'S USES OF PERSONAL INFORMATION**  
 If you have provided us your consent, we will use the information we have collected about you in five ways: 
