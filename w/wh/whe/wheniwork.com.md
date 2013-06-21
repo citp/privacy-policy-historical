@@ -1,6 +1,10 @@
-> *The following text is extracted and transformed from the wheniwork.com privacy policy that was archived on 2012-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121220071513id_/http%3A//wheniwork.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wheniwork.com privacy policy that was archived on 2013-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130621124902id_/http%3A//wheniwork.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy | When I Work
+
+## Your information is safe with us. We'll only contact you about When I Work
+
+## Privacy Policy
 
 We collect the e-mail addresses of those who communicate with us via e-mail, aggregate information on what pages consumers access or visit, and information volunteered by the consumer (such as survey information and/or site registrations). The information we collect is used to improve the content of our Web pages and the quality of our service, and is not shared with or sold to other organizations for commercial purposes, except to provide products or services you’ve requested, when we have your permission, or under the following circumstances:
 
@@ -12,7 +16,7 @@ We collect the e-mail addresses of those who communicate with us via e-mail, agg
 ## INFORMATION GATHERING AND USAGE
 
   * When you create a When I Work account, we ask for information such as your name, organization name, mobile phone number, email address, billing address, credit card information. Members who sign up for the free account are not required to enter a credit card.
-  * thisCLICKS uses collected information for the following general purposes: products and services provision, communication about products and services, billing, identification and authentication, technical support, services improvement, contact, and research.
+  * thisCLICKS uses collected information for the following general purposes: products and services provision, communication about products and services, partnerships, billing, identification and authentication, technical support, services improvement, contact, and research.
 
 
 
