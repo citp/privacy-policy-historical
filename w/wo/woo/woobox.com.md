@@ -1,16 +1,14 @@
-> *The following text is extracted and transformed from the woobox.com privacy policy that was archived on 2012-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121213034104id_/http%3A//woobox.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the woobox.com privacy policy that was archived on 2013-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130621223648id_/http%3A//woobox.com/privacy) for the most accurate reproduction.*
 
 # Woobox Privacy Policy
 
-Privacy Policy
+This policy was last modified June 13th 2013
 
-_Last modified 1/17/2012_
-
-**Our Commitment To Privacy**
+### Our Commitment To Privacy
 
 Your privacy is important to us. To better protect your privacy we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used. To make this notice easy to find, we make it available on our homepage and many pages of our websites. 
 
-**The Information We Collect and How We Use It**
+### The Information We Collect and How We Use It
 
 In order to provide services to you, we may collect the following types of information. 
 
@@ -20,31 +18,38 @@ _Cookies_ \- When you use access files on the website, one or more cookies will 
 
 _Log information_ \- All information sent by your web browser and computer when you visit the website may be stored by our servers. This information may include your IP address, browser type, URL accessed, cookie information, the date and time of your request, and other information that may uniquely identify you. 
 
-**Choices For Personal Information**
+### Choices For Personal Information
 
 You can choose to limit the storage of cookies on your computer when accessing the website. Limiting or prohibiting cookies from being stored on your computer may however affect the usability of the website services. 
 
-**Information Sharing**
+### Information Sharing
 
-The information collected about you may be shared with third parties to facilitate the serving of advertising on the website. Some of these advertisers (such as Google through the Google AdSense program) may use technology such as cookies and web beacons and may collect additional information about you.   
-Woobox provides applications that contain entry forms that collect information about you on behalf of other third-parties. Woobox makes this information available to the third-parties that have created the campaign running on Wooobox's servers. This information can include any information you provide along with other personal information that we collect and that is accesible through permissions you grant to our applications on the Facebook, Twitter, and other platforms. 
+The information collected about you may be shared with third parties to facilitate the serving of advertising on the website. Some of these advertisers (such as Google through the Google AdSense program) may use technology such as cookies and web beacons and may collect additional information about you. Woobox provides applications that contain entry forms that collect information about you on behalf of other third-parties. Woobox makes this information available to the third-parties that have created the campaign running on Wooobox's servers. This information can include any information you provide along with other personal information that we collect and that is accesible through permissions you grant to our applications on the Facebook, Twitter, and other platforms. 
 
-**Our Commitment To Data Security**
+### Our Commitment To Data Security
 
 To prevent unauthorized access, maintain data accuracy, and ensure the correct use of information, we have put in place physical, electronic, and managerial procedures to safeguard and secure the information we collect online. 
 
-**Our Commitment To Children's Privacy:**
+### Our Commitment To Children's Privacy:
 
 Protecting the privacy of the very young is especially important. For that reason, we never collect or maintain information at our website from those we actually know are under 13, and no part of our website is structured to attract anyone under 13. 
 
-**How You Can Access Or Correct Your Information**
+### Our Commitment to the U.S.-EU and U.S.-Swiss Safe Harbor Frameworks
+
+For European Union and Swiss Residents, if you choose to provide us with your Personal Information, you consent to the transfer and storage of that information on our servers located in the United States. Woobox, LLC adheres to the US-EU Safe Harbor and US-Swiss Safe Harbor Privacy Principles of Notice, Choice, Onward Transfer, Security, Data Integrity, Access and Enforcement, and is registered with the U.S. Department of Commerce's Safe Harbor Program http://www.export.gov/safeharbor Any questions or concerns regarding the use or disclosure of your information should be directed to Woobox, LLC by e-mailing us at eusafeharbor at woobox.com. We will investigate and attempt to resolve complaints and disputes regarding use and disclosure of your information in accordance with this Privacy Policy. European Union and Swiss Residents, if your complaints cannot be resolved, we have agreed to participate in the dispute resolution procedures of the American Arbitration Association pursuant to the US-EU Safe Harbor and US-Swiss Safe Harbor Privacy Principles. 
+
+### Advertising/Retargeting
+
+This site uses Google Analytics for Display Advertising. We use Remarketing with Google Analytics to advertise online. Third-party vendors, including Google, show our ads on sites across the Internet. This site and third-party vendors, including Google, use first-party cookies (such as the Google Analytics cookie) and third-party cookies (such as the DoubleClick cookie) together to inform, optimize, and serve ads based on someone's past visits to this website. Visitors can opt-out of Google Analytics for Display Advertising and customize Google Display Network ads using the Google Ads Preferences Manager. 
+
+### How You Can Access Or Correct Your Information
 
 You can access much of your personally identifiable information that we collect online and maintain the information using the account management section of the website. Information that is not accessible online can be modified or deleted by sending us a request using the contact procedure in this policy. We may decline to process requests that we find are unreasonable. To protect your privacy and security, we will also take reasonable steps to verify your identity before granting access or making corrections. 
 
-**Changes To This Privacy Policy**
+### Changes To This Privacy Policy
 
 This privacy policy may change from time to time. We will post any changes to the privacy policy on this page. 
 
-**How To Contact Us**
+### How To Contact Us
 
 Should you have other questions or concerns about these privacy policies, please send us an email at info at woobox.com. 
