@@ -1,44 +1,60 @@
-> *The following text is extracted and transformed from the nandos.co.uk privacy policy that was archived on 2012-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120529111604id_/http%3A//www.nandos.co.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nandos.co.uk privacy policy that was archived on 2013-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130621041051id_/http%3A//www.nandos.co.uk/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Nando's
 
-**Privacy Policy (9.12.2010)**
+**Privacy Policy (15.10.2012)**
 
 In a nut shell we will retain any personal information you share with us, we won’t pass it onto anyone else and you can always [contact us ](https://web.archive.org/contact-us)to find out what information we have about you.  If you want to know more you can read the legal stuff below … 
 
+  
 1\. Introduction and General Terms
 
+  
 2\. What information will Nando’s collect about me?
 
+  
 3\. What is Nando’s cookies policy?
 
+  
 4\. How will Nando’s use my Personal Data?
 
+  
 5\. What about Personal Data that is publicly available?
 
+  
 6\. Will my Personal Data be used for marketing purposes?
 
+  
 7\. What security measures are in place to protect my Personal Data?
 
+  
 8\. How will Nando’s store my Personal Data?
 
+  
 9\. Will my Personal Data be shared with anyone else?
 
+  
 10\. Links, advertisers, third party sponsors & ad-servers
 
+  
 11\. Will my Personal Data be transferred out of the UK?
 
+  
 12\. How can I find out what Personal Data Nando’s holds about me?
 
   
-13\. Nando’s application and our use of Facebook user data 
+13\. Nando’s application and our use of Facebook user data
 
+  
 14\. What if I am under the age of 14?
 
+  
 15\. Changes to this Privacy Policy
 
+  
 16\. How can I contact Nando’s?
 
+  
   
 1\. **Introduction and General Terms:** Thank you for visiting the [www.nandos.co.uk ](http://www.nandos.co.uk/)or [www.nandosrestaurant.ie ](http://www.nandosrestaurant.ie%20/)websites. Nando’s is registered as Nando’s Chickenland Limited (UK) and is committed to protecting you and your children's Personal Data (as defined below) when using our websites. This Privacy Policy explains how Nando’s collect, record and use information about you and the choices you can make about the way such information is collected and used. By providing us with Personal Data, you are deemed to consent to this Privacy Policy.  
   
@@ -83,7 +99,9 @@ In a nut shell we will retain any personal information you share with us, we won
 12\. **How can I find out what Personal Data the Nando’s holds about me?** To see the Personal Data we have collected through this site that relates to you, to cancel it and/or to correct or update this Personal Data, please email us at the forms in the ‘Contact us’ section. In addition, we will always give you the opportunity to update your preferences regarding our use of your Personal Data. To protect your privacy and security we will take reasonable steps to verify your identity before granting access. If you have any additional questions about Personal Data we hold about you, please contact us or visit [www.nandos.co.uk/contactus](http://www.nandos.co.uk/contactus).  
 
 
-13\. **Nando’s application and our use of Facebook user data** Nando’s has an official application for iPhone, iPad, iPod and Android, available for download via [http://www.nandos.co.uk/app](https://web.archive.org/web/20120529111604id_/http%3A//www.nandos.co.uk/app) This application will access information from user’s Facebook accounts once they give us permission to do so whilst using the Facebook-related functionality of the application. Once permission is granted, the Nando’s application accesses a user’s friends list and location only. We do not access any further information and do not save any user Facebook data at all.
+13\. **Nando’s application and our use of Facebook user data** Nando’s has an official application for iPhone, iPad, iPod and Android, available for download via [http://www.nandos.co.uk/app](https://web.archive.org/web/20130621041051id_/http%3A//www.nandos.co.uk/app) This application will access information from user’s Facebook accounts once they give us permission to do so whilst using the Facebook-related functionality of the application. Once permission is granted, the Nando’s application accesses a user’s friends list and location only.
+
+The Nando's "Find Yourself" Facebook application <https://apps.facebook.com/nandosfindyourself> will access information from users' Facebook accounts once they give us permission to do so. Once permission is granted, the application accesses a user's name, gender, birthday, locale, email address and spice result.
 
 14\. **What if I am under the age of 14?** It is important to us that children can enjoy our sites in a responsible fashion. We therefore require children under fourteen (14) years old to consult with their parents before providing Personal Data. We also encourage parents to supervise their children's online activities by, for example, adopting parental control tools available from online services and software manufacturers that help provide a child-friendly online environment. These tools can also prevent children from disclosing online their name, address, and other Personal Data without parental permission. Your child's privacy is important to us. We are committed to safeguarding children's Personal Data collected online, and to helping parents and their children learn how to exercise control over Personal Data while exploring the Internet. To this end, we take additional measures to protect the privacy of our younger users. Users of this site may participate in many activities without providing any Personal Data. However, if a user wants to participate in certain interactive features on our sites, we ask the user to provide us with certain information, such as the user's email address and age. When the user who registers indicates that he or she is under fourteen (14) years old, we will take one of four steps: (1) collect no information from that user; (2) require the user to provide a parent's verifiable consent; (3) collect only the user's email address to respond to the user's specific request; or (4) collect the email address of the user's parent in addition to the user's email address to seek the parent's verifiable consent or to notify them of their child's online activities. We also use the email addresses of parents to enable them to unsubscribe their child from a newsletter or other similar activity. We do not share Personal Data regarding users under the age of fourteen (14) with outside third parties not bound by this Privacy Policy without prior parental consent. Even with the parents' consent, if a user is under the age of fourteen (14), we will not condition his/her participation in an online activity on the disclosure of more information than is reasonably necessary to participate in the activity. While we want children to enjoy our websites, please note that, unless stated otherwise on this site, SMS, MMS and other mobile services are only available to users who are at least fourteen (14) years of age. We do not encourage users under the age of fourteen (14) to provide Personal Data to us (such as their mobile phone or PDA contact details) in order to subscribe to such services. However, if you are a parent and would like to review any Personal Data that we have collected online from your child, have this information deleted, and/or request that there be no further collection or use of your child's Personal Data or if you have any questions about our Privacy Policy or practices, you may contact us through the contact us forms on the website ([www.nandos.co.uk/contactus](http://www.nandos.co.uk/contactus)) or write to Nando’s Customer Care, Erico House, 93-99 Upper Richmond Road, Putney, London SW15 2TG.
 
