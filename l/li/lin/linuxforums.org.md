@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the linuxforums.org privacy policy that was archived on 2012-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121221015120id_/http%3A//www.linuxforums.org/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the linuxforums.org privacy policy that was archived on 2013-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130622002030id_/http%3A//www.linuxforums.org/privacy.php) for the most accurate reproduction.*
 
 # Linux Forums Privacy Policy
 
@@ -42,7 +42,7 @@ Linux Forums uses information for the following general purposes: to customize t
 
 Linux Forums does not rent, sell, or share personal information about you with other people or other companies except to provide products or services you've requested, when we have your permission, or under special circumstances such as legal proceedings and investigations, or mergers.
 
-Linux Forums uses third-party advertising companies to serve ads when you visit our Web site. These companies may use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, Click Here. You should refer to the privacy policies of the the third-party advertising companies and the other linked sites to determine how your personal information is handled by those sites. Linux Forums will provide a list of the third-party advertising companies being used upon request. The third-party advertising companies used may change without notice. 
+Linux Forums uses third-party advertising companies to serve ads when you visit our Web site. These companies may use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, [Click Here](http://www.networkadvertising.org/managing/opt_out.asp.). You should refer to the privacy policies of the the third-party advertising companies and the other linked sites to determine how your personal information is handled by those sites. Linux Forums will provide a list of the third-party advertising companies being used upon request. The third-party advertising companies used may change without notice. 
 
 ### Cookies
 
