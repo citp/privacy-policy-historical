@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vindale.com privacy policy that was archived on 2011-03-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110311120659id_/http%3A//www.vindale.com/v/privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vindale.com privacy policy that was archived on 2013-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130621070435id_/http%3A//www.vindale.com/v/privacy.jsp) for the most accurate reproduction.*
 
 # Free Online Surveys - Get Paid to Take Surveys Online - Vindale Research
 
@@ -6,9 +6,7 @@
 
 [ ](http://clicktoverify.truste.com/pvr.php?page=validate&url=www.vindale.com&sealid=101)
 
-Vindale Media, LLC is a licensee of the TRUSTe Privacy Program. TRUSTe is an independent, organization whose mission is to build user's trust and confidence in the Internet by promoting the use of fair information practices. This privacy statement covers the Web site www.vindale.com. Because this Web site wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices and have its privacy practices reviewed for compliance by TRUSTe.
-
-If you have questions or concerns regarding this statement, you should first contact [privacy@vindale.com](mailto:privacy@vindale.com). If you do not receive acknowledgement of your inquiry or your inquiry has not been satisfactorily addressed, you should contact TRUSTe at [http://watchdog.truste.com/pvr.php?page=complaint&url=](http://watchdog.truste.com/pvr.php?page=complaint&url=) TRUSTe will then serve as a liaison with us to resolve your concerns. The TRUSTe program only covers information that is collected through this Web site, and does not cover information that may be collected through any software downloaded from this Web site. 
+Vindale Media, LLC has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with TRUSTe's program requirements including transparency, accountability and choice regarding the collection and use of your personal information. The TRUSTe program only covers information that is collected from this Web site, and does not cover information that may be collected through any software downloaded from this Web site. TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy policy or practices, please contact us at [privacy@vindale.com](mailto:privacy@vindale.com). If you are not satisfied with our response you can [contact TRUSTe here](http://watchdog.truste.com/pvr.php?page=complaint&url=)
 
 Information collected and used by Vindale Research
 
@@ -20,7 +18,13 @@ Use of information members submit to Vindale Research
 
 Email addresses are used to send notifications related to the service(s) the user has signed up for, as a confirmation when a Vindale Research member has requested to add another member as a friend, and to invite new friends to join Vindale Research. A user may choose to stop receiving email notifications from Vindale Research at any time by clicking the unsubscribe link at the bottom of the email. When the user sends email or other communication to Vindale Research, Vindale Research may retain those communications in order to process the user's inquiries, respond to the user's requests and improve Vindale Research's services. 
 
-Vindale Research provides members with the opportunity to upload a self-portrait and/or a testimonial of our service. We will not sell, share or publish your personally identifiable information, but reserve the right to use your first name, last initial, city and state for our testimonials. If you would like to your self-portrait and/or testimonial to remain confidential, please express your intention clearly when you submit your self-portrait and/or testimonial. The specific use of your personal information will be defined at the point of collection. Should Vindale Research wish to change anything regarding the use of your personal information, a prominent notice will be displayed on this website. 
+Vindale Research provides members with the opportunity to upload a self-portrait and/or a testimonial of our service. We will not sell, share or publish your personally identifiable information, but reserve the right to use your first name, last initial, city and state for our testimonials. If you would like to your self-portrait and/or testimonial to remain confidential, please express your intention clearly when you submit your self-portrait and/or testimonial. The specific use of your personal information will be defined at the point of collection. Should Vindale Research wish to change anything regarding the use of your personal information, a prominent notice will be displayed on this website. If you want your testimonial removed please contact us at [privacy@vindale.com](mailto:privacy@vindale.com). 
+
+Vindale Research offers publicly accessible blogs or community forums. You should be aware that these are public forums and any information you provide may be read, collected, and used by anyone, including non-members and third-party hosting services. Commenters may register anonymously. However, be aware that if a commenter posts something in violation of our terms, we may remove the comment, and if the comment violates US law, we may be required to disclose the commenter's contact information. You should be aware that any information you provide in these areas may be read, collected, and used by others who access them. To request removal of your personal information from our blog or community forum, contact us at [privacy@vindale.com](mailto:privacy@vindale.com). In some cases, we may not be able to remove your personal information, in which case we will let you know if we are unable to do so and why. 
+
+Social Media (Features) and Widgets
+
+Our Web site includes Social Media Features, such as the Facebook Like button and Widgets, such as the Share this button or interactive mini-programs that run on our site. These Features may collect your IP address, which page you are visiting on our site, and may set a cookie to enable the Feature to function properly. Social Media Features and Widgets are either hosted by a third party or hosted directly on our Site. Your interactions with these Features are governed by the privacy policy of the company providing it. 
 
 Use of non-personally identifiable information
 
@@ -51,6 +55,8 @@ Attn: User Privacy
 243 Fifth Avenue, Suite 541  
 New York, NY 10016 _
 
+We will retain your information for as long as your account is active or as needed to provide you services. If you wish to cancel your account or request that we no longer use your information to provide you services contact us at privacy@vindale.com. We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements. 
+
 Legal Disclosure
 
 We reserve the right to disclose your personally identifiable information as required by law and when we believe that disclosure is necessary to protect our rights and/or comply with a judicial proceeding, court order, or legal process served on our Web site.
@@ -75,7 +81,7 @@ Changes in our privacy policy
 
 If we decide to change our privacy policy, we will post those changes to this privacy statement, the home page, and other places we deem appropriate so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it. 
 
-We reserve the right to modify this privacy statement at any time, so please review it frequently. If we make material changes to this policy, we will notify you here, by email, or by means of a notice on our home page. 
+We reserve the right to modify this privacy statement at any time, so please review it frequently. If we make material changes to this policy, we will notify you here, by email, or by means of a notice on our home page prior to the changes taking effect. 
 
 California Online Privacy Protection Act
 
@@ -90,8 +96,8 @@ Attn: User Privacy
 243 Fifth Avenue, Suite 541  
 New York, NY 10016 _
 
-_Telephone: 1-877-484-6325  
-Facsimile: 1-866-841-3898   
+_Telephone: 1-855-846-3253  
+Facsimile: 1-866-841-3898  
 _
 
-LAST UPDATED 02/22/2010 
+LAST UPDATED 09/06/2012
