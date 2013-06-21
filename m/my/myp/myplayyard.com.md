@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the myplayyard.com privacy policy that was archived on 2012-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120511005247id_/http%3A//www.myplayyard.com/pages/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myplayyard.com privacy policy that was archived on 2013-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130621044023id_/http%3A//www.myplayyard.com/pages/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - myplayyard.com
 
 ## Privacy Policy
 
-MyPlayYard.com/ understands how important the privacy of personal information is to our users. We respect and are committed to protecting your privacy. This Privacy Policy will tell you what information we collect about you and about your use of Arcaderush and its services. 
+MyPlayYard.com/ understands how important the privacy of personal information is to our users. We respect and are committed to protecting your privacy. This Privacy Policy will tell you what information we collect about you and about your use of MyPlayYard and its services. 
 
 Personal Information: 
 
@@ -13,21 +13,21 @@ requests personal information.
 
 Cookies: 
 
-When you register as a member of arcaderush our web server will send a "cookie" to your computer. A cookie is a small piece of data that is sent to your browser from a web server and stored on your computer's hard drive Cookies do not damage your system. We will use cookies to recognize you when you are logged into the site. 
+When you register as a member of MyPlayYard our web server will send a "cookie" to your computer. A cookie is a small piece of data that is sent to your browser from a web server and stored on your computer's hard drive Cookies do not damage your system. We will use cookies to recognize you when you are logged into the site. 
 
 IP Address: 
 
-Every computer connected to the Internet is given a domain name and a set of numbers that serve as that computer's IP address. When a visitor requests a page from any web site within the arcaderush network, our web servers automatically recognize   
-that visitor's domain name and IP address.We will use this information to examine our traffic in aggregate, and to investigate misuse of the aquarium passion network 
+Every computer connected to the Internet is given a domain name and a set of numbers that serve as that computer's IP address. When a visitor requests a page from any web site within the MyPlayYard network, our web servers automatically recognize   
+that visitor's domain name and IP address.We will use this information to examine our traffic in aggregate, and to investigate misuse of the MyFreePlayYard Ltd network 
 
 Email Privacy: 
 
-arcaderush will use in the future subscription forms for individuals to request information by subscribing to email newsletters and/or email alerts based on their categories of interest. We collect contact information (like your name) to provide you with the information that you   
+MyPlayYard will use in the future subscription forms for individuals to request information by subscribing to email newsletters and/or email alerts based on their categories of interest. We collect contact information (like your name) to provide you with the information that you   
 requested. We will not sell or rent email addresses to any 3rd parties 
 
 Children: 
 
-We are committed to protecting the privacy of children. Neither arcaderush nor any of its services are designed or intended to attract children under the age of 13. We do not collect Personally Identifiable Information from any person we actually know is under the age of 13. 
+We are committed to protecting the privacy of children. Neither MyPlayYard nor any of its services are designed or intended to attract children under the age of 13. We do not collect Personally Identifiable Information from any person we actually know is under the age of 13. 
 
 THIRD PARTY VENDORS: 
 
