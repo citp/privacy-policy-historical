@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the askmrrobot.com privacy policy that was archived on 2012-11-08.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121108132516id_/http%3A//www.askmrrobot.com/account/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the askmrrobot.com privacy policy that was archived on 2013-06-21.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130621203750id_/http%3A//www.askmrrobot.com/account/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html><head>
     <meta charset="utf-8">
@@ -14,12 +14,20 @@
 
     <link href="/content/themes/base/minified/jquery-ui.min.css" rel="stylesheet">
     <link href="/content/jquery.pnotify.default.css" rel="stylesheet">
-    <link href="/content-3.0.12/minified/teamrobot.min.css" rel="stylesheet">
-        <link href="/content-3.0.12/minified/teamrobot-web-only.min.css" rel="stylesheet">
+    <link href="/content-3.1.7/minified/teamrobot.min.css" rel="stylesheet">
+        <link href="/content-3.1.7/minified/teamrobot-web-only.min.css" rel="stylesheet">
     <link href="http://fonts.googleapis.com/css?family=Ubuntu:regular,italic,bold" rel="stylesheet">
     <link href="http://fonts.googleapis.com/css?family=Aldrich" rel="stylesheet" type="text/css">
     
+    
 
+
+    
+    
+    
+
+
+    
     
     
 
@@ -27,7 +35,7 @@
     
 </head>
 
-<body>
+<body style="background-position: center 22px;">
     <div class="tr-container">
         <div class="tr-all ">
             <header class="tr-header">
@@ -35,120 +43,99 @@
                 <div class="tr-header-content-container">
                     
                     <a id="cmdHome" href="http://www.askmrrobot.com/"></a>
-                    <div class="tr-header-content  ">
+                    <div class="tr-header-content   thin">
                         <div class="tr-login-horizontal"></div>
                         <div class="tr-login-vertical"></div>
                         <div class="tr-login ">
-                            
 
 
 <div id="panelAccountContainer" class="collapsed">
     <div id="panelAccountHeader">
-        <div id="panelLoginContainer" style="">
-            <div id="panelLogin">
-                <div id="cmdLogin">LOGIN</div>
-                <label>or</label>
-                <div id="cmdLoginRegister">REGISTER</div>
-            </div>
-            <div id="panelLoginCancel">
-                <div id="cmdLoginCancel">CANCEL</div>
-            </div>
+        <div id="panelLogin">
+            <div id="cmdLogin">LOGIN</div>
+            <label>or</label>
+            <div id="cmdLoginRegister">REGISTER</div>
+        </div>
+        <div id="panelLoginCancel">
+            <div id="cmdLoginCancel">CANCEL</div>
         </div>
     </div>
-    <div class="tr-login-main">
-            <div>
-                <div id="panelSignIn" class="tr-loading-container">
-                    
-
-
-<form id="frmSignInControl" action="https://www.askmrrobot.com/accountapi/signin" method="post" data-tr-has-error="false">
-    <input type="hidden" name="ReturnUrl" value="http://www.askmrrobot.com/account/privacy-policy">
-
-    <div class="tr-signin-extras">
-        <div>
-            Don't have an account? <span id="cmdRegister">Register Now!</span>
-        </div>
-        <div>
-            <a href="https://www.askmrrobot.com/account/retrievepassword">Forgot your username or password?</a>
-        </div>
-    </div>
-
-    <div>
-        <div>
-            <span class="tr-signin-label">Username</span>
-            <input data-val="true" data-val-required="The Username field is required." id="Username" name="Username" type="text" value="">
-            <span class="field-validation-valid" data-valmsg-for="Username" data-valmsg-replace="true"></span>
-        </div>
-
-        <div>
-            <span class="tr-signin-label">Password</span>
-            <input data-val="true" data-val-required="The Password field is required." id="Password" name="Password" type="password">
-            <span class="field-validation-valid" data-valmsg-for="Password" data-valmsg-replace="true"></span>
-        </div>
-
-        <div class="tr-signin-remember">
-            <input data-val="true" data-val-required="The RememberMe field is required." id="RememberMe" name="RememberMe" type="checkbox" value="true"><input name="RememberMe" type="hidden" value="false">
-            <label for="RememberMe">Remember Me</label>
-        </div>
-
-        <div>
-            <div id="cmdSignInSubmit" class="tr-login-button">Sign In</div>
-            <div class="validation-summary-errors tr-login-validation-container">
-                
-            </div>
-        </div>
-    </div>
-</form>
-
+    <div id="panelLoginMain">
+        <div id="panelSignIn" class="tr-loading-container" style="display:none;">
+            <form id="frmSignInControl" method="post">
+                <div class="tr-signin-extras">
+                    <div>
+                        Don't have an account? <span id="cmdRegister">Register Now!</span>
+                    </div>
+                    <div>
+                        <a href="https://www.askmrrobot.com/account/retrievepassword">Forgot your username or password?</a>
+                    </div>
                 </div>
-                <div id="panelRegister" class="tr-loading-container">
-                    
 
+                <div>
+                    <div>
+                        <span class="tr-signin-label">Username</span>
+                        <input type="text" name="Username" tabindex="1">
+                        <span class="tracct-error" data-for="Username"></span>
+                    </div>
 
-<form id="frmRegisterControl" action="https://www.askmrrobot.com/accountapi/register" method="post" data-tr-has-error="false">
-    <input type="hidden" name="ReturnUrl" value="http://www.askmrrobot.com/account/privacy-policy">
+                    <div>
+                        <span class="tr-signin-label">Password</span>
+                        <input type="password" name="Password" tabindex="2">
+                        <span class="tracct-error" data-for="Password"></span>
+                    </div>
 
-    <div>
-        <span class="tr-signin-label">Username</span>
-        <input data-val="true" data-val-length="The Username must have at least 2 characters." data-val-length-max="20" data-val-length-min="2" data-val-regex="Username must start with a letter (a-z), and can only contain letters (a-z), numbers (0-9), underscores (_) and dashes (-)." data-val-regex-pattern="^[A-Za-z][A-Za-z0-9_\-]*$" data-val-required="The Username field is required." id="Username" name="Username" type="text" value="">
-        <span class="field-validation-valid" data-valmsg-for="Username" data-valmsg-replace="true"></span>
-    </div>
+                    <div class="tr-signin-remember">
+                        <div id="RememberMe" tabindex="3">Remember Me</div>
+                    </div>
 
-    <div>
-        <span class="tr-signin-label">Email</span>
-        <input data-val="true" data-val-email="The Email field is not a valid e-mail address." data-val-required="The Email field is required." id="Email" name="Email" type="text" value="">
-        <span class="field-validation-valid" data-valmsg-for="Email" data-valmsg-replace="true"></span>
-    </div>
+                    <div>
+                        <div id="cmdSignInSubmit" class="tr-login-button" tabindex="4">Sign In</div>
+                    </div>
 
-    <div>
-        <span class="tr-signin-label">Password</span>
-        <input data-val="true" data-val-length="The Password must have at least 6 characters." data-val-length-max="100" data-val-length-min="6" data-val-regex="Password contains invalid special characters." data-val-regex-pattern="^[^<>&amp;]*$" data-val-required="The Password field is required." id="Password" name="Password" type="password">
-        <span class="field-validation-valid" data-valmsg-for="Password" data-valmsg-replace="true"></span>
-    </div>
+                    <div class="tracct-error-summary"></div>
+                </div>
+            </form>
+        </div>
+        <div id="panelRegister" class="tr-loading-container" style="display:none;">
+            <form id="frmRegisterControl" method="post">
+                <div>
+                    <span class="tr-signin-label">Username</span>
+                    <input type="text" name="Username" tabindex="10">
+                    <span class="tracct-error" data-for="Username"></span>
+                </div>
 
-    <div>
-        <span class="tr-signin-label">Confirm Password</span>
-        <input data-val="true" data-val-equalto="The password and confirmation password do not match." data-val-equalto-other="*.Password" id="ConfirmPassword" name="ConfirmPassword" type="password">
-        <span class="field-validation-valid" data-valmsg-for="ConfirmPassword" data-valmsg-replace="true"></span>
-    </div>
+                <div>
+                    <span class="tr-signin-label">Email</span>
+                    <input type="text" name="Email" tabindex="11">
+                    <span class="tracct-error" data-for="Email"></span>
+                </div>
 
-    <div class="tr-signin-remember tr-register-accept">
-        <input data-val="true" data-val-required="The AcceptTerms field is required." id="AcceptTerms" name="AcceptTerms" type="checkbox" value="true"><input name="AcceptTerms" type="hidden" value="false">
-        <label for="AcceptTerms">I accept the <a href="http://www.askmrrobot.com/account/terms-of-use" target="_blank">Terms of Use</a> and <a href="http://www.askmrrobot.com/account/privacy-policy" target="_blank">Privacy Policy</a>.</label>
-    </div>
+                <div>
+                    <span class="tr-signin-label">Password</span>
+                    <input type="password" name="Password" tabindex="12">
+                    <span class="tracct-error" data-for="Password"></span>
+                </div>
+
+                <div>
+                    <span class="tr-signin-label">Confirm Password</span>
+                    <input type="password" name="ConfirmPassword" tabindex="13">
+                    <span class="tracct-error" data-for="ConfirmPassword"></span>
+                </div>
+
+                <div class="tr-signin-remember tr-register-accept">
+                    <div id="AcceptTerms" tabindex="14">I accept the <a href="http://www.askmrrobot.com/account/terms-of-use" target="_blank" tabindex="1000">Terms of Use</a> and <a href="http://www.askmrrobot.com/account/privacy-policy" target="_blank" tabindex="1000">Privacy Policy</a>.</div>
+                </div>
     
-    <div>
-        <div id="cmdRegisterSubmit" class="tr-login-button">Register</div>
-        <div id="lblRegisterErrors" class="validation-summary-errors tr-login-validation-container tr-register-validation-container">
-            
+                <div>
+                    <div id="cmdRegisterSubmit" class="tr-login-button" tabindex="15">Register</div>
+                </div>
+
+                <div class="tracct-error-summary"></div>
+            </form>
         </div>
     </div>
-</form>
-                </div>
-            </div>
-    </div>
-</div>
-                        </div>
+</div>                        </div>
 
                         <div class="tr-robo-line nav-line">
                             <div></div>
@@ -176,6 +163,11 @@
                                                 <div class="icon WowTrinkets"></div>
                                                 <div class="name">Trinkets</div>
                                                 <div class="desc">Mr. Robot's estimate data for trinket effects.</div>
+                                            </a>
+                                            <a class="tr-nav-menu-item Wow" href="http://www.askmrrobot.com/wow/haste">
+                                                <div class="icon WowHaste"></div>
+                                                <div class="name">Haste</div>
+                                                <div class="desc">Complete haste breakpoint list for all specs.</div>
                                             </a>
                                     </div>
                                 </div>
@@ -279,39 +271,22 @@ Community                                    </h4>
                             </div>
                         </nav>
 
-                        <div class="tr-header-extras">
-                            <div class="tr-header-extras-inner">
-                                <div class="tr-header-extras-inner2">
-                                    <div class="tr-header-custom">
-                                           
-                                    </div>
-
-                                        <div class="tr-header-announcement">
-                                                <script type="text/javascript"><!--                                                    //<![CDATA[
-                                                    var m3_u = (location.protocol == 'https:' ? 'https://d1.openx.org/ajs.php' : 'http://d1.openx.org/ajs.php');
-                                                    var m3_r = Math.floor(Math.random() * 99999999999);
-                                                    if (!document.MAX_used) document.MAX_used = ',';
-                                                    document.write("<scr" + "ipt type='text/javascript' src='" + m3_u);
-                                                    document.write("?zoneid=286568");
-                                                    document.write('&amp;cb=' + m3_r);
-                                                    if (document.MAX_used != ',') document.write("&amp;exclude=" + document.MAX_used);
-                                                    document.write(document.charset ? '&amp;charset=' + document.charset : (document.characterSet ? '&amp;charset=' + document.characterSet : ''));
-                                                    document.write("&amp;loc=" + escape(window.location));
-                                                    if (document.referrer) document.write("&amp;referer=" + escape(document.referrer));
-                                                    if (document.context) document.write("&context=" + escape(document.context));
-                                                    if (document.mmm_fo) document.write("&amp;mmm_fo=1");
-                                                    document.write("'><\/scr" + "ipt>");
-                                                //]]>--></script><script type="text/javascript" src="https://d1.openx.org/ajs.php?zoneid=286568&amp;cb=42973378329&amp;charset=UTF-8&amp;loc=https%3A//web.archive.org/web/20121108132516id_/http%253A//www.askmrrobot.com/account/privacy-policy"></script>
-                                        </div>
-
-                                    <div class="tr-clear"></div>
-                                </div>
-                            </div>
-                        </div>
                     </div>
                 </div>
                 <div class="tr-header-bottom-margin"></div>
             </header>
+
+            
+
+                <div id="panelNoCookie" style="display:none;">
+                    <div>You have cookies disabled.</div>
+                    <div style="margin-top:1em;">Mr. Robot really loves cookies, and refuses to do work until you enable cookies in your browser.</div>
+                </div>
+                <div id="panelMainContent">
+                    
+
+
+
 
 
 
@@ -748,7 +723,8 @@ acceptance of cookies, but this may prevent you from taking advantage of some
 of our Website’s features.<span style="mso-spacerun:yes">&nbsp; </span>Our
 advertising partners may also transmit cookies to your computer or device, when
 you click on ads that appear on the Website. Also, if you click on a link to a
-third party website, such third party may also transmit cookies to you.<span style="mso-spacerun:yes">&nbsp; </span>This Privacy Policy does not cover the use of
+third party website, such third party may also transmit cookies to you. . If you would like more information about this practice and to know your choices about not having this information used by these companies, go here: <a href="http://www.networkadvertising.org/managing/opt_out.asp">http://www.networkadvertising.org/managing/opt_out.asp</a>
+    <span style="mso-spacerun:yes">&nbsp; </span>This Privacy Policy does not cover the use of
 cookies by any third parties.</p>
 
 <p class="Body" style="margin-left:.75in;text-indent:-.25in;mso-list:l4 level1 lfo1;
@@ -983,16 +959,16 @@ concerns.</p>
 </div>
 
 </div>
+
+                </div>
             
             <footer class="tr-footer">
                 
-                <div class="tr-footer-text">
-                    ©2011-2012 Team Robot, Inc. all rights reserved. Ask Mr. Robot is a trademark of Team Robot, Inc, in the US and/or other countries.
-                </div>
-                <div class="tr-footer-text" style="margin-top: 8px;">
-                    World of Warcraft, Warcraft and Blizzard Entertainment are trademarks or registered trademarks of Blizzard Entertainment, Inc.<br>
-                    STAR WARS and related properties are trademarks in the United States and/or in other countries of Lucasfilm Ltd. and/or its affiliates.<br>
-                    League of Legends and Riot Games Inc. are trademarks or registered trademarks of Riot Games, Inc.
+                <div class="tr-footer-links">
+                    <a href="http://blog.askmrrobot.com/tutorials-faqs/" target="_blank">Help &amp; FAQs</a>
+                    <a href="http://www.askmrrobot.com/about">About</a>
+                    <a href="http://www.askmrrobot.com/contact">Contact</a>
+                    <span>©2011-2013 Team Robot, Inc.</span>
                 </div>
 
             </footer>
@@ -1006,25 +982,13 @@ concerns.</p>
 
     <div id="panelSpinner" class="tr-spinner"><div class="inner"><div class="img"></div><div class="msg"></div></div></div>
 
-    <script type="text/javascript">
-        var _isFreeloader = true;
-    </script>
-    <script type="text/javascript" src="/scripts-3.0.27/minified/openx.org.min.js"></script>
-    <script type="text/javascript" src="/scripts-3.0.27/minified/jquery-1.8.2.min.js"></script>
-
-    
-
-    <script type="text/javascript" src="/scripts-3.0.27/minified/teamrobot.min.js"></script>
-
-        <script type="text/javascript" src="/scripts-3.0.27/minified/jquery.validate.min.js"></script>
-
-        <script type="text/javascript" src="/scripts-3.0.27/minified/jquery.validate.unobtrusive.min.js"></script>
-        <script type="text/javascript" src="/scripts-3.0.27/minified/jquery.unobtrusive-ajax.min.js"></script>
- 
-    <script type="text/javascript" src="/scripts-3.0.27/minified/teamrobot.account.min.js"></script>
-    <script type="text/javascript" src="/scripts-3.0.27/minified/jquery.pnotify.min.js"></script>
+    <script type="text/javascript" src="/scripts-3.1.7/minified/porthole.min.js"></script>
+    <script type="text/javascript" src="/scripts-3.1.7/minified/jquery-1.8.2.min.js"></script>
+    <script type="text/javascript" src="/scripts-3.1.7/minified/teamrobot.min.js"></script>
+    <script type="text/javascript" src="/scripts-3.1.7/minified/teamrobot.account.min.js"></script>
+    <script type="text/javascript" src="/scripts-3.1.7/minified/jquery.pnotify.min.js"></script>
        
-        <script type="text/javascript" src="/scripts-3.0.27/minified/teamrobot.feedback.min.js"></script>
+        <script type="text/javascript" src="/scripts-3.1.7/minified/teamrobot.feedback.min.js"></script>
         
     <script type="text/javascript">
         var _gaq = _gaq || [];
@@ -1037,9 +1001,9 @@ concerns.</p>
         Tr.sslFullPath = 'https://www.askmrrobot.com/';
         Tr.checkVersion('2.0.7');
         Tr.isMobile = false;
-        
-        $(function () {
-        });
+        Tr.proxyVersion = '2';
+
+
     </script>
         
     <script type="text/javascript" src="http://www.google-analytics.com/ga.js"></script>
