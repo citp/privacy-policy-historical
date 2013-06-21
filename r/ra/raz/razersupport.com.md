@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the razersupport.com privacy policy that was archived on 2012-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121101190113id_/http%3A//www.razerzone.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the razersupport.com privacy policy that was archived on 2013-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130621172024id_/http%3A//www.razerzone.com/privacy-policy) for the most accurate reproduction.*
 
-# Razer Privacy Policy | Razer™
+# Razer - Privacy Policy
 
-Razer USA Ltd. (“ **Razer** ”, “ **our** ”, “ **us** ” or “ **we** ”) provides this Privacy Policy to inform you of our policies and procedures regarding the collection, use and disclosure of personal and other information that we receive or obtain from visitors to [http://www.razerzone.com](http://www.razerzone.com/) and other website domains that are managed by us or our affiliates (the “ **Site** ”), and from customers and other users of the services and offerings of Razer or its affiliates (the “ **Services** ”).
+Razer Inc. (“ **Razer** ”, “ **our** ”, “ **us** ” or “ **we** ”) provides this Privacy Policy to inform you of our policies and procedures regarding the collection, use and disclosure of personal and other information that we receive or obtain from visitors to [http://www.razerzone.com](http://www.razerzone.com/) and other website domains that are managed by us or our affiliates (the “ **Site** ”), and from customers and other users of the services and offerings of Razer or its affiliates (the “ **Services** ”).
 
 We update this Privacy Policy from time to time. We will notify you of any material changes by posting the new Privacy Policy on the Site. Changes take effect immediately upon such posting. You are advised to consult this Privacy Policy regularly for any changes. The date of the last revision appears at the top of the Privacy Policy.
 
@@ -39,7 +39,7 @@ Specific examples where we ask for or receive your Personal Information include 
 
 ### Information Sharing and/or Disclosure
 
-**Personal Information** : Except as set forth below in this Privacy Policy, we do not share your Personal Information with third parties. If you have any questions about our information sharing practices, please contact us at [privacy@razerzone.com](mailto:privacy@razerzone.com).  
+**Personal Information:** Except as set forth below in this Privacy Policy, we do not share your Personal Information with third parties. If you have any questions about our information sharing practices, please contact us at [privacy@razerzone.com](mailto:privacy@razerzone.com).  
 
 
   * If You Have Given Your Consent. Your Personal Information is shared or published where you have given consent, such as in connection with a Promotion where you have been awarded a prize, or where you have provided your Personal Information for posting on the Razer Blog, for Team Razer sponsorship, or other similar situations.
@@ -49,7 +49,11 @@ Specific examples where we ask for or receive your Personal Information include 
 
 
 
-**Aggregate Information and Non-identifying Information** : We may share aggregated information that does not include Personal Information and we may otherwise disclose Non-Identifying Information and Log Data (which also do not include Personal Information) with third parties for industry analysis, demographic profiling and other purposes. Any such information shared in these contexts will not contain your Personal Information. If aggregated or Non-Identifying Information is tied to your Personal Information, it will not be disclosed except as set forth in this Privacy Policy.
+**Aggregate Information and Non-identifying Information:** We may share aggregated information that does not include Personal Information and we may otherwise disclose Non-Identifying Information and Log Data (which also do not include Personal Information) with third parties for industry analysis, demographic profiling and other purposes. Any such information shared in these contexts will not contain your Personal Information. If aggregated or Non-Identifying Information is tied to your Personal Information, it will not be disclosed except as set forth in this Privacy Policy.
+
+**Advertising Networks and SNSs:** We work with third party advertising networks which may collect information about your online activities through cookies and other technologies when you use the Site. The information gathered by these advertising networks is used to make predictions about you, your interests or preferences and to display advertisements across the Internet tailored to your apparent interests. We do not permit these ad networks to collect Personal Information about you on the Site. Please note that we do not have access to or control over cookies and other technologies these ad networks may use to collect information about your interests, and the information practices of these ad networks are not covered by this Privacy Policy. Some of these ad networks are members of the Network Advertising Initiative or the Digital Advertising Alliance, through which you may opt out of ad targeting from their member companies. To learn more, please visit [Network Advertising Initiative](http://www.networkadvertising.org/choices/) or the [Digital Advertising Alliance](http://www.aboutads.info/).
+
+We may also provide SNSs with your e-mail address so that they can better customize the advertisements that are displayed to you when you use those SNSs. Please note that we do not have direct control over these SNSs and their activities are not covered by this Privacy Policy. However, if we provide your e-mail address to SNSs for this purpose, we shall have a reasonable basis to believe that the SNS shall (a) protect the security and integrity of the data while it is within the SNS’s systems; (b) guard against the accidental or unauthorized access, use, alteration or disclosure of the data within the SNS’s systems; and (c) shall not use the data if you are not a member of the SNS.
 
 ### Reviewing, Updating or Deleting Your Information
 
