@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the newlywedsurvival.com privacy policy that was archived on 2012-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121227075934id_/http%3A//newlywedsurvival.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the newlywedsurvival.com privacy policy that was archived on 2013-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130621184428id_/http%3A//newlywedsurvival.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Newlywed Survival
 
@@ -19,3 +19,5 @@ We also use third party advertisements on **http://newlywedsurvival.com** to sup
 You can choose to disable or selectively turn off our cookies or third-party cookies in your browser settings, or by managing preferences in programs such as Norton Internet Security. However, this can affect how you are able to interact with our site as well as other websites. This could include the inability to login to services or programs, such as logging into forums or accounts.
 
 Deleting cookies does not mean you are permanently opted out of any advertising program. Unless you have settings that disallow cookies, the next time you visit a site running the advertisements, a new cookie will be added.
+
+We use third-party advertising companies to serve ads when you visit our Web site. These companies may use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please see: [http://www.networkadvertising.org/managing/opt_out.asp](http://www.networkadvertising.org/managing/opt_out.asp)
