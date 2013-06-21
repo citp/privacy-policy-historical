@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the parcel2go.com privacy policy that was archived on 2012-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121220101622id_/http%3A//www.parcel2go.com/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the parcel2go.com privacy policy that was archived on 2013-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130621221721id_/http%3A//www.parcel2go.com/privacy-policy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy | Parcel2Go
 
-[ ](https://web.archive.org/web/20121220101622id_/http://www.parcel2go.com/)
+[ ](https://web.archive.org/web/20130621221721id_/http://www.parcel2go.com/)
 
 ##  Privacy Policy for www.parcel2go.com
 
@@ -88,3 +88,12 @@
   * We welcome any queries, comments or requests you may have regarding this Privacy Policy. Please do not hesitate to contact us at [https://www.Parcel2Go.com/Contact](https://web.archive.org/Contact.aspx)
 
 
+
+[](https://web.archive.org/same-day.aspx)
+
+[](https://web.archive.org/content/bulkuploadtools.aspx)
+
+[](https://web.archive.org/What-Is-PrePay.aspx)
+
+I'd like thank Daniel very much for sorting out my courier package problems to New Zealand. It wi...  
+[Read More...](http://parcel-delivery-reviews.parcel2go.com/town/Berkhamsted/Curnow/16659)
