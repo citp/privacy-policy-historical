@@ -1,19 +1,8 @@
-> *The following text is extracted and transformed from the gortons.com privacy policy that was archived on 2012-09-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120919235654id_/http%3A//gortons.com/privacy_policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gortons.com privacy policy that was archived on 2013-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130622013740id_/http%3A//gortons.com/privacy-policy) for the most accurate reproduction.*
 
-# Gorton's, Trusted Since 1849 : Privacy Policy : Privacy Policy
+# Privacy Policy | Gorton's Seafood
 
 The web site you have entered is operated by Gorton's, Inc. Gorton's is committed to protecting your personal privacy. This Privacy Policy outlines the type of information that is collected by Gorton's on this web site and information collected by Gorton's offline, such as when you enter a Gorton's sweepstakes, contest or promotion, and how we use and protect that information. This Policy also tells you what to do if you do not want your Personal Information collected when you visit our web site, and how you can change information you have already provided to us. This Policy applies only to the Gorton's web site and to information Gorton's collects offline. For example, it does not apply to banners, sweepstakes and other advertisements or promotions we may sponsor or participate in on web sites owned by third parties.
-
-  * Your Consent
-  * Collection of Personal Information
-  * How We Use Your Information
-  * Other Information We May Collect On Our Site
-  * Children
-  * Security of Information
-  * Changes in Our Policy
-  * Who to Contact
-
-
 
 #### Your Consent to this Privacy Policy
 
@@ -21,15 +10,11 @@ By using our web site or entering into a Gorton's sweepstakes, contest or promot
 
 If you choose not to provide Personal Information on this site or offline, you may not be able to do certain things, like access particular areas of the site, enter a sweepstakes or contest, or send us e-mail.
 
-^ back to top
-
 #### Collection of Personal Information
 
 As used in this Privacy Policy, "Personal Information" means personally identifiable information such as your name, street address, telephone number, screen name and email address. The site you entered may collect some or all of these types of Personal Information. Please be assured that Gorton's will not collect any Personal Information from your visits to our sites, or otherwise, unless you provide this information voluntarily.
 
 When you provide us with Personal Information, you are authorizing us to use that information in accordance with the terms of this Privacy Policy, which includes your right to limit our use of the Personal Information as described in this Policy (see "Who to Contact" below). The site you entered may also collect Personal Information from you about a third party. Please note that we use such information only for the specified purpose and we will not contact the third party again by e-mail unless and until the third party contacts us.
-
-^ back to top
 
 #### How We Use Your Information
 
@@ -38,8 +23,6 @@ When you supply Personal Information at this web site or offline, it will be use
 In the course of doing business, we employ other companies and individuals to perform a variety of functions on our behalf. For example, we hire agencies to help administer consumer promotions, to analyze data, to fulfill orders you place, and to provide customer service. These agents may have access to personal information if it is needed to perform their functions for Gorton's; however, they are prohibited from using it for other purposes and they are required to maintain the information in confidence.
 
 We will not sell, trade, rent or give individually identifying information to third parties. At times we may provide Personal Information and aggregate statistics about our visitors, database entries, web traffic patterns, and related site information we collect on our web site to selected vendors or third parties to analyze solely to help us improve our products and our web sites. Finally, please note that we will release your Personal Information if required to do so by law, or by search warrant, subpoena or court order.
-
-^ back to top
 
 #### Other Information We May Collect On Our Site
 
@@ -55,30 +38,20 @@ Some of the pages you visit may also collect information through the use of pixe
 
 Finally, we may supplement the information that you provide us with other information that we receive from third parties. We do this for marketing purposes in order to provide more targeted products and services to meet your needs.
 
-^ back to top
-
 #### Children
 
 At the Gorton's website, users are told that they must be 13 years or older before sending Personal Information. Users under age 13 should not submit any Personal Information to us.
-
-^ back to top
 
 #### Security of Information
 
 We take reasonable precautions to keep your Personal Information secure. All personally identifiable information is subject to restricted access to prevent unauthorized access, modification or misuse.
 
-^ back to top
-
 #### Changes in Our Policy
 
 Gorton's reserves the right to change or remove this Privacy Policy at our discretion. We will post any new policy here and we encourage you to visit this area frequently to stay informed.
-
-^ back to top
 
 #### Who to Contact
 
 Please write to us at [info@gortons.com](mailto:info@gortons.com) or call us at 1-800-222-6846 if you have any comments or questions about this Privacy Policy or to report any violations of the Privacy Policy. We will respond to you within 24 to 48 hours in most cases.
 
 If you don't want to be contacted in the future or would like us to correct or update your Personal Information in our records, please email us with your request at [info@gortons.com](mailto:info@gortons.com).
-
-^ back to top
