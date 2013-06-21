@@ -1,9 +1,9 @@
-<!--The following is the downloaded HTML source of the sodahead.com privacy policy that was archived on 2012-12-20.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121220023148id_/http%3A//www.sodahead.com/about-us/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the sodahead.com privacy policy that was archived on 2013-06-22.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130622001117id_/http%3A//www.sodahead.com/about-us/privacy) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xmlns:fb="https://www.facebook.com/2008/fbml"><head prefix="og: http://ogp.me/ns# sodahead-app
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" lang="en" xmlns:fb="https://www.facebook.com/2008/fbml"><head prefix="og: http://ogp.me/ns# sodahead-app
       http://ogp.me/ns/apps/sodahead-app#">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1,requiresActiveX=true">
     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
     <meta name="google-site-verification" content="zW46iP-UA38biLEL3GUR2Jlo-q1hC7Sv6DLYLijWLi8">
     <title>SodaHead.com - Privacy</title>
@@ -31,7 +31,7 @@
     'images_base': 'http://images.sodahead.com/images/static/',
     'user': {
       'authed': 0,
-      'id': '6d10be4c030847eeaf22d5364a9055a0', 
+      'id': '70fb2a925c0345be8d2363db669ac553', 
       'nickName': '',
       'type': 0,
       'admin': 0,
@@ -78,11 +78,9 @@
               var p = "link=ibaf&q=",
                   q = /(%3F|\?|%26|&)(q|p)(%3D|=)(.+?)(%26|&|$)/.exec(ref),
                   i = /imgurl=([^&]*)/.exec(ref);
-              if(q){
-                p += q[4];
-              }
-              if(i){
-                p += "&" + i[0];
+              if(q) p += q[4];
+              if(i) p += "&" + i[0];
+              if(q || i){
                 top.location = loc + (/\?/.exec(loc) ? "&" : "?") + p;
               }else if(top.location != loc){
                 _ibaf = p;
@@ -93,16 +91,17 @@
       $U.async($U.loader, {cb:function(){
         $LAB.setOptions({"AlwaysPreserveOrder": true})
 .script("//d6fekxp9qbg3b.cloudfront.net/js/generated/sodahead/utils/lib-v290.js")
-.script("//d6fekxp9qbg3b.cloudfront.net/js/generated/sodahead/utils/main-v1355887511.js")
+.script("//d6fekxp9qbg3b.cloudfront.net/js/generated/sodahead/utils/main-v1371776270.js")
 
     .wait(function(){$U.ready=1;});
     
         }
       });
+      var _shmapq = _shmapq || [];
     </script><script src="//d6fekxp9qbg3b.cloudfront.net/js/lib/LABjs/LAB-v203.js" id="undefined"></script>
 
     
-  <link rel="stylesheet" type="text/css" href="//d6fekxp9qbg3b.cloudfront.net/css/generated/sodahead/utils/main-v1355887511.css">
+  <link rel="stylesheet" type="text/css" href="//d6fekxp9qbg3b.cloudfront.net/css/generated/sodahead/utils/main-v1371776270.css">
 
 
     <script>
@@ -120,8 +119,7 @@
 <script>
   if(
 SH.meta.session.js_ads || 
-(/* #15528 */ SH.meta.session.country != "US" && Math.random() <= 0.02) || 
-(/* 19215 */ SH.meta.session.yellowhammer)
+(/* #15528 */ SH.meta.session.country != "US" && Math.random() <= 0.02)
 ){
     SH.meta.JS_ADS = 1;
   }
@@ -129,8 +127,8 @@ SH.meta.session.js_ads ||
       SH.meta.DEFER_ADS = 0 && !SH.meta.JS_ADS;
       SH.meta.SHOW_HOME_BR_300x250 = SH.meta.session.home_br_300x250;
       SH.meta.SHOW_BTF_728x90 = !SH.meta.JS_ADS && !SH.meta.session.specificmedia;
-      SH.meta.SHOW_300x600 = !SH.meta.session.specificmedia;
-      SH.meta.SHOW_1x1 = !$MS.adexcite_vslider;
+      SH.meta.SHOW_300x600 = !$MS.specificmedia && !$MS.newsmaxfeed_ros;
+      SH.meta.SHOW_1x1 = true;
       SH.meta.SHOW_ATF_300x250 = !SH.meta.SHOW_ATF_300x600;
       SH.meta.SHOW_IBAF_300x600 =
         SH.meta.session.country in {US:1,GB:1,AU:1,'':1};
@@ -149,7 +147,7 @@ SH.meta.session.js_ads ||
   
   googletag.pubads().setTargeting("level", "0");
 
-  googletag.pubads().setTargeting("pgct", "34");
+  googletag.pubads().setTargeting("pgct", "2");
 
   if(SH.meta.JS_ADS){
     
@@ -163,15 +161,20 @@ SH.meta.session.js_ads ||
 
   
 
-        <script>
-          
-  if($MS.gumgum){
-    window.ggv2id = $MS.gumgum;
-    $U.async("http://g2.gumgum.com/javascripts/ggv2.js");
-    _gaq.push(["_trackEvent", "Ad Impressions",
-      "gumgum", $MS.gumgum + "_19145"]);
-  }
+        
+  <script>
+    if($MS.gnm_home1000 || $MS.gnm_home47 || $MS.gnm_ros1000 ||
+      $MS.gnm_custom1000 || $MS.gnm_discussion1000){
+      document.write("<script src='http://cdn.triggertag.gorillanation.com/js/triggertag.js'><\/script>");
+    }
+  </script><script>
+    if($MS.gnm_home1000 || $MS.gnm_home47 || $MS.gnm_ros1000 ||
+      $MS.gnm_custom1000 || $MS.gnm_discussion1000){
+      document.write("<script>getTrigger('5010');<\/script>");
+    }
+  </script>
 
+        <script>
           
   !function(){
     var c = $MS.specificmedia_ibaf,
@@ -201,12 +204,11 @@ SH.meta.session.js_ads ||
     ss = SH.meta.session,
     width = document.documentElement.clientWidth,
     ads = 344;
-    if(SH.meta.JS_ADS
-      || ss.adexcite_vslider
-      || ss.gnm_home1000 || ss.gnm_custom1000 || ss.gnm_discussion1000
-      || ss.indieclick || ss.indieclick_pushdown
-    ){return;}
-    if(ss['specificmedia_homepage']){ ss[s] = 1; }
+    if(SH.meta.JS_ADS ||
+      ss.specificmedia_pagegrabber ||
+      ss.gnm_home1000 || ss.gnm_custom1000 || ss.gnm_discussion1000 || ss.gnm_ros1000 ||
+      ss.indieclick || ss.indieclick_pushdown) return;
+    if(ss["specificmedia_homepage"]) ss[s] = 1;
     if(ss[s] && width > 990 + ads){
       ss[s] = width - ads > 1140 ? 1140 : 990;
       $U.async("http://rome.specificclick.net/rome/rome.js?l=28334&t=j&cw=" +
@@ -219,12 +221,6 @@ SH.meta.session.js_ads ||
   }();
 
           
-          
-  if($MS.adexcite_vslider){
-    $U.async("//adserver.adtechus.com/addyn/3.0/5353.1/2328581/0/16/ADTECH;loc=100;target=_blank;key=key1+key2+key3+key4;grp=[group];size=1x1;misc=" + +new Date);
-    _gaq.push(["_trackEvent", "Ad Impressions", "adexcite", "vslider_texas"]);
-  }
-
           var LOTCC = LOTCC || {asyncBehaviors: {}, async: true};
           
           $U.async('//tags.crwdcntrl.net/c/375/cc.js');
@@ -294,7 +290,7 @@ SH.meta.session.js_ads ||
                 <script>
                   
   !function(){
-    if($MS.indieclick_pushdown || $MS.adexcite_vslider){return;}
+    if($MS.indieclick_pushdown){return;}
     var cid = $MS.specificmedia_geo_pushdown ||
     $MS.specificmedia_pushdown;
     if(cid){
@@ -1124,7 +1120,7 @@ div.parallelFloat {
                   <div class="navMenu" id="navTopics">
                     <span class="topicsLabel">Hot Topics</span>
                     
-<a href="/topic/lifestyle/" class="topic" title="Lifestyle">Lifestyle</a><a href="/topic/connecticut-shooting/" class="topic" title="Connecticut Shooting">Connecticut Shooting</a><a href="/topics/" class="moreTopics">more …</a>
+<a href="/topic/public-opinion/" class="topic" title="Public Opinion">Public Opinion</a><a href="/topic/music/" class="topic" title="Music">Music</a><a href="/topic/sports/" class="topic" title="Sports">Sports</a><a href="/topics/" class="moreTopics">more …</a>
 
                   </div>
                 
@@ -1136,14 +1132,8 @@ div.parallelFloat {
 <div id="footer">
   <div id="topicBar">
       <span class="topicsLabel">Topics:</span>
-<a href="/topic/connecticut-shooting/" class="topic" title="Connecticut Shooting">Connecticut Shooting</a><a href="/topic/lifestyle/" class="topic" title="Lifestyle">Lifestyle</a><a href="/topic/music/" class="topic" title="Music">Music</a><a href="/topic/fashion/" class="topic" title="Fashion">Fashion</a><a href="/topic/public-opinion/" class="topic" title="Public Opinion">Public Opinion</a><a href="/topic/sports/" class="topic" title="Sports">Sports</a><a href="/topic/infographic/" class="topic" title="Infographic">Infographic</a><a href="/topic/games/" class="topic" title="Games">Games</a><a href="/topics/" class="moreTopics">more …</a>
-<span id="glamFooter">
-        Partnered with
-        <a href="http://www.ning.com/">
-          <img src="http://images.sodahead.com/images/static//logos/partnered-ning-glamsocial-black.gif" alt="Partnered with Glam Entertainment" id="glamFooterLogo">
-        </a>
-      </span>
-    </div>
+<a href="/topic/music/" class="topic" title="Music">Music</a><a href="/topic/public-opinion/" class="topic" title="Public Opinion">Public Opinion</a><a href="/topic/lifestyle/" class="topic" title="Lifestyle">Lifestyle</a><a href="/topic/fashion/" class="topic" title="Fashion">Fashion</a><a href="/topic/sports/" class="topic" title="Sports">Sports</a><a href="/topic/barack-obama/" class="topic" title="Barack Obama">Barack Obama</a><a href="/topic/games/" class="topic" title="Games">Games</a><a href="/topics/" class="moreTopics">more …</a>
+</div>
     <div class="footerColumn">
       <div class="footerHeader">Site Links</div>
       <ul>
@@ -1179,19 +1169,19 @@ div.parallelFloat {
     <div class="footerColumn last">
       <div class="footerHeader">About SodaHead</div>
       <ul>
-        <li><a href="/about-us/">About Us</a></li>
+        <li><a href="/about-us/custom-polls/#team">About Us</a></li>
         <li><a href="/about-us/advertise/">Advertise with us</a></li>
         <li><a href="/poll-widget/samples/">Poll Widget Samples</a></li>
       </ul>
       <ul>
-        <li><a href="/partners/bemoresocial/" rel="nofollow">Polling Solutions</a></li>
+        <li><a href="/about-us/custom-polls/" rel="nofollow">Polling Solutions</a></li>
         <li><a href="http://twitter.com/SodaHead">@SodaHead on Twitter</a></li>
         <li><a href="http://www.facebook.com/SodaHead">Like us on Facebook</a></li>
       </ul>
       <div id="footerShare"></div>
     </div>
   <div class="copyright" id="copyright">
-    <abbr title="wap-lax-007a.la1.sodahead.com">©</abbr> 2012
+    <abbr title="wap-lax-015a.la1.sodahead.com">©</abbr> 2013
     SodaHead.com All Rights Reserved
   </div>
 </div>
@@ -1241,8 +1231,40 @@ div.parallelFloat {
           if($MS.indieclick){
             indieclick($MS.indieclick);
           }
+          
+  !function(s, l){
+    if($MS[s]){
+      l = /grabber(\d+)/.exec($MS[s]);
+      $U.async("//rome.specificclick.net/rome/rome.js?l=" + (l ? l[1] : "46442") +
+        "&t=j&cw=840&cp=10&smrx=300&smry=250&to=0&bo=0&lo=0", {
+          "e": document.body,
+          "id": "specific_rome_js"});
+      _gaq.push(["_trackEvent", "Ad Impressions", "specificmedia", $MS[s]]);
+    }
+  }("specificmedia_pagegrabber");
+
         </script>
 
         
+
+        
+  <script>
+    if($MS["gnm_ros1000"]
+      && window[$MS["gnm_ros1000"]]
+      && window[$MS["gnm_ros1000"]] > 0){
+      gnm_ord = window.gnm_ord || Math.random() * 1e16;
+      gnm_tile = window.gnm_tile || 1;
+      document.write("<style>" +
+          "body{filter: - !important; background-position: center top !important;}" +
+          "#outerWrap{background: none !important; margin: 0; width: auto !important;}" +
+          "#innerWrap{background: none !important;}" +
+      "<\/style>");
+      document.write("<script src='http://n4403ad.doubleclick.net/adj/gn.sodahead.com/ros;sect=ros;mtfInline=true;sz=1000x1000;tile=" +
+        (gnm_tile++) + ";ord=" + gnm_ord + "?'><\/script>");
+      _gaq.push(["_trackEvent", "Ad Impressions", "gorillanation",
+        $MS["gnm_ros1000"]]);
+    }
+  </script>
+
   
 </body></html>
