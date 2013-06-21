@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pcspecialist.co.uk privacy policy that was archived on 2012-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121225043558id_/http%3A//www.pcspecialist.co.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pcspecialist.co.uk privacy policy that was archived on 2013-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130621082150id_/http%3A//pcspecialist.co.uk/privacy-policy) for the most accurate reproduction.*
 
 # PCSPECIALIST - Privacy-policy
 
@@ -6,7 +6,7 @@ Privacy Policy
 
 Definitions:
 
-The word "Company", "Company's" refers to the registered company PC Specialist LTD, no. 4777867 in England and Wales.  
+The word "Company", "Company's" refers to the registered company PC Specialist Ltd, no. 4777867 in England and Wales.  
 "Website" refers to the domain name http://www.pcspecialist.co.uk and all content hosted here.
 
 PC Specialist Ltd, hereafter the Company, agrees not to disclose to anyone the terms, conditions, subject matter, or identity of the parties involved in any paid transaction to any other party. The Company collects personally identifiable information, such as your e-mail address, name, home or work address or home, work or mobile telephone number. The Company does not associate sensitive data, such as your race, religion, or political affiliations, with personally identifiable information. The Company takes precautions to segregate any sensitive data you may provide on the Company's sites that reference your race, religion, sexual orientation, ethnicity or political affiliations. 
@@ -31,6 +31,6 @@ To ensure that your credit, debit or charge card is not being used without your 
 
 The company uses cookies for collecting user information from the website. Cookies are used to enhance the user experience of the website by remembering a specification previously configured, allowing the specification to be loaded easily when the website is visited up to 36 hours later. Cookies are also used to track the effectiveness of marketing campaigns on external websites, by initially pointing the visitor to a tracking URL. Cookies are not used in any other way and the Company (or any other third party) will never directly contact you based on data collected by cookies. 
 
-PC Specialist Ltd 
+PC Specialist Ltd
 
 enquiries@pcspecialist.co.uk 
