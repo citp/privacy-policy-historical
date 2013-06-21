@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gameyeeeah.com privacy policy that was archived on 2012-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121217011017id_/http%3A//r4-3.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gameyeeeah.com privacy policy that was archived on 2013-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130621092748id_/http%3A//r4-3.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Notice : R4 Card | R4i SDHC | R4i Gold | R4i 3DS | Acekard 2i | EZFlash | Supercard DSTWO / DSonei, R4-3
 
