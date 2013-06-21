@@ -1,16 +1,16 @@
-> *The following text is extracted and transformed from the zong.com privacy policy that was archived on 2012-10-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121003013934id_/http%3A//www.zong.com/help/policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zong.com privacy policy that was archived on 2013-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130621042458id_/http%3A//zong.com/help/policy) for the most accurate reproduction.*
 
 # Privacy Policy | Zong
 
 [Terms of Use](https://web.archive.org/help/terms)
 
-ZONG, Inc. is a licensee of the TRUSTe Privacy Program. TRUSTe is an independent organization whose mission is to build user’s trust and confidence in the Internet by promoting the use of fair information practices. This privacy statement covers the Web site www.zong.com. Because this Web site wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices and have its privacy practices reviewed for compliance by TRUSTe. 
+This policy applies to your use of the Zong service and tells you how we use and protect the information we may collect. If you reside in the United States of America, the contracting party is PayPal, Inc., eBay Park North, 2211 North First Street, San Jose, California 95131, USA. If you reside within the European Union, the Zong service is provided to you by PayPal (Europe) S.à r.l. & Cie, S.C.A., 22-24 Boulevard Royal, L-2449 Luxembourg. If you reside in any other country the contracting party is PayPal Pte. Ltd, a company incorporated in Singapore whose address is 5 Temasek Boulevard #09-01, Suntec Tower Five, Singapore 038985\. 
 
-If you have questions or concerns regarding this statement, you should first contact privacy@zong.com. If you do not receive acknowledgement of your inquiry or your inquiry has not been satisfactorily addressed, you should contact TRUSTe at http://watchdog.truste.com/pvr.php?page=complaint&url= TRUSTe will then serve as a liaison with us to resolve your concerns. 
+### Binding Corporate Rules
 
-ZONG, Inc. complies with the EU Safe Harbor framework as set forth by the Department of Commerce regarding the collection, use, and retention of data from the European Union. 
+In addition to the privacy practices set out in this Privacy Policy, eBay Inc., the ultimate parent company of PayPal, has established a set of Corporate Rules (also referred to as Binding Corporate Rules), approved by a number of European Union data protection regulators. These Corporate Rules are a commitment by eBay Inc. to adequately protect your personal information regardless of where the data resides, and depending upon your location, may provide additional rights through your data protection regulator or a court. If you would like additional information regarding our Corporate Rules please contact us at privacy@zong.com. 
 
-### Personal Information
+### Information We Collect
 
 Using ZONG services will require publishers, developers or end-users of ZONG Web Payment Service (ZWPS) to provide ZONG certain personal information so that ZONG can provide you with the best service possible. 
 
@@ -20,11 +20,11 @@ In order to integrate the ZONG service well on your Web sites, ZONG may request 
 
 #### For end-users
 
-To ensure the good performance and proper functionality of the ZONG service, ZONG may request end-users to provide their phone number, wireless networks, countries, names, addresses, valid e-mails and financial information where applicable (hereafter the Personal Information). 
+To ensure the good performance and proper functionality of the ZONG service, ZONG may use your personal information (mainly phone number, email, wireless network or financial information) to process and monitor the payment, billing and if needed, communication and support. We will also use the information to market PayPal services to you. You will be able to unsubscribe from any such mailings. 
 
 ### Use of Your Personal Information
 
-The Personal Information you provided us will not be shared, sold, rented, or traded to any third party except as described in this privacy policy without your prior consent. ZONG may use your personal data (mainly phone numbers and email) for communication, support and invoicing purposes. 
+ZONG may use your personal data (mainly phone numbers and email) for communication, support and invoicing purposes. 
 
 #### For publishers or developers
 
@@ -32,7 +32,7 @@ In order to integrate the ZONG service on your Web sites, ZONG may use your pers
 
 #### For end-users
 
-To ensure the good performance and proper functionality of the ZONG service, ZONG may use your personal information (mainly phone number, email, wireless network or financial information) to process and monitor the payment, billing and if needed, communication and support. 
+To ensure the good performance and proper functionality of the ZONG service, ZONG may use your personal information (mainly phone number, email, wireless network or financial information) to process and monitor the payment, billing and if needed, communication and support. We will also use the information to market PayPal services to you. You will be able to unsubscribe from any such mailings. 
 
 ### Registration
 
@@ -80,7 +80,7 @@ When you use "Add This" to bookmark and share our products and site, you will be
 
 This Web site contains links to other sites that are not owned or controlled by ZONG. Please be aware that we, ZONG, are not responsible for the privacy practices of such other sites. We encourage you to be aware when you leave our site and to read the privacy statements of each and every Web site that collects personally identifiable information. This privacy statement applies only to information collected by this Web site. 
 
-### General and access
+### General and Access
 
 ZONG may disclose personally identifiable information in response to legal process, for example, in response to a court order or a subpoena. We also may disclose such information in response to a law enforcement agency's request, or where we believe it is necessary to investigate, prevent, or take action regarding illegal activities, suspected fraud, situations involving potential threats to the physical safety of any person, violations of our terms of use, to verify or enforce compliance with the policies governing ZONG Web site and applicable laws or as otherwise required or permitted by law or consistent with legal requirements. 
 
@@ -88,7 +88,7 @@ ZONG may disclose personally identifiable information in response to legal proce
 
 ZONG reserves the right to access and disclose your Personal Information to comply with laws, subpoena and lawful government requests, to operate its systems properly, to protect other ZONG users or third parties. ZONG may also reserve the right to disclose individually identifiable information to third parties where a complaint arises concerning your use of the ZONG service, and that use is deemed inconsistent with the ZONG Terms & Conditions. 
 
-Now and in the future, there are subsidiaries, joint ventures, and one or more parent companies whom we control, who control us, or with whom we are under common control (collectively, “Affiliates”). We may share some or all of your personal information with these Affiliates for their business purposes and as required or permitted by law. If our company or our assets are acquired by another company, or otherwise during the dissolution or sale of the company or its assets, we may also provide you data to our corporate purchaser, successor, or new Affiliates. Some of our servers are based in the United States. By using this service, you consent to the transfer of your personal data to the United States, subject to United States law, even though the European Union has deemed the United States laws not to offer an adequate level of data protection. 
+Now and in the future, there are subsidiaries, joint ventures, and one or more parent companies whom we control, who control us, or with whom we are under common control (collectively, “Affiliates”). We may share some or all of your personal information with these Affiliates for their business purposes and as required or permitted by law. If our company or our assets are acquired by another company, or otherwise during the dissolution or sale of the company or its assets, we may also provide you data to our corporate purchaser, successor, or new Affiliates. 
 
 ### Information Protection
 
@@ -102,17 +102,17 @@ The security of your personal information is important to us. When you enter sen
 
 A cookie is a piece of information that is deposited by the ZONG computer server when you visit ZONG Web site which is stored on your computer's hard drive by your web browser. On revisiting ZONG Web site, the ZONG' server will recognize the cookies, giving ZONG information about your last visit. At your option, we link the information we store in cookies to any personally identifiable information you submit while on our site so as to enhance your experience. We use both session ID cookies and persistent cookies. We use session cookies to make it easier for you to navigate our site. A session ID cookie expires when you close your browser. A persistent cookie remains on your hard drive for an extended period of time. You can remove persistent cookies by following directions provided in your Internet browser’s “help” file. 
 
-At your option, we set a persistent cookie to store your mobile numbers which allows our application to pre-fill your mobile number so that you do not have to enter it in future sessions. Persistent cookies also enable us to track and target the interests of our users to enhance the experience on our site. Most browsers accept cookies automatically, but usually you can alter the settings of your browser to prevent automatic acceptance. 
-
-### IP addresses 
-
-Every time you connect to ZONG's Web site, web server logs will be stored which show your IP address (the unique number which your machine uses when it is connected to the Internet); what you looked at; whether the page request was successful or not, and which browser you used to view the pages. The use of this data is strictly for statistical purposes and personalization purposes only. This helps ZONG understand where you come from, which areas of the site are of particular interest and also which pages are not being requested. We link this automatically-collected data to personally identifiable information. IP addresses are tied to personally identifiable information to help combat fraud, improve security and provide localized content and instructions in the language native to that country. 
+We set a persistent cookie to store your mobile numbers which allows our application to prefill your mobile number so that you do not have to enter it in future sessions. Persistent cookies also enable us to track and target the interests of our users to enhance the experience on our site. Most browsers accept cookies automatically, but usually you can alter the settings of your browser to prevent automatic acceptance. 
 
 We use a third-party tracking service that uses cookies to track non-personally identifiable information about visitors to our site in the aggregate. These services track traffic volume and site statistics that are not linked to personally identifiable information. The use of cookies by our tracking utility company and other trusted partners is not covered by our privacy statement. We do not have access or control over these cookies. 
 
+### IP Addresses 
+
+Every time you connect to ZONG's Web site, web server logs will be stored which show your IP address (the unique number which your machine uses when it is connected to the Internet); what you looked at; whether the page request was successful or not, and which browser you used to view the pages. The use of this data is strictly for statistical purposes and personalization purposes only. This helps ZONG understand where you come from, which areas of the site are of particular interest and also which pages are not being requested. We link this automatically-collected data to personally identifiable information. IP addresses are tied to personally identifiable information to help combat fraud, improve security and provide localized content and instructions in the language native to that country. 
+
 ### Choice and Opt-out
 
-We will not share, sell, rent or trade your personal information in ways incompatible with the ones described above without providing you a choice. We provide you the opportunity to ‘opt-out’ of having your personally identifiable information used for certain purposes, when we ask for this information. If you no longer wish to receive our newsletter and promotional communications, you may opt-out of receiving them by following the instructions included in each newsletter or communication or by emailing us at privacy@zong.com. We offer an opportunity to opt-out of certain communications, change your personal information and preferences on our Developer Console or you may contact us at (650)362-0434, privacy@zong.com or 640 Oak Grove Ave, Menlo Park to opt-out. 
+We will not share, sell, rent or trade your personal information in ways incompatible with the ones described above without providing you a choice. We provide you the opportunity to ‘opt-out’ of having your personally identifiable information used for certain purposes, when we ask for this information. If you no longer wish to receive our newsletter and promotional communications, you may opt-out of receiving them by following the instructions included in each newsletter or communication or by emailing us at privacy@zong.com. 
 
 ### Use by Children 
 
@@ -126,13 +126,6 @@ Access to personally identifiable information that is collected from our sites m
 
 If we decide to change our privacy practices, we will post those changes to this privacy statement, the home page, and other places we deem appropriate so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it. We reserve the right to modify this privacy statement at any time, so please review it frequently. If we change how we use your personally identifiable information, we will notify you here, by email, or by means of a notice on our home page. 
 
-### How to Contact Us
+ZONG is a licensee of the TRUSTe Privacy Program. TRUSTe is an independent organization whose mission is to build user’s trust and confidence in the Internet by promoting the use of fair information practices. This privacy statement covers the Web site www.zong.com. Because this Web site wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices and have its privacy practices reviewed for compliance by TRUSTe. 
 
-If you have any questions or concerns about the online privacy statement for this site or its implementation you may contact us at privacy@zong.com. 
-
-ZONG, Inc.   
-640 Oak Grove Ave.   
-Menlo Park, CA 94025   
-P: 650 362 0434   
-F: 650 362 2375   
-
+If you have questions or concerns regarding this statement, you should first contact privacy@zong.com. If you do not receive acknowledgement of your inquiry or your inquiry has not been satisfactorily addressed, you should contact TRUSTe at http://watchdog.truste.com/pvr.php?page=complaint&url= TRUSTe will then serve as a liaison with us to resolve your concerns. 
