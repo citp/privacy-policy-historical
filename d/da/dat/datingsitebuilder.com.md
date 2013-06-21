@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the datingsitebuilder.com privacy policy that was archived on 2012-10-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121021135535id_/http%3A//www.datingsitebuilder.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the datingsitebuilder.com privacy policy that was archived on 2013-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130621035353id_/http%3A//www.datingsitebuilder.com/privacy.asp) for the most accurate reproduction.*
 
 # Dating Site Builder Privacy Policy
 
