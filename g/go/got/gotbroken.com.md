@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gotbroken.com privacy policy that was archived on 2012-10-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121015030057id_/http%3A//www.gotbroken.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gotbroken.com privacy policy that was archived on 2013-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130621024009id_/http%3A//www.gotbroken.com/privacy) for the most accurate reproduction.*
 
 # Privacy - GotBroken.Com
 
@@ -11,7 +11,7 @@ Your privacy is very important to us. Accordingly, we have developed this Policy
   * Personal data should be relevant to the purposes for which it is to be used, and, to the extent necessary for those purposes, should be accurate, complete, and up-to-date. 
   * We will protect personal information by reasonable security safeguards against loss or theft, as well as unauthorized access, disclosure, copying, use or modification. 
   * We will make readily available to customers information about our policies and practices relating to the management of personal information. 
-  * We use third-party advertising companies to serve ads when you visit our website. Our advertising partners include, but are not limited to, Google. These companies may use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. If you would like more information about these practices, used by Google, or to opt out of having cookies set on your system, please visit[ Google’s Ad and Content Network Privacy Policy](http://www.google.com/privacy_ads.html) page. 
+  * We use third-party advertising companies to serve ads when you visit our website. These companies may use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you.
 
 
 
