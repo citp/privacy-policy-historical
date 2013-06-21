@@ -1,605 +1,425 @@
-<!--The following is the downloaded HTML source of the t-f-m.co.uk privacy policy that was archived on 2011-07-21.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110721182242id_/http%3A//www.ubm.com/ubm/sitetools/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the t-f-m.co.uk privacy policy that was archived on 2013-06-21.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130621083520id_/http%3A//privacypolicy.ubm.com) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
-<title>UBM plc - Privacy Statement</title>
-<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
-<link rel="icon" href="/ubm/images/favicon.ico">
-<link rel="shortcut icon" href="/ubm/images/favicon.ico">
-<link href="http://www.unitedbusinessmedia.com/ubm/media/releases/?t=rss_press" rel="alternate" type="application/rss+xml" title="Press Releases">
-<link href="http://www.unitedbusinessmedia.com/ubm/ir/calendar/?t=rss_eventsnew" rel="alternate" type="application/rss+xml" title="Calendar">
-<link href="http://events.ubm.com/rss" rel="alternate" type="application/rss+xml" title="Upcoming UBM Events">
-<link href="/ubm/css/global_sept9.css" rel="stylesheet" type="text/css" media="screen">
-<link href="/ubm/css/topnav.css" rel="stylesheet" type="text/css" media="screen">
-<link href="/ubm/css/main.css" rel="stylesheet" type="text/css" media="screen">
-<link href="/ubm/css/inlinenav.css" rel="stylesheet" type="text/css" media="screen">
-<link href="/ubm/css/print2.css" rel="stylesheet" type="text/css" media="print">
-
-
-
-
-
-
-<script language="javascript" type="text/javascript">
-// online form validation function
-function checkForm(form)
-{
-if (document.contactForm.annrep.checked == false && document.contactForm.intrep.checked == false &&	document.contactForm.annintrep.checked == false &&	document.getElementById("annintrep3").checked == false && document.getElementById("annintrep2").checked == false &&	document.contactForm.mailinglist.checked == false)
- {
-      alert ('Select atleast one report');		
-      return false;		
- }	
-
-    intro = 'Please provide the following information:\n\n';
-    msg = '';
-    regex = /^.+\@(\[?)[a-zA-Z0-9\-\.]+\.([a-zA-Z]{2,3}|[0-9]{1,3})(\]?)$/;
-    if(document.contactForm.surname.value==''){msg+='Surname\n';}
-    if(document.contactForm.address1.value==''){msg+='Address\n';}
-    if(document.contactForm.city.value==''){msg+='City\n';}
-    if(document.contactForm.county.value==''){msg+='County or State\n';}
-    if(document.contactForm.postzipcode.value==''){msg+='Post or Zip code\n';}
-    if(document.contactForm.country.value==''){msg+='Country\n';}
-    if(msg==''){return true}
-    else if (msg!= ''){alert(intro + '\n' + msg);return false;}
-}
-</script>
-
-<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.min.js" type="text/javascript"></script>
-
-
-<script src="/ubm/js/common.js" language="javascript" type="text/javascript"></script>
-<script src="/ubm/js/fontsize.js" language="javascript" type="text/javascript"></script>
-<!-- 	//document.getElementById("fontID").innerHTML = (int_fontSize + int_unitType); -->
-<script language="javascript">
-function ValidatePhase1()
-{
-
-var form_field_country = document.getElementById("form_field_country").value;
-
-if((form_field_country=="CA")||(form_field_country=="AU")||(form_field_country=="US")||(form_field_country=="GB")||(form_field_country=="JP")||(form_field_country==""))
-	{
-					window.location.href="/ubm/disclaimer/denied/"
-				}
-			else
-				{
-					window.location.href="/ubm/disclaimer/entry/";
-				}			
-
-	}
-
-function ValidatePhase2()
-{
-if(Get_Cookie("URLReferal"))
-	{
-		var URLReferal=Get_Cookie("URLReferal");
-		Set_Cookie("ubmresults","1","","/","","");
-		location.href=URLReferal;
-	}
-
-}
-
-
-
-
-function ValidatePhase3()
-{
-
-var form_field_country = document.getElementById("form_field_country").value;
-
-if((form_field_country=="CA")||(form_field_country=="AU")||(form_field_country=="US")||(form_field_country=="GB")||(form_field_country=="JP")||(form_field_country==""))
-	{
-					window.location.href="/ubm/disclaimer2/denied/"
-				}
-			else
-				{
-					window.location.href="/ubm/disclaimer2/entry/";
-				}			
-
-	}
-
-function ValidatePhase4()
-{
-if(Get_Cookie("URLReferal"))
-	{
-		var URLReferal=Get_Cookie("URLReferal");
-		Set_Cookie("ubmresults2","1","","/","","");
-		location.href=URLReferal;
-	}
-
-}
-
-
-
-
-function ValidatePhase5()
-{
-
-var form_field_country = document.getElementById("form_field_country").value;
-
-if((form_field_country=="CA")||(form_field_country=="AU")||(form_field_country=="US")||(form_field_country=="GB")||(form_field_country=="JP")||(form_field_country==""))
-	{
-					window.location.href="/ubm/disclaimer3/denied/"
-				}
-			else
-				{
-					window.location.href="/ubm/disclaimer3/entry/";
-				}			
-
-	}
-
-function ValidatePhase6()
-{
-if(Get_Cookie("URLReferal"))
-	{
-		var URLReferal=Get_Cookie("URLReferal");
-		Set_Cookie("ubmresults_rns","1","","/","","");
-		location.href=URLReferal;
-	}
-
-}
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-function Set_Cookie( name, value, expires, path, domain, secure )
-{
-var today = new Date();
-today.setTime( today.getTime() );
-if ( expires )
-{
-expires = "";
-}
-var expires_date = "" ;
-
-document.cookie = name + "=" +escape( value ) +
-( ( expires ) ? ";expires=" + expires_date : "" ) +
-( ( path ) ? ";path=" + path : "" ) +
-( ( domain ) ? ";domain=" + domain : "" ) +
-( ( secure ) ? ";secure" : "" );
-}
-
-
-function Get_Cookie( check_name ) {
-	var a_all_cookies = document.cookie.split( ';' );
-	var a_temp_cookie = '';
-	var cookie_name = '';
-	var cookie_value = '';
-	var b_cookie_found = false; // set boolean t/f default f
-
-	for ( i = 0; i < a_all_cookies.length; i++ )
-	{
-		a_temp_cookie = a_all_cookies[i].split( '=' );
-		cookie_name = a_temp_cookie[0].replace(/^\s+|\s+$/g, '');
-		if ( cookie_name == check_name )
-		{
-			b_cookie_found = true;
-			if ( a_temp_cookie.length > 1 )
-			{
-				cookie_value = unescape( a_temp_cookie[1].replace(/^\s+|\s+$/g, '') );
-			}
-			return cookie_value;
-			break;
-		}
-		a_temp_cookie = null;
-		cookie_name = '';
-	}
-	if ( !b_cookie_found )
-	{
-		return false;
-	}
-}
-
-
-function getQuerystring(key)
-{
-  key = key.replace(/[\[]/,"\\\[").replace(/[\]]/,"\\\]");
-  var regex = new RegExp("[\\?&]"+key+"=([^&#]*)");
-  var qs = regex.exec(window.location.href);
-  if(qs == null)
-    return false;
-  else
-    return qs[1];
-} 
-</script>
-
-
-
-</head>
-<body style="font-size: 70%;">
-<div id="access">
-  <a href="#maincontent" accesskey="M">Skip to main content [Access key M]</a><br>
-  <a href="/ubm/sitetools/sitemap/" accesskey="S">Jump to the site map [Access key S]</a><br>
-  <a href="#localnav" accesskey="L">Skip to the second level navigation [Access key L]</a><br>
-  <a href="#mainnav" accesskey="N">Return to main site navigation [Access key N]</a>
-</div>
-<div id="wrapper">
-<a name="top"></a><!-- start logo, toplinks and search field --> 
-  <div id="topBlock">     
-    <div id="logo"><a href="/ubm/"><img src="/ubm/images/ubmlogos.gif" alt="UBM plc logo and link to home page" border="0"></a></div> 
-    <div id="searchArea"> 
-      
-<script type="text/javascript">
-
-var $j=jQuery.noConflict();
-var $q=jQuery.noConflict();
-$j(document).ready(function(){
-							$j("ul.topnavitemscontainer1 li").dropdown()
-							});
-$j.fn.dropdown=function(){
-	$j(this).hover(function(){$j("ul:first",this).css("visibility","visible")
-						},function(){
-	$j("ul:first",this).css("visibility","hidden")})};
-	
-	$q(document).ready(function(){$q("#group_websites").click(function(){
-				$q("#groupSitesContainer").slideToggle("fast")});$q("#groupSitesContainer").click(function(){$q("#groupSitesContainer").slideToggle("fast")})}
-									 );
-
-</script>
-
-<div id="rsstop"><a href="/ubm/sitetools/rssfeeds/"><img src="/siteware/rss_newa.gif" alt="Link to the RSS feeds" border="0" align="right"></a></div>
-<div id="sitelinks">
-
-        <ul> 
-          <li class="links"><a href="/ubm/sitetools/alert/" class="last">Email Alerts</a></li> 
-          <li class="links"><a href="/ubm/aboutus/contactus/" class="contactus">Contact Us</a></li> 
-          
-       <li class="links" id="group_websites"><a href="javascript:void(0);">UBM businesses</a></li>
-
-          <li class="linkhome"><a href="/ubm/">Home</a></li> 
-        </ul> 
-      </div> 
-      <div id="searchBlock"> 
-        <form action="/ubm/sitetools/search" method="get" name="freesearch"> 
-<input type="hidden" name="conf" value="htdig.ubm">
-          <div id="searchfield"> 
-            <input class="small" name="freesearch" type="text" value=" Search UBM site..." style="width:125px;" maxlength="50"> 
-          </div> 
-          <div id="searchbutton"> 
-            <input type="image" value="GO" src="/ubm/images/searchbutton.jpg" class="searchbutton"> 
-          </div> 
-        </form> 
-      </div> 
-      
-      
-  <div class="groupSitesContainer" id="groupSitesContainer" style="display: none;">
-  <ul id="groupSitesgroup-sitesUL" class="groupSitesgroup-sitesUL">
-   
-    <li><a target="_blank" title="Opens in a new window" href="http://www.ubmasia.com">UBM Asia</a></li>
-    
-    <li><a target="_blank" title="Opens in a new window" href="http://www.ubmaviation.com">UBM Aviation</a></li>
-    
-<li><a target="_blank" title="Opens in a new window" href="http://www.cmpi.biz/ubmbuiltenvironment">UBM Built Environment</a></li>
- 
-    <li><a target="_blank" title="Opens in a new window" href="http://www.ubmcanon.com">UBM Canon</a></li>   
-    <li><a target="_blank" title="Opens in a new window" href="http://www.cmpi.biz/ubmconferences">UBM Conferences</a></li>
-    
-    <li><a target="_blank" title="Opens in a new window" href="http://www.cmpi.biz/ubmconnect">UBM Connect</a></li>
-
-    
-    <li><a target="_blank" title="Opens in a new window" href="http://www.ubmglobaltrade.com">UBM Global Trade</a></li>
-  
-      <li><a target="_blank" title="Opens in a new window" href="http://www.cmpi.biz/ubmlive">UBM Live</a></li>
-    
-  <li><a target="_blank" title="Opens in a new window" href="http://www.ubmmedica.com/">UBM Medica</a></li>
-  
-    <li><a target="_blank" title="Opens in a new window" href="http://www.ubmstudios.com/">UBM Studios</a></li>
-    
-    <li><a target="_blank" title="Opens in a new window" href="http://www.ubmtechinsights.com/">UBM TechInsights</a></li>  
-     
- <li><a target="_blank" title="Opens in a new window" href="http://www.ubmtechweb.com">UBM TechWeb</a></li>  
- <li><a target="_blank" title="Opens in a new window" href="http://eetimesgroup.com/">EE Times Group</a></li>    
-
- <li><a target="_blank" title="Opens in a new window" href="http://www.everythingchannel.com">Everything Channel</a></li>    
-
- <li><a target="_blank" title="Opens in a new window" href="http://www.prnewswire.com">PR Newswire</a></li>    
-
- <li><a target="_blank" title="Opens in a new window" href="http://www.risiinfo.com">RISI</a></li>       
-      
-  </ul>
-</div>    
-
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"><html><head><title>Privacy Policy</title>
 
 <style type="text/css">
-
-.groupSitesContainer {
-background:#FFFFFF none repeat scroll 0 0;
-border-left:1px solid #002878;
-border-right:1px solid #002878;
-border-bottom:1px solid #002878;
-border-top:0 none;
-left:0;
-position:absolute;
-top:30px;
-z-index:5000;
-z-order:4000;
-left:-138px;
-
+h2 {
+  font-family: Arial,Helvetica,sans-serif;
+  color: #365f91;
+  font-size: medium;
 }
-
-.groupSitesContainer ul#groupSitesgroup-sitesUL {
-	border:0px solid #253370;
-    border-top:1px solid #253370;
-	background:#fff;
-	padding:0px;
-	margin:0px;
-	width:604px;
+h1 {
+  font-family: Arial,Helvetica,sans-serif;
+  color: #365f91;
+  font-weight: inherit;
+  font-size: medium;
 }
-.groupSitesContainer ul#groupSitesgroup-sitesUL li {
-	background:0 none;
-    width:151px;
-    float:left;
-    font-weight:normal;
-	list-style:none;
+body {
+  font-family: Arial,Helvetica,sans-serif;
+  font-size: 0.8em;
 }
-.groupSitesContainer ul#groupSitesgroup-sitesUL li:hover {
-	color:#BAB5A9;
+h3 {
+  font-family: Arial,Helvetica,sans-serif;
+  color: #365f91;
+  font-size: small;
 }
-
-
-.groupSitesContainer ul#groupSitesgroup-sitesUL li a {
-	border-bottom:1px solid #E2D8AF;
-	color:#253370;
-	display:block;
-	margin:0 10px;
-	padding:5px 0;
-	font-size:10px;
-
+h4 {
+  font-family: Arial,Helvetica,sans-serif;
+  color: #365f91;
+  font-size: small;
 }
-
-.groupSitesContainer ul#groupSitesgroup-sitesUL li a:hover {
-	color:#BAB5A9;
-	}
 
 </style>
-    </div> 
-  </div> 
-  <!-- end logo, toplinks and search field --> 
-  <!-- start top navigation --> 
-  <a name="topnav"></a><div id="topnav"><noindex>
-    <ul> 
-      <li><a href="/ubm/aboutus/">About Us</a></li>
-      <li><a href="/ubm/ourbusinesses/">Our Businesses</a></li> 
-      <li><a href="/ubm/ir/">Investor Relations</a></li> 
-      <li><a href="/ubm/media/">Media Centre</a></li> 
-      <li><a href="/ubm/governance/">Governance</a></li> 
-      <li><a href="/ubm/workingubm/" class="last">Working at UBM</a></li> 
-    </ul> 
-</noindex></div> 
-  <!-- end top navigation --> 
-  <!-- start breadcrumb, print and font size icons --> 
-  <div id="breadcrumbBar"> 
-    <div id="breadcrumb"><span class="black">You are here:</span>  <a class="breadcrumb" href="/ubm/?version=1">Home</a>&nbsp;/&nbsp;Privacy Statement </div> 
-    <div id="icons"> 
-      <div id="print">
-	   <div id="printtext">Print</div> 
-        <div id="printicon"><a href="javascript:window.print();"><img src="/ubm/images/print_icon.gif" alt="Print this page (requires JavaScript)" width="13" height="13" border="0"></a></div> 
-	  </div>  
-      <div id="fontsize"> 
-        <div id="fonttext">Font size</div> 
-        <div id="fonticons"><a href="#" onclick="setFontSize('-');return false;"><img src="/ubm/images/font_minus.jpg" alt="Decrease the font size (requires JavaScript)" width="13" height="13" border="0"></a>&nbsp;<a href="#" onclick="setFontSize('+');return false;"><img src="/ubm/images/font_plus.jpg" alt="Increase the font size (requires JavaScript)" width="13" height="13" border="0"></a></div> 
-      </div> 
-    </div> 
-  </div> 
-  <!-- end breadcrumb, print and font size icons --> 
-  <!-- start main --> 
-  <div id="main"> 
-    <div id="mainwrapper"> 
-      <!-- start left nav block --> 
-      <div id="leftnavBlock"> 
-        <div id="leftnavTitle">Site Tools</div> 
-         <a name="localnav"></a><div id="leftnav">
-		<ul id="navlist">
-
-
-
-
-
-
-
-<li class="nav2"><a href="/ubm/sitetools/search" class="nav2">Search</a></li><li class="nav2"><a href="/ubm/sitetools/alert/" class="nav2">Email Alerts</a></li><li class="nav2"><a href="/ubm/sitetools/sitemap/" class="nav2">Site Map</a></li><li class="nav2"><a href="/ubm/sitetools/disclaimer/" class="nav2">Disclaimer</a></li><li class="nav2aa"><a href="/ubm/sitetools/privacy/" class="nav2aa">Privacy Statement</a></li><li class="nav2"><a href="/ubm/sitetools/accessibility/" class="nav2">Accessibility</a></li><li class="nav2"><a href="/ubm/sitetools/downloads/" class="nav2">Downloads</a></li><li class="nav2"><a href="/ubm/sitetools/rssfeeds/" class="nav2">RSS Feeds</a></li>
-
-
-
-
-
-
-		</ul>
-<br><br>
-
-         </div> 
-      </div> 
-      <!-- end left nav block --> 
-      <!-- start contentBlock --> 
-      <div id="contentBlock"> 
-        <!-- start bannerBar --> 
-        <div id="bannerBar"> 
-          <div id="bannerImg"><object classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" codebase="http://fpdownload.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=7,0,0,0" width="460" height="118" id="ubm_page_banner" align="middle">
-<param name="allowScriptAccess" value="sameDomain">
-
-<param name="movie" value="http://www.investis.com/ubm/corpsite06/designs/pageflash/gallery/ubm_page_banner.swf" wmode="transparent">
-
-
-<param name="wmode" value="transparent"> 
-
-<param name="quality" value="high">
-<param name="bgcolor" value="#ffffff">
-
-
-<embed src="http://www.investis.com/ubm/corpsite06/designs/pageflash/gallery/ubm_page_banner.swf" quality="high" bgcolor="#ffffff" width="460" height="118" name="ubm_page_banner" align="middle" allowscriptaccess="sameDomain" type="application/x-shockwave-flash" pluginspage="http://www.macromedia.com/go/getflashplayer">
-</object></div> 
-          <!-- start fasttrack links box -->
-          <div id="fasttrackBlock"> 
-            <div id="fasttrack"><strong>Fast track to...</strong><br> 
-<!-- ******* About Us section fast track links ******* --> 
- 
-<!-- ******* Our Businesses section fast track links ******* --> 
- 
-<!-- ******* Investor Relations section fast track links ******* --> 
- 
-<!-- ******* Media Centre section fast track links ******* --> 
- 
-<!-- ******* Governance section fast track links ******* --> 
- 
-<!-- ******* Working for UBM section fast track links ******* --> 
-
-<!-- ******* Site tools section fast track links ******* --> 
-<a class="arrow" href="http://www.prnewswire.com" target="_blank">PR Newswire</a> 
-<a class="arrow" href="http://www.ubminformation.com" target="_blank">UBM Information</a> 
-<a class="arrow" href="http://www.ubmmedica.com" target="_blank">UBM Medica</a> 
-<a class="arrow" href="http://www.ubmasia.com" target="_blank">UBM Asia</a> 
-<a class="arrow" href="http://www.everythingchannel.com" target="_blank">Everything Channel</a> 
-<!-- <a class="arrow" href="http://www.channelweb.com" target="_blank">ChannelWeb</a> -->
-<a class="arrow" href="http://www.ubmtechweb.com/" target="_blank">UBM TechWeb</a> 
-<a class="arrow" href="http://www.ubmtechinsights.com" target="_blank">UBM TechInsights</a> 
-<!--<a class="arrow" href="http://www.think-services.com" target="_blank">Think Services</a>--> </div> 
-          </div> 
-          <!-- end fasttrack links box --> 
-        </div> 
-        <!-- end bannerBar --> 
-        <!-- start textBlock --> 
-        <div id="textBlock"> 
-          <a name="maincontent"></a><div id="header"> 
-            
-<h1>Privacy Statement</h1>
- 
-          </div> 
-          <div id="text">
-
-<h2>Use of Information</h2>
+</head>
+<body>
+<div>
 <br>
-The pages on the website (“the website”) are published
-by Investis Limited (“us” or “we”) on
-behalf of UBM plc. <br>
- <br>
-Investis Limited (“us” or “we”) will not
-collect any information about individuals, except where it is
-specifically and knowingly provided by them. Examples of such
-information are: <br>
- <br>
- 
-<ul>
-<li>Your name<br></li>
-<li>Your mobile telephone number<br></li>
-<li>Your email address<br></li>
-<li>Your occupation</li></ul>
-The information collected will be used to send you the information
-you have requested and to provide information that may be useful to
-you. <br>
- <br>
-We may share non-personal aggregate statistics (group) data about
-our site visitors’ traffic patterns with partners or other
-parties. However, we do not sell or share any information about
-individual users. <br>
- <br>
- 
-<h2>‘Cookies’</h2>
+<div style="text-align: center;"><img src="images/UbmLogoPrivacy.png" alt="UBM"></div>
+&nbsp;
+<h1><b>CUSTOMER PRIVACY
+POLICY</b></h1>
+This
+Customer Privacy Policy governs the collection and use of personal
+information
+relating to potential and existing customers of UBM Information Limited
+by the
+company and its affiliates within the UBM group of
+companies.&nbsp;For more information
+about UBM please see: <a href="http://www.ubm.com">www.ubm.com</a><br>
 <br>
-We use cookies on this site when users first enter the site. This
-ensures that on subsequent visits, if the cookie has not been
-deleted, users will not be asked to re-register. Cookies are small
-pieces of information that are stored on your computer by the
-server maintaining and operating the site. They do not compromise
-your privacy or security as they store a randomly generated
-identifying tag on your computer. <br>
- <br>
-The cookie information does not include personal data such as name,
-age, phone number, email address or mailing address. In addition,
-we do not link cookies to personal data such as name, age, phone
-number, email address or mailing address. Most browsers are
-initially set up to accept cookies. If you would prefer, you can
-set your browser to stop cookies being placed on your terminal
-equipment – please refer to your specific Internet browser
-for instructions. <br>
- <br>
- 
-<h2>Your rights</h2>
+UBM
+Information is committed to abiding by this Customer Privacy Policy, as
+well as
+the requirements of applicable laws, in the operation of its business.
+Please
+read this policy carefully as it explains the kinds of personal
+information we
+collect about you and how it is handled.
 <br>
-In addition to the company’s safeguards, your personal data
-is protected in the UK by the Data Protection Act. This provides
-amongst other things that the data we hold about you should be
-processed lawfully and fairly. It should be accurate, relevant and
-not excessive. The information should be kept up to date, where
-necessary, and not retained for longer than is necessary. It should
-be kept securely to prevent unauthorised access by other people.
-You have the right to see what is held about you and correct any
-inaccuracies online. You can do this by using the
-“login” link at the beginning of the Alerting Service
-page. <br>
- <br>
- 
-<h2>Policy changes</h2>
 <br>
-Any changes to this policy will be posted here. <br>
- <br>
- 
-<h2>Security</h2>
+For
+the purpose of the Data Protection Act 1998, the data controller is UBM
+Information Limited of Ludgate House, 245 Blackfriars Road, London SE1
+9UY
 <br>
-Investis Limited treats all the data held with the utmost care and
-security. Any details you give will remain completely confidential.
+<br>
+By
+your continued use of our services (including our web sites), you
+consent to
+the collection and use of your personal information for the purposes
+set out in
+this Customer Privacy Policy.<h2><b>COLLECTION AND USE
+OF PERSONAL INFORMATION</b></h2>
+We
+will generally let you know at the time of collection how we intend to
+use your
+personal information. Usually, we collect personal information about
+you which
+we require to respond to your enquiries for payment processing and for
+the
+provision of goods and services to you. We also process your personal
+information where we are required to do so by law, and for the exercise
+or
+defence of legal claims. From time to time, we may contact you for
+research
+purposes, or to tell you about our special offers and other services in
+accordance with your contact preferences. Where appropriate, we will
+obtain
+your consent to do so. Personal information collected from you may
+include your
+name, payment processing information, postal address, email address,
+landline
+or mobile telephone number, delivery details as well as other non
+sensitive
+personal information. If you use our web sites, we may also collect
+information
+about you or your computer when you browse to allow you to use the
+services
+available.<br>
+<h2><b>WEBSITE USAGE &amp;
+COOKIES</b></h2>
+If
+you are using our web sites, we will use your personal information to
+help you
+to log on to your account and into restricted areas of our web sites
+and to
+permit future use of the web sites. We may use your IP address to help
+diagnose
+problems with our server, or to administer our web sites. We may
+conduct
+analyses of user traffic to measure the use of our sites and to improve
+the
+content of our web sites and our services. These analyses will be
+performed
+through the use of IP addresses and cookies. We may also use cookies to
+enable
+the signing in process after you have registered with us and to provide
+you
+with more tailored information when you return to our web sites. A
+cookie is a
+piece of information that is stored on your computer’s hard drive by
+your web
+browser. Most browsers accept cookies automatically, but usually you
+can alter
+the settings of your browser to prevent automatic acceptance. If you
+reject the
+use of cookies please note that the efficient operation of the web site
+that
+you are using may be affected. Most of the advertisements that you see
+on the
+web sites are generated by third parties who may use cookies to track
+viewing
+of their advertisements and for other purposes specified in their own
+privacy
+policies. We have no access to or control over these cookies (although
+we may
+use statistical information provided to us – not containing personal
+information – arising from these third party cookies to improve the
+targeting
+of advertisements to you and other users of the web sites). You can
+obtain
+further information about third party privacy policies or disable their
+cookies
+by visiting their web sites.<br>
+<h2>COOKIES POLICY</h2>
+Your use of our web site indicates your consent to the cookies
+described in this policy.<br>
+<h3>WHAT ARE COOKIES?</h3>
+A web cookie, a commonly used data collection technology, is simply a
+piece of text which can be placed on the browser of your personal
+computer or mobile device and subsequently read as you visit a web
+site.&nbsp; A cookie may be a session cookie, that is, a cookie
+that remains on your browser while you are logged on to a particular
+web site and then disappears when you close your browser, or it may be
+a persistent cookie, a cookie that remains on your browser over a
+period of time.&nbsp; Information from a cookie may be collected
+and used in aggregate form.&nbsp; Or data may be collected into an
+individual profile or record.&nbsp; That individual record may
+either be unique but anonymous, or the profile can be linked with
+information that identifies you as an individual.&nbsp; <br>
+You can learn more about cookies, generally, at&nbsp;<a href="http://www.allaboutcookies.org/">www.allaboutcookies.org</a><br>
+<h3>HOW DO WE USE COOKIES?</h3>
+We may use cookies for a number of purposes:<br><ol><li>
+We may use a limited number of cookies
+essential to particular services you have requested or for security
+purposes. A few of our sites use a cookie for a shopping cart
+function when you purchase services or offerings. In particular, if you
+have registered for a site or use a customer portal we may use a cookie
+to authenticate the pc or mobile device that you are using.</li><li>
+We allow third parties to set
+analytics, or performance, cookies to collect and report aggregate
+information. These cookies provide reporting to us on an aggregate
+basis and so, do not identify you at all. We use the aggregate reports
+to understand how our web sites are used and improve their usefulness
+to our audiences.</li><li>
+A number of cookies also support how
+our web sites function, identifying your pc or end device on a unique
+but anonymous basis. These cookies may, for example, remember
+your language preferences or recognize an individual’s activity within
+a single session.</li><li>
+If you register for a site, we use a
+cookie to associate your presence with a specific user name and
+password or account.&nbsp;We may use a persistent cookie to
+recognize you automatically each time you return, but only if you ask
+us to do so. We may also use cookies to prepopulate your
+login or forms you fill out on the site with information you have
+already provided. Finally, we may use certain demographic
+information to enable third party ad servers (see below) to show you
+ads based on information about you in your business capacity, for
+example, your title within a company or the size of that company.</li><li>
+Some of sites may also allow third
+party ad servers to serve their own cookies to display advertising on
+our web sites. We do not determine, control or have access to their
+cookies.&nbsp; In addition, some of the ads they serve may generate
+their own cookies.&nbsp; We will list all cookies shortly so that
+you can review their privacy policies for more detail about their
+practices.</li></ol>
+
+<h3>HOW YOU CAN CONTROL COOKIES</h3>
+The cookies we us are an accepted part of ecommerce and important to
+your use of our websites.&nbsp;Performance cookies allow us to
+understand our audiences as a whole and improve how our sites meet your
+needs and expectations.&nbsp;Many the functional cookies are basic
+to how our sites and services work.&nbsp;The cookies we use for
+registration allow us to conduct our business online.&nbsp;Our
+sites and services, or parts of them, may not work properly without
+these cookies.&nbsp; <br><br>
+Your use of our websites indicates your consent to the cookies we have
+described in this Policy.<br>
+But if you should wish to revoke that consent, or any part of it, at
+any time you may control cookies and third party ad targeting in the
+following ways.<br><h4>BROWSER CONTROLS</h4>
+Most modern browsers offer you ways to control or block
+cookies.&nbsp; These browser controls will usually be found in the
+“options’ or “preferences” menu.&nbsp; For more help, you may take
+a look at the “Help” settings or review these website for more details
+- <a href="http://www.aboutcookies.org/Default.aspx?page=1">http://www.aboutcookies.org/Default.aspx?page=1</a>
+
+<h4>THIRD PARTY ADVERTISING AND TARGETING</h4>
+Some of our sites use third party advertising and ad targeting. For
+ways to turn off third party ad targeting you may want to visit The
+Internet Advertising Bureau UK - <a href="http://www.iabuk.net/">http://www.iabuk.net/</a>.<br><br>
+You can find more information or turn off targeting by member companies
+at YourOnlineChoices UK, <a href="http://www.youronlinechoices.com/uk">http://www.youronlinechoices.com/uk</a>. <br>
 
 
-</div> 
-        </div> 
-        <!-- end textBlock --> 
-        
-        <!-- start Back to Top -->
-        <div id="buffer"><img src="/ubm/images/shim.gif" alt="" width="1" height="5" border="0"></div> 
-        <div id="backtotopBlock">
-          <div id="backtotop"><ul id="backtotop"><li><a href="#top">Top of page</a></li></ul></div> 
-        </div>
-	<!-- end Back to Top -->
-        
-      </div> 
-      <!-- end contentBlock --> 
-    </div> 
-  </div> 
-  <!-- end main --> 
-  <!-- start footer --> 
-  <div id="footer"> 
-    <div id="footerLinks"> 
-      <ul> 
-        <li><a href="/ubm/sitetools/disclaimer/">Disclaimer</a></li> 
-        <li><a href="/ubm/sitetools/privacy/">Privacy</a></li> 
-        <li><a href="/ubm/sitetools/accessibility/">Accessibility</a></li> 
-        <li><a href="/ubm/sitetools/downloads/">Downloads</a></li> 
-        <li><a href="/ubm/sitetools/sitemap/" class="last">Site Map</a></li> 
-      </ul> 
-    </div> 
- 
-  </div>
- 
-  <!-- end footer --> 
+<h3>THIS PRIVACY POLICY</h3>
+If our use of cookies changes, we will post the changes to this
+policy.&nbsp; Please check frequently as online data collection
+practices and our use of them continue to evolve.&nbsp; To contact
+us about this policy, you may email <a href="mailto:ubmidpa@ubm.com">ubmidpa@ubm.com</a>.
+When emailing please indicate which of our sites you question relates
+to.<br>
+&nbsp;<br>
+<h2><b>THIRD PARTY</b></h2>
+We
+will only disclose personal information about you internally and to
+third
+parties for processing purposes associated with payment processing, the
+supply
+of goods and services, for web site administration, or elsewhere when
+you have
+consented to such disclosures, or where such disclosures are required
+or
+permitted by law. These third parties we contractually bound only to
+use
+personal information to perform the services that we hire them to
+provide.
+Where you have agreed that we may do so, we may lease or rent your
+personal
+information to selected third parties for their postal or telephone
+marketing
+use.<br>
+<h2><b>TRANSFER OF DATA</b></h2>
+Third
+party data processors, advertisers, exhibitors and other such business
+relationships outside of the EEA, are required to take adequate
+technical and
+organisational safeguards to protect personal information. We also take
+measures to ensure that personal information transferred by us outside
+of the
+EEA is adequately protected.
+<h2><b>VIRTUAL PRODUCTS</b></h2>
+In the case of your use of one of our virtual products, e.g. Virtual Exhibitions,
+ Directory Sites, Webinars etc, we may pass the information you provide to third parties.  
+Generally this will be via a process whereby you, as the user, visit or 
+interact with a third party eg: visit a stand at an online exhibition 
+or click on an asset branded and provided by a third party.  
+In some instances, for example, a products listing site, 
+you may reach out directly to a supplier or exhibitor who may contact you in return. 
+In other instances our virtual products are sponsored and, 
+in such cases the data you provided to us will be given to the sponsor.  
+Generally, we will let you kow at the time of collection if a product is sponsored.
+<br>
+<br>
+If
+you wish to change your contact preferences with an individual
+exhibitor/sponsor,
+please follow their own unsubscribe request details.&nbsp;
+Unsubscribing to the UBM
+Information will stop UBM Information from contacting you in the
+future, but
+not the individual 3rd parties whom you have
+interacted with.
+<br>
+<br>
+We
+take your contact preferences very seriously. If you would
+prefer for your
+details not to be passed to any 3rd parties as
+laid out in this
+section, you are advised not to register for the virtual product.
+<br>
+<h2><b>EMAIL CAPTURE</b></h2>
+UBM Information Ltd may from time to time send updates about
+this product and other relevant UBM Information products and
+services.&nbsp; Your
+email will not be given to 3rd parties. By
+providing your email
+address you consent to being contacted by email for direct marketing
+purposes
+by UBM Information Ltd. <br>
+<br>
+<h2><b>MOBILE PHONE CAPTURE</b></h2>
+UBM
+Information Ltd may from time to time contact you about this product
+and other
+relevant UBM Information products and services.&nbsp; By providing
+your mobile
+number you consent to being contacted for direct marketing purposes via
+voice
+calls or SMS by UBM Information Ltd.
+<h2><b>SECURITY OF
+PERSONAL INFORMATION</b></h2>
+We
+use administrative, technical, and physical measures to safeguard
+personal
+information against loss, theft and unauthorised&nbsp; uses, access
+or modifications. Certain areas of our web sites may be password
+protected. If you are a user of our
+web sites and have a password, you can help to preserve your privacy by
+ensuring that you do not share your password with anyone else.
+<br>
+Payments
+made via our web sites are processed in a secure environment using
+software
+provided by Verifone or other third party providers.
+<br>
+We
+take steps to regularly validate the personal information we hold to
+ensure
+that the information is accurate and, where necessary, up to date.
+Information
+that is no longer required for any valid business purpose, and that we
+are not
+required to keep pursuant to any applicable law, will be routinely
+destroyed by
+secure means.
+<h2><b>MAKING AUTOMATED
+DECISIONS</b></h2>
+We do
+not ordinarily use personal information for the purposes of automated
+decision
+making. However, may do so in order to fulfill compelling obligations
+imposed
+by law, in which case we will inform of any such processing and provide
+you
+with an opportunity to object.
+<h2><b>ACCESS TO PERSONAL
+INFORMATION</b></h2>
+You
+may renew and update personal information that we hold about you by
+contacting
+us as detailed below.
+<h2><b>CONTACTING US</b></h2>
+If
+you have any questions about this privacy policy, you can email at
+<a href="mailto:ubmidpa@ubm.com">ubmidpa@ubm.com</a>
+or write to the Data Protection Co-ordinator, Audience
+&amp; Data Group, UBM Information Ltd, FREEPOST LON
+15637, Tonbridge TN9 1BR. Freephone 0800 279 0357. Please note that
+calls to
+this number may be recorded and monitored to maintain customer service
+standards and to assist staff training.
+<h2><b>CHANGES TO PRIVACY POLICY</b></h2>
+We
+reserve the right to add to or amend this privacy policy at our sole
+discretion, without prior notice to you. Please review our privacy
+policy on a
+regular basis to make sure you have read the latest version and you
+understand
+what we do with your personal information. Your continued use of our
+services
+or our web sites following the posting of changes to these terms means
+that you
+consent to those changes.
+<br>
+&nbsp;<br>
+<br>
+<strong>This
+version of the privacy policy is effective as of 25<sup>th</sup>
+May 2012</strong><br>
+&nbsp;
+<br>
+&nbsp;
+
+&nbsp;
 </div>
-<script type="text/javascript">
-var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
-document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
-</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
-<script type="text/javascript">
-var pageTracker = _gat._getTracker("UA-4596830-1");
-pageTracker._initData();
-pageTracker._trackPageview();
-</script>
+<!-- SiteCatalyst code version: H.25.1.
+Copyright 1996-2012 Adobe, Inc. All Rights Reserved
+More info available at http://www.omniture.com -->
+<script language="JavaScript" type="text/javascript" src="http://privacypolicy.ubm.com/s_code.js"></script>
+<script language="JavaScript" type="text/javascript"><!--
+/* You may give each page an identifying name, server, and channel on
+the next lines. */
+s.pageName="Privacy Policy"
+s.server=""
+s.channel=""
+s.pageType=""
+s.prop1=""
+s.prop2=""
+s.prop3=""
+s.prop4=""
+s.prop5=""
+/* Conversion Variables */
+s.campaign=""
+s.state=""
+s.zip=""
+s.events=""
+s.products=""
+s.purchaseID=""
+s.eVar1=""
+s.eVar2=""
+s.eVar3=""
+s.eVar4=""
+s.eVar5=""
+/************* DO NOT ALTER ANYTHING BELOW THIS LINE ! **************/
+var s_code=s.t();if(s_code)document.write(s_code)//--></script>
+<script language="JavaScript" type="text/javascript"><!--
+if(navigator.appVersion.indexOf('MSIE')>=0)document.write(unescape('%3C')+'\!-'+'-')
+//--></script><noscript><img src="http://cmpi.122.2o7.net/b/ss/cmpiubmcom-privacy/1/H.25.1--NS/0"
+height="1" width="1" border="0" alt="" /></noscript><!--/DO NOT REMOVE/-->
+<!-- End SiteCatalyst code version: H.25.1. -->
 
-
-
-<!--  -->
-
- </body></html>
+</body></html>
