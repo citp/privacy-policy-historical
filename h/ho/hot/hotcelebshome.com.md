@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the hotcelebshome.com privacy policy that was archived on 2012-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121219150345id_/http%3A//www.hotcelebshome.com/contact-us/%23privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hotcelebshome.com privacy policy that was archived on 2013-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130622004857id_/http%3A//www.hotcelebshome.com/contact-us/%23privacy) for the most accurate reproduction.*
 
 # Contact Us : Hot Celebs Home
 
-Contact us using the form below. If necessary, we will get in touch with you as soon as possible..
+Contact Information: Send us a [E-mail](mailto:hotcelebs@gmail.com) or a message on [Facebook](http://www.facebook.com/hotcelebshome).
 
 ## Claims of Infringement
 
