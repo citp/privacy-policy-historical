@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the whatcar.com privacy policy that was archived on 2012-10-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121015192050id_/http%3A//www.whatcar.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the whatcar.com privacy policy that was archived on 2013-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130621052547id_/http%3A//www.whatcar.com/privacy) for the most accurate reproduction.*
 
 # 
 
@@ -90,7 +90,7 @@ Teddington
 Middlesex  
 TW11 9BE
 
-If you don’t want to receive any more direct marketing messages then please [click here.](mailto:datacontroller@haymarket.com)
+If you don’t want to receive any more direct marketing messages then please [click here](http://www.pages05.net/haymarketmediagroupuk/optout/contact_details/).
 
 * ## What Car? Car valuations application.
 
