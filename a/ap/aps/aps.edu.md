@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the aps.edu privacy policy that was archived on 2012-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121206120340id_/http%3A//www.aps.edu/about-us/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aps.edu privacy policy that was archived on 2013-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130621071647id_/http%3A//www.aps.edu/about-us/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy & Legal — Albuquerque Public Schools
 
@@ -44,7 +44,7 @@ The Albuquerque Public School District reserves the right to change this policy 
 
 Proper behavior, as it relates to the use of computers, is no different from the proper behavior in all other aspects of APS activities. All users are expected to use the computers and computer networks in a responsible, ethical, and polite manner. Violation of this policy is grounds for school disciplinary action.
 
-Students are expected to comply with the Student Internet Acceptable Use Policy, as set out above and in the [Board Policy I.10](http://www.aps.edu/about-us/policies-and-procedural-directives/policies/i.-instruction/i.10-student-internet-acceptable-use-policy).
+Students are expected to comply with the Student Internet Acceptable Use Policy, as set out above and in the [Board Policy I.10](http://www.aps.edu/about-us/policies-and-procedural-directives/policies/j.-students/ji8-acceptable-student-use-of-educational-technology).
 
 **Employees:** The use of district technology resources is a privilege granted to Albuquerque Public School District employees for the enhancement of job-related functions. Employees may have limited access to these resources for personal use, if they comply with the professional standards and the district’s acceptable use policies. Employees are expected to comply with the [Technology Acceptable Use Policy](http://www.aps.edu/about-us/policies-and-procedural-directives/policies/g.-personnel/gb6-acceptable-employee-use-of-technology), as set out in APS Procedural Directives.
 
