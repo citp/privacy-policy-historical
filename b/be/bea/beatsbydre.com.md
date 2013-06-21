@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the beatsbydre.com privacy policy that was archived on 2012-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121014113249id_/http%3A//www.beatsbydre.com/support/beats_privacy_policy%2Cdefault%2Cpg.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the beatsbydre.com privacy policy that was archived on 2013-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130621093014id_/http%3A//www.beatsbydre.com/support/beats_privacy_policy%2Cdefault%2Cpg.html) for the most accurate reproduction.*
 
 # Beats by Dr. Dre Privacy Policy
+
+Welcome to BeatsByDre.com. This Privacy Policy is provided to inform you of our policies and practices regarding the collection, use, and disclosure of information about you.
 
 * OUR PRIVACY COMMITMENT 
 
@@ -86,9 +88,9 @@ If you are a resident of the European Union, in the event that you have any disp
 
 The personal information that you provide to us is stored on servers, which are located in secured facilities with restricted access, and protected by protocols and procedures designed to ensure the security of such information. In addition, we restrict access to personal information to Beats employees, independent contractors and agents who need to know this information in order to develop, operate and maintain the Beats Features. All Beats personnel who have access to this information are trained in the maintenance and security of such information. However, no server, computer or communications network or system, or data transmission over the Internet can be guaranteed to be 100% secure. As a result, while we strive to protect user information, we cannot ensure or warrant the security of any information you transmit to us or through the use of any of the Beats Features and you acknowledge and agree that you provide such information and engage in such transmissions at your own risk. Once we receive a transmission from you, we will endeavor to maintain its security on our systems.
 
-* EUROPEAN COMMISSION'S DIRECTIVE ON DATA PROTECTION - SAFE HARBOR 
+* SAFE HARBOR COMPLIANCE 
 
-Beats adheres to the Safe Harbor Principles that were established by the U.S. Department of Commerce in consultation with the European Commission to comply with the European Commission's Directive on Data Protection.
+Beats complies with the U.S.-EU Safe Harbor Framework that was established by the U.S. Department of Commerce in consultation with the European Commission to comply with the European Commission's Directive on Data Protection. Beats also complies with the U.S.-Swiss Safe Harbor Framework that was established by the U.S. Department of Commerce in consultation with the Federal Data Protection and Information Commissioner of Switzerland to comply with the Swiss Federal Act on Data Protection. Beats has certified that it adheres to the Safe Harbor Privacy Principles. To learn more about the Safe Harbor program, and to view Beats’ certification, please visit http://www.export.gov/safeharbor/
 
 * NOTIFICATION OF CHANGES 
 
