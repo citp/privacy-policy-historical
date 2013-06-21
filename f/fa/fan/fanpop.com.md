@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fanpop.com privacy policy that was archived on 2012-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121228141733id_/http%3A//www.fanpop.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fanpop.com privacy policy that was archived on 2013-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130621105047id_/http%3A//www.fanpop.com/privacy) for the most accurate reproduction.*
 
 # Fanpop - Privacy Policy
 
