@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the pinnaclesports.com privacy policy that was archived on 2012-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120530063448id_/http%3A//www.pinnaclesports.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pinnaclesports.com privacy policy that was archived on 2013-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130621220421id_/http%3A//www.pinnaclesports.com/privacy-policy) for the most accurate reproduction.*
 
 # About Pinnacle Sports | About Us | How to Find Out More About Pinnacle Sports
 
-#### Last updated on: Thurs, 04/05/2012 - 2:52 PDT
+#### Last updated on: Thurs, 21/01/2013 - 9:25 PDT
 
 #### Pinnacle Sports collects information from our Internet clients at several different points on our Web site. We use this information to improve and maintain our Web site, and to provide our clients with the highest level of service available.
 
@@ -66,7 +66,7 @@ Pinnacle Sports is the sole owner of the personal information we collect from ou
 
 If a client provides personal information during an interaction with our customer service areas (for example, an email address or telephone number), we will use it only for the purpose of customer service. We will not sell a client's phone number to telemarketers or anyone else.
 
-[Pinnacle Sports is licensed and sanctioned](https://web.archive.org/about-us/our-reputation "Pinnacle Sports is licensed and sanctioned") by both the Government of Curacao and the Alderney Gambling Control Commission. Pinnacle Sports will not release information about our clients to any government.
+[Pinnacle Sports is licensed and sanctioned](https://web.archive.org/about-us/our-reputation "Pinnacle Sports is licensed and sanctioned") by the Government of Curacao. Pinnacle Sports will not release information about our clients to any government.
 
 Close Panel 
 
@@ -124,6 +124,12 @@ Close Panel
 ## Links to other Web sites
 
 The Pinnacle Web site may contain links to other sites; we are not responsible for the practices of such other sites. This privacy statement applies solely to information collected by Pinnacle's Web site. We encourage our clients and visitors to be alert when they leave our site and to read the privacy statement of any Web site that collects personally identifiable information.
+
+Close Panel 
+
+## Where do we store your personal data?
+
+The data that we collect from you may be transferred to, and stored at, a destination outside the European Economic Area ("EEA"). It may also be processed by staff operating outside the EEA, who work for us. By submitting your personal data, you agree to this transfer, storing or processing. We will take all steps reasonably necessary to ensure that your data is treated securely and in accordance with this privacy policy.
 
 Close Panel 
 
