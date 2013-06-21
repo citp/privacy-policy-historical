@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the registrysimple.com privacy policy that was archived on 2012-01-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120119103440id_/http%3A//www.registrysimple.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the registrysimple.com privacy policy that was archived on 2013-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130621140757id_/http%3A//www.registryonwindows.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -20,40 +20,8 @@ We will not collect any personally identifiable information about you (e.g., you
 
 When you do provide us with personally identifiable information, we may use that information in the following ways, unless stated otherwise: 
 
-  1. We may store and process that information to better understand your needs and how we can improve our products and services; 
-  
-
-  2. We employ other companies to perform certain functions on our behalf, such as processing orders and delivering packages, conducting surveys and sending you mailings regarding our products and these companies have access to your personal information and; 
-  
-
-  3. We may contact you regarding promotions and other offers regarding our products that may interest you. 
-
-
-
 We do not now, and do not intend to, sell, rent or market personally identifiable information about you to third parties. We share information only with subsidiaries of this site and may use it to send you promotions and product information. 
 
 **Children Under 13**
 
-  1. Our Privacy Policy applies to children as well as adults. There are some extra precautions that we take, however, with respect to collecting information from children under 13. 
-  
-
-  2. We encourage parents and guardians to explore our Website with their children. 
-  
-
-  3. We do not knowingly collect personally identifiable information from your children under 13 on-line without first obtaining permission from the child’s parent or guardian. 
-  
-
-  4. Our Website does not offer activities that allow your child disclose your child’s personal information publicly (for example through chat rooms or message boards). 
-  
-
-  5. We do not share your child’s personally identifiable information with third parties. 
-
-
-
 Please also note that we do not offer activities that require the ongoing collection and use of personally identifiable information provided by children. 
-
-We may share information with governmental agencies or other companies assisting us in fraud prevention or investigation. We may do so when: (1) permitted or required by law; or, (2) trying to protect against or prevent actual or potential fraud or unauthorized transactions; or, (3) investigating fraud which has already taken place. The information is not provided to these companies for marketing purposes. 
-
-**Privacy Contact Information**
-
-If you have any questions, concerns, or comments about our privacy policy you may contact us using the information below: By e-mail: info(at)registrysimple.com We reserve the right to make changes to this policy. Any changes to this policy will be posted 
