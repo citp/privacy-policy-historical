@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the submissionworks.com privacy policy that was archived on 2012-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121221200052id_/http%3A//www.submissionworks.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the submissionworks.com privacy policy that was archived on 2013-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130622015351id_/http%3A//www.submissionworks.com/privacy.html) for the most accurate reproduction.*
 
 # 
 
@@ -58,4 +58,4 @@ We have included links on this website for your use and reference. We are not re
 
 **QUESTIONS/COMMENTS/CONCERNS:** If you have any questions about the contents of this page, or simply wish to reach us for any other reason, you may do so by using our Contact information.
 
-Info@SubmissionWorks.com
+http://www.SubmissionWorks.com/Support
