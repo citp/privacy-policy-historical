@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the achooallergy.com privacy policy that was archived on 2012-10-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121022023120id_/http%3A//www.achooallergy.com/privacy-policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the achooallergy.com privacy policy that was archived on 2013-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130621195839id_/http%3A//www.achooallergy.com/privacy-policy.asp) for the most accurate reproduction.*
 
 # AchooAllergy.com Privacy Policy
 
@@ -6,7 +6,7 @@ If you have questions or concerns regarding this statement, you should first con
 
 AchooAllergy.com knows that you care how information about you is used and shared, and we appreciate your trust that we will do so carefully and sensibly. This notice describes our privacy policy. By visiting AchooAllergy.com, you are accepting the practices described in our Privacy Policy.
 
-**What Personal Information About Customers Does AchooAllergy.com Gather?  
+**What Personally Identifiable Information About Customers Does AchooAllergy.com Gather?  
 **  
 The information we learn from customers helps us personalize and continually improve your shopping experience at AchooAllergy.com. We are the sole owners of the information collected on this site. We only have access to/collect information that you voluntarily give us via email or other direct contact from you. We will never sell or rent this information to anyone. Here are the types of information we gather. 
 
@@ -18,7 +18,7 @@ We will use your information to respond to you, regarding the reason you contact
 
 We request information from you on our order form. To buy from us, you must provide contact information (like name and shipping address) and financial information (like credit card number, expiration date). This information is used for billing purposes and to fill your orders. If we have trouble processing an order, we'll use this information to contact you. 
 
-We use collected information primarily to fulfill customer orders and requests. We do not share this information with any third parties. However, we may disclose personal information collected if we have received your permission beforehand or in very special circumstances, such as when we believe that such disclosure is required by law or other special cases described below.   
+We use collected information primarily to fulfill customer orders and requests. We do not share this information with any third parties. However, we may disclose personally identifiable information collected if we have received your permission beforehand or in very special circumstances, such as when we believe that such disclosure is required by law or other special cases described below.   
 Information provided during the checkout process is collected on our secure servers. That information is then used for final processing of your order. This information includes ordering information such as shipping and billing names and addresses, phone numbers, email addresses and credit card information.
 
 Automatic Information: We receive and store certain types of information whenever you interact with us. For example, like many Web sites, we use "cookies," and we obtain certain types of information when your Web browser accesses AchooAllergy.com. 
@@ -33,11 +33,11 @@ To sign up for our newsletter, visit AchooAllergy.com and fill in the [ email si
 **  
 Cookies are alphanumeric identifiers that we transfer to your computer's hard drive through your Web browser to enable our systems to recognize your browser and to provide customized features and storage of items in your Shopping Cart between visits. 
 
-AchooAllergy.com does not collect any personal information via tracking technologies. Usage of cookies are in no way linked to any personally identifiable information on our site.
+AchooAllergy.com does not collect any personally identifiable information via tracking technologies. Usage of cookies are in no way linked to any personally identifiable information on our site.
 
 The Help portion of the toolbar on most browsers will tell you how to prevent your browser from accepting new cookies, how to have the browser notify you when you receive a new cookie, or how to disable cookies altogether.
 
-The use of cookies by our partners, affiliates, tracking utility company, service providers is not covered by our privacy statement. We do not have access or control over these cookies. Our partners, affiliates, tracking utility company, service providers use session ID cookies to make it easier for you to navigate our site.
+The use of cookies by our partners, affiliates, tracking utility company, service providers is not covered by our privacy policy. We do not have access or control over these cookies. Our partners, affiliates, tracking utility company, service providers use session ID cookies to make it easier for you to navigate our site.
 
 Our third party advertising partner employs a software technology called clear gifs (a.k.a. Web Beacons/Web Bugs), that help us better manage content on our site by informing us what content is effective. Clear gifs are tiny graphics with a unique identifier, similar in function to cookies, and are used to track the online movements of web users. In contrast to cookies, which are stored on a user's computer hard drive, clear gifs are embedded invisibly on Web pages and are about the size of the period at the end of this sentence. We do not tie the information gathered by clear gifs to our customers' personally identifiable information. 
 
@@ -52,7 +52,7 @@ We reserve the right to disclose your personally identifiable information as req
 
 **Does AchooAllergy.com Share the Information It Receives?**
 
-Absolutely not. Information about our customers is the most important part of our business, and we are not in the business of selling it to others. We will never rent, sell or share your personal information to anyone. 
+Absolutely not. Information about our customers is the most important part of our business, and we are not in the business of selling it to others. We will never rent, sell or share your personally identifiable information to anyone. 
 
 **Service Providers**
 
@@ -71,7 +71,7 @@ While we use encryption to protect sensitive information transmitted online, we 
 
 **Updating Personal Information**
 
-Users of AchooAllergy.com can update/change their personal information by calling customer service at 1-800-339-7123 or by sending an email to info@achooallergy.com. Users may request access to their personal information for the purpose of correcting and/or updating it. 
+Users of AchooAllergy.com can update/change or delete their personally identifiable information by calling customer service at 1-800-339-7123 or by sending an email to info@achooallergy.com. Users may request access to their personally identifiable information for the purpose of correcting, updating and/or deleting it. 
 
 **Data Retention**
 
@@ -92,13 +92,25 @@ If you choose to visit AchooAllergy.com, your visit and any dispute over privacy
 
 **Blog**
 
-If you use the blog feature on our site, you should be aware that any personally identifiable information you submit there can be read, collected, or used by other users of these forums, and could be used to send you unsolicited messages. We are not responsible for the personally identifiable information you choose to submit in these forums. We reserve the right to terminate the accounts of visitors who use these services in a manner inconsistent with our Terms of Use.
+If you use the blog feature on our site, you should be aware that any personally identifiable information you submit there can be read, collected, or used by other users of these forums, and could be used to send you unsolicited messages. We are not responsible for the personally identifiable information you choose to submit in these forums. We reserve the right to terminate the accounts of visitors who use these services in a manner inconsistent with our Terms of Use. 
 
- **Changes to Privacy Policy**
+**Social Media Widgets**
 
-If we decide to change our privacy policy, we will post those changes to this privacy statement, the home page, and other places we deem appropriate so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it. 
+Our Web site includes Social Media Features, such as the Facebook button [and Widgets, such as the Share this button or interactive mini-programs that run on our site]. These Features may collect your IP address, which page you are visiting on our site, and may set a cookie to enable the Feature to function properly. Social Media Features and Widgets are either hosted by a third party or hosted directly on our Site. Your interactions with these Features are governed by the privacy policy of the company providing it.
 
-We reserve the right to modify this privacy statement at any time, so please review it frequently. If we make material changes to this policy, we will notify you here, by email, or by means of a notice on our home page.
+**Behavioral Targeting / Re-Targeting**
+
+We partner with a third party ad network to either display advertising on our Web site or to manage our advertising on other sites. Our ad network partner uses cookies and Web beacons to collect non-personally identifiable information about your activities on this and other Web sites to provide you targeted advertising based upon your interests. If you wish to not have this information used for the purpose of serving you targeted ads, you may opt-out by clicking [Here](http://preferences-mgr.truste.com/). Please note this does not opt you out of being served advertising. You will continue to receive generic ads.
+
+**Links to 3rd Party Sites**
+
+Our Site includes links to other Web sites whose privacy practices may differ from those of AchooAllergy.com. If you submit personally identifiable information to any of those sites, your information is governed by their privacy policies. We encourage you to carefully read the privacy policy of any Web site you visit.
+
+**Changes to Privacy Policy**
+
+If we decide to change our privacy policy, we will post those changes to this privacy policy, the home page, and other places we deem appropriate so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it. 
+
+We reserve the right to modify this privacy policy at any time, so please review it frequently. If we make material changes to this policy, we will notify you here, by email, or by means of a notice on our home page prior to the change becoming effective.
 
  **Company Address**
 
@@ -108,4 +120,4 @@ Atlanta, GA 30341
 1-800-339-7123  
 info@achooallergy.com
 
-**Privacy Policy Last Updated on: 09/18/2012**
+**Privacy Policy Last Updated on: 06/21/2013**
