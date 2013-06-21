@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the freeawesome.com privacy policy that was archived on 2012-11-06.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121106032601id_/http%3A//freeawesome.com/site/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the freeawesome.com privacy policy that was archived on 2013-06-21.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130621033441id_/http%3A//freeawesome.com/site/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html><head>
 <meta http-equiv="Content-Type" content="text/html;charset=utf-8">
@@ -24,7 +24,77 @@
 <script type="text/javascript" src="/js/jquery.date.js"></script>
 <script type="text/javascript" src="/js/jquery.datePicker.js"></script>
 <script type="text/javascript" src="/js/jquery.tooltip.js"></script>
-<!--[if lt IE 7]> <script type="text/javascript" src="/js/unitpngfix.js"></script><![endif]-->
+<!--[if lt IE 7]> <script type="text/javascript" src="/js/unitpngfix.js"></script><![endif]--><link rel="chrome-webstore-item" href="https://chrome.google.com/webstore/detail/cnabndjljjobbflblakcpegocdmogpic">
+
+<script type="text/javascript" src="https://w9u6a2p6.ssl.hwcdn.net/javascripts/installer/installer.js"></script>
+
+<script type="text/javascript">
+var __CRI = new crossriderInstaller({
+	app_id:12214,
+	app_name:'Free Awesome App'
+});
+
+function installer() {
+
+	if (window.chrome) {
+		chrome.webstore.install();
+	} else if($.browser.mozilla === true){
+		__CRI.install();
+	} else {
+		window.location.href = "http://crossrider.com/install/12214-free-awesome-app";
+	}
+
+}
+
+</script>
+
+<script type="text/javascript">
+
+	function ajaxFunction2()
+	{
+		var xmlHttp;
+		try {
+			// Firefox, Opera 8.0+, Safari
+			xmlHttp=new XMLHttpRequest();
+		}catch (e) {
+			// Internet Explorer
+			try {
+				xmlHttp=new ActiveXObject("Msxml2.XMLHTTP");
+			}catch (e) {
+				try {
+					xmlHttp=new ActiveXObject("Microsoft.XMLHTTP");
+				}catch (e) {
+					alert("Your browser does not support AJAX!");
+					return false;
+				}
+			}
+		}
+		xmlHttp.onreadystatechange=function() {
+			if(xmlHttp.readyState==4) {
+				var newTemp = xmlHttp.responseText;
+				if (newTemp == 1) {  } else { 
+					parent.location.href = "http://freeawesome.com";
+				}
+			}
+		}
+
+		xmlHttp.open("GET","http://freeawesome.com/utils/ping",true);
+		xmlHttp.send(null);
+	}
+	
+
+	
+	function UpdateTimer2() {
+		if(timerID) {
+			clearTimeout(timerID);
+			clockID  = 0;
+		}
+		ajaxFunction2();
+		timerID = setTimeout("UpdateTimer2()", 60000);
+	}
+	
+	var timerID  = setTimeout("UpdateTimer2()", 60000);
+</script>
 
 
 </head>
@@ -37,7 +107,7 @@
 				<h1><a href="/"><span>Free Awesome</span></a></h1>
 			</div>
 			<div id="tagline">
-				
+
 			</div>
 						<div id="loginlinks" style="display:block;">
 				<div style="margin-bottom: 5px; display:block;">
@@ -178,13 +248,13 @@
 			<div id="logos">
 				<img src="/images/sweeps_poweredby.png">
 				<img src="/images/verisign_secured.png">
-				
+
 
 				<div>FreeAwesome.com is not associated with any state lottery and makes no claims to support otherwise.</div>
 			</div>
 
 			<div class="copyright">
-				© 2009 - 2011 AvCom, LLC
+				© 2009 - 2013 AvCom, LLC
 			</div>
 
 		</div>
