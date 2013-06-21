@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the valottery.com privacy policy that was archived on 2012-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121228204640id_/http%3A//www.valottery.com/privacy_policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the valottery.com privacy policy that was archived on 2013-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130621083502id_/http%3A//valottery.com/privacy_policy.aspx) for the most accurate reproduction.*
 
 # Official Home of the Virginia Lottery
 
