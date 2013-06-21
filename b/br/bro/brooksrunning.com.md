@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the brooksrunning.com privacy policy that was archived on 2012-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121106225652id_/http%3A//www.brooksrunning.com/on/demandware.store/Sites-BrooksRunning-Site/default/About-Content%3Fcid%3Dprivacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the brooksrunning.com privacy policy that was archived on 2013-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130621220221id_/http%3A//www.brooksrunning.com/on/demandware.store/Sites-BrooksRunning-Site/default/About-Content%3Fcid%3Dprivacy-policy) for the most accurate reproduction.*
 
 # Brooks Sports, Inc. Privacy Policy
 
 Brooks Sports, Inc. Privacy Policy
 
-**Last Updated: October 12, 2012**
+**Last Updated: June 6, 2013**
 
 This Privacy Policy describes how information about you is collected, used, and disclosed by Brooks Sports, Inc., and its subsidiaries and affiliated companies, including Brooks Running and Moving Comfort (collectively, "Brooks" or "we"). This Privacy Policy applies to information we collect when you access or use our websites or other online or mobile services or applications ("Services"), shop in our stores, or otherwise interact with us.
 
@@ -14,7 +14,7 @@ From time to time, Brooks may revise this Privacy Policy. If we make changes, we
 
 ### Information You Provide to Us
 
-We collect information you provide directly to us. For example, we collect information when you: access or use the Services; purchase our products; participate in a survey, contest, promotion, activity, or event; subscribe to our newsletter; communicate with us via third-party social media sites; request customer support; or otherwise communicate with us. The types of information we may collect directly from you include your name, email address, postal address, phone number, birth date, photographs, information about your exercise habits, demographic information, and transaction history.
+We collect information you provide directly to us. For example, we collect information when you: access or use the Services; purchase our products; participate in a survey, contest, promotion, activity, or event; subscribe to our newsletter; communicate with us via third-party social media sites; request customer support; or otherwise communicate with us. The types of information we may collect directly from you include your name, email address, postal address, phone number, birth date, photographs, information about your exercise habits, demographic information, transaction history, and any other information you choose to provide.
 
 ### Information We Collect Automatically When You Use Our Services
 
@@ -53,6 +53,7 @@ We may share personal information about you as follows:
 
   * With third-party vendors, consultants, and other service providers who are working on our behalf and who require access to your information to carry out their work;
   * When you sign up for and participate in the interactive areas of our Services, certain information about you may be displayed publicly, such as your name, photos, and any other information you choose to provide;
+  * With third-party retailers that help you place an order using our Services when you shop in their stores;
   * In response to a request for information if we believe disclosure is in accordance with any applicable law, regulation, or legal process;
   * If we believe your actions are inconsistent with the spirit or language of our user agreements or policies, or to protect the rights and property of Brooks or others;
   * In connection with, or during negotiations of, any merger, sale of company assets, financing, or acquisition of all or a portion of our business to another company; and 
@@ -92,4 +93,4 @@ You may opt out of receiving promotional emails or text messages from Brooks by 
 
 ## Contact Us
 
-Brooks welcomes your comments and questions about this Privacy Policy. Please address comments or questions to [store@brooksrunning.com](mailto:store@brooksrunning.com) or Brooks Sports, Inc., Attn: Privacy Policy, 19820 North Creek Parkway, Suite 200, Bothell, WA 98011-8223.
+Brooks welcomes your comments and questions about this Privacy Policy. Please address comments or questions to [store@brooksrunning.com](mailto:store@brooksrunning.com) or Brooks Sports, Inc., Attn: Privacy Policy, 4300 Roosevelt Way NE, Seattle, WA 98105.
