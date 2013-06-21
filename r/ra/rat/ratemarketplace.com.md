@@ -1,23 +1,17 @@
-> *The following text is extracted and transformed from the ratemarketplace.com privacy policy that was archived on 2012-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120611132918id_/http%3A//www.ratemarketplace.com/privacy-policy-all.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ratemarketplace.com privacy policy that was archived on 2013-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130621044447id_/http%3A//www.ratemarketplace.com/privacy-policy-all.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
-What we do  
-How does Adchemy   
-protect my personal information? | To protect your personal information from unauthorized access and use, we use security measures that comply with federal law. These measures include computer safeguards and secured files and buildings.  
-How does Adchemy   
-collect my personal information? | We collect your personal information, for example, when you 
+If you are visiting our website for mortgage services, and you live in California or Vermont, we will not share your information with nonaffiliated third party marketers without your consent.
 
-  * Submit an inquiry from or provide your mortgage information
-  * Submit employment status or give us you contact information
-  * Provide your auto insurance information
+_Use of Cookies and Related Technology:_
 
-We also collect your personal information from others companies such as credit bureaus, affilates, and other services providers and vendors.   
-Why can't I limit my sharing? | Federal law gives you the right to limit only 
+Cookies are small data files that are stored on your computer's hard drive by your web browser. Cookies may be set by us or our business partners and service providers when you visit websites owned and operated by us that are governed by this privacy policy (each a “Site”) or when you interact with one of our advertisements or other content. You may decline cookies if your web browser software permits. If you have questions about disabling cookies, you should consult with your browser's manufacturer. Note, however, that some parts of the Site may not operate correctly if you disable cookies.
 
-  * sharing for affiliates' everyday business purposes – information about your creditworthiness
-  * affiliates from using your information to market to you
-  * sharing for nonaffiliates to market to you
+We may also track your movements through our Site(s), advertisements and other content through web beacons (also called pixel tags or clear gifs). When you access a page, email or other content containing a web beacon, the web beacon generates a notice to us, our service providers or third party business partners. Web beacons can be used for various purposes, including to help us improve our marketing communications by measuring the response to our promotions and campaigns.
 
-State laws and individual companies may give you additional rights to limit sharing. See below for more on your rights under state law.   
-What happens when I limit sharing for an account I hold jointly with someone else? | Your choices will apply to everyone on your account.
+In addition, we have relationships with third party advertising companies to place advertisements on our behalf onto other websites, to perform tracking and reporting functions for our websites and advertisements, and to place third party advertisements on our Site(s). These advertising companies may automatically collect non-personally identifiable information about your visit to the Site(s) and other websites, including information about web pages you've viewed and advertisements you interacted with, along with your IP address, date/time stamp information, your ISP and the browser you use to visit this Site(s). They do this by using cookies, web beacons and other technologies. Information collected may be used, among other things, to deliver advertising (from us and from other companies) targeted to your preferences and interests, and to better understand the usage and visitation of the Site(s) and the other websites tracked by these advertising companies. This privacy policy does not necessarily cover all the collection methods or uses of the information collected by these third party advertising companies, and we do not have control over or access to cookies or other technologies these third party advertising companies may use. If you would like more information about targeted advertising (also called behavioral advertising) and to learn about your choices with respect to such practices, including how to opt-out of the behavioral advertising programs of third party advertisers, advertising networks and ad servers who are members of the Network Advertising Initiative, please visit <http://www.networkadvertising.org/managing/opt_out.asp>. 
+
+_Other Information Sharing:_ We may share your information as required by law or as we believe necessary or appropriate to respond to claims, comply with legal process (including subpoenas), or protect the property or rights of Adchemy or others; or with a buyer or transferee of, or a successor to, Adchemy assets in connection with a merger, consolidation or sale of assets, or in the event of bankruptcy or other reorganization.
+
+_Use of Information for Validation and Inquiry Form:_ We may review and validate your personal information for errors, omissions and accuracy by comparing it to and augmenting it with records maintained by third parties who provide such services to us. In addition, as a convenience to you, we may use the information you provide us to pre-populate inquiry forms for our services.
