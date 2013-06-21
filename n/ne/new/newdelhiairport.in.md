@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the newdelhiairport.in privacy policy that was archived on 2012-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121208154246id_/http%3A//www.newdelhiairport.in/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the newdelhiairport.in privacy policy that was archived on 2013-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130621190334id_/http%3A//www.newdelhiairport.in/privacy-policy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy - Indira Gandhi International Airport, New Delhi
 
