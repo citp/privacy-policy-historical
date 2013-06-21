@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the rssgraffiti.com privacy policy that was archived on 2012-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121221230853id_/http%3A//www.rssgraffiti.com/%3Fpage_id%3D2081364812) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rssgraffiti.com privacy policy that was archived on 2013-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130621045230id_/http%3A//www.rssgraffiti.com/%3Fpage_id%3D2081364812) for the most accurate reproduction.*
 
-# RSS Graffiti | Privacy Policy
+# Privacy Policy | RSS Graffiti | Easy Facebook Automation
+
+## [Privacy Policy](http://www.rssgraffiti.com/?page_id=2081364812)
 
 THIS PRIVACY POLICY, AS AMENDED FROM TIME TO TIME (“Policy”), GOVERNS THE INFORMATION WE COLLECT ABOUT YOU WHEN YOU ACCESS THE DEMANDMEDIA.COM WEBSITE (the “SITE”). IF YOU DO NOT AGREE TO THIS POLICY, DO NOT USE THE SITE.
 
