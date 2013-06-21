@@ -1,81 +1,61 @@
-> *The following text is extracted and transformed from the getpaidtodraw.com privacy policy that was archived on 2012-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120527144032id_/http%3A//www.getpaidtodraw.com/privacyPolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the getpaidtodraw.com privacy policy that was archived on 2013-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130621034304id_/http%3A//www.getpaidtodraw.com/privacy.html) for the most accurate reproduction.*
 
-# Privacy Policy
+# Get Paid To Draw .com - Privacy Policy
 
-**HOW WE PROTECT YOUR PRIVACY**
+## Privacy Policy
 
-This privacy policy tells you how we collect, use, and protect your personal information. By visiting our website, you accept and agree to the terms and conditions of this privacy policy. In particular, you consent to our collection and use of your personal information as described in this privacy policy.
+GetPaidToDraw.com takes your privacy seriously, and has created this Privacy Policy in order to demonstrate our firm commitment to online privacy. Keep reading to learn more about our information gathering and dissemination practices, and our use of personally identifiable information. 
 
-**MINORS**
+IP Addresses 
 
-We do not provide services or sell products to children. If you are below the age of 18, you may use our website only with the permission and active involvement of a parent or legal guardian. If you are a minor, please do not provide us or other website visitors with any personal information.
+We may use your IP address to help diagnose problems with our site or web server, and for the general administration of our website. Your IP address, should you decide to register and/or create a GetPaidToDraw.com account, is also used to help prevent you from creating duplicate accounts. 
 
-**POLICY IS PART OF OUR TERMS AND CONDITIONS OF USE**
+Cookies 
 
-Our privacy policy is part of, and subject to, our website's terms and conditions of use. You may view these terms and conditions on our website.
+Upon your first visit to this web site, a "cookie" is sent to your computer. A cookie is a tiny file that identifies you as a unique user. It stores personal preferences and user data, however, in no way does this tell us who you are. GetPaidToDraw.com has two primary uses for its cookies. 
 
-**THE TYPE OF INFORMATION WE COLLECT FROM YOU**
+First, we use cookies to track special offers and promotions that may be presented to you as you navigate our website. This is done so that you are not presented with the same special offers and/or promotions over and over, or after you have indicated you are not interested. 
 
-Like most places on the Internet, simply by visiting our website you automatically tell us certain information. This includes basic information such as your IP address, when you visited, the website from where you came prior to visiting us, the website where you go when you leave our website, your computer's operating system, and the type of web browser that you are using. Our website automatically records this basic information about you.
+While both of these activities depend on the use of a "cookie," visitors to this site always have the option of disabling cookies in their web browser. Most browsers are initially set to accept cookies. You can reset your browser to refuse all cookies or indicate when a cookie is being sent. 
 
-And like many other websites, we may use cookies. In plain English, this means information that our website's server transfers to your computer. This information can be used to track your session on our website. Cookies may also be used to customize our website content for you as an individual. If you are using one of the common Internet web browsers, you can set up your browser to either let you know when you receive a cookie or to deny cookie access to your computer.
+Information Gathering 
 
-We may also collect any data that you provide us by posting it at our website or by e-mail. You can always choose not to provide us with information. However, if you do withhold information, we may deny you access to some or all of our website's services and features.
+This web site collects online contact information in various ways, including inquiry forms and registration forms. The information collected may be used to send or call the user with information about our company, partner companies, or to get in touch with the user when necessary. 
 
-Some transactions between you and our website may involve payment by credit card, debit card, checks, money orders, and/or third party online payment services. In such transactions, we will collect information related to the transaction as part of the course of doing business with you, including your billing address, telephone number, and other information related to the transaction.
+Users may opt-out of receiving future mailings/calls; see the opt-out/modify section below. 
 
-**WHAT WE DO WITH YOUR INFORMATION**
+Information Dissemination 
 
-We use your information to operate our website's business activities. For example, we may use this data to contact you about changes to our website, new services, or special offers, resolve disputes, troubleshoot issues, and enforce our website's terms and conditions.
+We may use the personal information that you supply to us and we may work with other third party businesses to bring selected retail opportunities to our members via email and phone. These businesses may include providers of direct marketing services and applications, including lookup and reference, data enhancement, suppression and validation and email marketing and phone. 
 
-As a general rule, we will not give your data to third parties without your permission. However, there are some important exceptions to this rule that are described in the following paragraphs.
+We may use your Personal Information to advertise, directly or indirectly, to individuals using direct mail marketing or telemarketing using telephones and cell phones. You may have your telephone number or cell phone number listed on a state or federal do not call registry. By registering and using this Site, you agree that such act constitutes a purchase, an inquiry and/or an application for purposes of the Amended Telemarketing Sales Rule, 16 CFR §310 et seq. (the "ATSR"). Notwithstanding that your telephone number may be listed on the Federal Trade Commission's Do-Not-Call List, you have authorized us to contact you via telemarketing in accordance with the ATSR. Moreover, by registering with, or requesting information from, a third-party advertiser at or through the Website or other advertisement media made available by us (e.g., email marketing), you agree that such action shall constitute a purchase, an inquiry and/or an application with the respective third-party advertiser for purposes of the ATSR and you may be contacted via email, direct mail and/or telemarketing by such third-party advertiser in accordance with the ATSR. We may use Personal Information to provide the services you've requested, including services that display customized content and advertising. 
 
-We may, in our sole discretion, provide information about you to law enforcement or other government officials for purposes of fraud investigations, alleged intellectual property infringement, or any other suspected illegal activity or matters that may expose us to legal liability.
+Links to Other Sites 
 
-Although we do not disclose individually identifiable information, we may disclose aggregate data about our website's visitors to advertisers or other third parties for marketing and promotional purposes.
+GetPaidToDraw.com expects its partners, advertisers and affiliates to respect the privacy of our users. Be aware, however, that third parties, including our partners, advertisers, affiliates and other content providers accessible through our site, may have their own privacy and data collection policies and practices. For example, during your visit to our site you may link to, or view as part of a frame of content that is actually created or hosted by a third party. 
 
-From time to time, we may use third party suppliers to provide services on our website. If a supplier wants to collect information about you, you will be notified. However, you will never be required to give information to a third party supplier. We restrict the way third party suppliers can use your information. They are not allowed to sell or give your information to others.
+Also, via our site you may be introduced to, or be able to access, information, Web sites, features, contests or sweepstakes offered by other parties. GetPaidToDraw.com is not responsible for the actions or policies of such third parties. You should check the applicable privacy policies of those third parties when providing information on a feature or page operated by a third party. 
 
-**USER NAMES AND PASSWORDS**
+Please be aware that if you voluntarily disclose Personally Identifiable Information on message boards or in chat areas, that information can be viewed publicly and can be collected and used by third parties without our knowledge and may result in unsolicited messages from other individuals or third parties. Such activities are beyond the control of GetPaidToDraw.com and this policy. 
 
-Your access to parts of our website may be protected by a user name and a password. Do not give your password to anyone. If you enter a section of our website that requires a password, you should log out when you leave. As a safety precaution, you should also close out of your web browser completely and re-open it before viewing other parts of the Internet.
+Children Under 13 
 
-**YOUR USE OF INFORMATION AND UNSOLICITED JUNK E-MAIL**
+GetPaidToDraw.com does not knowingly collect or solicit Personally Identifiable Information from or about children under 13 except as permitted by law. If we discover we have received any information from a child under 13 in violation of this policy, we will delete that information immediately. If you believe GetPaidToDraw.com has any information from or about anyone under 13, please contact us. 
 
-If you obtain personally identifiable information about another website user, you are not allowed to disclose this information to anyone else without the consent of the user and our consent too.
+Security 
 
-We hate junk e-mail (Spam). Information you obtain from our website about us or other site users cannot be used by you or others to send unsolicited commercial e-mail or to send unsolicited commercial communications via our website's posting or other communication systems. 
+This web site has security measures in place to protect against loss, misuse and/or alteration of the information that you provide. Furthermore, we have taken every precaution technically possible to prevent any unauthorized access to the contents of this web server. 
 
-**YOUR VOLUNTARY DISCLOSURE OF INFORMATION TO THIRD PARTIES WHO ARE NOT OUR SUPPLIERS**
+Opt-Out/Modify 
 
-You may choose to provide personal information to website visitors or other third parties who are not our suppliers. Please use caution when doing so. The privacy policies and customs of these third parties determine what is done with your information.
+GetPaidToDraw.com provides every user with the opportunity to opt-out of receiving future communications from us, change and modify information previously provided, or remove their information from our databases altogether. 
 
-**AUTORESPONDERS**
+1\. Email: s u p p o r t ^at^ GetPaidToDraw.com 
 
-We may use autoresponders to communicate with you by e-mail. To protect your privacy, we use a verified opt-in system for such communications and you can always opt-out of such communications using the links contained in each autoresponder message. If you have difficulties opting out, you may contact us by sending an e-mail to customerservice[at]getpaidtodraw.com, or sending us mail to the address listed below. 
+Contacting GetPaidToDraw.com 
 
-**POLICY CHANGES**
+If you have any questions about this privacy statement, the practices of this web site, or your dealings with this web site, please contact us via one of the methods above. 
 
-The terms of this policy may change from time to time. If such changes are made, we will notify you by a notice posted on our website's home page of the changes that have been made. If you disagree with the changes that have been made, please contact us (by e-mail, using a website contact form, or in writing by mail), and any changes made to this policy will not apply to information we have collected from you prior to making the changes.
+Policy Changes 
 
-If you are concerned about the topic covered by this policy, you should read it each time before you use our website. Any questions or concerns about this policy should be brought to our attention by sending an e-mail to customerservice[at]getpaidtodraw.com and providing us with information relating to your concern.
-
-You may also mail your concerns to us at the following address:
-
-Get Paid To Draw  
-3328 Rockne  
-Mesquite, TX 75150  
-USA 
-
-**CALIFORNIA PRIVACY RIGHTS**
-
-If you are a California resident and our customer, Cal. Civ. Code § 1798.83 permits you to request certain information about our disclosure of personal information to third parties for their direct marketing purposes. To request this information, please send an e-mail to customerservice[at]getpaidtodraw.com or write us at the following address:
-
-Get Paid To Draw  
-3328 Rockne  
-Mesquite, TX 75150  
-USA 
-
-This privacy policy was last updated on 02-17-2010.
-
-Copyright © 2008-2009 [Law Office of Michael E. Young PLLC](http://www.mikeyounglaw.com/), and licensed for use by the owner of this website at getpaidtodraw.com. All Rights Reserved. No portion of this document may be copied or used by anyone other than the licensee without the express written permission of the copyright owner.
+GetPaidToDraw.com reserves the right to change this privacy policy at any time. 
