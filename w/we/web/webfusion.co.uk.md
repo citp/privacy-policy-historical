@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the webfusion.co.uk privacy policy that was archived on 2012-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121014010911id_/http%3A//www.webfusion.co.uk/terms-and-conditions/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the webfusion.co.uk privacy policy that was archived on 2013-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130621020658id_/http%3A//www.webfusion.co.uk/terms-and-conditions/privacy-policy) for the most accurate reproduction.*
 
-# General Terms and Conditions | Legal | Webfusion UK
+# Terms and Conditions |Privacy Policy Legal terms | Webfusion UK
 
 #### The purpose of this policy is to explain how Webfusion collects, protects, and uses personal data.
 
@@ -75,7 +75,7 @@ as explained in paragraph 4.2 above to object to any unsolicited information sen
 
 ### 9\. Contact Details
 
-If any individual wishes to contact Webfusion regarding the personal data held about them or has any other question about Webfusion' data privacy procedures, they should direct an email to [contact@webfusion.com](mailto:contact@webfusion.com) or send a letter to the direction of "Webfusion Customer Services Department" at the local Webfusion office.
+If any individual wishes to contact Webfusion regarding the personal data held about them or has any other question about Webfusion' data privacy procedures, they should direct an email to [legal@webfusion.com](mailto:legal@webfusion.com) or send a letter to the direction of "Webfusion Customer Services Department" at the local Webfusion office.
 
 ### 10\. Policy Updates
 
