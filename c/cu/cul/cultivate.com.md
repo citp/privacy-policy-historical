@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the cultivate.com privacy policy that was archived on 2012-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121209013955id_/http%3A//www.cultivate.com/cultivate-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cultivate.com privacy policy that was archived on 2013-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130621085949id_/http%3A//www.cultivate.com/cultivate-privacy-policy) for the most accurate reproduction.*
 
 # Cultivate Privacy Policy | Cultivate
 
-Revised:  November 21, 2012
+Revised:  December 26, 2012
 
 Your privacy is very important to us.  We have prepared this Privacy Policy to explain how we collect, use protect, and disclose information and data when you use the Cultivate website (" ** _Site_** ") or Cultivate services (" ** _Services_** ").  The Site and Services are made available and operated by Williams-Sonoma, Inc. (" ** _Williams-Sonoma_** " " ** _we_** " " ** _us_** ").  By using the Site or Services, you consent to this Privacy Policy. 
 
@@ -10,7 +10,7 @@ Your privacy is very important to us.  We have prepared this Privacy Policy to 
 
 **_Collecting Information about You_**
 
-We may collect information about you, such as your name, username, address, zip code, email, phone number and other information that you choose to provide us (" ** _Contact Information_** ").  You may be asked to provide us with Contact Information when you register with the Site or use certain Services, and at other times.  The decision to provide this information is optional.  However, if you choose not to provide the requested information, you may not be able to use some or all of the features of the Site or Services.
+We may collect information about you, such as your name, username, address, zip code, email, phone number and other information that you choose to provide us (" ** _Contact Information_** ").  You may be asked to provide us with Contact Information when you register with the Site or use certain Services, and at other times.  If you access the Site or Services through Facebook Connect, you understand that some content and/or information in your Facebook account (“ ** _Third Party Account Information_** ”) may be transmitted into your account with us if you authorize such transmissions, and that Third Party Account Information transmitted to our Site or Services is covered by this Privacy Policy.  The decision to provide any or all of the information we request is optional.  However, if you choose not to provide the requested information, you may not be able to use some or all of the features of the Site or Services.
 
 **_Usage Data and Site Activity_**
 
