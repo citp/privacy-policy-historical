@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the innity.com privacy policy that was archived on 2012-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121214185259id_/http%3A//www.innity.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the innity.com privacy policy that was archived on 2013-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130621081614id_/http%3A//www.innity.com/privacy-policy.php) for the most accurate reproduction.*
 
 # Innity - Privacy & Policy
+
+RIGHT AUDIENCE. REAL ENGAGEMENT.
 
 This privacy policy applies to all of the products and services offered by INNITY or its subsidiaries or affiliated companies.
 
@@ -32,9 +34,13 @@ Cookies are small text files that web sites place in your browser when you visit
 Pixel Tags  
 Pixel tags are small images on a web page or other document. Pixel tags allow the operator of the web page or other document, or a third party who serves the pixel tag, to set, read, and modify cookies.
 
-#### Data Storage and Security
+#### Data Storage and Retention
 
-We retain the non-Personally Identifiable Information collected via our technology for up to one year. After one year, we discard the information. Even though our information is anonymous, security is important to us. We have implemented reasonable measures to protect the information we collect. No method protecting information is 100% secure, and we cannot guarantee its absolute security.
+The data collected through browser-level measurement is typically maintained for up to 12 months. Such data may be aggregated and used for analytical purposes indefinitely. Additionally, in certain circumstances, for instance when a specific site has asked for detailed reporting, selected anonymous records relating to that specific site may be maintained indefinitely.
+
+#### Data Security
+
+Even though our information is anonymous, security is important to us. We have implemented reasonable measures to protect the information we collect. No method protecting information is 100% secure, and we cannot guarantee its absolute security.
 
 #### Information Relating to Children
 
