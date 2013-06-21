@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hostelbookers.com privacy policy that was archived on 2012-09-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120920013703id_/http%3A//www.hostelbookers.com/index.cfm%3Ffuseaction%3Dknowledgebase.article%26articleid%3D42%26thickbox%3Dfalse) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hostelbookers.com privacy policy that was archived on 2013-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130621023432id_/http%3A//www.hostelbookers.com/index.cfm%3Ffuseaction%3Dknowledgebase.article%26articleid%3D42%26thickbox%3Dfalse) for the most accurate reproduction.*
 
 # Customer Knowledge Base
 
@@ -78,3 +78,7 @@ To ensure that we carry out your instructions accurately, to help improve our se
 UPDATES AND CHANGES
 
 As our privacy statement may change due to developments in the law we encourage you to re read this from time to time so you are aware of any changes in how we gather and use your personal information. 
+
+HostelBookers.com Ltd 52-54 High Holborn London WC1V 6RL 
+
++44 (0)20 7406 1800 
