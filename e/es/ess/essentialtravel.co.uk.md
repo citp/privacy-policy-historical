@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the essentialtravel.co.uk privacy policy that was archived on 2012-09-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120920082056id_/http%3A//www.essentialtravel.co.uk/privacy-policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the essentialtravel.co.uk privacy policy that was archived on 2013-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130621055455id_/http%3A//www.essentialtravel.co.uk/privacy-policy.asp) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy - How Essential Travel Handles Your Data
 
 ← Go Back
 
@@ -25,8 +25,6 @@ We may use technology to analyse the patterns of behavior of visitors to our sit
 Read more about [our cookies and how to opt-out](http://www.essentialtravel.co.uk/cookies-information.asp) here.
 
 ## Third-Party Web Beacons
-
-We use third-party web beacons from Yahoo! to help analyze where visitors go and what they do while visiting our website. Yahoo! may also use anonymous information about your visits to this and other websites in order to improve its products and services and provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by Yahoo! [click here](https://ondemand.indextools.com/optout,OptOut.vm?domain=stats.indextools.com).
 
 This site uses ClickTale web analytics service. ClickTale may record mouse clicks, mouse movements, scrolling activity as well as text you type in this website. This site does not use ClickTale to collect any personally identifiable information entered in this website. ClickTale does not track your browsing habits across web sites which do not use ClickTale services. For more information see [Privacy Policy for Information Collected by the ClickTale Web Analytics Service](http://www.clicktale.com/privacy_service.aspx). We are using the information collected by ClickTale service to **see how parts of our site are used and how we can improve the overall experience of our visitors and customers.**
 
