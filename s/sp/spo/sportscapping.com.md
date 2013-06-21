@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sportscapping.com privacy policy that was archived on 2012-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121220121811id_/http%3A//www.sportscapping.com/articles/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sportscapping.com privacy policy that was archived on 2013-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130621232414id_/http%3A//www.sportscapping.com/articles/privacy-policy) for the most accurate reproduction.*
 
 # Information Security Statement | Privacy Policy | Sports Handicapping | Free Basketball Picks | NFL Predictions
 
