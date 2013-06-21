@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the instantinternetpaydays.com privacy policy that was archived on 2012-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120503231336id_/http%3A//www.instantinternetpaydays.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the instantinternetpaydays.com privacy policy that was archived on 2013-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130621053257id_/http%3A//instantinternetpaydays.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
