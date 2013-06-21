@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vodafone.co.uk privacy policy that was archived on 2012-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121216061259id_/http%3A//www.vodafone.co.uk/about-this-site/our-privacy-policy/index.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vodafone.co.uk privacy policy that was archived on 2013-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130621140250id_/https%3A//www.vodafone.co.uk/about-this-site/our-privacy-policy/index.htm) for the most accurate reproduction.*
 
 # Privacy policy - Vodafone
 
@@ -34,9 +34,9 @@ We might also use cookies (small text files stored in your browser) and other te
 
 This, in turn, helps us make our website relevant to your interests and needs. We may use a persistent cookie (a cookie that stays linked to your browser) to record your details so we can recognise you if you visit our website again. See the next section for more details.
 
-You can choose to refuse cookies, or set your browser to let you know each time a website tries to set a cookie. You can[ get more information about cookies](http://www.allaboutcookies.org/) including information on how to turn them off.
+You can choose to refuse cookies, or set your browser to let you know each time a website tries to set a cookie. You can[ get more information about cookies](http://www.allaboutcookies.org/ "get more information about cookies") including information on how to turn them off.
 
-  * [About the cookies we use on this site](https://web.archive.org/about-this-site/our-privacy-policy/privacy-and-cookies/index.htm)
+  * [About the cookies we use on this site](https://web.archive.org/about-this-site/our-privacy-policy/privacy-and-cookies/index.htm "About the cookies we use on this site")
 
 
 
@@ -67,7 +67,7 @@ We’ll also get information on how you use our products and services, such as:
 
 We may use and analyse your information to:
 
-  * Carry out a credit check if you’re applying for a contract for airtime services and to assess your application. See more details about our [credit-checking process](https://web.archive.org/about-this-site/our-privacy-policy/credit-checking/index.htm)
+  * Carry out a credit check if you’re applying for a contract for airtime services and to assess your application. See more details about our [credit-checking process](https://web.archive.org/about-this-site/our-privacy-policy/credit-checking/index.htm "credit-checking process")
   * Process the goods and services you’ve bought from us, and keep you updated with your order progress
   * Keep you informed generally about new products and services (unless you don’t want to receive our marketing messages)
   * Provide the relevant service or product to you. This includes other services not included in your agreement with us, and services that use information about where you are when using your mobile equipment (location information) and to contact you with messages about changes to the service or product
@@ -126,11 +126,11 @@ Communications over the internet (such as emails) aren’t secure unless they’
 
 ### Your privacy rights
 
-You can write to us at any time to get a copy of the personal information we hold about you. You can do this by filling in this [application form](http://www.vodafone.co.uk/cs/groups/public/documents/webcontent/vftst031658.pdf) and sending it to the address on the form. There’s a charge of £10 to cover the cost of providing this information.
+You can write to us at any time to get a copy of the personal information we hold about you. You can do this by filling in this [application form](http://www.vodafone.co.uk/cs/groups/public/documents/webcontent/vftst031658.pdf "application form") and sending it to the address on the form. There’s a charge of £10 to cover the cost of providing this information.
 
 If you believe we’re holding inaccurate information about you, please contact our customer services team (through the ‘Contact Us’ page on our website) so we can correct it.
 
-If you no longer want to receive marketing messages from us, please contact our customer services team and you’ll be ‘opted out’. (You can get in touch with customer services through the [Contact Us](http://help.vodafone.co.uk/system/selfservice.controller?CONFIGURATION=1000&PARTITION_ID=1&CMD=STARTPAGE&USERTYPE=1&LANGUAGE=en&COUNTRY=us&requestedPage=ContactUs) page on our site.)
+If you no longer want to receive marketing messages from us, please contact our customer services team and you’ll be ‘opted out’. (You can get in touch with customer services through the [Contact Us](http://help.vodafone.co.uk/system/selfservice.controller?CONFIGURATION=1000&PARTITION_ID=1&CMD=STARTPAGE&USERTYPE=1&LANGUAGE=en&COUNTRY=us&requestedPage=ContactUs "Contact Us") page on our site.)
 
 You can choose to opt out of all marketing communications or to opt out of marketing in one of several ways (such as email, text, phone or post).
 
