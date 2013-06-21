@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the desifreetv.com privacy policy that was archived on 2012-10-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121021030539id_/http%3A//desifreetv.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the desifreetv.com privacy policy that was archived on 2013-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130621031942id_/http%3A//desifreetv.com/privacy.html) for the most accurate reproduction.*
 
 # 
 
