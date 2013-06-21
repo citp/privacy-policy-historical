@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the gotinder.com privacy policy that was archived on 2012-07-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120721044815id_/http%3A//www.gotinder.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gotinder.com privacy policy that was archived on 2013-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130621220426id_/http%3A//www.gotinder.com/privacy) for the most accurate reproduction.*
 
-# None
+# Tinder - Privacy Policy
 
-This Privacy Policy explains the information that Hatch Labs, Inc. (“Hatch,” “we,” or “us”) collect about users of the Tinder mobile application and related website (“Tinder”), how we use that information, and with whom we share it.  If we make any material changes to our privacy practices, we will post a revised Privacy Policy on this page.  If you have any questions, please contact us by sending an email to help@cardify.com or writing to Hatch Labs, Inc., 555 West 18th Street, New York, New York 10011.
+This Privacy Policy explains the information that Tinder, Inc. (“Tinder Co,” “we,” or “us”) collect about users of the Tinder mobile application and related website (“Tinder”), how we use that information, and with whom we share it. If we make any material changes to our privacy practices, we will post a revised Privacy Policy on this page. If you have any questions, please contact us by sending an email to [help@gotinder.com](mailto:help@gotinder.com) or writing to Tinder, Co., 8800 W. Sunset Ave, West Hollywood, CA 90069.
 
 * **Information we collect**
 
-**Information collected automatically:** When you use Tinder, we automatically collect and store information about your computer or mobile device and your activities. This information includes: 
+**Information collected automatically:** When you use Tinder, we automatically collect and store information about your computer or mobile device and your activities. This information includes:
 
   1. Your mobile device's unique ID number
   2. Your mobile device's geographic location while the app is actively running
@@ -24,7 +24,7 @@ In order to register, you will be asked to sign-in using your Facebook login.  
 
 Whenever you voluntarily disclose personal information on publicly-viewable screens or pages, that information will be publicly available and can be collected and used by others. For example, if you post your email address, you may receive unsolicited messages. We cannot control who reads your posting or what other users may do with the information you voluntarily post, so we encourage you to exercise discretion and caution with respect to your personal information.
 
-You may also (but are not required to) provide information about yourself (such as your gender, location, URL, or a biography).  Any additional image or information you provide may be publicly displayed. If you wish, we will delete your account information; to do so, please close your account by sending an email to help@cardify.com 
+You may also (but are not required to) provide information about yourself (such as your gender, location, URL, or a biography).  Any additional image or information you provide may be publicly displayed. If you wish, we will delete your account information; to do so, please close your account by sending an email to [help@gotinder.com](mailto:help@gotinder.com)
 
 **Information about others:**
 
@@ -34,7 +34,9 @@ We may collect and store personal information about other people that is availab
 
 We use your information to provide and improve our services, award loyalty points to you, make special offers, customize services for you, better understand our users, diagnose and fix problems, and sell and display offers and ads that may be relevant to you.
 
-**Geo-location-information:** While the Tinder application is in use, we keep track of your device’s geographic location so that we can connect you to other Tinder users based on your particular geographic location. 
+**Geo-location-information:**
+
+While the Tinder application is in use, we keep track of your device’s geographic location so that we can connect you to other Tinder users based on your particular geographic location. 
 
 * **Use of your information by others**
 
