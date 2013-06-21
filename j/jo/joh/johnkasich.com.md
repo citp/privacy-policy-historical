@@ -1,22 +1,22 @@
-> *The following text is extracted and transformed from the johnkasich.com privacy policy that was archived on 2011-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111227095856id_/http%3A//www.kasichforohio.com/site/lookup.asp%3Fc%3DhpIJKWOCJqG%26b%3D5207703) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the johnkasich.com privacy policy that was archived on 2013-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130621140928id_/http%3A//www.kasichforohio.com/privacy-policy) for the most accurate reproduction.*
 
-# John Kasich for Ohio | Privacy Policy
+# Privacy Policy
 
-This is the web site of Kasich - Taylor for Ohio.
+This is the web site of Kasich – Taylor for Ohio.
 
-Our postal address is: 
+Our postal address is:
 
 340 East Gay St.  | Columbus, OH 43215
 
 We can be reached via e-mail at [info@KasichforOhio.com](mailto:info@KasichforOhio.com).
 
-For each visitor to our Web page, our Web server automatically recognizes the consumer's domain name and e-mail address (where possible).
+For each visitor to our Web page, our Web server automatically recognizes the consumer’s domain name and e-mail address (where possible).
 
 We collect the domain name and e-mail address (where possible) of visitors to our Web page, the e-mail addresses of those who post messages to our bulletin board, the e-mail addresses of those who communicate with us via e-mail, the e-mail addresses of those who make postings to our chat areas, aggregate information on what pages consumers access or visit, information volunteered by the consumer, such as survey information and/or site registrations, name and address, telephone number, fax number, and payment information (e.g., credit card number and billing address).
 
 The information we collect is used to improve the content of our Web pages, to customize the content and/or layout of our page for each individual visitor, to notify consumers about updates to our Web site, and by us to contact consumers for marketing purposes.
 
-With respect to cookies: We use cookies to store visitors preferences, record session information, such as items that consumers add to their shopping cart, alert visitors to new areas that we think might be of interest to them when they return to our site, and to record past activity at a site in order to provide better service when visitors return to our site, customize Web page content based on visitors' browser type or other information that the visitor sends.
+With respect to cookies: We use cookies to store visitors preferences, record session information, such as items that consumers add to their shopping cart, alert visitors to new areas that we think might be of interest to them when they return to our site, and to record past activity at a site in order to provide better service when visitors return to our site, customize Web page content based on visitors’ browser type or other information that the visitor sends.
 
 If you do not want to receive e-mail from us in the future, please let us know by sending us e-mail at the above address, writing to us at the above address.
 
