@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dragonagenexus.com privacy policy that was archived on 2012-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121218034705id_/http%3A//dragonage.nexusmods.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dragonagenexus.com privacy policy that was archived on 2013-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130621202624id_/http%3A//dragonage.nexusmods.com/about/privacy) for the most accurate reproduction.*
 
 # Dragon Age Nexus - Dragon Age mods and community
 
@@ -14,4 +14,4 @@ From time to time, we may use customer information for new, unanticipated uses n
 
 Upon request we provide site visitors with access to unique identifier information (e.g., customer number or password) that we maintain about them and transaction information (e.g., dates on which customers made purchases, amounts and types of purchases) that we maintain about them.
 
-If you feel that this site is not following its stated information policy please [contact us](https://web.archive.org/about/contact/).
+If you feel that this site is not following its stated information policy please [contact us](http://forums.nexusmods.com/index.php?app=nexus&module=support&section=new).
