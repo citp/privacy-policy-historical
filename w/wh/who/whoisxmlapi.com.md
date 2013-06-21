@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the whoisxmlapi.com privacy policy that was archived on 2012-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121218091908id_/http%3A//whoisxmlapi.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the whoisxmlapi.com privacy policy that was archived on 2013-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130621174339id_/http%3A//whoisxmlapi.com/privacy.php) for the most accurate reproduction.*
 
 # Whois API, Whois XML API
 
@@ -46,7 +46,7 @@ We are in compliance with the requirements of COPPA (Childrens Online Privacy Pr
 
 **Terms and Conditions**
 
-Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website at <http://www.whoisxmlapi.com/terms-of-services.php>
+Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website at [http://www.whoisxmlapi.com/terms-of-services.php](http://www.whoisxmlapi.com/terms-of-service.php)
 
 **Your Consent**
 
