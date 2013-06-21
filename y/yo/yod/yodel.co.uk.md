@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the yodel.co.uk privacy policy that was archived on 2012-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121201135951id_/http%3A//www.yodel.co.uk/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yodel.co.uk privacy policy that was archived on 2013-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130621071454id_/http%3A//yodel.co.uk/privacy-policy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy - Yodel
 
 **WHO WE ARE**
 
-"Yodel" is a trading name of Home Delivery Network Limited and its associated companies including Parcelpoint Limited, Yodel XL Limited, Yodel XL (Scotland) Limited, HDN (NI) Limited and Yodel Transport Limited. References to "the Website" are to www.yodel.co.uk
+"Yodel" is a trading name of Home Delivery Network Limited and its associated companies including Parcelpoint Limited,  NewCo Limited, HDN (NI) Limited and Yodel Transport Limited. References to "the Website" are to www.yodel.co.uk
 
 **WHAT INFORMATION WE COLLECT AND HOW**
 
@@ -18,7 +18,7 @@ The information Yodel collects via the Website may include:
 
   * Yodel also utilises Google Analytics to track visitors to the Website for statistical purposes. Google Analytics uses a persistent cookie that is valid for up to 2 years. This cookie does not contain any personally identifiable information, but does create a unique identifier to track the number of subsequent visits to the Website.
 
-  * Most browsers can be programmed to reject, or warn you before downloading cookies, information regarding this may be found in your browsers 'help' facility. Please note that if you do reject cookies it may adversely affect your use of the Website. Find out more on cookies [here](https://web.archive.org/about/read-all-about-us/yodel-makes-the-cut-at-the-blades-2011/yodel-makes-the-cut-at-the-blades-2011/yodel-makes-the-cut-at-the-blades-2011.aspx "Cookie Policy").
+  * Most browsers can be programmed to reject, or warn you before downloading cookies, information regarding this may be found in your browsers 'help' facility. Please note that if you do reject cookies it may adversely affect your use of the Website. Find out more on cookies [here](https://web.archive.org/about/read-all-about-us-2011-archive/yodel-makes-the-cut-at-the-blades-2011/yodel-makes-the-cut-at-the-blades-2011/yodel-makes-the-cut-at-the-blades-2011.aspx "Cookie Policy").
 
 
 
