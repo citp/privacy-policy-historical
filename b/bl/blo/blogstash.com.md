@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the blogstash.com privacy policy that was archived on 2012-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121016104232id_/http%3A//www.blogstash.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the blogstash.com privacy policy that was archived on 2013-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130621031543id_/http%3A//www.blogstash.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | BlogStash
+# Privacy Policy
 
 I take everyone’s privacy very seriously, just like I would like others to take my privacy seriously. That is why protecting your privacy is very important to me. I hope the following information will help you understand how we collect, use and safeguard the personal information you provide to us on BlogStash.com.
 
