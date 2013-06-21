@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the newsbiscuit.com privacy policy that was archived on 2012-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121202133848id_/http%3A//www.newsbiscuit.com/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the newsbiscuit.com privacy policy that was archived on 2013-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130621044424id_/http%3A//www.newsbiscuit.com/about/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy | NewsBiscuit
 
@@ -53,3 +53,16 @@ You can choose to accept or decline cookies. Most web browsers automatically acc
 _**Links to other websites**_
 
 Our website may contain links to enable you to visit other websites of interest easily. However, once you have used these links to leave our site, you should note that we do not have any control over that other website. Therefore, we cannot be responsible for the protection and privacy of any information which you provide whilst visiting such sites, and such sites are not governed by this privacy statement. You should exercise caution and look at the privacy statement applicable to the website in question.
+
+Share this story...
+
+  * [](http://twitter.com/intent/tweet?text=Privacy%20policy%20-%20http%3A%2F%2Fwww.newsbiscuit.com%2Fabout%2Fprivacy-policy%2F%20 "Twitter")
+  * [](http://www.facebook.com/share.php?u=http%3A%2F%2Fwww.newsbiscuit.com%2Fabout%2Fprivacy-policy%2F&t=Privacy%20policy "Facebook")
+  * [](https://mail.google.com/mail/?view=cm&fs=1&to&su=Privacy%20policy&body=http%3A%2F%2Fwww.newsbiscuit.com%2Fabout%2Fprivacy-policy%2F&ui=2&tf=1&shva=1 "email")
+  * [](http://reddit.com/submit?url=http%3A%2F%2Fwww.newsbiscuit.com%2Fabout%2Fprivacy-policy%2F&title=Privacy%20policy "Reddit")
+  *   * [](http://www.stumbleupon.com/submit?url=http%3A%2F%2Fwww.newsbiscuit.com%2Fabout%2Fprivacy-policy%2F&title=Privacy%20policy "StumbleUpon")
+  * [](http://delicious.com/post?url=http%3A%2F%2Fwww.newsbiscuit.com%2Fabout%2Fprivacy-policy%2F&title=Privacy%20policy&notes=This%20privacy%20policy%20sets%20out%20how%20Net%20Loss%20Ltd%20uses%20and%20protects%20any%20information%20that%20you%20give%20Net%20Loss%20Ltd%20when%20you%20use%20this%20website.%0D%0A%0D%0ANet%20Loss%20Ltd%20is%20committed%20to%20ensuring%20that%20your%20privacy%20is%20protected.%20Should%20we%20ask%20you%20to%20provide%20certain%20inform "Delicious")
+  * [](http://www.google.com/reader/link?url=http%3A%2F%2Fwww.newsbiscuit.com%2Fabout%2Fprivacy-policy%2F&title=Privacy%20policy&srcURL=http%3A%2F%2Fwww.newsbiscuit.com%2Fabout%2Fprivacy-policy%2F&srcTitle=NewsBiscuit+The+news+before+it+happens... "Google Reader")
+  * [](http://www.linkedin.com/shareArticle?mini=true&url=http%3A%2F%2Fwww.newsbiscuit.com%2Fabout%2Fprivacy-policy%2F&title=Privacy%20policy&source=NewsBiscuit+The+news+before+it+happens...&summary=This%20privacy%20policy%20sets%20out%20how%20Net%20Loss%20Ltd%20uses%20and%20protects%20any%20information%20that%20you%20give%20Net%20Loss%20Ltd%20when%20you%20use%20this%20website.%0D%0A%0D%0ANet%20Loss%20Ltd%20is%20committed%20to%20ensuring%20that%20your%20privacy%20is%20protected.%20Should%20we%20ask%20you%20to%20provide%20certain%20inform "LinkedIn")
+  * 
+
