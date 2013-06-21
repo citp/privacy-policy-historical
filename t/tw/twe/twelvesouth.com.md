@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the twelvesouth.com privacy policy that was archived on 2012-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121219144306id_/http%3A//www.twelvesouth.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the twelvesouth.com privacy policy that was archived on 2013-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130621041546id_/http%3A//twelvesouth.com/privacy) for the most accurate reproduction.*
 
 # Privacy - Twelve South
 
-##  Privacy Policy 
+## 
 
 This Policy is designed to assist you in understanding how we collect, use and safeguard the personal information you provide to us and to assist you in making informed decisions when using our site and our products and services.
 
