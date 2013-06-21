@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the soundcloud.com privacy policy that was archived on 2012-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121224142836id_/http%3A//soundcloud.com/pages/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the soundcloud.com privacy policy that was archived on 2013-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130621154227id_/http%3A//soundcloud.com/pages/privacy) for the most accurate reproduction.*
 
 # Privacy Policy on SoundCloud - Create, record and share your sounds for free
 
@@ -8,23 +8,13 @@ Your privacy is important to us. This Privacy Policy explains how we collect, st
 
 This Privacy Policy explains the following, amongst other things:
 
-  * Our principles with respect to your data and your privacy
-  * The information we collect about you
-  * How we use your personal information
-  * How we share your personal information
-  * How we use cookies and similar technology
-  * Your choices with respect to your personal information
-  * How to contact us regarding privacy issues
-
-
-
 By using the Website, the Apps or any of the Services, and in particular by registering a SoundCloud® account, you are consenting to the use of your personal information in the manner set out in this Privacy Policy. 
 
-For your convenience, information relating to our use of cookies and similar technologies is set out in a separate [Cookies Policy](https://web.archive.org/legal/cookie-policy). The Cookies Policy forms part of ths Privacy Policy, and whenever we refer to the Privacy Policy, we are referring to the Privacy Policy incorporating the Cookies Policy.
+For your convenience, information relating to our use of cookies and similar technologies is set out in a separate [Cookies Policy](https://web.archive.org/pages/cookies). The Cookies Policy forms part of ths Privacy Policy, and whenever we refer to the Privacy Policy, we are referring to the Privacy Policy incorporating the Cookies Policy.
 
 Please take some time to read this Privacy Policy (including the Cookies Policy), and make sure you are happy with our use and disclosure of your personal information.
 
-**If you do not agree to any of the provisions of this Privacy Policy, you should not use the Website, the Apps or any of the Services**. If you have any questions or concerns, you can contact us at [](mailto:%3Ca%20href='mailto:privacy@soundcloud.com'%3Eprivacy@soundcloud.com%3C/a%3E)[privacy@soundcloud.com](mailto:privacy@soundcloud.com).
+**If you do not agree to any of the provisions of this Privacy Policy, you should not use the Website, the Apps or any of the Services**. If you have any questions or concerns, you can contact us at [privacy@soundcloud.com](mailto:privacy@soundcloud.com).
 
 Please note that this Privacy Policy only applies to the Website, the Apps and the Services (together, the “ **Platform** ”). When using the Platform, you may find links to other websites, apps and services, or tools that enable you to share information with other websites, apps and services. SoundCloud is not responsible for the privacy practices of these other websites, apps and services and we recommend that you review the privacy policies of each of these websites, apps or services before connecting your SoundCloud® account or sharing any personal information.
 
@@ -34,7 +24,7 @@ We have a pretty simple approach to data protection and privacy, which can be su
 
 ###  You should know exactly what we do with your data
 
-This Privacy Policy is designed to give you full transparency regarding our data protection practices. If there’s anything that’s not clear from this Privacy Policy, please feel free to email us at [](mailto:%3Ca%20href='mailto:privacy@soundcloud.com'%3Eprivacy@soundcloud.com%3C/a%3E)[privacy@soundcloud.com](mailto:privacy@soundcloud.com).
+This Privacy Policy is designed to give you full transparency regarding our data protection practices. If there’s anything that’s not clear from this Privacy Policy, please feel free to email us at [privacy@soundcloud.com](mailto:privacy@soundcloud.com).
 
 ###  You should have full control over your data
 
@@ -72,13 +62,13 @@ None of this profile information is mandatory, and any information you do provid
 
 ###  Information we collect automatically
 
-There is certain information that we collect automatically as the result of your use of the Platform, or through the use of web analytics services as described in our [Cookies Policy](https://web.archive.org/legal/cookie-policy). This information includes:
+There is certain information that we collect automatically as the result of your use of the Platform, or through the use of web analytics services as described in our [Cookies Policy](https://web.archive.org/pages/cookies). This information includes:
 
   * the Internet Protocol (IP) address of the device from which you access the Platform (this can sometimes be used to derive the country or city from which you are accessing the Platform)
 
   * the site that you visited immediately prior to visiting the Website
 
-  * the specific actions that you take on the Platform, including the pages that you visit, streaming or downloading sounds, uploading or recording sounds, connecting your Facebook account, sharing a track with another user, following or unfollowing another user, joining or leaving a group, posting a comment, or performing a search
+  * the specific actions that you take on the Platform, including the pages that you visit, streaming or downloading sounds, uploading or recording sounds, connecting your Facebook or Google+ account, sharing a track with another user, following or unfollowing another user, joining or leaving a group, posting a comment, or performing a search
 
   * any search terms that you may enter on the Website
 
@@ -88,7 +78,7 @@ There is certain information that we collect automatically as the result of your
 
   * the nature of the device from which you are accessing the Platform, for example, whether you are accessing the Platform from a personal computer or from a mobile device
 
-  * information collected through cookies and similar technology, as described in our [Cookies Policy](https://web.archive.org/legal/cookie-policy)
+  * information collected through cookies and similar technology, as described in our [Cookies Policy](https://web.archive.org/pages/cookies)
 
   * information regarding your interaction with email messages, for example, whether you opened, clicked on, or forwarded the email message
 
@@ -97,11 +87,21 @@ There is certain information that we collect automatically as the result of your
 
 ###  Information from Other Sources
 
+#####  Facebook
+
 SoundCloud allows you to sign up and log in using your Facebook account. If you sign up using Facebook, Facebook will ask your permission to share certain information from your Facebook account with SoundCloud. This includes your first name, last name, gender, general location, a link to your Facebook profile, your timezone, birthday, profile picture, your "likes" and your list of friends.
 
 This information is collected by Facebook and is provided to us under the terms of [Facebook’s privacy policy](http://www.facebook.com/policy.php). You can control the information that we receive from Facebook using the privacy settings in your Facebook account.
 
-If you sign up to SoundCloud® using Facebook, your SoundCloud® account will be connected automatically to your Facebook account, and information regarding your activity on SoundCloud®, specifically any new public sounds that you post on SoundCloud® and any new favourites, will be shared with Facebook and will be published in your timeline and your Facebook friends’ newsfeeds. If you do not wish to share your SoundCloud® activity with your Facebook friends, you can control this from the Settings page on the Website – for more information, see the Choice and Control section below. If you signed up using Facebook by mistake, you can delete your account from the Account page within your Settings at any time, or you can email us at [](mailto:%3Ca%20href='mailto:privacy@soundcloud.com'%3Eprivacy@soundcloud.com%3C/a%3E)[privacy@soundcloud.com](mailto:privacy@soundcloud.com).
+If you sign up to SoundCloud® using Facebook, your SoundCloud® account will be connected automatically to your Facebook account, and information regarding your activity on SoundCloud®, specifically any new public sounds that you post on SoundCloud® and any new favourites, will be shared with Facebook and will be published in your timeline and your Facebook friends’ newsfeeds. If you do not wish to share your SoundCloud® activity with your Facebook friends, you can control this from the Settings page on the Website – for more information, see the Choice and Control section below. If you signed up using Facebook by mistake, you can delete your account from the Account page within your Settings at any time, or you can email us at [privacy@soundcloud.com](mailto:privacy@soundcloud.com).
+
+#####  Google+
+
+You can sign up and log in to SoundCloud using your Google+ account. When you sign up using Google+, Google will ask your permission to share certain information from your Google+ account with SoundCloud. This includes your first name, last name, a link to your Google+ profile, your profile picture, and your list of friends. This information is collected by Google and is provided to us under the terms of [Google's privacy policy](https://www.google.com/intl/en-GB/policies/privacy/). 
+
+If you sign up to SoundCloud® using Google+, by default information regarding your activity on SoundCloud® will be visible on Google to everyone in your Google+ circles and shared with Google according to [Google's terms of service](https://www.google.com/intl/en_uk/policies/terms/regional.html) and [Google's privacy policy](https://www.google.com/intl/en-GB/policies/privacy/). For more information on how to manage the activities you share back to your Google+ account, see [Google's support page](https://support.google.com/plus/answer/2980762?hl=en). You can manage who from your Google+ circles sees your SoundCloud® activity from within your Google+ App settings page. If you want to control the type of SoundCloud® activity that is shared with your Google+ circles, you can do this from the settings page of your SoundCloud account under the “Connections” tab. 
+
+If you signed up to SoundCloud® using Google+ by mistake, you can delete your account from the account page within your settings at any time, or you can email us at [privacy@soundcloud.com](mailto:privacy@soundcloud.com).
 
 ##  How we use your personal information
 
@@ -118,6 +118,10 @@ We use the information that we collect about you for the following purposes:
   * If you are a Facebook user, and one of your Facebook friends registers for a SoundCloud® account, we will suggest to your Facebook friend that you might be someone they may wish to follow on SoundCloud.
 
   * If you are a Facebook user and sign up using Facebook, we may also use the information we receive about you from Facebook to suggest or connect you to users that you may wish to follow on SoundCloud®. It will be up to you if you choose to follow these users and you can unfollow them at any time.
+
+  * If you are a Google+ user, and one of your Google+ friends registers for a SoundCloud® account, we will suggest to your Google+ friend that you might be someone they may wish to follow on SoundCloud.
+
+  * If you are a Google+ user and sign up using Google+, we may also use the information we receive about you from Google to suggest or connect you to users that you may wish to follow on SoundCloud®. It will be up to you if you choose to follow these users and you can unfollow them at any time.
 
 
 
@@ -149,7 +153,7 @@ Your personal information is also used for the following general purposes:
 
 ##  Sharing of your personal information
 
-**We will not share your personal information with any third party, except as described in this Privacy Policy (including our[Cookies Policy](https://web.archive.org/legal/cookie-policy)).** There are circumstances where we may need to share some of the personal information we collect about you or which you provide to us - these circumstances are as follows:
+**We will not share your personal information with any third party, except as described in this Privacy Policy (including our[Cookies Policy](https://web.archive.org/pages/cookies)).** There are circumstances where we may need to share some of the personal information we collect about you or which you provide to us - these circumstances are as follows:
 
   * Other Users: Any personal information in your public profile (other than your email address) will be accessible by other users of the Platform, who may view your profile information, listen to and comment on any of your public sounds, add themselves to your list of followers, and send you messages. If you listen to any sounds uploaded by a premium user, the fact that you have listened to those sounds will be shared with that premium user, so that they can track the popularity of their sounds. Similarly, if you comment on any sounds on the Platform, your comments will be available to all users of the Platform.
 
@@ -159,7 +163,7 @@ Your personal information is also used for the following general purposes:
 
   * Users of our API: SoundCloud has an open API, which enables application developers to integrate elements of the Platform into exciting new apps. Some of these developers may be located outside of the European Economic Area. Any personal information that you choose to make public on the Platform, including your public profile information and any public sounds, may be accessible to these developers. Please bear this in mind when deciding what information to publish on your profile. For information on how to limit the information that is available over the API, please see the Choice and Control section below.
 
-  * Other networks and connected apps: If you choose to connect your SoundCloud® account to other apps or social networks such as Facebook, Tumblr or Twitter, you will be sharing certain information with these apps or networks. In the case of Facebook, Tumblr or Twitter, any new public sounds that you post on SoundCloud® or any new favourites will be shared to those networks and will be visible to your followers and friends on those networks. In the case of connected apps, you will need to provide the app developer with full access to your SoundCloud® account in order to upload and download sounds, or comment on, favourite or repost sounds from within the app. This will mean sharing your public information, plus access to your private sounds. SoundCloud is not responsible for these other apps or networks, so please make sure you only connect your account with apps or services that you trust. For information on how to control the information that your share, and how to disconnect your account from other networks or apps, please see the Choice and Control section below.
+  * Other networks and connected apps: If you choose to connect your SoundCloud® account to other apps or social networks such as Facebook, Google+, Tumblr or Twitter, you will be sharing certain information with these apps or networks. In the case of Facebook, Google+, Tumblr or Twitter, any new public sounds that you post or listen to on SoundCloud® or any new favourites will be shared to those networks and will be visible to your followers and friends on those networks. In the case of connected apps, you will need to provide the app developer with full access to your SoundCloud® account in order to upload and download sounds, or comment on, favourite or repost sounds from within the app. This will mean sharing your public information, plus access to your private sounds. SoundCloud is not responsible for these other apps or networks, so please make sure you only connect your account with apps or services that you trust. For information on how to control the information that your share, and how to disconnect your account from other networks or apps, please see the Choice and Control section below.
 
   * As aggregated data: We may aggregate your personal data with similar data relating to other users of the Platform in order to create statistical information regarding the Platform and its use, which we may then share with third parties or make publicly available. However, none of this information would include any email address or other contact information, or anything that could be used to identify you individually, either online or in real life.
 
@@ -174,9 +178,9 @@ Your personal information is also used for the following general purposes:
 
 ##  Cookies and similar technology
 
-In common with most websites, we use cookies and other standard Internet technologies to help us improve the Website and the Apps and Services we provide. We have included information about our use of cookies and similar technology in a separate [Cookies Policy](https://web.archive.org/legal/cookie-policy) that forms part of this Privacy Policy. The Cookies Policy also includes information about how you can block or disable third party cookies (which we only use for the purposes of analyzing the use of our Platform and optimizing the content on our Platform), and how to opt out of other technologies such as bug reporting within our mobile apps.
+In common with most websites, we use cookies and other standard Internet technologies to help us improve the Website and the Apps and Services we provide. We have included information about our use of cookies and similar technology in a separate [Cookies Policy](https://web.archive.org/pages/cookies) that forms part of this Privacy Policy. The Cookies Policy also includes information about how you can block or disable third party cookies (which we only use for the purposes of analyzing the use of our Platform and optimizing the content on our Platform), and how to opt out of other technologies such as bug reporting within our mobile apps.
 
-We have done our best to provide you with as much information as possible about our use of cookies and similar technology. **If you choose to use the Platform without blocking or disabling these cookies or opting out of other technologies as described in our[Cookies Policy](https://web.archive.org/legal/cookie-policy), you will indicate your consent to our use of these technologies and to our use (in accordance with this Privacy Policy and our Cookies Policy) of any personal information that we collect using these technologies.**
+We have done our best to provide you with as much information as possible about our use of cookies and similar technology. **If you choose to use the Platform without blocking or disabling these cookies or opting out of other technologies as described in our[Cookies Policy](https://web.archive.org/pages/cookies), you will indicate your consent to our use of these technologies and to our use (in accordance with this Privacy Policy and our Cookies Policy) of any personal information that we collect using these technologies.**
 
 ##  Choice and Control
 
@@ -203,8 +207,7 @@ It is also possible to unsubscribe from email newsletters and notifications (oth
 
 The Connections tab within your Settings on the Website enables you to control the information you share with other networks and applications. As well as selecting those of your social networks you wish to share to, you can also control access to other services and applications to which you have connected your SoundCloud® account.
 
-If you sign up for SoundCloud® using your Facebook account, your SoundCloud® account and your Facebook account will be connected automatically, and information regarding the public sounds that you post or favourite on SoundCloud®, will be shared with Facebook and will appear on your timeline and in your Facebook friends’ newsfeeds.   
-**If you do not want this information shared with Facebook, please change your Settings.**
+If you sign up for SoundCloud® using your Facebook or Google+ account, your SoundCloud® account and your Facebook or Google+ account respectively will be connected automatically. Information regarding the public sounds that you post, listen or favourite on SoundCloud®, will be shared with the connected Facebook or Google+ account. Content that you share with Facebook will appear on your timeline and in your Facebook friends’ newsfeeds. Content you share with Google will be seen by the people from your Google+ circles when they visit your Google+ profile, make relevant Google searches, on Google-served ads, and the services selected in your Google account settings. **If you do not want this information shared with Facebook or Google, please change your Settings.**
 
 Please note that this Privacy Policy does not apply to any third party sites or applications, and we cannot control the activities of those sites or applications. You are advised to read the privacy policies of those sites or applications before sharing your information with, or connecting your SoundCloud® account to, any of these third party sites or applications.
 
@@ -220,11 +223,11 @@ SoundCloud® has an open API, which allows third party developers to build some 
 
 ###  Cookies
 
-Information on how to block or disable cookies is included in our [Cookies Policy](https://web.archive.org/legal/cookie-policy). Further information is available at [](http://aboutcookies.org/)[http://aboutcookies.org](http://aboutcookies.org/)
+Information on how to block or disable cookies is included in our [Cookies Policy](https://web.archive.org/pages/cookies). Further information is available at [](http://aboutcookies.org/)[http://aboutcookies.org](http://aboutcookies.org/)
 
 ###  App preferences
 
-You can use the settings within our iOS and Android apps to opt-out of analytics tracking and bug reporting. Simply go to the settings screen on your iOS or Android device, and disable analytics and/or bug reporting to stop any analytics data or bug reporting information being sent from the app. Further information is available in our [Cookies Policy](https://web.archive.org/legal/cookie-policy).
+You can use the settings within our iOS device or within the Android app to opt-out of analytics tracking and bug reporting. For the opt-out, if you are using our iOS app, go to the settings of your iOS device and open the SoundCloud® tab. With an Android device you need to open the SoundCloud® app and open the basic settings tab within. From there you can simply disable analytics and/or bug reporting to stop any analytics data or bug reporting information being sent from the app. Further information is available in our Cookies Policy.
 
 ###  Deleting your account
 
@@ -236,7 +239,7 @@ Please note that deleting any SoundCloud® Apps, or any third party apps to whic
 
 ##  Access to your Data
 
-As described above, most of the personal information you provide to us can be accessed and updated in the Settings page of your SoundCloud® account. If you wish to access, amend or delete any other personal information we hold about you, or if you have any objection to the processing of any information that we hold about you, please contact us at [](mailto:%3Ca%20href='mailto:privacy@soundcloud.com'%3Eprivacy@soundcloud.com%3C/a%3E)[privacy@soundcloud.com](mailto:privacy@soundcloud.com), or the address provided below.
+As described above, most of the personal information you provide to us can be accessed and updated in the Settings page of your SoundCloud® account. If you wish to access, amend or delete any other personal information we hold about you, or if you have any objection to the processing of any information that we hold about you, please contact us at [privacy@soundcloud.com](mailto:privacy@soundcloud.com), or the address provided below.
 
 If you ask us to delete your account (either via the Settings page or by email), we will do so within a reasonable period of time, but we may need to retain some of your personal information in order to satisfy our legal obligations, or where we have a legitimate reason for doing so.
 
@@ -246,7 +249,7 @@ SoundCloud is based in Europe, and your personal information is collected, store
 
 ##  Children
 
-SoundCloud® is not intended for use by children. Anyone under the age of 13 is not permitted to use the Platform and must not attempt to register an account or submit any personal information to us. We do not knowingly collect any personal information from any person who is under the age of 13 or allow them to register an account. If it comes to our attention that we have collected personal data from a person under the age of 13, we will delete this information as quickly as possible. If you have reason to believe that we may have collected any such data, please notify us immediately at [](mailto:%3Ca%20href='mailto:privacy@soundcloud.com'%3Eprivacy@soundcloud.com%3C/a%3E)[privacy@soundcloud.com](mailto:privacy@soundcloud.com).
+SoundCloud® is not intended for use by children. Anyone under the age of 13 is not permitted to use the Platform and must not attempt to register an account or submit any personal information to us. We do not knowingly collect any personal information from any person who is under the age of 13 or allow them to register an account. If it comes to our attention that we have collected personal data from a person under the age of 13, we will delete this information as quickly as possible. If you have reason to believe that we may have collected any such data, please notify us immediately at [privacy@soundcloud.com](mailto:privacy@soundcloud.com).
 
 ##  Changes and Updates to this Privacy Policy
 
@@ -254,22 +257,18 @@ We may occasionally update this Privacy Policy, and when we do so, we will also 
 
 ##  Questions?
 
-If you have questions about this Privacy Policy, want to suggest changes to this Privacy Policy or want to know, what information we store about you, please contact us by email at [](mailto:%3Ca%20href='mailto:privacy@soundcloud.com'%3Eprivacy@soundcloud.com%3C/a%3E)[privacy@soundcloud.com](mailto:privacy@soundcloud.com), or write to us at:
+If you have questions about this Privacy Policy, want to suggest changes to this Privacy Policy or want to know, what information we store about you, please contact us by email at [privacy@soundcloud.com](mailto:privacy@soundcloud.com), or write to us at:
 
-SoundCloud Limited 
-
-Rosenthaler Str. 13 
-
-10119 Berlin 
-
-Germany 
-
+SoundCloud Limited  
+Greifswalder Str. 212-213  
+10405 Berlin  
+Germany  
 Attention: Legal Department
 
 ##  Don’t want to give us your information?
 
-If you decide that you do not want us to you your personal information in the manner described in the Privacy Policy (including our [Cookies Policy](https://web.archive.org/legal/cookie-policy)), please do not use the Platform. If you have already registered an account, you can find out how to terminate or cancel your account [here](https://web.archive.org/legal/terms-of-use#termination).
+If you decide that you do not want us to use your personal information in the manner described in the Privacy Policy (including our [Cookies Policy](https://web.archive.org/pages/cookies)), please do not use the Platform. If you have already registered an account, you can find out how to terminate or cancel your account [here](https://web.archive.org/legal/terms-of-use#termination).
 
-**Effective Date:**
+**Last amended:**
 
-3 December 2012
+13 May 2013
