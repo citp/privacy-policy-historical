@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hungryhouse.co.uk privacy policy that was archived on 2012-09-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120920040736id_/http%3A//hungryhouse.co.uk/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hungryhouse.co.uk privacy policy that was archived on 2013-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130621091220id_/http%3A//hungryhouse.co.uk/privacy) for the most accurate reproduction.*
 
 # Takeaway Food Delivery
 
@@ -29,7 +29,7 @@ Your personal information will be used to notify you of your order status.
 
 Personal information will not be shared with any of our business partners or affiliates without your permission. It is treated as confidential, and will not be disclosed to outside parties, unless compelled by applicable legislation.
 
-We only send marketing emails to those people who have specifically requested to receive this information.
+We only send marketing emails and/or SMS to those people who have specifically requested to receive this information.
 
 Introductions
 
@@ -89,8 +89,7 @@ This Privacy Policy may change at our discretion at any time, and without notice
 
   10. Contact
 
-For questions or concerns relating to privacy, we can be contacted by email at [help@hungryhouse.com](mailto:%20help@hungryhouse.com)  
-
+For questions or concerns relating to privacy, we can be contacted by email at [help@hungryhouse.com](mailto:%20help@hungryhouse.com)
 
 
 
