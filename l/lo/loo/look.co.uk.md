@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the look.co.uk privacy policy that was archived on 2012-04-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120417224641id_/http%3A//www.ipcmedia.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the look.co.uk privacy policy that was archived on 2013-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130621071808id_/http%3A//www.ipcmedia.com/privacy.php) for the most accurate reproduction.*
 
-# Privacy Policy - IPC Media - The UK's leading consumer magazine publisher
-
-## IPC Media Privacy Policy
+# Privacy
 
 This Privacy Policy explains the practices employed by IPC Media in collecting and using your information and the ways in which you can influence these. This Privacy Policy relates to websites operated from time to time by IPC Media.
 
@@ -36,7 +34,7 @@ From time to time we will ask you whether you wish to receive marketing material
 
 
 
-Upon registration for competitions or other online services you may, in some cases, be automatically opted-in to receive e-mail marketing, newsletters or partner promotions containing material relevant to the website on which you have registered your details. You will be specifically notified if this is the case and you may unsubscribe to receiving such marketing material at any time by clicking on the e-mail unsubscribe link.
+Upon registration for competitions or other online services you may, in some cases, be automatically opted-in to receive e-mail marketing, newsletters or partner promotions containing material. If this is the case you may unsubscribe to receiving such marketing material at any time by clicking on the e-mail unsubscribe link.
 
 ### What will we disclose to third parties?
 
@@ -91,7 +89,7 @@ Small pieces of code called pixel tags, web beacons or GIF files, are used in co
 
 ### How to manage or refuse cookies
 
-If you do not want your browser to accept cookies and use them in the ways described above it is possible to change your browser settings. It is also possible to delete existing cookies from your browser. However blocking all cookies will affect your web experience and may result in some parts of IPC Media websites not functioning properly. Some cookies are designed to help save you time, for example, by remembering your contact details when you are making an order for the second time â€“ this means that you will not have to complete the contact section again unless your details have changed. The procedure for modifying your privacy preferences is different for each internet browser and we recommend you visit the following websites for further information on altering your cookie settings:
+If you do not want your browser to accept cookies and use them in the ways described above it is possible to change your browser settings. It is also possible to delete existing cookies from your browser. However blocking all cookies will affect your web experience and may result in some parts of IPC Media websites not functioning properly. Some cookies are designed to help save you time, for example, by remembering your contact details when you are making an order for the second time â€" this means that you will not have to complete the contact section again unless your details have changed. The procedure for modifying your privacy preferences is different for each internet browser and we recommend you visit the following websites for further information on altering your cookie settings:
 
 [www.aboutcookies.org](http://www.aboutcookies.org/)  
 [www.allaboutcookies.org](http://www.allaboutcookies.org/)
@@ -133,7 +131,7 @@ Adtech serves advertising to IPC Media websites. When an advertisement is reques
   
 Opting out of behavioural advertising or adtech tracking does not mean that you will no longer receive advertising when you are using IPC Media websites. It simply means the advertising you see will not be customised for you.
 
-More general information about behavioural advertising can be found at [www.youronlinechoices.com](https://web.archive.org/web/20120417224641id_/http%3A//www.ipcmedia.com/www.youronlinechoices.com).
+More general information about behavioural advertising can be found at [www.youronlinechoices.com](http://www.ipcmedia.com/www.youronlinechoices.com).
 
 ### Research Cookies
 
@@ -147,9 +145,9 @@ The majority of adverts you see on IPC Media websites will have been placed by t
 
 You can find out more about this method of advertising by visiting these sites:
 
-[www.youronlinechoices.com/uk/your-ad-choices](https://web.archive.org/web/20120417224641id_/http%3A//www.ipcmedia.com/www.youronlinechoices.com/uk/your-ad-choices)   
-[www.google.com/ads/preferences/html/about.html](https://web.archive.org/web/20120417224641id_/http%3A//www.ipcmedia.com/www.google.com/ads/preferences/html/about.html)   
-[www.rubiconproject.com/transparency](https://web.archive.org/web/20120417224641id_/http%3A//www.ipcmedia.com/www.rubiconproject.com/transparency)   
+<http://www.youronlinechoices.com/uk/your-ad-choices>   
+<http://www.google.com/ads/preferences/html/about.html>   
+[http://www.rubiconproject.com/privacy](http://www.rubiconproject.com/privacy/)/   
 <http://www.grapeshot.co.uk/privacy.php>   
 <http://www.quantcast.com/how-we-do-it/consumer-choice/privacy-policy/>   
 <http://collective.com/privacy>   
