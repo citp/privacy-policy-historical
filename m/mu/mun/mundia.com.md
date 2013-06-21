@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the mundia.com privacy policy that was archived on 2012-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121108171919id_/http%3A//www.mundia.com/ca/PrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mundia.com privacy policy that was archived on 2013-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130621221622id_/http%3A//www.mundia.com/us/PrivacyPolicy) for the most accurate reproduction.*
 
 # Mundia Privacy Policy
 
 ## Mundia Website Privacy Policy
 
-This website ([www.mundia.com](http://www.mundia.com/)) (“Website” or “Mundia”) is operated by Ancestry.com Operations Inc., a company incorporated in Delaware, and whose registered address is 360 West 4800 North, Provo, UT 84604, USA (“we,” “our” and “us”). By registering with Mundia, you are becoming part of the Ancestry.com community, which consists of websites owned or operated by us and our affiliates, subsidiaries and parent organizations (“Affiliates”) (click here for a list of our [Affiliates](https://web.archive.org/ca/Affiliates)). We are committed to protecting your privacy online and this privacy policy explains how we collect information, what we do with it and what controls you have over your personal information.
+This website ([www.mundia.com](http://www.mundia.com/)) (“Website” or “Mundia”) is operated by Ancestry.com Operations Inc., a company incorporated in Delaware, and whose registered address is 360 West 4800 North, Provo, UT 84604, USA (“we,” “our” and “us”). By registering with Mundia, you are becoming part of the Ancestry.com community, which consists of websites owned or operated by us and our affiliates, subsidiaries and parent organizations (“Affiliates”) (click here for a list of our [Affiliates](https://web.archive.org/us/Affiliates)). We are committed to protecting your privacy online and this privacy policy explains how we collect information, what we do with it and what controls you have over your personal information.
 
 By using our Website you consent to the collection and use of your personal information by us as set forth in this privacy policy. If we decide to change our privacy policy, we will post these changes on this Website. Use of the Website following any changes constitutes your acceptance of the revised privacy policy then in effect. **If you do not agree to this privacy policy, please do not use the website.**
 
@@ -37,7 +37,7 @@ We may disclose your personal information:
 
 
 
-You may share personal information through the Website in a number of ways described below. Please be aware that any personal information you elect to post on our Website may be made available on our Affiliate's websites and in some instances may be publicly available. You can change how you share some personal information that is in your profile by changing your settings on your [My Account](https://web.archive.org/ca/Account/Settings) page.
+You may share personal information through the Website in a number of ways described below. Please be aware that any personal information you elect to post on our Website may be made available on our Affiliate's websites and in some instances may be publicly available. You can change how you share some personal information that is in your profile by changing your settings on your [My Account](https://web.archive.org/us/Account/Settings) page.
 
   * **Searchable profiles:** If a profile is searchable, personal information included in that profile may be publicly viewable and searchable by others.
     * In particular, personal information included in your profile summary (which includes your name, profile photo (if any), birth year, birthplace and residence location, and an indication of how many family members you have, plus the first names of Website members in your family and of deceased members of your family), is made available publicly, including to individuals who have not registered with Mundia. 
@@ -47,7 +47,7 @@ You may share personal information through the Website in a number of ways descr
   
 
   * **Non-searchable profiles:** If you do choose to change your profile from searchable to not searchable, please be aware that personal information will still be publicly available as follows:
-    * The personal information in your profile will be viewable by anyone invited to your tree with “View Living” rights. For more information on the rights of those you invite to your tree, please [see the FAQ](https://web.archive.org/ca/FAQ).
+    * The personal information in your profile will be viewable by anyone invited to your tree with “View Living” rights. For more information on the rights of those you invite to your tree, please [see the FAQ](https://web.archive.org/us/FAQ).
     * The personal information in any profile in your family tree may be publicly searchable and viewable if our algorithms categorize the individual as deceased (for example, if no birth date is included, or if the individual is older than 100, the individual may be defined as deceased).
     * Any personal information that is available on the profile of a deceased person (e.g., a photo of you and your deceased relative that is on your deceased relative's profile).
 
@@ -67,7 +67,7 @@ Our Website may contain links to third party websites, applications, products or
 
 We may use third party advertising companies to serve ads when you visit our Website. Please note that these companies may use information (not including personal information) about your visit to this Website in order to provide advertisements about goods and services that may be of interest to you. These companies may employ cookies and action tags (also known as “single pixel gifs” or “web beacons”) to measure advertising effectiveness. If you would like more information about these practices and to know your choices about not having your information used by these companies, please click <http://www.networkadvertising.org/managing/opt_out.asp>.
 
-If you do not want us to contact you on a going-forward basis with marketing information regarding our products and services or you do not want us to share your personal information that you have provided to us on a going-forward basis with third parties so that they can send you marketing information regarding their products and services, you can opt out of such use and disclosure by using the unsubscribe link listed in the email or by amending your preferences on your [My Account](https://web.archive.org/ca/Account/Settings) page.
+If you do not want us to contact you on a going-forward basis with marketing information regarding our products and services or you do not want us to share your personal information that you have provided to us on a going-forward basis with third parties so that they can send you marketing information regarding their products and services, you can opt out of such use and disclosure by using the unsubscribe link listed in the email or by amending your preferences on your [My Account](https://web.archive.org/us/Account/Settings) page.
 
 We will endeavor to comply with your request as soon as reasonably practicable. Please note that if you opt out as described above, we will not be able to remove your personal information from the databases of third parties with which we have already shared your personal information (i.e., third parties to which we have already provided your personal information as of the date that we implement your opt-out request). If you wish to cease receiving marketing-related emails from such third parties, please contact such third parties directly or utilize any opt-out mechanisms set forth in their privacy policies or marketing-related emails. 
 
