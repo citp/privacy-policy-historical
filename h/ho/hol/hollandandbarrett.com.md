@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hollandandbarrett.com privacy policy that was archived on 2012-10-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121023062029id_/http%3A//www.hollandandbarrett.com/account/customerservices/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hollandandbarrett.com privacy policy that was archived on 2013-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130621084004id_/http%3A//www.hollandandbarrett.com/account/customerservices/privacy) for the most accurate reproduction.*
 
 # Holland and Barrett - Privacy Policy
 
@@ -122,7 +122,7 @@ However, cookies are essential to allow you to take advantage of some of the Web
 
 **Disclosing your information**
 
-We will never disclose your information to anyone outside the Holland & Barrett group of companies except where we have your consent; where we are required or permitted to do so by law; to other companies who provide a service to us i.e. delivery companies; or any successors in title to our business.
+We will never disclose your information to anyone outside the Holland & Barrett group of companies except where we have your consent; where we are required or permitted to do so by law;  where other companies who provide a service to us as part of our order process require that data i.e. delivery companies or payment providers; or where they are successors in title to our business.  We will never share your data with other companies for marketing purposes. ** **
 
 **Other websites**
 
