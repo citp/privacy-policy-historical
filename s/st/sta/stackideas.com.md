@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the stackideas.com privacy policy that was archived on 2012-09-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120921021023id_/http%3A//stackideas.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stackideas.com privacy policy that was archived on 2013-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130621042154id_/http%3A//stackideas.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy
 
@@ -43,6 +43,12 @@ We use traffic log cookies to identify which pages are being used. This helps us
 Overall, cookies help us provide you with a better website, by enabling us to monitor which pages you find useful and which you do not. A cookie in no way gives us access to your computer or any information about you, other than the data you choose to share with us.
 
 You can choose to accept or decline cookies. Most web browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies if you prefer. This may prevent you from taking full advantage of the website.
+
+**Google Analytics:** This cookie allows us to see information on user website activities including, but not limited to page views, source and time spent on website. The information is depersonalized and is displayed as numbers, meaning it cannot be tracked back to individuals. This will help to protect your privacy. Using Google Analytics we can see what content is popular on our website, and strive to give you more of the things you enjoy reading and watching.
+
+**Google Adwords:** Using Google Adwords code we are able to see which pages helped lead to an action taken by a visitor (conversion). This allows us to make better use of our paid search budget.
+
+**DoubleClick:** We use remarketing codes to log when users view specific pages, allowing us to provide targeted advertising in the future.
 
 ### Links to other websites
 
