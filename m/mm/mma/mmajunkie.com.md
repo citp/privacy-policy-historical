@@ -1,67 +1,117 @@
-> *The following text is extracted and transformed from the mmajunkie.com privacy policy that was archived on 2012-07-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120717003047id_/http%3A//mmajunkie.com/misc/Privacy-Policy.mma) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mmajunkie.com privacy policy that was archived on 2013-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130621060242id_/http%3A//www.mmajunkie.com/privacy-policy) for the most accurate reproduction.*
 
-# MMAjunkie.com Privacy Policy | MMAjunkie.com
+# Privacy Policy – MMAjunkie.com
 
-**MMAjunkie.com Privacy Policy [Last updated July 07, 2010]**
+## [MMAjunkie.com](http://www.mmajunkie.com/ "MMAjunkie.com")
 
-This privacy statement (the "Privacy Policy") applies to all personally identifiable information (collectively, "Personal Data") and other information that is collected by MMAjunkie.com LLC. ("MMAjunkie.com") through its website, including www.mmajunkie.com and forums.mmajunkie.com, (collectively, the "Site"). 
+##### Privacy Notice for MMAJunkie
 
-Please review this Privacy Policy carefully before using the Site. 
+Last Updated: February 13, 2013
 
-MMAjunkie.com takes online privacy very seriously. If you have any questions concerning this privacy policy, please email us at [privacy@mmajunkie.com](mailto:privacy@mmajunkie.com)
+We take seriously your interest in how your information is collected and used. Please read the following to understand about our privacy practices.
 
-**MMAjunkie.com Registered Users - Collection of Personal Data**
+This Privacy Notice discloses the privacy practices of our website, mobile site or app (the "Site"). Specifically, it outlines the types of information that we gather about you while you are using the Site, and the ways in which we use and share this information. This Privacy Notice does not apply to any information you may provide to us, or that we may collect, offline and/or through other means (for example, at a live event, via telephone, or through the mail).
 
-To support the provision of certain features on this Site, MMAjunkie.com may collect Personal Data should you choose to register on this Site ("MMAjunkie.com Registered User"). 
+Please read this Privacy Notice carefully. By visiting and using the Site, you agree that your use of our Site, and any dispute over our online privacy practices, is governed by this Privacy Notice and our [Terms of Service](http://mmajunkie.com/terms-of-service "Terms of Service"). Because the Web is an evolving medium, we may need to change our Privacy Notice at some point in the future, in which case we'll post the revised Privacy Notice on this website and update the "Last Updated" date to reflect the date of the changes. By continuing to use the Site after we post any such changes, you accept the Privacy Notice as modified. Your access of the Site for the limited and exclusive purpose of reviewing this Privacy Notice does not constitute your acceptance of this Notice unless you make any further access or use of our Site.
 
-If you become a MMAjunkie.com Registered User, from time to time MMAjunkie.com may request information, including Personal Data about you such as your name and email addresses. Providing Personal Data is entirely optional, although some Site features may not work without it. Wherever we request Personal Data we make an effort to provide a link to this Privacy Policy. 
+##### Your California Privacy Rights
 
-By voluntarily providing us with Personal Data, you are consenting to our use of it in accordance with this Privacy Policy. If you provide Personal Data to us via the Site, you acknowledge and agree that such Personal Data may be transferred from your current location to the offices and servers of Quantcast and the authorized third parties referred to herein for the purposes described in this Privacy Policy. Using "Cookie" Technology 
+California Civil Code Section 1798.83, also known as the "Shine The Light" law, permits our customers who are California residents to request and obtain from us once a year, free of charge, information about the personal information (if any) we disclosed to third parties for direct marketing purposes in the preceding calendar year. If applicable, this information would include a list of the categories of personal information that was shared and the names and addresses of all third parties with which we shared information in the immediately preceding calendar year. If you are a California resident and would like to make such a request, please submit your request in writing to:
 
-MMAjunkie.com and certain MMAjunkie.com Partners use a software technology called "cookies" to collect non-personal information about Internet visitors. Cookies are small text files that uniquely identify the browser you use to access the Internet. We use cookies to understand your use of Internet sites, remember your preferences and improve your experience when using the Services. Most browsers come pre-configured to accept cookies, but you can adjust your browser settings to refuse all cookies or to specify the conditions under which it will allow a cookie to be set. Some MMAjunkie.com features may not function correctly if cookies are disabled. 
+> Mark Faris   
+>  Online Privacy Coordinator   
+>  [www.mmajunkie.com](http://www.mmajunkie.com/ "www.mmajunkie.com")  
+>  Gannett Law Department  
+>  7950 Jones Branch Drive  
+>  McLean, VA 22107
 
-**Log Files**
+##### How We Collect Information
 
-We use IP addresses to analyze trends, administer the Site, and gather broad Internet usage and demographic information for aggregate use. IP addresses are not linked to Personal Data and are not themselves considered Personal Data. We may also collect other Log File information such as the type of browser software a visitor uses to access the Internet (i.e. Internet Explorer, Firefox , Netscape, etc.); type of operating system (i.e. Windows, OS X, etc.); or the domain name of the visitor's Internet service provider and referring web site address. 
+**Information You Provide.** We may collect and store information that you voluntarily supply to us while on our Site. This may include information that can be used to contact or identify you, such as your name, email address, or postal address. Some examples of this type of information include information that you electronically submit when you contact us with questions or participate in contests, surveys or sweepstakes, information that you post on blogs, discussion forums or other community posting and social networking areas on our Site, and information that you electronically submit when you complete an online registration form to access and use certain features of our Site. We also may ask for information (including a credit card number and other financial information) from those users who make purchases or have payment transactions on our Site.
 
-**Visitors From Outside of the US**
+**Location Information.** We may collect location information (e.g., city and state and/or zip code) that you provide. Certain devices and browsers contain unique identifiers that can be used to identify the geographical location of the device. When you use such a device or browser to access our Site, your device and/or browser may automatically collect and/or transmit your location information. We also may collect GPS information from the device if the device transmits it. Additionally, if you download our app, we may collect your location information in order to deliver our app services. If you choose to enable certain features in our apps that require your geographic location, then we will collect and store that information.
 
-The Site and the servers upon which the Site are hosted are located in the United States. All matters and material related to the site is governed by the laws of the State of Missouri in the United States. Any Personal Data that users outside of the U.S. provide via the Site will be transferred to the United States, and by visiting the Site and submitting Personal Data, you authorize this transfer. 
+**Other Information Automatically Collected to Improve the Site and Deliver Targeted Advertising.** We also collect and store information through a variety of automatic technologies, such as browser and flash cookies, pixels and web beacons about your use of our Site, including device identifying information such as IP addresses, MAC address or other device-specific alphanumerical ID numbers, the make and model of your device, the wireless provider associated with your device, whether you downloaded the app, the source of the download of the App (for example, whether via a particular advertisement for the App), when the App is launched, how many times a particular page within the Site is visited, which features the users interact with, and your device or computer's connection to the Internet. If you choose to connect to our Site through a social network such as Facebook, we may automatically collect your profile information. These things allow us, among other things, to improve the delivery of our web pages to you and to measure traffic on the Site.
 
-**Third-Party Advertising**
+The information we collect may be collected directly by us, or it may be collected by a third-party website hosting provider, or another third-party service provider, on our behalf.
 
-We allow third-party companies to serve ads and/or collect certain anonymous information when you visit our web site. These companies may use non-personally identifiable information (e.g., click stream information, browser type, time and date, subject of advertisements clicked or scrolled over) during your visits to this and other Web sites in order to provide advertisements about goods and services likely to be of greater interest to you. These companies typically use a cookie or third party web beacon to collect this information. To learn more about this behavioral advertising practice or to opt-out of this type of advertising, you can visit [www.networkadvertising.org](http://www.networkadvertising.org/). 
+We also may use "cookies" and other similar technologies on the Site. Cookies are small files that are placed on your hard drive for record-keeping purposes and to enhance your experience with the Site. By showing how and when visitors use the Site, cookies help us deliver advertisements, identify how many unique users visit us, and track user trends and patterns. They also prevent you from having to re-enter your preferences on certain areas of the Site where you may have entered preference information before. This Site also may use web beacons (single-pixel graphic files also known as "transparent GIFs") to access cookies and to count users who visit the Site or open HTML-formatted email messages.
 
-**Sharing and Disclosing Your Personal Data**
+##### How Information is Used
 
-In addition to the disclosures of Personal Data described above, there are certain circumstances in which we may share your Personal Data with certain third parties without further notice to you, as set forth below: Sale of MMAjunkie.com: In the event of a sale or transfer of the assets of our business we may transfer information, including Personal Data to the acquiring entity. We will include provisions in any selling agreement that the purchaser treat Personal Data in the same manner required by this Privacy Policy, inclusive of any amendments to this Privacy Policy. All information, including Personal Data, collected through our Site is considered a trade secret of MMAjunkie.com. As the owner of such information, we may disclose or sell such information as an asset of the company in conjunction with the sale to a third party of our company or a portion of our assets. 
+We use the information we collect from you while you are using the Site in a variety of ways, including, for example, for the purpose for which the information was submitted, to process your registration request, to provide you with services and communications that you have requested, to send you email updates and other communications, customize features and advertising that appear on the Site, to deliver our Site content to you, to measure Site traffic, measure user interests and traffic patterns, and to improve the Site and the services and features offered via the Site.
 
-**Agents, Consultants and Related Third Parties**
+We may use location information, either information you provided by you or information automatically collected, in order to provide you with content, services and advertising that is relevant to your geographic area.
 
-MMAjunkie.com sometimes hires other companies to perform certain business-related functions. Examples include maintaining databases and processing payments. When we employ another company to perform a function of this nature, we endeavor to provide them only with the information that they need to perform their specific function. 
+We may combine information we collect from you while you are using our Site with information that we collect from other sources to customize features, content and advertising that appear on our Site.
 
-**Legal Requirements**
+In addition, we may use any information submitted by or collected from you via the Site for any purpose related to the Site, including to contact you for customer service purposes, to inform you of important changes or additions to our Site or the services offered over our Site, and to send you administrative notices and any other communications that we believe may be of interest to you. 
 
-MMAjunkie.com reserves the right to use or disclose any Personal Data without notice or consent as needed to comply with federal and state law; to conduct investigations of complaints; to protect the integrity of our Site; to protect the safety of our visitors or others; and to cooperate in any legal investigation. 
+**Your Choices.** When we request information from you on the Site, you may always choose not to provide us with that information. But if you decline to supply or provide us with certain information while using the Site, you may not be able to use or participate in some or all of the features offered through the Site.
 
-**Linked Sites**
+If you want to limit the information that is automatically collected while you use our Site, most Web browsers allow you to disable certain functionality or set certain privacy setting. If you choose to disable cookies or turn off other functionality, you may not be able to use or participate in some or all of the features offered through the Site. If you would like more information on how to opt out of information collection practices by many third parties, visit the Digital Advertising Alliance’s website at [www.aboutads.info](http://www.mmajunkie.com/www.aboutads.info "www.aboutads.info").
 
-Our Site may contain links to other Sites. Please be aware that MMAjunkie.com is not responsible for the privacy practices of such other websites. We encourage you to be aware when you leave any of our Sites and to read the privacy policies of every website that collects Personal Data. This Privacy Policy applies solely to information collected by our Site. 
+At the time of registering for their subscription, site subscribers are asked whether they wish to receive e-mail from the mmajunkie.com, such as notification of new subscription benefits. We do not license or sell the list of users who have ‘opted in’ to such mailings.
 
-**Exclusions**
+##### How Information is Shared
 
-This Privacy Policy shall not apply to any unsolicited information (such as comments and feedback) you provide to MMAjunkie.com through the Site and/or that you post to any public areas of the Site, such as comments and discussion boards (collectively, "Unsolicited Information"). All such Unsolicited Information shall be deemed to be non-confidential and MMAjunkie.com shall be free to reproduce, use, disclose, and distribute such Unsolicited Information to others without limitation or attribution. You should be aware that if you voluntarily disclose Unsolicited Information online, that Unsolicited Information can be collected and used by others. For example, if you post your email address in comments sections or online forums, you may receive unsolicited messages from others. MMAjunkie.com has no control over the use of Personal Data that you voluntarily post in public forums. 
+**Sharing with Affiliates, Partners and Third Party Service Providers.** We may provide your information to our affiliates or to third parties, including our third party service providers and contractors, for purposes related to Site administration and other services. For example, if you use a credit or debit card to complete a transaction on our Site, we may share your personal information and credit card number with a credit card processing and/or a fulfillment company in order to complete your transaction, or such service provider(s) may collect that information from you directly, on our behalf. 
 
-MMAjunkie.com reserves the right, in its sole discretion, to reject, refuse to post or remove any posting or communication (including email) by you, or to restrict, suspend, or terminate your access to all or any part of the Site at any time, for any or no reason, with or without prior notice, and without liability. 
+If you do not wish certain information to be shared for these purposes, send a letter to the [Online Privacy Coordinator](http://mmajunkie.com/privacy-policy#coordinator "Online Privacy Coordinator") whose contact information is listed at the end of this Privacy Notice.
 
-**Security**
+We also make some content, products and services available through our Site through cooperative relationships with third-party providers, where the brands of our provider partner appear on the Site in connection with such content, products and/or services. We may share with our provider partner any information you provide, or that is collected, in the course of visiting any pages that are made available in cooperation with our provider partner. In some cases, the provider partner may collect information from you directly, in which cases the Privacy Notice of our provider partner may apply to the provider partner's use of your information. The Privacy Notice of our provider partners may differ from ours. If you have any questions regarding the Privacy Notice of one of our provider partners, you should contact the provider partner directly for more information.
 
-We take security seriously. It is our top priority to ensure that all current and future information collected from our users is secure and we use commercial best practices to protect our systems. 
+**Sharing Information with Third Parties for Advertising and Other Promotional Purposes.** We may use third-party service providers to target and serve some of the advertisements you see on the Site. We may share technical or aggregate information, such as type of pages viewed and categories of interest, from our Site with these service providers and advertisers for their use in displaying ads on our Site. These third party providers and advertisers may use their own browser or flash cookies, web beacons and similar technologies to collect technical information (such as device unique identifier, IP address, MAC address, browser type, pages visited, and location information) from users of the Site that is generated automatically as a user views or interacts with an ad. These service providers may use that information, sometimes in conjunction with similar information gathered through other websites and other sources, to deliver advertisements on this Site, and on other websites.
 
-**Notification of Changes**
+Unless you affirmatively provide information within an ad, the data collected in connection with the ads, ad serving and ad targeting on our Site does not include your name, address, email address or telephone number, but it may include the device unique identifier, IP address, MAC address and location information of your computer or device. The use and collection of information by third-party advertising service providers is governed by the relevant third party’s privacy policy and is not covered by our Privacy Notice
 
-From time to time we may make changes to our Privacy Policy. If we make changes, we will post them on the Site so users will always understand what information we collect, how we use it, and when we may disclose it. A User is bound by any changes to the policy when she or he uses the Site after those changes have been posted. If, however, we are going to use users' Personal Data in a manner materially different from that stated at the time of collection we will post a notice on our Site for 30 days. 
+For information about use of your information by us and by third-party advertising service providers for advertising, see the section [Data Collected in Connection with Ad Serving and Targeting](http://mmajunkie.com/privacy-policy#data "Data Collected in Connection with Ad Serving and Targeting")."
 
-**Quantcast Traffic Reporting**
+**Sharing with Third Parties for Other Purposes.** Please be aware that we may occasionally release information about our visitors if required to do so by law or if, in our business judgment, such disclosure is reasonably necessary: (a) to comply with legal process; (b) to enforce our [Terms of Service](http://mmajunkie.com/terms-of-service "Terms of Service"); or (c) to protect the rights, property, or personal safety of our Site, us, our affiliates, our officers, directors, employees, representatives, our licensors, other users, and/or the public.
 
-MMAjunkie.com participates in Quantcast traffic metric report. Quantcast does not collect any personally identifiable information; that is, information that could be used to uniquely identify or locate an individual. All of the analysis conducted by the Quantcast system is done using anonymous internet usage information. For further information please review the Quantcast privacy policy. 
+Please also note that as our business grows, we may buy or sell various assets. In the unlikely event that we sell some or all of our assets, or our Site is acquired by another company, information about our Site users may be among the transferred assets.
+
+##### Data Collected in Connection with Ad Serving and Targeting
+
+We operate in compliance with the Digital Advertising Alliance's Self-Regulatory Principles for Online Behavioral Advertising, [www.aboutads.info](http://www.aboutads.info/ "www.aboutads.info").
+
+We may use cookies, web beacons and similar technologies, and/or a third-party ad serving software, to automatically collect information about site users and site activity, and we may use this information to, among other things, serve targeted advertisements on this site. The information collected allows us to analyze how users use the site and to track user interests, trends and patterns, thus allowing us to deliver more relevant advertisements to users.
+
+We also may use third-party service providers, to target and serve some of the advertisements you see on the pages of our Site. We may share technical or aggregate information about your interaction with our Site, such as type of pages viewed and categories of interest, from our Site with these service providers for their use in displaying ads on our Site. These providers may use their own cookies, web beacons and similar technologies to collect similar information from our Site. These service providers may use that information, sometimes in conjunction with similar information gathered through other websites, to deliver advertisements on this Site, and on other websites that participate in our service providers’ advertising networks, that are tailored to match the perceived interests of consumers. The information obtained by our third-party service providers also may be used to help measure and research an advertisement’s effectiveness, or for other purposes.
+
+Unless you affirmatively provide information, the data collected in connection with the ad serving and ad targeting on our Site does not identify you personally and does not include your name, address, email address or telephone number, but it may include device identifying information such as the IP address, MAC address, cookie or other device-specific unique alphanumerical ID of your computer.
+
+The use and collection of information by third-party advertising service providers are governed by the relevant third party’s Privacy Notice and are not covered by our Privacy Notice. If you would like more information about the information collection practices of a particular service provider, or if you would like more information on how to opt out of a service provider’s information collection practices, go to [www.aboutads.info](http://www.aboutads.info/ "www.aboutads.info"). You can opt out of the use of cookies by DoubleClick, one of our service providers, by visiting <http://www.google.com/intl/en/policies/privacy>. Additionally, many of our advertising service providers are members of the Network Advertising Initiative ("NAI"). You can obtain more information about these advertising service providers' information collection practices, and opt out of such practices (and at the same time opt out of the collection practices of other, or all, NAI members) by following the opt out instructions on the NAI's website at <http://www.networkadvertising.org/managing/opt_out.asp>.If you would like more information on how to opt out of information collection practices, go to [www.aboutads.info](http://www.aboutads.info/ "www.aboutads.info").
+
+##### Information You Post to Blogs, Discussion Forums and Other Community Posting or Social Networking Areas
+
+Please keep in mind that whenever you voluntarily make your personal information or other private information available for viewing by third parties online - for example on blogs, discussion forums, or other community posting or social networking areas of our Site - that information can be seen, collected and used by others besides us. We cannot be responsible for any unauthorized third-party use of such information.
+
+##### Children's Privacy Statement
+
+This site is not intended for children under the age of 13. We do not knowingly collect any Personal Information from a child under 13. If we become aware that we have inadvertently received personally identifiable information from a user under the age of 13 as part of the Site, we will delete such information from our records. 
+
+##### How To Make Changes to Your Information
+
+If you are a registered user of our Site, you can make changes to your account information by logging in to the Site and using the tools available via the Site or by contacting us. If you have subscribed to one or more of our email newsletters, you also may change your subscriber information, modify your subscriptions, and/or unsubscribe from these newsletters at any time by logging in to your account. If you have any questions about modifying your account or preference information, please visit the “Customer Service” pages of our Site.
+
+##### Security
+
+All information we gather on our Site is stored within databases to which only we and services providers are provided access. However, as effective as the reasonable security measures implemented by us may be, no physical or electronic security system is impenetrable. We cannot guarantee the security of our Site’s servers or databases, nor can we guarantee that information you supply will not be intercepted while being transmitted to us over the Internet.
+
+##### Links to Other Sites
+
+Our Site also includes links to other websites and provides access to products and services offered by third parties, whose privacy policies we do not control. When you access another website or purchase products or services from a third-party, use of any information you provide is governed by the Privacy Notice of the operator of the site you are visiting or the provider of such products or services.
+
+##### Questions Regarding Privacy
+
+If you have any questions about this Privacy Notice, our privacy practices, or your dealings with us, you can contact:
+
+> Mark Faris   
+>  Online Privacy Coordinator   
+>  [www.mmajunkie.com](http://www.mmajunkie.com/ "www.mmajunkie.com")  
+>  Gannett Law Department  
+>  7950 Jones Branch Drive  
+>  McLean, VA 22107
+
+[USA Today Sports](http://www.usatoday.com/sports/ "USA Today Sports")
