@@ -1,12 +1,11 @@
-> *The following text is extracted and transformed from the sexy1.com privacy policy that was archived on 2012-08-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120802025947id_/http%3A//www.sexy1.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sexy1.com privacy policy that was archived on 2013-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130621093026id_/http%3A//www.sexy1.com/privacy_policy) for the most accurate reproduction.*
 
 # Sexy1.com - Privacy policy
 
-### Last modified: July 19, 2012
+Last modified: October 2, 2012
 
-#### Your privacy is very important to Us.
-
-The Privacy Policy (the “Policy”) offered here, along with Our Terms of Service (“Terms”) discloses Our privacy practices regarding the personal data You provide to Us or We receive about You. We designed Our Privacy Policy to make important disclosures about Our privacy practices regarding any personal data You may provide to Us or that We receive from You.
+Your privacy is very important to Us.  
+The Privacy Policy (the "Policy") offered here, along with Our Terms of Service ("Terms") discloses Our privacy practices regarding the personal data You provide to Us or We receive about You. We designed Our Privacy Policy to make important disclosures about Our privacy practices regarding any personal data You may provide to Us or that We receive from You.
 
 Please read this Policy carefully. By accessing or using Our website, You acknowledge that You have read, understand and agree to be bound by the terms of this Policy on this Website. If You do not agree with this Policy, please do not use this Website. It is Your responsibility to review this Policy frequently and remain informed about any changes to it, so We encourage You to visit this page often. 
 
@@ -31,17 +30,15 @@ In order to facilitate Your reading, here is an outline of Our Privacy Policy
 
 
 
-### I. Definitions
+## I. Definitions
 
-Id.Net Ltd. shall be referred to as “Company”. When first-person pronouns are used in this Policy (Us, Our, Ours, We), the provisions are referring to the Company and/or any other website We may choose to operate in the future.
+Id.Net Ltd. shall be referred to as "Company". When first-person pronouns are used in this Policy (Us, Our, Ours, We), the provisions are referring to the Company and/or any other website We may choose to operate in the future.
 
-The term “Website” is used to refer to the id.net website published by Us. Id.net is a login system for Internet Users and webmasters.
+The term "Website" is used to refer to the id.net website published by Us. Id.net is a login system for Internet Users and webmasters.
 
-The terms “You”, “Your”, the “User”, as well as all second-person pronoun, are used to refer to as the user of this Website and/or services.
+The terms "You", "Your", the "User", as well as all second-person pronoun, are used to refer to as the user of this Website and/or services.
 
-The term “User ID” refers to the username You use to identify Your id.net account.
-
-Back to top
+The term "User ID" refers to the username You use to identify Your id.net account.
 
 * * *
 
@@ -51,18 +48,18 @@ Back to top
 
 The information that We receive includes sets of information: _Your information_ and the _information we receive about You._
 
-**Your information** is the information entered when You fill out forms on Our Websites, when You register, i.e. Your id.net profile. It includes Your name, email address, birthday and gender.
+**Your information** is the information entered when You fill out Your id.net identity linked to Our Website, when You register. It includes Your name, email address, birthday and gender.
 
 **The information We receive about You** concerns
 
-##### i. non-personal information: 
+#### i. non-personal information: 
 
   * Data in relation to the use of the Website, such as the date and time You visit the Website, the web address or ULR You are on;
   * Data in relation to the Website services and activities;
 
 
 
-##### ii. technical information, including:
+#### ii. technical information, including:
 
   * the IP address,
   * browser,
@@ -73,23 +70,23 @@ The information that We receive includes sets of information: _Your information_
 
 #### (b) How We use the information We receive
 
-Any information we receive regarding You is to enable Us to offer better services to You. We may use non-personal information, to improve the design and content of Our Website, to personalize Our visitors’ experience or to offer products, programs and services.
+Any information we receive regarding You is to enable Us to offer better services to You. We may use non-personal information, to improve the design and content of Our Website, to personalize Our visitors' experience or to offer products, programs and services.
 
 We may also use information to ensure that Our Users are in compliance with our Terms. We do not retain any personal information beyond the time it is needed.
 
 #### (c) Information we share
 
-We do not share Your id.net profile information with companies, organizations and individuals outside of the Company unless one of the following circumstances apply:
+We do not share the information of Your id.net identity linked to Our Website with companies, organizations and individuals not working for Us unless one of the following circumstances apply:
 
-##### With Your consent
+#### With Your consent
 
-We will share Your id.net profile information with companies, organizations and individuals outside of the Company when We have your consent to do so. We require opt-in consent for the sharing of any personal information.
+We will share Your id.net identity linked to Our Website information with companies, organizations and individuals not working for Us when We have your consent to do so. We require opt-in consent for the sharing of any personal information. 
 
-##### For external processing
+#### For external processing
 
 We provide personal information to Our affiliates or other trusted businesses or persons to process it for us, based on Our instructions and in compliance with Our Privacy Policy and any other appropriate confidentiality and security measures.
 
-##### For legal reasons
+#### For legal reasons
 
 We will share personal information with companies, organizations or individuals, outside the Company, if We have a good-faith belief that access, use, preservation or disclosure of the information is reasonably necessary to:
 
@@ -106,25 +103,23 @@ If the Company is involved in a merger, acquisition or asset sale, We will conti
 
 The Company is headquartered in Hong Kong. However, Our login system is hosted by servers in the Netherlands. Personal information may be accessed by Us or transferred to Us in the Netherlands or to Our affiliates, business partners or service providers elsewhere in the world. By providing Us with information We receive about You, You consent to this transfer. We will protect the privacy and security of this information according to Our Privacy Policy, regardless of where it is processed or stored.
 
-Back to top
-
 * * *
 
 ### III. Other websites
 
 #### (a) Third Party Website Login
 
-We offer Users the opportunity to login to Our Website through the use of Your id.net sub -profile created for Our Website.
+We offer Users the opportunity to login to Our Website through the use of Your id.net identity linked to Our Website..
 
-Only Your information about Your id.net sub-profile for Our Website will be sent to Us when You use it to register or login. We do not have access or receive any information about Your main id.net profile without Your consent. 
+Only Your information about Your id.net identity linked to Our Website will be sent to Us when You use it to register or login. We do not have access or receive any information about Your id.net account without Your consent. 
+
+Once You delink or delete Your id.net identity linked to Our Website, We will no longer be able to access the information from the id.net identity You have chosen to login and link to Our Website. 
 
 #### (b) Privacy Practices of Third Party Login Process
 
 This privacy statement only addresses the use and disclosure of information by Us through Your interaction with Our website. Third party login processes may have their own privacy statements and personal information collection, use and disclosure practices. 
 
 We are not responsible for the privacy policies, practices or content of Third party login processes. We encourage You to be aware of those privacy policies and practices when You use those third party login processes and submit personally identifiable information. Be aware that You are responsible for reviewing the privacy policies and practices of the third party logins that You use.
-
-Back to top
 
 * * *
 
@@ -134,9 +129,7 @@ It is possible that We may gather information regarding Your computer for Our se
 
 Any information shared will not identify who You are, but rather be mathematical data about Our visitors and their use on Our Website. The data does not give out any personal details. Cookies may be used to gather this general internet data. When used, cookies are downloaded to Your computer without prompting. The cookie file is stored on Your hard drive, where files are transferred to. This information helps Us improve Our Website and services to You. All computers can block cookies by activating proper browser settings 
 
-Due to the communications standards on the Internet, when You visit the Website We automatically receive the URL of the site from which You came and the site to which You are going when You leave the Website. The Company also received the internet protocol (“IP”) address of Your computer (or the proxy server you use to access the World Wide Web), Your computer operating system and type of web browser You are using, email patterns. The link between Your IP address and Your personally identifiable information is not shared with third parties without Your permission. 
-
-Back to top
+Due to the communications standards on the Internet, when You visit the Website We automatically receive the URL of the site from which You came and the site to which You are going when You leave the Website. The Company also received the internet protocol ("IP") address of Your computer (or the proxy server you use to access the World Wide Web), Your computer operating system and type of web browser You are using, email patterns. The link between Your IP address and Your personally identifiable information is not shared with third parties without Your permission. 
 
 * * *
 
@@ -148,7 +141,7 @@ In particular:
 
   * We encrypt many of Our services using SSL
   * We review Our information collection, storage and processing practices, including physical security measures, to guard against unauthorized access to systems.
-  * We restrict access to personal information to the Company’s employees, contractors and agents who need to know that information in order to process it for Us, and who are subject to strict contractual confidentiality obligations and may be disciplined or terminated if they fail to meet these obligations.
+  * We restrict access to personal information to the Company's employees, contractors and agents who need to know that information in order to process it for Us, and who are subject to strict contractual confidentiality obligations and may be disciplined or terminated if they fail to meet these obligations.
 
 
 
@@ -160,9 +153,7 @@ We use a reasonably secure method to destroy personal information.
 
 ### VI. Accessing and Correcting your personal information
 
-You can access and change any personal information We store through you id.net account page.
-
-Back to top
+You can access and change any personal information We store through the page of Your id.net identity linked to Our Website.
 
 * * *
 
@@ -170,12 +161,8 @@ Back to top
 
 The Personal Data (Privacy) Ordinance provides You with rights to access and correction the data You supplied to the Company. If You update any of Your information, We may keep a copy of the information that You originally provided to Us in Our archives for uses documented in this Policy. You may request deletion of Your information at any time by contacting Us.
 
-Back to top
-
 * * *
 
 ### VIII. Contacting Us
 
 We are happy to receive any queries, comments, or requests You may have regarding Our Privacy Policy. Feel free and do not hesitate to use the following email to contact Us: [privacy@sexy1.com](mailto:privacy@sexy1.com)
-
-Back to top
