@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the reviews42.com privacy policy that was archived on 2012-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121201021503id_/http%3A//www.reviews42.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the reviews42.com privacy policy that was archived on 2013-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130621061604id_/http%3A//www.reviews42.com/privacy) for the most accurate reproduction.*
 
 # Privacy -Reviews42
 
@@ -6,7 +6,7 @@ Privacy Policy (Last updated on Mar 31, 2012)
 
 This Privacy Policy describes our policies on the collection, use, and disclosure of your information in connection with your use of our websites, emails, and mobile applications ("Site"). The terms "we", "us", and "Reviews42" refer to the owning company of Reviews42, Solvy Tech Solutions Pvt. Ltd. ("Reviews42").. When you use the Site, you consent to our collection, use, and disclosure of your information as described in this Privacy Policy. 
 
-I. INFORMATION YOU SUBMIT 
+###  I. INFORMATION YOU SUBMIT 
 
 We may store the information you submit to or through the Site. We use the information to fulfill your requests, provide Site functionality, improve Site quality, personalize your experience, display relevant advertising, provide customer support, message you, back up our systems, allow for disaster recovery, and comply with legal obligations. Among the information you submit to or through the Site, please note: 
 
@@ -16,7 +16,7 @@ We may store the information you submit to or through the Site. We use the infor
 
 
 
-II. INFORMATION WE COLLECT 
+###  II. INFORMATION WE COLLECT 
 
 In addition to the information you submit to or through the Site, we also collect and store information from and about you in the course of your use of the Site. We use this information to analyze and track user behavior, personalize your experience, associate it with other information about you, provide the functionality and improve the quality of the Site, and may use it to display relevant advertising. For example: 
 
@@ -26,7 +26,7 @@ In addition to the information you submit to or through the Site, we also collec
 
 
 
-III. THIRD PARTIES 
+###  III. THIRD PARTIES 
 
 we work with third parties and they may have access to some of your information: 
 
@@ -40,24 +40,24 @@ we work with third parties and they may have access to some of your information:
 
 
 
-IV. DATA RETENTION AND ACCOUNT TERMINATION 
+###  IV. DATA RETENTION AND ACCOUNT TERMINATION 
 
 The information we obtain from or about you may be processed and stored in various locations. We may keep it as long as is permitted or required under the law. If you terminate your account, we will remove your Public Content from the Site, but may retain your data for a period of 5 years (or longer if required by law) in our active systems in order to ensure our ability to satisfy the authorized uses under this Privacy Policy. For example, we may use retained data to prevent, investigate, or identify possible wrongdoing in connection with the Site or to comply with legal obligations. Please note that information may exist in backup storage even after it has been removed from our active databases. When logged into your account, you can remove or edit reviews that you have uploaded to the Site by clicking on the respective links below the review. 
 
-V. CHILDREN 
+###  V. CHILDREN 
 
 The Site is intended for general audiences and is not directed to children under 13. We do not knowingly collect personal information from children under 13. If we become aware that a child under 13 has provided us with personal information without parental consent, we take steps to remove such information and terminate the child's account. 
 
-VI. SECURITY 
+###  VI. SECURITY 
 
 We follow generally accepted industry standards to protect the personal information submitted to us, both during transmission and once we receive it. No method of transmission over the Internet or via mobile device, or method of electronic storage, is 100% secure, however. Therefore, while we strive to use commercially acceptable means to protect your personal information, we cannot guarantee its absolute security. 
 
-VII. DISPUTE RESOLUTION 
+###  VII. DISPUTE RESOLUTION 
 
 If you believe that Reviews42 has not adhered to this Privacy Policy you may write to the Reviews42 Privacy Officer at the following address: 
 
 Reviews42, S1, Green Park Extension, New Delhi - 110016 
 
-VIII. MODIFICATIONS TO THIS PRIVACY POLICY 
+###  VIII. MODIFICATIONS TO THIS PRIVACY POLICY 
 
 We may revise this Privacy Policy from time to time. The most current version of the Privacy Policy will govern our use of your information and will be located here. If we make material changes to this Privacy Policy, we will notify you by email or by posting a notice on the Site prior to the effective date of the changes. By continuing to access or use the Site after those changes become effective, you agree to be bound by the revised Privacy Policy. 
