@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the porntelecast.com privacy policy that was archived on 2012-10-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121006020620id_/http%3A//www.porntelecast.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the porntelecast.com privacy policy that was archived on 2013-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130621045813id_/http%3A//www.porntelecast.com/privacy.php) for the most accurate reproduction.*
 
-# PornTelecast - Fresh Porn Every Day
+# Porntelecast.com - Terms of Use
+
+###  Privacy Policy 
 
 This document details important information regarding the use and disclosure of User Data collected on Porntelecast.com 
 
@@ -19,7 +21,8 @@ DATA COLLECTED
   * Log File Information: When you visit Porntelecast.com, our servers automatically record certain information that your web browser sends such as your web request, IP address, browser type, browser language, referring URL, platform type, domain names and the date and time of your request.
   * Emails: If you contact us, we may keep a record of that correspondence. 
 
-  
+
+
 USES 
 
   * Your Personally identifiable information submitted to Porntelecast.com is used to provide to the user the website's features and special personalised features. 
@@ -29,14 +32,16 @@ USES
   * We may use your email address without further consent for non-marketing or administrative purposes (such as notifying you of key website changes or for customer service purposes). 
   * We analyse aggregated user traffic information to help streamline our marketing and hosting operations and to improve the quality of the Porntelecast.com user-experience. 
 
-  
+
+
 DISCLOSURE OF INFORMATION 
 
-  * if under duty to do so Porntelecast.com may release data to comply with any legal obligation, or in order to enforce our Terms Of Service and other agreements; or to protect the rights, property or safety of Porntelecast.com or our subscribers or others. This includes exchanging information with other companies and organisations including the police and governmental authorities for the purposes of protection against fraud or any other kind of illegal activity whether or not identified in the Terms Of Service. It is Porntelecast.comâ€™s policy, whenever possible and legally permissible, to promptly notify you upon an obligation to supply data to any third party. 
+  * if under duty to do so Porntelecast.com may release data to comply with any legal obligation, or in order to enforce our Terms Of Service and other agreements; or to protect the rights, property or safety of Porntelecast.com or our subscribers or others. This includes exchanging information with other companies and organisations including the police and governmental authorities for the purposes of protection against fraud or any other kind of illegal activity whether or not identified in the Terms Of Service. It is Porntelecast.coma€™s policy, whenever possible and legally permissible, to promptly notify you upon an obligation to supply data to any third party. 
   * Should you deliberatlly upload any illegal material PormHub.com shall forward all available information to all relevant authrities and this without notice.   
-Â»We do not share your personally identifiable information (such as name or email address) with other, third-party companies for their commercial or marketing use without your consent or except as part of a specific program or feature for which you will have the ability to opt-in or opt-out. 
+A»We do not share your personally identifiable information (such as name or email address) with other, third-party companies for their commercial or marketing use without your consent or except as part of a specific program or feature for which you will have the ability to opt-in or opt-out. 
 
-  
+
+
 SECURITY 
 
 Where we have given you (or where you have chosen a password) which enables you to access certain parts of our Site, you are responsible for keeping this password confidential. We ask you not to share your password with anyone. 
@@ -45,4 +50,4 @@ Unfortunately, the transmission of information via the Internet is not completel
 
 YOUR RIGHTS 
 
-You are entitled to access and correct your Data by doing so directly on the website or by requesting us to do so via the Contact us section. If you have additional questions then please write to us at mega-support@Porntelecast.com. 
+You are entitled to access and correct your Data by doing so directly on the website or by requesting us to do so via the Contact us section. If you have additional questions then please [contact us](http://www.porntelecast.com/support.php).
