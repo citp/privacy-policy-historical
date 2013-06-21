@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the aldaniti.net privacy policy that was archived on 2012-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121214124613id_/http%3A//aldaniti.net/politica.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aldaniti.net privacy policy that was archived on 2013-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130622000315id_/http%3A//www.aldaniti.net/politica.php) for the most accurate reproduction.*
 
 # aldaniti international network ltd.
 
@@ -32,6 +32,12 @@ You will have additional options at different points in the site to provide more
 
 Aldaniti will not use or share your personal information in a manner that differs from what is described within this Privacy Statement or the registration opt-in statement without your prior consent. 
 
+**Deregistration and un-subscribing from our database**
+
+You may at any time deregister from Aldaniti by contacting us by sending us an E-mail to info@aldaniti.net. You may also decline to receive any further E-mails that Aldaniti or carefully selected third parties send out by contacting Aldaniti at the address above.
+
+If you no longer wish to receive our newsletter and promotional communications, you may opt-out of receiving them by emailing us or in writing sent to Aldaniti International Network, 12 Brookend Street Ross-on-Wye, HerefordShire HR9 7EG, United Kingdom.
+
 **General disclosure of personal information**
 
 The information that you provide will be used:
@@ -53,7 +59,7 @@ The information that you provide may in addition be used, by Aldaniti and carefu
 
 **Managing your personal information**
 
-The data you provide to Aldaniti will be held as you have provided it. You may at any time amend or update your data by visiting Aldaniti at <http://www.aldaniti.net/myaccount.asp> , login and click on "My Account". There you will find the Personal Info panel where you can amend or update your details.
+The data you provide to Aldaniti will be held as you have provided it. You may at any time amend or update your data by visiting Aldaniti at [Private Area](http://www.aldaniti.net/auten.php) , login and click on "My Account". There you will find the Personal Info panel where you can amend or update your details.
 
 You are entitled to see the information held about you and you may ask us to make any necessary changes to ensure that it is accurate and kept up to date. If you wish to do this, please contact us.
 
@@ -61,9 +67,9 @@ We are entitled by law to charge a maximum fee of £10 to meet our costs in prov
 
 **Deregistration and un-subscribing from emails**
 
-You may at any time deregister from Aldaniti by visiting <http://www.aldaniti.net/myaccount.asp> and selecting the deregister button located within "My Account". You may also decline to receive any further emails from Aldaniti by following the steps set out at the bottom of every email that Aldaniti sends out either on behalf of Aldaniti or selected third parties.
+You may at any time deregister from Aldaniti by visiting [Private Area](http://www.aldaniti.net/auten.php) and selecting the deregister button located within "My Account". You may also decline to receive any further emails from Aldaniti by following the steps set out at the bottom of every email that Aldaniti sends out either on behalf of Aldaniti or selected third parties.
 
-If you no longer wish to receive our newsletter and promotional communications, you may opt-out of receiving them by following the instructions included in each newsletter or communication or by emailing us. We offer an opportunity to opt-out of certain communications on our "My Account" section at the Aldaniti web site - <http://www.aldaniti.net/myaccount.asp> or you may contact us at info@aldaniti.net or Aldaniti International Network, 12 Brookend Street Ross-on-Wye, HerefordShire, HR9 7EG, United Kingdom. 
+If you no longer wish to receive our newsletter and promotional communications, you may opt-out of receiving them by following the instructions included in each newsletter or communication or by emailing us. We offer an opportunity to opt-out of certain communications on our "My Account" section at the Aldaniti web site - [Private Area](http://www.aldaniti.net/auten.php) or you may contact us at info@aldaniti.net or Aldaniti International Network, 12 Brookend Street Ross-on-Wye, HerefordShire, HR9 7EG, United Kingdom. 
 
 **Security and storage of your personal information**
 
