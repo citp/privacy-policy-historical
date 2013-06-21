@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the roveconcepts.com privacy policy that was archived on 2012-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121208035255id_/http%3A//www.roveconcepts.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the roveconcepts.com privacy policy that was archived on 2013-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130621092721id_/http%3A//www.roveconcepts.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Rove Concepts
 
