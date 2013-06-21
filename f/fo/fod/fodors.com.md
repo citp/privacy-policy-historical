@@ -1,51 +1,201 @@
-> *The following text is extracted and transformed from the fodors.com privacy policy that was archived on 2012-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121217195420id_/http%3A//www.fodors.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fodors.com privacy policy that was archived on 2013-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130621104635id_/http%3A//www.fodors.com/about/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Fodor's Travel
 
-The Fodors.com Web site (the "Site") is operated by Fodor's Travel, a division of Random House, Inc., located at 1745 Broadway, New York, New York 10019 ("Fodor's"). We can be reached by e-mail at [registration@fodors.com](mailto:registration@fodors.com).
+Last Changes to Privacy Policy: February 1, 2013
 
-**HOW FODOR'S USES INFORMATION PROVIDED BY YOU:** This Site does not collect personally identifying information about individuals except when specifically and knowingly provided by such individuals, which can occur in a variety of contexts. For example, Fodors.com visitors may be required to provide such information as part of or during (1) contests and sweepstakes; (2) registration for specific activities (for example, bulletin boards or e-mail newsletters) or membership on our Site; (3) marketing surveys; and/or (4) customer support or technical service. We do not require personal information to gain access to the Site, however you will not be able to access areas that require registration without disclosing personally identifiable information.
+We are strongly committed to protecting the privacy of your personal information. The policies below are applicable to the Random House network of websites including the randomhouse.com website; our divisional and imprint websites (e.g., bantam-dell.atrandom.com, crownpublishing.com, fodors.com, knopfdoubleday.com, livinglanguage.com, primagames.com); genre websites hosted and maintained by us (e.g., suvudu.com, booksforbetterliving.com, wordandfilm.com); Random House author sites hosted and maintained by us; all email newsletters published by Random House, including on behalf of our authors; all apps published by Random House; and all other interactive features, services, and communications provided by Random House (collectively, "Sites"), however accessed and/or used, that are operated by us, made available by us, or produced and maintained by Random House, Inc. (collectively, "Random House" or "we", "us", or "our"). We have established this privacy policy ("Privacy Policy") to let you know the kinds of personal information we may gather during your visit to these Sites, why we gather your information, what we use your personal information for, when we might disclose your personal information, and how you can manage your personal information.
 
-Information collected may include your name, address, phone number, and email address.
+Please be advised that the practices described in this Privacy Policy apply only to information gathered online at our Sites. It does not apply to information that you may submit to us offline, or to Sites maintained by other companies or organizations to which we may link or who may link to us.
 
-A user's personally identifying information will not be sold or rented to any other party without prior consent.
+By visiting our Sites, you are accepting the practices described in our Privacy Policy. If you do not agree to the terms of this Privacy Policy, please do not use the Sites. We reserve the right to modify or amend the terms of our Privacy Policy from time to time without notice. Your continued use of our Sites following the posting of changes to these terms will mean you accept those changes. If we intend to apply the modifications or amendments to this Privacy Policy retroactively, we will provide you with notice of the modifications or amendments.
 
-For registered users of Fodors.com, we reserve the right to send you certain communications relating to Fodors.com, such as service announcements, administrative messages, requests for feedback, and Fodor's regular email newsletter (though registered users may opt out of receiving the newsletter when registering or any time thereafter -- see below for Opt-Out Procedures). We may also communicate with registered users to provide news or information about features, products and services that Fodor's is offering. Non-registered users will be offered the opportunity to opt-in to receive our regular email newsletter without registering. All communications with such non-registered users will be limited to the newsletter, which users may opt-out of receiving at any time. (see below for Opt-Out Procedures). In addition to the uses described above, a user's personally identifying information may be used by Fodor's, its parent companies, subsidiaries, and affiliates for editorial or quality control purposes. Fodors.com may disclose personal information if required to do so by law or in the good-faith belief that such action is necessary to (a) conform to applicable law or comply with legal process served on Fodors.com or the Site; (b) protect and defend the rights or property of Fodors.com, the Site or the users of Fodors.com, and (c) act under exigent circumstances to protect the personal safety or users of Fodors.com, the Site or the public.
+If you have any questions about this Privacy Policy or don't see your concerns addressed here, you should contact us by email at ecustomerservice@randomhouse.com.
 
-If we desire to use your information for purposes not disclosed above or at the time we collect the information, we will announce such a plan and ask you to "opt in." If you wanted to share your personal information for such purposes, you would have to respond. In the absence of such a response, your information would not be disclosed for the new purpose.
+  * Controllers of Personal Information
+  * What Information About Me Is Collected and Stored?
+  * Is Personal Information Collected From Children?
+  * How Do We Use Your Information?
+  * Who Do We Provide Your Information To?
+  * What Steps Are Taken To Keep Personal Information Secure?
+  * Your Obligations to Keep Your Access Rights Secure
+  * What Happens When I Link To or From Another Website?
+  * What About Contests and Sweepstakes?
+  * Public Areas, Chat Rooms, Reviews, and Community Areas
+  * Governing Law
+  * Assignment
+  * Notice to Non-US Users
+  * Changes to This Policy
+  * How Do I Opt-Out or Correct Information About Me
+  * Your California Privacy Rights
 
-If you have any concerns about the above, feel free to e-mail us at [editors@fodors.com](mailto:editors@fodors.com). In the subject line of your e-mail, please type the phrase "PRIVACY POLICY."
 
-Fodors.com users should be aware that when they voluntarily disclose personal information (such as an e-mail address) within the body of a post on the bulletin boards, that information can be collected and used by others and may result in unsolicited messages from other posters or parties.
 
-While your personally identifying information is protected as outlined above, we collect anonymous aggregated Site usage data on Fodors.com for statistical purposes, and we often provide it to third parties as a measure of the popularity of our Site.
+**Controllers of Personal Information**
 
-Whatever the purpose may be, we will only collect information to the extent reasonably necessary to fulfill your requests and our legitimate business objectives.
+Any personal information provided to or to be gathered by Random House is controlled primarily by Random House, Inc., 1745 Broadway, New York, NY 10019.
 
-**OPT-OUT PROCEDURES:** If you are a registered user and you no longer wish to receive communications from Fodor's, you may opt-out of such communications only by cancelling your Fodors.com registration. To do so, you must delete your account on your profile page. Log in using your screen name and password. Go to your profile page by clicking on "Profile". Toward the bottom of the page, click on "Click here to delete your screen name/account". A confirmation email will be sent to you. To complete the deletion of your account, you must click on the link in the confirmation email within three days or the change will not be made.
+**What Information About Me Is Collected and Stored?**
 
-If at any time you no longer wish to receive our newsletter, you may opt-out by clicking the unsubscribe link at the bottom of the newsletter.
+We collect two basic types of information from you in conjunction with your use of the Sites, personal information and non-personal information. Personal information is information that you may supply to us, as described more fully below, i.e., when you subscribe, order, complete a survey, register for a Site or any part thereof, enter a contest, upload content, participate in a community, or provide your e-mail address. Personal information is any information that can individually identify you and includes your name, e-mail address, telephone number, postal address, credit card, billing and contact information. Non-personal information includes information that does not personally identify you but may include tracking and usage information about your location, demographics, use of the Sites and the Internet.
 
-**HYPERLINKS:** This Site, including the Fodors.com newsletter, contains hyperlinks to other sites. These hyperlinks include links from advertisers, vendors of products and services referenced on the Site, and other third parties. For example, if you click on a banner advertisement, or a promotion by a third party, or to purchase software products from a third-party vendor, the "click" takes you off the Site. Please be aware that we are not responsible for the privacy practices of such other sites. We encourage our users to be aware when they leave our Site and to read the privacy statements of each and every Web site that collects personally identifiable information. This privacy statement applies solely to information collected by this Site.
+**Personal Information**
 
-**ADVERTISING:** The ads appearing on this Web site are delivered to you by DoubleClick, our Web advertising partner. Information about your visits to this site, such as the number of times you have viewed an ad (but not your name, address, or other personal in-formation), is used to serve ads to you. For more information about DoubleClick, cookies, and how to "opt-out", [please click here](http://www.google.com/intl/en/policies/privacy/).
+As a general matter, you can browse the Sites without submitting your personal information to us. However, there are a number of circumstances in which you may supply us with your personal information. The following lists the most common ways in which we may collect your personal information.
 
-**COOKIES:** Cookies are pieces of information that a website transfers to your computer's hard disk for record-keeping purposes. Fodors.com places cookies in the browser files of a Fodors.com user's computer, and these cookies either enable certain site functions, such as the bulletin boards, or allow for the anonymous aggregation of user activity on the Fodors.com Site for statistical purposes. The cookies themselves do not contain any personally identifying information although some can enable Fodors.com to relate a user's use of Fodors.com to information that the user has specifically and knowingly provided to Fodors.com. Any personally identifying information associated with such cookies will be subject to the provisions outlined above. Fodors.com publishes advertiser banners and badges containing links to advertiser Web sites, engages in e-commerce affiliate programs with companies such as Expedia, directs users seeking to purchase software products to third-party vendors, and provides hyperlinks to other Web sites for editorial purposes. If you view these banners and badges, or link to any of these sites, you also may get cookies from them. Fodors.com does not control these cookies and these cookies are not subject to this policy. The use of cookies is common in the Internet industry, and we encourage you to read the privacy policy of any Web site that issues you a cookie. Most browsers are initially set to accept cookies. If you prefer, you can set your browser to refuse cookies or to alert you when cookies are being sent. However, it is possible that some portions of Fodors.com will not function properly if you do so.
+  * Registration for an account on the Sites
+  * Sign up to receive e-mail newsletters from us
+  * Request for customer service or other assistance
+  * Participation in surveys, panels, or market research
+  * Participation in special events and promotions
+  * Purchases on the Sites
+  * Entry in contests or sweepstakes
+  * Participation on social media accounts involving Random House, our books and our brands
+  * Participation in communities, chat rooms, and other interactive services
+  * Submission of user generated content on any part of the Sites that permit it
+  * Submission of a job application
+  * Any other place on the Sites where you knowingly volunteer personal information
 
-**AGE OF USERS:** No information should be submitted or posted on this Site by children under 13 years of age without the consent of their parent or guardian.
 
-**PARENTS:** We encourage you to get involved with your children's online usage and to be aware of the activities in which they are participating. Unless otherwise disclosed during collection, Fodors.com does not knowingly collect or provide any personally identifying information of children under 13 years of age for any purpose whatsoever. Fodors.com may, however, collect certain personally identifiable information to protect the integrity of the Site and the safety of children under 13 using the Site. In the event Fodors.com collects such information, it will be deleted from the Fodors.com systems as soon as possible. We do not knowingly use any information collected from users under 13 years of age for any marketing or promotional purpose or for member directories. You should be aware that anonymous aggregated data is sometimes provided to our advertisers for statistical purposes described above. Finally, you should be aware that if your child voluntarily discloses his or her name, e-mail address, etc. on various bulletin boards or chat areas, such disclosure may result in unsolicited messages from other parties. Accordingly, you should discourage your child from doing so.
 
-If you have any concerns, do not hesitate to contact us at the above e-mail address.
+**Collection of Personal Information From Social Media Sites**
 
-**SECURITY POLICY:** The importance of security for all personal information associated with you is of utmost concern to us. We exercise care in providing secure transmission of your information from your PC to our servers. Personal information collected by the Site is stored in secure operating environments that are not available to the public. Only those employees who need access to your information in order to do their jobs are allowed access. Any employee who violates our privacy and/or security policies is subject to disciplinary action, including possible termination.
+When you interact with any Random House property page or account on a social media platform, such as Facebook, Twitter, Google+, Tumblr, YouTube, or Pinterest, we may collect the personal information that you make available to us on that page or account including your account ID or "handle." However, we will comply with the privacy policies of the corresponding social media platform and we will only collect and store such personal information that we are permitted to collect by these social media platforms.
 
-**ASSIGNMENT:** Fodor's may change its ownership or corporate organization while providing the Site and services. As a result, please be aware that Fodor's may transfer your information to another company that is affiliated with Fodor's or with which Fodor's has merged.
+**Non-Personal Information**
 
-**CHANGES:** As our Site continues to develop, we may add new services and features to our Site. In the event that these additions affect our Security and Privacy Policy, this document will be updated appropriately. We recommend that you read this Security and Privacy Policy each time you use the Site in case you missed our notice of changes to the Security and Privacy Policy.
+In addition, when you interact with the Sites, our servers may keep an activity log that does not identify you individually ("Non-Personal Information"). Generally, we collect and store the following categories of Non-Personal Information:
 
-**YOUR ACCEPTANCE OF THESE TERMS:** By using this Site, you signify your acceptance of the Fodors.com Privacy Policy. If you do not agree to this policy, please do not use the Site. Your continued use of the Site following the posting of changes to these terms will mean you accept those changes, provided however, that any material changes to this policy will not be implemented with respect to personally identifiable information collected prior to the announced changes, without your prior consent.
+  * Demographic data such as age, gender, and five digit zip code as part of collecting personal information
+  * Device information about your computer, mobile device, or other device that you use to access the Sites. This information may include IP address, geolocation information, unique device identifiers, browser type, browser language, and other transactional information.
+  * Usage information about your use of the Sites. This information includes a reading history of the pages you view. We use this information to provide you a more customized experience on the Sites.
+  * Additional "traffic data" such as time of access, date of access, software crash reports, session identification number, access times, and referring website addresses.
+  * Your search terms and search results.
+  * Other information regarding our users' use of the Sites.
 
-**CORRECTING AND UPDATING INFORMATION:** Fodors.com also permits you to correct or update personally identifiable information that you have previously provided to us. To do so, send us an e-mail [here](mailto:registration@fodors.com) indicating the information that you wish to be corrected or updated, or you may change your personal profile at [www.fodors.com](http://www.fodors.com/) (click "Profile", log in, and follow instructions for making such changes).
 
-**OTHER TERMS:** Other terms and conditions governing your use of Fodors.com can be found in our [Subscriber's Agreement](https://web.archive.org/about/subagree/). Please read it.
+
+**Collection of Your Source IP Address/Location Information**
+
+We collect and store your device's source IP address which may disclose the location of your device at the time you access the Sites. Advertisements and certain content may be directed to you as a result of this data.
+
+In addition, in some cases the Sites can deliver content based on your current location if you choose to enable that feature. If you enable that feature, your current location will be stored locally on your device which will be used by the Sites to serve you certain content tied to your location. If you elect to have your location-based searches saved to your history, we will store such information on our servers.
+
+**Collection of Personal and Non-Personal Information From Other Sources**
+
+We also may collect and store information about you that we receive from other sources to, among other things, enable us to update and correct the information contained in our database and to better customize your experience on the Sites.
+
+**Use of Cookies, Flash Cookies and Web Beacons**
+
+Like many websites, we use "cookies", which are small text files that are stored on your computer or equipment when you visit certain online pages that record your preferences and actions. We use cookies to track use of our Sites and online services. We may also use cookies to monitor traffic, improve the Sites and make it easier and/or relevant for your use. You may occasionally get cookies from companies advertising on our behalf. We do not control these cookies, and these cookies are not subject to this cookie policy.
+
+You have the ability to accept or decline cookies. Most web browsers automatically accept cookies, but, if you prefer, you can usually modify your browser setting to decline cookies. For more information on cookies and how to disable them, you can consult the information provided by the Interactive Advertising Bureau at www.allaboutcookies.org.
+
+We may also use web beacons or flash cookies. A web beacon or flash cookie (also known as "action tags", "tracer tags", or "single-pixel gifs") is an invisible graphic on a web page that is programmed to collect non-personal information about your use of a given website. We do not share or provide personal information we may collect through such web beacons, such as names, e-mail addresses and phone numbers with our advertisers without your express permission.
+
+We work with third-party advertising companies who may utilize flash or enhanced cookies or web beacons to better provide advertisements about goods and services that may be of interest to you. These partners do not have access to or use your name, address, e-mail address, telephone number or other personal information from us. They may, however, anonymously track your Internet usage across other websites in their networks beyond these Sites. To learn more about the use of this information or to choose not to have this information used by our third-party advertising partners by opting out please visit the Network Advertising Initiative by clicking http://www.networkadvertising.org/managing/opt_out.asp.
+
+**Is Personal Information Collected From Children?**
+
+Unless otherwise disclosed during collection and with parent or guardian consent, Random House does not knowingly collect personal identifiable information from children under 13 years of age. If you are under 13 years of age you should not under any circumstance provide personally identifiable information to Random House. If Random House discovers that a child under the age of 13 has provided Random House with personally identifiable information, Random House will immediately delete that child's information from the Sites.
+
+**How Do We Use Your Information?**
+
+We use the information we learn from you to help us personalize and continually improve your experience on the Sites. We may use your Personal and Non-Personal Information in the following ways:
+
+**General Uses**
+
+  * Provide you with the products and services you request
+  * Post your user generated content to our Sites as you request
+  * Communicate with you about your account or transactions with us and send you information about features on our Sites
+  * Communicate with you about changes to our policies
+  * Personalize content and experiences on our Sites, including providing you recommendations based on your preferences
+  * Send you newsletters, offers and promotions for our products and services, third party products and services, or special events by e-mail or other another medium
+  * Provide you with advertising including advertising based on your activity on our Sites or activity on third party sites and applications
+  * Administer our loyalty programs
+  * Administer contests, sweepstakes, promotions, and surveys
+  * Optimize or improve our products, services and operations
+  * Detect, investigate, and prevent activities that may violate our policies or be illegal
+  * Perform statistical, demographic, and marketing analyses of users of the Sites and their purchasing patterns
+
+
+
+**Combination of Your Personal Information**
+
+We use the information from one portion of the Sites on other portions of Sites in our network of Sites, all of which are owned and operated by Random House, Inc. and may combine information gathered from multiple portions of the Sites into a single customer record. We also use and/or combine information that we collect off-line or from third party sources to enhance and check the accuracy of your customer records. 
+
+**Use of Your Location Information**
+
+We use your location information to:
+
+  * Provide you with the products and services you request
+  * Personalize content and experiences on our Sites, including providing you recommendations based on your preferences
+  * Personalize your newsletters, offers and promotions for our products and services, third party products and services, or special events
+  * Personalize the advertising you receive, including advertising based on your activity on our Sites or activity on third party sites and applications
+  * Optimize or improve our products, services and operations
+  * Detect, investigate, and prevent activities that may violate our policies or be illegal
+  * Perform statistical, demographic, and marketing analyses of users of the Sites and their purchasing patterns 
+
+
+
+**Who Do We Provide Your Information To?**
+
+Except as disclosed in this Privacy Policy, we do not use or disclose information about your Personal Information collected online to any companies not part of the Random House family of companies. Although, as disclosed below, we may provide your information to our partners, in no event will we sell or rent your Personal Information as part of a customer list or similar transaction.
+
+**Third-Party Agents**
+
+We have third party agents, subsidiaries, affiliates and partners that perform functions on our behalf, such as hosting, billing, marketing, analytics, customer service, fraud protection, etc. These entities have access to the Personal Information needed to perform their functions and are contractually obligated to maintain the confidentiality and security of that Personal Information. They are restricted from using, selling, distributing or altering this data in any way other than to provide the requested services to the Sites.
+
+**Business Partners and Third Parties**
+
+We may share your Personal Information with our business partners or co-marketers from time to time. We may also share your Personal Information with third parties that provide products and services that we think you may be interested in. Although our treatment of your Personal Information is governed by this Privacy Policy, the business partner or third party's treatment of your Personal Information will be governed by the business partner or third party's privacy policy. You may withdraw your consent to our sharing of your Personal Information with business partners and third parties at any time by following the opt-out process described below.
+
+**Emergency Situations**
+
+We may also use or disclose Personal Information if required to do so by law or in the good-faith belief that such action is necessary to (a) conform to applicable law or comply with legal process served on us or the Sites; (b) protect and defend our rights or property, the Sites or our users, and (c) act under emergency circumstances to protect the personal safety of us, our affiliates, agents, or the users of the Sites or the public.
+
+**Use of Non-Personal Information**
+
+We may disclose or share Non-Personal Information (or other information, other than Personal Information) in any other manner that we deem appropriate or necessary. Among other things, we will disclose Non-Personal Information to third parties to help us determine how people use parts of the Sites and who our users are so we can improve our Sites. We will also disclose Non-Personal Information to our partners and other third parties about how our users collectively use the Sites.
+
+**What Steps Are Taken To Keep Personal Information Secure?**
+
+We are concerned about ensuring the security of your Personal Information. We exercise great care in providing secure transmission of your information from your device to our servers. Personal Information collected by our Sites is stored in secure operating environments that are not available to the public. Our security procedures mean that we may occasionally request proof of identity before we disclose your Personal Information to you. Please understand, however, that while we try our best to safeguard your Personal Information once we receive it, no transmission of data over the Internet or any other public network can be guaranteed to be 100% secure.
+
+**Your Obligations to Keep Your Access Rights Secure**
+
+You promise to: (a) provide true, accurate, current and complete information about yourself and your business as prompted by a Website's registration form (such information being the "Registration Data") and (b) maintain and promptly update the Registration Data to keep it true, accurate, current and complete. If you provide any information that is untrue, inaccurate, not current or incomplete, or Random House has reasonable grounds to suspect that such information is untrue, inaccurate, not current or incomplete, Random House has the right to suspend or terminate your account and refuse any and all current or future use of the Sites (or any portion thereof). You are entirely responsible for the security and confidentiality of your password and account. Furthermore, you are entirely responsible for any and all activities that occur under your account.
+
+**What Happens When I Link To or From Another Website?**
+
+These Sites may contain links to other websites operated by affiliates of Random House or third parties. Please be advised that the practices described in this Privacy Policy for Random House do not apply to information gathered through these other websites. We are not responsible for the actions and privacy policies of third parties and other websites.
+
+**What About Contests and Sweepstakes?**
+
+When we run a contest or sweepstakes relating to our Sites, it will be accompanied by a set of rules. The rules for each contest/sweepstakes will specify how the information gathered from you for entry will be used and disclosed, if it is different than as described in this Privacy Policy. In conjunction with your entry in such contest or sweepstakes, Personal Information will be collected only if you voluntarily submit it to.
+
+Please remember that any information you share in public areas, such as message boards or feedback sections, becomes public and anyone may take and use that information. Please be careful about what you disclose and do not post any Personal Information that you expect to keep private. Please consult the applicable guidelines, if any, for use of our chat rooms and other community areas for more information.
+
+**Governing Law**
+
+These Sites are published in the United States. We attempt to protect the Personal Information of all users of our Sites and we attempt to comply with local data protection and consumer rights laws to the extent they may apply to the Random House services, but our family of Sites are located and targeted to United States citizens and our policies are directed at compliance with those laws. If you are uncertain whether this privacy policy conflicts with the applicable local privacy laws where you are located, you should not submit your Personal Information to Random House.
+
+**Assignment**
+
+We may change our ownership or corporate organization while providing the Sites and services. We may also sell certain assets associated with the Sites. As a result, please be aware that in such event we may transfer some or all of your information to a company acquiring all or part of our assets or to another company with which we have merged. Under such circumstances we would, to the extent possible, require the acquiring party to follow the practices described in this Privacy Policy, as it may be amended from time to time. Nevertheless, we cannot promise that an acquiring company or the merged company will have the same privacy practices or treat your information the same as described in this Privacy Policy.
+
+**Notice to Non-US Users**
+
+If you are located outside the United States of America, you should be aware that your personally identifiable information will be transferred to the United States of America, the laws of which may be deemed by the your country to have inadequate data protection. If you are located in a country outside the United States of America and voluntarily submit personal information to us, you thereby consent to the general use of such information as provided in this privacy policy and to the transfer of that information to, and/or storage of that information in, the United States of America.
+
+**Changes to This Policy**
+
+As our Sites continue to develop, we may add new services and features to our Sites. In the event that these additions affect our Privacy Policy, this document will be updated appropriately. We will post those changes prominently so that you will always know what information we gather, how we might use that information and whether we will disclose it to anyone. We do, however, recommend that you read this Privacy Policy each time you use our Sites in case you missed our notice of changes to the Privacy Policy. We will not, however, materially change our policies and practices to make them less protective of Personal Information we have previously collected from you without your express consent.
+
+**How Do I Opt-Out or Correct Information About Me**
+
+You may always opt-out of receiving future e-mail messages and newsletters from Random House. We provide you with the opportunity to opt-out of receiving communications from us at the point where we request information about you. To do so, you can send us a message at listmaster@randomhouse.com.
+
+**Your California Privacy Rights**
+
+California Civil Code Section 1798.83 permits customers of Random House who are California residents to request certain information regarding its disclosure of their personal information to third parties for their direct marketing purposes. To make such a request, please send an e-mail to ecustomerservice@randomhouse.com.
