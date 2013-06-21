@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lowfares.com privacy policy that was archived on 2012-10-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121006114649id_/http%3A//www.lowfares.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lowfares.com privacy policy that was archived on 2013-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130621033223id_/http%3A//lowfares.com/privacy) for the most accurate reproduction.*
 
 # Travel Comparison Shopping - Flights, Airfare, Hotels, Vacations - LowFares.com
 
@@ -87,4 +87,5 @@ Lowfares.com
 Attn: Privacy  
 515 S. Flower Street, Suite 4400  
 Los Angeles, California 90071  
-[privacy@lowfares.com](mailto:privacy@lowfares.com)
+[privacy@lowfares.com](mailto:privacy@lowfares.com)  
+(213) 607-0225
