@@ -1,52 +1,85 @@
-> *The following text is extracted and transformed from the blackanddecker.com privacy policy that was archived on 2012-09-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120921073541id_/http%3A//www.blackanddecker.com/Privacy-Policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the blackanddecker.com privacy policy that was archived on 2013-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130621023353id_/http%3A//blackanddecker.com/Privacy-Policy.aspx) for the most accurate reproduction.*
 
 # Black & Decker Power Tools | Privacy Policy
 
 Are you safe on our site? Read our privacy policy.
 
-We believe that your privacy on the internet is extremely important. For this reason, Black & Decker does not trade, sell or rent personal information collected about you to any third parties. The Privacy Policy outlined below explains how Black & Decker may gather and use the information you provide:
+**_Privacy Policy_**
+
+The Privacy Policy outlined below explains how Black & Decker may gather and use the information you provide. This Privacy Policy applies only to the information collected online through BlackandDecker.com, microsites of Black & Decker, mobile sites of Black & Decker or mobile apps that expressly adopt, and display or link to this Privacy Policy (all of these collectively referred to as our “Websites”). 
 
 **This policy provides the following:**
 
 1\. What information does Black & Decker collect and how does Black & Decker use this information?
 
-2\. Does Black & Decker share your information with other third parties?
+2\. What information is collected by Black & Decker on its social media pages? 
 
-3\. How do I stop Black & Decker from contacting me via e-mail in the future?
+3\. Does Black & Decker share your information with other third parties?
 
-4\. What is the policy regarding Black & Decker's ownership of information?
+4\. How do I stop Black & Decker from contacting me via e-mail in the future?
 
-5\. What about Black & Decker's links to other sites?
+5\. What about Black & Decker’s links to other sites?
 
 6\. Will this Privacy Policy change?
 
+7\. How do we secure your information on our Websites?
+
+8\. Where should you direct your questions?
+
 **What information does Black & Decker collect and how does Black & Decker use this information?**
 
-Of course by visiting our web-site, you are under no obligation to provide any personal information to Black & Decker. However the information we learn from customers helps us personalize and continually improve your experience at BlackandDecker.com.
+Of course by visiting our Websites, you are under no obligation to provide any personal information to Black & Decker. However the information we learn from customers helps us personalize and continually improve your experience on our Websites. 
 
-We receive and store certain types of information whenever you interact with us. For example, like many Web sites, we use “cookies,” and we obtain certain types of information when your Web browser accesses BlackandDecker.com. We also receive and store any information you enter on the BlackandDecker.com web site or give to us in any other way.
+_Personal Information:_
 
-You may choose not to provide certain requested information, but then you might not be able to take advantage of some of our features. We use the information you provide to respond to your requests, customize your experience on our Web site, improve our service and to communicate with you.
+You may choose not to provide certain requested information, but then you might not be able to take advantage of some of our features. 
 
-  * For the purposes outlined in this section, we may request personal information from you, which may include your name, address, email address, telephone number, etc., as well as information related to customer satisfaction surveys, customer purchasing habits and other purchasing information.
-  * Our Web site allows you to contact us directly with questions or comments regarding our products, services, Web site, warranty registration, surveys, contests, polls, emails. This process requires you to give certain personal information so that we may address your inquiry. And we may receive a confirmation when you open email from us if your computer supports such capabilities. This helps us make our emails more useful and interesting. We also compare our customer list to lists received from other companies in an effort to avoid sending unnecessary messages to our customers. If you do not want to receive email or other mail from us, please adjust your customer communication preferences as discussed further below.
-  * We may conduct promotional sweepstakes or other contests on our web site, which require personal information to be provided to qualify for participation in the promotion or contest. This information is primarily used as a means to notify the winners.
-  * In an effort to continually improve our products and services, we reserve the right to use your personal information to conduct Black & Decker market research and on-line surveys. This may include contacting recent and/or past B&D web site visitors who have provided personal information to Black & Decker.
-  * Our web servers may automatically monitor the number of visitors, the average time spent on the site, the popularity of our web sites, and any programming errors or failures on any of our web sites in order to determine the effectiveness of the Black & Decker web sites.
-  * Please note that Black & Decker will fully cooperate with any court order or other legal process and will provide your personal information to the extent required in any legal proceeding. We also release account and other personal information when we believe such release is appropriate to apply our Conditions of Use and other agreements or protect the rights, property or safety of BlackandDecker.com, our users or others. This includes exchanging information with other companies and organizations for fraud protection and credit risk reduction.
+  * The type of personal information we request from you may include your name, address, email address, telephone number, as well as information related to customer satisfaction surveys, customer purchasing habits and other purchasing information, including registration of products purchased. If you are using one of our websites, microsites or mobile apps that allows purchases and you decide to make a purchase, we also collect credit card information so that we can complete your purchase. 
+  * The email address you provide when making a purchase will be used both to send you a confirmation and to send you marketing emails as well. If you do not want to receive marketing email from us, please see _“How do I stop Black & Decker from sending me marketing email in the future?”_ discussed below. 
+  * Our Websites allow you to contact us directly with questions or comments regarding our products, services, Websites, warranty registration, surveys, contests, polls and emails. This process requires you to give certain personal information so that we may address your inquiry. 
+  * We may conduct promotional sweepstakes or other contests on our Websites, which require personal information to be provided to qualify for participation in the promotion or contest. 
+  * In an effort to continually improve our products and services, we may use your personal information to conduct Black & Decker market research and online surveys. This may include contacting recent and/or past visitors of our Websites who have provided personal information to Black & Decker.
+  * And we may receive information about you from other sources and add it to our account information so we can personalize your experience with us and our communications to you. We also sometimes receive updated delivery and address information from our shippers or other sources so that we can correct our records and deliver your next purchase or communication more easily. 
+
+_Personal Information Collected If You Allow Us to Access Your Personal Information Through One of Your Social Media Accounts On Social Media Sites such as Facebook, Twitter, Google Plus or Others (“Personal Social Media Accounts”)_
+
+  * Black & Decker may allow you to use your Personal Social Media Account information to provide us information requested when you participate in features on our Website, but we will specifically ask your permission prior to use of such information. If you chose to provide us information through your Personal Social Media Accounts, Black & Decker could collect some, and possibly all, of the data indicated on the Request for Permission screen that you click to grant us permission to collect this information. 
 
 
 
-**What is the policy regarding Black & Decker's ownership of information?**
+This information could include: your name, profile picture, gender, networks, user ID, list of friends, birthday, likes, education history, work history, current city, hometown, interests, relationship status, and any other information you have shared with everyone on your Personal Social Media Accounts. Please keep in mind that your Personal Social Media Accounts may change the types of information that may be accessed when you use this process to provide us information, so you should carefully review the Request for Permission from your Personal Social Media Accounts prior to using this method of providing information to our Website. It is also possible that Black & Decker will be able to continue to collect this information from your Personal Social Media Accounts should the information be revised by you later. 
 
-All opinions, ideas, suggestions, and other feedback submitted to our web sites may be used by B&D, without any restriction and free of charge, and nothing contained in this policy shall limit or otherwise affect this.
+_Information Observed or Collected Through Technology:_
 
-There may be instances where we request or permit the submission of your opinions/ideas. In such instances you will be required to agree to the terms of a B&D prepared agreement related to the provision of such information prior to its submission.
+  * We collect navigational information such as browser type and version; the service provider used to access our Websites; whether visitors arrived through a link for our Websites; and for visitors using a mobile version of our Websites, technical information about the device used, such as screen size, cookie support by the device and how images may appear.
+  * We receive and store certain types of information whenever you interact with us. For example, like many websites, we use “cookies” and we obtain certain types of information when your Web browser accesses our Websites. We may also use pixel tags (also known as web beacons, web bugs, and clear GIFs) on the Websites and in emails. A pixel tag is a nearly invisible pixel-sized graphic image on a webpage or in an email message and is used to collect the same type of information as collected by cookies.
+  * We may receive a confirmation through use of technology when you open email from us, including the time you open the email and whether you click on any links in the email. This helps us make our emails more useful and interesting. 
+  * Our web servers may automatically monitor the number of visitors, the average time spent on the site, the popularity of our Websites, and any programming errors or failures on any of our Websites in order to determine the effectiveness of the Black & Decker Websites.
 
-**What about Black & Decker's links to other sites?**
+_How We Use Information Gathered Through Technology:_
 
-We may add external links to other related web sites. We will certainly try to link to web sites that maintain the same high regard for privacy on the Internet as we do; however, we are not responsible for the content that may be on such linked sites. Additionally, the existence of any external link does not suggest that Black & Decker endorses the linked company, product or service.
+  * Information gathered through technology allows us to determine such things as which parts of our Websites are most visited or used, what products are browsed and/or purchased, the effectiveness of our Websites, and difficulties visitors may experience in accessing our Websites. Cookies are also used to keep track of items you put into your shopping cart, and to tell us whether you have visited our Websites in the past. 
+  * With knowledge we obtain through technology, we can improve the quality of our visitors’ experience on our Websites and through our emails by recognizing and delivering more of the most desired features and information, determining how to best direct visitors to our Websites, and, in some cases, resolving access difficulties. Information we collect through cookies or technology may be combined with other personal information you provide to us on our Websites. 
+
+
+
+**What about Black & Decker’s links to other sites?**
+
+We may add external links to other Websites. We do not evaluate and are not responsible for the privacy practices or content that may be on such linked sites. Additionally, the existence of any external link does not suggest that Black & Decker endorses the linked company, product or service. 
 
 **Will this Privacy Policy change?**
 
-Black & Decker may change this policy at any time, so please review this policy periodically.
+Black & Decker may change this policy at any time, so please review this policy periodically. Should there be a material change to our information collection, use or disclosure practices, it will be applied only to information collected on a going forward basis, and we will update this privacy policy statement. 
+
+**How do we secure your information on our Websites?**
+
+We take the following security measures:. If you are using one of our Websites with an online store, we designed our online store to accept orders only from Web browsers that permit communication through Secure Socket Layer (SSL) technology, which encrypts your information while it is being transmitted to us. Browsers that do not meet this requirement will be prevented from navigating the online store section of our Websites. We also use firewalls and other technical, administrative and physical measures to protect the information that you provide to us. 
+
+While we implement the above security measures on this site, you should be aware that 100% security is not always possible. 
+
+**Where should you direct your questions?**
+
+If you have questions or concerns with respect to our Privacy Policy, please contact us through either of the following means:   
+Click here:[ http://bdk.force.com/FAQ/PKB_SubmitCase?brand=Black_Decker](http://bdk.force.com/FAQ/PKB_SubmitCase?brand=Black_Decker) and enter your question. Or call 800-544-6986 | Mon-Fri 8AM-5PM EST 
+
+Last Updated: April 2013 
