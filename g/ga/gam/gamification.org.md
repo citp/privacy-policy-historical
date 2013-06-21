@@ -1,16 +1,19 @@
-> *The following text is extracted and transformed from the gamification.org privacy policy that was archived on 2012-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121109104114id_/http%3A//gamification.org/wiki/Gamification_Wiki%3APrivacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gamification.org privacy policy that was archived on 2013-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130621023936id_/http%3A//gamification.org/wiki/Gamification_Wiki%3APrivacy_policy) for the most accurate reproduction.*
 
 # Gamification Wiki:Privacy policy
 
-##  General Scope
+##  General Scope  
+
 
 This policy covers personally identifiable information collected or stored by Gamification.org on its servers in relation to the Gamification.org and their communities. Consistent with its Data Retention Policy, Gamification.org collects and retains the least amount of personally identifiable information needed to fulfill operational needs.
 
-##  The public and collaborative nature of Gamification.org
+##  The public and collaborative nature of Gamification.org  
+
 
 Gamification.org is collaboratively developed by its users using the MediaWiki software. Anyone with Internet access (and not otherwise restricted from doing so) may edit the publicly editable pages of these sites with or without logging in as a registered user. By doing this, editors create a published document, and a public record of every word added, subtracted, or changed. This is a public act, and editors are identified publicly as the author of such changes. All contributions made to a Project, and all publicly available information about those contributions, are irrevocably licensed and may be freely copied, quoted, reused and adapted by third parties with few restrictions.
 
-##  Activities on Gamification.org
+##  Activities on Gamification.org  
+
 
 In general, this Policy only applies to private information stored or held by Gamification.org which is not publicly available.
 
@@ -18,50 +21,57 @@ Interactions with Gamification.org not covered by this Policy include, but are n
 
 Users may also interact with one another outside of Gamification.org, via email, IRC or other chat, or independent websites, and should assess the risks involved, and their personal need for privacy, before using these methods of communication.
 
-## 
-
 Gamification.org does not require editors to register with a project. Anyone can edit without logging in with a username, in which case they will be identified by network IP address. Users that do register are identified by their chosen username. Users select a password, which is confidential and used to verify the integrity of their account. Except insofar as it may be required by law, no person should disclose, or knowingly expose, either user passwords and/or cookies generated to identify a user. Once created, user accounts will not be removed. It may be possible for a username to be changed, depending on the policies of Gamification.org. Gamification.org does not guarantee that a username will be changed on request.
 
-##  Purpose of the collection of private information
+##  Purpose of the collection of private information  
+
 
 Gamification.org limits the collection of personally identifiable user data to purposes which serve the well-being of Gamification.org, including but not limited to the following:
 
     To enhance the public accountability of Gamification.org.
 
-Gamification.org recognizes that any system that is open enough to allow the greatest possible participation of the general public will also be vulnerable to certain kinds of abuse and counterproductive behavior. Gamification.org has established a number of mechanisms to prevent or remedy abusive activities. For example, when investigating abuse on a project, including the suspected use of malicious “sockpuppets” (duplicate accounts), vandalism, harassment of other users, or disruptive behavior, the IP addresses of users (derived either from those logs or from records in the database) may be used to identify the source(s) of the abusive behavior. This information may be shared by users with administrative authority who are charged by their communities with protecting the Gamification.org.
+Gamification.org recognizes that any system that is open enough to allow the greatest possible participation of the general public will also be vulnerable to certain kinds of abuse and counterproductive behavior. Gamification.org has established a number of mechanisms to prevent or remedy abusive activities. For example, when investigating abuse on a project, including the suspected use of malicious 'sockpuppets' (duplicate accounts), vandalism, harassment of other users, or disruptive behavior, the IP addresses of users (derived either from those logs or from records in the database) may be used to identify the source(s) of the abusive behavior. This information may be shared by users with administrative authority who are charged by their communities with protecting the Gamification.org.
 
     To provide site statistics. Gamification.org statistically samples raw log data from users' visits. These logs are used to produce the site statistics pages; the raw log data is not made public.
     To solve technical problems. Log data may be examined by developers in the course of solving technical problems and in tracking down badly-behaved web spiders that overwhelm the site.
 
-##  Details of data retention
+##  Details of data retention  
 
-###  General expectations
 
-####  IP and other technical information
+###  General expectations  
+
+
+####  IP and other technical information  
+
 
     When a visitor requests or reads a page, or sends email to a Gamification.org server, no more information is collected than is typically collected by web sites. The Gamification.org may keep raw logs of such transactions, but these will not be published or used to track legitimate users.
 
     When a page is edited by a logged-in editor, the server confidentially stores related IP information for a limited period of time. This information is automatically deleted after a set period. For editors who do not log in, the IP address used is publicly and permanently credited as the author of the edit. It may be possible for a third party to identify the author from this IP address in conjunction with other information available. Logging in with a registered username allows for better preservation of privacy.
 
-####  Cookies
+####  Cookies  
+
 
     The sites set a temporary session cookie on a visitor's computer whenever a Project page is visited. Readers who do not intend to log in or edit may deny this cookie; it will be deleted at the end of the browser's session. More cookies may be set when one logs in to maintain logged-in status. If one saves a user name or password in one's browser, that information will be saved for up to 30 days, and this information will be resent to the server on every visit to the same Project. Contributors using a public machine who do not wish to show their username to future users of the machine should clear these cookies after use.
 
-####  Page history
+####  Page history  
+
 
     Edits or other contributions to a Project on its articles, user pages and talk pages are generally retained forever. Removing text from a project does not permanently delete it. Normally, in Gamification.org, anyone can look at a previous version of an article and see what was there. Even if an article is "deleted", a user entrusted with higher level of access may still see what was removed from public view. Information can be permanently deleted by individuals with access to Gamification.org servers, but aside from the rare circumstance when Gamification.org is required to delete editing-history material in response to a court order or equivalent legal process, there is no guarantee any permanent deletion will happen.
 
-####  User contribution
+####  User contribution  
+
 
     User contributions are also aggregated and publicly available. User contributions are aggregated according to their registration and login status. Data on user contributions, such as the times at which users edited and the number of edits they have made, are publicly available via user contributions lists, and in aggregated forms published by other users.
 
-#####  Reading Gamification.org
+#####  Reading Gamification.org  
+
 
     
 
     No more information on users and other visitors reading pages is collected than is typically collected in server logs by web sites. Aside from the above raw log data collected for general purposes, page visits do not expose a visitor's identity publicly. Sampled raw log data may include the IP address of any user, but it is not reproduced publicly.
 
-#####  Editing Gamification.org
+#####  Editing Gamification.org  
+
 
     
 
@@ -73,7 +83,8 @@ Gamification.org recognizes that any system that is open enough to allow the gre
     Unlogged-in registered users and unregistered users:
     Editors who have not logged in may be identified by network IP address. Depending on one's connection, this IP address may be traceable to a large Internet service provider or more specifically to a school, place of business or home. It may be possible to use this information in combination with other information, including editing style and preferences, to identify an author completely.
 
-#####  Discussions
+#####  Discussions  
+
 
     
 
@@ -87,7 +98,8 @@ Gamification.org recognizes that any system that is open enough to allow the gre
     On IRC:
     IRC channels are not officially part of the Gamification.org and are not operated on Gamification.org controlled servers. The IP address of users who chat over such a service may be exposed to other participants. IRC users' privacy on each channel can only be protected according to the policies of the respective service and channel. Different channels have different policies on whether logs may be published.
 
-##  Access to and release of personally identifiable information
+##  Access to and release of personally identifiable information  
+
 
 Access:
 
@@ -122,6 +134,7 @@ If Gamification.org receives a court-filed motion to quash or otherwise limit th
 
 Registered users are not required to provide an email address. However, when an affected registered user does not provide an email address, Gamification.org will not be able to notify the affected user in private email messages when it receives requests from law enforcement to disclose personally identifiable information about the user.
 
-##  Disclaimer
+##  Disclaimer  
+
 
 Gamification.org believes that maintaining and preserving the privacy of user data is an important value. This Privacy Policy, together with other policies, resolutions, and actions by Gamification.org, represents a committed effort to safeguard the security of the limited user information that is collected and retained on our servers. Nevertheless, Gamification.org cannot guarantee that user information will remain private. We acknowledge that, in spite of our committed effort to protect private user information, determined individuals may still develop data-mining and other methods to uncover such information and disclose it. For this reason, Gamification.org can make no guarantee against unauthorized access to information provided in the course of participating in Foundation Gamification.org or related communities.
