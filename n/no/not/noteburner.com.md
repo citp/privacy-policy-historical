@@ -1,11 +1,6 @@
-> *The following text is extracted and transformed from the noteburner.com privacy policy that was archived on 2012-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121123112339id_/http%3A//noteburner.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the noteburner.com privacy policy that was archived on 2013-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130622012855id_/http%3A//noteburner.com/privacy.html) for the most accurate reproduction.*
 
 # Noteburner provides the best DRM removal software, convert m4p to mp3, m4v to mp4, m4a to mp3, m4b to mp3, wma to mp3 etc.
-
-  
-
-
-### Privacy of NoteBurner - We value you as a customer and value your privacy
 
 Our goal in handling information provided to us in connection with the processing of transactions on our Website is to comply with applicable data privacy laws and to offer users of our Website notice, choice, consent, security, data integrity, access and enforcement with regard to personal information provided to us by individuals in conjunction with those transactions.
 
@@ -13,7 +8,7 @@ We are committed to protecting your privacy. We have created this Privacy Policy
 
 We will only collect your personal information for defined purposes. We do not distribute or share your personal information beyond what is strictly necessary to fulfill our obligations to you. We may share your information only with partners who adhere to our commitment to protecting your privacy. We will not sell your personal information in any manner whatsoever.
 
-To remove DRM protection of iTunes audio book on Mac, [NoteBurner Audiobook converter](https://web.archive.org/web/20121123112339id_/http%3A//noteburner.com/mac-audiobook-converter.html) will be your best choice. The audiobook converter can convert your audio books to unprotected MP3 and AAC format. For AAC output, you can even keep the chapters information which allows you to choose favorite chapter to listen on any AAC playable media players and mobile phones.
+To remove DRM protection of iTunes audio book on Mac, [NoteBurner Audiobook converter](https://web.archive.org/web/20130622012855id_/http%3A//noteburner.com/mac-audiobook-converter.html) will be your best choice. The audiobook converter can convert your audio books to unprotected MP3 and AAC format. For AAC output, you can even keep the chapters information which allows you to choose favorite chapter to listen on any AAC playable media players and mobile phones.
 
 #### What information do we collect? What do we use it for?
 
