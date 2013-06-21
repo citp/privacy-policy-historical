@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the escapegames24.com privacy policy that was archived on 2012-10-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121005014441id_/http%3A//www.escapegames24.com/2006/01/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the escapegames24.com privacy policy that was archived on 2013-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130621072607id_/http%3A//www.escapegames24.com/2006/01/privacy-policy.html) for the most accurate reproduction.*
 
-# Privacy Policy Walkthrough, Hints, Tips, Cheats, Solutions, Help, Guide
+# Privacy Policy Walkthrough
 
   
 Privacy Policy for www.escapegames24.com
