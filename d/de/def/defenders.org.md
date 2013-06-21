@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the defenders.org privacy policy that was archived on 2012-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121221005549id_/http%3A//www.defenders.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the defenders.org privacy policy that was archived on 2013-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130621235551id_/http%3A//www.defenders.org/privacy) for the most accurate reproduction.*
 
 # Defenders of Wildlife Privacy Policy | Defenders of Wildlife
 
@@ -74,7 +74,7 @@ Defenders of Wildlife works with our sister organization, Defenders of Wildlife 
 
 Many of our websites are jointly operated by Defenders of Wildlife and our sister organization, the Defenders of Wildlife Action Fund. These sites include: Defenders Wildlife Action Center ([http://action.defenders.org](http://action.defenders.org/)), and Defenders sentinel sites such as [www.saveesa.org](http://www.saveesa.org/), [www.savearcticrefuge.org](http://www.savearcticrefuge.org/), and [www.wolfcampaign.org](http://www.wolfcampaign.org/). Your privacy will be protected on these sites in accordance with this privacy policy as they are on websites operated solely by Defenders of Wildlife. websites jointly operated by Defenders of Wildlife and the Defenders of Wildlife Action Fund will be clearly noted—typically in the footer.
 
-You should be aware that we use third-party vendors to provide services on this site and in our offline business operations. The information that you submit on this site may be provided to those vendors on a confidential basis so that those vendors can provide services (such as maintaining our database, sending e-mail messages to activists, facilitating our fundraising activities and campaigns, or processing credit card transactions) on our behalf.
+You should be aware that we use third-party vendors to provide services on this site and in our business operations. The information that you submit on this site may be provided to those vendors on a confidential basis so that those vendors can provide services (such as maintaining our database, sending e-mail messages to activists, facilitating our fundraising activities and campaigns, or processing credit card transactions) on our behalf.
 
  **Other than as described in this privacy policy, or as may be necessary to protect the rights, property, and safety of our organization or others, or as may be necessary to comply with applicable law, Defenders will not give, share or sell the personal information you provide online.**
 
