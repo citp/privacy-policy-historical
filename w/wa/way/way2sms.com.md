@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the way2sms.com privacy policy that was archived on 2012-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120620035739id_/http%3A//www.way2sms.com/content/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the way2sms.com privacy policy that was archived on 2013-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130621063844id_/http%3A//www.way2sms.com/content/privacypolicy.html) for the most accurate reproduction.*
 
 # Way2SMS - Privacy Policy
-
-## Privacy Policy 
 
 Way2Online Interactive India Pvt Ltd and its subsidiaries ([www.way2sms.com](http://www.way2sms.com/)) takes your privacy seriously. Please read the following to learn more about our privacy policy.You are advised to please read the Privacy Policy carefully. By accessing the services provided by Way2SMS.com you agree to the collection and use of your data by Way2SMS in the manner provided in this Privacy Policy.
 
