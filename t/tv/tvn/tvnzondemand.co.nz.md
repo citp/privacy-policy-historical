@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tvnzondemand.co.nz privacy policy that was archived on 2012-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121222230820id_/http%3A//tvnz.co.nz/community/privacy-policy-4662861) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tvnzondemand.co.nz privacy policy that was archived on 2013-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130621154540id_/http%3A//tvnz.co.nz/community/privacy-policy-4662861) for the most accurate reproduction.*
 
 # Community | Television New Zealand | Entertainment | TV One, TV2, U
 
