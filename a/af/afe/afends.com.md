@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the afends.com privacy policy that was archived on 2012-11-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121117022759id_/http%3A//afends.com/info/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the afends.com privacy policy that was archived on 2013-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130621052252id_/http%3A//afends.com/info/privacy-policy) for the most accurate reproduction.*
 
 # Afends - Privacy Policy
 
