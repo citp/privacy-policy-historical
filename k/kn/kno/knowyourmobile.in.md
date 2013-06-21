@@ -1,61 +1,73 @@
-> *The following text is extracted and transformed from the knowyourmobile.in privacy policy that was archived on 2011-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111122041643id_/http%3A//www.knowyourmobile.in/aboutus/privatepolicy/260638/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the knowyourmobile.in privacy policy that was archived on 2013-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130622015129id_/http%3A//www.dennis.co.uk/privacy) for the most accurate reproduction.*
 
-# Privacy Policy - Know Your Mobile India
+# Dennis Publishing - Privacy Notice
 
-  
+## Privacy Notice
+
+Last Updated April 2013
+
+We have published a new [cookie policy](https://web.archive.org/cookie-policy). It explains what cookies are and how we use them on our site. To learn more about cookies and their benefits, please view our [cookie policy](https://web.archive.org/cookie-policy). If you'd like to disable cookies on this device, please visit [www.aboutcookies.org](http://www.aboutcookies.org/) for more information on how to do this. Please be aware that parts of the site will not function correctly if you disable cookies. By using our websites you consent to our use of cookies on this device in accordance with our [cookie policy](https://web.archive.org/cookie-policy) unless you have disabled them.
+
+### Dennis Publishing Privacy Notice
+
+Your personal information is being processed by Dennis Publishing (UK) Ltd (“we”). We are committed to managing your personal information in accordance with current legislation and best practice. Our aim is to be responsible, relevant and secure when using your data. You can find out more about us by visiting [www.dennis.co.uk/about-us](http://www.dennis.co.uk/about-us).
+
+Whenever you provide personal information we will treat that information in accordance with this Notice. We endeavour at all times to keep your data accurate and secure, and to honour your data preferences with regard to receipt of direct marketing e.g. email, mobile messaging and mobile telephone calls. 
+
+Dennis Publishing (UK) Ltd publishes over fifty magazines, websites, e-zines and mobile phone sites (brands) all of which are governed by this Privacy Notice. For an up to date list of these brands please visit 
+
+[www.dennis.co.uk/brands](http://www.dennis.co.uk/brands/). Below is a non-exhaustive list of our well-known brands.
+
+Auto Express, bit-tech, Bizarre, Channel Pro, Computer Shopper, Custom PC, Digital SLR Photography, EVO, Fortean Times, iGizmo, iMotor, InsidePoker, InsidePoker Business, IT Pro, Know Your Mobile, Mac Channel, MacUser, Maxim, Men's Fitness, Micro Mart, Mobile Computer, Monkey, Octane, PC Pro, PokerPlayer, The First Post, The Week and Viz.
+
+Dennis Publishing (UK) Ltd includes subsidiary companies Dennis Publishing Ltd, Evo Publications Ltd, The Week Ltd, Dennis Lifestyle Ltd, It’s in the Bag Ltd, Three PM Ltd, Four PM Ltd, First Post Newsgroup Ltd, Halo Publishing Ltd, Bit Publishing Ltd, Octane Media Ltd and Octane (Media) Holdings Ltd. Choice Publishers Limited, The Magazine Group, Dennis Interactive Ltd, I Feel good (Holdings) limited and I Feel Good Limited.
+
+Dennis Publishing (UK) Ltd had formed partnerships with a variety of carefully selected companies. Below is a non-exhaustive list of our key partners:   
+IPC Media Ltd   
+Jellyfish Online Marketing   
+Audience Science  
+Hearst UK trading as The National Magazine Company  
+Hearst UK trading as Hachette Filipacchi  
 
 
-## The Privacy Policy of Dennis Transasia Media
+## What information we collect
 
-Published on Jun 2, 2009
+To provide you with the best possible customer experience we may ask you to submit personal information such as your name, postcode, email address and mobile phone number. Providing this personal information helps us to provide you with a better experience e.g. not having to login to websites each time you visit and showing you content that really interests you.   
+Additionally we use web technologies e.g. cookies and web beacons, to automatically track and log limited personal data and link this with information you or other suppliers have provided. For detailed information on Cookies and how you can choose to allow or prevent sites accessing cookies, see [www.allaboutcookies.org](http://www.allaboutcookies.org/).  
+Anonymous data will be recorded for the purpose of reporting web traffic statistics, advertisement 'click-throughs', and/or other activities on our sites.
 
-Dennis Media Transasia India values the privacy of those who use our web site, products and services and makes all commercially reasonable efforts to protect it. This Privacy Policy covers the collection, use and disclosure of personal information that may be collected any time you interact with us, such as when you visit our web site knowyourmobile.in, use or purchase our products and services, or communicate with us. Please read the following to learn more about what information we collect, what we do with that information, and how we may use your personal information.
+Furthermore we work with our partners Audience Science, to carry out Online Behavioural Advertising on our websites. Online Behavioural Advertising aims to provide you with more carefully targeted advertising. If you wish to know more about Online Behavioural Advertising or you wish to opt out of Online Behavioural Advertising by Audience Science please go to  [ www.youronlinechoices.com/uk  ](http://www.youronlinechoices.com/uk) .
 
-**Information Collection and Use**  
-The primary reason that we collect certain personal information is to provide the best possible level of customer service. It enables us to deliver product announcements, software updates and special offers as well as provide convenient and personalized user access and improve the features and usability of our products/information.   
-We may collect information and use it for internal business purposes in a number of situations, for example:  
-• Personal information such as name, e-mail address, contact preferences, which products and services you use, and transactional information such as your credit card number — to deliver and support our products and services;   
-• Demographic information such as your occupation and where you use your computer and mobile devices — to improve our understanding of our customer needs;   
-• Tracking information about your visit from the browser or application on your computer or mobile device, including IP address, cookies and the pages you request — to analyze trends, administer the site, track your navigation of the site, deliver relevant advertisements, information and gather broad demographic information for aggregate use (note that IP addresses are not linked to "personally identifiable information"); and   
-• Aggregate information from multiple users without personally identifying individuals, such as geographic region, which we may share with our business partners — to improve understanding of customer needs and provide relevant services.   
-You may elect to terminate your participation in the services at any time and/or delete information and material you have posted to any notebook. If you cancel your account, or delete any notebook or notebook content, it will no longer be accessible to you or others who may access the service, but there may continue to be residual copies of such information due to the nature of the computer system's operation and ongoing data back-up and archiving.
+**How we use your data**
 
-**Your Username and related information**  
-The knowyourmobile.in web site allows you to create a "Username" based on your personal information. This is required in order to take full advantage of our services and any downloadable software products. It also allows us to provide more personalized and convenient service and saves time when you want to use our services, update your software or settings, or search for the requisite information.
+The personal information we obtain will be used for the following purposes.
 
-**Public information**  
-Certain portions of the knowyourmobile.in web sites and services are open to any online viewer, such as user notebooks designated as "public," and our user forum. Any information that you post in these locations can be read, collected and used by anyone, and could enable others to send you unsolicited messages. We enable you to determine whether or not to post personal or otherwise sensitive information to publically accessible areas of our site, and so you should carefully consider how you use the services. We are not responsible for any publication or use of any personal information you choose to post in these locations.
+Technical administration of the web site, enhancing your experience of the site, research and development, customer service, marketing, advertising targeting and making your personal data available to selected partners. This will include Dennis and our partners sending you information about products and services that will be relevant to you, by email, mobile messaging, postal mail or direct telephone contact. All of the above are subject to your stated preferences; we and our content partners will always make it clear how you can prevent i.e. opt-out of these uses.
 
-**Information disclosure to third parties**  
-When you post information to the knowyourmobile.in sites, you are granting us permission to use and take other actions with respect to such information (as described in the Terms of Service), in order to provide services. We do not share, sell, rent or otherwise distribute this information to others, except as disclosed in this Privacy Policy. We may share your information with others outside of knowyourmobile.in under the following circumstances:  
-• We have your explicit consent to share the information;   
-• We need to share your information to fulfil your product or service request;   
-• We wish to contact you with information about products and services from our business partners, which we may do unless you "opt-out" of such communications by contacting us via the contact form, or by clicking the unsubscribe link found within our email updates;   
-• We have a good faith belief that sharing or otherwise permitting access, disclosure, use or preservation of such information is reasonably necessary in order to comply with our legal obligations;   
-• You have explicitly requested information from our business partners, in which case it will be clear at the point of collection who is collecting the personal information and whose privacy statement will apply;   
-• We believe it is necessary in order to investigate, prevent or take action regarding illegal activities, suspected fraud or potential threats against persons or property;   
-• We believe it is necessary to investigate potential violations of our Terms of Service, or to enforce those Terms of Service; or   
-• We have a relationship with an affiliate or partner that you have an online or off-line (non-Internet) relationship with, or have visited the affiliate or partner's web site that links to or mentions our web site, and have registered for our online services through the partner or affiliate's program or web site.
+We may use third party suppliers to provide part of our service to you. In some circumstances these providers may be based in countries outside the European Economic Area whose laws provide for a different standard of protection for your personal information than that provided under UK Law. In such circumstances we will have in place strict contractual arrangements that will require your information is processed securely, at least to a standard equivalent to the UK Data Protection Act 1998.   
+Your personal data will not be disclosed to state institutions and authorities except if required by law or other regulation. Before we release data on this basis, we will ensure that the information is being provided to a genuine and properly authorised investigation. If we are not satisfied that there are valid grounds for releasing the information, the Data Protection Act does not oblige us to do so. If we refuse to release the information, law enforcement agencies may obtain a court order requiring us to provide it. ****
 
-**Cookies**  
-Cookies are small data files that a web site you visit may save on your hard drive that usually includes an anonymous unique identifier. A cookie cannot retrieve any other data from your hard drive, pass on computer viruses, or capture your e-mail address. The knowyourmobile.in web site uses cookies for user authentication, keeping track of your preferences, promotional campaigns that require user identification, keeping track of our audience size and traffic patterns, and in certain other cases.  
-You can configure your browser to accept cookies, reject cookies or notify you when a cookie is being used. However, if you configure your browser to reject cookies, you may not be able to use our products or services that require you to sign in or take advantage of all the features of knowyourmobile.in.  
-We may allow third party business partners that display advertisements on some of our web pages to maintain their own cookies on your computer. These business partners do not have access to our cookies and their use is subject to their own privacy policies.
+**Individual Choice** ****
 
-**Links**  
-The knowyourmobile.in web site and services may contain links to other sites. We are not responsible for the privacy policy or other practices employed by web sites linked to, or from, our web site nor the information or content contained therein. This privacy statement applies solely to information collected by this web site.
+You can change your personal information preferences and/or details at any time. As a magazine subscriber you can access your preferences by logging on to www.subsinfo.co.uk using your SubsInfo password. If you have registered on a Dennis Publishing (UK) Ltd website you can access your personal information preferences by logging in to our registration system and using the username and password details you selected. You can also unsubscribe to any/all lists by sending an email request to [privacy@dennis.co.uk](mailto:privacy@dennis.co.uk). (including your full name, postcode and magazine subscription / website registration / competition information). 
 
-**Data Security**  
-We are committed to protecting the security of your information and takes reasonable precautions to protect it. However, Internet data transmissions, whether wired or wireless, cannot be guaranteed to be 100% secure and as a result we cannot ensure the security of information you transmit to us; accordingly, you acknowledge that you do so at your own risk. Once we receive your data transmission, we make all commercially reasonable efforts to ensure its security on our systems:  
-• Your password is protected by encryption and only you have access to it;   
-• Your personal information and data stored in our systems is protected by various physical, electronic and procedural safeguards. It is housed in a secure facility and we restrict physical and network access to this facility to select trained staff and regularly evaluate its technologies, facilities, procedures and potential risks to maintain the security and privacy of our users' data. As a rule, our employees do not monitor or view your personal information or content stored in the our service, but it may be viewed if we learn that our Terms of Service may have been violated and confirmation is required, or we otherwise determine that we have an obligation to review it; and   
-• Certain services provided by us support the use of standard SSL encryption to protect data transmissions. However, this is not a guarantee that such data transmissions cannot be accessed, altered or deleted due to firewall or other security software failures.   
-If knowyourmobile.in learns of a security system breach we may attempt to notify you and provide information on protective steps, if available, through the e-mail address that you supplied during registration or posting a notice on our web site. Depending on where you live, you may have a legal right to receive such notices in writing. To request written notice of any security breach in writing, please send an e-mail with your request and mailing address to compliance AT evernote.com or via postal mail to the address in the Contact Us section below.
+You will ALWAYS be given a straightforward way to opt out from our direct marketing each time you receive a communication from us or one of our advertising partners.
 
-**Children**  
-knowyourmobile.in is not currently directed to children and we currently require users to verify that they are at least 13 years of age upon registration. We will not knowingly collect personal information relating to children less than 13 years of age, and if we learn that we have inadvertently done so, we will promptly delete it.
+**Access to Personal Information** **  
+**If you wish, you can obtain a copy of any personal information we have about you by sending your request to The Data Controller, Dennis Publishing (UK) Ltd, 30 Cleveland Street, London, W1T 4JD.  
+We will provide you, at no charge, with a hard copy of the personal data that we keep about you within 30 days, although we will require proof of your identity. If you consider that the information we hold about you is incorrect, you may where appropriate, have the data erased, amended or updated. 
 
-**Changes and Updates**  
-As this Privacy Policy may be updated from time to time, we will revise and display the effective date at the top of the web page. You should periodically review it to keep abreast of our plans and procedures to protect the personal information that we collect. Your continued use of our services constitutes your agreement to this Privacy Policy and any updates.
+**Personal information security**
 
-If knowyourmobile.in should ever sell its assets, merge with another entity or file for bankruptcy, information collected from this web site and in the operation of the services may be transferred as assets of knowyourmobile.in.
+Dennis Publishing (UK) Ltd security policies, rules and technical measures have been implemented to protect your personal information from unauthorised or improper use and from accidental loss.
+
+All our employees and data processors that have access to, and are associated with, the processing of your personal information are legally obliged to respect the confidentiality of your data and are bound by contract to do so.
+
+Note that some of our websites provide forums where you can post information. When you do so, be aware that other visitors may collect any information you make public.
+
+**Privacy Support**
+
+If you have an enquiry or concern about our Privacy Notice, please contact: The Data Controller, Dennis Publishing (UK) Ltd, 30 Cleveland Street, London, W1T 4JD. If you are not satisfied with our response you may wish to contact the Information Commissioner via their [website](http://www.ico.gov.uk/)
+
+If we decide to change our Privacy Notice we will post these changes on this page so that you are always aware of what information we collect, how we use it and in what circumstances we disclose it.  
+In the event of any part of Dennis Publishing (UK) Ltd either being sold or going into receivership, we reserve the right to continue to share your data to third parties in accordance with the latest preferences you have provided. You will be informed should any change of ownership occur, and the new owner will manage your personal information preferences.
