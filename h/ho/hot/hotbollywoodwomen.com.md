@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hotbollywoodwomen.com privacy policy that was archived on 2012-10-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121024043603id_/http%3A//hotgirlsofbollywood.blogspot.com/2009/09/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hotbollywoodwomen.com privacy policy that was archived on 2013-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130621125044id_/http%3A//hotgirlsofbollywood.blogspot.com/2009/09/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy PolicyHot Bollywood Women
 
