@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the chatabout.com privacy policy that was archived on 2012-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120622202428id_/http%3A//chatabout.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chatabout.com privacy policy that was archived on 2013-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130621100941id_/http%3A//chatabout.com/privacy) for the most accurate reproduction.*
 
 # Chat About Privacy Policy
 
