@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the jobadder.com privacy policy that was archived on 2012-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121016140144id_/http%3A//jobadder.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jobadder.com privacy policy that was archived on 2013-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130621200723id_/http%3A//jobadder.com/privacy) for the most accurate reproduction.*
 
 # Privacy - JobAdder
 
 ## JOB ADDER PRIVACY POLICY
 
-Job Adder Pty Ltd ( **JOB ADDER** ) understands that privacy is important to you, and is committed to complying with the National Privacy Principles (NPPs), which are contained in the _Privacy Act 1988_ (Privacy Act).
+Job Adder Pty Ltd ATF Job Adder Unit Trust ABN 90 375 665 944 ( **JOB ADDER** ) understands that privacy is important to you, and is committed to complying with the National Privacy Principles (NPPs), which are contained in the  _Privacy Act 1988_  (Privacy Act).
 
 From 21 December 2001, the NPPs have governed how organisations in the private sector handle 'personal information' (which is basically information which can identify you).
 
@@ -75,17 +75,17 @@ This JOB ADDER Privacy Policy may change from time to time. The JOB ADDER Privac
 
 If you have any questions or comments about the JOB ADDER Privacy policy, or if you wish to make a complaint about how JOB ADDER have handled personal information about you, please contact us, using the contact details below:
 
-**Email:**  
+**Email:**    
 [support@jobadder.com](mailto:support@jobadder.com)
 
-**Post:**  
-Job Adder Pty Ltd  
-Level 3, 19-31 Pitt St  
+**Post:**    
+Job Adder Pty Ltd   
+Level 3, 19-31 Pitt St   
 Sydney NSW 2000
 
-**Telephone:**  
+**Telephone:**    
 \+ 61 2 9955 1555
 
-For further information about privacy issues and the protection of privacy visit the Australian Federal Privacy Commissioner's web site at [www.privacy.gov.au](http://www.privacy.gov.au/).
+For further information about privacy issues and the protection of privacy visit the Australian Federal Privacy Commissioner's web site at [www.privacy.gov.au](http://www.privacy.gov.au/).
 
 Our Privacy Policy was last updated on 25 November 2010.
