@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the freewarefiles.com privacy policy that was archived on 2012-09-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120920040311id_/http%3A//www.freewarefiles.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freewarefiles.com privacy policy that was archived on 2013-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130622015731id_/http%3A//www.freewarefiles.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy - Freeware Files.com
 
@@ -24,8 +24,6 @@ Software developers who hold individual accounts with FreewareFiles.com for the 
 Individual account holders with FreewareFiles.com may, at any time, access their product information through the use of their private accounts. Users may add, delete, or modify their product information without prior permission from FreewareFiles.com, but before information is published on our site, all product information will be reviewed and must be approved by us. To protect your privacy and security, we take reasonable steps to verify your identity before granting access or making corrections. Only you can access this account by using your unique Logon ID and Password.
 
 You may request deletion of your FreewareFiles.com account by contacting [Customer Support](http://www.freewarefiles.com/contactus.php).
-
-Individuals who are subscribers to our newsletter who wish to to be removed may do so by unsubscribing using our [online form](http://www.freewarefiles.com/newsletter.php).
 
 **Third Party Advertising**
 
