@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the thefirstpost.co.uk privacy policy that was archived on 2012-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121231134225id_/http%3A//www.dennis.co.uk/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thefirstpost.co.uk privacy policy that was archived on 2013-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130622015129id_/http%3A//www.dennis.co.uk/privacy) for the most accurate reproduction.*
 
 # Dennis Publishing - Privacy Notice
 
 ## Privacy Notice
 
-Last Updated May 2012
+Last Updated April 2013
 
-We have published a new [cookie policy](https://web.archive.org/cookie-policy). It explains what cookies are and how we use them on our site. To learn more about cookies and their benefits, please view our [cookie policy](https://web.archive.org/cookie-policy). If you'd like to disable cookies on this device, please visit [www.aboutcookies.org](http://www.aboutcookies.org/) for more information on how to do this. Please be aware that parts of the site will not function correctly if you disable cookies. By using our websites you consent to our use of cookies on this device in accordance with our [cookie policy](https://web.archive.org/cookie-policy) unless you have disabled them.
+We have published a new [cookie policy](https://web.archive.org/cookie-policy). It explains what cookies are and how we use them on our site. To learn more about cookies and their benefits, please view our [cookie policy](https://web.archive.org/cookie-policy). If you'd like to disable cookies on this device, please visit [www.aboutcookies.org](http://www.aboutcookies.org/) for more information on how to do this. Please be aware that parts of the site will not function correctly if you disable cookies. By using our websites you consent to our use of cookies on this device in accordance with our [cookie policy](https://web.archive.org/cookie-policy) unless you have disabled them.
 
 ### Dennis Publishing Privacy Notice
 
@@ -28,7 +28,6 @@ Jellyfish Online Marketing
 Audience Science  
 Hearst UK trading as The National Magazine Company  
 Hearst UK trading as Hachette Filipacchi  
-Magiq Limited which is part of the Speed-Trap Group of Companies  
 
 
 ## What information we collect
