@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fredericks.com privacy policy that was archived on 2012-10-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121019215544id_/http%3A//www.fredericks.com/on/demandware.store/Sites-FoH-Site/default/CustServ-PrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fredericks.com privacy policy that was archived on 2013-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130621062138id_/http%3A//www.fredericks.com/on/demandware.store/Sites-FoH-Site/default/CustServ-PrivacyPolicy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -54,7 +54,9 @@ We offer message boards, personal web pages, chat rooms and blogs on some of our
 If you do not wish to be contacted via email, direct mail or telephone, please let us know your preferences by [contacting Customer Service](http://www.fredericks.com/on/demandware.store/Sites-FoH-Site/default/Page-ContactUs). Please provide your exact name, mailing address, email address and/or telephone number so that we may identify you correctly. You may also unsubscribe from our email using the link provided in each email <http://www.fredericks.com/on/demandware.store/Sites-FoH-Site/default/Page-EmailUnsubscribe>. If you ask us to remove you from promotional lists, we will maintain your name on a "do not contact" list to ensure that we continue to honor your requests. Due to privacy concerns and our inability to verify individual requests and contact information, we are unable to honor "opt out" requests made by a third party on your behalf. It may take up to five business days to process your email request and, due to the fact that mailings are planned long in advance, 60 days to process your postal mail request. When you purchase online, we will continue to confirm your order and shipment status via email and, if questions arise concerning your order, we may contact you via email, postal address or telephone number. If you change your mind about your choices, you may start receiving promotional communications from us again by logging onto your online account and changing your preferences, by signing up when you visit our websites or stores, when you enter a contest, sweepstakes or survey, or by contacting customer service.
 
 **Accessing and Changing Your Information**  
-To review or change the information you previously provided, log in to your account at fredericks.com. You may update stored information by clicking "Personal Info” to manage your email and account information, “Address Book” to manage your shipping destinations or “Payment Methods” to manage your payment information. Be sure to click "Save" when you complete your changes. You may also change or access this information by calling (800) 323.9525 or by emailing [custserv@fredericks.com](http://www.fredericks.com/on/demandware.store/Sites-FoH-Site/default/Page-ContactUs).
+To review or change the information you previously provided, log in to your account at fredericks.com. You may update stored information by clicking "Personal Info” to manage your email and account information, “Address Book” to manage your shipping destinations or “Payment Methods” to manage your payment information. Be sure to click "Save" when you complete your changes. You may also change or access this information by calling (800) 323.9525
+
+.
 
 **Cookies and Web Beacons**  
 Your web browser offers so-called “cookies” which, if you allow their use, store small amounts of data on your computer when you visit a website. Cookies do not contain any personal information about you and therefore cannot be used to identify you personally. However, cookies assist us in tracking which of our features you like best. For example, cookies allow us to know that the person who added the Hollywood Exxtreme Cleavage® Bra to their basket is the same person as the one who wants the satin and lace corset. Therefore, cookies enable us to customize our content according to your preferences. You have the ability to accept or decline cookies by modifying your browser and our websites are viewable even if you disable the cookie function on your browser. However, if you disable cookies, some advanced and customized features or offerings will not be available to you.
@@ -86,7 +88,6 @@ Frederick’s of Hollywood, Inc.
 Customer Service Department  
 P.O. Box 2949  
 Phoenix, AZ 85062-2949  
-(800) 323-9525  
-[custserv@fredericks.com](http://www.fredericks.com/on/demandware.store/Sites-FoH-Site/default/Page-ContactUs)
+(800) 323-9525
 
 Updated: October 2011 
