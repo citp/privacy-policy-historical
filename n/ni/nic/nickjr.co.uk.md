@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nickjr.co.uk privacy policy that was archived on 2012-10-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121017132824id_/http%3A//www.nickjr.co.uk/info/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nickjr.co.uk privacy policy that was archived on 2013-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130621083534id_/http%3A//www.nickjr.co.uk/info/privacy) for the most accurate reproduction.*
 
 # Info for parents | Nick Jr
 
@@ -78,7 +78,7 @@ Apart from the above, Nick UK will only pass on your information to third partie
 
 As Nick UK and its associated companies operate throughout the world, it may be necessary to transfer your information outside of the UK or even Europe. If Nick UK needs to do this, Nick UK promises that any of Nick UK’s associated companies will comply with UK and/or European law in respect of data protection and will comply with the terms of this policy. 
 
-In particular, Nick UK may transfer your information to its associated companies in the United States, such as Nick US. These companies comply with a US-EU agreement called Safe Harbor, which ensures that US companies satisfy European laws about how your information is used. More information on the Safe Harbor Privacy Policy can be found here. 
+In particular, Nick UK may transfer your information to its associated companies in the United States, such as Nick US. These companies comply with a US-EU agreement called Safe Harbor, which ensures that US companies satisfy European laws about how your information is used. More information on the Safe Harbor Privacy Policy can be found [here](http://www.viacom.com/privacypolicy/Documents/VIACOM-610657-v1-Safe_Harbor_Policy.pdf)
 
 If your information is passed on to any international third parties, Nick UK will make sure that they also subscribe to Safe Harbor principles, satisfy European laws or agree in writing to provide the same level of protection as the Safe Harbor principles. 
 
