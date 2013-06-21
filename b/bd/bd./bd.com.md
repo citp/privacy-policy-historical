@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the bd.com privacy policy that was archived on 2012-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121011061027id_/http%3A//bd.com/legal/privacy_policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bd.com privacy policy that was archived on 2013-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130621181237id_/http%3A//www.bd.com/legal/privacy_policy.asp) for the most accurate reproduction.*
 
 # Legal - Privacy Statement and Consent to Use of Data
-
-## **PRIVACY STATEMENT AND CONSENT TO USE OF DATA**
 
 ### **IMPORTANT**
 
@@ -75,16 +73,17 @@ We keep your Personal Data only for as long as reasonably necessary for the purp
 
 In addition, in certain circumstances, BD may decline to provide access to Personal Data, including where BD determines that the information requested: 
 
-  * (a) May disclose: 
-    * a. The Personal Data of another individual or of a deceased individual; or
+  * (a) May disclose:
+  *     * a. The Personal Data of another individual or of a deceased individual; or
     * b. Trade secrets or other business confidential information;
   * (b) Is subject to attorney-client or litigation privilege or a professional privilege or obligation;
   * (c) Is not readily retrievable and the burden or cost of providing would be disproportionate to the nature or value of the information;
   * (d) Does not exist, is not held, or cannot be found by BD;
-  * (e) Could reasonably result in serious harm to the treatment or recovery of the individual concerned, serious emotional harm to the individual or another individual, or serious bodily harm to another individual; or
+  * (e) Could reasonably result in serious harm to the treatment or recovery of the individual concerned, serious emotional harm to the individual or another individual, or serious bodily harm to another individual; or 
   * (f) May harm or interfere with law enforcement activities or other investigative or regulatory functions of a body authorized by statute to perform such functions.
 
-  
+
+
 Please note that although after receiving a request to update, correct or delete information, we will make reasonable efforts to effect such a change promptly, it is not always possible to complete the process before another communication is distributed. We apologize for any inconvenience this may cause. Even if you have requested removal of your Personal Data from our lists, BD reserves the right to retain it in our files in some limited circumstances such as when such Personal Data may be necessary to honor your request to opt out of further communications, resolve disputes, troubleshoot problems or as provided in our [Terms and Conditions](https://web.archive.org/legal/terms.asp). If BD is required to retain any portion of the Personal Data for such purposes, BD shall use reasonable efforts to limit such Personal Data to what is necessary to accomplish the particular purpose. Further, you acknowledge that due to technical constraints and the fact that we back up our systems, Personal Data may continue to reside in our systems even after deletion. Therefore, you should not expect that your Personal Data will be completely removed from our systems in response to your request.
 
 BD will not respond to repetitious or vexatious requests for access. In determining whether a request is repetitious or vexatious, it will consider such factors as the frequency with which information is updated, the purpose for which the information is used, and the nature of the information.
@@ -95,11 +94,9 @@ BD will not respond to repetitious or vexatious requests for access. In determin
 
 BD uses the Personal Data you provide for our business purposes in a manner that is consistent with this Privacy Statement and Consent. 
 
-  * If you provide Personal Data for a certain reason, that Personal Data will be available to us for use in connection with the reason for which it was provided or for a consistent purpose, including, if applicable, processing an order placed by you or informing you that the product is no longer available. For instance, if you contact us by e-mail, we may use the Personal Data you provide to respond to you; or if you contact us about a job listing, the information you provide to us may be used to consider you for the position. We may also combine Personal Data that you have provided to us with information obtained by us from other parties.  
-
-  * BD and its affiliates also may use your Personal Data, User Data and other information collected through the Site to help us improve the content and functionality of the Site, to better understand our customers and markets, to improve our products and services and to effect and facilitate sales.   
-
-  * BD and its affiliates may use this information to contact you, electronically, through telemarketing or otherwise, in the future to tell you about, and to offer for sale, products or services we believe will be of interest to you. If we do so, each communication we send you will contain instructions permitting you to "opt out" of receiving future communications. 
+  * If you provide Personal Data for a certain reason, that Personal Data will be available to us for use in connection with the reason for which it was provided or for a consistent purpose, including, if applicable, processing an order placed by you or informing you that the product is no longer available. For instance, if you contact us by e-mail, we may use the Personal Data you provide to respond to you; or if you contact us about a job listing, the information you provide to us may be used to consider you for the position. We may also combine Personal Data that you have provided to us with information obtained by us from other parties.
+  * BD and its affiliates also may use your Personal Data, User Data and other information collected through the Site to help us improve the content and functionality of the Site, to better understand our customers and markets, to improve our products and services and to effect and facilitate sales. 
+  * BD and its affiliates may use this information to contact you, electronically, through telemarketing or otherwise, in the future to tell you about, and to offer for sale, products or services we believe will be of interest to you. If we do so, each communication we send you will contain instructions permitting you to "opt out" of receiving future communications.
 
 
 
@@ -155,6 +152,3 @@ Attention: Privacy Officer
 Or visit our “[Contact Us](https://web.archive.org/support/contact/)” section.
 
 [ Return to Table of Contents. ]
-
-|   
----|---
