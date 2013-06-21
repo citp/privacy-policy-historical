@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the amiright.com privacy policy that was archived on 2012-09-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120926102730id_/http%3A//www.amiright.com/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the amiright.com privacy policy that was archived on 2013-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130621023613id_/http%3A//www.amiright.com/privacy.shtml) for the most accurate reproduction.*
 
 # Am I Right - Privacy Statement
 
@@ -32,4 +32,4 @@ If you have any questions about this privacy statement, the practices of this si
 
 ChuckyG  
 amIright.Com  
-[chuck@worcestermass.com](mailto:chuck@worcestermass.com)
+[Contact Info](http://www.chuckyg.com/contact.shtml)
