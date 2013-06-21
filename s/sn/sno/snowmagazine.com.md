@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the snowmagazine.com privacy policy that was archived on 2012-07-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120702123632id_/http%3A//www.snowmagazine.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the snowmagazine.com privacy policy that was archived on 2013-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130621183901id_/http%3A//www.snowmagazine.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy
 
@@ -36,7 +36,7 @@ We shall only use your personal data for the following purposes where applicable
 (g) for our own internal purposes in connection with risk control, resolving consumer disputes; and  
 (h) for producing statistics and other information relating to our business and the users of our website.
 
-You may at any time revoke your consent to us contacting you for the purposes noted in (d) and (e) above by contacting us at [here](http://www.snowmagazine.com/component/contact/12-contacts/1-snowmagazinecom), or by unsubscribing from our email mailing lists by following the procedure set out in any of the relevant emails that we send you.
+You may at any time revoke your consent to us contacting you for the purposes noted in (d) and (e) above by contacting us at [here](http://snowmagazine.com/component/contact/contact/12-contacts/1-snowmagazinecom), or by unsubscribing from our email mailing lists by following the procedure set out in any of the relevant emails that we send you.
 
 General Information
 
@@ -80,7 +80,7 @@ NOTE. Some of the advertisements on our website may contain cookies, GIFs, or ot
 
 At your request we shall make any amendments that you stipulate to the personal data that you have supplied us with. If you require it we shall also remove your name and personal data from our database. This shall be on the basis that you shall be deemed to have cancelled any contract or licence you may have had with us that the personal data in question related to, and (as we shall not have been at fault in those circumstances) you shall not be entitled to any compensation or refunds in relation to the cancellation of the applicable contract or licence.
 
-Please contact us at [here](http://www.snowmagazine.com/component/contact/12-contacts/1-snowmagazinecom) in relation to the matters to which this point 7 relates, or if you have any questions or concerns regarding our privacy policy.
+Please contact us at [here](http://snowmagazine.com/component/contact/contact/12-contacts/1-snowmagazinecom) in relation to the matters to which this point 7 relates, or if you have any questions or concerns regarding our privacy policy.
 
  **APP Privacy Policy**
 
@@ -117,7 +117,7 @@ Our Apps may contain links to other websites of interest. However, once you have
  **Controlling your personal information**  
 You may choose to restrict the collection or use of your personal information in the following ways:
 
-whenever you are asked to fill in a form on the App, look for the box that you can click to indicate that you do not want the information to be used by anybody for direct marketing purposes if you have previously agreed to us using your personal information for direct marketing purposes, you may change your mind at any time by writing to us at the address below, or by using the [contact us](http://www.snowmagazine.com/contact-us) form.
+whenever you are asked to fill in a form on the App, look for the box that you can click to indicate that you do not want the information to be used by anybody for direct marketing purposes if you have previously agreed to us using your personal information for direct marketing purposes, you may change your mind at any time by writing to us at the address below, or by using the [contact us](http://snowmagazine.com/contact-us) form.
 
 We will not sell, distribute or lease your personal information to third parties unless we have your permission or are required by law to do so. We may use your personal information to send you promotional information about third parties which we think you may find interesting if you tell us that you wish this to happen.
 
