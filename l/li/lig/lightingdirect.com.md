@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the lightingdirect.com privacy policy that was archived on 2012-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121218235023id_/http%3A//www.lightingdirect.com/index.cfm%3Fpage%3Dhelp%3Asecurity) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lightingdirect.com privacy policy that was archived on 2013-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130621202017id_/http%3A//www.lightingdirect.com/index.cfm%3Fpage%3Dhelp%3Asecurity) for the most accurate reproduction.*
 
 # LightingDirect.com: Security & Privacy
 
 LightingDirect.com is a website of Build.com, Inc. Our corporate website can be [viewed here](http://corp.improvementdirect.com/).
 
 Our postal address is:  
-282 Convair St.  
-Chico, CA 95973
+402 Otterson Drive, Suite 100     
+Chico, CA 95928
 
 We can be reached online through our online Customer Service center. We can be contacted by phone at (800) 375-3410, which is our customer service call center.
 
@@ -46,8 +46,8 @@ From time to time, we may notify you of special offers based on your purchasing 
 
   * Logging into your account and editing your "Change Billing Info"
   * Sending an email to [newsletters@LightingDirect.com](mailto:newsletters@%5Bsitename%5D.com)
-  * Contacting us by phone at (800) 375-3410.
-  * Representatives in our call center can also alter your subscription preferences.
+  * Contacting us by phone at (800) 375-3410
+  * Representatives in our call center can also alter your subscription preferences
 
 
 
@@ -62,5 +62,9 @@ If you choose to visit LightingDirect.com, your visit and any dispute over priva
 ## Does Build.com Participate in the Safe Harbor Program?
 
 Build.com is a participant in the Safe Harbor program developed by the U.S. Department of Commerce and European Commission. For more information about the Safe Harbor and to view our certification, visit the [U.S. Department of Commerce's Safe Harbor Web site](http://export.gov/safeharbor/) or view our [Safe Harbor Privacy Policy](https://web.archive.org/index.cfm?page=help:safeharborprivacypolicy)
+
+## Update to Privacy Policy
+
+The Privacy Policy was last updated Jan. 1, 2010.
 
 **Copyright © 2000-2012 Build.com, Inc. All Rights Reserved.**
