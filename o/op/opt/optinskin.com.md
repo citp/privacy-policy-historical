@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the optinskin.com privacy policy that was archived on 2012-10-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121015212405id_/http%3A//optinskin.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the optinskin.com privacy policy that was archived on 2013-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130621091223id_/http%3A//optinskin.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
