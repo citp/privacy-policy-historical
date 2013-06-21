@@ -1,13 +1,13 @@
-> *The following text is extracted and transformed from the speexx.com privacy policy that was archived on 2012-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121130211724id_/http%3A//www.speexx.com/en/company/privacy-policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the speexx.com privacy policy that was archived on 2013-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130622015252id_/http%3A//www.speexx.com/en/company/privacy-policy.htm) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy at digital publishing AG
 
 We (digital publishing AG and its subsidiaries and affiliates) are committed to respecting your privacy - providing a secure environment in which you can participate in online activities is important to us. This Privacy Policy explains our privacy practices and expresses our commitment to keeping you informed of the personal data we collect and how it is used. We might update this Privacy Policy from time to time to reflect new uses, rules, regulations or technologies that impact your privacy. We recommend that users review our Privacy Policy on a routine basis to view any changes.   
 
 
 ## Personal Data You Provide
 
-In this Policy, personal data has the same meaning as in Directive 95/46/EC of the European Parliament and of the Council of 24 October 1995 on the protection of individuals with regard to the processing of personal data and on the free movement of such data. dp may use the personal data to operate the Service and tailor it to your needs, for billing, identification and authentication, to contact you about your use of the Service, for research purposes, and to generally improve the content and functionality of the Service and the Website. Although dp owns all rights to the software, code, databases, and other Service applications, you retain all rights to your personal data. We may not use your personal data for marketing purposes. 
+In this Policy, personal data has the same meaning as in Directive 95/46/EC of the European Parliament and of the Council of 24 October 1995 on the protection of individuals with regard to the processing of personal data and on the free movement of such data. digital publishing may use the personal data to operate the Service and tailor it to your needs, for billing, identification and authentication, to contact you about your use of the Service, for research purposes, and to generally improve the content and functionality of the Service and the Website. Although digital publishing owns all rights to the software, code, databases, and other Service applications, you retain all rights to your personal data. We may not use your personal data for marketing purposes. 
 
 ## Cookies
 
@@ -17,11 +17,11 @@ This Website uses Google Analytics with the advanced "_anonymizeIp()" extension,
 
 ## Log Files
 
-As is true with most web sites, dp gathers certain information automatically and stores it in log files. This information includes internet protocol addresses as well as browser, internet service provider, referring/exit pages, operating system, date/time stamp, and click stream data. Occasionally, we may connect personal data to information gathered in our log files, as necessary to improve the Service to individual customers. Otherwise, we mostly use this information with no connection to individual users, to analyze trends, administer the Website, or track usage of various features within the Website. 
+As is true with most web sites, digital publishing gathers certain information automatically and stores it in log files. This information includes internet protocol addresses as well as browser, internet service provider, referring/exit pages, operating system, date/time stamp, and click stream data. Occasionally, we may connect personal data to information gathered in our log files, as necessary to improve the Service to individual customers. Otherwise, we mostly use this information with no connection to individual users, to analyze trends, administer the Website, or track usage of various features within the Website. 
 
 ## Links to Other Websites
 
-Our Website contains links to other websites that are not owned or controlled by dp. Please be aware that we do not determine and we are not responsible for the privacy practices or content of such other sites. We encourage you to be aware when you leave our Website, and read the privacy statements of other websites linked to our Website. 
+Our Website contains links to other websites that are not owned or controlled by digital publishing. Please be aware that we do not determine and we are not responsible for the privacy practices or content of such other sites. We encourage you to be aware when you leave our Website, and read the privacy statements of other websites linked to our Website. 
 
 ## Public Forums
 
@@ -33,37 +33,37 @@ From time to time, we post customer testimonials on the Website which may contai
 
 ## Information Sharing
 
-Except as described in this Policy, dp will not give, sell, rent or loan any personal data to any third party. We may disclose such data to respond to subpoenas, court orders, or legal process, or to establish or exercise our legal rights or defend against legal claims. We may also share such data if we believe it is necessary in order to investigate, prevent, or take action regarding illegal activities, suspected fraud, situations involving potential threats to the physical safety of any person, violations of our Service Level Agreement, or as otherwise required by law. 
+Except as described in this Policy, digital publishing will not give, sell, rent or loan any personal data to any third party. We may disclose such data to respond to subpoenas, court orders, or legal process, or to establish or exercise our legal rights or defend against legal claims. We may also share such data if we believe it is necessary in order to investigate, prevent, or take action regarding illegal activities, suspected fraud, situations involving potential threats to the physical safety of any person, violations of our Service Level Agreement, or as otherwise required by law. 
 
 ## Protection of Personal Data
 
-dp is committed to ensuring the security of your personal data. We take every precaution to protect the confidentiality and security of the personal data placed on the Website or used within the Service, by employing technological, physical and administrative security safeguards, such as firewalls and carefully-developed security procedures. For example, when you enter sensitive personal data (such as login credentials) we encrypt the transmission of that information using secure socket layer technology (SSL). These technologies, procedures and other measures help ensure that your data is safe, secure, and only available to you and to those you authorize to access the personal data. 
+digital publishing is committed to ensuring the security of your personal data. We take every precaution to protect the confidentiality and security of the personal data placed on the Website or used within the Service, by employing technological, physical and administrative security safeguards, such as firewalls and carefully-developed security procedures. For example, when you enter sensitive personal data (such as login credentials) we encrypt the transmission of that information using secure socket layer technology (SSL). These technologies, procedures and other measures help ensure that your data is safe, secure, and only available to you and to those you authorize to access the personal data. 
 
 ## European Union Data Protection Directive
 
-dp complies with the European Union Data Protection Directive (officially Directive 95/46/EC on the protection of individuals with regard to the processing of personal data and on the free movement of such data) and the Swiss Federal Act on Data Protection which regulate the processing of personal data within the European Union and Switzerland. Below, we outline our practices for implementing the Directive principals, how we collect, use and retain personal data, and the choices individuals have regarding our use of, and their ability to correct such personal data. 
+digital publishing complies with the European Union Data Protection Directive (officially Directive 95/46/EC on the protection of individuals with regard to the processing of personal data and on the free movement of such data) and the Swiss Federal Act on Data Protection which regulate the processing of personal data within the European Union and Switzerland. Below, we outline our practices for implementing the Directive principals, how we collect, use and retain personal data, and the choices individuals have regarding our use of, and their ability to correct such personal data. 
 
 ## Generally
 
-We frequently enter agreements with our EU customers to provide them our Service, which includes the processing of personal data relating to our customers’ customers. In providing our Service we do not own, control or direct the use of the personal data stored or processed on our platform at the direction of our customers, and in fact we are largely unaware of what information is actually being stored on our platform and only access such information as authorized by our customers or as required by law. Only you or your customers are entitled to access, retrieve and direct the use of such data. As such, we are only the “data processors” and not the “data controllers” of the information on our platform for purposes of the EU Directive on Data Protection (Directive 95/45/EC) and the Swiss Federal Act on Data Protection. Our EU or Swiss customers, who control their customer data and send it to dp for processing, are the “controllers” of that data and are responsible for ensuring compliance with the Directive.
+We frequently enter agreements with our EU customers to provide them our Service, which includes the processing of personal data relating to our customers’ customers. In providing our Service we do not own, control or direct the use of the personal data stored or processed on our platform at the direction of our customers, and in fact we are largely unaware of what information is actually being stored on our platform and only access such information as authorized by our customers or as required by law. Only you or your customers are entitled to access, retrieve and direct the use of such data. As such, we are only the “data processors” and not the “data controllers” of the information on our platform for purposes of the EU Directive on Data Protection (Directive 95/45/EC) and the Swiss Federal Act on Data Protection. Our EU or Swiss customers, who control their customer data and send it to digital publishing for processing, are the “controllers” of that data and are responsible for ensuring compliance with the Directive.
 
 As the processors of personal information on behalf of our European customers, we follow their instructions with respect to the information they control. In doing so we implement appropriate technical, physical and administrative measures against unauthorized processing of such information and against loss, destruction of, or damage to, personal information. 
 
 ## Access and Review of Data
 
-Residents of the EU and Switzerland whose personal data dp controls may request access and the opportunity to correct, amend, or delete that data. If you are our customer and would like to gain access to, or request deletion of, information we have collected as “data controllers,” please contact us at [privacy@speexx.com](mailto:privacy@speexx.com). We will respond to such queries within 30 business days. dp has no direct relationship with its customers’ customers whose personal data it processes. An individual seeking access, or who would like to correct, amend, or delete inaccurate data should direct his query to the dp customer with whom such individual interacts (the data controller). At the request of our customers we remove data within 30 business days. 
+Residents of the EU and Switzerland whose personal data digital publishing controls may request access and the opportunity to correct, amend, or delete that data. If you are our customer and would like to gain access to, or request deletion of, information we have collected as “data controllers,” please [contact us](https://web.archive.org/web/20130622015252id_/http%3A//www.speexx.com/en/company/global-offices.htm). We will respond to such queries within 30 business days. digital publishing has no direct relationship with its customers’ customers whose personal data it processes. An individual seeking access, or who would like to correct, amend, or delete inaccurate data should direct his query to the digital publishing customer with whom such individual interacts (the data controller). At the request of our customers we remove data within 30 business days. 
 
 ## Data Retention
 
-dp will retain personal data we process on behalf of our customers for as long as needed to provide the Service to our customers, subject to our compliance with this Policy. We retain and use this personal data as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements. 
+digital publishing will retain personal data we process on behalf of our customers for as long as needed to provide the Service to our customers, subject to our compliance with this Policy. We retain and use this personal data as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements. 
 
 ## Enforcement
 
-dp will continuously monitor its privacy practices and continued compliance with the Directive and this Policy. 
+digital publishing will continuously monitor its privacy practices and continued compliance with the Directive and this Policy. 
 
 ## Children’s Personal Information
 
-dp does not knowingly collect any personal data from children under the age of 13. 
+digital publishing does not knowingly collect any personal data from children under the age of 13. 
 
 ## Changes to the Privacy Policy
 
@@ -71,11 +71,11 @@ If we make any material changes to this Policy we will notify you by email or by
 
 ## Service Level Agreement
 
-When you access and use the Service, you are subject to the dp Service Level Agreement (“SLA”). The SLA is part of every contract or offer to our customers. 
+When you access and use the Service, you are subject to the digital publishing Service Level Agreement (“SLA”). The SLA is part of every contract or offer to our customers. 
 
 ## Contact Us
 
-If you have questions regarding this Policy or about the privacy practices of dp, please contact us by email at [privacy@speexx.com](mailto:privacy@speexx.com), or at:
+If you have questions regarding this Policy or about the privacy practices of digital publishing, please [contact us](https://web.archive.org/web/20130622015252id_/http%3A//www.speexx.com/en/company/global-offices.htm), or at:
 
 digital publishing AG  
 Attn: Privacy Officer  
