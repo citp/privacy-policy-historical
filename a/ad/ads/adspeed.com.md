@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the adspeed.com privacy policy that was archived on 2012-10-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121025045518id_/http%3A//www.adspeed.com/Knowledges/1/Content/Privacy_Statement.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adspeed.com privacy policy that was archived on 2013-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130621062625id_/http%3A//www.adspeed.com/Knowledges/1/Content/Privacy_Statement.html) for the most accurate reproduction.*
 
 # Ad Servers | Ad Server Software | Ad Serving Software – Privacy Statement for AdSpeed.com
 
-AdSpeed.com has created this privacy statement in order to demonstrate our commitment to protecting your privacy. The following document discloses the information gathering and dissemination practices for this website. We also have a [Privacy Statement for advertisements](https://adspeed.com/Knowledges/188/Content/Privacy_Statement_Ad_Serving.html) served by AdSpeed. 
+AdSpeed.com has created this privacy statement in order to demonstrate our commitment to protecting your privacy. The following document discloses the information gathering and dissemination practices for this website. We also have a [Privacy Statement for advertisements](https://web.archive.org/Knowledges/188/Content/Privacy_Statement_Ad_Serving.html) served by AdSpeed. 
 
 #### Personal/Site Information
 
@@ -34,25 +34,25 @@ To help our members with the service, we provide forums and message boards to me
 
 #### Spyware and Deceptive Advertising
 
-Our [Terms of Service](https://adspeed.com/Knowledges/2/Content/Terms_Service.html) clearly states our policy against spyware, adware and deceptive advertising. We take actions promptly to protect your privacy and our own reputation. [Learn more](https://adspeed.com/Knowledges/223/Technical/howto_remove_spyware_malware_computer.html)
+Our [Terms of Service](https://web.archive.org/Knowledges/2/Content/Terms_Service.html) clearly states our policy against spyware, adware and deceptive advertising. We take actions promptly to protect your privacy and our own reputation. [Learn more](https://web.archive.org/Knowledges/223/Technical/howto_remove_spyware_malware_computer.html)
 
 #### General
 
 By registering as a member of our service, you are agreeing to accept this privacy policy. We reserve the right to modify this policy at any time prior to any notice. It is your own benefit to check for any update of the policy in case we have not yet notified our members. 
 
-If you have any questions about this privacy statement, or the practices of AdSpeed.com, please [contact us](https://adspeed.com/Helps/contact.html).
+If you have any questions about this privacy statement, or the practices of AdSpeed.com, please [contact us](https://web.archive.org/Helps/contact.html).
 
 ## Testimonials for our Ad Servers
 
-  * > You have a well-designed system and good service
+  * > I am getting to know your tools and LOVE them!
 > 
-> _Anu G_  
->  Wordsmith
+> _Lisa F_  
+>  Wyplanet
 
-  * > I've been with AdRotator then AdSpeed for quite a few years now, and it has all been good. Very good. In fact is has been excellent. Thank you so very much. 
+  * > That is fantastic customer service, I'm very pleased. Thank you and please pass on my thanks to your engineers.
 > 
-> _Tom Bailey_  
->  AquariumFish
+> _Max H_  
+>  WeLove2Ski Ltd
 
 
 
