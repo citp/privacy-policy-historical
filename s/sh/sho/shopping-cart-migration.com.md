@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the shopping-cart-migration.com privacy policy that was archived on 2012-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121130232114id_/http%3A//www.shopping-cart-migration.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shopping-cart-migration.com privacy policy that was archived on 2013-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130621045408id_/http%3A//www.shopping-cart-migration.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
-This privacy policy applies to [Cart2Cart service](http://www.shopping-cart-migration.com/migration-scenario-for-api-hosted-shopping-carts "Cart2Cart service") developed by MagneticOne. 
+This privacy policy applies to Cart2Cart developed by MagneticOne. 
 
-MagneticOne is committed to ensuring that your privacy is protected. We recognize the importance of protecting all the information provided by Cart2Cart service users, newsletter subscribers and all MagneticOne customers. All our customers and users are encouraged to read this privacy policy prior to submitting any personal information or using the website in any other manner. 
+MagneticOne is committed to ensuring that your privacy is protected. We recognize the importance of protecting all the information provided by Cart2Cart users, newsletter subscribers and all MagneticOne customers. All our customers and users are encouraged to read this privacy policy prior to submitting any personal information or using the website in any other manner. 
 
 ##  Information Collection and Usage
 
