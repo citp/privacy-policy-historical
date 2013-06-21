@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the usawinsgold.com privacy policy that was archived on 2012-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121114051501id_/http%3A//www.mcdonalds.com/us/en/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the usawinsgold.com privacy policy that was archived on 2013-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130621185930id_/http%3A//www.mcdonalds.com/us/en/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy :: McDonalds.com
 
