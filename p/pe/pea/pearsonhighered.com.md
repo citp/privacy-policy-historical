@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the pearsonhighered.com privacy policy that was archived on 2011-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110523062458id_/http%3A//www.pearsoned.com/legal/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pearsonhighered.com privacy policy that was archived on 2013-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130621235147id_/http%3A//www.pearsoned.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Pearson Education
+# Pearson | Always Learning
 
-ONLINE PRIVACY STATEMENT
+## ONLINE PRIVACY STATEMENT
 
 PLEASE READ THE FOLLOWING CAREFULLY
 
@@ -26,7 +26,7 @@ Users should be reminded that any Personally Identifiable Information that is vo
 
 **INFORMATION SHARING AND DISCLOSURE**
 
-Except as specifically stated in this statement, our policy is not to share the Personally Identifiable Information collected through this Site with third parties, but we may share this Personally Identifiable Information with affiliates of Pearson, and other companies and organizations who perform work for us under contract or sell products or services that complement our products and services. We also may disclose Personally Identifiable Information (a) in response to a subpoena, court order or legal process, to the extent permitted and required by law; (b) to protect user security or the security of other persons, consistent with applicable laws; (c) in connection with a sale, joint venture or other transfer to some or all of Pearson or the assets of Pearson; or (d) in order to enforce the Site’s Terms of Use. We exercise commercially reasonable care otherwise not to share, disclose or sell the Personally Identifiable Information of users to third-parties, except with the prior approval of the user. 
+Except as specifically stated in this statement, our policy is not to share the Personally Identifiable Information collected through this Site with third parties, but we may share this Personally Identifiable Information with affiliates of Pearson, and other companies and organizations who perform work for us under contract or sell products or services that complement our products and services. We also may disclose Personally Identifiable Information (a) in response to a subpoena, court order or legal process, to the extent permitted and required by law; (b) to protect user security or the security of other persons, consistent with applicable laws; (c) in connection with a sale, joint venture or other transfer to some or all of Pearson or the assets of Pearson; or (d) in order to enforce the Site’s Terms of Use. We exercise commercially reasonable care otherwise not to share, disclose or sell the Personally Identifiable Information of users to third-parties, except with the prior approval of the user.
 
 Pearson may use a third party service to collect anonymous visitor information like IP addresses, browser types (such as Internet Explorer or Netscape), referring pages, pages visited and time spent on a particular site. Pearson collects this information (1) for statistical analysis of web page traffic patterns; (2) to administer our Site and servers; (3) to allow for auditing of our services by some third parties who have that right; and (4) for internal purposes to make marketing decisions.
 
@@ -48,14 +48,14 @@ Our Site uses “cookies” to obtain certain types of information when your Web
 
 We do not use cookies to get users’ Personally Identifiable Information before a user registers with our Site and affirmatively opts-in. Once a user opts-in and and provides personal information for purposes of receiving more information from us, we do collect and use that information obtained through the cookie technology for purposes of marketing to you, in accordance with this policy. If you do not want to receive e-mail or other marketing communications from us, you can opt out of further marketing to the addresses you have provided.
 
-In connection with cookies we may use web beacons to track response rates to certain email communications that a user has opted to receive from us. If a user has registered with our Site, we may collect certain personal information in connection with the web beacon including the referring email address. This information is not shared with third parties. 
+In connection with cookies we may use web beacons to track response rates to certain email communications that a user has opted to receive from us. If a user has registered with our Site, we may collect certain personal information in connection with the web beacon including the referring email address. This information is not shared with third parties.
 
 Pearson reserves the right to monitor your use of the site to determine if you are complying with our terms and the right, in its sole discretion, to terminate your access to the Site.
 
 **OBTAINING ADDITIONAL INFORMATION ABOUT PRIVACY**
 
-If you have any concerns or questions about privacy on this Site, please [Contact Us](http://www.pearsoned.com/contacts/). 
+If you have any concerns or questions about privacy on this Site, please [Contact Us](http://www.pearsoned.com/contacts/).
 
-(Revised -June, 2007) 
+(Revised -June, 2007)
 
 Pearson Education, Inc., One Lake Street, Upper Saddle River, New Jersey 07458.
