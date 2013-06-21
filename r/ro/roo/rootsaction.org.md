@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rootsaction.org privacy policy that was archived on 2012-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121215030505id_/http%3A//www.rootsaction.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rootsaction.org privacy policy that was archived on 2013-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130621231041id_/http%3A//rootsaction.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - RootsAction
 
