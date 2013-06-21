@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kerala9.com privacy policy that was archived on 2012-10-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121003091843id_/http%3A//www.kerala9.com/Privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kerala9.com privacy policy that was archived on 2013-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130621230246id_/http%3A//kerala9.com/Privacy.html) for the most accurate reproduction.*
 
 # Untitled
 
