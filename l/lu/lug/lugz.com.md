@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lugz.com privacy policy that was archived on 2012-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121224213712id_/http%3A//www.lugz.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lugz.com privacy policy that was archived on 2013-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130621033351id_/http%3A//www.lugz.com/privacy) for the most accurate reproduction.*
 
 # LUGZ Men's Work Boots, Shoes, Sneakers for Men, Women and Kids - Urban, Trendy Fashionable, Hip Hop Lugz
 
