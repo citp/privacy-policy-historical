@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the zipcar.com privacy policy that was archived on 2012-10-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121004121202id_/http%3A//www.zipcar.com/site/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zipcar.com privacy policy that was archived on 2013-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130621024008id_/http%3A//members.zipcar.com/site/privacy) for the most accurate reproduction.*
 
 # Privacy Policy – Zipcar
 
@@ -58,11 +58,11 @@ You can control browser cookies through your browser's settings. You can control
 
 The following third party advertiser/service provider may use cookies, web beacons, or similar technologies in connection with offers, content, and services offered through the Zipcar website, including to help operate ad networks. Click on the link to learn more about their practices and the choices they provide you:
 
-  * [MediaMind](http://www.mediamind.com/)
+  * [DoubleClick](http://www.google.com/doubleclick)
 
 
 
-Zipcar may use additional service providers not listed above. Please visit the [Network Advertising Initiative](http://www.networkadvertising.org/index.asp) website for additional information about such providers and the options they may offer.
+Zipcar may use additional service providers not listed above. Please visit the [Network Advertising Initiative](http://www.networkadvertising.org/index.asp) and [Digital Advertising Alliance](http://www.aboutads.info/) websites for additional information about such providers and the options they may offer.
 
 The use of cookies by our partners, affiliates, tracking utility company, service providers is not covered by our privacy statement. We do not have access or control over these cookies. Our partners, affiliates, tracking utility company, service providers use session ID cookies to make it easier for you to navigate our site.
 
