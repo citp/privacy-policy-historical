@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the motherless.com privacy policy that was archived on 2012-09-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120920031452id_/http%3A//motherless.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the motherless.com privacy policy that was archived on 2013-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130621235342id_/http%3A//motherless.com/privacy) for the most accurate reproduction.*
 
-# MOTHERLESS.COM - Go Ahead She Isn't Looking! : Privacy Policy
+# Privacy Policy - MOTHERLESS.COM
 
 The privacy of our members is our top priority. Please read this page to learn about our privacy policy.
 
@@ -26,7 +26,7 @@ Your e-mail address is used to contact you on a transactional basis. For example
 
 Your e-mail address may be used to send you our newsletter featuring website updates, which is sent very rarely, no more than a few times per year.
 
-You may adjust your e-mail settings and opt-out of receiving certain types of e-mails in you’re my Account page.
+You may adjust your e-mail settings and opt-out of receiving certain types of e-mails in your My Account page.
 
 Your credit card and payment information
 
