@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the seobook.com privacy policy that was archived on 2012-10-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121021020535id_/http%3A//www.seobook.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the seobook.com privacy policy that was archived on 2013-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130621124249id_/http%3A//www.seobook.com/privacy-policy) for the most accurate reproduction.*
 
-# SEO Book Privacy Policy Statement | SEO Book.com
+# SEO Book Privacy Policy Statement | SEO Book
 
 ### Mailing Address
 
@@ -26,19 +26,25 @@ We collect the e-mail addresses and IP addresses of those who communicate with u
 
 The information we collect is used to improve the content of our Web page. User comments help us understand what our users want, and help make pages more complete. Personal information is not shared with other organizations for commercial purposes. We will never sell or rent your email address. If you fraud or spam us, we may publicly reveal that. 
 
+### Participation in the Site
+
+By submitting comments, posts, interviews, podcasts, polls, surveys, trackbacks, forum posts and other content to the Site, you are granting seobook.com the royalty-free, perpetual, irrevocable, non-exclusive, right and license to use, reproduce, modify, adapt, publish, translate, distribute, transmit, publicly display, publicly perform, sublicense, create derivative works from, transfer, and sell your submissions to the Site (in whole or part) worldwide and/or to incorporate your submissions in other works in any form, media, or technology whether now known or later developed.
+
+We reserve the right, in our sole discretion, to edit, refuse to post or remove any comments, forum posts and user-generated content that we believe: (i) is offensive, abusive or uncivil in tone; (ii) contains profanity, hate messages or personal attacks against others; (iii) constitutes spam; (iv) is off topic; (v) is prohibited under the All Submissions section of these Terms and Conditions; or (vi) is otherwise inappropriate or undesirable for the Site.
+
 ### Our Tools and Your Data
 
 We offer a number of free and paid SEO tools. We track aggregate usage of our tools for the purposes of troubleshooting technical issues and preventing abuse of our tools (from bots, scrapers, and so on). We also may monitor aggregate tool usage statistics for tracking conversions from free accounts to paid accounts.
 
 Other examples of how our tools are used are:
 
-SeoBook's Rank Checker is a self-hosted application for use as a Firefox plugin. We do not track the data you input into the Rank Checking plugin. 
+SeoBook's Rank Checker is a self-hosted application for use as a Firefox plugin. We do not track the data you input into the Rank Checking plugin. Our SEO Toolbar & SEO for Firefox are also self-hosted applications that we do not track usage data on. During updates we may send users to an update page on our site to let them know of what changed, but outside of that we do not track the usage. Some of our data sources in the toolbar do require the page or site you are visiting in order to return page-specific or site-specific metrics for them.
 
 SeoBook's Keyword Research tools is powered by [Wordtracker](http://www.wordtracker.com/) and our Competitive Research tool is powered by [SemRush](http://www.semrush.com/). You can check the privacy policies of both companies from the links given.
 
-The 3 tools mentioned above also adhere to the disclosures mentioned above regarding the data we collect from the usage of our tools.
+The tools mentioned above also adhere to the disclosures mentioned above regarding the data we collect from the usage of our tools.
 
-SeoBook does not look at the specific use of any of our tools, free or paid.
+SeoBook does not look at the specific use of our tools, free or paid.
 
 ### Cookies
 
