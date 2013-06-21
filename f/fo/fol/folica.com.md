@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the folica.com privacy policy that was archived on 2012-10-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121015002314id_/http%3A//www.folica.com/customer-service/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the folica.com privacy policy that was archived on 2013-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130621041235id_/http%3A//www.folica.com/customer-service/privacy-policy) for the most accurate reproduction.*
 
-# Folica.com Mobile
+# Folica.com - The best selection of hair care, flat irons and hair styling products anywhere
 
-### Last Updated 08-24-2012
+### Last Updated 06-13-2013
 
 Folica, Inc. ("Folica") owns and operates this web site, Folica.com ("Web Site"). Folica recognizes and respects the importance of maintaining the privacy of our customers, registered members ("Members") and users, and has established this Privacy Policy as a result. The purpose of this Privacy Policy is to inform you of: the personal information we may collect from you when you visit our Web Site, respond to our emails, place orders via mail or fax, or otherwise contact us via telephone, email, fax or mail.
 
@@ -61,11 +61,11 @@ In addition, from time-to-time, our Web Site may also carry advertisements from 
 
 ### How we use the information we collect
 
-We use information we collect to communicate with you, to process your orders, to provide you with an enhanced and more personalized shopping experience, to inform you and of offers and discounts from Folica.com, and to enable you to receive credits for purchases under loyalty or buying programs which you have joined. In addition, we may make such information (except for credit/debit card number and expiration date, unless you consent otherwise), including aggregated information, available to selected third parties including, but not limited to, those who share or rent information for direct marketing purposes.
+We use information we collect to communicate with you, to process your orders, to provide you with an enhanced and more personalized shopping experience, to inform you and of offers and discounts from Folica.com, and to enable you to receive credits for purchases under loyalty or buying programs which you have joined. We may engage email and other service providers in connection with the foregoing, and you consent to having the information we collect transferred to them for that purpose. Our service providers have agreed to treat such information in a manner consistent with this Privacy Policy. In addition, we may make such information (except for credit/debit card number and expiration date, unless you consent otherwise), including aggregated information, available to selected third parties including, but not limited to, those who share or rent information for direct marketing purposes.
 
-However, without your consent, we do not make your email addresses, available to “third parties” (as that term is defined and limited below). For example, we may make your postal address available to third parties for marketing purposes; however, we would not share your email address without your consent. In addition, you may instruct that other personal information about you to us not be shared with third parties by following the instructions in How to Limit the Use of Personal Information, below.
+Otherwise, without your consent, we do not make your email addresses, available to "third parties" (as that term is defined and limited below). For example, we may make your postal address available to third parties for marketing purposes; however, we would not share your email address without your consent. In addition, you may instruct that other personal information about you to us not be shared with third parties by following the instructions in How to Limit the Use of Personal Information, below.
 
-Our Affiliates, subcontractors, and agents, and any successors or assignees to our business (if we ever sell, lease, license or assign some or all of our business), are not considered to be third parties under this Policy. We may provide your information to our Affiliates for use in connection with their businesses, including sending you offers and promotions. However, in connection with information collected under this Policy, they are required to comply with this Policy. "Affiliates" are persons or entities directly or indirectly controlling, controlled by, or under common control with Folica.com
+Our Affiliates, subcontractors, service providers and agents, and any successors or assignees to our business (if we ever sell, lease, license or assign some or all of our business), are not considered to be third parties under this Privacy Policy. We may provide your information to our Affiliates for use in connection with their businesses, including sending you offers and promotions. However, in connection with information collected under this Privacy Policy, they are required to comply with this Privacy Policy. "Affiliates" are persons or entities directly or indirectly controlling, controlled by, or under common control with Folica.com
 
 We may combine information we receive from you via our Web Site, emails, mail, fax, and telephone with information from our Affiliates and third parties. We use the combined information to enhance and personalize your shopping experience with us and to communicate with you in accordance with this Privacy Policy.
 
@@ -125,6 +125,8 @@ If you would like to update or correct information previously provided to us, pl
 
 Members can modify and update their membership information (including name, mailing address, birth date, telephone number and email address) by accessing the password-protected "Your account page" page.
 
+We will retain your information for as long as your account is active or as needed to provide you services. We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.
+
 ### Your Consent and Changes to this Policy
 
 Subject to the above provisions, by using our Web Site, you consent to the terms of this Privacy Policy. We may change our Privacy Policy from time to time as new features or services are added, suggestions from our customers are incorporated or other changes are made.
@@ -143,11 +145,11 @@ Folica.com
 90 Stults Road  
 Dayton, NJ 08810 
 
-[ ](http://www.truste.org/ivalidate.php?url=www.folica.com&sealid=101)
+[ ](https://privacy.truste.com/privacy-seal/Folica,-Inc-/validation?rid=101e6e7d-1d15-439d-a827-849c546f9756 "TRUSTe online privacy certification")
 
-PrivacyPolicyStatement1
+Folica has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with [TRUSTe's program requirements](http://www.truste.com/privacy_seals_and_services/consumer_privacy/privacy-programs-requirements.html) including transparency, accountability and choice regarding the collection and use of your personal information. TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions.
 
-Folica.com gathers personal information to help improve our products and customer service, to communicate with you, to process your orders, to provide you with an enhanced and more personalized shopping experience, and to inform you of special offers and discounts from us and selected third parties.
+If you have questions or complaints regarding our privacy policy or practices, please contact us at [fcs@folica.com](mailto:fcs@folica.com). If you do not receive acknowledgment of your inquiry or your inquiry has not been satisfactorily addressed, you should then [contact TRUSTe here](https://feedback-form.truste.com/watchdog/request). TRUSTe will then serve as a liaison to resolve your concerns.
 
 Folica.com  
 90 Stults Road  
@@ -155,4 +157,4 @@ Dayton, NJ 08810
 
 ### Notification of Changes
 
-PrivacyPolicyStatement3
+Folica reserves the right to modify this privacy statement at any time, so please review it frequently. If we make material changes to this policy, we will notify you here, by email, or by means of a notice on our home page.
