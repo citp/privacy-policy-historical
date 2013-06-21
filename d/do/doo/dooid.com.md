@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dooid.com privacy policy that was archived on 2012-11-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121117140808id_/http%3A//dooid.me/home/html/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dooid.com privacy policy that was archived on 2013-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130621215135id_/http%3A//dooid.me/home/html/privacy.php) for the most accurate reproduction.*
 
 # 
 
