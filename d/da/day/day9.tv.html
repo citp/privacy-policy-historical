@@ -1,7 +1,7 @@
-<!--The following is the downloaded HTML source of the day9.tv privacy policy that was archived on 2012-12-19.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121219142255id_/http%3A//day9.tv/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the day9.tv privacy policy that was archived on 2013-06-21.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130621222708id_/http%3A//day9.tv/privacy-policy) for the most accurate reproduction.-->
 
-<!DOCTYPE html><html lang="en-us"><head>
+<!DOCTYPE html><html lang="en"><head>
         <meta charset="utf-8">
         <title>Privacy Policy :: Day[9]TV</title>
         
@@ -9,7 +9,7 @@
         
 
         
-          <link rel="stylesheet" href="http://cdn.day9.tv/site_media/static/compress/css/183a3eb521c0.css" type="text/css" media="all">
+          <link rel="stylesheet" href="http://cdn.day9.tv/site_media/static/compress/css/e87d62215f55.css" type="text/css" media="all">
         
         
         
@@ -30,6 +30,9 @@
 
 <script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript">
   var _gaq = _gaq || [];
+  var pluginUrl =
+	  '//www.google-analytics.com/plugins/ga/inpage_linkid.js';
+  _gaq.push(['_require', 'inpage_linkid', pluginUrl]);
   _gaq.push(['_setAccount', 'UA-22414469-1']);
   _gaq.push(['_trackPageview']);
   _gaq.push(['_trackPageLoadTime']);
@@ -88,6 +91,7 @@
 <div>
     <ul class="nav pull-right">
         
+        
             <li><a href="/account/login/">Log in</a></li>
             
                 <li class="navbar-text">or</li>
@@ -109,19 +113,11 @@
             <div id="header-inner">
                 <div id="logo"><a href="/" class="">Day[9]TV</a></div>
                 <div id="countdown" style="">
-                    <div id="live" style="display:none;">
-                        <a href="">
+                    <div id="live" style="">
+                        <a href="/d/Day9/red-bull-training-grounds-day-1/">
                         <h5>Day[9] is</h5>
                         <h3>LIVE</h3>
                         </a>
-                    </div>
-                
-                    <div id="countdown-inner">
-                    <h5><a href="/d/b/day9tv-dailies/">The Day[9] Daily</a><br>7PM PST (Sun-Thurs)</h5>
-                    
-                    <a href="" class="counter-outer" title=""><div class="counter"></div></a>
-                    <a href="/d/subscription/user/Day9/set/?event_notification=1" class="day9-subscribe ajax-login-required" data-success="1" title="Get notified when Day[9] goes live."><i class="icon-bell icon-white"></i></a>
-                    <div class="info"><p>Sean "Day[9]" Plott casts the<br>Day[9] Daily Sun - Thurs, 7PM PST</p></div>
                     </div>
                 
                 </div>
@@ -302,42 +298,53 @@ change.</p>
 <script id="template-article-list-item" type="text/x-handlebars-template">
 
 
-
+<div class="pull-left">
+<a href="/profiles/profile/{{author.username}}/" class="{{author_credentials}}">
+<img class="media-object" src="{{author.photo}}" data-src="holder.js/64x64">
+{{author.display_name}}
+</a>
+</div>
+<div class="media-body well">
 <hgroup>
-<h3 data-master="{{unique}}" data-id="{{article.id}}" name="title">{{#if article.slug}}<a href="/d/{{author}}/{{article.slug}}/">{{/if}}{{article.title}}{{# if article.slug}}</a>{{/if}}
-{{#if article.parent}}
-<small>in reply to <a href="/d/{{article.parent.author_id}}/{{article.parent.slug}}/">{{article.parent.title}}</a> by {{article.parent.author_id}}</small>
-{{/if}}
+<h3 data-master="{{unique}}" data-id="{{article.id}}" name="title">{{#if article.slug }}<a href="/d/{{author.username}}/{{article.slug}}/">{{/if}}{{ article.title }}{{# if article.slug }}</a>{{/if}}
+{{#unless hide_parent }}
+<small>in reply to <a href="/d/{{article.parent.author_id}}/{{article.parent.slug}}/" class="parent-link">{{ article.parent.title }}</a> by {{article.parent.author_id}}</small>
+{{/unless}}
 </h3>
 <div style="text-align:right;">
 {{{time}}}
-{{#if article.slug}}<a href="{{current_url}}#{{hash}}" style="width:1em;">#</a>{{/if}}
+{{#if article.slug }}<a href="{{current_url}}#{{hash}}" style="width:1em;">#</a>{{/if}}
 </div>
+{{#if show_close }}
+<a class="close" href="#" tabindex="100">&times;</a>
+{{/if}}
 </hgroup>
 <div class="comment-body" data-master="{{unique}}" data-id="{{article.id}}" name="content">{{{body}}}</div>
-{{#if author}}
-<div class="footer">by <a href="/profiles/profile/{{author}}/">{{author}}</a>
-<a href="/d/subscription/user/{{author}}/set/?post_notification=1" class="ajax-login-required" data-success="1" title="Follow {{author}}'s posts"><i class="icon-plus-sign "></i></a>
-{{#if can_reply}}<a href="/d/{{author}}/{{article.slug}}/reply/" style="float:right;margin-left:1em;" class="respond"><span>Respond</span></a>{{/if}}
-{{#if show_edit}}<a href="/d/{{author}}/{{article.slug}}/edit/" style="float:right;" class="edit" data-target="{{article.id}}"><span data-target="{{article.id}}">Edit</span></a>{{/if}}
-{{#if show_save}}<a href="#" data-target="{{unique}}" style="float:right;" class="save"><span data-target="{{unique}}">Save</span></a>{{/if}}
+{{#if show_save }}
+<div style="width:100%;">
+<i class="icon-tags icon-white" style="float:left;position:relative;bottom:-5px;"></i>
+<div style="margin-left:20px;"><div name="tags" class="tag-list" style="width:100%;"><div class="tags"></div></div></div>
 </div>
 {{/if}}
+<div class="footer">
+<a href="/d/subscription/user/{{author.username}}/set/?post_notification=1" class="ajax-login-required" data-success="1" title="Follow {{author.display_name}}'s posts"><i class="icon-plus-sign "></i></a>
+{{#if can_reply }}<a href="/d/{{author.username}}/{{article.slug}}/reply/" style="float:right;margin-left:1em;" class="respond"><span>Respond</span></a>{{/if}}
+{{#if show_edit }}<a href="/d/{{author.username}}/{{article.slug}}/edit/" style="float:right;" class="edit" data-target="{{article.id}}"><span data-target="{{article.id}}">Edit</span></a>{{/if}}
+{{#if show_save }}<a href="#" data-target="{{unique}}" style="float:right;" class="save"><span data-target="{{unique}}">Save</span></a>{{/if}}
+</div>
 
-
+</div>
 </script>
 <script id="template-time" type="text/x-handlebars-template">
 
-
-<time {{#if pubdate}}pubdate {{/if}}datetime="{{time}}" title="{{time_title}}">
+<time {{#if pubdate }}pubdate {{/if}}datetime="{{time}}" title="{{time_title}}">
 {{time_display}}
 </time>
 
 </script>
 <script id="template-pagination" type="text/x-handlebars-template">
 
-
-{{#if more_pages}}
+{{#if more_pages }}
   <ul>
   {{#if prev}}
   <li class="prev"><a href="?page={{prev}}" data-page="{{#if prev}}{{prev}}{{/if}}">← Previous</a></li>
@@ -359,14 +366,60 @@ change.</p>
 
 </script>
 <script id="template-header" type="text/x-handlebars-template">
-<ul class="nav nav-tabs" sytle="margin-bottom:0;">
-<li class="conversation-tree"><a href="#children" data-conversation="tree">Conversation</a></li>
-<li class="conversation-latest"><a href="?conversation=latest#children" data-conversation="latest">Latest</a></li>
+
+<div class="span8">
+<ul class="nav nav-tabs">
+<li class="conversation-tree"><a href="{{current_url}}#children" data-conversation="tree">Conversation</a></li>
+<li class="conversation-latest"><a href="{{current_url}}?conversation=latest#children" data-conversation="latest">Latest</a></li>
 </ul>
+<div class="pull-right" style="margin-top:-5ex;">
+{{#if can_reply }}
+<div class="btn-group">
+<a href="{{current_url}}reply/" class="btn btn-primary btn-group-target respond" title="Respond"><span><i class="icon-comment"></i> Respond</span></a>
+<a class="btn dropdown-toggle  btn-primary" data-toggle="dropdown" href="#"><span class="caret"></span></a>
+<ul class="dropdown-menu">
+<li><a href="{{current_url}}reply/?fork=1" title="Start a new topic on this subject"><span><i class="icon-arrow-right"></i> Fork</span></a></li>
+</ul>
+</div>
+{{/if}}
+</div>
+</div>
 
 </script>
-        <script type="text/javascript" src="http://cdn.day9.tv/site_media/static/compress/js/9385d34e8a7a.js"></script>
+<script id="template-tags-list" type="text/x-handlebars-template">
+
+<section id="tags" name="tags">
+<ul class="horizontal">
+<li><i class="icon-tags icon-white"></i></li>
+{{#each tags}}
+    <li>
+    <a href="{{board_url}}?tags={{ tag_urlencode }}">{{tag}}</a>
+    </li>
+{{/each}}
+</ul>
+</section>
+
+</script>
+        <script type="text/javascript" src="http://cdn.day9.tv/site_media/static/compress/js/9752e06b3d20.js"></script>
         
+        
+        
+        
+        <script type="text/javascript">
+            $(document).ready(function() {
+                $('#countdown .counter').countdown({
+                    until: $.countdown.UTCDate(0, new Date(2013, 06-1, 21, 21, 00, 00)),
+                    layout: '{d<}<span class="days">{dn}</span>d:{d>}<span class="hours">{hnn}</span>h:<span class="mins">{mnn}</span>m',
+                    format: 'dHM',
+                    onExpiry: function() {
+                        $('#countdown-inner').remove();
+                        $('#live').show();
+                    },
+                    alwaysExpire: true,
+                    serverSync: function() { return $.countdown.UTCDate(0, new Date(2013, 06-1, 21, 22, 27, 07)); },
+                });
+            });
+        </script>
         
         
         
