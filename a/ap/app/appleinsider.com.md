@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the appleinsider.com privacy policy that was archived on 2012-11-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121111222215id_/http%3A//appleinsider.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the appleinsider.com privacy policy that was archived on 2013-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130622011443id_/http%3A//appleinsider.com/privacy) for the most accurate reproduction.*
 
 # AppleInsider | News and rumors since 1997
 
@@ -16,11 +16,13 @@ Along with countless other Web sites, AppleInsider uses cookies to enhance your 
 
 Cookie data is not stored on the server, and therefore, not available for viewing by AppleInsider staff or any third parties. However, it is possible that security flaws exist in some browsers that would allow other site administrators to write malicious scripts that would collect this data without AppleInsider's knowledge, though this is quite unlikely. 
 
+If you would like to opt-out of Non Personally Identifiable Information (PII) cookie tracking, please visit the NAI opt-out page here: <http://www.networkadvertising.org/choices/>. 
+
 **Third-party Ad Server**
 
 A portion of the advertisements displayed on the AppleInsider Network are served by third-party advertisement providers, including Advertising.com, TribalFusion, Google, and Federated Media. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements on this site and other sites about goods and services that may be of interest to you. 
 
-Please visit the National Advertising Initiative's opt-out management page, for further information or to opt-out of behavioral advertising from many providers. 
+Please visit the National Advertising Initiative's [opt-out management page](http://www.networkadvertising.org/managing/opt_out.asp) for further information or to opt-out of behavioral advertising from many providers. 
 
 We are committed to continuing to protect the privacy of our readers. If you have any additional questions, please contact us at Privacy@AppleInsider.com. 
 
