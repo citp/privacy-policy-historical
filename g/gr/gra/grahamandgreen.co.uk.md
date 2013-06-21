@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the grahamandgreen.co.uk privacy policy that was archived on 2012-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121221011422id_/http%3A//www.grahamandgreen.co.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the grahamandgreen.co.uk privacy policy that was archived on 2013-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130622004445id_/http%3A//www.grahamandgreen.co.uk/privacy-policy) for the most accurate reproduction.*
 
 # Privacy & Security
 
@@ -12,7 +12,7 @@ We regard these as essential cookies and must be accepted in order to continue u
 
 Third party & remarketing cookies are connected with services such as social media networks that provide like, share & pin buttons. We partner with carefully selected suppliers who may also store cookies on your computer to present remarketing banners to you based on recently viewed products or products that may be of interest to you.
 
-You can disable cookies through your web browser's settings at anytime. Please bear in mind that turning disabling cookies may severly affect and limit the use of our website.
+You can disable cookies through your web browser's settings at anytime. Please bear in mind that disabling cookies may severly affect and limit the use of our website.
 
 For further information on the cookie legislation and information on how to enable/disable cookies please search for the ICO (Information Comissioner's Office).
 
