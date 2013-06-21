@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the tennisrecruiting.net privacy policy that was archived on 2012-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121208091138id_/http%3A//www.tennisrecruiting.net/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tennisrecruiting.net privacy policy that was archived on 2013-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130622000237id_/http%3A//tennisrecruiting.net/privacy.asp) for the most accurate reproduction.*
 
 # The Tennis Recruiting Network
 
-[](http://www.tennis-warehouse.com/?from=recruit)
+[](http://www.tennis-warehouse.com/?from=tenrec)
 
 [](http://www.athleticdna.com/)
 
@@ -16,7 +16,7 @@
 
 [](http://www.advantagetennisacademy.com/main.html)
 
-[](http://www.tennisoncampus.com/)
+[](http://www.tennisrecruiting.net/article.asp?id=863&sessionid=023E53984354851D)
 
 | 
 
@@ -130,41 +130,40 @@ Marietta, GA 30007-1912
 
 | 
 
-| [](http://www.tennis-warehouse.com/?from=recruit) |  TENNIS WAREHOUSE HOLIDAY SPECIALS  
+| [](http://www.tennis-warehouse.com/?from=tenrec)|  TENNIS WAREHOUSE PRODUCT REVIEW  
 ---|---  
   
-[](http://www.tennis-warehouse.com/twelveDays.html?from=recruit "12 Days of Savings")  
-
-[](http://www.tennis-warehouse.com/?from=recruit)|  TENNIS WAREHOUSE PRODUCT REVIEW  
----|---  
-  
-[**Babolat Aero Line 12 Pack Bag**](http://www.tennis-warehouse.com/Babolat_Aero_Line_Tennis_Bags_Pre-Sale/descpageBGBAB-BABAB12.html?from=recruit) To purchase this product or for a much more detailed written review, [Click Here!](http://www.tennis-warehouse.com/Babolat_Aero_Line_Tennis_Bags_Pre-Sale/descpageBGBAB-BABAB12.html?from=recruit)  
+[**Dunlop Biomimetic Tour 6 Pack Bag**](http://www.tennis-warehouse.com/Dunlop_Biomimetic_Tour_Bags_Green/descpageBGDUNLOP-DBTBAG6.html?from=tenrec) To purchase this product or for a much more detailed written review, [Click Here!](http://www.tennis-warehouse.com/Dunlop_Biomimetic_Tour_Bags_Green/descpageBGDUNLOP-DBTBAG6.html?from=tenrec)  
 
 RECENT COMMITMENTS 
 
-[](http://www.tennis-warehouse.com/?from=recruit)|  THE LATEST FROM TENNIS WAREHOUSE  
+[](http://www.tennis-warehouse.com/?from=tenrec)|  ATP GEAR - RACQUETS   
 ---|---  
   
-  * Day 5: Up to 25% off select @babolat apparel! Get to saving:[Click Here!](http://www.tennis-warehouse.com/twelveDays.html?from=recruit)  
- 
-  * Get some great @adidastennis apparel @StellaMcCartney for 25% off! See the sale:[Click Here!](http://www.tennis-warehouse.com/STELLA/?from=recruit)  
- 
-  * Day 4: Save up to 75% off bags![Click Here!](http://www.tennis-warehouse.com/twelveDays.html?from=recruit)  
- 
-  * Day 3 deal: 20% off select junior racquets![Click Here!](http://www.tennis-warehouse.com/twelveDays.html?from=recruit)  
- 
-
+[](http://www.tennis-warehouse.com/player.html?ccode=BTOMIC&from=tenrec) |   |  **Bernard Tomic** [Yonex VCORE Xi 98](http://www.tennis-warehouse.com/Yonex_VCORE_Xi_98/descpageRCYONEX-YVXI98.html?from=tenrec)  
+Buy Now: $189.00  
+[Review](http://www.tennis-warehouse.com/reviews/YVXI98/YVXI98review.html?from=tenrec), [Feedback](http://www.tennis-warehouse.com/feedback-YVXI98.html?from=tenrec), [Video](http://www.tennis-warehouse.com/productvideo.html?pcode=YVXI98&from=tenrec)  
+---|---|---  
+[](http://www.tennis-warehouse.com/player.html?ccode=JBENNETEAU&from=tenrec) |   |  **Julien Benneteau** [Babolat Pure Drive Plus](http://www.tennis-warehouse.com/Babolat_Pure_Drive_Plus/descpageRCBAB-BPDP12.html?from=tenrec)  
+Buy Now: $189.00  
+[Review](http://www.tennis-warehouse.com/reviews/BPDP12/BPDP12review.html?from=tenrec), [Feedback](http://www.tennis-warehouse.com/feedback-BPDP12.html?from=tenrec), [Video](http://www.tennis-warehouse.com/video/BPDP12vid.html?from=tenrec)  
+[](http://www.tennis-warehouse.com/player.html?ccode=THAAS&from=tenrec) |   |  **Tommy Haas** [Head YOUTEK IG Prestige Midplus](http://www.tennis-warehouse.com/Head_YOUTEK_IG_Prestige_Midplus/descpageRCHEAD-HYIPMP.html?from=tenrec)  
+Buy Now: $199.95  
+[Review](http://www.tennis-warehouse.com/reviews/HYIPMP/HYIPMPreview.html?from=tenrec), [Feedback](http://www.tennis-warehouse.com/feedback-HYIPMP.html?from=tenrec), [Video](http://www.tennis-warehouse.com/video/HYIPMPvid.html?from=tenrec)  
+[](http://www.tennis-warehouse.com/player.html?ccode=SIMON&from=tenrec) |   |  **Gilles Simon** [Head YOUTEK IG Prestige Midplus](http://www.tennis-warehouse.com/Head_YOUTEK_IG_Prestige_Midplus/descpageRCHEAD-HYIPMP.html?from=tenrec)  
+Buy Now: $199.95  
+[Review](http://www.tennis-warehouse.com/reviews/HYIPMP/HYIPMPreview.html?from=tenrec), [Feedback](http://www.tennis-warehouse.com/feedback-HYIPMP.html?from=tenrec), [Video](http://www.tennis-warehouse.com/video/HYIPMPvid.html?from=tenrec)  
  
 
 ITA NEWS
 
-[**New Athletic DNA Women's Tennis Apparel Line 2012**](http://www.youtube.com/user/AthleticDNA)
+ IMG BOLLETTIERI TENNIS ACADEMY
 
-Diversity and color enhance new line of Athletic DNA tennis apparel.  
-We designed ADNA clothing to be worn at the highest level of play, and  
-gave it ... 
+[**High Performance Teaching Series - Two Handed Backhand**](http://videos.imgacademies.com/nick-bollettieri-tennis-academy/#A5E197852AB4677D)
 
-[See More](https://web.archive.org/web/20121208091138id_/http%3a//www.tennisrecruiting.net/privacy.asp#?sessionid=1CFF086C27BC72E2)
+Learn from IMG Bollettieri Tennis Coach, Pat Dougherty, how to hit a two-handed backhand with a closed stance. This is the fourth video in a ... 
+
+[See More](https://web.archive.org/web/20130622000237id_/http%3a//tennisrecruiting.net/privacy.asp#?sessionid=023E53984354851D)
 
  
 
@@ -172,5 +171,5 @@ THE LATEST FROM ZOOTENNIS
 
  
 
-[](http://www.tennis-warehouse.com/?from=recruit)|  TALK TENNIS   
+[](http://www.tennis-warehouse.com/?from=tenrec)|  TALK TENNIS   
 ---|---
