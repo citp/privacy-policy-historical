@@ -1,19 +1,49 @@
-<!--The following is the downloaded HTML source of the vineyardvines.com privacy policy that was archived on 2012-12-20.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121220222502id_/http%3A//www.vineyardvines.com/Privacy-Policy/privacy-policy%2Cdefault%2Cpg.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the vineyardvines.com privacy policy that was archived on 2013-06-21.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130621104656id_/http%3A//www.vineyardvines.com/Privacy-Policy/privacy-policy%2Cdefault%2Cpg.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 	
-	<script src="http://demandware.edgesuite.net/aahw_prd/on/demandware.static/Sites-Vineyard-Vines-Site/-/default/v1356038350574/js/detectmobile.js" type="text/javascript"></script>
-<script type="text/javascript"><!--
-        try {
-                // This is the URL for mobile
-                detectmobile.defaultMobileURL = "http://www.vineyardvines.com/on/demandware.store/Sites-Vineyard-Vines-Site/default/mHome-Show";
-                detectmobile.process();
-        } catch(e) {
-                // Make sure that in the fault modes
-                // we do not interrupt execution of other Javascript code
-        }
-//--></script>
+		<script src="http://demandware.edgesuite.net/aahw_prd/on/demandware.static/Sites-Vineyard-Vines-Site/-/default/v1371787645440/js/detectmobile.js" type="text/javascript"></script>
+
+
+	<script type="text/javascript"><!-- 
+		try {
+			// Set up detectmobile.js
+			
+			detectmobile.redirectCallback = function(mode, url) {
+				if(mode == "mobile") {
+					// We could have arrived directly to a news article
+					// from a search engine, not the site home page
+					// Redirect to a corresponding article mobile version
+					
+					
+						// we need to check if the url was referered so we can properly pass it along
+						
+							document.cookie = "TRUEREFERRER="+escape("http://www.vineyardvines.com/Privacy-Policy/privacy-policy,default,pg.html");
+						
+						return '/on/demandware.store/Sites-Vineyard-Vines-Site/default/mPage-Show?cid=privacy-policy';
+					
+					// This example has some URL path for the article
+					// on both site.com and m.site.com, just different domain name.
+					// But you could include any kind of URL rewrite here.
+					//return detectmobile.replaceDomainName(url, "m", true, true);
+				}
+				//console.log(url);
+				// Take no action
+				return url;
+			}
+			// Execute mobile redirect
+			detectmobile.process();
+			
+		} catch(e) {
+			// Make sure that in the fault modes
+			// we do not interrupt execution of other Javascript code
+			if(console && console.exception) {
+				console.exception(e);
+			}
+	}
+	//--></script>
+
 
  
 
@@ -24,187 +54,176 @@
 
 
 
-<meta name="keywords" content="Privacy Policy">
 
-
-<meta http-equiv="X-UA-Compatible" content="IE=8">
-
-
-<link href="http://demandware.edgesuite.net/aahw_prd/on/demandware.static/Sites-Vineyard-Vines-Site/-/default/v1356038350574/lib/jquery/css/themes/base/ui.all.css" type="text/css" rel="stylesheet">
-
-<link href="http://demandware.edgesuite.net/aahw_prd/on/demandware.static/Sites-Vineyard-Vines-Site/-/default/v1356038350574/lib/jquery/js/jquery-tooltip/jquery.tooltip.css" type="text/css" rel="stylesheet">
-<link href="http://demandware.edgesuite.net/aahw_prd/on/demandware.static/Sites-Vineyard-Vines-Site/-/default/v1356038350574/lib/jquery/js/jcarousel/jquery.jcarousel.css" type="text/css" rel="stylesheet">
-<link href="http://demandware.edgesuite.net/aahw_prd/on/demandware.static/Sites-Vineyard-Vines-Site/-/default/v1356038350574/lib/jquery/js/superfish-1.4.8/css/superfish.css" media="screen" rel="stylesheet" type="text/css">
-
-<link href="http://demandware.edgesuite.net/aahw_prd/on/demandware.static/Sites-Vineyard-Vines-Site/-/default/v1356038350574/lib/jquery/css/themes/base/ui.datepicker.css" type="text/css" rel="stylesheet">
-
-
-<link href="http://demandware.edgesuite.net/aahw_prd/on/demandware.static/Sites-Vineyard-Vines-Site/-/default/v1356038350574/css/default.css" type="text/css" rel="stylesheet">
-
-
-	<link href="http://demandware.edgesuite.net/aahw_prd/on/demandware.static/Sites-Vineyard-Vines-Site/-/default/v1356038350574/themes/demandwarestore/css/demandwarestore.css" type="text/css" rel="stylesheet" title="Demandware Store"> 
+	<meta name="keywords" content="Privacy Policy">
 
 
 
-<style type="text/css">
-   body {background:#e9e6e0 url("http://demandware.edgesuite.net/aahw_prd/on/demandware.static/Sites-Vineyard-Vines-Site/Sites-Vineyard-Vines-Library/default/v1356038350574/images/Site_Background.jpg") repeat 0 0 fixed; color:#676767; font-size: 11px; font-family: Arial, Helvetica, Verdana, sans-serif;width: 100%;height:101%; }
-</style>
+
+	<meta http-equiv="X-UA-Compatible" content="IE=8">
+
+
+	<link href="http://demandware.edgesuite.net/aahw_prd/on/demandware.static/Sites-Vineyard-Vines-Site/-/default/v1371787645440/lib/jquery/css/themes/base/ui.all.css" type="text/css" rel="stylesheet">
+
+	<link href="http://demandware.edgesuite.net/aahw_prd/on/demandware.static/Sites-Vineyard-Vines-Site/-/default/v1371787645440/lib/jquery/js/jquery-tooltip/jquery.tooltip.css" type="text/css" rel="stylesheet">
+	<link href="http://demandware.edgesuite.net/aahw_prd/on/demandware.static/Sites-Vineyard-Vines-Site/-/default/v1371787645440/lib/jquery/js/jcarousel/jquery.jcarousel.css" type="text/css" rel="stylesheet">
+	<link href="http://demandware.edgesuite.net/aahw_prd/on/demandware.static/Sites-Vineyard-Vines-Site/-/default/v1371787645440/lib/jquery/js/superfish-1.4.8/css/superfish.css" media="screen" rel="stylesheet" type="text/css">
+
+	<link href="http://demandware.edgesuite.net/aahw_prd/on/demandware.static/Sites-Vineyard-Vines-Site/-/default/v1371787645440/lib/jquery/css/themes/base/ui.datepicker.css" type="text/css" rel="stylesheet">
+
+
+	<link href="http://demandware.edgesuite.net/aahw_prd/on/demandware.static/Sites-Vineyard-Vines-Site/-/default/v1371787645440/css/default.css" type="text/css" rel="stylesheet">
+
+
+	<link href="http://demandware.edgesuite.net/aahw_prd/on/demandware.static/Sites-Vineyard-Vines-Site/-/default/v1371787645440/themes/demandwarestore/css/demandwarestore.css" type="text/css" rel="stylesheet" title="Demandware Store"> 
 
 
 
-<style type="text/css">
-#header h1.logo a {
-	background: url("http://demandware.edgesuite.net/aahw_prd/on/demandware.static/Sites-Vineyard-Vines-Site/Sites-Vineyard-Vines-Library/default/v1356038350574/images/logo.png") no-repeat center right /* Company Logo */;
-	height: 65px;
-    margin: 0;
-    position: relative;
-    top: 2px;
-    width: 209px;
-    display: block;
-    text-indent:-99999px;
-    }
-</style>
+
+	<style type="text/css">
+		body { 
+			background:#e9e6e0 url("http://demandware.edgesuite.net/aahw_prd/on/demandware.static/Sites-Vineyard-Vines-Site/Sites-Vineyard-Vines-Library/default/v1371787645440/images/Site_Background.jpg") repeat 0 0 fixed; 
+			color:#676767; 
+			font-size: 11px; 
+			font-family: Arial, Helvetica, Verdana, sans-serif;
+			width: 100%;
+			height:101%; 
+		}
+		#header div.logo a {
+			background: url("http://demandware.edgesuite.net/aahw_prd/on/demandware.static/Sites-Vineyard-Vines-Site/Sites-Vineyard-Vines-Library/default/v1371787645440/images/logo.png") no-repeat center right /* Company Logo */;
+			height: 65px;
+		    margin: 0;
+		    position: relative;
+		    top: 2px;
+		    width: 209px;
+		    display: block;
+		    text-indent:-99999px;
+		}
+	</style>
+
+
+
+
+
+	<!--[if IE]><link href="http://demandware.edgesuite.net/aahw_prd/on/demandware.static/Sites-Vineyard-Vines-Site/-/default/v1371787645440/themes/demandwarestore/css/ie.css" type="text/css" rel="stylesheet" /><![endif]-->
+	<!--[if IE 8]><link href="http://demandware.edgesuite.net/aahw_prd/on/demandware.static/Sites-Vineyard-Vines-Site/-/default/v1371787645440/css/ie8.css" type="text/css" rel="stylesheet" /><![endif]-->
+	<!--[if IE 7]><link href="http://demandware.edgesuite.net/aahw_prd/on/demandware.static/Sites-Vineyard-Vines-Site/-/default/v1371787645440/css/ie7.css" type="text/css" rel="stylesheet" /><![endif]-->
+	<script type="text/javascript">
+		<!--
+		if (navigator.userAgent.toLowerCase().match('chrome')){document.write('<link rel="stylesheet" type="text/css" href="http://demandware.edgesuite.net/aahw_prd/on/demandware.static/Sites-Vineyard-Vines-Site/-/default/v1371787645440/themes/demandwarestore/css/chrome.css" />');}
+		else if(navigator.userAgent.toLowerCase().match('opera')){document.write('<link rel="stylesheet" type="text/css" href="http://demandware.edgesuite.net/aahw_prd/on/demandware.static/Sites-Vineyard-Vines-Site/-/default/v1371787645440/themes/demandwarestore/css/opera.css" />');}
+		else if(navigator.userAgent.toLowerCase().match('safari')){document.write('<link rel="stylesheet" type="text/css" href="http://demandware.edgesuite.net/aahw_prd/on/demandware.static/Sites-Vineyard-Vines-Site/-/default/v1371787645440/themes/demandwarestore/css/safari.css" />');}
+		//-->
+	</script><link rel="stylesheet" type="text/css" href="http://demandware.edgesuite.net/aahw_prd/on/demandware.static/Sites-Vineyard-Vines-Site/-/default/v1371787645440/themes/demandwarestore/css/chrome.css"> 
+
+
+	<link href="http://demandware.edgesuite.net/aahw_prd/on/demandware.static/Sites-Vineyard-Vines-Site/-/default/v1371787645440/images/favicon.jpg" rel="shortcut icon">
+
+
+
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+	<meta name="google-site-verification" content="Bh-QHmdnM_niKugi6BbrUXz3nTWPhes0OYPwGpQadp4">
+	<meta name="p:domain_verify" content="4617216835d9f9504b63434d4980139a">
+
+
+
+
+	<script src="http://demandware.edgesuite.net/aahw_prd/on/demandware.static/Sites-Vineyard-Vines-Site/-/default/v1371787645440/lib/jquery/js/jquery/jquery-1.3.2.min.fixed.js" type="text/javascript"></script>
+
+
+
+
 
 
 	
-	
-	
-	
-	
-		<link href="http://demandware.edgesuite.net/aahw_prd/on/demandware.static/Sites-Vineyard-Vines-Site/-/default/v1356038350574/themes/demandwarestore/css/nonandroid.css" type="text/css" rel="stylesheet">
-	
-	
+	<script src="http://demandware.edgesuite.net/aahw_prd/on/demandware.static/Sites-Vineyard-Vines-Site/-/default/v1371787645440/lib/jquery/js/jquery/ui.core.js" type="text/javascript"></script>
+	<script src="http://demandware.edgesuite.net/aahw_prd/on/demandware.static/Sites-Vineyard-Vines-Site/-/default/v1371787645440/lib/jquery/js/jquery/ui.dialog.js" type="text/javascript"></script>
+	<script src="http://demandware.edgesuite.net/aahw_prd/on/demandware.static/Sites-Vineyard-Vines-Site/-/default/v1371787645440/lib/jquery/js/jquery/ui.resizable.js" type="text/javascript"></script>
+	<script src="http://demandware.edgesuite.net/aahw_prd/on/demandware.static/Sites-Vineyard-Vines-Site/-/default/v1371787645440/lib/jquery/js/jquery/ui.draggable.js" type="text/javascript"></script>
+	<script src="http://demandware.edgesuite.net/aahw_prd/on/demandware.static/Sites-Vineyard-Vines-Site/-/default/v1371787645440/lib/jquery/js/jquery/ui.tabs.js" type="text/javascript"></script>
+	<script src="http://demandware.edgesuite.net/aahw_prd/on/demandware.static/Sites-Vineyard-Vines-Site/-/default/v1371787645440/lib/jquery/js/jquery/effects.core.js" type="text/javascript"></script>
+	<script src="http://demandware.edgesuite.net/aahw_prd/on/demandware.static/Sites-Vineyard-Vines-Site/-/default/v1371787645440/lib/jquery/js/jquery/effects.slide.js" type="text/javascript"></script>
+	<script src="http://demandware.edgesuite.net/aahw_prd/on/demandware.static/Sites-Vineyard-Vines-Site/-/default/v1371787645440/lib/jquery/js/jquery/ui.datepicker.js" type="text/javascript"></script>
 
 
 
 
-<!--[if IE]><link href="http://demandware.edgesuite.net/aahw_prd/on/demandware.static/Sites-Vineyard-Vines-Site/-/default/v1356038350574/themes/demandwarestore/css/ie.css" type="text/css" rel="stylesheet" /><![endif]-->
-<!--[if IE 8]><link href="http://demandware.edgesuite.net/aahw_prd/on/demandware.static/Sites-Vineyard-Vines-Site/-/default/v1356038350574/css/ie8.css" type="text/css" rel="stylesheet" /><![endif]-->
-<!--[if IE 7]><link href="http://demandware.edgesuite.net/aahw_prd/on/demandware.static/Sites-Vineyard-Vines-Site/-/default/v1356038350574/css/ie7.css" type="text/css" rel="stylesheet" /><![endif]-->
-<script type="text/javascript">
-<!--
-if (navigator.userAgent.toLowerCase().match('chrome')){document.write('<link rel="stylesheet" type="text/css" href="http://demandware.edgesuite.net/aahw_prd/on/demandware.static/Sites-Vineyard-Vines-Site/-/default/v1356038350574/themes/demandwarestore/css/chrome.css" />');}
-else if(navigator.userAgent.toLowerCase().match('opera')){document.write('<link rel="stylesheet" type="text/css" href="http://demandware.edgesuite.net/aahw_prd/on/demandware.static/Sites-Vineyard-Vines-Site/-/default/v1356038350574/themes/demandwarestore/css/opera.css" />');}
-else if(navigator.userAgent.toLowerCase().match('safari')){document.write('<link rel="stylesheet" type="text/css" href="http://demandware.edgesuite.net/aahw_prd/on/demandware.static/Sites-Vineyard-Vines-Site/-/default/v1356038350574/themes/demandwarestore/css/safari.css" />');}
-//-->
-</script><link rel="stylesheet" type="text/css" href="http://demandware.edgesuite.net/aahw_prd/on/demandware.static/Sites-Vineyard-Vines-Site/-/default/v1356038350574/themes/demandwarestore/css/chrome.css"> 
 
 
-<link href="http://demandware.edgesuite.net/aahw_prd/on/demandware.static/Sites-Vineyard-Vines-Site/-/default/v1356038350574/images/favicon.jpg" rel="shortcut icon">
 
+	<script src="http://demandware.edgesuite.net/aahw_prd/on/demandware.static/Sites-Vineyard-Vines-Site/-/default/v1371787645440/lib/jquery/js/jcarousel/jquery.jcarousel.pack.fixed.js" type="text/javascript"></script>
 
 
-<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<meta name="google-site-verification" content="Bh-QHmdnM_niKugi6BbrUXz3nTWPhes0OYPwGpQadp4">
 
 
+	<script src="http://demandware.edgesuite.net/aahw_prd/on/demandware.static/Sites-Vineyard-Vines-Site/-/default/v1371787645440/lib/jquery/js/jquery-tooltip/jquery.tooltip.min.js" type="text/javascript"></script>
 
-<meta name="keywords" content="Privacy Policy">
 
 
 
+	<script src="http://demandware.edgesuite.net/aahw_prd/on/demandware.static/Sites-Vineyard-Vines-Site/-/default/v1371787645440/lib/jquery/js/jquery-validate/jquery.validate.min.js" type="text/javascript"></script>
 
 
 
 
 
-<script src="http://demandware.edgesuite.net/aahw_prd/on/demandware.static/Sites-Vineyard-Vines-Site/-/default/v1356038350574/lib/jquery/js/jquery/jquery-1.3.2.min.fixed.js" type="text/javascript"></script>
+	<script src="http://demandware.edgesuite.net/aahw_prd/on/demandware.static/Sites-Vineyard-Vines-Site/-/default/v1371787645440/lib/jquery/js/bgiframe_2.1.1/jquery.bgiframe.min.fixed.js" type="text/javascript"></script>
 
 
 
 
+	<script type="text/javascript" src="http://demandware.edgesuite.net/aahw_prd/on/demandware.static/Sites-Vineyard-Vines-Site/-/default/v1371787645440/lib/jquery/js/superfish-1.4.8/js/hoverIntent.js"></script>
+	<script type="text/javascript" src="http://demandware.edgesuite.net/aahw_prd/on/demandware.static/Sites-Vineyard-Vines-Site/-/default/v1371787645440/lib/jquery/js/superfish-1.4.8/js/superfish.js"></script>
 
 
+	<script src="http://demandware.edgesuite.net/aahw_prd/on/demandware.static/Sites-Vineyard-Vines-Site/-/default/v1371787645440/js/app.js" type="text/javascript"></script>
+	<script src="http://demandware.edgesuite.net/aahw_prd/on/demandware.static/Sites-Vineyard-Vines-Site/-/default/v1371787645440/js/product.js" type="text/javascript"></script>
+	<script src="http://demandware.edgesuite.net/aahw_prd/on/demandware.static/Sites-Vineyard-Vines-Site/-/default/v1371787645440/js/searchsuggest.js" type="text/javascript"></script>
 
-<script src="http://demandware.edgesuite.net/aahw_prd/on/demandware.static/Sites-Vineyard-Vines-Site/-/default/v1356038350574/lib/jquery/js/jquery/ui.core.js" type="text/javascript"></script>
-<script src="http://demandware.edgesuite.net/aahw_prd/on/demandware.static/Sites-Vineyard-Vines-Site/-/default/v1356038350574/lib/jquery/js/jquery/ui.dialog.js" type="text/javascript"></script>
-<script src="http://demandware.edgesuite.net/aahw_prd/on/demandware.static/Sites-Vineyard-Vines-Site/-/default/v1356038350574/lib/jquery/js/jquery/ui.resizable.js" type="text/javascript"></script>
-<script src="http://demandware.edgesuite.net/aahw_prd/on/demandware.static/Sites-Vineyard-Vines-Site/-/default/v1356038350574/lib/jquery/js/jquery/ui.draggable.js" type="text/javascript"></script>
-<script src="http://demandware.edgesuite.net/aahw_prd/on/demandware.static/Sites-Vineyard-Vines-Site/-/default/v1356038350574/lib/jquery/js/jquery/ui.tabs.js" type="text/javascript"></script>
-<script src="http://demandware.edgesuite.net/aahw_prd/on/demandware.static/Sites-Vineyard-Vines-Site/-/default/v1356038350574/lib/jquery/js/jquery/effects.core.js" type="text/javascript"></script>
-<script src="http://demandware.edgesuite.net/aahw_prd/on/demandware.static/Sites-Vineyard-Vines-Site/-/default/v1356038350574/lib/jquery/js/jquery/effects.slide.js" type="text/javascript"></script>
-<script src="http://demandware.edgesuite.net/aahw_prd/on/demandware.static/Sites-Vineyard-Vines-Site/-/default/v1356038350574/lib/jquery/js/jquery/ui.datepicker.js" type="text/javascript"></script>
 
 
 
+	<script src="http://demandware.edgesuite.net/aahw_prd/on/demandware.static/Sites-Vineyard-Vines-Site/Sites-storefront-vineyardvines-en/default/v1371787645440/pwr/engine/js/full.js" type="text/javascript"></script>
+	<script type="text/javascript">
+	<!-- PowerReview related settings
+		var pr_zip_location = "http://demandware.edgesuite.net/aahw_prd/on/demandware.static/Sites-Vineyard-Vines-Site/Sites-storefront-vineyardvines-en/default/v1371787645440";
+		var pr_merchant_id = "370580";
+		//-->
+	</script>
 
 
+	<script type="text/javascript" src="http://demandware.edgesuite.net/aahw_prd/on/demandware.static/Sites-Vineyard-Vines-Site/-/default/v1371787645440/js/one_time_action/src/jquery.one_time_action.js"></script>
 
 
-<script src="http://demandware.edgesuite.net/aahw_prd/on/demandware.static/Sites-Vineyard-Vines-Site/-/default/v1356038350574/lib/jquery/js/jcarousel/jquery.jcarousel.pack.fixed.js" type="text/javascript"></script>
 
+	<script src="http://demandware.edgesuite.net/aahw_prd/on/demandware.static/Sites-Vineyard-Vines-Site/-/default/v1371787645440/themes/demandwarestore/slider/jquery.timers.1.2.js" type="text/javascript"></script>
+	<script src="http://demandware.edgesuite.net/aahw_prd/on/demandware.static/Sites-Vineyard-Vines-Site/-/default/v1371787645440/themes/demandwarestore/slider/easing.js" type="text/javascript"></script>
+	<script src="http://demandware.edgesuite.net/aahw_prd/on/demandware.static/Sites-Vineyard-Vines-Site/-/default/v1371787645440/themes/demandwarestore/slider/slider.pro.1.5.js" type="text/javascript"></script>
 
 
+	<link href="http://demandware.edgesuite.net/aahw_prd/on/demandware.static/Sites-Vineyard-Vines-Site/-/default/v1371787645440/themes/demandwarestore/css/colorbox.css" type="text/css" rel="stylesheet" title="Demandware Store">
+	<script src="http://demandware.edgesuite.net/aahw_prd/on/demandware.static/Sites-Vineyard-Vines-Site/-/default/v1371787645440/themes/demandwarestore/js/jquery.colorbox.js" type="text/javascript"></script>	
+	<link href="http://demandware.edgesuite.net/aahw_prd/on/demandware.static/Sites-Vineyard-Vines-Site/-/default/v1371787645440/themes/demandwarestore/css/cloud-zoom.css" type="text/css" rel="stylesheet" title="Demandware Store">
+	<script src="http://demandware.edgesuite.net/aahw_prd/on/demandware.static/Sites-Vineyard-Vines-Site/-/default/v1371787645440/themes/demandwarestore/js/cloud-zoom.1.0.2.js" type="text/javascript"></script>
 
-<script src="http://demandware.edgesuite.net/aahw_prd/on/demandware.static/Sites-Vineyard-Vines-Site/-/default/v1356038350574/lib/jquery/js/jquery-tooltip/jquery.tooltip.min.js" type="text/javascript"></script>
 
 
+	<script type="text/javascript" src="//tealium.hs.llnwd.net/o43/utag/dumont/vineyardvines/prod/utag.js"></script>
 
 
-<script src="http://demandware.edgesuite.net/aahw_prd/on/demandware.static/Sites-Vineyard-Vines-Site/-/default/v1356038350574/lib/jquery/js/jquery-validate/jquery.validate.min.js" type="text/javascript"></script>
-
-
-
-
-
-<script src="http://demandware.edgesuite.net/aahw_prd/on/demandware.static/Sites-Vineyard-Vines-Site/-/default/v1356038350574/lib/jquery/js/bgiframe_2.1.1/jquery.bgiframe.min.fixed.js" type="text/javascript"></script>
-
-
-
-
-<script type="text/javascript" src="http://demandware.edgesuite.net/aahw_prd/on/demandware.static/Sites-Vineyard-Vines-Site/-/default/v1356038350574/lib/jquery/js/superfish-1.4.8/js/hoverIntent.js"></script>
-<script type="text/javascript" src="http://demandware.edgesuite.net/aahw_prd/on/demandware.static/Sites-Vineyard-Vines-Site/-/default/v1356038350574/lib/jquery/js/superfish-1.4.8/js/superfish.js"></script>
-
-
-	<script src="http://demandware.edgesuite.net/aahw_prd/on/demandware.static/Sites-Vineyard-Vines-Site/-/default/v1356038350574/js/app.js" type="text/javascript"></script>
-
-	<script src="http://demandware.edgesuite.net/aahw_prd/on/demandware.static/Sites-Vineyard-Vines-Site/-/default/v1356038350574/js/product.js" type="text/javascript"></script>
-
-<script src="http://demandware.edgesuite.net/aahw_prd/on/demandware.static/Sites-Vineyard-Vines-Site/-/default/v1356038350574/js/searchsuggest.js" type="text/javascript"></script>
-
-
-
-
-<script src="http://demandware.edgesuite.net/aahw_prd/on/demandware.static/Sites-Vineyard-Vines-Site/Sites-storefront-vineyardvines-en/default/v1356038350574/pwr/engine/js/full.js" type="text/javascript"></script>
-<script type="text/javascript"><!--
-  // PowerReview related settings
-  var pr_zip_location = "http://demandware.edgesuite.net/aahw_prd/on/demandware.static/Sites-Vineyard-Vines-Site/Sites-storefront-vineyardvines-en/default/v1356038350574";
-  var pr_merchant_id = "370580";
-//--></script>
-
-
-<script type="text/javascript" src="http://demandware.edgesuite.net/aahw_prd/on/demandware.static/Sites-Vineyard-Vines-Site/-/default/v1356038350574/js/one_time_action/src/jquery.one_time_action.js"></script>
-
-
-
-<script src="http://demandware.edgesuite.net/aahw_prd/on/demandware.static/Sites-Vineyard-Vines-Site/-/default/v1356038350574/themes/demandwarestore/slider/jquery.timers.1.2.js" type="text/javascript"></script>
-<script src="http://demandware.edgesuite.net/aahw_prd/on/demandware.static/Sites-Vineyard-Vines-Site/-/default/v1356038350574/themes/demandwarestore/slider/easing.js" type="text/javascript"></script>
-<script src="http://demandware.edgesuite.net/aahw_prd/on/demandware.static/Sites-Vineyard-Vines-Site/-/default/v1356038350574/themes/demandwarestore/slider/slider.pro.1.5.js" type="text/javascript"></script>
-
-
-<link href="http://demandware.edgesuite.net/aahw_prd/on/demandware.static/Sites-Vineyard-Vines-Site/-/default/v1356038350574/themes/demandwarestore/css/colorbox.css" type="text/css" rel="stylesheet" title="Demandware Store">
-<script src="http://demandware.edgesuite.net/aahw_prd/on/demandware.static/Sites-Vineyard-Vines-Site/-/default/v1356038350574/themes/demandwarestore/js/jquery.colorbox.js" type="text/javascript"></script>
-
-<link href="http://demandware.edgesuite.net/aahw_prd/on/demandware.static/Sites-Vineyard-Vines-Site/-/default/v1356038350574/themes/demandwarestore/css/cloud-zoom.css" type="text/css" rel="stylesheet" title="Demandware Store">
-<script src="http://demandware.edgesuite.net/aahw_prd/on/demandware.static/Sites-Vineyard-Vines-Site/-/default/v1356038350574/themes/demandwarestore/js/cloud-zoom.1.0.2.js" type="text/javascript"></script>
-
-
-
-<script type="text/javascript" src="//tealium.hs.llnwd.net/o43/utag/dumont/vineyardvines/prod/utag.js"></script>
-
-
-<script type="text/javascript"><!--
-	app.minicart.url 					= "/on/demandware.store/Sites-Vineyard-Vines-Site/default/Cart-MiniAddProduct";
-	
-	app.URLs.getProductUrl 				= "/on/demandware.store/Sites-Vineyard-Vines-Site/default/Product-Show";
-	app.URLs.getVariants 				= "/on/demandware.store/Sites-Vineyard-Vines-Site/default/Product-GetVariants";
-	app.URLs.getAvailability			= "/on/demandware.store/Sites-Vineyard-Vines-Site/default/Product-GetAvailability";
-	app.URLs.loadingSmallImg 			= "http://demandware.edgesuite.net/aahw_prd/on/demandware.static/Sites-Vineyard-Vines-Site/-/default/v1356038350574/images/loading-small.gif";
-	app.URLs.formatMoney				= "/on/demandware.store/Sites-Vineyard-Vines-Site/default/Product-FormatPrices";
-	app.URLs.removeImg 					= "http://demandware.edgesuite.net/aahw_prd/on/demandware.static/Sites-Vineyard-Vines-Site/-/default/v1356038350574/images/icon-remove.gif";
-	app.URLs.removeImgBonus 			= "http://demandware.edgesuite.net/aahw_prd/on/demandware.static/Sites-Vineyard-Vines-Site/-/default/v1356038350574/images/bg-bonus-product-choice.png";
-	
-//--></script>
+	<script type="text/javascript">
+	<!--
+		app.minicart.url 					= "/on/demandware.store/Sites-Vineyard-Vines-Site/default/Cart-MiniAddProduct";
+		app.URLs.getProductUrl 				= "/on/demandware.store/Sites-Vineyard-Vines-Site/default/Product-Show";
+		app.URLs.getVariants 				= "/on/demandware.store/Sites-Vineyard-Vines-Site/default/Product-GetVariants";
+		app.URLs.getOutOfStockProductPopUp	= "/on/demandware.store/Sites-Vineyard-Vines-Site/default/Product-OutOfStockProductPopUp";
+		app.URLs.getAvailability			= "/on/demandware.store/Sites-Vineyard-Vines-Site/default/Product-GetAvailability";
+		app.URLs.loadingSmallImg 			= "http://demandware.edgesuite.net/aahw_prd/on/demandware.static/Sites-Vineyard-Vines-Site/-/default/v1371787645440/images/loading-small.gif";
+		app.URLs.formatMoney				= "/on/demandware.store/Sites-Vineyard-Vines-Site/default/Product-FormatPrices";
+		app.URLs.removeImg 					= "http://demandware.edgesuite.net/aahw_prd/on/demandware.static/Sites-Vineyard-Vines-Site/-/default/v1371787645440/images/icon-remove.gif";
+		app.URLs.removeImgBonus 			= "http://demandware.edgesuite.net/aahw_prd/on/demandware.static/Sites-Vineyard-Vines-Site/-/default/v1371787645440/images/bg-bonus-product-choice.png";
+	//-->
+	</script>
 
 
 <script type="text/javascript"><!--
@@ -232,7 +251,7 @@ else if(navigator.userAgent.toLowerCase().match('safari')){document.write('<link
 	app.resources["BACKORDER"] = "Back Order";
 	app.resources["QTY_BACKORDER"] = "Back Order {0} item(s)";
 	app.resources["REMAIN_BACKORDER"] = "The remaining items are available on back order.";
-	app.resources["NOT_AVAILABLE"] = "This item is currently not available.";
+	app.resources["NOT_AVAILABLE"] = "Out of stock";
 	app.resources["REMAIN_NOT_AVAILABLE"] = "The remaining items are currently not available. Please adjust the quantity.";
 	app.resources["IN_STOCK_DATE"] = "The expected in-stock date is {0}.";
 	app.resources["NON_SELECTED"] = "Not Selected";
@@ -246,6 +265,9 @@ else if(navigator.userAgent.toLowerCase().match('safari')){document.write('<link
 	app.resources["SELECT_BONUS_PRODUCT"] = "Select";
 	app.resources["BONUS_PRODUCT_MAX"] = "The maximum number of bonus products have been selected.  Please remove one in order to add additional bonus products.";
 	
+	// Search 
+	app.resources["SEE_ALL_COLORS"] = "See All Colors";
+	app.resources["Hide"] = "Hide";
 //--></script>
 
 
@@ -253,7 +275,7 @@ else if(navigator.userAgent.toLowerCase().match('safari')){document.write('<link
 	
 
 
-<script type="text/javascript" src="http://demandware.edgesuite.net/aahw_prd/on/demandware.static/Sites-Vineyard-Vines-Site/-/default/v1356038350574/internal/jscript/dwac-12.1.5.js"></script>
+<script type="text/javascript" src="http://demandware.edgesuite.net/aahw_prd/on/demandware.static/Sites-Vineyard-Vines-Site/-/default/v1371787645440/internal/jscript/dwac-13.2.js"></script>
 </head>
 <body>
 <div class="background_img">
@@ -267,7 +289,7 @@ else if(navigator.userAgent.toLowerCase().match('safari')){document.write('<link
 <div id="header">
 
     
-    <h1 class="logo"><a href="http://www.vineyardvines.com" title="Vineyard Vines">Vineyard Vines</a></h1>
+    <div class="logo"><a href="http://www.vineyardvines.com" title="Vineyard Vines">Vineyard Vines</a></div>
     
     <div class="headertopbar">
     	<!-- Header customer info -->
@@ -412,6 +434,9 @@ else if(navigator.userAgent.toLowerCase().match('safari')){document.write('<link
 
 
 
+
+
+
 <!-- Report any requested source code -->
 
 
@@ -445,9 +470,61 @@ else if(navigator.userAgent.toLowerCase().match('safari')){document.write('<link
 <div class="categorymenu">
 	<ul>
 		
+					
 			
+				
 				<li>
-				<a class="fst" href="http://www.vineyardvines.com/Men/Mens,default,sc.html">
+				<a class="fst" href="http://www.vineyardvines.com/New/New-Arrivals,default,sc.html">
+					New
+				</a>
+				
+					<ul class="twocol">
+					
+					
+					
+													
+						
+						
+													
+							<li class="left">
+								<a href="http://www.vineyardvines.com/new-arrivals-men/New-Arrivals-Men,default,sc.html">
+									Men
+								</a>
+		                    </li>
+		                
+					
+													
+						
+						
+													
+							<li class="left">
+								<a href="http://www.vineyardvines.com/new-arrivals-women/New-Arrivals-Women,default,sc.html">
+									Women
+								</a>
+		                    </li>
+		                
+					
+													
+						
+						
+													
+							<li style="top:20.0px;" class="right">
+								<a href="http://www.vineyardvines.com/new-arrivals-kids/New-Arrivals-Kids,default,sc.html">
+									Kids
+								</a>
+		                    </li>
+		                
+					
+                    </ul> 
+                 
+	            </li>
+	    	
+		
+					
+			
+				
+				<li>
+				<a class="bord" href="http://www.vineyardvines.com/Men/Mens,default,sc.html">
 					Men
 				</a>
 				
@@ -455,306 +532,278 @@ else if(navigator.userAgent.toLowerCase().match('safari')){document.write('<link
 					
 					
 					
+													
 						
 						
-						
-						
+													
 							<li class="left">
-								
 								<a href="http://www.vineyardvines.com/mens-new-arrivals/Mens-New-Arrivals,default,sc.html">
 									New Arrivals
 								</a>
 		                    </li>
 		                
-		                
-		              
 					
+													
 						
 						
-						
-						
+													
 							<li class="left">
-								
-								<a href="http://www.vineyardvines.com/Gift-Guide/Mens-Gift-Guide,default,sc.html">
-									Gift Guide
+								<a href="http://www.vineyardvines.com/red-whale-and-blue/men-red-whale-blue,default,sc.html">
+									Red, Whale &amp; Blue
 								</a>
 		                    </li>
 		                
-		                
-		              
 					
+													
 						
 						
-						
-						
+													
 							<li class="left">
-								
-								<a href="http://www.vineyardvines.com/Holiday-Looks/holiday-looks-men,default,sc.html">
-									Holiday Looks
+								<a href="http://www.vineyardvines.com/Grad-Shop/men-grad-shop,default,sc.html">
+									Grad Shop
 								</a>
 		                    </li>
 		                
-		                
-		              
 					
+													
 						
 						
-						
-						
+													
 							<li class="left">
-								
+								<a href="http://www.vineyardvines.com/Dads-Lads/mens-dads-lads/Mens-Dads-Lads,default,sc.html">
+									Dads &amp; Lads
+								</a>
+		                    </li>
+		                
+					
+													
+						
+						
+													
+							<li class="left">
+								<a href="http://www.vineyardvines.com/mens-summer-looks/mens-summer-looks,default,sc.html">
+									Summer Looks
+								</a>
+		                    </li>
+		                
+					
+													
+						
+						
+													
+							<li class="left">
 								<a href="http://www.vineyardvines.com/mens/ties-bow-ties/Mens-Ties-BowTies,default,sc.html">
 									Ties &amp; Bow Ties
 								</a>
 		                    </li>
 		                
-		                
-		              
 					
+													
 						
 						
-						
-						
+													
 							<li class="left">
-								
 								<a href="http://www.vineyardvines.com/sport-shirts/Mens-Sport-Shirts,default,sc.html">
 									Sport Shirts
 								</a>
 		                    </li>
 		                
-		                
-		              
 					
+													
 						
 						
-						
-						
+													
 							<li class="left">
-								
-								<a href="http://www.vineyardvines.com/Dress-Shirts/Mens-Dress-Shirts,default,sc.html">
+								<a href="http://www.vineyardvines.com/Dress-Shirts/mens-dress-shirts/Mens-Dress-Shirts,default,sc.html">
 									Dress Shirts
 								</a>
 		                    </li>
 		                
-		                
-		              
 					
+													
 						
 						
-						
-						
+													
 							<li class="left">
-								
-								<a href="http://www.vineyardvines.com/mens-sweaters/Mens-Sweaters,default,sc.html">
-									Sweaters
-								</a>
-		                    </li>
-		                
-		                
-		              
-					
-						
-						
-						
-						
-							<li class="left">
-								
-								<a href="http://www.vineyardvines.com/mens-pants/Mens-Pants,default,sc.html">
-									Pants
-								</a>
-		                    </li>
-		                
-		                
-		              
-					
-						
-						
-						
-						
-							<li class="left">
-								
-								<a href="http://www.vineyardvines.com/mens/belts/Mens-Belts,default,sc.html">
-									Belts
-								</a>
-		                    </li>
-		                
-		                
-		              
-					
-						
-						
-						
-						
-							<li class="left">
-								
-								<a href="http://www.vineyardvines.com/mens-pullovers/Mens-Pullovers,default,sc.html">
-									Pullovers
-								</a>
-		                    </li>
-		                
-		                
-		              
-					
-						
-						
-						
-						
-							<li class="left">
-								
-								<a href="http://www.vineyardvines.com/mens-outerwear/Mens-Fleece-Outerwear,default,sc.html">
-									Fleece &amp; Outerwear
-								</a>
-		                    </li>
-		                
-		                
-		              
-					
-						
-						
-						
-						
-							<li style="top:20.0px;" class="right">
-								
-								<a href="http://www.vineyardvines.com/mens-blazers/Mens-Blazers,default,sc.html">
-									Blazers
-								</a>
-		                    </li>
-		                
-		                
-		              
-					
-						
-						
-						
-						
-							<li style="top:49.0px;" class="right">
-								
-								<a href="http://www.vineyardvines.com/mens-polo-shirts/Mens-Polos,default,sc.html">
-									Polos
-								</a>
-		                    </li>
-		                
-		                
-		              
-					
-						
-						
-						
-						
-							<li style="top:78.0px;" class="right">
-								
-								<a href="http://www.vineyardvines.com/mens-t-shirts/Mens-Tee-Shirts,default,sc.html">
-									T-Shirts
-								</a>
-		                    </li>
-		                
-		                
-		              
-					
-						
-						
-						
-						
-							<li style="top:107.0px;" class="right">
-								
-								<a href="http://www.vineyardvines.com/mens-boxers-lounge/Mens-Boxers-Lounge,default,sc.html">
-									Boxers &amp; Lounge
-								</a>
-		                    </li>
-		                
-		                
-		              
-					
-						
-						
-						
-						
-							<li style="top:136.0px;" class="right">
-								
 								<a href="http://www.vineyardvines.com/mens-shorts/Mens-Shorts,default,sc.html">
 									Shorts
 								</a>
 		                    </li>
 		                
-		                
-		              
 					
+													
 						
 						
-						
-						
-							<li style="top:165.0px;" class="right">
-								
-								<a href="http://www.vineyardvines.com/mens-flip-flops/Mens-Flip-Flops,default,sc.html">
-									Flip Flops
+													
+							<li class="left">
+								<a href="http://www.vineyardvines.com/mens-polo-shirts/Mens-Polos,default,sc.html">
+									Polos
 								</a>
 		                    </li>
 		                
-		                
-		              
 					
+													
 						
 						
-						
-						
-							<li style="top:194.0px;" class="right">
-								
+													
+							<li class="left">
 								<a href="http://www.vineyardvines.com/mens-swim/Mens-Swim,default,sc.html">
 									Swim
 								</a>
 		                    </li>
 		                
-		                
-		              
 					
+													
 						
 						
+													
+							<li class="left">
+								<a href="http://www.vineyardvines.com/mens-t-shirts/Mens-Tee-Shirts,default,sc.html">
+									T-Shirts
+								</a>
+		                    </li>
+		                
+					
+													
 						
 						
+													
+							<li style="top:20.0px;" class="right">
+								<a href="http://www.vineyardvines.com/mens-pants/Mens-Pants,default,sc.html">
+									Pants
+								</a>
+		                    </li>
+		                
+					
+													
+						
+						
+													
+							<li style="top:49.0px;" class="right">
+								<a href="http://www.vineyardvines.com/mens/belts/Mens-Belts,default,sc.html">
+									Belts
+								</a>
+		                    </li>
+		                
+					
+													
+						
+						
+													
+							<li style="top:78.0px;" class="right">
+								<a href="http://www.vineyardvines.com/mens-pullovers/Mens-Pullovers,default,sc.html">
+									Shep Shirts &amp; Pullovers
+								</a>
+		                    </li>
+		                
+					
+													
+						
+						
+													
+							<li style="top:107.0px;" class="right">
+								<a href="http://www.vineyardvines.com/mens-sweaters/Mens-Sweaters,default,sc.html">
+									Sweaters
+								</a>
+		                    </li>
+		                
+					
+													
+						
+						
+													
+							<li style="top:136.0px;" class="right">
+								<a href="http://www.vineyardvines.com/mens-outerwear/Mens-Fleece-Outerwear,default,sc.html">
+									Fleece &amp; Outerwear
+								</a>
+		                    </li>
+		                
+					
+													
+						
+						
+													
+							<li style="top:165.0px;" class="right">
+								<a href="http://www.vineyardvines.com/mens-blazers/Mens-Blazers,default,sc.html">
+									Blazers
+								</a>
+		                    </li>
+		                
+					
+													
+						
+						
+													
+							<li style="top:194.0px;" class="right">
+								<a href="http://www.vineyardvines.com/mens-flip-flops/Mens-Flip-Flops,default,sc.html">
+									Flip Flops
+								</a>
+		                    </li>
+		                
+					
+													
+						
+						
+													
 							<li style="top:223.0px;" class="right">
-								
+								<a href="http://www.vineyardvines.com/mens-boxers-lounge/Mens-Boxers-Lounge,default,sc.html">
+									Boxers &amp; Lounge
+								</a>
+		                    </li>
+		                
+					
+													
+						
+						
+													
+							<li style="top:252.0px;" class="right">
 								<a href="http://www.vineyardvines.com/mens-accessories/Mens-Accessories,default,sc.html">
 									Accessories
 								</a>
 		                    </li>
 		                
-		                
-		              
 					
+													
 						
 						
-						
-						
-							<li style="top:252.0px;" class="right">
-								
-								<a href="http://www.vineyardvines.com/mens-golf/Mens-Golf-Tennis,default,sc.html">
-									Golf &amp; Tennis
+													
+							<li style="top:281.0px;" class="right">
+								<a href="http://www.vineyardvines.com/Kentucky-Derby%C2%AE/men-derby,default,sc.html">
+									Kentucky Derby®
 								</a>
 		                    </li>
 		                
-		                
-		              
 					
+													
 						
 						
+													
+							<li style="top:310.0px;" class="right">
+								<a href="http://www.vineyardvines.com/Tied-to-a-Cause/Mens-TTAC/Mens-TTAC,default,sc.html">
+									Tied to a Cause
+								</a>
+		                    </li>
+		                
+					
+													
 						
 						
-							<li style="top:281.0px;" class="right">
-								
-								<a href="http://www.vineyardvines.com/mens-sale/Mens-Sale,default,sc.html">
+													
+							<li style="top:339.0px;" class="right">
+								<a href="http://www.vineyardvines.com/mens-whale-of-a-sale/Mens-Sale,default,sc.html">
 									Sale
 								</a>
 		                    </li>
 		                
-		                
-		              
 					
                     </ul> 
                  
 	            </li>
 	    	
 		
+					
 			
+				
 				<li>
 				<a class="bord" href="http://www.vineyardvines.com/Women/Womens,default,sc.html">
 					Women
@@ -764,264 +813,245 @@ else if(navigator.userAgent.toLowerCase().match('safari')){document.write('<link
 					
 					
 					
+													
 						
 						
-						
-						
+													
 							<li class="left">
-								
 								<a href="http://www.vineyardvines.com/womens-new-arrivals/Womens-New-Arrivals,default,sc.html">
 									New Arrivals
 								</a>
 		                    </li>
 		                
-		                
-		              
 					
+													
 						
 						
-						
-						
+													
 							<li class="left">
-								
-								<a href="http://www.vineyardvines.com/Gift-Guide/Womens-Gift-Guide,default,sc.html">
-									Gift Guide
+								<a href="http://www.vineyardvines.com/red-whale-and-blue/women-red-whale-blue,default,sc.html">
+									Red, Whale &amp; Blue
 								</a>
 		                    </li>
 		                
-		                
-		              
 					
+													
 						
 						
-						
-						
+													
 							<li class="left">
-								
-								<a href="http://www.vineyardvines.com/Holiday-Looks/holiday-looks-women,default,sc.html">
-									Holiday Looks
+								<a href="http://www.vineyardvines.com/women-grad-shop/women-grad-shop,default,sc.html">
+									Grad Shop
 								</a>
 		                    </li>
 		                
-		                
-		              
 					
+													
 						
 						
-						
-						
+													
 							<li class="left">
-								
-								<a href="http://www.vineyardvines.com/womens-sweaters/Womens-Sweaters,default,sc.html">
-									Sweaters
+								<a href="http://www.vineyardvines.com/Mom-Me/mom-and-me/mom-and-me,default,sc.html">
+									Mom &amp; Me
 								</a>
 		                    </li>
 		                
-		                
-		              
 					
+													
 						
 						
-						
-						
+													
 							<li class="left">
-								
+								<a href="http://www.vineyardvines.com/womens-summer-looks/women-summer-looks,default,sc.html">
+									Summer Looks
+								</a>
+		                    </li>
+		                
+					
+													
+						
+						
+													
+							<li class="left">
 								<a href="http://www.vineyardvines.com/womens-dresses-skirts/Womens-Dresses-Skirts,default,sc.html">
 									Dresses &amp; Skirts
 								</a>
 		                    </li>
 		                
-		                
-		              
 					
+													
 						
 						
-						
-						
+													
 							<li class="left">
-								
-								<a href="http://www.vineyardvines.com/women-shirts/Womens-Shirts-Tunics,default,sc.html">
-									Shirts &amp; Tunics
-								</a>
-		                    </li>
-		                
-		                
-		              
-					
-						
-						
-						
-						
-							<li class="left">
-								
-								<a href="http://www.vineyardvines.com/womens-outerwear/Womens-Fleece-Outerwear,default,sc.html">
-									Sweatshirts, Fleece &amp; Outerwear
-								</a>
-		                    </li>
-		                
-		                
-		              
-					
-						
-						
-						
-						
-							<li class="left">
-								
 								<a href="http://www.vineyardvines.com/womens-pants-shorts/Womens-Shorts-Pants,default,sc.html">
-									Pants &amp; Shorts
+									Shorts &amp; Pants
 								</a>
 		                    </li>
 		                
-		                
-		              
 					
+													
 						
 						
-						
-						
+													
 							<li class="left">
-								
 								<a href="http://www.vineyardvines.com/womens-polo-shirts/Womens-Polos,default,sc.html">
 									Polos
 								</a>
 		                    </li>
 		                
-		                
-		              
 					
+													
 						
 						
+													
+							<li class="left">
+								<a href="http://www.vineyardvines.com/women-shirts/Womens-Shirts-Tunics,default,sc.html">
+									Shirts &amp; Tunics
+								</a>
+		                    </li>
+		                
+					
+													
 						
 						
-							<li style="top:20.0px;" class="right">
-								
+													
+							<li class="left">
+								<a href="http://www.vineyardvines.com/womens-outerwear/Womens-Fleece-Outerwear,default,sc.html">
+									Shep Shirts, Fleece &amp; Outerwear
+								</a>
+		                    </li>
+		                
+					
+													
+						
+						
+													
+							<li class="left">
 								<a href="http://www.vineyardvines.com/womens-tops/Womens-Knits-Tees-Sweatshirts,default,sc.html">
 									Knits, Tees &amp; Tanks
 								</a>
 		                    </li>
 		                
-		                
-		              
 					
+													
 						
 						
+													
+							<li style="top:20.0px;" class="right">
+								<a href="http://www.vineyardvines.com/womens-sweaters/Womens-Sweaters,default,sc.html">
+									Sweaters
+								</a>
+		                    </li>
+		                
+					
+													
 						
 						
+													
 							<li style="top:49.0px;" class="right">
-								
-								<a href="http://www.vineyardvines.com/womens-lounge-pants/Womens-Lounge,default,sc.html">
-									Lounge
-								</a>
-		                    </li>
-		                
-		                
-		              
-					
-						
-						
-						
-						
-							<li style="top:78.0px;" class="right">
-								
-								<a href="http://www.vineyardvines.com/womens-totes-bags/Womens-Totes-Bags,default,sc.html">
-									Totes &amp; Bags
-								</a>
-		                    </li>
-		                
-		                
-		              
-					
-						
-						
-						
-						
-							<li style="top:107.0px;" class="right">
-								
-								<a href="http://www.vineyardvines.com/womens-accessories/Womens-Accessories,default,sc.html">
-									Accessories
-								</a>
-		                    </li>
-		                
-		                
-		              
-					
-						
-						
-						
-						
-							<li style="top:136.0px;" class="right">
-								
-								<a href="http://www.vineyardvines.com/womens-flip-flops/Womens-Flip-Flops,default,sc.html">
-									Flip Flops
-								</a>
-		                    </li>
-		                
-		                
-		              
-					
-						
-						
-						
-						
-							<li style="top:165.0px;" class="right">
-								
 								<a href="http://www.vineyardvines.com/womens-swimwear/Womens-Swim-Coverups,default,sc.html">
 									Swim &amp; Cover-Ups
 								</a>
 		                    </li>
 		                
-		                
-		              
 					
+													
 						
 						
-						
-						
-							<li style="top:194.0px;" class="right">
-								
-								<a href="http://www.vineyardvines.com/womens-golf-tennis/Womens-Golf-Tennis,default,sc.html">
-									Golf &amp; Tennis
+													
+							<li style="top:78.0px;" class="right">
+								<a href="http://www.vineyardvines.com/womens-flip-flops/Womens-Flip-Flops,default,sc.html">
+									Flip Flops
 								</a>
 		                    </li>
 		                
-		                
-		              
 					
+													
 						
 						
+													
+							<li style="top:107.0px;" class="right">
+								<a href="http://www.vineyardvines.com/womens-totes-bags/Womens-Totes-Bags,default,sc.html">
+									Totes &amp; Bags
+								</a>
+		                    </li>
+		                
+					
+													
 						
 						
-							<li style="top:223.0px;" class="right">
-								
+													
+							<li style="top:136.0px;" class="right">
+								<a href="http://www.vineyardvines.com/womens-accessories/Womens-Accessories,default,sc.html">
+									Accessories
+								</a>
+		                    </li>
+		                
+					
+													
+						
+						
+													
+							<li style="top:165.0px;" class="right">
+								<a href="http://www.vineyardvines.com/womens-lounge-pants/Womens-Lounge,default,sc.html">
+									Lounge
+								</a>
+		                    </li>
+		                
+					
+													
+						
+						
+													
+							<li style="top:194.0px;" class="right">
 								<a href="http://www.vineyardvines.com/women-sorority-collection/Womens-Sorority,default,sc.html">
 									Sorority Collection
 								</a>
 		                    </li>
 		                
-		                
-		              
 					
+													
 						
 						
+													
+							<li style="top:223.0px;" class="right">
+								<a href="http://www.vineyardvines.com/womens-kentucky-derby-attire/women-derby,default,sc.html">
+									Kentucky Derby®
+								</a>
+		                    </li>
+		                
+					
+													
 						
 						
+													
 							<li style="top:252.0px;" class="right">
-								
-								<a href="http://www.vineyardvines.com/womens-sale/Womens-Sale,default,sc.html">
+								<a href="http://www.vineyardvines.com/Tied-to-a-Cause/Womens-TTAC/women-tied-to-a-cause,default,sc.html">
+									Tied To A Cause
+								</a>
+		                    </li>
+		                
+					
+													
+						
+						
+													
+							<li style="top:281.0px;" class="right">
+								<a href="http://www.vineyardvines.com/womens-whale-of-a-sale/Womens-Sale,default,sc.html">
 									Sale
 								</a>
 		                    </li>
 		                
-		                
-		              
 					
                     </ul> 
                  
 	            </li>
 	    	
 		
+					
 			
+				
 				<li>
 				<a class="bord" href="http://www.vineyardvines.com/kids/Kids,default,sc.html">
 					Kids
@@ -1031,138 +1061,139 @@ else if(navigator.userAgent.toLowerCase().match('safari')){document.write('<link
 					
 					
 					
+													
 						
 						
-						
-						
+													
 							<li class="left">
-								
 								<a href="http://www.vineyardvines.com/Kids-New-Arrivals/Kids-New-Arrivals,default,sc.html">
 									Kids New Arrivals
 								</a>
 		                    </li>
 		                
-		                
-		              
 					
+													
 						
 						
-						
-						
+													
 							<li class="left">
-								
+								<a href="http://www.vineyardvines.com/Dads-Lads/Kids-Dads-Lads,default,sc.html">
+									Dads &amp; Lads
+								</a>
+		                    </li>
+		                
+					
+													
+						
+						
+													
+							<li class="left">
+								<a href="http://www.vineyardvines.com/Mom-Me/kids-mom-and-me,default,sc.html">
+									Mom &amp; Me
+								</a>
+		                    </li>
+		                
+					
+													
+						
+						
+													
+							<li class="left">
 								<a href="http://www.vineyardvines.com/boys-tops/Kids-Boys-Tops,default,sc.html">
 									Boys Tops
 								</a>
 		                    </li>
 		                
-		                
-		              
 					
+													
 						
 						
-						
-						
+													
 							<li class="left">
-								
 								<a href="http://www.vineyardvines.com/kids/boys-bottoms/Kids-Boys-Bottoms,default,sc.html">
 									Boys Bottoms
 								</a>
 		                    </li>
 		                
-		                
-		              
 					
+													
 						
 						
-						
-						
+													
 							<li class="left">
-								
-								<a href="http://www.vineyardvines.com/Ties/Kids-Boys-Ties,default,sc.html">
+								<a href="http://www.vineyardvines.com/silk-ties/boys-printed-ties/Kids-Boys-Ties,default,sc.html">
 									Ties
 								</a>
 		                    </li>
 		                
-		                
-		              
 					
+													
 						
 						
-						
-						
-							<li class="left">
-								
+													
+							<li style="top:20.0px;" class="right">
 								<a href="http://www.vineyardvines.com/girls-clothing/tops-dresses/Kids-Girls-Tops-Dresses,default,sc.html">
 									Girls Tops &amp; Dresses
 								</a>
 		                    </li>
 		                
-		                
-		              
 					
+													
 						
 						
-						
-						
-							<li style="top:20.0px;" class="right">
-								
+													
+							<li style="top:49.0px;" class="right">
 								<a href="http://www.vineyardvines.com/girls-clothing/bottoms/Kids-Girls-Bottoms,default,sc.html">
 									Girls Bottoms
 								</a>
 		                    </li>
 		                
-		                
-		              
 					
+													
 						
 						
-						
-						
-							<li style="top:49.0px;" class="right">
-								
-								<a href="http://www.vineyardvines.com/Accessories/Kids-Accessories,default,sc.html">
-									Accessories
+													
+							<li style="top:78.0px;" class="right">
+								<a href="http://www.vineyardvines.com/Accessories-Flip-Flops/Kids-Accessories,default,sc.html">
+									Accessories &amp; Flip Flops
 								</a>
 		                    </li>
 		                
-		                
-		              
 					
+													
 						
 						
-						
-						
-							<li style="top:78.0px;" class="right">
-								
+													
+							<li style="top:107.0px;" class="right">
 								<a href="http://www.vineyardvines.com/kids/boys-girls-swim/boys-girls-swim,default,sc.html">
 									Boys &amp; Girls Swim
 								</a>
 		                    </li>
 		                
-		                
-		              
 					
+													
 						
 						
-						
-						
-							<li style="top:107.0px;" class="right">
-								
+													
+							<li style="top:136.0px;" class="right">
 								<a href="http://www.vineyardvines.com/Sale/Kids-Sale,default,sc.html">
 									Sale
 								</a>
 		                    </li>
 		                
-		                
-		              
+					
+													
+						
+						
 					
                     </ul> 
                  
 	            </li>
 	    	
 		
+					
 			
+				
 				<li>
 				<a class="bord" href="http://www.vineyardvines.com/silk-ties/Ties,default,sc.html">
 					Ties
@@ -1172,222 +1203,212 @@ else if(navigator.userAgent.toLowerCase().match('safari')){document.write('<link
 					
 					
 					
+													
 						
 						
-						
-						
+													
 							<li class="left">
-								
 								<a href="http://www.vineyardvines.com/ties-new-arrivals/Ties-New-Arrivals,default,sc.html">
 									New Arrivals
 								</a>
 		                    </li>
 		                
-		                
-		              
 					
+													
 						
 						
-						
-						
+													
 							<li class="left">
-								
-								<a href="http://www.vineyardvines.com/silk-ties/printed/Ties-Printed-Ties,default,sc.html">
-									Neckties
-								</a>
-		                    </li>
-		                
-		                
-		              
-					
-						
-						
-						
-						
-							<li class="left">
-								
-								<a href="http://www.vineyardvines.com/silk-ties/bowties/Ties-Bow-Ties,default,sc.html">
-									Bow Ties
-								</a>
-		                    </li>
-		                
-		                
-		              
-					
-						
-						
-						
-						
-							<li class="left">
-								
-								<a href="http://www.vineyardvines.com/silk-ties/cummerdbund-sets/Ties-Cumberbund-Sets,default,sc.html">
-									Cummerbund Sets
-								</a>
-		                    </li>
-		                
-		                
-		              
-					
-						
-						
-						
-						
-							<li class="left">
-								
-								<a href="http://www.vineyardvines.com/silk-ties/boys-printed-ties/Ties-Boys-Printed-Ties,default,sc.html">
-									Boys Ties
-								</a>
-		                    </li>
-		                
-		                
-		              
-					
-						
-						
-						
-						
-							<li class="left">
-								
-								<a href="http://www.vineyardvines.com/silk-ties/boys-bowties/Ties-Boys-Bow%20-Ties,default,sc.html">
-									Boys Bow Ties
-								</a>
-		                    </li>
-		                
-		                
-		              
-					
-						
-						
-						
-						
-							<li class="left">
-								
-								<a href="http://www.vineyardvines.com/silk-ties/extra-long/Ties-Extra-Long-Ties,default,sc.html">
-									Extra Long
-								</a>
-		                    </li>
-		                
-		                
-		              
-					
-						
-						
-						
-						
-							<li class="left">
-								
-								<a href="http://www.vineyardvines.com/Dog-Ties/Ties-Dog-Ties,default,sc.html">
-									Dog Ties
-								</a>
-		                    </li>
-		                
-		                
-		              
-					
-						
-						
-						
-						
-							<li style="top:20.0px;" class="right">
-								
-								<a href="http://www.vineyardvines.com/Holiday-Ties/Ties-Holiday,default,sc.html">
-									Holiday Ties
-								</a>
-		                    </li>
-		                
-		                
-		              
-					
-						
-						
-						
-						
-							<li style="top:49.0px;" class="right">
-								
-								<a href="http://www.vineyardvines.com/MLB-Ties/Ties-MLB,default,sc.html">
-									MLB Ties
-								</a>
-		                    </li>
-		                
-		                
-		              
-					
-						
-						
-						
-						
-							<li style="top:78.0px;" class="right">
-								
-								<a href="http://www.vineyardvines.com/NFL-Ties/Ties-NFL,default,sc.html">
-									NFL Ties
-								</a>
-		                    </li>
-		                
-		                
-		              
-					
-						
-						
-						
-						
-							<li style="top:107.0px;" class="right">
-								
-								<a href="http://www.vineyardvines.com/NHL-Ties/Ties-NHL,default,sc.html">
-									NHL Ties
-								</a>
-		                    </li>
-		                
-		                
-		              
-					
-						
-						
-						
-						
-							<li style="top:136.0px;" class="right">
-								
 								<a href="http://www.vineyardvines.com/Sports-Ties/Ties-Sports,default,sc.html">
 									Sports Ties
 								</a>
 		                    </li>
 		                
-		                
-		              
 					
+													
 						
 						
+													
+							<li class="left">
+								<a href="http://www.vineyardvines.com/ties-dogs/Ties-Dog-Ties,default,sc.html">
+									Dog Ties
+								</a>
+		                    </li>
+		                
+					
+													
 						
 						
-							<li style="top:165.0px;" class="right">
-								
+													
+							<li class="left">
+								<a href="http://www.vineyardvines.com/Island-Ties/island-ties,default,sc.html">
+									Island Ties
+								</a>
+		                    </li>
+		                
+					
+													
+						
+						
+													
+							<li class="left">
+								<a href="http://www.vineyardvines.com/Red%2C-Whale-Blue/Ties-Red-Whale-Blue,default,sc.html">
+									Red, Whale &amp; Blue
+								</a>
+		                    </li>
+		                
+					
+													
+						
+						
+													
+							<li class="left">
+								<a href="http://www.vineyardvines.com/silk-ties/printed/Ties-Printed-Ties,default,sc.html">
+									Neckties
+								</a>
+		                    </li>
+		                
+					
+													
+						
+						
+													
+							<li class="left">
+								<a href="http://www.vineyardvines.com/silk-ties/bowties/Ties-Bow-Ties,default,sc.html">
+									Bow Ties
+								</a>
+		                    </li>
+		                
+					
+													
+						
+						
+													
+							<li class="left">
 								<a href="http://www.vineyardvines.com/Pocket-Squares/pocket-squares,default,sc.html">
 									Pocket Squares
 								</a>
 		                    </li>
 		                
-		                
-		              
 					
+													
 						
 						
+													
+							<li class="left">
+								<a href="http://www.vineyardvines.com/silk-ties/cummerdbund-sets/Ties-Cumberbund-Sets,default,sc.html">
+									Cummerbund Sets
+								</a>
+		                    </li>
+		                
+					
+													
 						
 						
+													
+							<li style="top:20.0px;" class="right">
+								<a href="http://www.vineyardvines.com/silk-ties/boys-printed-ties/Ties-Boys-Printed-Ties,default,sc.html">
+									Boys Ties
+								</a>
+		                    </li>
+		                
+					
+													
+						
+						
+													
+							<li style="top:49.0px;" class="right">
+								<a href="http://www.vineyardvines.com/silk-ties/boys-bowties/Ties-Boys-Bow-Ties,default,sc.html">
+									Boys Bow Ties
+								</a>
+		                    </li>
+		                
+					
+													
+						
+						
+													
+							<li style="top:78.0px;" class="right">
+								<a href="http://www.vineyardvines.com/silk-ties/extra-long/Ties-Extra-Long-Ties,default,sc.html">
+									Extra Long
+								</a>
+		                    </li>
+		                
+					
+													
+						
+						
+													
+							<li style="top:107.0px;" class="right">
+								<a href="http://www.vineyardvines.com/MLB-Ties/Ties-MLB,default,sc.html">
+									MLB Ties
+								</a>
+		                    </li>
+		                
+					
+													
+						
+						
+													
+							<li style="top:136.0px;" class="right">
+								<a href="http://www.vineyardvines.com/NFL-Ties/Ties-NFL,default,sc.html">
+									NFL Ties
+								</a>
+		                    </li>
+		                
+					
+													
+						
+						
+													
+							<li style="top:165.0px;" class="right">
+								<a href="http://www.vineyardvines.com/NHL-Ties/Ties-NHL,default,sc.html">
+									NHL Ties
+								</a>
+		                    </li>
+		                
+					
+													
+						
+						
+													
 							<li style="top:194.0px;" class="right">
-								
+								<a href="http://www.vineyardvines.com/Kentucky-Derby%C2%AE/ties-derby,default,sc.html">
+									Kentucky Derby®
+								</a>
+		                    </li>
+		                
+					
+													
+						
+						
+													
+							<li style="top:223.0px;" class="right">
 								<a href="http://www.vineyardvines.com/College-Ties/Ties-College-Ties,default,sc.html">
 									College Ties
 								</a>
 		                    </li>
 		                
+					
+													
+						
+						
+													
+							<li style="top:252.0px;" class="right">
+								<a href="http://www.vineyardvines.com/Tied-to-a-Cause/tied-to-a-cause-autism-speaks,default,sc.html">
+									Tied to a Cause
+								</a>
+		                    </li>
 		                
-		              
 					
                     </ul> 
                  
 	            </li>
 	    	
 		
+					
 			
+				
 				<li>
 				<a class="bord" href="http://www.vineyardvines.com/college-pro/College-Pro,default,sc.html">
 					College + Pro
@@ -1397,330 +1418,152 @@ else if(navigator.userAgent.toLowerCase().match('safari')){document.write('<link
 					
 					
 					
+													
 						
 						
-						
-						
+													
 							<li class="left">
-								
-								<a href="http://www.vineyardvines.com/College/College-Pro-College,default,sc.html">
+								<a href="http://www.vineyardvines.com/College/College-Pro-College/College-Pro-College,default,sc.html">
 									College
 								</a>
 		                    </li>
 		                
-		                
-		              
 					
+													
 						
 						
-						
-						
+													
 							<li class="left">
-								
-								<a href="http://www.vineyardvines.com/MLB/College-Pro-MLB,default,sc.html">
+								<a href="http://www.vineyardvines.com/MLB/College-Pro-MLB/College-Pro-MLB,default,sc.html">
 									MLB
 								</a>
 		                    </li>
 		                
-		                
-		              
 					
+													
 						
 						
-						
-						
-							<li style="top:20.0px;" class="right">
-								
-								<a href="http://www.vineyardvines.com/NFL/College-Pro-NFL,default,sc.html">
+													
+							<li class="left">
+								<a href="http://www.vineyardvines.com/NHL/College-Pro-NHL/College-Pro-NFL,default,sc.html">
 									NFL
 								</a>
 		                    </li>
 		                
-		                
-		              
 					
+													
 						
 						
-						
-						
-							<li style="top:49.0px;" class="right">
-								
-								<a href="http://www.vineyardvines.com/NHL/College-Pro-NHL,default,sc.html">
+													
+							<li style="top:20.0px;" class="right">
+								<a href="http://www.vineyardvines.com/NHL-Ties/Ties-NHL/College-Pro-NHL,default,sc.html">
 									NHL
 								</a>
 		                    </li>
 		                
+					
+													
+						
+						
+													
+							<li style="top:49.0px;" class="right">
+								<a href="http://www.vineyardvines.com/Sorority/College-Pro-Sorority,default,sc.html">
+									Sorority
+								</a>
+		                    </li>
 		                
-		              
 					
                     </ul> 
                  
 	            </li>
 	    	
 		
+					
 			
+				
 				<li>
 				<a class="bord" href="http://www.vineyardvines.com/whale-shop/Accessories,default,sc.html">
 					Whale Shop
-				</a>
-				
-	            </li>
-	    	
-		
-			
-				<li>
-				<a class="bord" href="http://www.vineyardvines.com/Gift-Guide/Gifts,default,sc.html">
-					Gift Guide
 				</a>
 				
 					<ul class="twocol">
 					
 					
 					
+													
 						
 						
-						
-						
+													
 							<li class="left">
-								
-								<a href="http://www.vineyardvines.com/gifts-200-dollars-and-up/Gifts-200-Up,default,sc.html">
-									$200 &amp; Up
+								<a href="http://www.vineyardvines.com/Patchwork-Shop/whale-shop-patchwork-shop,default,sc.html">
+									Patchwork Shop
 								</a>
 		                    </li>
 		                
-		                
-		              
 					
+													
 						
 						
-						
-						
+													
 							<li class="left">
-								
-								<a href="http://www.vineyardvines.com/gifts-100-200-dollars/Gifts-100-200,default,sc.html">
-									$100 - $200
+								<a href="http://www.vineyardvines.com/Beach-Shop/whale-shop-beach-shop,default,sc.html">
+									Beach Shop
 								</a>
 		                    </li>
 		                
-		                
-		              
 					
+													
 						
 						
-						
-						
+													
 							<li class="left">
-								
-								<a href="http://www.vineyardvines.com/gifts-50-100-dollars/Gifts-50-100,default,sc.html">
-									$50 - $100
+								<a href="http://www.vineyardvines.com/Tech-Accessories/whale-shop-tech-shop,default,sc.html">
+									Tech Accessories
 								</a>
 		                    </li>
 		                
-		                
-		              
 					
+													
 						
 						
-						
-						
-							<li class="left">
-								
-								<a href="http://www.vineyardvines.com/gifts-under-50/Gifts-Under-50,default,sc.html">
-									Under $50
-								</a>
-		                    </li>
-		                
-		                
-		              
-					
-						
-						
-						
-						
-							<li class="left">
-								
-								<a href="http://www.vineyardvines.com/shep-and-ians-top-picks/Gifts-our-favorites,default,sc.html">
-									Shep &amp; Ian's Top Picks
-								</a>
-		                    </li>
-		                
-		                
-		              
-					
-						
-						
-						
-						
-							<li class="left">
-								
-								<a href="http://www.vineyardvines.com/The-Shep-Shirt-Shop/Gifts-shep-shirt-shop,default,sc.html">
-									The Shep Shirt Shop
-								</a>
-		                    </li>
-		                
-		                
-		              
-					
-						
-						
-						
-						
-							<li class="left">
-								
-								<a href="http://www.vineyardvines.com/The-Patchwork-Shop/Gifts-patchwork-shop,default,sc.html">
-									The Patchwork Shop
-								</a>
-		                    </li>
-		                
-		                
-		              
-					
-						
-						
-						
-						
-							<li class="left">
-								
-								<a href="http://www.vineyardvines.com/The-Lazy-Shop/Gifts-lazy-shop,default,sc.html">
-									The Lazy Shop
-								</a>
-		                    </li>
-		                
-		                
-		              
-					
-						
-						
-						
-						
-							<li class="left">
-								
-								<a href="http://www.vineyardvines.com/The-Holiday-Party-Shop/Gifts-holiday-party,default,sc.html">
-									The Holiday Party Shop
-								</a>
-		                    </li>
-		                
-		                
-		              
-					
-						
-						
-						
-						
+													
 							<li style="top:20.0px;" class="right">
-								
-								<a href="http://www.vineyardvines.com/Stocking-Stuffers/Gifts-stocking-stuffers,default,sc.html">
-									Stocking Stuffers
+								<a href="http://www.vineyardvines.com/Odds-Ends/whale-shop-odds-ends,default,sc.html">
+									Odds &amp; Ends
 								</a>
 		                    </li>
 		                
-		                
-		              
 					
+													
 						
 						
-						
-						
+													
 							<li style="top:49.0px;" class="right">
-								
-								<a href="http://www.vineyardvines.com/Gifts-for-The-Sports-Fan/Gifts-Sports-Fan,default,sc.html">
-									Gifts for The Sports Fan
+								<a href="http://www.vineyardvines.com/Shep-Shirt-Shop/whale-shop-shep-shirt-shop,default,sc.html">
+									Shep Shirt Shop
 								</a>
 		                    </li>
 		                
-		                
-		              
 					
+													
 						
 						
-						
-						
+													
 							<li style="top:78.0px;" class="right">
-								
-								<a href="http://www.vineyardvines.com/Gifts-for-The-Boater/Gifts-boaters,default,sc.html">
-									Gifts for The Boater
+								<a href="http://www.vineyardvines.com/Drinkware-Wine-Accessories/whale-shop-drinkware-wine-accessories,default,sc.html">
+									Drinkware &amp; Wine Accessories
 								</a>
 		                    </li>
 		                
-		                
-		              
-					
-						
-						
-						
-						
-							<li style="top:107.0px;" class="right">
-								
-								<a href="http://www.vineyardvines.com/Gifts-for-The-Club-Guy/Gifts-club,default,sc.html">
-									Gifts for The Club Guy
-								</a>
-		                    </li>
-		                
-		                
-		              
-					
-						
-						
-						
-						
-							<li style="top:136.0px;" class="right">
-								
-								<a href="http://www.vineyardvines.com/Gifts-for-The-Collegiate/Gifts-collegiate,default,sc.html">
-									Gifts for The Collegiate
-								</a>
-		                    </li>
-		                
-		                
-		              
-					
-						
-						
-						
-						
-							<li style="top:165.0px;" class="right">
-								
-								<a href="http://www.vineyardvines.com/Gifts-for-The-Beachcomber/Gifts-beachcombers,default,sc.html">
-									Gifts for The Beachcomber
-								</a>
-		                    </li>
-		                
-		                
-		              
-					
-						
-						
-						
-						
-							<li style="top:194.0px;" class="right">
-								
-								<a href="http://www.vineyardvines.com/Gifts-for-The-Dog-Lover/Gifts-animal-lover,default,sc.html">
-									Gifts for The Dog Lover
-								</a>
-		                    </li>
-		                
-		                
-		              
-					
-						
-						
-						
-						
-							<li style="top:223.0px;" class="right">
-								
-								<a href="http://www.vineyardvines.com/Gifts-for-The-Golfer/Gifts-golfer,default,sc.html">
-									Gifts for The Golfer
-								</a>
-		                    </li>
-		                
-		                
-		              
 					
                     </ul> 
                  
 	            </li>
 	    	
 		
+					
 			
+				
 				<li>
 				<a class="bord" href="http://www.vineyardvines.com/Sale/Sale,default,sc.html">
 					Sale
@@ -1730,56 +1573,53 @@ else if(navigator.userAgent.toLowerCase().match('safari')){document.write('<link
 					
 					
 					
+													
 						
 						
-						
-						
+													
 							<li class="left">
-								
 								<a href="http://www.vineyardvines.com/sale-men/Sale-Mens,default,sc.html">
 									Men
 								</a>
 		                    </li>
 		                
-		                
-		              
 					
+													
 						
 						
-						
-						
+													
 							<li class="left">
-								
 								<a href="http://www.vineyardvines.com/Women/Sale-Womens,default,sc.html">
 									Women
 								</a>
 		                    </li>
 		                
-		                
-		              
 					
+													
 						
 						
-						
-						
+													
 							<li style="top:20.0px;" class="right">
-								
 								<a href="http://www.vineyardvines.com/Kids/Sale-Kids,default,sc.html">
 									Kids
 								</a>
 		                    </li>
 		                
-		                
-		              
 					
                     </ul> 
                  
 	            </li>
 	    	
 		
+					
 			
 		
 				
+		<li>
+			<a class="lst bord" href="/on/demandware.store/Sites-Vineyard-Vines-Site/default/Search-ShowContent?fdid=blog">
+				Blog
+			</a>
+		</li>		
 	</ul>
     <div class="clear"><!-- FLOAT CLEAR --></div>
 </div><!-- END: categorymenu -->
@@ -1826,8 +1666,7 @@ jQuery(window).resize(function (){
 <div class="htmlslotcontainer">
 	
 		
-			<div><span style="color: rgb(255, 153, 204);"><font face="Verdana" size="2"><b>Free </b></font></span><u><font face="Verdana" size="2"><a href="http://www.vineyardvines.com/Holiday-Shipping/holiday-shipping,default,pg.html"><span style="color: rgb(0, 0, 51);"><strong>Holiday Shipping</strong></span></a></font></u><font face="Verdana" size="2"><a href="http://www.vineyardvines.com/Holiday-Shipping/holiday-shipping,default,pg.html"></a><span style="color: rgb(255, 153, 204);"><b>&nbsp;on All Orders Over $125</b></span></font></div>
-<div>&nbsp; &nbsp; &nbsp;</div>
+			<div><span style="font-size: small;"><span style="font-family: Verdana;"><strong><span style="color: rgb(255, 153, 204);">Free Shipping on All Orders Over $125</span></strong></span></span></div>
 <p><span style="color: rgb(255, 153, 204);">&nbsp;</span></p>	
 		
 	
@@ -1882,7 +1721,7 @@ jQuery(window).resize(function (){
 <p>&nbsp;</p>
 <h3>Hours:</h3>
 <p><span style="font-family: Arial;"><span style="font-size: small;">Monday - Friday<br>
-9am - 6pm, EST</span></span><span style="font-size: small;"><span style="font-family: Tahoma;"><br>
+8am - 8pm, ET</span></span><span style="font-size: small;"><span style="font-family: Tahoma;"><br>
 </span></span></p>
 		</div> <!-- End contentasset -->
 	
@@ -1924,7 +1763,7 @@ jQuery(window).resize(function (){
 	
 		
 		<div class="contentasset"><!-- dwMarker="content" dwContentID="bcdlUiaagZmnYaaacYvVt1V0xJ" -->
-			<p><img width="720" height="72" src="http://demandware.edgesuite.net/aahw_prd/on/demandware.static/Sites-Vineyard-Vines-Site/Sites-Vineyard-Vines-Library/default/v1356038350574/images/hdr_account_privacy.jpg" alt="Spring 3"></p>
+			<p><img width="720" height="72" src="http://demandware.edgesuite.net/aahw_prd/on/demandware.static/Sites-Vineyard-Vines-Site/Sites-Vineyard-Vines-Library/default/v1371787645440/images/hdr_account_privacy.jpg" alt="Spring 3"></p>
 <div class="CustomerServiceContainer clearfix">
 <ul>
     <li><a href="#information">Information we share <br>
@@ -1938,7 +1777,7 @@ jQuery(window).resize(function (){
     </a></li>
 </ul>
 <br>
-<p>PRIVACY POLICY UPDATED March 20, 2012<br>
+<p>PRIVACY POLICY UPDATED February, 2013<br>
 <br>
 At vineyardvines.com, your privacy is a top priority. Please read our privacy policy details. vineyard vines® collects customer information to improve your overall shopping experience with us. We respect your privacy and are committed to maintaining and using this information responsibly. This privacy policy addresses the use and disclosure of information we collect from you on our website as well as information we collect directly from customers on the telephone or in our stores. Personal information relating to you and your order history are only available to you if you provide the correct password that you create on vineyardvines.com. After providing your password, you can edit or delete your information at any time through the My Account page.<br>
 <br>
@@ -1999,7 +1838,7 @@ Customer Care<br>
 37 Brown House Road<br>
 Stamford, CT 06902</p>
 <p>&nbsp;</p>
-PRIVACY POLICY UPDATED March 20, 2012</div>
+PRIVACY POLICY UPDATED February, 2013</div>
 		</div> <!-- End contentasset -->
 	
 
@@ -2020,6 +1859,9 @@ PRIVACY POLICY UPDATED March 20, 2012</div>
 		<div class="clear"><!-- FLOAT CLEAR --></div>
 	</div><!-- END: main -->
 	
+
+
+
 
 
 
@@ -2142,7 +1984,7 @@ PRIVACY POLICY UPDATED March 20, 2012</div>
         <li><a href="https://www.vineyardvines.com/on/demandware.store/Sites-Vineyard-Vines-Site/default/Account-StartRegister" title="Account StartRegister">Create an Account</a></li>
     <li><a href="https://www.vineyardvines.com/on/demandware.store/Sites-Vineyard-Vines-Site/default/Order-History" title="Order Status">Order Status</a></li>
     <li><a href="https://www.vineyardvines.com/on/demandware.store/Sites-Vineyard-Vines-Site/default/Wishlist-Add">Wish List</a></li>
-    <li><a href="http://www.vineyardvines.com/Holiday-Shipping/holiday-shipping,default,pg.html" title="Shipping">Shipping</a></li>
+    <li><a href="http://www.vineyardvines.com/Shipping/shipping,default,pg.html" title="Shipping">Shipping</a></li>
     <li><a href="http://www.vineyardvines.com/Returns-Exchanges/returns-exchanges,default,pg.html" title="Returns">Returns</a></li>
     <li><a href="http://www.vineyardvines.com/FAQ%27s/frequently-asked-questions,default,pg.html" title="FAQs">FAQ's</a></li>
 </ul>
@@ -2168,13 +2010,13 @@ PRIVACY POLICY UPDATED March 20, 2012</div>
 	
 		
 		<div class="contentasset"><!-- dwMarker="content" dwContentID="cdb16iaagZxrUaaacZ7AVpg5Sd" -->
-			<ul title="CustomerCare" class="footersubmenu">
-    <li><a href="http://www.vineyardvines.com/giftcards/5CB6100,default,pd.html?cgid=Accessories-Swag"> Gift Cards </a></li>
-<li><a href="http://www.vineyardvines.com/Size-Charts/size-charts,default,pg.html" title="Size Charts">Size Charts</a></li>
-    <li><a href="http://www.vineyardvines.com/on/demandware.store/Sites-Vineyard-Vines-Site/default/Stores-Find" title="store locator">Find a Store</a></li>
-    <li><a href="http://www.vineyardvines.com/on/demandware.store/Sites-Vineyard-Vines-Site/default/CustomerService-ContactUs" title="Contact Us">Contact Us</a></li>
-    <li><a href="http://www.vineyardvines.com/Weddings/weddings,default,pg.html" title="Weddings">Weddings</a></li>
-    <li><a href="http://www.vineyardvines.com/Custom-Products/custom-products,default,pg.html" title="Custom Products">Custom Products</a></li>
+			<ul class="footersubmenu" title="CustomerCare">
+    <li><a href="https://www.vineyardvines.com/on/demandware.store/Sites-Vineyard-Vines-Site/default/GiftCert-Landing"> Gift Cards </a></li>
+    <li><a title="Size Charts" href="http://www.vineyardvines.com/Size-Charts/size-charts,default,pg.html">Size Charts</a></li>
+    <li><a title="store locator" href="http://www.vineyardvines.com/on/demandware.store/Sites-Vineyard-Vines-Site/default/Stores-Find">Find a Store</a></li>
+    <li><a title="Contact Us" href="http://www.vineyardvines.com/on/demandware.store/Sites-Vineyard-Vines-Site/default/CustomerService-ContactUs">Contact Us</a></li>
+    <li><a title="Weddings" href="http://www.vineyardvines.com/Weddings/weddings/weddings,default,pg.html">Weddings</a></li>
+    <li><a title="Custom Products" href="http://www.vineyardvines.com/Custom-Products/custom-products/custom-products,default,pg.html">Custom Products</a></li>
 </ul>
 		</div> <!-- End contentasset -->
 	
@@ -2200,12 +2042,12 @@ PRIVACY POLICY UPDATED March 20, 2012</div>
 		<div class="contentasset"><!-- dwMarker="content" dwContentID="bc5LIiaagZnTMaaacZuctpg5Sd" -->
 			<ul class="footersubmenu" title="ConnectwithUs">
     <li><a href="http://www.vineyardvines.com/Our-Story/good-life-timeline,default,pg.html" title="Our Story">Our Story</a></li>
-    <li><a href="http://www.vineyardvines.com/press/good-life-press,default,pg.html" title="Press">Press</a></li>
-    <li><a href="http://www.vineyardvinesblog.com/" title="Blog">Blog</a></li>
+    <li><a href="http://www.vineyardvines.com/As-Seen-In/press-as-seen-in,default,pg.html" title="Press">Press</a></li>
+    <li><a href="http://www.vineyardvines.com/on/demandware.store/Sites-Vineyard-Vines-Site/default/Search-ShowContent?fdid=blog" title="Blog">Blog</a></li>
     <li><a href="http://www.vineyardvines.com/The-Good-Life/good-life-main,default,pg.html" title="The Good Life">The Good Life</a></li>
     <li><a href="http://www.vineyardvines.com/Calendar-of-Events/good-life-calendar,default,pg.html" title="Calendar of Events">Calendar of Events</a></li>
     <li><a title="Photo Submission" href="http://www.vineyardvines.com/on/demandware.store/Sites-Vineyard-Vines-Site/default/Photo-Upload">Photo Submission</a></li>
-    <li><a href="http://www.vineyardvines.com/Job-Opportunities/job-opportunities,default,pg.html">Job Opportunities</a></li>
+    <li><a href="http://www.vineyardvines.com/jobopportunities/job-opportunities,default,pg.html">Job Opportunities</a></li>
 </ul>
 		</div> <!-- End contentasset -->
 	
@@ -2220,6 +2062,13 @@ PRIVACY POLICY UPDATED March 20, 2012</div>
 					
 						<div>
 							<ul class="footersubmenu" title="Shop">
+								
+									
+										<li>
+											<a title="New" href="http://www.vineyardvines.com/New/New-Arrivals,default,sc.html">New</a>
+												
+								        </li>
+								    
 								
 									
 										<li>
@@ -2265,13 +2114,6 @@ PRIVACY POLICY UPDATED March 20, 2012</div>
 								
 									
 										<li>
-											<a title="Gift Guide" href="http://www.vineyardvines.com/Gift-Guide/Gifts,default,sc.html">Gift Guide</a>
-												
-								        </li>
-								    
-								
-									
-										<li>
 											<a title="Sale" href="http://www.vineyardvines.com/Sale/Sale,default,sc.html">Sale</a>
 												
 								        </li>
@@ -2301,9 +2143,8 @@ PRIVACY POLICY UPDATED March 20, 2012</div>
 	
 		
 		<div class="contentasset"><!-- dwMarker="content" dwContentID="bcjMciaagZPpwaaacZnehpg5Sz" -->
-			<h3>Catch the latest news:</h3>
-<p><span style="color: rgb(102, 204, 255);"><span class="signup">Sign-up for our email list!</span></span><span class="signup"><br>
-</span></p>
+			<h2>Get on board!</h2>
+<h4>Sign-up for our email list</h4>
 		</div> <!-- End contentasset -->
 	
 
@@ -2334,8 +2175,8 @@ PRIVACY POLICY UPDATED March 20, 2012</div>
 		
 		<div class="contentasset"><!-- dwMarker="content" dwContentID="bcRSgiaagZaTkaaacZhwhpg5Sy" -->
 			<div class="catalog">
-<h3>Request a catalog</h3>
-<span class="signup">                      <a href="https://www.vineyardvines.com/on/demandware.store/Sites-Vineyard-Vines-Site/default/RequestCatalog-Start">  <span style="color: rgb(102, 204, 255);">The Good Life is waiting...</span>  </a>   </span>
+<h2>Request a catalog</h2>
+<h4><a href="https://www.vineyardvines.com/on/demandware.store/Sites-Vineyard-Vines-Site/default/RequestCatalog-Start">  <span style="color: rgb(102, 204, 255);">The Good Life is waiting...</span>  </a></h4>  
 <p align="right">
 <script type="text/javascript" src="https://seal.verisign.com/getseal?host_name=www.vineyardvines.com&amp;size=S&amp;use_flash=NO&amp;use_transparent=NO&amp;lang=en"></script>
 </p>
@@ -2364,22 +2205,17 @@ PRIVACY POLICY UPDATED March 20, 2012</div>
 	
 		
 		<div class="contentasset"><!-- dwMarker="content" dwContentID="cdbaQiaagZ0o6aaacYFEZ1V0xJ" -->
-			<div class="toplinks">
-<div class="socialinks"><map id="socialinks" name="socialinks">
-<area title="Facebook" alt="Facebook" href="http://www.facebook.com/vineyardvines" target="new" coords="0, 0, 25, 25" shape="rect">
-<area title="Twitter" alt="Twitter" href="http://twitter.com/vineyardvines" target="new" coords="30, 0, 55, 25" shape="rect">
-<area title="YouTube" alt="YouTube" href="http://www.youtube.com/user/vineyardvines" target="new" coords="60, 0, 85, 25" shape="rect">
-<area title="VineyardVines" alt="VineyardVines" href="http://www.vineyardvinesblog.com/" target="new" coords="90, 0, 115, 25" shape="rect"> 				</map> 				<img alt="" usemap="#socialinks" src="http://demandware.edgesuite.net/aahw_prd/on/demandware.static/Sites-Vineyard-Vines-Site/Sites-Vineyard-Vines-Library/default/v1356038350574/images/footer/social.png"></div>
-<div class="feelthisgood"><img alt="" src="http://demandware.edgesuite.net/aahw_prd/on/demandware.static/Sites-Vineyard-Vines-Site/Sites-Vineyard-Vines-Library/default/v1356038350574/images/footer/feel_this_good.png"></div>
+			<div><a href="https://www.facebook.com/vineyardvines" target="_blank"><img width="26" height="25" src="http://demandware.edgesuite.net/aahw_prd/on/demandware.static/Sites-Vineyard-Vines-Site/Sites-Vineyard-Vines-Library/default/v1371787645440/images/footer/facebook.png" alt="facebook vineyard vines"></a> <a href="http://instagram.com/vineyardvines" target="_blank"><img width="26" height="25" src="http://demandware.edgesuite.net/aahw_prd/on/demandware.static/Sites-Vineyard-Vines-Site/Sites-Vineyard-Vines-Library/default/v1371787645440/images/footer/instagram.png" alt="instagram"></a> <a href="https://twitter.com/vineyardvines" target="_blank"><img width="26" height="25" src="http://demandware.edgesuite.net/aahw_prd/on/demandware.static/Sites-Vineyard-Vines-Site/Sites-Vineyard-Vines-Library/default/v1371787645440/images/footer/twitter.png" alt="twitter"></a> <a href="http://pinterest.com/vineyardvines/" target="_blank"><img width="26" height="25" src="http://demandware.edgesuite.net/aahw_prd/on/demandware.static/Sites-Vineyard-Vines-Site/Sites-Vineyard-Vines-Library/default/v1371787645440/images/footer/pintrest.png" alt="pinterest"> </a><a href="http://www.youtube.com/user/vineyardvines" target="_blank"><img width="26" height="25" alt="you tube" src="http://demandware.edgesuite.net/aahw_prd/on/demandware.static/Sites-Vineyard-Vines-Site/Sites-Vineyard-Vines-Library/default/v1371787645440/images/footer/you_tube.png"></a>
+<div class="feelthisgood"><img src="http://demandware.edgesuite.net/aahw_prd/on/demandware.static/Sites-Vineyard-Vines-Site/Sites-Vineyard-Vines-Library/default/v1371787645440/images/footer/feel_this_good.png" alt="every day should feel this good"></div>
 <div class="clear">&nbsp;</div>
-</div>
 <div class="copyright">
-<div class="disc"><span>© 2012 vineyard vines. All rights reserved.</span></div>
+<div class="disc"><span>© 2013 vineyard vines. All rights reserved.</span></div>
 <div class="links">
 <ul>
-    <li><a href="http://www.vineyardvines.com/Privacy-Policy/privacy-policy,default,pg.html" title="Privacy Policy">Privacy Policy</a><span>&nbsp;&nbsp;</span></li>
-    <li><a href="http://www.vineyardvines.com/Terms-of-Use/terms,default,pg.html" title="Terms Of Use">Terms of Use</a><span>&nbsp;&nbsp;</span></li>
+    <li><a title="Privacy Policy" href="http://www.vineyardvines.com/Privacy-Policy/privacy-policy,default,pg.html">Privacy Policy</a><span>&nbsp;&nbsp;</span></li>
+    <li><a title="Terms Of Use" href="http://www.vineyardvines.com/Terms-of-Use/terms,default,pg.html">Terms of Use</a><span>&nbsp;&nbsp;</span></li>
 </ul>
+</div>
 </div>
 </div>
 		</div> <!-- End contentasset -->
@@ -2388,21 +2224,28 @@ PRIVACY POLICY UPDATED March 20, 2012</div>
 
 
 
+
+		
+			
 	</div><!-- END: footerbottom -->
-	
 	
 </div><!-- END: footer -->
 
 
 
 <script type="text/javascript"><!--	
+	var isCookieSetBefore = false;
 	function setRequestInfo(msg) {
 		jQuery(".maillist_container span.errormessage").remove();
 		jQuery(".maillist_container").append("<span class=\"errormessage\">" + msg + "<\/span>");
-		
 	}
+	
 	jQuery(document).ready(function(){
 
+		
+	
+
+		
 		jQuery("[name=email]").focus(function() {
 			if(jQuery(this).val() == "Enter Your Email Address"){
 				jQuery(this).val("");
@@ -2467,7 +2310,7 @@ PRIVACY POLICY UPDATED March 20, 2012</div>
 </div><!-- END: container -->
 </div>
 
-<!-- Demandware Analytics code 1.0 --><script type="text/javascript" src="http://demandware.edgesuite.net/aahw_prd/on/demandware.static/Sites-Vineyard-Vines-Site/-/default/v1356038350574/internal/jscript/dwanalytics.js"></script><script type="text/javascript">//<!--
+<!-- Demandware Analytics code 1.0 --><script type="text/javascript" src="http://demandware.edgesuite.net/aahw_prd/on/demandware.static/Sites-Vineyard-Vines-Site/-/default/v1371787645440/internal/jscript/dwanalytics.js"></script><script type="text/javascript">//<!--
 /* <![CDATA[ */
 try{
   var trackingUrl = "http://www.vineyardvines.com/on/demandware.store/Sites-Vineyard-Vines-Site/default/__Analytics-Tracking";
