@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the vouchercodes.co.uk privacy policy that was archived on 2012-10-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121017012148id_/http%3A//www.vouchercodes.co.uk/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vouchercodes.co.uk privacy policy that was archived on 2013-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130621104658id_/http%3A//www.vouchercodes.co.uk/privacy-policy.html) for the most accurate reproduction.*
 
 # VoucherCodes.co.uk Data Protection and Privacy Policy
 
-WhaleShark Media Ltd. ("We") are committed to protecting and respecting your privacy.
+RetailMeNot UK Ltd ("We") are committed to protecting and respecting your privacy.
 
 This policy (together with our website terms and conditions that apply to your use of our website and our mobile application terms and conditions that apply to your use of our mobile application) sets out the basis on which any personal data we collect from you, or that you provide to us, will be processed by us. Please read the following carefully to understand our views and practices regarding your personal data and how we will treat it.
 
-For the purpose of the Data Protection Act 1998 (the Act), the data controller is WhaleShark Media Ltd. of 1st Floor, 33-41 Dallington Street, London, EC1V 0BB.
+For the purpose of the Data Protection Act 1998 (the Act), the data controller is RetailMeNot UK Ltd of 6th Floor, 200 Grays Inn Road, London, WC1X 8XZ.
 
 * * *
 
@@ -149,9 +149,11 @@ To unsubscribe from our newsletter please sign in to your account and update you
 Questions, comments and requests regarding this data protection and privacy policy are welcomed and should be addressed [here](https://web.archive.org/contact-us.html).
 
 **Address**  
-31-33 Dallington Street  
+RetailMeNot UK Ltd  
+6th Floor  
+200 Grays Inn Road  
 London  
-EC1V 0BB
+WC1X 8XZ
 
 **Telephone**  
 020 7566 9840
