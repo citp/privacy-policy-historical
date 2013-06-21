@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tirebuyer.com privacy policy that was archived on 2012-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121122141516id_/http%3A//www.tirebuyer.com/privacy-policy%3Bjsessionid%3D66C883F7028D9C3DF52D71FC7DA91C89.hash2) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tirebuyer.com privacy policy that was archived on 2013-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130621040355id_/http%3A//www.tirebuyer.com/privacy-policy) for the most accurate reproduction.*
 
 # TireBuyer Privacy Policy | TireBuyer.com
 
@@ -28,7 +28,7 @@ Third-party advertisers. Ads appearing on the Site may be delivered to users by 
 
 #### Use of information
 
-Generally. We use your personal information to fulfill orders and to facilitate the Products you purchase or request from us. We use your personal information in the file we maintain about you, and other information we obtain from your current and past activities on the Site to: resolve disputes; troubleshoot problems; collect fees owed; measure consumer interest in our products and services; inform you about online and offline offers, products, services, and updates; customize your experience; detect and protect us against error, fraud, and other criminal activity; enforce this Privacy Policy; and as otherwise described to you at the time of collection. We may compare and review your personal information for errors, omissions, and for accuracy.
+ Generally. We use your personal information to fulfill orders and to facilitate the Products you purchase or request from us. We use your personal information in the file we maintain about you, and other information we obtain from your current and past activities on the Site to: resolve disputes; troubleshoot problems; collect fees owed; measure consumer interest in our products and services; inform you about online and offline offers, products, services, and updates; customize your experience; detect and protect us against error, fraud, and other criminal activity; enforce this Privacy Policy; and as otherwise described to you at the time of collection. We may compare and review your personal information for errors, omissions, and for accuracy.
 
 Special offers and updates. We may occasionally send you information on special deals or promotions. Out of respect for your privacy, you have the option not to receive these types of communications. Please see the "Choice and opt-out" section of this Privacy Policy.
 
