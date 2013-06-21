@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ullapopken.com privacy policy that was archived on 2012-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121201005839id_/http%3A//www.ullapopken.com/category/customer%2Bservice/privacy%2Band%2Bsecurity.do) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ullapopken.com privacy policy that was archived on 2013-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130621064254id_/http%3A//www.ullapopken.com/category/customer%2Bservice/privacy%2Band%2Bsecurity.do) for the most accurate reproduction.*
 
 # Privacy and Security - Ulla Popken
 
@@ -13,7 +13,7 @@
   * Security
   * Privacy of Children on Our Web Site
   * Policy Changes
-  * [Questions orprivacyPolicy.html#12 Comments?](http://ullapopken.com/privacy-policy/a/107//article.asp?ai=107#Questions%20or%20Comments?)
+  * Questions or Comments?
 
 
 
