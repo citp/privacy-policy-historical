@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the farsi1hd.com privacy policy that was archived on 2012-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121226043443id_/http%3A//www.farsi1hd.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the farsi1hd.com privacy policy that was archived on 2013-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130621051330id_/http%3A//farsi1hd.com/privacy_policy.php) for the most accurate reproduction.*
 
-# Farsi1 - privacy_policy - farsi1hd.com
+# Serial Privacy_policy - farsi1hd.com
 
 ### **Download free TV and Farsi1 HD Toolbar == >**
 
@@ -18,7 +18,7 @@ Advertising partners and other third parties may also use cookies, scripts and/o
 Controlling Your Privacy  
 Note that you can change your browser settings to disable cookies if you have privacy concerns. Disabling cookies for all sites is not recommended as it may interfere with your use of some sites. The best option is to disable or enable cookies on a per-site basis. Consult your browser documentation for instructions on how to block cookies and other tracking mechanisms.  
 Contact Information  
-Concerns or questions about this privacy policy can be directed to info@farsi1hd.com for further clarification.
+Concerns or questions about this privacy policy can be directed to info@free0098.com for further clarification.
 
   
-Copyright ©2010 farsi1hd.com | [Privacy Policy / Contact US](https://web.archive.org/web/20121226043443id_/http%3A//www.farsi1hd.com/privacy_policy.php)| [**FAQ / Soalha Va Javabha**](https://web.archive.org/web/20121226043443id_/http%3A//www.farsi1hd.com/faq.php) [ ](http://www.countomat.de/77390.html "Countomat Webcounter und Webstatistik \(Statistik und Logfileanalyse, Counter\)")
+Copyright ©2010 free0098.com | [Privacy Policy / Contact US](https://web.archive.org/web/20130621051330id_/http%3A//farsi1hd.com/privacy_policy.php)| [**FAQ / Soalha Va Javabha**](https://web.archive.org/web/20130621051330id_/http%3A//farsi1hd.com/faq.php) [ ](http://www.countomat.de/77390.html "Countomat Webcounter und Webstatistik \(Statistik und Logfileanalyse, Counter\)")
