@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the silentjourney.com privacy policy that was archived on 2012-10-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121029041126id_/http%3A//www.silentjourney.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the silentjourney.com privacy policy that was archived on 2013-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130621110548id_/http%3A//silentjourney.com/privacypolicy.html) for the most accurate reproduction.*
 
 # PRIVACY POLICY | Silent Journey
 
@@ -49,14 +49,13 @@ SilentJourney reserves the right to release current or past user information and
 
 **Minors** Visitors under 18 years of age are not permitted to use and/or submit their personal information at our Website and are not allowed to participate in the Sweepstakes offered by SilentJourney. SilentJourney does not knowingly solicit or collect information from visitors under 18 years of age. SilentJourney encourages parents and guardians to spend time online with their children and to participate and monitor the interactive activities of their children. 
 
-**Opt-Out/Unsubscribe** To stop receiving future communications from SilentJourney, please [Click Here](mailto:support@silentjourney.com). SilentJourney uses Personal Information to provide promotional offers by e-mail to individuals. SilentJourney may maintain separate e-mail lists for different purposes. If e-mail recipients wish to end their e-mail subscription from a particular list, they need to follow the instructions at the end of each e-mail message to unsubscribe from the particular list. To unsubscribe from all SilentJourney e-mail lists, please [Click Here](mailto:support@silentjourney.com). 
+**Opt-Out/Unsubscribe** To stop receiving future communications from SilentJourney, please [Click Here](mailto:cs@silentjourney.com). SilentJourney uses Personal Information to provide promotional offers by e-mail to individuals. SilentJourney may maintain separate e-mail lists for different purposes. If e-mail recipients wish to end their e-mail subscription from a particular list, they need to follow the instructions at the end of each e-mail message to unsubscribe from the particular list. To unsubscribe from all SilentJourney e-mail lists, please [Click Here](mailto:cs@silentjourney.com). 
 
 **Changes in Privacy Policy** SilentJourney reserves the right to change or update this Privacy Policy at any time by posting a notice at the Website explaining that we are changing our Privacy Policy. If the manner in which we use Personal Information changes, SilentJourney will notify its users by posting the changes on the Website and sending out an e-mail notification to its customers notifying them of the changes, and providing them with the opportunity to opt-out of the provisions relating to the transfer of their Personal Information. Other than where the user opts-out, and other than where affirmative consent is required for California residents and Vermont residents, the user's continued use of the SilentJourney service and/or continued receipt of SilentJourney e-mails constitutes an affirmative acknowledgement and acceptance by the user of the modified Privacy Policy. 
 
-**Contacting the Website** Our "About SJ page contains information that allows you to contact us directly with any questions or comments that you may have. We listen to or read every message sent in and endeavor to reply promptly to each one. This information is used to respond directly to your questions or comments. If you have any questions about this Privacy Policy or the practices of SilentJourney, please feel free to contact us at [support@silentjourney.com](mailto:support@silentjourney.com) or : 
+**Contacting the Website** Our "About SJ page contains information that allows you to contact us directly with any questions or comments that you may have. We listen to or read every message sent in and endeavor to reply promptly to each one. This information is used to respond directly to your questions or comments. If you have any questions about this Privacy Policy or the practices of SilentJourney, please feel free to contact us at [cs@silentjourney.com](mailto:cs@silentjourney.com) or : 
 
 [SilentJourney.com](http://www.silentjourney.com/)  
 275 Madison Avenue 4th Fl   
 New York, NY 10016  
-Phone: 212-878-6611  
 
