@@ -1,0 +1,958 @@
+<!--The following is the downloaded HTML source of the hubolu.com privacy policy that was archived on 2013-06-21.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130621222310id_/http%3A//hubolu.com/cgi-bin/Help%3Fcmd%3Dview%26pages%3Dprivacy) for the most accurate reproduction.-->
+
+<html><head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<title>Hubolu - Help is here</title>
+<meta name="description" content="Hubolu help pages- A new kind of social network that connects friends, colleagues and neighbours to a powerful network of people you know and trust. Network opportunities, market a talent, provide a service, buy and sell things, share a photo, plan an event, send money to a friend. Collaborate with your team, group, classmates, work, community, or local business. 
+ ">
+<meta name="keywords" content="auction, classifieds, Buy, sell, Sell books, sell your home, sell Jewelry, sell antiques.">
+<meta http-equiv="Content-Language" content="en-us">
+<meta name="Classification" content="Social Network, social network, Social Network, Marketplace">
+<meta name="author" content="RScript">
+<meta name="Copyright" content="hubolu.com">
+<meta name="Publisher" content="hubolu.com">
+<script language="JavaScript">
+var auctionurl	= "http://hubolu.com";
+var site_url = "http://hubolu.com/cgi-bin";
+var imgsite_url = "http://hubolu.com/auction/images/";
+function pop_Up(URL,WIDTH,HEIGHT) {
+day = new Date();
+id = day.getTime();
+eval("page" + id + " = window.open(URL, '" + id + "', 'toolbar=0,scrollbars=1,location=0,statusbar=0,menubar=0,resizable=0,"+WIDTH+","+HEIGHT+"');");
+
+}
+</script>
+<script type="text/javascript">
+function dcountup(startingdate, baseunit){
+	this.currentTime=new Date('')
+	this.startingdate=new Date(startingdate)
+	this.timesup=false
+	this.baseunit=baseunit
+	this.start()
+}
+
+dcountup.prototype.oncountup=function(){} //default action for "oncountup"
+
+dcountup.prototype.start=function(){
+	var thisobj=this
+	this.currentTime.setSeconds(this.currentTime.getSeconds()+1)
+	var timediff=(this.currentTime-this.startingdate)/1000 //difference btw target date and current date, in seconds
+	var oneMinute=60 //minute unit in seconds
+	var oneHour=60*60 //hour unit in seconds
+	var oneDay=60*60*24 //day unit in seconds
+	var dayfield=Math.floor(timediff/oneDay)
+	var hourfield=Math.floor((timediff-dayfield*oneDay)/oneHour)
+	var minutefield=Math.floor((timediff-dayfield*oneDay-hourfield*oneHour)/oneMinute)
+	var secondfield=Math.floor((timediff-dayfield*oneDay-hourfield*oneHour-minutefield*oneMinute))
+	if (this.baseunit=="hours"){ //if base unit is hours, set "hourfield" to be topmost level
+		hourfield=dayfield*24+hourfield
+		dayfield="n/a"
+	}
+	else if (this.baseunit=="minutes"){ //if base unit is minutes, set "minutefield" to be topmost level
+		minutefield=dayfield*24*60+hourfield*60+minutefield
+		dayfield=hourfield="n/a"
+	}
+	else if (this.baseunit=="seconds"){ //if base unit is seconds, set "secondfield" to be topmost level
+		var secondfield=timediff
+		dayfield=hourfield=minutefield="n/a"
+	}
+	if(hourfield <= 9){
+		hourfield = "0"+hourfield;
+	}
+	if(minutefield <= 9){
+		minutefield = "0"+minutefield;
+	}
+	if(secondfield <= 9){
+		secondfield = "0"+secondfield;
+	}
+	var result={days: dayfield, hours:hourfield, minutes:minutefield, seconds:secondfield}
+	this.oncountup(result)
+	setTimeout(function(){thisobj.start()}, 1000) //update results every second
+}
+</script>
+<script language="JavaScript" src="http://hubolu.com/auction/javascript/js_functions.js"></script>
+<script language="JavaScript" src="http://hubolu.com/auction/javascript/jquery-menu.js"></script>
+<script language="JavaScript" src="http://hubolu.com/auction/javascript/ddsmoothmenu.js"></script>
+<script language="JavaScript" src="http://hubolu.com/auction/javascript/e3hubcontentslider.js"></script>
+<script language="JavaScript" src="http://hubolu.com/auction/javascript/ajaxroutine.js"></script>
+<script language="JavaScript" src="http://hubolu.com/auction/javascript/bookmark.js"></script>
+</head><body leftmargin="0" topmargin="0" marginwidth="0" marginheight="0"><div id="bookmark_page" name="bookmark_page" style="display:none;">
+<iframe id="bookmarkFrame" name="bookmarkFrame" src="" frameborder="0" height="600" width="750"></iframe>
+</div>
+<script>
+var aucImageUrl   = "http://hubolu.com/auction/images";
+</script>
+<script language="JavaScript">
+<!-- Begin
+function popUp(URL,WIDTH,HEIGHT) {
+day = new Date();
+id = day.getTime();
+eval("page" + id + " = window.open(URL, '" + id + "', 'toolbar=0,scrollbars=1,location=0,statusbar=0,menubar=0,resizable=0,"+WIDTH+","+HEIGHT+"');");
+}
+// End -->
+function make_campaignpayment(campaignId)
+{
+	document.locationform.action = 'http://hubolu.com/cgi-bin/';
+	document.locationform.cmd.value = 'payment';
+	document.locationform.paymentcampaign.value=campaignId;
+	document.locationform.submit();
+}
+function do_search(){
+
+	with(document.topheaderform){
+	if(searchstring.value=="I'm Searching for..."){
+	searchstring.value="";
+
+	}
+	
+	
+	submit();
+	}
+	
+}
+
+</script>
+<link rel="StyleSheet" href="http://hubolu.com/auction/css/trade-network.css" type="text/css">
+<link rel="StyleSheet" href="http://hubolu.com/auction/css/e3hubsmoothmenu.css" type="text/css">
+<link rel="StyleSheet" href="http://hubolu.com/auction/css/e3hubsmoothmenu-v.css" type="text/css">
+<link rel="StyleSheet" href="http://hubolu.com/auction/css/contentslider.css" type="text/css">	
+<link rel="stylesheet" type="text/css" media="all" href="http://hubolu.com/auction/css/dd.css">
+<link rel="StyleSheet" href="http://hubolu.com/auction/css/header.css" type="text/css">
+<!--[if lte IE 6]>
+<link rel='stylesheet' type='text/css' media='all' href="http://hubolu.com/auction/css/dd_ie.css">
+<![endif]-->
+
+<script language="javascript" type="text/javascript" src="http://hubolu.com/auction/dhtml/dhtmlwindow.js"></script>
+<link rel="StyleSheet" href="http://hubolu.com/auction/dhtml/dhtmlwindow.css" type="text/css">
+<script language="javascript" type="text/javascript" src="http://hubolu.com/auction/dhtml/modal.js"></script>
+<script src="http://hubolu.com/auction/javascript/menu.js" type="text/javascript"></script>
+<script language="javascript" type="text/javascript" src="http://hubolu.com/auction/dhtml/popup.js"></script>
+<script language="javascript" type="text/javascript" src="http://hubolu.com/auction/javascript/animatedcollapse.js"></script>
+<script language="javascript" type="text/javascript" src="http://hubolu.com/auction/javascript/jquery.mint.js"></script>
+<link rel="StyleSheet" href="http://hubolu.com/auction/dhtml/modal.css" type="text/css">
+<link rel="stylesheet" type="text/css" href="http://hubolu.com/auction/css/selectbox.css">
+<script src="http://hubolu.com/auction/javascript/jquery.minselect.js" type="text/javascript" charset="utf-8"></script>
+<script type="text/javascript" src="http://hubolu.com/auction/javascript/jquery.selectbox-0.5.js"></script>
+<script type="text/javascript">
+animatedcollapse.addDiv('add_new_task', 'fade=1,height=420px')
+animatedcollapse.ontoggle=function($, divobj, state){ //fires each time a DIV is expanded/contracted
+	//$: Access to jQuery
+	//divobj: DOM reference to DIV being expanded/ collapsed. Use "divobj.id" to get its ID
+	//state: "block" or "none", depending on state
+}
+animatedcollapse.init()
+</script>
+<script language="javascript" type="text/javascript" src="http://hubolu.com/auction/dhtml/dhtmlwindow.js"></script>
+<link rel="StyleSheet" href="http://hubolu.com/auction/dhtml/dhtmlwindow.css" type="text/css">
+<script language="javascript" type="text/javascript" src="http://hubolu.com/auction/dhtml/modal.js"></script>
+<script src="http://hubolu.com/auction/javascript/menu.js" type="text/javascript"></script>
+<script language="JavaScript" src="http://hubolu.com/auction/javascript/jquery.bxslider2.0.1.min.js"></script>
+<script language="javascript" type="text/javascript" src="http://hubolu.com/auction/javascript/header.js"></script>
+<style>
+.customStyleSelectBoxInner {
+background:url('http://hubolu.com/auction/images/header/arrow.png') no-repeat center right;
+}
+<!--For connection popup-->
+<link rel="StyleSheet" href="http://hubolu.com/auction/dhtml/social_dhtmlwindow.css" type="text/css">
+<link rel="StyleSheet" href="http://hubolu.com/auction/dhtml/social_modal.css" type="text/css">
+<!--For connection popup-->
+</style>
+
+<center>
+
+	<div id="send_paymenth" name="send_paymenth" style="display:none;">
+	<iframe id="paymentFrameh" name="paymentFrameh" src="" frameborder="0" height="400" width="550"></iframe>
+	</div>
+	<div id="request_paymenth" name="request_paymenth" style="display:none;">
+	<iframe id="reqpaymentFrameh" name="reqpaymentFrameh" src="" frameborder="0" height="400" width="550"></iframe>
+	</div>
+	<div id="review_documentscr" name="review_documentscr" style="display:none;">
+	<iframe id="review_documentframe" name="review_documentframe" src="" frameborder="0" height="750" width="750"></iframe>
+	</div>
+<table border="0" bordercolor="#111111" width="100%" cellpadding="0" cellspacing="0" align="center">
+<tbody><tr>
+	<td colspan="2" class="topheader">
+	<table cellpadding="0" cellspacing="0" border="0" align="center" width="100%">
+	<tbody><tr>
+		<td align="center">
+		<div id="welcomediv" style="margin-left: auto; margin-right: auto;width:auto;">
+		<table cellpadding="1" cellspacing="1" border="0" align="center">
+		<tbody><tr>
+		
+			<td valign="bottom" align="center" class="header_text" onclick="window.location='http://hubolu.com/cgi-bin/Login';" style="cursor:pointer;">Welcome <span class="hubor_text" nowrap="">Guest</span></td>
+			<td valign="bottom" class="header_text" align="center">|</td>
+			<td valign="bottom" class="header_text" align="center" onclick="window.location='http://hubolu.com/cgi-bin/Login';" style="cursor:pointer;" nowrap="">Login</td>
+			<td valign="bottom" class="header_text" align="center">|</td>
+			<td valign="bottom" class="header_text" align="center" onclick="window.location='http://hubolu.com/cgi-bin/Register';" style="cursor:pointer;" nowrap="">Register</td>
+		
+		</tr>
+		</tbody></table>
+		</div>
+		
+		</td>
+	</tr>
+	</tbody></table>
+	</td>
+						
+
+</tr>
+<tr>
+	<td colspan="2" height="10px">&nbsp;</td>
+</tr>
+<tr>
+	<td valign="middle" style="position:absolute;z-index:1000;*width:220px;">
+		
+			
+		
+	</td>
+	<td valign="top">
+	<br><table border="0" bordercolor="#111111" width="100%" cellpadding="0" cellspacing="0" align="center">
+	<tbody><tr>
+			<td align="center">
+			<table border="0" cellpadding="0" cellspacing="0" align="center" width="90%">
+			
+			
+			<tbody><tr>
+						<td width="238px" onclick="document.location.href='http://hubolu.com/cgi-bin/marketplace'"><img src="http://hubolu.com/auction/images/logo.jpg" border="0" class="imagefile"></td>
+						<td colspan="2" align="center">
+						<table cellpadding="0" cellspacing="0" border="0" align="center" width="100%">
+						<tbody><tr>
+							<td width="15px"><img src="http://hubolu.com/auction/images/header/search1.png" border="0"></td>
+							<td background="http://hubolu.com/auction/images/header/search2.png">
+							<table cellpadding="0" cellspacing="0" border="0" align="center" width="97%">
+							 <form method="get" action="http://hubolu.com/cgi-bin/Search" name="topheaderform"></form>
+							<input type="hidden" name="cmd" value="simple_search">
+							<input type="hidden" name="type" value="keyword">
+							<input type="hidden" name="querytype" value="1">
+							 <input type="hidden" name="tag_usercount" id="tag_usercount" value="">
+							<tbody><tr>
+								<td class="headerborder" style="width:400px;">
+								<input type="text" name="searchstring" id="searchstring" class="headertextbox" value="I'm Searching for..." size="60" onfocus="focus_area(this.id)" onblur="blur_area(this.id)">
+								</td>
+								<td class="headerborder">
+								<select size="1" name="categoryID" class="mySelectBoxClass headercatwidth">
+								<option value="">All Categories</option>
+								        
+								       <option value="747">Antiques</option>
+								        
+								       <option value="23">Art, Crafts &amp; Handmade</option>
+								        
+								       <option value="830">Automotive, Campers,  Aircraft</option>
+								        
+								       <option value="1792">Boats, Watercraft, Powersports</option>
+								        
+								       <option value="34">Baby</option>
+								        
+								       <option value="54">Books &amp; Magazines</option>
+								        
+								       <option value="67">Business, Industrial, Farm</option>
+								        
+								       <option value="79">Cameras, Optics &amp; Accessories</option>
+								        
+								       <option value="111">Clothes, Shoes, Accessories</option>
+								        
+								       <option value="407">Collectibles, Coins &amp; Bullion </option>
+								        
+								       <option value="135">Computers/Tablets &amp; Networking</option>
+								        
+								       <option value="154">Electronics, TV's, Cell Phones</option>
+								        
+								       <option value="241">Health &amp; Beauty</option>
+								        
+								       <option value="263">Home &amp; Garden, Pets</option>
+								        
+								       <option value="287">Jewelry &amp; Watches</option>
+								        
+								       <option value="224">Movies, DVD's, Blu-ray</option>
+								        
+								       <option value="309">Music- CD's, Recording Services</option>
+								        
+								       <option value="320">Musical Instruments</option>
+								        
+								       <option value="729">Party Supplies &amp; Events</option>
+								        
+								       <option value="339">Real Estate &amp; Rentals</option>
+								        
+								       <option value="346">Services, Freelance, Jobs</option>
+								        
+								       <option value="365">Sports, Camping, Hunting</option>
+								        
+								       <option value="731">Toys &amp; Hobbies</option>
+								        
+								       <option value="789">Travel</option>
+								        
+								       <option value="800">Video Games</option>
+								        
+								       <option value="14148">Wholesale Lots</option>
+								        
+								       <option value="808">Everything Else</option>
+								       
+								       </select>
+
+								</td>
+								<td class="headerborder">
+								<input type="button" style="background: url('http://hubolu.com/auction/images/header/search.png') no-repeat;cursor:pointer;border: none;width:78px;height:41px;" alt="Search" title="Search" value="" onclick="do_search()">
+								
+								</td>
+								<td class="headerborder">
+								&nbsp;<a href="http://hubolu.com/cgi-bin/Search" class="header_link">Advanced</a>&nbsp;
+								</td>
+								<td class="headerborder" id="menuheader" align="center">
+								<div class="menudiv">Menu<img src="http://hubolu.com/auction/images/header/arrow.png" border="0"></div>
+								
+								</td>
+							</tr>
+							
+							</tbody></table>
+							</td>
+							<td width="15px"><img src="http://hubolu.com/auction/images/header/search3.png" border="0"></td>
+						</tr>
+						</tbody></table>
+						</td>
+			</tr>
+			
+			</tbody></table>
+			</td>
+	</tr>
+	<tr>
+		  <td colspan="3">
+		   <table cellpadding="3" cellspacing="3" border="0" align="center" id="menudetails" class="menudisp menuborder" width="330px">
+		  <tbody><tr>
+				<td class="menutitle" colspan="4">
+				<table cellpadding="0" cellspacing="0" border="0" width="100%">
+				<tbody><tr>
+					<td style="background-image:url('http://hubolu.com/auction/images/dot.png');background-repeat:repeat-x;width:40%;float:left;*display: inline;">&nbsp;</td>
+					<td class="menutitle" style="display:inline-block;*display: inline;" align="center">&nbsp;E3hub</td>
+					<td style="background-image:url('http://hubolu.com/auction/images/dot.png');background-repeat:repeat-x;width:40%;float:right;*display: inline;">&nbsp;</td>
+				</tr>
+				</tbody></table>
+				</td>
+		  
+		  </tr>
+		  <tr>
+				<td width="10px">&nbsp;</td>
+				<td class="menutext"><a href="http://hubolu.com/cgi-bin/Post" class="header_link">Sell</a></td>
+				<td width="10px">&nbsp;</td>
+				<td class="menutext"><a href="http://hubolu.com/cgi-bin/Members" class="header_link">My Account</a></td>
+		  </tr>
+		  <tr>
+				<td>&nbsp;</td>
+				<td class="menutext"><a href="http://hubolu.com/cgi-bin/Marketplace/browse" class="header_link">Browse categories</a></td>
+				<td>&nbsp;</td>
+				<td class="menutext"><a href="http://hubolu.com/cgi-bin/UserMembership?cmd=transactions" class="header_link">Transactions</a></td>
+		  </tr>
+		  <tr>
+				<td>&nbsp;</td>
+				<td class="menutext">
+				
+				<a href="http://hubolu.com/cgi-bin/eStores?cmd=terms" class="header_link">Open eStore</a>
+				 
+				
+				</td>
+				<td>&nbsp;</td>
+				<td class="menutext"><a href="http://hubolu.com/cgi-bin/UserMembership?cmd=membership_upgrade" class="header_link">Upgrade</a></td>
+		  </tr>
+		  <tr>
+				<td>&nbsp;</td>
+				<td class="menutext"><a href="http://hubolu.com/cgi-bin/Help" class="header_link">Info Center</a></td>
+				<td>&nbsp;</td>
+				<td class="menutext"></td>
+		  </tr>
+		   <tr>
+				<td class="menutitle" colspan="4">
+					<table cellpadding="0" cellspacing="0" border="0" width="100%">
+					<tbody><tr>
+						<td style="background-image:url('http://hubolu.com/auction/images/dot.png');background-repeat:repeat-x;width:27%;float:left;*display: inline;">&nbsp;</td>
+						<td class="menutitle" style="display:inline-block;*display: inline;" align="center">&nbsp;E3hub Networks</td>
+						<td style="background-image:url('http://hubolu.com/auction/images/dot.png');background-repeat:repeat-x;width:30%;float:right;*display: inline;">&nbsp;</td>
+					</tr>
+					</tbody></table>
+				</td>
+		  
+		  </tr>
+		  <tr>
+				<td>&nbsp;</td>
+				<td class="menutext"><a href="http://hiretree.com" class="header_link" target="_blank">Professional Services</a></td>
+				<td>&nbsp;</td>
+				<td class="menutext"><a href="http://e3hub.com/cgi-bin/MyHub" class="header_link" target="_blank">Network Activity</a></td>
+		  </tr>
+		  <tr>
+				<td>&nbsp;</td>
+				<td class="menutext"><a href="http://oemnetwork.com" class="header_link" target="_blank">OEM Manufactures </a></td>
+				<td>&nbsp;</td>
+				<td class="menutext"><a href="http://e3hub.com/cgi-bin/Members?cmd=my_profile" class="header_link" target="_blank">My Profile</a></td>
+		  </tr>
+		  <tr>
+				<td>&nbsp;</td>
+				<td class="menutext"><a href="http://hubspin.com" class="header_link" target="_blank">Sell your Music</a></td>
+				<td>&nbsp;</td>
+				<td class="menutext"><a href="http://e3hub.com/cgi-bin/Connections/products?cmd=add_connections" class="header_link" target="_blank">Add a Connection</a></td>
+		  </tr>
+		  <tr>
+				<td>&nbsp;</td>
+				<td class="menutext"><a href="http://e3hub.com/cgi-bin/HubPages" class="header_link" target="_blank">Groups/Hubsites</a></td>
+				<td>&nbsp;</td>
+				<td class="menutext"><a href="http://hubswirl.com" class="header_link" target="_blank">Send a Swirl</a></td>
+		  </tr>
+	         <tr>
+				<td class="menutitle" colspan="4">
+					<table cellpadding="0" cellspacing="0" border="0" width="100%">
+						<tbody><tr>
+							<td style="background-image:url('http://hubolu.com/auction/images/dot.png');background-repeat:repeat-x;width:40%;float:left;*display: inline;">&nbsp;</td>
+							<td class="menutitle" style="display:inline-block;*display: inline;" align="center">&nbsp;Browse</td>
+							<td style="background-image:url('http://hubolu.com/auction/images/dot.png');background-repeat:repeat-x;width:36%;float:right;*display: inline;">&nbsp;</td>
+						</tr>
+					</tbody></table>
+				</td>
+		  </tr>
+		  <tr>
+				<td colspan="4" align="center" class="menubtitle" nowrap=""><a href="http://hubolu.com/cgi-bin/groupbuy" class="orange_link">Group Deal</a> | <a href="http://hubolu.com/cgi-bin/extreme" class="orange_link">Extreme Auction</a> | <a href="http://hubolu.com/cgi-bin/eStores" class="orange_link">Shops</a>
+				</td>
+			
+		  </tr>
+		 
+		  </tbody></table>
+		  <div>
+		  <table border="0" width="85%" cellpadding="0" cellspacing="0" align="center">
+		  <tbody><tr>
+			<td colspan="3" align="center"><iframe src="http://e3hub.com/cgi-bin/Adsdisplay?data=CgCgCgCgApCIEiARDHBmAICLEIDGAHCxDrBXBQDMBwAnDJBFAQBeDGAXBfEyCEDBDlDPANCyERDRECBJEiDWAQDWADDYCdDKDDCqCtDyBUDEBcCnBoDhBWEHEyAYCSEIBpBeEB" name="ehubFrameta" id="ehubFrameta" scrolling="no" frameborder="0" width="457px" height="20px"></iframe></td></tr>
+		  <tr>
+			<td colspan="2" align="center" width="">
+
+
+<!--
+################################################################################
+# Revision:$Id: pages.tmpl,v 1.1.1.1 2006/10/31 22:13:33 rob Exp $
+###############################################################################
+-->
+<div align="center">
+  <center>
+<table border="0" width="100%" cellpadding="0" cellspacing="0" style="border-collapse: collapse" bordercolor="#111111">
+<tbody><tr>
+	<td>
+		&nbsp;
+	</td>
+</tr>
+<tr valign="top">
+	
+	<td>
+		<table border="0" width="100%" cellpadding="0" cellspacing="0" align="center">
+			<tbody><tr>
+				<td>
+					<div align="center">
+                      <center>
+					<table border="0" width="95%" cellpadding="2" cellspacing="0" class="category" style="border-collapse: collapse" bordercolor="#111111">
+						<tbody><tr>
+							<td valign="top">
+<!--START_TITLE-->
+<table border="0" cellpadding="0" cellspacing="0" style="border-collapse: collapse" bordercolor="#111111" width="100%" id="AutoNumber1">
+<tbody><tr>
+<td valign="center">
+<table border="0" cellpadding="0" cellspacing="0" style="border-collapse: collapse" bordercolor="#111111" width="100%">
+  <tbody><tr>
+    <td width="100%">
+    <table border="0" cellpadding="0" cellspacing="0" style="border-collapse: collapse" bordercolor="#111111" width="100%" id="AutoNumber1">
+      <tbody><tr>
+        <td width="100%">
+        <table border="0" cellpadding="2" cellspacing="0" style="border-collapse: collapse" bordercolor="#111111" width="100%" id="AutoNumber2">
+          <tbody><tr>
+            <td valign="center" bgcolor="#7777AC"><img border="0" src="http://hubolu.com/auction/images/leftLine_16x3.gif" width="16" height="3"></td>
+            <td width="100%" bgcolor="#7777AC"><b><font color="#FFFFFF" size="4">Hubolu's Information Center</font></b></td>
+            <td nowrap="" align="right" bgcolor="#7777AC"><a href="http://hubolu.com/cgi-bin/Help?cmd=view&amp;pages=our_letter"><b><font color="#FFFFFF">A letter from our founder</font></b></a></td>
+            <td align="right" bgcolor="#7777AC"><img title="" height="1" alt=" " src="http://hubolu.com/auction/images/spacer.gif" width="12"></td>
+          </tr>
+        </tbody></table>
+        </td>
+      </tr>
+      <tr>
+        <td width="100%" bgcolor="#263A68"><img height="2" src="http://hubolu.com/auction/images/spacer.gif" width="1"></td>
+      </tr>
+    </tbody></table>
+    </td>
+  </tr>
+</tbody></table>
+</td>
+</tr>
+<tr>
+  <td align="center">
+  
+  </td>
+</tr>
+</tbody></table>
+<!--END_TITLE-->
+                            </td>
+						</tr>
+                        <tr>
+				<td width="471">
+					<img border="0" src="http://hubolu.com/auction/images/spacer.gif" width="1" height="10"></td>
+			            </tr>
+                        <tr>
+							<td valign="top">
+								<table border="2" cellpadding="4" cellspacing="0" style="border-collapse: collapse" bordercolor="#808080" width="100%" id="AutoNumber2" bgcolor="#EEEEEE">
+                                  <tbody><tr>
+                                    <td width="100%">
+                                    <table border="0" cellpadding="0" cellspacing="0" style="border-collapse: collapse" bordercolor="#111111" width="100%" id="AutoNumber3">
+                                    <form action="http://hubolu.com/cgi-bin/Help" method="post"></form>
+                                    <input class="buttons" type="hidden" value="search_help" name="cmd">
+                                      <tbody><tr>
+                                        <td width="100%" colspan="2"><b>Search Help</b></td>
+                                      </tr>
+                                      <tr>
+                                        <td width="50%">
+                                        <input type="text" name="searchHelp" size="58" value=""></td>
+                                        <td width="50%" align="center">
+                                        <input type="submit" value="Search Help" class="buttons"></td>
+                                      </tr>
+                                      
+                                    </tbody></table>
+                                    </td>
+                                  </tr>
+                                </tbody></table>
+                            </td>
+						</tr>
+                        <tr>
+				<td width="471">
+					<img border="0" src="http://hubolu.com/auction/images/spacer.gif" width="1" height="10"></td>
+			            </tr>
+						<tr>
+							<td align="right">
+								<a href="http://hubolu.com/cgi-bin/Help">Back to Information Center</a></td>
+						</tr>
+						<tr>
+							<td bgcolor="#EEEEEE">
+								<center><b>Your Privacy</b></center>
+							</td>
+						</tr>
+						<tr>
+							<td>
+								<b>&nbsp;</b><br>
+								</td>
+						</tr>
+					    <tr>
+							<td>
+												<!-- start content -->
+												<p><b>Privacy Policy </b><br>
+*******************************************<br>
+As a member of the Internet community, E3Hub understands the power 
+that the Internet holds for changing people's lives, expanding their horizons, 
+and enhancing the ease with which they perform their jobs. All these benefits 
+are at risk if people are concerned about their personal privacy. E3Hub 
+is committed to providing its users with an Internet experience that respects 
+and protects their personal privacy choices and concerns.<br>
+<br>
+Our privacy policy and practices are detailed below, and we ask you to read them 
+thoroughly. This policy is derived from three pledges that we make to you, our 
+users: <br>
+<br>
+We pledge that we will not release personally identifiable information about you 
+without your permission (except as needed to provide to you the services you 
+have expressly requested, as explained in greater detail in the section on 
+"third party relationships" below).<br>
+<br>
+We pledge that we will provide the means for you to manage and control the 
+information that you have voluntarily provided to us.<br>
+<br>
+We pledge that we will provide mechanisms for you to communicate your privacy 
+questions and concerns to us and that we will respond to them thoroughly and 
+thoughtfully.<br>
+<br>
+We are constantly improving the tools you can use to manage the data that you 
+provide to us. Please refer to this page from time to time to see these new 
+features.</p>
+<p><b>Coverage</b><br>
+*******************************************<br>
+This policy applies to sites whose URL terminates in E3Hub. Our 
+affiliates have their own privacy policy statements, which we encourage you to 
+read whenever you visit these sites. When we talk about "E3Hub" or" 
+we" in this policy, we are referring to Company and its majority-owned or 
+majority-controlled subsidiaries.</p>
+<p><b>Helpful Definitions</b><br>
+*******************************************<br>
+Personally identifiable information is information�such as your name, birth 
+date, e-mail address or mailing address�that can be used to uniquely identify you.<br>
+<br>
+Anonymous Information is not personally identifiable information. Anonymous 
+information is information about how you use our site (such as places visited 
+and search queries performed). Anonymous information also includes the domain 
+names and/or I.P. addresses (as explained in greater detail below) of browsers 
+that visit our site, time of day the site was visited, and other non-personally 
+identifiable information. Anonymous information is information that is not tied 
+to any individual, but helps to characterize E3Hub's users.<br>
+<br>
+The next sections tell how and when E3Hub collects anonymous 
+information and personally identifiable information.</p>
+<p><b>Collection and Use of Personally Identifiable Information</b><br>
+*******************************************<br>
+<u>Registration</u><br>
+We want to assure you that you can visit our site and use many of our services 
+without telling us who you are or revealing any personally identifiable 
+information about yourself to us. It is only during registration to become a 
+registered user will you be asked to provide us with personally identifiable 
+information.<br>
+<br>
+Although the majority of our services do not require any form of customer 
+registration, we do require registration for the use of certain services, the 
+auctions and store items. During this registration process we require you to 
+complete certain fields, offer optional fields for you to complete, and ask you 
+to select a user name and password. For example, we ask for contact information 
+(such as first and last name, email address, and zip code). E3Hub 
+uses this contact information in several ways: </p>
+<ul>
+  <li>to welcome you to the E3Hub Network</li>
+  <li>to send communication from us about new features and services available 
+  through E3Hub (unless you tell us not to)</li>
+  <li>to display advertisements on your screen that closely match your interests 
+  (unless you tell us not to)</li>
+  <li>to provide a first and last name on messages sent from your E3Hub 
+  email account</li>
+  <li>to share your information with select sponsors and partners who work with 
+  E3Hub, only if you allow us to do so (as we explain below)<br>
+  to allow our sponsors and partners to communicate with you, but only if you 
+  tell us you want to receive these communications about their services and 
+  offers</li>
+</ul>
+<p>If you indicate to us that you do not want to receive certain types of 
+communications at the time of registration, we will respect your wishes, and 
+comply with your preferences. If you already are a registered user and would 
+like to review or change the choices you have made, you will be able to do so.
+</p>
+<p><u>Contests, Etc.</u><br>
+From time to time, we may run contests on our site in which we ask participants 
+for contact information, such as their email addresses). If you participate in 
+contests, your contact information will be used primarily to reach you in 
+connection with the contests. We may also use the collected contact information 
+to send you information about E3Hub, our services, as well as offers 
+tailored to your interests by our advertisers and sponsors, if you have opted to 
+receive these communications. You may choose to opt-out of receiving such 
+mailings at the time of registration for the contest, or afterwards. </p>
+<p><b>Sharing Personally Identifiable Information with Third Parties</b><br>
+*******************************************<br>
+To deliver advertising to you that most closely matches your interests, we share 
+your personal information with carefully selected companies with whom we have 
+relationships and trust. However, we will not share your personally identifiable 
+information unless we have first given you notice that we might share your data, 
+and you have authorized us to do so. If you have not opted-in to receive these 
+offers, and would like to do so now, you will be able to change your 
+preferences. If you have previously opted-in, but now wish to remove yourself 
+from these mailing lists, you will be able to change your preferences, or you 
+may send email directly to us, and we will modify your preferences accordingly. 
+Our partners who receive information from us have the right to use the data we 
+provide them (sometimes, in connection with other information they may have 
+gathered about you), but are generally prohibited from sharing this information 
+with other companies or people. In addition, if we add new features or services 
+that might require the sharing of your personal information with an additional 
+advertiser or sponsor, we will provide you with notice and the opportunity to 
+opt-in to receive these offers.</p>
+<p><b>PLEASE NOTE:</b> In certain special cases, we may disclose your personally 
+identifiable information when we have reason to believe that disclosing this 
+information is necessary to identify, contact or bring legal action against 
+someone who may be causing injury to you, or otherwise injuring or interfering 
+with E3Hub's rights, property or operations, other E3Hub's 
+users, or anyone else who could be harmed by such activities. We may also 
+disclose your personally identifiable information when we believe the law 
+requires it, or in response to any demand by law enforcement authorities in 
+connection with a criminal investigation, or civil or administrative authorities 
+in connection with a pending civil case or administrative investigation. </p>
+<p><b>Anonymous Information</b><br>
+*******************************************<br>
+When you use our site, we collect anonymous information, even if you have not 
+registered with E3Hub. We use this information to personalize your 
+experience at our site, show you more relevant advertising messages, and 
+generally to improve our services. We share this anonymous information with 
+selected advertisers and partners, in order to deliver to you more relevant 
+advertising messages.<br>
+<br>
+E3Hub will not share any anonymous information about your use on our 
+site if that information is or will be linked to your personally identifiable 
+information unless we have given you notice as described above and you have 
+given us authorization to do so. If you prefer that anonymous information not be 
+shared with other companies, then you may choose to opt-out during registration, 
+or by updating your preferences at any time. </p>
+<p><b>Cookies: How They Are Used and Opting-Out </b><br>
+*******************************************<br>
+How They Are Used<br>
+A "cookie" is a small piece of data that is sent to your browser from a web 
+server and stored on your computer's hard drive. Cookies do not damage your 
+system or impair its functioning in any way. We use cookies to help us provide 
+customizable services and to allow you to sign-in to our site. For example, we 
+can store your zip code in a cookie and this enables us to display your local 
+weather each time you visit our site. Cookies also make web surfing easier for 
+you by saving your preferences while you're on our site. Cookies may also be 
+used by E3Hub's partners on co-branded Web pages, as explained below 
+in "third party relationships," so please be aware of this as you visit these 
+Web pages.<br>
+<br>
+You can choose whether to accept cookies by changing the settings of your 
+browser. You can reset your browser to refuse all cookies, or allow your browser 
+to show you when a cookie is being sent. If you choose not to accept these 
+cookies, your experience at our site and other Web sites may be diminished and 
+some features will not work as intended.<br>
+<br>
+Opting-out<br>
+You can opt-out during the E3Hub Member registration process or at 
+any time from our site. You can also ask to have all information related to your 
+registration removed by choosing this from our site. </p>
+<p><b>Special Categories of Information</b><br>
+*******************************************<br>
+will not share any personally identifiable information about our users that is 
+of medical, financial or sexual nature. </p>
+<p><b>Use of IP Addresses</b><br>
+*******************************************<br>
+An Internet protocol (I.P.) address is a set of numbers that is automatically 
+assigned to your computer whenever you log on to your internet service provider 
+or through your company's local area network (LAN) or wide area network (WAN). 
+Web servers - the powerful computers that provide web pages for viewing - 
+automatically identify your computer by the IP address assigned to it during 
+your session online.<br>
+<br>
+E3Hub may collect I.P. addresses for purposes of system 
+administration, to report anonymous user information to our advertisers (as 
+explained above), and to audit the use of our site. We do not ordinarily link a 
+user's I.P. address to personally identifiable information of that user, which 
+means each user's session will be logged, but the user remains anonymous to us. 
+However, we can and will use I.P. addresses to identify users of our site when 
+we feel it is necessary to enforce compliance with our site's terms of use or 
+terms of service, or to protect our service, site, or other users. We will however collect and display I.P. location of all item listings for the purpose of fraud reductions.  We feel it is important and a right for a buyer to know the geographic location of the seller before a transaction has been initiated.<br>
+<br>
+<b>PLEASE NOTE:</b> Under certain circumstances, I.P. addresses and/or domain 
+names may be linked to personally identifiable information, when said 
+information is stored in databases managed by Internet registrars or registries.
+</p>
+<p><b>Keywords</b><br>
+*******************************************<br>
+Certain advertisers have paid for the right to display advertisements on search 
+results pages corresponding to certain words. For instance, a particular 
+resistor manufacturer may want its advertisement to be displayed when users 
+search for its resistor. We want to be clear: by serving these ads, we are not 
+affecting the integrity of the search results in any way. The only difference is 
+that the ads that you see on the page may be influenced by the words searched. 
+Of course, many of the ads on the search results page may also be randomly 
+generated, so there is no clear-cut way of knowing which ads are targeted to 
+certain "key words" searched for, and which are not. This is true whether or not 
+you are a registered user of our site. </p>
+<p><b>Third-Party Relationships</b><br>
+*******************************************<br>
+In order to provide you with news and features that match your interests, E3Hub 
+has relationships with many of the best media and services companies throughout 
+the world. You can recognize these sites by the joint branding of E3Hub 
+and such companies. For example, if you see a logo in the upper-right corner of 
+the page that says 'Powered by ______', you will know you are on a co-branded 
+Web page. If you ever have any questions about whether certain information, 
+content or services pertain to us, or are "powered by" one of our partners, 
+please contact us at E3Hub Legal Support.<br>
+<br>
+Whenever you provide registration information on certain co-branded Web pages or 
+for certain services provided in conjunction with third party partners, we want 
+to be clear that some data you provide is shared with partners. You should make 
+every effort to read the privacy policy provided by or in association with such 
+third parties, and make an informed decision on your own whether or not to 
+continue utilizing the services based upon the privacy policies posted on these 
+co-branded Web pages, at your own discretion. However, we will make every effort 
+to ensure that you have the ability to opt-out of the sharing of such data with 
+partners. You may email us directly at E3Hub Legal Support and we 
+will forward your request to the appropriate company, and help you follow up to 
+ensure that your concerns are adequately handled.<br>
+<br>
+In addition to finding co-branded Web pages, you will find direct links on E3Hub 
+to the sites offered by third parties. Some of these sites are authorized to use 
+the E3Hub brand and/or logo. E3Hub carefully evaluates 
+all parties that are authorized to use its brand and/or logo, and believes that 
+all such sites have adopted acceptable privacy policies. Again, you should read 
+these third party privacy policies, and make an informed decision on your own as 
+to whether or not to continue based upon these sites' privacy practices, at your 
+own discretion. No third-party sites are covered by this Privacy Policy.<br>
+<br>
+<b>VERY IMPORTANT:</b> If you feel that a site using the E3Hub brand 
+and/or logo has not posted an acceptable privacy policy, or is not following the 
+privacy policy it has posted, please send us an email at E3Hub Legal 
+Support.. We will forward complaints to the appropriate third parties and help 
+you follow up to ensure that your concerns are adequately handled. Of course, if 
+any of these third party companies does not have a privacy policy that is 
+acceptable to you, you should refrain from providing information until your 
+concerns have been satisfactorily addressed. </p>
+<p><b>Security</b><br>
+*******************************************<br>
+E3Hub operates secure data networks protected by industry standard 
+firewall and password protection. E3Hub has security measures in 
+place to attempt to protect against the loss, misuse and alteration of your user 
+data under our control.<br>
+<br>
+Only authorized employees have access to the information you provide us. For 
+example, we impose strict rules on E3Hub employees who have access 
+either to the databases that store user information or to the servers that host 
+our services. While we cannot guarantee that loss, misuse or alteration to data 
+will not occur, we make every effort (such as the use of employee passwords and 
+non-disclosure agreements) to prevent such unfortunate occurrences. </p>
+<p><b>Contacting Us</b><br>
+*******************************************<br>
+If you have questions about this privacy policy or the practices of this site, 
+please contact: E3Hub legal@e3hub.com</p>
+<p>E3Hub reserves the right to change this Privacy Policy at any 
+time. All changes will be posted to this page, and we will use commercially 
+reasonable efforts to notify you of any material changes to this privacy policy.
+<br>
+&nbsp;</p>
+												<!-- end content -->
+
+                            </td>
+						</tr>
+						<tr>
+							<td align="right">
+								<a href="http://hubolu.com/cgi-bin/Help">Back to Information Center</a></td>
+						</tr>
+						<tr>
+							<td>
+								&nbsp;</td>
+						</tr>
+						<tr>
+							<td bgcolor="#EEEEEE">
+								<table border="0" cellpadding="2" cellspacing="0" style="border-collapse: collapse" bordercolor="#111111" width="100%" id="AutoNumber1">
+                                  <tbody><tr>
+                                    <td bgcolor="#FFFFFF">
+                                    Still have questions? <a href="http://hubolu.com/cgi-bin/MailContact?cmd=mail_contact">Contact Us</a></td>
+
+
+
+
+
+
+
+
+
+
+                                    <td align="right" bgcolor="#FFFFFF">
+                                    <a href="http://hubolu.com/cgi-bin/marketplace">Hubolu's Home</a> | <a href="javascript:window.print();">Print</a>&nbsp;|&nbsp;<a href="javascript:window.external.AddFavorite('http://hubolu.com/cgi-bin/Help', 'Hubolu\'s Information Center')">Add to favorites</a></td>
+                                  </tr>
+                                  </tbody></table>
+							</td>
+						</tr>
+					</tbody></table>
+					  </center>
+                    </div>
+				</td>
+			</tr>
+		</tbody></table>
+	</td>
+</tr>
+</tbody></table>
+
+
+  </center>
+</div>
+
+	</td>
+</tr>
+</tbody></table>
+
+</div>
+</td></tr>	 
+	 <script>
+	 var scrwidth = parseInt(screen.width) - 20;
+	 document.write('<table cellpadding="0" cellspacing="0" border="0" width="'+scrwidth+'" align="center" style="background-image:url(\'http://hubolu.com/auction/images/trade-network/footer_bg.jpg\');background-repeat:repeat-x;" height="85px">');
+	</script></tbody></table><table cellpadding="0" cellspacing="0" border="0" width="780" align="center" style="background-image:url('http://hubolu.com/auction/images/trade-network/footer_bg.jpg');background-repeat:repeat-x;" height="85px">
+		<tbody><tr><td colspan="3"><img src="http://hubolu.com/auction/images/spacer.gif" width="1px" height="5px"></td></tr>
+		<tr>
+		    <td valign="top" colspan="3">
+			 <table cellpadding="0" cellspacing="0" border="0" width="85%" align="center">
+			   <tbody><tr>
+			    <td valign="top">
+			     <table cellpadding="0" cellspacing="0" border="0" width="70%" align="center">
+				<tbody><tr>
+				  <td valign="top" width="100px" align="center"><a href="http://hubolu.com/cgi-bin/marketplace" class="tradefootlink">Home</a></td>
+				  <td valign="top" width="5px" align="center">|</td>
+				  <td valign="top" width="100px" align="center"><a href="http://hubolu.com/cgi-bin/Marketplace/browse" class="tradefootlink">Browse</a></td>
+				  <td valign="top" width="5px" align="center">|</td>
+				  <td valign="top" width="100px" align="center"><a href="http://hubolu.com/cgi-bin/Post" class="tradefootlink">Post</a></td>
+				  <td valign="top" width="5px" align="center">|</td>
+				  <td valign="top" width="100px" align="center">&nbsp;&nbsp;<a href="http://hubolu.com/cgi-bin/Marketplace/announcements/products?cmd=announce" class="tradefootlink">Announcements</a>&nbsp;&nbsp;</td>
+				  <td valign="top" width="5px" align="center">|</td>
+				  <td valign="top" width="100px" align="center"><a href="http://hubolu.com/cgi-bin/Help" class="tradefootlink">Help</a></td>
+				  <td valign="top" width="5px" align="center">|</td>
+				  <td valign="top" width="100px" align="center"><a href="http://hubolu.com/cgi-bin/MailContact?cmd=mail_contact" class="tradefootlink">Contact Us</a></td>
+				   <td valign="top" width="5px" align="center">|</td>
+				  <td valign="top" width="100px" align="center"><a href="http://e3hub.com/cgi-bin/adworks" class="tradefootlink">Advertising</a></td>
+				  <td valign="top" width="5px" align="center">|</td>
+				  <td valign="top" width="50px" align="center"><a href="http://e3hub.org/" class="tradefootlink" target="_blank">About</a></td>
+				   <td valign="top" width="5px" align="center">|</td>
+				  <td valign="top" width="90px" align="center"><a href="http://hubolu.com/cgi-bin/Marketplace/langselect" class="tradefootlink" target="_blank">Language</a></td>
+				</tr>
+			      </tbody></table>
+			    </td>
+			   </tr>
+			 </tbody></table>
+		    </td>
+		</tr>
+		<tr><td align="center" colspan="3" class="copyright_text" valign="top">Use of this Web site constitutes acceptance of the Hubolu User <a href="http://hubolu.com/cgi-bin/Help?cmd=view&amp;pages=policies">Agreement</a> and <a href="http://hubolu.com/cgi-bin/Help?cmd=view&amp;pages=privacy">Privacy Statement.</a> Designated trademarks, logos and brands are the property of their respective owners. <br>Copyright ©2013 E3Hub INC. All rights reserved.</td></tr>
+	 </tbody></table>
+	</td>
+      </tr>
+    </tbody></table>	
+  
+ 
+
+
+
+
+<script type="text/javascript">
+
+(function($){
+ $.fn.extend({
+ 
+  customStyle : function(options) {
+   if(!$.browser.msie || ($.browser.msie&&$.browser.version>6)){
+   return this.each(function() {
+   var currentSelected = $(this).find(':selected');
+   $(this).after('<span class="customStyleSelectBox"><span class="customStyleSelectBoxInner">'+currentSelected.text()+'</span></span>').css({position:'absolute', opacity:0,fontSize:$(this).next().css('font-size')});
+   var selectBoxSpan = $(this).next();
+   var ua = $.browser;
+	if(ua.safari){
+	   var selectBoxWidth = parseInt($(this).width()+23) - parseInt(selectBoxSpan.css('padding-left')) -parseInt(selectBoxSpan.css('padding-right'));   
+	}else{
+	  var selectBoxWidth = parseInt($(this).width()) - parseInt(selectBoxSpan.css('padding-left')) -parseInt(selectBoxSpan.css('padding-right'));   
+	}
+    selectBoxWidth = 150;
+   var selectBoxSpanInner = selectBoxSpan.find(':first-child');
+   selectBoxSpan.css({display:'inline-block'});
+   selectBoxSpanInner.css({width:selectBoxWidth, display:'inline-block'});
+   var selectBoxHeight = parseInt(selectBoxSpan.height()) + parseInt(selectBoxSpan.css('padding-top')) + parseInt(selectBoxSpan.css('padding-bottom'));
+   $(this).height(selectBoxHeight).change(function(){
+    // selectBoxSpanInner.text($(this).val()).parent().addClass('changed');   This was not ideal
+   selectBoxSpanInner.text($(this).find(':selected').text()).parent().addClass('changed');
+    // Thanks to Juarez Filho & PaddyMurphy
+   });
+   
+   });
+   }
+ }
+ });
+})(jQuery);
+$=jQuery.noConflict();
+$(".menudiv").click(function() {
+if($('#menudetails').css('display')=='none'){
+var position = $(this).position();
+$("#menudetails").show();
+$('#menudetails').css("top",(position.top)+30);
+$('#menudetails').css("left",((position.left)-215));
+}else{
+$("#menudetails").hide();
+}
+});
+$(document).ready(function(){
+ $('.mySelectBoxClass').customStyle();
+});
+</script>
+
+<script type="text/javascript" src="http://hubspin.com/set_cookie.php?session="></script>
+<script type="text/javascript" src="http://e3hub.com/set_cookie.php?session="></script>
+<script type="text/javascript" src="http://hubswirl.com/set_cookie.php?session="></script>
+<script type="text/javascript" src="http://hiretree.com/set_cookie.php?session="></script>
+
+
+<script type="text/javascript" src="http://www.hubspin.com/set_cookie.php?session="></script>
+<script type="text/javascript" src="http://www.e3hub.com/set_cookie.php?session="></script>
+<script type="text/javascript" src="http://www.hubswirl.com/set_cookie.php?session="></script>
+<script type="text/javascript" src="http://www.hiretree.com/set_cookie.php?session="></script>
+
+
+</center></body></html>
