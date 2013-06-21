@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sonicelectronix.com privacy policy that was archived on 2012-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121226230734id_/http%3A//www.sonicelectronix.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sonicelectronix.com privacy policy that was archived on 2013-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130622011910id_/http%3A//www.sonicelectronix.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Sonic Electronix
 
