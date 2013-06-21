@@ -1,15 +1,17 @@
-> *The following text is extracted and transformed from the crazy-tattoo-designs.com privacy policy that was archived on 2012-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121113210341id_/http%3A//crazy-tattoo-designs.com/privacypolicy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the crazy-tattoo-designs.com privacy policy that was archived on 2013-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130621073148id_/http%3A//crazy-tattoo-designs.com/privacypolicy.htm) for the most accurate reproduction.*
 
 # This is the Privacy Policy for T
 
 **Our Contact Information is:**  
  
 
-President: Jerry Martin - The Insane Company  
-409 Lalonde Street   
+CEO: Jerry Martin
+
+xxx International School of Body Art ltd.  
+604 3rd ave  
 Whitewood, Saskatchewan S0G 5C0  
-1-306-735-7537  
-[webranking2007@gmail.com](mailto:webranking2007@gmail.com)
+1-888-292-0422  
+[support@crazy-tattoo-designs.com](mailto:support@crazy-tattoo-designs.com) or [support@internationalschoolofbodyart.com](mailto:support@internationalschoolofbodyart.com)
 
 We collect no information about our visitor's domain, but we do collect information about our visitor's email address when available.
 
