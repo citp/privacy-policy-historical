@@ -1,14 +1,12 @@
-> *The following text is extracted and transformed from the qualtrics.com privacy policy that was archived on 2012-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121230233711id_/https%3A//www.qualtrics.com/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the qualtrics.com privacy policy that was archived on 2013-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130621233727id_/https%3A//www.qualtrics.com/privacy-statement) for the most accurate reproduction.*
 
-# Qualtrics Privacy Statement | Qualtrics
-
-Spam is only good in sandwiches. And even that's questionable.
+# Privacy Statement | Qualtrics.com
 
 Qualtrics provides a protective privacy policy regarding e-mail addresses and personal information.
 
 Qualtrics collects and analyzes aggregate information of visitors, including the domain name, visited surveys,referring URLs, and other publicly available information. We use this information to help improve our website and services, and to customize the content of our pages for each individual customer.
 
-We provide the most advanced survey building tools for corporations, research companies, consultants and universities. We do not sell or make available specific information about our clients, their clients, or either of their data, except in cooperation with law enforcement bodies in regards to content violations or violations of applicable laws. We maintain a database of user information which is used only for internal purposes such as technical support, notifying members of changes or enhancements to the service.
+We provide the most advanced [online survey software](http://www.qualtrics.com/rs/ "online survey software") for corporations, research companies, consultants and universities. We do not sell or make available specific information about our clients, their clients, or either of their data, except in cooperation with law enforcement bodies in regards to content violations or violations of applicable laws. We maintain a database of user information which is used only for internal purposes such as technical support, notifying members of changes or enhancements to the service.
 
 Qualtrics uses secure services for online credit card payment transactions and does not record or store credit card information on its site or servers.
 
