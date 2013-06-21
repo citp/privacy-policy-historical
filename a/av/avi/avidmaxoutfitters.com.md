@@ -1,8 +1,12 @@
-> *The following text is extracted and transformed from the avidmaxoutfitters.com privacy policy that was archived on 2012-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121116005013id_/http%3A//avidmaxoutfitters.com/t-privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the avidmaxoutfitters.com privacy policy that was archived on 2013-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130621085300id_/http%3A//avidmaxoutfitters.com/t-privacy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy : AvidMax.com
 
-[Home](https://web.archive.org/web/20121116005013id_/http%3A//avidmaxoutfitters.com/default.aspx) > Privacy Policy
+  
+[](http://bagfinder.lowepro.com/avidmax/choose-profile)  
+
+
+[Home](https://web.archive.org/web/20130621085300id_/http%3A//avidmaxoutfitters.com/default.aspx) > Privacy Policy
 
   
 
