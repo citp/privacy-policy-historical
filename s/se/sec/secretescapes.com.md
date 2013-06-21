@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the secretescapes.com privacy policy that was archived on 2012-10-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121021020722id_/http%3A//www.secretescapes.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the secretescapes.com privacy policy that was archived on 2013-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130621033251id_/http%3A//www.secretescapes.com/privacy-policy) for the most accurate reproduction.*
 
 # Secret Escapes Privacy Policy
 
@@ -38,5 +38,5 @@ Secret Escapes Ltd
 32-38 Saffron Hill  
 London   
 EC1N 8FH  
-[support@secretescapes.com](mailto:support@secretescapes.com)  
-0845 078 2029
+[support@secretescapes.com](mailto:support@secretescapes.com)   
+0843 22 77 777
