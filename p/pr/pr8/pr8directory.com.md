@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pr8directory.com privacy policy that was archived on 2012-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121219135901id_/http%3A//www.pr8directory.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pr8directory.com privacy policy that was archived on 2013-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130621180740id_/http%3A//www.pr8directory.com/privacy-policy) for the most accurate reproduction.*
 
 # Terms And Conditions | Online Websites Directory
 
