@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the look4design.co.uk privacy policy that was archived on 2012-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121122052844id_/http%3A//www.look4design.co.uk/l4design/pages/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the look4design.co.uk privacy policy that was archived on 2013-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130621213313id_/http%3A//www.look4design.co.uk/l4design/pages/privacy.asp) for the most accurate reproduction.*
 
 # Look4Design - Privacy Policy
 
