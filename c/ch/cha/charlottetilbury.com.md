@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the charlottetilbury.com privacy policy that was archived on 2012-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121224161440id_/http%3A//www.charlottetilbury.com/blog/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the charlottetilbury.com privacy policy that was archived on 2013-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130621031918id_/http%3A//www.charlottetilbury.com/blog/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Charlotte Tilbury
 
@@ -6,7 +6,7 @@
 
 The personal information about yourself which you give us – your name and email address – will be private to us and I promise we won’t give it away or sell it to anyone else. Obviously, on occasion, you may share certain details about yourself with other people, for example, when you post messages or other stuff to the site, when others can see things about you and who you are. If you do this, that is your choice and nothing to do with us or our own duty to protect the information you give us ourselves directly. Our duty is in relation to the information you give us in confidence and which we won’t share with others.
 
-(Of course, if this informationis required as part of some legal process, or if we reasonably need to disclose it to somehow protect ourselves or the public, then that’s different.)
+(Of course, if this information is required as part of some legal process, or if we reasonably need to disclose it to somehow protect ourselves or the public, then that’s different.)
 
 Obviously I don’t do everything on this website myself – sometimes my team and I rely on third party providers to do things for us. If this involves these third parties having access to any personal information, our arrangements with them will always mean this is done in total confidence and only for the purpose for which we enlist their help with the site, and that they will not be entitled to use that information themselves or to share it with anyone else.
 
