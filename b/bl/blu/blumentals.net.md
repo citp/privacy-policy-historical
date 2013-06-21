@@ -1,15 +1,20 @@
-> *The following text is extracted and transformed from the blumentals.net privacy policy that was archived on 2012-10-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121023162651id_/http%3A//www.blumentals.net/company/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the blumentals.net privacy policy that was archived on 2013-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130621104139id_/http%3A//www.blumentals.net/privacy.php) for the most accurate reproduction.*
 
-# Blumentals Software - Company
+# Blumentals Software - Privacy Policy
 
 This privacy policy discloses the privacy practices for Blumentals Software websites and services. This privacy policy applies solely to information collected by the following websites 
 
-  * www.blumentals.net 
-  * www.blumentals.biz 
-  * www.rapidseotool.com 
-  * www.easymenumaker.com 
-  * www.easycssmenu.com 
-  * www.magicbuttonmaker.com 
+  * www.blumentals.net
+  * www.blumentals.biz
+  * www.blumentals.de
+  * www.rapidseotool.com
+  * www.easymenumaker.com
+  * www.easycssmenu.com
+  * www.magicbuttonmaker.com
+  * www.webuilderapp.com
+  * www.rapidphpeditor.com
+  * www.htmlpad.net
+  * www.rapidcsseditor.com
 
 
 
@@ -27,7 +32,7 @@ When you place an order online with us, you will be required to provide personal
 
 We may use collected information for the following general purposes: products and services provision, billing, identification and authentication, services improvement, contact, and research.
 
-**Unless you ask us not to, we may contact you via email in the future to tell you about specials, new products or services, or changes to this privacy policy.** If you do not want to receive such information, you can [remove your email address](http://www.blumentals.biz/newsletter.php) from our mailing lists at anytime.
+**Unless you ask us not to, we may contact you via email in the future to tell you about specials, new products or services, or changes to this privacy policy.** If you do not want to receive such information, you can [remove your email address](http://www.blumentals.net/newsletter.php) from our mailing lists at anytime.
 
 Except as described in this statement, **we will never willfully disclose your personal information outside of Blumentals Software** without your consent.
 
@@ -37,7 +42,23 @@ We do not collect or store any credit card information.
 
 ## Cookies
 
-We use "cookies" on this site. A cookie is a piece of data stored on a site visitor's hard drive to help us improve your access to our site and identify repeat visitors to our site. For instance, when we use a cookie to identify you, you would not have to log in a password more than once, thereby saving time while on our site. Cookies can also enable us to track and target the interests of our users to enhance the experience on our site. Usage of a cookie is in no way linked to any personally identifiable information on our site.
+As is common practice with almost all professional websites this site uses cookies, which are tiny files that are downloaded to your computer, to improve your experience. You can usually modify your browser settings to prevent this happening. However, by disabling cookies, or certain types of cookie, you may hinder your user experience on this and other websites, or prevent them from working entirely.
+
+Some cookies used on this website are essential in order to enable you to move around the website and use its features, such as accessing secure areas of the website. Without these cookies, services you have asked for, like shopping baskets or e-billing, cannot be provided.
+
+Some cookies used on this website collect information about how visitors use a website, for instance which pages visitors go to most often, and if they get error messages from web pages. These cookies don't collect information that identifies a visitor. All information these cookies collect is aggregated and therefore anonymous. It is only used to improve how a website works.
+
+Some cookies used on this website allow the website to remember choices you make (such as your user name, language or the region you are in) and provide enhanced, more personal features.
+
+Cookies may also be used to improve the user experience and to enable some of the functionality provided by this website.
+
+Please note that some cookies may be placed by third party service providers who perform some of these functions (or other services) for us. Cookies are used on this website for the following third party services: Google Analytics, Facebook Like Button, Twitter Follow button, Google +1 button, AddThis social bookmarking tool, YouTube videos. Some of these services may be used to track your behaviour on other websites and we have no control over this.
+
+**By continuing to use this website without adjusting your browser's cookie settings, you agree that we can place these cookies on your device.**
+
+## Google Analytics
+
+We use Google Analytics to understand how the site is being used in order to improve the user experience. User data is all anonymous. You can find out more about Google's position on privacy as regards its analytics service at [www.google.com](http://www.google.com/analytics/learn/privacy.html)
 
 ## Software License Validation
 
@@ -53,4 +74,4 @@ Blumentals Software may periodically update this policy. When we do, we will pos
 
 ## Questions
 
-If you have any questions about this privacy policy, please [contact us](http://www.blumentals.biz/company-contact.php).
+If you have any questions about this privacy policy, please [contact us](https://web.archive.org/web/20130621104139id_/http%3A//www.blumentals.net/contact.php).
