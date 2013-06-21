@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the ricoh-usa.com privacy policy that was archived on 2012-09-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120920025629id_/http%3A//www.ricoh-usa.com/about/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ricoh-usa.com privacy policy that was archived on 2013-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130621044212id_/http%3A//ricoh-usa.com/about/privacy.aspx) for the most accurate reproduction.*
 
-# About Ricoh Americas Corporation
+# About Ricoh | Ricoh-USA
 
 Ricoh Americas Corporation and our affiliated companies ("Ricoh") respect your online privacy and recognize your need for appropriate protection and management of any personally identifiable information ("Personal Information") you share with us. Ricoh has established this Privacy Policy so that you can understand how we intend to use and treat your Personal Information, and about the choices you can make in the way your information is collected and used. 
 
@@ -52,4 +52,4 @@ Links to third party web sites from our pages are provided solely as a convenien
 
 ##  How to Contact Us 
 
-If you have questions or comments about this Privacy Policy, please mail your inquiry to Ricoh Americas Corporation, 5 Dedrick Place, West Caldwell, NJ 07006, Attention: General Counsel. 
+If you have questions or comments about this Privacy Policy, please mail your inquiry to Ricoh Americas Corporation, 70 Valley Stream Parkway, Malvern, PA 19355, Attention: General Counsel. 
