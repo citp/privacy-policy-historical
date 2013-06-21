@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the toysrus.ca privacy policy that was archived on 2011-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110616120135id_/http%3A//www.toysrus.ca/helpdesk/panel/index.jsp%3Fdisplay%3Dsafety%26subdisplay%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the toysrus.ca privacy policy that was archived on 2013-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130621102523id_/http%3A//www.toysrus.ca/helpdesk/panel/index.jsp%3Fdisplay%3Dsafety%26subdisplay%3Dprivacy) for the most accurate reproduction.*
 
 # Toys"R"Us/Babies"R"Us : Help Desk
-
-Thank you for visiting Toys R Us. If you need assistance with shopping on our site, please call us at 800-869-7787 and a customer care representative will be happy to assist you. Please inform the Customer Service representative that you require assistance.
 
 **The "R"Us Family Privacy Policy**
 
@@ -136,4 +134,4 @@ The Website Use Agreement governing your use of this website (which may be viewe
 
 _Effective Date of Privacy Policy: August, 2007_
 
-© 2011 Toys"R"Us (Canada) Ltd. All Rights Reserved. Use of this site signifies your acceptance of Toys"R"Us Website [Terms and Conditions](https://web.archive.org/helpdesk/panel/index.jsp?display=safety&subdisplay=terms) and [Privacy Policy](https://web.archive.org/helpdesk/panel/index.jsp?display=safety&subdisplay=privacy).
+© 2013 Toys"R"Us (Canada) Ltd. All Rights Reserved. Use of this site signifies your acceptance of Toys"R"Us Website [Terms and Conditions](https://web.archive.org/helpdesk/panel/index.jsp?display=safety&subdisplay=terms) and [Privacy Policy](https://web.archive.org/helpdesk/panel/index.jsp?display=safety&subdisplay=privacy).
