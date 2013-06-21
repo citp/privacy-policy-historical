@@ -1,12 +1,13 @@
-<!--The following is the downloaded HTML source of the stockfreeimages.com privacy policy that was archived on 2012-10-10.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121010162336id_/http%3A//www.stockfreeimages.com/privacy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the stockfreeimages.com privacy policy that was archived on 2013-06-21.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130621083644id_/http%3A//www.stockfreeimages.com/privacy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns:fb="http://www.facebook.com/2008/fbml"><head>
 		<title> Free Stock Photos &amp; Images | StockFreeImages.com</title>
 		<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-		<meta name="revisit-after" content="10 days">  
-		<meta name="description" content="Largest collection of free stock photos and high quality free images. Hundreds of free photos added daily.">  
+		<meta name="revisit-after" content="10 days">
+		<meta name="description" content="Largest collection of free stock photos and high quality free images. Thousands of free photos added daily.">  
 		<meta name="keywords" content="free stock photos, free stock images, free images, free photos, free, image bank, stock photography">
+		<meta name="msvalidate.01" content="18C6210C2091A499DDCFAC48F19C12B3">
 		<link href="/css/style.css" rel="stylesheet" media="screen" type="text/css">
 		<!--[if IE 6]>
 			<style type="text/css">@import url("/css/style-compatible.css");</style>
@@ -19,8 +20,20 @@
 		<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.6.1/jquery.min.js"></script>
 <script language="JavaScript" src="/css/js.js"></script>
 <script language="javascript">
+function preload(arrayOfImages)
+	{
+    $(arrayOfImages).each(function()
+		{
+        $('<img/>')[0].src = this;
+        // Alternatively you could use:
+        // (new Image()).src = this;
+    	});
+	}
 function searchsubmit()
 	{
+	searchval=$('#search').val();
+	searchval=$.trim(searchval.replace(/[`~!@#$%^&*()_|+\-=?;:'",.<>\{\}\[\]\\\/]/gi, ' ').replace(/\s{2,}/g, ' '));
+	$('#search').val(searchval);
 	if ($('#search').val()=='free stock images')
 		$('#search').val('');
 	if ($('#search').val()=='')
@@ -30,6 +43,17 @@ function searchsubmit()
 		return false;
 		}
 	return true;
+	}
+function enteronform(form_id, button_id)
+	{
+	var $inputs = $('#'+form_id+' :input');
+    $inputs.each(function() {
+        $(this).keyup(function (e) {
+	  if (e.which == 13)
+	    $('#'+button_id).trigger('click');
+	  })
+    });
+	return false;
 	}
 </script>
 
@@ -41,28 +65,23 @@ function searchsubmit()
 
 			<div class="header">
 				<div class="headtable">
-					<div class="logo"><a href="/"><img src="/img/logo-top.jpg" border="0"></a></div>
+					<div class="logo"><a href="http://www.stockfreeimages.com/"><img src="/img/logo-top.jpg" border="0"></a></div>
 					<div class="headright">
-						<div class="account">
-						<a href="#" id="forgotbutton">Forgot password?</a> <span class="separator">•</span> 
-						<a href="#" id="contactbutton">Contact</a> <span class="separator">•</span> 
-						<a href="#" id="searchbutton" style="display:none;">Search</a><a href="#" id="loginbutton">Login</a> <span class="separator">•</span> <a href="#" id="signupbutton">Signup</a>
+						<div class="account" style="width:700px;">
+						<a href="#" id="searchbutton" class="button-header-inv" style="display:none;">Search</a>
+						<a href="#" id="loginbutton" rel="nofollow" class="button-header-inv">Login</a>
+						<a href="#" id="signupbutton" rel="nofollow" class="button-header"><img src="/img/icon-signup.png" border="0" style="float:right; padding-top:5px; margin-left:5px;">Sign up for free</a>
 						</div>
-						<div class="account" style="margin-top:-10px; margin-bottom:0px;display:none;" id="forgotdiv">
-<!--							<form name="forgotform" method="post">-->
+						<div class="account" id="forgotdiv" style="margin-top:-10px; margin-bottom:0px; display:none; float:right;">
 								<table border="0" cellpadding="0" cellspacing="0">
 									<tbody><tr valign="middle" style="height:25px;">
 										<td style="padding:0px; font-size:8pt; vertical-align:middle; padding-right:3px;">Email:</td>
 										<td style="padding:0px; padding-right:10px;"><input type="text" name="emailid" id="emailid" class="loginform" size="10"></td>
 										<td style="padding:0px;"><button class="loginbutton" id="forgotsubmit">Send</button></td>
 									</tr>
-									<!-- <tr valign="middle" style="height:22px;">
-										<td style="font-weight:normal; font-size:7.5pt; border-top:1px #333 solid;" colspan="5" align="right"><input type="checkbox" style="width:11px;">Keep me logged in</input> <span class="separator">&#8226;</span><a href="#">Forgot password?</a></td>
-									</tr> -->
 								</tbody></table>
-<!--							</form>-->
-						</div> 
-						<div class="account" style="margin-top:-10px; margin-bottom:0px;display:none;" id="logindiv">
+						</div>
+						<div class="account" id="logindiv" style="margin-top:-10px; margin-bottom:0px; display:none; float:right;">
 							<form name="loginform" method="post">
 								<table border="0" cellpadding="0" cellspacing="0">
 									<tbody><tr valign="middle" style="height:25px;">
@@ -71,19 +90,21 @@ function searchsubmit()
 										<td style="padding:0px; font-size:8pt; vertical-align:middle; padding-right:3px;">Password:</td>
 										<td style="padding:0px; padding-right:10px;"><input type="password" name="loginpass" id="loginpass" class="loginform" size="10"></td>
 										<td style="padding:0px;"><button class="loginbutton" id="loginsubmit">Login</button></td>
+										<td style="padding:0px;"><a href="#" id="forgotbutton" class="loginbutton" title="Forgot password?" style="margin-left: 5px; height: 18px;padding: 0 5px 0 5px;display: block;width: 10px;line-height: 19px;text-align: center;">?</a></td>
 									</tr>
-									<!-- <tr valign="middle" style="height:22px;">
-										<td style="font-weight:normal; font-size:7.5pt; border-top:1px #333 solid;" colspan="5" align="right"><input type="checkbox" style="width:11px;">Keep me logged in</input> <span class="separator">&#8226;</span><a href="#">Forgot password?</a></td>
-									</tr> -->
+									<tr>
+									<td colspan="6" style="font-size:8pt !important;">
+									</td>
+									</tr>
 								</tbody></table>
 							</form>
 						</div> 
 						<div id="searchdiv" class="searchbox">
 							<form name="searchform" action="/search.php" method="get" onsubmit="return searchsubmit();">
 							<input type="hidden" name="pg" value="1">
-							<table border="0" cellpadding="0" cellspacing="0">
+							<table border="0" cellpadding="0" cellspacing="0" align="right" width="300px">
 								<tbody><tr>
-								<td style="padding:0px;"><input class="textfield" type="text" id="search" name="search" value="stock free images" onclick="if($(this).val() == 'free stock images') { $(this).val(''); $(this).css('color','#000000'); }">
+								<td style="padding:0px;"><input class="textfield" type="text" id="search" name="search" value="vintage" onclick="if($(this).val() == 'free stock images') { $(this).val(''); $(this).css('color','#000000'); }">
 								</td>
 								<td style="padding:0px;"><input type="image" src="/img/search-button.jpg">
 								</td>
@@ -94,8 +115,7 @@ function searchsubmit()
 					</div>
 					<div style="clear:both;"></div>
 				</div>
-			</div> <!-- End of header-->
-<div class="content">
+			</div> <!-- End of header--><div class="content">
 				<div class="breadcrumbs">
 					<ul>
 						<li><a href="/">Home</a></li>
@@ -172,46 +192,100 @@ You can visit the site and learn about our company and its Products, as well as 
 		</div> <!-- End of container -->
 		</div> <!-- End of wrap -->
 			<div class="footer">
-				<div class="infooter">
-					<div style="float:left; width:200px;">
-					<center><img src="/img/logo-footer.png"><br>
-					<nobr>
-					<p style="margin-bottom:5px;">Stay in touch:</p>
+				<div class="infooter" style="padding-bottom:0px;">
+				<div style="float:left; width:150px; text-align:center;">
+					<img src="/img/logo-footer.png">
+					<div style="margin-top:5px;">
 					<a href="http://www.facebook.com/StockFreeImages" style="text-decoration:none; border:none;"><img style="border:none;" src="/img/icon-facebook.gif"></a>
 					<a href="https://twitter.com/#!/stockfreeimages" style="text-decoration:none; border:none;"><img style="border:none;" src="/img/icon-twitter.gif"></a>
 					<a href="https://plus.google.com/102464897332984824952?prsrc=3" rel="publisher" style="text-decoration:none; border:none;"><img style="border:none;" src="/img/icon-gplus.gif"></a>
-					</nobr>
-					</center>
 					</div>
-					<div style="float:left; width:200px;">
-						646,265 free images<br>
-						23,761 photographers<br>						
-						Powered by <a href="http://www.dreamstime.com">Dreamstime</a><br>
-						<br>
-						<a href="/aboutus.php">About Us</a><br>
-						<a href="/privacy.html">Privacy Policy</a><br>
-						<a href="/terms.html">Terms and Conditions</a>
+				</div>
+					
+				<div style="float:left; width:150px;">
+					Powered by <a href="http://www.dreamstime.com">Dreamstime</a><br>
+					<a href="http://www.stockfreeimages.com/aboutus.php">About Us</a><br>
+					<a href="http://www.stockfreeimages.com/faq.html">FAQ</a><br>
+					<a href="http://www.stockfreeimages.com/privacy.html">Privacy Policy</a><br>
+					<a href="http://www.stockfreeimages.com/terms.html">Terms and Conditions</a>
+				</div>
+					
+				<div style="float:right; width:600px;">
+					<div style="margin-bottom:13px;">
+					<strong><a href="http://www.stockfreeimages.com/categories.html" title="Free Stock Photo Categories">Categories</a></strong>
+					<span style="float:right;">
+						<a href="http://www.stockfreeimages.com/referrals.html" id="speadlove"><strong>Spread the love!</strong></a> 
+						<span class="separator" style="color:#BBBBBB">•</span> 
+						<a href="#" id="contactbutton"><strong>Contact</strong></a>
+					</span>
 					</div>
-					<div style="float:left; width:400px;">Our free images can be used and modified for websites, web banners&amp;headers, advertisements (flyers, brochures, posters), powerpoint presentations, book covers/pages, CD covers, smart phone applications, etc. You will be granted worldwide rights for unlimited projects and up to 10,000 printed copies (unlimited online).
-					<br><br>
-					<a style="font-weight:bold;" href="http://www.dreamstime.com/" title="Dreamstime.com" alt="Dreamstime.com">Stock Photos</a> | 
-					<a style="font-weight:bold;" href="http://www.timelineimages.com/" title="TimelineImages.com" alt="TimelineImages.com">Facebook Cover Photos</a> | 
-					<a style="font-weight:bold;" href="http://www.dreamstime.com/uploadfile" title="Dreamstime.com - Upload Images" alt="Dreamstime.com - Upload Images">Upload Images</a>
-					<br>
+					<div class="footer-catcell">
+						<ul>
+							<li><a href="http://www.stockfreeimages.com/c1/abstract.html">Abstract</a></li>
+							<li><a href="http://www.stockfreeimages.com/c1/animals.html">Animals</a></li>
+							<li><a href="http://www.stockfreeimages.com/c1/arts-architecture.html">Art/Architecture</a></li>
+							<li><a href="http://www.stockfreeimages.com/c1/business.html">Business</a></li>
+							
+						</ul>
 					</div>
+					
+					<div class="footer-catcell">
+						<ul>
+							
+							<li><a href="http://www.stockfreeimages.com/c1/it-c.html">IT&amp;C</a></li>
+							<li><a href="http://www.stockfreeimages.com/c1/illustrations-clipart.html">Illustrations &amp; Clipart</a></li>
+							<li><a href="http://www.stockfreeimages.com/c1/industries.html">Industries</a></li>
+							<li><a href="http://www.stockfreeimages.com/c1/nature.html">Nature</a></li>
+						</ul>
+					</div>
+					
+					<div class="footer-catcell" style="border:none;">
+						<ul>
+							
+							<li><a href="http://www.stockfreeimages.com/c1/objects.html">Objects</a></li>
+							<li><a href="http://www.stockfreeimages.com/c1/people.html">People</a></li>
+							<li><a href="http://www.stockfreeimages.com/c1/technology.html">Technology</a></li>
+							<li><a href="http://www.stockfreeimages.com/c1/travel.html">Travel</a></li>
+						</ul>
+					</div>
+					
+					<div class="footer-catcell" style="float:right; width:155px; border:none; font-weight:bold; text-align:right; margin:0; padding:0;">
+						<ul>
+							<li><a href="http://www.dreamstime.com/" title="Stock Photos">Stock Photos</a></li>
+							<li><a href="http://www.timelineimages.com/" title="Facebook Cover Photos">Facebook Cover Photos</a></li>
+							<li><a href="http://www.dreamstime.com/uploadfile" title="Dreamstime.com - Upload Images">Upload Images</a></li>
+						</ul>
+					</div>
+					
+				</div>
+				
+				<div style="clear:both;"></div>
+				
+				<div class="footer-badge">
+					<div class="footer-stats">878,977<br><span>free images</span></div>
+					<div class="footer-stats">30,634<br><span>photographers</span></div>
+					<div class="footer-stats" style="border:none;">223,469<br><span>registered users</span></div>
+				</div>
+				
+				<div style="float:right; width:570px; margin-top:20px; margin-bottom:0px; padding-left:20px; padding-right:30px; font-size:10px;">
+				<p>Our <a href="http://www.stockfreeimages.com/" title="Free Stock Images">images</a> can be used and modified for websites, web banners &amp; headers, advertisements (flyers, brochures, posters), powerpoint presentations, book covers/pages, CD covers, smart phone applications, etc. You will be granted worldwide rights for unlimited projects and up to 10,000 printed copies for free of charge content and up to 500,000 printed copies for paid content (unlimited online).</p>
+				</div>
+				
+				<div style="clear:both"></div>
 				</div>
 			</div> <!-- End of footer -->
 
-
+<!--googleoff: all-->
 <script type="text/javascript"><!--
 EXd=document;location.protocol=="https:"?EXp="https":EXp="http";EXs="src";
 EXd.write("<img style='display:none !important;' "+EXs+"="+EXp+"://nht-3.extreme-dm.com/n4.g?login=sfi123",
 "&url="+escape(EXd.URL)+"&jv="+navigator.javaEnabled()+"&",
 "d="+screen.width+"x"+screen.height+"&c="+screen.colorDepth+"",
 "&l="+escape(EXd.referrer)+" width=0 height=0>");//-->
-</script><img style="display:none !important;" src="https://nht-3.extreme-dm.com/n4.g?login=sfi123&amp;url=https%3A//web.archive.org/web/20121010162336id_/http%253A//www.stockfreeimages.com/privacy.html&amp;jv=false&amp;d=800x600&amp;c=24&amp;l=" width="0" height="0"><noscript><img height="1" width="1" alt=""
+</script><img style="display:none !important;" src="https://nht-3.extreme-dm.com/n4.g?login=sfi123&amp;url=https%3A//web.archive.org/web/20130621083644id_/http%253A//www.stockfreeimages.com/privacy.html&amp;jv=false&amp;d=800x600&amp;c=24&amp;l=" width="0" height="0"><noscript><img height="1" width="1" alt=""
 src="http://nht-3.extreme-dm.com/n4.g?login=sfi123&amp;url=nojs">
 </noscript>
+<!--googleon: all-->
 <script type="text/javascript">
 
   var _gaq = _gaq || [];
@@ -233,8 +307,8 @@ $(document).ready(function()
 	
 	$('#forgotbutton').click(function()
 		{
-		$('#logindiv').hide();
-		$('#searchdiv').hide();
+		$('#logindiv').hide('fast');
+		$('#searchdiv').hide('fast');
 		$('#forgotdiv').show('fast');
 		$('#searchbutton').show('fast');
 		$('#loginbutton').hide();
@@ -264,9 +338,9 @@ $(document).ready(function()
 		$('#loginbutton').hide('fast');
 		$('#searchbutton').show('fast');
 		});
-	$('#signupbutton').click(function()
+	$('#signupbutton,#signupbutton2').click(function()
 		{
-		$('#popupContact').width(700);
+		$('#popupContact').width(720);
 		$('#popupContact').height(406);
 		centerPopup();
 		loadPopup();
@@ -279,7 +353,7 @@ $(document).ready(function()
 		});
 	$('#contactbutton').click(function()
 		{
-		$('#popupContact').width(700);
+		$('#popupContact').width(720);
 		$('#popupContact').height(350);
 		centerPopup();
 		loadPopup();
@@ -290,12 +364,25 @@ $(document).ready(function()
 		{
 		disablePopup();
 		});
+	/*
 	$('#backgroundPopup').click(function()
 		{
 		disablePopup();
 		});
+	*/
 			
 	});
+	
+$(document).ready(function() { $('.pictitle').each( function()
+	{
+	$(this).children().attr('class','searchitemgg');
+	if ($.browser.msie==true)
+		{
+		a=$(this).children().css( { 'position':'relative \9','width':'120px','display':'block \9','padding':'2px 3px 0px 0px','white-space':'normal' } ).height();
+		$(this).children().removeAttr('style'); a=-a+14;
+		$(this).children().css({ 'margin-bottom':a, 'bottom':a, 'top':a, 'padding':'2px 3px 0px 0px' });
+		}
+	} );} );
 
 </script>
 	
