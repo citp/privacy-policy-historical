@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the rentals.com privacy policy that was archived on 2012-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121123150129id_/http%3A//www.rentals.com/Privacy-Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rentals.com privacy policy that was archived on 2013-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130621172145id_/http%3A//www.rentals.com/Privacy-Policy) for the most accurate reproduction.*
 
 # Rentals.com - Homes for Rent, Apartments, Houses for Rent, Townhomes, Condos & Vacation Rental Properties
 
 ### Privacy Policy
 
-Consumer Source Inc. and its family of publications and websites are strongly committed to protecting your privacy and providing a safe online experience for all of our visitors, customers and promotional and business partners, while offering the highest quality products and services. Because we gather certain types of information about and from users of our websites to fulfill their requests and better serve their needs, we feel users should fully understand the terms and conditions surrounding the collection and use of this information. Please read this Privacy Policy, as well as our Terms of Use and contact us if you have any questions. For purposes of this Privacy Policy, all references to “Consumer Source” include Consumer Source Inc., its affiliates and subsidiaries.
+RentPath Inc. and its family of publications and websites are strongly committed to protecting your privacy and providing a safe online experience for all of our visitors, customers and promotional and business partners, while offering the highest quality products and services. Because we gather certain types of information about and from users of our websites to fulfill their requests and better serve their needs, we feel users should fully understand the terms and conditions surrounding the collection and use of this information. Please read this Privacy Policy, as well as our Terms of Use and contact us if you have any questions. For purposes of this Privacy Policy, all references to “RentPath” include RentPath Inc., its affiliates and subsidiaries.
 
 #### Information Collected
 
@@ -38,17 +38,17 @@ We allow users of some of our websites to send articles or links by e-mail to ot
 
 #### Disclosure of Personal Information
 
-Personal information is available to Consumer Source and its technical and fulfillment agents and consultants who make this site and our publications, products and services available to you. Anonymous information may be made available to our advertisers, sponsors and promotional and business partners. We share your personal information with third parties only as described below:
+Personal information is available to RentPath and its technical and fulfillment agents and consultants who make this site and our publications, products and services available to you. Anonymous information may be made available to our advertisers, sponsors and promotional and business partners. We share your personal information with third parties only as described below:
 
-**Consumer Source and Its Agents.** All companies and service providers working for Consumer Source must comply with our information collection, use and disclosure policies, and are not permitted to sell your information to third parties or to use it except as authorized by us and you, or as permitted or required by law. 
+**RentPath and Its Agents.** All companies and service providers working for RentPath must comply with our information collection, use and disclosure policies, and are not permitted to sell your information to third parties or to use it except as authorized by us and you, or as permitted or required by law. 
 
-**Participating Vendors.** Some of our websites offer opportunities to make purchases online from special participating vendors. Any time you order from a participating vendor, that vendor will automatically have all the information related to the order. Participating vendors may use that information to advise you directly of other products and offerings that they provide. Consumer Source is not responsible for their privacy policies, and urges you to inquire about their information practices. 
+**Participating Vendors.** Some of our websites offer opportunities to make purchases online from special participating vendors. Any time you order from a participating vendor, that vendor will automatically have all the information related to the order. Participating vendors may use that information to advise you directly of other products and offerings that they provide. RentPath is not responsible for their privacy policies, and urges you to inquire about their information practices. 
 
-**Credit Card Companies.** As in any transaction, your credit card company will have all relevant information about the name of the vendor, item(s) purchased, and date and total cost. Consumer Source will not otherwise provide any personal data to your credit card company. 
+**Credit Card Companies.** As in any transaction, your credit card company will have all relevant information about the name of the vendor, item(s) purchased, and date and total cost. RentPath will not otherwise provide any personal data to your credit card company. 
 
 **Advertisers, Sponsors and Promotional and Business Partners.** We may share anonymous, aggregate demographic information (such as gender, age, income, hobbies, interests, etc.), and anonymous information obtained from cookies and similar technologies, with our advertisers, sponsors, promotional and business partners, and with participating vendors at websites offering online sales opportunities. No personally identifiable information is disclosed to any of these third parties in providing these reports. 
 
-**Third Party Venders.** Sometimes we will give you the opportunity to opt in to receive e-mail offers from third parties not affiliated with Consumer Source. If you decide to accept these offers, we will provide, with your consent, your contact information to the third party. At our websites, visitors will also have opportunities to sign up directly with certain advertisers and sponsors to enter contests or sweepstakes, receive e-mail updates, or to receive information directly from them. Third party vendors and advertisers will also use technical and other consultants. We urge visitors to carefully review the privacy policies of these firms. Consumer Source is not responsible for the privacy policies and procedures of any third party. 
+**Third Party Venders.** Sometimes we will give you the opportunity to opt in to receive e-mail offers from third parties not affiliated with RentPath. If you decide to accept these offers, we will provide, with your consent, your contact information to the third party. At our websites, visitors will also have opportunities to sign up directly with certain advertisers and sponsors to enter contests or sweepstakes, receive e-mail updates, or to receive information directly from them. Third party vendors and advertisers will also use technical and other consultants. We urge visitors to carefully review the privacy policies of these firms. RentPath is not responsible for the privacy policies and procedures of any third party. 
 
 Offline and online contact information is handled differently.
 
@@ -70,7 +70,7 @@ We work with third-party data analytics and online targeting companies. Some of 
 
 #### Third Party Advertisers
 
-We use reputable third parties to serve some or all of the advertisements that are placed within our sites. These third parties may use information (not including personally identifiable information) about your visits to our sites and other sites to assist in serving advertisements to you. They may share anonymous information with their clients such as date/time of the banner ad shown, the specific ad shown, the IP address, etc. If you would like more information about this practice and to know your choices about not having this information used by these companies, click here: http://www.networkadvertising.org/consumer/opt_out.asp. Consumer Source is not responsible for the privacy policies and procedures of any third party.
+We use reputable third parties to serve some or all of the advertisements that are placed within our sites. These third parties may use information (not including personally identifiable information) about your visits to our sites and other sites to assist in serving advertisements to you. They may share anonymous information with their clients such as date/time of the banner ad shown, the specific ad shown, the IP address, etc. If you would like more information about this practice and to know your choices about not having this information used by these companies, click here: http://www.networkadvertising.org/consumer/opt_out.asp. RentPath is not responsible for the privacy policies and procedures of any third party.
 
 #### Managing Your Personal Information
 
@@ -80,7 +80,7 @@ To review, correct or update your contact information or change your preferences
   * Unsubscribe to any of our online e-mail updates by following the unsubscribe instructions in the body of any message.
   * Write to us and update your contact information or ask that we not share your personal contact information with third parties at: 
 
-Consumer Source Inc.,   
+RentPath Inc.,   
 Attn: Privacy Coordinator   
 3585 Engineering Drive, Suite 100,   
 Norcross, Georgia 30092. 
@@ -88,7 +88,7 @@ Norcross, Georgia 30092.
 
 
 
-In those instances, we will retain your information in a “do not promote” file in our database. You may also contact us at privacypolicy @ consumersource.com.
+In those instances, we will retain your information in a “do not promote” file in our database. You may also contact us at privacypolicy @ rentpath.com.
 
 We will take commercially reasonable steps to implement your opt-out requests promptly, but you may still receive promotional information from us by mail for up to 60 days due to printing and mailing schedules, and up to 10 days for e-mail.
 
@@ -98,7 +98,7 @@ We use Secure Sockets Layer (SSL) technology to encrypt important information in
 
 Your personal information may also be protected by the password you created when you registered at one of our websites where this feature is offered. The confidentiality of any password is yours to protect. You may change it anytime by following the instructions at the website where you registered.
 
-Although we use our best efforts to assure that your data remains secure when maintained by us, security during Internet transmissions cannot be assured. Consumer Source employees are made aware of its privacy practices through periodic communications and training. We strive to limit access to personal data only to those Consumer Source employees or agents with a specific need to access or retrieve this information. We store data on multiple service systems, in controlled, secure environments. In an effort to maintain the highest level of security, we conduct internal reviews of our security measures on a regular basis.
+Although we use our best efforts to assure that your data remains secure when maintained by us, security during Internet transmissions cannot be assured. RentPath employees are made aware of its privacy practices through periodic communications and training. We strive to limit access to personal data only to those RentPath employees or agents with a specific need to access or retrieve this information. We store data on multiple service systems, in controlled, secure environments. In an effort to maintain the highest level of security, we conduct internal reviews of our security measures on a regular basis.
 
 #### Visitors Outside The United States
 
@@ -110,18 +110,18 @@ We will amend or update this privacy policy as necessary to protect our users an
 
 #### Contact Information
 
-If you have any questions about this Privacy Policy or our privacy practices, please e-mail us at privacypolicy @ consumersource.com. Please include the URL of the website and/or name of the publication involved in your request.
+If you have any questions about this Privacy Policy or our privacy practices, please e-mail us at privacypolicy @ rentpath.com. Please include the URL of the website and/or name of the publication involved in your request.
 
 Or you can contact us by mail at:
 
 Privacy Coordinator   
-Consumer Source, Inc. 
+RentPath, Inc. 
 
 3585 Engineering Drive, Suite 100   
 Norcross, Georgia 30092 
 
 #### Copyright
 
-Copyright © 2002-2012 PRIMEDIA Inc. All rights reserved.
+Copyright © 2002-2013 RentPath Inc. All rights reserved.
 
 Last updated July 12nd, 2011
