@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fftoolbox.com privacy policy that was archived on 2012-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120616152238id_/http%3A//www.fftoolbox.com/privacypolicy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fftoolbox.com privacy policy that was archived on 2013-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130621154112id_/http%3A//www.fftoolbox.com/privacypolicy.cfm) for the most accurate reproduction.*
 
 # FFToolbox: Privacy Policy
 
@@ -24,7 +24,7 @@ If you believe that your work has been copied and is accessible at our web site 
 
 Our agent for notice of claims of copyright infringement on or regarding this web site can be reached as follows:
 
-Jeff Christiansen   
-FFToolbox.com LLC   
-P.O. Box 482   
-Oconomowoc, WI 53066
+Fulltime Fantasy Sports, LLC / FFToolbox   
+8905 W Post Lane   
+Suite 100   
+Las Vegas, Nevada, 89148
