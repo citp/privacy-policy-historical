@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the toptable.com privacy policy that was archived on 2012-10-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121028190325id_/http%3A//www.toptable.co.uk/info/privacypolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the toptable.com privacy policy that was archived on 2013-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130621124555id_/http%3A//www.toptable.co.uk/info/privacypolicy.aspx) for the most accurate reproduction.*
 
 # toptable privacy policy | toptable
 
 ##  Effective June, 2012
 
-toptable.co.uk Ltd, along with its parent company, subsidiaries or other affiliated companies ("toptable"), is committed to safeguarding your privacy. This Privacy Policy describes toptable's policies and procedures on the collection, use and disclosure of the information collected through [http://toptable.co.uk](https://web.archive.org/), mobile applications owned or operated solely by toptable (hereinafter referred to collectively as the "toptable Websites").
+OpenTable International Limited, along with its parent company, subsidiaries or other affiliated companies ("toptable"), is committed to safeguarding your privacy. This Privacy Policy describes toptable's policies and procedures on the collection, use and disclosure of the information collected through [http://toptable.co.uk](https://web.archive.org/), mobile applications owned or operated solely by toptable (hereinafter referred to collectively as the "toptable Websites").
 
 ###  About the toptable Network
 
