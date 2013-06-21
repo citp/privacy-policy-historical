@@ -1,11 +1,10 @@
-<!--The following is the downloaded HTML source of the etsi.org privacy policy that was archived on 2012-12-21.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121221071650id_/http%3A//www.etsi.org/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the etsi.org privacy policy that was archived on 2013-06-22.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130622004402id_/http%3A//www.etsi.org/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html lang="en"><!--<![endif]--><head>
   <base href="http://www.etsi.org/privacy">
   <meta http-equiv="content-type" content="text/html; charset=utf-8">
   <meta name="keywords" content="ETSI Privacy">
-  <meta name="author" content="Leszek Bednorz">
   <meta name="description" content="ETSI Privacy">
   <meta name="generator" content="Joomla! - Open Source Content Management">
   <title>Privacy</title>
@@ -46,7 +45,7 @@ window.addEvent('load', function() {
   <link rel="stylesheet" href="/templates/etsidefault/css/global.css">
   <link rel="stylesheet" href="/templates/etsidefault/css/layout.css">
         <link rel="stylesheet" href="/templates/etsidefault/css/vallenato.css">
- <!--[if IE 8 ]> <link href="/ie8fix.css" rel="stylesheet" type="text/css" />  <![endif]-->
+ <!--[if IE 8 ]> <link href="/custom/ie8fix.css" rel="stylesheet" type="text/css" />  <![endif]-->
  <!--[if lt IE 9]>
     <script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
   <![endif]-->
@@ -60,20 +59,22 @@ window.addEvent('load', function() {
     <meta property="og:type" content="website">
     <meta property="og:url" content="http://www.etsi.org/privacy">
     <!-- meta property="og:image" content="" /-->
+	<meta property="og:image" content="/templates/etsidefault/images/main-logo.png">
     <meta property="og:site_name" content="ETSI">
     <meta property="og:description" content="">
   <link rel="stylesheet" href="http://code.jquery.com/ui/1.9.2/themes/base/jquery-ui.css">
   <script src="http://code.jquery.com/ui/1.9.2/jquery-ui.js"></script>
+  <script type="text/javascript" src="/templates/etsidefault/js/CollapsibleLists.compressed.js"></script>
   <script type="text/javascript">
                     jQuery(document).ready(function($){
                         jQuery('#newsletter-rf').click(function(){
                             var url = $(this).attr('href');
-                            showDialog('/register.html');
+                            showDialog('/custom/register.html');
                             return false;
                         });
                         jQuery('#mailing-rf').click(function(){
                             var url = $(this).attr('href');
-                            showDialog('/events-register.html');
+                            showDialog('/custom/events-register.html');
                             return false;
                         });
                     jQuery("#mod-div").dialog({ 
@@ -89,7 +90,7 @@ window.addEvent('load', function() {
                     });
                 </script>
   </head>
-<body>
+<body onload="CollapsibleLists.apply()">
 <script type="text/javascript">
   var _gaq = _gaq || [];
   _gaq.push(['_setAccount', 'UA-11468062-2']);
@@ -161,8 +162,8 @@ window.addEvent('load', function() {
 				<input type="hidden" name="Itemid" value="141">	</div>
 </form>
                 </div>
-                <div class="newsletter-button"><a href="/register.html" id="newsletter-rf" class="off-modal" rel="{size: {x: 450, y: 300}, closable: true}">Newsletter</a></div>
-                <div class="mailing-list-button"><a href="/events-register.html" id="mailing-rf" class="off-modal" rel="{size: {x: 450, y: 300}, closable: true}">Events mailing list</a></div>
+                <div class="newsletter-button"><a href="/custom/register.html" id="newsletter-rf" class="off-modal" rel="{size: {x: 450, y: 300}, closable: true}">Newsletter</a></div>
+                <div class="mailing-list-button"><a href="/custom/events-register.html" id="mailing-rf" class="off-modal" rel="{size: {x: 450, y: 300}, closable: true}">Events mailing list</a></div>
             </div>
 <ul class="menu">
 <li class="item-125 parent"><a href="/standards">Standards</a></li><li class="item-110 parent"><a href="/technologies-clusters">Technologies &amp; Clusters</a></li><li class="item-120 parent"><a href="/membership">Membership</a></li><li class="item-102 parent"><a href="/news-events">News &amp; Events</a></li><li class="item-129 parent"><a href="/services">Services</a></li><li class="item-147"><a href="http://portal.etsi.org/">Committees &amp; Portals</a></li><li class="item-111 parent"><a href="/about">About</a></li></ul>
@@ -171,14 +172,18 @@ window.addEvent('load', function() {
 </header>
     </div>
     <div class="sixteen columns">
+      <!-- mod_breadcrumbs -->
         <div class="row breadcrumb-bar mojo">
     <ul>
                         <li class="selected"><a href="/privacy">Privacy</a></li>
             </ul>
     <jdoc:include type="modules" name="socialmedia-ontop-menu">
 </jdoc:include></div>
+      <!-- mod_socialmedua-ontop -->
+      <!-- plugtest title -->
 <!--<div class="row breadcrumb-bar"><ul><li><a href="#">News &amp; Events</a></li><li class="selected"><a href="#">ETSI Seminar</a></li></ul></div>-->
-  <div class="plugbanner"></div>
+      <!-- plug banner -->
+<!-- div class="plugbanner"><jdoca:include type="modules" name="plugbanner" /></div -->
     </div>
     <div class="sixteen columns">
         <div class="row">
