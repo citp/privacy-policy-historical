@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the usaudiomart.com privacy policy that was archived on 2012-10-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121002222124id_/http%3A//www.usaudiomart.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the usaudiomart.com privacy policy that was archived on 2013-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130621230555id_/http%3A//www.usaudiomart.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy - US Audio Mart
 
@@ -38,12 +38,3 @@ P.O. Box 27531
 Oakridge  
 Vancouver, BC, Canada  
 V5Z 4M4
-
-### US Audio Mart is FREE!
-
-* * *
-
-* * *
-
-  
-
