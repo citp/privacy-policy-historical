@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the photobucket.com privacy policy that was archived on 2012-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121230033632id_/http%3A//photobucket.com/privacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the photobucket.com privacy policy that was archived on 2013-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130621150933id_/http%3A//photobucket.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy - photobucket.com
+# Privacy Policy | Photobucket
 
 ## Last revised March 30, 2012
 
@@ -30,11 +30,11 @@ We collect and store a wide variety of information you submit to Photobucket or 
     * Photobucket may disclose your PII: (a) when we are legally required to do so; (b) to protect the interests or safety of Photobucket or Site users; (c) to another company if we are bought, or if we discontinue operations.
   * **How Do We Use Your Email Address?** Photobucket will use your email address to contact you to manage your account. Unless you tell us not to, Photobucket will also: send you marketing and promotional materials regarding Photobucket and its features; and send you marketing and promotional materials that promote third party products, including from affiliates, third parties and trusted marketing partners with whom we have shared your PII.
   * **What If I Don't Want Email From Photobucket?** If you don't want to get emails from us (except related to customer service or account issues), you may uncheck the "Allow Photobucket to send me newsletter updates" box in Account Settings under Privacy Settings. You may also simply click the "unsubscribe" link in any of the emails you receive.
-  * **What if I Don't Want Email From Third Parties?** If you would like to opt-out from Photobucket sharing your PII with third party business partners for email marketing purposes, please go to your Account settings or [click here](https://web.archive.org/emailoptout) and un-check the box for 3rd party marketing emails.
+  * **What if I Don't Want Email From Third Parties?** If you would like to opt-out from Photobucket sharing your PII with third party business partners for email marketing purposes, please go to your Account settings or [click here](https://web.archive.org/settings/notifications) and un-check the box for 3rd party marketing emails.
   * **How Do We Use Your Information For Advertising?** Photobucket will target advertising based on personal information provided by users and inferred from site usage. This may include gender, age, or geographic data. Photobucket does not provide any personal information to the advertiser when you interact with or view a targeted ad. However, by interacting with or viewing an ad you are consenting to the possibility that the advertiser will make the assumption that you meet the targeting criteria used to display the ad. We may bundle and share the non-personal information we collect from you and other users with advertisers, third parties, trusted partners and affiliates so that they display advertising that better suits the interests of users of our Site. We may aggregate your PII with information about others. In that case we will make your information non-personally identifiable by removing your name and other characteristics that would identify it as you. We may use and/or share the resulting non-PII with third parties.
   * **Do We Use Analytics Companies?** We may provide some non-personal information to others who help us understand how you use the Site.
   * **Do We Use Cookies?** We use both HTTP (or HTML) cookies and Flash cookies to collect non personal information, help smooth the upload process, remember you on future visits, better understand how users engage with the Site so we can enhance the user experience, and maintain volume on video playback. Most browsers accept HTTP cookies automatically, but allow you to disable them. You can manage Flash cookies with a tool found on [Adobe's web site](http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager07.html). However, if you disable cookies on your browser, you will not be able to log in to the Site.
-  * **How Can I Opt-Out of Having Non-PII Shared?** You may choose to opt-out from allowing Photobucket to provide non-PII to certain partners. Visit [networkadvertising.org](http://www.networkadvertising.org/optout_nonppii.asp), [aboutads.info](http://www.aboutads.info/choices), and [jumptap.com](http://opt.jumptap.com/optout/opt?jt) to make informed decisions about your online and mobile privacy and to opt-out of sharing your non-PII.
+  * **How Can I Opt-Out of Having Non-PII Shared?** You may choose to opt-out from allowing Photobucket to provide non-PII to certain partners. Visit [networkadvertising.org](http://www.networkadvertising.org/optout_nonppii.asp), [aboutads.info](http://www.aboutads.info/choices), [rhythmnewmedia.com](http://rhythmnewmedia.com/privacy-policy/), and [jumptap.com](http://opt.jumptap.com/optout/opt?jt) to make informed decisions about your online and mobile privacy and to opt-out of sharing your non-PII.
 
 
 
@@ -84,6 +84,7 @@ Don't Be Shy! If you have any questions regarding this Privacy Policy or informa
 
 you can contact us at:
 
+  * **URL:** <http://support.photobucket.com/home>
   * **Email:** [support@photobucket.com](mailto:support@photobucket.com)
   * **Address:** Photobucket.com, Inc. P.O. Box 13003, Denver, CO 80201
 
