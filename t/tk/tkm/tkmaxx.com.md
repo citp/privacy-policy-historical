@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the tkmaxx.com privacy policy that was archived on 2012-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121119001139id_/http%3A//www.tkmaxx.com/page/privacynotice) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tkmaxx.com privacy policy that was archived on 2013-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130621222217id_/http%3A//www.tkmaxx.com/page/privacynotice) for the most accurate reproduction.*
 
-# Privacy Notice
+# Privacy Notice - TK Maxx
 
 **Last updated: 30 October 2012**
 
@@ -35,7 +35,7 @@ The sort of information we collect depends on what you need us to do for you, or
 
   * Your name and address so we can make sure an online order reaches you. 
   * Your email address so we can set up an online account for you, send you important information relating to your order and send you marketing emails if you ask us to (click here to see how you can request marketing emails or ask us not to send them). 
-  * Your card details so we can take payment or make a refund whether online or in store ([click here](http://www.tkmaxx.com/customer-service/faqs/page/faqs/#payment4) to see how we protect financial information). 
+  * Your card details so we can take payment or make a refund whether online or in store ([click here](http://www.tkmaxx.com/customer-service/faqs/page/faqs#payment4) to see how we protect financial information). 
   * Your telephone number so we can contact you if there is a problem with delivery. 
   * Your IP address so we can, where you have consented, use appropriate cookies to enhance your visits to our website (click here to see how we use Cookies). 
   * Your signature and other appropriate information when you bring a return to our store to acknowledge receipt of the refund and help us guard against theft and fraud. 
@@ -69,8 +69,7 @@ When you use our website, receive an email from us, place an order or enter a co
 If you no longer wish to receive our emails there are several ways you can unsubscribe: 
 
   * Click on the "Unsubscribe" link at the bottom of every TK Maxx Email Newsletter and HomeSense Email Newsletter email. This will open a new page and you will need to click "Yes, unsubscribe me".
-  * Use the My Account area of our website – you may have an online account with us, or you may have set up a profile in the Careers page. On both pages you can opt out of receiving our emails by going to your preferences and un-ticking the box for the TK Maxx Email Newsletter and HomeSense Email Newsletter 
-  * Contact Us and we will remove you from the list. [Click here for contact details](http://www.tkmaxx.com/page/contact/).
+  * Contact Us and we will remove you from the list. [Click here for contact details](http://www.tkmaxx.com/page/contact).
 
 
 
