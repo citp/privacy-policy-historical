@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the elearners.com privacy policy that was archived on 2012-10-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121007112921id_/http%3A//www.elearners.com/help/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the elearners.com privacy policy that was archived on 2013-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130621070917id_/http%3A//www.elearners.com/help/privacy.asp) for the most accurate reproduction.*
 
 # Privacy Policy
-
-_NOTE: Privacy Policy Modified May 17, 2011_
 
 eLearners.com, a part of the Student Prospecting Division of EducationDynamics, LLC, is a licensee of the TRUSTe Privacy Program.eLearners.com has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with [TRUSTe's program requirements](http://www.truste.com/privacy_seals_and_services/consumer_privacy/privacy-programs-requirements.html "TRUSTe's program requirements") including transparency, accountability and choice regarding the collection and use of your personal information. The TRUSTe program does not cover information that may be collected through downloadable software. TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy policy or practices, please contact us at [privacy@elearners.com](mailto:privacy@elearners.com "privacy@elearners.com"). If you are not satisfied with our response you can contact [TRUSTe here](http://watchdog.truste.com/pvr.php?page=complaint "TRUSTe here").
 
@@ -10,7 +8,21 @@ eLearners.com believes that all the information that we gather about you should 
 
 ###  Information Collection and Use
 
-This document discloses eLearners.com's information gathering and dissemination practices as they apply to individual site users on [www.elearners.com](http://www.elearners.com/). eLearners.com collects information from its users at several different points on its website.
+EducationDynamics will not disclose your personally identifiable information except as described below:
+
+If you use our site or if you post on our blogs, forums, message boards, or chat rooms, some personally identifiable information may be seen by other members or users. This includes, but is not limited to, the poster's name, date of post, comments, IP address, survey responses, and other information. This information may also be transferred to any outside entity, including the press or other media that visits our site.
+
+We use the information we automatically collect (such as contact information, IP address and basic browser and system details) to help us optimize our sites and the services we currently offer on the sites and may offer in the future. We also collect personal information and share it with trusted third parties to analyze and provide us with feedback, suggestions and strategies to improve our business processes and the services we provide. If you elect to provide us with personally identifiable information, such information may also be used for marketing purposes, and may result in follow-up communications from EducationDynamics, our affiliated properties and services, and institutions of higher education about opportunities, programs and other services that are related to education. In addition, from time to time, we may share personally identifiable information (such as e-mail addresses and other contact information such as name, email address and phone number) with carefully selected third parties, so they may offer goods and services that we believe may be of interest to our customers.
+
+EducationDynamics shares your personal information with the educational institutions you selected and, if you use one of our matching services, those institutions which we have matched your profile so that these institutions may contact you with information about their programs. Use of your personal information by these educational institutions is not governed by this Privacy Policy. For further information on such institution’s use of your information, please visit the applicable privacy policy of such institution. Educational institutions have separate policy practices for which EducationDynamics has no responsibility or liability.
+
+If you submit information to an advertiser or other third party that is made available on or through EducationDynamics, the information obtained during your visit to that advertiser’s website, and the information you give to the advertiser will be governed by the advertiser’s privacy policy. For further information on such advertiser’s use of your information, please visit the applicable privacy policy of such advertisers. Advertisers made available on this site have separate policy practices for which EducationDynamics has no responsibility or liability.
+
+We may disclose account information where we have reason to believe that disclosing the information is necessary to identify, contact, or bring legal action against someone who may be violating EducationDynamics's policies as specified in the Privacy Policy or relevant User Agreement, may be violating state or federal law, or may be causing injury to or interference with (either intentionally or unintentionally) EducationDynamics's rights or property, other users of the Site, or anyone else that could be harmed by such activities. EducationDynamics may disclose or access account information when we believe that the law requires it and for administrative and other purposes that we deem necessary to maintain and improve our services.
+
+Additionally, EducationDynamics uses your information to provide you with a customized browsing experience. We also may use your personal information to resolve disputes, troubleshoot problems, respond to your inquiries, detect and protect against error, fraud, or other criminal activity, enforce our User Agreement, and for any other purposes that EducationDynamics deems appropriate.
+
+We cannot ensure that all of your private communications and other personal information will never be disclosed in ways not otherwise described in this Policy. For example, we may be forced to disclose information to the government or third parties under certain circumstances, third parties may unlawfully intercept or access transmissions or private communications, or users may abuse or misuse your personal information that they unlawfully collect from the Site. We will try to protect your privacy, however, we do not promise, and you should not expect, that your personal information or private communications will always remain private.
 
 ###  Registration
 
@@ -144,4 +156,4 @@ If users have any questions or suggestions regarding our privacy policy, please 
 E-mail: [privacy@elearners.com](mailto:privacy@elearners.com "privacy@elearners.com")  
 Postal Address: 5 Marine View Plaza, Suite 212, Hoboken, NJ 07030
 
-_NOTE: Privacy Policy Modified May 17, 2011_
+This updated policy is effective as of October 24, 2012
