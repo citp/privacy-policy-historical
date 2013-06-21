@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the petsathome.com privacy policy that was archived on 2012-10-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121010065833id_/http%3A//www.petsathome.com/webapp/wcs/stores/servlet/Info_10601_PrivacyPolicy_-1_10551) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the petsathome.com privacy policy that was archived on 2013-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130621023528id_/http%3A//www.petsathome.com/webapp/wcs/stores/servlet/Info_10601_PrivacyPolicy_-1_10551) for the most accurate reproduction.*
 
 # 
 
