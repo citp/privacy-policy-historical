@@ -1,21 +1,6 @@
-> *The following text is extracted and transformed from the shell.com.ng privacy policy that was archived on 2012-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121123090657id_/http%3A//www.shell.com.ng/home/content/nga/footer/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shell.com.ng privacy policy that was archived on 2013-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130621021029id_/http%3A//www.shell.com.ng/about-our-website/privacy-policy.html) for the most accurate reproduction.*
 
-# Privacy policy | Nigeria
-
-  * What does this privacy policy cover? 
-  * Who is responsible for the personal information collected on this site? 
-  * Special Notice - if you are under 13 years old 
-  * Purposes of the collection of your data 
-  * Collection of non-personal information 
-  * Interaction between you and us 
-  * Keeping our records accurate 
-  * Security of your personal data 
-  * Use of your personal information submitted to other web sites 
-  * Cookies policy 
-  * Changes to this policy 
-  * How can you contact us? 
-
-
+# Privacy Policy - Nigeria
 
 ###  What does this privacy policy cover? 
 
@@ -37,19 +22,19 @@ We therefore also ask you, if you are under 13 years old, please do not send us 
 
 One of the purposes of our website is to inform you of who we are and what we do. We collect and use personal information (including name, address, telephone number and email) to better provide you with the required services, or information. We would therefore use your personal information in order to:
 
-  * respond to queries or requests submitted by you
+  * respond to queries or requests submitted by you 
 
 
-  * process orders or applications submitted by you
+  * process orders or applications submitted by you 
 
 
-  * administer or otherwise carry out our obligations in relation to any agreement you have with us
+  * administer or otherwise carry out our obligations in relation to any agreement you have with us 
 
 
-  * anticipate and resolve problems with any goods or services supplied to you
+  * anticipate and resolve problems with any goods or services supplied to you 
 
 
-  * create products or services that may meet your needs.
+  * create products or services that may meet your needs. 
 
 
 
@@ -89,11 +74,9 @@ On our websites, we may have links to other websites or you are referred to our 
 
 We recommend that you check the policy of each website you visit to better understand your rights and obligations especially when you are submitting any type of content on those third party website. Please contact the owner or operator of such website if you have any concerns or questions.
 
-###  Cookies policy 
-
 We use the term “cookies” to refer to cookies and other similar technologies covered by the EU Directive on privacy in electronic communications.
 
-  *  **What is a cookie?**
+  * **What is a cookie?**
 
 
 
@@ -101,7 +84,7 @@ Cookies are small data files that your browser places on your computer or device
 
 When a server uses a web browser to read cookies they can help a website deliver a more user-friendly service. To protect your privacy, your browser only gives a website access to the cookies it has already sent to you.
 
-  *  **Why do we use cookies?**
+  * **Why do we use cookies?**
 
 
 
@@ -109,28 +92,24 @@ We use cookies to learn more about the way you interact with our content and hel
 
 Cookies remember the type of browser you use and which additional browser software you have installed. They also remember your preferences, such as language and region, which remain as your default settings when you revisit the website. Cookies also allow you to rate pages and fill in comment forms.
 
-Some of the cookies we use are session cookies and only last until you close your browser, others are persistent cookies which are stored on your computer for longer.  For further details on the various types of cookies that we use, please read our [cookie policy](https://web.archive.org/home/content/nga/footer/privacy_policy/cookie_policy/ "cookie policy").
+Some of the cookies we use are session cookies and only last until you close your browser, others are persistent cookies which are stored on your computer for longer.  For further details on the various types of cookies that we use, please read our [cookie policy](http://www.shell.com.ng/about-our-website/privacy-policy/cookie-policy.html).
 
-  *  **How are third party cookies used?**
+  * **How are third party cookies used?**
 
 
 
-For some of the functions within our websites we use third party suppliers, for example, when you visit a page with videos embedded from or links to YouTube. These videos or links (and any other content from third party suppliers) may contain third party cookies and you may wish to consult the policies of these third party websites for information regarding their use of cookies. For further details on the third party cookies that we use, please read our page on [cookie types](https://web.archive.org/home/content/nga/footer/privacy_policy/cookie_policy/cookie_type/ "cookie types").
+For some of the functions within our websites we use third party suppliers, for example, when you visit a page with videos embedded from or links to YouTube. These videos or links (and any other content from third party suppliers) may contain third party cookies and you may wish to consult the policies of these third party websites for information regarding their use of cookies. For further details on the third party cookies that we use, please read our page on [cookie types](http://www.shell.com.ng/about-our-website/privacy-policy/cookie-policy/cookie-type.html).
 
-  *  **How do I reject and delete cookies?**
+  * **How do I reject and delete cookies?**
 
 
 
 We will not use cookies to collect personally identifiable information about you. However, should you wish to do so, you can choose to reject or block the cookies set by Shell or the websites of any third party suppliers by changing your browser settings – see the Help function within your browser for further details. Please note that most browsers automatically accept cookies so if you do not wish cookies to be used you may need to actively delete or block the cookies.
 
-You can also visit [www.allaboutcookies.org - Opens in new window](https://web.archive.org/home/ExternalLink?SourcesiteId=nga&URL=http%3A%2F%2Fwww.allaboutcookies.org%2F "www.allaboutcookies.org, Opens in new window") for details on how to delete or reject cookies and for further information on cookies generally. For information on the use of cookies in mobile phone browsers and for details on how to reject or delete such cookies, please refer to your handset manual.
+You can also visit [www.allaboutcookies.org](http://www.shell.com.ng/disclaimer-en.html/aHR0cDovL3d3dy5hbGxhYm91dGNvb2tpZXMub3JnLw==) for details on how to delete or reject cookies and for further information on cookies generally. For information on the use of cookies in mobile phone browsers and for details on how to reject or delete such cookies, please refer to your handset manual.
 
 Note, however, that if you reject the use of cookies you will still be able to visit our websites but some of the functions may not work correctly.
 
-###  Changes to this policy 
-
 From time to time we may make changes to this privacy policy. If we make any substantial changes to this privacy policy and the way in which we use your personal data we will post these changes on this page and will do our best to notify you of any significant changes. Please check our privacy policy on a regular basis.
 
-###  How can you contact us? 
-
-If you would like to contact us about our privacy policy, you can do so by emailing us at [shellnigeria@shell.com](mailto:shellnigeria@shell.com "shellnigeria@shell.com").
+If you would like to contact us about our privacy policy, you can do so by emailing us at [shellnigeria@shell.com](mailto:shellnigeria@shell.com).
