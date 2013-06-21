@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the europeupclose.com privacy policy that was archived on 2012-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121219050059id_/http%3A//www.europeupclose.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the europeupclose.com privacy policy that was archived on 2013-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130621072106id_/http%3A//www.europeupclose.com/privacy-policy.php) for the most accurate reproduction.*
 
 # Privacy Policy | EuropeUpClose.com
 
@@ -8,7 +8,7 @@ We highly value your privacy and make this policy easily available throughout ou
 
 This website utilizes industry standard analytics packages which gathers limited information on visitors to our website automatically, and stores this anonymous information in server log files. This information may include IP addresses, browser type, basic IP information, referring pages, operating system used and date/time stamps. This information does not identify individual users; it is used only for site administration, as well as for analysis of website usage and trends.
 
-Additionally, cookies may be used to provide easier and faster access to website features such as logins and/or repeat visits.  Cookies are very small text files that are stored on personal computers for reference purposes. We do/do not link the information we store in cookies to any personally indentifiable information you have submitted while on our site.
+Additionally, cookies may be used to provide easier and faster access to website features such as logins and/or repeat visits.  Cookies are very small text files that are stored on personal computers for reference purposes. We do not link the information we store in cookies to any personally indentifiable information you have submitted while on our site.
 
 **Links to Other Websites**
 
