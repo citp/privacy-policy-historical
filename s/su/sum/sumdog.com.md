@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sumdog.com privacy policy that was archived on 2012-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121222222151id_/http%3A//www.sumdog.com/en/Privacy_Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sumdog.com privacy policy that was archived on 2013-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130621215713id_/http%3A//www.sumdog.com/en/Privacy_Policy) for the most accurate reproduction.*
 
 # Sumdog Teacher Portal - Privacy Policy and Cookies
 
@@ -10,7 +10,7 @@ We are committed to protecting your personal information. This policy covers our
 
 When you sign up for one of our services we may ask for personal information about you, such as your name, date of birth, your job and email address. By entering these details accurately it enables us to provide the best possible service.
 
-Most of your information is stored on our servers. We may transfer your information to other countries for processing and storage. However, we will only do this in locations that follow the "Safe harbor" regulations (<http://www.export.gov/safeharbor>). We also use small files (such as cookies and licence files) to store some information on your computer. This reduces the amount of form filling required each time you use our websites or software.
+Most of your information is stored on our servers. We may transfer your information to other countries for processing and storage. However, except in the special cases described below, we will only do this in locations that follow the "Safe harbor" regulations (<http://www.export.gov/safeharbor>). We also use small files (such as cookies and licence files) to store some information on your computer. This reduces the amount of form filling required each time you use our websites or software.
 
 With certain services we also look at your IP address and other data that identifies your computer and country. We use this to personalise your user experience for a particular country and to detect illegal use of our software. This information is not used to develop a personal profile of you.
 
@@ -65,7 +65,10 @@ Generally, we will keep your information confidential except:
 
   * where disclosure is required by law;
   * there has been a clear breach of our licensing terms. In this case we may share information with our partners, lawyers and/or law enforcement agencies in the relevant country;
-  * when you have made a sales enquiry or joined the Leader in Technology initiative from a country where we have a partner. In this case we may forward your enquiry; or
+  * if you have a student login, and it's linked to a Sumdog school account, anyone signed up to Sumdog as a teacher at that school will be able to access your login details, and data from the questions you've answered on Sumdog;
+  * if you have a student account, and it's linked to a Sumdog family account, anyone signed up to Sumdog as a parent in that family will be able to access your login details, and data from the questions you've answered on Sumdog;
+  * when you have made a sales or support enquiry from a country in which we work with a partner, in which case we may forward your enquiry to them; or
+  * if you're registered as a teacher in a school in Australia or New Zealand; here, we're running Sumdog contests in partnership with Edsoft Pty, and we may allow them to access your data;
   * when you have provided explicit permission to pass your information to a third party.
 
 
