@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the redown.com privacy policy that was archived on 2012-01-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120123232227id_/http%3A//www.redown.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the redown.com privacy policy that was archived on 2013-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130621102525id_/http%3A//www.redown.se/privacy_policy.html) for the most accurate reproduction.*
 
-# Privacy Policy Filesonic Fileserve Rapidshare Wupload Links - ReDown.Com
+# Privacy Policy
 
 **  Privacy Policy**
 
