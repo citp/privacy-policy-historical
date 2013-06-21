@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the igigi.com privacy policy that was archived on 2012-10-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121029074940id_/http%3A//www.igigi.com/cms/inside-igigi/customer-service/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the igigi.com privacy policy that was archived on 2013-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130621021032id_/http%3A//www.igigi.com/cms/inside-igigi/customer-service/privacy-policy/%3Flinkid%3Dbottommenu) for the most accurate reproduction.*
 
 # Privacy Policy - Designer Plus Size Clothing Store - by IGIGI
-
-Follow IGIGI on: [ ](http://www.youtube.com/user/IgigiTV) [ ](http://www.facebook.com/pages/IGIGI/164691925388?ref=s) [ ](http://twitter.com/IGIGI)
 
 This Web site (this "Site") is operated by IGIGI, Inc. We recognize that privacy is a major concern for our customers (“customers”) and we respect your privacy. This Privacy Policy is to advise you how we will and will not disclose the information provided to us through this Site. If you have any questions about our Privacy Policy, contact us at Customer Service. If elements of our Privacy Policy change, we will post them here. This Privacy Policy applies to all information obtained through this Site.
 
@@ -37,3 +35,17 @@ A cookie is a small alphanumeric data file that Web sites store on your computer
 **What about links to other web sites and services?**  
 The Site contains links to other sites that are not under our control nor covered by IGIGI's policies regarding privacy. We have no control of or responsibility for linked Web sites and provide these links solely for the convenience and information of our visitors. You should check the privacy policies, if any, of these linked sites to see how they may use your personal information. _  
 _
+
+The IGIGI website supports the following web browsers. If you are experiencing problems adding items to your shopping bag, please click the "Download Site" link for your browser of choice to get the latest version.
+
+Browser | Supported | Recommended | Download  
+---|---|---|---  
+Internet Explorer | 7+ | 10+ | [Download Site](http://www.microsoft.com/windows/internet-explorer/default.aspx)  
+Mozilla FireFox | 2+ | 3+ | [Download Site ](http://www.mozilla.com/firefox/)  
+AOL | 1.2+ | 1.5+ | [Download Site ](http://downloads.channel.aol.com/windowsproducts)  
+Safari | 3+ | 4+ | [Download Site ](http://www.apple.com/safari/download/)  
+Netscape | Not supported | Not supported |    
+  
+JavaScript and cookies must be enabled to use the IGIGI website. These are enabled by default, and in most cases you should not need to make any changes to your browser settings.
+
+The IGIGI website uses pop-up windows for certain pages on the site. If your browser is set to block pop up windows, you may have trouble viewing these pages. Generally, if this is the case, you will get a message at the top of your browser "Pop-up blocked" when trying to view a pop-up page. You can then add the IGIGI site to your list of unblocked sites.
