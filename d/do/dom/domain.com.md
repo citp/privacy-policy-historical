@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the domain.com privacy policy that was archived on 2012-07-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120729160835id_/http%3A//www.domain.com/legal/legal_privacy.bml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the domain.com privacy policy that was archived on 2013-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130621040407id_/http%3A//www.domain.com/legal/legal_privacy.bml) for the most accurate reproduction.*
 
 # Domain.com's Privacy Policy
 
@@ -62,7 +62,7 @@ To ensure you receive the information you need to manage your account and protec
 
   
 
-  17. **Where to Direct Questions About Domain.com's Privacy Policy.** If you have any questions about this Privacy Policy or the practices described herein, you may contact: User Service, Domain.com, LLC, 70 Blanchard Rd 3rd Floor, Burlington, MA 01803 or support@domain-inc.net.
+  17. **Where to Direct Questions About Domain.com's Privacy Policy.** If you have any questions about this Privacy Policy or the practices described herein, you may contact: User Service, Domain.com, LLC, 10 Corporate Dr. Suite 300, Burlington, MA 01803 or support@domain-inc.net.
   
 
   18. **Unsubscribe**
@@ -80,4 +80,4 @@ Please note: Domain.com reserves the right to send you email communications that
 
 
 
-This file was last modified May 3, 2012. 
+This file was last modified December 10, 2012. 
