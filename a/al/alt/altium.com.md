@@ -1,20 +1,18 @@
-> *The following text is extracted and transformed from the altium.com privacy policy that was archived on 2012-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120503075750id_/http%3A//www.altium.com/en/altiumsprivacypolicy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the altium.com privacy policy that was archived on 2013-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130621065754id_/http%3A//www.altium.com/en/privacy-policy) for the most accurate reproduction.*
 
-# Altium's Privacy Policy
-
-Altium's Privacy Policy 
+# Privacy Policy | altium.com
 
 Altium is committed to ensuring that all the details you provide to us remain reasonably secure. The following privacy policy discloses the information practices for Altium websites, including the type of information gathered, how the information is used internally and Altium’s policy regarding sharing information with others.
 
 ### How we use the information
 
-Altium services our customers through a number of regional sales centers and Value Added Resellers (VARs) worldwide. Altium, via our sales and VAR network, uses the information you give us for the purposes of processing your orders, delivering the goods to you and providing you with any support and information you may require. Altium may also use your email address to send you emails about your order and with your consent, emails regarding news, special product and service offers.
+Altium services our customers through a number of regional sales centers and Value Added Resellers (VARs) worldwide. Altium, via our sales and VAR network, uses the information you give us for the purposes of processing your orders, delivering the goods to you and providing you with any support and information you may require. Such information includes your name, address, date of purchase and financial details provided by you in connection with such purchase. Altium may also use your email address to send you emails about your order and with your consent, emails regarding news, special product and service offers.
 
 Altium may use the information you provide for internal reviews and analysis and may also use it to produce certain consolidated statistics about sales and use of our website, products and services. For example, this information may be used to encourage more engineers to use our products and services. However, we will not disclose your individual information to any third party except in so far as it is necessary to fulfil your order and will not sell, trade or rent that information for marketing purposes. If we need to disclose any information to conform to any laws or legal process we will do so in a manner so as to provide the maximum amount of protection legally possible for such information.
 
-### Consent
+### Consent and modification
 
-By giving your personal information when you open an account or at any other time, you are consenting to our use of this information in accordance with the principles outlined in this Privacy Policy. If at any time we change the Privacy Policy we will post those changes on the website so that you are kept fully informed.
+By giving your personal information when you open an account or at any other time, you are consenting to our use of this information in accordance with the principles outlined in this Privacy Policy. If at any time we change the Privacy Policy we will post those changes on the website so that you are kept fully informed. If at any time it is necessary for you to change the personal information that you have provided to Altium, you may do so by [contacting Altium](http://altium.com/en/contact).
 
 ### Cookies
 
