@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the schoolsearchhound.com privacy policy that was archived on 2012-12-30.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121230042942id_/http%3A//schoolsearchhound.com/privacy_terms_conditions.asp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the schoolsearchhound.com privacy policy that was archived on 2013-06-21.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130621173442id_/http%3A//schoolsearchhound.com/privacy_terms_conditions.asp) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
@@ -194,49 +194,76 @@ All Online Schools uses cookies (small files on your computer), to provide us wi
 
 </td>
     <td width="41" align="center" valign="top" class="midborder">&nbsp;</td>
-    <td align="left" valign="top"><script language="javascript">
+    <td align="left" valign="top">
+
+<script type="text/javascript" language="javascript">
 function validate3()
 {
-if(document.f1.degree_school.selectedIndex=='')
+if(document.f1.degree_school_2.selectedIndex=='')
 		{
-		alert("Please Select Degree.");
-		document.f1.degree_school.focus();
+		alert("Please Select Your Degree.");
+		document.f1.degree_school_2.focus();
 		return false;
 		}	
-if(document.f1.program.selectedIndex=='')
+if(document.f1.career_program_2.selectedIndex=='')
 		{
-		alert("Please Select Program.");
-		document.f1.program.focus();
+		alert("Please Select Your Program.");
+		document.f1.career_program_2.focus();
 		return false;
 		}
-		
-if(document.f1.zip.value=='enter zip code')
-		{
-		alert("Please Enter Your Zip Code");
-		document.f1.zip.value='';
-		document.f1.zip.focus();
-		return false;
-		}
-if(isNaN(document.f1.zip.value))
-		{
-		alert("Zip Code must be numeric.");
-		document.f1.zip.focus();
-		return false;
-		}
-if(document.f1.zip.value.length<5)
-		{
-		alert("Please Enter 5 digits Zip Code.");
-		document.f1.zip.focus();
-		return false;
-		}	
-
 		
 return true;
 }
 
-</script>
+</script> 
+
+  
+  
+
+<script type="text/javascript" language="javascript">
+function validate_zip2()
+{
+if(document.form_zip2.Zip_Code_2.value=='enter zip code')
+							{
+							alert("Please Enter Your Zip Code.");
+							document.form_zip2.Zip_Code_2.value='';
+							document.form_zip2.Zip_Code_2.focus();
+							return false;
+							}
+							
+							
+										
+		if(isNaN(document.form_zip2.Zip_Code_2.value))
+		{
+		alert("Zip Code must be numeric.");
+		document.form_zip2.Zip_Code_2.focus();
+		return false;
+		}
+if(document.form_zip2.Zip_Code_2.value.length<5)
+		{
+		alert("Please Enter 5 digits Zip Code.");
+		document.form_zip2.Zip_Code_2.focus();
+		return false;
+		}				
+						
+return true;
+}
+
+</script> 
+
+
+
+
+
+
 
 <table width="200" border="0" cellspacing="0" cellpadding="0">
+  
+
+  
+  
+  
+  
   <tbody><tr>
     <td align="left" valign="top"><table width="200" border="0" cellspacing="0" cellpadding="0">
   <tbody><tr>
@@ -315,6 +342,12 @@ Schools</h2></td>
   </tr>
 </tbody></table></td>
   </tr>
+  
+ 
+
+  
+  
+  
     <tr>
     <td align="left" valign="top" height="10"></td>
   </tr>
@@ -329,7 +362,7 @@ Schools</h2></td>
     <table width="178" border="0" align="center" cellpadding="0" cellspacing="0">
     <tbody><tr>
     <td align="left" valign="top">
-    <select name="degree_school" id="degree_school" class="select">
+    <select name="degree_school_2" id="degree_school_2" class="select">
 	<option selected="selected">Select a degree:</option>
       <option value="1">Associates Degree</option>
         <option value="2">Bachelors Degree</option>
@@ -344,7 +377,7 @@ Schools</h2></td>
   </tr>
   <tr>
     <td align="left" valign="top">
-    <select name="program" id="program" class="select">
+    <select name="career_program_2" id="career_program_2" class="select">
 	<option selected="selected">Select a program:</option>
       <option value="1">Art Design</option>
     <option value="2">Business</option>
@@ -364,11 +397,22 @@ Schools</h2></td>
   <tr>
     <td align="left" valign="top" height="4"></td>
   </tr>
-  <tr>
-    <td align="left" valign="top"><input name="zip" id="zip" type="text" class="select02" maxlength="5" value="enter zip code"></td>
+    <tr>
+    <td align="right" valign="top"><input type="image" name="Input2" src="images/banner_bottom.jpg" alt="Search" title="Search" style="margin:5px 0 5px 0;"></td>
+  </tr>
+  
+  </tbody></table>
+  </form>
+  
+
+  <form class="health" name="form_zip2" action="zip_search1.asp" method="post" onsubmit="return validate_zip2();">
+   <table width="178" border="0" align="center" cellpadding="0" cellspacing="0">
+  
+  <tbody><tr>
+    <td align="left" valign="top"><input name="Zip_Code_2" id="Zip_Code_2" type="text" class="select02" maxlength="5" value="enter zip code"></td>
   </tr>
   <tr>
-    <td align="left" valign="top"><input name="" type="image" src="images/get.jpg" style="margin:10px 0 8px 0;"></td>
+    <td align="right" valign="top"><input type="image" name="Input2" src="images/banner_bottom.jpg" alt="Search" title="Search" style="margin:5px 0 5px 0;"></td>
   </tr>
 </tbody></table>
 
