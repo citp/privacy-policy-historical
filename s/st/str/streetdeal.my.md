@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the streetdeal.my privacy policy that was archived on 2012-10-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121021043204id_/http%3A//www.streetdeal.my/home/info/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the streetdeal.my privacy policy that was archived on 2013-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130621110006id_/http%3A//www.streetdeal.my/home/info/privacy) for the most accurate reproduction.*
 
 # Deals, Discounts Malaysia | StreetDeal.my
 
@@ -100,4 +100,4 @@ Whether you're a new or loyal customer, restaurant owner, marketer, publisher, m
 
 Customer Service Inquiries | [info@StreetDeal.my](mailto:info@StreetDeal.my) | Phone: +603 6201 9699
 
-Level 8 Retail Office Block, Pavilion KL, 168 Jalan Bukit Bintang, 55100 Kuala Lumpur
+Suite B-13-D1, Plaza Mont Kiara, Jalan Kiara, 50480, Kuala Lumpur, Malaysia
