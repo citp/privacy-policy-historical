@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gordonramsay.com privacy policy that was archived on 2012-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121219164522id_/http%3A//www.gordonramsay.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gordonramsay.com privacy policy that was archived on 2013-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130621044440id_/http%3A//www.gordonramsay.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -73,5 +73,3 @@ We will not sell, distribute or lease your personal information to third parties
 Any personal information we request from you will be safeguarded under the Data Protection Act 1998.
 
 It's good to share, feed your friends...
-
-[](http://pinterest.com/pin/create/button/?url=http://www.gordonramsay.com/privacy-policy/&media=&description=Privacy%20Policy)
