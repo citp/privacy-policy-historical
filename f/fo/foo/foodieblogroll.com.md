@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the foodieblogroll.com privacy policy that was archived on 2012-09-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120920172753id_/http%3A//www.foodieblogroll.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the foodieblogroll.com privacy policy that was archived on 2013-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130621041817id_/http%3A//www.foodieblogroll.com/privacy) for the most accurate reproduction.*
 
 # Foodie Blogroll : Privacy Policy
 
-[Home](https://web.archive.org/web/20120920172753id_/http%3A//www.foodieblogroll.com/privacy?mode=home) > Privacy Policy 
+[Home](https://web.archive.org/web/20130621041817id_/http%3A//www.foodieblogroll.com/privacy?mode=home) > Privacy Policy 
 
 Your privacy on the Internet is very important to us. Because we gather certain types of information about our users, we feel you should fully understand our policy and the terms and conditions surrounding the collection and use of that information. This online Privacy Policy (the "Privacy Policy") tells you about the information Foodie Blogroll.com collects through its website (the "Site") and its Network and how we use that information. By using our services and accessing the Foodie Blogroll.com, you are consenting to the information collection and use practices described in the Privacy Policy, as modified from time to time by us. 
 
@@ -72,6 +72,15 @@ At some point, we may share Anonymous or Aggregated Information with certain bus
 **Third Party Services  
 **Foodie Blogroll.com reserves the right to offer third party services and products to you on the Site, such as contest sponsorships and via newsletters or special offers, based on the preferences that you identify during the registration process and based on your subsequent preferences. We may share Aggregated Information about our user base with other entities, such as advertisers. This information does not identify individual users, except where you have given us prior, specific permission to do so. We do not link Aggregated Information with Personal Information. We may share Personal Information with third-party vendors and partners only in those situations where you have given us prior, specific permission to do so. 
 
+**Notice Regarding Online behavioural Advertising**  
+We allow third party companies to serve ads and/or collect certain anonymous information when you visit our Web site. These companies may use non-personally identifiable information (e.g. click stream information, browser type, time and date, subject of advertisements clicked or scrolled over) during your visits to this and other Web sites in order to provide advertisements about goods and services likely to be of greater interest to you. These companies typically use a cookie or third party web beacon to collect this information. To learn more about this behavioural advertising practice visit the NAI at http://www.networkadvertising.org. To opt-out of this type of advertising, you can visit http://www.aboutads.info/choices. 
+
+**Advertising**  
+Ads appearing on our site may be delivered to Users by advertising partners, who may set cookies. These cookies allow the ad server to recognize your computer each time they send you an online advertisement to compile non personal identification information about you or others who use your computer. This information allows ad networks to, among other things, deliver targeted advertisements that they believe will be of most interest to you. This privacy policy does not cover the use of cookies by any advertisers. 
+
+**Google Adsense**  
+Some of the ads may be served by Google. Google's use of the DART cookie enables it to serve ads to Users based on their visit to our Site and other sites on the Internet. DART uses "non personally identifiable information" and does NOT track personal information about you, such as your name, email address, physical address, etc. You may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at <http://www.google.com/privacy_ads.html>
+
 **Third Party Contractors**  
 We may share your Personal Information with third party contractors or service providers to provide you with the services that we offer you though our Site; to conduct quality assurance testing; to facilitate creation of accounts; to provide technical support; or to provide specific services in accordance with your instructions. These third parties are required not to use your Personal Information other than to provide the services requested by Foodie Blogroll.com . You expressly consent to the sharing of your Personal Information with our contractors and third party service providers for facilitating our providing services to you.
 
@@ -105,26 +114,17 @@ By using this site, you consent to the collection and use of this information by
 **Privacy Policy Updates**  
 We reserve the right to change our Privacy Policy and our Terms of Use at any time. If we make changes to this Privacy Policy, we will indicate at the top of this page the date of the change.We encourage you to check the date of our Privacy Policy whenever you visit the Foodie Blogroll.com for any updates or changes. Any material changes to this Privacy Policy will be effective immediately. Changes to this Privacy Policy may affect our use or disclosure of Personal Information. Continued use of our services and access to the Foodie Blogroll.com, following changes to this Privacy Policy shall indicate your acknowledgement of such changes and agreement to be bound by the terms and conditions of such changes. Your use of Foodie Blogroll.com, and any disputes arising from it, is subject to this Privacy Policy as well as our Terms of Use and all of its dispute resolution provisions including arbitration, limitation on damages and choice of law. All changes will take effect as of the date of postin on the Site.
 
+**Contacting us**  
+If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please [contact us here.](http://www.foodieblogroll.com/contact)
+
+This document was last updated on September 26, 2012
+
 | 
 
-| Average Daily Visits: |   **2,121,065** (past 7 days)  
+| Average Daily Visits: |   **2,747,031** (past 7 days)  
 ---|---  
    
-This Month: |   **46,892,418**  
-This Year: |   **373,428,290**  
+This Month: |   **32,812,948**  
+This Year: |   **387,079,152**  
   
-## Total Blogs: [14680](http://www.foodieblogroll.com/blogs)
-
-[](http://www.foodieblogroll.com/contests/green-leafs-bananas-opportunity "Green Leaf's & Bananas Opportunity")  
-  
----  
-  
-### Green Leaf's & Bananas Opportunity  
-  
-[](http://www.foodieblogroll.com/contests/spread-the-word-to-win-a-25-gift-card-from-green-leaf-s-bananas "Spread the word to win a $25 gift card from Green Leaf's & Bananas")  
-  
-### Spread the word to win a $25 gift card from Green Leaf's & Bananas  
-  
-[](http://www.foodieblogroll.com/contests/spread-the-word-to-win-a-copy-of-the-healing-powers-of-coffee-book "Spread the word to win a copy of 'The Healing Powers of Coffee' Book")  
-  
-### Spread the word to win a copy of 'The Healing Powers of Coffee' Book
+## Total Blogs: [16044](http://www.foodieblogroll.com/blogs)
