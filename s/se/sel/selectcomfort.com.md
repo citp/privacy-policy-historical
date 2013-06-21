@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the selectcomfort.com privacy policy that was archived on 2012-10-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121028131651id_/http%3A//www.sleepnumber.com/eng/customerService/privacyPolicy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the selectcomfort.com privacy policy that was archived on 2013-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130621043745id_/http%3A//www.sleepnumber.com/eng/customerService/privacyPolicy.cfm) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -31,6 +31,8 @@ The following privacy policy will cover:
   * Privacy Policy Updates
 
 
+
+* * *
 
 **When is information collected?**  
 We receive and may store data when you are: [  
@@ -136,7 +138,7 @@ To opt-out or discontinue receiving marketing communications by mail, e-mail or 
   1. Follow the instructions on a marketing e-mail from us. All marketing e-mails from Select Comfort will tell you how to stop receiving them. 
   2. Call 1-888-580-9237 
   3. Send an e-mail to: unsubscribe@selectcomfort.com 
-  4. Send a request to:   
+  4. Send a request to:  
 Select Comfort Corporation  
 Attn: DM Sales Support  
 9800 59th Avenue North  
@@ -196,7 +198,7 @@ Our site does contain links to other sites. Select Comfort is not responsible fo
 **PRIVACY POLICY UPDATES**  
 Any changes to this privacy policy will be posted on the Select Comfort Web site. Your continued use of this site following changes to the privacy policy constitutes acceptance of those changes going forward. 
 
-Last Update:   
+Last Update:  
 June 15, 2006 - Updated policy to provide additional specificity regarding the use of information.
 
 January 29, 2006 - Updated in order to reflect consistency between U.S. and Canadian policies and practices.
