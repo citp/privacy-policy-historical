@@ -1,41 +1,146 @@
-<!--The following is the downloaded HTML source of the dailyfx.com privacy policy that was archived on 2012-10-14.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121014014616id_/http%3A//www.dailyfx.com/page/privacy_policy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the dailyfx.com privacy policy that was archived on 2013-06-21.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130621075348id_/http%3A//www.dailyfx.com/page/privacy_policy.html) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head>
-
-
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en" class=" js flexbox canvas canvastext webgl no-touch geolocation postmessage websqldatabase no-indexeddb hashchange history draganddrop websockets rgba hsla multiplebgs backgroundsize borderimage borderradius boxshadow textshadow opacity cssanimations csscolumns cssgradients cssreflections csstransforms csstransforms3d csstransitions fontface video audio localstorage sessionstorage webworkers applicationcache svg inlinesvg smil svgclippaths"><head><script src="http://realtimenews.dailyfx.com/news.json?count=6&amp;callback=jsonp1580508688998"></script><style type="text/css"></style>
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        
+        
+        
+        
+    
+
+    
+        
+     
 
 <meta http-equiv="Content-Type" content="text/html; UTF-8">
-<link rel="canonical" href="http://www.dailyfx.com/page/privacy_policy.html">
+
+    
+        <link rel="canonical" href="http://www.dailyfx.com/page/privacy_policy.html">
+    
+    
+
 <meta name="google-site-verification" content="gszuhSKABLkPJTkpy6ah6In_lzswnctRyXGxo0kf3z0">
+<meta name="google-site-verification" content="PlayGwWmu-2thm27Y3Y8Tz_s1-LN2T-VAXtap6efaSM">
 <meta name="verify-v1" content="D4fik0OoOWETwXCpe0BjtaNTWKXnPrbQ7jjLRGS2sXU=">
+<meta name="baidu-site-verification" content="bOlnsuI9AL">
 <meta name="y_key" content="26d675dd740d0386">
-<meta name="keywords" content="euro, eur, us dollar, usd, british pound, gbp, canadian dollar, cad, australian dollar, aud, japanese yen, chf, forex news, forex trading, forex, currency trading">
+
+    
+    
+        <meta name="keywords" content="euro, eur, us dollar, usd, british pound, gbp, canadian dollar, cad, australian dollar, aud, japanese yen, chf, forex news, forex trading, forex, currency trading">
+    
+
 <meta name="ROBOTS" content="INDEX, FOLLOW">
+<meta name="msvalidate.01" content="A84CE523D251D583BDC55D223EB3EA45">
 <meta name="msvalidate.01" content="1091D14BDACEFF3EE5B7D47456498921">
 
     
         
     
 
+<!--[if gte IE 9]>
+  <style type="text/css">
+    .gradient {
+       filter: none;
+    }
+  </style>
+<![endif]-->
+<!-- Facebook Activity Feed 
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/all.js#xfbml=1";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+-->
 <link rel="icon" type="image/vnd.microsoft.icon" href="/design/fxcm/img/common/favicon.ico">
-<link rel="stylesheet" type="text/css" href="/design/fxcm/css/dfx.css">
-<script src="http://static.fxcm.co.uk/script/fxcm_lib.js" type="text/javascript"></script>
-
-
-
-<script src="/design/fxcm/js/dfx.js" type="text/javascript"></script>
+<link rel="stylesheet" type="text/css" href="/design/fxcm/css/dfx.min.css">
+<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script src="//ajax.googleapis.com/ajax/libs/jquery/1.8.0/jquery.min.js"></script>
+<script src="//ajax.googleapis.com/ajax/libs/jqueryui/1.8.23/jquery-ui.min.js"></script>
+<!-- NEW TRADE HEADER SLIDE DOWN BEGIN -->
+<!--<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.3/jquery.min.js"></script>-->
 <script type="text/javascript">
-	$(document).ready(function(){
-        $(".MegaMenuLink").megamenu(".MegaMenuContent");
-        $(".MegaMenuLinkR").megamenuR(".MegaMenuContentR", {
-            justify: "right"
+    $(document).ready(function(){
+        $(".btn-slide").click(function(event){
+            event.preventDefault();
+            event.stopPropagation();
+
+            $("#slide-panel").slideToggle(700);
         });
-	});
+    });
 </script>
+<!-- NEW TRADE HEADER SLIDE DOWN END -->
+
+<!-- LANGUAGE SELECT DROPDOWN BEGIN -->
+<script type="text/javascript">
+    $(document).ready(function() {
+        $(".lang-select-bevel img.flag").addClass("flagvisibility");
+
+        $(".lang-select-bevel dt a").click(function(event){
+            event.preventDefault();
+            event.stopPropagation();
+            $(".lang-select-bevel dd ul").slideToggle(400);
+        });
+
+        $(".lang-select-bevel dd ul li a").click(function() {
+            var text = $(this).html();
+            $(".lang-select-bevel dt a span").html(text);
+            $(".lang-select-bevel dd ul").delay(0).hide();
+            $("#result").html("Selected value is: " + getSelectedValue("sample"));
+        });
+
+        function getSelectedValue(id) {
+            return $("#" + id).find("dt a span.value").html();
+        }
+
+        $(document).bind('click', function(e) {
+            var $clicked = $(e.target);
+            if (! $clicked.parents().hasClass("lang-select-bevel"))
+                $(".lang-select-bevel dd ul").delay(0).hide();
+        });
+
+
+        /*$("#flagSwitcher").click(function() {
+                $(".lang-select-bevel img.flag").delay(0).toggleClass("flagvisibility");
+            });*/
+    });
+</script>
+<!-- LANGUAGE SELECT DROPDOWN END -->
+<!-- STICKY SOCIAL-MEDIA SIDETAB BEGIN -->
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+
+<!-- STICKY SOCIAL-MEDIA SIDETAB END -->
+<script src="/design/js/dfx_lib.min.js" type="text/javascript"></script>
+
+
+
+    
+    <script type="text/javascript">
+        $(document).ready(function(){
+            $(".MegaMenuLink").megamenu(".MegaMenuContent");
+            $(".MegaMenuLinkR").megamenuR(".MegaMenuContentR", {
+                justify: "right"
+            });
+        });
+    </script>
 
 
 
@@ -65,7 +170,7 @@ if ((navigator.userAgent.indexOf('Mozilla/3') != -1) || (navigator.userAgent.ind
 	OAS_version = 10;
 if (OAS_version >= 11)
 	document.write('<SCR' + 'IPT LANGUAGE=JavaScript1.1 SRC="' + OAS_url + 'adstream_mjx.ads/' + OAS_sitepage + '/1' + OAS_rns + '@' + OAS_listpos + '?' + OAS_query + '"><\/SCRIPT>');
-</script><script language="JavaScript1.1" src="http://oasc17.247realmedia.com/RealMedia/ads/adstream_mjx.ads/DailyFX.com/page/privacy_policy.html/1830977557@x37,x38,x52,x53,x05,x30,x31,x32,x33,x34?"></script><script type="text/javascript">
+</script><script language="JavaScript1.1" src="http://oasc17.247realmedia.com/RealMedia/ads/adstream_mjx.ads/DailyFX.com/page/privacy_policy.html/1929098291@x37,x38,x52,x53,x05,x30,x31,x32,x33,x34?"></script><script type="text/javascript">
 document.write('');
 function OAS_AD(pos) {
 	//alert( pos );
@@ -77,220 +182,198 @@ function OAS_AD(pos) {
 </script>
 <!--  OAS SETUP end  --> 
 <script type="text/javascript">
-$(document).ready(function(){
-	// Table Alternate Rows
-	$("table.striped tbody tr:nth-child(odd)").addClass("odd");
-	$("table.striped tbody tr:nth-child(even)").addClass("even");
+    $(document).ready(function(){
+        // Table Alternate Rows
+        $("table.striped tbody tr:nth-child(odd)").addClass("odd");
+        $("table.striped tbody tr:nth-child(even)").addClass("even");
 
-	// Tabs
-	//When page loads...
-	$(".tab_content").hide(); //Hide all content
-	$("ul.tabs li:first").addClass("active").show(); //Activate first tab
-	$(".tab_content:first").show(); //Show first tab content
+        // Tabs
+        //When page loads...
+        $(".tab_content").hide(); //Hide all content
+        $("ul.tabs li:first").addClass("active").show(); //Activate first tab
+        $(".tab_content:first").show(); //Show first tab content
 
-	//On Click Event
-	$("ul.tabs li").click(function() {
-		$("ul.tabs li").removeClass("active"); //Remove any "active" class
-		$(this).addClass("active"); //Add "active" class to selected tab
-		$(".tab_content").hide(); //Hide all tab content
+        //On Click Event
+        $("ul.tabs li").click(function() {
+            $("ul.tabs li").removeClass("active"); //Remove any "active" class
+            $(this).addClass("active"); //Add "active" class to selected tab
+            $(".tab_content").hide(); //Hide all tab content
 
-		var activeTab = $(this).find("a").attr("id"); //Find the href attribute value to identify the active tab + content
-		if ($.browser.msie)
-		{$(activeTab).show();}
-		else
-		{$(activeTab).fadeIn();}
-		return false;
-	});
+            var activeTab = $(this).find("a").attr("id"); //Find the href attribute value to identify the active tab + content
+            if ($.browser.msie)
+            {$(activeTab).show();}
+            else
+            {$(activeTab).fadeIn();}
+            return false;
+        });
 
-	// Forex Stream
-	$.fn.extend({
-		linkUrl: function() {
-			var returning = [];
-			var regexp = /((ftp|http|https):\/\/(\w+:{0,1}\w*@)?(\S+)(:[0-9]+)?(\/|\/([\w#!:.?+=&%@!\-\/]))?)/gi;
-			this.each(function() {
-				returning.push(this.replace(regexp,'<a class=\"textlink\" target=\"_blank\" href=\"$1\">$1</a>'));
-			});
-			return $(returning);
-		},
-		linkUser: function() {
-			var returning = [];
-			var regexp = /^[\@]+([A-Za-z0-9-_]+)/gi;
-			this.each(function() {
-				returning.push(this.replace(regexp,'<a class=\"textlink" target=\"_blank\" href=\"http://twitter.com/$1\">@$1</a>'));
-			});
-			return $(returning);
-		}
-	});
+        // Forex Stream
+        $.fn.extend({
+            linkUrl: function() {
+                var returning = [];
+                var regexp = /((ftp|http|https):\/\/(\w+:{0,1}\w*@)?(\S+)(:[0-9]+)?(\/|\/([\w#!:.?+=&%@!\-\/]))?)/gi;
+                this.each(function() {
+                    returning.push(this.replace(regexp,'<a class=\"textlink\" target=\"_blank\" href=\"$1\">$1</a>'));
+                });
+                return $(returning);
+            },
+            linkUser: function() {
+                var returning = [];
+                var regexp = /^[\@]+([A-Za-z0-9-_]+)/gi;
+                this.each(function() {
+                    returning.push(this.replace(regexp,'<a class=\"textlink" target=\"_blank\" href=\"http://twitter.com/$1\">@$1</a>'));
+                });
+                return $(returning);
+            }
+        });
 
-	var url = 'http://realtimenews.dailyfx.com/news.json';
+        var url = 'http://realtimenews.dailyfx.com/news.json';
         var count = 6;
-	//var author = 'DailyFXTeam';
-	var options2 = {
-		newsList: "ul#news",
-		tickerRate: 20,
-		startDelay: 10,
-		loopDelay: 4999,
-		controls: false,
-		ownControls: false,
-		stopOnHover: true
-	}
+        //var author = 'DailyFXTeam';
+        var options2 = {
+            newsList: "ul#news",
+            tickerRate: 20,
+            startDelay: 10,
+            loopDelay: 4999,
+            controls: false,
+            ownControls: false,
+            stopOnHover: true
+        }
 
-	$.getJSON(url+'?count='+count+'&callback=?', function(data) {
-	    var newslist = '';
-		$.each(data, function(i,item) {
-			if(item.show == true && (item.user.screen_name == "DailyFXTeam" || item.user.screen_name == "DailyFXTeamRT"))
-			{
-			var text = $([item.text]).linkUrl().linkUser()[0];
-			//var  = $([item.text]).linkUrl().linkUser()[0];
+        $.getJSON(url+'?count='+count+'&callback=?', function(data) {
+            var newslist = '';
+            $.each(data, function(i,item) {
+                if(item.show == true && (item.user.screen_name == "DailyFXTeam" || item.user.screen_name == "DailyFXTeamRT"))
+                {
+                    var text = $([item.text]).linkUrl().linkUser()[0];
+                    //var  = $([item.text]).linkUrl().linkUser()[0];
 
-			$('<li style="height:30px; vertical-align:middle;">'+text+'</li>').prependTo('ul#news');
-			}
+                    $('<li style="height:30px; vertical-align:middle;">'+text+'</li>').prependTo('ul#news');
+                }
 
-		});
-		
-		$('#news').list_ticker({
-			speed:5000,
-			effect:'slide'
-		});
-		
-	});
-});
+            });
+    
+                $('#news').list_ticker({
+                    speed:5000,
+                    effect:'slide'
+                });
+    
+            });
+        });
 </script>
 <script type="text/javascript">
-function doClear(theText) {
-	if (theText.value == theText.defaultValue) {
-		theText.value = ""
-	}
-}
+    function doClear(theText) {
+        if (theText.value == theText.defaultValue) {
+            theText.value = ""
+        }
+    }
 </script>
-<!-- TEMPORARY HEADER TRADE/SOCIAL BUTTONS BEGIN -->
-<script language="JavaScript">
-function setVisibility(id, visibility) {
-document.getElementById(id).style.display = visibility;
-}
-</script>
-<!-- TEMPORARY HEADER TRADE/SOCIAL BUTTONS END -->
 
 <link rel="alternate" type="application/rss+xml" title="DailyFX Forex Market News" href="http://www.dailyfx.com/feeds/forex_market_news">
+<script type="text/javascript" src="http://realtimenews.dailyfx.com/js/twitterstream.js"></script>
 
 <meta name="description" content="DailyFX does not disclose your personal information to third parties, except as described in this Policy.">
 </head>
-<body>
+<body><div id="cboxOverlay" style="display: none;"></div><div id="colorbox" class="" style="padding-bottom: 0px; padding-right: 0px; display: none;"><div id="cboxWrapper"><div><div id="cboxTopLeft" style="float: left;"></div><div id="cboxTopCenter" style="float: left;"></div><div id="cboxTopRight" style="float: left;"></div></div><div style="clear: left;"><div id="cboxMiddleLeft" style="float: left;"></div><div id="cboxContent" style="float: left;"><div id="cboxLoadedContent" style="width: 0px; height: 0px; overflow: hidden; float: left;"></div><div id="cboxLoadingOverlay" style="float: left;"></div><div id="cboxLoadingGraphic" style="float: left;"></div><div id="cboxTitle" style="float: left;"></div><div id="cboxCurrent" style="float: left;"></div><div id="cboxNext" style="float: left;"></div><div id="cboxPrevious" style="float: left;"></div><div id="cboxSlideshow" style="float: left;"></div><div id="cboxClose" style="float: left;"></div></div><div id="cboxMiddleRight" style="float: left;"></div></div><div style="clear: left;"><div id="cboxBottomLeft" style="float: left;"></div><div id="cboxBottomCenter" style="float: left;"></div><div id="cboxBottomRight" style="float: left;"></div></div></div><div style="position: absolute; width: 9999px; visibility: hidden; display: none;"></div></div>
 
 
+<div id="slide-header-container">
+<div id="slide-panel" class="hover-effects" style="z-index:999;">
+  <div class="loginform">
+  <h2>Trade FOREX with FXCM</h2>
+  
+  <ul>
+  <li style="width:230px;"><div class="header-icon-trophy"></div>Award-Winning Platform</li>
+  <li><div class="header-icon-clock"></div>24/7 Customer Support</li>
+  <li style="width:230px;"><div class="header-icon-chart"></div>Trade Directly on Charts</li>
+  <li><div class="header-icon-coins"></div>Free $50K Practice Account</li>
+  </ul>
+  
+  <div class="greenbutton"><script type="text/javascript">
+        <!--
+        OAS_AD('x52');
+        //-->
+    </script></div>
+    <div class="bluebutton">
+  <script type="text/javascript">
+        <!--
+        OAS_AD('x53');
+        //-->
+    </script></div>
+  </div>
+</div>
+<div class="slide">
+<div class="trade-now-container">
+	<a href="#" class="btn-slide hover-effects">Free Resources</a>
+</div>
+</div>
+</div>
 
-
-
-
-
- 
 <div id="header" class="container_12" style="height:90px;">
+
 <div id="head-logo" class="grid_3 alpha">
-        <a href="/"><img src="/design/fxcm/img/common/dailyfx-logo.gif" height="80" width="235" alt="DailyFX - Forex Market News and Analysis"></a>
-    </div>
-    
-   <div id="head-search" class="grid_9 alpha omega">
-        <div class="lang-select" style="float: left; overflow:hidden;">
-            <a href="/" class="hplink" title="English">DailyFX Home</a>
-            | <a href="/francais" title="Français">Français</a>
-            | <a href="/deutsch" title="Deutsch">Deutsch</a>
-            | <a href="http://www.diariofx.com/" title="Español">Español</a>
-            | <a href="http://www.dailyfx.co.jp/" title="日本語">日本語</a>
-            | <a href="http://www.dailyfx.gr/" title="ελληνικά">ελληνικά</a>
-            | <a href="/arabic" title="العربية">العربية</a>
-            | <a href="http://www.dailyfx.com.hk/" title="中文">中文</a>
-            | <a href="http://www.dailyfx.dk/" title="Dansk">Dansk</a></div>
-<div class="utcdate" style="margin-bottom:20px;">&nbsp;
-            <!--<script language="JavaScript" type="text/javascript">
-                /*<![CDATA[*/
-                var d = new Date();
-                document.write(d.toUTCString())
-                /*]]>*/
-            </script>-->
-        </div>
-        
-  <div id="search-box">
-            <form id="cse-search-box" action="/search.html">
-                <input type="hidden" value="004608452564495521768:cwac5skzr8q" name="cx"><input type="hidden" value="FORID:10" name="cof"><input type="hidden" value="UTF-8" name="ie">
-                <input name="q" type="text" value="Search..." onfocus="doClear(this)"><input type="image" src="/design/fxcm/img/common/head-search-btn.gif" name="submit" height="29" width="71" alt="Search" style="vertical-align: middle; floar:right;">
-            </form>
-        </div>
-      </div>
-
-    <div class="clear"></div>
+        <a href="/"><img style="height:80px;" src="/design/fxcm/img/common/dailyfx-logo.gif" width="235" height="80" alt="DailyFX - Forex Trading News and Market Analysis"></a>
+</div>
+<div class="lang-search-container">
+<div class="search-bar-bevel">
+<form id="cse-search-box" action="/search.html">
+<input type="hidden" value="002002032397384471385:cwac5skzr8q" name="cx">
+<input type="hidden" value="FORID:10" name="cof"><input type="hidden" value="UTF-8" name="ie">
+<input name="q" type="text" value="Search" placeholder="Search" onfocus="doClear(this)">
+<input type="image" src="/design/fxcm/img/common/search-bar-icon.png" name="submit" height="15" width="13" alt="Search" style="vertical-align: middle; float:right; overflow:hidden; width:13px; height:15px;" autocomplete="off">
+</form>
+</div>
+<!--<div class="lang-select-bevel">-->
+<dl id="sample" class="lang-select-bevel">
+        <dt><a href="#"><span><img src="/design/fxcm/img/flags/16x16/flag-usa-en.png" width="16" height="16" alt="English Flag">English</span></a></dt>
+        <dd>
+            <ul>
+            <li><a href="/" class="hplink" title="English">
+            <img src="/design/fxcm/img/flags/16x16/flag-usa-en.png" width="16" height="16">
+            DailyFX Home</a></li>
+			<li><a href="/francais" title="Français">
+            <img src="/design/fxcm/img/flags/16x16/flag-fr.png" width="16" height="16">
+            Français</a></li>
+			<li><a href="/deutsch" title="Deutsch">
+            <img src="/design/fxcm/img/flags/16x16/flag-de.png" width="16" height="16">
+            Deutsch</a></li>
+			<li><a href="http://www.diariofx.com/" title="Español">
+            <img src="/design/fxcm/img/flags/16x16/flag-esp.png" width="16" height="16">
+            Español</a></li>
+			<li><a href="http://www.dailyfx.co.jp/" title="日本語">
+            <img src="/design/fxcm/img/flags/16x16/flag-jpy.png" width="16" height="16">
+            日本語</a></li>
+			<li><a href="http://www.dailyfx.gr/" title="ελληνικά">
+            <img src="/design/fxcm/img/flags/16x16/flag-gr.png" width="16" height="16">
+            ελληνικά</a></li>
+			<li><a href="/arabic" title="العربية">
+            <img src="/design/fxcm/img/flags/16x16/flag-aed.png" width="16" height="16">
+            العربية</a></li>
+			<li><a href="http://www.dailyfx.com.hk/" title="中文">
+            <img src="/design/fxcm/img/flags/16x16/flag-cny.png" width="16" height="16">
+            中文</a></li>
+			<li><a href="http://www.dailyfx.dk/" title="Dansk">
+            <img src="/design/fxcm/img/flags/16x16/flag-dkk.png" width="16" height="16">
+            Dansk</a></li>
+                <!--<li><a href="#">Brazil</a></li>
+                <li><a href="#">France</a></li>
+                <li><a href="#">Germany</a></li>
+                <li><a href="#">India</a></li>
+                <li><a href="#">Japan</a></li>
+                <li><a href="#">Serbia</a></li>
+                <li><a href="#">United Kingdom</a></li>
+                <li><a href="#">United States</a></li>-->
+            </ul>
+        </dd>
+</dl>
+<!--</div>-->
+</div>
 </div>
 
-<!-- HEADER ENTIRE TRADE BUTTON BEGIN -->
-<div class="head-share-box">
-<div class="head-share-trade">
-<!-- TRADE BUTTON 2 BEGIN -->
-<div id="trade-butt-drop2" style="display:none;">
- <div class="trade-button">Trade</div>
- <div class="clear"></div>
- <a title="Trade Forex" href="https://tsweb.fxcorporate.com/" target="_blank"><div class="launch-trade-l">Launch Trading</div><div class="launch-trade-r"></div></a>
-
- <div class="no-account">
- <div class="trade-x-close" onclick="setVisibility('trade-butt-drop2', 'none');"></div>
- <p style="padding:2px 0px 8px 0px;">Don’t have an FXCM Account?</p>
-<p><script type="text/javascript">
-        <!--
-        OAS_AD('x53');
-        //-->
-    </script></p>
-<p style="font-weight:normal; color:#999;">Or</p>
-<p><script type="text/javascript">
-        <!--
-        OAS_AD('x52');
-        //-->
-    </script></p>
-</div>
-<div class="trade-butt-drop-bot"></div>
-</div>
-<!-- TRADE BUTTON 2 END -->
-<!-- TRADE BUTTON BEGIN -->
-<div class="trade-butt-drop">
- <div class="trade-button" onclick="setVisibility('trade-butt-drop2', 'inline');">Trade</div>
- <div class="clear"></div>
- <a title="Trade Forex" href="https://tsweb.fxcorporate.com/" target="_blank"><div class="launch-trade-l">Launch Trading</div><div class="launch-trade-r"></div></a>
-
- <div class="no-account">
- <p style="padding:2px 0px 8px 0px;">Don’t have an FXCM Account?</p>
- <p><script type="text/javascript">
-        <!--
-        OAS_AD('x53');
-        //-->
-    </script></p>
-<p style="font-weight:normal; color:#999;">Or</p>
-<p><script type="text/javascript">
-        <!--
-        OAS_AD('x52');
-        //-->
-    </script></p>
-</div>
-<div class="trade-butt-drop-bot"></div>
-</div>
-<!-- TRADE BUTTON END -->
-
- <a href="http://www.facebook.com/DailyFXnews" target="_blank"><div class="facebook"></div></a>
- <a href="http://www.dailyfx.com/real_time_news/"><div class="twit"></div></a>
- <span>Follow Us</span>
- </div></div>
-<!-- HEADER ENTIRE TRADE BUTTON END -->
 
 
 
-
-
-    
-    
-    
-    
-        
-        
-    
-
-<!-- Nav Bar -->
-
+<!-- Nav Bar --> 
 <div id="navbar" class="container_12">
     <div class="MegaMenu">
         <!-- Forex Market News -->
@@ -301,31 +384,31 @@ document.getElementById(id).style.display = visibility;
                 <table style="width: 100%" border="0">
                     <tbody><tr>
                         <td valign="top"><div class="MegaMenuNavSide">
-                                <a href="/forex_market_news/" title="Forex Market News">Market News</a>
-                                <a href="/forex_market_news/daily_briefings/" title="Forex Market News: Daily Briefings">Daily Briefings</a>
-                                <a href="/forex_market_news/us-dollar-index/" title="Forex Market News: US Dollar Index">US Dollar Index</a>
-                                <a href="/forex_market_news/forecasts/" title="Forex Market News: Forecasts">Forecasts</a>
-                                <a href="/forex_market_news/videos/" title="Forex Market News: TV and Video">TV and Video</a>
-                                <a href="/forex_market_news/articles/" title="Forex Market News: Weekly Columns">Weekly Columns</a>
+                                <a href="/forex_market_news" title="Forex Market News">Market News</a>
+                                <a href="/forex_market_news/daily_briefings" title="Forex Market News: Daily Briefings">Daily Briefings</a>
+                                <a href="/forex_market_news/us-dollar-index" title="Forex Market News: US Dollar Index">US Dollar Index</a>
+                                <a href="/forex_market_news/forecasts" title="Forex Market News: Forecasts">Forecasts</a>
+                                <a href="/forex_market_news/videos" title="Forex Market News: TV and Video">TV and Video</a>
+                                <a href="/forex_market_news/articles" title="Forex Market News: Weekly Columns">Weekly Columns</a>
                                 <a href="/real_time_news" title="Forex Market News: Real Time News">Real Time News</a>
                             </div></td>
                         <td class="MegaMenuTeaserSide" valign="top"><div>
                                 <h3 style="float:left;" title="Market News Headlines">Market News Headlines</h3>
-                                <a href="/forex_market_news/" title="More FOREX Market News"><img src="/design/fxcm/img/nav/button-view-all.gif" style="float:right" alt="FOREX Market News"></a>
+                                <a href="/forex_market_news" title="More FOREX Market News"><img src="/design/fxcm/img/nav/button-view-all.gif" style="float:right" alt="FOREX Market News"></a>
 
                                 <div class="clear"></div>
                                 
-                                    <p><a href="/forex/fundamental/article/guest_commentary/2012/10/10/Guest_Commentary_Carry_Trade_Will_Not_Carry_You_Away.html" title="FOREX News: Guest Commentary: Carry Trade Will Not Carry You Away">Guest Commentary: Carry Trade Will Not Carry You Away</a></p>
+                                    <p><a href="/forex/fundamental/daily_briefing/session_briefing/euro_open/2013/06/21/Forex_Yen_to_Rise_if_Post-Fed_Unwinding_Becomes_Full-On_Risk_Aversion.html" title="FOREX News: Yen to Rise if Post-Fed Unwinding Becomes Full-On Risk Aversion">Yen to Rise if Post-Fed Unwinding Becomes Full-On Risk Aversion</a></p>
                                 
-                                    <p><a href="/forex/fundamental/daily_briefing/session_briefing/daily_fundamentals/2012/10/13/dailyfundamentals_10152012.html" title="FOREX News: Dollar Advances on Week, Either Rally Ahead or EURUSD Above 1.3000 ">Dollar Advances on Week, Either Rally Ahead or EURUSD Above 1.3000 </a></p>
+                                    <p><a href="/forex/fundamental/daily_briefing/session_briefing/daily_fundamentals/2013/06/21/Dollar_Extends_Rally_as_SP_500_Breaks_Critical_1600_Support.html" title="FOREX News: Dollar Extends Rally as S&amp;P 500 Breaks Critical 1,600 Support">Dollar Extends Rally as S&amp;P 500 Breaks Critical 1,600 Support</a></p>
                                 
-                                    <p><a href="/forex/fundamental/forecast/weekly/usd/2012/10/13/US_Dollar_in_its_Longest_Rally_Since_June_Moment_of_Truth_this_Week.html" title="FOREX News: US Dollar in its Longest Rally Since June, Moment of Truth this Week">US Dollar in its Longest Rally Since June, Moment of Truth this Week</a></p>
+                                    <p><a href="/forex/fundamental/article/special_report/2013/06/20/Gold_Suffers_its_Fifth_Largst_Drop_on_Record_as_USD_Soars_Post_Fed.html" title="FOREX News: Gold Suffers its Fifth Largest Drop on Record as USD Soars Post Fed!">Gold Suffers its Fifth Largest Drop on Record as USD Soars Post Fed!</a></p>
                                 
                             </div></td>
                     </tr>
                 </tbody></table>
             </div>
-        </div>
+        </div>  <div id="MegaMenuContentShadow" style="display: none;"></div><div id="MegaMenuContent" style="display: none;"></div>
         <!-- // Forex Market News -->
         <!-- Technical Analysis -->
         <a class="MegaMenuLink" href="/technical_analysis" title="Technical Analysis">Technical Analysis</a>
@@ -336,30 +419,30 @@ document.getElementById(id).style.display = visibility;
                     <tbody><tr>
                         <td valign="top"><div class="MegaMenuNavSide">
                                 <a href="/technical_analysis">Technical Analysis</a>
-                                <a href="/technical_analysis/forex_trading_strategies/">Trading Strategies</a>
-                                <a href="/technical_analysis/articles/">Articles</a>
-                                <a href="/technical_analysis/candlesticks/">Candlesticks</a>
-                                <a href="/technical_analysis/elliott_wave/">Daily Technicals</a>
-                                <a href="/technical_analysis/sentiment/">Sentiment</a>
-                                <a href="/technical_analysis/pivot_points/">Pivot Points</a>
+                                <a href="/technical_analysis/forex_trading_strategies">Trading Strategies</a>
+                                <a href="/technical_analysis/articles">Articles</a>
+                                <a href="/technical_analysis/candlesticks">Candlesticks</a>
+                                <a href="/technical_analysis/elliott_wave">Daily Technicals</a>
+                                <a href="/technical_analysis/sentiment">Sentiment</a>
+                                <a href="/technical_analysis/pivot_points">Pivot Points</a>
                             </div></td>
                         <td class="MegaMenuTeaserSide" valign="top"><div>
                                 <h3 style="float:left;">Technical Analysis</h3>
-                                <a href="/technical_analysis/"><img src="/design/fxcm/img/nav/button-view-all.gif" style="float:right"></a>
+                                <a href="/technical_analysis"><img src="/design/fxcm/img/nav/button-view-all.gif" style="float:right"></a>
 
                                 <div class="clear"></div>
                                 
-                                    <p><a href="/forex/technical/article/fx_technical_weekly/2012/10/12/Technical_Setups_Suggest_Stronger_Stock_Market_and_Weaker_US_Dollar.html" title="Technical Analysis: Technical Setups Suggest Stronger Stock Market and Weaker US Dollar">Technical Setups Suggest Stronger Stock Market and Weaker US Dollar</a></p>
+                                    <p><a href="/forex/technical/article/cross-market_technical_update/2013/06/21/Forex_US_Dollar_Extends_Gains_as_SP_500_Breaks_7-Month_Trend.html" title="Technical Analysis: US Dollar Extends Gains as S&amp;P 500 Breaks 7-Month Trend">US Dollar Extends Gains as S&amp;P 500 Breaks 7-Month Trend</a></p>
                                 
-                                    <p><a href="/forex/technical/article/forex_strategy_corner/2012/10/12/EURUSD_Encounters_Resistance_-_Support_Starts_at_12920.html" title="Technical Analysis: EURUSD Encounters Resistance - Support Starts at 12920">EURUSD Encounters Resistance - Support Starts at 12920</a></p>
+                                    <p><a href="/forex/technical/elliott_wave/gbp-usd/2013/06/20/eliottWaves_gbp-usd.html" title="Technical Analysis: GBP/USD Retraces Part of FOMC Drop; Short Opportunity">GBP/USD Retraces Part of FOMC Drop; Short Opportunity</a></p>
                                 
-                                    <p><a href="/forex/technical/candlesticks/title/2012/10/12/US_Dollar_Struggles_to_Find_Direction_Against_Major_Currencies.html" title="Technical Analysis: US Dollar Struggles to Find Direction Against Major Currencies">US Dollar Struggles to Find Direction Against Major Currencies</a></p>
+                                    <p><a href="/forex/technical/elliott_wave/eur-usd/2013/06/20/eliottWaves_eur-usd.html" title="Technical Analysis: EUR/USD">EUR/USD</a></p>
                                 
                             </div></td>
                     </tr>
                 </tbody></table>
             </div>
-        </div>
+        </div>  <div id="MegaMenuContentShadow" style="display: none;"></div><div id="MegaMenuContent" style="display: none;"></div>
         <!-- // Technical Analysis -->
 
         <!-- Analyst Picks -->
@@ -371,8 +454,8 @@ document.getElementById(id).style.display = visibility;
                     <tbody><tr>
                         <td valign="top">
                             <div class="MegaMenuNavSide">
-                                <a href="/analyst_picks/">Analyst Picks</a>
-                                <a href="/authors/">DailyFX Team</a>
+                                <a href="/analyst_picks">Analyst Picks</a>
+                                <a href="/authors">DailyFX Team</a>
                             </div>
                         </td>
                         <td class="MegaMenuTeaserSide">
@@ -381,18 +464,11 @@ document.getElementById(id).style.display = visibility;
                                 <a href="/analyst_picks"><img src="/design/fxcm/img/nav/button-view-all.gif" style="float:right"></a>
 
                                 <div class="clear"></div>
-
                                 <table style="width: 100%" class="navPicksWidget">
-
                                     
                                         <tbody><tr>
                                             <td width="30%"><strong>Jamie </strong></td>
-                                            <td>exited EURUSD longs, looking to short EURAUD at 12700/21</td>
-                                        </tr>
-                                    
-                                        <tr>
-                                            <td width="30%"><strong>David R. </strong></td>
-                                            <td>Taking profit on EURUSD long, Looking for AUDUSD short</td>
+                                            <td>long USDCHF, pending short EURUSD, GBPUSD, long USDJPY</td>
                                         </tr>
                                     
                                 </tbody></table>
@@ -400,43 +476,42 @@ document.getElementById(id).style.display = visibility;
                         </td>
                     </tr>
                 </tbody></table>
-
             </div>
-        </div>
+        </div>  <div id="MegaMenuContentShadow" style="display: none;"></div><div id="MegaMenuContent" style="display: none;"></div>
         <!-- // Analyst Picks -->
 
         <!-- DailyFX For Beginners -->
-        <a class="MegaMenuLink" href="/how_to_trade_forex/learn_forex/">DailyFX For Beginners</a>
+        <a class="MegaMenuLink" href="/how_to_trade_forex/learn_forex">DailyFX For Beginners</a>
         <div class="MegaMenuContent">
             <div id="navEdu">
                 <table style="width: 100%">
                     <tbody><tr>
                         <td valign="top">
                             <div class="MegaMenuNavSide">
-                                <a href="/how_to_trade_forex/forex_trading_courses/" title="Forex Trading Courses">Trading Courses</a>
-                                <a href="/how_to_trade_forex/learn_forex/" title="Learn Forex">Learn Forex</a>
-                                <a href="/how_to_trade_forex/course_trading_tips/" title="Course Forex Trading Tips">Course Trading Tips</a>
-                                <a href="/survey/" title="Forex Trader Survey">Trader Survey</a>
+                                <a href="/how_to_trade_forex/forex_trading_courses" title="Forex Trading Courses">Trading Courses</a>
+                                <a href="/how_to_trade_forex/learn_forex" title="Learn Forex">Learn Forex</a>
+                                <a href="/how_to_trade_forex/course_trading_tips" title="Course Forex Trading Tips">Course Trading Tips</a>
+                                <a href="/survey" title="Forex Trader Survey">Trader Survey</a>
                                 <a href="/page/free_guide-tg.html" title="Forex Trading Guides">Trading Guides</a>
+                                <a href="/forex-educators">Forex Educators</a>
                             </div></td>
                         <td class="MegaMenuTeaserSide" valign="top"><div>
                                 <h3 style="float:left">New Trading Tips</h3>
                                 <a href="/how_to_trade_forex"><img src="/design/fxcm/img/nav/button-view-all.gif" style="float:right"></a>
 
                                 <div class="clear"></div>
-
                                 
-                                    <p><a href="/forex/education/trading_tips/daily_trading_lesson/2012/10/12/Take_Your_Forex_Trading_For_a_Walk_on_the_Exotic_Side.html">Take Your Forex Trading For a Walk on the Exotic Side</a></p>
+                                    <p><a href="/forex/education/trading_tips/trend_of_the_day/2013/06/21/Trading_a_Weak_Australian_Dollar.html">Trading a Weak Australian Dollar</a></p>
                                 
-                                    <p><a href="/forex/education/trading_tips/post_of_the_day/2012/10/12/Finding_the_Right_Trade_Size_for_You_.html">Finding the Right Trade Size for You </a></p>
+                                    <p><a href="/forex/education/trading_tips/chart_of_the_day/2013/06/20/Find_Profit_Targets_for_Gold.html">Find Profit Targets for Gold</a></p>
                                 
-                                    <p><a href="/forex/education/trading_tips/daily_trading_lesson/2012/10/11/How_to_Trade_The_Bullish_Engulfing_Pattern.html">How to Trade The Bullish Engulfing Pattern</a></p>
+                                    <p><a href="/forex/education/trading_tips/daily_trading_lesson/2013/06/20/system_trading_102.html">SystemTrading102</a></p>
                                 
                             </div></td>
                     </tr>
                 </tbody></table>
             </div>
-        </div>
+        </div>  <div id="MegaMenuContentShadow" style="display: none;"></div><div id="MegaMenuContent" style="display: none;"></div>
         <!-- // DailyFX For Beginners -->
 
         <!-- Economic Calendar -->
@@ -449,18 +524,12 @@ document.getElementById(id).style.display = visibility;
                             
 
 
-
-
-
-
 <div id="navCalWidgetWrap">
-    <h3 class="widget-h3">Economic Calendar</h3>
-
+    <h3 class="widget-h3">Forex Economic Calendar</h3>
     <table class="navCalWidget striped" style="width: 100%; margin:10px 0 5px 0;" border="0">
         <thead>
             <tr>
                 <th class="navCalTime">Time</th>
-
                 <th></th>
                 <th>Event</th>
                 <th>Actual</th>
@@ -471,61 +540,61 @@ document.getElementById(id).style.display = visibility;
             
                 
                     
-                        <tr>
+                        <tr class="odd">
                             <td class="navCalTime" nowrap="nowrap">
                                 <span class="orange">
                                     
                                         
-                                        Oct 14
+                                        Jun 21
                                     
                                 </span><br>
-                                <span>00:00</span>
+                                <span>06:35</span>
                             </td>
                             <td class="navCalFlag">
-                                <img src="/design/fxcm/img/flags/16x16/flag-cny.png" width="16" height="16" alt="cny">
+                                <img src="/design/fxcm/img/flags/16x16/flag-jpy.png" width="16" height="16" alt="jpy">
                             </td>
-                            <td>CNY Foreign Exchange Reserves (SEP)</td>
+                            <td>JPY BOJ Governor Kuroda Speaks at NASB </td>
                             
                             <td align="right"><span style="color:"></span></td>
-                            <td align="right">$3228.0B</td>
+                            <td align="right"></td>
                         </tr>
                     
-                        <tr>
+                        <tr class="even">
                             <td class="navCalTime" nowrap="nowrap">
                                 <span class="orange">
                                     
                                         
-                                        Oct 14
+                                        Jun 21
                                     
                                 </span><br>
-                                <span>23:01</span>
+                                <span>08:00</span>
+                            </td>
+                            <td class="navCalFlag">
+                                <img src="/design/fxcm/img/flags/16x16/flag-chf.png" width="16" height="16" alt="chf">
+                            </td>
+                            <td>CHF KOF Institute June Economic Forecast </td>
+                            
+                            <td align="right"><span style="color:"></span></td>
+                            <td align="right"></td>
+                        </tr>
+                    
+                        <tr class="odd">
+                            <td class="navCalTime" nowrap="nowrap">
+                                <span class="orange">
+                                    
+                                        
+                                        Jun 21
+                                    
+                                </span><br>
+                                <span>08:30</span>
                             </td>
                             <td class="navCalFlag">
                                 <img src="/design/fxcm/img/flags/16x16/flag-gbp.png" width="16" height="16" alt="gbp">
                             </td>
-                            <td>GBP Rightmove House Prices (YoY) (OCT)</td>
+                            <td>GBP Public Finances (PSNCR) (Pounds) (MAY)</td>
                             
                             <td align="right"><span style="color:"></span></td>
-                            <td align="right"></td>
-                        </tr>
-                    
-                        <tr>
-                            <td class="navCalTime" nowrap="nowrap">
-                                <span class="orange">
-                                    
-                                        
-                                        Oct 15
-                                    
-                                </span><br>
-                                <span>00:30</span>
-                            </td>
-                            <td class="navCalFlag">
-                                <img src="/design/fxcm/img/flags/16x16/flag-aud.png" width="16" height="16" alt="aud">
-                            </td>
-                            <td>AUD New Motor Vehicle Sales (YoY) (SEP)</td>
-                            
-                            <td align="right"><span style="color:"></span></td>
-                            <td align="right"></td>
+                            <td align="right">-2.5B</td>
                         </tr>
                     
                 
@@ -534,18 +603,17 @@ document.getElementById(id).style.display = visibility;
         </tbody>
     </table>
 </div>
-
                         </td>
                         <td valign="top"><div class="MegaMenuNavSide" style="float:right;">
-                                <a href="/calendar/">Economic Calendar</a>
-                                <a href="/calendar/rollover_calendar/">Rollover Calendar</a>
-                                <a href="/live_forex_trading_room/">Live Trading Room</a>
-                                <a href="/calendar/mobile_trading/">Mobile Trading</a>
+                                <a href="/calendar">Economic Calendar</a>
+                                <a href="/calendar/rollover_calendar">Rollover Calendar</a>
+                                <a href="/live_forex_trading_room">Live Trading Room</a>
+                                <a href="/calendar/mobile_trading">Mobile Trading</a>
                             </div></td>
                     </tr>
                 </tbody></table>
             </div>
-        </div>
+        </div>  <div id="MegaMenuContentShadowR" style="display: none;"></div><div id="MegaMenuContentR" style="display: none;"></div>
         <!-- // Economic Calendar -->
 
         <!-- Charts -->
@@ -556,7 +624,6 @@ document.getElementById(id).style.display = visibility;
                     <tbody><tr>
                         <td class="MegaMenuTeaserSide"><div style="float:right;">
                                 <h3>Live Charts</h3>
-
                                 <table style="width: 100%" cellspacing="0">
                                     <tbody><tr>
                                         <td style="width:60px;">
@@ -578,16 +645,16 @@ document.getElementById(id).style.display = visibility;
                                 </tbody></table>
                             </div></td>
                         <td valign="top"><div class="MegaMenuNavSide">
-                                <a href="/charts/">Free Forex Charts</a>
-                                <a href="/charts/chart-premium/">Premium Forex Charts</a>
+                                <a href="/charts">Free Forex Charts</a>
+                                <a href="/charts/chart-premium">Premium Forex Charts</a>
                                 <a href="/currency-converter">Currency Converter</a>
                                 <a href="/forex_rates">Rates</a>
-                                <a href="/charts/mobile_price_alerts/">Mobile Price Alerts</a>
+                                <a href="/charts/mobile_price_alerts">Mobile Price Alerts</a>
                             </div></td>
                     </tr>
                 </tbody></table>
             </div>
-        </div>
+        </div>  <div id="MegaMenuContentShadowR" style="display: none;"></div><div id="MegaMenuContentR" style="display: none;"></div>
         <!-- // Charts -->
 
         <!-- Forex Trading Signals -->
@@ -598,11 +665,11 @@ document.getElementById(id).style.display = visibility;
                     <tbody><tr>
                         <td class="MegaMenuTeaserSide"><div>
                                 
-                                    <p><a href="https://plus.dailyfx.com/fxcmideas/intraday-story.do?storyName=/dailyfxplus/intraday-ssi/2012/10/12/SSI_2012-10-12_23521.html&amp;ib=dailyfx">SSI: Traders Remain Long AUDUSD as it Bucks Trend</a></p>
+                                    <p><a href="https://plus.dailyfx.com/fxcmideas/intraday-story.do?storyName=/dailyfxplus/intraday-ssi/2013/06/20/ssi_retail_correct_on_usdjpy_but_for_how_long.html&amp;ib=dailyfx">SSI: Retail Correct on USD/JPY Strength, but For How Long?</a></p>
                                 
-                                    <p><a href="https://plus.dailyfx.com/fxcmideas/intraday-story.do?storyName=/dailyfxplus/intraday-ssi/2012/10/12/SSI_EURUSD_Rallies_to_Persist_as_Retail_Traders_Fade_Bounce.html&amp;ib=dailyfx">SSI: EURUSD Rallies to Persist as Retail Traders Fade Bounce</a></p>
+                                    <p><a href="https://plus.dailyfx.com/fxcmideas/intraday-story.do?storyName=/dailyfxplus/intraday-ssi/2013/06/20/SSI_2013-06-20_2362346y.html&amp;ib=dailyfx">SSI: Massive Shift in Crowd Sentiment Leaves us Bullish USD</a></p>
                                 
-                                    <p><a href="https://plus.dailyfx.com/fxcmideas/intraday-story.do?storyName=/dailyfxplus/intraday-ssi/2012/10/11/SSI_2012-10-11_5646516351.html&amp;ib=dailyfx">SSI: Little Reason to Stray from EURUSD Contrarian Bullish Bias</a></p>
+                                    <p><a href="https://plus.dailyfx.com/fxcmideas/intraday-story.do?storyName=/dailyfxplus/intraday-ssi/2013/06/19/SSI_Retail_Positioning_Suggests_USD_Weakness_Post-FOMC.html&amp;ib=dailyfx">SSI: Retail Positioning Suggests USD Weakness Post-FOMC</a></p>
                                 
 
                             </div></td>
@@ -617,19 +684,18 @@ document.getElementById(id).style.display = visibility;
                     </tr>
                 </tbody></table>
             </div>
-        </div>
-
+        </div>  <div id="MegaMenuContentShadowR" style="display: none;"></div><div id="MegaMenuContentR" style="display: none;"></div>
         <!-- // Forex Trading Signals -->
 
         <!-- Forum -->
-        <a class="MegaMenuLinkR" href="http://forexforums.dailyfx.com/">Forum</a>
+        <a class="MegaMenuLinkR" href="http://forexforums.dailyfx.com/forum/">Forum</a>
         <div class="MegaMenuContentR">
             <div id="navForum">
                 <table style="width: 100%">
                     <tbody><tr>
                         <td class="MegaMenuTeaserSide"><div style="float:left;">
                                 <h3 style="float:left">Latest Forum Posts</h3>
-                                <a href="http://forexforums.dailyfx.com/" title="Forex Forums"><img src="/design/fxcm/img/nav/button-view-all.gif" style="float:right"></a>
+                                <a href="http://forexforums.dailyfx.com/forum/" title="Forex Forums"><img src="/design/fxcm/img/nav/button-view-all.gif" style="float:right"></a>
 
                                 <div class="clear"></div>
                                 <table style="width: 100%" class="navForumWidget">
@@ -668,8 +734,8 @@ document.getElementById(id).style.display = visibility;
     
                                         <tbody><tr>
                                             <td class="no_border_top">
-                                                <a href="http://forexforums.dailyfx.com/showthread.php?t=513426&amp;p=1378466">Discuss EUR/USD - H2 2012</a><br>
-                                                Yesterday at 23:57
+                                                <a href="http://forexforums.dailyfx.com/showthread.php?t=13856&amp;p=1653444">GBP and JPY Pairs H1 2013</a><br>
+                                                Today at 07:52
                                             </td>
                                         </tr>
                                     
@@ -678,8 +744,8 @@ document.getElementById(id).style.display = visibility;
     
                                         <tr>
                                             <td class="no_border_top">
-                                                <a href="http://forexforums.dailyfx.com/showthread.php?t=513426&amp;p=1378462">Discuss EUR/USD - H2 2012</a><br>
-                                                Yesterday at 23:33
+                                                <a href="http://forexforums.dailyfx.com/showthread.php?t=13856&amp;p=1653435">GBP and JPY Pairs H1 2013</a><br>
+                                                Today at 07:46
                                             </td>
                                         </tr>
                                     
@@ -688,8 +754,8 @@ document.getElementById(id).style.display = visibility;
     
                                         <tr>
                                             <td class="no_border_top">
-                                                <a href="http://forexforums.dailyfx.com/showthread.php?t=489556&amp;p=1378460">The Purely Technical EUR/USD ...</a><br>
-                                                Yesterday at 23:04
+                                                <a href="http://forexforums.dailyfx.com/showthread.php?t=603466&amp;p=1653413">EURUSD H1 2013</a><br>
+                                                Today at 07:31
                                             </td>
                                         </tr>
                                     
@@ -698,8 +764,8 @@ document.getElementById(id).style.display = visibility;
     
                                         <tr>
                                             <td class="no_border_top">
-                                                <a href="http://forexforums.dailyfx.com/showthread.php?t=513426&amp;p=1378414">Discuss EUR/USD - H2 2012</a><br>
-                                                Yesterday at 18:15
+                                                <a href="http://forexforums.dailyfx.com/showthread.php?t=603466&amp;p=1653410">EURUSD H1 2013</a><br>
+                                                Today at 07:29
                                             </td>
                                         </tr>
                                     
@@ -708,20 +774,30 @@ document.getElementById(id).style.display = visibility;
                                 </tbody></table>
                             </div></td>
                         <td valign="top"><div class="MegaMenuNavSide">
-                                <a href="http://forexforums.dailyfx.com/forum.php" title="Forex Forums">Forex Forums</a>
-                                <a href="http://forexforums.dailyfx.com/blogs/" title="Forex Blogs">Forex Blogs</a>
+                                <a href="http://forexforums.dailyfx.com/forum/" title="Forum">Forum</a>
+                                <!-- <a href="http://forexforums.dailyfx.com/blogs/" title="Forex Blogs">Forex Blogs</a> -->
                                 <a href="http://forexforums.dailyfx.com/forex-education/" title="Forex Blogs">Education Forums</a>
                                 <a href="http://forexforums.dailyfx.com/?p=api-support" title="FX Programmers">FX Programmers</a>
                                 <a href="http://forexforums.dailyfx.com/fxcm-micro/" title="FXCM Micro">FXCM Micro</a>
                             </div></td>
 
                     </tr>
-                </tbody></table>
+                </tbody></table> 
             </div>
-        </div>
+        </div>  <div id="MegaMenuContentShadowR" style="display: none;"></div><div id="MegaMenuContentR" style="display: none;"></div>
         <!-- // Forum -->
     </div>
 </div>
+<!-- sticky social media side begin -->
+<div class="stickyside-container">
+    <ul class="stickyside-ul">
+        <li><a id="twitter-sticky" href="http://www.dailyfx.com/real_time_news"></a></li>
+        <li><a id="facebook-sticky" href="http://www.facebook.com/DailyFX" target="_blank"></a></li>
+        <li><a id="google-sticky" href="https://plus.google.com/105837772244990672000/posts?rel=author" target="_blank"></a></li>
+        <li><a id="youtube-sticky" href="http://www.youtube.com/user/DailyFXNews" target="_blank"></a></li>
+    </ul>
+</div>
+<!-- sticky social media side end -->
 
 
 
@@ -734,7 +810,7 @@ document.getElementById(id).style.display = visibility;
 
 
             </ul>
-            <div style="float:right; margin-top: -15px;"><a href="/real_time_news/">More real-time news</a></div>
+            <div style="float:right; margin-top: -15px;"><a href="/real_time_news">More real-time news</a></div>
 
         </div>
     </div>
@@ -766,31 +842,32 @@ document.getElementById(id).style.display = visibility;
 			<h1>Privacy Policy</h1>
 			<div id="article-body">
 				<h2>Security and Disclaimer</h2>
-				<h3>High Risk Investment</h3>
-				<p>DailyFX respects each individual's right to privacy. We value our relationship with you, and we take pride in maintaining loyalty and respect with each individual user by providing you with security. The provisions of this notice apply to former users as well as our current users.</p>
-				<h3>Personal Information</h3>
-				<p>When you apply for or maintain a registration with DailyFX, we collect personal information about you for business purposes, processing your requests, informing you about products and services that may be of interest to you, and providing customer service. Such information may include information you provide when registering such as name, email, address, date of birth, etc.</p>
-				<h3>About Cookies</h3>
-				<p>Cookies are small files containing information that a Web site uses to track its visitors. DailyFX may set and access DailyFX cookies on your computer, enabling us to learn which advertisements and promotions bring users to our Web site. DailyFX may use cookies in connection with DailyFX's products and services to track your activities on our Web sites. Such information that we collect and share would be anonymous and not personally identifiable.</p>
-				<h3>Security Technology</h3>
-				<p>DailyFX uses Secure Socket Layer (SSL) encryption technology in order to protect certain information that you submit. This type of technology protects you from having your information intercepted by anyone other than DailyFX while it is being transmitted to us. We work hard to ensure that our Web sites are secure and that they meet industry standards. We also use other safeguards such as firewalls, authentication systems (e.g., passwords and personal identification numbers), and access control mechanisms to control unauthorized access to systems and data.</p>
-				<h3>Sharing Information With Our Affiliates</h3>
-				<p>We may share personal information described above with our affiliates for business purposes, such as, but not limited to, servicing customer accounts and informing customers about new products and services, and as permitted by applicable law. Our affiliates may include companies controlled or owned by us as well as companies that have an ownership interest in our company. The information we share with affiliates may include any of the information described above. Our affiliates maintain the privacy of your information to the same extent DailyFX does in accordance with this Policy.</p>
-				<h3>Sharing Information with Third Parties</h3>
-				<p>DailyFX does not disclose your personal information to third parties, except as described in this Policy. Third party disclosures may include sharing such information with non-affiliated companies that perform support services for your account or facilitate your transactions with DailyFX, including those that provide professional, legal, or accounting advice to DailyFX. Non-affiliated companies that assist DailyFX in providing services to you are required to maintain the confidentiality of such information to the extent they receive it and to use your personal information only in the course of providing such services and only for the purposes that DailyFX dictates.</p>
-				<p>We may also disclose your personal information to third parties to fulfill your instructions or pursuant to your expressed consent.</p>
-				<p>We want you to know that DailyFX will not sell your personal information.</p>
-				<h3>Regulatory Disclosure</h3>
-				<p>Under limited circumstances, DailyFX may disclose your personal information to third parties as permitted by, or to comply with, applicable laws and regulations. For example, we may disclose personal information to cooperate with regulatory authorities and law enforcement agencies to comply with subpoenas or other official requests, and as necessary to protect our rights or property. Except as described in this privacy policy, we will not use your personal information for any other purpose, unless we describe how such information will be used at the time you disclose it to us or we obtain your permission.</p>
-				<h3>Opt Out</h3>
-				<p>You are not required to supply any of the personal information that we may request; however, failure to do so may result in our being unable to provide services to you. While we make every effort to ensure that all information we hold about you is accurate, complete, and up to date, you can help us considerably in this regard by promptly notifying us if there are any changes to your personal information.</p>
-				<p>If you do not wish to have your personal information disclosed to our affiliates or other third parties as described in this Policy, please contact us via e-mail at: <a href="mailto:compliance@fxcm.com" class="darkblue">compliance@fxcm.com</a></p>
-				<p>or send your request to:</p>
-				<p>Forex Capital Markets LLC<br>
-					Attention: Privacy Officer<br>
-					55 Water St., 50th Floor<br>
-					New York, NY 10041<br>
-					USA</p>
+				<p>DAILYFX respects each individual's right to privacy. We value our relationship with you, and we take pride in maintaining loyalty and respect with each individual client by providing you with security. The provisions of this notice apply to former clients, current clients, and applicants.</p>
+      <h3>PERSONAL INFORMATION</h3>
+      <p>When you utilize the DAILYFX website, apply for or maintain a live account, or subscription with DAILYFX, we collect personal information about you for business purposes, which may not be limited to the following: evaluating your financial needs, processing your requests and transactions, informing you about products and services that may be of interest to you, and providing customer service. Such information may include: </p>
+      <ul style="list-style:none;">
+        <li>Personal: Information you provide to us on applications and other forms, such as your name, email address, street address, and phone number. </li>
+        <li>Cookies: Cookies are small files containing information that a Web site uses to track its visitors. </li>
+        <li>IP Address: When your web browser or email application requests a web page or email from another computer on the Internet, it automatically gives that computer the address where it should send the information. This is called your computer's IP address. IP stands for "Internet protocol. </li>
+        <li>Tracking Pixels:  Webpages and HTML emails may contain a small snippet of code called a Tracking Pixel to transfer or collect information through a graphic image request to support site usage analytics, advertising auditing and reporting, and content and advertising personalization.</li>
+      </ul>
+      <h3>COOKIES</h3>
+      <p>DAILYFX may set and access DAILYFX cookies on your computer, either for the duration of your visit (“session cookie”) or for repeat visits (“persistent cookie”), enabling us to learn which advertisements and promotions bring users to our Web site. DAILYFX or any of its divisions may use cookies in connection with DAILYFX's products and services to track your activities on our Web sites. </p>
+      <h3>IP ADDRESS</h3>
+      <p>DAILYFX receives IP addresses from all users because this information is automatically reported by your browser each time you view a web page. Your IP address is also stored in our user registration databases when you register with DAILYFX. IP addresses may be used for various purposes, including but not limited to: Diagnose service or technology problems reported by our users or engineers that are associated with the IP addresses controlled by a specific web company or ISP. Send the most appropriate advertising based on geographic area or information derived from your IP address. Many IP addresses are commonly associated with Internet service providers, universities, or major corporations in specific regions or localities. Help determine which users have access privileges to certain content that we host. </p>
+      <h3>TRACKING PIXELS</h3>
+      <p>DAILYFX may collect information through Tracking Pixels about your web browsing activities such as the address of the page you are visiting, the address of the referrer page you previously visited, the time you are viewing the page, your browsing environment and your display settings. We may use the information we collect through Tracking Pixels to understand traffic patterns and the number of visitors to the branded our network of internal and partner websites. </p>
+      <h3>SECURITY TECHNOLOGY</h3>
+      <p>DAILYFX uses Secure Socket Layer (SSL) encryption technology in order to protect certain information that you submit. This type of technology protects you from having your information intercepted by anyone other than DAILYFX while it is being transmitted to us. We work hard to ensure that our Web sites are secure and that they meet industry standards. We also use other safeguards such as firewalls, authentication systems (e.g., passwords and personal identification numbers), and access control mechanisms to control unauthorized access to systems and data. </p>
+      <h3>OPT OUT</h3>
+      <p>You are not required to supply any of the personal information that we may request; however, failure to do so may result in our being unable to open or maintain your account or to provide services to you. While we make every effort to ensure that all information we hold about you is accurate, complete, and up to date, you can help us considerably in this regard by promptly notifying us if there are any changes to your personal information. </p>
+      <p>If you do not wish to have your personal information disclosed to our affiliates or other third parties as described in this Policy, please contact us via e-mail at: <a href="mailto:compliance@fxcm.com" target="_blank">compliance@fxcm.com</a></p>
+      <p>or send your request to: </p>
+      <p>DailyFX FXCM <br>
+        Attention: Privacy Officer <br>
+        55 Water St., 50th Floor <br>
+        New York, NY 10041 </p>
+      <p>Please be advised, that if we receive such instruction we will not be able to service your account and must close any open accounts or subscriptions you may have.</p>
 			</div>
 		</div>
 	</div>
@@ -852,47 +929,48 @@ document.getElementById(id).style.display = visibility;
     <div id="footer-content" class="grid_12 ">
         <table style="width: 100%">
             <tbody><tr>
-                <td><strong><a href="/forex_market_news/" title="Forex Market News">Forex Market News</a></strong><br>
-                    <a href="/forex_market_news/daily_briefings/" title="Daily Briefings">Daily Briefings</a><br>
-                    <a href="/forex_market_news/us-dollar-index/" title="Forex Market News: US Dollar Index">US Dollar Index</a><br>
-                    <a href="/forex_market_news/forecasts/" title="Forecasts">Forecasts</a><br>
-                    <a href="/forex_market_news/videos/" title="TV and Video">TV and Video</a><br>
-                    <a href="/forex_market_news/articles/" title="Research Columns">Research Columns</a><br>
-                    <a href="/real_time_news/" title="Real Time News">Real Time News</a></td>
-                <td><strong><a href="/technical_analysis/" title="Technical Analysis">Technical Analysis</a></strong><br>
-                    <a href="/technical_analysis/forex_trading_strategies/" title="Trading Strategies">Trading Strategies</a><br>
-                    <a href="/technical_analysis/articles/" title="Articles">Articles</a><br>
-                    <a href="/technical_analysis/candlesticks/" title="Candlesticks">Candlesticks</a><br>
-                    <a href="/technical_analysis/elliott_wave/" title="Daily Technicals">Daily Technicals</a><br>
-                    <a href="/technical_analysis/sentiment/" title="Sentiment">Sentiment</a><br>
-                    <a href="/technical_analysis/pivot_points/" title="Pivot Points">Pivot Points</a></td>
-                <td><strong><a href="/how_to_trade_forex/learn_forex/" title="DailyFX for Beginners">DailyFX for Beginners</a></strong><br>
-                    <a href="/how_to_trade_forex/learn_forex/" title="Learn Forex">Learn Forex</a><br>
-                    <a href="/how_to_trade_forex/course_trading_tips/" title="Course Forex Trading Tips">Course Trading Tips</a><br>
-                    <a href="/how_to_trade_forex/forex_trading_courses/" title="Forex Trading Courses">Trading Courses</a></td>
-                <td><strong><a href="/calendar/" title="Economic Calendar">Economic Calendar</a></strong><br>
-                    <a href="/calendar/rollover_calendar/" title="Rollover Calendar">Rollover Calendar</a><br>
-                    <a href="/live_forex_trading_room/" title="Live Trading Room">Live Trading Room</a><br>
-                    <a href="/calendar/mobile_trading/" title="Mobile Trading">Mobile Trading</a><br></td>
-                <td><strong><a href="/charts/" title="Free Forex Charts">Free Forex Charts</a></strong><br>
-                    <a href="/charts/chart-premium/" title="Premium Forex Charts">Premium Forex Charts</a><br>
+                <td><strong><a href="/forex_market_news" title="Forex Market News">Forex Market News</a></strong><br>
+                    <a href="/forex_market_news/daily_briefings" title="Daily Briefings">Daily Briefings</a><br>
+                    <a href="/forex_market_news/us-dollar-index" title="Forex Market News: US Dollar Index">US Dollar Index</a><br>
+                    <a href="/eur-usd" title="EUR/USD">EUR/USD</a><br>
+                    <a href="/forex_market_news/forecasts" title="Forecasts">Forecasts</a><br>
+                    <a href="/forex_market_news/videos" title="TV and Video">TV and Video</a><br>
+                    <a href="/forex_market_news/articles" title="Research Columns">Research Columns</a><br>
+                    <a href="/real_time_news" title="Real Time News">Real Time News</a></td>
+                <td><strong><a href="/technical_analysis" title="Technical Analysis">Technical Analysis</a></strong><br>
+                    <a href="/technical_analysis/forex_trading_strategies" title="Trading Strategies">Trading Strategies</a><br>
+                    <a href="/technical_analysis/articles" title="Articles">Articles</a><br>
+                    <a href="/technical_analysis/candlesticks" title="Candlesticks">Candlesticks</a><br>
+                    <a href="/technical_analysis/elliott_wave" title="Daily Technicals">Daily Technicals</a><br>
+                    <a href="/technical_analysis/sentiment" title="Sentiment">Sentiment</a><br>
+                    <a href="/technical_analysis/pivot_points" title="Pivot Points">Pivot Points</a></td>
+                <td><strong><a href="/how_to_trade_forex/learn_forex" title="DailyFX for Beginners">DailyFX for Beginners</a></strong><br>
+                    <a href="/how_to_trade_forex/learn_forex" title="Learn Forex">Learn Forex</a><br>
+                    <a href="/how_to_trade_forex/course_trading_tips" title="Course Forex Trading Tips">Course Trading Tips</a><br>
+                    <a href="/how_to_trade_forex/forex_trading_courses" title="Forex Trading Courses">Trading Courses</a></td>
+                <td><strong><a href="/calendar" title="Economic Calendar">Economic Calendar</a></strong><br>
+                    <a href="/calendar/rollover_calendar" title="Rollover Calendar">Rollover Calendar</a><br>
+                    <a href="/live_forex_trading_room" title="Live Trading Room">Live Trading Room</a><br>
+                    <a href="/calendar/mobile_trading" title="Mobile Trading">Mobile Trading</a><br></td>
+                <td><strong><a href="/charts" title="Free Forex Charts">Free Forex Charts</a></strong><br>
+                    <a href="/charts/chart-premium" title="Premium Forex Charts">Premium Forex Charts</a><br>
                     <a href="/currency-converter">Currency Converter</a><br>
-                    <a href="/forex_rates/" title="Rates">Rates</a><br>
-                    <a href="/charts/mobile_price_alerts/" title="Mobile Price Alerts">Mobile Price Alerts</a></td>
-                <td><strong><a href="/analyst_picks/" title="Analyst Picks">Analyst Picks</a></strong><br>
+                    <a href="/forex_rates" title="Live Forex Rates">Live Forex Rates</a><br>
+                    <a href="/charts/mobile_price_alerts" title="Mobile Price Alerts">Mobile Price Alerts</a></td>
+                <td><strong><a href="/analyst_picks" title="Analyst Picks">Analyst Picks</a></strong><br>
                     <strong><a href="https://plus.dailyfx.com/login/loginForm.jsp" title="DailyFX PLUS Overview">DailyFX PLUS</a></strong><br>
                     <strong><a href="http://forexforums.dailyfx.com/" title="Forum">Forum</a></strong><br>
                     <strong><a href="/rss/" title="RSS">RSS</a></strong><br>
                     <strong><a href="/page/syndication" title="syndicate">Syndicate Our Content</a></strong><br>
                     <strong><a href="/archive/" title="DailyFX Archive">Archive</a></strong><br>
-                    <img src="/design/fxcm/img/icon-facebook-10.gif" alt=""> <strong><a href="http://www.facebook.com/DailyFXnews" title="DailyFX on Facebook">DailyFX on Facebook</a></strong><br>
+                    <img src="/design/fxcm/img/icon-facebook-10.gif" alt=""> <strong><a href="http://www.facebook.com/DailyFX" title="DailyFX on Facebook">DailyFX on Facebook</a></strong><br>
                     
                 </td>
             </tr>
         </tbody></table>
     </div>
-    <div id="footer-sub-copyright" class="grid_3 alpha">© 2012 DailyFX. All Rights Reserved. </div>
-    <div id="footer-sub-links" class="grid_9 omega"> <a href="http://www.fxcm.com/" title="Forex Capital Markets">Forex Capital Markets</a> | <a href="/list/fxcm_news/" title="Press">Press</a> | <a href="/sitemap.html" title="Sitemap">Sitemap</a> | <a href="/page/contact-us" title="Contact Us">Contact Us</a> | <a href="http://www.gocurrency.com/" title="Currency Converter">Currency Converter</a> | <a href="/page/risk_warning.html" title="Risk Disclaimer">Risk Disclaimer</a> | <a href="/page/privacy_policy.html" title="Privacy Policy">Privacy Policy</a> </div>
+    <div id="footer-sub-copyright" class="grid_3 alpha">© 2013 DailyFX. All Rights Reserved. </div>
+    <div id="footer-sub-links" class="grid_9 omega"> <a href="http://www.fxcm.com" title="Forex Capital Markets">Forex Capital Markets</a> | <a href="/list/fxcm_news" title="Press">Press</a> | <a href="/sitemap.html" title="Sitemap">Sitemap</a> | <a href="/page/contact-us" title="Contact Us">Contact Us</a> | <a href="/page/risk_warning.html" title="Risk Disclaimer">Risk Disclaimer</a> | <a href="/page/privacy_policy.html" title="Privacy Policy">Privacy Policy</a> | <a href="/page/terms_and_conditions.html" title="Terms and Conditions">T &amp; C</a> </div>
     <div class="clear"></div>
     <br>
 </div>
@@ -934,5 +1012,29 @@ document.getElementById(id).style.display = visibility;
         var s_code=s.t(); if(s_code) document.write(s_code);
 </script>
 
+
+
+<script type="text/javascript"> 
+	var _gaq = _gaq || []; 
+	_gaq.push(['_setAccount', 'UA-35659732-1']); 
+	_gaq.push(['_setDomainName', 'dailyfx.com']); 
+	_gaq.push(['_trackPageview']); 
+    setTimeout("_gaq.push(['_trackEvent', '15_seconds', 'read'])",15000);
+    
+	(function() { 
+		var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true; 
+		ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js'; 
+		var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s); 
+	})(); 
+	
+	var a = document.getElementsByTagName('a');
+    for(i = 0; i < a.length; i++){
+          if ( (a[i].href.indexOf("dailyfx.com") == -1) && (a[i].href.indexOf(location.host) == -1) && (a[i].href.indexOf("#") == -1) && (a[i].href.match(/^http:\/\//i)) ){
+                
+                a[i].onclick = function(){_gaq.push(['_trackEvent', 'outgoing_links', location.href, this.href.replace(/^http:\/\//i, '')]);}
+          }
+    }
+
+</script> 
 
 </body></html>
