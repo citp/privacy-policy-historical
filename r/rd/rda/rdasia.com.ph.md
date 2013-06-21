@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rdasia.com.ph privacy policy that was archived on 2012-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121220111950id_/http%3A//www.rdasia.com.ph/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rdasia.com.ph privacy policy that was archived on 2013-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130621214917id_/http%3A//www.rdasia.com.ph/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Reader's Digest Philippines
 
