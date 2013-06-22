@@ -1,9 +1,10 @@
-> *The following text is extracted and transformed from the sigmabeauty.com privacy policy that was archived on 2012-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120615171416id_/http%3A//www.sigmabeauty.com/terms_privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sigmabeauty.com privacy policy that was archived on 2013-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130622043539id_/http%3A//www.sigmabeauty.com/terms_privacy.asp) for the most accurate reproduction.*
 
 # Terms: Privacy
 
   
-What information do we collect?
+What information do we collect?  
+
 
   * We collect information from you when you register on the site, place an order, enter a contest or sweepstakes, respond to a survey or communication such as e-mail, or participate in another site feature. 
   * When ordering or registering, we may ask you for your name, e-mail address, mailing address, phone number, credit card information or other information. You may, however, visit our site anonymously. 
@@ -64,8 +65,12 @@ This online privacy policy applies only to information collected through our web
 
 Terms and Conditions
 
-Please also visit our [Terms and Conditions](https://web.archive.org/web/20120615171416id_/http%3A//www.sigmabeauty.com/terms.asp) section establishing the use, disclaimers, and limitations of liability governing the use of our website.
+Please also visit our 
+
+[Terms and Conditions](https://web.archive.org/web/20130622043539id_/http%3A//www.sigmabeauty.com/terms.asp) section establishing the use, disclaimers, and limitations of liability governing the use of our website.
 
 Your consent
 
 By using our site, you consent to our privacy policy.
+
+© 2013 Sigma Enterprises, LLC
