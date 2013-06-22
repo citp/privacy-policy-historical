@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the energysavingtrust.org.uk privacy policy that was archived on 2012-10-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121002224501id_/http%3A//www.energysavingtrust.org.uk/Energy-Saving-Trust/Privacy-and-cookies) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the energysavingtrust.org.uk privacy policy that was archived on 2013-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130622060519id_/http%3A//www.energysavingtrust.org.uk/Energy-Saving-Trust/Privacy-and-cookies) for the most accurate reproduction.*
 
 # Privacy and cookies / Energy Saving Trust / Home (England) - Energy Saving Trust England
 
@@ -13,7 +13,7 @@ The Energy Saving Trust is a social enterprise with charitable status. We have i
 
 ## **Telephone calls  **
 
-Calls to and from the Energy Saving Trust and Energy Saving Scotland Advice Centres may be recorded to monitor and improve our customer service, and for staff training purposes.
+Calls to and from the Energy Saving Trust and Home Energy Scotland may be recorded to monitor and improve our customer service, and for staff training purposes.
 
 ## Your personal information  
 
