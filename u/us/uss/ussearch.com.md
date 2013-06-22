@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the ussearch.com privacy policy that was archived on 2012-10-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121024200717id_/http%3A//www.ussearch.com/consumer/commerce/about/privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ussearch.com privacy policy that was archived on 2013-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130622070600id_/http%3A//www.ussearch.com/consumer/commerce/about/privacy.jsp) for the most accurate reproduction.*
 
 # Privacy Policy | USSearch.com
 
 US Search has been the leading online People Search enterprise for more than a decade. We provide this privacy policy so we may inform you about our company privacy practices, including 1) our practices as they pertain to our corporate website located at www.USSearch.com (“Website“), and 2) our practices that apply when you purchase one of our products or services.
 
-If you want to block your profile from appearing on our websites, in our reports, or in our ads, please [click here](https://web.archive.org/consumer/ala/landing.do?did=590) to learn how.
+If you want to block your profile from appearing on our websites, in our reports, or in our ads, please [click here](http://www.ussearch.com/consumer/ala/landing.do?did=590) to learn how.
 
 * **What information do we collect when you visit our Website or order our products and services, and how do we use it?**
 
@@ -17,7 +17,7 @@ We collect Personally Identifiable Information (“PII”) from you when you cho
   * When you purchase our products and services, we will collect PII in order to facilitate your purchase, including your name, address, email address, telephone number, and credit card number.
   * When you ask to take part in our PrivacyLock service (described below) we collect your name, address, previous address, date of birth and telephone number so that we may facilitate your opt-out request.
   * When you provide us with your email address in order to join our mailing list, we will send you email messages in order to notify you about important functionality changes to the Website, new services, and special offers we think you’ll find valuable.
-  * When you fill out our [customer service form](https://web.archive.org/consumer/commerce/about/contact_cs.jsp) on our Website (e.g., to ask us a question about an order you’ve already placed, or to ask us to remove any of your PII that we have from our database, we will collect PII in order to help us answer your question or facilitate your request, including: your name, your email address, your telephone number, the order date, and the order number, if applicable.
+  * When you fill out our [customer service form](http://www.ussearch.com/consumer/ecustomer/contact-cs.do) on our Website (e.g., to ask us a question about an order you’ve already placed, or to ask us to remove any of your PII that we have from our database, we will collect PII in order to help us answer your question or facilitate your request, including: your name, your email address, your telephone number, the order date, and the order number, if applicable.
 
 
 
@@ -55,7 +55,7 @@ As a courtesy we offer individuals the ability to block certain records from app
 
 Requests for opt out will not be processed over the phone or via email. Subject to limited exceptions for elected officials and/or law enforcement officers, US Search does not process third party requests or requests submitted in any other manner. 
 
-To learn how to block your profile from appearing on our websites, in our reports, or in our ads, please [click here](https://web.archive.org/consumer/ala/landing.do?did=590). 
+To learn how to block your profile from appearing on our websites, in our reports, or in our ads, please [click here](http://www.ussearch.com/consumer/ala/landing.do?did=590). 
 
 * **Can I access or delete the information that is collected from this Website?**
 
@@ -67,7 +67,7 @@ We do, however, permit you to review, update, correct, delete or deactivate info
 
 If you have a US Search account, you may opt-out of receiving marketing or promotional emails from us and update your account information in the following ways:
 
-  * Online by visiting [www.USSearch.com](https://web.archive.org/consumer/index.do?cid=people), logging into your account, and clicking on the “member center”, “account settings” at the top of the page.
+  * Online by visiting [www.USSearch.com](http://www.ussearch.com/consumer/index.do?cid=people), logging into your account, and clicking on the “member center”, “account settings” at the top of the page.
   * By sending a written request by regular mail or email, to the address information below. Your request should include: your name, complete address, purchase date and order reference number.
 
 
