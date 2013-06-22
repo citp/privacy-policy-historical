@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the pathf.com privacy policy that was archived on 2012-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121222124852id_/http%3A//pathfindersoftware.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pathf.com privacy policy that was archived on 2013-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130622074324id_/http%3A//pathfindersoftware.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Pathfinder Software
+# Privacy Policy |
 
 1\. We make every endeavor to ensure that any data given by Users of the Web Site is stored securely and without risk of corruption, theft or abuse by parties external to ourselves and our representatives.
 
