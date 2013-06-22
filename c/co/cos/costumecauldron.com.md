@@ -1,39 +1,36 @@
-> *The following text is extracted and transformed from the costumecauldron.com privacy policy that was archived on 2011-10-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111006204905id_/http%3A//www.costumecauldron.com/Privacy-Policy-Costume-Cauldron.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the costumecauldron.com privacy policy that was archived on 2013-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130622092718id_/http%3A//www.costumecauldron.com/shop/halloween-costume/Privacy-Policy-sp-24.html) for the most accurate reproduction.*
 
-# Privacy Policy - Costume Cauldron
+# X-CART. Powerful PHP shopping cart software :: Costume Cauldron
 
-  
 Your privacy is very important to us. We want to make your experience on the internet as enjoyable and rewarding as possible, and we want you to use the internet’s vast array of information, tools, and opportunities with complete confidence.
 
 We have created this Privacy Policy to demonstrate our firm commitment to privacy and security. This Privacy Policy describes how Costume Cauldron collects information from all end users of Costume Cauldron's internet services (the "Services") — those who access some of our Services but do not make a purchase ("Visitors") as well as those who make a purchase ("Customers") — what we do with the information we collect, and the choices Visitors and Customers have concerning the collection and use of such information. Costume Cauldronrequests that you read this Privacy Policy carefully.
 
-**Introduction  
-**Costume Cauldron collects information in different ways from Visitors and Customers who access the various parts of our Services. We use this information primarily to provide a customized experience as you use our Services and, generally, do not share this information with third parties. However, we may disclose personal information collected if we have received your permission beforehand or in very special circumstances, such as when we believe that such disclosure is required by law or other special cases described below.
+ **Introduction**  
+Costume Cauldron collects information in different ways from Visitors and Customers who access the various parts of our Services. We use this information primarily to provide a customized experience as you use our Services and, generally, do not share this information with third parties. However, we may disclose personal information collected if we have received your permission beforehand or in very special circumstances, such as when we believe that such disclosure is required by law or other special cases described below.
 
-**Data Security  
-**The information you provide—including credit card information—is secured using Secure Sockets Layer (SSL) encryption technology. We use this SSL technology to prevent such information from being intercepted and read as it is transmitted over the Internet. The encrypted data goes to a secure site where your information is stored on restricted-access computers located at restricted-access sites. While we make every effort to ensure the integrity and security of our network and systems, we cannot guarantee that our security measures will prevent third-party "hackers" from illegally obtaining this information. As an added measure we use ["HackerSafe" by McAfee](https://www.mcafeesecure.com/RatingVerify?ref=www.costumecauldron.com). to protect us against these attacks. Using [Moneris Solutions](http://www.moneris.com/) as an online payment gateway we can safely and easily accept Visa and Mastercard payments. Moneris Solutions® is one of the largest payment processors in North America. 
+ **Data Security**  
+The information you provide—including credit card information—is secured using Secure Sockets Layer (SSL) encryption technology. We use this SSL technology to prevent such information from being intercepted and read as it is transmitted over the Internet. The encrypted data goes to a secure site where your information is stored on restricted-access computers located at restricted-access sites. While we make every effort to ensure the integrity and security of our network and systems, we cannot guarantee that our security measures will prevent third-party "hackers" from illegally obtaining this information. As an added measure we use ["HackerSafe" by McAfee](https://www.mcafeesecure.com/RatingVerify?ref=www.costumecauldron.com). to protect us against these attacks. Using [Moneris Solutions](http://www.moneris.com/) as an online payment gateway we can safely and easily accept Visa and Mastercard payments. Moneris Solutions® is one of the largest payment processors in North America.
 
-**Responses to Email Inquiries  
-**When Visitors or Customers send email inquiries to Costume Cauldron, the return email address is used to answer the email inquiry we receive. Costume Cauldron does not use the return email address for any other purpose and does not share the return email address with any third party.
+ **Responses to Email Inquiries**  
+When Visitors or Customers send email inquiries to Costume Cauldron, the return email address is used to answer the email inquiry we receive. Costume Cauldron does not use the return email address for any other purpose and does not share the return email address with any third party.
 
-****Address Information at Checkout  
-****We do not give out your address information to any third party after you checkout, but will send you email or post mail flyers that alert you to up and coming promotions and coupon discounts. 
+ **Address Information at Checkout**  
+We do not give out your address information to any third party after you checkout, but will send you email or post mail flyers that alert you to up and coming promotions and coupon discounts.
 
-**Cookies  
-**A "cookie" is a small data file that can be placed on your hard drive when you visit certain Web sites. Costume Cauldron may use cookies to collect, store, and sometimes track information for statistical purposes to improve the products and services we provide and to manage our telecommunications networks. If you are a Customer, we may use a cookie to save your settings and to provide customizable and personalized services. These cookies do not enable third parties to access any of your customer information. Additionally, be aware that if you visit non-Costume Cauldron web sites where you are prompted to log in or that are customizable, you may be required to accept cookies.
+ **Cookies**  
+A "cookie" is a small data file that can be placed on your hard drive when you visit certain Web sites. Costume Cauldron may use cookies to collect, store, and sometimes track information for statistical purposes to improve the products and services we provide and to manage our telecommunications networks. If you are a Customer, we may use a cookie to save your settings and to provide customizable and personalized services. These cookies do not enable third parties to access any of your customer information. Additionally, be aware that if you visit non-Costume Cauldron web sites where you are prompted to log in or that are customizable, you may be required to accept cookies.
 
-**Special Cases  
-**It is the policy of Costume Cauldron not to use or share the personal information about Visitors or Customers in ways unrelated to the ones described above without also providing you an opportunity to prohibit such unrelated uses. However, Costume Cauldron may disclose personal information about Visitors or Customers, if we believe that it is reasonable to do so, including: to satisfy laws, such as the Electronic Communications Privacy Act, regulations, or governmental or legal requests for such information; to disclose information that is necessary to operate the Services properly or to protect Costume Cauldron and our Members.
+ **Special Cases**  
+It is the policy of Costume Cauldron not to use or share the personal information about Visitors or Customers in ways unrelated to the ones described above without also providing you an opportunity to prohibit such unrelated uses. However, Costume Cauldron may disclose personal information about Visitors or Customers, if we believe that it is reasonable to do so, including: to satisfy laws, such as the Electronic Communications Privacy Act, regulations, or governmental or legal requests for such information; to disclose information that is necessary to operate the Services properly or to protect Costume Cauldron and our Members.
 
-****Voice & Written Testimonials  
-****By providing us with a voice or written testimonial to be posted on our website you agree to the exclusive use and permission of the testimonial on our website and other promotional material to indorse our products. All personal information other than full name, city and products purchased will be edited to protect those exceptional customers leaving us a testimonial.
+ **Voice & Written Testimonials**  
+By providing us with a voice or written testimonial to be posted on our website you agree to the exclusive use and permission of the testimonial on our website and other promotional material to indorse our products. All personal information other than full name, city and products purchased will be edited to protect those exceptional customers leaving us a testimonial.
 
-**Public Forums  
-**Please remember that any information you may disclose in our Discussion Forum, or other public areas of our Web sites or the internet in general, becomes public information. Please exercise caution when deciding to disclose personal information in these public areas.
+ **Public Forums**  
+Please remember that any information you may disclose in our Discussion Forum, or other public areas of our Web sites or the internet in general, becomes public information. Please exercise caution when deciding to disclose personal information in these public areas.
 
-**Revisions to This Policy  
-**Costume Cauldron reserves the right to revise, amend, or modify this policy and other policies and agreements at any time and in any manner. Notice of any revision, amendment, or modification will be posted here and will only apply to information collected after any such change.
+ **Revisions to This Policy**  
+Costume Cauldron reserves the right to revise, amend, or modify this policy and other policies and agreements at any time and in any manner. Notice of any revision, amendment, or modification will be posted here and will only apply to information collected after any such change.
 
-Where to Direct Questions About the Costume Cauldron Privacy Policy
-
-If you have any questions about this Privacy Policy or the practices described herein contact us **.**
+If you have any questions about this Privacy Policy or the practices described herein [contact us](http://www.costumecauldron.com/shop//halloween-costume/Contact-Page-sp-32.html).
