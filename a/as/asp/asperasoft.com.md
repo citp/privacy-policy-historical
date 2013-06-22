@@ -1,16 +1,16 @@
-> *The following text is extracted and transformed from the asperasoft.com privacy policy that was archived on 2012-10-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121006012345id_/http%3A//asperasoft.com/company/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the asperasoft.com privacy policy that was archived on 2013-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130622104655id_/http%3A//asperasoft.com/company/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
-**_Last Updated June 1, 2012_**
+**_Last Updated October 9, 2012_**
 
-Aspera is committed to respecting your privacy. This general Privacy Policy sets forth the privacy principles that Aspera follows with respect to personal information collected from Aspera’s corporate website (www.asperasoft.com); support website (support@asperasoft.com); and cloud website (cloud.asperasoft.com); direct marketing campaigns, which may be conducted by telephone or email; at events hosted or attended by Aspera; or in the course of other similar marketing activities. The term “Personal Information” includes any information that enables you to be identified, such as your name, physical address, email address or phone number. This policy is part of the Terms of Use of Aspera’s website and subject to all its terms. Aspera reserves the right to update this policy from time to-time and will notify you of any new privacy policies by posting them on Aspera’s websites. We encourage you to check our websites frequently for any such notices. 
+Aspera is committed to respecting your privacy. This general Privacy Policy sets forth the privacy principles that Aspera follows with respect to personal information collected from Aspera’s corporate website (www.asperasoft.com); support website (support@asperasoft.com); and cloud website (cloud.asperasoft.com); direct marketing campaigns, which may be conducted by telephone or email; at events hosted or attended by Aspera; or in the course of other similar marketing activities. The term “ **Personal Information** ” includes any information that enables you to be identified, such as your name, physical address, email address or phone number. This policy is part of the Terms of Use of Aspera’s website and subject to all its terms. Aspera reserves the right to update this policy from time to-time and will notify you of any new privacy policies by posting them on Aspera’s websites. We encourage you to check our websites frequently for any such notices. 
 
 ## Information Collected
 
-#### Personal Data
+#### Personal Information
 
-Certain data and services provided through Aspera’s website require registration where Personal Data is collected. Registration and the provision of Personal Data are voluntary. These areas may also be password protected. If you do not want Aspera to use your Personal Information in the manner described below, do not register with Aspera. By providing Aspera your Personal Information you expressly agree to the terms of this policy. 
+Certain data and services provided through Aspera’s website require registration where Personal Information is collected. Registration and the provision of Personal Information are voluntary. These areas may also be password protected. If you do not want Aspera to use your Personal Information in the manner described below, do not register with Aspera. By providing Aspera your Personal Information you expressly agree to the terms of this policy. 
 
 #### Cookies
 
@@ -20,7 +20,7 @@ Cookies are unique identifiers that are transferred to your device to enable Asp
 
 #### Use of Personal Information
 
-If you have registered with Aspera either online, in paper form, or over the telephone or have provided Personal Information to Aspera by other means, Aspera uses this information to (i) contact you with customized marketing information by telephone, mail, online download, or email or (ii) offer you seminars or webinars you may find of interest. Electronic communications will include an “unsubscribe” feature that will allow you to unregister from future communications. 
+If you have registered with Aspera either online, in paper form, or over the telephone or have provided Personal Information to Aspera by other means, Aspera uses this information to (i) contact you with customized marketing information by telephone, mail, online-download, or email or (ii) offer you seminars or webinars you may find of interest. Electronic communications will include an “unsubscribe” feature that will allow you to unregister from future communications. 
 
 #### Transfer of Personal Information to Aspera Affiliates
 
@@ -38,4 +38,8 @@ Aspera undertakes commercially reasonable precautions to protect Personal Inform
 
 #### Third Party Sites
 
-This policy only addresses your activities from Aspera servers. Other sites (including those that Aspera links to) may have their own policies, which Aspera does not control.
+This policy only addresses your activities from Aspera servers. Other sites (including those that Aspera links to) may have their own policies, which Aspera does not control. 
+
+**support@asperasoft.com**
+
+Aspera uses a third party hosted system for customer facing knowledge base and ticketing system.  This provider’s privacy policy is found at <http://www.zendesk.com/company/privacy#cookies-policy>.
