@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the asianfanfics.com privacy policy that was archived on 2012-10-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121015110010id_/http%3A//www.asianfanfics.com/page/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the asianfanfics.com privacy policy that was archived on 2013-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130622045827id_/https%3A//www.asianfanfics.com/page/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Asianfanfics.com
 
@@ -8,19 +8,21 @@
 
 **PRIVACY POLICY**
 
-This Privacy Policy (" **Privacy Policy** ") describes the personal information we collect through our website and mobile applications (the " **Site** "), and how we collect and use it. The terms " **we** ", " **us** ", and " **Asianfanfics** " refer to Jado Interactive LLC, a New Jersey limited liability company.  Unless otherwise defined in this Privacy Policy, terms used in this Privacy Policy have the same meanings as in our [Terms of Use](http://www.asianfanfics.com/page/rules).
+This Privacy Policy (" **Privacy Policy** ") describes the personal information we collect through our website and mobile applications (the " **Site** "), and how we collect and use it. The terms " **we** ", " **us** ", and " **Asianfanfics** " refer to Jado Interactive LLC, a New Jersey limited liability company.  Unless otherwise defined in this Privacy Policy, terms used in this Privacy Policy have the same meanings as in our [Terms of Use](https://web.archive.org/page/rules).
 
 **1\. Information We Collect and How We Use It**
 
-_a.          __Account information._ We ask for and store information about you when you create an account on the Site, such as your email address, your Asianfanfics username and  your password. We use your email address, Asianfanfics username and password to create your account. We use your email address to help you reset your password, curb spamming, send you updates, provide services to you in connection with the Site, and to contact you on behalf of other users sending you messages, compliments, and the like. If you decide at any time that you no longer wish to receive email communications from us, please follow the unsubscribe instructions provided in any of the communications.
+_a.          __Account information._ We ask for and store information about you when you create an account on the Site, such as your email address, your Asianfanfics username and  your password. We use your email address, Asianfanfics username and password to create your account. We use your email address to help you reset your password, curb spamming, send you updates, provide services to you in connection with the Site, and to contact you on behalf of other users sending you messages, complements, and the like. If you decide at any time that you no longer wish to receive email communications from us, please follow the unsubscribe instructions provided in any of the communications.
 
 b.         _Information you choose to share—public content._ By posting information which you choose to share, such as posting stories, blogging, uploading photos and videos, sending compliments, filling out your public profile, and voting on other users' poll, you understand that such information will be considered public content—to be display to the public, as well as used for promotional purposes. Note that if you include personally identifiable information in your public content, it can be used and viewed by others. We are not responsible for the information you choose to include in your public content.
 
-c.         _Activity and log data._ We automatically store information related to your use of the Site, such as the pages you view on the Site, your browser type, IP address, requested URL, browser language, referring URL, and the date and time of your visit. We use this type of information to administer the Site and provide the highest possible level of service to you. We also use this information in the aggregate to perform statistical analyses of user behavior and characteristics in order to measure interest in and use of the various areas of the Site.
+c.         _Billing Information._ When purchasing certain of our Services, we will ask you to provide billing information, such as billing name and address and credit card number, to be used for payment processing. We use a third-party service provider to manage payment processing. We do not store Billing Information. In order to comply with federal and state laws, banking regulations, and other guidelines to minimize risk and authenticate your identity, you may be required to offer additional information in order to verify identity or address.
 
-d.         _Cookies._ We send cookies to your computer in order to uniquely indentify your browser and improve the quality of our service. " _Cookies_ " refer to small pieces of information that a Site sends to your computer's hard drive while you are viewing the Site. We may use both session cookies (which expire once you close your browser) and persistent cookies (which stay on your computer until you delete them). Persistent cookies can be removed by following your browser help file directions. If you choose to disable cookies, some areas of the Site may not work properly or at all. Our cookies are linked to your information, such as your Asianfanfics username, email address and password. We enable some of our business partners to use cookies in conjunction with your use of the Site. We have no access to or control over the use of these cookies. These cookies collect information about your use of the Site, such as where you came from, which pages you visited within the Site, and possibly other sites you visit if those sites cooperate with the same third party, but do not collect your name, email address, contact information or other personally identifiable information that by itself would allow the third party to identify or contact you.
+d.         _Activity and log data._ We automatically store information related to your use of the Site, such as the pages you view on the Site, your browser type, IP address, requested URL, browser language, referring URL, and the date and time of your visit. We use this type of information to administer the Site and provide the highest possible level of service to you. We also use this information in the aggregate to perform statistical analyses of user behavior and characteristics in order to measure interest in and use of the various areas of the Site.
 
-_e.          __Feedback._ You should feel free to give us feedback, register a complaint, or ask questions about the Site. We may store your communications, including any personal information you include in them, so that we can effectively respond to you.
+e.         _Cookies._ We send cookies to your computer in order to uniquely indentify your browser and improve the quality of our service. " _Cookies_ " refer to small pieces of information that a Site sends to your computer's hard drive while you are viewing the Site. We may use both session cookies (which expire once you close your browser) and persistent cookies (which stay on your computer until you delete them). Persistent cookies can be removed by following your browser help file directions. If you choose to disable cookies, some areas of the Site may not work properly or at all. Our cookies are linked to your information, such as your Asianfanfics username, email address and password. We enable some of our business partners to use cookies in conjunction with your use of the Site. We have no access to or control over the use of these cookies. These cookies collect information about your use of the Site, such as where you came from, which pages you visited within the Site, and possibly other sites you visit if those sites cooperate with the same third party, but do not collect your name, email address, contact information or other personally identifiable information that by itself would allow the third party to identify or contact you.
+
+_f.           __Feedback._ You should feel free to give us feedback, register a complaint, or ask questions about the Site. We may store your communications, including any personal information you include in them, so that we can effectively respond to you.
 
 **2\. Transfer of Information to Third Parties**
 
@@ -36,7 +38,7 @@ _e.          __Investigations._ We reserve the right to investigate abus
 
 **3**.  **Special Note to International Users**
 
-The Site is hosted in the United States and is intended for and directed to users in the United States. If you are a user accessing the Site from the European Union, Asia, or any other region with laws or regulations governing personal data collection, use, and disclosure, that differ from United States laws, please be advised that through your continued use of the Site, which are governed by U.S. law, this Privacy Policy, and our [Terms of Use](http://www.asianfanfics.com/page/rules), you are transferring your personal information to the United States and you consent to that transfer.
+The Site is hosted in the United States and is intended for and directed to users in the United States. If you are a user accessing the Site from the European Union, Asia, or any other region with laws or regulations governing personal data collection, use, and disclosure, that differ from United States laws, please be advised that through your continued use of the Site, which are governed by U.S. law, this Privacy Policy, and our _Terms of Use_ , you are transferring your personal information to the United States and you consent to that transfer.
 
 **4\. Links**
 
@@ -50,18 +52,22 @@ The Site is intended for general audiences and is not directed to children under
 
 We follow generally accepted industry standards to protect the personal information submitted to us, both during transmission and once we receive it. No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore, while we strive to use commercially acceptable means to protect your personal information, we cannot guarantee its absolute security.
 
-7\. **Changing or Deleting Your Information.** All users may review, update, correct or delete the personal information in their user account  by contacting us or by editing their profile via the Service. If you completely delete all of your personal information, then your user account may become deactivated. We will use commercially reasonable efforts to honor your request. We may retain an archived copy of your records as required by law or for legitimate business purposes.
+7\. **Changing or Deleting Your Information.**
 
-**8\. International Transfer.** Your information may be transferred to — and maintained on — computers located outside of your state, province, country or other governmental jurisdiction where the privacy laws may not be as protective as those in your jurisdiction. If you are located outside the United States and choose to provide information to us, Asianfanfics transfers personal information to the United States and processes it there. Your consent to this Privacy Policy followed by your submission of such information represents your agreement to that transfer.
+All users may review, update, correct or delete the personal information in their user account  by contacting us or by editing their profile via the Service. If you completely delete all of your personal information, then your user account may become deactivated. We will use commercially reasonable efforts to honor your request. We may retain an archived copy of your records as required by law or for legitimate business purposes.
+
+**8\. International Transfer.**
+
+Your information may be transferred to — and maintained on — computers located outside of your state, province, country or other governmental jurisdiction where the privacy laws may not be as protective as those in your jurisdiction. If you are located outside the United States and choose to provide information to us, Asianfanfics transfers personal information to the United States and processes it there. Your consent to this Privacy Policy followed by your submission of such information represents your agreement to that transfer.
 
 **9\. Dispute Resolution**
 
-If you believe that Asianfanfics has not adhered to this Privacy Policy you may contact Asianfanfics at legal@asianfanfics.com.
+If you believe that Asianfanfics has not adhered to this Privacy Policy you may contact Asianfanfics at legal@asianfanfics.com:
 
 **10**.  **Modifications to this Privacy Policy**
 
 We may revise this Privacy Policy from time to time. The most current version of the Privacy Policy will govern our use of your information and will always be posted on the Site. If we make a change to this Privacy Policy that, in our sole discretion, is material, we will notify you either by prominently posting a notice of such changes prior to implementing the change on the Site and/or via the email associated with your account. By continuing to access or use the Services after those changes become effective, you agree to be bound by the revised Privacy Policy.
 
-**Effective Date: August 15, 2012**
+**Effective Date: January 15, 2013**
 
 ^ Back to Top
