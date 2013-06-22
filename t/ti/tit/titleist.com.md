@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the titleist.com privacy policy that was archived on 2012-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121205161815id_/http%3A//www.titleist.com/company/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the titleist.com privacy policy that was archived on 2013-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130622195032id_/https%3A//www.titleist.com/company/Privacy.aspx) for the most accurate reproduction.*
 
 # Privacy - Titleist.com
 
@@ -18,9 +18,34 @@ When you visit this Site, we recognize only your domain name and not your e-mail
 
 When you provide information about yourself, we use it to improve our products and services and the content of this Site. We may also use it to complete purchase or other transactions or to send you information about our products and services. For details on how to opt out of receiving information, please see the Choice/Opt-out/Opt-in section of this Privacy Policy, below. When you use interactive features like our blogs (posting entries or submitting comments), or submit user content, please keep in mind that these features are inherently interactive. Information and materials you submit will be publicly available, thus if you include in your submission personally identifiable information (using your full name in the "name" field of a blog comment, for example), that information will become available to the general public on the Site. In addition, if you so choose to set your Team Titleist profile to “public,” other data about you will be publicly available. Please see the Team Titleist section of this Privacy Policy, below and the Community Policy for additional details. We may create aggregate information from records that contain personal information, and may include in those records information you have provided to us, or information we have obtained from third parties. We may use aggregate information for our legitimate business purposes.
 
-## Cookies
+## Use of cookies by Titleist
 
-This Site uses cookies to track online activity of Web users. A cookie is a piece of data on the user's computer tied to information about the user. The cookie was placed by us, or by DoubleClick. In order provide personalization on our websites, the cookie may include your first name, email address and zip code. It does not contain your full name, address or telephone number. For more information about DoubleClick, including information about how to opt out of these technologies, go to <http://www.doubleclick.net/us/corporate/privacy>.
+Cookies are small text files that are placed on your computer by websites that you visit or certain emails you open. They are widely used in order to make websites work, as well as to provide business and marketing information to the owners of the site. Details
+
+Titleist uses cookies on titleist.com for the following purposes:
+
+**Technical**   
+Cookies are used for technical reasons to enable the efficient working of titleist.com. For example, to:
+
+  * balance website traffic to ensure our customers receive a consistent and reliable service.
+  * limit traffic to key parts of the website in order to maintain performance levels.
+  * store customers’ acceptance of the website terms and conditions, without which access is not granted to certain features on titleist.com.
+
+
+
+**Ease of use**   
+Cookies are used to enhance the ease of use of titleist.com for consumers. For example, to:
+
+  * remember consumers’ country of choice and presenting relevant content.
+  * keep track of login status to ensure that a consumer can effectively utilize titleist.com.
+
+
+
+**Tracking**   
+Cookies are used to gather statistics on how consumers use the site. For example, to gain insight into how consumers use the website so that we can make improvements to its usability.
+
+**Marketing**   
+Cookies are used to enable us to present appropriate messages to our consumers. For example, to allow titleist.com to serve up different versions of a page for marketing purposes.
 
 ## Transparent GIFs
 
