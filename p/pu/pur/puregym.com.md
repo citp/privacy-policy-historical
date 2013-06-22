@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the puregym.com privacy policy that was archived on 2012-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121113054821id_/http%3A//www.puregym.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the puregym.com privacy policy that was archived on 2013-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130623011531id_/http%3A//www.puregym.com/privacy) for the most accurate reproduction.*
 
 # Pure Gym Privacy Policy
 
-At Pure Gym we are committed to protecting your privacy. This statement is made in the light of the requirements of the Data Protection Act 1998 in order to advise you of Pure Gym's data processing practices which will govern the processing of your data. If you have any queries about this statement please contact us at Pure Gym Limited, The Hutts, Grewelthorpe, Ripon, North Yorkshire, HG4 3DA, United Kingdom or by email.
+At Pure Gym we are committed to protecting your privacy. This statement is made in the light of the requirements of the Data Protection Act 1998 in order to advise you of Pure Gym's data processing practices which will govern the processing of your data. If you have any queries about this statement please contact us at Pure Gym Ltd, 4th Floor, Town Centre House, Merrion Centre, Leeds, LS2 8LY or by email.
 
 ## When do we collect information?
 
