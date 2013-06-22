@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the cheershopping.com privacy policy that was archived on 2012-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120611073418id_/http%3A//www.cheershopping.com/%3Fp%3Dprivacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cheershopping.com privacy policy that was archived on 2013-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130622032340id_/http%3A//cheershopping.com/privacypolicy) for the most accurate reproduction.*
 
-# Online Shopping - Buy Mobiles, Herbal products, Cameras, Consumer Electronics, Laptops, Fashion Accessories at Lowest Price in India - CheerShopping.com
+# Online Shopping India - Shop Online for Mobiles, Cameras, Home Appliances ,Clothing, Shoes, and more from Cheer Shopping
 
 ### Privacy Policy
 
