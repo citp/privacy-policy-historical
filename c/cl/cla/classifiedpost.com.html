@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the classifiedpost.com privacy policy that was archived on 2012-12-26.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121226194416id_/http%3A//www.classifiedpost.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the classifiedpost.com privacy policy that was archived on 2013-06-22.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130622035600id_/http%3A//www.classifiedpost.com/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" xmlns:og="http://opengraphprotocol.org/schema/" lang="en" dir="ltr"><head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
@@ -10,9 +10,19 @@
 <link rel="apple-touch-icon" href="/sites/default/themes/scmp_cp/images/apple-touch-icon-iphone.png">
     <link rel="apple-touch-icon" sizes="72x72" href="/sites/default/themes/scmp_cp/images/apple-touch-icon-ipad.png">
     <link rel="apple-touch-icon" sizes="114x114" href="/sites/default/themes/scmp_cp/images/apple-touch-icon-iphone4.png">
+    <!-- Start: GPT Sync -->
+    <script type="text/javascript">
+        var gptadslots=[];
+        (function(){
+            var useSSL = 'https:' == document.location.protocol;
+            var src = (useSSL ? 'https:' : 'http:') + '//www.googletagservices.com/tag/js/gpt.js';
+            document.write('<scr' + 'ipt src="' + src + '"></scr' + 'ipt>');
+        })();
+    </script><script src="https://www.googletagservices.com/tag/js/gpt.js"></script>
+    <!-- End: GPT -->
 <title>Privacy Policy | ClassifiedPost Hong Kong</title>
-<link type="text/css" rel="stylesheet" media="all" href="/sites/default/files/css/css_ae5f724b1e2940ba331d2a056db3398e.css">
-<script type="text/javascript" src="/sites/default/files/js/js_87db5b0cdc2d2ae2e8278e4d401a35d5.js"></script>
+<link type="text/css" rel="stylesheet" media="all" href="/sites/default/files/css/css_052c0ee79f6e05be2863c2757a316d0a.css">
+<script type="text/javascript" src="/sites/default/files/js/js_688c2b0c01ce3d60750fe4fc337ae76f.js"></script>
 <script type="text/javascript">
 <!--//--><![CDATA[//><!--
 jQuery.extend(Drupal.settings, { "basePath": "/", "extlink": { "extTarget": 0, "extClass": 0, "extSubdomains": 1, "extExclude": "", "extInclude": "", "extAlert": 0, "extAlertText": "This link will take you to an external web site. We are not responsible for their content.", "mailtoClass": 0 }, "googleanalytics": { "trackOutgoing": 1, "trackMailto": 1, "trackDownload": 1, "trackDownloadExtensions": "7z|aac|avi|csv|doc|docx|exe|flv|gif|gz|jpe?g|js|mp(3|4|e?g)|mov|pdf|phps|png|ppt|pptx|rar|sit|tar|torrent|txt|wma|wmv|xls|xlsx|xml|zip" }, "lightbox2": { "rtl": 0, "file_path": "/(\\w\\w/)sites/default/files", "default_image": "/sites/default/modules/lightbox2/images/brokenimage.jpg", "border_size": "10", "font_color": "000", "box_color": "fff", "top_position": "", "overlay_opacity": "0.8", "overlay_color": "000", "disable_close_click": 1, "resize_sequence": "0", "resize_speed": 400, "fade_in_speed": 400, "slide_down_speed": 600, "use_alt_layout": 0, "disable_resize": 0, "disable_zoom": 1, "force_show_nav": 0, "loop_items": 0, "node_link_text": "", "node_link_target": 0, "image_count": "Image !current of !total", "video_count": "Video !current of !total", "page_count": "Page !current of !total", "lite_press_x_close": "press \x3ca href=\"#\" onclick=\"hideLightbox(); return FALSE;\"\x3e\x3ckbd\x3ex\x3c/kbd\x3e\x3c/a\x3e to close", "download_link_text": "", "enable_login": false, "enable_contact": false, "keys_close": "c x 27", "keys_previous": "p 37", "keys_next": "n 39", "keys_zoom": "z", "keys_play_pause": "32", "display_image_size": "", "image_node_sizes": "()", "trigger_lightbox_classes": "", "trigger_lightbox_group_classes": "", "trigger_slideshow_classes": "", "trigger_lightframe_classes": "", "trigger_lightframe_group_classes": "", "custom_class_handler": 0, "custom_trigger_classes": "", "disable_for_gallery_lists": true, "disable_for_acidfree_gallery_lists": true, "enable_acidfree_videos": true, "slideshow_interval": 5000, "slideshow_automatic_start": true, "slideshow_automatic_exit": true, "show_play_pause": true, "pause_on_next_click": false, "pause_on_previous_click": true, "loop_slides": false, "iframe_width": 600, "iframe_height": 400, "iframe_border": 1, "enable_video": 0 } });
@@ -65,98 +75,145 @@ jQuery.extend(Drupal.settings, { "basePath": "/", "extlink": { "extTarget": 0, "
         }
     }
      
-     $(document).ready(function() {
-         enableCrossdomain();
+    $(document).ready(function() {
+        enableCrossdomain();
 
-         var login_name = readCookie(".devCanProfile");
-         if(readCookie("disable_autologin")!=1 && (login_name==null || login_name=='' || login_name=='null')){
-             $("#fb_auto_login_iframe").html('<iframe width="1" height="1" src="http://myjobs.classifiedpost.com/social/facebooklogin?from=autologin" id="auto_login_monitor"></iframe>');
-         }
+        // check if now is locating at the home page, and is using a mobile browser, redirect to the m.site
+        if( location.pathname === '/' ){
+            showVersionOption();
+        }
 
-         $("#forgotpassword").bind("click",function(){
-             $.msgBox({
-                 title:'FORGOT PASSWORD',
-                 content:'http://myjobs.classifiedpost.com/login/forgotpassword',
-                 width:632,
-                 height:300,
-                 type :'iframe',
-                 cache:false
-             })
-         });
+        var login_name = readCookie(".devCanProfile");
+        if(readCookie("disable_autologin")!=1 && (login_name==null || login_name=='' || login_name=='null')){
+            $("#fb_auto_login_iframe").html('<iframe width="1" height="1" src="http://myjobs.classifiedpost.com/social/facebooklogin?from=autologin" id="auto_login_monitor"></iframe>');
+        }
 
-         if($("#login_box .form").length>0){
-             $("#login_box #main_login_btn").bind("click",function(){
-                 $("#login_box .form").show();
-             });
+        $("#forgotpassword").bind("click",function(){
+            $.msgBox({
+                title:'FORGOT PASSWORD',
+                content:'http://myjobs.classifiedpost.com/login/forgotpassword',
+                width:632,
+                height:300,
+                type :'iframe',
+                cache:false
+            })
+        });
 
-             $("#login_box .form").bind("mousedown",function(e){
-                 inLoginForm=true;
-                 if(e.stopPropagation())
-                     e.stopPropagation();
-             });
+        if($("#login_box .form").length>0){
+            $("#login_box #main_login_btn").bind("click",function(){
+                $("#login_box .form").show();
+            });
 
-             $(document).bind("mousedown",function(){
-                 inLoginForm=false;
-             });
+            $("#login_box .form").bind("mousedown",function(e){
+                inLoginForm=true;
+                if(e.stopPropagation())
+                    e.stopPropagation();
+            });
 
-             $(document).bind("mouseup",function(){
-                 if(!inLoginForm){
-                     $("#login_box .form").hide();
-                     $("#login_box .register_popup").hide();
-                 }
-             });
+            $(document).bind("mousedown",function(){
+                inLoginForm=false;
+            });
 
-             //added multiple register popup window by ivan lee on 20120607;
-             $("#login_box #register_btn").bind("click",function(){
-                 $("#login_box .register_popup").show();
-             });
+            $(document).bind("mouseup",function(){
+                if(!inLoginForm){
+                    $("#login_box .form").hide();
+                    $("#login_box .register_popup").hide();
+                }
+            });
 
-             $("#login_box .register_popup").bind("mousedown",function(e){
-                 inLoginForm=true;
-                 if(e.stopPropagation())
-                     e.stopPropagation();
-             });
-         }
+            //added multiple register popup window by ivan lee on 20120607;
+            $("#login_box #register_btn").bind("click",function(){
+                $("#login_box .register_popup").show();
+            });
 
-         //facebook login added by ivan lee on 20120515;
-         $('#facebook_login_btn').click(function() {
-             signinWin = window.open('http://myjobs.classifiedpost.com/social/facebooklogin', "SignIn", "width=600,height=400,toolbar=0,scrollbars=0,status=0,resizable=0,location=0,menuBar=0");
-             signinWin.focus();
-             return false;
-         });
+            $("#login_box .register_popup").bind("mousedown",function(e){
+                inLoginForm=true;
+                if(e.stopPropagation())
+                    e.stopPropagation();
+            });
+        }
 
-         $('#facebook_register_btn').click(function() {
-             signinWin = window.open('http://myjobs.classifiedpost.com/social/facebooklogin?from=register', "SignIn", "width=600,height=400,toolbar=0,scrollbars=0,status=0,resizable=0,location=0,menuBar=0");
-             signinWin.focus();
-             return false;
-         });
-         
-         //google login added by ivan lee on 20120818;
-         $('#google_login_btn').click(function () {
-             signinWin = window.open('http://myjobs.classifiedpost.com/social/googlelogin', "SignIn", "width=620,height=430,toolbar=0,scrollbars=0,status=0,resizable=0,location=0,menuBar=0");
-             signinWin.focus();
-             return false;
-         });
+        //facebook login added by ivan lee on 20120515;
+        $('#facebook_login_btn').click(function() {
+            signinWin = window.open('http://myjobs.classifiedpost.com/social/facebooklogin', "SignIn", "width=600,height=400,toolbar=0,scrollbars=0,status=0,resizable=0,location=0,menuBar=0");
+            signinWin.focus();
+            return false;
+        });
 
-         $('#google_register_btn').click(function () {
-             signinWin = window.open('http://myjobs.classifiedpost.com/social/googlelogin?from=register', "SignIn", "width=620,height=430,toolbar=0,scrollbars=0,status=0,resizable=0,location=0,menuBar=0");
-             signinWin.focus();
-             return false;
-         });
-         
-         //linkedin login added by ivan lee on 20120818;
-         $('#linkedin_login_btn').click(function () {
-             signinWin = window.open('http://myjobs.classifiedpost.com/social/linkedinlogin', "SignIn", "width=440,height=581,toolbar=0,scrollbars=0,status=0,resizable=0,location=0,menuBar=0");
-             signinWin.focus();
-             return false;
-         });
-         
-         $('#linkedin_register_btn').click(function () {
-             signinWin = window.open('http://myjobs.classifiedpost.com/social/linkedinlogin?from=register', "SignIn", "width=440,height=581,toolbar=0,scrollbars=0,status=0,resizable=0,location=0,menuBar=0");
-             signinWin.focus();
-             return false;
-         });
-     });
+        $('#facebook_register_btn').click(function() {
+            signinWin = window.open('http://myjobs.classifiedpost.com/social/facebooklogin?from=register', "SignIn", "width=600,height=400,toolbar=0,scrollbars=0,status=0,resizable=0,location=0,menuBar=0");
+            signinWin.focus();
+            return false;
+        });
+
+        //google login added by ivan lee on 20120818;
+        $('#google_login_btn').click(function () {
+            signinWin = window.open('http://myjobs.classifiedpost.com/social/googlelogin', "SignIn", "width=620,height=430,toolbar=0,scrollbars=0,status=0,resizable=0,location=0,menuBar=0");
+            signinWin.focus();
+            return false;
+        });
+
+        $('#google_register_btn').click(function () {
+            signinWin = window.open('http://myjobs.classifiedpost.com/social/googlelogin?from=register', "SignIn", "width=620,height=430,toolbar=0,scrollbars=0,status=0,resizable=0,location=0,menuBar=0");
+            signinWin.focus();
+            return false;
+        });
+
+        //linkedin login added by ivan lee on 20120818;
+        $('#linkedin_login_btn').click(function () {
+            signinWin = window.open('http://myjobs.classifiedpost.com/social/linkedinlogin', "SignIn", "width=440,height=581,toolbar=0,scrollbars=0,status=0,resizable=0,location=0,menuBar=0");
+            signinWin.focus();
+            return false;
+        });
+
+        $('#linkedin_register_btn').click(function () {
+            signinWin = window.open('http://myjobs.classifiedpost.com/social/linkedinlogin?from=register', "SignIn", "width=440,height=581,toolbar=0,scrollbars=0,status=0,resizable=0,location=0,menuBar=0");
+            signinWin.focus();
+            return false;
+        });
+    });
+
+    function showVersionOption(){
+        if(isMobile() && readCookie("view_version")==undefined && !isIpad()){
+            window.top.location.href = "http://myjobs.classifiedpost.com/mobile/option";
+        }
+
+        if(isMobile() && readCookie("view_version")=="mobile" && !isIpad()){
+            window.top.location.href = "http://myjobs.classifiedpost.com/mobile/index";
+        }
+    }
+
+    function isMobile(){
+        if( navigator.userAgent.match(/mobile/i) ||
+          navigator.userAgent.match(/android/i) ||
+          navigator.userAgent.match(/webos/i) ||
+          navigator.userAgent.match(/iphone/i) ||
+          navigator.userAgent.match(/ipod/i) ||
+          navigator.userAgent.match(/ipad/i) ||
+          navigator.userAgent.match(/ios/i) ||
+          navigator.userAgent.match(/blackberry/) ||
+          navigator.userAgent.match(/windows phone/i) ||
+          navigator.userAgent.match(/wp7/i) ||
+          navigator.userAgent.match(/wp8/i) ||
+          screen.width < 500
+        ){
+          return true;
+        }
+
+        return false;
+    }
+
+    function isIpad(){
+        var ua = navigator.userAgent.toLowerCase();
+        var s;
+        s = ua.match(/iPad/i);
+
+        if(s=="ipad"){
+            return true;
+        }else{
+            return false;
+        }
+    }
 </script>
 
 <style type="text/css">
@@ -170,15 +227,25 @@ jQuery.extend(Drupal.settings, { "basePath": "/", "extlink": { "extTarget": 0, "
 <link href="http://www.classifiedpost.com/sites/default/themes/scmp_cp/css/jquery.msgbox.css" rel="stylesheet" type="text/css">
 
 <div id="scmp_master">
+    <!-- Beginning Sync AdSlot oop for Ad unit Classifiedpost.com/Homepage ### size:   -->
+    <div id="div-gpt-ad-145860321961273381-oop">
+        <script type="text/javascript">
+            googletag.display('div-gpt-ad-145860321961273381-oop');
+        </script>
+    </div>
+    <!-- End AdSlot oop -->
+    
     <div id="scmp_top">
         <div id="scmp_logo">
             <a href="http://www.classifiedpost.com"><img src="http://www.classifiedpost.com/sites/default/themes/scmp_cp/images/logo_ClassifiedPost.gif"></a>
         </div>
 
-        <div id="scmp_login_before" class="scmp_login" style="margin-right: -5px; padding: 0px; margin-top: 0px; position: relative;">
+        <div id="scmp_login_before" class="scmp_login" style="margin-right: -5px; padding: 0px; margin-top: 0px; position: relative; z-index: 100;">
             <div id="login_box">
                 <div>
-                    <strong><span class="font_red_14">my</span><span class="font_black_14">account</span></strong>
+					<a href="http://myjobs.classifiedpost.com/index.php/myjob/matchbox" style="text-decoration: none;">
+						<strong><span class="font_red_14">my</span><span class="font_black_14">account</span></strong>
+					</a>
                 </div>
                 
                 <div id="form_container">
@@ -236,7 +303,9 @@ jQuery.extend(Drupal.settings, { "basePath": "/", "extlink": { "extTarget": 0, "
             <div id="login_box">
                 <div>
                     <div style="float: left; *float: left;">
-                        <strong><span class="font_red_14">my</span><span class="font_black_14">account</span></strong>&nbsp;&nbsp;&nbsp;|&nbsp;<span style="font-size: 10px;">Welcome,</span>&nbsp;<span id="FFUserName" style="font-size: 10px;"></span>
+						<a href="http://myjobs.classifiedpost.com/index.php/myjob/matchbox" style="text-decoration: none;">
+							<strong><span class="font_red_14">my</span><span class="font_black_14">account</span></strong>&nbsp;&nbsp;&nbsp;|&nbsp;<span style="font-size: 10px;">Welcome,</span>&nbsp;<span id="FFUserName" style="font-size: 10px;"></span>
+						</a>
                     </div>
 
                     <div id="logout_link" style="float: right; *float: right;">
@@ -283,6 +352,9 @@ jQuery.extend(Drupal.settings, { "basePath": "/", "extlink": { "extTarget": 0, "
             GS_googleAddAdSenseService("ca-pub-1211130372129369");
             GS_googleEnableAllServices();
         </script>
+        <script type="text/javascript"> 
+        GA_googleAddAttr("CP_Home", "CP_ROS");
+        </script> 
         <script type="text/javascript">
             GA_googleAddSlot("ca-pub-1211130372129369", "CP_Top_Banner");
         </script>
@@ -296,8 +368,10 @@ jQuery.extend(Drupal.settings, { "basePath": "/", "extlink": { "extTarget": 0, "
                 GA_googleFillSlot("CP_Top_Banner");
             </script>
         </div>
+
     </div>
-</div><div id="scmp_topMenuBG">
+</div>
+<div id="scmp_topMenuBG">
       <div id="scmp_topMenu">
       <table cellspacing="0" cellpadding="0">
         <tbody><tr valign="top">
@@ -323,7 +397,7 @@ jQuery.extend(Drupal.settings, { "basePath": "/", "extlink": { "extTarget": 0, "
 <div id="scmpContent">
 
 <span class="print-link"></span><div style="margin: 0px; padding: 0px;">
-<div style="padding-bottom: 10px;" class="scmp_title">
+<div class="scmp_title" style="padding-bottom: 10px;">
 <table cellspacing="0" cellpadding="0">
 <tbody>
 <tr>
@@ -332,22 +406,22 @@ jQuery.extend(Drupal.settings, { "basePath": "/", "extlink": { "extTarget": 0, "
 </tbody>
 </table>
 </div>
-<div id="CareerCtr_content" style="width:100%">
+<div style="width:100%" id="CareerCtr_content">
 <div id="scmp_CareerCtr_content_bottomLine">
-<div id="CareerCtr_article" style="width:85%">
-<div class="scmp_CareerCtr_article_content" style="width:95%;text-align:justify;">
-<p>Welcome to the Classifiedpost.com Web site, owned and operated by theSCMP Group Limited and its subsidiary, affiliate and associate corporations, successors and assigns (collectively referred to as "<b>SCMP</b>", "<b>we</b>", "<b>our</b>" or "<b>us</b>").  Our products and services are offered through web pages at or linked to the uniform resource locator <a href="http://www.classifiedpost.com" class="scmp_txt_browse">http://www.classifiedpost.com</a>, (and other Web sites that we establish from time to time ("<b>Classifiedpost.com Web site</b>") and are made available subject to the terms and conditions set out in this statement. This statement ("<b>Privacy Policy</b>") describes the privacy practices we have adopted with respect to personal data in operating the Classifiedpost.com Web site.</p>
+<div style="width:85%" id="CareerCtr_article">
+<div style="width:95%;text-align:justify;" class="scmp_CareerCtr_article_content">
+<p>Welcome to the ClassifiedPost.com Web site, owned and operated by the SCMP Group Limited and its subsidiary, affiliate and associate corporations, successors and assigns (collectively referred to as "<b>SCMP</b>", "<b>we</b>", "<b>our</b>" or "<b>us</b>").  Our products and services are offered through web pages at or linked to the uniform resource locator <a class="scmp_txt_browse" href="http://www.classifiedpost.com">http://www.classifiedpost.com</a>, (and other Web sites that we establish from time to time ("<b>ClassifiedPost.com Web site</b>") and are made available subject to the terms and conditions set out in this statement. This statement ("<b>Privacy Policy</b>") describes the privacy practices we have adopted with respect to personal data in operating the ClassifiedPost.com Web site.</p>
 <p>"<b>Personal data</b>" means data relating directly or indirectly to an individual from which it is practicable for the identify of the individual to be directly or indirectly ascertained.</p>
-<p>"<b>You</b>" and "<b>Your</b>" when used in this Privacy Policy include any person who accesses the Classifiedpost.com Web site and submits personal data.</p>
+<p>"<b>You</b>" and "<b>Your</b>" when used in this Privacy Policy include any person who accesses the ClassifiedPost.com Web site and submits personal data.</p>
 <p>&nbsp;</p>
 <p><b>Our Commitment to Privacy</b></p>
-<p>Our Privacy Policy was developed as an extension of our commitment to seek to combine the highest quality products and services with the highest level of integrity in dealing with our clients and partners.  The Policy is designed to assist you in understanding how we collect, use and safeguard the personal data you provide to us and to assist you in making informed decisions when using the Classifiedpost.com Web site and our products and services.  We endeavour to continuously assess our privacy practices in light of new technologies, business practices and our customers' needs.  Our Privacy Policy may therefore be amended from time to time. You should check our Privacy Policy regularly to ensure you are aware of our latest policies.</p>
+<p>Our Privacy Policy was developed as an extension of our commitment to seek to combine the highest quality products and services with the highest level of integrity in dealing with our clients and partners.  The Policy is designed to assist you in understanding how we collect, use and safeguard the personal data you provide to us and to assist you in making informed decisions when using the ClassifiedPost.com Web site and our products and services.  We endeavour to continuously assess our privacy practices in light of new technologies, business practices and our customers' needs.  Our Privacy Policy may therefore be amended from time to time. You should check our Privacy Policy regularly to ensure you are aware of our latest policies.</p>
 <p>&nbsp;</p>
 <p><b>What Information Do We Collect?</b></p>
-<p>When you visit the Classifiedpost.com Web site, we may collect two types of information from you: personal data you knowingly choose to disclose that is collected on an individual basis and the Classifiedpost.com Web site use information collected on an aggregate basis as you and others browse the Classifiedpost.com Web site.</p>
+<p>When you visit the ClassifiedPost.com Web site, we may collect two types of information from you: personal data you knowingly choose to disclose that is collected on an individual basis and the ClassifiedPost.com Web site use information collected on an aggregate basis as you and others browse the ClassifiedPost.com Web site.</p>
 <p><b>1. Personal Information You Choose to Provide</b></p>
 <p><b>Registration</b></p>
-<p>During the registration process prior to using the Classifiedpost.com Web site, we require that you supply a unique subscriber ID and password, your name, e-mail address, mailing address and demographic information (country, age, sex, personal and household income, marital status, academic qualifications, employment status and occupation).  Failure to provide such information may result in our being unable to provide you with our services including access to the Classifiedpost.com Web site.  On occasion, we may also collect additional personal data from you in connection with optional contests, surveys, or special offers.   You agree that we may store and deal with any information you provide as part of the registration process or in connection with optional contests, surveys or special offers in accordance with this Privacy Policy.</p>
+<p>During the registration process prior to using the ClassifiedPost.com Web site, we require that you supply a unique subscriber ID and password, your name, e-mail address, mailing address and demographic information (country, age, sex, personal and household income, marital status, academic qualifications, employment status and occupation).  Failure to provide such information may result in our being unable to provide you with our services including access to the ClassifiedPost.com Web site.  On occasion, we may also collect additional personal data from you in connection with optional contests, surveys, or special offers.   You agree that we may store and deal with any information you provide as part of the registration process or in connection with optional contests, surveys or special offers in accordance with this Privacy Policy.</p>
 <p><b>Credit Card Information</b></p>
 <p>If you choose to purchase products or services from us, you may need to give personal data and authorise us to obtain information from various credit services.  For example, you may need to provide the following information:</p>
 <ul style="color: rgb(51, 51, 51);">
@@ -358,16 +432,16 @@ jQuery.extend(Drupal.settings, { "basePath": "/", "extlink": { "extTarget": 0, "
 <li>Credit card number, name of bank and expiry date</li>
 <li>Telephone or fax or pager number</li>
 </ul>
-<p>In addition to providing the foregoing personal data to us, if you chooseto correspond further with us through e-mail, we may retain the content of your e-mail messages together with your e-mail address and our responses. We provide the same protection for these electronic communications that we employ in the maintenance of information received by mail and telephone.</p>
-<p><b>2. Classifiedpost.com Web site Use Information</b></p>
+<p>In addition to providing the foregoing personal data to us, if you choose to correspond further with us through e-mail, we may retain the content of your e-mail messages together with your e-mail address and our responses. We provide the same protection for these electronic communications that we employ in the maintenance of information received by mail and telephone.</p>
+<p><b>2. ClassifiedPost.com Web site Use Information</b></p>
 <p><b>Cookies</b></p>
-<p>The Classifiedpost.com Web site utilises Web server logs and will use a standard technologycalled "cookies" (see explanation below, "What Are Cookies?") to recognize you and your access privileges on the Classifiedpost.com Web site as well as to collect information about how the Classifiedpost.com Web site is used.  Information gathered by using cookies and Web server logs may include the date and time of visits, the pages viewed, time spent at the Classifiedpost.com Web site, and the web sites you visited immediately before and after the Classifiedpost.com Web site.  This information is collected on an aggregate basis.  None of this information is associated with you as an individual.</p>
+<p>The ClassifiedPost.com Web site utilises Web server logs and will use a standard technologycalled "cookies" (see explanation below, "What Are Cookies?") to recognize you and your access privileges on the ClassifiedPost.com Web site as well as to collect information about how the ClassifiedPost.com Web site is used.  Information gathered by using cookies and Web server logs may include the date and time of visits, the pages viewed, time spent at the ClassifiedPost.com Web site, and the web sites you visited immediately before and after the ClassifiedPost.com Web site.  This information is collected on an aggregate basis.  None of this information is associated with you as an individual.</p>
 <p><b>IP Addresses</b></p>
-<p>We also log IP addresses, or the location of your computer on the Internet, for systems administration and troubleshooting purposes. We do not use IP address logs to track your session or your behaviour on the Classifiedpost.com Web site.</p>
+<p>We also log IP addresses, or the location of your computer on the Internet, for systems administration and troubleshooting purposes. We do not use IP address logs to track your session or your behaviour on the ClassifiedPost.com Web site.</p>
 <p><strong>Social Networking Sites ("SNS")</strong></p>
-<p>We collect your personal data when you register to join Classifiedpost.com / Smartjob.com by logging into an account that you already have with certain third-party SNS (including, but not limited to, Facebook) via our services. For example, our services allow you to create an account and login automatically to the services using your Facebook account credentials through Facebook Connect. If you are not currently registered as a user on the services and you click on "Sign in Using Facebook," you will first be asked to enter your Facebook credentials and then be given the option to register and join Classifiedpost.com / Smartjob.com. In this connection, your registration to join Classifiedpost/com / Smartjob.com indicates your consent to have your personal data be collected by us for the purpose(s) of managing your Classifiedpost.com / smartjob.com membership and/or providing related services to you. &nbsp;If you decide to create your user account by logging into a SNS via the services, you are using the personal data you have already provided to the SNS (such as your "real" name, email address and other information you make publicly available via the SNS that may identify you) to create your user account on our services. &nbsp;The personal data we collect may depend on the privacy settings you have with the SNS, so please consult the SNS’s privacy and data practices and consider if you need to change your privacy settings as appropriate. If you decide at any time that you no longer wish to have your SNS account (e.g., Facebook) linked to your Classifiedpost.com / Smartjob.com account, then you should disconnect the SNS account in the "social network" section in your profile settings.</p>
+<p>We collect your personal data when you register to join ClassifiedPost.com / JiuJik.com / SmartJob.com by logging into an account that you already have with certain third-party SNS (including, but not limited to, Facebook) via our services. For example, our services allow you to create an account and login automatically to the services using your Facebook account credentials through Facebook Connect. If you are not currently registered as a user on the services and you click on "Sign in Using Facebook," you will first be asked to enter your Facebook credentials and then be given the option to register and join ClassifiedPost.com / JiuJik.com / SmartJob.com. In this connection, your registration to join ClassifiedPost.com / JiuJik.com / SmartJob.com indicates your consent to have your personal data be collected by us for the purpose(s) of managing your ClassifiedPost.com / JiuJik.com / SmartJob.com membership and/or providing related services to you. &nbsp;If you decide to create your user account by logging into a SNS via the services, you are using the personal data you have already provided to the SNS (such as your "real" name, email address and other information you make publicly available via the SNS that may identify you) to create your user account on our services. &nbsp;The personal data we collect may depend on the privacy settings you have with the SNS, so please consult the SNS’s privacy and data practices and consider if you need to change your privacy settings as appropriate. If you decide at any time that you no longer wish to have your SNS account (e.g., Facebook) linked to your ClassifiedPost.com / JiuJik.com / SmartJob.com account, then you should disconnect the SNS account in the "social network" section in your profile settings.</p>
 <p><b>How Do We Use the Information That You Provide to Us?</b></p>
-<p>Broadly speaking, we use personal data for purposes of administering our business activities, providing customer service and making available other products and services to our customers and prospective customers. Occasionally, we may also use the personal data we collect to notify you about important changes to the Classifiedpost.com Web site, new services and special offers we think you will find valuable.  The lists used to send you product and service offers are developed and managed under our traditional corporate standards designed to safeguard the security and privacy of our customers' personal data.  You will be given the opportunity to notify us of your desire not to receive these offers.</p>
+<p>Broadly speaking, we use personal data for purposes of administering our business activities, providing customer service and making available other products and services to our customers and prospective customers. Occasionally, we may also use the personal data we collect to notify you about important changes to the ClassifiedPost.com Web site, new services and special offers we think you will find valuable.  The lists used to send you product and service offers are developed and managed under our traditional corporate standards designed to safeguard the security and privacy of our customers' personal data.  You will be given the opportunity to notify us of your desire not to receive these offers.</p>
 <p>The main purposes for which personal data may be used by us are:</p>
 <ul style="color: rgb(51, 51, 51);">
 <li>Processing your application or registration for our services, enquiry or feedback</li>
@@ -391,7 +465,7 @@ jQuery.extend(Drupal.settings, { "basePath": "/", "extlink": { "extTarget": 0, "
 <li>Any personnel, agent, adviser, auditor, contractor or service provider who provides services or advice to us in connection with our operations;</li>
 <li>Any person under a duty of confidentiality to us;</li>
 <li>Any person to whom we are required to make disclosure under any law applicable in or outside Hong Kong; and</li>
-<li>Any actual or proposed transferee of our business or the Classifiedpost.com Web site or any part of our business or Classifiedpost.com Web site or participant in our operations.</li>
+<li>Any actual or proposed transferee of our business or the ClassifiedPost.com Web site or any part of our business or ClassifiedPost.com Web site or participant in our operations.</li>
 </ul>
 <p>You should also note that the privacy protection as set out in this Privacy Policy does not apply to personal data which is passed to third parties, and we are not responsible for the protection of your personal data or lack thereof by such third parties.</p>
 <p>Except as otherwise provided in this Privacy Policy, personal data about you as an individual subscriber will not be provided to any third party without your consent.</p>
@@ -401,27 +475,27 @@ jQuery.extend(Drupal.settings, { "basePath": "/", "extlink": { "extTarget": 0, "
 <p>&nbsp;</p>
 <p><b>What Do We Do with the Information We Gather?</b></p>
 <p>Statistical Analysis and Banner Advertising</p>
-<p>We may perform statistical analyses of user behaviour in order to measure interest in the various areas of the Classifiedpost.com Web site (for product development purposes) and to inform advertisers as to how many consumers have seen or "clicked" their advertising banners. We also use demographic and preference information to allow advertising banners on the Classifiedpost.com Web site to be targeted, in aggregate, to the readers for whom they are most relevant. This means that readers see advertising that is most likely to interest them, and advertisers send their messages to people who are most likely to be receptive, improving both the viewer's experience and the effectiveness of the advertisement. For these purposes, we will disclose information to third parties only in aggregate form.</p>
+<p>We may perform statistical analyses of user behaviour in order to measure interest in the various areas of the ClassifiedPost.com Web site (for product development purposes) and to inform advertisers as to how many consumers have seen or "clicked" their advertising banners. We also use demographic and preference information to allow advertising banners on the ClassifiedPost.com Web site to be targeted, in aggregate, to the readers for whom they are most relevant. This means that readers see advertising that is most likely to interest them, and advertisers send their messages to people who are most likely to be receptive, improving both the viewer's experience and the effectiveness of the advertisement. For these purposes, we will disclose information to third parties only in aggregate form.</p>
 <p>&nbsp;</p>
 <p><b>What Are Cookies?</b></p>
 <p>Cookies are a feature of Web browser software that allows Web servers to recognize the computer used to access a Web site.  They are small pieces of data that are stored by a user's Web browser on the user's hard drive.  Cookies can remember what information a user accesses on one Web page to simplify subsequent interactions with that Web site by the same user or to use the information to streamline the user's transactions on related Web pages.  This makes it easier for a user to move from Web page to Web page and to complete commercial transactions over the Internet.  Cookies should make your online experience easier and more personalized.</p>
 <p>&nbsp;</p>
 <p><b>How Do We Use Information We Collect from Cookies?</b></p>
-<p>We use Web site browser software tools such as cookies and Web server logs to gather information about the Classifiedpost.com Web site users' browsing activities in order to constantly improve the Classifiedpost.com Web site and better serve our customers. This information assists us to design and arrange our Web pages in the most user-friendly manner and to continually improve the Classifiedpost.com Web site to better meet the needs of our customers and prospective customers.</p>
-<p>Cookies help us collect important business and technical statistics. The information in the cookies lets us trace the paths followed by users of our Website as they move from one page to another.  Web server logs allow us to count how many people visit the Classifiedpost.com Web site and evaluate the Classifiedpost.com Web site's visitor capacity.  We do not use these technologies to capture your individual e-mail address or any personally identifying data about you although they do permit us to send focused online banner advertisements and other such responses to you.</p>
-<p>From time to time you may notice offers from outside companies advertised on the Classifiedpost.com Web site.  We endeavour to take measures to select product or service providers that are responsible and afford privacy protections to their customers.  However, we do not make any representations about the practices and policies of these companies. You may opt-out of sharing your personal data with such affiliates by choosing not to use their service or content.</p>
+<p>We use Web site browser software tools such as cookies and Web server logs to gather information about the ClassifiedPost.com Web site users' browsing activities in order to constantly improve the ClassifiedPost.com Web site and better serve our customers. This information assists us to design and arrange our Web pages in the most user-friendly manner and to continually improve the ClassifiedPost.com Web site to better meet the needs of our customers and prospective customers.</p>
+<p>Cookies help us collect important business and technical statistics. The information in the cookies lets us trace the paths followed by users of our Website as they move from one page to another.  Web server logs allow us to count how many people visit the ClassifiedPost.com Web site and evaluate the ClassifiedPost.com Web site's visitor capacity.  We do not use these technologies to capture your individual e-mail address or any personally identifying data about you although they do permit us to send focused online banner advertisements and other such responses to you.</p>
+<p>From time to time you may notice offers from outside companies advertised on the ClassifiedPost.com Web site.  We endeavour to take measures to select product or service providers that are responsible and afford privacy protections to their customers.  However, we do not make any representations about the practices and policies of these companies. You may opt-out of sharing your personal data with such affiliates by choosing not to use their service or content.</p>
 <p>&nbsp;</p>
 <p><b>How Do We Share Information with Strategic Partners?</b></p>
 <p>We may enter into strategic marketing alliances or partnerships with third parties who may be given access to personal information including your name, address, telephone number and e-mail for the purpose of providing you information regarding products and services that we think will be of interest to you. In connection with strategic marketing alliances or partnerships, we will retain all ownership rights to your personal data.</p>
 <p>&nbsp;</p>
 <p><b>Notice of New Services and Changes</b></p>
-<p>Occasionally, we may also use the information we collect to notify you about important changes to the Classifiedpost.com Web site, and new services and special offers we think you will find valuable. As our client, you will be given the opportunity to notify us of your desire not to receive these offers by clicking on a response box when you receive such an offer or by sending us an e-mail request at <a href="mailto:info@classifiedpost.com" class="scmp_txt_browse">info@classifiedpost.com</a>.</p>
+<p>Occasionally, we may also use the information we collect to notify you about important changes to the ClassifiedPost.com Web site, and new services and special offers we think you will find valuable. As our client, you will be given the opportunity to notify us of your desire not to receive these offers by clicking on a response box when you receive such an offer or by sending us an e-mail request at <a class="scmp_txt_browse" href="mailto:info@classifiedpost.com">info@classifiedpost.com</a>.</p>
 <p>&nbsp;</p>
 <p><b>Information Transmissions</b></p>
 <p>Personal data or e-mail that you send to us may not be secure unless we advise you that security measures will be in place prior to your transmitting the information.</p>
 <p>&nbsp;</p>
 <p><b>Direct Marketing</b></p>
-<p>In accordance with the requirements of the Ordinance, SCMPP will honor an individual’s request not to use his or her personal data for the purposes of direct marketing.  Should you wish not to receive direct marketing material from Classifiedpost.com Web site or SCMPP, please write to our Personal Data Privacy Officer at the address listed below.</p>
+<p>In accordance with the requirements of the Ordinance, SCMPP will honor an individual’s request not to use his or her personal data for the purposes of direct marketing.  Should you wish not to receive direct marketing material from ClassifiedPost.com Web site or SCMPP, please write to our Personal Data Privacy Officer at the address listed below.</p>
 <blockquote><p>Personal Data Privacy Officer<br>South China Morning Post Publishers Limited<br>Morning Post Centre, 22 Dai Fat Street,<br>Tai Po Industrial Estate,<br>New Territories,<br>Hong Kong</p></blockquote>
 <p>Any such request should clearly state details of the personal data in respect of which the request is being made.  Please also state clearly the authority under which you are authorized to make such a request.</p>
 <p>Unless otherwise instructed as per the above, we may use any of the personal data collected in the normal course of our business for marketing purposes.</p>
@@ -457,12 +531,12 @@ jQuery.extend(Drupal.settings, { "basePath": "/", "extlink": { "extTarget": 0, "
 <p>We retain personal data so long as the data is still required for the purposes mentioned above.</p>
 <p>We reserve the right to retain copies indefinitely for our archives.</p>
 <p>&nbsp;</p>
-<p><b>What About Other Web sites Linked to the Classifiedpost.com Web site?</b></p>
-<p>Please note that the Classifiedpost.com Web site contains links to other sites and occasionally allows other sites to be co-branded with the Classifiedpost.com name. Please remember that when you use a link to go from our Website to another Web site or when you use a co-branded site, our Privacy Policy is no longer in effect.  Your browsing and interaction on any other Web site, including Web sites that have a link to the Classifiedpost.com Web site, is subject to that Web site's own rules and policies which may differ from that of the Classifiedpost.com Web site.</p>
+<p><b>What About Other Web sites Linked to the ClassifiedPost.com Web site?</b></p>
+<p>Please note that the ClassifiedPost.com Web site contains links to other sites and occasionally allows other sites to be co-branded with the ClassifiedPost.com name. Please remember that when you use a link to go from our Website to another Web site or when you use a co-branded site, our Privacy Policy is no longer in effect.  Your browsing and interaction on any other Web site, including Web sites that have a link to the ClassifiedPost.com Web site, is subject to that Web site's own rules and policies which may differ from that of the ClassifiedPost.com Web site.</p>
 <p>We are not responsible for the practices employed by websites linked to or from our Website nor the information or content contained therein. Often links to other websites are provided solely as pointers to information on topics that may be useful to the users of our Website.</p>
 <p>&nbsp;</p>
 <p><b>Your Consent</b></p>
-<p>By using the Classifiedpost.com Web site you consent to our collection and use of your personal data as described in this Privacy Policy.  If we change our privacy policies and procedures, we will post those changes on the Classifiedpost.com Web site to keep you aware of what information we collect, how we use it and under what circumstances we may disclose it.</p>
+<p>By using the ClassifiedPost.com Web site you consent to our collection and use of your personal data as described in this Privacy Policy.  If we change our privacy policies and procedures, we will post those changes on the ClassifiedPost.com Web site to keep you aware of what information we collect, how we use it and under what circumstances we may disclose it.</p>
 </div>
 </div>
 </div>
@@ -493,8 +567,10 @@ jQuery.extend(Drupal.settings, { "basePath": "/", "extlink": { "extTarget": 0, "
     <li class="useFulItem"><a href="http://www.classifiedpost.com/directory/employer " target="_blank" class="useful">Employers Directory</a></li>  </div>
   <div class="views-row views-row-6 views-row-even">
     <li class="useFulItem"><a href="http://www.classifiedpost.com/directory/agency " target="_blank" class="useful">Agencies Directory</a></li>  </div>
-  <div class="views-row views-row-7 views-row-odd views-row-last">
+  <div class="views-row views-row-7 views-row-odd">
     <li class="useFulItem"><a href="http://www.classifiedpost.com/salary-index " target="_blank" class="useful">Salary Index 2012</a></li>  </div>
+  <div class="views-row views-row-8 views-row-even views-row-last">
+    <li class="useFulItem"><a href="http://myjobs.classifiedpost.com/mobile/index " target="_blank" class="useful">Mobile Version</a></li>  </div>
 </ul>
             </div>
             
@@ -576,13 +652,13 @@ jQuery.extend(Drupal.settings, { "basePath": "/", "extlink": { "extTarget": 0, "
   <div class="views-row views-row-4 views-row-even">
       
   <div class="views-field-url">
-                <span class="field-content"><li class="useFulItem"><a href="http://www.gov.hk/en/about/abouthk/holiday/2012.htm " target="_blank" class="useful">HK 2012 General holidays</a></li></span>
+                <span class="field-content"><li class="useFulItem"><a href="http://www.gov.hk/en/about/abouthk/holiday/ " target="_blank" class="useful">HK 2013 General holidays</a></li></span>
   </div>
   </div>
   <div class="views-row views-row-5 views-row-odd">
       
   <div class="views-field-url">
-                <span class="field-content"><li class="useFulItem"><a href="http://www.labour.gov.hk/eng/news/latest_holidays2012.htm " target="_blank" class="useful">HK 2012 Statutory holidays</a></li></span>
+                <span class="field-content"><li class="useFulItem"><a href="http://www.labour.gov.hk/eng/news/latest_holidays2013.htm " target="_blank" class="useful">HK 2013 Statutory holidays</a></li></span>
   </div>
   </div>
   <div class="views-row views-row-6 views-row-even">
@@ -653,7 +729,7 @@ jQuery.extend(Drupal.settings, { "basePath": "/", "extlink": { "extTarget": 0, "
   <div class="scmp_footer">
   <table width="100%" cellspacing="0" cellpadding="0"> 
     <tbody><tr>
-        <td style="width:50%">Copyright © 2012. South China Morning
+        <td style="width:50%">Copyright © 2013. South China Morning
         Post Publishers Ltd. All rights reserved.</td>
         <td align="right"><strong><a href="http://www.scmpgroup.com/" target="_blank">SCMP Group</a></strong> | <a href="http://www.classifiedpost.com/privacy-policy" target="_blank">Privacy Policy</a> | <a href="http://www.classifiedpost.com/career-centre/faq" target="_blank">FAQs</a> | <a href="http://www.classifiedpost.com/sitemap" target="_blank">Sitemap</a> | <a href="http://www.classifiedpost.com/about-us" target="_blank">About Us</a> |  &nbsp;<a href="http://www.scmp.com" target="_blank"><img style="vertical-align: middle" src="http://www.classifiedpost.com/sites/default/themes/scmp_cp/images/logo_scmp.gif" width="131" height="12"></a></td>
     </tr>
@@ -669,7 +745,7 @@ jQuery.extend(Drupal.settings, { "basePath": "/", "extlink": { "extTarget": 0, "
 <!-- Start of XMO Insight Tag for Pageview -->
   <img src="http://e02.optimix.asia/trackingdata?imgtag=1&amp;opxUid=0&amp;opxEventID=2376&amp;opxClientID=424&amp;opxcounter=1" width="0" height="0" border="0">
   <!-- End of XMO Insight Tag  -->
-<script type="text/javascript" src="/sites/default/files/js/js_098da88164d67e50492432725fad0066.js"></script>
+<script type="text/javascript" src="/sites/default/files/js/js_3134c7ba536cfb9c1d45be0e32ca13cd.js"></script>
 <script type="text/javascript">
 <!--//--><![CDATA[//><!--
 var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
