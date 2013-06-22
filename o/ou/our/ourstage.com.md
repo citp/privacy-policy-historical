@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the ourstage.com privacy policy that was archived on 2012-10-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121010211145id_/http%3A//www.ourstage.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ourstage.com privacy policy that was archived on 2013-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130622024957id_/http%3A//www.ourstage.com/about/privacy) for the most accurate reproduction.*
 
-# OurStage Privacy Policy | OurStage
+# OurStage Privacy Policy
 
 This Privacy Policy describes the information collection and use procedures at this website, located at OurStage.com ("Site"), owned by OurStage, Inc. This notice describes our online information collection and use practices at this Site. 
 
