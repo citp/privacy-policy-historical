@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the bitdefender.net privacy policy that was archived on 2012-10-14.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121014081033id_/http%3A//www.bitdefender.com/site/view/privacy_policy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the bitdefender.net privacy policy that was archived on 2013-06-22.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130622073201id_/http%3A//www.bitdefender.com/site/view/privacy_policy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 <title>Privacy Policy</title>
@@ -15,12 +15,16 @@
 
 
 
+
 <script>var DEFAULT_LANGUAGE = 'en';</script><script>var LOCALE = 'en-us';</script>
 
 <script type="text/javascript" language="javascript" src="http://download.bitdefender.com/resources/scripts/default.js"></script>
 <script type="text/javascript" language="javascript" src="http://download.bitdefender.com/resources/scripts/multilang/en.js"></script>
 
 <script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js"></script>
+<script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jqueryui/1.8.18/jquery-ui.min.js"></script>
+<script type="text/javascript" src="http://download.bitdefender.com/resources/themes/red/scripts/jquery.browser.js"></script>
+
 <script type="text/javascript">
 try
 {
@@ -31,7 +35,8 @@ try
     }
 }
 catch(e) {}
-</script><script src="/site/Store/ajax/?gev=1&amp;m=jq&amp;rf=https%3A%2F%2Fweb.archive.org%2Fweb%2F20121014081033id_%2Fhttp%253A%2F%2Fwww.bitdefender.com%2Fsite%2Fview%2Fprivacy_policy.html" type="text/javascript"></script>
+</script><script src="/site/Store/ajax/?gev=1&amp;m=jq&amp;rf=https%3A%2F%2Fweb.archive.org%2Fweb%2F20130622073201id_%2Fhttp%253A%2F%2Fwww.bitdefender.com%2Fsite%2Fview%2Fprivacy_policy.html" type="text/javascript"></script>
+
 
 <script>
     BASE_URI = "";
@@ -41,7 +46,7 @@ catch(e) {}
     }
     catch(ex)
     {
-    
+
     }
 </script>
 
@@ -60,14 +65,14 @@ catch(e) {}
     <script>
     var THEME = 'red';
     </script>
-    
+
     <script type="text/javascript">var longwords = 0;</script>
-    <script type="text/javascript" language="javascript" src="http://download.bitdefender.com/resources/media/scripts/main.9f7f7.js"></script>
-	
-	<script type="text/javascript" src="http://download.bitdefender.com/resources/themes/red/scripts/bitdefender.min.js?ver=94"></script>
-	
-    <link rel="stylesheet" href="http://download.bitdefender.com/resources/themes/red/css/cssmin.css?ver=679" type="text/css">
-	
+    <script type="text/javascript" language="javascript" src="http://download.bitdefender.com/resources/media/scripts/main.9492b.js"></script>
+
+	<script type="text/javascript" src="http://download.bitdefender.com/resources/themes/red/scripts/bitdefender.min.js?ver=118"></script>
+
+    <link rel="stylesheet" href="http://download.bitdefender.com/resources/themes/red/css/cssmin.css?ver=1087" type="text/css">
+
     <!--[if lt IE 7]>
 	<script type="text/javascript" src="http://download.bitdefender.com/resources/themes/red/scripts/DD_belatedPNG_0.0.8a-min.js"></script>
         <script type="text/javascript" src="http://download.bitdefender.com/resources/themes/red/scripts/ie6calls.js"></script>
@@ -75,9 +80,11 @@ catch(e) {}
     <!--[if IE 7]>
         <link rel="stylesheet" href="http://download.bitdefender.com/resources/themes/red/css/ie7.css" type="text/css"/>
     <![endif]-->
-    
+
             
     
+
+ <link rel="stylesheet" href="http://download.bitdefender.com/resources/themes/red/css/css3.css" type="text/css">
 
 <script>
     try
@@ -93,19 +100,49 @@ catch(e) {}
     {
 
     }
+
+	//functie care isi da seama daca ai Windows 8
+	function windows8Detect(){
+				var UA = navigator.userAgent;
+				var detectWV = UA.search("Windows NT 6.2"); //NT 6.2 = Windows 8
+
+				if(detectWV != -1) return true;
+	}
 </script>
 
 <script>
 $(document).ready(function(){
+	//detecteaza EN, UK sau AU si vede daca SO este Windows 8 si rearanjeaza Home Users Menu
+	/*if(DEFAULT_LANGUAGE == 'en' || DEFAULT_LANGUAGE == 'uk' || DEFAULT_LANGUAGE == 'au')
+	{
+		if(windows8Detect())
+		{
+			$('#sph').remove(); //Sphere Link de sus este ascunsa
+			$('#fampack').remove(); //Family Pack de sus este ascunsa
+			$('#formac').remove(); //For Mac de jos este ascunsa
+			$('#ts').remove(); //Total Security 2013 de jos este ascunsa
+
+			$('#w8fampack').show(); //Pune Family Pack
+			$('#w8ts').show(); //Pune Total Security 2013
+			$('#w8sec').show(); //Pune Windows 8 Security
+		}
+		else
+		{
+			$('#w8fampack').remove();
+			$('#w8ts').remove();
+			$('#w8sec').remove();
+		}
+	}*/
+
 	$("#nav-one").dropmenu();
-	
+
 	//$('#navigation ul').fullWidthNav();
 	$("#navigation ul li a").click(function() {
 		if ( $(this).attr('href') == '#' || $(this).attr('href') == 'javaScript:void(0);') {
 			window.location.hash = $(this).text().toLowerCase().replace(/ /g,'-');
 			return false; //Prevent the browser jump to the link anchor
 		}
-	});	
+	});
 });
 </script>
 <script type="text/javascript">
@@ -119,15 +156,17 @@ $(document).ready(function(){
 			$("#searchToggle").css("background-image", "none");
 			$("#searchToggle").css("border-left", "1px solid transparent");
 			$("#searchToggle").css("border-right", "1px solid transparent");
+            $(".searchicon").css("background", "url(/themes/red/images/search_icon_menu_hover.png) no-repeat scroll 0 0 transparent");
 		}
 		else
 		{
-			$("#searchToggle").css("background-image", "url(/themes/red/images/over_menu.png)");
-			$("#searchToggle").css("border-left", "1px solid black");
-			$("#searchToggle").css("border-right", "1px solid black");
+			$("#searchToggle").css("background-image", "url(/themes/red/images/over_menu_white.png)");
+			$("#searchToggle").css("border-left", "1px solid white");
+            $("#searchToggle").css("border-right", "1px solid white");
+			$(".searchicon").css("background", "url(/themes/red/images/search_icon_menu_hover.png) no-repeat scroll 0 bottom transparent");
 		}
 		$("#searchToggle").css("background-repeat", "repeat-x");
-		
+
 		return false;
 	});
 });
@@ -143,22 +182,31 @@ var WRInitTime=(new Date()).getTime();
 </script>
 
 
-    <script src="http://download.bitdefender.com/resources/scripts/TagIT.v1.min.js?v=40" type="text/javascript"></script>
+    <script src="http://download.bitdefender.com/resources/scripts/TagIT.v1.min.js?v=41" type="text/javascript"></script>
     <script>tagit = new TagIT('en');</script>
 
 
 
+	<style>
+		.nl .header_background, .pt .header_background {
+			background: url("http://download.bitdefender.com/resources/themes/red/images/header_lansare.png") no-repeat scroll center top #000000 !important;
+		}
+	</style>
 	<script>
 	images = new Image();
 	images.src = '/themes/red/images/homepage_banner_boxes_image2.png';
 	function endOfClip() {
-		if (DEFAULT_LANGUAGE == 'de' || DEFAULT_LANGUAGE == 'es' || DEFAULT_LANGUAGE == 'ro' || DEFAULT_LANGUAGE == 'it' || DEFAULT_LANGUAGE == 'pt' || DEFAULT_LANGUAGE == 'br' || DEFAULT_LANGUAGE == 'nl')
+		if (DEFAULT_LANGUAGE == 'es' || DEFAULT_LANGUAGE == 'ro' || DEFAULT_LANGUAGE == 'it' || DEFAULT_LANGUAGE == 'pt' || DEFAULT_LANGUAGE == 'br' || DEFAULT_LANGUAGE == 'nl' || DEFAULT_LANGUAGE == 'de' )
 		{
 			$(".launch2013").css("background", "url(/themes/red/images/homepage_banner_boxes_image2.png) no-repeat");
+			if (DEFAULT_LANGUAGE == 'de') {
+				$(".launch2013").css("background", "url(/themes/red/images/homepage_banner_boxes_image2_de_new.png) no-repeat");
+			}
+
 			if ($.browser.mozilla)
 			{
 				$("#logowolfie").css("left", "302px");
-				$(".launch2013").css("margin-left", "61px");
+				$(".launch2013").css("margin-left", "63px");
 				$("#logowolfie").fadeIn(300);
 				$("#launchban").fadeIn(300);
 				$("#pcmagedchoice").fadeIn(300);
@@ -171,11 +219,13 @@ var WRInitTime=(new Date()).getTime();
 				$("#pcmagedchoice").fadeIn(300);
 				$("#flashAnim").hide();
 			}
-			
-			$("#flashAnim").remove();
+
+			setTimeout(function() {
+			    $("#flashAnim").remove();
+			}, 500);
 
 		}
-		
+
 		//$(".jcarousel-item:not(.launch2013)").css("margin-top", "50px");
 		//$(".launch2013").css("top", "10px").css("top", "9px")
 	}
@@ -191,7 +241,7 @@ var WRInitTime=(new Date()).getTime();
 		//$("form").jqTransform();
 	});
 </script><div class="header_simplepage_avatar">
-	<div class="searchBoxDiv">
+	<div class="searchBoxDiv newSearch">
 		<div class="top_search_div">
 		<form method="get" id="searchform" class="donttransform" action="http://www.bitdefender.com/site/Search/showMain/">
 			<input type="text" class="top_search" value="search" onfocus="if(this.value=='search')this.value='';" onblur="if(this.value=='')this.value='search'" id="searchBox" name="query">
@@ -204,22 +254,73 @@ var WRInitTime=(new Date()).getTime();
 		<div class="menu_left" id="topNavContainer">
 			<div class="menu_center">
 				<ul class="dropmenu" id="nav-one">
-					<li><a href="http://www.bitdefender.com/" name="Bitdefender Home" class="homeicon01"><img src="http://download.bitdefender.com/resources/themes/red/images/home_icon.png" alt="Bitdefender Antivirus"></a></li> 
-					<li class="haschildren"><a href="http://www.bitdefender.com/solutions/">Home Users</a>
-						<ul class="submenu">
-																																	<li><a href="http://www.bitdefender.com/solutions/sphere.html">Bitdefender Sphere 2013</a></li>
-																											<li><a href="http://www.bitdefender.com/solutions/total-security.html">Bitdefender Total Security 2013</a></li>
-									<li><a href="http://www.bitdefender.com/solutions/internet-security.html">Bitdefender Internet Security 2013</a></li>
-									<li><a href="http://www.bitdefender.com/solutions/antivirus.html">Bitdefender Antivirus Plus 2013</a></li>								
-																											 
-																								
-																								<li><a href="http://www.bitdefender.com/solutions/antivirus-comparison.html">Product Comparison</a></li>
-																								<li><a href="http://www.bitdefender.com/premium-services/">Premium Services</a></li>
-																								<li><a class="last" href="http://www.bitdefender.com/Downloads/">Downloads</a></li>
-																					</ul>
-					</li>
+
+					
+					<li class="white homelogo"><a href="http://www.bitdefender.com/" name="Bitdefender Home">Bitdefender Antivirus</a></li>
+					<li class="haschildren white"><a href="http://www.bitdefender.com/solutions/">Home Users</a>
+						                        <div class="bigmenu submenu">
+                            <dl class="transparent">
+                                <dt>For Windows</dt>
+                                <dd>
+                                    <ul class="columnmenu">
+                                                                                <li><a href="http://www.bitdefender.com/solutions/windows-8-security.html">Bitdefender Windows 8 Security</a></li>
+                                                                                <li><a href="http://www.bitdefender.com/solutions/total-security.html">Bitdefender Total Security 2013</a></li>
+                                        <li><a href="http://www.bitdefender.com/solutions/internet-security.html">Bitdefender Internet Security 2013</a></li>
+                                        <li><a href="http://www.bitdefender.com/solutions/antivirus.html">Bitdefender Antivirus Plus 2013</a></li>
+                                                                                <li><a href="http://www.bitdefender.com/solutions/antivirus-comparison.html">Product Comparison</a></li>
+                                        <li><a href="http://www.bitdefender.com/renewal/?icid=menu_quickrenew">Renew &amp; Upgrade</a></li>
+                                        <li><a href="http://www.bitdefender.com/Downloads/">Downloads</a></li>
+                                    </ul>
+                                </dd>
+                            </dl>
+                            <dl class="transparent ">
+                                <dt>For Mobile</dt>
+                                <dd>
+                                <ul class="columnmenu">
+
+                                    <li><a href="http://www.bitdefender.com/solutions/mobile-security-android.html">Bitdefender Mobile Security</a></li>
+
+                                                                        <li><a href="http://www.bitdefender.com/solutions/anti-theft.html">Bitdefender Anti-Theft</a></li>
+                                                                    </ul>
+                                </dd>
+                                <dt>Packs</dt>
+                                <dd>
+                                    <ul class="columnmenu">
+                                                                                <li><a href="http://www.bitdefender.com/solutions/sphere.html">Bitdefender Sphere 2013</a></li>
+                                                                                                                                                                <li id="fampack"><a href="http://www.bitdefender.com/solutions/family-pack.html">Bitdefender Family Pack</a></li>
+                                                                                                                        <li><a href="http://www.bitdefender.com/solutions/pc-care-plan.html">Bitdefender PC Care Plan</a></li>
+                                                                            </ul>
+                                </dd>
+                                <dt>Privacy</dt>
+                                <dd>
+                                    <ul class="columnmenu">
+                                        <li><a href="http://www.bitdefender.com/solutions/parental-control.html">Bitdefender Parental Control</a></li>
+                                        <li><a href="http://www.bitdefender.com/solutions/clueful.html">Bitdefender Clueful</a></li>
+                                    </ul>
+                                </dd>
+                            </dl>
+                                                        <dl class="transparent nosep">
+                                                                <dt>For Mac</dt>
+                                <dd>
+                                    <ul class="columnmenu">
+                                                                                <li><a href="http://www.bitdefender.com/solutions/antivirus-for-mac.html">Bitdefender Antivirus for Mac</a></li>
+                                                                                                                        <li><a href="http://www.bitdefender.com/solutions/antivirus-for-mac-and-pc.html">Bitdefender Antivirus for Mac and PC</a></li>
+                                                                            </ul>
+                                </dd>
+                                                                                                <dt><a href="http://www.bitdefender.com/premium-services/">Premium Services</a></dt>
+                                <dd>
+                                    <ul class="columnmenu">
+                                        <li><a href="http://www.bitdefender.com/premium-services/install-and-configure.html">Install &amp; Configure</a></li>
+                                        <li><a href="http://www.bitdefender.com/premium-services/virus-and-spyware-removal.html">Malware removal</a></li>
+                                        <li><a href="http://www.bitdefender.com/premium-services/windows-tune-up.html">Tune-up</a></li>
+                                                                                <li><a href="http://www.bitdefender.com/premium-services/windows-debugging.html">Windows Debugging</a></li>
+                                                                            </ul>
+                                </dd>
+                                                            </dl>
+                                                    </div>
+                        					</li>
 										<!-- <li class="haschildren"><a href="http://www.bitdefender.com/business/">Small Businesses</a>
-						<ul class="submenu"> 
+						<ul class="submenu">
 							<li><a href="http://www.bitdefender.com/business/cloud.html">Cloud Security for Endpoints</a></li>
 							<li><a href="http://www.bitdefender.com/business/client-security.html">Bitdefender Client Security</a></li>
 							<li><a href="http://www.bitdefender.com/business/security-for-mail-servers.html">Bitdefender Security for Mail Servers</a></li>
@@ -227,33 +328,54 @@ var WRInitTime=(new Date()).getTime();
 						</ul>
 					</li>
 					-->
-					<li class="haschildren"><a href="http://www.bitdefender.com/business/">Small Businesses</a>
-						<ul class="submenu"> 
-							<li><a href="http://www.bitdefender.com/business/packs.html">Small Business Solutions</a></li>
+					<li class="haschildren white"><a href="http://www.bitdefender.com/business/">Small Businesses</a>
+						<!-- <ul class="submenu white">
+							<li><a href="http://www.bitdefender.com/business/small-business-security.html">Small Business Solutions</a></li>
 							<li><a href="http://www.bitdefender.com/business/cloud.html">Cloud Security for Endpoints</a></li>
 							<li><a class="last" href="http://www.bitdefender.com/business/client-security.html">On-premise Products</a></li>
-						</ul>
+						</ul> -->
 					</li>
-					<li class="haschildren"><a href="http://enterprise.bitdefender.com/">Enterprises</a>
-						<ul class="submenu"> 
+					<!-- <li class="haschildren"><a href="http://enterprise.bitdefender.com/">Enterprises</a>
+						<ul class="submenu">
 							<li><a href="http://enterprise.bitdefender.com/solutions-and-services/hosted-security.html">Hosted Security</a></li>
 							<li><a href="http://enterprise.bitdefender.com/solutions-and-services/on-premise-security.html">On-premise Security</a></li>
 							<li><a href="http://enterprise.bitdefender.com/solutions-and-services/enterprises-virtualization-security.html">Virtualization Security</a></li>
 							<li><a class="last" href="http://enterprise.bitdefender.com/solutions-and-services/service-providers.html">Service Providers</a></li>
 						</ul>
+					</li> -->
+                                                            <li class="white"><a href="http://enterprise.bitdefender.com/">Enterprise</a></li>
+                    					<li class="haschildren white"><a href="http://www.bitdefender.com/support/">Support</a>
+					<ul class="submenu white">
+							<li><a href="http://www.bitdefender.com/support/consumer.html">Home Users</a></li>
+							<li><a href="http://www.bitdefender.com/support/business.html">Business</a></li>
+							 							<li><a href="http://www.bitdefender.com/premium-services/">Premium Services</a></li>
+																					<li><a href="http://forum.bitdefender.com/">Forum</a></li>
+														<li><a class="last" href="http://www.bitdefender.com/support/contact-us.html">Contact Us</a></li>
+													</ul>
 					</li>
-                    										<!-- old one
-					<li class="haschildren"><a href="">OEM</a>
-						<ul class="submenu"> 
-							<li><a href="http://www.bitdefender.com/site/view/oem-partners.html#overview">Overview</a></li>
-							<li><a href="http://www.bitdefender.com/site/view/oem-partners.html#products">Products</a></li>
-							<li><a href="http://www.bitdefender.com/site/view/oem-partners.html#licensing-models">Licensing Models</a></li>
-							<li><a class="last" href="http://www.bitdefender.com/site/view/oem-partners.html#contact-us">Contact Us</a></li>
+					<li class="haschildren white"><a href="http://www.bitdefender.com/toolbox/" title="">Toolbox</a>
+						<ul class="submenu white">
+							<li><a href="http://www.bitdefender.com/Downloads/" title="">Trial Downloads</a></li>
+																							<li><a href="http://www.bitdefender.com/solutions/free.html" title="">Free Antivirus</a></li>
+															<li><a href="http://www.bitdefender.com/scanner/online/free.html" title="">Free Online Virus Scanner</a></li>
+							<li><a href="http://www.bitdefender.com/solutions/antivirus-free-for-android.html" title="">Antivirus Free for Android</a></li>
+							                                                        <li><a href="http://www.bitdefender.com/solutions/clueful-android.html" title="">Clueful for Android</a></li>
+                            							<li><a href="http://www.bitdefender.com/free-virus-removal/" title="">Virus Removal Tools</a></li>
+							<li><a href="http://www.bitdefender.com/toolbox/freeapps/desktop/" title="">Free Desktop Apps</a></li>
+							<li><a href="http://www.bitdefender.com/toolbox/freeapps/mobile/" title="">Free Mobile Apps</a></li>
+														<li><a class="last" href="http://www.bitdefender.com/funzone/" title="">FunZone</a></li>
+													</ul>
+					</li>
+					<li class="haschildren white"><a href="http://www.bitdefender.com/partners/">Partners</a>
+						<ul class="submenu white">
+							<li><a href="http://www.bitdefender.com/partners/#Become a partner">Sales Partners</a></li>
+							<li><a href="http://www.bitdefender.com/partners/#Technology partners">Technology Partners</a></li>
+														<li><a href="http://www.bitdefender.com/partners/#Online affiliates">Online Affiliates</a></li>
+							<li><a class="last" href="http://www.bitdefender.com/partners/#Partner Locator">Partner Locator</a></li>
 						</ul>
 					</li>
-					-->
-					<li class="haschildren"><a href="http://www.bitdefender.com/oem/">OEM</a>
-						<ul class="submenu"> 
+										<li class="haschildren white"><a href="http://www.bitdefender.com/oem/">OEM</a>
+						<ul class="submenu white">
 							<li><a href="http://www.bitdefender.com/oem/#Overview">Overview</a></li>
 														<li><a href="http://www.bitdefender.com/oem/mobile-products.html">Mobile Protection</a></li>
 														<li><a href="http://www.bitdefender.com/oem/endpoint-protection.html">Endpoint Protection</a></li>
@@ -262,52 +384,87 @@ var WRInitTime=(new Date()).getTime();
 							<!-- <li><a class="last" href="http://www.bitdefender.com/oem/#Contact Us">Contact Us</a></li> -->
 						</ul>
 					</li>
-										<li class="haschildren"><a href="http://www.bitdefender.com/support/">Support</a>
-					<ul class="submenu"> 
-							<li><a href="http://www.bitdefender.com/support/consumer.html">Home Users</a></li>
-							<li><a href="http://www.bitdefender.com/support/business.html">Business</a></li>
-							 							<li><a href="http://www.bitdefender.com/premium-services/">Premium Services</a></li>
-																					<li><a href="http://forum.bitdefender.com/">Forum</a></li>
-														<li><a class="last" href="http://www.bitdefender.com/support/contact-us.html">Contact Us</a></li>
-													</ul>
+										<li class="haschildren white"><a href="http://www.bitdefender.com/site/view/about-us.html">Company</a>
+						<div class="bigmenu submenu companymenu">
+							<dl class="transparent">
+								<dt><a href="http://www.bitdefender.com/site/view/about-us.html">About Us</a></dt>
+								<dd>
+									<ul class="columnmenu">
+										<li><a href="http://www.bitdefender.com/site/view/leadership.html">Management</a></li>
+										<li><a href="http://www.bitdefender.com/site/view/our-story.html">Our Story</a></li>
+										<li><a href="http://www.bitdefender.com/site/view/brand_guidelines.html">Brand Guidelines</a></li>
+										<li><a href="http://www.bitdefender.com/site/view/awards.html">Awards &amp; Certifications</a></li>
+										<li><a class="last" href="http://www.bitdefender.com/site/view/careers.html">Job Opportunities</a></li>
+									</ul>
+								</dd>
+							</dl>
+							<dl class="transparent nosep">
+								<dt><a href="http://www.bitdefender.com/resourcecenter/">Resource Center</a></dt>
+								<dd>
+									<ul class="columnmenu">
+																				<li><a href="http://www.bitdefender.com/blog/" title="">Bitdefender Blog</a></li>
+																														<li><a href="http://www.bitdefender.com/presscenter/" title="">Press Center</a></li>
+										<li><a href="http://www.bitdefender.com/news/" title="">News</a></li>
+																														<li><a href="http://www.bitdefender.com/security/" title="">Industry news</a></li>
+																			</ul>
+								</dd>
+							</dl>
+						</div>
 					</li>
-                    					<li class="haschildren"><a href="http://www.bitdefender.com/resourcecenter/">Resource Center</a>
-						<ul class="submenu"> 
-														<li><a href="http://www.bitdefender.com/blog/" title="">Bitdefender Blog</a></li>
-																					<li><a href="http://www.bitdefender.com/presscenter/" title="">Press Center</a></li>
-							<li><a href="http://www.bitdefender.com/news/" title="">News</a></li>							
-																												<li><a href="http://www.bitdefender.com/security/" title="">Industry news</a></li>
-																					<li><a href="http://www.bitdefender.com/funzone/" title="">FunZone</a></li>
-																					<li><a class="last" href="http://www.bitdefender.com/freetools/" title="">Free Tools</a></li>
-													</ul>
-					</li>
-                    					<li class="haschildren"><a href="http://www.bitdefender.com/partners/">Partners</a>
-						<ul class="submenu"> 
-							<li><a href="http://www.bitdefender.com/partners/#Become a partner">Sales Partners</a></li>
-							<li><a href="http://www.bitdefender.com/partners/#Technology partners">Technology Partners</a></li>
-							<li><a href="http://www.bitdefender.com/partners/#Online affiliates">Online Affiliates</a></li>
-							<li><a class="last" href="http://www.bitdefender.com/partners/#Partner Locator">Partner Locator</a></li>
-						</ul>
-					</li>
-					<li class="haschildren"><a href="http://www.bitdefender.com/site/view/about-us.html">About Us</a>
-						<ul class="submenu">
-							<li><a href="http://www.bitdefender.com/site/view/leadership.html">Management</a></li>
-							<li><a href="http://www.bitdefender.com/site/view/our-story.html">Our Story</a></li>
-							<li><a href="http://www.bitdefender.com/site/view/brand_guidelines.html">Brand Guidelines</a></li>							
-							<li><a href="http://www.bitdefender.com/site/view/awards.html">Awards &amp; Certifications</a></li>							
-							<li><a class="last" href="http://www.bitdefender.com/site/view/careers.html">Job Opportunities</a></li>
-						</ul>
-					</li>
+
 									</ul>
 			</div>
-			<div class="menu_right">
+			<div class="menu_right newDesign">
+
+                                <a href="https://my.bitdefender.com/" target="_blank" rel="nofollow" class="opacity_link mybitdeficon">My Bitdefender</a>
+                
 				<script type="text/javascript" src="http://download.bitdefender.com/resources/themes/red/scripts/countryselector.js"></script>
-				<a onclick="$('#countryselector').toggle();selectortolist();return false;" href="#" class="opacity_link en_flag menu_country"></a>				<div id="countryselector">
-					<span class="langselect"><script type="text/javascript">showCountriesWorking200('red');</script></span> 
+				<a onclick="$('#countryselector').toggle();selectortolist();return false;" href="#" class="opacity_link menu_country"></a>
+				<div id="countryselector">
+					<span class="langselect"><script type="text/javascript">showCountriesWorking200('red');</script></span>
 					<div class="countrylist"></div>
 				</div>
-								<a href="https://my.bitdefender.com/" target="_blank" rel="nofollow" class="opacity_link mybitdeficon">My Bitdefender</a>
-								<a href="#" id="searchToggle" rel="nofollow" class="opacity_link"><span class="searchicon"></span><span class="text">Search</span></a>
+
+                                                <script>
+                $(document).ready(function () {
+                    $("#shopContainer").dropmenu();
+                    $("#shopContent").cartWidget({
+                        countId:"shopNotif",
+                        texts: {
+                            'Your Cart': 'Your Cart',
+                            'View cart': 'View cart',
+                            'TOTAL': 'TOTAL',
+                            'CHECKOUT': 'CHECKOUT',
+                            'Discount': 'Discount',
+                            'PC': 'PC',
+                            'PCs': 'PCs',
+                            'Intervention': 'Intervention',
+                            'Interventions': 'Interventions',
+                            'Year': 'Year',
+                            'Years': 'Years',
+                            'Your cart is empty.': 'Your cart is empty.'
+                        }
+                    });
+                    setInterval(function () {
+                        $('#shopNotif').effect('shake', {direction:'up', times:3, distance:3});
+                    },8000);
+                });
+                </script>
+                <style>
+                #shopContainer .shoppingCart {background-position: 7px 12px; padding: 17px 7px 20px 27px;}
+                #shopContainer #shopContent {top: 37px;}
+                </style>
+                <ul id="shopContainer" class="haschildren" style="float: left; padding: 0px; position: relative; top: -12px;">
+                    <li>
+                        <a class="opacity_link shoppingCart" href="#"><span id="shopNotif">0</span></a>
+                        <div id="shopContent" class="submenu"></div>
+                    </li>
+                </ul>
+                
+				<a href="#" id="searchToggle" rel="nofollow" class="opacity_link"><span class="searchicon"></span></a>
+								<!-- <a href="http://enterprise.bitdefender.com/" class="opacity_link enterprise">Enterprise</a> -->
+				
+
 			</div>
 		</div>
 		</div>
@@ -321,8 +478,8 @@ var WRInitTime=(new Date()).getTime();
 </div>
 
 
-    
-    <div id="wrap" class="wrap_header_business_page">
+
+<div id="wrap" class="wrap_header_business_page">
 	<div class="bd_logo_header"><a href="http://www.bitdefender.com/" title="Bitdefender" class="logosite"></a></div>
 	<!-- <h1 class="bd_page_title"></h1> -->
 	<div class="wolf_header"></div>
@@ -384,7 +541,7 @@ var WRInitTime=(new Date()).getTime();
 }
 </style>
 
-<script>var referer='http://www.bitdefender.com/';</script>
+<script>var referer='';</script>
 <div class="tab_content_left_description">
 	<p>BITDEFENDER is very cautious about how your information is collected when you surf our websites and enter information about yourself and how this information is used and shared with others. We appreciate your trust and it is very important to us. This notice describes our privacy policy. BY VISITING ANY OF OUR WEBSITES, YOU AGREE WITH THE PRACTICES DESCRIBED IN THIS PRIVACY STATEMENT. The information that you give us helps us personalize and continually improve your experience with us. </p>
 	<p> We receive and store any information you enter on our Web site or give us in any other way for responding to your requests, improving our website, customizing future shopping and services for you, and to communicate with you for special offers, bonuses, sales, and related marketing information and activities. </p>
@@ -423,7 +580,7 @@ var WRInitTime=(new Date()).getTime();
 																									<li><a href="http://www.bitdefender.com/solutions/antivirus-for-mac.html">Bitdefender Antivirus for Mac</a></li>
 																		<li><a href="http://www.bitdefender.com/solutions/antivirus-for-mac-and-pc.html">Bitdefender Antivirus for Mac and PC</a></li>
 																		<li><a href="http://www.bitdefender.com/solutions/mobile-security-android.html">Bitdefender Mobile Security for Android</a></li>
-																		<li><a href="http://www.bitdefender.com/solutions/antivirus-comparison.html">Bitdefender 2013 Product Comparison</a></li>
+																								<li><a href="http://www.bitdefender.com/solutions/antivirus-comparison.html">Bitdefender 2013 Product Comparison</a></li>
 											</ul>
 				</div>
 			</div>
@@ -443,21 +600,21 @@ var WRInitTime=(new Date()).getTime();
 				<div class="footer_title">Latest News</div>
 				<div class="footer_list_container">
 					<ul class="button_links_footer footer_link">
-						<li><a href="http://www.bitdefender.com/security/confidential-information-on-thousands-of-students-in-florida-stolen.html">Confidential information on thousands of students in Florida stolen</a></li><li><a href="http://www.bitdefender.com/security/new-firefox-16-pulled-by-mozilla-to-fix-vulnerability.html">New Firefox 16 Pulled by Mozilla to Fix Vulnerability </a></li><li><a href="http://www.bitdefender.com/security/iran-cyber-defense-counters-critical-infrastructure-attacks.html">Iran Cyber Defense Counters Critical Infrastructure Attacks</a></li>					</ul>
+						<li><a href="http://www.bitdefender.com/news/focusit-chooses-security-as-a-service-for-aws-by-bitdefender-2716.html">focusIT chooses Security-as-a-Service for AWS by Bitdefender </a></li><li><a href="http://www.bitdefender.com/security/us-and-russia-united-against-cyber-threats.html">US and Russia United against Cyber Threats</a></li><li><a href="http://www.bitdefender.com/security/anonymous-hacks-and-leaks-filipino-president-s-private-phone-number.html">Anonymous Hacks and Leaks Filipino President's Private Phone Number</a></li><li><a target="_blank" href="http://labs.bitdefender.com/2013/04/new-tdl-clones-in-the-wild/">New TDL Clones in the Wild</a></li><li><a target="_blank" href="http://labs.bitdefender.com/2013/04/btc-acceptance-rising-among-cyber-thieves/">BTC Acceptance Rising – Among Cyber-thieves</a></li>					</ul>
 				</div>
 			</div>
 			<div class="container">
 				<div class="footer_title">Tools &amp; Resources</div>
 				<div class="footer_list_container">
 					<ul class="button_links_footer footer_link">
-						<li class="fqres"><a href="http://www.bitdefender.com/renewal/" title="Renew Product Licence">Renew Product Licence</a></li>
+						<li class="fqres"><a href="http://www.bitdefender.com/renewal/?icid=bottom_quickrenew" title="Renew Product Licence">Renew Product Licence</a></li>
 												<li><a href="http://www.bitdefender.com/news/" title="Defense Center">Defense Center</a></li>
-												<li><a href="http://www.bitdefender.com/scanner/online/free.html" title="Free Online Virus Scanner">Free Online Virus Scanner</a></li>
+																		<li><a href="http://www.bitdefender.com/scanner/online/free.html" title="Free Online Virus Scanner">Free Online Virus Scanner</a></li>
 						<li><a href="http://www.bitdefender.com/Downloads/" title="Trial Versions">Trial Versions</a></li>
 												<li><a href="http://www.bitdefender.com/solutions/free.html" title="Free Antivirus">Free Antivirus</a></li>
 						 
-																		<li><a href="http://www.bitdefender.com/free-virus-removal/" title="Free Virus Removal Tools">Free Virus Removal Tools</a></li>						
-					</ul>
+																		<li><a href="http://www.bitdefender.com/free-virus-removal/" title="Free Virus Removal Tools">Free Virus Removal Tools</a></li>
+																	</ul>
 				</div>
 			</div>            
 		</div>
@@ -596,7 +753,7 @@ $(document).ready(function(){
 	}
 	if(multilang_js['DEFAULT_LANGUAGE'] == 'de')
 	{
-		if(geoip_country_code() == 'CH')
+		if('us' == 'CH')
 		{
 		$("li.fqres").append(' <span class="offerqr">Treuerabatt</span>');
 		}
@@ -635,56 +792,61 @@ $(document).ready(function(){
 	<![endif]--> 
 
 	    <!-- SiteCatalyst code version: v.1.1 (custom) -->
-    <script language="JavaScript" type="text/javascript" src="http://download.bitdefender.com/resources/scripts/omniture/2012100419/code.js"></script>
+    <script language="JavaScript" type="text/javascript">Omniture=(function(){var settings={suiteId:'bitdefendercomdev'};return settings;})();</script>
+    <script language="JavaScript" type="text/javascript" src="http://download.bitdefender.com/resources/scripts/omniture/2013020621/code.js"></script>
     <script language="JavaScript" type="text/javascript"><!--
     /************* DO NOT ALTER ANYTHING BELOW THIS LINE ! **************/
-    oPageName('us:content:static pages:privacy policy');  oSiteHierarchy('us', 'us:content', 'us:content:static pages');  oSiteTeritory('www.bitdefender.com', 'www.sjc1.vdc.bitdefender.net', 'United States', 'us');         var s_code=s.t();if(s_code)document.write(s_code)//--></script>
+    oPageName('us:content:static pages:privacy policy');  oSiteHierarchy('us', 'us:content', 'us:content:static pages');  oSiteTeritory('www.bitdefender.com', 'www.wdc1.vdc.bitdefender.net', 'United States', 'us');         var s_code=s.t();if(s_code)document.write(s_code)//--></script>
     <script language="JavaScript" type="text/javascript"><!--
     if(navigator.appVersion.indexOf('MSIE')>=0)document.write(unescape('%3C')+'\!-'+'-')
     //--></script><!--/DO NOT REMOVE/-->
     <!-- /SiteCatalyst code version: v.1.1 (custom) -->
-    <!-- Google Code for Users that visited the site Remarketing List -->
-<script type="text/javascript">
-/* <![CDATA[ */
-var google_conversion_id = 1067661104;
-var google_conversion_language = "en";
-var google_conversion_format = "3";
-var google_conversion_color = "666666";
-var google_conversion_label = "ibX7CICu_AEQsO6M_QM";
-var google_conversion_value = 0;
-/* ]]> */
-</script>
-<script type="text/javascript" src="https://www.googleadservices.com/pagead/conversion.js">
-</script>
-<noscript>
-<div style="display:inline;">
-<img height="1" width="1" style="border-style:none;" alt="" src="https://www.googleadservices.com/pagead/conversion/1067661104/?label=ibX7CICu_AEQsO6M_QM&amp;guid=ON&amp;script=0"/>
+                             
+<div style="display:none;">
+	<!-- Google Code for General Tag -Com website -->
+	<!-- Remarketing tags may not be associated with personally identifiable information or placed on pages related to sensitive categories. For instructions on adding this tag and more information on the above requirements, read the setup guide: google.com/ads/remarketingsetup -->
+	<script type="text/javascript">
+	/* <![CDATA[ */
+	var google_conversion_id = 1067661104;
+	var google_conversion_label = "snGpCKjj6AQQsO6M_QM";
+	var google_conversion_format = "3";
+	var google_custom_params = window.google_tag_params;
+	var google_remarketing_only = true;
+	/* ]]> */
+	</script>
+	<script type="text/javascript" src="//www.googleadservices.com/pagead/conversion.js">
+	</script>
+	<noscript>
+	<div style="display:inline;">
+	<img height="1" width="1" style="border-style:none;display:none;" alt="" src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/1067661104/?value=0&amp;label=snGpCKjj6AQQsO6M_QM&amp;guid=ON&amp;script=0"/>
+	</div>
+	</noscript>
 </div>
-</noscript>
+
+	
 
 
-	    <script type="text/javascript" src="https://px.steelhousemedia.com/st?aid=9764&amp;cb=86755336985237300&amp;shcv=&amp;shcq=&amp;shcp=&amp;shpn=&amp;shpc=&amp;shpp=&amp;shpb=&amp;shpi=&amp;shps=&amp;tdr=&amp;plh=https%3A%2F%2Fweb.archive.org%2Fweb%2F20121014081033id_%2Fhttp%253A%2F%2Fwww.bitdefender.com%2Fsite%2Fview%2Fprivacy_policy.html"></script><script type="text/javascript">
-	    var shver='2.8.6'; 
-	    var shpn='';
-	    var shpc='';
-	    var shpp='';
-	    var shpb='';
-	    var shpi='';
-	    var shps='';
-	    var shcv='';
-	    var shcq='';
-	    var shcp='';
-	    var additional='';
-	    var aid='9764';var tdr='';if (top.document.referrer != ''){tdr = encodeURIComponent(top.document.referrer);}var plh='';if (parent.location.href != ''){plh = encodeURIComponent(parent.location.href);}shpi = encodeURIComponent(shpi);(function(){steelhouse={add:function(a,b,c,d){d=d||false;if(a.addEventListener){a.addEventListener(b,c,d)}else if(a.attachEvent){a.attachEvent("on"+b,c)}},load:function(){var a;if(typeof a=='undefined'){a=Math.random()*100000000000000000}var b=document.createElement('script');var c='px.steelhousemedia.com/st?aid='+aid+'&cb='+a+'&shcv='+shcv+'&shcq='+shcq+'&shcp='+shcp+'&shpn='+shpn+'&shpc='+shpc+'&shpp='+shpp+'&shpb='+shpb+'&shpi='+shpi+'&shps='+shps+'&tdr='+tdr+'&plh='+plh+additional;b.type='text/javascript';b.src=('https:'==document.location.protocol?'https://':'http://')+c;var d=document.getElementsByTagName('script');var e=Number(d.length)-1;var f=document.getElementsByTagName('script')[e];f.parentNode.insertBefore(b,f)}};steelhouse.load();})();
-	    </script>
-<img src="//p.rfihub.com/ca.gif?rb=2485&amp;ca=20492653&amp;ra=1350202233254" height="0" width="0" style="display:none" alt="Rocket Fuel">		<script type="text/javascript"> 
 
-		var ftRandom = Math.random()*1000000; 
 
-		document.write('<iframe style="position:absolute; visibility:hidden; width:1px; height:1px;" src="http://servedby.flashtalking.com/container/2249;9854;1226;iframe/?spotName=Product_Comparison_Page&ftXRef=[%INSERT_TRANSACTION_ID_HERE%]&ftXValue=[%INSERT_TRANSACTION_VALUE_HERE%]&ftXNumItems=[%INSERT_TRANSACTION_QUANTITY_HERE%]&cachebuster='+ftRandom+'"></iframe>'); 
 
-		</script><iframe style="position:absolute; visibility:hidden; width:1px; height:1px;" src="http://servedby.flashtalking.com/container/2249;9854;1226;iframe/?spotName=Product_Comparison_Page&amp;ftXRef=[%INSERT_TRANSACTION_ID_HERE%]&amp;ftXValue=[%INSERT_TRANSACTION_VALUE_HERE%]&amp;ftXNumItems=[%INSERT_TRANSACTION_QUANTITY_HERE%]&amp;cachebuster=903706.101766793"></iframe>
-		
+			    <script type="text/javascript" src="https://px.steelhousemedia.com/st?shver=3.3.1&amp;shaid=9764&amp;shcv=&amp;shcq=&amp;shcp=&amp;shpn=&amp;shpc=&amp;shpp=&amp;shpb=&amp;shpi=&amp;shps=&amp;shpil=&amp;tdr=&amp;plh=https%3A%2F%2Fweb.archive.org%2Fweb%2F20130622073201id_%2Fhttp%253A%2F%2Fwww.bitdefender.com%2Fsite%2Fview%2Fprivacy_policy.html&amp;cb=22803316453124412"></script><script type="text/javascript">
+				    function shencode(s){if(s!=undefined){s=s.replace(/%/g,'%25%32%35');s=s.replace(/\\/g,'%5C');s=s.replace(/\'/g,'%27');s=s.replace(/\"/g,'%22');s=s.replace(/\?/g,'%25%33%46');s=s.replace(/&/g,'%25%32%36');s=s.replace(/\+/g,'%25%32%42');}return s;}
+				    (function(){var steelhouse=null,shver="3.3.1",
+				    shaid="9764",
+				    shpn=shencode(""),
+				    shpc=shencode(""),
+				    shpp="",
+				    shpb=shencode(""),
+				    shpi="",
+				    shps="",
+				    shpil="",
+				    shcv="",
+				    shcq="",
+				    shcp="",
+				    shadditional="",
+				    tdr,urlNew,plh;try{tdr=top.document.referer!==""?encodeURIComponent(top.document.referrer.substring(0,256)):"";}catch(tdr_e){tdr=document.referrer!==null?document.referrer.toString().substring(0,256):"";}try{urlNew=window&&window.top&&document.location&&window.top.location===document.location?document.location:window&&window.top&&window.top.location&&""!==window.top.location?window.top.location:document.location;}catch(urlNew_e){urlNew=document.location;}try{plh=parent.location.href!==""?encodeURIComponent(parent.location.href.toString().substring(0,256)):"";}catch(plh_e){try{plh=urlNew!==null?encodeURIComponent(urlNew.toString().substring(0,256)):"";}catch(urlNew_e1){plh="";}}shpi=encodeURIComponent(shpi);steelhouse={add:function(a,b,c,d){d=d||false;if(a.addEventListener){a.addEventListener(b,c,d);}else{if(a.attachEvent){a.attachEvent("on"+b,c);}}},load:function(){var a,b=document.createElement("script"),c=null,d=document.getElementsByTagName("script"),e=Number(d.length)-1,f=document.getElementsByTagName("script")[e];if(typeof a==="undefined"){a=Math.floor(Math.random()*100000000000000000);}c="px.steelhousemedia.com/st?shver="+shver+"&shaid="+shaid+"&shcv="+shcv+"&shcq="+shcq+"&shcp="+shcp+"&shpn="+shpn+"&shpc="+shpc+"&shpp="+shpp+"&shpb="+shpb+"&shpi="+shpi+"&shps="+shps+"&shpil="+shpil+"&tdr="+tdr+"&plh="+plh+"&cb="+a+shadditional;b.type="text/javascript";b.src=("https:"===document.location.protocol?"https://":"http://")+c;f.parentNode.insertBefore(b,f);}};steelhouse.load();}());
+			    </script>
+	
 		
     
 </body></html>
