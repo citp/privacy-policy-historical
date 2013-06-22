@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the wink.com privacy policy that was archived on 2012-08-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120826023844id_/http%3A//www.mylife.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wink.com privacy policy that was archived on 2013-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130622064923id_/http%3A//www.mylife.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | MyLife
 
-MyLife.com® respects your privacy. Our staff, contractors, and others who help us operate our websites follow this policy on privacy and fair information practices for online activities of MyLife.com®. For the purposes of the Data Protection Act 1998, MyLife.com, Inc. 2118 Wilshire Blvd. Box 1008, Santa Monica, CA 90403-5784 is the data controller. 
+MyLife.com® respects your privacy. Our staff, contractors, and others who help us operate our websites follow this policy on privacy and fair information practices for online activities of MyLife.com®. For the purposes of the Data Protection Act 1998, MyLife.com, Inc. 914 Westwood Blvd #517 Los Angeles, CA 90024-2905 is the data controller. 
 
 This Privacy Policy applies to information MyLife.com, Inc. (“MyLife”) collects online through its websites and other domains including MyLife.com® and other domains owned and operated by MyLife ("MyLife.com Sites")., including Member Profile information you provide us, and information we collect about site visitors via technology such as cookies. Other domains include [www.addressbook.com](http://www.addressbook.com/), [www.myaddressbook.com](http://www.myaddressbook.com/), [www.reunion.com](http://www.reunion.com/), [www.highschoolalumni.com](http://www.highschoolalumni.com/), [www.MyLife.com](http://www.mylife.com/), [www.whoislookingforyou.com](http://www.whoislookingforyou.com/), [www.whoissearchingforyou.com](http://www.whoissearchingforyou.com/), [www.whosesearchingforyou.com](http://www.whosesearchingforyou.com/), [www.whossearchingforyou.com](http://www.whossearchingforyou.com/), [www.wink.com](http://www.wink.com/) and [www.goodcontacts.com](http://www.goodcontacts.com/). This policy also describes our information practices with regard to information we may have obtained about you from public records, referred to as Public Profile information. For more information about this new service, please visit our Frequently Asked Questions page, available [here](http://server.iad.liveperson.net/hc/s-58923351/cmd/kbresource/kb-1608502091874064910/front_page!PAGETYPE).
 
@@ -156,7 +156,7 @@ If any change to this Privacy Policy is unacceptable to you, you agree that your
 If you have any other questions about the MyLife.com® Privacy Policy, please contact us by email at [privacy@mylife.com](mailto:privacy@mylife.com) or write to us at: 
 
   **MyLife.com, Inc.**   
-2118 Wilshire Blvd. Box 1008   
-Santa Monica, CA 90403-5784 
+914 Westwood Blvd #517   
+Los Angeles, CA 90024-2905
 
 Last updated: December 29, 2011 
