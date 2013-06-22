@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cudo.com.au privacy policy that was archived on 2012-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121228171448id_/http%3A//cudo.com.au/company/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cudo.com.au privacy policy that was archived on 2013-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130622185522id_/http%3A//cudo.com.au/company/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -13,7 +13,7 @@ This Privacy Policy is designed to tell you as much as possible about how CUDO u
 CUDO is bound by the National Privacy Principles (“NPPs”) contained in the Privacy Act 1998 (Cth) (the “Privacy Act”).   
 In this ever changing world CUDO may, from time to time, review and update this privacy policy to take account of new laws and technology and changes to CUDOs operations. All personal information held by CUDO will be governed by CUDO's most recent policy. The most recent Privacy Policy will always be available on our website at www.cudo.com.au/privacy or by contacting the CUDO Privacy Officer at the address below.
 
-Any questions regarding this Privacy Policy or complaints regarding how we handle your personal information should be sent to CUDO’s Privacy Officer at Cudo.com.au Pty Ltd PO Box 40, Pyrmont, Sydney, New South Wales.
+Any questions regarding this Privacy Policy or complaints regarding how we handle your personal information should be sent to CUDO’s Privacy Officer at Cudo Pty Ltd PO Box 40, Pyrmont, Sydney, New South Wales.
 
 **What kind of personal information does CUDO collect and how does CUDO collect it?  
 **  
@@ -58,7 +58,9 @@ If you have opted in to receive newsletters, communications or special offers fr
 
   **Secure Online Transactions  
 **  
-If you purchase a Coupon through our website, we process your credit card details securely over the Internet using eWAY’s bank-grade data centre (eWAY is an accredited Internet payment security system authorised as a third party processor for all major Australian banks). With the combination of transaction performed under 128 Bit SSL Certificate on our website and a secure browser at your end, we take all measures to ensure that your credit card and anonymity are protected when you purchase online.
+If you purchase a Coupon through our website, we process your credit card details securely over the Internet using eWAY’s bank-grade data centre (eWAY is an accredited Internet payment security system authorised as a third party processor for all major Australian banks). With the combination of transaction performed under 128 Bit SSL Certificate on our website and a secure browser at your end, we take all measures to ensure that your credit card and anonymity are protected when you purchase online. 
+
+Alternatively, you can purchase using PayPal. PayPal secures your information using 128 Bit SSL to encrypt your confidential information.
 
 **Links to Third Party Websites from CUDO Websites**
 
@@ -137,16 +139,25 @@ As part of our policy, CUDO ensures that:
 
 ·        every group email we send to our customer base also contains an unsubscribe option.
 
-When we are notified by someone that they wish to unsubscribe, they are unsubscribed automatically and within 48 hours of the unsubscribe option being activated (if not sooner). 
+When we are notified by someone that they wish to unsubscribe, they are unsubscribed automatically and within 48 hours of the unsubscribe option being activated (if not sooner).
+
+Customers can also unsubscribe by following these steps: 
+
+1\. Login to your **_Cudo account_**
+
+2\. Click on your **_account_**
+
+3\. Under " ** _Select your preferences_** " un-tick the box " ** _Email my Cudo straight to my inbox_** "  
+
 
 If anyone has any difficulty in unsubscribing from our emails via the automatic unsubscribe facility, we ask that they contact CUDO via the details below, and we will investigate the reason for why the unsubscribe facility may not have worked, and arrange for the user to be unsubscribed as a matter of urgency.
 
 **How to contact CUDO  
 **  
-If you would like to make an access request or wish to provide feedback about this policy, please contact CUDO by writing to Privacy Officer, Cudo.com.au Pty Ltd, PO Box 40, Pyrmont NSW 2009, via e-mail to privacyofficer@cudo.com.au.  
+If you would like to make an access request or wish to provide feedback about this policy, please contact CUDO by writing to Privacy Officer, Cudo Pty Ltd, PO Box 40, Pyrmont NSW 2009, via e-mail to privacyofficer@cudo.com.au.  
 
 
-The CUDO website www.cudo.com.au is an online service owned and operated by Cudo.com.au Pty Ltd (ACN 145 598 894) of PO Box 40, Pyrmont NSW 2009 (‘CUDO’)
+The CUDO website www.cudo.com.au is an online service owned and operated by Cudo Pty Ltd (ACN 145 598 894) of PO Box 40, Pyrmont NSW 2009 (‘CUDO’)
 
 **Definitions**  
 The terms “Coupon”, “Merchant” and “Deal” are defined in the Terms & Conditions of Use.
