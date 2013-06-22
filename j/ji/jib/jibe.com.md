@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jibe.com privacy policy that was archived on 2012-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121210175626id_/http%3A//www.jibe.com/jobs/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jibe.com privacy policy that was archived on 2013-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130623010509id_/http%3A//www.jibe.com/company/privacy.html) for the most accurate reproduction.*
 
 # JIBE
 
@@ -6,7 +6,7 @@ This Privacy Policy was last revised on July 31, 2012.
 
 Jibe, Inc. ("JIBE," "we," or "us") knows that you care how information about you is used and shared. This Privacy Policy explains what information of yours will be collected by JIBE when you use the JIBE Service, how the information will be used, and how you can control the collection, correction and/or deletion of information on www.jibe.com or through the JIBE service. We will not use or share your information with anyone except as described in this Privacy Policy. This Privacy Policy does not apply to information we collect by other means (including offline) or from other sources. Capitalized terms that are not defined in this Privacy Policy have the meaning given them in our Terms of Use
 
-JIBE has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with [TRUSTe’s Program Requirements](http://www.truste.com/privacy-program-requirements/program_requirements_website_privacy.html) and the [TRUSTed Cloud Program Requirements](http://www.truste.com/privacy-program-requirements/trusted-cloud/index.html) including transparency, accountability and choice regarding the collection and use of your personal information. TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy policy or practices, please contact us at info@jibe.com. If you are not satisfied with our response you can contact TRUSTe here.
+JIBE has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with [TRUSTe's Program Requirements](http://www.truste.com/privacy-program-requirements/program_requirements_website_privacy.html) and the [TRUSTed Cloud Program Requirements](http://www.truste.com/privacy-program-requirements/trusted-cloud/index.html) including transparency, accountability and choice regarding the collection and use of your personal information. TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy policy or practices, please contact us at info@jibe.com. If you are not satisfied with our response you can contact TRUSTe here. 
 
 ## Information Related To Data Collected For Our Clients
 
@@ -20,7 +20,7 @@ We collect information for our clients, if you are a customer of one of our Clie
 
 Access to Data Controlled by our Clients
 
-JIBE has no direct relationship with the individuals whose personal data it processes. An individual who seeks access, or who seeks to correct, amend, or delete inaccurate data should direct his query to the JIBE’s Client (the data controller). If the Client requests JIBE to remove the data, we will respond to their request within 30 business days.
+JIBE has no direct relationship with the individuals whose personal data it processes. An individual who seeks access, or who seeks to correct, amend, or delete inaccurate data should direct his query to the JIBE's Client (the data controller). If the Client requests JIBE to remove the data, we will respond to their request within 30 business days.
 
 Data Retention
 
@@ -110,6 +110,6 @@ If we change our privacy policies and procedures, we will post those changes on 
 
 If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this website, please contact us at privacy@JIBE.com, or send mail to:
 
-JIBE, Inc  
-26 West 17th Street, 5th Floor  
+JIBE, Inc   
+26 West 17th Street, 5th Floor   
 New York, NY 10011 
