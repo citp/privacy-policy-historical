@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the indiacom.com privacy policy that was archived on 2012-11-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121104071436id_/http%3A//www.indiacom.com/yellowpage/disclaimer.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the indiacom.com privacy policy that was archived on 2013-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130622022704id_/http%3A//www.indiacom.com/yellowpage/disclaimer.asp) for the most accurate reproduction.*
 
 # Indian Yellow Pages - Disclaimer - Indiacom Limited
 
