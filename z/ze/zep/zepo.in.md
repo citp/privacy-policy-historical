@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the zepo.in privacy policy that was archived on 2012-10-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121031151632id_/http%3A//www.zepo.in/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zepo.in privacy policy that was archived on 2013-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130622042413id_/http%3A//www.zepo.in/privacy.html) for the most accurate reproduction.*
 
-# Privacy & Policy • Zepo
+# Zepo Privacy Policy
 
 Zepo.in (hereinafter referred to as the "Site" or "Zepo") provides its customers an online store by use of its on-demand hosted (web based) e-commerce software. We take your privacy seriously and it is for the same reason We have developed this Privacy Policy. This Privacy Policy governs Zepo and specifies the manner in which We handle your personal information. We assure You that We will maintain and use this information responsibly. Please familiarize yourself with Our privacy practices. 
 
