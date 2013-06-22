@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the codeproject.com privacy policy that was archived on 2012-09-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120919201604id_/http%3A//www.codeproject.com/info/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the codeproject.com privacy policy that was archived on 2013-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130622220525id_/http%3A//www.codeproject.com/info/privacy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy - CodeProject
 
@@ -6,13 +6,13 @@
 
 Last updated: Tuesday, May 10, 2011
 
-The Code Project is committed to protecting your privacy and to developing technology that gives you the most powerful and secure online experience.
+CodeProject is committed to protecting your privacy and to developing technology that gives you the most powerful and secure online experience.
 
-This privacy statement explains data collection and use practices of The Code Project and The Code Project's website codeproject.com (the " **Site** ") (for purposes of this privacy policy, The Code Project and the Site shall collectively, be referred to as " **We** " or " **The Code Project** ").
+This privacy statement explains data collection and use practices of CodeProject and CodeProject's website codeproject.com (the " **Site** ") (for purposes of this privacy policy, CodeProject and the Site shall collectively, be referred to as " **We** " or " **CodeProject** ").
 
-The "Site" refers to http://www.codeproject.com and all other Web properties owned or operated by The Code Project now and in the future (or anything that replaces, supplements, or supersedes the Web as the site of The Code Project).
+The "Site" refers to http://www.codeproject.com and all other Web properties owned or operated by CodeProject now and in the future (or anything that replaces, supplements, or supersedes the Web as the site of CodeProject).
 
-By providing personal information to The Code Project, you are consenting to the information collection and use practices described in this privacy statement.
+By providing personal information to CodeProject, you are consenting to the information collection and use practices described in this privacy statement.
 
 **THIS PRIVACY POLICY IS AN AGREEMENT. BY PROVIDING ANY PERSONAL INFORMATION TO THE SITE OR BY ACCESSING THE SITE, YOU ARE CONSENTING TO THE TERMS OF THIS PRIVACY POLICY. IF YOU DO NOT AGREE TO THE TERMS OF THIS PRIVACY POLICY, PLEASE DO NOT PROVIDE ANY PERSONAL INFORMATION TO THE SITE.**
 
@@ -33,9 +33,9 @@ Principle 10 - Handling Customer Complaints and Suggestions
 
 ## Principle 1 - Accountability
 
-We will maintain and protect the personal information under our control. We have designated an individual who is accountable for compliance with the Principles. If you have questions about our privacy statement or our use of your information, or if you need help changing your personal information or to opt-out, please contact us by sending e-mail to [ webmaster@codeproject.com](mailto:webmaster@codeproject.com) or contacting us at:
+We will maintain and protect the personal information under our control. We have designated an individual who is accountable for compliance with the Principles. If you have questions about our privacy statement or our use of your information, or if you need help changing your personal information or to opt-out, please contact us by sending e-mail to [ Webmaster@codeproject.com](mailto:Webmaster@codeproject.com) or contacting us at:
 
-> The Code Project  
+> CodeProject  
 >  503-250 Ferrand Drive   
 > Toronto Ontario, M3C 3G8 Canada  
 >  ph. +1 416-849-8900 x 100 
@@ -50,17 +50,17 @@ Except where required or permitted by law your informed consent is required for 
 
 ## Principle 4 - Limiting Collection
 
-The personal information collected by us shall be limited to those details necessary for the purposes identified to you. To that end, please note the following description of the type of information collected and the reason we collect such information. The Code Project does not require any financial or payment information. Additionally The Code Project does not intentionally collect information from any individual under the age of 13 years.
+The personal information collected by us shall be limited to those details necessary for the purposes identified to you. To that end, please note the following description of the type of information collected and the reason we collect such information. CodeProject does not require any financial or payment information. Additionally CodeProject does not intentionally collect information from any individual under the age of 13 years.
 
-Additionally, none of the material or advertising on The Code Project is intended to attract audiences under the age of 13, and as such The Code Project does not intentionally collect information from any individual under the age of 13 years
+Additionally, none of the material or advertising on CodeProject is intended to attract audiences under the age of 13, and as such CodeProject does not intentionally collect information from any individual under the age of 13 years
 
 ### Personal Information
 
-If you would like to create a new member account, we will collect your name and email address. In addition, at your option, if you would like to increase your profile on the Site or with The Code Project generally, or if you would like to be considered by potential employers for employment (please see Principle 5 for a discussion on this point), you may also provide whatever personal information you choose including, without limitation, a brief personal description, lists of interests and experience, where you live, the time zone in which you are in, your occupation, birthday, links to home pages, a picture of yourself and a message board signature. In some limited instances, we may require your credit card information to accommodate your requests to process transactions or access information on any financial transactions carried out with the Site.
+If you would like to create a new member account, we will collect your name and email address. In addition, at your option, if you would like to increase your profile on the Site or with CodeProject generally, or if you would like to be considered by potential employers for employment (please see Principle 5 for a discussion on this point), you may also provide whatever personal information you choose including, without limitation, a brief personal description, lists of interests and experience, where you live, the time zone in which you are in, your occupation, birthday, links to home pages, a picture of yourself and a message board signature. In some limited instances, we may require your credit card information to accommodate your requests to process transactions or access information on any financial transactions carried out with the Site.
 
-Of course, any time you choose to post an editorial, or other message on the Site, that information is stored by The Code Project and is viewed, together with the biographical information you have provided, by all users of the Site.
+Of course, any time you choose to post an editorial, or other message on the Site, that information is stored by CodeProject and is viewed, together with the biographical information you have provided, by all users of the Site.
 
-**Please know that only your name and email is necessary to create a new member account, the provision of all other information is optional depending on what you are looking to do on the Site and with The Code Project.**
+**Please know that only your name and email is necessary to create a new member account, the provision of all other information is optional depending on what you are looking to do on the Site and with CodeProject.**
 
 ### Cookies
 
@@ -88,25 +88,25 @@ We use your personal information for the following purposes:
 
 ### Safeguarding Personal Information
 
-The Code Project strictly protects the security of your personal information, including any financial information, and honors your choices for its intended use. Data is stored in password-controlled servers with limited access. While no security infrastructure is foolproof, we carefully protect your data from loss, misuse, unauthorized access or disclosure, alteration or destruction.
+CodeProject strictly protects the security of your personal information, including any financial information, and honors your choices for its intended use. Data is stored in password-controlled servers with limited access. While no security infrastructure is foolproof, we carefully protect your data from loss, misuse, unauthorized access or disclosure, alteration or destruction.
 
 ### Potential Employment Opportunities
 
-The Code Project is often approached by, or engages with, corporations, business and other persons who are looking to employ persons with various technology skill sets. In some instances, The Code Project may try to accommodate such potential employers by incorporating a job site as part of the Site. In this instance, the employers would post jobs available for persons with technology skills on the Site and Site Users would contact the potential employers directly. In this instance, The Code Project will not provide potential employers with any information on the Site Users. 
+CodeProject is often approached by, or engages with, corporations, business and other persons who are looking to employ persons with various technology skill sets. In some instances, CodeProject may try to accommodate such potential employers by incorporating a job site as part of the Site. In this instance, the employers would post jobs available for persons with technology skills on the Site and Site Users would contact the potential employers directly. In this instance, CodeProject will not provide potential employers with any information on the Site Users. 
 
-Alternatively, employers may choose to contact The Code Project directly and request that The Code Project provide to them information on those individuals who are interested in being considered for employment and who have given their consent to The Code Project providing their information to potential employers. 
+Alternatively, employers may choose to contact CodeProject directly and request that CodeProject provide to them information on those individuals who are interested in being considered for employment and who have given their consent to CodeProject providing their information to potential employers. 
 
-With that in mind, if you choose, you can have your information made available by The Code Project to potential employers. For those persons who choose to make their personal information available to potential employers, aside from providing additional resume type information to The Code Project, The Code Project will be storing the information (as The Code Project does with all information provided to it) for such a use and, as well, The Code Project will also sort such information in accordance with characteristics the potential employers are looking for, and format such information in a manner easily reviewable by potential employers. 
+With that in mind, if you choose, you can have your information made available by CodeProject to potential employers. For those persons who choose to make their personal information available to potential employers, aside from providing additional resume type information to CodeProject, CodeProject will be storing the information (as CodeProject does with all information provided to it) for such a use and, as well, CodeProject will also sort such information in accordance with characteristics the potential employers are looking for, and format such information in a manner easily reviewable by potential employers. 
 
-**While The Code Project tries to ensure the potential employers are legitimate, if you choose to have your personal information available to potential employers, The Code Project accepts no liability as a result of any action or inaction of the potential employer, whether such action is a result of the provision of the personal information to the potential employer, the use such potential employer makes of the personal information or otherwise.**
+**While CodeProject tries to ensure the potential employers are legitimate, if you choose to have your personal information available to potential employers, CodeProject accepts no liability as a result of any action or inaction of the potential employer, whether such action is a result of the provision of the personal information to the potential employer, the use such potential employer makes of the personal information or otherwise.**
 
 ### When Information May be Disclosed to Outside Parties:
 
-Except as specifically provided for in this privacy policy, we do not disclose any personal information to third parties. The Code Project may disclose personal information in the following instances:
+Except as specifically provided for in this privacy policy, we do not disclose any personal information to third parties. CodeProject may disclose personal information in the following instances:
 
-  1. To conform to the edicts of the law or comply with legal process served to The Code Project, or the Site; 
-  2. protect and defend the rights or property of The Code Project and our family of Web sites, including without limitation investigating potentially fraudulent or questionable activities regarding your account(s) or the use of the Site; 
-  3. To act in urgent circumstances to protect the personal safety of users of The Code Project, our Web sites, or the public;
+  1. To conform to the edicts of the law or comply with legal process served to CodeProject, or the Site; 
+  2. protect and defend the rights or property of CodeProject and our family of Web sites, including without limitation investigating potentially fraudulent or questionable activities regarding your account(s) or the use of the Site; 
+  3. To act in urgent circumstances to protect the personal safety of users of CodeProject, our Web sites, or the public;
   4. To offer you related products and services that might benefit you; 
   5. In anticipation of and in the course of an actual or potential sale, reorganization, consolidation, merger or amalgamation of our business; and
   6. Otherwise as permitted or required by law.
@@ -115,13 +115,13 @@ Except as specifically provided for in this privacy policy, we do not disclose a
 
 The type of information we are legally required to disclose may relate to criminal investigations. In some instances such as a legal proceeding or court order, we may also be required to disclose certain information to authorities. Only the information specifically requested is disclosed and we take precautions to satisfy ourselves that the authorities that are making the request have legitimate grounds to do so.
 
-In addition, The Code Project occasionally hires other companies to provide limited services on our behalf, including packaging, mailing and delivering prizes, answering customer questions about products and services, sending postal mail, and sending information about our products, special offers, and other new services. We will only provide those companies the personal information they need to deliver the service, and they are prohibited from using that information for any other purpose. 
+In addition, CodeProject occasionally hires other companies to provide limited services on our behalf, including packaging, mailing and delivering prizes, answering customer questions about products and services, sending postal mail, and sending information about our products, special offers, and other new services. We will only provide those companies the personal information they need to deliver the service, and they are prohibited from using that information for any other purpose. 
 
 You may be offered the option to provide your information to certain third parties as part of an advertising promotion, special section, sponsored download, or other area on the Site. You will be made aware of the use of your information before you provide it, and the use thereof will be limited to the use to which you agreed. 
 
 ### Email Addresses
 
-Because email is the dominant form of communication between The Code Project and you, we wanted to address certain aspects of handling email addresses separately. Email addresses collected as part of the sign-up process are not made publicly available, except in accordance with the terms of this privacy policy. Most of the time, email addresses are simply used to confirm your identity and to communicate with you via email. 
+Because email is the dominant form of communication between CodeProject and you, we wanted to address certain aspects of handling email addresses separately. Email addresses collected as part of the sign-up process are not made publicly available, except in accordance with the terms of this privacy policy. Most of the time, email addresses are simply used to confirm your identity and to communicate with you via email. 
 
 Occasionally, third parties want to send emails regarding offers to our members. Unless you specifically authorize it WE DO NOT PROVIDE SUCH THIRD PARTIES WITH YOUR EMAIL ADDRESS. These third parties wishing to send offers to our members do so through us. They send us the offer and we email it to you on their behalf. 
 
@@ -133,7 +133,7 @@ We shall make every reasonable effort to ensure your personal information is mai
 
 ## Principle 7 - Safeguarding Personal Information
 
-The Code Project strictly protects the security of your personal information and honors your choices for its intended use. Data is stored in password-controlled servers with limited access. While no security infrastructure is foolproof, we carefully protect your data from loss, misuse, unauthorized access or disclosure, alteration or destruction.
+CodeProject strictly protects the security of your personal information and honors your choices for its intended use. Data is stored in password-controlled servers with limited access. While no security infrastructure is foolproof, we carefully protect your data from loss, misuse, unauthorized access or disclosure, alteration or destruction.
 
 Electronic customer files are kept in a highly secured environment with restricted access. 
 
@@ -145,7 +145,7 @@ Our web site uses Secure Socket Layer (SSL) and 128 bit encryption technologies 
 
 In the course of daily operations, access to personal information is restricted to authorized employees who have a legitimate business purpose and reason for accessing it. For example, when you call us, our designated employees will access your information to verify who you are and to assist you in fulfilling your requests.
 
-As a condition of their employment, all employees of The Code Project are required to abide by the privacy standards we have established. Employees are informed about the importance of privacy and they understand that they are prohibited from disclosing any customer information to unauthorized individuals or parties. 
+As a condition of their employment, all employees of CodeProject are required to abide by the privacy standards we have established. Employees are informed about the importance of privacy and they understand that they are prohibited from disclosing any customer information to unauthorized individuals or parties. 
 
 ## Principle 8 - Openness
 
@@ -153,15 +153,15 @@ If you would like a copy of our privacy policies we would be more than happy to 
 
 ## Principle 9 - Accessing and Amending Your Information:
 
-You have the right to access, verify and amend the information held in your personal files. You can review and edit your member profile information at the The Code Project site by logging on to The Code Project site with your logon email and password, and then clicking on the 'My Settings' link.
+You have the right to access, verify and amend the information held in your personal files. You can review and edit your member profile information at the CodeProject site by logging on to CodeProject site with your logon email and password, and then clicking on the 'My Settings' link.
 
 To help us keep your personal information up-to-date, we encourage you to amend inaccuracies and make corrections as often as necessary. Despite our efforts, errors sometimes do occur. Should you identify any incorrect or out-of-date information in your file(s), we will make the proper changes. 
 
 ## Principle 10 - Handling Customer Complaints and Suggestions
 
-If you have questions about our privacy statement or our use of your information, or if you need help changing or removing your personal information, please contact us by sending e-mail to [webmaster@codeproject.com](mailto:webmaster@codeproject.com) or contacting us at: 
+If you have questions about our privacy statement or our use of your information, or if you need help changing or removing your personal information, please contact us by sending e-mail to [Webmaster@codeproject.com](mailto:Webmaster@codeproject.com) or contacting us at: 
 
-> The Code Project  
+> CodeProject  
 >  503-250 Ferrand Drive   
 > Toronto Ontario, M3C 3G8 Canada  
 >  ph. +1 416-849-8900 x 100 
