@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the budgetair.ie privacy policy that was archived on 2012-10-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121006092543id_/http%3A//www.budgetair.ie/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the budgetair.ie privacy policy that was archived on 2013-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130622024042id_/http%3A//www.budgetair.ie/privacy) for the most accurate reproduction.*
 
 # Privacy Statement | BudgetAir.ie
 
@@ -76,4 +76,16 @@ It is possible to apply for a job via our website. You can either send an unsoli
 
 At all times you can request us to allow you access to your personal details. You can also request us to remove your personal details from our systems, insofar as allowed under statutory and fiscal regulations. Please contact the Customer Services department of budgetair.ie for both requests.
 
-### 1.14 Changes to our privacy policy
+### 1.14 Features of Google Analytics for Display Advertisers
+
+  * Third party vendors, including Google, show our ads on sites on the internet.
+  * We use analytics data to also inform and optimize our ad campaigns based on a user's prior visits to our website.
+  * Users may opt out of Google's use of cookies by visiting the [Google advertising opt-out page](https://www.google.com/settings/ads/onweb/?hl=en&sig=ACi0TCjWbybrwQCexlfuuXO841JrFiWt-GPpirKfelo4L4oMleHCtN5PCUzr5eBQBvB96fEhvPzHBAS1IbP57C_I6ZPP-lOnkeKc5z7pu7Zploftf8Vb-vkwXcelil8yPs7O4By2C4I91fNU7QUupzJ4sHs87HFiEiP-izCDTSgy6jmf9RYy5_M&hl=en).  
+In addition, users can also opt out of a third party vendor's use of cookies by visiting the [Network Advertising Initiative opt out page](http://www.networkadvertising.org/choices/). Users may opt out of our use of Google Analytics by visiting the [Google Analytics Opt-out page](https://tools.google.com/dlpage/gaoptout).
+  * We have reporting of users’ interactions with our ads and of users’ views of our ads across the Google Display Network or DoubleClick for Advertisers in conjunction with activity on our site.
+
+
+
+### 1.15 Changes to our privacy policy
+
+All changes in the way BudgetAir.ie collects, processes and uses your personal details, will be described in future versions of our Privacy Statement. You can always find the most recent Privacy Statement on our website.
