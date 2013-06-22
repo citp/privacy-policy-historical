@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the piccshare.com privacy policy that was archived on 2012-08-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120817233313id_/http%3A//www.piccshare.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the piccshare.com privacy policy that was archived on 2013-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130622030705id_/http%3A//piccshare.com/qd/privacy-policy) for the most accurate reproduction.*
 
 # Piccshare.com
 
-Our business name is **PiccShare ("Company")**. We are the owner of our web site, [www.PiccShare.com](http://www.piccshare.com/). All information provided in this Privacy Policy pertains to **PiccShare** and [www.PiccShare.com](http://www.piccshare.com/).
+Our business name is **HTTO Group, Ltd (hereafter “HTTO”, “We” or “Company”)**. We are the owner of our web site, [www.PiccShare.com](http://www.piccshare.com/). All information provided in this Privacy Policy pertains to **HTTO Group, Ltd** and [www.PiccShare.com](http://www.piccshare.com/).
 
   * ## General
 
