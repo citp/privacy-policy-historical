@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the getsomeheadspace.com privacy policy that was archived on 2012-10-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121015233230id_/http%3A//www.getsomeheadspace.com/customer-services/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the getsomeheadspace.com privacy policy that was archived on 2013-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130623013018id_/http%3A//www.getsomeheadspace.com/customer-services/privacy.aspx) for the most accurate reproduction.*
 
 # Privacy Statement | Website privacy statement from Get Some Headspace | Headspace
 
