@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the macysjobs.com privacy policy that was archived on 2012-07-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120721054721id_/http%3A//macysjobs.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the macysjobs.com privacy policy that was archived on 2013-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130622231350id_/http%3A//macysjobs.com/privacy.aspx) for the most accurate reproduction.*
 
 # Macy's Jobs - Privacy Policy
 
-Thank you for visiting the corporate recruitment web site for Macy's, Inc., and its [subsidiaries](http://www.macysjobs.com/corporate/otherinfo/subsidiaries.asp). This web site ([www.macysjobs.com](http://www.macysjobs.com/)) is owned by Macy's, Inc. and provides you with information on employment opportunities with our company, along with other related information. The street address for Macy's, Inc. is 7 West Seventh Street, Cincinnati, Ohio 45202.
+Thank you for visiting the corporate recruitment web site for Macy's, Inc., and its subsidiaries. This web site ([www.macysjobs.com](http://www.macysjobs.com/)) is owned by Macy's, Inc. and provides you with information on employment opportunities with our company, along with other related information. The street address for Macy's, Inc. is 7 West Seventh Street, Cincinnati, Ohio 45202.
 
 As a premier department store, catalog and Internet retailer, we understand that privacy is important, and we have posted this privacy policy to let you know what types of personal information we collect on this site, how we use it and whether it is shared with any unaffiliated third parties for marketing purposes. We encourage you to refer to this policy on an ongoing basis to stay up-to-date on our most current privacy practices, which may change from time to time as we continue to develop this site. The date that this policy last was changed is noted below. 
 
