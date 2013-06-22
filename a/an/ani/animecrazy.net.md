@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the animecrazy.net privacy policy that was archived on 2012-07-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120719035929id_/http%3A//www.animecrazy.net/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the animecrazy.net privacy policy that was archived on 2013-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130622073426id_/http%3A//www.animecrazy.net/privacy.html) for the most accurate reproduction.*
 
 # 
 
