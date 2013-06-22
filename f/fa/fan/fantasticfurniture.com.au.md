@@ -1,31 +1,16 @@
-> *The following text is extracted and transformed from the fantasticfurniture.com.au privacy policy that was archived on 2012-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121221210100id_/http%3A//www.fantasticfurniture.com.au/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fantasticfurniture.com.au privacy policy that was archived on 2013-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130622080841id_/http%3A//www.fantasticfurniture.com.au/privacy-policy) for the most accurate reproduction.*
 
-# Fantastic Furniture - Privacy Policy
+# Fantastic Furniture
 
-The information contained in this website is for general information purposes only. The information is provided by Fantastic Furniture Pty Limited (ABN 66 003 688 855), a subsidiary of Fantastic Holdings Limited and whilst we endeavour to keep the information up-to-date and correct, we make no representations or warranties of any kind, express or implied, about the completeness, accuracy, reliability, suitability or availability with respect to the website or the information, products, services, or related graphics contained on the website for any purpose. Any reliance you place on such information is therefore strictly at your own risk. By accessing this website you are agreeing to these terms and conditions.
+This privacy policy sets out how Fantastic Holdings Limited uses, discloses and protects any information that Fantastic Holdings Limited collects when you use this website. The information collected is held by Fantastic Holdings Limited at its offices and at its secure service provider.
 
-Through this website you are able to link to other websites which are not under the control of Fantastic Holdings Limited. We have no control over the nature, content and availability of those sites. The inclusion of any links does not necessarily imply a recommendation or endorsement of the views expressed within them.
+Fantastic Holdings Limited is committed to ensuring that your privacy is protected. When using this website, should we ask you to provide certain information by which you can be identified (or your identity can be reasonably ascertained), then you can be assured that the information collected will only be held, used or disclosed in accordance with this privacy policy.
 
-Every effort is made to keep the website up and running smoothly. However, Fantastic Holdings Limited takes no responsibility for, and will not be liable for, the website being unavailable due to technical issues beyond our control.
+## What we collect
 
-In no event will we be liable for any loss or damage including without limitation, indirect or consequential loss or damage, or any loss or damage whatsoever arising from loss of data or profits arising out of, or in connection with, the use of this website.
+We may collect and hold the following information when you use this website:
 
-If we breach any term, condition or warranty which is implied by law and cannot lawfully be excluded, our liability for breach of the applicable term, condition or warranty is limited to, at our election:
-
-  * the resupply of the relevant advice, service, recommendation or information; or
-  * the payment to you of the cost of having the relevant advice, service, recommendation or information supplied again.
-
-
-
-This privacy policy sets out how Fantastic Holdings Limited uses and protects any information that you give Fantastic Holdings Limited when you use this website.
-
-Fantastic Holdings Limited is committed to ensuring that your privacy is protected. Should we ask you to provide certain information by which you can be identified when using this website, then you can be assured that it will only be used in accordance with this privacy statement.
-
-### What we collect
-
-We may collect the following information:
-
-  * name 
+  * name
   * contact information including email address
   * postal address and/or telephone number (if supplied by you)
   * demographic information such as postcode, preferences and interests
@@ -33,30 +18,40 @@ We may collect the following information:
 
 
 
-### What we do with the information we gather
+## What we do with the information we collect and hold
 
-  * We require this information to understand your needs and provide you with a better service, and in particular for the following reasons:
-  * Internal record keeping.
+We require this information to understand your needs and provide you with a better service, and in particular for the below reasons.
+
+  * We may use your information for internal record keeping.
   * We may use the information to improve our products and services.
-  * We may periodically send promotional emails about new products, special offers or other information which we think you may find interesting using the email address which you have provided.
+  * We may periodically send promotional emails about new products, special offers or other information which we think you may find interesting using the email or postal address which you have provided.
   * From time to time, we may also use your information to contact you for market research purposes. We may contact you by email, phone, fax or mail. We may use the information to customise the website according to your interests.
-  * Fantastic Holdings Limited promises not to sell, share or provide information gathered through our site to third parties.
+  * Fantastic Holdings Limited promises not to sell, share or provide information gathered through our site to third parties other than the entities listed below.
 
 
 
-You authorise us to collect, store, disclose and share information about you with any of the following:
+In accessing the website, you have the option of not identifying yourself or using a pseudonym. However, electing this option or not providing us with information we ask for may restrict our ability to carry out the above functions.
+
+You authorise us to disclose and share information about you with any of the following entities for the same purposes noted above:
 
   * Fantastic Furniture Pty Limited (ABN 66 003 688 855), a subsidiary of Fantastic Holdings Limited (ABN 19 004 000 775) ("Holdings").
   * Each subsidiary of Holdings.
+  * Contractors and service providers of Fantastic Furniture Holdings or the above entities. Such contractors or service providers are located in Australia. Fantastic Furniture will not disclose information about you to an entity overseas.
+  * If you choose to apply for any credit facility in connection with a purchase (where offered), the credit provider.
+  * If any entity wishes to purchase part or whole of our business, that entity.
   * Each entity which has been granted a franchise by a subsidiary of Holdings.
 
 
 
-### Security
+We will take reasonable steps to ensure that these organisations are bound by appropriate confidentiality and privacy obligations with respect to the protection of your information.
+
+## Security
 
 We are committed to ensuring that your information is secure. In order to prevent unauthorised access or disclosure we have put in place suitable physical, electronic and managerial procedures to safeguard and secure the information we collect online.
 
-### How we use cookies
+When we no longer require your information (including when we are no longer required by law to keep records relating to you), we will ensure that the information is either destroyed or de-identified.
+
+## How we use cookies
 
 A cookie is a small file which asks permission to be placed on your computer's hard drive. Once you agree, the file is added and the cookie helps analyse web traffic or lets you know when you visit a particular site. Cookies allow web applications to respond to you as an individual. The web application can tailor its operations to your needs, likes and dislikes by gathering and remembering information about your preferences.
 
@@ -66,15 +61,21 @@ Overall, cookies help us provide you with a better website, by enabling us to mo
 
 You can choose to accept or decline cookies. Most web browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies if you prefer. This may prevent you from taking full advantage of the website.
 
-### Controlling your personal information
+## Controlling your personal information
 
-You may choose to restrict the collection or use of your personal information in the following ways:
+You may choose to restrict the collection, storage, use or disclosure of your information in the following ways:
 
   * whenever you are asked to fill in a form on the website, look for the box that you can click to indicate that you do not want the information to be used by anybody for direct marketing purposes
-  * if you have previously agreed to us using your personal information for direct marketing purposes, you may change your mind at any time by writing to or emailing us at mrfurniture@fantasticfurniture.com.au
+  * if you have previously agreed to us using your information for direct marketing purposes, you may change your mind at any time by writing to or emailing us at mrfurniture@fantasticfurniture.com.au
 
 
 
-We will not sell, distribute or lease your personal information to third parties unless we have your permission or are required by law. We may use your personal information to send you promotional information about third parties which we think you may find interesting if you tell us that you wish this to happen.
+We will not sell, distribute or lease your information to third parties unless we have your permission or are required by law. We may use your information to send you promotional information about third parties which we think you may find interesting if you tell us that you wish this to happen.
 
 If you believe that any information we are holding on you is incorrect or incomplete, please write to or email us as soon as possible, at the above address. We will promptly correct any information found to be incorrect.
+
+You may access the information we hold about you at any time by requesting access by contacting us on mrfurniture@fantasticfurniture.com.au. We will deal with your request for such access within a reasonable time. If we refuse access, we will provide you with reasons for the refusal and the relevant provisions of the Privacy Act that we rely on to refuse access. We may recover reasonable costs of retrieving information when you make an access request.
+
+We may make changes to this privacy policy from time to time (without notice to you) that are necessary for our business requirements or the law. We encourage you to visit this site form time to time to ensure that you have read our most current privacy policy.
+
+If you have any question, concerns or complaints about this privacy policy, or our use of your information, please email us mrfurniture@fantasticfurniture.com.au. You can also contact us if you believe that the privacy of your information has been compromised or is not adequately protected. Once a complaint has been lodged, we will respond to you as soon as possible.
