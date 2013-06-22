@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the pardaphash.com privacy policy that was archived on 2012-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121223063338id_/http%3A//www.pardaphash.com/page/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pardaphash.com privacy policy that was archived on 2013-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130622234011id_/http%3A//www.pardaphash.com/page/privacy) for the most accurate reproduction.*
 
-# PardaPhash :: Latest Indian Breaking News & Sting operations.
+# Privacy
 
 **Privacy Policy**
 
