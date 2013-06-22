@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the onsemi.com privacy policy that was archived on 2012-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121231184525id_/http%3A//www.onsemi.com/PowerSolutions/content.do%3Fid%3D1109%26lcnt%3Dfoot) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the onsemi.com privacy policy that was archived on 2013-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130622111932id_/http%3A//www.onsemi.com/PowerSolutions/content.do%3Fid%3D1109%26lcnt%3Dfoot) for the most accurate reproduction.*
 
-# ON Semiconductor: Privacy Policy
+# Privacy Policy
 
 > ON Semiconductor is committed to protecting your privacy. This policy explains how we handle information we learn about you while you visit our site. The information that we receive depends on what you do during your visit, and what service(s) you request. 
 > 
