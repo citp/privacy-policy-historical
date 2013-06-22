@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the plugrush.com privacy policy that was archived on 2012-10-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121025044357id_/http%3A//www.plugrush.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the plugrush.com privacy policy that was archived on 2013-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130622025920id_/http%3A//www.plugrush.com/privacy_policy) for the most accurate reproduction.*
 
 # PlugRush
 
@@ -77,7 +77,7 @@ This online privacy policy applies only to information collected through our web
 
 Updated: 23rd of February, 2011
 
-Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website at [http://www.plugrush.com/terms_of_service](https://web.archive.org/terms_of_service).
+Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website at [https://www.plugrush.com/terms_of_service](https://web.archive.org/terms_of_service).
 
 ## Your Consent
 
@@ -97,7 +97,4 @@ Updated: 23rd of February, 2011
 
 If there are any questions regarding this privacy policy you may contact us using the information below:
 
-[http://www.plugrush.com/contact_us](https://web.archive.org/contact_us)
-
-, Texas  
-United States
+[https://www.plugrush.com/contact_us](https://web.archive.org/contact_us)
