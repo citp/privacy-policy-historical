@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the creativity-online.com privacy policy that was archived on 2012-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121216050849id_/http%3A//creativity-online.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the creativity-online.com privacy policy that was archived on 2013-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130622035651id_/http%3A//creativity-online.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Creativity Online
 
