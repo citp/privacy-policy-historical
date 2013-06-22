@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the skynews.com.au privacy policy that was archived on 2012-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121206232607id_/http%3A//www.skynews.com.au/common/disclaimer/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the skynews.com.au privacy policy that was archived on 2013-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130622213026id_/http%3A//www.skynews.com.au/common/disclaimer/privacy.aspx) for the most accurate reproduction.*
 
 # Sky News Australia - Privacy Policy
 
