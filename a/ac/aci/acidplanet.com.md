@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the acidplanet.com privacy policy that was archived on 2011-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110510101237id_/http%3A//www.sonycreativesoftware.com/corporate/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the acidplanet.com privacy policy that was archived on 2013-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130623015136id_/http%3A//www.sonycreativesoftware.com/corporate/privacy.asp) for the most accurate reproduction.*
 
 # Sony Creative Software - Corporate - Privacy Policy
 
