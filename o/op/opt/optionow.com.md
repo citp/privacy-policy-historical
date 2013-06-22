@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the optionow.com privacy policy that was archived on 2012-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121122180915id_/http%3A//www.optionow.com/privacyandsecurity) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the optionow.com privacy policy that was archived on 2013-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130622073600id_/http%3A//optionow.com/privacyandsecurity) for the most accurate reproduction.*
 
 # Security and Privacy
 
