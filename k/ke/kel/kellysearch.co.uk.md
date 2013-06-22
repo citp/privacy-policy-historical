@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the kellysearch.co.uk privacy policy that was archived on 2012-10-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121015113614id_/http%3A//www.kellysearch.co.uk/static/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kellysearch.co.uk privacy policy that was archived on 2013-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130622160625id_/http%3A//www.kellysearch.co.uk/privacy-policy) for the most accurate reproduction.*
 
-# Find UK suppliers with the Kellysearch B2B product search engine
+# Kellysearch Business Directory | Business Resource & Advice for UK Companies
 
 Reed Business Information Limited ("RBI") collects and uses information from users of its websites and subscription services in the following ways. By using this website or service you consent to this collection and use of information.
 
@@ -16,7 +16,7 @@ Aggregate statistical information provided by us to our advertisers or others re
 
 Changes to this policy will be posted here.
 
-If your personal information changes you can alter the details we hold by accessing the [My Kellysearch](https://my.kellysearch.com/login.aspx?locale=en-US) service
+If your personal information changes you can alter the details we hold by contacting the [Kellysearch support desk](mailto:support@kellysearch.zendesk.com).
 
 Under the Data Protection Act 1988. You have the right to be told what personal information we hold about you on our databases. You should write to us, attn Company Secretary at the following address: Quadrant House, The Quadrant, Sutton, Surrey SM2 5AS. UK stating your full name, your address and any of our publications or services to which you know you subscribe. A small administrative charge may be made for fulfilling this request.
 
