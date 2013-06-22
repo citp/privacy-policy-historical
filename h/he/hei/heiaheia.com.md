@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the heiaheia.com privacy policy that was archived on 2010-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101123203130id_/http%3A//www.heiaheia.com/pages/5) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the heiaheia.com privacy policy that was archived on 2013-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130622032829id_/https%3A//www.heiaheia.com/pages/5) for the most accurate reproduction.*
 
-# HeiaHeia - возможно самый весёлый способ оставаться в форме!
+# HeiaHeia - a fun way to keep fit and stay healthy!
 
 Our Privacy Policy is designed to protect your privacy and to help you understand, how we collect and use your personal information. By using or accessing Heiaheia, you are accepting the practices described in this Privacy Policy.
 
