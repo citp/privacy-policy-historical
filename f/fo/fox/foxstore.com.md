@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the foxstore.com privacy policy that was archived on 2012-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121230055421id_/http%3A//www.foxconnect.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the foxstore.com privacy policy that was archived on 2013-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130622042031id_/http%3A//www.foxconnect.com/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
