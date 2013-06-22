@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the outsource2india.com privacy policy that was archived on 2012-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121011042338id_/http%3A//www.outsource2india.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the outsource2india.com privacy policy that was archived on 2013-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130622042121id_/http%3A//www.outsource2india.com/privacy.asp) for the most accurate reproduction.*
 
 # The Privacy Policy of Outsource2india
-
-****[Home](https://web.archive.org/) Privacy Policy
 
 This legal notice pertains to the web site www.outsource2india.com, which is wholly owned and administered by Flatworld Solutions Pvt. Ltd. At Flatworld Solutions, we are committed to respecting your right to privacy and protecting any of the personal information that you share with us. This privacy policy discloses our dissemination practices of how we gather and use information that you may provide via www.outsource2india.com.
 
