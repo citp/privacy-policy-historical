@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the curebit.com privacy policy that was archived on 2012-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121108062901id_/http%3A//www.curebit.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the curebit.com privacy policy that was archived on 2013-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130622033851id_/http%3A//www.curebit.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Curebit
 
@@ -94,8 +94,9 @@ You can contact us about this privacy statement by writing or email us at the ad
 
 Curebit
 
-1061 Market Street   
-Suite 516   
+290 Division Street   
+Suite 405   
 San Francisco, CA 94103 
 
-Phone: (888) 589-3987
+  
+
