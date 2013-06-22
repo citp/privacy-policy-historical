@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the indiamp3.com privacy policy that was archived on 2012-10-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121002025419id_/http%3A//indiamp3.com/privacy_policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the indiamp3.com privacy policy that was archived on 2013-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130622065447id_/http%3A//indiamp3.com/privacy_policy.htm) for the most accurate reproduction.*
 
 # IndiaMp3.Com - Privacy Policy
 
