@@ -1,12 +1,15 @@
-<!--The following is the downloaded HTML source of the noktadomains.com privacy policy that was archived on 2012-11-09.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121109051139id_/http%3A//www.noktadomains.com/privacy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the noktadomains.com privacy policy that was archived on 2013-06-22.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130622161843id_/http%3A//www.noktadomains.com/privacy.html) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" lang="en"><head>
 		<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 		<meta name="author" content="Nokta.com">
 		<meta name="rating" content="General">
-		<link rel="stylesheet" type="text/css" href="/_interface/_s/new-min-v6163.css">
-		<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="/_interface/_js/merged-min.js"></script>
+		
+		<link rel="stylesheet" type="text/css" href="/_interface/_s/new-min-v6172.css">
+		<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="/_interface/_js/jquery-1.9.1.js"></script>
+		<script type="text/javascript" src="/_interface/_js/jquery-ui-1.10.2.custom.min.js"></script>
+		<script type="text/javascript" src="/_interface/_js/merged-minv10.js"></script>
 		<script type="text/javascript">
 			userLoggedIn = false;
 		</script>
@@ -17,11 +20,11 @@
 		<meta http-equiv="Content-Language" content="EN">
 		
 
-		
 			<script type="text/javascript">
 				var _gaq = _gaq || [];
 				_gaq.push([ '_setAccount', 'UA-8805885-1' ]);
 				_gaq.push([ '_trackPageview' ]);
+				_gaq.push(['_setCustomVar',1,'user','guest',1]);
 				(function() {
 					var ga = document.createElement('script');
 					ga.type = 'text/javascript';
@@ -31,7 +34,6 @@
 					s.parentNode.insertBefore(ga, s);
 				})();
 			</script>
-		
 		<script type="text/javascript">
 			$(document).ready(function() {
 				$('.instantSearch').each(function(index) {
@@ -58,8 +60,15 @@
 					$(this).replaceWith(link);
 				});
 				$('#mega-menu-1').dcMegaMenu();
-				$('.btnInput').facebox();
+				$('.bxslider').bxSlider({  pager: true, auto: true,autoDelay:3500 });
+				$('.bx-viewport').css('height','115');
+				$('#breadcrumbs').xBreadcrumbs();
 				$(".categoryAccordion").accordion({event: 'mouseover'});
+				var icons = {
+			            header: "ui-icon-circle-arrow-e",
+			            activeHeader: "ui-icon-circle-arrow-s"
+			        };
+				
 				$('.hashTagHidden').each(function(index) {
 					var h = $(this).attr("href");
 					var index = h.indexOf("#");
@@ -103,6 +112,7 @@
 					max: 10
 				});
 				});
+				
 				function createUrl(page, params) {
 					window.location.href = "http://www.noktadomains.com" + page;
 				}
@@ -114,11 +124,13 @@
 					var name = "#"+id;
 					$(name).css("display","none");
 				}
+				
 		</script>
 		
 			<script type="text/javascript">
 				$(document).ready(function() {
-					$('#breadcrumbs').xBreadcrumbs();
+					
+
 					$('#newsletterForm').css("display","none");
 					$('#subscribeNewsletterText').click(function() {
 						$('#subscribeNewsletterTextArea').css("display","none");
@@ -154,7 +166,7 @@
 				});
 			</script>
 		
-		<meta property="og:title" content="Buy Domain Names on NoktaDomains.com: Search &amp; Buy premium, generic, brandable and cheap  domain names">
+		<meta property="og:title" content="Privacy Policy">
 		<meta property="og:site_name" content="NoktaDomains">
 		<meta property="og:image" content="/_interface/_i/image_facebook.jpg">
 		<meta property="fb:page_id" content="119803661405989">
@@ -170,7 +182,13 @@
 						
 							
 							
-								<a href="/" class="divlink" title="NoktaDomains.com: Your Domain Sales Service"></a>
+								
+									
+									
+										<a href="/" class="divlink" title="NoktaDomains.com: Your Domain Sales Service"></a>
+									
+								
+								
 							
 						
 					</div>
@@ -191,12 +209,22 @@
 										</div>
 									</form>
 								</div>
-								<div id="subscribeNewsletterTextArea">
+								<div id="subscribeNewsletterTextArea" style="margin-left: -75px;">
 									<a href="javascript:;" onclick="_gaq.push(['_trackEvent', 'General','Subscribe Newsletter Link']);" id="subscribeNewsletterText">Sign up for special offers!</a>
 								</div>
 							</div>
 						
-						<div class="cart">
+						<div class="cart" style="width: 124px;padding-left: 20px;">
+							<span id="cartLink" class="instantSearch" link="/leasingcart.html">Leasing Cart
+								
+									
+										(0)
+									
+									
+								 
+							</span>
+						</div>
+						<div class="cart" style="margin-right: 10px;">
 							<span id="cartLink" class="instantSearch" link="/cart.html">Cart
 								
 									
@@ -206,6 +234,7 @@
 								 
 							</span>
 						</div>
+						
 						
 					</div>
 					
@@ -234,33 +263,33 @@
 												</label>
 												<div class="password">
 													<input id="password" onblur="javascript:focusOutInput(this, 'password')" name="lpassword" value="password" class="inputPassWord" onfocus="javascript:focusInput(this, 'password')" type="password">
-													<input name="login" value="" class="submit" type="submit">
+													<input name="login" value="" onclick="_gaq.push(['_trackEvent', 'Login', 'QuickLogin','NoktaLogin']);" class="submit" type="submit">
 												</div>
 											</li>
 											<li class="LoginIcon">
-												<span class="instantSearch" link="/signupregister.html?doFacebookLogin=true">
+												<span class="instantSearch" link="/signupregister.html?doFacebookLogin=true" onclick="_gaq.push(['_trackEvent', 'Login', 'QuickLogin','FacebookLogin']);">
 													<span class="facebookImage"></span>
 												</span>
 											</li>
 											<li class="LoginIcon">
-												<span class="instantSearch" link="/signupregister.html?doGoogleLogin=true">
+												<span class="instantSearch" link="/signupregister.html?doGoogleLogin=true" onclick="_gaq.push(['_trackEvent', 'Login', 'QuickLogin','GoogleLogin']);">
 													<span class="googleImage"></span>
 												</span>
 											</li>
 											<li class="forgotPass">
-												<span class="instantSearch" link="/signupregister.html">
+												<span class="instantSearch" link="/signupregister.html" onclick="_gaq.push(['_trackEvent', 'Login', 'QuickLogin','ForgotPassword']);">
 													Not a Member Yet?
 												</span>
 											</li>
 											<li class="forgotPass">
-												<span class="instantSearch" link="/lostpassword.html">
+												<span class="instantSearch" link="/lostpassword.html" onclick="_gaq.push(['_trackEvent', 'Login', 'QuickLogin','Register']);">
 													Forgot Your Password?
 												</span>
 											</li>
 										</ul>
 										<div class="clear">
 										</div>
-									<div style="display: none;"><input type="hidden" name="_sourcePage" value="aJgpCXPt9R0srktNfUsaY5acwLthhp-Knt4VFwPTMdVnx41T3ZEfyA=="><input type="hidden" name="__fp" value="Ugqxsc2u7C4="></div></form>
+									<div style="display: none;"><input type="hidden" name="_sourcePage" value="fw13JtenSXgsrktNfUsaY5acwLthhp-Knt4VFwPTMdVnx41T3ZEfyA=="><input type="hidden" name="__fp" value="N_eqtHtH3o8="></div></form>
 								</div>
 							
 						
@@ -268,174 +297,160 @@
 					<div class="white" id="whiteDiv">  
 						<ul id="mega-menu-1" class="mega-menu">
 							<li>
-								<span class="instantSearch" link="/">Noktadomains</span>
+								<span class="instantSearch" link="/" onclick="_gaq.push(['_trackEvent', 'mainMenu','topLevel', 'NoktaDomains']);">Noktadomains</span>
 							</li>
 							<li>
-								<span class="instantSearch" link="/advancedsearch.html">Find Domains</span>
+								<span class="instantSearch" link="/advancedsearch.html" onclick="_gaq.push(['_trackEvent', 'mainMenu','topLevel', 'AdvamcedSearch']);">Find Domains</span>
 								<ul>
 									<li>
-										<span class="instantSearch" link="/advancedsearch.html">Advanced Search</span>
+										<span class="instantSearch" link="/advancedsearch.html" onclick="_gaq.push(['_trackEvent', 'mainMenu','SecondLevel','AdvamcedSearch']);">Advanced Search</span>
 									</li>
 									<li>
-										<span class="instantSearch" link="/premiumdomains">Premium Domains</span>
+										<span class="instantSearch" link="/premiumdomains" onclick="_gaq.push(['_trackEvent', 'mainMenu','SecondLevel','PremiumDomains']);">Premium Domains</span>
 									</li>
 									<li>
-										<span class="instantSearch" link="/bargaindomains">Bargain Domains</span>
+										<span class="instantSearch" link="/bargaindomains" onclick="_gaq.push(['_trackEvent', 'mainMenu','SecondLevel','BargainDoamins']);">Bargain Domains</span>
+									</li>
+								
+									<li>
+										<a href="/newsletterdomains" onclick="_gaq.push(['_trackEvent', 'mainMenu','SecondLevel','NewsletterDomains']);">Newsletter Domains</a>
 									</li>
 									<li>
-										<span class="instantSearch" link="/promotions">Promotions</span>
+										<span class="instantSearch" link="/populardomains" onclick="_gaq.push(['_trackEvent', 'mainMenu','SecondLevel','PopularDomains']);">Popular Domains</span>
 									</li>
 									<li>
-										<span class="instantSearch" link="/newsletterdomains">Newsletter Domains</span>
-									</li>
-									<li>
-										<span class="instantSearch" link="/populardomains">Popular Domains</span>
-									</li>
-									<li>
-										<span class="instantSearch" link="/topsearches">Top Searches</span>
+										<a href="/topsearches" onclick="_gaq.push(['_trackEvent', 'mainMenu','SecondLevel','Top Searches']);">Top Searches</a>
 									</li>
 								</ul>
 							</li>
 							<li>
-								<span class="instantSearch" link="/leasedomain.html">Lease Domains</span>
+								<span class="instantSearch" link="/leasedomain.html" onclick="_gaq.push(['_trackEvent', 'mainMenu','topLevel', 'LeaseDomain']);">Lease Domains</span>
 								<ul>
 									<li>
-										<a href="/domainnameleasing.html">Domain Name Leasing</a>
+										<a href="/domainnameleasing.html" onclick="_gaq.push(['_trackEvent', 'mainMenu','SecondLevel','DomainNameLeasing']);">Domain Name Leasing</a>
 									</li>
 									<li>
-										<span class="instantSearch" link="/leasedomain.html">Lease Domains</span>
+										<span class="instantSearch" link="/leasedomain.html" onclick="_gaq.push(['_trackEvent', 'mainMenu','SecondLevel','LeaseDomain']);">Lease Domains</span>
 									</li>
 									<li>
-										<a href="/leasingfaq.html">Leasing FAQ</a>
+										<a href="/leasingfaq.html" onclick="_gaq.push(['_trackEvent', 'mainMenu','SecondLevel','LeasingFAQ']);">Leasing FAQ</a>
 									</li>
 								</ul>
 							</li>
 							<li>
-								<span class="instantSearch" link="/category">Categories</span>
+								<span class="instantSearch" link="/category" onclick="_gaq.push(['_trackEvent', 'mainMenu','topLevel', 'Categories']);">Categories</span>
 								<ul>
 									
 										<li>
-											<span class="instantSearch" name="doubleLIA" title="Buy domains from Automotive" link="/category/automotive">Automotive</span>
+											<span class="instantSearch" name="doubleLIA" onclick="_gaq.push(['_trackEvent', 'mainMenu','SecondLevel','Category-Automotive']);" title="Buy domains from Automotive" link="/category/automotive">Automotive</span>
 										</li>						
 									
 										<li>
-											<span class="instantSearch" name="doubleLIA" title="Buy domains from Business and Finance" link="/category/businessandfinance">Business and Finance</span>
+											<span class="instantSearch" name="doubleLIA" onclick="_gaq.push(['_trackEvent', 'mainMenu','SecondLevel','Category-Business and Finance']);" title="Buy domains from Business and Finance" link="/category/businessandfinance">Business and Finance</span>
 										</li>						
 									
 										<li>
-											<span class="instantSearch" name="doubleLIA" title="Buy domains from Computers and Internet" link="/category/computersandinternet">Computers and Internet</span>
+											<span class="instantSearch" name="doubleLIA" onclick="_gaq.push(['_trackEvent', 'mainMenu','SecondLevel','Category-Computers and Internet']);" title="Buy domains from Computers and Internet" link="/category/computersandinternet">Computers and Internet</span>
 										</li>						
 									
 										<li>
-											<span class="instantSearch" name="doubleLIA" title="Buy domains from Education" link="/category/education">Education</span>
+											<span class="instantSearch" name="doubleLIA" onclick="_gaq.push(['_trackEvent', 'mainMenu','SecondLevel','Category-Education']);" title="Buy domains from Education" link="/category/education">Education</span>
 										</li>						
 									
 										<li>
-											<span class="instantSearch" name="doubleLIA" title="Buy domains from Entertainment" link="/category/entertainment">Entertainment</span>
+											<span class="instantSearch" name="doubleLIA" onclick="_gaq.push(['_trackEvent', 'mainMenu','SecondLevel','Category-Entertainment']);" title="Buy domains from Entertainment" link="/category/entertainment">Entertainment</span>
 										</li>						
 									
 										<li>
-											<span class="instantSearch" name="doubleLIA" title="Buy domains from Family" link="/category/family">Family</span>
+											<span class="instantSearch" name="doubleLIA" onclick="_gaq.push(['_trackEvent', 'mainMenu','SecondLevel','Category-Family']);" title="Buy domains from Family" link="/category/family">Family</span>
 										</li>						
 									
 										<li>
-											<span class="instantSearch" name="doubleLIA" title="Buy domains from Food and Beverage" link="/category/foodandbeverage">Food and Beverage</span>
+											<span class="instantSearch" name="doubleLIA" onclick="_gaq.push(['_trackEvent', 'mainMenu','SecondLevel','Category-Food and Beverage']);" title="Buy domains from Food and Beverage" link="/category/foodandbeverage">Food and Beverage</span>
 										</li>						
 									
 										<li>
-											<span class="instantSearch" name="doubleLIA" title="Buy domains from Games" link="/category/games">Games</span>
+											<span class="instantSearch" name="doubleLIA" onclick="_gaq.push(['_trackEvent', 'mainMenu','SecondLevel','Category-Games']);" title="Buy domains from Games" link="/category/games">Games</span>
 										</li>						
 									
 										<li>
-											<span class="instantSearch" name="doubleLIA" title="Buy domains from General" link="/category/general">General</span>
+											<span class="instantSearch" name="doubleLIA" onclick="_gaq.push(['_trackEvent', 'mainMenu','SecondLevel','Category-Home and Garden']);" title="Buy domains from Home and Garden" link="/category/homeandgarden">Home and Garden</span>
 										</li>						
 									
 										<li>
-											<span class="instantSearch" name="doubleLIA" title="Buy domains from Home and Garden" link="/category/homeandgarden">Home and Garden</span>
+											<span class="instantSearch" name="doubleLIA" onclick="_gaq.push(['_trackEvent', 'mainMenu','SecondLevel','Category-Health and Beauty']);" title="Buy domains from Health and Beauty" link="/category/healthandbeauty">Health and Beauty</span>
 										</li>						
 									
 										<li>
-											<span class="instantSearch" name="doubleLIA" title="Buy domains from Health and Beauty" link="/category/healthandbeauty">Health and Beauty</span>
+											<span class="instantSearch" name="doubleLIA" onclick="_gaq.push(['_trackEvent', 'mainMenu','SecondLevel','Category-Lifestyle']);" title="Buy domains from Lifestyle" link="/category/lifestyle">Lifestyle</span>
 										</li>						
 									
 										<li>
-											<span class="instantSearch" name="doubleLIA" title="Buy domains from Lifestyle" link="/category/lifestyle">Lifestyle</span>
+											<span class="instantSearch" name="doubleLIA" onclick="_gaq.push(['_trackEvent', 'mainMenu','SecondLevel','Category-Shopping']);" title="Buy domains from Shopping" link="/category/shopping">Shopping</span>
 										</li>						
 									
 										<li>
-											<span class="instantSearch" name="doubleLIA" title="Buy domains from Shopping" link="/category/shopping">Shopping</span>
+											<span class="instantSearch" name="doubleLIA" onclick="_gaq.push(['_trackEvent', 'mainMenu','SecondLevel','Category-Sports']);" title="Buy domains from Sports" link="/category/sports">Sports</span>
 										</li>						
 									
 										<li>
-											<span class="instantSearch" name="doubleLIA" title="Buy domains from Sports" link="/category/sports">Sports</span>
-										</li>						
-									
-										<li>
-											<span class="instantSearch" name="doubleLIA" title="Buy domains from Travel" link="/category/travel">Travel</span>
+											<span class="instantSearch" name="doubleLIA" onclick="_gaq.push(['_trackEvent', 'mainMenu','SecondLevel','Category-Travel']);" title="Buy domains from Travel" link="/category/travel">Travel</span>
 										</li>						
 									
 								</ul>
 							</li>
 							<li>
-								<span class="instantSearch" link="/contactus.html">Contact Us</span>
-								<ul>
-									<li>
-										<span class="instantSearch" link="/contactus.html">Contact Us</span>
-									</li>
-									<li>
-										<span class="instantSearch" link="http://www.facebook.com/NoktaDomains">Facebook</span>
-									</li>
-									<li>
-										<span class="instantSearch" link="http://twitter.com/#!/NoktaDomainscom">Twitter</span>
-									</li>
-									<li>
-										<span class="instantSearch" link="/faq.html">FAQ</span>
-									</li>
-									<li>
-										<span class="instantSearch" link="/overview.html">How to Purchase a Domain Name</span>
-									</li>
-								</ul>
-							</li>
-							<li>
-								<span class="instantSearch" link="/aboutus.html">About Us</span>
-								<ul>
-									<li>
-										<span class="instantSearch" link="/privacy.html">Privacy Policy</span>
-									</li>
-									<li>
-										<span class="instantSearch" link="/membershipcontract.html">Membership Contract</span>
-									</li>
-									<li>
-										<span class="instantSearch" link="/sitemap.html">Site Map</span>
-									</li>
-									<li>
-										<span class="instantSearch" link="http://blog.noktadomains.com/">Blog</span>
-									</li>
-								</ul>
+								<span style="width: 83px; padding-left: 41px;" class="instantSearch" link="/affiliate.html" onclick="_gaq.push(['_trackEvent', 'mainMenu','topLevel', 'Affiliate']);">Affiliate</span>
 								</li>
 							<li>
-								<span class="instantSearch" link="/user/index.html" style="border-top:none;">My Account</span>
+							</li><li>
+								<span class="instantSearch" link="/contactus.html" onclick="_gaq.push(['_trackEvent', 'mainMenu','topLevel', 'ContactUs']);">Contact Us</span>
 								<ul>
 									<li>
-										<span class="instantSearch" link="/user/index.html">User Home</span>
+										<span class="instantSearch" link="/contactus.html" onclick="_gaq.push(['_trackEvent', 'mainMenu','SecondLevel','ContactUs']);">Contact Us</span>
 									</li>
 									<li>
-										<span class="instantSearch" link="/user/negotiations.html">Offer Center</span>
+										<span class="instantSearch" link="http://www.facebook.com/NoktaDomains" onclick="_gaq.push(['_trackEvent', 'mainMenu','SecondLevel','Facebook']);">Facebook</span>
 									</li>
 									<li>
-										<span class="instantSearch" link="/user/leasingcenter-negotiation.html">Leasing Center</span>
+										<span class="instantSearch" link="http://twitter.com/#!/NoktaDomainscom" onclick="_gaq.push(['_trackEvent', 'mainMenu','SecondLevel','Twitter']);">Twitter</span>
 									</li>
 									<li>
-										<span class="instantSearch" link="/user/transfers.html">Transfer Center</span>
+										<span class="instantSearch" link="/faq.html" onclick="_gaq.push(['_trackEvent', 'mainMenu','SecondLevel','FAQ']);">FAQ</span>
 									</li>
 									<li>
-										<span class="instantSearch" link="/user/favoritedomains.html">Favorite Domains</span>
+										<span class="instantSearch" link="/overview.html" onclick="_gaq.push(['_trackEvent', 'mainMenu','SecondLevel','Overview']);">How to Purchase a Domain Name</span>
+									</li>
+									<li><span class="instantSearch" link="http://blog.noktadomains.com/" onclick="_gaq.push(['_trackEvent', 'mainMenu','SecondLevel','Blog']);">Blog</span></li>
+								</ul>
+							</li>
+							
+							<li>
+								<span class="instantSearch" link="/user/index.html" style="border-top:none;" onclick="_gaq.push(['_trackEvent', 'mainMenu','topLevel', 'MyAccount']);">My Account</span>
+								<ul>
+									<li>
+										<span class="instantSearch" link="/user/index.html" onclick="_gaq.push(['_trackEvent', 'mainMenu','SecondLevel','UserHome']);">User Home</span>
 									</li>
 									<li>
-										<span class="instantSearch" link="/user/savedsearches.html">Searches</span>
+										<span class="instantSearch" link="/user/negotiations.html" onclick="_gaq.push(['_trackEvent', 'mainMenu','SecondLevel','OfferCenter']);">Offer Center</span>
 									</li>
 									<li>
-										<span class="instantSearch" link="/user/settings.html">Settings</span>
+										<span class="instantSearch" link="/user/leasingcenter-negotiation.html" onclick="_gaq.push(['_trackEvent', 'mainMenu','SecondLevel','LeasingCenter']);">Leasing Center</span>
+									</li>
+									<li>
+										<span class="instantSearch" link="/user/transfers.html" onclick="_gaq.push(['_trackEvent', 'mainMenu','SecondLevel','TransferCenter']);">Transfer Center</span>
+									</li>
+									<li>
+										<span class="instantSearch" link="/user/favoritedomains.html" onclick="_gaq.push(['_trackEvent', 'mainMenu','SecondLevel','FavoriteDomains']);">Favorite Domains</span>
+									</li>
+									<li>
+										<span class="instantSearch" link="/user/savedsearches.html" onclick="_gaq.push(['_trackEvent', 'mainMenu','SecondLevel','Searches']);">Searches</span>
+									</li>
+									<li>
+										<span class="instantSearch" link="/user/affiliatepartner.html" onclick="_gaq.push(['_trackEvent', 'mainMenu','SecondLevel','AffiliatePartnership']);">Affiliate Partnership</span>
+									</li>
+									<li>
+										<span class="instantSearch" link="/user/settings.html" onclick="_gaq.push(['_trackEvent', 'mainMenu','SecondLevel','Settings']);">Settings</span>
 									</li>
 								</ul>
 							</li>
@@ -458,14 +473,11 @@
 					
 						
 						
-							<script type="text/javascript"> 
-								flashTextPrint('myriad_regular','quickSearchTitle',300,32,'FFFFFF',20,40,'00a651',1); 
-							</script>
 						
 					
 						<div class="quickSearchInput">
 							<input type="text" name="keywords" id="quickSearchKeyword" value="Domain or Keyword(s)" class="autocomplete" onblur="javascript:focusOutInput(this, 'Domain or Keyword(s)')" onfocus="javascript:focusInput(this, 'Domain or Keyword(s)')">
-							<div class="submit"><input type="submit" onclick="_gaq.push(['_trackEvent', 'searchDomain', 'click', 'false']);" name="" value=""></div>
+							<div class="submit"><input type="submit" onclick="_gaq.push(['_trackEvent', 'quickSearch', window.location.pathname, $('#quickSearchKeyword').val()]);" name="" value=""></div>
 						</div>
 						</form>
 						<div class="eqPhrases">(e.g. Css.net, Car, TouchScreen.com, Computers)</div>
@@ -485,6 +497,7 @@
 							<li class=""><a class="contact" href="/contactus.html"><div class="link">Contact Us</div></a></li>
 							<li class="selected"><a class="privacy" href="/privacy.html"><div class="link">Privacy Policy</div></a></li>
 							<li class=""><a class="membership" href="/membershipcontract.html"><div class="link">Membership Contract</div></a></li>
+							<li class=""><a class="membership" href="/affiliateagreement.html"><div class="link">Affiliate Agreement</div></a></li>
 							<li class="last"><a class="sitemap" href="/sitemap.html"><div class="link">Site Map</div></a></li>
 							
 						</ul>
@@ -532,7 +545,7 @@
 				<div class="bottomBlock wrapper">
 					<ul>
 						<li class="title">
-							NoktaDomains.com © 2012
+							NoktaDomains.com © 2013
 						</li>
 						<li class="footerLI">
 							<span class="instantSearch" link="/" title="Home Page">Home</span>
@@ -569,6 +582,9 @@
 							
 							
 						</li>
+						<li class="footerLI">
+							<span class="instantSearch" link="/affiliate.html" title="Affiliate Partnership">Affiliate</span>
+						</li>
 					</ul>
 					<ul class="footerUL">
 						<li class="scoilNetworkLI">
@@ -588,6 +604,11 @@
 					<div class="domainingFooter">
 						
 					</div>
+					<div class="domainingFooter" style="margin-right: 0px;">
+						<span onclick="window.open('https://seal.godaddy.com/verifySeal?sealID=NWxOA8Ds2mPZPH1a9jaZ4uw9UV6PLel6E5Umj0Qi9w9crzfmcPCY')" id="siteseal" style="float:left;cursor: pointer;">
+						<img width="132" height="31" src="/_interface/_i/siteseal_gd_3_h_l_m.gif">					
+						</span>
+					</div>
 					<div class="KrediCardFooter">
 						<ul>
 							<li class="KrediCardFooterLI">
@@ -604,6 +625,22 @@
 				</div>
 			
 		</div>
+		<script type="text/javascript">
+		if (document.referrer.match(/google\.com/gi) && document.referrer.match(/cd/gi)) {
+		  var myString = document.referrer;
+		  var r        = myString.match(/cd=(.*?)&/);
+		  var rank     = parseInt(r[1]);
+		  var kw       = myString.match(/q=(.*?)&/);
+		  
+		  if (kw[1].length > 0) {
+		    var keyWord  = decodeURI(kw[1]);
+		  } else {
+		    keyWord = "(not provided)";
+		  }
+		  var p        = document.location.pathname;
+		  _gaq.push(['_trackEvent', 'RankTracker', keyWord, p, rank, true]);
+		}
+		</script>
 	
 
 
