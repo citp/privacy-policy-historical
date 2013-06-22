@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the memory-improvement-tips.com privacy policy that was archived on 2012-10-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121015030421id_/http%3A//www.memory-improvement-tips.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the memory-improvement-tips.com privacy policy that was archived on 2013-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130623015205id_/http%3A//www.memory-improvement-tips.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Memory-Improvement-Tips.com's Privacy Policy
 
@@ -56,10 +56,6 @@ If you do not agree to Memory-Improvement-Tips.Com Privacy Policy as posted here
 
 Your use of this site indicates acceptance of this privacy policy.
 
-If you found the page above interesting, fun, or useful, please click the "Like" and/or "+1" buttons below. Feel free to leave a comment as well. Thanks very much!
+* * *
 
-**Share this page:  **| | | |   
----|---|---|---|---  
-| | |   
-  
-Enjoy this page? Please pay it forward. Here's how...
+**Back to** [Home Page](http://www.memory-improvement-tips.com/)
