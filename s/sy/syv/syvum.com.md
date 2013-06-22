@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the syvum.com privacy policy that was archived on 2012-09-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120920021337id_/http%3A//syvum.com/legal/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the syvum.com privacy policy that was archived on 2013-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130622035854id_/http%3A//www.syvum.com/legal/privacy.html) for the most accurate reproduction.*
 
 # Syvum Privacy Policy
 
@@ -14,7 +14,7 @@ We want to give you information about our privacy policy and assure you that we 
 
 ### CHILDREN UNDER 13
 
-Syvum does not collect any information from children under 13 that could identify them. Although guests under 13 years of age may be allowed to participate in some contests and promotions, if such a guest wins, notification and prizes will be sent only to the parents or guardians. Publication of contest winners names for individuals under 13 require parental or guardian consent. 
+Syvum does not collect any information from children under 13 that could identify them. 
 
 ### CHOICE 
 
