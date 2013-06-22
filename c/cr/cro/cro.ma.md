@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the cro.ma privacy policy that was archived on 2012-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121206204132id_/http%3A//cro.ma/%3Fpage_id%3D318) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cro.ma privacy policy that was archived on 2013-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130622231735id_/http%3A//cro.ma/%3Fpage_id%3D318) for the most accurate reproduction.*
 
-# None
+# Croma - Privacy Statement
 
 Croma values the privacy and security of the information that you share with us through www.cro.ma (the “Web Site”).  It is important that you understand how we collect, use, and maintain your information.  This Privacy Statement explains our online information practices, the choices you may make about how we collect and use your information at this Web Site, and the ways you may contact us.
 
