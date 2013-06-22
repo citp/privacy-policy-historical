@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the popstaronline.com privacy policy that was archived on 2012-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121220213312id_/http%3A//www.popstaronline.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the popstaronline.com privacy policy that was archived on 2013-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130622232828id_/http%3A//www.popstaronline.com/privacy-policy) for the most accurate reproduction.*
 
 # POPSTAR! » Privacy Policy
 
@@ -54,10 +54,10 @@ Contact Information:
 If you have any questions or comments about our privacy practices, you can contact us at:
 
 Popstar! Publications, Inc.  
-210 E State Route 4, Ste 211  
-Paramus, NJ 07652-5103  
+130 W Pleasant Ave, Suite 387  
+Maywood, NJ 07607  
 coppa@popstaronline.com  
-201-843-4004
+201-820-3993
 
 *************************************************************  
 For more information about the Children’s Online Privacy Protection Act of 1998, please visit <http://www.ftc.gov/bcp/conline/pubs/buspubs/coppa.htm>.
