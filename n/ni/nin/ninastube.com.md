@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ninastube.com privacy policy that was archived on 2012-02-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120207235910id_/http%3A//www.ninastube.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ninastube.com privacy policy that was archived on 2013-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130622212017id_/http%3A//www.monicastube.com/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
