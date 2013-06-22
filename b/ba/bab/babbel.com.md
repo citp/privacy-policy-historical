@@ -1,113 +1,119 @@
-> *The following text is extracted and transformed from the babbel.com privacy policy that was archived on 2012-10-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121006031248id_/http%3A//www.babbel.com/home/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the babbel.com privacy policy that was archived on 2013-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130622160321id_/http%3A//www.babbel.com/home/privacy-statement) for the most accurate reproduction.*
 
 # Babbel: Privacy Statement
 
-### Terms and Conditions on Data Protection
+## Privacy statement for Babbel
 
-"Babbel" is a service provided by the Lesson Nine GmbH, located in Bergmannstraße 68, 10961 Berlin, Germany. This policy document contains the rules how personal data are processed and stored at Lesson Nine. All personal information is handled most carefully. The protection of these data is of the highest concern to Lesson Nine. These terms and conditions are an addition to the general terms and conditions for using Babbel. Please contact us at [info@babbel.com](mailto:info@babbel.com) if you have any questions concerning this policy.
+“Babbel” is a service offered by Lesson Nine GmbH, Bergmannstrasse 5, 10961 Berlin, Germany. Through this privacy statement, Lesson Nine wishes to inform you of how your personal data are processed and in what form some of these data are made accessible for other users. All personal data are treated with the utmost care at Lesson Nine. All the necessary steps are taken to guarantee the security of these data. This privacy statement supplements the General Terms and Conditions of Business of Babbel. Please write to [info@babbel.com](mailto://info@babbel.com) if you have any queries relating to this document.
 
-### 1\. What data are stored?
+### 1\. Which data are stored?
 
-#### 1.1. Personal Data
+#### 1.1 Personal data
 
-When you register, we collect and store basic information such as your name, address, email address and other contact information such as username and password. You may provide us with additional information on the site (e.g. if you complete your profile) or if you communicate with us.
+When you register with us, we record and save your basic data such as name and e-mail address together with other contact information such as user name and password. We may receive further information from you via the website (e.g. if you fill in your personal profile) or if you communicate with us.
 
-The following registration data will be available for other users:
+The following registration data are accessible for other Babbel users:
 
-  * First name
-  * Last name
-  * Screen name
+  * selected language combinations
 
 
 
-All profile data are provided voluntarily and will be displayed to other Babbel users.
+Other data provided voluntarily are also generally accessible for other users of Babbel; however, you can disable such access at <http://www.babbel.com/profile/user/edit>. This concerns first name, surname, gender, age and any other voluntary details that you can save in your profile.
 
-#### 1.2. Cookies
+#### 1.2 Cookies
 
-After your login with user name and password, Babbel uses cookies to identify you during the course of your session. A cookie will be stored on your computer. Upon the termination of your session the session cookie will automatically be deleted. A persistant cookie stores your flash version number anonymously. On login, you can save another persistent cookie that contains your encrypted login information and is stored locally. This is done by the option "remember me".
+After you have logged in (with user name and password), Babbel uses cookies with which you can be identified for the duration of your visit. Cookies are small files stored on your computer or mobile device which identify the device to our server and also provide additional data. Other technologies such as pixel tags, web bugs, web storage and similar files fulfil the same purpose. A cookie is saved on your computer.
 
-#### 1.3. Log Files
+One type of cookie automatically expires after your session has ended. This is called a session cookie. Your user settings, in particular, are saved as session cookies so that Babbel can always be used in the form you require. Another permanently stored anonymous cookie contains the version number of your Flash player. When you log in, you also have the option of saving you user name and password locally in encrypted form on your computer. You can save this cookie permanently for automatic log in with the function “Log me in automatically on this computer”. In addition to this, user settings, such as language selection, language recognition settings, user IDs for various applications, are saved in both session cookies and permanent cookies by Babbel in order to facilitate the use of Babbel.
 
-Each time you access Babbel, the following data will be stored in the server log file:
+You switch off the use of cookies for our website or in general in the settings of your Internet browser. You can find out how this functions from the website of your Internet browser supplier. For the Internet Explorer you can find the relevant instructions at <http://windows.microsoft.com/de-DE/windows-vista/Block-or-allow-cookies>, for Firefox at <http://support.mozilla.org/de/kb/cookies-erlauben-und-ablehnen>, for Apple Safari at [http://support.apple.com/kb/index?page=search&fac=all&q=cookies%20safari](http://support.apple.com/kb/index?page=search&fac=all&q=cookies%20safari) and for Google Chrome at [http://support.google.com/chrome/bin/answer.py?hl=de&answer=95647](http://support.google.com/chrome/bin/answer.py?hl=de&answer=95647).
 
-  * Your IP address (by which your computer can be clearly identified)
-  * The name and IP address of the computer requesting the respective page from the Babbel web servers (the so called "remote host computer")
-  * The time, status, and amount of the transferred data, as well as the Internet website from which you have reached the requested page of the Babbel web servers (the so called "referrer")
-  * The product and release information from your Internet browser (the so called "user agent").
+However, deactivating cookies will mean that a number of functionalities, e.g. automatically logging in to the website, will no longer operate as intended.
 
+#### 1.3 Log files
 
+Each time a page is called up, access data are saved in a protocol file, the server log. The data record thus saved contains the following data:
 
-This log file will be stored by Lesson Nine in the standardized "combined" log file format for the LightTpd Web server. Lesson Nine uses the data from this log file in anonymous form without reference to your person just for statistical purposes. In doing so, Lesson Nine may analyze on which days and at which time the Babbel services are particularly frequented and how much data volume is created on the Babbel web servers. Furthermore, by using the log file, Lesson Nine can identify defects on Babbel, such as defective hyperlinks or program defects, and thus continually improve the quality of Babbel. Lesson Nine does not attribute the website requests stored in the log file to specific individual users. However, Lesson Nine reserves the right to review the log files from the last known IP address of a Babbel member if Lesson Nine has reasonable cause to believe that the member is using Babbel in breach of contractual agreements or the applicable legislation.
-
-#### 1.4. Google Analytics
-
-This website uses Google Analytics, a web analytics service provided by Google, Inc. ("Google"). Google Analytics uses "cookies", which are text files placed on your computer, to help the website analyze how users use the site. The information generated by the cookie about your use of the website (including your IP address) will be transmitted to and stored by Google on servers in the United States . Google will use this information for the purpose of evaluating your use of the website, compiling reports on website activity for website operators and providing other services relating to website activity and internet usage. Google may also transfer this information to third parties where required to do so by law, or where such third parties process the information on Google's behalf. Google will not associate your IP address with any other data held by Google.  
-You may refuse the use of cookies by selecting the appropriate settings on your browser, however please note that if you do this you may not be able to use the full functionality of this website.  
-By using this website, you consent to the processing of data about you by Google in the manner and for the purposes set out above.
-
-#### 1.5. Like button  
+  * your IP address (by means of which your computer can be unambiguously identified)
+  * the remote host (name and IP address of the computer requesting the page)
+  * the time, the status, the quantity of data transferred and the Internet page from which you accessed the requested page (referrer)
+  * The product and version information of the browser used (user agent)
 
 
-Babbel uses a "like button" that enables a personal information exchange with Facebook if you are logged in to Babbel and Facebook at the same time. In this case, personal data is shared with Facebook even when the "like button" is not active.
 
-#### 1.6. Personal Vocabulary
+Lesson Nine uses a standardized webserver logfile format for this purpose. Provided these data are not urgently required for the technical maintenance of the system or for the system security, they are anonymized instantly and the original protocols are deleted. Anonymization takes place by removal or truncation of the IP address by allocating a code not assigned to a user. Any allocation to an identified or identifiable person is therefore no longer possible. Lesson Nine therefore uses the protocol data (logs) exclusively in anonymized form for statistical evaluations, hence without any allocation or references to your personal details. In this way, Lesson Nine determines, for instance, on which days and at which times Babbel is particularly popular and what volume of data is generated on the Babbel web servers. Furthermore, Lesson Nine can detect possible errors through the log files, e.g. faulty links or program errors, and thus use the log files for the ongoing development and refinement of Babbel. Lesson Nine does not link the page requests and usage information to individual persons.
 
-In order to provide Babbel users with a convenient way of reviewing their vocabulary Lesson Nine stores all practised words and phrases as well as the test scores in the user's personal vocabulary. These data are available to others only as so-called high scores.
+#### 1.4 Google Analytics
 
-#### 1.7. Image Uploads And Ratings
+This website uses Google Analytics, a web analytics service provided by Google, Inc. (“Google”). Google Analytics uses “cookies”, which are text files placed on your computer, to help the website analyse how you use the site. As anonymization is activated for the data we collect, your IP address is truncated by Google within member states of the European Union or in other signatory countries to the Treaty creating the European Economic Area and only then is it transferred to the USA.
 
-Babbel users can upload pictures for public use. These pictures are publicly related to the screen name and profile of the uploader. Individual picture ratings are also related to the user's account, for other users they are only accessable anonimously.
+Only in exceptional cases will the full IP address be transferred to a Google server in the USA and truncated there. On behalf of the operator of this website, Google will use this information for the purpose of evaluating your use of the website in order to compile reports on website activity for the website operator and to provide other services relating to website activity and Internet usage. The IP address transferred by your browser within the scope of Google Analytics will not be combined with other data from Google.
 
-#### 1.8. Messages
+You may prevent the saving of cookies by selecting the appropriate settings on your browser; however, please note that if you do this, you may not be able to use the full functionality of this website. Furthermore, you can prevent the data captured by the cookie and relating to your use of the website (incl. your IP address) from being captured and processed by Google by downloading and installing the browser plugin available at the following link <https://tools.google.com/dlpage/gaoptout?hl=en>.
 
-All messages, chats and other contacts between Babbel users who make use of the Babbel community tools are stored on the Babbel webservers. This private information will not be made accessible to others by any means.
+Further information on the use of the data and privacy policy at Google Analytics is available at <http://www.google.com/analytics/terms/de.html> or <http://www.google.com/intl/en/policies/privacy/>. Babbel.de uses Google Analytics exclusively in connection with the “gat._anonymizeIp();” extension so that IP addresses are only recorded in truncated, i.e. anonymized form.
 
-### 2\. Why Are The Data Stored?
+#### 1.5 Personal vocabulary
 
-Sole purpose of the collection, saving and processing of these data is to provide, sustain, and develop the services of Babbel. The data will not be passed on to third paries or used for other purposes.
+To enable Babbel users to conveniently revise their vocabulary, all practised words and sentences together with all results of exercises are saved in the user’s personal vocabulary. These data can be viewed by other users only in the form of high scores, which do not indicate which specific words or sentences are being practised but merely reveal how many exercises have been successfully completed.
 
-### 3\. Sharing data with third parties
+#### 1.6 Image uploads and image scores
 
-Lesson Nine does not share personal information of its users with third parties unless it is legally required or permitted by the user. In case of a violation of third party rights (especially copyrights, trademark rights etc.) by the user, Lesson Nine will only pass on data if the title bearer has conclusively laid out his claims to Lesson Nine.
+Babbel users can upload images for general use in areas such as the forum.
 
-### 4\. Data security
+#### 1.7 Messages
 
-Lesson Nine has employed several security measures to protect user data from deletion, change, or abusive use. Lesson Nine uses constantly updated industry-standard firewalls as well as other security systems. Please note that due to constantly new computer viruses and other measures, a hundred percent protection cannot be guaranteed. In case of damage or deletion of data through unknown viruses Lesson Nine cannot be held responsible. Lesson Nine will prosecute any hacker attacks or the like to the fullest extent of law.
+All private messages between Babbel users via the Babbel website are saved on the Babbel servers. These private data are not made accessible to other users under any circumstances. The messages are deleted as soon as both communicating parties have deleted them from their mailboxes. Public messages in discussion forums are saved permanently provided you do not delete them yourself. The files remain saved even after you have terminated the service. Other users are able to recognize whether you take part in any activities within the discussion forum. Users with whom you are friends may also receive a message about your activities.
 
-### 5\. Access To Your Information
+#### 1.8 Newsletter & e-mails
 
-#### 5.1. Information Request
+We send you e-mails for a variety of reasons. These may include confirmations of an order or of a registration. However, communication may also concern information about our services, provided you have not revoked your consent for such usage, which you can of course do at any time at [http://www.babbel.com/profile/user/edit](http://www.babbel.com/profile/user/edit?current_tab=settings). Any e-mail messages we send are not saved by us and any e-mails that may be regarded as business letters will not be deleted during the statutory retention period. We also record any e-mail addresses to which a message could not be delivered in order to request an updated e-mail address. Furthermore, our e-mails contain graphics which, when called up, allow us to determine whether an e-mail message has been opened. This takes place anonymously and without any allocation to a specific person or user. The same applies if you click on a link in our e-mail messages.
 
-Any user has the right to gain access to his personal information free of charge. In case the request is not in writing, i.e. if it is an email or a phone call, a postal address is required. In order to process a request the user needs to identify by providing the following information: username, first name and name, email and postal addresses and date of birth. The request answer will be sent to the address provided by the user.
+### 2\. Purpose of storing the data
 
-#### 5.2. Data Updates
+The purpose of gathering, saving, processing and using the data is solely to facilitate, maintain and develop the “Babbel” service provided by Lesson Nine. In particular, part of the ongoing development involves the use of anonymous statistics on the usage of the services. Movement profiles of individual users on the website are not created. The data are not used for any other purposes.
 
-If the user changes or updates his personal information and thereby overwrites information, this old information will automatically be deleted. A separate request asking for the deletion of old information is not necessary.
+### 3\. No forwarding of data to third parties
 
-#### 5.3. Removal Of Data
+Lesson Nine does not forward the personal data of its users to third parties unless the user has given his/her explicit consent or there is a legal requirement to forward the data. In the case of payment processing, the data for processing the payment transaction are forwarded to the payment services provider if you do not supply the data directly. If you send your payment data directly to the payment services provider, we receive only very limited data. In such cases, we are merely informed whether or not the transaction relating to a specific transaction number has actually taken place. In such cases we do not receive your account data. If any third-party rights have been violated (in particular rights relating to copyright, trademarks, names and symbols) by the user, the user data will not be forwarded to the rights holder unless the latter conclusively demonstrates his/her claims to Lesson Nine.
 
-Any user can request change or deletion of his or her personal data at any time by contacting [info@babbel.com](mailto:info@babbel.com). Any request for changing, updating or deletion of personal information needs to be sent to Lesson Nine in writing via email or letter. In order to process the request the following information is necessary:
+### 4\. Minors
 
-  * Screen name
-  * Last name, first name
+As a matter of principle, Babbel is directed towards users who have reached the age of majority. Any use by minors without the consent of their legal guardians is prohibited. Lesson Nine therefore reserves the right to delete all data relating to underage users if no consent from the legal guardians is available.
+
+### 5\. Data security
+
+Lesson Nine employs safety precautions to guarantee that your data are protected against loss, modification or misuse. To this end, Lesson Nine works with constantly updated firewalls meeting the industry standard as well as other security systems. At the same time, the user should be aware of the fact that one hundred per cent protection against attacks cannot be guaranteed because of the continual appearance of new viruses and other means of attacking the protected data systems of Internet services. Lesson Nine will instigate civil and criminal proceedings against any attack by hackers and the like and will inform the users of any cases in which their data have been compromised.
+
+### 6\. Information, correction and deletion
+
+#### 6.1 Right to information on stored data
+
+Every user has the right to obtain information from Lesson Nine on the personal data that has been saved in relation to him/her. If the request for information is not conveyed to Lesson Nine in writing, hence particularly in the case of enquiries by telephone or e-mail, the user must provide a postal address to which the information can then be sent. In the request for information, the user must additionally provide the following details for identification purposes: user name, first name and surname, maiden name (if appropriate), e-mail address, postal address and date of birth. The information is sent by post to the address provided by the user.
+
+#### 6.2 Corrections
+
+If the user alters or corrects the details that he/she has provided and deletes old entries, the data previously entered by the user will be completely deleted automatically. An application for correction or deletion is not required. You can edit your personal data at any time at [http://www.babbel.com/profile/user/edit](http://www.babbel.com/profile/user/edit?current_tab=about). This notwithstanding, the user has the right at all times to demand the correction of any inaccurate data concerning him/her stored with Babbel. However, the easiest option is for users to correct any such entries themselves.
+
+#### 6.3 Deletion of data
+
+Should the user demand any alteration, correction or deletion of his/her personal data, this may take place by e-mail or letter. To ensure correct identification of the user, the request must at least contain the following details:
+
+  * User name
+  * First name and surname
   * E-mail address
   * Postal address
 
 
 
-Please note that deleted data might still be available due to caching systems, search engines, proxy servers, or similar systems that are out of reach of Lesson Nine
+Please note that due to caching systems, search engines, the interposition of proxy servers and the like, deleted data may continue to remain accessible even though they are no longer present within our systems.
 
-### 6\. Contact
+### 7\. Contact
 
-Your trust in our services is essential to us. If you have any questions or want more detailed information about this privacy policy please do not hesitate to contact us:
+The trust of our users is important to us. Lesson Nine therefore wishes to provide its users with full information on the processing of their personal data at all times. If any queries remain unanswered by this privacy statement or if more detailed information is required on any point, please contact the following address at any time:
 
 Lesson Nine GmbH  
-Bergmannstr. 68  
-10961 Berlin, Germany  
-email: [privacy@babbel.com](mailto:privacy@babbel.com)
-
-### 7\. Changes To This Privacy Policy
-
-In compliance with the valid data protection regulations Lesson Nine reserves the right to change this privacy policy at any time. The current version of this document is always available at the Babbel website.
-
-This is version 1.0 of the privacy policy, issued December 6th, 2007
+Bergmannstr. 5  
+10961 Berlin  
+Germany  
+E-mail: [privacy@babbel.com](mailto:privacy@babbel.com)
