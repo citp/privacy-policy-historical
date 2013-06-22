@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the shopping-bargains.com privacy policy that was archived on 2012-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121214045020id_/http%3A//www.shopping-bargains.com/articles/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shopping-bargains.com privacy policy that was archived on 2013-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130623010037id_/http%3A//www.shopping-bargains.com/articles/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy for Shopping-Bargains.com
 
@@ -78,15 +78,15 @@ By using our site, you consent to our privacy policy.
 
 If we decide to change our privacy policy, we will post those changes on this page, and/or update the Privacy Policy modification date below. Policy changes will apply only to information collected after the date of the change.
 
-This policy was last modified on **3-Dec-2010**
+This policy was last modified on **24-Apr-2013**
 
 **Contacting Us**
 
 If there are any questions regarding this privacy policy you may contact us using the information below.
 
 Shopping-Bargains.com, LLC  
-102 Briarwood Drive  
-Starkville, MS 39759  
+2400 Meadowview Cv  
+West Point, MS 39773  
 United States of America  
 info @ shopping-bargains.com  
 888-810-8180
