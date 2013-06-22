@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the flirthookup.com privacy policy that was archived on 2012-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121210175908id_/http%3A//www.flirthookup.com/site/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the flirthookup.com privacy policy that was archived on 2013-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130622042144id_/http%3A//www.flirthookup.com/site/privacy) for the most accurate reproduction.*
 
 # Flirt and Hook Up - Find people, socialize, hookup and chat.
 
@@ -14,6 +14,7 @@
   8. Third Party Collections of Information
   9. Security
   10. Update/Delete
+  11. Opt-out provisions
 
 
 
@@ -86,3 +87,19 @@ You have the following choices to modify or delete your profile information from
   * Log in with your password and modify your profile;
 
 
+
+#### 11\. Opt-out provisions
+
+You can unsubscribe at any time by clicking the 'unsubscribe' link at the bottom of our mails. When clicking the unsubscribe link, you will be instantly removed from all the mailing lists of FH International. You can also choose to opt-out through the email preference center of your profile by clicking on 'Account Settings' when logged in. 
+
+  
+
+
+#### Our address:
+
+FH International Limited  
+Island House  
+Grande Rue  
+St Martins  
+Guernsey, Channel Islands  
+GY4 6RU 
