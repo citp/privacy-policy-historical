@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the highlig.ht privacy policy that was archived on 2012-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121227165444id_/http%3A//highlig.ht/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the highlig.ht privacy policy that was archived on 2013-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130622040224id_/http%3A//highlig.ht/privacy.html) for the most accurate reproduction.*
 
 # Highlight | Privacy Policy
 
@@ -60,7 +60,7 @@ To help you quickly set up a profile, the Service imports some of your data from
 
 You may at times have the option of posting your Highlight activities to other social networking service like Facebook or Twitter. You acknowledge that if you choose to use this feature, your friends, followers and subscribers on any social networking services you have enabled will be able to view such activity. 
 
-You also acknowledge that other Highlight users may â€œhighlightâ€ you or mention you in their posts, notes, and/or encounter summaries, and that such mentions may be shared on Facebook. 
+You also acknowledge that other Highlight users may “highlight” you or mention you in their posts, notes, and/or encounter summaries, and that such mentions may be shared on Facebook. 
 
 ## Steps we take to protect your privacy
 
@@ -76,4 +76,4 @@ Again, if you have feedback, comments, or questions about this Privacy Policy yo
 
 Thanks for trying out Highlight! 
 
-Last updated on November 20, 2012. 
+Last updated on November 20, 2013. 
