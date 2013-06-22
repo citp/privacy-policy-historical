@@ -1,15 +1,16 @@
-<!--The following is the downloaded HTML source of the e2enetworks.com privacy policy that was archived on 2012-10-01.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121001085258id_/http%3A//e2enetworks.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the e2enetworks.com privacy policy that was archived on 2013-06-22.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130622232622id_/http%3A//e2enetworks.com/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head profile="http://gmpg.org/xfn/11">
 
 <title>Privacy Policy | E2E Networks</title> 
 	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">	
-	<meta name="generator" content="WordPress 3.3.1"> <!-- leave this for stats please -->
+	<meta name="generator" content="WordPress 3.5.1"> <!-- leave this for stats please -->
 <meta name="robots" content="Index,ALL">
 <meta name="rating" content="General">
 <meta name="language" content="en">
 <meta name="distribution" content="Global">
+<meta name="google-site-verification" content="GXBqoTENvPn1Gh86SZ4k6OLgiCeydMl37_lBI3gyMcE">
 <link rel="stylesheet" href="http://e2enetworks.com/wp-content/themes/primepress-now/style.css" type="text/css" media="screen">
 	
 	
@@ -23,13 +24,20 @@
 	
 
 <link rel="alternate" type="application/rss+xml" title="E2E Networks » Privacy Policy Comments Feed" href="http://e2enetworks.com/terms-and-conditions/privacy-policy/feed/">
-<link rel="stylesheet" id="simple-form-revisited-plugin-style-css" href="http://e2enetworks.com/wp-content/plugins/simple-contact-form-revisited-plugin/assets/css/style.css?ver=2.0.7" type="text/css" media="screen">
+<link rel="stylesheet" id="simple-form-revisited-plugin-style-css" href="http://e2enetworks.com/wp-content/plugins/simple-contact-form-revisited-plugin/assets/css/style.css?ver=2.0.9" type="text/css" media="screen">
+<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="http://e2enetworks.com/wp-includes/js/comment-reply.min.js?ver=3.5.1"></script>
+<script type="text/javascript" src="http://e2enetworks.com/wp-includes/js/jquery/jquery.js?ver=1.8.3"></script>
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://e2enetworks.com/xmlrpc.php?rsd">
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://e2enetworks.com/wp-includes/wlwmanifest.xml"> 
+<link rel="prev" title="Cancellation and Refund Policy" href="http://e2enetworks.com/terms-and-conditions/cancellation-and-refund-policy/">
+<link rel="next" title="Windows VPS Servers India" href="http://e2enetworks.com/vps-servers/windows-vps-servers-india/">
+<meta name="generator" content="WordPress 3.5.1">
+<link rel="canonical" href="http://e2enetworks.com/terms-and-conditions/privacy-policy/">
 
-<!-- Multi-level Navigation Plugin v2.2.4 by PixoPoint Web Development ... http://pixopoint.com/multi-level-navigation/ -->
+<!-- Multi-level Navigation Plugin v2.3.5 by PixoPoint Web Development ... http://pixopoint.com/multi-level-navigation/ -->
 
 <!-- Inline CSS from Multi-level Navigation Plugin | this mode is activated via the admin page -->
-<style type="text/css">
-#suckerfishnav {
+<style type="text/css">#suckerfishnav {
     background:url('http://e2enetworks.com/wp-content/uploads/2008/11/current-bg.gif') repeat-x;
     font-size:13px;
     font-family:Arial;
@@ -127,21 +135,129 @@ li li li.sfhover ul {
     }
 #suckerfishnav li:hover, #suckerfishnav li.sfhover {
     background-color:#;
-}
+}</style>
+<!--[if lte IE 7]><script type="text/javascript" src="http://e2enetworks.com/wp-content/plugins/multi-level-navigation-plugin/scripts/suckerfish_ie.js"></script><![endif]--><script>jQuery(document).ready(function() {
+	jQuery("ul.sf-menu").superfish({
+		animation:     {opacity:"show",height:"show"},  // fade-in and slide-down animation
+		delay:        0,                            // delay on mouseout
+		speed:        1,  // animation speed
+		autoArrows:   "",  // enable generation of arrow mark-up
+		dropShadows:  ""  // enable drop shadows
+	});
+});
+/**
+* hoverIntent is similar to jQuery's built-in "hover" function except that
+* instead of firing the onMouseOver event immediately, hoverIntent checks
+* to see if the user's mouse has slowed down (beneath the sensitivity
+* threshold) before firing the onMouseOver event.
+*
+* hoverIntent r5 // 2007.03.27 // jQuery 1.1.2+
+* <http://cherne.net/brian/resources/jquery.hoverIntent.html>
+*
+* hoverIntent is currently available for use in all personal or commercial
+* projects under both MIT and GPL licenses. This means that you can choose
+* the license that best suits your project, and use it accordingly.
+*
+* // basic usage (just like .hover) receives onMouseOver and onMouseOut functions
+* $("ul li").hoverIntent( showNav , hideNav );
+*
+* // advanced usage receives configuration object only
+* $("ul li").hoverIntent({
+*	sensitivity: 7, // number = sensitivity threshold (must be 1 or higher)
+*	interval: 100,   // number = milliseconds of polling interval
+*	over: showNav,  // function = onMouseOver callback (required)
+*	timeout: 0,   // number = milliseconds delay before onMouseOut function call
+*	out: hideNav    // function = onMouseOut callback (required)
+* });
+*
+* @param  f  onMouseOver function || An object with configuration options
+* @param  g  onMouseOut function  || Nothing (use configuration options object)
+* @author    Brian Cherne <brian@cherne.net>
+*/
+(function($) {
+	$.fn.hoverIntent = function(f,g) {
+		// default configuration options
+		var cfg = {
+			sensitivity: 10,
+			interval: 50,
+			timeout: 0
+		};
+		// override configuration options with user supplied object
+		cfg = $.extend(cfg, g ? { over: f, out: g } : f );
 
-</style>
+		// instantiate variables
+		// cX, cY = current X and Y position of mouse, updated by mousemove event
+		// pX, pY = previous X and Y position of mouse, set by mouseover and polling interval
+		var cX, cY, pX, pY;
 
-<!--[if lte IE 7]><script type="text/javascript" src="http://e2enetworks.com/wp-content/plugins/multi-level-navigation-plugin/scripts/suckerfish_ie.js"></script><![endif]-->
-<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="http://e2enetworks.com/wp-includes/js/comment-reply.js?ver=20090102"></script>
-<script type="text/javascript" src="http://e2enetworks.com/wp-includes/js/jquery/jquery.js?ver=1.7.1"></script>
-<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://e2enetworks.com/xmlrpc.php?rsd">
-<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://e2enetworks.com/wp-includes/wlwmanifest.xml"> 
-<link rel="prev" title="Cancellation and Refund Policy" href="http://e2enetworks.com/terms-and-conditions/cancellation-and-refund-policy/">
-<link rel="next" title="Windows VPS Servers India" href="http://e2enetworks.com/vps-servers/windows-vps-servers-india/">
-<meta name="generator" content="WordPress 3.3.1">
-<link rel="canonical" href="http://e2enetworks.com/terms-and-conditions/privacy-policy/">
+		// A private function for getting mouse position
+		var track = function(ev) {
+			cX = ev.pageX;
+			cY = ev.pageY;
+		};
 
-<!-- All in One SEO Pack 1.6.13.8 by Michael Torbert of Semper Fi Web Design[211,256] -->
+		// A private function for comparing current and previous mouse position
+		var compare = function(ev,ob) {
+			ob.hoverIntent_t = clearTimeout(ob.hoverIntent_t);
+			// compare mouse positions to see if they've crossed the threshold
+			if ( ( Math.abs(pX-cX) + Math.abs(pY-cY) ) < cfg.sensitivity ) {
+				$(ob).unbind("mousemove",track);
+				// set hoverIntent state to true (so mouseOut can be called)
+				ob.hoverIntent_s = 1;
+				return cfg.over.apply(ob,[ev]);
+			} else {
+				// set previous coordinates for next time
+				pX = cX; pY = cY;
+				// use self-calling timeout, guarantees intervals are spaced out properly (avoids JavaScript timer bugs)
+				ob.hoverIntent_t = setTimeout( function(){compare(ev, ob);} , cfg.interval );
+			}
+		};
+
+		// A private function for delaying the mouseOut function
+		var delay = function(ev,ob) {
+			ob.hoverIntent_t = clearTimeout(ob.hoverIntent_t);
+			ob.hoverIntent_s = 0;
+			return cfg.out.apply(ob,[ev]);
+		};
+
+		// A private function for handling mouse 'hovering'
+		var handleHover = function(e) {
+			// next three lines copied from jQuery.hover, ignore children onMouseOver/onMouseOut
+			var p = (e.type == "mouseover" ? e.fromElement : e.toElement) || e.relatedTarget;
+			while ( p && p != this ) { try { p = p.parentNode; } catch(e) { p = this; } }
+			if ( p == this ) { return false; }
+
+			// copy objects to be passed into t (required for event object to be passed in IE)
+			var ev = jQuery.extend({},e);
+			var ob = this;
+
+			// cancel hoverIntent timer if it exists
+			if (ob.hoverIntent_t) { ob.hoverIntent_t = clearTimeout(ob.hoverIntent_t); }
+
+			// else e.type == "onmouseover"
+			if (e.type == "mouseover") {
+				// set "previous" X and Y position based on initial entry point
+				pX = ev.pageX; pY = ev.pageY;
+				// update "current" X and Y position based on mousemove
+				$(ob).bind("mousemove",track);
+				// start polling interval (self-calling timeout) to compare mouse coordinates over time
+				if (ob.hoverIntent_s != 1) { ob.hoverIntent_t = setTimeout( function(){compare(ev,ob);} , cfg.interval );}
+
+			// else e.type == "onmouseout"
+			} else {
+				// unbind expensive mousemove event
+				$(ob).unbind("mousemove",track);
+				// if hoverIntent state is true, then call the mouseOut function after the specified delay
+				if (ob.hoverIntent_s == 1) { ob.hoverIntent_t = setTimeout( function(){delay(ev,ob);} , cfg.timeout );}
+			}
+		};
+
+		// bind the function to the two event listeners
+		return this.mouseover(handleHover).mouseout(handleHover);
+	};
+})(jQuery);
+</script>
+<!-- All in One SEO Pack 2.0.2 by Michael Torbert of Semper Fi Web Design[211,256] -->
 <!-- /all in one seo pack -->
 </head>
 <body class="custom">
@@ -155,14 +271,14 @@ li li li.sfhover ul {
 <div id="header2">
 <div class="header3"> <ul>
 <li><img src="http://e2enetworks.com/wp-content/uploads/2008/11/sales.jpg" style="width:67px; margin-left:10px;"></li>
-<li style="margin-top:-10px;"><font style="color:#0098da;">&nbsp;&nbsp;&nbsp;&nbsp;Sales</font><br>+91-11-3020-1096<br>
+<li style="margin-top:-10px;"><font style="color:#0098da;">&nbsp;&nbsp;&nbsp;&nbsp;Sales</font><br>+91-11-3020-1092<br>
 <font style="margin-left:-20px; "><a href="mailto:sales@e2enetworks.com">sales@e2enetworks.com</a></font></li></ul></div>
 <div class="header3"><ul>
-<li><img src="http://e2enetworks.com/wp-content/uploads/2008/11/account.jpg" style="width:50px; margin-left:50px;"></li>
-<li style="margin-top:-9px;"><font style="color:#0098da;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Accounts</font><br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;+91-11-3020-1096<br><font style="color:#999;  "><a href="mailto:accounts@e2enetworks.com">accounts@e2enetworks.com</a></font></li></ul></div>
+<li><img src="http://e2enetworks.com/wp-content/uploads/2008/11/account.jpg" style="width:50px;height:48px; margin-left:50px;"></li>
+<li style="margin-top:-9px;"><font style="color:#0098da;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Accounts</font><br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;+91-11-3020-1094<br><font style="color:#999;  "><a href="mailto:accounts@e2enetworks.com">accounts@e2enetworks.com</a></font></li></ul></div>
 <div class="header3"> <ul>
-<img src="http://e2enetworks.com/wp-content/uploads/2008/11/ticket.jpg" style="width:69px;height:60px; margin-left:30px; margin-top:6px;">
-<li style="margin-top:-4px; "><font style="color:#0098da;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Support</font><br><font style="color:#999;"><a href="mailto:support@e2enetworks.com">support@e2enetworks.com</a></font></li></ul></div>
+<img src="http://e2enetworks.com/wp-content/uploads/2008/11/ticket.jpg" style="width:69px;height:41px; margin-left:30px; margin-top:6px;">
+<li style="margin-top:-4px; "><font style="color:#0098da;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Support</font><br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;+91-11-3020-1096<br><font style="color:#999;"><a href="mailto:support@e2enetworks.com">support@e2enetworks.com</a></font></li></ul></div>
 </div>
 <!-- e2e logo image added -->
 <div class="homelink"><a href="http://e2enetworks.com" title="E2E Networks">
@@ -178,11 +294,8 @@ li li li.sfhover ul {
 	
 	
 		
-<!-- Multi-level Navigational Plugin by PixoPoint Web Development ... http://pixopoint.com/multi-level-navigation/ -->
-
-<div id="pixopoint_menu_wrapper1">
-	<div id="pixopoint_menu1">
-		<ul class="sf-menu" id="suckerfishnav"><li class="page_item page-item-176 haschildren"><a href="http://e2enetworks.com/">VPS Servers India</a>
+<!-- Multi-level Navigation Plugin v2.3.5 by PixoPoint Web Development ... http://pixopoint.com/multi-level-navigation/ -->
+<div id="pixopoint_menu_wrapper1"><div id="pixopoint_menu1">		<ul class="sf-menu" id="suckerfishnav"><li class="page_item page-item-176 haschildren"><a href="http://e2enetworks.com/">VPS Servers India</a>
 <ul class="children">
 	<li class="page_item page-item-2197"><a href="http://e2enetworks.com/vps-servers/linux-vps-servers-india/">Linux VPS Servers India</a></li>
 	<li class="page_item page-item-1968"><a href="http://e2enetworks.com/vps-servers/windows-vps-servers-india/">Windows VPS Servers India</a></li>
@@ -240,8 +353,7 @@ li li li.sfhover ul {
 <li class="page_item page-item-161"><a href="http://e2enetworks.com/blog/">Blog</a></li>
 </ul>
 	</div>
-</div>
-		<!--
+</div>		<!--
 		<ul class="menu">
 					</ul>
 
@@ -307,17 +419,17 @@ li li li.sfhover ul {
 </form></li><li id="simplecontactformrevisited-3" class="widget simplecontactformrevisited_widget"><h2 class="widgettitle">I am Interested</h2>		
 		<p style="display:none;">Your message was successfully sent. <br><strong>Thank You!</strong></p>
 		<form class="contactform" action="http://e2enetworks.com/wp-content/plugins/simple-contact-form-revisited-plugin/assets/wp-mailer.php" method="post" novalidate="novalidate">
-			<p><input type="text" required="required" id="contact_c06681ecc99761d187e6995b348a65d2_name" name="contact_c06681ecc99761d187e6995b348a65d2_name" class="text_input" value="" size="33" tabindex="11">
-			<label for="contact_c06681ecc99761d187e6995b348a65d2_name">Name&nbsp;<span style="color: red;">*</span></label></p>
+			<p><input type="text" required="required" id="contact_6eb18da83a9544e090066618c80bc51f_name" name="contact_6eb18da83a9544e090066618c80bc51f_name" class="text_input" value="" size="33" tabindex="11">
+			<label for="contact_6eb18da83a9544e090066618c80bc51f_name">Name&nbsp;<span style="color: red;">*</span></label></p>
 			
-			<p><input type="email" required="required" id="contact_c06681ecc99761d187e6995b348a65d2_email" name="contact_c06681ecc99761d187e6995b348a65d2_email" class="text_input" value="" size="33" tabindex="12">
-			<label for="contact_c06681ecc99761d187e6995b348a65d2_email">Email&nbsp;<span style="color: red;">*</span></label></p>
+			<p><input type="email" required="required" id="contact_6eb18da83a9544e090066618c80bc51f_email" name="contact_6eb18da83a9544e090066618c80bc51f_email" class="text_input" value="" size="33" tabindex="12">
+			<label for="contact_6eb18da83a9544e090066618c80bc51f_email">Email&nbsp;<span style="color: red;">*</span></label></p>
 			
-			<p><textarea required="required" name="contact_c06681ecc99761d187e6995b348a65d2_content" class="textarea" cols="33" rows="5" tabindex="10"></textarea></p>
+			<p><textarea required="required" name="contact_6eb18da83a9544e090066618c80bc51f_content" class="textarea" cols="33" rows="5" tabindex="13"></textarea></p>
 			
-			<p><input id="btn_c06681ecc99761d187e6995b348a65d2" type="submit" value="Submit"></p>
-			<input type="hidden" value="c06681ecc99761d187e6995b348a65d2" name="unique_widget_id">
-			<input type="hidden" value="c2FsZXNbXi0qLV5dZTJlbmV0d29ya3MuY29t" name="contact_c06681ecc99761d187e6995b348a65d2_to">
+			<p><input id="btn_6eb18da83a9544e090066618c80bc51f" type="submit" value="Submit"></p>
+			<input type="hidden" value="6eb18da83a9544e090066618c80bc51f" name="unique_widget_id">
+			<input type="hidden" value="c2FsZXNbXi0qLV5dZTJlbmV0d29ya3MuY29t" name="contact_6eb18da83a9544e090066618c80bc51f_to">
 		</form>	
 	
 		</li><li id="text-226727543" class="widget widget_text">			<div class="textwidget"><div id="craftysyntax_2"><script type="text/javascript" src="http://livehelp.e2enetworks.com/livehelp_js.php?eo=0&amp;department=2&amp;serversession=1&amp;pingtimes=10&amp;dynamic=Y&amp;"></script></div>
@@ -356,9 +468,7 @@ E-mail us the transaction ID with a purchase order and we'll setup your server a
 <ul>
 <li><a href="http://e2enetworks.com/vps-servers/linux-vps-servers-india/">Linux VPS Servers</a></li>
 <li><a href="http://e2enetworks.com/vps-servers/windows-vps-servers-india/">Windows VPS Servers</a></li>
-<li><a href="http://e2enetworks.com/vps-servers/websitespark-vps/">Website spark VPS</a></li>
 <li><a href="http://e2enetworks.com/vps-servers/data-center-india/">Data Center india</a></li>
-<li><a href="http://e2enetworks.com/vps-servers/gaming-vps-servers/">Gaming VPS Servers</a></li>
 <li><a href="/sitemap/">Sitemap</a></li>
 </ul>
 </div><!-----vps------>
@@ -367,7 +477,7 @@ E-mail us the transaction ID with a purchase order and we'll setup your server a
 <li><a href="http://e2enetworks.com/cloud-servers-india/">Linux Cloud Servers</a></li>
 <li><a href="http://e2enetworks.com/cloud-servers-india/windows-cloud-server-india/">Windows Cloud Servers</a></li>
 <li><a href="http://e2enetworks.com/cloud-servers-india/cloud-computing-india/">Cloud Computing India</a></li>
-<li><a href="http://e2enetworks.com/cloud-servers-india/cloud-computing-architecture/">Cloud Computing Architechture</a></li>
+<li><a href="http://e2enetworks.com/cloud-servers-india/cloud-computing-architecture/">Cloud Computing Architecture</a></li>
 <li><a href="/service-level-agreement/">Service Level Agreement</a></li>
 <li><a href="http://e2enetworks.com/about/">About Us</a></li>
 </ul>
@@ -376,17 +486,14 @@ E-mail us the transaction ID with a purchase order and we'll setup your server a
 <ul>
 <li><a href="http://e2enetworks.com/dedicated-servers-india/">Linux Dedicated Servers</a></li>
 <li><a href="http://e2enetworks.com/dedicated-servers-india/windows-dedicated-servers-india/">Windows Dedicated Servers</a></li>
-<li><a href="http://e2enetworks.com/dedicated-servers-india/websitespark-dedicated/">Website Spark dedicated</a></li>
-<li><a href="http://e2enetworks.com/dedicated-servers-india/gaming-dedicated-servers-india/">Gaming Dedicated Servers</a></li>
-<li><a href="/cancellation-and-refund-policy/">Cancellation and Refund</a></li>
 <li><a href="http://e2enetworks.com/contact/">Contact Us</a></li>
 </ul>
 </div><!-----dedicated------>
 <div id="server4">
 <ul>
 <li><a href="http://e2enetworks.com/dual-socket-power-dedicated-servers-india/">Power dedicated Servers</a></li>
-<li><a href="http://e2enetworks.com/dual-socket-power-dedicated-servers-india/windows-power-dedicated/">Windows dedicated Servers</a></li>
-<li><a href="http://e2enetworks.com/managed-services/ssl-certificates/">SSL Certiicates</a></li>
+<li><a href="http://e2enetworks.com/dual-socket-power-dedicated-servers-india/windows-power-dedicated/">Windows Power dedicated Servers</a></li>
+<li><a href="http://e2enetworks.com/managed-services/ssl-certificates/">SSL Certificates</a></li>
 <li><a href="/terms-and-conditions/">Terms and Conditions</a></li>
 <li><a href="/privacy-policy/">Privacy</a></li>
 <li><a href="http://e2enetworks.com/about/faq/">FAQ</a></li>
@@ -396,7 +503,7 @@ E-mail us the transaction ID with a purchase order and we'll setup your server a
 </div><!-----power------>
 
 </div><!---wrapper--->
-<p> © 2012 <strong>E2E Networks - Provider of linux dedicated server hosting, data center in Hyderabad, Mumbai, Bangalore and Delhi, India.</strong></p>
+<p> © 2013 <strong>E2E Networks - Provider of Windows and Linux dedicated server hosting, data centers in Hyderabad, Mumbai, Chennai, Bangalore &amp; Delhi, India.</strong></p>
 <!--		<p class="right"></p> -->
 	</div><!--#footer-->
 
@@ -405,7 +512,7 @@ E-mail us the transaction ID with a purchase order and we'll setup your server a
 <div class="clear"></div>	
 </div><!--#page-->
 <script type="text/javascript" src="http://e2enetworks.com/wp-content/plugins/simple-contact-form-revisited-plugin/assets/js/jquery.tools.min.js?ver=1.2.5"></script>
-<script type="text/javascript" src="http://e2enetworks.com/wp-content/plugins/simple-contact-form-revisited-plugin/assets/js/simple-contact-form-revisited-plugin.js?ver=2.0.7"></script>
+<script type="text/javascript" src="http://e2enetworks.com/wp-content/plugins/simple-contact-form-revisited-plugin/assets/js/simple-contact-form-revisited-plugin.js?ver=2.0.9"></script>
 
 <script type="text/javascript">
   var _gaq = _gaq || [];
