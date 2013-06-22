@@ -1,8 +1,10 @@
-> *The following text is extracted and transformed from the bodis.com privacy policy that was archived on 2012-10-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121023140525id_/http%3A//www.bodis.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bodis.com privacy policy that was archived on 2013-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130622042204id_/http%3A//www.bodis.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Bodis.com
 
-This document was last updated on July 03, 2008. 
+## Privacy Statement
+
+This document was last updated on December 31, 2012. 
 
 ## 1.Acknowledgement and Acceptance of Terms
 
@@ -12,44 +14,29 @@ Bodis, is committed to protecting your privacy. This Privacy Statement sets fort
 
 Related services and offerings with links from this website, including vendor sites, have their own privacy statements that can be viewed by clicking on the corresponding links within each respective website. Online merchants and others who participate in Bodis services are encouraged to participate in industry privacy initiatives and to take a responsible attitude towards consumer privacy. However, since we do not have direct control over the policies or practices of participating merchants and other third parties, we are not responsible for the privacy practices or contents of those sites. We recommend and encourage that you always review the privacy policies of merchants and other third parties before you provide any personal information or complete any transaction with such parties.
 
-## 3. Information We Collect and How We Use It
+## 3. Collection and Use of Personal Information
 
 Anyone under the age of 18, may only use the Bodis site and its services in conjunction with and under the supervision of their parents or guardians, and with express permission from Bodis. For this reason, we ask that anyone under the age of 18 should not submit any personal information to Bodis.
 
 Bodis collects certain information from and about its users three ways: directly from our Web Server logs, information provided by user, and with Cookies.
 
-### 3.1 Web Server Logs
+We collect the following personal information from you:
 
-When you visit our Website, we may track information to administer the site and analyze its usage. Examples of information we may track include:
-
-  * Your Internet protocol address.
-  * The kind of browser or computer you use.
-  * Number of links you click within the site.
-  * State or country from which you accessed the site.
-  * Date and time of your visit.
-  * Name of your Internet service provider.
-  * Web page you linked to our site from.
-  * Pages you viewed on the site.
+  * Contact Information such as name, email address, mailing address, phone number,
+  * Billing Information such as credit card number, and billing address,
+  * Unique Identifiers such as user name, account number, password,
+  * Preferences Information such as product wish lists, order history, marketing preferences,
+  * As is true of most Web sites, we automatically gather information about your computer such as your IP address, browser type, referring/exit pages, and operating system.
 
 
 
-### 3.2 Use of Cookies
+We use this information to:
 
-Bodis may use cookies to personalize or enhance your user experience. A cookie is a small text file that is placed on your hard disk by a Web page server. Cookies cannot be used to run programs or deliver viruses to your computer. Cookies are uniquely assigned to you, and can only be read by a Web Server in the domain that issued the cookie to you.
-
-One of the primary purposes of cookies is to provide a convenience feature to save you time. For example, if you personalize a web page, or navigate within a site, a cookie helps the site to recall your specific information on subsequent visits. Hence, this simplifies the process of delivering relevant content and eases site navigation by providing and saving your preferences and login information as well as providing personalized functionality.
-
-Bodis reserves the right to share aggregated site statistics with partner companies. For more information about how our third-party service providers may use cookies, please see Section 4, below.You have the ability to accept or decline cookies. Most Web browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies. If you reject cookies by changing your browser settings then be aware that this may disable some of the functionality on our Website.
-
-### 3.3 Use of Personal Information
-
-Visitors to our website can register to purchase services. When you register, we will request some personal information such as name, address, email, telephone number or facsimile number, account number and other relevant information. If you are purchasing a service, we will request financial information. Any financial information we collect is used only to bill you for the services you requested and/or purchased and any applicable fees that are compliant with our Terms of Use. If you purchase by credit card, the information may be forwarded to your credit card provider. For other types of registrations, we will ask for the relevant information. You may also be asked to disclose personal information to us so that we can provide assistance and information to you. For example, such data may be warranted in order to provide online technical support and troubleshooting.
-
-Under some circumstances we may require some additional financial information, including, without limitation, your billing address, bank account information, and tracking information from checks or money orders.
-
-We will not disclose personally identifiable information we collect from you to third parties without your permission except to the extent necessary including:
-
-  * To fulfill your service requests for services,
+  * Fulfill your order,
+  * Send you an order confirmation,
+  * Send product updates or warranty information,
+  * Respond to customer service requests,
+  * Administer your account,
   * To protect ourselves from liability,
   * To respond to legal process or comply with law, or
   * In connection with a merger, acquisition, or liquidation of the company.
@@ -64,29 +51,42 @@ Upon receipt of a deactivation request, we will retain some of your information 
 
 We employ many different security techniques to protect any personal data from unauthorized access by users inside and outside the company, however please be aware that "perfect security" does not exist on the Internet or with any digital or physical data.
 
-## 4. Use of Web Beacons or GIF Files
+## 4. Cookies and Other Tracking Technologies
 
-Bodis.com Web pages may contain electronic images known as Web beacons — sometimes also called single-pixel gifs — that allow Bodis to count users who have visited those pages and to deliver co-branded services. Bodis may include Web beacons in promotional e-mail messages or newsletters in order to determine whether messages have been opened and acted upon.
+We may use cookies, for example, to keep track of your preferences and profile information. Cookies are also used to collect general usage and volume statistical information that does not include personal information.
 
-Some of these Web beacons may be placed by third party service providers to help determine the effectiveness of our advertising campaigns or email communications. These Web beacons may be used by these service providers to place a persistent cookie on your computer. This allows the service provider to recognize your computer each time you visit certain pages or emails and compile anonymous information in relation to those page views, which in turn enables us and our service providers to learn which advertisements and emails bring you to our website and how you use the site. This information in addition to the web searches you make while visiting this website and your web surfing behavior on this site and other websites you may visit is used to show you advertisements tailored to your interests on other websites. If you would like to know more about these practices and your choices about not having this information used to target ads to you, please [click here](http://www.networkadvertising.org/managing/opt_out.asp). Bodis prohibits Web beacons from being used to collect or access your personal information.
+### 4.1 Web beacons
 
-## 5. Accessing Web Account Information
+Our Web pages contain electronic images known as Web beacons (sometimes called single-pixel gifs) and are used along with cookies to compile aggregated statistics to analyze how our site is used and may be used in some of our emails to let us know which emails and links have been opened by recipients. This allows us to gauge the effectiveness of our customer communications and marketing campaigns.
+
+We use a third party to gather information about how you and others use our Web site. For example, we will know how many users access a specific page and which links they clicked on. We use this aggregated information to understand and optimize how our site is used.
+
+### 4.2 Links to Other Web Sites
+
+Our Site includes links to other Web sites whose privacy practices may differ from those of Bodis. If you submit personal information to any of those sites, your information is governed by their privacy statements. We encourage you to carefully read the privacy statement of any Web site you visit.
+
+## 5. Security
+
+The security of your personal information is important to us. We follow generally accepted industry standards to protect the personal information submitted to us, both during transmission and once we receive it. No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore, we cannot guarantee its absolute security. If you have any questions about security on our Web site, you can contact us via our [contact form](https://web.archive.org/support)
+
+We provide two means for you to make a purchase on our site. You can either use our order form or a third party payment option. If you use our shopping cart, the transmission of sensitive information collected on our order form is encrypted using secure socket layer technology (SSL). If you choose to use a third party payment option to pay for your order, its privacy statement and security practices will apply to your information. We encourage you to read that privacy statement before providing your information.
+
+## 6. Accessing Web Account Information
 
 We will provide you with the means to ensure that personally identifiable information in your web account file is correct and current. You may review this information by contacting us by sending an email to our support attendant via our [contact form](https://web.archive.org/support).
 
-## 6. Changes to This Statement
+## 7. Changes to This Statement
 
 Bodis has the discretion to occasionally update this privacy statement. When we do, we will also revise the \"updated\" date at the top of this Privacy page. We encourage you to periodically review this privacy statement to stay informed about how we are helping to protect the personal information we collect. Your continued use of the service constitutes your agreement to this privacy statement and any updates.
 
-## 7. Contacting Us
+## 8. Contacting Us
 
 If you have questions regarding our Privacy Statement, its implementation, failure to adhere to this Privacy Statement and/or our general practices, please contact us or send your comments to:
 
 Bodis  
 Attention: Privacy Statement Personnel  
-Suite 502A-18825, Block A  
-Shekou Technology Building 2  
-Nanshan District, Shenzhen 518067  
-China 
+1133 Broadway Suite 706  
+New York, NY 10010  
+USA 
 
 Bodis will use commercially reasonable efforts to promptly respond and resolve any problem or question.
