@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the comcastoffers.com privacy policy that was archived on 2012-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121128230719id_/http%3A//www.comcastoffers.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the comcastoffers.com privacy policy that was archived on 2013-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130622024822id_/http%3A//www.comcastoffers.com/privacy_policy) for the most accurate reproduction.*
 
-# Privacy Policy | Comcast Offers (xp1)
+# Privacy Policy
 
 Effective Date: June 26, 2012
 
@@ -74,4 +74,4 @@ We may update this Privacy Policy from time to time. When we do so, you will see
 
 If you have any questions regarding our privacy practices, please contact us at [comcastprivacy@customerservicesite.com.](mailto:comcastprivacy@customerservicesite.com)
 
-©2012 ComcastOffers.com. All rights reserved.
+©2013 ComcastOffers.com. All rights reserved.
