@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the wetmaker.com privacy policy that was archived on 2012-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121102071402id_/http%3A//wetmaker.com/content/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wetmaker.com privacy policy that was archived on 2013-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130622035918id_/http%3A//wetmaker.com/content/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Free Porn Sex Videos - Wetmaker - Best XXX Movies - Your Home of Porno
+# Privacy Policy | Free Porn Sex Videos - Wetmaker.com - Best XXX Movies - Your Home of Porn
 
 This document details important information regarding the use and disclosure of User Data collected on wetmaker.com The security of your Data is very important to wetmaker.com and as such we take all appropriate steps to limit the risk that it may be lost, damaged or misused. This site expressly and strictly limits its membership and/or viewing privileges to adults 18 years of age and over or having attained the age of majority in their community. All persons who do not meet its criteria are strictly forbidden from accessing or viewing the contents of this Site. We do not knowingly seek or collect any personal information or data from persons who have not attained the age of majority.
 
