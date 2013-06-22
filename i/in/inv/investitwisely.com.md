@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the investitwisely.com privacy policy that was archived on 2012-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121219035153id_/http%3A//www.investitwisely.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the investitwisely.com privacy policy that was archived on 2013-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130622060008id_/http%3A//www.investitwisely.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Invest It Wisely
 
@@ -23,4 +23,4 @@ Data controlled by third parties is under the control of their respective privac
 
 #### Contact
 
-Please [contact us](http://www.investitwisely.com/contact) if you have any concerns, questions, or comments.
+Please [contact us](https://web.archive.org/contact) if you have any concerns, questions, or comments.
