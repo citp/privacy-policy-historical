@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the goptions.com privacy policy that was archived on 2012-11-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121112020336id_/http%3A//www.goptions.com/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the goptions.com privacy policy that was archived on 2013-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130622042047id_/http%3A//www.goptions.com/Privacy) for the most accurate reproduction.*
 
 # goptions - PRIVACY & POLICY
 
