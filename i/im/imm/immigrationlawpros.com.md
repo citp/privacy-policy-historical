@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the immigrationlawpros.com privacy policy that was archived on 2011-01-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110115044610id_/http%3A//webdesignsolutions.com/p-841-ecommerce-privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the immigrationlawpros.com privacy policy that was archived on 2013-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130622211115id_/http%3A//webdesignsolutions.com/p-841-ecommerce-privacy.html) for the most accurate reproduction.*
 
-# Privacy Notice Posted by Web Design Solutions - A San Diego Web Services Company
+# Privacy Notice Web Design Solutions - Web Services Company
 
 This privacy notice discloses the privacy practices for Web Design Solutions, Inc., a San Diego, CA Web Services company. This privacy notice applies solely to information collected by this web site. It will notify you of the following:
 
