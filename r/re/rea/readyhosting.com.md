@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the readyhosting.com privacy policy that was archived on 2012-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121219170729id_/http%3A//www.readyhosting.com/about/privacy.bml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the readyhosting.com privacy policy that was archived on 2013-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130622054414id_/http%3A//www.readyhosting.com/about/privacy.bml) for the most accurate reproduction.*
 
 # ReadyHosting's Privacy Policy
 
@@ -83,6 +83,6 @@ Please note: ReadyHosting reserves the right to send you email communications th
 
 
 
-This file was last modified December 10, 2012. [View comparison version.](https://web.archive.org/web/20121219170729id_/http://www.readyhosting.com/legal/legal_privacy.bml?showchanges=1)  
+This file was last modified June 21, 2013. [View comparison version.](https://web.archive.org/web/20130622054414id_/http://www.readyhosting.com/legal/legal_privacy.bml?showchanges=1)  
   
 ---|---
