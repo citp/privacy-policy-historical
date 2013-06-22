@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the droidiser.com privacy policy that was archived on 2012-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121217053702id_/http%3A//www.droidiser.com/p/privacy-policy_22.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the droidiser.com privacy policy that was archived on 2013-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130622041519id_/http%3A//www.droidiser.com/p/privacy-policy_22.html) for the most accurate reproduction.*
 
-# Privacy Policy | Droidiser | Android + Tech
+# Privacy Policy - Droidiser | Android + Tech
 
 This Privacy Policy governs the manner in which Droidiser collects, uses, maintains and discloses information collected from users (each, a "User") of the [http://www.droidiser.com](http://www.droidiser.com/) website ("Site"). This privacy policy applies to the Site and all products and services offered by Droidiser.
 
