@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the satyapaul.com privacy policy that was archived on 2012-10-14.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121014162754id_/http%3A//www.satyapaul.com/satyapaul/shop/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the satyapaul.com privacy policy that was archived on 2013-06-23.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130623015935id_/http%3A//www.satyapaul.com/satyapaul/shop/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en" class="dj_webkit dj_contentbox"><head>
 <meta name="description" content="Satya Paul follows certain security guidelines to protect the personal information shared by its customers">
@@ -9,7 +9,7 @@
 <!--[if lte IE 6]>
 <link rel="stylesheet" href="/wcsstore/SatyaPaul/css/commonie1_1.css" type="text/css"/>
 <![endif]-->
-<script type="text/javascript" src="/wcsstore/dojo131/dojo/dojo.js" djconfig="parseOnLoad: false, isDebug: false, useCommentedJson: true,locale: 'en-us' "></script>
+<script id="facebook-jssdk" async="" src="/wcsstore/SatyaPaul/javascript/fball.js"></script><script type="text/javascript" src="/wcsstore/dojo131/dojo/dojo.js" djconfig="parseOnLoad: false, isDebug: false, useCommentedJson: true,locale: 'en-us' "></script>
 <script type="text/javascript" src="/wcsstore/SatyaPaul/javascript/MessageHelper.js"></script>
 
 <!-- BEGIN CommonJSToInclude.jspf -->
@@ -175,107 +175,234 @@ margin-top:-5px;
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+	
+	
+
+
+	
+	
+	
+
 <script type="text/javascript">
+
+	dojo.require("wc.widget.RefreshArea");
+	dojo.require("wc.render.RefreshController");
+	
 	dojo.addOnLoad(function() {
 		if('true' == "true"){
 			showHeaderLinksInTwoLines();
 		}else{
 			showLinksInOneLine();
 		}
-		parseWidget("outerCartContainer");	
 	});
 	var storeId = '10001';
 	var langId = '-1';
 	var catalogId = '10051';
-	if('' == "true")
+	if('true' == "true")
 		var showProductCompare = false;
 	else
 		var showProductCompare = true;
 	dojo.addOnLoad(initShopcartTarget);
 	dojo.addOnLoad(showDropDownMenu);
-	</script>
+</script>
+<div id="fb-root"></div>
+<script type="text/javascript">
+	window.fbAsyncInit = function() {
+	FB.init({
+	appId : '317583598276007', // App ID
+	status : true, // check login status
+	cookie : true, // enable cookies to allow the server to access the session
+	xfbml : true // parse XFBML
+	});
+	// Additional initialization code here
+	};
+	// Load the SDK Asynchronously
+	(function(d){
+	var js, id = 'facebook-jssdk', ref = d.getElementsByTagName('script')[0];
+	if (d.getElementById(id)) {return;}
+	js = d.createElement('script'); js.id = id; js.async = true;
+	
+	if(window.location.protocol == "https:"){
+		js.src = "/wcsstore/SatyaPaul/javascript/fball.js";
+	}else{
+		js.src = "/wcsstore/SatyaPaul/javascript/fball.js";
+	}
+	ref.parentNode.insertBefore(js, ref);
+	}(document));
+</script>
+
+<script type="text/javascript" src="/wcsstore/SatyaPaul/javascript/Sokrati.js"></script>
+
+
+	
+	
+	
+	
+	
+	
+
+
+
+	
+		
+		
+		
+		
+	
 	
 
 
 	
+	
+	
+	
 
 
+	
+	
+	
 
 
+	
+	
+	
+	
 
-  
-  
-  
 
-
-  
+	
+	
+	
+	
+	
+		
+		
 			
 		
-
-
- 
-	
 	
 	
 
-	
-	
-	
-	
 
-	
-	
+
 	
 	
 	
 
 
-	<!-- Code to get FirstName Starts -->
-
-     
 
 	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+		
+		
+		
+			
+			
+		
+	
+
+
+	
+	
+	
+
+
+
+	
+	
+	
+
+
+
+	
+	
+
+
+
+	
+	
+	
+
+
+<!-- Code to get FirstName Starts -->
+
+	
+
+
 
 
 <!-- Code to get FirstName ends -->
- <!--[if lt IE 7]> <link href="/wcsstore/SatyaPaul//css/IE6StyleSheet.css" rel="stylesheet" type="text/css"> <![endif]-->   
+<!--[if lt IE 7]> <link href="/wcsstore/SatyaPaul//css/IE6StyleSheet.css" rel="stylesheet" type="text/css"> <![endif]-->
 
 <style type="text/css">
+.fb_ltr {
+	display: block;
+}
+div.fb-like span {
+	*width: 140px !important;
+}
 
+div.fb-like span iframe {
+	*width: 140px !important;
+}
+
+
+.pluginCommentFlyout {
+	display: none !important;
+}
+
+.fblike .fb_edge_widget_with_comment { *
+	overflow: hidden;
+}
 
 @media screen and (-webkit-min-device-pixel-ratio:0) {
-#header_logo {
-	position:relative;
-	padding-top:15px;
-	padding-left:1px;
-}
-#headerLinkCorpGift1{
-top:5px;
-position:relative;
-}
+	#header_logo {
+		position: relative;
+		padding-top: 15px;
+		padding-left: 1px;
+	}
+	#headerLinkCorpGift1 {
+		top: 5px;
+		position: relative;
+	}
 }
 </style>
 <div id="header">
-		<div id="header_logo">
-		                      
-			
-			
-			
-			
-			  <a href="http://www.satyapaul.com/satyapaul/shop" id="WC_CachedHeaderDisplay_Link_2"><img src="/wcsstore/SatyaPaul/images/logo.gif" alt="Satya Paul" border="0"></a>
-			
-			
+	<div id="header_logo">  
 		
+		
+			<a href="http://www.satyapaul.com/satyapaul/shop" id="WC_CachedHeaderDisplay_Link_2">
+				<img src="/wcsstore/SatyaPaul/images/logo.gif" alt="Satya Paul" border="0">
+			</a>
+		 
+		
+	 
+	</div>
+
+	
+		<div id="header_links1">
+			<a href="http://www.satyapaul.com/satyapaul/shop" id="headerHome1">Home</a> 
+			| 
+			<a href="http://www.satyapaul.com/satyapaul/shop/OrderCalculate?calculationUsageId=-1&amp;updatePrices=1&amp;catalogId=10051&amp;top_category=&amp;parent_category_rn=&amp;errorViewName=CheckoutView&amp;categoryId=&amp;orderId=.&amp;langId=-1&amp;storeId=10001&amp;URL=CheckoutView" class="h_tnav_but" id="headerShopCart1">Shopping Cart</a>
 		</div>
-		
-		
-			<div id="header_links1">
-				<a href="http://www.satyapaul.com/satyapaul/shop" id="headerHome1">Home</a>
-				|
-				<a href="http://www.satyapaul.com/satyapaul/shop/OrderCalculate?calculationUsageId=-1&amp;updatePrices=1&amp;catalogId=10051&amp;top_category=21967&amp;parent_category_rn=21967&amp;errorViewName=CheckoutView&amp;categoryId=31001&amp;orderId=.&amp;langId=-1&amp;storeId=10001&amp;URL=CheckoutView" class="h_tnav_but" id="headerShopCart1">Shopping Cart</a>
-			</div>
-		
-				
+	 
 
 
 
@@ -460,9 +587,6 @@ function setRememberMe(){
 			
 			  
 				 
-				   <a href="http://www.satyapaul.com/satyapaul/shop/AjaxCatalogSearchView?advanced=true&amp;pageView=image&amp;catalogId=10051&amp;beginIndex=0&amp;langId=-1&amp;storeId=10001" class="h_tnav_but" id="headerAdvancedSearch">Advanced Search</a>
-				  |
-				  	
 				 <!--  
 						
 						  
@@ -483,8 +607,19 @@ function setRememberMe(){
 				  
 				  	
 	</div>
-		<div id="userdisplay" style="top:-22px;*top:-42px;">
-		  <p>
+	<div id="userdisplay" style="top: -22px; * top: -42px;">
+		<p>
+		
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -501,48 +636,43 @@ function setRememberMe(){
 
 <script type="text/javascript" src="/wcsstore/SatyaPaul/javascript/require.js"></script> 
 <script type="text/javascript" src="https://ssl.geoplugin.net/javascript.gp"></script> 
-<script type="text/javascript">
-var cHost = (("https:" == document.location.protocol) ? "https://" : "http://");
-if(cHost=="https://"){
-document.write(unescape("%3Cscript src='https://ssl.geoplugin.net/javascript.gp' type='text/javascript'%3E%3C/script%3E"));
-}else{
-document.write(unescape("%3Cscript src='" + cHost + "www.geoplugin.net/javascript.gp' type='text/javascript'%3E%3C/script%3E"));
-}
-</script><script src="https://ssl.geoplugin.net/javascript.gp" type="text/javascript"></script>
-<script type="text/javascript">
-if((navigator.userAgent.match(/iPad/i))) {
-document.write("<link type=\"text\/css\" rel=\"stylesheet\" media=\"all\" href=\"/wcsstore/SatyaPaul/css/iPadCommon1_1.css\" charset=\"utf-8\" \/>");
-document.write("<meta name=\"viewport\" content=width=1024px, minimum-scale=1.0, maximum-scale=1.0 \/>");
-
-}
-
-</script>
 <script type="text/javascript" src="/wcsstore/SatyaPaul/javascript/jquery/jquery-1.4.2.min.js"></script> 
+<script type="text/javascript">
+	var cHost = (("https:" == document.location.protocol) ? "https://" : "http://");
+	if(cHost=="https://"){
+		document.write(unescape("%3Cscript src='https://ssl.geoplugin.net/javascript.gp' type='text/javascript'%3E%3C/script%3E"));
+	}else{
+	document.write(unescape("%3Cscript src='" + cHost + "www.geoplugin.net/javascript.gp' type='text/javascript'%3E%3C/script%3E"));
+	}
+	if((navigator.userAgent.match(/iPad/i))) {
+		document.write("<link type=\"text\/css\" rel=\"stylesheet\" media=\"all\" href=\"/wcsstore/SatyaPaul/css/iPadCommon1_1.css\" charset=\"utf-8\" \/>");
+		document.write("<meta name=\"viewport\" content=width=1024px, minimum-scale=1.0, maximum-scale=1.0 \/>");
+	}
+</script><script src="https://ssl.geoplugin.net/javascript.gp" type="text/javascript"></script>
 
 <script type="text/javascript">  
 	
 	function setCurrency(countryCode){	
 		var currency="USD";		
-		//var currency="INR";		
-		//var url="/webapp/wcs/stores/servlet/SetCurrencyPreference?";   
-   		//var url="/satyapaul/shop/SetCurrencyPreference?";   
 		
    		if(countryCode==="IN"){
 	    	currency="INR";  
-   		}
-		/*else if(countryCode==="GB"){
-			currency="GBP";		
-			
-    	}*/		
+   		/*}else if(countryCode==="GB"){
+			currency="GBP";	*/	
+    	}		
     	setCookie('currencyCookie',currency,1);
    		setCookie('userCookie','-1002',1);
    		setCookie('country',countryCode,1);    		
-		var url=top.location.href;;
+		var url=top.location.href;
+		var redirectURL='';
+		if(url != null && url != undefined){
+			redirectURL =  url.substring(url.indexOf('shop'));
+		}
+		
 		var param = 'currency=' + currency;
 		param=param+'&catalogId=' + '10051';
 		param=param+'&storeId=' + '10001';
-		param=param+'&langId=' + '-1';
-		param=param+'&URL=' + '';			
+		param=param+'&URL=' + redirectURL;
 		    jQuery.ajax({url: '/satyapaul/shop/SetCurrencyPreference?',
 		        data: param,
 		        type: 'post',
@@ -559,14 +689,13 @@ document.write("<meta name=\"viewport\" content=width=1024px, minimum-scale=1.0,
 		          top.location.href = url;
 		        }
 		    });	
-  		
 	}
 	function setCurrList(valueToSetTo){
 		var elementRef=document.getElementById('currSelect');
 		if(valueToSetTo==='INR'){
 			valueToSetTo ='IN';
-		}else if(valueToSetTo==='GBP'){
-			valueToSetTo ='GB';
+		/*}else if(valueToSetTo==='GBP'){
+			valueToSetTo ='GB';*/
 		}else{
 			valueToSetTo ='US';		
 		}
@@ -578,8 +707,6 @@ document.write("<meta name=\"viewport\" content=width=1024px, minimum-scale=1.0,
   				break;
   			}
  		}
-
- 		
 	}
 	function removeVariableFromURL(url_string, variable_name) {
 	    var URL = String(url_string);
@@ -595,36 +722,32 @@ document.write("<meta name=\"viewport\" content=width=1024px, minimum-scale=1.0,
 	{
 		var exdate=new Date();
 		exdate.setDate(exdate.getDate() + exdays);
-		var c_value=escape(value) + ((exdays==null) ? "" : "; expires="+exdate.toUTCString());
+		var c_value=escape(value)+ ((exdays==null) ? "" : "; expires="+exdate.toUTCString()) + ";path=/ ;domanin=\"www.satyapaul.com\"" ;
 		document.cookie=c_name + "=" + c_value;
 	}
 	function checkCookie()
 	{
-	
 		var userId=getCookie("userCookie");		
 		var curCode=getCookie("currencyCookie");
 	   
 	    if (userId==null || userId=="" || curCode==null || curCode=="" || userId==undefined || curCode==undefined)
-	    {     	
-	 		 //getCCode();
+	    {    
   			 var countryCode=geoplugin_countryCode(); 
-			//var countryCode=document.getElementById('cCode').value; 			 
-  			 setCurrency(countryCode);   			 
-   		   
+  			 setCurrency(countryCode); 
+  			   			 
 	 	}
-		
 	}
 	function getCookie(c_name)
 	{
 		var i,x,y,ARRcookies=document.cookie.split(";");
 		for (i=0;i<ARRcookies.length;i++)
 		{
- 			 x=ARRcookies[i].substr(0,ARRcookies[i].indexOf("="));
-             y=ARRcookies[i].substr(ARRcookies[i].indexOf("=")+1);
-             x=x.replace(/^\s+|\s+$/g,"");
-		  if (x==c_name)
+ 			x=ARRcookies[i].substr(0,ARRcookies[i].indexOf("="));
+            y=ARRcookies[i].substr(ARRcookies[i].indexOf("=")+1);
+            x=x.replace(/^\s+|\s+$/g,"");
+		  	if (x==c_name)
 		    {
-		    return unescape(y);
+		    	return unescape(y);
 		    }
 		 }
 	}
@@ -634,709 +757,1000 @@ document.write("<meta name=\"viewport\" content=width=1024px, minimum-scale=1.0,
 -->
 
 
-<!-- <div class="curSpan">
-SELECT YOUR CURRENCY -->
-<!-- <a href="javascript:setCurrency('IN');"><img src="/wcsstore/SatyaPaul/images/india.png" alt="India" title="India"/></a>&nbsp;<a href="javascript:setCurrency('US');"><img src="/wcsstore/SatyaPaul/images/us.png" alt="United States" title="United States"/></a>&nbsp;<a href="javascript:setCurrency('GB');"><img src="/wcsstore/SatyaPaul/images/uk.png" alt="United Kingdom" title="United Kingdom"/></a>&nbsp;-->
-<!-- <a href="javascript:setCurrency('IN');">INR</a>&nbsp;<a href="javascript:setCurrency('US');">USD</a>&nbsp;<a href="javascript:setCurrency('GB');">GBP</a>-->
 
-<!--<select name="curSelect" id="currSelect" onchange="setCurrency(this.options[this.selectedIndex].value);" class="drop_down"  >
-<option value="IN">Indian Rupee</option>
-<option value="US">US Dollar</option>
-<option value="GB">UK Pound</option>
-</select>
-</div>
-
-<br/> -->
 
 <script type="text/javascript">
    checkCookie();   
- //  var curCode=getCookie("currencyCookie");
-  // setCurrList(curCode);
 </script>
 
 	
-	<!-- Advertiser 'GENESIS COLORS PRIVATE LIMITED', Include user in segment 'GENESIS COLORS PRIVATE LIMITED_SITE_RETARGETING_06012012' - DO NOT MODIFY THIS PIXEL IN ANY WAY -->
+<!-- Advertiser 'GENESIS COLORS PRIVATE LIMITED', Include user in segment 'GENESIS COLORS PRIVATE LIMITED_SITE_RETARGETING_06012012' - DO NOT MODIFY THIS PIXEL IN ANY WAY -->
 <img src="https://ad.yieldmanager.com/pixel?id=1842812&amp;t=2" width="1" height="1">
 <!-- End of segment tag -->
 
 <!--
+
 -->
-				<!-- Added for Displaying Welcome username or Welcome guest message: Starts -->
-				<!--
-					 
-					
-					    Your!
-					
-				-->
+<!-- Added for Displaying Welcome username or Welcome guest message: Starts -->
+<!--
+	 
+	
+	    Your!
+	
+-->
 				<!-- Added for Displaying Welcome username or Welcome guest message: ends -->
-			   </p>
-			   &nbsp;
-			   
-			 </div>		
-				
+		</p> &nbsp;
+		<div class="fblike" style="overflow: hidden; * top: -12px; margin-top: -12px; * margin-top: 0px; position: absolute; * position: static; margin-left: 305px;">
+			<div class="fb-like" style="top: -2px; *top:-12px;" data-href="https://www.facebook.com/SatyaPaulIndia" data-send="false" data-width="150" data-show-faces="false" data-layout="button_count"></div>
+		</div>
+	</div>
 </div>
 <br>
+
+
+
+
+	
 	
 
-  
 
 	
+
 <div id="mainWrapper">
-<div id="header_nav">
-	
-			<div id="header_menu_dropdown" style="display: block;">
+	<div id="header_nav">
+		
+		<div id="header_menu_dropdown" style="display: block;">
 			<div id="header_menu_overlay">
 				
 				
-				
-					<div id="CachedHeaderDisplayMenuOverlayItem_1" tabindex="0" onfocus="parseHeader('CachedHeaderDisplayMenuOverlayItem_1'); if (document.getElementById('HeaderMenu_DropDown_1') != null &amp;&amp; document.getElementById('HeaderMenu_DropDown_1') != 'undefined') { document.getElementById('HeaderMenu_DropDown_1').focus();}" onmouseover="parseHeader('CachedHeaderDisplayMenuOverlayItem_1')" class="dijit dijitLeft dijitInline dijitDropDownButton dijitDropDownButtonFocused"><div class="dijitRight">
-					<div class="dijitStretch dijitButtonNode dijitButtonContents" type="" wairole="button" waistate="haspopup-true,labelledby-CachedHeaderDisplayMenuOverlay_1_1_label"><div class="dijitInline"></div><span class="dijitButtonText" id="CachedHeaderDisplayMenuOverlay_1_1_label">SAREES</span>
-						<span class="dijitA11yDownArrow"></span>
-					</div>
-				</div></div>
-					<!--<div class="dijit dijitLeft dijitInline dijitDropDownButton">|</div>-->
+					
+					
+					
+					
+						<div id="CachedHeaderDisplayMenuOverlayItem_1" tabindex="0" onfocus="parseHeader('CachedHeaderDisplayMenuOverlayItem_1'); if (document.getElementById('HeaderMenu_DropDown_1') != null &amp;&amp; document.getElementById('HeaderMenu_DropDown_1') != 'undefined') { document.getElementById('HeaderMenu_DropDown_1').focus();}" onmouseover="parseHeader('CachedHeaderDisplayMenuOverlayItem_1')" class="dijit dijitLeft dijitInline dijitDropDownButton dijitDropDownButtonFocused">
+							
+							<div class="dijitRight">
+								<div class="dijitStretch dijitButtonNode dijitButtonContents" type="" wairole="button" waistate="haspopup-true,labelledby-CachedHeaderDisplayMenuOverlay_1_1_label">
+									<div class="dijitInline"></div>
+									<span class="dijitButtonText" id="CachedHeaderDisplayMenuOverlay_1_1_label">
+										SAREES
+									</span> 
+									<span class="dijitA11yDownArrow"></span>
+								</div>
+							</div>
+						</div>
+						<!--<div class="dijit dijitLeft dijitInline dijitDropDownButton">|</div>-->
 					
 				
-				
-				
-					<div id="CachedHeaderDisplayMenuOverlayItem_2" tabindex="0" onfocus="parseHeader('CachedHeaderDisplayMenuOverlayItem_2'); if (document.getElementById('HeaderMenu_DropDown_1') != null &amp;&amp; document.getElementById('HeaderMenu_DropDown_1') != 'undefined') { document.getElementById('HeaderMenu_DropDown_1').focus();}" onmouseover="parseHeader('CachedHeaderDisplayMenuOverlayItem_2')" class="dijit dijitLeft dijitInline dijitDropDownButton dijitDropDownButtonFocused"><div class="dijitRight">
-					<div class="dijitStretch dijitButtonNode dijitButtonContents" type="" wairole="button" waistate="haspopup-true,labelledby-CachedHeaderDisplayMenuOverlay_1_2_label"><div class="dijitInline"></div><span class="dijitButtonText" id="CachedHeaderDisplayMenuOverlay_1_2_label">BRIDAL WEAR</span>
-						<span class="dijitA11yDownArrow"></span>
-					</div>
-				</div></div>
-					<!--<div class="dijit dijitLeft dijitInline dijitDropDownButton">|</div>-->
+					
+					
+					
+					
+						<div id="CachedHeaderDisplayMenuOverlayItem_2" tabindex="0" onfocus="parseHeader('CachedHeaderDisplayMenuOverlayItem_2'); if (document.getElementById('HeaderMenu_DropDown_1') != null &amp;&amp; document.getElementById('HeaderMenu_DropDown_1') != 'undefined') { document.getElementById('HeaderMenu_DropDown_1').focus();}" onmouseover="parseHeader('CachedHeaderDisplayMenuOverlayItem_2')" class="dijit dijitLeft dijitInline dijitDropDownButton dijitDropDownButtonFocused">
+							
+							<div class="dijitRight">
+								<div class="dijitStretch dijitButtonNode dijitButtonContents" type="" wairole="button" waistate="haspopup-true,labelledby-CachedHeaderDisplayMenuOverlay_1_2_label">
+									<div class="dijitInline"></div>
+									<span class="dijitButtonText" id="CachedHeaderDisplayMenuOverlay_1_2_label">
+										BRIDAL WEAR
+									</span> 
+									<span class="dijitA11yDownArrow"></span>
+								</div>
+							</div>
+						</div>
+						<!--<div class="dijit dijitLeft dijitInline dijitDropDownButton">|</div>-->
 					
 				
-				
-				
-					<div id="CachedHeaderDisplayMenuOverlayItem_3" tabindex="0" onfocus="parseHeader('CachedHeaderDisplayMenuOverlayItem_3'); if (document.getElementById('HeaderMenu_DropDown_1') != null &amp;&amp; document.getElementById('HeaderMenu_DropDown_1') != 'undefined') { document.getElementById('HeaderMenu_DropDown_1').focus();}" onmouseover="parseHeader('CachedHeaderDisplayMenuOverlayItem_3')" class="dijit dijitLeft dijitInline dijitDropDownButton dijitDropDownButtonFocused"><div class="dijitRight">
-					<div class="dijitStretch dijitButtonNode dijitButtonContents" type="" wairole="button" waistate="haspopup-true,labelledby-CachedHeaderDisplayMenuOverlay_1_3_label"><div class="dijitInline"></div><span class="dijitButtonText" id="CachedHeaderDisplayMenuOverlay_1_3_label">READY TO WEAR</span>
-						<span class="dijitA11yDownArrow"></span>
-					</div>
-				</div></div>
-					<!--<div class="dijit dijitLeft dijitInline dijitDropDownButton">|</div>-->
+					
+					
+					
+					
+						<div id="CachedHeaderDisplayMenuOverlayItem_3" tabindex="0" onfocus="parseHeader('CachedHeaderDisplayMenuOverlayItem_3'); if (document.getElementById('HeaderMenu_DropDown_1') != null &amp;&amp; document.getElementById('HeaderMenu_DropDown_1') != 'undefined') { document.getElementById('HeaderMenu_DropDown_1').focus();}" onmouseover="parseHeader('CachedHeaderDisplayMenuOverlayItem_3')" class="dijit dijitLeft dijitInline dijitDropDownButton dijitDropDownButtonFocused">
+							
+							<div class="dijitRight">
+								<div class="dijitStretch dijitButtonNode dijitButtonContents" type="" wairole="button" waistate="haspopup-true,labelledby-CachedHeaderDisplayMenuOverlay_1_3_label">
+									<div class="dijitInline"></div>
+									<span class="dijitButtonText" id="CachedHeaderDisplayMenuOverlay_1_3_label">
+										READY TO WEAR
+									</span> 
+									<span class="dijitA11yDownArrow"></span>
+								</div>
+							</div>
+						</div>
+						<!--<div class="dijit dijitLeft dijitInline dijitDropDownButton">|</div>-->
 					
 				
-				
-				
-					<div id="CachedHeaderDisplayMenuOverlayItem_4" tabindex="0" onfocus="parseHeader('CachedHeaderDisplayMenuOverlayItem_4'); if (document.getElementById('HeaderMenu_DropDown_1') != null &amp;&amp; document.getElementById('HeaderMenu_DropDown_1') != 'undefined') { document.getElementById('HeaderMenu_DropDown_1').focus();}" onmouseover="parseHeader('CachedHeaderDisplayMenuOverlayItem_4')" class="dijit dijitLeft dijitInline dijitDropDownButton dijitDropDownButtonFocused"><div class="dijitRight">
-					<div class="dijitStretch dijitButtonNode dijitButtonContents" type="" wairole="button" waistate="haspopup-true,labelledby-CachedHeaderDisplayMenuOverlay_1_4_label"><div class="dijitInline"></div><span class="dijitButtonText" id="CachedHeaderDisplayMenuOverlay_1_4_label">ACCESSORIES</span>
-						<span class="dijitA11yDownArrow"></span>
-					</div>
-				</div></div>
-					<!--<div class="dijit dijitLeft dijitInline dijitDropDownButton">|</div>-->
+					
+					
+					
+					
+						<div id="CachedHeaderDisplayMenuOverlayItem_4" tabindex="0" onfocus="parseHeader('CachedHeaderDisplayMenuOverlayItem_4'); if (document.getElementById('HeaderMenu_DropDown_1') != null &amp;&amp; document.getElementById('HeaderMenu_DropDown_1') != 'undefined') { document.getElementById('HeaderMenu_DropDown_1').focus();}" onmouseover="parseHeader('CachedHeaderDisplayMenuOverlayItem_4')" class="dijit dijitLeft dijitInline dijitDropDownButton dijitDropDownButtonFocused">
+							
+							<div class="dijitRight">
+								<div class="dijitStretch dijitButtonNode dijitButtonContents" type="" wairole="button" waistate="haspopup-true,labelledby-CachedHeaderDisplayMenuOverlay_1_4_label">
+									<div class="dijitInline"></div>
+									<span class="dijitButtonText" id="CachedHeaderDisplayMenuOverlay_1_4_label">
+										ACCESSORIES
+									</span> 
+									<span class="dijitA11yDownArrow"></span>
+								</div>
+							</div>
+						</div>
+						<!--<div class="dijit dijitLeft dijitInline dijitDropDownButton">|</div>-->
 					
 				
-				
-				
-					<div id="CachedHeaderDisplayMenuOverlayItem_5" tabindex="0" onfocus="parseHeader('CachedHeaderDisplayMenuOverlayItem_5'); if (document.getElementById('HeaderMenu_DropDown_1') != null &amp;&amp; document.getElementById('HeaderMenu_DropDown_1') != 'undefined') { document.getElementById('HeaderMenu_DropDown_1').focus();}" onmouseover="parseHeader('CachedHeaderDisplayMenuOverlayItem_5')" class="dijit dijitLeft dijitInline dijitDropDownButton dijitDropDownButtonFocused"><div class="dijitRight">
-					<div class="dijitStretch dijitButtonNode dijitButtonContents" type="" wairole="button" waistate="haspopup-true,labelledby-CachedHeaderDisplayMenuOverlay_1_5_label"><div class="dijitInline"></div><span class="dijitButtonText" id="CachedHeaderDisplayMenuOverlay_1_5_label">COLLECTIONS</span>
-						<span class="dijitA11yDownArrow"></span>
-					</div>
-				</div></div>
-					<!--<div class="dijit dijitLeft dijitInline dijitDropDownButton">|</div>-->
+					
+					
+					
+					
+						<div id="CachedHeaderDisplayMenuOverlayItem_5" tabindex="0" onfocus="parseHeader('CachedHeaderDisplayMenuOverlayItem_5'); if (document.getElementById('HeaderMenu_DropDown_1') != null &amp;&amp; document.getElementById('HeaderMenu_DropDown_1') != 'undefined') { document.getElementById('HeaderMenu_DropDown_1').focus();}" onmouseover="parseHeader('CachedHeaderDisplayMenuOverlayItem_5')" class="dijit dijitLeft dijitInline dijitDropDownButton dijitDropDownButtonFocused">
+							
+							<div class="dijitRight">
+								<div class="dijitStretch dijitButtonNode dijitButtonContents" type="" wairole="button" waistate="haspopup-true,labelledby-CachedHeaderDisplayMenuOverlay_1_5_label">
+									<div class="dijitInline"></div>
+									<span class="dijitButtonText" id="CachedHeaderDisplayMenuOverlay_1_5_label">
+										COLLECTIONS
+									</span> 
+									<span class="dijitA11yDownArrow"></span>
+								</div>
+							</div>
+						</div>
+						<!--<div class="dijit dijitLeft dijitInline dijitDropDownButton">|</div>-->
 					
 				
-				
-				
-					<div id="CachedHeaderDisplayMenuOverlayItem_6" tabindex="0" onfocus="parseHeader('CachedHeaderDisplayMenuOverlayItem_6'); if (document.getElementById('HeaderMenu_DropDown_1') != null &amp;&amp; document.getElementById('HeaderMenu_DropDown_1') != 'undefined') { document.getElementById('HeaderMenu_DropDown_1').focus();}" onmouseover="parseHeader('CachedHeaderDisplayMenuOverlayItem_6')" class="dijit dijitLeft dijitInline dijitDropDownButton dijitDropDownButtonFocused"><div class="dijitRight">
-					<div class="dijitStretch dijitButtonNode dijitButtonContents" type="" wairole="button" waistate="haspopup-true,labelledby-CachedHeaderDisplayMenuOverlay_1_6_label"><div class="dijitInline"></div><span class="dijitButtonText" id="CachedHeaderDisplayMenuOverlay_1_6_label">FRESH ARRIVALS</span>
-						<span class="dijitA11yDownArrow"></span>
-					</div>
-				</div></div>
-					<!--<div class="dijit dijitLeft dijitInline dijitDropDownButton">|</div>-->
+					
+					
+					
+					
+						<div id="CachedHeaderDisplayMenuOverlayItem_6" tabindex="0" onfocus="parseHeader('CachedHeaderDisplayMenuOverlayItem_6'); if (document.getElementById('HeaderMenu_DropDown_1') != null &amp;&amp; document.getElementById('HeaderMenu_DropDown_1') != 'undefined') { document.getElementById('HeaderMenu_DropDown_1').focus();}" onmouseover="parseHeader('CachedHeaderDisplayMenuOverlayItem_6')" class="dijit dijitLeft dijitInline dijitDropDownButton dijitDropDownButtonFocused">
+							
+							<div class="dijitRight">
+								<div class="dijitStretch dijitButtonNode dijitButtonContents" type="" wairole="button" waistate="haspopup-true,labelledby-CachedHeaderDisplayMenuOverlay_1_6_label">
+									<div class="dijitInline"></div>
+									<span class="dijitButtonText" id="CachedHeaderDisplayMenuOverlay_1_6_label">
+										FRESH ARRIVALS
+									</span> 
+									<span class="dijitA11yDownArrow"></span>
+								</div>
+							</div>
+						</div>
+						<!--<div class="dijit dijitLeft dijitInline dijitDropDownButton">|</div>-->
 					
 				
-				
 					
+					
+					
+					
+						<div id="CachedHeaderDisplayMenuOverlayItem_7" tabindex="0" onfocus="parseHeader('CachedHeaderDisplayMenuOverlayItem_7'); if (document.getElementById('HeaderMenu_DropDown_1') != null &amp;&amp; document.getElementById('HeaderMenu_DropDown_1') != 'undefined') { document.getElementById('HeaderMenu_DropDown_1').focus();}" onmouseover="parseHeader('CachedHeaderDisplayMenuOverlayItem_7')" class="dijit dijitLeft dijitInline dijitDropDownButton dijitDropDownButtonFocused">
+							
+							<div class="dijitRight">
+								<div class="dijitStretch dijitButtonNode dijitButtonContents" type="" wairole="button" waistate="haspopup-true,labelledby-CachedHeaderDisplayMenuOverlay_1_7_label">
+									<div class="dijitInline"></div>
+									<span class="dijitButtonText" id="CachedHeaderDisplayMenuOverlay_1_7_label">
+										SALE
+									</span> 
+									<span class="dijitA11yDownArrow"></span>
+								</div>
+							</div>
+						</div>
+						<!--<div class="dijit dijitLeft dijitInline dijitDropDownButton">|</div>-->
+					
+				 
+				 
+				
 			</div>
-		<div id="header_menu_loaded" style="display:none;">
+			<div id="header_menu_loaded" style="display: none;">
 				
+					
+						
 							
-							 
-								  
-							 	  
-								  
-								  
-							  	  
-								  
-								  
-								  
+							
+							
+							
+							
+							
+							
+							
+						
+						
 						 
-												
+						
+						<div dojotype="wc.widget.WCDropDownButton" url="http://www.satyapaul.com/satyapaul/shop/sarees" id="HeaderMenu_DropDown_1">
+							<span class="dijit dijitLeft dijitInline dijitDropDownButton dijitDropDownButtonFocused">
+								SAREES
+								<span class="menu_shifting">&nbsp;</span>
+							</span> 
 							
-							
-							<div dojotype="wc.widget.WCDropDownButton" url="http://www.satyapaul.com/satyapaul/shop/sarees" id="HeaderMenu_DropDown_1">
-							<span class="dijit dijitLeft dijitInline dijitDropDownButton dijitDropDownButtonFocused">SAREES<span class="menu_shifting">&nbsp;</span></span>
+							<div dojotype="wc.widget.WCMenu" maxitemspercolumn="15" forcedisplayshowall="false" showallurl="http://www.satyapaul.com/satyapaul/shop/sarees" showalltext="Show All 
+								SAREES" class="dropdown" id="WC_CachedHeaderDisplay_div_3_1">
+								
 									
-							<div dojotype="wc.widget.WCMenu" maxitemspercolumn="15" forcedisplayshowall="false" showallurl="http://www.satyapaul.com/satyapaul/shop/sarees" showalltext="Show All SAREES" class="dropdown" id="WC_CachedHeaderDisplay_div_3_1">
-												
-													 
-														
-														
-														
-														
-														
-														
-														
-														
-														
-													
-													<div dojotype="dijit.MenuItem" onclick="loadLink('http://www.satyapaul.com/satyapaul/shop/sarees/printed-n-embellished-sarees');" id="WC_CachedHeaderDisplay_div_4_1_1" style="outline-style: none;">
-														<span><a href="http://www.satyapaul.com/satyapaul/shop/sarees/printed-n-embellished-sarees" id="WC_CachedHeaderDisplay_links_1_1_1">Printed &amp; Embellished Sarees</a></span>
-													</div> 
-												
-													 
-														
-														
-														
-														
-														
-														
-														
-														
-														
-													
-													<div dojotype="dijit.MenuItem" onclick="loadLink('http://www.satyapaul.com/satyapaul/shop/sarees/embroideredsarees');" id="WC_CachedHeaderDisplay_div_4_1_2" style="outline-style: none;">
-														<span><a href="http://www.satyapaul.com/satyapaul/shop/sarees/embroideredsarees" id="WC_CachedHeaderDisplay_links_1_1_2">Embroidered Sarees</a></span>
-													</div> 
-												
-													 
-														
-														
-														
-														
-														
-														
-														
-														
-														
-													
-													<div dojotype="dijit.MenuItem" onclick="loadLink('http://www.satyapaul.com/satyapaul/shop/sarees/best-sellers');" id="WC_CachedHeaderDisplay_div_4_1_3" style="outline-style: none;">
-														<span><a href="http://www.satyapaul.com/satyapaul/shop/sarees/best-sellers" id="WC_CachedHeaderDisplay_links_1_1_3">Best Sellers</a></span>
-													</div> 
-												
-							</div></div>	
-							 
-							  
-				
-				
+										
+										
+										
+										
+										
+										
+										
+										
+										
+									
+									<div dojotype="dijit.MenuItem" onclick="loadLink('http://www.satyapaul.com/satyapaul/shop/sarees/printed-n-embellished-sarees');" id="WC_CachedHeaderDisplay_div_4_1_1" style="outline-style: none;">
+											<span>
+											 	<a href="http://www.satyapaul.com/satyapaul/shop/sarees/printed-n-embellished-sarees" id="WC_CachedHeaderDisplay_links_1_1_1">
+											 		Printed &amp; Embellished Sarees
+												</a>
+											</span>
+									</div>
+								
+									
+										
+										
+										
+										
+										
+										
+										
+										
+										
+									
+									<div dojotype="dijit.MenuItem" onclick="loadLink('http://www.satyapaul.com/satyapaul/shop/sarees/embroideredsarees');" id="WC_CachedHeaderDisplay_div_4_1_2" style="outline-style: none;">
+											<span>
+											 	<a href="http://www.satyapaul.com/satyapaul/shop/sarees/embroideredsarees" id="WC_CachedHeaderDisplay_links_1_1_2">
+											 		Embroidered Sarees
+												</a>
+											</span>
+									</div>
+								
+									
+										
+										
+										
+										
+										
+										
+										
+										
+										
+									
+									<div dojotype="dijit.MenuItem" onclick="loadLink('http://www.satyapaul.com/satyapaul/shop/sarees/best-sellers');" id="WC_CachedHeaderDisplay_div_4_1_3" style="outline-style: none;">
+											<span>
+											 	<a href="http://www.satyapaul.com/satyapaul/shop/sarees/best-sellers" id="WC_CachedHeaderDisplay_links_1_1_3">
+											 		Best Sellers
+												</a>
+											</span>
+									</div>
+								
+							</div>
+						</div>
 							
-							 
-								  
-							 	  
-								  
-								  
-							  	  
-								  
-								  
-								  
+					
+				
+					
+						
+							
+							
+							
+							
+							
+							
+							
+							
+						
+						
 						 
-												
+						
+						<div dojotype="wc.widget.WCDropDownButton" url="http://www.satyapaul.com/satyapaul/shop/bridal-wear" id="HeaderMenu_DropDown_2">
+							<span class="dijit dijitLeft dijitInline dijitDropDownButton dijitDropDownButtonFocused">
+								BRIDAL WEAR
+								<span class="menu_shifting">&nbsp;</span>
+							</span> 
 							
-							
-							<div dojotype="wc.widget.WCDropDownButton" url="http://www.satyapaul.com/satyapaul/shop/bridal-wear" id="HeaderMenu_DropDown_2">
-							<span class="dijit dijitLeft dijitInline dijitDropDownButton dijitDropDownButtonFocused">BRIDAL WEAR<span class="menu_shifting">&nbsp;</span></span>
+							<div dojotype="wc.widget.WCMenu" maxitemspercolumn="15" forcedisplayshowall="false" showallurl="http://www.satyapaul.com/satyapaul/shop/bridal-wear" showalltext="Show All 
+								BRIDAL WEAR" class="dropdown" id="WC_CachedHeaderDisplay_div_3_2">
+								
 									
-							<div dojotype="wc.widget.WCMenu" maxitemspercolumn="15" forcedisplayshowall="false" showallurl="http://www.satyapaul.com/satyapaul/shop/bridal-wear" showalltext="Show All BRIDAL WEAR" class="dropdown" id="WC_CachedHeaderDisplay_div_3_2">
-												
-													 
-														
-														
-														
-														
-														
-														
-														
-														
-														
-													
-													<div dojotype="dijit.MenuItem" onclick="loadLink('http://www.satyapaul.com/satyapaul/shop/bridal-wear/bridal-sarees');" id="WC_CachedHeaderDisplay_div_4_2_1" style="outline-style: none;">
-														<span><a href="http://www.satyapaul.com/satyapaul/shop/bridal-wear/bridal-sarees" id="WC_CachedHeaderDisplay_links_1_2_1">Bridal Sarees</a></span>
-													</div> 
-												
-													 
-														
-														
-														
-														
-														
-														
-														
-														
-														
-													
-													<div dojotype="dijit.MenuItem" onclick="loadLink('http://www.satyapaul.com/satyapaul/shop/bridal-wear/bridal-lehengas');" id="WC_CachedHeaderDisplay_div_4_2_2" style="outline-style: none;">
-														<span><a href="http://www.satyapaul.com/satyapaul/shop/bridal-wear/bridal-lehengas" id="WC_CachedHeaderDisplay_links_1_2_2">Bridal Lehengas</a></span>
-													</div> 
-												
-													 
-														
-														
-														
-														
-														
-														
-														
-														
-														
-													
-													<div dojotype="dijit.MenuItem" onclick="loadLink('http://www.satyapaul.com/satyapaul/shop/bridal-wear/bridal-garments');" id="WC_CachedHeaderDisplay_div_4_2_3" style="outline-style: none;">
-														<span><a href="http://www.satyapaul.com/satyapaul/shop/bridal-wear/bridal-garments" id="WC_CachedHeaderDisplay_links_1_2_3">Bridal Garments</a></span>
-													</div> 
-												
-							</div></div>	
-							 
-							  
-				
-				
+										
+										
+										
+										
+										
+										
+										
+										
+										
+									
+									<div dojotype="dijit.MenuItem" onclick="loadLink('http://www.satyapaul.com/satyapaul/shop/bridal-wear/bridal-sarees');" id="WC_CachedHeaderDisplay_div_4_2_1" style="outline-style: none;">
+											<span>
+											 	<a href="http://www.satyapaul.com/satyapaul/shop/bridal-wear/bridal-sarees" id="WC_CachedHeaderDisplay_links_1_2_1">
+											 		Bridal Sarees
+												</a>
+											</span>
+									</div>
+								
+									
+										
+										
+										
+										
+										
+										
+										
+										
+										
+									
+									<div dojotype="dijit.MenuItem" onclick="loadLink('http://www.satyapaul.com/satyapaul/shop/bridal-wear/bridal-lehengas');" id="WC_CachedHeaderDisplay_div_4_2_2" style="outline-style: none;">
+											<span>
+											 	<a href="http://www.satyapaul.com/satyapaul/shop/bridal-wear/bridal-lehengas" id="WC_CachedHeaderDisplay_links_1_2_2">
+											 		Bridal Lehengas
+												</a>
+											</span>
+									</div>
+								
+									
+										
+										
+										
+										
+										
+										
+										
+										
+										
+									
+									<div dojotype="dijit.MenuItem" onclick="loadLink('http://www.satyapaul.com/satyapaul/shop/bridal-wear/bridal-garments');" id="WC_CachedHeaderDisplay_div_4_2_3" style="outline-style: none;">
+											<span>
+											 	<a href="http://www.satyapaul.com/satyapaul/shop/bridal-wear/bridal-garments" id="WC_CachedHeaderDisplay_links_1_2_3">
+											 		Bridal Garments
+												</a>
+											</span>
+									</div>
+								
+							</div>
+						</div>
 							
-							 
-								  
-							 	  
-								  
-								  
-							  	  
-								  
-								  
-								  
+					
+				
+					
+						
+							
+							
+							
+							
+							
+							
+							
+							
+						
+						
 						 
-												
+						
+						<div dojotype="wc.widget.WCDropDownButton" url="http://www.satyapaul.com/satyapaul/shop/ready-to-wear" id="HeaderMenu_DropDown_3">
+							<span class="dijit dijitLeft dijitInline dijitDropDownButton dijitDropDownButtonFocused">
+								READY TO WEAR
+								<span class="menu_shifting">&nbsp;</span>
+							</span> 
 							
-							
-							<div dojotype="wc.widget.WCDropDownButton" url="http://www.satyapaul.com/satyapaul/shop/ready-to-wear" id="HeaderMenu_DropDown_3">
-							<span class="dijit dijitLeft dijitInline dijitDropDownButton dijitDropDownButtonFocused">READY TO WEAR<span class="menu_shifting">&nbsp;</span></span>
+							<div dojotype="wc.widget.WCMenu" maxitemspercolumn="15" forcedisplayshowall="false" showallurl="http://www.satyapaul.com/satyapaul/shop/ready-to-wear" showalltext="Show All 
+								READY TO WEAR" class="dropdown" id="WC_CachedHeaderDisplay_div_3_3">
+								
 									
-							<div dojotype="wc.widget.WCMenu" maxitemspercolumn="15" forcedisplayshowall="false" showallurl="http://www.satyapaul.com/satyapaul/shop/ready-to-wear" showalltext="Show All READY TO WEAR" class="dropdown" id="WC_CachedHeaderDisplay_div_3_3">
-												
-													 
-														
-														
-														
-														
-														
-														
-														
-														
-														
-													
-													<div dojotype="dijit.MenuItem" onclick="loadLink('http://www.satyapaul.com/satyapaul/shop/ready-to-wear/anarkalis');" id="WC_CachedHeaderDisplay_div_4_3_1" style="outline-style: none;">
-														<span><a href="http://www.satyapaul.com/satyapaul/shop/ready-to-wear/anarkalis" id="WC_CachedHeaderDisplay_links_1_3_1">Anarkalis</a></span>
-													</div> 
-												
-													 
-														
-														
-														
-														
-														
-														
-														
-														
-														
-													
-													<div dojotype="dijit.MenuItem" onclick="loadLink('http://www.satyapaul.com/satyapaul/shop/ready-to-wear/wwf-merchandise');" id="WC_CachedHeaderDisplay_div_4_3_2" style="outline-style: none;">
-														<span><a href="http://www.satyapaul.com/satyapaul/shop/ready-to-wear/wwf-merchandise" id="WC_CachedHeaderDisplay_links_1_3_2">WWF Merchandise</a></span>
-													</div> 
-												
-													 
-														
-														
-														
-														
-														
-														
-														
-														
-														
-													
-													<div dojotype="dijit.MenuItem" onclick="loadLink('http://www.satyapaul.com/satyapaul/shop/ready-to-wear/tops-n-tunics');" id="WC_CachedHeaderDisplay_div_4_3_3" style="outline-style: none;">
-														<span><a href="http://www.satyapaul.com/satyapaul/shop/ready-to-wear/tops-n-tunics" id="WC_CachedHeaderDisplay_links_1_3_3">Tops &amp; Tunics</a></span>
-													</div> 
-												
-													 
-														
-														
-														
-														
-														
-														
-														
-														
-														
-													
-													<div dojotype="dijit.MenuItem" onclick="loadLink('http://www.satyapaul.com/satyapaul/shop/ready-to-wear/readymade-blouses');" id="WC_CachedHeaderDisplay_div_4_3_4" style="outline-style: none;">
-														<span><a href="http://www.satyapaul.com/satyapaul/shop/ready-to-wear/readymade-blouses" id="WC_CachedHeaderDisplay_links_1_3_4">Readymade Blouses</a></span>
-													</div> 
-												
-							</div></div>	
-							 
-							  
-				
-				
+										
+										
+										
+										
+										
+										
+										
+										
+										
+									
+									<div dojotype="dijit.MenuItem" onclick="loadLink('http://www.satyapaul.com/satyapaul/shop/ready-to-wear/anarkalis');" id="WC_CachedHeaderDisplay_div_4_3_1" style="outline-style: none;">
+											<span>
+											 	<a href="http://www.satyapaul.com/satyapaul/shop/ready-to-wear/anarkalis" id="WC_CachedHeaderDisplay_links_1_3_1">
+											 		Anarkalis
+												</a>
+											</span>
+									</div>
+								
+									
+										
+										
+										
+										
+										
+										
+										
+										
+										
+									
+									<div dojotype="dijit.MenuItem" onclick="loadLink('http://www.satyapaul.com/satyapaul/shop/ready-to-wear/tops-n-tunics');" id="WC_CachedHeaderDisplay_div_4_3_2" style="outline-style: none;">
+											<span>
+											 	<a href="http://www.satyapaul.com/satyapaul/shop/ready-to-wear/tops-n-tunics" id="WC_CachedHeaderDisplay_links_1_3_2">
+											 		Tops &amp; Tunics
+												</a>
+											</span>
+									</div>
+								
+									
+										
+										
+										
+										
+										
+										
+										
+										
+										
+									
+									<div dojotype="dijit.MenuItem" onclick="loadLink('http://www.satyapaul.com/satyapaul/shop/ready-to-wear/readymade-blouses');" id="WC_CachedHeaderDisplay_div_4_3_3" style="outline-style: none;">
+											<span>
+											 	<a href="http://www.satyapaul.com/satyapaul/shop/ready-to-wear/readymade-blouses" id="WC_CachedHeaderDisplay_links_1_3_3">
+											 		Readymade Blouses
+												</a>
+											</span>
+									</div>
+								
+							</div>
+						</div>
 							
-							 
-								  
-							 	  
-								  
-								  
-							  	  
-								  
-								  
-								  
+					
+				
+					
+						
+							
+							
+							
+							
+							
+							
+							
+							
+						
+						
 						 
-												
+						
+						<div dojotype="wc.widget.WCDropDownButton" url="http://www.satyapaul.com/satyapaul/shop/accessories" id="HeaderMenu_DropDown_4">
+							<span class="dijit dijitLeft dijitInline dijitDropDownButton dijitDropDownButtonFocused">
+								ACCESSORIES
+								<span class="menu_shifting">&nbsp;</span>
+							</span> 
 							
-							
-							<div dojotype="wc.widget.WCDropDownButton" url="http://www.satyapaul.com/satyapaul/shop/accessories" id="HeaderMenu_DropDown_4">
-							<span class="dijit dijitLeft dijitInline dijitDropDownButton dijitDropDownButtonFocused">ACCESSORIES<span class="menu_shifting">&nbsp;</span></span>
+							<div dojotype="wc.widget.WCMenu" maxitemspercolumn="15" forcedisplayshowall="false" showallurl="http://www.satyapaul.com/satyapaul/shop/accessories" showalltext="Show All 
+								ACCESSORIES" class="dropdown" id="WC_CachedHeaderDisplay_div_3_4">
+								
 									
-							<div dojotype="wc.widget.WCMenu" maxitemspercolumn="15" forcedisplayshowall="false" showallurl="http://www.satyapaul.com/satyapaul/shop/accessories" showalltext="Show All ACCESSORIES" class="dropdown" id="WC_CachedHeaderDisplay_div_3_4">
-												
-													 
-														
-														
-														
-														
-														
-														
-														
-														
-														
-													
-													<div dojotype="dijit.MenuItem" onclick="loadLink('http://www.satyapaul.com/satyapaul/shop/accessories/signature-bags');" id="WC_CachedHeaderDisplay_div_4_4_1" style="outline-style: none;">
-														<span><a href="http://www.satyapaul.com/satyapaul/shop/accessories/signature-bags" id="WC_CachedHeaderDisplay_links_1_4_1">Signature Bags</a></span>
-													</div> 
-												
-													 
-														
-														
-														
-														
-														
-														
-														
-														
-														
-													
-													<div dojotype="dijit.MenuItem" onclick="loadLink('http://www.satyapaul.com/satyapaul/shop/accessories/handbags');" id="WC_CachedHeaderDisplay_div_4_4_2" style="outline-style: none;">
-														<span><a href="http://www.satyapaul.com/satyapaul/shop/accessories/handbags" id="WC_CachedHeaderDisplay_links_1_4_2">Handbags</a></span>
-													</div> 
-												
-													 
-														
-														
-														
-														
-														
-														
-														
-														
-														
-													
-													<div dojotype="dijit.MenuItem" onclick="loadLink('http://www.satyapaul.com/satyapaul/shop/accessories/ties');" id="WC_CachedHeaderDisplay_div_4_4_3" style="outline-style: none;">
-														<span><a href="http://www.satyapaul.com/satyapaul/shop/accessories/ties" id="WC_CachedHeaderDisplay_links_1_4_3">Ties</a></span>
-													</div> 
-												
-													 
-														
-														
-														
-														
-														
-														
-														
-														
-														
-													
-													<div dojotype="dijit.MenuItem" onclick="loadLink('http://www.satyapaul.com/satyapaul/shop/accessories/cufflinks');" id="WC_CachedHeaderDisplay_div_4_4_4" style="outline-style: none;">
-														<span><a href="http://www.satyapaul.com/satyapaul/shop/accessories/cufflinks" id="WC_CachedHeaderDisplay_links_1_4_4">Cufflinks</a></span>
-													</div> 
-												
-													 
-														
-														
-														
-														
-														
-														
-														
-														
-														
-													
-													<div dojotype="dijit.MenuItem" onclick="loadLink('http://www.satyapaul.com/satyapaul/shop/accessories/box-combos');" id="WC_CachedHeaderDisplay_div_4_4_5" style="outline-style: none;">
-														<span><a href="http://www.satyapaul.com/satyapaul/shop/accessories/box-combos" id="WC_CachedHeaderDisplay_links_1_4_5">Box Combos</a></span>
-													</div> 
-												
-													 
-														
-														
-														
-														
-														
-														
-														
-														
-														
-													
-													<div dojotype="dijit.MenuItem" onclick="loadLink('http://www.satyapaul.com/satyapaul/shop/accessories/gift-combo');" id="WC_CachedHeaderDisplay_div_4_4_6" style="outline-style: none;">
-														<span><a href="http://www.satyapaul.com/satyapaul/shop/accessories/gift-combo" id="WC_CachedHeaderDisplay_links_1_4_6">Gift Combo</a></span>
-													</div> 
-												
-													 
-														
-														
-														
-														
-														
-														
-														
-														
-														
-													
-													<div dojotype="dijit.MenuItem" onclick="loadLink('http://www.satyapaul.com/satyapaul/shop/accessories/clutches');" id="WC_CachedHeaderDisplay_div_4_4_7" style="outline-style: none;">
-														<span><a href="http://www.satyapaul.com/satyapaul/shop/accessories/clutches" id="WC_CachedHeaderDisplay_links_1_4_7">Clutches</a></span>
-													</div> 
-												
-													 
-														
-														
-														
-														
-														
-														
-														
-														
-														
-													
-													<div dojotype="dijit.MenuItem" onclick="loadLink('http://www.satyapaul.com/satyapaul/shop/accessories/scarves');" id="WC_CachedHeaderDisplay_div_4_4_8" style="outline-style: none;">
-														<span><a href="http://www.satyapaul.com/satyapaul/shop/accessories/scarves" id="WC_CachedHeaderDisplay_links_1_4_8">Scarves</a></span>
-													</div> 
-												
-							</div></div>	
-							 
-							  
-				
-				
+										
+										
+										
+										
+										
+										
+										
+										
+										
+									
+									<div dojotype="dijit.MenuItem" onclick="loadLink('http://www.satyapaul.com/satyapaul/shop/accessories/handbags');" id="WC_CachedHeaderDisplay_div_4_4_1" style="outline-style: none;">
+											<span>
+											 	<a href="http://www.satyapaul.com/satyapaul/shop/accessories/handbags" id="WC_CachedHeaderDisplay_links_1_4_1">
+											 		Handbags
+												</a>
+											</span>
+									</div>
+								
+									
+										
+										
+										
+										
+										
+										
+										
+										
+										
+									
+									<div dojotype="dijit.MenuItem" onclick="loadLink('http://www.satyapaul.com/satyapaul/shop/accessories/mens-wallets');" id="WC_CachedHeaderDisplay_div_4_4_2" style="outline-style: none;">
+											<span>
+											 	<a href="http://www.satyapaul.com/satyapaul/shop/accessories/mens-wallets" id="WC_CachedHeaderDisplay_links_1_4_2">
+											 		Mens Wallet
+												</a>
+											</span>
+									</div>
+								
+									
+										
+										
+										
+										
+										
+										
+										
+										
+										
+									
+									<div dojotype="dijit.MenuItem" onclick="loadLink('http://www.satyapaul.com/satyapaul/shop/accessories/ladies-wallet');" id="WC_CachedHeaderDisplay_div_4_4_3" style="outline-style: none;">
+											<span>
+											 	<a href="http://www.satyapaul.com/satyapaul/shop/accessories/ladies-wallet" id="WC_CachedHeaderDisplay_links_1_4_3">
+											 		Ladies Wallet
+												</a>
+											</span>
+									</div>
+								
+									
+										
+										
+										
+										
+										
+										
+										
+										
+										
+									
+									<div dojotype="dijit.MenuItem" onclick="loadLink('http://www.satyapaul.com/satyapaul/shop/accessories/ties');" id="WC_CachedHeaderDisplay_div_4_4_4" style="outline-style: none;">
+											<span>
+											 	<a href="http://www.satyapaul.com/satyapaul/shop/accessories/ties" id="WC_CachedHeaderDisplay_links_1_4_4">
+											 		Ties
+												</a>
+											</span>
+									</div>
+								
+									
+										
+										
+										
+										
+										
+										
+										
+										
+										
+									
+									<div dojotype="dijit.MenuItem" onclick="loadLink('http://www.satyapaul.com/satyapaul/shop/accessories/cufflinks');" id="WC_CachedHeaderDisplay_div_4_4_5" style="outline-style: none;">
+											<span>
+											 	<a href="http://www.satyapaul.com/satyapaul/shop/accessories/cufflinks" id="WC_CachedHeaderDisplay_links_1_4_5">
+											 		Cufflinks
+												</a>
+											</span>
+									</div>
+								
+									
+										
+										
+										
+										
+										
+										
+										
+										
+										
+									
+									<div dojotype="dijit.MenuItem" onclick="loadLink('http://www.satyapaul.com/satyapaul/shop/accessories/box-combos');" id="WC_CachedHeaderDisplay_div_4_4_6" style="outline-style: none;">
+											<span>
+											 	<a href="http://www.satyapaul.com/satyapaul/shop/accessories/box-combos" id="WC_CachedHeaderDisplay_links_1_4_6">
+											 		Box Combos
+												</a>
+											</span>
+									</div>
+								
+									
+										
+										
+										
+										
+										
+										
+										
+										
+										
+									
+									<div dojotype="dijit.MenuItem" onclick="loadLink('http://www.satyapaul.com/satyapaul/shop/accessories/gift-combo');" id="WC_CachedHeaderDisplay_div_4_4_7" style="outline-style: none;">
+											<span>
+											 	<a href="http://www.satyapaul.com/satyapaul/shop/accessories/gift-combo" id="WC_CachedHeaderDisplay_links_1_4_7">
+											 		Gift Combo
+												</a>
+											</span>
+									</div>
+								
+									
+										
+										
+										
+										
+										
+										
+										
+										
+										
+									
+									<div dojotype="dijit.MenuItem" onclick="loadLink('http://www.satyapaul.com/satyapaul/shop/accessories/clutches');" id="WC_CachedHeaderDisplay_div_4_4_8" style="outline-style: none;">
+											<span>
+											 	<a href="http://www.satyapaul.com/satyapaul/shop/accessories/clutches" id="WC_CachedHeaderDisplay_links_1_4_8">
+											 		Clutches
+												</a>
+											</span>
+									</div>
+								
+									
+										
+										
+										
+										
+										
+										
+										
+										
+										
+									
+									<div dojotype="dijit.MenuItem" onclick="loadLink('http://www.satyapaul.com/satyapaul/shop/accessories/scarves');" id="WC_CachedHeaderDisplay_div_4_4_9" style="outline-style: none;">
+											<span>
+											 	<a href="http://www.satyapaul.com/satyapaul/shop/accessories/scarves" id="WC_CachedHeaderDisplay_links_1_4_9">
+											 		Scarves
+												</a>
+											</span>
+									</div>
+								
+							</div>
+						</div>
 							
-							 
-								  
-							 	  
-								  
-								  
-							  	  
-								  
-								  
-								  
+					
+				
+					
+						
+							
+							
+							
+							
+							
+							
+							
+							
+						
+						
 						 
-												
+						
+						<div dojotype="wc.widget.WCDropDownButton" url="http://www.satyapaul.com/satyapaul/shop/collections" id="HeaderMenu_DropDown_5">
+							<span class="dijit dijitLeft dijitInline dijitDropDownButton dijitDropDownButtonFocused">
+								COLLECTIONS
+								<span class="menu_shifting">&nbsp;</span>
+							</span> 
 							
-							
-							<div dojotype="wc.widget.WCDropDownButton" url="http://www.satyapaul.com/satyapaul/shop/collections" id="HeaderMenu_DropDown_5">
-							<span class="dijit dijitLeft dijitInline dijitDropDownButton dijitDropDownButtonFocused">COLLECTIONS<span class="menu_shifting">&nbsp;</span></span>
+							<div dojotype="wc.widget.WCMenu" maxitemspercolumn="15" forcedisplayshowall="false" showallurl="http://www.satyapaul.com/satyapaul/shop/collections" showalltext="Show All 
+								COLLECTIONS" class="dropdown" id="WC_CachedHeaderDisplay_div_3_5">
+								
 									
-							<div dojotype="wc.widget.WCMenu" maxitemspercolumn="15" forcedisplayshowall="false" showallurl="http://www.satyapaul.com/satyapaul/shop/collections" showalltext="Show All COLLECTIONS" class="dropdown" id="WC_CachedHeaderDisplay_div_3_5">
-												
-													 
-														
-														
-														
-														
-														
-														
-														
-														
-														
-													
-													<div dojotype="dijit.MenuItem" onclick="loadLink('http://www.satyapaul.com/satyapaul/shop/collections/dance-of-the-summer-sun');" id="WC_CachedHeaderDisplay_div_4_5_1" style="outline-style: none;">
-														<span><a href="http://www.satyapaul.com/satyapaul/shop/collections/dance-of-the-summer-sun" id="WC_CachedHeaderDisplay_links_1_5_1">Dance Of The Summer Sun</a></span>
-													</div> 
-												
-													 
-														
-														
-														
-														
-														
-														
-														
-														
-														
-													
-													<div dojotype="dijit.MenuItem" onclick="loadLink('http://www.satyapaul.com/satyapaul/shop/collections/take-a-walk-on-the-wild-side');" id="WC_CachedHeaderDisplay_div_4_5_2" style="outline-style: none;">
-														<span><a href="http://www.satyapaul.com/satyapaul/shop/collections/take-a-walk-on-the-wild-side" id="WC_CachedHeaderDisplay_links_1_5_2">Take A Walk On The Wild Side</a></span>
-													</div> 
-												
-													 
-														
-														
-														
-														
-														
-														
-														
-														
-														
-													
-													<div dojotype="dijit.MenuItem" onclick="loadLink('http://www.satyapaul.com/satyapaul/shop/collections/jewels-of-the-sea');" id="WC_CachedHeaderDisplay_div_4_5_3" style="outline-style: none;">
-														<span><a href="http://www.satyapaul.com/satyapaul/shop/collections/jewels-of-the-sea" id="WC_CachedHeaderDisplay_links_1_5_3">Jewels Of The Sea</a></span>
-													</div> 
-												
-													 
-														
-														
-														
-														
-														
-														
-														
-														
-														
-													
-													<div dojotype="dijit.MenuItem" onclick="loadLink('http://www.satyapaul.com/satyapaul/shop/collections/the-art-of-tarot');" id="WC_CachedHeaderDisplay_div_4_5_4" style="outline-style: none;">
-														<span><a href="http://www.satyapaul.com/satyapaul/shop/collections/the-art-of-tarot" id="WC_CachedHeaderDisplay_links_1_5_4">The Art Of Tarot </a></span>
-													</div> 
-												
-													 
-														
-														
-														
-														
-														
-														
-														
-														
-														
-													
-													<div dojotype="dijit.MenuItem" onclick="loadLink('http://www.satyapaul.com/satyapaul/shop/collections/classics');" id="WC_CachedHeaderDisplay_div_4_5_5" style="outline-style: none;">
-														<span><a href="http://www.satyapaul.com/satyapaul/shop/collections/classics" id="WC_CachedHeaderDisplay_links_1_5_5">Classics</a></span>
-													</div> 
-												
-													 
-														
-														
-														
-														
-														
-														
-														
-														
-														
-													
-													<div dojotype="dijit.MenuItem" onclick="loadLink('http://www.satyapaul.com/satyapaul/shop/collections/pop-art');" id="WC_CachedHeaderDisplay_div_4_5_6" style="outline-style: none;">
-														<span><a href="http://www.satyapaul.com/satyapaul/shop/collections/pop-art" id="WC_CachedHeaderDisplay_links_1_5_6">Pop Art</a></span>
-													</div> 
-												
-							</div></div>	
-							 
-							  
-				
-				
+										
+										
+										
+										
+										
+										
+										
+										
+										
+									
+									<div dojotype="dijit.MenuItem" onclick="loadLink('http://www.satyapaul.com/satyapaul/shop/collections/dance-of-the-summer-sun');" id="WC_CachedHeaderDisplay_div_4_5_1" style="outline-style: none;">
+											<span>
+											 	<a href="http://www.satyapaul.com/satyapaul/shop/collections/dance-of-the-summer-sun" id="WC_CachedHeaderDisplay_links_1_5_1">
+											 		Dance Of The Summer Sun
+												</a>
+											</span>
+									</div>
+								
+									
+										
+										
+										
+										
+										
+										
+										
+										
+										
+									
+									<div dojotype="dijit.MenuItem" onclick="loadLink('http://www.satyapaul.com/satyapaul/shop/collections/take-a-walk-on-the-wild-side');" id="WC_CachedHeaderDisplay_div_4_5_2" style="outline-style: none;">
+											<span>
+											 	<a href="http://www.satyapaul.com/satyapaul/shop/collections/take-a-walk-on-the-wild-side" id="WC_CachedHeaderDisplay_links_1_5_2">
+											 		Take A Walk On The Wild Side
+												</a>
+											</span>
+									</div>
+								
+									
+										
+										
+										
+										
+										
+										
+										
+										
+										
+									
+									<div dojotype="dijit.MenuItem" onclick="loadLink('http://www.satyapaul.com/satyapaul/shop/collections/jewels-of-the-sea');" id="WC_CachedHeaderDisplay_div_4_5_3" style="outline-style: none;">
+											<span>
+											 	<a href="http://www.satyapaul.com/satyapaul/shop/collections/jewels-of-the-sea" id="WC_CachedHeaderDisplay_links_1_5_3">
+											 		Jewels Of The Sea
+												</a>
+											</span>
+									</div>
+								
+									
+										
+										
+										
+										
+										
+										
+										
+										
+										
+									
+									<div dojotype="dijit.MenuItem" onclick="loadLink('http://www.satyapaul.com/satyapaul/shop/collections/the-art-of-tarot');" id="WC_CachedHeaderDisplay_div_4_5_4" style="outline-style: none;">
+											<span>
+											 	<a href="http://www.satyapaul.com/satyapaul/shop/collections/the-art-of-tarot" id="WC_CachedHeaderDisplay_links_1_5_4">
+											 		The Art Of Tarot 
+												</a>
+											</span>
+									</div>
+								
+									
+										
+										
+										
+										
+										
+										
+										
+										
+										
+									
+									<div dojotype="dijit.MenuItem" onclick="loadLink('http://www.satyapaul.com/satyapaul/shop/collections/classics');" id="WC_CachedHeaderDisplay_div_4_5_5" style="outline-style: none;">
+											<span>
+											 	<a href="http://www.satyapaul.com/satyapaul/shop/collections/classics" id="WC_CachedHeaderDisplay_links_1_5_5">
+											 		Classics
+												</a>
+											</span>
+									</div>
+								
+									
+										
+										
+										
+										
+										
+										
+										
+										
+										
+									
+									<div dojotype="dijit.MenuItem" onclick="loadLink('http://www.satyapaul.com/satyapaul/shop/collections/pop-art');" id="WC_CachedHeaderDisplay_div_4_5_6" style="outline-style: none;">
+											<span>
+											 	<a href="http://www.satyapaul.com/satyapaul/shop/collections/pop-art" id="WC_CachedHeaderDisplay_links_1_5_6">
+											 		Pop Art
+												</a>
+											</span>
+									</div>
+								
+							</div>
+						</div>
 							
-							 
-								  
-							 	  
-								  
-								  
-							  	  
-								  
-								  
-								  
+					
+				
+					
+						
+							
+							
+							
+							
+							
+							
+							
+							
+						
+						
 						 
-												
+						
+						<div dojotype="wc.widget.WCDropDownButton" url="http://www.satyapaul.com/satyapaul/shop/fresh-arrivals" id="HeaderMenu_DropDown_6">
+							<span class="dijit dijitLeft dijitInline dijitDropDownButton dijitDropDownButtonFocused">
+								FRESH ARRIVALS
+								<span class="menu_shifting">&nbsp;</span>
+							</span> 
 							
-							
-							<div dojotype="wc.widget.WCDropDownButton" url="http://www.satyapaul.com/satyapaul/shop/fresh-arrivals" id="HeaderMenu_DropDown_6">
-							<span class="dijit dijitLeft dijitInline dijitDropDownButton dijitDropDownButtonFocused">FRESH ARRIVALS<span class="menu_shifting">&nbsp;</span></span>
+							<div dojotype="wc.widget.WCMenu" maxitemspercolumn="15" forcedisplayshowall="false" showallurl="http://www.satyapaul.com/satyapaul/shop/fresh-arrivals" showalltext="Show All 
+								FRESH ARRIVALS" class="dropdown" id="WC_CachedHeaderDisplay_div_3_6">
+								
 									
-							<div dojotype="wc.widget.WCMenu" maxitemspercolumn="15" forcedisplayshowall="false" showallurl="http://www.satyapaul.com/satyapaul/shop/fresh-arrivals" showalltext="Show All FRESH ARRIVALS" class="dropdown" id="WC_CachedHeaderDisplay_div_3_6">
-												
-													 
-														
-														
-														
-														
-														
-														
-														
-														
-														
-													
-													<div dojotype="dijit.MenuItem" onclick="loadLink('http://www.satyapaul.com/satyapaul/shop/fresh-arrivals/anarkali');" id="WC_CachedHeaderDisplay_div_4_6_1" style="outline-style: none;">
-														<span><a href="http://www.satyapaul.com/satyapaul/shop/fresh-arrivals/anarkali" id="WC_CachedHeaderDisplay_links_1_6_1">Anarkalis</a></span>
-													</div> 
-												
-													 
-														
-														
-														
-														
-														
-														
-														
-														
-														
-													
-													<div dojotype="dijit.MenuItem" onclick="loadLink('http://www.satyapaul.com/satyapaul/shop/fresh-arrivals/saree');" id="WC_CachedHeaderDisplay_div_4_6_2" style="outline-style: none;">
-														<span><a href="http://www.satyapaul.com/satyapaul/shop/fresh-arrivals/saree" id="WC_CachedHeaderDisplay_links_1_6_2">Sarees</a></span>
-													</div> 
-												
-													 
-														
-														
-														
-														
-														
-														
-														
-														
-														
-													
-													<div dojotype="dijit.MenuItem" onclick="loadLink('http://www.satyapaul.com/satyapaul/shop/fresh-arrivals/tops-n-tunic');" id="WC_CachedHeaderDisplay_div_4_6_3" style="outline-style: none;">
-														<span><a href="http://www.satyapaul.com/satyapaul/shop/fresh-arrivals/tops-n-tunic" id="WC_CachedHeaderDisplay_links_1_6_3">Tops &amp; Tunics</a></span>
-													</div> 
-												
-													 
-														
-														
-														
-														
-														
-														
-														
-														
-														
-													
-													<div dojotype="dijit.MenuItem" onclick="loadLink('http://www.satyapaul.com/satyapaul/shop/fresh-arrivals/signaturebags');" id="WC_CachedHeaderDisplay_div_4_6_4" style="outline-style: none;">
-														<span><a href="http://www.satyapaul.com/satyapaul/shop/fresh-arrivals/signaturebags" id="WC_CachedHeaderDisplay_links_1_6_4">Signature Bags</a></span>
-													</div> 
-												
-													 
-														
-														
-														
-														
-														
-														
-														
-														
-														
-													
-													<div dojotype="dijit.MenuItem" onclick="loadLink('http://www.satyapaul.com/satyapaul/shop/fresh-arrivals/latestclutches');" id="WC_CachedHeaderDisplay_div_4_6_5" style="outline-style: none;">
-														<span><a href="http://www.satyapaul.com/satyapaul/shop/fresh-arrivals/latestclutches" id="WC_CachedHeaderDisplay_links_1_6_5">Clutches</a></span>
-													</div> 
-												
-							</div></div>	
-							 
-							  
+										
+										
+										
+										
+										
+										
+										
+										
+										
+									
+									<div dojotype="dijit.MenuItem" onclick="loadLink('http://www.satyapaul.com/satyapaul/shop/fresh-arrivals/be-timeless');" id="WC_CachedHeaderDisplay_div_4_6_1" style="outline-style: none;">
+											<span>
+											 	<a href="http://www.satyapaul.com/satyapaul/shop/fresh-arrivals/be-timeless" id="WC_CachedHeaderDisplay_links_1_6_1">
+											 		Be Timeless
+												</a>
+											</span>
+									</div>
+								
+									
+										
+										
+										
+										
+										
+										
+										
+										
+										
+									
+									<div dojotype="dijit.MenuItem" onclick="loadLink('http://www.satyapaul.com/satyapaul/shop/fresh-arrivals/iifa-by-satyapaul');" id="WC_CachedHeaderDisplay_div_4_6_2" style="outline-style: none;">
+											<span>
+											 	<a href="http://www.satyapaul.com/satyapaul/shop/fresh-arrivals/iifa-by-satyapaul" id="WC_CachedHeaderDisplay_links_1_6_2">
+											 		IIFA by Satya Paul
+												</a>
+											</span>
+									</div>
+								
+									
+										
+										
+										
+										
+										
+										
+										
+										
+										
+									
+									<div dojotype="dijit.MenuItem" onclick="loadLink('http://www.satyapaul.com/satyapaul/shop/fresh-arrivals/panache-of-prints');" id="WC_CachedHeaderDisplay_div_4_6_3" style="outline-style: none;">
+											<span>
+											 	<a href="http://www.satyapaul.com/satyapaul/shop/fresh-arrivals/panache-of-prints" id="WC_CachedHeaderDisplay_links_1_6_3">
+											 		Panache of Prints
+												</a>
+											</span>
+									</div>
+								
+									
+										
+										
+										
+										
+										
+										
+										
+										
+										
+									
+									<div dojotype="dijit.MenuItem" onclick="loadLink('http://www.satyapaul.com/satyapaul/shop/fresh-arrivals/simply-luxe');" id="WC_CachedHeaderDisplay_div_4_6_4" style="outline-style: none;">
+											<span>
+											 	<a href="http://www.satyapaul.com/satyapaul/shop/fresh-arrivals/simply-luxe" id="WC_CachedHeaderDisplay_links_1_6_4">
+											 		Simply Luxe
+												</a>
+											</span>
+									</div>
+								
+									
+										
+										
+										
+										
+										
+										
+										
+										
+										
+									
+									<div dojotype="dijit.MenuItem" onclick="loadLink('http://www.satyapaul.com/satyapaul/shop/fresh-arrivals/top-picks');" id="WC_CachedHeaderDisplay_div_4_6_5" style="outline-style: none;">
+											<span>
+											 	<a href="http://www.satyapaul.com/satyapaul/shop/fresh-arrivals/top-picks" id="WC_CachedHeaderDisplay_links_1_6_5">
+											 		Top Picks
+												</a>
+											</span>
+									</div>
+								
+									
+										
+										
+										
+										
+										
+										
+										
+										
+										
+									
+									<div dojotype="dijit.MenuItem" onclick="loadLink('http://www.satyapaul.com/satyapaul/shop/fresh-arrivals/flowing-silhouettes');" id="WC_CachedHeaderDisplay_div_4_6_6" style="outline-style: none;">
+											<span>
+											 	<a href="http://www.satyapaul.com/satyapaul/shop/fresh-arrivals/flowing-silhouettes" id="WC_CachedHeaderDisplay_links_1_6_6">
+											 		Flowing Silhouettes
+												</a>
+											</span>
+									</div>
+								
+							</div>
+						</div>
+							
+					
 				
-				
-				
-				
+					
+						
+							
+							
+							
+							
+							
+							
+							
+							
+						
+						
+						 
+						
+						<div dojotype="wc.widget.WCDropDownButton" url="http://www.satyapaul.com/satyapaul/shop/sale" id="HeaderMenu_DropDown_7">
+							<span class="dijit dijitLeft dijitInline dijitDropDownButton dijitDropDownButtonFocused">
+								SALE
+								<span class="menu_shifting">&nbsp;</span>
+							</span> 
+							
+							<div dojotype="wc.widget.WCMenu" maxitemspercolumn="15" forcedisplayshowall="false" showallurl="http://www.satyapaul.com/satyapaul/shop/sale" showalltext="Show All 
+								SALE" class="dropdown" id="WC_CachedHeaderDisplay_div_3_7">
+								
+									
+										
+										
+										
+										
+										
+										
+										
+										
+										
+									
+									<div dojotype="dijit.MenuItem" onclick="loadLink('http://www.satyapaul.com/satyapaul/shop/sale/s-sarees');" id="WC_CachedHeaderDisplay_div_4_7_1" style="outline-style: none;">
+											<span>
+											 	<a href="http://www.satyapaul.com/satyapaul/shop/sale/s-sarees" id="WC_CachedHeaderDisplay_links_1_7_1">
+											 		Sarees
+												</a>
+											</span>
+									</div>
+								
+									
+										
+										
+										
+										
+										
+										
+										
+										
+										
+									
+									<div dojotype="dijit.MenuItem" onclick="loadLink('http://www.satyapaul.com/satyapaul/shop/sale/-handbags');" id="WC_CachedHeaderDisplay_div_4_7_2" style="outline-style: none;">
+											<span>
+											 	<a href="http://www.satyapaul.com/satyapaul/shop/sale/-handbags" id="WC_CachedHeaderDisplay_links_1_7_2">
+											 		Hand Bags
+												</a>
+											</span>
+									</div>
+								
+							</div>
+						</div>
+							
+					
+				  
+				 
+				 
 				
 			</div>
 		</div>
-				
+		
 
 	  
 
@@ -1362,43 +1776,43 @@ SELECT YOUR CURRENCY -->
 
 
 		
-<div class="mainDiv">
+		<div class="mainDiv">
 			
-
-		  <form name="CatalogSearchForm" action="AjaxCatalogSearchView" method="get" id="CatalogSearchForm">
-			  	<input type="hidden" name="storeId" value="10001" id="WC_CachedHeaderDisplay_FormInput_storeId_In_CatalogSearchForm_1">
-				<input type="hidden" name="catalogId" value="10051" id="WC_CachedHeaderDisplay_FormInput_catalogId_In_CatalogSearchForm_1">
-				<input type="hidden" name="langId" value="-1" id="WC_CachedHeaderDisplay_FormInput_langId_In_CatalogSearchForm_1">
-				<input type="hidden" name="pageSize" value="12" id="WC_CachedHeaderDisplay_FormInput_pageSize_In_CatalogSearchForm_1">
-				<input type="hidden" name="beginIndex" value="0" id="WC_CachedHeaderDisplay_FormInput_beginIndex_In_CatalogSearchForm_1">
-				<input type="hidden" name="sType" value="SimpleSearch" id="WC_CachedHeaderDisplay_FormInput_sType_In_CatalogSearchForm_1">
-				<input type="hidden" name="resultCatEntryType" value="2" id="WC_CachedHeaderDisplay_FormInput_resultType_In_CatalogSearchForm_1">
-				<input type="hidden" name="showResultsPage" value="true" id="WC_CachedHeaderDisplay_input_1">
-				<input type="hidden" name="pageView" value="image" id="WC_CachedHeaderDisplay_input_2">
-				<label for="SimpleSearchForm_SearchTerm" class="nodisplay">Search</label>
-				
+				<form name="CatalogSearchForm" action="AjaxCatalogSearchView" method="get" id="CatalogSearchForm"><input type="hidden" name="storeId" value="10001" id="WC_CachedHeaderDisplay_FormInput_storeId_In_CatalogSearchForm_1">
+					<input type="hidden" name="catalogId" value="10051" id="WC_CachedHeaderDisplay_FormInput_catalogId_In_CatalogSearchForm_1">
+					<input type="hidden" name="langId" value="-1" id="WC_CachedHeaderDisplay_FormInput_langId_In_CatalogSearchForm_1">
+					<input type="hidden" name="pageSize" value="12" id="WC_CachedHeaderDisplay_FormInput_pageSize_In_CatalogSearchForm_1">
+					<input type="hidden" name="beginIndex" value="0" id="WC_CachedHeaderDisplay_FormInput_beginIndex_In_CatalogSearchForm_1">
+					<input type="hidden" name="sType" value="SimpleSearch" id="WC_CachedHeaderDisplay_FormInput_sType_In_CatalogSearchForm_1">
+					<input type="hidden" name="resultCatEntryType" value="2" id="WC_CachedHeaderDisplay_FormInput_resultType_In_CatalogSearchForm_1">
+					<input type="hidden" name="showResultsPage" value="true" id="WC_CachedHeaderDisplay_input_1"> 
+					<input type="hidden" name="pageView" value="image" id="WC_CachedHeaderDisplay_input_2"> 
+					<label for="SimpleSearchForm_SearchTerm" class="nodisplay">
+						Search
+					</label> 
 					
 						
+							
+						
+						
 					
-					
-				
-				<div id="header-search">
-							<span id="searchTextHolder" class="nodisplay">Search</span>
-												<input type="text" size="18" class="search-txt" name="searchTerm" id="SimpleSearchForm_SearchTerm" value="Search" onfocus="JavaScript:clearSearchField();" onblur="JavaScript:fillSearchField();" onkeypress="if(event.keyCode==13) javascript:this.value=trim(this.value);">
-			<button name="searchBtn" style="display:none" id="WC_CachedHeaderDisplay_button_1" type="button" value="Search" class="search-btn" onclick="JavaScript:document.CatalogSearchForm.searchTerm.value=trim(document.CatalogSearchForm.searchTerm.value);document.CatalogSearchForm.action=getAbsoluteURL()+'AjaxCatalogSearchView'; submitSpecifiedForm(document.CatalogSearchForm);"></button>
-			</div>
-</form>
-
-<!--  Mini shopping Cart placeholder -->	
+					<div id="header-search">
+						<span id="searchTextHolder" class="nodisplay">
+							Search
+						</span> 
+						<input type="text" size="18" class="search-txt" name="searchTerm" id="SimpleSearchForm_SearchTerm" value="Search" onfocus="JavaScript:clearSearchField();" onblur="JavaScript:fillSearchField();" onkeypress="if(event.keyCode==13) javascript:this.value=trim(this.value);">
+						<button name="searchBtn" style="display: none" id="WC_CachedHeaderDisplay_button_1" type="button" value="Search" class="search-btn" onclick="JavaScript:document.CatalogSearchForm.searchTerm.value=trim(document.CatalogSearchForm.searchTerm.value);document.CatalogSearchForm.action=getAbsoluteURL()+'AjaxCatalogSearchView'; submitSpecifiedForm(document.CatalogSearchForm);">
+						</button>
+					</div>
+				</form>
+			 <!--  Mini shopping Cart placeholder --> 
 			
-			<div id="outerCartContainer" style="display: block;">
+				<div id="outerCartContainer" style="display: block;">
 					<div dojotype="dojo.dnd.Target" jsid="miniShopCart_dndTarget" id="miniShopCart_dndTarget" accept="item, product, package, bundle" class="dojoDndContainer dojoDndTarget">
 						<div id="shopping-cart">
 							<div id="shopcartContainer">
-									<div dojotype="wc.widget.RefreshArea" id="MiniShoppingCart" widgetid="MiniShoppingCart" controllerid="MiniShoppingCartController" role="wairole:region" waistate:live="polite" waistate:atomic="true" waistate:relevant="all" style="width: 160px;" title="" class="dijitContentPane">
-							<!-- removed the following from the above line to disable drop down from shopping cart 
-							onmouseover="showMiniShopCartDropDown('placeHolder','quick_cart_container','orderItemsList');" -->
-													
+								<div dojotype="wc.widget.RefreshArea" id="MiniShoppingCart" widgetid="MiniShoppingCart" controllerid="MiniShoppingCartController" role="wairole:region" waistate:live="polite" waistate:atomic="true" waistate:relevant="all" style="width: 160px;" title="" class="dijitContentPane">
+									
 
 <!-- Start - JSP File Name: MiniShopCartDisplay.jsp -->
 
@@ -1463,14 +1877,21 @@ SELECT YOUR CURRENCY -->
 </div>
 
 								</div>
-							 </div>
-						</div> 
+							</div>
+						</div>
 					</div>
-				 </div>
-						
+				</div>
+				<script type="text/javascript">
+					dojo.addOnLoad(function() {
+						parseWidget("outerCartContainer");
+						showDropDownMenu();
+					});
+				 </script>
+				 
+			
+		</div>
 	</div>
-</div>
-
+	
 			
 			
 			
@@ -1983,6 +2404,13 @@ width:580px;
 
 
 
+
+
+
+
+
+
+
   
 
 
@@ -1994,10 +2422,10 @@ width:580px;
 								
 
 
-  
-  
-  
-  
+	 
+	 
+	 
+	 
 
 
 	
@@ -2021,7 +2449,6 @@ width:580px;
 
 
 
-
 	
 	
 	
@@ -2032,15 +2459,15 @@ width:580px;
 	
 
 
-		
-		
-		
-		           
+	
+	
+	
+	           
 
 
-			  
-			  
-			  
+	  
+	  
+	  
 
 
 	
@@ -2097,682 +2524,734 @@ width:580px;
 	
 
 <script type="text/javascript" src="/wcsstore/SatyaPaul/javascript/jquery/disableRightClick.js"></script>
- <div id="footer" class="footer-box">
- 	 <div id="custom_footer" class="curvy">
-
+<div id="footer" class="footer-box">
+	<div id="custom_footer" class="curvy">
 		
 		
 		
-				
-					
-					
-					
-					
-					
-						
-							
-						
-					
-					
-						
-					
-					
-					
-					
-				 
-				<h2><a href="http://www.satyapaul.com/satyapaul/CategoryDisplay?urlRequestType=Base&amp;catalogId=10051&amp;categoryId=&amp;pageView=image&amp;beginIndex=0&amp;identifier=&amp;langId=-1&amp;top_category=21967&amp;top=Y&amp;storeId=10001"></a></h2>
-				
-				
-				
 		
 		
-		
+			
 				
 				
 				
 			
-					
 			
 			
 			
 				
+				
+					
 					
 						
-							
-							
-							
-							
-							
-							
-							
-							
-						 
-			<div style="float:left; margin-left:12px;margin-top:3px;max-width:200px;"><h2 style="font-weight:bold;"><a href="http://www.satyapaul.com/satyapaul/shop/sarees" id="WC_CategoriesSidebarDisplayf_links_3_1">SAREES</a></h2>
 						
+						
+						
+						
+						
+						
+						
+					 
+					<div style="float:left; margin-left:12px;margin-top:3px;max-width:200px;"><h2 style="font-weight:bold;"><a href="http://www.satyapaul.com/satyapaul/shop/sarees" id="WC_CategoriesSidebarDisplayf_links_3_1">SAREES</a></h2>
+						
+							
 								
 									
-										
-										
-										
-										
-										
-										
-										
-										
-										
-										 
+									
+									
+									
+									
+									
+									
+									
+									
+								 
 								<p><a href="http://www.satyapaul.com/satyapaul/shop/sarees/printed-n-embellished-sarees" id="WC_CategoriesSidebarDisplayf_links_4_1_1">Printed &amp; Embellished Sarees</a></p>
 							
 							
-								
-								
+							
+							
+						
 							
 								
 									
-										
-										
-										
-										
-										
-										
-										
-										
-										
-										 
+									
+									
+									
+									
+									
+									
+									
+									
+								 
 								<p><a href="http://www.satyapaul.com/satyapaul/shop/sarees/embroideredsarees" id="WC_CategoriesSidebarDisplayf_links_4_1_2">Embroidered Sarees</a></p>
 							
 							
-								
-								
+							
+							
+						
 							
 								
 									
-										
-										
-										
-										
-										
-										
-										
-										
-										
-										 
+									
+									
+									
+									
+									
+									
+									
+									
+								 
 								<p><a href="http://www.satyapaul.com/satyapaul/shop/sarees/best-sellers" id="WC_CategoriesSidebarDisplayf_links_4_1_3">Best Sellers</a></p>
 							
 							
-								
-								
 							
-				</div>
 							
+						
+					</div>
+					
 				
 				
 			
-			
+				
 				
 					
+					
+						
+						
+						
+						
+						
+						
+						
+						
+					 
+					<div style="float:left; margin-left:12px;margin-top:3px;max-width:200px;"><h2 style="font-weight:bold;"><a href="http://www.satyapaul.com/satyapaul/shop/bridal-wear" id="WC_CategoriesSidebarDisplayf_links_3_2">BRIDAL WEAR</a></h2>
 						
 							
-							
-							
-							
-							
-							
-							
-							
-						 
-			<div style="float:left; margin-left:12px;margin-top:3px;max-width:200px;"><h2 style="font-weight:bold;"><a href="http://www.satyapaul.com/satyapaul/shop/bridal-wear" id="WC_CategoriesSidebarDisplayf_links_3_2">BRIDAL WEAR</a></h2>
-						
 								
 									
-										
-										
-										
-										
-										
-										
-										
-										
-										
-										 
+									
+									
+									
+									
+									
+									
+									
+									
+								 
 								<p><a href="http://www.satyapaul.com/satyapaul/shop/bridal-wear/bridal-sarees" id="WC_CategoriesSidebarDisplayf_links_4_2_1">Bridal Sarees</a></p>
 							
 							
-								
-								
+							
+							
+						
 							
 								
 									
-										
-										
-										
-										
-										
-										
-										
-										
-										
-										 
+									
+									
+									
+									
+									
+									
+									
+									
+								 
 								<p><a href="http://www.satyapaul.com/satyapaul/shop/bridal-wear/bridal-lehengas" id="WC_CategoriesSidebarDisplayf_links_4_2_2">Bridal Lehengas</a></p>
 							
 							
-								
-								
+							
+							
+						
 							
 								
 									
-										
-										
-										
-										
-										
-										
-										
-										
-										
-										 
+									
+									
+									
+									
+									
+									
+									
+									
+								 
 								<p><a href="http://www.satyapaul.com/satyapaul/shop/bridal-wear/bridal-garments" id="WC_CategoriesSidebarDisplayf_links_4_2_3">Bridal Garments</a></p>
 							
 							
-								
-								
 							
-				</div>
 							
+						
+					</div>
+					
 				
 				
 			
-			
+				
 				
 					
+					
+						
+						
+						
+						
+						
+						
+						
+						
+					 
+					<div style="float:left; margin-left:12px;margin-top:3px;max-width:200px;"><h2 style="font-weight:bold;"><a href="http://www.satyapaul.com/satyapaul/shop/ready-to-wear" id="WC_CategoriesSidebarDisplayf_links_3_3">READY TO WEAR</a></h2>
 						
 							
-							
-							
-							
-							
-							
-							
-							
-						 
-			<div style="float:left; margin-left:12px;margin-top:3px;max-width:200px;"><h2 style="font-weight:bold;"><a href="http://www.satyapaul.com/satyapaul/shop/ready-to-wear" id="WC_CategoriesSidebarDisplayf_links_3_3">READY TO WEAR</a></h2>
-						
 								
 									
-										
-										
-										
-										
-										
-										
-										
-										
-										
-										 
+									
+									
+									
+									
+									
+									
+									
+									
+								 
 								<p><a href="http://www.satyapaul.com/satyapaul/shop/ready-to-wear/anarkalis" id="WC_CategoriesSidebarDisplayf_links_4_3_1">Anarkalis</a></p>
 							
 							
-								
-								
+							
+							
+						
 							
 								
 									
-										
-										
-										
-										
-										
-										
-										
-										
-										
-										 
-								<p><a href="http://www.satyapaul.com/satyapaul/shop/ready-to-wear/wwf-merchandise" id="WC_CategoriesSidebarDisplayf_links_4_3_2">WWF Merchandise</a></p>
+									
+									
+									
+									
+									
+									
+									
+									
+								 
+								<p><a href="http://www.satyapaul.com/satyapaul/shop/ready-to-wear/tops-n-tunics" id="WC_CategoriesSidebarDisplayf_links_4_3_2">Tops &amp; Tunics</a></p>
 							
 							
-								
-								
+							
+							
+						
 							
 								
 									
-										
-										
-										
-										
-										
-										
-										
-										
-										
-										 
-								<p><a href="http://www.satyapaul.com/satyapaul/shop/ready-to-wear/tops-n-tunics" id="WC_CategoriesSidebarDisplayf_links_4_3_3">Tops &amp; Tunics</a></p>
-							
-							
-								
-								
-							
-								
 									
-										
-										
-										
-										
-										
-										
-										
-										
-										
-										 
-								<p><a href="http://www.satyapaul.com/satyapaul/shop/ready-to-wear/readymade-blouses" id="WC_CategoriesSidebarDisplayf_links_4_3_4">Readymade Blouses</a></p>
+									
+									
+									
+									
+									
+									
+									
+								 
+								<p><a href="http://www.satyapaul.com/satyapaul/shop/ready-to-wear/readymade-blouses" id="WC_CategoriesSidebarDisplayf_links_4_3_3">Readymade Blouses</a></p>
 							
 							
-								
-								
 							
-				</div>
 							
+						
+					</div>
+					
 				
 				
 			
-			
+				
 				
 					
-						
-							
-							
-							
-							
-							
-							
-							
-							
-						 
-			<div style="float:left; margin-left:12px;margin-top:3px;max-width:200px;"><h2 style="font-weight:bold;"><a href="http://www.satyapaul.com/satyapaul/shop/accessories" id="WC_CategoriesSidebarDisplayf_links_3_4">ACCESSORIES</a></h2>
-						
-								
-									
-										
-										
-										
-										
-										
-										
-										
-										
-										
-										 
-								<p><a href="http://www.satyapaul.com/satyapaul/shop/accessories/signature-bags" id="WC_CategoriesSidebarDisplayf_links_4_4_1">Signature Bags</a></p>
-							
-							
-								
-								
-							
-								
-									
-										
-										
-										
-										
-										
-										
-										
-										
-										
-										 
-								<p><a href="http://www.satyapaul.com/satyapaul/shop/accessories/handbags" id="WC_CategoriesSidebarDisplayf_links_4_4_2">Handbags</a></p>
-							
-							
-								
-								
-							
-								
-									
-										
-										
-										
-										
-										
-										
-										
-										
-										
-										 
-								<p><a href="http://www.satyapaul.com/satyapaul/shop/accessories/ties" id="WC_CategoriesSidebarDisplayf_links_4_4_3">Ties</a></p>
-							
-							
-								
-								
-							
-								
-									
-										
-										
-										
-										
-										
-										
-										
-										
-										
-										 
-								<p><a href="http://www.satyapaul.com/satyapaul/shop/accessories/cufflinks" id="WC_CategoriesSidebarDisplayf_links_4_4_4">Cufflinks</a></p>
-							
-							
-								
-								
-							
-								
-									
-										
-										
-										
-										
-										
-										
-										
-										
-										
-										 
-								<p><a href="http://www.satyapaul.com/satyapaul/shop/accessories/box-combos" id="WC_CategoriesSidebarDisplayf_links_4_4_5">Box Combos</a></p>
-							
-							
-								
-								
-							
-								
-									
-										
-										
-										
-										
-										
-										
-										
-										
-										
-										 
-								<p><a href="http://www.satyapaul.com/satyapaul/shop/accessories/gift-combo" id="WC_CategoriesSidebarDisplayf_links_4_4_6">Gift Combo</a></p>
-							
-							
-								
-								
-							
-								
-									
-										
-										
-										
-										
-										
-										
-										
-										
-										
-										 
-								<p><a href="http://www.satyapaul.com/satyapaul/shop/accessories/clutches" id="WC_CategoriesSidebarDisplayf_links_4_4_7">Clutches</a></p>
-							
-							
-								
-								
-							
-								
-									
-										
-										
-										
-										
-										
-										
-										
-										
-										
-										 
-								<p><a href="http://www.satyapaul.com/satyapaul/shop/accessories/scarves" id="WC_CategoriesSidebarDisplayf_links_4_4_8">Scarves</a></p>
-							
-							
-								
-								
-							
-				</div>
-							
-				
-				
-			
-			
-				
 					
 						
-							
-							
-							
-							
-							
-							
-							
-							
-						 
-			<div style="float:left; margin-left:12px;margin-top:3px;max-width:200px;"><h2 style="font-weight:bold;"><a href="http://www.satyapaul.com/satyapaul/shop/collections" id="WC_CategoriesSidebarDisplayf_links_3_5">COLLECTIONS</a></h2>
 						
+						
+						
+						
+						
+						
+						
+					 
+					<div style="float:left; margin-left:12px;margin-top:3px;max-width:200px;"><h2 style="font-weight:bold;"><a href="http://www.satyapaul.com/satyapaul/shop/accessories" id="WC_CategoriesSidebarDisplayf_links_3_4">ACCESSORIES</a></h2>
+						
+							
 								
 									
-										
-										
-										
-										
-										
-										
-										
-										
-										
-										 
+									
+									
+									
+									
+									
+									
+									
+									
+								 
+								<p><a href="http://www.satyapaul.com/satyapaul/shop/accessories/handbags" id="WC_CategoriesSidebarDisplayf_links_4_4_1">Handbags</a></p>
+							
+							
+							
+							
+						
+							
+								
+									
+									
+									
+									
+									
+									
+									
+									
+									
+								 
+								<p><a href="http://www.satyapaul.com/satyapaul/shop/accessories/mens-wallets" id="WC_CategoriesSidebarDisplayf_links_4_4_2">Mens Wallet</a></p>
+							
+							
+							
+							
+						
+							
+								
+									
+									
+									
+									
+									
+									
+									
+									
+									
+								 
+								<p><a href="http://www.satyapaul.com/satyapaul/shop/accessories/ladies-wallet" id="WC_CategoriesSidebarDisplayf_links_4_4_3">Ladies Wallet</a></p>
+							
+							
+							
+							
+						
+							
+								
+									
+									
+									
+									
+									
+									
+									
+									
+									
+								 
+								<p><a href="http://www.satyapaul.com/satyapaul/shop/accessories/ties" id="WC_CategoriesSidebarDisplayf_links_4_4_4">Ties</a></p>
+							
+							
+							
+							
+						
+							
+								
+									
+									
+									
+									
+									
+									
+									
+									
+									
+								 
+								<p><a href="http://www.satyapaul.com/satyapaul/shop/accessories/cufflinks" id="WC_CategoriesSidebarDisplayf_links_4_4_5">Cufflinks</a></p>
+							
+							
+							
+							
+						
+							
+								
+									
+									
+									
+									
+									
+									
+									
+									
+									
+								 
+								<p><a href="http://www.satyapaul.com/satyapaul/shop/accessories/box-combos" id="WC_CategoriesSidebarDisplayf_links_4_4_6">Box Combos</a></p>
+							
+							
+							
+							
+						
+							
+								
+									
+									
+									
+									
+									
+									
+									
+									
+									
+								 
+								<p><a href="http://www.satyapaul.com/satyapaul/shop/accessories/gift-combo" id="WC_CategoriesSidebarDisplayf_links_4_4_7">Gift Combo</a></p>
+							
+							
+							
+							
+						
+							
+								
+									
+									
+									
+									
+									
+									
+									
+									
+									
+								 
+								<p><a href="http://www.satyapaul.com/satyapaul/shop/accessories/clutches" id="WC_CategoriesSidebarDisplayf_links_4_4_8">Clutches</a></p>
+							
+							
+							
+							
+						
+							
+								
+									
+									
+									
+									
+									
+									
+									
+									
+									
+								 
+								<p><a href="http://www.satyapaul.com/satyapaul/shop/accessories/scarves" id="WC_CategoriesSidebarDisplayf_links_4_4_9">Scarves</a></p>
+							
+							
+							
+							
+						
+					</div>
+					
+				
+				
+			
+				
+				
+					
+					
+						
+						
+						
+						
+						
+						
+						
+						
+					 
+					<div style="float:left; margin-left:12px;margin-top:3px;max-width:200px;"><h2 style="font-weight:bold;"><a href="http://www.satyapaul.com/satyapaul/shop/collections" id="WC_CategoriesSidebarDisplayf_links_3_5">COLLECTIONS</a></h2>
+						
+							
+								
+									
+									
+									
+									
+									
+									
+									
+									
+									
+								 
 								<p><a href="http://www.satyapaul.com/satyapaul/shop/collections/dance-of-the-summer-sun" id="WC_CategoriesSidebarDisplayf_links_4_5_1">Dance Of The Summer Sun</a></p>
 							
 							
-								
-								
+							
+							
+						
 							
 								
 									
-										
-										
-										
-										
-										
-										
-										
-										
-										
-										 
+									
+									
+									
+									
+									
+									
+									
+									
+								 
 								<p><a href="http://www.satyapaul.com/satyapaul/shop/collections/take-a-walk-on-the-wild-side" id="WC_CategoriesSidebarDisplayf_links_4_5_2">Take A Walk On The Wild Side</a></p>
 							
 							
-								
-								
+							
+							
+						
 							
 								
 									
-										
-										
-										
-										
-										
-										
-										
-										
-										
-										 
+									
+									
+									
+									
+									
+									
+									
+									
+								 
 								<p><a href="http://www.satyapaul.com/satyapaul/shop/collections/jewels-of-the-sea" id="WC_CategoriesSidebarDisplayf_links_4_5_3">Jewels Of The Sea</a></p>
 							
 							
-								
-								
+							
+							
+						
 							
 								
 									
-										
-										
-										
-										
-										
-										
-										
-										
-										
-										 
+									
+									
+									
+									
+									
+									
+									
+									
+								 
 								<p><a href="http://www.satyapaul.com/satyapaul/shop/collections/the-art-of-tarot" id="WC_CategoriesSidebarDisplayf_links_4_5_4">The Art Of Tarot </a></p>
 							
 							
-								
-								
+							
+							
+						
 							
 								
 									
-										
-										
-										
-										
-										
-										
-										
-										
-										
-										 
+									
+									
+									
+									
+									
+									
+									
+									
+								 
 								<p><a href="http://www.satyapaul.com/satyapaul/shop/collections/classics" id="WC_CategoriesSidebarDisplayf_links_4_5_5">Classics</a></p>
 							
 							
-								
-								
+							
+							
+						
 							
 								
 									
-										
-										
-										
-										
-										
-										
-										
-										
-										
-										 
+									
+									
+									
+									
+									
+									
+									
+									
+								 
 								<p><a href="http://www.satyapaul.com/satyapaul/shop/collections/pop-art" id="WC_CategoriesSidebarDisplayf_links_4_5_6">Pop Art</a></p>
 							
 							
-								
-								
 							
-				</div>
 							
+						
+					</div>
+					
 				
 				
 			
-			
+				
 				
 					
+					
+						
+						
+						
+						
+						
+						
+						
+						
+					 
+					<div style="float:left; margin-left:12px;margin-top:3px;max-width:200px;"><h2 style="font-weight:bold;"><a href="http://www.satyapaul.com/satyapaul/shop/fresh-arrivals" id="WC_CategoriesSidebarDisplayf_links_3_6">FRESH ARRIVALS</a></h2>
 						
 							
+								
+									
+									
+									
+									
+									
+									
+									
+									
+									
+								 
+								<p><a href="http://www.satyapaul.com/satyapaul/shop/fresh-arrivals/be-timeless" id="WC_CategoriesSidebarDisplayf_links_4_6_1">Be Timeless</a></p>
 							
 							
 							
 							
-							
-							
-							
-						 
-			<div style="float:left; margin-left:12px;margin-top:3px;max-width:200px;"><h2 style="font-weight:bold;"><a href="http://www.satyapaul.com/satyapaul/shop/fresh-arrivals" id="WC_CategoriesSidebarDisplayf_links_3_6">FRESH ARRIVALS</a></h2>
 						
-								
-									
-										
-										
-										
-										
-										
-										
-										
-										
-										
-										 
-								<p><a href="http://www.satyapaul.com/satyapaul/shop/fresh-arrivals/anarkali" id="WC_CategoriesSidebarDisplayf_links_4_6_1">Anarkalis</a></p>
-							
-							
-								
-								
 							
 								
 									
-										
-										
-										
-										
-										
-										
-										
-										
-										
-										 
-								<p><a href="http://www.satyapaul.com/satyapaul/shop/fresh-arrivals/saree" id="WC_CategoriesSidebarDisplayf_links_4_6_2">Sarees</a></p>
+									
+									
+									
+									
+									
+									
+									
+									
+								 
+								<p><a href="http://www.satyapaul.com/satyapaul/shop/fresh-arrivals/iifa-by-satyapaul" id="WC_CategoriesSidebarDisplayf_links_4_6_2">IIFA by Satya Paul</a></p>
 							
 							
-								
-								
+							
+							
+						
 							
 								
 									
-										
-										
-										
-										
-										
-										
-										
-										
-										
-										 
-								<p><a href="http://www.satyapaul.com/satyapaul/shop/fresh-arrivals/tops-n-tunic" id="WC_CategoriesSidebarDisplayf_links_4_6_3">Tops &amp; Tunics</a></p>
+									
+									
+									
+									
+									
+									
+									
+									
+								 
+								<p><a href="http://www.satyapaul.com/satyapaul/shop/fresh-arrivals/panache-of-prints" id="WC_CategoriesSidebarDisplayf_links_4_6_3">Panache of Prints</a></p>
 							
 							
-								
-								
+							
+							
+						
 							
 								
 									
-										
-										
-										
-										
-										
-										
-										
-										
-										
-										 
-								<p><a href="http://www.satyapaul.com/satyapaul/shop/fresh-arrivals/signaturebags" id="WC_CategoriesSidebarDisplayf_links_4_6_4">Signature Bags</a></p>
+									
+									
+									
+									
+									
+									
+									
+									
+								 
+								<p><a href="http://www.satyapaul.com/satyapaul/shop/fresh-arrivals/simply-luxe" id="WC_CategoriesSidebarDisplayf_links_4_6_4">Simply Luxe</a></p>
 							
 							
-								
-								
+							
+							
+						
 							
 								
 									
-										
-										
-										
-										
-										
-										
-										
-										
-										
-										 
-								<p><a href="http://www.satyapaul.com/satyapaul/shop/fresh-arrivals/latestclutches" id="WC_CategoriesSidebarDisplayf_links_4_6_5">Clutches</a></p>
+									
+									
+									
+									
+									
+									
+									
+									
+								 
+								<p><a href="http://www.satyapaul.com/satyapaul/shop/fresh-arrivals/top-picks" id="WC_CategoriesSidebarDisplayf_links_4_6_5">Top Picks</a></p>
 							
+							
+							
+							
+						
 							
 								
+									
+									
+									
+									
+									
+									
+									
+									
+									
+								 
+								<p><a href="http://www.satyapaul.com/satyapaul/shop/fresh-arrivals/flowing-silhouettes" id="WC_CategoriesSidebarDisplayf_links_4_6_6">Flowing Silhouettes</a></p>
+							
+							
+							
+							
+						
+					</div>
+					
+				
+				
+			
+				
+				
+					
+					
+						
+						
+						
+						
+						
+						
+						
+						
+					 
+					<div style="float:left; margin-left:12px;margin-top:3px;max-width:200px;"><h2 style="font-weight:bold;"><a href="http://www.satyapaul.com/satyapaul/shop/sale" id="WC_CategoriesSidebarDisplayf_links_3_7">SALE</a></h2>
+						
+							
 								
+									
+									
+									
+									
+									
+									
+									
+									
+									
+								 
+								<p><a href="http://www.satyapaul.com/satyapaul/shop/sale/s-sarees" id="WC_CategoriesSidebarDisplayf_links_4_7_1">Sarees</a></p>
 							
-				</div>
 							
+							
+							
+						
+							
+								
+									
+									
+									
+									
+									
+									
+									
+									
+									
+								 
+								<p><a href="http://www.satyapaul.com/satyapaul/shop/sale/-handbags" id="WC_CategoriesSidebarDisplayf_links_4_7_2">Hand Bags</a></p>
+							
+							
+							
+							
+						
+					</div>
+					
 				
 				
 			
@@ -2781,38 +3260,37 @@ width:580px;
 		<!-- My code ends -->
  	</div>
  	<div style="text-align:center;padding-top:12px;padding-bottom:12px;">
- 	<span>
- 	<a href="#" onclick="javascript:window.open('https://www.paypal.com/sg/cgi-bin/webscr?cmd=xpt/Marketing/popup/OLCWhatIsPayPal-outside','olcwhatispaypal','toolbar=no, location=no, directories=no, status=no, menubar=no, scrollbars=yes, resizable=yes, width=400, height=350');"><img src="https://www.paypal.com/en_GB/i/bnr/bnr_shopNowUsing_150x40.gif" border="0" alt="Additional Options"></a>
- 	</span>
- 	<span>
- 	<img style="padding-left:15px;" src="/wcsstore/SatyaPaul//images/ccavenue.gif">
- 	</span>
- 	<span>
- 	<img style="padding-left:15px;" src="/wcsstore/SatyaPaul//images/verisign2.gif">
- 	</span>
+	 	<span>
+	 		<a href="#" onclick="javascript:window.open('https://www.paypal.com/sg/cgi-bin/webscr?cmd=xpt/Marketing/popup/OLCWhatIsPayPal-outside','olcwhatispaypal','toolbar=no, location=no, directories=no, status=no, menubar=no, scrollbars=yes, resizable=yes, width=400, height=350');"><img src="https://www.paypal.com/en_GB/i/bnr/bnr_shopNowUsing_150x40.gif" border="0" alt="Additional Options"></a>
+	 	</span>
+ 		<span>
+	 		<img style="padding-left:15px;" src="/wcsstore/SatyaPaul//images/ccavenue.gif">
+	 	</span>
+	 	<span>
+	 		<img style="padding-left:15px;" src="/wcsstore/SatyaPaul//images/verisign2.gif">
+	 	</span>
  	</div>
-  <div id="WC_CachedFooterDisplay_div_1" style="width:963px;text-align:center;margin-left:-21px;">
-<a href="http://www.satyapaul.com/satyapaul/shop/newsletter" id="WC_CachedFooterDisplay_link_newsLetter">Subscribe to Newsletter</a> | 
-			<a href="http://www.satyapaul.com/satyapaul/shop/store-locator" id="WC_CachedFooterDisplay_links_9">Store Locator</a> | 
-			<a href="http://www.satyapaul.com/satyapaul/shop/franchise">Franchise Enquiry</a> | 
-			<a href="http://www.satyapaul.com/satyapaul/shop/corporate-gifting">Corporate Gifting</a> |
-			<a href="http://www.satyapaul.com/satyapaul/shop/careers" id="careers">Careers</a> |
+ 	<div id="WC_CachedFooterDisplay_div_1" style="width:963px;text-align:center;margin-left:-21px;">
+		<a href="http://www.satyapaul.com/satyapaul/shop/newsletter" id="WC_CachedFooterDisplay_link_newsLetter">Subscribe to Newsletter</a> | 
+		<a href="http://www.satyapaul.com/satyapaul/shop/store-locator" id="WC_CachedFooterDisplay_links_9">Store Locator</a> | 
+		<a href="http://www.satyapaul.com/satyapaul/shop/franchise">Franchise Enquiry</a> | 
+		<a href="http://www.satyapaul.com/satyapaul/shop/corporate-gifting">Corporate Gifting</a> |
+		<a href="http://www.satyapaul.com/satyapaul/shop/careers" id="careers">Careers</a> |
 		<a href="http://www.satyapaul.com/satyapaul/shop/terms-and-conditions">Terms &amp; Conditions</a> |
-		   <a href="http://www.satyapaul.com/satyapaul/shop/privacy-policy" id="WC_CachedFooterDisplay_link_5">Privacy Policy</a> | 
-		   <a href="http://www.satyapaul.com/satyapaul/shop/frequently-asked-questions" id="WC_CachedFooterDisplay_link_6">FAQ</a> |
-		   <a href="http://www.satyapaul.com/satyapaul/shop/feedback">Feedback</a> |  
-		   <a href="http://www.satyapaul.com/satyapaul/shop/sitemap" id="WC_CachedFooterDisplay_link_7">Sitemap</a> |
-		   <a href="http://www.satyapaul.com/satyapaul/shop/contact" id="WC_CachedFooterDisplay_link_6">Contact</a>
-		   <a href="#" tabindex="-1" id="WC_CachedFooterDisplay_links_8"></a>
+		<a href="http://www.satyapaul.com/satyapaul/shop/privacy-policy" id="WC_CachedFooterDisplay_link_5">Privacy Policy</a> | 
+	   	<a href="http://www.satyapaul.com/satyapaul/shop/frequently-asked-questions" id="WC_CachedFooterDisplay_link_6">FAQ</a> |
+	   	<a href="http://www.satyapaul.com/satyapaul/shop/feedback">Feedback</a> |  
+	   	<a href="http://www.satyapaul.com/satyapaul/shop/sitemap" id="WC_CachedFooterDisplay_link_7">Sitemap</a> |
+	   	<a href="http://www.satyapaul.com/satyapaul/shop/contact" id="WC_CachedFooterDisplay_link_6">Contact</a>
+	   	<a href="#" tabindex="-1" id="WC_CachedFooterDisplay_links_8"></a>
 	</div>
 	
 	<div id="WC_CachedFooterDisplay_div_2" style="width:963px;text-align:center;margin-left:-21px;">
-			<a href="http://www.satyapaul.com/satyapaul/shop/membership" id="WC_CachedFooterDisplay_link_membership">Membership</a> | 
-			<a href="http://www.satyapaul.com/satyapaul/shop/promotions" id="WC_CachedFooterDisplay_link_promo">Promotions</a> |
-			<a href="https://satyapaul.wordpress.com/" target="_blank" id="WC_CachedFooterDisplay_link_blog">Blog</a> 
-			
+		<a href="http://www.satyapaul.com/satyapaul/shop/membership" id="WC_CachedFooterDisplay_link_membership">Membership</a> | 
+		<a href="http://www.satyapaul.com/satyapaul/shop/promotions" id="WC_CachedFooterDisplay_link_promo">Promotions</a> |
+		<a href="https://blog.satyapaul.com/" target="_blank" id="WC_CachedFooterDisplay_link_blog">Blog</a> 
 	</div>
-		<div dojotype="wc.widget.RefreshArea" id="QuickInfo_Widget" controllerid="QuickInfo_Controller" role="wairole:region" waistate:live="polite" waistate:atomic="false" waistate:relevant="additions" widgetid="QuickInfo_Widget" title="" class="dijitContentPane">
+	<div dojotype="wc.widget.RefreshArea" id="QuickInfo_Widget" controllerid="QuickInfo_Controller" role="wairole:region" waistate:live="polite" waistate:atomic="false" waistate:relevant="additions" widgetid="QuickInfo_Widget" title="" class="dijitContentPane">
 			
 
 
@@ -2849,13 +3327,13 @@ width:580px;
 
 
 
-		</div>	
-		<script type="text/javascript">dojo.addOnLoad(function() { 
+	</div>	
+	<script type="text/javascript">dojo.addOnLoad(function() { 
 			parseWidget("QuickInfo_Widget");
-		});</script>	
-	</div>
- </div>
-
+		});
+	</script>	
+</div>
+</div>
 
 
 <!-- END FooterDisplay.jspf -->
@@ -2940,12 +3418,12 @@ var google_conversion_value = 0;
 	<div id="progress_bar">
 		<div id="loading_popup">
 			<div class="top_left" id="WC_StoreCommonUtilities_div_1"><img src="/wcsstore/SatyaPaul/images/colors/color1/transparent.gif" alt="No image available"></div>
-		        <div class="top_right" id="WC_StoreCommonUtilities_div_2"><img src="/wcsstore/SatyaPaul/images/colors/color1/transparent.gif" alt="No image available"></div>
-		        <div class="header" id="WC_StoreCommonUtilities_div_3"></div>
-		        <div class="bodyarea" id="WC_StoreCommonUtilities_div_4">
+	        <div class="top_right" id="WC_StoreCommonUtilities_div_2"><img src="/wcsstore/SatyaPaul/images/colors/color1/transparent.gif" alt="No image available"></div>
+	        <div class="header" id="WC_StoreCommonUtilities_div_3"></div>
+	        <div class="bodyarea" id="WC_StoreCommonUtilities_div_4">
 				<div class="bodycontent" id="WC_StoreCommonUtilities_div_5">
 					<img src="/wcsstore/SatyaPaul/images/colors/color1/loading.gif" width="44" height="44" border="0" alt="Your request is being processed.">
-			        </div>
+		        </div>
 			</div>
 			<div class="footer" id="WC_StoreCommonUtilities_div_6">
 				 <div class="bot_left" id="WC_StoreCommonUtilities_div_7"></div>
