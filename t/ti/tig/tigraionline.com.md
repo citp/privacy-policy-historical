@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tigraionline.com privacy policy that was archived on 2012-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121222234134id_/http%3A//tigraionline.com/articles/tolprivacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tigraionline.com privacy policy that was archived on 2013-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130622040154id_/http%3A//tigraionline.com/articles/tolprivacypolicy.html) for the most accurate reproduction.*
 
 # Tigrai Online.com Privacy Policy
 
@@ -20,6 +20,9 @@ Third Party Advertising... We use third-party advertising companies to serve ads
 
 Third Party Cookies... In the course of serving advertisements to this site, our third-party advertiser may place or recognize a unique “cookie” on your browser.
 
-## Tigrai Online Sponsors
+## More Articles
+
+Sponsored Links   
+
 
 [More](http://www.tigraionline.com/)
