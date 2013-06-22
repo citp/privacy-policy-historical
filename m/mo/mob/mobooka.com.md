@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the mobooka.com privacy policy that was archived on 2012-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121208045013id_/http%3A//mobooka.com/Home/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mobooka.com privacy policy that was archived on 2013-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130623013424id_/http%3A//mobooka.com/Home/Privacy) for the most accurate reproduction.*
 
-# About - Mooboka Incentivized Affiliate Network
+# Performance Affiliate and Publisher Network - Internet Marketing - Mobooka
 
 Including all Related Websites Owned or Registered to Mobooka, LLC
 
