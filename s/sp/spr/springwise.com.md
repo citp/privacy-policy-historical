@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the springwise.com privacy policy that was archived on 2012-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120616172538id_/http%3A//www.springwise.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the springwise.com privacy policy that was archived on 2013-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130622042150id_/http%3A//www.springwise.com/privacy) for the most accurate reproduction.*
 
 # Privacy | Springwise
 
@@ -26,9 +26,9 @@ Our site uses a sign-up form for readers to subscribe to our newsletter. We coll
 If you have any questions about this privacy statement, the practices of this site, or your dealings with this website, please contact:
 
 Springwise  
-+44 207 494 2433  
-9 Argyll Street  
-W1F 7TQ, London  
++44 20 7251 6811  
+19-20 Great Sutton Street  
+EC1V 0DR, London  
 United Kingdom
 
 [info@springwise.com](mailto:info@springwise.com)
