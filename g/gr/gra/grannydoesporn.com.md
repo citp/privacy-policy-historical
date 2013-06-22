@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the grannydoesporn.com privacy policy that was archived on 2012-11-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121117100242id_/http%3A//www.grannydoesporn.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the grannydoesporn.com privacy policy that was archived on 2013-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130622031615id_/http%3A//www.grannydoesporn.com/privacy) for the most accurate reproduction.*
 
 # Granny Does Porn
 
