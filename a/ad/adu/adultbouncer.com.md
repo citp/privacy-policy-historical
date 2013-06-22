@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the adultbouncer.com privacy policy that was archived on 2012-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121212131954id_/http%3A//adultbouncer.com/privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adultbouncer.com privacy policy that was archived on 2013-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130622154037id_/http%3A//adultbouncer.com/privacypolicy.php) for the most accurate reproduction.*
 
 # AdultBouncer.com : Worlds Largest Adult Entertainment Network
 
