@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the spiceworks.com privacy policy that was archived on 2012-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121203053514id_/http%3A//www.spiceworks.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the spiceworks.com privacy policy that was archived on 2013-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130622193311id_/http%3A//www.spiceworks.com/privacy) for the most accurate reproduction.*
 
 # Spiceworks Privacy Policy
 
-_Last Updated: July 6, 2012_
+_Last Updated: February 15, 2013_
 
 At Spiceworks our most important asset is our relationship with our user community. We are committed to maintaining the confidentiality, integrity and security of information about our users and their organizations. We are proud of our privacy practices and want you to know how we protect your information and use it to provide you the best possible service through the Spiceworks Desktop and the website at [www.spiceworks.com](http://www.spiceworks.com/).
 
@@ -83,7 +83,7 @@ You may "opt-in" to receive application and site notifications, newsletters, thi
 
 If you no longer wish to receive product updates and general news about Spiceworks via our monthly newsletter or periodic updates, you may opt-out of receiving them by following the instructions included in each newsletter or by emailing us at [info@spiceworks.com](mailto:info@spiceworks.com).
 
-We make good faith efforts to provide you access to your personal information upon request and to let you correct such data if it is inaccurate and delete it, when reasonably possible. If your personally identifiable information changes, you may update it using the "Update Profile" link at the bottom of the email newsletter. You have control over your Spiceworks user profile and related privacy settings and can edit such to remove information that you do not want others to see publicly. You can manage your personal profile information by visiting the URL: <http://community.spiceworks.com/profile>
+Spiceworks relies on Google Services for display of ads on our site [http://community.spiceworks.com](http://community.spiceworks.com/). To Opt-Out of any targeted ads based on your activity on our site, please utilize the following URL: <http://www.google.com/policies/technologies/ads/>. We make good faith efforts to provide you access to your personal information upon request and to let you correct such data if it is inaccurate and delete it, when reasonably possible. If your personally identifiable information changes, you may update it using the "Update Profile" link at the bottom of the email newsletter. You have control over your Spiceworks user profile and related privacy settings and can edit such to remove information that you do not want others to see publicly. You can manage your personal profile information by visiting the URL: <http://community.spiceworks.com/profile>
 
 We will retain your personal information for as long as your account is active or as needed to provide you services. If you wish to terminate your community log in contact us at [info@spiceworks.com](mailto:info@spiceworks.com). We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.
 
@@ -116,5 +116,5 @@ Spiceworks adheres to the US Safe Harbor privacy principles. For more informatio
 If you have comments on the Spiceworks service or ideas on how to improve it, please send email to [feedback@spiceworks.com](mailto:feedback@spiceworks.com). Please note that by doing so, you also grant Spiceworks and third parties permission to use and incorporate your ideas or comments into the service (or third party software or content) without further compensation or approval.
 
 The information contained in this web site is subject to change without notice.  
-Copyright © 2006-2012 Spiceworks, Inc. All rights reserved.  
+Copyright © 2006-2013 Spiceworks, Inc. All rights reserved.  
 Spiceworks, Inc. 7300 FM 2222, Bldg 3, Suite 100, Austin, TX 78730, USA
