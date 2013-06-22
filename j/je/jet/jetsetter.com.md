@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the jetsetter.com privacy policy that was archived on 2012-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121125003440id_/http%3A//www.jetsetter.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jetsetter.com privacy policy that was archived on 2013-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130623015604id_/http%3A//www.jetsetter.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Jetsetter
 
 **Privacy Notice**
 
-Gilt Groupe, Inc.and its subsidiaries and affiliates, including Gilt Travel Inc. dba Jetsetter  (collectively, “Jetsetter”), respect your concerns about privacy.  This Privacy Notice describes the types of personal information we collect, how we use the information, with whom we share it, and the choices you can make about our collection, use and disclosure of the information.  We also describe the measures we take to protect the security of the information and how you can contact us about our privacy practices.
+Smarter Travel Media LLC and its subsidiaries and affiliates, including JetSetter Inc., dba Jetsetter  (collectively, “Jetsetter”), respect your concerns about privacy.  This Privacy Notice describes the types of personal information we collect, how we use the information, with whom we share it, and the choices you can make about our collection, use and disclosure of the information.  We also describe the measures we take to protect the security of the information and how you can contact us about our privacy practices.
 
 The phrase “personal information” refers to information by which you or the device you are using to connect to the Internet can be identified.
 
@@ -92,7 +92,7 @@ We also may use the information we obtain about you in other ways for which we p
 **Online Advertising**
 
 On our websites, we may collect information about your online activities to provide advertising about products and services tailored to your individual interests.  You may see certain ads on this and other sites because we participate in advertising networks. Ad networks allow us to target our advertising to users through demographic, behavioral and contextual means.  These networks track your online activities over time by collecting information through automated means, including through the use of cookies, web server logs, web beacons and other methods.  The networks use this information to show you advertisements for Jetsetter and our business partners that are tailored to your individual interests.  The information our ad network **** vendors collect includes information about your visits to websites that participate in the vendors’ advertising networks, such as the pages or advertisements you have viewed, and the actions you take on the sites.  This data collection and ad targeting take place both on our websites and on third-party websites that participate in the ad networks.  This process also helps us track the effectiveness of our marketing efforts. ****  
-To direct our ad network vendors not to use your data to deliver targeted advertising to you, please contact us at[privacy@jetsetter.com](mailto:privacy@jetsetter.com).
+To direct our ad network vendors not to use your data to deliver targeted advertising to you, please contact us at[privacy@smartertravelmedia.com](mailto:privacy@smartertravelmedia.com).
 
 **Information We Share**
 
@@ -108,7 +108,7 @@ Here are the choices we offer:
 
 **_Sharing Information with Business Partners_**
 
-You may direct Jetsetter not to share your personal information with our business partners for those partners’ own purposes. To do so, please email us at [privacy@jetsetter.com](mailto:privacy@jetsetter.com). If you opt out, we will continue sharing your information as otherwise described in the “Information We Share” section of this Privacy Notice, including with our service providers, to fulfill your requests and to comply with legal requirements.
+You may direct Jetsetter not to share your personal information with our business partners for those partners’ own purposes. To do so, please email us at [privacy@smartertravelmedia.com](mailto:privacy@smartertravelmedia.com). If you opt out, we will continue sharing your information as otherwise described in the “Information We Share” section of this Privacy Notice, including with our service providers, to fulfill your requests and to comply with legal requirements.
 
 **_Marketing Emails_**
 
@@ -116,7 +116,7 @@ You may choose not to receive marketing email communications from us by clicking
 
 **_Web Analytics_**
 
-You may opt out of the aggregation and analysis of data collected about you on our sites by our web analytics vendor by clicking [here](http://www.omniture.com/en/privacy/product#optout) and selecting the opt-out link at the bottom of the linked site.
+Jetsetter uses a web analytics company to track and generate reports on visitor use of Jetsetter. We use the web analytics company to analyze visitor activity so that we may better understand how visitors make use of SmarterTravel.com, and so that we may better tailor content to meet our visitors' needs. This data may include individual visitor click behavior. However, no personally identifiable information is shared with the web analytics company. Although our web analytics company logs the information coming from jetsetter.com on our behalf, we control how that data may and may not be used. Visitors who wish to opt-out of this website analysis tool may do so by clicking [here](http://www.omniture.com/en/privacy/product#optout) (This is an external link to our web analytics company and will open in a new window).
 
 **_Targeted Advertising_**
 
@@ -132,7 +132,7 @@ Most browsers will tell you how to stop accepting new cookies, how to be notifie
 
 **_Your California Privacy Rights_**
 
-If you are a California resident, you may request that we provide to you (i) a list of the categories of personal information about you that Jetsetter has disclosed to third parties for the third parties’ direct marketing purposes during the calendar year preceding your request, (ii) the names and addresses of such third parties, and (iii) if the nature of the third parties’ business cannot reasonably be determined from their names, examples of the products or services marketed, if known to Jetsetter, sufficient to give you a reasonable indication of the nature of the third parties’ business.  To submit your request, please email [CaliforniaPrivacy@jetsetter.com](mailto:CaliforniaPrivacy@jetsetter.com).
+If you are a California resident, you may request that we provide to you (i) a list of the categories of personal information about you that Jetsetter has disclosed to third parties for the third parties’ direct marketing purposes during the calendar year preceding your request, (ii) the names and addresses of such third parties, and (iii) if the nature of the third parties’ business cannot reasonably be determined from their names, examples of the products or services marketed, if known to Jetsetter, sufficient to give you a reasonable indication of the nature of the third parties’ business.  To submit your request, please email [privacy@smartertravelmedia.com](mailto:privacy@smartertravelmedia.com).
 
 **Access and Correction**
 
@@ -145,8 +145,7 @@ Our websites may contain links to other sites for your convenience and informati
 
 **Data Transfers**
 
-When we obtain personal information about you, we may process the information outside of the country in which you are located, including in the United States.  The countries in which we process the information may not have the same data protection laws as the country in which you are located.  We will protect your information as described in this Privacy Notice.    
-Jetsetter has certified compliance with the Safe Harbor privacy framework for the handling of personal information transferred from the European Union, Iceland, Liechtenstein, Norway or Switzerland to the U.S.  Click [here](https://web.archive.org/privacy/safeharbor) to view our Safe Harbor Privacy Policy.
+When we obtain personal information about you, we may process the information outside of the country in which you are located, including in the United States.  The countries in which we process the information may not have the same data protection laws as the country in which you are located.  We will protect your information as described in this Privacy Notice.
 
 **How We Protect Personal Information**
 
@@ -165,10 +164,13 @@ This Privacy Notice may be updated periodically and without prior notice to you 
 
 **How to Contact Us**
 
-If you have any questions or comments about this Privacy Notice, or if you would like us to update information we have about you or your preferences, please contact us by email at [privacy@jetsetter.com](mailto:privacy@jetsetter.com).  You also may write to us at:  
-Gilt Travel, Inc.  
-Attn: Legal Department ****  
-2 Park Avenue, 4th Floor  
-New York, New York 10016
+If you have any questions or comments about this Privacy Notice, or if you would like us to update information we have about you or your preferences, please contact us by email at [privacy@smartertravelmedia.com](mailto:privacy@smartertravelmedia.com).  You also may write to us at:  
+Smarter Travel Media LLC  
+Attn: Jetsetter.com  
+500 Rutherford Avenue  
+Charlestown, MA 02129  
+617-886-5555  
+617-886-5501 (fax)  
+[privacy@smartertravelmedia.com](mailto:privacy@smartertravelmedia.com)
 
-**Effective Date:   January 28, 2012**
+**Effective Date:   April 22, 2013**
