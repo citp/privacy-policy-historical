@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the scripturetyper.com privacy policy that was archived on 2012-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121118070337id_/http%3A//scripturetyper.com/TermsAndPrivacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the scripturetyper.com privacy policy that was archived on 2013-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130622172944id_/http%3A//scripturetyper.com/TermsAndPrivacy.aspx) for the most accurate reproduction.*
 
 # 
 
@@ -33,5 +33,5 @@ All personal information collected by our website is stored on our secure server
 
 Our privacy policy may change from time to time, but rest assured that your personal information will always be kept secure and private.  New versions will be posted on this web site, so please check back periodically for updates.
 
-If you have questions or feedback about this policy, please [Contact Us](https://web.archive.org/contactus/).  
+If you have questions or feedback about this policy, please [Contact Us](https://web.archive.org/Pages/Contact-Us/).  
 We love to hear from our members!
