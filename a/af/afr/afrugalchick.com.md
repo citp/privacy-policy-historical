@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the afrugalchick.com privacy policy that was archived on 2012-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121221014122id_/http%3A//www.afrugalchick.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the afrugalchick.com privacy policy that was archived on 2013-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130622020059id_/http%3A//www.afrugalchick.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | A Frugal Chick
+# Privacy Policy/Disclosure Policy | A Frugal Chick
 
 Your privacy is extremely important to me.
 
@@ -11,5 +11,7 @@ I will never ask you for credit card information on my site. Please do not send 
 Afrugalchick.com is not responsible for the content of external internet sites. Please read the external sites’ privacy policy before disclosing any information.
 
 Occasionally in the event of giveaways I may request personal information, such as your address. This information will never be shared with anyone.
+
+_It is important to note that this blog accepts forms of cash advertising, sponsorships, paid insertions, or other forms of compensation. The compensation received will never influence the content, topics or posts made in this blog. All opinions stated in this blog belong to its author and no one else. I will only endorse products, companies, and services that I have found worthy of my time and opinion. A Frugal Chick is a participant in the Amazon Services LLC Associates Program, an affiliate advertising program designed to provide a means for sites to earn advertising fees by advertising and linking to www.amazon.com._
 
 It is important to note that this blog accepts forms of cash advertising, sponsorships, paid insertions, or other forms of compensation. The compensation received will never influence the content, topics or posts made in this blog. All opinions stated in this blog belong to its author and no one else. I will only endorse products, companies, and services that I have found worthy of my time and opinion. A Frugal Chick is a participant in the Amazon Services LLC Associates Program, an affiliate advertising program designed to provide a means for sites to earn advertising fees by advertising and linking to www.amazon.com. 
