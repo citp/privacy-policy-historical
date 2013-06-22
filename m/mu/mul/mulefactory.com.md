@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mulefactory.com privacy policy that was archived on 2012-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121227195752id_/http%3A//www.mulefactory.com/privacy_notice_and_data_protection) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mulefactory.com privacy policy that was archived on 2013-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130622072401id_/http%3A//www.mulefactory.com/privacy_notice_and_data_protection) for the most accurate reproduction.*
 
 # The best item and gold shop for online games
 
@@ -17,5 +17,4 @@ Our company stores all of your information on computers located in and controlle
   * Mulefactory has **ZERO TOLERANCE** for any frauds about payments and access or acquire customer informations on their websites. We keep the rights to forward your verification such as telephone number or personal data to PayPal or Moneybookers (Skrill) for further review if any troubles with your payment occurs (charge back attempt, uncleared payment). Mulefactory aggressively prosecutes to the fullest extent of the law against those perpetrators apprehended conducting fraudulent activities on its web site. We work with local, nations and international fraud investigation agencies and employs a variety of electronic and other means to discourage, detect and intercept fraudulent activites. 
 
 
-  
 
