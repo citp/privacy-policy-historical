@@ -1,24 +1,19 @@
-> *The following text is extracted and transformed from the endsleigh.co.uk privacy policy that was archived on 2012-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121127163829id_/http%3A//www.endsleigh.co.uk/Media/pages/privacy_policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the endsleigh.co.uk privacy policy that was archived on 2013-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130622040049id_/http%3A//www.endsleigh.co.uk/Media/pages/privacy_policy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy - Endsleigh Insurance Services Limited
 
 ##  Welcome 
 
-**
+**Existing customers:**
 
-     Existing customers   
-     log in to:
+**Report your claim today**   
+[](http://www.endsleigh.co.uk/Claims/Pages/claim-advice.aspx)   
+**Renew your policy**   
+[](http://www.endsleigh.co.uk/Pages/renewal.aspx)
 
-**
+**  
+View your policy:**  
 
-  * View a saved quote
-  * View your policy details
-  * Make a change to your policy
-  * [**View your renewal**](http://www.endsleigh.co.uk/Pages/Renewals.aspx)
-
-
-
-[](http://www.endsleigh.co.uk/Claims/Pages/claim-advice.aspx)
 
 [](https://web.archive.org/Pages/Login.aspx?Source=http%3A%2F%2Fwww%2Eendsleigh%2Eco%2Euk%2FMedia%2FPages%2Fprivacy%5Fpolicy%2Easpx)
 
