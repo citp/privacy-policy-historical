@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tlc-direct.co.uk privacy policy that was archived on 2012-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120625062953id_/http%3A//www.tlc-direct.co.uk/Information/Privacy/Privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tlc-direct.co.uk privacy policy that was archived on 2013-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130623010608id_/http%3A//www.tlc-direct.co.uk/Information/Privacy/Privacy.htm) for the most accurate reproduction.*
 
 # 
 
@@ -13,23 +13,30 @@ Please remember we are committed to ensuring that your privacy is protected.
 We may contact you to provide you with information about our web site or any special service or products which we think may be of interest to you.  
 As a registered customer, you could benefit from special prices, regular updates, and selected promotions.
 
-If you would rather not receive this information, you can unsubscribe by following the instructions at the end of all TLC updates. **[](https://web.archive.org/web/20120625062953id_/http%3A//www.tlc-direct.co.uk/Information/contact/Default.htm)**
+If you would rather not receive this information, you can unsubscribe by following the instructions at the end of all TLC updates. **[](https://web.archive.org/web/20130623010608id_/http%3A//www.tlc-direct.co.uk/Information/contact/Default.htm)**
 
 **CREDIT CARDS**  
 Our site uses a secure server that implements **S** ecure **S** ockets **L** ayer technology (certified to the required standard for encrypted credit card transactions by Thawte) to protect your credit card information. 
 
 **COOKIES**  
-Cookies are small text files on your computer which contain identifying information.   
-The cookie is used to make the link between you and the information you have provided to the web site. This allows your shopping basket to be kept separate from other users and enables us to automatically complete some of the forms when you subsequently use them. ****
+Cookies are small text files on your computer which contain identifying information.
 
-**You will not be able to create a shopping basket if your browser  
-is set to disallow the creation of cookies**.
+We use cookies to make a link between you and the information you have provided to the web site. This allows your shopping basket to be kept separate from other users and enables us to automatically complete some of the forms when you subsequently use them.  
 
-**[Enable Cookies Explorer 5  
-](https://web.archive.org/web/20120625062953id_/http%3A//www.tlc-direct.co.uk/Information/Privacy/EnableCookie.htm)****[Enable Cookies Netscape  
-](https://web.archive.org/web/20120625062953id_/http%3A//www.tlc-direct.co.uk/Information/Privacy/EnableCookieNS.htm)**
 
 The creation of a cookie on your computer does not give the web site any access to other information such as your e-mail address. 
+
+This website also uses the following third-party cookies:
+
+**Google Analytics**  
+The Google Analytics cookie allows us to see information on user website activity including, but not limited to page views, referral and average time spent on the website.   
+The information is de-personalised and is displayed as numbers, meaning it will not be tracked back to individuals, which helps to protect your privacy.  
+Using Google Analytics we can see what content is popular on our website, and strive to ensure you have the best user experience possible.
+
+**Google Adwords**  
+We use Google Adwords Remarketing code to log when users view specific pages or take specific actions on the website. This allows us to provide targeted advertising in the future.
+
+If you prefer, you can opt out of third-party vendor's use of cookies by visiting the [Network Advertising Initiative opt-out page.](http://www.networkadvertising.org/managing/opt_out.asp)
 
 **CONTACT US**   
 We welcome your views about our website and our Privacy Policy. 
