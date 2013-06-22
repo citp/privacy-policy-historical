@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the solvemedia.com privacy policy that was archived on 2012-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121208082946id_/http%3A//solvemedia.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the solvemedia.com privacy policy that was archived on 2013-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130622030217id_/http%3A//solvemedia.com/privacy.html) for the most accurate reproduction.*
 
 # Solve Media
 
@@ -64,7 +64,7 @@ If you have questions about this Website Privacy Policy, please contact Solve Me
 
 Solve Media, Inc.   
 200 S. Broad Street  
-Suite 415  
+Suite 915  
 Philadelphia PA, 19102
 
 We will investigate your question, respond to your inquiry, and attempt to resolve any concerns regarding your privacy question.
