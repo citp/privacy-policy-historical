@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the webmd.com privacy policy that was archived on 2012-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121011191440id_/http%3A//www.webmd.com/www/about-webmd-policies/about-privacy-policy%3Fss%3Dftr) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the webmd.com privacy policy that was archived on 2013-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130622200546id_/http%3A//www.webmd.com/www/about-webmd-policies/about-privacy-policy%3Fss%3Dftr) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -23,7 +23,7 @@ We urge you to take the time to read our entire Privacy Policy for complete deta
 
 We may collect “Personal Information” about you – such as your name, address, telephone number, email address or health information – in the following ways:
 
-  * When you register for or update an existing profile on our web sites or register for the WebMD Health Manager;
+  * When you register for or update an existing profile on our web sites or Apps or register for the WebMD Health Manager;
   * When you use certain interactive tools and services (e.g., the Ovulation/Pregnancy Calendar or Symptom Checker);
   * When you sign-up for newsletters or other communications from WebMD;
   * When you use our “Email a Friend” service;
@@ -44,7 +44,7 @@ Most browser software can be set to reject Cookies, and you can opt out of Cooki
 
 You can click on the Ad Choices logo at the bottom of every page of the WebMD web sites to stop tailored advertising from WebMD. 
 
-Read more about What Choices Do I Have?
+Read more about "What Choices Do I Have?", "Cookies" and "TRUSTed Ads Program Ad Choices"
 
 ### How Information Collected About You Is Used 
 
@@ -168,7 +168,7 @@ Third parties under contract with WebMD may use Cookies or Web Beacons to collec
 
 When you download and install one of our WebMD Mobile Apps onto your mobile device we assign a random number to your App installation. This number cannot be used to identify you personally, and we cannot identify you personally unless you choose to become a registered user of the App. We use this random number in a manner similar to our use of Cookies as described in this Privacy Policy. Unlike Cookies, the random number is assigned to your installation of the App itself and not a browser, because the App does not work through your browser. Therefore the random number cannot be removed through settings. If you do not want us to use the random number for the purposes for which we use Cookies, please do not use the Mobile Device App, and please use your mobile device browser to access the WebMD Web Sites or our mobile optimized sites. We do not obtain any information about your mobile device, other than the brand, make and model and type of operating software your device uses. Please note that certain WebMD Mobile Apps require registration either to use the App or to use certain functionality in the App. 
 
-WebMD’s Apps obtain your consent (via an opt-in) before using information from pin-pointing technology like GPS or cell tower information. You can withdraw your consent (opt-out) for the use of "location" by WebMD at any time by changing your location services in the "Settings" function on your mobile device. 
+WebMD’s Sites (including our mobile sites such as m.webmd.com) and WebMD’s Apps ask for your consent (via an opt-in) before using information from pin-pointing technology like GPS or cell tower information. You can withdraw your consent (opt-out) for the use of "location" by WebMD at any time by changing your location services in the "Settings" function on your mobile device. We use location services on our web sites and Apps to provide you content based upon your location, local search results, and local offers.
 
 #### Non-Personal Information Collected by Third Parties Not Acting on WebMD’s Behalf
 
@@ -192,9 +192,13 @@ Most browser software can be set to reject Cookies. Most browsers offer instruct
 
 Certain Ad Servers allow you to prevent them from collecting data through the use of Cookies. In order to do so, you must Opt-out of such data collection with each individual site. Currently, you can opt out of Cookies for several Ad Servers by visiting the [Network Advertising Initiative](http://www.webmd.com/click?url=http://www.networkadvertising.org/managing/opt_out.asp) gateway opt-out site or TRUSTe’s Preference Manager at [http://preferences.truste.com/](http://www.webmd.com/click?url=http://preferences.truste.com/). This website will also allow you to review the Ad Server's privacy policies. You can find additional information and resources about how to opt out of advertising and related Cookies by visiting the [World Privacy Forum's Site.](http://www.webmd.com/click?url=http://www.worldprivacyforum.org/cookieoptout.html) __
 
+We work with third party ad networks to display advertising on our Sites. Our ad network vendors use technologies to collect non-personally identifiable information about your activities on our web sites to provide you cookie-based targeted advertising based upon your browsing activity and your interests. To read about how to opt out of targeted advertising on the WebMD mobile sites see the section of this policy named _TRUSTed Ads Program Ad Choices_ below
+
 #### TRUSTed Ads Program Ad Choices
 
 In order to give you more control over your privacy choices we have implemented the TRUSTed Ads™ program from TRUSTe. At the bottom of every page of the WebMD Web Sites you will see an Ad Choices logo, (which looks like this: ). By clicking on that logo you will be presented with a window (the “TRUSTe Window”) that will identify all of the companies that WebMD uses to direct tailored advertisements to you, both on the WebMD Web Sites as well as on third-party sites. If you would like to stop this tailored advertising from WebMD, you can manage these advertisements through the choices in that window. By clicking the + symbol next to the name of a vendor in that window you will get information about how and where that vendor assists us with the delivery of advertisements.
+
+**Important:** If your device uses the Apple iOS Operating System, you will not see the Ad Choices icon on our mobile optimized sites (such as www.m.webmd.com.) Advertisements are not tailored based on browsing activity or interests for devices that access our mobile optimized web sites using the iOS operating system, including iPhone, iPad, and iPod Touch.
 
 ### How Information Collected About You Is Used
 
@@ -267,8 +271,8 @@ We reserve the right to change or modify this Privacy Policy or any of our tools
 
 [ ](http://www.webmd.com/click?url=https://privacy.truste.com/privacy-seal/WebMD,-LLC/validation?rid=7b3bf16d-37b4-42e0-aec7-836ef1d3680d) WebMD has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with [TRUSTe's program requirements](http://www.webmd.com/click?url=http://www.truste.com/privacy_seals_and_services/consumer_privacy/privacy-programs-requirements.html) including transparency, accountability and choice regarding the collection and use of your personal information. TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy policy or practices, please email us by using the Contact Us link at the bottom of each page of our site.  If you are not satisfied with our response you can contact [TRUSTe here](http://www.webmd.com/click?url=http://watchdog.truste.com/pvr.php?page=complaint). Please bear in mind that TRUSTe’s Watchdog service and certification is for the WebMD.com, MedicineNet.com, and the WebMD Health Manager sites and does not cover information that may be collected through other WebMD websites, mobile applications or mobile websites. Only information collected by WebMD.com, MedicineNet.com, or WebMD Health Manager should be reported in a TRUSTe Watchdog complaint. 
 
-[ ](http://www.webmd.com/click?url=http://www.hon.ch/HONcode/Conduct.html?HONConduct298987) WebMD.com, MedicineNet.com, and eMedicineHealth.com comply with the HONcode standard for trustworthy health information, which can be verified [here](https://web.archive.org/web/20121006155349id_/http://www.webmd.com/about-webmd-policies/%7BBASE_URL/click?url=https://www.healthonnet.org/HONcode/Conduct.html?HONConduct298987). 
+[ ](http://www.webmd.com/click?url=http://www.hon.ch/HONcode/Conduct.html?HONConduct298987) WebMD.com, MedicineNet.com, and eMedicineHealth.com comply with the HONcode standard for trustworthy health information, which can be verified [here](https://web.archive.org/web/20130622200546id_/http://www.webmd.com/about-webmd-policies/%7BBASE_URL/click?url=https://www.healthonnet.org/HONcode/Conduct.html?HONConduct298987). 
 
-Effective Date: June 11, 2012
+Effective Date: May 06, 2013
 
-©2012 WebMD, LLC. All rights reserved.
+©2013 WebMD, LLC. All rights reserved.
