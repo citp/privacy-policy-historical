@@ -1,8 +1,9 @@
-> *The following text is extracted and transformed from the buyproxies.org privacy policy that was archived on 2012-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121215024403id_/http%3A//buyproxies.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the buyproxies.org privacy policy that was archived on 2013-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130622132532id_/http%3A//buyproxies.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Buy proxies
 
-In an effort to protect our clients’ and site visitors privacy and rights, Buyproxies.org has established a Privacy Policy which explains what information we gather on visitors and what we do with information that we gather.  
+In an effort to protect our clients’ and site visitors privacy and rights, Buyproxies.org has established a Privacy Policy which explains what information we gather on visitors and what we do with information that we gather.
+
 This Privacy Policy governs the manner in which Buyproxies.org collects, uses, maintains and discloses information collected from users of this Web site (each, a “User”).
 
 **Privacy**  
@@ -13,5 +14,3 @@ Buyproxies.org collects personally identifiable information from Users through o
 
 **How We Use Information**  
 Buyproxies.org may use personally identifiable information collected through our Web site to contact Users regarding products and services offered by Buyproxies.org and its trusted affiliates, independent contractors and business partners, and otherwise to enhance Users’ experience with Buyproxies.org and such affiliates, independent contractors and business partners. At no time will Buyproxies.org’s database of users ever be sold to any entity for the purpose of marketing or mailing lists. Personal information will not be sold or otherwise transferred to our business partners without your prior consent, except that we will disclose the information we collect to third parties when, in our good faith judgment, we are obligated to do so under applicable laws.
-
-**Buyproxies.org Cuza Voda, Bl 21, Sc A, Ap 1,Slobozia, Romania**
