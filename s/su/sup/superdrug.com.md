@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the superdrug.com privacy policy that was archived on 2012-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121113145140id_/http%3A//www.superdrug.com/help%2Binfo/privacy-policy/page/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the superdrug.com privacy policy that was archived on 2013-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130622042907id_/http%3A//www.superdrug.com/help%2Binfo/privacy-policy/page/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -173,6 +173,22 @@ vbmtracker
 
 |  Viewing items  |  These cookies collect a list of recently viewed items, including their tracking codes, to enable us to suggest items which may interest you based on your previous browsing activities.   
   
+Peerius_user 
+
+|  Viewing items  |  Stores the cookie ID of the visitor as a string of numbers and sticks to the user's browser until the cache is cleared. Allows recognition across visitor sessions to help understand returning visitor to provide a more relevant personalised experience.   
+  
+Peerius_sess
+
+|  Viewing items  |  Session cookie, gathers information on the visitors current session to provide a better visitor experience for that visit  
+  
+Peerius_user 
+
+|  Viewing items  |  If a user clicks a recommendation, this holds the id for the clicked recommendation. This cookie lives for a few seconds. When the suer clicks a recommendation our Javascript adds the cookie .When the next page is loaded, our Javascript reads the cookie and sends it to our servers so that our server is aware of the click.  
+  
+Peerius_user 
+
+|  Viewing items  |  A temporary cookie used to check if the user has cookies enabled.  
+  
 ## Third Party Cookies 
 
 Whilst you use superdrug.com, cookies may be placed on your machine by us or by our third party partners, such as Google or awin1.com. These cookies are described more fully in the Performance cookie table above. 
@@ -211,6 +227,6 @@ If you need to update any details relating to your [Beautycard](http://www.super
 
 We may change this policy from time to time by updating this page. You should regularly check this page to ensure you are happy with any changes. 
 
-**This policy was last updated on** **25 May 2012** **.**
+**This policy was last updated on** **5 December 2012** **.**
 
 * Calls to our Loyalty Helpline are charged at 5p per minute from landlines (but are likely to cost more from mobile phones). 
