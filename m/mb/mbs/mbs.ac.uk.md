@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the mbs.ac.uk privacy policy that was archived on 2012-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121116135149id_/http%3A//mbs.ac.uk/help/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mbs.ac.uk privacy policy that was archived on 2013-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130622055605id_/http%3A//mbs.ac.uk/help/privacy) for the most accurate reproduction.*
 
-# Privacy policy - Manchester Business School
+# Our privacy policy and what it means when using our site | MBS
 
 ###   
 How we use your information
