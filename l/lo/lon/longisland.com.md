@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the longisland.com privacy policy that was archived on 2012-11-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121104220031id_/http%3A//www.longisland.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the longisland.com privacy policy that was archived on 2013-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130622133351id_/http%3A//www.longisland.com/privacy) for the most accurate reproduction.*
 
 # LongIsland.com Privacy Policy
 
