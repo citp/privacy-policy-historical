@@ -1,16 +1,17 @@
-<!--The following is the downloaded HTML source of the nottinghamforest.co.uk privacy policy that was archived on 2012-12-10.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121210232355id_/http%3A//www.nottinghamforest.co.uk/global/privacy-policy.aspx) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the nottinghamforest.co.uk privacy policy that was archived on 2013-06-22.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130622115713id_/http%3A//www.nottinghamforest.co.uk/global/privacy-policy.aspx) for the most accurate reproduction.-->
 
-<!DOCTYPE html><html lang="en" class=" js flexbox canvas canvastext webgl no-touch geolocation postmessage websqldatabase indexeddb hashchange history draganddrop websockets rgba hsla multiplebgs backgroundsize borderimage borderradius boxshadow textshadow opacity cssanimations csscolumns cssgradients cssreflections csstransforms csstransforms3d csstransitions fontface generatedcontent video audio localstorage sessionstorage webworkers applicationcache svg inlinesvg smil svgclippaths"><!--<![endif]--><head>
+<!DOCTYPE html><html lang="en" class="no-js"><!--<![endif]--><head>
 <link rel="stylesheet" type="text/css" href="http://fonts.googleapis.com/css?family=Prata">
       <link rel="shortcut icon" type="image/ico" href="/images/icons/favicon.ico">
          <meta charset="utf-8">
 	<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
 <script type="text/javascript">
   var adlZone = 'ROS'; 
+var ionosImpressionsUrl = 'http://FLIIONOSAdCapture-173219926.eu-west-1.elb.amazonaws.com/blank.png';
 </script>
 
-<script type="text/javascript" src="/js/combinedHeader_CBC6FB284FFAEE051DD9D264733F7225.js"></script>
+<script type="text/javascript" src="/combinedjs/combinedHeader_CBC6FB284FFAEE051DD9D264733F7225.js"></script>
 
 <style type="text/css">
 #editorial #splash_box {position:absolute; display:none; padding:0px; z-index:2000; top:30px!important; width: 790px!important; height: 628px!important; }
@@ -29,7 +30,7 @@
 
 	<link rel="stylesheet" href="/css/base.css">
 	<link rel="stylesheet" href="/css/editorial.css">
-	<link rel="stylesheet" href="/css/editorial_skin.css">
+	<link rel="stylesheet" href="/skin/editorial_skin.css">
         <link rel="stylesheet" href="/css/style.css">
 
   	<script>
@@ -44,7 +45,7 @@ var subscription_response ="<section id='newsletter_signup_popup3' class='block 
  var error_response = "<section id='newsletter_signup_popup4' class='block col6 popup'><div class='content'><p class='title'>Some error occurred while saving the subscription information. Please try again later after some time.</p></div><div class='widget_cta clearfix'> <a href='javascript:void(0)' onclick='javascript:closeDialog();' class='cta close' title='Close'>Close</a></div></section>";
 
 	</script>
-<script type="text/javascript" src="/js/combinedtop_7910774D98CB782A20D06A806FF3D2E9.js"></script>
+<script type="text/javascript" src="/combinedjs/combinedtop_224C67C7FD1CF36BC2C765D6A92CD8B6.js"></script>
 
 
 <!--[if lt IE 9]>
@@ -70,7 +71,71 @@ var subscription_response ="<section id='newsletter_signup_popup3' class='block 
 
 
 <script language="javascript" type="text/javascript">
+	function AdvertisementTracking(advertInfo, isClick){		
+		var advertTrackingLink ;
+		var adGAAccount = "UA-29399239-5";
+		if(isClick){
+			advertTrackingLink = '/FLiClick/'; 
+		}else{
+			advertTrackingLink = '/FLiImpression/';
+		}
+		advertTrackingLink += "Nottingham Forest : " + advertInfo;
+		trackVirtualPageview(advertTrackingLink, adGAAccount) ;
+	}
 
+function IonosImpressionTracking(addata)
+        {
+			var controlId ="objOrders_" +  (addata.replace("#", "")).substring(0,36);
+			var orderIds = $("input[id$=" + controlId + "]").val();
+			SendOrderIds(orderIds); 			
+        }
+
+        function SendOrderIds(orderIds)
+	{
+			if(!(orderIds == null || orderIds == undefined || orderIds.length <= 1))
+			{
+				var url=ionosImpressionsUrl + "?" + orderIds ;	
+
+				try
+				{				
+					if ($.browser.msie && window.XDomainRequest) 
+					{	
+						var xdr = new XDomainRequest();						
+						xdr.open("get", url);																	
+						
+						xdr.onload = function () {
+							var JSON = $.parseJSON(xdr.responseText);
+							if (JSON == null || typeof (JSON) == 'undefined')
+							{
+								JSON = $.parseJSON(data.firstChild.textContent);
+							}
+
+							xdr.onprogress = function(){ };
+							xdr.ontimeout = function(){ };
+							xdr.onerror = function () { };							
+						};	
+					
+						xdr.send();
+					}
+					else
+					{
+					 
+						$.ajax({
+							url: url,																						
+							type: 'GET'  			
+						});
+					}
+				}
+				catch(e)
+				{
+					
+				}
+				
+				
+			}
+	}
+
+	
     ShowSplash();
 
     function ShowSplash() {
@@ -94,141 +159,12 @@ var subscription_response ="<section id='newsletter_signup_popup3' class='block 
             console.error("Splash config error");
         }
     }
-</script><div id="splash_mask" class="ui-widget-overlay" style="height: 7228px; opacity: 0.85; display: block; width: 1366px;"></div><div id="splash_box" style="height: 100px; width: 100px; top: 70px; left: 288px; opacity: 1; display: block; background-image: none;"><div id="splash_content" style="display: block;"><!--[if lt IE 7 ]> <html lang="en" class="no-js ie6"> <![endif]-->
-<!--[if IE 7 ]>    <html lang="en" class="no-js ie7"> <![endif]-->
-<!--[if IE 8 ]>    <html lang="en" class="no-js ie8"> <![endif]-->
-<!--[if IE 9 ]>    <html lang="en" class="no-js ie9"> <![endif]-->
-<!--[if (gt IE 9)|!(IE)]><!-->
-
-<!--<![endif]-->
-
-<script src="//archive.org/includes/analytics.js?v=cf34f82" type="text/javascript"></script>
-<script type="text/javascript">window.addEventListener('DOMContentLoaded',function(){var v=archive_analytics.values;v.service='wb';v.server_name='wwwb-app12.us.archive.org';v.server_ms=210;archive_analytics.send_pageview({});});</script><script type="text/javascript" src="/_static/js/ait-client-rewrite.js" charset="utf-8"></script>
-<script type="text/javascript">
-WB_wombat_Init("https://web.archive.org/web/", "20130928141427", "www.nottinghamforest.co.uk");
 </script>
-<script type="text/javascript" src="/_static/js/wbhack.js" charset="utf-8"></script>
-<script type="text/javascript">
-__wbhack.init('https://web.archive.org/web');
-</script>
-<link rel="stylesheet" type="text/css" href="/_static/css/banner-styles.css">
-<link rel="stylesheet" type="text/css" href="/_static/css/iconochive.css">
-<!-- End Wayback Rewrite JS Include -->
 
-<meta charset="utf-8">
-<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
-<title>FLi Splash</title>
-
-
-<div class="ui-dialog">
-	<div class="ui-dialog-content">
-    <section id="splash" class="block">				
-
-     
-         <div class="optional_module profile_summary">
-
-
-
-      
-
-
-
-
-
-
-<h4>
-
-
-
-</h4>
-<p>We've rebranded our website to provide you with a range of new and exclusive features. So that you're able to enjoy the exciting new site, we need to put cookies on your computer. If you want to know more about what the cookies will be used for see our <a href="/web/20130928141427/http://www.nottinghamforest.co.uk/global/cookie-privacy-policy.aspx" target="_blank">cookie &amp; privacy notice</a>. By entering the site you accept that we will put cookies on your computer.</p>
-</div>     
-    
-
-     
-    
-         <div class="logo"><a href="/web/20130928141427/http://www.nottinghamforest.co.uk/"><img src="/web/20130928141427im_/http://www.nottinghamforest.co.uk/cms_images/team-header/nottforest-header40-3498340-34983.png" width="60" height="60" alt="Nottingham Forest" title="Nottingham Forest"></a></div>
-<div class="titleWrapper"><h2>The official site of  Nottingham Forest</h2></div>
-   
- <span class="sponsor">Official website sponsor 
-
-
-
-    </span>	
-
-<a href="javascript:void(0);" onclick="fliSplash.box.hide();" class="enter" title="Enter Nottingham Forest"><span>Enter Nottingham Forest</span></a>
-
-<div class="main">
- 
-
-       
-           <a href="https://web.archive.org/web/20130928141427/http://fliionosadclick-1954213438.eu-west-1.elb.amazonaws.com/AdClickRegistrationService.svc/RegisterClientClick?OrderCampaignUnitID=b572ac99-7c89-49ab-a45e-feea038070af&amp;TargetURL=http%3a%2f%2fwww.player.nottinghamforest.co.uk%2f&amp;TenantID=FLI" onclick="AdvertisementTracking ('Splash Page : Lead Campaign : SMS Fli : Nottingham forest', true);" data-optlable="Splash Page : Lead Campaign : SMS Fli : Nottingham forest" title="" target="_blank"><img alt="" src="https://web.archive.org/web/20130928141427im_/http://files.fliionos.co.uk/FILES/Clubs/ION/en-us/root/Vendors/ExternalVendors/nottinghamforest/images/nottingham%20forest%20finaltcm_9-23228.jpg" height="292" width="763" onload="AdvertisementTracking ( 'Splash Page : Lead Campaign : SMS Fli : Nottingham forest', false);" title=""></a>
-       
-
-     <input type="hidden" id="objOrders_22A94610-5DD0-40D6-8652-536919E97298" value="b572ac99-7c89-49ab-a45e-feea038070af" name="objOrders_22A94610-5DD0-40D6-8652-536919E97298">
-
-
-</div>
-
-<div class="logo_thumb">
-
-<img src="/web/20130928141427im_/http://www.nottinghamforest.co.uk/cms_images/team/notts-forrest40-15228.png" width="31" height="31" alt="logo">
-
-</div>     
-
-
-		<ul>
-		            
-       
-           <li>
-               <a href="https://web.archive.org/web/20130928141427/http://fliionosadclick-1954213438.eu-west-1.elb.amazonaws.com/AdClickRegistrationService.svc/RegisterClientClick?OrderCampaignUnitID=8e0f3fcd-1e6c-4066-b0cf-887f63ff1651&amp;TargetURL=http%3a%2f%2fwww.player.nottinghamforest.co.uk%2f&amp;TenantID=FLI" onclick="AdvertisementTracking ('Splash Page : FLi Promo Campaign : SMS Fli : Nottingham forest fc1', true);" data-optlable="Splash Page : FLi Promo Campaign : SMS Fli : Nottingham forest fc1" title="" target="_blank"><img alt="" src="https://web.archive.org/web/20130928141427im_/http://files.fliionos.co.uk/FILES/Clubs/ION/en-us/root/Vendors/ExternalVendors/nottinghamforestfc1/images/fl_plyr_getcloser_minihpto_champ16tcm_9-23064.jpg" height="92" width="175" onload="AdvertisementTracking ( 'Splash Page : FLi Promo Campaign : SMS Fli : Nottingham forest fc1', false);" title=""></a></li>
-           <li>
-               <a href="https://web.archive.org/web/20130928141427/http://fliionosadclick-1954213438.eu-west-1.elb.amazonaws.com/AdClickRegistrationService.svc/RegisterClientClick?OrderCampaignUnitID=0108ffe0-646f-4642-91a4-38dfe9530008&amp;TargetURL=http%3a%2f%2fitunes.apple.com%2fgb%2fapp%2ffootball-league-official-clubs%2fid385520353%3fmt%3d8&amp;TenantID=FLI" onclick="AdvertisementTracking ('Splash Page : FLi Promo Campaign : HPTO_MINI_FLI_2 : Fli_HPTO_Mini2', true);" data-optlable="Splash Page : FLi Promo Campaign : HPTO_MINI_FLI_2 : Fli_HPTO_Mini2" title="Fli_HPTO_Mini2" target="_blank"><img alt="Fli_HPTO_Mini2" src="https://web.archive.org/web/20130928141427im_/http://files.fliionos.co.uk/FILES/Clubs/pa_15/EN-US/root/Vendors/ExternalVendors/flihptomini2/images/fl_iphone_175x92_awtcm_15-9646.jpg" height="92" width="175" onload="AdvertisementTracking ( 'Splash Page : FLi Promo Campaign : HPTO_MINI_FLI_2 : Fli_HPTO_Mini2', false);" title="Fli_HPTO_Mini2"></a></li>
-       
-
-     <input type="hidden" id="objOrders_141D1868-8F1B-4C7E-A4FE-D80580F9ECC5" value="8e0f3fcd-1e6c-4066-b0cf-887f63ff1651,0108ffe0-646f-4642-91a4-38dfe9530008" name="objOrders_141D1868-8F1B-4C7E-A4FE-D80580F9ECC5">
-                   
-                   
-       
-           <li>
-               <a href="https://web.archive.org/web/20130928141427/http://fliionosadclick-1954213438.eu-west-1.elb.amazonaws.com/AdClickRegistrationService.svc/RegisterClientClick?OrderCampaignUnitID=a791e9b1-da28-4d03-9c23-3818e1a32036&amp;TargetURL=http%3a%2f%2fwww.nffcretail.com%2f&amp;TenantID=FLI" onclick="AdvertisementTracking ('Splash Page : Club Promo Campaign : Match Tickets : Match Tickets 1', true);" data-optlable="Splash Page : Club Promo Campaign : Match Tickets : Match Tickets 1" title="Match Tickets" target="_blank"><img alt="Match Tickets" src="https://web.archive.org/web/20130928141427im_/http://files.fliionos.co.uk/FILES/Clubs/pa_15/EN-US/root/Vendors/ExternalVendors/matchtickets1/images/tickets_mini_hptotcm_15-14421.jpg" height="92" width="175" onload="AdvertisementTracking ( 'Splash Page : Club Promo Campaign : Match Tickets : Match Tickets 1', false);" title="Match Tickets"></a></li>
-           <li>
-               <a href="https://web.archive.org/web/20130928141427/http://fliionosadclick-1954213438.eu-west-1.elb.amazonaws.com/AdClickRegistrationService.svc/RegisterClientClick?OrderCampaignUnitID=0b6135d7-a824-4040-a274-d46c897a190b&amp;TargetURL=http%3a%2f%2fwww.player.nottinghamforest.co.uk%2f&amp;TenantID=FLI" onclick="AdvertisementTracking ('Splash Page : Club Promo Campaign : Forest Player : Forest Player 1', true);" data-optlable="Splash Page : Club Promo Campaign : Forest Player : Forest Player 1" title="Forest Player" target="_blank"><img alt="Forest Player" src="https://web.archive.org/web/20130928141427im_/http://files.fliionos.co.uk/FILES/Clubs/pa_15/EN-US/root/Vendors/ExternalVendors/forestplayer1/images/forestplayer_mini_hptotcm_15-14424.jpg" height="92" width="175" onload="AdvertisementTracking ( 'Splash Page : Club Promo Campaign : Forest Player : Forest Player 1', false);" title="Forest Player"></a></li>
-       
-
-     <input type="hidden" id="objOrders_EE8534FC-592F-4D67-BDA1-E30CF88702D9" value="a791e9b1-da28-4d03-9c23-3818e1a32036,0b6135d7-a824-4040-a274-d46c897a190b" name="objOrders_EE8534FC-592F-4D67-BDA1-E30CF88702D9">
-
-		</ul>
-    </section>
-</div>
-</div>
-
-<!--
-     FILE ARCHIVED ON 14:14:27 Sep 28, 2013 AND RETRIEVED FROM THE
-     INTERNET ARCHIVE ON 08:54:06 Feb 24, 2020.
-     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
-
-     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
-     SECTION 108(a)(3)).
--->
-<!--
-playback timings (ms):
-  exclusion.robots.policy: 0.202
-  captures_list: 114.271
-  LoadShardBlock: 74.312 (3)
-  RedisCDXSource: 20.765
-  load_resource: 89.791
-  esindex: 0.016
-  PetaboxLoader3.datanode: 79.463 (4)
-  PetaboxLoader3.resolve: 49.249
-  CDXLines.iter: 15.536 (3)
-  exclusion.robots: 0.217
---></div></div>
-
-<input name="ctl00$Ionos_BackgroundImage_FullPage$hdnBackgroundImage" type="hidden" id="Ionos_BackgroundImage_FullPage_hdnBackgroundImage" class="hdnBackgroundImage" value="background-image:url(/cms_images/bg-home-240-241968.jpg); background-repeat: no-repeat; background-position: center top">
+<input name="ctl00$Ionos_BackgroundImage_FullPage$hdnBackgroundImage" type="hidden" id="Ionos_BackgroundImage_FullPage_hdnBackgroundImage" class="hdnBackgroundImage" value="background-image:url(/cms_images/bg-home40-301593.jpg); background-repeat: no-repeat; background-position: center top">
 <input name="ctl00$Ionos_BackgroundImage_FullPage$hdnBackgroundImageUrl" type="hidden" id="Ionos_BackgroundImage_FullPage_hdnBackgroundImageUrl" class="hdnBackgroundImageUrl">
 <input name="ctl00$Ionos_BackgroundImage_FullPage$hdnBackgroundImageTrackingKey" type="hidden" id="Ionos_BackgroundImage_FullPage_hdnBackgroundImageTrackingKey" class="hdnBackgroundImageTrackingKey" value="Full Page Background">
-
+ 
 
     <div id="gradient_bg">
     
@@ -244,17 +180,17 @@ var adlSite = 'www.nottinghamforest.co.uk';
 var mfNWID = new Array(979, 1);
 var adlPro = window.location.protocol == 'https:' ? 'https:' : 'http:';
 Addjs(adlSite, adlZone, mfNWID, adlPro);
-</script><script type="text/javascript" src="https://web.archive.org/web/20130301050847/http://js.adlink.net/js?lang=uk&amp;s=www.nottinghamforest.co.uk&amp;z=ROS&amp;d=1582534451693"></script>
+</script>
 
 
 <form method="post" action="#" id="frmSiteMaster">
 <div class="aspNetHidden">
-<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUJODMxMzM3MDE4D2QWAmYPZBYCAgQPZBYEAgEPZBYCZg8WAh4EVGV4dAU7PGRpdiBpZD0nQ2x1YlNwb25zb3JzX2xlYWd1ZV9zcG9uc29yJyBjbGFzcz0nbG9hZGVyJz48L2Rpdj5kAgcPZBYKZg9kFgJmDxYCHwAFTTxkaXYgaWQ9J0NsdWJTcG9uc29yc19uZXdzX3NlY3Rpb25fc2VjdGlvbl9zcG9uc29yX3RvcCcgY2xhc3M9J2xvYWRlcic+PC9kaXY+ZAIBD2QWAgIBDxYCHgtfIUl0ZW1Db3VudAIGFgxmD2QWAmYPFQ0FZmlyc3QEbmV3cwhBbmR5IE1hbiIvbmV3cy9hcnRpY2xlL2FuZHktbWFuLTUzNjE0MC5hc3B4CEFuZHkgTWFuCEFuZHkgTWFuPS9jbXNfaW1hZ2VzL3BsYXllci9hbmR5LXJlaWQtd2VzdGJyb20tNDM0MC0zMDc4NTFfMTUweDExMy5qcGcLMTAgRGVjIDIwMTIiL25ld3MvYXJ0aWNsZS9hbmR5LW1hbi01MzYxNDAuYXNweAAIQW5keSBNYW4IQW5keSBNYW5LU2VhbiBP4oCZRHJpc2NvbGwgc2F5cyBBbmR5IFJlaWQgaXMgdGhlIG1hbiBkZWZlbmRlcnMgaGF0ZSB0byBwbGF5IGFnYWluc3QuZAIBD2QWAmYPFQ0KZXZlbiBmaXJzdARuZXdzE0hhbGYtU2Vhc29uIFRpY2tldHMtL25ld3MvYXJ0aWNsZS9oYWxmLXNlYXNvbi10aWNrZXRzLTUzNTkxNS5hc3B4E0hhbGYtU2Vhc29uIFRpY2tldHMTSGFsZi1TZWFzb24gVGlja2V0czcvY21zX2ltYWdlcy9vdGhlci9oYWxmc3Qtb25zYWxlLTQzNDAtNDkwNjg3XzE1MHgxMTMuanBnCzEwIERlYyAyMDEyLS9uZXdzL2FydGljbGUvaGFsZi1zZWFzb24tdGlja2V0cy01MzU5MTUuYXNweAATSGFsZi1TZWFzb24gVGlja2V0cxNIYWxmLVNlYXNvbiBUaWNrZXRzQSBOb3R0aW5naGFtIEZvcmVzdCYjMzk7cyBIYWxmLVNlYXNvbiBUaWNrZXRzIGFyZSBzdGlsbCBhdmFpbGFibGUuZAICD2QWAmYPFQ0ABG5ld3MZRm91bmRhdGlvbiBKYWNrcG90IFdpbm5lcjMvbmV3cy9hcnRpY2xlL2ZvdW5kYXRpb24tamFja3BvdC13aW5uZXItNTM1NzUxLmFzcHgZRm91bmRhdGlvbiBKYWNrcG90IFdpbm5lchlGb3VuZGF0aW9uIEphY2twb3QgV2lubmVyQi9jbXNfaW1hZ2VzL290aGVyL2ZvdW5kYXRpb24td2lubmVyLTEwMTIxMi00MzQwLTUzNTczM18xNTB4MTEzLmpwZwsxMCBEZWMgMjAxMjMvbmV3cy9hcnRpY2xlL2ZvdW5kYXRpb24tamFja3BvdC13aW5uZXItNTM1NzUxLmFzcHgAGUZvdW5kYXRpb24gSmFja3BvdCBXaW5uZXIZRm91bmRhdGlvbiBKYWNrcG90IFdpbm5lcpwBUmljaGFyZCBTaW1tb25zIGRvZXNu4oCZdCBnZXQgdG8gYXMgbWFueSBvZiBvdXIgZ2FtZXMgYXMgaGUgd291bGQgbGlrZSBidXQgaXQgZGlkbuKAmXQgc3RvcCBoaW0gc2Nvb3BpbmcgdGhlIMKjNCw1MDAgamFja3BvdCBwcml6ZSBpbiB0aGUgRm9yZXN0IEZvdW5kYXRpb24uZAIDD2QWAmYPFQ0EZXZlbgRuZXdzJFZvdGUgRm9yIE5vdmVtYmVyJiMzOTtzIERyZWFtIE1vbWVudDkvbmV3cy9hcnRpY2xlL3ZvdGUtZm9yLW5vdmVtYmVycy1kcmVhbS1tb21lbnQtNTI1MTk5LmFzcHgkVm90ZSBGb3IgTm92ZW1iZXImIzM5O3MgRHJlYW0gTW9tZW50JFZvdGUgRm9yIE5vdmVtYmVyJiMzOTtzIERyZWFtIE1vbWVudC8vY21zX2ltYWdlcy9kcmVhbW1vbWVudC00MzQwLTMyOTMwMF8xNTB4MTEzLmpwZwsxMCBEZWMgMjAxMjkvbmV3cy9hcnRpY2xlL3ZvdGUtZm9yLW5vdmVtYmVycy1kcmVhbS1tb21lbnQtNTI1MTk5LmFzcHgAJFZvdGUgRm9yIE5vdmVtYmVyJiMzOTtzIERyZWFtIE1vbWVudCRWb3RlIEZvciBOb3ZlbWJlciYjMzk7cyBEcmVhbSBNb21lbnRuU3VwcG9ydGVycyBoYXZlIHVudGlsIG1pZG5pZ2h0IG9uIFR1ZXNkYXkgdG8gdm90ZSBmb3IgTm92ZW1iZXLigJlzIFRoZSBCZWQgQ2hhbWJlcnMgRHJlYW0gTW9tZW50IG9mIHRoZSBNb250aC5kAgQPZBYCZg8VDQRsYXN0BXZpZGVvGE5vdHRtIEZvcmVzdCAyIEJ1cm5sZXkgMERodHRwOi8vd3d3LnBsYXllci5ub3R0aW5naGFtZm9yZXN0LmNvLnVrL2xhdGVzdC1uZXdzL2FydGljbGUvMTk2MDkwORhOb3R0bSBGb3Jlc3QgMiBCdXJubGV5IDAYTm90dG0gRm9yZXN0IDIgQnVybmxleSAwOy9jbXNfaW1hZ2VzL3ZpZGVvLzE5NjA5MDktMDExNDczNzMzMDA0MC01MzQ0MDdfMTUweDExMy5qcGVnCzA5IERlYyAyMDEyRGh0dHA6Ly93d3cucGxheWVyLm5vdHRpbmdoYW1mb3Jlc3QuY28udWsvbGF0ZXN0LW5ld3MvYXJ0aWNsZS8xOTYwOTA5D3RhcmdldD0nX2JsYW5rJxhOb3R0bSBGb3Jlc3QgMiBCdXJubGV5IDAYTm90dG0gRm9yZXN0IDIgQnVybmxleSAwIU5vdHRtIEZvcmVzdCAyIEJ1cm5sZXkgaGlnaGxpZ2h0c2QCBQ9kFgJmDxUNCWV2ZW4gbGFzdAV2aWRlbxxFeHRlbmRlZCBIaWdobGlnaHRzOiBCdXJubGV5RGh0dHA6Ly93d3cucGxheWVyLm5vdHRpbmdoYW1mb3Jlc3QuY28udWsvbGF0ZXN0LW5ld3MvYXJ0aWNsZS8zMDA0NDIzHEV4dGVuZGVkIEhpZ2hsaWdodHM6IEJ1cm5sZXkcRXh0ZW5kZWQgSGlnaGxpZ2h0czogQnVybmxleUYvY21zX2ltYWdlcy9tYXRjaC9mb3Jlc3QtYnVybmxleS0wODEyMTItcGxheWVyLTQzNDAtNTMzNzk1XzE1MHgxMTMuanBnCzA5IERlYyAyMDEyRGh0dHA6Ly93d3cucGxheWVyLm5vdHRpbmdoYW1mb3Jlc3QuY28udWsvbGF0ZXN0LW5ld3MvYXJ0aWNsZS8zMDA0NDIzD3RhcmdldD0nX2JsYW5rJxxFeHRlbmRlZCBIaWdobGlnaHRzOiBCdXJubGV5HEV4dGVuZGVkIEhpZ2hsaWdodHM6IEJ1cm5sZXloRm9yZXN0IFBsYXllciBoYXMgZXhjbHVzaXZlIGV4dGVuZGVkIG1hdGNoIGhpZ2hsaWdodHMgb2YgVGhlIFJlZHMgY2xhc2ggd2l0aCBCdXJubGV5IGF0IFRoZSBDaXR5IEdyb3VuZC5kAgMPZBYCZg8WAh8ABdABPCEtLSBQbGFjZW1lbnQ6Tm90dGluZ2hhbSBGb3Jlc3QgUk9TIE1QVSAzMDB4MjUwICgyNzE0OTg5KSAtLT48ZGl2IGlkPSJtZjI3MTQ5ODkiIGNsYXNzPSJtZmMxNzAiPjxzY3JpcHQgdHlwZT0idGV4dC9qYXZhc2NyaXB0Ij5pZiAodHlwZW9mIGdldEhlbGlvc1RhZyA9PSdmdW5jdGlvbicpIGdldEhlbGlvc1RhZygyNzE0OTg5LCAxNzApOzwvc2NyaXB0PjwvZGl2PmQCBA9kFgJmDxYCHwAFuAE8IS0tIFBsYWNlbWVudDpIYWxmIFBhZ2UgKDM3NzUzNTMpIC0tPjxkaXYgaWQ9Im1mMzc3NTM1MyIgY2xhc3M9Im1mYzUyOSI+PHNjcmlwdCB0eXBlPSJ0ZXh0L2phdmFzY3JpcHQiPmlmICh0eXBlb2YgZ2V0SGVsaW9zVGFnID09J2Z1bmN0aW9uJykgZ2V0SGVsaW9zVGFnKDM3NzUzNTMsIDUyOSk7PC9zY3JpcHQ+PC9kaXY+ZAIFD2QWAgIBDxYCHwECAxYGZg9kFgJmDxUKCEFuZHkgTWFuBG5ld3MiL25ld3MvYXJ0aWNsZS9hbmR5LW1hbi01MzYxNDAuYXNweAAIQW5keSBNYW4IQW5keSBNYW49L2Ntc19pbWFnZXMvcGxheWVyL2FuZHktcmVpZC13ZXN0YnJvbS00MzQwLTMwNzg1MV8xNTB4MTEzLmpwZwsxMCBEZWMgMjAxMghBbmR5IE1hbktTZWFuIE/igJlEcmlzY29sbCBzYXlzIEFuZHkgUmVpZCBpcyB0aGUgbWFuIGRlZmVuZGVycyBoYXRlIHRvIHBsYXkgYWdhaW5zdC5kAgEPZBYCZg8VChNIYWxmLVNlYXNvbiBUaWNrZXRzBG5ld3MtL25ld3MvYXJ0aWNsZS9oYWxmLXNlYXNvbi10aWNrZXRzLTUzNTkxNS5hc3B4ABNIYWxmLVNlYXNvbiBUaWNrZXRzE0hhbGYtU2Vhc29uIFRpY2tldHM3L2Ntc19pbWFnZXMvb3RoZXIvaGFsZnN0LW9uc2FsZS00MzQwLTQ5MDY4N18xNTB4MTEzLmpwZwsxMCBEZWMgMjAxMhNIYWxmLVNlYXNvbiBUaWNrZXRzQSBOb3R0aW5naGFtIEZvcmVzdCYjMzk7cyBIYWxmLVNlYXNvbiBUaWNrZXRzIGFyZSBzdGlsbCBhdmFpbGFibGUuZAICD2QWAmYPFQoZRm91bmRhdGlvbiBKYWNrcG90IFdpbm5lcgRuZXdzMy9uZXdzL2FydGljbGUvZm91bmRhdGlvbi1qYWNrcG90LXdpbm5lci01MzU3NTEuYXNweAAZRm91bmRhdGlvbiBKYWNrcG90IFdpbm5lchlGb3VuZGF0aW9uIEphY2twb3QgV2lubmVyQi9jbXNfaW1hZ2VzL290aGVyL2ZvdW5kYXRpb24td2lubmVyLTEwMTIxMi00MzQwLTUzNTczM18xNTB4MTEzLmpwZwsxMCBEZWMgMjAxMhlGb3VuZGF0aW9uIEphY2twb3QgV2lubmVynAFSaWNoYXJkIFNpbW1vbnMgZG9lc27igJl0IGdldCB0byBhcyBtYW55IG9mIG91ciBnYW1lcyBhcyBoZSB3b3VsZCBsaWtlIGJ1dCBpdCBkaWRu4oCZdCBzdG9wIGhpbSBzY29vcGluZyB0aGUgwqM0LDUwMCBqYWNrcG90IHByaXplIGluIHRoZSBGb3Jlc3QgRm91bmRhdGlvbi5kZP/AcOWQGxAnZbb/a0zdFvNdp1Um">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUJODMxMzM3MDE4D2QWAmYPZBYCAgQPZBYEAgEPZBYCZg8WAh4EVGV4dAU7PGRpdiBpZD0nQ2x1YlNwb25zb3JzX2xlYWd1ZV9zcG9uc29yJyBjbGFzcz0nbG9hZGVyJz48L2Rpdj5kAgcPZBYGZg9kFgJmDxYCHwAFTTxkaXYgaWQ9J0NsdWJTcG9uc29yc19uZXdzX3NlY3Rpb25fc2VjdGlvbl9zcG9uc29yX3RvcCcgY2xhc3M9J2xvYWRlcic+PC9kaXY+ZAIBD2QWAgIBDxYCHgtfIUl0ZW1Db3VudAIGFgxmD2QWAmYPFQ0FZmlyc3QEbmV3cxRTZWFzb24gVGlja2V0IFVwZGF0ZS4vbmV3cy9hcnRpY2xlL3NlYXNvbi10aWNrZXQtdXBkYXRlLTg3NjE5Ni5hc3B4FFNlYXNvbiBUaWNrZXQgVXBkYXRlFFNlYXNvbiBUaWNrZXQgVXBkYXRlKy9jbXNfaW1hZ2VzL25ld3Mvc3QtNDM0MC04NzYxNzBfMTUweDExMy5qcGcLMjEgSnVuIDIwMTMuL25ld3MvYXJ0aWNsZS9zZWFzb24tdGlja2V0LXVwZGF0ZS04NzYxOTYuYXNweAAUU2Vhc29uIFRpY2tldCBVcGRhdGUUU2Vhc29uIFRpY2tldCBVcGRhdGVgTm90dGluZ2hhbSBGb3Jlc3QgaGF2ZSByZXBvcnRlZCBzdHJvbmcgc2Vhc29uIHRpY2tldCBzYWxlcyBkdXJpbmcgdGhlIGVhcmx5IGdlbmVyYWwgc2FsZSBwZXJpb2QuZAIBD2QWAmYPFQ0KZXZlbiBmaXJzdARuZXdzDVJleWVzIFJldHVybnMnL25ld3MvYXJ0aWNsZS9yZXllcy1yZXR1cm5zLTg3MzMzOS5hc3B4DVJleWVzIFJldHVybnMNUmV5ZXMgUmV0dXJucz8vY21zX2ltYWdlcy9wbGF5ZXIvZ29uemFsby1qYXJhLXJleWVzLTItNDM0MC04NzMzMzdfMTUweDExMy5qcGcLMTkgSnVuIDIwMTMnL25ld3MvYXJ0aWNsZS9yZXllcy1yZXR1cm5zLTg3MzMzOS5hc3B4AA1SZXllcyBSZXR1cm5zDVJleWVzIFJldHVybnOPAUNoaWxlYW4gaW50ZXJuYXRpb25hbCBHb256YWxvIEphcmEgUmV5ZXMgaGFzIGFncmVlZCBwZXJzb25hbCB0ZXJtcyBvbiBhIGRlYWwgd2hpY2ggd2lsbCBzZWUgaGltIHJldHVybiB0byBOb3R0aW5naGFtIEZvcmVzdCBvbiBhIGZyZWUgdHJhbnNmZXIuZAICD2QWAmYPFQ0ABXZpZGVvHExpY2hhajogJiMzOTtWZXJ5IEhhcHB5JiMzOTt9aHR0cDovL3d3dy5wbGF5ZXIubm90dGluZ2hhbWZvcmVzdC5jby51ay9sYXRlc3QtbmV3cy9hcnRpY2xlLzMyMTMwNDUvZGF0ZS8yMDEzMDYxOTExMDIwMC9wYWdlLzAvbmFtZS9MaWNoYWo6LSUyN1ZlcnktSGFwcHklMjccTGljaGFqOiAmIzM5O1ZlcnkgSGFwcHkmIzM5OxxMaWNoYWo6ICYjMzk7VmVyeSBIYXBweSYjMzk7Oy9jbXNfaW1hZ2VzL3ZpZGVvLzMyMTMwNDUtMDEyMDE3MTU0MDA0MC04NzMzOTRfMTUweDExMy5qcGVnCzE5IEp1biAyMDEzfWh0dHA6Ly93d3cucGxheWVyLm5vdHRpbmdoYW1mb3Jlc3QuY28udWsvbGF0ZXN0LW5ld3MvYXJ0aWNsZS8zMjEzMDQ1L2RhdGUvMjAxMzA2MTkxMTAyMDAvcGFnZS8wL25hbWUvTGljaGFqOi0lMjdWZXJ5LUhhcHB5JTI3D3RhcmdldD0nX2JsYW5rJxxMaWNoYWo6ICYjMzk7VmVyeSBIYXBweSYjMzk7HExpY2hhajogJiMzOTtWZXJ5IEhhcHB5JiMzOTtTRGVmZW5kZXIgRXJpYyBMaWNoYWogdGVsbHMgRm9yZXN0IFBsYXllciBvZiBoaXMgZGVsaWdodCBhZnRlciBzaWduaW5nIGZvciBUaGUgUmVkcy5kAgMPZBYCZg8VDQRldmVuBG5ld3MSTGljaGFqIExvb2tzIEFoZWFkLC9uZXdzL2FydGljbGUvbGljaGFqLWxvb2tzLWFoZWFkLTg3MDk3OC5hc3B4EkxpY2hhaiBMb29rcyBBaGVhZBJMaWNoYWogTG9va3MgQWhlYWRHL2Ntc19pbWFnZXMvcGxheWVyL2VyaWMtbGljaGFqLXNpZ25pbmctMi0xODA2MTMtNDM0MC04NzA5NDBfMTUweDExMy5qcGcLMTkgSnVuIDIwMTMsL25ld3MvYXJ0aWNsZS9saWNoYWotbG9va3MtYWhlYWQtODcwOTc4LmFzcHgAEkxpY2hhaiBMb29rcyBBaGVhZBJMaWNoYWogTG9va3MgQWhlYWSQAU5ldyBOb3R0aW5naGFtIEZvcmVzdCBzaWduaW5nIEVyaWMgTGljaGFqIGhhcyBpbnNpc3RlZCB0aGF0IGhlIGlzIOKAmGZvY3VzaW5nIG9uIHRoZSBmdXR1cmXigJkgYWZ0ZXIgcGVubmluZyBhIHR3by15ZWFyIGRlYWwgYXQgVGhlIENpdHkgR3JvdW5kLmQCBA9kFgJmDxUNBGxhc3QEbmV3cw5Fcmlj4oCZcyBBIFJlZCUvbmV3cy9hcnRpY2xlL2VyaWNzLWEtcmVkLTg3MDk4NC5hc3B4DkVyaWPigJlzIEEgUmVkDkVyaWPigJlzIEEgUmVkRS9jbXNfaW1hZ2VzL3BsYXllci9lcmljLWxpY2hhai1zaWduaW5nLTE4MDYxMy00MzQwLTg3MDk0NF8xNTB4MTEzLmpwZwsxOSBKdW4gMjAxMyUvbmV3cy9hcnRpY2xlL2VyaWNzLWEtcmVkLTg3MDk4NC5hc3B4AA5Fcmlj4oCZcyBBIFJlZA5Fcmlj4oCZcyBBIFJlZGJOb3R0aW5naGFtIEZvcmVzdCBoYXZlIGFubm91bmNlZCB0aGUgc2lnbmluZyBvZiBBbWVyaWNhbiBmdWxsIGJhY2sgRXJpYyBMaWNoYWogb24gYSBmcmVlIHRyYW5zZmVyLmQCBQ9kFgJmDxUNCWV2ZW4gbGFzdARuZXdzEkZpeHR1cmVzIEFubm91bmNlZCwvbmV3cy9hcnRpY2xlL2ZpeHR1cmVzLWFubm91bmNlZC04NzE2ODguYXNweBJGaXh0dXJlcyBBbm5vdW5jZWQSRml4dHVyZXMgQW5ub3VuY2VkMy9jbXNfaW1hZ2VzL2ZsLWNoYW1waW9uc2hpcC00MzQwLTg3MTY4Nl8xNTB4MTEzLmpwZwsxOSBKdW4gMjAxMywvbmV3cy9hcnRpY2xlL2ZpeHR1cmVzLWFubm91bmNlZC04NzE2ODguYXNweAASRml4dHVyZXMgQW5ub3VuY2VkEkZpeHR1cmVzIEFubm91bmNlZExGaXh0dXJlcyBmb3IgdGhlIHVwY29taW5nIDIwMTMtMTQgQ2hhbXBpb25zaGlwIGNhbXBhaWduIGhhdmUgYmVlbiBhbm5vdW5jZWQuZAIFD2QWAgIBDxYCHwECAxYGZg9kFgJmDxUKFFNlYXNvbiBUaWNrZXQgVXBkYXRlBG5ld3MuL25ld3MvYXJ0aWNsZS9zZWFzb24tdGlja2V0LXVwZGF0ZS04NzYxOTYuYXNweAAUU2Vhc29uIFRpY2tldCBVcGRhdGUUU2Vhc29uIFRpY2tldCBVcGRhdGUrL2Ntc19pbWFnZXMvbmV3cy9zdC00MzQwLTg3NjE3MF8xNTB4MTEzLmpwZwsyMSBKdW4gMjAxMxRTZWFzb24gVGlja2V0IFVwZGF0ZWBOb3R0aW5naGFtIEZvcmVzdCBoYXZlIHJlcG9ydGVkIHN0cm9uZyBzZWFzb24gdGlja2V0IHNhbGVzIGR1cmluZyB0aGUgZWFybHkgZ2VuZXJhbCBzYWxlIHBlcmlvZC5kAgEPZBYCZg8VCg1SZXllcyBSZXR1cm5zBG5ld3MnL25ld3MvYXJ0aWNsZS9yZXllcy1yZXR1cm5zLTg3MzMzOS5hc3B4AA1SZXllcyBSZXR1cm5zDVJleWVzIFJldHVybnM/L2Ntc19pbWFnZXMvcGxheWVyL2dvbnphbG8tamFyYS1yZXllcy0yLTQzNDAtODczMzM3XzE1MHgxMTMuanBnCzE5IEp1biAyMDEzDVJleWVzIFJldHVybnOPAUNoaWxlYW4gaW50ZXJuYXRpb25hbCBHb256YWxvIEphcmEgUmV5ZXMgaGFzIGFncmVlZCBwZXJzb25hbCB0ZXJtcyBvbiBhIGRlYWwgd2hpY2ggd2lsbCBzZWUgaGltIHJldHVybiB0byBOb3R0aW5naGFtIEZvcmVzdCBvbiBhIGZyZWUgdHJhbnNmZXIuZAICD2QWAmYPFQocTGljaGFqOiAmIzM5O1ZlcnkgSGFwcHkmIzM5OwV2aWRlb31odHRwOi8vd3d3LnBsYXllci5ub3R0aW5naGFtZm9yZXN0LmNvLnVrL2xhdGVzdC1uZXdzL2FydGljbGUvMzIxMzA0NS9kYXRlLzIwMTMwNjE5MTEwMjAwL3BhZ2UvMC9uYW1lL0xpY2hhajotJTI3VmVyeS1IYXBweSUyNw90YXJnZXQ9J19ibGFuayccTGljaGFqOiAmIzM5O1ZlcnkgSGFwcHkmIzM5OxxMaWNoYWo6ICYjMzk7VmVyeSBIYXBweSYjMzk7Oy9jbXNfaW1hZ2VzL3ZpZGVvLzMyMTMwNDUtMDEyMDE3MTU0MDA0MC04NzMzOTRfMTUweDExMy5qcGVnCzE5IEp1biAyMDEzHExpY2hhajogJiMzOTtWZXJ5IEhhcHB5JiMzOTtTRGVmZW5kZXIgRXJpYyBMaWNoYWogdGVsbHMgRm9yZXN0IFBsYXllciBvZiBoaXMgZGVsaWdodCBhZnRlciBzaWduaW5nIGZvciBUaGUgUmVkcy5kZKVkwMxEjCU0+/y6PhQTcGYibP5k">
 </div>
 
 <div class="aspNetHidden">
 
-	<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEWBgKz6rDdCQLxt6buAgKD6Zv+AwK4l9ypDQKMw8L1CQK1k/qOAT7P9j+rgP/aQz1ptYfPzBTt0St2">
+	<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEWBgLb6bW2BgLxt6buAgKD6Zv+AwK4l9ypDQKMw8L1CQK1k/qOAdGYsfQeyOOtvdzN33IZC+vetS4v">
 </div>
 
 <span title="" id="skip-link"><a title="Skip to main content" accesskey="0" href="#content">Skip to main content</a></span>
@@ -263,9 +199,32 @@ Addjs(adlSite, adlZone, mfNWID, adlPro);
 
 <script>
 
-   adloader.push({ "url": "/UserControls/IONOS/Ionos_High_Media.ascx", "params": { "IsCPA": 'false', "HasTitle": 'False', "HasLink": 'False',"HasDescription": 'False',"HasLink": 'False', "hasLiTags": '',"IsFooter": 'False', "AdData": '3245C556-2D2A-432F-93F9-98CCFE7ACAFD$$$pa_15$$$AlwayOn|AlwaysOn$$$1', "SectionName": 'League Sponsor', "ClubName": '' , "isCached" : '', "CacheKey": 'ClubSponsors_league_sponsor', "CombineAdRequest": 'False', "PoweredByText": '' , "PoweredInNextLine": 'False' }, "args": { "el": "#ClubSponsors_league_sponsor"} })
+
+   adloader.push({ "url": "/UserControls/IONOS/Ionos_High_Media.ascx", 
+   "params": { 
+    "IsCPA": 'false', 
+    "HasTitle": 'False', 
+    "HasLink": 'False',
+    "HasDescription": 'False',
+    "HasLink": 'False',
+     "hasLiTags": '',
+     "IsFooter": 'False',
+      "AdData": '3245C556-2D2A-432F-93F9-98CCFE7ACAFD$$$pa_15$$$AlwayOn|AlwaysOn$$$1', 
+      "SectionName": 'League Sponsor', 
+      "ClubName": '' ,
+       "isCached" : '',
+        "CacheKey": 'ClubSponsors_league_sponsor', "CombineAdRequest": 'False', 
+        "PoweredByText": '' , "PoweredInNextLine": 'False',
+         "IsNavigationAd" : 'False' 
+       }
+       , "callback" : "sendIonosOrderIds"
+,"args": { 
+            "el": "#ClubSponsors_league_sponsor"
+            ,"addata" : '3245C556-2D2A-432F-93F9-98CCFE7ACAFD$$$pa_15$$$AlwayOn|AlwaysOn$$$1'}
+        })
 
 </script>
+
 <div id="ClubSponsors_league_sponsor" class="loader"></div>
 
 </section>
@@ -286,7 +245,7 @@ Addjs(adlSite, adlZone, mfNWID, adlPro);
                                       <div class="subnavigation" id="newsletter_signup">
 					
 						<fieldset>
-					      	   <p>Get the latest news from the Forest delivered for FREE to your inbox.</p>
+					      	   <p>Get the latest news from Forest delivered for FREE to your inbox.</p>
 						   <label for="email">Email address</label>
 						   <input type="email" name="email" id="email" placeholder="Enter your email address" onkeypress="return subscribeKeyPress(event,'email','emailErrorText');">  
                                                    <span class="error hide" id="emailErrorText">Please enter a valid email address</span>     			                                                
@@ -295,8 +254,8 @@ Addjs(adlSite, adlZone, mfNWID, adlPro);
 					
                                     </div>
                      </li>
-                     <li class="separator">|</li>  
-                     <li><a title="Bet" target="_blank" onclick="EventTracking('External Link', 'Click','Bet');" href="http://affiliates.betbutler.co.uk/processing/clickthrgh.asp?btag=a_157b_33">Bet</a></li>
+          
+
                      <li class="separator">|</li>
                      <li><a onclick="EventTracking('External Link', 'Click','Mobile');" title="Mobile" href="/mobile/">Mobile</a></li>
                      <li class="last">
@@ -340,22 +299,13 @@ Addjs(adlSite, adlZone, mfNWID, adlPro);
           <h4>Features</h4>
           <ul>
             <li>
-              <a title="Sean's Programme Notes - Burnley" href="http://www.nottinghamforest.co.uk/news/article/seans-programme-notes-burnley-531273.aspx" target="_self">Sean's Programme Notes - Burnley</a>
-            </li>
-            <li>
-              <a title="Forest Player" href="http://www.player.nottinghamforest.co.uk/" target="_blank">Forest Player</a>
+              <a title="#NFFC Social Media Guide" href="http://www.nottinghamforest.co.uk/fans/social_media.aspx" target="_self">#NFFC Social Media Guide</a>
             </li>
             <li>
               <a title="Press Talk" href="/news/presstalk.aspx" target="_self">Press Talk</a>
             </li>
             <li>
-              <a title="Facebook" href="https://www.facebook.com/officialnffc" target="_blank">Facebook</a>
-            </li>
-            <li>
-              <a title="Twitter" href="https://twitter.com/Official_NFFC" target="_blank">Twitter</a>
-            </li>
-            <li>
-              <a title="YouTube" href="http://www.youtube.com/NFFCTube" target="_blank">YouTube</a>
+              <a title="Forest Player" href="http://www.player.nottinghamforest.co.uk/" target="_blank">Forest Player</a>
             </li>
           </ul>
         </li>
@@ -400,10 +350,13 @@ Addjs(adlSite, adlZone, mfNWID, adlPro);
           <h4>Features</h4>
           <ul>
             <li>
-              <a title="Download Fixture List" href="http://alfresco.nffc.co.uk/images/website/images/other/nffc_fixtures_1213.jpg" target="_blank">Download Fixture List</a>
+              <a title="Under 21s League Table" href="http://www.nottinghamforest.co.uk/team/under21/under21table.aspx" target="_self">Under 21s League Table</a>
             </li>
             <li>
-              <a title="Download Fixtures to Outlook" href="http://www.nottinghamforest.co.uk/createfixturecalendar.aspx?teamID=15&amp;seasonStartDate=20120801&amp;seasonEndDate=20130531" target="_blank">Download Fixtures to Outlook</a>
+              <a title="Academy League Table" href="http://www.nottinghamforest.co.uk/team/academy/leaguetable.aspx" target="_self">Academy League Table</a>
+            </li>
+            <li>
+              <a title="Phones 4u Fantasy Football" href="http://fantasy.football-league.co.uk/" target="_blank">Phones 4u Fantasy Football</a>
             </li>
           </ul>
         </li>
@@ -431,13 +384,10 @@ Addjs(adlSite, adlZone, mfNWID, adlPro);
           <h4>In this section</h4>
           <ul>
             <li>
-              <a title="Home Tickets" href="/Tickets/hometickets/">Home Tickets</a>
-            </li>
-            <li>
               <a title="Away Tickets" href="/Tickets/awaytickets/">Away Tickets</a>
             </li>
             <li>
-              <a title="Half Season Tickets" href="/Tickets/halfseasontickets/">Half Season Tickets</a>
+              <a title="2013-14 Season Tickets" href="/Tickets/seasontickets/">2013-14 Season Tickets</a>
             </li>
             <li>
               <a title="Membership" href="/Tickets/membership/">Membership</a>
@@ -458,6 +408,9 @@ Addjs(adlSite, adlZone, mfNWID, adlPro);
             </li>
             <li>
               <a title="FAQ" href="/Tickets/faq/index.aspx" target="_self">FAQ</a>
+            </li>
+            <li>
+              <a title="Supporters With A Disability" href="/Tickets/disability.aspx" target="_self">Supporters With A Disability</a>
             </li>
             <li>
               <a title="Travel and Parking" href="/Tickets/travel_parking/index.aspx" target="_self">Travel and Parking</a>
@@ -497,10 +450,10 @@ Addjs(adlSite, adlZone, mfNWID, adlPro);
               <a title="Staff Profiles" href="/team/staffprofiles/">Staff Profiles</a>
             </li>
             <li>
-              <a title="Under 21s" href="/team/under21/">Under 21s</a>
+              <a title="Under 21s Homepage" href="/team/under21/">Under 21s Homepage</a>
             </li>
             <li>
-              <a title="Academy" href="/team/academy/">Academy</a>
+              <a title="Academy Homepage" href="/team/academy/">Academy Homepage</a>
             </li>
             <li>
               <a title="Ladies Team" href="/team/ladies-team/">Ladies Team</a>
@@ -517,16 +470,10 @@ Addjs(adlSite, adlZone, mfNWID, adlPro);
               <a title="Dream Moment of the Month" href="/team/dreammoment.aspx" target="_self">Dream Moment of the Month</a>
             </li>
             <li>
-              <a title="Season Stats" href="/team/stats.aspx" target="_self">Season Stats</a>
-            </li>
-            <li>
-              <a title="Disciplinary Record" href="/team/suspensions_injuries.aspx" target="_self">Disciplinary Record</a>
-            </li>
-            <li>
               <a title="Injuries" href="/team/injuries.aspx" target="_self">Injuries</a>
             </li>
             <li>
-              <a title="Transfers" href="/team/transfers.aspx" target="_self">Transfers</a>
+              <a title="2013-14 Transfers" href="http://www.nottinghamforest.co.uk/team/transfers_1314.aspx" target="_self">2013-14 Transfers</a>
             </li>
           </ul>
         </li>
@@ -570,6 +517,12 @@ Addjs(adlSite, adlZone, mfNWID, adlPro);
             <li>
               <a title="Disciplinary Record" href="/team/suspensions_injuries.aspx" target="_self">Disciplinary Record</a>
             </li>
+            <li>
+              <a title="Academy Stats" href="http://www.nottinghamforest.co.uk/team/academy/stats.aspx" target="_self">Academy Stats</a>
+            </li>
+            <li>
+              <a title="FA - Rules &amp; Governance" href="http://www.thefa.com/football-rules-governance" target="_blank">FA - Rules &amp; Governance</a>
+            </li>
           </ul>
         </li>
         <li class="advertorial loader" id="navigation_club_cross_sell_5">
@@ -596,7 +549,7 @@ Addjs(adlSite, adlZone, mfNWID, adlPro);
           <h4>In this section</h4>
           <ul>
             <li>
-              <a title="Junior Supporters" href="/fans/juniorsupporters/">Junior Supporters</a>
+              <a title="Young Supporters Area" href="/fans/youngsupporters/">Young Supporters Area</a>
             </li>
             <li>
               <a title="Supporters Club" href="/fans/supporters-club/">Supporters Club</a>
@@ -616,16 +569,10 @@ Addjs(adlSite, adlZone, mfNWID, adlPro);
           <h4>Features</h4>
           <ul>
             <li>
-              <a title="Facebook" href="https://www.facebook.com/officialnffc" target="_blank">Facebook</a>
+              <a title="#NFFC Social Media Guide" href="http://www.nottinghamforest.co.uk/fans/social_media.aspx" target="_self">#NFFC Social Media Guide</a>
             </li>
             <li>
-              <a title="Twitter" href="https://twitter.com/Official_NFFC" target="_blank">Twitter</a>
-            </li>
-            <li>
-              <a title="YouTube" href="http://www.youtube.com/NFFCTube" target="_blank">YouTube</a>
-            </li>
-            <li>
-              <a title="Downloads" href="/fans/wallpapers.aspx" target="_self">Downloads</a>
+              <a title="Wallpapers" href="/fans/wallpapers.aspx" target="_self">Wallpapers</a>
             </li>
             <li>
               <a title="Fan Talk" href="/fans/fantalk/fantalk.aspx" target="_self">Fan Talk</a>
@@ -634,7 +581,10 @@ Addjs(adlSite, adlZone, mfNWID, adlPro);
               <a title="Reds Reviews" href="/fans/redsreviews.aspx" target="_self">Reds Reviews</a>
             </li>
             <li>
-              <a title="New Fan Guide" href="http://alfresco.nffc.co.uk/images/website/other/new_fan_guide_1213.pdf" target="_self">New Fan Guide</a>
+              <a title="New Fan Guide" href="http://www.nottinghamforest.co.uk/documents/new-fan-guide-121340-826280.PDF" target="_blank">New Fan Guide</a>
+            </li>
+            <li>
+              <a title="FL Fan Panel" href="https://www.thechangingroom.uk.com/R.aspx?a=30" target="_blank">FL Fan Panel</a>
             </li>
           </ul>
         </li>
@@ -700,10 +650,10 @@ Addjs(adlSite, adlZone, mfNWID, adlPro);
               <a title="Who's Who" href="/club/whoswho.aspx" target="_self">Who's Who</a>
             </li>
             <li>
-              <a title="City Ground Tours" href="/club/tours.aspx" target="_self">City Ground Tours</a>
+              <a title="Stadium Tours" href="/club/tours.aspx" target="_self">Stadium Tours</a>
             </li>
             <li>
-              <a title="Jobs at Forest" href="/club/jobs.aspx" target="_self">Jobs at Forest</a>
+              <a title="Jobs at Forest" href="http://www.nottinghamforest.co.uk/global/careers.aspx" target="_self">Jobs at Forest</a>
             </li>
             <li>
               <a title="Feedback" href="/club/feedback.aspx" target="_self">Feedback</a>
@@ -754,19 +704,22 @@ Addjs(adlSite, adlZone, mfNWID, adlPro);
           <h4>Features</h4>
           <ul>
             <li>
-              <a title="The Christmas Cracker" href="http://www.nottinghamforest.co.uk/news/article/the-christmas-cracker-456203.aspx" target="_self">The Christmas Cracker</a>
+              <a title="2013-14 Hospitality Season Tickets" href="http://www.nottinghamforest.co.uk/news/article/2013-14-hospitality-season-tickets-822714.aspx" target="_self">2013-14 Hospitality Season Tickets</a>
             </li>
             <li>
-              <a title="Hospitality Half Season Tickets" href="http://www.nottinghamforest.co.uk/news/article/hospitality-half-season-tickets-201213-490726.aspx" target="_self">Hospitality Half Season Tickets</a>
+              <a title="Hospitality Video" href="http://www.nottinghamforest.co.uk/commercial/video.aspx" target="_blank">Hospitality Video</a>
             </li>
             <li>
-              <a title="November's Commerical Newsletter" href="http://alfresco.nffc.co.uk/images/November_Corporate_Newsletter.pdf" target="_blank">November's Commerical Newsletter</a>
+              <a title="April's Commerical Newsletter" href="http://www.nottinghamforest.co.uk/documents/commercial-newsletter-april40-826106.pdf" target="_blank">April's Commerical Newsletter</a>
             </li>
             <li>
-              <a title="Ashes Hospitality" href="http://www.nottinghamforest.co.uk/news/article/ashes-hospitality-427266.aspx" target="_self">Ashes Hospitality</a>
+              <a title="John Pye Auctions" href="http://www.johnpye.co.uk/dt_portfolio/welcome/" target="_blank">John Pye Auctions</a>
             </li>
             <li>
-              <a title="Golf Day 2012" href="http://www.nottinghamforest.co.uk/news/article/golf-day-success-365749.aspx" target="_self">Golf Day 2012</a>
+              <a title="Big Screen Messages" href="http://www.nottinghamforest.co.uk/news/article/your-name-in-lights-600202.aspx" target="_self">Big Screen Messages</a>
+            </li>
+            <li>
+              <a title="Mascot Package" href="http://www.nottinghamforest.co.uk/commercial/sponsorship/mascot.aspx" target="_self">Mascot Package</a>
             </li>
             <li>
               <a title="Match Sponsors" href="/commercial/commercialnews/matchsponsors.aspx" target="_self">Match Sponsors</a>
@@ -1022,9 +975,32 @@ _e_117p_0</td><td>Facebook cookies created when Facebook share or like links cli
 
 <script>
 
-   adloader.push({ "url": "/UserControls/IONOS/Ionos_High_Media.ascx", "params": { "IsCPA": 'false', "HasTitle": 'False', "HasLink": 'False',"HasDescription": 'False',"HasLink": 'False', "hasLiTags": '',"IsFooter": 'False', "AdData": '0C0D36C6-8E96-48CF-BDFA-CD1518653068$$$pa_15$$$AlwayOn|AlwaysOn$$$1', "SectionName": '', "ClubName": 'Nottingham Forest' , "isCached" : '', "CacheKey": 'ClubSponsors_news_section_section_sponsor_top', "CombineAdRequest": 'False', "PoweredByText": '' , "PoweredInNextLine": 'False' }, "args": { "el": "#ClubSponsors_news_section_section_sponsor_top"} })
+
+   adloader.push({ "url": "/UserControls/IONOS/Ionos_High_Media.ascx", 
+   "params": { 
+    "IsCPA": 'false', 
+    "HasTitle": 'False', 
+    "HasLink": 'False',
+    "HasDescription": 'False',
+    "HasLink": 'False',
+     "hasLiTags": '',
+     "IsFooter": 'False',
+      "AdData": '0C0D36C6-8E96-48CF-BDFA-CD1518653068$$$pa_15$$$AlwayOn|AlwaysOn$$$1', 
+      "SectionName": '', 
+      "ClubName": 'Nottingham Forest' ,
+       "isCached" : '',
+        "CacheKey": 'ClubSponsors_news_section_section_sponsor_top', "CombineAdRequest": 'False', 
+        "PoweredByText": '' , "PoweredInNextLine": 'False',
+         "IsNavigationAd" : 'False' 
+       }
+       , "callback" : "sendIonosOrderIds"
+,"args": { 
+            "el": "#ClubSponsors_news_section_section_sponsor_top"
+            ,"addata" : '0C0D36C6-8E96-48CF-BDFA-CD1518653068$$$pa_15$$$AlwayOn|AlwaysOn$$$1'}
+        })
 
 </script>
+
 <div id="ClubSponsors_news_section_section_sponsor_top" class="loader"></div>
 
 
@@ -1039,45 +1015,45 @@ _e_117p_0</td><td>Facebook cookies created when Facebook share or like links cli
     <ul>
         
                 <li class="first">
-                <a class="thumb news" title="Andy Man" href="/news/article/andy-man-536140.aspx"><span></span><img alt="Andy Man" title="Andy Man" src="/cms_images/player/andy-reid-westbrom-4340-307851_150x113.jpg" width="68" height="51"></a>
-                <p class="info"><strong>10 Dec 2012</strong><br>
-                <a href="/news/article/andy-man-536140.aspx" title="Andy Man" data-mxl="26" class="mxl">Andy Man</a>
-                <span class="mxl" data-mxl="65">Sean O’Driscoll says Andy Reid is the man defenders hate to play against.</span></p>
+                <a class="thumb news" title="Season Ticket Update" href="/news/article/season-ticket-update-876196.aspx"><span></span><img alt="Season Ticket Update" title="Season Ticket Update" src="/cms_images/news/st-4340-876170_150x113.jpg" width="68" height="51"></a>
+                <p class="info"><strong>21 Jun 2013</strong><br>
+                <a href="/news/article/season-ticket-update-876196.aspx" title="Season Ticket Update" data-mxl="26" class="mxl">Season Ticket Update</a>
+                <span class="mxl" data-mxl="65">Nottingham Forest have reported strong season ticket sales during the early general sale period.</span></p>
                 </li>
             
                 <li class="even first">
-                <a class="thumb news" title="Half-Season Tickets" href="/news/article/half-season-tickets-535915.aspx"><span></span><img alt="Half-Season Tickets" title="Half-Season Tickets" src="/cms_images/other/halfst-onsale-4340-490687_150x113.jpg" width="68" height="51"></a>
-                <p class="info"><strong>10 Dec 2012</strong><br>
-                <a href="/news/article/half-season-tickets-535915.aspx" title="Half-Season Tickets" data-mxl="26" class="mxl">Half-Season Tickets</a>
-                <span class="mxl" data-mxl="65"> Nottingham Forest's Half-Season Tickets are still available.</span></p>
+                <a class="thumb news" title="Reyes Returns" href="/news/article/reyes-returns-873339.aspx"><span></span><img alt="Reyes Returns" title="Reyes Returns" src="/cms_images/player/gonzalo-jara-reyes-2-4340-873337_150x113.jpg" width="68" height="51"></a>
+                <p class="info"><strong>19 Jun 2013</strong><br>
+                <a href="/news/article/reyes-returns-873339.aspx" title="Reyes Returns" data-mxl="26" class="mxl">Reyes Returns</a>
+                <span class="mxl" data-mxl="65">Chilean international Gonzalo Jara Reyes has agreed personal terms on a deal which will see him return to Nottingham Forest on a free transfer.</span></p>
                 </li>
             
                 <li class="">
-                <a class="thumb news" title="Foundation Jackpot Winner" href="/news/article/foundation-jackpot-winner-535751.aspx"><span></span><img alt="Foundation Jackpot Winner" title="Foundation Jackpot Winner" src="/cms_images/other/foundation-winner-101212-4340-535733_150x113.jpg" width="68" height="51"></a>
-                <p class="info"><strong>10 Dec 2012</strong><br>
-                <a href="/news/article/foundation-jackpot-winner-535751.aspx" title="Foundation Jackpot Winner" data-mxl="26" class="mxl">Foundation Jackpot Winner</a>
-                <span class="mxl" data-mxl="65">Richard Simmons doesn’t get to as many of our games as he would like but it didn’t stop him scooping the £4,500 jackpot prize in the Forest Foundation.</span></p>
+                <a class="thumb video" title="Lichaj: 'Very Happy'" href="http://www.player.nottinghamforest.co.uk/latest-news/article/3213045/date/20130619110200/page/0/name/Lichaj:-%27Very-Happy%27"><span></span><img alt="Lichaj: 'Very Happy'" title="Lichaj: 'Very Happy'" src="/cms_images/video/3213045-0120171540040-873394_150x113.jpeg" width="68" height="51"></a>
+                <p class="info"><strong>19 Jun 2013</strong><br>
+                <a href="http://www.player.nottinghamforest.co.uk/latest-news/article/3213045/date/20130619110200/page/0/name/Lichaj:-%27Very-Happy%27" target="_blank" title="Lichaj: 'Very Happy'" data-mxl="26" class="mxl">Lichaj: 'Very Happy'</a>
+                <span class="mxl" data-mxl="65">Defender Eric Lichaj tells Forest Player of his delight after signing for The Reds.</span></p>
                 </li>
             
                 <li class="even">
-                <a class="thumb news" title="Vote For November's Dream Moment" href="/news/article/vote-for-novembers-dream-moment-525199.aspx"><span></span><img alt="Vote For November's Dream Moment" title="Vote For November's Dream Moment" src="/cms_images/dreammoment-4340-329300_150x113.jpg" width="68" height="51"></a>
-                <p class="info"><strong>10 Dec 2012</strong><br>
-                <a href="/news/article/vote-for-novembers-dream-moment-525199.aspx" title="Vote For November's Dream Moment" data-mxl="26" class="mxl">Vote For November's Dream Moment</a>
-                <span class="mxl" data-mxl="65">Supporters have until midnight on Tuesday to vote for November’s The Bed Chambers Dream Moment of the Month.</span></p>
+                <a class="thumb news" title="Lichaj Looks Ahead" href="/news/article/lichaj-looks-ahead-870978.aspx"><span></span><img alt="Lichaj Looks Ahead" title="Lichaj Looks Ahead" src="/cms_images/player/eric-lichaj-signing-2-180613-4340-870940_150x113.jpg" width="68" height="51"></a>
+                <p class="info"><strong>19 Jun 2013</strong><br>
+                <a href="/news/article/lichaj-looks-ahead-870978.aspx" title="Lichaj Looks Ahead" data-mxl="26" class="mxl">Lichaj Looks Ahead</a>
+                <span class="mxl" data-mxl="65">New Nottingham Forest signing Eric Lichaj has insisted that he is ‘focusing on the future’ after penning a two-year deal at The City Ground.</span></p>
                 </li>
             
                 <li class="last">
-                <a class="thumb video" title="Nottm Forest 2 Burnley 0" href="http://www.player.nottinghamforest.co.uk/latest-news/article/1960909"><span></span><img alt="Nottm Forest 2 Burnley 0" title="Nottm Forest 2 Burnley 0" src="/cms_images/video/1960909-0114737330040-534407_150x113.jpeg" width="68" height="51"></a>
-                <p class="info"><strong>09 Dec 2012</strong><br>
-                <a href="http://www.player.nottinghamforest.co.uk/latest-news/article/1960909" target="_blank" title="Nottm Forest 2 Burnley 0" data-mxl="26" class="mxl">Nottm Forest 2 Burnley 0</a>
-                <span class="mxl" data-mxl="65">Nottm Forest 2 Burnley highlights</span></p>
+                <a class="thumb news" title="Eric’s A Red" href="/news/article/erics-a-red-870984.aspx"><span></span><img alt="Eric’s A Red" title="Eric’s A Red" src="/cms_images/player/eric-lichaj-signing-180613-4340-870944_150x113.jpg" width="68" height="51"></a>
+                <p class="info"><strong>19 Jun 2013</strong><br>
+                <a href="/news/article/erics-a-red-870984.aspx" title="Eric’s A Red" data-mxl="26" class="mxl">Eric’s A Red</a>
+                <span class="mxl" data-mxl="65">Nottingham Forest have announced the signing of American full back Eric Lichaj on a free transfer.</span></p>
                 </li>
             
                 <li class="even last">
-                <a class="thumb video" title="Extended Highlights: Burnley" href="http://www.player.nottinghamforest.co.uk/latest-news/article/3004423"><span></span><img alt="Extended Highlights: Burnley" title="Extended Highlights: Burnley" src="/cms_images/match/forest-burnley-081212-player-4340-533795_150x113.jpg" width="68" height="51"></a>
-                <p class="info"><strong>09 Dec 2012</strong><br>
-                <a href="http://www.player.nottinghamforest.co.uk/latest-news/article/3004423" target="_blank" title="Extended Highlights: Burnley" data-mxl="26" class="mxl">Extended Highlights: Burnley</a>
-                <span class="mxl" data-mxl="65">Forest Player has exclusive extended match highlights of The Reds clash with Burnley at The City Ground.</span></p>
+                <a class="thumb news" title="Fixtures Announced" href="/news/article/fixtures-announced-871688.aspx"><span></span><img alt="Fixtures Announced" title="Fixtures Announced" src="/cms_images/fl-championship-4340-871686_150x113.jpg" width="68" height="51"></a>
+                <p class="info"><strong>19 Jun 2013</strong><br>
+                <a href="/news/article/fixtures-announced-871688.aspx" title="Fixtures Announced" data-mxl="26" class="mxl">Fixtures Announced</a>
+                <span class="mxl" data-mxl="65">Fixtures for the upcoming 2013-14 Championship campaign have been announced.</span></p>
                 </li>
             
     </ul>
@@ -1110,35 +1086,35 @@ _e_117p_0</td><td>Facebook cookies created when Facebook share or like links cli
   <ul>
    
 	  <li>
-		<a title="Nottm Forest 2 Burnley 0" href="http://www.player.nottinghamforest.co.uk/latest-news/article/1960909" onclick="EventTracking('Image', 'View','Video Players images in Video Listing');" target="_blank"><span></span>
-            <img alt="Nottm Forest 2 Burnley 0" title="Nottm Forest 2 Burnley 0" src="/cms_images/video/1960909-0114737330040-534407_150x113.jpeg" width="68" height="51">
+		<a title="Lichaj: 'Very Happy'" href="http://www.player.nottinghamforest.co.uk/latest-news/article/3213045/date/20130619110200/page/0/name/Lichaj:-%27Very-Happy%27" onclick="EventTracking('Image', 'View','Video Players images in Video Listing');" target="_blank"><span></span>
+            <img alt="Lichaj: 'Very Happy'" title="Lichaj: 'Very Happy'" src="/cms_images/video/3213045-0120171540040-873394_150x113.jpeg" width="68" height="51">
             </a>
-            <a title="Nottm Forest 2 Burnley 0" href="http://www.player.nottinghamforest.co.uk/latest-news/article/1960909" onclick="EventTracking('External Link', 'Click','Video Players link');" target="_blank">
-            Nottm Forest 2 Burnley 0
+            <a title="Lichaj: 'Very Happy'" href="http://www.player.nottinghamforest.co.uk/latest-news/article/3213045/date/20130619110200/page/0/name/Lichaj:-%27Very-Happy%27" onclick="EventTracking('External Link', 'Click','Video Players link');" target="_blank">
+            Lichaj: 'Very Happy'
             </a>
-			<span>1 day ago</span>
+			<span>3 days ago</span>
 				
 			</li>
 			  
 	  <li>
-		<a title="Extended Highlights: Burnley" href="http://www.player.nottinghamforest.co.uk/latest-news/article/3004423" onclick="EventTracking('Image', 'View','Video Players images in Video Listing');" target="_blank"><span></span>
-            <img alt="Extended Highlights: Burnley" title="Extended Highlights: Burnley" src="/cms_images/match/forest-burnley-081212-player-4340-533795_150x113.jpg" width="68" height="51">
+		<a title="2012-13 Season Review Part 3" href="http://www.player.nottinghamforest.co.uk/latest-news/article/3188619" onclick="EventTracking('Image', 'View','Video Players images in Video Listing');" target="_blank"><span></span>
+            <img alt="2012-13 Season Review Part 3" title="2012-13 Season Review Part 3" src="/cms_images/video/3188619-0119588940040-834790_150x113.jpeg" width="68" height="51">
             </a>
-            <a title="Extended Highlights: Burnley" href="http://www.player.nottinghamforest.co.uk/latest-news/article/3004423" onclick="EventTracking('External Link', 'Click','Video Players link');" target="_blank">
-            Extended Highlights: Burnley
+            <a title="2012-13 Season Review Part 3" href="http://www.player.nottinghamforest.co.uk/latest-news/article/3188619" onclick="EventTracking('External Link', 'Click','Video Players link');" target="_blank">
+            2012-13 Season Review Part 3
             </a>
-			<span>1 day ago</span>
+			<span>24 May 2013</span>
 				
 			</li>
 			  
 	  <li>
-		<a title="Forest v Burnley Goals" href="http://www.player.nottinghamforest.co.uk/latest-news/article/3004433" onclick="EventTracking('Image', 'View','Video Players images in Video Listing');" target="_blank"><span></span>
-            <img alt="Forest v Burnley Goals" title="Forest v Burnley Goals" src="/cms_images/video/3004433-0114730100040-534075_150x113.jpeg" width="68" height="51">
+		<a title="2012-13 Season Review Part 2" href="http://www.player.nottinghamforest.co.uk/latest-news/article/3188620" onclick="EventTracking('Image', 'View','Video Players images in Video Listing');" target="_blank"><span></span>
+            <img alt="2012-13 Season Review Part 2" title="2012-13 Season Review Part 2" src="/cms_images/video/3188620-0119587960040-834792_150x113.jpeg" width="68" height="51">
             </a>
-            <a title="Forest v Burnley Goals" href="http://www.player.nottinghamforest.co.uk/latest-news/article/3004433" onclick="EventTracking('External Link', 'Click','Video Players link');" target="_blank">
-            Forest v Burnley Goals
+            <a title="2012-13 Season Review Part 2" href="http://www.player.nottinghamforest.co.uk/latest-news/article/3188620" onclick="EventTracking('External Link', 'Click','Video Players link');" target="_blank">
+            2012-13 Season Review Part 2
             </a>
-			<span>1 day ago</span>
+			<span>24 May 2013</span>
 				
 			</li>
 			  
@@ -1155,7 +1131,10 @@ _e_117p_0</td><td>Facebook cookies created when Facebook share or like links cli
     
 
              <section class="col4 block mpu clearfix">
-                 <!-- Placement:Nottingham Forest ROS MPU 300x250 (2714989) --><div id="mf2714989" class="mfc170"><script type="text/javascript">if (typeof getHeliosTag =='function') getHeliosTag(2714989, 170);</script></div>
+                 
+      
+          <script type="text/javascript">   document.MAX_ct0 ='INSERT_CLICK_MACRO';   var m3_u = (location.protocol=='https:'?'https://delivery.ads-creativesyndicator.com/adserver/www/delivery/ajs.php':'http://delivery.ads-creativesyndicator.com/adserver/www/delivery/ajs.php');   var m3_r = Math.floor(Math.random()*99999999999);   if (!document.MAX_used) document.MAX_used = ',';   document.write ("<scr"+"ipt type='text/javascript' src='"+m3_u);   document.write ("?zoneid=2955&amp;charset=UTF-8");   document.write ('&amp;cb=' + m3_r);   if (document.MAX_used != ',') document.write ("&amp;exclude=" + document.MAX_used);   document.write ('&amp;charset=UTF-8');   document.write ("&amp;loc=" + escape(window.location));   document.write ("&amp;tzo=" + (new Date().getTimezoneOffset()));   if (document.referrer) document.write ("&amp;referer=" + escape(document.referrer));   if (document.context) document.write ("&context=" + escape(document.context));   if ((typeof(document.MAX_ct0) != 'undefined') && (document.MAX_ct0.substring(0,4) == 'http')) {       document.write ("&amp;ct0=" + escape(document.MAX_ct0));   }   if (document.mmm_fo) document.write ("&amp;mmm_fo=1");   document.write ("'><\/scr"+"ipt>");</script><script type="text/javascript" src="https://delivery.ads-creativesyndicator.com/adserver/www/delivery/ajs.php?zoneid=2955&amp;charset=UTF-8&amp;cb=52457097528&amp;charset=UTF-8&amp;loc=https%3A//web.archive.org/web/20130622115713id_/http%253A//www.nottinghamforest.co.uk/global/privacy-policy.aspx&amp;tzo=0"></script><noscript><a href='http://delivery.ads-creativesyndicator.com/adserver/www/delivery/ck.php?n=a9807c93&amp;cb=INSERT_RANDOM_NUMBER' target='_blank'><img src='http://delivery.ads-creativesyndicator.com/adserver/www/delivery/avw.php?zoneid=2955&amp;charset=UTF-8&amp;cb=INSERT_RANDOM_NUMBER&amp;n=a9807c93&amp;ct0=INSERT_CLICK_MACRO' border='0' alt='' /></a></noscript>
+      
 
             </section>
 
@@ -1193,7 +1172,7 @@ _e_117p_0</td><td>Facebook cookies created when Facebook share or like links cli
                              
                        <script>
        var monthNames = ["January","February","March","April","May","June","July","August","September","October","November","December"];
-       var currentDate= "2012,12";
+       var currentDate= "2013,6";
 </script>
 <section id="news_archive" class="col4">
   <h3>News Archive</h3>
@@ -1215,7 +1194,10 @@ _e_117p_0</td><td>Facebook cookies created when Facebook share or like links cli
 
 			
           <section class="col4 block mpu clearfix">
-                <!-- Placement:Half Page (3775353) --><div id="mf3775353" class="mfc529"><script type="text/javascript">if (typeof getHeliosTag =='function') getHeliosTag(3775353, 529);</script></div>
+                
+      
+          <script type="text/javascript">   document.MAX_ct0 ='INSERT_CLICK_MACRO';   var m3_u = (location.protocol=='https:'?'https://delivery.ads-creativesyndicator.com/adserver/www/delivery/ajs.php':'http://delivery.ads-creativesyndicator.com/adserver/www/delivery/ajs.php');   var m3_r = Math.floor(Math.random()*99999999999);   if (!document.MAX_used) document.MAX_used = ',';   document.write ("<scr"+"ipt type='text/javascript' src='"+m3_u);   document.write ("?zoneid=2956&amp;charset=UTF-8");   document.write ('&amp;cb=' + m3_r);   if (document.MAX_used != ',') document.write ("&amp;exclude=" + document.MAX_used);   document.write ('&amp;charset=UTF-8');   document.write ("&amp;loc=" + escape(window.location));   document.write ("&amp;tzo=" + (new Date().getTimezoneOffset()));   if (document.referrer) document.write ("&amp;referer=" + escape(document.referrer));   if (document.context) document.write ("&context=" + escape(document.context));   if ((typeof(document.MAX_ct0) != 'undefined') && (document.MAX_ct0.substring(0,4) == 'http')) {       document.write ("&amp;ct0=" + escape(document.MAX_ct0));   }   if (document.mmm_fo) document.write ("&amp;mmm_fo=1");   document.write ("'><\/scr"+"ipt>");</script><script type="text/javascript" src="https://delivery.ads-creativesyndicator.com/adserver/www/delivery/ajs.php?zoneid=2956&amp;charset=UTF-8&amp;cb=70403752029&amp;charset=UTF-8&amp;loc=https%3A//web.archive.org/web/20130622115713id_/http%253A//www.nottinghamforest.co.uk/global/privacy-policy.aspx&amp;tzo=0"></script><noscript><a href='http://delivery.ads-creativesyndicator.com/adserver/www/delivery/ck.php?n=a1b7480f&amp;cb=INSERT_RANDOM_NUMBER' target='_blank'><img src='http://delivery.ads-creativesyndicator.com/adserver/www/delivery/avw.php?zoneid=2956&amp;charset=UTF-8&amp;cb=INSERT_RANDOM_NUMBER&amp;n=a1b7480f&amp;ct0=INSERT_CLICK_MACRO' border='0' alt='' /></a></noscript>
+      
 
           </section>
 
@@ -1237,30 +1219,30 @@ _e_117p_0</td><td>Facebook cookies created when Facebook share or like links cli
  <ul>
 
  <li>
-   <a title="Andy Man" class="news" href="/news/article/andy-man-536140.aspx">
+   <a title="Season Ticket Update" class="news" href="/news/article/season-ticket-update-876196.aspx">
      <span></span>
-     <img alt="Andy Man" title="Andy Man" src="/cms_images/player/andy-reid-westbrom-4340-307851_150x113.jpg" width="68" height="51">
-     <p class="date">10 Dec 2012</p>Andy Man
+     <img alt="Season Ticket Update" title="Season Ticket Update" src="/cms_images/news/st-4340-876170_150x113.jpg" width="68" height="51">
+     <p class="date">21 Jun 2013</p>Season Ticket Update
     </a>
- <span class="mxl" data-mxl="65">Sean O’Driscoll says Andy Reid is the man defenders hate to play against.</span>
+ <span class="mxl" data-mxl="65">Nottingham Forest have reported strong season ticket sales during the early general sale period.</span>
   </li>
 
  <li>
-   <a title="Half-Season Tickets" class="news" href="/news/article/half-season-tickets-535915.aspx">
+   <a title="Reyes Returns" class="news" href="/news/article/reyes-returns-873339.aspx">
      <span></span>
-     <img alt="Half-Season Tickets" title="Half-Season Tickets" src="/cms_images/other/halfst-onsale-4340-490687_150x113.jpg" width="68" height="51">
-     <p class="date">10 Dec 2012</p>Half-Season Tickets
+     <img alt="Reyes Returns" title="Reyes Returns" src="/cms_images/player/gonzalo-jara-reyes-2-4340-873337_150x113.jpg" width="68" height="51">
+     <p class="date">19 Jun 2013</p>Reyes Returns
     </a>
- <span class="mxl" data-mxl="65"> Nottingham Forest's Half-Season Tickets are still available.</span>
+ <span class="mxl" data-mxl="65">Chilean international Gonzalo Jara Reyes has agreed personal terms on a deal which will see him return to Nottingham Forest on a free transfer.</span>
   </li>
 
  <li>
-   <a title="Foundation Jackpot Winner" class="news" href="/news/article/foundation-jackpot-winner-535751.aspx">
+   <a title="Lichaj: 'Very Happy'" class="video" href="http://www.player.nottinghamforest.co.uk/latest-news/article/3213045/date/20130619110200/page/0/name/Lichaj:-%27Very-Happy%27" target="_blank">
      <span></span>
-     <img alt="Foundation Jackpot Winner" title="Foundation Jackpot Winner" src="/cms_images/other/foundation-winner-101212-4340-535733_150x113.jpg" width="68" height="51">
-     <p class="date">10 Dec 2012</p>Foundation Jackpot Winner
+     <img alt="Lichaj: 'Very Happy'" title="Lichaj: 'Very Happy'" src="/cms_images/video/3213045-0120171540040-873394_150x113.jpeg" width="68" height="51">
+     <p class="date">19 Jun 2013</p>Lichaj: 'Very Happy'
     </a>
- <span class="mxl" data-mxl="65">Richard Simmons doesn’t get to as many of our games as he would like but it didn’t stop him scooping the £4,500 jackpot prize in the Forest Foundation.</span>
+ <span class="mxl" data-mxl="65">Defender Eric Lichaj tells Forest Player of his delight after signing for The Reds.</span>
   </li>
 
 </ul>
@@ -1282,15 +1264,38 @@ _e_117p_0</td><td>Facebook cookies created when Facebook share or like links cli
 
 <script>
 
-   adloader.push({ "url": "/UserControls/IONOS/Ionos_High_Media.ascx","callback":"slots", "params": { "IsCPA": 'false', "HasTitle": 'False', "HasLink": 'False',"HasDescription": 'False',"HasLink": 'False', "hasLiTags": '',"IsFooter": 'True', "AdData": '130BF5EB-388F-4DA0-AAD5-3877FE8D58D4$$$pa_15$$$AlwayOn|AlwaysOn$$$15@Bottom Section', "SectionName": 'Footer', "ClubName": 'Nottingham Forest' , "isCached" : '', "CacheKey": 'sponsors', "CombineAdRequest": 'False', "PoweredByText": '' , "PoweredInNextLine": 'False' }, "args": { "el": "#sponsors"} })
+
+   adloader.push({ "url": "/UserControls/IONOS/Ionos_High_Media.ascx","callback":"slots", 
+   "params": { 
+    "IsCPA": 'false', 
+    "HasTitle": 'False', 
+    "HasLink": 'False',
+    "HasDescription": 'False',
+    "HasLink": 'False',
+     "hasLiTags": '',
+     "IsFooter": 'True',
+      "AdData": '130BF5EB-388F-4DA0-AAD5-3877FE8D58D4$$$pa_15$$$AlwayOn|AlwaysOn$$$15@Bottom Section', 
+      "SectionName": 'Footer', 
+      "ClubName": 'Nottingham Forest' ,
+       "isCached" : '',
+        "CacheKey": 'sponsors', "CombineAdRequest": 'False', 
+        "PoweredByText": '' , "PoweredInNextLine": 'False',
+         "IsNavigationAd" : 'False' 
+       }
+       
+,"args": { 
+            "el": "#sponsors"
+            ,"addata" : '130BF5EB-388F-4DA0-AAD5-3877FE8D58D4$$$pa_15$$$AlwayOn|AlwaysOn$$$15@Bottom Section'}
+        })
 
 </script>
 
 
 
+
 	<div id="notification">
              <div>                        
-                     <img src="/cms_images/competition/npower-fl-champ-kl-lock-up-secondary-logo-rgb-04-1040-15349.png" alt="" height="21" class="league_logo">
+                     <img src="/cms_images/competition/largetransparent40-858732.gif" alt="" height="21" class="league_logo">
                     <span class="club_logo"><img src="/cms_images/team/notts-forrest40-20531.png" alt="Nottingham Forest FC" width="35" height="35" title="Nottingham Forest FC"></span>                
 
                     <span class="title">The official site of Nottingham Forest FC</span>
@@ -1348,13 +1353,10 @@ _e_117p_0</td><td>Facebook cookies created when Facebook share or like links cli
     <a href="/Tickets/" title="Tickets">Tickets</a>
     <ul>
       <li>
-        <a href="/Tickets/hometickets/" title="Home Tickets">Home Tickets</a>
-      </li>
-      <li>
         <a href="/Tickets/awaytickets/" title="Away Tickets">Away Tickets</a>
       </li>
       <li>
-        <a href="/Tickets/halfseasontickets/" title="Half Season Tickets">Half Season Tickets</a>
+        <a href="/Tickets/seasontickets/" title="2013-14 Season Tickets">2013-14 Season Tickets</a>
       </li>
       <li>
         <a href="/Tickets/membership/" title="Membership">Membership</a>
@@ -1371,10 +1373,10 @@ _e_117p_0</td><td>Facebook cookies created when Facebook share or like links cli
         <a href="/team/staffprofiles/" title="Staff Profiles">Staff Profiles</a>
       </li>
       <li>
-        <a href="/team/under21/" title="Under 21s">Under 21s</a>
+        <a href="/team/under21/" title="Under 21s Homepage">Under 21s Homepage</a>
       </li>
       <li>
-        <a href="/team/academy/" title="Academy">Academy</a>
+        <a href="/team/academy/" title="Academy Homepage">Academy Homepage</a>
       </li>
       <li>
         <a href="/team/ladies-team/" title="Ladies Team">Ladies Team</a>
@@ -1396,7 +1398,7 @@ _e_117p_0</td><td>Facebook cookies created when Facebook share or like links cli
     <a href="/fans/" title="Fans">Fans</a>
     <ul>
       <li>
-        <a href="/fans/juniorsupporters/" title="Junior Supporters">Junior Supporters</a>
+        <a href="/fans/youngsupporters/" title="Young Supporters Area">Young Supporters Area</a>
       </li>
       <li>
         <a href="/fans/supporters-club/" title="Supporters Club">Supporters Club</a>
@@ -1548,216 +1550,768 @@ _e_117p_0</td><td>Facebook cookies created when Facebook share or like links cli
 
 <script>
 
-   adloader.push({ "url": "/UserControls/IONOS/Ionos_High_Media.ascx", "params": { "IsCPA": 'false', "HasTitle": 'True', "HasLink": 'True',"HasDescription": 'True',"HasLink": 'True', "hasLiTags": '',"IsFooter": 'False', "AdData": '6FB4737B-A44B-42E5-ACB2-A1176290A5DE$$$pa_15$$$AlwayOn|AlwaysOn$$$1@Club Cross Sell', "SectionName": 'News', "ClubName": 'Nottingham Forest' , "isCached" : 'true', "CacheKey": 'navigation_club_cross_sell_1', "CombineAdRequest": 'True', "PoweredByText": '' , "PoweredInNextLine": 'False' }, "args": { "el": "#navigation_club_cross_sell_1"} })
+
+   adloader.push({ "url": "/UserControls/IONOS/Ionos_High_Media.ascx", 
+   "params": { 
+    "IsCPA": 'false', 
+    "HasTitle": 'True', 
+    "HasLink": 'True',
+    "HasDescription": 'True',
+    "HasLink": 'True',
+     "hasLiTags": '',
+     "IsFooter": 'False',
+      "AdData": '6FB4737B-A44B-42E5-ACB2-A1176290A5DE$$$pa_15$$$AlwayOn|AlwaysOn$$$1@Club Cross Sell', 
+      "SectionName": 'News', 
+      "ClubName": 'Nottingham Forest' ,
+       "isCached" : 'true',
+        "CacheKey": 'navigation_club_cross_sell_1', "CombineAdRequest": 'True', 
+        "PoweredByText": '' , "PoweredInNextLine": 'False',
+         "IsNavigationAd" : 'True' 
+       }
+       , "callback" : "sendIonosOrderIds"
+,"args": { 
+            "el": "#navigation_club_cross_sell_1"
+            ,"addata" : '6FB4737B-A44B-42E5-ACB2-A1176290A5DE$$$pa_15$$$AlwayOn|AlwaysOn$$$1@Club Cross Sell'}
+        })
 
 </script>
+
 
 
 
 
 <script>
 
-   adloader.push({ "url": "/UserControls/IONOS/Ionos_High_Media.ascx", "params": { "IsCPA": 'false', "HasTitle": 'False', "HasLink": 'False',"HasDescription": 'True',"HasLink": 'False', "hasLiTags": '',"IsFooter": 'False', "AdData": '4FB712E3-6250-465C-A80E-249555B0CA59$$$pa_15$$$AlwayOn|AlwaysOn$$$1@Club Sponsor', "SectionName": 'News', "ClubName": 'Nottingham Forest' , "isCached" : 'true', "CacheKey": 'navigation_club_sponsor_1', "CombineAdRequest": 'True', "PoweredByText": '' , "PoweredInNextLine": 'False' }, "args": { "el": "#navigation_club_sponsor_1"} })
+
+   adloader.push({ "url": "/UserControls/IONOS/Ionos_High_Media.ascx", 
+   "params": { 
+    "IsCPA": 'false', 
+    "HasTitle": 'False', 
+    "HasLink": 'False',
+    "HasDescription": 'True',
+    "HasLink": 'False',
+     "hasLiTags": '',
+     "IsFooter": 'False',
+      "AdData": '4FB712E3-6250-465C-A80E-249555B0CA59$$$pa_15$$$AlwayOn|AlwaysOn$$$1@Club Sponsor', 
+      "SectionName": 'News', 
+      "ClubName": 'Nottingham Forest' ,
+       "isCached" : 'true',
+        "CacheKey": 'navigation_club_sponsor_1', "CombineAdRequest": 'True', 
+        "PoweredByText": '' , "PoweredInNextLine": 'False',
+         "IsNavigationAd" : 'True' 
+       }
+       , "callback" : "sendIonosOrderIds"
+,"args": { 
+            "el": "#navigation_club_sponsor_1"
+            ,"addata" : '4FB712E3-6250-465C-A80E-249555B0CA59$$$pa_15$$$AlwayOn|AlwaysOn$$$1@Club Sponsor'}
+        })
 
 </script>
+
 
 
 
 
 <script>
 
-   adloader.push({ "url": "/UserControls/IONOS/Ionos_High_Media.ascx", "params": { "IsCPA": 'false', "HasTitle": 'False', "HasLink": 'False',"HasDescription": 'False',"HasLink": 'False', "hasLiTags": '',"IsFooter": 'False', "AdData": 'A11FE8EF-CF13-4602-B2ED-0F50B16A4BFF$$$pa_15$$$AlwayOn|AlwaysOn$$$1@Section Sponsor', "SectionName": 'News', "ClubName": 'Nottingham Forest' , "isCached" : 'true', "CacheKey": 'navigation_section_sponsor_1', "CombineAdRequest": 'True', "PoweredByText": '      Powered by' , "PoweredInNextLine": 'False' }, "args": { "el": "#navigation_section_sponsor_1"} })
+
+   adloader.push({ "url": "/UserControls/IONOS/Ionos_High_Media.ascx", 
+   "params": { 
+    "IsCPA": 'false', 
+    "HasTitle": 'False', 
+    "HasLink": 'False',
+    "HasDescription": 'False',
+    "HasLink": 'False',
+     "hasLiTags": '',
+     "IsFooter": 'False',
+      "AdData": 'A11FE8EF-CF13-4602-B2ED-0F50B16A4BFF$$$pa_15$$$AlwayOn|AlwaysOn$$$1@Section Sponsor', 
+      "SectionName": 'News', 
+      "ClubName": 'Nottingham Forest' ,
+       "isCached" : 'true',
+        "CacheKey": 'navigation_section_sponsor_1', "CombineAdRequest": 'True', 
+        "PoweredByText": '      Powered by' , "PoweredInNextLine": 'False',
+         "IsNavigationAd" : 'True' 
+       }
+       , "callback" : "sendIonosOrderIds"
+,"args": { 
+            "el": "#navigation_section_sponsor_1"
+            ,"addata" : 'A11FE8EF-CF13-4602-B2ED-0F50B16A4BFF$$$pa_15$$$AlwayOn|AlwaysOn$$$1@Section Sponsor'}
+        })
 
 </script>
+
 
 
 
 
 <script>
 
-   adloader.push({ "url": "/UserControls/IONOS/Ionos_High_Media.ascx", "params": { "IsCPA": 'false', "HasTitle": 'True', "HasLink": 'True',"HasDescription": 'True',"HasLink": 'True', "hasLiTags": '',"IsFooter": 'False', "AdData": 'E0D6E542-ADD3-44D6-81EA-E33E5742EE8F$$$pa_15$$$AlwayOn|AlwaysOn$$$1@Club Cross Sell', "SectionName": 'Fixtures and Results', "ClubName": 'Nottingham Forest' , "isCached" : 'true', "CacheKey": 'navigation_club_cross_sell_2', "CombineAdRequest": 'True', "PoweredByText": '' , "PoweredInNextLine": 'False' }, "args": { "el": "#navigation_club_cross_sell_2"} })
+
+   adloader.push({ "url": "/UserControls/IONOS/Ionos_High_Media.ascx", 
+   "params": { 
+    "IsCPA": 'false', 
+    "HasTitle": 'True', 
+    "HasLink": 'True',
+    "HasDescription": 'True',
+    "HasLink": 'True',
+     "hasLiTags": '',
+     "IsFooter": 'False',
+      "AdData": 'E0D6E542-ADD3-44D6-81EA-E33E5742EE8F$$$pa_15$$$AlwayOn|AlwaysOn$$$1@Club Cross Sell', 
+      "SectionName": 'Fixtures and Results', 
+      "ClubName": 'Nottingham Forest' ,
+       "isCached" : 'true',
+        "CacheKey": 'navigation_club_cross_sell_2', "CombineAdRequest": 'True', 
+        "PoweredByText": '' , "PoweredInNextLine": 'False',
+         "IsNavigationAd" : 'True' 
+       }
+       , "callback" : "sendIonosOrderIds"
+,"args": { 
+            "el": "#navigation_club_cross_sell_2"
+            ,"addata" : 'E0D6E542-ADD3-44D6-81EA-E33E5742EE8F$$$pa_15$$$AlwayOn|AlwaysOn$$$1@Club Cross Sell'}
+        })
 
 </script>
+
 
 
 
 
 <script>
 
-   adloader.push({ "url": "/UserControls/IONOS/Ionos_High_Media.ascx", "params": { "IsCPA": 'false', "HasTitle": 'False', "HasLink": 'False',"HasDescription": 'True',"HasLink": 'False', "hasLiTags": '',"IsFooter": 'False', "AdData": '21AB8378-3BDA-44ED-A753-775F2B63ED6C$$$pa_15$$$AlwayOn|AlwaysOn$$$1@Club Sponsor', "SectionName": 'Fixtures and Results', "ClubName": 'Nottingham Forest' , "isCached" : 'true', "CacheKey": 'navigation_club_sponsor_2', "CombineAdRequest": 'True', "PoweredByText": '' , "PoweredInNextLine": 'False' }, "args": { "el": "#navigation_club_sponsor_2"} })
+
+   adloader.push({ "url": "/UserControls/IONOS/Ionos_High_Media.ascx", 
+   "params": { 
+    "IsCPA": 'false', 
+    "HasTitle": 'False', 
+    "HasLink": 'False',
+    "HasDescription": 'True',
+    "HasLink": 'False',
+     "hasLiTags": '',
+     "IsFooter": 'False',
+      "AdData": '21AB8378-3BDA-44ED-A753-775F2B63ED6C$$$pa_15$$$AlwayOn|AlwaysOn$$$1@Club Sponsor', 
+      "SectionName": 'Fixtures and Results', 
+      "ClubName": 'Nottingham Forest' ,
+       "isCached" : 'true',
+        "CacheKey": 'navigation_club_sponsor_2', "CombineAdRequest": 'True', 
+        "PoweredByText": '' , "PoweredInNextLine": 'False',
+         "IsNavigationAd" : 'True' 
+       }
+       , "callback" : "sendIonosOrderIds"
+,"args": { 
+            "el": "#navigation_club_sponsor_2"
+            ,"addata" : '21AB8378-3BDA-44ED-A753-775F2B63ED6C$$$pa_15$$$AlwayOn|AlwaysOn$$$1@Club Sponsor'}
+        })
 
 </script>
+
 
 
 
 
 <script>
 
-   adloader.push({ "url": "/UserControls/IONOS/Ionos_High_Media.ascx", "params": { "IsCPA": 'false', "HasTitle": 'False', "HasLink": 'False',"HasDescription": 'False',"HasLink": 'False', "hasLiTags": '',"IsFooter": 'False', "AdData": 'FE59E0E4-7375-4C81-92E3-CDF40BD29725$$$pa_15$$$AlwayOn|AlwaysOn$$$1@Section Sponsor', "SectionName": 'Fixtures and Results', "ClubName": 'Nottingham Forest' , "isCached" : 'true', "CacheKey": 'navigation_section_sponsor_2', "CombineAdRequest": 'True', "PoweredByText": '      Powered by' , "PoweredInNextLine": 'False' }, "args": { "el": "#navigation_section_sponsor_2"} })
+
+   adloader.push({ "url": "/UserControls/IONOS/Ionos_High_Media.ascx", 
+   "params": { 
+    "IsCPA": 'false', 
+    "HasTitle": 'False', 
+    "HasLink": 'False',
+    "HasDescription": 'False',
+    "HasLink": 'False',
+     "hasLiTags": '',
+     "IsFooter": 'False',
+      "AdData": 'FE59E0E4-7375-4C81-92E3-CDF40BD29725$$$pa_15$$$AlwayOn|AlwaysOn$$$1@Section Sponsor', 
+      "SectionName": 'Fixtures and Results', 
+      "ClubName": 'Nottingham Forest' ,
+       "isCached" : 'true',
+        "CacheKey": 'navigation_section_sponsor_2', "CombineAdRequest": 'True', 
+        "PoweredByText": '      Powered by' , "PoweredInNextLine": 'False',
+         "IsNavigationAd" : 'True' 
+       }
+       , "callback" : "sendIonosOrderIds"
+,"args": { 
+            "el": "#navigation_section_sponsor_2"
+            ,"addata" : 'FE59E0E4-7375-4C81-92E3-CDF40BD29725$$$pa_15$$$AlwayOn|AlwaysOn$$$1@Section Sponsor'}
+        })
 
 </script>
+
 
 
 
 
 <script>
 
-   adloader.push({ "url": "/UserControls/IONOS/Ionos_High_Media.ascx", "params": { "IsCPA": 'false', "HasTitle": 'True', "HasLink": 'True',"HasDescription": 'True',"HasLink": 'True', "hasLiTags": '',"IsFooter": 'False', "AdData": '0FD217CB-0879-42DD-ACF0-607F72FD72AA$$$pa_15$$$AlwayOn|AlwaysOn$$$1@Club Cross Sell', "SectionName": 'Tickets', "ClubName": 'Nottingham Forest' , "isCached" : 'true', "CacheKey": 'navigation_club_cross_sell_3', "CombineAdRequest": 'True', "PoweredByText": '' , "PoweredInNextLine": 'False' }, "args": { "el": "#navigation_club_cross_sell_3"} })
+
+   adloader.push({ "url": "/UserControls/IONOS/Ionos_High_Media.ascx", 
+   "params": { 
+    "IsCPA": 'false', 
+    "HasTitle": 'True', 
+    "HasLink": 'True',
+    "HasDescription": 'True',
+    "HasLink": 'True',
+     "hasLiTags": '',
+     "IsFooter": 'False',
+      "AdData": '0FD217CB-0879-42DD-ACF0-607F72FD72AA$$$pa_15$$$AlwayOn|AlwaysOn$$$1@Club Cross Sell', 
+      "SectionName": 'Tickets', 
+      "ClubName": 'Nottingham Forest' ,
+       "isCached" : 'true',
+        "CacheKey": 'navigation_club_cross_sell_3', "CombineAdRequest": 'True', 
+        "PoweredByText": '' , "PoweredInNextLine": 'False',
+         "IsNavigationAd" : 'True' 
+       }
+       , "callback" : "sendIonosOrderIds"
+,"args": { 
+            "el": "#navigation_club_cross_sell_3"
+            ,"addata" : '0FD217CB-0879-42DD-ACF0-607F72FD72AA$$$pa_15$$$AlwayOn|AlwaysOn$$$1@Club Cross Sell'}
+        })
 
 </script>
+
 
 
 
 
 <script>
 
-   adloader.push({ "url": "/UserControls/IONOS/Ionos_High_Media.ascx", "params": { "IsCPA": 'false', "HasTitle": 'False', "HasLink": 'False',"HasDescription": 'True',"HasLink": 'False', "hasLiTags": '',"IsFooter": 'False', "AdData": '7F69D4C0-1352-47CD-A034-EBFD6BD6D01D$$$pa_15$$$AlwayOn|AlwaysOn$$$1@Club Sponsor', "SectionName": 'Tickets', "ClubName": 'Nottingham Forest' , "isCached" : 'true', "CacheKey": 'navigation_club_sponsor_3', "CombineAdRequest": 'True', "PoweredByText": '' , "PoweredInNextLine": 'False' }, "args": { "el": "#navigation_club_sponsor_3"} })
+
+   adloader.push({ "url": "/UserControls/IONOS/Ionos_High_Media.ascx", 
+   "params": { 
+    "IsCPA": 'false', 
+    "HasTitle": 'False', 
+    "HasLink": 'False',
+    "HasDescription": 'True',
+    "HasLink": 'False',
+     "hasLiTags": '',
+     "IsFooter": 'False',
+      "AdData": '7F69D4C0-1352-47CD-A034-EBFD6BD6D01D$$$pa_15$$$AlwayOn|AlwaysOn$$$1@Club Sponsor', 
+      "SectionName": 'Tickets', 
+      "ClubName": 'Nottingham Forest' ,
+       "isCached" : 'true',
+        "CacheKey": 'navigation_club_sponsor_3', "CombineAdRequest": 'True', 
+        "PoweredByText": '' , "PoweredInNextLine": 'False',
+         "IsNavigationAd" : 'True' 
+       }
+       , "callback" : "sendIonosOrderIds"
+,"args": { 
+            "el": "#navigation_club_sponsor_3"
+            ,"addata" : '7F69D4C0-1352-47CD-A034-EBFD6BD6D01D$$$pa_15$$$AlwayOn|AlwaysOn$$$1@Club Sponsor'}
+        })
 
 </script>
+
 
 
 
 
 <script>
 
-   adloader.push({ "url": "/UserControls/IONOS/Ionos_High_Media.ascx", "params": { "IsCPA": 'false', "HasTitle": 'False', "HasLink": 'False',"HasDescription": 'False',"HasLink": 'False', "hasLiTags": '',"IsFooter": 'False', "AdData": 'A683711F-3C35-4B5A-A2E7-7FE3DC188317$$$pa_15$$$AlwayOn|AlwaysOn$$$1@Section Sponsor', "SectionName": 'Tickets', "ClubName": 'Nottingham Forest' , "isCached" : 'true', "CacheKey": 'navigation_section_sponsor_3', "CombineAdRequest": 'True', "PoweredByText": '      Powered by' , "PoweredInNextLine": 'False' }, "args": { "el": "#navigation_section_sponsor_3"} })
+
+   adloader.push({ "url": "/UserControls/IONOS/Ionos_High_Media.ascx", 
+   "params": { 
+    "IsCPA": 'false', 
+    "HasTitle": 'False', 
+    "HasLink": 'False',
+    "HasDescription": 'False',
+    "HasLink": 'False',
+     "hasLiTags": '',
+     "IsFooter": 'False',
+      "AdData": 'A683711F-3C35-4B5A-A2E7-7FE3DC188317$$$pa_15$$$AlwayOn|AlwaysOn$$$1@Section Sponsor', 
+      "SectionName": 'Tickets', 
+      "ClubName": 'Nottingham Forest' ,
+       "isCached" : 'true',
+        "CacheKey": 'navigation_section_sponsor_3', "CombineAdRequest": 'True', 
+        "PoweredByText": '      Powered by' , "PoweredInNextLine": 'False',
+         "IsNavigationAd" : 'True' 
+       }
+       , "callback" : "sendIonosOrderIds"
+,"args": { 
+            "el": "#navigation_section_sponsor_3"
+            ,"addata" : 'A683711F-3C35-4B5A-A2E7-7FE3DC188317$$$pa_15$$$AlwayOn|AlwaysOn$$$1@Section Sponsor'}
+        })
 
 </script>
+
 
 
 
 
 <script>
 
-   adloader.push({ "url": "/UserControls/IONOS/Ionos_High_Media.ascx", "params": { "IsCPA": 'false', "HasTitle": 'True', "HasLink": 'True',"HasDescription": 'True',"HasLink": 'True', "hasLiTags": '',"IsFooter": 'False', "AdData": 'D8ED3FCF-F7ED-4CB6-8699-54F6EED86FEF$$$pa_15$$$AlwayOn|AlwaysOn$$$1@Club Cross Sell', "SectionName": 'Team', "ClubName": 'Nottingham Forest' , "isCached" : 'true', "CacheKey": 'navigation_club_cross_sell_4', "CombineAdRequest": 'True', "PoweredByText": '' , "PoweredInNextLine": 'False' }, "args": { "el": "#navigation_club_cross_sell_4"} })
+
+   adloader.push({ "url": "/UserControls/IONOS/Ionos_High_Media.ascx", 
+   "params": { 
+    "IsCPA": 'false', 
+    "HasTitle": 'True', 
+    "HasLink": 'True',
+    "HasDescription": 'True',
+    "HasLink": 'True',
+     "hasLiTags": '',
+     "IsFooter": 'False',
+      "AdData": 'D8ED3FCF-F7ED-4CB6-8699-54F6EED86FEF$$$pa_15$$$AlwayOn|AlwaysOn$$$1@Club Cross Sell', 
+      "SectionName": 'Stats', 
+      "ClubName": 'Nottingham Forest' ,
+       "isCached" : 'true',
+        "CacheKey": 'navigation_club_cross_sell_4', "CombineAdRequest": 'True', 
+        "PoweredByText": '' , "PoweredInNextLine": 'False',
+         "IsNavigationAd" : 'True' 
+       }
+       , "callback" : "sendIonosOrderIds"
+,"args": { 
+            "el": "#navigation_club_cross_sell_4"
+            ,"addata" : 'D8ED3FCF-F7ED-4CB6-8699-54F6EED86FEF$$$pa_15$$$AlwayOn|AlwaysOn$$$1@Club Cross Sell'}
+        })
 
 </script>
+
 
 
 
 
 <script>
 
-   adloader.push({ "url": "/UserControls/IONOS/Ionos_High_Media.ascx", "params": { "IsCPA": 'false', "HasTitle": 'False', "HasLink": 'False',"HasDescription": 'True',"HasLink": 'False', "hasLiTags": '',"IsFooter": 'False', "AdData": '6E4E25D2-417B-426E-B5EA-559BA21C7416 $$$pa_15$$$AlwayOn|AlwaysOn$$$1@Club Sponsor', "SectionName": 'Team', "ClubName": 'Nottingham Forest' , "isCached" : 'true', "CacheKey": 'navigation_club_sponsor_4', "CombineAdRequest": 'True', "PoweredByText": '' , "PoweredInNextLine": 'False' }, "args": { "el": "#navigation_club_sponsor_4"} })
+
+   adloader.push({ "url": "/UserControls/IONOS/Ionos_High_Media.ascx", 
+   "params": { 
+    "IsCPA": 'false', 
+    "HasTitle": 'False', 
+    "HasLink": 'False',
+    "HasDescription": 'True',
+    "HasLink": 'False',
+     "hasLiTags": '',
+     "IsFooter": 'False',
+      "AdData": '6E4E25D2-417B-426E-B5EA-559BA21C7416 $$$pa_15$$$AlwayOn|AlwaysOn$$$1@Club Sponsor', 
+      "SectionName": 'Stats', 
+      "ClubName": 'Nottingham Forest' ,
+       "isCached" : 'true',
+        "CacheKey": 'navigation_club_sponsor_4', "CombineAdRequest": 'True', 
+        "PoweredByText": '' , "PoweredInNextLine": 'False',
+         "IsNavigationAd" : 'True' 
+       }
+       , "callback" : "sendIonosOrderIds"
+,"args": { 
+            "el": "#navigation_club_sponsor_4"
+            ,"addata" : '6E4E25D2-417B-426E-B5EA-559BA21C7416 $$$pa_15$$$AlwayOn|AlwaysOn$$$1@Club Sponsor'}
+        })
 
 </script>
+
 
 
 
 
 <script>
 
-   adloader.push({ "url": "/UserControls/IONOS/Ionos_High_Media.ascx", "params": { "IsCPA": 'false', "HasTitle": 'False', "HasLink": 'False',"HasDescription": 'False',"HasLink": 'False', "hasLiTags": '',"IsFooter": 'False', "AdData": '378EB57B-8B05-4E92-A5F6-BEC21FF5F157$$$pa_15$$$AlwayOn|AlwaysOn$$$1@Section Sponsor', "SectionName": 'Team', "ClubName": 'Nottingham Forest' , "isCached" : 'true', "CacheKey": 'navigation_section_sponsor_4', "CombineAdRequest": 'True', "PoweredByText": '      Powered by' , "PoweredInNextLine": 'False' }, "args": { "el": "#navigation_section_sponsor_4"} })
+
+   adloader.push({ "url": "/UserControls/IONOS/Ionos_High_Media.ascx", 
+   "params": { 
+    "IsCPA": 'false', 
+    "HasTitle": 'False', 
+    "HasLink": 'False',
+    "HasDescription": 'False',
+    "HasLink": 'False',
+     "hasLiTags": '',
+     "IsFooter": 'False',
+      "AdData": '378EB57B-8B05-4E92-A5F6-BEC21FF5F157$$$pa_15$$$AlwayOn|AlwaysOn$$$1@Section Sponsor', 
+      "SectionName": 'Stats', 
+      "ClubName": 'Nottingham Forest' ,
+       "isCached" : 'true',
+        "CacheKey": 'navigation_section_sponsor_4', "CombineAdRequest": 'True', 
+        "PoweredByText": '      Powered by' , "PoweredInNextLine": 'False',
+         "IsNavigationAd" : 'True' 
+       }
+       , "callback" : "sendIonosOrderIds"
+,"args": { 
+            "el": "#navigation_section_sponsor_4"
+            ,"addata" : '378EB57B-8B05-4E92-A5F6-BEC21FF5F157$$$pa_15$$$AlwayOn|AlwaysOn$$$1@Section Sponsor'}
+        })
 
 </script>
+
 
 
 
 
 <script>
 
-   adloader.push({ "url": "/UserControls/IONOS/Ionos_High_Media.ascx", "params": { "IsCPA": 'false', "HasTitle": 'True', "HasLink": 'True',"HasDescription": 'True',"HasLink": 'True', "hasLiTags": '',"IsFooter": 'False', "AdData": '77F35B91-2E44-4A1E-8C9A-0D707ABC49D9$$$pa_15$$$AlwayOn|AlwaysOn$$$1@Club Cross Sell', "SectionName": 'Stats', "ClubName": 'Nottingham Forest' , "isCached" : 'true', "CacheKey": 'navigation_club_cross_sell_5', "CombineAdRequest": 'True', "PoweredByText": '' , "PoweredInNextLine": 'False' }, "args": { "el": "#navigation_club_cross_sell_5"} })
+
+   adloader.push({ "url": "/UserControls/IONOS/Ionos_High_Media.ascx", 
+   "params": { 
+    "IsCPA": 'false', 
+    "HasTitle": 'True', 
+    "HasLink": 'True',
+    "HasDescription": 'True',
+    "HasLink": 'True',
+     "hasLiTags": '',
+     "IsFooter": 'False',
+      "AdData": '77F35B91-2E44-4A1E-8C9A-0D707ABC49D9$$$pa_15$$$AlwayOn|AlwaysOn$$$1@Club Cross Sell', 
+      "SectionName": 'Fans', 
+      "ClubName": 'Nottingham Forest' ,
+       "isCached" : 'true',
+        "CacheKey": 'navigation_club_cross_sell_5', "CombineAdRequest": 'True', 
+        "PoweredByText": '' , "PoweredInNextLine": 'False',
+         "IsNavigationAd" : 'True' 
+       }
+       , "callback" : "sendIonosOrderIds"
+,"args": { 
+            "el": "#navigation_club_cross_sell_5"
+            ,"addata" : '77F35B91-2E44-4A1E-8C9A-0D707ABC49D9$$$pa_15$$$AlwayOn|AlwaysOn$$$1@Club Cross Sell'}
+        })
 
 </script>
+
 
 
 
 
 <script>
 
-   adloader.push({ "url": "/UserControls/IONOS/Ionos_High_Media.ascx", "params": { "IsCPA": 'false', "HasTitle": 'False', "HasLink": 'False',"HasDescription": 'True',"HasLink": 'False', "hasLiTags": '',"IsFooter": 'False', "AdData": '8AD97504-7671-4766-A72C-7A84566C62E7$$$pa_15$$$AlwayOn|AlwaysOn$$$1@Club Sponsor', "SectionName": 'Stats', "ClubName": 'Nottingham Forest' , "isCached" : 'true', "CacheKey": 'navigation_club_sponsor_5', "CombineAdRequest": 'True', "PoweredByText": '' , "PoweredInNextLine": 'False' }, "args": { "el": "#navigation_club_sponsor_5"} })
+
+   adloader.push({ "url": "/UserControls/IONOS/Ionos_High_Media.ascx", 
+   "params": { 
+    "IsCPA": 'false', 
+    "HasTitle": 'False', 
+    "HasLink": 'False',
+    "HasDescription": 'True',
+    "HasLink": 'False',
+     "hasLiTags": '',
+     "IsFooter": 'False',
+      "AdData": '8AD97504-7671-4766-A72C-7A84566C62E7$$$pa_15$$$AlwayOn|AlwaysOn$$$1@Club Sponsor', 
+      "SectionName": 'Fans', 
+      "ClubName": 'Nottingham Forest' ,
+       "isCached" : 'true',
+        "CacheKey": 'navigation_club_sponsor_5', "CombineAdRequest": 'True', 
+        "PoweredByText": '' , "PoweredInNextLine": 'False',
+         "IsNavigationAd" : 'True' 
+       }
+       , "callback" : "sendIonosOrderIds"
+,"args": { 
+            "el": "#navigation_club_sponsor_5"
+            ,"addata" : '8AD97504-7671-4766-A72C-7A84566C62E7$$$pa_15$$$AlwayOn|AlwaysOn$$$1@Club Sponsor'}
+        })
 
 </script>
+
 
 
 
 
 <script>
 
-   adloader.push({ "url": "/UserControls/IONOS/Ionos_High_Media.ascx", "params": { "IsCPA": 'false', "HasTitle": 'False', "HasLink": 'False',"HasDescription": 'False',"HasLink": 'False', "hasLiTags": '',"IsFooter": 'False', "AdData": '513D7C29-C1BA-4E12-A2B4-AD7C552A0369$$$pa_15$$$AlwayOn|AlwaysOn$$$1@Section Sponsor', "SectionName": 'Stats', "ClubName": 'Nottingham Forest' , "isCached" : 'true', "CacheKey": 'navigation_section_sponsor_5', "CombineAdRequest": 'True', "PoweredByText": '      Powered by' , "PoweredInNextLine": 'False' }, "args": { "el": "#navigation_section_sponsor_5"} })
+
+   adloader.push({ "url": "/UserControls/IONOS/Ionos_High_Media.ascx", 
+   "params": { 
+    "IsCPA": 'false', 
+    "HasTitle": 'False', 
+    "HasLink": 'False',
+    "HasDescription": 'False',
+    "HasLink": 'False',
+     "hasLiTags": '',
+     "IsFooter": 'False',
+      "AdData": '513D7C29-C1BA-4E12-A2B4-AD7C552A0369$$$pa_15$$$AlwayOn|AlwaysOn$$$1@Section Sponsor', 
+      "SectionName": 'Fans', 
+      "ClubName": 'Nottingham Forest' ,
+       "isCached" : 'true',
+        "CacheKey": 'navigation_section_sponsor_5', "CombineAdRequest": 'True', 
+        "PoweredByText": '      Powered by' , "PoweredInNextLine": 'False',
+         "IsNavigationAd" : 'True' 
+       }
+       , "callback" : "sendIonosOrderIds"
+,"args": { 
+            "el": "#navigation_section_sponsor_5"
+            ,"addata" : '513D7C29-C1BA-4E12-A2B4-AD7C552A0369$$$pa_15$$$AlwayOn|AlwaysOn$$$1@Section Sponsor'}
+        })
 
 </script>
+
 
 
 
 
 <script>
 
-   adloader.push({ "url": "/UserControls/IONOS/Ionos_High_Media.ascx", "params": { "IsCPA": 'false', "HasTitle": 'True', "HasLink": 'True',"HasDescription": 'True',"HasLink": 'True', "hasLiTags": '',"IsFooter": 'False', "AdData": 'C302E674-D2E6-42B4-BEBF-8B7C4FA4FC31$$$pa_15$$$AlwayOn|AlwaysOn$$$1@Club Cross Sell', "SectionName": 'Fans', "ClubName": 'Nottingham Forest' , "isCached" : 'true', "CacheKey": 'navigation_club_cross_sell_6', "CombineAdRequest": 'True', "PoweredByText": '' , "PoweredInNextLine": 'False' }, "args": { "el": "#navigation_club_cross_sell_6"} })
+
+   adloader.push({ "url": "/UserControls/IONOS/Ionos_High_Media.ascx", 
+   "params": { 
+    "IsCPA": 'false', 
+    "HasTitle": 'True', 
+    "HasLink": 'True',
+    "HasDescription": 'True',
+    "HasLink": 'True',
+     "hasLiTags": '',
+     "IsFooter": 'False',
+      "AdData": 'C302E674-D2E6-42B4-BEBF-8B7C4FA4FC31$$$pa_15$$$AlwayOn|AlwaysOn$$$1@Club Cross Sell', 
+      "SectionName": 'Club', 
+      "ClubName": 'Nottingham Forest' ,
+       "isCached" : 'true',
+        "CacheKey": 'navigation_club_cross_sell_6', "CombineAdRequest": 'True', 
+        "PoweredByText": '' , "PoweredInNextLine": 'False',
+         "IsNavigationAd" : 'True' 
+       }
+       , "callback" : "sendIonosOrderIds"
+,"args": { 
+            "el": "#navigation_club_cross_sell_6"
+            ,"addata" : 'C302E674-D2E6-42B4-BEBF-8B7C4FA4FC31$$$pa_15$$$AlwayOn|AlwaysOn$$$1@Club Cross Sell'}
+        })
 
 </script>
+
 
 
 
 
 <script>
 
-   adloader.push({ "url": "/UserControls/IONOS/Ionos_High_Media.ascx", "params": { "IsCPA": 'false', "HasTitle": 'False', "HasLink": 'False',"HasDescription": 'True',"HasLink": 'False', "hasLiTags": '',"IsFooter": 'False', "AdData": 'E8D5BD40-33D0-4B0C-8FAC-BDC0DF4889E6$$$pa_15$$$AlwayOn|AlwaysOn$$$1@Club Sponsor', "SectionName": 'Fans', "ClubName": 'Nottingham Forest' , "isCached" : 'true', "CacheKey": 'navigation_club_sponsor_6', "CombineAdRequest": 'True', "PoweredByText": '' , "PoweredInNextLine": 'False' }, "args": { "el": "#navigation_club_sponsor_6"} })
+
+   adloader.push({ "url": "/UserControls/IONOS/Ionos_High_Media.ascx", 
+   "params": { 
+    "IsCPA": 'false', 
+    "HasTitle": 'False', 
+    "HasLink": 'False',
+    "HasDescription": 'True',
+    "HasLink": 'False',
+     "hasLiTags": '',
+     "IsFooter": 'False',
+      "AdData": 'E8D5BD40-33D0-4B0C-8FAC-BDC0DF4889E6$$$pa_15$$$AlwayOn|AlwaysOn$$$1@Club Sponsor', 
+      "SectionName": 'Club', 
+      "ClubName": 'Nottingham Forest' ,
+       "isCached" : 'true',
+        "CacheKey": 'navigation_club_sponsor_6', "CombineAdRequest": 'True', 
+        "PoweredByText": '' , "PoweredInNextLine": 'False',
+         "IsNavigationAd" : 'True' 
+       }
+       , "callback" : "sendIonosOrderIds"
+,"args": { 
+            "el": "#navigation_club_sponsor_6"
+            ,"addata" : 'E8D5BD40-33D0-4B0C-8FAC-BDC0DF4889E6$$$pa_15$$$AlwayOn|AlwaysOn$$$1@Club Sponsor'}
+        })
 
 </script>
+
 
 
 
 
 <script>
 
-   adloader.push({ "url": "/UserControls/IONOS/Ionos_High_Media.ascx", "params": { "IsCPA": 'false', "HasTitle": 'False', "HasLink": 'False',"HasDescription": 'False',"HasLink": 'False', "hasLiTags": '',"IsFooter": 'False', "AdData": '0BCF957E-D498-44A3-91BC-B22E6AB766BF$$$pa_15$$$AlwayOn|AlwaysOn$$$1@Section Sponsor', "SectionName": 'Fans', "ClubName": 'Nottingham Forest' , "isCached" : 'true', "CacheKey": 'navigation_section_sponsor_6', "CombineAdRequest": 'True', "PoweredByText": '      Powered by' , "PoweredInNextLine": 'False' }, "args": { "el": "#navigation_section_sponsor_6"} })
+
+   adloader.push({ "url": "/UserControls/IONOS/Ionos_High_Media.ascx", 
+   "params": { 
+    "IsCPA": 'false', 
+    "HasTitle": 'False', 
+    "HasLink": 'False',
+    "HasDescription": 'False',
+    "HasLink": 'False',
+     "hasLiTags": '',
+     "IsFooter": 'False',
+      "AdData": '0BCF957E-D498-44A3-91BC-B22E6AB766BF$$$pa_15$$$AlwayOn|AlwaysOn$$$1@Section Sponsor', 
+      "SectionName": 'Club', 
+      "ClubName": 'Nottingham Forest' ,
+       "isCached" : 'true',
+        "CacheKey": 'navigation_section_sponsor_6', "CombineAdRequest": 'True', 
+        "PoweredByText": '      Powered by' , "PoweredInNextLine": 'False',
+         "IsNavigationAd" : 'True' 
+       }
+       , "callback" : "sendIonosOrderIds"
+,"args": { 
+            "el": "#navigation_section_sponsor_6"
+            ,"addata" : '0BCF957E-D498-44A3-91BC-B22E6AB766BF$$$pa_15$$$AlwayOn|AlwaysOn$$$1@Section Sponsor'}
+        })
 
 </script>
+
 
 
 
 
 <script>
 
-   adloader.push({ "url": "/UserControls/IONOS/Ionos_High_Media.ascx", "params": { "IsCPA": 'false', "HasTitle": 'True', "HasLink": 'True',"HasDescription": 'True',"HasLink": 'True', "hasLiTags": '',"IsFooter": 'False', "AdData": 'F1433FDA-FB03-4C54-AA99-71E46B378539$$$pa_15$$$AlwayOn|AlwaysOn$$$1@Club Cross Sell', "SectionName": 'Club', "ClubName": 'Nottingham Forest' , "isCached" : 'true', "CacheKey": 'navigation_club_cross_sell_7', "CombineAdRequest": 'True', "PoweredByText": '' , "PoweredInNextLine": 'False' }, "args": { "el": "#navigation_club_cross_sell_7"} })
+
+   adloader.push({ "url": "/UserControls/IONOS/Ionos_High_Media.ascx", 
+   "params": { 
+    "IsCPA": 'false', 
+    "HasTitle": 'True', 
+    "HasLink": 'True',
+    "HasDescription": 'True',
+    "HasLink": 'True',
+     "hasLiTags": '',
+     "IsFooter": 'False',
+      "AdData": 'F1433FDA-FB03-4C54-AA99-71E46B378539$$$pa_15$$$AlwayOn|AlwaysOn$$$1@Club Cross Sell', 
+      "SectionName": 'Commercial', 
+      "ClubName": 'Nottingham Forest' ,
+       "isCached" : 'true',
+        "CacheKey": 'navigation_club_cross_sell_7', "CombineAdRequest": 'True', 
+        "PoweredByText": '' , "PoweredInNextLine": 'False',
+         "IsNavigationAd" : 'True' 
+       }
+       , "callback" : "sendIonosOrderIds"
+,"args": { 
+            "el": "#navigation_club_cross_sell_7"
+            ,"addata" : 'F1433FDA-FB03-4C54-AA99-71E46B378539$$$pa_15$$$AlwayOn|AlwaysOn$$$1@Club Cross Sell'}
+        })
 
 </script>
+
 
 
 
 
 <script>
 
-   adloader.push({ "url": "/UserControls/IONOS/Ionos_High_Media.ascx", "params": { "IsCPA": 'false', "HasTitle": 'False', "HasLink": 'False',"HasDescription": 'True',"HasLink": 'False', "hasLiTags": '',"IsFooter": 'False', "AdData": '8CC59DFE-5261-4313-B76D-70B16ED27D66$$$pa_15$$$AlwayOn|AlwaysOn$$$1@Club Sponsor', "SectionName": 'Club', "ClubName": 'Nottingham Forest' , "isCached" : 'true', "CacheKey": 'navigation_club_sponsor_7', "CombineAdRequest": 'True', "PoweredByText": '' , "PoweredInNextLine": 'False' }, "args": { "el": "#navigation_club_sponsor_7"} })
+
+   adloader.push({ "url": "/UserControls/IONOS/Ionos_High_Media.ascx", 
+   "params": { 
+    "IsCPA": 'false', 
+    "HasTitle": 'False', 
+    "HasLink": 'False',
+    "HasDescription": 'True',
+    "HasLink": 'False',
+     "hasLiTags": '',
+     "IsFooter": 'False',
+      "AdData": '8CC59DFE-5261-4313-B76D-70B16ED27D66$$$pa_15$$$AlwayOn|AlwaysOn$$$1@Club Sponsor', 
+      "SectionName": 'Commercial', 
+      "ClubName": 'Nottingham Forest' ,
+       "isCached" : 'true',
+        "CacheKey": 'navigation_club_sponsor_7', "CombineAdRequest": 'True', 
+        "PoweredByText": '' , "PoweredInNextLine": 'False',
+         "IsNavigationAd" : 'True' 
+       }
+       , "callback" : "sendIonosOrderIds"
+,"args": { 
+            "el": "#navigation_club_sponsor_7"
+            ,"addata" : '8CC59DFE-5261-4313-B76D-70B16ED27D66$$$pa_15$$$AlwayOn|AlwaysOn$$$1@Club Sponsor'}
+        })
 
 </script>
+
 
 
 
 
 <script>
 
-   adloader.push({ "url": "/UserControls/IONOS/Ionos_High_Media.ascx", "params": { "IsCPA": 'false', "HasTitle": 'False', "HasLink": 'False',"HasDescription": 'False',"HasLink": 'False', "hasLiTags": '',"IsFooter": 'False', "AdData": '11D1BC5F-AD4A-4B7D-BC61-9B2408701214$$$pa_15$$$AlwayOn|AlwaysOn$$$1@Section Sponsor', "SectionName": 'Club', "ClubName": 'Nottingham Forest' , "isCached" : 'true', "CacheKey": 'navigation_section_sponsor_7', "CombineAdRequest": 'True', "PoweredByText": '      Powered by' , "PoweredInNextLine": 'False' }, "args": { "el": "#navigation_section_sponsor_7"} })
+
+   adloader.push({ "url": "/UserControls/IONOS/Ionos_High_Media.ascx", 
+   "params": { 
+    "IsCPA": 'false', 
+    "HasTitle": 'False', 
+    "HasLink": 'False',
+    "HasDescription": 'False',
+    "HasLink": 'False',
+     "hasLiTags": '',
+     "IsFooter": 'False',
+      "AdData": '11D1BC5F-AD4A-4B7D-BC61-9B2408701214$$$pa_15$$$AlwayOn|AlwaysOn$$$1@Section Sponsor', 
+      "SectionName": 'Commercial', 
+      "ClubName": 'Nottingham Forest' ,
+       "isCached" : 'true',
+        "CacheKey": 'navigation_section_sponsor_7', "CombineAdRequest": 'True', 
+        "PoweredByText": '      Powered by' , "PoweredInNextLine": 'False',
+         "IsNavigationAd" : 'True' 
+       }
+       , "callback" : "sendIonosOrderIds"
+,"args": { 
+            "el": "#navigation_section_sponsor_7"
+            ,"addata" : '11D1BC5F-AD4A-4B7D-BC61-9B2408701214$$$pa_15$$$AlwayOn|AlwaysOn$$$1@Section Sponsor'}
+        })
 
 </script>
+
 
 
 
 
 <script>
 
-   adloader.push({ "url": "/UserControls/IONOS/Ionos_High_Media.ascx", "params": { "IsCPA": 'false', "HasTitle": 'True', "HasLink": 'True',"HasDescription": 'True',"HasLink": 'True', "hasLiTags": '',"IsFooter": 'False', "AdData": '0E863C0A-7D98-43F4-AACB-786F2056D75E$$$pa_15$$$AlwayOn|AlwaysOn$$$1@Club Cross Sell', "SectionName": 'Commercial', "ClubName": 'Nottingham Forest' , "isCached" : 'true', "CacheKey": 'navigation_club_cross_sell_8', "CombineAdRequest": 'True', "PoweredByText": '' , "PoweredInNextLine": 'False' }, "args": { "el": "#navigation_club_cross_sell_8"} })
+
+   adloader.push({ "url": "/UserControls/IONOS/Ionos_High_Media.ascx", 
+   "params": { 
+    "IsCPA": 'false', 
+    "HasTitle": 'True', 
+    "HasLink": 'True',
+    "HasDescription": 'True',
+    "HasLink": 'True',
+     "hasLiTags": '',
+     "IsFooter": 'False',
+      "AdData": '0E863C0A-7D98-43F4-AACB-786F2056D75E$$$pa_15$$$AlwayOn|AlwaysOn$$$1@Club Cross Sell', 
+      "SectionName": '', 
+      "ClubName": 'Nottingham Forest' ,
+       "isCached" : 'true',
+        "CacheKey": 'navigation_club_cross_sell_8', "CombineAdRequest": 'True', 
+        "PoweredByText": '' , "PoweredInNextLine": 'False',
+         "IsNavigationAd" : 'True' 
+       }
+       , "callback" : "sendIonosOrderIds"
+,"args": { 
+            "el": "#navigation_club_cross_sell_8"
+            ,"addata" : '0E863C0A-7D98-43F4-AACB-786F2056D75E$$$pa_15$$$AlwayOn|AlwaysOn$$$1@Club Cross Sell'}
+        })
 
 </script>
+
 
 
 
 
 <script>
 
-   adloader.push({ "url": "/UserControls/IONOS/Ionos_High_Media.ascx", "params": { "IsCPA": 'false', "HasTitle": 'False', "HasLink": 'False',"HasDescription": 'True',"HasLink": 'False', "hasLiTags": '',"IsFooter": 'False', "AdData": 'FB1FDE18-9BEA-4878-86E6-0CC954213EE3$$$pa_15$$$AlwayOn|AlwaysOn$$$1@Club Sponsor', "SectionName": 'Commercial', "ClubName": 'Nottingham Forest' , "isCached" : 'true', "CacheKey": 'navigation_club_sponsor_8', "CombineAdRequest": 'True', "PoweredByText": '' , "PoweredInNextLine": 'False' }, "args": { "el": "#navigation_club_sponsor_8"} })
+
+   adloader.push({ "url": "/UserControls/IONOS/Ionos_High_Media.ascx", 
+   "params": { 
+    "IsCPA": 'false', 
+    "HasTitle": 'False', 
+    "HasLink": 'False',
+    "HasDescription": 'True',
+    "HasLink": 'False',
+     "hasLiTags": '',
+     "IsFooter": 'False',
+      "AdData": 'FB1FDE18-9BEA-4878-86E6-0CC954213EE3$$$pa_15$$$AlwayOn|AlwaysOn$$$1@Club Sponsor', 
+      "SectionName": '', 
+      "ClubName": 'Nottingham Forest' ,
+       "isCached" : 'true',
+        "CacheKey": 'navigation_club_sponsor_8', "CombineAdRequest": 'True', 
+        "PoweredByText": '' , "PoweredInNextLine": 'False',
+         "IsNavigationAd" : 'True' 
+       }
+       , "callback" : "sendIonosOrderIds"
+,"args": { 
+            "el": "#navigation_club_sponsor_8"
+            ,"addata" : 'FB1FDE18-9BEA-4878-86E6-0CC954213EE3$$$pa_15$$$AlwayOn|AlwaysOn$$$1@Club Sponsor'}
+        })
 
 </script>
+
 
 
 
 
 <script>
 
-   adloader.push({ "url": "/UserControls/IONOS/Ionos_High_Media.ascx", "params": { "IsCPA": 'false', "HasTitle": 'False', "HasLink": 'False',"HasDescription": 'False',"HasLink": 'False', "hasLiTags": '',"IsFooter": 'False', "AdData": '01C7A278-46B8-4AAF-A7DF-CC35656561A5$$$pa_15$$$AlwayOn|AlwaysOn$$$1@Section Sponsor', "SectionName": 'Commercial', "ClubName": 'Nottingham Forest' , "isCached" : 'true', "CacheKey": 'navigation_section_sponsor_8', "CombineAdRequest": 'True', "PoweredByText": '      Powered by' , "PoweredInNextLine": 'False' }, "args": { "el": "#navigation_section_sponsor_8"} })
+
+   adloader.push({ "url": "/UserControls/IONOS/Ionos_High_Media.ascx", 
+   "params": { 
+    "IsCPA": 'false', 
+    "HasTitle": 'False', 
+    "HasLink": 'False',
+    "HasDescription": 'False',
+    "HasLink": 'False',
+     "hasLiTags": '',
+     "IsFooter": 'False',
+      "AdData": '01C7A278-46B8-4AAF-A7DF-CC35656561A5$$$pa_15$$$AlwayOn|AlwaysOn$$$1@Section Sponsor', 
+      "SectionName": '', 
+      "ClubName": 'Nottingham Forest' ,
+       "isCached" : 'true',
+        "CacheKey": 'navigation_section_sponsor_8', "CombineAdRequest": 'True', 
+        "PoweredByText": '      Powered by' , "PoweredInNextLine": 'False',
+         "IsNavigationAd" : 'True' 
+       }
+       , "callback" : "sendIonosOrderIds"
+,"args": { 
+            "el": "#navigation_section_sponsor_8"
+            ,"addata" : '01C7A278-46B8-4AAF-A7DF-CC35656561A5$$$pa_15$$$AlwayOn|AlwaysOn$$$1@Section Sponsor'}
+        })
 
 </script>
+
 
 
 
@@ -1800,7 +2354,7 @@ _e_117p_0</td><td>Facebook cookies created when Facebook share or like links cli
 <span id="PieChartLossColour"></span>
 <span id="PieChartDrawColour"></span>
 
- <script type="text/javascript" src="/js/combinedbottom_1D1190DB6E6896960CF3C3269790CBC4.js"></script>
+ <script type="text/javascript" src="/combinedjs/combinedbottom_4613911E3BBFBC9407FFE3DCE3629729.js"></script>
 
 
  
@@ -1816,20 +2370,19 @@ _e_117p_0</td><td>Facebook cookies created when Facebook share or like links cli
 
 
 <script>
-var bodyTag = document.getElementsByTagName("body")[0];
-bodyTag.setAttribute("style",$("[id$=_hdnBackgroundImage]").val());
-
 	var rollUpAccount = "UA-29399239-1";
 	var clubAccount = "UA-29367361-1";
 	$(document).ready(function(){
+		var bodyTag = $("body");
+		var bodyImage = $("[id$=_hdnBackgroundImage]").val();
+		bodyTag.attr("style", bodyImage);
 		fli.init(loader,adloader);
-		var domainNameForGA = 'www.nottinghamforest.co.uk';
+		var domainNameForGA = 'www.nottinghamforest.co.uk';        
 		gaTracking(domainNameForGA, rollUpAccount, clubAccount);
-       onkeyPressMethod();
-
-          if ($("#archive_year").attr("id") != undefined) {
+		onkeyPressMethod();
+                if ($("#archive_year").attr("id") != undefined) {
                 $("#archive_year").html(getDateDropdown());
-    	   }	
+    	        }	
 
 	});
 
@@ -1841,7 +2394,7 @@ bodyTag.setAttribute("style",$("[id$=_hdnBackgroundImage]").val());
 		gatrackevent(category, action, opt_label , rollUpAccount, clubAccount) ;
 	}
 	
-	
+
 	
 	$(document).ready(function(){
 		   window.twttr = (function (d,s,id) {
@@ -1877,7 +2430,19 @@ bodyTag.setAttribute("style",$("[id$=_hdnBackgroundImage]").val());
 		_ga.trackFacebook();
 	});
 </script>
-
+<script language="javascript" type="text/javascript">
+var orderIds = "";
+		  $("input[id^=" + "objOrders_" + "]").each(
+		  function(){
+			if($(this).val().length >0)
+				{ orderIds+= $(this).val() +",";}
+		  });
+		  
+		  if(!(orderIds == null || orderIds == undefined || orderIds.length <= 1))
+			{ orderIds =orderIds.substring(0,orderIds.length-1);
+				SendOrderIds(orderIds);
+			}
+</script>
 
 </div>
 
