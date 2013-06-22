@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kpmgcareers.co.uk privacy policy that was archived on 2012-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120604102716id_/http%3A//www.kpmg.com/Global/en/Pages/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kpmgcareers.co.uk privacy policy that was archived on 2013-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130622073527id_/http%3A//www.kpmg.com/Global/en/Pages/privacy.aspx) for the most accurate reproduction.*
 
 # Privacy | KPMG | GLOBAL
 
@@ -65,6 +65,6 @@ Please be aware that KPMG web sites may contain links to other sites, including 
 KPMG may modify this Privacy Statement from time to time to reflect our current privacy practices. When we make changes to this statement, we will revise the “updated” date at the top of this page. We encourage you to periodically review this Privacy Statement to be informed about how KPMG is protecting your information. 
 
   
-KPMG is committed to protecting the online privacy of your personal information. If you have questions or comments about our administration of your personally identifiable information, please contact us at [privacy@kpmg.com ](mailto:privacy@kpmg.com). You may also use this address to communicate any concerns you may have regarding compliance with our Online Privacy Statement. 
+KPMG is committed to protecting the online privacy of your personal information. If you have questions or comments about our administration of your personally identifiable information, please contact us at [privacy@kpmg.com ](mailto:privacy@kpmg.com%26cc=contactus@kpmg.com). You may also use this address to communicate any concerns you may have regarding compliance with our Online Privacy Statement. 
 
 _1 Throughout this web site, “KPMG,” “we,” “our,” and “us” refers to KPMG International Cooperative (“KPMG International”), a Swiss entity, and/or to any one or more of the member firms of the KPMG network of independent firms affiliated with KPMG International. KPMG International provides no client services. _
