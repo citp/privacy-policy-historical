@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the travelex.co.uk privacy policy that was archived on 2012-08-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120818160401id_/http%3A//www.travelex.co.uk/uk/privacypolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the travelex.co.uk privacy policy that was archived on 2013-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130622163231id_/http%3A//www.travelex.co.uk/uk/privacypolicy.aspx) for the most accurate reproduction.*
 
 # Travelex Privacy Policy
 
@@ -70,15 +70,21 @@ We may disclose your personal information to third parties for the following pur
 
 The personal information that we collect from you may be transferred to, and stored at, a destination outside the European Economic Area ("EEA"). It may also be processed by staff operating outside the EEA who work for us or for one of our suppliers (including third party product issuers). Such staff may be engaged in, among other things, the fulfilment of your order, the processing of your payment details and the provision of support services. By submitting your personal information, you agree to this transfer, storing or processing. We will take all reasonable steps to ensure that such personal information is treated securely and in accordance with this Privacy Policy.
 
-### IP Addresses and Cookies
+### Cookies
 
-We may collect information about your visits to the Website and your computer (including where available, your IP address, operating system and browser type) for system administration and to report such information to our advertisers. This is statistical data about our users' browsing actions and patterns, and does not identify you as an individual.
+Cookies are small text files placed on your computer, phone or tablet by websites or sometimes by emails. Cookies provide us with useful information which we use to improve our Website and make it possible for Travelex to identify some of your preferences. When you revisit our Website, Travelex's computer server will recognise the cookie, giving us information about your previous visits which help us to analyse how our customers interact with our sites so we can make improvements.This is statistical data about our users' browsing actions and patterns, and does not identify you as an individual.
 
-We collect such information by using a "cookie" file. Cookies are small pieces of information that are stored on your computer's hard drive by your browser. They help us improve the Website and make it possible for Travelex to identify some of your preferences. On revisiting the Website, Travelex's computer server will recognise the cookie, giving us information about your previous visits.
+We use three types of cookies on our websites
 
-Most browsers are originally configured to accept cookies automatically, however, you may refuse to accept cookies by activating the setting on your browser which allows you to refuse the setting of cookies. Please note that if your browser is not configured properly or if you alter your browser to disable the acceptance of cookies, you may not be able to use the Website. Unless you have adjusted your browser settings so that it will refuse cookies, our system will automatically issue cookies when you log on to the Website.
+  1. Session cookies that are deleted after each visit. 
+  2. Persistent cookies that remain in place across multiple visits to our sites until they either expire or you delete them. 
+  3. Third party cookies that are used by our approved business partners. 
 
-Please note that our advertisers may also use cookies, over which we have no control.
+
+
+You can set your preferences on how we use cookies on your computer, phone or tablet by accessing our Cookie Consent tab on the bottom right of every screen on our website. Most browsers are originally configured to accept cookies automatically, however, you may also refuse to accept cookies by activating the setting on your browser. Please note that if your browser is not configured properly or if you alter your browser to disable the acceptance of cookies, you may not be able to use the Website. Unless you have adjusted your browser settings so that it will refuse cookies or set your preferences using our Cookie Consent tab, our system will automatically issue cookies when you access our Website.
+
+Please note that our advertisers may also use cookies, over which we have no control. You should check the Privacy Policy of advertiser websites to find out how they manage cookies.
 
 ### Links to Third Party Websites
 
@@ -92,7 +98,7 @@ The Act gives you the right to access information held about you. Your right of 
 
 Any changes we make to our Privacy Policy in the future will be posted on this page. Please do check our Privacy Policy from time to time to take notice of any changes made. By providing us with your personal information, using the Website and/or any service offered via the Website, in-store at one of our bureaux or over the phone, or by placing orders after we have changed the terms of our Privacy Policy, you will be deemed to have accepted these changes.
 
-This Privacy Policy was last updated on 13 April 2011.
+This Privacy Policy was last updated on 1st November 2012.
 
 ### Removal from Travelex Email Marketing Communications
 
