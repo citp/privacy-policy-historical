@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the viagra.com privacy policy that was archived on 2012-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121122120650id_/http%3A//www.pfizer.com/general/privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the viagra.com privacy policy that was archived on 2013-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130622141954id_/http%3A//www.pfizer.com/general/privacy.jsp) for the most accurate reproduction.*
 
 # Pfizer Privacy | Pfizer: the world's largest research-based pharmaceutical company
 
