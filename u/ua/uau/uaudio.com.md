@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the uaudio.com privacy policy that was archived on 2012-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121122004542id_/http%3A//www.uaudio.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the uaudio.com privacy policy that was archived on 2013-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130622043803id_/http%3A//www.uaudio.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -77,6 +77,6 @@ This Privacy Policy may be revised periodically, and this will be reflected by t
 
 **9\. Questions**
 
-If you have any questions or concerns about this Privacy Policy or its implementation, please contact us by email at [privacy-policy@uaudio.com](mailto:privacy-policy@uaudio.com), by mail at Privacy Policy, Universal Audio, Inc., 1700 Green Hills Road, Scotts Valley, California 95066-4926, or by telephone at (831) 440-1176.
+If you have any questions or concerns about this Privacy Policy or its implementation, please contact us by email at [privacy-policy@uaudio.com](mailto:privacy-policy@uaudio.com), by mail at Privacy Policy, Universal Audio, Inc., 4585 Scotts Valley Dr., Scotts Valley, California 95066, or by telephone at (831) 440-1176.
 
 **Last Modified:**   October  2, 2012
