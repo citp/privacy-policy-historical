@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the chelseafc.com privacy policy that was archived on 2012-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121115140505id_/http%3A//www.chelseafc.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chelseafc.com privacy policy that was archived on 2013-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130622235416id_/http%3A//www.chelseafc.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Official Site | Chelsea Football Club
 
@@ -13,6 +13,8 @@ Unless separately defined herein, the defined terms in this Privacy Policy have 
 By your use of the Website you consent to the terms and conditions of this Privacy Policy.
 
 Additionally, the Website contains links to websites that are not operated by Perform Group. These third parties may collect data from you and share some of that data with us. Perform Group are careful when choosing their partners, sponsors, and affiliates, but Perform Group are not responsible for any misuse of personal information by such third parties. We recommend that you view the Privacy Policy posted on each Website that you use to confirm that the companies' policies are acceptable to you.
+
+Further, the Website contains surveys in connection with which your responses will be processed by selected third parties on our behalf, and you hereby consent to such processing by participating in said surveys.
 
   
 1\. PERSONALLY IDENTIFIABLE INFORMATION AND HOW IT IS USED
