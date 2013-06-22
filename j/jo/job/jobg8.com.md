@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jobg8.com privacy policy that was archived on 2012-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121209091357id_/http%3A//www.jobg8.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jobg8.com privacy policy that was archived on 2013-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130622061438id_/http%3A//jobg8.com/privacy.aspx) for the most accurate reproduction.*
 
 # Jobg8
 
