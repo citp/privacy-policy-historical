@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the junction.co.za privacy policy that was archived on 2012-11-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121117004930id_/http%3A//www.junction.co.za/my/site/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the junction.co.za privacy policy that was archived on 2013-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130622051320id_/http%3A//www.junction.co.za/my/site/privacy) for the most accurate reproduction.*
 
 # Junction - Privacy Site
 
