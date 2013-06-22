@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the freelotto.com privacy policy that was archived on 2012-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121014143113id_/http%3A//www.freelotto.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freelotto.com privacy policy that was archived on 2013-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130622073407id_/http%3A//www.freelotto.com/privacy.asp) for the most accurate reproduction.*
 
 # Privacy Policy
 
-## OFFICIAL FREELOTTO PRIVACY POLICY
+##  OFFICIAL FREELOTTO PRIVACY POLICY
 
 **Collection and Data Utilization Agreement**  
 **Privacy Policy/Terms of Use Agreement**  
 IMPORTANT: The policies below are applicable to FreeLotto® and other sites on the World Wide Web portion of the Internet owned and operated by PlasmaNet, Inc. 
 
-PlasmaNet, Inc. collects personally identifying information during contests or sweepstakes registration and this information is used from time to time as you use our website to: pay prize winnings, confirm entries, and selectively show you ads or send you promotions. We may share your registration information with third parties who may contact you by postal mail or email with relevant offers.  If you choose to join any of our marketing partners offers, you will be subject to their privacy policy and terms directly.  Your personal information may be shared if required to be disclosed pursuant to an order or warrant issued by a court of competent jurisdiction
+PlasmaNet, Inc. collects personally identifying information during contests or sweepstakes registration and this information is used from time to time as you use our website to: pay prize winnings, confirm entries, and selectively show you ads or send you promotions. We may share your registration information with third parties who may contact you by postal mail with relevant offers.  If you choose to join any of our marketing partners offers, you will be subject to their privacy policy and terms directly.  Your personal information may be shared if required to be disclosed pursuant to an order or warrant issued by a court of competent jurisdiction.
 
 Players' e-mail addresses and other personal information are kept in secure databases to protect our players' privacy. 
 
