@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the freewheel.tv privacy policy that was archived on 2012-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121231052342id_/http%3A//freewheel.tv/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freewheel.tv privacy policy that was archived on 2013-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130622072838id_/http%3A//www.freewheel.tv/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | FreeWheel
 
@@ -6,7 +6,7 @@
 
 Effective Date:    July 18, 2011
 
-This privacy statement (this “Statement”) describes the types of information that FreeWheel Media, Inc. (“FreeWheel” or “we”) collects from users of its corporate Web site ([www.freewheel.tv](http://www.freewheel.tv/)) and the Web site that its customers use to use and access the services FreeWheel provides to its customers ([www.mrm.freewheel.tv](http://www.mrm.freewheel.tv/)).  This Statement also describes the services that we provide to our customers, including our hosted solution that enables our customers to manage and monetize online video advertising (the "Services").  This Statement also contains our end user opt-out mechanism.  Unless otherwise provided in this Statement, this Statement does not cover our offline data practices.
+This privacy statement (this “Statement”) describes the types of information that FreeWheel Media, Inc. (“FreeWheel” or “we”) collects from users of its corporate Web site ([www.freewheel.tv](http://www.freewheel.tv/)) and the Web site that its customers use to access the services FreeWheel provides to its customers.  This Statement also describes the services that we provide to our customers, including our hosted solution that enables our customers to manage and monetize online video advertising (the "Services").  This Statement also contains our end user opt-out mechanism.  Unless otherwise provided in this Statement, this Statement does not cover our offline data practices.
 
 This Statement is effective as of the date set forth above.  We encourage you to check this Statement from time to time.  If we make material changes that will affect any personal information that we have already collected from you, we will make reasonable efforts to notify you of the changes and to give you the opportunity to opt out.  Your continued use of this Web Site constitutes your acceptance of the current posted privacy policy. If you have questions about our privacy policy, please email us at [privacy@freewheel.tv](mailto:privacy@freewheel.tv).
 
@@ -65,7 +65,7 @@ We provide all visitors to our web site with the opportunity to review, modify, 
 If you have any questions about this Statement, the practices of this site, or your dealings with this website, you can contact:
 
 FreeWheel Media, Inc.  
-20 E. 3rd Avenue, Second Floor  
+231 Second Avenue  
 San Mateo, CA 94401
 
 Attn:  Webmaster
