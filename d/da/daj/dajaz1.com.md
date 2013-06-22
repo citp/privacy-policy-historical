@@ -1,0 +1,20 @@
+> *The following text is extracted and transformed from the dajaz1.com privacy policy that was archived on 2013-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130622043531id_/http%3A//dajaz1.com/privacy-policy) for the most accurate reproduction.*
+
+# Dajaz1 | Urban | Music | Pop | Culture
+
+**Collection and Use of Information:  **In addition to any personally identifying information you may voluntarily provide during your visit to this website, Dajaz1 may recognize and record certain other information, including without limitation, your computer’s unique IP address, and/or any other information concerning your use of this website. Dajaz1 reserves the right to use any information it collects at this website for any legal purpose, including without limitation by sending you information concerning future products, activities and/or promotions, and/or by sharing your information with third-parties in connection with certain promotions, products, programs and/or services. You may contact us by e-mail at privacy[@]dajaz1.com to request that Dajaz1 remove your information from its promotional lists.
+
+**Cookies:  **Cookies are small text files that contain a string of alphanumeric characters. Dajaz1 reserves the right to use “cookies” at this website, by which one computer transaction may be related with a later one. By way of example, cookies may be used to save passwords or preferences or otherwise keep track of website access. For more information about cookies please visit: [www.allaboutcookies.org/cookies/](http://www.allaboutcookies.org/cookies/)
+
+**Third Party Cookies:  **Dajaz1 also uses third party third party advertising companies to serve ads when you visit thiswebsite. These companies may use information about your visits to this website (not including your name, address, or other personal information) to provide advertisements on this website, other sites and other forms of media about goods and services that may be of interest to you. In providing advertisements, a unique third party cookie may be placed on your browser. Dajaz1 does not control or have access to these cookies. If you would like more information about this practice and to know your choices about not having this information used by these companies, please [click here](http://www.networkadvertising.org/consumer/opt_out.asp)
+
+**Children:**  Notwithstanding the foregoing, Dajaz1 does not seek to collect any personally identifiable information of children under 13 years of age and no such information should be submitted and/or posted to this website.
+
+LIMITATION ON LIABILITY: UNDER NO CIRCUMSTANCE SHALL DAJAZ1, ANY OF ITS AFFILIATES (INCLUDING BY WAY OF COMMON OWNERSHIP), AND/OR ANY OF THEIR OWNERS, OFFICERS, EMPLOYEES OR AGENTS, BE LIABLE TO YOU FOR ANY INDIRECT, SPECIAL, PUNITIVE, INCIDENTAL, EXEMPLARY OR CONSEQUENTIAL DAMAGES, WHETHER IN AN ACTION UNDER CONTRACT, NEGLIGENCE AND/OR ANY OTHER LEGAL THEORY, ARISING IN ANY WAY FROM OR IN CONNECTION WITH YOUR ACCESS, USE OR INABILITY TO ACCESS OR USE THIS WEBSITE.
+
+**Applicable Law:**  The laws of the State of New York shall govern all matters relating to this website privacy policy, without giving effect to any principles of conflict of law. By your use of this website, you irrevocably submit to the exclusive jurisdiction of the state and federal courts located in New York County, New York with respect to resolution of disputes arising hereunder.
+
+**Policy Changes:**  Dajaz1 reserves the right to change this policy, in whole or part, at any time in its sole and absolute discretion, without prior notice, effective upon providing the updated policy on this website. If you have any questions concerning this policy, please submit your  questions to privacy[@]dajaz1.com.
+
+  
+
