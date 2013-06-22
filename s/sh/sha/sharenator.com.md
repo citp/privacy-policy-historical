@@ -1,9 +1,6 @@
-> *The following text is extracted and transformed from the sharenator.com privacy policy that was archived on 2012-10-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121005070735id_/http%3A//www.sharenator.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sharenator.com privacy policy that was archived on 2013-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130622033712id_/http%3A//www.sharenator.com/privacy.html) for the most accurate reproduction.*
 
-# Sharenator.com - Privacy Policy
-
-  
-
+# Sharenator.com
 
 **What information do we collect?**
 
@@ -63,7 +60,6 @@ Additional information on CPX Interactive website: [http://www.cpxinteractive.co
 
 This policy was last modified on 09 Sep 2010 
 
-http://www.sharenator.com/contact.html  
-
+<http://www.sharenator.com/contact.html>
 
 Privacy Policy Created by [Free Privacy Policy](http://www.freeprivacypolicy.com/)
