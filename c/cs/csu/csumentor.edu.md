@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the csumentor.edu privacy policy that was archived on 2012-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121123222800id_/http%3A//www.csumentor.edu/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the csumentor.edu privacy policy that was archived on 2013-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130622032004id_/http%3A//www.csumentor.edu/privacy.asp) for the most accurate reproduction.*
 
 # CSUMentor - Privacy Policy Statement
 
