@@ -1,30 +1,30 @@
-> *The following text is extracted and transformed from the bvblackspin.com privacy policy that was archived on 2012-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120603211912id_/http%3A//www.aol.com/aolnetwork/aol_pp.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bvblackspin.com privacy policy that was archived on 2013-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130622063345id_/http%3A//www.aol.com/aolnetwork/aol_pp.html) for the most accurate reproduction.*
 
 # AOL Privacy
 
-This notice provides highlights of the full [privacy policy](https://web.archive.org/privacy-policy/) and covers the collection and use of information when you use AOL branded websites, services, and software, as well as many websites owned by or affiliated with AOL and operating under different names. Para leer este documento en español haz clic [aquí](http://privacy.aol.com/puntos-importante).
+This notice provides highlights of the full [privacy policy](https://web.archive.org/privacy-policy/) and covers the collection and use of information from any device used to access or connect to AOL branded websites, services, and software, as well as many websites owned by or affiliated with AOL and operating under different names. Para leer este documento en español haz clic [aquí](http://privacy.aol.com/puntos-importante).
 
-###  Personal Information
+### Personal Information
 
 We collect personal information when you make your information known, such as by registering, authenticating, making purchases, or interacting with AOL. If you do not make yourself known to AOL, your use of our content and services is generally anonymous.
 
-###  How we use your Information
+### How we use your Information
 
 Your AOL information is used to operate and improve our services, fulfill your requests and communicate with you, conduct research, and personalize the content and advertisements provided to you.
 
-###  Information Sharing
+### Information Sharing
 
 AOL does not share, sell or rent your personal information to third parties. Your information is shared with third parties with your permission, except in response to legal process.
 
-###  Internet Advertising
+### Internet Advertising
 
 Our ability to provide free content and services depends on advertising. Some of our ads are displayed based on the page visited, but many of our ads are targeted to you based on your interests and other information we have about you. We want you to understand how internet advertising works and offer resources and choices. [Learn more](http://privacy.aol.com/advertising-and-privacy/).
 
-###  How to Opt-Out
+### How to Opt-Out
 
 You can [opt-out](http://www.aboutads.info/choices/) of targeted advertising delivered by the AOL Advertising Network.
 
-###  How to Contact Us
+### How to Contact Us
 
 **AOL Privacy**  
 22000 AOL Way  
