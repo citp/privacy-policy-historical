@@ -1,65 +1,148 @@
-> *The following text is extracted and transformed from the headspace.com privacy policy that was archived on 2001-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010608214103id_/http%3A//www.beatnik.com/general/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the headspace.com privacy policy that was archived on 2013-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130623013018id_/http%3A//www.getsomeheadspace.com/customer-services/privacy.aspx) for the most accurate reproduction.*
 
-# Beatnik - Privacy Statement
+# Privacy Statement | Website privacy statement from Get Some Headspace | Headspace
 
-BEATNIK, INC.
+## headspace meditation limited 
 
-Beatnik, Inc. knows that users of the Beatnik.com site (the "Site") value their privacy. In that vein, our goal is to create a safe online environment of trust and community with our users. The following privacy policy discloses our information gathering and dissemination practices for this Site. 
+company no. 07094561 trading as ‘headspace’
 
-1\. What personal information is gathered about you and how do we use it?
+("we") are committed to protecting and respecting your privacy. this policy and any other documents referred to on it sets out the basis on which any personal data we collect from you, or that you provide to us, will be processed by us.  please read the following carefully to understand our views and practices regarding your personal data and how we will treat it.
 
-In general, personal information is collected for the purpose of enhancing your experience at this Site and will not be shared or disclosed without your consent. 
+For the purpose of the Data Protection Act 1998 (the Act), the data controller is_headspace meditation limited company no. 07094561.
 
-We ask you to register before allowing you to use certain features of our Site, for instance when you license and download music or software, when you save music tracks in your project area "My Projects" or when you upload and post content on the Site. As part of the registration process, we ask you to provide your full name, email address and phone number. You will also choose a username and a password which you can use during your future sessions when logging in on the Site. Registration information is needed to track and verify compliance with the Terms of Use applicable to the Site, as well as with federal, state and local laws. We may also ask you for personal information at other times, including, but not limited to, when you enter a sweepstakes, contest or promotion sponsored by Beatnik, Inc. and/or our affiliates, on our feedback forms or when you report a problem with the Site. We may also ask you to complete surveys for research purposes. 
+## Information we may collect from you
 
-When purchasing products, services or licenses to music or software, you will also be required to provide your street address and credit card/financial information, if applicable. Ordering information is needed to verify your identity and for the purchase and sale of products, services or licenses ordered through the Site. Credit card/financial information that is collected is used to charge you for products, services and licenses you purchase. We may use your telephone number to contact you in order to resolve shipping problems. We will never use your telephone number for sales or marketing purposes. 
+We may collect and process the following data about you:
 
-We use "cookies" during your visit to the Site. "Cookies" are text files sent from our server and stored by your web browser on your computer's hard drive. Cookies allow us to personalize and save preferences. Cookies can be used to collect anonymous data and serve the user with specifically targeted ads. We do not use cookies to read any data or files in your computer. Most web browsers automatically accept cookies, but you can usually configure your browser to prevent that. 
+  * Information that you provide by filling in forms on our site www.getsomeheadspace.com (our site). This includes information provided at the time of registering to use our site, subscribing to our service, posting material or requesting further services. We may also ask you for information when you enter a competition or promotion sponsored by Headspace Meditation Limited, and when you report a problem with our site.
+  * If you contact us, we may keep a record of that correspondence.
+  * We may also ask you to complete surveys that we use for research purposes, although you do not have to respond to them.
+  * Details of transactions you carry out through our site and of the fulfilment of your orders.
+  * Details of your visits to our site including, but not limited to, traffic data, location data, weblogs and other communication data, whether this is required for our own billing purposes or otherwise and the resources that you access.
+  * Voting & Facebook profile information
 
-The Site server automatically collects data about your home server's domain when you visit the Site. For example, if you visit us from your Yahoo account, our server will record a visit from Yahoo.com. Our server may also record the referring page that linked you to us, e.g., an affiliate web site or a search engine. We use this information for the purposes of tracking the web site that referred you to us and we sometimes provide this information in aggregated non-personally identifiable form to our affiliates. Our server will not automatically record your name or e-mail address. Your e-mail address and other personally identifying data will not be known to Beatnik unless you voluntarily submit them to us or post them on a message/bulletin board. 
 
-Lastly, we may collect IP addresses. An IP address is a number that is automatically assigned to your computer whenever you are navigating the Internet. Internet servers automatically identify your computer by its IP address. We may use your IP address to help diagnose problems with our server and to administer our Site but never for marketing or tracking purposes. 
 
-Occasionally, we may use the information you submit to send you special offers or other information. If you prefer, you can choose not to receive such information from Beatnik by indicating to us your preference by unchecking the appropriate box at the time you provide to us the requested information, or at any time by sending an email message opting out to care@beatnik.com. 
+## privacy and cookies
 
-More generally, the personal information you give us allows us to improve our marketing and promotional efforts, to statistically analyze site usage, to improve our content and product offerings and to customize our site's content, layout and services. However, for these purposes, we only use your personal information on an aggregated basis without the use of any information that personally identifies you. 
+This statement covers the services provided by this website.
 
-By providing any personal information to the Site, users, including without limitation users in the European Union, acknowledge that they fully understand and unambiguously consent to the collection and processing of such information in the United States. 
+The purpose of this statement is to inform users of this website what information is collected about them when they visit this site, how this information is used, if it is disclosed and the ways in which we protect users’ privacy.
 
-2\. With whom is your information shared?
+#### Confidentiality and security
 
-As a general rule, we do not share or disclose your personal information with or to any third party unless we have your explicit permission to do so. For example, if you request that we sign you up for a third party's newsletter, we will provide your personal information to such third party so that they can add you to the newsletter distribution list. We do not control and are not responsible for the privacy policies of such third parties. 
+Any information you provide will be held securely and in accordance with the Data Protection Act 1998. Your personal details will not normally be disclosed to third parties. In some circumstances however we may need to disclose your personal details to a third party so that they can provide a service you have requested, or fulfil a request for information. Any information about you that we pass to a third party will be held securely by that party, in accordance with the Data Protection Act 1998, and used only to provide the services or information you have requested.
 
-We disclose aggregated, non-personally identifiable information to advertisers and others for marketing and promotional purposes, without disclosing to these entities any information that could be used to personally identify you. Certain information, such as your password, credit card number and bank account number, are not disclosed to advertisers or for marketing or promotional purposes at all. 
+You have a right to access the personal information we hold about you at any time. If you wish to do this, please put your request in writing (explaining that your interest is in this website) to:
 
-In addition, we reserve the right to disclose any content, records or electronic communication of any kind (including without limitation personal information or private electronic communication transmitted on the Site): (i) to satisfy any law, regulation, or government request; (ii) if such disclosure is necessary to operate our business; or (iii) to protect the rights or property of Beatnik or its users, sponsors, providers, licensors or merchants. We also reserve the right to reject any order or to request additional information from any user. 
+Headspace Meditation Limited  
+15 Percy Street  
+London  
+W1T 1DS  
 
-3\. What are your choices regarding how collected information is used?
 
-We always give you the opportunity and right to opt out of receiving communications or promotional materials from Beatnik, Inc. on the registration form by unchecking the appropriate box or by sending us an email opting out that includes your full name and email address to care@beatnik.com. 
+#### Information we collect from visitors
 
-4\. What safeguards are in place to protect your personal information?
+##### **Newsletters**
 
-Beatnik, Inc. uses commercially reasonable physical, electronic and managerial procedures to maintain the confidentiality of the information we collect online. The Site has security measures in place to protect against the loss, misuse and alteration of the information under our control. Our Site and servers are protected using standard industry practice. We review and update web security and security procedures regularly. 
+If you sign up to receive email from this website we will use the information you give us to provide the service(s) you have requested. We may occasionally contact subscribers to help us evaluate and improve the service that we offer.
 
-Information we collect for transactions, whether purchase or license transactions, is encrypted using secure server software. 
+If you inform us that you wish to cancel a subscription we will remove you from our mailing list and your details will be deleted from our records.
 
-Although we will exercise reasonable care to maintain the confidentiality of the personal information we collect online, no data transmission over the Internet can be guaranteed to be 100% secure and we cannot guarantee that the personal information you submit to us will be free from unauthorized third party intrusion. You therefore understand and agree that all information you submit to Beatnik or post on the Site is done so at your own risk. 
+##### Cookies
 
-5\. How can you update or correct inaccuracies?
+When we provide services, we want to make them easy, useful and reliable. Where services are delivered on the internet, this sometimes involves placing small amounts of information on your device, for example, computer or mobile phone. These include small files known as cookies. They cannot be used to identify you personally.
 
-Upon request via email at care@beatnik.com, we will provide to you a summary of any personal information retained by us regarding you. You may also modify, correct, change or update your personal records or cause your personal records to be removed from our database by request via email to care@beatnik.com. We will only send personal records to the email address on file for the visitor name associated with it. 
+These pieces of information are used to improve services for you through, for example:
 
-6\. What about other sites linked from the Site?
+  * enabling a service to recognise your device so you don’t have to give the same information several times during one task
+  * recognising that you may already have given a username and password so you don’t need to do it for every web page requested
+  * measuring how many people are using services, so they can be made easier to use and there’s enough capacity to ensure they are fast
 
-You should be aware that when you are on the Site, you can be directed to other sites that we do not control. These other sites may send their own cookies, collect data or solicit personal information. We are not responsible for the privacy practices of third party sites. 
 
-7\. What about information you post on the Site?
 
-If you post information on, or transmit information to other people through, the Site, including without limitation, on message/bulletin boards on the Site, you understand that such information will be publicly available and you have no expectation of privacy or confidentiality regarding such information. 
+##### You can manage these small files yourself and learn more about them through [Internet browser cookies – what they are and how to manage them](http://www.direct.gov.uk/en/SiteInformation/DG_197506?CID=Central&PLA=url_mon&CRE=managing_cookies "Managing cookies") 
 
-YOUR AGREEMENT
+#### Our use of cookies
 
-By using this Site, you acknowledge and agree to this privacy policy. If you do not agree to this privacy policy, please do not use the Site. We reserve the right to change, add or remove all or part of our privacy policy at any time by posting the changes on this page. Your continued use of the Site following the posting of changes to these terms means you accept such changes. 
+For a list of all the cookies that we know are used by this website, please read our [Cookies Audit page](http://www.getsomeheadspace.com/customer-services/cookies.aspx?vid=10923)
 
-If you have any comments or questions about our privacy policy, please send us an email at [care@beatnik.com](mailto:care@beatnik.com). 
+#### **Cookies for improving service**
+
+Google Analytics sets cookies to help us accurately estimate the number of visitors to the website and volumes of usage. This to ensure that the service is available when you want it and fast.
+
+This site uses cookies for collecting non-personal user information from the site. This site does not collect any information about you except that required for system administration of the website.
+
+Cookies are pieces of data created when you visit a site, and contain a unique, anonymous number. They are stored in the cookie directory of your hard drive, and do not expire at the end of your session. Cookies do not contain any personal information about you and cannot be used to identify an individual user. If you choose not to accept the cookie, this will not affect your access to the majority of facilities available on our website.
+
+Although your browser may be set up to allow the creation of cookies, you can specify that you be prompted before a site puts a cookie on your hard disk, so that you can decide whether to allow or disallow the cookie. Alternatively, you can set your computer not to accept any cookie.
+
+This site uses Google Analytics code to gather statistical information. For more information on how Google Analytics processes this information, visit [www.google.com/analytics](http://www.google.com/analytics).
+
+#### **Cookies on this website from other companies & social networking websites**
+
+During your visit to the site you may notice some cookies that are not related to this website. This happens when you visit a page with content embedded from a third party (for example YouTube videos) or use some of the links to social networking sites (e.g. Share This). These websites may place cookies on your computer.
+
+This website does not control how a third party uses their cookies. You should check these third party websites’ privacy policies for more information about their cookies if you are concerned about this.
+
+#### Log files
+
+Log files allow us to record visitors’ use of the site. This site's administrative team puts together log file information from all our visitors, which we use to make improvements to the layout of the site and to the information in it, based on the way that visitors move around it. Log files do not contain any personal information about you.
+
+If you receive the HTML-formatted version of a newsletter, your opening of the newsletter email is notified to us and saved. Your clicks on links in the newsletter are also saved. These and the open statistics are used in aggregate form to give us an indication of the popularity of the content and to help us make decisions about future content and formatting.
+
+## Where we store your personal data
+
+The data that we collect from you may be transferred to, and stored at, a destination outside the European Economic Area ("EEA"). It may also be processed by staff operating outside the EEA who work for us or for one of our suppliers. Such staff maybe engaged in, among other things,  the fulfilment of your order, the processing of your payment details and the provision of support services. By submitting your personal data, you agree to this transfer, storing or processing. We will take all steps reasonably necessary to ensure that your data is treated securely and in accordance with this privacy policy.
+
+All information you provide to us is stored on our secure servers. Any payment transactions will be encrypted using SSL technology. Where we have given you (or where you have chosen) a password which enables you to access certain parts of our site, you are responsible for keeping this password confidential. We ask you not to share a password with anyone.
+
+Unfortunately, the transmission of information via the internet is not completely secure. Athough we will do our best to protect your personal data, we cannot guarantee the security of your data transmitted to our site; any transmission is at your own risk. Once we have received your information, we will use strict procedures and security features to try to prevent unauthorised access.
+
+## Uses made of the information
+
+We use information held about you in the following ways:
+
+  * To ensure that content from our site is presented in the most effective manner for you and for your computer.
+  * To provide you with information, products or services that you request from us or which we feel may interest you, where you have consented to be contacted for such purposes.
+  * To carry out our obligations arising from any contracts entered into between you and us.
+  * To allow you to participate in interactive features of our service, when you choose to do so.
+  * To notify you about changes to our service.
+
+
+
+We may also use your data, to provide you with information about goods and services which may be of interest to you and we or they may contact you about these by post or telephone.
+
+If you are an existing customer, we will only contact you by electronic means (e-mail or SMS) with information about goods and services similar to those which were the subject of a previous sale to you.
+
+We do not disclose information about identifiable individuals to our advertisers, but we may provide them with aggregate information about our users (for example, we may inform them that 500 men aged under 30 have clicked on their advertisement on any given day). We may also use such aggregate information to help advertisers reach the kind of audience they want to target (for example, women in SW1). We may make use of the personal data we have collected from you to enable us to comply with our advertisers' wishes by displaying their advertisement to that target audience.
+
+## Disclosure of your information
+
+We may disclose your personal information to any member of our group, which means our subsidiaries, our ultimate holding company and its subsidiaries, as defined in section 736 of the UK Companies Act 1985.
+
+We may disclose your personal information to third parties:
+
+  * In the event that we sell or buy any business or assets, in which case we may disclose your personal data to the prospective seller or buyer of such business or assets.
+  * If Headspace Meditation Limited or substantially all of its assets are acquired by a third party, in which case personal data held by it about its customers will be one of the transferred assets.
+  * If we are under a duty to disclose or share your personal data in order to comply with any legal obligation, or in order to enforce or apply our terms of use or terms and conditions of supply and other agreements; or to protect the rights, property, or safety of Headspace Meditation Limited, our customers, or others. This includes exchanging information with other companies and organisations for the purposes of fraud protection and credit risk reduction.
+
+
+
+## Your rights
+
+You have the right to ask us not to process your personal data for marketing purposes. We will usually inform you (before collecting your data) if we intend to use your data for such purposes or if we intend to disclose your information to any third party for such purposes. You can exercise your right to prevent such processing by checking certain boxes on the forms we use to collect your data.  You can also exercise the right at any time by contacting us at [info@getsomeheadspace.com](mailto:info@getsomeheadspace.com).
+
+Our site may, from time to time, contain links to and from the websites of our partner networks, advertisers and affiliates.  If you follow a link to any of these websites, please note that these websites have their own privacy policies and that we do not accept any responsibility or liability for these policies.  Please check these policies before you submit any personal data to these websites.
+
+## Access to information
+
+The Act gives you the right to access information held about you. Your right of access can be exercised in accordance with the Act. Any access request may be subject to a fee of £10 to meet our costs in providing you with details of the information we hold about you.
+
+## Changes to our privacy policy
+
+Any changes we may make to our privacy policy in the future will be posted on this page and, where appropriate, notified to you by e-mail.
+
+## Contact
+
+Questions, comments and requests regarding this privacy policy are welcomed and should be addressed to [info@getsomeheadspace.com](mailto:info@getsomeheadspace.com).
