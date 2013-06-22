@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the directtrack.com privacy policy that was archived on 2012-12-27.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121227201117id_/http%3A//directtrack.com/misc/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the directtrack.com privacy policy that was archived on 2013-06-22.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130622050511id_/http%3A//directtrack.com/misc/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 <title>DirectTrack Privacy Policy</title>
@@ -49,7 +49,7 @@ $.dr.overlay({
 </script>
 <!-- End Google Analytics-->
 
-</head>
+<script type="text/javascript" async="" src="https://munchkin.marketo.net/munchkin.js"></script></head>
 <body>
 <div class="header-wrapper">
   <div class="header"><a href="http://directtrack.com/" class="logo"><img src="http://directtrack.com/image_library/main-logo.gif" alt="DirectTrack - A Digital River Company"></a>
@@ -279,7 +279,7 @@ $.dr.overlay({
 <li><a href="http://directtrack.com/misc/your-california-privacy-rights">Your California Privacy Rights</a></li>
 
 		</ul>
-		<p>© 2012 Digital River, Inc. Digital River™ is a registered trademark of Digital River, Inc.  <a href="http://www.digitalriver.com/" target="_blank">www.digitalriver.com</a></p>
+		<p>© 2013 Digital River, Inc. Digital River™ is a registered trademark of Digital River, Inc.  <a href="http://www.digitalriver.com/" target="_blank">www.digitalriver.com</a></p>
 	</div>
 	<script type="text/javascript">
 	jQuery(document).ready(function(){$.dr.init();});
@@ -310,6 +310,29 @@ document.write(unescape("%3Cscript src='" + piProtocol + "pardot.com/pi.js' type
      $.dr.processingDialog.disable();
 </script>
 
+
+<!--Marketo -->
+<script type="text/javascript">
+(function() {
+  var didInit = false;
+  function initMunchkin() {
+    if(didInit === false) {
+      didInit = true;
+      Munchkin.init('348-QUY-258');
+    }
+  }
+  var s = document.createElement('script');
+  s.type = 'text/javascript';
+  s.async = true;
+  s.src = document.location.protocol + '//munchkin.marketo.net/munchkin.js';
+  s.onreadystatechange = function() {
+    if (this.readyState == 'complete' || this.readyState == 'loaded') {initMunchkin();}
+  };
+  s.onload = initMunchkin;
+  document.getElementsByTagName('head')[0].appendChild(s);
+})();
+</script>
+<!--End Marketo -->
   
 
 </body></html>
