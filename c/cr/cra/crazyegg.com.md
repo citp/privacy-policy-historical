@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the crazyegg.com privacy policy that was archived on 2012-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121223085224id_/http%3A//www.crazyegg.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the crazyegg.com privacy policy that was archived on 2013-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130622070442id_/http%3A//www.crazyegg.com/privacy) for the most accurate reproduction.*
 
-# CrazyEgg
+# Crazy Egg Privacy Policy
 
 As used in this policy, "Crazy Egg" refers to all websites (including http://www.crazyegg.com), properties, and services owned or operated by Crazy Egg, Inc. 
 
