@@ -1,20 +1,20 @@
-> *The following text is extracted and transformed from the anz.com privacy policy that was archived on 2012-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121209061634id_/https%3A//www.anz.com/auxiliary/help/help/website-security-privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the anz.com privacy policy that was archived on 2013-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130622060709id_/http%3A//www.anz.com/auxiliary/help/help/website-security-privacy) for the most accurate reproduction.*
 
 # ANZ Web Site Security and Privacy Statement | ANZ
 
-  * About this Security and Privacy Statement
+  * About this Security and privacy statement
   * Security of information
   * Information collected
   * Collection of IP addresses
   * Advertising and tracking
   * Cookies
-  * How we handle Email
-  * Use and Disclosure of Information
-  * Acceptance and Changes to Security and Privacy Statement
+  * How we handle email
+  * Use and disclosure of information
+  * Acceptance and changes to Security and privacy statement
 
 
 
-**About this Security and Privacy Statement**
+**About this Security and Privacy statement**
 
 This Security and Privacy Statement applies to this website which is operated by Australia and New Zealand Banking Group Limited 
 
@@ -74,7 +74,7 @@ For instance, ANZ collects and stores your IP address when you log into ANZ Inte
 
 Back to top
 
-**Advertising and Tracking**
+**Advertising and tracking**
 
 ANZ uses Doubleclick International Asia BV to deliver its online advertising where ANZ banner advertisements are placed on Third Party websites ('Advertising Company').
 
@@ -135,7 +135,7 @@ You may still be able to use some information-only pages even if you do not acce
 
 Back to top
 
-**How we Handle Email**
+**How we handle email**
 
 We will preserve the content of any e-mail that you send us, if we believe that we have a legal requirement to do so. Your e-mail message content may be monitored by our ANZ employees for security issues including where e-mail abuse is suspected; our response to you may be monitored for quality assurance issues.
 
