@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the loewshotels.com privacy policy that was archived on 2012-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121225071838id_/http%3A//www.loewshotels.com/en/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the loewshotels.com privacy policy that was archived on 2013-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130622044458id_/http%3A//www.loewshotels.com/en/privacy) for the most accurate reproduction.*
 
 # Loews Privacy Policy: Statement of Privacy for Loews Hotels Website - Loews
 
@@ -10,7 +10,7 @@ LoewsHotels.com understands that many users may feel concern when submitting per
   * We use the information provided to us only for the purpose(s) for which you specifically provided it or for specific additional purposes for which we receive your prior consent.
   * We do not share any information you provide with anyone outside of Loews Hotels, Inc., and its affiliates except for suppliers who assist us in maintaining and managing the activities on our sites. These suppliers are legally obligated to maintain the confidentiality of any information we provide them, including your information. We may use "cookies" to enhance your experience on our sites.
   * We employ appropriate security measures to protect the loss, misuse and alteration of any information you provide us.
-  * We provide you with choice and control over the collection and use of any personally identifiable information that you provide to us online and a means for updating, correcting or removing this information.
+  * We provide you with choice and control over the collection and use of any personally identifiable information that you provide to us online and a means for updating, correcting this information.
 
 
 
