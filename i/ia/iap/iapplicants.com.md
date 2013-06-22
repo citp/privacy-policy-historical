@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the iapplicants.com privacy policy that was archived on 2012-10-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121021170920id_/http%3A//www.iapplicants.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the iapplicants.com privacy policy that was archived on 2013-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130622213905id_/http%3A//www.iapplicants.com/privacy.htm) for the most accurate reproduction.*
 
 # iApplicants™ Applicant Tracking System – Privacy Policy
 
