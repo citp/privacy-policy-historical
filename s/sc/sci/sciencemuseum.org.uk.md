@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sciencemuseum.org.uk privacy policy that was archived on 2012-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121226235745id_/http%3A//www.sciencemuseum.org.uk/about_us/contact_us/privacy_policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sciencemuseum.org.uk privacy policy that was archived on 2013-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130623005538id_/http%3A//sciencemuseum.org.uk/about_us/contact_us/privacy_policy.aspx) for the most accurate reproduction.*
 
 # Privacy and cookies - About us - Science Museum
 
