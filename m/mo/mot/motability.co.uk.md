@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the motability.co.uk privacy policy that was archived on 2012-10-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121004035010id_/http%3A//www.motability.co.uk/utilities/privacy-and-cookies-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the motability.co.uk privacy policy that was archived on 2013-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130622035855id_/http%3A//www.motability.co.uk/utilities/privacy-and-cookies-policy) for the most accurate reproduction.*
 
 # Privacy and cookies policy | Motability
 
 Motability Operations Limited are committed to protecting and respecting your privacy online.
 
-This policy sets out how we handle your personal information and provides comprehensive information about cookies and the way we use them on [www.motability.co.ukOpens in new window](http://www.motability.co.uk/) .
+This policy sets out how we handle your personal information and provides comprehensive information about cookies and the way we use them on [www.motability.co.ukOpens in new window](http://www.motability.co.uk/ "Opens in new window") .
 
 ## Privacy
 
@@ -45,9 +45,7 @@ The Car Search application will only use this information for the following reas
 
   1. New account activation
   2. Forgotten password
-
-
-  * Where you may explicitly request results/ car details/ shortlist / comparisons to be sent to you
+  3. Where you may explicitly request results/ car details/ shortlist / comparisons to be sent to you
 
 
 
@@ -77,7 +75,7 @@ We place great importance on the security of all personally identifiable informa
 
 Cookies are small text files that are placed on your computer by websites that you visit. They are stored on your computer to collect information about the general use of the site in order to make the website work more efficiently and to provide statistical data about our users' browsing actions and patterns.
 
-What types of cookies does the website use?
+### What types of cookies does the website use?
 
 We use cookies to:
 
@@ -94,7 +92,7 @@ Google analytics | _utma
 _utmb  
 _utmc  
 _utmz   
-  | These cookies are used to collect information about how visitors use the Website. We use the information to compile reports to help us improve the Website. The cookies collect information in an anonymous form, including the number of visitors to the Website, where visitors have come to the site from and the pages visited. Please visit Google for further details on [Cookies & Google AnalyticsOpens in new window](https://developers.google.com/analytics/resources/concepts/gaConceptsCookies) .  
+  | These cookies are used to collect information about how visitors use the Website. We use the information to compile reports to help us improve the Website. The cookies collect information in an anonymous form, including the number of visitors to the Website, where visitors have come to the site from and the pages visited. Please visit Google for further details on [Cookies & Google AnalyticsOpens in new window](https://developers.google.com/analytics/resources/concepts/gaConceptsCookies "Opens in new window") .  
   
 Content management system cookie
 
@@ -132,13 +130,23 @@ Accessibility cookie | TextSize and colControl |
 
 This cookie stores accessibility toolbar settings, such as text size and colours.  
   
+Saving preference cookie | CarBasket
+
+WAVBasket
+
+PrintBasket
+
+SavedSearch
+
+| These cookies enable users to save information they would like to review at a later date.  
+  
 ### Updating your settings
 
 You do not need to allow your browser to accept cookies in order to browse much of our website. If cookies are disabled then although the core features of the website will work some of the functionality of the website may be affected.
 
 To disable cookies select ‘Tools / Internet Options / Privacy /Advanced’ from your internet browser then select the ‘override automatic handling’ option from the advanced settings dialogue box.
 
-To find out more about the way cookies work, how to see what cookies have been set and how to manage and delete them, visit [www.allaboutcookies.orgOpens in new window](http://www.allaboutcookies.org/)  
+To find out more about the way cookies work, how to see what cookies have been set and how to manage and delete them, visit [www.allaboutcookies.orgOpens in new window](http://www.allaboutcookies.org/ "Opens in new window")  
 
 ## Updates
 
