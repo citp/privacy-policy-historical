@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the comicbook.com privacy policy that was archived on 2012-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120507055458id_/http%3A//comicbook.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the comicbook.com privacy policy that was archived on 2013-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130622055145id_/http%3A//comicbook.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | ComicBook.com
+# Privacy Policy | Comicbook.com
 
 ## Privacy Policy
 
@@ -81,6 +81,4 @@ Comicbook.com, LLC has the discretion to occasionally update this privacy statem
 
 **7\. Contacting Us**
 
-If you have questions regarding our Privacy Statement, its implementation, failure to adhere to this Privacy Statement and/or our general practices, please contact us at privacy@comicbook.com 
-
-Rating: 0.0/ **10** (0 votes cast)
+If you have questions regarding our Privacy Statement, its implementation, failure to adhere to this Privacy Statement and/or our general practices, please contact us at privacy@comicbook.com
