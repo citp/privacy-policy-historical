@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the cheng-tsui.com privacy policy that was archived on 2012-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121102185936id_/http%3A//www.cheng-tsui.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cheng-tsui.com privacy policy that was archived on 2013-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130622152153id_/http%3A//www.cheng-tsui.com/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy | Cheng & Tsui
 
-Last Updated: July 27, 2007
+Last Updated: January 15, 2013
 
 This website is maintained by: **Cheng & Tsui Company, Inc.**
 
