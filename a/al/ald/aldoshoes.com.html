@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the aldoshoes.com privacy policy that was archived on 2012-10-20.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121020070940id_/http%3A//www.aldoshoes.com/us/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the aldoshoes.com privacy policy that was archived on 2013-06-22.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130622034913id_/http%3A//www.aldoshoes.com/us/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 	<script language="JavaScript">
@@ -18,7 +18,7 @@
 
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 <title>Shop ALDO Shoes, Boots, Sandals, &amp; Accessories for women &amp; Men.</title>
-<meta http-equiv="X-UA-Compatible" content="IE=7">
+<meta http-equiv="X-UA-Compatible" content="IE=8">
 <meta name="description" content="Great selection of shoes, boots, sandals and accessories. Shop women and men's shoes &amp; find a wide variety of styles &amp; sizes at the ALDO Shoes Online Store.">
 <meta name="keywords" content="aldo, aldo shoes, shoe store, shoes, women's shoes, men's shoes, boots, women's boots, men's boots, sandals, women's sandals, men's sandals, dress shoes, dress boots, casual shoes, fashion footwear, handbag, designer handbag, shop, monthly sales">
 <meta name="author" content="iCongo, Inc.">
@@ -27,16 +27,18 @@
 
 
 	
-	
-	
-	
-	
 	<link href="http://www.aldoshoes.com/css/mainStyles.css" rel="stylesheet" type="text/css">
 	<link href="http://www.aldoshoes.com/css/engNavigation.css" rel="stylesheet" type="text/css">
 	<link href="http://www.aldoshoes.com/css/jQueryPopup.css" rel="stylesheet" type="text/css">
 	<link rel="icon" href="http://www.aldoshoes.com/_static/images/www/Shared/ico.png" type="image/png">
 	<link href="http://www.aldoshoes.com/css/jquery-ui-1.8.smoothness.css" rel="stylesheet" type="text/css">
-	<link href="https://fonts.googleapis.com/css?family=Oswald" rel="stylesheet" type="text/css">
+	
+	<link href="http://www.aldoshoes.com/css/jquery.ui.core.css" rel="stylesheet" type="text/css">
+	<link href="http://www.aldoshoes.com/css/jquery.ui.theme.css" rel="stylesheet" type="text/css">
+	<link href="http://www.aldoshoes.com/css/jquery.ui.selectmenu.css" rel="stylesheet" type="text/css">
+	
+	<link href="http://www.aldoshoes.com/css/fonts.css" rel="stylesheet" type="text/css" charset="utf-8">
+	
 	<script>
 		siteUrl = 'http://www.aldoshoes.com/';
 		var jqueryURL = siteUrl;
@@ -45,11 +47,17 @@
 	<script src="http://www.aldoshoes.com/javascript/global_scripts.js" language="javascript" type="text/javascript"></script>
 	
 	<script type="text/javascript" src="http://www.aldoshoes.com/javascript/jquery.js"></script>
-	<script type="text/javascript" src="http://www.aldoshoes.com/javascript/jquery-ui-1.8.5.min.js"></script>
+	<script type="text/javascript" src="http://www.aldoshoes.com/javascript/jquery-ui-1.10.1.min.js"></script>
 	
+	<script type="text/javascript" src="http://www.aldoshoes.com/javascript/jquery.ui.core.js"></script>
+	<script type="text/javascript" src="http://www.aldoshoes.com/javascript/jquery.ui.position.js"></script>
+	<script type="text/javascript" src="http://www.aldoshoes.com/javascript/jquery.ui.widget.js"></script>
+	<script type="text/javascript" src="http://www.aldoshoes.com/javascript/jquery.ui.selectmenu.js"></script>
 	
-		<script type="text/javascript" src="http://www.aldoshoes.com/javascript/criteo_ld.js"></script>
+		<script src="//d3c3cq33003psk.cloudfront.net/opentag-61641-327656.js" async="" defer=""></script>
 	
+			<script type="text/javascript" src="http://www.aldoshoes.com/javascript/criteo_ld.js"></script>
+		
 	
 	<script type="text/javascript" src="http://www.aldoshoes.com/cfajax/core/engine.js"></script>
 	<script type="text/javascript" src="http://www.aldoshoes.com/cfajax/core/util.js"></script>
@@ -109,7 +117,6 @@
 		<div id="header">
 			
 
-	
 	<script>
 		function trim(str, chars) {
 		    return ltrim(rtrim(str, chars), chars);
@@ -195,16 +202,8 @@
 			function AkamiCacheBypass_Result(result)
 					{
 
-							//alert(result[0].SHOPPINGBAGINFOLINE);
-							//alert(result[0].MINICARTAMOUNT);
-							//alert(result[0].MINICARTTXT);
-							//alert(result[0].CONTENTLOGIN);
-							//alert(result[0].CONTENTREGISTER);
-
 							document.getElementById('ShoppingBagInfoLine').innerHTML = result[0].SHOPPINGBAGINFOLINE;
 							document.getElementById('miniCartAmount').innerHTML = result[0].MINICARTAMOUNT;
-							document.getElementById('miniCartTxt').innerHTML = result[0].MINICARTTXT;
-
 
 							document.getElementById('TopLoginDisplay').innerHTML = result[0].CONTENTLOGIN;
 
@@ -213,52 +212,102 @@
 									document.getElementById('TopRegisterDisplay').innerHTML = result[0].CONTENTREGISTER;
 										}
 
+							j$("#topnavMenu li a").mouseover(function() {
+								j$(this).addClass("js-hover");
+								j$("#topnavMenu li.intl a").removeClass("js-hover");
+							});
+							j$("#topnavMenu li a").mouseout(function() {
+								j$(this).removeClass("js-hover");
+							});	
+
 					}
 
+		j$(document).ready(function() {
+			
+			j$("#topnavMenu li a").mouseover(function() {
+				j$(this).addClass("js-hover");
+				j$("#topnavMenu li.intl a").removeClass("js-hover");
+			});
+			j$("#topnavMenu li a").mouseout(function() {
+				j$(this).removeClass("js-hover");
+			});
+			
+			j$('#mainNav li').addClass('cufon');
+		
+			j$('#leftNavigation li a').addClass('cufon');
+			j$('#leftNavigation li li a').removeClass('cufon');
+			
+			
+			/*---*/
+			j$liNum = j$('#mainNav li.cat1').length;
+			
+			if(j$liNum == 7) {
+				j$('#mainNav li').addClass('js-menu7');
+				j$('#mainNav li li').removeClass('js-menu7');
+			} else if (j$liNum == 6) {
+				j$('#mainNav li').addClass('js-menu6');
+				j$('#mainNav li li').removeClass('js-menu6');
+			} else if (j$liNum == 5) {
+				j$('#mainNav li').addClass('js-menu5');
+				j$('#mainNav li li').removeClass('js-menu5');
+			}
+			
+			/*
+			j$liWidth = 0;
+			j$ulWidth = 710;
+			for (var i=0; i<j$liNum; i++) {
+				j$liWidth = j$liWidth + j$('#mainNav li.cat1').eq(i).width();
+			}
+			j$int = j$ulWidth - j$liWidth;
+			j$liMargin = j$int/(j$liNum-1);
+	 		j$('#mainNav li.cat1').css('margin-right', j$liMargin);
+	 		*/
+	 		/*---*/
+	 		
+	 		
+	 		j$('#leftNavigation li:first-child').addClass('js-firstChild');
+	 		j$('#leftNavigation li:last-child').addClass('js-lastChild');
+	 		j$('#leftNavigation li li:last-child').removeClass('js-lastChild');
+	 		
+	 		
+	 		j$("#leftNavigation ul.level2 li").mouseover(function() {
+				j$(this).addClass("js-hover");
+			});
+	 		j$("#leftNavigation ul.level2 li").mouseout(function() {
+				j$(this).removeClass("js-hover");
+			});
+
+			j$("#teconsent").mouseover(function() {
+				j$(this).addClass("js-hover");
+			});
+	 		j$("#teconsent").mouseout(function() {
+				j$(this).removeClass("js-hover");
+			});
+		
+
+		});
 
 	</script>
 
 
 	
 
-	<div id="topnav">
+	<div id="topnav" class="clearfix">
 		<ul id="topnavMenu">
 			
-				<li>
-					<a href="http://www.aldoshoes.com/us">home</a>
-				</li>
-
-				 <li>
-					<a href="http://www.aldoshoes.com/us/service">customer service</a>
-				</li>
-
-			
-				<li id="TopRegisterDisplay"><a href="https://www.aldoshoes.com/us/newsletter" rel="nofollow">email sign-up</a></li>
-				<li id="TopLoginDisplay"><a href="https://www.aldoshoes.com/us/login" rel="nofollow">login</a></li>
-			
-			
-
-						
-
-			
-				<li>
-					<a href="http://www.aldoshoes.com/us/pages/customerService/trackorderUS" rel="nofollow">track my order</a>
-				</li>
-				
-				<li>
-				     <a href="http://www.aldoshoes.com/us/card" rel="nofollow">gift card</a> 
-     			</li>
-				
-				<li class="lastItem">
+				<li class="lastItem cufon">
 					<a href="http://www.aldoshoes.com/us/stores" rel="nofollow">store locator</a>
 				</li>
 			
-				<li>
+					<li class="cufon" id="TopLoginDisplay"><a href="https://www.aldoshoes.com/us/login" rel="nofollow">login</a></li>
+					<li class="cufon" id="TopRegisterDisplay"><a href="https://www.aldoshoes.com/us/newsletter" rel="nofollow">email sign up</a></li>
 				
-			<div id="teconsent">
-				<script type="text/javascript" src="http://consent.truste.com/notice?domain=aldoshoes.com&amp;c=teconsent&amp;country=US&amp;behavior=implied"></script>
-			</div>
-		
+				 <li class="cufon">
+					<a href="http://www.aldoshoes.com/us/service">customer service</a>
+				</li>
+			
+				<li class="cufon">
+					<a href="http://www.aldoshoes.com/us/pages/customerService/trackorderUS" rel="nofollow">track my order</a>
 				</li>
 			 
 
@@ -275,11 +324,11 @@
 						</div>
 						<div id="ShippingBagLineItems"></div>
 						<div id="bagButtons">
-							<a class="mainButton" href="#" onclick="CloseShoppingCartPopUp();return false;">
+							<a class="mainButton fwdArrow" href="#" onclick="CloseShoppingCartPopUp();return false;">
 								<span>continue shopping</span>
 							</a>
 							
-							<a class="mainButton invFwdArrow" href="#" onclick="ShoppingBagGoToCheckout();return false;">
+							<a class="mainButton invFwdArrow cufonBold" href="#" onclick="ShoppingBagGoToCheckout();return false;">
 								<span>checkout</span>
 							</a>
 							
@@ -297,16 +346,14 @@
 					<a href="javascript:void(0);" onclick="javascript:window.location.href='http://www.aldoshoes.com/us/cart'">
 
 						
-
-						<div id="ShoppingBagInfoLine">0 item(s),</div>
-						<div id="miniCartAmount">$0.00 USD&nbsp;<span class="pipe">|</span>&nbsp;</div>
-						<div id="miniCartTxt">checkout </div>
-
-
+						<div id="ShoppingBagInfoLine" class="cufon">0 item(s),</div>
+						<div id="miniCartAmount" class="cufon">$0.00 (USD)&nbsp;</div>
 					</a>
 				</div>
 			</li>
-			<li class="lastItem intl">
+
+			<li class="lastItem intl cufon">
+				
 				<a href="Javascript:void(0)">
 				<img src="/_static/images/www/shared/uscolor.png" id="intlSelected" alt="us-Selected" border="0">
 				<img src="/_static/images/www/shared/arrowDown.gif" border="0" id="intlArrow">
@@ -314,32 +361,35 @@
 				<ul>
 
 				
-						<li>
-							
-							<a href="javascript:switchCountry('http://www.aldoshoes.com/ca-eng');">
-								<img src="/_static/images/www/shared/CAcolor.png" alt="Country-CA" border="0">
-							</a>
-						</li>
-					
-						<li>
-							
-							<a href="javascript:switchCountry('http://www.aldoshoes.com/uk');">
-								<img src="/_static/images/www/shared/UKcolor.png" alt="Country-UK" border="0">
-							</a>
-						</li>
-					
-						<li>
-							
-							<a href="javascript:switchCountry('http://www.aldoshoes.com/countryselection.cfm');">
-								<img src="/_static/images/www/shared/INTcolor.png" alt="Country-INT" border="0">
-							</a>
-						</li>
-					
+							<li>
+								<a href="javascript:switchCountry('http://www.aldoshoes.com/ca-eng');">
+									<img src="/_static/images/www/shared/CAcolor.png" alt="Country-CA" border="0">en
+								</a>
+							</li>
+							<li>
+								
+								<a href="javascript:switchCountry('http://www.aldoshoes.com/ca-fre');">
+									<img src="/_static/images/www/shared/CAcolor.png" alt="Country-CA" border="0">fr
+								</a>
+							</li>
+						
+							<li>
+								<a href="javascript:switchCountry('http://www.aldoshoes.com/uk');">
+									<img src="/_static/images/www/shared/UKcolor.png" alt="Country-UK" border="0">
+								</a>
+							</li>
+						
+							<li>
+								<a href="javascript:switchCountry('http://www.aldoshoes.com/countryselection.cfm');">
+									<img src="/_static/images/www/shared/INTcolor.png" alt="Country-INT" border="0">
+								</a>
+							</li>
+						
 				</ul>
 			</li>
 		</ul>
   	</div>
-
+<div class="topContainer clearfix">
 <div class="bph359">
 	
 <a href="http://www.aldoshoes.com/us"> <img src="/static/webUpload/33/7765_1.gif"></a>
@@ -348,6 +398,12 @@
 </div>
 
 
+
+	<div class="freeShipping">
+		<p><a href="//www.aldoshoes.com/us/shipping-delivery"><img border="0" alt="" src="//media.aldoshoes.com/global/freeshipping-us.png"></a></p>
+	</div>
+
+</div>
     
      
 </div>
@@ -363,31 +419,7 @@
 <ul class="aldoNav nav langWeng" id="mainNav">
           
           
-<li class="cat1 " id="trends"><a href="http://www.aldoshoes.com/us/trends" class="cat1"><span>trends</span></a>
-          
-<div class="level2">
-          
-<ul class="level2">
-          
-          
-          
-<li><a href="http://www.aldoshoes.com/us/trends/folk-wave">folk wave</a></li>
-          
-<li><a href="http://www.aldoshoes.com/us/trends/playful-glam">playful glam</a></li>
-          
-<li><a href="http://www.aldoshoes.com/us/trends/high-performance">high performance</a></li>
-          
-<li class="empty"><a class="saleLastItem" href="#"></a></li>
-          
-          
-</ul>
-          
-</div>
-          
-</li>
-          
-          
-<li class="cat1 " id="women"><a href="http://www.aldoshoes.com/us/women" class="cat1"><span>women</span></a>
+<li class="cat1 " id="women"><a href="http://www.aldoshoes.com/us/women" class="cat1"><span>women</span></a> 
           
 <div class="level2">
           
@@ -404,20 +436,15 @@
           
 <li class="separator"></li>
           
-<li><a href="http://www.aldoshoes.com/us/flag/f12leopard/women">Animal Print</a></li>
-<li><a href="http://www.aldoshoes.com/us/flag/f12neutrals/women">neutral pumps</a></li>
-<li><a href="http://www.aldoshoes.com/us/flag/f12riding/women">Riding Boots</a></li>
-<li><a href="http://www.aldoshoes.com/us/flag/f12studs/women">Studs &amp; Spikes</a></li>
-<li><a href="http://www.aldoshoes.com/us/flag/f12western/women">western boots</a></li>
-<li><a href="http://www.aldoshoes.com/us/flag/f12wrise/women">ALDO RISE</a></li>
-<li><a href="http://www.aldoshoes.com/us/flag/f12wsaas/women">STYLES AT A STEAL</a></li>
+<li><a href="http://www.aldoshoes.com/us/flag/s13flatsa40/women">Flat Sandals: $40 &amp; Under</a></li>
+<li><a href="http://www.aldoshoes.com/us/flag/s13wdgsnk/women">SNEAKER WEDGES</a></li>
 <li class="separator"></li>
+          
+<li><a href="http://www.aldoshoes.com/us/women/sandals">sandals</a></li>
           
 <li><a href="http://www.aldoshoes.com/us/women/shoes">shoes</a></li>
           
 <li><a href="http://www.aldoshoes.com/us/women/boots">boots</a></li>
-          
-<li><a href="http://www.aldoshoes.com/us/women/sandals">sandals</a></li>
           
 <li class="separator"></li>
           
@@ -437,10 +464,11 @@
           
 </div>
           
+          
 </li>
           
           
-<li class="cat1 " id="men"><a href="http://www.aldoshoes.com/us/men" class="cat1"><span>men</span></a>
+<li class="cat1 " id="men"><a href="http://www.aldoshoes.com/us/men" class="cat1"><span>men</span></a> 
           
 <div class="level2">
           
@@ -457,12 +485,11 @@
           
 <li class="separator"></li>
           
-<li><a href="http://www.aldoshoes.com/us/flag/f12brogue/men">Brogues</a></li>
-<li><a href="http://www.aldoshoes.com/us/flag/f12mrise/men">ALDO RISE</a></li>
-<li><a href="http://www.aldoshoes.com/us/flag/f12mstylesteals/men">Styles at a Steal</a></li>
+<li><a href="http://www.aldoshoes.com/us/flag/s13mblue/men">Sure Shade: Blue</a></li>
+<li><a href="http://www.aldoshoes.com/us/flag/s13mdress/men">Dress shoes</a></li>
 <li class="separator"></li>
           
-<li><a href="http://www.aldoshoes.com/us/men/mr-bs">mr. b's</a></li>
+<li><a href="http://www.aldoshoes.com/us/men/mr-bs">mr. b's </a></li>
           
 <li><a href="http://www.aldoshoes.com/us/men/shoes">shoes</a></li>
           
@@ -488,10 +515,11 @@
           
 </div>
           
+          
 </li>
           
           
-<li class="cat1 " id="handbags"><a href="http://www.aldoshoes.com/us/handbags" class="cat1"><span>handbags</span></a>
+<li class="cat1 " id="handbags"><a href="http://www.aldoshoes.com/us/handbags" class="cat1"><span>handbags</span></a> 
           
 <div class="level2">
           
@@ -508,7 +536,8 @@
           
 <li class="separator"></li>
           
-<li><a href="http://www.aldoshoes.com/us/flag/f12shadesoffall/handbags">SHADES OF FALL</a></li>
+<li><a href="http://www.aldoshoes.com/us/flag/s13hbmetallic/handbags">Metallic Details</a></li>
+<li><a href="http://www.aldoshoes.com/us/flag/s13hbneutrals/handbags">Neutrals</a></li>
 <li class="separator"></li>
           
 <li><a href="http://www.aldoshoes.com/us/handbags/shoulder-bags-totes">shoulder bags &amp; totes</a></li>
@@ -540,10 +569,11 @@
           
 </div>
           
+          
 </li>
           
           
-<li class="cat1 " id="accessories"><a href="http://www.aldoshoes.com/us/accessories" class="cat1"><span>accessories</span></a>
+<li class="cat1 " id="accessories"><a href="http://www.aldoshoes.com/us/accessories" class="cat1"><span>accessories</span></a> 
           
 <div class="level2">
           
@@ -582,16 +612,21 @@
           
 </div>
           
+          
 </li>
           
           
-<li class="cat1 " id="sale"><a href="http://www.aldoshoes.com/us/sale" class="cat1"><span>sale</span></a>
+<li class="cat1 " id="sale"><a href="http://www.aldoshoes.com/us/sale" class="cat1"><span>sale</span></a> 
           
 <div class="level2">
           
 <ul class="level2">
           
           
+<li><a href="http://www.aldoshoes.com/us/flag/s13wsa50/sale">WOMEN'S SANDALS: 50% OFF</a></li>
+<li><a href="http://www.aldoshoes.com/us/flag/s13wsh50/sale">WOMEN'S SHOES: 50% OFF</a></li>
+<li><a href="http://www.aldoshoes.com/us/flag/s13msh50/sale">Men's shoes: 50% off</a></li>
+<li class="separator"></li>
           
 <li><a href="http://www.aldoshoes.com/us/sale/women">women</a></li>
           
@@ -611,10 +646,11 @@
           
 </div>
           
+          
 </li>
           
           
-<li class="cat1 " id="clearance"><a href="http://www.aldoshoes.com/us/clearance" class="cat1"><span>clearance</span></a>
+<li class="cat1 " id="clearance"><a href="http://www.aldoshoes.com/us/clearance" class="cat1"><span>clearance</span></a> 
           
 <div class="level2">
           
@@ -624,9 +660,9 @@
           
 <li><a href="http://www.aldoshoes.com/us/clearance/womens-shoes">women's shoes</a></li>
           
-<li><a href="http://www.aldoshoes.com/us/clearance/womens-boots">women's boots</a></li>
-          
 <li><a href="http://www.aldoshoes.com/us/clearance/womens-sandals">women's sandals</a></li>
+          
+<li><a href="http://www.aldoshoes.com/us/clearance/womens-boots">women's boots</a></li>
           
 <li><a href="http://www.aldoshoes.com/us/clearance/mens-shoes">men's shoes</a></li>
           
@@ -644,6 +680,7 @@
 </ul>
           
 </div>
+          
           
 </li>
           
@@ -665,11 +702,11 @@
 	
 			<script>
 			document.getElementById('ShoppingBagInfoLine').innerHTML = '0 item(s),';
-			document.getElementById('miniCartAmount').innerHTML = '$0.00 USD&nbsp;<span class=\"pipe\">|</span>&nbsp;';
-			document.getElementById('miniCartTxt').innerHTML = 'checkout ';
+			document.getElementById('miniCartAmount').innerHTML = '$0.00 (USD)&nbsp;';
 			document.getElementById('TopLoginDisplay').innerHTML = '<a href=\"https://www.aldoshoes.com/us/login\" rel=\"nofollow\">login</a>';
-			document.getElementById('TopRegisterDisplay').innerHTML  = '<a href=\"https://www.aldoshoes.com/us/newsletter\" rel=\"nofollow\">email sign-up</a>';
+			document.getElementById('TopRegisterDisplay').innerHTML  = '<a href=\"https://www.aldoshoes.com/us/newsletter\" rel=\"nofollow\">email sign up</a>';
 			</script>
+			
 		
 		</div>
 		<div id="content" class="clearfix">
@@ -799,104 +836,97 @@ Last update: April 20, 2012</p>
 				</div>
 			</div>
 		</div>
+	</div>
+		
+		<div id="footer">
 			
-			<div id="footer">
-					
 		
 	<div id="footerBannerBlock">	
 		<p>
-<meta content="text/html; charset=UTF-8" http-equiv="Content-Type"><style type="text/css">
-#newfooterdesignwrap {
-width: 932px;
-height: 30px;
-}
-p.copyfootertext {
-margin:0px;
-padding: 0px;
-font-family: 'Oswald', arial, sans-serif;
-color: #333333;
-text-transform: uppercase;
-font-size: 13px;
-letter-spacing:0px;
-font-style:normal;
-font-weight: normal;
--webkit-font-smoothing: antialiased;
-font-smooth: always;
-}
-#newfooterdesignwrap a {
-color: #333333 !important;
-text-transform: uppercase;
-text-decoration:none;
-}
-#newfooterdesignwrap a:visited {
-color: #333333 !important;
-text-transform: uppercase;
-text-decoration:none;
-}
-#newfooterdesignwrap a:active {
-color: #333333 !important;
-text-transform: uppercase;
-text-decoration:none;
-}
-#newfooterdesignwrap a:hover {
-text-decoration: underline;
-}
-p.copyfootertext a {
-color: #333333;
-text-transform: uppercase;
-text-decoration:none;
-}
-p.copyfootertext a:visited {
-color: #333333;
-text-transform: uppercase;
-text-decoration:none;
-}
-p.copyfootertext a:hover {
-text-decoration:underline;
-}
-.makefloatleftdivs {
-float: left;
-}
-.makefloatrightdivs {
-float: right;
-}
-.coloroflinkinfooter {
-color: #999;
-}</style></p>
-<script type="text/javascript">
-function clearText(field){    if (field.defaultValue == field.value) field.value = ' ';
-    else if (field.value == ' ') field.value = field.defaultValue;
-document.getElementById('email').style.color='#444444';
-}
-</script><script type="text/javascript">
-window.open(document.getElementById('redirect').href);
-</script>
-<div id="newfooterdesignwrap">
-<div class="makefloatleftdivs">
-<p class="copyfootertext">sign up &amp; get 10% off&nbsp;&nbsp;&nbsp;&nbsp;</p>
-</div>
-<div style="padding-left: 0px; float: left; margin: 0px; overflow: hidden; width: 190px; padding-top: 0px">
-<form action="/frontEndComponents/specificComponents/b2c/newsletter/bannerSignup.cfm" method="post" name="emailClub">
-    <input style="padding-right: 0px; padding-left: 0px; padding-bottom: 3px; margin: 0px; width: 153px; color: rgb(68,68,68); padding-top: 3px" size="28" onfocus="clearText(this)" onblur="clearText(this)" name="email" value="Email Address" type="text"> <input class="searchButton" style="padding-right: 0px; padding-left: 0px; padding-bottom: 0px; margin: 0px; vertical-align: top; padding-top: 0px" type="image" src="/etc/content/2012/06/06/submit_button.gif" value="continue">
+<link rel="stylesheet" type="text/css" href="//media.aldoshoes.com/content/130613/css/footer.css">
+<link rel="image_src" type="image/jpeg" href="//media.aldoshoes.com/content/130613/images/aldo_facebook_share.jpg"></p>
+<!-- footer -->
+<div class="fullScreenInnerWrapper">
+<div id="footer_hp" class="container footer_custom">
+<div class="footer-row">
+<div class="footer-span12">
+<div class="footerSection footerSection1">
+<h2 class="BlockTitle">Sign up for the inside <br>
+scoop on our freshest <br>
+finds, events &amp; promotions.</h2>
+<div class="footerSingUp">
+<form method="post" action="/frontEndComponents/specificComponents/b2c/newsletter/bannerSignup.cfm" name="emailClub">
+    <input class="formTextBox" size="28" onfocus="javascript:this.value=&quot;&quot;" name="email" value="ENTER EMAIL ADDRESS" type="text"> <input class="searchButton formBoutonGo" type="submit" value="&nbsp;">
 </form>
 </div>
-<div class="makefloatleftdivs"><img border="0" alt="" src="/etc/content/2012/06/06/line.gif"></div>
-<div class="makefloatleftdivs">
-<p class="copyfootertext"><a href="http://www.aldoshoes.com/us/contact">order by phone 1-888-818-2536</a></p>
+<h2 class="BlockSubTitle">And get 10% off just <br>
+for signing up... oh yes!</h2>
 </div>
-<div class="makefloatleftdivs"><img border="0" alt="" src="/etc/content/2012/06/06/line.gif"></div>
-<div class="makefloatleftdivs">
-<p class="copyfootertext"><a href="http://www.aldoshoes.com/us/return-policy">free returns</a></p>
+<div class="footerSection footerSection2">
+<ul class="footerLinks">
+    <li>
+    <h4>Customer care</h4>
+    </li>
+    <li><a class="footLink" href="//www.aldoshoes.com/us/service">Customer service</a></li>
+    <li><a class="footLink" href="//www.aldoshoes.com/us/return-policy">Return policy</a></li>
+    <li><a class="footLink" href="//www.aldoshoes.com/us/shipping-delivery">Shipping &amp; delivery</a></li>
+    <li><a class="footLink" href="//www.aldoshoes.com/us/contact">Contact us</a></li>
+    <li>
+    <h5>Order by phone</h5>
+    </li>
+    <li><a class="footLink" href="//www.aldoshoes.com/us/contact">1-888-818-2536</a></li>
+</ul>
 </div>
-<div class="makefloatleftdivs"><img border="0" alt="" src="/etc/content/2012/06/06/line.gif"></div>
-<div class="makefloatleftdivs">
-<p class="copyfootertext"><a href="http://www.aldoshoes.com/us/stores">find a store</a></p>
+<div class="footerSection footerSection3">
+<h4>ALdogroup</h4>
+<ul class="footerLinks">
+    <li><a class="footLink" href="//www.aldogroup.com">About us</a></li>
+    <li><a class="footLink" href="//www.aldogroup.com/career-opportunities.html">Careers</a></li>
+</ul>
+<h5>Our Brands</h5>
+<ul class="footerLinks">
+    <li><a class="footLink" href="//www.aldoshoes.com/us">ALDO</a></li>
+    <li><a class="footLink" href="//www.callitspring.com/us">CALL IT SPRING</a></li>
+</ul>
 </div>
-<div class="makefloatleftdivs"><img border="0" alt="" src="/etc/content/2012/06/06/line.gif"></div>
-<div class="makefloatleftdivs"><a id="redirect" target="_blank" href="http://www.facebook.com/ALDO"><img alt="ALDO Facebook" border="0" src="/etc/content/2012/06/06/aldo_facebook.gif"></a></div>
-<div class="makefloatleftdivs"><a target="_blank" href="https://twitter.com/#!/Aldo_Shoes"><img alt="ALDO Twitter" border="0" src="/etc/content/2012/06/06/aldo_twitter.gif"></a></div>
-<div class="makefloatrightdivs"><a target="_blank" href="http://www.youtube.com/ALDOshoesVideos"><img alt="ALDO YouTube" border="0" src="/etc/content/2012/06/06/aldo_youtube.gif"></a></div>
-</div> 
+<div class="footerSection footerSection4">
+<h4>Quick links</h4>
+<ul class="footerLinks">
+    <li><a class="footLink" href="//www.aldoshoes.com/us/stores">Store locator</a></li>
+    <li><a class="footLink" href="//www.aldoshoes.com/us/card">Gift cards</a></li>
+    <li><a class="footLink" href="//www.aldoshoes.com/us/sizeguide">Size guide</a></li>
+    <li><a class="footLink" href="//www.aldoshoes.com/us/pages/customerService/faqs-CA">FAQ</a></li>
+</ul>
+</div>
+<div class="footerSection footerSection5">
+<h4>Join Us !</h4>
+<div class="footerMedia">
+<ul class="footerLinks footerLinksSocial">
+    <li><a class="socialMedia smFacebook" target="new" href="//www.facebook.com/ALDO">&nbsp;</a></li>
+    <li><a class="socialMedia smYoutube" target="new" href="//www.youtube.com/ALDOshoesVideos">&nbsp;</a></li>
+    <li><a class="socialMedia smInstagram" target="new" href="//instagram.com/aldo_shoes">&nbsp;</a></li>
+    <li><a class="socialMedia smTwitter" target="new" href="//twitter.com/aldo_shoes">&nbsp;</a></li>
+    <li><a class="socialMedia smPinterest" target="new" href="//pinterest.com/aldoshoes/">&nbsp;</a></li>
+</ul>
+<div class="footerFaceBook"><iframe style="border-bottom: medium none; border-left: medium none; width: 200px; height: 78px; overflow: hidden; border-top: medium none; border-right: medium none" src="//www.facebook.com/plugins/likebox.php?href=https%3A%2F%2Fwww.facebook.com%2FALDO&amp;width=215&amp;height=78&amp;show_faces=false&amp;colorscheme=light&amp;stream=false&amp;border_color&amp;header=true" frameborder="0" allowtransparency="allowtransparency" scrolling="no"></iframe></div>
+</div>
+</div>
+</div>
+</div>
+<div class="footer-row">
+<div class="footer-span12 footerLast">
+<ul class="footerCopyRight">
+    <li>©2005-2013. The Aldo Group inc. All rights reserved</li>
+</ul>
+<ul class="footerLastLinks">
+    <li><a href="//www.aldoshoes.com/us/legal">legal notice</a></li>
+    <li><a href="//www.aldoshoes.com/us/privacy">privacy policy</a></li>
+    <li><a href="//www.aldoshoes.com/us/sitemap">site map</a></li>
+</ul>
+</div>
+</div>
+</div>
+<!-- end footer --></div> 
 
 	</div>	
 		
@@ -930,10 +960,8 @@ window.open(document.getElementById('redirect').href);
 			© 2005-2012. The Aldo Group Inc. All rights reserved.
 		</div>
 	
-			</div>
-		
-	</div>
-
+		</div>
+	
 				<script src="http://www.google-analytics.com/urchin.js" type="text/javascript"></script>
 				<script type="text/javascript">
 					_uacct = "UA-2713596-4";
