@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the blip.tv privacy policy that was archived on 2012-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121225202754id_/http%3A//blip.tv/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the blip.tv privacy policy that was archived on 2013-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130622030611id_/http%3A//blip.tv/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Blip
 
-### User Privacy Policy
+## User Privacy Policy
 
 Last Revised: May 15, 2012
 
@@ -48,12 +48,12 @@ Your Submissions may be available to other Website users and to users of other w
 
 No transmission of data over the internet is guaranteed to be completely secure. It may be possible for third parties not under the control of Blip to intercept or access transmissions or private communications unlawfully. While we strive to protect personal information, neither Blip nor our service providers can ensure or warrant the security of any information you transmit to us over the internet. Any such transmission is at your own risk. 
 
-**8\. Updating Your Information:** You are responsible for keeping your information current. You may update your information by contacting us at [info@blip.tv](mailto:info@blip.tv). We will use reasonable efforts to process any change you make; provided, however, that requests to delete information are subject to Blip’s internal reporting, processing and retention policies and all applicable legal obligations.
+**8\. Updating Your Information:** You are responsible for keeping your information current. You may update your information by contacting us at [info@blip.com](mailto:info@blip.com). We will use reasonable efforts to process any change you make; provided, however, that requests to delete information are subject to Blip’s internal reporting, processing and retention policies and all applicable legal obligations.
 
-**9\. Notice of Privacy Rights of California Residents:** If you are a California resident and have provided personal information to Blip, you are entitled by law to request certain information regarding any disclosure that may have been made by Blip to third parties of personal information for their direct marketing purposes. To make such a request, send an email to [info@blip.tv](mailto:info@blip.tv), specifying that you seek your "California Customer Choice Privacy Notice." Please allow thirty (30) days for a response. Blip is required to respond to only one request per customer each year, and is not required to respond to requests made by means other than through the above email address.
+**9\. Notice of Privacy Rights of California Residents:** If you are a California resident and have provided personal information to Blip, you are entitled by law to request certain information regarding any disclosure that may have been made by Blip to third parties of personal information for their direct marketing purposes. To make such a request, send an email to [info@blip.com](mailto:info@blip.com), specifying that you seek your "California Customer Choice Privacy Notice." Please allow thirty (30) days for a response. Blip is required to respond to only one request per customer each year, and is not required to respond to requests made by means other than through the above email address.
 
-We will not share your personal information with third parties for their direct marketing purposes if you request that we do not do so. You may make such a request by sending us an email at [info@blip.tv](mailto:info@blip.tv). When contacting us, please indicate your name, address, email address, and what personal information you do not want us to share with third parties for their direct marketing purposes. Please note that there is no charge for controlling the sharing of your personal information or for processing this request.
+We will not share your personal information with third parties for their direct marketing purposes if you request that we do not do so. You may make such a request by sending us an email at [info@blip.com](mailto:info@blip.com). When contacting us, please indicate your name, address, email address, and what personal information you do not want us to share with third parties for their direct marketing purposes. Please note that there is no charge for controlling the sharing of your personal information or for processing this request.
 
 **10\. Links:** You may have the opportunity to follow links on the Website to other sites that may be of interest to you. Blip endeavors to only link to reputable organizations. Because other sites may not be hosted or controlled by Blip, we are not responsible for the privacy practices of those sites or the content provided thereon. Therefore, the privacy policies with respect to other sites may differ from those applicable to the Website. We encourage you to review the privacy policies of each other site. This Privacy Policy only applies to information collected and maintained by Blip.
 
-Questions? If you have any questions or concerns regarding this Privacy Policy, please contact us at [info@blip.tv](mailto:info@blip.tv)
+Questions? If you have any questions or concerns regarding this Privacy Policy, please contact us at [info@blip.com](mailto:info@blip.com)
