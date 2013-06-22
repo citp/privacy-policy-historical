@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the tickld.com privacy policy that was archived on 2012-10-16.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121016202049id_/http%3A//www.tickld.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the tickld.com privacy policy that was archived on 2013-06-22.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130622034136id_/http%3A//www.tickld.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en" xmlns:fb="http://www.facebook.com/2008/fbml"><head>
 <meta charset="utf-8">
@@ -10,40 +10,27 @@
 <meta property="og:site_name" content="tickld.com">
 <meta property="og:title" content="Tickld - Privacy Policy">
 <meta property="og:description" content="Spread Laughter and Cure Boredom">
- 
 <meta property="og:type" content="article">
 <meta property="fb:app_id" content="273074392745223">
-<link rel="stylesheet" type="text/css" href="/css/style.css">
+<link rel="stylesheet" type="text/css" href="/css/style.css?v=1371483714">
 <!--[if lt IE 8]>
 	<link rel="stylesheet" type="text/css" href="/css/styleIE.css" />
 <![endif]-->
 <link rel="icon" type="image/gif" href="/images/favicon.gif">
-<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" async="" src="https://platform.stumbleupon.com/1/widgets.js"></script><script id="twitter-wjs" src="//platform.twitter.com/widgets.js"></script><script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.8.0/jquery.min.js"></script>
+<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script id="twitter-wjs" src="//platform.twitter.com/widgets.js"></script><script id="facebook-jssdk" async="" src="//connect.facebook.net/en_US/all.js"></script><script async="" type="text/javascript" src="https://www.googletagservices.com/tag/js/gpt.js"></script><script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.8.0/jquery.min.js"></script>
  
 <link rel="stylesheet" type="text/css" href="/assets/css/register-modal.css">
 <link rel="stylesheet" type="text/css" href="/assets/css/jquery.tagsinput.css">
-<link rel="stylesheet" href="/css/popstyles.css" type="text/css">
+<link rel="stylesheet" href="/css/popstyles.css?v=1361987650" type="text/css">
 <script type="text/javascript">
 function toggle_safe() {
-	    $.ajax({
-            type: "GET",
-            url: "http://www.tickld.com/togglesafe.php",			
-			success: function(html){	
-
-              if(html=='0' || html=='') {
-				  $("#shadow").fadeIn("normal");
-				  $("#reg_form").fadeIn("normal");
-				  $("#username").focus();
-			   } 
-			   else {
-                  //window.location = "http://www.tickld.com/index/1"
-                  //window.location = "";
-                  window.location = "http://www.tickld.com/privacy";
-               }
-			}
-		})	
+	$("#shadow").fadeIn("normal");
+	$("#reg_form").fadeIn("normal");
+	$("#username").focus();
+	ACPuzzle.create('6lsDoZ53N1HTbDB5wwPnwl1aUbcAuMGY', 'recaptchaholder', {});
 }
 </script>
+<style type="text/css">div.postperms div{float:left;clear:none;margin-left:15px;}div.postperms{clear:both;}.p_red{color:#FF0000;}.p_blue{color:#0000FF;}.p_green{color:#00FF00;}.p_underline{text-decoration:underline;}.p_bold{font-weight:bold;}.p_italic{font-style:italic;}.p_14pt{font-size:14pt;}.p_16pt{font-size:16pt;}.p_8pt{font-size:8pt;}.p_orange{background-color:orange;}</style>
  
 <script type="text/javascript" src="/includes/js/fav.js"></script>
  
@@ -55,23 +42,101 @@ function toggle_safe() {
   }
 </style>
 <![endif]-->
-<style type="text/css">#recaptchaholder iframe{display:none}</style>
-<link rel="stylesheet" type="text/css" href="https://web.archive.org/web/20121004052148/https://s-static.ak.fbcdn.net/connect.php/css/share-button-css"></head>
-<body id="body_privacy">
+<script type="text/javascript">
+var googletag = googletag || {};
+googletag.cmd = googletag.cmd || [];
+(function() {
+var gads = document.createElement('script');
+gads.async = true;
+gads.type = 'text/javascript';
+var useSSL = 'https:' == document.location.protocol;
+gads.src = (useSSL ? 'https:' : 'http:') + 
+'//www.googletagservices.com/tag/js/gpt.js';
+var node = document.getElementsByTagName('script')[0];
+node.parentNode.insertBefore(gads, node);
+})();
+</script>
+<script type="text/javascript">
+googletag.cmd.push(function() {
+googletag.pubads().enableSingleRequest();
+googletag.enableServices();
+});
+</script>
+</head>
+<body id="body_privacy" class="night_mode_off">
 <div id="wrapper">
  
-<div class="headerNav_wrapper">
+<script type="text/javascript" src="http://api.solvemedia.com/papi/challenge.ajax"></script>
+<script>
+window.fbAsyncInit = function() {
+	FB.init({
+		appId      : '168507099957585', // App ID
+		channelUrl : '//www.tickld.com/channel.html', // Channel File
+		status     : true, // check login status
+		cookie     : true, // enable cookies to allow the server to access the session
+		xfbml      : true  // parse XFBML
+	});
+
+	$('#js_fb_login').click(function(evt){
+		evt.preventDefault();
+		FB.login(function(response){
+			if (response.authResponse) {
+				FB.api('/me', function(response){
+					$('#fb_js_login_id').val(response.id);
+					$('#login').click();
+				});
+			}
+		}, {scope: 'email'});
+	});
+
+	$('#js_fb_signup').click(function(evt){
+		evt.preventDefault();
+
+		FB.login(function(response){
+			if (response.authResponse) {
+				FB.api('/me', function(response){
+					$('#fb_js_signup_id').val(response.id);
+					$('#reg_form #email').val(response.email);
+					$('#reg_form #username').val(response.username);
+					$('.recaptcha, #reg_form #password, #reg_form #retype_password').parents('tr').remove();
+					$('.recaptcha').remove();
+					$(evt.target).parents('tr').html('<td colspan=2><div id="extra_info">You have successfully linked your Facebook account.</dv></td>');
+					$('#fb_signup_else').html('<td colspan=2><br></td>');
+				});
+			}
+		}, {scope: 'email'});
+	});
+ };
+
+  // Load the SDK Asynchronously
+ (function(d){
+	var js, id = 'facebook-jssdk', ref = d.getElementsByTagName('script')[0];
+	if (d.getElementById(id)) {return;}
+	js = d.createElement('script'); js.id = id; js.async = true;
+	js.src = "//connect.facebook.net/en_US/all.js";
+	ref.parentNode.insertBefore(js, ref);
+	}(document));
+</script>
+<div id="fb-root"></div>
+<div class="headerNav_wrapper header-cookie">
+<div class="headerCookie">
+<p>
+Hi there. We use cookies to improve your experience on our website. Our <a href="/privacy#cookies">privacy page</a> explains what they are, which ones we use, and how you can manage or remove them.
+<button id="accept_cookies" type="button">Accept and Close</button>
+</p>
+</div>
 <div class="headerNav">
 <div class="headerNav_top">
 <ul>
 <li class="headerNav_logo"><a href="/index/"><div class="headerNav_logo"><span>Tickld</span></div></a></li>
 <li style="line-height:0px"><div class="headerNav_like fb-like" data-href="http://www.facebook.com/pages/Tickld/241319625934529" data-send="false" data-layout="button_count" data-width="110" data-show-faces="false"></div></li>
-<li class="headerNav_item headerNav_active"><a href="/index/"><div class="headerNav_homeIcon headerNav_icon"></div>HOME</a>
+<li class="headerNav_item"><a href="/index/"><div class="headerNav_homeIcon headerNav_icon"></div>HOME</a>
 </li>
 <li class="headerNav_item headerNav_dropdown">
 <ul class="level1">
 <li><a href="/user/">My Profile</a></li>
 <li><a href="/settings">Account Settings</a></li>
+<li><a href="#" id="toggle_night_mode">Night Mode On</a></li>
 <li><a href="/logout">Logout</a></li>
 </ul>
 </li>
@@ -82,49 +147,67 @@ function toggle_safe() {
 <script type="text/javascript">
 
 $(document).ready(function(){
+	// change length of fade in/out for login and sign up popups
+	var fade_length = 100;
+
 	$("#reg_a").click(function(){
-        $("#shadow").fadeIn("normal");
-         $("#reg_form").fadeIn("normal");
-         $("#username").focus();
-    });
-	$("#cancel_hide").click(function(){
-        $("#reg_form").fadeOut("normal");
-        $("#shadow").fadeOut();
-   });
-   $("#register").click(function(){    
-        username=$("#username").val();
-        password=$("#password").val();
-		vpassword=$("#retype_password").val();
-		email=$("#email").val();
-		recaptcha_challenge_field=$("#recaptcha_challenge_field").val();
-		recaptcha_response_field=$("#recaptcha_response_field").val();
-		agree=$("#agree").val();		
-        $.ajax({
-            type: "POST",
-            url: "http://www.tickld.com/reg2.php",
-            data: "username="+username+"&password="+password+"&retype_password="+vpassword+"&email="+email+"&recaptcha_challenge_field="+recaptcha_challenge_field+"&recaptcha_response_field="+recaptcha_response_field+"&agree="+agree,
-            success: function(html){			
-            if(html=='') {
-                $("#reg_form").fadeOut("normal");
-				$("#shadow").fadeOut();
-				document.location.href="/user/"+username+"&referer=success";
-            } else {
-                $("#add_err").html(html);
-            }
-            },
-            beforeSend:function()
-			{
-                 $("#add_err").html("Please wait...")
-            }
-        });
-         return false;
-    });
+		$("#shadow").fadeIn(fade_length);
+		$("#reg_form").fadeIn(fade_length);
+		$("#username").focus();
+		ACPuzzle.create('6lsDoZ53N1HTbDB5wwPnwl1aUbcAuMGY', 'recaptchaholder', {});
+	});
+
+	$("#login_a").click(function(){
+		$("#shadow").fadeIn(fade_length);
+		$("#login_form").fadeIn(fade_length);
+		$("#username").focus();
+	});
+	
+	$("#reg_form #cancel_hide, #login_form #cancel_hide").click(function(){
+		$("#reg_form").fadeOut(fade_length);
+		$("#login_form").fadeOut(fade_length);
+		$("#shadow").fadeOut(fade_length);
+		ACPuzzle.destroy();
+	});
+	
+	$("#register").click(function(){
+		username=$("#reg_form #username").val();
+		password=$("#reg_form #password").val();
+		vpassword=$("#reg_form #retype_password").val();
+		email=$("#reg_form #email").val();
+		adcopy_challenge=$("#adcopy_challenge").val();
+		adcopy_response=$("#adcopy_response").val();
+		if ($("#agree").is(':checked')) agree='agree';
+		else agree='';
+		fbid=$("#fb_js_signup_id").val();
+		
+		$.ajax({
+			type: "POST",
+			url: "/reg2.php",
+			data: "username="+username+"&password="+password+"&retype_password="+vpassword+"&email="+email+"&adcopy_challenge="+adcopy_challenge+"&adcopy_response="+adcopy_response+"&agree="+agree+"&fb_id="+fbid,
+			success: function(html) {
+				if(html=='') {
+					$("#reg_form").fadeOut(fade_length);
+					$("#shadow").fadeOut(fade_length);
+					document.location.href="/user/"+username+"&referer=success";
+				} else if (html == 'SUCCESS') {
+					document.location.href="/confirm_registration";
+				} else {
+                    $("#add_err").html(html);
+                }
+			},
+			beforeSend:function() {
+				$("#add_err").html("Please wait...")
+			}
+		});
+		
+		return false;
+	});
 });
 </script>
 <div class="headerNav_button">
- 
-<button id="reg_a" class="headerNav_iconWrapper" title="Sign Up">SIGN UP</button>
-</div>
+<button id="login_a" class="headerNav_iconWrapper" title="Log In">LOG IN</button>
+<button id="reg_a" class="headerNav_iconWrapper" title="Sign Up">SIGN UP</button> </div>
 </div>
 </div>
 </div>
@@ -132,12 +215,12 @@ $(document).ready(function(){
 jQuery('li.headerNav_dropdown > a').click(function(event) {
 	var obj = jQuery(this).parent();
 	var level1 = jQuery('ul.level1', obj);
-	
+
 	if (obj.hasClass("open")) {
 		obj.removeClass("open");
 	} else {
 		obj.addClass("open");
-				
+
 		level1.css({left: obj.offset().left});
 		if (obj.outerWidth() > level1.width()) {
 			level1.width(obj.outerWidth());
@@ -151,95 +234,231 @@ jQuery('li.headerNav_dropdown > a').click(function(event) {
 	return false;
 });
 jQuery(document).ready(function() {
+	function setCookie(cookieName,cookieValue,nDays) {
+		var today = new Date();
+		var expire = new Date();
+		if (nDays==null || nDays==0) nDays=1;
+		expire.setTime(today.getTime() + 3600000*24*nDays);
+		document.cookie = cookieName+'='+escape(cookieValue)+';path=/;expires='+expire.toGMTString();
+	}
+
+	$('#accept_cookies').click(function() {
+		var btn = $(this);
+		var divHeaderCookie = btn.parent().parent();
+		var divHeaderWrapper = divHeaderCookie.parent();
+		var divHeaderPlaceholder = $('.header_placeholder:first');
+		
+		var cookieHeight = divHeaderCookie.height();
+
+		divHeaderWrapper.removeClass('header-cookie');
+		divHeaderCookie.remove();
+		divHeaderPlaceholder.css('height', divHeaderPlaceholder.height()-cookieHeight);
+		
+		setCookie('accept_cookies', 1, 30);
+	});
+
 	var divWrapperHeight = jQuery('div.headerNav_wrapper').height();
 	jQuery('div.headerNav_wrapper').before('<div class="header_placeholder">&nbsp;</div>').css({"position":"fixed", "top":"0px","z-index":"9999"});
 	jQuery('div.header_placeholder').height(divWrapperHeight);
+	
+	// Night Mode
+	$("#toggle_night_mode").click(function(e) {
+		e.preventDefault();
+		
+		var toggle_mode = $("#toggle_night_mode").text();
+		
+		$.ajax({
+			type: "POST",
+			url: "/night_mode.php",
+			data: "night_mode_toggle="+toggle_mode,
+			success: function(data) {
+				
+				var obj = $.parseJSON(data);
+				
+				if (obj.night_mode == "ON") {
+					$("#toggle_night_mode").text("Night Mode Off");
+					$("div#topnavbar").removeClass();
+					$("body[id^=body_]").removeClass().addClass("night_mode_on");
+				} else {
+					$("#toggle_night_mode").text("Night Mode On");
+					$("div#topnavbar").removeClass().addClass("topnavbar_shadow");
+					$("body[id^=body_]").removeClass().addClass("night_mode_off");
+				}
+			},
+			beforeSend:function() {
+				$("#add_err").html("Please wait...")
+			}
+		});
+		
+	});
 });
 </script>
 <div id="enorasy_header_green_wrapper">
 <div id="enorasy_header_container">
-<div class="enorasy_header_01 float_left"><a href="/index/" border="0"><img src="/images/header_halloween.png" border="0"></a></div>
-<div class="enorasy_header_02 float_left">
-<div class="enorasy_header_login_container">
-<div class="enorasy_header_login_subcontainer">
-<div class="enorasy_header_login login_access">
- 
-<a name="login"></a>
-<form method="post" action="/login.php">
-<input type="hidden" value="index.php" name="current_page">
-<div class="enorasy_header_log_form">
-<div class="enorasy_header_log_left float_left">
-<input type="text" class="textbox" name="username" placeholder="username" autocomplete="on" maxlength="20">
+<div class="enorasy_header_01 float_left"><a href="/index/" border="0"><img src="/images/header_banner_matte.png" border="0"></a></div>
 </div>
-<div class="enorasy_header_log_right float_left">
-<input type="password" class="textbox" name="password" placeholder="password" autocomplete="on" maxlength="16">
 </div>
-<div class="clear"></div>
-</div>
-<div class="enorasy_header_log_form">
-<div class="enorasy_header_log_left float_left">
-<input type="checkbox" name="remember_me" checked="checked"> Remember Me
-</div>
-<div class="enorasy_header_log_right float_left">
-<input type="submit" class="log_button" value="Login →">
-</div>
-<div class="clear"></div>
-</div>
-<div class="enorasy_header_log_form">
-<div class="enorasy_header_log_left float_left">
-<a href="/reset" class="reset">Reset Password</a>
-</div>
-<div class="enorasy_header_log_right float_left color_red" style="font-size: 8pt">
-</div>
-<div class="clear"></div>
-</div>
+<div id="topnavbar" class="topnavbar_shadow"><div id="topnavbarinner"><a class="headermenu headermenu_selected" href="/index/1">PIC</a><a class="headermenu" href="/gif/new/1">GIF</a><a class="headermenu" href="/ask/hot/1">ASK</a><a class="headermenu" href="/comic/new/1">COMIC</a>
+<div style="clear: both;"></div></div></div>
+<div id="login_form">
+<div id="reg_msg"><img src="/images/login.png" border="0" alt="Create a New Account"></div> <br>
+<form method="post" action="/login.php" class="register">
+<input type="hidden" value="" name="current_page">
+<input name="fb_id" type="hidden" value="" id="fb_js_login_id">
+<table class="register" width="430" cellpadding="0" cellspacing="0" align="center">
+<tbody><tr>
+<td width="100" align="left">
+<b>Login with Facebook</b>
+</td>
+<td width="330" alight="right" id="fb_js_login">
+<a href="#" id="js_fb_login" class="fb-login-button"><img src="/images/fb-login.png"></a>
+</td>
+</tr>
+<tr>
+<td width="100" align="left">
+or
+</td>
+<td width="330" alight="right">
+</td>
+</tr>
+<tr>
+<td width="100" align="left">
+<label><b>User Name</b></label>
+</td>
+<td width="330" align="right">
+<input type="text" id="username" name="username">
+</td>
+</tr>
+<tr>
+<td width="100" align="left">
+<label><b>Password</b></label>
+</td>
+<td width="330" align="right">
+<input type="password" id="password" name="password">
+</td>
+</tr>
+<tr>
+<td width="100" align="left">
+</td>
+<td width="330" align="right" style="text-align: left; padding: 10px 0 0 70px;">
+<input type="checkbox" name="remember_me" checked="checked" style="width:20px"> Remember Me
+</td>
+</tr>
+<tr>
+<td width="100" align="left">
+</td>
+<td width="330" align="right" style="text-align: left; padding: 10px 0 0 70px;">
+<a href="/reset" class="reset-password">Forgotten Login Information</a>
+</td>
+</tr>
+<tr>
+<td align="left"><button type="button" id="cancel_hide" value="Cancel" class="headerNav_iconWrapper">CANCEL</button></td>
+<td align="right"><button type="submit" id="login" title="Log In" class="headerNav_iconWrapper">LOG IN</button></td>
+</tr>
+</tbody></table>
 </form>
 </div>
-</div>
-</div>
-</div>
-<div class="clear"></div>
-</div>
-</div>
 <div id="reg_form">
-<div id="reg_msg"><img src="http://www.tickld.com/images/createanewaccount.png" border="0" alt="Create a New Account"></div> <br>
+<div id="reg_form_container">
+<div id="reg_msg"><img src="/images/createanewaccount.png" border="0" alt="Create a New Account"></div> <br>
 <div id="extra_info">
-All it takes is a username, password and valid email address...and the reCaptcha, which sucks, but is necessary. Sorry!
+All it takes is a username, password and valid email address...and the CAPTCHA, which sucks, but is necessary. Sorry!
+<br><br>
+You will be required to verify your email address.
 <br><br>
 If you already have an account, please close this window and log in.
-</div> <br>
+</div><br>
+<div id="tmp">
+</div>
 <div class="err" id="add_err"></div><br>
 <script type="text/javascript">
 	var RecaptchaOptions = { theme : 'white' };
 	</script>
-<form action="http://www.tickld.com/reg2.php" class="register">
+<form action="/reg2.php" class="register" method="post">
+<input name="fb_id" type="hidden" value="" id="fb_js_signup_id">
 <table class="register" width="430" cellpadding="0" cellspacing="0" align="center">
-<tbody><tr><td width="100" align="left"><label><b>User Name</b></label></td><td width="330" align="right"><input type="text" id="username" name="username"></td></tr>
-<tr><td width="100" align="left"><label><b>Password</b></label></td><td width="330" align="right"><input type="password" id="password" name="password"></td></tr>
-<tr><td width="100" align="left"><label><b>Verify Password</b></label></td><td width="330" align="right"><input type="password" id="retype_password" name="retype_password"></td></tr>
-<tr><td width="100" align="left"><label><b>Email</b></label></td><td width="330" align="right"><input type="text" id="email" name="email"></td></tr>
-<tr><td colspan="2"> <label></label><br> </td></tr>
-<tr><td colspan="2" align="center" id="recaptchaholder">
-<script type="text/javascript" src="http://www.google.com/recaptcha/api/challenge?k=6LcfsMoSAAAAAHAsrcFxjZjjqfTltdIMZ8UaGi1z"></script>
-<noscript>
-<iframe src="http://www.google.com/recaptcha/api/noscript?k=6LcfsMoSAAAAAHAsrcFxjZjjqfTltdIMZ8UaGi1z" height="300" width="500" frameborder="0"></iframe><br/>
-<textarea name="recaptcha_challenge_field" rows="3" cols="40"></textarea>
-<input type="hidden" name="recaptcha_response_field" value="manual_challenge"/>
-</noscript> </td></tr>
-<tr><td colspan="2"> <label></label><br> </td></tr>
-<tr><td colspan="2">
+<tbody><tr>
+<td width="100" align="left">
+<b>Sign up via Facebook</b>
+</td>
+<td width="330" alight="right" id="fb_js_login">
+<a href="#" id="js_fb_signup" class="fb-login-button"><img src="/images/fb-login.png"></a>
+</td>
+</tr>
+<tr id="fb_signup_else">
+<td width="100" align="left">
+or
+</td>
+<td width="330" alight="right">
+</td>
+</tr>
+<tr>
+<td width="100" align="left">
+<label><b>User Name</b></label>
+</td>
+<td width="330" align="right">
+<input type="text" id="username" name="username">
+</td>
+</tr>
+<tr>
+<td width="100" align="left">
+<label><b>Password</b></label>
+</td>
+<td width="330" align="right">
+<input type="password" id="password" name="password">
+</td>
+</tr>
+<tr>
+<td width="100" align="left">
+<label><b>Verify Password</b></label>
+</td>
+<td width="330" align="right">
+<input type="password" id="retype_password" name="retype_password">
+</td>
+</tr>
+<tr>
+<td width="100" align="left">
+<label><b>Email</b></label>
+</td>
+<td width="330" align="right">
+<input type="text" id="email" name="email">
+</td>
+</tr>
+<tr>
+<td colspan="2">
+<label></label><br>
+</td>
+</tr>
+<tr>
+<td colspan="2" align="center" id="recaptchaholder" class="recaptcha">
+</td>
+</tr>
+<tr>
+<td colspan="2">
+<label></label><br>
+</td>
+</tr>
+<tr>
+<td colspan="2">
 <div id="extra_info" style="width:430">
-<input type="checkbox" name="agree" id="agree" value="agree" style="width:20px">&nbsp;I agree to the <a href="http://www.tickld.com/terms" target="_blank" class="user">Terms of Use</a> and to the use of <a href="http://www.tickld.com/privacy#cookies" target="_blank" class="user"> strictly necessary cookies </a> for login functionality.</div>
-</td></tr>
-<tr><td colspan="2"> <label></label><br> </td></tr>
-<tr> 
+<input type="checkbox" name="agree" id="agree" value="agree" style="width:20px">&nbsp;I agree to the <a href="http://www.tickld.com/privacy" target="_blank" class="reset-password">Privacy Policy</a>, <a href="http://www.tickld.com/terms" target="_blank" class="reset-password">Terms of Use</a>, <a href="http://www.tickld.com/policies" target="_blank" class="reset-password">Username Policy</a> and to the use of <a href="http://www.tickld.com/privacy#cookies" target="_blank" class="reset-password"> strictly necessary cookies </a> for login functionality.
+</div>
+</td>
+</tr>
+<tr>
+<td colspan="2">
+<label></label><br>
+</td>
+</tr>
+<tr>
 <td align="left"><button type="button" id="cancel_hide" value="Cancel" class="headerNav_iconWrapper">CANCEL</button></td>
 <td align="right"><button type="submit" id="register" title="Create Account" class="headerNav_iconWrapper">CREATE ACCOUNT</button></td>
 </tr>
 </tbody></table>
 </form>
 <br>
-<div id="extra_info">If you're receiving a reCaptcha error message, press the reload button on the reCaptcha widget for a new challenge and try again.</div>
+<div id="extra_info" class="recaptcha">If you're receiving a CAPTCHA error message, press the reload button on the CAPTCHA widget for a new challenge and try again.</div>
+</div>
 </div>
 <div id="shadow" class="popup"></div>
  
@@ -256,6 +475,7 @@ If you already have an account, please close this window and log in.
 <div id="enorasy_main_container">
  
 <div class="sensible">
+<h1>Privacy Policy</h1>
 <p>
 Tickld is committed to ensuring that the privacy of all visitors to www.tickld.com is preserved. Please read the following
 Privacy Policy to understand how we use and protect the information you provide to us.
@@ -274,11 +494,39 @@ The following words and expressions have the following meanings unless inconsist
 Compliance Officer<br><br>
 </td>
 <td width="400">
-James contactable at <a href="mailto:james@tickld.com" class="user">james@tickld.com<script type="text/javascript">
-/* <![CDATA[ */
-(function(){try{var s,a,i,j,r,c,l=document.getElementById("__cf_email__");a=l.className;if(a){s='';r=parseInt(a.substr(0,2),16);for(j=2;a.length-j;j+=2){c=parseInt(a.substr(j,2),16)^r;s+=String.fromCharCode(c);}s=document.createTextNode(s);l.parentNode.replaceChild(s,l);}}catch(e){}})();
-/* ]]> */
-</script></a><br><br>
+James contactable at compliance[at]tickld[dot]com<br><br>
+<table width="100%">
+<tbody><tr>
+<td>
+Tickld c/o Lewis Golden &amp; Co
+</td>
+</tr>
+<tr>
+<td>
+40 Queen Anne Street
+</td>
+</tr>
+<tr>
+<td>
+London
+</td>
+</tr>
+<tr>
+<td>
+W1G 9EL
+</td>
+</tr>
+<tr>
+<td>
+United Kingdom
+</td>
+</tr>
+<tr>
+<td>
+<a href="http://www.lewisgolden.com" class="user" target="_blank">www.lewisgolden.com</a>
+</td>
+</tr>
+</tbody></table>
 </td>
 </tr>
 <tr>
@@ -286,7 +534,7 @@ James contactable at <a href="mailto:james@tickld.com" class="user">james@tickld
 Cookies<br><br>
 </td>
 <td width="400" valign="top">
-a small amount of data sent from the server which is then stored on your computer's hard disc drive;<br><br>
+a small amount of data sent from the server which is then stored on your computer's internal storage device (HDD, SSD);<br><br>
 </td>
 </tr>
 <tr>
@@ -318,7 +566,8 @@ www.tickld.com<br><br>
 "we", "us" or "our"<br><br>
 </td>
 <td width="400">
-Tickld<br><br>
+Tickld
+<br><br>
 </td>
 </tr>
 <tr>
@@ -349,10 +598,13 @@ We may process the following personal data:
 </p>
 <ul>
 <li>
-login information you provide to us upon registration with the Site, including your name, email address and password;
+login information you provide to us upon registration with the Site, including your username, email address and password;
 </li>
 <li>
 personal information you provide to us following registration with the Site, including your date of birth and location;
+</li>
+<li>
+order information you provide to us when you purchase a product from the web store, including your legal name, postal address and details of your order;
 </li>
 <li>
 when you contact us via email, post or telephone we may collect personal data from you;
@@ -382,6 +634,7 @@ following reasons:
 <ul>
 <li>internal record keeping;</li>
 <li>we can deal with any general queries you raise from time to time by post, by email or by telephone;</li>
+<li>we can ship you products that you have purchased from our web store;</li>
 <li>we may use the information to improve our products and services; </li>
 <li>we may periodically send promotional emails about new products, special offers or other information which we think you
 may find interesting using the email address which you have provided;</li>
@@ -410,22 +663,51 @@ processing of that data are contractually obliged to respect the confidentiality
 <hr>
 <h1>7. How We Use Cookies</h1><a name="cookies"></a>
 <p>
-A cookie is a small file which asks permission to be placed on your computer's hard drive. Once you agree, the file is added
-and the cookie helps analyse web traffic or lets you know when you visit a particular site. Cookies allow web applications to
-respond to you as an individual. The web application can tailor its operations to your needs, likes and dislikes by gathering
-and remembering information about your preferences.
+Our website uses cookies, as almost all websites do, to help provide you with the best experience we can. Cookies are small text files that are placed on your computer or mobile phone when you browse websites.
 </p>
 <p>
-We use the following cookies:
+Our cookies can be categorised into the following types:
 </p>
 <p>
 Strictly necessary cookies. These are cookies that are required for the operation of our Site. They include, for example,
-cookies that enable you to log into secure areas of our Site.
+cookies that enable you to log into secure areas.
 </p>
 <p>
 Analytical/performance cookies. They allow us to recognise and count the number of visitors and to see how visitors move
 around our website when they are using it. This helps us to improve the way our Site works, for example, by ensuring that
 users are finding what they are looking for easily.
+</p>
+<p>
+Our cookies help us:
+</p>
+<ul>
+<li>Make our website work as you would expect</li>
+<li>Save you having to login every time you visit the site</li>
+<li>Remember your settings during and between visits</li>
+<li>Offer you free services/content (thanks to advertising)</li>
+<li>Improve the speed/security of the site</li>
+<li>Allow you to share pages with social networks like Facebook</li>
+<li>Personalise our site to you to help you get what you need faster</li>
+<li>Continuously improve our website for you</li>
+</ul>
+<p>
+We do not use cookies to:
+</p>
+<ul>
+<li>Collect any personally identifiable information (without your express permission)</li>
+<li>Collect any sensitive information (without your express permission)</li>
+<li>Pass personally identifiable data to third parties</li>
+</ul>
+<p>
+We use cookies to make our website work including:
+</p>
+<ul>
+<li>Determining if you are logged in or not</li>
+<li>Allowing you to add comments to our site</li>
+<li>Tailoring content to your needs</li>
+</ul>
+<p>
+There is no way to prevent these cookies being set other than to not use our Site.
 </p>
 <p>
 You can find more information about the individual cookies we use and the purposes for which we use them in the table below:
@@ -445,6 +727,39 @@ You can find more information about the individual cookies we use and the purpos
 </tr>
 <tr>
 <td>
+Cookies Notice
+</td>
+<td>
+allow_cookies
+</td>
+<td>
+When you arrive at this site for the first time, you see a coloured banner at the top of each page alerting you to our use of cookies. This cookie remembers when you have clicked the "Accept and Close" button.
+</td>
+</tr>
+<tr>
+<td>
+Google Analytics
+</td>
+<td>
+_utma, _utmb, _utmc, _utmz
+</td>
+<td>
+These cookies are used to collect information about how visitors use our site, which we use to help improve it. The cookies collect information in an anonymous form, including the number of visitors to the site, where visitors have come to the site from and the pages they visited.
+</td>
+</tr>
+<tr>
+<td>
+CloudFlare
+</td>
+<td>
+__cfduid
+</td>
+<td>
+In order to protect our website from security threats such as hackers and to boost its performance, we route our DNS through CloudFlare. This cookie is set by the CloudFlare service.
+</td>
+</tr>
+<tr>
+<td>
 Login
 </td>
 <td>
@@ -456,7 +771,7 @@ Detect whether the user has opted to remain logged in on their computer
 </tr>
 <tr>
 <td>
-Password
+Passcode
 </td>
 <td>
 pass
@@ -490,9 +805,43 @@ Detect whether the user has opted to switch off "Safe Mode"
 </tbody></table>
 <br>
 <p>
+<b>Social Website Cookies</b>
+</p>
+<p>
+So you can easily share our content on the likes of Facebook and Twitter we have included sharing buttons on our site. The privacy implications on this will vary from social network to social network and will be dependent on the privacy settings you have chosen on these networks.
+</p>
+<p></p>
+<p>
+<b>Advertising Cookies</b>
+</p>
+<p>
+Cookies are widely used in online advertising. Neither us, advertisers or our advertising partners can gain personally identifiable information from these cookies. We only work with advertising partners who work to accepted privacy standards such as <a href="http://www.youronlinechoices.com/uk/iab-good-practice-principles" class="user">http://www.youronlinechoices.com/uk/iab-good-practice-principles</a>.
+</p>
+<p>
+You can learn more about online advertising at <a href="http://www.youronlinechoices.com" class="user">http://www.youronlinechoices.com</a>. You can opt-out of almost all advertising cookies at <a href="http://www.youronlinechoices.com/uk/your-ad-choices" class="user">http://www.youronlinechoices.com/uk/your-ad-choices</a> although we would prefer that you didn't as ultimately adverts help keep much of the internet free. It is also worth noting that opting out of advertising cookies will not mean you won't see adverts, just simply that they won't be tailored to you any longer.
+</p>
+<p>
+We use:
+</p>
+<ul>
+<li>AdSense</li>
+<li>Criteo</li>
+<li>Solve Media</li>
+<li>Sunfish Media</li>
+</ul>
+<p>
+<b>Affiliate Cookies</b>
+</p>
+<p>
+We have a number of partners who promote our service on a success-only basis (i.e. instead of paying for advertising, we pay them commissions on sales). Cookies are required to allow us to reward these partners and these cookies are usually provided by specialist companies (known as affiliate networks). Neither us, the networks, or the partner advertising or recommending our services are able to identify you personally. We ask you to support us by allowing these cookies which ultimately help us to offer you the service we do at the price we do. Our affiliate cookies are provided by:
+</p>
+<ul>
+<li>Commission Junction</li>
+<li>Amazon Affiliates</li>
+</ul>
+<p>
 Please note that third parties (including, for example advertising networks and providers or external services like web
-traffic analysis services) may also use cookies, over which we have no control. These cookies are likely to be analytical/
-performance cookies or targeting cookies. Information on how to block cookies can normally be found within the help features
+traffic analysis services) will use cookies over which we have no control. These cookies are likely to be analytical/performance cookies or targeting cookies. Information on how to block cookies can normally be found within the help features
 of your browser. If you use your browser settings to block all cookies (including essential cookies) you may not be able to access all or parts of our Site. Information can also be found on the main browser websites:
 </p>
 <p>
@@ -508,7 +857,7 @@ http://support.mozilla.org/en-US/kb/enable-and-disable-cookies-website-preferenc
 http://support.google.com/chrome/bin/answer.py?hl=en&amp;answer=95647</a> (Chrome)
 </p>
 <p>
-Except for essential cookies, all cookies will expire after 30 days.
+Except for essential cookies, cookies from Google Analtyics and cookies from CloudFlare, all cookies will expire after 30 days. You may choose to clear these cookies prior to their automated expiration date.
 </p>
 <hr>
 <h1>8. Links to Other Websites</h1>
@@ -525,11 +874,7 @@ website in question.
 You may choose to restrict the collection or use of your personal information in the following ways:
 </p>
 <ul>
-<li>If you have previously agreed to us using your personal information, you may change your mind at any time by emailing us at hello@tickld.com.<script type="text/javascript">
-/* <![CDATA[ */
-(function(){try{var s,a,i,j,r,c,l=document.getElementById("__cf_email__");a=l.className;if(a){s='';r=parseInt(a.substr(0,2),16);for(j=2;a.length-j;j+=2){c=parseInt(a.substr(j,2),16)^r;s+=String.fromCharCode(c);}s=document.createTextNode(s);l.parentNode.replaceChild(s,l);}}catch(e){}})();
-/* ]]> */
-</script> We will not sell, distribute or lease your personal information to third parties unless we have your permission or are required by law to do so.;</li>
+<li>If you have previously agreed to us using your personal information, you may change your mind at any time by emailing us at hello[at]tickld[dot]com. We will not sell, distribute or lease your personal information to third parties unless we have your permission or are required by law to do so;</li>
 <li>We may use your personal information to send you promotional information about third parties which we think you may find interesting if you tell us that you wish this to happen. You have the right to object to your personal data being used for 'direct marketing' and/or 'hosting mailing' purposes. You can change your options in relation to the information you wish to receive any any time by contacting our Compliance Office in writing by post or email;</li>
 <li>you can set your internet browser to refuse cookies or you can ask your internet browser to alter you when a cookies is being set up (see 'How We Use Cookies');</li>
 <li>You have the right to request from us information as to what personal data which we are processing about you under the DPA 1998. A small fee of £10.00 will be payable. Such requests will only be answered by registered post to ensure the privacy of the recipient. If you would like a copy of the relevant information please write by post or email to the Compliance Officer with the subject line "Data Protection Act 1998 Application", which should be accompanied by the £10.00 fee. We will provide you with the relevant information within 40 days of receipt of the fee; and</li>
@@ -555,46 +900,99 @@ Information Commissioner's office information line on: (0044) 01625 545745 or vi
  
 <div id="en_footer_wrapper">
 <div id="en_footer_container">
-<div id="footer">
-<table class="footer" width="1024" cellpadding="5" cellspacing="0">
+<div class="content">
+<div class="top_block top">
+<div class="content">
+</div>
+</div>
+<div class="left_block left">
+<div class="content">
+<p>
+<img src="/images/header_logo.png">
+</p>
+<p>
+© tickld 2012-2013 </p>
+</div>
+</div>
+<div class="left_block middleleft">
+<div class="content">
+<p class="footer_emph">
+Essentials
+</p>
+<p>
+<a href="/contact" class="footer_hyperlink">Contact Us</a>
+</p>
+<p>
+<a href="/blog" class="footer_hyperlink">Blog</a>
+</p>
+<p>
+<a href="/faq" class="footer_hyperlink">FAQ</a>
+</p>
+<p>
+<a href="http://m.tickld.com/privacy" class="footer_hyperlink">Mobile Site</a>
+</p>
+</div>
+</div>
+<div class="left_block middleright">
+<div class="content">
+<p class="footer_emph">
+Odds and Ends
+</p>
+<p>
+<a href="/sitemap" class="footer_hyperlink">Sitemap</a>
+</p>
+<p>
+<a href="/advertise" class="footer_hyperlink">Advertise</a>
+</p>
+<p>
+<a href="/shop/tshirt" class="footer_hyperlink">Tickld T-Shirt</a>
+</p>
+<p>
+</p><table border="0" cellpadding="0" cellspacing="0" width="100%">
 <tbody><tr>
-<td width="150" height="60" align="left" valign="middle">
-© tickld 2012</td>
-<td>
-<a href="/terms" class="footer">Terms of Use</a>
-&nbsp;
-<a href="/privacy" class="footer">Privacy Policy</a>
-&nbsp;
-<a href="/contact" class="footer">Contact Us</a>
-&nbsp;
-<a href="/faq" class="footer">FAQ</a>
-&nbsp;
-<a href="/advertise" class="footer">Advertise</a>
-&nbsp;
-<a href="http://m.tickld.com/privacy" class="footer">Mobile Site</a>
-&nbsp;
-<a href="/sitemap" class="footer">Site Map</a>
-&nbsp;
-<a href="/privacy#cookies" class="footer">Read About How We Use Cookies</a>
-&nbsp;
+<td width="15%" align="left">
+<a href="http://www.facebook.com/tickld" target="_blank"><img src="/images/footer_facebook.png" border="0"></a>
+</td>
+<td width="85%" align="left">
+<a href="http://www.twitter.com/tickld" target="_blank"><img src="/images/footer_twitter.png" border="0"></a>
 </td>
 </tr>
 </tbody></table>
-</div> </div>
+<p></p>
+</div>
+</div>
+<div class="left_block right">
+<div class="content">
+<p class="footer_emph">
+Legal
+</p>
+<p>
+<a href="/terms" class="footer_hyperlink">Terms of Use</a>
+</p>
+<p>
+<a href="/privacy" class="footer_hyperlink">Privacy Policy</a>
+</p>
+<p>
+<a href="/policies" class="footer_hyperlink">Additional Policies</a>
+</p>
+<p>
+<a href="/shop/terms" class="footer_hyperlink">Terms and Conditions of Sale</a>
+</p>
+<p>
+<a href="/privacy#cookies" class="footer_hyperlink">How Tickld Uses Cookies</a>
+</p>
+</div>
+</div>
+<div class="bottom_block bottom">
+<div class="content">
+Spread Laughter and Cure Boredom
+</div>
+</div>
+</div>
+</div>
 </div>
  
-<div id="fb-root"></div>
-<script src="http://connect.facebook.net/en_US/all.js#xfbml=1" type="text/javascript"></script>
-<script src="/js/FB.Share.js" type="text/javascript"></script>
 <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="//platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
- 
-<script type="text/javascript">
-  (function() {
-    var li = document.createElement('script'); li.type = 'text/javascript'; li.async = true;
-    li.src = 'https://platform.stumbleupon.com/1/widgets.js';
-    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(li, s);
-  })();
-</script>
 <script type="text/javascript">
   var _gaq = _gaq || [];
   _gaq.push(['_setAccount', 'UA-27441513-1']);
@@ -609,22 +1007,18 @@ Information Commissioner's office information line on: (0044) 01625 545745 or vi
 <script type="text/javascript" src="/assets/js/jquery.validate.js"></script>
 <script type="text/javascript" src="/assets/js/jquery.tagsinput.min.js"></script>
 <script type="text/javascript">
-$(document).ready(function() 
+$(document).ready(function()
 {
 	$('form.validate').validate({
 		validClass: "success"
 	});
-	
+
 	$('.tags').tagsInput();
 });
+
 </script>
 <script type="text/javascript" src="/assets/js/jquery.simplemodal.js"></script>
 <script type="text/javascript" src="/assets/js/register.js?1345790"></script>
 </div>
-<script type="text/javascript">
-/* <![CDATA[ */
-(function(){try{var s,a,i,j,r,c,l=document.getElementsByTagName("a"),t=document.createElement("textarea");for(i=0;l.length-i;i++){try{a=l[i].getAttribute("href");if(a&&"cloudflare.com/email-protection"==a.substr(7 ,31)){s='';j=44;r=parseInt(a.substr(j,2),16);for(j+=2;a.length-j&&a.substr(j,1)!='X';j+=2){c=parseInt(a.substr(j,2),16)^r;s+=String.fromCharCode(c);}j+=1;s+=a.substr(j,a.length-j);t.innerHTML=s.replace(/</g,"&lt;").replace(/>/g,"&gt;");l[i].setAttribute("href","mailto:"+t.value);}}catch(e){}}}catch(e){}})();
-/* ]]> */
-</script>
 
 </body></html>
