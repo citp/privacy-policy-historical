@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the uwcu.org privacy policy that was archived on 2012-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121206032336id_/http%3A//www.uwcu.org/Legal/PrivacyIsImportant.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the uwcu.org privacy policy that was archived on 2013-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130622044437id_/http%3A//www.uwcu.org/Legal/PrivacyIsImportant.aspx) for the most accurate reproduction.*
 
 # Your Privacy Is Important to Us - UW Credit Union (UWCU, University of Wisconsin Credit Union)
 
@@ -12,8 +12,9 @@ We are committed to maintaining the highest level of integrity in the protection
 
 This notice details our practices in the collection and use of private information.
 
-We appreciate your confidence and the opportunity to serve you.
-
+We appreciate your confidence and the opportunity to serve you. | _Rev. 7/11_  
+---|---  
+  
 ### Facts
 
 | What does UW Credit Union do with your personal information?  
