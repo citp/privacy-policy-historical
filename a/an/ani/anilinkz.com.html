@@ -1,7 +1,7 @@
-<!--The following is the downloaded HTML source of the anilinkz.com privacy policy that was archived on 2012-10-24.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121024062820id_/http%3A//anilinkz.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the anilinkz.com privacy policy that was archived on 2013-06-22.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130622082957id_/http%3A//anilinkz.com/privacy-policy) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xmlns:fb="http://ogp.me/ns/fb#"><head>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 
 <title>Privacy Policy - AniLinkz</title>
 <meta name="description" content="Privacy Policy - AniLinkz Online">
@@ -19,21 +19,23 @@
 
 
 
-<script id="facebook-jssdk" src="//connect.facebook.net/en_US/all.js#xfbml=1"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="http://cdn.fastclick.net/js/adcodes/pubcode.min.js"></script>
-<script type="text/javascript">(function () {try{VCM.media.render({sid:57322,media_id:2,media_type:2,version:"1.1",pfc:43200000});} catch(e){}}());</script>
 
 
 
 
-<script type="text/javascript" src="http://anilinkz.com/files/jquery.js"></script>
+<script id="facebook-jssdk" src="//connect.facebook.net/en_US/all.js#xfbml=1&amp;appId=203288009774117"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="http://anilinkz.com/files/jquery.js"></script>
+<script type="text/javascript" src="http://anilinkz.com/files/simplePagination.js"></script>
+<link rel="stylesheet" type="text/css" media="all" href="/files/simplePagination.css">
 
 
 
 
 
-<link rel="stylesheet" type="text/css" media="all" href="/files/stylee.css">
+<link rel="stylesheet" type="text/css" media="all" href="/files/style.css">
 
 <link rel="alternate" type="application/rss+xml" title="AniLinkz Recent Episodes" href="http://feeds.feedburner.com/anilinkzrss20">
+
+
 
 
 
@@ -41,8 +43,8 @@
 
   var _gaq = _gaq || [];
   _gaq.push(['_setAccount', 'UA-5609997-1']);
-  _gaq.push(['_trackPageview']);
-
+      _gaq.push(['_trackPageview']);
+  
   (function() {
     var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
     ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
@@ -52,13 +54,11 @@
 </script>
 
 
-
 <script type="text/javascript">
 
 if (top.location != location) {
 top.location.href = document.location.href ;
 }
-
 
 
 function escapeall(str){return str.replace(/([A-Z\~\!\@\#\$\*\{\}\[\]\-\+\.])/g,'');} 
@@ -72,120 +72,6 @@ function removeads(){
 $('.ads').empty();
 }
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-$(document).ready(function(){
-
-
-
-
-
-
-$("#watchmode").click(function () {
-
-$('#chatango').empty();
-
-$('.ads').empty();
-
-
-	var playerheight = $("#aniplayer").height();
-	var winheight = $(window).height();
-	var playeroffset = $("#aniplayer").offset().top;
-	
-	var watchscroll = playeroffset - ((winheight - playerheight) / 2);
-	
-	
-
-
-
-$('html,body').stop().animate({ scrollTop: watchscroll }, "slow");
-
-
-});  
-
-
-
-$("#showhide").click(function () {
-$("#chatdiv").toggle("slow");
-});  
-
-
-
-       $("#report").click(function(){
-	   
-	   // $('html,body').stop().animate({ scrollTop: 0 }, "slow");
-	   	
-var windowWidth = document.documentElement.clientWidth;
-var windowHeight = document.documentElement.clientHeight;
-	var popupHeight = $("#win").height();
-	var popupWidth = $("#win").width();
-	var reportheight = $(document).height();
-	var scrollt = $(window).scrollTop();
-	
-		   	$("#win").css({
-		"position": "absolute",
-		"top":  scrollt + (windowHeight/2-popupHeight/2),
-		"left": windowWidth/2-popupWidth/2
-	});
-	//centering
-	
-		   	$("#pop").css({
-		"height": reportheight
-	});
-
-	   $("#pop").fadeIn('slow');
-	   
-	   var title = $("#report").attr("class");
-
-	   $("#win").fadeIn('slow').load("/fetch.php?r=" + title);
-	   
-	   
-
-
-       });
-	   
-	   	
-	
-	//Click out event!
-	$("#pop").click(function(){
-		disablePopup();
-	});
-	
-	//Press Escape event!
-	$(document).keypress(function(e){
-		if(e.keyCode==27 && popupStatus==1){
-			disablePopup();
-		}
-	});
-	
-
-	$("#menu a" ).mouseover(function() {
-		$( this ).children("img").stop( true, true ).animate({
-			opacity: 0.6
-		}, 200, "swing", function() {
-			$( this ).animate({
-				opacity: 1
-			}, 400 );
-		});
-	});
-
-	   
-});
-
-
-
-
 	  
 </script>
 
@@ -193,12 +79,13 @@ var windowHeight = document.documentElement.clientHeight;
 </head>
 
 <body onload="setTimeout('removeads()', 300000)">
+<div id="lightsout"></div>
 <div id="fb-root"></div>
 <script>(function(d, s, id) {
   var js, fjs = d.getElementsByTagName(s)[0];
   if (d.getElementById(id)) return;
   js = d.createElement(s); js.id = id;
-  js.src = "//connect.facebook.net/en_US/all.js#xfbml=1";
+  js.src = "//connect.facebook.net/en_US/all.js#xfbml=1&appId=203288009774117";
   fjs.parentNode.insertBefore(js, fjs);
 }(document, 'script', 'facebook-jssdk'));</script>
 
@@ -208,29 +95,24 @@ var windowHeight = document.documentElement.clientHeight;
 
 
 
+<div id="header">
+<span><div class="ads la"><script type="text/javascript" src="http://media.fastclick.net/w/get.media?sid=57322&amp;m=1&amp;tp=5&amp;d=j&amp;t=n"></script></div></span>
+
+</div>
+
 
 
 <div id="wrapper">
-<div id="topnav"></div>
+
 <div id="wrap">
 
 
-<div id="header">
-<div id="logo1">
-<div id="logo2">
-&nbsp;
-
-</div>
-</div>
-
-</div>
 
 
 
 
 
-
-<div style="text-align:center; width:1216px; margin-left:auto; margin-right:auto;border-bottom:1px solid white;">
+<div id="menu">
 <img id="menumap" src="http://anilinkz.com/img/menu/bg.jpg" usemap="#menumap" border="0" width="1216" height="50" alt="">
 <map id="_menumap" name="menumap">
 <area shape="rect" coords="9,4,107,43" href="http://anilinkz.com/" alt="" title="AniLinkz Home">
@@ -265,7 +147,7 @@ var windowHeight = document.documentElement.clientHeight;
 </div>
 
 
-<div class="ads wa"><iframe frameborder="0" marginwidth="0" marginheight="0" scrolling="no" width="160" height="600" src="http://ad.xtendmedia.com/st?ad_type=iframe&amp;ad_size=160x600&amp;section=2571392"></iframe></div><div class="ads wa"><script type="text/javascript" src="http://server.cpmstar.com/view.aspx?poolid=2856&amp;script=1&amp;rnd=1070222587"></script></div><div class="ads wa"><script type="text/javascript" src="http://media.fastclick.net/w/get.media?sid=57322&amp;m=3&amp;tp=7&amp;d=j&amp;t=n"></script></div>
+<div class="ads wa"><script type="text/javascript" src="http://media.fastclick.net/w/get.media?sid=57322&amp;m=3&amp;tp=7&amp;d=j&amp;t=n"></script></div><div class="ads wa"><script type="text/javascript" src="http://go.adversal.com/ttj?id=1425697&amp;size=160x600&amp;promo_sizes=120x600&amp;promo_alignment=center"></script></div>
 
 
 
@@ -281,7 +163,7 @@ var windowHeight = document.documentElement.clientHeight;
 
 
 	<h3>Privacy Policy</h3>
-	<div class="ads la"><script type="text/javascript" src="http://media.fastclick.net/w/get.media?sid=57322&amp;m=1&amp;tp=5&amp;d=j&amp;t=n"></script></div>	<br>
+	<div class="ads la"><script type="text/javascript" src="http://server.cpmstar.com/view.aspx?poolid=2855&amp;script=1&amp;rnd=430088911"></script></div>	<br>
 	
 <p>    This privacy policy tells you how we use personal information collected at this site. Please read this privacy policy before using the site or submitting any personal information. By using the site, you accept the practices described here.<br><br>
 
@@ -305,7 +187,7 @@ var windowHeight = document.documentElement.clientHeight;
     We reserve the right to make changes to this policy. You are encouraged to review the privacy policy whenever you visit the site to make sure that you understand how any personal information you provide will be used.</p>
 
 
-	<div class="ads la"><iframe frameborder="0" marginwidth="0" marginheight="0" scrolling="no" width="728" height="90" src="http://ad.xtendmedia.com/st?ad_type=iframe&amp;ad_size=728x90&amp;section=2571392"></iframe></div>	
+	<div class="ads la"><iframe frameborder="0" marginwidth="0" marginheight="0" scrolling="no" width="728" height="90" src="http://ads.ad4game.com/www/delivery/afr.php?zoneid=23033&amp;cb=2081165080"></iframe></div>	
 
 
 
@@ -316,22 +198,28 @@ var windowHeight = document.documentElement.clientHeight;
 
 
 <div id="sidebar">
+
+
 <div class="sideright">
 <div class="search"></div>
 </div>
 
 <br>
 <center>
-<form id="anisearch" action="/search.php" method="post">
-<input type="text" style="text-align:center;" class="query" name="q" value="-Enter Keyword-" onblur="if (this.value == '') {this.value = '-Enter Keyword-';}" onfocus="if (this.value == '-Enter Keyword-') {this.value = '';}" maxlength="80"><br>
+<form style="background-image: url(http://anilinkz.com/img/searchbg.png);
+background-repeat: no-repeat;" id="anisearch" action="/search.php" method="post">
+<input style="margin-top: 30px;
+width: 160px;
+margin-left: 10px; text-align:center;" type="text" class="query" name="q" value="-Enter Keyword-" onblur="if (this.value == '') {this.value = '-Enter Keyword-';}" onfocus="if (this.value == '-Enter Keyword-') {this.value = '';}" maxlength="80"><br>
 <input type="hidden" name="src" value="anilinkz">
 <br>
 <input type="submit" class="submit" value="AniLinkz Search">
-<br>
-<a rel="nofollow" href="/search"><span style="font-size:13px">Advanced Anime Search</span></a>
+
 </form>
 </center>
 <br>
+
+
 
 
 
@@ -341,18 +229,29 @@ var windowHeight = document.documentElement.clientHeight;
 
 
 
-<div class="ads sa"><iframe frameborder="0" marginwidth="0" marginheight="0" scrolling="no" width="300" height="250" src="http://adserving.cpxinteractive.com/st?ad_type=iframe&amp;ad_size=300x250&amp;section=476035"></iframe></div>
+<div class="ads sa"><script type="text/javascript" src="http://go.adversal.com/ttj?id=1425697&amp;size=300x250&amp;promo_sizes=250x250,200x200,180x150&amp;promo_alignment=center"></script></div>
 
 
 <div class="sideright">
 <div class="chat"></div>
 </div>
 
+<div class="fb-like-box" data-href="https://www.facebook.com/anilinkz" data-width="300" data-show-faces="false" data-stream="false" data-show-border="false" data-header="false"></div>
+<script type="text/javascript">
+
+	function choosechat(chatname) {
+	document.getElementById('chatango').innerHTML = '<table width="300"><tr><td align="left"><a href="javascript:choosechat(\'anilinkzchat2\');"><img src="\/img\/chat\/ot.png" alt="Off Topic Chat" \/><\/a><\/td><td align="center"><a href="javascript:choosechat(\'animelinkz\');"><img src="\/img\/chat\/mc.png" alt="Main Anime Chat" \/><\/a><\/td><td align="right"><a href="javascript:choosechat(\'anilinkzchat3\');"><img src="\/img\/chat\/uc.png" alt="Unknown Chat" \/><\/a></td><\/tr><\/table><object type="application/x-shockwave-flash" width="300" height="500" data="http://' + chatname + '.chatango.com/group"><param name="movie" value="http://animelinkz.chatango.com/group"/><param name="AllowScriptAccess" value="always"/><param name="wmode" value="transparent"/><param name="AllowNetworking" value="all"/><param name="AllowFullScreen" value="true"/><param name="flashvars" value="a=232D35&b=100&c=FFFFFF&d=FFFFFF&f=1&g=FFFFFF&i=0&j=CCCCCC&k=555555&l=FFFFFF&m=FF0000&n=FFFFFF&o=42&q=7f7f7f&r=100&t=0"/></object>';
+var date = new Date();
+date.setTime(date.getTime()+(1000*60*60*168));
+document.cookie = "chatter=" + chatname + "; expires="+date.toGMTString()+"; path=/";
+
+	}
+
+</script>
 
 <div id="chatango">
 <table width="300"><tbody><tr><td width="100" align="left"><a class="" href="javascript:choosechat('anilinkzchat2');"><img src="/img/chat/ot.png" alt="Off Topic Chat"></a></td><td width="100" align="center"><a class="" href="javascript:choosechat('animelinkz');"><img src="/img/chat/mc.png" alt="Main Anime Chat"></a></td><td width="100" align="right"><a class="" href="javascript:choosechat('anilinkzchat3');"><img src="/img/chat/uc.png" alt="Unknown Chat"></a></td></tr><tr><td colspan="3" height="500"><span id="chatdiv"><object type="application/x-shockwave-flash" width="300" height="500" data="http://animelinkz.chatango.com/group"><param name="movie" value="http://animelinkz.chatango.com/group"><param name="AllowScriptAccess" value="always"><param name="wmode" value="transparent"><param name="AllowNetworking" value="all"><param name="AllowFullScreen" value="true"><param name="flashvars" value="a=232D35&amp;b=100&amp;c=FFFFFF&amp;d=FFFFFF&amp;f=1&amp;g=FFFFFF&amp;i=0&amp;j=CCCCCC&amp;k=555555&amp;l=FFFFFF&amp;m=FF0000&amp;n=FFFFFF&amp;o=42&amp;q=7f7f7f&amp;r=100&amp;t=0"></object></span></td></tr><tr><td align="left"><a rel="nofollow" href="/chat-rules"><img src="/img/chat/cr.png" alt="Chat Rules"></a></td><td align="center"><a id="showhide"><img src="/img/chat/hc.png" alt="Hide Chatbox"></a></td><td align="right"><a rel="nofollow" href="/chat-moderators"><img src="/img/chat/cm.png" alt="Chat Moderators"></a></td></tr></tbody></table>
 </div>
-
 
 
 
@@ -364,8 +263,8 @@ var windowHeight = document.documentElement.clientHeight;
 
 
 
-<div class="ads sa"><script type="text/javascript" src="http://server.cpmstar.com/view.aspx?poolid=2857&amp;script=1&amp;rnd=1713785369"></script></div>
-<div class="ads sa"><iframe frameborder="0" marginwidth="0" marginheight="0" scrolling="no" width="300" height="250" src="http://www3.game-advertising-online.com/index.php?section=serve&amp;id=1323"></iframe></div>
+<div class="ads sa"><iframe frameborder="0" marginwidth="0" marginheight="0" scrolling="no" width="300" height="250" src="http://ads.ad4game.com/www/delivery/afr.php?zoneid=23032&amp;cb=535103984"></iframe></div>
+
 
 
 </div>
@@ -383,9 +282,15 @@ var windowHeight = document.documentElement.clientHeight;
 
 
 
-<span style="font-size:14px;letter-spacing:-1px;">Popular: <a href="/naruto-shippuuden-episode-284" title="Naruto Shippuuden 284"><b>Naruto Shippuuden 284</b></a> <font color="lime">(Sub)</font> | <a href="/naruto-shippuuden-episode-283" title="Naruto Shippuuden 283"><b>Naruto Shippuuden 283</b></a> <font color="lime">(Sub)</font> | <a href="/one-piece-episode-569" title="One Piece 569"><b>One Piece 569</b></a> <font color="lime">(Sub)</font> | <a href="/one-piece-episode-568" title="One Piece 568"><b>One Piece 568</b></a> <font color="lime">(Sub)</font> | <a href="/fairy-tail-episode-153" title="Fairy Tail 153"><b>Fairy Tail 153</b></a> <font color="lime">(Sub)</font> | <a href="/fairy-tail-episode-152" title="Fairy Tail 152"><b>Fairy Tail 152</b></a> <font color="lime">(Sub)</font> | <a href="/avatar-the-legend-of-korra-episode-11-12-final" title="Avatar: The Legend of Korra 11-12 [Final]"><b>Avatar: The Legend of Korra 11-12 [Final]</b></a> <font color="blue">(Dub)</font> | <a href="/avatar-the-legend-of-korra-episode-10" title="Avatar: The Legend of Korra 10"><b>Avatar: The Legend of Korra 10</b></a> <font color="blue">(Dub)</font></span>
+<span style="font-size:14px;letter-spacing:-1px;">Popular: <a href="/naruto-shippuuden-episode-318" title="Naruto Shippuuden 318"><b>Naruto Shippuuden 318</b></a> <font color="lime">(Sub)</font> | <a href="/one-piece-episode-600" title="One Piece 600"><b>One Piece 600</b></a> <font color="lime">(Sub)</font> | <a href="/fairy-tail-ova-5-2" title="Fairy Tail OVA 5"><b>Fairy Tail OVA 5</b></a> <font color="lime">(Sub)</font></span>
 <br><br>
-Soon: <a href="/naruto-shippuuden-episode-286" title="Naruto Shippuuden 286"><b>Naruto Shippuuden 286</b></a> <font color="purple">(Info)</font> | <a href="/naruto-shippuuden-episode-285" title="Naruto Shippuuden 285"><b>Naruto Shippuuden 285</b></a> <font color="purple">(Info)</font> | <a href="/one-piece-episode-571" title="One Piece 571"><b>One Piece 571</b></a> <font color="purple">(Info)</font> | <a href="/one-piece-episode-570" title="One Piece 570"><b>One Piece 570</b></a> <font color="purple">(Info)</font> | <a href="/fairy-tail-episode-155" title="Fairy Tail 155"><b>Fairy Tail 155</b></a> <font color="purple">(Info)</font> | <a href="/fairy-tail-episode-154" title="Fairy Tail 154"><b>Fairy Tail 154</b></a> <font color="purple">(Info)</font> | <a href="/avatar-the-legend-of-korra-book-2-episode-1-ep-13" title="Avatar: The Legend of Korra Book 2 1 (Ep 13)"><b>Avatar: The Legend of Korra Book 2 1 (Ep 13)</b></a> <font color="purple">(Info)</font>
+Soon: <a href="/naruto-shippuuden-episode-320" title="Naruto Shippuuden 320"><b>Naruto Shippuuden 320</b></a> <font color="purple">(Info)</font> | <a href="/naruto-shippuuden-episode-319" title="Naruto Shippuuden 319"><b>Naruto Shippuuden 319</b></a> <font color="purple">(Info)</font> | <a href="/one-piece-episode-602" title="One Piece 602"><b>One Piece 602</b></a> <font color="purple">(Info)</font> | <a href="/one-piece-episode-601" title="One Piece 601"><b>One Piece 601</b></a> <font color="purple">(Info)</font><br><br>
+<a href="/" title="Privacy Policy">Home</a> | 
+<a href="/terms-of-use" title="Terms of Use">Terms of Use</a> | 
+<a href="/privacy-policy" title="Privacy Policy">Privacy Policy</a> | 
+<a href="/faqs" title="Frequently Asked Questions">Frequently Asked Questions</a> | 
+<a href="/legal-disclaimer" title="Legal Disclaimer">Legal Disclaimer</a>
+
 
 <br><br>
 
@@ -400,26 +305,19 @@ Copyright © AniLinkz 2012. <a href="/" title="Watch Anime">Watch Anime</a> | <a
 
 
 <center>
-<a rel="nofollow" title="Validate Avatar: The Legend of Korra Book 2 1 (Ep 13)" href="http://validator.w3.org/check?uri=referer"><img src="/img/valid_xhtml.png" alt="Validate Avatar: The Legend of Korra Book 2 1 (Ep 13)"></a><img src="http://whos.amung.us/swidget/bzph6pubwpjz.gif?new=1" alt=""><a rel="nofollow" title="Valid CSS Avatar: The Legend of Korra Book 2 1 (Ep 13)" href="http://jigsaw.w3.org/css-validator/check/referer"><img src="/img/valid_css.png" alt="Valid CSS Avatar: The Legend of Korra Book 2 1 (Ep 13)"></a>
-<br>
 
 <small>
-Page Loaded in 0.0007 seconds with 2 queries using 2,137 KB of Memory</small>
+Page Loaded in 0.0002 seconds with 2 queries using 549 KB of Memory</small>
 
 <br><br>
 
-<a target="_blank" href="/">Watch Anime Online</a> | 
+<img src="http://whos.amung.us/swidget/bzph6pubwpjz.gif?new=1" width="1" height="1" alt=""><a target="_blank" href="/">Watch Anime Online</a> | 
 <a target="_blank" href="/">Streaming Anime Episodes</a> | 
-<a target="_blank" href="http://eztvstream.ch/">Watch Free TV Series</a> | 
-<a target="_blank" href="http://yourdocumentaryfilms.co.uk/">Watch Documentary Films</a> | 
-<a target="_blank" href="http://www.animelime.com">AnimeLime</a> | 
+<a target="_blank" href="http://www.nbaliveonlinefree.com/">Watch Nba Live Online</a> | 
 <a target="_blank" href="http://www.markmaranga.com/">Philippines Travel Guide</a> | 
 <a target="_blank" href="http://www.isyot.net/">Laptops and Cellphones</a> | 
-<a target="_blank" href="http://pacquiao-vs-marquez-fights.blogspot.com/">Pacquiao vs Marquez</a> | 
 <a target="_blank" href="http://www.phnoy.com/">Pinoy TV Online</a> | 
-<a target="_blank" href="http://www.mangafox.com">MangaFox</a> | 
-<a target="_blank" href="http://tanaw.tv/">Watch TV Series</a> | 
-<a target="_blank" href="http://aniwatcher.com/">Watch Anime</a>
+<a target="_blank" href="http://www.mangafox.com">MangaFox</a> 
 
 
 </center>
@@ -435,5 +333,7 @@ Page Loaded in 0.0007 seconds with 2 queries using 2,137 KB of Memory</small>
 
   </div> <!-- wrap -->
 </div> <!-- wrapper -->
+
+
 
 </body></html>
