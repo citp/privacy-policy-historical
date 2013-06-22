@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the e3expo.com privacy policy that was archived on 2012-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120529165646id_/http%3A//www.theesa.com/privacy/index.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the e3expo.com privacy policy that was archived on 2013-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130622184827id_/http%3A//www.theesa.com/privacy/index.asp) for the most accurate reproduction.*
 
 # The Entertainment Software Association- Privacy Policy
 
