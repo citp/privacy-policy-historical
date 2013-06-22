@@ -1,30 +1,36 @@
-> *The following text is extracted and transformed from the gchats.com privacy policy that was archived on 2012-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121014005103id_/http%3A//www.gchats.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gchats.com privacy policy that was archived on 2013-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130622070351id_/http%3A//www.gchat.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
-  *   * Gchats is committed to protect your security and your personal details when you use Gchats Website, Services and Products on the Website. Here you can find details on how and why we protect your details and what we do with your information. Please check back our Privacy Policy for any changes and amendments in the future. 
+GChat is committed to protect your security and your personal details when you use GChat Website, Services and Products on the Website. Here you can find details on how and why we protect your details and what we do with your information. Please check back our Privacy Policy for any changes and amendments in the future. 
 
 We may change this policy from time to time by updating this page. You should check this page from time to time to ensure that you are happy with any changes. 
 
 1\. What we collect?
     We may collect the following information: 
-    * Identifying you, every time you visit this Website, use our services and products.
-    * Record data relating to our products and license usages.
-    * Record your order details.
-    * Record the details which you submit using the forms provided in this Website.
-    * Contact information including email address.
-    * Demographic information such as postcode, preferences and interests.
-    * Store users information on our servers, when you are using product demos provided in this website or our hosted chat services.
-    * Other information relevant to customer surveys and statistical procedures.
+
+  * Identifying you, every time you visit this Website, use our services and products.
+  * Record data relating to our products and license usages.
+  * Record your order details.
+  * Record the details which you submit using the forms provided in this Website.
+  * Contact information including email address.
+  * Demographic information such as postcode, preferences and interests.
+  * Store users information on our servers, when you are using product demos provided in this website or our hosted chat services.
+  * Other information relevant to customer surveys and statistical procedures.
+
+
 2\. What we do with the information we gather
      We require this information to understand your needs and provide you with a better service, and in particular for the following reasons: 
-    * Internal record keeping.
-    * We may use the information to improve our products and services.
-    * We may use the information to monitor products license usages.
-    * We may periodically send promotional emails about new products, special offers or other information which we think you may find interesting using the email address which you have provided.
-    * From time to time, we may also use your information to contact you for market research purposes.
-    * We may contact you by email, phone, fax or mail.
-    * We may use the information to customise the website according to your interests.
+
+  * Internal record keeping.
+  * We may use the information to improve our products and services.
+  * We may use the information to monitor products license usages.
+  * We may periodically send promotional emails about new products, special offers or other information which we think you may find interesting using the email address which you have provided.
+  * From time to time, we may also use your information to contact you for market research purposes.
+  * We may contact you by email, phone, fax or mail.
+  * We may use the information to customise the website according to your interests.
+
+
 3\. Security
     We are committed to ensuring that your information is secure. In order to prevent unauthorised access or disclosure, we have put in place suitable procedures to safeguard and secure the information we collect online.
     we do not store credit card details nor do we share customer details with any 3rd parties.
@@ -36,42 +42,3 @@ We may change this policy from time to time by updating this page. You should ch
 If you believe that any information we are holding on you is incorrect or incomplete, please write to or email us as soon as possible at the contact us page found on this Website. We will promptly correct any information found to be incorrect. 
 
 Last updated: 9 Jan 2012 
-
-
-
-  * Enter your e-mail address
-
-Remove Subscribe
-
-  
-
-
-
-  * Customers portal has been launched. Now you can manage your orders, licenses and subscriptions in your control panel. To access the portal, click on the customers link and login with your previously registered email address.
-
-May 31, 2012
-
-
-
-  * \- Userlist sort ordering feature added in the admin panel.
-
-\- Media player music and video uploading feature added.
-
-\- Microphone echo when using handsfree.
-
-\- Unicode usernames couldn't login in the.
-
-\- Unicode usernames appeared incorrectly in the logs and online list.
-
-\- Blocked members could remove the gag by changing the rooms.
-
-\- Double enter on login brought to an empty room.
-
-\- Improvenet: Auto reconnect to separate streaming server disconnections.
-
-\- Improvenet: online members file now allows more flexibility on styling this file.
-
-April 28, 2012
-
-
-
