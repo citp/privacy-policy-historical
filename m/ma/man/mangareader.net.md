@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mangareader.net privacy policy that was archived on 2012-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121014060333id_/http%3A//www.mangareader.net/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mangareader.net privacy policy that was archived on 2013-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130622062159id_/http%3A//www.mangareader.net/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
