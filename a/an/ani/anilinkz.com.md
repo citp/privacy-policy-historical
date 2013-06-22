@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the anilinkz.com privacy policy that was archived on 2012-10-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121024062820id_/http%3A//anilinkz.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the anilinkz.com privacy policy that was archived on 2013-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130622082957id_/http%3A//anilinkz.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - AniLinkz
 
