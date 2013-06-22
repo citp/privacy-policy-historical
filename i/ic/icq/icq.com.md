@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the icq.com privacy policy that was archived on 2012-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121226225716id_/http%3A//www.icq.com/legal/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the icq.com privacy policy that was archived on 2013-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130622214421id_/http%3A//www.icq.com/legal/privacypolicy) for the most accurate reproduction.*
 
 # 
 
