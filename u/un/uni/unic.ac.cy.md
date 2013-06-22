@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the unic.ac.cy privacy policy that was archived on 2012-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121223080836id_/http%3A//unic.ac.cy/about-us/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the unic.ac.cy privacy policy that was archived on 2013-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130622025612id_/http%3A//unic.ac.cy/about-us/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy at the University of Nicosia, Cyprus
+# Privacy Policy | University of Nicosia
 
 We respect your right to on-line privacy. We only gather personal information with your consent and only use the information gathered for the purposes described when we gather it.
 
