@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the flicksided.com privacy policy that was archived on 2012-09-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120904040609id_/http%3A//flicksided.com/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the flicksided.com privacy policy that was archived on 2013-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130622080447id_/http%3A//flicksided.com/about/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | FlickSided | A Movie & Film news, rumors, and entertainment blog
+# Privacy Policy - FlickSided
 
 FlickSided.com knows that you care about how your personal information is used and shared, and we take your privacy very seriously. Please read the following to learn more about our privacy policy. By visiting our website, you are accepting the practices outlined in this Privacy Policy.
 
