@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dhost.com privacy policy that was archived on 2012-10-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121004073337id_/http%3A//www.dhost.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dhost.com privacy policy that was archived on 2013-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130623011017id_/http%3A//www.dhost.com/privacy-policy) for the most accurate reproduction.*
 
 # DHost Privacy Policy
 
