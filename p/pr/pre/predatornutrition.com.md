@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the predatornutrition.com privacy policy that was archived on 2012-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121016043906id_/http%3A//www.predatornutrition.com/content/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the predatornutrition.com privacy policy that was archived on 2013-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130622053554id_/http%3A//www.predatornutrition.com/en/privacy-policy) for the most accurate reproduction.*
 
-# Predator Nutrition Privacy Policy
+# Privacy Policy
 
 ## Privacy and Security
 
@@ -16,8 +16,8 @@
 
 ## Privacy
 
-We are committed to protecting your personal privacy and, in accordance with UK Data Protection law; we uphold strict security procedures for the storage of your personal information. When you place an order we collect your name, e-mail address, mailing address, phone number and credit card information. We may record which products you are interested in and which products you purchase. We also monitor customer traffic patterns which enable us to improve the service we provide. This information is used to process orders and to provide a more personal shopping experience. We will not use your personal information for any other purpose except to notify you of our special offers if you have selected this option in 'my account'. 
+We are committed to protecting your personal privacy and, in accordance with UK Data Protection law; we uphold strict security procedures for the storage of your personal information. When you place an order we collect your name, e-mail address, mailing address, phone number and credit card information. We may record which products you are interested in and which products you purchase. We also monitor customer traffic patterns which enable us to improve the service we provide. This information is used to process orders and to provide a more personal shopping experience. We will not use your personal information for any other purpose except to notify you of our special offers if you have selected this option in 'my account'.
 
 ## Security
 
-How do you know that you can trust an online business? Well, Predator Nutrition is based in an easy to find retail park, and orders are fully encrypted at every step of the way. We know that your security is a vital part of our service, if you have any doubts about us, please feel free to call or email for further information. We are now an established and growing business in an industry where reputation is vital to us, most of our sales come from word of mouth reccomendations based on our support and service before, during and after purchases. 
+How do you know that you can trust an online business? Well, Predator Nutrition is based in an easy to find retail park, and orders are fully encrypted at every step of the way. We know that your security is a vital part of our service, if you have any doubts about us, please feel free to call or email for further information. We are now an established and growing business in an industry where reputation is vital to us, most of our sales come from word of mouth reccomendations based on our support and service before, during and after purchases.
