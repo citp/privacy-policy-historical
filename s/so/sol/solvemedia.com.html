@@ -1,11 +1,13 @@
-<!--The following is the downloaded HTML source of the solvemedia.com privacy policy that was archived on 2012-12-08.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121208082946id_/http%3A//solvemedia.com/privacy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the solvemedia.com privacy policy that was archived on 2013-06-22.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130622030217id_/http%3A//solvemedia.com/privacy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html><head>
         <meta http-equiv="X-UA-Compatible" content="ie=8,chrome=1">
         <meta name="viewport" content="width=1000, maximum-scale=1.0"> 
 
         <link rel="stylesheet" href="/css/reset.css" type="text/css">
+        
+
         <title>Solve Media</title>
 
         <script type="text/javascript" async="" src="https://apis.google.com/js/plusone.js"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="http://use.typekit.com/dhe3jbx.js"></script>
@@ -25,6 +27,11 @@
         <meta property="og:site_name" content="Solve Media">
         <meta property="og:description" content="Leaving a lasting impression">
         <meta property="og:url" content="http://solvemedia.com/privacy.html">
+
+        
+        <link rel="alternate" hreflang="en" href="http://solvemedia.com/privacy.html">
+        <link rel="alternate" hreflang="en-gb" href="http://solvemedia.co.uk/privacy.html">
+        
         
         <script type="text/javascript" src="/js/sm.js"></script>
 
@@ -44,6 +51,18 @@
               ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
               var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
             })();
+
+        //Code to let individual links be tracked
+        function trackOutboundLink(link, category, action) {
+            try {
+                _gaq.push(['_trackEvent', category , action]);
+            } catch(err){}
+             
+            setTimeout(function() {
+                document.location.href = link.href;
+            }, 100);
+        }
+
         </script>
             
         <link rel="shortcut icon" href="/images/favicon.ico">
@@ -61,10 +80,18 @@
     <li><a class="" href="/company/">Company</a> </li>
 </ul>
 
+                
+<div id="locale-switch">
+    <a href="/worldwide"><img src="/images/miniearth.png">US</a>
+</div>
+
+
             </div>
       </div>
       <div id="col">
             <div id="content">
+                
+
 <h1>Privacy Policy</h1>
 
 <p>SOLVE MEDIA, INC. WEBSITE PRIVACY POLICY</p>
@@ -105,44 +132,49 @@
 <p>Solve Media, Inc.
 <br>
 200 S. Broad Street<br>
-Suite 415<br>
+Suite 915<br>
 Philadelphia PA, 19102</p>
 <p>We will investigate your question, respond to your inquiry, and attempt to resolve any concerns regarding your privacy question.</p>
 <br \="">
+                
+
             </div>
       </div>
     <div id="footer">
             
-        
-<div class="footer_row brandlist_row">
+    
+    <div class="footer_row brandlist_row">
     <div class="footer_col">
         <div id="brandlist">
             <a href="/client-showcase">
-                <img src="/images/brands/sony.png" alt="Sony">
-                <img src="/images/brands/pizzahut.png" alt="Pizza Hut">
-                <img src="/images/brands/verizon.png" alt="Verizon">
-                <img src="/images/brands/southwest.png" alt="Southwest">
-                <img src="/images/brands/jetblue.png" alt="JetBlue">
-                <img src="/images/brands/colgate.png" alt="Colgate">
-                <img src="/images/brands/us-airways.png" alt="US Airways">
-                <img src="/images/brands/fedex.png" alt="FedEx">
-                <img src="/images/brands/toyota.png" alt="Toyota">
-                <img src="/images/brands/gm.png" alt="GM">
-                <img src="/images/brands/general-mills.png" alt="General Mills">
-                <img src="/images/brands/universal-pictures.png" alt="Universal Pictures">
-                <img src="/images/brands/canon.png" alt="Canon">
-                <img src="/images/brands/macys.png" alt="Macy's">
-                <img src="/images/brands/vw.png" alt="VW">
-                <img src="/images/brands/cambells.png" alt="Campbell's">
-                <img src="/images/brands/groupon.png" alt="Groupon">
-                <img src="/images/brands/sprint.png" alt="Sprint">
                 <img src="/images/brands/drpepper.png" alt="Dr Pepper">
+                <img src="/images/brands/macys.png" alt="Macy's">
+                <img src="/images/brands/jetblue.png" alt="JetBlue">
+                <img src="/images/brands/microsoft.png" alt="Microsoft">
                 <img src="/images/brands/expedia.png" alt="Expedia">
+                <img src="/images/brands/us-airways.png" alt="US Airways">
+                <img src="/images/brands/cbs.png" alt="CBS">
+                <img src="/images/brands/bk.png" alt="Burger King">
+                <img src="/images/brands/colgate.png" alt="Colgate">
+                <img src="/images/brands/southwest.png" alt="Southwest">
+                <img src="/images/brands/lu.png" alt="Lufthansa">
+                <img src="/images/brands/metlife.png" alt="MetLife">
+                <img src="/images/brands/mcdonalds.png" alt="McDonald's">
+                <img src="/images/brands/turtax.png" alt="Turbo Tax">
+                <img src="/images/brands/swa.png" alt="Southwest Airlines">
+                <img src="/images/brands/sony.png" alt="Sony">
+                <img src="/images/brands/gm.png" alt="GM">
+                <img src="/images/brands/toyota.png" alt="Toyota">
+                <img src="/images/brands/groupon.png" alt="Groupon">
+                <img src="/images/brands/campbells.png" alt="Campbell's">
             </a>
         </div>
     </div>
 </div>
-    
+
+
+
+
 
 
 
@@ -198,8 +230,9 @@ Philadelphia PA, 19102</p>
         </ul>
     </div>
 
-    <div id="copyright">© 2012 <a href="/privacy.html">Privacy Policy</a></div>
+    <div id="copyright">© 2013 <a href="/privacy.html">Privacy Policy</a> | <a href="tos.html">Publisher Terms of Service</a></div>
 </div>
+
 
 
 
