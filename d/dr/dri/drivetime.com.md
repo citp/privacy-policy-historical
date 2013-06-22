@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the drivetime.com privacy policy that was archived on 2012-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121204033849id_/https%3A//www.drivetime.com/Info/PrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the drivetime.com privacy policy that was archived on 2013-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130622045135id_/https%3A//www.drivetime.com/Info/PrivacyPolicy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -76,7 +76,7 @@ If you have any questions about this privacy statement, the practices of this si
 
 ####  Downloadable Privacy Documents 
 
-  * [2011 Privacy Policy Flyer](https://web.archive.org/Content/PrivacyPolicy.pdf)
-  * [2011 California Privacy Notice](https://web.archive.org/Content/CaliforniaPrivacyNotice.pdf)
+  * [Privacy Policy Flyer](https://commondrivetimeprod.blob.core.windows.net/commondrivetimeprod/PrivacyPolicy.pdf)
+  * [California Privacy Notice](https://commondrivetimeprod.blob.core.windows.net/commondrivetimeprod/CaliforniaPrivacyNotice.pdf)
 
 
