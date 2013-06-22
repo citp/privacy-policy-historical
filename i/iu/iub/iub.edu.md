@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the iub.edu privacy policy that was archived on 2012-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121228163824id_/http%3A//www.iub.edu/privacy/index.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the iub.edu privacy policy that was archived on 2013-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130622143934id_/http%3A//iub.edu/privacy/index.shtml) for the most accurate reproduction.*
 
 # IU Bloomington Website Privacy Notice
 
@@ -26,7 +26,7 @@ Because Internet technologies evolve rapidly, Indiana University Bloomington may
 
 When you view pages on our site, the web server automatically collects certain technical information from your computer and about your connection.
 
-This website is hosted on [Webserve](http://webmaster.iu.edu/account_info/webserve.shtml), a shared web hosting environment provided by IU's University Information Technology Services. For more information about privacy practices related to Webserve, read the [Webserve Privacy Notice Supplement](http://webmaster.iu.edu/privacy).
+This website is hosted on [Webserve](http://webmaster.iu.edu/account_info/webserve.shtml), a shared web hosting environment provided by IU's University Information Technology Services. For more information about privacy practices related to Webserve, read the [Webserve Privacy Notice Supplement](http://webmaster.iu.edu/tools-and-guides/policies-and-guidelines/webserve-privacy-notice.phtml).
 
 In addition to any information collected by Webserve, our server and/or site collects the following:
 
