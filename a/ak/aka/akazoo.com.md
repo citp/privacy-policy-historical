@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the akazoo.com privacy policy that was archived on 2012-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120511110706id_/http%3A//www.akazoo.com/site/documents/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the akazoo.com privacy policy that was archived on 2013-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130622190928id_/http%3A//www.akazoo.com/site/documents/privacy-policy) for the most accurate reproduction.*
 
-# Meet new people, Download Music and Get Rewards on Akazoo!
+# Unlimited music, made social – Akazoo
 
 This is the official privacy policy and statement of California privacy rights ("Privacy Policy) for the Akazoo proprietary branded mobile digital content and messaging services defined and described in our [**Terms of Use**](https://web.archive.org/site/documents/terms-of-use). 
 
