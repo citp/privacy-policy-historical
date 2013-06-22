@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the wnd.com privacy policy that was archived on 2012-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121226175654id_/http%3A//www.wnd.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wnd.com privacy policy that was archived on 2013-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130622062316id_/http%3A//www.wnd.com/privacy-policy) for the most accurate reproduction.*
 
-# WND - Page
+# Privacy Policy
 
 [View printer-friendly version](https://web.archive.org/privacy-policy-print-version/)
 
