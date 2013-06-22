@@ -1,33 +1,24 @@
-> *The following text is extracted and transformed from the roundpulse.com privacy policy that was archived on 2012-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121109083528id_/http%3A//www.roundpulse.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the roundpulse.com privacy policy that was archived on 2013-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130622031127id_/http%3A//www.roundpulse.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Round Pulse | Technology Pulse Round The Clock
+# Privacy Policy & Disclaimer
 
-Privacy Policy Statement of RoundPulse.Com.
+At Round Pulse, we appreciate your privacy and make sure that your personal information remains private. If there is any personal information that you provide us through our website, we take care of it and make sure that no one has access to it in any case or condition. We encourage our readers to go through our website in detail and let us know about any bugs that they can find. Our support team is always available to assist our readers about any privacy policy issues. We also expect our readers to respect the privacy of other readers that may come into their interaction through comments or any parts of our website though we cannot guarantee about the information that you give away to anyone directly.
 
-The privacy of our visitors to RoundPulse.Com is very important to us.
+## Do We Collect Your Personal Information?
 
-At RoundPulse.Com, we recognize that privacy of your personal information is important. Here is information on what types of personal information we receive and collect when you use and visit RoundPulse.Com, and how we safeguard your information. We never sell your personal information to third parties.
+As per our privacy policy, we don’t collect any kind of personal information of our readers without their intention. The only way will collect and store your personal information is through [contact form](http://www.roundpulse.com/tag/contact-form "contact form") or the subscription option at our website, other than that, there is no way through which we ever collect your personal information.
 
-## Log Files:
+## How Do We Use Your Personal Information?
 
-As with most other websites, we collect and use the data contained in log files. The information in the log files include your IP ([internet](http://www.roundpulse.com/tag/internet "internet") protocol) address, your ISP (internet service provider, such as AOL or Shaw Cable), the browser you used to visit our site (such as Internet Explorer or Firefox), the time you visited our site and which pages you visited throughout our site.
+The reason why we collect your personal information is stated when we ask you to provide any such information. If you have provided your personal information to email subscription then we will use that information just to send you weekly, monthly or daily newsletter. The personal information that you submit while adding a post from your site will be visible below your post. We may take a look at your personal information when you comment on our blog but that is for inception purpose only, we never use that information anywhere at any place or time.
 
-## Cookies and Web Beacons:
+## Who has Access to My Personal Information?
 
-We do use cookies to store information, such as your personal preferences when you visit our site. This could include only showing you a popup once in your visit, or the ability to login to some of our features, such as forums.
+Only the site administrator is given access to your personal information. The private information shared by you can only be viewed and accessed by site administrator and no one else. However, if you are sharing your personal information openly at our site (we forbid all users to do so), the information can be seen, and accessed and used by anyone and Round Pulse has no control over it.  
+At Round Pulse, we appreciate our readers and users to use our site for their own benefit. Once you are at our website, you can do anything that has been made possible and available to the readers. However, we forbid our users to communicate with each other as it may bring upon an unexpected situation on you. We also forbid you to share your personal information publicly as it can be used by anyone for any purpose and Round Pulse will have nothing to do with it.
 
-We also use third party advertisements on RoundPulse.Com to support our site. Some of these advertisers may use [technology](http://www.roundpulse.com/category/technology "technology") such as cookies and web beacons when they advertise on our site, which will also send these advertisers (such as Google through the Google AdSense program) information including your IP address, your ISP , the browser you used to visit our site, and in some cases, whether you have Flash installed.
+We encourage our readers to interact with each other only through comments section and make sure you stay on topic, use proper language, talk about the issue and don’t indulge in any inappropriate or unethical activity on our website.
 
-This is generally used for geotargeting purposes (showing New York real estate ads to someone in New York, for example) or showing certain ads based on specific sites visited (such as showing cooking ads to someone who frequents cooking sites).
+Our posts, images, videos and any other information published on our website is our sole property. Use of this information without our authorization is prohibited. We strongly encourage you to use all the information for personal use and not use it for any commercial purpose. We may issue a lawsuit against you if you are found guilty of infringement.
 
-## DoubleClick DART cookies:
-
-We also may use DART cookies for ad serving through Google’s DoubleClick, which places a cookie on your [computer](http://www.roundpulse.com/category/computer "computer") when you are browsing the web and visit a site using DoubleClick advertising (including some Google AdSense advertisements). This cookie is used to serve ads specific to you and your interests (”interest based targeting”).
-
-The ads served will be targeted based on your previous browsing history (For example, if you have been viewing sites about visiting Los Angeles, you may see Los Angeles Hotel advertisements when viewing a non-related site, such as on a site about hockey). DART uses “non personally identifiable information”.
-
-It does NOT track personal information about you, such as your name, email address, physical address, telephone number, social security numbers, bank account numbers or credit card numbers. You can opt-out of this ad serving on all sites using this advertising by visiting http://www.doubleclick.com/privacy/dart_adserving.aspx
-
-You can choose to disable or selectively turn off our cookies or third-party cookies in your browser settings, or by managing preferences in programs such as Norton Internet Security. However, this can affect how you are able to interact with our site as well as other websites. This could include the inability to login to services or programs, such as logging into forums or accounts.
-
-Deleting cookies does not mean you are permanently opted out of any advertising program. Unless you have settings that disallow cookies, the next time you visit a site running the advertisements, a new cookie will be added.
+Lastly, we hope that all our readers, user and fans will keep the above provided information in their mind while using our website. We are dedicated to provide you with latest information that can prove to be helpful for your daily life.
