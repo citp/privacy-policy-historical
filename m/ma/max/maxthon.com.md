@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the maxthon.com privacy policy that was archived on 2012-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121130075350id_/http%3A//www.maxthon.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the maxthon.com privacy policy that was archived on 2013-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130622045737id_/http%3A//www.maxthon.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Maxthon
 
@@ -46,7 +46,7 @@ When you use the Service, Maxthon automatically record information from your Dev
 
 Maxthon uses “cookies” to collect information and improve our Services. A cookie is a small data file that a Maxthon application or service transfers to your Device. We may use “persistent cookies” to save your registration ID and login password for future logins to our Services. We may use “session ID cookies” to enable certain features of the Service, to better understand how you interact with the Service and to monitor aggregate usage and web traffic routing on the Service. You can instruct your browser, by changing its options, to stop accepting cookies or to prompt you before accepting a cookie from the websites you visit. If you do not accept cookies, however, you may not be able to use all aspects of the Service.
 
-##  How Maxthon Uses Personal Information
+## How Maxthon Uses Personal Information
 
 **Personal Information**
 
@@ -60,10 +60,11 @@ Some Devices allow applications to access real-time location-based information (
 
 Maxthon collects some information (ourselves or using third party services) using logging and cookies, which can sometimes be correlated with Personal Information. We use this information for the above purposes and to monitor and analyze use of the Service, for the Service’s technical administration, to increase our Service’s functionality and ease of use, and to verify users have the authorization needed for the Service to process their requests. As of the date this policy went into effect, Maxthon uses Google Analytics.
 
-##  Information Sharing and Disclosure
+## Information Sharing and Disclosure
 
-**Your Use**  
-We will display your Personal Information in your profile page and elsewhere on our Services according to the preferences you set in your account. Any information you choose to provide should reflect how much you want others to know about you. Please consider carefully what information you disclose in your profile page and your desired level of anonymity. You can review and revise your profile information at any time. We may also share or disclose your information with your consent, for example if you use a third party application to access your account (see below). Through certain features of the Services, you may also have the ability to make some of your information public. Public information may be broadly and quickly disseminated.
+**Your Use**
+
+We will display your Personal Information in your profile page and elsewhere on our Services according to the preferences you set in your account. Any information you choose to provide should reflect how much you want others to know about you. Please consider carefully what information you disclose in your profile page and your desired level of anonymity. You can review and revise your profile information at any time. We may also share or disclose your information with your consent, for example if you use a third party application to access your account (see below). Through certain features of the Services, you may also have the ability to make some of your information public. Public information may be broadly and quickly disseminated. 
 
 **Service Providers, Business Partners and Others  **
 
