@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the prohockeylife.com privacy policy that was archived on 2012-11-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121112012710id_/http%3A//www.prohockeylife.com/private-policy-page-20) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the prohockeylife.com privacy policy that was archived on 2013-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130622061636id_/http%3A//www.prohockeylife.com/private-policy-page-20) for the most accurate reproduction.*
 
 # Privacy Policy : Pro Hockey Life / Sports Rousseau / Entrepot du Hockey, The Ultimate Hockey Mega-Store
 
