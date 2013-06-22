@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the swellpath.com privacy policy that was archived on 2012-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121219044151id_/http%3A//www.swellpath.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the swellpath.com privacy policy that was archived on 2013-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130623014400id_/http%3A//www.swellpath.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | SwellPath Interactive
+# Privacy Policy | SwellPath
 
 Thank you for visiting SwellPath.com. This SwellPath Privacy Policy covers our treatment of personally identifiable information that we collect when you access our site.
 
@@ -18,7 +18,8 @@ We may disclose personally identifiable information about you as legally require
 
 SwellPath receives your IP address each time you view a Web page from the Site. Your IP address may be used for various purposes, including:
 
-To diagnose service or technology problems reported by you that are associated with your IP address.  
+To diagnose service or technology problems reported by you that are associated with your IP address.
+
 To estimate the total number of users visiting the Site from specific locales, countries or regions of the world.
 
 ## Cookies
