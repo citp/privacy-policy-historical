@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the guyspy.com privacy policy that was archived on 2012-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121201032122id_/http%3A//www.guyspy.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the guyspy.com privacy policy that was archived on 2013-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130622032054id_/http%3A//www.guyspy.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - GuySpy
 
@@ -111,9 +111,9 @@ If there are any matters that have not been expressly addressed in this Privacy 
 The Privacy Officer can be contacted as follows:
 
 Attn: Privacy Officer  
-Stark Mobile Technologies, LLC  
-5605 Riggins Court, Suite 262  
-Reno Nevada 89502-6501  
+Stark Mobile Technologies  
+176 E Jewett Blvd, Suite 185  
+White Salmon, WA 98672-0050    
 Email: [privacy@guyspy.com](mailto:privacy@guyspy.com)
 
-© 2012 Stark Mobile Technologies, LLC. All Rights Reserved 
+© 2013 Stark Mobile Technologies, LLC. All Rights Reserved 
