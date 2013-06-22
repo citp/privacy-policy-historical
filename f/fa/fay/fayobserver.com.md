@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the fayobserver.com privacy policy that was archived on 2012-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121206122040id_/http%3A//www.fayobserver.com/customerservice/customer-service-info.aspx%23privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fayobserver.com privacy policy that was archived on 2013-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130622124709id_/http%3A//www.fayobserver.com/customerservice/customer-service-info.aspx%23privacy) for the most accurate reproduction.*
 
-# FayObserver.com -
+# FayObserver.com - Customer Service
 
 The Fayetteville Observer is North Carolina's oldest newspaper still being published. It traces its roots to the establishment of the Carolina Observer in 1816.
 
@@ -90,11 +90,11 @@ In submitting content to the Online Service, you agree to accept full responsibi
 FayObserver.com's blogs are intended for all users. Therefore, if a commenter's behavior becomes a problem for the Online Service or for other users, we may, in our sole discretion and without warning, ban the commenter from the FayObserver.com blogs. We also reserve the right to remove any User-Contributed Content from the Online Service at any time and for any reason. Although we do not have the obligation to review any User-Contributed Content, we reserve the right to do so and to reject or remove any content that we determine, in our sole discretion: does not comply with this Agreement; might violate any law or right or subject us to liability for any reason; or might hurt our reputation or goodwill.
 
 If you believe that any User-Contributed Content on the Online Service infringes any copyright or other proprietary right that you own, please contact the Copyright Agent we have appointed pursuant to the Digital Millennium Copyright Act at the following address:  
-Sonny Jones  
+Matt Leclercq  
 The Fayetteville Observer  
 458 Whitfield St. Fayetteville, NC 28306  
 (910) 323-4848 or (800) 682-3476  
-[joness@fayobserver.com](mailto:joness@fayobserver.com)
+[leclercqm@fayobserver.com](mailto:leclercqm@fayobserver.com)
 
 Welcome to The Fayetteville Observer and its online service, FayObserver.com, which also hosts FayObserver Blogs, email subscription newsletters, text message alerts and other topic-specific sites (collectively, the "Online Service"). The Fayetteville Observer takes your privacy seriously. Our Privacy Policy explains our policies and practices for collecting, using, maintaining, sharing, and protecting personal information. Our Privacy Policy should be read in conjunction with the Terms of Use Agreement (the "Agreement") between you and Fayetteville Publishing Company, owner of The Fayetteville Observer ("us" or "we") for use of the Online Service.
 
@@ -116,7 +116,7 @@ We have no control over the privacy policies of other sites to which our Online 
 
 **PLEASE BE AWARE** that when you voluntarily disclose personal information (such as your name and e-mail address) to third parties in chat areas, forums, or bulletin boards, that information may be collected by others who are not within our control. This may result in your receiving unsolicited messages from them. We are not responsible for any information that you choose to disclose to the public, or for any consequences of such disclosure.
 
-We use our best efforts to ensure the security of all personal information that you submit. When collecting credit card information for online purchases, we offer secured-server transactions that encrypt your information in transit to thwart someone from intercepting it and misusing it. Other information collected from you is stored in an area not accessible to the general public, inlcuding phone numbers collected through text message alert registration.
+We use our best efforts to ensure the security of all personal information that you submit. When collecting credit card information for online purchases, we offer secured-server transactions that encrypt your information in transit to thwart someone from intercepting it and misusing it. Other information collected from you is stored in an area not accessible to the general public, including phone numbers collected through text message alert registration.
 
 The Children's Online Privacy Protection Act (COPPA) provides that web site operators cannot knowingly collect information from children younger than 13 without verifiable permission from their parents. We do not intend for our Online Service to be used by anyone under the age of 13 for any purpose, including for any service that requires the collection of personal information, through registration or otherwise. Our Terms of Use require that users represent and warrant that they are at least 13 years old. Therefore, we will not knowingly gather or disclose personal information about users under the age of 13 without prior parental consent, except as required by law. Other sites accessible through the Online Service have their own policies about children's privacy. We are not responsible for their policies, and you should contact them directly regarding those policies.
 
