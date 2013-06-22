@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the mashable.com privacy policy that was archived on 2012-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121201091452id_/http%3A//mashable.com/follow/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mashable.com privacy policy that was archived on 2013-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130622034143id_/http%3A//mashable.com/privacy) for the most accurate reproduction.*
 
-# Mashable Follow
+# Mashable
 
 At Mashable, Inc. ("Mashable") we appreciate your readership and support and place a high value on your personal privacy. We respect the personal nature of the information you provide us on our web site and staunchly recognize the importance of protecting this information. In adopting this privacy policy (this "Privacy Policy"), our intent is to balance our legitimate business interests in collecting and using your personal information with your reasonable expectations of privacy. This Privacy Policy may be revised or updated at any time and we encourage you to check back often to ensure that you are familiar with the most recent version and the terms of our Privacy Policy.
 
@@ -63,15 +63,15 @@ Comments will only be considered for removal (i) in response to legal process, f
 
 All comments and other content contributed to Mashable shall adhere to the following policy, and may be edited or removed at Mashable's discretion if it is deemed to be in violation of this policy.
 
->   1. **Personal Attacks:** Please don’t engage in personal attacks (on authors, other users or any individual), persistent trolling or mindless abuse. The Mashable community should focus on intelligently discussing topics by furthering the conversation and informing the participants with resourceful and constructive ideas.
->   2. **Hate speech:** Racism, sexism and homophobia will not be tolerated.
->   3. **Language and Threats:** Please watch your language and respect other people’s views, beliefs and emotions. We reserve the right to remove any content that might be found extremely offensive or threatening.
->   4. **No Spam:** Spam and advertising content will be removed.
->   5. **Smear Tactics:** Although we acknowledge criticism of our articles and our writers, we will not allow misrepresentation. We will distinguish between constructive arguments and smear tactics.
->   6. **Relevancy:** Please keep conversations relevant. Off-topic comments are subject to removal in order to keep the thread on track.
->   7. **Quality:** We encourage you to take responsibility for the quality of the conversations in which you’re participating. Maintain intelligent discussions in the Mashable community by being respectful and considerate.
->   8. **Help us:** Maintain an inviting interaction space by self-policing threads and flagging spam. Although we have a hands-on approach to community engagement, we do sometimes miss problem commenters or trolls. We appreciate your efforts to keep the Mashable community environment inviting, insightful and constructive. Let the conversations be quality ones.
-> 
+  1. **Personal Attacks:** Please don’t engage in personal attacks (on authors, other users or any individual), persistent trolling or mindless abuse. The Mashable community should focus on intelligently discussing topics by furthering the conversation and informing the participants with resourceful and constructive ideas.
+  2. **Hate speech:** Racism, sexism and homophobia will not be tolerated.
+  3. **Language and Threats:** Please watch your language and respect other people’s views, beliefs and emotions. We reserve the right to remove any content that might be found extremely offensive or threatening.
+  4. **No Spam:** Spam and advertising content will be removed.
+  5. **Smear Tactics:** Although we acknowledge criticism of our articles and our writers, we will not allow misrepresentation. We will distinguish between constructive arguments and smear tactics.
+  6. **Relevancy:** Please keep conversations relevant. Off-topic comments are subject to removal in order to keep the thread on track.
+  7. **Quality:** We encourage you to take responsibility for the quality of the conversations in which you’re participating. Maintain intelligent discussions in the Mashable community by being respectful and considerate.
+  8. **Help us:** Maintain an inviting interaction space by self-policing threads and flagging spam. Although we have a hands-on approach to community engagement, we do sometimes miss problem commenters or trolls. We appreciate your efforts to keep the Mashable community environment inviting, insightful and constructive. Let the conversations be quality ones.
+
 
 
 ## Mashable Follow Profile Policy
