@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the notlurking.com privacy policy that was archived on 2012-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121228122745id_/http%3A//notlurking.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the notlurking.com privacy policy that was archived on 2013-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130622050154id_/http%3A//notlurking.com/privacy) for the most accurate reproduction.*
 
 # Privacy - Notlurking
 
 Your privacy is very important to us. Accordingly, we have developed this Policy in order for you to understand how we collect, use, communicate and disclose and make use of personal information.
 
-### We respects your privacy.
+### We respect your privacy.
 
 Visiting or using our web-site is completely safe. Any personal information you provide to us will not be released, sold or rented.
 
