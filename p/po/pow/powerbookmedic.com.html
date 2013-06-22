@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the powerbookmedic.com privacy policy that was archived on 2012-12-03.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121203204246id_/http%3A//www.powerbookmedic.com/Privacy-p-16.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the powerbookmedic.com privacy policy that was archived on 2013-06-22.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130622165539id_/http%3A//www.powerbookmedic.com/Privacy-p-16.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 <title>Privacy
@@ -26,6 +26,7 @@ var current_area = 'C';
 <!--<script type="text/javascript" language="JavaScript 1.2" src="/xcart1/skin1/swfobject.js"></script>-->
 <link rel="alternate" type="application/rss+xml" title="RSS" href="http://www.powerbookmedic.com/wordpress/feed/rss">
 <link rel="stylesheet" href="/xcart1/skin1/css/powerbookmedic-static.css">
+<script src="/xcart1/skin1/modules/Smart_Search/smart_search.js" language="JavaScript" type="text/javascript"></script>
 <link rel="icon" href="/favicon.gif" type="image/gif"> 
 <link type="text/css" media="screen" rel="stylesheet" href="/xcart1/skin1/css/colorbox.css">
 <link type="text/css" media="screen" rel="stylesheet" href="/xcart1/skin1/css/jquery-ui-1.9.0.custom.min.css">
@@ -294,14 +295,14 @@ $(document).ready(function(){
 		}
 	});
 	$("#add_device_form").submit(function() {
-		$.get("/identify-mac-serial.php",{ add_device: $("#identifynumber").val() },function(html) {
+		$.get("/identify-mac-serial.php",{ add_device: $("#identifynumber2").val() },function(html) {
 			if(html) {
-				var serial = $("#identifynumber").val();
+				var serial = $("#identifynumber2").val();
 				if(serial.length == 5) {
-					window.location = window.location + "&model=" + $("#identifynumber").val();
+					window.location = window.location + "?model=" + $("#identifynumber2").val();
 				}
 				else {
-					window.location = window.location + "&serial=" + $("#identifynumber").val();
+					window.location = window.location + "?serial=" + $("#identifynumber2").val();
 				}
 			}
 		});
@@ -815,7 +816,7 @@ __fts_params += "title=" + encode64(__fts_title) + "&";
 __fts_params += "url=" + encode64(__fts_url) + "&";
 __fts_params += "referrer=" + encode64(__fts_referrer);
 document.write("<sc"+"ript type=\"text/javascript\" src=\"http://www.powerbookmedic.com/xcart1/mm_tmon_script.php?" + __fts_params + "\"></sc"+"ript>");
-</script><script type="text/javascript" src="http://www.powerbookmedic.com/xcart1/mm_tmon_script.php?width=ODAw&amp;height=NjAw&amp;title=UHJpdmFjeQ==&amp;url=aHR0cHM6Ly93ZWIuYXJjaGl2ZS5vcmcvd2ViLzIwMTIxMjAzMjA0MjQ2aWRfL2h0dHAlM0EvL3d3dy5wb3dlcmJvb2ttZWRpYy5jb20vUHJpdmFjeS1wLTE2Lmh0bWw=&amp;referrer=AA=="></script>
+</script><script type="text/javascript" src="http://www.powerbookmedic.com/xcart1/mm_tmon_script.php?width=ODAw&amp;height=NjAw&amp;title=UHJpdmFjeQ==&amp;url=aHR0cHM6Ly93ZWIuYXJjaGl2ZS5vcmcvd2ViLzIwMTMwNjIyMTY1NTM5aWRfL2h0dHAlM0EvL3d3dy5wb3dlcmJvb2ttZWRpYy5jb20vUHJpdmFjeS1wLTE2Lmh0bWw=&amp;referrer=AA=="></script>
 <script src="/xcart1/skin1/modules/XAuth/popup_open.js" type="text/javascript"></script>
 <script src="/xcart1/skin1/modules/XAuth/controller.js" type="text/javascript"></script>
 <link rel="stylesheet" type="text/css" href="/xcart1/skin1/modules/XAuth/main.css">
@@ -900,11 +901,13 @@ else
 <li><a href="http://www.powerbookmedic.com/Macbook-Pro-and-Macbook-Logic-Board-Repair-p-67.html">Mac Logic Board Repair</a></li>
 <li><a href="http://www.powerbookmedic.com/iphone-logic-board-repair.php">iPhone Logic Board Repair</a></li>
 <li><a href="http://www.powerbookmedic.com/MacBook-Air-LCD-Repair-p-70.html">Macbook Air Display LCD Repair</a></li>
+<li><a href="http://www.powerbookmedic.com/MacBook-Retina-LCD-Repair-p-72.html">Macbook Pro Retina Display LCD Repair</a></li>
+<li><a href="/xcart1/modbook-modservice-tablet-mac.php">Modbook Pro Conversion</a></li>
 <li><a href="http://www.powerbookmedic.com/iphone/">iPhone Repair</a></li>
 <li><a href="http://www.powerbookmedic.com/ipod/">iPod Repair</a></li>
 <li><a href="http://www.powerbookmedic.com/ipad/">iPad Repair</a></li>
 <li><a href="http://www.powerbookmedic.com/hard_drive_data_recovery.php">Mac Hard Drive Data Recovery</a></li>
-<li><a href="http://www.powerbookmedic.com/support/index.php?_m=tickets&amp;_a=submit&amp;step=1&amp;departmentid=3">Request a Repair Quote</a></li>
+<li><a href="http://www.powerbookmedic.com/support/index.php?/Tickets/Submit/RenderForm/8">Request a Repair Quote</a></li>
 <li><a href="/xcart1/schedule.php">Schedule a Repair</a></li>
 </ul>
 </li>
@@ -918,7 +921,7 @@ else
 <li><a href="http://www.powerbookmedic.com/iMac-p-1-c-571.html">iMac</a></li>
 <li><a href="http://www.powerbookmedic.com/Mac-Mini-p-1-c-436.html">Mac Mini</a></li>           
 <li><a href="http://www.powerbookmedic.com/Mac-Pro-Upgrade-Parts-and-Service-p-1-c-599.html">Mac Pro</a></li>
-<li><a href="http://www.powerbookmedic.com/PowerMac-G5-p-1-c-602.html">PowerMac G5</a></li>
+<li><a href="http://www.powerbookmedic.com/PowerMac-G5--G4-p-1-c-602.html">PowerMac G5</a></li>
 <li><a href="http://www.powerbookmedic.com/Powerbook-G4-Aluminum-p-1-c-376.html">Powerbook G4 Aluminum</a></li>
 <li><a href="http://www.powerbookmedic.com/Powerbook-G4-Titanium-p-1-c-250.html">Powerbook G4 Titanium</a></li>
 <li><a href="http://www.powerbookmedic.com/White-iBook-G4-p-1-c-419.html">iBook G4</a></li>
@@ -926,11 +929,14 @@ else
 <li><a href="http://www.powerbookmedic.com/Powerbook-G3----Pismo---Lombard---Wallstreet-p-1-c-252.html">Powerbook G3</a></li>
 <li><a href="" https:="" www.powerbookmedic.com="" xcart1=""></a></li>
 <li><a href="/Amazon-Kindle-Parts-for-Repair-p-1-c-641.html">Amazon Kindle Parts</a></li>
+<li><a href="http://www.powerbookmedic.com/Asus-Tablets-p-1-c-756.html">Asus Tablet Parts</a></li>
 <li><a href="http://www.powerbookmedic.com/Blackberry-Service-Parts-for-Blackberry-Repair-p-1-c-633.html">Blackberry Parts</a></li>
 <li><a href="http://www.powerbookmedic.com/Gateway-Parts-p-1-c-644.html">Gateway Parts</a></li>
 <li><a href="http://www.powerbookmedic.com/Google-Nexus-Parts-p-1-c-710.html">Google Nexus Parts</a></li>
 <li><a href="http://www.powerbookmedic.com/HP-Parts-p-1-c-642.html">HP Parts</a></li>
 <li><a href="http://www.powerbookmedic.com/HTC-Parts-p-1-c-649.html">HTC Parts</a></li>
+<li><a href="http://www.powerbookmedic.com/Microsoft-Parts-p-1-c-765.html">Microsoft Parts</a></li>
+<li><a href="http://www.powerbookmedic.com/Motorola-Parts-p-1-c-764.html">Motorola Parts</a></li>
 <li><a href="http://www.powerbookmedic.com/Nintento-Parts-for-Repair-p-1-c-695.html">Nintendo Parts</a></li>
 <li><a href="http://www.powerbookmedic.com/Nook-Parts-p-1-c-711.html">Nook Parts</a></li>
 <li><a href="http://www.powerbookmedic.com/Sony-Playstation-Parts-for-Repair-p-1-c-701.html">Sony Playstation Parts</a></li>
@@ -959,9 +965,9 @@ else
 </li>
 <li><a href="http://www.powerbookmedic.com/sell.php">Sell It</a>
 </li>
-<li><a href="http://www.powerbookmedic.com/support/index.php?_m=tickets&amp;_a=submit" id="support" title="support">Support</a>
+<li><a href="http://www.powerbookmedic.com/support/" id="support" title="support">Support</a>
 <ul>
-<li><a href="http://www.powerbookmedic.com/support/index.php?_m=tickets&amp;_a=submit">Contact Us</a></li>
+<li><a href="http://www.powerbookmedic.com/support/">Contact Us</a></li>
 <li> <a href="/xcart1/skin1/orderstatus.html" class="colorboxauto cboxElement">Order Status</a></li>
 <li> <a href="/xcart1/orders.php?mode=search" "="">Account Login</a></li>
 <li><a href="http://www.powerbookmedic.com/forum/">Forums</a></li>
@@ -973,7 +979,7 @@ else
 <li><a href="/xcart1/help.php?section=business">Terms &amp; Conditions</a></li>
 <li><a href="http://www.powerbookmedic.com/Privacy-p-16.html">Privacy Policy</a></li>
 <li><a href="http://www.powerbookmedic.com/International-Shipping-p-23.html">International Shipping</a></li>
-<li><a href="http://www.powerbookmedic.com/support/index.php?_m=tickets&amp;_a=submit&amp;step=1&amp;departmentid=8">Request Mac Parts</a></li>
+<li><a href="http://www.powerbookmedic.com/support/index.php?/Tickets/Submit/RenderForm/10">Request Mac Parts</a></li>
 </ul>
 </li>
 <li><a href="http://www.powerbookmedic.com/wordpress" class="navright">Blog</a>
@@ -1226,9 +1232,13 @@ PowerbookMedic.com uses pixels, or transparent GIF files, to help manage online 
 <table style="width:100%;">
 <tbody><tr>
 <td>
-<a href="https://www.resellerratings.com" onclick="window.open('https://seals.resellerratings.com/landing.php?seller=20435','name','height=760,width=780,scrollbars=1'); 
-return false;">
-<img style="border:none;" src="http://seals.resellerratings.com/seal.php?seller=20435" oncontextmenu="alert(" copying="" prohibited="" by="" law="" -="" resellerratings="" seal="" is="" a="" trademark="" of="" all="" enthusiast,="" inc.');="" return="" false;'=""></a>							
+<script src="//medals.bizrate.com/medals/js/61087_medal.js" type="text/javascript"></script>
+<a class="br-button">
+<img src="http://medals.bizrate.com/medals/dynamic/61087_medal.gif" width="125" height="73" border="0" usemap="#61087_medal" alt="See Powerbook Medic Reviews at Bizrate.com"><map name="61087_medal">
+<area shape="poly" coords="1,0,1,72,67,72,67,49,124,49,124,0" href="http://www.bizrate.com/ratings_guide/merchant_detail__mid--61087.html?rf=sur" title="See Powerbook Medic Reviews at Bizrate.com" target="_blank">
+<area shape="rect" coords="68,50,124,72" href="http://www.bizrate.com/?rf=sur" title="Bizrate" target="_blank">
+</map>
+</a>
 </td>
 <td>
 <a title="Click for the Business Review of Powerbookmedic.com, a Computers - Service &amp; Repair in Huntsville AL" href="http://www.bbb.org/northern-alabama/business-reviews/computers-service-and-repair/powerbookmediccom-in-huntsville-al-900004847#sealclick"><img alt="Powerbookmedic.com is a BBB Accredited Business. Click for the BBB Business Review of this Computers - Service &amp; Repair in Huntsville AL" style="border: 0;" src="/xcart1/skin1/images/images/bbbsealh1.png"></a>
@@ -1247,9 +1257,9 @@ return false;">
 <table width="985" style="text-align:left;">
 <tbody><tr>
 <td>
-<font color="#b2b1b1">Copyright 2011 PowerbookMedic.com, LLC </font><br>
+<font color="#b2b1b1">Copyright 2013 PowerbookMedic.com, LLC </font><br>
 <a href="/xcart1/help.php?section=business">Terms &amp; Conditions</a> |<a href="/xcart1/help.php?section=conditions"> Warranty Policy</a> | <a href="http://www.powerbookmedic.com/Dealer-and-Educational-Discounts-p-37.html">Educational and Dealer Discounts</a> | <a href="/xcart1/help.php?section=Password_Recovery">Recover Password</a> | <a href="http://www.powerbookmedic.com/wordpress/feed/rss">RSS</a><br>
-<a href="/xcart1/help.php?section=publicity">Newsletter</a> | <a href="http://www.powerbookmedic.com/Privacy-p-16.html">Privacy Notice</a> | <a href="http://www.powerbookmedic.com/Powerbook-Medic---About-Us-p-22.html">About Us</a> | <a href="http://www.powerbookmedic.com/support/index.php?_m=tickets&amp;_a=submit">Contact Us</a> | <a href="/xcart1/sitemap.php">Site Map</a> | <a href="http://www.powerbookmedic.com/International-Shipping-p-23.html">International Shipping</a> | <a href="http://www.powerbookmedic.com/support/index.php?_m=tickets&amp;_a=submit&amp;step=1&amp;departmentid=8">Request a Part</a> | <a href="/xcart1/orders.php?mode=search" class="VertMenuItems">Account Login </a>
+<a href="/xcart1/help.php?section=publicity">Newsletter</a> | <a href="http://www.powerbookmedic.com/Privacy-p-16.html">Privacy Notice</a> | <a href="http://www.powerbookmedic.com/Powerbook-Medic---About-Us-p-22.html">About Us</a> | <a href="http://www.powerbookmedic.com/support/">Contact Us</a> | <a href="/xcart1/sitemap.php">Site Map</a> | <a href="http://www.powerbookmedic.com/International-Shipping-p-23.html">International Shipping</a> | <a href="http://www.powerbookmedic.com/support/index.php?/Tickets/Submit/RenderForm/10">Request a Part</a> | <a href="/xcart1/orders.php?mode=search" class="VertMenuItems">Account Login </a>
 </td>
 <td width="300" align="right">
 <img src="/xcart1/skin1/images/imagesv3/logo.jpg">
