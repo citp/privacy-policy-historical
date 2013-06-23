@@ -1,56 +1,59 @@
-> *The following text is extracted and transformed from the intetics.com privacy policy that was archived on 2012-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121218042726id_/http%3A//www.intetics.com/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the intetics.com privacy policy that was archived on 2013-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130623081638id_/http%3A//www.intetics.com/privacy-statement) for the most accurate reproduction.*
 
-# Privacy Statement | Intetics Co.
+# Privacy Statement
 
-We build your trust and confidence with Intetics by promoting the use of fair information practices. We are committed to your privacy and are disclosing our information practices in this company statement.
+## Introduction
 
-Our Privacy Policy lets you know how your personal information is processed and used. We promise we will take steps to use your personal information only in ways that are compatible with our Privacy Policy. The following policies are only in effect for the web pages owned and operated by Intetics.com. Intetics.com is operated by Intetics Co.
+Intetics Co. (the “Company”) is a leading global sourcing company focused on establishing and operating remote dedicated teams for application development, systems integration, engineering, data processing and back office support.
 
-## Collecting Information
+Protecting consumer privacy is very important to the Company. The Company adheres to the Safe Harbor Agreement with regards to the transfer of personal data from the European Union (“EU”) to the United States of America and other countries where its development offices are located. Accordingly, Intetics follows the Safe Harbor Principles established by the U.S. Department of Commerce (the “Principles”) with respect to all such data. If any conflict shall arise between this privacy policy and the Principles, the Principles shall govern. This privacy policy outlines the Company’s general policies and procedures for implementation of the Principles, including the types of information we gather, how we use it, and options we offer to the affected parties with respect to our use of and their ability to correct and edit such information. This privacy policy applies to all personal information received by the Company whether in electronic, paper or verbal format.
 
-Every computer connected to the Internet is given a domain name and a set of numbers that serve as that computer’s “Internet Protocol” IP address. When a visitor requests a page from any web site within Intetics.com, our Web servers automatically recognize that visitor’s domain name and IP address. The domain name and IP address reveal nothing personal about you other than the IP address from which you have accessed our site. We use this information to examine our traffic in aggregate, but do not collect and evaluate this information for individuals. Our Web servers do not record e-mail addresses of the visitors.
+## Definitions
 
-## Use of Cookies
+“Personal Information” or “Information” means information that (1) is transferred from the EU to the Company and its development offices; (2) is recorded in any form; (3) is about, or pertains to a specific individual; and (4) can be linked to that individual.
 
-From time to time, Intetics.com may send a “cookie” to your computer. A cookie is a small piece of data that is sent to your browser from a Web server and stored on your computer’s hard drive. A cookie can’t read data off your hard disk or read cookie files created by other sites. Cookies don’t damage your system. We use cookies to identify which areas of Intetics.com you have visited and to other similar purposes. This information is used to improve our services and make our pages better accessible for you.
+## Principles
 
-You can choose whether to accept cookies by changing the settings of your browser. You can reset your browser to refuse all cookies, or allow your browser to show you when a cookie is being sent. If you choose not to accept these cookies, your experience at our site and other Web sites may be diminished and some features may not work as intended.
+### Notice
 
-## Information Request
+During development and testing phases of the project the Company may possess personal information of parties, obtained from the client. The company uses this personal information for business purposes only, which have been expressly discussed with and approved by the client. Any other use of personal data is strictly prohibited without a prior written consent of the client.
 
-We may also request your e-mail address or mailing address for the purposes of conducting a survey or to provide additional services (for example, subscriptions to e-mail newsletters). Whenever we request the identity of a visitor, we will clearly indicate the purpose of the inquiry before the information is requested. We maintain a strict “No-Spam” policy that means we won’t sell, rent, or otherwise give your e-mail address to a third-party, without your consent.
+At client’s request, the Company will provide detailed information on how it stores, uses and protects personal information received from the client.
 
-We may from time to time send e-mail announcing new Intetics.com products and services. If you choose to supply your postal address in an online form, you may receive mailings from Intetics Co., but not from other third-party companies.
+Any release of data to third parties is strictly prohibited, except as provided by the contractual agreement entered into with the client, or by applicable law, which is enforced in the municipality where the development center is located.
 
-If you choose to purchase something online, we need to know your name, e-mail address, mailing address and other information. This allows us to process and fulfill your order and to notify you of your order status. This information may also be used by us to notify you of related product and services, but will not be shared or sold to any third parties for any purpose.
+Any personal information of third parties that is stored by the Company will be promptly and safely disposed of at client’s request or by a request from a third party directly. In order to resolve any issues related to personal data, please use the company contact information, listed on our web site www.intetics.com.
 
-## Disclosure of Information to Outside Third Parties
+### Choice
 
-Intetics.com will disclose personal information when required by law or in the good faith belief, that such action is necessary to:
+Any persons, whose personal information is stored by the Company, may indicate whether the Company is permitted to disclose such information to third parties, or use the information for any purpose other than that stated when the information was initially obtained. If so chosen, the persons’ intent should be stated in a clear, apparent and obvious fashion that leaves no room for doubt or ambiguity. The company obtains this information from the client, along with personal data. If personal data received from the client does not contain such information, the Company assumes that disclosure or use of personal data for any other purpose is prohibited.
 
-  * Conform to the edicts of the law or comply with a legal process served on Intetics.com.
-  * Protect and defend the rights or property of Intetics.com, or visitors to Intetics.com.
-  * Identify persons who may be violating the law, the legal notice, or the rights of third parties.
-  * Cooperate with the investigations of purported unlawful activities. Intetics.com uses reasonable precautions to keep the information disclosed to us secure. However, we are not responsible for any breach of security or for any actions of any third parties, which receive the information. Intetics.com also links to a variety of other sites and may contain advertisements of third parties. We are not responsible for their privacy policies or how they treat information about their users.
+### Transfer
 
+The Company will obtain permission from the client in an event it becomes necessary to share personal data with third parties. The level of protection of personal data provided by third parties shall not be lower than the level established by and required under the Safe Harbor. If this condition is met the Company shall not be liable for the misuse of personal data by the third parties, if the Company was not aware of the misuse beforehand, and if the Company immediately took action to stop the misuse, as soon as the information came to light. 
 
+In the even it becomes necessary to share data with third parties in order to comply with the legal requirements of law enforcement agencies, or if the Company has a reason to believe that personal data has been disclosed to a third party, the Company shall immediately inform the client.
 
-## Correction/Updating Personal Information
+### Data integrity
 
-If a user’s personal information changes (such as your e-mail address), we provide a way to correct, update or remove your personal data provided to us. Please contact us with your updated information.
+Personal data obtained from the client by the Company is only used for the purposes and by means prescribed when the data was collected, and as outlined in the contract with the customer. To the extent necessary for those purposes, Company shall take reasonable steps to ensure that Personal Information is accurate, complete, current and reliable for its intended use.
 
-## Sharing Information
+### Access
 
-We may place, with your permission, a reference to the work made for you and use a reference to this work in our promotional materials. This is not linked to any personal information that can identify any individual person or computer.
+Due to the nature of business the company engages in, all persons whose personal data is in possession of the Company, have no direct means by which they may edit or remove their personal information. However, the company will immediately make all the necessary corrections to the data, requested either by the individual directly, or by the client on behalf of the individual.
 
-We may collaborate with another party to provide specific services. When you sign up for these services, we will share names, or other contact information necessary for the third party to provide these services. If you don’t want your personal information shared, please contact us with your request.
+### Security
 
-The parties listed above are not allowed to use personally identifiable information except for the purpose of providing these services.
+The Company shall take reasonable steps to protect the Information from loss, misuse and unauthorized access, disclosure, alteration and destruction, including appropriate physical, electronic and managerial procedures to safeguard and secure the Information.
 
-## Surveys & Contests
+### Enforcement
 
-From time-to-time, our site may request information from you via surveys or contests. Participation in these surveys or contests is voluntary and you therefore have a choice whether or not to disclose this information. Survey information will be used for purposes of monitoring or improving the use and satisfaction of this site only.
+The Company uses a self-assessment approach to ensure compliance with this privacy policy and periodically verifies that the policy is accurate, contains comprehensive, relevant, and substantive information, is prominently displayed, completely implemented, is easily accessible, and is in conformity with the Principles. Interested parties are encouraged to raise their concerns. The Company will investigate all concerns and will attempt to resolve any complaints and disputes regarding use and disclosure of Personal Information, in accordance with the Principles.
 
-## Your Consent to This Agreement
+Inquiries or complaints regarding this privacy policy should be sent to the Company at [contact@intetics.com](mailto:contact@intetics.com) or Company [Headquarters](http://www.intetics.com/contact/). 
 
-By using our web site, you consent to the collection and use of information by Intetics Co. as specified above. If we decide to change our privacy policy, we will post those changes on this page so you are always aware of what information we collect, how we use it, and under what circumstances we disclose it.
+If a complaint or dispute cannot be resolved through our internal process, the Company has agreed to utilize a dispute resolution process using [BBB EU Safe Harbor](http://www.bbb.org/us/safe-harbor-complaints) as a third party resolution provider.
+
+## Amendments
+
+This privacy policy may be amended from time to time to reflect and conform to the requirements of the Safe Harbor. The Company will post any revised policy on its website.
