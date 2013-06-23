@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dailylife.com privacy policy that was archived on 2012-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121204020306id_/http%3A//www.dailylife.com/page/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dailylife.com privacy policy that was archived on 2013-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130624012805id_/http%3A//www.dailylife.com/page/privacy.html) for the most accurate reproduction.*
 
 # DailyLife.com | Privacy Policy
 
