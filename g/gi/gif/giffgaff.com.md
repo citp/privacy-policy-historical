@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the giffgaff.com privacy policy that was archived on 2012-09-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120915003134id_/http%3A//giffgaff.com/boiler-plate/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the giffgaff.com privacy policy that was archived on 2013-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130623191505id_/http%3A//giffgaff.com/boiler-plate/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | giffgaff.com
 
@@ -125,13 +125,13 @@ viii. Where you give us false or inaccurate information and we identify or suspe
 
 ix. Where we, or an affiliate processing your data on our behalf, are compelled to do so by law;
 
-ix. In response to a valid, legally compliant request by a competent authority;
+x. In response to a valid, legally compliant request by a competent authority;
 
-x. During emergencies when we believe physical safety is at risk;
+xi. During emergencies when we believe physical safety is at risk;
 
-xi. Where the service is moderated; or
+xii. Where the service is moderated; or
 
-xii. In response to a complaint that that there has been a breach of the Services terms & conditions or any other product or service terms of which you have been notified.
+xiii. In response to a complaint that that there has been a breach of the Services terms & conditions or any other product or service terms of which you have been notified.
 
 [Top]
 
@@ -161,7 +161,7 @@ ii. We can supply certain types of personal information on request: including bu
 
 Our address is:
 
-Data Controller,giffgaff, 260 Bath Road, Slough, Berkshire, SL1 4DX, UK.
+Data Controller, giffgaff, Hertz House, 11 Vine Street, Uxbridge, UB8 1QE, UK.
 
 [Top]
 
