@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lyricstube.net privacy policy that was archived on 2012-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120502025324id_/http%3A//www.songstube.net/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lyricstube.net privacy policy that was archived on 2013-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130623025250id_/http%3A//www.songstube.net/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
