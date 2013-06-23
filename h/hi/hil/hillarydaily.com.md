@@ -1,54 +1,100 @@
-> *The following text is extracted and transformed from the hillarydaily.com privacy policy that was archived on 2000-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001208094100id_/http%3A//www.emazing.com/info/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hillarydaily.com privacy policy that was archived on 2013-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130623102801id_/http%3A//www.godaddy.com/agreements/ShowDoc.aspx%3Fpageid%3Dprivacy_parkedpage) for the most accurate reproduction.*
 
-# EMAZING - Privacy Policy
+# Legal Agreement
 
-**THE QUICK SUM-UP**      We will not rent or sell your email address to any permission marketer or spammer. By signing-up for an EMAZING.com service, you will not wind up on any spam list. Guaranteed.
+**Go Daddy Respects Your Privacy**
 
-     We do not provide advertisers with access to any information that would allow them to target you specifically.
+**This Privacy Policy explains our privacy and information gathering practices, such as the types of information we collect and under what circumstances that information is shared.**
 
-     Our site uses cookies, but for good, not evil.
+**Please take the time to review the terms of this Policy.   By using this Site, you agree to accept the terms provided.**
 
-     If you are under 18, you should not enter any contest on our site.
+**Other than as described in this Policy, we will not give any information about you to others without your express permission.**
 
-     If you are under 13, you should not sign-up for any EMAZING service unless authorized by a responsible adult. If you are under 13 and wish to sign-up for an EMAZING service, please [click here](http://www.emazing.com/info/kids.htm).
+**Information Collection and Use**
 
-**OFFICIAL PRIVACY POLICY STATEMENT**  
-[NOTE: PLEASE SEE SECTION II OF THIS POLICY FOR A DESCRIPTION OF HOW WE DEAL WITH INFORMATION COLLECTED FROM CHILDREN UNDER THE AGE OF 13.]
+Although this Site is primarily for informational purposes, we may ask you to provide us with your name, email address or other information that could be used to identify you personally.  For example, we may collect this information in the event that you register as a member of this Site, post a comment, sign-up to receive email communications, or submit demographic information as part of a survey.
 
-I. This notice is to inform you about the policies for collection and use of personally identifiable information at EMAZING.com. Sites which are linked to our site may have different policies; please review the privacy policy notices on those sites for details.
+We receive and store any information you enter on our Site or give us in any other way, including through email, telephone, or other communications. If you contact us for support, we will keep an internal record of our communication with you.
 
-We do not collect personally identifiable information about you on this site without your knowledge, and all such information is collected directly from you. For example, we may ask you to provide your email address, name, mailing address, or other information about yourself in order to participate in contests, to be added to the list to receive tips, reminders, greeting cards, and other services via email. You are not required to provide us with this information, but if you choose not to, you may not be able to participate in some of the activities on this site.
+We may use your information to contact you regarding the information and services available on our Site, functionality changes to our Site, and special offers we think you'll find valuable. If you would rather not receive this information, please see the "Updating Your Information" section below on how to change your preferences.
 
-We use the information we collect from you to allow you to participate in the site activities for which the information is collected. For example, when you give us your email address in order to receive tips, that address is added to the email list for tip. On each email you receive, you are given the opportunity to unsubscribe; when you unsubscribe, we remove your email address from that mailing list.
+We may also use your information to present a co-branded offer with our partners or affiliates. If we collect information from you in connection with a co-branded offer, it will be clear at the point of collection who is collecting the information and whose privacy statement applies.
 
-To participate in contests on this site, you must be at least 18 years old. For contests conducted on this site, we use the personal information you provide only for the purpose of contacting you if you win a prize and sending the prize to you. We do not use contact information contained in contest entries to create mailing lists or for any other purpose. For further information about how we handle entries to a particular contest, please consult the contest rules.
+We use information gathered about you from our Site statistics (for example, your IP address) to help diagnose problems with our server, and to administer our Site. We also gather broad demographic information from this data to help us improve our Site and make your browsing and purchasing experience more enjoyable. This is not linked to any personally identifiable information, except as necessary to prevent fraud or abuse on our system.
 
-We do not share personal information provided by site visitors with anyone outside EMAZING, INC., except to the extent necessary to allow you to participate in site activities (for example, to send you a prize that you have won in a contest on the site). In particular, we do not rent or sell mailing lists of site visitors to any third party.
+Our Site uses cookies to enhance your experience with our Site.  Cookies are data files that are placed in your browser to keep track of your personal preferences and to facilitate easy navigation through our Site.  We use cookies to identify you so you don't need to log in each time you visit our Site.  You may opt-out of the use of cookies by altering settings on your browser.  Please note, however, that some areas of the Site will be easier to navigate with the use of cookies..
 
-We try to keep the information we collect from you as current as possible, and we take steps to maintain the security of your personal information and to prevent unauthorized access to it by those who do not have a legitimate need for it. We will never post your email address or other identifying information you have provided on our site without your consent.
+This Site also contains links to other websites. Unfortunately, we are not responsible for the privacy practices or the content of such sites.
 
-II. INFORMATION PRACTICES WITH REGARD TO CHILDREN  
-If you are under 13 years of age, you should not provide any personally identifiable information on this site without the knowledge and permission of your parent or guardian. You should not enter any contest on this site, as you must be at least 18 years old to be eligible. If we learn that you are under 13 years of age, we will not maintain or use any personally identifiable information about you without the verifiable consent of your parent or guardian, except as allowed by law. This may mean that you will be unable to participate in some activities on the site without that verifiable consent.
+**Security**
 
-We collect personally identifiable information directly from visitors on this site who may be under the age of 13. We do not collect this information without the knowledge of the visitor.
+This Site has security measures in place to protect against the loss, misuse or alteration of the information under our control.  We follow generally accepted standards to protect the personal information submitted to us, both during transmission and once we receive it.  No method of transmission over the Internet, or method of electronic storage, is 100% secure, however.  Therefore, we cannot guarantee its absolute security.
 
-Our activities on this site are carried out in compliance with the Children's Online Privacy Protection Act of 1998. Under that Act, we may not ask a child to provide more personal information than is reasonably necessary in order to participate in an activity on this site. We comply with this requirement, and any personally identifiable information collected from a visitor on this site is used only for the purpose of enabling the visitor's participation in activities on this site.
+**Updating Your Information**
 
-For example, we ask visitors who wish to be placed on a specific mailing list for a tip to provide an email address. This information is used to send the visitor the tip requested. We also ask visitors who wish to receive a free promotional item (such as a CD, t-shirt, etc.) to provide name, mailing address, and email address. The name and mailing address are used to send the visitor the promotional item. The email address is used only if we need to contact the visitor to verify name and mailing address. We do not retain this information after the item has been delivered, and we do not use it for any other purpose.
+You may alter your account information or opt out of receiving communications from us and our partners at any time. We have the following options for changing and modifying your account information or contact preferences.
 
-For contests that are held on this site, we ask each contestant to provide their email address. If we learn that a contestant is not at least 18 years, we will not allow them to participate in the contest, and the information submitted is deleted. Information submitted in order to participate in a contest is not used for any other purpose.
+        i.      You may send an email to [support@godaddy.com ](mailto:support@godaddy.com)
 
-[We do not collect personally identifiable information from visitors who wish to participate in our email chat service known as the Grapevine. We ask visitors who wish to participate in the Grapevine for email address. This email address is used only to protect the security and integrity of the site, such as to take action against visitors who post  
-inappropriate material or harass other visitors.] It is never revealed publicly.
+       ii.      You may send mail to Go Daddy at the following postal address:   
+               14455 North Hayden Road, Suite 219, Scottsdale, AZ. 85260 USA
 
-In some circumstances, we also ask visitors to this site to provide us with contact information on their parent or guardian. We use this information only for the purpose of contacting the parent or guardian to notify them of our information practices with respect to children, to notify that person of a child's participation on this site, and/or to seek the consent of the parent or guardian to such participation.
+      iii.      You may call us at: (480) 505-8800
 
-The parent or guardian of any person under the age of 13 whose personal information we have collected on this site may ask to review that personal information, to have it deleted, and to forbid further collection of the information. For more information on how to do this, please contact [the contact person listed below].
+       iv.      You may fax us at: (480) 505-8844
 
-No personal information collected on this site is shared with third parties other than a parent or guardian of a site visitor, except that information may be shared with those with whom we contract to carry out the internal operations of the site (for example, to send you a promotional item that you have requested on the site.). These contractors have agreed with us to use personal information of site visitors only for the purposes of carrying out these operations. In particular, we do not rent or sell mailing lists of site visitors to any third party.
+**Sending Emails**
 
-The operator of this site is EMAZING, INC., 620 South Third Street, Louisville, KY 40202. If you have questions concerning this policy, or if you are a parent or guardian who wishes to review the information we have collected on your child, please contact us at [privacy@emazing.com](mailto:privacy@emazing.com)
+We use emails to communicate with you and to send information that you have requested.  We also provide email links to allow you to contact us directly. We strive to promptly reply to your messages.
 
-.
+The information you send to us may be stored and used to improve this Site and our products, or it may be reviewed and discarded.
 
-If you have questions concerning this policy, or if you would like more information, please send an email to [privacy@emazing.com](mailto:privacy@emazing.com). This policy may change as our site develops and grows, so please re-visit this page as often as you wish.
+**Compliance with Laws and Law Enforcement**
+
+We cooperate with government and law enforcement officials and private parties to enforce and comply with the law. We will disclose any information about you to government or law enforcement officials or private parties as we, in our sole discretion, believe necessary or appropriate to respond to claims and legal process (including without limitation subpoenas), to protect our property and rights or the property and rights of a third party, to protect the safety of the public or any person, or to prevent or stop activity we consider to be illegal or unethical. We will also share your information to the extent necessary to comply with ICANN's rules, regulations and policies.
+
+**Third Party Service Providers**
+
+We may at times provide information about you to third parties to provide various services on our behalf, such as serving advertisements, conducting contests or surveys, performing analyses of our user demographics, shipping of goods or services, and user relationship management. We will only share information about you that is necessary for the third party to provide the requested service. These companies are prohibited from retaining, sharing, storing or using your personally identifiable information for any secondary purposes.
+
+In the event that we use third party advertising companies to serve ads on our behalf, these companies may employ cookies and action tags (also known as single pixel GIF or web beacons) to measure advertising effectiveness. Any information that these third parties collect via cookies and action tags is completely anonymous. If you would like more information about this practice and your choices, click [here. ](http://www.networkadvertising.org/managing/opt_out.asp)
+
+**Supplementation of Information**
+
+In order to provide certain services to you, we may on occasion supplement the personal information you submit to us with information from third party sources ( _e.g.,_ information from our strategic partners, service providers, or the United States Postal Service).  We do this to enhance our ability to serve you, to tailor our products and services to you, and to offer you opportunities to purchase products or services that we believe may be of interest to you.
+
+**Contests/Surveys**
+
+From time-to-time, we may provide you with the opportunity to participate in contests or surveys. If you choose to participate, we may request certain personally identifiable information from you. Participation in these contests or surveys is completely voluntary and you therefore have a choice whether or not to disclose the requested information. The requested information typically includes contact information (such as name and address), and demographic information (such as zip code and age level - note that you must be 18 or above to enter). We use this information to notify contest winners and award prizes, to monitor Site traffic, and to personalize our Site.
+
+We may use a third party service provider to conduct these surveys or contests. When we do, that company will be prohibited from using our users' personally identifiable information for any other purpose. We will not share the personally identifiable information you provide through a contest or survey with other third parties unless we give you prior notice and choice.
+
+**Tell-A-Friend**
+
+If a user elects to use our referral service to inform a friend about our Site, we ask the user for the friend's name and email address. Go Daddy will automatically send the friend a one-time email inviting them to visit our Site. Go Daddy stores this information for the sole purpose of sending this one-time email. The friend may contact Go Daddy at [support@godaddy.com ](mailto:support@godaddy.com)to request the removal of this information from our database.
+
+**What Happens to my Personal Information if I Opt Out?**
+
+If you advise us that you wish to opt out of receiving further communications from us, we will place your personally identifiable information in "deactivated" status on our relevant databases. However, you should know that placement of your information in "deactivated" status does not mean your personally identifiable information has been deleted from our database entirely. We will retain and use your personally identifiable information as necessary in order to comply with our legal obligations, resolve disputes, or enforce our agreements.
+
+**Transfer of Data Abroad**
+
+If you are visiting this Site from a country other than the country in which our servers are located, your communications with us may result in the transfer of information across international boundaries.  By visiting this Site and communicating electronically with us, you consent to such transfers.
+
+**Changes in Our Practices**
+
+We reserve the right to modify this Privacy Policy at any time. If we decide to change our Privacy Policy, we will post those changes to this Privacy Policy and any other places we deem appropriate, so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it.
+
+If we make material changes to this Policy, we will notify you here, by email, or by means of a notice on our home page, at least thirty (30) days prior to the implementation of the changes.
+
+**Contacting Our Site**
+
+If you have any questions about our Privacy Policy, the practices of this Site, or your dealings with this Site, please contact us at:
+
+* * *
+
+Go Daddy   
+ATTN: Web Team   
+14455 North Hayden Rd.   
+Suite 219   
+Scottsdale, AZ, 85260, U.S.A.
