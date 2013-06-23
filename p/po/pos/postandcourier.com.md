@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the postandcourier.com privacy policy that was archived on 2012-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121224083958id_/http%3A//www.postandcourier.com/section/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the postandcourier.com privacy policy that was archived on 2013-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130623064945id_/http%3A//www.postandcourier.com/section/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | The Post and Courier | Charleston SC, News, Sports, Entertainment
 
