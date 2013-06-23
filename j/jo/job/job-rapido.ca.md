@@ -1,124 +1,100 @@
-> *The following text is extracted and transformed from the job-rapido.ca privacy policy that was archived on 2012-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121122073709id_/http%3A//ca.jobrapido.com/info/privacy-policy-iframe%3Fpopup) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the job-rapido.ca privacy policy that was archived on 2013-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130623102801id_/http%3A//www.godaddy.com/agreements/ShowDoc.aspx%3Fpageid%3Dprivacy_parkedpage) for the most accurate reproduction.*
 
-# 
+# Legal Agreement
 
-Privacy Policy  
-This Website collects Personal Data from its Users. The Personal Data is either collected automatically or provided voluntarily. Failure to provide the Personal Data may affect the use of the Site or the Services offered. The purpose and methods of processing are set out below.
+**Go Daddy Respects Your Privacy**
 
-1\. Information regarding Data Processing Ownership  
-Jobrapido Srl (hereinafter "Jobrapido") is the Data Controller. Contact info:  
-Jobrapido Srl  
-Via Paleocapa, 7 - 20121 Milan (MI) - Italy  
-ca@jobrapido.com
+**This Privacy Policy explains our privacy and information gathering practices, such as the types of information we collect and under what circumstances that information is shared.**
 
-2\. Data collected during navigation  
-When you visit the Jobrapido Website, it collects certain Personal Data, such as the pages you view, the links or buttons that you click, the date and time when you access the Site, your IP address, your web browser and the operating system you use (the "Navigation Data").
+**Please take the time to review the terms of this Policy.   By using this Site, you agree to accept the terms provided.**
 
-The Navigation Data may, by its very nature, allow Users to be identified through processing and association with data held by third parties. However, Jobrapido uses this data solely for the purpose of obtaining anonymous statistical information concerning the use of the Site and for purposes strictly related to its operation.
+**Other than as described in this Policy, we will not give any information about you to others without your express permission.**
 
-The Jobrapido Cookie  
-When you visit the Site for the first time, Jobrapido saves a Cookie on your browser (identified as JE). This is a text string consisting of a code stored on your computer. This code allows Jobrapido to recognize your browser, to automatically identify you through your registered email and to display information connected with your interests. The Cookie is permanent and if not renewed will disappear after a period of 2 years. If you wish to delete the Cookie before this period, you can do so at any time using your browser settings.
+**Information Collection and Use**
 
-The Cookie will be placed on your computer only if this option is enabled on your browser. Some features of the Site may not work correctly if this option is disabled.
+Although this Site is primarily for informational purposes, we may ask you to provide us with your name, email address or other information that could be used to identify you personally.  For example, we may collect this information in the event that you register as a member of this Site, post a comment, sign-up to receive email communications, or submit demographic information as part of a survey.
 
-Third party cookies  
-Jobrapido uses third party services that install Cookies. These third party services are:  
-• Google Analytics, provided by Google Inc, which installs the Cookies "__utma", "__utmb" and similar. For more information: developers.google.com/analytics/resources/concepts/gaConceptsCookies  
-• Google Adsense, provided by Google Inc, using the DoubleClick Cookie. For more information:www.google.com/intl/en/policies/privacy/ads/#toc-doubleclick  
-If you wish to receive further information about third party Cookies, please write to our email address.
+We receive and store any information you enter on our Site or give us in any other way, including through email, telephone, or other communications. If you contact us for support, we will keep an internal record of our communication with you.
 
-Other Navigation Data  
-When you open a new Job Ad notification email or click on a link it contains, your action is tracked for statistical purposes.
+We may use your information to contact you regarding the information and services available on our Site, functionality changes to our Site, and special offers we think you'll find valuable. If you would rather not receive this information, please see the "Updating Your Information" section below on how to change your preferences.
 
-3\. Data provided voluntarily  
-Your email address  
-Jobrapido allows you to activate a notification system for new Job Ads (Job Alert). Users can activate the notifications using their email address, geographical area and/or the kind of job they would like to see Ads for.
+We may also use your information to present a co-branded offer with our partners or affiliates. If we collect information from you in connection with a co-branded offer, it will be clear at the point of collection who is collecting the information and whose privacy statement applies.
 
-After your email address has been provided, the Data is used only to send an initial email that is just an example of the Job Alert Service, and a second email as a reminder. Actual registration with the Job Alert Service only takes place upon acceptance of this Privacy Policy and Terms of Service by clicking on one of the links contained in the email.
+We use information gathered about you from our Site statistics (for example, your IP address) to help diagnose problems with our server, and to administer our Site. We also gather broad demographic information from this data to help us improve our Site and make your browsing and purchasing experience more enjoyable. This is not linked to any personally identifiable information, except as necessary to prevent fraud or abuse on our system.
 
-The email address is stored for the period and the purposes strictly necessary to request consent, and the Job Alert Service will not begin unless one of the links is clicked.
+Our Site uses cookies to enhance your experience with our Site.  Cookies are data files that are placed in your browser to keep track of your personal preferences and to facilitate easy navigation through our Site.  We use cookies to identify you so you don't need to log in each time you visit our Site.  You may opt-out of the use of cookies by altering settings on your browser.  Please note, however, that some areas of the Site will be easier to navigate with the use of cookies..
 
-You can enter the email address manually or you can identify yourself through the social network Facebook authentication service provided by Facebook Inc. Facebook authentication allows access to some basic information on your profile and information related to the permission you give when you authorize our application. Jobrapido, however, only uses your email address and does not record any other information, except in so far as is strictly necessary to make the integration work.
+This Site also contains links to other websites. Unfortunately, we are not responsible for the privacy practices or the content of such sites.
 
-When you click on the links in the messages sent to your email address, Jobrapido uses its Cookie to identify you on later visits, allowing you to change the search parameters you are monitoring and for which you are notified by email. If you don't want to be identified on the next visit, you can click on the "log out" link.  
-In addition to notifications for new listings, Jobrapido can send you specific job offers. These offers come from our partners who are interested in the professional profiles you are monitoring. Jobrapido will use the email address you provided solely and exclusively for the Job Alert Service. Jobrapido will not send any business or advertising mail of its own or from any third party to the address you give.
+**Security**
 
-When you cancel the Job Alert notifications, the Service will be discontinued and your address will be removed from our database. The Service may also be stopped and your email may be removed from the database in other circumstances, e.g., when you stop clicking on the Job Alert links.
+This Site has security measures in place to protect against the loss, misuse or alteration of the information under our control.  We follow generally accepted standards to protect the personal information submitted to us, both during transmission and once we receive it.  No method of transmission over the Internet, or method of electronic storage, is 100% secure, however.  Therefore, we cannot guarantee its absolute security.
 
-Users are free to give their own email address to receive the Job Alert Service. Failure to provide it, however, will make it impossible to obtain the requested Service.
+**Updating Your Information**
 
-Other Personal Data provided voluntarily  
-As part of the Services offered by the Site, you may provide Jobrapido with other Personal Data besides your email address in order to receive more information and Services (such as requesting information, quotes, subscribing to Services offered by the Site, replying to an ad, reporting malfunctions etc.).  
-This data will be processed by Jobrapido solely for purposes strictly related to your request. Failure to provide this information may make it impossible to obtain the requested Service.
+You may alter your account information or opt out of receiving communications from us and our partners at any time. We have the following options for changing and modifying your account information or contact preferences.
 
-Ad reply form  
-This form allows you to contact the Job Advertiser directly, and also to attach your Curriculum Vitae. Jobrapido does not store any of the Personal Data provided in this way and only carries out the minimum processing of data necessary in order to send the Advertisers the information provided.
+        i.      You may send an email to [support@godaddy.com ](mailto:support@godaddy.com)
 
-Job Advertisers  
-This part of the Site allows businesses to request information on the Services Jobrapido offers for companies, such as posting Job Ads on the Site. The Personal Data provided will be used for offers relating to the Services mentioned, both through direct contact or by sending occasional email messages.
+       ii.      You may send mail to Go Daddy at the following postal address:   
+               14455 North Hayden Road, Suite 219, Scottsdale, AZ. 85260 USA
 
-Uploading a Curriculum Vitae  
-Jobrapido lets you upload your Curriculum Vitae onto its system so that Users can access it at any time. CVs so uploaded are shared with the companies of the Evenbase Recruitment Ltd Group, based in the UK and of which Jobrapido is a part, for personnel selection purposes.
+      iii.      You may call us at: (480) 505-8800
 
-Please do not include confidential data in your CV (especially concerning health matters, religious affiliation or political opinions). Should the Curriculum be examined, any such information will be immediately deleted if the written consent of the Interested party has not been given.
+       iv.      You may fax us at: (480) 505-8844
 
-4\. Third party services  
-Jobrapido uses third party services for its statistics, for technical management and maintenance or to display advertisements on its Site. The list of services used, and thus the third parties, varies greatly depending on the national locations of the Site, making it technically impossible to list them in this document. We therefore suggest you contact us if you wish to receive complete information.
+**Sending Emails**
 
-Other third party services  
-Jobrapido makes use of a number of partners to show ads related to Jobrapido on third party websites and to allow partner advertising networks to display ads that take into account User preferences. These ads can take into account the fact that the User is registered with Jobrapido or has visited the Site. Recognition by these partners is by means of a Cookie and by sharing the Jobrapido Cookie, described above, with them. No other Data is shared with these partners.  
-Partners offering this service are Criteo (run by Criteo SA, privacy policy and opt out on www.criteo.com/us/privacy-policy) and Simpli.fi (run by Simplifi Holdings, Inc., privacy policy on www.simpli.fi/ad-serving-privacy-policy/ and opt out on app.simpli.fi/opt_out).
+We use emails to communicate with you and to send information that you have requested.  We also provide email links to allow you to contact us directly. We strive to promptly reply to your messages.
 
-5\. Personal Data Processing procedure  
-We handle your data in accordance with legal requirements, taking all appropriate security measures to prevent unauthorized access, disclosure, unauthorized modification or destruction of Personal Data. The Data is processed using both manual methods and computers and/or telematic means, using organizational and logical methods strictly related to the stated purposes.
+The information you send to us may be stored and used to improve this Site and our products, or it may be reviewed and discarded.
 
-6\. Place of Data processing
+**Compliance with Laws and Law Enforcement**
 
-The Personal Data is processed at the headquarters of the Data Controller, but the services offered by Google or other partners, may be processed outside Italy and/or outside the European Union.
+We cooperate with government and law enforcement officials and private parties to enforce and comply with the law. We will disclose any information about you to government or law enforcement officials or private parties as we, in our sole discretion, believe necessary or appropriate to respond to claims and legal process (including without limitation subpoenas), to protect our property and rights or the property and rights of a third party, to protect the safety of the public or any person, or to prevent or stop activity we consider to be illegal or unethical. We will also share your information to the extent necessary to comply with ICANN's rules, regulations and policies.
 
-  
-7\. Data retention  
-The data is processed for the time needed to perform the requested services and are deleted when the purpose for which they were collected and processed no longer exists.
+**Third Party Service Providers**
 
-8\. User rights  
-You may contact Jobrapido at the contact addresses given, to obtain:  
-i. confirmation of the existence or otherwise of Personal Data regarding you and, if it is stored, the list of Personal Data in Jobrapido's possession  
-ii. information on the Terms and purposes of the processing of your Personal Data  
-iii. updating or modification of your Personal Data  
-iv. cancellation of your Personal Data, including the deactivation of the Job Alert Service.
+We may at times provide information about you to third parties to provide various services on our behalf, such as serving advertisements, conducting contests or surveys, performing analyses of our user demographics, shipping of goods or services, and user relationship management. We will only share information about you that is necessary for the third party to provide the requested service. These companies are prohibited from retaining, sharing, storing or using your personally identifiable information for any secondary purposes.
 
-9\. Changes to these Terms  
-Jobrapido reserves the right to make changes to this Privacy Policy at any time, informing Users through the Site.  
-Users who continue to use the Service after the publication of the new conditions accept the new Privacy Policy in its entirety.
+In the event that we use third party advertising companies to serve ads on our behalf, these companies may employ cookies and action tags (also known as single pixel GIF or web beacons) to measure advertising effectiveness. Any information that these third parties collect via cookies and action tags is completely anonymous. If you would like more information about this practice and your choices, click [here. ](http://www.networkadvertising.org/managing/opt_out.asp)
 
-10\. Legal information  
-This privacy policy is subject to the laws of Italy.
+**Supplementation of Information**
 
-11\. Definitions  
-Ad or Job Ad  
-A job advert accessible through the Site, whose content is published directly on Jobrapido or retrieved automatically from other Job Ad sites, as indicated in the ad itself, and of which Jobrapido publishes an extract.
+In order to provide certain services to you, we may on occasion supplement the personal information you submit to us with information from third party sources ( _e.g.,_ information from our strategic partners, service providers, or the United States Postal Service).  We do this to enhance our ability to serve you, to tailor our products and services to you, and to offer you opportunities to purchase products or services that we believe may be of interest to you.
 
-Advertiser  
-Those who publish Job Ads through the Jobrapido Website.
+**Contests/Surveys**
 
-Service  
-The Service of indexing, publication, and displaying Ads on the Site and any communications via email provided by Jobrapido.
+From time-to-time, we may provide you with the opportunity to participate in contests or surveys. If you choose to participate, we may request certain personally identifiable information from you. Participation in these contests or surveys is completely voluntary and you therefore have a choice whether or not to disclose the requested information. The requested information typically includes contact information (such as name and address), and demographic information (such as zip code and age level - note that you must be 18 or above to enter). We use this information to notify contest winners and award prizes, to monitor Site traffic, and to personalize our Site.
 
-Terms of Service or Terms  
-These general Terms of Service.
+We may use a third party service provider to conduct these surveys or contests. When we do, that company will be prohibited from using our users' personally identifiable information for any other purpose. We will not share the personally identifiable information you provide through a contest or survey with other third parties unless we give you prior notice and choice.
 
-Personal Data  
-Personal Data is any information concerning a natural person, identified or identifiable, even indirectly, by reference to any other information, including a personal identification number.
+**Tell-A-Friend**
 
-Interested party  
-The person or entity to whom the Personal Data refer.
+If a user elects to use our referral service to inform a friend about our Site, we ask the user for the friend's name and email address. Go Daddy will automatically send the friend a one-time email inviting them to visit our Site. Go Daddy stores this information for the sole purpose of sending this one-time email. The friend may contact Go Daddy at [support@godaddy.com ](mailto:support@godaddy.com)to request the removal of this information from our database.
 
-Website or Site  
-Jobrapido, a search engine for jobs that operates through local versions in various countries of the world, identified by the jobrapido.com Website.
+**What Happens to my Personal Information if I Opt Out?**
 
-Data Controller  
-The natural person, legal person, public administration and any other organization or association with the right, also jointly with another owner, to make the decisions regarding the purposes and methods of processing of Personal Data and the means used, including the security profile, in relation to the operation and use of this Site.
+If you advise us that you wish to opt out of receiving further communications from us, we will place your personally identifiable information in "deactivated" status on our relevant databases. However, you should know that placement of your information in "deactivated" status does not mean your personally identifiable information has been deleted from our database entirely. We will retain and use your personally identifiable information as necessary in order to comply with our legal obligations, resolve disputes, or enforce our agreements.
 
-User
+**Transfer of Data Abroad**
 
-The individual user of the Services or products of the Site.
+If you are visiting this Site from a country other than the country in which our servers are located, your communications with us may result in the transfer of information across international boundaries.  By visiting this Site and communicating electronically with us, you consent to such transfers.
+
+**Changes in Our Practices**
+
+We reserve the right to modify this Privacy Policy at any time. If we decide to change our Privacy Policy, we will post those changes to this Privacy Policy and any other places we deem appropriate, so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it.
+
+If we make material changes to this Policy, we will notify you here, by email, or by means of a notice on our home page, at least thirty (30) days prior to the implementation of the changes.
+
+**Contacting Our Site**
+
+If you have any questions about our Privacy Policy, the practices of this Site, or your dealings with this Site, please contact us at:
+
+* * *
+
+Go Daddy   
+ATTN: Web Team   
+14455 North Hayden Rd.   
+Suite 219   
+Scottsdale, AZ, 85260, U.S.A.
