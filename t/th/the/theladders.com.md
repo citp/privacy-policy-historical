@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the theladders.com privacy policy that was archived on 2012-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121225020055id_/http%3A//www.theladders.com/theladders-privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theladders.com privacy policy that was archived on 2013-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130623221331id_/http%3A//www.theladders.com/theladders-privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
-**Updated August 12, 2011**
+**Updated February 17, 2013**
 
-This "Privacy Policy" is part of the Terms of Use <http://www.theladders.com/theladders-terms-use> for TheLadders.com and its associated websites (collectively, the "Website"). This Privacy Policy covers the Website and is designed to assist You in understanding how We will use the information You provide when You use the Website, as well as how We will use other information that We collect based on that use. By using the Website, You consent to the information collection and use practices described in this Privacy Policy. 
+This "Privacy Policy" is part of the Terms of Use <http://www.theladders.com/theladders-terms-use> for TheLadders.com and its associated websites (collectively, the "Website"). This Privacy Policy covers the Website and is designed to assist You in understanding how we will use the information You provide when You use the Website, as well as how we will use other information that we collect based on that use. By using the Website, You consent to the information collection and use practices described in this Privacy Policy. 
 
 If You have questions or concerns regarding this Privacy Policy, You should contact us at [help@theladders.com](mailto:help@theladders.com) or at 137 Varick Street, 8th Floor, New York, NY 10013, ATTN: Legal. 
 
@@ -22,13 +22,13 @@ As TheLadders.com continues to develop its business, TheLadders.com might sell o
 
 **Information We Collect and How We Use That Information**
 
-Our basic registration forms require Users to provide contact information, including name, email address, zip code, and income information. We use this information to contact You about the services on our Website in which You have expressed interest. Should You choose to purchase services, Your credit card information will be stored. We use your credit card information for billing purposes only. If we have trouble processing Your order, we will use Your contact information to contact You. 
+Our basic registration forms require Users to provide contact information, including name, email address, zip code, and income information. We use this information to contact You about the services on our Website in which You have expressed interest or about enhancements or changes to the Website. Should You choose to purchase services, Your credit card information will be stored. We use your credit card information for billing purposes only. If we have trouble processing Your order, we will use Your contact information to contact You. We also use Personal Information to provide You with targeted job information. 
 
-Sensitive information such as Your income level and credit card information will be kept completely private.
+Your credit card information will be kept completely private.
 
-Should You post a resume, the amount of information You choose to keep confidential is entirely up to Your discretion. You may enter as much or as little information as You choose. All information posted will only be visible to recruiters and companies seeking employees. All recruiters are believed by TheLadders.com to be legitimately seeking applicants for available positions. 
+When you post a resume or create a profile, all information posted will be visible and available for download to recruiters, hiring managers and companies seeking employees. All recruiters and hiring managers are believed by TheLadders.com to be legitimately seeking applicants for available positions. Recruiters and hiring managers may share your resume with other recruiters or hiring managers. 
 
-In Your use of the Website, we also store such information as jobs You've applied to, jobs You've viewed, Your resume, and similar information. We track clickstream data to monitor utilization and to improve customer experience. We also use Personal Information to provide You with targeted job information. 
+In Your use of the Website or TheLadders' mobile application, we also store such information as jobs You've applied to, jobs You've viewed, Your resume, and similar information. We track clickstream data to monitor utilization and to improve customer experience. Certain anonymous information such as title, educational institution, years of experience, areas of expertise and jobs you've applied to may be disclosed in statistics provided to jobseekers through Website features or TheLadders's mobile application, but your name and contact information will not be disclosed through such features. 
 
 We use other third parties to provide credit card processing services on our Website. When You sign up for Premium membership, we will only process Your full payment information including credit cards through a third party payment processor that is Payment Card Industry Data Security Standard (PCI DSS) compliant <https://www.pcisecuritystandards.org/security_standards/>. 
 
@@ -78,26 +78,11 @@ We may disclose Your Personal Information when required by law or in the good-fa
 
 As such, we cannot ensure that Your Personal Information will not be disclosed to third parties. For example, we may be legally obligated to disclose information to the government or third parties under certain circumstances, or third parties may circumvent our security measures to unlawfully intercept or access transmissions or private communications.
 
-HISTORICAL MODIFICATIONS:   
+HISTORICAL MODIFICATIONS:  
 ---  
 Date | Description of Material Modification  
-08/12/11 | 
-
-  * Retention of information in "Information We Collect" section
-
-  
-11/19/09 | 
-
-  * Addition of California Privacy Rights provision
-
-  
-11/19/09 | 
-
-  * Notice of re-marketing of TheLadders' products & services to User
-
-  
-11/19/09 | 
-
-  * Notice of use of third party web beacons for internal use only
-
-
+02/17/13 | Use and disclosure of information collected for statistical features on the Website  
+08/12/11 | Retention of information in "Information We Collect" section  
+11/19/09 | Addition of California Privacy Rights provision  
+11/19/09 | Notice of re-marketing of TheLadders' products & services to Use  
+11/19/09 | Notice of use of third party web beacons for internal use only
