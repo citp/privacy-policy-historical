@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the history.com privacy policy that was archived on 2012-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121216082131id_/http%3A//www.aenetworks.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the history.com privacy policy that was archived on 2013-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130623055310id_/http%3A//www.aenetworks.com/privacy) for the most accurate reproduction.*
 
 # Privacy Statement | A+E Networks
 
