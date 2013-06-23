@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fazed.net privacy policy that was archived on 2012-11-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121117054414id_/http%3A//fazed.net/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fazed.net privacy policy that was archived on 2013-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130623023942id_/http%3A//fazed.net/privacy) for the most accurate reproduction.*
 
 # FAZED - Privacy Policy
 
