@@ -1,79 +1,108 @@
-> *The following text is extracted and transformed from the studentcity.com privacy policy that was archived on 2012-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121218052848id_/http%3A//www.studentcity.com/legal) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the studentcity.com privacy policy that was archived on 2013-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130623024458id_/http%3A//www.studentcity.com/legal) for the most accurate reproduction.*
 
-# Legal disclosure & Privacy policy - We take privacy seriously - StudentCity
+# StudentCity Privacy Policy: Legal Disclosure - StudentCity
 
-StudentCity collects information in order to serve you better by providing better information & discounts. We will never sell or provide your information to other companies without your consent.
+This Privacy Policy describes the privacy practices of **Studentcity** (“Studentcity”, “We” or “us”). If you have any questions about this Policy, please contact as indicated in the _How to Contact Us_ section below. We may update this Privacy Policy from time to time, so please check this Privacy Policy periodically for changes.  
+This Privacy Policy applies to our website located at **Studentcity.com** and any of our other sites that link to this Privacy Policy. We refer to all of these sites as the “Website.”
 
-## 1\. What information we gather and how we gather it.
+## How We Collect Information
 
-### Cookies
+We collect two basic types of information: personal information and anonymous information. We define “personal information” as information that is unique to an individual. Personal information might include: names, ages, contact information, payment information, school affiliation and travel schedule and preferences. Anonymous information is information that is not unique to you, such as technical information about your computer or statistical information about groups of our users.
 
-At times, we send your Web browser a “cookie,” a small data file that's stored on your hard drive, to help us provide you with customized services. We do not and cannot use cookies to retrieve personal information from your computer.
+We collect both personal information and anonymous information through the Website. We sometimes collect personal information and anonymous information by asking you to enter it into forms on our Website. For example, if you make a request for more information about one of our trips, we request your name, e-mail, phone number, the name of your school and other details. We also collect anonymous information automatically as you use the Websiteâ€”see the section below titled Cookies and Analytics
 
-### Membership Application and Online Registration
+## How We Use Your Information
 
-To process your StudentCity Membership and/or your online registration, we may ask you common required information including name, address, email address, school, class, date of birth, school ID (for student verification). To process a StudentCity purchase, separate from the StudentCity Membership, we will also require credit card or checking account information. In order to access your online account, you will be asked to select a username and password. We then ask for additional optional information including: student status, gender, expected graduation date, and class affiliations. In the future, you will also have the option to personalize your own site by providing additional optional information including: interests, Greek affiliation, major, and more. 
+If we do receive your personal information, we will only use it for the purposes described where it is collected or as otherwise described in this Privacy Policy. For example, if you request more information about a trip, we will use your contact details to send you that information.  
+We will not share your personal information with third-parties unless:
 
-### Co-branded Membership Applications and Offers
+  * you give us your express permission to do so;
+  * it is to your parent or guardian if you are a minor;
+  * it is to your trip organizer, if you are part of a group trip;
+  * it is necessary to allow our service providers or agents to provide services for us;
+  * it is necessary in order to provide our products or services to you or to contact you;
+  * subject to applicable contractual or legal restrictions, it is disclosed to entities that perform marketing services on our behalf or to other entities with whom we have joint marketing agreements;
+  * in connection with the sale of our business;
+  * it is necessary to process payments from you;
+  * it is necessary to investigate potential fraud or security breaches; or
+  * otherwise as we are required or permitted by law.
 
-In order to receive special offers from partners or affiliates, you may be asked to provide additional personally identifiable information. Information submitted as part of any co-branded or any other offer may be shared with these partners and affiliates in which case the partners’ use of such information will be governed by the privacy policy of that particular partner. 
 
-### Contests/Promotions
 
-When you enter a contest or other promotional feature, we may ask for your name, address, e-mail address and other contact information. Other times, you may enter by simply entering your username and password. At no time will eligibility require a purchase on your part, but you may be required to become a Member of the site.
+## Marketing Communications
 
-### Discussions and Community Tools
+With your permission, we may from time to time contact you with information on offers of goods and services, brochures, new products and forthcoming events. You can sign up for these communications when you register to use the Website or complete a transaction on the Website. This option will be checked by default. You may opt-out of receiving marketing communications at any time by following the instructions in our marketing e-mails. Please allow us a reasonable time to process unsubscribe requests.
 
-StudentCity offers a community section including discussions (chat and threaded discussion pages) and, in the future, individual profile pages available to all users. Your posts to the Web site become available for the public to view immediately after you post. Please be considerate and respectful of others while using the community to share your opinion, see Terms of Use for complete community rules. 
+## E-mail
 
-### Other Site Features
+We appreciate your e-mailed feedback, questions and comments. Please see the “How To Contact Us” section of this Privacy Policy. If you e-mail us, we will keep a copy of your message until we have had an opportunity to address your concerns and may archive your message for a certain period of time or discard it once it is no longer needed.
 
-Certain other features of the StudentCity Web may also require us to collect personally identifiable information such as name and email address of both the sender and the recipient. 
+## Cookies and Analytics
 
-## 2\. How we use and disclose your information
+Our website uses “cookies”â€”small files that permit our Website to identify your computer or mobile device on future visits. You can set your web browser to refuse cookies but certain features on our Website that use cookies may be unavailable.
 
-In general, we do not sell your personally identifiable information to third parties or mass marketers. For example, we will not sell another company your name or email address. On occasions, we may ask for your consent to share particular data with a third party. In addition, StudentCity reserves the right, without disclosing your personally identifiable information to third parties, to use the information you provide to offer you additional StudentCity or third party products and services that we think will be of interest to you, unless you notify us that you do not wish to receive this information from us.
+We use cookies to keep track of the pages you visit on the Website and to store information about you or your preferences between visits to the Website. For example, if you click the “remember me” checkbox on our login form, the Website will set a cookie on your browser or mobile device so that you do not need to login on future visits.
 
-We use your information to deliver personalized services, content, discounts and advertisements to enhance your experience with StudentCity. For example, you may receive an email with a special offer or discount on Spring Break travel because you selected “travel” as an area of interest under your personal profile when you registered to use the site.
+We also collect anonymous information about your computer or mobile device when you use our Website such its IP address, operating system and browser type. If you follow a link to our Website or use a search engine to access our Website, we may collect the address of the page or the search engine query that referred you to our Website. We use this information to help us operate and improve the Website and to understand how visitors find our Website. [For example, if we determine that you are on a mobile device, we may refer you to the mobile version of our Website.]
 
-We do disclose aggregated data to our advertisers and co-branded partners to generate reports and marketing research. For example, we tell advertisers how many people saw or clicked on an ad and additionally, how many people saw or clicked on ads in different portions of our service. Where available, we may offer additional information about viewer characteristics. However this does not include personally identifiable information about you or your online usage patterns. Our advertisers allow us to provide our service to you. In return, they need to know how to effectively place their ads to potential customers.
+We also use your IP address to determine the general physical location of your computer or mobile device and the name of your internet service provider.
 
-You have the option to subscribe to receive StudentCity Email Updates when you register on the site. We will use these updates to provide you with additional discounts, special offers, site upgrades, new features, events, promotions, and much more. You have the option to email us to opt out of receiving the emails at the bottom of every email you receive.
+## Links to Other Websites
 
-On occasion, StudentCity may use the content you post in the community section including chat rooms and discussions or any other public section of the StudentCity for promotional purposes in email newsletters, in promotional collateral, or elsewhere and by using any site in our StudentCity you agree that we may do so. You should exercise caution when deciding to disclose your personal information in these areas.
+For your convenience, we may provide links to other websites and web pages that we do not control. We cannot be responsible for the privacy practices of any websites or pages not under our control and we do not endorse any of these websites or pages, the services or products described or offered on such sites or pages, or any of the content contained on those sites or pages.
 
-We may share your personally identifiable information with third parties with which we contract to help enhance the functionality of the StudentCity and provide new products, services and content. We make sure that these 3rd parties do not use this information for any other purpose and do not share the information with any other third party.
+## Third Party Social Media Platforms
 
-We use cookies to enhance your experience at StudentCity and other sites operated by StudentCity to give you better, more personalized service once you've purchased or registered. We use this information for internal use only, we don't share it with others. When you log in, we use cookies to make sure you only have to log in once that session, and so that we don’t have to ask you to enter your information again on every page. Cookies are used by many of the most popular and well-respected web sites in order to make your experience easier and more valuable.
+The Website integrates content from and links to social media platforms. We also maintain a presence on social media platforms. Please understand that these platforms are operated by third-parties and that your use of the platforms is subject to the terms of use and privacy policies established by their operators. Information you post on these platforms may, depending on your privacy settings, be publicly visible. We urge you to carefully consider what you post.
 
-Third Party Advertising: We use MaxWorldwide and other third-party advertising companies to serve ads when you visit our Web site. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements on this site and other sites about goods and services that may be of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please click here
+## Social Features on this Website
 
-Third Party Cookies: In the course of serving advertisements to this site, our third-party advertiser may place or recognize a unique “cookie” on your browser.
+Some pages on the Website contain social features let you publicly post photos or messages. The information you post can be collected and used by people you do not know. We may also use information you post on these social areas of our Website for promotional purposes. We urge you to carefully consider what you post in social areas.
 
-## 3\. Opt-in/Opt-out or deactivating account
+## Online Tour Center/Customer Portal
 
-You are automatically registered for Email Updates when you register for information or join a tour with StudentCity. You will have the option of opting out of future emails at the bottom of every email that is sent out. StudentCity gives users the option to remove their information from our database completely. If you don't want to receive any form of direct contact from StudentCity whether it is email, discounts, The StudentCity Spring Break Guide, or other promotional offers, email [info@studentcity.com](mailto:info@studentcity.com) or call our Customer Service Department at 1.978.531.3301 to cancel your account. StudentCity is not responsible for removing information from third-party lists or databases.
+We provide a custom portal for travelers and trip organizers. Trip organizers can access your contact information and your account status. You can also access your personal profile. Trip sponsors and other travelers on your trip can view and post photos, blog entries. Information you post on our portal may be visible to other members of your trip. We urge you to carefully consider what you post.
 
-## 4\. Reviewing or changing your information/Profile Page
+## Children
 
-In order to ensure that the information we maintain is accurate, StudentCity gives users the option to change or modify their information previously provided. If you would like to change your information currently in our database, please login or contact Customer Service at 1.978.531.3301.
+We are committed to preserving online privacy for all of the visitors to our Website, including children. Our website is not designed for children and we do not knowingly collect information about children under the age of 13 without the consent of their parent or guardian.
 
-## 5\. Improper Conduct
+## Security 
 
-The restrictions above will not apply in the event that you engage in certain improper conduct. Specifically, StudentCity shall have the right to itself use or release to third parties personally identifiable information regarding users who are suspected of having used this web site or any other site in the StudentCity for any fraudulent purposes or having otherwise violated any law rule or regulation.
+We have taken reasonable steps and have in place appropriate security measures to protect your personal information, including keeping your financial information private and safe. You acknowledge, however, that no transmission of data over the Internet can be guaranteed to be 100% secure, despite our efforts. We cannot guarantee that such information will not be intercepted by third-parties.
 
-## 6\. Security — transaction
+## International Users
 
-We make a diligent effort to ensure that our secure server software (SSL) is the industry standard and among the best software available today for secure commerce transactions. Our SSL encrypts all of your personal information, including credit card number, name, and address, so that it cannot be read as the information travels over the Internet.
+If you are visiting our Website from outside of the United States or otherwise contacting us from outside of the United States, please be aware that your personal information may be transferred to, stored or processed in the United States, where our servers are located and our central database is operated. The data protection and other laws of the United States and other countries might not be as comprehensive as those in your country, but please be assured that we take steps to protect your privacy. By using our services or purchasing our products, you understand that your information may be transferred to our facilities and those third-parties with whom we share it as described in this Privacy Policy.
 
-## 7\. Protection for Children
+## Your California Privacy Rights
 
-We have no intention of collecting personally identifiable information from children (i.e., individuals under the age of 13). Where appropriate, we take reasonable measures to inform children not to submit such information to our site or in response to advertisements. If a child has provided us with individually identifiable information, that child's parent or guardian should contact our Customer Care Department at [info@studentcity.com](mailto:info@studentcity.com) or call if they would like this information deleted from our records.
+Under California Law, California residents have the right to request certain information from businesses with whom they have an established business relationship. This information includes:
 
-## 8\. Your Consent 
+  * a list of the categories of personal information, such as name, e-mail and mailing address and the type of services provided to the customer, that a business has disclosed to third-parties (including affiliates of the business that are separate legal entities) during the immediately preceding calendar year for the third-parties’ direct marketing purposes; and
+  * the names and addresses of all such third-parties.
 
-By using any web site operated by StudentCity you consent to the collection and use of information by StudentCity in the manner explained above. If we decide to change this privacy policy, we will correct it to reflect those changes so you are always aware of what information we collect, how we use it, and under what circumstances we disclose it.
 
-## 9\. Contacting Us
 
-If you have any questions about this privacy statement, the practices of this site, or your dealings with this site, you can contact us at: [privacy@studentcity.com](mailto:privacy@studentcity.com).
+To request the above information, please e-mail us at: [privacy@studentcity.com](mailto:privacy@studentcity.com)
+
+You may also write to us at : **8 Essex Center Drive, Peabody, MA 01960**
+
+Please reference “California disclosure information” in your message or letter. We will respond to requests for California disclosure information within 30 days following receipt at the e-mail or mailing address stated above. If we receive your request at a different e-mail or mailing address, we will respond within a reasonable period of time not to exceed 150 days. Please note that we are only required to respond to each customer once per calendar year.
+
+## Changes to this Privacy Policy 
+
+We may change this Privacy Policy at any time and from time to time. Any changes to this Privacy Policy will be either posted on our Website, brochure and/or made available on request. The most recent version of the Privacy Policy is reflected by the version date located at the bottom of this Privacy Policy. This Privacy Policy is not intended to and does not create any contractual or other legal right in or on behalf of any party. 
+
+## How To Contact Us
+
+If you have any questions about this Privacy Policy or would like to learn more about how we protect privacy, please contact us at:  
+
+
+888-777-4642  
+8 Essex Center Drive  
+Peabody, MA 01960  
+[privacy@studentcity.com](mailto:privacy@studentcity.com)  
+
+
+Privacy Policy: last updated 04-24-13.
