@@ -1,19 +1,19 @@
-> *The following text is extracted and transformed from the liteforex.com privacy policy that was archived on 2012-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121213062645id_/http%3A//www.liteforex.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the liteforex.com privacy policy that was archived on 2013-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130623195340id_/http%3A//www.liteforex.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | LiteForex
 
 [](http://www.liteforex.com/)
 
-  * [Client's Profile](https://secure.liteforex.com/)
+  * [Client's Profile](https://secure.liteforex.com/en/)
   * Live Chat 
 
 
 
-[](http://www.liteforex.com/company/awards/100-world-finance)
+[](http://www.liteforex.com/company/awards/100-world-finance/)
 
 LiteForex respects each individual's right to privacy
 
-[ Opentrading account ](https://secure.liteforex.com/profile/register)
+[ Opentrading account ](https://secure.liteforex.com/en/profile/register)
 * [About us](https://web.archive.org/company/)
 * [Our history](https://web.archive.org/company/history/)
 * [Mission](https://web.archive.org/company/mission/)
