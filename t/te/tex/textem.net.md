@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the textem.net privacy policy that was archived on 2012-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121207171041id_/http%3A//www.textem.net/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the textem.net privacy policy that was archived on 2013-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130623021448id_/http%3A//textem.net/privacy.php) for the most accurate reproduction.*
 
-# Free Text Messaging - Send and Receive Free Text Messages - Text'em
+# Free Text Messaging - Send and Receive Free Text and Picture Messages - Text'em
 
 This is the web site of Got'em Web Solutions Corp.
 
@@ -24,10 +24,10 @@ With respect to Ad Servers: To try and bring you offers that are of interest to 
 
 
 
-Upon request we provide site visitors with access to all information [including proprietary information] that we maintain about them, unique identifier information (e.g., customer number or password) that we maintain about them, transaction information (e.g., dates on which customers made purchases, amounts and types of purchases) that we maintain about them, communications that the consumer/visitor has directed to our site (e.g., e-mails, customer inquiries).
+Upon a subpoena request we provide site visitors with access to all information [including proprietary information] that we maintain about them, unique identifier information (e.g., customer number or password) that we maintain about them, transaction information (e.g., dates on which customers made purchases, amounts and types of purchases) that we maintain about them, communications that the consumer/visitor has directed to our site (e.g., e-mails, customer inquiries).
 
 Consumers can access this information by e-mail us at the above address.
 
 With respect to security: We have appropriate security measures in place in our physical facilities to protect against the loss, misuse or alteration of information that we have collected from you at our site.
 
-If you feel that this site is not following its stated information policy, you may contact us at the above addresses or phone number.
+If you feel that this site is not following its stated information policy, you may contact us at the above addresses.
