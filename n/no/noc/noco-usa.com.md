@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the noco-usa.com privacy policy that was archived on 2012-09-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120920015312id_/http%3A//noco-usa.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the noco-usa.com privacy policy that was archived on 2013-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130623031911id_/http%3A//www.nocousa.com/privacy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy | NOCO
 
@@ -78,7 +78,7 @@ Back to Top
 How can I give you feedback or contact you?
     
 
-Simply [click here](https://web.archive.org/web/20120920015312id_/http%3A//noco-usa.com/contact.aspx). Please note that messages become our property and, unless you direct otherwise, may be used by us for promotional purposes.
+Simply [click here](https://web.archive.org/web/20130623031911id_/http%3A//www.nocousa.com/contact.aspx). Please note that messages become our property and, unless you direct otherwise, may be used by us for promotional purposes.
 
 Back to Top
 
@@ -94,7 +94,7 @@ Experiencing problems with our website. [Report problems](https://web.archive.or
 
 The NOCO Company
 
-23200 Commerce Park Cleveland, OH 44122 United States of America
+30339 Diamond Parkway #102 Glenwillow, OH 44139-5400 United States of America
 
 ### Phone Numbers
 
