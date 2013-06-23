@@ -1,11 +1,11 @@
-> *The following text is extracted and transformed from the cheatbook.de privacy policy that was archived on 2012-10-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121017110119id_/http%3A//www.cheatbook.de/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cheatbook.de privacy policy that was archived on 2013-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130623060916id_/http%3A//www.cheatbook.de/privacy.htm) for the most accurate reproduction.*
 
 # Cheatbook Privacy Statement
 
 |  | |  |  [](http://www.cheatbook.de/) |   
 ---|---  
 |  |   
- |  [Home](http://www.cheatbook.de/ "Cheatbook")   |   [Cheatbook](http://www.cheatbook.de/cheatbk.htm "Cheatbook Issues")   |    [Latest Cheats](http://www.cheatbook.de/new.htm "New PC Codes")   |    [PC Cheat Codes](http://www.cheatbook.de/cheat/archiv.htm "Cheat-Codes Archiv")   |    [Cheatbook-DataBase 2012](http://www.cheatbook.de/cheatbookdatabase2012.htm "Cheatsbook-Database 2012")   |    [Download](http://www.cheatbook.de/down.htm "Download Cheat Tools")   |    [Search for Game](http://www.cheatbook.de/searchengine.htm) |   
+ |  [Home](http://www.cheatbook.de/ "Cheatbook")   |   [Cheatbook](http://www.cheatbook.de/cheatbk.htm "Cheatbook Issues")   |    [Latest Cheats](http://www.cheatbook.de/new.htm "New PC Codes")   |    [PC Cheat Codes](http://www.cheatbook.de/cheat/archiv.htm "Cheat-Codes Archiv")   |    [Cheatbook-DataBase 2013](http://www.cheatbook.de/cheatbookdatabase2013.htm "Cheatsbook-Database 2013")   |    [Download](http://www.cheatbook.de/down.htm "Download Cheat Tools")   |    [Search for Game](http://www.cheatbook.de/searchengine.htm) |   
 | |   
 |  |   
 | |   
@@ -56,4 +56,4 @@
  |  |    
 |  [Games Trainer](http://www.cheatbook.de/trainer/gametrainers.htm "PC Games Trainer")  |   [Find Cheats](http://www.cheatbook.de/searchengine.htm)  |   [Download](http://www.cheatbook.de/down.htm "Download Cheat Tools")  |   [Walkthroughs](http://www.cheatbook.de/wcheat/archiv.htm "PC Games Walkthroughs, Hints and Guides")  |   [Console ](http://www.cheatbook.de/ccheat/archiv.htm "Console Cheat-Codes, WII, Playstation 3, Xbox 360")  |   [Magazine](http://www.cheatbook.de/magazin/magazine.htm)  |   [Top 100](http://www.cheatbook.de/top100cheatscodes.htm)  |   [Submit Cheats, Hints, Tips](http://www.cheatbook.de/submit.htm "Submit Cheat Codes or Tips")  |   [Links](http://www.cheatbook.de/links.htm) |   
 | |   
-| **Top Games:**   [FIFA 2011](http://www.cheatbook.de/files/fifa11.htm "Fifa 11 Codes")  |  [Call of Duty - Modern Warfare 2](http://www.cheatbook.de/files/callofdutymodernwarfare2.htm)  |  [Torchlight 2 Cheats](http://www.cheatbook.de/files/torchlight2.htm)  |  [Moshi Monsters](http://www.cheatbook.de/files/moshimonsters.htm)  |  [Dragon Age - Origins](http://www.cheatbook.de/files/dragonageorigins.htm)  |  [Dead Island Cheats](http://www.cheatbook.de/files/deadisland.htm)  |  [Batman - Arkham City](http://www.cheatbook.de/files/batmanarkhamcity.htm) |  
+| **Top Games:**   [FIFA 2012](http://www.cheatbook.de/files/fifa12.htm "Fifa 12 Codes")  |  [Call Of Duty - Black Ops II](http://www.cheatbook.de/files/callofdutyblackops2.htm)  |  [BioShock Infinite](http://www.cheatbook.de/files/bioshockinfinite.htm)  |  [Lego Batman](http://www.cheatbook.de/files/legobatman.htm)  |  [Dragon Age - Origins](http://www.cheatbook.de/files/dragonageorigins.htm)  |  [Dead Island Cheats](http://www.cheatbook.de/files/deadisland.htm)  |  [Crysis 3 Cheats](http://www.cheatbook.de/files/crysis3.htm) |  
