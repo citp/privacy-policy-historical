@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the freenuts.com privacy policy that was archived on 2012-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121221111012id_/http%3A//freenuts.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freenuts.com privacy policy that was archived on 2013-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130623122905id_/http%3A//freenuts.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
-This privacy policy will show you what of and how your data will be collected and used when visiting the FreeNuts.com website.
+This privacy policy will show you what of and how your data will be collected and used when visiting the FreeNuts.com website. 
 
 When leaving a comment, your IP, email address, name and any other contents you entered will be collected and stored on Free Nuts , as well as [Livefyre](http://freenuts.com/livefyre-or-disqus/ "Livefyre or Disqus?"), since which provides the comment system.
 
