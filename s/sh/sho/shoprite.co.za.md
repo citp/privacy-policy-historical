@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the shoprite.co.za privacy policy that was archived on 2012-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121129054927id_/http%3A//www.shoprite.co.za/pages/127416071/Privacy-Policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shoprite.co.za privacy policy that was archived on 2013-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130623082001id_/http%3A//www.shoprite.co.za/pages/127416071/Privacy-Policy.asp) for the most accurate reproduction.*
 
 # Privacy Policy
 
