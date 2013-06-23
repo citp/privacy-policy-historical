@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the e-conomic.com privacy policy that was archived on 2012-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121205032815id_/http%3A//www.e-conomic.com/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the e-conomic.com privacy policy that was archived on 2013-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130623024503id_/http%3A//www.e-conomic.com/about/privacy-policy) for the most accurate reproduction.*
 
 # e-conomic's online media Privacy Policy
 
@@ -10,7 +10,7 @@ The information we collect from your visit is not personal. In other words, this
 
 In the following, you can read about how we collect information from your visit, why we do it and how your data is protected. 
 
-### Automatically collected data
+## Automatically collected data
 
 Every time you visit one or more of [e-conomic's websites](http://www.e-conomic.com/about/online-presence), we automatically collect data about your visit. This includes: 
 
@@ -34,7 +34,7 @@ Every time you visit one or more of [e-conomic's websites](http://www.e-conomic.
   
 The data is collected using cookies, the so-called "web beacons" and log files. Most websites collect this type of data, so this is standard practice. 
 
-### Why do we collect data about your visit?
+## Why do we collect data about your visit?
 
 We use the non-personal data from cookies, web beacons and log files to learn how you and other visitors use our websites.
 
@@ -44,13 +44,13 @@ We use data collected about user behaviour and tendencies both internally and pu
 
 If you are registered as a user of the e-conomic accounting software, cookies are also used to prefill the log-on fields. 
 
-### About the data you enter when ordering a subscription or a trial
+## About the data you enter when ordering a subscription or a trial
 
 When you order a subscription to e-conomic or a trial, you enter your name, e-mail address and other personal data. These data are used to ensure that our system links you with your subscription/trial version.
 
 Moreover, we use your e-mail address to send you information about the use of the accounting software. Your name, e-mail address and personal information will be treated in confidence and will not be disclosed to any third party. 
 
-### About the data you enter on blogs, wikis or forums or when signing up for a news mail
+## About the data you enter on blogs, wikis or forums or when signing up for a news mail
 
 Special rules apply for the use of e-conomic's blogs, wikis, forums and news mails:
 
@@ -72,7 +72,7 @@ The e-mail address you enter when you sign up for the e-conomic news mail is onl
 
 You can cancel your subscription to the news mail by following the link at the bottom of the e-mail. If you cancel your subscription to the news mail, we will keep your e-mail address to ensure that you will no longer receive news mails from us. 
 
-### How is my personal data protected?
+## How is my personal data protected?
 
 The personal data we collect is stored in a secure environment and treated confidentially. Access to these data is limited to selected e-conomic employees and suppliers.
 
@@ -87,7 +87,16 @@ As a user, you are responsible for the content you publish. We may decide to rem
 
 For further guidelines on publishing content on our websites, please visit our individual sites. 
 
-About e-conomic
+
+
+
+## Related pages
+
+  * [Security with e-conomic](http://www.e-conomic.com/accountingsoftware/security)
+  * [e-conomic technical setup](http://www.e-conomic.com/accountingsoftware/security/technical-setup)
+  * [Take a Free 2-Week Trial](http://www.e-conomic.co.uk/accountingsystem/trial)
+
+
 
 This picture of a cookie clashes with the huge amount of text on this page :)
 
@@ -121,8 +130,6 @@ Your computer gets a so-called IP address from your Internet provider when it is
 
 IP stands for Internet Protocol. An IP address is a unique number and consists of 4 groups of numbers, e.g. 107.34.98.24. The numbers in the IP address are associated with countries, and often also regions and cities.
 
-Changes
-
 We may occasionally have to update these guidelines for personal data.
 
 You will find the most recent guidelines on this page.
@@ -135,8 +142,6 @@ Here you will find links to previous versions of e-conomic's guidelines for pers
   * [Privacy policy for e-conomic's online media before 30 August 2009](http://www.e-conomic.com/about/privacy-policy-before-2009-08-30)
 
 
-
-Questions or suggestions?
 
 If you have any questions to these quidelines or suggestions for improvement, please contact us at: 
 
