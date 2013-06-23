@@ -1,11 +1,13 @@
-> *The following text is extracted and transformed from the insidethegames.biz privacy policy that was archived on 2012-10-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121012020527id_/http%3A//www.insidethegames.biz/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the insidethegames.biz privacy policy that was archived on 2013-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130623210713id_/http%3A//www.insidethegames.biz/privacy-statement) for the most accurate reproduction.*
 
-# Privacy Policy | Legal | insidethegames.biz
+# Privacy Statement - insidethegames.biz - Olympic, Paralympic and Commonwealth Games News
+
+##  Privacy Policy 
 
 Dunsar Media Company Limited ("We") are committed to protecting and respecting your privacy.  
 This policy (together with our [terms of use](http://www.insidethegames.biz/terms-and-conditions) and any other documents referred to on it) sets out the basis on which any personal data we collect from you, or that you provide to us, will be processed by us. Please read the following carefully to understand our views and practices regarding your personal data and how we will treat it.
 
-For the purpose of the Data Protection Act 1998 (the Act), the data controller is Dunsar Media Company Limited of Charterhouse, Legge Street, Birmingham, West Midlands, B4 7EU.
+For the purpose of the Data Protection Act 1998 (the Act), the data controller is Dunsar Media Company Limited of 1 Mortain Close, Caldecotte, Milton Keynes, MK7 8LS.
 
 ### Information we may collect from you
 
