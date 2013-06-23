@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wit.ie privacy policy that was archived on 2012-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121223071926id_/http%3A//www.wit.ie/about_wit/documents_and_policies/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wit.ie privacy policy that was archived on 2013-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130623195947id_/http%3A//www.wit.ie/about_wit/documents_and_policies/privacy_policy) for the most accurate reproduction.*
 
 # Waterford Institute of Technology
 
@@ -8,7 +8,7 @@
 
 **Waterford Institute of Technology** **Privacy Statement**
 
-This is a statement of the practices of Waterford institute of Technology (the "Institute") in connection with the capture of personal data on this website (that is all web pages within the domain www.wit.ie) and the steps taken by the Institute to respect your privacy.
+This is a statement of the practices of Waterford institute of Technology (the "Institute") in connection with the capture of personal data on this website (that is all web pages within the domain [http://www.wit.ie](http://www.wit.ie/)) and the steps taken by the Institute to respect your privacy.
 
 The Institute is not responsible for the content or privacy practices of other websites which may be accessed through the WIT website. It is the Institute’s policy to clearly identify links to external websites and it is your responsibility to satisfy yourself as to the adequacy of the practices of linked sites.
 
