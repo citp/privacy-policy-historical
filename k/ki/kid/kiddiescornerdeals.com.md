@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kiddiescornerdeals.com privacy policy that was archived on 2012-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121224001606id_/http%3A//kiddiescornerdeals.com/2010/01/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kiddiescornerdeals.com privacy policy that was archived on 2013-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130623210148id_/http%3A//kiddiescornerdeals.com/2010/01/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -41,3 +41,5 @@ Nichol is a WAHM of two children, a son who is 9 and a daughter who is 5. She kn
 [Follow this author on Twitter](http://twitter.com/KiddiesCorner "Follow Nichol on Twitter")
 
 [](http://www.digitaltweaker.com/ "Digital Tweaker | Your source for tech news, tutorials, and downloads")
+
+[](http://www.shareasale.com/r.cfm?b=480378&u=336414&m=37350&urllink=&afftrack=)
