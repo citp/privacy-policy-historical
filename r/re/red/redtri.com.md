@@ -1,82 +1,105 @@
-> *The following text is extracted and transformed from the redtri.com privacy policy that was archived on 2012-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121016171521id_/http%3A//www.redtri.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the redtri.com privacy policy that was archived on 2013-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130624014634id_/http%3A//redtri.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Red Tricycle
+# Privacy Policy
 
-## [Privacy Policy](http://www.redtri.com/privacy-policy "Permalink to Privacy Policy")
+**Privacy Policy**
 
-### X
+This privacy policy was last updated on February 4, 2013.
 
-### Editorial policy
+**General**
 
-Just so you know, our newsletters and blog posts are about stores, products, people, events, restaurants, classes, activities, etc., that the editors think are neat-o. This content is not paid for.
+  * Red Tricycle Inc. (“Red Tricycle”) respects your privacy and understands the concerns you may have regarding how we may use personally identifiable information.  This privacy policy identifies and describes the types of personally identifiable information we may collect from or about you when you visit the Red Tricycle website, how we use this information and when we share this information with third parties.  By using our website, you consent to the collection and use of this information by Red Tricycle.  You make the decision whether or not to proceed with any activity that requests personally identifiable information, but please be aware that if you choose not to provide the information requested, you may not be able to use certain features of our site or services.
+  * Please read this privacy policy in its entirety.  We reserve the right to modify, alter, or otherwise update this policy at any time, and we encourage you to check back periodically so that you are always aware of the most current policies and practices that Red Tricycle has in place to protect your personally identifiable information.
 
-All of our content is local to the five markets we cover - Seattle, San Francisco, Portland, Los Angles and San Diego - so if you have a product or story idea, please make sure it is relevant to those markets (i.e. local distribution).
 
-We're not really into product reviews, so don't worry about sending us anything besides a press release/product description. We'll do the rest of the work ourselves (we're sure you can find tons of sites that want to review your product). Please send your info directly to the most relevant editor. See our team bios [here. ](http://www.redtri.com/team)
 
-When you see advertising in the newsletter or on the site, it will be clearly labeled "sponsor," "sponsored content" or "dedicated email." Advertisers do not have any extra  
-say in what we cover editorially. Though we love our advertisers, we want our readers to trust that we're sending them unbiased tidbits of news.
+**What Information Does Red Tricycle Gather About You?**
 
-Favorites* is a highly-selective  advertising program that offers ongoing promotion  
-of local businesses that we love and use ourselves. The sponsored content is labeled as such.
+  * Personally Identifiable Information: We may collect personally identifiable information from you, including your name, email address, physical address, phone number, payment card information and gender when you engage in any of the following activities: order Red Tricycle products through our website; sign up to receive promotional materials via mail or email; or participate in a contest, promotion or survey.  Some of the personally identifiable information we collect from you, including your name, address, phone number, email address, and payment card information, is required in order to process your online purchases, respond to your requests, and contact you about your online purchases, if necessary.  We may collect information regarding your personal or professional interests, demographics, past experience with Red Tricycle products and services, detailed contact preferences or other personally identifiable information. We may also collect publicly available information about you from other sources, such as information from newspapers, blogs, and commercial websites or third party data aggregators; we may use such information to supplement your personally identifiable information maintained by us.  We may also collect personally identifiable information that you voluntarily disclose on the website, absent any request from us.
+  * Automated Information: When you visit the Red Tricycle website, our web servers may automatically collect information that describes how our visitors use and navigate our website.  This information includes the number and frequency of visitors to each web page and the length of their stays, as well as the information that your web browser automatically sends to us, such as the date and time of your visit, your IP address, the web pages and images that you request, the search engine you used to access the website, previous websites you viewed, the type of Internet browser you use, the computer operating system you use.  Examples of other non-personally identifiable information that we may collect include your purchases, cookies, web beacons and information concerning your food preferences.  This enables us to enhance your browsing and shopping experience by tailoring information to fit your personal preferences.
 
-#### Privacy Policy / Your California Privacy Rights
 
-Thank you for visiting redtri.com, a site presented to you by Red Tricycle Inc. ("Red Tricycle").
 
-Your privacy is important to us. To better protect your privacy, we provide this notice explaining our online information practices and the choices you can make about the collection and use of the personally identifiable information you submit at our site.
+**A Special Note About Cookies  **
 
-#### Information We Collect:
+  * Some pages of our website use cookies. Cookies are small pieces of software which are issued to your computer or device and which store and sometimes track information about your use of the site. By using the website you consent to our use of cookies as explained below.
+  * Most of our cookies are necessary for operation of the website or service that you request as a user of the website, such as to remember login information, text you may have entered when you navigate back to a page in the same session. We also use cookies to provide optional features and functionality that you may access on the website. For example, a cookie can help us identify whether you have used our website in the past. We use cookies to customize and personalize the website based on preferences you may have expressed either directly by selecting an option or setting or indirectly by your prior use. We also use cookies that collect information about how you use the website to analyze and optimize the performance of the website in order to give you a better user experience. In some cases, particularly with respect to measuring and analyzing performance of the website, cookies may be placed by our third party service providers.
+  * We and our third party partners may also employ web beacons, also known as clear GIFs or pixel tags, to help better manage content on the website. Web beacons are tiny, clear graphics that are embedded invisibly on web pages. They are used to understand and monitor online movements of users so that we may better understand and improve their experiences on the website. In contrast to cookies, which are stored on a user’s computer hard drive, web beacons are not stored on a user’s computer or device.
+  * We may partner with a third party ad network to either display our advertising on our website or to manage our advertising on other sites. Our ad network partner may use cookies, scripts, web beacons or other technology to collect information about your activities on this and other websites to provide you targeted advertising based upon your interests.
+  * We may analyze and share information collected through cookies with third parties, such as Red Tricycle’ subsidiaries, affiliates, business partners, service providers, and in marketing materials.
+  * Most web browsers automatically accept cookies but, if you prefer, you may take certain steps to control the use of cookies by modifying your browser to reject cookies or to notify you whenever a cookie is sent to your hard drive. You can learn more about cookies and ways to manage them at <http://www.allaboutcookies.org/>. Please be aware that restricting cookies on the website may impact the functionality and performance of the site.
 
-Members of the Red Tricycle community who register can participate in all of our community offerings, which include participating and posting on blogs, in addition to many other activities such as contests, polls and topical newsletters. To become a registered user of our community we need to collect limited personally identifiable information  (your email address). If you login through Facebook, we may have access to additional information.
 
-We also may collect certain non-personally identifiable information when you visit many of our Web pages such as the type of browser you are using (e.g., Firefox, Internet Explorer), the type of operating system you are using (e.g., Windows or Mac OS), and the domain name of your Internet service provider (e.g., America Online, Earthlink).
 
-#### Use and Disclosure of Information:
+**Content You Post  **
 
-We use the personally identifiable information you provide about yourself to respond to your inquiries about our offerings, fulfill your requests for our products, programs, and services, and to offer you other products, programs or services that we believe may be of interest to you.
+  * Please be aware that any messages, information or materials you post on our site are not private, are public, and are subject to the terms of this policy. Please do not submit any information to our site that you would like to be kept private or secure. We do not control or regularly review the messages, information or materials posted in the message boards. It is a condition of your use of the message boards and the website that you do not upload to, post, distribute or transmit to or through the website any messages, information or materials which violate or infringe in any way the rights of others, or which are libelous, defamatory, obscene, pornographic, threatening, abusive, unlawful or would otherwise violate any law, or encourage such conduct, or which, without our express written consent, contains advertising or any commercial solicitation; post or transmit any material that contains a virus or other harmful component; restrict or inhibit anyone from using and enjoying the message boards.
 
-We also use this information to communicate with you, such as to notify you when you have won one of our sweepstakes or contests, to fulfill your request for an online newsletter, or to contact you about your account.
 
-We use the non-personally identifiable information that we collect to improve the design and content of our site and to enable us to personalize your Internet experience.
 
-At Red Tricycle, we may, from time to time, share non-individual, aggregate information (e.g. non-personally identifiable information) about our users internally within Red Tricycle and externally with third parties, such as advertisers and business partners. We also use personal information collected on our site internally within Red Tricycle, however, it is our policy to not disclose externally with third parties personally identifiable information collected on our site, except in the following instances:
+**How Does Red Tricycle Use Your Information?  **
 
-Third Party Businesses  
-From time to time, we may partner with outside third parties to provide you with additional content, products, or services that we believe may be of interest. If you do not wish to receive information from outside third parties, you can unsubscribe by following the instructions at the bottom of any email you may receive and inform us that you no longer wish to receive such correspondences.
+  * We may use information you provide to us for a variety of purposes, including the following: to process purchases, refunds, exchanges, and other transactions; to contact you about questions or communications regarding your order; to respond to your customer service inquiries; to contact you about new products, services, special events and promotions (unless you have elected otherwise in accordance with the “How Can You Access or Change Your Information?” section of this privacy policy): to help us learn about your shopping preferences; to help us improve our website, products, services and other offerings; and to otherwise enhance your shopping experience.
+  * We may also share information that we collect, including personally identifiable information, with third parties to market Red Tricycle products to you. We do, however, provide our users a choice as to whether or not they would like to receive marketing or promotional communications. Users may also from time to time receive up-to-date information on products and services via our e-mail newsletter. Users may opt-out at any time from receiving these communications.
+  * **Does Red Tricycle Share Your Information With Others?**
+  * Except as described in this privacy policy, we do not sell, rent, lease or otherwise distribute your personally identifiable information to third parties.
+  * All personally identifiable information and non-personally identifiable information we collect about you may be shared with our affiliates, subsidiaries, distributors, retailers or marketers of Red Tricycle’ products, Red Tricycle’ partners and/or service providers who may be used to ship products, provide technical support, handle order processing, or otherwise act on Red Tricycle’ behalf for the purpose of marketing and providing Red Tricycle products, administering and operating the website and our business and sending marketing and promotional communications.
+  * We may also share personally identifiable and non-personally identifiable information about you with unaffiliated third parties that collect, manage, analyze or maintain data on our behalf, including website hosting service providers, payment processors, freight forwarders, carriers, companies that conduct or manage our marketing and promotional campaigns, and other third parties that perform services on our behalf (e.g., sending promotions and other communications and conducting contests and surveys).
+  * We may also share your information with third parties when we believe such disclosure is required to (i) comply with laws, regulations and/or government policies; (ii) comply with court orders, legal processes, or government enforcement actions; (iii) establish or exercise our legal rights, protect our rights and interests and those of our other users, or defend against legal claims; or (iv) detect, investigate, prevent, or take action with respect to illegal activities, suspected fraud or misconduct, securities or technical issues, situations involving potential threats to the physical safety of any person, or violations of our terms of use or privacy policies.
+  * In the event that we, or any of our affiliates or subsidiaries, are involved in a business transaction such as a merger, an acquisition, a consolidation, a reorganization, a liquidation, or any form of sale of all or a portion of our stock or assets, we may transfer your personally identifiable information to the buyer.
 
-Agents  
-The personal information provided to Red Tricycle may be transferred, disclosed or shared with third parties who may be engaged by us specifically to handle and deliver certain activities (e.g., discussion boards, sweepstakes, newsletters) and perform other technical and processing functions, such as sending postal mail and e-mail, removing repetitive information from registration lists, programming, providing user services to our users, or otherwise operating our site. They have access to personal information needed to perform their functions, but may not use it for other purposes and have agreed to maintain the confidentiality of such information and have agreed to maintain the confidentiality of such information.
 
-Business Transfers  
-In the event that the assets relating to Red Tricycle are transferred or sold to another entity, personally identifiable information may be transferred to the acquiring entity.
 
-Online Contests and Sweepstakes  
-Red Tricycle may offer the opportunity to enter contests and sweepstakes. Red Tricycle may ask for information such as your full name, e-mail address, birth date, and in some instances, telephone numbers for certain types of contests. Red Tricycle uses this information for the purpose of conducting the contests and sweepstakes and does not (except as set forth herein) disclose such information to third parties, except with a fulfillment house which Red Tricycle uses to help select winners and fulfill prizes and, in some cases, with third-party sponsors. From time to time, Red Tricycle may offer contests and sweepstakes sponsored by third party businesses and may share with such third party businesses entrant information collected by Red Tricycle. In these types of contests and sweepstakes, Red Tricycle will disclose to potential entrants that such information will be so supplied and the identity of the third party to whom such information will be supplied at the time entrant information is collected and will provide potential entrants with the opportunity to opt out of such third party sponsored contests and sweepstakes. However, any information supplied to a third party may be retained by such third party and will be out of the control of Red Tricycle. Personal information collected online from contests and sweepstakes winners may be maintained by Red Tricycle and may be shared with third parties for fulfillment purposes, as described above, as well as internally.
+**How Can You Access or Change Your Information?**
 
-Special Cases  
-We may also disclose personally identifiable information to third parties in order to comply with law or requests by law enforcement agencies, to enforce our [Terms of Use](http://www.parentsconnect.com/help/terms_of_use.jhtml) or to protect the rights, property, or safety of our website, users of our website, and others.
+  * You may access, review and edit the personally identifiable information that you provide to us online. You can also ask us to update your personally identifiable information or communication preferences by contacting us using the information provided in the “Contact Information” section of this privacy policy.  Please note that any request to update your information may take up to 30 days to process and that you may continue to receive communications from Red Tricycle using the previously provided information until your request becomes effective.
+  * Additionally, you may opt-out from use of your personally identifiable information collected online for the purpose of sending such marketing or promotional communications at any time by following the unsubscribe instruction contained within each of the newsletters or promotional communications you receive.
 
-#### Cookies and Log Data
 
-Cookies are information files that your web browser places on the hard drive of your computer when you visit a website. Cookies cannot damage user files, nor can they read information from a user's hard drive. Cookies allow websites to "remember" users' activities on a website as well as users' visits to a site. At Red Tricycle, cookies are used to determine the number of unique visitors to our website over a given period. We do not store any personal information into cookies nor do we link or combine information collected through cookies to any personal information submitted by users when participating in our activities. Log data collected on web servers both within Red Tricycle control and under the control of Red Tricycle's third party ad service provider, who is required to maintain such data on a confidential basis, supplies Red Tricycle with aggregate information about the number of visits to different pages on our site. Red Tricycle uses such aggregate information to improve access to our content based on our visitors' browsers and operating system types to make our content available to as many users as possible. We do not link the "log data" collected to personally identifiable information submitted by users when participating in our activities.
 
-#### Security
+**[How Does Red Tricycle Protect Your Information?]**
 
-Red Tricycle has taken steps to ensure that personally identifiable information collected is secure, including limiting the number of people who have physical access to our database servers as well as electronic security systems and password protections which guard against unauthorized access. Red Tricycle is intended for domestic visitors and, consequently, is specifically directed towards residents of the United States.
+  *  Transactions placed online are processed through a third party vendor that uses Secure Socket Layer (“SSL”) technology to protect your personally identifiable information.  SSL encrypts your order information, including your name, address, and payment card number before it is transmitted online.]
+  *   * Of course, the security of any data transmission over the internet cannot be guaranteed, and any information that you transmit to us is at your own risk.
 
-#### Updates
 
-Red Tricycle reserves the right, in its sole discretion, to change, modify, or otherwise alter this Privacy Policy at any time. Such changes and/or modifications shall become effective immediately upon the posting thereof in this space. Please review this Privacy Policy periodically. Your continued use of the Site following the posting of changes and/or modifications will constitute your acceptance of the revised Privacy Policy.
 
-For your information, this page was last updated on Sept 14, 2010.
+**Notification of Changes**
 
-#### Contact Us
+  * If we make any material changes that result in the use of personally identifiable information in a manner different from that stated at the time of collection, we will first attempt to notify you via e-mail and provide you with the choice as to whether or not you will allow us to use your information in this different manner. A notice will also be posted on our website notifying all users of the change.
 
-If you have any questions regarding this Privacy Policy, please contact us at:
 
-admin@redtri.com
 
-#### Your California Privacy Rights
+**Does Red Tricycle Collect Information From Children Under the Age of 13?**
 
-California Civil Code Section 1798.83 permits our visitors who are California residents to request certain information regarding its disclosure of personal information to third parties for their direct marketing purposes. To make such a request, please send an e-mail to admin@redtri.com.
+  * The Red Tricycle website is intended for general audiences and is not targeted to or intended for use by children.  We do not intentionally collect personally identifiable information from children under the age of thirteen.  If we become aware that a child under the age of thirteen has submitted personally identifiable information through the Red Tricycle website without prior verifiable parental consent, we will remove such information from our files.
+
+
+
+**  Links To Third Party Sites**
+
+  * While using this website, you may be linked or directed to other websites hosted by third parties.  For example, our website includes social media features, such as the Facebook “Like” button Widgets and the “Share” button.  These features may collect your IP address, which page you are visiting on our website, and may set a cookie to enable the feature to function properly. Red Tricycle does not control the dissemination of these cookies.  This privacy policy does not describe the information collection and disclosure practices of such third parties.  We do not control, and are not responsible for, the privacy practices and policies of such third parties or the content of these third party websites.  Your interactions with these features are governed by the privacy policy of those third parties. We encourage you to review the privacy policies and policies of such third parties.
+
+
+
+**United States Only**
+
+This website is intended for users from the United States of America only. All matters relating to this site are governed by the laws of the State of California in the United States. If you are located outside of the United States and you contact us, please be advised that any information you provide to us will be transferred to the United States and that by submitting information you explicitly authorize this transfer and the processing of this information within the United States.  Any personally identifiable information that we collect from you will be treated in accordance with this privacy policy.
+
+**  California Privacy Rights (For California Residents)**
+
+  * California law gives California residents the right to ask us for a notice describing the categories of personally identifiable information we share with third parties or affiliates for their direct marketing purposes. The notice will identify the categories of information shared and will include a list of the third parties and affiliates with which it has been shared, along with their names and addresses. If you are a California resident and would like a copy of this notice, please contact us through one of the communication methods described below in the “Contact Information” section.  Please allow 30 days for a response.
+
+
+
+**  Acceptance of Privacy Policy**
+
+  * By using the website, you signify your assent to our privacy policy. If you do not agree with this privacy policy, please do not use our website. Your continued use of this website following posting of changes to these terms will mean you accept those changes.
+
+
+
+**Contact Information**
+
+  * We are very sensitive to your privacy concerns and welcome your feedback.  Please contact our Customer Service Team at admin@redtri.com if you have any questions or comments about our privacy policy.
+
+
