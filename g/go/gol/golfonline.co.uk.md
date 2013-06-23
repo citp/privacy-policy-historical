@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the golfonline.co.uk privacy policy that was archived on 2012-10-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121006060234id_/http%3A//help.golfonline.co.uk/PrivacyandSecurity) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the golfonline.co.uk privacy policy that was archived on 2013-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130623032846id_/http%3A//www.golfonline.co.uk/help/Privacy-and-Security) for the most accurate reproduction.*
 
-# Privacy and Security : Help Section
+# Golfonline : Privacy and Security
 
 Since we launched in 2000, online privacy has been a priority for us.  It’s changed a lot, but over the years we have found that it is best to do two things.  Make sure that our privacy is in line with the law, and a recognised industry standard.  As such, our privacy policy is in line with both the [Data Protection Act 1998](http://www.legislation.gov.uk/ukpga/1998/29/contents) and the best practices of the [Which? Web Trader Code of Practice](http://www.trustedwebtraders.com/Internet-Code-of-Practice).  Below are the main subjects our customers need information about, but for anything else, please feel free to [contact us](http://www.golfonline.co.uk/contact-us) anytime. 
 
@@ -22,7 +22,11 @@ When you submit sensitive information via the website, your information is prote
 
 Newsletters
 
-GolfOnline.co.uk sends out regular newsletters with select discounts and offers, as well as exclusive content and product insight in conjunction with leading golfing brands. Typically we send between 1 and 2 newsletters per month to an email address of your choice. This is an opt-in system, and you can always opt-out by going to your account management section. This newsletter is only between us at GolfOnline, and you, our customers and subscribers. As such, we do not sell, or pass on, your information to any third parties.
+GolfOnline.co.uk sends out regular newsletters with select discounts and offers, as well as exclusive content and product insight in conjunction with leading golfing brands. Typically we send between 1 and 2 newsletters per month to an email address of your choice. This is an opt-in system so after subscribing you will receive a confirmation email; and you can always opt-out by going to your account management section or by simply clicking the "unsubscribe" link at the bottom of a newsletter. 
+
+This newsletter is only between us at GolfOnline, and you, our customers and subscribers. As such, we do not sell, or pass on, your information to any third parties. When subscribing to our newsletter we collect the following mandatory information: First Name, Last Name and Email Address. 
+
+We hope you find our information and resources useful. Should you have any questions about this policy, please contact our team at [team@golfonline.co.uk](mailto:team@golfonline.co.uk?subject=Newsletter%20subscription).
 
 Legal Notices
 
