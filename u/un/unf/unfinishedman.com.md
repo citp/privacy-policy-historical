@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the unfinishedman.com privacy policy that was archived on 2012-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121214065820id_/http%3A//www.unfinishedman.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the unfinishedman.com privacy policy that was archived on 2013-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130624015807id_/http%3A//www.unfinishedman.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Unfinished Man
 
