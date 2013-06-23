@@ -1,9 +1,9 @@
-> *The following text is extracted and transformed from the clubmed.us privacy policy that was archived on 2012-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121101005026id_/http%3A//www.clubmed.us/cm/privacy-policy_p-115-l-US-pa-CONFIDENTIALITE_115US-ac-ad.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the clubmed.us privacy policy that was archived on 2013-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130624003150id_/http%3A//www.clubmed.us/cm/privacy-policy_p-115-l-US-pa-CONFIDENTIALITE_115US-ac-ad.html) for the most accurate reproduction.*
 
 # 
 
 Your Personal Information is solely intended for use by members of the Club Méditerranée Group.  
-We respect the privacy of our web site visitors and follow strict guidelines for protecting and maintaining any and all information we may have about you. This responsibility is fundamental to our business. In connection with meeting this responsibility, Club Med Sales, Inc. is a member of the Direct Marketing Association and participates in its DMA Privacy Promise to American consumers. A visitor providing information through this site may delete personal information that we maintain in the ordinary course of our business. You can exercise this option by calling 1-800 Club Med (toll free), or by sending a letter to: Guest Relations, Club Med Sales, Inc., 2251 E. Broadway Rd. Ste 204, Tempe, AZ 85282 USA.
+We respect the privacy of our web site visitors and follow strict guidelines for protecting and maintaining any and all information we may have about you. This responsibility is fundamental to our business. In connection with meeting this responsibility, Club Med Sales, Inc. is a member of the Direct Marketing Association and participates in its DMA Privacy Promise to American consumers. A visitor providing information through this site may delete personal information that we maintain in the ordinary course of our business. You can exercise this option by calling 1-800 Club Med (toll free), or by sending a letter to: Guest Relations, Club Med Sales, Inc., 2151 E. Broadway Road, Suite 217, Tempe, AZ 85282 USA.
 
 Within the text of this policy, Club Med Sales, Inc. answers the following questions:  
  **  
