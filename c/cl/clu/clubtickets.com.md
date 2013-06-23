@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the clubtickets.com privacy policy that was archived on 2012-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121121164738id_/http%3A//www.clubtickets.com/info/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the clubtickets.com privacy policy that was archived on 2013-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130623215104id_/http%3A//www.clubtickets.com/info/legal/privacy) for the most accurate reproduction.*
 
 # Privacy Statement - Clubtickets.com
 
@@ -25,6 +25,9 @@
   * We do not sell, rent or exchange mailing lists.
   
 
+
+
+  
 
 
   
