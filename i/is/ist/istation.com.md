@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the istation.com privacy policy that was archived on 2012-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121130080702id_/http%3A//www.istation.com/Legal/PrivacyStatement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the istation.com privacy policy that was archived on 2013-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130623021744id_/http%3A//www.istation.com/Legal/PrivacyStatement) for the most accurate reproduction.*
 
 # Privacy Statement - Istation
 
@@ -20,22 +20,6 @@ Phone: 214-237-9300
 Fax: 972-643-3441
 
 Istation will only collect, store, and use Your personal information for defined purposes, such as to provide access to, and use of, the Resources and to provide customer service and support. Istation will not sell Your personal information to any unaffiliated third party, except pursuant to a sale of all or substantially all of Istation’s assets or pursuant to any business combination (such as a merger) to which Istation is a party. At any time You may contact Istation with any privacy questions or concerns that You may have using the Contact Information above. 
-
-  1. What information is Collected?
-  2. How is information used?
-  3. How are Student Results and Student Information Made Available?
-  4. Does Istation share my information with third parties?
-  5. How do I access my information? How do I change my information? 
-  6. How does Istation protect kids’ privacy? 
-  7. Support Services 
-  8. Web site security 
-  9. Resource Security
-  10. Use of “Cookies”
-  11. Third-Party Sites 
-  12. Other Information 
-  13. Can Istation change this Privacy Statement? 
-
-
 
 **What information is collected?**  
 We collect information voluntarily submitted to Istation. Examples of such information include
