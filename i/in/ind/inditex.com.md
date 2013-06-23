@@ -1,0 +1,13 @@
+> *The following text is extracted and transformed from the inditex.com privacy policy that was archived on 2013-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130624013543id_/http%3A//www.inditex.com/en/privacy_policy) for the most accurate reproduction.*
+
+# INDITEX Group - Privacy policy
+
+### Privacy policy
+
+All the personal data provided by you will be stored on a file with the purposes of, among other assumptions that my specified in each case, handling your requests for information, and where appropriate, manage their access to certain services or functionalities of the Web Site, by Industria de Diseño Textil S.A.(Inditex, S.A.), with registered business address at Av. de la Diputación, Edificio Inditex, 15142, Arteixo, A Coruña (Spain) as Data Controller. Inditex, S.A. undertakes to respect the confidentiality of personal information and guarantee your rights to access, rectification, erasure and opposition, which you are entitled to exercise by sending a written communication to this effect to the attention of "Función LOPD" to the address given above or by sending an e-mail to [funcionlopd@inditex.com](mailto:funcionlopd@inditex.com). Where necessary, we may request your passport or any other valid form of ID.
+
+To fulfill the purposes above, it may be required to disclose or give access to the information provided to us to certain Inditex Group companies (whose activities are related to the areas of e-commerce, decoration, textile products finished fashion and home, as well as any other supplemental to the above, including cosmetics and leather goods) so we understand that, by registering and providing your personal data through this Web Site or through other means as e-mail, you expressly authorize us to make such communications or allow the access to such Inditex Group companies.
+
+Information about Cookies: This Web Site uses cookies, small text files containing information about your navigation through this site, of which main goal is to improve your web experience. You can find out more about the cookies we use, their purposes and other relevant information in the following link: [http://www.inditex.com/en/cookies](https://web.archive.org/en/cookies).
+
+By accepting this Privacy Policy you give us you consent to the use of the cookies implemented on this Web Site as described on the abovementioned page.
