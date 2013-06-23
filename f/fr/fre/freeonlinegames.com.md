@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the freeonlinegames.com privacy policy that was archived on 2012-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121229135216id_/http%3A//www.freeonlinegames.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freeonlinegames.com privacy policy that was archived on 2013-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130623203953id_/http%3A//www.freeonlinegames.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Free Online Games (FOG.COM)
+
+[ ](http://www.fog.com/en)
 
 ## Privacy Policy
 
@@ -35,4 +37,6 @@ If site users have any questions or suggestions regarding our privacy policy, pl
 For the amusement and greater good of all the gamers of FreeOnlineGames.com:  
 We reserve the right to alter, delete, jump on, kick, smackdown, nuke or do with the reviews whatever we please. If you have any objections with that, please refrain from posting - thank you. 
 
-[ ](https://web.archive.org/avatar)
+[ ](http://www.freeonlinegames.com/en)
+
+[](http://www.freeonlinegames.com/game/think-tanks)
