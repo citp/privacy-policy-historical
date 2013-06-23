@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the anayou.com privacy policy that was archived on 2012-07-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120707000107id_/http%3A//www.anayou.com/index.php/en/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the anayou.com privacy policy that was archived on 2013-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130623231506id_/http%3A//www.anayou.com/index.php/en/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
