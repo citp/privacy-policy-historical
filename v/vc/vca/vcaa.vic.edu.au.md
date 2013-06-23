@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the vcaa.vic.edu.au privacy policy that was archived on 2012-08-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120813071551id_/http%3A//www.vcaa.vic.edu.au/footer/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vcaa.vic.edu.au privacy policy that was archived on 2013-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130623035513id_/http%3A//www.vcaa.vic.edu.au/Pages/footer/privacy.aspx) for the most accurate reproduction.*
 
-# None
+# Pages - Privacy
 
 The Victorian Curriculum and Assessment Authority (VCAA) is a statutory authority established under the _Education and Training Reform Act 2006_. All personal information collected by the VCAA is handled in accordance with the _Information Privacy Act 2000_.
 
@@ -29,23 +29,23 @@ You have the right to request access to information held about you by the VCAA a
 
 If you have concerns about privacy issues in relation to this website, please contact:
 
-**VCAA Information Services**   
-**Telephone:** (03) 9651 4328.
+**Communications**  
+ **Phone:** (03) 9032 1627.
 
 Correspondence concerning access to your personal information should be addressed to:
 
-**Manager, Corporate Governance**   
+**The Privacy Officer**  
 Victorian Curriculum and Assessment Authority  
-41 St Andrews Place  
-East Melbourne  
-Victoria 3002
+Level 1, 2 Lonsdale Street  
+Melbourne, VICTORIA 3000  
+Australia
 
-**Email:** privacy.vcaa@edumail.vic.gov.au.
+**Email:** [privacy.vcaa@edumail.vic.gov.au](mailto:privacy.vcaa@edumail.vic.gov.au).
 
-###  Related Information
+### Related Information
 
-  * [Privacy Policy](https://web.archive.org/aboutus/policies/privacypolicy.html)
-  * [Privacy Notice for Students](https://web.archive.org/aboutus/policies/privacystudent.html)
-  * [Student Consent to Disclosure of Information to other Organisations](https://web.archive.org/aboutus/policies/privacysupport.html)
+  * [Privacy Policy](https://web.archive.org/Pages/aboutus/policies/privacypolicy.aspx)
+  * [Privacy Notice for Students](https://web.archive.org/Pages/aboutus/policies/privacystudent.aspx)
+  * [Student Consent to Disclosure of Information to other Organisations](https://web.archive.org/Pages/aboutus/policies/privacysupport.aspx)
 
 
