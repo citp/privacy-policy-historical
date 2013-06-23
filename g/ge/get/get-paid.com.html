@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the get-paid.com privacy policy that was archived on 2012-10-22.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121022233546id_/http%3A//www.get-paid.com/privacy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the get-paid.com privacy policy that was archived on 2013-06-24.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130624015818id_/http%3A//www.get-paid.com/privacy.php) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 <link href="http://www.get-paid.com/favicon.ico" rel="shortcut icon">
@@ -10,11 +10,11 @@
 <meta name="description" content="Get paid to earn easy money online by filling out offers such as paid surveys. Gptreasure offers many ways to earn money online while working at home.">
 <title>Gptreasure - Privacy Policy</title>
 
-<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="http://www.get-paid.com/js/jquery.js"></script>
+<script type="text/javascript" async="" src="https://stats.g.doubleclick.net/dc.js"></script><script type="text/javascript" src="http://www.get-paid.com/js/jquery.js"></script>
 
 
 <script type="text/javascript" src="http://www.get-paid.com/js/jcorner.js"></script>
-<script type="text/javascript" src="http://www.get-paid.com/js/custom.js"></script>
+    <script type="text/javascript" src="http://www.get-paid.com/js/custom.js"></script>
 <script type="text/javascript" src="http://www.get-paid.com/js/jquery-ui-1.8.16.custom.min.js"></script>
 <script type="text/javascript" src="http://www.get-paid.com/js/organictabs.jquery.js"></script>
 <!--[if lt IE 9]>
@@ -116,9 +116,11 @@ window.fbAsyncInit = function() {
 				type: "GET",
 				url: "fbregister.php",
 				data:{
-					'access_token':resp.authResponse.accessToken
+					'access_token':resp.authResponse.accessToken,
+                                        'wFBFrom': 'fb-login-status'
 				},
 				success: function(data) {
+                                    //alert(data);
 					if (data == 'redirect')
 					{
 											}
@@ -157,26 +159,26 @@ var WRInitTime=(new Date()).getTime();
                 <ul>
                     <div id="earncashbox">
                          <div style="float:left">
-                            <div id="earncashboxtitle">CLASSICAL</div>
                             <div id="earncashboxcontent">
                                 <div class="earncashbutton"><a href="http://www.get-paid.com/offers.php?tab=offers">Offers</a></div>
-                                <div class="earncashbutton"><a href="http://www.get-paid.com/offers.php?tab=pathoffers">Path Offers</a></div>
                                 <div class="earncashbutton"><a href="http://www.get-paid.com/offers.php?tab=surveys">Surveys</a></div>
                                 <div class="earncashbutton"><a href="http://www.get-paid.com/offers.php?tab=points">Points</a></div>
                                 <div class="earncashbutton"><a href="http://www.get-paid.com/offers.php?tab=dailysurveys">Daily Surveys</a></div>
-                                <div id="earncashlastleft" class="earncashbutton"><a href=""></a></div>
-                            </div>
-                        </div>
-                        <div id="earncashmidline"><div id="earncashmidline1"></div><div id="earncashmidline2"></div><div id="earncashmidline3"></div></div>
-                        <div style="float:left">
-                            <div id="earncashboxtitle">EXTERNAL</div>
-                            <div id="earncashboxcontent">
-                                <div class="earncashbutton"><a href="http://www.get-paid.com/offers.php?tab=videos">Videos</a></div>
+								<div class="earncashbutton"><a href="http://www.get-paid.com/offers.php?tab=videos">Videos</a></div>
                                 <div class="earncashbutton"><a href="http://www.get-paid.com/offers.php?tab=tasks">Tasks</a></div>
+																<div id="earncashlastleft" class="earncashbutton"><a href=""></a></div>
+								                            </div>
+                        </div>
+                        <div id="earncashmidline"><div id="earncashmidline2"></div><div id="earncashmidline3"></div></div>
+                        <div style="float:left">
+                            <div id="earncashboxcontent">
                                 <div class="earncashbutton"><a href="http://www.get-paid.com/offers.php?tab=radiumone">Radium One</a></div>
                                 <div class="earncashbutton"><a href="http://www.get-paid.com/offers.php?tab=paymentwall">Payment Wall</a></div>
 								<div class="earncashbutton"><a href="http://www.get-paid.com/offers.php?tab=matomy">Matomy</a></div>
-                                <div id="earncashlastright" class="earncashbutton"><a href="http://www.get-paid.com/offers.php?tab=supersonicads">Supersonic Ads</a></div>
+								<div class="earncashbutton"><a href="http://www.get-paid.com/offers.php?tab=tokenads">Token Ads</a></div>
+								<div class="earncashbutton"><a href="http://www.get-paid.com/offers.php?tab=wallads">Wall Ads</a></div>
+								<div class="earncashbutton"><a href="http://www.get-paid.com/offers.php?tab=superrewards">Super Rewards</a></div>
+                                <div id="earncashlastright" class="earncashbutton"><a href="http://www.get-paid.com/offers.php?tab=supersonicads">Supersonic</a></div>
                             </div>
                         </div>
                     </div>
@@ -401,6 +403,8 @@ var WRInitTime=(new Date()).getTime();
           <a href="http://www.get-paid.com/faqs.php">Read our FAQs</a><br>
           <a href="http://www.get-paid.com/contact.php">Contact Us</a><br>
 		  <a href="http://www.get-paid.com/blog/">Check Blog</a><br>
+		  <a href="http://www.get-paid.com/aboutus.php">About Us</a><br>
+		  <a href="http://www.get-paid.com/howitworks.php">How it works</a><br>
         </div>
         <div class="block_text">
        	  <h3>Get Paid With Us!</h3>
@@ -411,7 +415,6 @@ var WRInitTime=(new Date()).getTime();
         <div class="block_text">
        	         	  <h3><a href="/make-money/">Resources</a></h3>	       	
         	
-			<a href="http://www.get-paid.com/how-to-make-money-fast/">How to Make Money Fast</a><br>
 			<a href="http://www.get-paid.com/how-to-make-extra-money/">How to Make Extra Money</a><br>
 			<a href="http://www.get-paid.com/earn-extra-income-from-home/">Earn Extra Income</a><br>
 			<a href="http://www.get-paid.com/work-from-home/">Work from Home</a><br>
@@ -422,16 +425,15 @@ var WRInitTime=(new Date()).getTime();
 		<div class="block_text">
        	  <h3>More Resources</h3>	       	
         	
-			<a href="http://www.get-paid.com/ways-to-make-money-online/">Ways to Make Money Onine</a><br>
+			<a href="http://www.get-paid.com/ways-to-make-money-online/">Ways to Make Money Online</a><br>
 			<a href="http://www.get-paid.com/earn-money/">Earn Money</a><br>
-			<a href="http://www.get-paid.com/how-to-get-rich/">How to Get Rich</a><br>
 			<a href="http://www.get-paid.com/i-need-money/">I Need Money</a><br>
 			<a href="http://www.get-paid.com/make-money-online/">Make Money Online</a><br>
 			<a href="http://www.get-paid.com/ways-to-make-money/">Ways to Make Money</a><br>
 		</div>
         <a href="http://www.get-paid.com/referral.php" class="bottom_img_link"><img src="http://www.get-paid.com/img/referralsqure.png"></a>
         <div id="copyright">
-    		Copyright © 2008 - 2012 | <a href="http://www.get-paid.com/"><b>Paid Surveys</b></a><b><a> by Get-Paid.Com</a></b><a> - All Rights Reserved | </a><a href="http://www.get-paid.com/privacy.php">Privacy Policy</a> | <a href="http://www.get-paid.com/specialterms.php">Special Terms &amp; Updates</a>
+    		Copyright © 2008 - 2012 | <a href="http://www.get-paid.com/"><b>Paid Surveys</b></a><b><a> by Get-Paid.Com</a></b><a> - All Rights Reserved | </a><a href="http://www.get-paid.com/privacy.php">Privacy Policy</a> | <a href="http://www.get-paid.com/specialterms.php">Special Terms &amp; Updates</a> | <a href="http://www.get-paid.com/earningdisclaimer.php">Earnings Disclaimer</a>
     	</div>
     </div>
     
@@ -469,7 +471,8 @@ if(typeof ClickTale=='function') ClickTale(14317,0.5,"www03");
 
   (function() {
     var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    <!--ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';-->
+    ga.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'stats.g.doubleclick.net/dc.js';
     var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
   })();
 
