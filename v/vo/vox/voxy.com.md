@@ -1,93 +1,110 @@
-> *The following text is extracted and transformed from the voxy.com privacy policy that was archived on 2012-03-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120301004557id_/http%3A//voxy.com/privacy/en) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the voxy.com privacy policy that was archived on 2013-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130623045716id_/http%3A//voxy.com/privacy-policy) for the most accurate reproduction.*
 
 # VOXY :: Learn a language from life
 
-Last Updated: July 11, 2011
+Last Revised:  May, 2013
 
-Voxy, (“Voxy” or “we” or “us”) is committed to protecting your privacy.  We created this Privacy Policy (the “Privacy Policy”) to demonstrate our commitment to fair information practices and the protection of your privacy as you visit the [www.voxy.com](http://www.voxy.com/) website (the “Site”) and use the services available on, through or in connection with the Site, including via mobile application (the “Services”). Your use of the Site and the Services is governed by this Privacy Policy and the [Terms of Use](http://voxy.com/terms/en/), which are expressly incorporated herein.
+Voxy, Inc. (“Voxy,” “we,” or “us”) welcomes you to www.Voxy.com and any and all applications or mobile applications offered by Voxy, Inc (the “Site”). This Privacy Policy describes how Voxy collects and receives information about you through the Site, Services and Content and through Voxy’s businesses, including offline.  The Privacy Policy together with the  [Terms of Use](http://voxy.com/terms/en/)  govern your use of the Site and Voxy’s collection and use of your information.
 
-## 1\. The Privacy Policy, Site & Services
+## 1\. Acceptance of Privacy Policy
 
-This Privacy Policy is only applicable to the Site and the Services and not to any other websites or services that you may be able to access from the Site or through the Services, including but not limited to via an advertisement or content link, each of which may have data collection, storage and use practices and policies that differ materially from this Privacy Policy. Some of the Services are accessible without registering with us, but to actively engage with the Voxy, you must register as a member.  If you use our Site or Services without registering, the only information we collect will be non-personal information through the use of “cookies” or “web beacons” (please see Section 2).  If you choose to register with us, we require you to submit certain information personally identifying you, which may include your first and last name, e-mail address, mobile telephone number, and/or billing information, as applicable (collectively, “Personal Information”).  You are responsible for ensuring the accuracy of the Personal Information you submit to Voxy. Inaccurate information will affect your use of the Site and Services and our ability to contact you as described in this Privacy Policy.
+Each time you access, use, or browse any Site or provide personal information to Voxy offline, you signify your acceptance of the then-current Privacy Policy.  If you do not accept this Privacy Policy, you are not authorized to provide information to Voxy or use the Site and must discontinue use of the Site immediately.
 
-## 2\. Non-Personal Information
+Should the Privacy Policy be revised, Voxy will post the changes on the Site which will be effective immediately upon posting.  Any material changes to the terms of the Privacy Policy will apply only to information collected thereafter, unless you provide consent.  You can determine when the Privacy Policy was last revised by referring to the “Last Revised” legend at the top of this page.
 
-Even if you do not register with Voxy, we collect information other than Personal Information (“Non-Personal Information”) about your use of our Site and Services.
+If you provide your personal information to Voxy offline, the Privacy Policy applies to Voxy’s collection and use of your information. Voxy also may provide paper copies of the Privacy Policy when it collects information from you offline.  In addition to this Privacy Policy, you agree that the  provisions in the [Terms of Use](http://voxy.com/terms/en/) also govern Voxy’s collection and use of your information collected offline. 
 
-**A. Cookies**
+This Privacy Policy exists in English and other translations. In the event of inconsistencies between versions, the English version will prevail.
 
-We use “cookies” to customize your experience with the Site and Services and to store your Credentials so you do not have to re-enter them each time you visit the Site or access the Services.  Cookies are small computer files that are transferred to your hard drive and contain information such as your username, user preferences, the web pages you’ve visited and the activities you’ve performed while using the Site and Services. We do not link the information stored in cookies to any of your Personal Information.  You may block or delete cookies from your hard drive; however, by disabling cookies, you may not have access to all of the Services.  Some of our business partners also use cookies to provide us with anonymous, aggregate data and information regarding our users. We do not have access or control over these cookies, and our Privacy Policy does not cover the use of third party cookies.
+## 2\. Types of Information We Collect
 
-**B. Web Beacons**
+We may collect personal information from you including, without limitation, non-public information about you that helps Voxy identify you, such as first and last name, birth date, email address, home address, telephone number, password, preferences and interests, income, education level, ethnicity, marital status, homeowner status, shopping habits, Site usage, age, gender and other information that is not otherwise publicly available (collectively, “Personal Information”).
 
-We or our third party tracking utility company also use “web beacons” to collect anonymous information about your use of our Site, the websites of selected sponsors and advertisers, and our Services. Web beacons are tiny graphic image files embedded in a web page or email that provide a presence on the web page or email and send back to its home server information from the user’s browser. The information collected by web beacons allows us to statistically monitor how many people are using our Site and Services, selected sponsors' and advertisers' websites and using our Services and for what purposes. We do not link Non-Personal Information from web beacons to Personal Information.
+We also may collect non-personal information about your use of the Site such as your IP address, usage statistics, browsing history, types of computers and/or mobile devices accessing the Site, Content or Services,  type of computer operating system you use (e.g., Microsoft Windows or Mac OS), the type of browser you use (e.g., Firefox, Chrome, Internet Explorer), and the domain name of your internet service provider (collectively, “Traffic Data”).
 
-**C. Traffic Data**
+## 3\. How We Collect Information
 
-We automatically track and collect the following categories of information when you visit our Site or use our Services: (1) Internet Protocol (“IP”) addresses; (2) domain servers; (3) types of computers and/or mobile devices accessing the Site or Services; (4) types of web or mobile browsers used to access the Site or Services; (5) referring source which may have sent you to the Site or Service; and (6) other information associated with the interaction of your browser and the Site or Services (collectively “Traffic Data”). We do not link Non-Personal Information from Traffic Data to Personal Information.
+We may collect personal information from you when you use the Site or register an account to access Content, Services or Activities provided on the Site or to request to receive emails or newsletters that may be offered on the Site or offline. Personal Information collected by Voxy may be stored and processed in the United States in accordance with the laws of the United States, or in other jurisdiction. By using the Site and submitting your personal information to Voxy online or offline, you expressly consent to the storage and processing of your personal information in the United States in accordance with the laws of the United States, or in other jurisdictions.
 
-## 3\. Personal Information
+We may combine Personal Information we collect through our Site or offline with information that we obtain from our affiliates, suppliers, vendors, merchants, licensors, partners or sponsors, and other sources (e.g., offline records or publicly available information).  We will treat the combined information as personal information.
 
-**A. Registration**
+Voxy may automatically receive and record non-personal information on our server logs from your browser as well as through other analysis of the Site.   We also may collect information using cookies, web beacons or similar technologies, or through third parties using similar technologies.
 
-In order for you to access certain areas of the Site and use certain Services, we may require you to register and provide us with certain Personal Information. Personal Information may include contact data, such as your first and last name, e-mail address, mobile telephone number and billing information, as applicable. We use the Personal Information that you provide to provide the Services you select, respond to your questions and send you messages about Site and Service maintenance and updates.  You may choose not to provide us with any Personal Information. In such case, you can still access and use parts of the Site and certain Services; however you will not be able to access and use those Services that require registration.
+A. Cookies
 
-**B. Feedback**
+We use “cookies” to customize your experience with the Site, Content and Services and to store your information so you do not have to re-enter them each time you visit the Site or access the Content or Services.  Cookies are small computer files that are transferred to your hard drive and contain information such as your username, user preferences, the web pages you’ve visited and the activities you’ve performed while using the Site, Content or Services. You may block or delete cookies from your hard drive; however, by disabling cookies, you may not have access to all of the Services or Content.  Some of our business partners also use cookies to provide us with anonymous, aggregate data and information regarding our users. We do not have access or control over these cookies, and our Privacy Policy does not cover the use of third party cookies.
 
-Subject to the Privacy Policy, if you submit feedback to or otherwise contact Voxy, we may use any of the information you submit in connection with such inquiry, or any other Personal Information and Non-Personal Information when responding.
+B. Web Beacons
 
-**C. Updating Your Personal Information**
+We or our third party tracking utility company also use “web beacons” to collect  information about your use of our Site, the websites of selected sponsors and advertisers, and our Content and Services. Web beacons are tiny graphic image files embedded in a web page or email that provide a presence on the web page or email and send back to its home server information from the user’s browser. The information collected by web beacons allows us to statistically monitor how many people are using our Site and Services, selected sponsors’ and advertisers’ websites and using our Services and for what purposes.
 
-You may update your Personal Information at any time by clicking here or by contacting us at: [support@voxy.com](mailto:support@voxy.com).
+## 4\. How We Use Your Information
 
-**D. Children**
+We may use the information we collect:
 
-We do not knowingly collect Personal Information from children under the age of 13.
+  * To provide information to third parties that may provide you with personalized content and advertising about their stores, restaurants, Activities, products and services.
+  * To alert you to new features, terms, Content, Services, Activities, stores, restaurants or products
+  * To send emails or newsletters, and to provide you with personalized content in the newsletters.
+  * To monitor and analyze information regarding your browsing and viewing preferences.
+  * To analyze our users’ demographics and interests.
+  * To administer Content, Services or Activities.
+  * To process and respond to your inquiries.
+  * To improve the Site.
+  * For the purposes for which you provided the information.
+  * To enforce the [Terms of Use](http://voxy.com/terms/en/).
 
-## 4\. Our Use and Disclosure of Your Information 
 
-We may use your Personal Information to send you information about the Site or Services, to contact you when necessary, including to send you a registration verification email, and in conjunction with your use of certain Services. We may use your Traffic Data to customize and tailor your experience with the Site and Services, in communications, to display content that we think you might be interested in and according to your preferences.
 
-We may share your Personal Information and Traffic Data with our business partners who assist us by performing core services related to our operation of the Site and Services and/or by making certain Services available to our users (such as website and mobile platform hosting, data storage, payment processing and security). Those business partners shall be bound to uphold the same standards of security and confidentiality that we have promised to you in this Privacy Policy, and they will only use your Personal Information to carry out their specific business obligations to and to provide you with Site related services.
+## 5\. Communications with You
 
-In addition, we may transfer your Personal and Non-Personal Information to another company in connection with a merger, sale or acquisition by or of Voxy. In this event, we will use reasonable efforts to notify you before any of your Personal or Non-Personal Information is transferred and becomes subject to a different privacy policy. Voxy does not share, sell, rent or trade your Personal Information with any third parties for their promotional purposes.
+You authorize Voxy to transmit email to you to respond to your communications and administer Services, Content or Activities.  If you participate in any Services, Content or Activities, you agree that Voxy is authorized to contact you by to send information and documents to you by email or postal mail.  Unsubscribe instructions are included in each promotional email from Voxy or you may sent an email requesting to opt-out of communications to  [support@voxy.com](mailto:support@voxy.com).  Please note that such requests may take up to ten (10) days to become effective.  You may not opt out of receiving communications regarding your dealings with Voxy or the Site, Content, Services  or technical information about the Site.
 
-We reserve the right to disclose your Personal Information as required by law and when we believe that disclosure is necessary to protect our rights and/or comply with a judicial proceeding, court order, or legal process.
+## 6\. Information Sharing with Third Parties
 
-## 5\. Information Collected By Third Parties
+Voxy may disclose the information it collects about you:  (i) to affiliates, merchants, licensors, partners or sponsors, and other third parties for their own direct marketing purposes, such as to provide information to you about their stores, restaurants, activities, products, services and other important information; (ii) to third parties to provide analytics for advertising purposes or to confirm or update information provided by you; (iii) to suppliers, vendors and others who help Voxy provide services to you, such as outsourcing one or more of the functions described in this Privacy Policy; (iv) to third parties in the event of any reorganization, merger, sale, joint venture, assignment, transfer or disposition of all or any portion of Voxy’s business or operations (including without limitation in connection with bankruptcy or any similar proceedings); or (v) as otherwise authorized by you.
 
-Certain Site content and Services may be served on websites or mobile platforms hosted and operated by a company other than Voxy (“Third Party Contractors”). Voxy does not disclose your Personal Information to these Third Party Contractors without your consent, but you should be aware that any information you independently disclose to a Third Party Contractor is not subject to this Privacy Policy. Voxy does not endorse and is not responsible for the privacy practices of these Third Party Contractors and you should review the privacy policy of any Third Party Contractor to which you volunteer information to understand how that Third Party Contractor collects and uses your personally identifiable information.
+We also may share your information in response to a subpoena, legal order or official request, when we believe you have acted in violation of the Terms, to investigate, prevent or take action regarding suspected illegal activities, fraud or potential threats, or exercise legal rights or defend against claims, when we believe that doing so may protect your safety or the safety of Voxy or others, or as otherwise permitted or required by law.
 
-## 6\. Links To Other Websites
+We also may use and share non-personally identifiable information with third parties. Additionally, we may take personally identifiable information and de-identify it and share it in a de-identified or aggregated form with advertisers, business partners, and/or third parties in order to analyze Site usage, perform services on our Site or others’ Site, improve our services, improve our user experience, or for similar purposes.  We will not re-identify such data and we will ask our contracting parties to agree to keep the data in its de-identified form.
 
-The Site and communications transmitted via the Services may feature advertisements and contain links to other websites with which Voxy has no affiliation (“Third Party Sites”). Voxy does not share your personal information with Third Party Sites and is not responsible for their privacy practices. Some websites may have the look and feel of our Site. Please be aware that you may be on a different website and that this Privacy Policy only covers our Site. Should you decide to visit a Third Party Site, we suggest that you read its privacy policy carefully.
+## 7\. Children
 
-## 7\. Security
+The Site is not directed toward children under 13 years of age nor does Voxy knowingly collect information from children under age 13 on the Site or offline.  If you are under 13, you are not permitted to register for emails or newsletters or to otherwise submit any personally identifiable information to Voxy.  If you provide information to Voxy through the Site, you represent that you are 13 years of age or older. If you are between 13 and 17 years of age, when you visit, browse, use, or submit personal information to the Site, you represent that you have the permission of a parent or guardian to do so and who agrees to these Terms on your behalf.   If you are a parent or guardian and believe Voxy may have inadvertently collected personal information from your child, please notify Voxy immediately by sending a message detailing the basis of your belief and your request to:
 
-The Personal Information we collect about you is stored on a secure, password-protected server and only authorized personnel have access to your Personal Information. We use industry-standard encryption technologies with respect to the receipt and transfer of Personal Information. Nevertheless, despite our best efforts, no transmission over the Internet or cellular network and no data storage method can be guaranteed to be safe 100% of the time.
+Voxy, Inc.  
+632 Broadway, Suite 802  
+New York, NY 10012  
+USA
 
-## 8\. Communication Opt-Out
+## 8\. Protection of Personal Information
 
-If you no longer wish to receive communications from Voxy, you may opt-out of receiving them by following the instructions included in each such communication, by emailing us at [support@voxy.com](mailto:support@voxy.com) or by sending a request via postal mail to: 
+Voxy uses reasonable administrative, physical and electronic security measures to protect against the loss, misuse and alteration of personal information.  No transmission of data over the internet is guaranteed to be completely secure. It may be possible for third parties not under the control of Voxy to intercept or access transmissions or private communications unlawfully. While we strive to protect personal information, neither Voxy nor our service providers can ensure or warrant the security of any information you transmit to us over the internet.  Any such transmission is at your own risk.
 
-**Voxy, Inc.  
-85 East Tenth Street, #5M  
-New York, NY 10003  
-USA**
+## 9\. Updating your Information
 
-## 9\. Transfer & Storage of Data
+You are responsible for keeping your information current.  You may update your information by contacting us at [support@voxy.com](mailto:support@voxy.com) or editing your account information. We will use reasonable efforts to process any change you make; provided, however, that requests to delete information are subject to Voxy’s internal reporting, processing and retention policies and all applicable legal obligations.
 
-The Site is hosted on servers in the USA. Accordingly, if you are located outside of the USA, the Personal Information you provide Voxy will be transferred to the USA. By submitting your Personal Information, you consent to its transfer and storage in the USA and its use in accordance with the purposes for which it was originally collected.
+## 10\. Notice of Privacy Rights of California Residents
 
-## 10\. Changes to this Privacy Policy
+If you are a California resident and have provided personal information to Voxy, you are entitled by law to request certain information regarding any disclosure that may have been made by Voxy to third parties of personal information for their direct marketing purposes.  To make such a request, send a message to [support@voxy.com](mailto:support@voxy.com)
 
-We reserve the right to change the Privacy Policy at any time, in our sole discretion. Upon any change in the Privacy Policy, we will post the amended agreement on the Site with notice of the changes and/or email or send you a “short message service” (“SMS”) via mobile telephone notifying you of the nature of the modifications and providing a link to the modified document for your review. In all cases, use of information we collect is subject to the Privacy Policy in effect at the time such information is collected.
+The message should specify that you seek your “California Customer Choice Privacy Notice.”  Please allow thirty (30) days for a response. Voxy is required to respond to only one request per customer each year, and is not required to respond to requests made by means other than through the above e-mail address.
 
-**Copyright © 2011 Voxy, Inc. All rights reserved.**
+We will not share your personal information with third parties for their direct marketing purposes if you request that we do not do so.  You may make such a request by sending us a message at [support@voxy.com](mailto:support@voxy.com)
 
-If you have any questions, please contact us here or by postal mail at:
+When contacting us, please indicate your name, address, email address, and what personal information you do not want us to share with third parties for their direct marketing purposes. Please note that there is no charge for controlling the sharing of your personal information or for processing this request.
 
-**Voxy, Inc.  
-85 East Tenth Street, #5M  
-New York, NY 10003  
-USA**
+## 11\. Links
+
+You may have the opportunity to follow links on the Site to other site that may be of interest to you. Voxy endeavors to only link to reputable organizations. Because other site may not be hosted or controlled by Voxy, we are not responsible for the privacy practices of those sites or the content provided thereon. Therefore, the privacy policies with respect to other site may differ from those applicable to the Site.  We encourage you to review the privacy policies of each other site. This Privacy Policy only applies to information collected and maintained by Voxy.
+
+## 12\. Questions?
+
+If you have any questions or concerns regarding this Privacy Policy, please contact us at:
+
+Voxy, Inc.  
+632 Broadway, Suite 802  
+New York, NY 10012  
+USA
+
+**Copyright © 2013 Voxy, Inc. All rights reserved**
