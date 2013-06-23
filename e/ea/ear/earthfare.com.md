@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the earthfare.com privacy policy that was archived on 2012-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121214205847id_/http%3A//www.earthfare.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the earthfare.com privacy policy that was archived on 2013-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130623075304id_/http%3A//www.earthfare.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Earth Fare, the healthy supermarket
+# Privacy Policy
+
+[Menu»]()
 
 At Earth Fare, we recognize that your privacy is important. This Privacy Policy covers the Earth Fare website. We may also post supplementary privacy notices and information on our website.
 
@@ -22,7 +24,7 @@ Earth Fare asks for your email address on our subscription. This allows us to pr
 
 ## Use of Cookies
 
-When you visit Earth Fare’s website, we may send one or more cookies – small files containing a string of characters – to your computer, mobile device, or other machine. This gives your browser a unique identifier, and we can identify you with this cookie. We use cookies to improve the quality of our service and your experience, including for storing your preferences, improving search results, and tracking how people search.
+When you visit Earth Fare’s website, we may send one or more cookies – small files containing a string of characters – to your computer, mobile device, or other machine. This gives your browser a unique identifier, and we can identify you with this cookie. We use cookies to improve the quality of our service and your experience, including for storing your preferences, improving search results, and tracking how people search.
 
 ## Viewing and Updating Personal Information
 
@@ -42,7 +44,7 @@ Earth Fare uses industry-standard security software and systems.
 
 ## Links
 
-Our website may contain links to other websites. Our Privacy Policy does not apply to these websites, so you should read the Privacy Policy for each such linked website before using it.
+Our website may contain links to other websites. Our Privacy Policy does not apply to these websites, so you should read the Privacy Policy for each such linked website before using it.
 
 ## Changes to this Privacy Policy
 
