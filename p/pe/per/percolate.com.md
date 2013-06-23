@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the percolate.com privacy policy that was archived on 2012-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121220132528id_/http%3A//percolate.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the percolate.com privacy policy that was archived on 2013-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130623184226id_/http%3A//percolate.com/privacy) for the most accurate reproduction.*
 
 # Privacy || Percolate
 
@@ -48,7 +48,7 @@ Our Services are not directed to people under 13. If you become aware that your 
 
 We do not sell, trade or otherwise disclose our users' information to any third parties. If at any time after registering for for the site, signing up for any of our marketing emails or otherwise choosing to receive information from us, you change your mind then please send us a request specifying your new choice. To opt out of marketing or promotional emails, please either click unsubscribe in the body of the email communication or email us at [privacy@percolate.com](mailto:privacy@percolate.com).
 
-You may also write to us at: Percolate Industries, Inc. 481 Broadway, 2nd Floor, New York, NY 10013
+You may also write to us at: Percolate Industries, Inc. 107 Grand Street, 2nd Floor, New York, New York 10013
 
 If you prefer to call, our number is (646) 470-8346
 
