@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the alexandalexa.com privacy policy that was archived on 2012-10-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121025042721id_/http%3A//www.alexandalexa.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the alexandalexa.com privacy policy that was archived on 2013-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130623211145id_/http%3A//www.alexandalexa.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Alexandalexa
+# Privacy Policy | AlexandAlexa
 
 ALEXANDALEXA.COM ("AA", "we", "our", "us") and its subsidiary companies respect the privacy rights of its online visitors ("you", "your", "yours") and recognise the importance of protecting the information collected about them. We have adopted a Privacy Policy that guides how we collect, store and use the information that you provide us with.
 
