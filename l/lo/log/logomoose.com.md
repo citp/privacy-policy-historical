@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the logomoose.com privacy policy that was archived on 2012-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121016045750id_/http%3A//www.logomoose.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the logomoose.com privacy policy that was archived on 2013-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130624012106id_/http%3A//www.logomoose.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - LogoMoose
+# Privacy Policy • LogoMoose
 
 LogoMoose takes your privacy seriously. This privacy policy describes what personal information we collect and how we use it. See this [privacy policy primer](http://www.synclastic.com/privacy/privacy-policies/) to learn more about privacy policies in general.
 
