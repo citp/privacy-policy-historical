@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the animekuro.com privacy policy that was archived on 2012-02-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120216214159id_/http%3A//www.kuroanime.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the animekuro.com privacy policy that was archived on 2013-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130623040325id_/http%3A//www.kuroanime.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy – KuroAnime - Watch Anime Online - Stream Anime Episodes And Movies Free
+# Privacy Policy – KuroAnime - Watch Anime Online Free
 
 **Advertising**  
 We use third-party advertising companies to serve ads when you visit our Web site.  
