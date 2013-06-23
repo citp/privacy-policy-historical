@@ -1,13 +1,6 @@
-> *The following text is extracted and transformed from the celebrities-galore.com privacy policy that was archived on 2012-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121221081413id_/http%3A//celebrities-galore.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the celebrities-galore.com privacy policy that was archived on 2013-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130623175045id_/http%3A//www.celebrities-galore.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
-
-### Numerological Calculator
-
-What do the numbers have to say about you?
-
-  
-
 
 |  | 
 
