@@ -1,0 +1,712 @@
+<!--The following is the downloaded HTML source of the bloomsbury.com privacy policy that was archived on 2013-06-23.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130623031909id_/http%3A//www.bloomsbury.com/us/privacy-policy) for the most accurate reproduction.-->
+
+<!DOCTYPE html><html class="no-js" lang="en"><!--<![endif]--><head>
+	<meta charset="utf-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+	<title>Bloomsbury - Privacy &amp; Cookies</title>
+	<meta name="description" content="">
+	<meta name="author" content="Skyron LTD">
+	<meta name="keywords" content="">
+	<!-- css -->
+	
+
+<link href="/Themes/BloomsGray/Content/css/bundles" rel="stylesheet">
+
+
+
+
+	<!-- Google code for Analytics tracking -->
+<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript">
+var _gaq = _gaq || [];
+_gaq.push(['_setAccount', 'UA-5152043-1']);
+_gaq.push(['_trackPageview']);
+
+(function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+})();
+</script>
+
+
+	<!-- custom css -->
+	
+	<!--These need to be at the end of the page to ensure that all the controls requiring scripts have been rendered-->
+	<link type="text/css" href="/asset.axd?id=ugAAAB-LCAAAAAAABADsvQdgHEmWJSYvbcp7f0r1StfgdKEIgGATJNiQQBDswYjN5pLsHWlHIymrKoHKZVZlXWYWQMztnbz33nvvvffee--997o7nU4n99__P1xmZAFs9s5K2smeIYCqyB8_fnwfPyJ-8Uezjx597xd_tPro0Ucn1bLNl-3dvZ3d3fHe-OHu_kejj8756yV93eZlXhdvx9NqsaiW42nT0NfVR492fskobHBZNG3mvt_tfl-3pft275d8_5d8f_TRtOUG79q78s0l_RngMSU8dw926JePHrX1Ov8l_08AAAD__1MvTQ-6AAAA" rel="stylesheet">
+
+	<!-- js -->
+	
+     <script src="/bundles/modernizr?v=lpXV-qmUoefWPJVTRjSOw7c4sasI4PpT1yjq0II2nz01"></script>
+
+
+	<!-- nopscript  -->
+	
+	
+	<!-- news  -->
+	
+	<!-- blog  -->
+	 
+	<!-- favicon2  -->
+	    <link rel="icon" href="http://www.bloomsbury.com/favicon.ico">
+    <link rel="shortcut icon" href="http://www.bloomsbury.com/favicon.ico">
+
+	<!-- profiler  -->
+        <script src="/bundles/jquery?v=z7pcXHGe8Ea2o0NbyHKSX7cBZLhGHgAOehrytyap9tY1"></script>
+
+
+	<!-- ================================================================ 
+		Skyron JS
+================================================================= -->
+	<!-- Selectivizr for IE8 and below -->
+	<!--[if (gte IE 6)&(lte IE 8)]>
+	  <script src="/Scripts/selectivizr-min.js"></script>
+	<![endif]-->
+	<!-- scripts concatenated and minified via ant build script-->
+	
+   
+	<!-- Include Chrome Frame -->
+	
+	<script type="text/javascript">
+		var nop_store_directory_root = "http://www.bloomsbury.com/";
+	</script>
+	 
+
+	
+	
+	
+
+     
+       <script src="/bundles/customheader?v=3-8IhtdkGHDll_ZaVi5Rmv1_WIaS_Wfj0EoPk8BcWe41"></script>
+
+	
+
+
+
+	
+   
+</head>
+<body>
+	
+	<div class="container">
+		<script type="text/javascript">
+		//<![CDATA[
+			//replace the first parameter with "true" to use popup notifications
+			AjaxCart.init(true, '#utils #basket-qty', '', '#basketPopup', '#utils #bookshelf-qty', '#bookshelfBasketPopup', '#utils #subscription-qty', '#subscriptionBasketPopup');
+		  //]]>
+		</script>
+		<header id="header">
+	<a href="/us/" id="logo" class="en-US">
+		&nbsp;
+	</a>
+  
+    <ul class="companyNav">
+    <li><a href="/us/">Home</a></li>
+    <li><a href="/us/company/contact-us/">Contact Us</a></li>
+    <li><a href="/us/customer-help/">Help</a></li>
+</ul>
+   
+	
+  <div id="locationForm">
+          <label>Select your Bloomsbury location</label>
+    <script type="text/javascript">
+       
+    </script>
+<select id="customerlanguage" name="customerlanguage" onchange="onLanguageChanged();"><option value="2">UK</option>
+<option selected="selected" value="1">US</option>
+<option value="4">Australia</option>
+</select>    <script type="text/javascript">
+
+        $(document).ready(function () {
+            $("#cancel").click(function (e) {
+                e.preventDefault();
+                $('#location-change-warning-window').data('tWindow').close();
+                resetLanguageDropdown();
+            });
+        });
+
+         function resetLanguageDropdown() {
+            $("#customerlanguage").val('1');
+        }
+        
+        function showCartWarning() {
+                $('#location-change-warning-window').data('tWindow').center().open();
+            }
+
+        function onLanguageChanged() {
+
+       //Check if language selection requires shopping cart items to be removed or not
+        $.ajax({
+            cache: false,
+            type: "POST",
+            url: "/us/common/IsClearCartOnLanguageChange",
+            dataType: "json",
+            traditional: true,
+            beforeSend :  function(xhr){
+                displayAjaxLoading(true);
+            },
+            success: function (result) {
+                if (result.Success == "1") {
+                    showCartWarning();
+                }
+                else if (result.Success == "0") {
+                    ChangeBloomsburyLocation();
+                }
+            },
+            error: function (xhr, textStatus, errorThrown) {
+                displayBarNotification(textStatus, 'error', 3500);
+            },
+            complete: function (xhr, textStatus) {
+                displayAjaxLoading(false);
+            }
+        });
+
+        }
+
+        function ChangeBloomsburyLocation()
+        {
+            var selectedCustomerLanguage = document.getElementById('customerlanguage');
+            var selectedLanguageId = selectedCustomerLanguage.options[selectedCustomerLanguage.selectedIndex].value;
+            var changeLanguageActionUrl = '/us/common/SetLanguage?langid=languageplaceholder';
+            changeLanguageActionUrl = changeLanguageActionUrl.replace("languageplaceholder", selectedLanguageId);
+            setLocation(changeLanguageActionUrl);
+        }
+
+        function languageChangeConfirmed() {
+            var selectedCustomerLanguage = document.getElementById('customerlanguage');
+            var selectedLanguageId = selectedCustomerLanguage.options[selectedCustomerLanguage.selectedIndex].value;
+            var changeLanguageActionUrl = '/us/common/ClearCartOnLanguageChange?langid=languageplaceholder';
+            changeLanguageActionUrl = changeLanguageActionUrl.replace("languageplaceholder", selectedLanguageId);
+            setLocation(changeLanguageActionUrl);
+        }
+    </script>
+<div class="t-widget t-window" id="location-change-warning-window" style="display:none"><div class="t-window-titlebar t-header">&nbsp;<span class="t-window-title">You are about to change your location</span><div class="t-window-actions t-header"><a class="t-link" href=""><span class="t-icon t-close">Close</span></a></div></div><div class="t-window-content t-content" style="overflow:auto;width:400px">
+<form action="/us/common/ClearCartOnLanguageChange" langid="languageplaceholder" method="post">        <table style="text-align: left;">
+            <tbody><tr>
+                <td>
+                    Items in your basket cannot be carried over to a different region, and some products may not be available to order due to territorial rights
+                </td>
+            </tr>
+            <tr>
+                <td>
+                    <button type="button" class="t-button t-state-default" onclick="languageChangeConfirmed()">Continue</button>
+                    <button id="cancel" type="button" class="t-button t-state-default">Cancel</button>
+                </td>
+            </tr>
+        </tbody></table>
+</form>    </div></div>
+  </div>
+
+  
+    
+</header>
+<!-- #header -->
+<div id="utils">
+    <script type="text/javascript">
+
+    function onDataBindingAutoSuggest(e) {
+     var gid = $('#Gid').val();
+        if ($('#q').val().length > 2 && gid != '3' ) {
+            var searchModel = {
+                Gid: gid,
+                Q: $('#q').val()
+            };
+            e.data = searchModel;
+        }
+        else {
+            return false;
+        }
+    }
+
+    function onErrorAutoSuggest(args) {
+        //the current XMLHttpRequest object
+        var xhr = args.XMLHttpRequest;
+
+        var title = xhr.responseText.split("<title>")[1].split("</title>")[0];
+        alert(title);
+    }
+
+
+</script>
+<div id="searchForm">
+<form action="/us/search" method="get"><input class="t-widget t-autocomplete t-input" id="q" name="q" type="text">        <label class="searchIn">in</label>
+<select data-val="true" data-val-number="The field Gid must be a number." data-val-required="&amp;#39;Gid&amp;#39; must not be empty." id="Gid" name="Gid"><option value="1"> The Whole Site</option>
+<option value="2"> By Author</option>
+<option value="3">By ISBN</option>
+<option value="4"> By Title</option>
+<option value="5"> By Category</option>
+</select>        <button type="submit" class="searchSubmit" value="Search" onclick="LoadWaiting(true);">
+            <span>Search</span></button>
+</form></div>
+
+    <ul id="myAccountActions">
+        <li id="logout"><a href="/us/login" class="btn">Log in</a></li>
+
+        <li id="myBookshelf" class="myBookshelfHeaderLink"><a id="bookshelf-qty" href="/us/login?type=BookshelfCheckout&amp;returnUrl=%2Fus%2Fbookshelf" class="btn">Bookshelf
+            (0)</a>
+            <ul>
+                <li></li>
+            </ul>
+        </li>
+    
+        <li id="mysubscription" class="mySubscriptionHeaderLink"><a id="subscription-qty" href="/us/subscriptioncart" class="btn">Subscription
+            (0)</a>
+            <ul>
+                <li></li>
+            </ul>
+        </li>       
+
+     
+    
+</ul>
+
+
+<article id="basketPopup">
+
+
+<header>
+	<h3>
+         Your Basket is empty!     
+    </h3>     
+</header>
+</article>
+
+<article id="bookshelfBasketPopup">
+
+<header>
+	<h3>
+         Your Bookshelf is empty!     
+    </h3>     
+</header>
+</article>
+
+<article id="subscriptionBasketPopup">
+
+<header>
+	<h3>
+         Your Basket is empty!     
+    </h3>     
+</header>
+</article>
+
+
+</div>
+
+		    <nav id="mainNav">
+    <ul>            <li class="inactive menu1">
+                    <a href="/us/academic/">Academic</a>
+
+                    <ul class="subNav">
+                        <li>
+                            <a href="/us/academic/academic-subjects/">Browse Subjects</a>
+                         </li>
+                        <li>
+                            <a href="/us/academic/for-academics/">For Academics</a>
+                         </li>
+                        <li>
+                            <a href="/us/academic/for-authors/">For Authors</a>
+                         </li>
+                        <li>
+                            <a href="/us/academic/for-librarians/">For Librarians</a>
+                         </li>
+                        <li>
+                            <a href="/us/academic/for-students/">For Students</a>
+                         </li>
+                        <li>
+                            <a href="/us/academic/exam-copies/">Examination Copies</a>
+                         </li>
+                        <li>
+                            <a href="/us/academic/journals/">Journals</a>
+                         </li>
+                        <li>
+                            <a href="/us/academic/news-and-media/">News &amp; Media</a>
+                         </li>
+                        <li>
+                            <a href="/us/academic/online-resources-and-ebooks/">Online Resources &amp; Ebooks</a>
+                         </li>
+                        <li>
+                            <a href="/us/academic/reference/">Reference</a>
+                         </li>
+                        <li>
+                            <a href="/us/academic/series/">Series</a>
+                         </li>
+                    </ul>
+            </li>
+            <li class="inactive menu2">
+                    <a href="/us/bloomsbury/">Bloomsbury</a>
+
+                    <ul class="subNav">
+                        <li>
+                            <a href="/us/bloomsbury/bloomsbury-press" target="_self">Bloomsbury Press</a>
+                         </li>
+                        <li>
+                            <a href="/us/bloomsbury/bloomsbury-reader/">Bloomsbury Reader</a>
+                         </li>
+                    </ul>
+            </li>
+            <li class="inactive menu3">
+                    <a href="/us/fiction/">Fiction</a>
+
+                    <ul class="subNav">
+                        <li>
+                            <a href="/us/fiction/bloomsbury-reader/">Bloomsbury Reader</a>
+                         </li>
+                        <li>
+                            <a href="/us/fiction/general" target="_self">General</a>
+                         </li>
+                        <li>
+                            <a href="/us/fiction/mystery-thriller/">Mystery &amp; Thriller</a>
+                         </li>
+                        <li>
+                            <a href="/us/bloomsbury/fiction/short-stories/">Short Stories</a>
+                         </li>
+                        <li>
+                            <a href="/us/communities/reading-group-guides/" target="1">Reading Guides</a>
+                         </li>
+                    </ul>
+            </li>
+            <li class="inactive menu4">
+                    <a href="/us/bloomsbury/non-fiction/">Non-Fiction</a>
+
+                    <ul class="subNav">
+                        <li>
+                            <a href="/us/non-fiction/the-arts/">The Arts</a>
+                         </li>
+                        <li>
+                            <a href="/us/non-fiction/biography-memoir/">Biography &amp; Memoir</a>
+                         </li>
+                        <li>
+                            <a href="/us/non-fiction/cooking-food-drink/">Cooking &amp; Food</a>
+                         </li>
+                        <li>
+                            <a href="/us/non-fiction/current-events-politics/">Current Events &amp; Politics</a>
+                         </li>
+                        <li>
+                            <a href="/us/non-fiction/general/">General</a>
+                         </li>
+                        <li>
+                            <a href="/us/bloomsbury/non-fiction/health-psychology/">Health &amp; Psychology</a>
+                         </li>
+                        <li>
+                            <a href="/us/non-fiction/history/">History</a>
+                         </li>
+                        <li>
+                            <a href="/us/non-fiction/humor/">Humor</a>
+                         </li>
+                        <li>
+                            <a href="/us/non-fiction/parenting/">Parenting</a>
+                         </li>
+                        <li>
+                            <a href="/us/non-fiction/philosophy-religion/">Philosophy &amp; Religion</a>
+                         </li>
+                        <li>
+                            <a href="/us/non-fiction/pop-culture/">Pop Culture</a>
+                         </li>
+                        <li>
+                            <a href="/us/reference/">Reference</a>
+                         </li>
+                        <li>
+                            <a href="/us/non-fiction/science-nature/">Science &amp; Nature</a>
+                         </li>
+                        <li>
+                            <a href="/us/non-fiction/sports/">Sports</a>
+                         </li>
+                        <li>
+                            <a href="/us/non-fiction/travel/">Travel</a>
+                         </li>
+                    </ul>
+            </li>
+            <li class="inactive menu5">
+                    <a href="/us/childrens/">Kids &amp; Teens</a>
+
+                    <ul class="subNav">
+                        <li>
+                            <a href="/us/childrens-teens/awards/">Awards</a>
+                         </li>
+                        <li>
+                            <a href="/us/bloomsbury-spark/">Bloomsbury Spark</a>
+                         </li>
+                        <li>
+                            <a href="/us/childrens-teens/board/">Board Books</a>
+                         </li>
+                        <li>
+                            <a href="/us/childrens-teens/chapter/">Chapter Books</a>
+                         </li>
+                        <li>
+                            <a href="/us/childrens-teens/middle/">Middle Grade</a>
+                         </li>
+                        <li>
+                            <a href="/us/childrens-teens/picture/">Non-Fiction</a>
+                         </li>
+                        <li>
+                            <a href="/us/childrens/picture-books/">Picture Books</a>
+                         </li>
+                        <li>
+                            <a href="/us/communities/teachers-librarians/" target="_self">Teachers, Librarians, &amp; Parents</a>
+                         </li>
+                        <li>
+                            <a href="/us/childrens-teens/teens/">Teens</a>
+                         </li>
+                    </ul>
+            </li>
+            <li class="inactive menu6">
+                    <a href="/us/special-interest/">Special Interest</a>
+
+                    <ul class="subNav">
+                        <li>
+                            <a href="/us/special-interest/business-management/">Business Management</a>
+                         </li>
+                        <li>
+                            <a href="/us/academic/academic-subjects/drama-and-performance-studies/" target="_self">Drama</a>
+                         </li>
+                        <li>
+                            <a href="/us/special-interest/natural-history/">Natural History</a>
+                         </li>
+                        <li>
+                            <a href="/us/special-interest/nautical/">Nautical</a>
+                         </li>
+                        <li>
+                            <a href="/us/special-interest/reference-yearbooks/">Reference &amp; Yearbooks</a>
+                         </li>
+                        <li>
+                            <a href="/us/special-interest/sport-fitness/">Sport &amp; Fitness</a>
+                         </li>
+                        <li>
+                            <a href="/us/special-interest/visual-arts/">Visual Arts</a>
+                         </li>
+                        <li>
+                            <a href="/us/special-interest/writing/">Writing</a>
+                         </li>
+                        <li>
+                            <a href="/us/special-interest/wisden/">Wisden</a>
+                         </li>
+                    </ul>
+            </li>
+            <li class="inactive menu7">
+                    <a href="/us/authors/">Authors</a>
+
+                    <ul class="subNav">
+                        <li>
+                            <a href="/us/events/all" target="_self">Author Events</a>
+                         </li>
+                        <li>
+                            <a href="/us/authors/submissions/">Submissions</a>
+                         </li>
+                    </ul>
+            </li>
+            <li class="inactive menu8">
+                    <a href="/us/communities/">Communities</a>
+
+                    <ul class="subNav">
+                        <li>
+                            <a href="/us/customer/newsletter" target="_self">Newsletters</a>
+                         </li>
+                        <li>
+                            <a href="/us/communities/reading-group-guides/">Reading Groups</a>
+                         </li>
+                        <li>
+                            <a href="/us/communities/teachers-librarians/">Teachers, Librarians, &amp; Parents</a>
+                         </li>
+                    </ul>
+            </li>
+            <li class="inactive menu9">
+                    <a href="/us/company/">Company</a>
+
+                    <ul class="subNav">
+                        <li>
+                            <a href="/us/company/about-us/">About Us</a>
+                         </li>
+                        <li>
+                            <a href="http://www.bloomsbury-ir.co.uk/html/media/m_pressreleases.html" target="_blank">Announcements</a>
+                         </li>
+                        <li>
+                            <a href="/us/company/careers/">Careers</a>
+                         </li>
+                        <li>
+                            <a href="/us/company/catalogs/">Catalogs</a>
+                         </li>
+                        <li>
+                            <a href="/us/company/contact-us/">Contact Us</a>
+                         </li>
+                        <li>
+                            <a href="http://www.bloomsbury-ir.co.uk/" target="_blank">Investor Relations</a>
+                         </li>
+                        <li>
+                            <a href="/us/company/company-permissions/">Permissions</a>
+                         </li>
+                        <li>
+                            <a href="/us/company/rights/">Rights</a>
+                         </li>
+                        <li>
+                            <a href="/us/company/trade/">Trade</a>
+                         </li>
+                    </ul>
+            </li>
+    </ul>
+</nav>
+    <!-- #mainNav -->
+
+
+
+		
+
+		<div id="main">
+			<div class="pageContent">
+    
+    <div class="mod intro">
+    <header>
+		<h2>   Privacy &amp; Cookies</h2>
+	</header>
+</div>
+<p><strong></strong>Bloomsbury Publishing Plc. (”we” “our” “us”) are committed to protecting and respecting your privacy. This policy (together with our <a href="/uk/terms/">Terms &amp; Conditions</a> and any other documents referred to on it) sets out the basis on which any personal data we collect from you, or that you provide to us, will be processed by us. Please read the following carefully to understand our views and practices regarding your personal data and how we will treat it. By submitting personal data to <a href="http://www.bloomsbury.com" target="_blank">www.bloomsbury.com</a> and any of our affiliated web sites including but not limited to <a href="http://www.bergpublishers.com" target="_blank">www.bergpublishers.com</a>, <a href="http://www.wisden.com" target="_blank">www.wisden.com</a> and <a href="http://www.absolutepress.co.uk" target="_blank">www.absolutepress.co.uk</a>&nbsp; (each a “Website” and together the “Websites”) you consent to the collection, storage, use and disclosure of such personal data in accordance with the provisions of this privacy policy.<br><br>For the purpose of the Data Protection Act 1998 (the “Act”) the data controller is Bloomsbury Publishing Plc. of 50 Bedford Square, London WC1B 3DP (registered in England &amp; Wales under Company number 01984336) with ICO registration number Z7552956.<br><br>Information we may collect from you<br><br>We may collect and process the following data about you:<br><br>•&nbsp; Information that you provide by filling in forms on our Website. This includes information provided at the time of registering to use our Website, subscribing to a service provided by us, purchasing publications through our Website, posting material on or to our Website or requesting further services. We may also ask you for information when you enter a competition or promotion sponsored by us or another company in our group of companies, and when you report a problem with our Website.<br>•&nbsp; When you register to receive newsletters we request the following date: your name, email address country. You can update any of your personal information in the newsletters section of the Website at any time.<br>•&nbsp; If you contact us, we may keep a record of that correspondence.<br>•&nbsp; We may also ask you to complete surveys that we use for research purposes, although you do not have to respond to them.<br>•&nbsp; Details of transactions you carry out through our Website and of the fulfilment of your orders.<br>•&nbsp; Details of your visits to our Website (including, but not limited to, traffic data, location data, weblogs and other communication data, whether this is required for our own billing purposes or otherwise and the resources that you access).<br><br><strong>Cookies</strong><br><br>A cookie is a small file of letters and numbers that can be put on a web users’ hard disc to distinguish one user from another and improve their experience. We may use cookies to collect information about your computer, including where available your IP address, operating system and browser type, for system administration and to report aggregate information to our advertisers. This is statistical data about our users' browsing actions and patterns, and does not identify any individual. Our website uses 5 cookies which can be divided as follows:<br><br><i>Session cookies</i> (2) – these allow the Website to link your actions during a browser session. They may be used for a variety of purposes such as remembering what you have put in your shopping basket as you browse the Website. These session cookies expire after a browser session so would not be stored long term. <br><br><i>Persistent cookies </i>(3) – these are stored on a user's device in between browser sessions which allows the preferences or actions of the user across a site (or in some cases across different websites) to be remembered. Persistent cookies may be used for a variety of purposes including remembering users’ preferences and choices when using a site.<br><br>We also use 8 third-party cookies (i.e. cookies that are set by another domain other than the one being visited by the user)&nbsp; from Twitter - 3 session cookies and 5 persistent cookies.<br><br>The cookies we use enable us:<br><br>•&nbsp; to estimate our audience size and usage pattern;<br>•&nbsp; to store information about your preferences, and so allow us to customise our site according to your individual interests;<br>•&nbsp; to speed up your searches; and<br>•&nbsp; to recognise you when you return to our Website.<br><br>Pursuant to the Privacy and Electronic Communications (EC Directive) (Amendment) Regulations 2011 (SI 2011/1208) we require you to agree to the above referred to cookies. You may refuse to accept cookies by activating the setting on your browser which allows you to refuse the setting of cookies. However, if you select this setting you may be unable to access certain parts of our site. Unless you have adjusted your browser setting so that it will refuse cookies, our system will issue cookies when you log on to our site. For further information see <a href="http://www.allaboutcookies.org" target="_blank">www.allaboutcookies.org</a>. To opt out of being tracked by Google Analytics across all websites visit <a href="http://tools.google.com/dlpage/gaoptout" target="_blank">http://tools.google.com/dlpage/gaoptout</a>.<br><br>Please note that our advertisers may also use cookies, over which we have no control.<br><br><strong>Where we store your personal data</strong><br><br>The data that we collect from you may be transferred to, and stored at, a destination outside the European Economic Area ("EEA"). It may also be processed by staff operating outside the EEA who work for us or for one of our suppliers. Such staff may be engaged in, among other things, the fulfilment of an order placed by you via the site, the processing of your payment details and the provision of support services. By submitting your personal data, you agree to this transfer, storing or processing. We will take all steps reasonably necessary to ensure that your data is treated securely and in accordance with this privacy policy and, to the extent that such transfer is within our control, with the relevant protections required by law in place.<br><br>Our site is accessible via the internet and so may potentially be accessed by anyone around the world. Other users may access the site from outside the European Economic Area (“EEA”). This means that where you choose to post your data on our site, it could be accessed from anywhere around the world and therefore a transfer of your data outside of the EEA may be deemed to have occurred. You consent to such transfer of your data for and by way of this purpose.<br><br>Where we have given you (or where you have chosen) a password which enables you to access certain parts of our site, you are responsible for keeping this password confidential. We ask you not to share a password with anyone.<br><br>The transmission of information via the internet is not completely secure. Although we will do our best to protect your personal data, we cannot guarantee the security of your data transmitted to our site; any transmission is at your own risk. Once we have received your information, we will use strict procedures and security features to try to prevent unauthorised access.<br><br><strong>Uses made of the information</strong><br><br>We use information held about you in the following ways:<br><br>•&nbsp; To ensure that content from our site is presented in the most effective manner for you and for your computer.<br>•&nbsp; To provide you with information, products or services that you request from us or which we feel may interest you, or to allow selected third parties to do the same, where you have consented to be contacted for such purposes.<br>•&nbsp; To carry out our obligations arising from any contracts entered into between you and us. To the extent that carrying out such obligations necessitates us disclosing your personal information to agents, contractors or other third parties involved in the performance of contracts entered into between you and us, you agree and consent to such disclosure.<br>•&nbsp; To allow you to participate in interactive features of our service, when you choose to do so.<br>•&nbsp; To notify you about changes to our service.<br>•&nbsp; In order to comply with any of our legal and regulatory obligations.<br>•&nbsp; Bloomsbury.com newsletters are 'opt-in' which means that you will not be sent any newsletters unless you specifically request them. Our newsletters also contain simple instructions for quickly discontinuing your subscription should you wish to do so. To subscribe or unsubscribe to one or more of our e-mail newsletters <a href="http://www.bloomsbury.com/newsletters" target="_blank">click here</a>.<br><br>You will not receive unsolicited marketing communications from us and/or from third parties selected by us unless you have agreed to this. We may, however, contact you from time to time as necessary with information or queries about your registration, your purchases and/or your postings.<br>We do not disclose information about identifiable individuals to our advertisers, but we may provide them with aggregate information about our users. We may also use such aggregate information to help advertisers reach the kind of audience they want to target. We may make use of the personal data we have collected from you to enable us to comply with our advertisers' wishes by displaying their advertisement to that target audience.<br><br><strong>Disclosure of your information</strong><br><br>We may disclose your personal information to any member of our group, which means our subsidiaries, our ultimate holding company and its subsidiaries, as defined in section 1159 of the UK Companies Act 2006.<br><br>We may disclose your personal information to third parties:<br><br>•&nbsp; In the event that we sell or buy any business (in whole or in part) or assets, in which case we may disclose your personal data to the prospective seller or buyer of such business or assets and may sell and transfer personal data collected through the site in connection with and pursuant to the sale of any such business or assets.<br>•&nbsp; If Bloomsbury Publishing Plc. or substantially all of its assets is acquired by a third party, in which case personal data held by it about its customers will be one of the transferred assets.<br>•&nbsp; To the extent necessary to enable us to carry out our obligations arising from any contracts entered into between you and us.<br>•&nbsp; If we are under a duty to disclose or share your personal data in order to comply with any legal obligation, or in order to enforce or apply our <a href="/uk/terms/">Terms and Conditions</a> and other agreements; to operate our systems properly; or to protect the rights, property, or safety of Bloomsbury Publishing Plc, its subsidiaries, affiliates, our customers or others. This includes exchanging information with other companies and organisations for the purposes of fraud protection and credit risk reduction.</p><li><strong>Your rights</strong><br><br>You have the right to ask us not to process your personal data for marketing purposes. We will usually inform you (before collecting your data) if we intend to use your data for such purposes or if we intend to disclose your information to any third party for such purposes. You can exercise your right to prevent such processing by choosing not to check certain boxes on the forms we use to collect your data. You can also exercise the right at any time by contacting us at <a href="mailto:customerservices@bloomsbury.com">customerservices@bloomsbury.com</a> and asking us to cease contacting you for such purposes.<br><br>Our Website may, from time to time, contain links to and from the websites of our partner networks, advertisers and affiliates. If you follow a link to any of these websites, please note that these websites have their own privacy policies and that we do not accept any responsibility or liability for these policies. Please check these policies before you submit any personal data to these websites.<br><br><strong>Access to information </strong><br><br>The Act gives you the right to access information held about you. Your right of access can be exercised in accordance with the Act. Any access request may be subject to a fee of £10 to meet our costs in providing you with details of the information we hold about you.<br><br><strong>Changes to our privacy policy</strong><br><br>Any changes we may make to our Privacy &amp; Cookie Policy in the future will be posted on this page and you should check this page from time to time to take notice of any changes we might make.<br><br><strong>Links to other websites</strong><br><br>This Privacy &amp; Cookie Policy does not cover the links within the Website linking to other websites. We encourage you to read the privacy statements on the other websites you visit. <br><br><strong>Contact us</strong><br><br>Questions, comments and requests regarding this privacy policy are welcomed and should be addressed to <a href="mailto:customerservices@bloomsbury.com" target="_blank">customerservices@bloomsbury.com</a> or write to the Legal Department, Bloomsbury Publishing Plc., 50 Bedford Square, London WC1B 3DP or call 020 76315600. <br><p></p></li>
+
+</div>
+    <aside id="widgets">
+        
+        <article class="widget socialLinks highlightit">
+	<section>
+	         <div class="htmlcontent">
+        <div class="htmlcontent-body">
+            <ul class="share"><li><a class="shareLink facebook" href="http://www.facebook.com/BloomsburyUSA" target="_blank"><span>Facebook</span></a></li><li><a class="shareLink twitter" href="https://twitter.com/BloomsburyPub" target="_blank"><span>Twitter</span></a></li><li><a class="shareLink rss" href="#" id="share_rss" target="_blank"><span>Rss</span></a></li><li><a class="shareLink youtube" href="http://www.youtube.com/bloomsburyUSA" target="_blank"><span>YouTube</span></a></li><li><a class="shareLink google" href="https://plus.google.com/u/0/101238686525840735342/posts" target="_blank"><span>Google+</span></a></li><li><a class="newsletter btn" href="#" id="share_newsletter">Newsletters</a></li></ul>
+        </div>
+    </div>
+
+	</section>
+</article>
+<script type="text/javascript">
+    $(document).ready(function () {
+        $("a#share_rss").attr('href', '/us/rss/4/1289/5');
+        $("a#share_newsletter").attr('href', '/us/newsletter');
+    });
+</script>    <article class="widget twitterFeed">
+        <header>
+            <h2>Twitter</h2>
+        </header>
+        <section>
+        <div id="twitterfeedbox1234493"></div>
+                <script>
+
+                    function getTwitterFeed(user, elementId) {
+                        $(window).load(function () {
+                            $.getScript('http://widgets.twimg.com/j/2/widget.js', function () {
+                                new TWTR.Widget({
+                                    id: elementId,
+                                    version: 2,
+                                    type: 'profile',
+                                    rpp: 4,
+                                    interval: 30000,
+                                    width: 'auto',
+                                    height: 300,
+                                    theme: {
+                                        shell: {
+                                            background: '#ffffff',
+                                            color: '#000000'
+                                        },
+                                        tweets: {
+                                            background: '#ffffff',
+                                            color: '#000000',
+                                            links: '#194293'
+                                        }
+                                    },
+                                    features: {
+                                        scrollbar: false,
+                                        loop: false,
+                                        live: false,
+                                        behavior: 'all'
+                                    }
+                                }).render().setUser(user).start();
+                            })
+                        })
+                    };
+
+                    getTwitterFeed('bloomsburypub', 'twitterfeedbox1234493')                 
+                </script>
+        </section>
+    </article>
+    <article class="widget externalLinks">
+	<header><h2>Pinterest</h2></header>
+	<section>
+		  <a href="http://pinterest.com/bloomsburyusa/"><img alt="Follow Me on Pinterest" height="28" src="http://passets-lt.pinterest.com/images/about/buttons/follow-me-on-pinterest-button.png" width="169"></a>
+	</section>
+    </article>
+    <article class="widget externalLinks">
+	<header><h2>Join us on Facebook</h2></header>
+	<section>
+		  <iframe allowtransparency="true" frameborder="0" scrolling="no" src="//www.facebook.com/plugins/likebox.php?href=http%3A%2F%2Fwww.facebook.com%2FBloomsburyUSA&amp;width=292&amp;height=62&amp;colorscheme=light&amp;show_faces=false&amp;border_color&amp;stream=false&amp;header=true&amp;appId=125581707582462" style="border:none;overflow:hidden;width:292px;height:62px;"></iframe>
+	</section>
+    </article>
+
+        
+    </aside>
+
+
+		</div>
+		
+		<footer id="footer">
+         <div class="htmlcontent">
+        <div class="htmlcontent-body">
+            <div class="footerLinks"><nav class="groupNav"><h4>The Bloomsbury Group - External Links</h4><ul><li><a href="http://www.absolutepress.co.uk/" target="_blank">Absolute Press</a></li><li><a href="http://www.bergfashionlibrary.com/" target="_blank">Berg Fashion Library</a></li><li><a href="http://www.bloomsburyinstitute.com" target="_blank">Bloomsbury Institute</a></li><li><a href="http://www.bloomsburyprofessional.com/" target="_blank">Bloomsbury Professional</a></li><li><a href="http://www.churchillarchive.com/index/" target="_blank">Churchill Archive</a></li><li><a href="http://www.dramaonlinelibrary.com/" target="_blank">Drama Online</a></li><li><a href="http://www.fairchildbooks.com" target="_blank">Fairchild Books</a></li><li><a href="http://www.publiclibraryonline.com" target="_blank">Public Library Online</a></li><li><a href="http://www.qfinance.com" target="_blank">QFINANCE</a></li><li><a href="http://www.reedsnauticalalmanac.co.uk/" target="_blank">Reeds Nautical</a></li><li><a href="http://www.rouleur.cc/" target="_blank">Rouleur</a></li><li><a href="http://whitakersalmanack.wordpress.com/" target="_blank">Whitaker's</a></li><li><a href="http://www.ukwhoswho.com/" target="_blank">Who's Who</a></li><li><a href="http://www.writersandartists.co.uk/" target="_blank">Writers' and Artists' Yearbook</a></li></ul></nav> <nav class="venturesNav"><h4>Ventures managed by Bloomsbury</h4><ul><li><a href="http://www.bqfp.com.qa/" target="_blank">Bloomsbury Qatar Foundation Publishing</a></li><li><a href="http://www.qscience.com/" target="_blank">Bloomsbury Qatar Foundation Journals</a></li></ul><p></p></nav> <nav class="venturesNav"><h4>Bloomsbury Offices</h4><p><a href="http://www.bloomsbury.com/uk/">London, UK</a><br><a href="http://www.bloomsburyusa.com" target="_blank">New York, USA</a><br><a href="http://www.bloomsbury.com/au/" target="_blank">Sydney, Australia</a><br><a href="http://www.bloomsbury.com/bloomsbury-india/">New Delhi, India</a></p></nav> </div><!-- .footerLinks --> <div class="vcard"><div class="adr"><p>Registered Office:</p><p>1385 Broadway, Fifth Floor<br>New York, NY 10018</p></div><div class="contact"><p class="tel work">Tel: + 1 (212) 419 5300<em><br type="_moz"></em></p><p class="url"><a href="http://www.bloomsbury.com/">www.bloomsbury.com</a></p></div><div class="copyright"><p>Bloomsbury Publishing Plc</p><p>© Bloomsbury Publishing Plc 2012</p></div></div><div class="vcard"><!-- .copyright --></div><!-- .vcard -->
+        </div>
+    </div>
+
+</footer>
+<footer id="subFooter">
+         <div class="htmlcontent">
+        <div class="htmlcontent-body">
+            <ul class="subCompanyNav"><li><a href="/us/company/careers">Careers</a></li><li><a href="/us/company/contact-us">Contact Us</a></li><li><a href="/us/customer-help">Help</a></li><li><a href="http://www.bloomsbury-ir.co.uk/">Investors</a></li><li><a href="/us/privacy-policy/">Privacy &amp; Cookies</a></li><li><a href="/us/terms/">Terms &amp; Conditions</a></li><li><a href="http://bloomsburynews.com/go.asp?/.pages.unsubscribe.bloomsbury/bBLM001">Unsubscribe</a></li></ul>
+        </div>
+    </div>
+
+</footer>
+
+<div class="footer">
+   
+    <div class="footer-disclaimer">
+        © Bloomsbury Publishing Plc 2013.
+    </div>
+    <div class="footer-storetheme">
+        
+    </div>
+    
+</div>
+		
+		<div class="ajax-loading-block-window" style="display: none">
+			<div>
+				<img src="../../Themes/BloomsGray/Content/images/ajax_loader_icon.gif" alt="Processing...">
+			</div>
+		</div>
+	</div>
+	<script type="text/javascript" src="/asset.axd?id=AAEAAB-LCAAAAAAABADsvQdgHEmWJSYvbcp7f0r1StfgdKEIgGATJNiQQBDswYjN5pLsHWlHIymrKoHKZVZlXWYWQMztnbz33nvvvffee--997o7nU4n99__P1xmZAFs9s5K2smeIYCqyB8_fnwfPyJ-8Uezjx597xd_tPro0Uevp3WxapuPRh-d82dL-qzNy7wu3o6n1WJRLcc_jW-rjx7t_JJR-P2szi6y5WxWVyvbaLfb6KpYzqor-_1e9_uyaFr77b3ut9m6rQiNVZm3uW21_0u-_0u-P_po2nLDd-3dn84us4YHQg0u6dO9nd3d8d744e4-fTCl0e4e7NAvHz1q63X-S_6fAAAA__-Axr5UAAEAAA%3d%3d"></script>
+<script type="text/javascript">
+//<![CDATA[
+jQuery(document).ready(function(){
+jQuery('#location-change-warning-window').tWindow({onClose:resetLanguageDropdown(), modal:true, draggable:false, resizable:false});
+jQuery('#q').tAutoComplete({highlightFirst:true, onDataBinding:onDataBindingAutoSuggest, onError:onErrorAutoSuggest, ajax:{"selectUrl":"/us/catalog/AutoSuggest"}, cache:false, delay:1000, filter:2});});
+//]]>
+</script>
+
+	<!-- /container -->
+	
+
+      <script src="/bundles/customfooter?v=deRchoMacK9aFd6YUoYinJhtJrNrrscKzK6Y9tODhdI1"></script>
+
+
+	
+
+	 
+	
+	
+	
+
+<div id="dialog-notifications-success" title="Common.Notification" style="display:none;">
+</div>
+<div id="dialog-notifications-error" title="Error" style="display:none;">
+</div>
+
+<div id="bar-notification" class="bar-notification">
+    <img src="/Themes/BloomsGray/Content/Images/ico-close-notification-bar.png" class="close" alt="Close" title="Close">
+</div>
+
+
+
+</body></html>
