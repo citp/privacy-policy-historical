@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the colorsontheweb.com privacy policy that was archived on 2012-10-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121019110217id_/http%3A//www.colorsontheweb.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the colorsontheweb.com privacy policy that was archived on 2013-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130623051455id_/http%3A//colorsontheweb.com/privacy.asp) for the most accurate reproduction.*
 
 # Color Terms - Hue, Value, Tint, Shade, Saturation - Colors on the Web
 
