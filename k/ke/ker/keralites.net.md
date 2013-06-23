@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the keralites.net privacy policy that was archived on 2012-10-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121010073516id_/http%3A//keralites.net/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the keralites.net privacy policy that was archived on 2013-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130623081936id_/http%3A//keralites.net/privacy.html) for the most accurate reproduction.*
 
 # Keralites Community Network - Related Useful Links
 
