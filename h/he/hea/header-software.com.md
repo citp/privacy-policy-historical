@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the header-software.com privacy policy that was archived on 2012-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120603032202id_/http%3A//www.incansoft.com/Privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the header-software.com privacy policy that was archived on 2013-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130624003351id_/http%3A//www.incansoft.com/Privacy.php) for the most accurate reproduction.*
 
 # Incansoft | Experience The Difference Today!
 
