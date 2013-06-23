@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the esf.edu.hk privacy policy that was archived on 2012-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121101234020id_/http%3A//www.esf.edu.hk/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the esf.edu.hk privacy policy that was archived on 2013-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130623031740id_/http%3A//esf.edu.hk/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | English Schools Foundation
 
@@ -22,6 +22,6 @@ This privacy policy statement has been translated into Chinese. If there is any
 
 May 2011
 
-  * [Printer-friendly version](https://web.archive.org/print/1857 "Display a printer-friendly version of this page.")
+  * [Printer-friendly version](https://web.archive.org/print/privacy "Display a printer-friendly version of this page.")
 
 
