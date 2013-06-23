@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lolbuzz.net privacy policy that was archived on 2012-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121129115020id_/http%3A//www.lolbuzz.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lolbuzz.net privacy policy that was archived on 2013-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130623151747id_/http%3A//www.lolbuzz.net/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | LolBuzz.Net - Funny Pictures, Epic Fail, Epic, iPhone Autocorrect, Iphone Text, Funny Joke, Comics, Troll
 
