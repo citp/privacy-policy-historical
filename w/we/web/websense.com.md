@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the websense.com privacy policy that was archived on 2012-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121229235210id_/https%3A//www.websense.com/content/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the websense.com privacy policy that was archived on 2013-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130623203116id_/http%3A//www.websense.com/content/privacy-policy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy — Websense.com
 
@@ -24,17 +24,18 @@
 
   * [Newsletters](https://web.archive.org/content/websense-newsletters.aspx)
 
-  * [Industry Analyst Reports](https://web.archive.org/content/industry-analyst-reports.aspx)
-
   * [Blocked by Websense?](https://web.archive.org/content/blocked-by-websense.aspx)
 
   * [Terms and Conditions](https://web.archive.org/content/websense-terms-and-conditions.aspx)
 
     * [ Product User Terms and Conditions](https://web.archive.org/content/product-end-user-terms-and-conditions.aspx)
     * [ Reseller Terms and Conditions](https://web.archive.org/content/reseller-terms-and-conditions.aspx)
+    * [ Hardware Terms of Sale](https://web.archive.org/content/hardware-terms-of-sale.aspx)
   * [Contact Us](https://web.archive.org/content/contact-us.aspx)
 
     * [ Office Directions](https://web.archive.org/content/office-directions.aspx)
+  * [Websense Executive Briefing Center](https://web.archive.org/content/websense-executive-briefing-center.aspx)
+
 
 
 
