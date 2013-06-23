@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the spillit.me privacy policy that was archived on 2012-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121103065453id_/http%3A//www.spillit.me/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the spillit.me privacy policy that was archived on 2013-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130623092157id_/http%3A//www.spillit.me/privacy) for the most accurate reproduction.*
 
 # Spillit Privacy Policy
 
@@ -82,12 +82,12 @@ Although most changes are likely to be minor, Spillit may change Spillit's Priva
 
 ### Contact
 
-If you have questions or complaints regarding our Data Use Policy or practices, please contact us by mail. Our mailing address is JRF SEO, LLC, 1312 Plunket Dr., Wake Forest, NC 27587. You may also contact us through email @ support@spillit.me. 
+If you have questions or complaints regarding our Data Use Policy or practices, please contact us through email at support@spillit.me. 
 
 ### Indemnification
 
-The customer or website user agrees that he/she shall defend, indemnify, save and hold JRF SEO, LLC. harmless from any and all demands, liabilities, losses, costs and claims, including reasonable attorney's fees asserted against us, its agents, its customers, officers and employees, that may arise or result from any product, service or information provided. 
+The customer or website user agrees that he/she shall defend, indemnify, save and hold Best Interenet Guy LLC. harmless from any and all demands, liabilities, losses, costs and claims, including reasonable attorney's fees asserted against us, its agents, its customers, officers and employees, that may arise or result from any product, service or information provided. 
 
 ### Legal Jurisdiction
 
-This policy is governed by the laws of the state of North Carolina. Any disputes or other legal action taken against Spillit or JRF SEO, LLC must take place in a federal or state court located in the state of North Carolina. Users of JRF SEO, LLC websites must first make a good faith effort to allow JRF SEO, LLC to correct or remedy any conflicts/issues which may arise. If a conflict/issue does arise, you are required to notify JRF SEO, LLC in writing, sent via certified mail, and include a full description of the issue, your proposed remedy, or remedies, for the issue, and sufficient time for JRF SEO, LLC to fully review and resolve the issue to the mutual satisfaction of the parties involved. 
+This policy is governed by the laws of the state of Oregon. Any disputes or other legal action taken against Spillit or Best Internet Guy LLC must take place in a federal or state court located in the state of Oregon. Users of Best Internet Guy LLC sites must first make a good faith effort to allow Best Internet Guy LLC to correct or remedy any conflicts/issues which may arise. If a conflict/issue does arise, you are required to notify Best Internet Guy LLC in writing, sent via certified mail, and include a full description of the issue, your proposed remedy, or remedies, for the issue, and sufficient time for Best Interner Guy LLC to fully review and resolve the issue to the mutual satisfaction of the parties involved. 
