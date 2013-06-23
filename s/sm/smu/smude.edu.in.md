@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the smude.edu.in privacy policy that was archived on 2012-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121123201739id_/http%3A//smude.edu.in/recognitions/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the smude.edu.in privacy policy that was archived on 2013-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130623024006id_/http%3A//smude.edu.in/recognitions/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
