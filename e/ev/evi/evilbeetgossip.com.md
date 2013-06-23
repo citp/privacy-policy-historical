@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the evilbeetgossip.com privacy policy that was archived on 2012-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121221095339id_/http%3A//www.evilbeetgossip.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the evilbeetgossip.com privacy policy that was archived on 2013-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130624010209id_/http%3A//www.evilbeetgossip.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy – Today's Celebrity Gossip from Evil Beet Gossip
 
@@ -74,5 +74,3 @@ Evil Beet Gossip AACG, LLC
 P.O. Box 1295  
 Westminster, MD 21158  
 <http://www.evilbeetgossip.com/contact/>
-
-This entry was posted on Monday, January 3rd, 2011 at 1:28 pm and is filed under . You can follow any responses to this entry through the [RSS 2.0](http://www.evilbeetgossip.com/privacy-policy/feed/) feed. You can skip to the end and leave a response. Pinging is currently not allowed. 
