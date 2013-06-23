@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lacounty.gov privacy policy that was archived on 2012-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121222070938id_/http%3A//www.lacounty.gov/wps/portal/lac/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lacounty.gov privacy policy that was archived on 2013-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130623021141id_/http%3A//www.lacounty.gov/wps/portal/lac/privacy) for the most accurate reproduction.*
 
 # Los Angeles County-About This Site-Privacy Policy
 
