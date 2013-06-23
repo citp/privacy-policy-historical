@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the allfungirlsgames.com privacy policy that was archived on 2012-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121011124822id_/http%3A//www.allfungirlsgames.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the allfungirlsgames.com privacy policy that was archived on 2013-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130623041058id_/http%3A//allfungirlsgames.com/privacy-policy) for the most accurate reproduction.*
 
 # AllFunGirlsGames.com Privacy Policy
 
