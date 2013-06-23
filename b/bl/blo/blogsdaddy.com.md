@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the blogsdaddy.com privacy policy that was archived on 2012-10-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121015084233id_/http%3A//www.blogsdaddy.com/2010/04/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the blogsdaddy.com privacy policy that was archived on 2013-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130623204100id_/http%3A//www.blogsdaddy.com/2010/04/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy - Blogs Daddy
 
@@ -38,12 +38,9 @@ You should consult the respective privacy policies of these third-party ad serve
 
 If you wish to disable cookies, you may do so through your individual browser options. More detailed information about cookie management with specific web browsers can be found at the browsers' respective websites.
 
-  
-
-
-Thanks for making this possible! Kindly Bookmark and Share it.
+Thanks for making this possible! Kindly Bookmark and Share it. 
 
   
 
 
-## Subscribe To Our Regular Email Updates
+##  Subscribe To Our Regular Email Updates 
