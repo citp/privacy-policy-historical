@@ -1,59 +1,100 @@
-> *The following text is extracted and transformed from the webstercontent.com privacy policy that was archived on 2012-08-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120829101809id_/http%3A//www.webstercontent.com/pages/Privacy-Policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the webstercontent.com privacy policy that was archived on 2013-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130623102801id_/http%3A//www.godaddy.com/agreements/ShowDoc.aspx%3Fpageid%3Dprivacy_parkedpage) for the most accurate reproduction.*
 
-# Privacy Policy
+# Legal Agreement
 
-Effective Date:  February 1, 2007
+**Go Daddy Respects Your Privacy**
 
-WEBSTERCONTENT.COM PRIVACY POLICY
+**This Privacy Policy explains our privacy and information gathering practices, such as the types of information we collect and under what circumstances that information is shared.**
 
-WebsterContent.com (also known as WebsterContent) operates various web sites.  WebsterContent has created this Privacy Policy to demonstrate our firm commitment to your privacy and the protection of your personally identifiable information at the websites we operate (the "Website"). 
+**Please take the time to review the terms of this Policy.   By using this Site, you agree to accept the terms provided.**
 
-As part of our business, we collect and, in some instances, may disclose information about you - but only as set forth in this Privacy Policy.  To better protect your privacy, we provide this notice explaining our personal information collection and use practices and the choices that you can make concerning the use of your personal information.  This Privacy Policy also applies to individuals that have agreed to receive e-mail marketing from WebsterContent or one of our advertising partners, whether at the Website, via e-mail, on third-party websites or otherwise.
+**Other than as described in this Policy, we will not give any information about you to others without your express permission.**
 
-**Information Collected and Use of Your Information**
+**Information Collection and Use**
 
-For each visitor to the Website, our servers automatically recognize only the visitor's domain name, but not the e-mail address (unless requested and supplied by the visitor as a part of registration).
+Although this Site is primarily for informational purposes, we may ask you to provide us with your name, email address or other information that could be used to identify you personally.  For example, we may collect this information in the event that you register as a member of this Site, post a comment, sign-up to receive email communications, or submit demographic information as part of a survey.
 
-As part of our on-going efforts to ensure the best possible experience for all visitors to the Website, we collect data from browsers to aggregate statistical information.  This includes the type of browser being used, its level of HTML support and what platform it is on.  This Privacy Policy also applies to visitors to the Website that have agreed to receive e-mail marketing from web sites we operate but have not separately registered to become a member.  The personal profile information that you submit to WebsterContent remains your property, but by submitting that information to WebsterContent and its partners you grant WebsterContent the right to use that information for marketing purposes.    If you are a resident of the State of California and would like to opt-out from the disclosure of your personal information to any third party for marketing purposes, please visit our “Contact Us” page.
+We receive and store any information you enter on our Site or give us in any other way, including through email, telephone, or other communications. If you contact us for support, we will keep an internal record of our communication with you.
 
-When visitors elect to become members of one of our sites such as WebsterContent, we may request that they provide additional, personally identifiable information.  This includes name, address, e-mail address, telephone number, age bracket, day and month of birth.  All registrants may receive e-mail confirming their registration, and subsequent correspondence.  If you do not want to receive e-mail from us in the future, please let us know by using the unsubscribe option on the bottom of every email.  Certain information, such as your e-mail address, is collected in order to, among other functions; verify your identity in the future within our database.  When you select to receive information about offerings from a third party company during the registration process, we will share your personal information with that third party company to carry out your information request.  WebsterContent may also use such information to directly market certain offers to you (via e-mail, direct mail and/or telemarketing), to monitor compliance with our Terms and Conditions and for content improvement and feedback purposes.  We may sell the personal information that you supply to us and we may join together with other businesses to bring selected retail opportunities to our members.  These businesses may include, but are not limited to:  (a) providers of direct marketing services and applications, including lookup and reference, data enhancement, suppression and validation; (b) e-mail marketers; and (c) telemarketers. 
+We may use your information to contact you regarding the information and services available on our Site, functionality changes to our Site, and special offers we think you'll find valuable. If you would rather not receive this information, please see the "Updating Your Information" section below on how to change your preferences.
 
-We may also employ other companies and individuals to perform certain functions on our behalf. Examples include sending direct and electronic mail, removing duplicate information from customer lists, analyzing data, and providing marketing analysis.  These agents have access to our members' personal information as needed to perform their functions for WebsterContent, but we do not permit them to use our members' personal information for other purposes.
+We may also use your information to present a co-branded offer with our partners or affiliates. If we collect information from you in connection with a co-branded offer, it will be clear at the point of collection who is collecting the information and whose privacy statement applies.
 
-WebsterContent reserves the right to release current or past member information in the event WebsterContent believes that the membership is being or has been used in violation of the Website's terms and conditions, or to commit unlawful acts, if the information is subpoenaed, if WebsterContent is sold or acquired, or when WebsterContent deems it necessary or appropriate.  By agreeing to these conditions, you hereby consent to disclosure of any record or communication to any third party, when WebsterContent, in its sole discretion, determines the disclosure to be appropriate including, without limitation, sharing your e-mail address with other third-parties for suppression purposes in compliance with the CAN-SPAM Act of 2003, as amended from time to time, and Federal Trade Commission enabling regulations.
+We use information gathered about you from our Site statistics (for example, your IP address) to help diagnose problems with our server, and to administer our Site. We also gather broad demographic information from this data to help us improve our Site and make your browsing and purchasing experience more enjoyable. This is not linked to any personally identifiable information, except as necessary to prevent fraud or abuse on our system.
 
-In addition, by registering at the Website, you agree that such act constitutes an inquiry and/or application for purposes of the Amended Telemarketing Sales Rule (16 CFR §310 et seq.), as amended from time to time (the "Rule").  Notwithstanding that your telephone number may be listed at the Federal Trade Commission's Do-Not-Call List, we retain the right to contact you via telemarketing in accordance with the Rule.
+Our Site uses cookies to enhance your experience with our Site.  Cookies are data files that are placed in your browser to keep track of your personal preferences and to facilitate easy navigation through our Site.  We use cookies to identify you so you don't need to log in each time you visit our Site.  You may opt-out of the use of cookies by altering settings on your browser.  Please note, however, that some areas of the Site will be easier to navigate with the use of cookies..
 
-From time to time, we may receive personal information about you from outside sources and add it to your existing registration information on file at the Website. We do this to improve personalization of our services (for example, providing better newsletter content, advertising and/or special offers that we think may be of interest you).
-
-We may also collect other information such as your IP address, domain names, access times and referring third party website addresses. WebsterContent uses this information for the operation of the Website, to maintain the quality of our offerings, and to provide general aggregate statistics regarding web sites we operate such as WebsterContent.  Such information is not personally identifiable. 
-
-We also collect information such as the identification of the server that your computer is logged onto and whether you opened an e-mail message delivered to you by WebsterContent.  We also may compare our member list to various lists received from other third party companies, in an effort to avoid sending identical or similar e-mail messages to our members.
-
-When you obtain any product or service directly from WebsterContent or a web site we operate, we collect certain financial information, such as your credit card number, credit card expiration date and billing address.  Financial information that you disclose to our company or web sites we operate is used to confirm your age and to bill you for shipping our products and services.  To the extent that customer credit card-specific information is collected by our company or a web site we operate, said information will be kept in confidence and will not be shared with any third parties (other than consumer credit agencies) without your prior informed consent.  Notwithstanding the foregoing, WebsterContent reserves the right to share with third parties the fact that we have credit card information on file for specific customers but we will not share the specific credit card information with third parties without your prior informed consent. 
-
-**Information Collection Processes**
-
-WebsterContent may employ "cookies" to help customize your access to the Website and for the delivery of targeted advertisements.  A cookie is a piece of data stored on a your hard drive containing information about you.  Cookies have many benefits to enhance your experience at our Website and to facilitate the receipt of targeted advertisements.  For instance, by setting a cookie on our Website, a member would not have to log in a password more than once, thereby saving time while on our Website.  Even in the case where a member rejects a cookie, they may still use our Website.  The only drawback to this is that the member will be limited in what he/she can access in some areas on our Website, much like visitor-level access. 
-
-We occasionally use cookies to anonymously track and target the interests of our members to further enhance the experience on our Website and for advertising, tracking and/or delivery purposes.   To find out more about cookies, please visit www.cookiecentral.com.  To disable and reject cookies, click here.  At no time will we share cookie-related and/or data with third parties.
-
-In addition to cookies, our Website pages and/or e-mails may contain electronic images known as "pixel tags" (also knows as clear gifs) to track the pages that visitors and/or members visit at the Website for purposes of formatting future campaigns and upgrading visitor information used in reporting statistics. 
-
-Our Website may also contain pixel tags placed there by third parties to help determine the effectiveness of a joint promotional or advertising campaign. 
+This Site also contains links to other websites. Unfortunately, we are not responsible for the privacy practices or the content of such sites.
 
 **Security**
 
-WebsterContent has security measures in place to protect the loss, misuse, and alteration of personal information under our control. Currently WebsterContent uses on some web sites we operate Secure Socket Layer Software (SSL) to protect data and secure any transactions. SSL encrypts information, including credit card numbers, names and addresses as they are transmitted over the Internet. Please be advised that, although we take every reasonable technological precaution available to protect your data, no data transmission over the Internet can be guaranteed to be 100% secure.  Therefore, WebsterContent cannot warrant that your information will be absolutely secure. Any transmission of data at or through our Website is at your own risk.  However, access to your information is strictly limited, and not accessible to the public.  Our employees are dedicated to ensuring the security and privacy of all WebsterContent user information.  Employees not adhering to our firm policies are subject to disciplinary action. 
+This Site has security measures in place to protect against the loss, misuse or alteration of the information under our control.  We follow generally accepted standards to protect the personal information submitted to us, both during transmission and once we receive it.  No method of transmission over the Internet, or method of electronic storage, is 100% secure, however.  Therefore, we cannot guarantee its absolute security.
 
-**Minors   **
+**Updating Your Information**
 
-Individuals under 18 years of age are not permitted to participate in obtaining products and/or services at WebsterContent or any web site we operate.  No information should be submitted to, or posted at, any web site we operate by visitors under 18 years of age without the prior consent of their parent or guardian.  Notwithstanding the foregoing, children 13 years of age and younger are not permitted to access any web site we operate for any reason and we do not knowingly collect personal information from such children.  We encourage parents and guardians to spend time online with their children and to participate and monitor the interactive activities of their children.
+You may alter your account information or opt out of receiving communications from us and our partners at any time. We have the following options for changing and modifying your account information or contact preferences.
 
-**Third-Party Links**
+        i.      You may send an email to [support@godaddy.com ](mailto:support@godaddy.com)
 
-WebsterContent does not endorse, nor is WebsterContent responsible for the accuracy of, the privacy policies and/or terms and conditions of each of the advertisers and/or third parties accessible through the web sites operated by WebsterContent.  The entities that advertise and/or place banner ads on web sites operated by WebsterContent are independent third parties and not typically affiliated with our company.
+       ii.      You may send mail to Go Daddy at the following postal address:   
+               14455 North Hayden Road, Suite 219, Scottsdale, AZ. 85260 USA
 
-**Acceptance of this Privacy Policy**
+      iii.      You may call us at: (480) 505-8800
 
-By using this Website including, without limitation, signing up for offers and/or continuing to receive information from any web site operated by WebsterContent, you agree to the WebsterContent Privacy Policy.  We reserve the right, at our discretion, to change, modify, add, and/or remove portions of this Privacy Policy at any time.  All changes will take effect immediately upon their posting on our Website.  Please check this page periodically for changes. Your continued use of WebsterContent websites or acceptance of our e-mails following the posting of changes to this Privacy Policy will mean that you accept any and all such changes and agree to continue receiving directing marketing from us and other third party companies.  If you do not agree to the terms of this Privacy Policy, please unsubscribe using the link at the e-mail you receive from us or by using our “Contact Us” page.
+       iv.      You may fax us at: (480) 505-8844
+
+**Sending Emails**
+
+We use emails to communicate with you and to send information that you have requested.  We also provide email links to allow you to contact us directly. We strive to promptly reply to your messages.
+
+The information you send to us may be stored and used to improve this Site and our products, or it may be reviewed and discarded.
+
+**Compliance with Laws and Law Enforcement**
+
+We cooperate with government and law enforcement officials and private parties to enforce and comply with the law. We will disclose any information about you to government or law enforcement officials or private parties as we, in our sole discretion, believe necessary or appropriate to respond to claims and legal process (including without limitation subpoenas), to protect our property and rights or the property and rights of a third party, to protect the safety of the public or any person, or to prevent or stop activity we consider to be illegal or unethical. We will also share your information to the extent necessary to comply with ICANN's rules, regulations and policies.
+
+**Third Party Service Providers**
+
+We may at times provide information about you to third parties to provide various services on our behalf, such as serving advertisements, conducting contests or surveys, performing analyses of our user demographics, shipping of goods or services, and user relationship management. We will only share information about you that is necessary for the third party to provide the requested service. These companies are prohibited from retaining, sharing, storing or using your personally identifiable information for any secondary purposes.
+
+In the event that we use third party advertising companies to serve ads on our behalf, these companies may employ cookies and action tags (also known as single pixel GIF or web beacons) to measure advertising effectiveness. Any information that these third parties collect via cookies and action tags is completely anonymous. If you would like more information about this practice and your choices, click [here. ](http://www.networkadvertising.org/managing/opt_out.asp)
+
+**Supplementation of Information**
+
+In order to provide certain services to you, we may on occasion supplement the personal information you submit to us with information from third party sources ( _e.g.,_ information from our strategic partners, service providers, or the United States Postal Service).  We do this to enhance our ability to serve you, to tailor our products and services to you, and to offer you opportunities to purchase products or services that we believe may be of interest to you.
+
+**Contests/Surveys**
+
+From time-to-time, we may provide you with the opportunity to participate in contests or surveys. If you choose to participate, we may request certain personally identifiable information from you. Participation in these contests or surveys is completely voluntary and you therefore have a choice whether or not to disclose the requested information. The requested information typically includes contact information (such as name and address), and demographic information (such as zip code and age level - note that you must be 18 or above to enter). We use this information to notify contest winners and award prizes, to monitor Site traffic, and to personalize our Site.
+
+We may use a third party service provider to conduct these surveys or contests. When we do, that company will be prohibited from using our users' personally identifiable information for any other purpose. We will not share the personally identifiable information you provide through a contest or survey with other third parties unless we give you prior notice and choice.
+
+**Tell-A-Friend**
+
+If a user elects to use our referral service to inform a friend about our Site, we ask the user for the friend's name and email address. Go Daddy will automatically send the friend a one-time email inviting them to visit our Site. Go Daddy stores this information for the sole purpose of sending this one-time email. The friend may contact Go Daddy at [support@godaddy.com ](mailto:support@godaddy.com)to request the removal of this information from our database.
+
+**What Happens to my Personal Information if I Opt Out?**
+
+If you advise us that you wish to opt out of receiving further communications from us, we will place your personally identifiable information in "deactivated" status on our relevant databases. However, you should know that placement of your information in "deactivated" status does not mean your personally identifiable information has been deleted from our database entirely. We will retain and use your personally identifiable information as necessary in order to comply with our legal obligations, resolve disputes, or enforce our agreements.
+
+**Transfer of Data Abroad**
+
+If you are visiting this Site from a country other than the country in which our servers are located, your communications with us may result in the transfer of information across international boundaries.  By visiting this Site and communicating electronically with us, you consent to such transfers.
+
+**Changes in Our Practices**
+
+We reserve the right to modify this Privacy Policy at any time. If we decide to change our Privacy Policy, we will post those changes to this Privacy Policy and any other places we deem appropriate, so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it.
+
+If we make material changes to this Policy, we will notify you here, by email, or by means of a notice on our home page, at least thirty (30) days prior to the implementation of the changes.
+
+**Contacting Our Site**
+
+If you have any questions about our Privacy Policy, the practices of this Site, or your dealings with this Site, please contact us at:
+
+* * *
+
+Go Daddy   
+ATTN: Web Team   
+14455 North Hayden Rd.   
+Suite 219   
+Scottsdale, AZ, 85260, U.S.A.
