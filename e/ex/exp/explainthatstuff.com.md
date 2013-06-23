@@ -1,30 +1,18 @@
-> *The following text is extracted and transformed from the explainthatstuff.com privacy policy that was archived on 2012-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121211200427id_/http%3A//www.explainthatstuff.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the explainthatstuff.com privacy policy that was archived on 2013-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130624015847id_/http%3A//www.explainthatstuff.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy policy: Explain that Stuff!
 
-_Last updated: May 19, 2012._
+_Last updated: May 2, 2013._
 
 We take privacy issues seriously—and yes everyone says that, but we really do. Here (in plain English) are full details explaining the careful steps we have taken to respect and protect your privacy as you use our website.
 
-## Web server logs
+## Site statistics and server logs
 
-Like every other website, our site is hosted on a web server (a powerful computer at our service provider) that keeps a log of all the pages and graphics it serves and where it sends them to. This isn't some creepy, underhand attempt to track you: it's a basic feature of how web servers work. The information they log is essentially anonymous and statistical: it tells us how many people from Iceland looked at our site last Thursday, but it doesn't tell us anything personal about them. We don't know who those people were, whether they were fishermen or fighter pilots, or what colour socks they were wearing at the time.
-
-The logs don't tell us who you are or where you live—but they do record your IP number (a number that uniquely identifies your Internet connection). They also note what you looked at or downloaded, the operating system and browser you're using, the date and time of your visit, how you came to our site, and so on. Here is an example of one line from our log, recording one hit from one visitor using the (made-up) IP number 12.34.56.78:
-
-12.34.56.78 - - [25/May/2010:13:05:41 +0100] "GET /transformers.html HTTP/1.0" 200 19986 "http://www.google.co.in/search?hl=en&q=why+we+use+transformers&meta= &aq=4m&aqi=g-c1g-m4&aql=&oq=use+transformers&gs_rfai=" "Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1)"
-
-What can we deduce from this? That someone using computer 12.34.56.78 wanted to find out "why we use transformers" at 13:05 on Tuesday May 25 2010. They used Google India to get to our site, which they viewed using a Mozilla/Firefox browser running under Windows. That's about it. The information logged here is not personally identifiable, so we don't know who made this search or why—and frankly, we don't care. We have absolutely no interest in what individual people are doing or why.
-
-How do we use this information? Contrary to what we've said, we don't actually look at our raw access logs: a typical day's log has hundreds of thousands of entries like the one above! Instead, we run the logs through a statistical package called [AWStats](http://awstats.sourceforge.net/) to show up daily, weekly, monthly, and yearly patterns and trends in how people use our site. (If you're really interested, you can see a [demo](http://awstats.sourceforge.net/#DEMO) of the kind of statistics that we can see.) What does this tell us? If we know certain pages are unpopular, we can improve them or discontinue them. If we know our server is about to crash because too many people are looking at our global warming page again, we can get a bigger server. If we know our RSS feeds are growing in popularity, we will start to update them more often. This is the kind of thing we do with our logs. Broadly speaking, they help us improve our website so it better meets your needs and identify any problems with our server (slow-loading pages or things like that) that we need to address.
-
-Our website hosting system logs activity in a single file for the current month. At the end of each month, we run our statistical analysis on the log and it is then retained for the whole of the next month before being erased. So, for example, data about visits to our site in January would be logged through January, analyzed at the beginning of February and then stored for the rest of February, before being erased at the beginning of March. The absolute maximum amount of time for which information about your visit to our site is retained on our system is two months. (If you visit on the 31st of the month, the information is kept for only one month.)
+Unlike many other websites, we don't obsessively run analytics software to track our visitors; occasionally we run Google Analytics for a few days to help us diagnose technical problems, but we don't have it switched on the whole time tracking everything you do. Instead, through our website hosting company, we run a general statistical package called [AWStats](http://awstats.sourceforge.net/) to show up daily, weekly, monthly, and yearly patterns and trends. It doesn't log any personal information about you or how you use our site: it simply tells us general things about how many visitors we have, which pages they look at, and so on. Except when there are technical issues, we don't retain web server logs or the detailed information they contain, so the way you use our site is not tracked or traced.
 
 ## What are cookies?
 
 When you look at websites, text, graphics, videos, and other computer data moves from a web server (which stores the website you're looking at and "serves" it up to you) to your web browser (the program, such as Internet Explorer, Firefox, Google Chrome, or whatever you use to surf the Web). There is no easy way for a web browser to remember things about you as you move from page to page, which makes life difficult if you want to do something like putting a product in a shopping cart (trolley), select a particular size of text for the pages you're looking at, sign in to a website for a personalized experience, and so on.
-
-?
 
 That's where cookies come in. Cookies are small files that websites can store on your computer to help them remember things about you. Some cookies (known as session cookies) stay on your computer only for short periods of time; others, known as persistent cookies, may stay there for years. Some cookies, known as first-party cookies, are set by the websites you visit; others are set by services that those websites rely on (for example, advertisements, statistical tracking programs, social networking widgets and so on)—and they're known as third-party cookies. Cookies like this can be used to track a web user's progress as they move from one website to another, although they generally do so anonymously (they don't usually contain personally indentifiable information). Nevertheless, the use of cookies does raise understandable concerns about privacy. If you are worried about this, you can set up your web browser to accept or reject certain kinds of cookies and you can inspect or delete the cookies it contains at any time. We explain how to do this below.
 
@@ -72,4 +60,4 @@ For a more general look at privacy issues, you might like to look at the [Electr
 
 ## Let us know
 
-We hope this answers any concerns you may have about privacy and reassures you that we take the issue seriously. If you have any further queries, please don't hesitate to contact us using our [email](https://web.archive.org/web/20121211200427id_/http%3A//www.explainthatstuff.com/cform.php) form.
+We hope this answers any concerns you may have about privacy and reassures you that we take the issue seriously. If you have any further queries, please don't hesitate to contact us using our [email](https://web.archive.org/web/20130624015847id_/http%3A//www.explainthatstuff.com/cform.php) form.
