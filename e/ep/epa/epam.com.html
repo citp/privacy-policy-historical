@@ -1,9 +1,9 @@
-<!--The following is the downloaded HTML source of the epam.com privacy policy that was archived on 2012-10-24.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121024021206id_/http%3A//www.epam.com/privacy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the epam.com privacy policy that was archived on 2013-06-24.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130624000047id_/http%3A//www.epam.com/privacy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html itemscope="" itemtype="http://schema.org/Organization" xmlns="http://www.w3.org/1999/xhtml"><head>
     <meta http-equiv="content-type" content="text/html; charset=UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=EmulateIE9">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta http-equiv="keywords" content="">
     <meta http-equiv="description" content="">
     <meta http-equiv="title" content="Privacy Policy">
@@ -16,7 +16,10 @@
 
 
 
-<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="/etc/clientlibs/foundation/jquery.js"></script>
+<script type="text/javascript" async="" src="https://mc.yandex.ru/metrika/watch.js"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="/etc/clientlibs/granite/jquery.min.js"></script>
+<script type="text/javascript" src="/etc/clientlibs/granite/utils.min.js"></script>
+<script type="text/javascript" src="/etc/clientlibs/granite/jquery/granite.min.js"></script>
+<script type="text/javascript" src="/etc/clientlibs/foundation/jquery.min.js"></script>
 
 <script type="text/javascript">
 
@@ -30,13 +33,63 @@
         ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
         var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
     })();
-
+    
+    if (typeof jQuery != 'undefined') {
+      jQuery(document).ready(function($) {
+        var filetypes = /\.(zip|exe|dmg|pdf|doc.*|xls.*|ppt.*|mp3|txt|rar|wma|mov|avi|wmv|flv|wav)$/i
+        var baseHref = '';
+        if (jQuery('base').attr('href') != undefined) baseHref = jQuery('base').attr('href');
+    
+        jQuery('a').on('click', function(event) {
+          var el = jQuery(this);
+          var track = true;
+          var href = (typeof(el.attr('href')) != 'undefined' ) ? el.attr('href') :"";
+          var isThisDomain = href.match(document.domain.split('.').reverse()[1] + '.' + document.domain.split('.').reverse()[0]);
+          if (!href.match(/^javascript:/i)) {
+            var elEv = []; elEv.value=0, elEv.non_i=true;
+            if (href.match(/^mailto\:/i)) {
+              elEv.category = "email";
+              elEv.action = "click";
+              elEv.label = href.replace(/^mailto\:/i, '');
+              elEv.loc = href;
+            }
+            else if (href.match(filetypes)) {
+              var extension = (/[.]/.exec(href)) ? /[^.]+$/.exec(href) : undefined;
+              elEv.category = "download";
+              elEv.action = "click-" + extension[0];
+              elEv.label = href.replace(/ /g,"-");
+              elEv.loc = baseHref + href;
+            }
+            else if (href.match(/^https?\:/i) && !isThisDomain) {
+              elEv.category = "external";
+              elEv.action = "click";
+              elEv.label = href.replace(/^https?\:\/\//i, '');
+              elEv.loc = href;
+            }
+            else if (href.match(/^tel\:/i)) {
+              elEv.category = "telephone";
+              elEv.action = "click";
+              elEv.label = href.replace(/^tel\:/i, '');
+              elEv.loc = href;
+            }
+            else track = false;
+    
+           if (track) {
+              _gaq.push(['_trackEvent', elEv.category.toLowerCase(), elEv.action.toLowerCase(), elEv.label.toLowerCase(), elEv.value, elEv.non_i]);
+              if ( el.attr('target') == undefined || el.attr('target').toLowerCase() != '_blank') {
+                setTimeout(function() { location.href = elEv.loc; }, 400);
+                return false;
+              }
+            }
+          }
+        });
+      });
+    }
 </script>
 
 
     <meta name="google-site-verification" content="YU4qJGKaxE0EetfiCVyyaLFsSJ9xpwZS115AkGOpuN8">
 
-        <script type="text/javascript" language="javascript" src="http://stats.epam.com/js/code.js?version=1.0_26032009"></script>
         <script type="text/javascript" language="javascript">top.stats = 1;</script>
         
         
@@ -50,21 +103,32 @@
 
 
 
-<script type="text/javascript">
-    window.___gcfg = {
-        lang: 'en'
-    };
 
-    var addthis_config = {
-        data_ga_property: 'UA-155540-2'
-    };
-</script>
+
+
+
+    <script type="text/javascript">
+        window.___gcfg = {
+            lang: 'en'
+        };
+
+        var addthis_config = {
+            data_ga_property: 'UA-155540-2'
+        };
+    </script>
+
 <script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js#pubid=ra-4ed5fdcc60205be1"></script>
-<script type="text/javascript" src="/etc/designs/epam/ui.js"></script>
-<link rel="stylesheet" href="/etc/designs/epam/ui.css" type="text/css">
+<script type="text/javascript" src="/etc/clientlibs/granite/jquery-ui.min.js"></script>
+<script type="text/javascript" src="/etc/clientlibs/foundation/jquery-ui.min.js"></script>
+
+<link rel="stylesheet" href="/etc/designs/epam/ui.1371815456422.min.css" type="text/css">
+
+<script type="text/javascript" src="/etc/designs/epam/ui.1371815456422.min.js"></script>
 
     <meta itemprop="name" content="Privacy Policy">
     <meta itemprop="description" content="">
+    <link rel="image_src" type="image/jpeg" href="/etc/designs/epam/images/logos/logo.jpg">
+	
     
     <link rel="shortcut icon" type="image/vnd.microsoft.icon" href="/etc/designs/epam/ui/ico/favicon.ico">
     <link rel="alternate" type="application/rss+xml" title="EPAM News" href="/content/epam/en.feed">
@@ -89,6 +153,7 @@
 <!--[if lt IE 9]>
     <script type="text/javascript" src="/etc/designs/epam/ui/js/libs/PIE.js"></script>
     <script type="text/javascript" src="/etc/designs/epam/ui/js/ie/lt-ie9.js"></script>
+    <link type="text/css" rel="stylesheet" href="/etc/designs/epam/ui/css/ie/lt-ie9.css" />
 <![endif]-->
 <!--[if IE 9]>
     <link type="text/css" rel="stylesheet" href="/etc/designs/epam/ui/css/ie/ie9only.css" />
@@ -107,9 +172,56 @@
 
 
 <body class="page common articlepage ">
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+    
+        
+    
+        
+    
+        
+    
+    
+    <!-- Yandex.Metrika counter -->
+    <script type="text/javascript">
+        (function (d, w, c) {
+            (w[c] = w[c] || []).push(function() {
+                try {
+                    w.yaCounter18090997 = new Ya.Metrika({id:18090997, enableAll:true, trackHash:true, webvisor:true});
+                } catch(e) { }
+            });
+               
+            var n = d.getElementsByTagName("script")[0],
+                s = d.createElement("script"),
+                f = function () { n.parentNode.insertBefore(s, n); };
+            s.type = "text/javascript";
+            s.async = true;
+            s.src = (d.location.protocol == "https:" ? "https:" : "http:") + "//mc.yandex.ru/metrika/watch.js";
+             
+            if (w.opera == "[object Opera]") {
+                d.addEventListener("DOMContentLoaded", f, false);
+            } else { f(); }
+        })(document, window, "yandex_metrika_callbacks");
+    </script>
+    <noscript><div><img src="//mc.yandex.ru/watch/18090997" style="position:absolute; left:-9999px;" alt=""/></div></noscript>
+    <!-- /Yandex.Metrika counter -->
+    
+
 <div class="container">
     
-	
+    
 
 
 
@@ -129,11 +241,11 @@
 
 
 
-    <a href="/en.html"><img title="EPAM Systems" alt="Excellence in Software Engineering" src="/etc/designs/epam/en/_jcr_content/common/logo.img.png/1350300088000.png"></a></div>
+    <a href="/en.html"><img title="EPAM Systems" alt="Excellence in Software Engineering" src="/etc/designs/epam/en/_jcr_content/common/logo.img.png/1368703356071.png"></a></div>
 
 	    </div>
 	    <div class="grid_8">
-	        <div id="topnav" class="topnavigation tnmStatic"><style type="text/css">.topnavigation.tnmHover .tnmLast {width:100px;}</style>
+	        <div id="topnav" class="preload topNavigation">
 
 
 
@@ -144,12 +256,12 @@
 
 
 
-<ul class="tnmLvl1 tnmLast" style=""><li><a href="/services.html">Services</a><ul class="tnmLvl2 tnmShouldExpandAnyway" style="width: 219px;"><li><a href="/services/product-development.html">Product Development</a></li><li><a href="/services/application-development.html">Application Development</a></li><li><a href="/services/enterprise-applications.html">Enterprise Application Platforms</a></li><li><a href="/services/application-testing.html">Application Testing</a></li><li><a href="/services/application-maintenance-support.html">Application Maintenance &amp; Support</a></li><li><a href="/services/infrastructure-management.html">ASM &amp; Infrastructure Services</a></li><li class="tnm-deco"><div class="tnm-shade" style="height: 126px;"><div class="tnm-content"></div><div class="tnm-top"></div><div class="tnm-bottom"></div><div class="tnm-right"></div><div class="tnm-rt"></div><div class="tnm-rb"></div></div></li></ul></li><li><a href="/industries.html">Industries</a><ul class="tnmLvl2 tnmShouldExpandAnyway" style="width: 188px;"><li><a href="/industries/isv-saas.html">ISVs &amp;  Technology</a></li><li><a href="/industries/banking-finance.html">Banking &amp; Financial Services</a><ul class="tnmLvl3 tnmShouldExpandAnyway" style="width: 105px;"><li><a href="/industries/banking-finance/capital-markets.html">Capital Markets</a></li><li class="tnm-deco"><div class="tnm-shade" style="height: 36px;"><div class="tnm-content"></div><div class="tnm-top"></div><div class="tnm-bottom"></div><div class="tnm-right"></div><div class="tnm-rt"></div><div class="tnm-rb"></div></div></li></ul></li><li><a href="/industries/business-information-media.html">Business Information &amp; Media</a></li><li><a href="/industries/travel.html">Travel</a></li><li><a href="/industries/retail-cpg.html">Retail &amp; CPG</a><ul class="tnmLvl3 tnmShouldExpandAnyway" style="width: 116px;"><li><a href="/industries/retail-cpg/loyalty-solutions.html">Loyalty Solutions</a></li><li class="tnm-deco"><div class="tnm-shade" style="height: 36px;"><div class="tnm-content"></div><div class="tnm-top"></div><div class="tnm-bottom"></div><div class="tnm-right"></div><div class="tnm-rt"></div><div class="tnm-rb"></div></div></li></ul></li><li><a href="/industries/other-verticals.html">Emerging Verticals</a></li><li class="tnm-deco"><div class="tnm-shade" style="height: 126px;"><div class="tnm-content"></div><div class="tnm-top"></div><div class="tnm-bottom"></div><div class="tnm-right"></div><div class="tnm-rt"></div><div class="tnm-rb"></div></div></li></ul></li><li><a href="/solutions.html">Solutions</a><ul class="tnmLvl2" style="width: 143px;"><li><a href="/solutions/business-intelligence.html">Business Intelligence</a></li><li><a href="/solutions/sap.html">SAP Technologies</a></li><li><a href="/solutions/ecommerce.html">eCommerce Solutions</a></li><li><a href="/solutions/portals-content-management.html">Portals &amp; Content</a></li><li><a href="/solutions/cloud-soa.html">Cloud/SaaS</a><ul class="tnmLvl3 tnmShouldExpandAnyway" style="width: 182px;"><li><a href="/solutions/cloud-soa/expert-centers.html">Expert Centers</a></li><li><a href="/solutions/cloud-soa/tools-and-capabilities.html">Tools &amp; Capabilities</a></li><li><a href="/solutions/cloud-soa/adoption-and-migration.html">Adoption &amp; Migration</a></li><li><a href="/solutions/cloud-soa/managed_services.html">Managed Services</a></li><li><a href="/solutions/cloud-soa/opd-saas.html">SaaS Solutions Development</a></li><li class="tnm-deco"><div class="tnm-shade" style="height: 108px;"><div class="tnm-content"></div><div class="tnm-top"></div><div class="tnm-bottom"></div><div class="tnm-right"></div><div class="tnm-rt"></div><div class="tnm-rb"></div></div></li></ul></li><li><a href="/solutions/mobile.html">Mobile</a></li><li><a href="/solutions/uxd.html">UXD</a></li><li><a href="/solutions/technology.html">Technology Solutions</a><ul class="tnmLvl3 tnmShouldExpandAnyway" style="width: 150px;"><li><a href="/solutions/technology/enterprise-java.html">Enterprise Java</a></li><li><a href="/solutions/technology/net-microsoft-technologies.html">Microsoft Technologies</a></li><li><a href="/solutions/technology/linux-and-open-source.html">LAMP</a></li><li class="tnm-deco"><div class="tnm-shade" style="height: 72px;"><div class="tnm-content"></div><div class="tnm-top"></div><div class="tnm-bottom"></div><div class="tnm-right"></div><div class="tnm-rt"></div><div class="tnm-rb"></div></div></li></ul></li><li class="tnm-deco"><div class="tnm-shade" style="height: 162px;"><div class="tnm-content"></div><div class="tnm-top"></div><div class="tnm-bottom"></div><div class="tnm-right"></div><div class="tnm-rt"></div><div class="tnm-rb"></div></div></li></ul></li><li><a href="/strengths.html">Strengths</a><ul class="tnmLvl2" style="width: 170px;"><li><a href="/strengths/people.html">Our People</a></li><li><a href="/strengths/partners.html">Our Partners</a></li><li><a href="/strengths/nearshore-advantage.html">NearShore Advantage</a></li><li><a href="/strengths/global-delivery.html">Global Delivery Ecosystem</a></li><li><a href="/strengths/agile.html">Agile</a><ul class="tnmLvl3 tnmShouldExpandAnyway" style="width: 177px;"><li><a href="/strengths/agile/our-approach.html">Our Unique Approach</a></li><li><a href="/strengths/agile/benefits-of-agile.html">Benefits of Pragmatic Agile</a></li><li><a href="/strengths/agile/industry-challenges.html">Solving Industry Challenges</a></li><li><a href="/strengths/agile/agile-solutions.html">EPAM Agile Solutions</a></li><li class="tnm-deco"><div class="tnm-shade" style="height: 90px;"><div class="tnm-content"></div><div class="tnm-top"></div><div class="tnm-bottom"></div><div class="tnm-right"></div><div class="tnm-rt"></div><div class="tnm-rb"></div></div></li></ul></li><li><a href="/strengths/innovation.html">Innovation Labs</a></li><li><a href="/strengths/competency.html">Competency Centers</a></li><li><a href="/strengths/engagement-models.html">Engagement Models</a></li><li class="tnm-deco"><div class="tnm-shade" style="height: 162px;"><div class="tnm-content"></div><div class="tnm-top"></div><div class="tnm-bottom"></div><div class="tnm-right"></div><div class="tnm-rt"></div><div class="tnm-rb"></div></div></li></ul></li><li><a href="/company.html">Company</a><ul class="tnmLvl2" style="width: 144px;"><li><a href="/company/customers.html">Our Customers</a></li><li><a href="/company/history.html">History</a></li><li><a href="/company/leadership.html">Leadership</a><ul class="tnmLvl3 tnmShouldExpandAnyway" style="width: 123px;"><li><a href="/company/leadership/management-team.html">Management Team</a></li><li><a href="/company/leadership/board-of-directors.html">Board of Directors</a></li><li class="tnm-deco"><div class="tnm-shade" style="height: 54px;"><div class="tnm-content"></div><div class="tnm-top"></div><div class="tnm-bottom"></div><div class="tnm-right"></div><div class="tnm-rt"></div><div class="tnm-rb"></div></div></li></ul></li><li><a href="/company/offices-worldwide.html">Offices Worldwide</a></li><li><a href="/company/news-events.html">News &amp; Events</a><ul class="tnmLvl3 tnmShouldExpandAnyway" style="width: 165px;"><li><a href="/company/news-events/events.html">Events</a></li><li><a href="/company/news-events/press-releases.html">Company News</a></li><li><a href="/company/news-events/press-about-epam.html">Media Coverage</a></li><li><a href="/company/news-events/reports-whitepapers.html">Reports and White Papers</a></li><li><a href="/company/news-events/workshops.html">Workshops</a></li><li class="tnm-deco"><div class="tnm-shade" style="height: 108px;"><div class="tnm-content"></div><div class="tnm-top"></div><div class="tnm-bottom"></div><div class="tnm-right"></div><div class="tnm-rt"></div><div class="tnm-rb"></div></div></li></ul></li><li><a href="/company/awards-recognition.html">Awards  &amp;  Recognition</a></li><li><a href="http://investors.epam.com">Investors</a></li><li class="tnm-deco"><div class="tnm-shade" style="height: 144px;"><div class="tnm-content"></div><div class="tnm-top"></div><div class="tnm-bottom"></div><div class="tnm-right"></div><div class="tnm-rt"></div><div class="tnm-rb"></div></div></li></ul></li><li><a href="/careers.html">Careers</a><ul class="tnmLvl2" style="width: 100px;"><li><a href="/careers/usa.html">USA</a></li><li><a href="/careers/canada.html">Canada</a></li><li><a href="/careers/uk.html">UK</a></li><li><a href="/careers/germany.html">Germany</a></li><li><a href="/careers/sweden.html">Sweden</a></li><li><a href="/careers/hungary.html">Hungary</a></li><li><a href="/careers/poland.html">Poland</a></li><li><a href="/careers/switzerland.html">Switzerland</a></li><li><a href="/careers/russia.html">Russia </a></li><li><a href="/careers/ukraine.html">Ukraine</a></li><li><a href="/careers/belarus.html">Belarus </a></li><li><a href="http://epam.kz/vacancies-kazakhstan.aspx" target="_blank">Kazakhstan</a></li><li class="tnm-deco"><div class="tnm-shade" style="height: 234px;"><div class="tnm-content"></div><div class="tnm-top"></div><div class="tnm-bottom"></div><div class="tnm-right"></div><div class="tnm-rt"></div><div class="tnm-rb"></div></div></li></ul></li></ul>
+<ul><li><a href="/services.html">Services</a><ul><li><a href="/services/product-development.html">Product Development</a></li><li><a href="/services/application-development.html">Application Development</a></li><li><a href="/services/enterprise-applications.html">Enterprise Application Platforms</a></li><li><a href="/services/application-testing.html">Application Testing</a></li><li><a href="/services/application-maintenance-support.html">Application Maintenance &amp; Support</a><ul><li><a href="/services/application-maintenance-support/application-performance-management.html">Application Performance Management Services</a></li></ul></li><li><a href="/services/infrastructure-management.html">ASM &amp; Infrastructure Services</a></li></ul></li><li><a href="/industries.html">Industries</a><ul><li><a href="/industries/isv-saas.html">ISVs &amp;  Technology</a></li><li><a href="/industries/banking-finance.html">Banking &amp; Financial Services</a><ul><li><a href="/industries/banking-finance/capital-markets.html">Capital Markets</a></li></ul></li><li><a href="/industries/business-information-media.html">Business Information &amp; Media</a><ul><li><a href="/industries/business-information-media/market-data.html">Market Data</a></li></ul></li><li><a href="/industries/travel.html">Travel &amp; Hospitality</a></li><li><a href="/industries/retail-cpg.html">Retail &amp; CPG</a><ul><li><a href="/industries/retail-cpg/loyalty-solutions.html">Loyalty Solutions</a></li></ul></li><li><a href="/industries/other-verticals.html">Emerging Verticals</a></li></ul></li><li><a href="/solutions.html">Solutions</a><ul><li><a href="/solutions/digital-strategy.html">Digital Strategy </a></li><li><a href="/solutions/business_intelligence.html">Business Intelligence</a><ul><li><a href="/solutions/business_intelligence/data_foundation.html">Data Foundation</a></li><li><a href="/solutions/business_intelligence/bi_analysis_and_reporting.html">BI Analysis and Reporting</a></li><li><a href="/solutions/business_intelligence/big-data.html">Big Data</a></li><li><a href="/solutions/business_intelligence/benefits_of_working_with_epam.html">Benefits of Working with EPAM</a></li><li><a href="/solutions/business_intelligence/our_bi_experience.html">Our BI Experience</a></li><li><a href="/solutions/business_intelligence/epam_bi_solutions.html">EPAM BI Solutions</a></li><li><a href="/content/epam/en/solutions/business_intelligence/bi_blog.html">BI Blog</a></li></ul></li><li><a href="/solutions/sap.html">SAP Technologies</a></li><li><a href="/solutions/ecommerce.html">eCommerce Solutions</a></li><li><a href="/solutions/portals-content-management.html">Portals &amp; Content</a></li><li><a href="/solutions/cloud-soa.html">Cloud/SaaS</a><ul><li><a href="/solutions/cloud-soa/expert-centers.html">Expert Centers</a></li><li><a href="/solutions/cloud-soa/tools-and-capabilities.html">Tools &amp; Capabilities</a></li><li><a href="/solutions/cloud-soa/adoption-and-migration.html">Adoption &amp; Migration</a></li><li><a href="/solutions/cloud-soa/managed_services.html">Managed Services</a></li><li><a href="/solutions/cloud-soa/opd-saas.html">SaaS Solutions Development</a></li></ul></li><li><a href="/solutions/mobile.html">Mobile</a></li><li><a href="/solutions/uxd.html">UXD</a></li><li><a href="/solutions/technology.html">Technology Solutions</a><ul><li><a href="/solutions/technology/enterprise-java.html">Enterprise Java</a></li><li><a href="/solutions/technology/net-microsoft-technologies.html">Microsoft Technologies</a></li><li><a href="/solutions/technology/linux-and-open-source.html">LAMP</a></li></ul></li><li><a href="/solutions/embedded.html">Embedded Solutions</a></li></ul></li><li><a href="/strengths.html">Strengths</a><ul><li><a href="/strengths/people.html">Our People</a></li><li><a href="/strengths/partners.html">Our Partners</a></li><li><a href="/strengths/nearshore-advantage.html">NearShore Advantage</a></li><li><a href="/strengths/global-delivery.html">Global Delivery Ecosystem</a></li><li><a href="/strengths/agile.html">Agile</a><ul><li><a href="/strengths/agile/our-approach.html">Our Unique Approach</a></li><li><a href="/strengths/agile/benefits-of-agile.html">Benefits of Pragmatic Agile</a></li><li><a href="/strengths/agile/industry-challenges.html">Solving Industry Challenges</a></li><li><a href="/strengths/agile/agile-solutions.html">EPAM Agile Solutions</a></li><li><a href="/content/epam/en/strengths/agile/agile_blog.html">Agile Blog</a></li></ul></li><li><a href="/strengths/innovation.html">Innovation Labs</a></li><li><a href="/strengths/competency.html">Competency Centers</a></li><li><a href="/strengths/engagement-models.html">Engagement Models</a></li></ul></li><li><a href="/company.html">Company</a><ul><li><a href="/company/customers.html">Our Customers</a></li><li><a href="/company/history.html">History</a></li><li><a href="/company/leadership.html">Leadership</a><ul><li><a href="/company/leadership/management-team.html">Management Team</a></li><li><a href="/company/leadership/board-of-directors.html">Board of Directors</a></li></ul></li><li><a href="/company/offices-worldwide.html">Offices Worldwide</a></li><li><a href="/company/news-events.html">News &amp; Events</a><ul><li><a href="/company/news-events/events.html">Events</a></li><li><a href="/company/news-events/press-releases.html">Company News</a></li><li><a href="/company/news-events/press-about-epam.html">Media Coverage</a></li><li><a href="/company/news-events/reports-whitepapers.html">Reports and White Papers</a></li><li><a href="/company/news-events/workshops.html">Workshops</a></li></ul></li><li><a href="/company/awards-recognition.html">Awards  &amp;  Recognition</a></li><li><a href="http://investors.epam.com">Investors</a></li></ul></li><li><a href="/careers.html">Careers</a><ul><li><a href="/careers/usa.html">USA</a></li><li><a href="/careers/canada.html">Canada</a></li><li><a href="/careers/uk.html">UK</a></li><li><a href="/careers/germany.html">Germany</a></li><li><a href="/careers/sweden.html">Sweden</a></li><li><a href="/careers/hungary.html">Hungary</a></li><li><a href="/careers/poland.html">Poland</a></li><li><a href="/careers/switzerland.html">Switzerland</a></li><li><a href="/careers/russia.html">Russia </a></li><li><a href="/careers/ukraine.html">Ukraine</a></li><li><a href="/careers/belarus.html">Belarus </a></li><li><a href="/careers/kazakhstan.html">Kazakhstan</a></li></ul></li></ul>
 <div class="clear"></div></div>
 
 	    </div>
 	    <div class="grid_4 grid_right">
-            <div class="parbase global_sites global-sites-links">
+            <div class="globalSitesLinks">
 
 
 
@@ -158,9 +270,12 @@
 
 
 
-<ul class="site-lang">
+<ul class="siteLang">
 
 
+    
+    
+    
     
          
                                           
@@ -183,13 +298,13 @@
 
                     
     <li class="global">Global</li>
-    <li class="current cover-holder">
-        <a class="arrow-ud" href="javascript:void(0);" onclick="javascript: return false;">English</a>
+    <li class="current coverHolder">
+        <a class="toggle" href="javascript:void(0);" onclick="javascript: return false;">English</a>
         <div class="cover">
-            <div class="cover-content"><div class="global-sites-cover">
+            <div class="content">
             	<span class="nowrap">
-	                <a class="t1 on" href="javascript:void(0);">Global Website</a>
-	                <a class="t2" href="javascript:void(0);">Specialized Websites</a>
+	                <span class="t1 on">Global Website</span>
+	                <span class="t2">Specialized Websites</span>
 	                &nbsp;&nbsp;&nbsp;
 	            </span>
                 <div class="rmnHr"></div>
@@ -233,7 +348,7 @@
                                 <td>Kazakhstan</td>
                                 <td>
                                     
-                                    <a href="http://www.epam.kz" target="_blank">Русский</a>
+                                    <a href="/ru_kz.html">Русский</a>
                                 </td>
                             </tr>
                         
@@ -248,7 +363,7 @@
                                 <td>B2BITS® - Capital Markets Competency Center</td>
                                 <td>
                                     
-                                    <a class="arrow up-right" href="http://www.b2bits.com" target="_blank">www.b2bits.com</a>
+                                    <a class="arrow upRight" href="http://www.b2bits.com" target="_blank">www.b2bits.com</a>
                                 </td>
                             </tr>
                         
@@ -256,33 +371,25 @@
                                 <td>InfoNgen - Cloud Based Information Discovery and Knowledge Management</td>
                                 <td>
                                     
-                                    <a class="arrow up-right" href="http://www.infongen.com" target="_blank">www.infongen.com</a>
-                                </td>
-                            </tr>
-                        
-                            <tr>
-                                <td>EPAM Project Management Center</td>
-                                <td>
-                                    
-                                    <a class="arrow up-right" href="http://www.epam-pmc.com" target="_blank">www.epam-pmc.com</a>
+                                    <a class="arrow upRight" href="http://www.infongen.com" target="_blank">www.infongen.com</a>
                                 </td>
                             </tr>
                         
                     
                 </tbody></table>                              
-            </div></div>
+            </div>
             
-            <div class="cover-lt"></div>
-            <div class="cover-l"></div>
-            <div class="cover-lb"></div>
-            <div class="cover-b"></div>
-            <div class="cover-rb"></div>
-            <div class="cover-r"></div>
-            <div class="cover-rt"></div>
-            <div class="cover-tr"></div>
-            <div class="cover-angle"></div>
-            <div class="cover-tl"></div>
-            <a href="javascript:void(0);" class="cover-cross"></a>
+			<div class="leftTop"></div>
+			<div class="left"></div>
+			<div class="leftBottom"></div>
+			<div class="bottom"></div>
+			<div class="rightBottom"></div>
+			<div class="right"></div>
+			<div class="rightTop"></div>
+			<div class="topRight"></div>
+			<div class="angle"></div>
+			<div class="topLeft"></div>
+            <a href="javascript:void(0);" class="cross"></a>
         </div>
     </li>
 </ul>
@@ -310,16 +417,12 @@
     
 
 <form id="topSearchForm" method="get" action="/search.html">
-    <input id="searchField" class="searchKeyword" type="text" name="q" value="Search">
+    <input id="searchField" class="searchKeyword" type="text" name="q" defaulttext="Search" value="Search">
     <input class="searchButton" type="submit" value="">
 </form>
-<div class="clear"></div>
+<div class="clear"></div></div>
 
-<script>
-  clearSearch("Search");
-</script></div>
-
-	        <div class="parbase contact-us-links contact_us">
+	        <div class="contactUsLinks">
 
 
 
@@ -330,41 +433,46 @@
 
 
 
-<ul class="careers-n-contacts">
+<ul>
      
         
         
-            <li class="careers">
-                
-                <a href="/careers.html">Careers</a>
-            </li>
-            <li class="contacts cover-holder">
-                <a class="arrow-ud" href="javascript:void(0);" onclick="javascript: return false;">Contact Us</a>
+
+        
+          
+           
+                    <li class="careers">
+                        
+                        <a href="/careers.html">Careers</a>            
+                    </li>
+           
+                     
+            <li class="contacts coverHolder">
+                <a class="toggle" href="javascript:void(0);" onclick="javascript: return false;">Contact Us</a>
                 <div class="cover">
-                    <div class="cover-content">
-                        <div class="parsys"><div class="parbase contact-us-cover section"><div class="contacts-columns" style="min-width: 700px; max-width: 700px; width: 700px;">
-			<div class="contacts-column" style="width: 25%;">
-	    <div class="contacts-column-padding">
-	    	<h3 class="contact-way talk-contact">
-		    	Talk</h3>	        
-	        <div class="text"><p><b>USA: </b><br>
-<span class="Tagline18">+1 (267) 759-9000</span></p>
+                    <div class="content">
+                        <div class="parsys"><div class="contactUsCover section"><div class="columns">
+			<div class="column">
+        <div class="padding">
+            <h3 class="contactWay talkContact">
+                Talk</h3>
+            <div class="text"><p><b>USA: </b><br>
+<span class="textTagline18">+1 (267) 759-9000</span></p>
 <p><b>EU:</b><br>
-<span class="Tagline18">+36 (1) 327-7400</span></p>
+<span class="textTagline18">+36 (1) 327-7400</span></p>
 <p><b>CIS:</b><br>
-<span class="Tagline18">+7 (495) 730-6360</span></p>
-<p><b>by Skype</b></p>
-<p><span class="Skype"><a href="skype:ask.epam?call">ask.epam</a></span></p>
+<span class="textTagline18">+7 (495) 730-6360</span></p>
+<p><b>by Skype:</b></p>
+<p><span class="textSkype"><a href="skype:ask.epam?call">ask.epam</a></span></p>
 </div></div>
 	</div>
-<div class="contacts-column" style="width: 25%;">
-	    <div class="contacts-column-padding">
-	    	<h3 class="contact-way write-contact">
-		    	Write</h3>
-	        <div class="text"><p><a href="/company/requestinfo.html"><span class="arrow blue-right">Online Request</span></a><br>
-or <a href="mailto:ask@epam.com">ask@epam.com</a><br>
+<div class="column">
+        <div class="padding">
+            <h3 class="contactWay writeContact">
+                Write</h3>
+            <div class="text"><p><a href="/company/requestinfo.html"><span class="arrow blue-right">Online Request</span></a><br>
 <br>
-<b>Postal address</b></p>
+<b>Postal address:</b></p>
 <p>EPAM Systems<br>
 41 University Drive,<br>
 Newtown (PA), 18940<br>
@@ -372,56 +480,57 @@ USA</p>
 <p></p>
 </div></div>
 	</div>
-<div class="contacts-column" style="width: 25%;">
-	    <div class="contacts-column-padding">
-	    	<h3 class="contact-way meet-contact">
-		    	Meet</h3>	
-	        <div class="text"><p><b>Visit EPAM:</b></p>
+<div class="column">
+        <div class="padding">
+            <h3 class="contactWay meetContact">
+                Meet</h3>
+            <div class="text"><p><b>Visit EPAM:</b></p>
 <p>41 University Drive<br>
 Newtown, PA 18940</p>
+<p><b>At the Event:</b>
+</p>
 <p></p>
 </div><dl>
     <dd>
-        <div class="event-date">August 13 2012</div>
-        <div class="event-place"><p>Gaylord Texan Hotel &amp; Convention Center, Grapevine, TX, USA</p>
-</div>
-        <a class="event-title" href="/content/epam/en/company/news-events/events/2012.html#Agile 2012" title="Agile 2012 ">Agile 2012 </a>
-        <a class="events-link arrow lightgray-right" href="/company/news-events/events.html">Events</a>
-        <div style="clear:both"></div>
+        <div class="eventDate">March 04, 2013</div>
+        <div class="eventPlace">Salt Palace Convention Center, Salt Lake City, Utah</div>
+        <a class="eventTitle" href="/company/news-events/events/2013.html#Adobe%20Digital%20Marketing%20Summit%202013" title="Adobe Digital Marketing Summit 2013">Adobe Digital Marketing Summit 2013</a>
+        <a class="eventsLink arrow lightgrayRight" href="/company/news-events/events/2013.html">Events</a>
+        <div class="clear"></div>
     </dd>
 </dl>	        </div>
 	</div>
-<div class="contacts-column last" style="width: 25%;">
-	    <div class="contacts-column-padding">
-	    	<h3 class="contact-way follow-contact">
-		    	Follow</h3>	
-	        
-	         <ul>
-	         	<li>
-                        <a href="http://www.facebook.com/EPAM.Systems" target="_blank"><img src="/content/dam/epam/company/Social%20Media/Facebook.png">Join us on Facebook</a>
-		    			    </li>
-	         	<li>
-                        <a href="http://twitter.com/#!/EPAMSYSTEMS" target="_blank"><img src="/content/dam/epam/company/Social%20Media/Twitter.png">Follow us on Twitter</a>
-		    			    </li>
-	         	<li>
-                        <a href="/content/epam/en.feed"><img src="/content/dam/epam/company/Social%20Media/RSS.png">Subscribe to RSS</a>
-		    			    </li>
-	         	<li>
-                        <a href="http://epam-systems.blogspot.com/" target="_blank"><img src="/content/dam/epam/company/Social%20Media/Blogspot.png">Read our Blogspot</a>
-		    			    </li>
-	         	<li>
-                        <a href="http://www.linkedin.com/company/4972?goback=.fcs_GLHD_EPAM_*2_*2_*2_*2_*2_*2_*2_*2_*2_*2_*2&amp;trk=ncsrch_hits" target="_blank"><img src="/content/dam/epam/company/Social%20Media/LinkedIn.png">Join us on LinkedIn</a>
-		    			    </li>
-	         	<li>
-                        <a href="https://plus.google.com/116961464081783976596/posts?hl=en" target="_blank"><img src="/content/dam/epam/company/Social%20Media/google_plus_upd.png">Join us on Google+</a>
-		    			    </li>
-	         	</ul>      	      
-	         <div class="clear"></div>
-	    </div>
+<div class="column">
+    	<div class="padding">
+            <h3 class="contactWay followContact">
+                Follow</h3>
+
+             <ul>
+                <li>
+                           <a href="http://www.facebook.com/EPAM.Systems" target="_blank"><img src="/content/dam/epam/company/Social%20Media/Facebook.png">Join us on Facebook</a>
+                            </li>
+                <li>
+                           <a href="http://twitter.com/#!/EPAMSYSTEMS" target="_blank"><img src="/content/dam/epam/company/Social%20Media/Twitter.png">Follow us on Twitter</a>
+                            </li>
+                <li>
+                           <a href="/content/epam/en.feed"><img src="/content/dam/epam/company/Social%20Media/RSS.png">Subscribe to RSS</a>
+                            </li>
+                <li>
+                           <a href="http://epam-systems.blogspot.com/" target="_blank"><img src="/content/dam/epam/company/Social%20Media/Blogspot.png">Read our Blogspot</a>
+                            </li>
+                <li>
+                           <a href="http://www.linkedin.com/company/4972?goback=.fcs_GLHD_EPAM_*2_*2_*2_*2_*2_*2_*2_*2_*2_*2_*2&amp;trk=ncsrch_hits" target="_blank"><img src="/content/dam/epam/company/Social%20Media/LinkedIn.png">Join us on LinkedIn</a>
+                            </li>
+                <li>
+                           <a href="https://plus.google.com/116961464081783976596/posts?hl=en" target="_blank"><img src="/content/dam/epam/company/Social%20Media/google_plus_upd.png">Join us on Google+</a>
+                            </li>
+                </ul>
+             <div class="clear"></div>
+         </div>
 	</div><div class="clear"></div>
 		</div>
-		<div class="contact-us-bottom-links" style="min-width: 700px; max-width: 700px; width: 700px;">
-    <a href="/company/contactus.html" class="arrow blue-right">Contact Us Page</a>
+		<div class="bottomLinks">
+    <a href="/company/contactus.html" class="arrow blueRight">Contact Us Page</a>
             <a href="/company/offices-worldwide.html">See all EPAM locations</a>
             </div></div>
 
@@ -429,11 +538,11 @@ Newtown, PA 18940</p>
     $(document).ready(function() {
         var hasParsysWidth = ("false" == "true") ? true : false;
         if (!hasParsysWidth) {
-            var width = $("#" + "parsys_1351044726121").parent().width();
+            var width = $("#" + "parsys_1372027703333").parent().width();
             if (width) {
                 $.ajax({
                     type: "POST",
-                    url: "/content/epam/en/jcr:content/contact_us/cover-content",
+                    url: "/content/epam/en/jcr:content/contact_us/content",
                     data: { parsysWidth: width }
                 });
             }
@@ -442,17 +551,17 @@ Newtown, PA 18940</p>
 </script></div>
 
                     </div>
-                    <div class="cover-lt"></div>
-                    <div class="cover-l"></div>
-                    <div class="cover-lb"></div>
-                    <div class="cover-b"></div>
-                    <div class="cover-rb"></div>
-                    <div class="cover-r"></div>
-                    <div class="cover-rt"></div>
-                    <div class="cover-tr"></div>
-                    <div class="cover-angle"></div>
-                    <div class="cover-tl"></div>
-                    <a href="javascript:void(0);" class="cover-cross"></a>
+                    <div class="leftTop"></div>
+                    <div class="left"></div>
+                    <div class="leftBottom"></div>
+                    <div class="bottom"></div>
+                    <div class="rightBottom"></div>
+                    <div class="right"></div>
+                    <div class="rightTop"></div>
+                    <div class="topRight"></div>
+                    <div class="angle"></div>
+                    <div class="topLeft"></div>
+                    <a href="javascript:void(0);" class="cross"></a>
                 </div>              
             </li>
             
@@ -463,7 +572,7 @@ Newtown, PA 18940</p>
         </div>
     </div>
 </div>
-	
+    
 
 
 
@@ -480,7 +589,7 @@ Newtown, PA 18940</p>
     $(document).ready(function() {
         var hasParsysWidth = ("false" == "true") ? true : false;
         if (!hasParsysWidth) {
-            var width = $("#" + "parsys_1351044726259").parent().width();
+            var width = $("#" + "parsys_1372027703369").parent().width();
             if (width) {
                 $.ajax({
                     type: "POST",
@@ -494,7 +603,7 @@ Newtown, PA 18940</p>
 
             </div>
             <div class="grid_8 alpha">
-                <div class="parsys textarea_container"><div class="text parbase section">
+                <div class="parsys textarea_container"><div class="text section">
 
 
 
@@ -502,7 +611,7 @@ Newtown, PA 18940</p>
 
 
 
-<h1><span class="Header24">Privacy Policy</span></h1>
+<h1><span class="textHeader24">Privacy Policy</span></h1>
 <p>EPAM Systems, Inc. has created this Privacy Policy in line with our commitment to your privacy on EPAM websites. The following discloses our information gathering, dissemination and protection practices.<br>
 </p>
 <h2><b>Compliance</b><br>
@@ -542,14 +651,14 @@ Fax: +1-267-759-8989<br>
 <br>
 Please feel free to <a href="/company/requestinfo.html">provide your feedback online</a>.</p>
 
-<div style="clear:both"></div>
+<div class="clear"></div>
 </div>
 
 <script type="text/javascript">    
     $(document).ready(function() {
         var hasParsysWidth = ("false" == "true") ? true : false;
         if (!hasParsysWidth) {
-            var width = $("#" + "parsys_1351044726265").parent().width();
+            var width = $("#" + "parsys_1372027703370").parent().width();
             if (width) {
                 $.ajax({
                     type: "POST",
@@ -568,7 +677,7 @@ Please feel free to <a href="/company/requestinfo.html">provide your feedback on
     $(document).ready(function() {
         var hasParsysWidth = ("false" == "true") ? true : false;
         if (!hasParsysWidth) {
-            var width = $("#" + "parsys_1351044726272").parent().width();
+            var width = $("#" + "parsys_1372027703373").parent().width();
             if (width) {
                 $.ajax({
                     type: "POST",
@@ -583,7 +692,8 @@ Please feel free to <a href="/company/requestinfo.html">provide your feedback on
             </div>
         </div>
         <div class="grid_4">
-            <div class="parsys aside_container"><div class="title parbase section">
+            <div class="parsys aside_container"><div class="pageTitle section">
+
 
 
 
@@ -605,31 +715,35 @@ Please feel free to <a href="/company/requestinfo.html">provide your feedback on
 
 
 
+    
+    
+
 
 
     
 
 
 
-	
+    
 
 
 
-	
+    
 
 
 
 
-<h1 class="pagetitle">
-    Privacy Policy
-</h1>
-</div>
+    
+
+<h1 class="textPageTitle">
+    Privacy Policy 
+</h1></div>
 
 <script type="text/javascript">    
     $(document).ready(function() {
         var hasParsysWidth = ("false" == "true") ? true : false;
         if (!hasParsysWidth) {
-            var width = $("#" + "parsys_1351044726277").parent().width();
+            var width = $("#" + "parsys_1372027703374").parent().width();
             if (width) {
                 $.ajax({
                     type: "POST",
@@ -644,8 +758,28 @@ Please feel free to <a href="/company/requestinfo.html">provide your feedback on
         </div>
     </div>
 </div>
-	<div class="footer-place"></div>
+    
+    
+
+
+
+
+
+
+
+
+
+
+
+
+	<div class="leadLanderTracker">
+	  <script type="text/javascript" language="javascript">llactid=20613</script>
+	  <script type="text/javascript" language="javascript" src="http://t6.trackalyzer.com/trackalyze.js"></script>
+	</div>
+     
 	
+    <div class="footerPlace"></div>
+    
 
 
 
@@ -654,8 +788,8 @@ Please feel free to <a href="/company/requestinfo.html">provide your feedback on
 
 
 <div class="footer">
-    <div class="container_16">
-        <div class="footer-top-row">
+    <div class="container_16 footerWrapper">
+        <div class="topRow">
             <div class="grid_8">
                 <div class="parbase pagelinks">
 
@@ -671,32 +805,30 @@ Please feel free to <a href="/company/requestinfo.html">provide your feedback on
 
 
 	
-<div style="height:16px;">
 
 	
 		<ul>
 			
-				
+				 
 				<li><a href="/company.html">About Us</a></li>
 			
-				
+				 
 				<li><a href="/company/contactus.html">Contact Us</a></li>
 			
-				
+				 
 				<li><a href="/sitemap.html">Site Map</a></li>
 			
-				
+				 
 				<li><a href="/careers.html">Careers</a></li>
 			
 		</ul>
 	
 	
-
-</div></div>
+</div>
 
             </div>
             <div class="grid_8 grid_right">
-                <div class="parbase share-follow social-links">
+                <div class="shareFollow socialLinks">
 
 
 
@@ -708,6 +840,7 @@ Please feel free to <a href="/company/requestinfo.html">provide your feedback on
 
 
 
+<script type="text/javascript">stLight.options({publisher:'c256931b-188b-4dde-80ef-afc3db33c205',onhover: false, publisherGA:'UA-155540-2'});</script>
 
     
     
@@ -715,19 +848,19 @@ Please feel free to <a href="/company/requestinfo.html">provide your feedback on
         <ul>
             
                 
-                <li class="sclnkFb"><a title="Join us on Facebook!" href="http://www.facebook.com/EPAM.Systems" target="_blank"><img alt="Join us on Facebook!" title="Join us on Facebook!" src="/etc/designs/epam/ui/img/common/transparent-pixel.png"></a></li>
+                <li class="facebook"><a title="Join us on Facebook!" href="http://www.facebook.com/EPAM.Systems" target="_blank"><img alt="Join us on Facebook!" title="Join us on Facebook!" src="/etc/designs/epam/ui/img/common/transparent-pixel.png"></a></li>
             
                 
-                <li class="sclnkTw"><a title="Follow us on Twitter!" href="https://twitter.com/#!/EPAMSYSTEMS" target="_blank"><img alt="Follow us on Twitter!" title="Follow us on Twitter!" src="/etc/designs/epam/ui/img/common/transparent-pixel.png"></a></li>
+                <li class="twitter"><a title="Follow us on Twitter!" href="https://twitter.com/#!/EPAMSYSTEMS" target="_blank"><img alt="Follow us on Twitter!" title="Follow us on Twitter!" src="/etc/designs/epam/ui/img/common/transparent-pixel.png"></a></li>
             
                 
-                <li class="sclnkBl"><a title="Read our Blogspot!" href="http://epam-systems.blogspot.com/" target="_blank"><img alt="Read our Blogspot!" title="Read our Blogspot!" src="/etc/designs/epam/ui/img/common/transparent-pixel.png"></a></li>
+                <li class="blogSpot"><a title="Read our Blogspot!" href="http://epam-systems.blogspot.com/" target="_blank"><img alt="Read our Blogspot!" title="Read our Blogspot!" src="/etc/designs/epam/ui/img/common/transparent-pixel.png"></a></li>
             
                 
-                <li class="sclnkLi"><a title="Look for available jobs on LinkedIn!" href="http://www.linkedin.com/company/4972?goback=.fcs_GLHD_EPAM_*2_*2_*2_*2_*2_*2_*2_*2_*2_*2_*2&amp;trk=ncsrch_hits" target="_blank"><img alt="Look for available jobs on LinkedIn!" title="Look for available jobs on LinkedIn!" src="/etc/designs/epam/ui/img/common/transparent-pixel.png"></a></li>
+                <li class="linkedIn"><a title="Look for available jobs on LinkedIn!" href="http://www.linkedin.com/company/4972?goback=.fcs_GLHD_EPAM_*2_*2_*2_*2_*2_*2_*2_*2_*2_*2_*2&amp;trk=ncsrch_hits" target="_blank"><img alt="Look for available jobs on LinkedIn!" title="Look for available jobs on LinkedIn!" src="/etc/designs/epam/ui/img/common/transparent-pixel.png"></a></li>
             
                 
-                <li class="sclnkGp"><a title="Enjoy our club on Google+!" href="https://plus.google.com/116961464081783976596/posts?hl=en" target="_blank"><img alt="Enjoy our club on Google+!" title="Enjoy our club on Google+!" src="/etc/designs/epam/ui/img/common/transparent-pixel.png"></a></li>
+                <li class="googlePlus"><a title="Join us on Google+!" href="https://plus.google.com/116961464081783976596/posts?hl=en" target="_blank"><img alt="Join us on Google+!" title="Join us on Google+!" src="/etc/designs/epam/ui/img/common/transparent-pixel.png"></a></li>
             
         </ul>
     
@@ -736,11 +869,11 @@ Please feel free to <a href="/company/requestinfo.html">provide your feedback on
 
             </div>
         </div>
-        <div class="grid_16 footer-middle-row">
-			<div class="parbase footer-sitemap"><ul><li><a href="/services.html">Services</a><ul><li><a href="/services/product-development.html">Product Development</a></li><li><a href="/services/application-development.html">Application Development</a></li><li><a href="/services/enterprise-applications.html">Enterprise Application Platforms</a></li><li><a href="/services/application-testing.html">Application Testing</a></li><li><a href="/services/application-maintenance-support.html">Application Maintenance &amp; Support</a></li><li><a href="/services/infrastructure-management.html">ASM &amp; Infrastructure Services</a></li></ul></li><li><a href="/industries.html">Industries</a><ul><li><a href="/industries/isv-saas.html">ISVs &amp;  Technology</a></li><li><a href="/industries/banking-finance.html">Banking &amp; Financial Services</a></li><li><a href="/industries/business-information-media.html">Business Information &amp; Media</a></li><li><a href="/industries/travel.html">Travel</a></li><li><a href="/industries/retail-cpg.html">Retail &amp; CPG</a></li><li><a href="/industries/other-verticals.html">Emerging Verticals</a></li></ul></li><li><a href="/solutions.html">Solutions</a><ul><li><a href="/solutions/business-intelligence.html">Business Intelligence</a></li><li><a href="/solutions/sap.html">SAP Technologies</a></li><li><a href="/solutions/ecommerce.html">eCommerce Solutions</a></li><li><a href="/solutions/portals-content-management.html">Portals &amp; Content</a></li><li><a href="/solutions/cloud-soa.html">Cloud/SaaS</a></li><li><a href="/solutions/mobile.html">Mobile</a></li><li><a href="/solutions/uxd.html">UXD</a></li><li><a href="/solutions/technology.html">Technology Solutions</a></li></ul></li><li><a href="/strengths.html">Strengths</a><ul><li><a href="/strengths/people.html">Our People</a></li><li><a href="/strengths/partners.html">Our Partners</a></li><li><a href="/strengths/nearshore-advantage.html">NearShore Advantage</a></li><li><a href="/strengths/global-delivery.html">Global Delivery Ecosystem</a></li><li><a href="/strengths/agile.html">Agile</a></li><li><a href="/strengths/innovation.html">Innovation Labs</a></li><li><a href="/strengths/competency.html">Competency Centers</a></li><li><a href="/strengths/engagement-models.html">Engagement Models</a></li></ul></li><li><a href="/company.html">Company</a><ul><li><a href="/company/customers.html">Our Customers</a></li><li><a href="/company/history.html">History</a></li><li><a href="/company/leadership.html">Leadership</a></li><li><a href="/company/offices-worldwide.html">Offices Worldwide</a></li><li><a href="/company/news-events.html">News &amp; Events</a></li><li><a href="/company/awards-recognition.html">Awards  &amp;  Recognition</a></li><li><a href="http://investors.epam.com">Investors</a></li></ul></li><li><a href="/careers.html">Careers</a><ul><li><a href="/careers/usa.html">USA</a></li><li><a href="/careers/canada.html">Canada</a></li><li><a href="/careers/uk.html">UK</a></li><li><a href="/careers/germany.html">Germany</a></li><li><a href="/careers/sweden.html">Sweden</a></li><li><a href="/careers/hungary.html">Hungary</a></li><li><a href="/careers/poland.html">Poland</a></li><li><a href="/careers/more.html">More...</a></li></ul></li></ul><div class="clear"></div></div>
+        <div class="grid_16 middleRow">
+			<div id="footerSitemap" class="footerSitemap"><ul><li><a href="/services.html">Services</a><ul><li><a href="/services/product-development.html">Product Development</a></li><li><a href="/services/application-development.html">Application Development</a></li><li><a href="/services/enterprise-applications.html">Enterprise Application Platforms</a></li><li><a href="/services/application-testing.html">Application Testing</a></li><li><a href="/services/application-maintenance-support.html">Application Maintenance &amp; Support</a></li><li><a href="/services/infrastructure-management.html">ASM &amp; Infrastructure Services</a></li></ul></li><li><a href="/industries.html">Industries</a><ul><li><a href="/industries/isv-saas.html">ISVs &amp;  Technology</a></li><li><a href="/industries/banking-finance.html">Banking &amp; Financial Services</a></li><li><a href="/industries/business-information-media.html">Business Information &amp; Media</a></li><li><a href="/industries/travel.html">Travel &amp; Hospitality</a></li><li><a href="/industries/retail-cpg.html">Retail &amp; CPG</a></li><li><a href="/industries/other-verticals.html">Emerging Verticals</a></li></ul></li><li><a href="/solutions.html">Solutions</a><ul><li><a href="/solutions/digital-strategy.html">Digital Strategy </a></li><li><a href="/solutions/business_intelligence.html">Business Intelligence</a></li><li><a href="/solutions/sap.html">SAP Technologies</a></li><li><a href="/solutions/ecommerce.html">eCommerce Solutions</a></li><li><a href="/solutions/portals-content-management.html">Portals &amp; Content</a></li><li><a href="/solutions/cloud-soa.html">Cloud/SaaS</a></li><li><a href="/solutions/mobile.html">Mobile</a></li><li><a href="/solutions/uxd.html">UXD</a></li><li><a href="/solutions/technology.html">Technology Solutions</a></li><li><a href="/solutions/embedded.html">Embedded Solutions</a></li></ul></li><li><a href="/strengths.html">Strengths</a><ul><li><a href="/strengths/people.html">Our People</a></li><li><a href="/strengths/partners.html">Our Partners</a></li><li><a href="/strengths/nearshore-advantage.html">NearShore Advantage</a></li><li><a href="/strengths/global-delivery.html">Global Delivery Ecosystem</a></li><li><a href="/strengths/agile.html">Agile</a></li><li><a href="/strengths/innovation.html">Innovation Labs</a></li><li><a href="/strengths/competency.html">Competency Centers</a></li><li><a href="/strengths/engagement-models.html">Engagement Models</a></li></ul></li><li><a href="/company.html">Company</a><ul><li><a href="/company/customers.html">Our Customers</a></li><li><a href="/company/history.html">History</a></li><li><a href="/company/leadership.html">Leadership</a></li><li><a href="/company/offices-worldwide.html">Offices Worldwide</a></li><li><a href="/company/news-events.html">News &amp; Events</a></li><li><a href="/company/awards-recognition.html">Awards  &amp;  Recognition</a></li><li><a href="http://investors.epam.com">Investors</a></li></ul></li><li><a href="/careers.html">Careers</a><ul><li><a href="/careers/usa.html">USA</a></li><li><a href="/careers/canada.html">Canada</a></li><li><a href="/careers/uk.html">UK</a></li><li><a href="/careers/germany.html">Germany</a></li><li><a href="/careers/sweden.html">Sweden</a></li><li><a href="/careers/hungary.html">Hungary</a></li><li><a href="/careers/poland.html">Poland</a></li><li><a href="/careers/more.html">More...</a></li></ul></li></ul><div class="clear"></div></div>
 
 		</div>
-        <div class="grid_16 footer-bottom-row">
+        <div class="grid_16 bottomRow">
             <div class="parbase copyrights">
 
 
@@ -757,11 +890,11 @@ Please feel free to <a href="/company/requestinfo.html">provide your feedback on
 	
 	
         <div class="image">
-            <a href="/en.html"> <img title="EPAM Systems" height="19" alt="Excellence in Software Engineering" width="80" src="/etc/designs/epam/en/_jcr_content/common/copyrights.img.png/1339156262857.png"> </a>
+            <a href="/en.html"> <img title="EPAM Systems" height="20" alt="Excellence in Software Engineering" width="79" src="/etc/designs/epam/en/_jcr_content/common/copyrights.img.png/1354695311092.png"> </a>
         </div>
 
         <div class="text">
-            © 1993-2012.
+            © 1993-2013.
             
                 
                     EPAM Systems. All Rights Reserved.
@@ -786,8 +919,4 @@ Please feel free to <a href="/company/requestinfo.html">provide your feedback on
 </div>
 </div>
 
-    <img height="1" alt="" width="1" border="0" name="spy"><script language="JavaScript" type="text/javascript">setSpy();</script>
-
-
-
-<div id="fancybox-tmp"></div><div id="fancybox-loading"><div></div></div><div id="fancybox-overlay"></div><div id="fancybox-wrap"><div id="fancybox-outer"><div class="fancybox-bg" id="fancybox-bg-n"></div><div class="fancybox-bg" id="fancybox-bg-ne"></div><div class="fancybox-bg" id="fancybox-bg-e"></div><div class="fancybox-bg" id="fancybox-bg-se"></div><div class="fancybox-bg" id="fancybox-bg-s"></div><div class="fancybox-bg" id="fancybox-bg-sw"></div><div class="fancybox-bg" id="fancybox-bg-w"></div><div class="fancybox-bg" id="fancybox-bg-nw"></div><div id="fancybox-content"></div><a id="fancybox-close"></a><div id="fancybox-title"></div><a href="javascript:;" id="fancybox-left"><span class="fancy-ico" id="fancybox-left-ico"></span></a><a href="javascript:;" id="fancybox-right"><span class="fancy-ico" id="fancybox-right-ico"></span></a></div></div></body></html>
+</body></html>
