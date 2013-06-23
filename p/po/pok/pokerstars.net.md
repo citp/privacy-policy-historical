@@ -1,21 +1,21 @@
-> *The following text is extracted and transformed from the pokerstars.net privacy policy that was archived on 2012-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121223021841id_/http%3A//www.pokerstars.net/poker/room/terms/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pokerstars.net privacy policy that was archived on 2013-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130623074019id_/http%3A//www.pokerstars.net/poker/room/terms/privacy) for the most accurate reproduction.*
 
 # PokerStars Security - PokerStars Privacy Policy - Secure Online Poker
 
-Your privacy  is very important to Rational Poker School Limited (referred to herein as “ **PokerStars** ”, “ **we** ” or **us** ”), the owner and operator of the website located at [www.pokerstars.net](http://www.pokerstars.net/) (the “ **Site** ”). We are committed to maintaining the confidentiality of the personal information collected by us in order to allow you to enjoy playing poker online at the Site, by safeguarding it utilizing the best in class software and hardware architecture, techniques, methods and procedures.  We will comply with the terms of the Isle of Man’s Data Protection Act 2002 when processing your personal information.
+Your privacy is very important to Rational Poker School Limited (referred to herein as “ **PokerStars** ”, “ **we** ” or **us** ”), the owner and operator of the website located at [www.pokerstars.net](http://www.pokerstars.net/) (the “ **Site** ”). We are committed to maintaining the confidentiality of the personal information collected by us in order to allow you to enjoy playing poker online at the Site, by safeguarding it utilizing the best in class software and hardware architecture, techniques, methods and procedures.  We will comply with the terms of the Isle of Man’s Data Protection Act 2002 when processing your personal information.
 
 1\. Consent to Privacy Policy
 
-By using the Site, you agree to the terms of this Privacy Policy. We reserve the right to amend this Privacy Policy and changes will come into effect immediately upon such change being notified on the Site.  Your continued use of the Site constitutes your agreement to this Privacy Policy and any amendments. Our [Terms of Service](http://www.pokerstars.net/poker/room/terms/) , see [www.pokerstars.net/poker/room/terms](http://www.pokerstars.net/poker/room/terms), take precedence over any conflicting provision of this Privacy Policy. Unless otherwise defined herein, capitalised terms shall have the meaning given to them in our Terms of Service.
+By using the Service, you agree to the terms of this Privacy Policy. We reserve the right to amend this Privacy Policy and changes will come into effect immediately upon such change being notified on the Site. Your continued use of the Serviceconstitutes your agreement to this Privacy Policy and any amendments. Our [Terms of Service](http://www.pokerstars.net/poker/room/terms/) , see [www.pokerstars.net/poker/room/terms](http://www.pokerstars.net/poker/room/terms), take precedence over any conflicting provision of this Privacy Policy. Unless otherwise defined herein, capitalised terms shall have the meaning given to them in our Terms of Service.
 
 The purpose of this Privacy Policy is to enable you to understand how we collect, store, use and safeguard your personal information and for you to understand your rights in relation to that information.
 
   
 2\. What information is collected and for what purpose
 
-As part of the Site account opening process and to allow us to provide services to you, we will ask you to provide us with certain personal information, including a name, postal address, telephone number, e-mail address and password as well as to certify that you are at least 18 years old or older in jurisdictions in which the minimum age for use of the Service is greater than 18. We may also use your information to verify your credentials from third parties including identification verification agencies for the purposes of us providing services to you.
+As part of the Site account opening process and to allow us to provide services to you, we will ask you to provide us with certain personal information, including a name, postal address, telephone number, e-mail address and password as well as to certify that you are at least 18 years old or older in jurisdictions in which the minimum age for use of the Service is greater than 18. For the purposes of using the Service via the Mobile Software, you will be required to consent to the use of location-based services (LBS) by us to detect your geographic location. We may also use your information to verify your credentials from third parties including identification verification agencies for the purposes of us providing services to you. In addition, when you use the Service we store certain personal information, including information on your activity on the Site and information held on Devices (defined below) or systems that you use, to allow us to enhance the services that we provide to you. 
 
-We, members of our group, our affiliates and third parties providing services on our behalf will use your personal information for various purposes such as:
+We, members of our Group, our affiliates and third parties providing services on our behalf will use your personal information for various purposes such as:-
 
   * to provide services to you;
   * identification and vetting purposes;
@@ -38,11 +38,11 @@ We may disclose your personal information:
     5. to any third party that purchases us or our business or any part of us or our business;
   3. with your consent;
   4. for the purposes of disaster recovery; or
-  5. as set out in Section 5 below.
+  5. as set out in Sections 4 and 5 below.
 
 
 
-We and other members of our corporate group may occasionally send you events and news information or information regarding new services and to provide you with customer support services. If you no longer wish to receive our newsletters, you may opt-out of receiving them by following the instructions included in each newsletter.
+We and other members of our corporate Group may occasionally send you events and news information or information regarding new services and to provide you with customer support services. If you no longer wish to receive our newsletters, you may opt-out of receiving them by following the instructions included in each newsletter.
 
 Your personal information may be processed by us, other members or our group, our affiliates, our agents and third parties providing services to us, in jurisdictions outside of the Isle of Man and the European Economic Area.  In this event we will comply with the terms of the Isle of Man’s Data Protection Act 2002.
 
@@ -69,7 +69,11 @@ Legally Required Disclosures: Due to the legal, regulatory and security environm
   
 5\. Who receives your information?
 
-In addition to legally required disclosures as explained in this Privacy Policy, we may disclose your personal information to our employees, employees of other companies in our corporate group, our agents and to third party service providers who use your personal information to provide services to us in respect of your being a User with PokerStars. All recipients of your personal information shall be bound by applicable data protection laws to keep your personal information private at no less a level than that by which we are bound.
+In addition to legally required disclosures as explained in this Privacy Policy, we may disclose your personal information to our employees, employees of other companies in our corporate Group, our agents and to third party service providers who use your personal information to provide services to us in respect of your being a User with PokerStars. 
+
+We may combine your personal information collected from your use of the Service in accordance with this Privacy Policy with other information collected from you using other services operated by PokerStars or any other member of the Group including, but not limited to, online poker websites operated under the brands “PokerStars” (including the Site) and “Full Tilt Poker” as well as all products which are related or ancillary thereto, including mobile and social networking services. We will treat this combined information in accordance with, and will use it for, the purposes set out in this Policy.
+
+All recipients of your personal information shall be bound by applicable data protection laws to keep your personal information private at no less a level than that by which we are bound.
 
   
 6\. Your rights in relation to your information
@@ -79,17 +83,21 @@ We aim to keep our information about you as accurate as possible. You can write 
   
 7\. Cookies
 
-We may send you a temporary cookie when you visit the Site. A cookie is a text-only string of information that we place in your computer's cookie file so that we can remember who you are when you revisit the Site. We may use the data generated from cookies to compile statistical data on your use of our Site. You are not obliged to accept the cookie from us and you have the ability to accept or decline cookies by modifying the settings in your browser. Please see [www.cookiecentral.com/faq](http://www.cookiecentral.com/faq) if you require any further information about the placing, use or deletion of cookies.
+Cookies are text-only strings of information that are downloaded to your personal desktop, laptop computer or mobile device (each a “ **Device** ”) when you visit a website. They are then sent back to the originating website on each subsequent visit, or to another website that recognises those cookies. 
+
+Cookies are very useful and are used for many different purposes. These include allowing you to navigate between pages efficiently, remembering your preferences, and generally improving user experience. Sometimes cookies are used to help ensure that adverts you see online are relevant to you and your interests. We use cookies in order to track referrals to our websites, to remember your preferences, and to generate anonymised statistical data, which we use to improve the user experience on our sites. We also use cookies to measure the effectiveness of our advertising campaigns, to limit the number of times you see an advertisement, to remember that you have visited a website, and to provide advertisements that are more relevant to your interests. 
+
+Detailed information about cookies and how we use them on the Site may be found in our [Cookie Policy](https://web.archive.org/cookies/), which also describes how you can turn off cookies or control which cookies are set on your Device (see in particular the section headed ‘[How to manage your cookie settings](https://web.archive.org/cookies/#3)’). 
 
   
 8\. Who are we?
 
 Rational Poker School Limited  
-33-37 Athol Street  
-Douglas  
-Isle of Man, IM1 1LB  
+Douglas Bay Complex  
+King Edward Road  
+Onchan  
+Isle of Man, IM3 1DZ
 
-
-Privacy Policy last revised: 18 January, 2012
+Privacy Policy last revised: April, 2013
 
 Back to top
