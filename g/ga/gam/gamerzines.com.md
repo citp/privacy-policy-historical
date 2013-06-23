@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gamerzines.com privacy policy that was archived on 2012-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121231233328id_/http%3A//www.gamerzines.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gamerzines.com privacy policy that was archived on 2013-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130623080543id_/http%3A//www.gamerzines.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy « GamerZines
 
@@ -110,16 +110,4 @@ Schedule 1:
   
 ---|---  
 |   
-|   
-  
-Be Sociable, Share!
-
-  * [](http://twitter.com/intent/tweet?text=Privacy%20Policy%20-%20http%3A%2F%2Fwww.gamerzines.com%2Fprivacy-policy%20\(via%20@sociablesite\)%20/sociable/%20blogplay.com "Twitter")
-  * [](http://www.facebook.com/share.php?u=http%3A%2F%2Fwww.gamerzines.com%2Fprivacy-policy&t=Privacy%20Policy "Facebook")
-  * [](https://mail.google.com/mail/?view=cm&fs=1&to&su=Privacy%20Policy&body=http%3A%2F%2Fwww.gamerzines.com%2Fprivacy-policy&ui=2&tf=1&shva=1 "email")
-  *   * [](http://www.stumbleupon.com/submit?url=http%3A%2F%2Fwww.gamerzines.com%2Fprivacy-policy&title=Privacy%20Policy "StumbleUpon")
-  * [](http://delicious.com/post?url=http%3A%2F%2Fwww.gamerzines.com%2Fprivacy-policy&title=Privacy%20Policy&notes=Background%0D%0AThis%20Policy%20applies%20as%20between%20you%2C%20the%20User%20of%20this%20Web%20Site%20and%20Cranberry%20Publishing%20Ltd%20the%20owner%20and%20provider%20of%20this%20Web%20Site.%20This%20Policy%20applies%20to%20our%20use%20of%20any%20and%20all%20Data%20collected%20by%20us%20in%20relation%20to%20your%20use%20of%20the%20Web%20Site "Delicious")
-  * [](http://reddit.com/submit?url=http%3A%2F%2Fwww.gamerzines.com%2Fprivacy-policy&title=Privacy%20Policy "Reddit")
-  * [](http://digg.com/submit?phase=2&url=http%3A%2F%2Fwww.gamerzines.com%2Fprivacy-policy&title=Privacy%20Policy&bodytext=Background%0D%0AThis%20Policy%20applies%20as%20between%20you%2C%20the%20User%20of%20this%20Web%20Site%20and%20Cranberry%20Publishing%20Ltd%20the%20owner%20and%20provider%20of%20this%20Web%20Site.%20This%20Policy%20applies%20to%20our%20use%20of%20any%20and%20all%20Data%20collected%20by%20us%20in%20relation%20to%20your%20use%20of%20the%20Web%20Site "Digg")
-  * 
-
+| 
