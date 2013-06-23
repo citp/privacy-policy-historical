@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hackint0sh.org privacy policy that was archived on 2012-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121224065235id_/http%3A//www.hackint0sh.org/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hackint0sh.org privacy policy that was archived on 2013-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130623111639id_/http%3A//www.hackint0sh.org/privacy_policy.php) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -84,9 +84,9 @@ We reserve the right to modify this privacy statement at any time, so please rev
 Footer details 
 
 Powered by [vBulletin®](https://www.vbulletin.com/)   
-Copyright © 2012 vBulletin Solutions, Inc. All rights reserved.   
+Copyright © 2013 vBulletin Solutions, Inc. All rights reserved.   
 Search Engine Friendly URLs by [vBSEO](http://www.crawlability.com/vbseo/)
 
 (c) 2006-2012 Hackint0sh.org 
 
-All times are GMT +2. The time now is 08:52 AM.
+All times are GMT +2. The time now is 01:16 PM.
