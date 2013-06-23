@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tgguide.com privacy policy that was archived on 2012-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121119150547id_/http%3A//tgguide.com/about-us/privacy-notice) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tgguide.com privacy policy that was archived on 2013-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130623030815id_/http%3A//tgguide.com/about-us/privacy-notice) for the most accurate reproduction.*
 
 # Privacy Policy of The Transgender Guide | The Transgender Guide
 
@@ -17,3 +17,5 @@ With respect to ads: We are authorized affiliates of some dating sites and produ
 With respect to security: We have appropriate security measures in place in our physical facilities to protect against the loss, misuse or alteration of information that we have collected from you at our site.
 
 We can be reached [via e-mail](email:webmaster@tgguide.com) or you can reach us by telephone at 206-337-0299 if you have any questions or concerns regarding the privacy policy of TGGuide.com.
+
+### Share and Enjoy
