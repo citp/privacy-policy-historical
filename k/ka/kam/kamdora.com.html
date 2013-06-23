@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the kamdora.com privacy policy that was archived on 2012-12-17.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121217025736id_/http%3A//www.kamdora.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the kamdora.com privacy policy that was archived on 2013-06-23.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130623082256id_/http%3A//www.kamdora.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head><meta property="og:type" content="company">
 <meta property="og:image" content="http://d2wnj9nqxg09gr.cloudfront.net/skin/frontend/memberonly/default/images/logo.jpg">
@@ -135,20 +135,6 @@ document.observe('click', function(e){
 	
 	jQuery(document).ready(function(){
 
-		/**
-		 * Our Email Subscription Pop-Up
-		 */
-		if (top.location.href == "http://www.kamdora.com/")
-              {
-			//alert(top.location.href);
-			if (readCookie('KamdoraPopup') == null)
-			{
-			   jQuery('#basic-modal-content').modal();
-			}
-			
-		}
-
-
 		jQuery("#emailLead").submit(function(){
 
 		   newLead();
@@ -175,7 +161,19 @@ document.observe('click', function(e){
 				return true;
 			});
 		});
-		    	jQuery( "#button-help-sld" ).click(function(){
+			/**
+		 * Our Email Subscription Pop-Up
+		 */
+		if (top.location.href == "http://www.kamdora.com/")
+              {
+			//alert(top.location.href);
+			if (readCookie('KamdoraPopup') == null)
+			{
+			   jQuery('#basic-modal-content').modal();
+			}
+			
+		}
+    	jQuery( "#button-help-sld" ).click(function(){
 	  
 			if  (sliding_help_block_visibility)
 				jQuery("#option-holder").fadeOut("slow");	
@@ -379,7 +377,7 @@ document.observe('click', function(e){
 	
 	<div id="header">
 		<div class="leftf" style="padding-top:"><a style="display:block;" href="/">
-			<img src="http://d2wnj9nqxg09gr.cloudfront.net/skin/frontend/memberonly/default/images/logo.jpg" alt="Kamdora" width="340"></a></div>
+			<img src="http://d2wnj9nqxg09gr.cloudfront.net/skin/frontend/memberonly/default/images/logo.png" alt="Kamdora" width="340"></a></div>
 		  <div class="rigthf"> 
 			
 					 
@@ -414,42 +412,6 @@ document.observe('click', function(e){
 		  <!-- most viewed -->
 <div id="now-featuring">
 <p>Now featuring: 
-    		<a href="/store/fashionable-bottoms/">Fashionable Bottoms</a>
-             <!--<a href="#" onclick="showLoginPopup()">Fashionable Bottoms</a>--> 
-     | 		<a href="/store/casual-tops/">Tops</a>
-             <!--<a href="#" onclick="showLoginPopup()">Tops</a>--> 
-     | 		<a href="/store/blazers/">Blazers</a>
-             <!--<a href="#" onclick="showLoginPopup()">Blazers</a>--> 
-     | 		<a href="/store/casual-dresses/">Casual Dresses</a>
-             <!--<a href="#" onclick="showLoginPopup()">Casual Dresses</a>--> 
-     | 		<a href="/store/casual-separates-part-1/">Casual Separates, Part 1</a>
-             <!--<a href="#" onclick="showLoginPopup()">Casual Separates, Part 1</a>--> 
-     | 		<a href="/store/bags/">Bags</a>
-             <!--<a href="#" onclick="showLoginPopup()">Bags</a>--> 
-     | 		<a href="/store/party-dresses/">Party Dresses</a>
-             <!--<a href="#" onclick="showLoginPopup()">Party Dresses</a>--> 
-     | 		<a href="/store/shoes/">Shoes</a>
-             <!--<a href="#" onclick="showLoginPopup()">Shoes</a>--> 
-     | 		<a href="/store/jump-suits-and-play-suits/">Jump Suits and Play Suits</a>
-             <!--<a href="#" onclick="showLoginPopup()">Jump Suits and Play Suits</a>--> 
-     | 		<a href="/store/day-dresses/">Day Dresses</a>
-             <!--<a href="#" onclick="showLoginPopup()">Day Dresses</a>--> 
-     | 		<a href="/store/peplum/">Peplum</a>
-             <!--<a href="#" onclick="showLoginPopup()">Peplum</a>--> 
-     | 		<a href="/store/new-zara-collection/">New Zara Collection</a>
-             <!--<a href="#" onclick="showLoginPopup()">New Zara Collection</a>--> 
-     | 		<a href="/store/prints-from-kamdora/">Prints from Kamdora</a>
-             <!--<a href="#" onclick="showLoginPopup()">Prints from Kamdora</a>--> 
-     | 		<a href="/store/duob-apparel-collection/">Duob Apparell</a>
-             <!--<a href="#" onclick="showLoginPopup()">Duob Apparell</a>--> 
-     | 		<a href="/store/sasha-s-eclectic/">Eclectic By Sasha</a>
-             <!--<a href="#" onclick="showLoginPopup()">Eclectic By Sasha</a>--> 
-     | 		<a href="/store/flossy-shoes/">Flossy Shoes</a>
-             <!--<a href="#" onclick="showLoginPopup()">Flossy Shoes</a>--> 
-     | 		<a href="/store/new-dress-collection/">New Dress Collection</a>
-             <!--<a href="#" onclick="showLoginPopup()">New Dress Collection</a>--> 
-     | 		<a href="/store/denaki/">Denaki Collection</a>
-             <!--<a href="#" onclick="showLoginPopup()">Denaki Collection</a>--> 
      </p>
 </div>
 <!--<div id="reg-form-all-pages" class="clearfix">
