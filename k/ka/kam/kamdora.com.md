@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kamdora.com privacy policy that was archived on 2012-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121217025736id_/http%3A//www.kamdora.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kamdora.com privacy policy that was archived on 2013-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130623082256id_/http%3A//www.kamdora.com/privacy) for the most accurate reproduction.*
 
 # Kamdora.com : Privacy Policy
 
