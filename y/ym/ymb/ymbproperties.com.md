@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ymbproperties.com privacy policy that was archived on 2012-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121219024100id_/http%3A//ymbproperties.com/privacy-and-cookie-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ymbproperties.com privacy policy that was archived on 2013-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130623135047id_/http%3A//ymbproperties.com/privacy-and-cookie-policy) for the most accurate reproduction.*
 
 # YMB PROPERTIES » Privacy and Cookie Policy
 
