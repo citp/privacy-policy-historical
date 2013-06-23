@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kbhome.com privacy policy that was archived on 2012-10-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121015185509id_/http%3A//www.kbhome.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kbhome.com privacy policy that was archived on 2013-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130624000622id_/http%3A//www.kbhome.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | KB Home
 
@@ -6,7 +6,7 @@ Your privacy is very important to KB Home.
 
 We do not sell our mailing or contact lists to unaffiliated third parties. However, KB Home may share your email address and contact with our selected third party business partners for home-related offers and other information we believe will be of interest to our customers, unless you indicated on a registration card or other material that you do not wish to be so contacted. KB HOME may aggregate personally identifiable information and disclose such information in aggregate to advertisers for other marketing and promotional purposes. However, in these situations we will not disclose to these entities any information that could be used to personally identify you.
 
-You may remove your email address from the distribution lists of KB HOME or our business partners at any time by notifying us or the business partners, respectively.
+Creating a MyKB account may result in follow up correspondences from a KB Home representative. You may remove your email address from the distribution lists of KB HOME or our business partners at any time by notifying us or the business partners, respectively.
 
 As part of the normal operation of this Website, we may collect and, in some cases, disclose information about you. Personally identifiable information about you may be used to improve our marketing and promotional efforts, to statistically analyze usage of the Site, to improve our Website content and to customize our Website's content and layout. We believe these uses allow us to improve our Website and better tailor it to meet our user's needs. We may use your first and last names, email address, your mailing address and telephone number, to contact you from time to time.
 
