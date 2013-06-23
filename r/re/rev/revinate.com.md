@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the revinate.com privacy policy that was archived on 2012-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121014110741id_/http%3A//www.revinate.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the revinate.com privacy policy that was archived on 2013-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130623035527id_/http%3A//www.revinate.com/privacy) for the most accurate reproduction.*
 
 # Revinate
 
@@ -85,5 +85,5 @@ We welcome your comments or questions regarding this Privacy Policy. Please e-ma
 
 Revinate, Inc.  
 Attn: Privacy Policy  
-106 Lincoln Blvd, Suite 106  
+1 Letterman Drive, Suite CM100  
 San Francisco, CA 94129 
