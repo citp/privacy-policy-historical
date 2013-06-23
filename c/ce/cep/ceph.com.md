@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the ceph.com privacy policy that was archived on 2012-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121125021920id_/http%3A//ceph.com/legal-page/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ceph.com privacy policy that was archived on 2013-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130623024219id_/http%3A//ceph.com/legal-page/privacy-statement) for the most accurate reproduction.*
 
-# Privacy Statement – Ceph
+# Privacy Statement - Ceph
 
 Last Updated: May 15, 2012
 
@@ -48,4 +48,4 @@ When users choose to provide Inktank with personally identifiable information, u
 
 Users who believe that any personally identifiable information we have collected is incorrect, or is, has been, or might be used inappropriately, they must contact us at legal@inktank.com.
 
-Questions or complaints about this Privacy Statement should be sent to legal@thinktank.com or sent via postal mail to Privacy Compliance, Inktank Storage, Inc., 707 Wilshire Blvd, Los Angeles, CA 90017.
+Questions or complaints about this Privacy Statement should be sent to legal@inktank.com or sent via postal mail to Privacy Compliance, Inktank Storage, Inc., 707 Wilshire Blvd Suite 5025, Los Angeles, CA 90017.
