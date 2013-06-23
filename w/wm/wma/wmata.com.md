@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wmata.com privacy policy that was archived on 2012-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121214011650id_/http%3A//wmata.com/about_metro/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wmata.com privacy policy that was archived on 2013-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130623234945id_/http%3A//www.wmata.com/about_metro/privacy.cfm) for the most accurate reproduction.*
 
 # Metro - About Metro - Privacy and Data Use Policy
 
