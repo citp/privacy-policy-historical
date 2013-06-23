@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the streamtheworld.com privacy policy that was archived on 2012-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121205005801id_/http%3A//www.tritondigital.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the streamtheworld.com privacy policy that was archived on 2013-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130623231633id_/http%3A//www.tritondigital.com/privacy-policy) for the most accurate reproduction.*
 
-# Triton Digital - Richer Media
+# Triton Digital - Richer Media - Privacy Policy
 
 This Privacy Policy sets out the manner in which Triton Media Group, LLC (“ **Triton Digital** ”, “ **we** ”, “ **us** ”, “ **our** ”) collect, use, disclose and otherwise manage personal information of visitors of tritondigital.com (the " **Site** "). This policy does not apply to the use of our streaming and digital advertising software and services. To access our streaming platform privacy policy, [click here](https://web.archive.org/privacy-policy-streaming-platform). This policy also does not apply to the audience management services. Please read it carefully. We also invite you to review our Terms of Use.
 
