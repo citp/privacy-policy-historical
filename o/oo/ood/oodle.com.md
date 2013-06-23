@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the oodle.com privacy policy that was archived on 2012-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121108013002id_/http%3A//www.oodle.com/info/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the oodle.com privacy policy that was archived on 2013-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130623072932id_/http%3A//www.oodle.com/info/privacy) for the most accurate reproduction.*
 
 # Oodle Classifieds - Privacy Policy
 
@@ -92,7 +92,7 @@ Oodle may also disclose information with:
 
 
 
-If we merge with or are acquired by another company, the resulting combined company will use the information you have provided as described in this Privacy Policy. 
+We may share Personally Identifiable Information and other information about you with our parent company, affiliates, and subsidiaries for the use and benefit of those companies. If we merge with or are acquired by another company, the resulting combined company will use the information you have provided as described in this Privacy Policy. 
 
 ### International Users
 
@@ -103,4 +103,4 @@ The Sites are hosted in the United States. If you use the Sites from outside of 
 
 If you have any questions about this Privacy Policy or want to report abuse, please contact us at [abuse@oodle.com](http://www.oodle.com/info/help/?&node_id=2&mode=contact). 
 
-Last update February 16, 2012
+Last update December 21, 2012
