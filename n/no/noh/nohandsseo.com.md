@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nohandsseo.com privacy policy that was archived on 2012-10-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121002224642id_/http%3A//nohandsseo.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nohandsseo.com privacy policy that was archived on 2013-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130625014137id_/http%3A//nohandsseo.com/privacy-policy.php) for the most accurate reproduction.*
 
 # No Hands SEO Privacy Policy
 
@@ -33,7 +33,7 @@ After a transaction, your private information (credit cards, social security num
 
 **Do we use cookies?**
 
-We do not use cookies.
+We use cookies only for the purpose of checking ownership of an account when logging in to the members area (where the paid verson can be downloaded from)
 
 **Do we disclose any information to outside parties?**
 
