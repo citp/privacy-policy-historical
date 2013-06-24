@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kissandmakeup.tv privacy policy that was archived on 2012-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121226133013id_/http%3A//www.aiguamedia.com/content/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kissandmakeup.tv privacy policy that was archived on 2013-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130624235959id_/http%3A//www.aiguamedia.com/content/privacy_policy) for the most accurate reproduction.*
 
 # AiguaMedia - The fashion and beauty MEGAzine
 
