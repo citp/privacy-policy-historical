@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the admeld.com privacy policy that was archived on 2012-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121114185746id_/http%3A//www.admeld.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the admeld.com privacy policy that was archived on 2013-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130624095856id_/http%3A//www.admeld.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy: Admeld
 
