@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the correctionsone.com privacy policy that was archived on 2012-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121230180511id_/http%3A//www.correctionsone.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the correctionsone.com privacy policy that was archived on 2013-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130624182009id_/http%3A//www.correctionsone.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -79,6 +79,8 @@ You may edit your CorrectionsOne Account Information and your public Corrections
 Your CorrectionsOne account can be deleted or deactivated, but doing so will result in not being able to access any members-only area of the CorrectionsOne network, including your CorrectionsOne Mail account (if you have one). If you saved the confirmation email you received when you first created your CorrectionsOne account, you can use the URL provided in that message to delete your account at any time. Please contact privacypolicy@CorrectionsOne.com for further instructions about deleting or deactivating your CorrectionsOne account. 
 
 If you are participating in a CorrectionsOne promotion and you wish to update your email address on the promotions mailing list or to quit a promotion and cease receiving promotion-related email, please contact feedback@CorrectionsOne.com. 
+
+If you continue to have issues after using all the resources above, give us a call at 888-765-4231 Ext.1 to talk to our Member Services Coordinator.
 
 Knowing that you use certain services or features may help us to offer you better and more relevant content and advertisements. But as with all personally identifiable information, we do not make this available to any third parties without your permission. Any user statistics that we may provide to prospective advertisers or partners regarding financial product or service usage on CorrectionsOne are provided in the aggregate only and do not include any personally identifiable information about any individual user. 
 
