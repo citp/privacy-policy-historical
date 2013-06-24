@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the oovoo.com privacy policy that was archived on 2012-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121225031208id_/http%3A//www.oovoo.com/TermsAndPolicies.aspx%3Fpname%3DPrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the oovoo.com privacy policy that was archived on 2013-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130624171550id_/http%3A//www.oovoo.com/TermsAndPolicies.aspx%3Fpname%3DPrivacyPolicy) for the most accurate reproduction.*
 
 # Video & Chat with ooVoo
 
@@ -132,7 +132,7 @@ We will try to comply with your request to update your Personal Information as s
 
 ### USE OF THE SERVICES BY MINORS
 
-The Services are not directed to individuals under the age of fourteen (14), nor are such individuals permitted to use the Services; accordingly, we request that such individuals do not provide Personal Information in connection with the Services. If you are the parent or guardian of such an individual who has disclosed Personal Information to us in connection with the Services, please contact us in accordance with the " _CONTACTING US_ " section below, and we will exercise commercially reasonable efforts to remove such information from our databases and storage systems; we are not liable, however, for any consequences of such information, including any delay or failure to remove such information.
+The Services are not directed to individuals under the age of thirteen (13), nor are such individuals permitted to use the Services; accordingly, we request that such individuals do not provide Personal Information in connection with the Services. If you are the parent or guardian of such an individual who has disclosed Personal Information to us in connection with the Services, please contact us in accordance with the " _CONTACTING US_ " section below, and we will exercise commercially reasonable efforts to remove such information from our databases and storage systems; we are not liable, however, for any consequences of such information, including any delay or failure to remove such information.
 
 ### RETENTION PERIOD
 
