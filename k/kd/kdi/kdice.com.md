@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kdice.com privacy policy that was archived on 2012-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121222170407id_/http%3A//kdice.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kdice.com privacy policy that was archived on 2013-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130624144944id_/http%3A//kdice.com/privacy) for the most accurate reproduction.*
 
 # 
 
