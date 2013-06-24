@@ -1,20 +1,14 @@
-> *The following text is extracted and transformed from the tfportal.de privacy policy that was archived on 2012-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121222192255id_/http%3A//www.tfportal.de%3F54) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tfportal.de privacy policy that was archived on 2013-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130624105958id_/http%3A//www.tfportal.de%3F54) for the most accurate reproduction.*
 
-# Impressum « Article « Team Fortress 2 - TF2 - TFC - TFPortal
+# Imprint « Article « Team Fortress 2 - TF2 - TFC - TFPortal
 
 ## **Webmaster**
 
 Sven 'MeeB' Scholz  
-Elsa-Brändström-Weg 36  
+Hünenburg 13  
 48165 Münster
 
 [E-Mail senden!](https://web.archive.org/?site=news_send "TFPortal send a News")
-
-**Inhaltlich Verantwortlicher gemäß § 6 MDStV:**
-
-Sven 'MeeB' Scholz  
-Elsa-Brändström-Weg 36  
-48165 Münster
 
 ## Privacy & Policy
 
