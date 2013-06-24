@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the amung.us privacy policy that was archived on 2012-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121209004509id_/http%3A//whos.amung.us/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the amung.us privacy policy that was archived on 2013-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130624134313id_/http%3A//whos.amung.us/legal/privacy) for the most accurate reproduction.*
 
 # whos.amung.us - legal - privacy policy
 
