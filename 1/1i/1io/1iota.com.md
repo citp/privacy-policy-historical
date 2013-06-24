@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 1iota.com privacy policy that was archived on 2012-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121213153643id_/http%3A//1iota.com/member/media/Company/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 1iota.com privacy policy that was archived on 2013-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130624124943id_/http%3A//1iota.com/Company/Privacy) for the most accurate reproduction.*
 
 # Privacy Policy - 1iota
 
@@ -6,17 +6,13 @@
 
 The Privacy Policy below will govern your 1iota membership and any information you provide on this site. In order to become a member of 1iota we must ask you to provide us with information about yourself. This Privacy Policy describes the information we collect and how we use that information. 1iota takes the privacy of your personal information very seriously and will use your information only in accordance with the terms of this Privacy Policy. 
 
-1iota is a licensee of the TRUSTe Privacy Program. TRUSTe is an independent, non-profit organization whose mission is to build user’s trust and confidence in the Internet by promoting the use of fair information practices. This privacy statement covers the site www.1iota.com. Because this Web site wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices and have its privacy practices reviewed for compliance by TRUSTe. 
-
-If you have questions or concerns regarding this statement, you should first contact Courtney at support@1iota.com. If you do not receive acknowledgement of your inquiry or you inquiry has not been satisfactorily addressed, you should contact TRUSTe at http://www.truste.org/consumers/watchdog_complaint.php TRUSTe will then serve as a liaison with us to resolve your concerns. 
-
 ### Changes of Policy 
 
 This policy may be revised over time as new features are added to 1iota or as we incorporate new suggestions from our members. If we are going to use or disclose your personally identifiable information in a manner materially different from that stated at the time we collected the information, you will be notified by email or by means of a notice on our homepage. 1iota may make improvements and/or changes in our services or products described in the site, including the terms and conditions of your use of this site, without liability. 1iota reserves the right to change these conditions at anytime. 
 
 ### Required Information
 
-When you register for an account with our site you will be asked for your contact information such as first and last name, typGenre, birthday, city, state and zip code. In order to become a basic member of 1iota, you must provide this information to us. A user can access their submitted information and make changes at anytime on the “my basic account info” section of the site. A user’s last name cannot be altered on the site due to members’ attempts to transfer e-tickets as our e-tickets are non-transferable. To alter your last name, please send an email to support@1iota.com. A user can also cancel their membership at any time by visiting the “resign your account” section of the site. 
+When you register for an account with our site you will be asked for your contact information such as first and last name, gender, birthday, city, state and zip code. In order to become a basic member of 1iota, you must provide this information to us. A user can access their submitted information and make changes at anytime on the “my basic account info” section of the site. A user’s last name cannot be altered on the site due to members’ attempts to transfer e-tickets as our e-tickets are non-transferable. To alter your last name, please send an email to support@1iota.com. A user can also cancel their membership at any time by visiting the “resign your account” section of the site. 
 
 ### Optional Information
 
