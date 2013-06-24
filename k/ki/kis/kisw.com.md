@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the kisw.com privacy policy that was archived on 2012-10-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121018232133id_/http%3A//static.intertechmedia.com/Entercom/Entercom_Internet_Privacy_Policy_January_2007.pdf) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kisw.com privacy policy that was archived on 2013-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130624132308id_/http%3A//static.intertechmedia.com/Entercom/Entercom_Internet_Privacy_Policy_January_2007.pdf) for the most accurate reproduction.*
 
-# Privacy Policy
+# 
 
                                            Privacy Policy
 A Privacy Policy Statement from
@@ -38,7 +38,7 @@ that may indicate purchasing preferences and lifestyle, as well as information a
 external sources, such as census bureau data. If you have signed up to receive our e-mails and
 prefer not to receive marketing information from this site, follow the "unsubscribe" instructions
 provided on any marketing e-mail you receive from this site.
- ETM:11929_5
+ ETM:11929_6                                       1
 
 
           We sometimes use this information to communicate with you, such as to notify you when
@@ -79,7 +79,7 @@ participating in such contests, you are consenting to us sharing this informatio
 sponsors who may contact you directly.
           Notwithstanding any provision of this Privacy Policy to the contrary, to the extent you
 provide your information in connection with our ecommerce initiatives (e.g., our Perks program),
- ETM:11929_5
+ ETM:11929_6                                      2
 
 
 we will not sell or rent such information to any third party unless you otherwise specifically
@@ -118,7 +118,7 @@ other purposes.
           Some of Entercom’s web sites contain links to other sites whose information practices
 may be different than ours. Visitors should consult the other sites’ privacy policies as Entercom
 has no control over information that is submitted to, or collected by, these third parties.
- ETM:11929_5
+ ETM:11929_6                                      3
 
 
           The Entercom sites covered by this Privacy Policy sometimes may offer content (e.g.,
@@ -134,7 +134,10 @@ use cookies, web beacons, clear .gifs or similar technologies to help present su
 and to help measure and research the advertisements’ effectiveness. The use of these
 technologies by these third party ad servers is subject to their own privacy policies and is not
 covered by our privacy policy. For more about third-party ad servers generally visit the Network
-Advertising Initiative’s web site at www.networkadvertising.org.
+Advertising Initiative’s web site at www.networkadvertising.org. One of our these third-party ad
+servers is Triton Digital. You can opt-out from being targeted by Triton Digital through
+AppNexus Platform Opt Out, by clicking on the following URL address:
+http://appnexus.com/platform-policy#choices and follow the relevant instructions.
          The following only applies to California residents:
           Entercom may from time to time share your personal information with our subsidiaries,
 affiliates, sponsors, partners, advertisers or other third parties for their direct marketing purposes.
@@ -156,16 +159,16 @@ Entercom site has collected about you online, how to correct factual errors in s
 or if you have any questions or concerns about this Privacy Policy or its implementation you may
 contact us at:
                  Entercom Communications Corp.
+ ETM:11929_6                                       4
+
+
                  401 City Avenue, Suite 809
                  Bala Cynwyd PA 19004
                  Attn: Internet Privacy Manager
- ETM:11929_5
-
-
          Or via email at privacy@entercom.com [For spam filtering purposes, only email with the
 subject line “Entercom Privacy Request” will be read]
         Updates & Effective Date
          From time to time, we may update this Privacy Policy. We encourage you to periodically
 check back and review this policy so that you always will know what information we collect,
 how we use it, and to whom we disclose it.
-ETM:11929_5
+ETM:11929_6                                     5
