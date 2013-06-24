@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the photoxels.com privacy policy that was archived on 2012-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121224002733id_/http%3A//www.photoxels.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the photoxels.com privacy policy that was archived on 2013-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130624073725id_/http%3A//www.photoxels.com/privacy) for the most accurate reproduction.*
 
 # Privacy Notice - Photoxels - Digital Photography
 
@@ -12,7 +12,7 @@ The company that hosts our site do collect information on their server logs from
 
 [Google](http://www.google.com/analytics/) and [AddThis](http://www.addthis.com/) collect statistics on which pages are visited or shared and how often, but only on an aggregate basis. No individual information is collected.
 
-When you shop at one of the vendors who advertise on our site, you are dealing directly with that vendor, who is then responsible for the privacy of any personal information you choose to divulge to that vendor. Photoxels has no access to any personal information you provide those vendors, nor do we have responsibility or liability for their independent policies. For more information of the privacy policy of these vendors and other vendors who advertise here, please see the Privacy Notice for that vendor (Read privacy notice of [Amazon.com](http://www.amazon.com/exec/obidos/tg/browse/-/468496/002-3121096-8593660), [Amazon.ca](http://www.amazon.ca/exec/obidos/tg/browse/-/918814/701-5313004-2193152), [TribalFusion](http://www.tribalfusion.com/www/about/privacy.html), [PriceGrabber.com](http://www.pricegrabber.com/info_disclaimer.php), [PriceGrabber.ca](http://www.pricegrabber.ca/info_disclaimer.php)). Likewise, any product support you may require is available only from the appropriate vendor in question.
+When you shop at one of the vendors who advertise on our site, you are dealing directly with that vendor, who is then responsible for the privacy of any personal information you choose to divulge to that vendor. Photoxels has no access to any personal information you provide those vendors, nor do we have responsibility or liability for their independent policies. For more information of the privacy policy of these vendors and other vendors who advertise here, please see the Privacy Notice for that vendor (Read privacy notice of [Amazon.com](http://www.amazon.com/exec/obidos/tg/browse/-/468496/002-3121096-8593660), [Amazon.ca](http://www.amazon.ca/exec/obidos/tg/browse/-/918814/701-5313004-2193152), [TribalFusion](http://www.tribalfusion.com/www/about/privacy.html), [PriceGrabber.com](http://www.pricegrabber.com/info_disclaimer.php), [PriceGrabber.ca](http://www.pricegrabber.ca/info_disclaimer.php), [Shopzilla](http://about.shopzilla.com/privacy-policy)). Likewise, any product support you may require is available only from the appropriate vendor in question.
 
 We are strictly against the use of spywares that collect information from readers. We deplore sites that automatically download spywares to their viewers’ computers and strictly prohibit their use within our site. If you have reason to believe that you are encountering spywares on visiting our site — or a site we link to — please let us know so we can address this issue immediately.
 
@@ -24,6 +24,16 @@ Our website uses contact forms for customers to request information and send fee
 
 We use third-party advertising companies to serve ads when you visit our website. These companies may use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you.
 
+Cookies and Web Beacons:
+
+We and the third parties we authorize may receive and store certain types of non-personally identifiable information whenever you interact with us by using “cookies,” “web beacons” and analogous technology. “Cookies” are small files that are placed on your computer or your internet browser memory to enable the owner of the cookie to recognize your browser and to provide convenience and other features to you. It is important to note that the cookies that we use, or permit others to use, do not contain and are not tied to personally-identifiable information about you.
+
+You may be able to direct your internet browser not to allow cookies and you can typically delete existing cookies from your computer at any time. Please note, however, if you set such browser settings or delete existing cookies then some elements of our website may not function properly or be available to you.
+
+Preference Based Advertising:
+
+We also work with and permit certain third parties, including, but not limited to advertising networks and website analysis firms, to place cookies on your computer or browser when you view, click or otherwise interact with advertisements that are featured on our website. These third party cookies and analogous technology are used to gather non-personally identifiable information about your activities on our website and third party sites you may visit to serve you with advertisements that are relevant to your interests and preferences while you are on third party sites. Some of these third parties participate in the Digital Advertising Alliance (“DAA”), an industry self-regulatory program to give consumers a better understanding of and greater control over ads that are customized based on their online behavior across different web sites. To learn more and make choices about preference-based ads from participating third parties, please visit the DAA website at [www.aboutads.info](https://web.archive.org/web/20130624073725id_/http://www.photoxels.com/privacy/www.aboutads.info).
+
 Google Ads (Privacy Policy):
 
 * Google, as a third party vendor, uses cookies to serve ads on your site.  
@@ -32,4 +42,4 @@ Google Ads (Privacy Policy):
 
 This Privacy Notice will be updated periodically to reflect changes in our information practices. Whenever we revise this Privacy Notice, we will change the date on the notice to indicate when the revisions were made. We reserve the right to change our information practices and the terms of this Privacy Notice. By using this web site, you agree to accept the terms of this Privacy Notice as stated at the time you use it. Any future access to this web site subsequent to the posting of a revised Privacy Notice will be deemed to be your acceptance of this Privacy Notice as then revised. We reserve the right to change this Privacy Notice at any time.
 
-UPDATED: July 16, 2012
+UPDATED: February 21, 2013
