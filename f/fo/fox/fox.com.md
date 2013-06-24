@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fox.com privacy policy that was archived on 2012-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120606160624id_/http%3A//www.fox.com/policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fox.com privacy policy that was archived on 2013-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130624080212id_/http%3A//www.fox.com/policy.php) for the most accurate reproduction.*
 
 # FOX Broadcasting Company - FOX Network Sites Terms of Use
 
@@ -22,7 +22,7 @@ Summary of the FOX Privacy Policy:
 
 FOX Broadcasting Company ("FOX" or "we") operates FOX.com and other FOX show and entertainment websites that are operated by FOX (collectively, the "FOX Website" or "Site"). The services FOX offers include the FOX Websites, applications (in connection with the Site or third party services), community pages and any other features, content, promotions, games or applications offered from time to time by FOX including when accessed via the Internet, mobile or other devices (collectively, the "FOX Services"). FOX is part of the United States based operations of News Corporation.
 
-As set forth in our [Terms of Use](https://web.archive.org/terms.php), the FOX Services are for a general audience, are not targeted to children, and do not knowingly collect personal information from children under 13 years of age.
+As set forth in our [Terms of Use](http://www.fox.com/terms.php), the FOX Services are for a general audience, are not targeted to children, and do not knowingly collect personal information from children under 13 years of age.
 
 This Privacy Policy applies to all "users," including both those who use a FOX Service without being registered with FOX or subscribing to a FOX Service and those who have registered with or subscribed to any FOX Service. This Privacy Policy describes FOX's collection and use of users' personal information (e.g., information that identifies a specific person, such as full name or email address) where that information is not otherwise publicly available on the FOX Services. We also provide information on the FOX Privacy Settings and describe generally FOX's practices for handling non-personally identifiable information (e.g., interests, demographics and site usage) to the extent such information is associated with a particular user or user account.
 
