@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the linkpushing.net privacy policy that was archived on 2012-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121216032556id_/http%3A//linkpushing.net/blog/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the linkpushing.net privacy policy that was archived on 2013-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130624043024id_/http%3A//linkpushing.net/blog/privacy-policy) for the most accurate reproduction.*
 
-# Link Pushing » Privacy Policy
-
-## Privacy Policy
+# Privacy Policy | Link Pushing
 
 **Your Privacy**  
 Your privacy is important to us. To better protect your privacy we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used. To make this notice easy to find, we make it available on our homepage and at every point where personally identifiable information may be requested. 
