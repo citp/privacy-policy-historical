@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the microventures.com privacy policy that was archived on 2012-10-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121029100111id_/http%3A//www.microventures.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the microventures.com privacy policy that was archived on 2013-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130624021759id_/http%3A//www.microventures.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Angel Investing Private Equity and Crowd funding by Microventures
 
