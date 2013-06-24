@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tmblr.co privacy policy that was archived on 2012-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120630010240id_/https%3A//www.tumblr.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tmblr.co privacy policy that was archived on 2013-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130624213115id_/http%3A//www.tumblr.com/policy/en/privacy) for the most accurate reproduction.*
 
 # Tumblr
 
@@ -76,7 +76,7 @@ We seek to protect your information (including your Account information) to ensu
 
 If you are a registered user, you can access and delete most information associated with your Account by logging into the Services and checking your Account Settings page. Registered and unregistered users can access and delete cookies through their web browser settings. 
 
-**Your California Privacy Rights:** Under California Civil Code sections 1798.83-1798.84, California residents are entitled to ask us for a notice identifying the categories of personal customer information that we share with our affiliates and/or third parties for marketing purposes, and providing contact information for such affiliates and/or third parties. If you are a California resident and would like a copy of this notice, please submit a written request to the following address: 35 East 21st Street, 6th Floor, New York NY 10010. 
+**Your California Privacy Rights:** Under California Civil Code sections 1798.83-1798.84, California residents are entitled to ask us for a notice identifying the categories of personal customer information that we share with our affiliates and/or third parties for marketing purposes, and providing contact information for such affiliates and/or third parties. If you are a California resident and would like a copy of this notice, please submit a written request to the following address: 35 East 21st St, 10th Floor. New York, NY 10010. 
 
 ## How to Delete Your Account and What Happens When You Delete Your Account
 
