@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the webmdhealth.com privacy policy that was archived on 2012-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121106185403id_/http%3A//www.webmdhealthservices.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the webmdhealth.com privacy policy that was archived on 2013-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130624054910id_/http%3A//www.webmdhealthservices.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | WebMD Health Services
 
