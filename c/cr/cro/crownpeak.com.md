@@ -1,97 +1,119 @@
-> *The following text is extracted and transformed from the crownpeak.com privacy policy that was archived on 2012-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121113065112id_/http%3A//www.crownpeak.com/company/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the crownpeak.com privacy policy that was archived on 2013-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130624162407id_/http%3A//www.crownpeak.com/privacy/index.aspx) for the most accurate reproduction.*
 
 # Company | Privacy Policy | CrownPeak.com
 
-CrownPeak Technology ("CrownPeak" or "We") knows that you care about how your personal information is used and shared, and we take your privacy seriously.  CrownPeak has created this privacy policy ("Policy") in order to demonstrate our commitment to your privacy. Please read the following to learn more about it.
+**Privacy**
 
-By accessing the CrownPeak website at [www.crownpeak.com](http://www.crownpeak.com/), including all related pages ("Site"), including the utilization of any subscription based features or services offered by CrownPeak through the Site or any sites or pages operated or provided by CrownPeak to its customers or subscribers, whether or not linked to the Site (collectively, the "Service"), you are accepting the practices outlined in this Policy.
+[ ](http://privacy.truste.com/privacy-seal/CrownPeak-Technology/validation?rid=801179f9-bc32-4941-9eec-b93ac84c6627 "Validate TRUSTe privacy certification")
 
-## 1\. What Does This Privacy Policy Cover?
+CrownPeak Technology (“CrownPeak”) has created this privacy statement in order to demonstrate our firm commitment to privacy. The following outlines our information gathering and dissemination practices; our collection, use and disclosure of information we collect through this website www.crownpeak.com and other websites owned by CrownPeak accessible by our customers’ end users or by the general public. These websites are collectively referred to in this privacy statement as “our website”, “this website” or their respective plurals. Our use of information collected through our website shall be limited to the purposes outlined in the CrownPeak Services Agreement executed between CrownPeak and your company or, in the case of general public access, by the principles outlined in this privacy statement. Please take a moment to familiarize yourself with our privacy statement and let us know if you have any questions.
 
-This Policy covers CrownPeak's collection and use of personal information that CrownPeak gathers when you are on the Site and when you use the Service.
+Your privacy is important to us. To better protect your privacy we provide this statement explaining our online information practices and the choices you can make about the way your information is collected and used. To make this statement easy to find, we make it available on our corporate website (http://www.crownpeak.com/privacy) and at every point where personally identifiable information may be requested.
 
-This Policy does not apply to the practices of third parties that CrownPeak does not own or control, or to individuals that CrownPeak does not employ or manage.
+To show our commitment to privacy, we have entered into three voluntary data privacy programs: the [US-EU Safe Harbor, U.S.-Swiss Safe Harbor](http://www.export.gov/safeharbor/) and [TRUSTe](http://www.truste.org/).  Our involvement and participation in these programs is described below.
 
-For avoidance of doubt, this Policy does not apply to any third party information (a) gathered by CrownPeak's subscribers (i.e. information about customers of CrownPeak subscribers) and submitted by them to the Service for use in connection with their activities, or (b) submitted by customers of CrownPeak’s subscribers directly to the Service ("Customer Data"). CrownPeak will not review, share, distribute, print, or reference any such Customer Data except as provided in this Policy, the agreement between CrownPeak and its subscriber, or as may be required by law. Notwithstanding the foregoing, Customer Data may at times be viewed or accessed by CrownPeak for the purpose of resolving a problem, support issue, or for investigating a suspected violation of the CrownPeak’s agreement with its subscriber, or as may be required by law.
+## Safe Harbor
 
-## 2\. What Personal Information About Customers Does CrownPeak Collect?
+We follow privacy principles with respect to transfers of personal information from the European Economic Area (EEA) (which includes the twenty-seven member states of the European Union (EU) plus Iceland, Liechtenstein and Norway) and from Switzerland to the United States.
 
-Our primary goal in collecting information is to provide you with a friendly, customized, and efficient experience. We collect the following types of information from our customers:
+The United States Department of Commerce and the European Commission have agreed on a set of data protection principles and frequently asked questions to enable U.S. companies to satisfy the requirement under European Union law that adequate protection be given to personal information transferred from the EEA to the United States (the “U.S.-EU Safe Harbor"). The EEA also has recognized the U.S.-EU Safe Harbor as providing adequate data protection (OJ L 45, 15.2.2001, p.47).
 
-Information You or Your Customers Provide to Us:  CrownPeak collects identifying information about you when you use the Service, when you visit the Site (including, without limitation, any crownpeak.com web pages or landing pages), and when you enter promotions or contests. We also collect identifying Customer Data from you as you use the Service, or directly from your customers as they input Customer Data into sites and pages operated, maintained or published by us for you as part of the Service.  For example, we require our subscribers who register to use the Service to give us the following personal information: their name, Company name, address, phone number, and e-mail address, and financial qualification and billing information, such as billing name and address, and the identity of users within the organization that will be using the Service.  When you initially express interest obtaining additional information about the Service, or when you register for the Service, we may also ask for additional types personal information, such as title, department name, fax number, or additional company information, such as annual revenues or marketing spend. We may also request demographic information and unique identifiers in order to provide you with a more personalized experience or verify your passwords.  The nature of Customer Data we collect depends on the activities undertaken in your own business and the nature of the information you require your customers to enter into your sites and pages operated, maintained or published by us.  
+The United States Department of Commerce and the Federal Data Protection and Information Commissioner (FDPIC) of Switzerland have agreed on a similar set of principles and frequently asked questions to enable U.S. companies to satisfy the requirement under Swiss law that adequate protection be given to personal information transferred from Switzerland to the United States (the “U.S.-Swiss Safe Harbor”).
 
-We may use non-personal information in the manner described below under “Automatic Information”.  
+CrownPeak complies with the U.S. – E.U. Safe Harbor framework and the U.S. - Swiss Safe Harbor framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal data from European Union member countries and Switzerland. CrownPeak has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement.  To learn more about the Safe Harbor program, and to view CrownPeak’s certification, please visit <http://www.export.gov/safeharbor/>.
 
-All financial and billing information that we collect from you is used for the purposes of checking your qualifications as a prospective customer and billing you for the Service. Such billing information is not used by CrownPeak for marketing or promotional purposes. CrownPeak may use a third-party intermediary to manage billing and payment processing. This intermediary is solely a link in the distribution chain, and is not permitted to store, retain, or use the information provided, except for the sole purpose of billing and payment processing.  
+In compliance with the Principles, we commit to resolve complaints about your privacy and our collection or use of your personal information.
 
-If you are a registered user of CrownPeak's subscription-based Service, please note that some information about you, and your Customer Data, may remain in our records after the end of your trial or subscription.
+## TRUSTe Privacy Seal
 
-Automatic Information:  We receive and store certain types of information (including Customer Data) whenever you (or in certain cases, your customers) interact with us via the Site or in connection with your use of the Service. CrownPeak automatically receives and records certain "traffic data" on our server logs including your IP address, CrownPeak cookie information, the page you requested, and your communications and interactions with other site registrants. CrownPeak uses this traffic data to help diagnose problems with its server, analyze trends and administer the Site and the Service.
+In addition, CrownPeak has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with [TRUSTe Cloud Privacy program requirements](http://www.truste.com/privacy-program-requirements/TRUSTed-cloud/) including transparency, accountability and choice regarding the collection and use of your personal information. TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. The TRUSTe program covers the collection, use and disclosure of information we collect through our website and our CMS Platform. The use of information collected through these services shall be limited either by the terms agreed to in contract between CrownPeak and its customers or as directly described in this privacy policy.
 
-We automatically collect usage information, such as the numbers and frequency of visitors to our Site and use of components of the Service. We may use this information to provide research, advice and information, including, without limitation, for benchmarking purposes (e.g. we may publish an industry white paper that uses data collected through the use of our Service). This data is only used in the aggregate. This type of collective data also enables us to figure out how often customers use parts of the Service so we can make the Service appealing to as many customers as possible. In addition, we may provide statistical information to our partners about how our customers, collectively, use our Site and Service. We may share this type of statistical data so that our partners also understand how often people use areas of our Site and our Service, so that they, too, may provide you with an optimal experience.
+Our website does not automatically collect personal information from your computer without you voluntarily providing this information. This notice applies to all information collected or submitted on our website.
 
-We also collect and use information for internal purposes. For example, if you are a registered user of the CrownPeak's subscription-based Service, we may keep records in your account history of your complaints about other registered users online behavior, and any reported violation of our Client Service Agreement that you or someone on your account may have committed.
+We also collect non-personal information, that is, data in a form that does not permit direct association with any specific individual. We may use non-personal information to compile and analyze website usage trends, effectiveness of marketing content or other marketing-related analysis.
 
-Many companies offer programs that help you to visit web sites anonymously. While CrownPeak will not be able to provide you with a personalized experience if we cannot recognize you, we want you to be aware that these programs are available.
+For users of the CrownPeak CMS Platform, we collect identifying information about you when you set up your account profile to access the service.  This information includes details such as your full name, your eMail address, your phone number etc.
 
-E-mail Communications:  We may receive a confirmation when you open e-mail from CrownPeak if your computer supports this type of program, in order to help us make e-mails more interesting and helpful. We may also send out emails with information regarding CrownPeak or our partners including promotions and events. Customers can opt out of being contacted by us by sending an email to [support@crownpeak.com](mailto:support@crownpeak.com) or by following an “unsubscribe” link in the email itself.
+Part of CrownPeak’s business also involves hosting websites on behalf of its customers.  Some of these websites collect personally identifying information.  In these cases, the nature and use of the personally-identifying information collected is determined by the CrownPeak customer.
 
-Information From Other Sources:  For purposes such as improving personalization of our Service, we may receive information about you from other sources and add it to our account information.
+We post customer testimonials on our website which may contain personally identifiable information. We will obtain your consent prior to posting your name, your testimonial, or any other personally identifiable information. To request removal of your personal information from our testimonials, contact us at [privacy@crownpeak.com](mailto:privacy@crownpeak.com).
 
-## 3\. What about Cookies?
+Our web site offers publicly accessible blogs and community forums. You should be aware that any information you provide in these areas may be read, collected, and used by others who access them. To request removal of your personal information from our blog or community forum, contact us at privacy@crownpeak.com.  In some cases, we may not be able to remove your personal information, in which case we will let you know if we are unable to do so and why.
 
-Cookies are alphanumeric identifiers that we transfer to your computer's hard drive through your Web browser to enable our systems to recognize your browser and tell us how and when pages in our site are visited and by how many people. CrownPeak employs cookies in order for its server to recognize a return visitor as a unique user. The cookies placed by the CrownPeak server are readable only by CrownPeak, and cookies cannot access, read or modify any other data on a computer.
+Our web site includes Social Media Features, such as the Facebook Like button and Widgets, such as the Share this button or interactive mini-programs that run on our site. These Features may collect your IP address, which page you are visiting on our site, and may set a cookie to enable the Feature to function properly. Social Media Features and Widgets are either hosted by a third party or hosted directly on our Site. Your interactions with these Features are governed by the privacy policy of the company providing it.
 
-The "help" portion of the toolbar on the majority of browsers will direct you on how to prevent your browser from accepting new cookies, how to command the browser to tell you when you receive a new cookie, or how to fully disable cookies. We strongly recommend that you leave the cookies activated, however, because cookies enable you to take advantage of some of CrownPeak's most attractive features.
+If your personally identifiable information previously collected on our website changes, you may correct, delete inaccuracies, or update this information directly by logging into the website where that information is maintained.  We will respond to your access request within 30 days.
 
-## 4\. Will CrownPeak Share Any of the Information it Receives?
+If you choose to contact us to request that changes be made on your behalf, we will take reasonable steps to verify your identity using the personally identifying information you have previously supplied before granting access or making corrections.
 
-Information about our customers and Customer Data collected on behalf of our customers is an integral part of our business. We neither rent nor sell any personal information to anyone. We share personal information (yours and as included in Customer Data) only with entities that are controlled or controlled by or under common control of CrownPeak, and as described below:
+You may also request deletion of your personal information by contacting us as described below under “How to Contact Us”.
 
-Affiliated Business We Do Not Control:  We are affiliated or partnered with a variety of businesses and work closely with them. In certain situations, these businesses operate within the Service or through the Site.  In other situations, CrownPeak markets or sells products or services jointly with affiliated businesses. We will plainly disclose any program where we intend to share your information with an affiliated business, and give you the opportunity to decline to supply customer information or to opt out of such sharing.
+We use the information we collect about you to authenticate your identity when you access our website.  This ensures that the information we maintain on your behalf is accessible only to you or to the other members of your company who are authorized to access the same information.  We also use the information you provide to respond to your inquiries regarding a demonstration of our products or training registration.
 
-Agents:  We employ other companies and people to perform tasks on our behalf and may need to share your information with them to provide products or services to you. Examples may include removing repetitive information from customer lists, analyzing data, providing marketing assistance, processing credit card payments, and providing customer service. We may also provide your personal information to agents who will use it to verify aggregate usage data that we provide to our partners. In all cases where we share your information with such agents, we explicitly require the agent to acknowledge and adhere to CrownPeak's privacy and Customer Data handling policies.
+We use your Email address to respond to requests you submit through our website or to communicate alerts and notifications that form part of the normal CrownPeak CMS Platform functionality.  We also use your Email address and/or phone number to respond to requests you submit for information through our website.
 
-Business Transfers:  In some cases, we may choose to buy or sell assets or businesses. In these types of transactions, customer information is typically one of the business assets that are transferred. Moreover, if CrownPeak, or substantially all of its assets, were acquired, customer information would be one of the assets that are transferred.
+We never use or share the personally identifiable information provided to us online in ways unrelated to the ones described above without also providing you an opportunity to opt-out or otherwise prohibit such unrelated uses. We will not sell your personal information to third parties.
 
-Protection of CrownPeak and Others:  We may release personal information when we believe in good faith that release is necessary to comply with that law; enforce or apply our conditions of use and other agreements; or protect the rights, property, or safety of CrownPeak, our employees, our users, or others. This includes exchanging information with other companies and organizations for fraud protection and credit risk reduction.
+Our service providers will not market to you independently.
 
-With Your Consent:  Except as set forth above, you will be notified when your personal information may be shared with third parties.
+It may be necessary - by law, legal process, litigation, subpoena, and/or requests from public and governmental authorities within or outside your country of residence - for us to disclose your personal information. We may also disclose information about you if we determine that for purposes of national security, law enforcement, or other issues of public importance, disclosure is necessary or appropriate. We may also disclose information about you if we determine that disclosure is reasonably necessary to protect our operations or those of our customers, and to protect your safety or the safety of others. Additionally, in the event of a reorganization, merger, or sale we may transfer any and all personal information we collect to the relevant third party.
 
-## 5\. Is Information About Me Secure?
+If we engage a third party to process your data on our behalf or to send emails out on our behalf, those third parties will also be bound by our privacy statement.
 
-All customer information collected and stored by CrownPeak is maintained in a secure corporate data center and/or otherwise subject to best practices access protection. Only employees who need customer information to perform a specific job (for example, a customer service representative) are granted access to it. All of our employees are kept up to date on our privacy and security practices.
+CrownPeak collects personal information to identify individuals and manage their access to the CMS Platform.
 
-## 6\. How can I correct or remove information about Me?
+CrownPeak will retain personal information we collect on the CMS Platform for as long as needed to provide services to our customers and/or as long as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.
 
-If you feel that any personal information about you that has been collected and stored by CrownPeak might be wrong, or you would like for us to remove you from our systems, please notify us at [support@crownpeak.com](mailto:support@crownpeak.com) so that we may correct or delete the information.
+Our websites contains links to third party sites. We are not responsible for the privacy practices or the content of these third party sites. We are not responsible for information given to us that you authorize for transfer to third party sites. Information collected by third parties, which may include such things as location data or contact details, is governed by their privacy practices. We encourage you to learn about the privacy practices of those third parties.
 
-## 7\. What Choices Do I Have?
+To prevent unauthorized access, maintain data accuracy, and ensure the correct use of information, we have put in place appropriate physical, electronic, and managerial procedures to safeguard and secure the information we collect online. We follow generally accepted standards to protect the personal information submitted to us, both during transmission and once we receive it. No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore, we cannot guarantee its absolute security.
 
-As stated previously, you can always opt not to disclose information, even though it may be needed to make a purchase or take advantage of certain CrownPeak features.
+CrownPeak uses secure sockets layer (SSL) for securing communications and transactions across the Internet. The SSL protocol uses digital certificates to create and secure confidential communications between the browser and our web server. Data transmitted over an SSL connection cannot be tampered with or forged without the two parties (you and CrownPeak) becoming immediately aware of the tampering. A key or padlock icon in the browser window identifies the security mode of most popular browsers. When the browser is running in “normal” mode, the key is broken or the padlock is open. Once an SSL connection has been established, the key becomes whole, or the padlock becomes closed, indicating that the browser is now in “secure” mode. SSL is supported in the vast majority of browsers, which means that almost anyone with a browser can benefit from SSL encryption. CrownPeak uses certificates from well known providers of digital trust services that enable businesses and consumers to engage in commerce and communications with confidence.
 
-You are able to add or update certain information as described in the "How can I correct or remove information about Me" section above. When you update information, however, we may maintain a copy of the unrevised information in our records.
+For data collected by websites hosted by CrownPeak on behalf of its customers, CrownPeak ensures that all applicable Safe Harbor Principles are applied to the data for as long as it is hosted by CrownPeak and under CrownPeak’s control.
 
-As explained earlier, the "help" portion of the toolbar on the majority of browsers will direct you on how to prevent your browser from accepting new cookies, how to command the browser to tell you when you receive a new cookie, or how to fully disable cookies. Please note, however, that if you do not enable cookies, you will not be able to take advantage of some of our attractive features.
+Protecting the privacy of children is especially important to us. For that reason, no part of our website is structured to attract anyone under the age of 18 and we do not knowingly collect personally identifiable information from anyone under the age of 18.
 
-## 8\. Can Children Use CrownPeak's services?
+## Cookies
 
-Our site and the use of services made available through CrownPeak are not intended for children under the age of 13. CrownPeak does not knowingly or specifically collect information about children under the age of 13 and believes that children of any age should get their parents' consent before giving out any personal information. If you believe that we have mistakenly or unintentionally collected such information through our website, please notify us at [support@crownpeak.com](mailto:support@crownpeak.com) so that we may immediately delete the information from our servers.
+A cookie is a small text file that is stored on a user’s computer for record-keeping purposes. We use both session ID cookies and persistent cookies on our website. We do not link the information we store in cookies to any personally identifiable information you submit while on our site.
 
-## 9\. Conditions of Use
+We use session cookies to make it easier for you to navigate our website as well as enable certain functionality. A session ID cookie expires when you close your browser. A persistent cookie remains on your hard drive for an extended period of time. You can remove persistent cookies by following directions provided in your Internet browser’s “help” file. If you wish to learn more about cookies, their uses and how to disable them in your browser, please click here.
 
-If you decide to visit the CrownPeak Site, your visit and any possible dispute over privacy is subject to this Privacy Policy and our Terms of Use, including limitations on damages, arbitration of disputes, and application of California law.  Any visit to a site or page operated, maintained or published by us for a customer is governed completely by the terms of use and privacy policy published of that customer.  
+We set a persistent cookie to store preference information and enable “Remember Me” functionality.  Persistent cookies also enable us to track and target the interests of our users to enhance the experience on our website.
 
-## 10\. Third Party Sites
+If you reject cookies, you may still use our website, but your ability to use some areas of our website, will be limited.  In some cases, parts of our website will not work.
 
-The Service may permit you to link to other websites on the Internet, and other websites may contain links to the CrownPeak site. These other websites are not under CrownPeak control, and such links do not constitute an endorsement by CrownPeak of those other websites or the services offered through them. The privacy and security practices of websites linked to or from the CrownPeak site are not covered by this Privacy Policy, and CrownPeak is not responsible for the privacy or security practices or the content of such websites.
+The use of cookies by third parties is not covered by our privacy policy.  We do not have access or control over these cookies.
 
-## 11\. Changes to this Privacy Policy
+## Clear Gifs (Web Beacons/Web Bugs)
 
-CrownPeak may amend this Privacy Policy. Use of information we collect now is subject to the Privacy Policy in effect at the time such information is used. If we make changes to our privacy policy, we will notify you by posting the revised notice on our Site or sending you an email so you are always aware of what information we collect, how we use it and under what circumstances if any, it is disclosed.
+We and our third party tracking technology company use a software technology called clear gifs (a.k.a. Web Beacons/Web Bugs), that help us better manage content on our website by informing us what content is effective. Clear gifs are tiny graphics with a unique identifier, similar in function to cookies, and are used to track the online movements of Web users. In contrast to cookies, which are stored on a user’s computer hard drive, clear gifs are embedded invisibly on Web pages and are roughly the size of the period at the end of this sentence. We do not tie the information gathered by clear gifs to your personally identifiable information.
 
-## 12\. Questions or Concerns
+We use clear gifs in our HTML-based Emails to let us know which Emails have been opened by recipients. This allows us to gauge the effectiveness of certain communications and the effectiveness of our marketing campaigns.
 
-If you have any questions or concerns regarding privacy at CrownPeak site, please email [support@crownpeak.com](mailto:support@crownpeak.com). Your privacy is important to us and we will make every effort to resolve your concerns.
+CrownPeak may transfer personal information to companies that help us provide our service. Transfers to subsequent third parties are covered by the provisions in this privacy statement regarding notice and choice and the service agreements with our Licensees. If we engage a third party to process your data on our behalf, that third party will also be bound by our privacy statement. 
 
-_Privacy Policy Effective Date: September 3, 2009_
+CrownPeak will retain the personal data we collect from you for as long as needed to provide services to our customers or to support our own marketing programs as described above. CrownPeak will retain and use this personal information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.
+
+We may update this privacy statement to reflect changes to our information practices. If we make any material changes we will notify you by email (sent to the e-mail address specified in your account) or by means of a notice on this site prior to the change becoming effective. We encourage you to periodically review this page for the latest information on our privacy practices.
+
+## How To Contact Us
+
+If you have questions or complaints regarding our privacy statement or any other aspect of our privacy or security practices, please contact us at privacy@crownpeak.com or send a letter via postal mail to:
+
+Privacy Officer
+
+CrownPeak Technology
+
+5880 W. Jefferson Blvd., Studio G
+
+Los Angeles, CA 90016
+
+United States of America
+
+We will respond to your questions or complaints within 30 days of our receipt.
+
+If you are not satisfied with our response you can contact [TRUSTe here.](http://watchdog.truste.com/pvr.php?page=complaint)
+
+Effective January 1, 2013
