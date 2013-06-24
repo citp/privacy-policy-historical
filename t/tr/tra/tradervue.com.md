@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tradervue.com privacy policy that was archived on 2012-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121224010401id_/http%3A//www.tradervue.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tradervue.com privacy policy that was archived on 2013-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130624141412id_/http%3A//www.tradervue.com/privacy) for the most accurate reproduction.*
 
 # Tradervue | Privacy Policy
 
@@ -22,6 +22,8 @@ This privacy notice discloses the privacy practices for Tradervue. This privacy 
 **Information Collection, Use, and Sharing**
 
 We are the sole owners of the information collected on this site. We only have access to/collect information that you voluntarily give us when using the site. We will not sell or rent this information to anyone.
+
+If you sign up on a "powered by Tradervue" partner site (signified by partner branding on the signup page), your username and email will be shared with that partner. You should refer to that partner's privacy policy for details on how they will use your information.
 
 We use your information to provide the services of the site. We will not share your information with any third party outside of our organization, other than as necessary to fulfill your request. Specifically:
 
