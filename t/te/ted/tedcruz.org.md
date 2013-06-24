@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the tedcruz.org privacy policy that was archived on 2012-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121116075147id_/http%3A//www.tedcruz.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tedcruz.org privacy policy that was archived on 2013-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130624030431id_/http%3A//www.tedcruz.org/privacy-policy) for the most accurate reproduction.*
 
-# Ted Cruz for U.S. Senate - Privacy Policy
+# Ted Cruz for U.S. Senate Privacy Policy - Ted Cruz for U.S. Senate
 
 We are committed to providing the highest level of protection for your online privacy and security. As you explore our website, we encourage you to provide us with information about yourself, so we can contact you with the latest news about Ted Cruz. However, you will always be able to decide how much, if any, personal information you’d like to provide. And you will always be able to unsubscribe from our email database quickly and easily through the link provided at the bottom of every email that we send.
 
