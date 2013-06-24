@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the yelp.com privacy policy that was archived on 2012-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121225031051id_/http%3A//www.yelp.com/static%3Fp%3Dprivacy%26country%3DUS) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yelp.com privacy policy that was archived on 2013-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130624100243id_/http%3A//www.yelp.com/static%3Fp%3Dprivacy%26country%3DUS) for the most accurate reproduction.*
 
 # Privacy Policy | Yelp
 
