@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the playsides.com privacy policy that was archived on 2012-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121016132406id_/http%3A//www.playsides.com/privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the playsides.com privacy policy that was archived on 2013-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130624023546id_/http%3A//www.playsides.com/privacy-policy) for the most accurate reproduction.*
 
-# Play Sides
+# Privacy Policy | Playsides.com
 
-## PlaySides Privacy Policy
+## Playsides Privacy Policy
 
 This website, PlaySides.com (the "Site") is owned and operated by Secco Media, Inc. ("us," "we," or "Company"). We created this Privacy Policy ("Privacy Policy") to explain how we use the information we collect on the Site. This Privacy Policy is only applicable to the Site, and not to any other websites that you may be able to access from the Site, each of which may have data collection, storage, and use practices and policies that differ materially from this Privacy Policy.
 
@@ -10,11 +10,11 @@ This website, PlaySides.com (the "Site") is owned and operated by Secco Media, I
 
 We automatically track and collect the following categories of information when you visit our Site: 1) IP addresses; 2) domain servers; 3) types of computers accessing the Site; and 4) types of web browsers used to access the Site (collectively "Traffic Data"). Traffic Data is anonymous information that does not personally identify you but is helpful for marketing purposes or for improving your experience on the Site. We also use "cookies" to customize content specific to your interests. 
 
-We enable you to provide us with certain information that personally identifies you ("Personal Information"). Personal Information includes your name and email address. If you communicate with us (for example, by posting on our blog), any information provided in such communication is collected as Personal Information.
+We enable you to provide us with certain information that personally identifies you ("Personal Information"). Personal Information includes your name and email address. If you communicate with us (for example, by posting on our blog), any information provided in such communication is collected as Personal Information. 
 
 ### Our Use of Collected Information
 
-We use Personal Information you to use our service, manage your PlaySides account, post on our blog. Currently, we do not use your personal information for any other reason. However, we anticipate using your Personal Information directly, indirectly, and in combination with data we exchange with other parties to introduce you to informational, service, and/or product offerings of Brockway Media, Inc. and/or its subsidiaries, affiliated companies, partners, select unaffiliated companies, assigns, and/or brands that are owned by, licensed by, and/or partnering with Brockway Media, Inc. (collectively, "Our Companies"). We will do this by transferring, licensing, and/or sharing your personal information with Our Companies and hope you will be interested in the advertisements, marketing materials, and/or promotions with which you are presented. Our Companies will also sell, license, transfer, and/or share your personal information with unaffiliated list brokers, affiliate marketers, and/or companies that want to advertise other products and/or services. Once a third-party obtains your personal information, its subsequent use is controlled by the business practices of the third party, which is beyond our control. You may choose not to provide us with any Personal Information. In such an event, you may not be able to use some or all of our services.
+We use Personal Information you to use our service, manage your PlaySides account, post on our blog. Currently, we do not use your personal information for any other reason. However, we anticipate using your Personal Information directly, indirectly, and in combination with data we exchange with other parties to introduce you to informational, service, and/or product offerings of Playsides.com and/or its subsidiaries, affiliated companies, partners, select unaffiliated companies, assigns, and/or brands that are owned by, licensed by, and/or partnering with Playsides.com (collectively, "Our Companies"). We will do this by transferring, licensing, and/or sharing your personal information with Our Companies and hope you will be interested in the advertisements, marketing materials, and/or promotions with which you are presented. Our Companies will also sell, license, transfer, and/or share your personal information with unaffiliated list brokers, affiliate marketers, and/or companies that want to advertise other products and/or services. Once a third-party obtains your personal information, its subsequent use is controlled by the business practices of the third party, which is beyond our control. You may choose not to provide us with any Personal Information. In such an event, you may not be able to use some or all of our services.
 
 ### Confidentiality and Security of Personal Information
 
@@ -34,16 +34,6 @@ Effective Date: 04/01/2011
 
  **Contacting Us**  
 If there are any questions regarding this privacy policy you may contact us using the information below.   
-[http://www.PlaySides.com/contactus.php](http://www.playsides.com/contactus.php)
+[http://www.playsides.com/contact-us/](https://web.archive.org/contact-us/)
 
 [support@playsides.com](mailto:support@playsides.com)
-
-Benefits of Playing Free Games Online
-
-People who play games online are able to enjoy the reward and satisfaction that comes with the small goals that are often established in games. To clarify what I mean, I will take the game of "Gem Pop" that is quite popular on this website. The small goals are to clear the boards that are necessary in order to reach the end of the game. 
-
-People who engage in playing this game can enjoy the reward of "beating" each board. In turn, this raises their confidence and also instills a sense of accomplishment. People can learn that setting small goals can help them master much larger games - both in online gaming as well as their lives. 
-
-On this site there are a number of games that are available online that focus on challenging the mind of the individual who plays it. These are often referred to "logic" games. If you check out our site , a popular gaming website, you will discover several games that can actually enhance your intellect. 
-
-While playing online games, it has been found that the technology skills that are necessary to live in today's world are greatly enhanced. Literacy in computers and the internet are quickly becoming basic skills that are required to enter the workforce today. This type of activity may very well contribute to the your ability to succeed in your educational career, as well as their professional career! Here at playsides.com we truly believe in the best gaming experience so you can continue to grow strong bonds with your family and future opponents. This is why our service is offered free. 
