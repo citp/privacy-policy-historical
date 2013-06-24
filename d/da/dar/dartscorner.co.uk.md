@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dartscorner.co.uk privacy policy that was archived on 2012-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120503235919id_/http%3A//www.dartscorner.co.uk/i3/Privacy/information.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dartscorner.co.uk privacy policy that was archived on 2013-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130624170913id_/http%3A//www.dartscorner.co.uk/i3/Privacy/information.html) for the most accurate reproduction.*
 
 # Darts Corner - The UK Darts Superstore
 
@@ -99,9 +99,9 @@ If there are any questions regarding this privacy policy you may contact us usin
 Darts Corner Ltd
 
   
-Unit 9, Belmont Works  
-Egerton Road, Belmont  
-Bolton, Lancashire BL7 8AG  
+Watermead Works  
+Slater Lane  
+Bolton, Lancashire BL1 2TE  
 United Kingdom   
 www.dartscorner.co.uk  
 sales@dartscorner.co.uk  
