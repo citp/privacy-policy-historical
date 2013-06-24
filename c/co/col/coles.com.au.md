@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the coles.com.au privacy policy that was archived on 2012-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121205053539id_/http%3A//www.coles.com.au/Coles/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the coles.com.au privacy policy that was archived on 2013-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130625001232id_/http%3A//www.coles.com.au/Coles/Privacy.aspx) for the most accurate reproduction.*
 
 # Coles | Privacy
 
@@ -20,7 +20,7 @@ Coles is committed to complying with the federal Privacy Act 1988.
   * Other Sites
   * Access
   * Direct marketing
-  * Coles and Coles Group Limited Privacy Policies & Practices
+  * Coles Limited Privacy Policies & Practices
 
 
 
@@ -109,8 +109,6 @@ If you would like to access your personal information, write to Coles Customer C
 
 If you do not wish to be contacted by Coles (about special offers, discounts or other promotional events), write to Coles Customer Care Department – P.O. Box 480 Glen Iris 3146, e-mail to [coles.customer.care@coles.com.au](mailto:coles.customer.care@coles.com.au) or call Coles Customer Care toll free on 1800 061 562 or if you no longer wish to be contacted by Coles Baby & Toddler Club, please call the Coles Baby & Toddler Club toll free on 1800 645 000, or email to [babyclub@coles.com.au](mailto:babyclub@coles.com.au).
 
-## Coles and Coles Group Limited Privacy Policies and Practices
+## Coles Limited Privacy Policies and Practices
 
 From time to time and in line with customer expectations and legislative changes, our privacy policies and procedures will be reviewed and, if appropriate, updated.
-
-Please [click here](http://www.colesgroup.com.au/Home/privacy.asp) if you wish to read the Coles Group Limited Privacy Policy.
