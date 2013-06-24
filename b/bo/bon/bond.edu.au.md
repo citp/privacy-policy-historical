@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bond.edu.au privacy policy that was archived on 2012-10-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121008033350id_/http%3A//bond.edu.au/privacy/index.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bond.edu.au privacy policy that was archived on 2013-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130624075300id_/http%3A//bond.edu.au/privacy/index.htm) for the most accurate reproduction.*
 
 # Privacy | Bond University | Gold Coast, Australia
 
@@ -57,6 +57,8 @@ Generally, BU only uses and/or discloses personal information about you for the 
 
 
 
+From time to time, Agencies are lawfully entitled to share personal information provided by the University to them among themselves. Where the University becomes aware that personal information has been shared with another Agency it will advise anyone affected once it becomes aware.
+
 BU stores your personal information in different ways, including in paper and in electronic form. The security of your personal information is important to BU. BU takes all reasonable measures to ensure that your personal information is stored safely to protect it from misuse, loss, unauthorised access, modification or disclosure, including electronic and physical security measures.
 
 ## Access
@@ -97,9 +99,9 @@ If you have any queries or concerns about BU’s privacy policy or the way in wh
 
  **Email address:** [privacy@bond.edu.au](mailto:privacy@bond.edu.au?subject=Privacy%20Feedback)
 
- **Telephone:** 07 5595 1683
+ **Telephone:** 07 5595 3549
 
- **Facsimile:** 07 5595 1748
+ **Facsimile:** 07 5595 1025
 
 ### More information
 
