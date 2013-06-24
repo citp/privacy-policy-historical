@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the socrative.com privacy policy that was archived on 2012-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121204084524id_/http%3A//www.socrative.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the socrative.com privacy policy that was archived on 2013-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130624052345id_/http%3A//www.socrative.com/privacy-policy) for the most accurate reproduction.*
 
 # Socrative | Privacy Policy
 
@@ -32,7 +32,7 @@ We implement a variety of security measures to maintain the safety of your perso
 
 We offer the use of a secure server. All supplied sensitive/credit information is transmitted via Secure Socket Layer (SSL) technology and then encrypted into our Payment gateway providers database only to be accessible by those authorized with special access rights to such systems, and are required to?keep the information confidential. 
 
-After a transaction, your private information (credit cards, social security numbers, financials, etc.) will not be kept on file for more than 30 days. 
+After a transaction, your private information (credit cards, etc.) will not be kept on file for more than 30 days. 
 
 Do we use cookies?
 
@@ -56,7 +56,7 @@ As part of the California Online Privacy Protection Act, all users of our site m
 
 Childrens Online Privacy Protection Act Compliance
 
-We are in compliance with the requirements of COPPA (Childrens Online Privacy Protection Act), we do not collect any information from anyone under 13 years of age. Our website, products and services are all directed to people who are at least 13 years old or older. 
+We are in compliance with the requirements of COPPA (Childrens Online Privacy Protection Act). Our website, products and services are all directed to people who are at least 13 years old or older. All information collected is based on questions input by our "teacher" users who, by using this product, assume the responsibility for using this product with people who are at least 13 years old, or gaining the proper permission and authorization to collect information, or not asking any questions which do not comply with COPPA. 
 
 Online Privacy Policy Only
 
