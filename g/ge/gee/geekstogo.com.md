@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the geekstogo.com privacy policy that was archived on 2012-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121210042603id_/http%3A//www.geekstogo.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the geekstogo.com privacy policy that was archived on 2013-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130624122924id_/http%3A//www.geekstogo.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Geeks to Go! - Free help from tech experts « Geeks to Go! – Free help from tech experts
+
+## Privacy Policy
 
 **Visitor Notice**  
 We will ask you when we need information that personally identifies you (Personal Information) or allows us to contact you. Generally this information is requested when you are asked to register before participating on the message boards, or entering a contest. We use your Personal Information for four primary purposes:
