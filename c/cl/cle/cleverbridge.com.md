@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cleverbridge.com privacy policy that was archived on 2012-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121130004150id_/http%3A//www.cleverbridge.com/corporate/support/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cleverbridge.com privacy policy that was archived on 2013-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130624063056id_/http%3A//www.cleverbridge.com/corporate/support/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - cleverbridge e-commerce
 
@@ -49,9 +49,13 @@ In the event cleverbridge goes through a business transition such as a merger, a
 
 We may (and you authorize us to) disclose information we have collected from and about you (including Personal Information) if we believe in good faith that such disclosure is necessary to (a) comply with relevant laws or to respond to subpoenas or warrants served on us; (b) to enforce any agreement we may have entered into with you and to enforce the Privacy Policy; or (c) to protect and defend the rights or property of us, other users and clients, or third parties. 
 
-## Links to Other Web Site
+## Links to Other Web Sites
 
 The Site may contain links to other web sites that are not owned or controlled by cleverbridge. The provision of such links is for your convenience and does not signify our endorsement of such web sites or location or its contents. We have no control over, do not review and are not responsible for the privacy policies of or content displayed on such other web sites. Please be aware that the terms of the Privacy Policy do not apply to any outside web sites. 
+
+## Safe Harbor
+
+cleverbridge is a participant in both the U.S./EU and the U.S./Swiss Safe Harbor Frameworks developed by the U.S. Department of Commerce. We have certified that we adhere to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view cleverbridge’s certification, please visit <http://www.export.gov/safeharbor/>
 
 ## Privacy of Minors
 
