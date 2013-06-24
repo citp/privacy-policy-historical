@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the wisegeekhealth.com privacy policy that was archived on 2012-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121118025239id_/http%3A//www.wisegeek.com/what-is-the-wisegeek-privacy-policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wisegeekhealth.com privacy policy that was archived on 2013-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130625001216id_/http%3A//www.wisegeek.com/what-is-the-wisegeek-privacy-policy.htm) for the most accurate reproduction.*
 
 # What is the wiseGEEK Privacy Policy?
 
-We take our user's privacy very seriously. If you have any questions regarding our Privacy Policy, please [contact us](http://www.wisegeek.com/how-can-i-contact-wisegeek.htm).
+We take our user's privacy very seriously. If you have any questions regarding our Privacy Policy, please [contact us](https://web.archive.org/how-can-i-contact-wisegeek.htm).
 
-www.wiseGEEK.com, hereafter "wiseGEEK," is wholly owned and operated by Conjecture Corporation. 
+wiseGEEK is wholly owned and operated by Conjecture Corporation. 
 
-By using wiseGEEK content, you accept our [Terms and Conditions](http://www.wisegeek.com/what-are-wisegeeks-terms-and-conditions.htm) which includes this Privacy Policy. If you do not want to be bound by wiseGEEK’s Privacy Policy, or Terms and Conditions, your only remedy is to stop using wiseGEEK’s content.
+By using wiseGEEK content, you accept our [Terms and Conditions](https://web.archive.org/what-are-wisegeeks-terms-and-conditions.htm) which includes this Privacy Policy. If you do not want to be bound by wiseGEEK’s Privacy Policy, or Terms and Conditions, your only remedy is to stop using wiseGEEK’s content.
 
 ### Information Sharing
 
@@ -42,11 +42,11 @@ As a third party advertising vendor, Google will place a DART cookie on your com
 
 ### Policy Changes
 
-Please note that we may change our Privacy Policy from time to time. Users can view our latest Privacy Policy at any time by visiting: http://www.wisegeek.com/what-is-the-wisegeek-privacy-policy.htm
+Please note that we may change our Privacy Policy from time to time. Users can view our latest Privacy Policy at any time by visiting: [/what-is-the-wisegeek-privacy-policy.htm](https://web.archive.org/what-is-the-wisegeek-privacy-policy.htm)
 
 ### Contact Us
 
-If you have any questions about our Privacy Policy, feel free to [contact us](http://www.wisegeek.com/how-can-i-contact-wisegeek.htm) by email, or in writing to the following address:
+If you have any questions about our Privacy Policy, feel free to [contact us](https://web.archive.org/how-can-i-contact-wisegeek.htm) by email, or in writing to the following address:
 
 Conjecture Corporation  
 re: wiseGEEK Privacy Policy  
@@ -54,4 +54,4 @@ PO Box 2130
 Sparks, NV 89432  
 U.S.A.
 
-_This page was last updated in April 2009._
+_This page was last updated in April 2013._
