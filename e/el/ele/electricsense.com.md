@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the electricsense.com privacy policy that was archived on 2012-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121222164710id_/http%3A//www.electricsense.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the electricsense.com privacy policy that was archived on 2013-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130624141648id_/http%3A//www.electricsense.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | www.electricsense.com
 
@@ -54,7 +54,7 @@ We do not use or disclose sensitive personal information, such as race, religion
 
 We may access and/or disclose your personal information if required to do so by law or in the good faith belief that such action is necessary to: (a) conform to the edicts of the law or comply with legal process served on us or the site; (b) protect and defend our rights or property; or (c) act under exigent circumstances to protect the personal safety of our users, our web sites, or the public.
 
-Client comments may be used in our Marketing materials, with consent.
+Client comments made via email may be used in our Marketing materials, with consent. Client comments made by the comment boxes on the website, and so already published, may be used in our Marketing materials without consent.
 
 #### External Links
 
