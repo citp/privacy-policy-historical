@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the simplepickup.com privacy policy that was archived on 2012-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121222082100id_/http%3A//www.simplepickup.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the simplepickup.com privacy policy that was archived on 2013-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130624152722id_/http%3A//www.simplepickup.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Simple Pickup
 
@@ -28,4 +28,4 @@ This Privacy Policy governs the manner in which Simple Pickup LLC collects, uses
 
 11\. Your acceptance of these terms By using this Site, you signify your acceptance of this policy. If you do not agree to this policy, please do not use our Site. Your continued use of the Site following the posting of changes to this policy will be deemed your acceptance of those changes.
 
-12\. Contacting us If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us at: Simple Pickup LLC www.simplepickup.com 417 Associated Rd. #151 Brea, CA 92821 310-720-4331 Simplepickup@gmail.com
+12\. Contacting us If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us at: Simple Pickup LLC www.simplepickup.com Simplepickup@gmail.com
