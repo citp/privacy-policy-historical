@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 360training.com privacy policy that was archived on 2012-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121106172926id_/http%3A//www.360training.com/e-learning/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 360training.com privacy policy that was archived on 2013-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130624063534id_/http%3A//www.360training.com/e-learning/privacy-policy) for the most accurate reproduction.*
 
 # Website Privacy Policy for 360Training.com
 
