@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the education.vic.gov.au privacy policy that was archived on 2012-09-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120911025814id_/http%3A//www.education.vic.gov.au/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the education.vic.gov.au privacy policy that was archived on 2013-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130624161334id_/http%3A//www.education.vic.gov.au/Pages/privacy.aspx) for the most accurate reproduction.*
 
-# Privacy Statement - About the Department - Department of Education and Early Childhood Development
+# Privacy
 
-##  About this Statement
+## About this Statement
 
 The Department is committed to protecting the privacy of your personal information. This Online Privacy Statement governs the collection, storage, use, access and disposal of data including all personal information obtained on the Department's websites. Please take some time to read through this statement and understand our position on privacy.
 
@@ -12,9 +12,9 @@ This Privacy Statement does not apply to linked websites that are not the Depart
 
 The Department has an information privacy policy and handles personal information in accordance with the Victorian Privacy laws - the _Information Privacy Act 2000_ and _Health Records Act 2001_. 
 
-For more information, see: [Information Privacy Policy](https://web.archive.org/about/deptpolicies/informationprivacy.htm)
+For more information, see: [Information Privacy Policy](https://web.archive.org/pages/privacypolicy.aspx)
 
-##  Collection of Information
+## Collection of information
 
 Two types of online data are collected by the Department:
 
@@ -23,7 +23,7 @@ Two types of online data are collected by the Department:
 
 
 
-##  Visitor logs and statistics
+## Visitor logs and statistics
 
 The Department's sites gather statistics on users’ online experience. Information collected includes:
 
@@ -38,11 +38,11 @@ The main purpose for collecting this information is to provide statistical infor
 
 Logged information is not disclosed outside of departmental staff or those under contract to conduct maintenance to web server components. We make no attempt to identify individuals from these records unless it is necessary to the investigation of a breach of law.
 
-##  User Information
+## User information
 
 Some Department sites require visitors to provide personal information when they engage in online activities such as subscribing to conferences, participating in departmental email discussion groups, registering online for education activities, completing online forms and feedback. Personal information collected may include a visitor’s first and last name, postal address, email address, employer, job title and department, telephone and fax numbers. The Department will inform you how your personal information will be used at the point of collection.
 
-##  Internet Risks
+## Internet risks
 
 Any personal information collected is used for the purpose of providing access to online services and monitoring such access. All Department staff have a legal duty to protect the privacy of your personal information and ensure it is used only for the purpose to which you have agreed. The Department does not make available to third parties (other than departmental staff or those under contract to conduct maintenance to web server components) any of your personal information which is stored on this website; unless you are a student enrolled at a Victorian Government school. If you are a student enrolled at a Victorian Government school then the Department may provide any parent, guardian or other person with responsibilities in relation to you with access to your personal information which is stored on this website. Personal information is handled in accordance with Victorian privacy legislation and is stored and disposed of in accordance with Department's Record Keeping Policy.
 
@@ -54,18 +54,17 @@ The Department does not guarantee secure transmission of data transmitted via it
 
 For more information, see: 
 
-  * [List of Common Permanent Records](https://web.archive.org/management/governance/archivesandrecords/schoolrecordspermanent.htm)
-  * [ICT Security Policy](https://web.archive.org/about/deptpolicies/ICTpolicy.htm)
+  * [List of Common Permanent Records](https://web.archive.org/school/principals/governance/pages/recordspermanent.aspx)
 
 
 
-##  Use of Authenticated DEECD websites
+## Use of authenticated DEECD websites
 
 The Department secure websites, which require a username and password for access verification, gather information on a user’s online experiences through the use of a visitor’s username. Please keep your access codes secure and do not share them.
 
-##  Cookies and web scripts
+## Cookies and web scripts
 
-This IDAM website uses cookies which are small text files that are generated by our servers and stored onto your computer. They allow us to recognise when you return to certain sites and allow us to register user preferences.
+This website uses cookies which are small text files that are generated by our servers and stored onto your computer. They allow us to recognise when you return to certain sites and allow us to register user preferences.
 
 A cookie is sent from our server and automatically placed on your computer without notification. Personal preferences or information may be stored in the cookie, which is then sent back to the server on completion of the session. Cookies may be turned off within your browser, however, this may make some sites unusable.
 
@@ -74,26 +73,22 @@ Pages on this site may be coded with scripts from Google Analytics. This is tran
 For more information, see:
 
   * [Google Analytics](http://www.google.com/analytics/)
-  * [Google Privacy Center](http://www.google.com/intl/en/privacy/)
+  * [Google Privacy Centre](http://www.google.com/intl/en/privacy/)
   * [Wikipedia page about HTTP cookies](http://en.wikipedia.org/wiki/HTTP_cookie)
 
 
 
-##  Comments about this Statement
+## Comments about this Statement
 
 The Department welcomes your comments regarding this Privacy Statement. If you believe that this website or any departmental division or employee has not adhered to this Statement please contact the Department by email, fax, or mail.
 
-**Contact:**
+Contact:
 
 Department of Education and Early Childhood Development  
-Online Communcations Unit  
+Online Communications Unit  
 Level 2, 2 Treasury Place, East Melbourne VIC 3002
 
-Email: online.comms.unit@edumail.vic.gov.au
-
- For more information, see:
-
-  * [_Victorian Information Privacy Act 2000_](http://www.legislation.vic.gov.au/Domino/Web_Notes/LDMS/PubStatbook.nsf/f932b66241ecf1b7ca256e92000e23be/4BE13AE4A4C3973ECA256E5B00213F50/$FILE/00-098a.pdf) or 
+  * [Victorian Information Privacy Act 2000](http://www.legislation.vic.gov.au/Domino/Web_Notes/LDMS/PubStatbook.nsf/f932b66241ecf1b7ca256e92000e23be/4BE13AE4A4C3973ECA256E5B00213F50/$FILE/00-098a.pdf) or 
   * [Privacy Victoria](http://www.privacy.vic.gov.au/)
 
 
