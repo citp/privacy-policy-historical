@@ -1,10 +1,6 @@
-> *The following text is extracted and transformed from the getpivot.com privacy policy that was archived on 2012-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121101181433id_/http%3A//go.microsoft.com/fwlink/%3FLinkId%3D248686) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the getpivot.com privacy policy that was archived on 2013-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130625013441id_/http%3A//go.microsoft.com/fwlink/%3FLinkId%3D248686) for the most accurate reproduction.*
 
 # Bing Privacy Statement
-
-Bing Privacy Statement
-
-This privacy statement applies to Bing websites, services, products and applications that collect data and display these terms. It does not apply to other Microsoft products and services that do not link to the Bing Privacy Statement. 
 
 Cookies & Similar TechnologiesCookies
 
@@ -34,7 +30,7 @@ Microsoft uses the information we collect to operate, improve and personalize th
 
 For Bing services, we use this information to provide you with relevant search results. We also use the information we collect to maintain and improve the quality, security and integrity of our services. For example we may use this information for research purposes and to improve the relevancy of Bing search results. This information is also necessary in order to detect and protect against security threats such as botnet attacks, click fraud, worms, and other threats. 
 
-Finally, as described in the [Display of Advertising](https://web.archive.org/web/20121104052651id_/http://www.microsoft.com/privacystatement/en-us/bing/default.aspx?ComponentId=pspBingAdvertisingModule&View=Summary) section of this document, we may use search query data for the purpose of personalizing the ads we display to you as you use our services or those of our advertising partners.
+Finally, as described in the [Display of Advertising](https://web.archive.org/web/20130625004628id_/http://www.microsoft.com/privacystatement/en-us/bing/default.aspx?ComponentId=pspBingAdvertisingModule&View=Summary) section of this document, we may use search query data for the purpose of personalizing the ads we display to you as you use our services or those of our advertising partners.
 
 Reasons We Share Your Personal InformationSharing Your Information
 
@@ -42,11 +38,11 @@ Except as described in this privacy statement, we won’t disclose your personal
 
 We may share some search query data with selected third parties for research purposes. Before we do so, we remove all unique identifiers such as IP addresses and cookie IDs from the data. We also run the data through a process designed to remove identifiable information that users may have included in the search terms themselves (such as social security numbers or credit card numbers). Additionally, we require these third parties to keep the data secure and to not use the data for any other purposes. 
 
-Please see [Other Important Privacy Information](https://web.archive.org/web/20121104052651id_/http://www.microsoft.com/privacystatement/en-us/bing/default.aspx?Componentid=pspBingOtherInformationModule&View=Summary) for details about when we may disclose information, including with Microsoft affiliates and vendors; when required by law or to respond to legal process; to combat fraud or protect our interest; or to protect lives.
+Please see [Other Important Privacy Information](https://web.archive.org/web/20130625004628id_/http://www.microsoft.com/privacystatement/en-us/bing/default.aspx?Componentid=pspBingOtherInformationModule&View=Summary) for details about when we may disclose information, including with Microsoft affiliates and vendors; when required by law or to respond to legal process; to combat fraud or protect our interest; or to protect lives.
 
 Accessing Your Personal Information and Search HistoryAccessing Your Information
 
-When using a web browser, you can access and manage your information, including Search History, on Bing through the preferences page. In Bing search, using the search terms you enter and the results you click, Search History provides an easy way to revisit the sites and searches you've used before. You may clear your search history from appearing on the site by following the steps provided in [see your search history](http://onlinehelp.microsoft.com/en-us/bing/ff808483.aspx "see your search history") (scroll down to "Clear search history"). Clearing your history removes it from the Search History service and prevents that history from being displayed on the site, but does not delete information from our standard search logs, which are retained and anonymized as described above. To remove your search history from Windows 8 applications, see the [Windows 8 Applications](https://web.archive.org/web/20121104052651id_/http://www.microsoft.com/privacystatement/en-us/bing/default.aspx?ComponentId=pspBingWindows8ApplicationsModule&View=Summary) section.
+When using a web browser, you can access and manage your information, including Search History, on Bing through the preferences page. In Bing search, using the search terms you enter and the results you click, Search History provides an easy way to revisit the sites and searches you've used before. You may clear your search history from appearing on the site by following the steps provided in [see your search history](http://onlinehelp.microsoft.com/en-us/bing/ff808483.aspx "see your search history") (scroll down to "Clear search history"). Clearing your history removes it from the Search History service and prevents that history from being displayed on the site, but does not delete information from our standard search logs, which are retained and anonymized as described above. To remove your search history from Windows 8 applications, see the [Windows 8 Applications](https://web.archive.org/web/20130625004628id_/http://www.microsoft.com/privacystatement/en-us/bing/default.aspx?ComponentId=pspBingWindows8ApplicationsModule&View=Summary) section.
 
 Bing Mobile, Maps and Location ServicesMobile and Location Services
 
@@ -76,16 +72,15 @@ Syncing application settings helps keep your app settings up-to-date across PCs 
 
 
 
-Bing BarBing Bar
+Bing ApplicationsBing Applications
 
-The Bing Bar gives you a quick, convenient way to search the internet, check your email, weather forecasts, traffic reports, road maps, and Facebook. (Some features may not be available in your country or region). When you use the Bing Bar, certain information is collected and shared with Microsoft and used in order to operate the Bing Bar services and to help improve Bing Bar and other Microsoft products and services, including information about your computer, your searches, addresses of websites you visit, and how you use Bing Bar. If you elect not to participate in the Improvement Program more limited information will be collected.
+Bing applications, such as Bing Bar and Bing Desktop, use Bing search services to provide you with quick and convenient ways to access information such as searching the internet, weather forecasts, traffic reports, or other information depending on the features of the application (not all Bing applications or features are available in every country).  When you use Bing applications, information about your computer and how you use the application, such as operating system, browser information or buttons you click are collected and used by Microsoft in order to operate the Bing services and to help improve Bing and other Microsoft products and services.  If you choose to participate in the Bing Improvement Program, we also additional collect information about how you use the Bing application, information about your searches, and the addresses of the websites you visit (when using a Bing browser plug-in). 
 
-The Bing Bar provides a number of features and services which collect and use additional information as follows and are described further in the details sections.
+Bing applications provide a number of features and services which collect and use additional information as follows and are described further in the details sections.
 
-  *  **Searching** with the Bing Bar
-  *  **Autosuggest** to provide you with search suggestions
-  *  **Bing Bar Experience Improvement Program** is an optional program to improve the quality and performance of our products and services.
-  *  **AutoFill** Some older versions of the Bing Bar include an optional feature that can automatically fill out forms on Web sites with information such as your address, passwords, and credit card information so that you do not have to repeatedly type the same information or remember multiple passwords. 
+  *  **Searching** with the Bing application 
+  * **Autosuggest** to provide you with search suggestions 
+  * **Bing Experience Improvement Program** is an optional program to improve the quality and performance of our products and services. 
 
 
 
