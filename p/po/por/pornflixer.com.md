@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pornflixer.com privacy policy that was archived on 2012-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121224010858id_/http%3A//www.pornflixer.com/policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pornflixer.com privacy policy that was archived on 2013-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130624140100id_/http%3A//www.pornflixer.com/policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -21,5 +21,3 @@ In the case of Alliance, Sale or else Bankruptcy In the case when PornFlixer is 
  
 
 This particular privacy notice can be revised on periodic basis and users are advised to examine and check it periodically in order to stay informed in case of any changes being done. If you continue to use of the PornFlixer website, then it means that you agree to this particular privacy notice and any possible revisions of it in the future.
-
-Do you know what kind of hot stuff can be produced when you are mixing amateur action with cuckold genre and complete it in 3D style? Yeah, you are about to discover that! PornFlixer.com will definitely help you out with that by providing high-quality content that is full of lechery and wild fun. Teen sluts in here are absolutely addicted to wild sex and can even transform their hubbies into cuckolds. No rules are working in here and that means that you will have another unforgettable 3D experience. Go ahead and don’t miss it, because that fucking action is gonna make you wet for sure. 
