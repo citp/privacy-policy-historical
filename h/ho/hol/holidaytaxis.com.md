@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the holidaytaxis.com privacy policy that was archived on 2012-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121227212818id_/http%3A//www.holidaytaxis.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the holidaytaxis.com privacy policy that was archived on 2013-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130624053143id_/http%3A//www.holidaytaxis.com/about/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | HolidayTaxis.com
 
