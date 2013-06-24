@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the slotocash.com privacy policy that was archived on 2012-01-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120120071539id_/http%3A//www.slotocash.com/privacy-statement.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the slotocash.com privacy policy that was archived on 2013-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130624190626id_/http%3A//slotocash.com/privacy-statement.php) for the most accurate reproduction.*
 
 # Online slots - Play free slot games - Sloto'Cash Casino
 
