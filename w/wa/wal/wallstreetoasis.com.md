@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wallstreetoasis.com privacy policy that was archived on 2012-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121124073842id_/http%3A//www.wallstreetoasis.com/page/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wallstreetoasis.com privacy policy that was archived on 2013-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130624155109id_/http%3A//www.wallstreetoasis.com/page/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Wall Street Oasis
 
