@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the yourlisten.com privacy policy that was archived on 2012-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121224121549id_/http%3A//yourlisten.com/info/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yourlisten.com privacy policy that was archived on 2013-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130624111955id_/http%3A//yourlisten.com/info/privacy) for the most accurate reproduction.*
 
 # Audio File Sharing Community - Share Audio Books - Search Sound Effects - Sound Bite Audio Files - Podcast Sharing Network - YourListen
 
