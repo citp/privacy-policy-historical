@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the taletela.com privacy policy that was archived on 2012-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121110064415id_/http%3A//www.taletela.com/info/62/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the taletela.com privacy policy that was archived on 2013-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130624081707id_/http%3A//www.taletela.com/info/62/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - TaleTela
 
