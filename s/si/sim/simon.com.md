@@ -1,50 +1,94 @@
-> *The following text is extracted and transformed from the simon.com privacy policy that was archived on 2011-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110629020401id_/http%3A//www.simon.com/privacypolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the simon.com privacy policy that was archived on 2013-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130624042517id_/http%3A//www.simon.com/legal/privacy) for the most accurate reproduction.*
 
-# Simon.com Privacy Policy
+# Your Privacy
 
-Effective date May 17, 2003.
+### Therefore, hereinafter, and all that stuff…
 
-At Simon.com, we are committed to protecting your privacy and ensuring that your personal information is handled in a safe and responsible manner.
+Last Updated: February 24, 2012
 
-As part of the normal operation of our services, Simon.com collects and, in some cases, discloses information about you. This Privacy Policy describes the information we collect about you and what may happen to that information. Please read on.
+This Privacy Policy sets out the privacy practices of the website located at [www.simon.com](http://www.simon.com/) (herein referred to as the "Website") which is owned and operated by Simon Property Group, L.P. and its affiliates and subsidiaries (collectively, “Simon”). Specifically, it outlines the types of information that Simon gathers about you while you are using the Website, and the ways in which Simon uses and shares this information. This Privacy Policy does not apply to any information you may provide to Simon, or that Simon may collect, offline and/or through other means (for example, at a live event, via telephone, or through the mail). As used herein, the words "user," "you" and "your" mean users of the Website and the words "we" and "our" means Simon.
 
-What Information Do We Collect?   
-In order to use certain services provided on the site, you will need to register with Simon.com. When you register, we will gather such information as your name, mailing address and email address, and demographic information, such as zip code, age, or income level. If you make a purchase, we may also ask you for your credit card information to process your order. This information will not be used for any other purpose than order processing and/or referencing of your order and will not be shared with anyone outside of Simon Property Group. We may also track certain information about how you use our website.
+Please read this Privacy Policy carefully. By visiting and using the Website, you agree that your use of the Website, and any dispute over Simon’s online privacy practices, is governed by this Privacy Policy and our Terms of Use. Because the web is an evolving medium, Simon may need to change the Privacy Policy from time to time, in which case we will post the revised Privacy Policy on the Website and update the "Last Updated" date to reflect the date of the changes. By continuing to use the Website after we post any such changes, you accept the Privacy Policy as modified.
 
-Simon.com uses pixels, or transparent GIF files, to help manage online advertising. These GIF files are provided by our ad management partner, DoubleClick. These files enable DoubleClick to recognize a unique cookie on your Web browser, which in turn enables us to learn which advertisements bring users to our website. The cookie was placed by us, or by another advertiser who works with DoubleClick. With both cookies and Spotlight technology, the information that we collect and share is anonymous and not personally identifiable. It does not contain your name, address, telephone number, or email address. For more information about DoubleClick, including information about how to opt out of these technologies, go to [ http://www.doubleclick.net/us/corporate/privacy](http://www.doubleclick.net/us/corporate/privacy).
+Laura Hale  
+Online Privacy Coordinator  
+Simon Property Group - Digital Marketing Group  
+225 West Washington Street  
+Indianapolis, IN 46204  
+[privacy@simon.com](mailto:privacy@simon.com)
 
-How Do We Use It?   
-Our primary goal in collecting information from you is to provide you with an efficient and customized experience while using our services. This allows us to enhance your online shopping experience, by providing products and services that meet your particular needs, and making your use of our website more satisfying.
+### P3P
 
-We use your information in a number of ways. For example, we conduct internal research on our user's demographics, interests, and site usage, to better understand and service you.
+The Website is in compliance with the current draft of the World Wide Web Consortium (W3C) Platform for Privacy Preferences (P3P) specification. This specification was developed to allow users to more easily evaluate the use of personal information collected by the web sites they visit. Thus, if your browser is Microsoft Internet Explorer Version 6, or later, your browser can electronically interpret the P3P version of the Privacy Policy.
 
-We may share user information with businesses affiliated with Simon.com and Simon Property Group. They may use this information as we would, and you may occasionally receive product and service information from them.
+### Collection and Use of Personally Identifiable Information
 
-We may also use your information to deliver information to you that, in some cases, is targeted to your interests. If you do not wish to receive email from us, please let us know by sending an email to unsubscribe@simon.com or writing to us at the above address. In the future, we may make our email address list available to carefully screened companies whose products may be of interest to you. If you prefer not to receive email from other companies, please let us know this as well.
+We do not collect any personally identifiable information about you on the Website (such as your name, address, phone number or email address) unless you provide it.
 
-In addition, we may share user information with third parties that we believe are reputable in order to offer products and services that may be of interest to you.
+You must provide personally identifiable information in order to use, or participate in, certain optional features of the Website, including, but not limited to, gift card purchases, gift card registration, the free mall-wide Wi-Fi network, e-mail alerts (aka the Simon Malls Insider club), mobile SMS alerts (aka the Simon Mobile Shopper Club), coupons and sweepstakes. The manner in which we will use this information, if any, will be disclosed on the page through which you sign up for, or otherwise provide information to use, or participate in, the applicable feature.
 
-Finally, we may share user information with outside vendors and organizations that provide support services to us or that help us with our marketing programs.
+Except as expressly set out in this Privacy Policy, or as disclosed when you sign up for, or otherwise provide information to use, or participate in, an optional feature on the Website, we will not disclose any personally identifiable information to a third party without your express prior authorization, nor will we use that information for any purpose other than to provide the applicable feature.
 
-At no time will we share credit card or social security numbers in any fashion other than aggregate demographic information, or as required by law.
+### Collection and Use of Non-Personally Identifiable Information
 
-How Do We Protect Your Information?   
-Simon.com uses industry standard technology and efforts to safeguard the confidentiality of your personal identifiable information. These include secure servers and firewalls. All of the user data we collect is protected against unauthorized access. Only authorized employees who need the information to perform a specific job are granted access to this information.
+In some cases, when you visit the Website, we and/or specific third parties authorized by Simon may collect and store non-personally identifiable (anonymous or “non-PII”) information about you which is generated automatically through your use of the Website, such as your zip code, your IP address (a unique number that is automatically assigned to your computer whenever you are surfing the web), your browser type, or your operating system. This information, by itself, cannot be used to identify you.
 
-What About "Cookies?"   
-A "cookie" is a piece of data stored on the user's hard drive, containing information about the user. We use cookies on our site, but none of them contain any personally identifiable information. Some of our business partners also use cookies on our site, for example, in connection with their advertising. We have no control over these cookies, and we may not have access to the information these advertisers collect. You may choose not to accept cookies by setting your browser to refuse all cookies or to notify you each time a cookie is set. If you choose to refuse cookies, however, you may not be able to use all features of our site.
+We use this information to create "aggregate data" reports that we may disclose to third parties, including entities with whom we have entered into an agreement to provide such information. We may also study aggregate data in order to enhance our existing services or develop new services and use non-personally identifiable information to enable Simon or a third party to provide you with information about products and services while you are using the Website.
 
-What About Links to Third-Party Websites?   
-Our site sometimes provides links to websites that are operated solely by third parties that are not under our control. This Privacy Statement applies to our site only, and is not intended to describe the privacy policies of any third party sites.
+Additionally, we occasionally use third-party advertising companies and advertising networks to serve ads to you on our behalf when you visit the Website. These companies may use non-personally identifiable information about your visits to this Website and other web sites in order to provide advertisements about goods and services that may be of interest to you. If you would like more information about this practice and how to opt-out of receiving communications from these third-party advertising companies, please visit [http://www.networkadvertising.org](http://www.networkadvertising.org/managing/opt_out.asp)
 
-Your Consent   
-By using the Simon.com website, you consent to the collection and use of the information described in this policy.
+We can and will use IP addresses to identify a user when we feel it is necessary to enforce compliance with our Terms of Use or to protect the Website, customers, or other individuals. We also reserve the right to use or disclose non-personally identifiable information in any manner we see fit in order to improve the Website.
 
-Can Users Update or Change the Information We Collect?   
-You can always update or change the information you submitted by accessing the registration section of the site and making the appropriate changes.
+### Use of Browser Based Cookies and Web Beacons
 
-Will Our Privacy Policy Change in the Future?   
-We are always improving and updating our website to further enhance your shopping experience. As a result, our policies will continue to evolve. As we implement new technology and provide new services, we will update our Privacy Policy. We encourage you to refer to this page on an ongoing basis for our most current policy and practices.
+Simon uses browser-based cookies and/or flash shared objects, which are small text files placed on your computer's hard drive, as well as web beacons (also known as pixel tags), which are electronic images embedded into a web page, on the Website. Cookies, shared objects and web beacons are used for record keeping, to track your movements when you visit the Website and to help Simon and our authorized third party analytics vendors to determine what type of information to present to you. The use of cookies, shared objects and web beacons is an industry standard practice used at most websites and can enhance a user’s experience on a website. Simon’s cookies, shared objects and web beacons do not contain personally identifiable information, and do not damage or alter your system files.
 
-Want To Share Your Thoughts on Privacy With Us?   
-We welcome your [comments and suggestions](https://web.archive.org/about_simon/contact_spg).
+The first time you visit the Website, Simon assigns you a unique, anonymous ID, which is stored in the cookie and/or shared object on your computer. Although you can choose not to accept cookies through a setting on most browsers (which can also be set to notify you each time a cookie is set), if you choose to refuse cookies, you may not be able to use all of the features of the Website.
+
+### Retention of Information
+
+Any information we collect may be retained for an indeterminate period of time.
+
+### Confidentiality and Security
+
+Simon is committed to protecting the security of the information collected from users of the Website and has implemented generally accepted standards of technology security in order to protect information from loss, misuse and unauthorized access, disclosure, alteration or destruction. However, it is not possible to guarantee the security or integrity of information disclosed online because no data transmission over the Internet is completely secure. In addition, Simon may use a third party service provider or providers to process credit card transactions and fulfill online orders, which service provider(s) may share information and credit card number with a ticket agent, a credit card processing company, an issuing bank, the card network issuer and/or a shipping/fulfillment company in order to complete an order.
+
+We urge you to take every precaution to protect your personally identifiable information when you are on the Internet. If a password is used to help protect that information, it is your responsibility to keep your password confidential. If you are sharing a computer with anyone, we suggest you log out before leaving a site or service in order to protect subsequent users from gaining access to your information and decline to have your Internet browser remember your password.
+
+Because no physical or electronic security is impenetrable, by using the Website or emailing information to Simon, you agree to assume all risk in connection with that information.
+
+### Links to Other Sites
+
+The Website may contain links to third party websites. Please be aware that, when you click on such a link, you will leave the Website and are no longer subject to the terms of this Privacy Policy. Simon is not responsible for the privacy practices of other websites or third party service providers, and does not control, or endorse, the third party website or its privacy policy. This Privacy Policy also does not extend to anything that is inherent in the operation of the Internet, and therefore beyond Simon’s control, and is not to be applied in any manner contrary to applicable law or governmental regulation.
+
+### Children's Privacy Statement
+
+This section explains our practices with respect to the online collection and use of personally identifiable information from children under the age of 13, and provides important information regarding their rights under federal law with respect to such information.
+
+  * The Website is not directed to children under the age of 13 and we do NOT knowingly collect personally identifiable information from children under the age of 13 as part of the Website, nor do we knowingly distribute such information to third parties.
+  * We screen users who wish to provide personally identifiable information in order to prevent users under the age of 13 from providing such information. If we become aware that we have inadvertently received personally identifiable information from a user under the age of 13, we will take the appropriate steps to delete such information from our records.
+  * We do NOT knowingly allow children under the age of 13 to publicly post or otherwise distribute personally identifiable information through the Website.
+  * Because we do not collect any personally identifiable information from children under the age of 13 via the Website, we do NOT condition the participation of a child under 13 in the Website's online activities on providing personally identifiable information.
+
+
+
+### Changes to this Privacy Policy
+
+All versions of the Privacy Policy are dated with the effective date of that version of the Privacy Policy (i.e., the date on which the applicable version of the Privacy Policy was posted to the Website). Simon’s use of information it learns about you will be governed by the Privacy Policy in effect when the information was collected.
+
+### Disclosure Required By Law
+
+Though we make every effort to preserve user privacy, we may need to disclose information, including, without limitation, personally identifiable information, as required by law, rule or regulation, and/or to comply with a judicial proceeding, court order, request by a governmental or law enforcement authority or other legal process. This disclosure may also include exchanging information with other companies and organizations for fraud protection and credit risk reduction, to report any suspected illegal activity to law enforcement for investigation or prosecution and/or in connection with legal action against someone who may be causing injury to or interference with (either intentionally or unintentionally) rights or property of Simon and/or the rights or property of any third party. We reserve the right to release information concerning any user of the Website when that user is in violation of our Terms of Use or other published guidelines or partakes (or is reasonably suspected of partaking) in any illegal activity.
+
+If Simon sells assets (or the assets of a division or subsidiary) to another entity or if Simon is acquired by or merged with another entity, you agree that, without obtaining your consent, Simon may provide and transfer to such entity information about users of the Website, including your personal and non-personal information, that is related to that part of our business that was sold to or merged with the other entity. However, we will take steps to assure that any personally identifiable information is used in a manner consistent with the Privacy Policy under which it was collected.
+
+### Questions
+
+If you have any questions about this privacy policy, please contact:
+
+Laura Hale  
+Online Privacy Coordinator  
+Simon Property Group  
+Digital Marketing Group  
+225 West Washington Street  
+Indianapolis, IN 46204
