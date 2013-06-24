@@ -1,10 +1,8 @@
-> *The following text is extracted and transformed from the worldenglishinstitute.org privacy policy that was archived on 2012-01-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120102234742id_/http%3A//www.worldenglishinstitute.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the worldenglishinstitute.org privacy policy that was archived on 2013-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130624024319id_/http%3A//www.worldenglishinstitute.org/privacy) for the most accurate reproduction.*
 
 # World English Institute - Free English Lessons
 
-## Privacy Policy
-
-This Privacy Policy governs the manner in which World English Institute collects, uses, maintains and discloses information collected from users (each, a "User") of the [www.worldenglishinstitute.org](https://web.archive.org/web/20120102234742id_/http%3A//www.worldenglishinstitute.org/www.worldenglishinstitute.org) website ("Site"). This privacy policy applies to the Site and all products and services offered by World English Institute.
+This Privacy Policy governs the manner in which World English Institute collects, uses, maintains and discloses information collected from users (each, a "User") of the [www.worldenglishinstitute.org](https://web.archive.org/web/20130624024319id_/http%3A//www.worldenglishinstitute.org/www.worldenglishinstitute.org) website ("Site"). This privacy policy applies to the Site and all products and services offered by World English Institute.
 
 ### Personal identification information
 
@@ -22,12 +20,12 @@ Our Site may use "cookies" to enhance User experience. User's web browser places
 
 World English Institute collects and uses Users personal information for the following purposes: 
 
-  * _\- To personalize user experience_  
+  * _To personalize user experience_  
 We may use information in the aggregate to understand how our Users as a group use the services and resources provided on our Site.
-  * _\- To improve our Site_ We continually strive to improve our website offerings based on the information and feedback we receive from you.
-  * _\- To improve customer service_ Your information helps us to more effectively respond to your customer service requests and support needs.
-  * _\- To administer a content, promotion, survey or other Site feature_ To send Users information they agreed to receive about topics we think will be of interest to them.
-  * _\- To send periodic emails_ The email address Users provide will only be used to respond to their inquiries, and/or other requests or questions. 
+  * _To improve our Site_ We continually strive to improve our website offerings based on the information and feedback we receive from you.
+  * _To improve customer service_ Your information helps us to more effectively respond to your customer service requests and support needs.
+  * _To administer a content, promotion, survey or other Site feature_ To send Users information they agreed to receive about topics we think will be of interest to them.
+  * _To send periodic emails_ The email address Users provide will only be used to respond to their inquiries, and/or other requests or questions. 
 
 
 
@@ -52,10 +50,10 @@ By using this Site, you signify your acceptance of this policy and [terms of ser
 ### Contacting us
 
 If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us at:  
-[World English Institute](https://web.archive.org/web/20120102234742id_/http%3A//www.worldenglishinstitute.org/www.worldenglishinstitute.org)  
-[www.worldenglishinstitute.org](https://web.archive.org/web/20120102234742id_/http%3A//www.worldenglishinstitute.org/www.worldenglishinstitute.org)  
+[World English Institute](https://web.archive.org/web/20130624024319id_/http%3A//www.worldenglishinstitute.org/www.worldenglishinstitute.org)  
+[www.worldenglishinstitute.org](https://web.archive.org/web/20130624024319id_/http%3A//www.worldenglishinstitute.org/www.worldenglishinstitute.org)  
 World English Institute 1525 NW Division Gresham, OR 97030  
 help@worldenglishinstitute.org  
 
 
-This document was last updated on October 23, 2011
+This document was last updated on October 23, 2011.
