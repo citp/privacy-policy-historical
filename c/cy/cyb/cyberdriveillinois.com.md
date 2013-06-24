@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the cyberdriveillinois.com privacy policy that was archived on 2012-09-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120915005743id_/http%3A//www.cyberdriveillinois.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cyberdriveillinois.com privacy policy that was archived on 2013-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130624200729id_/http%3A//cyberdriveillinois.com/privacypolicy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
-[Home](https://web.archive.org/home.html) • [Web.archive.org](https://web.archive.org/home.html) • [Web](https://web.archive.org/web/home.html) • [20120915005743id ](https://web.archive.org/web/20120915005743id_/home.html) • [Http:](https://web.archive.org/web/20120915005743id_/http%3A/home.html) • [](https://web.archive.org/web/20120915005743id_/http%3A//home.html) • [Www.cyberdriveillinois.com](https://web.archive.org/web/20120915005743id_/http%3A//www.cyberdriveillinois.com/home.html) • Privacy Policy
+[Home](https://web.archive.org/home.html) • [Web.archive.org](https://web.archive.org/home.html) • [Web](https://web.archive.org/web/home.html) • [20130624200729id ](https://web.archive.org/web/20130624200729id_/home.html) • [Http:](https://web.archive.org/web/20130624200729id_/http%3A/home.html) • [](https://web.archive.org/web/20130624200729id_/http%3A//home.html) • [Cyberdriveillinois.com](https://web.archive.org/web/20130624200729id_/http%3A//cyberdriveillinois.com/home.html) • Privacy Policy
 
 The Illinois Secretary of State understands the importance of privacy to web site visitors. Some information is collected by the Illinois Secretary of State to assist the Office with improving customer service. Personal information is collected from our web site only when you provide the information on a voluntary basis. Under no circumstances will personally identifiable information, such as name, address, driver’s license number, social security number, telephone number, and medical or disability information, be sold for commercial solicitation purposes. Personally identifiable information may be used only for purposes authorized by law.
 
@@ -22,10 +22,9 @@ If you browse our site to read or download information, we use software programs
   * Number of error messages
   * Length of visit
   * Top keywords
-  * Your provider, such as America Online
-  * Your domain, such as xcompany.com or yschool.edu
-  * Most popular browser, such as Microsoft Internet Explorer 5 and
-  * Most popular platform, such as Windows 98.
+  * Your domain, or IP address
+  * Most popular browsers and
+  * Most popular operating systesm
 
 
 
