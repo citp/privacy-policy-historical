@@ -1,18 +1,18 @@
-> *The following text is extracted and transformed from the ecotrade.or.kr privacy policy that was archived on 2012-10-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121003185218id_/http%3A//www.ecotrade.or.kr/f.to/guide/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ecotrade.or.kr privacy policy that was archived on 2013-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130624160705id_/http%3A//www.ecotrade.org/f.to/guide/privacy_policy.html) for the most accurate reproduction.*
 
 # Environmental marketplace for Korea environmental technology & product | ECOTRADE
 
 1\. The Information We Collect 
 
 1.1 Registration Information.   
-At the time you register to become a Registered User of the Site, you will be asked to fill out a registration form which requires you provide information such as your name, address, phone/fax number, email address and other personal information as well as information about your business (¡°Registration Information¡±).   
+At the time you register to become a Registered User of the Site, you will be asked to fill out a registration form which requires you provide information such as your name, address, phone/fax number, email address and other personal information as well as information about your business (“Registration Information”).   
 1.2 Publishing Information.   
-If you submit any information to KONETIC to be published on the Site through the publishing tools, including but not limited to Company Directory, Product Catalog, Trade Leads, then you are deemed to have given consent to the publication of such information (¡°Publishing Information¡±).   
+If you submit any information to KONETIC to be published on the Site through the publishing tools, including but not limited to Company Directory, Product Catalog, Trade Leads, then you are deemed to have given consent to the publication of such information (“Publishing Information”).   
 1.3 Payment Information.   
-If you establish a credit account with us or our providers or if you purchase a product or service from KONETIC or a vendor available through KONETIC, we may collect additional information, including billing information, credit card numbers and expiration dates and tracking information from cheques or money orders (¡°Payment Information¡±).   
+If you establish a credit account with us or our providers or if you purchase a product or service from KONETIC or a vendor available through KONETIC, we may collect additional information, including billing information, credit card numbers and expiration dates and tracking information from cheques or money orders (“Payment Information”).   
 1.4 Statistical Information.   
-In addition, we gather aggregate statistical information about our Site and Users, such as IP addresses, browser software, operating system, pages viewed, number of sessions and unique visitors, etc. (¡°Statistical Information¡±).   
-1.5 Registration Information, Publishing Information, Payment Information, Statistical Information and any information we may collect from you through the use of cookies (see Section 5 below) or any other means shall collectively be referred to as ¡°Collected Information¡±. 
+In addition, we gather aggregate statistical information about our Site and Users, such as IP addresses, browser software, operating system, pages viewed, number of sessions and unique visitors, etc. (“Statistical Information”).   
+1.5 Registration Information, Publishing Information, Payment Information, Statistical Information and any information we may collect from you through the use of cookies (see Section 5 below) or any other means shall collectively be referred to as “Collected Information”. 
 
 2\. How We May Use Information 
 
@@ -43,7 +43,7 @@ We may provide Statistical Information to third parties, but when we do so, we d
 
 3.1 We reserve the right to disclose your Collected Information to relevant authorities where we have reason to believe that such disclosure is necessary to identify, contact or bring legal action against someone who may be infringing or threatening to infringe, or who may otherwise be causing injury to or interference with, the title, rights, interests or property of KONETIC, our Users, customers, partners, other web site users or anyone else who could be harmed by such activities.   
 3.2 We also reserve the right to disclose Collected Information in response to a subpoena or other judicial order or when we reasonably believe that such disclosure is required by law, regulation or administrative order of any court, governmental or regulatory authority.   
-3.3 If we have reason to believe that a User is in breach of the Terms of User Agreement or any other agreement with us, then we reserve the right to make public or otherwise disclose such User¡¯s Collected Information in order to pursue our claim or prevent further injury to KONETIC or others. 
+3.3 If we have reason to believe that a User is in breach of the Terms of User Agreement or any other agreement with us, then we reserve the right to make public or otherwise disclose such User’s Collected Information in order to pursue our claim or prevent further injury to KONETIC or others. 
 
 4\. Co-Branded Relationships 
 
@@ -55,11 +55,11 @@ We therefore encourage you to read that policy before responding to any offers, 
 
 5\. Cookies 
 
-5.1 We use ¡°cookies¡± to store specific information about you and track your visits to our Site. It is not uncommon for web sites to use cookies to enhance identification of their users. A ¡°cookie¡± is a small amount of data that is sent to your browser and stored on your computer's hard drive.   
-A cookie can be sent to your computer¡¯s hard drive only if you access our Site using the computer.   
+5.1 We use “cookies” to store specific information about you and track your visits to our Site. It is not uncommon for web sites to use cookies to enhance identification of their users. A “cookie” is a small amount of data that is sent to your browser and stored on your computer's hard drive.   
+A cookie can be sent to your computer’s hard drive only if you access our Site using the computer.   
 If you do not de-activate or erase the cookie, each time you use the same computer to access our Site, our web servers will be notified of your visit to our Site and in turn we may have knowledge of your visit and the pattern of your usage.   
 Generally, we use cookies to identify you and enable us to access your Registration Information, Publishing Information or Payment Information so you do not have to re-enter it; gather statistical information about usage by Users; research visiting patters and help target advertisements based on User interests; assist our partners to track User visits to the Site and process orders; and track progress and participation in promotions.   
-5.2 You can determine if and how a cookie will be accepted by configuring your browser¡¯s which is installed in the computer you are using to access the Site.   
+5.2 You can determine if and how a cookie will be accepted by configuring your browser’s which is installed in the computer you are using to access the Site.   
 If you desire, you can change those configurations in your browser.   
 By setting your preferences in the browser, you can accept all cookies, you can be notified when a cookie is sent, or you can reject all cookies.   
 If you reject all cookies by choosing the cookie-disabling function in your browser, you may be required to re-enter your information on our Site more often and certain features of our Site may be unavailable. 
@@ -85,7 +85,7 @@ As a result, while we try to protect your information, no web site or company, i
 Any changes to this Privacy Policy will be communicated through our posting an amended and restated Privacy Policy on our Site.   
 Our posting the amended and restated Privacy Policy will make such new Privacy Policy immediately effective.   
 You agree that all Collected Information (whether or not collected prior to or after the new policy became effective) will be governed by the newest Privacy Policy then in effect.   
-If you do not agree to the new changes in our Privacy Policy, you should contact KONETIC in writing (at the address set out in the Notice provision of the Terms of Use Agreement) and specifically request that KONETIC return and/or destroy all copies of all or part of your Collected Information in KONETIC¡¯s possession.   
+If you do not agree to the new changes in our Privacy Policy, you should contact KONETIC in writing (at the address set out in the Notice provision of the Terms of Use Agreement) and specifically request that KONETIC return and/or destroy all copies of all or part of your Collected Information in KONETIC’s possession.   
 This Privacy Policy was last amended on December 10, 2004. 
 
 9\. Correcting Your Information 
