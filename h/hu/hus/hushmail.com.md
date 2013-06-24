@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hushmail.com privacy policy that was archived on 2012-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121101105808id_/http%3A//www.hushmail.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hushmail.com privacy policy that was archived on 2013-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130624171143id_/http%3A//www.hushmail.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Hushmail – Free Email with Privacy
 
@@ -26,7 +26,7 @@ We take steps where possible to limit the personal data we collect. The followin
 
   1. When you sign up for an account, you consent to your account and any other account data being stored on the Hush servers.
   2. If you have an encrypted email in your account, it will be stored on the Hush servers encrypted. If you have an unencrypted email in your account, it will be stored on the Hush servers unencrypted.
-  3. We do not store your passphrase on the Hush servers. Instead, a hashed value is stored for authentication. The original passphrase cannot be determined from that hashed value. As a result, we are unable to recover a forgotten passphrase. Please note, we may be required to store a passphrase for an account specifically named in a court order enforceable in British Columbia, Canada. (See the Disclosure of account data section below.)
+  3. We do not store your passphrase on the Hush servers. Instead, a hashed value is stored for authentication. The original passphrase cannot be determined from that hashed value. As a result, we are unable to recover a forgotten passphrase. Please note, we may be required to store a passphrase for an account identified in a court order enforceable in British Columbia, Canada. (See the Disclosure of account data section below.)
 
 
 
