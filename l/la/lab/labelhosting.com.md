@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the labelhosting.com privacy policy that was archived on 2012-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121225124539id_/https%3A//labelhosting.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the labelhosting.com privacy policy that was archived on 2013-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130624125049id_/http%3A//labelhosting.com/privacy.php) for the most accurate reproduction.*
 
-# Label Hosting - Privacy policy
+# Privacy policy
 
 ###  Effective May 15, 2010
 
