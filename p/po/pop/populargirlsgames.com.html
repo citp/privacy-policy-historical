@@ -1,12 +1,10 @@
-<!--The following is the downloaded HTML source of the populargirlsgames.com privacy policy that was archived on 2012-10-10.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121010065352id_/http%3A//www.populargirlsgames.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the populargirlsgames.com privacy policy that was archived on 2013-06-24.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130624045137id_/http%3A//www.populargirlsgames.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
 <title>Privacy</title>
 <meta name="description" content="Privacy - ">
-<meta name="googelbot" content="index, follow"> 
-<meta name="revisit-after" content="1 day">
 <meta name="keywords" content=", "> 
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 <meta http-equiv="X-UA-Compatible" content="IE=EmulateIE7">
@@ -23,12 +21,13 @@
 <script type="text/javascript" src="http://www.populargirlsgames.com/templates/newPGG/js/pread.js"></script>
 <script type="text/javascript" src="http://www.populargirlsgames.com/js/rating_update.js"></script> 
 <script type="text/javascript" src="http://www.populargirlsgames.com/js/main.js"></script>	 
-<script type="text/javascript" src="http://www.populargirlsgames.com/js/jquery-1.3.2.min.js"></script>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
+<script type="text/javascript" src="http://www.populargirlsgames.com/js/jquery.fancybox.js"></script>
+<script type="text/javascript" src="http://www.populargirlsgames.com/js/jquery.cookie.js"></script>
+<link rel="stylesheet" href="http://www.populargirlsgames.com/templates/newPGG/css/jquery.fancybox.css" media="screen">
 <script type="text/javascript" src="http://www.populargirlsgames.com/templates/newPGG/arcade.js"></script>
-<script type="text/javascript" src="http://www.populargirlsgames.com/js/pop.js"></script>
-
-<!-- Epic Pop 
-<script type="text/javascript">document.write("<scr" + "ipt type='text/javascript' src='http://www.epicgameads.com/ads/popjs.php?id=lU9ZHWgiJn&channel=0&cb=" + new Date().getTime() + "'></scri" + "pt>");</script>-->
+<!--<script type="text/javascript" src="http://www.populargirlsgames.com/js/pop.js"></script>-->
+<!--<script type="text/javascript" src="http://www.populargirlsgames.com/js/jquery-twittlr-1.0.js"></script>-->
 
 <!-- Google Analytics Start -->
 <script type="text/javascript">
@@ -60,8 +59,31 @@ else if(document.all)// ie
 
 </head>
 
-<body>
-
+<body onload="$('#autoPop').trigger('click');">
+	
+  	<!-- START fancy box with Cookie -->
+	<script type="text/javascript">
+    $(document).ready(function(){
+    var check_cookie = $.cookie('the_cookie');
+       if(check_cookie == null){
+        $.cookie('the_cookie', 'the_value');
+		// fire fancy box below
+        $("#autoPop").fancybox({
+                    'width' 			: '500',
+                    'autoScale'         : false,
+                    'transitionIn'      : 'elastic',
+                    'transitionOut'     : 'elastic',
+                    'type'				: 'iframe',
+                    padding : 0
+                });
+       }
+    });
+	// set cookie to expire in 1 days
+	$.cookie('mycookie', 'true', { expires: 1});
+    </script>
+    <a id="autoPop" href="http://www.populargirlsgames.com/offer.php"></a>
+    <!-- END fancy box -->
+    
 <!--<a class="bg" href="/partner-out.php?id=18" target="_blank">&nbsp;</a>-->
 <!--page start-->
 <div id="page">
@@ -155,9 +177,9 @@ If you wish to disable cookies, you may do so through your individual browser op
                             
                                                         <span class="newsletter1"><input type="text" id="nlname" value="name" name="nlname" class="newsletter-margin" onfocus="this.value = (this.value=='name')? '' : this.value;" /></span>
                             <span class="newsletter2"><input type="text" id="nle-mail" name="nle-mail" value="email address" onfocus="this.value = (this.value=='email address')? '' : this.value;" /></span>
-                            <div class="newsletter-numbers"><span class="newsletter-numbers-more">3 + 1 = </span>
+                            <div class="newsletter-numbers"><span class="newsletter-numbers-more">2 + 2 = </span>
                             <input class="newsletter-number-input" type="text" id="nlcode" name="nlcode" size="1" maxlength="1" onfocus="this.value = (this.value=='')? '' : this.value;"></input>
-                            <span class="submit"><input type="submit" value="Submit" /></span>
+                            <span class="submit"><input type="submit" value="Join!" /></span>
                             </div>
                             </div>
 							</div>
@@ -168,7 +190,7 @@ If you wish to disable cookies, you may do so through your individual browser op
                     	<div class="facebook-holder1">
                     	<div class="facebook-holder">
                         	<div class="facebook">
-                        	<iframe src="http://www.facebook.com/plugins/likebox.php?href=http%3A%2F%2Fwww.facebook.com%2Fhome.php%3F%23%21%2Fpages%2FPopular-Girls-Games%2F117788311582534%3Fref%3Dsgm&amp;width=168&amp;connections=1&amp;stream=false&amp;header=false&amp;height=150" scrolling="no" frameborder="0" class="facebook-box" allowtransparency="false"></iframe>
+                        	<iframe src="//www.facebook.com/plugins/likebox.php?href=https%3A%2F%2Fwww.facebook.com%2Fpopulargirlgames&amp;width=168&amp;height=88&amp;show_faces=false&amp;colorscheme=light&amp;stream=false&amp;border_color=%23c8e7fb&amp;header=true&amp;appId=165472313473435" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:168px; height:88px;" allowtransparency="true"></iframe>
 							</div>
                             </div>
                             </div>
@@ -181,7 +203,7 @@ If you wish to disable cookies, you may do so through your individual browser op
                                                 
                                                 <!--<ul><iframe src="/ad_codes/160x600.php" width="160px" height="600px" frameborder="0" scrolling="no"></iframe></ul>-->
 						<ul class="tagcloud">
-							<li><a href="http://www.populargirlsgames.com/tags/vacation.html" style="font-size:16px; color:#1d506d;" title="Play Vacation Games">vacation</a>&nbsp;&nbsp;</li><li><a href="http://www.populargirlsgames.com/tags/spring.html" style="font-size:17px; color:#9cab78;" title="Play Spring Games">spring</a>&nbsp;&nbsp;</li><li><a href="http://www.populargirlsgames.com/tags/break.html" style="font-size:16px; color:#a17e0c;" title="Play Break Games">break</a>&nbsp;&nbsp;</li><li><a href="http://www.populargirlsgames.com/tags/pedicure.html" style="font-size:17px; color:#1d506d;" title="Play Pedicure Games">pedicure</a>&nbsp;&nbsp;</li><li><a href="http://www.populargirlsgames.com/tags/valentines-day.html" style="font-size:16px; color:#858788;" title="Play Valentines Day Games">valentines day</a>&nbsp;&nbsp;</li><li><a href="http://www.populargirlsgames.com/tags/happy-valentines-day.html" style="font-size:14px; color:#144077;" title="Play Happy Valentines Day Games">happy valentines day</a>&nbsp;&nbsp;</li><li><a href="http://www.populargirlsgames.com/tags/valentines-dressup.html" style="font-size:14px; color:#0096ff;" title="Play Valentines Dressup Games">valentines dressup</a>&nbsp;&nbsp;</li><li><a href="http://www.populargirlsgames.com/tags/dress-up-valentines-day.html" style="font-size:14px; color:#889088;" title="Play Dress Up Valentines Day Games">dress up valentines day</a>&nbsp;&nbsp;</li><li><a href="http://www.populargirlsgames.com/tags/pink-star-dress-up-2.html" style="font-size:14px; color:#d879ac;" title="Play Pink Star Dress Up 2 Games">Pink Star Dress Up 2</a>&nbsp;&nbsp;</li><li><a href="http://www.populargirlsgames.com/tags/grill.html" style="font-size:15px; color:#ca9800;" title="Play Grill Games">grill</a>&nbsp;&nbsp;</li><li><a href="http://www.populargirlsgames.com/tags/kabob.html" style="font-size:13px; color:#889088;" title="Play Kabob Games">kabob</a>&nbsp;&nbsp;</li><li><a href="http://www.populargirlsgames.com/tags/food.html" style="font-size:17px; color:#b8bcbb;" title="Play Food Games">food</a>&nbsp;&nbsp;</li><li><a href="http://www.populargirlsgames.com/tags/party.html" style="font-size:17px; color:#b8bcbb;" title="Play Party Games">party</a>&nbsp;&nbsp;</li><li><a href="http://www.populargirlsgames.com/tags/bbq.html" style="font-size:15px; color:#0096ff;" title="Play Bbq Games">bbq</a>&nbsp;&nbsp;</li>						</ul>
+							<li><a href="http://www.populargirlsgames.com/tags/bus.html" style="font-size:14px; color:#7b5e5e;" title="Play Bus Games">bus</a>&nbsp;&nbsp;</li><li><a href="http://www.populargirlsgames.com/tags/stop.html" style="font-size:13px; color:#858788;" title="Play Stop Games">stop</a>&nbsp;&nbsp;</li><li><a href="http://www.populargirlsgames.com/tags/flirt.html" style="font-size:14px; color:#6c5b19;" title="Play Flirt Games">flirt</a>&nbsp;&nbsp;</li><li><a href="http://www.populargirlsgames.com/tags/boys.html" style="font-size:17px; color:#ab0909;" title="Play Boys Games">boys</a>&nbsp;&nbsp;</li><li><a href="http://www.populargirlsgames.com/tags/girls.html" style="font-size:14px; color:#99a767;" title="Play Girls Games">girls</a>&nbsp;&nbsp;</li><li><a href="http://www.populargirlsgames.com/tags/baby.html" style="font-size:15px; color:#b8bcbb;" title="Play Baby Games">baby</a>&nbsp;&nbsp;</li><li><a href="http://www.populargirlsgames.com/tags/panguin.html" style="font-size:14px; color:#144077;" title="Play Panguin Games">panguin</a>&nbsp;&nbsp;</li><li><a href="http://www.populargirlsgames.com/tags/monster-high-burgers.html" style="font-size:15px; color:#1d506d;" title="Play Monster High Burgers Games">monster high burgers</a>&nbsp;&nbsp;</li><li><a href="http://www.populargirlsgames.com/tags/monster-high-cooking.html" style="font-size:15px; color:#9cab78;" title="Play Monster High Cooking Games">monster high cooking</a>&nbsp;&nbsp;</li><li><a href="http://www.populargirlsgames.com/tags/monster-high-cooking-games.html" style="font-size:16px; color:#9cab78;" title="Play Monster High Cooking Games Games">monster high cooking games</a>&nbsp;&nbsp;</li><li><a href="http://www.populargirlsgames.com/tags/monster-games.html" style="font-size:13px; color:#7b5e5e;" title="Play Monster Games Games">monster games</a>&nbsp;&nbsp;</li><li><a href="http://www.populargirlsgames.com/tags/monster-cooking-games.html" style="font-size:15px; color:#0096ff;" title="Play Monster Cooking Games Games">monster cooking games</a>&nbsp;&nbsp;</li><li><a href="http://www.populargirlsgames.com/tags/cooking-games.html" style="font-size:16px; color:#144077;" title="Play Cooking Games Games">cooking games</a>&nbsp;&nbsp;</li><li><a href="http://www.populargirlsgames.com/tags/cooking-for-monsters.html" style="font-size:16px; color:#0096ff;" title="Play Cooking For Monsters Games">cooking for monsters</a>&nbsp;&nbsp;</li>						</ul>
                        
 				    
 						<!--
@@ -199,7 +221,7 @@ If you wish to disable cookies, you may do so through your individual browser op
                         
                                                 
 						<ul class="tagcloud">
-							<li><a href="http://www.populargirlsgames.com/girl-games/celebrity-dress-up.html" style="font-size:15px; color:#889088;" title="Play Celebrity Dress Up Games">celebrity dress up</a>&nbsp;&nbsp;</li><li><a href="http://www.populargirlsgames.com/girl-games/kissing.html" style="font-size:14px; color:#f098f0;" title="Play Kissing Games">kissing</a>&nbsp;&nbsp;</li><li><a href="http://www.populargirlsgames.com/girl-games/twilight.html" style="font-size:16px; color:#ca2b81;" title="Play Twilight Games">twilight</a>&nbsp;&nbsp;</li><li><a href="http://www.populargirlsgames.com/girl-games/vampire.html" style="font-size:14px; color:#0096ff;" title="Play Vampire Games">vampire</a>&nbsp;&nbsp;</li><li><a href="http://www.populargirlsgames.com/girl-games/christmas.html" style="font-size:15px; color:#3c8a15;" title="Play Christmas Games">christmas</a>&nbsp;&nbsp;</li><li><a href="http://www.populargirlsgames.com/girl-games/bella-dress-up.html" style="font-size:13px; color:#1d506d;" title="Play Bella Dress Up Games">bella dress up</a>&nbsp;&nbsp;</li><li><a href="http://www.populargirlsgames.com/girl-games/christmas-dress-up.html" style="font-size:13px; color:#9cab78;" title="Play Christmas Dress Up Games">christmas dress up</a>&nbsp;&nbsp;</li><li><a href="http://www.populargirlsgames.com/girl-games/taylor-lautner-dress-up.html" style="font-size:13px; color:#595959;" title="Play Taylor Lautner Dress Up Games">taylor lautner dress up</a>&nbsp;&nbsp;</li><li><a href="http://www.populargirlsgames.com/girl-games/harry-potter.html" style="font-size:16px; color:#ca2b81;" title="Play Harry Potter Games">harry potter</a>&nbsp;&nbsp;</li><li><a href="http://www.populargirlsgames.com/girl-games/valentines-day.html" style="font-size:14px; color:#ab0909;" title="Play Valentine's Day Games">valentine's day</a>&nbsp;&nbsp;</li>						</ul>
+							<li><a href="http://www.populargirlsgames.com/girl-games/taylor-lautner-dress-up.html" style="font-size:14px; color:#595959;" title="Play Taylor Lautner Dress Up Games">taylor lautner dress up</a>&nbsp;&nbsp;</li><li><a href="http://www.populargirlsgames.com/girl-games/valentines-day.html" style="font-size:17px; color:#1d506d;" title="Play Valentine's Day Games">valentine's day</a>&nbsp;&nbsp;</li><li><a href="http://www.populargirlsgames.com/girl-games/christmas-dress-up.html" style="font-size:17px; color:#99a767;" title="Play Christmas Dress Up Games">christmas dress up</a>&nbsp;&nbsp;</li><li><a href="http://www.populargirlsgames.com/girl-games/bella-dress-up.html" style="font-size:14px; color:#ca2b81;" title="Play Bella Dress Up Games">bella dress up</a>&nbsp;&nbsp;</li><li><a href="http://www.populargirlsgames.com/girl-games/vampire.html" style="font-size:13px; color:#ab0909;" title="Play Vampire Games">vampire</a>&nbsp;&nbsp;</li><li><a href="http://www.populargirlsgames.com/girl-games/harry-potter.html" style="font-size:14px; color:#ca2b81;" title="Play Harry Potter Games">harry potter</a>&nbsp;&nbsp;</li><li><a href="http://www.populargirlsgames.com/girl-games/kissing.html" style="font-size:15px; color:#b8bcbb;" title="Play Kissing Games">kissing</a>&nbsp;&nbsp;</li><li><a href="http://www.populargirlsgames.com/girl-games/celebrity-dress-up.html" style="font-size:15px; color:#0096ff;" title="Play Celebrity Dress Up Games">celebrity dress up</a>&nbsp;&nbsp;</li><li><a href="http://www.populargirlsgames.com/girl-games/christmas.html" style="font-size:13px; color:#144077;" title="Play Christmas Games">christmas</a>&nbsp;&nbsp;</li><li><a href="http://www.populargirlsgames.com/girl-games/twilight.html" style="font-size:16px; color:#f098f0;" title="Play Twilight Games">twilight</a>&nbsp;&nbsp;</li>						</ul>
 
 
 					</div>
@@ -250,14 +272,20 @@ If you wish to disable cookies, you may do so through your individual browser op
 					</div>
         </li>
         
-        <li><a href="http://www.populargirlsgames.com/blog/" title="Girly Blog">Girly Blog</a>
+        
+        <li><a href="http://www.populargirlsgames.com/blog/" title="Girly Blog"><span>Girly Blog</span></a>
 					<div>
 						<ul>
               <li>
-                                  </li><li><a href="http://www.populargirlsgames.com/blog/">The Girly Blog</a></li>
-                                    	<li><a href="/blog/girl-talk.html">Girl Talk</a></li><li><a href="/blog/girls-games.html">Girls Games</a></li><li><a href="/blog/new-releases.html">New Releases</a></li><li><a href="/blog/themes.html">Themes</a></li><li><a href="/blog/videos.html">Videos</a></li>              
+              <a href="/blog/" title="The Girly Blog">The Girly Blog</a>
+              <a href="/blog/girl-talk.html" title="Girl Talk">Girl Talk</a>
+              <a href="/blog/girls-games.html" title="Girls Games">Girls Games</a>
+              <a href="/blog/new-releases.html" title="New Releases">New Releases</a>
+              <a href="/blog/themes.html" title="Girl Themes">Girl Themes</a>
+              <a href="/blog/videos.html" title="Girly Videos">Girly Videos</a>
+              </li>
 						</ul>
-					</div>        
+					</div>
         </li>
                 
 				<li>
@@ -271,6 +299,8 @@ If you wish to disable cookies, you may do so through your individual browser op
 					</div> 
                     
 				</li>
+                
+                
 				<li class="last"><a href="http://www.populargirlsgames.com/index.php?action=gamepages&amp;type=random" title="Fun Girls Games"><span>More...</span></a>
 					<div>
 						<ul>
@@ -290,7 +320,7 @@ If you wish to disable cookies, you may do so through your individual browser op
 			</ul>
 
 </div>
-	</div>
+</div>
 	<!--main start-->
 	<div class="main">
 		<div class="top footer">
@@ -375,7 +405,7 @@ If you wish to disable cookies, you may do so through your individual browser op
 		</div>
 		<div class="bott-bg">&nbsp;</div>
 	</div>
-	<p class="copy">© 2009-2012 Popular Girls Games - All Rights Reserved. &nbsp; </p>
+	<p class="copy">© 2009-2013 Popular Girls Games - All Rights Reserved. &nbsp; </p>
 	
 	<div id="header">
 		<div class="search-area">
@@ -404,7 +434,7 @@ If you wish to disable cookies, you may do so through your individual browser op
 			<span class="btn-hold"><a class="btn-back" href="#" title="Previous Girls Games">back</a></span>
 			<div>
 				<ul>
-					<li><a href="http://www.populargirlsgames.com/celebrity/preview-pop-queen.html" title="Pop Queen"><img src="http://www.populargirlsgames.com/games/images/pop-queen-dressup-72x102.jpg" alt="Pop Queen" width="38" height="53"></a></li><li><a href="http://www.populargirlsgames.com/other/preview-sean-connery-kissing.html" title="Sean Connery Kissing"><img src="http://www.populargirlsgames.com/games/images/sean-connery-kissing-popular-girls-games.jpg" alt="Sean Connery Kissing" width="38" height="53"></a></li><li><a href="http://www.populargirlsgames.com/dress-up/preview-anime-dressup-game.html" title="Anime Dressup Game"><img src="http://www.populargirlsgames.com/games/images/anime-dressup-game-thumb.jpg" alt="Anime Dressup Game" width="38" height="53"></a></li><li><a href="http://www.populargirlsgames.com/dress-up/preview-punk-rock-princess-dress-up.html" title="Punk Rock Princess Dress Up"><img src="http://www.populargirlsgames.com/games/images/punk-rock-princess-dress-up-72x102.jpg" alt="Punk Rock Princess Dress Up" width="38" height="53"></a></li><li><a href="http://www.populargirlsgames.com/other/preview-cheer-captain.html" title="Cheer Captain"><img src="http://www.populargirlsgames.com/games/images/cheer-captain-dress-up-72x102.jpg" alt="Cheer Captain" width="38" height="53"></a></li><li><a href="http://www.populargirlsgames.com/decorating/preview-polly-pet-pals.html" title="Polly Pet Pals"><img src="http://www.populargirlsgames.com/games/images/polly-pet-pals-thumb.jpg" alt="Polly Pet Pals" width="38" height="53"></a></li><li><a href="http://www.populargirlsgames.com/other/preview-high-school-sweethearts-kissing-game.html" title="High School Sweethearts: Kissing Game"><img src="http://www.populargirlsgames.com/games/images/highschool-sweethearts-dress-up-72x102.jpg" alt="High School Sweethearts: Kissing Game" width="38" height="53"></a></li><li><a href="http://www.populargirlsgames.com/other/preview-first-date-rush.html" title="First Date Rush"><img src="http://www.populargirlsgames.com/games/images/first-date-rush-72x102.jpg" alt="First Date Rush" width="38" height="53"></a></li><li><a href="http://www.populargirlsgames.com/dress-up/preview-kim-possible.html" title="Kim Possible"><img src="http://www.populargirlsgames.com/games/images/GWC_thumb.gif" alt="Kim Possible" width="38" height="53"></a></li><li><a href="http://www.populargirlsgames.com/dress-up/preview-taylor-lautner-dress-up.html" title="Taylor Lautner Dress Up"><img src="http://www.populargirlsgames.com/games/images/taylor-lautner-dress-up-72x102.jpg" alt="Taylor Lautner Dress Up" width="38" height="53"></a></li><li><a href="http://www.populargirlsgames.com/cooking/preview-doras-cooking-in-la-cocina.html" title="Doras Cooking in La Cocina"><img src="http://www.populargirlsgames.com/games/images/asdasdasd.jpg" alt="Doras Cooking in La Cocina" width="38" height="53"></a></li><li><a href="http://www.populargirlsgames.com/makeover/preview-barbie-styling.html" title="Barbie Styling"><img src="http://www.populargirlsgames.com/games/images/Barbie-Styling.gif" alt="Barbie Styling" width="38" height="53"></a></li>				</ul>
+					<li><a href="http://www.populargirlsgames.com/celebrity/preview-pop-queen.html" title="Pop Queen"><img src="http://www.populargirlsgames.com/games/images/pop-queen-dressup-72x102.jpg" alt="Pop Queen" width="38" height="53"></a></li><li><a href="http://www.populargirlsgames.com/other/preview-sean-connery-kissing.html" title="Sean Connery Kissing"><img src="http://www.populargirlsgames.com/games/images/sean-connery-kissing-popular-girls-games.jpg" alt="Sean Connery Kissing" width="38" height="53"></a></li><li><a href="http://www.populargirlsgames.com/dress-up/preview-anime-dressup-game.html" title="Anime Dressup Game"><img src="http://www.populargirlsgames.com/games/images/anime-dressup-game-thumb.jpg" alt="Anime Dressup Game" width="38" height="53"></a></li><li><a href="http://www.populargirlsgames.com/dress-up/preview-punk-rock-princess-dress-up.html" title="Punk Rock Princess Dress Up"><img src="http://www.populargirlsgames.com/games/images/punk-rock-princess-dress-up-72x102.jpg" alt="Punk Rock Princess Dress Up" width="38" height="53"></a></li><li><a href="http://www.populargirlsgames.com/other/preview-cheer-captain.html" title="Cheer Captain"><img src="http://www.populargirlsgames.com/games/images/cheer-captain-dress-up-72x102.jpg" alt="Cheer Captain" width="38" height="53"></a></li><li><a href="http://www.populargirlsgames.com/other/preview-high-school-sweethearts-kissing-game.html" title="High School Sweethearts: Kissing Game"><img src="http://www.populargirlsgames.com/games/images/highschool-sweethearts-dress-up-72x102.jpg" alt="High School Sweethearts: Kissing Game" width="38" height="53"></a></li><li><a href="http://www.populargirlsgames.com/decorating/preview-polly-pet-pals.html" title="Polly Pet Pals"><img src="http://www.populargirlsgames.com/games/images/polly-pet-pals-thumb.jpg" alt="Polly Pet Pals" width="38" height="53"></a></li><li><a href="http://www.populargirlsgames.com/other/preview-first-date-rush.html" title="First Date Rush"><img src="http://www.populargirlsgames.com/games/images/first-date-rush-72x102.jpg" alt="First Date Rush" width="38" height="53"></a></li><li><a href="http://www.populargirlsgames.com/dress-up/preview-taylor-lautner-dress-up.html" title="Taylor Lautner Dress Up"><img src="http://www.populargirlsgames.com/games/images/taylor-lautner-dress-up-72x102.jpg" alt="Taylor Lautner Dress Up" width="38" height="53"></a></li><li><a href="http://www.populargirlsgames.com/dress-up/preview-kim-possible.html" title="Kim Possible"><img src="http://www.populargirlsgames.com/games/images/GWC_thumb.gif" alt="Kim Possible" width="38" height="53"></a></li><li><a href="http://www.populargirlsgames.com/cooking/preview-doras-cooking-in-la-cocina.html" title="Doras Cooking in La Cocina"><img src="http://www.populargirlsgames.com/games/images/asdasdasd.jpg" alt="Doras Cooking in La Cocina" width="38" height="53"></a></li><li><a href="http://www.populargirlsgames.com/makeover/preview-barbie-styling.html" title="Barbie Styling"><img src="http://www.populargirlsgames.com/games/images/Barbie-Styling.gif" alt="Barbie Styling" width="38" height="53"></a></li>				</ul>
 			</div>
 			<span class="btn-hold"><a class="btn-next" href="#" title="More Girls Games">next</a></span>
 		</div>
