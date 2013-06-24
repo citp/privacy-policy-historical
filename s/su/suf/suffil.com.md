@@ -1,54 +1,37 @@
-> *The following text is extracted and transformed from the suffil.com privacy policy that was archived on 2012-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120522031128id_/http%3A//suffil.com/static/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the suffil.com privacy policy that was archived on 2013-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130624233730id_/http%3A//www.suffil.com/static/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | My Site
+# Privacy Policy | Suffil
 
-[ ](http://www.suffil.com/)
-
-  * [Published News](http://www.suffil.com/)
-  * [Upcoming News](https://web.archive.org/upcoming/)
-  * [Submit a New Story](https://web.archive.org/submit/)
-  * [Groups](https://web.archive.org/groups/)
+  * [Home](http://suffil.com/) /
+  * Privacy Policy
 
 
 
-May 18, 2011 
+Suffil knows that you care about how your personal information is used and shared, and we take your privacy seriously. Please read the following to learn more about our privacy policy. By visiting the Suffil.com, you are accepting the practices outlined in this Privacy Policy. 
 
-We know your privacy matters much to you. Considering you in mind we have framed privacy policy for using SUFFIL.COM. We too have liability to preserve your personal data. Change is the only thing which doesn’t ever have change! Yes, we do change our privacy policy at times; the last rewritten version’s date is made visible for your reference at the top left corner always. Want to know what we are collecting from you and doing with the same? Then go through the rest of the following privacy policy.
+  1. **What Does the Suffil Privacy Policy Cover?**  
+This Privacy Policy covers Suffil's treatment of personal information that Suffil gathers when you are on Suffil.com. This policy does not apply to the practices of third parties that Suffil does not own or control, or to individuals that Suffil does not employ or manage. 
 
-  1. **Stockpiled Information**  
-SUFFIL.COM collects the personal data of yours while you use it to register in it. Inorder to use SUFFIL.COM as a member you need to register as a member for doing so you have to provide your name, sex, email ID, country etc. Email ID becomes must for you to provide as it is used for verification in order to recognize you as an authorized member of SUFFIL.
 
-As soon as you become the member of SUFFIL you need to fill in your personal information to create your profile. Your profile may be viewed by co-members. Crawlers from various search engines may access your profile page. While you are writing stories or articles co-members can view, comment on yours. All of all we collect your basic information to quench your accurate needs. 
+  2. **What Personal Information About Users Does Suffil Collect?**  
+Our primary goal in collecting personal information is to provide you with a friendly, customized, and efficient experience. We only collect personal information that is relevant to the purpose of our website. We do not process this information in a way that is incompatible with the purpose for which it has been collected or subsequently authorized by you. We collect the following types of information from our users: 
+    * **Information You Provide to Us:** We receive and store any information you enter on our website or provide to us in any other way. You can choose not to provide us with certain information, but then you may not be able to take advantage of many of our special features. The personal information you provide is used for such purposes as: Registration: In order for you to use Suffil services, such as submitting new links to the website, you must complete a registration form. As part of this registration form, we require your email address. 
+    * **Automatic Information:** Profile information: Suffil allows other users to browse your full name, and instant messaging URL, within your member profile should you provide this optional information. Syndication: Suffil allows for the RSS syndication of all of its public content within the website.
 
-  2. **Dispersal and disclosure of Information**
 
-As said earlier we collect your email IDs which you provide us. We use those email IDs for sending newsletters, for contacting you, about subscription, latest happenings at SUFFIL etc. Beyond this we use email IDs which you provide while referring your friends to SUFFIL for the same purposes as mentioned above. You will also be receiving mails from our partners as well as sponsors regarding special offers like things which we think that will make your interest. 
+  3. **What About Cookies?**   
+Cookies are alphanumeric identifiers that we transfer to your computer.s hard drive through your Web browser to enable our systems to recognize your browser and tell us how and when pages in our website are visited and by how many people. Suffil cookies do not collect personal information, and we do not combine information collected through cookies with other personal information to tell us who you are or what your screen name or email address is. Some of our business partners may use cookies on our website (for example, advertisers). However, we have no access to or control over these cookies. 
 
-As our website contain some interactive features like forums, chats, debates, passing comments we monitor such happenings. But we are not storing such information like that of personal details. SUFFIL has all rights to suspend your account at any time, if it finds one using fraudulent content, abusive language. Slandering is also prohibited at SUFFIL. Go through the terms and conditions of SUFFIL for further does and don’ts in this website.
 
-  3. **Information Alteration**
+  4. **Will Suffil Share Any of the Information it Receives?**   
+Suffil will not share personal information with anyone whether it be on a small or large scale. Information such as passwords and other information which is deemed private will remain private. Suffil reserves the right to "deem" what is private.
 
-SUFFIL.COM provides you the facility to alter your information at any time. All our mail to you explains on how to unsubscribe from receiving our emails. You can edit your profile information at any time. You have your right to delete you’re account. SUFFIL follows certain rules on deleting an account. 
 
-  4. **Cookies**
-
-SUFFIL uses Cookies to provide you with the appropriate information according to your profile. Our Cookies collect information about type of browser, connection settings, internet protocol, your surfing date and time etc. We keep recording these data in form of cookies. These are tiny text files which we send to your computer to collect the above mentioned information. We assure you, these are safe and secure with us. We don’t share such information. A collection of these data is to provide you with the relevant content, advertisement etc. Cookies are simply for the administrative purpose of the site. 
-
-  5. **Links**
-
-Please Note while you are using SUFFIL.COM, clicking of advertisement links may lead to other websites. SUFFIL.COM IS NOT RESPONSIBLE FOR THOSE WEBSITES COLLECTING PERSONAL INFORMATION, PLACMENT OF COOKIES ETC., GO THORUGH THEIR PRIVACY POLICY REGARDING INFORMATION ABOUT THEIR SITE. 
-
-  6. **Information Collateral**
-
-The user of SUFFIL.COM hereby acknowledges that the personal information provide in this site is based wholly at their own risk. SUFFIL.COM shall not liable for the physical theft, hacking, disclosure of datas with third persons and other such cases. SUFFIL.COM takes necessary efforts to protect your privacy. Beyond that if it is leaked SUFFIL does not take responsibility. 
-
-  7. **Amendment of Privacy Policy**
-
-The privacy policy of SUFFIL.COM may be changed at any time without prior notice. Kindly note the date at the beginning of the policy for the last revised date. 
+  5. **Is Information About Me Secure?**   
+Your Suffil account information is protected by a password for your privacy and security. You need to work to protect against unauthorized access to your password and to your computer by logging off once you have finished using a shared computer. Only employees who need personal information to perform a specific job (for example, a customer service representative) are granted access to it. All of our employees are kept up to date on our privacy and security practices. 
+  6. **What Choices Do I Have?**   
+As stated previously, you can always opt not to disclose information, but then you may be unable to use certain features on our website, such as posting new links. You may request deletion of your Suffil account at any time, just contact us with the email address listed under the account. 
 
 
 
-
-  
-  
-
+* * *
