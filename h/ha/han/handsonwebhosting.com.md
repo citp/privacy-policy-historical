@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the handsonwebhosting.com privacy policy that was archived on 2012-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121231081208id_/http%3A//www.handsonwebhosting.com/policy/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the handsonwebhosting.com privacy policy that was archived on 2013-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130624065052id_/http%3A//www.handsonwebhosting.com/policy/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Hands-On Web Hosting
 
@@ -6,9 +6,9 @@
 
 Customer information is collected at the time a billing account is created on our website, or when you complete any order. Gathered information is used by **Hands-On Technologies, LLC** exclusively for internal purposes and is never sold or given to any third party, with the following exceptions:
 
-  *  **SSL certificate purchases** – Information is provided to the SSL vendor to complete the order
-  *  **Domain name purchases** – Information is provided to the domain registrar to register the domain
-  *  **Third-party software** – Information is provided to the software vendor (X-Cart, for example) to purchase the software on your behalf
+  * **SSL certificate purchases** – Information is provided to the SSL vendor to complete the order
+  * **Domain name purchases** – Information is provided to the domain registrar to register the domain
+  * **Third-party software** – Information is provided to the software vendor (X-Cart, for example) to purchase the software on your behalf
 
 
 
