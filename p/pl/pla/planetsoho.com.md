@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the planetsoho.com privacy policy that was archived on 2012-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121216070436id_/http%3A//planetsoho.com/about-us/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the planetsoho.com privacy policy that was archived on 2013-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130625001135id_/http%3A//www.planetsoho.com/about-us/privacy-policy) for the most accurate reproduction.*
 
 # PlanetSoho.com | Privacy Policy
 
@@ -59,7 +59,7 @@ This Privacy Policy was last updated: December 10, 2012
 This Privacy Policy is effective as of: December 10, 2012 
 
   * Read enough?
-  * [Sign Up](https://www.sohoos.com/welcome/signup?src=HomePage)
-  * [Or learn more about us](http://www.planetsoho.com/about-us/the-company/?src=HomePage)
+  * [Sign Up](https://www.sohoos.com/welcome/signup?src=HomePage&kw=deleted)
+  * [Or learn more about us](http://www.planetsoho.com/about-us/the-company/?src=HomePage&kw=deleted)
 
 
