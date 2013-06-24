@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the imeetzu.com privacy policy that was archived on 2012-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121222051854id_/http%3A//imeetzu.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the imeetzu.com privacy policy that was archived on 2013-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130624022641id_/http%3A//imeetzu.com/privacy) for the most accurate reproduction.*
 
 # iMeetzu - Terms of Service and Privacy Policy
 
@@ -8,7 +8,7 @@ For the sake of these Terms of Service and this Privacy Policy, the website loca
 
 By using iMeetzu you agree that iMeetzu owns anything you upload, post, tell us, inform us of, and so forth. This includes any pictures you upload, random comments you make, things you click on, feedback you fabulously provide (whether it's good or god awful), and so on. You agree that we may own and use all this awesome user-provided content as we see fit. However, we will not be divulging your emails to 3rd party peoples unless required to do so by law, so you don't have to worry about that, because frankly that's just lame and so not cool.
 
-Furthermore, you agree not to upload or post any illegal content, copyrighted content you don't have the rights to, pornographic content (we don't want to see your genitals), or any other such obscene and utterly useless materials.
+Furthermore, you agree not to upload or post any illegal content, copyrighted content you don't have the rights to, pornographic content (we don't want to see your genitals), or any other such obscene and utterly useless materials. In addition, you agree not to use iMeetzu in any way to spam or promote other websites, and agree that you will be held legally liable for any damages that should result to our user base or repuation, as well as be liable to us for any monetary gains you should yourself make, through such spamming/promotional efforts. This includes the use of bots, which are strictly FORBIDDEN.
 
 Also, you agree that you will not hold us liable for any damages resulting from association with iMeetzu.com, affiliation with iMeetzu.com, use of iMeetzu.com, looking at iMeetzu.com, discussion of iMeetzu.com, and anything else you may happen to do that involves iMeetzu.com in any dynamic, situation, shape or form.
 
@@ -25,4 +25,4 @@ We allow third-party companies to serve ads and/or collect certain anonymous inf
 
 Lastly, you agree that we may change these terms of service and privacy policy whenever we want and however we want without giving you any notice. 
 
-Feel free to [contact us](https://web.archive.org/web/20121222051854id_/http%3A//imeetzu.com/contact) with any questions or suggestions you may have. 
+Feel free to [contact us](https://web.archive.org/web/20130624022641id_/http%3A//imeetzu.com/contact) with any questions or suggestions you may have. 
