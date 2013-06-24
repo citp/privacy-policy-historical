@@ -1,16 +1,16 @@
-> *The following text is extracted and transformed from the makemoneyonlineng.com privacy policy that was archived on 2012-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120513034024id_/http%3A//makemoneyonlineng.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the makemoneyonlineng.com privacy policy that was archived on 2013-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130624191501id_/http%3A//makemoneyonlineng.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
-Privacy Policy
+[Privacy Policy](http://makemoneyonlineng.com/privacy-policy/ "Privacy Policy")
 
 Protecting your privacy is important to us. We hope the following information will help you understand how we collect, use and safeguard the personal information you provide to us on our site.
 
-Please note: Goods ([products](http://makemoneyonlineng.com/products/ "products") and [services](http://makemoneyonlineng.com/services/ "services")) purchased are non-refundable after 60 days.
+Please note: Goods (products and services) purchased are non-refundable after 60 days.
 
 **Personal Information**
 
-The definition of “personal information” in context to this privacy notice refers to any information that you give out that may disclose part or your whole identity. We will only gather personal information that you decide to offer us, such as[ email](http://feedburner.google.com/fb/a/mailverify?uri=makemoneyonlineng " email") addresses. We are committed to our no spam policy and will not sell any information collected from our visitors.
+The definition of “personal information” in context to this privacy notice refers to any information that you give out that may disclose part or your whole identity. We will only gather personal information that you decide to offer us, such as email addresses. We are committed to our no spam policy and will not sell any information collected from our visitors.
 
 We only apply the personal information that you submit to us for their intended purposes. We do not share personally identifiable information with third party websites, organizations or other persons without your consent unless it is:
 
@@ -26,7 +26,7 @@ We reserve the right to disclose your personally identifiable information as req
 
 **Collection of Information**
 
-As is true of most websites, we gather certain information automatically and store it in log files. This information Includes internet protocol (IP) addresses, browser type, internet service provider (ISP), referring/exit pages, operating system, date/time stamp and click Stream data. This Information collected will be used to research, analyze and evaluate trends and content [featured](http://makemoneyonlineng.com/category/featured/ "featured") on the website, to order to improve the services to our consumers. Website [traffic](http://www.makemoneyonlineng.com/category/traffic/ "traffic"), that is non-identifiable by person, is used in our data collection. We may use your IP address to assist in the diagnosis and administration of our website operations. It may also be utilized in the gathering of demographic data. Occasionally, we and other websites referred to many uses cookies.
+As is true of most websites, we gather certain information automatically and store it in log files. This information Includes internet protocol (IP) addresses, browser type, internet service provider (ISP), referring/exit pages, operating system, date/time stamp and click Stream data. This Information collected will be used to research, analyze and evaluate trends and content [featured](http://makemoneyonlineng.com/featured/ "featured") on the website, to order to improve the services to our consumers. Website traffic, that is non-identifiable by person, is used in our data collection. We may use your IP address to assist in the diagnosis and administration of our website operations. It may also be utilized in the gathering of demographic data. Occasionally, we and other websites referred to many uses cookies.
 
 **Cookies**
 
@@ -36,7 +36,7 @@ Some of our business partners (e.g., advertisers) use cookies on our site. We ha
 
 **Third Party Advertisers Links**
 
-Our websites contain links to other sites that are not owned or controlled by us. Please be aware that we are not responsible for the privacy practices of such other sites. We encourage our users to be aware when they leave our site and to read the privacy statements of each website to which we may link that may collect personally identifiable information. While we may use cookies in some parts of our website, cookies received with advertisements on our website are collected by the respective advertising companies, and we do not possess access to or control of such information gathered.
+Our websites contain links to other sites that are not owned or controlled by us. Please be aware that we are not responsible for the privacy practices of such other sites. We encourage our users to be aware when they leave our site and to read the privacy statements of each website to which we may link that may collect personally identifiable information. While we may use cookies in some parts of our website, cookies received with advertisements on our website are collected by the respective[ advertising](http://makemoneyonlineng.com/advertise " advertising") companies, and we do not possess access to or control of such information gathered.
 
 We use third-party advertising companies to serve ads when you visit our website. These companies may use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you.
 
@@ -63,11 +63,13 @@ Adesoji Adegbulu
 for [MakeMoneyOnlineNg.com](http://makemoneyonlineng.com/ "http://MakeMoneyOnlineNg.com")
 
   
+**
+
+Get my **FREE TRAININGS!** that reveals all the methods I use to improve my income.   
+Sign up below to Get Instant Access.  
+
+
   
+_** Please double check for accuracy. Don't worry, I hate SPAM more than you do. YOUR PRIVACY IS SAFE. Your details Will NEVER be Rented/sold Or Given away_** [](http://makemoneyonlineng.com/free-wordpress-installation-service-nigerians/)
 
-
-No related posts.
-
-Tags: [Privacy Policy](http://makemoneyonlineng.com/tag/privacy-policy/)
-
-[](http://makemoneyonlineng.com/wp-content/plugins/adrotate/adrotate-out.php?track=NjYsNCwwLGh0dHA6Ly93d3cubmFpcmFjb3cuY29tL3NlY3JldA=)
+[ ](http://makemoneyonlineng.com/free-wordpress-installation-service-nigerians/)
