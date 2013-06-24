@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the premiumwebcart.com privacy policy that was archived on 2012-08-26.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120826005903id_/http%3A//www.premiumwebcart.com/privacy-policy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the premiumwebcart.com privacy policy that was archived on 2013-06-24.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130624105923id_/http%3A//www.premiumwebcart.com/privacy-policy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
     <title>Premium Web Cart</title>
@@ -8,44 +8,53 @@
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 	<meta http-equiv="cache-control" content="public">
     <meta name="norton-safeweb-site-verification" content="4jh7eknyud5hy7zjms0inssep5kls6vghpvelz7e4unb5a6-xh9jw30bn645zlwf2or8q5msn7xjr8bxl00spslshs-48j9x34zamy30qygbh8u-aermrvtcu9qfqina">
-	<meta http-equiv="expires" content="Fri, 31 Aug 2012 15:02:13 GMT">
-    <script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script>var baseUrl = "http://www.premiumwebcart.com/"; var isContentPage = false;</script>
+	<meta http-equiv="expires" content="Tue, 25 Jun 2013 22:45:28 GMT">
+
+    <link rel="shortcut icon" href="http://www.premiumwebcart.com//images/FavIcon.png" type="image/x-icon">
+
     <link href="http://www.premiumwebcart.com/styles/style.css" rel="stylesheet" type="text/css">
     <link href="http://www.premiumwebcart.com/styles/try_it_today.css" rel="stylesheet" type="text/css">
-	<link rel="stylesheet" href="http://pwcagent.com/Livechat/css/thickbox.css" type="text/css" media="screen">
-    <link rel="shortcut icon" href="http://www.premiumwebcart.com//images/FavIcon.png" type="image/x-icon">
-<script async="true" type="text/javascript" src="https://s.adroll.com/j/roundtrip.js"></script></head>
-<body>
-<script src="http://pwcagent.com/283.js"></script>
-<script type="text/javascript" src="http://www.premiumwebcart.com/scripts/jquery-1.4.2.min.js"></script>
-<script type="text/javascript" src="http://pwcagent.com/Livechat/js/thickbox.js"></script>
-<script type="text/javascript" src="http://www.premiumwebcart.com/scripts/flash_populate.js"></script>
-<script type="text/javascript" src="http://www.premiumwebcart.com/scripts/jquery.scrollTo-min.js"></script>
-<script type="text/javascript" src="http://www.premiumwebcart.com/scripts/template.js"></script>
-<script type="text/javascript">
-$(document).ready(function(){
-  $.ajax({
-    type: "GET",
-    url: "http://www.premiumwebcart.com/blog/?feed=rss2",
-    dataType: "xml",
-	success: parseXml
-  });
-});
-function parseXml(xml){
+    <link rel="stylesheet" href="http://pwcagent.com/Livechat/css/thickbox.css" type="text/css" media="screen">
+    <link type="text/css" rel="stylesheet" media="screen" href="http://www.premiumwebcart.com/scripts/facebox/facebox.css">
 
-	var feedNumber = 0;
-	$("#rss_output").html("");
-	$(xml).find("item").each(function () {
-		feedNumber++;
-		$("#rss_output").append('<div class="rss_holder">'+'<div class="title"><a href="'+$(this).find("link").text()+'">' + $(this).find("title").text() + '</a></div></div>');
-	});
-	if(feedNumber==0){
-		$("#rss_output").html("No Data Found..");
-	}else{
-		$("#rss_output").append('<div class="rss_holder">'+'<div class="footer_title"><a href="http://www.premiumwebcart.com/blog/">More Info...</a></div></div>');
-	}
-}
-</script>  
+    <script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script>var baseUrl = "http://www.premiumwebcart.com/"; var isContentPage = false;</script>
+    <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.8.3/jquery.min.js"></script>
+    <script type="text/javascript" src="http://pwcagent.com/Livechat/js/thickbox.js"></script>
+    <script type="text/javascript" src="http://www.premiumwebcart.com/scripts/flash_populate.js"></script>
+    <script type="text/javascript" src="http://www.premiumwebcart.com/scripts/jquery.scrollTo-min.js"></script>
+    <script type="text/javascript" src="http://www.premiumwebcart.com/scripts/template.js"></script>
+    <script language="javascript" src="http://www.premiumwebcart.com/scripts/facebox/facebox.js"></script>
+
+    <script type="text/javascript">
+        $(document).ready(function(){
+            $.ajax({
+                type: "GET",
+                url: "http://www.premiumwebcart.com/blog/?feed=rss2",
+                dataType: "xml",
+                success: parseXml
+            });
+        });
+        function parseXml(xml){
+
+            var feedNumber = 0;
+            $("#rss_output").html("");
+            $(xml).find("item").each(function () {
+                feedNumber++;
+                $("#rss_output").append('<div class="rss_holder">'+'<div class="title"><a href="'+$(this).find("link").text()+'">' + $(this).find("title").text() + '</a></div></div>');
+            });
+            if(feedNumber==0){
+                $("#rss_output").html("No Data Found..");
+            }else{
+                $("#rss_output").append('<div class="rss_holder">'+'<div class="footer_title"><a href="http://www.premiumwebcart.com/blog/">More Info...</a></div></div>');
+            }
+        }
+        //$('#facebox body').width('500px');
+    </script>
+
+<script async="true" type="text/javascript" src="https://s.adroll.com/j/roundtrip.js"></script></head>
+
+<body>
+
 <div id="pwc_contact" style="display:none;">
 	<div id="contact_container" style="display:none;">
 		<div class="contact_title title_one">LIVE CHAT</div>
@@ -72,13 +81,20 @@ function parseXml(xml){
 			<a class="header_menu_gap" href="http://www.premiumwebcart.com/partners.html">Merchant Accounts</a>|
 			<a class="header_menu_gap" href="http://www.premiumwebcart.com/affiliates.html">Affiliates</a>|
             <a class="header_menu_gap" href="http://www.premiumwebcart.com/blog/">
-                    <img style="position:absolute;" src="images/blog_icon.png">
+                    <img style="position:absolute;" src="http://www.premiumwebcart.com/images/blog_icon.png" onmouseover="this.src='http://www.premiumwebcart.com/images/blog_iconHover.png'" onmouseout="this.src='http://www.premiumwebcart.com/images/blog_icon.png'">
                         <span style="margin-left:30px">Blog</span>
             </a>|
 			<a class="header_menu_gap" id="btn_contact_us" href="http://www.premiumwebcart.com/contact-us.html">Contact Us</a>|
 			<a class="header_menu_gap" href="https://www.secureinfossl.com/"><strong>LOGIN</strong></a>
 		</div>
 		<div style="clear:both"></div>
+        
+        <div class="livesupportdiv">
+        	<!-- script src='http://pwcchatelite.com/script/6/button.js'></script-->
+			<table><tbody><tr><td><div align="center" style=" cursor:pointer; border:0px solid  #97DDFF; border-radius:5px;padding-left:62px;padding-top:3px;" onclick="window.open('http://pwcchatelite.com/chatWindow.php?but_id=6','chatWindow','toolbar=0,scrollbars=0,location=0,status=1,menubar=0,width=660,height=550,resizable=1');"><div><img src="http://www.premiumwebcart.com/images/live-chat.png" onmouseover="this.src='http://www.premiumwebcart.com/images/live-chatHover.png'" onmouseout="this.src='http://www.premiumwebcart.com/images/live-chat.png'" id="chatbtn1"></div><div style="clear:both"></div><div></div></div></td></tr></tbody></table>        	
+        </div>
+
+        
 		<div class="header-phone">
 			<table border="0" cellspacing="0" cellpadding="0">
 			  <tbody><tr>
@@ -95,7 +111,7 @@ function parseXml(xml){
 				</td>
 			  </tr>
 			  <tr>
-				<td colspan="2" align="center" style="padding-top:15px"><a class="top_menu_hober1" href="http://www.premiumwebcart.com/try-it-today.html">TRY IT TODAY</a></td>
+				<td colspan="2" align="center" style="padding-top:15px"><a class="top_menu_hober1" href="http://www.premiumwebcart.com/try-it-today.html"></a></td>
 			  </tr>
 			</tbody></table>
 		</div>
@@ -163,7 +179,7 @@ function parseXml(xml){
 <div style="clear:both"></div>
 <div class="footer_container">
 	<div class="footerhold" style="position:relative;">
-		<a href="http://www.premiumwebcart.com/we-are-hiring.html" style="position:absolute; right: 20px; top: 3px;"><img src="http://www.premiumwebcart.com/images/we_are_hiring.png" border="0" width="246" height="197" title="We are hiring"></a>
+		<a href="http://www.premiumwebcart.com/we-are-hiring.html" style="position:absolute; right: 20px; top: 3px;"><img src="http://www.premiumwebcart.com/images/we_are_hiring.png" onmouseover="this.src='http://www.premiumwebcart.com/images/we_are_hiringHover.png'" onmouseout="this.src='http://www.premiumwebcart.com/images/we_are_hiring.png'" border="0" width="246" height="197" title="We are hiring"></a>
 		<table width="95%" border="0" cellspacing="0" cellpadding="0" align="center">
 			<tbody><tr class="footertitle">
 				<td width="28%" valign="top">
@@ -207,7 +223,7 @@ function parseXml(xml){
 		<div style="clear:both; height:1px; background-color:#000"></div>
 		<div style="clear:both; height:1px; background-color:#999"></div>
 		<div class="footer">
-			<div class="footer-copy">©2006-2012 by Premium Web Cart Inc. All Rights Reserved. 878 Tower Rd. Mundelein, IL 60060. 1-888-388-1815, 1-847-380-7306.</div>
+			<div class="footer-copy">©2006-2013 by Premium Web Cart Inc. All Rights Reserved. 878 Tower Rd. Mundelein, IL 60060. 1-888-388-1815, 1-847-380-7306.</div>
 		</div>
 	</div>
 
@@ -248,5 +264,20 @@ window.onload = function(){
    if(oldonload){oldonload()}};
 }());
 </script>
+
+<style>
+iframe.livechat_container {
+  position: fixed;
+  top: 180px;
+  left: 0;
+  width: 100px;
+  height: 100px;
+  border: none;
+  background: transparent;
+}
+</style>
+
+<iframe class="livechat_container" src="http://www.premiumwebcart.com/page/livechat"></iframe>
+
 
 </body></html>
