@@ -1,72 +1,31 @@
-<!--The following is the downloaded HTML source of the preplounge.com privacy policy that was archived on 2012-12-24.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121224013218id_/http%3A//www.preplounge.com/privacypolicy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the preplounge.com privacy policy that was archived on 2013-06-25.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130625014241id_/http%3A//www.preplounge.com/privacypolicy.php) for the most accurate reproduction.-->
 
-<!DOCTYPE html><html xmlns="http://www.w3.org/1999/xhtml"><head>
+<!DOCTYPE html><html xmlns:fb="http://ogp.me/ns/fb#"><head>
 	<!-- Webmaster Tool verification --> 
     <meta name="google-site-verification" content="giXwXVhrOmTb9kDIjApRMFsYVAOBmvDtuPOQ2T38v3o">
 
-    
-    
-    <title>Privacy Policy of PrepLounge</title>
-    <link rel="icon" type="image/png" href="/images/square_Logo_no background.png">
+<title>Privacy Policy of PrepLounge</title>    <link rel="icon" type="image/png" href="images/square_Logo_no background.png">
 	<!--themecss -->
-	<link rel="stylesheet" type="text/css" href="/css/screen.css" media="screen, projection">
-	<link rel="stylesheet" type="text/css" href="/css/print.css" media="print">
-	<link rel="stylesheet" type="text/css" href="/css/main.css">
-    <link rel="stylesheet" type="text/css" href="/css/form.css">
-    <link rel="stylesheet" type="text/css" href="/css/beta-tester-style.css">
+	<script type="text/javascript" async="" src="https://apis.google.com/js/plusone.js"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="js/jquery-1.8.3.js"></script>
+<link rel="stylesheet" type="text/css" href="css/style.css" media="screen, projection"><link rel="stylesheet" type="text/css" href="css2/style.css" media="screen, projection"><link rel="stylesheet" type="text/css" href="css2/navi.css" media="screen, projection"><link rel="stylesheet" type="text/css" href="css/footer.css" media="screen, projection"><link rel="stylesheet" type="text/css" href="css/screen.css" media="screen, projection"><link rel="stylesheet" type="text/css" href="css/print.css" media="print"><link rel="stylesheet" type="text/css" href="css/main.css"><link rel="stylesheet" type="text/css" href="css/form.css"><link rel="stylesheet" type="text/css" href="css/beta-tester-style.css">
     <!--themecss -->
 <!---newdropdown-->
-<script type="text/javascript" async="" src="https://apis.google.com/js/plusone.js"></script><script id="facebook-jssdk" src="//connect.facebook.net/en_US/all.js#xfbml=1&amp;appId=185012721632113"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="/js/jquery.validate.js"></script>
-<script type="text/javascript" src="js/jquery-1.6.4.min.js"></script>
+<script type="text/javascript" src="js/jquery.validate.js"></script>
 <script type="text/javascript" src="js/ajaxupload.3.5.js"></script>
 <script type="text/javascript" src="js/prepcountdown.js"></script>
 <script type="text/javascript" src="js/console.dummy.js"></script>
+
+<!--- js for page introduction plugin see: https://github.com/usablica/intro.js  -->
+<script src="js/intro.js"></script>
+
+<!--- css for page introduction plugin see: https://github.com/usablica/intro.js-->
+<link rel="stylesheet" type="text/css" href="css/introjs.css">
 <script type="text/javascript">
-//<![CDATA[
+// This function slides up and down the login popup box on the top right of the header
 function showSlidingDiv()
 {
     jQuery("#slidingDiv").animate({"height": "toggle"}, { duration: 800 });
-}
-function showrightmenuDiv1()
-{
-    jQuery(".rightmenuss1").animate({"height": "toggle"}, { duration: 600 });
-}
-function showrightmenuDiv2()
-{
-    jQuery(".rightmenuss2").animate({"height": "toggle"}, { duration: 600 });
-}
-function showrightmenuDiv3()
-{
-    jQuery(".rightmenuss3").animate({"height": "toggle"}, { duration: 600 });
-}
-function showexperiencediv()
-{
-    jQuery(".experienceslidingdiv").animate({"height": "toggle"}, { duration: 600 });
-}
-function showrightmenuDiv5()
-{
-    jQuery(".rightmenuss5").animate({"height": "toggle"}, { duration: 600 });
-}
-function showrightmenuDiv6()
-{
-    jQuery(".rightmenuss6").animate({"height": "toggle"}, { duration: 600 });
-}
-function showrightmenuDiv7()
-{
-    jQuery(".rightmenuss7").animate({"height": "toggle"}, { duration: 600 });
-}
-function showrightmenuDiv8()
-{
-    jQuery(".rightmenuss8").animate({"height": "toggle"}, { duration: 600 });
-}
-function education()
-{
-    jQuery(".rightmenuss9").animate({"height": "toggle"}, { duration: 600 });
-}
-function edu()
-{
-    jQuery(".edu1").animate({"height": "toggle"}, { duration: 600 });
 }
 </script>
  
@@ -77,7 +36,7 @@ function registerform()
     
     var currentURL = window.location.href;
     var $formId = jQuery(this).parents('form');
-    jQuery("#register").attr("action", "http://www.preplounge.com/login.php?gotopage="+currentURL);
+    jQuery("#register").attr("action", "http://www.preplounge.com/en/login.php?gotopage="+currentURL);
 	//alert(currentURL);        
 }
 function popitup(url) 
@@ -101,136 +60,18 @@ function SetCookie(cookieName,cookieValue,nDays)
 	                + ";expires="+expire.toGMTString();
 }
 
-// Sets cookie to set language and refreshes page
-function change_language(lang) 
-{
-	// sets cookie
-	SetCookie('lang', lang, 180);
-	
-	//// reloads page with new language if this is a page like aboutus or imprint which is a complete new page for each language
-	// Page aboutus/ueberuns
-	if('privacypolicy.php'=='aboutus.php'||
-		'privacypolicy.php'=='ueberuns.php')
-	{
-		switch (lang)
-		{
-			// Uses the content of the cookie set by file localization.php (ATTENTION 'de_DE' instead of 'de'
-			case 'de_DE':
-				window.location.href = 'ueberuns.php';
-				break;
-			case 'en_US':			
-				window.location.href = 'aboutus.php';
-				break;	
-			default:
-				window.location.href = 'aboutus.php';
-				break;
-		}
-	} // Page imprint/impressum
-	else if('privacypolicy.php'=='imprint.php'||
-		'privacypolicy.php'=='impressum.php')
-	{
-		switch (lang)
-		{
-			// Uses the content of the cookie set by file localization.php (ATTENTION 'de_DE' instead of 'de'
-			case 'de_DE':
-				window.location.href = 'impressum.php';
-				break;
-			case 'en_US':		
-				window.location.href = 'imprint.php';
-				break;	
-			default:
-				window.location.href  = 'imprint.php';
-				break;
-		}
-	} // Page conditions/agb
-	else if('privacypolicy.php'=='conditions.php'||
-		'privacypolicy.php'=='agb.php')
-	{
-		switch (lang)
-		{
-			// Uses the content of the cookie set by file localization.php (ATTENTION 'de_DE' instead of 'de'
-			case 'de_DE':
-				window.location.href = 'agb.php';
-				break;
-			case 'en_US':		
-				window.location.href = 'conditions.php';
-				break;	
-			default:
-				window.location.href  = 'conditions.php';
-				break;
-		}
-	}
-	else if('privacypolicy.php'=='privacypolicy.php'||
-		'privacypolicy.php'=='datenschutz.php')
-	{
-		switch (lang)
-		{
-			// Uses the content of the cookie set by file localization.php (ATTENTION 'de_DE' instead of 'de'
-			case 'de_DE':
-				window.location.href = 'datenschutz.php';
-				break;
-			case 'en_US':	
-				window.location.href = 'privacypolicy.php';
-				break;	
-			default:
-				window.location.href  = 'privacypolicy.php';
-				break;
-		}
-	}
-	else if('privacypolicy.php'=='facebooksocialplug.php'||
-		'privacypolicy.php'=='facebooksocialplug_de.php')
-	{
-		switch (lang)
-		{
-			// Uses the content of the cookie set by file localization.php (ATTENTION 'de_DE' instead of 'de'
-			case 'de_DE':
-				window.location.href = 'facebooksocialplug_de.php';
-				break;
-			case 'en_US':	
-				window.location.href = 'facebooksocialplug.php';
-				break;	
-			default:
-				window.location.href  = 'facebooksocialplug.php';
-				break;
-		}
-	}
-	else if('privacypolicy.php'=='googleanalytics.php'||
-		'privacypolicy.php'=='googleanalytics_de.php')
-	{
-		switch (lang)
-		{
-			// Uses the content of the cookie set by file localization.php (ATTENTION 'de_DE' instead of 'de'
-			case 'de_DE':
-				window.location.href = 'googleanalytics_de.php';
-				break;
-			case 'en_US':	
-				window.location.href = 'googleanalytics.php';
-				break;	
-			default:
-				window.location.href  = 'googleanalytics.php';
-				break;
-		}
-	} else
-	{
-		window.location.reload();
-	}
-}
 </script>
 <script type="text/javascript">
 function signupform()
 {
-       document.register.action="";
-    jQuery("#register").attr("action", "http://www.preplounge.com/signup.php");
+	document.register.action="";
+    jQuery("#register").attr("action", "/en//signup.php");
 
 }
 
 </script>
 
-<style type="text/css">
-label {  }
-label.error { float: none; color: red; padding-left: .5em; vertical-align: top; }
-p { clear: both; }
-</style>
+
 <script type="text/JavaScript">
 jQuery(document).ready(function() 
 { 
@@ -255,10 +96,10 @@ jQuery(document).ready(function()
          var currentURL = window.location.href;
          currentURL=encodeURIComponent(currentURL);
         if(buttonclicked=='login'){
-           ($formId).attr('action', "http://www.preplounge.com/login.php?gotopage="+currentURL);
+           ($formId).attr('action', "http://www.preplounge.com/en/login.php?gotopage="+currentURL);
         }
         else{
-            jQuery($formId).attr('action', "http://www.preplounge.com/signup.php");
+            jQuery($formId).attr('action', "http://www.preplounge.com/en/signup.php");
         }
 		var formAction = $formId.attr('action');
         //alert(buttonclicked+','+formAction);
@@ -272,6 +113,7 @@ jQuery(document).ready(function()
 		jQuery('.required',$formId).each(function()
         {
 			var inputVal = jQuery(this).val();
+			inputVal=jQuery.trim(inputVal);
 			var $parentTag = jQuery(this).parent();
 			// Run the email validation using the regex for those input items also having class "email"
 			if(jQuery(this).hasClass('email') == true)
@@ -325,7 +167,26 @@ jQuery(document).ready(function()
 	});
 });
 </script>
-
+<script>
+        facebookApiKey = "352938358115527";
+        window.fbAsyncInit = function() {
+          FB.init({
+            appId      : facebookApiKey,
+            status     : true, 
+            cookie     : true,
+            xfbml      : true,
+            oauth      : true
+          });
+        };
+        
+        (function(d){
+           var js, id = 'facebook-jssdk'; if (d.getElementById(id)) {return;}
+           js = d.createElement('script'); js.id = id; js.async = true;
+           js.src = "http://connect.facebook.net/en_US/all.js";
+           d.getElementsByTagName('head')[0].appendChild(js);
+           
+         }(document));
+</script><script id="facebook-jssdk" async="" src="http://connect.facebook.net/en_US/all.js"></script>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 <meta http-equiv="X-UA-Compatible" value="IE=9">
 
@@ -357,109 +218,122 @@ jQuery(document).ready(function()
 <meta name="description" content="Privacy Policy PrepLounge">
 </head>
 
-<body topmargin="0" leftmargin="0" rightmargin="0" bottommargin="0" marginwidth="0" marginheight="0">
+<body topmargin="0" leftmargin="0" rightmargin="0" bottommargin="0" marginwidth="0" marginheight="0"><div id="olark" style="display: none;"><olark><iframe frameborder="0" id="olark-loader"></iframe></olark></div>
 
 <!-- Overlay that is used for all popups -->
 <div id="fade" class="black_overlay" onclick="close_popup();"></div>
 
 <div class="re_mainclass" align="center">
-<div class="contentcenter" align="center">
-<div class="logo" align="left"><a href="http://www.preplounge.com/index.php" title="PrepLounge" alt="PrepLounge"><img src="/images/preplounge.png" border="0"></a>
-</div>
-<div style="float:right;" align="left">
+	<div id="header_contentcenter" class="contentcenter" align="center">
+	
+	<div align="left" class="logo">
+		<a alt="PrepLounge" title="PrepLounge" href="/en/">
+			<img border="0" src="images/preplounge.png">
+		</a>
+	</div>
+	
+	<div style="float:right;" align="left">
 <div style="width:100%;height:36px;" align="left">
 	<div class="re_login" style="margin-left: 30px; float:right;">
 		<a href="#" class="logina" onclick="showSlidingDiv(); return false;">Log in / Sign up</a>
 	</div>
-	<div style="margin:3px; margin-top:7px;float:right;"><img border="0" src="images/flag_uk.png" alt="English"></div><div style="margin:3px; margin-top:7px;float:right;"><a style="cursor:pointer;" title="Deutsch" onclick="change_language('de_DE');"><img border="0" src="images/flag_de.png" alt="Deutsch"></a></div>	<div style="clear:both;"></div>
-	<div style="float:right;position: relative;">
-		<div id="slidingDiv" style="text-align: left;" align="left">
-			<form id="register" name="register" method="post">
-				<div class="logindown1">
-					<div style="float: left; padding-bottom: 20px">
-						<div style="font-size: 13px; float: left; padding-top: 10px; width: 50px; font-weight: bold;">Email:</div>
-						<div style="font-size: 13px; float: left; padding-top: 7px; width: 169px;"><input type="text" value="" class="inpuetboxnew1 required email" name="user_emailid" maxlength="45" size="45"></div>
+	<div style="margin:3px; margin-top:7px;float:right;"><img border="0" src="images/flag_uk.png" alt="English"></div><div style="margin:3px; margin-top:7px;float:right;"><a style="cursor:pointer;" title="Deutsch" href="http://www.preplounge.com/de/datenschutz.php"><img border="0" src="images/flag_de.png" alt="Deutsch"></a></div><div style="clear:both;"></div>
+<div style="float:right;position: relative;">
+	<div id="slidingDiv">
+		<form id="register" name="register" method="post">
+			<div class="logindown1" style="height: 187px;width: 302px;">
+				<div style="float: left; padding-bottom: 20px">
+					<div style="font-size: 13px; float: left; padding-top: 10px; width: 50px; font-weight: bold;">Email:</div>
+					<div style="font-size: 13px; float: left; padding-top: 7px; width: 169px;"><input type="text" value="" class="inpuetboxnew1 required email" name="user_emailid" maxlength="100" size="100"></div>
+				</div>
+				<div style="float: left;width: 150px;border-right:2px solid #94ba2f">  
+					<label class="re_maintopic" style="font-size: 12px; padding-top: 0;padding-bottom: 4px;">Already a user?</label>
+					<div style="float: left;">
+						<div style="font-size: 10px;float: left;padding-top: 4px;width: 60px;font-weight: bold;">Password</div>
+						<div style="font-size: 13px;float: left;padding-top: 0px;width: 150px;">
+							<input type="password" value="" class="inpuetboxnew1 required password" id="password" name="password" maxlength="45" size="45" style="width: 132px;">
+						</div>
+						<label><div style="float: left;padding-top: 6px;width: 150px;"><input type="checkbox" name="loggedIn" value="Keepmeloggedin" style="margin: 0 5px 0 0;" align="bottom">Keep me logged in</div></label>
+						<div style="font-size: 13px;float: left;padding-top: 8px;width: 150px;">
+							<input class="greenbg loginbutton" onclick="registerform();" type="button" value="Log in" style="width: 137px;" id="login">
+						</div>
+						<div style="float: left;padding-top: 6px;width: 150px;"><a href="forgot-password.php" class="linkanew" style="font-size: 10px;">Forgot Password</a></div>
 					</div>
-					<div style="float: left;width: 150px;border-right:2px solid #94ba2f">  
-						<label class="re_maintopic" style="font-size: 12px; padding-top: 0;padding-bottom: 4px;">Already a user?</label>
-						<div style="float: left;">
-							<div style="font-size: 10px;float: left;padding-top: 4px;width: 60px;font-weight: bold;">Password</div>
-							<div style="font-size: 13px;float: left;padding-top: 0px;width: 150px;">
-								<input type="password" value="" class="inpuetboxnew1 required password" id="password" name="password" maxlength="45" size="45" style="width: 132px;">
-							</div>
-							<div style="float: left;padding-top: 6px;width: 150px;"><input type="checkbox" name="loggedIn" value="Keepmeloggedin" style="margin: 0 5px 0 0;" align="bottom">Keep me logged in</div>
-							<div style="font-size: 13px;float: left;padding-top: 8px;width: 150px;">
-					  			<input class="greenbg loginbutton" onclick="registerform();" type="button" value="Log in" style="width: 137px;" id="login">
-							</div>
-					   		<div style="float: left;padding-top: 6px;width: 150px;"><a href="forgot-password.php" class="linkanew" style="font-size: 10px;">Forgot Password</a></div>
-	   					</div>
-	   				</div>
-	   				<div style="float: left;width: 142px;padding-left: 6px;">  
-						<label class="re_maintopic" style="font-size: 12px; padding-top: 0; padding-bottom: 0;">Not yet a user?</label>
-					  	<div style="font-size: 13px;float: left;padding-top: 16px;width: 146px;"><input class="greenbg signupbuttons loginbutton" onclick="signupform();" type="button" value="Sign up for free!" style="width: 136px;"></div>
-					  	<div style="font-size: 10px;float: left;padding-top: 8px;width: 146px;font-weight: bold;" align="center">or</div>
-						<div class="re_sing" style="font-size: 13px;float: left;padding-top: 0px;width: 146px; margin-left:-11px;"><iframe src="facebookconnect/fblogin.php" frameborder="0" width="178px" height="40" scrolling="no"></iframe></div>
-					</div>  
-	  			</div>
-	  		</form>   
-	  	</div>
-	<div style="clear:both;"></div>
-  	</div>
-</div>
-   
-<div id="topNav">
-<div id="mainNav">
+				</div>
+				<div style="float: left;width: 142px;padding-left: 6px;">  
+					<label class="re_maintopic" style="font-size: 12px; padding-top: 0; padding-bottom: 0;">Not yet a user?</label>
+					
+					<div style="font-size: 13px; padding-top: 16px;width: 146px;">
+						<input class="greenbg signupbuttons loginbutton" onclick="signupform();" type="button" value="Sign up for free!" style="width: 136px;">
+					</div>
+					
+					<div style="font-size: 10px;padding-top: 8px;width: 146px;font-weight: bold;" align="center">or</div>
 
-<span id="newPage" class="countdown" style="font-size:28px;color:black;"></span>
-<!--menustart-->
-    <ul id="yw2">
-    	<!-------------->
-        <!-- TAB BLOG -->
-    	<!-------------->
-        <li style="text-align: center;"><a href="http://www.preplounge.com/blog">Blog</a></li>
-        
-		<!-------------->
-        <!-- TAB My account -->
-    	<!-------------->
-    	<li style="text-align: center;"><a href="http://www.preplounge.com/mymeetings.php?section=invitations_received">My account</a>
+					<div style="margin-top:8px;margin-left:-2px">
+					<a class="facebook" href="https://www.facebook.com/dialog/oauth?client_id=457503840931891&amp;redirect_uri=http%3A%2F%2Fwww.preplounge.com%2Fen%2Ffacebookconnect%2Fsuccess.php&amp;state=4f89dc2755cb000f6977585480e64d96&amp;scope=email" target="_top"></a>					</div>
+				</div> 
+				
+			</div>
+		</form>   
+	</div>
+</div>	
+</div>
+	<div id="topNav">
+		<div id="mainNav">
 		
-		 
-			
-			 <!--Shows the sub-menus of "My account"-->
-				<ul class="dropdownmenuul">
-					<div style="background-color: white;border-radius: 3px;padding: 5px 3px 5px; margin-top: 7px;">
-						<li style="border-radius: 2px;"><a class="menu_ho" href="http://www.preplounge.com/mymeetings.php" style="color: black;text-align: left; border-radius: 2px;font-size: 11px;">Meetings</a></li>
-						<li style="border-radius: 2px;"><a class="menu_ho" href="http://www.preplounge.com/management-consulting-cases.php" style="color:text-align: left;color: black; border-radius: 2px;font-size: 11px;">Cases</a></li>
-						<li style="border-radius: 2px;"><a class="menu_ho" href="http://www.preplounge.com/candidatemembership.php" style="color:text-align: left;color: black; border-radius: 2px;font-size: 11px;">Membership</a></li>
-					</div>	
-				</ul>
-			<!--dropdownmenuend-->
-		</li>
-		
-       	<!-------------->
-        <!-- TAB Find candidates -->
-    	<!-------------->
-    	<li style="text-align: center;"><a href="http://www.preplounge.com/case-interview-partner.php#language=0&amp;interest=0&amp;status=0&amp;sortby=3">Find candidates</a>
-            <!--dropdownmenustart-->
-               <ul class="dropdownmenuul">
-                	<div style="background-color: white;border-radius: 3px;padding: 5px 3px 5px; margin-top: 7px;">
-                       <li style="border-radius: 2px;"><a class="menu_ho" href="http://www.preplounge.com/case-interview-partner.php#language=0&amp;interest=0&amp;status=0&amp;sortby=3" style="color: black;text-align: left; border-radius: 2px;font-size: 11px;">Propose meeting</a></li>
-                	   <li style="border-radius: 2px;"><a class="menu_ho" href="http://www.preplounge.com/take-meeting.php" style="color:text-align: left;color: black; border-radius: 2px;font-size: 11px;">Take meeting</a></li>
-                    </div>    
-            	</ul>
-            <!--dropdownmenuend-->
-        </li>
-        
-        <!-------------->
-        <!-- TAB Find experts  -->
-    	<!-------------->
-    	<li style="text-align: center;"><a href="http://www.preplounge.com/experts.php#language=0&amp;experience=0&amp;sortby=2">Find experts</a></li>
-    </ul>
-<!--menuend-->    
-</div>
-</div>
-</div>
-</div>
+			<span id="newPage" class="countdown" style="font-size:28px;color:black;"></span>
+
+			<ul id="yw2">        
+								
+				<!-------------->
+				<!-- TAB Case Prep -->
+				<!-------------->
+				<li style="text-align: center;"><a href="http://www.preplounge.com/en/management-consulting-cases.php">
+						Case Prep					</a>
+					
+					<!--Shows the sub-menus of "Case Prep"-->
+					<ul id="sub_tabs_case_prep" class="dropdownmenuul">
+						<div class="dropdownmenuul_container">
+							<li style="border-radius: 2px;"><a class="menu_ho header_sub_tab_link" href="http://www.preplounge.com/en/management-consulting-cases.php">Cases</a></li>
+							<li style="border-radius: 2px;"><a class="menu_ho header_sub_tab_link" href="http://www.preplounge.com/en/case-interview-events.php">Case Events</a></li>
+							<li style="border-radius: 2px;"><a class="menu_ho header_sub_tab_link" href="http://www.preplounge.com/en/case-interview-league.php">Case League</a></li>
+							<li style="border-radius: 2px;"><a class="menu_ho header_sub_tab_link" href="http://www.preplounge.com/en/blog" target="_blank">PrepBlog</a></li>
+						<li style="border-radius: 2px;"><a class="menu_ho header_sub_tab_link" href="http://www.preplounge.com/en/starters-guide.php" target="_blank">Starter's guide</a></li>
+						</div>	
+					</ul>
+					<!--dropdownmenuend-->
+				</li>
+				
+				<!-------------->
+				<!-- TAB Find candidates -->
+				<!-------------->
+				<li style="text-align: center;"><a href="http://www.preplounge.com/en/case-interview-partner.php#language=0&amp;interest=0&amp;university=0&amp;status=0&amp;sortby=3">
+						Find candidates					</a>
+					
+					<!--Shows the sub-menus of "Find candidates"-->
+					<!--dropdownmenustart-->
+					   <ul class="dropdownmenuul">
+							<div class="dropdownmenuul_container">
+							   <li style="border-radius: 2px;"><a class="menu_ho header_sub_tab_link" href="http://www.preplounge.com/en/case-interview-partner.php#language=0&amp;interest=0&amp;university=0&amp;status=0&amp;sortby=3" style="color: black;text-align: left; border-radius: 2px;font-size: 11px;">Propose meeting</a></li>
+							   <li style="border-radius: 2px;"><a class="menu_ho header_sub_tab_link" href="http://www.preplounge.com/en/take-meeting.php" style="color:text-align: left;color: black; border-radius: 2px;font-size: 11px;">Take meeting</a></li>
+							</div>    
+						</ul>
+					<!--dropdownmenuend-->
+				</li>
+				
+				<!-------------->
+				<!-- TAB Find experts  -->
+				<!-------------->
+				<li style="text-align: center;"><a href="http://www.preplounge.com/en/experts.php#language=0&amp;experience=0&amp;sortby=1">
+						Find experts					</a>
+				</li>    	
+				
+			</ul>
+		<!--menuend-->    
+		</div>
+	</div>   
+		</div>
+	</div>
 </div>
 <!--footerslidingmenu-->
 <script type="text/javascript">
@@ -468,13 +342,8 @@ function close_popup()
 	// Closes any popup that might be open (it just need to have class 'popup_window')
 	jQuery(".popup_window").css("display", "none");
 	
-	// Please just add class "popup_window" to all popups and then delete these four next lines
-	// as the command jQuery(".popup_window").css("display", "none"); will be enough
-    jQuery("#case_done").css("display", "none"); 
-    jQuery("#invite_friends").css("display", "none");
-    jQuery("#case").css("display", "none"); 
-   	jQuery("#fade").css("display", "none"); 
-    jQuery(".cancel_meeting_or_decline_invitation_popup").css("display", "none");
+	// Closes black overlay
+   	jQuery(".black_overlay").css("display", "none"); 
     
     // In case this is a chat popup, there is more to do than just hiding the popup
     // see function after_closing_popup_chat() defined in meeting-now-module.php:
@@ -495,31 +364,41 @@ function close_popup()
     });
 //Press ESC END 
 </script>
-<style type="text/css">
 
-/* black_overlay should NOT be defined in main.css because of a conflict with the meeting room*/
-.black_overlay
+
+
+<!-- Script that detects if user uses IE < 9 and pops up a warning saying that PrepLounge does not support IE < 9
+see: http://stackoverflow.com/questions/5574842/best-way-to-check-for-ie-less-than-9-in-javascript-without-library-->
+<script type="text/javascript">	
+jQuery('document').ready(function()
 {
-    display: none;
-    position:fixed;
-    top:0;
-    left:0;
-    bottom:0;
-    right:0;
-    height: 100%;
-    width: 100%;
-    margin: 0;
-    padding: 0;
-    background: #000000;
-    z-index:1001;
-    -moz-opacity: 0.5;
-    opacity:.5;
-    filter: alpha(opacity=20);
-}
-</style>
+	var ie = (function(){
+	    var undef,
+	        v = 3,
+	        div = document.createElement('div'),
+	        all = div.getElementsByTagName('i');
+	
+	    while (
+	        div.innerHTML = '<!--[if gt IE ' + (++v) + ']><i></i><![endif]-->',
+	        all[0]
+	    );
+	
+	    return v > 4 ? v : undef;
+	
+	}());
+	
+	if(ie<9)
+	{
+		alert('We are sorry but PrepLounge does not support Internet Explorer versions older than 9.0');
+	}
+});
+</script>
 <!--footerslidingmenu-->
 <div class="re_preplonge" align="center" style="text-align: left;">
 <div align="center">
+
+<!-- here come the different pages that call header at the beginning -->
+
 <div class="bodytittle" align="center"><h1 style="width: 960px;margin:0 auto;border-bottom: 0;padding: 0;" align="left" class="bodytittle">Privacy policy</h1></div>
 <div class="contentcenter">
 <div class="left_column">
@@ -649,72 +528,18 @@ function close_popup()
 </div> 
  </div>
 </div>
-<style>
-.footercopy a, .powered {
-	color: #A6A6A6;
-	font-size: 12px;
-	padding: 0 0px;
-	text-decoration: none;
-}
-.footer_heading_supo
+
+<script>
+(function(d, s, id) 
 {
-	width: 365px;
-	float: left; 
-	padding-left: 30px;
-	line-height: 17px;
-	
-}
-.footer_heading_help
-{
-	width: 167px;
-	float: left; 
-	padding-left: 30px;
-	line-height: 17px;
-}
-.footercopy_supo
-{
-	padding-top: 40px;
-	float: left;
-	width: 100%;
-}
-.footercopy_cp_right
-{
-	width: 455px; 
-	float: left; 
-	color: rgb(166, 166, 166);
-}
-.linu
-{
-	width: 132px; 
-	float: left; 
-	text-align: left;
-}
-.content_supo
-{
-	text-align: left; 
-	width:982px; 
-	margin-top: 15px; 
-	color: #A6A6A6;
-}
-.google
-{
-	width: 220px;
-	float: left;
-}
-.google_plus
-{
-	width: 69px;
-	float: left;
-}
-</style>
-<script type="text/javascript" src="js/prepcountdown.js"></script>
-<script>(function(d, s, id) {
   var js, fjs = d.getElementsByTagName(s)[0];
   if (d.getElementById(id)) return;
   js = d.createElement(s); js.id = id;
   js.src = "//connect.facebook.net/en_US/all.js#xfbml=1&appId=185012721632113";
   fjs.parentNode.insertBefore(js, fjs);
-}(document, 'script', 'facebook-jssdk'));</script>
+}(document, 'script', 'facebook-jssdk'));
+</script>
+
 <div class="footer" align="center">
 	<div class="contentcenter content_supo">
 		<div class="google">
@@ -726,7 +551,8 @@ function close_popup()
 				 lang: 'en-US'
 				 };
 
-				(function() {
+				(function() 
+				{
 				var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
 				po.src = 'https://apis.google.com/js/plusone.js';
 				var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
@@ -737,25 +563,24 @@ function close_popup()
 				</div>
 			</div>
 		</div>
+	
 	<div class="footer_heading_supo">
 		<div class="footer_headings" style="width: 251px;">
 			Case Interview Preparation		</div>  
  		 <div>
-			<a href="http://www.preplounge.com/blog/consulting-clubs-bieten-case-interview-partner-und-mehr/" class="powered">Consulting Clubs Offer Case Interview Partners...</a><br>
-			<a href="http://www.preplounge.com/blog/practice-cases-with-case-interview-partners-on-preplounge/" class="powered">Practice Cases With Case Interview Partners...</a><br>
-			<a href="http://www.preplounge.com/blog/5-bewertungskriterien-im-case-interview/" class="powered"> 5 Assessment Criteria for the Case Interview Preparation </a><br>
-			<a href="http://www.preplounge.com/blog/preplounge-blog-zum-thema-case-interview-vorbereitung-und-management-consulting/" class="powered">News regarding Case Interview Preparation and...</a>
+ 		 	<a href="http://www.preplounge.com/blog/en/the-case-interviews-at-bcg-mckinsey-booz-and-bain/" class="powered">Case Interviews at BCG, McKinsey, Booz und Bain</a> <br> <a href="http://www.preplounge.com/blog/en/practice-cases-with-case-interview-partners-on-preplounge/" class="powered">Practice Cases with Case Interview Partners on PrepLounge</a> <br> <a href="http://www.preplounge.com/blog/en/4-erfolgreiche-konzepte-eines-beraterhirns-2/" class="powered">4 Insights into the Mind of a Consultant</a> <br> <a href="http://www.preplounge.com/blog/en/3-golden-rules-of-solving-market-sizing-cases/" class="powered">3 Golden Rules of Solving Market Sizing Cases</a> <br> <a href="http://www.preplounge.com/blog/en/success-story-lots-of-successful-case-interviews/" class="powered">Lots of successful case interviews</a> <br> 			
 		</div>  
 	</div>
+	
 	<div class="footer_heading_help">
 		<div class="footer_headings" style="width: 151px;">
 			General Information		</div>
 			<div>
-			<a href="imprint.php" class="powered">Imprint</a> <br> <a href="conditions.php" class="powered">Conditions</a> <br> <a href="privacypolicy.php" class="powered">Privacy policy</a> <br> <a href="imprint.php" class="powered">Contact</a> <br> <a href="aboutus.php" class="powered">About us</a>			</div>
+			<a href="imprint.php" class="powered">Imprint</a> <br> <a href="conditions.php" class="powered">Conditions</a> <br> <a href="case-interview-faq-en.php" class="powered">FAQ</a><br><a href="privacypolicy.php" class="powered">Privacy policy</a> <br> <a href="imprint.php" class="powered">Contact</a> <br> <a href="aboutus.php" class="powered">About us</a>			</div>
 	</div>
 	
 	<div class="footercopy footercopy_supo" align="center">
-		<div class="footercopy_cp_right">Copyright ©2012 by PrepLounge&nbsp;GmbH			<span style="padding-left: 10px;">
+		<div class="footercopy_cp_right">Copyright ©2013 by PrepLounge&nbsp;GmbH			<span style="padding-left: 10px;">
 			Powered by				<a href="http://www.atslsolutions.com/" target="_blank" class="powered" style="padding: 0;">&nbsp;
 				ATSL Software Solutions				</a>
 			</span>
@@ -766,24 +591,53 @@ function close_popup()
 		</div>
 	</div>
 </div>
-<!-- This is the script for the feedback widget from http://webengage.com -->
-<script type="text/javascript" async="" src="//ssl.widgets.webengage.com/js/widget/webengage-min-v-3.0.js"></script><script id="_webengage_script_tag" type="text/javascript">
-  window.webengageWidgetInit = window.webengageWidgetInit || function(){
-	webengage.init({
-	  licenseCode:"~10a5cba9d"
-	}).onReady(function(){
-	  webengage.render();
-	});
-  };
 
-  (function(d){
-	var _we = d.createElement('script');
-	_we.type = 'text/javascript';
-	_we.async = true;
-	_we.src = (d.location.protocol == 'https:' ? "//ssl.widgets.webengage.com" : "//cdn.widgets.webengage.com") + "/js/widget/webengage-min-v-3.0.js";
-	var _sNode = d.getElementById('_webengage_script_tag');
-	_sNode.parentNode.insertBefore(_we, _sNode);
-  })(document);
+	<!-- begin olark code -->
+	<script data-cfasync="false" type="text/javascript">/*<![CDATA[*/window.olark||(function(c){var f=window,d=document,l=f.location.protocol=="https:"?"https:":"http:",z=c.name,r="load";var nt=function(){
+	f[z]=function(){
+	(a.s=a.s||[]).push(arguments)};var a=f[z]._={
+	},q=c.methods.length;while(q--){(function(n){f[z][n]=function(){
+	f[z]("call",n,arguments)}})(c.methods[q])}a.l=c.loader;a.i=nt;a.p={
+	0:+new Date};a.P=function(u){
+	a.p[u]=new Date-a.p[0]};function s(){
+	a.P(r);f[z](r)}f.addEventListener?f.addEventListener(r,s,false):f.attachEvent("on"+r,s);var ld=function(){function p(hd){
+	hd="head";return["<",hd,"></",hd,"><",i,' onl' + 'oad="var d=',g,";d.getElementsByTagName('head')[0].",j,"(d.",h,"('script')).",k,"='",l,"//",a.l,"'",'"',"></",i,">"].join("")}var i="body",m=d[i];if(!m){
+	return setTimeout(ld,100)}a.P(1);var j="appendChild",h="createElement",k="src",n=d[h]("div"),v=n[j](d[h](z)),b=d[h]("iframe"),g="document",e="domain",o;n.style.display="none";m.insertBefore(n,m.firstChild).id=z;b.frameBorder="0";b.id=z+"-loader";if(/MSIE[ ]+6/.test(navigator.userAgent)){
+	b.src="javascript:false"}b.allowTransparency="true";v[j](b);try{
+	b.contentWindow[g].open()}catch(w){
+	c[e]=d[e];o="javascript:var d="+g+".open();d.domain='"+d.domain+"';";b[k]=o+"void(0);"}try{
+	var t=b.contentWindow[g];t.write(p());t.close()}catch(x){
+	b[k]=o+'d.write("'+p().replace(/"/g,String.fromCharCode(92)+'"')+'");d.close();'}a.P(2)};ld()};nt()})({
+	loader: "static.olark.com/jsclient/loader0.js",name:"olark",methods:["configure","extend","declare","identify"]});
+	/* custom configuration goes here (www.olark.com/documentation) */
+	olark.identify('6260-696-10-8873');/*]]>*/</script><noscript><a href="https://www.olark.com/site/6260-696-10-8873/contact" title="Contact us" target="_blank">Questions? Feedback?</a> powered by <a href="http://www.olark.com?welcome" title="Olark live chat software">Olark live chat software</a></noscript>
+	<!-- end olark code -->
+
+		
+<!-- Google Code for Main List -->
+<!-- Remarketing tags may not be associated with personally identifiable
+information or placed on pages related to sensitive categories. For
+instructions on adding this tag and more information on the above
+requirements, read the setup guide: google.com/ads/remarketingsetup -->
+<script type="text/javascript">
+/* <![CDATA[ */
+var google_conversion_id = 1012423450;
+var google_conversion_label = "su4XCMby0gUQmrbh4gM";
+var google_custom_params = window.google_tag_params;
+var google_remarketing_only = true;
+/* ]]> */
 </script>
+<!-- Display none div is necessary to avoid a bug. See: http://stackoverflow.com/questions/11939653/google-adwords-remove-iframe-added-by-tracking-conversion-code -->
+<div style="display:none">
+	<script type="text/javascript" src="//www.googleadservices.com/pagead/conversion.js">
+	</script>
+</div>
+<noscript>
+<div style="display:inline;">
+<img height="1" width="1" style="border-style:none;" alt=""
+src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/1012423450/?value=0&amp;label=su4XCMby0gUQmrbh4gM&amp;guid=ON&amp;script=0"/>
+</div>
+</noscript>
+
 
 </div></body></html>
