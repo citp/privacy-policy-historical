@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the thedomesticbuzz.com privacy policy that was archived on 2012-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121223065625id_/http%3A//thedomesticbuzz.com/about-me/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thedomesticbuzz.com privacy policy that was archived on 2013-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130624162340id_/http%3A//thedomesticbuzz.com/about-me/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | The Domestic Buzz
+# Privacy Policy — The Domestic Buzz
 
 **Website Visitors**  
 Like most website operators, I collect non-personally-identifying information of the sort that web browsers and servers typically make available, such as the browser type, language preference, referring site, and the date and time of each visitor request. My purpose in collecting non-personally identifying information is to better understand how visitors use the website. From time to time, I may release non-personally-identifying information in the aggregate, e.g., by publishing a report on trends in the usage of the website.
@@ -20,4 +20,4 @@ I disclose potentially personally-identifying and personally-identifying informa
 A cookie is a string of information that a website stores on a visitor’s computer, and that the visitor’s browser provides to the website each time the visitor returns. I use cookies to help identify and track visitors, their usage of the The Domestic Buzzwebsite, and their website access preferences. The Domestic Buzz visitors who do not wish to have cookies placed on their computers should set their browsers to refuse cookies before using the website, with the drawback that certain features may not function properly without the aid of cookies.
 
 **Privacy Policy Changes**  
-Although most changes are likely to be minor, I may change The Domestic Buzz’s Privacy Policy from time to time, and in my sole discretion. I encourage visitors to frequently check this page for any changes to its Privacy Policy. Your continued use of this site after any change in this Privacy Policy will constitute your acceptance of such change. 
+Although most changes are likely to be minor, I may change The Domestic Buzz’s Privacy Policy from time to time, and in my sole discretion. I encourage visitors to frequently check this page for any changes to its Privacy Policy. Your continued use of this site after any change in this Privacy Policy will constitute your acceptance of such change.
