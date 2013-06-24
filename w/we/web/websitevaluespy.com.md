@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the websitevaluespy.com privacy policy that was archived on 2012-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121128041057id_/http%3A//websitevaluespy.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the websitevaluespy.com privacy policy that was archived on 2013-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130624180104id_/http%3A//websitevaluespy.com/privacy) for the most accurate reproduction.*
 
 # WebsiteValueSpy.com - Privacy Policy
 
