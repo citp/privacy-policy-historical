@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fasterpc.info privacy policy that was archived on 2012-10-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121003005411id_/http%3A//fasterpc.info/Privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fasterpc.info privacy policy that was archived on 2013-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130624074957id_/http%3A//fasterpc.info/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -99,15 +99,3 @@ Privacy Policy Modifications:
 We may change this Privacy Policy from time to time. If/when changes are made to this privacy policy, we will email users who have given us permission to do so. We will post any changes here, so be sure to check back periodically. However, please be assured that if the Privacy Policy changes in the future, we will not use the personal information you have submitted to us under this Privacy Policy in a manner that is materially inconsistent with this Privacy Policy, without your prior consent.
 
 Many Thanks,
-
-Stewart J. Robinson 
-
-www.FasterPC.info  
-www.MakingItOnlineRevealed.com
-
-  
-
-
-* * *
-
-Copyright © 2010-2011 www.FasterPC.info, All Rights Reserved Worldwide
