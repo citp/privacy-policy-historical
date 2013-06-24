@@ -1,8 +1,10 @@
-> *The following text is extracted and transformed from the triathlon.org privacy policy that was archived on 2012-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121222144239id_/http%3A//www.triathlon.org/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the triathlon.org privacy policy that was archived on 2013-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130624042417id_/http%3A//www.triathlon.org/privacy_policy) for the most accurate reproduction.*
 
-# Triathlon.org - International Triathlon Union
+# Privacy Policy | Triathlon.org
 
 ## Privacy Policy
+
+Last edited on 26/12/12 at 3:15 am 
 
 This website, triathlon.org (the “Site”), and all personal information collected from users of this Site, are owned solely by International Triathlon Union. In this Privacy Policy references to “we”, “us”, “our”, are references to International triathlon Union.
 
@@ -52,4 +54,4 @@ If your personal information changes, or if you believe that the personal data w
 
 #### Privacy Support
 
-If you have any enquiry or concern about our privacy policy, please email us at info@triathlon.org 
+If you have any enquiry or concern about our privacy policy, please email us at info@triathlon.org
