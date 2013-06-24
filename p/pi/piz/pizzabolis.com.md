@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pizzabolis.com privacy policy that was archived on 2012-09-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120920043725id_/http%3A//www.pizzabolis.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pizzabolis.com privacy policy that was archived on 2013-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130624024425id_/http%3A//www.pizzabolis.com/privacy_policy.php) for the most accurate reproduction.*
 
 # Pizza Boli's: We Deliver MORE! - Privacy Policy
 
@@ -44,4 +44,4 @@ We reserve the right to modify this policy in the future. If we do so, we will p
 
 Effective: October 1, 2010
 
-©2012 Prosperity System, Inc. All rights reserved.
+©2013 Prosperity System, Inc. All rights reserved.
