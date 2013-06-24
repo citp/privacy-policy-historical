@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the citizensadvice.org.uk privacy policy that was archived on 2012-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121107123025id_/http%3A//www.citizensadvice.org.uk/index/disclaimer_copyright_privacy_cookies/privacy_cookies.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the citizensadvice.org.uk privacy policy that was archived on 2013-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130624023929id_/http%3A//www.citizensadvice.org.uk/index/disclaimer_copyright_privacy_cookies/privacy_cookies.htm) for the most accurate reproduction.*
 
 # Privacy policy and use of cookies
 
@@ -29,19 +29,38 @@ citaStyleJS| Stores user's text size preference.| 1 year
 eprivacy| Stops the banner message about cookies showing on every page. It is only shown on the first three pages visited, or until it is closed.| 1 year  
 NID| Google cookie typically written to the browser upon the loading of Google Plus One social media buttons.| At end of session  
 PREF| Google cookie typically written to the browser upon the loading of Google Plus One social media buttons.| At end of session  
-testSessionCookie| Stores user's login session| 1 year  
+SESSION| Allows a user to login.| At end of session  
+ANONID| Used to store temporary information for shopping baskets or other forms that need to remember information between pages.| At end of session  
+CABinterest| For logged in users this is used to see how different types of users are using our pages.| At end of session  
+CABLogon| Remembers a user's login details so they don't need to login each time.| 1 year  
+CABTagView| Remembers if a user has choosen to view tags as a list or cloud.| 1 year  
   
 *cookie - a bit of information kept on a user's computer.
 
 † For more information: <http://code.google.com/apis/analytics/docs/concepts/gaConceptsCookies.html>
 
-For more on how cookies work and can be managed: [www.allaboutcookies.org](http://www.allaboutcookies.org/)
+### How you can manage or delete cookies
+
+If you don't want to receive cookies, you can change settings in your web browser so that your browser tells you when cookies are sent to it or you can refuse cookies altogether. You can also delete cookies that have already been set.
+
+If you wish to restrict or block web browser cookies, the Help function within your browser should tell you how. Alternatively, these sites can provide more information on how to do this:
+
+  * [www.allaboutcookies.org](http://www.allaboutcookies.org/)
+  * [www.aboutcookies.org](http://www.aboutcookies.org/)
+
+
 
 ## Your personal information
 
-When you provide Citizens Advice with personal information, for example, when using the email alert or volunteer request forms, we take steps to ensure that your information is treated securely. 
+When you provide Citizens Advice with personal information, for example, when using the email alert or volunteer request forms, we take steps to ensure that your information is treated securely. For full details of how we handle your personal information:
 
-Citizens Advice makes every effort to ensure the security and integrity of emails on our systems. Unfortunately, no data transmission over the internet can be guaranteed to be 100% secure. As a result, while we strive to protect your personal information after we’ve received it, Citizens Advice cannot ensure or guarantee the security of information when it is being transmitted.
+  * [Citizens Advice information charter](https://web.archive.org/index/disclaimer_copyright_privacy_cookies/privacy_cookies/information_charter.htm)
+
+
+
+Citizens Advice makes every effort to ensure the 
+
+security and integrity of emails on our systems. Unfortunately, no data transmission over the internet can be guaranteed to be 100% secure. As a result, while we strive to protect your personal information after we’ve received it, Citizens Advice cannot ensure or guarantee the security of information when it is being transmitted.
 
 **Note** : This privacy policy only covers this website www.citizensadvice.org.uk and all pages within it; other websites linked from this website are not covered by this policy. Once you have accessed another website via one of our links you will be subject to the security and privacy policy of that site.
 
