@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the speedwaymotors.com privacy policy that was archived on 2012-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121231133824id_/http%3A//www.speedwaymotors.com/privacypolicy.dlp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the speedwaymotors.com privacy policy that was archived on 2013-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130624141438id_/http%3A//www.speedwaymotors.com/privacypolicy.dlp) for the most accurate reproduction.*
 
 # Privacy and Security Policy - Speedway Motors, America's Oldest Speed Shop
 
