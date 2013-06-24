@@ -1,41 +1,68 @@
-> *The following text is extracted and transformed from the brilliant.org privacy policy that was archived on 2012-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121130044039id_/http%3A//brilliant.org/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the brilliant.org privacy policy that was archived on 2013-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130624232903id_/http%3A//brilliant.org/privacy_policy) for the most accurate reproduction.*
 
-# Brilliant
+# Privacy Policy | Brilliant
 
-### 1\. General
+Alltuition, Inc. (doing business as – “Brilliant”) knows that you care about how your personal information is used and shared, and we take your privacy seriously. Please read the following to learn more about our Privacy Statement. By using the brilliant.org website and any related services and/or features (collectively, the “Service”) you acknowledge that you accept the practices and policies outlined in this Privacy Statement.
 
-By using, accessing or participating in the Service, you agree to the terms of this privacy policy (the “Privacy Policy”). Capitalized terms not defined in this Privacy Policy have the meanings set forth in the Terms and Conditions, located at [brilliant.org/terms-of-use/](https://web.archive.org/terms-of-use/). We reserve the right to change our Privacy Policy at any time. If we do this, we will post a notice that we have made changes to this Privacy Policy on the Website for at least 7 days after the changes are posted and will indicate at the bottom of the Privacy Policy the date these terms were last revised. Any revisions to this Privacy Policy will become effective the earlier of (i) the end of the foregoing 7-day period or (ii) the first time you access or use the Service after any such changes. If you do not agree to abide by this Privacy Policy, you are not authorized to use, access or participate in the Service.
+### What Does This Privacy Statement Cover?
 
-### 2\. Information We Collect
+This Privacy Statement covers Brilliant’s treatment of personally identifiable information ("Personal Information") that Brilliant gathers when you access/use the Service.
 
-When you use the Service you provide us with two types of information: (i) information you submit via the Service and (ii) information regarding your use of the Service collected by us as you interact with the Service.
+### What Personal Information Does Brilliant Collect?
 
-When you enter the Website, we collect your browser type and IP address. This information is gathered for all Website visitors. In addition, we store certain information from your browser using “cookies.” A cookie is a piece of data stored on the user’s computer tied to information about the user. We use session ID cookies to confirm that users are logged in. If you do not want information collected through the use of cookies, there is a simple procedure in most browsers that allows you to deny or accept the cookie feature; however, you should note that cookies may be necessary to provide you certain features (e.g., customized delivery of information) available on the Website.
+Brilliant collects information you voluntarily submit to the Service, such as, the information we collect when you register for an account: your name, email address, school, date of birth, etc. 
 
-Through the registration process you may provide us with your name, email address, hometown, and other information that may be requested during the registration process.
+Information you elect to submit to the Service in a public or quasi-public manner may be disclosed to other users of the Application or the general public (“User Submission(s)”). For example - if you make a post to a message board or chat forum that includes any personal information – such information will be made publicly available. We endeavor to make sure the Service’s functionality puts you on reasonable notice as to the scope of an intended submission.
 
-When you use the Service you may submit information and content to your profile, generate Activity Data through engaging in educational activities on the Service, or send messages and otherwise transmit information to other users. We store this information so that we can provide you the Service and offer personalized features.
+In addition, we may automatically receive and store certain, anonymous types of information whenever you interact with the Service. Such information may include the user's IP address, domain server, and type of Internet browser. This information helps us, among other things, analyze trends and administer the Service. This information is anonymous and contains no personally identifiable data.
 
-### 3\. Use of Information Obtained by Brilliant Scholars
+### What about children?
 
-We may use your contact information to send you notifications regarding new services offered by Alltuition (the sole owner of Brilliant Scholars) and its partners that we think you may find valuable. Alltuition may also send you service-related announcements from time to time through the general operation of the Service. Generally, you may opt out of such emails, although Alltuition reserves the right to send you notices about your account even if you opt out of all voluntary email notifications.
+The safety and privacy of children is extremely important to us. Every Service member must be over 13 years of age. Minors younger than 13 are prohibited from signing up or using the Service in any way. If you receive information that a member is under 13, we require the member to provide evidence of being over 13. If such evidence is not provided in a timely manner, we terminate the user’s account and nullify all personally identifiable information displaying on the site and collected from such user.
 
-Profile information is used by Alltuition primarily to be presented back to and edited by you when you access the Service and to be presented to other users. In some cases, other users may be able to supplement your profile, including by submitting comments.
+### How does Brilliant use the information it collects?
 
-Alltuition may use aggregate or anonymous data collected through the Service, including Activity Data, for any purpose. This data may be used by Alltuition and shared with third parties in any manner.
+  * Provide the Service: Your information will be used primarily to provide you with the Service.
+  * Improve the Service: Your information may be used by us internally to improve the Service and develop new products, services and features.
+  * Other Uses: Your information may also be used by us as set forth in the next section.
 
-### 4\. Sharing Your Personally-Identifiable Information with Third Parties
 
-Alltuition shares your personally-identifiable information only in limited circumstances where Alltuition believes such sharing is reasonably necessary to offer the Service, legally required or, permitted by you. For example:
 
-We may provide personally-identifiable information to service providers who help us bring you the Service, such as hosting the Service at a co-location facility or sending email updates. In connection with these operations, our service providers may have access to personally-identifiable information for use for a limited time. Where we utilize service providers for the processing of any of personally-identifiable information, we implement reasonable contractual protections limiting the use of that personally-identifiable information to the provision of services to Alltuition.
+### Will Brilliant Share Any of the Personal Information it Receives?
 
-We may be required to disclose personally-identifiable information pursuant to lawful requests, such as subpoenas or court orders, or in compliance with applicable laws. Additionally, we may share account or other personally-identifiable information when we believe it is necessary to comply with law, to protect our interests or property, to prevent fraud or other illegal activity perpetrated through the Service or using the Alltuition name, or to prevent imminent harm. This may include sharing personally-identifiable information with other companies, lawyers, agents or government agencies.
+To the limited extent we collect Personal Information – we neither rent nor sell your Personal Information to anyone. We share your Personal Information only as described below.
 
-If the ownership of all or substantially all of the Alltuition business, or individual business units or assets owned by Alltuition that are related to the Service, were to change, your personally-identifiable information may be transferred to the new owner. In any such transfer of information, your personally-identifiable information would remain subject to this section.
+_Foundations:_ Brilliant may disclose your name, contact info, school, and aggregate information about your ability level to educational foundations that are working with Brilliant so such foundations can identify talented individuals, award scholarships and/or grants, and provide mentorship.
 
-### 5\. Links
+_Recipient of User Submissions:_ As mentioned above – your User Submissions may be shared in a public or quasi-public manner.
 
-The Service may contain links to other websites. We are not responsible for the privacy practices of other websites. We encourage users to be aware when they leave the Service to read the privacy statements of other websites that collect personally identifiable information. This Privacy Policy applies solely to information collected by Alltuition via the Service.
+_Service Providers and Agents:_ We employ other companies and people to perform tasks on our behalf. For example, we may decide to use a third party payment processing company to process payments you make through the Service. In addition, parts of the Service may be hosted by a third party on our behalf. Your information may be accessed by such providers/agents, in the event that we need to share your information with them to provide our services or customer support to you. Unless we tell you differently, Brilliant’s agents do not have any right to use Personal Information we share with them beyond what is necessary to assist us.
 
-_Last revised on November 20th, 2012_
+_Business Transfers:_ In some cases, we may choose to buy or sell assets. In these types of transactions, customer information is typically one of the business assets that are transferred. Moreover, if Brilliant, or substantially all of its assets were acquired, or in the unlikely event that Brilliant goes out of business or enters bankruptcy, customer information would be one of the assets that is transferred or acquired by a third party. You acknowledge that such transfers may occur, and that any acquirer of Brilliant may continue to use your Personal Information as set forth in this policy.
+
+_Protection of Brilliant and Others:_ We may release Personal Information when we believe in good faith that release is necessary to comply with the law; enforce or apply our conditions of use and other agreements; or protect the rights, property, or safety of Brilliant, our employees, our users, or others.
+
+_With Your Consent:_ Except as set forth above, you will be notified when your Personal Information may be shared with third parties, and will be able to prevent the sharing of this information.
+
+### Conditions of Use
+
+If you decide to access or use the Service, such access and use and any possible dispute over privacy is subject to this Privacy Statement and our Terms of Use (located on our website), including limitations on damages, disclaimer of warranties, and the application of California state law.
+
+### Third Party Websites/Services
+
+The Site may permit you to link to other websites on the Internet, and other websites may contain links to the Site. These other websites are not under Brilliant control, and such links do not constitute an endorsement by Brilliant of those other websites or the services offered through them. The privacy and security practices of websites linked to or from the Service are not covered by this Privacy Statement, and Brilliant is not responsible for the privacy or security practices or the content of such websites.
+
+### Changes to this Privacy Statement
+
+Brilliant may amend this Privacy Statement from time to time. Use of information we collect now is subject to the Privacy Statement in effect at the time such information is used. If we make changes in the way we use Personal Information, we will notify you by posting an announcement on our website, or via the Service, or sending you an email. Users are bound by any changes to the Privacy Statement when he or she uses the Service after such changes have been first posted.
+
+### Questions or Concerns
+
+If you have any questions or concerns regarding privacy, please send us a detailed message at bradan@brilliant.org. We will make every effort to resolve your concerns.
+
+_Effective Date: May 23, 2013_
+
+Bradan Litzinger  
+120 Hawthorne Ave  
+Palo Alto, CA 94301  
+(650) 468-2966
