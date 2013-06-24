@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the usingwindowshomeserver.com privacy policy that was archived on 2012-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121224105004id_/http%3A//connecteddigitalworld.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the usingwindowshomeserver.com privacy policy that was archived on 2013-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130625000355id_/http%3A//connecteddigitalworld.com/privacy-policy) for the most accurate reproduction.*
 
-# Connected Digital World - Privacy Policy
+# Privacy Policy
 
 **Privacy Policy for connecteddigitalworld.com**
 
