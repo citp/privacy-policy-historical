@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ongfirst.com privacy policy that was archived on 2012-03-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120325200129id_/http%3A//www.ongfirst.com/en/others/privacy-a-security-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ongfirst.com privacy policy that was archived on 2013-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130625005031id_/http%3A//www.ongfirst.com/en/others/privacy-a-security-policy) for the most accurate reproduction.*
 
 # Privacy and Security Policy
 
@@ -36,10 +36,8 @@ We may use your personal information in the following:
 
 In the event that you decided to terminate your relationship with Ong First Tradition, we will still keep and protect the confidentiality of your internal records.
 
-Marketing Promotions
-
-Occasionally,we may collect personal information from visitors to this site and those individuals that participate in a contest or promotion (online or over the telephone). Such information is only collected from individuals who voluntarily provide us with their personal information. We may use this information to advise them of products, services and other marketing materials, which we think, maybe of interest to them. We may also invite visitors to this site to participate in market research and surveys and other similar activities.
-
+**Marketing Promotions**  
+Occasionally,we may collect personal information from visitors to this site and those individuals that participate in a contest or promotion (online or over the telephone). Such information is only collected from individuals who voluntarily provide us with their personal information. We may use this information to advise them of products, services and other marketing materials, which we think, maybe of interest to them. We may also invite visitors to this site to participate in market research and surveys and other similar activities.  
 You can choose to receive marketing and other promotional materials by email. If you do receive email or promotional direct mailings, you will always have an opportunity to opt-out by clicking the ‘unsubscribe’ link in the email.
 
 **Disclosure of Information**
@@ -76,27 +74,20 @@ If there are any inconsistencies or ambiguity in the English meanings of the abo
 
 **Security**
 
-Data Security
+**Data Security**
 
-Downloading
-
-We do not represent or warrant that the Website will be available and meet your requirements, that access will not be interrupted, that there will be no delays, failures, errors or omissions or loss of transmitted information, that no viruses or other contaminating or destructive properties will be transmitted or that no damage will occur to your computer system.
-
+**Downloading**  
+We do not represent or warrant that the Website will be available and meet your requirements, that access will not be interrupted, that there will be no delays, failures, errors or omissions or loss of transmitted information, that no viruses or other contaminating or destructive properties will be transmitted or that no damage will occur to your computer system.  
 You have sole responsibility for adequate protection and back up of data and/or equipment and for undertaking reasonable and appropriate precautions to scan for computer viruses orother destructive properties. We make no representations or warranties regarding the accuracy, functionality or performance of any third party software that may be used in connection with the website.
 
-Hyperlinks from Ong First to Third Party Websites
-
-Ong First  is not responsible for the contents available on or the set-up of any other websites linked to the Website. These hyperlinks lead to websites published or operated by third parties who are not affiliated with or in any way related to Ong First. Access to and use of such other websites is at the user’s own risk and subject to any terms and conditions applicable to such access/use.
-
-By providing hyperlinks to a third party website or webpage, Ong First shall not be deemed to endorse, recommend, approve, guarantee or introduce any third parties or the services/products they provide on their websites, or to have any form of cooperation with such third parties and websites unless otherwise stated by PhillipCapital and/or its member companies.
-
-We are not in any way responsible for the content of any third party website or webpage. Ong First is not a party/parties to any contractual arrangements entered into between you and the provider of the third party website unless otherwise expressly specified or agreed to by Ong First.
-
+**Hyperlinks from Ong First to Third Party Websites**  
+Ong First is not responsible for the contents available on or the set-up of any other websites linked to the Website. These hyperlinks lead to websites published or operated by third parties who are not affiliated with or in any way related to Ong First. Access to and use of such other websites is at the user’s own risk and subject to any terms and conditions applicable to such access/use.  
+By providing hyperlinks to a third party website or webpage, Ong First shall not be deemed to endorse, recommend, approve, guarantee or introduce any third parties or the services/products they provide on their websites, or to have any form of cooperation with such third parties and websites unless otherwise stated by Ong First and/or its member companies.  
+We are not in any way responsible for the content of any third party website or webpage. Ong First is not a party/parties to any contractual arrangements entered into between you and the provider of the third party website unless otherwise expressly specified or agreed to by Ong First.  
 Any links to websites that contain downloadable software are provided for your convenience only. We are not responsible for any difficulties you may encounter in downloading the software or for any consequences from your doing so. Please remember that the use of any software downloaded from the Internet maybe governed by a licence agreement and your failure to observe the terms of such licence agreement may result in an infringement of intellectual property rights of the relevant software provider, which we are not in any way responsible.
 
-Hyperlinks from Third Party Websites to Ong First
-
-You must always obtain the prior written approval of Ong First before creating a hyperlink in any form from a third party website to Ong First website or webpage.  Ong First may or may not give such approval at its absolute discretion.
+**Hyperlinks from Third Party Websites to Ong First**  
+You must always obtain the prior written approval of Ong First before creating a hyperlink in any form from a third party website to Ong First website or webpage. Ong First may or may not give such approval at its absolute discretion.
 
 **Potential Limitations of E-Trading**
 
@@ -110,19 +101,19 @@ If you encounter any problems, please contact Ong First Tradition Pte Ltd‘s 24
 
 Financial Futures (Retail)
 
-Tel     : (+65) 6221 7455
+Tel     : +65 6221 7455
 
 Financial Futures (Institutions)
 
-Tel     : (+65) 6221 3733
+Tel     : +65 6221 3733
 
 Foreign Exchange
 
-Tel     : (+65) 6227 1788
+Tel     : +65 6227 1788
 
 Commodities and Metals
 
-Tel     : (+65) 6372 1708
+Tel     : +65 6372 1708
 
 Kindly note that our endeavour to provide support service is dependent on market’s availability and accessibility.
 
@@ -130,7 +121,7 @@ Safety Tips for E-Trading
 
   * NEVER reveal your password to anyone. Be suspicious of any person/ email asking you to provide sensitive trading account information.
   * If you receive such request from anyone/ emails, do take extra precaution to verify that the source is known to be genuine. Do not reply to the person or the email or click on any hyperlink to verify your information and details.
-  * Act quickly and contact our credit department at (+65) 6228 5561 if you think that your account has been compromised.
+  * Act quickly and contact our credit department at +65 66711833 if you think that your account has been compromised.
   * Do NOT open email attachments from strangers.
   * Delete spam and junk emails.
   * Passwords should be at least 8 alphanumeric characters.
@@ -161,7 +152,7 @@ Should you receive further suspicious emails or suspect that there has been any 
 
 **Prohibited Trading Practices**
 
-At Ong First Tradition Pte Ltd, we always have your interest at heart. While we hope that your trading experience can be as pleasant as possible, we would like to advice you to observe and refrained from practices that are prohibited by law under the Securities and Futures Act (“SFA”):
+At Ong First Tradition Pte Ltd, we always have your interest at heart. While we hope that your trading experience can be as pleasant as possible, we would like to advise you to observe and refrain from practices that are prohibited by law under the Securities and Futures Act (“SFA”):
 
 Section 206 on false trading;
 
@@ -179,25 +170,18 @@ Section 212 Penalties under this Division.
 
 **System Functionalities and Order Management Procedures**
 
-  1. System access requirements;All our E-Trading platforms require users to have a valid user ID and password to login and for some E-Trading trading platforms, user may be required to use an electronic token to pass though second layer of security.
-  2. How to place, modify and withdraw orders; Before commence trading, please ensure that you have been educated by our I.T trainer on the operating of the e-trading platform in placing, modification and withdrawal of orders. Please ensure that you are equipped with the necessary skills and knowledge on operating of the e-trading system. 
-
-You should not attempt to use if you are not trained. 
-
-You are also advised to check on the status of your order after every execution.
-
-  3. Types of trading controls e.g. types of error-prevention alerts and how to interpret system alerts; and Our e-trading platforms are equipped with error-prevention features on maximum quantity per order to alert customers of possible erroneous entries in relation to quantity and price alerts to alert customers of possible erroneous entries in relation to price. 
+  1. System access requirements: All our E-Trading platforms require users to have a valid user ID and password to login.
+  2. How to place, modify and withdraw orders: Before you commence trading, please ensure that you have been educated by our I.T trainer on the operating of the e-trading platform in placing, modification and withdrawal of orders. Please ensure that you are equipped with the necessary skills and knowledge on operating of the e-trading system.   
+You should not attempt to use if you are not trained.  You are also advised to check on the status of your order after every execution.
+  3. Types of trading controls e.g. types of error-prevention alerts and how to interpret system alerts:  Our e-trading platforms are equipped with error-prevention features on maximum quantity per order to alert customers of possible erroneous entries in relation to quantity and price alerts to alert customers of possible erroneous entries in relation to price. 
 
 If you require any assistance on setting up of error-prevention alerts in our e-trading platforms or require more details on the error-prevention alerts in our e-trading platforms, do not hesitate to contact our Technical Support at +65 92312881 (24 hr hotline).
 
-  4. Types of credit controls e.g. types of trading limits and how the trading limits are computed. 
-
-Trading Limits can be in the form of position trading limits and subjected to equity availability. See below examples of how such position trading limits are computed.
+  4. Types of credit controls e.g. types of trading limits and how the trading limits are computed:  Trading Limits can be in the form of position trading limits and subjected to equity availability. 
 
 
 
-
-Kindly contact our Credit Department +65 6228 5561, for more details on the types of trading limits and how the trading limits are computed.
+Kindly contact our Credit Department +65 66711833, for more details on the types of trading limits and how the trading limits are computed.
 
 **Contract specifications**
 
