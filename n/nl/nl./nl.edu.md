@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the nl.edu privacy policy that was archived on 2012-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121223012827id_/http%3A//www.nl.edu/t4/legalpages/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nl.edu privacy policy that was archived on 2013-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130624050419id_/http%3A//www.nl.edu/t4/legalpages/privacypolicy) for the most accurate reproduction.*
 
-# PRIVACY POLICY - National Louis University
+# LEGAL PAGES - PRIVACY POLICY - National Louis University
 
 ### Commitment to Your Privacy
 
