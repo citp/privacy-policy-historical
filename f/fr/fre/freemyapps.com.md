@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the freemyapps.com privacy policy that was archived on 2012-09-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120919220917id_/http%3A//www.freemyapps.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freemyapps.com privacy policy that was archived on 2013-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130624041245id_/http%3A//freemyapps.com/privacy.html) for the most accurate reproduction.*
 
-# FreeMyApps :: Discover Great Apps. Get Rewarded.
+# Free My Apps
 
 Last modified: January 18, 2012
 
