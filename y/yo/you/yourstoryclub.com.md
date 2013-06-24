@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the yourstoryclub.com privacy policy that was archived on 2012-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121223073117id_/http%3A//yourstoryclub.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yourstoryclub.com privacy policy that was archived on 2013-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130624062728id_/http%3A//yourstoryclub.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Publish, Write & Read Short Story : Your Story Club
+# Privacy PolicyYour Story Club
 
 yourstoryclub.com owns and operates this website. We are committed to the privacy and security of our visitors’ information. The following is a statement of our privacy practices:
 
