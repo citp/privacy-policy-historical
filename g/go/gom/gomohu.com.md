@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the gomohu.com privacy policy that was archived on 2012-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121224015117id_/http%3A//www.gomohu.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gomohu.com privacy policy that was archived on 2013-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130624141717id_/http%3A//www.gomohu.com/privacy-policy) for the most accurate reproduction.*
 
-# Go Mohu - Go Mohu
-
-## Privacy Policy
+# Privacy Policy - Mohu
 
 Mohu, Inc. respects each and every one of our customers’ right to privacy. At no time will any personal information given to Mohu (i.e. name, address, phone, email, purchase history, etc.) be sold or transferred to any other party. We have built our reputation on service and taking care of our customers beyond their expectations, and we will continue to provide these levels of service for many years to come.
 
