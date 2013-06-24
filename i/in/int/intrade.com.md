@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the intrade.com privacy policy that was archived on 2012-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121114194345id_/http%3A//www.intrade.com/v4/misc/help/privacyPolicy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the intrade.com privacy policy that was archived on 2013-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130624042746id_/http%3A//www.intrade.com/v4/misc/help/privacyPolicy.jsp) for the most accurate reproduction.*
 
 # Privacy Policy
 
