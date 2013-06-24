@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the geelongadvertiser.com.au privacy policy that was archived on 2012-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121230183111id_/http%3A//www.geelongadvertiser.com.au/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the geelongadvertiser.com.au privacy policy that was archived on 2013-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130624020805id_/http%3A//www.geelongadvertiser.com.au/privacy) for the most accurate reproduction.*
 
 # Privacy | Geelong, VIC, Australia
 
@@ -66,7 +66,6 @@ Whenever you voluntarily disclose personal information over the Internet this in
 
 Please contact our Privacy Officer to ask for access to your information or if you have a complaint concerning your information privacy or if you would like more information about our approach to privacy. 
 
-**Email:** [privacy@geelongadvertiser.com.au](mailto:privacy@geelongadvertiser.com.au)   
-**Telephone:** +61 03 5227 4300  
- **Mail:** Privacy Officer, P.O. Box 91, Geelong VIC 3220  
-
+**Email:** [privacy@news.com.au](mailto:privacy@news.com.au)   
+ **Telephone:** +61 03 5227 4300  
+ **Mail:** Privacy Officer, P.O. Box 91, Geelong VIC 3220
