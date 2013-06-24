@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nikonusa.com privacy policy that was archived on 2012-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121220060327id_/http%3A//www.nikonusa.com/en/About-Nikon/Privacy-Policy.page) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nikonusa.com privacy policy that was archived on 2013-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130624130255id_/http%3A//www.nikonusa.com/en/About-Nikon/Privacy-Policy.page) for the most accurate reproduction.*
 
 # Nikon Privacy Policy
 
@@ -25,11 +25,12 @@ _Effective December 22, 2010_
 ** This privacy policy applies to the following NIKON owned websites:  
 [nikonusa.com](http://www.nikonusa.com/);  
 [support.nikonusa.com](http://support.nikonusa.com/);  
-[ashton.nikonusa.com](http://ashton.nikonusa.com/);  
+[experience.nikonusa.com](http://experience.nikonusa.com/);  
 [nikonpro.com](http://nikonpro.com/);  
 [nikonsportoptics.com](http://nikonsportoptics.com/);  
 [nikonhunting.com](http://nikonhunting.com/);   
 [nikonbirding.com](http://nikonbirding.com/);  
+[nikonusa.com/cinema](http://nikonusa.com/cinema);  
 (collectively "Nikon Owned Websites"). 
 
 **3\. The Information We Collect:**   
