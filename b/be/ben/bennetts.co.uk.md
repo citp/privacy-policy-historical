@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the bennetts.co.uk privacy policy that was archived on 2012-11-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121104072246id_/http%3A//www.bennetts.co.uk/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bennetts.co.uk privacy policy that was archived on 2013-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130624052151id_/http%3A//www.bennetts.co.uk/privacy) for the most accurate reproduction.*
 
-# Privacy Policy | Bennetts | Bennetts -
+# Privacy Policy | Bennetts | Bennetts
 
 ## Bennetts Bike Insurance Privacy & Cookie Policy
 
