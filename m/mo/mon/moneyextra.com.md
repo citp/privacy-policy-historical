@@ -1,57 +1,84 @@
-> *The following text is extracted and transformed from the moneyextra.com privacy policy that was archived on 2006-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061205221303id_/http%3A//www.moneyextra.com/legal/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the moneyextra.com privacy policy that was archived on 2013-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130624134043id_/http%3A//www.moneyextra.com/legal/privacy.php) for the most accurate reproduction.*
 
-# Privacy of your Information - Money extra
+# Privacy Policy - Moneyextra.com
 
-Your privacy is very important to us.
+## Privacy Policy
 
-Accordingly, we have put in place measures to ensure that any personal information or data that we obtain from you in connection with the AWD Moneyextra website ("Website") is processed in accordance with the accepted principles of good information handling.
+Moneyextra.com Limited is a company within Fairpoint Group Plc. We are committed to keeping your information private. This document describes our privacy policy. 
 
-### What data do we hold about you?
+  1. What information do we collect about you?
+  2. How do we use your information?
+  3. Safeguard of information
+  4. Recording of calls
+  5. Identification checks
+  6. Access to your personal information
+  7. Use of cookies
+  8. Other websites
 
-We hold the personal data provided by you during the voluntary registration process to tailor our service to your specific interests and requirements. We also hold the personal data provided by you in relation to certain services on the Website (such as the Portfolio Manager), so that you do not need to re-enter this data when you next require the service. Clearly, the more complete and accurate the personal data we hold about you, the better our service will be.
 
-We only hold your personal data where you have been issued with a personalised user name and password. These are unique to each registered user. You should take great care of them and keep them safe at all times.
 
-### Where is your data stored?
+#### 1\. What information do we collect about you?
 
-AWD Moneyextra is a trading name of AWD Moneyextra Limited, which is the registered data controller of your personal data for the purposes of the Data Protection Act 1998.
+In order to provide you with products and services we need to collect, use, share and store personal and financial information about you. We hold the personal data provided by you during the voluntary registration process to tailor our service to your specific interests and requirements. We also hold the personal data provided by you in relation to certain services on the Website (such as the Portfolio Manager), so that you do not need to re-enter this data when you next require the service. Clearly, the more complete and accurate the personal data we hold about you, the better our service will be.
 
-All personal data provided by you are held securely and in confidence by us in our computerised records. You have a right to inspect the data we hold about you at any time. If you wish to do so, you should write to our Data Protection Officer whose details are set out below. If anything in the data is inaccurate or out-of-date, let us know and we will amend our records.
+We only hold your personal data where you have been issued with a personalised user name and password. These are unique to each registered user. You should take great care of them and keep them safe at all times. We will collect further information if you contact us with comments or specific requests.
 
-### How do we use your data?
+We may also use cookies. For an explanation, see our policy on cookies.
 
-The nature of our service means that from time to time we have to share your personal data with our affiliates who provide the products and services that you request. For instance, if you want to apply for a particular financial product after using the comparison service or simply require more information about it, we will pass your relevant personal data to the product provider in order to fulfil your request.
+#### 2\. How do we use your information?
 
-Occasionally, we may also contact you by phone, e-mail or otherwise to inform you about products and services which may be of interest to you. However, if you prefer to opt out of such direct marketing activity, please either call our Advice Centre on 0845 145 0145, or let us know by any means convenient for you so that we may remove your personal data from our marketing database. However, please remember that by opting out, we will not be able to contact you about products or services that may benefit you.
+We will use your information to provide our services, to prevent and detect fraud, money laundering and other crime, carry out regulatory checks and meet our obligations to any relevant regulatory authority, and to develop and improve our services to you and other customers and protect our interests. The nature of our service means that from time to time we have to share your personal data with our affiliates who provide the products and services that you request. For instance, if you want to apply for a particular financial product after using the comparison service or simply require more information about it, we will pass your relevant personal data to the product provider in order to fulfil your request.
 
-We also extract certain information from your personal data for the purpose of generating statistics for our own internal purposes but it is not possible to identify you from these statistics.
+The cookies information is used to help us understand more about how our website is used and to improve our site.
 
-### What are "cookies" and how do we use them?
+We will retain information about you after the closure of your file for as long as permitted for legal, regulatory, fraud and other financial crime prevention and legitimate business purposes.
 
-We assign an individual number or "cookie" to each registered user of the Website that is saved on your computer. The cookie cannot be read by any other websites and it lasts only for the duration of your visit to our Website.
+We may use your personal information for market research and other marketing purposes, which may include sharing it with other companies within the Fairpoint Group Plc. In order to provide you with products and services this information will be held in our data systems or the data systems of our agents or subcontractors. We would also like to keep you informed of selected products and services available from us and our carefully chosen suppliers. We may do this by post or by phone unless you have told us not to; and by email, text or other electronic means if you have told us that we can or as otherwise allowed by law. If your personal details change or you would prefer to no longer receive this information from us please [email us](mailto:customer%2Eservices%40moneyextra%2Ecom). However, please remember that by opting out, we will not be able to contact you about products or services that may benefit you.
 
-We use cookies to personalise the service we offer to you. For instance, we can store your preferences for certain kinds of information or track your progress through the Website. This helps us to improve our service to you and tells us which areas of the Website are most relevant to you.
+We will keep information about you confidential unless you have consented to its transfer to any other third party, we have a duty to disclose it or law or regulation allows us to do so for legitimate business purposes.
 
-### How do we keep your data secure and confidential?
+#### 3\. Safeguard of information
 
-We use encryption and authentication procedures to protect any sensitive data we hold about you. In addition, all our staff have a responsibility for maintaining user confidentiality. We provide training and education to all our staff to remind them of their obligations, which are fully supported by our internal policies and procedures.
+We regularly review our security standards and procedures to help prevent unauthorised access to personal information, improper use or disclosure, unauthorised modification and unlawful destruction or accidental loss.
 
-We only pass your personal data to third parties where security and confidentiality is assured.
+#### 4\. Recording of calls
 
-### E-mail
+For training purposes, any calls with us may be recorded and may be monitored.
 
-E-mail addresses are required in order to register for some features on the Website. Occasionally, we will send you special e-mail newsletters that may contain the latest financial information or keep you up-to-date with developments on the Website or the services we offer.
+#### 5\. Identification checks
 
-In any e-mail we send, there are instructions that allow you to "unsubscribe" to this service should you not wish to receive e-mails in the future.
+In cases where legislation requires us to carry out an identification check, we will validate your name, address and other personal information supplied by you against an appropriate third party database. You should advise us if you do not consent to such a check being made. In performing these checks personal information provided by you may be disclosed to a registered Credit Reference Agency which may keep a record of that information. The checks are only to confirm your identity. A credit check is not performed and your credit rating will be unaffected. All information provided by you will be treated securely and strictly in accordance with the Data Protection Act 1998.
 
-### Telephone Calls
+#### 6\. Access to your personal information
 
-If you call our Advice Centre, calls may be recorded or monitored for training purposes.
+You have the right to request a copy of the personal information we hold about you and to have any inaccuracies corrected. In accordance with our Data Protection Policy, we charge £10 for all information requests to cover administration costs.
 
-### Transfer of the Website
+Please address requests to:
 
-Notwithstanding anything else that has been agreed or represented (in this Privacy Policy, in the Terms of Use or otherwise) if the Website is transferred to another provider, we may transfer your personal data to the new provider provided the new provider undertakes (in terms which are enforceable by you) to hold it in accordance with the Privacy Policy.
+The Data Protection Officer 
 
-### Contact details
+Fairpoint Group Plc
 
-Our Data Protection Office can be contacted by writing to Mr Ian Francis, Compliance Director, AWD Group plc, Enkalon House, 86/92 Regent Rd, Leicester LE1 7DD
+Fairclough House 
+
+Church Street 
+
+Adlington 
+
+Lancashire
+
+PR7 4EX
+
+#### 7\. Use of Cookies
+
+What Are Cookies?
+
+Cookies are tiny text files stored on your computer when you visit certain web pages. ClearStart uses cookies to improve the performance of our websites to ensure we provide our customers with the best possible web site experience.
+
+The cookies we use can’t harm your computer and we don’t store any personally identifiable information. The information we gather is used to improve the customer experience of the site, for example they are used to determine errors and display relevant content.
+
+For more information about how we use cookies please see our [Cookies Policy](https://web.archive.org/legal/cookie-policy.php) page
+
+#### 8.Other websites
+
+Our website may contain links to other websites. This privacy policy only applies to this website so when you link to other websites, you should read their own privacy policies.
