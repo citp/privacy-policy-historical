@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the zondervan.com privacy policy that was archived on 2012-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121222003730id_/http%3A//zondervan.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zondervan.com privacy policy that was archived on 2013-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130625013415id_/http%3A//zondervan.com/privacy) for the most accurate reproduction.*
 
 # Zondervan
 
@@ -63,7 +63,7 @@ Zondervan uses reasonable administrative, technical, personnel, and physical mea
 
 **ACCESS : HOW TO ACCESS OR CORRECT YOUR PII, OR STOP ALL FUTURE COMMUNICATIONS FROM ZONDERVAN**
 
-You may review PII about you from our records at anytime. If you’d like to know the types of information that Zondervan collects from visitors to its websites, please send your request using our CONTACT US page [LINK TO THE CONTACT US PAGE]. Or write to Zondervan, Attn: Internet Team, 5300 Patterson Avenue SE, Grand Rapids, MI 49530. If you’d like to know whether Zondervan has collected PII about you, please send us the activities that you participated in on our websites which requested PII. After reviewing the relevant databases, we’ll confirm whether we’ve collected such information about you.
+You may review PII about you from our records at anytime. If you’d like to know the types of information that Zondervan collects from visitors to its websites, please send your request using our [CONTACT US](http://zondervan.com/about/contact) page. Or write to Zondervan, Attn: Internet Team, 5300 Patterson Avenue SE, Grand Rapids, MI 49530. If you’d like to know whether Zondervan has collected PII about you, please send us the activities that you participated in on our websites which requested PII. After reviewing the relevant databases, we’ll confirm whether we’ve collected such information about you.
 
 Prior to changing any information about you or stopping to communicate with you, Zondervan requires that you provide proof of your name and address, such as a valid driver’s license. Once we determine that the information provided is satisfactory, we’ll immediately modify the information about you and/or refrain from collecting PII about you and/or communicating with you in the future, if you so request. However, there may be residual information that will remain within our databases that may or may not contain PII. This residual information will not be given to any third party or used for any commercial purpose.  
  
