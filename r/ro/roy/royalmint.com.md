@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the royalmint.com privacy policy that was archived on 2012-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121227112146id_/http%3A//www.royalmint.com/legal-pages/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the royalmint.com privacy policy that was archived on 2013-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130625002057id_/http%3A//www.royalmint.com/legal-pages/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy | The Royal Mint
 
@@ -88,29 +88,21 @@ When you visit our website ([www.royalmint.com](http://www.royalmint.com/)) you 
 
 Some of the partners that may set cookies on royalmint.com include:
 
-**Name**
+Criteo and Struq are organisations that help the Royal Mint to advertise its product. The services operated by Criteo  and Struq use cookies to provide you with personalised advertisements when you visit other selected websites.
 
-| 
+The data contained in these cookies is completely anonymous and doesn’t contain any personal details. 
 
-**What their cookies are used for**  
-  
----|---  
-  
-Criteo
+It’s easy to opt out of these adverts:
 
-| 
+If you no longer wish to be shown personalised banners from Criteo, visit <http://www.criteo.com/us/privacy-policy> and click on the opt- button.
 
-Criteo is an organisation that helps the Royal Mint to advertise its product. The service operated by Criteo uses cookies to provide you with personalised advertisements when you visit other selected websites. 
+If you no longer wish to be shown personalised banners from Struq, visit <http://www.struq.com/cookie_and_privacy_policy/index.php> and click on the turn off button.
 
-The data contained in these cookies is completely anonymous and doesn’t contain any personal details.
-
-If you no longer wish to be shown personalised banners from Criteo, opting out is easy. Visit http://www.criteo.com/us/privacy-policy and click on the opt- button.
-
-Please note that this procedure will block only ads that are displayed by Criteo.      
+Please note that these procedures will block only ads that are displayed by Criteo and Struq.      
 
 For more information about this service and the information collected in this cookie, please visit:  
-<http://www.criteo.com/us/privacy-policy>  
-  
+<http://www.criteo.com/us/privacy-policy> and <http://www.struq.com/cookie_and_privacy_policy/index.php>
+
 ### Flash cookies (or Local Shared Objects)
 
 On royalmint.com we display video content using Adobe Flash Player. Adobe uses Flash cookies (also known as Local Shared Objects) to help improve your experience as a user. Flash cookies are stored on your device in much the same way as usual cookies, but they're managed differently by your browser.
