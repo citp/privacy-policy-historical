@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the worksap.com privacy policy that was archived on 2012-09-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120920131130id_/http%3A//www.worksap.com/sec_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the worksap.com privacy policy that was archived on 2013-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130624063857id_/http%3A//www.worksap.com/sec_policy.html) for the most accurate reproduction.*
 
 # Works Applications IR
 
-[](https://web.archive.org/web/20120920131130id_/http%3A//www.worksap.com/whatsnew.html)  
+[](https://web.archive.org/web/20130624063857id_/http%3A//www.worksap.com/whatsnew.html)  
   
   
   
@@ -19,7 +19,7 @@ Works Application Co., Ltd. ("Works") handles all personal information provided 
 
 **Personal information protection policy**
 
-Please click [here](https://web.archive.org/web/20120920131130id_/http%3A//www.worksap.com/web_policy.html) for information about the personal information protection policy used at Works. 
+Please click [here](https://web.archive.org/web/20130624063857id_/http%3A//www.worksap.com/web_policy.html) for information about the personal information protection policy used at Works. 
 
 **Purposes of using personal information**
 
@@ -83,5 +83,5 @@ Ark Mori Building, 19F, 1-12-32 Akasaka, Minato-ku, Tokyo 107-6019
 e-mail: privacy@worksap.co.jp 
 
   
-[About personal information ](https://web.archive.org/web/20120920131130id_/http%3A//www.worksap.com/web_policy.html)  
+[About personal information ](https://web.archive.org/web/20130624063857id_/http%3A//www.worksap.com/web_policy.html)  
 March 30, 2005
