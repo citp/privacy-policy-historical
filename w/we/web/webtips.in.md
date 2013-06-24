@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the webtips.in privacy policy that was archived on 2012-09-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120915035023id_/http%3A//webtips.in/sample-page) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the webtips.in privacy policy that was archived on 2013-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130624123131id_/http%3A//webtips.in/sample-page) for the most accurate reproduction.*
 
-# WebTips - Webtips is a popular website which provide free tutorials on Website Development, jquery, web design, PHP, mySQL. It also gives free web resources and SEO tips
+# Privacy
 
 If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at deepanker70@gmail.com. 
 
