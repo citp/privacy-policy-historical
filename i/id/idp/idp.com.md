@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the idp.com privacy policy that was archived on 2012-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121231030732id_/http%3A//www.idp.com/welcome-to-idp/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the idp.com privacy policy that was archived on 2013-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130624031024id_/http%3A//www.idp.com/welcome-to-idp/privacy-policy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -48,8 +48,10 @@ If you have any questions about our policy or any complaint regarding the treatm
 
   Corporate Governance  
 IDP Education Pty Ltd  
-Office number 2059, Darling Park  
-L20 201 Sussex Street  
-Sydney NSW 2000
+Level 8  
+535 Bourke Street  
+MELBOURNE 3000  
+Victoria  
+Australia
 
-Email: [jenny.longbottom@idp.com](mailto:jenny.longbottom@idp.com)
+[Melbourne.Reception@idp.com](mailto:Melbourne.Reception@idp.com)
