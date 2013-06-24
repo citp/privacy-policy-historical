@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the trustedhousesitters.com privacy policy that was archived on 2012-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121224104150id_/http%3A//www.trustedhousesitters.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the trustedhousesitters.com privacy policy that was archived on 2013-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130624144407id_/http%3A//www.trustedhousesitters.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | House Sitting & House Sitter Jobs | Dog, Cat & Pet Sitting | TrustedHousesitters.com
 
@@ -42,6 +42,8 @@ Disclosure of your Information: We may only disclose your personal Information t
 
 
 Your rights: You have the right to ask us not to use your Information for ongoing reasons, such as emailing you. Please contact us with your request to unsubscribe from our mailing list or use the unsubscribe link on our marketing emails. We will do our best to process your request within a reasonable time and subject to practical limitations. In particular, back up copies of your Information may exist for a time after receipt of your request.
+
+Email marketing: We agree not to sell, distribute, or otherwise share the information we recevie from the email extension with anyone.   The only exception is that we may share the information with a parent, subsidiary, or third-party vendor solely for the administrative purpose of completing the transaction that the user has specifically requested, and only then if the parent, subsidiary, or vendor also has agreed to abide by this agreement.We clearly communicate to users what information will be collected and how and why it will be used. Our website and any marketing materials clearly communicates to users how they can unsubscribe or opt of receiving further marketing communications from us. 
 
 Third party privacy policies: Our site may, from time to time, contain links to and from the websites of our partner networks, advertisers and affiliates. If you follow a link to any of these websites, please note that these websites have their own privacy policies and that we do not accept any responsibility or liability for these policies. Please check these policies before you submit any Information to these websites.
 
