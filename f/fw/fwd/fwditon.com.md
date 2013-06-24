@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fwditon.com privacy policy that was archived on 2012-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121222173858id_/http%3A//www.fwditon.com/misc/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fwditon.com privacy policy that was archived on 2013-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130624112310id_/http%3A//fwditon.com/misc/privacy) for the most accurate reproduction.*
 
 # FWDitON.com > Privacy Statement
 
