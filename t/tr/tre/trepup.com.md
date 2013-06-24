@@ -1,100 +1,67 @@
-> *The following text is extracted and transformed from the trepup.com privacy policy that was archived on 2011-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111229203604id_/http%3A//www.godaddy.com/agreements/ShowDoc.aspx%3Fpageid%3Dprivacy_parkedpage) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the trepup.com privacy policy that was archived on 2013-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130624081039id_/http%3A//www.trepup.com/Privacy-Policy.aspx) for the most accurate reproduction.*
 
-# Legal Agreement
+# Privacy Policy | TrepUp
 
-**Go Daddy Respects Your Privacy**
+Our policy is to maintain the integrity and relevance of information and give our users the choice to decide who they want to share their information with. While information and content can be made available to the web-at-large through our public option, worded "Everyone", it is important to us that users express their personal choice because they understand their needs and their world best. 
 
-**This Privacy Policy explains our privacy and information gathering practices, such as the types of information we collect and under what circumstances that information is shared.**
+We do not believe in taking away the layers and the context that make every interaction unique. In the next several months we will roll out privacy levers and through TrepUp’s lifetime we shall keep enhancing our features to provide suitable choice-based privacy options that are clear and not hidden in fine print. 
 
-**Please take the time to review the terms of this Policy.   By using this Site, you agree to accept the terms provided.**
+We have a strong commitment to make TrepUp choice-friendly and have high regard for user suggestions, thus we welcome your feedback. If you have any concerns, questions or ideas about how our privacy policy should evolve on TrepUp, please share your thoughts with us and help us create a privacy-respecting environment. 
 
-**Other than as described in this Policy, we will not give any information about you to others without your express permission.**
+This policy contains nine sections and you can jump to each by selecting the links below: 
 
-**Information Collection and Use**
-
-Although this Site is primarily for informational purposes, we may ask you to provide us with your name, email address or other information that could be used to identify you personally.  For example, we may collect this information in the event that you register as a member of this Site, post a comment, sign-up to receive email communications, or submit demographic information as part of a survey.
-
-We receive and store any information you enter on our Site or give us in any other way, including through email, telephone, or other communications. If you contact us for support, we will keep an internal record of our communication with you.
-
-We may use your information to contact you regarding the information and services available on our Site, functionality changes to our Site, and special offers we think you'll find valuable. If you would rather not receive this information, please see the "Updating Your Information" section below on how to change your preferences.
-
-We may also use your information to present a co-branded offer with our partners or affiliates. If we collect information from you in connection with a co-branded offer, it will be clear at the point of collection who is collecting the information and whose privacy statement applies.
-
-We use information gathered about you from our Site statistics (for example, your IP address) to help diagnose problems with our server, and to administer our Site. We also gather broad demographic information from this data to help us improve our Site and make your browsing and purchasing experience more enjoyable. This is not linked to any personally identifiable information, except as necessary to prevent fraud or abuse on our system.
-
-Our Site uses cookies to enhance your experience with our Site.  Cookies are data files that are placed in your browser to keep track of your personal preferences and to facilitate easy navigation through our Site.  We use cookies to identify you so you don't need to log in each time you visit our Site.  You may opt-out of the use of cookies by altering settings on your browser.  Please note, however, that some areas of the Site will be easier to navigate with the use of cookies..
-
-This Site also contains links to other websites. Unfortunately, we are not responsible for the privacy practices or the content of such sites.
-
-**Security**
-
-This Site has security measures in place to protect against the loss, misuse or alteration of the information under our control.
-
-**Updating Your Information**
-
-You may alter your account information or opt out of receiving communications from us and our partners at any time. We have the following options for changing and modifying your account information or contact preferences.
-
-        i.      You may send an email to [support@godaddy.com ](mailto:support@godaddy.com)
-
-       ii.      You may send mail to Go Daddy at the following postal address:   
-               14455 North Hayden Road, Suite 219, Scottsdale, AZ. 85260 USA
-
-      iii.      You may call us at: (480) 505-8800
-
-       iv.      You may fax us at: (480) 505-8844
-
-**Sending Emails**
-
-We use emails to communicate with you and to send information that you have requested.  We also provide email links to allow you to contact us directly. We strive to promptly reply to your messages.
-
-The information you send to us may be stored and used to improve this Site and our products, or it may be reviewed and discarded.
-
-**Compliance with Laws and Law Enforcement**
-
-We cooperate with government and law enforcement officials and private parties to enforce and comply with the law. We will disclose any information about you to government or law enforcement officials or private parties as we, in our sole discretion, believe necessary or appropriate to respond to claims and legal process (including without limitation subpoenas), to protect our property and rights or the property and rights of a third party, to protect the safety of the public or any person, or to prevent or stop activity we consider to be illegal or unethical. We will also share your information to the extent necessary to comply with ICANN's rules, regulations and policies.
-
-**Third Party Service Providers**
-
-We may at times provide information about you to third parties to provide various services on our behalf, such as serving advertisements, conducting contests or surveys, performing analyses of our user demographics, shipping of goods or services, and user relationship management. We will only share information about you that is necessary for the third party to provide the requested service. These companies are prohibited from retaining, sharing, storing or using your personally identifiable information for any secondary purposes.
-
-In the event that we use third party advertising companies to serve ads on our behalf, these companies may employ cookies and action tags (also known as single pixel gift or web beacons) to measure advertising effectiveness. Any information that these third parties collect via cookies and action tags is completely anonymous. If you would like more information about this practice and your choices, click [here. ](http://www.networkadvertising.org/managing/opt_out.asp)
-
-**Supplementation of Information**
-
-In order to provide certain services to you, we may on occasion supplement the personal information you submit to us with information from third party sources ( _e.g.,_ information from our strategic partners, service providers, or the United States Postal Service).  We do this to enhance our ability to serve you, to tailor our products and services to you, and to offer you opportunities to purchase products or services that we believe may be of interest to you.
-
-**Contests/Surveys**
-
-From time-to-time, we may provide you with the opportunity to participate in contests or surveys. If you choose to participate, we may request certain personally identifiable information from you. Participation in these contests or surveys is completely voluntary and you therefore have a choice whether or not to disclose the requested information. The requested information typically includes contact information (such as name and address), and demographic information (such as zip code and age level - note that you must be 18 or above to enter). We use this information to notify contest winners and award prizes, to monitor Site traffic, and to personalize our Site.
-
-We may use a third party service provider to conduct these surveys or contests. When we do, that company will be prohibited from using our users' personally identifiable information for any other purpose. We will not share the personally identifiable information you provide through a contest or survey with other third parties unless we give you prior notice and choice.
-
-**Tell-A-Friend**
-
-If a user elects to use our referral service to inform a friend about our Site, we ask the user for the friend's name and email address. Go Daddy will automatically send the friend a one-time email inviting them to visit our Site. Go Daddy stores this information for the sole purpose of sending this one-time email. The friend may contact Go Daddy at [support@godaddy.com ](mailto:support@godaddy.com)to request the removal of this information from our database.
-
-**What Happens to my Personal Information if I Opt Out?**
-
-If you advise us that you wish to opt out of receiving further communications from us, we will place your personally identifiable information in "deactivated" status on our relevant databases. However, you should know that placement of your information in "deactivated" status does not mean your personally identifiable information has been deleted from our database entirely. We will retain and use your personally identifiable information as necessary in order to comply with our legal obligations, resolve disputes, or enforce our agreements.
-
-**Transfer of Data Abroad**
-
-If you are visiting this Site from a country other than the country in which our servers are located, your communications with us may result in the transfer of information across international boundaries.  By visiting this Site and communicating electronically with us, you consent to such transfers.
-
-**Changes in Our Practices**
-
-We reserve the right to modify this Privacy Policy at any time. If we decide to change our Privacy Policy, we will post those changes to this Privacy Policy and any other places we deem appropriate, so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it.
-
-If we make material changes to this Policy, we will notify you here, by email, or by means of a notice on our home page, at least thirty (30) days prior to the implementation of the changes.
-
-**Contacting Our Site**
-
-If you have any questions about our Privacy Policy, the practices of this Site, or your dealings with this Site, please contact us at:
-
-* * *
-
-Go Daddy   
-ATTN: Web Team   
-14455 North Hayden Rd.   
-Suite 219   
-Scottsdale, AZ, 85260, U.S.A.
+1.   Introduction  
+---  
+1.1  |  **Scope.** This privacy policy covers all of TrepUp. By using or accessing TrepUp, you agree to our privacy practices outlined here. If you have any questions or comments about this privacy policy, please [contact us](https://web.archive.org/web/20130624081039id_/http%3A//www.trepup.com/trepup-contact.aspx).   
+2.   Information Received by Us  
+2.1  |  **Information You Provide to Us.** During registration and thereafter, we give you the choice to provide and update information about yourself and your business. Information about you may include your expertise, years worked, gender, date of birth, hometown, profile picture, work, education and contact information. You can also provide business information such as your mission and value proposition, staff headcount, entity type, sector and industry, trademark, office locations, leadership team and financial information. All such data will be accessible to businesses and people on TrepUp. In the event that you wish that certain information should not be viewed by others, you may select the appropriate settings when editing your profile or may delete the relevant information.   
+2.2  |  **Content.** One of the primary reasons for using TrepUp is to share business content. Examples include when you upload product, service and other innovations on Showcase, post opportunities to find partners, collaborators or investors, post news and events through Newswire to share with the TrepUp community or with your network, upload visual content on Tacks, share links, create groups, send messages or write comments that display on someone’s MyBoard. If you do not want us to store metadata associated with content you share on TrepUp, please remove potentially privacy-compromising metadata from files before they are shared with others using a metadata removal tool.   
+2.3  |  **Importing Contacts.** We offer tools to find coworkers and business contacts on TrepUp. You can import contacts from your email accounts and invite your contacts who do not have TrepUp accounts to join. We will not store the password you give us to retrieve information and will not share your contacts with anybody or email anyone without your consent.   
+2.4  |  **Site Activity Information.** We keep track of the actions you take on TrepUp, such as creating an exhibit on Showcase, sharing an opportunity, posting a job, tacking an image, following businesses and people and adding connections. In some cases, you also take an action when you provide information or content to us. For example, if you share your views and opinions through Echo or a news update on Newswire, in addition to storing the actual content you uploaded, we log the fact that you shared it.   
+2.5  |  **Access Device and Browser Information.** Every time you access TrepUp from a computer or other device, we may collect information from that device about your browser type, location and IP address, as well as the pages you visit.   
+2.6  |  **Cookie Information.** We use "cookies" (small pieces of data we store for an extended period of time on your computer or other device) to make TrepUp easier to use and to protect both you and TrepUp. All such information shall be kept confidential by TrepUp and shall not be shared without your permission. You can remove or block cookies using the settings in your browser, but in certain instances that may impact your ability to use TrepUp.   
+3.    Sharing of Information by You  
+|  This section explains how your privacy settings work and how your information is shared on TrepUp. You should always consider your privacy settings before sharing information on TrepUp to control who can find you or your business when searching on TrepUp or on public search engines.   
+3.1  |  **Name and Profile Picture.** TrepUp is designed to make it easy to find businesses and people and connect with others. For this reason, name and profile picture do not have privacy settings. If you are uncomfortable with sharing a profile picture, you should not upload one.   
+3.2  |  **Contact Information.** Your contact information settings (available when editing your profile) control who can contact you or your business on TrepUp and who can see your contact information such as your email, phone and address. All contact information except for your email address is optional. However, you can set your privacy view to hide your email address from everyone or from those outside your network.   
+3.3  |  **General Information.** Your general information settings (available when editing your profile) control who can see the business and personal information that you choose to add. We recommend that you share this information to maximise the opportunity potential of your relationships on TrepUp.   
+3.4  |  **Posts and Uploads by You.** All your posts and uploads on TrepUp can be shared with everyone, a specific group or multiple groups that you have created. TrepUp enables you to create and label your own groups and associate people you know with those groups to increase the effectiveness of your communication and give you more control over content distribution. However, you should not share, disclose, comment on any topic or in any manner communicate any information for which you are copyright protected or under a non-disclosure agreement or other similar obligation.   
+3.5  |  **Share with "Everyone".** Content and information shared with "Everyone" is publicly available, just like name and profile picture. Such content and information may, for example, be accessed by everyone on the Internet (including people not registered with or logged into TrepUp), be indexed by third-party search engines, and be imported, exported, distributed and redistributed by us and others without privacy limitations. Such content and information may also be associated with you, including name and profile picture, even outside of TrepUp, such as on public search engines and other sites on the Internet. The default privacy setting and share option for certain types of content and information you post on TrepUp is set to "Everyone". You can review and change this default when editing your profile and when you select a share option for content and posts you publish. If you decide to change your privacy settings from "Everyone", then your information from the time of change in settings will be shared with your selected audience only. However, we have no control over this change and the use of already available information outside of TrepUp, as content and posts that have been shared with everyone cannot be removed. You have complete freedom, at all times, to decide who sees your content and posts on TrepUp.   
+3.6  |  **Echo and Newswire Updates.** Your Echo and Newswire posts, by default, can be searched by everyone who is logged on to TrepUp. By keeping your Echo and Newswire posts open to the entire TrepUp community you increase access to your opinions and create awareness for your personal brand and business. You can change the "Everyone" default to keep your Echo and Newswire posts out of search results, including photos and links shared.   
+3.7  |  **Showcase.** All sharing and protection of product, service and other innovations, including images, presentations and other media, are your own responsibility and we encourage you to respect copyright and intellectual property laws with what you share. We do not guarantee the security of innovations that you share on TrepUp through Showcase or otherwise. TrepUp expressly disclaims all liabilities and claims in respect of any copyright violation of any nature.   
+3.8  |  **Tacks.** All photographic content can be shared on Tacks. Supported file types include bmp, gif, jpeg, png and tiff graphic formats in a contact sheet display of images on Tacks. We assume that you take responsibility of the photographic content you upload and that you will not share any sensitive or inappropriate content.   
+4.   Information Shared with Third Parties  
+4.1  |  **Exporting Information.** You (and those you make your information available to) may use tools like RSS feeds, mobile phone address book applications, or copy and paste functions, to capture and export information from TrepUp, including information about you and your business. For example, if you share a phone number, third-party applications may be used to sync that information with the address book on mobile phones.   
+4.2  |  **Links.** When you click on links by users or businesses on TrepUp you may leave our site. We are not responsible for the privacy practices of other sites and we encourage you to read their privacy statements.   
+5.   Use of Your Information  
+|  Keeping with our commitment to quality and a consistent user experience, here are some of the details on how we use the information we collect to provide a safe, efficient and customised experience.   
+5.1  |  **To Manage Our Services.** We use the information we collect to provide our services and features to you, to measure and improve those services and features, and to provide you with customer support. We use a variety of technological tools to detect and prevent potential misuse of your profile page and your information, prevent circulation of spam, misleading advertisements and products and services, detect messages which are a possible hazard to our systems, and generally put a check on any illegal activities. Your support is equally valuable to us to help us achieve the above purposes. In the event we find, or are of the opinion that any or all of such activities are being carried out using your account, we may temporarily suspend your account and intimate the same to you.   
+5.2  |  **To Contact You.** If you are a registered user of TrepUp, we may contact you with service-related announcements from time to time to introduce and promote new developments, features, products and services of TrepUp. We primarily will notify you via a MyBoard update for this type of information. If you send us a support email or some feedback, we reserve the right to publish it on our website to clarify the point and help support other users.   
+5.3  |  **To Make Suggestions.** We use your information, including the addresses that you import through our contact importers, to make suggestions to you and other users on TrepUp. For example, if another user imports the same email address as you do, we may suggest that you connect with each other. We may also suggest that you use certain tools and features based on what your connections have used.   
+5.4  |  **To Help Your Contacts Find You.** We allow other users to use contact information they have about you, such as your email address, to find you, including through contact importers, recommending tools and search. You can prevent other users from using your email address to find you when editing your profile.   
+5.5  |  **Downloadable Software.** Certain downloadable software applications and applets that we may offer, such as our browser toolbars and photo uploaders, transmit data to us. We may not make a formal disclosure if we believe our collection of and use of the information is the obvious purpose of the application. If we believe it is not obvious that we are collecting or using such information, we will make a disclosure to you the first time you provide the information to us so that you can decide whether you want to use that feature.   
+5.6  |  **Memorialising Accounts.** If we are notified that a user is deceased, we may memorialise the user’s account. In such cases we restrict profile access to confirmed connections. We may close an account if we receive a formal request from the user’s next of kin or other proper legal request to do so.   
+6.   Sharing of Your Information  
+|  TrepUp promotes opportunities and business growth through open information exchange, community-inspired innovation and effective communication. While we provide privacy settings that you can use to restrict other users from accessing some of your information, we share your information with third parties when we believe that the sharing is reasonably necessary to offer our services or when legally required to do so. For example:   
+6.1  |  **When You Invite Contacts.** When you ask us to invite one of your contacts to join TrepUp, we will send them a message on your behalf using your name. The invitation message may contain information about other users they may know. We will send one reminder to them in your name. If your contact does not want us to keep their information, we will remove it at their request.   
+6.2  |  **When You Choose to Share Your Information with Marketers.** You may choose to share information with marketers or electronic commerce providers that are not associated with TrepUp. This is entirely at your discretion. We will not provide your information to marketers without your consent.   
+6.3  |  **To Help Search for Businesses and People.** By default, we make certain information you have posted to your profile available in search results on TrepUp to help the person conducting the search find businesses and people in any industry or global location. You can control who can see some of this information when editing your profile.   
+6.4  |  **To Provide Search Engine Access to Publicly Available Information.** We generally limit search engines’ access to our site. We may allow them to access information set to the "Everyone" default and your profile information that is visible to all. You can change the visibility of some of your profile information when editing your profile. You can also prevent search engines from indexing your profile by restricting visibility of some information when editing your profile.   
+6.5  |  **To Improve or Promote Our Services.** Sometimes we share aggregated information with third parties to help improve or promote our services. But we only do so in such a way that no business or individual user can be identified or linked to any specific action or information.   
+6.6  |  **To Provide Services.** We may provide information to service providers that help us bring you the services we offer. For example, we may use third parties to help host our website, send out email updates about TrepUp, remove repetitive information from our user lists, or provide search results or links. These service providers may have access to your information, but when this occurs we implement contractual and technical protections to limit their use of that information.   
+6.7  |  **To Advertise Our Services.** We may ask advertisers outside of TrepUp to display ads promoting our services. We may ask them to deliver those ads based on the presence of a cookie, but in doing so will not share any other information with the advertiser.   
+6.8  |  **To Respond to Legal Requests and Prevent Fraud.** We may disclose information pursuant to subpoenas, court orders or other requests (including criminal and civil matters) if we have a good faith belief that the response is required by law. This may include respecting requests from jurisdictions where we have a good faith belief that the response is required by law under the local laws in that jurisdiction and is consistent with generally accepted international standards. We may also share information when we have a good faith belief it is necessary to prevent fraud or other illegal activity, to prevent imminent bodily harm or to protect ourselves and your business. This may include sharing information with other businesses, advocates, courts or other government bodies.   
+6.9  |  **In the Event of Sale or Change of Control.** If the ownership of all or substantially all of our business changes, we may transfer your information to the new owner so that the service can continue to deliver the promised benefits. In such a case, your information would remain subject to the promises made in any pre-existing privacy policy.   
+7.   Amendments or Removal of Your Information  
+7.1  |  **Editing Your Information.** You may change or remove your profile information at any time. Such changes will be updated immediately.   
+7.2  |  **Removal of Sensitive Content.** In the event of TrepUp being informed that the content you have shared on our website is inappropriate, we will delete your content at our discretion and will send you a message informing you of the action taken. In case of repeated sharing of sensitive content by you, we may deactivate your account without prior notice.   
+7.3  |  **Deactivating Your Account.** If you wish to stop using your account you may deactivate it. If you deactivate your account, no user will be able to see it, but it will not be deleted. We save your profile information in our database for about 18 months. At no point of time will such information or any part thereof be available to third parties without your consent. You may deactivate your account from your account settings page.   
+7.4  |  **Limitations on Removal.** Even after you remove information from your profile or deactivate your account, copies of that information may remain viewable elsewhere to the extent it has been shared with others and distributed pursuant to your privacy settings or copied and stored by other users. If you have given third-party applications or websites access to your information, they may retain the information to the extent permitted under their terms of service or privacy policies but they will not be able to access the information through TrepUp.   
+8.   Information Protection  
+8.1  |  **Steps We Take to Keep Information Secure.** We keep your account information on a secured server behind a firewall. When you enter sensitive information (such as a password), we encrypt that information using secure socket layer technology. We also use automated measures to enhance security, such as analysing account activity for fraudulent or anomalous behaviour, limiting use of site features in response to signs of abuse, removing inappropriate content or links to illegal content and suspending or disabling accounts for any security violations.   
+8.2  |  **Risks Inherent in Sharing Information.** Although we allow you to set privacy options that limit access to your information, please be aware that no security measures are perfect or impenetrable. We cannot control the actions of other users with whom you share your information. We cannot guarantee that only authorised persons will view your information. We cannot ensure that information you share on TrepUp will not become publicly available. We are not responsible for third party circumvention of any privacy settings or security measures on TrepUp. You can reduce these risks by using common sense security practices such as choosing a strong password, using different passwords for different services and using current antivirus software.   
+8.3  |  **Report Violations.** You should report any security violations to us immediately.   
+9.   Consent  
+9.1  |  **Changes.** Unless stated otherwise, our current Privacy Policy applies to all information that we have about you and your account. We may revise this Privacy Policy from time to time. The most current version of the policy will govern our use of your information. If we make a change to this policy that, in our sole discretion, is material, we will notify you via a MyBoard update or email to the email address associated with your account. By continuing to access or use TrepUp after those changes become effective, you agree to be bound by the revised Privacy Policy.   
+9.2  |  **Consent.** By using TrepUp, you irrevocably agree that you have read and understood this Privacy Policy. You additionally consent that any information you provide may be stored on systems that may be located in any country where our hosting provider is located.   
+9.3  |  **Defined Terms.** "Us", "we", "our", "TrepUp" mean the same. "Information" and "content" are used generally and interchangeably unless otherwise specified by the context. 
