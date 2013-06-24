@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gjsentinel.com privacy policy that was archived on 2012-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121224002524id_/http%3A//www.gjsentinel.com/help/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gjsentinel.com privacy policy that was archived on 2013-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130624073320id_/http%3A//www.gjsentinel.com/help/privacy_policy) for the most accurate reproduction.*
 
 # GJSentinel.com
 
