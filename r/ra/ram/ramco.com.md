@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the ramco.com privacy policy that was archived on 2012-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121016013307id_/http%3A//www.ramco.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ramco.com privacy policy that was archived on 2013-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130624043118id_/http%3A//www.ramco.com/privacy.aspx) for the most accurate reproduction.*
 
-# Ramco Systems > Privacy Policy
+# Privacy Policy from Ramco
 
 Ramco understands that privacy is an important concern of visitors to our website located at www.ramco.com. This Privacy Policy is intended to inform you of our policies and practices regarding the collection, use and disclosure of any information you submit to us through our website or we collect as a result of your visit to our website so you can obtain the level of privacy you prefer.
 
