@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the monsanto.com privacy policy that was archived on 2012-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121205051317id_/http%3A//www.monsanto.com/privacy-policy/Pages/default.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the monsanto.com privacy policy that was archived on 2013-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130624194253id_/http%3A//www.monsanto.com/privacy-policy/Pages/default.aspx) for the most accurate reproduction.*
 
-# Monsanto ~ Monsanto Privacy Policy
+# Monsanto | Monsanto Privacy Policy
 
 Monsanto Company values the privacy of individuals who visit the web sites which are operated throughout the world by Monsanto or its subsidiaries and adheres to the privacy standards which have been adopted by the countries in which Monsanto companies operate. This statement sets forth the important information which individuals who visit these sites need to know about how Monsanto companies collect and use personal information from web site visitors.
 
@@ -44,7 +44,7 @@ Also, you should know that your **Personal Information** , as well as **Visit In
 **Sharing and Disclosure of Your Information**   
 Monsanto may share Personal Information with others for a number of purposes: 
 
-  * We may provide contact information to our trade partners, advertisers and other interested parties so that they may contact you directly to furnish you information about their products and services. (As used in this Policy, " **Trade Partners** " means businesses not owned or operated by Monsanto but which provide compatible goods or services which may be desired by or potentially useful for visitors to the Monsanto web sites.) (See ["Opting In / Opting Out"](http://wwwt-new.monsanto.com/privacy_policy/english.asp#opting) below if you do not wish to receive such materials from Trade Partners.) 
+  * We may provide contact information to our trade partners, advertisers and other interested parties so that they may contact you directly to furnish you information about their products and services. (As used in this Policy, " **Trade Partners** " means businesses not owned or operated by Monsanto but which provide compatible goods or services which may be desired by or potentially useful for visitors to the Monsanto web sites.) (See "Opting In / Opting Out" below if you do not wish to receive such materials from Trade Partners.) 
   * We will provide aggregated data about products and services purchased, visitor interests, demographics and other information collected from our web site to our Trade Partners, advertisers and other interested parties so that they can learn what products and services are most popular to our customers. Aggregated data will be in anonymous group statistical form and not associated with any individual person. 
   * We may use a credit card processing company to bill web site visitors for products and services which they request. 
   * We may partner with other parties to provide specific services. When the user signs up for these services, we will share names or other contact information that is necessary for the third parties to provide these services. These parties will not be allowed to use personally identifiable information except for the purpose of providing these services. 
