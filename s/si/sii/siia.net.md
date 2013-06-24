@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the siia.net privacy policy that was archived on 2012-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121130085847id_/http%3A//www.siia.net/index.php%3Foption%3Dcom_content%26view%3Darticle%26id%3D48%26Itemid%3D21) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the siia.net privacy policy that was archived on 2013-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130624024506id_/http%3A//siia.net/index.php%3Foption%3Dcom_content%26view%3Darticle%26id%3D48%26Itemid%3D21) for the most accurate reproduction.*
 
 # Privacy Policy - SIIA: Software & Information Industry Association
 
