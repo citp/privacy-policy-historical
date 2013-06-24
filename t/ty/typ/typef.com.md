@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the typef.com privacy policy that was archived on 2012-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121222144134id_/http%3A//www.typef.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the typef.com privacy policy that was archived on 2013-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130624043417id_/http%3A//www.typef.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | typeF.com
 
@@ -42,6 +42,8 @@ We may also share your personally identifiable information in the following inst
 
 
 Retention of Information. We retain information for as long as required, allowed or we believe it useful, but do not undertake retention obligations. We may dispose of information in our discretion without notice, subject to applicable law that specifically requires the handling or retention of information. You must keep your own, separate back-up records.
+
+Click here to adjust your advertising preferences
 
   * Our Security Measures. We have physical, electronic, and managerial procedures to help safeguard your information. However, neither people nor security systems are foolproof, including encryption systems. Therefore, while we use reasonable efforts to protect your personally identifiable information, we cannot guarantee its absolute security. If applicable law imposes any non-disclaimable duty to protect your personally identifiable information, you agree that intentional misconduct will be the standards used to measure our compliance with that duty. 
   * Your Obligations. You must protect against unauthorized access to your password and to your computer. Please sign off when finished using a shared computer. We will not ask for passwords in an email and you should assume that if you get such a request, it might be fraudulent. YOU MUST DO WHAT YOU REASONABLY CAN TO ENSURE THE SECURITY OF YOUR PERSONAL INFORMATION. 
