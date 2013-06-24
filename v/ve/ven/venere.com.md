@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the venere.com privacy policy that was archived on 2012-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121224004837id_/http%3A//www.venere.com/privacy/%3Flg%3Den) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the venere.com privacy policy that was archived on 2013-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130624125445id_/http%3A//www.venere.com/privacy/%3Flg%3Den) for the most accurate reproduction.*
 
 # 
 
