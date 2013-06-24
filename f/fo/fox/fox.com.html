@@ -1,12 +1,12 @@
-<!--The following is the downloaded HTML source of the fox.com privacy policy that was archived on 2012-06-06.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120606160624id_/http%3A//www.fox.com/policy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the fox.com privacy policy that was archived on 2013-06-24.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130624080212id_/http%3A//www.fox.com/policy.php) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xmlns:tp="http://player.theplatform.com/" xmlns:og="http://ogp.me/ns#" xmlns:fb="http://www.facebook.com/2008/fbml"><head>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html itemscope="" itemtype="http://schema.org/Article" xmlns="http://www.w3.org/1999/xhtml" xmlns:tp="http://player.theplatform.com/" xmlns:og="http://ogp.me/ns#" xmlns:fb="http://www.facebook.com/2008/fbml"><head>
 		<title>FOX Broadcasting Company - FOX Network Sites Terms of Use</title>
 
 	<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 	<meta http-equiv="X-UA-Compatible" content="IE=Edge">
-	<meta name="tp:preferredRuntimes" content="Flash,HTML5"> 
+	<meta name="tp:preferredRuntimes" content="Flash,HTML5">
 	<meta name="tp:preferredFormats" content="flv,M3U,mpeg4,webm,ogg">
 	<meta name="robots" content="">
 	     <link rel="stylesheet" type="text/css" href="/_ui/css/combinedcss-global.php" media="all">
@@ -14,25 +14,46 @@
 								<!--[if IE]>
 					<link rel="stylesheet" type="text/css" href="/_ui/css/ie7.css" media="screen" />
 				<![endif]-->
-						<script type="text/javascript">
+				<script src="/_ui/js/mbox.js"></script><style>.mboxDefault { visibility:hidden; }</style><!-- Audience Manager Integration -->		<script type="text/javascript">
 		if(typeof FBCFOX == 'undefined'){
 			FBCFOX = {};
 		}
 		if(!FBCFOX.Ads){
 			FBCFOX.Ads = {
-				rnum: Math.random() * 1000000000000000000
+				rnum: Math.random() * 1000000000000000000,
+				
+				convertSiteSectionIdForIos: function (ssid) {
+					ssid = ssid.replace('site', 'mobile');
+					ssid = ssid.replace('clips', 'videos');
+
+					if (ssid.indexOf('_mobile') === -1) {
+						ssid += '_mobile';
+					}
+					
+					return ssid;
+				}
 			};
 		}
 		var rnum = FBCFOX.Ads.rnum; //DEPRECATED!
 
-                
+        
+		var is_ios = (/\b(iPad|iPhone|iPod)\b/.test(navigator.userAgent)
+			|| location.hash.indexOf('isIOS') !== -1);
+		if (is_ios) {
+			FBCFOX.Ads.csid = FBCFOX.Ads.convertSiteSectionIdForIos(FBCFOX.Ads.csid);
+		}
+		
 		</script>
-			
-</head>
+			<script type="text/javascript" src="/foresee/foresee-trigger.js"></script>
+    <script src="/_ui/js/mbox.js"></script><!-- Audience Manager Integration -->
+    <script src="//foxnet.demdex.net/event?d_stuff=1&amp;d_dst=1&amp;d_rtbd=json&amp;d_cts=1&amp;d_cb=aam_tnt_cb"></script>
+<script type="text/javascript" src="/foresee/foresee-surveydef.js"></script></head>
 
 <body class="policy">
-
-<div id="mainWrapper">
+<div class="mboxDefault" style="visibility: visible; display: block;"></div>
+<script type="text/javascript">
+    mboxCreate('fox_global_top', 'pageName=fox:policy:home');
+</script><div id="mboxMarker-default-fox_global_top-0" style="visibility:hidden;display:none">&nbsp;</div><script src="https://foxnetworks.tt.omtrdc.net/m2/foxnetworks/mbox/standard?mboxHost=web.archive.org&amp;mboxSession=1580412656565-957040&amp;mboxPage=1580412665397-298489&amp;screenHeight=600&amp;screenWidth=800&amp;browserWidth=1366&amp;browserHeight=768&amp;browserTimeOffset=0&amp;colorDepth=24&amp;mboxXDomain=enabled&amp;mboxCount=1&amp;pageName=fox%3Apolicy%3Ahome&amp;mbox=fox_global_top&amp;mboxId=0&amp;mboxTime=1580412665473&amp;mboxURL=https%3A%2F%2Fweb.archive.org%2Fweb%2F20130624080212id_%2Fhttp%253A%2F%2Fwww.fox.com%2Fpolicy.php&amp;mboxReferrer=&amp;mboxVersion=41" language="JavaScript"></script><div id="mainWrapper">
 	
 
 <div id="header">
@@ -47,43 +68,39 @@
 						
 							<div class="episodesList menuDropContentTop">
 								<ul>
-<li><a href="http://www.fox.com/alcatraz">Alcatraz</a></li>
-									<li><a href="http://www.amw.com">America's Most Wanted</a></li>
+<li><a href="/almost-human">Almost Human</a></li>
 									<li><a href="http://www.fox.com/americandad">American Dad</a></li>
 									<li><a href="http://americanidol.com">American Idol</a></li>
-									<li><a href="http://www.fox.com/ben-and-kate/">Ben and Kate</a></li>
 									<li><a href="http://www.fox.com/bobsburgers">Bob's Burgers</a></li>
 									<li><a href="http://www.fox.com/bones">Bones</a></li>
-									<li><a href="http://www.fox.com/breakingin">Breaking In</a></li>
-									<li><a href="http://www.fox.com/the-choice">The Choice</a></li>
-								</ul>
-<ul>
-<li><a href="http://www.fox.com/cleveland">The Cleveland Show</a></li>
+									<li><a href="/brooklyn-nine-nine">Brooklyn Nine Nine</a></li>
+									<li><a href="http://www.fox.com/cleveland">The Cleveland Show</a></li>
 									<li><a href="http://www.cops.com">Cops</a></li>
-									<li><a href="http://www.fox.com/familyguy">Family Guy</a></li>
-									<li><a href="http://www.fox.com/the-finder">The Finder</a></li>
-									<li><a href="/25th-anniversary">FOX 25th Anniversary Special</a></li>
-									<li><a href="http://www.fox.com/fringe">Fringe</a></li>
-									<li><a href="http://www.fox.com/glee">Glee</a></li>
-									<li><a href="http://www.fox.com/hellskitchen">Hell's Kitchen</a></li>
 								</ul>
 <ul>
-<li><a href="http://www.fox.com/house">House</a></li>
-									<li><a href="http://www.fox.com/i-hate-my-teenage-daughter">I Hate My Teenage Daughter</a></li>
+<li><a href="/dads">Dads</a></li>
+									<li><a href="http://www.fox.com/does-someone-have-to-go">Does Someone Have To Go</a></li>
+									<li><a href="/enlisted">Enlisted</a></li>
+									<li><a href="http://www.fox.com/familyguy">Family Guy</a></li>
+									<li><a href="http://www.fox.com/the-following">The Following</a></li>
+									<li><a href="/programming">FOX Fall Schedule</a></li>
+									<li><a href="http://www.fox.com/fringe">Fringe</a></li>
+								</ul>
+<ul>
+<li><a href="http://www.fox.com/glee">Glee</a></li>
+									<li><a href="http://www.fox.com/the-goodwin-games">The Goodwin Games</a></li>
+									<li><a href="http://www.fox.com/hellskitchen">Hell's Kitchen</a></li>
+									<li><a href="/hotel-hell">Hotel Hell</a></li>
 									<li><a href="http://www.fox.com/kitchennightmares">Kitchen Nightmares</a></li>
 									<li><a href="http://www.fox.com/masterchef">MasterChef</a></li>
 									<li><a href="http://www.fox.com/the-mindy-project/">The Mindy Project</a></li>
-									<li><a href="http://www.fox.com/the-mob-doctor/">The Mob Doctor</a></li>
-									<li><a href="http://www.fox.com/mobbed">Mobbed</a></li>
-									<li><a href="http://www.fox.com/napoleon-dynamite">Napoleon Dynamite</a></li>
 								</ul>
 <ul class="last">
 <li><a href="http://www.fox.com/new-girl">New Girl</a></li>
-									<li><a href="/qviva-the-chosen">Q'Viva: The Chosen</a></li>
 									<li><a href="http://www.fox.com/raisinghope">Raising Hope</a></li>
 									<li><a href="http://www.thesimpsons.com">The Simpsons</a></li>
+									<li><a href="/sleepy-hollow">Sleepy Hollow</a></li>
 									<li><a href="http://www.fox.com/dance">So You Think You Can Dance</a></li>
-									<li><a href="/take-me-out">Take Me Out</a></li>
 									<li><a href="http://www.fox.com/touch">Touch</a></li>
 									<li><a href="http://www.fox.com/thexfactor">The X Factor</a></li>
 								</ul>
@@ -93,24 +110,20 @@
   <h2></h2>
   <ul>
 <li>
-	  <h3><a href="/the-choice"><img src="/the-choice/_ugc/images/choice_132x72.jpg" class="border" alt="New Shows" width="132" height="72"><span class="series">The Choice</span></a></h3>
-	  <p>SERIES PREMIERE Thur 9/8c Jun 7</p>
+	  <h3><a href="/the-goodwin-games"><img src="/the-goodwin-games/_ugc/images/GoodwinGames_ShowNav_Dropdown_132x72.jpg" class="border" alt="New Shows" width="132" height="72"><span class="series">The Goodwin Games</span></a></h3>
+	  <p>ALL-NEW  MON 8:30/7:30c</p>
 	</li>
 <li>
-	  <h3><a href="/hellskitchen"><img src="/_ugc/images/hk_s10thumbpromo_132x72.jpg" class="border" alt="New Shows" width="132" height="72"><span class="series">Hell's Kitchen</span></a></h3>
-	  <p>ALL-NEW MON &amp; TUE 8/7c</p>
+	  <h3><a href="/hellskitchen"><img src="/_ugc/images/Hk11_ShowNav_Dropdown_132x72.jpg" class="border" alt="New Shows" width="132" height="72"><span class="series">Hell's Kitchen</span></a></h3>
+	  <p>ALL-NEW THU 8/7c </p>
 	</li>
 <li>
-	  <h3><a href="/masterchef"><img src="/masterchef/_ugc/images/mc_132x72.jpg" class="border" alt="New Shows" width="132" height="72"><span class="series">MasterChef</span></a></h3>
-	  <p>ALL-NEW MON &amp; TUE 9/8c</p>
-	</li>
-<li>
-	  <h3><a href="/dance"><img src="/dance/_ugc/images/SYTYCD_132x72_r1_LRR.jpg" class="border" alt="New Shows" width="132" height="72"><span class="series">So You Think You Can Dance</span></a></h3>
-	  <p>ALL-NEW WED 8/7c</p>
+	  <h3><a href="/masterchef"><img src="/masterchef/_ugc/images/MC_Season4_ShowNav_Dropdown_132x72.jpg" class="border" alt="New Shows" width="132" height="72"><span class="series">MasterChef</span></a></h3>
+	  <p>ALL-NEW WED 8/7c </p>
 	</li>
 <li class="last">
-	  <h3><a href="/take-me-out"><img src="/_ugc/images/TMO_thumbpromo132x72.jpg" class="border" alt="New Shows" width="132" height="72"><span class="series">Take Me Out</span></a></h3>
-	  <p>SERIES PREMIERE THU 8/7 JUN 7</p>
+	  <h3><a href="/dance"><img src="/dance/_ugc/images/S10_Dance_132x72.jpg" class="border" alt="New Shows" width="132" height="72"><span class="series">So You Think You Can Dance</span></a></h3>
+	  <p>ALL-NEW TUE 8/7c</p>
 	</li>
 </ul>
 </div>
@@ -131,56 +144,52 @@
 	  <h2>Latest Full Episodes</h2>
 	  <ul>
 <li>
-		  <h3><a href="/hellskitchen/full-episodes"><span class="btnVideo padlock"></span><img src="http://static-media.fox.com/img/Fox.com/21/861/HellsKitchen_YNC102_2500_640x360_21857582.jpg" class="border" alt="Full Episodes" width="132"><span class="title">Hell's Kitchen</span></a></h3>
-		  <p>ALL-NEW MON &amp; TUE 8/7c</p>
+		  <h3><a href="/the-following/full-episodes"><span class="btnVideo"></span><img src="http://static-media.fox.com/img/Fox.com/821/670/TheFollowing_FOL104_2500_640x360_18078275518.jpg" class="border" alt="Full Episodes" width="132"><span class="title">The Following</span></a></h3>
+		  <p>FRI 9/8c MAY 31</p>
 		</li>
 <li>
-		  <h3><a href="/masterchef/full-episodes"><span class="btnVideo padlock"></span><img src="http://static-media.fox.com/img/Fox.com/21/840/MasterChef_YGU302_2500_640x360_21856190.jpg" class="border" alt="Full Episodes" width="132"><span class="title">MasterChef</span></a></h3>
-		  <p>ALL-NEW MON &amp; TUE 9/8c</p>
+		  <h3><a href="/bones/full-episodes"><span class="btnVideo"></span><img src="http://static-media.fox.com/img/Fox.com/805/207/Bones_8AKY08_2500_640x360_16560195900.jpg" class="border" alt="Full Episodes" width="132"><span class="title">Bones</span></a></h3>
+		  <p>FRI 8/7c</p>
 		</li>
 <li>
-		  <h3><a href="/masterchef/full-episodes"><span class="btnVideo padlock"></span><img src="http://static-media.fox.com/img/Fox.com/21/840/MasterChef_YGU301_2500_640x360_21855818.jpg" class="border" alt="Full Episodes" width="132"><span class="title">MasterChef</span></a></h3>
-		  <p>ALL-NEW MON &amp; TUE 9/8c</p>
+		  <h3><a href="/does-someone-have-to-go/full-episodes"><span class="btnVideo padlock"></span><img src="http://static-media.fox.com/img/Fox.com/385/995/DoesSomeoneHaveToGo_GO105_2500_640x360_34189891901.jpg" class="border" alt="Full Episodes" width="132"><span class="title">Does Someone Have To Go</span></a></h3>
+		  <p>ALL-NEW THU 9/8c</p>
 		</li>
 <li>
-		  <h3><a href="/hellskitchen/full-episodes"><span class="btnVideo padlock"></span><img src="http://static-media.fox.com/img/Fox.com/21/724/HellsKitchen_YNC101_2500_640x360_21854890.jpg" class="border" alt="Full Episodes" width="132"><span class="title">Hell's Kitchen</span></a></h3>
-		  <p>ALL-NEW MON &amp; TUE 8/7c</p>
+		  <h3><a href="/hellskitchen/full-episodes"><span class="btnVideo padlock"></span><img src="http://static-media.fox.com/img/Fox.com/22/707/HellsKitchen_YNC217_2500_640x360_34188867922.jpg" class="border" alt="Full Episodes" width="132"><span class="title">Hell's Kitchen</span></a></h3>
+		  <p>ALL-NEW THU 8/7c</p>
 		</li>
 <li class="last">
-		  <h3><a href="/familyguy/full-episodes"><span class="btnVideo"></span><img src="http://static-media.fox.com/img/Fox.com/3/463/FamilyGuy_9ACX02_2500_640x360_2576965.jpg" class="border" alt="Full Episodes" width="132"><span class="title">Family Guy</span></a></h3>
-		  <p>SUN 9/8c</p>
+		  <h3><a href="/masterchef/full-episodes"><span class="btnVideo padlock"></span><img src="http://static-media.fox.com/img/Fox.com/626/711/MasterChef_YGU409_2500_640x360_34189891624.jpg" class="border" alt="Full Episodes" width="132"><span class="title">MasterChef</span></a></h3>
+		  <p>ALL-NEW WED 8/7c</p>
 		</li>
 </ul>
 </div>
 	
 	<div class="episodesList menuDropContentBottom">
 	  <ul>
-<li><a href="/alcatraz/full-episodes">Alcatraz</a></li>
 <li><a href="/americandad/full-episodes/">American Dad</a></li>
 <li><a href="/bobsburgers/full-episodes/">Bob's Burgers</a></li>
 <li><a href="/bones/full-episodes">Bones</a></li>
-<li><a href="/breakingin/full-episodes">Breaking In</a></li>
 <li><a href="/cleveland/full-episodes">The Cleveland Show</a></li>
+<li><a href="/does-someone-have-to-go/full-episodes">Does Someone Have To Go</a></li>
 </ul>
 <ul>
-<li><a href="/25th-anniversary/full-episodes">FOX 25th Anniversary Special</a></li>
 <li><a href="/familyguy/full-episodes">Family Guy</a></li>
-<li><a href="/the-finder/full-episodes">The Finder</a></li>
+<li><a href="/the-following/full-episodes">The Following</a></li>
 <li><a href="/fringe/full-episodes">Fringe</a></li>
 <li><a href="/glee/full-episodes">Glee</a></li>
-<li><a href="/hellskitchen/full-episodes">Hell's Kitchen</a></li>
+<li><a href="/the-goodwin-games/full-episodes">The Goodwin Games</a></li>
 </ul>
 <ul>
-<li><a href="/house/full-episodes">House</a></li>
-<li><a href="/i-hate-my-teenage-daughter/full-episodes">I Hate My Teenage Daughter</a></li>
+<li><a href="/hellskitchen/full-episodes">Hell's Kitchen</a></li>
+<li><a href="/hotel-hell/full-episodes">Hotel Hell</a></li>
 <li><a href="/kitchennightmares/full-episodes">Kitchen Nightmares</a></li>
 <li><a href="/masterchef/full-episodes">MasterChef</a></li>
-<li><a href="/mobbed/full-episodes">Mobbed</a></li>
-<li><a href="http://www.fox.com/napoleon-dynamite/full-episodes">Napoleon Dynamite</a></li>
+<li><a href="/the-mindy-project/full-episodes">The Mindy Project</a></li>
 </ul>
 <ul class="last">
 <li><a href="http://www.fox.com/new-girl/full-episodes">New Girl</a></li>
-<li><a href="/qviva-the-chosen/full-episodes">Q'Viva: The Chosen</a></li>
 <li><a href="/raisinghope/full-episodes">Raising Hope</a></li>
 <li><a href="/thesimpsons/full-episodes/">The Simpsons</a></li>
 <li><a href="/dance/full-episodes">So You Think You Can Dance</a></li>
@@ -197,6 +206,7 @@
 
 			</li>
 			<li id="menuSchedule"><a href="/schedule/" class="main">Schedule</a></li>
+			<li id="menuShop"><a href="http://shop.fox.com" target="_blank" class="main">Shop</a></li>
 		</ul>
 <!-- @todo this needs work --><div id="headerLogin">
 	<ul>
@@ -270,7 +280,7 @@ h2 {
 <hr>
 <h2>1.	INTRODUCTION</h2>
 <p>FOX Broadcasting Company ("FOX" or "we") operates FOX.com and other FOX show and entertainment websites that are operated by FOX (collectively, the "FOX Website" or "Site"). The services FOX offers include the FOX Websites, applications (in connection with the Site or third party services), community pages and any other features, content, promotions, games or applications offered from time to time by FOX including when accessed via the Internet, mobile or other devices (collectively, the "FOX Services").  FOX is part of the United States based operations of News Corporation.</p>  
-<p>As set forth in our <a href="/terms.php">Terms of Use</a>, the FOX Services are for a general audience, are not targeted to children, and do not knowingly collect personal information from children under 13 years of age.</p>   
+<p>As set forth in our <a href="http://www.fox.com/terms.php">Terms of Use</a>, the FOX Services are for a general audience, are not targeted to children, and do not knowingly collect personal information from children under 13 years of age.</p>   
 <p>This Privacy Policy applies to all "users," including both those who use a FOX Service without being registered with FOX or subscribing to a FOX Service and those who have registered with or subscribed to any FOX Service.  This Privacy Policy describes FOX's collection and use of users' personal information (e.g., information that identifies a specific person, such as full name or email address) where that information is not otherwise publicly available on the FOX Services.  We also provide information on the FOX Privacy Settings and describe generally FOX's practices for handling non-personally identifiable information (e.g., interests, demographics and site usage) to the extent such information is associated with a particular user or user account.</p>  
 <h2>2.	SUBMISSION AND COLLECTION OF INFORMATION ON THE FOX SERVICES</h2>
 <p><em>User Submitted Information</em></p>
@@ -298,7 +308,7 @@ h2 {
 <p><strong>To allow third party service providers to assist us in providing and managing the FOX Services.</strong>  FOX may make your non-public personal information available to certain third party service providers, such as contractors, agents or sponsors, who help us manage or provide FOX Services by, for example: developing or supporting products and features; conducting email marketing on our behalf; processing payments; administering message boards; fulfilling orders; processing data or statistics; or assisting with the administration, judging and prize fulfillment aspects of contests, promotions and sweepstakes.  These outside service providers are required to protect non-public personal information entrusted to them and not use it for any other purpose than the specific service they are providing to FOX.</p>  
 <p><strong>To contact you.</strong> FOX may periodically send promotional materials (e.g., newsletters) or notifications to the email address you provided to us at registration or subscription to your account.  If you want to stop receiving promotional materials from FOX, follow the unsubscribe instructions at the bottom of each email.  There are certain service notification emails that you may not opt-out of as long as you are registered with or subscribed to the FOX Services, such as notifications of changes to the FOX Services or policies.  </p>
 <p><strong>To allow other users to find you.</strong>  In order to locate other users that a user may already know in the physical world and/or want to get to know in the online world, the FOX Services may allow users to search for other users using information the user already knows, such as name, display name or email address. </p>
-<p><strong>To deliver relevant advertising.</strong>  We may use the information you provide to us, and information we collect about your use of the FOX Services through cookies and other technologies, to assist us in delivering you relevant ads when you visit the FOX Services or other websites.  We may work with third party advertising networks and advertisers who help deliver these ads to you.  We do not share your non-public personal information with these third parties, but we may share de-identified, anonymized or aggregated information with them to improve the relevancy of the ads you see on the FOX Services. As noted above, these third party advertising networks and advertisers may also use cookies and similar technologies to collect and track non-personally identifiable information such as demographic information, aggregated information, and Internet activity to assist them in delivering advertising that is more relevant to your interests.  To find out more about third party online advertising and to opt out of this type of advertising, visit <a href="http://www.aboutads.info/" target="_new">aboutads.info</a>.</p>
+<a name="ads"></a><p><strong>To deliver relevant advertising.</strong>  We may use the information you provide to us, and information we collect about your use of the FOX Services through cookies and other technologies, to assist us in delivering you relevant ads when you visit the FOX Services or other websites.  We may work with third party advertising networks and advertisers who help deliver these ads to you.  We do not share your non-public personal information with these third parties, but we may share de-identified, anonymized or aggregated information with them to improve the relevancy of the ads you see on the FOX Services. As noted above, these third party advertising networks and advertisers may also use cookies and similar technologies to collect and track non-personally identifiable information such as demographic information, aggregated information, and Internet activity to assist them in delivering advertising that is more relevant to your interests.  To find out more about third party online advertising and to opt out of this type of advertising, visit <a href="http://www.aboutads.info/" target="_new">aboutads.info</a>.</p>
 <p><strong>To protect the rights of FOX and our users.</strong>  There may be instances when FOX may disclose user information without providing notice or choice, including situations where FOX has a good faith belief that such disclosure is necessary in order to: (i) protect, enforce or defend the legal rights, privacy, safety or property of FOX and our Affiliated Companies or their employees, agents and contractors (including enforcement of our agreements and our terms of use); (ii) protect the safety, privacy and security of users of the FOX Services or members of the public; (iii) protect against fraud or for risk management purposes; (iv) comply with the law or legal process; and (v) respond to requests from public and government authorities including public and government authorities outside your country of residence.</p>
 <p><strong>To complete a merger or sale of assets.</strong>  If FOX sells all or part of its business or makes a sale or transfer of its assets or is otherwise involved in a merger or transfer of all or a material part of its business, FOX may transfer your information to the party or parties involved in the transaction as part of that transaction.</p>
 <h2>5.	SECURITY</h2>
@@ -332,32 +342,7 @@ Los Angeles, CA 90035</p>
 	<div id="footer">
     
     <!-- The What's On Tonight Module -->
-    <div id="footerOnTonight">
-			
-	<!-- This div helps with wrapping, and is mandatory -->
-	<div>
-		<div id="whatsOnTonight">
-			<h2 class="onTonight">On Tonight</h2>
-			
-			<!-- Tonight's Shows listed here -->
-			<div class="slider">
-				<ul>
-<!-- footer_item --><li>
-	<h3>8/7c</h3>
-	<div>
-		<h4><a href="/dance">SO YOU THINK YOU CAN DANCE</a></h4>
-		<p>ALL NEW / 2 HRS</p>
-	</div>
-</li>
-</ul>
-</div>
-			
-		</div>
-		
-		<div class="background"></div>
-	</div>
-	
-</div>    
+        
     <div class="wrapper">
         
         <div id="footerTopLinksSearch" class="group">
@@ -366,10 +351,10 @@ Los Angeles, CA 90035</p>
 			<a href="http://www.fox.com/askfox.php">Ask Fox</a>
 		</li>
 		<li>
-			<a href="http://www.fox.com/casting.php">Casting</a>
+			<a href="http://www.fox.com/audio-description/">Audio Description</a>
 		</li>
 		<li>
-			<a href="http://www.fox.com/audiencestrategy">Audience Strategy</a>
+			<a href="http://www.fox.com/closed-captioning.php">Closed Captioning</a>
 		</li>
 		<li>
 			<a href="http://www.foxcareers.com/">Jobs</a>
@@ -380,11 +365,8 @@ Los Angeles, CA 90035</p>
 		<li>
 			<a href="http://www.fox.com/newsletter.php">Newsletter</a>
 		</li>
-		<li>
-			<a href="http://www.fox.com/psa.php">PSAs</a>
-		</li>
 		<li class="last">
-			<a href="http://foxshop.seenon.com/?ecid=PRF-TV2-400000&amp;PA=PRF-TV2-400000%20">Store</a>
+			<a href="http://shop.fox.com" target="_blank">Shop</a>
 		</li>
   </ul>
 <!-- Pressing enter will take them to the search results page --><form id="footerSearch" class="search" action="/search/" method="get">
@@ -393,46 +375,42 @@ Los Angeles, CA 90035</p>
 			<input type="text" id="searchBtm" name="q" value=""><input type="submit" value="Search Fox">
 </fieldset>
 </form>
+      <ul id="footerSocial"></ul>
 </div>        
         <div id="footerLinks" class="group">
   
 	  <div id="footerFoxShowSites">
 	<h2>Fox Show Sites</h2>
 	<ul>
-<li><a href="http://www.fox.com/alcatraz">Alcatraz</a></li>
-		<li><a href="http://www.amw.com">America's Most Wanted</a></li>
+<li><a href="/almost-human">Almost Human</a></li>
 		<li><a href="http://www.fox.com/americandad">American Dad</a></li>
 		<li><a href="http://americanidol.com">American Idol</a></li>
 		<li><a href="http://www.fox.com/animationdomination">Animation Domination</a></li>
-		<li><a href="http://www.fox.com/ben-and-kate/">Ben and Kate</a></li>
 		<li><a href="http://www.fox.com/bobsburgers">Bob's Burgers</a></li>
 		<li><a href="http://www.fox.com/bones">Bones</a></li>
-		<li><a href="http://www.fox.com/breakingin">Breaking In</a></li>
-		<li><a href="http://www.fox.com/the-choice">The Choice</a></li>
+		<li><a href="/brooklyn-nine-nine">Brooklyn Nine Nine</a></li>
 		<li><a href="http://www.fox.com/cleveland">The Cleveland Show</a></li>
 		<li><a href="http://www.cops.com">Cops</a></li>
+		<li><a href="/dads">Dads</a></li>
+		<li><a href="http://www.fox.com/does-someone-have-to-go">Does Someone Have To Go</a></li>
+		<li><a href="/enlisted">Enlisted</a></li>
 		<li><a href="http://www.fox.com/familyguy">Family Guy</a></li>
-		<li><a href="http://www.fox.com/the-finder">The Finder</a></li>
-		<li><a href="/25th-anniversary">FOX 25th Anniversary Special</a></li>
+		<li><a href="http://www.fox.com/the-following">The Following</a></li>
 		<li><a href="http://www.fox.com/fringe">Fringe</a></li>
-		<li><a href="http://www.fox.com/glee">Glee</a></li>
 	</ul>
 <ul>
-<li><a href="http://www.fox.com/hellskitchen">Hell's Kitchen</a></li>
-		<li><a href="http://www.fox.com/house">House</a></li>
-		<li><a href="http://www.fox.com/i-hate-my-teenage-daughter">I Hate My Teenage Daughter</a></li>
+<li><a href="http://www.fox.com/glee">Glee</a></li>
+		<li><a href="http://www.fox.com/the-goodwin-games">The Goodwin Games</a></li>
+		<li><a href="http://www.fox.com/hellskitchen">Hell's Kitchen</a></li>
+		<li><a href="/hotel-hell">Hotel Hell</a></li>
 		<li><a href="http://www.fox.com/kitchennightmares">Kitchen Nightmares</a></li>
 		<li><a href="http://www.fox.com/masterchef">MasterChef</a></li>
 		<li><a href="http://www.fox.com/the-mindy-project/">The Mindy Project</a></li>
-		<li><a href="http://www.fox.com/the-mob-doctor/">The Mob Doctor</a></li>
-		<li><a href="http://www.fox.com/mobbed">Mobbed</a></li>
-		<li><a href="http://www.fox.com/napoleon-dynamite">Napoleon Dynamite</a></li>
 		<li><a href="http://www.fox.com/new-girl">New Girl</a></li>
-		<li><a href="/qviva-the-chosen">Q'Viva: The Chosen</a></li>
 		<li><a href="http://www.fox.com/raisinghope">Raising Hope</a></li>
 		<li><a href="http://www.thesimpsons.com">The Simpsons</a></li>
+		<li><a href="/sleepy-hollow">Sleepy Hollow</a></li>
 		<li><a href="http://www.fox.com/dance">So You Think You Can Dance</a></li>
-		<li><a href="/take-me-out">Take Me Out</a></li>
 		<li><a href="http://www.fox.com/touch">Touch</a></li>
 		<li><a href="http://www.fox.com/thexfactor">The X Factor</a></li>
 	</ul>
@@ -453,12 +431,6 @@ Los Angeles, CA 90035</p>
 			<a href="http://www.foxnews.com">News</a>
 		</li>
 		<li>
-			<a href="http://weather.fox.com/">Weather</a>
-		</li>
-		<li>
-			<a href="http://www.foxppv.com/">Pay Per View</a>
-		</li>
-		<li>
 			<a href="http://www.speedtv.com/">SPEED</a>
 		</li>
 		<li>
@@ -467,16 +439,13 @@ Los Angeles, CA 90035</p>
 		<li>
 			<a href="http://www.foxmovies.com/">20th Century Fox</a>
 		</li>
+		<li>
+			<a href="http://www.foxinternational.com/">20th Century Fox International</a>
+		</li>
 	</ul>
 <ul>
 <li>
-			<a href="http://www.foxinternational.com/">20th Century Fox International</a>
-		</li>
-		<li>
 			<a href="http://www.foxstudios.com/">Fox Studios</a>
-		</li>
-		<li>
-			<a href="http://www.foxnow.com/">Fox Television Distribution</a>
 		</li>
 		<li>
 			<a href="http://www.foxhome.com/">Home Entertainment</a>
@@ -500,13 +469,26 @@ Los Angeles, CA 90035</p>
 			<a href="http://www.newscorp.com/">News Corporation</a>
 		</li>
 	</ul>
+<ul></ul>
 </div>
   
   <div id="footerFoxLinks">
 	<h2>Fox Links</h2>
 	<ul>
 <li>
-			<a href="http://www.fox.com/programming">2012-13 Schedule</a>
+			<a href="http://www.fox.com/programming">2013-2014 Schedule</a>
+		</li>
+		<li>
+			<a href="http://www.fox.com/foxnow/">FOX NOW</a>
+		</li>
+		<li>
+			<a href="http://www.fox.com/superperks">FOX Super Perks</a>
+		</li>
+		<li>
+			<a href="http://www.fox.com/casting.php">Casting</a>
+		</li>
+		<li>
+			<a href="http://www.fox.com/psa.php">PSAs</a>
 		</li>
 		<li>
 			<a href="http://www.fox.com/watchnewepisodes">Online Episodes FAQ</a>
@@ -515,10 +497,7 @@ Los Angeles, CA 90035</p>
 			<a href="http://www.fox.com/mobileterms.php">Mobile Terms</a>
 		</li>
 		<li>
-			<a href="http://www.fox.com/superperks">FOX Super Perks</a>
-		</li>
-		<li>
-			<a href="http://www.fox.com/fox-lounge/">FOX Lounge</a>
+			<a href="http://www.fox.com/audiencestrategy">Audience Strategy</a>
 		</li>
 		<li>
 			<a href="http://www.fox.com/foxgives">Fox Gives</a>
@@ -531,9 +510,6 @@ Los Angeles, CA 90035</p>
 		</li>
 		<li>
 			<a href="http://www.dtv.gov/">Digital TV</a>
-		</li>
-		<li>
-			<a href="http://foxallaccess.com">Fox All Access Radio</a>
 		</li>
 		<li>
 			<a href="http://surveys.researchresults.com/mrIWeb/mrIWeb.dll?I.Project=S1920001&amp;i.user1=102">Fox Viewer Panel</a>
@@ -553,7 +529,12 @@ Los Angeles, CA 90035</p>
 	</ul>
 </div>  
 </div>
+
         
+  <div class="ol_inline">
+    <a class="ol_feedback" href="javascript:void(0);" onclick="oo_feedback.show()">Feedback</a>
+  </div>
+
         <!-- Text is aligned right to cope with font sizes shifting across platforms -->
         <p id="footerCopyright">
             Trademark &amp; Copyright Notice:™ and © FOX and its related entities. All rights reserved. Use of this Website assumes acceptance of <a href="http://www.fox.com/terms.php">Terms of Use</a> and <a href="http://www.fox.com/policy.php">Privacy Policy</a>
@@ -562,14 +543,57 @@ Los Angeles, CA 90035</p>
     </div>
     
 </div>
-	<!--begin tracking-->
+	
+<!--begin tracking-->
 <div id="tracking">
 
 	<script type="text/javascript" src="/_ui/js/combinedjs.php?page=tracking"></script>
 	<script type="text/javascript" src="//tealium.hs.llnwd.net/o43/utag/fox/main/prod/utag.js"></script>
 
-	<!-- SiteCatalyst code version: H.17. Copyright 1997-2008 Omniture, Inc. More info available at http://www.omniture.com -->
+	  
+</div>
+<!--end tracking-->
 
+
+
+<!--
+Start of DoubleClick Floodlight Tag: Please do not remove
+Activity name of this tag: Multi Shows Page
+URL of the webpage where the tag is expected to be placed: http://www.fox.com/
+This tag must be placed between the <body> and </body> tags, as close as possible to the opening tag.
+Creation Date: 08/20/2012
+-->
+
+<script type="text/javascript" id="floodlight">
+var axel = Math.random();
+var a = axel * 10000000000000;
+document.write('<iframe src="http://fls.doubleclick.net/activityi;src=3641697;type=pages044;cat=multi186;u1=fox-home;ord=" width="1" height="1" frameborder="0" style="display:none" id="floodlight"></iframe>');
+</script><iframe src="http://fls.doubleclick.net/activityi;src=3641697;type=pages044;cat=multi186;u1=fox-home;ord=" width="1" height="1" frameborder="0" style="display:none" id="floodlight"></iframe>
+<noscript>
+<iframe src="http://fls.doubleclick.net/activityi;src=3641697;type=pages044;cat=multi186;u1=fox-home;ord=1?" width="1" height="1" frameborder="0" style="display:none" id="floodlight"></iframe>
+</noscript>
+
+<!-- End of DoubleClick Floodlight Tag: Please do not remove -->
+		<script type="text/javascript" src="/_ui/js/combinedjs.php?debug=false&amp;group=all&amp;page=fox.policy"></script>
+
+	
+	<!-- START Nielsen Online SiteCensus V6.0 -->
+	<!-- COPYRIGHT 2010 Nielsen Online -->
+	<script type="text/javascript">
+	  (function () {
+		var d = new Image(1, 1);
+		d.onerror = d.onload = function () {
+		  d.onerror = d.onload = null;
+		};
+		d.src = ["//secure-us.imrworldwide.com/cgi-bin/m?ci=us-403949h&cg=0&cc=1&si=", escape(window.location.href), "&rp=", escape(document.referrer), "&ts=compact&rnd=", (new Date()).getTime()].join('');
+	  })();
+	</script>
+	<noscript>
+	  <div>
+		<img src="//secure-us.imrworldwide.com/cgi-bin/m?ci=us-403949h&amp;cg=0&amp;cc=1&amp;ts=noscript" width="1" height="1" alt="" />
+	  </div>
+	</noscript>
+	<!-- END Nielsen Online SiteCensus V6.0 -->
 
 			<script>
 				s_analytics.prop25 = null;
@@ -586,6 +610,7 @@ Los Angeles, CA 90035</p>
 				}
 				catch(e){}
 			</script>
+			<script type="text/javascript" src="http://content.dl-rms.com/rms/mother/11221/nodetag.js"></script>
 			
 <script type="text/javascript">
 //<![CDATA[
@@ -617,36 +642,14 @@ s_analytics.eVar4=""
 s_analytics.eVar5=""
 s_analytics.eVar17=""
 s_analytics.trackInlineStats=true
-/************* DO NOT ALTER ANYTHING BELOW THIS LINE ! **************/
+
+            /* bluekai */
+            Bluekai.addTrackingInfo(s_analytics);
+            Bluekai.watchForNewCampaign();
+            /************* DO NOT ALTER ANYTHING BELOW THIS LINE ! **************/
 //s_analytics.t() //]]></script>
 <!-- End SiteCatalyst code version: H.17. -->
-<!--107-->
-
-<script type="text/javascript" src="http://content.dl-rms.com/rms/mother/11221/nodetag.js"></script>
-  
-</div>
-<!--end tracking-->
-		<script type="text/javascript" src="/_ui/js/combinedjs.php?debug=false&amp;group=all&amp;page=fox.policy"></script>
-
-	
-	<!-- START Nielsen Online SiteCensus V6.0 -->
-	<!-- COPYRIGHT 2010 Nielsen Online -->
-	<script type="text/javascript">
-	  (function () {
-		var d = new Image(1, 1);
-		d.onerror = d.onload = function () {
-		  d.onerror = d.onload = null;
-		};
-		d.src = ["//secure-us.imrworldwide.com/cgi-bin/m?ci=us-403949h&cg=0&cc=1&si=", escape(window.location.href), "&rp=", escape(document.referrer), "&ts=compact&rnd=", (new Date()).getTime()].join('');
-	  })();
-	</script>
-	<noscript>
-	  <div>
-		<img src="//secure-us.imrworldwide.com/cgi-bin/m?ci=us-403949h&amp;cg=0&amp;cc=1&amp;ts=noscript" width="1" height="1" alt="" />
-	  </div>
-	</noscript>
-	<!-- END Nielsen Online SiteCensus V6.0 -->
-	
+<!--23-->
 
 
 </div></body></html>
