@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the showbie.com privacy policy that was archived on 2012-09-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120924061412id_/http%3A//www.showbie.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the showbie.com privacy policy that was archived on 2013-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130625010559id_/http%3A//www.showbie.com/privacy) for the most accurate reproduction.*
 
 # Privacy - Showbie
 
