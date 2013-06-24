@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the chartnexus.com privacy policy that was archived on 2012-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121221183937id_/http%3A//www.chartnexus.com/legal/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chartnexus.com privacy policy that was archived on 2013-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130624110211id_/http%3A//www.chartnexus.com/legal/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy Page :: ChartNexus® - Chart Your Success
 
@@ -15,7 +15,7 @@ This Privacy Policy applies to all of our services available through the Website
 
 #### CHOICE
 
-You may choose to provide us your personal information. In most cases, you can access and use most of the services available through the Website. However, for certain areas/sections providing privilege offers, content and services, you may not be able to access them. 
+You may choose to provide us your personal information. In most cases, you can access and use most of the services available through the Website. However, for certain areas/sections providing privilege offers, content and services, you may not be able to access them.
 
   
 
@@ -29,14 +29,14 @@ We intend to safeguard the Personal Information from unauthorized access or disc
 
 #### ACCURACY & UPDATES
 
-We are committed to provide your with excellent products and services. The Personal Information collected will enable us to understand you better thereby meeting your needs. It is important that we maintain accurate and up-to-date Personal Information of you. Should you need to update or correct that Personal Information, please [inform us](http://www.chartnexus.com/support/contactus.php#cform) or you may update the information through the [forms provided](https://web.archive.org/web/20121221183937id_/http%3A//www.chartnexus.com/legal/sitemap.php). 
+We are committed to provide your with excellent products and services. The Personal Information collected will enable us to understand you better thereby meeting your needs. It is important that we maintain accurate and up-to-date Personal Information of you. Should you need to update or correct that Personal Information, please [inform us](http://www.chartnexus.com/support/contactus.php#cform) or you may update the information through the [forms provided](https://web.archive.org/web/20130624110211id_/http%3A//www.chartnexus.com/legal/sitemap.php). 
 
   
 
 
 #### THIRD PARTY
 
-In the Website or our email communication, we may provide links or references to third party sites; Third parties may offer you products or services through the Website, we are not responsible for the actions of these third parties as they retain total control over their websites, products or services. We do not, however, sell, share or rent the Personal Information to third parties for their marketing purposes without your consent. 
+In the Website or our email communication, we may provide links or references to third party sites; Third parties may offer you products or services through the Website, we are not responsible for the actions of these third parties as they retain total control over their websites, products or services. We do not, however, sell, share or rent the Personal Information to third parties for their marketing purposes without your consent.
 
   
 
@@ -45,12 +45,19 @@ In the Website or our email communication, we may provide links or references to
 
 Protecting privacy rights is an evolving area. We intend to update the Privacy Policy as best to our ability to reflect your demand and rights. If you have any feedback or comments regarding our policy, please [contact us](http://www.chartnexus.com/support/contactus.php#cform). 
 
+  
+
+
+#### PERSONAL DATA
+
+ChartNexus Mastery Pte Ltd has your consent to contact you via email, sms and phone for any invitation to future events and promotions.
+
 Last Revised/Reviewed : 23th Jul 2006.  
 Revision : 1.2 
 
 Past Revisions :
 
-  * [v1.0](https://web.archive.org/web/20121221183937id_/http%3A//www.chartnexus.com/legal/privacy_1.0.php) \- Last revised 1st November 2004
-  * [v1.1](https://web.archive.org/web/20121221183937id_/http%3A//www.chartnexus.com/legal/privacy_1.1.php) \- Last revised 3rd September 2005
+  * [v1.0](https://web.archive.org/web/20130624110211id_/http%3A//www.chartnexus.com/legal/privacy_1.0.php) \- Last revised 1st November 2004
+  * [v1.1](https://web.archive.org/web/20130624110211id_/http%3A//www.chartnexus.com/legal/privacy_1.1.php) \- Last revised 3rd September 2005
 
 
