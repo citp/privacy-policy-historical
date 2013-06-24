@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the studentawards.com privacy policy that was archived on 2012-09-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120919200424id_/http%3A//www.studentawards.com/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the studentawards.com privacy policy that was archived on 2013-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130625014819id_/http%3A//www.studentawards.com/Privacy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy studentawards.com | Studentawards.com – Find Canadian scholarships, grants, bursaries and money for school
 
