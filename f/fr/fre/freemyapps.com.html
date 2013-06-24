@@ -1,73 +1,85 @@
-<!--The following is the downloaded HTML source of the freemyapps.com privacy policy that was archived on 2012-09-19.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120919220917id_/http%3A//www.freemyapps.com/privacy-policy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the freemyapps.com privacy policy that was archived on 2013-06-24.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130624041245id_/http%3A//freemyapps.com/privacy.html) for the most accurate reproduction.-->
 
-<!DOCTYPE html><html lang="en"><head>
-  <title>FreeMyApps :: Discover Great Apps. Get Rewarded.</title>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
+        <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+        <title>Free My Apps</title>
+        <meta name="keywords" content="free,my,apps">
+        <meta name="description" content="Free My Apps">
+        <link rel="stylesheet" href="css/screen.css" type="text/css">
+        <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js"></script>
+        <script type="text/javascript" src="http://cloud.github.com/downloads/malsup/cycle/jquery.cycle.all.latest.js"></script>
 
-  <meta charset="utf-8">
-  <meta name="description" content="">
+        <script type="text/javascript" src="//use.typekit.net/rbw2dqp.js"></script>
+        <script type="text/javascript">try{Typekit.load();}catch(e){}</script>
+        
+        <script type="text/javascript" src="js/fancybox/jquery.fancybox.pack.js"></script>
+        <link href="js/fancybox/jquery.fancybox.css" rel="stylesheet" type="text/css">
 
-  <link rel="shortcut icon" href="img/favicon.ico">
-  <link rel="stylesheet" href="css/960.css">
-  <link rel="stylesheet" href="css.normalize.css">
-  <link rel="stylesheet" href="css/reset.css">
-  <link rel="stylesheet" href="css/animate.css">
-  <link rel="stylesheet" href="css/style.css">
+        <script type="text/javascript">
+            $(document).ready(function() {
+                $(".fancybox").fancybox({padding:0, margin:0});
+            });
+        </script>
 
-  <!-- IE6-8 support of HTML5 elements --> <!--[if lt IE 9]>
-  <script src="//html5shim.googlecode.com/svn/trunk/html5.js"></script>
-  <![endif]-->
-  
-  <!-- Typekit -->
-  <script type="text/javascript" src="http://use.typekit.com/ufk7xpf.js"></script>
-  <script type="text/javascript">try{Typekit.load();}catch(e){}</script>
-  
-  <!-- JQUERY -->
-  <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.min.js"></script>
+                
+        <script type="text/javascript">
+        $(document).ready(function() {
+            $('.slideshow').cycle({
+                fx: 'fade' // choose your transition type, ex: fade, scrollUp, shuffle, etc...
+            });
+        });
 
-  <!-- Smooth Scroll -->
-  <script type="text/javascript">
-  var jump=function(e)
-  {
-       e.preventDefault();
-       var target = $(this).attr("href");
-       $('html,body').animate(
-       {
-               scrollTop: $(target).offset().top
-       },400,function()
-       {
-               location.hash = target;
-       });
-  }
-  $(document).ready(function()
-  {
-       $('a[href*=#]').bind("click", jump);
-       return false;
-  });	
-	</script>
+        $(document).ready(function () { 
+            $('#nav li').hover(
+                function () {
+                    //show its submenu
+                    $('ul', this).stop().slideDown(100);
+                }, 
+                function () {
+                    //hide its submenu
+                    $('ul', this).stop().slideUp(100);          
+                }
+            );
+        });
+        </script>
+    </head>
+    <body class="privacy">
+    <div id="main-wrapper">
+        <div id="header">
+            <a href="index.html" id="free-my-apps-logo"></a>
+            <ul id="nav">
+                <li><a href="index.html">Home</a></li>
+                <li><a href="#popup" class="fancybox">How it Works</a></li>
+                <li><a href="support.html">Support</a></li>
+                <li><a href="advertise.html">Advertise with Us</a></li>
+                <li><a href="contact.html">Contact us</a></li>
+            </ul>
+            <ul id="social-nav">
+                <li><a target="_blank" href="https://www.facebook.com/FreeMyApps"><img alt="" src="images/social-facebook.png"></a></li>
+                <li><a target="_blank" href="https://twitter.com/FreeMyApps"><img alt="" src="images/social-twitter.png"></a></li>
+                <li><a target="_blank" href="http://pinterest.com/freemyapps/"><img alt="" src="images/social-pinterest.png"></a></li>
+                <li><a target="_blank" href="http://www.youtube.com/user/FreeMyAppsTube"><img alt="" src="images/social-youtube.png"></a></li>
+                 <li><a target="_blank" href="https://plus.google.com/114652398546178805175/posts"><img alt="" src="images/social-googleplus.png"></a></li>
+                
+          </ul>
+        </div><!--header-->
+        <div id="content">
+                        <div style="display:none">
+                <div id="popup">
+                    <img alt="" src="images/how-it-works-popup.jpg" usemap="#thisisamap">
+                    <map id="thisisamap" name="thisisamap">
+                    <area shape="rect" coords="42,134,236,389" href="howitworks-ios.html" alt="" title="">
+                    <area shape="rect" coords="333,134,527,389" href="howitworks-droid.html" alt="" title="">
+                    <area shape="rect" coords="240,333,327,389" href="howitworks-ios.html" alt="" title="">
+                    </map>
+                </div>
+            </div>
 
-  <!-- accolades -->
-  <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.5/jquery.min.js"></script>
-  <!-- include Cycle plugin -->
-  <script type="text/javascript" src="http://cloud.github.com/downloads/malsup/cycle/jquery.cycle.all.latest.js"></script>
-  <script type="text/javascript">
-  $(document).ready(function() {	 
-	  $('#testimonials2')
-	.cycle({
-        fx: 'fade', // choose your transition type, ex: fade, scrollUp, scrollRight, shuffle
-		pager:  '#nav2'
-     });
-  });
-  </script>
-
-
-</head>
-<body class="privacy-policy">
-<div class="container_16">
-  <h1>Privacy Policy</h1>
+ <h1>Privacy Policy</h1>
   <p>Last modified: January 18, 2012</p>
 
-  <p>Fiksu, Inc. (“Fiksu”) is committed to maintaining the privacy of your personal information when you visit our website at <a href="http://freemyapps.com"> freemyapps.com</a> (the “Site”), use our related services (“Services”) and/or  download and use any Fiksu proprietary applications or any third party applications accessible for download from the Site (together, the “Applications”). This Privacy Policy describes how we treat the information collected from you in connection with your use of our Site, Services and Applications.  Fiksu also provides ad optimization services on behalf of mobile applicable provider clients (“Clients”). This Privacy Policy further describes how we use and disclose information collected in connection with providing such services to Clients. By using the Site or Services, you are consenting to the collection, use, and sharing of information collected from you as described below in this Privacy Policy.</p>
+  <p>Fiksu, Inc. (“Fiksu”) is committed to maintaining the privacy of your personal information when you visit our website at <a href="http://freemyapps.com" target="_blank"> freemyapps.com</a> (the “Site”), use our related services (“Services”) and/or  download and use any Fiksu proprietary applications or any third party applications accessible for download from the Site (together, the “Applications”). This Privacy Policy describes how we treat the information collected from you in connection with your use of our Site, Services and Applications.  Fiksu also provides ad optimization services on behalf of mobile applicable provider clients (“Clients”). This Privacy Policy further describes how we use and disclose information collected in connection with providing such services to Clients. By using the Site or Services, you are consenting to the collection, use, and sharing of information collected from you as described below in this Privacy Policy.</p>
 
   <h3>Registration and Personally Identifiable Information </h3>
   <p>Fiksu does not collect any personally identifiable information about you unless you choose to provide it to us, either by contacting us and providing us with such information, or through registration at our Site.  Site registration is a feature we may offer in the future and if we do, it will be completely optional. You do not and will not have to register in order to use the Site or Services or download any Applications.</p>
@@ -122,12 +134,21 @@
   <p>Your information may be stored and processed in the United States. We may store your information for as long as need for the purposes indicated in this privacy policy, and that may be indefinitely.  or any other country where Fiksu has facilities, and by using our  Site, you consent to the transfer of information outside of your country.</p>
   
   <h3>Changes to this Privacy Policy</h3>
-  <p>When we make any material change to this Privacy Policy, we will inform you by posting a notice on the home page of this site that the policy has been updated and by changing the date on this page noting when the policy was last updated.</p><p>
+  <p>When we make any material change to this Privacy Policy, we will inform you by posting a notice on the home page of this site that the policy has been updated and by changing the date on this page noting when the policy was last updated.</p>
 
-  </p><h3>Questions</h3><p></p>
-  <p>If you have questions about this Privacy Policy, please contact us at  <a href="mailto:support@freemyapps.com"> support@freemyapps.com</a>.</p>
-
-</div><!-- /.container_16 -->
+  <h3>Questions</h3>
+  <p>If you have questions about this Privacy Policy, please contact us at  <a href="mailto:support@freemyapps.com" target="_blank"> support@freemyapps.com</a>.</p>
 
 
+        </div><!--content-->
+    </div><!--main-wrapper-->
+    <div id="footer-fw">
+        <div id="footer">
+            <div id="footer-left"><strong>Questions:</strong> <a href="mailto:hi@freemyapps.com">hi@freemyapps.com</a></div>
+            <div id="footer-right"><a href="terms.html">Terms &amp; Conditions</a>  |  <a href="privacy.html">Privacy</a></div>
+        </div><!--footer-->
+    </div>
+    <script src="http://munchkin.marketo.net/munchkin.js" type="text/javascript"></script> <script type="text/javascript">mktoMunchkin("226-SUL-895");</script>
+    
+    
 </body></html>
