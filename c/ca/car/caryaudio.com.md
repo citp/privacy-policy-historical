@@ -1,9 +1,6 @@
-> *The following text is extracted and transformed from the caryaudio.com privacy policy that was archived on 2012-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121127092511id_/http%3A//caryaudio.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the caryaudio.com privacy policy that was archived on 2013-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130625045319id_/http%3A//www.caryaudio.com/privacy.html) for the most accurate reproduction.*
 
 # Cary Audio Design - Privacy
-
-This document was last updated June 28, 2012. **  
-**
 
 **Introduction**  
 Cary Audio is committed to protecting your privacy. The following privacy statement describes our practice with respect to the collection and use of your personal information on this website. By using this website, you consent to the terms of our privacy statement and to Cary Audio's processing of personal information for the purposes stated below.
