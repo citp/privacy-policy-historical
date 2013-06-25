@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the geekstoy.com privacy policy that was archived on 2012-10-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121019134717id_/http%3A//www.geekstoy.com/forum/showpost.php%3Fp%3D74607%26postcount%3D1) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the geekstoy.com privacy policy that was archived on 2013-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130625105752id_/http%3A//www.geekstoy.com/forum/showpost.php%3Fp%3D74607%26postcount%3D1) for the most accurate reproduction.*
 
 # Betfair Trading and Sports Betting Forum - View Single Post - Privacy Policy
 
@@ -17,7 +17,7 @@ For the purposes of account management and technical support, we may collect the
 • Product configuration info.  
 • Application usage data. { EG Log ins, log outs, application errors. }
 
-In very limited and rare circumstances when you contact us for support, we may ask you for your Betfair or Betdaq user name to enable us to communicate with the exchange to resolve your issue.
+In very limited circumstances when you contact us for support, we may ask you for your Betfair or Betdaq user name to enable us to identify you or communicate with the exchange to resolve your issue.
 
 **_What we do not collect_**  
 We do not collect any personal information held by Betfair or Betdaq including but not limited to passwords, account balances, betting activity, email addresses or payment info. We do not collect any files or personal information from your system other than items specified above.
