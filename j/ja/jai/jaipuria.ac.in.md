@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jaipuria.ac.in privacy policy that was archived on 2012-10-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121008100622id_/http%3A//www.jaipuria.ac.in/index.php/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jaipuria.ac.in privacy policy that was archived on 2013-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130625144820id_/http%3A//www.jaipuria.ac.in/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Jaipuria Institute of Management
 
