@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the zoostores.com privacy policy that was archived on 2012-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120526004314id_/http%3A//www.zoostores.com/shop/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zoostores.com privacy policy that was archived on 2013-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130625030638id_/http%3A//www.zoostores.com/shop/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -18,6 +18,6 @@ We require that Agents and Partners of Zoostores.com who have access to your per
 
 Zoostores.com uses several of the latest encryption technologies to keep your personal information safe. Your private ordering information – including your credit card number – is encrypted using several keys for maximum security. Your credit card and billing information cannot be poached as it travels through our ordering system (128-bit SSL encryption), and the numbers are unreadable to anyone trying to access the site remotely. We have implemented the requisite physical, electronic, and managerial processes to prevent unauthorized access and maintain data security.
 
-You may contact us at any time to update the information we have about you. To protect your privacy and security, we will take reasonable steps to help verify your identity before granting access or making corrections. We want to communicate with you only if you want to hear from us. If you prefer not to receive information from us, either by email, postal mail, or phone, please let us know by sending us an email or by calling us at 855-966-7867 Mon.-Fri. (Mon - Fri 6a-6p, PST Sat and Sun 8 am to 5 pm PST) or Sat.-Sun. and holidays (Mon - Fri 6a-6p, PST Sat and Sun 8 am to 5 pm PST).
+You may contact us at any time to update the information we have about you. To protect your privacy and security, we will take reasonable steps to help verify your identity before granting access or making corrections. We want to communicate with you only if you want to hear from us. If you prefer not to receive information from us, either by email, postal mail, or phone, please let us know by sending us an email.
 
 Please note that such requests may take up to 6-8 weeks to become effective. Please also note that when you make a purchase, we will send you emails to confirm your order and may also need to contact you by phone, mail, or email if we have other questions regarding your order.
