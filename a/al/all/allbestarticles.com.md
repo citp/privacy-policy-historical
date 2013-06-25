@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the allbestarticles.com privacy policy that was archived on 2012-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120616145850id_/http%3A//www.allbestarticles.com/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the allbestarticles.com privacy policy that was archived on 2013-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130625135435id_/http%3A//www.allbestarticles.com/Privacy) for the most accurate reproduction.*
 
 # AllBestArticles.com Privacy
 
@@ -52,6 +52,3 @@ Use of this web site is provided "AS IS" with no warranty whatsoever.
 **AllBestArticles.com** does not endorse any statements or claims made in any article on this site and does not accept any responsibility or liability for the use or misuse of the article content on this site or reliance by any person on the site's contents. By using this web site, you agree not to hold **AllBestArticles.com** , its owner, it's partner sites and/or any other affiliated sites or persons, liable for any damages that may occur from use of this web site.
 
 **All terms and conditions are subject to change without prior notice.**
-
-  
-
