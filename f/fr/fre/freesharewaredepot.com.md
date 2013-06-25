@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the freesharewaredepot.com privacy policy that was archived on 2012-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121120000402id_/http%3A//www.freesharewaredepot.com/privacypolicy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freesharewaredepot.com privacy policy that was archived on 2013-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130626000703id_/http%3A//www.freesharewaredepot.com/privacypolicy.asp) for the most accurate reproduction.*
 
-# FreeSharewareDepot Network Privacy Policy
+# Privacy Policy FreeSharewareDepot
 
 This privacy statement was written in accordance with the provisions of United Stated Laws, regarding individual protection about collecting and free circulation of personal data.
 
@@ -16,6 +16,10 @@ During the administration process of the website, FreeSharewareDepot needs to ta
 
 The clauses of this policy are valuable for all kinds of information gathered from FreeSharewareDepot users. Additional clauses, if any, will be added if necessary for special services that we may offer in the future. This privacy policy informs you about the type of personal data that we may collect from you, the way we can use it, the way we understand to protect it, who has access to it and how the possible mistakes can be corrected.
 
+Web Site Security
+
+FreeSharewareDepot is a trusted and secure web-site as is detailed in the Symantec Security SEAL below
+
 Information that we collect
 
 FreeSharewareDepot may collect information from its users in three different ways: 
@@ -30,7 +34,7 @@ FreeSharewareDepot may collect information from its users in three different way
 
 **Information from traffic references:** when you visit a website, you unveil certain information about you, such as your IP address, time of visit, place from which you accessed our website. FreeSharewareDepot, like other operators, stores this information.
 
-**Information from cookies:** FreeSharewareDepot allows other companies, called third-party ad networks or payment registration services such as Google Adsense [Google Adsense Privacy Policy](http://www.google.com/policies/privacy/ads/ "Google Adsense Privacy Policy") and RegNow Software Registration Services [RegNow Privacy Policy](http://corporate.digitalriver.com/store/digriv/Corp/sectionName.company/subSectionName.corpPolicies/page.corpPolicies?resid=UFCo7AoHAtUAAFHiGE0AAAAB&rests=1347463403012#privacy "RegNow Privacy Policy"), to serve advertisements or software purchase within the FreeSharewareDepot site. These third-party companies use technology to send, directly to your browser, the advertisements and links that appear on the FreeSharewareDepot site. They automatically receive your IP address when this happens. They may also use other technologies (such as cookies, JavaScript, or Web Beacons) to measure the effectiveness of their advertisements and to personalize the advertising content you see.
+**Information from cookies:** FreeSharewareDepot allows other companies, called third-party ad networks or payment registration services such as Google Adsense [Google Adsense Privacy Policy](http://www.google.com/policies/privacy/ads/ "Google Adsense Privacy Policy") and RegNow Software Registration Services [RegNow Privacy Policy](http://corporate.digitalriver.com/store/digriv/Corp/sectionName.company/subSectionName.corpPolicies/page.corpPolicies#privacy "RegNow Privacy Policy"), to serve advertisements or software purchase within the FreeSharewareDepot site. These third-party companies use technology to send, directly to your browser, the advertisements and links that appear on the FreeSharewareDepot site. They automatically receive your IP address when this happens. They may also use other technologies (such as cookies, JavaScript, or Web Beacons) to measure the effectiveness of their advertisements and to personalize the advertising content you see.
 
 FreeSharewareDepot does not provide any personally identifiable information to these third-party ad servers or ad networks without your consent or except as part of a specific program or feature for which you will have the ability to opt-in or opt-out. However, please note that if an advertiser asks FreeSharewareDepot to show an advertisement to a certain audience (for example, men ages 18-34) or audience segment (for example, men ages 18-24 who have viewed certain channels of content) and you respond to that advertisement, the advertiser or ad-server may conclude that you fit the description of the audience they are trying to reach. The advertiser may also use information regarding your use of the FreeSharewareDepot Sites, such as the number of times you viewed an ad (but not any personally identifiable information), to determine which ads to deliver to you.
 
