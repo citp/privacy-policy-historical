@@ -1,38 +1,24 @@
-> *The following text is extracted and transformed from the siteaero.com privacy policy that was archived on 2012-10-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121005043640id_/http%3A//www.siteaero.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the siteaero.com privacy policy that was archived on 2013-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130625211252id_/http%3A//www.siteaero.com/privacy) for the most accurate reproduction.*
 
-# SiteAero - Privacy Policy
+# SiteAero - Powerful tool to find site information
 
-* ### Privacy Policy
+*   
+**Terms of Use for SiteAero.com**  
+At SiteAero.com, the privacy of our visitors is of extreme importance to us. This Terms of Use document outlines the types of personal information is received and collected by SiteAero.com and how it is used. 
 
-Thank you for visiting our web site. This privacy policy tells you how we use personal information collected at this site. Please read this privacy policy before using the site or submitting any personal information. By using the site, you are accepting the practices described in this privacy policy. These practices may be changed, but any changes will be posted and changes will only apply to activities and information on a going forward, not retroactive basis. You are encouraged to review the privacy policy whenever you visit the site to make sure that you understand how any personal information you provide will be used.
+**Cookies and Web Beacons**  
+SiteAero.com does use cookies to store information about visitors preferences, record user-specific information on which pages the user access or visit, customize Web page content based on visitors browser type or other information that the visitor sends via their browser. 
 
-**Note:** the privacy practices set forth in this privacy policy are for this web [site](http://www.siteaero.com/) only. If you link to other web sites, please review the privacy policies posted at those sites.
+**DoubleClick DART Cookie**  
+Google, as a third party vendor, uses cookies to serve ads on SiteAero.com. Google's use of the DART cookie enables it to serve ads to users based on their visit to SiteAero.com and other sites on the Internet. Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at the following URL - **http://www.google.com/privacy_ads.html**. Some of our advertising partners may use cookies and web beacons on our site. Our advertising partners include. 
 
-**Collection of Information  
-**We collect personally identifiable information, like names, postal addresses, email addresses, etc., when voluntarily submitted by our visitors. The information you provide is used to fulfill you specific request. This information is only used to fulfill your specific request, unless you give us permission to use it in another manner, for example to add you to one of our mailing lists.
+**Google Adsense**  
+These third-party ad servers or ad networks use technology to the advertisements and links that appear on SiteAero.com send directly to your browsers. They automatically receive your IP address when this occurs. Other technologies ( such as cookies, JavaScript, or Web Beacons ) may also be used by the third-party ad networks to measure the effectiveness of their advertisements and / or to personalize the advertising content that you see. 
 
-**Ads on this site**
+SiteAero.com has no access to or control over these cookies that are used by third-party advertisers. 
 
-We use third-party advertising companies to serve ads when you visit our website. These companies may use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you.
+**Log Files**  
+Like many other Web sites, SiteAero.com makes use of log files. The information inside the log files includes internet protocol (IP) addresses, type of browser, Internet Service Provider ( ISP ), date/time stamp, referring/exit pages, and number of clicks to analyze trends, administer the site, track user's movement around the site, and gather demographic information. IP addresses, and other such information are not linked to any information that is personally identifiable. 
 
-  * Google, as a third party vendor, uses cookies to serve ads on your site. 
-  * Google's use of the DART cookie enables it and its partners to serve ads to your users based on their visit to your sites and/or other sites on the Internet. 
-  * Users may opt out of the use of the DART cookie by visiting the [Google ad and content network privacy policy](http://www.google.com/privacy_ads.html). 
-
-
-
-**Cookie/Tracking Technology  
-**The Site may use cookie and tracking technology depending on the features offered. Cookie and tracking technology are useful for gathering information such as browser type and operating system, tracking the number of visitors to the Site, and understanding how visitors use the Site. Cookies can also help customize the Site for visitors. Personal information cannot be collected via cookies and other tracking technology, however, if you previously provided personally identifiable information, cookies may be tied to such information. Aggregate cookie and tracking information may be shared with third parties.
-
-**Distribution of Information**  
-We may share information with governmental agencies or other companies assisting us in fraud prevention or investigation. We may do so when: (1) permitted or required by law; or, (2) trying to protect against or prevent actual or potential fraud or unauthorized transactions; or, (3) investigating fraud which has already taken place. The information is not provided to these companies for marketing purposes. 
-
-**Commitment to Data Security**  
-Your personally identifiable information is kept secure. Only authorized employees, agents and contractors (who have agreed to keep information secure and confidential) have access to this information. All emails and newsletters from this site allow you to opt out of further mailings. 
-
-**Privacy Contact Information**  
-If you have any questions, concerns, or comments about our privacy policy you may contact us using the information below:
-
-By e-mail: info@siteaero.com
-
-We reserve the right to make changes to this policy. Any changes to this policy will be posted.
+**More Info**  
+If you require any more information or have any questions about our terms of use, please feel free to contact us by email at info [at] siteaero [dot] com. 
