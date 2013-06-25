@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the palzmasti.com privacy policy that was archived on 2012-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121216183435id_/http%3A//palzmasti.org/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the palzmasti.com privacy policy that was archived on 2013-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130625053711id_/http%3A//palzmasti.org/privacy_policy.php) for the most accurate reproduction.*
 
 # Palzmasti : Bollywood Hot Actress, Wallpaper, Jokes, Games, Screesavers, E-cards and Event Gallery
 
