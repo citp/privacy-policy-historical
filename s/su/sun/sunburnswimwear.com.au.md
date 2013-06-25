@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sunburnswimwear.com.au privacy policy that was archived on 2012-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121130025934id_/http%3A//www.sunburnswimwear.com.au/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sunburnswimwear.com.au privacy policy that was archived on 2013-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130625092834id_/http%3A//www.sunburnswimwear.com.au/privacy) for the most accurate reproduction.*
 
 # Privacy
 
