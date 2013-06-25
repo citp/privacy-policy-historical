@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the socialingot.com privacy policy that was archived on 2012-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121230234506id_/http%3A//www.socialingot.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the socialingot.com privacy policy that was archived on 2013-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130625233216id_/http%3A//socialingot.com/privacy) for the most accurate reproduction.*
 
 # Social Ingot
 
