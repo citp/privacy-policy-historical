@@ -1,23 +1,32 @@
-> *The following text is extracted and transformed from the todaysdod.com privacy policy that was archived on 2012-09-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120915052748id_/http%3A//www.todaysdod.com/privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the todaysdod.com privacy policy that was archived on 2013-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130625221557id_/http%3A//www.todaysdod.com/privacypolicy.php) for the most accurate reproduction.*
 
 # Privacy Policy | TodaysDOD.com
 
-For each visitor to our Web page, our Web server automatically recognizes only the consumer's domain name, but not the e-mail address (where possible).
+TodaysDOD is committed to protecting your privacy.
 
-We collect only the domain name, but not the e-mail address of visitors to our Web page.
+This privacy policy describes the privacy practices for TodaysDOD, located at http://www.todaysdod.com.
 
-The information we collect is used for internal review and is then discarded, used to improve the content of our Web page, .
+We may collect the following information when your register on or fill out a form on our site:
 
-With respect to cookies: We do not set any cookies. 
+  1. First and/or Last Name
+  2. E-mail address
 
-With respect to Ad Servers: We do not partner with or have special relationships with any ad server companies. 
 
-Upon request we provide site visitors with access to a description of information that we maintain about them.
 
-Consumers can access this information by e-mail us at the above address.
+Any information provided by you is used to understand your needs and provide a better service. We may use your information for the following reasons:
 
-Upon request we offer visitors the ability to have factual inaccuracies corrected in information that we maintain about them 
+  1. To send periodic e-mails if you specifically requested to receive them
+  2. To personalize your website experience according to your interests, view settings, and location
+  3. To improve our products or services based on your needs
 
-With respect to security: We have appropriate security measures in place in our physical facilities to protect against the loss, misuse or alteration of information that we have collected from you at our site.
 
-If you feel that this site is not following its stated information policy, you may contact The DMA's Committee on Ethical Business Practices at [mgoldberger@the-dma.org](mailto:mgoldberger@the-dma.org).
+
+In order to prevent any unauthorised access or disclosure of the personal information that we gather, we have in place electronic and managerial procedures to secure and guard these information.
+
+A cookie is a small file which asks permission to be placed on your computer hard drive. Cookies allows websites to respond to you as an individual.
+
+You may choose to accept or decline cookies in your browser settings. Disabling cookies will limit the full experience of our site.
+
+The Site contains links to other websites of interest. We cannot be responsible for the protection and privacy of any information which you provide while visiting such sites; such sites are not governed by this privacy statement.
+
+Published with permission from [Termsfeed](http://termsfeed.com/ "Termsfeed").
