@@ -1,15 +1,15 @@
-> *The following text is extracted and transformed from the matrixdirect.com privacy policy that was archived on 2012-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121231032135id_/http%3A//www.matrixdirect.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the matrixdirect.com privacy policy that was archived on 2013-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130626004601id_/http%3A//www.matrixdirect.com/privacy-policy) for the most accurate reproduction.*
 
-# Matrix Direct Privacy Policy
+# AIG Direct Privacy Policy
 
-Protecting the privacy and security of personal information about our customers is important. This privacy policy ("Privacy Policy") tells you how Matrix Direct, Inc. ("Matrix Direct")   treats information collected on www.matrixdirect.com about our current and former customers.
+Protecting the privacy and security of personal information about our customers is important. This privacy policy ("Privacy Policy") tells you how AIG Direct Insurance Services, Inc. ("AIG Direct") treats information collected on www.aigdirect.com about our current and former customers.
 
 ##   
 TRUSTe Certified Privacy Policy
 
 Effective Date: 9/1/2011
 
-[](http://privacy-policy.truste.com/click-with-confidence/ctv/en/www.matrixdirect.com/seal_m "Validate TRUSTe privacy certification")Matrix Direct has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with [TRUSTe's program requirements](http://www.truste.com/privacy-program-requirements/index.html "Read More About TRUSTe's Program Requirements") including transparency, accountability and choice regarding the collection and use of your personal information. TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. 
+[](http://privacy-policy.truste.com/click-with-confidence/ctv/en/www.matrixdirect.com/seal_m "Validate TRUSTe privacy certification")AIG Direct has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with [TRUSTe's program requirements](http://www.truste.com/privacy-program-requirements/index.html "Read More About TRUSTe's Program Requirements") including transparency, accountability and choice regarding the collection and use of your personal information. TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. 
 
 If you have questions or complaints regarding our Privacy Policy or practices, please contact us at (858) 309-3000 or by email at customerservice2@matrixdirect.com. If you are not satisfied with our response you can [contact TRUSTe here](http://watchdog.truste.com/pvr.php?page=complaint "Contact TRUSTe"). The TRUSTe program covers only information that is collected through this Web site and does not cover the collection and use of information obtained offline.
 
@@ -33,32 +33,44 @@ such as Credit History, Income, Assets, and Other Insurance Products.
   
 **HEALTH INFORMATION**  
 such as Medical History and other factors affecting insurability.  
-We use the information for business purposes, such as  
-•    contacting you regarding the products or services in which you have expressed an interest.  
-•    processing applications and claims,  
-•    servicing your business, and   
-•    offering you other products and services.
+We use the information for business purposes, such as
+
+  * contacting you regarding the products or services in which you have expressed an interest
+  * processing applications and claims
+  * servicing your business, and
+  * offering you other products and services
+
+
 
   
 We share the information with others who provide services to help us process or administer our business.
 
   
-We may share information under the following circumstances:  
-•    with medical examiners who help us underwrite life insurance applications  
-•    with service providers such as third parties who help us process claims or print our customer statements, an email service provider to send out emails on our behalf, and an employment company to assist us with our hiring. We require that our service providers limit their use of the information and keep it confidential, and will share the personal information you provide only as necessary for the third party to provide that service  
-•    when we have the customer's prior permission   
-•    when we are allowed or required by law to disclose it, such as to comply with a subpoena, or similar legal process  
-•    when we believe in good faith that disclosure is necessary to protect our rights, protect your safety or the safety of others, investigate fraud, or respond to a government request, or  
-•    if Matrix Direct is involved in a merger, acquisition, or sale of all or a portion of its assets,  you will be notified via email and/or a prominent notice on our Web site of any change in ownership or uses of your personal information, as well as any choices you may have regarding your personal information  
+We may share information under the following circumstances:
+
+  * with medical examiners who help us underwrite life insurance applications
+  * with service providers such as third parties who help us process claims or print our customer statements, an email service provider to send out emails on our behalf, and an employment company to assist us with our hiring. We require that our service providers limit their use of the information and keep it confidential, and will share the personal information you provide only as necessary for the third party to provide that service
+  * when we have the customer's prior permission 
+  * when we are allowed or required by law to disclose it, such as to comply with a subpoena, or similar legal process
+  * when we believe in good faith that disclosure is necessary to protect our rights, protect your safety or the safety of others, investigate fraud, or respond to a government request, or
+  * if AIG Direct is involved in a merger, acquisition, or sale of all or a portion of its assets, you will be notified via email and/or a prominent notice on our Web site of any change in ownership or uses of your personal information, as well as any choices you may have regarding your personal information
+
+
+
 We may share information with other companies to offer customers other financial products and financial services that may be of interest to them.  
-However, you have the right to tell us that you do not want us to share any information with these companies.  This right is known as the right to "opt out."  
-You may opt out at any time by sending us a written request to the address below.  Even if you opt out we may still disclose information as allowed or required by law.  
-We will not share information with anyone else unless   
-•    we have the customer’s permission, or  
-•    we are allowed or required by law to disclose it.
+However, you have the right to tell us that you do not want us to share any information with these companies. This right is known as the right to "opt out."
+
+You may opt out at any time by sending us a written request to the address below. Even if you opt out we may still disclose information as allowed or required by law.
+
+We will not share information with anyone else unless
+
+  * we have the customer’s permission, or
+  * we are allowed or required by law to disclose it.
+
+
 
 ##   
-How Can I Unsubscribe From Matrix Direct Communications?
+How Can I Unsubscribe From AIG Direct Communications?
 
 We will occasionally send you newsletters and information on products, services, special deals, and promotions. We will use your name and email address to send these emails to you.
 
@@ -69,9 +81,9 @@ You may unsubscribe or opt out of these communications at any time by sending us
 We will send you strictly service-related announcements on rare occasions when it is necessary to do so.  For instance, if our service is temporarily suspended for maintenance, we might send you an email.  Generally, you may not unsubscribe from these communications, which are not promotional in nature.  If you do not wish to receive them, you have the option to deactivate your account.
 
 ##   
-How Does Matrix Direct Keep My Social Security Number Safe?
+How Does AIG Direct Keep My Social Security Number Safe?
 
-It is the policy of Matrix Direct to protect customer and employee Social Security Numbers that we collect in the course of our business as confidential. This includes maintaining physical and electronic security procedures to guard against unauthorized access to Social Security Numbers. We also limit access to Social Security Numbers, by among other means, only granting access to Social Security Numbers to our employees who use that information to perform their job-related duties. In addition, we do not disclose Social Security Numbers to third parties, except where required or permitted by law.
+It is the policy of AIG Direct to protect customer and employee Social Security Numbers that we collect in the course of our business as confidential. This includes maintaining physical and electronic security procedures to guard against unauthorized access to Social Security Numbers. We also limit access to Social Security Numbers, by among other means, only granting access to Social Security Numbers to our employees who use that information to perform their job-related duties. In addition, we do not disclose Social Security Numbers to third parties, except where required or permitted by law.
 
 ##   
 Do We Collect Information About Children?
@@ -86,7 +98,7 @@ This Privacy Policy is not a contract and is not intended to be a contract betwe
 ##   
 Will I Be Notified of Privacy Policy Changes?
 
-If we decide to change our privacy policy, we will post those changes on our Web site. Access to those changes will be presented via a link on our homepage and other places we deem appropriate so our users are always aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it. We will use information in accordance with the privacy policy under which the information was collected. If, however, we are going to use users' personally identifiable information in a manner different from that stated at the time of collection, we will notify users via email or postal mail. Users will have a choice as to whether or not we use their information in this different manner. However, if users have opted out of receiving communication from Matrix Direct then they will not be contacted, nor will their personal information be used in this new manner. In addition, if we make any material changes in our privacy practices that do not affect user information already stored in our database, we will post a prominent notice on our Web site notifying users of the change.
+If we decide to change our privacy policy, we will post those changes on our Web site. Access to those changes will be presented via a link on our homepage and other places we deem appropriate so our users are always aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it. We will use information in accordance with the privacy policy under which the information was collected. If, however, we are going to use users' personally identifiable information in a manner different from that stated at the time of collection, we will notify users via email or postal mail. Users will have a choice as to whether or not we use their information in this different manner. However, if users have opted out of receiving communication from AIG Direct then they will not be contacted, nor will their personal information be used in this new manner. In addition, if we make any material changes in our privacy practices that do not affect user information already stored in our database, we will post a prominent notice on our Web site notifying users of the change.
 
 ##   
 How Can I Contact You for Information?
@@ -149,4 +161,4 @@ Am I Protected When Linking to Other Sites?
 
 This Web site may from time to time contain links to other Web sites, banner ads or advertisements (which in turn may link to other locations) for the convenience of users in locating information and services that may be of interest.  If you use these linked Web sites or advertisements, you may leave this site and go to Web sites that we do not control.  If you decide to visit these Web sites or advertisers, you do so at your own risk and it is your responsibility to read and comply with the privacy policies on those Web sites.  Your right to privacy on a linked site is limited to whatever rights are provided to you by the owner of the linked site.
 
-This Privacy Policy only applies to this site.  This site only includes its home page and pages hereunder operated by Matrix Direct.  This Privacy Policy does not apply to any linked site, any site provided by a third party or any site provided by American General Life Companies LLC or its affiliates.  Your must consult the privacy policy of each site, particularly at any sites provided by third parties, in order to determine what information about you is collected and how that information is used.
+This Privacy Policy only applies to this site.  This site only includes its home page and pages hereunder operated by AIG Direct.  This Privacy Policy does not apply to any linked site, any site provided by a third party or any site provided by American General Life Companies LLC or its affiliates.  Your must consult the privacy policy of each site, particularly at any sites provided by third parties, in order to determine what information about you is collected and how that information is used.
