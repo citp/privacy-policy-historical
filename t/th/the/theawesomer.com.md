@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the theawesomer.com privacy policy that was archived on 2012-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121222012110id_/http%3A//theawesomer.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theawesomer.com privacy policy that was archived on 2013-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130625040426id_/http%3A//theawesomer.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - The Awesomer
+# Privacy Policy
 
 **Visitor Data**  
 We take the privacy of our visitors very seriously. While we do use Google Analytics and Chartbeat to collect aggregate information on unique visits, pageviews, etc–this information is used to analyze overall traffic patterns only.
