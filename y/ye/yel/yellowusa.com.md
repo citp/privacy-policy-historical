@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the yellowusa.com privacy policy that was archived on 2012-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121016060115id_/http%3A//www.yellowusa.com/privacy_policy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yellowusa.com privacy policy that was archived on 2013-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130626002033id_/http%3A//www.yellowusa.com/privacy_policy.cfm) for the most accurate reproduction.*
 
 # YellowUSA.com Privacy Policy
 
@@ -30,5 +30,5 @@ We include your first name and state with your review. You may choose to post an
 We link to a number of sites belonging to customers and 3rd party vendors. These sites are not under our control. They may have their own privacy policies that are different from YellowUSA's. YellowUSA is not responsible for the collection, use, or disclosure of any information collected through those sites, and YellowUSA expressly disclaims any liability related to such collection, use, or disclosure.   
    
    
-For any comments, questions, or concerns about this Privacy Policy, please [contact us](https://web.archive.org/contactUS.cfm).   
+For any comments, questions, or concerns about this Privacy Policy, please [contact us](https://web.archive.org/contactus.cfm).   
  
