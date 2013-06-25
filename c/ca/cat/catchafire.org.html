@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the catchafire.org privacy policy that was archived on 2012-11-18.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121118080452id_/http%3A//www.catchafire.org/about/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the catchafire.org privacy policy that was archived on 2013-06-25.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130625045155id_/http%3A//www.catchafire.org/about/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en"><head>
       <meta charset="utf-8">
@@ -7,45 +7,77 @@
 
       
       
-        <link rel="stylesheet" href="//www.catchafire.org/media/209/gen/screen.css?e0e2f45f">
+        <link rel="stylesheet" href="//www.catchafire.org/media/288/gen/screen.css">
       
 
-      <link rel="stylesheet" href="//www.catchafire.org/media/209/stylesheets/blueprint/screen.css">
+      <link rel="stylesheet" href="//www.catchafire.org/media/288/stylesheets/blueprint/screen.css">
       <!--[if lt IE 8]>
-        <link rel="stylesheet" href="//www.catchafire.org/media/209/stylesheets/blueprint/ie.css" />
+        <link rel="stylesheet" href="//www.catchafire.org/media/288/stylesheets/blueprint/ie.css" />
       <![endif]-->
-      <link rel="stylesheet" href="//www.catchafire.org/media/209/stylesheets/all.css">
-      <link rel="stylesheet" href="//www.catchafire.org/media/209/stylesheets/jquery.countdown.css">
+      <link rel="stylesheet" href="//www.catchafire.org/media/288/stylesheets/all.css">
+      <link rel="stylesheet" href="//www.catchafire.org/media/288/stylesheets/jquery.countdown.css">
+
+      <link rel="image_src" href="//www.catchafire.org/media/288/images/90pxSquare.png">
 
       
       
       
-        <script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script src="//www.catchafire.org/media/209/gen/modernizr.js?32e33a76"></script>
+        <script type="text/javascript" async="" src="https://widget.uservoice.com/ToRfjYN5p3z6fztonzGXkw.js"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script src="//www.catchafire.org/media/288/gen/modernizr.js"></script>
       
       <!--[if lt IE 9]>
       
-        <script src="//www.catchafire.org/media/209/gen/IE9.js?84c4617b"></script>
+        <script src="//www.catchafire.org/media/288/gen/IE9.js"></script>
       
+      <![endif]-->
+      <!--[if lt IE 8]>
+        <script src="//www.catchafire.org/media/288javascripts/selectivizr.js"></script>
       <![endif]-->
       <!--[if IE 8]>
         <script>document.getElementsByTagName('html')[0].className = "ie8"</script>
       <![endif]-->
+      <!--[if IE 7]>
+        <script>document.getElementsByTagName('html')[0].className = "ie7"</script>
+      <![endif]-->
 
-      <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js"></script>
-      <script src="//www.catchafire.org/media/209/javascripts/jquery.watermark.min.js"></script>
-      <script src="//www.catchafire.org/media/209/javascripts/jquery.simplemodal-1.3.5.min.js"></script>
-      <script src="//www.catchafire.org/media/209/javascripts/jquery.tools.min.js"></script>
-      <script src="//www.catchafire.org/media/209/javascripts/jquery.cookie.min.js"></script>
-      <script src="//www.catchafire.org/media/209/javascripts/all.js"></script>
-      <script src="//www.catchafire.org/media/209/javascripts/csrf.js"></script>
+
+    <script>
+        if (!('forEach' in Array.prototype)) {
+            Array.prototype.forEach= function(action, that /*opt*/) {
+                for (var i= 0, n= this.length; i<n; i++)
+                    if (i in this)
+                        action.call(that, this[i], i, this);
+            };
+        }
+
+    </script>
+
+    
+    <script src="//ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js"></script>
+      <script src="//www.catchafire.org/media/288/javascripts/jquery.watermark.min.js"></script>
+      <script src="//www.catchafire.org/media/288/javascripts/jquery.simplemodal-1.3.5.min.js"></script>
+      <script src="//www.catchafire.org/media/288/javascripts/jquery.tools.min.js"></script>
+      <script src="//www.catchafire.org/media/288/javascripts/jquery.cookie.min.js"></script>
+      <script src="//www.catchafire.org/media/288/javascripts/all.js"></script>
+      <script src="//www.catchafire.org/media/288/javascripts/csrf.js"></script>
+
+    
 
       
+      
+      <script>
+          ieVersion = getInternetExplorerVersion();
+          if(ieVersion == -1 || ieVersion >= 8) {
+            var FACEBOOK_APP_ID = "135795539800362";
 
-      <script> var FACEBOOK_APP_ID = "135795539800362"; </script>
-
-      <script src="https://connect.facebook.net/en_US/all.js"></script>
-
+              var s = document.createElement('script');
+              s.setAttribute('type', 'text/javascript');
+              s.setAttribute('src', "https://connect.facebook.net/en_US/all.js");
+              document.getElementsByTagName('head')[0].appendChild(s);
+              initFacebook();
+          }
+      </script>
       <title>Catchafire - Privacy Policy</title>
+
 
       <script>
         var _gaq = _gaq || [];
@@ -54,10 +86,11 @@
         _gaq.push(['_trackPageLoadTime']);
 
         (function() {
-          var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+            var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
           ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
           var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
-        })();
+      })();
+
         $(function () {
           //scroll the top form error into view
           var formErrors = $('.form-error-class');
@@ -67,9 +100,20 @@
       </script>
     <script type="text/javascript" src="https://cdn.uservoice.com/javascripts/widgets/tab.js"></script></head>
     <body>
+
+      <!--[if lt IE 8]>
+        <div class="noscript-banner ie-warning">
+          <h1>You are using an unsupported version of this browser</h1>
+          <p>Please upgrade or use our favorite, <a href="http://www.google.com/chrome">Chrome</a>, for an optimized experience.</p>
+        </div>
+      <![endif]-->
+
         
         
-	
+        <aside id="top_messages">
+        
+	</aside>
+
         
         <div id="page" class="clear">
           <header><div class="container">
@@ -88,7 +132,7 @@
     <p class="logged-out-text">
         <a href="/user_reg">Join</a>
         <span class="slash"></span>
-        <a onclick="return showLoginDialog(window.location.pathname);">Login</a>
+        <a href="/login_page?redirect=/about/privacy/">Login</a>
     </p>
 
 
@@ -435,7 +479,7 @@ email address you may have provided to us.
                 <div class="logo"></div>
                 <a href="https://www.facebook.com/Catchafire.org" class="facebook" target="_blank">Facebook</a>
                 <a href="https://twitter.com/catchafire" class="twitter" target="_blank">Twitter</a>
-                <a href="http://www.linkedin.com/groups?gid=2217220" class="linkedin" target="_blank">LinkedIn</a>
+                <a href="http://www.linkedin.com/company/catchafire" class="linkedin" target="_blank">LinkedIn</a>
                 <a href="http://vimeo.com/user4676920" class="vimeo" target="_blank">Vimeo</a>
               </nav>
 
@@ -445,8 +489,8 @@ email address you may have provided to us.
                   <h2>An occasional dose of pure inspiration.</h2>
                 </hgroup>
 
-                <form id="newsletter" action="/newsletter/signup">
-  <div style="display:none"><input type="hidden" name="csrfmiddlewaretoken" value="05db799b76474a271da113fe22041977"></div>
+                <form class="js-disable-on-submit" id="newsletter" action="/newsletter/signup">
+  <div style="display:none"><input type="hidden" name="csrfmiddlewaretoken" value="ZtojHNE74gcIUaJzgtsSd9G27ZZdYxbk"></div>
   <div class="right news-submit left-5"><button tabindex="2" class="small" id="newsletter_signup_submit">Sign up</button></div>
   <div class="fix-float full news-email"><input tabindex="1" type="email" name="email" id="id_email" placeholder="Enter email…"></div>
 
@@ -468,13 +512,13 @@ email address you may have provided to us.
 
                 <div class="avatars">
                   
-                    <a href="/about/team/#melissa-osborne"><img src="//www.catchafire.org/media/209/images/staff_members/Melissa_O.jpg" width="60" height="60" alt=""></a>
+                    <a href="/about/team/#jared-nuzzolillo"><img src="//www.catchafire.org/media/288/images/staff_members/jared.jpg" width="60" height="60" alt=""></a>
                   
-                    <a href="/about/team/#jared-nuzzolillo"><img src="//www.catchafire.org/media/209/images/staff_members/avatar_jared_nuzzolillo.jpg" width="60" height="60" alt=""></a>
+                    <a href="/about/team/#joe-cravo"><img src="//www.catchafire.org/media/288/images/staff_members/joe.jpg" width="60" height="60" alt=""></a>
                   
-                    <a href="/about/team/#dana-raviv"><img src="//www.catchafire.org/media/209/images/staff_members/avatar_dana_raviv.jpg" width="60" height="60" alt=""></a>
+                    <a href="/about/team/#rolando-murillo"><img src="//www.catchafire.org/media/288/images/staff_members/rolando.jpg" width="60" height="60" alt=""></a>
                   
-                    <a href="/about/team/#jason-everitt"><img src="//www.catchafire.org/media/209/images/staff_members/avatar_jason_everitt.jpg" width="60" height="60" alt=""></a>
+                    <a href="/about/team/#daniel-jacob"><img src="//www.catchafire.org/media/288/images/staff_members/dan.jpg" width="60" height="60" alt=""></a>
                   
                 </div>
 
@@ -511,8 +555,8 @@ email address you may have provided to us.
           </div>
           <form id="confirm_form">
             <center>
-            <input id="confirm_yes" type="image" src="//www.catchafire.org/media/209/images/btn-yes.png">&nbsp;&nbsp;&nbsp;
-            <input class="simplemodal-close" id="confirm_no" type="image" src="//www.catchafire.org/media/209/images/btn-no.png">
+              <button id="confirm_yes" type="submit">Yes</button>&nbsp;&nbsp;&nbsp;
+              <button id="confirm_no" type="submit">No</button>
             </center>
           </form>
         </div>
@@ -546,7 +590,14 @@ email address you may have provided to us.
           lang: 'en'
         };
 
-        
+        (function () {
+            var uv = document.createElement('script');
+            uv.type = 'text/javascript';
+            uv.async = true;
+            uv.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'widget.uservoice.com/ToRfjYN5p3z6fztonzGXkw.js';
+            var s = document.getElementsByTagName('script')[0];
+            s.parentNode.insertBefore(uv, s);
+        })();
 
         function _loadUserVoice() {
           var s = document.createElement('script');
@@ -572,11 +623,11 @@ email address you may have provided to us.
 
       
       
-        <script src="//www.catchafire.org/media/209/gen/site.min.js?1d0654b5"></script>
+        <script src="//www.catchafire.org/media/288/gen/site.min.js"></script>
       
 
       
-        <script src="//www.catchafire.org/media/209/gen/footer.js?307671fa"></script>
+        <script src="//www.catchafire.org/media/288/gen/footer.js"></script>
       
 
       
@@ -589,7 +640,6 @@ email address you may have provided to us.
             $.cookie("referrer_source", referrer);
           }
 
-          initFacebook();
 
           
           (function() {
