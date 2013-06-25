@@ -1,12 +1,16 @@
-> *The following text is extracted and transformed from the bom.com privacy policy that was archived on 2012-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121206102903id_/http%3A//arenasolutions.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bom.com privacy policy that was archived on 2013-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130625074801id_/http%3A//www.arenasolutions.com/privacy) for the most accurate reproduction.*
 
 # Privacy | Arena Solutions
 
 [](https://privacy.truste.com/privacy-seal/Arena-Solutions,-Inc-/validation?rid=737db019-099a-49cb-886c-dab56fd3ed69 "TRUSTe online privacy certification")
 
+[](https://safeharbor.export.gov/list.aspx) [](http://www.export.gov/safeharbor)
+
 Arena Solutions, Inc. (“ **Arena Solutions** ”) has been awarded TRUSTe’s Privacy Seal, signifying that this Privacy Policy (this “ **Privacy Policy** ”) and related practices have been reviewed by TRUSTe for compliance with [TRUSTe’s program requirements](http://www.truste.com/privacy_seals_and_services/consumer_privacy/privacy-programs-requirements.html) including transparency, accountability and choice regarding the collection and use of your personal information. The TRUSTe program covers only information that is collected through these web sites: http://www.arenasolutions.com and http://app.bom.com. TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions.
 
 If you have questions or complaints regarding this Privacy Policy or our practices, please contact us at [privacy@arenasolutions.com](mailto:privacy@arenasolutions.com) or via postal mail sent to Arena Solutions, attn: Privacy Officer, 4100 East Third Avenue, Suite 300 Foster City, CA 94404. If you are not satisfied with our response, you can contact [TRUSTe here](http://watchdog.truste.com/pvr.php?page=complaint).
+
+Arena Solutions complies with the U.S. – E.U. Safe Harbor framework and the U.S. - Swiss Safe Harbor framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal data from European Union member countries and Switzerland. Arena Solutions has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view Arena Solutions’ certification, please visit <http://www.export.gov/safeharbor/>
 
 Arena Solutions has created this Privacy Policy to demonstrate our commitment to user and visitor privacy. This Privacy Policy describes our information-gathering and dissemination practices for the Arena Solutions web sites which link to this Privacy Policy (the “ **Arena Sites** ”) and the services (the “ **Services** ”) delivered by Arena Solutions to our users through the Arena Sites. Privacy on the Arena Sites and within the Services is of utmost importance to us. By visiting the Arena Sites or using the Services, you are agreeing to the collection and use of information in the manner described below.
 
@@ -78,7 +82,7 @@ Whenever visitors or users submit requests for more information or services from
 
 ## Updating Contact Information
 
-We encourage our visitors and users to update and edit their contact information and keep it current. Users can easily correct or update their contact information at any time through the Services and users may request the deletion as well as correction or updating of their contact information by emailing [privacy@arenasolutions.com](mailto:privacy@arenasolutions.com).
+We encourage our visitors and users to update and edit their contact information and keep it current. Users can easily correct, delete or update their contact information at any time through the Services and users may request the deletion as well as correction or updating of their contact information by emailing [privacy@arenasolutions.com](mailto:privacy@arenasolutions.com). Requests to access, change, or delete your information will be handled within 15 days.
 
 ## Information Retention
 
@@ -88,4 +92,4 @@ We will retain your PII for at least as long as your account or any account with
 
 Arena Solutions may amend this Privacy Policy from time to time. If Arena Solutions is going to use your PII in a manner different from that stated at the time of collection we will notify you via email sent to the email address you have provided to us. You will have a choice as to whether or not we use your PII in this different manner. In addition, if we make any material changes in our privacy practices that do not affect visitor or user PII already stored in our database, we will post a prominent notice on the Arena Sites or in the Services notifying users of the change. In some cases where we post the notice, prior to the change becoming effective we will also email users who have opted to receive communications from us notifying them of such changes in our privacy practices.
 
-Last Updated on 11/30/2012
+Last Updated on 4/1/2013
