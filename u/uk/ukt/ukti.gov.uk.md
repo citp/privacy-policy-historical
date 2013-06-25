@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ukti.gov.uk privacy policy that was archived on 2012-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121228042719id_/http%3A//www.ukti.gov.uk/uktihome/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ukti.gov.uk privacy policy that was archived on 2013-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130625203818id_/http%3A//www.ukti.gov.uk/uktihome/privacypolicy.html) for the most accurate reproduction.*
 
 # Privacy and Cookies
 
@@ -8,7 +8,7 @@ UK Trade & Investment (UKTI) processes personal data for the purposes of promoti
 
 ## Cookies
 
-UKTI provides details on what [cookies do and a full list that UKTI uses](http://www.ukti.gov.uk/uktihome/item/142860.html) on its websites.
+UKTI provides details on what [_cookies do and a full list that UKTI uses_](http://www.ukti.gov.uk/uktihome/item/142860.html) on its websites.
 
 ## Registration information
 
@@ -119,6 +119,6 @@ Phone: 08456 30 60 60 or 01625 54 57 45
 
 Fax: 01625 524510.
 
-Website: [_www.ico.gov.uk_](http://www.ico.gov.uk/)
+Website: [_www.ico.org.uk_](http://www.ico.org.uk/)
 
-UK Trade & Investment, May 2011
+UK Trade & Investment May 2011
