@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the designfreebies.org privacy policy that was archived on 2012-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121227090934id_/http%3A//www.designfreebies.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the designfreebies.org privacy policy that was archived on 2013-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130625184309id_/http%3A//www.designfreebies.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Designfreebies
 
@@ -22,4 +22,4 @@ Our site may contain links to other websites of interest. However, once you use 
 
 **Privacy Contact Information**
 
-Should you have any questions, concerns, or comments about our privacy policy, please contact us using our Contact Form or email us directly at designfreebies@yahoo.com
+Should you have any questions, concerns, or comments about our privacy policy, please email us directly at designfreebies@yahoo.com
