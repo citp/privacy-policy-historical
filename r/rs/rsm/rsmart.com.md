@@ -1,20 +1,20 @@
-> *The following text is extracted and transformed from the rsmart.com privacy policy that was archived on 2012-10-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121012162251id_/http%3A//www.rsmart.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rsmart.com privacy policy that was archived on 2013-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130625061742id_/http%3A//www.rsmart.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy for mySakai | rSmart
+# rSmart Privacy Policy - rSmart
 
 rSmart recognizes and respects the privacy interests of its users. rSmart is committed to protecting that privacy and keeping users informed about our privacy policy.
 
 ## What is covered by this Privacy Statement
 
-  * rSmart privacy policy and its exceptions
-  * What do we collect?
-  * Why do we collect this data?
-  * How is my personal information used?
-  * Who else gets to see my information?
-  * How do I know my information is safe with you?
-  * Does rSmart use cookies?
-  * Links
-  * Questions
+  * [rSmart privacy policy and its exceptions](http://www.rsmart.com/privacy-policy#exceptions)
+  * [What do we collect?](http://www.rsmart.com/privacy-policy#what)
+  * [Why do we collect this data?](http://www.rsmart.com/privacy-policy#why)
+  * [How is my personal information used?](http://www.rsmart.com/privacy-policy#how)
+  * [Who else gets to see my information?](http://www.rsmart.com/privacy-policy#who)
+  * [How do I know my information is safe with you?](http://www.rsmart.com/privacy-policy#safe)
+  * [Does rSmart use cookies?](http://www.rsmart.com/privacy-policy#cookies)
+  * [Links](http://www.rsmart.com/privacy-policy#websites)
+  * [Questions](http://www.rsmart.com/privacy-policy#questions)
 
 
 
@@ -46,7 +46,7 @@ rSmart will use your personal identifying information to automatically fill out 
 
 Your personal identifying information may also be used for the following purposes:
 
-We may use your identifying information to help diagnose problems with rSmart's server and to administer the rSmart Website.
+We may use your identifying information to help diagnose problems with rSmart’s server and to administer the rSmart Website.
 
 Summary data representing a compilation of aggregate data representing rSmart users may be collected by rSmart. NO PERSONAL IDENTIFYING INFORMATION IS USED IN THESE SUMMARY REPORTS. Some examples of summary data are the number of monthly visitors to the site, and the number of subscribers to rSmart e-mail newsletters.
 
@@ -60,7 +60,7 @@ rSmart enables the data you input to be encrypted when in route between your bro
 
 ## Does rSmart use cookies?
 
-A cookie is a small file that a website transfers to a user's computer, which may then be stored on its hard drive. rSmart uses cookies to remember you and personalize your web-viewing experience by keeping track of your session when logged on to rSmart web applications. Cookies enable you to maintain continuity as you move from page to page on rSmart's web applications and to avoid the nuisance of being asked to provide the same information repeatedly. Cookies also allow us to make sure that only your browser can exchange information regarding your account with our servers. Cookies cannot be used to steal personal information or to gain access to information that you did not directly provide. The cookies we use are set when you log on to rSmart applications and are erased when you log off rSmart applications or completely close your browser.
+A cookie is a small file that a website transfers to a user’s computer, which may then be stored on its hard drive. rSmart uses cookies to remember you and personalize your web-viewing experience by keeping track of your session when logged on to rSmart web applications. Cookies enable you to maintain continuity as you move from page to page on rSmart’s web applications and to avoid the nuisance of being asked to provide the same information repeatedly. Cookies also allow us to make sure that only your browser can exchange information regarding your account with our servers. Cookies cannot be used to steal personal information or to gain access to information that you did not directly provide. The cookies we use are set when you log on to rSmart applications and are erased when you log off rSmart applications or completely close your browser.
 
 ## Links to other websites
 
@@ -68,4 +68,4 @@ rSmart hosts links to other sites having privacy policies that may differ from t
 
 ## Questions?
 
-If you have any questions about this privacy statement and the privacy practices on this site, please [contact us](https://web.archive.org/contact "Contact rSmart").
+If you have any questions about this privacy statement and the privacy practices on this site, please [contact us](http://www.rsmart.com/contact "Contact rSmart").
