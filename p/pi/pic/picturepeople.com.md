@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the picturepeople.com privacy policy that was archived on 2012-10-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121023054639id_/http%3A//www.picturepeople.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the picturepeople.com privacy policy that was archived on 2013-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130625022811id_/http%3A//www.picturepeople.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Picture People - Professional Studio Portrait Photography
 
@@ -37,7 +37,4 @@ We collect information you provide when you visit our physical studios, register
   * Your phone number 
   * The names and birthdates of your children 
 
-
-
-[](https://web.archive.org/portrait-products/portrait-club)[](https://web.archive.org/portrait-products/portrait-club)  
 
