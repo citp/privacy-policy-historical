@@ -1,571 +1,242 @@
-<!--The following is the downloaded HTML source of the iguide.to privacy policy that was archived on 2012-05-12.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120512193613id_/http%3A//www.iguide.to/privacy-notice) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the iguide.to privacy policy that was archived on 2013-06-25.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130625040441id_/http%3A//www.iguide.to/privacy-notice) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head profile="http://www.w3.org/2005/10/profile">
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-<title>Private Notice :: Iguide.to - The complete TV programing guide</title>
-<link href="css/style.css" rel="stylesheet" type="text/css">
-<script id="twitter-wjs" src="//platform.twitter.com/widgets.js"></script><script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js"></script>
-<script src="./js/ajax.js" type="text/javascript"></script>  
+<meta name="robots" content="index, follow">
+<meta http-equiv="pragma" content="no-cache">
+<title>Privacy Notice  </title>
+<meta name="keywords" content="Live Streaming Platform">
+<meta name="description" content="Live Streaming Platform">
+<meta property="fb:app_id" content="177032239011605">
+<link href="http://www.iguide.to/style.css?358" rel="stylesheet" type="text/css">
+<link rel="shortcut icon" href="/favicon.ico" type="image/x-icon">
+<script type="text/javascript" async="" src="https://cc.chango.com/static/o.js"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script id="facebook-jssdk" src="//connect.facebook.net/en_US/all.js#xfbml=1&amp;appId=272857196139616"></script><script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js"></script>     
+<script type="text/javascript">
+$.ajaxSetup({
+    // Disable caching of AJAX responses
+    cache: false
+})
+
+function rateIt(id, rating) {
+    $.post('rating.php', {'id': id, 'rating':rating}, function(html) {
+        var newrating = html*25;
+        $('#currentrating'+id).css('width',newrating+'px');
+	alert("Thank you for your rating.");
+    });
+    return false;
+}
+
+function addParameter(url, param, value) {
+    var val = new RegExp('(\\?|\\&)' + param + '=.*?(?=(;|&|$))'),
+       qstring = /\?.+$/;
+    if (val.test(url)) {
+       return url.replace(val, '$1' + param + '=' + value);
+    }
+    else if (qstring.test(url)) {
+       return url + '&' + param + '=' + value;
+    }
+    else {
+       return url + '?' + param + '=' + value;
+    }
+}
+</script>
 </head>
 <body>
-<div class="wrap">
-  <div class="banner">
-	<div style="width:728px;height:90px;border:0px dashed #000;text-align:center;line-height:90px">
-<!-- BEGIN STANDARD TAG - 728 x 90 - Ilive.to: 728*90 - DO NOT MODIFY -->
-
-<script type="text/javascript" src="http://ad.yieldmanager.com/st?ad_type=ad&amp;ad_size=728x90&amp;section=2736304"></script>
-
-<!-- END TAG -->
-
-
-</div></div>
-  <div class="main">
-    <div class="top_links">
-      <div class="top_links_left"><a href="https://twitter.com/ilivetowatch" class="twitter-follow-button" data-show-count="true">Follow @Iguide.to</a>
-<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="//platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
-</div>
-      <div class="top_links_right">
-        <div class="top_right_nav">
-          <ul>
-            <li><a href="#">Sign In</a></li>
-            <li>I</li>
-            <li><a href="#">New User</a></li>
-            <li>I</li>
-            <li><a href="#">Sign Up</a></li>
-          </ul>
-          <div class="clr"></div>
-        </div>
-      </div>
-      <div class="clr"></div>
-    </div>
-    <div class="header_container">
-      <div class="logo"><a href="/"><img src="images/logo.gif" alt=""></a></div>
-      <div class="top_search">
-        <div class="search_in">
-          <input class="search_input" name="n" type="text">
-        </div>
-        <div class="btn_search">
-          <input type="image" src="images/btn_search.gif">
-        </div>
-      </div>
-      <div class="top_profile">
-        <div class="top_heading"></div>
-        <div class="top_profile_txt">Iguide offers a complete TV program guide and Live Sport schedule.</div>
-      </div>
-      <div class="top_profile_img"></div>
-      <div class="clr"></div>
-    </div>
-    <div class="navigation">
-      <ul>
-        <li><a href="/">Home</a></li>
-        <li><img src="images/sp.gif" width="1" height="35"></li>
+<div id="wrapper">
+	<div id="header">
+									
+		<div id="logo"></div>
+        <center>  
+		<div id="adsHeader">
+			            
+        </div>        
+		</center>
         
-        <li><a href="#">Watch List</a></li>
-        <li><img src="images/sp.gif" width="1" height="35"></li>
-        <li><a href="#">Live Sport Schedule</a></li>
-        <li><img src="images/sp.gif" width="1" height="35"></li>
-	 
-        <li><img src="images/sp.gif" width="1" height="35"></li>
+	</div>
+	<div id="nav">
+																			
+		<ul class="menu">
+			<li><a href="http://www.iguide.to/"><span>Home</span></a></li>
+<li><a href="http://www.iguide.to/broadcast"><span>Broadcast</span></a></li>
+<li><a href="http://www.iguide.to/channels"><span>Channels</span></a></li>
+<li><a href="http://www.iguide.to/register"><span>Register</span></a></li>
+<li><a href="http://www.iguide.to/login"><span>Login</span></a></li>
+		</ul>
+		<div id="search">
+			<form method="get" action="http://www.iguide.to/channels/">
+				<input type="text" name="q" value="Find a channel" onfocus="if (this.value=='Find a channel') this.value=''"> <input type="submit" value="">
+			</form>
+		</div>
+	</div>
+	<div id="content">
 
-        <li><img src="images/sp.gif" width="1" height="35"></li>
+<div id="fb-root"></div>
 
-      </ul>
-    </div>
-    <div class="clr"></div>
-    <div class="middle_bg"><div class="content">
-<h1>Private Notice</h1>
-<div class="deck">
-	PLEASE READ THIS PRIVACY POLICY AND THE RELATED TERMS OF SERVICE LOCATED AT
-	<a href="http://www.iguide.to/term-of-service">
-	http://www.iguide.to/term-of-service</a> CAREFULLY BEFORE USING THIS 
-	WEBSITE.<br>
-	<br>
-	This website is operated by TV Guide Online Holdings, LLC on its own behalf 
-	or in combination with one of its film or television divisions or joint 
-	ventures (collectively referred to herein, solely for ease of reference, as 
-	"Company", "us" or "we"). This privacy policy ("Privacy Policy") applies to 
-	all of the online and mobile websites and interactive applications operated 
-	by Company (unless a different policy is provided on a particular site or 
-	application, in which case such different policy shall control). Protection 
-	of personal and sensitive information is paramount. This Privacy Policy 
-	discloses what type of information is collected, the methods used to collect 
-	it, how Company utilizes the information to better serve all interested 
-	parties and the choices you have about the way your information is collected 
-	and used. Please read this Privacy Policy carefully. Your use of any Company 
-	website indicates that you have read, accepted and unconditionally agreed to 
-	the Company privacy practices, as outlined in this Privacy Policy and any 
-	other applicable terms. The Terms of Service
-	<a href="http://www.iguide.to/term-of-service">
-	http://www.iguide.to/term-of-service</a> for this website are 
-	incorporated herein by this reference.
+<!-- facebook integration -->
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/all.js#xfbml=1&appId=272857196139616";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+
+
+
+
+   
+        <div id="main">
+            <h1>Privacy Notice</h1>
+			<br>
+			Welcome to the Iguide.to. ("Iguide.to") applications, platform, website( <a href="http://www.Iguide.to" target="_blank" rel="nofollow">www.Iguide.to</a>), and any other web sites, applications, or services operated or produced by Iguide.to (collectively, the "Iguide.to Platform"). Iguide.to values the privacy of the users, subscribers, publishers, members, and others who visit and use the Iguide.to Platform (collectively or individually, "You" or "Users").<br>
+				<br>
+			<br>
+			By using the Iguide.to Platform, you expressly consent to the information handling practices described in this notice.<br>
+
+				<br>
+			<br>
+			This Privacy Notice is incorporated into and is subject to the Iguide.to Platform <a href="/term-of-service" rel="nofollow" target="_blank">Terms of Service</a>. Your use of the Iguide.to Platform and any personal information you provide through the Iguide.to Platform are subject at all time to this Privacy Notice and the <a href="/term-of-service" rel="nofollow" target="_blank">Terms of Service</a>.<br>
+			<br>
+			<b><span style="color: #ff9600">The Information Iguide.to Collects</span></b><br>
+			<br>
+				  [*]User-provided Information: You may provide to Iguide.to what is generally called "personally identifiable" information (such as your name, email address, postal mailing address, home/mobile telephone number, credit card number and billing information) if you upload, purchase, or view or download certain content or products from the Iguide.to Platform, enter contests or sweepstakes, or otherwise use the features and functionality of the Iguide.to Platform.<br>
+				  [*]"Cookies" Information: When you access the Iguide.to Platform, we may send one or more cookies which are small text files containing a string of alphanumeric characters Ã¢â‚¬â€œ to your computer. Iguide.to may use both session cookies and persistent cookies. A session cookie disappears after you close your browser. A persistent cookie remains after you close your browser and may be used by your browser on subsequent visits to the Iguide.to Platform. Persistent cookies can be removed. Please review your web browser "Help" file to learn the proper way to modify your cookie settings.<br>
+
+				  [*]"Automatically Collected" Information: When you access the Iguide.to Platform or open one of our HTML emails, we may automatically record certain information from your system by using different types of tracking technology. This "automatically collected" information may include Internet Protocol address ("IP Address"), a unique user ID, version of software installed, system type, the content and pages that you access on the Iguide.to Platform, and the dates and times that you visit the Iguide.to Platform. <br>
+				<br>
+			<b><span style="color: #ff9600">The Way Iguide.to Uses Information</span></b>  <br>
+			  <br>
+				  [*]Iguide.to uses the information that you provide or that we collect to operate, maintain, enhance, and provide all of the features and services found on the Iguide.to Platform as well as to track user-generated content and Users to the extent necessary to comply as a service provider with the Digital Millennium Copyright Act. <br>
+				  [*]We will use your email address, without further consent, for administrative communications such as notifying you of major Iguide.to Platform updates, for customer service purposes, to address copyright infringement or defamation issues, or to contact you regarding any content that you have posted to or downloaded from the Iguide.to Platform.<br>
+				  [*]Iguide.to uses all of the information that we collect to understand the usage trends and preferences of our Users, to improve the way the Iguide.to Platform works and looks, and to create new features and functionality.<br>
+
+				  [*]Iguide.to may use "Automatically Collected" information and "Cookies" information to: (a) automatically update the Iguide.to application on your system; (b) remember your information so that you will not have to re-enter it during your visit or the next time you access the Iguide.to Platform; (c) provide customized third-party advertisements, content and information; (d) monitor the effectiveness of third-party marketing campaigns; (e) monitor aggregate site usage metrics such as total number of visitors and pages accessed; and (f) track your entries, submissions, and status in any promotions or other activities.<br>
+				<br>
+			<b><span style="color: #ff9600">When Iguide.to Discloses Information</span></b>   <br>
+			 <br>
+				  [*]Iguide.to does not share your personally identifiable information with other organizations for their marketing or promotional uses without your prior express consent. Please be aware, however, that any personally identifiable information that you voluntarily choose to display on any publicly available portion of the Iguide.to Platform Ã¢â‚¬â€œ such as when you publish content, comments or profile information Ã¢â‚¬â€œ becomes publicly available and may be collected and used by others without restriction.<br>
+				  [*]Iguide.to may disclose Automatically Collected and other aggregate non-personally-identifiable information with interested third parties to assist such parties in understanding the usage and demographic patterns for certain programs, content, services, advertisements, promotions, or other functionality of Iguide.to.<br>
+				  [*]We may disclose some limited User information to affiliated companies or other businesses or persons to: provide web site hosting, maintenance, and security services; fulfill orders; conduct data analysis and create reports; offer certain functionality; and assist Iguide.to in improving the Iguide.to Platform and creating new services features. We require that these parties process such information in compliance with this Privacy Notice, we authorize only a limited use of such information, and we require these parties to use reasonable confidentiality measures.<br>
+
+				  [*]Iguide.to may disclose User information if required to do so by law or in the good-faith belief that such action is necessary to comply with state and federal laws (such as U.S. Copyright law) or respond to a court order, judicial or other government subpoena, or warrant in the manner required by the requesting entity.<br>
+				  [*]Iguide.to also reserves the right to disclose User information that we believe, in good faith, is appropriate or necessary to take precautions against liability; protect Iguide.to from fraudulent, abusive, or unlawful uses; to investigate and defend ourselves against third-party claims or allegations; to assist government enforcement agencies; to protect the security or integrity of the Iguide.to Platform; or to protect the rights, property, or personal safety of Iguide.to, our Users, or others.<br>
+				<br>
+			<b><span style="color: #ff9600">Your Choices</span></b>  <br>
+			<br>
+			You may, of course, decline to share your personally-identifiable information with Iguide.to, in which case Iguide.to will not be able to provide to you some of the features and functionality found on the Iguide.to Platform. You may update, correct, or delete your user information and preferences by clicking on the "Edit Settings" link on the top left of the page once you have logged in to the Iguide.to Platform.<br>
+				<br>
+			<br>
+
+			To protect your privacy and security, we take reasonable steps to verify your identity before granting you account access or making corrections to your information. You are responsible for maintaining the secrecy of your unique password and account information at all times.<br>
+			 <br>
+			<b><span style="color: #ff9600">Advertisers</span></b>    <br>
+			<br>
+			Iguide.to may allow advertisers, third party advertising networks and third-party advertising serving companies to serve advertisements directly to you within the Iguide.to site, services and software. By serving these advertisements directly to you, these companies can set their own cookies on your computer and trigger their own Web beacons to measure the effectiveness of their advertisements and to personalize the advertising content. Iguide.to does not provide your personally identifiable information to these third-party ad servers or ad networks without your consent. However, please note that if an advertiser asks Iguide.to to show an advertisement to a certain audience (for example, males age 15 to 18) or audience segment (for example, males age 15 to 18 who have participated in certain promotions) and you respond to that advertisement, the advertiser or ad-server may conclude that you fit the description of the audience that they were trying to reach. You should consult the respective privacy policies of these third-party ad servers or ad networks.<br>
+				<br>
+			<br>
+			Some of these companies are participants in the Network Advertising Initiative ("NAI"), a cooperative of online marketing and analytic companies committed to building consumer awareness and establishing responsible business and data management practices and standards. You can learn more about NAI and how you may "opt out" of targeted advertising delivered by NAI member ad networks here:<br>
+
+				<a href="http://www.networkadvertising.org/" rel="nofollow" target="_blank"><br>
+				http://www.networkadvertising.org/</a>.<br>
+				<br>
+			<br>
+			This Privacy Notice does not apply to, and we cannot control the activities of, such other advertisers or web sites. Iguide.to reserves the right the add or remove third-party ad networks or ad servers in its discretion and Iguide.to may not at all times list such updated ad network or ad server partners in this Privacy Notice.<br>
+			<br>
+			<b><span style="color: #ff9600">Our Commitment to Data Security</span></b>    <br>
+			<br>
+			Iguide.to uses commercially reasonable physical, managerial, and technical safeguards to preserve the integrity and security of your personal information. We cannot, however, ensure or warrant the security of any information you transmit to Iguide.to, and you do so at your own risk. Once we receive your transmission of information, Iguide.to makes commercially reasonable efforts to ensure the security of our systems. However, please note that this is not a guarantee that such information may not be accessed, disclosed, altered, or destroyed by breach of any of our physical, technical, or managerial safeguards.    <br>
+
+			<br>
+			If Iguide.to learns of a security systems breach, then we may attempt to notify you electronically so that you can take appropriate protective steps. Iguide.to may post a notice on the Iguide.to Platform if a security breach occurs. Depending on where you live, you may have a legal right to receive notice of a security breach in writing. To receive a free written notice of a security breach you should notify us at <a href="mailto:privacy@Iguide.to">privacy@Iguide.to</a>. <br>
+			<br>
+			<b><span style="color: #ff9600">Our Commitment to Children's Privacy</span></b><br>
+				<br>
+			If you are under 13 years of age, then please do not use or access THE Iguide.to PLATFORM at any time or in any manner.<br>
+				<br>
+			<br>
+			Protecting the privacy of young children is especially important. For that reason, Iguide.to does not knowingly collect or maintain personally identifiable information from persons under 13 years-of-age. If Iguide.to learns that personally-identifiable information of persons less than 13-years-of-age has been collected on or through the Iguide.to Platform, then Iguide.to will take the appropriate steps to delete this information.<br>
+
+				<br>
+			<br>
+			If you are the parent or legal guardian of a child under 13 who has become Iguide.to Platform member, then please contact Iguide.to at <a href="mailto:privacy@Iguide.to">privacy@Iguide.to</a>. This e-mail address is being protected from spambots. You need JavaScript enabled to view it to have that childÃ¢â‚¬â„¢s account terminated and information deleted.<br>
+				<br>
+			<br>
+			The following are some resources that may help parents and legal guardians in monitoring and limiting your childrens' access to certain types of material on the Internet. While Iguide.to does not endorse these products, we provide information about them as a public service to our community.<br>
+				<br>
+				  [*]<a href="http://onguardonline.gov/socialnetworking.html" rel="nofollow" target="_blank">"OnGuard Online," maintained by the FTC.</a><br>
+
+				  [*]<a href="http://www.wiredsafety.org" rel="nofollow" target="_blank">WiredSafety</a><br>
+				  [*]<a href="http://www.netsmartz.org" rel="nofollow" target="_blank">Netsmartz.org</a><br>
+				  [*]<a href="http://www.csn.org/index.jsp" rel="nofollow" target="_blank">The Child Safety Network</a><br>
+				  [*]<a href="http://www.controlkids.com" rel="nofollow" target="_blank">Control Kids</a><br>
+				  [*]<a href="http://www.solidoak.com" rel="nofollow" target="_blank">Cyber Sitter</a><br>
+
+				  [*]<a href="http://www.netnanny.com" rel="nofollow" target="_blank">Net Nanny</a><br>
+				<br>
+			<span style="color: #ff9600"><b>International Visitors</b></span><br>
+				<br>
+			For Users visiting the Iguide.to Platform from the European Economic Area or other non-U.S. territories, please note that any data you enter into the Iguide.to Platform will be transferred outside the European Economic Area or such other non-U.S. territory for use by Iguide.to and its affiliates for any of the purposes described herein. In addition, because Iguide.to operates globally, we may make information we gather available to worldwide business units and affiliates. By providing any data on the Iguide.to Platform, you hereby expressly consent to such transfers of your data to the United States or other countries.<br>
+			<br>
+			<b><span style="color: #ff9600">In the Event of Merger or Sale</span></b><br>
+			<br>
+			In the event that Iguide.to is acquired by or merged with a third-party entity, we reserve the right, in any of these circumstances, to transfer or assign the information that we have collected from Users as part of that merger, acquisition, sale, or other change of control. Changes and Updates to this Privacy Notice:<br>
+
+				<br>
+			<br>
+
+<span style="color: #ff9600"><b>Cookies &amp; 3rd Party Advertisements</b></span><br>
+<p>Google, as a third party vendor, uses cookies to serve ads on your site. Google's use of the DART cookie enables it to serve ads to your users based on their visit to your sites and other sites on the Internet. Users may opt out of the use of the DART cookie by visiting the <a href="http://www.google.com/privacy_ads.html" rel="nofollow" target="_blank">Google ad and content network privacy policy</a>.</p>
+<p>We allow third-party companies to serve ads and/or collect certain anonymous information when you visit our web site. These companies may use non-personally identifiable information (e.g., click stream information, browser type, time and date, subject of advertisements clicked or scrolled over) during your visits to this and other Web sites in order to provide advertisements about goods and services likely to be of greater interest to you. These companies typically use a cookie or third party web beacon to collect this information. To learn more about this behavioral advertising practice or to opt-out of this type of advertising, you can visit <a href="http://www.networkadvertising.org/managing/opt_out.asp" rel="nofollow" target="_blank">http://www.networkadvertising.org/managing/opt_out.asp</a>.</p>
+
+
+			This Privacy Notice may be revised periodically without further notice to you and this will be reflected by a "last modified" date below. Please revisit this page to stay aware of any changes. In general, we only use your personal information in the manner described in the Privacy Notice in effect when we received that personal information. Your continued use of the Iguide.to Platform constitutes your agreement to this privacy Notice and any future revisions.<br>
+				<br>
+			For revisions to this Privacy Notice that may be materially less restrictive on our use or disclosure of personal information you have provided to us, we will make reasonable efforts to notify you and obtain your consent before implementing revisions with respect to such information.<br>
+			<br>
+			<b><span style="color: #ff9600">Iguide.to Contact Information:</span></b><br>
+				<br>
+			<br>
+			Please contact Iguide.to with any questions or comments about this Privacy Notice, your personal information, and our third-party disclosure practices or your consent choices at: <a href="mailto:privacy@Iguide.to">privacy@Iguide.to</a>. We will respond to your inquiry within 30 days of its receipt.<br>
+
+			
+
+        </div>
+		<div class="clear"></div>
+	</div>
 </div>
-<div class="title">
-	Children</div>
-<div class="deck">
-	We recognize the importance of safeguarding the privacy of children and 
-	encourage parents to check and monitor their children�s use of online 
-	activities regularly. This website supports and complies with the Children�s 
-	Online Privacy Protection Act ("COPPA") and other applicable laws. This 
-	website is not aimed at nor intended for children under the age of 13. If 
-	you are under the age of 13, please do not use this website, and if you are 
-	over the age of 13 but under the age of 18, you should use this website only 
-	with the involvement and permission of a parent or legal guardian. Our 
-	website does not accept registration from children under the age of 13. No 
-	personally identifiable information is purposefully or knowingly collected 
-	from children under the age of 13 by Company without parental consent. For 
-	purposes of this Privacy Policy, personally identifiable information ("PII") 
-	is personal information about an individual, such as a first and last name, 
-	phone number or email address or other individually identifiable information 
-	within the meaning of COPPA and the Federal Trade Commission�s Online 
-	Privacy Protection Rule found at 16 CFR 312.2. If Company discovers that a 
-	person under the age of 13 has provided Company with any PII, Company will 
-	use commercially reasonable efforts to delete such person�s PII from its 
-	system. Every user hereby agrees that all information you provide, including 
-	but not limited to age, shall be truthful and correct. </div>
-<div class="title">
-	Information We Collect</div>
-<div class="deck">
-	Company strives to provide our visitors with information relevant to their 
-	particular desires, needs and/or interests. The information we gather helps 
-	us to better serve our purpose. We may ask you to provide us with 
-	demographic information, information regarding your interests or other PII. 
-	Providing us with PII about yourself is voluntary, and you can always choose 
-	not to provide certain information, but then you may not be able to take 
-	advantage of or participate in some of the website�s features. Company 
-	actively and passively gathers, analyzes and/or stores PII and other 
-	information generally by way of four different sources: (1) the PII 
-	voluntarily submitted by visitors when using or registering to use or 
-	receive our services or offers; (2) the PII visitors voluntarily provide 
-	when participating in any contests, sweepstakes and/or other promotions; (3) 
-	the PII visitors voluntarily provide when buying or ordering merchandise 
-	through the website; and (4) by tracking and analyzing online and mobile 
-	data and activity through mechanisms that identify site usage, browser 
-	types, IP addresses, and other data. This last source of information is 
-	explained in greater detail over the next several sections of this Privacy 
-	Policy. </div>
-<div class="title">
-	Non-Personally Identifiable Information</div>
-<div class="deck">
-	When your computer or mobile device contacts our web servers (for example, 
-	when you visit this website, scan a Microsoft Tag or QR code, or view an 
-	HTML e-mail), our web servers automatically collect usage information. Such 
-	usage information includes information about how our visitors use and 
-	navigate our website. It can include the number and frequency of visitors to 
-	each web page and the length of their stays, browser type, referrer data 
-	that identifies the web page visited prior and subsequent to visiting our 
-	website, and IP addresses (see below for more information on IP addresses). 
-	We also may determine the applicable technology available in order to serve 
-	you the most appropriate version of a web page, e-mail, advertising or 
-	promotional announcement or similar service. This information is used to 
-	analyze and improve this website and to provide you with a more fulfilling 
-	and relevant experience.</div>
-<div class="title">
-	Browser Cookies</div>
-<div class="deck">
-	Like many websites, we use browser "cookies". Cookies are a website�s way of 
-	remembering who you are. A cookie is a small text file that is stored on 
-	your computer�s hard drive or stored temporarily in your computer�s memory. 
-	There are two kinds of cookies: those that are "session" oriented and those 
-	that are "persistent". Session cookies delete from your computer when you 
-	close your browser. Persistent cookies retain information for later use 
-	tomorrow, next week, next month, or whenever they are set to expire. We use 
-	cookies to help us to identify account holders and to optimize their 
-	experience on our website. Cookies also allow us to hold selections in a 
-	shopping cart when a user leaves this website without checking out. Also, we 
-	will use cookies to monitor and maintain information about your use of this 
-	website. Most web browsers accept cookies automatically. You can delete 
-	cookies manually or set your browser to automatically delete cookies on a 
-	pre-determined schedule. For example, in the Internet Explorer menu bar, 
-	select: Tools--&gt;Internet Options--&gt;Browsing History--&gt;Delete to view manual 
-	and automatic options. If you decline to accept cookies, you may not be able 
-	to take advantage of or participate in certain features of this website.</div>
-<div class="title">
-	Flash Cookies</div>
-<div class="deck">
-	Our website enables the use of the Adobe Flash Player. Adobe�s Flash Player 
-	is used by the vast majority of websites that offer video and other 
-	interactive content. By default, your use of the Adobe Flash Player 
-	generates "flash cookies" (also known as "persistent identification 
-	elements" or "local shared objects"). Adobe provides a short disclosure 
-	about Flash Cookies in its End User License Agreement, stating "Use of the 
-	web players, specifically the Flash Player, will enable the Software to 
-	store certain user settings as a local shared object on our computer. These 
-	settings are not associated with you, but allow you to configure certain 
-	settings within the Flash Player." The Adobe Flash Player (and similar 
-	applications) uses flash cookies to remember user settings, preferences and 
-	usage similar to the browser cookies referenced above, but flash cookies can 
-	store more information than browser cookies and are managed through a 
-	different interface than the one provided by your web browser. You can 
-	control the degree to which you accept flash cookies from any website by 
-	accessing your Adobe Flash Player management tools directly through the 
-	settings manager for Adobe Flash Player, located at:
-	<a href="http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager.html">
-	http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager.html</a>.
-	<br>
-	<br>
-	If you do not allow flash cookies to take any disc space on your computer, 
-	you may not be able to take advantage of or participate in certain features 
-	on the website. Users with a computer running the Windows operating system 
-	can view flash cookie files in this folder: \Documents and 
-	Settings\[username]\Application Data\Macromedia\Flash Player. Users with a 
-	computer running the Apple operating system can view flash cookie files in 
-	this folder: /users/[username]/Library/Preferences/macromedia/Flash Player. 
-	Flash cookies, or LSO files are stored typically with an ".SOL" extension. 
-	Although the Adobe Flash Player is used by the vast majority of websites 
-	that offer video content and/or games, it is not the only technology being 
-	used in the ever-shifting online and mobile content environment. HTML5 is an 
-	increasingly popular web standard used for presenting content, especially 
-	content delivered to mobile devices. HTML is the mark-up language used for 
-	the World Wide Web. Almost all web pages you visit on the internet are based 
-	around HTML code. HTML5 is simply the fifth and latest iteration of this 
-	mark-up language that allows for more interactive web pages. One of the real 
-	benefits of HTML5 is its potential to standardize the highly fragmented 
-	rich-media universe. Some HTML5 code may allow your response to advertising 
-	and other activities to be monitored across websites and such information to 
-	be stored on your computer or mobile device. Technology solutions that allow 
-	users to opt-out of or block this sort of tracking are being developed 
-	through browser add-ons and other tools. 
-
-</div>
-<div class="title">
-	Web Beacons</div>
-<div class="deck">
-	Our web pages or e-mail messages may contain a small graphic image called a 
-	web beacon, which is sometimes also called a "clear gif", that allows us to 
-	monitor and collect certain limited information about our users, such as the 
-	type of browser requesting the web beacon, the IP address of the computer 
-	that the web beacon is sent to and the time the web beacon was viewed. Web 
-	beacons can be very small or invisible to the user, but, in general, any 
-	electronic image viewed as part of a web page or e-mail, including HTML 
-	based content, can act as a web beacon. We may use web beacons to count 
-	visitors to our web pages or to monitor how our users navigate our website, 
-	and we may include web beacons in e-mail messages in order to count how many 
-	of the messages we sent were actually opened or acted upon. We use web 
-	beacons to compile aggregate statistics about our website and our marketing 
-	campaigns. </div>
-<div class="title">
-	Use Of IP Addresses</div>
-<div class="deck">
-	An IP address is a number that is assigned to your computer or network when 
-	you are linked to the Internet. When you request pages from this website, 
-	our servers log your IP address. We may use IP address for a number of 
-	purposes, such as system administration, to report aggregate information to 
-	our business partners or to audit the use of the website. We may associate 
-	your IP address with the PII you provide.<br>
-	<br>
-	We also may collect and store information about you that we receive from 
-	other sources to enable us to update and correct the information contained 
-	in our database and to provide product recommendations and special offers 
-	that we think will interest you.
-
-</div>
-<div class="title">
-	Sensitive Information</div>
-<div class="deck">
-	There are two ways sensitive information (e.g. credit card numbers) may be 
-	obtained. When a visitor makes a purchase, his/her information may be sent 
-	directly to a third party authorization center that will relay to Company 
-	whether to proceed with the transaction. The information is not at all 
-	stored in our system. The second way is when a visitor pre-orders 
-	merchandise. In this case, the information is sent to a non-public server 
-	and stored until the transaction is complete. <br>
-	<br>
-	Company uses all possible efforts to ensure the safety of your sensitive 
-	information. No website, internet transmission, computer system or wireless 
-	connection is completely secure. Company cannot guarantee that unauthorized 
-	access, hacking, data loss, or other breaches will never occur. Your use of 
-	the Company website is at your own risk. Company urges you to take steps to 
-	keep your information safe by memorizing your password or keeping it in a 
-	safe place (separate from your account information), logging out of your 
-	account, and closing your web browser. In order to help us protect your 
-	sensitive information and PII further, you should be careful about providing 
-	your password to others.<br>
-	<br>
-	Whenever you give Company sensitive or confidential information, Company 
-	will take commercially reasonable steps to protect the information by 
-	establishing a secure connection with your web browser. Company uses the 
-	Security Socket Layer ("SSL"), an industry standard security protocol for 
-	encrypting sensitive information. Unfortunately, no security measures are 
-	perfect or impenetrable and data transmission over the Internet cannot be 
-	guaranteed 100% secure. We cannot and do not ensure or warrant the security 
-	of any information you transmit to Company and you do so at your own risk. 
-	Unless otherwise specified herein or on the site where you make a purchase, 
-	credit card numbers are used only for payment processing and are not 
-	retained for marketing purposes.
-
-</div>
-<div class="title">
-	External Links</div>
-<div class="deck">
-	Company may contain links to, or advertisements about, non-Company websites. 
-	Other sites may also reference, advertise, or link to Company websites. 
-	Company does not endorse or sponsor other websites, is not responsible for 
-	the privacy practices or the content of non-Company sites, expressly 
-	disclaims any statements or assertions made on such websites, and denies all 
-	liability associated with your use of, and the content on, such other 
-	websites and advertisements. Please be advised that the practices described 
-	in this Privacy Policy do not apply to information gathered through other 
-	websites. We encourage you to be aware of when you leave this website and to 
-	read the privacy policies of each and every website that you visit.</div>
-<div class="title">
-	Consent to Processing in the United Kingdom</div>
-<div class="deck">
-	This website is operated in the United Kingdom. By providing any information 
-	to Company, all users, including, without limitation, users in the member 
-	states of the European Union, Canada or elsewhere outside of the United 
-	States, fully understand and unambiguously consent to this Privacy Policy. 
-	By using our website, participating in any of our services and/or providing 
-	us with your information, you consent and agree to the collection, transfer, 
-	storage and processing of your information to and in the United States.</div>
-<div class="title">
-	Sharing Information</div>
-<div class="deck">
-	We may provide information to select outside companies when we believe their 
-	products or services may be of interest to you. If you opt in to receive 
-	communications from a third party, your information will be subject to the 
-	third party's privacy policy and not this Privacy Policy. Therefore, if you 
-	later decide that you do not want that third party to use your information, 
-	you will need to contact the third party directly. In addition, Company may 
-	share your PII with third parties under the following circumstances:<br>
-	<br>
-	<u><em>Third parties providing services on our behalf</em></u>: We may 
-	engage third parties to perform services in connection with the operation of 
-	our business. Examples of these services include: (a) payment processing and 
-	authorization, (b) fraud protection and credit risk reduction, (c) product 
-	customization, (d) order fulfillment, (e) shipping, (f) marketing and 
-	promotional material distribution, (g) website evaluation, (h) data 
-	collection, storage, management, analysis and, where applicable, cleansing, 
-	and (i) any other services designed to assist us in maximizing our business 
-	potential. These third parties may have access to this website�s user 
-	information, including PII, to the extent it is needed to perform their 
-	duties and functions.<br>
-	<br>
-	<u><em>Company Security</em></u>: We may release information about our 
-	users, including PII, when legally required to do so, at the request of 
-	governmental authorities conducting an investigation, or to verify or 
-	enforce compliance with the policies governing our website and applicable 
-	laws. We may also disclose such user information whenever we believe 
-	disclosure is necessary to protect the rights, property or safety of 
-	Company, or any of our respective affiliates, business partners, customers 
-	or others. <br>
-	<br>
-	<u><em>Aggregate Information</em></u>: We may disclose non-identifying, 
-	aggregated user statistics to third parties for a variety of purposes, 
-	including describing our services to prospective partners and other third 
-	parties. Examples of such non-personal information include the number of 
-	users who visited this website during a specific time period or purchased a 
-	specific product through this website. <br>
-	<br>
-	<u><em>Promotions</em></u>: If you choose to enter a contest, sweepstakes or 
-	promotion, your PII may be disclosed to third parties in connection with 
-	such promotion, including without limitation for purposes of posting your 
-	entry with attribution or otherwise as permitted in the official rules for 
-	the promotion in question, fulfilling your prize or including your name on a 
-	winners list. Also, by entering a promotion, we may require you to consent 
-	to the use of your PII or other information, such as name, voice or 
-	likeness, in advertising, promotional and marketing materials. In addition, 
-	we may offer certain promotional content, such as a sweepstakes, sponsored 
-	by or co-branded with a third party, who may obtain the PII that you submit.
-	<br>
-	<br>
-	<u><em>Corporate change</em></u>: In addition, we reserve the right to 
-	disclose, share and/or otherwise transfer user information, including 
-	without limitation PII, in connection with a corporate merger, acquisition, 
-	consolidation, the sale of a portion of our business or the sale of 
-	substantially all of Company�s assets, or other fundamental corporate 
-	change, whatever form it may take. You will be notified via e-mail or 
-	prominent notice on our website prior to a change of ownership or control of 
-	your personal information, if your personal information will be used 
-	contrary to this policy. For clarification and the removal of doubt, Company 
-	specifically reserves the right to transfer or share a copy of PII collected 
-	pursuant to this Privacy Policy from this website, off-line or otherwise, to 
-	the buyer of that portion of its business relating to that information.
-</div>
-<div class="title">
-	Third Party Advertisements</div>
-<div class="deck">
-	We may from time to time use various outside ad-serving or other companies 
-	to serve advertisements on our website. In the process of serving 
-	advertisements, such companies may use cookies, and may use information 
-	about your visits to our website and other websites in order to provide 
-	advertisements on our website about products and services that may be of 
-	interest to you. By delivering ads on our website, and the use of cookies, 
-	the ad-server is able to record what ads a user has seen, and what pages the 
-	user was viewing when the ads were delivered. This web usage information may 
-	be combined with other ad delivery information the ad-server has collected 
-	from your visits to our website and other websites not affiliated with 
-	Company. This non-personally identifiable information is used as part of the 
-	ad-serving process for reporting, and to select and direct the ads you see 
-	on our website and on other websites not affiliated with us.</div>
-<div class="title">
-	How Can I Access, Correct and Update Personal Information? </div>
-<div class="deck">
-	You can access, correct and update certain personal information that you 
-	have provided to us by visiting our profile management page here:
-	<a href="http://www.iguide.to">
-	http://www.iguide.to</a>. Please be aware that we 
-	will process your request as quickly as we reasonably can, but it may not be 
-	possible to update our systems immediately.
-
-</div>
-<div class="title">
-	Your choices/unsubscribe</div>
-<div class="deck">
-	You will have an opportunity to unsubscribe from receiving promotional 
-	material from this website by clicking on an "unsubscribe" hyperlink 
-	contained in promotional emails we send you. Additionally you may update 
-	your preferences here:
-	<a href="http://www.iguide.to">
-	http://www.iguide.to</a>. Because customer lists 
-	often are prepared well in advance of an offering (sometimes a few months 
-	before the offer is made), you may continue to receive some offers after you 
-	send us a request not to use your information for specified marketing 
-	purposes. Please be aware that we will process your request as quickly as we 
-	reasonably can, but it may not be possible to update our systems 
-	immediately. We appreciate your patience and understanding in giving us time 
-	to carry out your request.<br>
-	<br>
-	Even if you are removed from any such list, if you order online, we will 
-	send you an email confirming your order and may need to contact you by 
-	phone, email, or regular mail if we have questions about your order. In 
-	addition, you should be aware that it is not always possible to completely 
-	remove or delete all of your information from our databases without some 
-	residual data because of backups and other reasons.<br>
-	<br>
-	If you want to opt out of having your PII shared with third parties for 
-	marketing purposes, you must consistently opt-out at each of our websites 
-	where you register and whenever you provide PII to us. Please bear in mind 
-	that this opt-out choice for "third parties" will not apply to Company, 
-	Company licensees and/or co-branding participants, as set forth below. 
-	Please also keep in mind that any opt-out choices you make will not apply in 
-	situations where (a) you either have made, simultaneously make, or later 
-	make a specific request for information from us, or (b) Company uses your 
-	PII for either operational purposes (e.g., to complete transactions 
-	requested by you, or to send you administrative communications either about 
-	your account with us or about features of our websites, including any future 
-	changes to this Privacy Policy, or any other policy or terms that affect you 
-	and your use of our website) or fulfillment purposes (e.g., sharing with 
-	companies that facilitate communications and transactions with you).<br>
-	<br>
-	Finally, if you do not exercise your opt-out choices upon registration or 
-	otherwise at the time the PII is provided, it may take some time to process 
-	your opt-out choices. Our systems require time to update, and promotional 
-	mailings using PII shared before your opt-out may already be in process. 
-	Thus, your PII might continue to be shared with third parties for 
-	promotional purposes for some time after you make your request, For similar 
-	reasons, if your PII is shared with a third party, Company largely or 
-	completely loses control over how that information is used. Thus, even after 
-	you have opted out of allowing us to share your PII, you might continue to 
-	receive promotional materials from third parties unless and until you duly 
-	register your opt-out request with each third party in question.
-
+<div id="footer">
+<p>Copyright 2012 - <a href="http://www.iguide.to/term-of-service">Term of Service</a> | <a href="http://www.iguide.to/privacy-notice">Privacy Notice</a> | <a href="http://www.iguide.to/DMCA-guidelines">DMCA Guidelines</a></p>
 </div>
 
-	Forums/Message Boards</div>
-<div class="deck">
-	Please review our restrictions on use and guidelines for user forums in our 
-	Terms of Use. In addition, please note that this Privacy Policy does not 
-	apply to any information you may disclose publicly in user forums (such as 
-	chat rooms, message boards, or similar web pages). You should keep in mind 
-	that whenever you publicly disclose information about yourself online, that 
-	information could be collected and used by people that you do not know. In 
-	addition, certain message boards (and similar user forums) may display IP 
-	addresses and possibly PII along with the message poster's name and message. 
-	Company assumes no responsibility for any action or policies of any third 
-	parties who collect any information users may disclose in user forums or 
-	other public areas, if any, of this website.</div>
-<div class="title">
-	Film Ratings</div>
-<div class="deck">
-	If a motion picture that has been rated by the Motion Picture Association of 
-	America ("MPAA") is the subject of this website, you may visit www.mpaa.org 
-	for a description of the ratings system, www.filmratings.com for a 
-	discussion on the reasons for the ratings on recent motion picture releases 
-	or visit www.parentalguide.org, which is intended to provide parents with 
-	information about each of the ratings systems that have been developed in 
-	the electronic game, music, cable and television broadcast industries.</div>
-<div class="title">
-	Revisions to Privacy Policy</div>
-<div class="deck">
-	We reserve the right, in our sole discretion, to modify, update, add to, 
-	discontinue, remove or otherwise change any portion of this Privacy Policy, 
-	in whole or in part, at any time. When we amend this Privacy Policy, we will 
-	revise the "last updated" date located at the top of this Privacy Policy. 
-	For changes to this Privacy Policy that we consider to be material, we will 
-	place a notice on the website by revising the link to read substantially as 
-	"Updated Privacy Policy" for a reasonable amount of time. If you provide 
-	information to us or access or use the website in any way after this Privacy 
-	Policy has been changed, you will be deemed to have unconditionally 
-	consented and agreed to such changes. The most current version of this 
-	Privacy Policy will be available on the website and will supersede all 
-	previous versions of this Privacy Policy.</div>
-<div class="title">
-	Choice of Law</div>
-<div class="deck">
-	This Privacy Policy, including all revisions and amendments thereto, is 
-	governed by the internal laws of the State of California, without regard to 
-	its conflict or choice of law principles which would require application of 
-	the laws of another jurisdiction.</div>
-<div class="title">
-	Arbitration</div>
-<div class="deck">
-	By using this website in any way, you unconditionally consent and agree 
-	that: (1) any claim, dispute, or controversy (whether in contract, tort, or 
-	otherwise) you may have against the officers, directors and employees of 
-	Company and its parent, subsidiaries, affiliates (all such individuals and 
-	entities collectively referred to herein as the "Company Entities") arising 
-	out of, relating to, or connected in any way with the website or the 
-	determination of the scope or applicability of this agreement to arbitrate, 
-	will be resolved exclusively by final and binding arbitration administered 
-	by JAMS and conducted before a sole arbitrator in accordance with the rules 
-	of JAMS; (2) this arbitration agreement is made pursuant to a transaction 
-	involving interstate commerce, and shall be governed by the Federal 
-	Arbitration Act ("FAA"), 9 U.S.C. �� 1-16; (3) the arbitration shall be held 
-	in Los Angeles, California; (4) the arbitrator�s decision shall be 
-	controlled by the terms and conditions of this Privacy Policy and any of the 
-	other agreements referenced herein that the applicable user may have entered 
-	into in connection with the website; (5) the arbitrator shall apply 
-	California law consistent with the FAA and applicable statutes of 
-	limitations, and shall honor claims of privilege recognized at law; (6) 
-	there shall be no authority for any claims to be arbitrated on a class or 
-	representative basis, arbitration can decide only your and/or the applicable 
-	Company Entity�s individual claims; the arbitrator may not consolidate or 
-	join the claims of other persons or parties who may be similarly situated; 
-	(7) the arbitrator shall not have the power to award punitive damages 
-	against you or any Company Entity; (8) in the event that the administrative 
-	fees and deposits that must be paid to initiate arbitration against any 
-	Company Entity exceed $125 USD, and your are unable (or not required under 
-	the rules of JAMS) to pay any fees and deposits that exceed this amount, 
-	Company agrees to pay them and/or forward them on your behalf, subject to 
-	ultimate allocation by the arbitrator. In addition, if you are able to 
-	demonstrate that the costs of arbitration will be prohibitive as compared to 
-	the costs of litigation, Company will pay as much of your filing and hearing 
-	fees in connection with the arbitration as the arbitrator deems necessary to 
-	prevent the arbitration from being cost-prohibitive; and (9) with the 
-	exception of subpart (6) above, if any part of this arbitration provision is 
-	deemed to be invalid, unenforceable or illegal, or otherwise conflicts with 
-	the rules of JAMS, then the balance of this arbitration provision shall 
-	remain in effect and shall be construed in accordance with its terms as if 
-	the invalid, unenforceable, illegal or conflicting provision were not 
-	contained herein. If, however, subpart (6) is found to be invalid, 
-	unenforceable or illegal, then the entirety of this Arbitration Provision 
-	shall be null and void, and neither you nor Company shall be entitled to 
-	arbitrate their dispute. For more information on JAMS and/or the rules of 
-	JAMS, visit their Website at
-	<a href="http://www.jamsadr.com">www.jamsadr.com</a>.<br>
-	<br>
-	For any questions, suggestions, or concerns related to this Privacy Policy, 
-	please email <a href="mailto:info@iguide.to">info@iguide.to</a> 
-	
- </div>
+<!-- Google Analytics -->
+<script type="text/javascript">
 
-</div>
-</div>
-<div class="clr"></div>
-</div>  
-  
-  <div class="footer">Copyright 2012 @ Iguide.to | <a href="http://www.iguide.to/privacy-notice">Privacy Notice</a> | <a href="http://www.iguide.to/term-of-service">Term of Service</a> </div>
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-32647868-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+<!-- End Google Analytics -->
+
+
+<script type="text/javascript">
+    var __cho__ = {"pid":2030};
+    (function() {
+        var c = document.createElement('script');
+        c.type = 'text/javascript';
+        c.async = true;
+        c.src = document.location.protocol + '//cc.chango.com/static/o.js';
+        var s = document.getElementsByTagName('script')[0];
+        s.parentNode.insertBefore(c, s);
+    })();
+</script>
 
 
 
