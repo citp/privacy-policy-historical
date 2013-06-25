@@ -1,28 +1,26 @@
-> *The following text is extracted and transformed from the upack.com privacy policy that was archived on 2012-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121230235710id_/http%3A//www.upack.com/about/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the upack.com privacy policy that was archived on 2013-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130626001724id_/http%3A//www.upack.com/about/privacy.asp) for the most accurate reproduction.*
 
-# ABF U-Pack Moving Privacy Policy
+# U-Pack® Privacy Policy | U-Pack
 
-[Home](https://web.archive.org/) Privacy Policy
+U-Pack® Moving is committed to protecting your privacy. We use the information we collect to provide you the most robust Internet applications in the transportation industry. However, all information about you stored on our site will never be released to anyone without your consent. Please read on for more information on U-Pack Moving's commitment to your privacy.
 
-ABF U-Pack Moving is committed to protecting your privacy. We use the information we collect to provide you the most robust Internet applications in the transportation industry. However, all information about you stored on our site will never be released to anyone without your consent. Please read on for more information on ABF U-Pack Moving's commitment to your privacy.
-
-## Where is my information saved and protected?
+##  Where is my information saved and protected?
 
 Your personal and shipment information is stored in a central, secure source in our mainframe system. All calls from the Internet to access this information must pass through our secure site.
 
-## How does U-Pack protect my credit card information?
+##  How does U-Pack protect my credit card information?
 
-All credit card information is encrypted by digital certificates using Secure Sockets Layer (SSL). Credit card information is then stored on a computer that is not connected to the Internet. For more information about SSL, read the Secure Sockets Layer at the Verisign site.
+All credit card information is encrypted by digital certificates using Secure Sockets Layer (SSL). Credit card information is then stored on a computer that is not connected to the Internet. For more information about SSL, read the [Secure Sockets Layer](http://www.verisign.com/products-services/security-services/ssl/ssl-information-center/how-ssl-security-works/index.html) at the Verisign site.
 
-## Does the U-Pack site use cookies?
+##  Does the U-Pack site use cookies?
 
-Certain information is stored in your cookie file; however, none of your personal or shipment information is stored in cookies. We believe cookies provide a safe and secure way to improve the usability of the site. For more information about cookies, read the Cookie and Privacy FAQ at microsoft.com.
+Certain information is stored in your cookie file; however, none of your personal or shipment information is stored in cookies. We believe cookies provide a safe and secure way to improve the usability of the site. For more information about cookies, read the [Cookie and Privacy FAQ](http://www.microsoft.com/info/cookies.mspx) at microsoft.com.
 
-## Privacy Policies of other Web sites
+##  Privacy Policies of other Web sites
 
 This site contains links to other sites. Upack.com at [http://www.upack.com](https://web.archive.org/) is not responsible for the privacy practices nor the content of other sites.
 
-## Will U-Pack Moving disclose the information it collects to third parties?
+##  Will U-Pack Moving disclose the information it collects to third parties?
 
 We employ other companies and individuals to perform services for us, such as analyzing data, providing marketing assistance, and offering additional customer service. They have access to your information as necessary to perform those services for us, but they are not permitted to use it for any other purposes. Otherwise, unless approved by you, U-Pack Moving will not sell, rent or trade your information to others. In other words, all information about you stored on our site will never be released to anyone without your consent.
 
