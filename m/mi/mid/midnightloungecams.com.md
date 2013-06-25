@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the midnightloungecams.com privacy policy that was archived on 2012-04-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120429011943id_/http%3A//www.midnightloungecams.com/index.php%3Fs%3Dsupport.privacy%26%26server%3Dmidnightloungecams%26ck%3Dsc) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the midnightloungecams.com privacy policy that was archived on 2013-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130625035214id_/http%3A//www.midnightloungecams.com/index.php%3Fs%3Dsupport.privacy%26%26server%3Dmidnightloungecams%26ck%3Dsc) for the most accurate reproduction.*
 
 # midnightloungecams.com Live Girls on home web cams. The best live cam site for amateur girls and housewives
 
