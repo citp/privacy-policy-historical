@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the ico.org.uk privacy policy that was archived on 2012-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120620132634id_/http%3A//www.ico.gov.uk/Global/privacy_statement.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ico.org.uk privacy policy that was archived on 2013-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130625234200id_/http%3A//www.ico.org.uk/Global/privacy_statement) for the most accurate reproduction.*
 
-# Privacy notice - Information Commissioner's Office - ICO
+# Privacy Notice - Information Commissioner's Office - ICO
 
 ## How we use your information
 
-This privacy notice tells you what to expect when the Information Commissioner’s Office collects personal information. It applies to information we collect about:
+This privacy notice tells you what to expect when the Information Commissioner’s Office (ICO) collects personal information. It applies to information we collect about:
 
   * visitors to our websites 
   * complainants and other individuals in relation to a data protection or freedom of information complaint or enquiry 
@@ -16,89 +16,33 @@ This privacy notice tells you what to expect when the Information Commissioner�
 
 ## Visitors to our websites
 
-When someone visits [www.ico.gov.uk](http://www.ico.gov.uk/) we collect standard internet log information and details of visitor behaviour patterns. We do this to find out things such as the number of visitors to the various parts of the site. We collect this information in a way which does not identify anyone. We do not make any attempt to find out the identities of those visiting either of our websites ([www.ico.gov.uk](http://www.ico.gov.uk/) or [www.ico.jobs](http://www.ico.jobs/)). We will not associate any data gathered from this site with any personally identifying information from any source. If we do want to collect personally identifiable information through our website, we will be up front about this. We will make it clear when we collect personal information and will explain what we intend to do with it. 
+When someone visits [www.ico.org.uk](http://www.ico.org.uk/) we collect standard internet log information and details of visitor behaviour patterns. We do this to find out things such as the number of visitors to the various parts of the site. We collect this information in a way which does not identify anyone. We do not make any attempt to find out the identities of those visiting either of our websites ([www.ico.org.uk](http://www.ico.org.uk/) or [www.ico.jobs](http://www.ico.jobs/)). We will not associate any data gathered from this site with any personally identifying information from any source. If we do want to collect personally identifiable information through our website, we will be up front about this. We will make it clear when we collect personal information and will explain what we intend to do with it.
 
 ### Use of cookies by the ICO
 
-Cookies are small text files that are placed on your computer by websites that you visit. They are widely used in order to make websites work, or work more efficiently, as well as to provide information to the owners of the site.
-
-The table below explains the cookies we use and why. 
-
-## Cookie
-
-| 
-
-## Name
-
-| 
-
-## Purpose
-
-| 
-
-## More information  
-  
----|---|---|---  
-  
-Google Analytics
-
-| 
-
-_utma  
-_utmb  
-_utmc  
-_utmz
-
-| These cookies are used to collect information about how visitors use our site. We use the information to compile reports and to help us improve the site. The cookies collect information in an anonymous form, including the number of visitors to the site, where visitors have come to the site from and the pages they visited. | 
-
-[Click here for an overview of privacy at Google](http://www.google.co.uk/intl/en/analytics/privacyoverview.html "External link")  
-  
-ICO site cookie acceptance | 
-
-ICOCookiesAccepted
-
-| This cookie is used to record if a user has accepted the use of cookies on the ICO website. |   
-Online notification form cookie | 
-
-ASP.NET_SessionId
-
-| 
-
-This cookie is essential for the online notification form – the form that data controllers can use to notify with the ICO – to operate. It is set only for those people using the form. This cookie is deleted when you close your browser.
-
-| 
-
-[Visit the Microsoft website](http://support.microsoft.com/kb/899918 "External link")  
-  
-Content Management System cookie | 
-
-ico62#sc_wede
-
-| 
-
-This cookie is set by our content management system on a small number of browsers, upon arrival to the ICO site. It is not used by the ICO for any purpose. This cookie is deleted when a user closes their browser.
-
-| 
-
-The supplier of our content management system (the software we use to update our website) is working to remove this cookie from their product.  
-  
-Most web browsers allow some control of most cookies through the browser settings. To find out more about cookies, including how to see what cookies have been set and how to manage and delete them, visit [www.allaboutcookies.org](http://www.allaboutcookies.org/).
-
-To opt out of being tracked by Google Analytics across all websites visit <http://tools.google.com/dlpage/gaoptout>. 
-
-### YouTube cookies
-
-We embed videos from our official YouTube channel using YouTube’s privacy-enhanced mode. This mode may set cookies on your computer once you click on the YouTube video player, but YouTube will not store personally-identifiable cookie information for playbacks of embedded videos using the privacy-enhanced mode. To find out more please visit [YouTube’s embedding videos information page](http://www.google.com/support/youtube/bin/answer.py?hl=en-GB&answer=171780 "External link").
+You can read more about how we use cookies on our [Cookies page](https://web.archive.org/Global/cookies).
 
 ### Search engine
 
-The search engine on our website is designed to be as powerful and easy to use as the popular search engine Google. The search is made possible by a piece of hardware (a search ‘appliance’) supplied by Google that is plugged into our server and continuously indexes the content on our site. All search requests are handled by the appliance and the information is not passed on to any third party, including Google.
+Our website search is powered by System Associates. Search queries and results are logged anonymously to help us improve our website and search functionality. No user-specific data is collected by either ICO or any third party.
+
+### E-newsletter
+
+We use a third party provider, Adestra, to deliver our monthly e-newsletter. We gather statistics around email opening and clicks using industry standard technologies including clear gifs to help us monitor and improve our e-newsletter. For more information, please see [Adestra’s privacy notice](http://www.adestra.com/home/privacy-policy/ "External link").
+
+### Online reporting tool
+
+We collect information volunteered by members of the public about nuisance calls and texts using an online reporting tool hosted by Snap Surveys. This company is a data processor for the ICO and only processes personal information in line with our instructions.
 
 ## People who call our helpline
 
 When you call the ICO's helpline we collect Calling Line Identification (CLI) information. We use this information to help improve its efficiency and effectiveness.
 
 Our helpline also offers a translation service for customers when English is not their first language, this is provided by a third party company. The company that provides this service does not retain any information from the calls or record them.
+
+## People who email us
+
+The ICO is part of the GSI network. Any email sent to us, including any attachments, may be monitored and used by us for reasons of security and for monitoring compliance with office policy.  Email monitoring or blocking software may also be used. Please be aware that you have a responsibility to ensure that any email you send to us is within the bounds of the law. 
 
 ## People who make a complaint to us
 
@@ -108,7 +52,7 @@ We will only use the personal information we collect to process the complaint an
 
 We usually have to disclose the complainant’s identity to whoever the complaint is about. This is inevitable where, for example, the accuracy of a person’s record is in dispute. If a complainant doesn’t want information identifying him or her to be disclosed, we will try to respect that. However, it may not be possible to handle a complaint on an anonymous basis.
 
-We will keep personal information contained in complaint files in line with our retention policy. This means that information relating to a complaint will be retained for four years from closure. It will be retained in a secure environment and access to it will be restricted according to the ‘need to know’ principle.
+We will keep personal information contained in complaint files in line with our retention policy. This means that information relating to a complaint will be retained for two years from closure. It will be retained in a secure environment and access to it will be restricted according to the ‘need to know’ principle.
 
 Similarly, where enquiries are submitted to us we will only use the information supplied to us to deal with the enquiry and any subsequent issues and to check on the level of service we provide.
 
@@ -116,17 +60,17 @@ When we take enforcement action against someone, we may publish the identity of 
 
 ## People who use ICO services
 
-The ICO offers various services to the public. For example, we send out publications and distribute an electronic newsletter. We use a third party to deal with some publication requests, but they are only allowed to use the information to send out the publications.
+The ICO offers various services to the public. We use a third party to deal with some publication requests, but they are only allowed to use the information to send out the publications.
 
 We have to hold the details of the people who have requested the service in order to provide it. However, we only use these details to provide the service the person has requested and for other closely related purposes. For example, we might use information about people who have requested a publication to carry out a survey to find out if they are happy with the level of service they received. When people do subscribe to our services, they can cancel their subscription at any time and are given an easy way of doing this. 
 
-## People who ‘notify’ under the Data Protection Act 1998
+## People who register (notify) under the Data Protection Act 1998
 
-Many businesses are required by law to ‘notify’ certain specified information to the Information Commissioner. This may contain personal information, for example where the business is a sole trader. The ICO compiles this information into a register which it is required by law to make publicly available. The ICO puts technical measures in place to prevent the bulk down-load of the electronic version of the register. However, as the register is publicly available, the ICO cannot give any guarantees as to how the information contained on the register will be used by those accessing it.
+Many businesses are required by law to ‘notify’ certain specified information to the Information Commissioner. This may contain personal information, for example where the business is a sole trader. The ICO compiles this information into a register which it is required by law to make publicly available. The ICO puts technical measures in place to prevent the bulk download of the electronic version of the register. However, as the register is publicly available, the ICO cannot give any guarantees as to how the information contained on the register will be used by those accessing it.
 
-When businesses fill in their notification forms, they are asked to provide the contact details of a relevant member of staff. ICO will use this for its own purposes, for example where we have a query about a notification, but will not put it on the public register.
+When businesses fill in their registration forms, they are asked to provide the contact details of a relevant member of staff. ICO will use this for its own purposes, for example where we have a query about a registration, but will not put it on the public register.
 
-When we request information as part of the notification process, we make it clear where the provision of information is required by law and where it is voluntary.
+When we request information as part of the registration process, we make it clear where the provision of information is required by law and where it is voluntary.
 
 ## Job applicants, current and former ICO employees
 
@@ -178,12 +122,12 @@ This privacy notice does not cover the links within this site linking to other w
 
 ## Changes to this privacy notice
 
-We keep our privacy notice under regular review. This privacy notice was last updated on 11 June 2012.
+We keep our privacy notice under regular review. This privacy notice was last updated on 2 April 2013.
 
 ## How to contact us
 
-Requests for information about our privacy policy can be emailed to the Information Governance department or by writing to:  
-Information Governance  
+If you want to request information about our privacy policy you can [email us](mailto:informationgovernance@ico.org.uk) or write to:  
+Information Governance department  
 Information Commissioner's Office  
 Wycliffe House  
 Water Lane  
@@ -191,4 +135,4 @@ Wilmslow
 Cheshire  
 SK9 5AF
 
-[Read more in our guide to information](https://web.archive.org/tools_and_resources/publication_scheme_compliance.aspx)
+[Read more in our guide to information](https://web.archive.org/Global/publication_scheme_compliance)
