@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the soundersfc.com privacy policy that was archived on 2012-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121208102249id_/http%3A//www.soundersfc.com/team/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the soundersfc.com privacy policy that was archived on 2013-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130625180815id_/http%3A//www.soundersfc.com/team/privacy-policy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy - Seattle Sounders Football Club
 
