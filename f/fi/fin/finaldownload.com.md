@@ -1,38 +1,21 @@
-> *The following text is extracted and transformed from the finaldownload.com privacy policy that was archived on 2012-10-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121022225831id_/http%3A//www.finaldownload.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the finaldownload.com privacy policy that was archived on 2013-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130625234312id_/http%3A//www.bluechillies.com/privacy.html) for the most accurate reproduction.*
 
-# Final Download Privacy Policy
+# Privacy Policy : Your Freeware and Shareware Download Destination! : BlueChillies.com
 
-## Our Privacy Policy
+**BlueChillies.com** is committed to protecting your privacy online. We are also committed to providing you with the very best experience we can on our Web site. In order to enhance your experience at our site we gather certain personal information about you that helps us customize our content to your tastes and preferences. Please read the following policy to understand how your personal information will be treated as you make full use of our Web site. This policy may change from time to time so please check back periodically. 
 
-The given privacy policy specifies how finaldownload.com respects your right to privacy and protects any information that you provide while visiting this website. 
+**BlueChillies.com** collects and use your IP address to help diagnose problems with our server and to administer our Web site, and to help identify you. Your IP address is also used to gather broad demographic information, and for other purposes. 
 
-### What information do we collect?
+**BlueChillies.com** collects some personal information when you initially access our site. We may ask for your name, e-mail address, zip code, and country. The more information you share with us (and the more accurate it is), the better we are able to enhance and customize your experience on our site. The data required to activate your membership is used solely for the account you maintain with us. All real data you provide to us is kept strictly confidential. We does not sell, rent, or trade your personal information with others.
 
-Some technical information is collected automatically on each page in order to give us an idea of how people are finding our website, what technologies they are using to access it and which pages interest them. Each time a visitor loads a page from a website is counted as one 'page load'. About once a month we also collect the current set of page load information to look for trends, for example changes in the screen resolution, operating system or browser that is most often used. We take this information into account when planning for usability and accessibility in website design. We also collect information on how visitors reach our website, including search engine use, search keyword use, and links referring visitors to our website. We use this information in our search engine optimization and marketing strategies. Some examples of the information we collect and analyze include: the Internet protocol (IP) address used to connect your computer to the Internet, your browser type and version, your operating system and screen resolution. We do not collect personally identifiable information about our visitors without their consent. 
+**BlueChillies.com** run some survey and submission form in which we ask the visitors for their email address. This email address we obtain from visitors will not be sold or shared with any third party. All information gathered is used for internal purposes only. 
 
-### The information we collect is used to:
+**BlueChillies.com** use some outside ad companies to display ads on the site. These ads contain cookies or web beacons. Cookies received with text or banner ads are collected by our ad companies, and we do not have access to this information. You can chose to disable or selectively turn off our cookies in your browser settings.
 
-  * Understand consumers' needs and provide with a better service 
-  * Notify consumers about updates to our Web site 
-  * Promote our software resources 
-  * Customize the website according to visitor's interests 
+**BlueChillies.com** has security measures in place to protect the loss, misuse and alteration of the information under our control. Our servers have strict security in place to prevent an intruder from retrieving personal information about our users. Staff overlook server access daily to ensure the above holds true. 
 
+**BlueChillies.com** site contains links to other sites and file downloads from other sites. We are not responsible for the privacy practices or the content of such Web sites. 
 
+By using our Web site, you consent to the collection and use of your personal information by **BlueChillies.com** as outlined in this Privacy Policy. 
 
-The information collected is not shared with any other organization, nor is any information sold or bartered unless otherwise stated. 
-
-### Third-Party Advertisers
-
-Our site includes third-party advertising and links to other websites. We do not provide any personally identifiable customer information to these advertisers or third-party websites. Our advertisers will generally store cookies on visitor's computers to record information including which advertisement they followed to reach the advertiser's website, and the date when they visited. Depending on the advertiser, cookies will expire (i.e. be automatically deleted) after different lengths of time. We use Google Adsense to support our site. Ads provided by Google AdSense are targeted to be relevant to the content of the website and / or page they are on (i.e. they get the information from the website contents not the visitors themselves). Google Adsense uses cookies to serve ads on our site. Google's use of DART cookies enables it to serve ads to the users based on their visit to the current site and to other sites on the Internet. A user may opt out of the use of the DART cookie by visiting [Google ad and content network privacy policy](http://www.google.com/privacy_ads.html). 
-
-### Disclaimer
-
-All the information published on the pages of finaldownload.com is the sole responsibility of a person/organization making the posting in the corresponding website category. Any questions, complaints or claims to the information provided should be directed to the appropriate Author or Company which has published the given information, not to the staff working for finaldownload.com. 
-
-### Links to Other Websites
-
-This site contains links to other sites. finaldownload.com is not responsible for the privacy practices or the content of such Web sites. We encourage you to read the privacy statements of other web sites before disclosing any personal information on another site. These other sites may independently collect data, solicit personal information, or send their own cookies to you. The Company is not responsible for any use of the information including click-stream data that you may create when using such third party web sites. You should carefully review the privacy policies of these third party web sites in order to determine how they treat your personal information. 
-
-### Contact us
-
-If you have any questions about this privacy statement, the practices of this site, you can [contact us](http://www.finaldownload.com/contact.html). 
+If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site you can [contact us](https://web.archive.org/contact.html). 
