@@ -1,90 +1,106 @@
-> *The following text is extracted and transformed from the checkfront.com privacy policy that was archived on 2009-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091230204846id_/http%3A//www.checkfront.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the checkfront.com privacy policy that was archived on 2013-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130625234319id_/http%3A//www.checkfront.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
-  1. ## What information do we collect?
+This privacy statement describes how Checkfront Inc collects and uses the personal information you provide on our Web site: www.checkfront.com . It also describes the choices available to you regarding our use of your personal information and how you can access and update this information.
 
-    * We collect information from you when you register on our site, place and order  
-or subscribe to our newsletter.
-    * Any data that is not required will be specified as voluntary or optional
-    * When ordering or registering on our site, as appropriate, you may be asked to enter your name, email address, mailing address, phone number or credit card information. You may, however, visit our site anonymously.
-    * Like most websites, we use cookies to enhance your experience, gather general visitor information, and track visits to our website. Please refer to the ‘do we use cookies’ section below for information about cookies and how we use them.
-  2. ## What do we use your information for?
+## TRUSTe
 
-Any of the information we collect from you may be used in one of the following ways:
+Checkfront Inc is a Participant in the TRUSTe Privacy Seal Program. TRUSTe is an independent organization whose mission is to advance privacy and trust in the networked world. This Web site has agreed to have its privacy practices monitored for compliance by TRUSTe.
 
-    * **To personalize your experience**  
-Your information helps us to better respond to your individual needs.
-    * **To improve our website**  
-We continually strive to improve our website offerings based on the information and feedback we receive from you.
-    * **To improve customer service**  
-Your information helps us to more effectively respond to your customer service requests and support needs.
-    * **To process transactions**  
-Your information, whether public or private, will not be sold, exchanged, transferred, or given to any other company for any reason whatsoever, without your consent, other than for the express purpose of delivering the purchased product or services requested by the customer.
-    * **To send periodic emails**  
-The email address you provide for order processing, may be used to send you information and updates pertaining to your order or request, in addition to receiving occasional company news, updates, promotions, related product or service information, etc. _Note: If at anytime you would like to unsubscribe from receiving future emails, we include detailed unsubscibe instructions at the bottom of each email._
-    * **To administer a contest, promotion, survey or other site feature**
-  3. ## How do we protect your information?
+If you have questions or concerns regarding this policy, you should first contact us at support@checkfront.com . If you do not receive acknowledgment of your inquiry, or if your inquiry has not been satisfactorily addressed, you should then contact TRUSTe. TRUSTe will then serve as a liaison with the Web site to resolve your concerns.
 
-We implement a variety of security measures to maintain the safety of your personal information when you submit a request, place an order or access your personal information.
+## Collection and Use of Personal Information
 
-    * These security measures include: password protected directories and databases to safeguard your information, SSL (Secure Sockets Layered) technology to ensure that your information is fully encrypted and sent across the Internet securely or PCI scanning to actively protect our servers from hackers and other vulnerabilities.
-    * We offer the use of a secure server. All supplied sensitive/credit card information is transmitted via Secure Socket Layer (SSL) technology and then encrypted into our Payment gateway providers database only to be accessible by those authorized with special access rights to such systems, and are required to keep the information confidential.
-    * After a transaction, your private information (credit cards, social security numbers, financials, etc.) will not be stored on our servers.
-  4. ## Do we use cookies?
+We collect the following personal information from you:
 
-Yes (Cookies are small files that a site or its service provider transfers to your computers hard drive through your Web browser (if you allow) that enables the sites or service providers systems to recognize your browser and capture and remember certain information).
+Contact Information such as name, email address, mailing address, phone number  
+Billing Information such as credit card number, and billing address  
+Unique Identifiers such as user name, account number, password  
+Preferences Information such as product wish lists, order history, marketing preferences  
+We also collect the following information from you  
+Information about your business such as company name, company size, business type  
+Demographic information such as age, education, gender, interests and zip code  
+As is true of most Web sites, we automatically gather information about your computer such as your IP address, browser type, referring/exit pages, and operating system.
 
-  5. ## Do we disclose any information to outside parties?
+We use this information to:
 
-We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information. This does not include trusted third parties who assist us in operating our website, conducting our business, or servicing you, so long as those parties agree to keep this information confidential. We may also release your information when we believe release is appropriate to comply with the law, enforce our site policies, or protect ours or others’ rights, property, or safety. However, non-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses.
+Fulfill your order  
+Send you an order confirmation  
+Assess the needs of your business to determine suitable products  
+Send you requested product or service information  
+Send product updates or warranty information  
+Respond to customer service requests  
+Administer your account  
+Send you a newsletter  
+Send you marketing communications  
+Respond to your questions and concerns  
+Improve our Web site and marketing efforts  
+Conduct research and analysis  
+Display content based upon your interests
 
-  6. ## Third Party Links
+## Choice/Opt-Out
 
-Occasionally, at our discretion, we may include or offer third party products or services on our website. These third party sites have separate and independent privacy policies. We therefor have no responsibility or liability for the content and activities of these linked sites. Nonetheless, we seek to protect the integrity of our site and welcome any feedback about these sites. 
+You may choose to stop receiving our newsletter or marketing emails by following the unsubscribe instructions included in these emails or you can contact us at support@checkfront.com .  
+Information Sharing
 
-  7. ## California Online Privacy Protection Act Compliance
+We will share your personal information with third parties only in the ways that are described in this privacy statement. We do not sell your personal information to third parties.  
+We may provide your personal information to companies that provide services to help us with our business activities such as shipping your order or offering customer service. These companies are authorized to use your personal information only as necessary to provide these services to us.  
+We may also disclose your personal information as required by law such as to comply with a subpoena, or similar legal process when we believe in good faith that disclosure is necessary to protect our rights, protect your safety or the safety of others, investigate fraud, or respond to a government request, if Checkfront Inc is involved in a merger, acquisition, or sale of all or a portion of its assets, you will be notified via email and/or a prominent notice on our Web site of any change in ownership or uses of your personal information, as well as any choices you may have regarding your personal information, to any other third party with your prior consent to do so.
 
-Because we value your privacy we have taken the necessary precautions to be in compliance with the California Online Privacy Protection Act. We therefor will not distribute your personal information to outside parties without your consent.  
-As part of the California Online Privacy Protection Act, all users of our site may make changes to their information at any time by logging into their console and going to the ‘Company Profile’ page.
+We share your personal information with other companies so that they can market their products or services to you. If you do not want us to share your personal information with these companies, contact us at support@checkfront.com .
 
-  8. ## Childrens Online Privacy Protection Act Compliance
+## Google Checkout
 
-We are in compliance with the requirements of COPPA (Childrens Online Privacy Protection Act), we do not collect any information from anyone under 13 years of age. Our website, products and services are all directed to people who are 13 years old or older.
+If you choose to use GoogleCheckout to finalize and pay for your order, you will provide your credit card number directly to GoogleCheckout. Google’s privacy policy will apply to the information you provide on the GoogleCheckout Web site.
 
-  9. ## CAN-SPAM Compliance
+## PayPal
 
-We have taken the necessary steps to ensure that we are in compliance with the CAN-SPAM Act of 2003 by never sending out misleading information.
+If you choose to use PayPal to finalize and pay for your order, you will provide your credit card number, directly to PayPal. PayPal’s privacy policy will apply to the information you provide on the PayPal Web site.
 
-  10. ## Terms and Conditions
+## Third Party E-Commerce Solutions Provider
 
-Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website at http://www.checkfront.com/terms.
+Our shopping cart is hosted by our e-commerce solutions provider. They host our ordering system, and collect your billing information directly from you for the purpose of processing your order. This company does not use this information for any other purpose.  
+Cookies and Other Tracking Technologies
 
-  11. ## Your Consent
+We may use cookies, for example, to keep track of your preferences and profile information. Cookies are also used to collect general usage and volume statistical information that does not include personal information.
 
-By using our site, you consent to our privacy policy.
+## Web beacons
 
-  12. ## Contacting Us
+Our Web pages contain electronic images known as Web beacons (sometimes called single-pixel gifs) and are used along with cookies to compile aggregated statistics to analyze how our site is used and may be used in some of our emails to let us know which emails and links have been opened by recipients. This allows us to gauge the effectiveness of our customer communications and marketing campaigns.  
+We use a third party to gather information about how you and others use our Web site. For example, we will know how many users access a specific page and which links they clicked on. We use this aggregated information to understand and optimize how our site is used.
 
-Checkfront Inc  
-1027 Pandora Street,  
-Victoria, BC, Canada  
-V8V 3P6  
+## Links to Other Web Sites
 
-  13. ## Privacy Policy Customer Pledge
+Our Site includes links to other Web sites whose privacy practices may differ from those of Checkfront Inc. If you submit personal information to any of those sites, your information is governed by their privacy statements. We encourage you to carefully read the privacy statement of any Web site you visit.
 
-We pledge to you, our customer, that we have made a dedicated effort to bring our privacy policy in line with the following important privacy laws and initiatives:
+## Security
 
-    * Federal Trade Commision Fair
-    * California Online Privacy Protection Act
-    * Childrens Online Pricacy Protection Act
-    * Privacy Alliance
-    * Controlling the Assault of Non-Solicited Pornography and Marketing Act
-  14. ## Changes to our Privacy Policy
+The security of your personal information is important to us. We follow generally accepted industry standards to protect the personal information submitted to us, both during transmission and once we receive it. No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore, we cannot guarantee its absolute security. If you have any questions about security on our Web site, you can contact us at support@checkfront.com.
 
-If we decide to change our Privacy Policy, we will post those changes on this page, and/or update the Privacy Policy modification date below. Policy changes will apply only to information collected after the date of the change. 
+We provide two means for you to make a purchase on our site. You can either use our order form or a third party payment option. If you use our shopping cart, the transmission of sensitive information collected on our order form is encrypted using secure socket layer technology (SSL). If you choose to use a third party payment option to pay for your order, its privacy statement and security practices will apply to your information. We encourage you to read that privacy statement before providing your information.
 
+## Additional Policy Information
 
+Our Web site includes Widgets, which are interactive mini-programs that run on our site to provide specific services from another company (e.g. displaying the news, opinions, music, etc). Personal information, such as your email address, may be collected through the Widget. Cookies may also be set by the Widget to enable it to function properly. Information collected by this Widget is governed by the privacy policy of the company that created it.
 
+You can log in to our site using sign-in services such as Facebook Connect or an Open ID provider. These services will authenticate your identity and provide you the option to share certain personal information with us such as your name and email address to pre-populate our sign up form. Services like Facebook Connect give you the option to post information about your activities on this Web site to your profile page to share with others within your network.
 
-_Last Updated: August 18th 2009_
+Our Web site offers publicly accessible blogs or community forums. You should be aware that any information you provide in these areas may be read, collected, and used by others who access them.
+
+### Correcting and Updating Your Personal Information
+
+To review and update your personal information to ensure it is accurate, contact us at support@checkfront.com.
+
+## Notification of Privacy Statement Changes
+
+We may update this privacy statement to reflect changes to our information practices. If we make any material changes we will notify you by email (sent to the e-mail address specified in your account) or by means of a notice on this Site prior to the change becoming effective. We encourage you to periodically review this page for the latest information on our privacy practices.
+
+## Contact Information
+
+You can contact us about this privacy statement by writing or email us at the address below:
+
+**Checkfront Inc.**  
+170-422 Richards Street  
+Vancouver, BC, Canada, V6B 2Z4  
+(604) 229-2633
