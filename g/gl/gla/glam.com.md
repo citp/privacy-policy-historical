@@ -1,10 +1,11 @@
-> *The following text is extracted and transformed from the glam.com privacy policy that was archived on 2012-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121222211104id_/http%3A//www.glammedia.com/about_glam/legal/privacy-security) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the glam.com privacy policy that was archived on 2013-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130626004333id_/http%3A//www.glammedia.com/about_glam/legal/privacy-security) for the most accurate reproduction.*
 
 # Privacy & Security | Glam Media
 
 [](http://www.glammedia.com/)
 
   * [](http://www.glammedia.com/glamhealthrelatedsegments/)
+  * [](http://www.glammedia.com/foodie-top-100-restaurants-photo-credits/)
   * [](http://www.glammedia.com/copyright-faqs/)
   * [](http://www.glammedia.com/previous-privacy-policy/)
   * [Home](http://www.glammedia.com/)
