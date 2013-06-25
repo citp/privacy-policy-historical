@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kentessa.com privacy policy that was archived on 2012-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121213074540id_/http%3A//www.kentessa.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kentessa.com privacy policy that was archived on 2013-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130625235032id_/http%3A//www.kentessa.com/privacy.php) for the most accurate reproduction.*
 
 # Kentessa.com - Privacy Policy
 
@@ -56,11 +56,11 @@ Online account information is accessible only by using a password. To protect th
 
 We give you the opportunity to opt-out of receiving certain information or to request that certain information not be shared with third parties, by giving you numerous methods to inform us of your decision. Your choice to opt-out will not apply to your spouse and any add-on members.
 
-1\. If you do not want us to share information with third parties, you can: (a) call our customer service representatives at 800-70170; (b) email us at customerservice@kentessa.com;
+1\. If you do not want us to share information with third parties, you can: (a) call our customer service representatives at (04) 259 1261; (b) email us at customerservice@kentessa.com;
 
-2\. If you do not want to receive Promotional Information (see Use of Personal Information by Kentessa.com) or information about related services, you can: (a) call our customer service representatives at 800-70170; (b) email us at customerservice@kentessa.com;
+2\. If you do not want to receive Promotional Information (see Use of Personal Information by Kentessa.com) or information about related services, you can: (a) call our customer service representatives at (04) 259 1261; (b) email us at customerservice@kentessa.com;
 
-3\. If you do not want to receive promotional emails, you can: (a) call our customer service representatives at 800-70170; (b) email us at customerservice@kentessa.com;
+3\. If you do not want to receive promotional emails, you can: (a) call our customer service representatives at (04) 259 1261; (b) email us at customerservice@kentessa.com;
 
 ## H. Online Specifics
 
@@ -80,7 +80,7 @@ Through selected portions of our website, you can link to other websites of thir
 
 ### 4\. Updating, Reviewing or Correcting Online Personal Information
 
-You may update, review or correct your online account information at any time online by accessing your password-protected registration page via the "My Account" area of the Web site. You also may email us at customerservice@Kentessa.com or call us at 800-70170.
+You may update, review or correct your online account information at any time online by accessing your password-protected registration page via the "My Account" area of the Web site. You also may email us at customerservice@Kentessa.com or call us at (04) 259 1261.
 
 ### 5\. Retention of Information we Collect Online
 
@@ -90,7 +90,7 @@ Information we automatically collect as a result of your online activity is gene
 
 If you have any questions or concerns about this privacy statement or would like to contact us for any reason, you can do the following:
 
-1\. Call our Customer Service representatives at 800-70170;  
+1\. Call our Customer Service representatives at (04) 259 1261;  
 2\. Email us at customerservice@Kentessa.com; or
 
 ## J. Changes to this Statement
