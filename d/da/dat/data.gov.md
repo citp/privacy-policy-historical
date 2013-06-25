@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the data.gov privacy policy that was archived on 2012-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121229210154id_/http%3A//www.data.gov/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the data.gov privacy policy that was archived on 2013-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130625040536id_/http%3A//www.data.gov/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Data.gov
 
-Data.gov is committed to protecting the privacy and security of visitors to this website. Data.gov does not collect personal information when you visit our website unless you choose to provide that information. Outlined below is the Data.gov online privacy policy. If you have questions about this policy, [please let us know](https://web.archive.org/contact-us).
+Data.gov is committed to protecting the privacy and security of visitors to this website. Data.gov does not collect personal information when you visit our website unless you choose to provide that information.  Outlined below is the Data.gov online privacy policy. If you have questions about this policy, [please let us know](https://web.archive.org/contact-us).
 
 ### Information Collected and Stored Automatically
 
@@ -18,13 +18,15 @@ Data.gov uses per-session cookies to serve technical purposes, like providing se
 
 Data.gov also uses persistent cookies to be able to track the number of unique visitors to the site.
 
-Users can choose to disable cookies using their web browsers. It will not affect their ability to search for, review and retrieve data on the site.
+Users can choose to disable cookies using their web browsers.  It will not affect their ability to search for, review and retrieve data on the site.
 
 ### Personal Information
 
-Users are NOT required to provide any information to search, retrieve, download, filter and otherwise use the data available on Data.gov. There are some optional uses of Data.gov that require a user account. They include participation in some Data.gov Communities, commenting on blog posts or datasets, suggesting datasets, and saving specific views created by the user on the Data.gov platform. If you choose to use these options, you need to create a user account by providing an email address and user name. Email addresses are not made public and are used for authentication only. If you choose to provide us with personal information—like filling out a [Contact us](https://web.archive.org/contact-us) form with an email address and submitting it to us through the website—we use that information to respond to your message, and to help get you the information you requested. Your email address will not be stored or retrieved by Data.gov. We only share the information you give us with another government agency if your question relates to that agency, or as otherwise required by law. Data.gov never collects information or creates individual profiles for commercial marketing.
+Users are NOT required to provide any information to search, retrieve, download, filter and otherwise use the data available on Data.gov.  There are some optional uses of Data.gov that require a user account.  They include participation in some Data.gov Communities, commenting on blog posts or datasets, suggesting datasets, and saving specific views created by the user on the Data.gov platform.  If you choose to use these options, you need to create a user account by providing an email address and user name. Email addresses are not made public  and are used for authentication only. If you choose to provide us with personal information—like filling out a [Contact us](https://web.archive.org/contact-us) form with an email address and submitting it to us through the website—we use that information to respond to your message, and to help get you the information you requested. Your email address will not be stored or retrieved by Data.gov.  We only share the information you give us with another government agency if your question relates to that agency, or as otherwise required by law. Data.gov never collects information or creates individual profiles for commercial marketing.
 
 While you must provide an email address and user name for the optional uses of Data.gov, you should NOT include any other personal information, especially [Social Security numbers](http://www.ssa.gov/pubs/10002.html#protect).
+
+For certain Data.gov users who need access to administrative privileges in order to carry out Data.gov functions in their roles as official representatives of federal, state, local or tribal governments or certain non-governmental organizations, Data.gov collects additional information such as name, organization, job title, and business address, business telephone number and business email address. 
 
 Data.gov is NOT a Privacy Act System of Record. Submission of any information is voluntary, and the collection of email addresses is being done purely for the purpose of authentication.
 
