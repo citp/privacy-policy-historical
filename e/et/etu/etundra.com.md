@@ -1,11 +1,6 @@
-> *The following text is extracted and transformed from the etundra.com privacy policy that was archived on 2008-04-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080421115754id_/http%3A//www.etundra.com/privacy_policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the etundra.com privacy policy that was archived on 2013-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130625051023id_/http%3A//www.etundra.com/PrivacyPolicy.html) for the most accurate reproduction.*
 
-# Tundra Specialties
-
-  
-
-
-## Restaurant Parts - Supplies - Equipment
+# Privacy Policy
 
 * * *
 
@@ -58,17 +53,17 @@ In order to better serve you, at various points you may complete a registration 
 
 * * *
 
-## Order & application forms 
+## Order & application forms
 
 If you purchase a product or service from us, we request certain personally identifiable information from you on our order form. You must provide contact information (such as name, email, and shipping address) and financial information (such as credit card number, expiration date).
 
-We use this information for billing purposes and to fill your orders.  If we have trouble processing an order, we will use this information to contact you.
+We use this information for billing purposes and to fill your orders. If we have trouble processing an order, we will use this information to contact you.
 
 * * *
 
 ## Refer a Friend 
 
-If you choose to use our referral service to tell a friend about our site, we will ask you for your friend’s name and email address.  We will automatically send your friend a one-time email inviting him or her to visit the site.  Tundra Specialties stores this information for the sole purpose of sending this one-time email and tracking the success of our referral program. 
+If you choose to use our referral service to tell a friend about our site, we will ask you for your friend’s name and email address. We will automatically send your friend a one-time email inviting him or her to visit the site. Tundra Specialties stores this information for the sole purpose of sending this one-time email and tracking the success of our referral program. 
 
 Your friend may contact us to request that we remove this information from our database.
 
@@ -76,29 +71,29 @@ Your friend may contact us to request that we remove this information from our d
 
 ## Special Offers & Promotions
 
-We will occasionally send you information on products, special deals and promotions. You can sign up for these emails from us on our registration page.
+We will occasionally send you information on products, special deals and promotions. You can sign up for these emails from us on our registration page.
 
-Out of respect for your privacy, we present the option not to receive these types of communications.  Please see the “Choice and Opt-out.” 
+Out of respect for your privacy, we present the option not to receive these types of communications. Please see the “Choice and Opt-out.” 
 
 * * *
 
 ## Service-related Announcements
 
-We will send you strictly service-related announcements on rare occasions when it is necessary to do so.  For instance, if our service is temporarily suspended for maintenance, we might send you an email. 
+We will send you strictly service-related announcements on rare occasions when it is necessary to do so. For instance, if our service is temporarily suspended for maintenance, we might send you an email. 
 
-Generally, you may not opt-out of these communications, which are not promotional in nature.  If you do not wish to receive them, you have the option to deactivate your account.
+Generally, you may not opt-out of these communications, which are not promotional in nature. If you do not wish to receive them, you have the option to deactivate your account.
 
 * * *
 
 ## Customer Service
 
-Based upon the personally identifiable information you provide us, we will send you a welcoming email to verify your username and password.  We will also communicate with you in response to your inquiries, to provide the services you request, and to manage your account. We will communicate with you by email or telephone, in accordance with your wishes.
+Based upon the personally identifiable information you provide us, we will send you a welcoming email to verify your username and password. We will also communicate with you in response to your inquiries, to provide the services you request, and to manage your account. We will communicate with you by email or telephone, in accordance with your wishes.
 
 * * *
 
 ## Profile Information
 
-We store information that we collect through cookies, log files, clear gifs, [and/or third party sources] to create a “profile” of your preferences.  We tie your personally identifiable information, and your purchasing history, to information in the profile, in order to provide tailored promotions and marketing offers and to improve the content of the site for you. 
+We store information that we collect through cookies, log files, clear gifs, [and/or third party sources] to create a “profile” of your preferences. We tie your personally identifiable information, and your purchasing history, to information in the profile, in order to provide tailored promotions and marketing offers and to improve the content of the site for you. 
 
 We may share certain information (only where appropriate) with individuals and businesses responsible for handling your account or performing other services that you require.
 
@@ -136,7 +131,7 @@ We reserve the right to disclose your personally identifiable information as req
 
 ## Choice/Opt-out
 
-We provide you the opportunity to ‘opt-out’ of having your personally identifiable information used for certain purposes, when we ask for this information.  For example, if you purchase a product/service but do not wish to receive any additional marketing material from us, you can indicate your preference on our order form.
+We provide you the opportunity to ‘opt-out’ of having your personally identifiable information used for certain purposes, when we ask for this information. For example, if you purchase a product/service but do not wish to receive any additional marketing material from us, you can indicate your preference on our order form.
 
 If you no longer wish to receive our newsletter and promotional communications, you may opt-out of receiving them by following the instructions included in each newsletter or communication or by contacting us. 
 
@@ -146,23 +141,23 @@ You will be notified when your personal information is collected by any third pa
 
 ### Log Files
 
-As is true of most Web sites, we gather certain information automatically and store it in log files.  This information includes internet protocol (IP) addresses, browser type, internet service provider (ISP), referring/exit pages, operating system, date/time stamp, and clickstream data. 
+As is true of most Web sites, we gather certain information automatically and store it in log files. This information includes internet protocol (IP) addresses, browser type, internet service provider (ISP), referring/exit pages, operating system, date/time stamp, and clickstream data. 
 
-We use this information, which does not identify individual users, to analyze trends, to administer the site, to track users’ movements around the site and to gather demographic information about our user base as a whole. 
+We use this information, which does not identify individual users, to analyze trends, to administer the site, to track users’ movements around the site and to gather demographic information about our user base as a whole. 
 
-We do link this automatically-collected data to personally identifiable information.  IP addresses are tied to personally identifiable information to help prevent theft and fraud and to provide the customer with a personalized experience. 
+We do link this automatically-collected data to personally identifiable information. IP addresses are tied to personally identifiable information to help prevent theft and fraud and to provide the customer with a personalized experience. 
 
-We use a third-party tracking service that uses cookies and log files to track non-personally identifiable information about visitors to our site. __
+We use a third-party tracking service that uses cookies and log files to track non-personally identifiable information about visitors to our site.
 
 * * *
 
 ## Cookies
 
-A cookie is a small text file that is stored on a user’s computer for record-keeping purposes. We use cookies on this site. We link the information we store in cookies to any personally identifiable information you submit while on our site. 
+A cookie is a small text file that is stored on a user’s computer for record-keeping purposes. We use cookies on this site. We link the information we store in cookies to any personally identifiable information you submit while on our site. 
 
-We use both session ID cookies and persistent cookies.  We use session cookies to make it easier for you to navigate our site. A session ID cookie expires when you close you browser. A persistent cookie remains on your hard drive for an extended period of time. You can remove persistent cookies by following directions provided in your Internet browser’s “help” file.
+We use both session ID cookies and persistent cookies. We use session cookies to make it easier for you to navigate our site. A session ID cookie expires when you close you browser. A persistent cookie remains on your hard drive for an extended period of time. You can remove persistent cookies by following directions provided in your Internet browser’s “help” file.
 
-We set a persistent cookie to store your passwords, so you don’t have to enter it more than once.  Persistent cookies also enable us to track and target the interests of our users to enhance the experience on our site. 
+We set a persistent cookie to store your passwords, so you don’t have to enter it more than once. Persistent cookies also enable us to track and target the interests of our users to enhance the experience on our site. 
 
 If you reject cookies, you may still use our site, but your ability to use some areas of our site, such as contests or surveys, will be limited. The use of cookies are necessary to conduct ecommerce on our website.
 
@@ -170,9 +165,9 @@ If you reject cookies, you may still use our site, but your ability to use some 
 
 ## Links to Other Sites
 
-This Web site contains links to other sites that are not owned or controlled by Tundra Specialties. Please be aware that we, Tundra Specialties, are not responsible for the privacy practices of such other sites. 
+This Web site contains links to other sites that are not owned or controlled by Tundra Specialties. Please be aware that we, Tundra Specialties, are not responsible for the privacy practices of such other sites. 
 
-We encourage you to be aware when you leave our site and to read the privacy statements of each and every Web site that collects personally identifiable information. 
+We encourage you to be aware when you leave our site and to read the privacy statements of each and every Web site that collects personally identifiable information. 
 
 This privacy statement applies only to information collected by this Web site.
 
@@ -180,28 +175,28 @@ This privacy statement applies only to information collected by this Web site.
 
 ## Security
 
-The security of your personal information is important to us.  When you enter sensitive information (such as credit card number) on our registration or order forms, we encrypt that information using secure socket layer technology (SSL). When registration forms (i.e. ecommerce) require a user to enter sensitive information (such as credit card number and/or social security number), the information is encrypted and protected with the best encryption standard in the industry—SSL. The information collected is to be used for billing purposes and to fulfill the customer’s orders. While on a secure page, such as an ecommerce website, a lock icon is present at the bottom of the Web browser (for Netscape Navigator and Microsoft Internet Explorer) indicating the information transmitted will be encrypted. To learn more about SSL, please visit http://webopedia.internet.com/term/s/ssl.html. To check the validity of the SSL certificate, please be sure to click on the lock icon located at the bottom of your browser window.
+The security of your personal information is important to us. When you enter sensitive information (such as credit card number) on our registration or order forms, we encrypt that information using secure socket layer technology (SSL). When registration forms (i.e. ecommerce) require a user to enter sensitive information (such as credit card number and/or social security number), the information is encrypted and protected with the best encryption standard in the industry—SSL. The information collected is to be used for billing purposes and to fulfill the customer’s orders. While on a secure page, such as an ecommerce website, a lock icon is present at the bottom of the Web browser (for Netscape Navigator and Microsoft Internet Explorer) indicating the information transmitted will be encrypted. To learn more about SSL, please visit http://webopedia.internet.com/term/s/ssl.html. To check the validity of the SSL certificate, please be sure to click on the lock icon located at the bottom of your browser window.
 
-We follow generally accepted industry standards to protect the personal information submitted to us, both during transmission and once we receive it.  No method of transmission over the Internet, or method of electronic storage, is 100% secure, however.  Therefore, while we strive to use commercially acceptable means to protect your personal information, we cannot guarantee its absolute security.
+We follow generally accepted industry standards to protect the personal information submitted to us, both during transmission and once we receive it. No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore, while we strive to use commercially acceptable means to protect your personal information, we cannot guarantee its absolute security.
 
-If you have any questions about security on our Web site, you can email us.
+If you have any questions about security on our Web site, you can [contact us](https://web.archive.org/web/20130625051023id_/http%3A//www.etundra.com/contact.aspx).
 
 * * *
 
 ## Business Transitions
 
-In the event Tundra Specialties goes through a business transition, such as a merger, acquisition by another company, or sale of all or a portion of its assets, your personally identifiable information will likely be among the assets transferred.  You will be notified via email or a prominent notice on our Web site within 30 days of any such change in ownership or control of your personal information.
+In the event Tundra Specialties goes through a business transition, such as a merger, acquisition by another company, or sale of all or a portion of its assets, your personally identifiable information will likely be among the assets transferred. You will be notified via email or a prominent notice on our Web site within 30 days of any such change in ownership or control of your personal information.
 
 * * *
 
 ## Changes in this Privacy Statement
 
-If we decide to change our privacy policy, we will post those changes to this privacy statement, the homepage, and other places we deem appropriate so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it. 
+If we decide to change our privacy policy, we will post those changes to this privacy statement, the homepage, and other places we deem appropriate so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it. 
 
-We reserve the right to modify this privacy statement at any time, so please review it frequently.  If we make material changes to this policy, we will notify you here, by email, or by means of a notice on our home page.
+We reserve the right to modify this privacy statement at any time, so please review it frequently. If we make material changes to this policy, we will notify you here, by email, or by means of a notice on our home page.
 
 * * *
 
 ## Contact Information 
 
-If you have any questions or suggestions regarding our privacy policy, please [contact us](https://web.archive.org/contact/index.asp).
+If you have any questions or suggestions regarding our privacy policy, please [contact us.](https://web.archive.org/web/20130625051023id_/http%3A//www.etundra.com/contact.aspx)
