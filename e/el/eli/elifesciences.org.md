@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the elifesciences.org privacy policy that was archived on 2012-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121214102114id_/http%3A//www.elifesciences.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the elifesciences.org privacy policy that was archived on 2013-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130625034350id_/http%3A//www.elifesciences.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy | eLife | The new funder-researcher collaboration and open-access journal for outstanding advancements in life and biomedical research
 
