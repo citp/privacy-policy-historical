@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the filesfrog.com privacy policy that was archived on 2012-11-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121112171448id_/http%3A//filesfrog.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the filesfrog.com privacy policy that was archived on 2013-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130625151307id_/http%3A//www.filesfrog.com/privacy) for the most accurate reproduction.*
 
 # Software and Driver Updates - FilesFrog.com
 
@@ -18,7 +18,7 @@ The provider never tracks or stores your personal identifiable information. We m
 
 ## No Adware Policy
 
-The provider does not launch pop-up or pop-under advertisement windows or any other type of obtrusive ads. Users may be presented with advertisements while using roaming the site. We might use an outside ad company to display ads on our site. These ads may contain cookies which may be collected by our ad company, and we do not have access to this information. 
+The provider does not launch pop-up or pop-under advertisement windows. Users may be presented with advertisements while using roaming the site. We might use an outside ad company to display ads on our site. These ads may contain cookies which may be collected by our ad company, and we do not have access to this information. 
 
 If you choose to contact us we will ask you for your name and email address. We do not store this information but simply receive it as one time email. You may contact us at http://www.FilesFrog.com/contact to request that we remove this email from our email inbox. 
 
