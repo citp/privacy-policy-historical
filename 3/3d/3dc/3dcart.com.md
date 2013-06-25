@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 3dcart.com privacy policy that was archived on 2010-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101202081007id_/http%3A//www.3dcart.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 3dcart.com privacy policy that was archived on 2013-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130626001907id_/http%3A//www.3dcart.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy for www.3dcart.com
 
@@ -39,6 +39,10 @@ We use this information to
   * Send you a newsletter
 
 
+
+**Data Collected on the 3dcart Application**
+
+Any data collected through the 3dcart application, including customers contact information, orders information and credit card information adheres to the PCI Data Security Standards as described [here](http://www.3dcart.com/pci-compliance.html).
 
 **Information Sharing**
 
@@ -97,7 +101,7 @@ We may update this policy from time to time as our information practices are mod
 You can contact us by writing or email us at the address below.
 
 3dcart   
-7515 Oakland Park Blvd   
+6691 Nob Hill Rd   
 Suite 101   
 Tamarac, FL 33319   
 [sales@3dcart.com ](mailto:sales@3dcart.com)   
