@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the studyco.com privacy policy that was archived on 2012-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121220101608id_/http%3A//www.studyco.com/Pages/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the studyco.com privacy policy that was archived on 2013-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130625223810id_/http%3A//www.studyco.com/en/page/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -84,7 +84,3 @@ For further information contact us on:
 **Address:** PO Box 180, Collins Street West, Melbourne Victoria 8007 Australia 
 
 **Email:** counsellor@studyco.com
-
-For more information, please [contact](http://www.studyco.com/page2.php?name=contact)  one of our offices
-
-Study in Malaysia | Study in UK | Study in Australia | Study in Canada | Study in USA
