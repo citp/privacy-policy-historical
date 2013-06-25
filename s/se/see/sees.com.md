@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sees.com privacy policy that was archived on 2012-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121230090522id_/http%3A//www.sees.com/index.cfm/about_us/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sees.com privacy policy that was archived on 2013-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130626004958id_/http%3A//www.sees.com/index.cfm/about_us/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy | See's Candies
 
@@ -59,6 +59,5 @@ We reserve the right, at our discretion, to change this Privacy Policy at any ti
 
 Effective Date: September 6, 2011 
 
-  
   
 
