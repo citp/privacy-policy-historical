@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the housecleaningcentral.com privacy policy that was archived on 2012-10-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121010125353id_/http%3A//www.housecleaningcentral.com/en/cleaning-services/mrs-clean/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the housecleaningcentral.com privacy policy that was archived on 2013-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130625212440id_/http%3A//www.housecleaningcentral.com/en/cleaning-services/mrs-clean/privacy-policy.html) for the most accurate reproduction.*
 
-# Mrs Clean Privacy Policy | Mrs Clean
+# Mrs Clean Privacy Policy-Mrs Clean
 
 Your privacy is protected with us. We will not sell, rent, release, or otherwise disseminate your personal information without your permission.
 
