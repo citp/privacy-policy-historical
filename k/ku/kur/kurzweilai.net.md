@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the kurzweilai.net privacy policy that was archived on 2012-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121123085535id_/http%3A//www.kurzweilai.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kurzweilai.net privacy policy that was archived on 2013-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130625033340id_/http%3A//www.kurzweilai.net/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | KurzweilAI
 
-_Last Updated on Oct. 29, 2012_
+_Last Updated on February 20, 2012_
 
 **Information We Gather**
 
@@ -30,7 +30,7 @@ _Last Updated on Oct. 29, 2012_
 **Important Information**
 
   * Our Privacy Policy may be amended from time to time. Any such changes will be posted on this page. If we make a significant or material change in the way we use your personal information, the change will be posted thirty (30) days prior to taking effect and registered users will be notified via e-mail.
-  * We employ measures designed to protect the security of your personal identifying information. 
+  * We employ measures designed to protect the security of your personal identifying information.
 
 
 
@@ -40,4 +40,6 @@ KurzweilAI does not knowingly collect or store any personal information, even in
 
 **How To Contact Us** ****
 
-For any questions or comments regarding our information or security practices, you may contact us by e-mail at [info@kurzweilai.net](mailto:info@kurzweilai.net).
+For any questions or comments regarding our privacy or security practices for our daily or weekly _Kurzweil Accelerating Intelligence Newsletter_ , you may contact us by e-mail at [newsletter@kurzweilai.net](mailto:info@kurzweilai.net).
+
+For any questions or comments regarding our privacy or security practices on the kurzweilai.net website, you may contact us by e-mail at [webmaster@kurzweilai.net](mailto:info@kurzweilai.net).
