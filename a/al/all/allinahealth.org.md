@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the allinahealth.org privacy policy that was archived on 2012-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121227085257id_/http%3A//www.allinahealth.org/ahs/help.nsf/page/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the allinahealth.org privacy policy that was archived on 2013-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130625172312id_/http%3A//www.allinahealth.org/ahs/help.nsf/page/privacypolicy) for the most accurate reproduction.*
 
 # Privacy policy for allinahealth.org
 
@@ -142,7 +142,7 @@ When you initially enroll to use [MyChart](https://web.archive.org/ahs/customers
 
 For this reason, it is important that you keep your access code, MyChart ID and password completely confidential. You should prevent disclosure of your access code, ID or password, and you should change your password if you believe that your security may have been compromised. In addition, you should change your password regularly to help maintain the security of your account. You can change your password online at any time by logging into MyChart and choosing the “Change Password” option. 
 
-**If you have any questions about the security of your password, please call 1-888-4ALLINA (4255462) right away.**
+**If you have any questions about the security of your password** , please MyChart Support at 1-855-551-6555, 24 hours a day, seven days a week.
 
 ### MyChart messaging
 
