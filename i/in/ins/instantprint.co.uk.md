@@ -1,11 +1,11 @@
-> *The following text is extracted and transformed from the instantprint.co.uk privacy policy that was archived on 2012-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121127190253id_/http%3A//www.instantprint.co.uk/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the instantprint.co.uk privacy policy that was archived on 2013-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130625151118id_/http%3A//www.instantprint.co.uk/privacypolicy.html) for the most accurate reproduction.*
 
 # instantprint. | Privacy Policy
 
 #### Protecting your personal details on our website  
 **Last updated: 14 September 2012**
 
-Bluetree Design & Print Ltd T/A www.instantprint.co.uk (Registered number 6930867), whose registered office is at 2 Bessemer Park. Bessemer Way. Templeborough. Rotherham. S60 1EN, knows that you care how information about you is used and shared and we appreciate your trust in us to do that carefolly and sensibly. This notice describes our privacy policy and forms part of our website terms and conditions ("Website Terms").
+Bluetree Design & Print Ltd T/A www.instantprint.co.uk (Registered number 6930867), whose registered office is at 2 Bessemer Park. Bessemer Way. Templeborough. Rotherham. S60 1EN, knows that you care how information about you is used and shared and we appreciate your trust in us to do that carefully and sensibly. This notice describes our privacy policy and forms part of our website terms and conditions ("Website Terms").
 
 should you wish to print a copy of these terms and conditions for future reference, press ctrl + p to do so.
 
