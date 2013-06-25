@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the scouring.com privacy policy that was archived on 2012-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121224021120id_/http%3A//www.admedia.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the scouring.com privacy policy that was archived on 2013-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130625234041id_/http%3A//www.admedia.com/privacy) for the most accurate reproduction.*
 
 # AdMedia Online Ad Network | Affiliate Advertising Solutions
 
@@ -7,10 +7,6 @@ THE FOLLOWING PRIVACY POLICY POLICYDETAILS THE ADMEDIA PLEDGE TO KEEPING YOUR IN
 Effective Date: August 30, 2012
 
 This privacy policy describes how AdMedia, Inc. ("AdMedia") collects and uses the personal information you provide on our Web sites: www.thankyouoffer.com, www.thankyouemail.com, www.remarketing.com, www.prerollstream.com, www.overlayad.com, www.midrollstream.com, www.intextual.com, www.footerroll.com, www.dittodomains.com, www.contextual.com, www.admobile.com, www.admediabrands.com, www.404bucks.com, www.admedia.com. It also describes the choices available to you regarding our use of your personal information and how you can access and update this information.
-
-[](https://privacy.truste.com/privacy-seal/Ad-com-Interactive-Media,-Inc-/validation?rid=1825b7dc-2cca-41b8-b3ca-31cac0bf5673 "TRUSTe online privacy certification")
-
-AdMedia has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with [TRUSTe's program requirements](http://www.truste.com/privacy_seals_and_services/consumer_privacy/privacy-programs-requirements.html) including transparency, accountability and choice regarding the collection and use of your personal information. The TRUSTe program only covers information that may be collected through this website. TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy policy or practices, please contact us at [copyright@admedia.com](mailto:copyright@admedia.com). If you are not satisfied with our response you can contact [TRUSTe here](http://watchdog.truste.com/pvr.php?page=complaint).
 
 ## What type of information does AdMedia collect?
 
