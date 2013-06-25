@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ratemyprofessors.com privacy policy that was archived on 2012-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121219044655id_/http%3A//www.ratemyprofessors.com/PrivacyPolicy_us.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ratemyprofessors.com privacy policy that was archived on 2013-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130625160928id_/http%3A//www.ratemyprofessors.com/PrivacyPolicy_us.jsp) for the most accurate reproduction.*
 
 # Privacy Policy - RateMyProfessors.com
 
@@ -163,7 +163,7 @@ As set forth in this Privacy Policy, we may share Information with our Parent Co
 *  
 | 
 
-**i.Personal Information.** We, and/or our Parent Companies and Affiliates, use the Personal Information we collect from you in a variety of ways, including:
+**i. Personal Information.** We, and/or our Parent Companies and Affiliates, use the Personal Information we collect from you in a variety of ways, including:
 
   * Sending marketing and promotional e-mails or, subject to the " _ **Wireless Marketing Services and Associated Promotional Opportunities**_" Section below, text messages offering the purchase of goods and/or services that may be of interest to users, whether those goods and/or services are provided by the Site, the Parent Companies, Affiliates or third parties (for example, we may send you an email about a product sold by a third party);
   * Processing your registration with the Site, such as verifying that your e-mail address is active and valid;
@@ -180,7 +180,7 @@ For other purposes disclosed at the time you provide the Personal Information.
 *  
 | 
 
-**ii.Other Information Collected by Us.** We, and/or our Parent Companies and Affiliates, use the Personal Information we collect from you in a variety of ways, including:
+**ii. Other Information Collected by Us.** We, and/or our Parent Companies and Affiliates, use the Personal Information we collect from you in a variety of ways, including:
 
   * Keeping count of your return visits to the Site or our Parent Companies', Affiliates', Advertisers' or partners' sites;
   * Accumulating and reporting aggregate, statistical information in connection with the Site and user activity;
@@ -197,7 +197,7 @@ For other purposes disclosed at the time you provide the Personal Information.
 *  
 | 
 
-**iii.Other Information Collected by Third Party Advertising Service Providers and Advertisers.** The use of Tracking Technologies by Third Party Advertising Service Providers and Advertisers is within their control and not ours. Even if we have a relationship with the Third Party Advertising Service Provider or Advertiser, we do not control their websites or their policies and practices regarding your Information and you should be aware that different rules might apply to the collection, use or disclosure of your Information by third parties in connection with their advertisements or promotions and other sites you encounter on the Internet. This Privacy Policy does not cover any use of Information that a Third Party Advertising Service Provider or Advertiser may directly collect from you. Use of Third Party Advertising Service Providers' and Advertisers' Tracking Technologies is governed by the Third Party Advertising Service Providers' or Advertisers', as applicable, own specific privacy policies and not this Privacy Policy. However, please see " _ **Opting-Out of Certain Uses of Your Personal Information and Other Information (Other than Wireless Marketing Services and Associated Promotional Opportunities)**_" Section for more information on how to opt-out of the collection and/or use of Information collected by certain Third Party Advertising Service Providers.  
+**iii. Other Information Collected by Third Party Advertising Service Providers and Advertisers.** The use of Tracking Technologies by Third Party Advertising Service Providers and Advertisers is within their control and not ours. Even if we have a relationship with the Third Party Advertising Service Provider or Advertiser, we do not control their websites or their policies and practices regarding your Information and you should be aware that different rules might apply to the collection, use or disclosure of your Information by third parties in connection with their advertisements or promotions and other sites you encounter on the Internet. This Privacy Policy does not cover any use of Information that a Third Party Advertising Service Provider or Advertiser may directly collect from you. Use of Third Party Advertising Service Providers' and Advertisers' Tracking Technologies is governed by the Third Party Advertising Service Providers' or Advertisers', as applicable, own specific privacy policies and not this Privacy Policy. However, please see " _ **Opting-Out of Certain Uses of Your Personal Information and Other Information (Other than Wireless Marketing Services and Associated Promotional Opportunities)**_" Section for more information on how to opt-out of the collection and/or use of Information collected by certain Third Party Advertising Service Providers.  
   
   
 
@@ -259,7 +259,7 @@ Opting-out of, deleting, rejecting, disabling or turning off Third Party Adverti
 *  
 | 
 
-**ii.Tracking Technologies Set By the Site.** With respect to the Tracking Technologies set by the Site, you have a number of options:
+**ii. Tracking Technologies Set By the Site.** With respect to the Tracking Technologies set by the Site, you have a number of options:
 
   * You can choose to delete most Tracking Technologies (other than Flash cookies) through the "Internet Options" sub-option of the "Tools" menu option of your browser or otherwise as directed by your browser's support feature. (See the "help" section of your browser for more information and see below for more information on removing Flash cookies.)
   * You can choose to disable or turn most Tracking Technologies off (other than Flash cookies). Additional information on disabling or turning most Tracking Technologies off may be available through your browser's support feature. (See the "help" section of your browser for more information and see below for more information on removing Flash cookies.)
@@ -304,14 +304,14 @@ Users that register for the Site's and/or RMP's wireless marketing services ackn
 *  
 | 
 
-**i.Single Opt-in Method:** In response to print, radio, television, Internet, or other promotional messages, users will be directed to send a specific word or code via a text message to a designated telephone number to register for the service promoted. The user's voluntary submission of the designated word or code to the Site and/or RMP will mean that the user has freely and affirmatively granted permission to the Site and/or RMP to send text messages to him or her. The Site and/or RMP will thank the user for his or her registration by sending a "Thank you" message. The user may terminate the service at any time by using the unsubscribe command in any text message from the Site or by sending a text message to the Site that says "STOP","END","CANCEL","REMOVE","UNSUBSCRIBE" or"QUIT".
+**i. Single Opt-in Method:** In response to print, radio, television, Internet, or other promotional messages, users will be directed to send a specific word or code via a text message to a designated telephone number to register for the service promoted. The user's voluntary submission of the designated word or code to the Site and/or RMP will mean that the user has freely and affirmatively granted permission to the Site and/or RMP to send text messages to him or her. The Site and/or RMP will thank the user for his or her registration by sending a "Thank you" message. The user may terminate the service at any time by using the unsubscribe command in any text message from the Site or by sending a text message to the Site that says "STOP","END","CANCEL","REMOVE","UNSUBSCRIBE" or"QUIT".
 
   
   
 *  
 | 
 
-**ii.Double Opt-in (Site/SMS) Method:** In response to print, radio, television, Internet, or other promotional messages, users will be directed to this Site to start the registration process. The user must affirmatively consent to the Site's and RMP's sending of wireless messages to his or her designated wireless device by submitting a telephone number (or wireless email address, only if requested by the Site and/or RMP) and by clicking the consent statement on the Site's registration page. The user must also agree to the Site's Privacy Policy and [_**Terms of Use Agreement**_](https://web.archive.org/TermsOfUse_us.jsp) before the online registration process is completed. The Site and/or RMP will then send a "Confirmation" message to the user's designated wireless device and will request that the user confirm that he or she has agreed to receive messages from the Site and/or RMP to that particular telephone number (or wireless domain name when appropriate). The user must respond to the "Confirmation" message with a text message that states "YES" or "Y" that will indicate the user's acceptance of the Site's and RMP's wireless marketing service. Until the user responds to the "Confirmation" message, the user is not registered for the specific wireless marketing service subject to the Promotion. A user may respond to the "Confirmation" message at any time _provided that_ the Site and RMP may choose to terminate offering wireless marketing service at any time and the user's response to the "Confirmation" is only valid if the response is received while the Site and/or RMP continues to offer the specific wireless marketing service.
+**ii. Double Opt-in (Site/SMS) Method:** In response to print, radio, television, Internet, or other promotional messages, users will be directed to this Site to start the registration process. The user must affirmatively consent to the Site's and RMP's sending of wireless messages to his or her designated wireless device by submitting a telephone number (or wireless email address, only if requested by the Site and/or RMP) and by clicking the consent statement on the Site's registration page. The user must also agree to the Site's Privacy Policy and [_**Terms of Use Agreement**_](https://web.archive.org/TermsOfUse_us.jsp) before the online registration process is completed. The Site and/or RMP will then send a "Confirmation" message to the user's designated wireless device and will request that the user confirm that he or she has agreed to receive messages from the Site and/or RMP to that particular telephone number (or wireless domain name when appropriate). The user must respond to the "Confirmation" message with a text message that states "YES" or "Y" that will indicate the user's acceptance of the Site's and RMP's wireless marketing service. Until the user responds to the "Confirmation" message, the user is not registered for the specific wireless marketing service subject to the Promotion. A user may respond to the "Confirmation" message at any time _provided that_ the Site and RMP may choose to terminate offering wireless marketing service at any time and the user's response to the "Confirmation" is only valid if the response is received while the Site and/or RMP continues to offer the specific wireless marketing service.
 
   
   
@@ -352,14 +352,14 @@ Generally, we do not sell, rent, lease or disclose your Personal Information to 
 *  
 | 
 
-**1.Disclosure to Parent Companies and Affiliates** We may disclose Personal Information to Parent Companies and Affiliates for marketing and/or administrative purposes. You can choose to opt-out of certain such uses as described in the" _ **Opting-Out of Certain Uses of Personal Information**_" Section above.
+**i. Disclosure to Parent Companies and Affiliates** We may disclose Personal Information to Parent Companies and Affiliates for marketing and/or administrative purposes. You can choose to opt-out of certain such uses as described in the" _ **Opting-Out of Certain Uses of Personal Information**_" Section above.
 
   
   
 *  
 | 
 
-**ii.Disclosure of Certain Information in Postings Intended to Be Disclosed.** Certain Personal Information associated with a Posting may be intended for disclosure (" _Posting Information_ "), such as username. We will disclose Posting Information in connection with the display of, and other services relating to, such Posting.
+**ii. Disclosure of Certain Information in Postings Intended to Be Disclosed.** Certain Personal Information associated with a Posting may be intended for disclosure (" _Posting Information_ "), such as username. We will disclose Posting Information in connection with the display of, and other services relating to, such Posting.
 
   
   
@@ -502,4 +502,4 @@ Further, if you use any of the Communities features and functions made available
   
   
 This Privacy Policy was last modified on the date indicated above and is effective immediately.  
-Copyright © 2012 RateMyProfessors.com LLC, a subsidiary of Viacom International Inc. - All Rights Reserved.
+Copyright © 2013 RateMyProfessors.com LLC, a subsidiary of Viacom International Inc. - All Rights Reserved.
