@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the labour.org.uk privacy policy that was archived on 2012-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121215042804id_/http%3A//www.labour.org.uk/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the labour.org.uk privacy policy that was archived on 2013-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130625040723id_/http%3A//www.labour.org.uk/privacy) for the most accurate reproduction.*
 
 # Privacy | The Labour Party
 
@@ -8,7 +8,9 @@ The Labour Party site does not automatically capture or store personal informati
 **Data collection and use  
 **You may be asked for personal information if you complete one of the forms on this site. Please see below the information we ask for and what this information is used for.
 
-In each case we will only use the information about you for the purpose for which you provide it. The Labour Party does not sell or disclose this information to outside organisations or individuals, nor transfer it outside the United Kingdom. You may remove or change your details at any time. You have right of access to your personal information held on our files by written request to the data protection officer (address below) and on payment of an administration fee.
+In each case we will only use the information about you for the purpose for which you provide it. Personal information you submit on the Labour Party website is stored on secure servers. Occasionally, in order to complete your request as outlined above, we may need to transfer personal information you submit to us to countries or jurisdictions outside the EEA.  We are compliant with the Safe Harbor scheme, which is recognised by the European Commission as providing adequate protection for the rights of data individuals in connection the transfer of their personal data to signatories of the scheme in the USA. We will never sell or share your personal information with any other organisation outside of the Labour Party. 
+
+You may remove or change your details at any time. You have right of access to your personal information held on our files by written request to the data protection officer (address below) and on payment of an administration fee.
 
 **Site registration and email service  
 **When you register onto the site or subscribe to our emails, we ask you for contact information (such as your name and e-mail address), geographic information (such as your postcode and constituency), and other details about you and your interests. This is used to help us provide you with information to match your interests. We may also use it to alert you of campaigns you may be interested in and events happening in your area.
@@ -25,7 +27,7 @@ In each case we will only use the information about you for the purpose for whic
 **Cookie  
 **A cookie is a tiny text file that is stored on your computer. We may use cookies in order to tailor your experience on our site according to the preferences you have specified. However we will only access the information that we stored in your cookie file. We will not access any information stored in a cookie by other websites. Our cookies do not contain any personally identifiable information.
 
-**Information on children** The Labour Party does not process any personal details from individuals under the age of 15 without parent/guardian consent. Details of under 16s are processed for membership purposes only.
+**Information on children** The Labour Party does not process any personal details from individuals under the age of 14 without parent/guardian consent. Details of under 16s are processed for membership purposes only.
 
 **Links to other sites  
 **Our site contains links to other sites and servers. The Labour Party is not responsible for the privacy practices or the content of such websites.
