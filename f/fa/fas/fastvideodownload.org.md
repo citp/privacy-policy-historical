@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fastvideodownload.org privacy policy that was archived on 2011-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111208104622id_/http%3A//www.applian.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fastvideodownload.org privacy policy that was archived on 2013-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130625143304id_/http%3A//applian.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -12,7 +12,7 @@ A cookie is a piece of data stored on the customer’s hard drive containing inf
 
 ### Download
 
-When you download a piece of software from Applian Technologies, we ask for your e-mail address so we can keep you informed of our new products.  By entering your email address, you agree to receive email from us about product updates and special deals. When we release a new product or a new version of any of our software titles, we send a message to all of our registered customers and let them know.  If you wish not to receive these messages, you can remove your email address from our list at anytime by clicking here.
+When you download a piece of software from Applian Technologies, you can optionally share your email address with us so we can keep you informed of our new products.  By entering your email address, you agree to receive email from us about product updates and special deals. When we release a new product or a new version of any of our software titles, we send a message to all of our registered customers and let them know.  If you wish not to receive these messages, you can remove your email address from our list at anytime by clicking here.
 
 ### Purchase
 
@@ -73,12 +73,12 @@ Applian Technologies Inc.
 San Anselmo, CA  94960   
 Attn:  Customer Service
 
-  * **[General Inquiries](https://web.archive.org/web/20111208104622id_/http%3A//www.applian.com/support.php#GeneralContact)**
-  * **[Technical Support](https://web.archive.org/web/20111208104622id_/http%3A//www.applian.com/support.php#TechSupport) **
+  * **[General Inquiries](https://web.archive.org/web/20130625143304id_/http%3A//applian.com/support.php#GeneralContact)**
+  * **[Technical Support](https://web.archive.org/web/20130625143304id_/http%3A//applian.com/support.php#TechSupport) **
   * FAX: 415-480-1748 (USA)
 
 
 
 Note: Applian Technologies recording products are not intended for use in circumventing copy protection mechanisms or for making illegal copies of copyrighted content. Please respect the rights of the content owners when recording. 
 
-**© Copyright 2011 Applian Technologies Inc. - All Rights Reserved**
+**© Copyright 2013 Applian Technologies Inc. - All Rights Reserved**
