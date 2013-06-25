@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the searchenginecollege.com privacy policy that was archived on 2012-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121116181517id_/http%3A//www.searchenginecollege.com/search-engine-college-privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the searchenginecollege.com privacy policy that was archived on 2013-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130625131119id_/http%3A//www.searchenginecollege.com/search-engine-college-privacy) for the most accurate reproduction.*
 
 # Privacy | Search Engine College
 
