@@ -1,540 +1,938 @@
-<!--The following is the downloaded HTML source of the uhaul.com privacy policy that was archived on 2010-06-06.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100606060442id_/http%3A//www.uhaul.com/legal/privacy.aspx) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the uhaul.com privacy policy that was archived on 2013-06-25.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130625200134id_/http%3A//www.uhaul.com/Legal/PrivacyPolicy.aspx) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html><head>
-	<title>U-Haul.com: Privacy policy</title>
-	<meta http-equiv="content-type" content="text/html;charset=iso-8859-1">
-	<meta name="keywords" content="U-Haul, Uhaul, uhual, u-hual, uhall, u-hall, Amerco, terms and conditions, privacy, privacy policy, policies, security, cookies, policy change, email, legal, legalese, fine print">
-	<meta name="description" content="Privacy policy for uhaul.com and U-Haul's other Web sites.">
-	<meta name="Author" content="U-Haul Web Team">
-	<link type="text/css" rel="stylesheet" href="http://www.uhaul.com/standard.css">
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd"><html><head id="ctl00_Head1"><title>
+	U-Haul: Privacy policy
+</title><meta name="google-site-verification" content="PHFmpC8jNL--OrJJbp6mWFrpQET2QBvLqaTi-a-nk7M"><meta name="msvalidate.01" content="CA2AF478C6D7FD9ED29A8A5FD79CC6F3"><meta name="viewport" content="width=device-width, maximum-scale=1.0"><link id="ctl00_cssMain" rel="stylesheet" type="text/css" href="/screen.css" media="all"><link id="ctl00_cssTouch" rel="stylesheet" type="text/css" href="/touch.css" media="only screen and (max-device-width: 480px)"><link id="ctl00_cssTouch2" rel="stylesheet" type="text/css" href="/touch.css" media="only screen and (max-device-width: 800px) and (max-device-height: 400px)"> <!-- android 2.2 in landscape mode -->
+<link rel="stylesheet" href="/Javascript/Jquery/css/uhaul/jquery-ui-uhaul.css" type="text/css"><link rel="apple-touch-icon" href="/icons/apple-touch-icon.png"> 
+
+    <script src="/Javascript/Jquery/jquery.min.js" type="text/javascript"></script>
+    <script src="/Javascript/Jquery/jquery-ui.custom.min.js" type="text/javascript"></script>
+    <script src="/Javascript/Jquery/jquery.uhaul.common.min.js" type="text/javascript"></script>
+    
+    <script src="/Javascript/autosuggest/autosuggest.js" type="text/javascript"></script>
+    <script src="/urchin.js" type="text/javascript"></script>
+         
+    <script type="text/javascript">_userv = 0;urchinTracker(); </script>
+   
+   <style type="text/css">
+   .footer .column_4 .column{
+          margin-right:3.5%;
+    }
+   </style>
+   
+    <script type="text/javascript">
+        $(document).ready(function () {
+            var scheme = "http" + (window.location.protocol.indexOf('https:') == 0 ? 's' : '') + "://";
+            $('body').append('<img src="' + scheme + 'sdc.uhaul.com/dcs08epeml7t49njxx9bffxh6_3w9d/other/WebTrendsRedirector.ashx?domain=http://www.uhaul.com" />');
+
+
+            var url = document.URL;
+            if (url.indexOf("fr.uhaul.com") != -1) {
+                $('.row.column_5').removeClass('column_5').addClass('column_4');
+            }
+
+
+        });
+
+        if (top.location != self.location) {
+            top.location = self.location.href
+
+        }
+    </script>
+
+
+    <!--[if lt IE 7]>
+			<script type="text/JavaScript" src="/Javascript/Png.js"></script>
+		<![endif]-->
+    <script type="text/javascript">
+        var xhrs = new Array();
+
+        $(document).ready(function () {
+            $('#js').val('1');
+
+
+            $('body').ajaxSend(function (e, xhr, options) {
+                if (options.url.indexOf("UpsellLoad.aspx") >= 0)
+                    xhrs.push(xhr);
+            });
+
+            $('input, button, a, select').live('click', function () {
+
+                $.each(xhrs, function (i, xhr) {
+
+                    if (xhr.readyState != 4)
+                        xhr.abort();
+                });
+            });
+
+
+
+        });
+
+
+        // <![CDATA[
+        function doClear(theText) {
+            if (theText.value == theText.defaultValue && !$(theText).attr("uWatermark")) {
+                theText.value = ""
+            }
+        }
+        // ]]>	        
+
+
+        // <![CDATA[
+        function PopUp(link, title) {
+            popupWin = window.open(link, "", "height=600,width=600,resizable,scrollbars=yes,statusbar=no,menubar=no,location=no");
+            popupWin.focus();
+        }
+        // ]]>
+
+        // <![CDATA[
+        function PopUpSmall(link, title) {
+            popupWin = window.open(link, "", "height=300,width=300,resizable,scrollbars=yes,statusbar=no,menubar=no,location=no");
+            popupWin.focus();
+        }
+        // ]]>
+
+        // <![CDATA[
+        function PopUpCustom(link, width, height) {
+            popupWin = window.open(link, "", "height=" + height + ",width=" + width + ",resizable,scrollbars=yes,statusbar=no,menubar=no,location=no");
+            popupWin.focus();
+        }
+        // ]]>
+
+        // <![CDATA[
+        function clickButton(e, buttonid) {
+            var bt = document.getElementById(buttonid);
+            if (typeof bt == 'object') {
+                if (navigator.appName.indexOf("Netscape") > (-1)) {
+                    if (e.keyCode == 13) {
+                        bt.click();
+                        return false;
+                    }
+                }
+                if (navigator.appName.indexOf("Microsoft Internet Explorer") > (-1)) {
+                    if (event.keyCode == 13) {
+                        bt.click();
+                        return false;
+                    }
+                }
+            }
+        }
+
+        function validateAndSetEnglishDate(displayTextBox, dateTextBox) {
+
+            var splitDate;
+            var frenchDate = $(displayTextBox).val();
+
+            if (frenchDate.indexOf("-") != -1) {
+                splitDate = frenchDate.split("-");
+            }
+            else if (frenchDate.indexOf("/") != -1) {
+                splitDate = frenchDate.split("/");
+            }
+            else {
+                $(dateTextBox).val('');
+                $(displayTextBox).val('');
+            }
+
+            if (splitDate.length == 3) {
+
+                $(dateTextBox).val(splitDate[1] + "/" + splitDate[0] + "/" + splitDate[2]);
+                return;
+            }
+            else {
+
+                $(dateTextBox).val('');
+                $(displayTextBox).val('');
+            }
+
+            $(dateTextBox).val('');
+            $(displayTextBox).val('');
+
+
+        }
+
+        function displayFrenchDate(displayTextBox, dateTextBox) {
+
+            var splitDate;
+            var EngDate = $(dateTextBox).val();
+
+            if (EngDate.indexOf("-") != -1) {
+                splitDate = EngDate.split("-");
+            }
+            if (EngDate.indexOf("/") != -1) {
+                splitDate = EngDate.split("/");
+            }
+
+            if (splitDate.length == 3) {
+
+                $(displayTextBox).val(splitDate[1] + "/" + splitDate[0] + "/" + splitDate[2]);
+                return;
+            }
+
+            $(dateTextBox).val('');
+            $(displayTextBox).val('');
+
+        }
+
+
+        // ]]>
+    </script>
+
+        <script type="text/javascript">            __utmTrackEvent('Footer Social', 'Follow us on Facebook', 'Viewed');</script>
+
+        <script type="text/javascript">            __utmTrackEvent('Footer Social', 'Follow us on Twitter', 'Viewed');</script>
+
+        <script type="text/javascript">            __utmTrackEvent('Footer Social', 'Follow us on Google+', 'Viewed');</script>
+
+        <script type="text/javascript">            __utmTrackEvent('Footer Social', 'Follow us on Youtube', 'Viewed');</script>
+
+        <script type="text/javascript">            __utmTrackEvent('Footer Social', 'Follow us on Pinterest', 'Viewed');</script>
+
+        <script type="text/javascript">            __utmTrackEvent('Footer Social', 'Follow us on Wordpress', 'Viewed');</script>
+
+    
+<meta name="PageID" content="C9312F3C">
+
 </head>
+<body id="ctl00_mpBody">
 
-<body>
 
-	<form name="Form1" method="post" action="privacy.aspx" id="Form1">
-<input type="hidden" name="__VIEWSTATE" value="dDwtMTk3NDE0MjY3ODt0PHA8bDxTb3J0Q29sdW1uO1NvcnREaXJlY3Rpb247PjtsPFxlO1xlOz4+O2w8aTwxPjtpPDM+Oz47bDx0PDtsPGk8MT47aTwzPjs+O2w8dDxwPGw8VGV4dDs+O2w8XDxkaXYgY2xhc3M9InVoYXVsX2hlYWRlciJcPgoJXDxhIGhyZWY9Imh0dHA6Ly93d3cudWhhdWwuY29tIiBjbGFzcz0ibG9nbyJcPlw8aW1nIHNyYz0iaHR0cHM6Ly93d3cudWhhdWwuY29tL2ltYWdlcy9oZWFkZXIvaGVhZGVyX2xvZ28uZ2lmIiBhbHQ9IlUtSGF1bDogWW91ciBtb3ZpbmcgYW5kIHNlbGYgc3RvcmFnZSByZXNvdXJjZSJcPlw8L2FcPgoJXDxkaXYgY2xhc3M9ImhlYWRlcl9saW5rcyJcPgoJCVw8dWxcPgoJCQlcPGxpXD5cPGEgaHJlZj0iaHR0cDovL3d3dy51aGF1bC5jb20vIlw+SG9tZVw8L2FcPlw8L2xpXD4KCQkJXDxsaVw+XDxhIGhyZWY9Imh0dHA6Ly9yZXNlcnZhdGlvbnMudWhhdWwuY29tLz9zcmM9aGVhZCJcPlJhdGVzIGFuZCByZXNlcnZhdGlvbnNcPC9hXD5cPC9saVw+CgkJCVw8bGlcPlw8YSBocmVmPSJodHRwOi8vc3RvcmUudWhhdWwuY29tLz9zcmM9aGVhZCJcPk1vdmluZyBzdXBwbGllc1w8L2FcPlw8L2xpXD4KCQkJXDxsaVw+XDxhIGhyZWY9Imh0dHA6Ly93d3cudWhhdWwuY29tL2ZpbmRlci8/c3JjPWhlYWQiXD5Mb2NhdGlvbnNcPC9hXD5cPC9saVw+CgkJXDwvdWxcPgoJXDwvZGl2XD5cPCEtLSBlbmQgaGVhZGVyX2xpbmtzIC0tXD4KXDwvZGl2XD5cPCEtLSBlbmQgaGVhZGVyIC0tXD47Pj47Oz47dDxwPGw8VGV4dDs+O2w8XDxkaXYgY2xhc3M9ImZvb3RlciJcPgoKCVw8dWwgY2xhc3M9Im5hdiJcPgoJCVw8bGlcPlw8YSBocmVmPSJodHRwOi8vd3d3LnVoYXVsLmNvbS9hYm91dCJcPkFib3V0IFUtSGF1bFw8L2FcPlw8L2xpXD4gCgkJXDxsaVw+XDxhIGhyZWY9Imh0dHA6Ly93d3cudWhhdWwuY29tL2N1c3RvbWVyLz9zcmM9Zm9vdGVyIlw+Q29udGFjdFw8L2FcPlw8L2xpXD4gCgkJXDxsaVw+XDxhIGhyZWY9Imh0dHA6Ly93d3cudWhhdWwuY29tL3NlYXJjaC8iXD5TZWFyY2ggc2l0ZVw8L2FcPlw8L2xpXD4gCgkJXDxsaVw+XDxhIGhyZWY9Imh0dHA6Ly93d3cudWhhdWwuY29tL3B1cmNoYXNpbmcvIlw+VmVuZG9yc1w8L2FcPlw8L2xpXD4KCQlcPGxpXD5cPGEgaHJlZj0iaHR0cDovL2NhbmFkYS51aGF1bC5jb20iXD5TaXRlIGVuIGZyYW4mIzIzMWFpc1w8L2FcPlw8L2xpXD4KCVw8L3VsXD4KCiAgIAogIAoJXDxwXD4KCQlcPGJcPjEtODAwLUdPLVVIQVVMICgxLTgwMC00NjgtNDI4NSlcPC9iXD5cPGJyXD4KCQlUaGlzIHdlYnNpdGUgaXMgb3duZWQgYW5kIG9wZXJhdGVkIGJ5IFdlYiBUZWFtIEFzc29jaWF0ZXMsIEluYy4gIENvcHlyaWdodCAmY29weVw7IDIwMDkgVS1IYXVsIEludGVybmF0aW9uYWwsIEluYy4gIEFsbCByaWdodHMgcmVzZXJ2ZWQuXDxiclw+CgkJVS1IYXVsIEludGVybmF0aW9uYWwsIEluYy4ncyB0cmFkZW1hcmtzIGFuZCBjb3B5cmlnaHRzIGFyZSB1c2VkIHVuZGVyIGxpY2Vuc2UgYnkgV2ViIFRlYW0gQXNzb2NpYXRlcywgSW5jLgoJXDwvcFw+CgkKCVw8dWwgY2xhc3M9Im5hdiJcPgoJCVw8bGlcPlw8YSBocmVmPSJodHRwOi8vd3d3LnVoYXVsLmNvbS9sZWdhbC8iXD5Db21wbGV0ZSBsZWdhbCB0ZXJtc1w8L2FcPlw8L2xpXD4KCQlcPGxpXD5cPGEgaHJlZj0iaHR0cDovL3d3dy51aGF1bC5jb20vbGVnYWwvcHJpdmFjeS5hc3B4Ilw+UHJpdmFjeSBwb2xpY3lcPC9hXD5cPC9saVw+CgoJXDwvdWxcPgoKXDwvZGl2XD47Pj47Oz47Pj47dDxwPGw8VGV4dDs+O2w8XDwhLS0gU1RBUlQgT0YgU21hcnRTb3VyY2UgRGF0YSBDb2xsZWN0b3IgVEFHIC0tXD4KXDwhLS0gV2ViVHJlbmRzIFNtYXJ0U291cmNlIERhdGEgQ29sbGVjdG9yICAgICAgICAgICAgICAgICAgLS1cPgpcPCEtLSAgMTk5Ni0yMDA0IE5ldElRIENvcnBvcmF0aW9uLiAgQWxsIHJpZ2h0cyByZXNlcnZlZC4gIC0tXD4KXDwhLS0gJERhdGVUaW1lOiAyMDA0LzA1LzAzIDEzOjQzOjQzICQgLS1cPgpcPFNDUklQVCBMQU5HVUFHRT0iSmF2YXNjcmlwdCJcPlw8IS0tCmdWZXJzaW9uPSIxLjAiXDsKLy8tLVw+Clw8L1NDUklQVFw+Clw8c2NyaXB0IGxhbmd1YWdlPSJWQlNjcmlwdCJcPgpQcml2YXRlIGksIHgsIE1NX0ZsYXNoQ29udHJvbFZlcnNpb24KT24gRXJyb3IgUmVzdW1lIE5leHQKeCA9IG51bGwKTU1fRmxhc2hDb250cm9sVmVyc2lvbiA9IDAKdmFyIEZsYXNobW9kZQpGbGFzaE1vZGUgPSBGYWxzZQp2YXIgZG9fZHdfdmFyCnZhciBnRnYKCkZvciBpID0gOSBUbyAxIFN0ZXAgLTEKCVNldCB4ID0gQ3JlYXRlT2JqZWN0KCJTaG9ja3dhdmVGbGFzaC5TaG9ja3dhdmVGbGFzaC4iICYgaSkKCglNTV9GbGFzaENvbnRyb2xJbnN0YWxsZWQgPSBJc09iamVjdCh4KQoKCUlmIE1NX0ZsYXNoQ29udHJvbEluc3RhbGxlZCBUaGVuCgkJTU1fRmxhc2hDb250cm9sVmVyc2lvbiA9IENTdHIoaSkKCQlFeGl0IEZvcgoJRW5kIElmCk5leHQKeCA9IG51bGwKRmxhc2hNb2RlID0gKE1NX0ZsYXNoQ29udHJvbFZlcnNpb24gXD49IDYpCmRvX2R3X3ZhciA9IEZsYXNoTW9kZQpnRnYgPSBNTV9GbGFzaENvbnRyb2xWZXJzaW9uClw8L3NjcmlwdFw+Clw8U0NSSVBUIExBTkdVQUdFPSJKYXZhc2NyaXB0MS4xIlw+XDwhLS0KZ1ZlcnNpb249IjEuMSJcOwovLy0tXD4KXDwvU0NSSVBUXD4KXDxTQ1JJUFQgTEFOR1VBR0U9IkphdmFzY3JpcHQxLjIiXD5cPCEtLQpnVmVyc2lvbj0iMS4yIlw7CnZhciBSRT17IiUwOSI6L1xcdC9nLCIlMjAiOi8gL2csIiUyMyI6L1xcIy9nLCIlMjYiOi9cXCYvZywiJTJCIjovXFwrL2csIiUzRiI6L1xcPy9nLCIlNUMiOi9cXFxcL2d9XDsKLy8tLVw+Clw8L1NDUklQVFw+Clw8U0NSSVBUIExBTkdVQUdFPSJKYXZhc2NyaXB0MS4zIlw+XDwhLS0KZ1ZlcnNpb249IjEuMyJcOwovLy0tXD4KXDwvU0NSSVBUXD4KXDxTQ1JJUFQgTEFOR1VBR0U9IkphdmFzY3JpcHQxLjQiXD5cPCEtLQpnVmVyc2lvbj0iMS40Ilw7Ci8vLS1cPgpcPC9TQ1JJUFRcPgpcPFNDUklQVCBMQU5HVUFHRT0iSmF2YXNjcmlwdDEuNSJcPlw8IS0tCmdWZXJzaW9uPSIxLjUiXDsKLy8tLVw+Clw8L1NDUklQVFw+Clw8U0NSSVBUIExBTkdVQUdFPSJKYXZhU2NyaXB0Ilw+XDwhLS0KdmFyIGdJbWFnZXM9bmV3IEFycmF5XDsKdmFyIGdJbmRleD0wXDsKdmFyIERDUz1uZXcgT2JqZWN0KClcOwp2YXIgV1Q9bmV3IE9iamVjdCgpXDsKdmFyIERDU2V4dD1uZXcgT2JqZWN0KClcOwoKdmFyIGdEb21haW49InNkYy51aGF1bC5jb20iXDsKdmFyIGdEY3NJZD0iZGNzMDhlcGVtbDd0NDluanh4OWJmZnhoNl8zdzlkIlw7Ci8vIEFkZCBjdXN0b21pemF0aW9ucyBoZXJlCi8vV1Quc3A9IkBAU1BMSVRWQUxVRUBAIlw7CgovLyBORVdMWSBBRERFRCBkY3NNdWx0aVRyYWNrIENPREUgSEVSRQoKLy8gV2ViVHJlbmRzIFNtYXJ0U291cmNlIERhdGEgQ29sbGVjdG9yCi8vICAxOTk2LTIwMDQgTmV0SVEgQ29ycG9yYXRpb24uICBBbGwgcmlnaHRzIHJlc2VydmVkLiAKLy8gJERhdGVUaW1lOiAyMDA0LzA1LzAzIDEzOjQzOjQzICQKCmZ1bmN0aW9uIGRjc011bHRpVHJhY2soKXsKCWZvciAodmFyIGk9MFw7aVw8YXJndW1lbnRzLmxlbmd0aFw7aSsrKXsKCQlpZiAoYXJndW1lbnRzW2ldLmluZGV4T2YoJ1dULicpPT0wKXsKCQkJCVdUW2FyZ3VtZW50c1tpXS5zdWJzdHJpbmcoMyldPWFyZ3VtZW50c1tpKzFdXDsKCQkJCWkrK1w7CgkJfQoJCWlmIChhcmd1bWVudHNbaV0uaW5kZXhPZignRENTLicpPT0wKXsKCQkJCURDU1thcmd1bWVudHNbaV0uc3Vic3RyaW5nKDQpXT1hcmd1bWVudHNbaSsxXVw7CgkJCQlpKytcOwoJCX0KCQlpZiAoYXJndW1lbnRzW2ldLmluZGV4T2YoJ0RDU2V4dC4nKT09MCl7CgkJCQlEQ1NleHRbYXJndW1lbnRzW2ldLnN1YnN0cmluZyg3KV09YXJndW1lbnRzW2krMV1cOwoJCQkJaSsrXDsKCQl9Cgl9Cgl2YXIgZEN1cnJlbnQ9bmV3IERhdGUoKVw7CglEQ1MuZGNzZGF0PWRDdXJyZW50LmdldFRpbWUoKVw7CglkY3NUYWcoKVw7Cn0KCi8vIEVORCBPRiBORVdMWSBBRERFRCBNdWx0aVRyYWNrIENPREUgCgoKLy8gQURERUQgTkVXIE1VTFRJVFJBQ0sgRlVOQ1RJT04gQkVDQVVTRSBPVEhFUiBXQVMgSU5DT1JSRUNUIC0gQVJUSUUgNy8xNy8yMDA4CgpmdW5jdGlvbiBkY3NNdWx0aVRyYWNrRXJyb3IoKXsKCWZvciAodmFyIGk9MFw7aVw8YXJndW1lbnRzLmxlbmd0aFw7aSsrKXsKCQlpZiAoYXJndW1lbnRzW2ldLmluZGV4T2YoJ1dULicpPT0wKXsKCQkJCVdUW2FyZ3VtZW50c1tpXS5zdWJzdHJpbmcoMyldPWFyZ3VtZW50c1tpKzFdXDsKCQkJCQoJCX0KCQlpZiAoYXJndW1lbnRzW2ldLmluZGV4T2YoJ0RDUy4nKT09MCl7CgkJCQlEQ1NbYXJndW1lbnRzW2ldLnN1YnN0cmluZyg0KV09YXJndW1lbnRzW2krMV1cOwoJCQkJCgkJfQoJCWlmIChhcmd1bWVudHNbaV0uaW5kZXhPZignRENTZXh0LicpPT0wKXsKCQkJCURDU2V4dFthcmd1bWVudHNbaV0uc3Vic3RyaW5nKDcpXT1hcmd1bWVudHNbaSsxXVw7CgkJCQkKCQl9Cgl9Cgl2YXIgZEN1cnJlbnQ9bmV3IERhdGUoKVw7CglEQ1MuZGNzZGF0PWRDdXJyZW50LmdldFRpbWUoKVw7CglkY3NUYWcoKVw7Cn0KCgoKLy8gTkVXIE1VTFRJVFJBQ0sgRlVOQ1RJT04gRk9SIFRFU1RJTkcgTE9PUAoKZnVuY3Rpb24gZGNzTXVsdGlUcmFja0Vycm9yVGVzdCgpewoJZm9yICh2YXIgaT0wXDtpXDxhcmd1bWVudHMubGVuZ3RoXDtpKyspewoJCWlmIChhcmd1bWVudHNbaV0uaW5kZXhPZignV1QuJyk9PTApewoJCQkJV1RbYXJndW1lbnRzW2ldLnN1YnN0cmluZygzKV09YXJndW1lbnRzW2krMV1cOwoJCQkJYWxlcnQoYXJndW1lbnRzW2ldLnN1YnN0cmluZygzKSlcOwoJCQkJCgkJfQoJCWlmIChhcmd1bWVudHNbaV0uaW5kZXhPZignRENTLicpPT0wKXsKCQkJCURDU1thcmd1bWVudHNbaV0uc3Vic3RyaW5nKDQpXT1hcmd1bWVudHNbaSsxXVw7CgkJCQkKCQl9CgkJaWYgKGFyZ3VtZW50c1tpXS5pbmRleE9mKCdEQ1NleHQuJyk9PTApewoJCQkJRENTZXh0W2FyZ3VtZW50c1tpXS5zdWJzdHJpbmcoNyldPWFyZ3VtZW50c1tpKzFdXDsKCQkJCQoJCX0KCX0KCXZhciBkQ3VycmVudD1uZXcgRGF0ZSgpXDsKCURDUy5kY3NkYXQ9ZEN1cnJlbnQuZ2V0VGltZSgpXDsKCWRjc1RhZygpXDsKfQoKCmZ1bmN0aW9uIGRjc1ZhcigpewoJdmFyIGRDdXJyZW50PW5ldyBEYXRlKClcOwoJV1QudHo9ZEN1cnJlbnQuZ2V0VGltZXpvbmVPZmZzZXQoKS82MCotMVw7CglpZiAoV1QudHo9PTApewoJCVdULnR6PSIwIlw7Cgl9CglXVC5iaD1kQ3VycmVudC5nZXRIb3VycygpXDsKCVdULnVsPW5hdmlnYXRvci5hcHBOYW1lPT0iTmV0c2NhcGUiP25hdmlnYXRvci5sYW5ndWFnZTpuYXZpZ2F0b3IudXNlckxhbmd1YWdlXDsKCWlmICh0eXBlb2Yoc2NyZWVuKT09Im9iamVjdCIpewoJCVdULmNkPW5hdmlnYXRvci5hcHBOYW1lPT0iTmV0c2NhcGUiP3NjcmVlbi5waXhlbERlcHRoOnNjcmVlbi5jb2xvckRlcHRoXDsKCQlXVC5zcj1zY3JlZW4ud2lkdGgrIngiK3NjcmVlbi5oZWlnaHRcOwoJfQoJaWYgKHR5cGVvZihuYXZpZ2F0b3IuamF2YUVuYWJsZWQoKSk9PSJib29sZWFuIil7CgkJV1Quam89bmF2aWdhdG9yLmphdmFFbmFibGVkKCk/IlllcyI6Ik5vIlw7Cgl9CglpZiAoZG9jdW1lbnQudGl0bGUpewoJCVdULnRpPWRvY3VtZW50LnRpdGxlXDsKCX0KCVdULmpzPSJZZXMiXDsKCWlmICh0eXBlb2YoZ1ZlcnNpb24pIT0idW5kZWZpbmVkIil7CgkJV1QuanY9Z1ZlcnNpb25cOwoJfQoJV1QuZmk9Ik5vIlw7CglpZiAod2luZG93LkFjdGl2ZVhPYmplY3QpewoJCQlpZiAoKHR5cGVvZihnRlYpIT0idW5kZWZpbmVkIikmJihnRlYubGVuZ3RoXD4wKSl7CQkKCQkJV1QuZmk9IlllcyJcOwoJCQlXVC5mdj1nRlZcOwoJCX0KCX0KCWVsc2UgaWYgKG5hdmlnYXRvci5wbHVnaW5zJiZuYXZpZ2F0b3IucGx1Z2lucy5sZW5ndGgpewoJCWZvciAodmFyIGk9MFw7aVw8bmF2aWdhdG9yLnBsdWdpbnMubGVuZ3RoXDtpKyspewoJCQlpZiAobmF2aWdhdG9yLnBsdWdpbnNbaV0ubmFtZS5pbmRleE9mKCdTaG9ja3dhdmUgRmxhc2gnKSE9LTEpewoJCQkJV1QuZmk9IlllcyJcOwoJCQkJV1QuZnY9bmF2aWdhdG9yLnBsdWdpbnNbaV0uZGVzY3JpcHRpb24uc3BsaXQoIiAiKVsyXVw7CgkJCQlicmVha1w7CgkJCX0KCQl9Cgl9CglEQ1MuZGNzZGF0PWRDdXJyZW50LmdldFRpbWUoKVw7CglEQ1MuZGNzc2lwPSd3d3cudWhhdWwuY29tJ1w7CglEQ1MuZGNzdXJpPXdpbmRvdy5sb2NhdGlvbi5wYXRobmFtZVw7CglpZiAod2luZG93LmxvY2F0aW9uLnNlYXJjaCl7CgkJRENTLmRjc3FyeT13aW5kb3cubG9jYXRpb24uc2VhcmNoXDsKCX0KCWlmICgod2luZG93LmRvY3VtZW50LnJlZmVycmVyIT0iIikmJih3aW5kb3cuZG9jdW1lbnQucmVmZXJyZXIhPSItIikpewoJCWlmICghKG5hdmlnYXRvci5hcHBOYW1lPT0iTWljcm9zb2Z0IEludGVybmV0IEV4cGxvcmVyIiYmcGFyc2VJbnQobmF2aWdhdG9yLmFwcFZlcnNpb24pXDw0KSl7CgkJCURDUy5kY3NyZWY9d2luZG93LmRvY3VtZW50LnJlZmVycmVyXDsKCQl9Cgl9CgoJLy9TaWx2ZXJsaWdodCBwbHVnaW4gY2hlY2sKCVdULnNsaT0oZnVuY3Rpb24oKXsKICAgIHRyeQogICAgICAgIHsgICAgICAgIAogICAgCSAgICBpZihuYXZpZ2F0b3IudXNlckFnZW50LmluZGV4T2YoJ01TSUUnKSE9LTEpCiAgICAJICAgICAgICB7CiAgICAJCSAgICAgICAgdmFyIHd0c2xpID0gbmV3IEFjdGl2ZVhPYmplY3QoJ0FnQ29udHJvbC5BZ0NvbnRyb2wnKVw7CiAgICAgIAkgICAgICAgICAgICBpZih3dHNsaSl7cmV0dXJuICJJbnN0YWxsZWQiXDsgfQogICAgICAJICAgICAgICAKICAgICAgICAgICAgICAgIH0KICAgICAgZWxzZQogICAgICAgICAgICB7CgkJCQlpZiAobmF2aWdhdG9yLnBsdWdpbnNbIlNpbHZlcmxpZ2h0IFBsdWctSW4iXSkKCQkJCSAgICB7CiAgICAgICAgCSAgICAgICAgICAgIHJldHVybiAiSW5zdGFsbGVkIlw7ICAgICAgICAKICAgICAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICB9CiAJCX0KICAgIGNhdGNoKGUpe30KICAgIHJldHVybiAiTm90IEluc3RhbGxlZCJcOwoJfSkgKClcOwp9CgpmdW5jdGlvbiBBKE4sVil7CglyZXR1cm4gIiYiK04rIj0iK2Rjc0VzY2FwZShWKVw7Cn0KCmZ1bmN0aW9uIGRjc0VzY2FwZShTKXsKCWlmICh0eXBlb2YoUkUpIT0idW5kZWZpbmVkIil7CgkJdmFyIHJldFN0ciA9IG5ldyBTdHJpbmcoUylcOwoJCWZvciAoUiBpbiBSRSl7CgkJCXJldFN0ciA9IHJldFN0ci5yZXBsYWNlKFJFW1JdLFIpXDsKCQl9CgkJcmV0dXJuIHJldFN0clw7Cgl9CgllbHNlewoJCXJldHVybiBlc2NhcGUoUylcOwoJfQp9CgpmdW5jdGlvbiBkY3NDcmVhdGVJbWFnZShkY3NTcmMpewoJaWYgKGRvY3VtZW50LmltYWdlcyl7CgkJZ0ltYWdlc1tnSW5kZXhdPW5ldyBJbWFnZVw7CgkJZ0ltYWdlc1tnSW5kZXhdLnNyYz1kY3NTcmNcOwoJCWdJbmRleCsrXDsKCX0KCWVsc2V7CgkJZG9jdW1lbnQud3JpdGUoJ1w8SU1HIEJPUkRFUj0iMCIgTkFNRT0iRENTSU1HIiBXSURUSD0iMSIgSEVJR0hUPSIxIiBTUkM9IicrZGNzU3JjKyciXD4nKVw7Cgl9Cn0KCmZ1bmN0aW9uIGRjc01ldGEoKXsKCXZhciBteURvY3VtZW50RWxlbWVudHNcOwoJaWYgKGRvY3VtZW50LmFsbCl7CgkJbXlEb2N1bWVudEVsZW1lbnRzPWRvY3VtZW50LmFsbC50YWdzKCJtZXRhIilcOwoJfQoJZWxzZSBpZiAoZG9jdW1lbnQuZG9jdW1lbnRFbGVtZW50KXsKCQlteURvY3VtZW50RWxlbWVudHM9ZG9jdW1lbnQuZ2V0RWxlbWVudHNCeVRhZ05hbWUoIm1ldGEiKVw7Cgl9CglpZiAodHlwZW9mKG15RG9jdW1lbnRFbGVtZW50cykhPSJ1bmRlZmluZWQiKXsKCQlmb3IgKHZhciBpPTFcO2lcPD1teURvY3VtZW50RWxlbWVudHMubGVuZ3RoXDtpKyspewoJCQlteU1ldGE9bXlEb2N1bWVudEVsZW1lbnRzLml0ZW0oaS0xKVw7CgkJCWlmIChteU1ldGEubmFtZSl7CgkJCQlpZiAobXlNZXRhLm5hbWUuaW5kZXhPZignV1QuJyk9PTApewoJCQkJCVdUW215TWV0YS5uYW1lLnN1YnN0cmluZygzKV09bXlNZXRhLmNvbnRlbnRcOwoJCQkJfQoJCQkJZWxzZSBpZiAobXlNZXRhLm5hbWUuaW5kZXhPZignRENTZXh0LicpPT0wKXsKCQkJCQlEQ1NleHRbbXlNZXRhLm5hbWUuc3Vic3RyaW5nKDcpXT1teU1ldGEuY29udGVudFw7CgkJCQl9CgkJCQllbHNlIGlmIChteU1ldGEubmFtZS5pbmRleE9mKCdEQ1MuJyk9PTApewoJCQkJCURDU1tteU1ldGEubmFtZS5zdWJzdHJpbmcoNCldPW15TWV0YS5jb250ZW50XDsKCQkJCX0KCQkJfQoJCX0KCX0KfQoKZnVuY3Rpb24gZGNzVGFnKCl7Cgl2YXIgUD0iaHR0cCIrKHdpbmRvdy5sb2NhdGlvbi5wcm90b2NvbC5pbmRleE9mKCdodHRwczonKT09MD8ncyc6JycpKyI6Ly8iK2dEb21haW4rKGdEY3NJZD09IiI/Jyc6Jy8nK2dEY3NJZCkrIi9kY3MuZ2lmPyJcOwoJZm9yIChOIGluIERDUyl7CgkJaWYgKERDU1tOXSkgewoJCQlQKz1BKE4sRENTW05dKVw7CgkJfQoJfQoJZm9yIChOIGluIFdUKXsKCQlpZiAoV1RbTl0pIHsKCQkJUCs9QSgiV1QuIitOLFdUW05dKVw7CgkJfQoJfQoJZm9yIChOIGluIERDU2V4dCl7CgkJaWYgKERDU2V4dFtOXSkgewoJCQlQKz1BKE4sRENTZXh0W05dKVw7CgkJfQoJfQoJaWYgKFAubGVuZ3RoXD4yMDQ4JiZuYXZpZ2F0b3IudXNlckFnZW50LmluZGV4T2YoJ01TSUUnKVw+PTApewoJCVA9UC5zdWJzdHJpbmcoMCwyMDQwKSsiJldULnR1PTEiXDsKCX0KCWRjc0NyZWF0ZUltYWdlKFApXDsKfQoKZGNzVmFyKClcOwpkY3NNZXRhKClcOwpkY3NUYWcoKVw7CgoKLy8tLVw+Clw8L1NDUklQVFw+CgpcPE5PU0NSSVBUXD4KXDxJTUcgQk9SREVSPSIwIiBOQU1FPSJEQ1NJTUciIFdJRFRIPSIxIiBIRUlHSFQ9IjEiIFNSQz0iaHR0cDovL3NkYy51aGF1bC5jb20vZGNzMDhlcGVtbDd0NDluanh4OWJmZnhoNl8zdzlkL25qcy5naWY/ZGNzdXJpPS9ub2phdmFzY3JpcHQmYW1wXDtkY3NzaXA9d3d3LnVoYXVsLmNvbSZhbXBcO1dULmpzPU5vIiBhbHQ9IiJcPgpcPC9OT1NDUklQVFw+Clw8IS0tIEVORCBPRiBEYXRhIENvbGxlY3Rpb24gU2VydmVyIFRBRyAtLVw+CTs+Pjs7Pjs+Pjs+CAbonU/HqW0ALBX/brAObarF8Yc=">
+    <form name="aspnetForm" method="post" action="PrivacyPolicy.aspx" id="aspnetForm">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUJMzkyNjcyOTczD2QWAmYPZBYEAgEPZBYCAg0PFQEUaHR0cDovL3d3dy51aGF1bC5jb21kAgMPZBYCAgEPZBYEAgMPZBYCAgEPZBYCAgMPFgIeBWNsYXNzBRZhY3RpdmUgbmF2aWdhdGlvbl9sYXN0ZAIHD2QWAgIBD2QWAmYPFgIfAAUMcm93IGNvbHVtbl81ZGQ8uZvsuWf9Qqi5IhjWR0WeY3Qi4A==">
 
-	<div class="uhaul_header">
-	<a href="http://www.uhaul.com" class="logo"><img src="https://www.uhaul.com/images/header/header_logo.gif" alt="U-Haul: Your moving and self storage resource"></a>
-	<div class="header_links">
-		<ul>
-			<li><a href="http://www.uhaul.com/">Home</a></li>
-			<li><a href="http://reservations.uhaul.com/?src=head">Rates and reservations</a></li>
-			<li><a href="http://store.uhaul.com/?src=head">Moving supplies</a></li>
-			<li><a href="http://www.uhaul.com/finder/?src=head">Locations</a></li>
-		</ul>
-	</div><!-- end header_links -->
-</div><!-- end header -->
-	<div class="main">
-
-	<div class="sidebar">
-		
-		<div class="relatedlinks">
-		
-			<h3>Related links</h3>
-		
-			<p><strong><a href="index.aspx">Web site terms and conditions</a></strong></p>
-			<p><strong><a href="communication.aspx">Your communication</a></strong></p>
-			<p><strong><a href="trademarks.aspx">Trademarks</a></strong></p>
-		
-		</div>
+<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEdAAZT+5wx/aZGdfI71r236QpzgZ8tik57IsFjUxWKnWvibEsvISCWHgVmYwUbrJpSaY0u1P1mwCZX99uJP0w5y73LDxUNbEVGe5xi5EoegBS+lzHYW20QtkJRJ0I6N9PtlngTUMYSG807hFLktg1A1CN1MLrtyg==">
+    
+    <input type="hidden" id="js" name="js" value="1">
+    <div id="ctl00_pnlHeader">
 	
+        <div id="ctl00_divUhaulHeader" class="header">
+            <div class="row">
+                 <a href="/" class="header_logo">U-Haul</a> <a href="/" class="header_tagline futura_bold_condensed_italic">Your moving and storage resource.</a>
+                       
+                <ul id="ctl00_ulAccountLinks" class="header_accountlinks">
+                    
+                    <li id="ctl00_liEmptyCart" class="header_cart_empty"><a href="/Cart.aspx">
+                        View items in cart</a></li>
+                    <li id="ctl00_liSignInLookUp" class="header_lookup"><a href="/Orders">
+                        Sign in / look up order</a></li>
+                    
+                </ul>
+                
+            </div>
+
+            
+            <div id="ctl00_divNavigation" class="header_navigation">
+                <img id="Img1" src="/Images/NavTopLeft.gif" class="nav_top_left" alt="">
+                <img id="Img2" src="/Images/NavBottomLeft.gif" class="nav_bottom_left" alt="">
+                <ul>
+                    <li id="ctl00_liTrucks"><a href="/Trucks/">
+                        Trucks</a></li>
+                    <li id="ctl00_liTrailers"><a href="/Trailers/">
+                        Trailers &amp; towing</a></li>
+					<li id="ctl00_liUBox"><a href="/Ubox/">
+                        U-Box pods</a></li>
+                    <li id="ctl00_liStorage"><a href="/Storage/">
+                        Storage</a></li>
+                    <li id="ctl00_liMovingSupplies"><a href="/MovingSupplies/">
+                        Boxes &amp; packing supplies</a></li>
+                     
+                    <li id="ctl00_liLocations"><a href="/Locations/" class="last">
+                        Locations</a></li>
+                </ul>
+                <img id="Img3" src="/Images/NavTopRight.gif" class="nav_top_right" alt="">
+                <img id="Img4" src="/Images/NavBottomRight.gif" class="nav_bottom_right" alt="">
+                <!-- mp_trans_remove_start -->
+
+<script type="text/javascript">
+
+    $(document).ready(function () {
+
+        var $txtBox = $('#ctl00_SearchBox1_SearchText');
+        var $hiddenSuggested = $('#ctl00_SearchBox1_hiddenSuggested');
+        $txtBox.keydown(function (event, ui) {
+
+            lastKey = event.keyCode;
+            if ((lastKey == 40 || lastKey == 38)) {
+                $hiddenSuggested.val('true');
+
+            }
+            else if (lastKey != 13) {
+                $hiddenSuggested.val('false');
+            }
+        });
+
+    });
+
+    function SiteSearchSuggested() {
+        var $hiddenSuggested = $('#ctl00_SearchBox1_hiddenSuggested');
+        $hiddenSuggested.val('true');
+
+    }
+
+</script>
+
+
+
+
+<div id="ctl00_SearchBox1_pnlSearch">
+		
+    <input name="ctl00$SearchBox1$SearchText" type="text" value="Search" id="ctl00_SearchBox1_SearchText" class="header_search InfieldTextDefaultMessage ui-autocomplete-input" uwatermark="Search" defaultvalue="Search" data-suggest="site-wide-search" data-suggest-submit=".header_search~input" autocomplete="off" role="textbox" aria-autocomplete="list" aria-haspopup="true"><div class="auto_suggest_container" id="menu-container-ctl00_SearchBox1_SearchText" style="position: absolute; width: 169px;"><ul class="ui-autocomplete ui-menu ui-widget ui-widget-content ui-corner-all" role="listbox" aria-activedescendant="ui-active-menuitem" style="z-index: 1; top: 0px; left: 0px; display: none;"></ul></div>
+    <input type="submit" name="ctl00$SearchBox1$SearchButton" value="Search" id="ctl00_SearchBox1_SearchButton" class="button" uwatermark="" style="display: none; visibility: hidden;">
+    <input type="hidden" name="ctl00$SearchBox1$hiddenSuggested" id="ctl00_SearchBox1_hiddenSuggested">
+
 	</div>
 
+<!-- mp_trans_remove_end -->
+            </div>
+            
+        </div>
+        
 
-	<div class="content_with_sidebar"> 	
-						
-		<h1>Privacy policy (USA)</h1>
+        
+
+    
+</div>
+	<div class="main">
 		
-		<div class="section">
-			<h3>Privacy, security and cookies</h3>
+
+
+
+
+    
+    <h1>U-Haul © World Wide Websites</h1>
+    
+    <div class="row">
+    
+        <ul class="navigation">
+        <li id="ctl00_ContentPlaceHolder1_UCNavigation_liTerms"><a href="Default.aspx">Terms and conditions of use</a></li>
+        <li id="ctl00_ContentPlaceHolder1_UCNavigation_liPrivacy" class="active navigation_last"><a href="PrivacyPolicy.aspx">Privacy policy</a></li>
+        </ul>
+        
+    </div>
+    
+    <div class="searchable">
+     <h2 style="margin-bottom:1.8em;">Privacy policy (<acronym title="United States of America">USA</acronym>)</h2>
+    
+        <h3>Privacy, security and cookies</h3>
 				
-		  <p>Web Team Associates, Inc. has created this statement in order 
-			to demonstrate our firm commitment to privacy. The following discloses our 
-			information gathering and dissemination practices for our websites.</p>
-		  <p><b>No personally identifiable customer information is sold or traded to unaffiliated companies.</b></p>
-		  <p>Users have the option to not receive future communications. 
-			Please send email to the <a href="https://www.uhaul.com/customer/feedback/website_feedback.aspx">Webmaster</a> to be removed.</p>
-		  <p>We use your IP address to help diagnose problems with 
-			our server and to administer our Web site. Your IP address and email address 
-			are used to help identify you and your shopping cart and to gather broad demographic 
-			information.</p>
-		  <p>This site may contain links to other sites. <strong>Web Team Associates, Inc.
-		   is not responsible for the privacy practices or the content 
-			of such web sites.</strong></p>
-		  <p>Our site uses forms for customers to request pricing, products, 
-			services, and any other available information. We collect customer contact information (such as name, phone number, email 
-			address and mailing address) and financial information (such as account 
-			or credit card numbers). Contact information is used to contact customers 
-			regarding their quotes, reservations and/or purchases. Financial information 
-			is used, only by Web Team Associates, Inc., to charge the customer for products and 
-			services.</p>
-		</div>
+		   <p>
+		   Web Team Associates, Inc. has created this statement in order to demonstrate our firm commitment to privacy. The following discloses our information gathering and dissemination practices for our websites.
+		   </p>
+		  
+		   <p>
+		   <strong>
+		   No personally identifiable customer information is sold or traded to unaffiliated companies.
+		   </strong>
+		   </p>
 
-		<div class="section">
-			<h3>Cookies</h3>
+		   <p>
+		   Users have the option to not receive future communications. Please <a href="/Contact/Email.aspx" id="LinkEmailPrivacy1">send an email</a> asking to be removed.
+		   </p>
+		  
+		   <p>
+		   We use your <acronym title="internet protocol">IP</acronym> address to help diagnose problems with our server and to administer our website. Your <acronym title="internet protocol">IP</acronym> address and email address are used to help identify you and your shopping cart and to gather broad demographic information.
+		   </p>
+		  
+		   <p>
+		   This site may contain links to other sites. <strong>Web Team Associates, Inc. is not responsible for the privacy practices or the content of such web sites.</strong>
+		   </p>
+		    
+		   <p>
+		   Our site uses forms for customers to request pricing, products, services, and any other available information. We collect customer contact information (such as name, phone number, email address and mailing address) and financial information (such as account or credit card numbers). Contact information is used to contact customers regarding their quotes, reservations and/or purchases. Financial information is used, only by Web Team Associates, Inc., to charge the customer for products and services.
+		   </p>
+			
+		
+		<h3>Cookies</h3>
 				
-		  <p>Have you heard a bit about 'cookies' and wondered what 
-			they mean to your Web browser?</p>
-		  <p>Or have you been a bit curious about how we use cookies 
-			at uhaul.com? Well, the answers are pretty simple.</p>
-		  <p>A cookie is a small bit of text used by a browser to store 
-			information. When you visit a site that uses cookies, the Web server will 
-			request permission to pass a cookie to your browser. If accepted, it will 
-			occupy only a few bytes on your hard drive and can improve your Web surfing 
-			experience. We use cookies to track customer visits through our site. This 
-			information enables us to save you time when returning to the site by saving 
-			your password so you don't have to re-enter it each time you visit. Cookies 
-			also provide a smoother shopping experience by helping us to uniquely identify 
-			shopping carts.</p>
-		  <p>Cookies cannot profile your system or collect information 
-			from your hard drive. And although you may receive cookies from many different 
-			sites, each cookie can only be read by the Web server that originally issued 
-			it. At uhaul.com, we do not use cookies to store credit card numbers or any 
-			other personal identification. You aren't even identified by name or e-mail 
-			address, just by a unique string of numbers that we assign the first time 
-			you come to our site - a sort of virtual identity.</p>
-		</div>
-		
-		<div class="section">
-			<h3>Security</h3>
-		
-		  <p>Our intent is to provide privacy, integrity, and authentication in regards 
-			to our Internet communication. The security measures we have taken are intended 
-			to secure and encrypt your data, so that a third party cannot capture, read 
-			or access the information while it is in transit between your computer and 
-			our system.</p>
+		  <p>
+		  Have you heard a bit about 'cookies' and wondered what they mean to your web browser?
+		  </p>
+		  
+		  <p>
+		  Or have you been a bit curious about how we use cookies at uhaul.com? Well, the answers are pretty simple.
+		  </p>
+		  
+		  <p>
+		  A cookie is a small bit of text used by a browser to store information. When you visit a site that uses cookies, the web server will request permission to pass a cookie to your browser. If accepted, it will occupy only a few bytes on your hard drive and can improve your web surfing experience. We use cookies to track customer visits through our site. This information enables us to save you time when returning to the site by saving your password so you don't have to re-enter it each time you visit. Cookies also provide a smoother shopping experience by helping us to uniquely identify shopping carts.
+		  </p>
 			
-			<p>Specifically, we use standard-based Internet protocols to safeguard the information 
-			you provide during the purchase, payment and most information submittal processes. 
-			We use a secure server implementing the Secure Sockets Layer (SSL) protocol 
-			to interact with you when you provide personal information during the purchase 
-			and payment processes. These processes use up to 128 bit encryption.</p>
+		  <p>
+		  Cookies cannot profile your system or collect information from your hard drive. And although you may receive cookies from many different sites, each cookie can only be read by the Web server that originally issued it. At uhaul.com, we do not use cookies to store credit card numbers or any other personal identification. You aren't even identified by name or e-mail address, just by a unique string of numbers that we assign the first time you come to our site — a sort of virtual identity.
+		  </p>
+		  
+		
+		<h3>Security</h3>
+		
+		  <p>
+		  Our intent is to provide privacy, integrity, and authentication in regards to our internet communication. The security measures we have taken are intended to secure and encrypt your data, so that a third party cannot capture, read or access the information while it is in transit between your computer and our system.
+		  </p>
 			
-			<p>We limit internal access to our servers and require that Web Team Associates, Inc. employees 
-			use integrity in performing their jobs and conducting business. </p>
-		</div>	
+		  <p>
+		  Specifically, we use standard-based internet protocols to safeguard the information you provide during the purchase, payment and most information submittal processes. We use a secure server implementing the Secure Sockets Layer (SSL) protocol to interact with you when you provide personal information during the purchase and payment processes. These processes use up to 128 bit encryption.
+		  </p>
 			
-		<div class="section">
-			<h3>Changes in our policy</h3>
-				
-			<p>If we decide to change our privacy policy, we will post the changes here so that you will always know what information we gather, how we might use that information, and whether we will disclose it to anyone.</p>
-		</div>
-				
-		<div class="section">
-			<h3>Contacting us</h3>
-			
-			<p>If you have any questions about this privacy statement, the practices of 
-			this site, or your dealings with this Web site, you can contact:</p>
-			<p>Web Team Associates, Inc.<br>
-			2727 N. Central Ave<br>
-			Phoenix, AZ 85004</p>
-			<p><a href="https://www.uhaul.com/customer/feedback/website_feedback.aspx">Email</a></p>
-		</div>
-
-		<div class="section">
-			<p><strong>Effective date</strong><br>
-			April 12, 2005</p>
-		</div>
+		  <p>
+		  We limit internal access to our servers and require that Web Team Associates, Inc. employees use integrity in performing their jobs and conducting business. 
+		  </p>
+		  
+		  
+        <h3>Changes in our policy</h3>
+            
+          <p>
+	      If we decide to change our privacy policy, we will post the changes here so that you will always know what information we gather, how we might use that information, and whether we will disclose it to anyone.
+	      </p>
 		
 		
-		<hr>
-
-
-		<h1>Privacy policy (Canada)</h1>
+		<h3>Contacting us</h3>
+			
+		   <p>
+		   If you have any questions about this privacy statement, the practices of this site, or your dealings with this website, you can contact:
+		   </p>
+		   
+		   <p>
+		   Web Team Associates, Inc.<br>
+		   2727 N. Central Ave<br>
+		   Phoenix, AZ 85004<br>
+		   <a href="/Contact/Email.aspx" id="LinkEmailPrivacy2">Email</a>
+		   </p>
+		   
+		   <p><strong>Effective date:</strong> April 12, 2005</p>
+		   
+		   
 		
-		<div class="section">
-			<p>U-Haul Co. (Canada) Ltd. ("U-Haul") recognizes and respects your right to privacy. U-Haul further recognizes the importance of protecting your personally identifiable information ("Personal Information") under the Canadian - Personal Information and Protection of Electronic Documents Act ("PIPEDA").</p>
 
-			<p>The purpose of this privacy policy is to inform you about why we collect, use and disclose Personal Information, and to provide you with contact information should you have any questions or concerns about our Personal Information protection practices. Please be aware that if you provide your Personal Information to a U-Haul independent dealer, their privacy policy shall apply.</p>
 
-			<p>The purposes for U-Haul's collection, use and disclosure of your Personal Information:</p>
+		<h2>Privacy policy (Canada)</h2>
+		
+		        <p>
+		        <span class="nowrap">U-Haul</span> Co. (Canada) Ltd. ("<span class="nowrap">U-Haul</span>") recognizes and respects your right to privacy. <span class="nowrap">U-Haul</span> further recognizes the importance of protecting your personally identifiable information ("Personal Information") under the Canadian - Personal Information and Protection of Electronic Documents Act ("PIPEDA").
+		        </p>
 
-			<p>Purposes:  We need to collect, use and disclose certain of your Personal Information in order for you to make a reservation for and/or rental of, equipment and/or storage space, or for the purchase and/or use of products or other services from us, or for your personal online access to U-Haul services and products at uhaul.com (collectively "Our Services")</p>
+			    <p>
+			    The purpose of this privacy policy is to inform you about why we collect, use and disclose Personal Information, and to provide you with contact information should you have any questions or concerns about our Personal Information protection practices. Please be aware that if you provide your Personal Information to a <span class="nowrap">U-Haul</span> independent dealer, their privacy policy shall apply.
+			    </p>
+
+			    <p>
+			    The purposes for <span class="nowrap">U-Haul</span>'s collection, use and disclosure of your Personal Information:
+			    </p>
+
+			    <p>
+			    Purposes:  We need to collect, use and disclose certain of your Personal Information in order for you to make a reservation for and/or rental of, equipment and/or storage space, or for the purchase and/or use of products or other services from us, or for your personal online access to <span class="nowrap">U-Haul</span> services and products at uhaul.com (collectively "Our Services")
+			    </p>
+			    
 
 			<h3>Collection of Personal Information</h3>
 
-			<p>The Personal Information that we collect from you will include at least some of the following about you: name, home address, telephone number, e-mail address and driver's license information, and personal payment information (such as your check, credit or debit card information).</p>
+			    <p>
+			    The Personal Information that we collect from you will include at least some of the following about you: name, home address, telephone number, e-mail address and driver's license information, and personal payment information (such as your check, credit or debit card information).
+			    </p>
 
-			<p>How we collect your Personal Information will depend on how you use Our Services. For example, we may collect your Personal Information directly from you by telephone, fax, e-mail, at the store counter, or upon or through your use of our web sites.</p>
+			    <p>
+			    How we collect your Personal Information will depend on how you use Our Services. For example, we may collect your Personal Information directly from you by telephone, fax, e-mail, at the store counter, or upon or through your use of our web sites.
+			    </p>
+			    
 
 			<h3>Use and disclosure of Personal Information</h3>
 
-			<p>In order to further provide Our Services to you, we may use your Personal Information with, and disclose your Personal Information to, related or non-related third parties including but not limited to the following:</p>
+			    <p>
+			    In order to further provide Our Services to you, we may use your Personal Information with, and disclose your Personal Information to, related or non-related third parties including but not limited to the following:
+			    </p>
 	      
-			<ul>
-				<li>U-Haul parents and related corporations</li>
-				<li>Independent U-Haul dealers and U-Haul related corporations and their dealers and affiliates</li>
-				<li>Credit card/debit card issuers</li>
-				<li>Banks</li>
-				<li>Credit reporting and fraud checking agencies</li>
-				<li>Debt collection agencies, if you fail to pay monies owed to us</li>
-				<li>Government or private organizations responsible for the processing or handling of transportation, traffic or parking related violations</li>
-				<li>Transportation or driver licensing authorities, directly or through intermediary organizations</li>
-				<li>Government, regulatory and law enforcement agencies where the disclosure is required or authorized by law</li>
-				<li>Insurance companies</li>
-			</ul>
+			    <ul>
+				    <li><span class="nowrap">U-Haul</span> parents and related corporations</li>
+				    <li>Independent <span class="nowrap">U-Haul</span> dealers and <span class="nowrap">U-Haul</span> related corporations and their dealers and affiliates</li>
+				    <li>Credit card/debit card issuers</li>
+				    <li>Banks</li>
+				    <li>Credit reporting and fraud checking agencies</li>
+				    <li>Debt collection agencies, if you fail to pay monies owed to us</li>
+				    <li>Government or private organizations responsible for the processing or handling of transportation, traffic or parking related violations</li>
+				    <li>Transportation or driver licensing authorities, directly or through intermediary organizations</li>
+				    <li>Government, regulatory and law enforcement agencies where the disclosure is required or authorized by law</li>
+				    <li>Insurance companies</li>
+			    </ul>
 
-			<p><strong>U-Haul does not sell, trade in, barter or exchange for payment or any consideration, any of your Personal Information that it has obtained.</strong></p>
+			    <p>
+			    <strong><span class="nowrap">U-Haul</span> does not sell, trade in, barter or exchange for payment or any consideration, any of your Personal Information that it has obtained.</strong>
+			    </p>
+			    
 
-			<h3>Your Interaction with your Personal Information; How to contact us</h3>
+			<h3>Your interaction with your Personal Information; How to contact us</h3>
 
-			<p>By choosing to provide your Personal Information to U-Haul you are consenting to its continued use and disclosure in accordance with the purposes outlined in this Privacy Policy. If you prefer that we do not use or disclose your Personal Information for any of these purposes you may notify us of the same at any time, subject to any legal or U-Haul policy and/or U-Haul contractual restrictions and requirements, by contacting us as indicated below. A notification that we not use or disclose your Personal Information may affect our ability to provide you with Our services.</p>
+			    <p>
+			    By choosing to provide your Personal Information to <span class="nowrap">U-Haul</span> you are consenting to its continued use and disclosure in accordance with the purposes outlined in this Privacy Policy. If you prefer that we do not use or disclose your Personal Information for any of these purposes you may notify us of the same at any time, subject to any legal or <span class="nowrap">U-Haul</span> policy and/or <span class="nowrap">U-Haul</span> contractual restrictions and requirements, by contacting us as indicated below. A notification that we not use or disclose your Personal Information may affect our ability to provide you with Our services.
+			    </p>
 
-			<p>If you wish to withdraw or change your consent to our use and disclosure of your Personal Information, or if you wish to review and change your Personal Information, or if you would like to contact us with a complaint regarding our use and disclosure of your Personal Information, or if you would like additional information regarding the privacy practices of U-Haul, please contact our Privacy Officer as follows:</p>
+			    <p>
+			    If you wish to withdraw or change your consent to our use and disclosure of your Personal Information, or if you wish to review and change your Personal Information, or if you would like to contact us with a complaint regarding our use and disclosure of your Personal Information, or if you would like additional information regarding the privacy practices of <span class="nowrap">U-Haul</span>, please contact our Privacy Officer as follows:
+			    </p>
 
-			<p>Privacy Officer<br>
-			3rd Floor, South Tower<br>
-			2727 N. Central Avenue<br>
-			Phoenix, Arizona 85004</p>
-		</div><!-- end section -->
-
-
-
-		
-		
-		
-
-	</div><!-- end content_with_sidebar -->
-
-</div><!-- end main -->
-<div class="footer">
-
-	<ul class="nav">
-		<li><a href="http://www.uhaul.com/about">About U-Haul</a></li> 
-		<li><a href="http://www.uhaul.com/customer/?src=footer">Contact</a></li> 
-		<li><a href="http://www.uhaul.com/search/">Search site</a></li> 
-		<li><a href="http://www.uhaul.com/purchasing/">Vendors</a></li>
-		<li><a href="http://canada.uhaul.com">Site en français</a></li>
-	</ul>
-
-   
-  
-	<p>
-		<b>1-800-GO-UHAUL (1-800-468-4285)</b><br>
-		This website is owned and operated by Web Team Associates, Inc.  Copyright © 2009 U-Haul International, Inc.  All rights reserved.<br>
-		U-Haul International, Inc.'s trademarks and copyrights are used under license by Web Team Associates, Inc.
-	</p>
+			    <p>
+			    Privacy Officer<br>
+			    3rd Floor, South Tower<br>
+			    2727 N. Central Avenue<br>
+			    Phoenix, Arizona 85004
+			    </p>
 	
-	<ul class="nav">
-		<li><a href="http://www.uhaul.com/legal/">Complete legal terms</a></li>
-		<li><a href="http://www.uhaul.com/legal/privacy.aspx">Privacy policy</a></li>
+	
+	</div><!-- end of searchable div -->
 
-	</ul>
+        
 
+		<div id="ctl00_pnlFooter">
+	
+			<div id="ctl00_divFooter" class="footer">
+
+				<div class="mobile_section">
+					<div class="mobile_toggle_trigger"><h2 class="desktop_hide">Site map</h2></div>
+					<div class="mobile_toggle_container">
+						<div id="ctl00_divNavigationRow" class="row column_5">
+							<div class="column mobile_row mobile_no_bottom">
+								<div class="mobile_section">
+									<div class="mobile_toggle_trigger">
+										<h5>Rentals</h5>
+									</div>
+									<div class="mobile_toggle_container">
+										<ul class="navigation">
+											<li><a id="footer_trucks" href="/Trucks/">Moving trucks</a></li>
+											<li><a id="footer_trailers" href="/Trailers/">Trailers &amp; towing</a></li>
+											<li><a id="footer_uboxmoving" href="/UBox/?type=moving">U-Box® moving pods</a></li>
+											<li><a id="footer_rentalitems" href="/RentalItems/">Dollies &amp; furniture pads</a></li>
+											<li><a id="footer_carpetcleaners" href="/CarpetCleaners/">Carpet cleaners</a></li>
+											<li><a id="footer_damagecoverage" href="/DamageCoverage/">Damage coverage</a></li>
+											<!-- mp_trans_remove_start --><li><a id="footer_ucarshare" href="http://www.ucarshare.com/" target="_blank">U-Haul Car Share</a></li><!-- mp_trans_remove_end -->
+											<!-- mp_trans_remove_start --><li><a id="footer_payments" href=" /payment/">Payments</a></li><!-- mp_trans_remove_end -->
+										</ul>
+									</div>
+								</div>
+							</div>
+							
+							<div class="column mobile_row mobile_no_bottom">
+								<div class="mobile_section">
+									<div class="mobile_toggle_trigger">
+										<h5>Storage</h5>
+									</div>
+									<div class="mobile_toggle_container">
+										<ul class="navigation">
+											<li><a id="footer_storage" href="/Storage/">Self-storage units</a></li>
+											<li><a id="footer_uboxstorage" href="/UBox/?type=storage">U-Box® storage pods</a></li>
+											<li><a id="footer_businessstorage" href="/Business/">Storage for your business</a></li>
+											<li><a id="footer_locks" href="/MovingSupplies/Products.aspx?id=7">Locks &amp; supplies</a></li>
+											<!-- mp_trans_remove_start --><li><a id="footer_patriottruck" href="http://www.patriottruckleasing.com/storage.aspx" target="_blank">Storage trucks</a></li><!-- mp_trans_remove_end -->
+											<li><a id="footer_collegeboxes" href="/Collegeboxes/">Student storage &amp; shipping</a></li>
+                                            <!-- mp_trans_remove_start --><li><a id="footer_storagepayments" href="/orders/DefaultStorage.aspx">Storage payments</a></li><!-- mp_trans_remove_end -->
+										</ul>
+									</div>
+								</div>
+							</div>
+							
+							<div class="column mobile_row mobile_no_bottom">
+								<div class="mobile_section">
+									<div class="mobile_toggle_trigger">
+										<h5>
+											Products and services</h5>
+									</div>
+									<div class="mobile_toggle_container">
+										<ul class="navigation">
+											<li><a id="footer_boxes" href="/MovingSupplies/">Boxes &amp; packing supplies</a></li>
+											<li><a id="footer_hitches" href="/MovingSupplies/Trailer-Hitches/">Trailer hitches</a></li>
+											<li><a id="footer_propane" href="/Propane/">Propane &amp; grilling</a></li>
+											<li><a id="footer_movinghelp" href="/MovingHelp/">Moving Help ®</a></li>
+											<li><a id="footer_trucksales" href="/TruckSales/">Used trucks for sale</a></li>
+											<!-- mp_trans_remove_start --><li id="ctl00_liBoxExchange"><a href="/Exchange/" id="footer_exchange">Box exchange</a></li><!-- mp_trans_remove_end -->
+										</ul>
+									</div>
+								</div>
+							</div>
+							
+							<!-- mp_trans_remove_start --><div id="ctl00_divCompanyInfoColumn" class="column mobile_row mobile_no_bottom">
+								<div class="mobile_section">
+									<div class="mobile_toggle_trigger">
+										<h5>Company info</h5>
+									</div>
+									<div class="mobile_toggle_container">
+										<ul class="navigation">
+											<li><a id="footer_about" href="/About/History.aspx">About U-Haul</a></li>
+											<li><a id="footer_pr" href="/About/JournalistRequests.aspx">Media relations</a></li>
+                                            <li><a id="footer_cr" href="/About/Philanthropy.aspx">Community relations</a></li>
+                                            <li><a id="footer_sustain" href="/About/Sustainability.aspx">Corporate sustainability</a></li>
+											<li><a id="footer_socialmedia" href="/SocialMedia/">Social media directory</a></li>
+											<li><a id="footer_supergraphics" href="/SuperGraphics/">SuperGraphics</a></li>
+											<li><a id="footer_jobs" href="http://jobs.uhaul.com" target="_blank">Career opportunities</a></li>
+											<li><a id="footer_businessservices" href="/Business/">Corporate Sales</a></li>
+											<li><a id="footer_dealer" href="/Dealer/">Become a Dealer</a></li>
+											<li><a id="footer_purchasing" href="/Purchasing/">Supply &amp; purchasing</a></li>
+                                            <li><a id="footer_arbitration" href="/arbitration/">Arbitration</a></li>
+										</ul>
+									</div>
+								</div>
+							</div><!-- mp_trans_remove_end -->
+							
+							<div class="column_last mobile_row mobile_no_bottom">
+								<div class="mobile_section">
+									<div class="mobile_toggle_trigger">
+										<h5>Customer service</h5>
+									</div>
+									<div class="mobile_toggle_container">
+										<ul class="navigation">
+											<li><a id="footer_orders" href="/Orders/">Sign in / look up order</a></li>
+											<li><a id="footer_contact" href="/Contact/">Contact us</a></li>
+											<!-- mp_trans_remove_start --><li id="ctl00_liFAQ"><a href="/FrequentlyAskedQuestions/" id="ctl00_footer_faq">Frequently asked questions</a></li><!-- mp_trans_remove_end -->
+											<!-- mp_trans_disable_start --><!-- mp_trans_add <li> <a href="/QC/">SuperGraphiques de U-Haul - Québec</a></li>--><!-- mp_trans_disable_end -->
+										</ul>
+									</div>
+								</div>
+								<!-- mp_trans_remove_start --><div id="ctl00_spanInvesting" class="mobile_section">
+									<div class="mobile_toggle_trigger">
+										<h5>Investing</h5>
+									</div>
+									<div class="mobile_toggle_container">
+										<ul class="navigation">
+											<li><a href="http://quotes.nasdaq.com/quote.dll?mode=stock&amp;page=quick&amp;symbol=uhal&amp;selected=uhal" target="_blank" id="footer_commonstock">Common Stock</a></li>
+											<li><a href="http://www.uhaulinvestorsclub.com" target="_blank" id="footer_uic">U-Haul Investors Club</a></li>
+										</ul>
+									</div>
+								</div><!-- mp_trans_remove_end -->
+							</div>
+							
+						</div>
+						
+						
+						<!-- mp_trans_remove_start --><div id="ctl00_ucSingleStory_divNews">
+            <div class="news"><strong>U-Haul news: </strong><a href="/Articles/About/1509/Pioneer-Landscaping-adds-U-Haul">Pioneer Landscaping adds U-Haul</a></div>
+        </div>		
+<!-- mp_trans_remove_end -->
+					</div>
+				</div>
+			</div>
+		
 </div>
+	</div> 
+	<!-- mp_trans_remove_start --><!-- mp_trans_remove_end -->
+	<div id="ctl00_pnlLegal">
+	
+		<div class="legal">
+			<p class="mobile_hide">
+				This website is owned and operated by Web Team Associates, Inc. 
+				Copyright ©
+				2013
+				U-Haul International, Inc. All rights reserved.<br>
+				U-Haul International, Inc.'s trademarks and copyrights are used under license by Web Team Associates, Inc.</p> 
+				  
+			<div class="mobile_hide">
+				
+				
+				
+				
+				
+				
+					
+					
+				 
+				
+				
+				
+				
+			</div>
+				
+			<ul class="navigation">
+				<li class="mobile_hide"><a href="/Legal/">Complete legal terms</a></li>
+                <li class="mobile_hide"><a href="/Locations/us_and_canada">U-Haul locations</a></li>
+
+               <!-- mp_trans_remove_start --><li class="mobile_hide footer_language_french">  <a mporgnav="" href="http://fr.uhaul.com" onclick="return switchLanguage('fr');
+                    function switchLanguage(lang) {                        
+                       MP.SrcUrl=decodeURIComponent('mp_js_orgin_url');MP.UrlLang='mp_js_current_lang';MP.init();
+	                    MP.switchLanguage(MP.UrlLang==lang?'en':lang);
+	                    return false;} ">Site en français</a>
+                 </li>
+				<li id="ctl00_liFrench" style="display:none"><a id="ctl00_lbFrench" href="javascript:__doPostBack('ctl00$lbFrench','')">Site en français</a></li>
+				
+                <li id="ctl00_liSpanish"><a id="ctl00_lbSpanish" href="javascript:__doPostBack('ctl00$lbSpanish','')">Sitio web en español</a></li>
+                <!-- mp_trans_remove_end -->
+
+               <!-- mp_trans_disable_start --> <!-- mp_trans_add <li>
+                <a mporgnav href="http://www.uhaul.com/?language=english"
+                    onclick="return switchLanguage('en');
+                    function switchLanguage(lang) {                        
+                       MP.SrcUrl=decodeURIComponent('mp_js_orgin_url');MP.UrlLang='mp_js_current_lang';MP.init();
+	                    MP.switchLanguage(MP.UrlLang==lang?'fr':lang);
+	                    return false;} ">Site in english</a>
+                
+                </li><li>
+                 <a mporgnav href="http://www.uhaul.com/?language=spanish"
+                    onclick="return switchLanguage('es');
+                    function switchLanguage(lang) {                        
+                    MP.SrcUrl=decodeURIComponent('mp_js_orgin_url');MP.UrlLang='mp_js_current_lang';MP.init();
+	                MP.switchLanguage(MP.UrlLang==lang?'fr':lang);
+	                return false;} ">Sitio web en español</a
+                    </li>  -->
+                <!-- mp_trans_disable_end -->
+
+
+				
+                <li id="ctl00_liPrivacy" class="navigation_last"><a href="/Legal/PrivacyPolicy.aspx" id="ctl00_aPrivacy">Privacy policy</a></li>
+			</ul>
+			<p id="ctl00_pReserveByPhone"><strong><!-- mp_trans_remove_start -->To reserve by phone, call <a href="tel:18004684285" class="phonelink"><nobr>1-800-GO-UHAUL</nobr> <nobr>(1-800-468-4285)</nobr></a><!-- mp_trans_remove_end -->
+            <!-- mp_trans_disable_start --><!-- mp_trans_add Pour réserver par téléphone, appelez sans frais au :<br/> 1-800-663-5613 (service EN FRANÇAIS aux heures normales d'affaires) ou 1-800-GO-UHAUL (1-800-468-4285) (service 24/7 pour l'Amérique du Nord).--><!-- mp_trans_disable_end --></strong></p>
+
+                  <div class="follow">
+                	<b>Follow us |</b>
+                    <a href="http://www.facebook.com/uhaul" target="_blank" onclick="__utmTrackEvent('Footer Social','Follow us on Facebook','Clicked');"> 
+                        <img src="/icons/facebook.gif" alt="Follow us on Facebook">
+                    </a>
+                    <a href="https://twitter.com/uhaul" target="_blank" onclick="__utmTrackEvent('Footer Social','Follow us on Twitter','Clicked');">
+                         <img src="/icons/twitter.gif" alt="Follow us on Twitter">
+                    </a>
+                    <a href="https://plus.google.com/u/0/116521049430834922625/posts" target="_blank" onclick="__utmTrackEvent('Footer Social','Follow us on Google+','Clicked');"> 
+                         <img src="/icons/google.gif" alt="Follow us on Google+">
+                    </a>
+                    <a href="http://www.youtube.com/user/Uhaulofficialvideos" target="_blank" onclick="__utmTrackEvent('Footer Social','Follow us on Youtube','Clicked');">
+                    	<img src="/icons/youtube.gif" alt="Follow us on Youtube">
+                   	</a>
+                     <a href="http://pinterest.com/uhaul/" target="_blank" onclick="__utmTrackEvent('Footer Social','Follow us on Pinterest','Clicked');">
+                    	<img src="/icons/pinterest.gif" alt="Follow us on Pinterest">
+                   	</a>
+                    <a href="http://movinginsider.com/" target="_blank" onclick="__utmTrackEvent('Footer Social','Follow us on Wordpress','Clicked');">
+                    <img src="/icons/wordpress.gif" alt="Follow us on Wordpress">
+                    </a>
+             </div>
+
+		</div>
+		
+		
+	
+</div>
+
+	<input id="wtDCSURI" name="wtDCSURI" type="hidden" value="/web/20130625200134id_/http%3A//www.uhaul.com/Legal/PrivacyPolicy.aspx">
+	<input id="wtDCSQRY" name="wtDCSQRY" type="hidden">
+	<input id="wtTZ" name="wtTZ" type="hidden" value="0">
+	<input id="wtBH" name="wtBH" type="hidden" value="10">
+	<input id="wtUL" name="wtUL" type="hidden" value="en-US">
+	<input id="wtCD" name="wtCD" type="hidden" value="24">
+	<input id="wtSR" name="wtSR" type="hidden" value="800x600">
+	<input id="wtJO" name="wtJO" type="hidden" value="No">
+	<input id="wtTI" name="wtTI" type="hidden" value="U-Haul: Privacy policy">
+	<input id="wtJS" name="wtJS" type="hidden" value="Yes">
+	<input id="wtJV" name="wtJV" type="hidden" value="1.5">
 </form>
 
 
 
-<!-- START OF SmartSource Data Collector TAG -->
-<!-- WebTrends SmartSource Data Collector                  -->
-<!--  1996-2004 NetIQ Corporation.  All rights reserved.  -->
-<!-- $DateTime: 2004/05/03 13:43:43 $ -->
-<script language="Javascript"><!--
-gVersion="1.0";
+
+
+
+    
+    <!-- START OF SmartSource Data Collector TAG -->
+    <!-- WebTrends SmartSource Data Collector                  -->
+    <!-- © 1996-2004 NetIQ Corporation.  All rights reserved.  -->
+    <!-- $DateTime: 2004/05/03 13:43:43 $ -->
+
+    <script language="Javascript"><!--
+        gVersion = "1.0";
 //-->
-</script>
-<script language="VBScript">
-Private i, x, MM_FlashControlVersion
-On Error Resume Next
-x = null
-MM_FlashControlVersion = 0
-var Flashmode
-FlashMode = False
-var do_dw_var
-var gFv
+    </script>
 
-For i = 9 To 1 Step -1
-	Set x = CreateObject("ShockwaveFlash.ShockwaveFlash." & i)
-
-	MM_FlashControlInstalled = IsObject(x)
-
-	If MM_FlashControlInstalled Then
-		MM_FlashControlVersion = CStr(i)
-		Exit For
-	End If
-Next
-x = null
-FlashMode = (MM_FlashControlVersion >= 6)
-do_dw_var = FlashMode
-gFv = MM_FlashControlVersion
-</script>
-<script language="Javascript1.1"><!--
+    <script language="Javascript1.1"><!--
 gVersion="1.1";
 //-->
-</script>
-<script language="Javascript1.2"><!--
+    </script>
+
+    <script language="Javascript1.2"><!--
 gVersion="1.2";
 var RE={"%09":/\t/g,"%20":/ /g,"%23":/\#/g,"%26":/\&/g,"%2B":/\+/g,"%3F":/\?/g,"%5C":/\\/g};
 //-->
-</script>
-<script language="Javascript1.3"><!--
+    </script>
+
+    <script language="Javascript1.3"><!--
 gVersion="1.3";
 //-->
-</script>
-<script language="Javascript1.4"><!--
+    </script>
+
+    <script language="Javascript1.4"><!--
 gVersion="1.4";
 //-->
-</script>
-<script language="Javascript1.5"><!--
+    </script>
+
+    <script language="Javascript1.5"><!--
 gVersion="1.5";
 //-->
-</script>
-<script language="JavaScript"><!--
-var gImages=new Array;
-var gIndex=0;
-var DCS=new Object();
-var WT=new Object();
-var DCSext=new Object();
+    </script>
 
-var gDomain="sdc.uhaul.com";
-var gDcsId="dcs08epeml7t49njxx9bffxh6_3w9d";
-// Add customizations here
-//WT.sp="@@SPLITVALUE@@";
+    <script language="JavaScript"><!--
+        var gImages = new Array;
+        var gIndex = 0;
+        var DCS = new Object();
+        var WT = new Object();
+        var DCSext = new Object();
 
-// NEWLY ADDED dcsMultiTrack CODE HERE
+        var gDomain = "sdc.uhaul.com";
+        var gDcsId = "dcs08epeml7t49njxx9bffxh6_3w9d";
 
-// WebTrends SmartSource Data Collector
-//  1996-2004 NetIQ Corporation.  All rights reserved. 
-// $DateTime: 2004/05/03 13:43:43 $
-
-function dcsMultiTrack(){
-	for (var i=0;i<arguments.length;i++){
-		if (arguments[i].indexOf('WT.')==0){
-				WT[arguments[i].substring(3)]=arguments[i+1];
-				i++;
-		}
-		if (arguments[i].indexOf('DCS.')==0){
-				DCS[arguments[i].substring(4)]=arguments[i+1];
-				i++;
-		}
-		if (arguments[i].indexOf('DCSext.')==0){
-				DCSext[arguments[i].substring(7)]=arguments[i+1];
-				i++;
-		}
-	}
-	var dCurrent=new Date();
-	DCS.dcsdat=dCurrent.getTime();
-	dcsTag();
-}
-
-// END OF NEWLY ADDED MultiTrack CODE 
-
-
-// ADDED NEW MULTITRACK FUNCTION BECAUSE OTHER WAS INCORRECT - ARTIE 7/17/2008
-
-function dcsMultiTrackError(){
-	for (var i=0;i<arguments.length;i++){
-		if (arguments[i].indexOf('WT.')==0){
-				WT[arguments[i].substring(3)]=arguments[i+1];
-				
-		}
-		if (arguments[i].indexOf('DCS.')==0){
-				DCS[arguments[i].substring(4)]=arguments[i+1];
-				
-		}
-		if (arguments[i].indexOf('DCSext.')==0){
-				DCSext[arguments[i].substring(7)]=arguments[i+1];
-				
-		}
-	}
-	var dCurrent=new Date();
-	DCS.dcsdat=dCurrent.getTime();
-	dcsTag();
-}
-
-
-
-// NEW MULTITRACK FUNCTION FOR TESTING LOOP
-
-function dcsMultiTrackErrorTest(){
-	for (var i=0;i<arguments.length;i++){
-		if (arguments[i].indexOf('WT.')==0){
-				WT[arguments[i].substring(3)]=arguments[i+1];
-				alert(arguments[i].substring(3));
-				
-		}
-		if (arguments[i].indexOf('DCS.')==0){
-				DCS[arguments[i].substring(4)]=arguments[i+1];
-				
-		}
-		if (arguments[i].indexOf('DCSext.')==0){
-				DCSext[arguments[i].substring(7)]=arguments[i+1];
-				
-		}
-	}
-	var dCurrent=new Date();
-	DCS.dcsdat=dCurrent.getTime();
-	dcsTag();
-}
-
-
-function dcsVar(){
-	var dCurrent=new Date();
-	WT.tz=dCurrent.getTimezoneOffset()/60*-1;
-	if (WT.tz==0){
-		WT.tz="0";
-	}
-	WT.bh=dCurrent.getHours();
-	WT.ul=navigator.appName=="Netscape"?navigator.language:navigator.userLanguage;
-	if (typeof(screen)=="object"){
-		WT.cd=navigator.appName=="Netscape"?screen.pixelDepth:screen.colorDepth;
-		WT.sr=screen.width+"x"+screen.height;
-	}
-	if (typeof(navigator.javaEnabled())=="boolean"){
-		WT.jo=navigator.javaEnabled()?"Yes":"No";
-	}
-	if (document.title){
-		WT.ti=document.title;
-	}
-	WT.js="Yes";
-	if (typeof(gVersion)!="undefined"){
-		WT.jv=gVersion;
-	}
-	WT.fi="No";
-	if (window.ActiveXObject){
-			if ((typeof(gFV)!="undefined")&&(gFV.length>0)){		
-			WT.fi="Yes";
-			WT.fv=gFV;
-		}
-	}
-	else if (navigator.plugins&&navigator.plugins.length){
-		for (var i=0;i<navigator.plugins.length;i++){
-			if (navigator.plugins[i].name.indexOf('Shockwave Flash')!=-1){
-				WT.fi="Yes";
-				WT.fv=navigator.plugins[i].description.split(" ")[2];
-				break;
-			}
-		}
-	}
-	DCS.dcsdat=dCurrent.getTime();
-	DCS.dcssip='www.uhaul.com';
-	DCS.dcsuri=window.location.pathname;
-	if (window.location.search){
-		DCS.dcsqry=window.location.search;
-	}
-	if ((window.document.referrer!="")&&(window.document.referrer!="-")){
-		if (!(navigator.appName=="Microsoft Internet Explorer"&&parseInt(navigator.appVersion)<4)){
-			DCS.dcsref=window.document.referrer;
-		}
-	}
-
-	//Silverlight plugin check
-	WT.sli=(function(){
-    try
-        {        
-    	    if(navigator.userAgent.indexOf('MSIE')!=-1)
-    	        {
-    		        var wtsli = new ActiveXObject('AgControl.AgControl');
-      	            if(wtsli){return "Installed"; }
-      	        
+        function dcsMultiTrack() {
+            for (var i = 0; i < arguments.length; i++) {
+                if (arguments[i].indexOf('WT.') == 0) {
+                    WT[arguments[i].substring(3)] = arguments[i + 1];
+                    i++;
                 }
-      else
-            {
-				if (navigator.plugins["Silverlight Plug-In"])
-				    {
-        	            return "Installed";        
+                if (arguments[i].indexOf('DCS.') == 0) {
+                    DCS[arguments[i].substring(4)] = arguments[i + 1];
+                    i++;
+                }
+                if (arguments[i].indexOf('DCSext.') == 0) {
+                    DCSext[arguments[i].substring(7)] = arguments[i + 1];
+                    i++;
+                }
+            }
+            var dCurrent = new Date();
+            DCS.dcsdat = dCurrent.getTime();
+            dcsTag();
+        }
+
+        // END OF NEWLY ADDED MultiTrack CODE
+
+        function dcsVar() {
+            var dCurrent = new Date();
+            WT.tz = dCurrent.getTimezoneOffset() / 60 * -1;
+            if (WT.tz == 0) {
+                WT.tz = "0";
+            }
+            WT.bh = dCurrent.getHours();
+            WT.ul = navigator.appName == "Netscape" ? navigator.language : navigator.userLanguage;
+            if (typeof (screen) == "object") {
+                WT.cd = navigator.appName == "Netscape" ? screen.pixelDepth : screen.colorDepth;
+                WT.sr = screen.width + "x" + screen.height;
+            }
+            if (typeof (navigator.javaEnabled()) == "boolean") {
+                WT.jo = navigator.javaEnabled() ? "Yes" : "No";
+            }
+            if (document.title) {
+                WT.ti = document.title;
+            }
+            WT.js = "Yes";
+            if (typeof (gVersion) != "undefined") {
+                WT.jv = gVersion;
+            }
+            DCS.dcsdat = dCurrent.getTime();
+            DCS.dcssip = "new.uhaul.com";
+            DCS.dcsuri = window.location.pathname;
+            if (window.location.search) {
+                DCS.dcsqry = window.location.search;
+            }
+            if ((window.document.referrer != "") && (window.document.referrer != "-")) {
+                if (!(navigator.appName == "Microsoft Internet Explorer" && parseInt(navigator.appVersion) < 4)) {
+                    DCS.dcsref = window.document.referrer;
+                }
+            }
+
+            //added for new.uhaul.com
+            $('#wtDCSURI').val(DCS.dcsuri);
+            $('#wtDCSQRY').val(DCS.dcsqry);
+            $('#wtTZ').val(WT.tz);
+            $('#wtBH').val(WT.bh);
+            $('#wtUL').val(WT.ul);
+            $('#wtCD').val(WT.cd);
+            $('#wtSR').val(WT.sr);
+            $('#wtJO').val(WT.jo);
+            $('#wtTI').val(WT.ti);
+            $('#wtJS').val(WT.js);
+            $('#wtJV').val(WT.jv);
+        }
+
+        function A(N, V) {
+            return "&" + N + "=" + dcsEscape(V);
+        }
+
+        function dcsEscape(S) {
+            if (typeof (RE) != "undefined") {
+                var retStr = new String(S);
+                for (R in RE) {
+                    retStr = retStr.replace(RE[R], R);
+                }
+                return retStr;
+            }
+            else {
+                return escape(S);
+            }
+        }
+
+        function dcsCreateImage(dcsSrc) {
+            try {
+                if (document.images) {
+                    gImages[gIndex] = new Image;
+                    gImages[gIndex].src = dcsSrc;
+                    gIndex++;
+                }
+                else {
+                    document.write('<IMG BORDER="0" NAME="DCSIMG" WIDTH="1" HEIGHT="1" SRC="' + dcsSrc + '">');
+                }
+            }
+            catch (err) {
+
+            }
+        }
+
+        function dcsMeta() {
+            var myDocumentElements;
+            if (document.all) {
+                myDocumentElements = document.all.tags("meta");
+            }
+            else if (document.documentElement) {
+                myDocumentElements = document.getElementsByTagName("meta");
+            }
+            if (typeof (myDocumentElements) != "undefined") {
+                for (var i = 1; i <= myDocumentElements.length; i++) {
+                    myMeta = myDocumentElements.item(i - 1);
+                    if (myMeta.name) {
+                        if (myMeta.name.indexOf('WT.') == 0) {
+                            WT[myMeta.name.substring(3)] = myMeta.content;
+                        }
+                        else if (myMeta.name.indexOf('DCSext.') == 0) {
+                            DCSext[myMeta.name.substring(7)] = myMeta.content;
+                        }
+                        else if (myMeta.name.indexOf('DCS.') == 0) {
+                            DCS[myMeta.name.substring(4)] = myMeta.content;
+                        }
                     }
-             }
- 		}
-    catch(e){}
-    return "Not Installed";
-	}) ();
-}
+                }
+            }
+        }
 
-function A(N,V){
-	return "&"+N+"="+dcsEscape(V);
-}
+        function dcsTag() {
+            var P = "http" + (window.location.protocol.indexOf('https:') == 0 ? 's' : '') + "://" + gDomain + (gDcsId == "" ? '' : '/' + gDcsId) + "/dcs.gif?";
+            for (N in DCS) {
+                if (DCS[N]) {
+                    P += A(N, DCS[N]);
+                }
+            }
+            for (N in WT) {
+                if (WT[N]) {
+                    P += A("WT." + N, WT[N]);
+                }
+            }
+            for (N in DCSext) {
+                if (DCSext[N]) {
+                    P += A(N, DCSext[N]);
+                }
+            }
+            if (P.length > 2048 && navigator.userAgent.indexOf('MSIE') >= 0) {
+                P = P.substring(0, 2040) + "&WT.tu=1";
+            }
+            dcsCreateImage(P);
+        }
 
-function dcsEscape(S){
-	if (typeof(RE)!="undefined"){
-		var retStr = new String(S);
-		for (R in RE){
-			retStr = retStr.replace(RE[R],R);
-		}
-		return retStr;
-	}
-	else{
-		return escape(S);
-	}
-}
-
-function dcsCreateImage(dcsSrc){
-	if (document.images){
-		gImages[gIndex]=new Image;
-		gImages[gIndex].src=dcsSrc;
-		gIndex++;
-	}
-	else{
-		document.write('<IMG BORDER="0" NAME="DCSIMG" WIDTH="1" HEIGHT="1" SRC="'+dcsSrc+'">');
-	}
-}
-
-function dcsMeta(){
-	var myDocumentElements;
-	if (document.all){
-		myDocumentElements=document.all.tags("meta");
-	}
-	else if (document.documentElement){
-		myDocumentElements=document.getElementsByTagName("meta");
-	}
-	if (typeof(myDocumentElements)!="undefined"){
-		for (var i=1;i<=myDocumentElements.length;i++){
-			myMeta=myDocumentElements.item(i-1);
-			if (myMeta.name){
-				if (myMeta.name.indexOf('WT.')==0){
-					WT[myMeta.name.substring(3)]=myMeta.content;
-				}
-				else if (myMeta.name.indexOf('DCSext.')==0){
-					DCSext[myMeta.name.substring(7)]=myMeta.content;
-				}
-				else if (myMeta.name.indexOf('DCS.')==0){
-					DCS[myMeta.name.substring(4)]=myMeta.content;
-				}
-			}
-		}
-	}
-}
-
-function dcsTag(){
-	var P="http"+(window.location.protocol.indexOf('https:')==0?'s':'')+"://"+gDomain+(gDcsId==""?'':'/'+gDcsId)+"/dcs.gif?";
-	for (N in DCS){
-		if (DCS[N]) {
-			P+=A(N,DCS[N]);
-		}
-	}
-	for (N in WT){
-		if (WT[N]) {
-			P+=A("WT."+N,WT[N]);
-		}
-	}
-	for (N in DCSext){
-		if (DCSext[N]) {
-			P+=A(N,DCSext[N]);
-		}
-	}
-	if (P.length>2048&&navigator.userAgent.indexOf('MSIE')>=0){
-		P=P.substring(0,2040)+"&WT.tu=1";
-	}
-	dcsCreateImage(P);
-}
-
-dcsVar();
-dcsMeta();
-dcsTag();
-
-
+        dcsVar();
+        dcsMeta();
+        dcsTag();
 //-->
-</script>
+    </script>
 
-<noscript>
-<IMG BORDER="0" NAME="DCSIMG" WIDTH="1" HEIGHT="1" SRC="http://sdc.uhaul.com/dcs08epeml7t49njxx9bffxh6_3w9d/njs.gif?dcsuri=/nojavascript&amp;dcssip=www.uhaul.com&amp;WT.js=No" alt="">
-</noscript>
-<!-- END OF Data Collection Server TAG -->	
+    <noscript>
+        <img border="0" name="DCSIMG" width="1" height="1" src="http://sdc.uhaul.com/dcs08epeml7t49njxx9bffxh6_3w9d/njs.gif?dcsuri=/nojavascript&WT.js=No">
+    </noscript>
+    <!-- END OF Data Collection Server TAG -->
+    
 
 
 
-
-</body></html>
+<img src="https://sdc.uhaul.com/dcs08epeml7t49njxx9bffxh6_3w9d/other/WebTrendsRedirector.ashx?domain=http://www.uhaul.com"></body></html>
