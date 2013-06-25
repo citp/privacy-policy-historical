@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the yipit.com privacy policy that was archived on 2011-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111220214939id_/http%3A//yipit.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yipit.com privacy policy that was archived on 2013-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130625074444id_/http%3A//yipit.com/about/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Yipit
 
@@ -32,11 +32,13 @@ Some of our business partners may use cookies on our website (for example, adver
 
 #### Will Yipit share any of the information it receives?
 
-Information about our users is an integral part of our business. We neither rent nor sell your personal information to anyone. We share your personal information only as described below.
+Information about our users is an integral part of our business. We share your personal information only as described below.
 
 Protection of Yipit and others: We may release personal information when we believe in good faith that release is necessary to comply with that law; enforce or apply our conditions of use and other agreements; or protect the rights, property, or safety of Yipit, our employees, our users, or others.
 
 With your consent: Except as set forth above, you will be notified when your personal information may be shared with third parties or used for a purpose incompatible with the purpose(s) for which it was originally collected, and you will be able to prevent the sharing of this information by opting out.
+
+Merger: We may share your information in connection with a merger between Yipit and another entity, or in the event of a transfer of all or some of our assets to another company.
 
 #### Is information about me secure?
 
@@ -68,4 +70,4 @@ Yipit reserves the right to change this policy from time to time, however, all c
 
 If you have concerns or questions about any aspect of the Yipit Privacy Policy, please e-mail us. We welcome your questions and feedback. Please send all emails to: [privacy@yipit.com](mailto:privacy@yipit.com). Our corporate mailing address is Yipit, Inc., 902 Broadway, 4th Fl, c/o General Assembly, New York, NY 10010.
 
-Last modified: January 12, 2011.
+Last modified: August 16, 2012.
