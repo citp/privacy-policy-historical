@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the apptentive.com privacy policy that was archived on 2012-11-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121117235510id_/http%3A//www.apptentive.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the apptentive.com privacy policy that was archived on 2013-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130625183806id_/http%3A//www.apptentive.com/privacy) for the most accurate reproduction.*
 
 # Customer communication & feedback is important, as is privacy
 
@@ -6,13 +6,9 @@ Last modified: February 28, 2012
 
 This Privacy Policy applies to all of the products, services and developer modules offered by Apptentive Inc. or its subsidiaries or affiliated companies. It does not apply to information we provide to the developer of your App. Each developer is responsible for establishing its own privacy policy. Sometimes, we may post product specific privacy notices or Help Center materials to explain our products and related privacy policies in more detail.
 
-If you have any questions about this Privacy Policy, please feel free to [contact us](http://www.apptentive.com/contact) through our website or write to us at:
+If you have any questions about this Privacy Policy, please feel free to [contact us](https://web.archive.org/contact) through our website or write to us at:
 
-Privacy Matters  
-c/o Apptentive Inc.  
-1205 Queen Anne Ave N #201  
-Seattle, WA, 98109  
-USA
+Privacy Matters c/o Apptentive Inc. 1205 Queen Anne Ave N #201 Seattle, WA, 98109 USA
 
 ## Information we collect and how we use it
 
@@ -82,9 +78,3 @@ When you use Apptentive services, we make good faith efforts to provide you with
 ## Changes to this Privacy Policy
 
 Please note that this Privacy Policy may change from time to time. We will not reduce your rights under this Privacy Policy without your explicit consent. We will post any Privacy Policy changes on this page and, if the changes are significant, we will provide a more prominent notice (including, for certain services, email notification of Privacy Policy changes). We will also keep prior versions of this Privacy Policy in an archive for your review.
-
-## Get Started
-
-## Feedback for Mac Apps
-
-The Mac App Store is incredible. Make sure you're hearing your rapidly growing customer base. [Read More >](https://web.archive.org/mac-os-x-app-ratings?class=more)
