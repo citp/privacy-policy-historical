@@ -1,61 +1,37 @@
-> *The following text is extracted and transformed from the jomsocial.com privacy policy that was archived on 2009-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091102074930id_/http%3A//www.jomsocial.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jomsocial.com privacy policy that was archived on 2013-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130625081914id_/http%3A//www.jomsocial.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy - JomSocial
 
-JomSocial’s Customer Privacy Policy covers the collection, use, and disclosure of personal information that may be collected by JomSocial anytime you interact with JomSocial, such as when you visit our website, when you purchase JomSocial products and services, or when you call our sales or support associates. 
+###  Our Approach to Protecting Your Privacy
 
-Please take a moment to read the following to learn more about our information practices, including what type of information is gathered, how the information is used and for what purposes, to whom we disclose the information, and how we safeguard your personal information. Your privacy is a priority at JomSocial, and we go to great lengths to protect it.
+Thank you for taking the time to read through our Privacy Policy.
 
-## Why we collect personal information
+JomSocial sees itself as the protector of the information it collects, maintains, and uses. Our responsibility is to ensure the safety of the information in our care and to maintain the privacy of our customers through sensible, appropriate, and responsible use.
 
-We collect your personal information because it helps us deliver a superior level of customer service. It enables us to give you convenient access to our products and services and focus on categories of greatest interest to you. In addition, your personal information helps us keep you posted on the latest product announcements, software updates, special offers, and events that you might like to hear about.
+###  The Way We Use Information
 
-## What information we collect and how we may use it
+By using Jomsocial, you agree to the collection and use of your personal and/or group information as described in this policy. You should know:
 
-There are a number of situations in which your personal information may help us give you better products. For example:
+We collect limited account information and store and maintain your account and profile information on our servers.
 
-  * We may ask for your personal information when you’re requesting support or service over the phone, downloading a software update, registering your products, or purchasing a product.
-  * When you interact with JomSocial, we may collect personal information relevant to the situation, such as your name, mailing address, phone number, email address, and contact preferences; your credit card information and information about the JomSocial products you own, purchase transaction reference number and date of purchase; and information relating to a support or service issue.
-  * We may use personal information to provide products that you have requested as well as for auditing, research, and analysis to improve JomSocial’s products.
+  * We will never rent, sell, or share information that personally identifies you for marketing purposes except to provide products or services you’ve requested, when we have your permission or under the following circumstances:
+    * We may share general information to trusted partners who work on behalf of or with Jomsocial under confidentiality agreements. General information may be used to help Jomsocial communicate offers to you from Jomsocial and our marketing partners. Our partners do not have any independent right to share this general information and any offers will include a URL and email address where you can unsubscribe from future mailings,
+    * We respond to subpoenas, court orders, or legal process, or to establish or exercise our legal rights or defend against legal claims,
+    * We believe it is necessary to share information in order to investigate, prevent, or take action regarding illegal activities, suspected fraud, situations involving potential threats to the physical safety of any person, violations of Jomsocial’s terms of use, or as otherwise required by law,
+    * Jomsocial displays targeted advertisements based on personal or group information. Advertisers (including ad serving companies) may assume that people who interact with, view, or click on targeted ads meet the targeting criteria.
 
 
 
-## Publicly displayed information is public
+You can update your account information and preferences at any time.
 
-If you use support forum or community site on JomSocial website you should be aware that any information you share is visible to other users. Personally identifiable information you submit to one of these forums can be read, collected, or used by other individuals to send you unsolicited messages. JomSocial is not responsible for the personally identifiable information you choose to submit in these forums.
+###  Images of Your Jomsocial or Profile in Marketing Materials.
 
-For example, if you choose to make information, which was previously non-public, available by enabling certain user features, JomSocial will collect that information from your interaction and the information will become publicly available.
+Jomsocial reserves the right to include images of your Jomsocial’s header graphic or overview Summary page on the Jomsocial website or in other marketing materials for demonstration and promotional purposes. We also may display additional images, this includes the possibility of displaying an image of your member profile, including your photograph. Care will be taken to present images in a professional manner and without compromising the character of the JomSocial-powered community.
 
-## When we disclose your information
+You may specifically request in writing that we not use images of your profile page in this manner by sending a request with the text REMOVE FROM MARKETING MATERIALS in the subject line, or you may contact us in writing to by sending us a letter, fax, or by any means of written communication.
 
-JomSocial takes your privacy very seriously. JomSocial does not sell or rent your contact information to other marketers.
+Jomsocial Managers may also specifically request, in writing, that Jomsocial not use images of their Jomsocial’s header graphic or pages in this manner by contacting us using either of the above described methods.
 
-### Within our company - Slashes & Dots Sdn. Bhd.
+###  Changes
 
-To help us provide superior service, your personal information may be shared with legal entities within our company globally who will take steps to safeguard it in accordance with JomSocial’s privacy policy.
-
-### With our service providers, vendors, and strategic partners.
-
-There are also times when it may be advantageous for JomSocial to make certain personal information about you available to companies that JomSocial has a strategic relationship with or that perform work for JomSocial to provide products and services to you on our behalf. These companies may help us process information, extend credit, fulfill customer orders, deliver products to you, manage and enhance customer data, provide customer service, assess your interest in our products and services, or conduct customer research or satisfaction surveys. These companies are also obligated to protect your personal information in accordance with JomSocial’s policies, except if we inform you otherwise at the time of collection.
-
-At times we may be required by law or litigation to disclose your personal information. We may also disclose information about you if we determine that for national security, law enforcement, or other issues of public importance, disclosure is necessary.
-
-## How we protect your personal information
-
-JomSocial takes precautions — including administrative, technical, and physical measures — to safeguard your personal information against loss, theft, and misuse, as well as unauthorized access, disclosure, alteration, and destruction.
-
-You can help us by also taking precautions to protect your personal data when you are on the Internet. Change your passwords often using a combination of letters and numbers.
-
-### Cookies and other technologies
-
-As is standard practice on many corporate websites, JomSocial’s website uses “cookies” and other technologies to help us understand which parts of our websites are the most popular, where our visitors are going, and how much time they spend there. We use cookies and other technologies to study traffic patterns on our website, to make it even more rewarding as well as to study the effectiveness of our customer communications. And we use cookies to customize your experience and provide greater convenience each time you interact with us.
-
-As is true of most websites, we gather certain information automatically and store it in log files. This information includes Internet Protocol (IP) addresses, browser type, Internet Service Provider (ISP), referring/exit pages, operating system, date/time stamp, and clickstream data.
-
-We use this information, which does not identify individual users, to analyze trends, to administer the site, to track users’ movements around the site and to gather demographic information about our user base as a whole. JomSocial will not use the information collected to market directly to that person.
-
-In some of our email messages we use a "click-through URL" linked to content on the JomSocial website. When customers click one of these URLs, they pass through our web server before arriving at the destination web page. We track this click-trhough data to help us determine interest in particular topics and measure the effectiveness of our custoemr communications. If you prefer not to be tracked simply avoid clicking text or graphic links in the email.
-
-### Our commitment to your privacy
-
-As we said, JomSocial takes protecting your privacy very seriously. To make sure your personal information is secure, we communicate these guidelines to JomSocial employees and strictly enforce privacy safeguards within the company. In addition, JomSocial supports industry initiatives to preserve privacy rights on the Internet and in all aspects of electronic commerce.
+Jomsocial may periodically update this policy. We will notify you about significant changes in the way we treat personal information by sending a notice to the primary email address specified in your Jomsocial profile or by placing a prominent notice on our site.
