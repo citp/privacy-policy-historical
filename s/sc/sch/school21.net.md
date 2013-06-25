@@ -1,100 +1,117 @@
-> *The following text is extracted and transformed from the school21.net privacy policy that was archived on 2011-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111229203604id_/http%3A//www.godaddy.com/agreements/ShowDoc.aspx%3Fpageid%3Dprivacy_parkedpage) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the school21.net privacy policy that was archived on 2013-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130625195645id_/http%3A//school21.net/corporate/privacy_policy.html) for the most accurate reproduction.*
 
-# Legal Agreement
+# Privacy
 
-**Go Daddy Respects Your Privacy**
+At School21 we know that privacy is important to our users. This Privacy Policy describes the ways in which School21 collects and shares information about you.
 
-**This Privacy Policy explains our privacy and information gathering practices, such as the types of information we collect and under what circumstances that information is shared.**
+School21, LLC ("School21", "Company", "we", "us", "our") provides online services ("Website") to visitors to the Website ("users", "you"). By visiting the Website, whether registered or not, all users agree to Company's Terms of Service, into which this Privacy Policy is incorporated by reference. If you do not agree to the Terms of Service and this Privacy Policy, you may not use the Website.
 
-**Please take the time to review the terms of this Policy.   By using this Site, you agree to accept the terms provided.**
+## What Kind of Information Do We Collect about Users and Why Do We Collect It?
 
-**Other than as described in this Policy, we will not give any information about you to others without your express permission.**
+School21 collects information from users in order to establish and enhance our relationship to you, and to best provide Website services. When using the Website, users may be asked to provide information about themselves, including "personally identifiable" information such as your name, password, email address and mobile phone number ("Personally Identifiable Information"). In addition, through the use of Website services, users provide other information by their actions, such as time spent answering questions or viewing material, and answers to assessment questions ("Other Personal Information"). Gathering this information allows Company to provide the services on the Website in a way that is personalized to each user.
 
-**Information Collection and Use**
+In general, Company endeavors to gather the minimal personal information about you necessary to provide the services offered on the Website.
 
-Although this Site is primarily for informational purposes, we may ask you to provide us with your name, email address or other information that could be used to identify you personally.  For example, we may collect this information in the event that you register as a member of this Site, post a comment, sign-up to receive email communications, or submit demographic information as part of a survey.
+## How Do We Collect Information?
 
-We receive and store any information you enter on our Site or give us in any other way, including through email, telephone, or other communications. If you contact us for support, we will keep an internal record of our communication with you.
+### User-Provided Information
 
-We may use your information to contact you regarding the information and services available on our Site, functionality changes to our Site, and special offers we think you'll find valuable. If you would rather not receive this information, please see the "Updating Your Information" section below on how to change your preferences.
+We receive and store information you knowingly provide to us through the Website, via computer, mobile phone, other Internet-connected device or through other means. For instance, when you register to use Website services, you may be asked to provide Personally Identifiable Information such as your name, email address, a User ID and a password. You may choose not to provide us with certain information, but then you may not be able to take advantage of many services or features of the Website.
 
-We may also use your information to present a co-branded offer with our partners or affiliates. If we collect information from you in connection with a co-branded offer, it will be clear at the point of collection who is collecting the information and whose privacy statement applies.
+### Information Provided through Third Party Registrations
 
-We use information gathered about you from our Site statistics (for example, your IP address) to help diagnose problems with our server, and to administer our Site. We also gather broad demographic information from this data to help us improve our Site and make your browsing and purchasing experience more enjoyable. This is not linked to any personally identifiable information, except as necessary to prevent fraud or abuse on our system.
+You may access School21 as an application on a third-party website or through a third-party solution, in which case your personal information may be transferred from the third-party in an automated fashion in order to provide a user-friendly registration experience with School21. Also, Company may provide the ability to register for Website services through third-party authentication services (such as Facebook Connect), in which case your personal information will be shared in an automated fashion with School21.
 
-Our Site uses cookies to enhance your experience with our Site.  Cookies are data files that are placed in your browser to keep track of your personal preferences and to facilitate easy navigation through our Site.  We use cookies to identify you so you don't need to log in each time you visit our Site.  You may opt-out of the use of cookies by altering settings on your browser.  Please note, however, that some areas of the Site will be easier to navigate with the use of cookies..
+### "Automatically Collected" Information
 
-This Site also contains links to other websites. Unfortunately, we are not responsible for the privacy practices or the content of such sites.
+When you use Website services, we gather Other Personal Information about your interaction with the services, such as ratings of learning objects, the correctness of answers provided to assessment questions, time spent answering assessment questions or viewing learning objects, and other information about how you are using the service. We gather this information in order to offer Website features, such as customizing the solution to meet your specific needs, and representing your progress to you and to other users you authorize to view your progress.
 
-**Security**
+### Information Gathered through "Cookies"
 
-This Site has security measures in place to protect against the loss, misuse or alteration of the information under our control.
+When you visit the Website, whether or not you are registered, School21 may send cookies (small data files) to your computing device, in order to enhance your experience with the Website services. School21 may utilize both session cookies and persistent cookies. Session cookies are destroyed when you close your browser, while persistent cookies may continue to reside on your computer. Through options you set in your browser, you may be able to remove the ability for School21 to utilize cookies on your computer. However, without cookies you may not be able to take advantage of many Website features.
 
-**Updating Your Information**
+### Information Gathered through Server Logs
 
-You may alter your account information or opt out of receiving communications from us and our partners at any time. We have the following options for changing and modifying your account information or contact preferences.
+When you use the Website, our servers automatically record information that your browser sends whenever you visit a website or online service ("Server Log Data"). Server Log data may include your IP address, the address of the page you requested and other information.
 
-        i.      You may send an email to [support@godaddy.com ](mailto:support@godaddy.com)
+### Information Gathered through Other Technical Means
 
-       ii.      You may send mail to Go Daddy at the following postal address:   
-               14455 North Hayden Road, Suite 219, Scottsdale, AZ. 85260 USA
+If you provide your email address to School21, you may receive emails from us, and we may receive a confirmation when you open such an email, if your computer supports this type of program. Additionally, we may utilize "Clear GIFs" or other technologies to analyze traffic on the Website. We do not use Clear GIFs to collect or store Personally Identifiable Information.
 
-      iii.      You may call us at: (480) 505-8800
+## With Whom Do We Share Information?
 
-       iv.      You may fax us at: (480) 505-8844
+We do not sell or rent your Personally Identifiable Information in any way.
 
-**Sending Emails**
+### Public Display on Website and in Other Communications
 
-We use emails to communicate with you and to send information that you have requested.  We also provide email links to allow you to contact us directly. We strive to promptly reply to your messages.
+Some of the information you provide to School21 will be displayed on the Website for other users or visitors to see.
 
-The information you send to us may be stored and used to improve this Site and our products, or it may be reviewed and discarded.
+If you register in a way that specifically authorizes another person (such as a teacher or parent) to view reports about your activity and performance on the Website (whether that registration and authorization occurred through School21's registration features or the registration features of a third-party website or service), those other persons will have access to reports detailing your activity and performance on the Website, and those other persons may be able to see your Personally Identifiable Information. In addition those other persons may receive emails, text messages, social network messages or other messages detailing your activity and performance on the Website.
 
-**Compliance with Laws and Law Enforcement**
+School21 may display summaries of user activity on the Website, including, but not limited to, "leaderboards" listing users and their personal achievement data. These summaries may be viewable by all visitors to the Website, even viewers who have not registered with School21 and users who have no parent or teacher relationship to you. In the registration process, one piece of personally identifiable information we gather from you is your first name, which you enter into the appropriate field in the registration form ("First Name"). Because achievement summaries, such as leaderboards, most effectively encourage learning and achievement when learners can personally identify with the information displayed, the summaries may contain the First Names of users. If you do not want your First Name to be displayed in such summaries, you should not use the Website. Any person under the age of 18 must have their parents agree to Company's Terms of Service and this Privacy Policy on their behalf. If you are a parent of a child under the age of 18, and you do not want his or her First Name to be displayed, you should not permit him or her to use the Website. First Names are defined solely by users, when they enter their Personally Identifiable Information during the registration process, and Company has no control over what information users enter into the first name field during such registration process. You agree that you will only include your actual first name, and no other information (whether personally identifiable or not) in the first name field on the registration form. In addition to First Name, summaries of achievement (such as leaderboards) may display alphanumeric codes designed to help users associate a particular first name with themselves.
 
-We cooperate with government and law enforcement officials and private parties to enforce and comply with the law. We will disclose any information about you to government or law enforcement officials or private parties as we, in our sole discretion, believe necessary or appropriate to respond to claims and legal process (including without limitation subpoenas), to protect our property and rights or the property and rights of a third party, to protect the safety of the public or any person, or to prevent or stop activity we consider to be illegal or unethical. We will also share your information to the extent necessary to comply with ICANN's rules, regulations and policies.
+### Service Providers
 
-**Third Party Service Providers**
+School21's may share your personal information with service providers, agents or contractors who help us to create and provide the Website services. Those service providers may only use your personally identifiable information to provide us with specific services, and not for any other purpose.
 
-We may at times provide information about you to third parties to provide various services on our behalf, such as serving advertisements, conducting contests or surveys, performing analyses of our user demographics, shipping of goods or services, and user relationship management. We will only share information about you that is necessary for the third party to provide the requested service. These companies are prohibited from retaining, sharing, storing or using your personally identifiable information for any secondary purposes.
+### Aggregated Data
 
-In the event that we use third party advertising companies to serve ads on our behalf, these companies may employ cookies and action tags (also known as single pixel gift or web beacons) to measure advertising effectiveness. Any information that these third parties collect via cookies and action tags is completely anonymous. If you would like more information about this practice and your choices, click [here. ](http://www.networkadvertising.org/managing/opt_out.asp)
+School21 discloses some aggregated, non-personally-identifiable data information with interested third parties to assist those third parties in understanding Website usage, viewing levels and patterns, content consumption, demographic patterns, feature effectiveness and other information about the Website.
 
-**Supplementation of Information**
+### Business Transfer
 
-In order to provide certain services to you, we may on occasion supplement the personal information you submit to us with information from third party sources ( _e.g.,_ information from our strategic partners, service providers, or the United States Postal Service).  We do this to enhance our ability to serve you, to tailor our products and services to you, and to offer you opportunities to purchase products or services that we believe may be of interest to you.
+In the event that School21, in whole or in part, is acquired by or merged with a third-party entity, we reserve the right, in any of these circumstances, to transfer or assign the information that we have collected from users as part of such merger, acquisition, sale, asset sale or change of control.
 
-**Contests/Surveys**
+### Compliance with the Law
 
-From time-to-time, we may provide you with the opportunity to participate in contests or surveys. If you choose to participate, we may request certain personally identifiable information from you. Participation in these contests or surveys is completely voluntary and you therefore have a choice whether or not to disclose the requested information. The requested information typically includes contact information (such as name and address), and demographic information (such as zip code and age level - note that you must be 18 or above to enter). We use this information to notify contest winners and award prizes, to monitor Site traffic, and to personalize our Site.
+School21 may disclose user information if required to do so by law, or in the good-faith belief that such action is necessary to comply with state and federal laws or to respond to a court order, judicial or other government subpoena, or warrant. We may make such disclosures without first providing notice to users.
 
-We may use a third party service provider to conduct these surveys or contests. When we do, that company will be prohibited from using our users' personally identifiable information for any other purpose. We will not share the personally identifiable information you provide through a contest or survey with other third parties unless we give you prior notice and choice.
+### Protection of Company and Others
 
-**Tell-A-Friend**
+We also reserve the right to disclose user information that we believe, in good faith, is appropriate or necessary to: protect Company from fraudulent, unlawful or abusive uses; take precautions against liability; investigate and defend Company against any claims or allegations; assist government enforcement agencies; protect the security or integrity of the Website; and to protect the rights, property or safety of Company, our employees, our users or others.
 
-If a user elects to use our referral service to inform a friend about our Site, we ask the user for the friend's name and email address. Go Daddy will automatically send the friend a one-time email inviting them to visit our Site. Go Daddy stores this information for the sole purpose of sending this one-time email. The friend may contact Go Daddy at [support@godaddy.com ](mailto:support@godaddy.com)to request the removal of this information from our database.
+### With Your Consent
 
-**What Happens to my Personal Information if I Opt Out?**
+Except as set forth above, you will be notified when your personally identifiable information may be shared with third parties, and you will be given the option to prevent the sharing of such information.
 
-If you advise us that you wish to opt out of receiving further communications from us, we will place your personally identifiable information in "deactivated" status on our relevant databases. However, you should know that placement of your information in "deactivated" status does not mean your personally identifiable information has been deleted from our database entirely. We will retain and use your personally identifiable information as necessary in order to comply with our legal obligations, resolve disputes, or enforce our agreements.
+## What Is Our Policy Regarding Information about Children?
 
-**Transfer of Data Abroad**
+No person under the age of 18 is permitted to use the Website without parental permission and parental agreement to the Terms of Service on behalf of that person. We will take reasonable steps necessary to delete accounts and user information in any case where we believe a person under the age of 18 is using the Website without said parental permission and agreement.
 
-If you are visiting this Site from a country other than the country in which our servers are located, your communications with us may result in the transfer of information across international boundaries.  By visiting this Site and communicating electronically with us, you consent to such transfers.
+Protecting the privacy of young children is especially important. School21 does not knowingly collect or maintain personally identifiable information on the Website from any person under 13 years old unless Company reasonably believes that the child's parent has consented to the child's use of the Website, per the Terms of Service and this Privacy Policy. If Company learns that personally identifiable information of a person less than 13 years old has been collected on the Website without parental consent, then Company will take the appropriate steps to delete this information.
 
-**Changes in Our Practices**
+## Is Information Secure?
 
-We reserve the right to modify this Privacy Policy at any time. If we decide to change our Privacy Policy, we will post those changes to this Privacy Policy and any other places we deem appropriate, so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it.
+### Passwords and Sign-Out
 
-If we make material changes to this Policy, we will notify you here, by email, or by means of a notice on our home page, at least thirty (30) days prior to the implementation of the changes.
+Should you register with School21, your account is protected by a password for your privacy and security. You can help protect against unauthorized sharing of your personal information by selecting and protecting your password appropriately and by limiting access to your account by signing out each time you finish using the Website.
 
-**Contacting Our Site**
+### Third-Party Sites
 
-If you have any questions about our Privacy Policy, the practices of this Site, or your dealings with this Site, please contact us at:
+The Website may contain links to third-party websites or embedded content (such as videos) from third-party websites (collectively, "Third-Party Material), that are not owned or controlled by us. We have no knowledge about, nor do we control, the privacy policies of those third parties. In order to protect your privacy and personal information, you should investigate and understand the privacy policies of those third-parties.
 
-* * *
+### General
 
-Go Daddy   
-ATTN: Web Team   
-14455 North Hayden Rd.   
-Suite 219   
-Scottsdale, AZ, 85260, U.S.A.
+School21 uses certain physical, technical and managerial safeguards to protect your personal information. We cannot, however ensure or warrant the security of any information you transmit to Company, and you do so at your own risk. Unauthorized entry or use, hardware or software failure, and other factors may compromise the security of user information at any time. Company makes commercially reasonable efforts to ensure the security of our systems, but such efforts are not a guarantee that user information may not be accessed, disclosed, altered or destroyed by breach of any of our physical, technical or managerial safeguards.
+
+## What Are My Other Choices?
+
+You may, of course, choose not to provide personally identifiable information to School21, in which case we will not be able to provide you some or all of the features of the Website services. If you register with School21, you may have the ability to update, change or delete some of your Personally Identifiable Information, in which case we may retain previous versions of that information for our records. Should you choose to delete your account, your Other Personal Information (such as ratings or site usage data) may not be deleted.
+
+## International Transfer
+
+Information about you may be transferred from, and maintained on computers located outside of, your state, province, country or other governmental jurisdiction, to places where the privacy laws may not be as protective as those in your jurisdiction. If you are located outside the United States and choose to provide Company with information, you acknowledge and understand that we transfer personal information to the United States and process it there. By providing your personally identifiable information on the Website you consent to that transfer.
+
+## Changes to this Privacy Policy
+
+Company may periodically revise this Privacy Policy without notice to you. Such revision will be reflected by a date noted on the revised Privacy Policy. Please revisit this page to stay aware of the current Privacy Policy. Your continued use of the Website constitutes your agreement to this Privacy Policy and any future revisions.
+
+## Contact Information
+
+Please contact School21 with any questions or comments about this Privacy Policy, at:
+
+School21  
+PO Box11388  
+Oakland, CA  94611
+
+Last updated: January 29, 2012
