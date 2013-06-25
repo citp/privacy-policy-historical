@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the collider.com privacy policy that was archived on 2012-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121226155748id_/http%3A//collider.com/collider-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the collider.com privacy policy that was archived on 2013-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130626004123id_/http%3A//collider.com/collider-privacy-policy) for the most accurate reproduction.*
 
 # Collider Privacy Policy | Collider
 
