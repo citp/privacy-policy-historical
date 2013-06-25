@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the voomga.com privacy policy that was archived on 2012-05-02.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120502090825id_/http%3A//www.voomga.com/support/Privacy_Policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the voomga.com privacy policy that was archived on 2013-06-25.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130625220326id_/http%3A//www.voomga.com/support/Privacy_Policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
@@ -8,16 +8,18 @@
 <title>Support - Voomga - Vast gaming experience</title>
 <meta content="free online games, Flash games, social game, hidden object games, hidden-object game, Voomga, casual games, multiplayer flash games, RPG flash games, nline multiplayer game, 诛神" name="keywords">
 <meta content="Voomga makes some of the most popular Flash games on the web. Our goal is to build a game platform where players can enjoy vast gaming experiences." name="description">
-<link media="screen" href="http://static.voomga.com/2012/css/css.css" type="text/css" rel="stylesheet">
+<link media="screen" href="http://static.voomga.com/2012/css/css.css?v=20130222" type="text/css" rel="stylesheet">
 <script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="http://static.voomga.com/2012/js/jquery-1.4.3.min.js"></script>
 <script type="text/javascript" src="http://static.voomga.com/2012/js/pub.js"></script>
 <script type="text/javascript" src="http://static.voomga.com/2012/js/js.js"></script>
 <!--[if IE 6]>
-<script type="text/javascript" src="http://static.voomga.com//2012/js/iepng.js"></script>
+<script type="text/javascript" src="http://static.voomga.com/2012/js/iepng.js"></script>
 <script type="text/javascript">
    EvPNG.fix('.btn');
    EvPNG.fix('.icon');
    EvPNG.fix('.otherway img');
+   EvPNG.fix('.pngimg');
+   EvPNG.fix('.topUp_sub a img');
 </script>
 <![endif]-->
 </head>
@@ -38,61 +40,77 @@ function getCurrentURL(lang)
 		case 3:
 		referer = 'http://www.voomga.com/language/id/?referer='+url;
 		break;
+		case 4:
+		referer = 'http://www.voomga.com/language/tc/?referer='+url;
+		break;
+		case 5:
+		referer = 'http://www.voomga.com/language/thai/?referer='+url;
+		break;
 	}
 	location.href = referer;
 }
+$(document).ready(function() {
+	$('.y_language').mousemove(function(){
+		$('.y_language ul').height(84)
+	})
+	$('.y_language').mouseleave(function(){
+		$('.y_language ul').height(0)
+	})
+	$('.y_language ul li').click(function(){
+		$('.y_language ul li').removeClass('now_li');
+		$(this).addClass('now_li');
+		$('.y_language ul').height(0)
+	})
+	$('.y_header_top p input').focus(function(){
+		$(this).next('font').css("text-indent","-9999em");
+	})
+	$('.y_header_top p input').blur(function(){
+		$(this).next('font').css("text-indent","0");
+		if($(this).val()!=''){
+			$(this).next('font').css("text-indent","-9999em");
+		}
+	})
+});
 </script>
-<!--header-->
-<div class="header">
-	<div class="wrap">
-		<div class="logo">
-			<a href="http://www.voomga.com/" title="Voomga.com"><img src="http://static.voomga.com/2012/images/logo.png" border="0" alt="Voomga.com"></a>
-		</div>
-		<div class="language">
-			<ul>
-									<li class="current" onclick="getCurrentURL(1);"><a href="###">English</a></li>
-					<li onclick="getCurrentURL(2);"><a href="###">中文(简体)</a></li>
-					
-							</ul>
-		</div>
-		<div class="navbox_tips" id="forgotpd">
-			<p class="hue_white alignC"><br><a href="http://www.voomga.com/getpass/" class="hue_white"><strong>Forget Password?</strong></a></p>
-			<div></div>
-		</div>
-		<div class="navbox_tips" id="login_facebook">
-			<p class="hue_white alignC">Log in with Facebook</p>
-			<div></div>
-		</div>
-		<div class="navbox_tips" id="login_google">
-			<p class="hue_white alignC">Log in with Google</p>
-			<div></div>
-		</div>
-		
-		<div class="navbox">
-						<form method="post" action="http://www.voomga.com/member/login/?referer=http://www.voomga.com/support/privacy_policy">
-			<ul class="loginbox lif">
-				<li class="inputstyle"><input name="login[user_code]" type="text" value="Email" onfocus="if (value =='Email') value =''" onblur="if (value =='')value='Email'"> <input name="login[user_password]" type="password" value="password" onfocus="if (value =='password') value =''" onblur="if (value =='')value='password'"></li>
-				<li>
-					<input name="" type="submit" class="btn btn_login" value="">
-					<input name="" type="button" class="btn btn_signup" onclick="location.href='http://www.voomga.com/member/register/';">
-				</li>
-				<li class="otherway">
-					<a href="http://www.voomga.com/fblogin/index/" class="showtip_facebook"></a>
-					<a href="http://www.voomga.com/login/index/google/" class="showtip_google"></a>
-				</li>
-			</ul>
+<!--新版头部-->
+<div class="y_header">
+	<div class="y_header_main">
+		<div class="y_header_top clearfix">
+						<form method="post" action="http://www.voomga.com/member/login/?referer=http://www.voomga.com/support/Privacy_Policy">
+			<div class="y_login y_login_after">
+				<p><input type="text" name="login[user_code]" value="Email" onfocus="if (value =='Email') value =''" onblur="if (value =='')value='Email'"><font>Email</font></p>
+				<p><input type="password" name="login[user_password]" value="password" onfocus="if (value =='password') value =''" onblur="if (value =='')value='password'"><font>Password</font></p>
+				<p class="clearfix">
+					<input type="submit" class="y_login_a" value="">
+					<a href="http://www.voomga.com/member/register/" class="y_sign_a"></a>
+					<a href="http://www.voomga.com/login/index/google/" class="y_google_a"></a>
+					<a href="http://www.voomga.com/fblogin/index/" class="y_face_a"></a>
+				</p>
+			</div>
 			</form>
-						<ul class="nav lif">
-				<li><a href="http://www.voomga.com/gameslist/" id="nav1">Games</a></li>
-				<li><a href="http://www.voomga.com/payment2/mol/" id="nav2">Top-up</a></li>
-				<li><a href="http://www.voomga.com/news_center/" id="nav3">News</a></li>
-				<li><a href="http://forum.voomga.com/" target="_blank" id="nav4">Forums</a></li>
-				<li class="current"><a href="http://www.voomga.com/support/" id="nav5">Support</a></li>
-			</ul>
+						<div class="y_language">
+				<ul>
+											<li class="now_li" onclick="getCurrentURL(1);"><a href="###">English</a></li>
+						<li onclick="getCurrentURL(2);"><a href="###">中文(简体)</a></li>
+						<li onclick="getCurrentURL(3);"><a href="###">Indonesian</a></li>
+						<li onclick="getCurrentURL(4);"><a href="###">中文(繁體)</a></li>
+						<li onclick="getCurrentURL(5);"><a href="###">ภาษาไทย</a></li>
+									</ul>
+			</div>
+		</div>
+		<div class="y_header_bottom">
+			<a href="http://www.voomga.com/" title="Voomga.com" class="y_vooga_logo"><img src="http://static.voomga.com/2012/images/img_r4_c3.jpg"></a>
+			<p class="clearfix">
+				<a href="http://www.voomga.com/gameslist/" id="nav1">Games</a>
+				<a href="http://www.voomga.com/payment2/mol/" id="nav2">Top-up</a>
+				<a href="http://www.voomga.com/news_center/" id="nav3">NEWS</a>
+				<a href="http://forum.voomga.com/" id="nav4" target="_blank">Forums</a>
+				<a href="http://www.voomga.com/support/" id="nav5" class="now_a">Support</a>
+			</p>
 		</div>
 	</div>
 </div>
-<!--header end-->		<!-- head:end -->
+<!--新版头部END-->		<!-- head:end -->
 	<!-- center -->
 		<div class="bg_con">
 	<div class="wrap column"><em>Privacy</em> Policy</div>
@@ -354,14 +372,17 @@ function getCurrentURL(lang)
 </div><!--content end-->	<!-- center：end -->
 	<!-- foot -->
 				<!--footer-->
-<div class="footer wrap">
-	<p class="link"><a href="http://www.voomga.com/">Home</a> | <a href="http://www.voomga.com/gameslist">Games</a> | <a href="http://www.voomga.com/payment2/mol/">Top-up</a> | <a href="http://forum.voomga.com/" target="_blank">Forums</a> | <a href="http://www.voomga.com/support">Support</a></p>
-	<p class="inc">Copyright 2009-2011 All rights reserved. <a style="color:#3A3A3A;" href="http://www.voomga.com/support/Terms_of_Service/" target="_blank" title="Terms of Service">Terms of Service</a> | <a style="color:#3A3A3A;" href="http://www.voomga.com/support/Privacy_Policy/" target="_blank" title="Privacy Policy">Privacy Policy</a> </p>
-	<div class="logo"><a href="#" target="_blank" title="Gamewave"><img src="http://static.voomga.com/2012/images/logo_gw.png" border="0" alt="Gamewave"></a></div>
+<div class="y_footer">
+	<div class="y_f_main clearfix">
+		<a href="http://www.voomga.com/" class="y_voogma_log_bottom"><img src="http://static.voomga.com/2012/images/logo_vooga.png"></a>
+		<ul>
+			<li class="y_footer_link"><a href="http://www.voomga.com/">Home</a> | <a href="http://www.voomga.com/gameslist">Games</a> | <a href="http://www.voomga.com/payment2/mol/">Top-up</a> | <a href="http://forum.voomga.com/" target="_blank">Forums</a> | <a href="http://www.voomga.com/support">Support</a></li>
+			<li>Copyright 2009-2011 All rights reserved. <a style="color:#3A3A3A;" href="http://www.voomga.com/support/Terms_of_Service/" target="_blank" title="Terms of Service">Terms of Service</a> | <a style="color:#3A3A3A;" href="http://www.voomga.com/support/Privacy_Policy/" target="_blank" title="Privacy Policy">Privacy Policy</a> </li>
+		</ul>
+	</div>
 </div>
 <!--footer end-->
 <script type="text/javascript">
-
   var _gaq = _gaq || [];
   _gaq.push(['_setAccount', 'UA-27186447-3']);
   _gaq.push(['_trackPageview']);
@@ -372,6 +393,13 @@ function getCurrentURL(lang)
     var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
   })();
 </script>
-	
+<script type="text/javascript" src="http://static.voomga.com/2012/js/pageclick.js"></script>
+<script type="text/javascript">
+pageView.domain   = 'http://www.voomga.com/';
+pageView.pageurl   = window.location;
+pageView.soururl   = document.referrer;
+pageView.pagetitle = 'Support - Voomga - Vast gaming experience';
+pageView.pageRedirect();
+</script>	
 
 </body></html>
