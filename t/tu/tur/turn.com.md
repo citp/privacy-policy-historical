@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the turn.com privacy policy that was archived on 2012-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121225035109id_/http%3A//www.turn.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the turn.com privacy policy that was archived on 2013-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130625044302id_/http%3A//www.turn.com/privacy) for the most accurate reproduction.*
 
 # Privacy Guidelines | Turn
 
@@ -174,9 +174,7 @@ back to top
 
 [The Network Advertising Initiative](http://www.networkadvertising.org/index.asp) (NAI) is a coalition of online advertising companies committed to complying with tough self-regulatory standards that establish and reward responsible business and data management practices. Turn is a participating member of NAI and compliant with NAI self-regulation principles. 
 
-[](http://www.export.gov/safeharbor/)
-
-EU Safe Harbor Turn complies with the [U.S.-EU Safe Harbor Framework](http://www.networkadvertising.org/index.asp) as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of Personal Information from European Union member countries. Turn has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view our certification page, please visit <http://www.export.gov/safeharbor/>
+We self-certify compliance with [U.S.-EU Safe Harbor Framework](http://www.networkadvertising.org/index.asp) as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of Personal Information from European Union member countries. Turn has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view our certification page, please visit <http://www.export.gov/safeharbor/>
 
 [The Interactive Advertising Bureau](http://www.iab.net/about_the_iab) is comprised of more than 500 leading media and technology companies that are responsible for selling 86% of online advertising in the United States. On behalf of its members, the IAB is dedicated to the growth of the interactive advertising marketplace, of interactive’s share of total marketing spend, and of its members’ share of total marketing spend.
 
