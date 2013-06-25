@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the easycar.co.uk privacy policy that was archived on 2012-10-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121030011048id_/http%3A//www.easycar.com/nossl/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the easycar.co.uk privacy policy that was archived on 2013-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130625081536id_/http%3A//www.easycar.com/nossl/privacy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy - Car Hire from easyCar.com
 
@@ -24,6 +24,10 @@ Our site uses an order form to enable customers to obtain information and make B
   
 Choice/Opt-out  
 You have the right to ask us not to send you direct marketing material, this can be done by a written request to us. On our e-communications you can also use the unsubscribe function to opt-out of future communications. Once we have properly received your notification, we will take steps to cease using your information in this manner.  
+
+
+Cookies   
+Cookies are small data files that are saved on your computer by websites. Nearly all websites use cookies as they make sites work better, enable site owners to see how their site is used and where they can improve the site to enhance the users experience. These cookies are used to remember activities and any preferences you and your browser have chosen. They are not used to save personal information. Cookies can be controlled and you can decide which cookies are saved and which you want to remove.  
 
 
 Third Party Advertising   
