@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the crooksandliars.com privacy policy that was archived on 2012-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121228095459id_/http%3A//crooksandliars.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the crooksandliars.com privacy policy that was archived on 2013-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130625082836id_/http%3A//crooksandliars.com/privacy) for the most accurate reproduction.*
 
 # Privacy | Crooks and Liars
 
