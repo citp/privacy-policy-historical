@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the macpost.net privacy policy that was archived on 2012-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121101083553id_/http%3A//www.macpost.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the macpost.net privacy policy that was archived on 2013-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130625052737id_/http%3A//www.macpost.net/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Mac Post
+# Mac Post | Privacy Policy | Mac Post
 
 The privacy of our visitors to Macpost.net is important to us. At Macpost.net, we recognize that privacy of your personal information is important. Here is information on what types of personal information we receive and collect when you use visit Macpost.net, and how we safeguard your information. We never sell your personal information to third parties.
 
