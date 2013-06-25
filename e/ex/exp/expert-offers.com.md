@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the expert-offers.com privacy policy that was archived on 2012-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121230194801id_/http%3A//www.sekindo.com/help/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the expert-offers.com privacy policy that was archived on 2013-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130625183115id_/http%3A//www.sekindo.com/help/privacy.php) for the most accurate reproduction.*
 
 # SekiNdo - Privacy Policy
 
@@ -119,4 +119,4 @@
    
    
 [Affiliate Network](https://web.archive.org/)     [Terms of Service](https://web.archive.org/help/terms.php)     [About Us](https://web.archive.org/help/aboutUs.php)     [Contact Us](https://web.archive.org/help/contact.php)     [Press & News](https://web.archive.org/help/press.php)     [How It Works](https://web.archive.org/help/howItWorks.php)     [Q&A](https://web.archive.org/help/faqs.php)     [Privacy Policy](https://web.archive.org/help/privacy.php)     [Fee Schedule](https://web.archive.org/help/fee.php)     [Copyright Policy](https://web.archive.org/help/copyright.php)     [Blog](http://sekindo.wordpress.com/)     [Creative Solutions](https://web.archive.org/advertiser/creative.php)  
-© 2007-2012 SekiNdo. All Rights Reserved 
+© 2007-2013 SekiNdo. All Rights Reserved 
