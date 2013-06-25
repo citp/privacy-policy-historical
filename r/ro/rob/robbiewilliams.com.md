@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the robbiewilliams.com privacy policy that was archived on 2012-10-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121029064336id_/http%3A//www.robbiewilliams.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the robbiewilliams.com privacy policy that was archived on 2013-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130625122644id_/http%3A//www.robbiewilliams.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | RobbieWilliams.com
 
@@ -126,6 +126,7 @@ We use information held about you in the following ways:
   * To prevent or detect fraud or abuses of our site and enable third parties to carry out technical, logistical or other functions on our behalf.
   * If you consent, to notify you by email of our Products, promotions, competitions and special offers that may be of interest to you.
   * To create non personally identifiable reports on the user interaction with our site.
+  * If you have made a purchase from our shop we may occasionally update you on our latest products, news and special offers via e-mail. You have the option to opt-out of receiving marketing communications from us by clicking on the 'Unsubscribe' link in any email communications which we might send you.
 
 
 
