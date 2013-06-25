@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the ahensnest.com privacy policy that was archived on 2012-10-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121029125838id_/http%3A//ahensnest.com/privacy-policy-ahensnestcom) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ahensnest.com privacy policy that was archived on 2013-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130626001826id_/http%3A//ahensnest.com/privacy-policy-ahensnestcom) for the most accurate reproduction.*
 
-# Privacy Policy for ahensnest.com | A Hen's Nest – NW PA Mom Blog
+# Privacy Policy - A Hen's Nest - NW PA Mom Blog
 
 ### Privacy Policy for ahensnest.com
 
-If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at hensnest {at} windstream {dot} net.
+If you require any more information or have any questions about our [privacy policy](http://ahensnest.com/privacy-policy-ahensnestcom "privacy policy"), please feel free to contact us by email at hensnest {at} windstream {dot} net.
 
 At ahensnest.com, the privacy of our visitors is of extreme importance to us. This privacy policy document outlines the types of personal information is received and collected by ahensnest.com and how it is used.
 
@@ -24,7 +24,7 @@ Some of our advertising partners may use cookies and web beacons on our site. Ou
 
 Google Adsense  
 Linkshare  
-[Amazon](http://www.amazon.com/?tag=ahesne-20 "Amazon")  
+Amazon  
 Burst Media  
 ShopAtHome  
 Escalate Network  
