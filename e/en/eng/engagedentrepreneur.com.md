@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the engagedentrepreneur.com privacy policy that was archived on 2012-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121231022832id_/http%3A//www.simplewealth.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the engagedentrepreneur.com privacy policy that was archived on 2013-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130625221233id_/http%3A//www.simplewealth.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | SimpleWealth
 
@@ -28,4 +28,4 @@ SimpleWealth Inc.
 Suite 300, 1716 – 16 Avenue NW  
 Calgary, Alberta, Canada T2M 0L7  
   
-© 2012 SimpleWealth. All Rights Reserved.
+© 2013 SimpleWealth. All Rights Reserved.
