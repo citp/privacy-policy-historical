@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the iuj.ac.jp privacy policy that was archived on 2012-10-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121028073115id_/http%3A//iuj.ac.jp/site/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the iuj.ac.jp privacy policy that was archived on 2013-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130625030556id_/http%3A//iuj.ac.jp/site/privacy) for the most accurate reproduction.*
 
 # IUJ: Privacy Statement
 
