@@ -1,47 +1,85 @@
-<!--The following is the downloaded HTML source of the yipit.com privacy policy that was archived on 2011-12-20.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111220214939id_/http%3A//yipit.com/about/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the yipit.com privacy policy that was archived on 2013-06-25.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130625074444id_/http%3A//yipit.com/about/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en"><head>
+    <meta http-equiv="X-UA-Compatible" content="IE=Edge">
+    
+    <meta name="viewport" content="width=1024">
     
 
-    <title>
-        Privacy Policy | Yipit
-    </title>
+    <script id="twitter-wjs" src="//platform.twitter.com/widgets.js"></script><script type="text/javascript" async="" src="https://api.mixpanel.com/site_media/js/api/mixpanel.2.js"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script>var _sf_startpt=(new Date()).getTime();</script>
+
+    <script>
+
+!function(a,b){var c={isArray:Array.isArray||function(a){return Object.prototype.toString.call(a)==="[object Array]"},isPlainObject:function(a){return Object.prototype.toString.call(a)==="[object Object]"},toArray:function(a){return Array.prototype.slice.call(a)},getKeys:Object.keys||function(a){var b=[],c="";for(c in a)a.hasOwnProperty(c)&&b.push(c);return b},escape:function(a){return a.replace(/[,;"\\=\s%]/g,function(a){return encodeURIComponent(a)})},retrieve:function(a,c){return a===b?c:a}},d=function(){return d.get.apply(d,arguments)};d.defaults={},d.expiresMultiplier=86400,d.set=function(d,e,f){if(c.isPlainObject(d))for(var g in d)d.hasOwnProperty(g)&&this.set(g,d[g],e);else{f=c.isPlainObject(f)?f:{expires:f};var h=f.expires!==b?f.expires:this.defaults.expires||"",i=typeof h;i==="string"&&h!==""?h=new Date(h):i==="number"&&(h=new Date(+(new Date)+1e3*this.expiresMultiplier*h)),h!==""&&"toGMTString"in h&&(h=";expires="+h.toGMTString());var j=f.path||this.defaults.path;j=j?";path="+j:"";var k=f.domain||this.defaults.domain;k=k?";domain="+k:"";var l=f.secure||this.defaults.secure?";secure":"";a.cookie=c.escape(d)+"="+c.escape(e)+h+j+k+l}return this},d.remove=function(a){a=c.isArray(a)?a:c.toArray(arguments);for(var b=0,d=a.length;b<d;b++)this.set(a[b],"",-1);return this},d.empty=function(){return this.remove(c.getKeys(this.all()))},d.get=function(a,d){d=d||b;var e=this.all();if(c.isArray(a)){var f={};for(var g=0,h=a.length;g<h;g++){var i=a[g];f[i]=c.retrieve(e[i],d)}return f}return c.retrieve(e[a],d)},d.all=function(){if(a.cookie==="")return{};var b=a.cookie.split("; "),c={};for(var d=0,e=b.length;d<e;d++){var f=b[d].split("=");c[decodeURIComponent(f[0])]=decodeURIComponent(f[1])}return c},d.enabled=function(){if(navigator.cookieEnabled)return!0;var a=d.set("_","_").get("_")==="_";return d.remove("a"),a},typeof define=="function"&&define.amd?define(function(){return d}):typeof exports!="undefined"?exports.cookie=d:window.cookie=d}(window.document);
 
 
-    <script src="https://secure.quantserve.com/quant.js" async="" type="text/javascript"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript">var _sf_startpt=(new Date()).getTime();</script>
+(function() {
+    var tomorrow = new Date(),
+        oneDay = 1000 * 60 * 60 * 24;
 
-    <link rel="stylesheet" type="text/css" href="http://d22nv2k05ynu7x.cloudfront.net/css/yipit.min.f0ed7482a8014a43.css" media="screen">
-      
+    tomorrow.setTime(tomorrow.getTime() + oneDay);
+    var cookieOptions = {path: '/', expiration: tomorrow};
 
+    if (!cookie.get('landing_page')) {
+        cookie.set('landing_page', location.pathname, cookieOptions);
+    }
 
-    <!--[if lt IE 8]>
-        <link rel="stylesheet" href="http://d22nv2k05ynu7x.cloudfront.net/css/ie.css" type="text/css" media="screen">
-    <![endif]-->
+    if (!cookie.get('orig_referrer')) {
+        cookie.set('orig_referrer', document.referrer, cookieOptions);
+    }
 
-    <link rel="shortcut icon" href="http://d22nv2k05ynu7x.cloudfront.net/img/favicon.ico" type="image/x-icon">
-    <link rel="apple-touch-icon" href="http://d22nv2k05ynu7x.cloudfront.net/img/iphone.png">
+    if (!cookie.get('referrer_code')) {
+        var findXy = /[?&]xy=([^&]+)(?:&|$)/;
+        var xy = location.search.match(findXy) ||
+            document.referrer.match(findXy);
+        cookie.set('referrer_code', xy ? xy[1] : '', cookieOptions);
+    }
 
-    <script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jquery/1.6.4/jquery.min.js"></script>
-    <script>!window.jQuery && document.write(unescape('%3Cscript src="http://d22nv2k05ynu7x.cloudfront.net/js/jquery.min.js"%3E%3C/script%3E'))</script><script src="http://d22nv2k05ynu7x.cloudfront.net/js/jquery.min.js"></script>
+    cookie.set('referrer', document.referrer, cookieOptions);
+})();
 
-    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+</script>
+
+    
+    <title>Privacy Policy | Yipit</title>
+
     <meta name="keywords" content=" Daily, Deals, Groupon, LivingSocial, Tippr">
-    <meta name="description" content="Get all the best daily deals from Groupon, LivingSocial, Tippr in just ONE email that's filtered for the stuff you want.  ">
+    <meta name="description" content="Every daily deal and coupon in ONE email from Groupon, LivingSocial and 800+ others filtered for where you are and what you like.">
     <meta name="robots" content="noarchive,noindex,follow">
+    <meta property="fb:app_id" content="135710706553586">
+
+    <link rel="shortcut icon" href="//c.yipitcdn.com/img/favicon.ico" type="image/x-icon">
 
     
-
-    
-
-    
-
         
-            <script type="text/javascript">
+    
+
+    <script>
+        
+        var yipit = {defer: []};
+        
+        (function() {
+            var t = 'article,footer,header,hgroup,nav,aside'.split(','), i = t.length;
+            while (i--) document.createElement(t[i]);
+
+            
+            var win = window;
+            if (('addEventListener' in win) && location.hash !== '') {
+                win.addEventListener('load', function() {
+                    win.scrollTo(0, 1);
+                });
+            }
+        }());
+    </script>
+
+    
+        
+            <script>
                 var _gaq = _gaq || [];
                 _gaq.push(['_setAccount', 'UA-1967270-3']);
+
                 _gaq.push(['_trackPageview']);
-                _gaq.push(['_trackPageLoadTime']);
 
                 (function() {
                  var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
@@ -49,981 +87,228 @@
                  var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
                 })();
             </script>
+        
+
+        
+        
+            <script>(function(c,a){window.mixpanel=a;var b,d,h,e;b=c.createElement("script");b.type="text/javascript";b.async=!0;b.src=("https:"===c.location.protocol?"https:":"http:")+'//api.mixpanel.com/site_media/js/api/mixpanel.2.js';d=c.getElementsByTagName("script")[0];d.parentNode.insertBefore(b,d);a._i=[];a.init=function(b,c,f){function d(a,b){var c=b.split(".");2==c.length&&(a=a[c[0]],b=c[1]);a[b]=function(){a.push([b].concat(Array.prototype.slice.call(arguments,0)))}}var g=a;"undefined"!==typeof f?g=a[f]=[]:f="mixpanel";g.people=g.people||[];h="disable track track_pageview track_links track_forms register register_once unregister identify name_tag set_config people.set people.increment".split(" ");for(e=0;e<h.length;e++)d(g,h[e]);a._i.push([b,c,f])};a.__SV=1.1})(document,window.mixpanel||[]);
             
-            <!-- Quantcast Tag, part 1 -->
-            <script type="text/javascript">
-                var _qevents = _qevents || [];
-
-                (function() {
-                    var elem = document.createElement('script');
-
-                    elem.src = (document.location.protocol == "https:" ? "https://secure" : "http://edge") + ".quantserve.com/quant.js";
-                    elem.async = true;
-                    elem.type = "text/javascript";
-                    var scpt = document.getElementsByTagName('script')[0];
-                    scpt.parentNode.insertBefore(elem, scpt);  
-                 })();
+                mixpanel.init("9842e9083fd79a5b6bcdd7a85757e615", {track_pageview: false});
+            
             </script>
-            <!-- End Quantcast Tag, part 1 -->
+        
+        
+
+    
+
+    
+        
+        <link rel="stylesheet" href="//d.yipitcdn.com/o/yipit.56deec6e.css">
         
     
 
+    
+    
 
+<script type="text/javascript">var NREUMQ=NREUMQ||[];NREUMQ.push(["mark","firstbyte",new Date().getTime()]);</script></head>
+
+<body class=" body-column-footer">
     
-    
+<div class="main-container">
+
+    <header class="header ">
         
-</head>
 
-<body id="body" onload="">
-    
+        <div class="top-nav">
+            <div class="container">
 
-    <div id="wrapper">
-        <div class="wrap">
-            <div id="header" class="">
+                
+                <div class="header-logo">
+                    <a href="/" title="Yipit" class="header-logo-content">
+                        <span class="header-logo-logo logo-yipit_2"></span>
+                    </a>
+                </div>
                 
 
-                    
-                        <div id="logo">
-                            <a href="/">Yipit</a>
-                        </div>
-                    
-
-                    
-
-                        
-                            <div class="login">
-                                <a href="/ajax/ajax_sign_up/" class="formbutton buttonblue fancyboxForm">Sign Up</a>
-                                <a href="/ajax/login_box/" id="login_box_launch">Login</a>
-                            </div>
-                        
                 
                     
-            
-                    <div class="clear"></div>
+                
 
+                
+                <div class="header-nav">
+
+                    
+
+                    <ul class="header-nav-menu-anonymous">
+                        
+                        <li>
+                            <a href="/ajax/ajax_sign_up/" class="btn js-open-modal no-close-btn" data-modal-context="dailyDeal" data-fancybox-type="inline">Sign Up</a>
+                        </li>
+                        <li>
+                            <a href="/ajax/login_box/" class="link js-open-modal">Login</a>
+                        </li>
+                        
+                    </ul>
+
+                    
+
+                </div>
                 
             </div>
-            
-            
-            
-            
-    
-    
-    
-    
-        <div id="signup">
-            <form method="POST" action="/">
-                <h1><label for="signup-email">Get All The Best 1-Day Deals in Your City </label></h1>
-                
-                
-
-                <p><input name="email" title="Email Address" value="Email Address" class="forminput" type="text" id="signup-email">
-                    <select id="id_city" class="signup-location" name="city">
-<option value="59">Akron/Canton</option>
-<option value="60">Albany</option>
-<option value="62">Allentown/Reading</option>
-<option value="10">Atlanta</option>
-<option value="69">Augusta</option>
-<option value="20">Austin</option>
-<option value="17">Baltimore</option>
-<option value="72">Baton Rouge</option>
-<option value="75">Birmingham</option>
-<option value="77">Boise</option>
-<option value="2">Boston</option>
-<option value="21">Brooklyn </option>
-<option value="40">Buffalo</option>
-<option value="78">Calgary</option>
-<option value="80">Cedar Rapids / Iowa City</option>
-<option value="81">Central Jersey</option>
-<option value="82">Charleston</option>
-<option value="22">Charlotte</option>
-<option value="1">Chicago</option>
-<option value="23">Cincinnati</option>
-<option value="24">Cleveland</option>
-<option value="85">Colorado Springs</option>
-<option value="86">Columbia, SC</option>
-<option value="25">Columbus</option>
-<option value="19">Dallas</option>
-<option value="90">Dayton</option>
-<option value="11">Denver</option>
-<option value="42">Des Moines</option>
-<option value="38">Detroit</option>
-<option value="93">Edmonton</option>
-<option value="94">El Paso</option>
-<option value="215">Fort Collins</option>
-<option value="43">Fort Lauderdale</option>
-<option value="100">Fort Myers / Cape Coral</option>
-<option value="102">Fresno</option>
-<option value="104">Grand Rapids</option>
-<option value="105">Green Bay</option>
-<option value="106">Greenville</option>
-<option value="107">Halifax, Nova Scotia</option>
-<option value="108">Hampton Roads</option>
-<option value="109">Harrisburg / Lancaster</option>
-<option value="110">Hartford</option>
-<option value="111">Honolulu</option>
-<option value="18">Houston</option>
-<option value="112">Huntsville</option>
-<option value="26">Indianapolis</option>
-<option value="115">Jacksonville</option>
-<option value="44">Kansas City</option>
-<option value="120">Kitchener - Waterloo</option>
-<option value="121">Knoxville</option>
-<option value="7">Las Vegas</option>
-<option value="124">Lexington</option>
-<option value="9">London</option>
-<option value="292">London, Canada</option>
-<option value="5">Los Angeles</option>
-<option value="128">Louisville</option>
-<option value="129">Lubbock</option>
-<option value="131">Madison</option>
-<option value="45">Memphis</option>
-<option value="13">Miami</option>
-<option value="39">Milwaukee</option>
-<option value="27">Minneapolis</option>
-<option value="222">Mississauga</option>
-<option value="28">Montreal</option>
-<option value="138">Nashville</option>
-<option value="46">New Orleans</option>
-<option value="4">New York</option>
-<option value="139">North Jersey</option>
-<option value="29">Northern VA</option>
-<option value="30">Oakland</option>
-<option value="140">Ocala</option>
-<option value="47">Oklahoma City</option>
-<option value="142">Omaha</option>
-<option value="31">Orange County</option>
-<option value="48">Orlando</option>
-<option value="143">Ottawa</option>
-<option value="144">Palm Beach</option>
-<option value="221">Palm Springs</option>
-<option value="15">Philadelphia</option>
-<option value="16">Phoenix</option>
-<option value="146">Piedmont Triad</option>
-<option value="49">Pittsburgh</option>
-<option value="32">Portland</option>
-<option value="147">Portland, ME</option>
-<option value="148">Providence</option>
-<option value="33">Raleigh-Durham</option>
-<option value="50">Reno</option>
-<option value="150">Richmond</option>
-<option value="153">Rochester</option>
-<option value="52">Sacramento</option>
-<option value="154">Salem OR</option>
-<option value="53">Salt Lake City</option>
-<option value="54">San Antonio</option>
-<option value="3">San Diego</option>
-<option value="213">San Fernando Valley</option>
-<option value="6">San Francisco</option>
-<option value="34">San Jose</option>
-<option value="156">Santa Barbara</option>
-<option value="158">Santa Cruz</option>
-<option value="14" selected="selected">Seattle</option>
-<option value="162">Shreveport/Bossier</option>
-<option value="164">South Bend</option>
-<option value="1463">South Jersey</option>
-<option value="166">Spokane</option>
-<option value="168">Springfield, MA</option>
-<option value="167">Springfield, MO</option>
-<option value="35">St. Louis</option>
-<option value="171">Stockton</option>
-<option value="173">Syracuse</option>
-<option value="174">Tallahassee</option>
-<option value="55">Tampa St Petersburg</option>
-<option value="175">Toledo</option>
-<option value="36">Toronto</option>
-<option value="177">Tucson</option>
-<option value="178">Tulsa</option>
-<option value="37">Vancouver</option>
-<option value="180">Victoria</option>
-<option value="8">Washington DC</option>
-<option value="183">Wilmington-Newark</option>
-<option value="185">Winnipeg</option>
-<option value="186">Worcester</option>
-</select>
-                    <input type="submit" class="formbutton" value="Subscribe - it's free!"></p>
-                <p class="tag">Never spammed, never shared</p>
-            </form>
+            <div class="nav-bottom-border"></div>
+        </div>
         
-            <div id="recommendedby">
-                <h4>Recommended by</h4>
-                <p><a href="http://www.wired.com/epicenter/2010/02/yipit/" target="_blank"><img width="90" height="19" src="http://d22nv2k05ynu7x.cloudfront.net/img/press-wired-small.png" alt="Wired"></a></p>
-                <p><a href="http://cityroom.blogs.nytimes.com/2009/12/08/looking-for-a-local-deal-go-online/" target="_blank"><img width="128" height="19" src="http://d22nv2k05ynu7x.cloudfront.net/img/press-nytimes-small.png" alt="The New York Times"></a></p>
-                <p><a href="http://techcrunch.com/2010/10/07/daily-deal-aggregator-yipit-confirms-1-3-million-round-led-by-sv-angel-others/" target="_blank"><img width="95" height="14" src="http://d22nv2k05ynu7x.cloudfront.net/img/press-techcrunch-small.png" alt="TechCrunch"></a></p>
+
+        
+
+    </header>
+
+    
+
+
+    
+    <div class="container row" role="main">
+      
+    <div class="row">
+        <aside class="span3">
+            <div id="left-navigation" class="dark-navigation">
+                
+  <div class="facet">
+    <div class="title">About Yipit</div>
+    <ul>
+      <li><a title="About" href="/about/">About</a> </li>
+      <li><a title="Team Yipit" href="/about/team/">Team</a></li>
+      <li><a title="Jobs" href="/jobs/">Jobs</a></li>
+      <li><a title="Businesses" href="/businesses/">Work With Us</a></li>
+      <li><a title="Data" href="/data/">Data</a> </li>
+      <li><a title="Press" href="/about/press/">Press</a></li>
+      <li><a title="Api" href="/about/api/">API</a></li>
+      <li><a title="FAQ" href="/about/faq/">FAQ</a></li>
+      <li><a title="Contact Us" href="/about/contact/">Contact Us</a></li>
+    </ul>
+  </div>
+
             </div>
-        </div>
-    
-        <div id="slider">
-            <div id="close"><img width="25" height="25" src="http://d22nv2k05ynu7x.cloudfront.net/img/x.png"></div>
-        
-            <h3 id="slider_header">We expect another  deal soon.</h3>
-        
-            <form method="POST" action="/">
-                <h4><label for="signup-email">Sign up to find out when it happens:</label></h4>
-            
-                
-                
-                <p>
-                    <input name="email" title="Email Address" value="Email Address" class="forminput" type="text" id="signup-email">
-                    <select id="id_city" class="signup-location" name="city">
-<option value="59">Akron/Canton</option>
-<option value="60">Albany</option>
-<option value="62">Allentown/Reading</option>
-<option value="10">Atlanta</option>
-<option value="69">Augusta</option>
-<option value="20">Austin</option>
-<option value="17">Baltimore</option>
-<option value="72">Baton Rouge</option>
-<option value="75">Birmingham</option>
-<option value="77">Boise</option>
-<option value="2">Boston</option>
-<option value="21">Brooklyn </option>
-<option value="40">Buffalo</option>
-<option value="78">Calgary</option>
-<option value="80">Cedar Rapids / Iowa City</option>
-<option value="81">Central Jersey</option>
-<option value="82">Charleston</option>
-<option value="22">Charlotte</option>
-<option value="1">Chicago</option>
-<option value="23">Cincinnati</option>
-<option value="24">Cleveland</option>
-<option value="85">Colorado Springs</option>
-<option value="86">Columbia, SC</option>
-<option value="25">Columbus</option>
-<option value="19">Dallas</option>
-<option value="90">Dayton</option>
-<option value="11">Denver</option>
-<option value="42">Des Moines</option>
-<option value="38">Detroit</option>
-<option value="93">Edmonton</option>
-<option value="94">El Paso</option>
-<option value="215">Fort Collins</option>
-<option value="43">Fort Lauderdale</option>
-<option value="100">Fort Myers / Cape Coral</option>
-<option value="102">Fresno</option>
-<option value="104">Grand Rapids</option>
-<option value="105">Green Bay</option>
-<option value="106">Greenville</option>
-<option value="107">Halifax, Nova Scotia</option>
-<option value="108">Hampton Roads</option>
-<option value="109">Harrisburg / Lancaster</option>
-<option value="110">Hartford</option>
-<option value="111">Honolulu</option>
-<option value="18">Houston</option>
-<option value="112">Huntsville</option>
-<option value="26">Indianapolis</option>
-<option value="115">Jacksonville</option>
-<option value="44">Kansas City</option>
-<option value="120">Kitchener - Waterloo</option>
-<option value="121">Knoxville</option>
-<option value="7">Las Vegas</option>
-<option value="124">Lexington</option>
-<option value="9">London</option>
-<option value="292">London, Canada</option>
-<option value="5">Los Angeles</option>
-<option value="128">Louisville</option>
-<option value="129">Lubbock</option>
-<option value="131">Madison</option>
-<option value="45">Memphis</option>
-<option value="13">Miami</option>
-<option value="39">Milwaukee</option>
-<option value="27">Minneapolis</option>
-<option value="222">Mississauga</option>
-<option value="28">Montreal</option>
-<option value="138">Nashville</option>
-<option value="46">New Orleans</option>
-<option value="4">New York</option>
-<option value="139">North Jersey</option>
-<option value="29">Northern VA</option>
-<option value="30">Oakland</option>
-<option value="140">Ocala</option>
-<option value="47">Oklahoma City</option>
-<option value="142">Omaha</option>
-<option value="31">Orange County</option>
-<option value="48">Orlando</option>
-<option value="143">Ottawa</option>
-<option value="144">Palm Beach</option>
-<option value="221">Palm Springs</option>
-<option value="15">Philadelphia</option>
-<option value="16">Phoenix</option>
-<option value="146">Piedmont Triad</option>
-<option value="49">Pittsburgh</option>
-<option value="32">Portland</option>
-<option value="147">Portland, ME</option>
-<option value="148">Providence</option>
-<option value="33">Raleigh-Durham</option>
-<option value="50">Reno</option>
-<option value="150">Richmond</option>
-<option value="153">Rochester</option>
-<option value="52">Sacramento</option>
-<option value="154">Salem OR</option>
-<option value="53">Salt Lake City</option>
-<option value="54">San Antonio</option>
-<option value="3">San Diego</option>
-<option value="213">San Fernando Valley</option>
-<option value="6">San Francisco</option>
-<option value="34">San Jose</option>
-<option value="156">Santa Barbara</option>
-<option value="158">Santa Cruz</option>
-<option value="14" selected="selected">Seattle</option>
-<option value="162">Shreveport/Bossier</option>
-<option value="164">South Bend</option>
-<option value="1463">South Jersey</option>
-<option value="166">Spokane</option>
-<option value="168">Springfield, MA</option>
-<option value="167">Springfield, MO</option>
-<option value="35">St. Louis</option>
-<option value="171">Stockton</option>
-<option value="173">Syracuse</option>
-<option value="174">Tallahassee</option>
-<option value="55">Tampa St Petersburg</option>
-<option value="175">Toledo</option>
-<option value="36">Toronto</option>
-<option value="177">Tucson</option>
-<option value="178">Tulsa</option>
-<option value="37">Vancouver</option>
-<option value="180">Victoria</option>
-<option value="8">Washington DC</option>
-<option value="183">Wilmington-Newark</option>
-<option value="185">Winnipeg</option>
-<option value="186">Worcester</option>
-</select>
-                    <input type="submit" class="formbutton" value="Subscribe - it's free!"></p>
-                <p class="tag">Never spammed, never shared</p>
-            </form>
-        </div>
-    
-    
-    
-    
 
-<div id="about-wrap">
-    
-    <div id="about-sidebar">
-        <ul>            
-            <li><a href="/about/">About Yipit</a> </li>
-            <li><a href="/about/team/">Team Yipit</a></li>
-            <li><a href="/about/logos_photos/">Logos and Photos</a></li>
-            <li><a href="/about/press/">Recent Press</a></li>
-            <li><a href="/about/contact/">Contact Us</a></li>
-            <li><a href="/jobs/">Jobs</a></li>
-            <li><a href="/about/daily_deal_sites/">Daily Deal Sites</a></li>    
-            <li class="last"><a href="/about/businesses/">Businesses</a></li>
-        </ul>
-    </div>
-    
-    <div id="about-content-wrap">
             
-<div id="about-content">
-    <h1>Privacy Policy</h1>
-            <p>Yipit cares about your privacy and takes it very seriously. Please read the following to learn more about our privacy policy. By visiting the Yipit website, you are accepting the practices outlined in this Privacy Policy.</p>
-            <h4>What does this Privacy Policy cover?</h4>
-            <p>This Privacy Policy covers Yipit's treatment of personal information that Yipit gathers when you are on the Yipit website and when you use Yipit services.</p>
-            <p>This policy does not apply to the practices of third parties that Yipit does not own or control, or to individuals that Yipit does not employ or manage.</p>
-            <h4>What personal information about users does Yipit collect?</h4>
-            <p>Our primary goal in collecting personal information is to provide you with a friendly, customized, and efficient experience. We only collect personal information that is relevant to the purpose of our website. We do not process this information in a way that is incompatible with the purpose for which it has been collected or subsequently authorized by you. </p>
-            <p>Yipit collects personally identifying information during the registration process, including name, email address, address, gender, store preferences etc. Yipit also may, on occasion collect user preference information (such as items clicked from emails), to be used for internal research purposes. We may also store information users knowingly provide such as feedback forms, suggestions, and emails to the Yipit website. Yipit may use such information for its internal purposes, including, but not limited to, email and web design optimizations, new features, and editorial and feedback purposes. Information entered may be aggregated across all users in order to determine and target demographics for marketing and advertising purposes.</p>
-            <p>All user information stored by Yipit is considered confidential and will not be shared with outside parties. Yipit may share aggregated results of preferences for all users for marketing and advertising purposes.</p>
-            <p>If you object to such use for any reason, you can either let us know by sending us feedback, or you can unsubscribe from the Yipit email service.</p>
-            <p>Many companies offer programs that help you to visit websites anonymously. While Yipit will not be able to provide you with a personalized experience if we cannot recognize you, we want you to be aware that these programs are available.</p>
-            <h4>What about cookies?</h4>
-            <p>Cookies are alphanumeric identifiers that we transfer to your computer's hard drive through your Web browser to enable our systems to recognize your browser and tell us how and when pages in our website are visited and by how many people. Yipit cookies do not collect personal information, and we do not combine information collected through cookies with other personal information to tell us who you are or what your screen name or email address is.</p>
-            <p>The "help" portion of the toolbar on the majority of browsers will direct you on how to prevent your browser from accepting new cookies, how to command the browser to tell you when you receive a new cookie, or how to fully disable cookies. We strongly recommend that you leave the cookies activated, however, because cookies enable you to take advantage of some of Yipit's most attractive features.</p>
-            <p>Some of our business partners may use cookies on our website (for example, advertisers). However, we have no access to or control over these cookies.</p>
-            <h4>Will Yipit share any of the information it receives?</h4>
-            <p>Information about our users is an integral part of our business. We neither rent nor sell your personal information to anyone. We share your personal information only as described below.</p>
-            <p>Protection of Yipit and others: We may release personal information when we believe in good faith that release is necessary to comply with that law; enforce or apply our conditions of use and other agreements; or protect the rights, property, or safety of Yipit, our employees, our users, or others.</p>
-            <p>With your consent: Except as set forth above, you will be notified when your personal information may be shared with third parties or used for a purpose incompatible with the purpose(s) for which it was originally collected, and you will be able to prevent the sharing of this information by opting out.</p>
-            <h4>Is information about me secure?</h4>
-            <p>Your Yipit account information is protected by a password for your privacy and security. You need to work to protect against unauthorized access to your password and to your computer by logging off once you have finished using a shared computer.</p>
-            <h4>Links to Other Sites</h4>
-            <p>Yipit uses links to guide you toward valuable products, services and editorial. We are not responsible for any content that appears on these sites, nor do we endorse them. For questions about these sites, please consult their individual privacy policies.</p>
-            <p></p>
-            <h4>Age Appropriate Content</h4>
-            <p>Yipit is not intended for use by children, especially those under age 13. No one under age 13 is allowed to use the site, provide any personal information or receive our email distributions. Minors between the ages of 13 and 17 must get the permission of their parent(s)or legal guardian(s) before viewing the website or receiving emails.</p>
-            <p></p>
-            <h4>How do I Unsubscribe?</h4>
-            <p> To unsubscribe, click on the unsubscribe link in any Yipit email. You will be taken to a confirmation page. Click on the confirm link and you will be unsubscribed. You can also unsubscribe by sending an email to <a href="mailto:unsubscribe@yipit.com">unsubscribe@yipit.com</a>.</p>
-            <p>As explained earlier, the "help" portion of the toolbar on the majority of browsers will direct you on how to prevent your browser from accepting new cookies, how to command the browser to tell you when you receive a new cookie, or how to fully disable cookies. Please note, however, that if your browser does not accept cookies, you will not be able to take advantage of some of our attractive features.</p>
-            <h4>Conditions of use</h4>
-            <p>If you decide to visit Yipit website, your visit and any possible dispute over privacy is subject to this Privacy Policy and our <a href="/about/terms/">Terms of Use</a>, including limitations on damages, arbitration of disputes, and application of New York state law.</p>
-            <p>If you have any other questions about our privacy policy, shoot an email to <a href="mailto:privacy@yipit.com">privacy@yipit.com</a>.</p>
-            <h4>Modifications to Privacy Policy</h4>
-            <p>Yipit reserves the right to change this policy from time to time, however, all changes will be posted to this Privacy Policy at the time such changes are made. The date of the most recent revisions will appear on this page so please check back. Please note that continued access of Yipit will constitute your acceptance of any changes or revisions to the Privacy Policy.</p>
-            <p>If you have concerns or questions about any aspect of the Yipit Privacy Policy, please e-mail us. We welcome your questions and feedback. Please send all emails to: <a href="mailto:privacy@yipit.com">privacy@yipit.com</a>. Our corporate mailing address is Yipit, Inc., 902 Broadway, 4th Fl, c/o General Assembly, New York, NY 10010.</p>
-            <p>Last modified: January 12, 2011.</p>
+
+
+
+
+<div class="column-footer">
+
+  
+<div class="social-buttons">
+  <iframe src="//www.facebook.com/plugins/like.php?href=http%3A%2F%2Fyipit.com&amp;send=false&amp;layout=button_count&amp;width=230&amp;show_faces=false&amp;action=like&amp;colorscheme=light&amp;font&amp;height=21&amp;appId=161222704006014" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:230px; height:21px;" allowtransparency="true"></iframe>
+  <a href="https://twitter.com/Yipit" class="twitter-follow-button" data-show-count="true" data-show-screen-name="false">Follow @Yipit</a>
+  <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="//platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
 </div>
 
-    </div>
-
-    <div class="clear"></div>
-
+  <ul>
+    <li><a title="About Yipit" href="/about/">About</a></li>
+    <li><a title="Contact Us" href="/about/contact/">Contact Us</a></li>
+    <li><a title="Work With Us" href="/businesses/">Work With Us</a></li>
+    <li><a title="Help" href="/about/faq/">Help</a></li>
+    <li><a title="Yipit API" href="/about/api/">API</a></li>
+    <li><a title="Yipit Data" href="/data/">Yipit Data</a></li>
+    <li><a title="Sitemap" href="/sitemap/">Sitemap</a></li>
+    <li><a title="See all the available cities" href="/cities/">More Cities</a></li>
+    <li><a title="Terms of Use" href="/about/terms/">Terms</a></li>
+    <li><a title="Privacy Policy" href="/about/privacy/">Privacy</a></li>
+  </ul>
+  <p>© 2013 Yipit</p>
 </div>
 
 
-    
-    <div class="clear"></div> 
+        </aside>
 
-
-        </div>
-    </div>
-
-    <div class="clear"></div>
-
-    
-
-    <div id="footer">
-        <div class="wrap">
-            
-
-                
-                
-
-                <div id="footer-menu">
-                    <h5>Cities</h5>
-                    <ul>
-                        
-                        <li><a href="/akroncanton/">Akron/Canton</a></li>
-                        
-                        <li><a href="/albany/">Albany</a></li>
-                        
-                        <li><a href="/allentownreading/">Allentown/Reading</a></li>
-                        
-                        <li><a href="/atlanta/">Atlanta</a></li>
-                        
-                        <li><a href="/augusta/">Augusta</a></li>
-                        
-                        <li><a href="/austin/">Austin</a></li>
-                        
-                        <li><a href="/baltimore/">Baltimore</a></li>
-                        
-                        <li><a href="/baton-rouge/">Baton Rouge</a></li>
-                        
-                        <li><a href="/birmingham/">Birmingham</a></li>
-                        
-                        <li><a href="/boise/">Boise</a></li>
-                        
-                        <li><a href="/boston/">Boston</a></li>
-                        
-                        <li><a href="/brooklyn/">Brooklyn </a></li>
-                        
-                        <li><a href="/buffalo/">Buffalo</a></li>
-                        
-                        <li><a href="/calgary/">Calgary</a></li>
-                        
-                        <li><a href="/cedar-rapids-iowa-city/">Cedar Rapids / Iowa City</a></li>
-                        
-                        <li><a href="/central-jersey/">Central Jersey</a></li>
-                        
-                        <li><a href="/charleston/">Charleston</a></li>
-                        
-                        <li><a href="/charlotte/">Charlotte</a></li>
-                        
-                        <li><a href="/chicago/">Chicago</a></li>
-                        
-                        <li><a href="/cincinnati/">Cincinnati</a></li>
-                        
-                        <li><a href="/cleveland/">Cleveland</a></li>
-                        
-                        <li><a href="/colorado-springs/">Colorado Springs</a></li>
-                        
-                        <li><a href="/columbia-sc/">Columbia, SC</a></li>
-                        
-                        <li><a href="/columbus/">Columbus</a></li>
-                        
-                        <li><a href="/dallas/">Dallas</a></li>
-                        
-                        <li><a href="/dayton/">Dayton</a></li>
-                        
-                        <li><a href="/denver/">Denver</a></li>
-                        
-                        <li><a href="/des-moines/">Des Moines</a></li>
-                        
-                        <li><a href="/detroit/">Detroit</a></li>
-                        
-                        <li><a href="/edmonton/">Edmonton</a></li>
-                        
-                        <li><a href="/el-paso/">El Paso</a></li>
-                        
-                        <li><a href="/fort-collins/">Fort Collins</a></li>
-                        
-                        <li><a href="/fort-lauderdale/">Fort Lauderdale</a></li>
-                        
-                        <li><a href="/fort-myers-cape-coral/">Fort Myers / Cape Coral</a></li>
-                        
-                        <li><a href="/fresno/">Fresno</a></li>
-                        
-                        <li><a href="/grand-rapids/">Grand Rapids</a></li>
-                        
-                        <li><a href="/green-bay/">Green Bay</a></li>
-                        
-                        <li><a href="/greenville/">Greenville</a></li>
-                        
-                        <li><a href="/halifax-nova-scotia/">Halifax, Nova Scotia</a></li>
-                        
-                        <li><a href="/hampton-roads/">Hampton Roads</a></li>
-                        
-                        <li><a href="/harrisburg-lancaster/">Harrisburg / Lancaster</a></li>
-                        
-                        <li><a href="/hartford/">Hartford</a></li>
-                        
-                        <li><a href="/honolulu/">Honolulu</a></li>
-                        
-                        <li><a href="/houston/">Houston</a></li>
-                        
-                        <li><a href="/huntsville/">Huntsville</a></li>
-                        
-                        <li><a href="/indianapolis/">Indianapolis</a></li>
-                        
-                        <li><a href="/jacksonville/">Jacksonville</a></li>
-                        
-                        <li><a href="/kansas-city/">Kansas City</a></li>
-                        
-                        <li><a href="/kitchener-waterloo/">Kitchener - Waterloo</a></li>
-                        
-                        <li><a href="/knoxville/">Knoxville</a></li>
-                        
-                        <li><a href="/las-vegas/">Las Vegas</a></li>
-                        
-                        <li><a href="/lexington/">Lexington</a></li>
-                        
-                        <li><a href="/london/">London</a></li>
-                        
-                        <li><a href="/london-canada/">London, Canada</a></li>
-                        
-                        <li><a href="/los-angeles/">Los Angeles</a></li>
-                        
-                        <li><a href="/louisville/">Louisville</a></li>
-                        
-                        <li><a href="/lubbock/">Lubbock</a></li>
-                        
-                        <li><a href="/madison/">Madison</a></li>
-                        
-                        <li><a href="/memphis/">Memphis</a></li>
-                        
-                        <li><a href="/miami/">Miami</a></li>
-                        
-                        <li><a href="/milwaukee/">Milwaukee</a></li>
-                        
-                        <li><a href="/minneapolis/">Minneapolis</a></li>
-                        
-                        <li><a href="/mississauga/">Mississauga</a></li>
-                        
-                        <li><a href="/montreal/">Montreal</a></li>
-                        
-                        <li><a href="/nashville/">Nashville</a></li>
-                        
-                        <li><a href="/new-orleans/">New Orleans</a></li>
-                        
-                        <li><a href="/new-york/">New York</a></li>
-                        
-                        <li><a href="/north-jersey/">North Jersey</a></li>
-                        
-                        <li><a href="/northern-va/">Northern VA</a></li>
-                        
-                        <li><a href="/oakland/">Oakland</a></li>
-                        
-                        <li><a href="/ocala/">Ocala</a></li>
-                        
-                        <li><a href="/oklahoma-city/">Oklahoma City</a></li>
-                        
-                        <li><a href="/omaha/">Omaha</a></li>
-                        
-                        <li><a href="/orange-county/">Orange County</a></li>
-                        
-                        <li><a href="/orlando/">Orlando</a></li>
-                        
-                        <li><a href="/ottawa/">Ottawa</a></li>
-                        
-                        <li><a href="/palm-beach/">Palm Beach</a></li>
-                        
-                        <li><a href="/palm-springs/">Palm Springs</a></li>
-                        
-                        <li><a href="/philadelphia/">Philadelphia</a></li>
-                        
-                        <li><a href="/phoenix/">Phoenix</a></li>
-                        
-                        <li><a href="/piedmont-triad/">Piedmont Triad</a></li>
-                        
-                        <li><a href="/pittsburgh/">Pittsburgh</a></li>
-                        
-                        <li><a href="/portland/">Portland</a></li>
-                        
-                        <li><a href="/portland-me/">Portland, ME</a></li>
-                        
-                        <li><a href="/providence/">Providence</a></li>
-                        
-                        <li><a href="/raleigh-durham/">Raleigh-Durham</a></li>
-                        
-                        <li><a href="/reno/">Reno</a></li>
-                        
-                        <li><a href="/richmond/">Richmond</a></li>
-                        
-                        <li><a href="/rochester/">Rochester</a></li>
-                        
-                        <li><a href="/sacramento/">Sacramento</a></li>
-                        
-                        <li><a href="/salem-or/">Salem OR</a></li>
-                        
-                        <li><a href="/salt-lake-city/">Salt Lake City</a></li>
-                        
-                        <li><a href="/san-antonio/">San Antonio</a></li>
-                        
-                        <li><a href="/san-diego/">San Diego</a></li>
-                        
-                        <li><a href="/san-fernando-valley/">San Fernando Valley</a></li>
-                        
-                        <li><a href="/san-francisco/">San Francisco</a></li>
-                        
-                        <li><a href="/san-jose/">San Jose</a></li>
-                        
-                        <li><a href="/santa-barbara/">Santa Barbara</a></li>
-                        
-                        <li><a href="/santa-cruz/">Santa Cruz</a></li>
-                        
-                        <li><a href="/seattle/">Seattle</a></li>
-                        
-                        <li><a href="/shreveportbossier/">Shreveport/Bossier</a></li>
-                        
-                        <li><a href="/south-bend/">South Bend</a></li>
-                        
-                        <li><a href="/south-jersey/">South Jersey</a></li>
-                        
-                        <li><a href="/spokane/">Spokane</a></li>
-                        
-                        <li><a href="/springfield-ma/">Springfield, MA</a></li>
-                        
-                        <li><a href="/springfield-mo/">Springfield, MO</a></li>
-                        
-                        <li><a href="/st-louis/">St. Louis</a></li>
-                        
-                        <li><a href="/stockton/">Stockton</a></li>
-                        
-                        <li><a href="/syracuse/">Syracuse</a></li>
-                        
-                        <li><a href="/tallahassee/">Tallahassee</a></li>
-                        
-                        <li><a href="/tampa-st-petersburg/">Tampa St Petersburg</a></li>
-                        
-                        <li><a href="/toledo/">Toledo</a></li>
-                        
-                        <li><a href="/toronto/">Toronto</a></li>
-                        
-                        <li><a href="/tucson/">Tucson</a></li>
-                        
-                        <li><a href="/tulsa/">Tulsa</a></li>
-                        
-                        <li><a href="/vancouver/">Vancouver</a></li>
-                        
-                        <li><a href="/victoria/">Victoria</a></li>
-                        
-                        <li><a href="/washington-dc/">Washington DC</a></li>
-                        
-                        <li><a href="/wilmington-newark/">Wilmington-Newark</a></li>
-                        
-                        <li><a href="/winnipeg/">Winnipeg</a></li>
-                        
-                        <li><a href="/worcester/">Worcester</a></li>
-                        
-                    </ul>
-
-                    <h5>Deals</h5>
-                    <ul>
-                        
-                            <li><a href="/akroncanton/deal_directory/">Akron/Canton</a></li>
-                        
-                            <li><a href="/albany/deal_directory/">Albany</a></li>
-                        
-                            <li><a href="/allentownreading/deal_directory/">Allentown/Reading</a></li>
-                        
-                            <li><a href="/atlanta/deal_directory/">Atlanta</a></li>
-                        
-                            <li><a href="/augusta/deal_directory/">Augusta</a></li>
-                        
-                            <li><a href="/austin/deal_directory/">Austin</a></li>
-                        
-                            <li><a href="/baltimore/deal_directory/">Baltimore</a></li>
-                        
-                            <li><a href="/baton-rouge/deal_directory/">Baton Rouge</a></li>
-                        
-                            <li><a href="/birmingham/deal_directory/">Birmingham</a></li>
-                        
-                            <li><a href="/boise/deal_directory/">Boise</a></li>
-                        
-                            <li><a href="/boston/deal_directory/">Boston</a></li>
-                        
-                            
-                        
-                            <li><a href="/buffalo/deal_directory/">Buffalo</a></li>
-                        
-                            <li><a href="/calgary/deal_directory/">Calgary</a></li>
-                        
-                            <li><a href="/cedar-rapids-iowa-city/deal_directory/">Cedar Rapids / Iowa City</a></li>
-                        
-                            <li><a href="/central-jersey/deal_directory/">Central Jersey</a></li>
-                        
-                            <li><a href="/charleston/deal_directory/">Charleston</a></li>
-                        
-                            <li><a href="/charlotte/deal_directory/">Charlotte</a></li>
-                        
-                            <li><a href="/chicago/deal_directory/">Chicago</a></li>
-                        
-                            <li><a href="/cincinnati/deal_directory/">Cincinnati</a></li>
-                        
-                            <li><a href="/cleveland/deal_directory/">Cleveland</a></li>
-                        
-                            <li><a href="/colorado-springs/deal_directory/">Colorado Springs</a></li>
-                        
-                            <li><a href="/columbia-sc/deal_directory/">Columbia, SC</a></li>
-                        
-                            <li><a href="/columbus/deal_directory/">Columbus</a></li>
-                        
-                            <li><a href="/dallas/deal_directory/">Dallas</a></li>
-                        
-                            <li><a href="/dayton/deal_directory/">Dayton</a></li>
-                        
-                            <li><a href="/denver/deal_directory/">Denver</a></li>
-                        
-                            <li><a href="/des-moines/deal_directory/">Des Moines</a></li>
-                        
-                            <li><a href="/detroit/deal_directory/">Detroit</a></li>
-                        
-                            <li><a href="/edmonton/deal_directory/">Edmonton</a></li>
-                        
-                            <li><a href="/el-paso/deal_directory/">El Paso</a></li>
-                        
-                            <li><a href="/fort-collins/deal_directory/">Fort Collins</a></li>
-                        
-                            <li><a href="/fort-lauderdale/deal_directory/">Fort Lauderdale</a></li>
-                        
-                            <li><a href="/fort-myers-cape-coral/deal_directory/">Fort Myers / Cape Coral</a></li>
-                        
-                            <li><a href="/fresno/deal_directory/">Fresno</a></li>
-                        
-                            <li><a href="/grand-rapids/deal_directory/">Grand Rapids</a></li>
-                        
-                            <li><a href="/green-bay/deal_directory/">Green Bay</a></li>
-                        
-                            <li><a href="/greenville/deal_directory/">Greenville</a></li>
-                        
-                            <li><a href="/halifax-nova-scotia/deal_directory/">Halifax, Nova Scotia</a></li>
-                        
-                            <li><a href="/hampton-roads/deal_directory/">Hampton Roads</a></li>
-                        
-                            <li><a href="/harrisburg-lancaster/deal_directory/">Harrisburg / Lancaster</a></li>
-                        
-                            <li><a href="/hartford/deal_directory/">Hartford</a></li>
-                        
-                            <li><a href="/honolulu/deal_directory/">Honolulu</a></li>
-                        
-                            <li><a href="/houston/deal_directory/">Houston</a></li>
-                        
-                            <li><a href="/huntsville/deal_directory/">Huntsville</a></li>
-                        
-                            <li><a href="/indianapolis/deal_directory/">Indianapolis</a></li>
-                        
-                            <li><a href="/jacksonville/deal_directory/">Jacksonville</a></li>
-                        
-                            <li><a href="/kansas-city/deal_directory/">Kansas City</a></li>
-                        
-                            <li><a href="/kitchener-waterloo/deal_directory/">Kitchener - Waterloo</a></li>
-                        
-                            <li><a href="/knoxville/deal_directory/">Knoxville</a></li>
-                        
-                            <li><a href="/las-vegas/deal_directory/">Las Vegas</a></li>
-                        
-                            <li><a href="/lexington/deal_directory/">Lexington</a></li>
-                        
-                            
-                        
-                            <li><a href="/london-canada/deal_directory/">London, Canada</a></li>
-                        
-                            <li><a href="/los-angeles/deal_directory/">Los Angeles</a></li>
-                        
-                            <li><a href="/louisville/deal_directory/">Louisville</a></li>
-                        
-                            <li><a href="/lubbock/deal_directory/">Lubbock</a></li>
-                        
-                            <li><a href="/madison/deal_directory/">Madison</a></li>
-                        
-                            <li><a href="/memphis/deal_directory/">Memphis</a></li>
-                        
-                            <li><a href="/miami/deal_directory/">Miami</a></li>
-                        
-                            <li><a href="/milwaukee/deal_directory/">Milwaukee</a></li>
-                        
-                            <li><a href="/minneapolis/deal_directory/">Minneapolis</a></li>
-                        
-                            <li><a href="/mississauga/deal_directory/">Mississauga</a></li>
-                        
-                            <li><a href="/montreal/deal_directory/">Montreal</a></li>
-                        
-                            <li><a href="/nashville/deal_directory/">Nashville</a></li>
-                        
-                            <li><a href="/new-orleans/deal_directory/">New Orleans</a></li>
-                        
-                            <li><a href="/new-york/deal_directory/">New York</a></li>
-                        
-                            <li><a href="/north-jersey/deal_directory/">North Jersey</a></li>
-                        
-                            
-                        
-                            <li><a href="/oakland/deal_directory/">Oakland</a></li>
-                        
-                            <li><a href="/ocala/deal_directory/">Ocala</a></li>
-                        
-                            <li><a href="/oklahoma-city/deal_directory/">Oklahoma City</a></li>
-                        
-                            <li><a href="/omaha/deal_directory/">Omaha</a></li>
-                        
-                            <li><a href="/orange-county/deal_directory/">Orange County</a></li>
-                        
-                            <li><a href="/orlando/deal_directory/">Orlando</a></li>
-                        
-                            <li><a href="/ottawa/deal_directory/">Ottawa</a></li>
-                        
-                            <li><a href="/palm-beach/deal_directory/">Palm Beach</a></li>
-                        
-                            <li><a href="/palm-springs/deal_directory/">Palm Springs</a></li>
-                        
-                            <li><a href="/philadelphia/deal_directory/">Philadelphia</a></li>
-                        
-                            <li><a href="/phoenix/deal_directory/">Phoenix</a></li>
-                        
-                            <li><a href="/piedmont-triad/deal_directory/">Piedmont Triad</a></li>
-                        
-                            <li><a href="/pittsburgh/deal_directory/">Pittsburgh</a></li>
-                        
-                            <li><a href="/portland/deal_directory/">Portland</a></li>
-                        
-                            <li><a href="/portland-me/deal_directory/">Portland, ME</a></li>
-                        
-                            <li><a href="/providence/deal_directory/">Providence</a></li>
-                        
-                            <li><a href="/raleigh-durham/deal_directory/">Raleigh-Durham</a></li>
-                        
-                            <li><a href="/reno/deal_directory/">Reno</a></li>
-                        
-                            <li><a href="/richmond/deal_directory/">Richmond</a></li>
-                        
-                            <li><a href="/rochester/deal_directory/">Rochester</a></li>
-                        
-                            <li><a href="/sacramento/deal_directory/">Sacramento</a></li>
-                        
-                            <li><a href="/salem-or/deal_directory/">Salem OR</a></li>
-                        
-                            <li><a href="/salt-lake-city/deal_directory/">Salt Lake City</a></li>
-                        
-                            <li><a href="/san-antonio/deal_directory/">San Antonio</a></li>
-                        
-                            <li><a href="/san-diego/deal_directory/">San Diego</a></li>
-                        
-                            <li><a href="/san-fernando-valley/deal_directory/">San Fernando Valley</a></li>
-                        
-                            <li><a href="/san-francisco/deal_directory/">San Francisco</a></li>
-                        
-                            <li><a href="/san-jose/deal_directory/">San Jose</a></li>
-                        
-                            <li><a href="/santa-barbara/deal_directory/">Santa Barbara</a></li>
-                        
-                            <li><a href="/santa-cruz/deal_directory/">Santa Cruz</a></li>
-                        
-                            <li><a href="/seattle/deal_directory/">Seattle</a></li>
-                        
-                            <li><a href="/shreveportbossier/deal_directory/">Shreveport/Bossier</a></li>
-                        
-                            <li><a href="/south-bend/deal_directory/">South Bend</a></li>
-                        
-                            <li><a href="/south-jersey/deal_directory/">South Jersey</a></li>
-                        
-                            <li><a href="/spokane/deal_directory/">Spokane</a></li>
-                        
-                            <li><a href="/springfield-ma/deal_directory/">Springfield, MA</a></li>
-                        
-                            <li><a href="/springfield-mo/deal_directory/">Springfield, MO</a></li>
-                        
-                            <li><a href="/st-louis/deal_directory/">St. Louis</a></li>
-                        
-                            <li><a href="/stockton/deal_directory/">Stockton</a></li>
-                        
-                            <li><a href="/syracuse/deal_directory/">Syracuse</a></li>
-                        
-                            <li><a href="/tallahassee/deal_directory/">Tallahassee</a></li>
-                        
-                            <li><a href="/tampa-st-petersburg/deal_directory/">Tampa St Petersburg</a></li>
-                        
-                            <li><a href="/toledo/deal_directory/">Toledo</a></li>
-                        
-                            <li><a href="/toronto/deal_directory/">Toronto</a></li>
-                        
-                            <li><a href="/tucson/deal_directory/">Tucson</a></li>
-                        
-                            <li><a href="/tulsa/deal_directory/">Tulsa</a></li>
-                        
-                            <li><a href="/vancouver/deal_directory/">Vancouver</a></li>
-                        
-                            <li><a href="/victoria/deal_directory/">Victoria</a></li>
-                        
-                            <li><a href="/washington-dc/deal_directory/">Washington DC</a></li>
-                        
-                            <li><a href="/wilmington-newark/deal_directory/">Wilmington-Newark</a></li>
-                        
-                            <li><a href="/winnipeg/deal_directory/">Winnipeg</a></li>
-                        
-                            <li><a href="/worcester/deal_directory/">Worcester</a></li>
-                        
-                        
-                    </ul>
-                </div>
-
-                <div id="footer-sitemap">
-                    <ul>
-                        <li><a href="/">Home</a></li>
-                        <li><a href="/about/">About</a></li>
-                        <li><a href="/nation/">Nation</a></li>
-                        <li><a href="http://blog.yipit.com">Blog</a></li>
-                        <li><a href="/about/api/">API</a></li>
-                        <li><a href="/data/">Yipit Data</a></li>
-                        <li><a href="/about/businesses/">Businesses</a></li>
-                    </ul>
-
-                    <ul>
-                        <li><a href="/about/daily_deal_sites/">Daily Deal Sites</a></li>
-                        <li><a href="/jobs/">Jobs</a></li>
-                        <li><a href="/about/press/">Press</a></li>
-                        <li><a href="/about/terms/">Terms</a></li>
-                        <li class="active"><a href="/about/privacy/">Privacy</a></li>
-                        <li><a href="/about/faq/">FAQ</a></li>
-                        <li><a href="http://nytm.org/made/">Made in NYC</a></li>
-
-                        
-                    </ul>
-                    <p>Copyright © 2011 Yipit</p>
-                </div>
-
-                <div class="clear"></div>
-
-                
+        <article class="span9">
 
             
-        </div>
+
+            
+            <div class="header-box">
+                <div class="header header-box-header ">
+                    <h3 class="header-box-header-text">Privacy Policy</h3>
+                </div>
+
+                <div class="content header-box-content  header-box-content-large-padding about-main standard-formatting">
+                    
+   <h1>Privacy Policy</h1>
+   <p>Yipit cares about your privacy and takes it very seriously. Please read the following to learn more about our privacy policy. By visiting the Yipit website, you are accepting the practices outlined in this Privacy Policy.</p>
+   <h4>What does this Privacy Policy cover?</h4>
+   <p>This Privacy Policy covers Yipit's treatment of personal information that Yipit gathers when you are on the Yipit website and when you use Yipit services.</p>
+   <p>This policy does not apply to the practices of third parties that Yipit does not own or control, or to individuals that Yipit does not employ or manage.</p>
+   <h4>What personal information about users does Yipit collect?</h4>
+   <p>Our primary goal in collecting personal information is to provide you with a friendly, customized, and efficient experience. We only collect personal information that is relevant to the purpose of our website. We do not process this information in a way that is incompatible with the purpose for which it has been collected or subsequently authorized by you. </p>
+   <p>Yipit collects personally identifying information during the registration process, including name, email address, address, gender, store preferences etc. Yipit also may, on occasion collect user preference information (such as items clicked from emails), to be used for internal research purposes. We may also store information users knowingly provide such as feedback forms, suggestions, and emails to the Yipit website. Yipit may use such information for its internal purposes, including, but not limited to, email and web design optimizations, new features, and editorial and feedback purposes. Information entered may be aggregated across all users in order to determine and target demographics for marketing and advertising purposes.</p>
+   <p>All user information stored by Yipit is considered confidential and will not be shared with outside parties. Yipit may share aggregated results of preferences for all users for marketing and advertising purposes.</p>
+   <p>If you object to such use for any reason, you can either let us know by sending us feedback, or you can unsubscribe from the Yipit email service.</p>
+   <p>Many companies offer programs that help you to visit websites anonymously. While Yipit will not be able to provide you with a personalized experience if we cannot recognize you, we want you to be aware that these programs are available.</p>
+   <h4>What about cookies?</h4>
+   <p>Cookies are alphanumeric identifiers that we transfer to your computer's hard drive through your Web browser to enable our systems to recognize your browser and tell us how and when pages in our website are visited and by how many people. Yipit cookies do not collect personal information, and we do not combine information collected through cookies with other personal information to tell us who you are or what your screen name or email address is.</p>
+   <p>The "help" portion of the toolbar on the majority of browsers will direct you on how to prevent your browser from accepting new cookies, how to command the browser to tell you when you receive a new cookie, or how to fully disable cookies. We strongly recommend that you leave the cookies activated, however, because cookies enable you to take advantage of some of Yipit's most attractive features.</p>
+   <p>Some of our business partners may use cookies on our website (for example, advertisers). However, we have no access to or control over these cookies.</p>
+   <h4>Will Yipit share any of the information it receives?</h4>
+   <p>Information about our users is an integral part of our business. We share your personal information only as described below.</p>
+   <p>Protection of Yipit and others: We may release personal information when we believe in good faith that release is necessary to comply with that law; enforce or apply our conditions of use and other agreements; or protect the rights, property, or safety of Yipit, our employees, our users, or others.</p>
+   <p>With your consent: Except as set forth above, you will be notified when your personal information may be shared with third parties or used for a purpose incompatible with the purpose(s) for which it was originally collected, and you will be able to prevent the sharing of this information by opting out.</p>
+   <p>Merger: We may share your information in connection with a merger between Yipit and another entity, or in the event of a transfer of all or some of our assets to another company.</p>
+   <h4>Is information about me secure?</h4>
+   <p>Your Yipit account information is protected by a password for your privacy and security. You need to work to protect against unauthorized access to your password and to your computer by logging off once you have finished using a shared computer.</p>
+   <h4>Links to Other Sites</h4>
+   <p>Yipit uses links to guide you toward valuable products, services and editorial. We are not responsible for any content that appears on these sites, nor do we endorse them. For questions about these sites, please consult their individual privacy policies.</p>
+   <p></p>
+   <h4>Age Appropriate Content</h4>
+   <p>Yipit is not intended for use by children, especially those under age 13. No one under age 13 is allowed to use the site, provide any personal information or receive our email distributions. Minors between the ages of 13 and 17 must get the permission of their parent(s)or legal guardian(s) before viewing the website or receiving emails.</p>
+   <p></p>
+   <h4>How do I Unsubscribe?</h4>
+   <p> To unsubscribe, click on the unsubscribe link in any Yipit email. You will be taken to a confirmation page. Click on the confirm link and you will be unsubscribed. You can also unsubscribe by sending an email to <a href="mailto:unsubscribe@yipit.com">unsubscribe@yipit.com</a>.</p>
+   <p>As explained earlier, the "help" portion of the toolbar on the majority of browsers will direct you on how to prevent your browser from accepting new cookies, how to command the browser to tell you when you receive a new cookie, or how to fully disable cookies. Please note, however, that if your browser does not accept cookies, you will not be able to take advantage of some of our attractive features.</p>
+   <h4>Conditions of use</h4>
+   <p>If you decide to visit Yipit website, your visit and any possible dispute over privacy is subject to this Privacy Policy and our <a href="/about/terms/">Terms of Use</a>, including limitations on damages, arbitration of disputes, and application of New York state law.</p>
+   <p>If you have any other questions about our privacy policy, shoot an email to <a href="mailto:privacy@yipit.com">privacy@yipit.com</a>.</p>
+   <h4>Modifications to Privacy Policy</h4>
+   <p>Yipit reserves the right to change this policy from time to time, however, all changes will be posted to this Privacy Policy at the time such changes are made. The date of the most recent revisions will appear on this page so please check back. Please note that continued access of Yipit will constitute your acceptance of any changes or revisions to the Privacy Policy.</p>
+   <p>If you have concerns or questions about any aspect of the Yipit Privacy Policy, please e-mail us. We welcome your questions and feedback. Please send all emails to: <a href="mailto:privacy@yipit.com">privacy@yipit.com</a>. Our corporate mailing address is Yipit, Inc., 902 Broadway, 4th Fl, c/o General Assembly, New York, NY 10010.</p>
+   <p>Last modified: August 16, 2012.</p>
+
+                </div>
+            </div>
+            
+
+        </article>
     </div>
 
+    </div>
     
+</div>
+
+
 
 
 
     
-
+    
+    
+    
+    
         
-            <!-- Start Chartbeat-->
-            <script type="text/javascript">
+
+
+
+
+    
+
+    
+        
+            
+            <script>
             var _sf_async_config={uid:8463,domain:"yipit.com"};
             (function(){
               function loadChartbeat() {
                 window._sf_endpt=(new Date()).getTime();
                 var e = document.createElement('script');
-                e.setAttribute('language', 'javascript');
                 e.setAttribute('type', 'text/javascript');
                 e.setAttribute('src',
                    (("https:" == document.location.protocol) ? "https://a248.e.akamai.net/chartbeat.download.akamai.com/102508/" : "http://static.chartbeat.com/") +
@@ -1034,49 +319,56 @@
               window.onload = (typeof window.onload != 'function') ?
                  loadChartbeat : function() { oldonload(); loadChartbeat(); };
             })();
-
             </script>
-            <!-- End Chartbeat-->
             
-            <!-- Quantcast Tag, part 2 -->
-            <script type="text/javascript">
-            _qevents.push({
-            qacct:"p-3dF18ONyTUxBQ"
-            });
-            </script>
-
-            <noscript>
-                <div style="display:none;">
-                <img src="//pixel.quantserve.com/pixel/p-3dF18ONyTUxBQ.gif" border="0" height="1" width="1" alt="Quantcast"/>
-                </div>
-            </noscript>
-            <!-- End Quantcast tag -->
-
-            <!-- Start buzzfeed tag -->
-            <div id="BF_WIDGET_1" style="display: none;">&nbsp;<script type="text/javascript" src="//ct.buzzfeed.com/wd/UserWidget?u=yipit.com&amp;amp;to=1&amp;amp;or=vb&amp;amp;wid=1&amp;amp;cb=1580371783456"></script></div>
-            <script type="text/javascript">
-                (function() {
-                    BF_WIDGET_JS=document.createElement("script"); BF_WIDGET_JS.type="text/javascript";
-                    BF_WIDGET_SRC="//ct.buzzfeed.com/wd/UserWidget?u=yipit.com&amp;to=1&amp;or=vb&amp;wid=1&amp;cb=" + (new Date()).getTime();
-                    setTimeout(function() {document.getElementById("BF_WIDGET_1").appendChild(BF_WIDGET_JS);BF_WIDGET_JS.src=BF_WIDGET_SRC},1);
-
-                })();
-            </script>
-            <!-- End buzzfeed tag -->    
-        
-
-        <div id="fb-root"></div>
-
-        <script type="text/javascript" src="http://d22nv2k05ynu7x.cloudfront.net/js/yipit.min.b0ad4b1ad19913cc.js"></script>
-
 
         
-            <script src="//connect.facebook.net/en_US/all.js#appId=207746912580248&amp;xfbml=1"></script>
+
+        
+            
+
+    <script type="text/javascript">
+        if (typeof window.mixpanel !== "undefined") {
+            mixpanel.register_once({distinct_id: "cgbmyXz3"});
+            
+            
+            
+                mixpanel.track("New visitor");
+            
+        }
+    </script>
+
+        
+
+        
+            <script src="//ajax.googleapis.com/ajax/libs/jquery/1.8.2/jquery.min.js"></script>
+<script>window.jQuery || document.write('<script src="//a.yipitcdn.com/js/third-party/jquery-1.8.2.min.js"><\/script>')</script><script src="//a.yipitcdn.com/js/third-party/jquery-1.8.2.min.js"></script>
+
+
+<script src="//ajax.googleapis.com/ajax/libs/jqueryui/1.10.2/jquery-ui.min.js"></script>
+
+        
+
+        
+            
+            <script type="text/javascript" src="//a.yipitcdn.com/o/yipit.af973ebd.js"></script>
+            
         
     
 
+    <script>
+    
+        yipit.captureReferrer();
+    
+    </script>
 
 
 
+    <script>
+        jQuery('#left-navigation a[href="'+ location.pathname +'"]').parent('li').addClass('on');
+    </script>
 
-<script language="javascript" type="text/javascript" src="https://a248.e.akamai.net/chartbeat.download.akamai.com/102508/js/chartbeat.js"></script></body></html>
+<script type="text/javascript">if(!NREUMQ.f){NREUMQ.f=function(){NREUMQ.push(["load",new Date().getTime()]);var e=document.createElement("script");e.type="text/javascript";e.src=(("http:"===document.location.protocol)?"http:":"https:")+"//"+"rpm-images.newrelic.com/42/eum/rum.js";document.body.appendChild(e);if(NREUMQ.a)NREUMQ.a();};NREUMQ.a=window.onload;window.onload=NREUMQ.f;};NREUMQ.push(["nrfj","beacon-1.newrelic.com","c384fc76a0","533616","YAABMBBWCksEU0QPWVlKJREMVBBRCl4fAlxWCwQLTEENXRJDHgFTWQARDQEZBlkWVQoyU1oVDwUWUjJRAEc=",0,29,new Date().getTime(),"","","","",""]);</script>
+
+
+<script type="text/javascript" src="https://rpm-images.newrelic.com/42/eum/rum.js"></script><script type="text/javascript" src="https://a248.e.akamai.net/chartbeat.download.akamai.com/102508/js/chartbeat.js"></script></body></html>
