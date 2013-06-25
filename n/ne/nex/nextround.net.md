@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the nextround.net privacy policy that was archived on 2012-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121122042923id_/http%3A//nextround.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nextround.net privacy policy that was archived on 2013-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130625030955id_/http%3A//www.nextround.net/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | NextRound.net
+# Privacy Policy
 
 Maske and Booth created Nextround.net groups and content (herein, “NR”) with the intention of making it easy to share information with your friends, family and extended networks. We give you control of your information because we understand that you may not want to give the world access to the information you share on NR. Our privacy settings allow you to limit the information displayed about you to your group members.
 
