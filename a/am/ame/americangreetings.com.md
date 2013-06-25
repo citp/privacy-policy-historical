@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the americangreetings.com privacy policy that was archived on 2012-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121125050142id_/http%3A//www.americangreetings.com/warrants.pd) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the americangreetings.com privacy policy that was archived on 2013-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130625101149id_/http%3A//www.americangreetings.com/warrants.pd) for the most accurate reproduction.*
 
 # AmericanGreetings.com Privacy Policy
 
@@ -8,7 +8,7 @@ _Last Revised:_ 11/14/2012
 
 ### A. Overview
 
-At AmericanGreetings.com ("AG"), protecting our users' privacy and security is a top priority. For this reason, we comply with the European Union-United States Safe Harbor Framework and US-Swiss Safe Harbor Framework as set forth by the US Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries. AG has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view AG's certification, please visit <http://www.export.gov/safeharbor/>. In accordance with the Safe Harbor Principles, we have adopted the following policy to advise you of our use of your personal information and your choices regarding that use. This policy describes what types of information we gather about you, how we use it, under what circumstances we disclose it to third parties, and your rights to change or delete it.
+At AmericanGreetings.com ("AG"), protecting our users' privacy and security is a top priority. For this reason, we comply with the US-EU Safe Harbor Framework and US-Swiss Safe Harbor Framework as set forth by the US Department of Commerce regarding the collection, use, and retention of personal information from European Union (EU) member countries and Switzerland. AG has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view AG's certification, please visit <http://www.export.gov/safeharbor/>. In accordance with the Safe Harbor Privacy Principles, we have adopted the following policy to advise you of our use of your personal information and your choices regarding that use. This policy describes what types of information we gather about you, how we use it, under what circumstances we disclose it to third parties, and your rights to change or delete it.
 
 ### B. Scope of Policy
 
