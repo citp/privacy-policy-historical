@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mychaletfinder.com privacy policy that was archived on 2012-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121229110907id_/http%3A//en.mychaletfinder.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mychaletfinder.com privacy policy that was archived on 2013-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130625045631id_/http%3A//en.mychaletfinder.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - My Chalet Finder
 
