@@ -1,85 +1,91 @@
-> *The following text is extracted and transformed from the thenounproject.com privacy policy that was archived on 2012-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120616023330id_/http%3A//thenounproject.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thenounproject.com privacy policy that was archived on 2013-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130625173624id_/http%3A//thenounproject.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | NounProject
 
-The Noun Project, LLC (“The Noun Project”) values the privacy of its customers, visitors, users, and others (known collectively or individually as "Users") who use www.thenounproject.com (the "Web site"). This Privacy Policy applies to all of the products and services offered by The Noun Project, and details important information regarding the use and disclosure of User information collected on the Web site. By using the site you consent to the collection, use and disclosure of your personal information in accordance with this policy. 
+## Privacy Policy
 
-Your use of the Web site and any personal information you provide on the Web site remains subject to the terms of this Privacy Policy and The Noun Project’s [Terms of Use](https://web.archive.org/terms-of-use/). 
+We at The Noun Project, Inc. (“Company,” “we,” “us,” “our”) know that our users (“you,” “your”) care about how your personal information is used and shared, and we take your privacy seriously. Please read the following to learn more about our Privacy Policy. **By visiting or using the Website or Services in any manner, you acknowledge that you accept the practices and policies outlined in this Privacy Policy, and you hereby consent that we will collect, use, and share your information in the following ways.** Any capitalized terms used herein without definition shall have the meaning given to them in the Company [Terms of Use](https://web.archive.org/terms-use).
 
-The Noun Project’s Privacy Policy applies only to the Web sites and services that are owned and operated by The Noun Project. While other sites may be displayed as links from within www.thenounproject.com, those sites are owned and operated by others, and they may have different privacy policies. When linking from www.thenounproject.com to other sites, if you have privacy concerns, we urge you to review the privacy policies of those sites. 
+#### I. WHAT DOES THIS PRIVACY POLICY COVER?
 
-### Information Collection and Use
+This Privacy Policy covers our treatment of personally identifiable information ("Personal Information") that we gather when you are accessing or using our Services. This policy does not apply to the practices of companies that we do not own or control, or to individuals that we do not employ or manage.
 
-When you visit The Noun Project’s Web site, certain kinds of non-personal information, such as the site that referred you to us, your IP address, browser type and language, and access times, may be collected automatically as part of the site's operation. We may also collect navigational information, including information about the pages you view and the links you click, as well as actions taken in connection with the Web site, such as user downloads and search terms. Demographic information (e.g., your occupation, hobbies, gender, or interests) may also be collected when available and may be linked to your personal information. 
+We do not knowingly collect or solicit personal information from anyone under the age of 13 or knowingly allow such persons to register for the Services (as that term is defined in our [Terms of Use](https://web.archive.org/terms-use)). If you are under 13, please do not attempt to register for the Services or send any information about yourself to us, including your name, address, telephone number, or email address. No one under age 13 may provide any personal information to us or on the Services. In the event that we learn that we have collected personal information from a child under age 13 without verification of parental consent, we will delete that information as quickly as possible. If you believe that we might have any information from or about a child under 13, please contact us at [info@thenounproject.com](mailto:info@thenounproject.com). 
 
-We may use third-party advertising companies to serve or track ads on our Web site. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other sites in order to measure advertising effectiveness and to provide advertisements about goods and services that may be of interest to you. 
+We gather various types of Personal Information from our users, as explained more fully below. We may use this Personal Information to personalize and improve our services, to allow our users to set up a user account and profile, to contact users, to fulfill your requests for certain products and services, to analyze how users utilize the Services, and as otherwise set forth in this Privacy Policy. We may share certain types of Personal Information with third parties, as described below. 
 
-We only collect personal information about you after you have provided us with your consent to collect that specific information. By voluntarily providing this information to us, you consent to the collection and use of your personal information as set out in this Privacy Policy. 
+#### II. WHAT INFORMATION DOES COMPANY COLLECT?
 
-If you purchase a product or service from us, we request certain personally identifiable information from you in order to process your order. You must provide contact information (such as name, email and shipping address) and financial information (such as credit card number, expiration date and the 3 digit security code). We use this information for billing purposes and to fill your orders. If we have trouble processing an order, we will use this information to contact you. 
+**A. Information You Provide to Us:**
 
-If you choose to submit your email, we will use it to communicate with you about your transactions, new products and services. We may send transaction-related communications such as welcome letters, billing reminders, and purchase confirmations. We may also send you surveys or marketing communications to inform you of new products or services or other information or offers that may be of interest. If you do not wish to receive surveys or marketing communications, you may follow the "unsubscribe" instructions included within each email communication. Please keep in mind that if you choose not to receive marketing communications, you will continue to receive transactional or account communications such as emails confirming your order. 
+We receive and store any information you knowingly provide to us. For example, we collect Personal Information such as your name, email address, user name, and third-party account credentials (for example, your log-in credentials for Facebook or other third party sites). If you provide your third-party account credentials to us, you understand some content and/or information in those accounts (“Third Party Account Information”) may be transmitted into your account with us if you authorize such transmissions, and that Third Party Account Information transmitted to our Services is covered by this Privacy Policy. You can choose not to provide us with certain information, but then you may not be able to register with us or to take advantage of some of our features. We may anonymize your Personal Information so that you cannot be individually identified, and provide that information to our partners.
 
-Children Under 13
+If you have provided us with a means of contacting you, we may use such means to communicate with you. For example, we may send you promotional offers or communicate with you about your use of the Services. Also, we may receive a confirmation when you open a message from us. This confirmation helps us make our communications with you more interesting and improve our services. If you do not want to receive communications from us, please indicate your preference by following the unsubscribe link provided in each e-mail. Please note that if you do not want to receive legal notices from us, those legal notices will still govern your use of the Services, and you are responsible for reviewing such legal notices for changes. 
 
-The Noun Project is committed to protecting the privacy of children. www.thenounproject.com does not knowingly or intentionally collect personal information online from children under the age of 13. 
+**B. Information Collected Automatically:**
 
-### Information Sharing and Disclosure
+• Whenever you interact with our Services, we automatically receive and record information on our server logs from your browser including your IP address, “cookie” information, and the page you requested. “Cookies” are identifiers we transfer to your computer or mobile device that allow us to recognize your browser or mobile device and tell us how and when pages and features in our Services are visited and by how many people. You may be able to change the preferences on your browser or mobile device to prevent or limit your computer or device’s acceptance of cookies, but this may prevent you from taking advantage of some of our features. Our advertising partners may also transmit cookies to your computer or device, when you click on ads that appear on the Services. Also, if you click on a link to a third party website, such third party may also transmit cookies to you. This Privacy Policy does not cover the use of cookies by any third parties. 
 
-The Noun Project does not rent, trade, or share Personal Information with third parties except to provide products or services you've requested, when we have your permission, or under the following circumstances: 
+• When we collect usage information (such as the numbers and frequency of visitors to the Website), we only use this data in aggregate form, and not in a manner that would identify you personally. For example, this aggregate data tells us how often users use parts of the Services, so that we can make the Services appealing to as many users as possible. We may also provide this aggregate information to our partners; our partners may use such information to understand how often and in what ways people use our Services, so that they, too, can provide you with an optimal experience. We never disclose aggregate information to a partner in a manner that would identify you personally.
 
-We use other third parties such as a credit card processing company to bill you for goods sold on our Web site, and an email service provider to send out emails on our behalf. When you make a purchase on our Web site or sign up for our email list, we will share the necessary amount of personally identifiable information as necessary for the third party to provide that service. These third parties are prohibited from using your personally identifiable information for promotional purposes. 
+• Each Symbol you download from the Services may contain trackable metadata, which allows us to track how and in what ways you use such Symbol. We may use information from this metadata to ensure that you are complying with the use restrictions on such Symbol, as well as to understand how and in what ways our users utilize Symbols. 
 
-We provide Non-Personal Information to interested third-parties for purposes of understanding the usage patterns for certain content, services, advertisements, promotions, and/or functionality of the Web site. 
+#### III. WILL COMPANY SHARE ANY OF THE PERSONAL INFORMATION IT RECEIVES?
 
-We use both your Personal Information and certain Non-Personal Information to improve the quality and design of the Web site and to create new features, promotions, functionality, and services by storing, tracking, and analyzing User preferences and trends. 
+We neither rent nor sell your Personal Information in personally identifiable form to anyone. However, we do share your Personal Information with third parties as described in Section II above and in this Section:
 
-We reserve the right to disclose your personally identifiable information as required by law and when we believe that disclosure is necessary to protect our rights and/or comply with a judicial proceeding, or legal process served on our Web site. 
+**A. Advertisers:** We may allow advertisers (“Advertisers”) to choose the demographic information of users who will see their advertisements and/or promotional offers and you agree that we may provide any of the information we have collected from you in non-personally identifiable form to an Advertiser, in order for that Advertiser to select the appropriate audience for those advertisements and/or offers. For example, we might use the fact that you are located in San Francisco to show you ads or offers for San Francisco businesses, but we will not tell such businesses who you are.
 
-We may share Personal Information if we believe it is necessary in order to investigate, prevent, or take action regarding illegal activities, suspected fraud, situations involving potential threats to the physical safety of any person, violations of The Noun Project’s Terms of Use, or as otherwise required by law. 
+We may deliver a file to you through the Services (known as a “web beacon”) from an ad network. Web beacons allow ad networks to provide anonymized, aggregated auditing, research and reporting for us and for advertisers. Web beacons also enable ad networks to serve targeted advertisements to you when you visit other websites. Because your web browser must request these advertisements and web beacons from the ad network’s servers, these companies can view, edit, or set their own cookies, just as if you had requested a web page from their site.
 
-In the event The Noun Project, LLC goes through a business transaction, such as a merger, acquisition by another company, or sale of all or a portion of its assets, your personally identifiable information will likely be among the assets transferred. You will be notified via email of any such change in ownership or control of your personal information. 
+**B. Affiliated Businesses and Third Party Websites We Do Not Control:** In certain situations, businesses or third party websites we’re affiliated with may sell items or provide services to you through the Services (either alone or jointly with us). You can recognize when an affiliated business is associated with such a transaction or service, and we will share your Personal Information with that affiliated business only to the extent that it is related to such transaction or service. One such service may include the ability for you to automatically transmit Third Party Account Information to your Services profile or to automatically transmit information in your Services profile to your third party account. We have no control over the policies and practices of third party websites or businesses as to privacy or anything else, so if you choose to take part in any transaction or service relating to an affiliated website or business, please review all such business’ or websites’ policies.
 
-### Cookies and Web Beacons
+**C. Agents:** We may employ other companies and people to perform tasks on our behalf and need to share your information with them to provide products or services to you. Unless we tell you differently, our agents do not have any right to use the Personal Information we share with them beyond what is necessary to assist us. 
 
-A cookie is a small text file that is stored on a user’s computer for record-keeping purposes. We use cookies on this site and we do link the information we store in cookies to any personally identifiable information. 
+**D. User Profiles and Submissions:** Certain user profile information, including without limitation your name, location, any image content that you have uploaded to the Services, and which Symbols you have downloaded, may be displayed to other users to facilitate user interaction within the Services or address your requests for Company’s services. Any content in your public user profile, along with any Personal Information or content that you disclose online in a manner other users can view (on discussion boards, in messages and chat areas, etc.) becomes publicly available, and can be collected and used by others in accordance with the functionality of the Services (and subject to the [Terms of Use](https://web.archive.org/terms-use)). Your user name may also be displayed to other users if and when you send messages or comments or upload images or videos through the Services and other users can contact you through messages and comments. Additionally, if you sign into the Services through a third party social networking site or service, your list of “friends” from that site or service may be automatically imported to the Services, and such “friends,” if they are also registered users of the Services, may be able to access certain non-public information you have entered in your Services user profile. Again, we do not control the policies and practices of any other third party site or service. Finally, if you upload a Symbol to the Services, certain information about you (including your name or user ID, the attribution requirements for such Symbol, and the location from which the Symbol was uploaded) may be embedded as metadata in such Symbol, viewable by those who download the Symbol from the Services. This metadata encourages others to comply with the use restrictions for such Symbol.
 
-We use both session ID cookies and persistent cookies. We use session cookies to make it easier for you to navigate our site. A session ID cookie expires when you close your browser. A persistent cookie remains on your hard drive for an extended period of time. You can remove persistent cookies by following directions provided in your Internet browser’s “help” file. 
+**E. Business Transfers:** We may choose to buy or sell assets. In these types of transactions, customer information is typically one of the business assets that would be transferred. Also, if we (or our assets) are acquired, or if we go out of business, enter bankruptcy, or go through some other change of control, Personal Information would be one of the assets transferred to or acquired by a third party. 
 
-If you reject cookies, you may still use our site, but your ability to use some areas of our site will be limited. 
+**F. Protection of Company and Others:** We reserve the right to access, read, preserve, and disclose any information that we reasonably believe is necessary to comply with law or court order; enforce or apply our conditions of use and other agreements; or protect the rights, property, or safety of Company, our employees, our users, or others. This includes exchanging information with other companies and organizations for fraud protection and credit risk reduction.
 
-The Noun Project does utilize tracking technology to better understand site traffic patterns and use. However, none of the information collected via tracking technology is personally identifiable information. 
+**G. With Your Consent:** Except as set forth above, you will be notified when your Personal Information may be shared with third parties in personally identifiable form, and will be able to prevent the sharing of this information.
 
-The use of cookies by our partners, affiliates or tracking utility company is not covered by our privacy statement. We do not have access or control over these cookies. Our partners, affiliates, tracking utility company and service providers use session ID cookies to make it easier for you to navigate our site. 
+#### IV. IS PERSONAL INFORMATION ABOUT ME SECURE?
 
-If you click on a link to a third party site, including on an advertisement, you will leave www.thenounproject.com and go to the site you selected. Because we cannot control the activities of third parties, we cannot accept responsibility for any use of your personally identifiable information by such third parties, and we cannot guarantee that they will adhere to the same privacy practices as The Noun Project. We encourage you to review the privacy statements of any other service provider from whom you request services. 
+Your account is protected by a password for your privacy and security. If you access your account via a third party site or service, you may have additional or different sign-on protections via that third party site or service. You must prevent unauthorized access to your account and Personal Information by selecting and protecting your password and/or other sign-on mechanism appropriately and limiting access to your computer or device and browser by signing off after you have finished accessing your account.
 
-The Noun Project may use web beacons in connection with e-mails sent to The Noun Project’s users, to let us know whether and when the email was opened. No personal information is transmitted through web beacons. 
+We endeavor to protect the privacy of your account and other Personal Information we hold in our records, but we cannot guarantee complete security. Unauthorized entry or use, hardware or software failure, and other factors, may compromise the security of user information at any time. 
 
-### Confidentiality and Security
+The Services may contain links to other sites. We are not responsible for the privacy policies and/or practices on other sites. When following a link to another site you should read that site’s privacy policy.
 
-We follow generally accepted industry standards to protect the personally identifiable information submitted to us, both during transmission and once we receive it. However, no method of transmission over the Internet, or method of electronic storage, is 100% secure. Therefore, while we strive to use commercially acceptable means to protect your personal information, we cannot guarantee its absolute security. 
+#### V. WHAT PERSONAL INFORMATION CAN I ACCESS?
 
-If you have any questions about security on our Web site, you can send us an email at info@thenounproject.com. 
+Through your account settings, you may access, and, in some cases, edit or delete the following information you’ve provided to us:
 
-### International Users
+• name and password
 
-If you are a User accessing the Web site from the European Union, Asia, or any other region with laws or regulations governing personal data collection, use, and disclosure, that differ from United States laws, please be advised that through your continued use of the Web site, which is governed by U.S. law and this Privacy Policy as incorporated in our Terms of Use, you will be transferring your Personal Information into the United States and you consent to that transfer. 
+• email address
 
-### Changes and Updates to this Privacy Policy
+• location
 
-The Noun Project may update this policy at any time in its sole discretion and without prior notice. If we decide to change our privacy policy, we will post those changes to this privacy statement and will strive to notify you about significant changes in the way we treat Personal Information by sending a notice to the primary email address specified in your account and/or by placing a notice on the Web site. 
+• user profile information, including images and Symbols you have uploaded to the site
 
-### Effective Date
+The information you can view, update, and delete may change as the Services change. If you have any questions about viewing or updating information we have on file about you, please contact us at [info@thenounproject.com](mailto:info@thenounproject.com). 
 
-This Privacy Policy was last modified October 20, 2011. 
+Under California Civil Code Sections 1798.83-1798.84, California residents are entitled to ask us for a notice identifying the categories of Personal Information which we share with our affiliates and/or third parties for marketing purposes, and providing contact information for such affiliates and/or third parties. If you are a California resident and would like a copy of this notice, please submit a written request to: [info@thenounproject.com](mailto:info@thenounproject.com). 
 
-### Contact Information
+#### VI. WHAT CHOICES DO I HAVE?
 
-If you have any questions or comments about this Privacy Policy, you can contact us at info@thenounproject.com. 
+• You can always opt not to disclose information to us, but keep in mind some information may be needed to register with us or to take advantage of some of our special features.
 
-  * The Noun Project, LLC 
-  * P.O. Box 480677
-  * Los Angeles, CA 90048
+• You may be able to add, update, or delete information as explained in Section V above. When you update information, however, we may maintain a copy of the unrevised information in our records. You may request deletion of your account by emailing us at [info@thenounproject.com](mailto:info@thenounproject.com). Please note that some information may remain in our records (and/or the records of other users) after your deletion of such information from your account. We may use any aggregated data derived from or incorporating your Personal Information after you update or delete it, but not in a manner that would identify you personally.
 
+#### VII. CHANGES TO THIS PRIVACY POLICY
 
+We may amend this Privacy Policy from time to time. Use of information we collect now is subject to the Privacy Policy in effect at the time such information is used. If we make changes in the way we use Personal Information, we will notify you by posting an announcement on our Website or sending you a message. You are bound by any changes to the Privacy Policy when you use the Services after such changes have been first posted.
+
+#### VIII. QUESTIONS OR CONCERNS
+
+If you have any questions or concerns regarding our privacy policies, please send us a detailed message to [info@thenounproject.com](mailto:info@thenounproject.com), and we will try to resolve your concerns.
+
+Effective Date: September 25, 2012
