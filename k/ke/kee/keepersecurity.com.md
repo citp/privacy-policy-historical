@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the keepersecurity.com privacy policy that was archived on 2012-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121115100915id_/http%3A//keepersecurity.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the keepersecurity.com privacy policy that was archived on 2013-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130625070732id_/http%3A//keepersecurity.com/privacy) for the most accurate reproduction.*
 
 # Keeper - Privacy Policy
 
@@ -21,7 +21,7 @@ Keeper protects “Micro Data.” Micro Data consists of small strings of inform
 
 Keeper is one of the most downloaded password security applications for storing, accessing and safeguarding Micro Data. 
 
-## U.S. Government Approval & Encryption Level
+## U.S. Government Approval & Encryption Level 
 
 Keeper utilizes strong encryption using the 128-bit AES cipher. Keeper is approved for export to unrestricted countries* by the U.S. Department of Commerce Bureau of Industry and Security under classification #5D992 (*See [Terms & Conditions](https://web.archive.org/terms)). 
 
@@ -56,7 +56,5 @@ When customers and users access and use Keeper Security, there may be links to w
 ## Further Questions
 
 If you have further questions about our Privacy Policy, email us at support@keepersecurity.com. 
-
-Last Updated: March 1, 2012 
 
 If you have any questions about the rights and restrictions above, please contact Keeper Security by email at support@keepersecurity.com. 
