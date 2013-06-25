@@ -1,10 +1,8 @@
-> *The following text is extracted and transformed from the cafepress.com privacy policy that was archived on 2012-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121219022535id_/http%3A//www.cafepress.com/cp/info/help/index.aspx%3Fpage%3Dprivacy_policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cafepress.com privacy policy that was archived on 2013-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130625031726id_/http%3A//www.cafepress.com/cp/info/help/index.aspx%3Fpage%3Dprivacy_policy.aspx) for the most accurate reproduction.*
 
 # CafePress.com : Customer Service : Privacy Policy
 
-[CT Designs](https://web.archive.org/cp/store.aspx?s=coastaltech.9609910) > **Customer Service**
-
-**Effective Date: June 23, 2011**
+**Effective Date: April 24, 2013**
 
 CafePress values the users of our website (the "Website"). Your privacy and trust are very important to us. We recognize that you may be concerned about our collection, use, and disclosure of the personally identifiable information ("Personal Information") that we collect when you use the Website and the services offered on the Website ("CafePress Services"). This Privacy Policy describes the information that we collect from you, how we collect this information, and what we do with it after we collect it. By using the Website you are accepting the practices described in this Privacy Policy. If you have any questions or comments regarding this Privacy Policy, please contact us at [privacy@cafepress.com](mailto:privacy@cafepress.com).
 
@@ -25,6 +23,8 @@ We may make changes to the Privacy Policy from time to time. We will notify you 
 **Communications With Us.** If you communicate with us regarding the Website or the CafePress Services, we will collect any information that you provide to us in any such communication.
 
 **Analytic and Reporting Technologies.** Like the operators of most websites, we use analytic and reporting technologies to record Non-Personal Information such as Internet domain and host names, Internet protocol (IP) addresses, browser software, operating system types, clickstream patterns, and the dates and times that the Website and the CafePress Services are accessed. We also contract with several online partners to help manage, monitor and optimize our Website and the CafePress Services and to help us measure the effectiveness of our advertising, communications and how visitors use the Website. To do this, we may use web beacons and cookies.
+
+**Signing In via Social Network Account.** CafePress may allow you to sign in to a CafePress website or application using a social networking account, such as a Facebook account. These social networking sign-on features may also enable you to create an account more easily by prepopulating our registration form with the information you provided to the social networking site. Typically, the first time you use one of these sign-on services, the social networking site will inform you of the information that will be shared with CafePress. We may use that information for purposes described in this Privacy Policy. To learn more about what information the social networking site collects when you use it to sign in to our website or application, please refer to the privacy policy for that social networking site.
 
 ## How Does CafePress Use My Information?
 
@@ -62,11 +62,7 @@ Cookies and web beacons used by CafePress and our online partners are not linked
 
 ## How Can I Review and Make Changes to My Personal Information?
 
-You can obtain a copy of and request that we correct errors in your Personal Information by emailing us at [privacy@cafepress.com](mailto:privacy@cafepress.com). For your protection, you will be required to provide proof of your identity to obtain a copy of your Personal Information. If your Personal Information changes or if you no longer want to use the CafePress Services, you may correct, update or deactivate your Personal Information and/or your account through the account management screen. If you would like to deactivate or terminate your account you can also contact [Customer Service](http://help.cafepress/hc/s-74058960/cmd/kbresource/kb-8329932538665572554/escalate!PAGETYPE?VisitorProfile=cafepress).
-
-## Tell-A-Friend
-
-If you choose to use our referral service to tell a friend about the Website or the CafePress Services, we will ask you for your friend's name and email address. We will automatically send your friend a one-time email inviting him or her to visit the Website. We store this information for the sole purpose of sending this one-time email and tracking the success of our referral program.
+You can obtain a copy of and request that we correct errors in your Personal Information by emailing us at [privacy@cafepress.com](mailto:privacy@cafepress.com). For your protection, you will be required to provide proof of your identity to obtain a copy of your Personal Information. If your Personal Information changes or if you no longer want to use the CafePress Services, you may correct, update or deactivate your Personal Information and/or your account through the account management screen. If you would like to deactivate or terminate your account you can also contact [Customer Service](http://help.cafepress.com/hc/s-74058960/cmd/kbresource/kb-895837539590351752/escalate!PAGETYPE).
 
 ## Security
 
@@ -92,8 +88,19 @@ You may be able to access third party websites directly from the Website. This P
 
 We provide you the opportunity to opt-out of having your Personal Information used for certain purposes. For example, if you purchase a product/service but do not wish to receive any additional marketing material from us, you can indicate your preference on our order form.
 
-If you no longer wish to receive our newsletters and promotional communications, you may opt-out of receiving them by following the instructions included in each newsletter or communication or by emailing us at [privacy@cafepress.com](mailto:privacy@cafepress.com). We also offer you an opportunity to opt-out of certain communications through the account management screen. If you need assistance you may contact us at [privacy@cafepress.com](mailto:privacy@cafepress.com); [Customer Service](http://help.cafepress/hc/s-74058960/cmd/kbresource/kb-7708150844737363916/escalate!PAGETYPE?VisitorProfile=cafepress); or via mail sent to 1850 Gateway Drive, Suite 300, San Mateo, CA 94404.
+If you no longer wish to receive our newsletters and promotional communications, you may opt-out of receiving them by following the instructions included in each newsletter or communication or by emailing us at [privacy@cafepress.com](mailto:privacy@cafepress.com). We also offer you an opportunity to opt-out of certain communications through the account management screen. If you need assistance you may contact us at [privacy@cafepress.com](mailto:privacy@cafepress.com); [Customer Service](http://help.cafepress.com/hc/s-74058960/cmd/kbresource/kb-895837539590351752/escalate!PAGETYPE); or via mail sent to 1850 Gateway Drive, Suite 300, San Mateo, CA 94404.
 
 If we disclose your Personal Information to a third party in a manner that is not set forth in this Privacy Policy you will be notified so that you can make an informed choice about sharing your Personal Information with that third party.
+
+**top**
+
+## Notice to California Residents.
+
+If you are a California resident, California Civil Code Section 1798.83 permits you to request information regarding the disclosure of your personal information by CafePress and its related companies to third parties for the third parties' direct marketing purposes. With respect to these entities, this privacy policy applies only to their activities within the State of California. To make such a request, please send an email to [privacy@cafepress.com](mailto:privacy@cafepress.com) or write us:
+
+CafePress Inc.  
+Attn. Legal – CA Privacy  
+1850 Gateway Drive, Suite 300  
+San Mateo, CA 94404 
 
 **top**
