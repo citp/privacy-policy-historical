@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the bathselect.com privacy policy that was archived on 2012-09-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120910015751id_/http%3A//www.bathselect.com/terms_privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bathselect.com privacy policy that was archived on 2013-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130626002619id_/http%3A//www.bathselect.com/terms_privacy.asp) for the most accurate reproduction.*
 
 # Terms: Privacy
 
-**Privacy Policy for shopping Bathroom accessories online at bathselect**  
+**Privacy Policy for shopping Bathroom accessories online at BathSelect**  
 _Policy at Bathselect online supplier of Faucets, Shower Massage Panels, Led Showers, Sauna, Massage Head Showers, Whirlpool, Sensor Faucets, Shower Sets and more._
 
 Your online Store for Faucets, Head, Shower Sets, Led Showers, Sensor Faucets, Showers and more!  
@@ -70,7 +70,7 @@ This online privacy policy applies only to information collected through our web
 
 Terms and Conditions
 
-Please also visit our [Terms and Conditions](https://web.archive.org/web/20120910015751id_/http%3A//www.bathselect.com/terms.asp) section establishing the use, disclaimers, and limitations of liability governing the use of our website.
+Please also visit our [Terms and Conditions](https://web.archive.org/web/20130626002619id_/http%3A//www.bathselect.com/terms.asp) section establishing the use, disclaimers, and limitations of liability governing the use of our website.
 
 Your consent
 
