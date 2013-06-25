@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the avgthreatlabs.com privacy policy that was archived on 2012-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121124124913id_/http%3A//www.avg.com/privacy%3Fcmpid%3Dthl_ftr_pri) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the avgthreatlabs.com privacy policy that was archived on 2013-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130626010706id_/http%3A//www.avg.com/privacy%3FECID%3Dpr-th-1008%26cmpid%3Dthl_ftr_pri%26intcmp%3Dthl_ftr_pri%26pid%3DR00056580100344) for the most accurate reproduction.*
 
 # Privacy Policy | AVG Technologies
 
@@ -36,6 +36,8 @@ When you interact with AVG Technologies products or Sites we may maintain a reco
 
 
 The information collected and stored automatically by our Site is used to measure the number of visitors to our Site and to identify system performance or for server issues. We also use this information to help us expand the coverage of our Site and to make our Site more useful.
+
+If you are enrolled in the AVG Rewards program, please see our [AVG Rewards Policy Addendum](http://avgrewards.com/terms) for the complete list of information collected by the program.
 
 You can find comprehensive information on how AVG’s website uses cookies [here](https://web.archive.org/us-en/cookies)
 
