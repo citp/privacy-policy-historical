@@ -1,75 +1,178 @@
-> *The following text is extracted and transformed from the utsandiego.com privacy policy that was archived on 2005-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051212051327id_/http%3A//www.signonsandiego.com/about/privacy/index.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the utsandiego.com privacy policy that was archived on 2013-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130625222112id_/http%3A//www.utsandiego.com/privacy) for the most accurate reproduction.*
 
-# SignOnSanDiego.com > About us > Privacy Policy
+# Privacy Policy | UTSanDiego.com
 
-SignOnSanDiego.com and The Union-Tribune Publishing Company are committed to bringing you information tailored to your individual needs. We also recognize the importance of protecting the privacy of your personally identifiable information. In adopting this privacy policy, our intent is to balance our legitimate business interests in collecting and using personally identifiable information and your reasonable expectations of privacy. Please note: this policy applies only to information collected by SignOnSanDiego.com online, as specified below, and does not govern or apply to information collected or used by The Union-Tribune Publishing Company or its affiliates through other means. This policy does not cover practices of the San Diego Union-Tribune newspaper. 
+### What does this policy cover?
 
-**What personal information do I provide to SignOnSanDiego.com?**  
-SignOnSanDiego.com asks you to provide various types of demographic information to enhance your experience on our site. During registration to read "Today's Paper", SignOnSanDiego.com asks for information such as year of birth, gender, Zip code, country, and optional email address. The more information you provide, the better we are able to customize your experience. We may also ask you for other information at other times - such as when you enter a contest or participate in a promotion, when you post an online ad, when you participate in our message boards, or when you order products from us. Whenever you provide personal information to us, we will make an effort to link to our privacy policy. See below about "cookies" and what other information is collected. 
+This Privacy Policy discloses the privacy practices of The San Diego Union-Tribune, LLC, d/b/a U-T San Diego, with regard to information collected from subscribers to the U-T San Diego newspaper and our other print publications, as well as to user of and subscribers to our related websites (such as www.UTSanDiego.com), our mobile messaging services and other digital applications and services (collectively referred to as the "U-T San Diego services"), and to any of our other services and products that include reference to this policy. Some U-T San Diego services include features and components provided by or that we license from third parties, and may also contain links to other Web sites for your convenience and information. We are not responsible for the privacy practices of those third parties or the content of those sites. Some of those third parties and links to their privacy policies are identified and included below. Please note that, for the avoidance of doubt, this Privacy Policy does not apply in any way to information collected in connection with any of U-T San Diego’s news gathering or reporting activities.
 
-**How does SignOnSanDiego.com use my personal information?**  
-Our primary goal in collecting personal information is to provide you, the user, with a customized experience on our site. SignOnSanDiego.com uses the personally identifiable information you provide to us in several ways. Some examples follow. In order to provide our service free of charge, we display advertisements. SignOnSanDiego.com delivers targeted advertisements on behalf of advertisers. Advertisers give us an advertisement and tell us the type of audience they want to reach (for example, males over 35 years old). We take the advertisement and display it to users meeting the specified criteria. In this process, the advertiser never has access to individual user information. 
+### What personal information does U-T San Diego collect?
 
-If you registered to receive email from SignOnSanDiego.com, we may send you e-mails about SignOnSanDiego.com products, promotions, or services as well as on behalf of other companies. You may change your preferences for the future at any time by (i) using the unsubscribe links at the bottom of any of our email newsletters ii) e-mailing us at [newsletters@signonsandiego.com](mailto:newsletters@signonsandiego.com), or iii) updating your email preferences at <http://echo.bluehornet.com/clients/signon2/survey.htm>, or (iv) by contacting us by mail at 350 Camino de la Reina, San Diego, CA 92108. 
+The information that U-T San Diego gathers falls into two general categories: 1) personal information, which includes, for example, personal information you supply when you subscribe, order, make purchases, complete a survey, register for one of our sites, or enter a contest; and 2) non-personal information collected through technology, which includes tracking information collected as you use U-T San Diego Services.
 
-You will receive special offers via e-mail from SignOnSanDiego.com consistent with your stated personal preferences. You can change your preferences at any time by visiting <http://echo.bluehornet.com/clients/signon2/survey.htm>. SignOnSanDiego.com also does research on our users' demographics, interests and behavior based on the information you provide to us including upon registration, from our server log files or from surveys. We do this to better understand and serve our users. This research is compiled and analyzed on an aggregated basis and SignOnSanDiego.com may share this aggregated data with advertisers or other businesses. 
+### Personal Information That You Provide
 
-This information is not shared with anyone outside of the Union-Tribune Publishing Co. or SignOnSanDiego.com except as provided for in this Privacy Policy. More specifics on the information we collect are outlined within this policy. The following products involving sharing your Personal Information with outside companies so that they can deliver features you have requested. 
+#### Registration Information.
 
-_Coupons_  
-If you requested to receive offers from the Coupon feature when you registered, your email address is shared with Custom Coupons, the company that operates this system. 
+Registration for U-T San Diego services requires that you supply certain personal information, including, in most cases, a unique e-mail address and demographic information (ZIP code, age, sex, household income (optional), job industry and job title) to register. Purchases of, or that may be made through, the U-T San Diego services usually require that you supply your name, address, telephone number, e-mail address, credit card number or other billing or payment information. You may also choose to register for, or log in to, certain features or perform certain activities available at www.UTSanDiego.com or through other U-T San Diego Services (such as commenting, contests, daily deal registration, etc.) through the Facebook Connect feature. By doing this, you are asking Facebook to send us certain information from your Facebook profile, and you authorize us to collect, store, and use in accordance with this Privacy Policy any and all information available to us through the Facebook interface. After you have connected, Facebook also sends us additional information from your profile that allows us to display a Facebook module on the pages you view. To disassociate your U-T San Diego activities from Facebook Connect, please visit the applicable section of the website or feature, or you may adjust your privacy and sharing settings through your Facebook profile/account by clicking here.
 
-_Singles_  
-This system is operated by Spring Street Networks. Please review Spring Street's privacy policy for details of the use of your personal information. <http://www.springstreetnetworks.com/tos/privacy.asp>. When registering for Spring Street if you opt-in for any of their several options for email communications you could be contacted by them. The Spring Street registration asks for first and last name and email address. 
+#### Billing and Credit Card Information.
 
-_Archives_  
-To purchase access to articles in this system, users must input personal information into an ecommerce system operated by ProQuest Co. This information is used only to complete the credit card transaction. To complete the ecommerce transaction ProQuest required full name, street address, email address and credit card information. 
+To enable payments, we collect and store billing and credit card information. This information will only be shared with third parties who perform tasks related to the purchase transaction, such as fulfilling or delivering orders, processing credit card payments, or providing customer service.
 
-_Razor Gator ticketing service_  
-You must supply your email address to register for use of the ticketing service on our site, which is operated by Razor Gator Inc. Razor Gator's privacy policy is available at <http://signonsandiego.razorgator.com/policies.asp#5>. 
+#### User Generated Content and Other Public Activities.
 
-**Do other companies or people have access to personally identifiable information I provide to SignOnSanDiego.com?** When you are on an area of SignOnSanDiego.com and are asked for personally identifiable information, you are providing that information to the Union-Tribune Publishing Company, its divisions or affiliates. **We will not sell or share your personal information with any third parties.** If personally identifiable information is being provided to and/or maintained by any company other than these, our policy is that we will not transfer that personally identifiable information. Additional information about personally identifiable information follows. 
+U-T San Diego services provide opportunities for you to contribute material that is intended to be visible to others (“public activities”), such as reader or user comments, recommendations, reviews, ratings or any other items that you submit. By choosing to participate in public activities, you are electing to share and display such material via www.UTSanDiego.com or other applicable platform or media. Any information you disclose in your public activities, along with your screen name or ID, or any image or photo, becomes public and may be used by U-T San Diego for online and offline promotional or commercial uses in any and all media. If you choose to engage in public activities, you should be aware that any personal information you submit there can be read, collected, or used by others, including to send you unsolicited messages. We are not responsible for the personally identifiable information you choose to submit in these forums and U-T San Diego has no responsibility to publish, take down, remove or edit any of your public activities or any of your submissions that are a result of your public activities. For more information, see our Commenting Rules and please read the applicable section of the U-T San Diego Terms of Use. When you share or recommend (with or without adding your own comments) articles or content to your Facebook profile, that action is governed by the Facebook Privacy Policy. We do not track or store a record of those comments or actions. If you have registered for a U-T San Diego account, we will track and aggregate your public activities when using U-T San Diego services. Also, public activities may be included in RSS feeds, APIs and made available to other Web sites via other formats. As a result, your public activities may appear on other Web sites, blogs, or feeds. Keep in mind that we are not responsible for any personal information you choose to make public via your public activities, and you agree that such sharing will be deemed to have been done by you, not U-T San Diego.
 
-**Promotions:** Promotions that run on SignOnSanDiego.com may be sponsored by companies other than SignOnSanDiego.com or may be co-sponsored by SignOnSanDiego.com and another company. If you opt-in to receive information from a third party sponsor when entering a contests or participating in a promotion, some or all personally identifiable information provided by you may be shared with the sponsor. In certain circumstances, you may not be able to participate in a particular promotion if you chose not to share personally identifiable information. Currently, most SignOnSanDiego.com promotions are limited to California residents. 
+#### Contests, Sweepstakes and Special Offers.
 
-**Advertisers and Links:** SignOnSanDiego.com advertisers, or Web sites that have links on our site, may also collect personally identifiable information directly from you. The information practices of companies collecting data on our site or Web sites linked to SignOnSanDiego.com are not covered by this privacy statement. 
+U-T San Diego collects personal information from you in connection with optional sweepstakes, contests or other special or promotional offers or programs. If this information is also being collected and used by a third party other than U-T San Diego in a way that is not apparent at the time such information is provided, we will notify you at the same time. If you do not want any personal information shared, you may always decline to participate in the sweepstakes, contest or special offer or promotion.
 
-**Shopping and Business Services:** If you make a purchase or request a service from a business in Shopping, Entertainment, Singles or any of our business services sections, the information you provide for that transaction (as well as tracking information and cookies as described below) is provided directly to the business. Businesses listed in SignOnSanDiego.com Shopping, Singles and Services section have separate privacy and data collection practices. SignOnSanDiego.com has no responsibility or liability for these independent policies. For more information regarding the business and its privacy policy, go to that business' home page and click on the appropriate link. 
+#### Surveys, Panels, Focus Groups and Market Research.
 
-**Other:** If we run competitions or contests on the site, you may be required to provide personally identifiable information such as your telephone number and address in order to participate. If you told us that you would be interested in receiving e-mail from us, we may send you e-mails about SignOnSanDiego.com products, promotions, or services as well as on behalf of other companies. You can change your account preferences at any time by visiting <http://echo.bluehornet.com/clients/signon2/survey.htm>. In addition, in each advertising email you will be provided an ability to opt-out of receiving future emails from the specific advertiser. 
+U-T San Diego may collect personal information from you in connection with your voluntary participation in surveys, panels, focus groups or other means of conducting market research. Information may include your household or personal characteristics, purchase behavior and preferences. This data may be collected through the U-T San Diego services, on the phone, through the mail or in person. The information you provide in connection with these activities may be shared in the aggregate with advertisers and marketing partners, unless we notify you otherwise at the time of collection.
 
-We do not control the privacy policies of our advertisers, sponsors or other sites or businesses to which we provide hyperlinks or access. Please visit the sites of these businesses to review their privacy policies. 
+#### Special Events and Promotions.
 
-SignOnSanDiego.com users should also be aware that, when you voluntarily disclose personal information in chat areas or bulletin boards, that information may be collected by others and may result in unsolicited messages from others. 
+We often receive information regarding readers, customers or others who may attend U-T San Diego sponsored events and promotions from sign-in and registration lists. Unless we indicate otherwise at the time we collect the information, we will use such information in accordance with our Privacy Policy.
 
-Except as stated in this privacy policy or at the time of collection, a user's personally identifiable information will not be transferred to a party outside The Union-Tribune Publishing Company, its divisions or affiliates, or its service vendors unless notice is given at the time of collection or prior to transfer. If you do not wish to receive any e-mail or to have us share such information with any other party, you may change your preferences for the future at any time by (i) updating your personal preferences in your newsletter registration profile at <http://echo.bluehornet.com/clients/signon2/survey.htm> (ii) e-mailing us at [newsletters@signonsandiego.com](mailto:http://echo.bluehornet.com/clients/signon2/survey.htm) or (iii) contacting us by mail at 350 Camino de la Reina, San Diego, CA 92108. SignOnSanDiego.com may also disclose account information in special cases when we have reason to believe that disclosing this information is necessary to identify, contact or bring legal action against someone who may be violating our User Agreement or may be causing injury to or interference with (either intentionally or unintentionally) SignOnSanDiego.com's rights or property, other SignOnSanDiego.com users, or anyone else that could be harmed by such activities. 
+#### Mobile Messaging Service.
 
-**Data Security:** We have in place physical, electronic and managerial procedures to protect the information we collect online. However, as effective as these measures are, no security system is impenetrable. We cannot guarantee the security of our database, nor can we guarantee that the information you supply will not be intercepted while being transmitted to us over the Internet. 
+When you send a text message to U-T San Diego or via U-T San Diego, we may log the incoming phone number, the wireless provider associated with the number, the date and time of the transaction, and the content of the messages sent between you and U-T San Diego. Your wireless carrier and other service providers also collect data about text service usage, and their practices are governed by their own privacy policies. U-T San Diego uses the information collected from your mobile messaging service interactions with U-T San Diego for the purposes of providing relevant information and other commercial or promotional communications you have elected to receive, as well as to analyze the message traffic in order to operate, develop and improve mobile messaging service interactions.
 
-**What information do web servers collect?**   
-Web servers serving SignOnSanDiego.com automatically collect certain non-personally identifiable information, such as which pages each user visits and the domain name (e.g., Cox.net) of visitors. This information is used for various purposes including internal review, to tailor information to individual visitors, and for traffic audits. We also provide this information (as well as information from third-party market researchers) about our users on an aggregated, anonymous basis to our advertisers. 
+### Personal Information Acquired From Third Parties
 
-**What are cookies and how does SignOnSanDiego.com use them?**  
-SignOnSanDiego.com places a "cookie" on the browser of a user's computer to store and sometimes track information about you while you are on our Web site. A cookie can be used to tell when your computer has contacted our Web site; we may also use the information for editorial purposes and for other purposes such as measuring certain traffic patterns. For example, cookies are used to ensure that you don't see the same ad too many times in a single session and that you do not have to reenter registration information during your visit. We may also use cookies to track your progress on our site. Advertising service vendors that serve ads into our site may also use their own cookies. You may opt-out of the cookies delivered by SignOnSanDiego.com by changing the setting on your browser. Please be aware that this will disable all cookies delivered to your browser, not just the ones delivered by SignOnSanDiego.com **Children under 13:** Do not send any information about yourself to us - including information like your name, address or e-mail address. In general, we do not knowingly collect personally identifiable information from children under 13. If, in limited circumstances, we do knowingly collect personally identifiable information from a child under the age of 13, we will do so only with verified parental consent prior to collection. In the event that we learn that we have collected any personal information from a child under the age of 13 without verification of parental consent, we will delete that information from our database as quickly as possible. 
+Certain products and services available in connection with or through the U-T San Diego Services may involve registration, purchase or other transactions that are partially or wholly completed with a third party (for example, purchase of access to historical U-T San Diego archives from Newsbank, Inc., or download of the U-T iPad application from Apple, Inc.). Please note that, once such activities occur outside of the environment owned or controlled by U-T San Diego, the privacy practices of those third parties will be applicable and you should consult their policies concerning same. Those third parties may provide us with information about you from those interactions and our possession and use of that information would be governed by this Privacy Policy.
 
-**Changes to Privacy Policy**  
-Any changes to our privacy policy will be communicated to you via email if you have registered for any of our services that require you to enter your email address. 
+We may also purchase or otherwise receive your personal information from third parties and add that information to the personal information you provide us to create a more complete profile of you in our database. We believe that the more we know about our readers, subscribers and other customers, the better and more personalized our products and services will be, the more relevant our advertising, marketing and promotional messages will be, and the more satisfied our advertising and marketing clients and customers will be.
 
-**_Registration Questions and Answers_**
+### Non-Personal Information Automatically Collected
 
-**Why are you asking me to provide this information?**  
-The registration process allows us to track the audience profile of our Web site. This enables us to provide greater demographic targeting for our advertisers and learn a little more about our users. So you may see advertisements that are more relevant to your interest. This information also helps to plan site improvements. 
+#### Device Information.
 
-**Do I have to provide this information to view content on SignOnSanDiego.com?**  
-If you wish to read "Today's Paper" online then you must answer the few anonymous questions of age, gender, zip code and country of residence. Providing your email address is optional. You will only be asked to provide this information once or once per Web browser. On other areas of our site registration is voluntary. If you don't complete the information, it will appear again on future visits. 
+We may collect non-personal information about the computer, mobile device or other device you use to access U-T San Diego services, such as IP address, geolocation information, unique device identifiers, browser type, browser language and other transactional information.
 
-**Will I be emailed if I provide this information?** The information in the registration process is anonymous. It does not personally identify you. We will only send you email if you voluntarily opted in to receive information from us, if you signed up for one of our email newsletters, or if you are otherwise doing business with SignOnSanDiego.com or the Union-Tribune. 
+#### IP Addresses.
 
-**What if I don't complete the registration survey?**  
-If you click the "Ask Me Later Button," the registration survey will appear again next time you visit the site after a 24 hour period. On the "Today's Paper" section, you will not be able to proceed until the registration information is submitted. 
+U-T San Diego logs Internet Protocol (IP) addresses, or the location of your computer on the Internet, for systems administration and troubleshooting purposes. We use this information in an aggregate fashion to track access to our Web sites and mobile applications.
 
-**How is this information stored?**  
-The answers you provide are kept in a small file on your computer called a "cookie." Virtually all Web sites use cookies. SignOnSanDiego.com can use the information in the cookie to send you relevant information and advertising. 
+#### Log Files and Reading History.
 
-**Comments?**  
-Please send us any comments you have by email to [customersupport@signonsandiego.com](mailto:customersupport@signonsandiego.com)
+We automatically log certain usage information about your use of U-T San Diego services. This information includes a reading history of the Web pages you view. We use this information in order to provide you with customized recommendations on www.UTSanDiego.com based on your reading history. We also use log files in the aggregate to analyze usage of our Web sites and mobile applications. If you download and use our software applications, the log files will automatically be collected by the application and sent to our servers when your computer syncs up for the latest news.
+
+#### Cookies.
+
+In providing the U-T San Diego services, we use "cookies," Web beacons and other similar technologies to recognize you and provide personalization, as well as to help us understand where our visitors are going and how much time they spend there. You may not be able to access certain areas of our Web sites if your computer does not accept cookies from us. U-T San Diego also transmits non-personally identifiable Web site usage information about visitors to the servers of a reputable third party for the purpose of targeting our advertisements on other sites. To do this, we use Web Beacons in conjunction with cookies provided by our third-party ad server on this site. For more information about our third-party ad server, or to learn your choices about not having this non-personal information used to target ads to you, please click here. In addition, third parties providing services or whose ads are displayed in connection with the U-T San Diego services, including on www.UTSanDiego.com and within our mobile apps, may also place or recognize cookies, Web beacons or other technology to track certain non-personal information about our users. For example, in the course of serving certain advertisements, some advertisers may place or recognize a unique cookie on your browser in order to collect certain information about your use of the U-T San Diego services. In many cases, this information could be used to show you ads based on your interests on other Web sites. We do not have access to, nor control over, advertisers' or service providers' use of cookies or other tracking technologies or how they may be used. You may be able to choose to be notified about and/or decline to accept cookies by choosing the applicable privacy settings available through your Web browser of choice.
+
+#### Analytics Technologies.
+
+We use certain third parties to provide us information, reports and analysis about the usage and browsing patterns of users of the U-T San Diego services. These third parties track and analyze non-personally identifiable usage and volume statistical information from our visitors, users and customers.
+
+#### Location Information.
+
+Some of our mobile applications can deliver content based on your current location if you choose to enable that feature of the app. If you enable the location-based feature, your current location will be stored locally on your device, which will then be used by the app. If you elect to have a location-based search saved to your history, we will store that information on our servers. If you do not enable the location-based service, or if an app does not have that feature, the app will not transmit to us, and we will not collect or store, location information. Ads may be displayed within our apps. The ads you see are not targeted to you based on your current GPS location, but they may be targeted to you based on your device's IP address or ZIP code.
+
+### What do we do with the information we collect?
+
+Providing the Services You Request. We use the information we gather about you to manage and enable your use of the U-T San Diego services, to fulfill your requests for certain products and services, and to send out electronic or other communications.
+
+#### Statistical Analysis.
+
+We perform statistical, demographic and marketing analyses of customers and users of the U-T San Diego services, and their subscribing and purchasing patterns, for product development purposes and to generally inform advertisers about the nature of our subscriber and customer base.
+
+#### Customizing Your Experience.
+
+We may use the information we collect to customize certain features of the U-T San Diego services to provide you with an enhanced experienced, including based on the type of device you are using to access the U-T San Diego services.
+
+#### Advertising and Marketing.
+
+We may use demographic and preference information to allow advertising on the U-T San Diego services to be targeted to the users for whom it appears most pertinent. This means users see advertising that is most likely to interest them, and advertisers send their messages to people who are most likely to be receptive, improving both the viewer's experience and the effectiveness of the ads. Information may also be used to market and promote U-T San Diego products or services or those of affiliated companies or third parties that we believe may be of interest to U-T San Diego subscribers, users and customers.
+
+### When will we disclose or divulge the information we collect?
+
+#### Aggregate and De-Identified Information.
+
+We regularly share information about our audience, users and customers in aggregate or de-identified (i.e. stripped of reference to a named individual) form. Nothing in this Privacy Policy is intended to restrict U-T San Diego's use of aggregated or de-identified information in any way.
+
+#### Service Providers.
+
+We contract with other companies to provide services on our behalf, including credit-card and billing processing, delivery or shipping, email distribution, list processing and analytics, and survey and promotions management. We provide these companies with the information they need to perform their services. Our contracts with these service providers generally prohibit them from using this information in any way other than to provide services for U-T San Diego, and they agree not to share, resell or use the data for their own direct marketing purposes.
+
+#### Legal and Related Matters.
+
+We may disclose personal information if we are required to do so by law or we have a good faith belief that such action is necessary to:
+
+  * (1) comply with the law or with legal process;
+  * (2) protect and defend our rights and property;
+  * (3) protect against misuse or unauthorized use of the U-T San Diego services; or
+  * (4) protect the personal safety or property of our users or the public (among other things, this means that if you provide false information or attempt to pose as someone else, information about you may be disclosed as part of any investigation into your actions).
+
+
+
+#### Third Party Marketing.
+
+If you are a subscriber to or registered user of U-T San Diego services, and unless you opt out of disclosure as described below, we may exchange, sell or rent your name, contact (including your email address) and certain other information, such as when you first subscribed to U-T San Diego, with or to other reputable companies seeking to promote their products or services to U-T San Diego subscribers and customers. If you prefer that we do not share this information, you may opt out by either emailing us at Subscriber.Requests@UTSanDiego.com or you may contact us by regular mail at: U-T San Diego, Attention: Customer Service, 350 Camino de la Reina, San Diego, California 92108. If you are a current newspaper subscriber, please remember to include your account number and phone number in the body of your e-mail, and if you choose to opt-out via e-mail, please put "Opt Out" in the subject line. We reserve the right to disclose your opt-out information to third parties so they can suppress your name from future solicitations, in accordance with applicable laws.
+
+#### Sale/Purchase of Business or Joint Ventures.
+
+In the future, we may sell, buy, merge or partner with other companies or businesses. In such transactions, we may include your information among the transferred or shared assets. What is our email policy?
+
+#### CAN-SPAM Act Compliance.
+
+We will not share, sell, rent, swap or authorize any third party to use your email address for commercial purposes except in compliance with applicable law. You can view and change your email preferences and profile at any time by visiting www.UTSanDiego.com/manageemail. If at any time you feel you have received an email from us in error, please contact feedback@utsandiego.com. Account and Service-Related Email. U-T San Diego at all times reserves the right to send you e-mail relating to your account status. This includes order confirmations, renewal/expiration notices, notices of credit-card problems, other transactional e-mails and notifications about major changes to the U-T San Diego services and/or to our Privacy Policy. If you have registered for online discussions or other services, you may receive e-mail specific to your participation in those activities. Email Newsletters. U-T San Diego will periodically send you e-mail newsletters. If you no longer wish to receive a specific newsletter, follow the "unsubscribe" instructions located near the bottom of the newsletter.
+
+#### Promotional Email.
+
+U-T San Diego may periodically email you messages about products and services that we think may be of interest to you. You can choose not to receive messages in the future by following the "unsubscribe" instructions located near the bottom of any such email. From time to time, U-T San Diego may obtain email addresses from third party sources to be used for promotional emails. You can choose not to receive messages in the future by following the "unsubscribe" instructions located near the bottom of any such email. 
+
+#### Survey Email.
+
+We may send you an email inviting you to participate in user surveys, asking for feedback on U-T San Diego services or prospective products and services, as well as information to better understand our users and customers. Surveys greatly help us to improve the U-T San Diego services, and any information we obtain in such surveys will not, unless otherwise noted, be shared with third parties other than in aggregate or de-identified form.
+
+#### HTML Email.
+
+When you provide us with an email address, you may be asked to select either plain text or HTML (with images) format. If you select the HTML format, we may place a one-pixel gif to determine whether or not the e-mail was read. This process does not leave any information on your computer, nor does it collect information from your computer. U-T San Diego may share this data with others in aggregate or de-identified form.
+
+#### Emails From You.
+
+If you send us emails, you should be aware that information disclosed in emails may not be secure or encrypted and thus may be available to others. We suggest that you exercise caution when deciding to disclose any personal or confidential information in emails. We will use your email address to respond directly to your questions or comments.
+
+#### Email This Article Feature.
+
+Our websites or other digital products may allow readers to email links to articles (or other content). The email addresses that you supply may be saved for your convenience for future articles or information you may wish to share by email; these addresses are not used for any other purpose, and will not be shared with any third parties.
+
+### How do I change or update my personal information?
+
+#### U-T San Diego Subscriber Account.
+
+You may update and/or edit your subscriber account information online at www.UTSanDiego.com/subscriptions by clicking on the link for “Manage Subscription.” You may review and update your subscription or account information and access your transaction history, and ensure your personal information is accurate and up to date. To gain access to your subscription information, you will be asked to enter or re-enter your login and password. If you do not remember your login or password, you can reset your password. Should you require assistance, please call our toll free number 1-800-533-8830.
+
+### How do I opt-out of use of my information for marketing purposes?
+
+If, at any time, you prefer not to receive solicitations originated by U-T San Diego, or if you prefer that we do not share information with third parties for marketing purposes, please either e-mail us at Subscriber.Requests@UTSanDiego.com or send a letter to us by regular mail at: U-T San Diego, Attention: Customer Service, 350 Camino de la Reina, San Diego, California 92108. If you are a current newspaper subscriber, please remember to include your account number and phone number in the body of your e-mail, and if you choose to opt-out via e-mail, please put "Opt Out" in the subject line.
+
+### How does U-T San Diego protect the privacy of children?
+
+We will not knowingly gather or request personally identifiable information from or about children under the age 13 except as permitted by law. If we find we have received any information from a child under 13 in violation of this policy, we will delete that information immediately. If you have reason to believe that U-T San Diego has any information from or about anyone under the age of 13, please contact us using the information provided herein or available elsewhere on www.UTSanDiego.com.
+
+### Can this policy change?
+
+Yes. We reserve the right to change this policy at any time and you should check this page periodically. Your continued use of U-T San Diego services once such changes are posted to this policy will mean you accept those changes.
+
+### What is the law governing use of U-T San Diego and this Privacy Policy?
+
+#### California Law.
+
+California law governs the use of the U-T San Diego services and this Privacy Policy. Users of U-T San Diego consent to the jurisdiction and venue of an appropriate court or other tribunal in San Diego as the most convenient and appropriate forum for the resolution of disputes concerning this policy. U-T San Diego is controlled, operated and administered entirely within the United States. If you are located outside the United States, please note the information you provide to us will be transferred to the United States and that by accessing or using the U-T San Diego Services you are consenting to this transfer. Please see our Terms of Use for additional information concerning dispute resolution, including the arbitration provisions contained therein.
+
+#### California Privacy Rights.
+
+A California resident who has provided Personal Information to a business with whom he/she has established a business relationship for personal, family, or household purpose is entitled to request information about whether the business has disclosed Personal Information to any third parties for the third parties’ direct marketing purposes. In general, if the business has made such a disclosure of Personal Information, upon receipt of a request by a user or customer, the business is required to provide a list of all third parties to whom personal information was disclosed in the preceding calendar year, as well as a list of the categories of personal information that were disclosed. However, under the law, a business is not required to provide the above-described lists if the business maintains and adopts and discloses to the public (in its privacy policy) a policy of not disclosing customer’s personal information to third parties for their direct marketing purposes unless (1) the customer first affirmatively agrees to the disclosure or (2) the customer refrains from exercising an option that prevents the disclosure. Rather, the business may comply with the law by notifying the customer of his or her right to prevent disclosure of personal information and providing a cost free means to exercise that right.
+
+As stated in this Privacy Policy, U-T San Diego may share information with third parties for their direct marketing purposes unless you opt-out of receiving such information. Please note that whenever you opt-in to receive future communications from a third party or refrain from opting out from such sharing, your personal information may become subject to the third party's privacy policy and practices. If you later decide that you do not want that third party to use your information, you will need to contact the third party directly, as we have no control over how third parties use personal information. You should always review the privacy policy of any party that collects your information to determine how that entity will handle your information.
+
+If you are a California resident and request information about how to exercise your third party disclosure choices you may send an e-mail to customerservice@UTSanDiego.com or you may contact us by regular mail at: U-T San Diego, Attention: Customer Service, 350 Camino de la Reina, San Diego, California 92108.
+
+All requests sent via postal mail must be labeled "Your California Privacy Rights" on the envelope or post card and clearly stated on the actual request. For all requests, please include your name, street address, city, state, and zip code. (Your street address is optional if you wish to receive a response to your request via e-mail. Please include your zip code for our own record keeping.) U-T San Diego will not accept requests via the telephone or by facsimile. U-T San Diego is not responsible for notices that are not labeled or not sent properly or do not have complete information.
+
+If you have questions about this Privacy Policy, please send an e-mail to customerservice@UTSanDiego.com, or you may contact us by regular mail at: U-T San Diego, Attention: General Counsel, 350 Camino de la Reina, San Diego, California 92108.
