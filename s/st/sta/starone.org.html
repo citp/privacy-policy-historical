@@ -1,14 +1,33 @@
-<!--The following is the downloaded HTML source of the starone.org privacy policy that was archived on 2012-12-24.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121224231624id_/https%3A//www.starone.org/home/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the starone.org privacy policy that was archived on 2013-06-25.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130625063549id_/https%3A//www.starone.org/home/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head>
 					<title>Star One Credit Union  - 			Privacy
 			</title>
-								<!-- DI Global Include File please do not remove -->
-        <script type="text/javascript" src="/mstinc/web/js/global.js">/* */</script><script type="text/javascript" src="/mstinc/js/jquery-1_4_2.js">/* */</script>
-        <!-- DI Global Include File please do not remove -->
+						
+
+
 		
 		<script src="/mstinc/hbx/diHBX.js" type="text/javascript">/*comment*/</script>
+<script type="text/javascript" src="/mstinc/js/jquery-1_7_2.js">/* */</script>
+<script type="text/javascript">
+if (typeof MstIncGlobal != "object") var MstIncGlobal = {};
+MstIncGlobal.USP = {
+"converted_to_usp": true, // do not change
+"ib_url": "https://www.starone.org/onlineserv/HB", // only change if FI doesn't have $cfg_ib_url set in template_head.vm
+//format - https://www.fidomain.com/onlineserv/HB
+"demo_script_url": "/mstinc/web/usp/demo.js", // no need to change for WC sites
+"custom_callback": function(){
+// add code to swap out things like User ID label text / image
+$('.uspDemo,.noUsp').show();
+//var script = document.createElement( 'script' );script.type = 'text/javascript';script.src = '/mstinc/web/js/untethered_motd.js';$('head').append( script );$('input[name="userNumber"], input[name="userid"]').focus(function(){showMotd()})
+} // end custom_callback()
+}; // End USP config object declaration
+</script>
+<!-- DI Global Include File please do not remove -->
+<script type="text/javascript" src="/mstinc/web/js/global.js">/* */</script>
+<!-- DI Global Include File please do not remove -->
+<script type="text/javascript" src="/mstinc/web/usp/usp_behavior.js">/* */</script>
 		<script type="text/javascript">
 			diHBX.init("/Privacy");
 			/*Adding velocity-based javascript variables*/
@@ -86,7 +105,7 @@
 			diDir = dir = editMode + "/home/diFiles/skins/default";
 			fiDir = editMode + "fiFiles/static";
 		</script>
-		<script type="text/javascript" src="/home/diFiles/skins/default/js/jquery.js">/*comment*/</script>
+
 		<script type="text/javascript" src="/home/diFiles/skins/default/js/jquery.scrollTo-min.js">/*comment*/</script>
 		<script type="text/javascript" src="/home/diFiles/skins/default/js/jquery.serialScroll-min.js">/*comment*/</script>
 		<script type="text/javascript" src="/home/diFiles/skins/default/js/jquery.DIMenus.js"></script>
@@ -94,6 +113,13 @@
 		<script type="text/javascript" src="/home/diFiles/skins/default/js/AC_RunActiveContent.js">/*comment*/</script>
 		<script type="text/javascript" src="/home/diFiles/skins/default/js/rollovers.js">/*comment*/</script>
 		<script type="text/javascript" language="JavaScript1.1" src="/home/diFiles/skins/default/js/iclient.js">/*comment*/</script>
+		<script type="text/javascript" lang="javascript">
+		var ck = '2133141946';
+		var bd = "https://host.visualcalc.com/calcs";  //calcs base url
+		</script>
+		<script src="https://host.visualcalc.com/calcs/include/vchcc.js" type="text/javascript" language="JavaScript">  // must specify link to external js file
+
+		</script>
 				<link href="/home/fiFiles/static/css/fi_styles.css" rel="stylesheet" type="text/css">
 		<link href="/home/diFiles/skins/default/css/_styles.css" rel="stylesheet" type="text/css" media="all">
 		<link href="/home/diFiles/skins/default/css/_stylesPrint.css" rel="stylesheet" type="text/css" media="print">
@@ -105,6 +131,20 @@
 				self.print();
 			}
 		</script>
+		
+		<script type="text/javascript" lang="javascript">
+
+		var ck = '2133141946';
+		var bd = "https://host.visualcalc.com/calcs";  //calcs base url
+			
+	</script>
+	<script src="https://host.visualcalc.com/calcs/include/vchcc.js" type="text/javascript" language="JavaScript">  // must specify link to external js file
+
+	</script>
+	
+	<meta name="ifs_filter" content="starone">
+	
+	
 	</head>
 
 	<body onload="" id="back">
@@ -145,13 +185,12 @@
 
 						<ul>
 							<li><a href="/home/accountaccess/ob">First Time User</a></li>
-							<li><a href="/home/home?demo=true">View Demo</a></li>
+							<span class="uspDemo" style="display:none;"> <li><a href="/home/home?demo=true">View Demo</a></li></span>
 							<li><a href="/home/tools/whatsnew#maintenance">Maintenance Schedule</a></li>
 						</ul>
 					</div>
-
-					<div class="backModule">
-													<div><img src="/home/diFiles/skins/default/images/ttl_alsointhissection.gif" alt="Also In This Section"></div>
+															<div class="backModule">
+													<div class="in_this_section">Privacy</div>
 							<ul>
 																				<!-- <li>Three</li> -->
 							</ul>
@@ -169,7 +208,7 @@
 					</div>
 
 					<div class="pageContent">
-												<div class="pageTools"><img src="/home/diFiles/skins/default/images/fontsizer_ttl.gif" alt="Font Size"><a onclick="changeTextSize('small');return false;" href="#"><img src="/home/diFiles/skins/default/images/fontsizer_1.gif" alt="small"></a><a onclick="changeTextSize('medium');return false;" href="#"><img src="/home/diFiles/skins/default/images/fontsizer_2.gif" alt="medium"></a><a onclick="changeTextSize('large');return false;" href="#"><img src="/home/diFiles/skins/default/images/fontsizer_3.gif" alt="large"></a><a href="" onclick="printThis(); return false;"><img src="/home/diFiles/skins/default/images/btn_print.gif" alt="Print This Page" style="margin-left:8px;"></a></div>
+												<div class="pageTools"><img src="/home/diFiles/skins/default/images/fontsizer_ttl.gif" alt="Font Size"><a class="fontsizer" href="#"><img src="/home/diFiles/skins/default/images/fontsizer_1_off.gif" alt="small"></a><a class="fontsizer" href="#"><img src="/home/diFiles/skins/default/images/fontsizer_2_on.gif" alt="medium"></a><a class="fontsizer" href="#"><img src="/home/diFiles/skins/default/images/fontsizer_3_off.gif" alt="large"></a><a href="" onclick="printThis(); return false;"><img src="/home/diFiles/skins/default/images/btn_print.gif" alt="Print This Page" style="margin-left:8px;"></a></div>
 						
 						<div class="breadcrumbs">	<a href="/home/">Home</a>&nbsp;&nbsp;&gt;&nbsp;&nbsp;<a href="/home/privacy" id="breadcrumbsOn">Privacy</a></div>
 
@@ -435,7 +474,9 @@
 																																																																																																																																																																											</ul>
 																																																																																					<div class="subMenu" id="menu_about">
 								<div class="navColumn navCol1" style="float:left;"><ul>
-																							<li><a class="level_one" href="/home/about/careers">Careers</a>
+																							<li><a class="level_one" href="/home/locations/branchmap">Star One Branches</a>
+			</li>
+														<li><a class="level_one" href="/home/about/careers">Careers</a>
 			</li>
 														<li><a class="level_one" href="/home/about/disclosures">Disclosures</a>
 			</li>
@@ -475,19 +516,19 @@
 			</li>
 														<li><a class="level_one" href="/home/creditcards/loststolen">Lost or Stolen Cards</a>
 			</li>
-														<li><a class="level_one" href="/home/creditcards/verified">Verified By Visa</a>
+														<li><a class="level_one" href="/home/creditcards/visacode">Visa 3 Digit Code</a>
 			</li>
-																	
+														
 														
 														
 														
 														
 											</ul></div>
-							<div class="navColumn navCol2" style="float:left;"><ul><!-- comment --><li><a class="level_one" href="/home/creditcards/visacode">Visa 3 Digit Code</a>
-			</li><li><a class="level_one" href="/home/creditcards/fraudprevention">Fraud Prevention</a>
+							<div class="navColumn navCol2" style="float:left;"><ul><!-- comment --><li><a class="level_one" href="/home/creditcards/fraudprevention">Fraud Prevention</a>
 			</li><li><a class="level_one" href="/home/creditcards/compromised">Compromised Cards</a>
 			</li><li><a class="level_one" href="/home/creditcards/Hints">Helpful Hints</a>
 			</li><li><a class="level_one" href="/home/creditcards/dispute">Dispute a Charge</a>
+			</li><li><a class="level_one" href="/home/creditcards/giftcard">Visa Gift Card</a>
 			</li></ul></div><div style="clear:both;height:0px;"><!-- comment --></div></div>
 																											<div class="subMenu" id="menu_accounts">
 								<div class="navColumn navCol1" style="float:left;"><ul>
@@ -499,9 +540,9 @@
 			</li>
 														<li><a class="level_one" href="/home/accounts/student">Student &amp; Youth Accounts</a>
 			</li>
-														<li><a class="level_one" href="/home/accounts/ira">IRAs &amp; ESAs</a>
+														<li><a class="level_one" href="/home/accounts/minor">Minor &amp; Trust Accounts</a>
 			</li>
-														<li><a class="level_one" href="/home/accounts/overdraft">Overdraft Coverage</a>
+														<li><a class="level_one" href="/home/accounts/ira">IRAs &amp; ESAs</a>
 			</li>
 														
 														
@@ -509,7 +550,7 @@
 														
 														
 											</ul></div>
-							<div class="navColumn navCol2" style="float:left;"><ul><!-- comment --><li><a class="level_one" href="/home/accounts/visagift">Visa Gift Card</a>
+							<div class="navColumn navCol2" style="float:left;"><ul><!-- comment --><li><a class="level_one" href="/home/accounts/overdraft">Overdraft Coverage</a>
 			</li><li><a class="level_one" href="/home/accounts/products">Products &amp; Services</a>
 			</li><li><a class="level_one" href="/home/accounts/otherproducts">Other Services</a>
 			</li><li><a class="level_one" href="/home/accounts/insurance">Insured Savings Facts</a>
@@ -521,11 +562,13 @@
 			</li>
 														<li><a class="level_one" href="/home/accountaccess/billpay">Bill Pay</a>
 			</li>
+														<li><a class="level_one" href="/home/accountaccess/mobile">Mobile Banking</a>
+			</li>
+														<li><a class="level_one" href="/home/accountaccess/passwords">Passwords</a>
+			</li>
 														<li><a class="level_one" href="/home/accountaccess/checkcards">Visa Debit Cards &amp; ATM Cards</a>
 			</li>
-														<li><a class="level_one" href="/home/accountaccess/touchtone">Touchtone Teller</a>
-			</li>
-														<li><a class="level_one" href="/home/accountaccess/transact">Transact by Mail</a>
+														<li><a class="level_one" href="/home/locations/branchmap">Star One Branches</a>
 			</li>
 														
 														
@@ -533,10 +576,10 @@
 														
 														
 											</ul></div>
-							<div class="navColumn navCol2" style="float:left;"><ul><!-- comment --><li><a class="level_one" href="/home/accountaccess/passwords">Passwords</a>
-			</li><li><a class="level_one" href="/home/accountaccess/move_money">How to Move Money</a>
+							<div class="navColumn navCol2" style="float:left;"><ul><!-- comment --><li><a class="level_one" href="/home/accountaccess/move_money">How to Move Money</a>
+			</li><li><a class="level_one" href="/home/accountaccess/touchtone">Touchtone Teller</a>
+			</li><li><a class="level_one" href="/home/accountaccess/transact">Transact by Mail</a>
 			</li><li><a class="level_one" href="/home/accountaccess/ezdeposit">ezDeposit</a>
-			</li><li><a class="level_one" href="/home/accountaccess/mobile">Mobile Banking</a>
 			</li><li><a class="level_one" href="/home/locations/ATM_Branch_Locator">ATM and Shared Branch Locators</a>
 			</li></ul></div><div style="clear:both;height:0px;"><!-- comment --></div></div>
 																											<div class="subMenu" id="menu_tools">
