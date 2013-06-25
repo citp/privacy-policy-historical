@@ -1,6 +1,9 @@
-> *The following text is extracted and transformed from the creditinfocenter.com privacy policy that was archived on 2012-10-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121027065439id_/http%3A//www.creditinfocenter.com/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the creditinfocenter.com privacy policy that was archived on 2013-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130625233227id_/http%3A//www.creditinfocenter.com/privacy.shtml) for the most accurate reproduction.*
 
-# Credit Infocenter's Privacy Policy
+# Privacy/Acceptable Use Policy - creditinfocenter.com
+
+  
+
 
 ## Web Nation, Inc. Takes Your Privacy Seriously
 
