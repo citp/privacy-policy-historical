@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the shiftplanning.com privacy policy that was archived on 2012-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121217040112id_/http%3A//www.shiftplanning.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shiftplanning.com privacy policy that was archived on 2013-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130627012704id_/http%3A//www.shiftplanning.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - ShiftPlanning.com
 
@@ -118,6 +118,9 @@ Enter desired URL
   
 By clicking "Create my ShiftPlanning Account" you agree to the [Terms of Service](https://web.archive.org/terms/) and [Privacy Policy](https://web.archive.org/privacy/). 
 
+Have a promotional or referral code? Click Here   
+
+
 ## LIVE CHAT DEMO REQUEST!
 
 Please provide information below.
@@ -130,4 +133,17 @@ Enter your E-Mail
 Enter your Phone Number  
 Enter your Business Name  
 Enter Industry  
-Enter Number of Employees
+Enter Number of Employees  
+  
+## RESELLER REQUEST!
+
+Please provide information below.
+
+close 
+
+Enter your Full Name  
+---  
+Enter your E-Mail  
+Enter your Phone Number  
+Enter your Company Name  
+Enter your Company website
