@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the trannyaccess.com privacy policy that was archived on 2012-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121209073700id_/http%3A//www.membersitesupport.com/privacy.php%3Fsite%3DTrannyaccess.com) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the trannyaccess.com privacy policy that was archived on 2013-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130627013741id_/http%3A//www.membersitesupport.com/privacy.php%3Fsite%3DTrannyaccess.com) for the most accurate reproduction.*
 
 # Privacy Policy
 
