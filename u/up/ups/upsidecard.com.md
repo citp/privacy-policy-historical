@@ -1,10 +1,20 @@
-> *The following text is extracted and transformed from the upsidecard.com privacy policy that was archived on 2012-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121103043242id_/http%3A//www.upsidecard.com/PrivatePolicy.aspx%3Fsitemode%3Dlife) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the upsidecard.com privacy policy that was archived on 2013-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130626232017id_/http%3A//www.upsidecard.com/PrivatePolicy.aspx%3Fsitemode%3Dlife) for the most accurate reproduction.*
 
 # Privacy Policy: Privacy Policy for UPside Visa Prepaid Cards
 
 This Privacy Disclosure explains the privacy policies of Plastyc Inc. (“Plastyc”) with respect to the UPside Card Services inclusive of customer enrollment, self care and value added services provided through any combination of the UPside Card websites, phone lines and electronic mail and postal mail services, but exclusive of the payment transaction services and card issuance services, which are governed by the MetaBank Privacy Policy. 
 
 We are committed to protecting our customers’ privacy and security. This disclosure explains what information we collect about you, with whom we share it, and how you can direct us not to share certain information with certain parties. This Privacy Disclosure applies to all users of our websites and value-added services, whether they are minor or major, and whether they are a prospective cardholder, existing cardholder, or parent/tutor of a prospective or existing cardholder. 
+
+**The Children Online Privacy Protection Act (COPPA)**
+
+The Children Online Privacy Protection Act, effective April 21, 2000 applies to the online collection of personally identifiable information and aggregate information from children under 13. We do not knowingly market to or solicit information from children under 13. We have made it a policy at Plastyc to not accept any applications or communications from children under the age of 13. Since we do not collect information from children we are not required by law to comply with COPPA, but we do choose to adhere to its principles. We are not responsible for the data collection and practices of nonaffiliated third parties that may be linked to/from our Web site, with respect to COPPA compliance. 
+
+We recognize that protecting children’s identities and privacy online is important and that the responsibility to do so rests with both the online industry and with parents. While Plastyc works to protect your personal information, you also have responsibility. 
+
+**INTERNET SAFETY For CHILDREN**
+
+The Internet is a public network. Children’s access to the Internet can allow them to visit inappropriate Web sites and be exposed to unwanted risks. Parents can be proactive by installing filtering software that gives them more control over their family’s Internet experience. Learn more about COPPA at [www.coppa.org](http://www.coppa.org/) and on the Federal Trade Commission’s Web Site at [www.ftc.gov](http://www.ftc.gov/). 
 
 **1\. DEFINITIONS**
 
