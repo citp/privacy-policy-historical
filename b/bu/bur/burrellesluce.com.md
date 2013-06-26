@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the burrellesluce.com privacy policy that was archived on 2012-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121016085106id_/http%3A//www.burrellesluce.com/company/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the burrellesluce.com privacy policy that was archived on 2013-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130626025145id_/http%3A//www.burrellesluce.com/company/privacy_policy) for the most accurate reproduction.*
 
 # Site Privacy Policy | BurrellesLuce
 
