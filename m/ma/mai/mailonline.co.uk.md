@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mailonline.co.uk privacy policy that was archived on 2012-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121231012126id_/http%3A//www.dailymail.co.uk/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mailonline.co.uk privacy policy that was archived on 2013-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130627003839id_/http%3A//www.dailymail.co.uk/privacy) for the most accurate reproduction.*
 
 # Privacy Policy and Cookies | Mail Online
 
@@ -218,9 +218,6 @@ United Kingdom
 
   
 We may charge a small administration fee (not exceeding the maximum permitted by law) in relation to fulfilling a request for access to personal information.  
-
-
-  
 
 
 Sorry we are unable to accept comments for legal reasons.
