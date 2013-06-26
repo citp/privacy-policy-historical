@@ -1,68 +1,217 @@
-> *The following text is extracted and transformed from the sffirecu.org privacy policy that was archived on 2012-10-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121015052618id_/http%3A//www.sffirecu.org/about-us/privacy-and-security) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sffirecu.org privacy policy that was archived on 2013-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130627000416id_/http%3A//sffirecu.org/2011/12/6/privacy-notice) for the most accurate reproduction.*
 
-# SF Fire Credit Union : Your Privacy Rights
+# SF Fire Credit Union : Privacy Notice to Members
 
-## Your Privacy Rights
+We are required to send this Notice annually.  
+If you have responded to us in the past,  
+your previous selection still applies.
 
-### Member Privacy and Security are Paramount at SF Fire Credit Union
+**FACTS**
 
-San Francisco Fire Credit Union does not sell our membership list to marketers or any other outside source. Your business is safe and secure and your privacy is of the utmost importance to the Credit Union.
+| 
 
-### Information Security
+**WHAT DOES SAN FRANCISCO FIRE CREDIT UNION DO WITH YOUR PERSONAL INFORMATION?**  
+  
+---|---  
+  
+Why?
 
-> We operate secure data networks protected by industry standard firewalls, encryption and password protection. The company enforces security procedures to protect confidential information from loss, misuse or alteration.
+| 
 
-### Privacy Disclosure
+Financial companies choose how they share your personal information. Federal law gives consumers the right to limit some but not all sharing. Federal law also requires us to tell you how we collect, share, and protect your personal information. Please read this notice carefully to understand what we do.  
+  
+---|---  
+  
+What?
 
-We care about your privacy and recognize our responsibility to keep the information you provide us secure and confidential. Along with protecting your financial assets, protecting your privacy is our top priority. Our privacy policy is designed to do just that. This policy is provided to you as required by law. Please read it carefully and keep it for your records.
+| 
 
-#### Protecting Your Privacy
+The types of personal information we collect and share depend on the product or service you have with us. This information can include:
 
-Our Privacy Policy explains how we protect the privacy of your personal information. It also explains certain situations where we release information about you to third parties, such as to maintain your account or other circumstances as required or permitted by law.
+  * Social Security number and account balances
+  * Income and payment history
+  * Transaction history and credit history
 
-As long as you maintain a relationship with us, you will receive notice of our Privacy Policy as the law requires. If our information collecting or sharing practices change, we will provide you with a revised Privacy Policy. If you have a joint account with someone else or are a co-borrower, please give a copy of this Privacy Policy to them to ensure that each of you is aware of our policy and your options. Our Privacy Policy is always available upon request.
+  
+---|---  
+  
+How?
 
-#### Confidentiality and Security
+| 
 
-We restrict access to non-public personal information about you to those employees who need to know that information to provide products or services to you. We maintain physical, electronic and procedural safeguards that comply with State and Federal Regulations to guard your non-public personal information.
+All financial companies need to share members' personal information to run their everyday business. In the section below, we list the reasons financial companies can share their members' personal information; the reasons SF Fire Credit Union chooses to share; and whether you can limit this sharing.  
+  
+---|---  
+  
+Reasons we can share your personal information
 
-#### Scope of Our Policy
+| 
 
-Our Privacy Policy governs Member Information which is defined as personally identifiable information about a member or their relationship with us. The policy applies to individuals who obtain products or services from us for personal, family or household purposes. Our Privacy Policy applies to member information obtained by San Francisco Fire Credit Union.
+Does SF Fire Credit Union Share?
 
-[[Top of Page]](https://web.archive.org/about-us/privacy-and-security#top)
+| 
 
-#### Information Sharing with Companies that Perform Services on Our Behalf
+Can you limit this sharing?  
+  
+---|---|---  
+  
+For our everyday business purposes  \- such as to process your transactions, maintain your account(s), respond to court orders and legal investigations, or report to credit bureaus 
 
-We may share all of the types of member information we obtain about you, as described in this policy, with companies that perform marketing services on our behalf or with other financial institutions with whom we have joint marketing arrangements, as permitted by law. All of these companies are obligated to keep the information we provide to them confidential and to use the information only to provide the services we have asked them to perform for us.
+| 
 
-#### Information Sharing in Other Situations
+Yes
 
-We may share all the types of member information that we obtain about you in other legally permitted situations:
+| 
 
-  * If we have your consent to a disclosure for a specific purpose
-  * To complete your transaction and maintain your account, such as recording deeds of trusts and mortgages in public record
-  * In response to a subpoena, a fraud investigation or other legal process
-  * To credit bureaus or similar reporting agencies and with others who ask for credit references in accordance with customary business practices
-  * To regulatory agencies and auditors
-  * To another financial institution or entity that purchases your loan or account, or if we sell or merge parts of our business
-  * To another company that we hire to collect on your account
-  * To affiliates, investors, servicers, rating agencies, mortgage insurers, due diligence firms and others in connection with loan sales and securitizations
+No  
+  
+For our marketing purposes \- to offer our products and services to you
+
+| 
+
+Yes
+
+| 
+
+No  
+  
+For joint marketing with other financial companies
+
+| 
+
+Yes
+
+| 
+
+**Yes ***  
+  
+For our affiliates' everyday business purposes \- information about your transactions and experiences
+
+| 
+
+No
+
+| 
+
+we don't share  
+  
+For our affiliates' everyday business purposes \- information about your creditworthiness
+
+| 
+
+No
+
+| 
+
+we don't share  
+  
+For nonaffiliates to market to you
+
+| 
+
+No
+
+| 
+
+we don't share  
+  
+To limit our sharing
+
+| 
+
+* California state law provides additional protections regarding the sharing of member's personal information. **Click on this link to download the reply form:** [Important Privacy Choices for Consumers ](https://web.archive.org/assets/2011/12/7/form_online_version.pdf) as part of this notice.
+
+  * Complete the form and fax to: (415) 674-4691, or
+  * Call us toll-free at 1(888) 499-FIRE(3473) and ask us to not share your personal and financial information with outside companies
 
 
 
-#### Our Former Members
+Please note: If you are a new member, we can begin sharing your information 45 days from the date you joined. When you are no longer our member, we continue to share your information as described in this notice. However, you can contact us at any time to limit our sharing.  
+  
+---|---  
+  
+Questions?
 
-Should our member relationship end, this Privacy Policy will continue to apply to member Information we obtained about you.
+| 
 
-#### Maintenance of Accurate Information
+Call 1 (888) 499-FIRE(3473) and press 0 to speak to one of our representatives, or go to the [Protecting Your Privacy](https://web.archive.org/about-us/privacy-and-security) pages on our website.  
+  
+---|---  
+  
+What we do  
+  
+---  
+  
+How does SF Fire Credit Union protect my personal information?
 
-We strive to keep records of member information about you accurate and up to date. When you notify us of an error, we will update or correct any erroneous information.
+| 
 
-#### Children’s Online Privacy
+To protect your personal information from unauthorized access and use, we use security measures that comply with federal law. These measures include computer safeguards and secured files and buildings.  
+  
+How does SF Fire Credit Union collect my personal information?
 
-The law requires parental consent to collect or use information from a child under 13 years of age. If you are a child under 18 years of age, please show this to your parents, and do not use the online services of this institution without disclosure to parents and verifiable parental consent pursuant to the requirements of the [Children’s Online Privacy Protection Act Rule](http://www.ftc.gov/privacy/privacyinitiatives/childrens.html) (COPPA Rule).
+| 
 
-[[Top of Page]](https://web.archive.org/about-us/privacy-and-security#top)
+We collect your personal information, for example, when you: 
 
-April 25, 2006 rev Dec 2011
+  * Open an account or apply for a loan
+  * Pay your bills or use your credit or debit card
+  * Make deposits or withdrawals from your account
+
+
+
+We also collect your personal information from others, such as credit bureaus or other companies.  
+  
+Why can't I limit all sharing?
+
+| 
+
+Federal law gives you the right to limit only: 
+
+  * Sharing for affiliates' everyday business purposes â€“ information about your creditworthiness
+  * Affiliates from using your information to market to you
+  * Sharing for nonaffiliates to market to you
+
+
+
+State laws may give you additional rights to limit sharing. See below for more rights under state law.  
+  
+What happens when I limit sharing for an account I hold jointly with someone else?
+
+| 
+
+Your choices will apply to everyone on your account -- unless you tell us otherwise.  
+  
+Definitions  
+  
+---  
+  
+Affiliates
+
+| 
+
+Companies related by common ownership or control. They can be financial and nonfinancial companies. SF Fire Credit Union has no affiliates.  
+  
+Nonaffiliates
+
+| 
+
+Companies not related by common ownership or control. They can be financial and nonfinancial companies. SF Fire Credit Union does not share with nonaffiliates.  
+  
+Joint marketing
+
+| 
+
+A formal agreement between nonaffiliated financial companies that together market financial products or services to you. Our joint marketing partners include financial services and insurance companies.  
+  
+Other important information  
+  
+---  
+  
+Children's Online Privacy Protection Act Rule \-- the law requires parental consent to collect or use information from a child under 13 years of age. If you are a child under 18 years of age, please show this to your parent(s), and do not use the online services of this institution without disclosure to parent(s) and verifiable parental consent pursuant to the Children's Online Privacy Protection Act. 
+
+Cookies \-- "cookies" are pieces of data assigned by our web server and stored on your computer's hard drive for later retrieval. This helps us recognize you the next time you visit our site. We will not use cookies to record information that will enable anyone to contact you via telephone, email or regular mail. You may block the placement of cookies by adjusting the security settings on your web browser.  
+  
+Rev. 08/2012
+
+Posted on December 6th, 2011
