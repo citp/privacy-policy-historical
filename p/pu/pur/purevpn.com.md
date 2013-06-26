@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the purevpn.com privacy policy that was archived on 2012-10-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121010150544id_/http%3A//www.purevpn.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the purevpn.com privacy policy that was archived on 2013-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130627015749id_/http%3A//www.purevpn.com/privacy-policy.php) for the most accurate reproduction.*
 
 # Privacy Policy - PureVPN.com
 
@@ -70,7 +70,7 @@ All PII, public and private keys, passwords are stored in encrypted format, usin
 
 **File Sharing Activities and DMCA Notices**
 
-You agree that you will not do any kind of illegal file sharing activities on PureVPN's US and UK servers. PureVPN complies with DMCA notices and in this regard forbids its clients from such activities in those territories where it's illegal namely in the USA and the UK. However file sharing activities are permitted on our Netherlands, Canadian, German and Luxembourg servers.
+You agree that you will not perform any kind of illegal file sharing activities including copyrighted material in jurisdictions where it's illegal by law namely United Kingdom (UK) , United States (US), Canada, Australia and others. We actively block sharing of copyrighted materials/torrents on our servers as per changing global web policies to keep our service in compliance. As of now, we allow file sharing on Turkey, Sweden, Romania, Luxembourg, Netherlands, Germany (de1 only) and Russian servers. PureVPN complies with all DMCA notices and in this regard forbids its clients to refrain from such activities.
 
 **Important Note**
 
