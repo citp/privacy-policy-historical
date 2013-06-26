@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the addblogurl.com privacy policy that was archived on 2012-12-25.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121225010636id_/http%3A//www.addblogurl.com/static/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the addblogurl.com privacy policy that was archived on 2013-06-26.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130626055045id_/http%3A//www.addblogurl.com/static/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html dir="ltr" xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head>
 		
@@ -17,35 +17,71 @@
 		
 
 
-	<link rel="stylesheet" type="text/css" href="/templates/wistie/css/style.css" media="screen">
-		<link rel="stylesheet" type="text/css" href="/templates/wistie/css/dropdown.css" media="screen">
-	<link rel="stylesheet" type="text/css" href="/templates/wistie/css/dropdown-default.css" media="screen">
-	<!--[if lt IE 7]>
-	<script type="text/javascript" src="/templates/wistie/js/jquery/jquery.js"></script>
-	<script type="text/javascript" src="/templates/wistie/js/jquery/jquery.dropdown.js"></script>
-	<![endif]-->
+	<link rel="stylesheet" type="text/css" href="/templates/thestandard/css/style.css" media="screen">
+		<link rel="stylesheet" type="text/css" href="/templates/thestandard/css/categories.css" media="screen">
+	<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" async="" src="//api.viglink.com/api/vglnk.js"></script><script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.3.2/jquery.min.js"></script>
+	
+	
+	<script type="text/javascript">
+	$(document).ready(function(){
+
+		$("ul.subnav").parent().append("<span></span>"); //Only shows drop down trigger when js is enabled - Adds empty span tag after ul.subnav
+		
+		$("ul.topnav li span").click(function() { //When trigger is clicked...
+			
+			//Following events are applied to the subnav itself (moving subnav up and down)
+			$(this).parent().find("ul.subnav").slideDown('fast').show(); //Drop down the subnav on click
+
+			$(this).parent().hover(function() {
+			}, function(){	
+				$(this).parent().find("ul.subnav").slideUp('slow'); //When the mouse hovers out of the subnav, move it back up
+			});
+
+			//Following events are applied to the trigger (Hover events for the trigger)
+			}).hover(function() { 
+				$(this).addClass("subhover"); //On hover over, add class "subhover"
+			}, function(){	//On Hover Out
+				$(this).removeClass("subhover"); //On hover out, remove class "subhover"
+		});
+
+	});
+	</script>	
+	
 
 	
 				
 
 						
-			<script type="text/javascript" async="" src="//api.viglink.com/api/vglnk.js"></script><script src="/3rdparty/speller/spellChecker.js" type="text/javascript"></script>
+			<script src="/3rdparty/speller/spellChecker.js" type="text/javascript"></script>
 				
 
 			<title> Add Blog Url | Privacy Policy</title>
 		
 	<link rel="alternate" type="application/rss+xml" title="RSS 2.0" href="http://addblogurl.com/rss.php">
 	<link rel="icon" href="/favicon.ico" type="image/x-icon">
-		
-		 <script src="http://www.google-analytics.com/urchin.js" type="text/javascript">
-</script>
-<script type="text/javascript">
-_uacct = "UA-8785097-15";
-urchinTracker();
-</script> 
-</head>
+	
+	
+	<script>
+	// This script makes the 2 columns match height
+	function equalHeight(group) {
+		tallest = 0;
+		group.each(function() {
+			thisHeight = $(this).height();
+			if(thisHeight > tallest) {
+				tallest = thisHeight;
+			}
+		});
+		group.height(tallest);
+	}
+	$(document).ready(function() {
+		equalHeight($(".column"));
+	});
+	</script>
+	
+	
+	</head>
 <body dir="ltr">
-		
+	<div class="shine"> 
 <!-- START CONTENT --> 
 	<div id="content">
 		
@@ -62,423 +98,316 @@ urchinTracker();
 				
 		
 <!-- START HEADER.TPL -->
-<div id="login">
-		
-	<a href="/register">Register</a> | <a href="/login.php?return=/static/privacy-policy/">Login</a></div>
-
-<div id="logo"><a href="http://addblogurl.com"><img border="0" src="http://addblogurl.com/1076043.png">
-</a><a href="http://tinyurl.com/26jpu6h" title="Join Best-Reviewer.com with rajays as your referrer!"><img src="http://www.best-reviewer.com/sites/best-reviewer.com/images/banners/set3/468x60-1.jpg" width="468" height="60" alt="Join Best-Reviewer.com with rajays as your referrer!" border="0"></a>
-</div>
-
-<!-- START SEARCH -->
-<div class="search">
+	<div class="headerbackground">
+		<div id="login">
 						
-	
-	<form action="/search.php" method="get" name="thisform-search" id="thisform-search" onsubmit="document.location.href=&quot;http://addblogurl.com/search/&quot;+this.search.value; return false;">
-
-		<input type="text" size="20" class="searchfield" name="search" id="searchsite" value="Search.." onfocus="if(this.value == 'Search..') {this.value = '';}" onblur="if (this.value == '') {this.value = 'Search..';}">
-		<input type="submit" value="Go" class="searchbutton">
-	</form>
-</div>
-<div class="clear"></div>
-<!-- END SEARCH -->
-
-<!-- START NAVBAR -->
-<ul id="nav">
-		<li><a href="http://addblogurl.com">Published News</a></li>
-	<li><a href="/upcoming">Upcoming News</a></li>
-	<li><a href="/submit">Submit a New Story</a></li>
+			<a href="/register">Register</a> | <a href="/login.php?return=/static/privacy-policy/">Login</a>		</div>
 		
-			</ul>
+		<!-- START RSS -->
+		<div class="rsslink">
+					</div>
+		<!-- END RSS -->
 
+		<div id="logo"><a href="http://addblogurl.com">Add Blog Url</a></div>
+	</div>
+	<!-- START SEARCH -->
+	<div class="search">
+								
+		
+		<form action="/search.php" method="get" name="thisform-search" id="thisform-search" onsubmit="document.location.href=&quot;http://addblogurl.com/search/&quot;+this.search.value; return false;">
+
+			<input type="text" size="20" class="searchfield" name="search" id="searchsite" value="Search.." onfocus="if(this.value == 'Search..') {this.value = '';}" onblur="if (this.value == '') {this.value = 'Search..';}">
+			<input type="submit" value="Go" class="searchbutton">
+		</form>
+	</div>
+	<div class="clear"></div>
+	<!-- END SEARCH -->
+
+	<!-- START NAVBAR -->
+	<ul id="nav">
+				<li><a href="http://addblogurl.com">Published News</a></li>
+		<li><a href="/upcoming">Upcoming News</a></li>
+		<li><a href="/submit">Submit a New Story</a></li>
+			
+							</ul>
+	
 
 <div id="categories">
-	<ul class="dropdown dropdown-horizontal">
-																					
-			<li class="dir">
+	<ul class="topnav">
+																					<li>			
 			<a href="/Entertainment">Entertainment</a>
-			<ul>						
-															
-			<li>
+			<ul class="subnav">						
+															<li>			
 			<a href="/Gaming">Gaming</a>
 			</li>						
-															
-			<li>
+															<li>			
 			<a href="/Celebrities">Celebrities</a>
 			</li>						
-															
-			<li>
+															<li>			
 			<a href="/Music">Music</a>
 			</li>						
-															
-			<li>
+															<li>			
 			<a href="/Movies">Movies</a>
 			</li>						
-															
-			<li>
+															<li>			
 			<a href="/Television">Television</a>
 			</li>						
-												</ul></li>			
-			<li class="dir">
+												</ul></li>			<li>			
 			<a href="/Business">Business</a>
-			<ul>						
-															
-			<li>
+			<ul class="subnav">						
+															<li>			
 			<a href="/Small-Business">Small Business</a>
 			</li>						
-															
-			<li>
+															<li>			
 			<a href="/Online-Business">Online Business</a>
 			</li>						
-															
-			<li>
+															<li>			
 			<a href="/Business-Opportunities">Business Opportunities</a>
 			</li>						
-															
-			<li>
+															<li>			
 			<a href="/Finance-Banking">Finance &amp; Banking</a>
 			</li>						
-															
-			<li>
+															<li>			
 			<a href="/Management-Investments">Management and Investments</a>
 			</li>						
-															
-			<li>
+															<li>			
 			<a href="/Marketing-Advertising">Marketing and Advertising</a>
 			</li>						
-															
-			<li>
+															<li>			
 			<a href="/Big-Business">Big Business</a>
 			</li>						
-															
-			<li>
+															<li>			
 			<a href="/Other-Business">Other Business</a>
 			</li>						
-												</ul></li>			
-			<li class="dir">
+												</ul></li>			<li>			
 			<a href="/Health">Health</a>
-			<ul>						
-															
-			<li>
+			<ul class="subnav">						
+															<li>			
 			<a href="/Physical-Health">Physical Health</a>
 			</li>						
-															
-			<li>
+															<li>			
 			<a href="/Fitness">Fitness</a>
 			</li>						
-															
-			<li>
+															<li>			
 			<a href="/Alternative_Treatment">Alternative Treatment</a>
 			</li>						
-															
-			<li>
+															<li>			
 			<a href="/Mental-Health">Mental Health</a>
 			</li>						
-															
-			<li>
+															<li>			
 			<a href="/Diseases">Diseases</a>
 			</li>						
-												</ul></li>			
-			<li class="dir">
+												</ul></li>			<li>			
 			<a href="/Science">Science</a>
-			<ul>						
-															
-			<li>
+			<ul class="subnav">						
+															<li>			
 			<a href="/Earth">Earth</a>
 			</li>						
-															
-			<li>
+															<li>			
 			<a href="/space">Space</a>
 			</li>						
-															
-			<li>
+															<li>			
 			<a href="/environment">Environment</a>
 			</li>						
-															
-			<li>
+															<li>			
 			<a href="/general-sciences">General Sciences</a>
 			</li>						
-												</ul></li>			
-			<li class="dir">
+												</ul></li>			<li>			
 			<a href="/Shopping">Shopping</a>
-			<ul>						
-															
-			<li>
+			<ul class="subnav">						
+															<li>			
 			<a href="/clothes">Clothes</a>
 			</li>						
-															
-			<li>
+															<li>			
 			<a href="/Children">Children</a>
 			</li>						
-															
-			<li>
+															<li>			
 			<a href="/Men">Men</a>
 			</li>						
-															
-			<li>
+															<li>			
 			<a href="/Women">Women</a>
 			</li>						
-															
-			<li>
+															<li>			
 			<a href="/Holidays">Holidays</a>
 			</li>						
-															
-			<li>
+															<li>			
 			<a href="/Home-Garden">Home &amp; Garden</a>
 			</li>						
-															
-			<li>
+															<li>			
 			<a href="/Others">Others</a>
 			</li>						
-												</ul></li>			
-			<li class="dir">
+												</ul></li>			<li>			
 			<a href="/Internet">Internet</a>
-			<ul>						
-															
-			<li>
+			<ul class="subnav">						
+															<li>			
 			<a href="/blogs">Blogs</a>
 			</li>						
-															
-			<li>
+															<li>			
 			<a href="/directories">Directories</a>
 			</li>						
-															
-			<li>
+															<li>			
 			<a href="/internet-business">Internet Business</a>
 			</li>						
-															
-			<li>
+															<li>			
 			<a href="/domains">Domains</a>
 			</li>						
-															
-			<li>
+															<li>			
 			<a href="/searchengines">Search Engines</a>
 			</li>						
-															
-			<li>
+															<li>			
 			<a href="/social-sites">Social Sites</a>
 			</li>						
-															
-			<li>
+															<li>			
 			<a href="/videos">Videos</a>
 			</li>						
-															
-			<li>
+															<li>			
 			<a href="/website-promotion">Website Promotion</a>
 			</li>						
-															
-			<li>
+															<li>			
 			<a href="/webdesign">Web Design &amp; Development</a>
 			</li>						
-															
-			<li>
+															<li>			
 			<a href="/internet-issues">Other Internet Issues</a>
 			</li>						
-												</ul></li>			
-			<li class="dir">
+												</ul></li>			<li>			
 			<a href="/Technology">Technology</a>
-			<ul>						
-															
-			<li>
+			<ul class="subnav">						
+															<li>			
 			<a href="/gadgets">Gadgets</a>
 			</li>						
-															
-			<li>
+															<li>			
 			<a href="/mobiles">Mobiles</a>
 			</li>						
-															
-			<li>
+															<li>			
 			<a href="/software">Software</a>
 			</li>						
-															
-			<li>
+															<li>			
 			<a href="/hardware">Hardware</a>
 			</li>						
-															
-			<li>
+															<li>			
 			<a href="/security">Security</a>
 			</li>						
-															
-			<li>
+															<li>			
 			<a href="/programming">Programming</a>
 			</li>						
-															
-			<li>
+															<li>			
 			<a href="/operating-systems">Operating Systems</a>
 			</li>						
-															
-			<li>
+															<li>			
 			<a href="/techie-stuff">Other Techie Stuff</a>
 			</li>						
-												</ul></li>			
-			<li class="dir">
+												</ul></li>			<li>			
 			<a href="/Social-Issues">Social Issues</a>
-			<ul>						
-															
-			<li>
+			<ul class="subnav">						
+															<li>			
 			<a href="/activism">Activism</a>
 			</li>						
-															
-			<li>
+															<li>			
 			<a href="/education">Education</a>
 			</li>						
-															
-			<li>
+															<li>			
 			<a href="/lifestyle-choices">Lifestyle Choices</a>
 			</li>						
-															
-			<li>
+															<li>			
 			<a href="/relationships">Relationships</a>
 			</li>						
-															
-			<li>
+															<li>			
 			<a href="/religion-spirituality">Religion &amp; Spirituality</a>
 			</li>						
-															
-			<li>
+															<li>			
 			<a href="/paranormal">Paranormal</a>
 			</li>						
-															
-			<li>
+															<li>			
 			<a href="/culture">Culture</a>
 			</li>						
-															
-			<li>
+															<li>			
 			<a href="/sexuality">Sexuality</a>
 			</li>						
-															
-			<li>
+															<li>			
 			<a href="/support">Support</a>
 			</li>						
-															
-			<li>
+															<li>			
 			<a href="/other-issues">Other Issues</a>
 			</li>						
-												</ul></li>			
-			<li class="dir">
+												</ul></li>			<li>			
 			<a href="/World">World</a>
-			<ul>						
-															
-			<li>
+			<ul class="subnav">						
+															<li>			
 			<a href="/Politics">Politics</a>
 			</li>						
-															
-			<li>
+															<li>			
 			<a href="/world-news">World News</a>
 			</li>						
-															
-			<li>
+															<li>			
 			<a href="/offbeat">Offbeat News</a>
 			</li>						
-															
-			<li>
+															<li>			
 			<a href="/history">History</a>
 			</li>						
-												</ul></li>			
-			<li class="dir">
+												</ul></li>			<li>			
 			<a href="/Travel">Travel</a>
-			<ul>						
-															
-			<li>
+			<ul class="subnav">						
+															<li>			
 			<a href="/sightsounds">Sights &amp; Sounds</a>
 			</li>						
-															
-			<li>
+															<li>			
 			<a href="/accomodations">Accomodations</a>
 			</li>						
-															
-			<li>
+															<li>			
 			<a href="/guides">Guides</a>
 			</li>						
-												</ul></li>			
-			<li class="dir">
+												</ul></li>			<li>			
 			<a href="/Miscellaneous">Miscellaneous</a>
-			<ul>						
-															
-			<li>
+			<ul class="subnav">						
+															<li>			
 			<a href="/people">People</a>
 			</li>						
-															
-			<li>
+															<li>			
 			<a href="/animals">Animals</a>
 			</li>						
-															
-			<li>
+															<li>			
 			<a href="/Books">Books</a>
 			</li>						
-															
-			<li>
+															<li>			
 			<a href="/Food">Food</a>
 			</li>						
-															
-			<li>
+															<li>			
 			<a href="/Humor">Humor</a>
 			</li>						
-															
-			<li>
+															<li>			
 			<a href="/Sports">Sports</a>
 			</li>						
-															
-			<li>
+															<li>			
 			<a href="/arts-crafts">Arts &amp; Crafts</a>
 			</li>						
-															
-			<li>
+															<li>			
 			<a href="/transportation">Transportation</a>
 			</li>						
-															
-			<li>
+															<li>			
 			<a href="/gardening">Gardening</a>
 			</li>						
-															
-			<li>
+															<li>			
 			<a href="/diy">DIY</a>
 			</li>						
 					</ul></li></ul>
 	
+</div>	<!-- END NAVBAR -->
 
-</div><!-- END NAVBAR -->
 
-<!-- START RSS -->
-<div class="rsslink">
-	</div>
-<!-- END RSS -->
-
-<!-- START BREADCRUMBS -->
-
- 
-<!-- END BREADCRUMBS -->
-
-<!-- END HEADER.TPL -->		
+	<!-- END HEADER.TPL -->		
 <!-- START LEFT COLUMN -->
-			<div id="leftcol">
+			<div id="leftcol" class="column">
 			
 				
+		<!-- START BREADCRUMBS -->
+		<div class="breadcrumbs">
+																														 
+													
+								</div>
+		<!-- END BREADCRUMBS -->
 		
-<center>
+								
 <br>
-
-
-	
-
-	<script type="text/javascript"><!--
-		google_ad_client = "pub-5300401220044512";  
-		google_alternate_ad_url = "";
-		google_ad_width = 468;
-		google_ad_height = 60;
-		google_ad_format = "468x60_as";
-		google_ad_type = "text";
-		google_ad_channel ="";
-		google_color_border = "ffffff";
-		google_color_bg = "ffffff";
-		google_color_link = "11A3AC";
-		google_color_text = "707070";
-		google_color_url = "A44848";
-		//-->
-	</script>
-	<script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
-	</script>
-</center>						
 <h2>
 	<span style="color: rgb(178, 34, 34);"><strong><span style="font-size: 14px;">AddBlogUrl Privacy Policy Overview</span></strong></span></h2>
 <p>
@@ -529,14 +458,56 @@ urchinTracker();
 							
 		</div>
 <!-- END LEFT COLUMN -->
-	
-	<!-- START MIDDLE COLUMN -->
-		<div id="midcol">
+
+<!-- START RIGHT COLUMN -->
+		<div id="midcol" class="column">
+			
+			                 	<!-- START ABOUT -->
+		
+
+<!-- START ABOUT -->
+        	<div class="headline">
+            	<div class="sectiontitle"><a href="/page.php?page=about">About</a></div>
+            </div>
+                        <div id="aboutcontent">
+                <b>AddBlogUrl.com is a social news and bookmarking website that is powered by and for users like you!</b>
+                            </div>
+<!-- END ABOUT -->	<!-- END ABOUT -->
+
+	<!-- START LINKS -->
+	        	<div class="links">
+	            	<a href="/topusers"> Top Users</a>
+	            </div>
+	            <div class="links">
+	            	<a href="/tagcloud">Tag cloud</a>	            </div>
+	            <div class="links">
+	            		            </div>
+				
+	              	<!-- END LINKS -->
+	<br>
+
+<!-- END RIGHT COLUMN -->
+
+			<!-- START MIDDLE COLUMN -->
 			
 
 	
 	
 		
+	<div class="headline">
+		<div class="sectiontitle">Advertisement</div>
+	</div>
+	
+	
+	   
+	<div align="center"><script src="http://tag.contextweb.com/TagPublish/getjs.aspx?action=VIEWAD&amp;cwrun=200&amp;cwadformat=160X600&amp;cwpid=521070&amp;cwwidth=160&amp;cwheight=600&amp;cwpnet=1&amp;cwtagid=68181"></script>
+	</div>
+	
+	<p style="text-align:center;font-size:14px;"><b><a href="http://www.squidoo.com/top-ways-to-earn-money-online">101 Ideas to Make Money Online</a></b></p>
+
+<div align="center"><a href="http://www.tripleclicks.com/11263256/go">
+<img src="http://www.sfimg.com/Images/Banners/banner387.jpg" border="0"></a></div><br><br>
+	
 	
 	 
  
@@ -545,6 +516,7 @@ urchinTracker();
 	<div class="sectiontitle"><a href="/login.php?return=/static/privacy-policy/">Login</a></div>
 </div>
 <div class="boxcontent">
+<div class="loginbox">
 	<form action="/login.php?return=/static/privacy-policy/" method="post"> 
 			Username:<br><input type="text" name="username" class="login" value="" tabindex="40"><br>
 			Password:<br><input type="password" name="password" class="login" tabindex="41"><br>
@@ -554,6 +526,7 @@ urchinTracker();
 			<input type="submit" value="Login" class="submit-s" tabindex="43">
 	</form>
 	</div>
+</div>
  
 
  
@@ -567,7 +540,7 @@ urchinTracker();
 <div class="boxcontent tagformat">
 			
 		<span style="font-size: 10.3606557377pt">
-			<a href="/tag/business">business</a>
+			<a href="/tag/education">education</a>
 		</span>
 		
 			
@@ -596,12 +569,12 @@ urchinTracker();
 		</span>
 		
 			
-		<span style="font-size: 10.5081967213pt">
+		<span style="font-size: 10.4590163934pt">
 			<a href="/tag/gifts">gifts</a>
 		</span>
 		
 			
-		<span style="font-size: 12.5245901639pt">
+		<span style="font-size: 12.4754098361pt">
 			<a href="/tag/health">health</a>
 		</span>
 		
@@ -616,12 +589,12 @@ urchinTracker();
 		</span>
 		
 			
-		<span style="font-size: 10.4590163934pt">
+		<span style="font-size: 10.4098360656pt">
 			<a href="/tag/internet+marketing">internet marketing</a>
 		</span>
 		
 			
-		<span style="font-size: 11.4918032787pt">
+		<span style="font-size: 11.5901639344pt">
 			<a href="/tag/marketing">marketing</a>
 		</span>
 		
@@ -631,7 +604,7 @@ urchinTracker();
 		</span>
 		
 			
-		<span style="font-size: 11.393442623pt">
+		<span style="font-size: 11.1475409836pt">
 			<a href="/tag/online">online</a>
 		</span>
 		
@@ -641,7 +614,7 @@ urchinTracker();
 		</span>
 		
 			
-		<span style="font-size: 10.5573770492pt">
+		<span style="font-size: 10.4590163934pt">
 			<a href="/tag/seo">seo</a>
 		</span>
 		
@@ -665,88 +638,15 @@ urchinTracker();
 			<a href="/tag/web">web</a>
 		</span>
 		
-		</div> <br>
-
-		</div>
+		</div> 
 <!-- END MIDDLE COLUMN -->
+					</div>	
+	
+	<br style="clear:both">
 		
-<!-- START RIGHT COLUMN -->
-		<div id="rightcol">
-			
-
-			                 		 <center>
-<br>
-
-</center>
-
-	<!-- START ABOUT -->
-		
-
-<!-- START ABOUT -->
-        	<div class="headline">
-            	<div class="sectiontitle"><a href="/page.php?page=about">About</a></div>
-            </div>
-                        <div id="aboutcontent">
-                <b>AddBlogUrl.com is a social news and bookmarking website that is powered by and for users like you. And oh, we also share 100% Adsense Revenue with you.</b>
-                            </div>
-<!-- END ABOUT -->	<!-- END ABOUT -->
-
-	<!-- START LINKS -->
-	        	<div class="links">
-	        
-	            </div>
-	            <div class="links">
-	            	<div class="sectiontitle"><a href="/tagcloud">Tag cloud</a></div>
-	            </div>
-	            <div class="links">
-	            	<div class="sectiontitle"></div>
-	            </div>
-	<!-- END LINKS -->
-		<center>
-<br>
-
-<script src="http://tag.contextweb.com/TagPublish/getjs.aspx?action=VIEWAD&amp;cwrun=200&amp;cwadformat=160X600&amp;cwpid=521070&amp;cwwidth=160&amp;cwheight=600&amp;cwpnet=1&amp;cwtagid=68181"></script>
-
-</center>
-	
-	              	<br>
-		</div>
-<!-- END RIGHT COLUMN -->
-	
-		
-	
-<br clear="all">
-
-<div class="footer">
-	
-</div>
-
 <!-- START FOOTER -->
-		<div id="footer">
-        	<div><strong>AddBlogUrl - 2009, All Rights Reserved.</strong> |  <a href="/advancedsearch.php">Advanced Search</a> |  <a href="http://www.addblogurl.com/static/privacy-policy/">Privacy Policy</a> | <a href="http://www.addblogurl.com/static/addblogurl-help/">Help</a> | <a href="rssfeeds.php">RSS Feeds</a> | <a href="http://addblogurl.com/static/google-adsense-share/">100% Adsense Revenue Share</a>  </div>
-<br>
-	<div><strong><a href="http://www.affiliateprogramsdir.com">Affiliate Programs Directory</a> | <a href="http://www.zisl.com">Custom Made Gifts</a> | <a href="http://www.onlinemarketinghub.com">Online Marketing Hub</a> | <a href="http://www.nezie.com">Affiliate Store Builder</a> | <a href="http://healthandfitnessweb.com">Health &amp; Fitness Web</a> | <a href="http://www.writerstip.com">WritersTip</a> | <a href="http://www.foodloversweb.com">FoodLoversWeb</a>
-	<br><br>
-	<center>
-<script src="http://tag.contextweb.com/TagPublish/getjs.aspx?action=VIEWAD&amp;cwrun=200&amp;cwadformat=728X90&amp;cwpid=521070&amp;cwwidth=728&amp;cwheight=90&amp;cwpnet=1&amp;cwtagid=68401"></script>
-<script type="text/javascript">
-    var infolink_pid = 45809;
-    var infolink_wsid = 0;
-</script>
-<script type="text/javascript" src="http://resources.infolinks.com/js/infolinks_main.js"></script>
+<div id="footer">
 
-<script src="http://cdn.wibiya.com/Toolbars/dir_0560/Toolbar_560727/Loader_560727.js" type="text/javascript"></script>
-
-</center>
- </strong></div><strong>
-
-<!-- END FOOTER --> 
-	
-	</strong></div><strong>
-<!-- END CONTENT --> 
-
-	<script src="/templates/xmlhttp.php" type="text/javascript"></script> 
-	
 <script type="text/javascript">
   var vglnk = { api_url: '//api.viglink.com/api',
                 key: 'fbdea65bb06310bcdf096f679560f3e3' };
@@ -759,6 +659,93 @@ urchinTracker();
   }(document, 'script'));
 </script>
 
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-8785097-15']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+
+<div align="center"><script src="http://tag.contextweb.com/TagPublish/getjs.aspx?action=VIEWAD&amp;cwrun=200&amp;cwadformat=728X90&amp;cwpid=521070&amp;cwwidth=728&amp;cwheight=90&amp;cwpnet=1&amp;cwtagid=68401"></script></div><br>
+
+<span class="subtext">Copyright 2013 Add Blog Url | <a href="http://www.addblogurl.com/static/privacy-policy/">Privacy Policy</a> | <a href="http://www.addblogurl.com/static/addblogurl-help/">Help</a> | <a href="/advanced-search/">Advanced Search</a> | <a href="http://addblogurl.com/rssfeeds.php">RSS Feeds</a> <br> SiteRoll | <a href="http://www.affiliateprogramsdir.com/">Affiliate Programs</a> | <a href="http://www.getsreviewed.com/">Books Reviewed</a> | <a href="http://www.qizno.com/">Gift Search Engine</a> | <a href="http://www.zisl.com/">Personalized Gifts Store</a> | <a href="http://www.guest.cc/">Hotel Reservations</a> | <a href="http://www.healthandfitnessweb.com/">Health Blog</a> |
+
+<br><div>Affiliate Disclosure: The author of this page participates in some affiliate programs where the author may be eligible for compensation by linking to certain merchants. The author has added some affiliate links on this page. Some of the affiliate programs the author participates in include Buy.com, AllPosters.com, Zazzle.com and others. The author is also a participant in the Amazon Services LLC Associates Program, an affiliate advertising program designed to provide a means for sites to earn advertising fees by advertising and linking to amazon.com.</div>
+
+<script>
+
+//Pop-under window- By JavaScript Kit
+//Credit notice must stay intact for use
+//Visit http://javascriptkit.com for this script
+
+//specify page to pop-under
+var popunder="http://www.rajays.quickinfo247.com"
+
+//specify popunder window features
+//set 1 to enable a particular feature, 0 to disable
+var winfeatures="width=1000,height=510,scrollbars=1,resizable=1,toolbar=1,location=1,menubar=1,status=1,directories=0"
+
+//Pop-under only once per browser session? (0=no, 1=yes)
+//Specifying 0 will cause popunder to load every time page is loaded
+var once_per_session=1
+
+///No editing beyond here required/////
+
+function get_cookie(Name) {
+  var search = Name + "="
+  var returnvalue = "";
+  if (document.cookie.length > 0) {
+    offset = document.cookie.indexOf(search)
+    if (offset != -1) { // if cookie exists
+      offset += search.length
+      // set index of beginning of value
+      end = document.cookie.indexOf(";", offset);
+      // set index of end of cookie value
+      if (end == -1)
+         end = document.cookie.length;
+      returnvalue=unescape(document.cookie.substring(offset, end))
+      }
+   }
+  return returnvalue;
+}
+
+function loadornot(){
+if (get_cookie('popunder')==''){
+loadpopunder()
+document.cookie="popunder=yes"
+}
+}
+
+function loadpopunder(){
+win2=window.open(popunder,"",winfeatures)
+win2.blur()
+window.focus()
+}
+
+if (once_per_session==0)
+loadpopunder()
+else
+loadornot()
+</script> 
 
 
-</strong></div></body></html>
+</span>
+</div>
+<!-- END FOOTER --> 
+	
+	</div>
+<!-- END CONTENT --> 
+
+	<script src="/templates/xmlhttp_total.php" type="text/javascript"></script> 
+		</div>
+
+
+
+</body></html>
