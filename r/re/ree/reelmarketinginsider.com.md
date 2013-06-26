@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the reelmarketinginsider.com privacy policy that was archived on 2012-09-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120912014559id_/http%3A//www.reelmarketinginsider.com/privacy-and-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the reelmarketinginsider.com privacy policy that was archived on 2013-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130626174041id_/http%3A//www.reelmarketinginsider.com/privacy-and-policy) for the most accurate reproduction.*
 
 # Privacy and Terms | Reel Marketing Insider
 
 We can be reached via e-mail at support@JamesWedmore.com
 
-For each visitor to our Web page, our Web server automatically recognizes the consumer’s domain name and e-mail address (where possible).
+For each visitor to our Web page, our Web server automatically recognizes the consumer?s domain name and e-mail address (where possible).
 
 We collect the domain name and e-mail address (where possible) of visitors to our Web page, the e-mail addresses of those who:
 
