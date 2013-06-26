@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the guildwork.com privacy policy that was archived on 2012-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121225152438id_/http%3A//guildwork.com/wiki/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the guildwork.com privacy policy that was archived on 2013-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130626233757id_/http%3A//guildwork.com/wiki/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -50,4 +50,4 @@ Guildwork reserves the right to change this Online Privacy Statement at any time
 
 ### Applicable laws
 
-Guildwork will protect your Personal Information in accordance with the laws of the United States and the state of California. 
+Guildwork will protect your Personal Information in accordance with the laws of the United States and the state of California.
