@@ -1,7 +1,7 @@
-<!--The following is the downloaded HTML source of the sqlservercentral.com privacy policy that was archived on 2012-12-25.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121225011424id_/http%3A//www.sqlservercentral.com/About/Privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the sqlservercentral.com privacy policy that was archived on 2013-06-26.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130626062414id_/http%3A//www.sqlservercentral.com/About/Privacy) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xmlns:fb="http://www.facebook.com/2008/fbml" xmlns:og="http://opengraph.org/schema/"><head>
+<!DOCTYPE html><html xmlns="http://www.w3.org/1999/xhtml" xmlns:fb="http://www.facebook.com/2008/fbml" xmlns:og="http://opengraph.org/schema/"><head>
     
   
     <title>Privacy Policy - SQLServerCentral</title>
@@ -14,7 +14,7 @@
 <meta name="MS.LOCALE" content="en-US">
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 
-<link rel="stylesheet" href="/Resources/Public.css?v=13">
+<link rel="stylesheet" href="/Resources/Public.css?v=14">
 <!--[if lt IE 7]><link rel="stylesheet" href="/Resources/Public-IE6orbelow.css?v=2" /><![endif]-->
 <!--[if gt IE 6]><style type="text/css">.code, pre { overflow-x:scroll; overflow-y:visible; }</style><![endif]-->
 	<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script src="/sqlservercentral2/Resources/WideImageHandler.js" language="javascript"></script>
@@ -23,10 +23,10 @@
 <script type="text/javascript" src="/shared/jquery/jquery.hint.js"></script>
 <script type="text/javascript" src="/shared/jquery/jquery-ui-1.8.11.autocomplete.min.js"></script>
 
-<link type="text/css" href="/shared/google-prettify/prettify.css?v=1" rel="stylesheet">
-<script type="text/javascript" src="/shared/google-prettify/prettify.js?v=1"></script>
-<script type="text/javascript" src="/shared/google-prettify/lang-sql.js"></script>
-<script type="text/javascript" src="/shared/google-prettify/lang-vb.js?v=1"></script>
+<link type="text/css" href="/shared/google-prettify/prettify.css?v=2" rel="stylesheet">
+<script type="text/javascript" src="/shared/google-prettify/prettify.js?v=2"></script>
+<script type="text/javascript" src="/shared/google-prettify/lang-sql.js?v=2"></script>
+<script type="text/javascript" src="/shared/google-prettify/lang-vb.js?v=2"></script>
 <script type="text/javascript">
   $(function() {
     $(".prettyprint br").each(function(index, element) {
@@ -46,19 +46,114 @@
 <!--SiteTemplateBegins-->
   <!-- Start of Google Analytics Code -->
 <script type="text/javascript">
+var _gaq = _gaq || [];
+(function() {
+_gaq.push(['_setAccount', 'UA-90206-6']);
+_gaq.push(['_setDomainName', 'sqlservercentral.com']);
+_gaq.push(['_setAllowLinker', true]);
 
-  var _gaq = _gaq || [];
-  _gaq.push(['_setAccount', 'UA-90206-6']);
-  _gaq.push(['_setDomainName', 'sqlservercentral.com']);
-  _gaq.push(['_trackPageview']);
+// all RG sites
+var RGsites = new Array("red-gate.com", "sqlservercentral.com", "simple-talk.com");
 
-  (function() {
+var i;
+// remove current domain 
+for (i = 0; i < RGsites.length; i++) {
+	if (document.domain.indexOf(RGsites[i]) != -1) {
+		RGsites.splice(i, 1);
+                break;
+	}
+}
+
+// set the customVar if not a self-referrer
+if (document.referrer.indexOf("http://" + document.domain) == -1) {
+	for (i = 0; i < RGsites.length; i++) {
+		if (document.referrer.indexOf(RGsites[i]) != -1) {
+                    _gaq.push(["_setCustomVar", 2, "RG referral", document.referrer, 1]);
+                    break;
+		}
+	}
+}
+
+
+_gaq.push(['_trackPageview']);
+
+var intDoms = '(red-gate.com|simple-talk.com|sqlservercentral.com)';
+var baseDom = location.hostname.match(RegExp(intDoms + '$'));
+baseDom = (baseDom ? baseDom[1].replace(/\:\d+/, '') : location.hostname);
+
+// gaAddons FREE v1.0, Copyright 2011, Stephane Hamel - http://gaAddons.com
+// Licensed under a Creative Commons Attribution-NonCommercial-NoDerivs 3.0 Unported License
+// gaAddons FREE v1.0, Copyright 2011, Stephane Hamel - http://gaAddons.com
+// gaAddons by Stephane Hamel is licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License.
+// Refactored by Simon Rouger.
+// This code is provided as is, without guarantee or support.
+
+///////////////////
+// _trackDownloads
+
+jQuery(document).ready(function($) {
+// helper function - allow regex as jQuery selector
+jQuery.extend(
+	$.expr[':'].regex = function(e, l, m) {
+		var mP = m[3].split(','),
+		l = /^(data|css):/,
+		a = {
+		method: mP[0].match(l) ? mP[0].split(':')[0] : 'attr',
+		property: mP.shift().replace(l, '')
+	},
+	r = new RegExp(mP.join('').replace(/^\s+|\s+$/g, ''), 'ig');
+	return r.test($(e)[a.method](a.property));
+	}
+	);
+
+	$('a:regex(href,\\.(zip|mp\\d+|mpe*g|pdf|docx*|pptx*|xlsx*|jpe*g|png|gif|tiff*|exe)$)').bind('click', function(e) {
+		_gaq.push(['_trackEvent', 'DownloadFile', 'Click', this.href.replace(/^.*\/\//, '')]);
+	});
+});
+
+///////////////////
+// _trackMailTo
+jQuery(document).ready(function($) {
+	$('a[href^="mailto"]').bind('click', function(e) {
+		_gaq.push(['_trackEvent', 'Email', 'Click', this.href.replace(/^mailto:/i, '')]);
+	});
+});
+
+///////////////////
+// _trackOutbound
+jQuery(document).ready(function ($) {
+    $('a[href^="http"]:not([href*="//' + location.host + '"])').bind('click', function (e) {
+
+        var intTxt = '';
+        var outLink = '/outbound/';
+        var intSite = this.href.match(intDoms);
+
+        if (intSite) {
+            // insert extra txt for RG site
+            if (intSite[1] != baseDom) {
+                intTxt = 'RG/';
+            }
+        }
+
+        outLink = outLink + intTxt + this.href.match(/\/\/([^\/]+)/)[1];
+
+        _gaq.push(['_trackPageview', outLink]);
+
+        if (intTxt == 'RG/') {
+            _gaq.push(['_link', this.href]);
+            return false;
+        }
+
+    });
+});
+
+(function() {
     var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
     ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
     var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
   })();
 
-</script>
+})();</script>
 <!-- End of Google Analytics Code -->
 <script type="text/javascript">
 /* <![CDATA[ */
@@ -84,7 +179,7 @@ var google_conversion_value = 0;
 	<script src="/Resources/js/Controls/Briefcase.js"></script>
 	
   <div id="corner-peel">
-		<a href="http://www.red-gate.com/sqlmonitor-ssc">
+		<a href="http://www.red-gate.com/sqlmonitor-ssc" rel="nofollow">
       <img src="/Resources/Images/advertising/corner-peel.png" alt="Click here to monitor SSC">
     </a>
 		<div id="corner-peel-behind"></div>
@@ -101,7 +196,7 @@ var google_conversion_value = 0;
 				<td align="center" valign="middle" height="75">
 					<!-- AdSpeed.com Serving Code 7.9.5 for [Zone] SSCtop 468x60 -->
 
-<script type="text/javascript">var a=new Date();d=document;n=navigator;s=screen;var q='&tz='+a.getTimezoneOffset()/60 +'&ck='+(n.cookieEnabled?'Y':'N') +'&jv='+(n.javaEnabled()?'Y':'N') +'&scr='+s.width+'x'+s.height+'x'+s.colorDepth +'&z='+Math.random() +'&ref='+escape(d.referrer.substr(0,255)) +'&uri='+escape(d.URL.substr(0,255));document.write('<ifr'+'ame width="468" height="60" src="http://g.adspeed.net/ad.php?do=html&zid=15220&wd=468&ht=60&target=_blank'+q+'" frameborder="0" scrolling="no" allowtransparency="true" hspace="0" vspace="0"></ifr'+'ame>');</script><iframe width="468" height="60" src="http://g.adspeed.net/ad.php?do=html&amp;zid=15220&amp;wd=468&amp;ht=60&amp;target=_blank&amp;tz=0&amp;ck=Y&amp;jv=N&amp;scr=800x600x24&amp;z=0.868327652987229&amp;ref=&amp;uri=https%3A//web.archive.org/web/20121225011424id_/http%3A//www.sqlservercentral.com/About/Privacy/" frameborder="0" scrolling="no" allowtransparency="true" hspace="0" vspace="0"></iframe>
+<script type="text/javascript">var a=new Date();d=document;n=navigator;s=screen;var q='&tz='+a.getTimezoneOffset()/60 +'&ck='+(n.cookieEnabled?'Y':'N') +'&jv='+(n.javaEnabled()?'Y':'N') +'&scr='+s.width+'x'+s.height+'x'+s.colorDepth +'&z='+Math.random() +'&ref='+escape(d.referrer.substr(0,255)) +'&uri='+escape(d.URL.substr(0,255));document.write('<ifr'+'ame width="468" height="60" src="http://g.adspeed.net/ad.php?do=html&zid=15220&wd=468&ht=60&target=_blank'+q+'" frameborder="0" scrolling="no" allowtransparency="true" hspace="0" vspace="0"></ifr'+'ame>');</script><iframe width="468" height="60" src="http://g.adspeed.net/ad.php?do=html&amp;zid=15220&amp;wd=468&amp;ht=60&amp;target=_blank&amp;tz=0&amp;ck=Y&amp;jv=N&amp;scr=800x600x24&amp;z=0.6356926242968182&amp;ref=&amp;uri=https%3A//web.archive.org/web/20130626062414id_/http%3A//www.sqlservercentral.com/About/Privacy/" frameborder="0" scrolling="no" allowtransparency="true" hspace="0" vspace="0"></iframe>
 <noscript><iframe width="468" height="60" src="http://g.adspeed.net/ad.php?do=html&zid=15220&wd=468&ht=60&target=_blank" frameborder="0" scrolling="no" allowtransparency="true" hspace="0" vspace="0"><a href="http://g.adspeed.net/ad.php?do=clk&zid=15220&wd=468&ht=60&pair=as" target="_blank"><img style="border:0px;" src="http://g.adspeed.net/ad.php?do=img&zid=15220&wd=468&ht=60&pair=as" alt="i" width="468" height="60"/></a></iframe>
 
 </noscript><!-- AdSpeed.com End -->
@@ -281,7 +376,7 @@ var google_conversion_value = 0;
 <!-- AdSpeed.com Serving Code 7.9.5 for [Zone] SSCskyscraper 120x300 -->
 <script type="text/javascript"><!--
 var a=new Date();d=document;n=navigator;s=screen;var q='&amp;tz='+a.getTimezoneOffset()/60 +'&amp;ck='+(n.cookieEnabled?'Y':'N') +'&amp;jv='+(n.javaEnabled()?'Y':'N') +'&amp;scr='+s.width+'x'+s.height+'x'+s.colorDepth +'&amp;z='+Math.random() +'&amp;ref='+escape(d.referrer.substr(0,255)) +'&amp;uri='+escape(d.URL.substr(0,255));document.write('<ifr'+'ame width="120" height="300" src="http://g.adspeed.net/ad.php?do=html&amp;zid=15491&amp;wd=120&amp;ht=300&amp;target=_top'+q+'" frameborder="0" scrolling="no"   ></ifr'+'ame>');
-//--></script><iframe width="120" height="300" src="http://g.adspeed.net/ad.php?do=html&amp;zid=15491&amp;wd=120&amp;ht=300&amp;target=_top&amp;tz=0&amp;ck=Y&amp;jv=N&amp;scr=800x600x24&amp;z=0.5998505347906802&amp;ref=&amp;uri=https%3A//web.archive.org/web/20121225011424id_/http%3A//www.sqlservercentral.com/About/Privacy/" frameborder="0" scrolling="no"></iframe>
+//--></script><iframe width="120" height="300" src="http://g.adspeed.net/ad.php?do=html&amp;zid=15491&amp;wd=120&amp;ht=300&amp;target=_top&amp;tz=0&amp;ck=Y&amp;jv=N&amp;scr=800x600x24&amp;z=0.6419680649732498&amp;ref=&amp;uri=https%3A//web.archive.org/web/20130626062414id_/http%3A//www.sqlservercentral.com/About/Privacy/" frameborder="0" scrolling="no"></iframe>
 <noscript><iframe width="120" height="300" src="http://g.adspeed.net/ad.php?do=html&amp;zid=15491&amp;wd=120&amp;ht=300&amp;target=_top" frameborder="0" scrolling="no"   ><a href="http://g.adspeed.net/ad.php?do=clk&amp;zid=15491&amp;wd=120&amp;ht=300&amp;pair=as" target="_top"><img style="border:0px;" src="http://g.adspeed.net/ad.php?do=img&amp;zid=15491&amp;wd=120&amp;ht=300&amp;pair=as" alt="i" width="120" height="300"/></a></iframe>
 </noscript><!-- AdSpeed.com End -->
 </div>
@@ -292,7 +387,7 @@ var a=new Date();d=document;n=navigator;s=screen;var q='&amp;tz='+a.getTimezoneO
 				<!-- [content_start] -->
 					
     <form name="aspnetForm" method="post" id="aspnetForm">
-<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="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">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="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">
 
         
     
@@ -439,7 +534,7 @@ var a=new Date();d=document;n=navigator;s=screen;var q='&amp;tz='+a.getTimezoneO
 </p>
 
     
-<!-- total:43478 30days:1170 today:32 -->
+<!-- total:49892 30days:1480 today:1 -->
 
     </form>
 
@@ -454,7 +549,7 @@ var a=new Date();d=document;n=navigator;s=screen;var q='&amp;tz='+a.getTimezoneO
 			<td class="BottomLeft">&nbsp;</td>
 			<td>
 				<div class="Footer">
-					Copyright © 2002-2012 Simple Talk Publishing. All Rights Reserved. <a href="http://www.sqlservercentral.com/About/Privacy/">Privacy Policy.</a> <a href="http://www.sqlservercentral.com/About/Terms">Terms of Use.</a> <a href="mailto:abuse@sqlservercentral.com">Report Abuse.</a>
+					Copyright © 2002-2013 Simple Talk Publishing. All Rights Reserved. <a href="http://www.sqlservercentral.com/About/Privacy/">Privacy Policy.</a> <a href="http://www.sqlservercentral.com/About/Terms">Terms of Use.</a> <a href="mailto:abuse@sqlservercentral.com">Report Abuse.</a>
 				</div>
 			</td>
 			<td class="BottomRight">&nbsp;</td>
