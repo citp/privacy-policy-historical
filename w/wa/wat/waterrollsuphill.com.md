@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the waterrollsuphill.com privacy policy that was archived on 2012-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121231015534id_/http%3A//www.waterrollsuphill.com/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the waterrollsuphill.com privacy policy that was archived on 2013-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130626193352id_/http%3A//www.waterrollsuphill.com/about/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy - Water Rolls Uphill
 
 **What information do we collect?**
 
