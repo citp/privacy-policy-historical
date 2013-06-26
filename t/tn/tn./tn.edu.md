@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tn.edu privacy policy that was archived on 2012-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121124233740id_/http%3A//www.southwest.tn.edu/policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tn.edu privacy policy that was archived on 2013-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130626081318id_/http%3A//www.southwest.tn.edu/policy.htm) for the most accurate reproduction.*
 
 # Privacy Statement for Southwest Tennessee Community College
 
@@ -10,7 +10,7 @@ We use your Internet Protocol (IP) address to help diagnose problems with our se
 
 ## Registration Forms
 
-Our site's registration form requires users to give us contact information (like their name, e-mail, and postal address), unique identifiers (like their social security number), and demographic information (like their zip code, age, or income level).
+Our site's registration form requires users to give us contact information (like their name, email, and postal address), unique identifiers (like their social security number), and demographic information (like their zip code, age, or income level).
 
 Contact information from the registration forms is used to contact you about questions that you have presented and to provide you with information about our College.
 
@@ -20,7 +20,7 @@ Demographic and profile data is also collected at our site. We use this data to 
 
 This site contains links to other sites. **Southwest Tennessee Community College** is not responsible for the privacy practices or the content of such websites.
 
-##  Security
+## Security
 
 This site has security measures in place to protect the loss, misuse, and alteration of the information under our control.
 
@@ -28,7 +28,7 @@ This site has security measures in place to protect the loss, misuse, and altera
 
 Our site provides users the opportunity to opt-out of receiving promotional/marketing information from us.
 
-  * You can send e-mail to [ webmaster@southwest.tn.edu](mailto:webmaster@southwest.tn.edu?subject=Privacy%20Policy-Website)
+  * You can send email to [ webmaster@southwest.tn.edu](mailto:webmaster@southwest.tn.edu?subject=Privacy-Policy-Website)
 
 
 
@@ -36,7 +36,7 @@ Our site provides users the opportunity to opt-out of receiving promotional/mark
 
 This site gives users the following options for changing and modifying information previously provided:
 
-  * You can send e-mail to [webmaster@southwest.tn.edu](mailto:webmaster@southwest.tn.edu?subject=Privacy%20Policy-Website)
+  * You can send email to [webmaster@southwest.tn.edu](mailto:webmaster@southwest.tn.edu?subject=Privacy-Policy-Website)
 
 
 
@@ -52,7 +52,7 @@ Southwest will not share or sell your information to any third parties.
 
 If you have any questions about this privacy statement, the practices of this site, or your dealings with this website, you can contact:
 
-Justin McGregor,  
-Webmaster, Southwest Tennessee Community College  
-[ webmaster@southwest.tn.edu](mailto:webmaster@southwest.tn.edu) or 901-333-4095
+Teresa Calloway,  
+Website Content Coordinator, Southwest Tennessee Community College  
+[webmaster@southwest.tn.edu](mailto:webmaster@southwest.tn.edu) or 901-333-4468
   *[IP]: Internet Protocol
