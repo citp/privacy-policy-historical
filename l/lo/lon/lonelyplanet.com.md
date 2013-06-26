@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lonelyplanet.com privacy policy that was archived on 2012-10-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121003231007id_/http%3A//www.lonelyplanet.com/legal/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lonelyplanet.com privacy policy that was archived on 2013-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130626095211id_/http%3A//www.lonelyplanet.com/legal/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy and Legal Information - Lonely Planet
 
@@ -36,10 +36,10 @@ Back to top
 There are situations in which we ask you to give us information about yourself. This information includes things like your name, address, e-mail address, and phone number. We collect, hold and use your personal information only where you have given us your permission to do so. If customers choose to purchase Lonely Planet products or services, we collect their credit card details and other identifying information in order to process orders and provide customer service. Our writers (some of whom work on contract to us) may also collect personal information in the course of gathering material for inclusion in our publications (although you won't always know who they are at the time as we need to get the real story!). Click here to read our Media privacy policy. The types of purposes for which we collect information about individuals include the following: 
 
   * obtaining, responding to and managing feedback from travellers 
-  * allowing people to share their experiences with fellow travellers on our bulletin boards
+  * allowing people to share their experiences with fellow travellers on our bulletin boards and managing communications on our bulletin boards to ensure that posts and messages submitted by users to Thorn Tree comply with our community guidelines and website terms & conditions 
   * processing purchase orders and providing technical support
   * offering on-the-road communications services contacting customers with exciting travel news and great Lonely Planet offers (but only if they have asked us to).
-  * contacting travellers with information and updates (like exciting travel news, great offers, promotions, special events, competitions and surveys) from Lonely Planet. Our information and updates may also include information from our partners and BBC Worldwide
+  * contacting travellers with information and updates (like exciting travel news, great offers, promotions, special events, competitions and surveys) from Lonely Planet. Our information and updates may also include information from our partners and other companies in the Lonely Planet group (click [here](http://www.lonelyplanet.com/legal/corporate-entities) to learn more about the Lonely Planet family of companies).
   * managing our competitions and contacting the winners
   * personalising or improving the way Lonely Planet content is presented to you online (see the section on "What about cookies?" for more information)
 
