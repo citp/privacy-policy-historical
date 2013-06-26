@@ -1,24 +1,28 @@
-<!--The following is the downloaded HTML source of the purevpn.com privacy policy that was archived on 2012-10-10.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121010150544id_/http%3A//www.purevpn.com/privacy-policy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the purevpn.com privacy policy that was archived on 2013-06-27.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130627015749id_/http%3A//www.purevpn.com/privacy-policy.php) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head><script type="text/javascript" async="" src="https://widget.uservoice.com/uZWTf4pquXOmYCSWDJNN4A.js"></script><script src="http://chatserver.comm100.com/js/LiveChat.js?siteId=44978&amp;planId=546&amp;partnerId=-1"></script><script type="text/javascript" async="" src="https://apis.google.com/js/plusone.js"></script><script src="http://platform.twitter.com/widgets.js"></script><script src="http://static.ak.fbcdn.net/connect.php/js/FB.Share"></script>
+<meta http-equiv="X-UA-Compatible" content="IE=EmulateIE9">
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-<title>Privacy Policy - PureVPN.com</title>
+<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript">var NREUMQ=NREUMQ||[];NREUMQ.push(["mark","firstbyte",new Date().getTime()]);</script><title>Privacy Policy - PureVPN.com</title>
 <meta name="Description" content="Our privacy policy is simple: we will never release any information about you or your account to anyone except law enforcement personnel with the proper documentation and paperwork.">
 <meta name="keywords" content="purevpn provacy policy, vpn privacy, privacy policy, File Sharing activities, DMCA notices, Simple VPN Policy"> 
 <meta name="author" content="PureVPN">
 
-<link href="http://www.purevpn.com/template/default/css/minified_style.css" rel="stylesheet" type="text/css">
-<script type="text/javascript" async="" src="https://widget.uservoice.com/uZWTf4pquXOmYCSWDJNN4A.js"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="http://www.purevpn.com/template/default/js/minified_js.js"></script>
+<link href="/template/default/css/minified_style_new_17.css" rel="stylesheet" type="text/css">
+<link href="/template/default/css/new_aff_1.css" rel="stylesheet" type="text/css">
+<script type="text/javascript" src="/template/default/js/minified_js.js"></script>
+<script type="text/javascript" src="/template/default/js/jquery_ui.js"></script>
+<script type="text/javascript" src="/template/default/js/event_handler_4.js"></script>
 <script type="text/javascript">
 jQuery(document).ready(function()
 { 
 	sliderContentHandler_1(jQuery("#fot_testim_tot").val(), 8, 1, 20, 0, 0, 1, '#fot_test-', '', '', '');
 });
 </script>
-<link rel="icon" type="image/png" href="http://www.purevpn.com/images/fav_icon.ico">
+<link rel="icon" type="image/png" href="/images/fav_icon.ico">
 <!--[if lt IE 7]>
-<script type="text/javascript">window.onload=pngLoader('http://www.purevpn.com/template/default/img/');</script>
+<script type="text/javascript">window.onload=pngLoader('/template/default/img/');</script>
 <![endif]-->
 
 
@@ -41,32 +45,100 @@ jQuery(document).ready(function()
 <script type="text/javascript">
 jQuery(document).ready(function()
 { 
-	//var displaySocial = jQuery("#hdnDisplaySocial").val();
-	//if(displaySocial == 1 && displaySocial != undefined)
-	//{
-		var html_data = '<div onclick="javascrtip:_gaq.push([\'_trackSocial\', \'facebook\', \'send\', \'http://www.purevpn.com/privacy-policy.php\']);">';
+	//Get Socail Data Display Status
+	var socail_network_display = parseInt(jQuery("#socail_data_load_status").val());
+	
+	//Checking Socail Network Display Status
+	if(socail_network_display == 1)
+	{
+		var html_data = '<div id="socail_data_facebook" onclick="javascrtip:_gaq.push([\'_trackSocial\', \'facebook\', \'send\', \'http://www.purevpn.com/privacy-policy.php\']);">';
 		html_data += '<a name="fb_share" type="button" share_url="http://www.purevpn.com/privacy-policy.php"></a>';
 		$.getScript('http://static.ak.fbcdn.net/connect.php/js/FB.Share');
 		html_data += '</div>';
 		
-		html_data += '<div onclick="javascrtip:_gaq.push([\'_trackSocial\', \'twitter\', \'send\', \'http://www.purevpn.com/privacy-policy.php\']);">';
+		html_data += '<div id="socail_data_twitter" onclick="javascrtip:_gaq.push([\'_trackSocial\', \'twitter\', \'send\', \'http://www.purevpn.com/privacy-policy.php\']);">';
 		html_data += '<a href="https://twitter.com/share" class="twitter-share-button" data-count="none" data-via="http://twitter.com/purevpn">Tweet</a>';
 		$.getScript('http://platform.twitter.com/widgets.js');
 		html_data += '</div>';
 		
-		html_data += '<div onclick="javascrtip:_gaq.push([\'_trackSocial\', \'google_plus\', \'send\', \'http://www.purevpn.com/privacy-policy.php\']);;">';
-		html_data += '<g:plusone annotation="none"></g:plusone>';
+		html_data += '<div id="socail_data_google" onclick="javascrtip:_gaq.push([\'_trackSocial\', \'google_plus\', \'send\', \'http://www.purevpn.com/privacy-policy.php\']);;">';
+		html_data += '<g:plusone size="medium" annotation="none"></g:plusone>';
 		
 		var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
 		po.src = 'https://apis.google.com/js/plusone.js';
 		var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
 		
-		jQuery('#test_id').html(html_data);
-		jQuery('#test_id_main').css('display', 'block');
-	//}
+		jQuery('#socail_data_content_box').html(html_data);
+		jQuery('#socail_data_main_box').css('display', 'block');
+	}
+	
+	//Saving all External Script Data || START
+	var external_script_data = "";
+		
+		//Save Retargeter Data
+		external_script_data += '<img src="http://ad.retargeter.com/seg?add=224765" width="1" height="1" />';
+		
+		//Save Live Chat Data
+		external_script_data += '<div class="live-chat">';
+		external_script_data += '	<div id="comm100_ChatButton">';
+		external_script_data += '		<div id="comm100_warp">';
+		external_script_data += '			<div id="comm100_dvhelp">';
+		external_script_data += '				<a class="comm100_ahelp_css" href="http://www.comm100.com/livechat/" onclick="comm100_Chat();return false;" target="_blank" title="Live Chat Software for Website">';
+		external_script_data += '					<img id="comm100_ButtonImage" src="http://chatserver.comm100.com/BBS.aspx?siteId=44978&amp;planId=546&amp;partnerId=-1" />';
+		external_script_data += '				</a>';
+		external_script_data += '			</div>';
+		external_script_data += '		</div>';
+		external_script_data += '	</div>';
+		external_script_data += '</div>';
+		external_script_data += '<script src="http://chatserver.comm100.com/js/LiveChat.js?siteId=44978&amp;planId=546&amp;partnerId=-1" type="text/javascript"></\script>';
+		external_script_data += '<link href="http://chatserver.comm100.com/css/comm100_livechatbutton.css" rel="stylesheet" type="text/css"/>';
+
+		//Loading all External Scripts data in Body
+		jQuery('body').append(external_script_data);
+
+		//Save User Voice Button Data
+		var uvOptions = {};
+		(function()
+		{
+			var uv = document.createElement('script'); uv.type = 'text/javascript'; uv.async = true;
+			uv.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'widget.uservoice.com/uZWTf4pquXOmYCSWDJNN4A.js';
+			var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(uv, s);
+		})();
+		
+		(function(w, d)
+		{ 
+			var a = function()
+			{ 
+				var a = d.createElement('script'); a.type = 'text/javascript';
+				a.async = 'async'; a.src = '//' + ((w.location.protocol === 'https:') ? 's3.amazonaws.com/cdx-radar/' :
+				'radar.cedexis.com/') + '01-10619-radar10.min.js'; d.body.appendChild(a); 
+			};
+			if (w.addEventListener) { w.addEventListener('load', a, false); }
+			else if (w.attachEvent) { w.attachEvent('onload', a); }
+		}
+		(window, document));
+		
+	//Saving all External Script Data || END
 });
-</script></head>
+</script>
+<style type="text/css">
+body{padding:0px !important; background:url(http://d2i4bz0hisuhnt.cloudfront.net/images/main_site/body_top_bg.jpg) repeat-x left 34px !important;}
+
+#promotion_top_bar{width:100%; background:url(/template/default/img/promotion_top_bar_bg.jpg) repeat-x; margin-bottom: 5px;}
+
+#promotion_top_bar_inr{float:none; width:497px; height:34px; background:url(/template/default/img/promotion_top_bar_txt.jpg) no-repeat;}
+
+#promotion_top_bar_inr a{float:left; width:100%; height:34px; font-size:0px; line-height:0px; text-indent:-999pt; overflow:hidden;}
+
+#promotion_home_bnr_btn{float:left; width:244px; height:294px; position:absolute; right:5px; top:0px; z-index:100; background:url(/template/default/img/promotion_banner_1.jpg); font-size:0px; line-height:0px; text-indent:-999pt; overflow:hidden;}
+</style></head>
 <body>
+<!--Promotion Top Bar | Start-->
+<div id="promotion_top_bar">
+	<div id="promotion_top_bar_inr"><a href="http://www.purevpn.com/order/">Crazy 65% off on PureVPN birthday celebrations!</a></div>
+</div><br clear="all">
+<!--Promotion Top Bar | End-->
+
 <!--Header Container | Start-->
 <div id="header">
     <a class="hide_text" id="head_logo" href="http://www.purevpn.com" title="PureVpn">PureVpn</a>
@@ -74,7 +146,7 @@ jQuery(document).ready(function()
         <a target="_blank" href="https://www.mcafeesecure.com/RatingVerify?ref=www.purevpn.com"><img width="115" height="32" border="0" src="//images.scanalert.com/meter/billing.purevpn.com/61.gif" alt="McAfee SECURE sites help keep you safe from identity theft, credit card fraud, spyware, spam, viruses and online scams"></a>
     </div>
 	
-    <a class="round_18 round_top" id="head_prc" href="http://www.purevpn.com/order/packages-detail.php" title="Packages &amp; Prices">Packages &amp; Prices</a>
+    <a class="round_18 round_top" id="head_prc" href="http://www.purevpn.com/order/packages-detail.php" title="Compare Package">Compare Package</a>
     <div id="head_cont">
         <a href="mailto:enquiry@purevpn.com" title="Email us: enquiry@purevpn.com">Email us: enquiry@purevpn.com</a>
 	</div>
@@ -100,9 +172,10 @@ jQuery(document).ready(function()
         <li id="head_nav-4" class="head_nav_tit">
             <a class="head_nav_txt" href="javascript:void(0);" title="Download">Download</a>
             <ul id="nav_drop_4">
-                <li class="first_li"><a href="http://www.purevpn.com/purevpn-dialer/">Windows</a></li>
-                <li><a href="http://www.purevpn.com/purevpn_dialer_linux.php">Linux</a></li>
-                <li class="last_li"><a href="http://www.purevpn.com/purevpn_dialer_mac.php">Macintosh</a></li>
+                <li class="first_li"><a href="http://www.purevpn.com/vpn-software-for-windows.php">Windows</a></li>
+                <li><a href="http://www.purevpn.com/vpn-software-for-mac.php">Macintosh</a></li>
+				<li><a href="http://www.purevpn.com/vpn-app-for-android.php">Android</a></li>
+				<li class="last_li"><a href="http://www.purevpn.com/vpn-app-for-iphone.php">iPhone</a></li>
             </ul>
         </li>            
         <li id="head_nav-5" class="head_nav_tit">
@@ -114,16 +187,6 @@ jQuery(document).ready(function()
         </li>
         <li id="head_nav-6" class="head_nav_tit">
          <a class="head_nav_txt" href="http://www.purevpn.com/tutorials.php" title="Tutorials">Tutorials</a>
-            <ul id="nav_drop_6">
-                <li class="first_li" style="border-bottom-left-radius: 0px;"><a href="http://www.purevpn.com/tutorials.php">Windows</a></li>
-                <li><a href="http://www.purevpn.com/tutorials.php#tutorial_4">Linux</a></li>
-                <li><a href="http://www.purevpn.com/tutorials.php#tutorial_5">Macintosh</a></li>
-                <li style="border-right:1px solid #D59600;"><a href="http://www.purevpn.com/config/hp_webos">HP WebOS</a></li>
-               <li style="border-left:1px solid #D59600; border-bottom-left-radius: 6px;"> <a href="http://www.purevpn.com/config/google_chrome_os">Google Chrome OS</a></li>
-                <li><a href="http://www.purevpn.com/tutorials.php#tutorial_6">Devices</a></li>
-                <li><a href="http://www.purevpn.com/config/router/">Router</a></li>
-                <li class="last_li" style="padding-right:24px;"><a href="http://www.purevpn.com/config/router/"></a></li>
-            </ul>
         </li>
         <li id="head_nav-8"><a class="head_nav_txt" href="http://www.purevpn.com/blog/" title="Blog" target="_blank">Blog</a></li>        
         <li id="head_nav-7" class="end head_nav_tit">
@@ -154,12 +217,15 @@ jQuery(document).ready(function()
 				            
         </div>
         
-        <div id="test_id_main" class="bred-in-rt" style="display:none;">
+        <div id="socail_data_main_box" class="bred-in-rt" style="display: block;">
 			<span class="brd_tst">We are social</span>
 			<!-- div for social icons-->
-			<div id="test_id"></div>
+			<div id="socail_data_content_box"><div id="socail_data_facebook" onclick="javascrtip:_gaq.push(['_trackSocial', 'facebook', 'send', 'http://www.purevpn.com/privacy-policy.php']);"><a name="fb_share" type="button" share_url="http://www.purevpn.com/privacy-policy.php"></a></div><div id="socail_data_twitter" onclick="javascrtip:_gaq.push(['_trackSocial', 'twitter', 'send', 'http://www.purevpn.com/privacy-policy.php']);"><a href="https://twitter.com/share" class="twitter-share-button" data-count="none" data-via="http://twitter.com/purevpn">Tweet</a></div><div id="socail_data_google" onclick="javascrtip:_gaq.push(['_trackSocial', 'google_plus', 'send', 'http://www.purevpn.com/privacy-policy.php']);;"><g:plusone size="medium" annotation="none"></g:plusone></div></div>
 			<!-- end div for social icons-->
 		</div><br clear="all">
+        <input type="hidden" id="socail_data_load_status" value="1">
+        
+        
         
             </div>
 </div><br clear="all">
@@ -233,8 +299,8 @@ Personally Identifiable Information (PII) includes all such information which ca
      
      <b>File Sharing Activities and DMCA Notices</b><br clear="all"><br>
      
-     You agree that you will not do any kind of illegal file sharing activities on PureVPN's US and UK servers. PureVPN complies with DMCA notices and in this regard forbids its clients from such activities in those territories where it's illegal namely in the USA and the UK. However file sharing activities are permitted on our Netherlands, Canadian, German and Luxembourg servers.<br clear="all"><br>
-  
+     <!--You agree that you will not do any kind of illegal file sharing activities on PureVPN's US and UK servers. PureVPN complies with DMCA notices and in this regard forbids its clients from such activities in those territories where it's illegal namely in the USA and the UK. However file sharing activities are permitted on our Netherlands, Canadian, German and Luxembourg servers.<br clear="all" /><br />-->
+		You agree that you will not perform any kind of illegal file sharing activities including copyrighted material in jurisdictions where it's illegal by law namely United Kingdom (UK) , United States (US), Canada, Australia and others. We actively block sharing of copyrighted materials/torrents on our servers as per changing global web policies to keep our service in compliance. As of now, we allow file sharing on Turkey, Sweden, Romania, Luxembourg, Netherlands, Germany (de1 only) and Russian servers. PureVPN complies with all DMCA notices and in this regard forbids its clients to refrain from such activities.<br clear="all"><br>
   <b>Important Note</b><br clear="all"><br>
   
   PureVPN reserves the right to review and update this policy whenever required. It will become binding as soon as we update our privacy policy and it will be the responsibility of users to regularly check for updated Privacy Policy.
@@ -248,78 +314,74 @@ Personally Identifiable Information (PII) includes all such information which ca
 <div id="footer">
     <div class="fot_inr">
     	<div class="fot_testim">
-                        <div class="fot_test_inr" id="fot_test-1">
-                <span>"I am using your service for almost a year now and have found no problems whatsoever. However, there are a multiple suggestions for PureVPN. 1. Ability to chose " </span><br clear="all">
-                <i>Anonymous - China</i>
-            </div>
-                        <div class="fot_test_inr" id="fot_test-2">
-                <span>"PureVpn is really fantastic. I have used a host of other services including MPN, where I was made to wait 72 hours before receiving a 'support email e ticket re" </span><br clear="all">
-                <i>Anon - United Kingdom</i>
-            </div>
-                        <div class="fot_test_inr" id="fot_test-3">
-                <span>"Very good support, i've changed packages and installed it on my ddwrt. Speeds are as they should be. WIll be a loyal customer." </span><br clear="all">
-                <i>Larsbjerg  - Germany</i>
-            </div>
-                        <div class="fot_test_inr" id="fot_test-4">
-                <span>"Fantastic, prompt customer service when I did something wrong.  Also, I have been using the service for considerable time now and it is extremely reliable.  I h" </span><br clear="all">
-                <i>Mark Thomas  - Sweden</i>
-            </div>
-                        <div class="fot_test_inr" id="fot_test-5">
-                <span>"I have been around the vpn market and found pureVPN the most devoted company to offer vpn service with servers all around the world and increasing day by day.
-" </span><br clear="all">
-                <i>Bashar Khawam - Damascus-Syria</i>
-            </div>
-                        <div class="fot_test_inr" id="fot_test-6">
-                <span>"You did a great job in Olympics. Now enjoying football world cup :) Thx a lot !" </span><br clear="all">
-                <i>Tom - United Kingdom</i>
-            </div>
-                        <div class="fot_test_inr" id="fot_test-7">
+                        <div class="fot_test_inr" id="fot_test-1" style="z-index: 1;">
                 <span>"Thank you PureVPN, you are the best, I'm from one of the islamic countries in middle-east and islamic regime blocked lots of news websites. I'm so happy to use " </span><br clear="all">
                 <i>IR - Kuwait</i>
             </div>
-                        <div class="fot_test_inr" id="fot_test-8">
-                <span>"I have been around the vpn market and found pureVPN the most devoted company to offer vpn service with servers all around the world and increasing day by day." </span><br clear="all">
-                <i>Tony - United Kingdom</i>
+                        <div class="fot_test_inr" id="fot_test-2">
+                <span>"Excellent service, will go for a yearly paid option and recommend it to my friends!" </span><br clear="all">
+                <i>Yinlei - China</i>
             </div>
-                        <div class="fot_test_inr" id="fot_test-9">
+                        <div class="fot_test_inr" id="fot_test-3">
+                <span>"I have been using pure vpn for 3 month in united arab emirates it works perfect for me thanks for your service I am realy satisfied ...." </span><br clear="all">
+                <i>Shibin - U.A.E</i>
+            </div>
+                        <div class="fot_test_inr" id="fot_test-4">
+                <span>"You did a great job in Olympics. Now enjoying football world cup :) Thx a lot !" </span><br clear="all">
+                <i>Tom - United Kingdom</i>
+            </div>
+                        <div class="fot_test_inr" id="fot_test-5">
+                <span>"Fantastic, prompt customer service when I did something wrong.  Also, I have been using the service for considerable time now and it is extremely reliable.  I h" </span><br clear="all">
+                <i>Mark Thomas  - Sweden</i>
+            </div>
+                        <div class="fot_test_inr" id="fot_test-6">
+                <span>"PureVpn is really fantastic. I have used a host of other services including MPN, where I was made to wait 72 hours before receiving a 'support email e ticket re" </span><br clear="all">
+                <i>Anon - United Kingdom</i>
+            </div>
+                        <div class="fot_test_inr" id="fot_test-7">
                 <span>"Great service and technical support. 
 Very nice people on-line." </span><br clear="all">
                 <i>Victoria Yustinovich - Russia</i>
             </div>
-                        <div class="fot_test_inr" id="fot_test-10">
-                <span>"Excellent service, will go for a yearly paid option and recommend it to my friends!" </span><br clear="all">
-                <i>Yinlei - China</i>
+                        <div class="fot_test_inr" id="fot_test-8">
+                <span>"I have been around the vpn market and found pureVPN the most devoted company to offer vpn service with servers all around the world and increasing day by day.
+" </span><br clear="all">
+                <i>Bashar Khawam - Damascus-Syria</i>
             </div>
-                        <div class="fot_test_inr" id="fot_test-11">
+                        <div class="fot_test_inr" id="fot_test-9">
+                <span>"Excellent and fast tech service via chat.  Super good product." </span><br clear="all">
+                <i>Sjmast  - UK</i>
+            </div>
+                        <div class="fot_test_inr" id="fot_test-10">
                 <span>"the best service i ever have
 the customer service was very helpful they troubleshoot my connection remotely
 i give them 10" </span><br clear="all">
                 <i>Kinan - United Kingdom</i>
             </div>
-                        <div class="fot_test_inr" id="fot_test-12">
-                <span>"Excellent and fast tech service via chat.  Super good product." </span><br clear="all">
-                <i>Sjmast  - UK</i>
-            </div>
-                        <div class="fot_test_inr" id="fot_test-13">
+                        <div class="fot_test_inr" id="fot_test-11">
                 <span>"Thank you Amoiz for your help, your patience and your support. The problem is solved and we're ready to go!
 
 take care" </span><br clear="all">
                 <i>Gita  - India</i>
             </div>
-                        <div class="fot_test_inr" id="fot_test-14">
-                <span>"Hi! I am from one of the country in the Middle East. My ISP constantly keeps on blocking servers of PureVPN. However, I get best support from PureVPN team – a" </span><br clear="all">
-                <i>Nns - U.A.E</i>
+                        <div class="fot_test_inr" id="fot_test-12">
+                <span>"Very good support, i've changed packages and installed it on my ddwrt. Speeds are as they should be. WIll be a loyal customer." </span><br clear="all">
+                <i>Larsbjerg  - Germany</i>
             </div>
-                        <div class="fot_test_inr" id="fot_test-15">
+                        <div class="fot_test_inr" id="fot_test-13">
                 <span>"Hi,
 PureVPN is an awesome service. Fast and efficient connection to blocked sites, and is extremely useful. The Live Chat service is also pro" </span><br clear="all">
                 <i>Ph - United Kingdom</i>
             </div>
-                        <div class="fot_test_inr" id="fot_test-16">
-                <span>"I have been using pure vpn for 3 month in united arab emirates it works perfect for me thanks for your service I am realy satisfied ...." </span><br clear="all">
-                <i>Shibin - U.A.E</i>
+                        <div class="fot_test_inr" id="fot_test-14">
+                <span>"I am using your service for almost a year now and have found no problems whatsoever. However, there are a multiple suggestions for PureVPN. 1. Ability to chose " </span><br clear="all">
+                <i>Anonymous - China</i>
             </div>
-                        <input type="hidden" id="fot_testim_tot" value="16">
+                        <div class="fot_test_inr" id="fot_test-15">
+                <span>"I have been around the vpn market and found pureVPN the most devoted company to offer vpn service with servers all around the world and increasing day by day." </span><br clear="all">
+                <i>Tony - United Kingdom</i>
+            </div>
+                        <input type="hidden" id="fot_testim_tot" value="15">
         </div>
         <div>
             <div class="fot_box_1">
@@ -367,12 +429,12 @@ PureVPN is an awesome service. Fast and efficient connection to blocked sites, a
             <div class="fot_box_4">
                 <h5>PureVPN Connect</h5>
                 <ul>
-                    <li><b>›</b> <a href="http://facebook.com/purevpn">Facebook</a></li>
+                    <li><b>›</b> <a href="http://www.facebook.com/PureVPNcom">Facebook</a></li>
                     <li><b>›</b> <a href="http://twitter.com/purevpn">Twitter</a></li>
                     <li><b>›</b> <a href="http://www.youtube.com/purevpn">Youtube</a></li>
                 </ul><br clear="all"><br clear="all">
                 
-            <div>© 2007 - 2012 <strong>PureVPN</strong> All Rights Reserved <br>Company Registration No: <strong>1544568 </strong></div>
+            <div>© 2007 - 2013 <strong>PureVPN</strong> All Rights Reserved <br>Company Registration No: <strong>1544568 </strong></div>
                 
             </div><br clear="all">
             
@@ -382,29 +444,16 @@ PureVPN is an awesome service. Fast and efficient connection to blocked sites, a
 
 </div>
 <!--Footer | End-->
-    <script type="text/javascript">
 
-(function(w, d) { var a = function() { var a = d.createElement('script'); a.type = 'text/javascript';
 
-    a.async = 'async'; a.src = '//' + ((w.location.protocol === 'https:') ? 's3.amazonaws.com/cdx-radar/' :
 
-    'radar.cedexis.com/') + '01-10619-radar10.min.js'; d.body.appendChild(a); };
 
-    if (w.addEventListener) { w.addEventListener('load', a, false); }
 
-    else if (w.attachEvent) { w.attachEvent('onload', a); }
 
-}(window, document));
-</script>
-<img src="http://ad.retargeter.com/seg?add=224765" width="1" height="1">
-<div class="live-chat"><link href="http://chatserver.comm100.com/css/comm100_livechatbutton.css" rel="stylesheet" type="text/css"><div id="comm100_ChatButton"><div id="comm100_warp"><div id="comm100_dvhelp"><a class="comm100_ahelp_css" href="http://www.comm100.com/livechat/" onclick="comm100_Chat();return false;" target="_blank" title="Live Chat Software for Website"><img id="comm100_ButtonImage" src="http://chatserver.comm100.com/BBS.aspx?siteId=44978&amp;planId=546&amp;partnerId=-1"></a><script src="http://chatserver.comm100.com/js/LiveChat.js?siteId=44978&amp;planId=546&amp;partnerId=-1" type="text/javascript"></script></div></div></div></div>
 
-<script type="text/javascript">
-  var uvOptions = {};
-  (function() {
-    var uv = document.createElement('script'); uv.type = 'text/javascript'; uv.async = true;
-    uv.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'widget.uservoice.com/uZWTf4pquXOmYCSWDJNN4A.js';
-    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(uv, s);
-  })();
-</script>
-<script type="text/javascript" async="" src="//s3.amazonaws.com/cdx-radar/01-10619-radar10.min.js"></script></body></html>
+
+
+
+
+<!--- End profiling tags ----><script type="text/javascript">if(!NREUMQ.f){NREUMQ.f=function(){NREUMQ.push(["load",new Date().getTime()]);var e=document.createElement("script");e.type="text/javascript";e.src=(("http:"===document.location.protocol)?"http:":"https:")+"//"+"rpm-images.newrelic.com/42/eum/rum.js";document.body.appendChild(e);if(NREUMQ.a)NREUMQ.a();};NREUMQ.a=window.onload;window.onload=NREUMQ.f;};NREUMQ.push(["nrfj","beacon-3.newrelic.com","1f0fae943d","2703225","MQFaNUZVX0VXVBcPDAhLbRNdG0FEX0ECBRpLFFcNXVdIGEZfEw==",0,4,new Date().getTime(),"","","","",""]);</script>
+<img src="http://ad.retargeter.com/seg?add=224765" width="1" height="1"><div class="live-chat">	<div id="comm100_ChatButton">		<div id="comm100_warp">			<div id="comm100_dvhelp">				<a class="comm100_ahelp_css" href="http://www.comm100.com/livechat/" onclick="comm100_Chat();return false;" target="_blank" title="Live Chat Software for Website">					<img id="comm100_ButtonImage" src="http://chatserver.comm100.com/BBS.aspx?siteId=44978&amp;planId=546&amp;partnerId=-1">				</a>			</div>		</div>	</div></div><link href="http://chatserver.comm100.com/css/comm100_livechatbutton.css" rel="stylesheet" type="text/css"><script type="text/javascript" src="https://rpm-images.newrelic.com/42/eum/rum.js"></script><script type="text/javascript" async="" src="//s3.amazonaws.com/cdx-radar/01-10619-radar10.min.js"></script></body></html>
