@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ala.org privacy policy that was archived on 2012-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121216020036id_/http%3A//www.ala.org/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ala.org privacy policy that was archived on 2013-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130627003546id_/http%3A//www.ala.org/privacypolicy) for the most accurate reproduction.*
 
 # ALA Privacy Policy | American Library Association
 
