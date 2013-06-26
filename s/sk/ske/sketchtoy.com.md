@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the sketchtoy.com privacy policy that was archived on 2012-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121225031155id_/http%3A//sketchtoy.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sketchtoy.com privacy policy that was archived on 2013-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130626232648id_/http%3A//sketchtoy.com/privacy) for the most accurate reproduction.*
 
-# sktch.in: Privacy
+# Sketch Toy: Privacy
 
 ##  Privacy Policy 
 
@@ -13,6 +13,7 @@ Your privacy is very important to us. Accordingly, we have developed this Policy
   * Personal data should be relevant to the purposes for which it is to be used, and, to the extent necessary for those purposes, should be accurate, complete, and up-to-date. 
   * We will protect personal information by reasonable security safeguards against loss or theft, as well as unauthorized access, disclosure, copying, use or modification. 
   * We will make readily available to customers information about our policies and practices relating to the management of personal information. 
+  * We use third party advertisements on sketchtoy.com to support our application. Some of these advertisers may use technology such as cookies and web beacons when they advertise on our site, which will also send these advertisers (such as Google through the Google AdSense program) information including your IP address, your ISP, the browser you used to visit our site, and in some cases, whether you have Flash installed. You can chose to disable or selectively turn off our cookies or third-party cookies in your browser settings, or by managing preferences in programs such as Norton Internet Security. However, this can affect how you are able to interact with our site as well as other websites. This could include the inability to login to services or programs, such as logging into forums or accounts. 
 
 
 
