@@ -1,138 +1,77 @@
-> *The following text is extracted and transformed from the nanigans.com privacy policy that was archived on 2012-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120623134345id_/http%3A//api.nanigans.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nanigans.com privacy policy that was archived on 2013-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130626082410id_/http%3A//www.nanigans.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Statement for Nanigans, Inc.
+# Privacy Policy | Nanigans – Predictive Lifetime Value SaaS Platform for Performance Marketing at Scale
 
-## About Us
+**Privacy Policy**
 
-This is a privacy policy for Nanigans, Inc.. Our homepage on the Web is located at [ http://www.nanigans.com](http://www.nanigans.com/). The full text of our privacy policy is available on the Web at [ http://api.nanigans.com/privacy.html](http://api.nanigans.com/privacy.html) Users may go to [ ]() for information on how to opt-in or opt-out of use of their information. 
+**Introduction**
 
-We invite you to contact us if you have questions about this policy. You may contact us by mail at the following address: 
-    
-    
-    Nanigans, Inc.
-    110 Chauncy St.
-    Boston, MA 02111 
-    USA
-    
+At Nanigans (the “Company”, “us”), we take privacy issues seriously.  The following is an outline of the ways in which we collect and use your personal information.
 
-You may contact us by e-mail at [ info@nanigans.com](mailto:info@nanigans.com). 
+**Information Collection**
 
-## Dispute Resolution and Privacy Seals
+Nanigans does not collect or use PII, with the exception of client account information that is voluntarily submitted to the Company.  The only data that we collect comes directly from Facebook and relates to events and business metrics.  Facebook provides us non-personal, statistical reports regarding the effectiveness of an ad.  These reports do not contain any personal information about those who interacted with the ad.  The information that we do receive is generated from ‘clicks’ on our ads and enables us to best provide our customers with affective targeting, and feedback.
 
-We have no privacy seals or other assurance mechanisms. 
+To further ensure your privacy, you can manage the privacy settings within your Facebook page.  Facebook will not give away your content or information to advertisers without your consent.
 
-## Additional Information
+User accounts with Nanigans are only available to advertisers.  For these accounts, we hold user submitted information such as name, username and password in order to authenticate users and to contact users with relevant information having to do with their Nanigans accounts. This information that we hold is not shared with anyone.
 
-This policy is valid for 4 weeks from the time that it is loaded by a client. 
+**Log Files and Cookies**
 
-## Data Collection
+Cookies are small files that are placed on your browser or device by the website or app you are using or ad you have viewed. Like most websites, we use cookies to provide you with a better, faster or safer experience.
 
-P3P policies declare the data they collect in groups (also referred to as "statements"). This policy contains 2 data groups. The data practices of each group will be explained separately. 
+Cookies and pixels are used to understand and deliver advertisements and make them more relevant to you.  For example, Facebook may read a cookie that tells them you’re logged into Facebook so that they can show you ads that may be interesting to you on Facebook or other websites. Cookies are used to learn whether someone who saw an ad on Facebook later visited and purchased goods from the advertiser’s site. Within our own campaigns, Nanigans may use a cookie to determine whether we’ve shown an ad and how it performed. Facebook may also work with a partner to show you an ad on Facebook after you’ve visited the partner’s site and this may involve the use of cookies.
 
-* * *
+Cookies are used to understand, improve, and research products and services. For example, cookies may be used to understand how you are using social plugins in order to improve them. Facebook may also use a cookie to understand the ads served by them and their partners.
 
-### Group "Basic information"
+The cookies within the Facebook advertisements that we run report non-personal data to log files which we in turn analyze in order to best provide our clients with feedback.
 
-We collect the following information: 
+**Information Usage**
 
-  * Click-stream data
-  * HTTP protocol elements
-  * Search terms
+Nanigans uses the collected ‘beyond-click’ data in order to give comprehensive feedback to our clients regarding the effectiveness of their advertising campaigns.
 
+**Compliant with Third Party Privacy Regulations**
 
+Nanigans has engaged in a relationship with TrustE and anticipate to be fully compliant with their privacy regulations in the near future.
 
-This data will be used for the following purposes:
+**Opt-Out**
 
-  * Completion and support of the current activity.
-  * Web site and system administration.
-  * Research and development.
+If you choose not to receive the benefits of cookies, you may ‘opt-out‘ by clicking the following link.
 
+[Opt-Out](http://www.nanigans.com/opted-out/)
 
+Please be aware that because cookies are browser specific, if you use more than one browser on your computer, you will need to repeat the opt-out process on the other browser(s) in order to opt-out completely. Please note that you will need to opt out of the Nanigans’ cookie again if you buy a new computer, upgrade or change the browser on your existing computer, or delete the Nanigans opt-out cookie.  If you wish to opt back in, you may do so by deleting the Nanigans opt-out cookie from your browser.
 
-This data will be used by ourselves and our agents. 
+**Links to other sites**
 
-The following explanation is provided for why this data is collected:
+Our website may contain links to other web pages.  Please understand that Nanigans holds no responsibility for the privacy policies used by these websites.  We also hold no responsibility for sites to which our advertisements may be linked.
 
-> Data collected from all Web users: access logs, and search strings (if entered).
+**Access to Personally Identifiable Information**
 
-* * *
+If clients wish to change their personal information (i.e. contact info, username, password) they should feel free to contact us at [info@nanigans.com](mailto:info@nanigans.com).
 
-### Group "Cookies"
+**Changes to Our Privacy Policy**
 
-At the user's option, we will collect the following data: 
+This privacy policy is subject to change at any time and we therefore recommend that you check this page frequently.  Any changes that are made to the policy will be noted on this page.
 
-  * HTTP cookies
+**Data Retention and Security**
 
+Nanigans retains client information for the duration of a client’s active account.  We also hold records of invoices and contact information for a regulated period of time.
 
+We take the security of information that we collect very seriously and therefore implement measures in order to protect it.  However, there is no way of guaranteeing the security of information, given that no method is 100% secure.
 
-This data will be used for the following purposes:
+**Legal Disclaimer**
 
-  * Research and development.
-  * One-time tailoring.
+Nanigans reserves the right to disclose any and all information as required by law or when it is believed that such disclosure is necessary to protect our rights or to comply with the requirements of any legal process.
 
+**Contacting Us**
 
+Any questions, complaints or general comments should be directed to [info@nanigans.com](mailto:info@nanigans.com).
 
-This data will be used by ourselves and our agents. 
+You may also reach us at:
 
-The following explanation is provided for why this data is collected:
+(857) 277-0364
 
-> Cookies are used to track visitors to our site, so we can better understand what portions of our site best serve you.
+60 State St.
 
-* * *
-
-## Cookies
-
-Cookies are a technology which can be used to provide you with tailored information from a Web site. A cookie is an element of data that a Web site can send to your browser, which may then store it on your system. You can set your browser to notify you when you receive a cookie, giving you the chance to decide whether to accept it. 
-
-Our site makes use of cookies. Cookies are used for the following purposes: 
-
-  * User targeting 
-  * Research and development 
-
-
-
-* * *
-
-## Opting Out
-
-This privacy statement describes Nanigan's potential use of your information, which includes, but is not limited to your IP address, and User Agent. If you do not agree to our potential uses of your personally identifiable information as we have described for you, you are not required to provide that information to us. In addition, you may opt out of receiving advertising from us simply by responding to the opt-out email link provided by Nanigan's ([myinfo@nanigans.com](mailto:myinfo@nanigans.com)). You also may cancel or correct your personal information at any time. You can do this by e-mailing us at [myinfo@nanigans.com](mailto:myinfo@nanigans.com?Subject=My%20Info) with "My Info" in the subject line of the e-mail. We will send you an e-mail to confirm your request. After we receive confirmation from you, we will correct or remove your information from the all active databases.. If you would like more information about this practice and to know your choices please visit <http://www.networkadvertising.org/managing/opt_out.asp>
-
-* * *
-
-## Compact Policy Summary
-
-The compact policy which corresponds to this policy is: 
-    
-    
-        CP="NOI CURa ADMa DEVa TAIa OUR BUS IND UNI COM NAV INT"
-    
-
-The following table explains the meaning of each field in the compact policy. 
-
-**Field**|  **Meaning**  
----|---  
-`CP=` | This is the compact policy header; it indicates that what follows is a P3P compact policy.  
-`NOI` |  No identifiable information is collected, so no access is possible.   
-`CURa` |  The data is used for completion of the current activity.   
-`ADMa` |  The data is used for site administration.   
-`DEVa` |  The data is used for research and development.   
-`TAIa` |  The data is used for tailoring the site.   
-`OUR` |  The data is given to ourselves and our agents.   
-`BUS` |  Our business practices specify how long the data will be kept.   
-`IND` |  The data will be kept indefinitely.   
-`UNI` |  Unique identifiers are collected.   
-`COM` |  Computer information is collected.   
-`NAV` |  Navigation and clickstream data is collected.   
-`INT` |  Interactive data is collected.   
-  
-The compact policy is sent by the Web server along with the cookies it describes. For more information, see the P3P deployment guide at <http://www.w3.org/TR/p3pdeployment>. 
-
-* * *
-
-## Policy Evaluation
-
-Microsoft Internet Explorer 6 will evaluate this policy's compact policy whenever it is used with a cookie. The actions IE will take depend on what privacy level the user has selected in their browser (Low, Medium, Medium High, or High; the default is Medium. In addition, IE will examine whether the cookie's policy is considered satisfactory or unsatisfactory, whether the cookie is a session cookie or a persistent cookie, and whether the cookie is used in a first-party or third-party context. This section will attempt to evaluate this policy's compact policy against Microsoft's stated behavior for IE6. 
-
-**Note:** this evaluation is currently experimental and should not be considered a substitute for testing with a real Web browser. 
-
-**Satisfactory policy** : this compact policy is considered _satisfactory_ according to the rules defined by Internet Explorer 6. IE6 will accept cookies accompanied by this policy under the High, Medium High, Medium, Low, and Accept All Cookies settings. 
+Boston, MA 02109
