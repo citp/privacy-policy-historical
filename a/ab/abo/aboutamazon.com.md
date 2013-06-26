@@ -1,69 +1,112 @@
-> *The following text is extracted and transformed from the aboutamazon.com privacy policy that was archived on 2001-04-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010409205038id_/http%3A//www.aboutamazon.com/index.cfm%3Fa%3Dhelp%26sa%3Dgetstart%26tab%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aboutamazon.com privacy policy that was archived on 2013-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130627012327id_/http%3A//www.amazon.com/gp/help/customer/display.html%3Fie%3DUTF8%26nodeId%3D468496) for the most accurate reproduction.*
 
-# Afternic.com - Getting Started
+# Amazon.com Help: Amazon.com Privacy Notice
 
-Your privacy is very important to us. As part of the normal operation of our business services, we collect and, in some cases, disclose information about you. This Privacy Policy outlines the information that we collect about you and what may happen to that information. The privacy policies of this notice apply to [http://www.Afternic.com](https://web.archive.org/web/20010409205038id_/http%3A//www.aboutamazon.com/index.cfm) (hereafter, the Site).
+|  **Amazon.com Privacy Notice**
 
-As described below, some of your personally identifiable information is disclosed to third parties and used by us and third parties. By accepting the User Agreement, you expressly consent to our use and disclosure of your personally identifiable information. This Privacy Policy is incorporated into and subject to the terms of the [AFTERNIC.COM, Inc. User Agreement](https://web.archive.org/web/20010409205038id_/http%3A//www.aboutamazon.com/index.cfm?a=help&sa=getstart&tab=useragreement).
+**Last updated: April 6, 2012.** To see what has changed, [click here](https://web.archive.org/gp/browse.html/ref=hp_468496_changes?node=16015091).
 
-AFTERNIC.COM reserves the right to change its privacy policy from time to time. Before policy changes take effect, however we will post notices prominently.
+Amazon.com knows that you care how information about you is used and shared, and we appreciate your trust that we will do so carefully and sensibly. This notice describes our privacy policy. **By visiting Amazon.com, you are accepting the practices described in this Privacy Notice.**
 
- **1\. Information we collect**  
-If you are merely visiting our site, we collect and store only the following information about you:
+  * What Personal Information About Customers Does Amazon.com Gather?
+  * [What About Cookies?](https://web.archive.org/gp/help/customer/display.html/ref=hp_468496_cookies?nodeId=468496&#cookies)
+  * [Does Amazon.com Share the Information It Receives?](https://web.archive.org/gp/help/customer/display.html/ref=hp_468496_share?nodeId=468496&#share)
+  * [How Secure Is Information About Me?](https://web.archive.org/gp/help/customer/display.html/ref=hp_468496_secure?nodeId=468496&#secure)
+  * [What About Third-Party Advertisers and Links to Other Websites?](https://web.archive.org/gp/help/customer/display.html/ref=hp_468496_third_party?nodeId=468496&#third_party)
+  * [Which Information Can I Access?](https://web.archive.org/gp/help/customer/display.html/ref=hp_468496_acess?nodeId=468496&#access)
+  * [What Choices Do I Have?](https://web.archive.org/gp/help/customer/display.html/ref=hp_468496_choices?nodeId=468496&#choices)
+  * [Are Children Allowed to Use Amazon.com?](https://web.archive.org/gp/help/customer/display.html/ref=hp_468496_children?nodeId=468496&#children)
+  * [Does Amazon.com Participate in the Safe Harbor Program?](https://web.archive.org/gp/help/customer/display.html/ref=hp_468496_harbor?nodeId=468496&#harbor)
+  * [Conditions of Use, Notices, and Revisions](https://web.archive.org/gp/help/customer/display.html/ref=hp_468496_conditions?nodeId=468496&#conditions)
+  * [Examples of Information Collected](https://web.archive.org/gp/help/customer/display.html/ref=hp_468496_examples?nodeId=468496&#examples)
 
-  * The IP address of the terminal from which you access the Internet 
-  * The IP address of the website from which you linked directly to our site 
-  * The date and time you access our site 
-  * The browser you used to access the site 
-  * The operating system you used to access the site 
+ **What Personal Information About Customers Does Amazon.com Gather?**
 
+The information we learn from customers helps us personalize and continually improve your Amazon.com experience. Here are the types of information we gather. 
 
+  * **Information You Give Us:** We receive and store any information you enter on our Web site or give us in any other way. Click here to see examples of what we collect. You can choose not to provide certain information, but then you might not be able to take advantage of many of our features. We use the information that you provide for such purposes as responding to your requests, customizing future shopping for you, improving our stores, and communicating with you. 
+  * **Automatic Information:** We receive and store certain types of information whenever you interact with us. For example, like many Web sites, we use "cookies," and we obtain certain types of information when your Web browser accesses Amazon.com or advertisements and other content served by or on behalf of Amazon.com on other Web sites. Click here to see examples of the information we receive. 
+  * **Mobile:** When you download or use [apps created by Amazon](http://www.amazon.com/gp/feature.html?&docId=1000511451) or our subsidiaries, we may receive information about your location and your mobile device, including a unique identifier for your device. We may use this information to provide you with location-based services, such as advertising, search results, and other personalized content. Most mobile devices allow you to turn off location services. For more information about how to do this, [click here](https://web.archive.org/gp/help/customer/display.html/ref=hp_468496_lbs10?nodeId=468496#lbs).
+  * **E-mail Communications:** To help us make e-mails more useful and interesting, we often receive a confirmation when you open e-mail from Amazon.com if your computer supports such capabilities. We also compare our customer list to lists received from other companies, in an effort to avoid sending unnecessary messages to our customers. If you do not want to receive e-mail or other mail from us, please adjust your [Customer Communication Preferences](https://web.archive.org/gp/gss/ccp/ref=hp_468496_ccp). 
+  * **Information from Other Sources:** We might receive information about you from other sources and add it to our account information. Click here to see examples of the information we receive. 
 
-We use this information to measure the number of visitors to the different sections of our site, and to help us make our site more useful to visitors.
-
-We will not obtain any other personally identifying information about you when you visit our site, unless you choose to provide such information to us.
-
-As a STANDARD MEMBER or EXCHANGE MEMBER, we collect and store additional information about you. To fully use our services, you will need to register using our online form. You will be required to provide us with your contact information and other personal information such as User ID, email address, and billing address. In addition, as an EXCHANGE MEMBER, you will be required to provide your credit card number and its expiration date. We use this credit card information to verify your name, address, and other personally identifying information as well as to process your transactions.
-
-We automatically track certain information about you based upon your behavior on our site. We use this information to analyze user demographics, interests, and behavior to better understand your preferences and improve your AFTERNIC.COM experience.
-
-Cookies are used on certain pages of our site. We offer certain features that are only available through the use of a cookie. Cookies are stored on your hard drive, not on our site. If your browser permits, you are always free to decline our cookies, but you may not be able to use certain site features and will have to enter your personally identifying information manually more often. If you choose to buy, bid, sell, or appraise on our site, we collect information about these behaviors. 
-
-When you successfully buy or sell a domain name, we collect some additional information including name servers, administrative contacts, business identification, special registrar requirements, billing address, bank account number, and tracking information from checks and money orders. Bank account information is deleted when your transaction closes. 
-
-**2\. How we use your information**  
-We use the information we collect from you to transmit administrative notices, buy/sell information and support, billing information, to send you specific information that you have requested, to process your credit card purchases, and to complete the paperwork necessary to transfer a domain name registration. We may also use it to send you information that is targeted to your interests, such as upcoming auctions and promotions. By accepting the User Agreement, you expressly agree to receive this information. Additionally, on appropriate portions of the site, we may display or archive your user name and system- and user-generated feedback, including the comments you submit and that others submit about you.
-
-If you send us personal correspondence, such as emails or letters, or if third parties such as other users send us correspondence about your activities or postings on the site, we may collect such information into a file with information specific to you. We use this information to support your customer inquiries, settle disputes, enforce our User Agreement, maintain our customer ranking system, troubleshoot problems, and to identify you as eligible for special user campaigns. On rare occasions, we may look across multiple users to identify problems, resolve disputes, and evaluate you for multiple user names.
-
-As a general proposition, we do not sell or rent any personally identifiable information about you to any third party. If you choose to use the optional services available on the site, we will, by necessity, provide some of your personally identifiable information to these service providers. However, you can avoid these disclosures by choosing to not use these services. Because we do not control the privacy practices of these third parties, you should evaluate their practices before deciding to use their services.
-
-Unfortunately, due to the existing regulatory environment, we cannot ensure that all of your private communications and other personally identifiable information will never be disclosed in ways not otherwise described in this Privacy Policy. As an example, without limiting the foregoing, AFTERNIC.COM will provide personal data records if required by the order of any court of competent jurisdiction. We may disclose any information about you to law enforcement or other government officials as we, in our sole discretion, believe necessary or appropriate, in connection with an investigation of fraud, intellectual property infringements, or other activity that is illegal and may expose us to legal liability. Therefore, although we use industry standard practices to protect your privacy, we cannot guarantee, and you should not expect, that your personally identifiable information or private communications will remain private.
-
-**3\. Special note about children**  
-Children are not eligible to use our services. We ask that minors do not submit any personal information to us. 
-
-If you believe your child has errantly submitted personally identifying information on the site, please send us an email message with the name of your child, the email address which the child used to contact us, and the child’s postal address. We will notify you if we have any data matching these identifiers. If you can supply the additional information that we require to authenticate your relationship to the data subject, we will delete the data at your request.
-
-**4\. Your use of other users’ information**  
-In order to facilitate community, our service allows you to access other users’ personal information, such as (but not limited to) user name and listed auctions. Further, as a successful buyer or seller, you will be sent the other data subject’s name, address, email address, phone number, fax number, title, DNS information, and registrar identity information. 
-
-By entering into our User Agreement, you agree that, with respect to other user’s personally identifiable information, you obtain through the Site or through an AFTERNIC.COM-related communication or AFTERNIC.COM-facilitated transaction, AFTERNIC.COM hereby grants you license to use such information only for:
-
-  * AFTERNIC.COM -related communications that are not unsolicited commercial messages, and 
-  
-
-  * Any use that such user expressly opts into after adequate disclosure of the purpose(s).
+**What About Cookies?**  
 
 
+  * Cookies are unique identifiers that we transfer to your device to enable our systems to recognize your device and to provide features such as [1-Click](https://web.archive.org/gp/browse.html/ref=hp_468496_1click?node=468480) purchasing, [Recommended for You](http://www.amazon.com/gp/yourstore/nr/ref=hp_468496_recommended), personalized advertisements on other Web sites (e.g., Amazon Associates with content served by Amazon.com and Web sites using Checkout by Amazon payment service), and storage of items in your Shopping Cart between visits. 
+  * The Help feature on most browsers will tell you how to prevent your browser from accepting new cookies, how to have the browser notify you when you receive a new cookie, or how to disable cookies altogether. Additionally, you can disable or delete similar data used by browser add-ons, such as Flash cookies, by changing the add-on's settings or visiting the Web site of its manufacturer. Because cookies allow you to take advantage of some of Amazon.com's essential features, we recommend that you leave them turned on. For instance, if you block or otherwise reject our cookies, you will not be able to add items to your Shopping Cart, proceed to Checkout, or use any Amazon.com products and services that require you to Sign in. 
 
-Additionally, under no circumstances, except those defined in this section, can you disclose personally identifiable information about another user to any third party without our consent and the consent of such other user after adequate disclosure. Note that law enforcement personnel and other rights holders are given different information access rights.
+**Does Amazon.com Share the Information It Receives?**  
+Information about our customers is an important part of our business, and we are not in the business of selling it to others. We share customer information only as described below and with subsidiaries Amazon.com, Inc. controls that either are subject to this Privacy Notice or follow practices at least as protective as those described in this Privacy Notice. 
 
-AFTERNIC.COM and its users will not tolerate any spam. Without limiting the foregoing, you are not licensed to add any AFTERNIC.COM user, even one with whom you have transacted, to your mail (email or physical) or phone list without their express consent after adequate disclosure.
+  * **Affiliated Businesses We Do Not Control:** We work closely with affiliated businesses. In some cases, such as Marketplace sellers, these businesses operate stores at Amazon.com or sell offerings to you at Amazon.com. In other cases, we operate stores, provide services, or sell product lines jointly with these businesses. Click here for some examples of co-branded and joint offerings. You can tell when a third party is involved in your transactions, and we share customer information related to those transactions with that third party. 
+  * **Third-Party Service Providers:** We employ other companies and individuals to perform functions on our behalf. Examples include fulfilling orders, delivering packages, sending postal mail and e-mail, removing repetitive information from customer lists, analyzing data, providing marketing assistance, providing search results and links (including paid listings and links), processing credit card payments, and providing customer service. They have access to personal information needed to perform their functions, but may not use it for other purposes. 
+  * **Promotional Offers:** Sometimes we send offers to selected groups of Amazon.com customers on behalf of other businesses. When we do this, we do not give that business your name and address. If you do not want to receive such offers, please adjust your [Customer Communication Preferences](https://web.archive.org/gp/gss/ccp/ref=hp_468496_ccp2). 
+  * **Business Transfers:** As we continue to develop our business, we might sell or buy stores, subsidiaries, or business units. In such transactions, customer information generally is one of the transferred business assets but remains subject to the promises made in any pre-existing Privacy Notice (unless, of course, the customer consents otherwise). Also, in the unlikely event that Amazon.com, Inc., or substantially all of its assets are acquired, customer information will of course be one of the transferred assets. 
+  * **Protection of Amazon.com and Others:** We release account and other personal information when we believe release is appropriate to comply with the law; enforce or apply our [Conditions of Use](https://web.archive.org/gp/browse.html/ref=hp_468496_conditions?node=508088) and other agreements; or protect the rights, property, or safety of Amazon.com, our users, or others. This includes exchanging information with other companies and organizations for fraud protection and credit risk reduction. Obviously, however, this does not include selling, renting, sharing, or otherwise disclosing personally identifiable information from customers for commercial purposes in violation of the commitments set forth in this Privacy Notice. 
+  * **With Your Consent:** Other than as set out above, you will receive notice when information about you might go to third parties, and you will have an opportunity to choose not to share the information. 
 
-**7\. Reviewing and changing your information**  
-Following registration, you can review the information you submitted via your personal MY AFTERNIC account, including your Username and encoded credit card information. 
+**How Secure Is Information About Me?**  
 
-Additionally, you can use your MY AFTERNIC account to review and modify other fields, including first and last name, address information, email address, and password. If you choose to change your email address, we will cross-match your new address in our database for relationship to any other data set. We will only allow unique email addresses to be used for registration.
 
-At your discretion, you may review and change all fields in your personal domain name profile records at any time.
+  * We work to protect the security of your information during transmission by using Secure Sockets Layer (SSL) software, which encrypts information you input. 
+  * We reveal only the last four digits of your credit card numbers when confirming an order. Of course, we transmit the entire credit card number to the appropriate credit card company during order processing. 
+  * It is important for you to protect against unauthorized access to your password and to your computer. Be sure to sign off when finished using a shared computer. [Click here](https://web.archive.org/gp/browse.html/ref=hp_468496_signoff?node=515722) for more information on how to sign off.
+
+**What About Third-Party Advertisers and Links to Other Websites?**
+
+Our site includes third-party advertising and links to other Web sites. For more information about third-party advertising at Amazon.com, including personalized or interest-based ads, please read our [Interest-Based Ads](http://www.amazon.com/interestbasedads) policy.
+
+**Which Information Can I Access?**  
+Amazon.com gives you access to a broad range of information about your account and your interactions with Amazon.com for the limited purpose of viewing and, in certain cases, updating that information. Click here to see some examples, the list of which will change as our Web site evolves. **What Choices Do I Have?**  
+
+
+  * As discussed above, you can always choose not to provide information, even though it might be needed to make a purchase or to take advantage of such Amazon.com features as [Your Profile](https://web.archive.org/gp/pdp/ref=hp_468496_profile), [Wish Lists](https://web.archive.org/gp/registry/wishlist-homepage.html/ref=hp_468496_wishlist), [Customer Reviews](https://web.archive.org/gp/help/customer/display.html/ref=hp_468496_reviews10?nodeId=200791000), and [Amazon Prime](https://web.archive.org/gp/browse.html/ref=hp_468496_prime?node=13819211). 
+  * You can add or update certain information on pages such as those referenced in the "Which Information Can I Access?" section. When you update information, we usually keep a copy of the prior version for our records. 
+  * If you do not want to receive e-mail or other mail from us, please adjust your [Customer Communication Preferences](https://web.archive.org/gp/gss/ccp/ref=hp_468496_ccp3). (If you do not want to receive [Conditions of Use](https://web.archive.org/gp/browse.html/ref=hp_468496_conditions2?node=508088) and other legal notices from us, such as this Privacy Notice, those notices will still govern your use of Amazon.com, and it is your responsibility to review them for changes.) 
+  * If you do not want us to use personal information that we gather to allow third parties to personalize advertisements we display to you, please adjust your [Advertising Preferences](http://www.amazon.com/gp/dra/info/ref=hp_468496_advertisingpref2). 
+  * The Help feature on most browsers will tell you how to prevent your browser from accepting new cookies, how to have the browser notify you when you receive a new cookie, or how to disable cookies altogether. Additionally, you can disable or delete similar data used by browser add-ons, such as Flash cookies, by changing the add-on's settings or visiting the Web site of its manufacturer. Because cookies allow you to take advantage of some of Amazon.com's essential features, we recommend that you leave them turned on. For instance, if you block or otherwise reject our cookies, you will not be able to add items to your Shopping Cart, proceed to Checkout, or use any Amazon.com products and services that require you to Sign in. 
+
+**Are Children Allowed to Use Amazon.com?**  
+Amazon.com does not sell products for purchase by children. We sell children's products for purchase by adults. If you are under 18, you may use Amazon.com only with the involvement of a parent or guardian. 
+
+**Does Amazon.com Participate in the Safe Harbor Program?**  
+Amazon.com is a participant in the Safe Harbor program developed by the U.S. Department of Commerce and (1) the European Union and (2) Switzerland, respectively. We have certified that we adhere to the Safe Harbor Privacy Principles agreed upon by the U.S. and (1) the E.U. and (2) Switzerland, respectively. For more information about the Safe Harbor and to view our certification, visit the [U.S. Department of Commerce's Safe Harbor](http://www.export.gov/safeharbor/) Web site. If you would like to contact Amazon.com directly about the Safe Harbor program, please send an e-mail to safeharbor@amazon.com. 
+
+**Conditions of Use, Notices, and Revisions**  
+If you choose to visit Amazon.com, your visit and any dispute over privacy is subject to this Notice and our [Conditions of Use](https://web.archive.org/gp/browse.html/ref=hp_468496_conditions3?node=508088), including limitations on damages, resolution of disputes, and application of the law of the state of Washington. If you have any concern about privacy at Amazon.com, please [contact us](https://web.archive.org/gp/help/contact-us/features-and-services.html/ref=hp_468496_contactus) with a thorough description, and we will try to resolve it. Our business changes constantly, and our Privacy Notice and the [Conditions of Use](https://web.archive.org/gp/browse.html/ref=hp_468496_conditions4?node=508088) will change also. We may e-mail periodic reminders of our notices and conditions, but you should check our Web site frequently to see recent changes. Unless stated otherwise, our current Privacy Notice applies to all information that we have about you and your account. We stand behind the promises we make, however, and will never materially change our policies and practices to make them less protective of customer information collected in the past without the consent of affected customers. 
+
+Related Practices and Information 
+
+  * [Conditions of Use](https://web.archive.org/gp/browse.html/ref=hp_468496_conditions5?node=508088)
+  * [Discussion Boards](https://web.archive.org/gp/help/customer/display.html/ref=hp_468496_discussion?nodeId=14279661)
+  * [Community Rules](https://web.archive.org/gp/help/customer/display.html/ref=hp_468496_crules?nodeId=537776)
+  * [Help department](https://web.archive.org/gp/browse.html/ref=hp_468496_help?node=508510)
+  * [Most Recent Purchases](http://www.amazon.com/your-orders)
+  * [Your Profile and Community Guidelines](https://web.archive.org/gp/browse.html/ref=hp_468496_yourprofile?node=14279631)
+
+**Examples of Information Collected**
+
+**Information You Give Us**
+
+You provide most such information when you search, buy, bid, post, participate in a contest or questionnaire, or communicate with customer service. For example, you provide information when you search for a product; place an order through Amazon.com or one of our third-party sellers; provide information in [Your Account](https://web.archive.org/gp/css/homepage.html/ref=hp_468496_youraccount) (and you might have more than one if you have used more than one e-mail address when shopping with us) or [Your Profile](https://web.archive.org/gp/pdp/profile/); communicate with us by phone, e-mail, or otherwise; complete a questionnaire or a contest entry form; use our services such as [Amazon Instant Video](http://www.amazon.com/Instant-Video/b/?node=2858778011); compile [Wish Lists](https://web.archive.org/gp/registry/wishlist-homepage.html/ref=hp_468496_wishlist2) or other gift registries; participate in [Discussion Boards](https://web.archive.org/gp/help/customer/display.html/ref=hp_468496_discussion?nodeId=14279661) or other community features; provide and rate [Reviews](https://web.archive.org/gp/help/customer/display.html/?nodeId=200791000); specify a [Special Occasion Reminder](https://web.archive.org/gp/specialoccasions/alternative/ref=hp_468496_occasion); and employ Product Availability Alerts, such as Available to Order Notifications. As a result of those actions, you might supply us with such information as your name, address, and phone numbers; credit card information; people to whom purchases have been shipped, including addresses and phone number; people (with addresses and phone numbers) listed in [1-Click](https://web.archive.org/gp/browse.html/ref=hp_468496_1click2?node=468482) settings; e-mail addresses of your friends and other people; content of reviews and e-mails to us; personal description and photograph in [Your Profile](http://www.amazon.com/profile); and financial information, including Social Security and driver's license numbers. 
+
+**Automatic Information**
+
+Examples of the information we collect and analyze include the Internet protocol (IP) address used to connect your computer to the Internet; login; e-mail address; password; computer and connection information such as browser type, version, and time zone setting, browser plug-in types and versions, operating system, and platform; purchase history, which we sometimes aggregate with similar information from other customers to create features like [Top Sellers](http://www.amazon.com/exec/obidos/tg/new-for-you/top-sellers/-/main/ref=hp_468496_topsellers2); the full Uniform Resource Locator (URL) clickstream to, through, and from our Web site, including date and time; cookie number; products you viewed or searched for; and the phone number you used to call our 800 number. We may also use browser data such as cookies, Flash cookies (also known as Flash Local Shared Objects), or similar data on certain parts of our Web site for fraud prevention and other purposes. During some visits we may use software tools such as JavaScript to measure and collect session information, including page response times, download errors, length of visits to certain pages, page interaction information (such as scrolling, clicks, and mouse-overs), and methods used to browse away from the page. We may also collect technical information to help us identify your device for fraud prevention and diagnostic purposes. 
+
+**Mobile**
+
+Most mobile devices provide users with the ability to disable location services. Most likely, these controls are located in the device's settings menu. For information about specific devices, [click here](https://web.archive.org/gp/help/customer/display.html/ref=hp_468496_turnofflbs?nodeId=200903520). If you have questions about how to disable your device's location services, we recommend you contact your mobile service carrier or your device manufacturer. 
+
+**Information from Other Sources**
+
+Examples of information we receive from other sources include updated delivery and address information from our carriers or other third parties, which we use to correct our records and deliver your next purchase or communication more easily; account information, purchase or redemption information, and page-view information from some merchants with which we operate co-branded businesses or for which we provide technical, fulfillment, advertising, or other services; search term and search result information from some searches conducted through the Web search features offered by our subsidiary, Alexa Internet; search results and links, including paid listings (such as Sponsored Links); and credit history information from credit bureaus, which we use to help prevent and detect fraud and to offer certain credit or financial services to some customers. 
+
+**Co-branded and Joint Offerings**
+
+Examples of businesses with which we offer joint or co-branded products and other offerings include Starbucks, OfficeMax, American Apparel, Verizon Wireless, Sprint, T-Mobile, AT&T, J&R Electronics, PacSun, Eddie Bauer and Northern Tool + Equipment. ****
+
+**Information You Can Access**
+
+Examples of information you can access easily at Amazon.com include up-to-date information regarding recent orders; personally identifiable information (including name, e-mail, password, communications and personalized advertising preferences, address book, and 1-Click settings); payment settings (including credit card information and promotional certificate and gift card balances); e-mail notification settings (including Product Availability Alerts, Delivers, Special Occasion Reminders, and newsletters); Recommendations (including Recommended for You and Improve Your Recommendations); shopping lists and gift registries (including Wish Lists and Baby and Wedding Registries); Seller accounts; and Your Profile (including your product Reviews, Recommendations, Listmania lists, Reminders, personal profile, and Wish List).  Read our Privacy Notice here. | 
