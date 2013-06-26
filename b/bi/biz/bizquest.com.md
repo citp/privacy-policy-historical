@@ -1,14 +1,16 @@
-> *The following text is extracted and transformed from the bizquest.com privacy policy that was archived on 2012-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121116003816id_/http%3A//www.bizquest.com/support/privacy_policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bizquest.com privacy policy that was archived on 2013-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130626071631id_/http%3A//www.bizquest.com/support/privacy_policy.asp) for the most accurate reproduction.*
 
-# Business for Sale | Buy A Business or Sell A Business | Privacy Policy - BizQuest.com
+# Business for Sale | Buy A Business or Sell A Business | Privacy Statement - BizQuest.com
 
 [Home](http://www.bizquest.com/) > **Privacy Policy**
 
-[ ](https://privacy-policy.truste.com/click-with-confidence/ctv/en/www.bizquest.com/seal_m "Validate TRUSTe privacy certification")Last Updated: July 5, 2011 
+[ ](https://privacy.truste.com/privacy-seal/LoopNet-Inc-/validation?rid=de6d393c-1c94-4a87-bd83-99d58938c744 "TRUSTe online privacy certification")
 
-BizQuest has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with [ TRUSTe’s Program Requirements](http://www.truste.com/privacy_seals_and_services/consumer_privacy/privacy-programs-requirements.html) including transparency, accountability and choice regarding the collection and use of your personal information. The TRUSTe program does not cover information that may be collected through downloadable software. TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. When you visit a web site displaying the TRUSTe trustmark, you can expect to be notified of the following information: 
+Last Updated: Sept 21, 2011 
 
-  * The personally identifiable information collected and which organization is collecting the information 
+BizQuest has been awarded TRUSTe's Privacy Seal signifying that this privacy statement and practices have been reviewed by TRUSTe for compliance with [ TRUSTe�s Program Requirements](http://www.truste.com/privacy_seals_and_services/consumer_privacy/privacy-programs-requirements.html) including transparency, accountability and choice regarding the collection and use of your personal information. The TRUSTe program does not cover information that may be collected through downloadable software. TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. When you visit a web site displaying the TRUSTe trustmark, you can expect to be notified of the following information: 
+
+  * The personal information collected and which organization is collecting the information 
   * How the information is used and with whom the information may be shared 
   * Choices available to you regarding collection, use and distribution of the information 
   * Types of security procedures in place to protect the loss, misuse or alteration of information under the company's control 
@@ -17,13 +19,13 @@ BizQuest has been awarded TRUSTe's Privacy Seal signifying that this privacy pol
 
 
 Questions regarding this statement can be submitted via this [contact form](http://www.bizquest.com/support/contact.asp "Contact Form"). Alternatively, please contact us by mail at BizQuest Administration -- Privacy Statement, 2100 E. Route 66, Suite 200, Glendora, CA 91740, or by telephone at 888-280-3815.   
-If the web site has not responded to your inquiry or your inquiry has not been satisfactorily addressed, please contact [TRUSTe here](http://watchdog.truste.com/pvr.php?page=complaint "Businesses for sale on BizQuest"). For more information on TRUSTe, please go to [ http://www.truste.org](http://www.truste.org/ "TRUSTe"). 
+If the web site has not responded to your inquiry or your inquiry has not been satisfactorily addressed, please contact [TRUSTe here](http://watchdog.truste.com/pvr.php?page=complaint "Businesses for sale on BizQuest"). For more information on TRUSTe, please go to [ http://www.truste.com](http://www.truste.org/ "TRUSTe"). 
 
 ##  **BizQuest's Privacy Statement**
 
-This privacy statement covers the website [ http://www.BizQuest.com/](http://www.bizquest.com/ "Franchises for sale on BizQuest"). By accessing, using or registering with BizQuest's web site, you accept and agree to BizQuest's Privacy Policy. BizQuest provides a variety of online services to assist individuals and brokers with buying and selling businesses and franchises. BizQuest values your privacy, feedback and candor very highly. Any user information we collect is considered private and we do not use it or share it except as permitted herein, without the user's permission. We use this personal information at BizQuest to provide the best quality service possible. The following privacy statement summarizes BizQuest's protection and use of any personal information provided by visitors to the BizQuest site. 
+This privacy statement covers the website [ http://www.BizQuest.com/](http://www.bizquest.com/ "Franchises for sale on BizQuest"). By accessing, using or registering with BizQuest's web site, you accept and agree to BizQuest's Privacy Statement. BizQuest provides a variety of online services to assist individuals and brokers with buying and selling businesses and franchises. BizQuest values your privacy, feedback and candor very highly. Any user information we collect is considered private and we do not use it or share it except as permitted herein, without the user's permission. We use this personal information at BizQuest to provide the best quality service possible. The following privacy statement summarizes BizQuest's protection and use of any personal information provided by visitors to the BizQuest site. 
 
-This policy does not apply to any public area of BizQuest's web site or services. In the event you submit personally identifiable information to contact another member, contact a lister about a listing, create a listing, add a contact on a listing, the BizQuest Blog or Broker Directory, such information becomes publicly available and BizQuest is not responsible for the personally identifiable information you choose to submit to these services, forums, listings, or persons.
+This statement does not apply to any public area of BizQuest's web site or services. In the event you submit personal information to contact another member, contact a lister about a listing, create a listing, add a contact on a listing, the BizQuest Blog or Broker Directory, such information becomes publicly available and BizQuest is not responsible for the personal information you choose to submit to these services, forums, listings, or persons.
 
 **Information Collected by BizQuest:**
 
@@ -37,6 +39,8 @@ Collected information helps BizQuest better understand its users' needs in order
 
 You may NOT use the Email the Broker, Email a Listing service or other email services that we offer to send spam (i.e. unsolicited commercial email) or otherwise send content that would violate BizQuest's Terms and Conditions. We may monitor, track or save the use of this feature, but will be under no obligation to monitor, track or save these email messages sent from these tools. If you send an email using the Email a Listing to a Friend service to an email address that is not registered in our system, we do not use that email address for any purpose other than to send your email, and for us to automatically send your friend a one-time email inviting him or her to visit the site. BizQuest stores this information for the sole purpose of sending this one-time email and for tracking the success of our referral program. We also do not rent or sell these email addresses of un-registered users.
 
+Your friend may contact us at [service@BizQuest.com](mailto:service@BizQuest.com) to request that we remove this information from our database.
+
 **Shared information:**
 
 Though BizQuest makes every effort to preserve user privacy, we may need to disclose personal information when required by law wherein we have good faith belief that such action is necessary to comply with a current judicial proceeding, a court order or legal process served on our Web site. 
@@ -47,7 +51,7 @@ BizQuest shares information with its partners for the purpose of providing relat
 
 BizQuest does not rent or lease user information to any third party, except as disclosed here. From time to time, BizQuest may obtain information (such as electronic mail addresses) from third party providers. It is our goal to only contact individuals who we believe may have a legitimate business interest in BizQuest based on their membership or participation in other organizations or web sites, and who have indicated a willingness to be contacted for this purpose. While BizQuest endeavors to work with other sites and companies with a similar respect for user privacy, BizQuest cannot be responsible for the privacy practices of other sites. 
 
-Please be aware that in the event BizQuest merges with a third party, or in the event all or substantially all of BizQuest's assets are acquired by a third party, customer information, including personally identifiable information, will be shared and/or transferred to such third party. The information may only be used or shared by such third parties for the primary purpose for which the information was originally collected. If such third parties, or if BizQuest for its own business needs, desire to use the personally identifiable information for another purpose, you will be notified prior to the information being used for a new purpose, and you will have the opportunity to opt out of such new use of your personally identifiable information.
+Please be aware that in the event BizQuest merges with a third party, or in the event all or substantially all of BizQuest's assets are acquired by a third party, customer information, including personal information, will be shared and/or transferred to such third party. The information may only be used or shared by such third parties for the primary purpose for which the information was originally collected. If such third parties, or if BizQuest for its own business needs, desire to use the personal information for another purpose, you will be notified via email and/or a prominent notice on our Web site of any change in ownership or uses of your personal information prior to the information being used for a new purpose, and you will have the opportunity to opt out of such new use of your personal information.
 
 **Security of personal information:**
 
@@ -65,9 +69,21 @@ Cookies are used on this site. A cookie is a small text file that is stored on a
 
 We use both session cookies and persistent cookies. We use session cookies to make it easier for you to use our site and to enable certain specialized functionality that requires maintaining information about your session. A session cookie is not stored on your hard disk and expires when you close your browser. A persistent cookie remains on your hard disk for an extended period of time. You can remove persistent cookies by following the directions in your Internet browser's "help" files. 
 
-We do not store in persistent cookies any personally identifiable information you submit while on our site. 
+We do not store in persistent cookies any personal information you submit while on our site. 
 
 Due to the functionality provided by our site, the use of cookies is required. If you reject cookies, our site will not perform properly.
+
+**Web Beacons / Gifs**
+
+Our third party advertising partner employs a software technology called clear gifs (a.k.a. Web Beacons/Web Bugs), that help us better manage content on our site by informing us what content is effective. Clear gifs are tiny graphics with a unique identifier, similar in function to cookies, and are used to track the online movements of Web users. In contrast to cookies, which are stored on a user�s computer hard drive, clear gifs are embedded invisibly on Web pages and are about the size of the period at the end of this sentence. We do not tie the information gathered by clear gifs to our customers� personal information. To learn more about our advertising company�s use of clear gifs, please go to [www.comscore.com](http://www.comscore.com/). 
+
+**Flash LSOs**
+
+We use local shared objects, also known as Flash cookies, to store your preferences such as volume control or high game score, or display content based upon what you view on our site to personalize your visit. Third Parties, with whom we partner to provide certain features on our site or to display advertising based upon your Web browsing activity, use Flash cookies to collect and store information. Flash cookies are different from browser cookies because of the amount of, type of, and how data is stored. Cookie management tools provided by your browser will not remove Flash cookies. To learn how to manage privacy and storage settings for Flash cookies click here: <http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager.html#117118>
+
+**Third Party Tracking**
+
+The use of cookies by our partners is not covered by our privacy statement. We do not have access or control over these cookies. Our partners use session ID cookies to make it easier for you to navigate our site, in order for you to use the shopping cart, etc. 
 
 **Third-Party Advertising Companies**
 
@@ -75,7 +91,7 @@ We use third-party advertising companies to serve ads when you visit our Web sit
 
 **Testimonials:**
 
-We post customer testimonials on our web site which may contain personally identifiable information such as the customer's name. We do obtain the customer's consent to post their name along with their testimonial prior to any posting of such testimonial. To request removal of your personal information from these testimonials, contact us at service@BizQuest.com. In some cases, we may not be able to remove your personal information, in which case we will let you know if we are unable to do so and why?
+We post customer testimonials on our web site which may contain personal information such as the customer's name. We do obtain the customer's consent to post their name along with their testimonial prior to any posting of such testimonial. To request removal of your personal information from these testimonials, contact us at service@BizQuest.com. In some cases, we may not be able to remove your personal information, in which case we will let you know if we are unable to do so and why?
 
 **Opting-out, editing, updating or deleting personal information:**
 
@@ -83,7 +99,7 @@ BizQuest utilizes email as a vital and primary communication channel with regist
 
 Users who do not wish to receive marketing emails including the BizQuest Newsletters, BizQuest Promotional Emails, or Sponsor Emails are requested to contact [BizQuest Client Services](http://www.bizquest.com/support/contact.asp "BizQuest Client Services"), or select the opt-out option that is available on all email correspondence. Additionally, users may also opt out of Saved Search Email Alerts by returning to the Saved Search section and clicking on the "Remove this Search" button. We also send our users site and service announcement updates. Members are not able to un-subscribe from service announcements, which contain important information about service notices and responsibilities. BizQuest occasionally communicates with its users via email and phone to provide information about requested services and regarding issues related to their account. It is important to note that this communication is not used for marketing or promotional purposes. Requesting the deletion of certain types of user information may prevent users from accessing some web site features. 
 
-You may correct or update your personally identifiable information by going to the area of the site where you submitted the information, and following the instructions to view, change or delete the information. 
+You may correct or update your personal information by going to the area of the site where you submitted the information, and following the instructions to view, change or delete the information. 
 
 Credit card information submitted to BizQuest is typically used for a one-time charge to your account, and subsequent orders for renewals require users to resubmit the credit information. (An exception: Broker Membership accounts and Franchise Directory advertising are automatically renewed each month, using the original credit information submitted.) Therefore, for added security, any credit card information submitted to BizQuest is not accessible for review or modification by signing on to your ad. If you have questions regarding the credit card information used in ordering your products or services, please [contact us](http://www.bizquest.com/support/contact.asp "Contact Us") or at 888-280-3815.
 
@@ -95,6 +111,6 @@ BizQuest may provide notifications, whether such notifications are required by l
 
 **Changes to this Privacy Statement:**
 
-If BizQuest decides to change its privacy policy, we will post those changes to this privacy statement, the homepage, and other places we deem appropriate so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it. 
+If BizQuest decides to change its privacy statement, we will post those changes to this privacy statement, the homepage, and other places we deem appropriate so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it. 
 
 BizQuest reserves the right to modify this privacy statement at any time, so please review it frequently. If BizQuest makes material changes to this policy, we will notify you here, by email, or by means of a notice on our home page.
