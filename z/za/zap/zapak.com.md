@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the zapak.com privacy policy that was archived on 2012-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121226062224id_/http%3A//www.zapak.com/ppolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zapak.com privacy policy that was archived on 2013-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130626233026id_/http%3A//www.zapak.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Zapak.com - Free online Games, Downloadable Games and more
+# Privacy Policy | Free Online games | Free Cricket Games | Racing Games | Download Free Games | Best Online Games - Zapak.com
 
 Zapak Digital Entertainment Limited (Zapak) is the Portal Business venture of Reliance Group, located at [**www.zapak.com**](http://www.zapak.com/) and powers / manages various Online Games which are linked to various internet sites and community boards and services hereinafter collectively referred to as Zapak.
 
@@ -36,7 +36,7 @@ Several deceptive emails, websites, blogs etc. claiming to be from or associated
 
 Your information: Your information is the information that's required when you sign up Apps from Zapak on Facebook, as well as the information you choose to share. 
 
-Registration information: When you sign up for Apps from Zapak on Facebook (“Apps”), you are required to provide your name, email address, birthday, and gender. 
+Registration information: When you sign up for Apps from Zapak on Facebook ("Apps"), you are required to provide your name, email address, birthday, and gender. 
 
 Information you choose to share: Your information also includes the information you choose to share on Facebook, such as when you post a status update, upload a photo, or comment on a friend's post. You add a friend, like a Page or a website, tag a place in your post, find friends using our contact importers, or indicate you are in a relationship. Your name, profile picture, networks, username and User ID are treated just like information you choose to make public. Your birthday allows us to do things like show you age-appropriate content and advertisements. 
 
@@ -48,15 +48,36 @@ Other information we receive about you: We also receive other types of informati
 3\. Zapak also puts together data from the information received on Apps we already have about you and your friends.   
 4\. Zapak provides your data received through Apps to third parties or use it commercially as may be required or for upgrading the Apps etc. 
 
+**Information**
+
+a. With your consent - we will share personal information with third parties when we have consented to do so. 
+
+b. For Internal Administration   
+For administration of your account we may be able to:
+
+√ View statistics regarding your account, like statistics regarding applications you install.  
+√ Change your account password.  
+√ Suspend or terminate your account access.  
+√ Access or retain information stored as part of your account.  
+√ Receive your account information in order to satisfy applicable law, regulation, legal process or enforceable governmental request.  
+√ Restrict your ability to delete or edit information or privacy settings.
+
+c. For External Processing & Administration   
+We will share personal information with organizations or individuals if we have a good-faith belief that access, use, preservation or disclosure of the information is reasonably necessary to: 
+
+√ Meet any applicable law, regulation, legal process or enforceable governmental request.  
+√ Enforce applicable Terms of Service, including investigation of potential violations.  
+√ Detect, prevent, or otherwise address fraud, security or technical issues.
+
 Dispute Resolution: All disputes shall be subject to Courts in Mumbai, India only in exclusion to all other courts. 
 
-Any questions or clarifications with respect to this Policy can be sent to Zapak at: legal@zapak.co.in or by normal/physical mail addressed to:
+Any questions or clarifications with respect to this Policy can be sent to Zapak at: zapak.legal@relianceada.com or by normal/physical mail addressed to:
 
-**Mr. Zameer Nathani  
+**Deputy Manager  
 Corporate Law Department  
 Zapak Digital Entertainment Limited  
 Level 4, 401, Infiniti Mall,  
 Andheri West,  
 Mumbai 400 053, India,  
-Email: legal@zapak.co.in**  
+Email: zapak.legal@relianceada.com**  
 
