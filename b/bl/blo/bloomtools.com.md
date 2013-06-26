@@ -1,10 +1,6 @@
-> *The following text is extracted and transformed from the bloomtools.com privacy policy that was archived on 2012-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121225034916id_/http%3A//www.bloomtools.com/index.php%3Fid%3D1000609) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bloomtools.com privacy policy that was archived on 2013-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130626072008id_/http%3A//www.bloomtools.com/index.php%3Fid%3D1000609) for the most accurate reproduction.*
 
 # Privacy :: Bloomtools
-
-[](http://www.bloomtools.com/guarantee)
-
-| 
 
 ### How is client information used? 
 
@@ -47,5 +43,3 @@ QLD, 4230
 Varsity Lakes  
 QLD, 4226  
 
-
-| 
