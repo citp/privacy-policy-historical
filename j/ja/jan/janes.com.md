@@ -1,72 +1,94 @@
-> *The following text is extracted and transformed from the janes.com privacy policy that was archived on 2011-01-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110126101934id_/http%3A//www.janes.com/about/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the janes.com privacy policy that was archived on 2013-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130626051532id_/http%3A//www.janes.com/info/privacy) for the most accurate reproduction.*
 
-# IHS Jane's Privacy Policy
+# Privacy Policy - IHS Jane's 360
 
-[Home](https://web.archive.org/) > Privacy Policy 
+### Introduction
 
-IHS Jane's, IHS (Global) Limited (hereafter referred to as IHS Jane's), is committed to protecting the privacy of its customers and all users of our internet services. The following Privacy Policy outlines how IHS Jane's treats personal information received about you when you visit our web sites. 
+IHS GlobalSpec Inc., having its principal offices at 30 Tech Valley Drive, Suite 102, East Greenbush, NY 12061, (hereafter referred to as "IHS"), is committed to protecting our users' privacy. This privacy policy (together with our [terms of use](https://web.archive.org/info/terms) and any other documents referred to ("Our Website"), is designed to inform users what personal data we collect from you, or you provide to us and how this will be used by us. 
 
-If you have any requests concerning your personal information or any queries with regard to these practices, please contact us by email at [Info.uk@janes.com](mailto:Info.uk@janes.com?subject=Privacy%20Policy) with the subject heading "Privacy Policy" or visit our [feedback form](http://www.janes.com/contact/feedback.html). 
+Our Website, allows you to enter and view content on our Website without the requirements to register any personal information and in such instances the application of this policy shall be limited to the use of Cookies. However, in the event you decide to register by entering your personal information in order to receive additional content (which cannot be accessed without registration) through our Website, please read the following carefully to understand our views and practices regarding your personal data and how we treat it. 
 
-Partners of IHS Jane's and other websites you may access via IHS Jane's have different privacy policies and are not subject to this Privacy Policy. We recommend that you read the privacy statement of each such website to find out how they treat and protect your personal information. 
+### This Privacy Policy Does Not Apply to Third Party
 
-**Collection and Use of User Details**
+Our Website may, from time to time contain links to and from Our Website relating to our Content Providers, partner networks, advertisers and affiliates. If you follow a link to any of these websites, please note that these websites will have their own privacy policies and that we do not take responsibility or liability for these website policies. Please check with these policies prior to submission of any personal data. 
 
-**Voluntary Information**
+### What Information Do We Collect?
 
-When you register, and at other times, IHS Jane's collects personally identifiable information that you provide voluntarily which includes such details as your name, address, job title and function, organization, e-mail address and other information that you may provide.
+By using IHS products, you consent to allow IHS to collect and process the following data about you: 
 
-IHS Jane's uses personal information in the following ways:  
-· To enable us to process, validate and verify subscriptions or any other service   
-· To notify you of new products, promotions and services from IHS Jane's   
-· To allow us to deliver content and advertising based on your characteristics and/or personal preferences
+  * **Profile Information:** A user may be asked to register on Our Website in order to receive access to additional content, website features and programs or to request further services. Our primary goal in collecting profile information (which may include your name and the following business - and not home or personal - information: title, address, phone number, fax number and email address) is to provide you with the most relevant content and services, and to offer you opportunities to obtain other products and services from us and our partners, advertisers and participating suppliers.
+  * Registration information you enter to use certain services (i.e., webcasts and white papers, or through surveys, online events and/or subscription to e-Newsletters or Product alerts.
 
-The registration form provides you with the opportunity of receiving information on new IHS Jane's products and services. If you want to be kept informed, then you should select "Yes" in the opt-in box at the bottom of the registration form. 
 
-IHS Jane's may also on occasion provide your information to third parties, who provide products and services that may be of interest to you. If you do not wish to receive these messages please contact us by email at [Info.uk@janes.com](mailto:Info.uk@janes.com?subject=Third%20Party) with the subject heading "Third Party" or visit our Feedback form.
 
-Our employees, agents and contractors who have access to your personally identifiable information are required to protect the information in a manner that is consistent with this Privacy Policy.
+### Other Information we collect
 
-**Statistical Information**
+  * Details of your visits to our site including, but not limited to, traffic data, location data, weblogs and other communication data, and the resources that you access.
+  * Where required a system test to determine whether you can view a webcast or events from your computer. This information is used to optimize the viewing experience and to troubleshoot event webcast viewing problems. We do not collect or retain personally identifiable information in conducting these tests.
+  * We may collect statistical data about your computer, including where available your IP address, operating system and browser type, for system administration and to report aggregate information to our advertisers.
 
-IHS Jane's collects IP address and web site usage data information in aggregate form so that no individual user is identified. 
 
-IHS Jane's uses information in aggregate form in the following ways:  
-· To enhance and develop content and services  
-· To aid future strategic development   
-· To plan for the maintenance and development of system software, hardware and communications technology.  
-· To provide advertisers with data on the number of users and usage patterns
 
-[Click here](http://www.nielsen-netratings.com/privacy/sitecensus.htm) to learn more information about how we use a third party service to collect and use information on this Web Site.
+### Cookies
 
-**Cookies**
+When you view Our Website, a small file called a cookie is placed on your hard drive. You can set your browser to notify you when you receive a cookie, giving you the chance to decide whether or not to accept it. (However, by not accepting cookies, some of our web pages may not display properly or you may not be permitted to access certain information.) If you register with Our Website, we will use cookies to authenticate your identity when you visit the site. In all cases, Our Website uses cookies to obtain information such as the number of visits to the site that a certain user has made, the movement of the user through the site, and the searches that the user conducts on Our Website. 
 
-**1\. Session Cookie.**  
-When you log in or register on a IHS Jane's web site, IHS Jane's web servers send a string of text called a "cookie" to your browser, which stores it in its memory. The text identifies IHS Jane's and includes a string of numbers that represent your rights to access restricted material on Jane's web sites. As your browser connects to IHS Jane's sites, it automatically sends the cookie information back to IHS Jane's servers so that your access rights can be determined very quickly. In addition to this, some of our services need to recall selections you have made during your session so that they display the correct information to you. In both cases, when you close your browser, this cookie information disappears. It is never written to a file on your machine.
+You can find out more about "cookies" on our [cookies reference page](http://www.globalspec.com/help/Cookies). 
 
-**2\. Persistent Cookie.**  
-We currently use persistent cookie on Janes.com for two purposes. The first is for pages that contain advertising, the Ad Server sends a string of text called a "cookie" to your browser, if you don't already have one. The text identifies the Ad Server and includes a unique string of characters that allow the Ad Server to recognize your browser as you visit sites that use the Ad Server's advertising software. When the Ad Server receives the cookie from your browser, it can recognize you and determine what advertisement to display. For example, the Ad Server may use your cookie to select an ad you haven't seen before, or to display an ad the advertiser only wants you to see once per week.
+### How Do We Use The Information We Collect?
 
-The second area is on Police Review where we use persistent cookies to prevent the re-appearance of the poll and the main entry pages, this is done to improve the user experience. If you do not accept cookies then these will always re-appear.
+We use information held about you in the following ways: 
 
-**Security**  
-IHS Jane’s takes physical, electronic and managerial steps to maintain the security and accuracy of personally identifiable information we collect, including limiting the number of people who have physical access to our database servers, as well as electronic security systems and password protections that guard against unauthorized access. However, Jane’s makes no representation, warranty or guarantee that such information will remain secure and accurate at all times. In addition, no data transmission over the Internet can be guaranteed to be completely secure. Accordingly, we cannot ensure or warrant the security of any information you transmit to IHS Jane’s, and you do so at your own risk. 
+  * To enable IHS to tailor our content to user interests in an effective manner and to help our advertisers better understand the audience they are reaching.
+  * To provide you with information, products and services that you request from IHS or which we feel may be of interest to you based on your selections to receive certain services.
+  * To carry out our obligations in relation to any services you have registered to attend, via Our Website and to allow both IHS and its third parties to contact you relating to the provision of these services.
+  * We use third party email addresses provided for the "email a friend" feature only for the purpose of sending e-Newsletters, Product Alerts or event invitations to a subscriber-specified third party, and for no other purpose.
+  * To allow you to participate in interactive features of our service, when you choose to do so.
+  * To notify you about any changes in our service.
+  * IHS may use your data to provide you with information on products and services which may be of interest to you based on your registration of certain IHS products and services on our Website.
 
-Occasions will arise when customer information is passed outside IHS Jane's to other data processors such as magazine subscription fulfilment bureaux but they will only act upon instruction from IHS Jane's in order to perform the services required. IHS Jane’s provides your information to such third parties solely to enable such parties to perform the services required. 
 
-**Credit checks**  
-If you are a user contracting for a fee-paying service, IHS Jane's may in some instances carry out credit checks on you with credit reference agencies or we may request references. The fact that IHS Jane's has carried out such a credit check, and in some instances the nature or results of the credit check, will appear on the agency's register. In many countries you can obtain a copy of your register entry by writing to the relevant credit reference agency, sometimes on payment of a fee.
 
-**Transfer of Personal Data Overseas**  
-Given that the Internet is a global environment, using the Internet to collect and process personal data necessarily involves the transmission of data on an international basis. Therefore, by using IHS Jane's and communicating electronically with us you acknowledge and agree to our processing of personal data in this way.
+In certain circumstances, permit selected third parties to use your data to provide you with information on products and services which may be of interest to you, based on your registration of certain IHS products and services on our Website. 
 
-**Children’s Privacy**  
-Protecting children's privacy is important to us. For that reason, we do not collect or maintain information from individuals we actually know are under 13, and no IHS Jane’s web site is targeted to attract anyone under 13. We request that all visitors under 13 to a IHS Jane’s webssite not disclose or provide any personally identifiable information. If we discover that a child under 13 has provided us with personally identifiable information, we will delete the child's personally identifiable information from our records.
+  * We provide aggregate information about our users in summary reports to our advertisers. The type of information included in a summary report is "3,000 people looked for part number 123 this week, and of those people 60% clicked through to a certain webpage." This aggregated information is anonymous and does not disclose to the content providers, advertisers, prospective advertisers, and partners any profile information about the individual users who saw or clicked on their reports. Employees of IHS use this aggregated information to understand usage behaviors in their efforts to create a better user experience or to optimize page designs.
+  * If you do not want use to use your data in this way, or to pass your details to third parties for marketing purposes, please modify your user information by visiting Our Website and clicking on the Manage My Account link located in the upper-right of each page of the site.
+  * You may have your personal information removed from the system by contacting our user experience team at [webmaster@globalspec.com](mailto:webmaster@globalspec.com?subject=Remove%20personal%20information).
 
-**Legal Requirements**  
-We may provide access to your personally identifiable information when legally required to do so, to cooperate with police investigations or other legal proceedings, to protect against misuse or unauthorized use of a IHS Jane’s web site, to limit our legal liability and protect our rights or to protect the rights, property or safety of visitors of a IHS Jane’s web site or the public. In those instances, the information is provided only for that purpose.
 
-In the event IHS Jane’s goes through a business transition, such as a merger, being acquired by another company, or selling a portion of its assets, users’ personal information will, in most instances, be part of the assets transferred.
 
-**Changes to this statement**  
-Due to changes in legislation and best practice or enhancements to functionality and content on IHS Jane's we may make changes to our privacy policy and will reflect those changes in this statement, so you should check here from time to time.
+### How Can You Opt Out of Use and Disclosure of Your Information?
+
+Our Website will only use your profile information for the purposes described in this Privacy Policy or subsequently authorized by you. If you do not want your information disclosed in this way, you must not register when prompted. 
+
+During the registration process, we may also allow users the option to opt-in and/or opt-out of receiving communication (via email, post or telephone) from any member of our group, which will include but not limited to our subsidiaries, our ultimate holding company and its wholly owned subsidiaries. Users who opt-in may also remove themselves from emailing lists at any time through the edit profile pages or by following the instructions at the end of any email received from the IHS or a group company within IHS. 
+
+Note: If you choose not to provide certain profile information when registering for a site, certain products or services may not be available to you. 
+
+#### Access and Updating of Information
+
+The instructions to review, amend, or delete your information may be found in the edit profile area on any of Our Websites. Users may change information at any time and as often as necessary. Users who are experiencing problems with our services or who have questions about how our services work can contact us by sending an email to: [webmaster@globalspec.com](mailto:webmaster@globalspec.com?subject=Question%20about%20profile). 
+
+### General 
+
+**Registration Password:** Should you elect to subscribe and register to services, you will be asked to select a unique user name and password to access Our Website. 
+
+We recommend that you do not divulge your password to anyone. IHS never asks for passwords in unsolicited phone calls or unsolicited emails. 
+
+**Business Transfers:** If all or part of IHS Global Spec Inc., is sold, merged or otherwise transferred to another entity, the profile information and activity data that you have provided to us may be transferred as part of that transaction. 
+
+**Amendments:** IHS may modify or amend this policy from time to time. 
+
+### Enforcement
+
+If you believe that IHS has not complied with this Privacy Policy, or if you have any other complaint with regard to collection, use or disclosure of personal information by IHS, you may send a written notice of complaint to: 
+
+IHS GlobalSpec, Inc.  
+30 Tech Valley Drive  
+Suite 102  
+East Greenbush, NY 12061  
+Attention: User Services 
+
+Email: [privacy@ihs.com](mailto:privacy@ihs.com?subject=Privacy%20Policy%20Complaint)
+
+We will investigate your complaint and respond to you promptly. 
