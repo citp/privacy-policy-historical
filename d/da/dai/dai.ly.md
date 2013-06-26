@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the dai.ly privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231141449id_/http%3A//www.dailymotion.com/us/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dai.ly privacy policy that was archived on 2013-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130627014021id_/http%3A//www.dailymotion.com/legal/privacy) for the most accurate reproduction.*
 
-# Dailymotion - Online Videos, Music, and Movies. Watch a Video Today!
+# Dailymotion - Legal terms
 
-This document sets out Dailymotion’s commitment to your privacy and to the protection of personal data (the "Data") collected and processed in connection with your use of the Website, under the terms and conditions set out in the [General Terms of Use](https://web.archive.org/us/legal/terms).
+This document sets out Dailymotion’s commitment to your privacy and to the protection of personal data (the "Data") collected and processed in connection with your use of the Website, under the terms and conditions set out in the [General Terms of Use](https://web.archive.org/legal).
 
 We collect and subsequently process the Data that you voluntarily provide on the [registration form](https://web.archive.org/register) on the Website including your user ID, a valid email address, and your date of birth. The only Data automatically collected by the Website is your IP address (the address of your computer). Please note that whether or not you are a registered user, the Website may implement an automatic tracking process (cookie), which you may block by changing your browser settings.
 
@@ -22,4 +22,4 @@ If you are the parent or legal guardian of a child under 13, and that child has 
 
 This site allows third-party companies to serve ads and/or collect certain anonymous information when you and other Internet users visit. These companies may use non-personally identifiable information (e.g., click stream information, browser type, time and date, subject of advertisements clicked or scrolled over) during your visits to this site and other Web sites in order to provide advertisements about goods and services likely to be of greater interest to you. These companies typically use a cookie or third-party web beacon to collect this information. To learn more about this behavioral advertising practice or to opt-out of this type of advertising, you can visit <http://www.networkadvertising.org/managing/opt_out.asp>.
 
-You are entitled to access and correct your Data by requesting to do so via the Contact us section, or by sending a letter to the following address: 49/51 rue Ganneron, 75018 Paris.
+You are entitled to access and correct your Data by requesting to do so via the Contact us section, or by sending a letter to the following address: 140 boulevard Malesherbes - 75017 Paris.
