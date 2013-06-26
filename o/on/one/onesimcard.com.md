@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the onesimcard.com privacy policy that was archived on 2012-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121224174903id_/http%3A//www.onesimcard.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the onesimcard.com privacy policy that was archived on 2013-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130626071717id_/http%3A//www.onesimcard.com/privacy-policy) for the most accurate reproduction.*
 
 # OneSimCard - Privacy Policy
 
@@ -51,5 +51,5 @@ Contact [OneSimCard Support](https://web.archive.org/contact.php)
 Phone: 1-617-313-8888 or 1-800-640-2113  
 Fax:1-617-812-0370  
 Mail: PO Box 481, Belmont, MA 02478-0004, USA  
-© 2006-2012 Belmont Telecom Inc., DBA OneSimCard.com  
+© 2006-2013 Belmont Telecom Inc., DBA OneSimCard.com  
 All rights reserved
