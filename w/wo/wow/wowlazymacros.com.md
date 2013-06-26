@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the wowlazymacros.com privacy policy that was archived on 2012-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121221205707id_/http%3A//wowlazymacros.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wowlazymacros.com privacy policy that was archived on 2013-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130626102018id_/http%3A//wowlazymacros.com/privacy) for the most accurate reproduction.*
 
-# Privacy | WoW Lazy Macros
+# Privacy — WoW Lazy Macros
 
 **What information do we collect?**
 
