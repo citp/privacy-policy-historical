@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the currencyfair.com privacy policy that was archived on 2012-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121110172243id_/http%3A//www.currencyfair.com/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the currencyfair.com privacy policy that was archived on 2013-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130626232135id_/http%3A//currencyfair.com/privacy-statement) for the most accurate reproduction.*
 
 # Privacy Statement | CurrencyFair
 
@@ -21,19 +21,19 @@ Any changes to this Privacy Policy will be posted on the website. Your continued
 
 ## CurrencyFair Benefits
 
-10 Sep 2012
+18 Nov 2012
 
-Exchanges and transfers in CZK and NOK now...
+CurrencyFair named Best of Show at FinovateAsia!
 
-17 May 2012
+03 Apr 2013
 
-The Economist names CurrencyFair as a cheaper way...
+CurrencyFair rated #1 for transfers by Choice...
 
-[](https://web.archive.org/125-million-euros-in-foreign-exchange-transfers)
+[](https://web.archive.org/node/1163)
 
-Well, that time has come around again, and we’re currently celebrating our second birthday here at CurrencyFair! It seems an appropriate time to have a quick word about how we’ve done so far. Since launching in May 2010 we have seen the equivalent of over €... 
+Studying abroad can be a life-changing experience. It can also be a wallet-emptying one, piling more debt on top of the average student loan. But there are ways to avoid overspending day-to-day, without living on the fabled student diet of ramen and tins... 
 
   * [CurrencyFair Blog](https://web.archive.org/currency-transfer-blog)
-  * 07 May 2012
+  * 14 Jun 2013
 
 
