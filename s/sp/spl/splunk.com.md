@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the splunk.com privacy policy that was archived on 2012-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121226065348id_/http%3A//www.splunk.com/view/SP-CAAAAAG) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the splunk.com privacy policy that was archived on 2013-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130627015516id_/http%3A//www.splunk.com/view/SP-CAAAAAG) for the most accurate reproduction.*
 
 # Splunk Privacy Policy | Splunk
 
@@ -33,8 +33,6 @@ When choosing to use apps, add-ons or other third party extensions, you are ente
 **Community Information.** Community information contributed by members of the Splunk Community, including sample data, event types, tags, comments and other information related to the Splunk Knowledge Base, may be reused by other members of the Splunk Community under terms and conditions of the [Splunk Creative Commons License](http://creativecommons.org/licenses/by-nc-nd/2.5/). Splunk includes software in the product that facilitates your sharing of knowledge outside the product under this license should you choose to do so.
 
 **Links to Other Parties.** Splunk's websites has links to the sites of other companies. Splunk is not responsible for their privacy practices. Splunk encourages you learn about the privacy practices of those companies.
-
-**Safe Harbor.** Splunk abides by the safe harbor framework set forth by the IS Department of Commerce regarding the collection, use and retention of personal information collected from the European Union.
 
 **Notification of Changes.** If we change our Privacy Policy, we will post an updated privacy policy at <http://www.splunk.com/r/privacy>. If we decide to use personally identifiable information in a manner different from that stated at the time it was collected, we will update the Privacy Policy. Users will be able to opt out of any new use of their personal information.
 
