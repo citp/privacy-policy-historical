@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cipl.net.in privacy policy that was archived on 2012-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121114105624id_/http%3A//www.cipl.net.in/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cipl.net.in privacy policy that was archived on 2013-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130627015502id_/http%3A//www.cipl.net.in/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -8,30 +8,35 @@ A privacy policy is a legal document that discloses some or all of the ways a pa
 
 **Website privacy**
 
-This privacy policy sets out how [business name] uses and protects any information that you give **Corporate Infocom** when you use this website.
+This privacy policy sets out how Corporate Infocom uses and protects any information that you give Corporate Infocom when you use this website.
 
-**Corporate Infocom** is committed to ensuring that your privacy is protected. Should we ask you to provide certain information by which you can be identified when using this website, then you can be assured that it will only be used in accordance with this privacy statement.
+Corporate Infocom is committed to ensuring that your privacy is protected. Should we ask you to provide certain information by which you can be identified when using this website, then you can be assured that it will only be used in accordance with this privacy statement.
 
-**Corporate Infocom** may change this policy from time to time by updating this page. You should check this page from time to time to ensure that you are happy with any changes. 
+Corporate Infocom may change this policy from time to time by updating this page. You should check this page from time to time to ensure that you are happy with any changes.
 
-  * What we collect
-  * We may collect the following information:
-  * Name and job title
-  * Contact information including email address
-  * Demographic information such as postcode, preferences and interests
-  * Other information relevant to customer surveys and/or offers
-  * What we do with the information we gather
+•What we collect
 
+•We may collect the following information:
 
+•Name and job title
+
+•Contact information including email address
+
+•Demographic information such as postcode, preferences and interests
+
+•Other information relevant to customer surveys and/or offers
+
+•What we do with the information we gather
 
 We require this information to understand your needs and provide you with a better service, and in particular for the following reasons:
 
-  * Internal record keeping
-  * We may use the information to improve our products and services
-  * We may periodically send promotional emails about new products, special offers or other information which we think you may find interesting using the email address which you have provided
-  * From time to time, we may also use your information to contact you for market research purposes. We may contact you by email, phone, fax or mail. We may use the information to customize the website according to your interests
+•Internal record keeping
 
+•We may use the information to improve our products and services
 
+•We may periodically send promotional emails about new products, special offers or other information which we think you may find interesting using the email address which you have provided
+
+•From time to time, we may also use your information to contact you for market research purposes. We may contact you by email, phone, fax or mail. We may use the information to customize the website according to your interests
 
 **Security**
 
@@ -55,22 +60,26 @@ Our website may contain links to other websites of interest. However, once you h
 
 You may choose to restrict the collection or use of your personal information in the following ways:
 
-  * Whenever you are asked to fill in a form on the website, look for the box that you can click to indicate that you do not want the information to be used by anybody for direct marketing purposes
-  * If you have previously agreed to us using your personal information for direct marketing purposes, you may change your mind at any time by writing to or emailing us at [ ](mailto:%20%3Cscript%20type='text/javascript'%3E%20%3C!--%20var%20prefix%20=%20'ma'%20+%20'il'%20+%20'to';%20var%20path%20=%20'hr'%20+%20'ef'%20+%20'=';%20var%20addy13375%20=%20'info'%20+%20'@';%20addy13375%20=%20addy13375%20+%20'corporatesociety'%20+%20'.'%20+%20'org';%20document.write\('%3Ca%20'%20+%20path%20+%20'\\''%20+%20prefix%20+%20':'%20+%20addy13375%20+%20'\\'%3E'\);%20document.write\(addy13375\);%20document.write\('%3C\\/a%3E'\);%20//--%3E\\n%20%3C/script%3E%3Cscript%20type='text/javascript'%3E%20%3C!--%20document.write\('%3Cspan%20style=\\'display:%20none;\\'%3E'\);%20//--%3E%20%3C/script%3EThis%20email%20address%20is%20being%20protected%20from%20spambots.%20You%20need%20JavaScript%20enabled%20to%20view%20it.%20%3Cscript%20type='text/javascript'%3E%20%3C!--%20document.write\('%3C/'\);%20document.write\('span%3E'\);%20//--%3E%20%3C/script%3E)[info@corporatesociety.org](mailto:info@corporatesociety.org)
-  * We will not sell, distribute or lease your personal information to third parties unless we have your permission or are required by law to do so. We may use your personal information to send you promotional information about third parties which we think you may find interesting if you tell us that you wish this to happen.
-  * You may request details of personal information which we hold about you under the Data Protection Act 1998. A small fee will be payable. If you would like a copy of the information held on you please write to 35, 2nd Floor, Patparganj Industrial Area, Delhi-110092, India. ****
-  * If you believe that any information we are holding on you is incorrect or incomplete, please write to or email us as soon as possible, at the above address. We will promptly correct any information found to be incorrect.
+•Whenever you are asked to fill in a form on the website, look for the box that you can click to indicate that you do not want the information to be used by anybody for direct marketing purposes
 
+•If you have previously agreed to us using your personal information for direct marketing purposes, you may change your mind at any time by writing to or emailing us at [info@cipl.net.in](mailto:info@cipl.net.in)
 
+•We will not sell, distribute or lease your personal information to third parties unless we have your permission or are required by law to do so. We may use your personal information to send you promotional information about third parties which we think you may find interesting if you tell us that you wish this to happen.
+
+•You may request details of personal information which we hold about you under the Data Protection Act 1998. A small fee will be payable. If you would like a copy of the information held on you please write to 35, 2nd Floor, Patparganj Industrial Area, Delhi-110092, India.
+
+•If you believe that any information we are holding on you is incorrect or incomplete, please write to or email us as soon as possible, at the above address. We will promptly correct any information found to be incorrect.
 
 **Contacting Us**
 
 If there are any questions regarding this privacy policy you may contact us using the information below:
 
-Company Name: Corporate Infocom Pvt. Ltd.
+Corporate Infocom Pvt. Ltd.
 
-Address: 35, 2nd Floor, Patparganj Industrial Area, Delhi-110092, India.
+35, 2nd Floor, Patparganj Industrial Area, Delhi-110092 , India.
 
-Telephone No.: +91 - 011 - 43042384
+Phone : +91 - 011 - 43042384
 
-E-Mail ID: [ ](mailto:%20%3Cscript%20type='text/javascript'%3E%20%3C!--%20var%20prefix%20=%20'ma'%20+%20'il'%20+%20'to';%20var%20path%20=%20'hr'%20+%20'ef'%20+%20'=';%20var%20addy811%20=%20'info'%20+%20'@';%20addy811%20=%20addy811%20+%20'corporatesociety'%20+%20'.'%20+%20'org';%20document.write\('%3Ca%20'%20+%20path%20+%20'\\''%20+%20prefix%20+%20':'%20+%20addy811%20+%20'\\'%3E'\);%20document.write\(addy811\);%20document.write\('%3C\\/a%3E'\);%20//--%3E\\n%20%3C/script%3E%3Cscript%20type='text/javascript'%3E%20%3C!--%20document.write\('%3Cspan%20style=\\'display:%20none;\\'%3E'\);%20//--%3E%20%3C/script%3EThis%20email%20address%20is%20being%20protected%20from%20spambots.%20You%20need%20JavaScript%20enabled%20to%20view%20it.%20%3Cscript%20type='text/javascript'%3E%20%3C!--%20document.write\('%3C/'\);%20document.write\('span%3E'\);%20//--%3E%20%3C/script%3E)[info@corporatesociety.org](mailto:info@corporatesociety.org)
+Website: www.cipl.net.in
+
+E-mail : [info@cipl.net.in](mailto:info@cipl.net.in)
