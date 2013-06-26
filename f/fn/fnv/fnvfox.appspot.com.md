@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fnvfox.appspot.com privacy policy that was archived on 2012-10-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121004095931id_/http%3A//fnvfox.appspot.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fnvfox.appspot.com privacy policy that was archived on 2013-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130626181924id_/http%3A//fnvfox.appspot.com/privacy_policy.html) for the most accurate reproduction.*
 
 # FlashAndVideo Add-On
 
