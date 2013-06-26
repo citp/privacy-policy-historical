@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the urbanthreads.com privacy policy that was archived on 2012-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121225151140id_/http%3A//www.urbanthreads.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the urbanthreads.com privacy policy that was archived on 2013-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130626030216id_/http%3A//www.urbanthreads.com/privacy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy | Urban Threads: Unique and Awesome Embroidery Designs
 
@@ -16,7 +16,7 @@ If you do not receive a satisfactory response to your inquiry or your inquiry ha
 
 **Registration**
 
-**Urban Threads** requires that shoppers register with an email address and original password. The email address is required so that we can contact you about designs that you have purchased. A password is necessary for shoppers to access the products that they've purchased, and to use the unique and personal parts of the site, such as the basket, list of faves, and past purchases. 
+**Urban Threads** requires that shoppers register with an email address and original password. The email address is required so that we can contact you about designs that you have purchased. A password is necessary for shoppers to access the products that they've purchased, and to use the unique and personal parts of the site, such as profile page, list of faves, and past purchases. 
 
 Shoppers at **Urban Threads** are assured that their email address, name, and password are kept private and secure and are not shared, sold, exchanged, or traded with any third party. 
 
@@ -28,9 +28,9 @@ After registration, shoppers will receive a confirmation email with their email 
 
 **Urban Threads** uses cookies to keep track of how shoppers use the Web site. This information is used for Web site improvements. The cookies are removed from your computer when you sign out of **Urban Threads**. 
 
-If your Web browser is set to not accept cookies, you may still browse through the Web site, use all areas of the site, and purchase products. 
+If your Web browser is set to not accept cookies, you may still browse through the Web site, use most areas of the site with the exceptions of purchasing products, accessing profile information or order history data. 
 
-**Urban Threads** uses persistent cookies for shoppers' convenience. These persistent cookies are tied to personally identifiable information. If a shopper's Web browser allows persistent cookies, the shopper will be automatically signed into the site at every visit. 
+**Urban Threads** uses persistent cookies for shoppers' convenience. These persistent cookies are tied to personal information. If a shopper's Web browser allows persistent cookies, the shopper will be automatically signed into the site at every visit. 
 
 **Third-Party Cookies**
 
@@ -41,6 +41,19 @@ A session cookie from [GoDaddy.com](http://wwwl.godaddy.com/) (the issuer of **U
 **Urban Threads** has the ability to track and record IP addresses. This information is not shared or given to any third party. It's used to help diagnose problems with our servers and to administer the Web site. We run reports that show how many visitors come to our site each day, which parts of the world visitors are coming from, and which Web browsers are most popular with our visitors. 
 
 No personal information (name or email address) links any visitor to any IP address. All the data that is gathered by tracking IP addresses is used for the sole purpose of improving our Web site and products, and is not shared with anyone else. 
+
+**Flash LSOs**
+
+We use local shared objects, also known as Flash cookies, to store your preferences such as volume control, or display content based upon what you view on our site to personalize your visit. Third Parties, with whom we partner to provide certain features on our site or to display advertising based upon your Web browsing activity, use Flash cookies to collect and store information.   
+Flash cookies are different from browser cookies because of the amount of, type of, and how data is stored. Cookie management tools provided by your browser will not remove Flash cookies. To learn how to manage privacy and storage settings for Flash cookies [click here](http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager.html#117118): 
+
+**Social Media Widgets**
+
+Our Web site includes Social Media Features, such as the Facebook like button and Widgets, such as the Share this button, the Twitter button, etc. that run on our site. These Features may collect your IP address, which page you are visiting on our site, and may set a cookie to enable the Feature to function properly. Social Media Features and Widgets are either hosted by a third party or hosted directly on our Site. Your interactions with these Features are governed by the privacy policy of the company providing it. 
+
+**Blog / Forum**
+
+Our Web site offers publicly accessible blog. You should be aware that any information you provide in these areas may be read, collected, and used by others who access them. To request removal of your personal information from our blog, contact us at [support@urbanthreads.com](mailto:support@urbanthreads.com). In some cases, we may not be able to remove your personal information, in which case we will let you know if we are unable to do so and why. 
 
 **Promotional Mailings and Newsletters**
 
@@ -62,7 +75,7 @@ If a shopper wishes to purchase a gift certificate for someone else, we'll ask f
 
 **Security**
 
-**Urban Threads** has security measures in place to protect the loss, misuse, and alternation of your personal information under our control. The security certificate is provided by [GoDaddy](http://www.godaddy.com/). There is a seal of authenticity at **Urban Threads** and the purchasing page. Click on the seals for information about the security certificate. 
+**Urban Threads** has security measures in place to protect the loss, misuse, and alternation of your personal information under our control. The security certificate is provided by [GoDaddy](http://www.godaddy.com/). There is a seal of authenticity at **Urban Threads** and on the purchasing page. Click on the seals for additional information about the security certificate. 
 
 **Urban Threads** uses secure socket layer technology (SSL) to encrypt and transmit sensitive information. No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore, we cannot guarantee its absolute security. 
 
@@ -101,4 +114,4 @@ If Urban Threads is involved in a merger, acquisition, or sale of all or a porti
 
 **Effective and Revision Date**
 
-This privacy policy was last updated on March 24, 2011. 
+This privacy policy was last updated on April 24, 2013. 
