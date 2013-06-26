@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the drummagazine.com privacy policy that was archived on 2012-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121201163337id_/http%3A//www.drummagazine.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the drummagazine.com privacy policy that was archived on 2013-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130626183546id_/http%3A//www.drummagazine.com/legal/privacy) for the most accurate reproduction.*
 
-# Privacy Policy - About Us - DRUM! Magazine
+# Privacy Policy | DRUM! Magazine
 
-_DRUM! (hereafter referred to as "DRUM! take your privacy seriously. Please read the following to learn more about our privacy policy._
+_DRUM! takes your privacy seriously. Please read the following to learn more about our privacy policy._
 
 ## What This Privacy Policy Covers
 
@@ -12,7 +12,7 @@ This policy does not apply to the practices of companies that DRUM! does not own
 
 ## Information Collection and Use
 
-DRUM! generally collects personally identifiable information with your specific knowledge and consent. DRUM! collects personal information when you register with DRUM! , when you use DRUM! products or services, when you visit DRUM! pages or the pages of certain DRUM! partners, and when you enter promotions or sweepstakes. DRUM! may combine information about you that we have with information we obtain from business partners or other companies.
+DRUM! generally collects personally identifiable information with your specific knowledge and consent. DRUM! collects personal information when you register with DRUM!, when you use DRUM! products or services, when you visit DRUM! pages or the pages of certain DRUM! partners, and when you enter promotions or sweepstakes. DRUM! may combine information about you that we have with information we obtain from business partners or other companies.
 
 When you register on our web site or subscribe to one of our services we ask only for your email address and age. This is to protect the other members on the site as well as to communicate with you and to comply with Federal Law regarding children under age 13. For some contests, promotions or subscription services we may also ask for your address.
 
@@ -30,7 +30,7 @@ If you choose to access, visit and/or use any third party social networking serv
 
 DRUM! does not rent, sell, or share personal information about you with other people or nonaffiliated companies except to provide products or services you’ve requested, when we have your permission, or under the following circumstances: We are engaged in co-marketing with other companies in the music industry, mailing to opt-in lists, responding to user opt-in requests, or sending general information about drumming news and events to registered users of the site.
 
-We respond to subpoenas, court orders, or legal process, or to establish or exercise our legal rights or defend against legal claims;We believe it is necessary to share information in order to investigate, prevent, or take action regarding illegal activities, suspected fraud, situations involving potential threats to the physical safety of any person, violations of DRUM! AND DRUMMAGAZINE.COM AND DRUMMAGAZINE.COM’s terms of use, or as otherwise required by law.
+We respond to subpoenas, court orders, or legal process, or to establish or exercise our legal rights or defend against legal claims;We believe it is necessary to share information in order to investigate, prevent, or take action regarding illegal activities, suspected fraud, situations involving potential threats to the physical safety of any person, violations of DRUM! AND DRUMmagazine.com AND DRUMmagazine.com’s terms of use, or as otherwise required by law.
 
 We transfer information about you if DRUM! is acquired by or merged with another company. In this event, DRUM! will notify you before information about you is transferred and becomes subject to a different privacy policy.
 
