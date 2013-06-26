@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dnsbl.info privacy policy that was archived on 2012-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120616210220id_/http%3A//www.dnsbl.info/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dnsbl.info privacy policy that was archived on 2013-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130626091651id_/http%3A//dnsbl.info/privacy-policy.php) for the most accurate reproduction.*
 
 # DNSBL Information - Privacy Policy
 
@@ -29,6 +29,8 @@ DNSBL.info expects its partners, advertisers and third-party affiliates to respe
 While on our site, our advertisers, promotional partners or other third parties may use cookies or other technology to attempt to identify some of your preferences or retrieve information about you. For example, some of our advertising is served by third parties and may include cookies that enable the advertiser to determine whether you have seen a particular advertisement before. Through features available on our site, third parties may use cookies or other technology to gather information. DNSBL.info does not control the use of this technology or the resulting information and is not responsible for any actions or policies of such third parties. 
 
 Please be careful and responsible whenever you are online. Should you choose to voluntarily disclose Personally Identifiable Information on our site, such as in message boards, chat areas or in advertising or notices you post, that information can be viewed publicly and can be collected and used by third parties without our knowledge and may result in unsolicited messages from other individuals or third parties. Such activities are beyond the control of DNSBL.info and this policy. 
+
+We allow third-party companies to serve ads and/or collect certain anonymous information when you visit our web site. These companies may use non-personally identifiable information (e.g., click stream information, browser type, time and date, subject of advertisements clicked or scrolled over) during your visits to this and other Web sites in order to provide advertisements about goods and services likely to be of interest to you. These companies typically use a cookie or third party web beacon to collect this information. To learn more about this behavioral advertising practice or to opt-out of this type of advertising, you can visit networkadvertising.org. 
 
 **Changes to this policy**
 
