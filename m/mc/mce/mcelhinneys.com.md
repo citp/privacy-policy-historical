@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mcelhinneys.com privacy policy that was archived on 2012-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121214052247id_/http%3A//www.mcelhinneys.com/privacy-policy-%2115-cms.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mcelhinneys.com privacy policy that was archived on 2013-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130626153241id_/http%3A//www.mcelhinneys.com/privacy-policy-%2115-cms.html) for the most accurate reproduction.*
 
 # Privacy Policy | McElhinneys Department Store
 
@@ -48,7 +48,7 @@ Personal data provided may be used by McElhinneys Department Store for the follo
 
 (c) Inform you of upcoming events, special offers and new products we feel that may be of interest to you.
 
-You may unsubscribe from our contact list at any time by replying to a promotional e-mail with the word "unsubscribe", on the website, or by e-mailing us at [customerservices@mcelhinneys.com](mailto:customerservices@mcelhinneys.com)
+You may unsubscribe from our contact list at any time by replying to a promotional e-mail with the word "unsubscribe", on the website, or by e-mailing us at [customerservice@mcelhinneys.com](mailto:customerservices@mcelhinneys.com)
 
 Non-Personal Data
 
