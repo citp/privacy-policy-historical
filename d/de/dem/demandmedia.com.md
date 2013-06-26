@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the demandmedia.com privacy policy that was archived on 2012-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121228011234id_/http%3A//www.demandmedia.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the demandmedia.com privacy policy that was archived on 2013-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130626025444id_/http%3A//www.demandmedia.com/privacy-policy) for the most accurate reproduction.*
 
-# DemandMedia.com Privacy Policy | Demand Media
+# Demand Media » DemandMedia.com Privacy Policy
 
 **Effective Date: June 14, 2010**
 
@@ -82,12 +82,12 @@ The information collected by third party cookies is subject to the privacy polic
 
 **9.     ** **CONTACT INFORMATION AND INFORMATION ABOUT ENFORCEMENT OF OUR POLICY.**  For customer site matters (including questions relating to this Policy), you may email us at[legal@demandmedia.com](mailto:legal@demandmedia.com). To send us a legal notice, mail it by certified mail (return receipt requested) to: Legal Department, 5808 Lake Washington Blvd. Suite 300, Kirkland, WA 98033.
 
-**10\. FOR EUROPEAN UNION** **OR SWITZERLAND** **CITIZENS.**
+**10\. FOR EUROPEAN UNION  ** **OR SWITZERLAND  ** **CITIZENS.**
 
-In compliance with the Safe Harbor Principles, Demand Media, Inc. commits to resolve complaints about your privacy and our collection or use of your personal information. In the first instance, European Union citizens or Switzerland citizens with inquiries or complaints regarding this privacy policy should contact: [legal@demandmedia.com](mailto:legal@demandmedia.com).
+In compliance with the Safe Harbor Principles, Demand Media, Inc. commits to resolve complaints about your privacy and our collection or use of your personal information. In the first instance, European Union citizens or Switzerland citizens with inquiries or complaints regarding this privacy policy should contact: [legal@demandmedia.com](mailto:legal@demandmedia.com).
 
-The company complies with the U.S.-EU Safe Harbor Framework and the U.S. – Swiss Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries and Switzerland. The company has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view Demand Media’s certification, please visit <http://www.export.gov/safeharbor/>.
+The company complies with the U.S.-EU Safe Harbor Framework and the U.S. – Swiss Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries and Switzerland. The company has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view Demand Media’s certification, please visit<http://www.export.gov/safeharbor/>.
 
-Demand Media, Inc. has further committed to refer unresolved privacy complaints under the US-EU and US-Swiss Safe Harbor Principles to an independent dispute resolution mechanism, the BBB EU SAFE HARBOR, operated by the Council of Better Business Bureaus. If you do not receive timely acknowledgment of your complaint, or if your complaint is not satisfactorily addressed by Demand Media, Inc., please visit the BBB EU SAFE HARBOR web site at [www.bbb.org/us/safe-harbor-complaints](http://www.bbb.org/us/safe-harbor-complaints) for more information and to file a complaint.
+Demand Media, Inc. has further committed to refer unresolved privacy complaints under the US-EU and US-Swiss Safe Harbor Principles to an independent dispute resolution mechanism, the BBB EU SAFE HARBOR, operated by the Council of Better Business Bureaus. If you do not receive timely acknowledgment of your complaint, or if your complaint is not satisfactorily addressed by Demand Media, Inc., please visit the BBB EU SAFE HARBOR web site at [www.bbb.org/us/safe-harbor-complaints](http://www.bbb.org/us/safe-harbor-complaints) for more information and to file a complaint.
 
 Copyright © 2010. Demand Media, Inc.
