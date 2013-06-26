@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the eacdirectory.co.ke privacy policy that was archived on 2012-09-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120920000722id_/http%3A//www.eacdirectory.co.ke/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eacdirectory.co.ke privacy policy that was archived on 2013-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130626125928id_/http%3A//www.eacdirectory.co.ke/privacy.php) for the most accurate reproduction.*
 
 # Privacy and Refund Policy | EACDIRECTORY
 
@@ -26,11 +26,11 @@ You can choose how we communicate with you by entering your details when signing
 
 **Other information**
 
-We donâ€™t send spam and do not permit spam on EACdirectory website and related servers. Learn more about keeping your online identity safe; go to our Security and Resolution Center for more information. 
+We don’t send spam and do not permit spam on EACdirectory website and related servers. Learn more about keeping your online identity safe; go to our Security and Resolution Center for more information. 
 
 **Contact us**
 
-Click here to contact [EACDirectory](https://web.archive.org/web/20120920000722id_/http%3A//www.eacdirectory.co.ke/contacts.php).
+Click here to contact [EACDirectory](https://web.archive.org/web/20130626125928id_/http%3A//www.eacdirectory.co.ke/contacts.php).
 
 **CHANGES TO THIS PRIVACY POLICY**
 
@@ -44,10 +44,3 @@ Note that 2Checkout.com is an authorized reseller of goods and services provided
 **Refund policy**
 
 Because of the nature of services we offer (domains), there is no refund that shall be given. We advise you to double check the spellings since all orders cannot be reversed.
-
-[ ](http://www.kbo.co.ke/ "Kenya Businesses Online")[ ](http://www.kenic.or.ke/ "KENIC - .ke Domain Entity") [ ](http://www.google.com/apps/ "Google Apps")[](http://www.cpanel.net/ "CPanel - Hosting Manager")
-
-EACdirectory is a Kenic accredited registrar for.co.ke domains.  
-We are the largest kenyan domain registrar (.co.ke, and other extensions.)  
-We give 10 FREE Email Hosting powered by Google (Google apps)   
-We also provide cpanel web hosting in kenya
