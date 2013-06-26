@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the seewinter.com privacy policy that was archived on 2012-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121014005051id_/http%3A//seewinter.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the seewinter.com privacy policy that was archived on 2013-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130626024758id_/http%3A//seewinter.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -27,10 +27,6 @@ Your e-mail address will only be used within CMA. Your e-mail address is stored 
 ### Mail List Removal 
 
 If you wish to be removed from our e-mail or postal mailings, please e-mail us at unsubscribe@cmaquarium.org and request removal, or mail a removal request to the above address, or call 1-727-441-1790. E-mail addresses returned to CMA as "permanently undeliverable" will be automatically removed from our e-mail lists. Postal mailings returned as "addressee unknown" or otherwise undeliverable will be automatically removed from our mailing lists.
-
-### Use of Cookies and IP addresses 
-
-Clearwater Marine Aquarium does not use cookies or capture IP addresses.
 
 ### CMA Registration and Order Forms 
 
