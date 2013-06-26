@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the worldmags.net privacy policy that was archived on 2012-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121223101756id_/http%3A//worldmags.net/policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the worldmags.net privacy policy that was archived on 2013-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130626183434id_/http%3A//worldmags.net/policy.html) for the most accurate reproduction.*
 
-# Privacy Policy » WorldMags free digital magazine download your desktop | Oron.com, FilePost.com - Downloads Digital Magazines PDF & True PDF magazines, electronic journal, Read Free new magazines for the iPad WorldMags.net
+# Privacy Policy » PDF Magazines for iPhone, iPad, Android, Smartphone, Tablet device, & Web from WorldMags, free digital magazine download your desktop | FilePost.com - Downloads Digital Magazines PDF & True PDF magazines, electronic journal, Read Free new magazines for the iPad WorldMags.net
 
 General rules on the site
 
