@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the edu.pe.ca privacy policy that was archived on 2012-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121014082712id_/http%3A//www.gov.pe.ca/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the edu.pe.ca privacy policy that was archived on 2013-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130627000402id_/http%3A//www.gov.pe.ca/privacy) for the most accurate reproduction.*
 
 # Government of PEI: Privacy
 
-[ ](http://www.addthis.com/bookmark.php?v=250&username=xa-4bbc898368800927)[](javascript:window.print\(\) "print this page") [](https://web.archive.org/styleswitch.php?style=default "change font to small") [](https://web.archive.org/styleswitch.php?style=med "change font to medium")  
+[ ](http://www.addthis.com/bookmark.php?v=250&username=xa-4bbc898368800927)[](javascript:window.print\(\) "print this page")  [](https://web.archive.org/styleswitch.php?style=med "change font to medium") [](https://web.archive.org/styleswitch.php?style=large "change font to large") 
 
-[HOME](https://web.archive.org/web/20121014082712id_/http%3A//www.gov.pe.ca/index.php3?lang=E) / [COPYRIGHT](https://web.archive.org/web/20121014082712id_/http%3A//www.gov.pe.ca/index.php3?number=1024402&lang=E) / 
+[HOME](https://web.archive.org/web/20130627000402id_/http%3A//www.gov.pe.ca/index.php3?lang=E) / [COPYRIGHT](https://web.archive.org/web/20130627000402id_/http%3A//www.gov.pe.ca/index.php3?number=1024402&lang=E) / 
 
 Privacy
 
@@ -92,4 +92,4 @@ Charlottetown, PE 
 C1A 7K7
 
 Phone:902-368-4099  
-Fax:902-368-5947
+Fax:902-368-5947 
