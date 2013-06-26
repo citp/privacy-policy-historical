@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the buywholefoodsonline.co.uk privacy policy that was archived on 2012-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121225151507id_/http%3A//www.buywholefoodsonline.co.uk/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the buywholefoodsonline.co.uk privacy policy that was archived on 2013-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130626062253id_/http%3A//www.buywholefoodsonline.co.uk/privacy-policy.html) for the most accurate reproduction.*
 
 # Page2 - Buy Whole Foods Online
 
@@ -48,7 +48,7 @@ After a transaction, your private information (credit cards, social security num
 
 **Do we use cookies?**
 
-Yes (Cookies are small files that a site or its service provider transfers to your computers hard drive through your Web browser (if you allow) that enables the sites or service providers systems to recognize your browser and capture and remember certain information.
+Yes (Cookies are small files that a site or its service provider transfers to your computers hard drive through your Web browser (if you allow) that enables the sites or service providers systems to recognize your browser and capture and remember certain information. By using this site, you are consenting to the use of cookies. [Click here to see our Cookie Policy](https://web.archive.org/web/20130626062253id_/http%3A//www.buywholefoodsonline.co.uk/cookie-policy.html)
 
 **Do we disclose any information to outside parties?**
 
