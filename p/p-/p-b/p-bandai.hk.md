@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the p-bandai.hk privacy policy that was archived on 2012-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121225024911id_/http%3A//p-bandai.hk/guide/guide_14) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the p-bandai.hk privacy policy that was archived on 2013-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130626233631id_/http%3A//p-bandai.hk/guide/guide_14) for the most accurate reproduction.*
 
 # Privacy and Security｜Premium Bandai | Shopping from children to adults can enjoy Bandai official site
 
