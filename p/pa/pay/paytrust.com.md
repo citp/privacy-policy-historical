@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the paytrust.com privacy policy that was archived on 2012-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121122020025id_/http%3A//paytrust.intuit.com/privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the paytrust.com privacy policy that was archived on 2013-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130626192655id_/http%3A//paytrust.intuit.com/privacy.jsp) for the most accurate reproduction.*
 
 # PayTrust online bill pay service privacy policy
 
