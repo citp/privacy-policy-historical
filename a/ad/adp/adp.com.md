@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the adp.com privacy policy that was archived on 2012-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121222024347id_/http%3A//www.adp.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adp.com privacy policy that was archived on 2013-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130626184320id_/http%3A//www.adp.com/privacy.aspx) for the most accurate reproduction.*
 
 # Privacy | ADP
 
@@ -50,11 +50,14 @@ ADP has a Global Privacy Program that applies to all affiliates and associates w
 > 
 > For more information about the Safe Harbor Principles, please visit the U.S. Department of Commerce's Website <http://www.export.gov/safeharbor/>.
 > 
+> [](https://safeharbor.export.gov/list.aspx)  
+> [](http://www.export.gov/safeharbor)
+> 
 > **Social Security Number Protection Policy Statement**
 > 
-> ADP collects Social Security numbers and other sensitive personal information in the ordinary course of its business. ADP has implemented reasonable technical, physical and administrative safeguards to help protect the Social Security numbers and other sensitive personal information from unlawful use and unauthorized disclosure. All ADP associates and contractors are required to follow these established procedures, both online and offline. 
+> ADP collects Social Security numbers and other sensitive personal information in the ordinary course of its business. ADP has implemented reasonable technical, physical and administrative safeguards to help protect the Social Security numbers and other sensitive personal information from unlawful use and unauthorized disclosure. All ADP associates and contractors are required to follow these established procedures, both online and offline.
 > 
-> Access to Social Security numbers is limited to those employees and contractors who have a need to access the information to perform tasks for ADP. Social Security numbers are only disclosed to third parties in accordance with ADP’s established privacy policy. ADP will only disclose Social Security numbers to those service providers, auditors, advisors, and/or successors-in-interest who are legally or contractually obligated to protect them or as required or permitted by law. 
+> Access to Social Security numbers is limited to those employees and contractors who have a need to access the information to perform tasks for ADP. Social Security numbers are only disclosed to third parties in accordance with ADP’s established privacy policy. ADP will only disclose Social Security numbers to those service providers, auditors, advisors, and/or successors-in-interest who are legally or contractually obligated to protect them or as required or permitted by law.
 > 
 > **California Privacy Rights**
 > 
@@ -69,11 +72,3 @@ ADP has a Global Privacy Program that applies to all affiliates and associates w
 >  Roseland, NJ 07068-1728 USA
 > 
 > Some ADP companies have published privacy statements on their websites that provide additional information about local practices. Please follow the privacy link on affiliate websites to read these local statements. 
-> 
-> **Data Security and Release Procedures**
-> 
-> ADP utilizes various layers of data protection in the development of the ADP National Employment Report®.
-> 
-> In order to help guarantee that the monthly ADP National Employment Report and data used in its preparation are not compromised by unauthorized access or pre-release of any information: (i) Access to relevant data is limited to those with a clear need to know (supported by physical and computer security procedures); (ii) All persons with access are strictly prohibited from using pre-release information for personal gain and from providing pre-release information to the media or other unauthorized individuals; (iii) All persons with access to the ADP National Employment Report in advance of release are subject to a thorough background check; (iv) ADP associates are bound by ADP ethics and information security policies and all outside individuals given access to the data are required to sign formal pledges regarding the foregoing and (v) The ADP National Employment Report is released on a schedule that helps minimize the risk of pre-release access and helps ensure simultaneous release to all of the public. Certain aspects of the foregoing procedures are modeled after those used by the United States Department of Commerce, Economics and Statistics Administration and the United States Bureau of Labor Statistics. 
-> 
-> No confidential client data is used in the ADP National Employment Report. The aggregated regional and industry data used in the report means that no information on individual ADP clients can be identified. 
