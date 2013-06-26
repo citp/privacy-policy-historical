@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the buypuregreencoffee.com privacy policy that was archived on 2012-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120628010413id_/http%3A//www.buypuregreencoffee.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the buypuregreencoffee.com privacy policy that was archived on 2013-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130626065724id_/http%3A//buypuregreencoffee.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -108,4 +108,12 @@ You may remove your information from Company's database. If you remove your info
 
 **6.0. California User Consumer Rights.** In accordance with California Civil Code Sec. 1789.3, California resident users are entitled to know that they may file grievances and complaints with California Department of Consumer Affairs, 400 R Street, STE 1080, Sacramento, CA 95814; or by phone at 916-445-1254 or 800-952-5210; or by email to dca@dca.ca.gov. For more information about protecting your privacy, you may wish to visit: http://www.ftc.gov.
 
+**Opt-Out Of Future Communication.** If you do not want to receive further communication from us, you may contact us at the address or email address below.
+
 If you have questions about this policy, please contact us at support@GreenCoffeeSupport.Com.
+
+Fantasy Media, LLC   
+701 North Green Valley Parkway   
+Henderson, Nevada, 89074   
+USA   
+support@greencoffeesupport.com 
