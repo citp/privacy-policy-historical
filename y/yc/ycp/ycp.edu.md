@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ycp.edu privacy policy that was archived on 2012-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121123085623id_/http%3A//www.ycp.edu/privacy-and-disclaimer-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ycp.edu privacy policy that was archived on 2013-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130626043748id_/http%3A//www.ycp.edu/privacy-and-disclaimer-statement) for the most accurate reproduction.*
 
 # Privacy and Disclaimer Statement
 
@@ -31,6 +31,3 @@ York College of Pennsylvania will take reasonable steps to protect all personal 
 **Links to Other Sites**
 
 The York College web site links to a wide variety of other sites. We are not responsible for their privacy policies or how they treat information about their users.
-
-  
-
