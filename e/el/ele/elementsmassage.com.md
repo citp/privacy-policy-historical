@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the elementsmassage.com privacy policy that was archived on 2012-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121226154654id_/http%3A//elementsmassage.com/page/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the elementsmassage.com privacy policy that was archived on 2013-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130626162707id_/http%3A//elementsmassage.com/page/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy - Elements Therapeutic Massage
 
@@ -29,6 +29,12 @@ We may also provide access to our database in order to cooperate with official i
 While your personally identifying information is protected as outlined above, we reserve the right to use, transfer, sell, and share aggregated, anonymous data about our users as a group for any business purpose, such as analyzing usage trends and seeking compatible advertisers and strategic business partners. We may share your data with our franchise owners and area directors, our shareholders, creditors, investors, board of directors, employees, agents and representatives working on our behalf, our legal, financial and other professional advisors, third party market research companies, advertising and marketing agencies and consultants, website development companies, direct mail companies and other companies with whom we do business. However, we will not share or authorize the sharing of your credit card information to any third party unless required to process your purchase on our Website.
 
 In addition, as our business changes, we may buy or sell various assets. In the event all or a portion of the assets owned or controlled by us, our parent or any subsidiary or affiliated entity are sold, assigned, transferred or acquired by another company, the information from and/or about our Website users may be among the transferred assets.
+
+If at any time you no longer wish to receive communications from us, you are free to “opt out” of receiving these communications.  If you would no longer like to receive news, information and special offers or other messages from us, please click the “Unsubscribe” button at the bottom of the email and follow the instructions.  Your e-mail address and other personal information will be removed from our marketing list.  OPTING OUT OF RECEIVING EMAILS WILL ONLY AFFECT YOUR RECEIPT OF EMAILS.  YOU MAY STILL RECEIVE MESSAGES FROM US VIA TEXT MESSAGE OR OTHER METHODS.
+
+If you agree to receive mobile text messages from us, we may provide any of the information described in this Policy, including promotional text messages, via text messages to the phone number you provided to us. If you wish to opt out of receiving text messages, or if you have errantly received a marketing text message without opting into the program, you can cancel the program at any time by texting STOP ELEMENTS to 777555. OPTING OUT OF RECEIVING TEXT MESSAGES WILL ONLY AFFECT YOUR RECEIPT OF TEXT MESSAGES.  YOU MAY STILL RECEIVE MESSAGES FROM US VIA EMAIL OR OTHER METHODS.
+
+You may text HELP ELEMENTS to 777555 to receive additional information regarding our Mobile Alerts Program.  STANDARD MESSAGE AND DATA RATES MAY APPLY.  WHILE WE DO NOT CHARGE ANY FEE FOR USING THIS SERVICE, YOUR USE OF THE SERVICE VIA TEXT, MULTIMEDIA, OR INSTANT MESSAGE ON YOUR MOBILE PHONE OR ANY OTHER DEVICE IS SUBJECT TO THE STANDARD MESSAGE AND DATA CHARGES PER YOUR CARRIER’S RATE PLAN.
 
 ## 3\. What are "cookies" and how does this Website use them?
 
