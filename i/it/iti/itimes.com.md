@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the itimes.com privacy policy that was archived on 2012-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121110031739id_/http%3A//www.itimes.com/help/PrivacyPolicy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the itimes.com privacy policy that was archived on 2013-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130627010731id_/http%3A//ww.itimes.com/privacy-policy) for the most accurate reproduction.*
 
-# itimes Privacy policy
+# Be more interesting | itimes | Privacy Policy
 
 Times Internet Ltd, (TIL) a wholly owned subsidiary of Bennett Coleman & Co. Limited. Indiatimes located at http://in.indiatimes.com is the mother brand of TIL and powers / manages the Online Properties (Brand Names) of the 'Times Group' interalia www.timesofindia.com, www.economictimes.com, www.navbharattimes.com, www.maharashtratimes.com including various internet sites and community boards and services, to name a few, (Indiatimes Channels) hereinafter collectively referred to as TIL. 
 
-TIL respects the privacy of it's users and is committed to protect it in all respects. With a view to offer most enriching and holistic internet experience to it's users TIL offers a vast repository of Online Sites and variety of community services. You may read 'About Us' to know more about TIL at http://info.indiatimes.com/terms/aboutus.html. Most of the Online Community Services are offered for free but you need a Universal mandatory registration to surf 'Indiatimes Channels' in detail. The information about the user as collected by TIL is: (a) information supplied by users and (b) information automatically tracked while navigation (Information). 
+TIL respects the privacy of it's users and is committed to protect it in all respects. With a view to offer most enriching and holistic internet experience to it's users TIL offers a vast repository of Online Sites and variety of community services. You may read ['About Us'](http://timesinternet.in/about-us/corporate-overview/cview/15615486.cms) to know more about TIL. Most of the Online Community Services are offered for free but you need a Universal mandatory registration to surf 'Indiatimes Channels' in detail. The information about the user as collected by TIL is: (a) information supplied by users and (b) information automatically tracked while navigation (Information).
 
-**By using TIL's website or its services, you consent to collection, storage, and use of the personal information you provide (including any changes thereto as provided by you) for any of the services that we offer.**
+ **By using TIL's website or its services, you consent to collection, storage, and use of the personal information you provide (including any changes thereto as provided by you) for any of the services that we offer.**
 
-**USER INFORMATION**
+ **USER INFORMATION**
 
 To avail certain sites / services on our websites, users are required to provide certain information for the registration process namely:- a) your name, b) email address, c) sex, d) age, e) PIN code , f) credit card or debit card details g) medical records and history h) sexual orientation, i) biometric information, j) password etc., and / or your occupation, interests, and the like.. The Information as supplied by the users enables us to improve our sites and provide you the most user-friendly experience. In some sites as in Indiatimes Contests, dating etc. we require your contact addresses. 
 
@@ -30,39 +30,42 @@ When we present information to our advertisers -- to help them understand our au
 
 **INFORMATION SHARING**
 
-TIL shares the sensitive personal information to any third party without obtaining the prior consent of the User in the following limited circumstances: 
+TIL shares the sensitive personal information to any third party without obtaining the prior consent of the User in the following limited circumstances:
 
-a) When it is requested or required by law or by any court or governmental agency or authority to disclose, for the purpose of verification of identity, or for the prevention, detection, investigation including cyber incidents, or for prosecution and punishment of offences. These disclosures are made in good faith and belief that such disclosure is reasonably necessary for enforcing these Terms; for complying with the applicable laws and regulations. 
+  1. When it is requested or required by law or by any court or governmental agency or authority to disclose, for the purpose of verification of identity, or for the prevention, detection, investigation including cyber incidents, or for prosecution and punishment of offences. These disclosures are made in good faith and belief that such disclosure is reasonably necessary for enforcing these Terms; for complying with the applicable laws and regulations.
+  2. TIL proposes to share such information within its group companies and officers and employees of such group companies for the purpose of processing personal information on its behalf. We also ensure that these recipients of such information agree to process such information based on our instructions and in compliance with this Privacy Policy and any other appropriate confidentiality and security measures.
 
-b) TIL proposes to share such information within its group companies and officers and employees of such group companies for the purpose of processing personal information on its behalf. We also ensure that these recipients of such information agree to process such information based on our instructions and in compliance with this Privacy Policy and any other appropriate confidentiality and security measures.
 
-**ACCESSING AND UPDATING PERSONAL INFORMATION**
+
+ **ACCESSING AND UPDATING PERSONAL INFORMATION**
 
 When you use TIL's websites, we make good faith efforts to provide you, as and when requested by you, with access to your personal information and shall further ensure that any personal information or sensitive personal data or information found to be inaccurate or deficient shall be corrected or amended as feasible, subject to any requirement for such personal information or sensitive personal data or information to be retained by law or for legitimate business purposes. We ask individual users to identify themselves and the information requested to be accessed, corrected or removed before processing such requests, and we may decline to process requests that are unreasonably repetitive or systematic, require disproportionate technical effort, jeopardize the privacy of others, or would be extremely impractical (for instance, requests concerning information residing on backup tapes), or for which access is not otherwise required. In any case where we provide information access and correction, we perform this service free of charge, except if doing so would require a disproportionate effort. Because of the way we maintain certain services, after you delete your information, residual copies may take a period of time before they are deleted from our active servers and may remain in our backup systems.
 
-**INFORMATION SECURITY**
+ **INFORMATION SECURITY**
 
 We take appropriate security measures to protect against unauthorized access to or unauthorized alteration, disclosure or destruction of data. These include internal reviews of our data collection, storage and processing practices and security measures, including appropriate encryption and physical security measures to guard against unauthorized access to systems where we store personal data. 
 
-All information gathered on TIL is securely stored within the TIL controlled database. The database is stored on servers secured behind a firewall; access to the servers is password-protected and is strictly limited. However, as effective as our security measures are, no security system is impenetrable. We cannot guarantee the security of our database, nor can we guarantee that information you supply will not be intercepted while being transmitted to us over the Internet. And, of course, any information you include in a posting to the discussion areas is available to anyone with Internet access. 
+All information gathered on TIL is securely stored within the TIL controlled database. The database is stored on servers secured behind a firewall; access to the servers is password-protected and is strictly limited. However, as effective as our security measures are, no security system is impenetrable. We cannot guarantee the security of our database, nor can we guarantee that information you supply will not be intercepted while being transmitted to us over the Internet. And, of course, any information you include in a posting to the discussion areas is available to anyone with Internet access.
 
-However the internet is an ever evolving medium. We may change our privacy policy from time to time to incorporate necessary future changes. Of course, our use of any information we gather will always be consistent with the policy under which the information was collected, regardless of what the new policy may be. 
+However the internet is an ever evolving medium. We may change our privacy policy from time to time to incorporate necessary future changes. Of course, our use of any information we gather will always be consistent with the policy under which the information was collected, regardless of what the new policy may be.
 
 We use third-party advertising companies to serve ads when you visit our Web site. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you.
 
-In the event you have any grievance relating to the processing of information provided by you, you may contact our Grievance Officer, at copyright.infringement@indiatimes.com ; or write at the following address: 
+In the event you have any grievance relating to the processing of information provided by you, you may contact our Grievance Officer, at copyright.infringement@indiatimes.com ; or write at the following address:
 
 Times Internet Limited   
 4th Floor, MPD World Tower,   
 DLF City Phase V, Opposite DLF Golf Course   
 Gurgaon, Haryana 122002   
-India   
-Ph: 0124-4187000 
+India  
+Ph: 0124-4187000
 
 We request you to please provide the following information in your complaint:-
 
-(a) Identification of the information provided by you   
-(b) Clear statement as to whether the information is personal information or sensitive personal information   
-(c) Your address, telephone number or e-mail address.   
-(e) A statement that you have a good-faith belief that the information has been processed incorrectly or disclosed without authorization, as the case may be.   
-(f) A statement, under penalty of perjury, that the information in the notice is accurate, and that the information being complained about belongs to you.
+  1. Identification of the information provided by you
+  2. Clear statement as to whether the information is personal information or sensitive personal information
+  3. Your address, telephone number or e-mail address.
+  4. A statement that you have a good-faith belief that the information has been processed incorrectly or disclosed without authorization, as the case may be.
+  5. A statement, under penalty of perjury, that the information in the notice is accurate, and that the information being complained about belongs to you.
+
+
