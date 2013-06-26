@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bestforpuzzles.com privacy policy that was archived on 2012-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121225124725id_/http%3A//bestforpuzzles.com/about/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bestforpuzzles.com privacy policy that was archived on 2013-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130627002444id_/http%3A//bestforpuzzles.com/about/privacy.html) for the most accurate reproduction.*
 
 # Privacy Statement
 
@@ -36,7 +36,9 @@ Some of our advertising is provided by Google Adsense. See the [Google Privacy S
 ## Contacting the Web Site
 
   
-If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, please use the [Feedback form](https://web.archive.org/about/feedback.html) or see [this page](https://web.archive.org/about/index.html) for contact details. | 
+If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, please see [this page](https://web.archive.org/about/index.html) for contact details. | 
+
+[](http://www.facebook.com/bestforpuzzles)
 
 [](http://www.addthis.com/bookmark.php?v=250&pubid=ra-4dda53ad381a5a73)
 
@@ -46,4 +48,4 @@ If you have any questions about this privacy statement, the practices of this si
   
 * * *
 
-Best for Puzzles © 2012 - best for crosswords, codewords, word searches, jigsaws & other puzzles, games and trivia
+Best for Puzzles © 2013 - best for crosswords, codewords, sudoku & other puzzles, games and trivia
