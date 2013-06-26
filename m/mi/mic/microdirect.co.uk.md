@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the microdirect.co.uk privacy policy that was archived on 2012-10-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121010164251id_/http%3A//www.microdirect.co.uk/Articles/Index/Help/89) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the microdirect.co.uk privacy policy that was archived on 2013-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130626222417id_/http%3A//www.microdirect.co.uk/Articles/Index/Help/281) for the most accurate reproduction.*
 
 # Security & Privacy Policy - microdirect.co.uk
 
@@ -11,32 +11,6 @@ In secure mode all your information is transferred to our secure server using in
 
 
 As stated in our privacy policy, we've taken the appropriate measures to ensure that your personal information is not unlawfully processed. We tread data as an asset which must be protected against loss and unauthorized access. Microdirect.co.uk uses industry standard practices to safeguard the confidentiality of your personal identifiable information, including "firewalls" and Secure Socket Layers.
-
-### Internet Shopping Is Safe (ISIS)
-
-You can shop online with confidence because ISIS logo on Microdirect.co.uk certifies that the Microdirect.co.uk has: 
-
-  * registered with the ISIS programme and undertaken to trade in a manner that is LEGAL, DECENT, HONEST, TRUTHFUL AND FAIR;
-  * had its web site and service reviewed and monitored by IMRG 
-  * had its Business, VAT and Data Protection registrations checked by IMRG 
-
-
-
-### Internet Delivery Is Safe (IDIS)
-
-Microdirect.co.uk is an IDIS-accredited retailer. As an online shopper with an IDIS-accredited retailer, you have the right to: 
-
-  * Clear delivery information before you place your order;
-  * Convenient and reliable delivery service;
-  * Notification of any delivery limitations / conditions;
-  * Charges that are complete and simple to understand;
-  * Access to information on your order progress / history;
-  * Delivery within the agreed time frame;
-  * Helpful support with failed / late / attempted deliveries;
-  * Your goods arriving in good condition;
-  * A clear returns process, with any limitations / conditions notified prior to purchase.
-
-
 
 ## Privacy Policy
 
