@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the literacycenter.net privacy policy that was archived on 2012-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121201024714id_/http%3A//www.literacycenter.net/about_us/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the literacycenter.net privacy policy that was archived on 2013-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130626062349id_/http%3A//www.literacycenter.net/about_us/privacy-policy.php) for the most accurate reproduction.*
 
 # Literacy Center Education Network - Privacy Policy
 
@@ -33,8 +33,4 @@ Literacy Center Education Network reserves the right to amend this Privacy Polic
 
 **Contacting the Literacy Center Education Network**
 
-If you have any questions about the use, amendment, or deletion of personal information that you have provided to us, please contact us at [privacy@literacycenter.net](mailto:privacy@literacycenter.net).  You may also contact us at:
-
-Literacy Center Education Network  
-131 Vista Robles  
-Ben Lomond, California 95005 
+If you have any questions about the use, amendment, or deletion of personal information that you have provided to us, please contact us at [privacy@literacycenter.net](mailto:privacy@literacycenter.net).
