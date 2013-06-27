@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the freedomrewardz.com privacy policy that was archived on 2012-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121205154317id_/http%3A//www.freedomrewardz.com/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freedomrewardz.com privacy policy that was archived on 2013-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130627085516id_/http%3A//www.freedomrewardz.com/Privacy.aspx) for the most accurate reproduction.*
 
-# Privacy
+# FreedomRewardz | Your Privacy is Important to us at India's Most Rewarding Loyalty Program for State Bank Group Debit Card Customers
 
 _Privacy Statement_
 
