@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the ultimatebloggertricks.com privacy policy that was archived on 2012-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121214074706id_/http%3A//theoriginalbloggertricks.blogspot.in/p/privacy-policy-for-www.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ultimatebloggertricks.com privacy policy that was archived on 2013-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130627181411id_/http%3A//theoriginalbloggertricks.blogspot.in/p/privacy-policy-for-www.html) for the most accurate reproduction.*
 
-# Privacy Policy ~ The Original Blogger Tricks
+# Privacy Policy ~ Ultimate Blogger Tricks
 
 Privacy Policy for www.theoriginalbloggertricks.blogspot.com
 
