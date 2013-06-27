@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the patriots.com privacy policy that was archived on 2012-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121229182047id_/http%3A//www.patriots.com/footer/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the patriots.com privacy policy that was archived on 2013-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130627153853id_/http%3A//www.patriots.com/footer/privacy-policy.html) for the most accurate reproduction.*
 
 # Official Website of the New England Patriots | Privacy Policy
 
@@ -29,9 +29,8 @@ Please read the information below to learn more about our data collection polici
   11. Data Retention 
   12. TRUSTe Privacy Program 
   13. Your California Privacy Rights
-  14. Questions about This Privacy Policy 
+  14. Questions about This Privacy Policy
 
-  
 
 
 ##### Types Of Information That May Be Collected
@@ -83,7 +82,8 @@ As with many Websites, our Website uses a technology called "cookies." A cookie 
 ###### _Opting out of Third Party Cookies_
 
 If you would like to manage the cookies set or accessed on your computer by third parties, including our business partners (e.g., advertisers) you must visit their respective website(s).  In addition to those business partners whose cookies we cannot access or control, the Site permits the following entity to place cookies on the Site:     
-Reach Local [www.reachlocal.com](http://www.reachlocal.com/)
+Reach Local [www.reachlocal.com](http://www.reachlocal.com/)  
+ShopSocially [www.shopsocially.com](http://www.shopsocially.com/)
 
 ###### _Clear Gifs (Web Beacons/Web Bugs)_
 
