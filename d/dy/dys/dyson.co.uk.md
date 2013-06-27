@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dyson.co.uk privacy policy that was archived on 2012-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121221104542id_/http%3A//www.dyson.co.uk/support/privacypolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dyson.co.uk privacy policy that was archived on 2013-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130627081453id_/http%3A//www.dyson.co.uk/support/privacypolicy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -112,6 +112,6 @@ Back to top
 
 ## Dyson Balloon Game
 
-Please click [here](https://web.archive.org/web/20121221104542id_/http%3A//www.dyson.co.uk/support/medialibrary/20EC2F77DB6C4455A7A74EFD5ED550BD.pdf) to download the end user license agreement for the Dyson balloon game.
+Please click [here](https://web.archive.org/web/20130627081453id_/http%3A//www.dyson.co.uk/support/medialibrary/20EC2F77DB6C4455A7A74EFD5ED550BD.pdf) to download the end user license agreement for the Dyson balloon game.
 
 Back to top
