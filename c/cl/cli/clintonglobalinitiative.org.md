@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the clintonglobalinitiative.org privacy policy that was archived on 2012-07-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120729080221id_/http%3A//www.clintonglobalinitiative.org/aboutus/privacy.asp%3FSection%3DAboutUs%26PageTitle%3DPrivacy%2520Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the clintonglobalinitiative.org privacy policy that was archived on 2013-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130627222959id_/http%3A//www.clintonglobalinitiative.org/aboutus/privacy_policy.asp) for the most accurate reproduction.*
 
-# Privacy Policy | Clinton Global Initiative
+# About Us: Privacy Policy | Clinton Global Initiative
 
 The William J. Clinton Foundation Privacy Policy (“Policy”) was created to help you understand how the Foundation uses information that is automatically collected from your computer and information you submit to this website. The Foundation is committed to protecting your online privacy. By using this Site, as defined by our Terms of Use, you agree to be legally bound by this Policy, as it may be amended from time to time. If you do not agree to this Policy or cannot form a legally binding contract, you are not permitted to use this Site.
 
@@ -50,7 +50,7 @@ We will not sell or disclose any of your personal information to a third party, 
 
 ###  Corrections/Updates 
 
-This Site gives users the opportunity to change any information previously provided to us through this Site. To do so, please send us an e-mail through our [Contact Page](http://www.clintonglobalinitiative.org/aboutus/contactus.asp?Section=AboutUs&PageTitle=Contact%20Us). 
+This Site gives users the opportunity to change any information previously provided to us through this Site. To do so, please send us an e-mail through our [Contact Page](https://web.archive.org/aboutus/contact_us.asp). 
 
 ###  Transfer of Business Assets 
 
@@ -74,6 +74,6 @@ While there is no such thing as "perfect" security on the Internet, we take reas
 
 ###  Contacting Us 
 
-If you have any questions about this Privacy Policy, or any other provision of our Terms of Use, please [click here](http://www.clintonglobalinitiative.org/aboutus/contactus.asp?Section=AboutUs&PageTitle=Contact%20Us) for contact information. 
+If you have any questions about this Privacy Policy, or any other provision of our Terms of Use, please [click here](https://web.archive.org/aboutus/contact_us.asp) for contact information. 
 
 ###  THE USE OF THIS SITE SIGNIFIES YOUR AGREEMENT TO THE TERMS OF USE, INCLUDING THIS PRIVACY POLICY. 
