@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the freedom.com.au privacy policy that was archived on 2012-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121231172336id_/http%3A//www.freedom.com.au/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freedom.com.au privacy policy that was archived on 2013-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130627221408id_/http%3A//www.freedom.com.au/privacy) for the most accurate reproduction.*
 
 # Privacy | Freedom Furniture and Homewares
 
@@ -11,7 +11,7 @@ Steinhoff Asia Pacific Limited trading as Freedom and its Related Bodies Corpora
 
 ###  Now for the details
 
-At Freedom, we are fully committed to respecting your privacy. The following Privacy Policy has been published to provide a clear and concise outline of how and when personal information is collected, used, stored, and distributed by Freedom. This policy also applies to Freedom's website: [www.freedom.com.au](https://web.archive.org/web/20121231172336id_/http:/).
+At Freedom, we are fully committed to respecting your privacy. The following Privacy Policy has been published to provide a clear and concise outline of how and when personal information is collected, used, stored, and distributed by Freedom. This policy also applies to Freedom's websites.
 
 Freedom, is bound by the Privacy Act 1988 and the National Privacy Principles set by the Federal Privacy Commissioner. For more information, visit [www.privacy.gov.au](http://www.privacy.gov.au/).
 
@@ -45,14 +45,20 @@ Freedom uses tracking technologies such as cookies to recognise your browser eac
 
 Cookies are pieces of information that a web site transfers to a computer's hard disk for record keeping purposes. Most web browsers are set to accept tracking technologies such as cookies. These tracking technologies do not themselves personally identify users, although they do identify a user's browser. However, if you do not wish to receive any cookies, you may set your browser to refuse them.
 
+###  **Remarketing**
+
+The Freedom website uses Google AdWords, Google Analytics, and the Google Display Network together to serve ads to you on other websites after you’ve visited our website. This practice is known as remarketing and is a tool that Google offers to businesses. If you would like to know more about the program, [you can do so here](http://support.google.com/analytics/bin/answer.py?hl=en&answer=2611268&topic=2611283&ctx=topic). In summary, Freedom, along with third-party vendors, Google and DoubleClick, uses first-party cookies (such as the Google Analytics cookie) and third-party cookies (such as the DoubleClick cookie) together to inform, optimize, and serve ads based on your past visits to our website.
+
+If you would like to opt-out of receiving advertising like this from Google, you can manage these settings by visiting the [Google Ads Preferences Manager](http://www.google.com/settings/ads/onweb/?sig=ACi0TCiRDcnrXrdffABE6Nifr9QppTwHkj_NTB8gd0FaMd9YV_wg5YIp3OvYIp-y-pdTWNhIhLjQXh6TyIek2jcL233J8XokduMKuR1N-zHOJP2Ls6zIAM_wKkwTu-xTmML-Aucg-KSrCOB6oLAL11n-sPX9rEefGBMsmC7iVBTJsDKZmWkr3jnzCeVGR-wzwiV8cGO96yfR&hl=en). Also, Google recommends installing the [Google Analytics Opt-out Browser Add-on](http://tools.google.com/dlpage/gaoptout/).
+
 ###  How we use your information
 
 Freedom uses your information to better understand your needs and provide you with better service. Freedom may share your Personal Information amongst Related Bodies Corporate of Freedom. Freedom also uses your Personal Information:
 
-  * to complete a transaction instore or online via our website.
+  * to complete a transaction in store or online via our website.
   * to deal with your queries or customer service issues promptly whether by email, telephone or mail. We may also keep information on your communications with our customer service representatives.
   * to keep you up-to-date with products, services, events or promotions we think would be of particular interest through a variety of channels. You will be able to "opt-out" from this activity at any time.
-  * to enhance your customer experience instore and online and help us complete your transactions faster. 
+  * to enhance your customer experience in store and online and help us complete your transactions faster. 
   * for planning, product development or research purposes. 
 
 
