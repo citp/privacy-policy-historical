@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the gomage.com privacy policy that was archived on 2012-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121228101816id_/http%3A//www.gomage.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gomage.com privacy policy that was archived on 2013-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130627111850id_/http%3A//www.gomage.com/privacy-policy) for the most accurate reproduction.*
 
 # GoMage - Privacy Policy
 
-## Privacy statement
+## Privacy Statement
 
 We respect the privacy of our customers and adhere to high standards of protection of our customers’ data. Any information received will be used for the sole purpose of providing services to our customers.
 
-## Information collection and use
+## Information Collection and Use
 
 At the time of purchase and/or registration of Software, you will be asked to provide personal data such as full name, email address, telephone number and company information through the website.
 
@@ -16,7 +16,7 @@ GoMage.com guarantees the confidentiality of any and all data supplied by the Us
 
 ### IMPORTANT! GOMAGE.COM DOES NOT COLLECT DATA ON PAYMENT INFORMATION SUCH AS CREDIT CARDS, PAYPAL OR CHECKING. 
 
-## How we use cookies
+## How We Use Cookies
 
 A cookie is a small file, which asks permission to be placed on your computer's hard drive. Once you agree, the file is added and the cookie helps analyse web traffic or lets you know when you visit a particular site. Generally, cookies allow web applications to respond to you as an individual. With the help of a cookie, a web application can tailor its operations to your needs, likes and dislikes by gathering and remembering information about your preferences.
 
@@ -24,11 +24,11 @@ We use traffic log cookies to identify which pages are being used. This helps us
 
 Overall, cookies help us provide you with a better website, by enabling us to monitor which pages you find useful and which you do not. A cookie in no way gives us access to your computer or any information about you, other than the data you choose to share with us. You can choose to accept or decline cookies. Most web browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies if you prefer. This may prevent you from taking full advantage of the website.
 
-## Links to other websites
+## Links to Other Websites
 
 Our website may contain links to other websites of interest. However, once you have used these links to leave our site, you should note that we do not have any control over that other website. Therefore, we cannot be responsible for the protection and privacy of any information which you provide whilst visiting such sites and such sites are not governed by this privacy statement. You should exercise caution and look at the privacy statement applicable to the website in question.
 
-## Controlling your personal information
+## Controlling Your Personal Information
 
 You may choose to restrict the collection or use of your personal information in the following ways:
 
@@ -43,7 +43,7 @@ You may request details of personal information which we hold about you under th
 
 If you believe that any information we are holding on you is incorrect or incomplete, please write to or email us as soon as possible, at the above address. We will promptly correct any information found to be incorrect.
 
-## Your personal data protection
+## Your Personal Data Protection
 
 GoMage.com takes all necessary steps to safeguard Your data including the use of specialized services to secure payment of all Software or Services purchased through the website. All confidential information transmitted and received by us from the specialized services is encrypted with the help of software that uses Secure Sockets Layer (SSL).
 
@@ -65,7 +65,7 @@ Trzcinowa str. 23/4902-446,
 Warsaw, Poland  
 +48 22 219 5064
 
-## List of cookies we collect
+## List of Cookies We Collect
 
 The table below lists the cookies we collect and what information they store.
 
