@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the overwolf.com privacy policy that was archived on 2012-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121226032504id_/http%3A//www.overwolf.com/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the overwolf.com privacy policy that was archived on 2013-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130627094101id_/http%3A//www.overwolf.com/Privacy.aspx) for the most accurate reproduction.*
 
 # 
 
@@ -12,7 +12,7 @@ Overwolf respects your right to privacy. Your ability to make informed choices a
 
 ##  Personal information 
 
-To make your Overwolf experience more personal, you may choose to (but you don’t have to!) provide us some personal information (like your email address, for example). "Personal Information" is information that can be directly associated with a specific person or entity such as a customer’s name, address, telephone number, e-mail address, credit card number, or information about activities directly linked to that person, such as his or her purchases. We collect Personal Information that you provide to us, such as when you register for Overwolf, post information in a blog or forum, or contact us for any reason. We also collect information received from third parties to the extent that they have entered into an agreement with you as a result of your relationship with Overwolf. 
+To make your Overwolf experience more personal, you may choose to (but you don’t have to!) provide us some personal information (like your email address, for example). "Personal Information" is information that can be directly associated with a specific person or entity such as a customer’s name, address, telephone number, e-mail address, credit card number, or information about activities directly linked to that person, such as his or her purchases. We collect Personal Information that you provide to us, such as when you register for Overwolf or other services via Overwolf, post information in a blog or forum, or contact us for any reason. We also collect information received from third parties to the extent that they have entered into an agreement with you as a result of your relationship with Overwolf. 
 
 If you choose to provide Personal Information (such as your name or email address) to us, we will not share this information with third parties or other Overwolf users without your explicit permission (Yes, you must approve this! If you don’t, we will not share this information), except when required by law, regulation, subpoena or court order (don’t break the law and you should be just fine). We may use Personal Information internally – for example, to help diagnose problems with our servers, to make Overwolf more useful and to customize Overwolf and personalize its content for you. 
 
@@ -44,4 +44,4 @@ Overwolf may update this Privacy Policy from time to time - we encourage you to 
 
 If you have any comments or questions about our privacy policy please [contact us](http://www.overwolf.com/Contact). 
 
-_Last updated: August 24, 2011_
+_Last updated: February 14, 2013_
