@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the theworld.org privacy policy that was archived on 2012-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121204003620id_/http%3A//www.theworld.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theworld.org privacy policy that was archived on 2013-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130627182652id_/http%3A//www.theworld.org/privacy-policy) for the most accurate reproduction.*
 
-# Privacy policy | PRI's The World
+# Privacy policy | @pritheworld
+
+## Privacy policy
 
 PRI’s The World appreciates your participation in our community, both online and offline, and assures you that your personal privacy is a priority to us. TheWorld.org web site adheres to a strict policy for ensuring the privacy of your personally identifiable information (such as full name, address, e-mail address, telephone number and/or other identifiable information) and preserving the integrity of your relationship with us online.
 
