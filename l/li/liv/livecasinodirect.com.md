@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the livecasinodirect.com privacy policy that was archived on 2012-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121220101029id_/http%3A//www.livecasinodirect.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the livecasinodirect.com privacy policy that was archived on 2013-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130627083030id_/http%3A//www.livecasinodirect.com/privacy) for the most accurate reproduction.*
 
 # Privacy policy at Live Casino Direct - online casino gambling portal
-
-## We respect your privacy and are fully committed to protecting it
 
 LiveCasinoDirect.com respects the privacy of our end users and does not collect or manage any personal data unless it has been provided to us voluntarily by the individual / company concerned.
 
