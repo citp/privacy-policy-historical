@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the lycos.co.uk privacy policy that was archived on 2012-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121224082827id_/http%3A//info.lycos.com/resources/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lycos.co.uk privacy policy that was archived on 2013-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130627143108id_/http%3A//info.lycos.com/resources/privacy-policy) for the most accurate reproduction.*
 
 # Lycos
 
-[](http://www.lycos.com/ "Lycos.com") [Survey](http://www.surveymonkey.com/s/5NHBMLY "Take our quick survey")   
+[](http://www.lycos.com/ "Lycos.com")   
 
 
 ## Resources
@@ -126,7 +126,9 @@ The Lycos Network provides its registered users the ability to access and edit t
     * Make the necessary changes and click the Update button to save your changes.
   7. ## What are the policies concerning advertising on the Lycos Network?
 
-Certain advertisements on the Lycos Network may be served by Right Media, Inc. ("Right Media"), OpenX Technologies, Inc. ("OpenX"), or Adap.tv. For more information about the privacy practices and policies of Right Media, OpenX, or Adap.tv, please click on the following links: <http://info.yahoo.com/privacy/us/biz/rightmedia/details.html>, <http://www.openx.org/about/privacy-policy>, <http://adap.tv/policy.html>
+We use third-party advertising companies to serve ads and collect information when you visit the Lycos Network. These companies may use information (not including your name, address email address or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. Third party advertisers' use of cookies is subject to their own privacy policies. If you would like more information about this practice and to know your choices about not having this information used by these companies,[ click here](http://www.networkadvertising.org/choices/)
+
+Lycos works with third-party ad serving companies, including but not limited to, Right Media, Inc. ("Right Media"), OpenX Technologies, Inc. ("OpenX"), LiveRail, and Adap.tv. For more information about the privacy practices and policies of Right Media, OpenX, LiveRail, or Adap.tv, please click on the following links: <http://info.yahoo.com/privacy/us/biz/rightmedia/details.html>, <http://www.openx.org/about/privacy-policy>, <http://www.liverail.com/privacy-policy/>, <http://adap.tv/policy.html>
 
   8. ## What is the opt-out policy for the Lycos Network?
 
