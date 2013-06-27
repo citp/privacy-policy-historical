@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lovetoknow.com privacy policy that was archived on 2012-10-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121028032312id_/http%3A//www.lovetoknow.com/lovetoknow-privacy-policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lovetoknow.com privacy policy that was archived on 2013-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130627194405id_/http%3A//www.lovetoknow.com/lovetoknow-privacy-policy.htm) for the most accurate reproduction.*
 
 # About LoveToKnow - Everything you would LoveToKnow about Buying, Babies, Video
 
