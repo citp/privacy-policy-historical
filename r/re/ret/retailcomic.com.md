@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the retailcomic.com privacy policy that was archived on 2012-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121230124431id_/http%3A//retailcomic.com/privacy-policy-and-terms-of-use) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the retailcomic.com privacy policy that was archived on 2013-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130627191106id_/http%3A//retailcomic.com/privacy-policy-and-terms-of-use) for the most accurate reproduction.*
 
 # Privacy Policy and Terms of Use | Retail Comic
 
@@ -20,7 +20,7 @@ This privacy policy only applies to the Web site operating under the URL “ **r
 
 **retailcomic.com** endeavors to maintain the security and integrity of personal information that we obtain from our users. We do not disclose personal information to any outside party except as described in this policy.
 
-**retailcomic.com** collects personally identifiable information in the form of email addresses in two instances: when you post a comment on the site, or when you contact King Features or Jonathan Mahood via one of our contact forms.
+**retailcomic.com** collects personally identifiable information in the form of email addresses in two instances: when you post a comment on the site, or when you contact King Features or Norm Feuti via one of our contact forms.
 
 When making a comment on the blog, you may choose to use a non-personally identifiable nickname as your username. Submitting your email address is required. Your email address will not be displayed anywhere on the website and is strictly for the purposes of spam protection. You may also optionally include a website URL.
 
