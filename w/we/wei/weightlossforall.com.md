@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the weightlossforall.com privacy policy that was archived on 2012-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121222062225id_/http%3A//www.weightlossforall.com//privacy-policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the weightlossforall.com privacy policy that was archived on 2013-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130627110910id_/http%3A//www.weightlossforall.com//privacy-policy.htm) for the most accurate reproduction.*
 
 # Our Privacy Policy
 
@@ -8,19 +8,3 @@ WeightLossForAll.com guarantee we will not sell, trade or share your information
 
   
 
-
-Weight Loss Tip Of The Day   
----  
-Think twice about eating cheese during your weight loss program. Check out our [calories in cheese](http://www.weightlossforall.com/calories-cheese.htm) chart.   
-  
- Food Delivery Services   
----  
-[](http://www.weightlossforall.com/affediets.php) |  [Our Review](http://www.weightlossforall.com/ediets-review.htm) |   
-[](http://www.weightlossforall.com/affmedifast.php) |  [Our Review](http://www.weightlossforall.com/medifast-diet-review.htm) |   
-[](http://www.weightlossforall.com/affbistromd.php) |  [Our Review](http://www.weightlossforall.com/bistromd-review.htm) |   
-  
- Weight Loss Tools   
----  
-[](http://www.weightlossforall.com/affjillianmichaels.php) |  [Our Review](http://www.weightlossforall.com/jillian-michaels-review.htm) |   
-[](http://www.weightlossforall.com/affsouthbeachdiet.php) |  [Our Review](http://www.weightlossforall.com/south-beach-diet-review.htm) |   
-[](http://www.weightlossforall.com/affsonoma.php) |  [Our Review](http://www.weightlossforall.com/sonoma-diet-review.htm) | 
