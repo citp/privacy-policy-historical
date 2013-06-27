@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jambase.com privacy policy that was archived on 2012-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121130092553id_/http%3A//www.jambase.com/About/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jambase.com privacy policy that was archived on 2013-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130628001409id_/http%3A//www.jambase.com/About/Privacy.aspx) for the most accurate reproduction.*
 
 # About Us > Privacy on JamBase
 
@@ -19,6 +19,10 @@ Cookies are not required in order to access JamBase, but JamBase does use cookie
 ### Security
 
 We take all reasonable steps to protect personal information and we use technology such as encryption, access control procedures, firewalls and physical security. By using this Web site or registering for any JamBase service, you agree to the terms and conditions of this Privacy Policy. Without limitation of the foregoing, you understand and agree that (1) the information collected by JamBase may be stored indefinitely, (2) JamBase may store, access and use the information in any jurisdiction, including jurisdictions in which the privacy laws may be different and less protective than those in your home jurisdiction and (3) JamBase may collect, process, use and disclose the information for a variety of purposes, including, without limitation, direct marketing by JamBase, advertisers and limited third parties to which JamBase may disclose the information.
+
+### Advertising
+
+We use third-party advertising companies to serve ads when you visit our Web site. These companies may use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please see: [How to opt out](http://www.networkadvertising.org/managing/opt_out.asp)
 
 ### Legal Compliance
 
