@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the metroid.com privacy policy that was archived on 2012-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121204012408id_/http%3A//www.nintendo.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the metroid.com privacy policy that was archived on 2013-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130627171947id_/http%3A//www.nintendo.com/privacy) for the most accurate reproduction.*
 
 # Online Privacy Policy
 
 Online Privacy Policy
 
-[Version française](https://web.archive.org/web/20121204012222id_/http://www.nintendo.com/corp/privacy_fr.jsp)
+[Version française](https://web.archive.org/web/20130627171947id_/http://www.nintendo.com/corp/privacy_fr.jsp) | [Versión española](https://web.archive.org/web/20130627171947id_/http://www.nintendo.com/corp/privacy_es.jsp) | [Versão Português](https://web.archive.org/web/20130627171947id_/http://www.nintendo.com/corp/privacy_br.jsp)
 
 Please Note: If you are looking for the Privacy Policy related to the use of Nintendo systems, please use these links: [Wii](https://web.archive.org/consumer/systems/wii/en_na/privacyPolicy.jsp), [Nintendo 3DS](https://web.archive.org/consumer/systems/3ds/en_na/gi_index.jsp?menu=documents&submenu=doc-privacy-policy), [Nintendo DSi / Nintendo DSi XL](https://web.archive.org/consumer/systems/dsi/en_na/privacyPolicy.jsp)
 
-The privacy policy listed below only applies to Nintendo's web sites. For a list of the web sites, [click here](https://web.archive.org/web/20121204012222id_/http://www.nintendo.com/corp/privacy_list.jsp). 
+The privacy policy listed below only applies to Nintendo's web sites. For a list of the web sites, [click here](https://web.archive.org/web/20130627171947id_/http://www.nintendo.com/corp/privacy_list.jsp). 
 
 Last Updated: November 2, 2011
 
@@ -111,7 +111,7 @@ You can opt out of receiving commercial email messages from Nintendo by followin
 
 In addition, if you do not want Club Nintendo to send you commercial email, regular mail, or other messages about our products and services, you can opt-out at the time you register for Club Nintendo or when the information is otherwise collected. If you have opted-in and, at a later date, wish to have your name removed from our email or regular mail databases, you can log on to Club Nintendo and update your preferences by going to My Account Settings, Newsletters, and Communications and then Communication Central.
 
-If you would like to be removed from our mailing lists at any time, please send an email to [remove@cmail.nintendo.com](mailto:remove@cmail.nintendo.com). Put the word "REMOVE" in the subject line. In the body of the email, please include your name and address and the database(s) from which you would like your information to be removed. You may also remove yourself from our mailing lists by contacting our Privacy Administrators at (888) 977-7627.
+If you would like to be removed from our mailing lists at any time, please send an email to [unsubscribe@noa.nintendo.com](mailto:unsubscribe@noa.nintendo.com). Put the word "REMOVE" in the subject line. In the body of the email, please include your name and address and the database(s) from which you would like your information to be removed. You may also remove yourself from our mailing lists by contacting our Privacy Administrators at (888) 977-7627.
 
 Please note that in some instances, despite your opt-out selections, we may send you email communications regarding transactions or services you have specifically requested or to inform you of important changes to our Website, products or policies.
 
@@ -137,6 +137,13 @@ Visitors to our Websites from outside the United States or Canada are advised th
 
 If you have any questions, complaints or comments regarding this Privacy Policy or our privacy practices, please contact the Nintendo Privacy Policy Administrators via email at [privacypolicy@noa.nintendo.com](mailto:privacypolicy@noa.nintendo.com), by phone at (888) 977-7627, or by regular mail at Nintendo, Attn: Online Privacy Policy Administrator, 4600 150th Avenue NE, Redmond WA 98052.
 
-|    
+| 
+
+  
+[](http://www.esrb.com/)  
+Nintendo of America is an official participant in the ESRB Privacy Online Program.  
+
+
+  
 [](http://www.esrb.org/confirm/nintendo-confirmation.jsp)  
 ---|---
