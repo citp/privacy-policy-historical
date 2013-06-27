@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the techmaza.in privacy policy that was archived on 2012-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121129070804id_/http%3A//techmaza.in/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the techmaza.in privacy policy that was archived on 2013-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130627191751id_/http%3A//techmaza.in/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Techmaza
+# Privacy Policy - TechMaza
 
 **Privacy Policy for[www.techmaza.in](http://techmaza.in/ "Blog About Technology and Fun")**
 
