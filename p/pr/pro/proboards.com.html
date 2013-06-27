@@ -1,17 +1,18 @@
-<!--The following is the downloaded HTML source of the proboards.com privacy policy that was archived on 2012-10-04.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121004010227id_/http%3A//www.proboards.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the proboards.com privacy policy that was archived on 2013-06-27.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130627164101id_/http%3A//proboards.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en-US"><head>
 		<meta http-equiv="content-type" content="text/html; charset=UTF-8">
 		<meta name="description" content="Click here for ProBoards' Privacy Policy.">
 		
 		<title>Privacy Policy | ProBoards</title>
-		<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script src="http://4d5.net/h/js/combined/standard.js?6"></script>
+		<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script src="//ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js"></script>
+		<script src="http://d.prbrds.com/h/js/combined/standard_50.js"></script>
 
-		<link rel="icon" type="image/x-icon" href="http://4d5.net/h/favicon.ico">
+		<link rel="icon" type="image/x-icon" href="http://d.prbrds.com/h/favicon.ico">
 		
-		<link href="http://fonts.googleapis.com/css?family=Lobster+Two:700,700italic" rel="stylesheet" type="text/css">
-		<link rel="stylesheet" href="http://4d5.net/h/css/combined/standard.css?6">
+		<link rel="stylesheet" type="text/css" href="http://fonts.googleapis.com/css?family=Lobster+Two:700,700italic">
+		<link rel="stylesheet" href="http://d.prbrds.com/h/css/combined/standard_50.css">
 		
 		<noscript><style>.accordion .accordion_content { display: block; }</style></noscript>
 
@@ -31,7 +32,8 @@
 		
 		
 		
-		<link rel="alternate" type="application/rss+xml" href="http://www.proboards.com/rss/public"><script type="text/javascript"></script>
+		<link rel="alternate" type="application/rss+xml" href="http://www.proboards.com/rss/public">
+<script type="text/javascript"></script>
 
 	<script async="true" type="text/javascript" src="https://s.adroll.com/j/roundtrip.js"></script></head>
 	<body>
@@ -57,7 +59,73 @@
 	<header>
 		<div id="logobackground">
 			<div id="logodisplay">
-				<a href="/"><img src="http://4d5.net/h/images/blank.gif" class="sprite-image image-proboards-logo" alt="ProBoards Free Forum Hosting"></a>
+				<a href="/"><img src="http://d.prbrds.com/h/images/blank.gif" class="sprite-image image-proboards-logo" alt="ProBoards Free Forum Hosting"></a>
+				<div class="welcome-bar">
+					<div id="welcome-text">
+						
+							<a href="/login" id="account-login-link">Login</a>
+						
+					</div>
+					<div id="login-form" class="hide">
+						<form id="form_lDOjgAo9" class="form_m_common::homepage_login" action="https://login.proboards.com/submit/login" method="post">
+<input type="hidden" id="form_lDOjgAo9_origin_input" name="origin" value="/account/forum"><noscript><ul class="noscript-form-error"></ul></noscript>
+							
+							<span><input type="text" id="form_lDOjgAo9_email_input" name="email" tabindex="1" placeholder="email"> <input type="password" id="form_lDOjgAo9_password_input" name="password" tabindex="2" placeholder="password"></span>
+							<span><input id="form_lDOjgAo9_login_submit_button" name="login_submit" tabindex="4" value="Login" type="submit"></span>
+							<div id="login-remember"><input type="checkbox" id="form_lDOjgAo9_remember_input" name="remember" tabindex="3" value="1"><label for="form_lDOjgAo9_remember_input"> Remember Me</label></div>
+							<a href="/forgot" id="forgot-link">Forgot Password?</a>
+						</form>
+	<script>
+	$(document).ready(function() {
+		
+		
+		$('#form_lDOjgAo9').form({
+			submit: function() {},
+			beforeSubmit: function() {},
+			validations: [{"opts":{},"name":"exists","message":"Required","field":"email"},{"opts":{},"name":"exists","message":"Required","field":"password"}],
+			errors: {},
+			positionError: 
+		function(message) {
+			input = $(this);
+			var offset = null;
+			var extraRightPadding = 5;
+			
+			originalInput = input;
+			
+			// If the input is hidden, get and use the related 
+			// temporary input which should not be hidden.
+			if(input.is(':hidden')) {
+				var name = input.attr('name') + '_temporary';
+				input = $('input[name="' + name + '"]');
+			}
+			
+			// If no releated input is found just return.
+			if(input.length == 0) return;
+			
+			offset = input.offset();
+			
+			// Set the error message
+			var error = $('.ui-form-error').text(message);
+			
+			// Get widths and heights of error and input 
+			var errorWidth = error.outerWidth();
+			var errorHeight = error.outerHeight();
+			var inputHeight = input.outerHeight();
+			var inputWidth = input.outerWidth();
+			// Calculate the positioning
+			var left = inputWidth + offset.left - errorWidth - extraRightPadding;
+			var top = offset.top + parseInt((inputHeight - errorHeight) / 2);
+			
+			error.css({ top: top + 'px', left: left + 'px' }).attr('role', 'alert').fadeIn();
+			// We focus then blur so that the placeholder re-appears for IE.
+			originalInput.focus().blur();
+		}
+	
+		});
+	});
+	</script>
+					</div>
+				</div>
 			</div>
 		</div>
 		<div id="menubackground">
@@ -80,6 +148,7 @@
 				<!--debug-print-->
 				<div id="privacy">
 					
+					
 					<h1>Privacy Policy</h1>
 					ProBoards, Inc. ("<strong>ProBoards</strong>") is committed to respecting the privacy rights of users of the Website (all capitalized terms not defined in this Privacy Policy have the same meanings as in ProBoards' <a href="/tos">Website Terms of Service</a>). ProBoards created this Privacy Policy to give You confidence as You visit and use the Website, and to demonstrate its commitment to fair information practices and to the protection of privacy.<br><br>
 
@@ -98,11 +167,20 @@ Each time You use the Website, the then-current version of this Privacy Policy w
 
 	a. <strong>Traffic Data.</strong> ProBoards may automatically gather information of the sort that browsers automatically make available, including: (i) IP addresses; (ii) domain servers; (iii) types of computers accessing the Website; and (iv) types of Web browsers accessing the Website (collectively "<strong>Traffic Data</strong>").<br><br>
 
-	b. <strong>Cookies.</strong> A "<strong>Cookie</strong>" is a string of information that a website stores on a user's computer, and that the user's browser provides to the website each time the user submits a query to the website. The purpose of a Cookie is to identify the user as a unique user of the Website. ProBoards uses Cookies to customize Your experience on the Website to Your interests, to ensure that You do not see the same advertisements or informational messages repeatedly, and to store Your password so You do not have to re-enter it each time You visit the Website. In addition, ProBoards may use Cookies, and other methods, to store and retrieve data from Your web browser. For additional information on ProBoards' uses of Cookies, see the section concerning Information Use and Disclosure Practices/Traffic Data and Information Gathered Using Cookies, below.<br><br>
+	b. "<strong>Cookies</strong>" are text files that are placed on your computer by websites that you visit or certain emails that you open.  A Cookie acts as a string of information that a website stores on a users computer, and that the users browser provides to the website each time the user submits a query to the website.  The purpose of a Cookie is to identify the user as a unique user of the Website. ProBoards uses Cookies.<br><br>
+
+	ProBoards uses cookies on the Website for the following purposes:<br><br>
+	<ul>
+		<li>to customize your experience on the Website to your interests</li>
+		<li>to ensure that you do not see the same advertisements or informational messages repeatedly, and</li>
+		<li>to store your session identifier so you do not have to re-enter it each time you visit the Website.</li>
+	</ul>
 
 	IF YOU DO NOT WISH TO HAVE COOKIES PLACED ON YOUR COMPUTER, YOU SHOULD SET YOUR BROWSERS TO REFUSE COOKIES BEFORE ACCESSING THE WEBSITE, WITH THE UNDERSTANDING THAT CERTAIN OF THE SERVICES AND CERTAIN FEATURES OF THE WEBSITE MAY NOT FUNCTION PROPERLY WITHOUT THE AID OF COOKIES. IF YOU REFUSE COOKIES, YOU ASSUME ALL RESPONSIBILITY FOR ANY RESULTING LOSS OF FUNCTIONALITY.<br><br>
 
-<a name="enhanced"></a>
+	You can learn more about how to delete or control cookies at <a href="http://www.aboutcookies.org">www.aboutcookies.org</a>.<br><br>
+
+	<a name="enhanced"></a>
 	c. <strong>Ad Serving.</strong> ProBoards uses third-parties including <a href="http://datonics.com/consumer-privacy-center" target="_blank">Datonics</a> for advertising and analytics for pages that we host. These third-parties may place cookies on Your machine, use web beacons, gather IP addresses and log data to collect traffic and activity data in order to deliver relevant metrics, content, and advertising.  Notwithstanding anything else in this policy, we or a data provider we have engaged may place or recognize a unique cookie on your browser to enable you to receive customized ads or content.   These cookies contain no personally identifiable information.  The cookies may reflect de-identified demographic or other data linked to data you voluntarily have submitted to us, e.g., your email address, that we may share with a data provider solely in hashed, non-human readable form.  Some ad networks that are a part of the Network Advertising Initiative provide an easy way to opt out of behavioral targeting by utilizing the <a href="http://www.networkadvertising.org/managing/opt_out.asp" target="_blank">NAI Opt Out page</a>.  You can also visit <a href="http://www.aboutads.info/choices" target="_blank">AboutAds.info</a> for more information and to opt-out.<br><br>
 
 	d. <strong>Personal Information.</strong>  In order for You to use certain of the Website services, You will be asked to provide ProBoards certain information that personally identifies You ("<strong>Personal Information</strong>"). Personal Information includes, without limitation: (1) "<strong>Contact Data</strong>" (such as Your e-mail address, website URLs, and instant messaging screen names); and (2) "<strong>Demographic Data</strong>" (such as Your date of birth and gender). In each case, You will be asked to provide Personal Information; the Website will not gather it surreptitiously. ProBoards may supplement the Personal Information You provide with additional Personal Information gathered from public sources or from third-parties (e.g., consumer reporting agencies) who may lawfully provide such information to ProBoards.<br><br>
@@ -172,7 +250,7 @@ From time to time, ProBoards may conduct contests, giveaways and other promotion
 
 Although most changes are likely to be minor, ProBoards reserves the right, at any time and without notice, to add to, update, change or modify this Privacy Policy, simply by posting such update, change or modification on this page. Any such addition, update, change or modification will be effective immediately upon posting on the Website. Each time You use the Website, the then-current version of this Privacy Policy will apply. Accordingly, each time You use the Website You should check the date of this Privacy Policy (which appears at the end) and review any changes since the last time You used the Website. Unless ProBoards obtains Your express consent, any revised Privacy Policy will apply only to information collected after the effective date of such revised Privacy Policy, and not to information collected under any earlier Privacy Policy.<br><br>
 
-Effective Date: September 20, 2012
+Effective Date: January 21, 2013
 					
 				</div>
 			</div>
@@ -213,7 +291,6 @@ Effective Date: September 20, 2012
 					<ul>
 						<li><a href="/forum-directory">Forum Directory</a></li>
 						<li><a href="http://support.proboards.com">Support Forum</a></li>
-						<li><a href="/forum-global-login">Global Login Beta</a></li>
 						<li><a href="/follow">Follow Us</a></li>
 					</ul>
 				</div>
@@ -245,7 +322,7 @@ Effective Date: September 20, 2012
 			<table>
 				<tbody><tr>
 					<td>
-						© 2012 ProBoards, Inc. ProBoards® is a registered trademark of ProBoards, Inc.
+						© 2013 ProBoards, Inc.  ProBoards® is a registered trademark of ProBoards, Inc.
 					</td>
 					<td class="align-right">
 						<a href="/tos">Terms of Service</a> | <a href="/privacy">Privacy</a> | <a href="/community-guidelines">Community Guidelines</a> | <a href="http://www.viglink.com/policies/ftc" target="_blank">FTC Disclosure</a> | <a href="/dmca">DMCA</a>
