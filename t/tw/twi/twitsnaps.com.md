@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the twitsnaps.com privacy policy that was archived on 2012-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121226081859id_/http%3A//www.twitsnaps.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the twitsnaps.com privacy policy that was archived on 2013-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130627095120id_/http%3A//www.twitsnaps.com/privacy_policy.php) for the most accurate reproduction.*
 
 # Privacy Policy | TwitSnaps
 
-By accessing Twitsnaps.com (this Website), you (the User) are giving your consent to our processing of your information as set forth in this Privacy Policy now and as amended by this Website from time to time. Twitsnaps.com(hereinafter referred to as This Website or the Website) respects your privacy and committed to ensure that your privacy is protected by means of protecting your Personally Identifiable Information you share with this Website. Personally Identifiable Information is information by which a person can be identified such as name, address, telephone number, SSN, e � mail ID, date of birth, Credit card information etc. Personally Identifiable Information may be received from the Users of this Website or collected through our social networking service including but not limited to collected via SMS, WAP or instant Messaging. 
+By accessing Twitsnaps.com (this Website), you (the User) are giving your consent to our processing of your information as set forth in this Privacy Policy now and as amended by this Website from time to time. Twitsnaps.com(hereinafter referred to as This Website or the Website) respects your privacy and committed to ensure that your privacy is protected by means of protecting your Personally Identifiable Information you share with this Website. Personally Identifiable Information is information by which a person can be identified such as name, address, telephone number, SSN, e-mail ID, date of birth, Credit card information etc. Personally Identifiable Information may be received from the Users of this Website or collected through our social networking service including but not limited to collected via SMS, WAP or instant Messaging. 
 
 Should this Website ask you to provide Personally Identifiable Information when using the website, you can be assured that it will only be used in accordance with this Privacy Policy.   
 This Website may without any notice or reason, update this privacy policy from time to time by updating this page. You should check this page periodically to ensure that you are comfortable with any changes. This policy was last updated on May 11th 2009. What This Website Collects   
@@ -17,11 +17,11 @@ This Website requires these information to understand your needs and provide you
 -To fulfill the services you have asked this Website to perform   
 -For internal record keeping.   
 -To improve this Website products and services.   
--This Website may periodically send promotional e - mail about new products, special offers or other information which the Website think you may find interesting using the email address which you have provided. However, you may unsubscribe yourself to such promotional e � mails through the link provided in every such e � mail itself.   
+-This Website may periodically send promotional e-mail about new products, special offers or other information which the Website think you may find interesting using the email address which you have provided. However, you may unsubscribe yourself to such promotional e-mails through the link provided in every such e-mail itself.   
 -From time to time, the Website may also use your information to contact you for market research purposes. This Website may contact you by email, phone, fax or mail. However, you may unsubscribe yourself from to this too by sending an email to contactus@twitsnaps.com   
 -This Website may use the information to customize the website according to your interests With whom This Website shares the information 
 
-As a thumb rule, This Website will not willfully disclose your Personally Identifiable Information with any third party except under following conditions �   
+As a thumb rule, This Website will not willfully disclose your Personally Identifiable Information with any third party except under following conditions -   
 -When Information is forwarded to Service Providers to fulfill the services you have asked This Website to perform.   
 -When This Website is legally compelled to provide the information to the Law Enforcement Authorities or government regulatory or administrative or similar agency as part of a judicial or administrative proceeding to disclose the Information. 
 
