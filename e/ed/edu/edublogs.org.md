@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the edublogs.org privacy policy that was archived on 2012-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121224034949id_/http%3A//edublogs.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the edublogs.org privacy policy that was archived on 2013-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130627232711id_/http%3A//edublogs.org/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy -Edublogs – education blogs for teachers, students and institutions
+# Privacy Policy -Edublogs – education blogs for teachers, students and schools
 
 Please find our [Terms of Service here](http://edublogs.org/terms-of-service/).
 
@@ -21,7 +21,7 @@ It is Edublogs’ policy to respect your privacy regarding any information we ma
 
 **Website Visitors**
 
-Like most website operators, Edublogs collects non-personally-identifying information of the sort that web browsers and servers typically make available, such as the browser type, language preference, referring site, and the date and time of each visitor request. Edublogs’s purpose in collecting non-personally identifying information is to better understand how Edublogs’s visitors use its website. From time to time, Edublogs may release non-personally-identifying information in the aggregate, e.g., by publishing a report on trends in the usage of its website.
+Like most website operators, Edublogs and our parent company, Incsub, collects non-personally-identifying information of the sort that web browsers and servers typically make available, such as the browser type, language preference, referring site, and the date and time of each visitor request. Edublogs’s purpose in collecting non-personally identifying information is to better understand how Edublogs’s visitors use its website. From time to time, Edublogs may release non-personally-identifying information in the aggregate, e.g., by publishing a report on trends in the usage of its website.
 
 Edublogs also collects potentially personally-identifying information like Internet Protocol (IP) addresses for logged in users and for users leaving comments on Edublogs.org blogs. Edublogs only discloses logged in user and commenter IP addresses under the same circumstances that it uses and discloses personally-identifying information as described below, except that blog commenter IP addresses are visible and disclosed to the administrators of the blog where the comment was left.
 
@@ -36,6 +36,20 @@ Edublogs may collect statistics about the behavior of visitors to its websites. 
 **Protection of Certain Personally-Identifying Information**
 
 Edublogs discloses potentially personally-identifying and personally-identifying information only to those of its employees, contractors and affiliated organizations that (i) need to know that information in order to process it on Edublogs’s behalf or to provide services available at Edublogs’s websites, and (ii) that have agreed not to disclose it to others. Some of those employees, contractors and affiliated organizations may be located outside of your home country; by using Edublogs’s websites, you consent to the transfer of such information to them. Edublogs will not rent or sell potentially personally-identifying and personally-identifying information to anyone. Other than to its employees, contractors and affiliated organizations, as described above, Edublogs discloses potentially personally-identifying and personally-identifying information only when required to do so by law, or when Edublogs believes in good faith that disclosure is reasonably necessary to protect the property or rights of Edublogs, third parties or the public at large. If you are a registered user of an Edublogs website and have supplied your email address, Edublogs may occasionally send you an email to tell you about new features, solicit your feedback, or just keep you up to date with what’s going on with Edublogs and our products. We primarily use our various product blogs to communicate this type of information, so we expect to keep this type of email to a minimum. If you send us a request (for example via a support email or via one of our feedback mechanisms), we reserve the right to publish it in order to help us clarify or respond to your request or to help us support other users. Edublogs takes all measures reasonably necessary to protect against the unauthorized access, use, alteration or destruction of potentially personally-identifying and personally-identifying information.
+
+**US-EU and US-Swiss Safe Harbor Framework**  
+Edublogs and our parent company, Incsub, LLC complies with the U.S.-EU Safe Harbor Framework and the U.S.-Swiss Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries and Switzerland. Incsub, LLC has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view Incsub, LLC’s certification, please visit http://www.export.gov/safeharbor/
+
+In compliance with the US-EU and US-Swiss Safe Harbor Principles, Incsub commits to resolve complaints about your privacy and our collection or use of your personal information. European Union or Swiss citizens with inquiries or complaints regarding this privacy policy should first contact Incsub at:
+
+support@edublogs.org
+
+Incsub,LLC  
+11900 Jollyville Rd. #202546  
+Austin, TX 78720  
+USA
+
+Incsub has further committed to refer unresolved privacy complaints under the US-EU and US-Swiss Safe Harbor Principles to an independent dispute resolution mechanism, the BBB EU SAFE HARBOR, operated by the Council of Better Business Bureaus. If you do not receive timely acknowledgment of your complaint, or if your complaint is not satisfactorily addressed by Incsub, please visit the BBB EU SAFE HARBOR web site at www.bbb.org/us/safe-harbor-complaints for more information and to file a complaint.
 
 **Cookies**
 
