@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the xtranormal.com privacy policy that was archived on 2012-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121106085405id_/http%3A//www.xtranormal.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the xtranormal.com privacy policy that was archived on 2013-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130627183313id_/http%3A//www.xtranormal.com/privacy) for the most accurate reproduction.*
 
 # Storytelling | Xtranormal
 
@@ -6,7 +6,7 @@
 
 Last updated on Sept 30, 2011.
 
-This privacy statement discloses the privacy practices of Xtranormal Inc. ('Xtranormal') with regard to its web site at[ ](http://www.xtranormal.com/)[www.xtranormal.com](http://www.xtranormal.com/) or other web sites owned or operated by Xtranormal (the 'Site').
+This privacy statement discloses the privacy practices of Xtranormal Technology Inc. ('Xtranormal') with regard to its web site at[ ](http://www.xtranormal.com/)[www.xtranormal.com](http://www.xtranormal.com/) or other web sites owned or operated by Xtranormal (the 'Site').
 
 Xtranormal recognizes that its customers, visitors, users and others who use the Sites (collectively or individually (the 'Users') value their privacy. This Privacy Policy is incorporated and subject to the Terms of Service. Your use of the Sites and any personal information you provide on the Site remain subject to the terms of this Privacy Policy and our Terms of Service.
 
@@ -93,7 +93,7 @@ Protecting the privacy of young children is especially important. For that reaso
 
 Questions, comments or accessing or updating your personal information:
 
-If you have any questions or comments about Xtranormal privacy policy, would like to advise us how you would like your personal information not to be used or disclosed, or would like to access or update your personal information, please e-mail customer support. You can also write at Xtranormal Inc. 222 Sutter Street, Suite 450, San Francisco, CA 94108, attention: support. Please note that certain information is required by Xtranormal to process payment and fulfill any orders that you may place through the Site, and if you withdraw your consent to the collection, use or disclosure of your personal information for these purposes, then Xtranormal will not be able to give you the services you wish to obtain.
+If you have any questions or comments about Xtranormal privacy policy, would like to advise us how you would like your personal information not to be used or disclosed, or would like to access or update your personal information, please e-mail customer support. You can also write at Xtranormal Technology Inc. 5555 Avenue Casgrain, Montreal, QC H2T 1Y1 Canada, attention: support. Please note that certain information is required by Xtranormal to process payment and fulfill any orders that you may place through the Site, and if you withdraw your consent to the collection, use or disclosure of your personal information for these purposes, then Xtranormal will not be able to give you the services you wish to obtain.
 
 In the event of Merger, sale or bankruptcy:
 
@@ -113,7 +113,7 @@ Last updated on Sept 30, 2011.
 
 Our Commitment to Privacy
 
-Xtranormal Inc. is committed to maintaining the security, confidentiality and privacy of your personal information. This is our Privacy Policy. It documents our on-going commitment to you and has been developed in compliance with the The Children's Online Privacy Protection Act, (COPPA).
+Xtranormal Technology Inc. is committed to maintaining the security, confidentiality and privacy of your personal information. This is our Privacy Policy. It documents our on-going commitment to you and has been developed in compliance with the The Children's Online Privacy Protection Act, (COPPA).
 
 Scope of Policy
 
@@ -169,11 +169,11 @@ We will, on request, provide information regarding our complaint procedure.
 
 Any inquiries, complaints or questions regarding this Policy should be directed in writing to our Privacy Officer as follows:
 
-Jonathan Weiss  
 Privacy Officer  
-Xtranormal Inc.  
-222 Sutter Street, Suite 450  
-San Francisco, CA 94108  
+Xtranormal Technology Inc.  
+5555 Avenue Casgrain  
+Montreal, QC H2T 1Y1  
+Canada  
 
 
 [privacy@xtranormal.com](mailto:privacy@xtranormal.com)
