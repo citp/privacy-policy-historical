@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lauraingraham.com privacy policy that was archived on 2012-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121230183426id_/http%3A//www.lauraingraham.com/pg/jsp/help/general/privacypolicy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lauraingraham.com privacy policy that was archived on 2013-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130627160027id_/http%3A//www.lauraingraham.com/pg/jsp/help/general/privacypolicy.jsp) for the most accurate reproduction.*
 
 # LauraIngraham.com: Privacy Policy
 
