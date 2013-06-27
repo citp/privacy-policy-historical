@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the entertainmentcareers.net privacy policy that was archived on 2012-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121106083012id_/http%3A//www.entertainmentcareers.net/sbjobs/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the entertainmentcareers.net privacy policy that was archived on 2013-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130627090148id_/http%3A//www.entertainmentcareers.net/jobseeker/privacy.asp) for the most accurate reproduction.*
 
-# Entertainment Jobs and Internships - Entertainment Careers.Net
+# Privacy Policy
+
+Privacy Policy
 
 **What information do we collect?**
 
@@ -91,5 +93,3 @@ support@entertainmentcareers.net
 310-442-0200
 
 This policy is powered by Trust Guard PCI compliance.
-
-| 
