@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the blabbermouth.net privacy policy that was archived on 2012-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121224161725id_/http%3A//www.blabbermouth.net/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the blabbermouth.net privacy policy that was archived on 2013-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130627083144id_/http%3A//blabbermouth.net/privacy.aspx) for the most accurate reproduction.*
 
 # BLABBERMOUTH.NET
 
@@ -104,7 +104,7 @@ Our TOS provides for us to obtain certain rights in the information and material
 
 How to Contact Blabbermouth.net 
 
-If you have any questions regarding this Policy, or if you believe that your login or other personal information is no longer secure (for example, if you believe someone is using your password without your permission) please contact us by e-mail at bmouth@bellatlantic.net. You may also contact us by writing to: 
+If you have any questions regarding this Policy, or if you believe that your login or other personal information is no longer secure (for example, if you believe someone is using your password without your permission) please contact us by e-mail at blabbermouthinbox@gmail.com. You may also contact us by writing to: 
 
 BLABBERMOUTH.NET  
 P.O. Box 8200  
