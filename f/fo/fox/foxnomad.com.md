@@ -1,10 +1,6 @@
-> *The following text is extracted and transformed from the foxnomad.com privacy policy that was archived on 2012-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121202172912id_/http%3A//www.foxnomad.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the foxnomad.com privacy policy that was archived on 2013-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130627142804id_/http%3A//www.foxnomad.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - foXnoMad
-
-Browse >
-
-[Home](http://foxnomad.com/ "Browse to: Home") / Privacy Policy - foXnoMad 
+# Privacy Policy | foXnoMad
 
 **Your Privacy**  
 Your privacy is important to us. To better protect your privacy we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used. To make this notice easy to find, we make it available on our homepage and at every point where personally identifiable information may be requested.
@@ -18,3 +14,5 @@ Other Third Party ad servers or ad networks may also use cookies to track users 
 
 **Links to third party Websites**  
 We have included links on this site for your use and reference. We are not responsible for the privacy policies on these websites. You should be aware that the privacy policies of these sites may differ from our own.
+
+[](http://feeds2.feedburner.com/Foxnomad)
