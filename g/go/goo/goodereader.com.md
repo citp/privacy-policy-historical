@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the goodereader.com privacy policy that was archived on 2012-09-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120930231325id_/http%3A//goodereader.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the goodereader.com privacy policy that was archived on 2013-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130627095023id_/http%3A//goodereader.com/privacy.html) for the most accurate reproduction.*
 
 # Good e-Reader Privacy Policy
 
@@ -54,7 +54,3 @@ If you believe that any information we are holding on you is incorrect or incomp
 
   
 
-
-At Good e-Reader we are the leading authority on e-Readers and Tablet PC's! We do tons of hands on reviews, previews, videos and tutorials on our Blog! If you are into ebooks and digital publishing we are one of the best sources on the internet for the latest news. We feature Best Selling Authors every week in our new segment "ebook of the week"
-
-If you just got a e-reader or thinking about
