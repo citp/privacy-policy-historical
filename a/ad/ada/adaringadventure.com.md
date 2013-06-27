@@ -1,9 +1,11 @@
-> *The following text is extracted and transformed from the adaringadventure.com privacy policy that was archived on 2012-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121224131514id_/http%3A//www.adaringadventure.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adaringadventure.com privacy policy that was archived on 2013-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130627102937id_/http%3A//www.adaringadventure.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - A Daring Adventure
 
 [](http://www.adaringadventure.com/)  
   
+[](http://www.adaringadventure.com/contact/)
+
 [](http://www.adaringadventure.com/aligning-with-your-core-values/)
 
 ### Sign Up For Tim’s Newsletter 
@@ -32,11 +34,11 @@ These third-party ad servers or ad networks use technology to the advertisements
 
 [www.adaringadventure.com](http://www.adaringadventure.com/) has no access to or control over these cookies that are used by third-party advertisers.
 
-You should consult the respective privacy policies of these third-party ad servers for more detailed information on their practices as well as for instructions about how to opt-out of certain practices. [www.adaringadventure.com’s](http://www.adaringadventure.com%27s/) privacy policy does not apply to, and we cannot control the activities of, such other advertisers or web sites.
+You should consult the respective privacy policies of these third-party ad servers for more detailed information on their practices as well as for instructions about how to opt-out of certain practices. [www.adaringadventure.com’s](http://www.adaringadventure.com/) privacy policy does not apply to, and we cannot control the activities of, such other advertisers or web sites.
 
 If you wish to disable cookies, you may do so through your individual browser options. More detailed information about cookie management with specific web browsers can be found at the browsers’ respective websites.  
   
 [HOME](http://adaringadventure.com/) | [ABOUT](http://www.adaringadventure.com/about/) | [LIFE COACHING](http://www.adaringadventure.com/life-coaching-5/) | [TESTIMONIALS](http://www.adaringadventure.com/testimonials/) | [RATES](http://www.adaringadventure.com/rates/) | [FAQS](http://www.adaringadventure.com/faqs/)| [CONTACT](http://www.adaringadventure.com/contact/)| [STORE](http://www.adaringadventure.com/freestuff/) | [BLOG](http://www.adaringadventure.com/blog/)  
 [Website Support](http://www.mindcue.com/) by Mindcue
 
-© 2012 | [Terms of Use](http://www.adaringadventure.com/web-site-terms-conditions-of-use/) | [Privacy Policy](http://www.adaringadventure.com/privacy-policy/) | [Legal](http://www.adaringadventure.com/legal/) | [Admin](http://www.adaringadventure.com/wp-login.php)
+© 2013 | [Terms of Use](http://www.adaringadventure.com/web-site-terms-conditions-of-use/) | [Privacy Policy](http://www.adaringadventure.com/privacy-policy/) | [Legal](http://www.adaringadventure.com/legal/) | [Admin](http://www.adaringadventure.com/wp-login.php)
