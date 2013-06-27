@@ -1,14 +1,10 @@
-> *The following text is extracted and transformed from the ezthemes.com privacy policy that was archived on 2012-09-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120919231540id_/http%3A//www.ezthemes.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ezthemes.com privacy policy that was archived on 2013-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130627094810id_/http%3A//ezthemes.com/privacy.php) for the most accurate reproduction.*
 
 # EZthemes: Desktop Themes and more.... Privacy Page.
 
- Translate EZthemes.com
-
- Windows 8 News
+ Windows 8 Stuff
 
  Categories
-
- Our Friends
 
 |  |  | 
 
@@ -45,12 +41,3 @@
 
   
 | 
-
- Love Us?
-
-|   **Like Us?,** |   
----|---  
-  **Love Us?**  
-  **Google +1 Us!**  
-  
- Search
