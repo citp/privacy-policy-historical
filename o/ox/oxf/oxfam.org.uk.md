@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the oxfam.org.uk privacy policy that was archived on 2012-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121126231608id_/http%3A//www.oxfam.org.uk/privacy-and-security) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the oxfam.org.uk privacy policy that was archived on 2013-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130627025804id_/https%3A//www.oxfam.org.uk/privacy-and-security) for the most accurate reproduction.*
 
 # Website privacy and security | Oxfam GB
 
@@ -100,7 +100,7 @@ Please address requests and questions about this or any other question about thi
 
 a. What is a cookie?
 
-Cookies are small text files on your device.  They are made by your web-browser when you visit a website.  Every time you go back to that website, your browser will send the cookie file back to the website's server.  Cookies are useful because they allow a website to recognise a user's device.  You can find more information about cookies at: [www.allaboutcookies.org](http://www.allaboutcookies.org/) and [www.youronlinechoices.eu](http://www.youronlinechoices.eu/). For a video about cookies visit [https://www.google.co.uk/goodtoknow/data-on-the-web/cookies](http://www.google.co.uk/goodtoknow/data-on-the-web/cookies)
+Cookies are small text files on your device.  They are made by your web-browser when you visit a website.  Every time you go back to that website, your browser will send the cookie file back to the website's server.  Cookies are useful because they allow a website to recognise a user's device.  You can find more information about cookies at: [www.allaboutcookies.org](http://www.allaboutcookies.org/) and [www.youronlinechoices.eu](http://www.youronlinechoices.eu/). For a video about cookies visit <http://www.google.co.uk/goodtoknow/data-on-the-web/cookies>
 
 Cookies do lots of different jobs, like letting you navigate between pages efficiently, remembering your preferences, and generally improving the user experience.
 
