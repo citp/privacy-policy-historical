@@ -1,12 +1,22 @@
-> *The following text is extracted and transformed from the interrailnet.com privacy policy that was archived on 2012-10-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121023181014id_/http%3A//www.interrailnet.com/terms-and-conditions/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the interrailnet.com privacy policy that was archived on 2013-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130627101313id_/http%3A//www.interrail.eu/terms-and-conditions/privacy-policy) for the most accurate reproduction.*
 
-# InterRailnet.com Privacy Policy
+# InterRail.eu Privacy Policy
 
-At InterRailNet.com, we are committed to protecting the online privacy of visitors to our website. This Policy applies only to the website and online services provided by InterRailNet.com (hereafter referred to as "InterRail"). The purpose of this Policy is to inform you about the types of information we gather about you when you visit our website, how we may use that information, and how we disclose it to third parties.
+At InterRail.eu (formerly known as InterRail.eu), we are committed to protecting the online privacy of visitors to our website. This Policy applies only to the website and online services provided by InterRail.eu (hereafter referred to as "InterRail"). The purpose of this Policy is to inform you about the types of information we gather about you when you visit our website, how we may use that information, and how we disclose it to third parties.
 
 InterRail adheres to and is in compliance with the Safe Harbor Privacy Principles developed in coordination with the European Union's Directive on Data Protection and the U.S. Department of Commerce.
 
-### I. Information That We Collect
+**Topics on this page**
+
+  * Information that we collect ↓
+  * How we use the information we collect ↓
+  * Disclosure of information to third parties ↓
+  * Security of the information we collect ↓
+  * Accuracy of the information we collect ↓
+
+
+
+### Information that we collect
 
 **Personal Information**  
 At various locations on our websites, such as in our order forms (and potentially surveys and polls), we may request that you supply us with "personal information," such as your name, email address, mailing and shipping addresses, home or work telephone number, and/or credit card information. You will always know when we are collecting personal information, because we only collect personal information when you voluntarily submit it to us through our online forms and questionnaires. Although you do not have to provide us with any information to visit our websites, you may not be able to fully utilize all of the services on our websites if you choose not to provide certain information. If you do choose to give us personal information through our websites, we will collect and retain that information.
@@ -18,10 +28,49 @@ When you use our websites, we may also collect "non-personal information," which
 We collect personal information from you when you purchase products from our online order process. For example, we require you to provide your name, contact information, shipping and billing addresses, and a credit card number before we process your orders. We also collect information about your transactions with us. We may use the information that you provide to communicate with you about products purchased through our online service, to provide customer support in connection with those products.
 
 **Cookies**  
-We use "cookies" to enhance your visits to our websites. A cookie is a small amount of data that is sent to your browser from a web server and stored on your computer's hard drive. Cookies do not store personal information about you, unless you knowingly provide it. Cookies can store non-personal information, such as what websites, or pages your browser has accessed. We use cookies to store information and personalize your experience with our websites. For example, cookies allow our websites to recognize your browser as a previous visitor, and thus save and remember any preferences that may have been set while you were previously browsing our websites. Our cookies can also store information you have placed in a "shopping cart."  
-You do have control over cookies. Most browsers can be set to notify you when a cookie is being placed on your computer. Most browsers can also be set to refuse to accept cookies, although this may affect your Internet experience. You can also erase cookies that are already on your computer. For more information about working with cookies, you should consult your user manual, FAQ, or "help" function of your specific browser and operating system software.
+A cookie is a small data file that is sent from a web server to your browser and stored on your computer. Websites normally use cookies in order to give you the best user experience. At interrail.eu we do not use cookies to store any personal information. We use cookies to personalize your experience of our website. For example, cookies allow our website to recognise you as a previous visitor and thus remember your language preferences and what you have added to your shopping cart.
 
-### II. How We Use the Information We Collect
+We use the following cookies:
+
+**Category** | **Cookie name** | **Purpose** | **Lifespan***  
+---|---|---|---  
+Strictly necessary cookies.  
+( _First-party cookies_ )  
+  | Shopping cart 
+
+Language notification  
+ 
+
+| These cookies are strictly necessary and allow the user to navigate around the website and use all its features. | 23 days 
+
+  
+3 months  
+   
+  
+Performance cookies and analytics.  
+( _Third-party cookies_ ) | Google Analytics 
+
+Visual Website Optimiser
+
+ClickTale | These cookies are used for analytical, research or statistical purposes in order to improve the website experience. By using these cookies, more relevant information can be shown to visitors. | 
+
+270 days
+
+100 days
+
+1 year  
+  
+*The lifespan is the period of time that the cookie remains on your computer.
+
+You have control over the cookies stored on your computer. Most browsers can be set to notify you when a cookie is being placed on your computer. Most browsers can also be set to refuse cookies, although this may affect your Internet experience. You can also delete existing cookies from your computer at any time. For more information about cookies, you should consult the user manual, FAQ or help function of your specific browser and operating system software.
+
+You can find more information about cookies by visiting: [www.allaboutcookies.org](http://www.allaboutcookies.org/).
+
+This site uses ClickTale web analytics service. ClickTale may record mouse clicks, mouse movements, scrolling activity as well as text you type in this website. This site does not use ClickTale to collect any personally identifiable information entered in this website. ClickTale does not track your browsing habits across web sites which do not use ClickTale services. For more information see [Privacy Policy for Information Collected by the ClickTale Web Analytics Service](http://www.clicktale.com/privacy_service.aspx). We are using the information collected by ClickTale service to optimize the user experience of our site. You can choose to disable the service at: [http://www.clicktale.net/disable.html ](http://www.clicktale.net/disable.html)
+
+Back to top of page ↑
+
+### How we use the information we collect
 
 **Our Services and Websites**  
 We use your personal information to provide you any services that you may request or require, to communicate with you, to allow you to make purchases. We use aggregated non-personal information about our users to understand our website's demographics, such as the geographic distribution of our users, the age ranges of our users, or a combination of these or other demographics. We use the non-personal information we collect to analyze how our websites are being used, and to improve the content of our websites, online product offerings, and promotional efforts.
@@ -33,7 +82,9 @@ If you send us an email with questions or comments, we may use your personal inf
 If you make a purchase through our online ordering service, we may use the information you provide to send you important announcements and updates regarding our website or online service. In those instances, we will provide you with the option to change your preferences and opt-out of receiving those communications.  
 When you provide us with your personal information to make a purchase through our online ordering, we only use this information to process your online order and credit card number. We also use your address and billing information to bill you and provide associated support.
 
-### III. Disclosure of Information to Third Parties
+Back to top of page ↑
+
+### Disclosure of information to third parties
 
 Except as specifically set forth in this Policy, we do not share your personal information with any non-affiliated third party without your permission. We may disclose aggregate information, such as demographic information, and our statistical analyses to third parties. This aggregate information does not include your personal information.  
 Our websites may contain links to other websites. We have no control over the privacy practices or the content of any of our business partners, sponsors or other websites to which we provide links from our websites. You should check the applicable Privacy Policy of the third-party website when linking to other websites.
@@ -43,18 +94,24 @@ We sometimes engage unaffiliated businesses to assist us in providing you certai
 **Other Disclosures**  
 We may disclose personal information when we are required or requested to do so by law, court order or other government or law enforcement authority or regulatory agency; to enforce or apply our rights and agreements; or when we believe in good faith that disclosing this information is necessary or advisable, including, for example, to protect the rights, property, or safety of InterRail, our users, or others. This includes exchanging information with other companies and organizations for fraud protection and credit risk reduction.
 
-### IV. Security of the Information We Collect
+Back to top of page ↑
+
+### Security of the information we collect
 
 The security of your personal information is important to us. We maintain physical, electronic, and procedural safeguards to secure your personal information. However, "perfect security" does not exist on the Internet, and there is always some risk in transmitting information electronically. This website takes every precaution to protect our users' information. When users submit sensitive information via the website, your information is protected both online and off-line.
 
 When our registration/order form asks users to enter sensitive information (such as credit card number), that information is encrypted and is protected with the best encryption software in the industry, SSL (Secure Sockets Layer). The site employs SSL via a digital certificate issued by Verisign.
 
-If you have any questions about the security at our website, you can send an email to our [customer service](http://www.interrailnet.com/contact).
+If you have any questions about the security at our website, you can send an email to our [customer service](http://www.interrail.eu/support/contact).
 
-### V. Accuracy of the Information We Collect
+Back to top of page ↑
 
-Any questions you may have regarding our Privacy Policy, the accuracy of your personal information or the use of your personal information, or any requests that we correct, update, or remove your information in our databases, should be directed via email to [customer service](http://www.interrailnet.com/contact).
+### Accuracy of the information we collect
+
+Any questions you may have regarding our Privacy Policy, the accuracy of your personal information or the use of your personal information, or any requests that we correct, update, or remove your information in our databases, should be directed via email to [customer service](http://www.interrail.eu/support/contact).
 
 After receiving a request to change your information, we will make reasonable efforts to ensure that all of your personal information stored in databases we actively use to operate our website will be updated, corrected, changed or deleted, as appropriate, as soon as reasonably practicable. However, we reserve the right to retain in our archival files any information we remove from or change in our active website databases. We may retain such information to resolve disputes, troubleshoot problems and enforce our terms of use.
 
 This Policy is effective as of April 1, 2007. We reserve the right to change this Policy at any time, and will post any changes to this Policy as soon as they go into effect. Please refer back to this Policy on a regular basis.
+
+Back to top of page ↑
