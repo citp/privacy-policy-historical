@@ -1,29 +1,54 @@
-> *The following text is extracted and transformed from the insidethetravellab.com privacy policy that was archived on 2010-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101231225637id_/http%3A//www.insidethetravellab.com/small-print/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the insidethetravellab.com privacy policy that was archived on 2013-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130627154712id_/http%3A//www.insidethetravellab.com/website-privacy-cookies) for the most accurate reproduction.*
 
-# Privacy Policy | Cultural Travel & Adventure
+# Website Privacy & Cookies
 
-## Privacy Policy
+This page describes how we treat the information provided by visitors, what other information we gather and how we use it, why we sometimes need to store “cookies” and how to prevent this. 
 
-[](http://www.flickr.com/photos/bohman/210977249/)The Short Version
+In common with almost all professionally run websites, this website logs the IP address of each visitor in order to keep it running reliably. This is also essential for protecting the website and its visitors from malicious attacks, including infection with malware. 
 
-A) I don’t collect any personal information about you. If you leave a comment, I ask you to enter a valid email address as a way of keeping spammers away from the site.
+This website provides information as a service to vistors such as yourself, and to do this reliably and efficiently, it sometimes places small amounts of information on your computer or device (e.g. mobile phone). This includes small files known as cookies. 
 
-B) I wouldn’t know how to
+The cookies stored by this website cannot be used to identify you personally. 
 
-C) I wouldn’t want to. I’d rather spend my time planning my next unusual journey…
+## How Cookies Are Used
 
-However.
+We use cookies to understand what pages and information visitors find useful, and to detect problems such as broken links, or pages which are taking a long time to load. 
 
-The Longer Version – Privacy on the Web in General
+We sometimes use cookies to remember a choice you make on one page, when you have moved to another page if that information can be used to make the website work better. For example: 
 
-[](http://www.flickr.com/photos/visualpanic/2137900541/)Advertisers and affiliates may collect information about you if you complete a survey or other request for personal information.
+  * avoiding the need to ask for the same information several times during a session (e.g. when filling in forms), or
+  * remembering that you have logged in, so that you don’t have to re-enter your username and password on every page.
 
-“Cookies” may store information in your temporary internet files to monitor traffic and to work out which site you visited after this one. This won’t identify you personally. A common example of a cookie is one which offers to remember your password when you visit a site.
 
-Whenever you visit any website, certain information gets logged. This includes inf ormation such as what browser you’re using (Internet Explorer vs Firefox, for example), which country you’re in and how long you stay on the site.
 
-I cannot tell who you are from this information.
+## Cookies for Google Analytics
 
-For Extra Security
+We use analytics to measure how many visitors are using the website, which pages interest them and so on, and this involves storing the following cookies: 
 
-You can disable or delete cookies and temporary internet files. See your browser help for more information. Be warned, however, that you can mess a few things up if you don’t know what you’re doing.
+Name: _utma  
+Typical content: randomly generated number  
+Expires: 2 years 
+Name: _utmb  
+Typical content: randomly generated number  
+Expires: 30 minutes 
+Name: _utmc  
+Typical content: randomly generated number  
+Expires: when user exits browser 
+Name: _utmz  
+Typical content: randomly generated number + info on how the site was reached (e.g. directly or via a link, organic search or paid search)  
+Expires: 6 months 
+
+
+For more information [Google Analytics ](http://www.google.com/analytics/ "opens in a new window")website.
+
+## Disabling Cookies
+
+You can prevent the setting of cookies by adjusting the settings on your browser (see your browser Help for how to do this). Be aware that disabling cookies will affect the functionality of this and many other websites that you visit.
+
+## Personal data
+
+Personal information that you submit to us through this website will only be used for the purposes we solicited it. For example, to respond to an enquiry, and will not be used for any other purpose without your consent. We will never pass it on to any third party without your consent, unless legally required to do so.
+
+## Other Websites
+
+The information on this page applies only to **this website** and not to other sites linked to from these pages.
