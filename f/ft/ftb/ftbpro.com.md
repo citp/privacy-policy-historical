@@ -1,14 +1,13 @@
-> *The following text is extracted and transformed from the ftbpro.com privacy policy that was archived on 2012-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121210175322id_/http%3A//www.ftbpro.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ftbpro.com privacy policy that was archived on 2013-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130627164932id_/http%3A//www.ftbpro.com/privacy) for the most accurate reproduction.*
 
-# - FTBpro
+# Privacy Policy - FTBpro
 
-**Privacy Policy**
+******Last modified on October 11 th, 2012.******
 
- **Last modified on October 11th, 2012.**
+ **  
 
- **
 
-We understand you want to keep your information private, and that you value our emphasis on keeping your information safe and discrete. As a result we have drafted the following privacy policy (the "Policy") which ensures that you are adequately notified as to the ways in which we collect and use your information. This Policy is designed to help you decide whether to use the Service and in what manner, by outlining the restrictions we take upon ourselves in gathering, storing and using your information.
+We understand you want to keep your information private, and that you value our emphasis on keeping your information safe and discrete. As a result we have drafted the following privacy policy (the "Policy") which ensures that you are adequately notified as to the ways in which we collect and use your information. This Policy is designed to help you decide whether to use the Service and in what manner, by outlining the restrictions we take upon ourselves in gathering, storing and using your information. 
 
 This Policy is incorporated into, subject to and a part of the Service's Terms of Use. If you do not agree to this Policy, you may not and should not use the Service. The definitions in the Service's Terms of Use apply to this Policy unless stated otherwise.
 
@@ -99,11 +98,11 @@ The following third parties may place cookies on your browser (to learn more abo
   
 
 
-  * Google Analytics (<http://www.google.com/intl/en/policies/privacy>)
+  * Google Analytics ([http://www.google.com/intl/en/policies/privacy](http://www.google.com/intl/en/policies/privacy))
 
-  * Facebook ([https://www.facebook.com/help/cookies?ref_type=sitefooter](http://www.google.com/intl/en/policies/privacy))
+  * Facebook ([https://www.facebook.com/help/cookies?ref_type=sitefooter](https://www.facebook.com/help/cookies?ref_type=sitefooter))
 
-  * Uservoice ([http://www.uservoice.com/privacy/](http://www.google.com/intl/en/policies/privacy))
+  * Uservoice ([http://www.uservoice.com/privacy/](http://www.uservoice.com/privacy/))
 
 
 
