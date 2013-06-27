@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the aftermarket.com privacy policy that was archived on 2012-11-12.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121112131719id_/http%3A//www.aftermarket.com/legal/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the aftermarket.com privacy policy that was archived on 2013-06-27.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130627172509id_/http%3A//www.aftermarket.com/legal/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xmlns:og="http://ogp.me/ns#" xmlns:fb="http://www.facebook.com/2008/fbml" xml:lang="en" lang="en"><head>
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -12,8 +12,13 @@
 	var OTHER_NETWORK_LOGIN_REDIRECT_URL = '/other-network-login-redirect';
 	
 	//document.domain = 'aftermarket.com';
+	
+	<!-- Replace [SITE_SUBDOMAIN] with the subdomain of a Site created in your OneAll account: https://app.oneall.com/ //-->
+	var oneall_js_protocol = (("https:" == document.location.protocol) ? "https" : "http");
+	document.write(unescape("%3Cscript src='"+oneall_js_protocol+"://aftermarket.api.oneall.com/socialize/library.js' type='text/javascript'%3E%3C/script%3E"));
+	
 //]]>
-</script>
+</script><script src="https://aftermarket.api.oneall.com/socialize/library.js" type="text/javascript"></script>
 
 
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
@@ -30,21 +35,48 @@
 
 <link rel="shortcut icon" href="/favicon.ico">
 
-<script type="text/javascript" src="/js/optimized.js?1350428357"></script>
-<script type="text/javascript" src="/js/jquery-ui.js"></script>
-<script type="text/javascript" src="/js/jquery.colorbox-min.js"></script>
-<link rel="stylesheet" type="text/css" media="screen" href="/css/optimized.css?1350428357">
+<script type="text/javascript" src="/js/optimized.js?1372212382"></script>
+<link rel="stylesheet" type="text/css" media="screen" href="/css/menu_black.css">
+<link rel="stylesheet" type="text/css" media="screen" href="/css/grid.css">
+<link rel="stylesheet" type="text/css" media="screen" href="/css/overlay.css">
+<link rel="stylesheet" type="text/css" media="screen" href="/css/jquery.ui.stars.css">
+<link rel="stylesheet" type="text/css" media="screen" href="/css/smoothness/jquery-ui.css">
 <link rel="stylesheet" type="text/css" media="screen" href="/css/colorbox/colorbox.css">
+<link rel="stylesheet" type="text/css" media="screen" href="/css/main.css">
+<link rel="stylesheet" type="text/css" media="screen" href="/css/forms.css">
 
-<!--[if lt IE 8]><link rel="stylesheet" href="/css/blueprint/ie.css" type="text/css" media="screen, projection"><![endif]-->
+<!--[if lt IE 8]>
+<link rel="stylesheet" href="/css/blueprint/ie.css" type="text/css" media="screen, projection">
+<![endif]-->
+<!--[if ie 9]>
+<style type="text/css" media="screen">
+.button-action, .button-action:hover, .button-action.secondary, .button-action.secondary:hover, .button-action.tertiary, .button-action.tertiary:hover {
+	filter: none;
+}
+body .info-table .title {
+	filter: none;
+}
+</style>
+<![endif]-->
+<!--[if lt IE 9]>
+<style type="text/css" media="screen">
+.tooltip {
+	background: transparent;
+	
+	filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src='/images/layout/tooltip_black_arrow_top.png', sizingMethod='scale');
+
+	-ms-filter: "progid:DXImageTransform.Microsoft.AlphaImageLoader(src='/images/layout/tooltip_black_arrow_top.png', sizingMethod='scale')";
+}
+</style>
+<![endif]-->
 	
 	<!-- Google Analytics -->
 	<script type="text/javascript">
 		
 	  var _gaq = _gaq || [];
 	
-		function analyticsPush(cat, action, label, value, count) {
-							_gaq.push([cat, action, label, value, count]);
+	  	function analyticsPush(eventType, category, action, label, value) {
+							_gaq.push([eventType, category, action, label, value]);
 					}
 		
 				
@@ -63,116 +95,151 @@
 	    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
 	    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
 	  })();
-	
 	</script>
-
-</head>
-
+			<script src="//cdn.optimizely.com/js/173014402.js"></script>
+	</head>
 <body id="page_legal_privacy-policy">
+		
+
+	<div><hr id="page-separator"></div>
 	
-
-
-	<div id="signup-dropdown">
-
-		<div class="close"></div>
-
-		<map name="signup-map">
-			<area shape="poly" coords="116,53,82,47,49,56,27,76,14,101,11,130,19,152,116,53" href="/login" alt="Log In">
-			<area shape="poly" coords="139,71,151,90,159,119,153,151,142,169,118,187,87,194,59,190,35,175,139,71" href="/signup" alt="Signup for Aftermarket.com">
-			<area shape="poly" coords="149,47,144,49,141,54,141,60,146,64,153,64,157,61,159,56,157,50,154,48,149,47" href="/signup" alt="Close">
-		</map>
-	
-		<img usemap="#signup-map" src="/images/layout/button-loginsignup_cta.png">	</div>
-
+			
 	<div id="body_wrapper" class="container showgrid1">
 		
 		<div id="header" class="span-22 last">
 			
-			<div id="logo" class="span-12">
-				<div><a href="/">aftermarket.com</a></div>
-			</div>
+			<div id="logo" class="span-6">
+			    <a href="/"><img src="/images/layout/header_logo.png"></a>			</div>
 			
-			<div class="span-10 last">
-			
-				<div id="user_info_header">
-									<div id="login_wrapper">
-										
-						<form action="https://www.aftermarket.com/login" method="post" id="loginForm">
-
-	<fieldset>
-
-		<input type="hidden" name="signin[_csrf_token]" value="09f6788e8cd0caa0a0da8ede825c9487" id="signin__csrf_token">	
-		<input type="text" name="signin[username]" id="signin_username">		<input type="password" name="signin[password]" id="signin_password">	
-		<input type="hidden" name="signin[referrer]" value="http://www.aftermarket.com/legal/privacy-policy" id="signin_referrer">	
-	  	<input type="submit" value="Login">
-
-		<br>
-
-		<div id="remember_me"><input type="checkbox" name="signin[remember]" id="signin_remember"> <label>remember me</label></div>
-		<div id="forgot_password">
-			<a href="/reset-password">forgot password</a> | 
-			<a href="/forgot-username">forgot username</a>		</div>
-
-  	</fieldset>
-</form>					
 						
-				</div>
+						<script type="text/javascript">
+  /* Build the nav menu with the mbMenu plugin */
+  $(function(){
+    $(".main-menu").buildMenu(
+    {
+      menuWidth:200,
+      openOnRight:false,
+      menuSelector: ".menuContainer",
+      iconPath:"http://www.aftermarket.com/images/menu_icons/",
+      hasImages:true,
+      fadeInTime:100,
+      fadeOutTime:300,
+      adjustLeft:2,
+      minZindex:"auto",
+      adjustTop:10,
+      menuTop:-1,
+      opacity:1.0,
+      shadow:false,
+      shadowColor:"#ccc",
+      hoverIntent:0,
+      openOnClick:false,
+      closeOnMouseOut: false,
+      closeAfter:50,
+      submenuHoverIntent:0
+    });
+  });
+</script>
+
+<!-- Main Menu -->
+<div class="main-menu right">
+  <table class="rootVoices" cellspacing="0" cellpadding="0" border="0"><tbody><tr>
+  
+        <td class="rootVoice" menu="menu_login"><span class="menu-separator">│</span><span class="menu-arrow">▼</span> <span class="menu-text">Sign in / Register</span></td>
+    
+      
+    
+    <td class="rootVoice" menu="menu_buy_domains"><span class="menu-separator">│</span><span class="menu-arrow">▼</span> <span class="menu-text">Buy Domains</span></td>
+	<td class="rootVoice" menu="menu_sell_domains"><span class="menu-separator">│</span><span class="menu-arrow">▼</span> <span class="menu-text">Sell Domains</span></td>
+    <td class="rootVoice" menu="menu_park_domains"><span class="menu-arrow">▼</span> <span class="menu-text">Park Domains</span></td>
+  </tr></tbody></table>		
+</div>	
+
+<!-- Login / Register -->            
+<div id="menu_login" class="mbmenu">
+  <a>
+    <form action="https://www.aftermarket.com/login" method="post">
+      <table class="menu_login_table">
+        <tbody><tr>
+          <td><label for="username">Username:</label><br><input autocomplete="off" type="text" name="ajax_signin[username]" id="ajax_signin_username"></td>
+        </tr>
+        <tr>
+          <td>
+          	<label for="password">Password:</label><br>
+                        <input type="password" name="ajax_signin[password]">
+          </td>
+        </tr>
+        <tr>
+        	<td class="menu_login_submit_container clear">
+        		<input style="margin-top: 2px;" type="submit" value="Log In" class="button-action secondary left">
+        		<div class="right last" style="margin-left: 5px;">
+        			<span onclick="document.location='http://www.aftermarket.com/forgot-username'">Forgot Username</span>
+        			<br>
+        			<span onclick="document.location='http://www.aftermarket.com/reset-password'">Forgot Password</span>
+        		</div>
+        	</td>
+        </tr>
+        <tr>
+        	<td>
 				
-				<div id="global_search_wrapper">
+		<!-- The plugin will be embedded into this div //-->
+		<div id="social_login_container_nav"></div>
+		<script type="text/javascript">oneall.api.plugins.social_login.build("social_login_container_nav", {
+					'providers' :  ['facebook', 'google'], 
+					'callback_uri': 'http://www.aftermarket.com/login/oneallCallbackHandler'
+				});</script>        	</td>
+        </tr>
+        <tr>
+        	<td>
+        		<hr>
+        		<h3>Not a member yet?</h3>
+        	</td>
+        </tr>
+        <tr>
+        	<td>
+        		<input class="button-action primary" type="button" value="Register Now" onclick="document.location='http://www.aftermarket.com/login'">
+        	</td>
+        </tr>
+      </tbody></table>
+      <input type="hidden" name="ajax_signin[referrer]" value="http://www.aftermarket.com/legal/privacy-policy" id="ajax_signin_referrer">            <input type="hidden" name="type" value="login">
+    </form>
+  </a>
+</div>
 
-										
-						<form action="/search" method="get">
+<!-- My Account -->            
+<div id="menu_my_account" class="mbmenu">
+	<a href="/dashboard" img="menu_icon_dashboard.png">Dashboard</a>
+	<a href="/account/import-domains" img="menu_icon_add_domains.png">Add Domains</a>
+	<a href="/account/manage-my-domains" img="menu_icon_manage_all_domains.png">My Domains</a>
+	<!--<a href="/account/messages" img="menu_icon_messages.png">My Messages <span class="unread-messages"></span></a>-->
+	<a href="/dashboard/transfers" img="menu_icon_transfers.png">Pending Transfers</a>
+	<a href="/dashboard/my-revenue" img="menu_icon_finance.png">Finance/Completed</a>
+	<!--<a href="/my-account" img="menu_icon_settings.png">Settings</a>-->
+	</div>   	
 
-	<fieldset>
+<!-- Buy Domains -->            
+<div id="menu_buy_domains" class="mbmenu">
+		<a href="/buy-domains" img="menu_icon_start_buying.png">Start Buying</a>
+	</div>
 
-		<table cellpadding="0" cellspacing="0" border="0" align="right">
-			<tbody><tr>
-				<td><input type="text" name="search" id="quick_search_input"></td>
-				<td><input type="submit" value="Search" id="quick_search_submit" class="regular_button button_blue button_20"></td>
-			</tr>
-		</tbody></table>
-		
-	</fieldset>
+<!-- Sell Domains -->            
+<div id="menu_sell_domains" class="mbmenu">
+		<a href="/sell-domains" img="menu_icon_start_selling.png">Start Selling</a>
+	</div>
 
-</form>					
-						
-				</div>				</div>
-
-			</div>
-		
-		
+<!-- Park Domains -->            
+<div id="menu_park_domains" class="mbmenu">
+		<a href="/park-domains" img="menu_icon_parking_overview.png">Start Parking</a>
+	</div>
 		</div>
 		
-			<div class="span-22 last" id="text-navigation">
-		        <div id="leftnav-wrapper">
-		            <div id="leftnav">
-		                <ul class="nav-item" id="nav1"><li><a title="Search Domains" href="/search">Search</a></li></ul>
-		                <ul class="nav-item" id="nav3"><li>
-															<a title="Buy Domains" href="/search">Buy Domains</a>														
-							
-							
-							</li></ul>
-		                <ul class="nav-item" id="nav2"><li><a title="Sell Domains" href="/dashboard/sell-domains">Sell Domains</a></li></ul>
-		                		        		                            
-		            </div>
-		        </div>
-		        <div id="rightnav-wrapper">
-		            <div id="rightnav">
-		                <ul class="nav-item logged-out" id="navRight1">
-		                	<li>
-															<a title="Register Now" href="/signup"><span class="small">Not a member yet?</span>Register Now!</a>									                    </li>
-		                </ul>
-		            </div>
-		        </div>
-			</div> 
-			
+		
 
-			<div id="wrapper" class="span-22 last">
-			
-							
-				
-								
+		<div id="wrapper" class="span-22 last">
+		
 					
+			
+						
+				
 	<div id="breadcrumbs">
 	
 						
@@ -194,10 +261,10 @@
 			
 	</div>
 	
-				
-							
 			
-				<div class="content_bloc">
+					
+		
+			<div class="content_bloc">
 	<div class="faq_header">
 		<h1>Legal | <span>the answers you are looking for</span></h1>
 	</div>
@@ -229,15 +296,15 @@
 				</p>
 				
 				<p>
-				Aftermarket, Inc. has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with <a target="_blank" href="http://www.truste.com/privacy_seals_and_services/consumer_privacy/privacy-programs-requirements.html">TRUSTe's program requirements</a> including transparency, accountability and choice regarding the collection and use of your personal information.  The TRUSTe program does not cover information that may be collected through downloadable software.  The TRUSTe program covers only information that is collected through the Site and does not cover information that may be collected behind the log in on our website.
+				Aftermarket, Inc. has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with <a target="_blank" href="http://www.truste.com/privacy_seals_and_services/consumer_privacy/privacy-programs-requirements.html" rel="nofollow">TRUSTe's program requirements</a> including transparency, accountability and choice regarding the collection and use of your personal information.  The TRUSTe program does not cover information that may be collected through downloadable software.  The TRUSTe program covers only information that is collected through the Site and does not cover information that may be collected behind the log in on our website.
 				</p>
 				
 				<p>
-				TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy Trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy policy or practices, please contact us at <a href="mailto:support@aftermarket.com">support@aftermarket.com</a>.  If you are not satisfied with our response you can contact <a target="_blank" href="http://watchdog.truste.com/pvr.php?page=complaint">TRUSTe here</a>.
+				TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy Trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy policy or practices, please contact us at <a href="mailto:support@aftermarket.com" rel="nofollow">support@aftermarket.com</a>.  If you are not satisfied with our response you can contact <a target="_blank" href="http://watchdog.truste.com/pvr.php?page=complaint" rel="nofollow">TRUSTe here</a>.
 				</p>
 				
 				<p>
-				Aftermarket complies with the U.S. - E.U.  Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use and retention of personal data from the from European Union member countries.  Aftermarket has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view Aftermarket's certification, please visit <a target="_blank" href="http://www.export.gov/safeharbor/">http://www.export.gov/safeharbor/</a>
+				Aftermarket complies with the U.S. - E.U.  Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use and retention of personal data from the from European Union member countries.  Aftermarket has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view Aftermarket's certification, please visit <a target="_blank" href="http://www.export.gov/safeharbor/" rel="nofollow">http://www.export.gov/safeharbor/</a>
 				</p>
 	
 				<p><strong>Section 1. Information Collection Practices.</strong></p>
@@ -374,103 +441,108 @@
 	</div>
 	
 	
-</div>	
-			</div>	
-		
-
-
-			<div id="footer" class="span-22 last">
-			
-			
-				<div id="footer_bar">
-					
-					
-						<dl id="footer_about">
-							<dt><a title="About Aftermarket.com" href="/about">About</a></dt>
-								<dd><a title="About Us" href="/about">About Us</a></dd>
-								<dd><a title="Frequently Asked Questions" href="/support/faq">FAQ</a></dd>
-								<dd><a title="Resources" href="/resources">Resources</a></dd>
-								<dd><a target="_blank" title="Careers" href="http://thoughtconvergence.com/careers" rel="nofollow">Careers</a></dd>
-						</dl>						
-					
-						<dl id="footer_stay_connected">
-							<dt><a title="Stay connected with Aftermarket.com" href="/support">Stay Connected</a></dt>
-								<dd><a title="Contact Us" href="/contact">Contact Us</a></dd>
-								<dd><a title="Blog" href="/blog">Blog</a></dd>
-								<dd><a target="_blank" title="Aftermarket.com on Facebook" href="http://www.facebook.com/pages/Aftermarketcom/135813079656?ref=ts" rel="nofollow">Facebook</a></dd>
-								<dd><a target="_blank" title="Aftermarket.com on Twitter" href="http://twitter.com/aftermarketcom" rel="nofollow">Twitter</a></dd>
-								<dd><a target="_blank" title="Aftermarket.com on Google+" href="https://plus.google.com/u/1/117488126568128700731/" rel="nofollow">Google+</a></dd>
-						</dl>					
-
-						
-						<dl id="footer_policies">
-							<dt><a title="Policies" href="/legal/terms-of-service">Policies</a></dt>
-							    <dd><a title="Privacy Policy" href="/legal/privacy-policy">Privacy Policy</a></dd>
-								<dd><a title="Legal" href="/legal/terms-of-service">Legal</a></dd>							
-								<dd><a title="About Aftermarket.com" href="/about/membership-tiers">Membership Tiers</a></dd>							
-								<dd><a title="Fee Schedule" href="/legal/fee-schedule">Fee Schedule</a></dd>
-								<dd><a title="Bid Increments" href="/about/bid-increments">Bid Increments</a></dd>
-						</dl>						
-					
-						<dl id="footer_listings">
-							<dt><a title="Domain Listings" href="/buyers">Domain Listings</a></dt>
-								<dd><a title="Advanced Domain Search" href="/search">Advanced Search</a></dd>							
-								<dd><a title="Editor's Picks Domains" href="/buyers/EditorPicks">Editor's Picks</a></dd>
-								<dd><a title="Domain Listings Ending Soon" href="/buyers/EndingSoon">Ending Soon</a></dd>
-								<dd><a title="Featured Listings" href="/buyers/FeaturedListing">Featured Listings</a></dd>
-								<dd><a title="Recently Added Domain Listings" href="/buyers/RecentlyAdded">Recently Added Domains</a></dd>
-						</dl>
-											
-							
-						<dl id="footer_copyright">
-							<dt><div id="footer_logo">aftermarket.com</div></dt>
-							<dd>&nbsp;</dd>
-							<dd id="footer_copyright_links">Phone: <span class="phone_number">+1.310.909.7909</span></dd>
-							<dd><a href="mailto:support@aftermarket.com?subject=Guest Inquiry Support">Email: support@aftermarket.com</a></dd>
-							<dd>&nbsp;</dd>
-							<dd>Copyright © 2008-2012 Aftermarket, Inc</dd>
-						</dl>
-							
-							
-						<br clear="all">
-						
-				</div>
-
-				<div id="footer_logos_wrapper">
-					
-					<ul id="footer_logos">
-						<li id="footer_logo_tci"><a href="http://www.thoughtconvergence.com" rel="nofollow">Thought Convergence</a></li>
-						<li id="footer_logo_tz"><a href="http://www.trafficz.com" rel="nofollow">TrafficZ</a></li>
-						<li id="footer_logo_dt"><a href="http://www.domaintools.com" rel="nofollow">Domain Tools</a></li>
-						<li id="footer_logo_domaining"><a href="http://www.domaining.com" rel="nofollow">Domaining</a></li>
-						<li id="footer_logo_escrow"><a href="http://www.escrow.com" rel="nofollow">Escrow.com</a></li>
-						<li id="footer_logo_truste">
-							<div id="40baf656-7e21-4d27-804b-5ff9d6fe62d4">
-								<script type="text/javascript" src="//privacy-policy.truste.com/privacy-seal/Aftermarket,-Inc-/asc?rid=40baf656-7e21-4d27-804b-5ff9d6fe62d4"></script>
-								<a href="//privacy.truste.com/privacy-seal/Aftermarket,-Inc-/validation?rid=f0482ae4-5993-48db-8ac6-18dc9c71b612" title="TRUSTe European Safe Harbor certification" target="_blank">
-									Truste.com
-								</a>
-							</div>
-													</li>	
-						<li id="footer_logo_bbb"><a href="http://www.bbb.org" rel="nofollow">BBB</a></li>
-					</ul>
-				</div> 
-			</div>
+</div>
+		</div>	
 		
 	</div>
+
+	<div class="clear_both;"></div>
+	
+	<div id="footer">
+	
+		<div class="container showgrid1">
+	
+			<div id="footer_bar" class="span-22 last">
+				
+				<dl id="footer_about">
+					<dt><a title="About Aftermarket.com" href="/about">About</a></dt>
+						<dd><a title="About Us" href="/about">About Us</a></dd>
+						<dd><a title="Frequently Asked Questions" href="/support/faq">FAQ</a></dd>
+						<dd><a title="Resources" href="/resources">Resources</a></dd>
+						<dd><a target="_blank" title="Careers" href="http://thoughtconvergence.com/careers" rel="nofollow">Careers</a></dd>
+				</dl>						
+			
+				<dl id="footer_stay_connected">
+					<dt><a title="Stay connected with Aftermarket.com" href="/support">Stay Connected</a></dt>
+						<dd><a title="Contact Us" href="/contact">Contact Us</a></dd>
+						<dd><a title="Blog" href="/blog">Blog</a></dd>
+						<dd><a target="_blank" title="Aftermarket.com on Facebook" href="http://www.facebook.com/pages/Aftermarketcom/135813079656?ref=ts" rel="nofollow">Facebook</a></dd>
+						<dd><a target="_blank" title="Aftermarket.com on Twitter" href="http://twitter.com/aftermarketcom" rel="nofollow">Twitter</a></dd>
+						<dd><a target="_blank" title="Aftermarket.com on Google+" href="https://plus.google.com/u/1/117488126568128700731/" rel="nofollow">Google+</a></dd>
+				</dl>					
+	
+				
+				<dl id="footer_policies">
+					<dt><a title="Policies" href="/legal/terms-of-service">Policies</a></dt>
+					    <dd><a title="Privacy Policy" href="/legal/privacy-policy">Privacy Policy</a></dd>
+						<dd><a title="Legal" href="/legal/terms-of-service">Legal</a></dd>							
+						<dd><a title="About Aftermarket.com" href="/about/membership-tiers">Membership Tiers</a></dd>							
+						<dd><a title="Fee Schedule" href="/legal/fee-schedule">Fee Schedule</a></dd>
+						<dd><a title="Bid Increments" href="/about/bid-increments">Bid Increments</a></dd>
+				</dl>						
+			
+				<dl id="footer_listings">
+					<dt><a title="Domain Showcases" href="/buying">Domain Showcases</a></dt>
+						<dd><a title="Search for Domains" href="/search">Search for Domains</a></dd>							
+						<dd><a title="Editor's Picks Domains" href="/buying/EditorPicks">Editor's Picks</a></dd>
+						<dd><a title="Featured Listings" href="/buying/FeaturedListing">Featured Listings</a></dd>
+												<dd><a title="Recently Added Domains" href="/buying/RecentlyAdded">Recently Added Domains</a></dd>
+						<dd><a title="Ending Soon" href="/buying/EndingSoon">Ending Soon</a></dd>
+				</dl>
+										
+						
+				<dl id="footer_copyright">
+					<dt><div id="footer_logo">aftermarket.com</div></dt>
+					<dd>&nbsp;</dd>
+					<dd id="footer_copyright_links">Phone: <span class="phone_number">+1.310.909.7909</span></dd>
+					<dd><a href="mailto:support@aftermarket.com?subject=Guest Inquiry Support">Email: support@aftermarket.com</a></dd>
+					<dd>&nbsp;</dd>
+					<dd>Copyright © 2008-2013 Aftermarket, Inc</dd>
+				</dl>
+					
+					
+				<br clear="all">
+					
+			</div>
+
+			<div id="footer_logos_wrapper" class="span-22 last">
+				
+				<ul id="footer_logos">
+					<li id="footer_logo_tci"><a href="http://www.thoughtconvergence.com" rel="nofollow">Thought Convergence</a></li>
+					<li id="footer_logo_tz"><a href="http://www.trafficz.com" rel="nofollow">TrafficZ</a></li>
+					<li id="footer_logo_dt"><a href="http://www.domaintools.com" rel="nofollow">Domain Tools</a></li>
+					<li id="footer_logo_domaining"><a href="http://www.domaining.com" rel="nofollow">Domaining</a></li>
+					<li id="footer_logo_escrow"><a href="http://www.escrow.com" rel="nofollow">Escrow.com</a></li>
+					<li id="footer_logo_truste">
+						<div id="40baf656-7e21-4d27-804b-5ff9d6fe62d4">
+							<script type="text/javascript" src="//privacy-policy.truste.com/privacy-seal/Aftermarket,-Inc-/asc?rid=40baf656-7e21-4d27-804b-5ff9d6fe62d4"></script>
+							<a href="//privacy.truste.com/privacy-seal/Aftermarket,-Inc-/validation?rid=f0482ae4-5993-48db-8ac6-18dc9c71b612" title="TRUSTe European Safe Harbor certification" target="_blank">
+								Truste.com
+							</a>
+						</div>
+											</li>	
+					<li id="footer_logo_bbb"><a href="http://www.bbb.org" rel="nofollow">BBB</a></li>
+				</ul>
+				
+			</div>
+		
+		</div>
+		
+	</div>
+		
+	
 	
 <script type="text/javascript">
 
 	$(document).ready(function() {
 	
-		$('.watchListAddLink').live('click', function() {
+		$('.pin_to_watchlist_link').live('click', function() {
 	
 			var id = $(this).attr('id').replace(/watchListAddLink_/, '');
 			
 			if (IS_LOGGED_IN) {
 			
 				var tempThis = this;
-			
 				
 				$.ajax({
 					url: '/listing/ajaxAddListingToUserWatchList',
@@ -478,15 +550,12 @@
 					async: false,
 					success: function(data){
 						if (data.status == 'success') {
-							//$(tempThis).parent().html('<span id=\"watchListRemoveLink_' + id + '\" class=\"watchListRemoveLink\"></span>');
-							
-							var newSrc = $(tempThis).attr('src').replace(/watchlist_add.png/, 'watchlist_remove.png');
-							var newId = 'watchListRemoveLink_' + id;
-							
-							$(tempThis).attr('id', newId);
-							$(tempThis).attr('class', 'watchListRemoveLink');
-							$(tempThis).attr('title', 'Remove listing from your watch list');
-							$(tempThis).attr('src', newSrc);
+							$(tempThis).removeClass('pin_to_watchlist_link');
+							$(tempThis).addClass('unpin_from_watchlist_link');
+							$(tempThis).attr('title', 'Unpin from Watchlist');
+							if ($(tempThis).hasClass('show-label')) {
+								$(tempThis).html('Unpin from Watchlist');
+							}
 						}
 					}
 				});
@@ -503,14 +572,13 @@
 			
 		});
 		
-		$('.watchListRemoveLink').live('click', function() {
+		$('.unpin_from_watchlist_link').live('click', function() {
 			
-			var id = $(this).attr('id').replace(/watchListRemoveLink_/, '');
+			var id = $(this).attr('id').replace(/watchListAddLink_/, '');
 			
 			if (IS_LOGGED_IN) {
 			
 				var tempThis = this;
-			
 			
 				$.ajax({
 					url: '/listing/ajaxRemoveListingFromUserWatchList',
@@ -518,16 +586,12 @@
 					async: false,
 					success: function(data){
 						if (data.status == 'success') {
-							//$(tempThis).parent().html('<span id=\"watchListAddLink_' + id + '\" class=\"watchListAddLink\"></span>');
-							
-							var newSrc = $(tempThis).attr('src').replace(/watchlist_remove.png/, 'watchlist_add.png');
-							var newId = 'watchListAddLink_' + id;
-							
-							$(tempThis).attr('id', newId);
-							$(tempThis).attr('class', 'watchListAddLink');
-							$(tempThis).attr('title', 'Add listing to your watch list');
-							$(tempThis).attr('src', newSrc);
-							
+							$(tempThis).removeClass('unpin_from_watchlist_link');
+							$(tempThis).addClass('pin_to_watchlist_link');
+							$(tempThis).attr('title', 'Pin to Watchlist');
+							if ($(tempThis).hasClass('show-label')) {
+								$(tempThis).html('Pin to Watchlist');
+							}
 						}
 					}
 				});
@@ -564,7 +628,7 @@
 	
 					
 					<form action="/login/ajaxLogin" method="post" id="ajax_login_form">
-						<input type="hidden" name="ajax_signin[_csrf_token]" value="5de65144448f7190b77423e45c788794" id="ajax_signin__csrf_token">						
+												
 														
 							<div class="form_wrapper">
 								
@@ -574,7 +638,7 @@
 
 	    	<span class="form_field">
 
-	    		<span style="float:left;"><span style="position: relative;"><span class="holding ajax_signin[username]"><span class="holder">username</span><input class="rounded_input_large" autocomplete="off" type="text" name="ajax_signin[username]" id="ajax_signin_username"></span></span>
+	    		<span style="float:left;"><input autocomplete="off" type="text" name="ajax_signin[username]" id="ajax_signin_username">
 </span>
 
 	    	</span>
@@ -588,7 +652,7 @@
 
 	    	<span class="form_field">
 
-	    		<span style="float:left;"><span style="position: relative;"><span class="holding ajax_signin[password]"><span class="holder">password</span><input class="rounded_input_large" autocomplete="off" type="password" name="ajax_signin[password]" id="ajax_signin_password"></span></span>
+	    		<span style="float:left;"><input autocomplete="off" type="password" name="ajax_signin[password]" id="ajax_signin_password">
 </span>
 
 	    	</span>
@@ -603,8 +667,7 @@
 	    	<span class="form_field">
 
 	    		<span style="float:left;"><input type="checkbox" name="ajax_signin[remember]" id="ajax_signin_remember">
-<input type="hidden" name="ajax_signin[referrer]" id="ajax_signin_referrer">
-<input type="hidden" name="ajax_signin[_csrf_token]" value="5de65144448f7190b77423e45c788794" id="ajax_signin__csrf_token"></span>
+<input type="hidden" name="ajax_signin[referrer]" id="ajax_signin_referrer"></span>
 
 	    	</span>
 
@@ -674,7 +737,7 @@
 </script>
 
 
-<!-- web01.aftermarket.com | revision: 1432f4474ccd7bbe80186cf4aa0c82478762124b -->
+<!-- web02.lax | revision: b22cd9c0bf4e45bddf7cbfd795071906804becec -->
 
 	<script type="text/javascript">
 	setTimeout(function(){var a=document.createElement("script");
@@ -682,6 +745,18 @@
 	a.src=document.location.protocol+"//dnn506yrbagrg.cloudfront.net/pages/scripts/0011/7940.js?"+Math.floor(new Date().getTime()/3600000);
 	a.async=true;a.type="text/javascript";b.parentNode.insertBefore(a,b)}, 1);
 	</script>
+
+<script type="text/javascript">
+document.write(unescape("%3Cscript src='//www.snapengage.com/snapabug.js' type='text/javascript'%3E%3C/script%3E"));</script><script src="//www.snapengage.com/snapabug.js" type="text/javascript"></script><script type="text/javascript">
+SnapABug.addButton("e6995925-e64e-4a7e-99a1-0bae782c17bf","3","85%", true);
+</script>
+
+<script type="text/javascript">
+$(document).ready(function(){
+	var url = "/hits.php?uid=0&url=%2Flegal%2Fprivacy-policy&ref=" + encodeURIComponent(document.referrer) + "&lid=0";
+	$.get(url);
+});
+</script>
 
 
 
