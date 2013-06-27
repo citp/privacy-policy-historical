@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the acdsee.com privacy policy that was archived on 2012-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121205104943id_/http%3A//www.acdsee.com/en/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the acdsee.com privacy policy that was archived on 2013-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130627113624id_/http%3A//www.acdsee.com/en/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - ACD Systems
 
@@ -7,6 +7,12 @@ We are committed to protecting your privacy and the security of information you 
 ### Information Collection
 
 When you engage in activities on our websites or within our products, like ordering or registering products, downloading trial versions of software or software updates, requesting technical support, or subscribing to newsletters and e-mail publications, ACD may ask you to provide us with information. By choosing to enter and submit the requested information when prompted, you are consenting to ACD's collection, use, and disclosure of such information for the purposes of providing the services to you as outlined herein. Any information you post to a chat room or public bulletin is available to all users of that site.
+
+### Website Analytics
+
+We use Google Analytics, Google AdWords Conversion tracker, and other Google services that place cookies on a browser across the website. These cookies help us increase the website’s effectiveness for our visitors. These cookies are set and read by Google. To opt out of Google tracking, please visit this [page](http://www.google.com/privacy_ads.html).
+
+We use AdWords remarketing to market our sites across the web. We place a cookie on a browser, and then a 3rd party (Google) reads these cookies and may serve an ad on a 3rd party site. You may opt out of this ad serving on [Google’s opt out page](http://www.google.com/privacy_ads.html). If you are concerned about 3rd party cookies served by networks, you should also visit the [Network Advertising Initiative opt-out page](http://www.networkadvertising.org/managing/opt_out.asp).
 
 ### How We Use Your Information
 
@@ -30,7 +36,7 @@ When you consent to receive newsletters, ACD may use information it has collecte
 
 ### ACD Website or ACD Product User Surveys
 
-TThe purpose of this information request will be optional and required only to engage in certain activities. Additional information we may ask you to provide when choosing to engage in other activities on our websites or within our products may include name, mailing address, telephone number, facsimile numbers, e-mail address, and other demographic information that will enable us to better understand the requirements of our customers and to continue to provide high quality products and services.
+The purpose of this information request will be optional and required only to engage in certain activities. Additional information we may ask you to provide when choosing to engage in other activities on our websites or within our products may include name, mailing address, telephone number, facsimile numbers, e-mail address, and other demographic information that will enable us to better understand the requirements of our customers and to continue to provide high quality products and services.
 
 ### Website and ACDInTouch or acdID Activity
 
