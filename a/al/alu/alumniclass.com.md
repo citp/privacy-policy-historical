@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the alumniclass.com privacy policy that was archived on 2012-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121230055625id_/http%3A//www.alumniclass.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the alumniclass.com privacy policy that was archived on 2013-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130627193059id_/http%3A//www.alumniclass.com/privacy-policy) for the most accurate reproduction.*
 
 # Alumni High School Class Reunion Site
 
-Last updated July 13, 2012. 
+Last updated January 22, 2013. 
 
 **•COLLECTION AND USE OF INFORMATION  
 • EMAIL COMMUNICATIONS  
