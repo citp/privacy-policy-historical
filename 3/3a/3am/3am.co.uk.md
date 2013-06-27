@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 3am.co.uk privacy policy that was archived on 2012-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121231194249id_/http%3A//www.mirror.co.uk/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 3am.co.uk privacy policy that was archived on 2013-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130627030846id_/http%3A//www.mirror.co.uk/privacy-statement) for the most accurate reproduction.*
 
 # Mirror Online: Number one for news, opinion, sport & celebrity gossip
 
@@ -57,7 +57,7 @@ We will not make use of your personal information for direct marketing activitie
 
 If you wish to receive marketing material from MGN Ltd, from companies in the same group as MGN Ltd or from carefully selected third parties you should tick the appropriate box on the registration form(s). 
 
-If having given your consent you subsequently decide you no longer wish to receive direct marketing or information from us or our associated companies or third parties or no longer want us to pass your information to third parties, please notify us at the following email address: [website.marketing@mirror.co.uk](mailto:website.marketing@mirror.co.uk).
+If having given your consent you subsequently decide you no longer wish to receive direct marketing or information from us or our associated companies or third parties or no longer want us to pass your information to third parties, please notify us at the following email address: [web@mirror.co.uk](mailto:web@mirror.co.uk).
 
 In particular, even where we have your consent we will only disclose your financial, credit card or bank details to our agents and/or third party suppliers of products or services on a need to know basis including, for example, in relation to the fulfilment of any e-commerce transactions.
 
