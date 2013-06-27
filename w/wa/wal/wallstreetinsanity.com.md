@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the wallstreetinsanity.com privacy policy that was archived on 2012-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121108154619id_/http%3A//www.wallstreetinsanity.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wallstreetinsanity.com privacy policy that was archived on 2013-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130627110840id_/http%3A//www.wallstreetinsanity.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Wall Street Insanity
+# Privacy Policy | WallStreetInsanity
 
 Privacy Policy:  
 WallStreetInsanity.com takes your privacy seriously. This privacy policy describes what information we collect and how we use it.
