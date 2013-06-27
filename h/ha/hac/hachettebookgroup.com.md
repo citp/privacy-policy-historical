@@ -1,20 +1,20 @@
-> *The following text is extracted and transformed from the hachettebookgroup.com privacy policy that was archived on 2012-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121201083521id_/http%3A//www.hachettebookgroup.com/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hachettebookgroup.com privacy policy that was archived on 2013-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130627205449id_/http%3A//www.hachettebookgroup.com/privacy-policy) for the most accurate reproduction.*
 
-# Copyright, Trademark & Privacy Policy Hachette Book Group
+# Privacy Policy - Hachette Book Group
 
 ## Hachette Book Group Privacy Policy
 
-This Web Site (“Web site”) is published and maintained by Hachette Book Group, Inc., with offices located at 237 Park Avenue , New York, NY 10017 (“HBG”). HBG is part of the Hachette Livre corporate family. HBG is referred to in this Privacy Policy as “we,” “us,” “our,” or similar pronouns. 
+This Web Site (“Web site”) is published and maintained by Hachette Book Group, Inc., with offices located at 237 Park Avenue , New York, NY 10017 (“HBG”). HBG is part of the Hachette Livre corporate family. HBG is referred to in this Privacy Policy as “we,” “us,” “our,” or similar pronouns.
 
-This Privacy Policy governs your use of the HBG Web site on which this Privacy Policy is posted. By visiting this Web site, and/or using the services offered on or through this Web site, you agree to the terms of this Privacy Policy as they may be amended from time to time. As we update and expand our services, this Privacy Policy may change, so check back to this page from time to time. 
+This Privacy Policy governs your use of the HBG Web site on which this Privacy Policy is posted. By visiting this Web site, and/or using the services offered on or through this Web site, you agree to the terms of this Privacy Policy as they may be amended from time to time. As we update and expand our services, this Privacy Policy may change, so check back to this page from time to time.
 
-This Privacy Policy does not apply to information that you may provide to us, or that we may obtain, other than through our Web site, such as by phone, through postal mail, at book shows and fairs and through other live and print mediums. 
+This Privacy Policy does not apply to information that you may provide to us, or that we may obtain, other than through our Web site, such as by phone, through postal mail, at book shows and fairs and through other live and print mediums.
 
 This Web site is intended for users who are located in the United States of America. This Privacy Policy shall be interpreted under the laws of the United States.
 
 ### Purpose
 
-Your privacy is a serious matter to us. In order to make your visits to our Web site and use of the services available through our Web site as worthwhile as possible, we may ask you for Personal Information and we may collect certain information from your computer each time you visit us. “Personal Information” includes, for example, your name; home and/or business address; e-mail address; telephone, wireless and/or fax number; short message service or text message address or other wireless device address; instant messaging address; credit card and other payment information; demographic information and/or other information that may identify you as an individual or allow online or offline contact with you as an individual. This privacy statement explains, in general, what Personal Information and other information is collected on our Web site, how the information is used, and with whom we may share such information. Please take a few minutes to read our Privacy Policy so that you understand how HBG treats your information. 
+Your privacy is a serious matter to us. In order to make your visits to our Web site and use of the services available through our Web site as worthwhile as possible, we may ask you for Personal Information and we may collect certain information from your computer each time you visit us. “Personal Information” includes, for example, your name; home and/or business address; e-mail address; telephone, wireless and/or fax number; short message service or text message address or other wireless device address; instant messaging address; credit card and other payment information; demographic information and/or other information that may identify you as an individual or allow online or offline contact with you as an individual. This privacy statement explains, in general, what Personal Information and other information is collected on our Web site, how the information is used, and with whom we may share such information. Please take a few minutes to read our Privacy Policy so that you understand how HBG treats your information.
 
 ### Right to Opt Out
 
@@ -38,7 +38,7 @@ You may also be able to send an online card to a friend or family member, or sen
 
 We may use “cookies” to keep, and sometimes track, information about you. Cookies are small data files that are sent to your browser or related software from a Web server and stored on your computer's hard drive. Cookies track where you travel on our Web site and what you look at and purchase. They may store the information in your shopping cart, and/or your username and/or password. A cookie may enable us to relate your use of our Web site to other information about you, including your Personal Information. All of these purposes serve to improve and personalize your experience on our Web site.
 
-Most Web browsers can be set to inform you when a cookie has been sent to you and provide you with the opportunity to refuse that cookie. Additionally, if you have a Flash player installed on our computer, your Flash player can be set to reject or delete Flash cookies. However, refusing a cookie may, in some cases, preclude you from using, or negatively impact the display or function of, the Web site or certain areas or features of the Web site. 
+Most Web browsers can be set to inform you when a cookie has been sent to you and provide you with the opportunity to refuse that cookie. Additionally, if you have a Flash player installed on our computer, your Flash player can be set to reject or delete Flash cookies. However, refusing a cookie may, in some cases, preclude you from using, or negatively impact the display or function of, the Web site or certain areas or features of the Web site.
 
 #### Clear GIFs
 
@@ -52,7 +52,7 @@ Any or all of these activities with regard to Web Site Usage Information may be 
 
 ### How is the Personal Information used?
 
-We will use the Personal Information you provide to our Web site, for example, to respond to your requests and to provide you with our product and service offerings. For example, we will process your orders, respond to your requests and inquiries and provide you with the services and features offered on or through our Web site. We may also use your Personal Information to maintain our internal record keeping. We may match information collected from you through different means or at different times, including both Personal Information and Web Site Usage Information, and use such information along with information obtained from other sources, including third parties. In addition, we may send you notices (for example, in the form of e-mails, mailings, and the like), and otherwise correspond with you, about products, services, companies and events, sponsored by us and others, that we think might interest you. You may opt-out of receiving such notices from us by following the instructions in the Right to Opt Out section above. 
+We will use the Personal Information you provide to our Web site, for example, to respond to your requests and to provide you with our product and service offerings. For example, we will process your orders, respond to your requests and inquiries and provide you with the services and features offered on or through our Web site. We may also use your Personal Information to maintain our internal record keeping. We may match information collected from you through different means or at different times, including both Personal Information and Web Site Usage Information, and use such information along with information obtained from other sources, including third parties. In addition, we may send you notices (for example, in the form of e-mails, mailings, and the like), and otherwise correspond with you, about products, services, companies and events, sponsored by us and others, that we think might interest you. You may opt-out of receiving such notices from us by following the instructions in the Right to Opt Out section above.
 
 We may analyze user behavior as a measure of interest in, and use of, our Web site and e-mails, both on an individual basis and in the aggregate.
 
@@ -84,7 +84,7 @@ We may use third-party advertising companies to serve ads when you visit our Web
 
 ### Wireless Addresses
 
-If the email address you provide to us is a wireless email address, you agree to receive messages at such address from HBG (unless and until you have elected not to receive such messages by following the instructions in the Right to Opt Out section above). You understand that your wireless carrier's standard rates apply to these messages, and that you may change your mind at any time by following the instructions in the Right to Opt Out section above. You represent that you are the owner or authorized user of the wireless device on which messages will be received, and that you are authorized to approve the applicable charges. 
+If the email address you provide to us is a wireless email address, you agree to receive messages at such address from HBG (unless and until you have elected not to receive such messages by following the instructions in the Right to Opt Out section above). You understand that your wireless carrier's standard rates apply to these messages, and that you may change your mind at any time by following the instructions in the Right to Opt Out section above. You represent that you are the owner or authorized user of the wireless device on which messages will be received, and that you are authorized to approve the applicable charges.
 
 ### Short Message Service
 
@@ -110,13 +110,13 @@ You may be able to create an account on our Web site with a username and passwor
 
 We will have no liability for disclosure of your information due to errors or unauthorized acts of third parties during or after transmission.
 
-In the unlikely event that we believe that the security of your Personal Information in our possession or control may have been compromised, we may seek to notify you of that development. If a notification is appropriate, we would endeavor to do so as promptly as possible under the circumstances, and, to the extent we have your e-mail address, we may notify you by e-mail. You consent to our use of e-mail as a means of such notification. If you do not want us to use e-mail to notify you in such an event, you may e-mail us at [Privacy@hbgusa.com](mailto:Privacy@hbgusa.com) and provide us with an alternative means of contacting you in such an event, such as a physical mailing address. 
+In the unlikely event that we believe that the security of your Personal Information in our possession or control may have been compromised, we may seek to notify you of that development. If a notification is appropriate, we would endeavor to do so as promptly as possible under the circumstances, and, to the extent we have your e-mail address, we may notify you by e-mail. You consent to our use of e-mail as a means of such notification. If you do not want us to use e-mail to notify you in such an event, you may e-mail us at [Privacy@hbgusa.com](mailto:Privacy@hbgusa.com) and provide us with an alternative means of contacting you in such an event, such as a physical mailing address.
 
 ### Phishing
 
 With identity theft a continuing problem, it has become increasingly common for unauthorized individuals to send e-mail messages to consumers, purporting to represent a legitimate company such as a bank or on-line merchant, requesting that the consumer provide personal, often sensitive information. Sometimes, the domain name of the e-mail address from which the e-mail appears to have been sent, and the domain name of the web site requesting such information, appears to be the domain name of a legitimate, trusted company. In reality, such sensitive information is received by an unauthorized individual to be used for purposes of identity theft. This illegal activity has come to be known as "phishing."
 
-If you receive an e-mail or other correspondence requesting that you provide any sensitive information (including your Site password or credit card information) via e-mail or to a web site that does not seem to be affiliated with our Web site, or that otherwise seems suspicious to you, please do not provide such information, and report such request to us at [Privacy@hbgusa.com](mailto:Privacy@hbgusa.com). 
+If you receive an e-mail or other correspondence requesting that you provide any sensitive information (including your Site password or credit card information) via e-mail or to a web site that does not seem to be affiliated with our Web site, or that otherwise seems suspicious to you, please do not provide such information, and report such request to us at [Privacy@hbgusa.com](mailto:Privacy@hbgusa.com).
 
 ### Consent to Processing
 
@@ -261,8 +261,7 @@ When you are on our Web site you may have the opportunity to visit, or link to, 
 ### Changes to this Privacy Policy
 
   
-HBG reserves the right to change or update this Privacy Policy, or any other of our policies or practices, at any time, and will notify users of this Web site by posting such changed or updated Privacy Policy on this page.  Any changes or updates will be effective immediately upon posting to this Web site.  Under certain circumstances (for example, if a change impacts the way we treat a child’s Personal Information), we will also notify you of changes or updates to our Privacy Policy by additional means, such as posting a notice on the front page of our Web site or sending you an e-mail.  If you are a parent, we will obtain your consent to such changes.  
-
+HBG reserves the right to change or update this Privacy Policy, or any other of our policies or practices, at any time, and will notify users of this Web site by posting such changed or updated Privacy Policy on this page.  Any changes or updates will be effective immediately upon posting to this Web site.  Under certain circumstances (for example, if a change impacts the way we treat a child’s Personal Information), we will also notify you of changes or updates to our Privacy Policy by additional means, such as posting a notice on the front page of our Web site or sending you an e-mail.  If you are a parent, we will obtain your consent to such changes.
 
 ### Contact Us
 
@@ -271,8 +270,7 @@ If you have any questions or comments regarding our privacy practices, you may c
 Hachette Book Group  
 237 Park Avenue   
 New York, NY 10017  
-(800) 759-0190  
-
+(800) 759-0190
 
 Or email us at: [Privacy@hbgusa.com](mailto:Privacy@hbgusa.com)
 
@@ -280,9 +278,6 @@ Effective Date: September 12, 2006
 
 back to index
 
-Grand Central Publishing, Faith Words, Center Street and Hachette Audio and their respective logos are registered trademarks owned by HBG Books, Inc. 
+Grand Central Publishing, Faith Words, Center Street and Hachette Audio and their respective logos are registered trademarks owned by HBG Books, Inc.
 
-Little, Brown and Company (Inc.); Back Bay Books; Bulfinch; Little, Brown Books for Young Readers, and their respective logos are registered trademarks owned by Little, Brown and Company (Inc.). 
-
-
-
+Little, Brown and Company (Inc.); Back Bay Books; Bulfinch; Little, Brown Books for Young Readers, and their respective logos are registered trademarks owned by Little, Brown and Company (Inc.).
