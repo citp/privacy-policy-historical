@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the letsmove.gov privacy policy that was archived on 2012-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121226001012id_/http%3A//www.whitehouse.gov/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the letsmove.gov privacy policy that was archived on 2013-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130627035811id_/http%3A//www.whitehouse.gov/privacy) for the most accurate reproduction.*
 
 # Our Online Privacy Policy | The White House
 
@@ -10,7 +10,7 @@ The White House is committed to protecting individual privacy and securing the p
 
 This privacy policy describes what information is made available to the White House and third parties when you visit WhiteHouse.gov or official White House pages on other sites, and how the White House uses and stores that information.
 
-If you have questions about this policy or suggestions for its improvement, please let us know.  You can contact us at [http://www.whitehouse.gov/privacy/feedback](https://web.archive.org/web/20121226001012id_/http%3A/privacy/feedback).
+If you have questions about this policy or suggestions for its improvement, please let us know.  You can contact us at [http://www.whitehouse.gov/privacy/feedback](https://web.archive.org/web/20130627035811id_/http%3A/privacy/feedback).
 
 This policy is organized into the following sections:
 
@@ -147,7 +147,7 @@ WhiteHouse.gov may contain links to web sites created and maintained by other pu
 
 The White House maintains official pages or accounts on several third-party web sites in order to better engage with the American public (a current list is below).  Your activity on those third-party sites is governed by the security and privacy policies of the third party sites.  Users of third-party sites are often sharing information with the general public, user community, and/or the third-party operating the third-party site.  These actors may use this information in a variety of ways.  Consequently, you should review the privacy policies of third-party sites before using them and ensure that you understand how your information may be used.  You should also adjust privacy settings on your account on any third-party site to match your preferences. 
 
-The White House archives some information that users submit or publish when engaging with the White House through official White House pages or accounts.  The White House archives this information to comply with the [Presidential Records Act](http://www.archives.gov/about/laws/presidential-records.html) (PRA).  For example, on the social media service Twitter, the White House archives posts (i.e. “tweets”) from official White House accounts, “direct messages” sent to official White House accounts, and “replies,” which are tweets from other users to official White House accounts (these tweets begin with @ and the username of an official White House account, e.g., @WhiteHouse).  This information may contain PII, such as an individual’s username and any PII they elect to submit or publish.   The White House does not archive any PII about users who merely visit a White House page on a third-party site or who only “follow,” “friend,” or take a similar action with respect to the official White House page on a third-party site — PII may only be archived when it is voluntarily submitted to or published on the White House page on a third-party site (e.g., by sending a message or posting a comment).  This information may be retained by the White House until the end of the current Administration, at which time any archived information will be transferred to the National Archives and Records Administration (NARA) in accordance with the [PRA](http://www.archives.gov/about/laws/presidential-records.html).  NARA may eventually release this material to the public, but is required, in accordance with the PRA and the [Freedom of Information Act](http://www.archives.gov/about/laws/foia.html) (FOIA), to withhold any information that would constitute a clearly unwarranted invasion of personal privacy if released.  Access to this information may be requested under FOIA five years after the end of the current Administration.
+The White House archives some information that users submit or publish when engaging with the White House through official White House pages or accounts.  The White House archives this information to comply with the [Presidential Records Act](http://www.archives.gov/about/laws/presidential-records.html) (PRA).  For example, on the social media service Twitter, the White House archives posts (i.e. “tweets”) from official White House accounts, “direct messages” sent to official White House accounts, and “replies,” which are tweets from other users to official White House accounts (these tweets begin with @ and the username of an official White House account, e.g., @WhiteHouse).  This information may contain PII, such as an individual’s username and any PII they elect to submit or publish. In some cases, public account information (e.g., name and/or handle) about users who “follow,” “friend,” or take a similar action with respect to an official White House page or profile on third-party sites may be automatically archived. This information may be retained by the White House until the end of the current Administration, at which time any archived information will be transferred to the National Archives and Records Administration (NARA) in accordance with the [PRA](http://www.archives.gov/about/laws/presidential-records.html).  NARA may eventually release this material to the public, but is required, in accordance with the PRA and the [Freedom of Information Act](http://www.archives.gov/about/laws/foia.html) (FOIA), to withhold any information that would constitute a clearly unwarranted invasion of personal privacy if released.  Access to this information may be requested under FOIA five years after the end of the current Administration.
 
 Information, including PII, that you voluntarily submit to or publish on a White House page on a third-party site may be treated as public information.  We may, for example, publish compilations of comments collected through these White House pages or provide them to national leaders, members of the press or other individuals outside of the federal government.  We exercise discretion to protect voluntarily submitted information if its disclosure would raise privacy concerns.  Except as described above, we do not sell, rent, exchange, or otherwise disclose this information to persons or organizations outside the Executive Office of the President.  In some cases, we may share information with other federal agencies in response to lawful law enforcement requests or to protect WhiteHouse.gov from security threats.  Additionally, if you seek assistance on a matter within the jurisdiction of a federal agency, we may share your information with that agency for the limited purpose of addressing your request for assistance.
 
@@ -169,6 +169,8 @@ _Social Networks_
       * [@Blog44](http://twitter.com/blog44)
       * [@Brundage44](http://twitter.com/brundage44)
       * [@DavidAgnew44](http://twitter.com/davidagnew44)
+      * [@DrBiden](https://twitter.com/DrBiden)
+      * [@FLOTUS](http://twitter.com/flotus)
       * [@JEarnest44](http://twitter.com/jearnest44)
       * [@JesseCLee44](http://twitter.com/jesseclee44)
       * [@JoiningForces](http://twitter.com/joiningforces)
@@ -178,14 +180,20 @@ _Social Networks_
       * [@LaCasaBlanca](http://twitter.com/LaCasaBlanca)
       * [@LetsMove](http://twitter.com/letsmove)  
       * [@Macon44](http://twitter.com/macon44)
+      * [@NSCPress](https://twitter.com/NSCPress)
       * [@PeteSouza](http://twitter.com/petesouza)
       * [@Pfeiffer44](http://twitter.com/pfeiffer44)
       * [@PressSec](http://twitter.com/presssec)
       * [@ProjectMyGov](http://twitter.com/projectmygov)
+      * [@Rhodes44](https://twitter.com/Rhodes44)
+      * [@Simas44](https://twitter.com/simas44)
       * [@VJ44](http://twitter.com/vj44)
+      * [@VP](http://twitter.com/vp)
       * [@WethePeople](http://twitter.com/wethepeople)
       * [@WhiteHouse](http://twitter.com/whitehouse)
       * [@WHLive](http://twitter.com/whlive)
+      * [@WHVideo](http://twitter.com/whvideo)
+      * [@WHVine](http://twitter.com/whvine)
       * [@WHWeb](http://twitter.com/WHWeb)
     * MySpace ([Privacy](http://www.myspace.com/index.cfm?fuseaction=misc.privacy)) 
       * [The White House](http://www.myspace.com/whitehouse)
@@ -210,6 +218,9 @@ _Social Networks_
       *  [Kori Schulman](http://www.quora.com/Kori-Schulman-1)
     * SoundCloud: ([Privacy](http://soundcloud.com/pages/privacy)) 
       *  [White House](http://soundcloud.com/whitehouse)
+    * Thunderclap: ([Privacy](https://www.thunderclap.it/privacy))
+    * Tumblr: ([Privacy](http://www.tumblr.com/policy/en/privacy)) 
+      *  [The Official White House Tumblr](http://whitehouse.tumblr.com/)
 
 _  Video & Multimedia_
 
@@ -232,6 +243,11 @@ _  Video & Multimedia_
       *  [White House Podcasts](http://itunes.apple.com/WebObjects/MZStore.woa/wa/viewArtistLegacy?cc=us&id=299652047)
     * UStream: ([Privacy](http://www.ustream.tv/privacy-policy)) 
       * [The White House](http://www.ustream.tv/whitehouse)
+    * Pinterest: ([Privacy](http://pinterest.com/about/privacy/)) 
+      * [The White House](http://pinterest.com/whitehouse/)
+    * Vine: ([Privacy](http://vine.co/privacy)) 
+      * [@WhiteHouse](https://twitter.com/whitehouse)
+      * [@WHVine](http://twitter.com/whvine)
 
 _Document Sharing_
 
@@ -261,6 +277,6 @@ We take reasonable precautions to protect our site and information automatically
 
 
 
-Updated: November 26, 2012
+Updated: May 14, 2013
 
 Previous version(s) of this policy may be accessed on the [archive page](https://web.archive.org/privacy/archive).
