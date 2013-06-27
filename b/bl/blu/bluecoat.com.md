@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bluecoat.com privacy policy that was archived on 2012-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121113093129id_/http%3A//bluecoat.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bluecoat.com privacy policy that was archived on 2013-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130627063252id_/http%3A//bluecoat.com/privacy-policy) for the most accurate reproduction.*
 
 # Blue Coat – Privacy Policy
 
@@ -98,5 +98,6 @@ You are entitled to access the personal information that Blue Coat holds relatin
 
 ### Additional Questions
 
-If you have further questions or concerns about Blue Coat’s collection, use or disclosure of your personal information, please email the Blue Coat at [privacy@bluecoat.com](mailto:privacy@bluecoat.com). For more information about this site or your visit, please email us at webteam@bluecoat.com.  
-This document was last updated September 22, 2010
+If you have further questions or concerns about Blue Coat’s collection, use or disclosure of your personal information, please email the Blue Coat at [privacy@bluecoat.com](mailto:privacy@bluecoat.com). For more information about this site or your visit, please email us at [website@bluecoat.com](mailto:website@bluecoat.com).
+
+This document was last updated September 2010
