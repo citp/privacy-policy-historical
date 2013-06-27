@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the ebooks-share.net privacy policy that was archived on 2012-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121229092308id_/http%3A//ebooks-share.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ebooks-share.net privacy policy that was archived on 2013-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130628001654id_/http%3A//www.ebooks-share.net/privacy-policy) for the most accurate reproduction.*
 
-# eBooks-share.net - Free ebooks
+# eBooks-share.net - Privacy Policy
 
 **What information do we collect?**
 
@@ -55,7 +55,7 @@ This online privacy policy applies only to information collected through our web
 
  **Terms and Conditions**
 
-Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website at [Terms of Use](http://www.ebooks-share.net/terms-of-use/)
+Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website at [Terms of Use](https://web.archive.org/terms-of-use/)
 
  **Your Consent**
 
