@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the advantech.com privacy policy that was archived on 2012-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121224115959id_/http%3A//www.advantech.com/about/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the advantech.com privacy policy that was archived on 2013-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130627054204id_/http%3A//www.advantech.com/about/privacy.aspx) for the most accurate reproduction.*
 
-# Advantech - industrial computer , industrial chassis, embedded computer, industrial motherboard, network security appliance, industrial automation, digital video surveillance, panel PC, industrial IO
+# Privacy Policy - Advantech
 
 Advantech respects your right to privacy. The following policy we hope will answer any questions you might have concerning the way customer information is collected, controlled and safeguarded. Advantech follows all applicable laws on data privacy protection and data security. The ultimate goal for gathering information is to improve service and support to customers.
 
