@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pornper.com privacy policy that was archived on 2012-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121220053756id_/http%3A//www.pornper.com/static/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pornper.com privacy policy that was archived on 2013-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130627030146id_/http%3A//www.pornper.com/static/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - PornPer.com
 
