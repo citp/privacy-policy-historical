@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the theconstructioncentre.co.uk privacy policy that was archived on 2012-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121116130925id_/http%3A//www.theconstructioncentre.co.uk/information/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theconstructioncentre.co.uk privacy policy that was archived on 2013-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130627104802id_/http%3A//www.theconstructioncentre.co.uk/information/privacy.html) for the most accurate reproduction.*
 
 # The Construction Centre - Privacy
 
@@ -40,9 +40,7 @@ We have a policy of continual improvement of our site. We therefore collect info
 
 ### Use of cookies
 
-A cookie is a small piece of information sent by a web server to a web browser, which enables the server to collect information from the browser. Find out more about the use of cookies on [www.cookiecentral.com](http://www.cookiecentral.com/).
-
-theconstructioncentre.co.uk uses "cookies" to identify you when you visit this web site and to keep track of your browsing patterns and build up a demographic profile.
+Our cookie policy can be found [here](https://web.archive.org/web/20130627104802id_/http%3A//www.theconstructioncentre.co.uk/information/cookies.html)
 
 With regards to Google and the [DoubleClick DART cookie](http://www.doubleclick.com/privacy/faq.aspx) (used to serve ads on this site):
 
