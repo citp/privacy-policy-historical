@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the maniacstore.com privacy policy that was archived on 2012-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121230220911id_/http%3A//www.maniacstore.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the maniacstore.com privacy policy that was archived on 2013-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130627233409id_/http%3A//www.maniacstore.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Online Shopping India | Online Shop for Mobiles, Cameras, Perfumes & Accessories
 
@@ -6,7 +6,7 @@ We valued your trust in Maniacstore.com. That's the reason we insist upon the hi
 
 **Note:** Our privacy policy is subject to change without any prior notice. To make sure you are aware of any changes, please review our privacy policy periodically.
 
-### **Collection of Personally Identifiable Information**
+###  **Collection of Personally Identifiable Information**
 
 We collect personal identification information such as email address, your name, contact number, etc. from you when you create a free account with Maniacstore.com. While you can browse some sections of our website without being a registered member, certain activities including place an order do require registration.
 
@@ -46,6 +46,8 @@ If you want to remove your contact information from Maniacstore.com lists and ne
 ###  **Advertisements on Maniacstore.com**
 
 We will use third-party advertising companies for serve ads when you visit maniacstore website. Advertising companies will use information (not including your name, your address and email address, or contact number) about your visits to this and other websites in order to provide advertisements about products and services of interest to you.
+
+We have a tie-up with [www.cuponation.in](http://www.cuponation.in/) for coupons and deals along with out other affiliates as well.
 
 ###  **Controlling your personal information**
 
