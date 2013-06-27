@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the michaelpage.co.uk privacy policy that was archived on 2012-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121016060519id_/http%3A//www.michaelpage.co.uk/content/15530/data-protection-and-privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the michaelpage.co.uk privacy policy that was archived on 2013-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130627034528id_/http%3A//www.michaelpage.co.uk/content/15530/data-protection-and-privacy-policy.html) for the most accurate reproduction.*
 
-# Data Protection and Privacy Policy - Michael Page International
+# Data Protection and Privacy Policy - Michael Page
 
 Michael Page International Recruitment Limited (company number 4130921) ("Michael Page International") is committed to protecting the privacy of our candidates, clients and users of our website. We want to provide a safe and secure user experience. We will ensure that the information you submit to us via our website or through any of our offices or other international websites or offices is only used for the purposes set out in this policy. 
 
