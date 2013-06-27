@@ -1,6 +1,13 @@
-> *The following text is extracted and transformed from the destructoid.com privacy policy that was archived on 2012-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121211071510id_/http%3A//www.destructoid.com/privacy-policy-28114.phtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the destructoid.com privacy policy that was archived on 2013-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130627214342id_/http%3A//www.destructoid.com/destructoid-com-privacy-policy-28114.phtml) for the most accurate reproduction.*
 
 # destructoid.com privacy policy - Destructoid
+
+  
+  
+
+
+  
+
 
 Destructoid is a trusted community site so we hold ourselves to the highest privacy standards. Simply put -- We would never sell your email address, nor share it with with anyone, or ever spam you -- ever, end of story. We also have everything in place to keep the bad guys out. We would also never ask you for your passwords, credit card, phone, etc. We don't even care if you don't give us your real name, to be honest.
 
@@ -46,66 +53,43 @@ Be sure that you only disclose your e-mail address in circumstances in which it 
 If you have any questions about this privacy statement, the practices of this site, or your dealings with this Website, you can contact the site owner at [niero@destructoid.com](mailto:niero@destructoid.com). I will do our best to reply within 48 hours.
 
   
+  
+  
+  
 
 
-* * *
+| 
 
-9:30 AM on 12.10.2012   //   [Jim Sterling](http://www.destructoid.com/userblog_show_promoted_blogs.phtml?a=8423)
+[](http://www.destructoid.com/author.phtml?name=Niero%20Gonzalez&a=1329)
 
-Analyst James Hardiman claims the software attach rate for the Wii U since its November US launch is 1.2, with only one in five buyers considered to have bought a new game on top of packed-in software. Hardiman offers tw...   [more](http://www.destructoid.com/analyst-wii-u-software-attach-rate-is-1-2-in-us-240265.phtml)
+[](http://www.destructoid.com/microsoft-reportedly-no-longer-charges-for-patches-257105.phtml)
 
-[](http://www.destructoid.com/analyst-wii-u-software-attach-rate-is-1-2-in-us-240265.phtml)[](http://www.destructoid.com/analyst-wii-u-software-attach-rate-is-1-2-in-us-240265.phtml)
+Eurogamer is reporting that Microsoft has ended its unfortunate policy of charging developers hand over fist to patch Xbox 360 games. Instead of granting just one free update, developers allegedly can now submit subsequent up...[more](http://www.destructoid.com/microsoft-reportedly-no-longer-charges-for-patches-257105.phtml)
 
-9:00 AM on 12.07.2012   //   [Jim Sterling](http://www.destructoid.com/userblog_show_promoted_blogs.phtml?a=8423)
+  
 
-Microsoft is currently preening its feathers over another US victory, boasting an NPD victory over both the PS3 and newly released Wii U this November. Although figures overall are down, Microsoft's Xbox division is still doi...   [more](http://www.destructoid.com/xbox-360-dominates-ps3-wii-u-november-sales-in-us-240085.phtml)
 
-[](http://www.destructoid.com/xbox-360-dominates-ps3-wii-u-november-sales-in-us-240085.phtml)[](http://www.destructoid.com/xbox-360-dominates-ps3-wii-u-november-sales-in-us-240085.phtml)
+  
 
-2:30 PM on 11.30.2012   //   [Jim Sterling](http://www.destructoid.com/userblog_show_promoted_blogs.phtml?a=8423)
 
-The Wii U has had a chance to settle in North America, and just recently hit shelves in Europe. The question on everybody's lips is, of course -- is the Wii U the best home console in the world, and should I throw away every ...   [more](http://www.destructoid.com/wii-u-is-blatantly-better-than-ps3-and-xbox-360-combined-239580.phtml)
+[](http://www.destructoid.com/id-software-president-parts-ways-with-company-257019.phtml)
 
-[](http://www.destructoid.com/wii-u-is-blatantly-better-than-ps3-and-xbox-360-combined-239580.phtml)[](http://www.destructoid.com/wii-u-is-blatantly-better-than-ps3-and-xbox-360-combined-239580.phtml)
+Retirement, it would seem, is in the cards for many of this industry's pioneers and luminaries. In a statement released to IGN, Bethesda has confirmed that id Software president Todd Hollenshead has parted ways with the house...[more](http://www.destructoid.com/id-software-president-parts-ways-with-company-257019.phtml)
 
-10:00 AM on 11.16.2012   //   [Jim Sterling](http://www.destructoid.com/userblog_show_promoted_blogs.phtml?a=8423)
+  
 
-Thomas Truong, the man responsible for the excellent New Adventures of Podtoid, has been working on another project, and it's quite glorious. He's gone and taken a section of an old article I wrote, How Xbox Live is Blatantl...   [more](http://www.destructoid.com/how-xbox-live-is-blatantly-better-than-psn-animated-238751.phtml)
 
-[](http://www.destructoid.com/how-xbox-live-is-blatantly-better-than-psn-animated-238751.phtml)[](http://www.destructoid.com/how-xbox-live-is-blatantly-better-than-psn-animated-238751.phtml)
+  
 
-9:00 AM on 11.13.2012   //   [Jim Sterling](http://www.destructoid.com/userblog_show_promoted_blogs.phtml?a=8423)
 
-Ubisoft, while usually 100% behind any new console that it can use to flog dead horses on, has reserved some criticism for the Wii U. More specifically, CEO Yves Guillemot thinks it's too expensive, and would like to see the ...   [more](http://www.destructoid.com/ubisoft-is-unhappy-with-the-price-of-the-wii-u-238491.phtml)
+[](http://www.destructoid.com/activision-microsoft-must-prove-xbox-one-s-value-257081.phtml)
 
-[](http://www.destructoid.com/ubisoft-is-unhappy-with-the-price-of-the-wii-u-238491.phtml)[](http://www.destructoid.com/ubisoft-is-unhappy-with-the-price-of-the-wii-u-238491.phtml)
+Sony cut the PlayStation 4's camera leading up to E3 to help drive their console's price point to a cool $399. Meanwhile, the Xbox One has consumers subsidizing the Kinect with its $499 price point and weaker specs. According...[more](http://www.destructoid.com/activision-microsoft-must-prove-xbox-one-s-value-257081.phtml)
 
-4:30 PM on 11.06.2012   //   [Jim Sterling](http://www.destructoid.com/userblog_show_promoted_blogs.phtml?a=8423)
+  
 
-Star Citizen creator Chris Roberts has said that his new game simply couldn't be handled by a PS3 or Xbox 360, and that even the next home console generation would struggle to run it. According to Roberts, anything we'll see ...   [more](http://www.destructoid.com/dev-top-pcs-more-powerful-than-next-gen-consoles-238114.phtml)
 
-[](http://www.destructoid.com/dev-top-pcs-more-powerful-than-next-gen-consoles-238114.phtml)[](http://www.destructoid.com/dev-top-pcs-more-powerful-than-next-gen-consoles-238114.phtml)
-
-2:30 PM on 09.24.2012   //   [Jim Sterling](http://www.destructoid.com/userblog_show_promoted_blogs.phtml?a=8423)
-
-Reactions to the Wii U among hardcore gamers have been mixed at best, downright cynical at worst. Not least of the system's problems is the fact that the next PlayStation and Xbox are going to inevitably upstage it with superior firepower. However, outside of raw tech-specs, Nintendo may have one thing Sony and Microsoft lack. The ability to survive the biggest threat of this next generation.   [more](http://www.destructoid.com/jimquisition-wii-u-may-have-already-won-next-gen-235588.phtml)
-
-[](http://www.destructoid.com/jimquisition-wii-u-may-have-already-won-next-gen-235588.phtml)[](http://www.destructoid.com/jimquisition-wii-u-may-have-already-won-next-gen-235588.phtml)
-
-7:30 PM on 09.21.2012   //   [Jim Sterling](http://www.destructoid.com/userblog_show_promoted_blogs.phtml?a=8423)
-
-Since E3, Sony's given the impression that it intended to use the PlayStation Vita's crossover potential with the PS3 as a way of competing against Nintendo's Wii U. This week, the company all but said it, with John Koll...   [more](http://www.destructoid.com/sony-ps3-vita-crossover-can-easily-do-what-wii-u-does-235449.phtml)
-
-[](http://www.destructoid.com/sony-ps3-vita-crossover-can-easily-do-what-wii-u-does-235449.phtml)[](http://www.destructoid.com/sony-ps3-vita-crossover-can-easily-do-what-wii-u-does-235449.phtml)
-
-9:00 AM on 09.19.2012   //   [Jim Sterling](http://www.destructoid.com/userblog_show_promoted_blogs.phtml?a=8423)
-
-Resident Evil 6 will ship on two DVDs and one Blu-ray disc. We've all been there before. However, this time around there'll be no need to swap the discs half way through a game -- it turns out this is a particular requirement...   [more](http://www.destructoid.com/resident-evil-6-uses-two-discs-on-xbox-360-kinda-235300.phtml)
-
-[](http://www.destructoid.com/resident-evil-6-uses-two-discs-on-xbox-360-kinda-235300.phtml)[](http://www.destructoid.com/resident-evil-6-uses-two-discs-on-xbox-360-kinda-235300.phtml)
-
-11:15 AM on 09.05.2012   //   [Jim Sterling](http://www.destructoid.com/userblog_show_promoted_blogs.phtml?a=8423)
-
-The Elder Scrolls V: Skyrim received it's Hearthfire home-building DLC this week, but only if you have the Xbox 360 version. PC users will have to wait, while PS3 users haven't even got Dawnguard -- and may never get it. Natu...   [more](http://www.destructoid.com/ps3-user-mad-about-skyrim-s-dlc-snub-just-stop-crying--234406.phtml)
-
-[](http://www.destructoid.com/ps3-user-mad-about-skyrim-s-dlc-snub-just-stop-crying--234406.phtml)[](http://www.destructoid.com/ps3-user-mad-about-skyrim-s-dlc-snub-just-stop-crying--234406.phtml)
+  
+  
+  
+---|---
