@@ -1,16 +1,18 @@
-> *The following text is extracted and transformed from the hostexcellence.com privacy policy that was archived on 2012-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121101233923id_/http%3A//www.hostexcellence.com/index.php/v2/pages.privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hostexcellence.com privacy policy that was archived on 2013-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130627121537id_/http%3A//www.hostexcellence.com/privacy-policy) for the most accurate reproduction.*
 
-# Host Excellence
+# Our Web Hosting Privacy Policy | Host Excellence
 
 Privacy Policy
 
-**(v1.1, Effective April 26, 2007)**
+**(v1.2, Effective March 25, 2013)**
 
 The following privacy policy must be agreed to and abided by for use of our services. Please read it carefully and contact us in case of any questions.
 
 A TRUSTe Privacy Program Member
 
-Ecommerce Corporation (dba Host Excellence) is a licensee of the TRUSTe Privacy Program. TRUSTe is an independent, non-profit organization whose mission is to build users' trust and confidence in the Internet by promoting the use of fair information practices. This privacy statement covers the site www.hostexcellence.com. 
+Ecommerce Corporation has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with [TRUSTe's program requirements](http://www.truste.com/privacy-program-requirements/index.html) including transparency, accountability and choice regarding the collection and use of your personal information. The TRUSTe program covers the web site  www.hostexcellence.com.  TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy policy or practices, please contact us at [info@ecommerce.com](mailto:info@ecommerce.com). If you are not satisfied with our response you can contact TRUSTe [here](http://watchdog.truste.com/pvr.php?page=complaint). 
+
+[](http://www.hostexcellence.com/privacy-policy#top)
 
 I. Privacy
 
@@ -64,15 +66,17 @@ Ecommerce may from time to time engage third parties, including its own subsidia
 
 We use various credit card processing companies to bill you for our services. These companies do not retain, share, store or use personally identifiable information for any other purposes. No other third party services are used to provide the services you purchase from us, thusly no personally identifiable information is provided beyond our service. 
 
+We have implemented and use Display Advertising (e.g., Remarketing) to advertise online. You can opt-out of Google Analytics for Display Advertising using the Ads Preferences Manager. Third-party vendors, including Google, may show our ads on sites across the Internet using first & third party cookies. 
+
 [](http://www.hostexcellence.com/privacy-policy#top)
 
 VII. Special Offers and Updates
 
 Our customers and users will occasionally receive newsletters or e-mails with information on products, services, or special offers. Out of respect for the privacy of our users, Ecommerce gives them the opportunity to opt-out from receiving these types of communications. 
 
-If do not wish to receive our newsletter, promotional communications or any other non-service related communication, you may opt-out of receiving them by following the instructions included in each newsletter or communication or by emailing us at [info@ecommerce.com](mailto:info@ecommerce.com) or you may contact us at 1-800-861-9394 or via written mail by sending a letter to 1774 Dividend Drive, Columbus, OH 43228, to opt-out. 
+If do not wish to receive our newsletter, promotional communications or any other non-service related communication, you may opt-out of receiving them by following the instructions included in each newsletter or communication or by emailing us at [info@ecommerce.com](mailto:info@ecommerce.com) or you may contact us at +1 (614) 534-1961 or via written mail by sending a letter to 1774 Dividend Drive, Columbus, OH 43228, to opt-out. 
 
-On some occasions, it may be necessary to send out service-related announcements. In most cases, users may not opt-out of these communications. If you do not wish to receive them, you have the option to deactivate your account. You may deactivate your account by creating a cancellation request ticket in your hosting control panel, or by emailing us at [info@ecommerce.com](mailto:info@ecommerce.com) or by contacting us at 1-800-861-9394 or via written mail by sending a letter to 1774 Dividend Drive, Columbus, OH 43228, to opt-out. 
+On some occasions, it may be necessary to send out service-related announcements. In most cases, users may not opt-out of these communications. If you do not wish to receive them, you have the option to deactivate your account. You may deactivate your account by creating a cancellation request ticket in your hosting control panel, or by emailing us at [info@ecommerce.com](mailto:info@ecommerce.com) or by contacting us at +1 (614) 534-1961 or via written mail by sending a letter to 1774 Dividend Drive, Columbus, OH 43228, to opt-out. 
 
 [](http://www.hostexcellence.com/privacy-policy#top)
 
@@ -103,7 +107,7 @@ If you have any questions about security on our Web site, you can send email us 
 
 X. Access to Personally Identifiable Information
 
-If your personally identifiable information changes, or if you no longer desire our service, you may [correct, update, delete or deactivate it] by making the changes within your user control panel. Alternatively, you may inform us of any changes by emailing us at [info@ecommerce.com](mailto:info@ecommerce.com) or by contacting us by telephone at 1-800-861-9394 or via postal mail at 1774 Dividend Drive, Columbus, OH 43228. 
+If your personally identifiable information changes, or if you no longer desire our service, you may [correct, update, delete or deactivate it] by making the changes within your user control panel. Alternatively, you may inform us of any changes by emailing us at [info@ecommerce.com](mailto:info@ecommerce.com) or by contacting us by telephone at +1 (614) 534-1961 or via postal mail at 1774 Dividend Drive, Columbus, OH 43228. 
 
 [](http://www.hostexcellence.com/privacy-policy#top)
 
