@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the zedo.com privacy policy that was archived on 2012-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121229200831id_/http%3A//www.zedo.com/about-zedo/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zedo.com privacy policy that was archived on 2013-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130627111113id_/http%3A//www.zedo.com/about-zedo/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | ZEDO, Inc.
+# ZEDO Privacy Policy
 
 _Updated May 2012_
 
