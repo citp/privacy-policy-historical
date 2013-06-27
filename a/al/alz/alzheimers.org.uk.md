@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the alzheimers.org.uk privacy policy that was archived on 2012-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121220213643id_/http%3A//www.alzheimers.org.uk/site/scripts/terms.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the alzheimers.org.uk privacy policy that was archived on 2013-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130627221738id_/http%3A//www.alzheimers.org.uk/site/scripts/terms.php) for the most accurate reproduction.*
 
 # Terms and disclaimer - Alzheimer's Society
 
-## © Copyright 1998-2012 Alzheimer's Society  
+## © Copyright 1998-2013 Alzheimer's Society  
 All rights reserved
 
 The information provided on this site is for the benefit of people with dementia, carers, health and social care professionals and others with an interest in dementia. 
@@ -13,7 +13,7 @@ Commercial use or publication of all or any item displayed is strictly prohibite
 
 Using any of Alzheimer's Society's registered logos, graphics or photographs without the Society's prior consent is strictly prohibited.
 
-If you wish to request permission to re-use content from any or part of Alzheimer's Society's publications or website in any media, [please complete this form](http://alzheimers.org.uk/site/scripts/xforms_form.php?formID=238). 
+If you wish to request permission to re-use content from any or part of Alzheimer's Society's publications or website in any media, [please complete this form](http://www.alzheimers.org.uk/site/scripts/xforms_form.php?formID=238). 
 
 ## Disclaimer 
 
@@ -57,7 +57,7 @@ This site only uses cookies in order to provide a service to visitors. No person
 
 
 
-For more details see the [full list of all cookies used on this website](http://alzheimers.org.uk/site/scripts/documents_info.php?documentID=1875).
+For more details see the [full list of all cookies used on this website](http://www.alzheimers.org.uk/site/scripts/documents_info.php?documentID=1875).
 
 ## Safety online   
 
