@@ -1,90 +1,87 @@
-> *The following text is extracted and transformed from the sho.com privacy policy that was archived on 2005-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051229231448id_/http%3A//www.sho.com/site/util/privacy.do) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sho.com privacy policy that was archived on 2013-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130627031326id_/http%3A//www.sho.com/sho/about/privacy) for the most accurate reproduction.*
 
-# Showtime - Privacy
+# Showtime : Privacy
 
-| | PROGRAMMING  
----|---  
-| [Schedule](http://www.sho.com/site/schedules/)  
-| [Original Series](http://www.sho.com/site/series/)  
-| [Movies](http://www.sho.com/site/movies/)  
-| [Boxing](http://www.sho.com/site/boxing/)  
-| [Video Clips](http://www.sho.com/site/video/)  
-| [Downloads](http://www.sho.com/site/downloads/)  
-| [Store](http://catalog.fullpond.com/show/)  
-| [Wireless Store](http://www.sho.com/site/mqube/home.do)  
-| SHOWTIME UNLIMITED  
-| [Order Showtime](http://www.sho.com/site/order/)  
-| [The Movie Channel](http://www.sho.com/site/tmc/)  
-| [HDTV](http://www.sho.com/site/enhancements/hdtv.do)  
-| [On Demand](http://www.sho.com/site/ondemand/start.do)  
-| [Digital Enhancements](http://www.sho.com/site/enhancements/)  
-| [Announcements](http://www.sho.com/site/announcements/home.do)  
-| UPDATES  
-| Click here to receive email/wireless updates from Showtime  
-  
-  
-  
-| 
+## Privacy Statement
 
-**SHO.COM PRIVACY POLICY**
+Showtime Networks Inc. ("Provider," "we" or "us") owns, operates and/or provides access to SHO.com and several interactive web sites and other interactive features that provide an authorized link to this Privacy Policy (collectively, the "Site"). Provider is committed to protecting the privacy of its users and has prepared the following statement to inform users how information is gathered from the Site and used by Provider. We encourage users of the Site to be smart about choosing when, and to whom, to release information. This policy may be updated from time to time, so please check back periodically. We will notify you of significant changes by prominently posting them on the Site and/or by sending an email to the primary address specified in your account.
 
-SHO.COM is committed to protecting the privacy of its visitors and has prepared the following statement to inform users how personally identifying information and non-personally identifying information is gathered from our website and used by SHO.COM. SHO.COM encourages its website users to be smart about choosing when, and to whom, to release information online. This policy may be updated from time to time, so please check back periodically. We will notify you of significant changes by prominently posting them at our site, or by sending an e-mail to the primary address specified in your account. Please note that SHO.COM is intended for use by United States residents only and, therefore, SHO.COM's Privacy Policy is specifically directed only towards residents of the United States. 
+Please note that the Site is intended for use by residents of the United States, its territories and possessions ("U.S.") only and, therefore, this Privacy Policy is specifically directed only towards residents of the U.S. We make no representation that content on the Site is appropriate or available for use in locations outside of the U.S., and accessing it from territories where the content is illegal is prohibited. If you are located in the European Union or elsewhere outside of the U.S. and you use the Site contrary to our policy that only U.S. residents are eligible to use the Site, you do so at your own risk and initiative, and are responsible for compliance with any applicable local and national laws. Please be aware that any information you submit to us will be transferred to and processed in the U.S and subject to U.S. law. By using the Site and/or providing us with your information, you consent to this collection, transfer, storage and processing of information to and in the U.S., and waive any claims that may arise under your own local and national laws.
 
-NON-PERSONALLY IDENTIFIABLE INFORMATION  
-Certain non-personally identifiable information about our visitors is collected by the standard operation of SHO.COM's internet servers and through the use of "cookie" technology (as described below), such as the type of internet browser you are using and the domain name of your internet service provider, where you go within the site, how much time you spend in any particular area and what you buy. 
+## Your California Privacy Rights
 
-COOKIES  
-A "cookie" is a small amount of data that is sent to your browser from a web server and stored on your computer's hard drive. All sites on SHO.COM where you are prompted to log-in or that are customizable by you require that you accept cookies. Generally, we use cookies to: 
+If you are a California resident that has an established business relationship with us and wish to receive information about how to exercise your third party disclosure choices, you must send a request to the following address with a preference as to how our response to your request should be sent (email or postal mail). You may contact us in two ways. You may visit [www.sho.com/contact](http://www.sho.com/contact). Alternatively, you may contact Provider at:
 
-  1. Remind us of who you are and to access your account information (stored on our computers) in order to deliver to you a better and more personalized service. This cookie is set when you register or "Sign In" and is modified when you "Sign Out" of our services. SHO.COM also uses cookies to store your zip code for other services, such as facilitating your subscribing to Showtime via the website. 
-  2. Estimate our audience size. Each browser accessing SHO.COM is given a unique cookie which is then used to determine the extent of repeat usage, usage by a registered user versus by an unregistered user, and to help target advertisements based on user interests and behavior. 
-  3. Assist us in tracking visits to and business at our store, and to process the items in your shopping basket. This information collected by cookies is sometimes called "clickstream" or "click trail" and may also describe which pages you have seen in each part of the store. 
-  4. Track your progress and number of entries in some of our promotions, sweepstakes and contests. When a SHO.COM-hosted promotion uses cookies, the information written to the cookie indicates the player's progress through the promotion, and may be used to track entries, submissions, and status in prize drawings. 
-  5. Measure certain traffic patterns, which areas of the SHO.COM web site you have visited, and your visiting patterns in the aggregate. We use this research to understand how our users' habits are similar or different from one another so that we can make each new experience on SHO.COM a better one. We may use this information to better personalize the content, banners, and promotions that you and other users will see on our sites. 
+Showtime Networks Inc.  
+1633 Broadway  
+New York, NY 10019  
+Attn: Your California Privacy Rights  
+c/o Privacy Administrator  
+
+
+For requests sent via email, you must put the statement "Your California Privacy Rights" in the subject field of your email. All requests sent via postal mail must be labeled "Your California Privacy Rights" on the accompanying envelope or post card and clearly stated on the actual request. For all requests, please include your name, street address, city, state, and zip code. (Your street address is optional if you wish to receive a response to your request via email. However, please include your zip code for our own recordkeeping.) We will not accept requests via the telephone or by facsimile. We are not responsible for requests that are not labeled or sent properly, or do not have complete information.
+
+## Collection and Use of Information You Give Us Directly
+
+Personal Information is information that identifies you and that you provide us directly, such as
+
+  * information we request when you register with the Site, including your name, street address, telephone number, e-mail address, and date of birth;
+  * information you provide if you complete a survey that we use for research purposes, or enter a sweepstakes, contest or other online promotion;
+  * information you provide if you report a problem with the Site or contact us for other reasons;
+  * your mobile phone number and carrier if you sign up for wireless updates and other promotions.
 
 
 
-Advertisers that serve ads onto SHO.COM may also use their own cookies.   
-You have choices with respect to cookies. By modifying your browser preferences, you have the choice to accept all cookies, to be notified when a cookie is set, or to reject all cookies. If you choose to reject all cookies you will be unable to use those SHO.COM services that require registration in order to participate. These services include (but are not limited to): e-mail schedule reminders, subscribing to Showtime via the website, participating in any loyalty or incentive programs and customizing your home page. 
+Personal Information will be used (1) to process your requests (e.g., register you for a contest or sweepstakes); (2) to communicate with you based on your stated interests and preferences or make related offers to you; (3) to personalize the content or advertising you see on the Site; (4) to administer the Site or serve you when you have questions or problems; and (5) for any other purpose disclosed to you at the time we collect your information or pursuant to your consent.
 
-Information collected by the standard operation of SHO.COM's internet servers and through the use of cookies is analyzed by SHO.COM only in aggregate form and is used to improve the content of our website, to tailor the content and/or layout to consumer trends and to notify users about updates to the site. SHO.COM reserves the right to disclose or otherwise utilize this information in aggregate form, for any purpose, in its sole judgment. 
+## Collection and Use of Information Automatically Gathered Through the Site
 
-Log data collected on web servers both within SHO.COM's control and under the confidential control of SHO.COM's third party ad service provider(s) supplies SHO.COM with aggregate information about the number of visits to different pages on our site. This information is not personally identifiable information and is used by SHO.COM to improve the content of our website. 
+Some information about our users is collected by the standard operation of the Site's internet servers and through the use of other technologies. This information includes Internet Protocol (IP) addresses, browser type, Internet Service Provider (ISP), referring/exit pages, operating system, date/time stamp, clickstream data, length of time viewing a particular program, and pixel tags.
 
-PERSONALLY IDENTIFIABLE INFORMATION COLLECTION AND USE  
-SHO.COM also collects personally identifiable information (such as your name, street address, telephone number and e-mail address) from voluntary submissions as part of site registration, sweepstakes, contests, and other online promotions, when you place an order for merchandise, complete a survey that we use for research purposes, or when you report a problem with our site or one of our services. We also enable users to provide their mobile phone numbers and carriers so that they can sign up for wireless updates and other promotions. In addition, if you contact Showtime Online, we may keep a record of that correspondence. 
+Collecting this information helps us understand which parts of the Site are the most popular, where our visitors are coming from and where they are going, how much time they spend on the Site, and the effectiveness of searches customers perform on the Site. We use the information to analyze trends, study traffic patterns, and gather demographic information about our user base, which in turn allows us to make the Site even more rewarding and improve the effectiveness of our customer communications. We also use such information to provide greater convenience and to customize your experience. For example, we may share this information with third-party web analytics companies in order to present you with targeted promotional content on the Site.
 
-Personally identifiable information will be used by SHO.COM (1) to process your requests (e.g., register you for a contest or sweepstakes or fulfill your merchandise order); (2) to communicate with you or personalize the site based on your stated interests and preferences or make related offers to you; (3) to administer the site or serve you when you have questions or problems; and/or (4) as may, in SHO.COM's sole judgment, be required by any applicable laws, rules or regulations or the Terms and Conditions applicable to this website. 
+We may also allow third-party companies to collect some information on our Site. For more information about how third parties may collect your information through this Site and your choices regarding the collection and use of this information, see "Collection of Information by Third Party Sites," below.
 
-Personally identifiable information will be shared with third parties to further the purpose for which you provide such information (e.g., to process your subscription request or merchandise order) or when we believe in good faith that the law requires it, or to protect the rights or property of SHO.COM or its affiliates or subscribers or to comply with legal or regulatory obligations. In addition, we may transfer information to a third party in the event of corporate restructuring (e.g., a sale, merger, or other transfer of assets). 
+## Disclosure of Information About You
 
-Agents and contractors of Showtime who have access to personally identifiable information are required to protect this information in a manner that is consistent with this Privacy Policy by, for example, not using the information for any purpose other than to carry out the services they are performing for us. 
+Information that we have collected about you may be shared with third-party vendors who help us with specialized services, such as customer support, payment processing, business analytics, data processing, advertising, and account management. Currently, we do not share information that we have collected about you with any other third parties for their own marketing purposes without first obtaining your prior permission. Agents, contractors and licensees of Provider who are granted access to information we have collected about you are required to protect such information in a manner that is consistent with this Privacy Policy by, for example, not using the information for any purpose other than to carry out the services they are performing for us.
 
-Currently, we do not share personally identifiable information with unrelated third parties for their own marketing purposes without your prior permission. 
+Note that we may allow some third-party companies to directly collect some information on our site using technologies such as pixel tags. For more information, see "Collection of Information by Third Party Sites," below.
 
-YOUR CHOICES  
-We have developed a system that enables you to express your preferences regarding our newsletters and communications. To remove yourself from a mailing list, go to the edit profile section: <http://sho.com/site/membership/editprofile.do> and log in with your email and SHO.com password. You can view and change your email preferences. To unsubscribe from a certain newsletter, uncheck the appropriate box. If you'd like to add a new newsletter, simply check the corresponding box. Be sure to click the submit changes link at the bottom of the page to make sure your preferences get updated. 
+There may be instances when we disclose information about you (1) in our sole judgment, as may be necessary to comply with any applicable laws, rules or regulations (such as U.S. Copyright Law) or the Terms of Use applicable to the Site, (2) to protect the rights, property, or safety of Provider, its affiliates or users; and/or (3) in our sole judgment, as may be necessary to respond to a court order, subpoena, or search warrant. We also may transfer information to a third party in the event of corporate restructuring (e.g., a sale, merger, or other transfer of assets or stock).
 
-COLLECTION OF INFORMATION BY THIRD PARTY SITES AND SPONSORS  
-Please be aware that SHO.COM advertisers or web sites that have links on our site may collect personally identifiable information about you. The information practices of those web sites linked to SHO.COM are not covered by this privacy policy. 
+## Your Choices
 
-We sometimes may offer content (e.g., contests, sweepstakes, or promotions) that is sponsored by or co-branded with identified third parties. By virtue of these relationships, the third parties may obtain personally identifiable information that visitors voluntarily submit to participate in the site activity. We have no control over these third parties' use of this information. The site will notify you at the time of requesting personally identifiable information if these third parties will obtain such information. 
+With respect to SHO.com, we have developed a system that enables you to express your preferences regarding our newsletters and communications. To remove yourself from a mailing list, go to the edit profile section: <http://sho.com/sho/accounts/users/edit> and log in with your email and SHO.com password. You can view and change your email preferences. To unsubscribe from a certain newsletter, uncheck the appropriate box. If you'd like to add a new newsletter, simply check the corresponding box. Be sure to click the submit changes link at the bottom of the page to make sure your preferences get updated. If you are under the age of 18, you do not have access to our communication tools.
 
-SHO.COM uses third-party advertising companies to serve ads when you visit our website. These companies may use non-personally identifiable information about your visits to this and other websites in order to provide advertisements on this site and other sites about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, [click here](http://www.doubleclick.com/naiprivacy/). 
+Please note that even if you opt not to receive promotional messages in accordance with the preceding paragraph, we may still send you communications relating to your use of the Site, such as administrative messages, service announcements, or terms and conditions of your account.
 
-SHOPPING SERVICES  
-SHO.COM strives to offer its visitors a secure and safe environment for credit card purchases. The shopping and fulfillment services offered on SHO.COM are operated by SHO.COM's agent, who collects personally identifiable information necessary to accept, process and ship your ordered merchandise on behalf of SHO.COM, to provide you with information you may request and updates on the status of your order, and to assist your purchasing experience. 
+## Collection of Information by Third Party Sites
 
-SECURITY  
-Unfortunately, no data transmission over the Internet can be guaranteed to be 100% secure. As a result, while we strive to protect your personal information, SHO.COM cannot ensure or warrant the security of any information you transmit to us or from our online products or services, and you do so at your own risk. Once we receive your transmission, we use reasonable efforts to ensure that collected personally identifiable information is secure and not readily accessible to unapproved individuals or third parties. SHO.COM has limited the number of people who have physical access to our database servers and has implemented electronic security systems and password protections which help further guard against unauthorized access. 
+The Site uses services provided by third-party advertising companies. These companies may collect information when you visit the Site through the use of technologies such as pixel tags. Pixel tags are small images that collect certain types of information (such as your IP address and what page you are visiting) when you view a page, video, or email in which the tag is embedded. The third-party advertising companies we work with may use information about your visits to this Site and other web sites in order to provide advertisements on the Site and other sites about goods and services of interest to you. The information practices of these advertising companies are governed by their own privacy policies and are not covered by this Privacy Policy. If you would like more information on your choices regarding this practice and the use of this information, click [here](http://www.networkadvertising.org/choices/) and [here](http://www.aboutads.info/choices/).
 
-REVIEWING YOUR INFORMATION  
-To access the personally identifiable information that this Web site has collected about you online, to correct factual errors in such information, or to update your interests, preferences or other portions of your user profile, please go to the edit profile section: <http://sho.com/site/membership/editprofile.do> and log in with your email and SHO.com password. 
+Please be aware that third-party websites that have links on the Site may solicit information from you, including Personal Information. The practices of those websites linked to the Site are not covered by this Privacy Policy. We sometimes may offer content (e.g., contests, sweepstakes, or promotions) that is sponsored by or co-branded with identified third parties. By virtue of these relationships, the third parties may obtain information that users voluntarily submit in order to participate in the activity offered on the Site. We have no control over these third parties' use of this information. We will notify you at the time of the request if these third parties will obtain such information.
 
-CHILDREN  
-SHO.COM is sensitive to parents' concerns about the collection of personally identifiable information from children. As such, SHO.COM will not collect knowingly personally identifiable information from children age 12 and under. 
+## Shopping Services
 
-CONTACT INFORMATION  
-If you have any questions, comments or concerns regarding SHO.COM's privacy policy and/or practices, please visit [www.sho.com/contact](http://www.sho.com/contact/) or write us at Showtime Networks Inc., 1633 Broadway, New York, NY 10019 ATTN: Legal Department. 
+The Site strives to offer its visitors a secure and safe environment for credit card purchases. The shopping and fulfillment services offered on the Site are operated by Provider's agent, who collects personally identifiable information necessary to accept, process and ship your ordered merchandise on behalf of Provider, to provide you with information you may request and updates on the status of your order, and to assist your purchasing experience.
 
-Updated: April 8, 2005 
+## Security
+
+We follow commercially reasonable procedures to collect, manage, maintain and store user information, using acceptable industry standards of security technology and practices (such as electronic security systems and password protections) to protect against loss, misuse or alteration. We also request that our operational service providers take such precautions. Unfortunately, no data transmission over the Internet or data storage system can be guaranteed to be 100% secure. As a result, while we strive to protect the information we collect from you, we cannot ensure or warrant the security of any information you transmit to us or from the Site, and you do so at your own risk. Please refer to the [U.S. Federal Trade Commission's website](http://www.ftc.gov/bcp/menus/consumer/data/idt.shtm) for information on how to protect yourself from identity theft.
+
+We will retain your information as long as reasonably necessary to fulfill your requests with respect to the Site, process payment for your orders, and to comply with regulatory, legal and corporate record keeping requirements.
+
+## Reviewing Your Information
+
+To access the Personal Information that the Site has collected about you, to correct factual errors in such information, to remove information from your account profile, or to update your interests, preferences or other portions of your account profile, please go to the [edit profile section](https://web.archive.org/sho/accounts/users/edit) and log in with your email and SHO.com password or visit [www.sho.com/contact.](http://www.sho.com/contact)
+
+## Children's Use of the Site
+
+We are sensitive to parents' concerns about the collection of information from children. We do not retain Personal Information from children under the age of 18. If, during the registration or account management process, we learn that a user is under 18, we delete any Personal Information collected from that user. Nor will children under 18 be able to use our communications tools or submit information to any public area of the Site (which includes, but is not limited to, message/bulletin boards, forums and contests and chat rooms). We do not share children's Personal Information with outside third parties for their own marketing purposes.
+
+## Contact Information
+
+If you have any questions, comments or concerns regarding Provider's Privacy Policy and/or practices, please visit [www.sho.com/contact](http://www.sho.com/contact) or write to us at Showtime Networks Inc., 1633 Broadway, New York, NY 10019 Attn: Customer Service.
+
+This Privacy Policy was last updated December 20, 2012.
