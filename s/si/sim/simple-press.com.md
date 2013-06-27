@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the simple-press.com privacy policy that was archived on 2012-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121119205915id_/http%3A//simple-press.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the simple-press.com privacy policy that was archived on 2013-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130628000915id_/http%3A//simple-press.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy | Simple:Press
 
 ### PRIVACY POLICY
 
