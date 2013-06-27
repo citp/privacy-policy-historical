@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bloggertricks.com privacy policy that was archived on 2012-09-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120924060749id_/http%3A//bloggertricks.com/2008/12/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bloggertricks.com privacy policy that was archived on 2013-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130627191526id_/http%3A//bloggertricks.com/2008/12/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy | Blogger Tricks
 
