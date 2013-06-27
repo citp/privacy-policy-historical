@@ -1,50 +1,94 @@
-> *The following text is extracted and transformed from the crowdcompass.com privacy policy that was archived on 2012-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121016142901id_/http%3A//www.crowdcompass.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the crowdcompass.com privacy policy that was archived on 2013-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130628010847id_/http%3A//www.crowdcompass.com/privacy.shtml) for the most accurate reproduction.*
 
-# CrowdCompass Privacy Policy
+# CrowdCompass Privacy Policy | CrowdCompass
 
-Please read our Privacy Policy carefully so that you can understand how we collect, use, and disclose the personal information that you provide to us.
+CrowdCompass, LLC ("CrowdCompass") respects individual privacy and values the confidence of its customers, shareholders, employees, vendors, users and business partners. Not only does CrowdCompass strive to collect, use, and disclose personally identifiable information (Personal Information) in a manner consistent with the laws of the countries in which it does business, but it also has a tradition of upholding the highest ethical standards in its business practices. 
 
-By accessing this website, you accept all the terms and conditions of this Privacy Policy. In particular, by submitting your personal data to us, you will be deemed to have given your permission for use and disclosures referred to herein.  
-If you do not agree with the terms and conditions of this Privacy Policy, you must immediately cease using and accessing this website and any content, services, or products contained in or available from this website for which you need to provide personal information.
+CrowdCompass, as a subsidiary of Cvent, Inc. ("Cvent"), complies with the U.S.-EU Safe Harbor Framework and the U.S.-Swiss Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries and Switzerland. Cvent has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view Cvent's certification, please visit <http://www.export.gov/safeharbor/>.
 
-We may update this policy from time to time. Any changes made to our policy will be reflected in an updated policy posted on our website and denoted by an effective date later than the date identified above.
+This Privacy Policy sets forth the privacy principles that CrowdCompass follows with respect to collection, usage and transfer of Personal Information anywhere in the world, including transfers from the European Union (EU) to the United States. 
 
-#### What does this Privacy Policy cover?
+IMPORTANT NOTICE: PLEASE READ THROUGH THIS PRIVACY POLICY CAREFULLY. BY ACCESSING THE CONTENT AND SERVICES PROVIDED ON THE CROWDCOMPASS WEBSITE OR OTHERWISE USING THE WEBSITE, USERS CONSENT TO CROWDCOMPASS'S COLLECTION, USE AND DISCLOSURE OF THE INFORMATION RECEIVED BY CROWDCOMPASS (WHICH MAY INCLUDE PERSONAL INFORMATION) IN ACCORDANCE WITH THIS PRIVACY POLICY. USER'S MAY AT ANY TIME CHOOSE TO RESTRICT OR BLOCK THE SITE'S USE OF COOKIES IN THEIR WEB BROWSER. INFORMATION ABOUT THE USE OF COOKIES BY CROWDCOMPASS'S WEBSITE (AND USERS' CHOICE TO TURN OFF COOKIES) IS PROVIDED HERE.
 
-This Privacy Policy covers our use and disclosure of your personal information, which is collected through or in connection with this website. For the purposes of this Privacy Policy, “this  website” means all the web pages and sub-domains related to the quickmobile.com website, excluding any links to third party sites.
+#### Definitions
 
-#### Collection of information
+For purposes of this Privacy Policy, the following definitions shall apply: 
 
-In order to provide our full range of services and the best customer experience, we may collect the following types of information:
+"Cvent" means Cvent, Inc. its predecessors, successors, subsidiaries, divisions and groups. 
 
-#### User Information
+"CrowdCompass" means Cvent d/b/a CrowdCompass.
 
-Some aspects of our website allow you and/or require you to submit certain user information to us via Internet browser based forms or by sending us an e-mail (“User Information”). Such User Information may include, but is not limited to, your name, mailing address, e-mail address, telephone number, photo, and other demographic information. We may retain some or all of such User Information in order to process requests from you, respond to communication, and/or to improve our service. When you register for an account you will also be asked to create a password for access to certain parts of our website. We may also communicate with you through certain newsletters and promotional e-mails based on your user information. You may review and request changes to your User Information stored on our active systems by logging onto your account (if you registered on our website) or by contacting us at the e-mail or mailing address above.
+"Personal Information" means any set of information that identifies or could be used to identify an individual. Personal Information does not include information that is encoded or publicly available information not combined with private Personal Information. 
 
-#### Logs
+"User" means any user of CrowdCompass's web-based content management portal or mobile applications.
 
-By accessing our website, our Internet servers automatically record information your Internet browser sends when you visit a website. These logs may contain information such as your internet protocol (IP) address, browser version, domain name, language, date and time, the referring web site, and information in your cookie files (see below for more information regarding cookie files). Through your use of certain aspects of our website, we also may collect transactional information based on your activity on our website. Such information may include logs of content generation, account related activities on the website, and correspondence through the website with us and with other users of the website.
+#### Our Service 
 
-#### Cookies
+CrowdCompass licenses a mobile application-based event management solution ("Mobile Event Solution") which is comprised principally of the web-based content management portal ("EventCenter") and a mobile application component (the "Software"). This solution may also be referenced in this Privacy Policy and other collateral as System, Tool, Product, Service, Solution, Application and other derivations thereof. CrowdCompass users are subject to the CrowdCompass Mobile Event Solution terms. 
 
-When you browse our website, we may send your Internet browser one or more small files commonly referred to as cookies. Cookie files allow us to uniquely identify your Internet browser. We use cookie files to store information about you and to track your use of our website. One type of cookie file we may send your Internet browser is a session cookie which will automatically expire and be disabled when you exit your Internet browser. We may also send your Internet browser persistent cookie files which remain on your system after the end of your session and which we may access if you return to our website at a later time. Your Internet browser may allow you to disable or remove our cookie files; however, your ability to access and/or use of certain portions of our website may be affected by taking such action.
+#### Notice 
 
-#### Use and sharing of User Information
+CrowdCompass will not disclose or share Personal Information collected on its web site with any third party, except as required by law and/or pursuant to a governmental request, or as necessary to provide services to support its software solutions. 
 
-We will use your User Information for (i) providing our services or information about our services to you, (ii) analysis in order to improve our services and operations, (iii) research and product development, (iv) protecting our rights and the rights of our users and (v) the specific reasons outlined on our website when we collect your information. If we use your User Information for a purpose different from those outlined above, we will ask for your consent prior to such use. You may choose to opt-out of such use at such time.
+Aggregate Data. CrowdCompass may share reports with third parties based on aggregated data of its users ("Aggregated User Data"). Aggregated User Data does not include any Personal Information about users and is aggregated for the purposes of determining successful application benchmarks and other similar activities. 
 
-#### Security of your Information
+Special Circumstances. CrowdCompass may disclose Personal Information when it has reason to believe that disclosing such information is necessary to identify, contact or bring legal action against someone who is violating CrowdCompass's Terms of Use or may be causing injury to or interference with other CrowdCompass users or anyone else who could be harmed by such activities.
 
-We take reasonable measures to identify and prevent unauthorized access to our systems and disclosure of your User Information. We use secure server software (SSL) encryption for certain of our services and reasonable other security measures for the remainder of our website. We also restrict access to your User Information to only those persons who need to know the information in order to perform the services we offer.
+IP Addresses. CrowdCompass may use user IP addresses to diagnose problems with CrowdCompass servers and to administer the CrowdCompass application. 
 
-#### This Privacy Policy does not apply to third parties
+#### Cookies 
 
-This Privacy Policy applies only to information that we collect from you. Certain portions of our website may direct your internet browser to a third party web site or a portion of our web site controlled by a third party (typically through the use of a frame or pop-up window separate from other content on our website). Disclosure of personal information to such third party shall be subject to the terms of such third party’s privacy policy. We are not responsible for the privacy policy or content of websites that we do not own, even if such a site is linked on our website.
+Definition. A cookie is a small data file placed in a user's web browser or written to a user's hard drive when a website is accessed. A "session" cookie lasts for a single browser session only and is deleted when the user closes the web browser. A "persistent" cookie remains on the user's device (even while powered off) until it expires or is deleted. A persistent cookie will be reactivated when a user returns to the website which posted the cookie. Cookies cannot read or access other cookies or any data from a user's hard drive. Cookies alone will not personally identify a user, however a cookie may recognize a user's individual web browser or device through an IP Address, browser version, operating system and other information, and website users who log in to their CrowdCompass accounts may be individually identifiable to particular CrowdCompass applications using session cookies. 
 
-#### Protection of Children
+Use. CrowdCompass uses cookies to improve user experience, monitor website usage and gather information which helps CrowdCompass improve the site content and applications. For example, cookies are used to distinguish between and authenticate users, save usernames and login status (so that users don't have to log in more than once each time they access secured portions of the site), keep track of user-specific settings such as language, layout and other preferences, and manage session information to minimize data entry and for general ease of use. Cookies are also used to "time-out" user sessions that are idle for an extended period of time. CrowdCompass may also use cookies to gather statistical and other information about how the website is used, assess the effectiveness of advertising, monitor access and use of particular content and provide tailored advertising and other content to users. Using cookies in the foregoing manner makes the website more effective, easier to use, improves security and efficiency, and is essential for the continuous improvement of CrowdCompass's systems. Consequently, accepting these cookies is necessary for many uses of the website and blocking or restricting cookies may limit a user's ability to access certain website content and functionality.
 
-Our website is not designed or directed for use by children. If we become aware a person under the age of 14 has provided us personal information, we will discontinue the use of such information and remove it from our systems. We do not knowingly collect personally identifiable or demographic information form children under the age of 14.
+Blocking/Restricting Cookies. Users may set their web browsers to restrict or to entirely block cookies, to configure cookie notification settings and/or to delete cookies already present on the browser or device. Information on how to do this should be provided in the web browser's help/reference section. Users who block cookies may be able to access the CrowdCompass website but will not be able to use most of the content, applications and services CrowdCompass makes available on the website. Limiting or restricting certain types of cookies may prevent a user from using certain portions of the CrowdCompass website, depending on how the browser settings are configured. 
 
-#### California Online Privacy Protection Act Compliance
+#### Choice 
 
-Because we value your privacy we have taken the necessary precautions to be in compliance with the California Online Privacy Protection Act. We therefore will not distribute your personal information to outside parties without your consent. As part of the California Online Privacy Protection Act, all users of our site may make any changes to their information at anytime by emailing us at [privacy@crowdcompass.com](mailto:privacy@crowdcompass.com).
+CrowdCompass users may choose whether or not to submit Personal Information while using CrowdCompass's services. In some cases, choosing to withhold Personal Information, may limit a user's ability to use all of CrowdCompass's services. 
+
+#### Security 
+
+CrowdCompass has security measures in place to protect against the loss, misuse and alteration of information under its control. CrowdCompass protects secure data with industry-standard firewall and password protection systems. 
+
+CrowdCompass periodically reviews and improves its security and privacy policies as necessary. Only pre-authorized individuals have access to CrowdCompass servers and information provided by its users. 
+
+#### Data Integrity 
+
+CrowdCompass will use Personal Information only in ways that are compatible with the purposes for which it was collected or subsequently authorized by the individual. Reasonable steps will be taken to ensure that Personal Information is relevant accurate, complete and current, to its intended use. 
+
+#### Access and Correction 
+
+CrowdCompass users may change or modify previously submitted Personal Information by (i) using the EventCenter or (ii) sending an email request to [customercare@cvent.com](mailto:customercare@cvent.com). Please note that no data transmission over the Internet is infallible. Any information transmitted through the CrowdCompass application is done at the user's own risk. Once CrowdCompass receives the information, it will take every reasonable precaution to ensure its security. 
+
+#### Enforcement 
+
+CrowdCompass will conduct compliance audits of its relevant privacy practices to verify adherence to this Privacy Policy and the US Department of Commerce Safe Harbor Principles. Any employee that CrowdCompass determines is in violation of this Privacy Policy will be subject to disciplinary action up to and including termination of employment. 
+
+#### Web Site Links 
+
+The CrowdCompass website may contain links to other web sites. CrowdCompass is not responsible for the privacy practices or content of these web sites. 
+
+#### Notification of Changes 
+
+As this Privacy Policy may be amended from time to time, please check back periodically to review any changes. The last modified date will be provided at the bottom of the page. 
+
+Last Modified: February 2013
+
+#### Contact Us 
+
+CrowdCompass does everything it can to protect the privacy of its users. For questions about this Privacy Policy, the practices of this site, or dealings with this site, please contact CrowdCompass at: 
+
+Cvent   
+Privacy Representation   
+8180 Greensboro Drive Ninth Floor   
+McLean, VA 22102   
+[privacy@cvent.com](mailto:privacy@cvent.com)
+
+Safe Harbor   
+Direct Marketing Association   
+1615 L St, NW Ste 1100   
+Washington, DC 20036-5624   
+[safeharbor@the-dma.org](mailto:safeharbor@the-dma.org)   
+<http://www.dmaresponsibility.org/SafeHarbor/consumers.shtml>
