@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the eurostylelighting.com privacy policy that was archived on 2012-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121202112643id_/http%3A//www.eurostylelighting.com/sitehelpandpolicies%23privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eurostylelighting.com privacy policy that was archived on 2013-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130627144841id_/http%3A//www.eurostylelighting.com/sitehelpandpolicies%23privacy) for the most accurate reproduction.*
 
 # Customer Support, Ordering and Shipping Information - EuroStyleLighting.com and http://www.eurostylelighting.com
 
@@ -118,12 +118,6 @@ If you need to cancel part or all of your order, we'll be happy to do so, but we
 
 back to top
 
-**Additional Policies**
-
-Customer agrees that risk of loss and title to goods sold herein shall not pass to the customer for 60 days from the date of this invoice. Please call for details.
-
-back to top
-
 ## Shipping
 
 **Free Shipping**
@@ -187,6 +181,10 @@ back to top
 
 ## Returns
 
+**We offer free shipping and free returns on everything always!**
+
+Find your perfect fit, minus the risk. Shop more than 10,000 designs with confidence to find the look that's right for your home or office. See our complete return policy below.
+
 **Our Policy**
 
 We want you to be completely satisfied with your purchase. If for any reason you are not satisfied with your order, you may return it, free of shipping charges, within 60 days.
@@ -206,13 +204,13 @@ A specialist will issue you a RMA (Return Merchandise Authorization) number, and
 
 For all returned merchandise, you will be issued a refund on your original merchandise after we receive and inspect your returned product.
 
-Free Return Shipping is offered only in the continental United States. Alaskan, Hawaiian, International and Canadian customers please call a customer service representative at (877) 233-7095 or email us using our [online form](http://www.eurostylelighting.com/protected/contactus) for information.
+Free Return Shipping is offered only in the continental, lower 48 United States. For other locations, including Alaska, Hawaii, Canada and other International locations, please contact a customer service representative at (877) 233-7095, or email us using our [online form](http://www.eurostylelighting.com/protected/contactus) for return costs and more information. 
 
 back to top
 
 **Freight Returns**
 
-Please call us to arrange shipping on items requiring freight shipping. Freight items will be charged a flat $99 pick-up fee.
+Please note that our "Free Returns Shipping" policy does not apply to certain large items requiring freight shipping and/or white glove handling. Please call us to arrange return shipping on items requiring freight shipping. Freight items will be charged a flat $99 pick-up fee.
 
 back to top
 
@@ -241,3 +239,5 @@ back to top
 If you need a Return Form, you may [print one here](http://www.eurostylelighting.com/images/global/Return.pdf) in PDF form. This file requires an Adobe Reader, which you can download for free: [Adobe Acrobat Reader](http://www.adobe.com/products/acrobat/readstep2.html).
 
 back to top
+
+*Free shipping and returns apply to the 48 continental US states only. Freight items do not qualify for free returns.
