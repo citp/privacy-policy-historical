@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the musicnotes.com privacy policy that was archived on 2012-10-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121002222415id_/http%3A//www.musicnotes.com/secure.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the musicnotes.com privacy policy that was archived on 2013-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130627230706id_/http%3A//www.musicnotes.com/secure.asp) for the most accurate reproduction.*
 
 # Sheet Music Downloads & Books | Musicnotes.com
 
@@ -32,6 +32,16 @@ All correspondence with **Musicnotes.com** becomes property of Musicnotes, Inc. 
 
 By using our website, you consent to the collection and use of this information by **Musicnotes.com**. We will post any future changes to our privacy policy on this page so that you are always aware of what information we collect and how it may be used.
 
+### Refund Policy
+
+You may self-cancel digital sheet music orders for up to seven days after purchase, if you have not yet downloaded and/or printed your sheet music. 
+
+[Please click here for cancellation instructions](https://support.musicnotes.com/app/answers/detail/a_id/47/kw/cancel) or [contact us for more information](https://support.musicnotes.com/app/ask). 
+
+No returns will be granted past 90 days. 
+
+If an order has been successfully downloaded or printed, we are unable to grant a refund due to the copyright restrictions and agreements we hold with our publishers. 
+
 ### Cookies
 
 If you allow it, **Musicnotes.com** uses _cookies_ to enhance your shopping experience. These cookies are bits of electronic information that your browser stores on your computer, then sends back to us when you revisit our site. All common browsers let you choose to reject cookies. **Musicnotes.com** will work fine if you do that. With us, cookies are optional.
@@ -44,13 +54,13 @@ We never use or allow so-called "third-party" cookies that might allow other sit
 
 **Your control of your personal information ::**
 
-You may view and modify all your own personal information that **Musicnotes.com** retains. To do this, simply click [**My Account**](https://web.archive.org/commerce/MyAccount.asp?mnuid=HCMKCZDNZN1T452YM8WXU7NRUP16C1581JKXC158), a link appearing on the top of every page on our site. We will request your password when you do this, unless you have already signed in.
+You may view and modify all your own personal information that **Musicnotes.com** retains. To do this, simply click [**My Account**](https://web.archive.org/commerce/MyAccount.asp), a link appearing on the top of every page on our site. We will request your password when you do this, unless you have already signed in.
 
 Within this _My Account_ page, you will see several options for managing your personal informaiton. Click the link for the information you wish to view or edit.
 
-Likewise, if you have subscribed to **Musicnotes.com** 's regular e-mail newsletter, but no longer wish to receive it, simply go to [**My Account**](https://web.archive.org/commerce/myaccount.asp?mnuid=HCMKCZDNZN1T452YM8WXU7NRUP16C1581JKXC158) to unsubscribe.
+Likewise, if you have subscribed to **Musicnotes.com** 's regular e-mail newsletter, but no longer wish to receive it, simply go to [**My Account**](https://web.archive.org/commerce/myaccount.asp) to unsubscribe.
 
-On infrequent occasions we may mail special notices to all our customers. If you do not wish to receive such notices, go to [**My Account**](https://web.archive.org/commerce/myaccount.asp?mnuid=HCMKCZDNZN1T452YM8WXU7NRUP16C1581JKXC158) and choose **No** for: _additional Musicnotes special offers and updates_.
+On infrequent occasions we may mail special notices to all our customers. If you do not wish to receive such notices, go to [**My Account**](https://web.archive.org/commerce/myaccount.asp) and choose **No** for: _additional Musicnotes special offers and updates_.
 
   
 
