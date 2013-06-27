@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the adonomics.com privacy policy that was archived on 2012-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121227043159id_/http%3A//99designs.com/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adonomics.com privacy policy that was archived on 2013-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130627215023id_/http%3A//99designs.com/legal/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | 99designs
 
@@ -34,7 +34,7 @@ Our service is not offered to persons under the age of 13. Thus, we do not inten
     * We also use cookies and URL information to gather information regarding the date and time of your visit and the information for which you searched and which you viewed. “Cookies” are small pieces of information that a website sends to your computer’s hard drive while you are viewing a web site. We may use both session Cookies (which expire once you close your web browser) and persistent Cookies (which stay on your computer until you delete them) to provide you with a more personal and interactive experience on our Site. Persistent Cookies can be removed by following Internet browser help file directions. Cookies may enable automatic logins when you visit in the future and may enable content customization.
   3. ### c. Google Analytics.
 
-We currently use Google Analytics. Google Analytics collects information anonymously and reports website trends without identifying individual visitors. Google Analytics uses its own cookie to track visitor interactions. Website owners can view a variety of reports about how visitors interact with their website so they can improve their website and how people find it. Please see the following links for more information about Google Analytics: <http://www.google.com/analytics/>, <http://www.google.com/privacy.html> and <http://www.google.com/analytics/tos.html>.
+We currently use Google Analytics as well as Google Analytics for Display Advertising. Google Analytics collects information anonymously and reports website trends without identifying individual visitors. Google Analytics uses its own cookie to track visitor interactions. Website owners can view a variety of reports about how visitors interact with their website so they can improve their website and how people find it. Please see the following links for more information about Google Analytics: <http://www.google.com/analytics/>, <http://www.google.com/privacy.html> and <http://www.google.com/analytics/tos.html>. You can also opt-out of Google Analytics for Display Advertising by going to [the Google Ads Preferences Manager](https://web.archive.org/web/20130627215023id_/http%3A//99designs.com/legal/www.google.com/ads/preferences/).
 
   4. ### d. ThreatMetrix.
 
