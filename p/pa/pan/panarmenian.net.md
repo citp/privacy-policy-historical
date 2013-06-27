@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the panarmenian.net privacy policy that was archived on 2012-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121209013848id_/http%3A//panarmenian.net/eng/panmedia/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the panarmenian.net privacy policy that was archived on 2013-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130627183608id_/http%3A//panarmenian.net/eng/panmedia/privacy) for the most accurate reproduction.*
 
 # Armenian News - PanARMENIAN.Net
 
@@ -64,7 +64,7 @@ support@panarmenian.net
 
  Address
 
-"PanARMENIAN Media" LLC
+PanARMENIAN Network
 
 5, Aleq Manukian str. (House of Radio)  
 0025, Yerevan, Armenia  
