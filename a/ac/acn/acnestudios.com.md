@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the acnestudios.com privacy policy that was archived on 2012-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121212121905id_/http%3A//shop.acnestudios.com/legal-privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the acnestudios.com privacy policy that was archived on 2013-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130627165612id_/http%3A//shop.acnestudios.com/legal-privacy) for the most accurate reproduction.*
 
-# Privacy Policy Shop Ready to Wear, Accessories, Shoes and Denim for Men and Women
+# ACNE - Privacy Policy Shop Ready to Wear, Accessories, Shoes and Denim for Men and Women
 
 **PRIVACY POLICY**  
 This website is managed by Acne Corp. (hereinafter referred to as Acne or we). Acne Corp. is a subsidiary of Acne Studios AB, registered in Stockholm Sweden. Acne recognizes the importance of protecting the privacy of personal and financial information. We have instituted strict policies and security measures to protect the information you provide us. When you register online with Acne, use our online store or choose to fill out and submit one of our customer information cards when visiting an Acne store, you give us your consent to process and use such submitted personal data in accordance with this privacy policy. This privacy policy applies to all protected personal information collected,  
@@ -57,12 +57,14 @@ If you have any comments or queries regarding our privacy policy, please send
 an email to shop@acnestudios.com, or write to us at the following address:
 
 For the US  
-Acne Corp.  
+Acne Corp  
 Etail Client Service  
-545 West 25th St. Fl. 8  
-New York, NY 10001  
+401 Broadway  
+Suite 2202  
+New York, NY 10013  
 USA
 
+  
 For all other countries  
 Acne Studios AB  
 Etail Client Service  
