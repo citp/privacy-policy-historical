@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vivaterra.com privacy policy that was archived on 2012-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121227134415id_/http%3A//www.vivaterra.com/who-we-are/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vivaterra.com privacy policy that was archived on 2013-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130627092353id_/http%3A//www.vivaterra.com/who-we-are/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - VivaTerra
 
