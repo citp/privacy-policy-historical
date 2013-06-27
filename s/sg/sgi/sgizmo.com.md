@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sgizmo.com privacy policy that was archived on 2012-10-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121027020332id_/http%3A//www.surveygizmo.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sgizmo.com privacy policy that was archived on 2013-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130627100426id_/http%3A//www.surveygizmo.com/privacy) for the most accurate reproduction.*
 
 # SurveyGizmo Privacy Policy | SurveyGizmo
 
