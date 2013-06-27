@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the medicalmarijuanainc.com privacy policy that was archived on 2012-12-24.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121224114655id_/http%3A//www.medicalmarijuanainc.com/index.php/Privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the medicalmarijuanainc.com privacy policy that was archived on 2013-06-27.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130627070125id_/http%3A//medicalmarijuanainc.com/index.php/Privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-gb" lang="en-gb" dir="ltr"><head>
    <base href="http://www.medicalmarijuanainc.com/index.php/Privacy">
@@ -10,7 +10,6 @@
   <meta name="generator" content="Joomla! - Open Source Content Management">
   <title>Privacy</title>
   <link href="/templates/mjna24/favicon.ico" rel="shortcut icon" type="image/vnd.microsoft.icon">
-  <link rel="stylesheet" href="http://www.medicalmarijuanainc.com/plugins/content/articlepxfontsize_j16/articlepxfontsize_j16/plg_fontarticle04.css" type="text/css">
   <link rel="stylesheet" href="/plugins/system/modalizer/modals/colorbox/style1/colorbox.css" type="text/css">
   <link rel="stylesheet" href="http://www.medicalmarijuanainc.com/modules/mod_dmt_social/css/dmt_social.css" type="text/css">
   <link rel="stylesheet" href="/modules/mod_rokajaxsearch/css/rokajaxsearch.css" type="text/css">
@@ -26,7 +25,6 @@
   <script src="/media/plg_system_topofthepage/ScrollSpy-yui-compressed.js" type="text/javascript"></script>
   <script src="/media/plg_system_topofthepage/smoothscroll.js" type="text/javascript"></script>
   <script src="/media/system/js/caption.js" type="text/javascript"></script>
-  <script src="http://www.medicalmarijuanainc.com/plugins/content/articlepxfontsize_j16/articlepxfontsize_j16/article_font.js" type="text/javascript"></script>
   <script src="/plugins/system/modalizer/modals/jquery.min.js" type="text/javascript"></script>
   <script src="/plugins/system/modalizer/modals/colorbox/jquery.colorbox-min.js" type="text/javascript"></script>
   <script src="/modules/mod_rokajaxsearch/js/rokajaxsearch.js" type="text/javascript"></script>
@@ -125,10 +123,35 @@ window.addEvent((window.webkit) ? 'load' : 'domready', function() {
  <script type="text/javascript">jQuery.noConflict();</script>
  <script type="text/javascript" src="/templates/mjna24/script.js"></script>
  <script type="text/javascript">if (document._artxJQueryBackup) jQuery = document._artxJQueryBackup;</script>
- <script src="/jquery/1.4.2/jquery.min.js" type="text/javascript"></script>
+ <script src="/jquery/1.8.1/jquery.js" type="text/javascript"></script>
  <script src="/jquery.nivo.slider.pack.js" type="text/javascript"></script>
+  <script type="text/javascript">
+    $(document).ready(function(){
+  //Disclaimer PopUp
+  $('a[disclaimer]').click(function(){
+   var infoLink = $(this).attr('disclaimer');
+    var dBox = '<div id="dBox"><div id="disBox"><p>Leaving Our Website Disclaimer:</p><p><br/>You are now leaving the '+location.host+' website. The Exit Disclaimer indicates that when you click ok you will leave '+location.host+' website and visit an external link.  Links to any informational websites are provided solely as a service to our users. The link provides additional information that may be useful or interesting and has no affiliation to the promotion, sale and distribution of '+location.host+' products. The link does not constitute an endorsement of these organizations by '+location.host+' and none should be inferred.</p><p><br/></p><a class="infoClose button" href="'+infoLink+'" target="_blank"><button>OK</button></a> <button type="button" href="#" class="infoClose button">CANCEL</button><div></div>';
+    $('#afc-main').append(dBox);
+  });
+  $('#afc-main').delegate('#dBox .infoClose', 'click', function(){
+    $(this).parent().parent().remove();
+  }).delegate('#dBox', 'click', function(e){
+    if(e.target != this){
+      return;
+    }else{
+      $(this).remove();
+    };
+  });
+  });
+</script>
+
 </head>
 <body>
+<div id="google_translate_element" style="padding: 0px 10px;position: fixed;z-index: 1000;right:0px;background: rgb(248, 248, 248);border-top-left-radius: 10px;border-bottom-left-radius: 10px;"></div><script type="text/javascript">
+function googleTranslateElementInit() {
+  new google.translate.TranslateElement({pageLanguage: 'en', layout: google.translate.TranslateElement.InlineLayout.HORIZONTAL}, 'google_translate_element');
+}
+</script><script type="text/javascript" src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>
 <div id="afc-main">
     <div class="cleared reset-box"></div>
 <div class="afc-header">
@@ -150,7 +173,7 @@ window.addEvent((window.webkit) ? 'load' : 'domready', function() {
 <div class="afc-nav-outer">
 <div class="afc-nav-wrapper">
 <div class="afc-nav-inner">
-			<div class="afc-hmenu-extra2"><form name="rokajaxsearch" id="rokajaxsearch" class="light" action="http://www.medicalmarijuanainc.com/" method="get">
+      <div class="afc-hmenu-extra2"><form name="rokajaxsearch" id="rokajaxsearch" class="light" action="http://www.medicalmarijuanainc.com/" method="get">
 <div class="rokajaxsearch ">
 	<div class="roksearch-wrapper">
 		<input id="roksearch_search_str" name="searchword" type="text" class="inputbox" value="Search...">
@@ -166,7 +189,7 @@ window.addEvent((window.webkit) ? 'load' : 'domready', function() {
 </div>
 <div id="rokajaxsearch_tmp" style="visibility:hidden;display:none;"></div>
 </form></div>
-		<ul class="afc-hmenu"><li class="item-101"><a href="/">Home</a></li><li class="item-109"><a href="/index.php/company">Company</a></li><li class="item-112"><a href="/index.php/portfolio">Portfolio </a></li><li class="item-117"><a href="/index.php/research">Research</a></li><li class="item-113"><a href="/index.php/investor-relations">Investor Relations</a></li></ul></div>
+    <ul class="afc-hmenu"><li class="item-101"><a href="/">Home</a></li><li class="item-109"><a href="/index.php/company">Company</a></li><li class="item-112"><a href="/index.php/portfolio">Portfolio </a></li><li class="item-117"><a href="/index.php/research">Research</a></li><li class="item-113"><a href="/index.php/investor-relations">Investor Relations</a></li></ul></div>
 </div>
 </div>
 </div>
@@ -219,12 +242,12 @@ window.addEvent((window.webkit) ? 'load' : 'domready', function() {
 </div>
 <div class="afc-layout-cell afc-content">
 
-<script type="text/javascript">sz_default(12,1);</script><div class="item-page"><div class="afc-box afc-post">
+<div class="item-page"><div class="afc-box afc-post">
     <div class="afc-box-body afc-post-body">
 <div class="afc-post-inner">
 <h2 class="afc-postheader">Privacy Policy</h2>
 <div class="afc-postcontent">
-<div class="afc-article"><div class="plg_fa_karmany"><span class="plg_fa_karmany_menos"><a title="Original Size" href="javascript:modify_size('articlepxfontsize',-1,'1')"></a></span><span class="plg_fa_karmany_igual"><a title="Decrease Size" href="javascript:modify_size('articlepxfontsize',0,'1')"></a></span><span class="plg_fa_karmany_mas"><a title="Increase Size" href="javascript:modify_size('articlepxfontsize',1,'1')"></a></span><span class="plg_fa_karmany_titulo" style="line-height: 150%;font-size:11px;font-family:Arial;font-weight:bold;">Text Size</span></div><div class="karmany_clearboth"></div><div id="articlepxfontsize1"><hr>
+<div class="afc-article"><hr>
 <h3>Legal / Privacy</h3>
 <p>Thank you for visiting the Medical Marijuana Inc., website. By using this website, you agree to abide by the following terms and conditions. If you do not accept these conditions, do not access or use this website. Medical Marijuana Inc., may change this Privacy Policy and User Agreement (Agreement), based upon changes to our website and user experiences. If any substantial changes are made in this Agreement, we will notify you on our home page.</p>
 <h3>Privacy Policy</h3>
@@ -234,7 +257,7 @@ window.addEvent((window.webkit) ? 'load' : 'domready', function() {
 <h3>Personally Identifiable Information</h3>
 <p>Information voluntarily submitted to our website in the form of a request for general information or through submission of a business proposal may be recorded and used, including but not limited to information such as your name, phone number and e-mail. This information is used for reasonable business purposes and (or) to fill your request. We will not use your personal information for any other purpose without your permission.</p>
 <p>We may use internal service providers to operate our website and employ other persons to perform work on our behalf, such as sending postal mail and e-mail. These persons may have access to personal information you submit through the website, but only for the purpose of performing their duties. These persons may not use your personal information for any other purpose.</p>
-<p>Medical Marijuana Inc. withholds all personally identifiable information, except in the case we are required by law to disclosure information to government agencies or private parties in connection with a lawsuit, subpoena, investigation or similar course of events. By agreeing to our <a href="/index.php/user-agreement">terms and conditions</a> you authorize us to disclose any information necessary under the aforementioned circumstances.</p></div></div>
+<p>Medical Marijuana Inc. withholds all personally identifiable information, except in the case we are required by law to disclosure information to government agencies or private parties in connection with a lawsuit, subpoena, investigation or similar course of events. By agreeing to our <a href="/index.php/user-agreement">terms and conditions</a> you authorize us to disclose any information necessary under the aforementioned circumstances.</p></div>
 </div>
 <div class="cleared"></div>
 </div>
@@ -279,17 +302,33 @@ window.addEvent((window.webkit) ? 'load' : 'domready', function() {
 <div class="afc-footer">
     <div class="afc-footer-body">
                 <div class="afc-footer-text">
-                                        <p style="text-align:left;"><a href="/index.php/Privacy">Privacy Policy</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; <a href="/index.php/User-Agreement">Terms of Use</a>&nbsp;&nbsp;&nbsp; |&nbsp;&nbsp;&nbsp; <a href="/index.php/contact-form">Contact</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;<a href="/index.php/privacy?id=82&amp;ml=1" class="modalizer_link">Join Our Mailing List</a><span style="padding-left:200px;">Copyright Medical Marijuana Inc. © 2009-2012. All Rights Reserved.</span></p>
-                    
-                                                            <br><p style="text-align:left; color:#a5a6a6;">FOOD AND DRUG ADMINISTRATION (FDA) DISCLOSURE<br>
-These statements have not been evaluated by the Food and Drug Administration (FDA).<br>These products and statements are not intended to diagnose, treat, cure, or prevent any disease.</p><br>
-<p style="text-align:left;">Medical Marijuana Inc. does not grow, sell, manufacture or distribute marijuana <br> or any other substances that violate the United States Controlled Substance Act.</p>
-                </div>
+                                        <div class="afc-nostyle">
+
+
+<div class="custom">
+	<p style="text-align: right;"><a href="/index.php/Privacy">Privacy Policy</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; <a href="/index.php/User-Agreement">Terms of Use</a>&nbsp;&nbsp;&nbsp; |&nbsp;&nbsp;&nbsp; <a href="/index.php/contact-form">Contact</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;<a href="/index.php/privacy?id=82&amp;ml=1" class="modalizer_link">Join Our Mailing List</a><span style="padding-left: 200px;">Copyright Medical Marijuana Inc. © 2009-2012. All Rights Reserved.<br> Website Design by Rabbit Hole Technologies Inc.</span></p>
+<p><br><br></p>
+<div style="border: 2px solid #000000; padding: 5px; background-color: #fff2d7;">
+<p style="text-align: left; color: #000000; font-weight: bold; text-decoration: underline;">FOOD AND DRUG ADMINISTRATION (FDA) DISCLOSURE</p>
+<p style="text-align: left; font-size: 8pt; line-height: 11px;">These statements have not been evaluated by the FDA and are not intended to diagnose, treat or cure any disease. Always check with your physician before starting a new dietary supplement program.</p>
+<p style="text-align: left; font-size: 8pt; line-height: 11px;"><strong>Leaving Our Website Disclaimer:&nbsp;</strong>If we have a research link to a website where we sell products or have product information you are now leaving the medicalmarijuanainc.com website. The Exit Disclaimer indicates that when you click OK you will leave canchewgum.com website and visit an external link. Links to any informational websites are provided solely as a service to our users. The link provides additional information that may be useful or interesting and has no affiliation to the promotion, sale and distribution of Medical Marijuana Inc. products. The link does not constitute an endorsement of these organizations by Medical Marijuana Inc. and none should be inferred.</p>
+<p style="text-align: left; font-size: 8pt; line-height: 11px;">Please view our full <a style="font-size: 8pt; line-height: 11px;" href="/terms-of-use-agreement">Terms Of Use Agreement</a> for more information and the terms and conditions governing your use of this site.<br>Updated 05/21/2013</p>
+</div>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<div style="text-align: left;">
+<p style="text-align: left;">* Cannabidiol (CBD),a naturally constituent of the industrial hemp plant promotes and supports the nutritional health of aging bodies. Source: US Government patent on the therapeutic usage if cannabinoils # 6,630,507 <br>Updated 05/08/2013</p>
+</div>
+<p>&nbsp;</p>
+<p style="text-align: left;">Medical Marijuana Inc. does not sell or distribute any products that are in violation of the United States Controlled Substances Act (US.CSA). The company does grow, sell and distribute hemp based products and is involved with Federally Legal Distribution of Medical Marijuana based products within certain international markets.<br>Updated 05/08/2013</p></div>
+</div>
+                                    
+                 
         <div class="cleared"></div>
     </div>
 </div>
 
-		<div class="cleared"></div>
+    <div class="cleared"></div>
     </div>
 </div>
 <div class="cleared"></div>
@@ -299,4 +338,4 @@ These statements have not been evaluated by the Food and Drug Administration (FD
 </div>
 
 
-</body></html>
+</div></body></html>
