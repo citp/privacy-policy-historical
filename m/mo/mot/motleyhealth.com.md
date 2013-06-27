@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the motleyhealth.com privacy policy that was archived on 2012-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121229233445id_/http%3A//www.motleyhealth.com/privacy-notice) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the motleyhealth.com privacy policy that was archived on 2013-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130627145511id_/http%3A//www.motleyhealth.com/privacy-notice) for the most accurate reproduction.*
 
-# Privacy and Cookies Notice
-
-Rating: 0.0/ **10** (0 votes cast)
+# Privacy and Cookies Notice - MotleyHealth®
 
 Motley Health respects the privacy and confidentiality of personal data submitted to the site by our visitors. We will not share any personal information submitted to our website.
 
@@ -24,7 +22,7 @@ The UK Government has passed new legislation with regards to the use of cookies.
 
 MotleyHealth.com uses Persistant Cookies for website analytics and performance
 
-  * Google Analytics: We use this tool to improve our website for the benefit of our users and make site improvements, all data collected is anonymous. For more information on Google Analytics cookie usage, please visit their website- <http://www.google.co.uk/intl/en/analytics/privacyoverview.html>
+  * Google Analytics: We use this tool to improve our website for the benefit of our users and make site improvements, all data collected is anonymous. For more information on Google Analytics cookie usage, please visit their website- [http://www.google.co.uk/intl/en/analytics/privacyoverview.html](http://www.google.com/analytics/learn/privacy.html)
   * YouTube: A cookie is only stored on your browser if you a play an embedded video on our website. Don’t click play on any of our videos if you don’t want to have a YouTube cookie set. YouTube is owned by Google and their privacy policy can be found here –  <http://www.google.com/intl/en/policies/privacy/>.
 
 
@@ -35,7 +33,7 @@ Some of the adverts displayed on our site are provided by Google, and use cookie
 
   * Google, as a third-party vendor, uses cookies to serve ads on this site.
   * Google’s use of the DART cookie enables it to serve ads based on your visit to this site and other sites on the Internet.
-  * You may opt out of the use of the DART cookie by visiting the [Google ad and content network privacy policy](http://www.google.co.uk/privacy/ads/).
+  * You may opt out of the use of the DART cookie by visiting the [Google ad and content network privacy policy](http://www.google.co.uk/policies/privacy/ads/).
 
 
 
