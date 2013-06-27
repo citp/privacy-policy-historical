@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the salford.ac.uk privacy policy that was archived on 2012-10-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121010125509id_/http%3A//www.salford.ac.uk/small-print-pages/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the salford.ac.uk privacy policy that was archived on 2013-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130627230841id_/http%3A//www.salford.ac.uk/small-print-pages/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | University of Salford Manchester
+# Privacy Policy | University of Salford, Manchester
 
 ## Privacy statement for the University of Salford website
 
