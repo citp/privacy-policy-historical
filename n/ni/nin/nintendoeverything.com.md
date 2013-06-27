@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nintendoeverything.com privacy policy that was archived on 2012-10-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121021221129id_/http%3A//nintendoeverything.com/index.php/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nintendoeverything.com privacy policy that was archived on 2013-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130627062325id_/http%3A//nintendoeverything.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Nintendo Everything
 
