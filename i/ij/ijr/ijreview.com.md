@@ -1,24 +1,24 @@
-> *The following text is extracted and transformed from the ijreview.com privacy policy that was archived on 2012-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121203161324id_/http%3A//www.ijreview.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ijreview.com privacy policy that was archived on 2013-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130627133318id_/http%3A//www.ijreview.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy Independent Journal Review
+# Privacy Policy | Independent Journal Review
 
 We take your privacy seriously. This policy describes what personal information we collect and how we use it. (This privacy policy is applicable to websites falling under the primary holder ijreview.com .)
 
- **Routine Information Collection**
+**Routine Information Collection**
 
 All web servers track basic information about their visitors. This information includes, but is not limited to, IP addresses, browser details, timestamps and referring pages. None of this information can personally identify specific visitors to this site. The information is tracked for routine administration and maintenance purposes, and lets me know what pages and information are useful and helpful to visitors.
 
- **Cookies and Web Beacons**
+**Cookies and Web Beacons**
 
 Where necessary, this site uses cookies to store information about a visitor’s preferences and history in order to better serve the visitor and/or present the visitor with customized content.
 
 Advertising partners and other third parties may also use cookies, scripts and/or web beacons to track visitors to our site in order to display advertisements and other useful information. Such tracking is done directly by the third parties through their own servers and is subject to their own privacy policies.
 
- **Controlling Your Privacy**
+**Controlling Your Privacy**
 
 Note that you can change your browser settings to disable cookies if you have privacy concerns. Disabling cookies for all sites is not recommended as it may interfere with your use of some sites. The best option is to disable or enable cookies on a per-site basis. Consult your browser documentation for instructions on how to block cookies and other tracking mechanisms.
 
- **Facebook application Privacy**
+**Facebook application Privacy**
 
 As a registered Facebook user, you are also subject to Facebook’s privacy policy. Please check your Facebook account privacy settings for further information.
 
@@ -34,7 +34,7 @@ To unsubscribe remove the App by accessing the application settings in your Face
 
 Once you remove the App we no longer have permission to access your Facebook information and your data will be removed from the App.
 
- **Special Note About Google Advertising**
+**Special Note About Google Advertising**
 
 Any advertisements served by Google, Inc., and affiliated companies may be controlled using cookies. These cookies allow Google to display ads based on your visits to this site and other sites that use Google advertising services. Learn how to opt out of Google’s cookie usage. As mentioned above, any tracking done by Google through cookies and other mechanisms is subject to Google’s own privacy policies.
 
