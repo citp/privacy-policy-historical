@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jobserve.us privacy policy that was archived on 2012-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120602233618id_/http%3A//www.jobserve.com/us/en/content/about/privacy-policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jobserve.us privacy policy that was archived on 2013-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130627181223id_/http%3A//www.jobserve.com/us/en/content/about/privacy-policy.htm) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -40,7 +40,7 @@ In no circumstances will we pass your information to third parties to enable the
 
 ### Cookies
 
-The JobServe site uses cookies, however it will function in a more limited way with cookies disabled. Our cookie policy can be found [here](https://web.archive.org/us/en/Content/JobServe-Website-Cookie-Policy.htm).
+The JobServe site uses cookies, however it will function in a more limited way with cookies disabled. Our cookie policy can be found [here](https://web.archive.org/us/en/Content/Website-Cookie-Policy.htm).
 
 ### Security
 
@@ -62,4 +62,6 @@ Any changes to our privacy policy in the future will be posted to the Site and, 
 
 All comments, queries and requests relating to our use of your information are welcomed and should be emailed to [canhelp@jobserve.us](mailto:canhelp@jobserve.us). 
 
-**Updated 25th November 2011**
+Please be advised that telephone calls with JobServe may be recorded for training and monitoring purposes. 
+
+**Updated 9th January 2013**
