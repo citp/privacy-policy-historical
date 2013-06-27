@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wallst.com privacy policy that was archived on 2012-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121219084339id_/http%3A//www.markit.com/en/about/legal/privacy-policy.page) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wallst.com privacy policy that was archived on 2013-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130628000112id_/http%3A//www.markit.com/en/about/legal/privacy-policy.page) for the most accurate reproduction.*
 
 # Privacy and Cookie Policy
 
