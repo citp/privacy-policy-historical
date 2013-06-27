@@ -1,18 +1,18 @@
-> *The following text is extracted and transformed from the dotabuff.com privacy policy that was archived on 2012-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121122135723id_/https%3A//dotabuff.com/pages/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dotabuff.com privacy policy that was archived on 2013-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130627155733id_/http%3A//dotabuff.com/pages/privacy) for the most accurate reproduction.*
 
 # DOTABUFF - Dota 2 Stats - Privacy Policy
 
 ## Privacy Policy
 
-ELO Entertainment LLC (DOTABUFF) collects e-mail addresses of people who send us e-mail. We also collect information on what pages visitors access and information provided to us by via forms submitted by visitors. Such information may contain personal data about you including your name, your email, etc. We are not allowed to disclose such personal information without your written permission. However, certain information collected from you and about you is used within the context of providing the Service. The information we collect is not shared with or sold to others except under the certain circumstances and which your use of the Service is deemed to provide us a valid consent to disclose the following: In order to investigate, prevent, or take action regarding illegal activities, suspected fraud, situations involving potential threats to the physical safety of any person, violations of our terms of service, or as otherwise required by law. 
+ELO Entertainment LLC (Dotabuff) collects e-mail addresses of people who send us e-mail. We also collect information on what pages visitors access and information provided to us by via forms submitted by visitors. Such information may contain personal data about you including your name, your email, etc. We are not allowed to disclose such personal information without your written permission. However, certain information collected from you and about you is used within the context of providing the Service. The information we collect is not shared with or sold to others except under the certain circumstances and which your use of the Service is deemed to provide us a valid consent to disclose the following: In order to investigate, prevent, or take action regarding illegal activities, suspected fraud, situations involving potential threats to the physical safety of any person, violations of our terms of service, or as otherwise required by law. 
 
-DOTABUFF does not rent, sell, or share personal information about you with other companies except to provide products or services you’ve requested or when we have your permission.
+Dotabuff does not rent, sell, or share personal information about you with other companies except to provide products or services you’ve requested or when we have your permission.
 
-We will transfer information about you if DOTABUFF is acquired by or merged with another company. In this event, we will notify you by email or by putting a prominent notice on the DOTABUFF web site before information about you is transferred and becomes subject to a different privacy policy.
+We will transfer information about you if Dotabuff is acquired by or merged with another company. In this event, we will notify you by email or by putting a prominent notice on the Dotabuff web site before information about you is transferred and becomes subject to a different privacy policy.
 
 ## What we do with your information
 
-When you register for DOTABUFF, we ask for your name and e-mail address. DOTABUFF uses the information we collect for the following purposes: service provisioning, identification and authentication, customer contact and research. 
+When you register for Dotabuff, we ask for your name and e-mail address. Dotabuff uses the information we collect for the following purposes: service provisioning, identification and authentication, customer contact and research. 
 
 ## Security
 
@@ -20,11 +20,11 @@ The security of your personal information is important to us. When you enter sen
 
 ## Disclosure
 
-DOTABUFF may disclose personally identifiable information under special circumstances, such as to comply with court orders requiring us to do so or when your actions violate the Terms of Service.
+Dotabuff may disclose personally identifiable information under special circumstances, such as to comply with court orders requiring us to do so or when your actions violate the Terms of Service.
 
 ## Cookies
 
-A cookie is a small amount of data, which may include an anonymous unique identifier. Cookies are sent to your browser from a web site’s computers and stored on your computer’s hard drive. DOTABUFF uses cookies to record current session information. Our cookies typically exist perpetually and we provide the ability to remove your session cookie with a sign out link.
+A cookie is a small amount of data, which may include an anonymous unique identifier. Cookies are sent to your browser from a web site’s computers and stored on your computer’s hard drive. Dotabuff uses cookies to record current session information. Our cookies typically exist perpetually and we provide the ability to remove your session cookie with a sign out link.
 
 ## Changes to this Privacy Policy
 
