@@ -1,536 +1,355 @@
-<!--The following is the downloaded HTML source of the myindiacafe.com privacy policy that was archived on 2009-04-24.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090424224413id_/http%3A//www.myindiacafe.com/index.php%3Fpage%3Dprivacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the myindiacafe.com privacy policy that was archived on 2013-06-27.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130627171957id_/http%3A//myindiacafe.com/static/2/privacy-policy.html) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN"><html><head>
-<meta http-equiv="Pragma" content="no-cache">
-<meta http-equiv="Cache-Control" content="no-cache">
-<meta http-equiv="Expires" content="-1">
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd"><html><head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-<meta http-equiv="content-language" content="en">
-<meta name="description" content="MyIndiaCafe.com connecting people of indian origin around the world.A free Indian social networking site where you can make friends, listen to music, watch videos, and chat with each other.">
-<meta name="keywords" content="MyIndiaCafe.com connecting people of indian origin around the world.A free Indian social networking site where you can make friends, listen to music, watch videos, and chat with each other.Andhra Pradesh, Arunachal Pradesh, Assam, Bihar,Chhattisgarh, Goa, Gujarat, Haryana, Himachal Pradesh, Jharkhand, Karnataka, Kerala, Madhya Pradesh, Maharashtra, Manipur, Meghalaya, Mizoram, Nagaland, Orissa, Punjab, Rajasthan, Sikkim, Tamil Nadu, Tripura, Uttar Pradesh, Uttarakhand, West Bengal, Jammu and Kashmir.">
-<title>MYINDIACAFE.COM - INDIAS FREE SOCIAL NETWORKING &amp; DATING SITE - INDIAN MUSIC, INDIAN VIDEOS, BOLLYWOOD, KERALA DATING, MALAYALAY, MUMBAI CAFE, INDIA CHAT, KERALA CHAT::Privacy</title>
-<link rel="stylesheet" type="text/css" href="themes/handshakes/gfx/style.css">
-<script src="http://myindiacafe.com/jscript/zxml.js" type="text/javascript"></script>
-<script language="JavaScript">
-//<![CDATA[
-var tempTimeout = 0;
-var closeTimeout = null;
-function HS_VChatRequest( type, param )
-{
-	
-	var post = null;
-
-	switch(type){
-		case 'invite':
-			post = "action=invite&per_id="+param;
-			break;
-		case 'cancel':
-			HS_CloseVChatWindow();
-			post = "action=cancel&session_id="+param;
-			break;
-		case 'accept':
-			HS_CloseVChatWindow();
-			post = "action=accept&session_id="+param;
-			break;
-		case 'decline':
-			HS_CloseVChatWindow();
-			post = "action=decline&session_id="+param;
-			break;
-		case 'ignore':
-			HS_CloseVChatWindow();
-			post = "action=ignore&session_id="+param;
-			break;
-		case 'invited':
-			post = "action=invited&session_id="+param;
-			break;
-		case 'unavailable':
-			post = "action=unavailable&session_id="+param;
-			break;
-		case 'open_invited':
-			post = "action=open_invited&session_id="+param;
-			break;
-		case 'open_invitee':
-			post = "action=open_invitee&session_id="+param;
-			break;
-		case 'declined':
-			post = "action=declined&session_id="+param;
-			break;
-		case 'close':
-			HS_CloseVChatWindow();
-			break;
-	}
-	if(post.length > 0) {
-		var oXHR = zXmlHttp.createRequest();
-		oXHR.open("post", MainURL+"modules/vchat.php", true);
-		oXHR.setRequestHeader("Content-Type","application/x-www-form-urlencoded");
-		oXHR.onreadystatechange = function() {
-			if (oXHR.readyState == 4) {
-				HS_ShowVChatWindow( oXHR.responseText );
-			}
-		}	
-		oXHR.send( post );
-	}
-}
-
-function HS_HandleVChatSignal( code )
-{
-	var details = code.split(".");
-	HS_VChatRequest( details[0], details[1] );
-}
-
-function HS_AlignVChatWindow()
-{
-	var ns = (document.layers)?1:0;
-	var Position = new Array;
-	if(ns){
-		Position['Left'] = window.innerWidth + window.pageXOffset - 5;
-		Position['Top']  = window.innerHeight + window.pageYOffset - 5;
-	}//if
-	else{
-		Position['Left'] = document.body.clientWidth + document.body.scrollLeft - 5;
-		Position['Top']  = document.body.clientHeight + document.body.scrollTop - 5;
-	}//else
-	var VChatWindow = document.getElementById("vchat_window");
-	VChatWindow.style.top = (Position['Top']/2) - (VChatWindow.offsetHeight/2);
-	VChatWindow.style.left = (Position['Left']/2) - (VChatWindow.offsetWidth/2);
-	if(tempTimeout)
-		setTimeout( "HS_AlignVChatWindow()", 500 );
-}
-function HS_ShowVChatWindow( content )
-{
-	if(content){
-		var element = document.getElementById( "vchat_window" );
-		element.innerHTML = content;
-		tempTimeout = 1;
-		HS_AlignVChatWindow();
-		element.style.visibility = "visible";
-	}
-}
-
-function HS_CloseVChatWindow()
-{
-	tempTimeout = 0;
-	var element = document.getElementById( "vchat_window" );
-	element.innerHTML = "";
-	element.style.visibility = "hidden";
-}
-
-function HS_LaunchVChat( session_id )
-{
-	HS_CloseVChatWindow();
-	url = MainURL+"modules/vchat.php?action=launch&session_id="+session_id;
-	var newwin = window.open(url, "vchat", "width=550,height=330,scrollbars=no,menubar=no,resizable=no,location=no");
-	newwin.focus();
-}
-
-//]]>
+<title>MyIndiaCafe.com - Privacy Policy</title>
+<meta name="keywords" content="">
+<meta name="description" content="">
+<meta name="google-site-verification" content="">
+<link rel="alternate" type="application/rss+xml" title="Latest videos" href="http://myindiacafe.com/rss/">
+<script language="JavaScript" type="text/javascript">
+var imgurl='http://myindiacafe.com/templates/frontend/dark_knight/images';
+var baseurl='http://myindiacafe.com';
+var template_dir='';
 </script>
-<style type="text/css">
-<!--
-	#BLIND {
-		position: absolute;
-		visibility: hidden;
-		top: 0;
-		left: 0;
-		width: 180px;
-		height: 115px;
-		z-index: 1;
-		opacity: 0;
-		-moz-opacity: 0;
-		-khtml-opacity: 0;
-		filter: alpha(opacity=0);
-	}
-	#blinds_panel {
-		position: absolute;
-		top: 0;
-		left: 0;
-		z-index: 1;
-	}
-	#body{
-		z-index: 2;
-	}
-	.blind{
-		width: 180;
-		height: 115;
-		opacity: 0;
-		-moz-opacity: 0;
-		-khtml-opacity: 0;
-		filter: alpha(opacity=0);
-	}
-//-->
-</style>
-<script language="JavaScript">
-<!--
-	var NotiTimer = new Array;
-	var BlindIDCount = 0;
-	function MM_preloadImages() { //v3.0
-		var d=document; if(d.images){ if(!d.MM_p) d.MM_p=new Array();
-		var i,j=d.MM_p.length,a=MM_preloadImages.arguments; for(i=0; i<a.length; i++)
-		if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
-	}//MM_preloadImages
-	function HS_LaunchIM(){
-		url = MainURL+"modules/instant_messenger.php?action=launch";
-		imwin = window.open(url, "HSIM_CONSOLE", "width=250,height=350,scrollbars=no,menubar=no,resizable=no,location=no");
-		imwin.focus();
-	}//HS_LaunchIM
-	function HS_LaunchChat(per_id){
-		url = MainURL+"modules/instant_messenger.php?action=chat&per_id="+per_id;
-		var newwin = window.open(url, per_id, "width=500,height=350,scrollbars=no,menubar=no,resizable=no,location=no");
-		newwin.focus();
-	}//HS_LaunchChat
-	function HS_BuildBlind(){
-		BlindIDCount++;
-		var BlindID = "BLIND_"+BlindIDCount;
-		var BlindTemplate = document.getElementById("BLIND").innerHTML;
-		var Temp = new Array;
-		Temp = BlindTemplate.split("BLIND");
-		BlindTemplate = Temp.join(BlindID);
-		var BlindContent = "<table cellpadding='0' cellspacing='0' border='0'><tr><td style='padding-top:2px;'><div class='blind' id='"+BlindID+"'>"+BlindTemplate+"</div></td></tr></table>";
-		var BlindsHandler = document.getElementById("blinds_panel");
-		if(BlindsHandler.offsetHeight >= 117){
-			BlindsHandler.style.top = parseInt(BlindsHandler.style.top) - 117;
-		}//if
-		else{
-			BlindsHandler.style.top = parseInt(BlindsHandler.style.top) - 117 + BlindsHandler.offsetHeight;
-		}//else
-		BlindsHandler.innerHTML+= BlindContent;
-		return BlindID;
-	}//HS_BuildBlind
-	function HS_BuildNotification(NotiType,NotiMessage){
-		BlindID = HS_BuildBlind();
-		switch(NotiType){
-			case 'im':
-				var IconImage   = "http://myindiacafe.com/themes/handshakes/gfx/icons/notifications/im.gif";
-				var HeaderImage = "http://myindiacafe.com/themes/handshakes/gfx/sectionheaders/notifications/im.gif";
-				var Link = "<a href=\"javascript:HS_LaunchIM();\">"+NotiMessage+"</a>";
-				break;
-			case 'calendar':
-				var IconImage   = "http://myindiacafe.com/themes/handshakes/gfx/icons/notifications/calendar.gif";
-				var HeaderImage = "http://myindiacafe.com/themes/handshakes/gfx/sectionheaders/notifications/calendar.gif";
-				var Link = "<a href=\"http://myindiacafe.com/index.php?page=calendar\" target=\"_blank\">"+NotiMessage+"</a>";
-				break;
-			case 'mailbox':
-				var IconImage   = "http://myindiacafe.com/themes/handshakes/gfx/icons/notifications/mailbox.gif";
-				var HeaderImage = "http://myindiacafe.com/themes/handshakes/gfx/sectionheaders/notifications/mailbox.gif";
-				var Link = "<a href=\"http://myindiacafe.com/index.php?page=mailbox&section=inbox\" target=\"_blank\">"+NotiMessage+"</a>";
-				break;
-			case 'view':
-				var IconImage   = "http://myindiacafe.com/themes/handshakes/gfx/icons/notifications/eye.gif";
-				var HeaderImage = "http://myindiacafe.com/themes/handshakes/gfx/sectionheaders/notifications/profile.gif";
-				var Link = "<a href=\"http://myindiacafe.com/index.php?page=views\" target=\"_blank\">"+NotiMessage+"</a>";
-				break;
-		}//switch
-		var MessageHandler = document.getElementById("notification_message_"+BlindID);
-		MessageHandler.innerHTML = Link;
-		var IconHandler = document.getElementById("notification_icon_"+BlindID);
-		IconHandler.src= IconImage;
-		var HeaderHandler = document.getElementById("notification_header_"+BlindID);
-		HeaderHandler.src = HeaderImage;
-		HS_FadeBlind(BlindID,"in");
-		NotiTimer[BlindID] = setTimeout("HS_FadeBlind('"+BlindID+"','out')",10000);
-	}//HS_BuildNotification
-	function HS_FadeBlind(BlindID,Direction){
-		var Timer = 0;
-		var Speed = 50;
-		if(Direction == "in"){
-			HS_ChangeAlign('blinds_panel',3);
-			for(var i=10;i<=100;i=i+10){
-				setTimeout("HS_ChangeOpacity(" + i + ",'" + BlindID + "')",(Timer * Speed));
-            	Timer++;
-			}//for
-		}//if
-		else if(Direction == "out"){
-			for(var i=90;i>=0;i=i-10){
-				setTimeout("HS_ChangeOpacity(" + i + ",'" + BlindID + "')",(Timer * Speed));
-            	Timer++;
-			}//for
-			setTimeout("HS_ChangeAlign('blinds_panel',1)",Timer * Speed);
-			setTimeout("HS_RemoveBlind('"+BlindID+"')",Timer * Speed);
-		}//else if
-	}//HS_FadeBlind
-	function HS_ChangeOpacity(OpacityValue,BlindID){
-		var BlindObjStyle = document.getElementById(BlindID).style;
-    	BlindObjStyle.opacity = (OpacityValue / 100);
-    	BlindObjStyle.MozOpacity = (OpacityValue / 100);
-    	BlindObjStyle.KhtmlOpacity = (OpacityValue / 100);
-    	BlindObjStyle.filter = "alpha(opacity=" + OpacityValue + ")";
-	}//HS_ChangeOpacity
-	function HS_PosBlinds(){
-		var ns = (document.layers)?1:0;
-		var Position = new Array;
-		if(ns){
-			Position['Left'] = window.innerWidth + window.pageXOffset - 5;
-			Position['Top']  = window.innerHeight + window.pageYOffset - 5;
-		}//if
-		else{
-			Position['Left'] = document.body.clientWidth + document.body.scrollLeft - 5;
-			Position['Top']  = document.body.clientHeight + document.body.scrollTop - 5;
-		}//else
-		var BlindsPanel = document.getElementById("blinds_panel");
-		BlindsPanel.style.top = Position['Top'] - BlindsPanel.offsetHeight;
-		BlindsPanel.style.left = Position['Left'] - 180;
-		setTimeout("HS_PosBlinds()",500);
-	}//HS_PosBlinds
-	function HS_ChangeAlign(BlindID,Pos){
-		var BlindObjStyle = document.getElementById(BlindID).style;
-		BlindObjStyle.zIndex = Pos;
-	}//HS_ChangeAlign
-	function HS_RemoveBlind(BlindID){
-		var BlindObj = document.getElementById(BlindID);
-		BlindObj.innerHTML = "";
-	}//HS_RemoveBlind
-	function HS_CloseNotification(BlindID){
-		clearTimeout(NotiTimer[BlindID]);
-		HS_FadeBlind(BlindID,'out');
-	}//HS_CloseNotification
-//-->
-</script>
-<script src="http://myindiacafe.com/jscript/AC_RunActiveContent.js" type="text/javascript"></script>
-<script src="http://myindiacafe.com/jscript/AC_ActiveX.js" type="text/javascript"></script>
+<link type="text/css" href="http://myindiacafe.com/templates/frontend/dark_knight/css/style.css" rel="stylesheet" media="screen">
+<link type="text/css" href="http://myindiacafe.com/js/ajax_modals/colorbox.css" rel="stylesheet" media="screen">
+<link type="text/css" href="http://myindiacafe.com/js/tipsy/css/tipsy.css" rel="stylesheet" media="screen">
+<link type="text/css" href="http://myindiacafe.com/js/tabber/dark_knight/jquery-tabber.css" rel="stylesheet" media="screen">
+<link type="text/css" href="http://myindiacafe.com/js/news_ticker/dark_knight/css/jquery.ticker.css" rel="stylesheet" media="screen">
 
-<script language="JavaScript">
-<!--
-        var MainURL = "./";
-//-->
+<script language="javascript" type="text/javascript" src="http://myindiacafe.com/js/jquery-1.4.2.min.js"></script>
+<script language="javascript" type="text/javascript" src="http://myindiacafe.com/js/vticker.js"></script>
+<script language="JavaScript" type="text/javascript" src="http://myindiacafe.com/js/ajax_tabs.js"></script>
+<script type="text/javascript" language="JavaScript" src="http://myindiacafe.com/js/swfobject.js"></script>
+<script type="text/javascript" language="javascript" src="http://myindiacafe.com/js/tipsy/jquery.tipsy.js"></script>
+<script language="javascript" type="text/javascript" src="http://myindiacafe.com/js/tabber/dark_knight/jquery-tabber.js"></script>
+<script language="javascript" type="text/javascript" src="http://myindiacafe.com/js/ajax_modals/jquery.colorbox.js"></script>
+<script language="javascript" type="text/javascript" src="http://myindiacafe.com/js/news_ticker/dark_knight/jquery.ticker.min.js"></script>
+
+<script type="text/javascript">
+$(function() {
+$("a[rel='tipsy_north']").tipsy({gravity:'n',fade:true,title:'id'});
+$("a[rel='tipsy_south']").tipsy({gravity:'s',fade:true,title:'id'});
+ });
 </script>
+<script type="text/javascript">
+$(document).ready(function(){
+        $("a[rel='editorpicks']").colorbox({rel:'nofollow', transition:'elastic', speed:'500', scrolling:false, slideshow:false,  maxWidth:'700', maxHeight:'600', scalePhotos:true});
+        $("a[rel='story']").colorbox({rel:'nofollow', iframe: 'true', innerWidth:'990', innerHeight:'360', transition:'elastic', speed:'500'});
+        $(".preview").colorbox({rel:'nofollow', transition:'elastic', speed:'500', maxWidth:'700', maxHeight:'600', scrolling:false, scalePhotos:true});
+        $("a[rel='gallery1']").colorbox({transition:'elastic', speed:'500', scrolling:false, slideshow:true, slideshowSpeed:'2500', slideshowAuto:true, maxWidth:'950', maxHeight:'540', scalePhotos:true});
+        $.fn.colorbox.resize();
+        });		
+</script>
+
 </head>
-<body bgcolor="#CCCCCC" topmargin="0" leftmargin="0" bottommargin="0" rightmargin="0" onload="MM_preloadImages('http://myindiacafe.com/themes/handshakes/gfx/icons/notifications/im.gif','http://myindiacafe.com/themes/handshakes/gfx/sectionheaders/notifications/im.gif','http://myindiacafe.com/themes/handshakes/gfx/icons/notifications/calendar.gif','http://myindiacafe.com/themes/handshakes/gfx/sectionheaders/notifications/calendar.gif','http://myindiacafe.com/themes/handshakes/gfx/icons/notifications/mailbox.gif','http://myindiacafe.com/themes/handshakes/gfx/sectionheaders/notifications/mailbox.gif','http://myindiacafe.com/themes/handshakes/gfx/icons/notifications/eye.gif','http://myindiacafe.com/themes/handshakes/gfx/sectionheaders/notifications/profile.gif');HS_PosBlinds();;"><div id="WzTtDiV" style="visibility: hidden; position: absolute; overflow: hidden; padding: 0px; width: 799px; left: -800px; top: 0px;"></div>
-<script type="text/javascript" src="./jscript/sblib.js"></script>
-<script type="text/javascript" src="./jscript/wz_tooltip.js"></script>
-<div id="BLIND"><table cellpadding="0" cellspacing="0" border="0" width="180" height="115">
-	<tbody><tr height="2">
-		<td width="2"><img src="themes/handshakes/gfx/boxes/notifications_top_left.gif" alt="" width="2" height="2" border="0"></td>
-		<td background="themes/handshakes/gfx/boxes/notifications_bcg_top.gif"><img src="themes/handshakes/gfx/spacer.gif" alt="" width="1" height="1" border="0"></td>
-		<td width="2"><img src="themes/handshakes/gfx/boxes/notifications_top_right.gif" alt="" width="2" height="2" border="0"></td>
-	</tr>
-	<tr>
-		<td width="2" background="themes/handshakes/gfx/boxes/notifications_bcg_left.gif"><img src="themes/handshakes/gfx/spacer.gif" alt="" width="1" height="1" border="0"></td>
-		<td><table cellpadding="0" cellspacing="0" border="0" width="100%" height="100%">
-			<tbody><tr height="23"><td height="23" class="notification_header"><table cellpadding="0" cellspacing="0" border="0" width="100%" height="23">
-				<tbody><tr>
-					<td align="center" width="29"><img src="themes/handshakes/gfx/spacer.gif" id="notification_icon_BLIND"></td>
-					<td align="center"><img src="themes/handshakes/gfx/spacer.gif" id="notification_header_BLIND"></td>
-					<td align="right" width="27" style="padding-right:2px;"><a href="javascript:HS_CloseNotification('BLIND')"><img src="themes/handshakes/gfx/buttons/but_close_notification.gif" alt="" width="18" height="18" border="0"></a></td>
-				</tr>
-			</tbody></table></td></tr>
-			<tr height="2"><td height="2" background="themes/handshakes/gfx/boxes/notifications_header_shadow.gif"><img src="themes/handshakes/gfx/spacer.gif" alt="" width="1" height="1" border="0"></td></tr>
-			<tr><td background="themes/handshakes/gfx/boxes/notifications_bcg_main.gif"><table cellpadding="0" cellspacing="0" border="0" width="100%" height="100%">
-				<tbody><tr><td class="notification_body" align="center" style="padding:5px;"><div id="notification_message_BLIND"></div></td></tr>
-			</tbody></table></td></tr>
-		</tbody></table></td>
-		<td width="2" background="themes/handshakes/gfx/boxes/notifications_bcg_right.gif"><img src="themes/handshakes/gfx/spacer.gif" alt="" width="1" height="1" border="0"></td>
-	</tr>
-	<tr height="2">
-		<td width="2"><img src="themes/handshakes/gfx/boxes/notifications_bottom_left.gif" alt="" width="2" height="2" border="0"></td>
-		<td background="themes/handshakes/gfx/boxes/notifications_bcg_bottom.gif"><img src="themes/handshakes/gfx/spacer.gif" alt="" width="1" height="1" border="0"></td>
-		<td width="2"><img src="themes/handshakes/gfx/boxes/notifications_bottom_right.gif" alt="" width="2" height="2" border="0"></td>
-	</tr>
-</tbody></table></div>
-<div id="blinds_panel" style="top: 763px; left: 1181px;"></div>
-<iframe name="notifications_js" id="notifications_js" src="./modules/my_handshakes.php?action=notifications_js" width="0" height="0" scrolling="no" frameborder="0" border="0" style="border: none"></iframe><div id="vchat_window"></div>
-<table height="100%" cellpadding="0" cellspacing="0" border="0" id="body" align="center" width="1059">
-<tbody><tr><td width="9" background="themes/handshakes/gfx/page_shadow_left.gif"><img src="themes/handshakes/gfx/spacer.gif" alt="" width="1" height="1" border="0"></td>
-<td>
-<table height="100%" cellpadding="0" cellspacing="0" border="0" align="center" width="100%">
-<tbody><tr><td valign="top" height="85" background="themes/handshakes/gfx/myindiacafelogo.jpg" align="right">
-        <!--<table width="100%" cellpadding="0" cellspacing="0" border="0">
-                <tr><td width="139"><a href="index.php"><img src="themes/handshakes/gfx/logo.gif" alt="" width="139" height="44" border="0" /></a></td>
-                </td>
-                <td width="100%"><table cellpadding="0" cellspacing="0" border="0" width="100%" height="44">
-                        <tr><td background="themes/handshakes/gfx/header_bcg.gif" colspan="2"><img src="themes/handshakes/gfx/header_bcg.gif" alt="" width="1" height="35" border="0" /></td></tr>
-                        <tr><td background="themes/handshakes/gfx/header_line.gif" height="9" width="430"><img src="themes/handshakes/gfx/spacer.gif" alt="" width="1" height="9" border="0" /></td>
-                        <td background="themes/handshakes/gfx/header_line_fixed.gif" height="9"><img src="themes/handshakes/gfx/spacer.gif" alt="" width="1" height="9" border="0" /></td>
-                        </tr>
-                </table></td>
-                <td width="227" background="themes/handshakes/gfx/header_bcg_icons.gif" align="right">-->
-                                <img src="themes/handshakes/gfx/spacer.gif" alt="" width="227" height="1" border="0">
-                                <!--</td>
-                </tr>
-        </table>-->
-</td></tr>
-<tr><td valign="top" height="24"><table width="100%" cellpadding="0" cellspacing="0" border="0">
-                    <tbody><tr>
-                <td background="themes/handshakes/gfx/mainbar_bcg.gif" height="24"><table cellpadding="0" cellspacing="0" border="0" width="100%">
-                    <tbody><tr>
-                                                                                    <td width="6"><img src="themes/handshakes/gfx/mainbar_bcg.gif" alt="" width="6" height="24" border="0"></td>
-                                                        <td valign="bottom"><a href="index.php?page=my_handshakes" target=""><img src="themes/handshakes/gfx/buttons/but_my_handshakes_off.gif" alt="" width="96" height="24" border="0"></a></td>
-                                                        <td width="6"><img src="themes/handshakes/gfx/mainbar_bcg.gif" alt="" width="6" height="24" border="0"></td>
-                                                                                    <td><img src="themes/handshakes/gfx/mainbar_sep.gif" alt="" width="2" height="24" border="0"></td>
-                                                                                                                <td width="6"><img src="themes/handshakes/gfx/mainbar_bcg.gif" alt="" width="6" height="24" border="0"></td>
-                                                        <td valign="bottom"><a href="index.php?page=blogs" target=""><img src="themes/handshakes/gfx/buttons/but_blogs_off.gif" alt="" width="34" height="24" border="0"></a></td>
-                                                        <td width="6"><img src="themes/handshakes/gfx/mainbar_bcg.gif" alt="" width="6" height="24" border="0"></td>
-                                                                                    <td><img src="themes/handshakes/gfx/mainbar_sep.gif" alt="" width="2" height="24" border="0"></td>
-                                                                                                                <td width="6"><img src="themes/handshakes/gfx/mainbar_bcg.gif" alt="" width="6" height="24" border="0"></td>
-                                                        <td valign="bottom"><a href="index.php?page=classifieds" target=""><img src="themes/handshakes/gfx/buttons/but_classifieds_off.gif" alt="" width="67" height="24" border="0"></a></td>
-                                                        <td width="6"><img src="themes/handshakes/gfx/mainbar_bcg.gif" alt="" width="6" height="24" border="0"></td>
-                                                                                    <td><img src="themes/handshakes/gfx/mainbar_sep.gif" alt="" width="2" height="24" border="0"></td>
-                                                                                                                <td width="6"><img src="themes/handshakes/gfx/mainbar_bcg.gif" alt="" width="6" height="24" border="0"></td>
-                                                        <td valign="bottom"><a href="index.php?page=events" target=""><img src="themes/handshakes/gfx/buttons/but_events_off.gif" alt="" width="41" height="24" border="0"></a></td>
-                                                        <td width="6"><img src="themes/handshakes/gfx/mainbar_bcg.gif" alt="" width="6" height="24" border="0"></td>
-                                                                                    <td><img src="themes/handshakes/gfx/mainbar_sep.gif" alt="" width="2" height="24" border="0"></td>
-                                                                                                                <td width="6"><img src="themes/handshakes/gfx/mainbar_bcg.gif" alt="" width="6" height="24" border="0"></td>
-                                                        <td valign="bottom"><a href="index.php?page=clubs" target=""><img src="themes/handshakes/gfx/buttons/but_clubs_off.gif" alt="" width="36" height="24" border="0"></a></td>
-                                                        <td width="6"><img src="themes/handshakes/gfx/mainbar_bcg.gif" alt="" width="6" height="24" border="0"></td>
-                                                                                    <td><img src="themes/handshakes/gfx/mainbar_sep.gif" alt="" width="2" height="24" border="0"></td>
-                                                                                                                <td width="6"><img src="themes/handshakes/gfx/mainbar_bcg.gif" alt="" width="6" height="24" border="0"></td>
-                                                        <td valign="bottom"><a href="index.php?page=ecards" target=""><img src="themes/handshakes/gfx/buttons/but_ecards_off.gif" alt="" width="43" height="24" border="0"></a></td>
-                                                        <td width="6"><img src="themes/handshakes/gfx/mainbar_bcg.gif" alt="" width="6" height="24" border="0"></td>
-                                                                                    <td><img src="themes/handshakes/gfx/mainbar_sep.gif" alt="" width="2" height="24" border="0"></td>
-                                                                                                                <td width="6"><img src="themes/handshakes/gfx/mainbar_bcg.gif" alt="" width="6" height="24" border="0"></td>
-                                                        <td valign="bottom"><a href="index.php?page=chat" target=""><img src="themes/handshakes/gfx/buttons/but_chat_off.gif" alt="" width="30" height="24" border="0"></a></td>
-                                                        <td width="6"><img src="themes/handshakes/gfx/mainbar_bcg.gif" alt="" width="6" height="24" border="0"></td>
-                                                                                    <td><img src="themes/handshakes/gfx/mainbar_sep.gif" alt="" width="2" height="24" border="0"></td>
-                                                                                                                <td width="6"><img src="themes/handshakes/gfx/mainbar_bcg.gif" alt="" width="6" height="24" border="0"></td>
-                                                        <td valign="bottom"><a href="index.php?page=hotornot" target=""><img src="themes/handshakes/gfx/buttons/but_hotornot_off.gif" alt="" width="60" height="24" border="0"></a></td>
-                                                        <td width="6"><img src="themes/handshakes/gfx/mainbar_bcg.gif" alt="" width="6" height="24" border="0"></td>
-                                                                                    <td><img src="themes/handshakes/gfx/mainbar_sep.gif" alt="" width="2" height="24" border="0"></td>
-                                                                                                                <td width="6"><img src="themes/handshakes/gfx/mainbar_bcg.gif" alt="" width="6" height="24" border="0"></td>
-                                                        <td valign="bottom"><a href="index.php?page=search&amp;section=members" target=""><img src="themes/handshakes/gfx/buttons/but_search_off.gif" alt="" width="42" height="24" border="0"></a></td>
-                                                        <td width="6"><img src="themes/handshakes/gfx/mainbar_bcg.gif" alt="" width="6" height="24" border="0"></td>
-                                                                                    <td><img src="themes/handshakes/gfx/mainbar_sep.gif" alt="" width="2" height="24" border="0"></td>
-                                                                                                                <td width="6"><img src="themes/handshakes/gfx/mainbar_bcg.gif" alt="" width="6" height="24" border="0"></td>
-                                                        <td valign="bottom"><a href="index.php?page=music" target=""><img src="themes/handshakes/gfx/buttons/but_music_off.gif" alt="" width="36" height="24" border="0"></a></td>
-                                                        <td width="6"><img src="themes/handshakes/gfx/mainbar_bcg.gif" alt="" width="6" height="24" border="0"></td>
-                                                                                    <td><img src="themes/handshakes/gfx/mainbar_sep.gif" alt="" width="2" height="24" border="0"></td>
-                                                                                                                <td width="6"><img src="themes/handshakes/gfx/mainbar_bcg.gif" alt="" width="6" height="24" border="0"></td>
-                                                        <td valign="bottom"><a href="index.php?page=videos" target=""><img src="themes/handshakes/gfx/buttons/but_videos_off.gif" alt="" width="42" height="24" border="0"></a></td>
-                                                        <td width="6"><img src="themes/handshakes/gfx/mainbar_bcg.gif" alt="" width="6" height="24" border="0"></td>
-                                                                                    <td><img src="themes/handshakes/gfx/mainbar_sep.gif" alt="" width="2" height="24" border="0"></td>
-                                                                                                                <td width="6"><img src="themes/handshakes/gfx/mainbar_bcg.gif" alt="" width="6" height="24" border="0"></td>
-                                                        <td valign="bottom"><a href="index.php?page=forum" target=""><img src="themes/handshakes/gfx/buttons/but_forum_off.gif" alt="" width="40" height="24" border="0"></a></td>
-                                                        <td width="6"><img src="themes/handshakes/gfx/mainbar_bcg.gif" alt="" width="6" height="24" border="0"></td>
-                                                                                    <td><img src="themes/handshakes/gfx/mainbar_sep.gif" alt="" width="2" height="24" border="0"></td>
-                                                                                                                <td width="6"><img src="themes/handshakes/gfx/mainbar_bcg.gif" alt="" width="6" height="24" border="0"></td>
-                                                        <td valign="bottom"><a href="index.php?page=polls" target=""><img src="themes/handshakes/gfx/buttons/but_polls_off.gif" alt="" width="29" height="24" border="0"></a></td>
-                                                        <td width="6"><img src="themes/handshakes/gfx/mainbar_bcg.gif" alt="" width="6" height="24" border="0"></td>
-                                                                                    <td><img src="themes/handshakes/gfx/mainbar_sep.gif" alt="" width="2" height="24" border="0"></td>
-                                                                                    <td width="100%"><img src="themes/handshakes/gfx/mainbar_bcg.gif" alt="" width="5" height="24" border="0"></td>
-                                                        <td width="5"><img src="themes/handshakes/gfx/mainbar_bcg.gif" alt="" width="5" height="24" border="0"></td>
-                            <td width="21"><a href="javascript:void(0)" onclick="sbDropDown( this )" onmouseout="sbHide()" onmouseover="sbStopTimer()"><img src="themes/handshakes/gfx/buttons/but_bookmark.gif" alt="Bookmark" width="28" height="24" border="0"></a></td>
-                                                        <td width="5"><img src="themes/handshakes/gfx/mainbar_bcg.gif" alt="" width="5" height="24" border="0"></td>
-                            <td><a href="index.php?page=mailbox&amp;section=inbox"><img src="themes/handshakes/gfx/buttons/but_mailbox.gif" alt="Mailbox" width="23" height="24" border="0"></a></td>
-                            <td width="5"><img src="themes/handshakes/gfx/mainbar_bcg.gif" alt="" width="5" height="24" border="0"></td>
-                            <td width="21"><a href=""><img src="themes/handshakes/gfx/buttons/but_my_profile.gif" alt="My Profile" width="21" height="24" border="0"></a></td>
-                            <td width="5"><img src="themes/handshakes/gfx/mainbar_bcg.gif" alt="" width="5" height="24" border="0"></td>
-                            <td width="23"><a href="javascript:HS_LaunchIM()"><img src="themes/handshakes/gfx/buttons/but_messenger.gif" alt="Instant Messenger" width="23" height="24" border="0"></a></td>
-                            <td width="3"><img src="themes/handshakes/gfx/mainbar_bcg.gif" alt="" width="3" height="24" border="0"></td>
-                            <td width="23"><a href="index.php?page=calendar"><img src="themes/handshakes/gfx/buttons/but_calendar.gif" alt="My Calendar" width="23" height="24" border="0"></a></td>
-                            <td width="5"><img src="themes/handshakes/gfx/mainbar_bcg.gif" alt="" width="5" height="24" border="0"></td>
-                            <td width="24"><a href="index.php?page=bookmarks&amp;section=profiles"><img src="themes/handshakes/gfx/buttons/but_bookmarks.gif" alt="My Bookmarks" width="24" height="24" border="0"></a></td>
-                            <td width="3"><img src="themes/handshakes/gfx/mainbar_bcg.gif" alt="" width="3" height="24" border="0"></td>
-                            <td width="24"><a href="index.php?page=history"><img src="themes/handshakes/gfx/buttons/but_history.gif" alt="My History" width="24" height="24" border="0"></a></td>
-                            <td style="padding-right:5px;padding-left:5px;" align="right"><a href="index.php?handler=login&amp;action=do_logout"><img src="themes/handshakes/gfx/buttons/but_logout.gif" alt="Logout" width="43" height="24" border="0"></a></td>
-                    </tr>
-                </tbody></table></td>
-            </tr>
-                </tbody></table></td>
-</tr>
-<tr><td bgcolor="#797B9D" height="5"><img src="themes/handshakes/gfx/spacer.gif" alt="" width="1" height="5" border="0"></td></tr>
-<tr><td><table cellpadding="0" cellspacing="0" border="0" width="100%">
-        <tbody><tr><td background="themes/handshakes/gfx/boxes/ad_shadow_top.gif"><img src="themes/handshakes/gfx/spacer.gif" alt="" width="1" height="2" border="0"></td></tr>
-        <tr><td class="ad" align="center"><script type="text/javascript"><!--
-google_ad_client = "pub-8881961608786092";
-/* 728x90, created 2/8/09 */
-google_ad_slot = "7720336205";
+<body>
+<div id="container">
+   <div id="wrapper">
+     <div class="top_info">
+      <span class="cat">
+     <a href="http://myindiacafe.com/contact/" title="Contact Us"><img style="vertical-align:middle;" src="http://myindiacafe.com/templates/frontend/dark_knight/images/contact_topbar.png" border="0"></a>&nbsp;
+     <a href="http://myindiacafe.com/twitter/" title="Latest Tweets"><img style="vertical-align:middle;" src="http://myindiacafe.com/templates/frontend/dark_knight/images/twitter_topbar.png" border="0"></a>&nbsp; 
+     <a href="http://myindiacafe.com/feeds/" title="RSS Directory"><img style="vertical-align:middle;" src="http://myindiacafe.com/templates/frontend/dark_knight/images/rss_topbar.png" border="0"></a>&nbsp; 
+     <a href="http://myindiacafe.com/pages/" title="Site Resources"><img style="vertical-align:middle;" src="http://myindiacafe.com/templates/frontend/dark_knight/images/resources_topbar.png" border="0"></a>&nbsp; 
+     <a href="http://myindiacafe.com/friends/" title="Link Partners"><img style="vertical-align:middle;" src="http://myindiacafe.com/templates/frontend/dark_knight/images/link_topbar.png" border="0"></a>
+     </span>
+     <a title="Join us on Facebook" href="http://facebook.com/"><img border="0" style="vertical-align:middle;" src="http://myindiacafe.com/templates/frontend/dark_knight/images/facebook_32.png"></a> <a title="Follow us on Twitter" href="http://twitter.com/"><img border="0" style="vertical-align:middle;" src="http://myindiacafe.com/templates/frontend/dark_knight/images/twitter_32.png"></a> <a title="Follow Our RSS Feeds" href="http://myindiacafe.com/rss/"><img border="0" style="vertical-align:middle;" src="http://myindiacafe.com/templates/frontend/dark_knight/images/rss_32.png"></a>&nbsp;|&nbsp;<a rel="tipsy_north" id="Status Wall" href="http://myindiacafe.com/status_wall/">Status Wall</a>     </div></div>
+<div id="first_wrapper">
+ <div class="leftside"><div class="logo"><a title="MyIndiaCafe.com" href="http://myindiacafe.com/"><img style="max-width:320px;max-height:100px;" src="http://myindiacafe.com/thumbnails/myindiacafe.jpg" border="0"></a></div></div>
+ <div class="rightside">
+<div class="tright">
+<div id="top_search">
+<form name="search_video_form" id="search_video_form" action="http://myindiacafe.com/search/" method="post" style="display:inline;margin:0;">
+<input type="text" name="search_video_keyword" value="Search Videos..." onfocus="if (this.value == 'Search Videos...')this.value='';" class="top_input">
+<input type="submit" name="submit" class="top_btn" value="SEARCH" style="display:inline;margin-top:5px;">
+</form> 
+</div>
+ <div style="clear:both;float:right;padding-top:5px;"><b><a rel="tipsy_north" id="Register Free" href="http://myindiacafe.com/register/">Register Free</a> | <a rel="tipsy_north" id="Members Login" href="http://myindiacafe.com/login/">Members Login</a></b></div>
+</div> 
+  </div>   
+</div>
+ <div id="tabs">
+<ul>
+ <li><a href="http://myindiacafe.com/" title="Home"><span>Home</span></a></li>
+ <li><a href="http://myindiacafe.com/videos/" title="Videos"><span>Videos</span></a></li>
+ <li><a href="http://myindiacafe.com/playlists/" title="Playlists"><span>Playlists</span></a></li>
+ <li><a href="http://myindiacafe.com/channels/" title="Channles"><span>Channels</span></a></li>
+ <li><a href="http://myindiacafe.com/users/" title="Members"><span>Users</span></a></li> 
+ <li><a href="http://myindiacafe.com/galleries/" title="Galleries"><span>Photos</span></a></li>    </ul>
+</div>
+<div id="tabs_base">
+<span><a href="http://myindiacafe.com/upload.php"><img vertical-align:middle;="" src="http://myindiacafe.com/templates/frontend/dark_knight/images/upload_video.png" border="0"></a></span>
+
+<script type="text/javascript">
+	$(function () {
+		$('#js-news').ticker({
+			speed: 0.10,
+			pauseOnItems: 2000,
+			controls: false,
+			fadeInSpeed: 600,
+			titleText: 'Our Latest News'
+		});
+	});
+</script>
+
+<div id="ticker-wrapper" class="no-js">
+	  <ul id="js-news" class="js-hidden">
+			<li class="news-item">MyIndiaCafe.com is under renovation. Please check out the videos we have added.<br></li>
+   	</ul>
+	</div>
+</div>
+<div id="main_wrapper">
+ <div id="content">
+<div id="banner_728">
+<div align="center">
+<script type="text/javascript"><!--
+google_ad_client = "ca-pub-8881961608786092";
+/* DuniyaCafe.com Header Area Ad 728x90 */
+google_ad_slot = "6840042858";
 google_ad_width = 728;
 google_ad_height = 90;
 //-->
 </script>
 <script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
-</script></td></tr>
-        <tr><td background="themes/handshakes/gfx/boxes/ad_shadow_bottom.gif"><img src="themes/handshakes/gfx/spacer.gif" alt="" width="1" height="2" border="0"></td></tr>
-</tbody></table></td></tr>
-<tr><td bgcolor="#797B9D" height="5"><img src="themes/handshakes/gfx/spacer.gif" alt="" width="1" height="5" border="0"></td></tr>
-<tr height="100%">
-<td bgcolor="#797B9D" height="100%">
-<table width="100%" height="100%" cellpadding="0" cellspacing="0" border="0">
-        <tbody><tr>
-                <td width="5"><img src="themes/handshakes/gfx/spacer_purple.gif" width="5" height="1" border="0"></td>
-                <td valign="top">
-<table width="100%" cellpadding="0" cellspacing="0" border="0">
-    <tbody><tr><td valign="top" width="">
-        <table width="100%" cellpadding="0" cellspacing="0" border="0">
-        <tbody><tr><td valign="top"><table width="100%" align="center" cellpadding="0" cellspacing="0" border="0">
-	<tbody><tr>
-		<td width="5" height="5"><img src="themes/handshakes/gfx/boxes/white_top_left.gif" alt="" width="5" height="5" border="0"></td>
-		<td height="5" width="100%" class="white_top"><img src="themes/handshakes/gfx/spacer_white.gif" alt="" width="1" height="1" border="0"></td>
-		<td width="5" height="5"><img src="themes/handshakes/gfx/boxes/white_top_right.gif" alt="" width="5" height="5" border="0"></td>
-	</tr>
-	<tr>
-		<td width="5" class="white_left" align="right"><img src="themes/handshakes/gfx/spacer_white.gif" alt="" width="4" height="1" border="0"></td>
-		<td width="100%" class="white_content body"><table width="100%" align="center" cellpadding="0" cellspacing="0" border="0">
-	<tbody><tr>
-		<td>	<table width="100%" align="center" cellpadding="0" cellspacing="0" border="0">
-		<tbody><tr>
-			<td><img src="themes/handshakes/gfx/sectionheaders/privacy_policy.gif" alt="" width="103" height="22" border="0"></td>
-			<td width="100%" background="themes/handshakes/gfx/sectionheader_bcg.gif"><img src="themes/handshakes/gfx/sectionheader_bcg.gif" alt="" width="1" height="22" border="0"></td>
-			<td width="339"><img src="themes/handshakes/gfx/sectionheader_end.gif" alt="" width="260" height="22" border="0"></td>
-		</tr>
-	  </tbody></table></td>
-	</tr>
-	<tr>
-		<td>&nbsp;</td>
-	</tr>
-	<tr><td>
-	<table cellpadding="10" cellspacing="0" border="0" width="100%">
-<tbody><tr><td class="body"><b>MyIndiaCafe (CentauriVision) Privacy Policy</b></td></tr>
-<tr><td class="body">Protecting your privacy is very important to our website. We will not sell, lease or exchange your personal data to third parties without first obtaining your express consent.</td></tr>
-<tr><td class="body">This privacy policy describes how we collect and use your data. If you have any questions or comments regarding our privacy policy or its enforcement, please feel free to contact administrator.</td></tr>
-<tr><td class="body">MyIndiaCafe (CentauriVision) is an online social networking community that connects people through their personal networks and allows them to meet others, find jobs, roommates, buy and sell goods, and perform other transactions. Members create their own profiles, and those profiles are then shown to other members of this site.</td></tr>
-<tr><td class="body">MyIndiaCafe (CentauriVision) collects information our users submit to us such as their name and e-mail address to allow us to identify users and notify them of changes or updates to our service. We also collect personal information submitted by our users in filling out their profile on the service such as gender, location, age, etc. We collect this personal information when our users: sign up as a member; make changes to their member profile information; and send e-mail messages. Members may choose to provide additional information beyond their basic profile for their other profile sections. Providing additional information beyond what is required at registration is entirely optional, but enables our users to better identify each other and more effectively connect and interact with their network. </td></tr>
-<tr><td class="body">Like many other Web sites, MyIndiaCafe (CentauriVision) uses a standard technology called "cookies." Cookies are small pieces of information stored on your hard drive - not on our site. They can help make the Internet experience quicker and more convenient. Cookies allow our users to login without entering their ID and password each time they use MyIndiaCafe (CentauriVision). Members who disable cookies will not be able to use MyIndiaCafe (CentauriVision). </td></tr>
-<tr><td class="body">Email address and full name are displayed only when a user invites a friend via email to join the service, when a user requests to add another user to their MyIndiaCafe (CentauriVision) list, and when we send notifications to a user related to their use of the service. Except when members invite friends, full names are not shared or displayed with people outside of their Personal Network. Email addresses of MyIndiaCafe (CentauriVision) members are never displayed to other users on the system. Users within a Personal Network communicate on MyIndiaCafe (CentauriVision) with each other through the MyIndiaCafe (CentauriVision) service without disclosing their email addresses.</td></tr>
-<tr><td class="body">We will not sell, lease or exchange your personal data to third parties without first obtaining your express consent, unless required by law or to protect your membership. </td></tr>
-<tr><td class="body">If you use our Invite feature to invite a friend to our service, we will ask you for your friend's email address. We'll automatically send the friend an email inviting them to join your Personal Network, as well as two reminder messages. MyIndiaCafe (CentauriVision) does not sell these email addresses or use them to transmit any communication other than the invitation and reminders to join your personal Network. MyIndiaCafe (CentauriVision) stores this information for the sole purpose of sending this invitation and reminders, and for tracking the success of our Invite functionality.</td></tr>
-<tr><td class="body">The MyIndiaCafe (CentauriVision) site may contain links to other Web sites. Please be aware that MyIndiaCafe (CentauriVision) is not responsible for the privacy practices of other sites our users choose to visit. If our users provide any information directly to parties other than MyIndiaCafe (CentauriVision), different rules may apply to the use or disclosure of the personal information disclosed. We encourage you to investigate and ask questions before disclosing your personal information to third parties. </td></tr>
-<tr><td class="body">Please be aware that whenever members voluntarily disclose personal information online - e.g., message boards, file uploads, events, and classifieds - that information becomes public and can be collected and used by others. By posting personal information online in public forums, members may receive unsolicited messages from other parties.</td></tr>
-	</tbody></table>
-	</td></tr>
-</tbody></table>        </td>
-		<td width="5" class="white_right" align="left"><img src="themes/handshakes/gfx/spacer_white.gif" alt="" width="1" height="1" border="0"></td>
-	</tr>
-	<tr>
-		<td width="5" height="5"><img src="themes/handshakes/gfx/boxes/white_bottom_left.gif" alt="" width="5" height="5" border="0"></td>
-		<td height="5" width="100%" class="white_bottom"><img src="themes/handshakes/gfx/spacer_white.gif" alt="" width="1" height="1" border="0"></td>
-		<td width="5" height="5"><img src="themes/handshakes/gfx/boxes/white_bottom_right.gif" alt="" width="5" height="5" border="0"></td>
-	</tr>
-</tbody></table></td></tr></tbody></table></td></tr></tbody></table>        </td>
-        <td width="5"><img src="themes/handshakes/gfx/spacer_purple.gif" width="5" height="1" border="0"></td>
-        </tr>
-        <tr>
-                <td height="5" valign="top" colspan="3"><img src="themes/handshakes/gfx/spacer_purple.gif" width="1" height="5" border="0"></td>
-        </tr>
-</tbody></table>
-</td></tr>
-<tr><td class="footer">
-<a href="index.php?page=contact">Contact Us</a> | 
-<a href="index.php?page=terms">Terms and Conditions</a> | 
-<a href="index.php?page=privacy">Privacy Policy</a>
-</td></tr>
-<tr><td bgcolor="#797B9D" style="padding-bottom:5px;padding-right:5px;" align="center"><a href="http://www.centaurivision.com" target="_blank"><img src="themes/handshakes/gfx/dzoic.gif" alt="" width="204" height="31" border="0"></a></td></tr>
-<tr><td><table cellpadding="0" cellspacing="0" border="0" width="100%">
-        <tbody><tr><td background="themes/handshakes/gfx/boxes/ad_shadow_top.gif"><img src="themes/handshakes/gfx/spacer.gif" alt="" width="1" height="2" border="0"></td></tr>
-        <tr><td class="ad" align="center"><script type="text/javascript"><!--
-google_ad_client = "pub-8881961608786092";
-/* 468x60, created 2/8/09 */
-google_ad_slot = "4473158028";
-google_ad_width = 468;
-google_ad_height = 60;
+</script>
+</div>
+</div>
+<table cellpadding="0" cellspacing="0"><tbody><tr>
+<td colspan="2"> <div class="border">
+<div class="maintitle">Privacy Policy</div>
+<div class="main_content">
+<div style="padding:10px;">
+Our mission at&nbsp;MyIndiaCafe.com is to enrich the user experience by offering fast,  convenient access to the very best of the Web, including content, interaction  and commerce. To achieve this mission, we need to collect certain information to  understand how you differ from our other unique users. We basically collect this  information through registration. <p align="\&quot;\\\'\\\\\\&quot;left\\\\\\&quot;\\\'\&quot;">Registration </p><p align="\&quot;\\\'\\\\\\&quot;left\\\\\\&quot;\\\'\&quot;">You may provide us with certain information such as your name,  email address and postal addresses when registering for certain services such as  Chat, Email, Bulletin Boards and promotions. This information is used for  purposes such as personalization and verification. </p><p align="\&quot;\\\'\\\\\\&quot;left\\\\\\&quot;\\\'\&quot;">Use of Information </p><p align="\&quot;\\\'\\\\\\&quot;left\\\\\\&quot;\\\'\&quot;">Any information you provide to&nbsp;MyIndiaCafe.com is maintained and  accessible only by MyIndiaCafe.com and the Network of sites. MyIndiaCafe.com may  use this information to offer you notices regarding other MyIndiaCafe.com&nbsp; services and to further enhance your MyIndiaCafe.com experience. Information  submitted in connection with diaCMyIndiaCafe.com Email, Chat and Bulletin Boards is  shared with the providers of those services. These providers are not authorized  to use any shared information other than to send you notices regarding updates  to the services. We may use only the anonymous click stream data to help our  advertisers deliver better targeted advertisements. MyIndiaCafe.com will not  disclose any information about any individual user except to comply with  applicable law or valid legal process. </p>
+</div>
+<div class="clear"></div>
+</div>
+</div>
+</td>
+<td id="nav" style="max-width:320px;">
+<table cellpadding="0" cellspacing="0" border="0" width="320">
+<tbody><tr>
+  <td>
+  
+  
+<div class="border">
+<div class="header">Sponsored Ads</div>
+<div class="main_content">
+<div align="center">
+<script type="text/javascript"><!--
+google_ad_client = "ca-pub-8881961608786092";
+/* DuniyaCafe.com-Right Nav Area Top Ad 300x250 */
+google_ad_slot = "9793509258";
+google_ad_width = 300;
+google_ad_height = 250;
 //-->
 </script>
 <script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
-</script></td></tr>
-</tbody></table></td></tr>
-</tbody></table>
-</td><td width="9" background="themes/handshakes/gfx/page_shadow_right.gif"><img src="themes/handshakes/gfx/spacer.gif" alt="" width="1" height="1" border="0"></td>
+</script>
+</div>
+</div>
+</div>
+<div class="border">
+<div class="header"><span class="cat"><a href="http://myindiacafe.com/friends/">View All</a></span>Our Friends</div>
+<div class="main_content">
+<div class="error"><b>No</b> links available at this time.</div>
+</div>
+</div>
+<div class="border">
+<div class="maintitle">Popular Tags</div>
+<div class="main_content">
+<div align="center"><div class="tagcloud"><a href="http://myindiacafe.com/tag//" style="font-size: 11.3272025316px;" class="earliest" title=""></a>&nbsp;
+<a href="http://myindiacafe.com/tag/cheap/" style="font-size: 10px;" class="earliest" title="Cheap">Cheap</a>&nbsp;
+<a href="http://myindiacafe.com/tag/jordan/" style="font-size: 10px;" class="earliest" title="Jordan">Jordan</a>&nbsp;
+<a href="http://myindiacafe.com/tag/nike/" style="font-size: 10px;" class="earliest" title="Nike">Nike</a>&nbsp;
+<a href="http://myindiacafe.com/tag/rk/" style="font-size: 10px;" class="earliest" title="RK">RK</a>&nbsp;
+<a href="http://myindiacafe.com/tag/shoes/" style="font-size: 10px;" class="earliest" title="Shoes">Shoes</a>&nbsp;
+<a href="http://myindiacafe.com/tag/amba/" style="font-size: 10.6636012658px;" class="earliest" title="amba">amba</a>&nbsp;
+<a href="http://myindiacafe.com/tag/andaz/" style="font-size: 10px;" class="earliest" title="andaz">andaz</a>&nbsp;
+<a href="http://myindiacafe.com/tag/animation/" style="font-size: 11.3272025316px;" class="earliest" title="animation">animation</a>&nbsp;
+<a href="http://myindiacafe.com/tag/application/" style="font-size: 10px;" class="latest" title="application">application</a>&nbsp;
+<a href="http://myindiacafe.com/tag/ar1400/" style="font-size: 10px;" class="earlier" title="ar1400">ar1400</a>&nbsp;
+<a href="http://myindiacafe.com/tag/armani/" style="font-size: 10px;" class="earlier" title="armani">armani</a>&nbsp;
+<a href="http://myindiacafe.com/tag/arun/" style="font-size: 10.6636012658px;" class="earliest" title="arun">arun</a>&nbsp;
+<a href="http://myindiacafe.com/tag/badla/" style="font-size: 10px;" class="earliest" title="badla">badla</a>&nbsp;
+<a href="http://myindiacafe.com/tag/baicha/" style="font-size: 10.6636012658px;" class="earliest" title="baicha">baicha</a>&nbsp;
+<a href="http://myindiacafe.com/tag/bana/" style="font-size: 10px;" class="earliest" title="bana">bana</a>&nbsp;
+<a href="http://myindiacafe.com/tag/bhatuklichya/" style="font-size: 10px;" class="earliest" title="bhatuklichya">bhatuklichya</a>&nbsp;
+<a href="http://myindiacafe.com/tag/bhavgeet/" style="font-size: 10px;" class="earliest" title="bhavgeet">bhavgeet</a>&nbsp;
+<a href="http://myindiacafe.com/tag/bhosale/" style="font-size: 10px;" class="earliest" title="bhosale">bhosale</a>&nbsp;
+<a href="http://myindiacafe.com/tag/birth/" style="font-size: 10px;" class="earliest" title="birth">birth</a>&nbsp;
+<a href="http://myindiacafe.com/tag/bolo/" style="font-size: 10.6636012658px;" class="earliest" title="bolo">bolo</a>&nbsp;
+<a href="http://myindiacafe.com/tag/boltoy/" style="font-size: 10px;" class="earliest" title="boltoy">boltoy</a>&nbsp;
+<a href="http://myindiacafe.com/tag/career/" style="font-size: 10px;" class="earliest" title="career">career</a>&nbsp;
+<a href="http://myindiacafe.com/tag/chandrakant/" style="font-size: 10px;" class="earliest" title="chandrakant">chandrakant</a>&nbsp;
+<a href="http://myindiacafe.com/tag/chatrapati/" style="font-size: 10px;" class="earliest" title="chatrapati">chatrapati</a>&nbsp;
+<a href="http://myindiacafe.com/tag/chuda/" style="font-size: 10px;" class="earliest" title="chuda">chuda</a>&nbsp;
+<a href="http://myindiacafe.com/tag/classic/" style="font-size: 11.9908037974px;" class="earliest" title="classic">classic</a>&nbsp;
+<a href="http://myindiacafe.com/tag/date/" style="font-size: 10px;" class="earliest" title="date">date</a>&nbsp;
+<a href="http://myindiacafe.com/tag/deshpande/" style="font-size: 10.6636012658px;" class="earliest" title="deshpande">deshpande</a>&nbsp;
+<a href="http://myindiacafe.com/tag/design/" style="font-size: 10px;" class="latest" title="design">design</a>&nbsp;
+<a href="http://myindiacafe.com/tag/development/" style="font-size: 10px;" class="latest" title="development">development</a>&nbsp;
+<a href="http://myindiacafe.com/tag/dhanajee/" style="font-size: 10px;" class="earliest" title="dhanajee">dhanajee</a>&nbsp;
+<a href="http://myindiacafe.com/tag/dhanya/" style="font-size: 10px;" class="earliest" title="dhanya">dhanya</a>&nbsp;
+<a href="http://myindiacafe.com/tag/drape/" style="font-size: 10px;" class="earliest" title="drape">drape</a>&nbsp;
+<a href="http://myindiacafe.com/tag/exhaustive/" style="font-size: 10px;" class="earliest" title="exhaustive">exhaustive</a>&nbsp;
+<a href="http://myindiacafe.com/tag/film/" style="font-size: 17.2996139237px;" class="earliest" title="film">film</a>&nbsp;
+<a href="http://myindiacafe.com/tag/gadad/" style="font-size: 10px;" class="earliest" title="gadad">gadad</a>&nbsp;
+<a href="http://myindiacafe.com/tag/gadre/" style="font-size: 10px;" class="earliest" title="gadre">gadre</a>&nbsp;
+<a href="http://myindiacafe.com/tag/gale/" style="font-size: 10px;" class="earliest" title="gale">gale</a>&nbsp;
+<a href="http://myindiacafe.com/tag/ganara/" style="font-size: 10px;" class="earliest" title="ganara">ganara</a>&nbsp;
+<a href="http://myindiacafe.com/tag/gaya/" style="font-size: 10px;" class="earliest" title="gaya">gaya</a>&nbsp;
+<a href="http://myindiacafe.com/tag/gumnaam/" style="font-size: 10px;" class="earliest" title="gumnaam">gumnaam</a>&nbsp;
+<a href="http://myindiacafe.com/tag/haati/" style="font-size: 10px;" class="earliest" title="haati">haati</a>&nbsp;
+<a href="http://myindiacafe.com/tag/hirva/" style="font-size: 10px;" class="earliest" title="hirva">hirva</a>&nbsp;
+<a href="http://myindiacafe.com/tag/hota/" style="font-size: 10.6636012658px;" class="earliest" title="hota">hota</a>&nbsp;
+<a href="http://myindiacafe.com/tag/instrumental/" style="font-size: 11.3272025316px;" class="earliest" title="instrumental">instrumental</a>&nbsp;
+<a href="http://myindiacafe.com/tag/interview/" style="font-size: 11.3272025316px;" class="earliest" title="interview">interview</a>&nbsp;
+<a href="http://myindiacafe.com/tag/jhal/" style="font-size: 10px;" class="earliest" title="jhal">jhal</a>&nbsp;
+<a href="http://myindiacafe.com/tag/jogwa/" style="font-size: 11.9908037974px;" class="earliest" title="jogwa">jogwa</a>&nbsp;
+<a href="http://myindiacafe.com/tag/kalyanpur/" style="font-size: 10.6636012658px;" class="earliest" title="kalyanpur">kalyanpur</a>&nbsp;
+<a href="http://myindiacafe.com/tag/khela/" style="font-size: 10px;" class="earliest" title="khela">khela</a>&nbsp;
+<a href="http://myindiacafe.com/tag/lata/" style="font-size: 12.6544050632px;" class="earliest" title="lata">lata</a>&nbsp;
+<a href="http://myindiacafe.com/tag/mach/" style="font-size: 10px;" class="earliest" title="mach">mach</a>&nbsp;
+<a href="http://myindiacafe.com/tag/madhale/" style="font-size: 10px;" class="earliest" title="madhale">madhale</a>&nbsp;
+<a href="http://myindiacafe.com/tag/maharaj/" style="font-size: 10px;" class="earliest" title="maharaj">maharaj</a>&nbsp;
+<a href="http://myindiacafe.com/tag/mahesh/" style="font-size: 10.6636012658px;" class="earliest" title="mahesh">mahesh</a>&nbsp;
+<a href="http://myindiacafe.com/tag/maifilit/" style="font-size: 10px;" class="earliest" title="maifilit">maifilit</a>&nbsp;
+<a href="http://myindiacafe.com/tag/majhya/" style="font-size: 10.6636012658px;" class="earliest" title="majhya">majhya</a>&nbsp;
+<a href="http://myindiacafe.com/tag/mama/" style="font-size: 10px;" class="earliest" title="mama">mama</a>&nbsp;
+<a href="http://myindiacafe.com/tag/mangeshkar/" style="font-size: 11.9908037974px;" class="earliest" title="mangeshkar">mangeshkar</a>&nbsp;
+<a href="http://myindiacafe.com/tag/manjrekar/" style="font-size: 10.6636012658px;" class="earliest" title="manjrekar">manjrekar</a>&nbsp;
+<a href="http://myindiacafe.com/tag/marathi/" style="font-size: 20.6176202527px;" class="earliest" title="marathi">marathi</a>&nbsp;
+<a href="http://myindiacafe.com/tag/men/" style="font-size: 10px;" class="earlier" title="men">men</a>&nbsp;
+<a href="http://myindiacafe.com/tag/mokala/" style="font-size: 10px;" class="earliest" title="mokala">mokala</a>&nbsp;
+<a href="http://myindiacafe.com/tag/movie/" style="font-size: 27.9172341764px;" class="earliest" title="movie">movie</a>&nbsp;
+<a href="http://myindiacafe.com/tag/mrunmayee/" style="font-size: 10px;" class="earliest" title="mrunmayee">mrunmayee</a>&nbsp;
+<a href="http://myindiacafe.com/tag/narrating/" style="font-size: 10px;" class="earliest" title="narrating">narrating</a>&nbsp;
+<a href="http://myindiacafe.com/tag/neha/" style="font-size: 10px;" class="earliest" title="neha">neha</a>&nbsp;
+<a href="http://myindiacafe.com/tag/panse/" style="font-size: 10px;" class="earliest" title="panse">panse</a>&nbsp;
+<a href="http://myindiacafe.com/tag/paus/" style="font-size: 10px;" class="earliest" title="paus">paus</a>&nbsp;
+<a href="http://myindiacafe.com/tag/pipe/" style="font-size: 10px;" class="earliest" title="pipe">pipe</a>&nbsp;
+<a href="http://myindiacafe.com/tag/prabhakar/" style="font-size: 10px;" class="earliest" title="prabhakar">prabhakar</a>&nbsp;
+<a href="http://myindiacafe.com/tag/raat/" style="font-size: 10.6636012658px;" class="earliest" title="raat">raat</a>&nbsp;
+<a href="http://myindiacafe.com/tag/rafi/" style="font-size: 11.3272025316px;" class="earliest" title="rafi">rafi</a>&nbsp;
+<a href="http://myindiacafe.com/tag/raje/" style="font-size: 10px;" class="earliest" title="raje">raje</a>&nbsp;
+<a href="http://myindiacafe.com/tag/ratri/" style="font-size: 10px;" class="earliest" title="ratri">ratri</a>&nbsp;
+<a href="http://myindiacafe.com/tag/review/" style="font-size: 11.3272025316px;" class="earliest" title="review">review</a>&nbsp;
+<a href="http://myindiacafe.com/tag/romantic/" style="font-size: 13.9816075947px;" class="earliest" title="romantic">romantic</a>&nbsp;
+<a href="http://myindiacafe.com/tag/samrajya/" style="font-size: 10px;" class="earliest" title="samrajya">samrajya</a>&nbsp;
+<a href="http://myindiacafe.com/tag/santajee/" style="font-size: 10px;" class="earliest" title="santajee">santajee</a>&nbsp;
+<a href="http://myindiacafe.com/tag/services/" style="font-size: 10px;" class="latest" title="services">services</a>&nbsp;
+<a href="http://myindiacafe.com/tag/servicesmobile/" style="font-size: 10px;" class="latest" title="servicesmobile">servicesmobile</a>&nbsp;
+<a href="http://myindiacafe.com/tag/servicesseo/" style="font-size: 10px;" class="latest" title="servicesseo">servicesseo</a>&nbsp;
+<a href="http://myindiacafe.com/tag/servicessoftware/" style="font-size: 10px;" class="latest" title="servicessoftware">servicessoftware</a>&nbsp;
+<a href="http://myindiacafe.com/tag/servicesweb/" style="font-size: 10px;" class="latest" title="servicesweb">servicesweb</a>&nbsp;
+<a href="http://myindiacafe.com/tag/shatrughan/" style="font-size: 10px;" class="earliest" title="shatrughan">shatrughan</a>&nbsp;
+<a href="http://myindiacafe.com/tag/shivaji/" style="font-size: 11.3272025316px;" class="earliest" title="shivaji">shivaji</a>&nbsp;
+<a href="http://myindiacafe.com/tag/shivajiraje/" style="font-size: 10px;" class="earliest" title="shivajiraje">shivajiraje</a>&nbsp;
+<a href="http://myindiacafe.com/tag/shor/" style="font-size: 10px;" class="earliest" title="shor">shor</a>&nbsp;
+<a href="http://myindiacafe.com/tag/shwaas/" style="font-size: 10px;" class="earliest" title="shwaas">shwaas</a>&nbsp;
+<a href="http://myindiacafe.com/tag/singing/" style="font-size: 11.3272025316px;" class="earliest" title="singing">singing</a>&nbsp;
+<a href="http://myindiacafe.com/tag/sinha/" style="font-size: 10px;" class="earliest" title="sinha">sinha</a>&nbsp;
+<a href="http://myindiacafe.com/tag/suman/" style="font-size: 10.6636012658px;" class="earliest" title="suman">suman</a>&nbsp;
+<a href="http://myindiacafe.com/tag/sunya/" style="font-size: 10px;" class="earliest" title="sunya">sunya</a>&nbsp;
+<a href="http://myindiacafe.com/tag/suryakant/" style="font-size: 10px;" class="earliest" title="suryakant">suryakant</a>&nbsp;
+<a href="http://myindiacafe.com/tag/vhayolin/" style="font-size: 10px;" class="earliest" title="vhayolin">vhayolin</a>&nbsp;
+<a href="http://myindiacafe.com/tag/waqt/" style="font-size: 10px;" class="earliest" title="waqt">waqt</a>&nbsp;
+<a href="http://myindiacafe.com/tag/watch/" style="font-size: 10px;" class="earlier" title="watch">watch</a>&nbsp;
+<a href="http://myindiacafe.com/tag/web/" style="font-size: 10px;" class="latest" title="web">web</a>&nbsp;
+<a href="http://myindiacafe.com/tag/wedding/" style="font-size: 11.3272025316px;" class="earliest" title="wedding">wedding</a>&nbsp;
+</div>
+</div>
+</div>
+</div>
+<div class="border">
+<div class="header">Sponsored Ads</div>
+<div class="main_content">
+<div align="center">
+<script type="text/javascript"><!--
+google_ad_client = "ca-pub-8881961608786092";
+/* DuniyaCafe.com-Right Nav Area Top Ad 300x250 */
+google_ad_slot = "9793509258";
+google_ad_width = 300;
+google_ad_height = 250;
+//-->
+</script>
+<script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script>
+</div>
+</div>
+</div>
+</td>
+</tr>
+</tbody></table><!-- End content -->
+</td>
 </tr></tbody></table>
-<div id="sbdropdown" onmouseover="sbStopTimer()" onmouseout="sbHide()">
-<div class="sbitem" onclick="window.external.AddFavorite('http://myindiacafe.com/index.php?page=privacy','MYINDIACAFE.COM - INDIAS FREE SOCIAL NETWORKING &amp; DATING SITE - INDIAN MUSIC, INDIAN VIDEOS, BOLLYWOOD, KERALA DATING, MALAYALAY, MUMBAI CAFE, INDIA CHAT, KERALA CHAT Privacy')" onmouseover="this.className='sbitemhighlight'" onmouseout="this.className='sbitem'"><img src="http://myindiacafe.com/includes/sbicons/star.png" alt="" style="vertical-align:middle;"> Favorites</div>
-<div class="sbitem" onclick="sbBookmark('http://www.google.com/bookmarks/mark?op=edit&amp;bkmk=http%3A%2F%2Fmyindiacafe.com%2Findex.php%3Fpage%3Dprivacy&amp;title=MYINDIACAFE.COM+-+INDIAS+FREE+SOCIAL+NETWORKING+%26+DATING+SITE+-+INDIAN+MUSIC%2C+INDIAN+VIDEOS%2C+BOLLYWOOD%2C+KERALA+DATING%2C+MALAYALAY%2C+MUMBAI+CAFE%2C+INDIA+CHAT%2C+KERALA+CHAT+Privacy',1)" onmouseover="this.className='sbitemhighlight'" onmouseout="this.className='sbitem'"><img src="http://myindiacafe.com/includes/sbicons/google.gif" alt="" style="vertical-align:middle;"> Google</div>
-<div class="sbitem" onclick="sbBookmark('http://myweb2.search.yahoo.com/myresults/bookmarklet?t=MYINDIACAFE.COM+-+INDIAS+FREE+SOCIAL+NETWORKING+%26+DATING+SITE+-+INDIAN+MUSIC%2C+INDIAN+VIDEOS%2C+BOLLYWOOD%2C+KERALA+DATING%2C+MALAYALAY%2C+MUMBAI+CAFE%2C+INDIA+CHAT%2C+KERALA+CHAT+Privacy&amp;u=http%3A%2F%2Fmyindiacafe.com%2Findex.php%3Fpage%3Dprivacy',1)" onmouseover="this.className='sbitemhighlight'" onmouseout="this.className='sbitem'"><img src="http://myindiacafe.com/includes/sbicons/yahoo.png" alt="" style="vertical-align:middle;"> Yahoo</div>
-<div class="sbitem" onclick="sbBookmark('Http://www.KeralaCafe.com',1)" onmouseover="this.className='sbitemhighlight'" onmouseout="this.className='sbitem'"><img src="http://myindiacafe.com/includes/sbicons/74cb3da862.gif" alt="" style="vertical-align:middle;"> KeralaCafe.com</div>
-<div class="sbitem" onclick="sbBookmark('http://www.WorldVoiceCafe.com',1)" onmouseover="this.className='sbitemhighlight'" onmouseout="this.className='sbitem'"><img src="http://myindiacafe.com/includes/sbicons/bccf7c00c4.gif" alt="" style="vertical-align:middle;"> WorldVoiceCafe.com</div>
+<div id="banner_728_base">
+<div align="center">
+<script type="text/javascript"><!--
+google_ad_client = "ca-pub-8881961608786092";
+/* DuniyaCafe.com - Footer Area Ad 728x90 */
+google_ad_slot = "8316776053";
+google_ad_width = 728;
+google_ad_height = 90;
+//-->
+</script>
+<script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script>
+</div>
+</div>
+</div>
+</div>
+</div>
+
+<div id="footer_wrapper">
+<table cellpadding="0" cellspacing="0" id="footer_col"><tbody><tr>
+<td>
+    <img style="vertical-align:middle;" src="http://myindiacafe.com/templates/frontend/dark_knight/images/arrow.gif" alt=""> <a href="http://myindiacafe.com" title="Homepage">Homepage</a><br>
+    <img style="vertical-align:middle;" src="http://myindiacafe.com/templates/frontend/dark_knight/images/arrow.gif" alt=""> <a href="http://myindiacafe.com/channels/" title="Video Categories">Video Categories</a><br>
+    <img style="vertical-align:middle;" src="http://myindiacafe.com/templates/frontend/dark_knight/images/arrow.gif" alt=""> <a href="http://myindiacafe.com/playlists/" title="Video Playlists">Video Playlists</a><br>
+    <img style="vertical-align:middle;" src="http://myindiacafe.com/templates/frontend/dark_knight/images/arrow.gif" alt=""> <a href="http://myindiacafe.com/blog_posts/" title="Our Blog">Latest Blog Posts</a><br>
+    <img style="vertical-align:middle;" src="http://myindiacafe.com/templates/frontend/dark_knight/images/arrow.gif" alt=""> <a href="http://myindiacafe.com/pages/" title="Our Resources">Page Resources</a><br>
+        <img style="vertical-align:middle;" src="http://myindiacafe.com/templates/frontend/dark_knight/images/arrow.gif" alt=""> <a href="http://myindiacafe.com/bookmarks/" title="Latest Bookmarks">Latest Bookmarks</a>
+</td>
+<td>
+    <img style="vertical-align:middle;" src="http://myindiacafe.com/templates/frontend/dark_knight/images/arrow.gif" alt=""> <a href="http://myindiacafe.com/articles/" title="Our Articles">Latest Articles</a><br>
+    <img style="vertical-align:middle;" src="http://myindiacafe.com/templates/frontend/dark_knight/images/arrow.gif" alt=""> <a href="http://myindiacafe.com/syndicates/" title="RSS &amp; XML Feeds">RSS &amp; XML Feeds</a><br>
+    <img style="vertical-align:middle;" src="http://myindiacafe.com/templates/frontend/dark_knight/images/arrow.gif" alt=""> <a href="http://myindiacafe.com/sitemap.xml" title="SiteMap">Google SiteMap</a><br>
+   <img style="vertical-align:middle;" src="http://myindiacafe.com/templates/frontend/dark_knight/images/arrow.gif" alt=""> <a href="http://myindiacafe.com/videoxml.xml" title="Video SiteMap">Video SiteMap</a><br>
+   <img style="vertical-align:middle;" src="http://myindiacafe.com/templates/frontend/dark_knight/images/arrow.gif" alt=""> <a href="http://myindiacafe.com/rss/" title="RSS Video Feeds">RSS Video Feeds</a><br>
+   <img style="vertical-align:middle;" src="http://myindiacafe.com/templates/frontend/dark_knight/images/arrow.gif" alt=""> <a href="http://myindiacafe.com/feeds/" title="Our RSS Directory">Our RSS Directory</a> 
+</td>
+<td>
+    <img style="vertical-align:middle;" src="http://myindiacafe.com/templates/frontend/dark_knight/images/arrow.gif" alt=""> <a href="http://myindiacafe.com/twitter/" title="Latest From Twitter">View Latest Tweets</a><br>
+    <img style="vertical-align:middle;" src="http://myindiacafe.com/templates/frontend/dark_knight/images/arrow.gif" alt=""> <a href="http://myindiacafe.com/members/" title="Our Members">View Members</a><br>
+    <img style="vertical-align:middle;" src="http://myindiacafe.com/templates/frontend/dark_knight/images/arrow.gif" alt=""> <a href="http://myindiacafe.com/login/" title="Members Login">Members Login</a><br>
+    <img style="vertical-align:middle;" src="http://myindiacafe.com/templates/frontend/dark_knight/images/arrow.gif" alt=""> <a href="http://myindiacafe.com/register/" title="New Users Register">New Registration</a><br>
+    <img style="vertical-align:middle;" src="http://myindiacafe.com/templates/frontend/dark_knight/images/arrow.gif" alt=""> <a href="http://myindiacafe.com/contact/" title="Contact Us">Contact Support</a><br>
+   <img style="vertical-align:middle;" src="http://myindiacafe.com/templates/frontend/dark_knight/images/arrow.gif" alt=""> <a href="http://myindiacafe.com/friends/" title="Link Partners">Link Partners</a>
+</td>
+<td class="end">
+      <img style="vertical-align:middle;" src="http://myindiacafe.com/templates/frontend/dark_knight/images/arrow.gif" alt=""> <a href="http://myindiacafe.com/static/2/privacy-policy.html" title="Privacy Policy">Privacy Policy</a>
+   <br>
+      <img style="vertical-align:middle;" src="http://myindiacafe.com/templates/frontend/dark_knight/images/arrow.gif" alt=""> <a href="http://myindiacafe.com/static/3/dmca.html" title="DMCA">DMCA</a>
+   <br>
+      <img style="vertical-align:middle;" src="http://myindiacafe.com/templates/frontend/dark_knight/images/arrow.gif" alt=""> <a href="http://myindiacafe.com/static/4/2257.html" title="2257">2257</a>
+   <br>
+      <img style="vertical-align:middle;" src="http://myindiacafe.com/templates/frontend/dark_knight/images/arrow.gif" alt=""> <a href="http://myindiacafe.com/static/5/webmasters.html" title="Webmasters">Webmasters</a>
+   <br>
+      <img style="vertical-align:middle;" src="http://myindiacafe.com/templates/frontend/dark_knight/images/arrow.gif" alt=""> <a href="http://myindiacafe.com/static/6/advertise.html" title="Advertise">Advertise</a>
+   <br>
+      <img style="vertical-align:middle;" src="http://myindiacafe.com/templates/frontend/dark_knight/images/arrow.gif" alt=""> <a href="http://myindiacafe.com/static/7/terms-and-conditions.html" title="Terms and Conditions">Terms and Conditions</a>
+   <br>
+   </td>
+</tr>
+</tbody></table>
+</div>
+<div id="copyright">
+<div class="fleft">Copyright © 2013 <a href="http://myindiacafe.com/">MyIndiaCafe.com</a> All Rights Reserved.</div>
+<div class="fright"></div>
 </div>
 
 </body></html>
