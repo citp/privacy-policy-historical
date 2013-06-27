@@ -1,15 +1,6 @@
-> *The following text is extracted and transformed from the inspiremetoday.com privacy policy that was archived on 2012-10-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121010133216id_/http%3A//www.inspiremetoday.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the inspiremetoday.com privacy policy that was archived on 2013-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130627190957id_/http%3A//www.inspiremetoday.com/privacy) for the most accurate reproduction.*
 
 # Inspire Me Today - Daily Inspiration, Interviews, and More!
-
-[](http://www.inspiremetoday.com/interviews.php) [Enjoy our Featured Weekly Interview or choose one from hundreds in the archives! It's FREE!](http://www.inspiremetoday.com/interviews.php)
-
-  
-
-
-|   | 
-
-## Privacy Policy
 
 * * *
 
@@ -136,47 +127,3 @@ Changes and updates to this Privacy Notice
 This Privacy Notice may be revised periodically and this will be reflected by the "effective date” above. Please revisit this page to stay aware of any changes. In general, we only use your personal information in the manner described in the Privacy Notice in effect when we received the personal information you provided. Your continued use of the IMT Sites constitutes your agreement to this Privacy Notice and any future revisions.
 
 For revisions to this Privacy Notice that may be materially less restrictive on our use or disclosure of the personal information you have already provided to us, we will attempt to obtain your consent before implementing such revisions with respect to such information.
-
-|   | 
-
-[](http://www.inspiremetoday.com/courses)
-
-  
-
-
-#### [](http://www.inspiremetoday.com/blog/feed "Subscribe to the Blog by RSS") [Recent Blog Posts](http://www.inspiremetoday.com/blog/)
-
-* * *
-
-[Your Gift to the World](https://web.archive.org/blog/?p=5378)  
-  
-October 8, 2012  
-By Thomas McGreevy. Someone very close to me started a business recently and it gave me the opportunity to witness a ...
-
-[Read More](https://web.archive.org/blog/?p=5378 "Permalink to Your Gift to the World")  
-
-[Harvesting Happiness: I Want... I Wish ](https://web.archive.org/blog/?p=5315)  
-  
-October 5, 2012  
-By Lisa Cypers Kamen. I want, I wish, only if... are some of the phrases we use to describe an ambiguous point in our...
-
-[Read More](https://web.archive.org/blog/?p=5315 "Permalink to Harvesting Happiness: I Want... I Wish ")  
-
-[Jill's Inspirational Weight Loss](https://web.archive.org/blog/?p=5341)  
-  
-October 2, 2012  
-By Kathi Casey. Today, when I was pondering my daily gratitudes, I began thinking about synchronistic events and ...
-
-[Read More](https://web.archive.org/blog/?p=5341 "Permalink to Jill's Inspirational Weight Loss")  
-
-[Harvesting Happiness: Focus on Being Positive](https://web.archive.org/blog/?p=5295)  
-  
-September 28, 2012  
-By Lisa Cypers Kamen. Focus on being positive. Stop yourself from saying things like "I'll never finish this project"...
-
-[Read More](https://web.archive.org/blog/?p=5295 "Permalink to Harvesting Happiness: Focus on Being Positive")  
-
-  
-  
-  
----|---|---|---|---
