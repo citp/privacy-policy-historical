@@ -1,77 +1,133 @@
-> *The following text is extracted and transformed from the skitch.com privacy policy that was archived on 2012-09-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120919071008id_/http%3A//www.skitch.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the skitch.com privacy policy that was archived on 2013-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130627035734id_/https%3A//evernote.com/legal/privacy.php) for the most accurate reproduction.*
 
-# privacy policy | skitch.com
+# Privacy Policy | Evernote
 
-**SKITCH, INC.**
+**Effective Date: March 1, 2013** \- [What’s new »](https://web.archive.org/legal/changes.php#a-pp)
 
-**PRIVACY POLICY**
+Evernote values your privacy in your personal information and your Content that you store in our Service. This Privacy Policy explains what information Evernote collects about you and why, what we may do with that information and how we handle your Content.
 
-**Last updated: November 3, 2010** **  
-**
+## What Is The Scope Of This Privacy Policy?
 
-Thank you for your interest in Skitch, Inc. (“Skitch”) and our website located at http://skitch.com (the “Website”).  Your use of the Skitch service, through our software and the Website is subject to this Privacy Policy.  Such service, the software and Website are collectively referred to in this Privacy Policy as the “Service.”  We are pleased to provide this privacy policy to inform you of our practices with respect to how we collect and use personally identifiable information in connection with your use of the Service.
+This Privacy Policy is incorporated into the Evernote Terms of Service, and applies to the information obtained by us through your use of this website, the Service and other Evernote products and services. Capitalized terms used in this Privacy Policy and not otherwise defined shall have the meanings provided for those terms in the Terms of Service.
 
-**Information We Collect** **  
-**
+## Will This Privacy Policy Ever Change?
 
-The data that we regularly collect about visitors to the Website (e.g., IP address, browser type, pages accessed, duration of visit, etc.) does not necessarily enable us to personally identify you, and that is not our intention.  We do collect personally identifiable information about you, such as your name, when you voluntarily provide it by registering with us or using the Service.  Once you become a user, you may provide additional information in your profile section.  Providing additional information is optional. To facilitate your use of the Service, Skitch may automatically collect certain types of information when you access or use the Service.  In order to collect this data, Skitch may utilize automated tools and files such as “cookies.”  These automated tools and files may reside on our servers or on your computer or device.  If you restrict our ability to use automated tools and files, your ability to access and use all or part of the Service may be limited or disabled completely.
+As Evernote evolves, we may need to update this Policy to keep pace with changes in the Service and laws applicable to us and you; we will, however, always maintain our commitment to respect your privacy.
 
-**Use of Information**
+We will post any revisions to this Policy, along with their effective date, in an easy to find area of our web site, so we recommend that you periodically check back here to stay informed of any changes. We will ask for your consent to such changes if required by applicable law; in other cases, please note that your continuation of your Evernote Service account after any change means that you agree with, and consent to be bound by, the new Privacy Policy. If you disagree with any changes in this Policy and do not wish your information to be subject to the revised Policy, you will need to close your account before the new Policy becomes effective.
 
-Skitch uses your personally identifiable information primarily to provide you with the Service and to provide customized content on the Service that is of interest to you.  The information is also used to verify your authority to access the Service and to contact you when reasonably necessary.  Skitch may also use any information you have provided as reasonably necessary to administer or provide customer support for the Service, and to provide you with periodic printed or e-mail communications about new products and services, discounts, special promotions or upcoming events.  You may opt-out of receiving some or all non-Service related communications by updating your profile on the Service.  Also, your full name and email address may be used when you use the Website to send a message to another user. Additionally, we use your email address to contact you on behalf of other friends on the site (such as when another user sends you a message).
+## I. Information Collection and Use
 
-**Controlling Your Personal Information**
+### What Information Does Evernote Collect About Me and Why?
 
-Skitch may make available to users chat rooms, forums, message boards, and other interactive features.  You should be aware that when you voluntarily disclose personally identifiable information (e.g. user name, e-mail address) via forums, postings, profiles or other areas of the Website, that information, along with any substantive information disclosed in your communication, can be collected, correlated and used by third parties and may result in unsolicited messages from other posters or third parties. Such activities are beyond the control of Skitch. Please do not post any personal information on the Website or in other areas that you expect to keep private.
+We collect very little personal information about our users, especially users of our free service. A list of the “Personal Information” Evernote may collect, and why we collect it, follows:
 
-**Disclosure**
+  * Your username, email address, and contact preferences. This lets us create your account, provide you with convenient and personalized access to your account, and deliver and support the Service. This information also helps us communicate with you about your use of the Service, product announcements and software updates, as well as respond to your requests for assistance (including providing account verification support if you’re having difficultly accessing your account). In addition, we may use your Personal Information to send you marketing emails and special offers about the Service. For more information, please see the section below entitled, “Will Evernote Send Me Emails?”
+  * For Premium users, transactional information such as your credit card number and billing address or your PayPal or Google Wallet account information. This lets us process your payments for Premium services.
+  * The geographic area where you use your computer and mobile devices (as indicated by an IP address or similar identifier), and the language you select when interacting with the Evernote service. We collect this information in order to help us deliver and support the Service, including by localizing your Evernote experience. It also helps us improve our understanding of how our users use the Service.
+  * The Evernote products and services you use. This information helps us deliver and support the Service and respond to your requests for assistance. We also collect this information to improve our understanding of how our users use the Service.
+  * Any Content you add to your account. We don’t use this information for any purpose other than to make sure it is available to you when you use the Service.
 
-Skitch may disclose your personal information to third parties from time to time in our sole discretion.  For this reason you should not disclose information to Skitch that you do not want shared with third parties.  In addition to the forgoing, Skitch will disclose your personally identifiable information as it believes is reasonably necessary to comply with law, regulation or other governmental authority or to prevent harm to yourself or others.  Skitch may also contract with various third parties who help us provide and maintain the Service.  For example, we use a third party to process payments made to us, and may subcontract out production, fulfillment, or other operations. In these cases, we will use commercially reasonable efforts to prevent such third parties from disclosing your personal information, except for the purpose of providing the services in question.  Additionally, as part of the Service, Skitch will make your profile information available to other users of the Service.  Finally, Skitch may disclose your personally identifiable information upon a transfer or sale to another entity of all or substantially all of Skitch’s stock or assets in Skitch’s line of business to which this Privacy Policy relates or upon any bankruptcy or other corporate reorganization.
 
-**Links**
 
-For your convenience, we may provide links to certain third party websites or referrals to certain third parties’ products or services.  If you choose to visit a third party’s website or use its products or services, please be aware that the third party’s privacy policy, and not the Skitch privacy policy, will govern your activities and any information you disclose while interacting with the third party.
+Evernote’s web site and applications also collect and receive information from your computer or mobile device, including the activities you perform within your account, the type of hardware and software you are using (for example, your operating system or browser), and information obtained from cookies (see our [Cookie Information Page](https://web.archive.org/legal/cookies.php) for more information). When you access Evernote via an Evernote Software application, that application will request access to certain information on your computing device. For more information on these application permissions, please visit our [Data Usage page](https://web.archive.org/privacy/data_usage.php).
 
-**Security**
+Gathering this kind of information helps us administer the Service, provide convenient and personalized user access, improve the features and usability of our products and Service, analyze user trends and information about users’ use of our Service (including the extent to which our users share or make public notes and notebooks), collect information about use and growth of the Service in specific regions, and evaluate the content and organization of our site. We do NOT collect information about you to deliver any targeted advertising to you, or track your visits to any third-party websites. 
 
-Because any personally identifiable information you submit to Skitch is purely voluntary and should not be of a particularly sensitive nature, we employ our standard security measures with respect to this information and do not use special encryption methods at this time.  Skitch user accounts are secured by user-created passwords.  Please note that Skitch cannot guarantee the security of user account information.  Unauthorized entry or use, hardware or software failure, and other factors may compromise the security of user information at any time.
+In addition, we automatically gather non-personally identifiable information that indicates your association with one of our business partners or certain promotions. We use this information to determine the amount of revenue share payments to make to partners with whom we might have such arrangements and to provide anonymized aggregate reports.
 
-**Collection of Information From Children**
+### Tell Me More About The Tracking Information Evernote Collects?
 
-We do not knowingly collect personally identifiable information relating to children. In the event that we learn that we have collected personally identifiable information from anyone under 13 years of age without prior parental consent, we will take steps to promptly delete such information. By providing your personal information to Skitch, through the Website, you represent that you are 13 years of age or older.
+Evernote uses cookies and tracking pixels to collect information that helps us provide our Service to you. For more information about these uses and your options, please visit our [Cookie Information Page](https://web.archive.org/legal/cookies.php).
 
-**Policy Changes**
+### What Is Evernote’s Approach to Information Collected From Children?
 
-Skitch reserves the right to change this privacy policy, and will post any revisions on the Website.  We encourage you to review this Privacy Policy regularly for any changes.  Your continued use of the Website will be subject to the then-current privacy policy.
+Evernote complies with the US Children’s Online Privacy Protection Act (“COPPA”), which requires us to notify and obtain consent from a parent or guardian before we collect, use and disclose the personal information of children who are under 13 years of age. We do not knowingly collect personal information from children under 13 years of age without such consent, and if we learn that we have inadvertently done so, we will promptly delete it.
 
-**International Visitors and Customers**
+### Will Evernote Send Me Emails?
 
-The Website is hosted in the United States. If you are visiting from the European Union (EU) or other regions with laws governing data collection and use that may differ from U.S. law, please note that you are transferring your personal data to the United States which does not have the same data protection laws as the EU and by providing your personal data you consent to:
+From time to time, we may want to contact you with information about product announcements, software updates and special offers. We also may want to contact you with information about products and services from our business partners. You may opt out of such communications at any time by clicking the “unsubscribe” link found within Evernote email updates or by logging into your Evernote account via our web site at www.evernote.com and going to Settings > Personal Settings > Contact Preferences and changing your contact preferences.
 
-(1)        The use of your personal data for the purposes identified above in accordance with this Privacy Policy; and
+## II. Information Access and Disclosure
 
-(2)        The transfer of your personal data to the United States as indicated above.
+Does Evernote Share My Personal Information or Content? Evernote is not in the business of selling or renting user information, and we only disclose information when:
 
-**No Error-Free Performance**
+  * We have your explicit consent to share the information.
+  * We need to share your information with affiliated and unaffiliated service providers who process data on our behalf and subject to strict data protection requirements.
+  * We need to share your information with affiliated and unaffiliated service providers to fulfill your product or service requests.
+  * We believe it is necessary to investigate potential violations of our Terms of Service, to enforce those Terms of Service, or where we believe it is necessary to investigate, prevent or take action regarding illegal activities, suspected fraud or potential threats against persons, property or the systems on which we operate the Service.
+  * We determine that the access, preservation or disclosure of information is required or permitted by law to protect the rights, property or personal safety of Evernote and our users or is required to comply with applicable laws, including compliance with warrants, court orders or other legal process.
+  * We need to do so in connection with the sale or reorganization of all or part of our business, as permitted by applicable law.
 
-Skitch does not guarantee error-free performance under this Privacy Policy.  We may not always catch an unintended privacy issue, despite our efforts to do so.  Accordingly, we welcome your feedback regarding any privacy concerns that you may have, including how we can improve this Privacy Policy.  We will use reasonable efforts to comply with this Privacy Policy and will take prompt corrective action when we learn of any failure to comply with it.
 
-**Legal Notices**
 
-This Privacy Policy is subject to the terms in our Terms of Use, available for review at http://skitch.com/terms, including terms regarding limitations on damages, disclaimers of warranties, and resolution of disputes.  Our Terms of Use take precedence over any conflicting provision in this Privacy Policy. 
+Some applications that work with our Service may ask for permission to access your Content or other information about your account. Those applications will provide you with notice and request your consent in order to obtain such access or information. Please consider your selection of such applications, and your permissions, carefully. To learn more about some of these applications and what data they may access, click [here](https://web.archive.org/privacy/3rd_party_app_permissions.php).
 
-**Questions**
+### Does Evernote Review My Notes?
 
-If you have any questions about our privacy practices, please feel free to contact us at:
+As a rule, Evernote employees do not monitor or view your personal information or Content stored in the Service, but it may be viewed if we believe our Terms of Service have been violated and confirmation is required, if we need to do so in order to respond to your requests for user support, or we otherwise determine that we have an obligation to review it as described in our [Terms of Service](https://web.archive.org/legal/tos.php). Your Notes also may be viewed where necessary to protect the rights, property or personal safety of Evernote and its users, or in order to comply with our legal obligations, such as responding to warrants, court orders or other legal process.
 
-            Skitch, Inc.
+### Does Evernote Ever Make Any of My Personal Information or Content Public?
 
-            c/o Greenough Consulting Group
+No. Note, however, that certain portions of the Evernote web sites and Service, such as user notebooks designated as “public” and our user forum, are open to any online viewer. Any information that you post in these locations can be read, collected and used by anyone and could enable others to send you unsolicited messages. Evernote enables you to determine whether or not to post personal or otherwise sensitive information to publicly accessible areas of our site, so you should carefully consider how you use the services. Evernote is not responsible for any publication or use of any Personal Information you choose to post in these locations.
 
-            4 West Fourth Avenue, Suite 300
+## III. Data Storage and Transfer
 
-            San Mateo, CA 94402
+### Where Is My Data Stored?
 
-            USA
+When you use Evernote Software on your computing device, Content you save will be stored locally. When you synch your computing device with the Service, that Content will be replicated on our servers, which are located in the United States.
 
-Saving...
+Please be aware that Personal Information and Content submitted to Evernote will be transferred to a data center in the United States. If you post information to the Evernote sites you are confirming your consent to such information, including Personal Information and Content, being hosted and accessed in the United States.
+
+### How Can I Access or Correct Information Evernote Holds About Me?
+
+Users who wish to (i) access any Personal Information that we hold about you; (ii) request that we correct or delete the Personal Information that we hold about you; or (iii) request that we not use or stop using your Personal Information for marketing purposes may do so by contacting us at compliance AT evernote DOT com. We will comply with such requests to the extent permitted or required by law.
+
+### A Special Note to Users in Europe and Switzerland
+
+Evernote complies with the US-EU Safe Harbor Framework and US-Swiss Safe Harbor Framework as set forth by the US Department of Commerce regarding the collection, use and retention of personal information collected from users residing in the European Union and Switzerland. We have certified that we adhere to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access and enforcement. To learn more about the Safe Harbor program, and to view our certification page, please visit <http://www.export.gov/safeharbor/>
+
+### How Secure Is My Data?
+
+Evernote is committed to protecting the security of your information and takes reasonable precautions to protect it. However, Internet data transmissions, whether wired or wireless, cannot be guaranteed to be 100% secure, and as a result, we cannot ensure the security of information you transmit to us; accordingly, you acknowledge that you do so at your own risk. Once we receive your data transmission, we make all commercially reasonable efforts to ensure its security on our systems:
+
+  * Your Evernote password is protected by encryption, and only you have access to it.
+  * Your personal information and data stored in our systems is protected by various physical, electronic and procedural safeguards. It is housed in a secure facility, and Evernote restricts physical and network access to this facility to select trained staff. We regularly evaluate our technologies, facilities, procedures and potential risks to maintain the security and privacy of our users’ data.
+  * Certain Evernote services support the use of standard SSL encryption to protect data transmissions. However, this is not a guarantee that such data transmissions cannot be accessed, altered or deleted due to firewall or other security software failures.
+
+
+
+If Evernote learns of a security system breach, we may attempt to notify you and provide information on protective steps, if available, through the email address that you have provided to us or by posting a notice on our web site. Depending on where you live, you may have a legal right to receive such notices in writing.
+
+## IV. Information Deletion
+
+### What Happens If I Want to Stop Using Evernote?
+
+You can delete Content you have posted to any notebook at any time, and you can stop using Evernote at any time. If you delete information and material from a notebook and then sync your account, it will no longer be accessible to you or others who may access the Service, but residual copies of your deleted Content may continue to exist on Evernote’s back-up and archiving systems for up to one year due to the nature of those systems’ operations. If you cancel your account, the Content in your account will not be deleted unless you purposely delete that information, and sync your account before you cancel your account. [Learn how to effectively delete your Content here.](https://web.archive.org/privacy/delete_data.php)
+
+### What Happens If Evernote Closes My Account?
+
+If Evernote closes your account due to a Terms of Service violation, then you may contact Evernote to request deletion of your data, and Evernote will evaluate such requests on a case by case basis, pursuant to our legal obligations.
+
+## V. Contact Us
+
+### How Can I Contact Evernote?
+
+Evernote welcomes your feedback regarding this Privacy Policy. If you have questions, comments or concerns about this Policy, please contact us by email at compliance AT evernote DOT com or postal mail at:
+
+**Evernote Corporation**  
+305 Walnut Street  
+Redwood City, California 94063 USA  
+Attention: General Counsel
+
+**Evernote GmbH**  
+Josefstrasse 59  
+8005 Zurich, Switzerland  
+Attention: Legal Notice
+
+**Evernote Do Brasil Servicos De Aplicacoes Ltda**  
+Avenida Paulista, no 2.300  
+Andar Pilotis  
+Edifício São Luiz Gonzaga  
+CEP: 01310-300, São Paulo/SP  
+Attention: Legal Notice
