@@ -1,16 +1,14 @@
-> *The following text is extracted and transformed from the scmagazine.com privacy policy that was archived on 2012-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121106092244id_/http%3A//www.scmagazine.com/PrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the scmagazine.com privacy policy that was archived on 2013-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130627031316id_/http%3A//www.scmagazine.com/privacypolicy) for the most accurate reproduction.*
 
-# Privacy Policy - SC Magazine
+# IT Security News and Security Product Reviews - SC Magazine
 
-## Privacy Policy
-
-**Last updated: May 2012**
+**Last updated: June 2013**
 
 US Privacy Policy | International Privacy Policy
 
-## US Privacy Policy
+**US Privacy Policy**
 
-Haymarket Media Inc. ("Haymarket") has created this privacy statement to demonstrate our firm commitment to protect your privacy and to fully disclose what information we collect and how we use it. Please note your use of our Digital Offering is also governed by the Terms and Conditions of use. 
+Haymarket Media Inc.("Haymarket") has created this privacy statement to demonstrate our firm commitment to protect your privacy and to fully disclose what information we collect and how we use it. Please note your use of our Digital Offering is also governed by the Terms and Conditions of use. 
 
 **Information Collection and Dissemination**
 
@@ -27,7 +25,7 @@ Haymarket Media Inc. ("Haymarket") has created this privacy statement to demonst
 
 **Information Sharing**
 
-Unless you opt-out, we share your Personal Information with Haymarket's affiliates and partners and third parties licensed to access your Personal Information by any of the foregoing. To opt-out, send us an email to [Newslettersupport@haymarketmedia.com](mailto:Newslettersupport@haymarketmedia.com)
+Unless you opt-out, we share your Personal Information with Haymarket's affiliates and partners and third parties licensed to access your Personal Information by any of the foregoing. To opt-out, send us an email to [ Newslettersupport@haymarketmedia.com](mailto:Newslettersupport@haymarketmedia.com)
 
 Except as otherwise provided in this Privacy Policy, we will keep your Personal Information and your Financial Information private and will not share it with third parties, unless such disclosure is necessary to (a) comply with a court order or other legal process; (b) protect our rights or property; or (c) enforce our terms of service. 
 
@@ -83,7 +81,7 @@ If you choose to use our referral service to inform a friend about our Digital O
 
 **Online Ad Serving**
 
-We use third-party advertising companies to serve ads when you visit our Digital Offering. These companies may use information (not including your name, address email address or telephone number) about your visits to this Digital Offering and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, click here: [ http://www.networkadvertising.org/consumer/opt_out.asp](http://www.networkadvertising.org/consumer/opt_out.asp)
+We use third-party advertising companies to serve ads when you visit our Digital Offering. These companies may use information (not including your name, address email address or telephone number) about your visits to this Digital Offering and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, click here: <http://www.networkadvertising.org/consumer/opt_out.asp>
 
 **Cookies**
 
@@ -117,13 +115,13 @@ By using our Digital Offering, products or services, you signify your acceptance
 
 **Questions?**
 
-If you have any questions on our Privacy Policy, or complaints about our handling of your Personal and/or Financial Information, you can contact us at [sitefeedback@haymarketmedia.com](mailto:sitefeedback@haymarketmedia.com).
+If you have any questions on our Privacy Policy, or complaints about our handling of your Personal and/or Financial Information, you can contact us at [ sitefeedback@haymarketmedia.com](mailto:sitefeedback@haymarketmedia.com).
 
-## International Privacy Policy
+**International Privacy Policy**
 
 This privacy policy sets out the basis on which your personal data will be processed by us as the data controller of your personal data for the purposes of the Data Protection Act 1998 ("the Act"). Please read the following carefully to understand our views and practices regarding your personal data and how we will treat them.
 
-### Information we may collect from you
+**Information we may collect from you**
 
 We may collect and process the following data about you:
 
@@ -134,19 +132,19 @@ We may collect and process the following data about you:
 
 
 
-### IP Addresses and Cookies
+**IP Addresses and Cookies**
 
-“Cookies” are small pieces of information that a website sends to your computer’s hard drive while you are viewing a website. Haymarket uses cookies to provide you with a more personal and interactive experience on our sites. You have the ability to accept or decline cookies, but please be aware that for some parts of our sites to work, you will need to accept cookies. For more information please visit [www.allaboutcookies.org](http://www.allaboutcookies.org/). 
+“Cookies” are small pieces of information that a website sends to your computer’s hard drive while you are viewing a website. Haymarket uses cookies to provide you with a more personal and interactive experience on our sites. You have the ability to accept or decline cookies, but please be aware that for some parts of our sites to work, you will need to accept cookies. For more information please visit [ www.allaboutcookies.org](http://www.allaboutcookies.org/). 
 
 Following recent revisions of the Privacy and Electronic Communications (EC Directive) Regulations 2003 relating to the notification and use of cookies we are currently working towards implementing the new requirements in line with guidance provided by The Information Commissioner’s Office. 
 
-### Where we store your personal data
+**Where we store your personal data**
 
 All information you provide to us is stored on our secure servers. Where we have provided you with a password, which enables you to access certain parts of the Digital Offering, you are responsible for keeping this password confidential. As stated above, it is important you do not share your password with anyone.
 
 Unfortunately, the transmission of information via the Internet is not completely secure. So, whilst we will do our best to protect your personal data, we cannot ensure the security of data transmitted by you to the Digital Offering. Any transmission is at your own risk. Once we have received your information we will use security procedures and features to prevent unauthorised access to it. 
 
-### Uses made of the information
+**Uses made of the information**
 
 We may use information held about you in the following ways:
 
@@ -170,12 +168,12 @@ We may disclose your personal information to third parties:
 
 We do not disclose individual information to our advertisers, but we may provide them with aggregate information about our users. We may also use such aggregate information to help advertisers reach the kind of audience they want to target. We would comply with our advertisers' wishes by displaying their advertisement to that target audience using the personal data we have collected from you and from others. 
 
-### Your rights
+**Your rights**
 
-You have the right to request us not to disclose any of your personal data or information or to pass information to third parties. We will usually inform you before collecting your data, if we intend to disclose your information to any third party and you can exercise that right by checking certain boxes on the forms we use to collect your data. You can also notify us by contacting us at [sitefeedback@haymarketmedia.com](mailto:sitefeedback@haymarketmedia.com).
+You have the right to request us not to disclose any of your personal data or information or to pass information to third parties. We will usually inform you before collecting your data, if we intend to disclose your information to any third party and you can exercise that right by checking certain boxes on the forms we use to collect your data. You can also notify us by contacting us at [ sitefeedback@haymarketmedia.com](mailto:sitefeedback@haymarketmedia.com).
 
 The Digital Offering may from time to time contain links to and from partner and/or affiliate websites. If you follow a link to their sites, please note that these sites have their own privacy policy and that Haymarket does not accept any responsibility or liability for protection of personal data which you may submit to a third party's site. You are recommended to check the wording of the relevant privacy policies before you submit any personal data to those sites. 
 
-### Access to information
+**Access to information**
 
-The Act gives you various rights including the right to access information held about you. Questions about this privacy policy can be addressed to [sitefeedback@haymarketmedia.com](mailto:sitefeedback@haymarketmedia.com).
+The Act gives you various rights including the right to access information held about you. Questions about this privacy policy can be addressed to [ sitefeedback@haymarketmedia.com](mailto:sitefeedback@haymarketmedia.com).
