@@ -1,0 +1,40 @@
+> *The following text is extracted and transformed from the foxebook.net privacy policy that was archived on 2013-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130627061737id_/http%3A//www.foxebook.net/privacy-policy) for the most accurate reproduction.*
+
+# Privacy Policy - Free eBook Share
+
+Privacy Policy for [FoxEbook.net](http://www.foxebook.net/)
+
+We, at Foxebook.net, the privacy of our visitors is of extreme importance to us. This privacy policy document outlines the types of personal information is received and collected by www.foxebook.net and how it is used.
+
+**Log Files**
+
+The Foxebook.net utilizes log files just like other websites. The log files contain information including Internet Protocol (IP) address, browser type, Internet Service Provider (ISP), time and date, referring or exit pages and how many clicks were done to analyze trends, site administration, user movement tracking within the site and collect demographic information. The IP addresses and other information stored on log files are not related to any data that is personally identifiable.
+
+**Cookies and Web Beacons**
+
+www.foxebook.net does use cookies to store information about visitors preferences, record user-specific information on which pages the user access or visit, customize Web page content based on visitors browser type or other information that the visitor sends via their browser.
+
+**Amazon Associates Program**
+
+Foxebook.net is a participant in the Amazon Services LLC Associates Program, an affiliate advertising program designed to provide a means for sites to earn advertising fees by advertising and linking to Amazon.com.
+
+**DoubleClick DART Cookie**
+
+\- Google, as a third party vendor, uses cookies to serve ads on www.foxebook.net.  
+\- Google’s use of the DART cookie enables it to serve ads to users based on their visit to www.foxebook.net and other sites on the Internet.  
+\- Visitors can opt out from DART cookie by checking out Google and content network privacy policy through – [http://www.google.com/policies/privacy/ads/](http://www.google.com/policies/technologies/ads/)
+
+Some of our advertising partners may use cookies and web beacons on our site. Our advertising partners include:
+
+Google Adsense  
+Amazon Associates
+
+These third-party ad servers or ad networks use technology to the advertisements and links that appear on www.foxebook.net send directly to your browsers. They automatically receive your IP address when this occurs. Other technologies ( such as cookies, JavaScript, or Web Beacons ) may also be used by the third-party ad networks to measure the effectiveness of their advertisements and / or to personalize the advertising content that you see.
+
+www.foxebook.net has no access to or control over these cookies that are used by third-party advertisers.
+
+You should consult the respective privacy policies of these third-party ad servers for more detailed information on their practices as well as for instructions about how to opt-out of certain practices. www.foxebook.net’s privacy policy does not apply to, and we cannot control the activities of, such other advertisers or web sites.
+
+If you wish to disable cookies, you may do so through your individual browser options. More detailed information about cookie management with specific web browsers can be found at the browsers’ respective websites.
+
+If you need more details or have any questions regarding our privacy policy, you can contact us directly through our [Contact Us](https://web.archive.org/contact/ "Contact Us") page.
