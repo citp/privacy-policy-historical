@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the tafford.com privacy policy that was archived on 2012-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121109165244id_/http%3A//www.tafford.com/t-privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tafford.com privacy policy that was archived on 2013-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130627031024id_/http%3A//www.tafford.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
-### Tafford Privacy Policy
+### Information Collection and Use
 
-Information Collection and Use At Tafford, we are committed to taking appropriate measures to ensure that all information you provide us is handled in accordance with this policy. The information you provide to us is used to process your order, service your account, facilitate your transactions with our third party marketing partners, and to improve our site's content and functionality and enhance your experience as a consumer, as further described below.
+At Tafford, we are committed to taking appropriate measures to ensure that all information you provide us is handled in accordance with this policy. The information you provide to us is used to process your order, service your account, facilitate your transactions with our third party marketing partners, and to improve our site's content and functionality and enhance your experience as a consumer, as further described below.
 
 ### Order Information
 
