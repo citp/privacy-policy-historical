@@ -1,77 +1,95 @@
-> *The following text is extracted and transformed from the instantlistbuildinganarchy.com privacy policy that was archived on 2012-04-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120421160807id_/http%3A//sublimenet.com/legal/dcs_privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the instantlistbuildinganarchy.com privacy policy that was archived on 2013-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130627204823id_/http%3A//www.successetc.com/privacypolicy) for the most accurate reproduction.*
 
-# Affiliate Program Agreement
+# Website Privacy Policy « Success Etc
 
-**PRIVACY POLICY**
+## How We Protect Your Privacy
 
-**IMPORTANT! THIS PRIVACY POLICY (“ _POLICY_ ”) DESCRIBES HOW DOTCOMSECRETS.COM, INCORPORATED (“ _DCS_ ”) PROTECTS, USES AND SHARES ANY INFORMATION WHICH IS PROVIDED BY YOU AT ****WWW.DOTCOMSECRETS.COM** ** AND WWW.THESECONDTIER.COM (COLLECTIVELY, ****THE “ _SITE_ ”).   BY ACCESSING THE SITE, YOU ARE INDICATING THAT YOU HAVE READ, UNDERSTOOD AND  AGREE TO THIS PRIVACY POLCY AND OUR TERMS OF SERVICE** ******[**[ **http://sublimenet.com/legal/dcs_tos.html**](http://sublimenet.com/legal/dcs_tos.html) **]**
+This website privacy policy tells you how we collect, use, and protect your personal information. By visiting our website ([http://successetc.com](http://successetc.com/)), you accept and agree to the terms and conditions of this website privacy policy. In particular, you consent to our collection and use of your personal information as described in this website privacy policy.
 
-**IF YOU DO NOT AGREE TO THE TERMS OF SERVICE OR OUR PRIVACY POLICY, PLEASE DO NOT USE THE SITE OR ANY SERVICES OFFERED AT THE SITE.**
+## Minors
 
-**_Types of Information that DCS Collects_**
+We do not provide services or sell products to children. If you are below the age of 18, you may use our website only with the permission and active involvement of a parent or legal guardian. If you are a minor, please do not provide us or other website visitors with any personal information.
 
-DCS collects two different types of information from You when You use the Site.   We collect certain types of personally identifiable information from You (“ _Personal Information_ ”) when You register a member or affiliate account (“ _Account_ ”). We also collect certain non- personally identifiable, aggregate information from visitors to our Site regardless of whether they create or sign in to an Account (“ _Traffic Data_ ”).
+## This Policy Is Part Of Our Terms And Conditions Of Use
 
-**_Personal Information_**
+Our website privacy policy is a part of, and subject to, our website’s terms and conditions of use. You may view these terms and conditions on our website.
 
-In order to create an Account You will have to provide Personal Information that may include: 
+## The type of information we collect from you and interest-based advertising.
 
-a.       name
+Like most places on the Internet, simply by visiting our website you automatically tell us certain information. This includes basic information such as your IP address, when you visited, the website from where you came prior to visiting us, the website where you go when you leave our website, your computer’s operating system, and the type of web browser that you are using. Our website automatically records this basic information about you.
 
-b.      address 
+And like many other websites, we may use cookies. In plain English, this means information that our website’s server transfers to your computer. This information can be used to track your session on our website. Cookies may also be used to customize our website content for you as an individual. If you are using one of the common internet web browsers, you can set up your browser to either let you know when you receive a cookie or to deny cookie access to your computer.
 
-c.       telephone number
+We may also collect any data that you provide us by posting it at our website or by sending to us via email. You can always choose not to provide us with information. However, if you do withhold information, we may deny you access to some or all of our website’s services and features.
 
-d.      billing information (such as a credit card number)
+Some transactions between you and our website may involve payment by credit card, debit card, checks, money orders, and/or third party online payment services. In such transactions, we will collect information related to the transaction as part of the course of doing business with you, including your billing address, telephone number, and other information related to the transaction.
 
-e.       the type of personal computer being used to access the services
+## What We Do With Your Information
 
-f.       payment and tax withholding information
+We use your information to operate our website’s business activities. For example, we may use this data to contact you about changes to our website, new products and services, special offers, resolve disputes, troubleshoot issues, and enforce our website’s terms and conditions.
 
-Your Personal Information is used to manage Your Account and is not shared with third parties, unless specifically stated otherwise or in special circumstances. In compliance with applicable laws, it is our policy to require only the Personal Information necessary to manage Your Account and enable You to participate in our programs (as applicable, the “ _Program_ ”). DCS does not condition Your participation in any specific activity on our Site on the disclosure of more information than is reasonably necessary. 
+As a general rule, we will not give your data to third parties without your permission. However, there are some important exceptions to this rule that are described in the following paragraphs.
 
-**_Traffic Data_**
+We may, in our sole discretion, provide information about you to law enforcement or other government officials for purposes of fraud investigations, alleged intellectual property infringement, or any other suspected illegal activity or matters that may expose us to legal liability.
 
-DCS may also use certain web technologies such as “cookies” to track Your use of our Site. Your browser may have an option that allows You to reject cookies, but doing so may limit Your use of our Site.  Usage Information is anonymous and does not personally identify You.  In addition, DCS may use web beacons or other tools to measure the effectiveness of, and otherwise manage, our online advertising.  These web beacons enable our advertising server to recognize You when You visit the Site and to determine which banner ads bring users to the Site.  DCS does not use spyware, adware or any other similarly intrusive software.  The Usage Information that DCS collects depends on how You choose to use this Site. 
+Although we do not disclose individually identifiable information, we may disclose aggregate data about our website’s visitors to advertisers or other third parties for marketing and promotional purposes.
 
-**_Use of Your Information_**
+From time to time, we may use third party suppliers to provide services on our website. If a supplier wants to collect information about you, you will be notified. However, you will never be required to give information to a third party supplier. We restrict the way third party suppliers can use your information. They are not allowed to sell or give your information to others.
 
-DCS may use Your Personal Information to manage Your Account, such as responding to Your email inquiries or providing You with voluntary customer surveys to helps us to improve the types of products and services we offer to You.  In addition, DCS may use Traffic Data to deliver tailored advertisements or joint ventures. For instance, an advertiser or joint venture company tells us the audience they want to reach and provides us an advertisement tailored to the audience. Based upon the aggregated and non-identifying information we have collected, we may then display or send the advertisement to the intended audience. Additionally, DCS may share non-identifying and aggregate information (except as described above), but not Personal Information, with third parties to administer certain co-branded products or services. DCS does not share Your Personal Information with these advertisers or joint venture companies unless You have provided Your permission beforehand. In these instances, You will be notified before any such data is collected or transferred and may decide not to use that particular service or feature. Finally, DCS may take the information collected in response to customer surveys and combine (or aggregate) it with the responses of other customers to create broader, generic responses to the survey questions (such as gender, age, residence, hobbies, education, employment, industry sector, or other demographic information). This aggregated, non-personally identifying information may be shared with third parties.
+## Interest-Based Advertising
 
-**_Third Party Websites_**
+When you visit our website, you may view advertisements posted on the site by Google or other companies. These advertising companies may collect information about you while you are visiting this website and other websites. They may use this data to show you advertisements on this website and elsewhere on the Internet about products and services you might like.
 
-The Site may be hyper-linked to other sites which are not maintained by, or related to, DCS.  If You opt to provide information to such web sites, for example, to purchase products and services or register to receive materials, such as a newsletter, catalog or new product and service updates, please be aware that  DCS has no control over the third parties' use of any personal information You provide when placing such an order. Please exercise care when doing so and carefully review such website’s privacy policies before providing any information.  If You provide information about someone else, such as a person’s name, address, and phone number, please be aware that such provision may be prohibited by certain laws and that You, and not DCS, are solely responsible for doing so. 
+This website does not collect the information or control the content of the advertisements that you will see. You may be able to opt out of such advertising. To find out more about Google privacy policies and its DoubleClick DART cookie used to generate interest-based advertising, go to http://www.google.com/privacy/ads/.
 
-**_Contests_**
+Your use of this website without opting out means that you understand and agree to data collection to provide you with interest-based advertising.
 
-From time to time, subject to any rules provided at the Site at such time, You may be provided with the opportunity to be entered in a sweepstakes, contest, or other promotion simply by making a purchase from DCS or by providing DCS with personally identifiable information for some other reason or purpose. In such event,  DCS may have to supply personally identifiable information of the winners to the third parties such as the entity administering the sweepstakes or contest, so that they can notify the winners
+## User Names And Passwords
 
-**_Exclusions_**
+Your access to parts of our website may be protected by a user name and a password. Do not give your password to anyone. If you enter a section of our website that requires a password, you should log out when you leave. As a safety precaution, you should also close out of your web browser completely and re-open it before viewing other parts of the Internet.
 
-DCS may disclose Personal Information for any reason if, in our sole discretion, we believe that it is reasonable to do so, including: to credit agencies, collection agencies, merchant database agencies, law enforcement, or to satisfy laws, such as the Electronic Communications Privacy Act, the Children’s Online Privacy Protection Act, regulations, or governmental or legal requests for such information; to disclose information that is necessary to identify, contact, or bring legal action against someone who may be violating our Terms Of Service, or other user policies; or to protect our company and our members. We may sell or buy other businesses or entities.  In such event, DCS may transfer or assign the information we have collected as part of such merger, acquisition, sale, or other change of control  In such transactions, Your Personal Information may be included in the transferred business assets.  Also, in the unlikely event of our bankruptcy, insolvency, reorganization, receivership, or assignment for the benefit of creditors, or the application of laws or equitable principles affecting creditors' rights generally, DCS may not be able to control how Your Personal Information is treated, transferred, or used and Your Personal Information may be included in the transferred assets. 
+## Your Use Of Information And Unsolicited Commercial Email
 
-**_Information-Sharing Disclosures_**
+If you obtain personally identifiable information about another website user, you are not allowed to disclose this information to anyone else without the consent of the user and our consent too.
 
-Under the laws of some jurisdictions, You may be entitled to request disclosure regarding how DCS shares Your Usage Information with third parties for direct marketing purposes (“ _Information-Sharing Disclosure_ ”). To the extent required by applicable law, DCS shall provide the Information-Sharing Disclosure to You upon rightful request made in writing to **support@dotcomsecrets.com** and please include the phrase " Privacy Request" and Your State of residence in the subject line, the domain name of the Site You are inquiring about, along with Your name, address and email address. If You are entitled to such Information-Sharing Disclosure, DCS will respond to You within thirty days of receiving such a request.
+We hate junk email (spam). Information you obtain from our website about us or other site users cannot be used by you or others to send unsolicited commercial email or to send unsolicited commercial communications via our website’s posting or other communication systems.
 
-**_Our Company Commitment to Children's Privacy._**
+## Your Voluntary Disclosure Of Information To Third Parties Who Are Not Our Suppliers
 
-Protecting children's privacy is especially important to us. It is our policy to comply with the Children's Online Privacy Protection Act of 1998 and all other applicable laws.  Therefore DCS restricts our Site to persons eighteen years or older. **YOU MUST BE EIGHTEEN (18) YEARS OR OLDER TO ACCESS THIS SITE. IF YOU ARE UNDER EIGHTEEN YEARS OF AGE, YOU ARE NOT PERMITTED TO ACCESS THIS SITE FOR ANY REASON.   DUE TO THE AGE RESTRICTIONS FOR USE OF THIS SITE, NO INFORMATION OBTAINED BY THIS SITE, FALLS WITHIN THE CHILDREN'S ONLINE PRIVACY PROTECTION ACT (COPPA) AND IS NOT MONITORED AS DOING SO.**
+You may choose to provide personal information to website visitors or other third parties who are not our suppliers. Please use caution when doing so. The privacy policies and customs of these third parties determine what is done with your information.
 
-**_Public Forums_**
+## Autoresponders
 
-Please remember that any information You may disclose in any public areas of the Site becomes public information. You should exercise caution when deciding to disclose personal information in these public areas. DCS cannot and will not be liable or responsible for any disclosure of any information You publish in a public area of the Site.
+We may use autoresponders to communicate with you by email. To protect your privacy, we use a verified opt-in system for such communications and you can always opt-out of such communications using the links contained in each autoresponder message. If you have difficulties opting out, you may contact us by sending an email to support[at]successetc.com, or sending us mail to the address listed below.
 
-**_Our Commitment to Data Security:_**
+## Policy Changes
 
-DCS takes reasonable precautions and has implemented reasonable technical measures intended to protect against the risks of unauthorized access to, erroneous disclosure of, and unlawful interception of Your Personal Information, including by requiring our payment processor to comply with applicable laws and industry standards and by employing Secure Sockets Layer (SSL) encryption technology supported by most versions of Microsoft Internet Explorer, Netscape Navigator and other popular browsers.  Once Your Personal Information is received by DCS, we use commercially reasonable efforts to limit access to Your Personal Information about You to those employees and service providers whom DCS determines need access to that Personal Information to complete Your request and/or other provide offers or opportunities that may be of interest to You.  However, even after DCS receives Your Personal Information, DCS cannot guarantee that Your Personal Information may not be accessed, disclosed, altered, or destroyed as a result of a breach of our commercially reasonable efforts or as a result of any other event beyond our reasonable control.  Also, please be aware that Your email transmissions and/or other communications to DCS containing Personal Information may be unlawfully intercepted or accessed by third parties and/or this Site may be subject to hostile network attacks or administrative errors.  Accordingly, DCS cannot and does not guarantee that Your Personal Information is completely secure and safe from such risks. **  FOR THE AVOIDANCE OF DOUBT, WE EXPRESSLY DISCLAIM ANY REPRESENTATION OR WARRANTY, WHETHER EXPRESS OR IMPLIED, WITH RESPECT TO ENSURING, GUARANTEEING OR OTHERWISE OFFERING ANY DEFINITIVE PROMISE OF SECURITY IN CONNECTION WITH YOUR PERSONAL INFORMATION, PERSONAL INFORMATION OR USAGE INFORMATION.**
+The terms of this policy may change from time to time. If such changes are made, we will notify you by a notice posted on our website’s home page of the changes that have been made. If you disagree with the changes that have been made, please contact us (by email, using a website contact form, or in writing by mail), and any changes made to this policy will not apply to information we have collected from you prior to making the changes.
 
-**_Where to Direct Questions About Our Privacy Policy_**
+If you are concerned about the topic covered by this website privacy policy, you should read it each time before you use our website.
 
-If You have any questions about this Policy or the practices described herein, You may contact us through the contact information provided on this Site.
+## Questions or Concerns
 
-**_Revisions to This Policy   _**
+Any questions or concerns about this website privacy policy should be brought to our attention by sending an email to support[at]successetc.com and providing us with information relating to your concern.
 
-From time to time, DCS may revise this Policy.  To help You stay current of any changes, DCS takes the following two steps: (i) we note the date the Policy was last updated below and (ii) when we make a change to the Policy, we will post conspicuous announcements of such changes on the homepage of the Site for 30 days following the date the Policy was updated.  Your use of the Site following the posting of any revised Policy shall be deemed acceptance of the revised Policy.  We strongly recommend checking the Policy periodically.  We may also, at our sole discretion and with no obligation to do so, provide notices and other communications to You by email or by postings within Your Account.  You will be solely responsible for keeping Your email addresses updated and we will not be responsible for any undelivered notices caused by Your failure to do so. 
+You may also mail your concerns to us at the following address:
 
-Last updated: November 5, 2009
+SuccessEtc.com LLC  
+10280 W. Ustick Rd.
+
+Boise, Id 83704  
+United States
+
+## California Privacy Rights
+
+If you are a California resident and our customer, Cal. Civ. Code § 1798.83 permits you to request certain information about our disclosure of personal information to third parties for their direct marketing purposes. To request this information, please send an email to support[at]successetc.com or write us at the following address:
+
+SuccessEtc.com LLC  
+10280 W. Ustick Rd.
+
+Boise, Id 83704  
+United States
+
+This website privacy policy was last updated on February 28, 2012.
+
+This document is Copyright © 2008-2012 Law Office of Michael E. Young PLLC, and licensed for use by the owner of this website at [http://successetc.com](http://successetc.com/). All Rights Reserved. No portion of this document may be copied or used by anyone other than the licensee without the express written permission of the copyright owner.
