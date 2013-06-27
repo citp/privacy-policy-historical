@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the firstclasswatches.co.uk privacy policy that was archived on 2012-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121211172711id_/http%3A//www.firstclasswatches.co.uk/cookie_usage.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the firstclasswatches.co.uk privacy policy that was archived on 2013-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130627231055id_/http%3A//www.firstclasswatches.co.uk/cookie_usage.php) for the most accurate reproduction.*
 
 # Cookie Policy Information for First Class Watches
 
@@ -25,11 +25,11 @@ These cookies are saved on your computer by third party websites. We may use plu
 Service Provider| Service| Description  
 ---|---|---  
 [YouTube](http://www.youtube.com/)| Embedded Videos| When a video is displayed on our site, YouTube records this and other performance information such as view count.  
-[Criteo](http://www.criteo.com/us/privacy-policy)| Personalised Advertising| We use Criteo to display personalised advertising on other websites. Please see their policy on data collection. You may opt out of this [here](http://www.criteo.com/privacy-policy/opt-out).  
+[GDM Digital](http://www.gdmdigital.com/)| Personalised Advertising| We use GDM Digital to display personalised advertising on other websites. Please see their policy on data collection.  
 [Facebook](http://www.facebook.com/)| Sharing Plugin| We use a Facebook plugin to display the Facebook Like button on our pages. This sets cookies, please see Facebook's privacy policy.  
 [Google Plus](http://plus.google.com/)| Sharing Plugin| We use a Google plugin to display the Google +1 button on our pages. This sets cookies, please see Google's privacy policy.  
 [Twitter](http://www.twitter.com/)| Sharing Plugin| We use a Twitter plugin to display the Tweet button on our pages. This sets cookies, please see Twitter's privacy policy.  
-[ShareThis](http://sharethis.com/privacy)| Sharing Plugin| We use a multi service plugin from ShareThis to display sharing buttons. This sets cookies and third party usage, please see their data collection policy.  
+[AddThis](http://www.addthis.com/privacy)| Sharing Plugin| We use a multi service plugin from AddThis to display sharing buttons. This sets cookies, please see their data collection policy.  
   
 At First Class Watches we value our customer's privacy. When placing an order we encrypt all your details during transmission and only share identifiable and personal details when it is necessary to process your order (for example payment providers, courier companies). Your personal details are kept only in connection with your order. All credit and debit card numbers are encrypted using industry standard SSL security before it is sent to us, so it cannot be seen by any unauthorised party. Sometimes anonymous details of transactions are shared with third parties to allow us to measure performance of advertising and affiliated partners (for example cashback and voucher websites) to allow us to provide better service. Your personal information is not shared with these companies.
 
