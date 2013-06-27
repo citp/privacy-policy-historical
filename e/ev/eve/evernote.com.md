@@ -1,98 +1,133 @@
-> *The following text is extracted and transformed from the evernote.com privacy policy that was archived on 2012-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121106100132id_/https%3A//evernote.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the evernote.com privacy policy that was archived on 2013-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130627035734id_/http%3A//evernote.com/legal/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy | Evernote
 
-**Effective Date: November 12, 2010**
+**Effective Date: March 1, 2013** \- [What’s new »](https://web.archive.org/legal/changes.php#a-pp)
 
-Evernote Corporation values the privacy of those who use our web site, products and services and makes all commercially reasonable efforts to protect it. This Privacy Policy covers the collection, use and disclosure of personal information that may be collected any time you interact with Evernote, such as when you visit our web site, use or purchase our products and services, or communicate with Evernote employees. Please read the following to learn more about what information we collect, what we do with that information, and how we may use your personal information.
+Evernote values your privacy in your personal information and your Content that you store in our Service. This Privacy Policy explains what information Evernote collects about you and why, what we may do with that information and how we handle your Content.
 
-## Information Collection and Use
+## What Is The Scope Of This Privacy Policy?
 
-The primary reason that we collect certain personal information is to provide the best possible level of customer service. It enables us to deliver product announcements, software updates and special offers as well as provide convenient and personalized user access and improve the features and usability of our products. Registered Evernote users can view and change their personal information at any time by visiting the Evernote account information page by signing in at www.evernote.com and clicking on the “Settings” link. Unregistered users may still be able to use certain Evernote web sites and services, in which case no personal information is collected.
+This Privacy Policy is incorporated into the Evernote Terms of Service, and applies to the information obtained by us through your use of this website, the Service and other Evernote products and services. Capitalized terms used in this Privacy Policy and not otherwise defined shall have the meanings provided for those terms in the Terms of Service.
 
-Evernote may collect information and use it for internal business purposes in a number of situations, for example:
+## Will This Privacy Policy Ever Change?
 
-  * Personal information such as name, e-mail address, contact preferences, which Evernote products and services you use, and transactional information such as your credit card number — to deliver and support our products and services;
-  * Demographic information such as your occupation and where you use your computer and mobile devices — to improve our understanding of our customer needs;
-  * Tracking information about your visit from the browser or Evernote application on your computer or mobile device, including IP address, cookies and the pages you request — to analyze trends, administer the site, track your navigation of the site, deliver relevant advertisements and gather broad demographic information for aggregate use (note that IP addresses are not linked to “personally identifiable information”); and
-  * Aggregate information from multiple users without personally identifying individuals, such as geographic region, which we may share with our business partners — to improve understanding of customer needs and provide relevant services.
+As Evernote evolves, we may need to update this Policy to keep pace with changes in the Service and laws applicable to us and you; we will, however, always maintain our commitment to respect your privacy.
 
+We will post any revisions to this Policy, along with their effective date, in an easy to find area of our web site, so we recommend that you periodically check back here to stay informed of any changes. We will ask for your consent to such changes if required by applicable law; in other cases, please note that your continuation of your Evernote Service account after any change means that you agree with, and consent to be bound by, the new Privacy Policy. If you disagree with any changes in this Policy and do not wish your information to be subject to the revised Policy, you will need to close your account before the new Policy becomes effective.
 
+## I. Information Collection and Use
 
-You may elect to terminate your participation in the services at any time and/or delete information and material you have posted to any notebook. If you cancel your account, or delete any notebook or notebook content, it will no longer be accessible to you or others who may access the service, but there may continue to be residual copies of such information due to the nature of the computer system’s operation and ongoing data back-up and archiving.
+### What Information Does Evernote Collect About Me and Why?
 
-You may also change your contact preferences after logging into your Evernote account at www.evernote.com and going to Settings > Personal Settings > Contact Preferences. If you wish to opt out of email marketing communications from us, you may click the “unsubscribe” link at the bottom of an email message you receive from us.
+We collect very little personal information about our users, especially users of our free service. A list of the “Personal Information” Evernote may collect, and why we collect it, follows:
 
-## Your Evernote Username and related information
-
-The Evernote web site allows you to create an “Evernote Username” based on your personal information. This is required in order to take full advantage of the Evernote services and any downloadable software products. It also allows Evernote to provide more personalized and convenient service and saves time when you want to use the Evernote services, update your software or settings, or search for Evernote-related information.
-
-## Public information
-
-Certain portions of the Evernote web sites and services are open to any online viewer, such as user notebooks designated as “public,” and our user forum. Any information that you post in these locations can be read, collected and used by anyone, and could enable others to send you unsolicited messages. Evernote enables you to determine whether or not to post personal or otherwise sensitive information to publicly accessible areas of our site, and so you should carefully consider how you use the services. Evernote is not responsible for any publication or use of any personal information you choose to post in these locations.
-
-## Information disclosure to third parties
-
-When you post information to the Evernote sites, you are granting Evernote permission to use and take other actions with respect to such information (as described in the Terms of Service), in order to provide Evernote’s services. We do not share, sell, rent or otherwise distribute this information to others, except as disclosed in this Privacy Policy. Evernote may share your information with others outside of Evernote under the following circumstances:
-
-  * We have your explicit consent to share the information;
-  * We need to share your information to fulfill your product or service request;
-  * We wish to contact you with information about products and services from our business partners, which we may do unless you “opt out” of such communications by clicking the unsubscribe link found within Evernote email updates or by logging into your Evernote account at www.evernote.com and going to Settings > Personal Settings > Contact Preferences and changing your contact preferences;
-  * We have a good faith belief that sharing or otherwise permitting access, disclosure, use or preservation of such information is reasonably necessary in order to comply with our legal obligations;
-  * You have explicitly requested information from Evernote business partners, in which case it will be clear at the point of collection who is collecting the personal information and whose privacy statement will apply;
-  * We believe it is necessary in order to investigate, prevent or take action regarding illegal activities, suspected fraud or potential threats against persons or property;
-  * We believe it is necessary to investigate potential violations of our Terms of Service, or to enforce those Terms of Service; or
-  * We have a relationship with an affiliate or partner that you have an online or off-line (non-Internet) relationship with, or have visited the affiliate or partner’s web site that links to or mentions Evernote’s web site, and have registered for Evernote’s online services through the partner or affiliate’s program or web site.
+  * Your username, email address, and contact preferences. This lets us create your account, provide you with convenient and personalized access to your account, and deliver and support the Service. This information also helps us communicate with you about your use of the Service, product announcements and software updates, as well as respond to your requests for assistance (including providing account verification support if you’re having difficultly accessing your account). In addition, we may use your Personal Information to send you marketing emails and special offers about the Service. For more information, please see the section below entitled, “Will Evernote Send Me Emails?”
+  * For Premium users, transactional information such as your credit card number and billing address or your PayPal or Google Wallet account information. This lets us process your payments for Premium services.
+  * The geographic area where you use your computer and mobile devices (as indicated by an IP address or similar identifier), and the language you select when interacting with the Evernote service. We collect this information in order to help us deliver and support the Service, including by localizing your Evernote experience. It also helps us improve our understanding of how our users use the Service.
+  * The Evernote products and services you use. This information helps us deliver and support the Service and respond to your requests for assistance. We also collect this information to improve our understanding of how our users use the Service.
+  * Any Content you add to your account. We don’t use this information for any purpose other than to make sure it is available to you when you use the Service.
 
 
 
-## Cookies and Tracking Pixels
+Evernote’s web site and applications also collect and receive information from your computer or mobile device, including the activities you perform within your account, the type of hardware and software you are using (for example, your operating system or browser), and information obtained from cookies (see our [Cookie Information Page](https://web.archive.org/legal/cookies.php) for more information). When you access Evernote via an Evernote Software application, that application will request access to certain information on your computing device. For more information on these application permissions, please visit our [Data Usage page](https://web.archive.org/privacy/data_usage.php).
 
-Cookies are small data files that a web site you visit may save on your hard drive that usually includes an anonymous unique identifier. A cookie cannot retrieve any other data from your hard drive, pass on computer viruses, or capture your e-mail address. The Evernote web site uses cookies for user authentication, keeping track of your preferences, promotional campaigns that require user identification, keeping track of our audience size and traffic patterns, and in certain other cases. We may include tracking pixels, which are small graphic images, in our email messages and newsletters to determine whether the messages were opened and the links were actually viewed.
+Gathering this kind of information helps us administer the Service, provide convenient and personalized user access, improve the features and usability of our products and Service, analyze user trends and information about users’ use of our Service (including the extent to which our users share or make public notes and notebooks), collect information about use and growth of the Service in specific regions, and evaluate the content and organization of our site. We do NOT collect information about you to deliver any targeted advertising to you, or track your visits to any third-party websites. 
 
-You can configure your browser to accept cookies, reject cookies or notify you when a cookie is being used. However, if you configure your browser to reject cookies, you may not be able to use Evernote products or services that require you to sign in or take advantage of all the features of Evernote. If you do not want to receive tracking pixels, you will need to disable HTML images in your email client, but that may affect your ability to view images in other email that you receive.
+In addition, we automatically gather non-personally identifiable information that indicates your association with one of our business partners or certain promotions. We use this information to determine the amount of revenue share payments to make to partners with whom we might have such arrangements and to provide anonymized aggregate reports.
 
-Evernote may allow third party business partners that display advertisements on some of our web pages to maintain their own cookies on your computer. These business partners do not have access to Evernote’s cookies and their use is subject to their own privacy policies.
+### Tell Me More About The Tracking Information Evernote Collects?
 
-## Links
+Evernote uses cookies and tracking pixels to collect information that helps us provide our Service to you. For more information about these uses and your options, please visit our [Cookie Information Page](https://web.archive.org/legal/cookies.php).
 
-The Evernote web site and services may contain links to other sites. Evernote is not responsible for the privacy policy or other practices employed by web sites linked to, or from, our web site nor the information or content contained therein. This privacy statement applies solely to information collected by this web site.
+### What Is Evernote’s Approach to Information Collected From Children?
 
-## Data Security
+Evernote complies with the US Children’s Online Privacy Protection Act (“COPPA”), which requires us to notify and obtain consent from a parent or guardian before we collect, use and disclose the personal information of children who are under 13 years of age. We do not knowingly collect personal information from children under 13 years of age without such consent, and if we learn that we have inadvertently done so, we will promptly delete it.
 
-Evernote is committed to protecting the security of your information and takes reasonable precautions to protect it. However, Internet data transmissions, whether wired or wireless, cannot be guaranteed to be 100% secure and as a result we cannot ensure the security of information you transmit to us; accordingly, you acknowledge that you do so at your own risk. Once we receive your data transmission, we make all commercially reasonable efforts to ensure its security on our systems:
+### Will Evernote Send Me Emails?
 
-  * Your Evernote password is protected by encryption and only you have access to it;
-  * Your personal information and data stored in our systems is protected by various physical, electronic and procedural safeguards. It is housed in a secure facility and Evernote restricts physical and network access to this facility to select trained staff and regularly evaluates its technologies, facilities, procedures and potential risks to maintain the security and privacy of our users’ data. As a rule, Evernote employees do not monitor or view your personal information or content stored in the Evernote service, but it may be viewed if we learn that our Terms of Service may have been violated and confirmation is required, or we otherwise determine that we have an obligation to review it; and
+From time to time, we may want to contact you with information about product announcements, software updates and special offers. We also may want to contact you with information about products and services from our business partners. You may opt out of such communications at any time by clicking the “unsubscribe” link found within Evernote email updates or by logging into your Evernote account via our web site at www.evernote.com and going to Settings > Personal Settings > Contact Preferences and changing your contact preferences.
+
+## II. Information Access and Disclosure
+
+Does Evernote Share My Personal Information or Content? Evernote is not in the business of selling or renting user information, and we only disclose information when:
+
+  * We have your explicit consent to share the information.
+  * We need to share your information with affiliated and unaffiliated service providers who process data on our behalf and subject to strict data protection requirements.
+  * We need to share your information with affiliated and unaffiliated service providers to fulfill your product or service requests.
+  * We believe it is necessary to investigate potential violations of our Terms of Service, to enforce those Terms of Service, or where we believe it is necessary to investigate, prevent or take action regarding illegal activities, suspected fraud or potential threats against persons, property or the systems on which we operate the Service.
+  * We determine that the access, preservation or disclosure of information is required or permitted by law to protect the rights, property or personal safety of Evernote and our users or is required to comply with applicable laws, including compliance with warrants, court orders or other legal process.
+  * We need to do so in connection with the sale or reorganization of all or part of our business, as permitted by applicable law.
+
+
+
+Some applications that work with our Service may ask for permission to access your Content or other information about your account. Those applications will provide you with notice and request your consent in order to obtain such access or information. Please consider your selection of such applications, and your permissions, carefully. To learn more about some of these applications and what data they may access, click [here](https://web.archive.org/privacy/3rd_party_app_permissions.php).
+
+### Does Evernote Review My Notes?
+
+As a rule, Evernote employees do not monitor or view your personal information or Content stored in the Service, but it may be viewed if we believe our Terms of Service have been violated and confirmation is required, if we need to do so in order to respond to your requests for user support, or we otherwise determine that we have an obligation to review it as described in our [Terms of Service](https://web.archive.org/legal/tos.php). Your Notes also may be viewed where necessary to protect the rights, property or personal safety of Evernote and its users, or in order to comply with our legal obligations, such as responding to warrants, court orders or other legal process.
+
+### Does Evernote Ever Make Any of My Personal Information or Content Public?
+
+No. Note, however, that certain portions of the Evernote web sites and Service, such as user notebooks designated as “public” and our user forum, are open to any online viewer. Any information that you post in these locations can be read, collected and used by anyone and could enable others to send you unsolicited messages. Evernote enables you to determine whether or not to post personal or otherwise sensitive information to publicly accessible areas of our site, so you should carefully consider how you use the services. Evernote is not responsible for any publication or use of any Personal Information you choose to post in these locations.
+
+## III. Data Storage and Transfer
+
+### Where Is My Data Stored?
+
+When you use Evernote Software on your computing device, Content you save will be stored locally. When you synch your computing device with the Service, that Content will be replicated on our servers, which are located in the United States.
+
+Please be aware that Personal Information and Content submitted to Evernote will be transferred to a data center in the United States. If you post information to the Evernote sites you are confirming your consent to such information, including Personal Information and Content, being hosted and accessed in the United States.
+
+### How Can I Access or Correct Information Evernote Holds About Me?
+
+Users who wish to (i) access any Personal Information that we hold about you; (ii) request that we correct or delete the Personal Information that we hold about you; or (iii) request that we not use or stop using your Personal Information for marketing purposes may do so by contacting us at compliance AT evernote DOT com. We will comply with such requests to the extent permitted or required by law.
+
+### A Special Note to Users in Europe and Switzerland
+
+Evernote complies with the US-EU Safe Harbor Framework and US-Swiss Safe Harbor Framework as set forth by the US Department of Commerce regarding the collection, use and retention of personal information collected from users residing in the European Union and Switzerland. We have certified that we adhere to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access and enforcement. To learn more about the Safe Harbor program, and to view our certification page, please visit <http://www.export.gov/safeharbor/>
+
+### How Secure Is My Data?
+
+Evernote is committed to protecting the security of your information and takes reasonable precautions to protect it. However, Internet data transmissions, whether wired or wireless, cannot be guaranteed to be 100% secure, and as a result, we cannot ensure the security of information you transmit to us; accordingly, you acknowledge that you do so at your own risk. Once we receive your data transmission, we make all commercially reasonable efforts to ensure its security on our systems:
+
+  * Your Evernote password is protected by encryption, and only you have access to it.
+  * Your personal information and data stored in our systems is protected by various physical, electronic and procedural safeguards. It is housed in a secure facility, and Evernote restricts physical and network access to this facility to select trained staff. We regularly evaluate our technologies, facilities, procedures and potential risks to maintain the security and privacy of our users’ data.
   * Certain Evernote services support the use of standard SSL encryption to protect data transmissions. However, this is not a guarantee that such data transmissions cannot be accessed, altered or deleted due to firewall or other security software failures.
 
 
 
-If Evernote learns of a security system breach we may attempt to notify you and provide information on protective steps, if available, through the e-mail address that you supplied during registration or posting a notice on our web site. Depending on where you live, you may have a legal right to receive such notices in writing.
+If Evernote learns of a security system breach, we may attempt to notify you and provide information on protective steps, if available, through the email address that you have provided to us or by posting a notice on our web site. Depending on where you live, you may have a legal right to receive such notices in writing.
 
-## Children
+## IV. Information Deletion
 
-Evernote complies with the U.S. Federal Trade Commission (FTC) Children’s Online Privacy Protection Act (COPPA), which requires us to inform parents and legal guardians about how we collect, use and disclose personal information from children under 13 years of age.
+### What Happens If I Want to Stop Using Evernote?
 
-Evernote is not currently directed to children and we currently require users to verify that they are at least 13 years of age upon registration. We will not knowingly collect personal information relating to children under 13 years of age, and if we learn that we have inadvertently done so, we will promptly delete it.
+You can delete Content you have posted to any notebook at any time, and you can stop using Evernote at any time. If you delete information and material from a notebook and then sync your account, it will no longer be accessible to you or others who may access the Service, but residual copies of your deleted Content may continue to exist on Evernote’s back-up and archiving systems for up to one year due to the nature of those systems’ operations. If you cancel your account, the Content in your account will not be deleted unless you purposely delete that information, and sync your account before you cancel your account. [Learn how to effectively delete your Content here.](https://web.archive.org/privacy/delete_data.php)
 
-## International Users
+### What Happens If Evernote Closes My Account?
 
-Evernote abides by the safe harbor framework set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information collected from the European Union. The following link provides more information about the [U.S. Department of Commerce Safe Harbor Program.](http://www.export.gov/safeharbor/)
+If Evernote closes your account due to a Terms of Service violation, then you may contact Evernote to request deletion of your data, and Evernote will evaluate such requests on a case by case basis, pursuant to our legal obligations.
 
-Our servers are located in the United States. If you are located in one of the 15 European Union Member Nation States (Austria, Belgium, Denmark, Finland, France, Germany, Greece, Ireland, Italy, Luxembourg, Netherlands, Portugal, Spain, Sweden, and the United Kingdom), Canada or any other nation with privacy legislation you should be aware that personal information submitted to Evernote will be transferred to a data center in the United States. If you post information to the Evernote sites you are confirming your consent to such information, including personal data and content, being hosted and accessed in the United States.
+## V. Contact Us
 
-## Changes and Updates
+### How Can I Contact Evernote?
 
-As this Privacy Policy may be updated from time to time, we will revise and display the effective date at the top of the web page. You should periodically review it to keep abreast of our plans and procedures to protect the personal information that we collect. Your continued use of the Evernote services constitutes your agreement to this Privacy Policy and any updates.
+Evernote welcomes your feedback regarding this Privacy Policy. If you have questions, comments or concerns about this Policy, please contact us by email at compliance AT evernote DOT com or postal mail at:
 
-If Evernote should ever sell its assets, merge with another entity or file for bankruptcy, information collected from this web site and in the operation of the services may be transferred as assets of Evernote.
-
-## Contact Us
-
-Evernote welcomes your feedback regarding this Privacy Policy and our [Terms of Service](https://web.archive.org/tos/). If you have questions, comments, or concerns about either one, please contact us by e-mail at **compliance AT evernote DOT com** or postal mail at:
-
-Evernote Corporation  
-Attn: Compliance Manager  
+**Evernote Corporation**  
 305 Walnut Street  
-Redwood City, CA 94063
+Redwood City, California 94063 USA  
+Attention: General Counsel
+
+**Evernote GmbH**  
+Josefstrasse 59  
+8005 Zurich, Switzerland  
+Attention: Legal Notice
+
+**Evernote Do Brasil Servicos De Aplicacoes Ltda**  
+Avenida Paulista, no 2.300  
+Andar Pilotis  
+Edifício São Luiz Gonzaga  
+CEP: 01310-300, São Paulo/SP  
+Attention: Legal Notice
