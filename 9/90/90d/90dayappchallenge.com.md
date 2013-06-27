@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 90dayappchallenge.com privacy policy that was archived on 2012-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121222055342id_/http%3A//90dayappchallenge.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 90dayappchallenge.com privacy policy that was archived on 2013-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130627135510id_/http%3A//90dayappchallenge.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy « 90 Day App Challenge, World's First Virtual App Incubator, Mobile App Marketing, App Code
 
