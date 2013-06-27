@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the empireuniverse2.com privacy policy that was archived on 2012-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120617195827id_/http%3A//www.looki.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the empireuniverse2.com privacy policy that was archived on 2013-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130627215304id_/http%3A//www.looki.us/privacy.html) for the most accurate reproduction.*
 
 # Privacy
 
