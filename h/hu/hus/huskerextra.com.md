@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the huskerextra.com privacy policy that was archived on 2012-07-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120703111501id_/http%3A//huskerextra.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the huskerextra.com privacy policy that was archived on 2013-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130627215134id_/http%3A//journalstar.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy
 
-Welcome to the web sites of the Journal Star. We (which includes our parent company, Lee Enterprises, Incorporated) believe in your right to know what information is collected during your visit to our web sites and how that information is used and safeguarded. 
+Welcome to the web sites of the The Lincoln Journal Star. We (which includes our parent company, Lee Enterprises, Incorporated) believe in your right to know what information is collected during your visit to our web sites and how that information is used and safeguarded. 
 
 ### Information Automatically Gathered About All Visitors
 
