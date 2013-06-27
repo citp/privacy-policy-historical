@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the downloadpipe.com privacy policy that was archived on 2012-01-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120118221144id_/http%3A//www.downloadpipe.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the downloadpipe.com privacy policy that was archived on 2013-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130627020532id_/http%3A//www.downloadpipe.com/privacy.html) for the most accurate reproduction.*
 
 # DownloadPipe.com Privacy Policy
 
@@ -28,23 +28,17 @@ Our site contains links to sites owned by other companies. We make no guarantees
 
 From time to time, DownloadPipe.Com makes available to current customers special deals and/or offers. In such a case, we will contact you by email. 
 
-WEEKLY GIVEAWAY
+Top Downloads
 
-_Ends midnight this Saturday_
+  1. 1[ 3D-Driving-School Europe-Edition](http://www.downloadpipe.com/Windows/education-teaching-training-tools/review-3D-Driving-School-Europe-Edition-71242.html) 147,370 downloads
+  2. 2[ Quick Heal Total Security 2013 Windows 2000/XP/Vista/2008 (1 year)](http://www.downloadpipe.com/Windows/security-privacy-anti-virus-tools/review-Quick-Heal-Total-Security-2013-1222954.html) 74,945 downloads
+  3. 3[ Internet Download Manager](http://www.downloadpipe.com/Windows/network-internet-browsers/review-Internet-Download-Manager-1210217.html) 66,621 downloads
+  4. 4[ Quick Heal Antivirus Pro 2013 Windows 2000/XP/Vista (1 year)](http://www.downloadpipe.com/Windows/security-privacy-anti-virus-tools/review-Quick-Heal-Antivirus-Pro-2013-1222953.html) 41,273 downloads
+  5. 5[ Yahoo Pool Aimer](http://www.downloadpipe.com/Windows/network-internet-browser-tools/review-Yahoo-Pool-Aimer-84699.html) 36,844 downloads
+  6. 6[ Flash Player Mobile](http://www.downloadpipe.com/Windows/business-applications/review-Flash-Player-Mobile-653194.html) 31,643 downloads
+  7. 7[ KeyboardLocker](http://www.downloadpipe.com/Windows/security-privacy-access-control/review-KeyboardLocker-83746.html) 26,405 downloads
+  8. 8[ Driver Test](http://www.downloadpipe.com/Windows/education-teaching-training-tools/review-Driver-Test-1214375.html) 25,046 downloads
+  9. 9[ Cleanup Assistant](http://www.downloadpipe.com/Windows/ebooks/review-Cleanup-Assistant-1224398.html) 23,629 downloads
+  10. 10[ Kids Pix](http://www.downloadpipe.com/Windows/games-entertainment-board/review-Kids-Pix-1199536.html) 22,959 downloads
 
-**5 copies of  
-_IObit's_ Malware Fighter!**  
-[](http://www.regnow.com/softsell/visitor.cgi?affiliate=24107&action=site&vendor=12915&ref=http%3A%2F%2Fwww.iobit.com%2Fmalware-fighter.html "The world's leading protection from spyware & malware-based on Cloud Computing technology")  
-[Sign Up](http://www.downloadpipe.com/newuser.html) for your free account or [Login](http://www.downloadpipe.com/login.html) to enter the draw! 
 
-FREEBIES
-
-**Need to clean your mouse or keyboard?** Try [Clean 'n' Go](http://www.datamystic.com/cleango-DP.exe).
-
-**Working with large video or images?** Need to clear the clipboard or monitor its size? Try [ClipSize](http://www.datamystic.com/clipsize-DP.exe). 
-
-Top Shareware
-
-Top Freeware
-
-New Software
