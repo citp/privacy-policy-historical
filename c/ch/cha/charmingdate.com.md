@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the charmingdate.com privacy policy that was archived on 2012-10-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121029160100id_/http%3A//charmingdate.com/help/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the charmingdate.com privacy policy that was archived on 2013-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130627203912id_/http%3A//www.charmingdate.com/help/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy – CharmingDate.com
 
