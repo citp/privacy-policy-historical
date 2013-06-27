@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the starstable.com privacy policy that was archived on 2012-08-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120822021905id_/http%3A//www.starstable.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the starstable.com privacy policy that was archived on 2013-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130627024559id_/http%3A//www.starstable.com/en/privacy) for the most accurate reproduction.*
 
-# Star Stable - Online Horse Adventures
+# Privacy Policy - Star Stable
 
 ### Star Stable is a product owned and developed by World Of Horsecraft AB. All rights reserved.
 
