@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the traffic.com privacy policy that was archived on 2012-07-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120730153136id_/http%3A//corporate.navteq.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the traffic.com privacy policy that was archived on 2013-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130627025046id_/http%3A//corporate.navteq.com/privacy.html) for the most accurate reproduction.*
 
 # NAVTEQ
 
