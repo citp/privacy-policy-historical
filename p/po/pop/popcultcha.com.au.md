@@ -1,10 +1,8 @@
-> *The following text is extracted and transformed from the popcultcha.com.au privacy policy that was archived on 2012-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121227221031id_/http%3A//www.popcultcha.com.au/privacy-i-3.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the popcultcha.com.au privacy policy that was archived on 2013-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130627105717id_/http%3A//www.popcultcha.com.au/privacy-policy) for the most accurate reproduction.*
 
-# Popcultcha
+# Privacy Policy
 
- 
-
-**PRIVACY STATEMENT**
+### PRIVACY STATEMENT
 
 Popcultcha respects the privacy rights of all our customers with whom we conduct business. In compliance with the obligations under the Privacy Act 1998 as amended by the Amendment (Private Sector) Act 2000, we have implemented stringent security measures and procedures so that you can be assured that your personal information remains secure and confidential.
 
@@ -23,13 +21,8 @@ Popcultcha may occasionally use or disclose your personal information for a purp
 
 
 
- **SECURITY MEASURES**
+### SECURITY MEASURES 
 
 Your on-line shopping experience with Popcultcha is both safe and secure as we use Secure Socket Layers (SSL) 128-bit data encryption to protect your personal information and credit card details from being intercepted by any unauthorised parties, loss or misuse whilst under our control.
 
-When using Popcultcha, or any on-line store, always look for the padlock icon at the bottom of your browser before transmitting your credit card details.
-
 At Popcultcha, we recognise the growing risk of fraudulent on-line credit card transactions and we make every effort to reduce credit risk and credit card misuse. In line with this policy, we reserve the right to contact our customers to request further credit card verification.
-
-  
-
