@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the eurexchange.com privacy policy that was archived on 2012-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121226233749id_/http%3A//www.eurexchange.com/exchange-en/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eurexchange.com privacy policy that was archived on 2013-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130627145956id_/http%3A//www.eurexchange.com/exchange-en/privacy-policy) for the most accurate reproduction.*
 
 # Eurex - Privacy policy
 
@@ -8,7 +8,13 @@ Please note that the websites of Eurex Frankfurt AG may include, however, links 
 
 Collection and processing of personal data
 
-In most cases, when visiting our websites, our web server logs the address of your internet service provider (IP or URL), the name of the website, from where you are connecting to us, the date and time of your visit. Additional personal data (your name, address, phone number or e-mail address) is only required if you contact us directly or register for a newsletter or a closed user group. The data which are collected via the different input masks can be found through the mandatory input fields. All other data can be given voluntarily.
+When visiting our websites, our web server logs the address of your internet service provider (IP or URL), the name of the website, from where you are connecting to us, the websites you are visiting, the web browser used by you and the date and time of your visit. Personal data (your name, address, phone number or e-mail address) is only required if you contact us directly or register for a newsletter or a closed user group. The data which are collected via the different input masks can be found through the mandatory input fields. All other data can be given voluntarily.
+
+Withdrawal of data storage
+
+According to Section 15 of the German Telemedia Act (Telemediengesetz) visitors of websites can object to the data storage of their visit so that they will no longer be recorded at future visits on the relevant page. Should you object to the data storage, the domain “webbtreknet” will place a cookie with the name “webtrekkOptOut” to exclude you from web controlling. Technically the withdrawal will be effective as long as the cookie is not deleted.
+
+[Object to data storage now.](http://optout.webtrekk.net/?r=http://www.eurexchange.com/exchange-en/privacy-policy/tracking-opt-out/)
 
 Use and disclosure of personal data and specification of purpose
 
@@ -16,7 +22,6 @@ We will ensure your privacy and we will not disclose or sell your personal data 
 
 We will not disclose your personal data to governmental authorities except in cases where it is required by the effective financial laws, e.g. Stock Exchange Act (Börsengesetz) or Securities Trading Act (Wertpapierhandelsgesetz).
 
-  
 Use, disclosure of personal data and processing of additional data
 
 The advertisement which you will find on the Eurex Frankfurt AG web sites may deposit little files on your computer - so called cookies to provide individually adjusted advertisement for products and services. These cookies collect anonymous data about the way the websites are used, which do not make your person identifiable.
@@ -27,6 +32,6 @@ Eurex Frankfurt AG uses appropriate technical and organizational security measur
 
 Right to information, public statement of data processing and other rights
 
-Upon written request we, Eurex Frankfurt AG, will inform you by letter if and what personal data we store as defined by the effective law. If such data is incorrect despite our effort to keep data correct and up to date, we will correct that information at your request. In our public statement of data processing we summarize the information according to legal requirements.
+Upon written request we, Eurex Frankfurt AG, will inform you by letter if and what personal data we store as defined by the effective law. If such data is incorrect despite our effort to keep data correct and up to date, we will correct that information at your request.
 
 If you have further questions regarding data protection and privacy of your personal data at Deutsche Börse Group please contact:
