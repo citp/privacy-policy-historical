@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the stardoll.com privacy policy that was archived on 2012-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121225024656id_/http%3A//www.stardoll.com/en/help/termsOfUse.php%23privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stardoll.com privacy policy that was archived on 2013-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130627020235id_/http%3A//www.stardoll.com/en/help/termsOfUse.php%23privacy) for the most accurate reproduction.*
 
 # Terms Of Use - Stardoll | English
 
@@ -103,7 +103,7 @@ Stardoll has the right to contact and hand out information posted on the website
 
 Writings and postings relating to serious problems related, but not limited to eating disorders, self harm, suicide etc are directed by Stardoll to sites and forums with grown up professionals especially trained to deal with this. Stardoll will publish appropriate links to local sites handling these kinds of serious problems.
 
-All community features on Stardoll, including but not limited to, Friends, Blog, Guestbook, Album, Parties, Suite Chats display a yellow triangle with a red exclamation sign button for reporting purposes. All members are asked to read our [guidelines](http://www.stardoll.com/help/article.php?sectionId=18&articleId=15) regarding reports and reporting before reporting inappropriate behavior.
+All community features on Stardoll, including but not limited to, Friends, Blog, Guestbook, Album, Parties, Suite Chats display a purple triangle with an exclamation sign button for reporting purposes. All members are asked to read our [guidelines](http://www.stardoll.com/help/article.php?sectionId=18&articleId=15) regarding reports and reporting before reporting inappropriate behavior.
 
 You can block/unblock another member from sending messages to you, for more information about how, please read more [here](http://www.stardoll.com/help/article.php?sectionId=18&articleId=15).
 
