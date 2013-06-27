@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the proboards.com privacy policy that was archived on 2012-10-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121004010227id_/http%3A//www.proboards.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the proboards.com privacy policy that was archived on 2013-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130627164101id_/http%3A//proboards.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | ProBoards
 
@@ -18,9 +18,17 @@ Each time You use the Website, the then-current version of this Privacy Policy w
 
 > a. **Traffic Data.** ProBoards may automatically gather information of the sort that browsers automatically make available, including: (i) IP addresses; (ii) domain servers; (iii) types of computers accessing the Website; and (iv) types of Web browsers accessing the Website (collectively " **Traffic Data** ").
 > 
-> b. **Cookies.** A " **Cookie** " is a string of information that a website stores on a user's computer, and that the user's browser provides to the website each time the user submits a query to the website. The purpose of a Cookie is to identify the user as a unique user of the Website. ProBoards uses Cookies to customize Your experience on the Website to Your interests, to ensure that You do not see the same advertisements or informational messages repeatedly, and to store Your password so You do not have to re-enter it each time You visit the Website. In addition, ProBoards may use Cookies, and other methods, to store and retrieve data from Your web browser. For additional information on ProBoards' uses of Cookies, see the section concerning Information Use and Disclosure Practices/Traffic Data and Information Gathered Using Cookies, below.
+> b. " **Cookies** " are text files that are placed on your computer by websites that you visit or certain emails that you open. A Cookie acts as a string of information that a website stores on a users computer, and that the users browser provides to the website each time the user submits a query to the website. The purpose of a Cookie is to identify the user as a unique user of the Website. ProBoards uses Cookies.
 > 
-> IF YOU DO NOT WISH TO HAVE COOKIES PLACED ON YOUR COMPUTER, YOU SHOULD SET YOUR BROWSERS TO REFUSE COOKIES BEFORE ACCESSING THE WEBSITE, WITH THE UNDERSTANDING THAT CERTAIN OF THE SERVICES AND CERTAIN FEATURES OF THE WEBSITE MAY NOT FUNCTION PROPERLY WITHOUT THE AID OF COOKIES. IF YOU REFUSE COOKIES, YOU ASSUME ALL RESPONSIBILITY FOR ANY RESULTING LOSS OF FUNCTIONALITY.
+> ProBoards uses cookies on the Website for the following purposes:
+> 
+>   * to customize your experience on the Website to your interests
+>   * to ensure that you do not see the same advertisements or informational messages repeatedly, and
+>   * to store your session identifier so you do not have to re-enter it each time you visit the Website.
+> 
+IF YOU DO NOT WISH TO HAVE COOKIES PLACED ON YOUR COMPUTER, YOU SHOULD SET YOUR BROWSERS TO REFUSE COOKIES BEFORE ACCESSING THE WEBSITE, WITH THE UNDERSTANDING THAT CERTAIN OF THE SERVICES AND CERTAIN FEATURES OF THE WEBSITE MAY NOT FUNCTION PROPERLY WITHOUT THE AID OF COOKIES. IF YOU REFUSE COOKIES, YOU ASSUME ALL RESPONSIBILITY FOR ANY RESULTING LOSS OF FUNCTIONALITY.
+> 
+> You can learn more about how to delete or control cookies at [www.aboutcookies.org](http://www.aboutcookies.org/).
 > 
 > c. **Ad Serving.** ProBoards uses third-parties including [Datonics](http://datonics.com/consumer-privacy-center) for advertising and analytics for pages that we host. These third-parties may place cookies on Your machine, use web beacons, gather IP addresses and log data to collect traffic and activity data in order to deliver relevant metrics, content, and advertising. Notwithstanding anything else in this policy, we or a data provider we have engaged may place or recognize a unique cookie on your browser to enable you to receive customized ads or content. These cookies contain no personally identifiable information. The cookies may reflect de-identified demographic or other data linked to data you voluntarily have submitted to us, e.g., your email address, that we may share with a data provider solely in hashed, non-human readable form. Some ad networks that are a part of the Network Advertising Initiative provide an easy way to opt out of behavioral targeting by utilizing the [NAI Opt Out page](http://www.networkadvertising.org/managing/opt_out.asp). You can also visit [AboutAds.info](http://www.aboutads.info/choices) for more information and to opt-out.
 > 
@@ -80,4 +88,4 @@ From time to time, ProBoards may conduct contests, giveaways and other promotion
 
 Although most changes are likely to be minor, ProBoards reserves the right, at any time and without notice, to add to, update, change or modify this Privacy Policy, simply by posting such update, change or modification on this page. Any such addition, update, change or modification will be effective immediately upon posting on the Website. Each time You use the Website, the then-current version of this Privacy Policy will apply. Accordingly, each time You use the Website You should check the date of this Privacy Policy (which appears at the end) and review any changes since the last time You used the Website. Unless ProBoards obtains Your express consent, any revised Privacy Policy will apply only to information collected after the effective date of such revised Privacy Policy, and not to information collected under any earlier Privacy Policy.
 
-Effective Date: September 20, 2012 
+Effective Date: January 21, 2013 
