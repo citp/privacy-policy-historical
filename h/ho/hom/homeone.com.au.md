@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the homeone.com.au privacy policy that was archived on 2012-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121223011011id_/http%3A//www.homeone.com.au/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the homeone.com.au privacy policy that was archived on 2013-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130627060624id_/http%3A//www.homeone.com.au/privacy) for the most accurate reproduction.*
 
 # Advertising
 
