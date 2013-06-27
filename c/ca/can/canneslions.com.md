@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the canneslions.com privacy policy that was archived on 2012-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121213174557id_/http%3A//www.canneslions.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the canneslions.com privacy policy that was archived on 2013-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130627214711id_/http%3A//www.canneslions.com/privacy_policy) for the most accurate reproduction.*
 
 # Privacy & Cookies Policy | Cannes Lions International Festival of Creativity
 
 ### 1\. Introduction
 
-1.1 This Privacy and Cookies Policy sets out the privacy and cookies policy of Lions Festivals Limited, Company Number 7814172 (England) whose registered address is at The Prow, 1 Wilder Walk, London W1B 5AP and its subsidiary companies (“Lions Festivals”), who controls this website. For the purpose of the Data Protection Act, the data controller is Lions Festivals Limited.
+1.1 This Privacy and Cookies Policy sets out the privacy and cookies policy of [Lions Festivals](http://www.lionsfestivals.com/) Limited, Company Number 7814172 (England) whose registered address is at The Prow, 1 Wilder Walk, London W1B 5AP and its subsidiary companies (“Lions Festivals”), who controls this website. For the purpose of the Data Protection Act, the data controller is Lions Festivals Limited.
 
 1.2 Lions Festivals is committed to protecting the privacy of its users and the purpose of this Privacy Policy is to describe to you how Lions Festivals will use personal information about you that is submitted to Lions Festivals. 
 
@@ -110,7 +110,7 @@ Purpose: WebTrends uses a cookie to track the number of unique users of this web
 (c) Name: __utma, __utmb, __utmc, __utmz  
 Purpose: These cookies are used to collect information about how visitors use our site by Google Analytics. We use the information to compile reports and to help us improve the site. The cookies collect information in an anonymous form, including the number of visitors to the site, where visitors have come to the site from and the pages they visited.
 
-Certain cookies are either set by third parties on the Website or these are set by us using the third parties cookie code. More information about cookies placed by third parties and how to restrict or block their cookies can be accessed by following the link to their website. In addition to cookies, tracking gifs may be set by us or third parties in respect of your use of the Site. Tracking gifs are small image files within the content of our site or the body of our newsletters so we or third parties can understand which parts of the website are visited or whether particular content is of interest.
+Certain cookies are either set by third parties on the Website or these are set by us using the third parties cookie code. More information about cookies placed by third parties and how to restrict or block their cookies can be accessed by following the link to their website.
 
 In addition to cookies, tracking gifs may be set by us or third parties in respect of your use of the Site. Tracking gifs are small image files within the content of our site or the body of our newsletters so we or third parties can understand which parts of the website are visited or whether particular content is of interest.
 
@@ -129,3 +129,9 @@ Please be aware that Lions Festivals does not control and is not responsible for
 (a) provide true, accurate, current and complete information about yourself as prompted by the relevant registration form (such information being the "Registration Data"); and
 
 (b) maintain and promptly update the Registration Data to keep it fully up to date.
+
+###   
+8\. telephone calls
+
+  
+Please note your calls to Lions Festivals may be recorded for training and quality control purposes.
