@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the flixpress.com privacy policy that was archived on 2012-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121230053844id_/http%3A//flixpress.com/PrivacyStatement.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the flixpress.com privacy policy that was archived on 2013-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130627023608id_/http%3A//flixpress.com/PrivacyStatement.aspx) for the most accurate reproduction.*
 
 # Flixpress - Create video, animation & intros online > PrivacyStatement
 
