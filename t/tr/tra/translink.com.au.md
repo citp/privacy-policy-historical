@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the translink.com.au privacy policy that was archived on 2012-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121116004118id_/http%3A//translink.com.au/site-information/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the translink.com.au privacy policy that was archived on 2013-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130627180831id_/http%3A//translink.com.au/site-information/legal/privacy) for the most accurate reproduction.*
 
 # Privacy | TransLink
 
-The TransLink Transit Authority is committed to protecting your personal information. Our objective is to protect the privacy, accuracy and security of your personal information in accordance with the _Information Privacy Act 2009 (Qld)_.
+The Department of Transport and Main Roads is committed to protecting your personal information. Our objective is to protect the privacy, accuracy and security of your personal information in accordance with the _Information Privacy Act 2009 (Qld)_.
 
 ## Collecting information
 
@@ -10,7 +10,7 @@ We will only collect personal information that is relevant and necessary for our
 
 We collect and store personal information that you, our contractors or business partners provide to us.
 
-Personal information collected by TransLink generally comprises name, address, date of birth, gender, contact details (such as phone, fax and email), certain financial information (such as credit card details or bank account details) and information relevant to concession fares (such as student or pension details).
+Personal information collected by the Department of Transport and Main Roads generally comprises name, address, date of birth, gender, contact details (such as phone, fax and email), certain financial information (such as credit card details or bank account details) and information relevant to concession fares (such as student or pension details).
 
 ## Website
 
@@ -31,11 +31,11 @@ You must not use any application, system or method to access information on this
 
 ## Emails
 
-Your email address is recorded if you send us an email, however, we will not use your email address other than for the purpose for which you provided it. Emails in which assistance is requested will be forwarded to the relevant TransLink Transit Authority officer and/or our contactor and business partner.
+Your email address is recorded if you send us an email, however, we will not use your email address other than for the purpose for which you provided it. Emails in which assistance is requested will be forwarded to the relevant DTMR officer and/or our contactor and business partner.
 
 Email correspondence sent to this website will be treated as a public record and will be retained in line with relevant legislation.
 
-If you have received an email from TransLink and should you no longer wish to receive updates from us, you may [unsubscribe now.](http://www.vision6.com.au/em/forms/unsubscribe.php?db=371457&s=86612&a=31401&k=273ad92)
+If you have received an email from TransLink Division and should you no longer wish to receive updates from us, you may [unsubscribe now](http://www.vision6.com.au/em/forms/unsubscribe.php?db=371457&s=86612&a=31401&k=273ad92).
 
 Email messages may be monitored by our web team for system troubleshooting and maintenance purposes.
 
@@ -61,20 +61,20 @@ If you choose to register your smart card, your personal information will be sec
 
 Your personal information may be used for the following purposes:
 
-  * Allowing you to top up your smart card;
-  * Allowing you to obtain a replacement card;
-  * Allowing you to 'hotlist' or cancel a lost or stolen card to protect the stored value;
-  * Allowing you to access your journey history;
-  * Allowing us to notify you of changes to your smart card (for example impending card expiry);
-  * Allowing us to address any queries and complaints you may have regarding your smart card;
-  * Providing you with information directly related to our functions and activities; and
-  * Facilitating security measures to guard against fraud or inappropriate use of your card.
+  * to allow you to top up your smart card,;
+  * to allow you to obtain a replacement card,;
+  * to allow you to 'hotlist' or cancel a lost or stolen card to protect the stored value,;
+  * to allow you to access your journey history,;
+  * to allow us to notify you of changes to your smart card (for example impending card expiry),;
+  * to allow us to address any queries and complaints you may have regarding your smart card;
+  * to provide you with information directly related to our functions and activities; and
+  * to facilitate security measures to guard against fraud or inappropriate use of your card.
 
 
 
 ## Call centre
 
-If you call the call centre, your telephone call will be recorded. This assists TransLink to carry out its functions and objectives.
+If you call the call centre, your telephone call will be recorded. This assists TransLink Division to carry out its functions and objectives.
 
 If you do not want your telephone call recorded, you may tell the consultant this. If you tell the consultant that you do not want your telephone conversation recorded, you will be directed to the TransLink website or requested to mail your enquiry to TransLink in writing.
 
@@ -82,19 +82,19 @@ If you agree to the telephone call being recorded, all voice recordings are hand
 
 ## CCTV and audio voice recordings
 
-At times, while using TransLink services, you may be video recorded by way of CCTV or conversations you have with TransLink staff and business partners may be audio recorded. TransLink makes these recordings to assist with ensuring the safety of passengers, TransLink staff and business partners and to ensure the security of the TransLink network.
+At times, while using TransLink services, you may be video recorded by way of CCTV or conversations you have with TransLink Division staff and business partners may be audio recorded. The Department of Transport and Main Roads makes these recordings to assist with ensuring the safety of passengers, Department of Transport and Main Roads staff and business partners and to ensure the security of the TransLink network.
 
-All video and audio recordings are made and handled by TransLink in accordance with the _Information Privacy Act 2009_ and any relevant legislation.
+All video and audio recordings are made and handled by the Department of Transport and Main Roads in accordance with the _Information Privacy Act 2009_ and any relevant legislation.
 
 ## Disclosure of personal information
 
 In order to perform our functions and activities, we may be required to disclose your personal information to third parties, such as:
 
-  * Your bank or financial institution;
-  * Business partners where we outsource functions, such as information services, software development or transport planning;
-  * Our contracted public transport business partners, such as Queensland Rail
-  * Research organisations for the purpose of obtaining data about our services to assist us to improve the delivery of or functions and activities;
-  * Other organisations such as law enforcement agencies where it may be authorised or required by law to disclose your personal information.
+  * your bank or financial institution;
+  * business partners where we outsource functions, such as information services, software development or transport planning;
+  * our contracted public transport business partners, such as Queensland Rail
+  * research organisations for the purpose of obtaining data about our services to assist us to improve the delivery of or functions and activities;
+  * other organisations such as law enforcement agencies where it may be authorised or required by law to disclose your personal information.
 
 
 
@@ -102,7 +102,7 @@ In order to perform our functions and activities, we may be required to disclose
 
 We take reasonable steps to ensure that your personal information is stored accurately.
 
-Please contact us if you believe the personal information we hold about you is not complete or up to date. (See contacting us below).
+Please contact us if you believe the personal information we hold about you is not complete or up to date.
 
 If we disagree with your request to correct your personal information, you may request that a statement noting your disagreement be attached to your information.
 
@@ -112,35 +112,35 @@ We will protect the personal information we hold against loss, unauthorised acce
 
 ## Cookies
 
-The TransLink Transit Authority website uses cookies for the journey planner. A cookie is a piece of information or small file that an internet website sends to your browser when you access information at that site. No attempt is or will be made to identify users or their browsing activities except, in the unlikely event of an investigation, where a law enforcement agency may exercise a warrant to inspect activity logs.
+The TransLink website uses cookies for the journey planner. A cookie is a piece of information or small file that an internet website sends to your browser when you access information at that site. No attempt is or will be made to identify users or their browsing activities except, in the unlikely event of an investigation, where a law enforcement agency may exercise a warrant to inspect activity logs.
 
 ## External links
 
-The website contains links to non-TransLink Transit Authority websites. The TransLink Transit Authority is not responsible for the privacy or security practices or the content of those websites.
+The website contains links to non-Department of Transport and Main Roads websites. The Department of Transport and Main Roads is not responsible for the privacy or security practices or the content of those websites.
 
 ## Contact us
 
 If you have any queries about our privacy and security practices, please contact:
 
 Post:  
-Right to Information & Privacy Unit  
-TransLink Transit Authority  
-GPO Box 50  
+Right to Information, Privacy and Complaints Management  
+Department of Transport and Main Roads  
+GPO Box 1549  
 Brisbane  
 Queensland 4001
 
-Email: [privacy@translink.com.au](mailto:privacy@translink.com.au)
+Email: [privacy@tmr.qld.gov.au](mailto:privacy@tmr.qld.gov.au)
 
-Phone: 3338 4000
+Phone: 3066 7108
 
-Fax: 3384 4617
+Fax: 3066 7101
 
 National Relay Service:
 
-  * TTY (teletypewriter): 13 36 77 and ask for (07) 3167 4324
-  * Speak and Listen (speech-to-speech relay): phone 1300 555 727 and ask for (07) 3167 4324
-  * Internet relay: connect to the [National Relay Service](http://www.iprelay.com.au/call/index.aspx) and ask for (07) 3167 4324
+  * TTY (teletypewriter): 13 36 77
+  * Speak and Listen (speech-to-speech relay): phone 1300 555 727
+  * Internet relay: connect to the [National Relay Service](http://www.iprelay.com.au/call/index.aspx "National Relay Service \(opens in a new window\)")
 
 
 
-For general information on TransLink contact our call centre on 13 12 30.
+For general information contact TransLink on 13 12 30.
