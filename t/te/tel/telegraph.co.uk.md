@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the telegraph.co.uk privacy policy that was archived on 2012-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120630095921id_/http%3A//www.telegraph.co.uk/topics/about-us/3691972/Privacy-and-Cookie-Policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the telegraph.co.uk privacy policy that was archived on 2013-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130628013009id_/http%3A//www.telegraph.co.uk/topics/about-us/3691972/Privacy-and-Cookie-Policy.html) for the most accurate reproduction.*
 
 # Privacy and Cookie Policy - Telegraph
 
@@ -10,8 +10,6 @@ This Privacy and Cookie Policy explains how Telegraph Media Group Limited uses p
 
 2\. **How do we gather information?**
 
-2.1 Information is gathered in two ways: 
-
 (1) indirectly (e.g. using website technology or technology when you use a Telegraph application for a mobile device); and 
 
 (2) directly (e.g. when you buy a subscription, sign up to create a telegraph.co.uk profile, download a mobile device application or return coupons published in our newspapers). 
@@ -22,15 +20,17 @@ This Privacy and Cookie Policy explains how Telegraph Media Group Limited uses p
 
 3.1 We might use your personal information to: 
 
-(1) remember you when you visit our website and track your browsing patterns by using cookies. You can prevent this; section 5 deals with this in more detail. 
+(1) remember you when you visit our website and track your browsing patterns by using cookies. You can prevent this; section 5 deals with this in more detail; 
 
-(2) ensure any products or services you receive are correctly administered (including subscriptions). 
+(2) ensure any products or services you receive are correctly administered (including subscriptions); 
 
-(3) contact you by email, mail or telephone to let you know about any of our products, services or promotions (which, in some cases may be provided by third parties) if you give us permission. 
+(3) contact you by email, mail or telephone to let you know about any of our products, services or promotions (which, in some cases may be provided by third parties) if you give us permission; 
 
-(4) ensure materials on the website are presented in the most effective manner for you and your computer. 
+(4) ensure materials on the website or in apps are presented in the most effective manner for you and your computer or mobile device; 
 
-(5) collate and log numeric internet addresses to improve the website and to monitor website usage. 
+(5) collate and log numeric internet addresses to improve the website and to monitor website usage; 
+
+(6) assess and understand customer feedback and identify usage hotspots; 
 
 3.2 If you have subscribed to any of or services, we will use the information you provide to keep you updated on those services unless you tell us otherwise. 
 
@@ -53,6 +53,8 @@ This Privacy and Cookie Policy explains how Telegraph Media Group Limited uses p
 (2) make our website work as efficiently as possible. 
 
 (3) administer services to you and to advertisers. 
+
+(4) meter the number of pages you view for the purpose of administering subscriptions to The Telegraph. 
 
 5.3 Most browsers allow you to turn off cookies. To do this look at the “help” menu on your browser. Switching off cookies may restrict your use of the website and/or delay or affect the way in which it operates. 
 
@@ -94,8 +96,8 @@ http://www.audiencescience.com/privacy
 
 10.1 If we change our Policy, we will post the changes on this page. Please check the website regularly for any changes to this Policy. 
 
-11\. If you don't feel we're adhering to this Policy, what should you do? 
+11\. **If you don't feel we're adhering to this Policy, what should you do?**
 
 11.1 If you believe that we have not adhered to this Policy, please notify us by email at data.protection@telegraph.co.uk and we will try to solve the problem promptly. 
 
-_This Policy was last updated on May 24, 2012_. 
+_This Policy was last updated on May 2, 2013._
