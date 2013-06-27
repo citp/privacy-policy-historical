@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hostelz.com privacy policy that was archived on 2012-09-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120923151759id_/http%3A//www.hostelz.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hostelz.com privacy policy that was archived on 2013-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130627140121id_/http%3A//www.hostelz.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy - Hostelz.com
 
@@ -8,7 +8,7 @@ We use cookies to understand and save your preferences for future visits and com
 
 ## Registration
 
-Registration is not required to use the site, but some special services, such as posting comments or submitting reviews, require a valid email address. 
+Registration is not required to use the site, but some special services, such as posting comments or submitting reviews or making a booking, require a valid email address. We will not add you to any mailing lists and we don't send out any emails other than an initial email to confirm your email address.
 
 ## Sharing of Information
 
@@ -34,6 +34,8 @@ By using our site you consent to our privacy policy.
 
 If we decide to change our privacy policy we will post those changes on this page. 
 
-Copyright © 2012 Hostelz.com
+Copyright © 2013 Hostelz.com
 
 A portion of proceeds goes to support 
+
+[](http://www.hostelz.com/chat.php?page=http%3A%2F%2Fwww.hostelz.com%2Fprivacy.php)
