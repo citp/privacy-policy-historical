@@ -1,13 +1,13 @@
-> *The following text is extracted and transformed from the gapbuster.com privacy policy that was archived on 2012-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121126044313id_/http%3A//www.gapbuster.com/CorpContent/CorpPrivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gapbuster.com privacy policy that was archived on 2013-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130627062342id_/http%3A//gapbuster.com/CorpContent/CorpPrivacy) for the most accurate reproduction.*
 
-# GAPbuster: Mystery Shopping, Audits, Surveys, Analytics, Consulting
+# Privacy Policy : GAPbuster
 
 ### Privacy Policy
 
 **Disclaimer**  
 While GAPbuster Worldwide has endeavoured to ensure that all information provided on the GAPbuster Worldwide internet websites is accurate and up to date, GAPbuster Worldwide takes no responsibility for any errors or omissions relating to this information. To the maximum extent permitted by law, GAPbuster Worldwide will not be held liable for any cost, loss, or damage suffered by you through your use of the GAPbuster Worldwide internet websites or any GAPbuster Worldwide failure to provide access to these internet websites or information updates.
 
-Your use of the websites is governed by the GAPbuster Worldwide website [Terms and Conditions of Use](https://web.archive.org/CorpContent/CorpTerms)
+Your use of the websites is governed by the GAPbuster Worldwide website [Terms and Conditions of Use](https://web.archive.org/corpcontent/corpterms)
 
 **Online Privacy Policy**  
 This online Privacy Policy is provided to make you aware of how GAPbuster Worldwide collects uses and manages information of visitors to its websites.
