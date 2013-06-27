@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the samedaymusic.com privacy policy that was archived on 2012-10-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121010192752id_/http%3A//www.samedaymusic.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the samedaymusic.com privacy policy that was archived on 2013-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130627184208id_/http%3A//www.samedaymusic.com/privacy) for the most accurate reproduction.*
 
 # Privacy - SameDayMusic.com
 
@@ -6,7 +6,7 @@ When you shop with Same Day Music, you expect a quality, no-hassle experience. Y
 
 This Notice explains our privacy policy, and you will find that each point is set forth with the consideration you expect from Same Day Music. By visiting Same Day Music, you are accepting the practices described in this Privacy Notice. 
 
-## What Personal Information About Customers Does Same Day Music Gather?
+##  What Personal Information About Customers Does Same Day Music Gather? 
 
 The information we learn from you helps us personalize and improve your shopping experience at Same Day Music. 
 
@@ -34,11 +34,11 @@ While we do send customized promotional e-mail newsletters, we only send them to
 
 Sometimes, we receive information about you from other sources and add it to our account information. For instance, we may sometimes receive updated delivery and address information from our shippers or other sources so that we can correct our records and deliver your next purchase or communication more easily. 
 
-## Data Retention Policy
+##  Data Retention Policy 
 
 We do attempt to retain most substantive data indefinitely. We do not, however, store some spam e-mail and some raw log files. In addition, we promptly delete certain credit-card information, where required. 
 
-## What About Cookies?
+##  What About Cookies? 
 
 Cookies are very small alphanumeric identifiers that we transfer to a file on your computer through your Web browser. They enable our systems to recognize your browser so that we may personalize your experience on our Website. For instance, cookies allow us to store items in your shopping cart between visits and record recent items you have browsed. 
 
@@ -49,7 +49,7 @@ Cookies are very small alphanumeric identifiers that we transfer to a file on yo
 
 
 
-## Action Tags and other Data Collection Methods
+##  Action Tags and other Data Collection Methods 
 
 Action tags are 1x1 pixel images embedded in a Website page that are used to transparently collect information. 
 
@@ -57,7 +57,7 @@ Our internal or third-party ad server, content servers, affiliate program manage
 
 We also use third-party companies to collect information when you visit our Website. These companies may use that information (not including your name, address, email address or telephone number) about your visits to this and other Websites in order to provide advertisements on this Website, other Websites and other forms of media about goods and services that may be of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, visit <http://www.networkadvertising.org/consumer/opt_out.asp>. 
 
-## Does Same Day Music Share the Information It Receives?
+##  Does Same Day Music Share the Information It Receives? 
 
 The following exceptions apply in order to allow such activities as fulfilling your order when it is not shipped directly from our own warehouse: 
 
@@ -72,7 +72,7 @@ The following exceptions apply in order to allow such activities as fulfilling y
 
 
 
-## How Secure Is My Information?
+##  How Secure Is My Information? 
 
   * We work to protect the security of your information during transmission by using Secure Sockets Layer (SSL) software, which encrypts data you input. 
   * When confirming an order, we reveal only some digits of your credit card number. Of course, we transmit the entire credit card number to the appropriate credit card company during order processing. 
@@ -80,11 +80,11 @@ The following exceptions apply in order to allow such activities as fulfilling y
 
 
 
-## What Information Can I Access?
+##  What Information Can I Access? 
 
 In the future, Same Day Music may offer you access to certain information about you for the limited purpose of viewing and, in certain cases, updating that information. As our Website evolves, the exact information you can access and modify will change. 
 
-## What Choices Do I Have?
+##  What Choices Do I Have? 
 
   * As discussed above, you can always choose not to provide information, even though it might be needed to make a purchase or to take advantage of some other useful Same Day Music features. 
   * You may be able to add or update certain information in the future. However, please be aware that when you update information, we usually keep a copy of the prior version for our records. 
@@ -93,17 +93,17 @@ In the future, Same Day Music may offer you access to certain information about 
 
 
 
-## Children
+##  Children 
 
 While Same Day Music sells children's products, we do not sell products for purchase by children. We sell children's products for purchase by adults only. If you are under 18, you may use Same Day Music only with involvement of a parent or guardian. 
 
-## Terms of Use, Notices, and Revisions
+##  Terms of Use, Notices, and Revisions 
 
 If you choose to visit Same Day Music, your visit and any dispute over privacy is subject to this Notice and our Terms of Use, including limitations on damages, arbitration of disputes, and application of the law of the state of New Jersey. If you have any concern about privacy at Same Day Music, please address your concerns to [feedback@SameDayMusic.com](mailto:feedback@SameDayMusic.com)and we will try to resolve it. 
 
 The one constant is change. As our business continues to evolve, this Notice and the Terms of Use will evolve as well, and use of information that we gather now is subject to the Privacy Notice in effect at the time of use. We may e-mail periodic reminders of our notices and conditions, unless you have instructed us not to, but you should check our Website frequently to view recent changes to this and other important documentation. 
 
-## Links
+##  Links 
 
 This Website contains links to other sites. Please note that Same Day Music is not responsible for the privacy practices of such other sites. We encourage our users to be aware when they leave our site and to read the privacy statements of each and every Website that collects personally identifiable information. This Privacy Notice applies only to information collected by this Website. 
 
