@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the easemytrip.com privacy policy that was archived on 2012-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121217024545id_/http%3A//www.easemytrip.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the easemytrip.com privacy policy that was archived on 2013-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130627112546id_/http%3A//www.easemytrip.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy - EaseMyTrip.com
 
@@ -6,7 +6,7 @@
 **  
 
 
-We, through EaseMyTrip.com a reputed travel portal of India, respect the privacy of our clients. Our 'Privacy Policy' is intended to supply the users a trust associated with the usage and protection of their personal information collected by us. This personal information is comprised of their names, mailing addresses, contact numbers, e-mail IDs, credit card numbers, and several other personal details. Being a trusted name of travel and tourism industry, EaseMyTrip.com does not indulge into revealing the personal information of its clients for any reason. 
+We, through EaseMyTrip.com a reputed travel portal of India, respect the privacy of our clients. Our 'Privacy Policy' is intended to supply the users a trust associated with the usage and protection of their personal information collected by us. This personal information is comprised of their names, mailing addresses, contact numbers, e-mail IDs, credit card numbers, and several other personal details. Being a trusted name of [travel and tourism](http://www.easemytrip.com/) industry, EaseMyTrip.com does not indulge into revealing the personal information of its clients for any reason. 
 
 In general, you can visit our website without providing your personal information like mobile no or Email-id. Instead of tracking individual members interpret; we enhance the performance of our each page. In this way, we provide better services to them without knowing their identity. 
 
