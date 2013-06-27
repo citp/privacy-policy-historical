@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the verious.com privacy policy that was archived on 2012-10-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121003190212id_/http%3A//www.verious.com/privacy/index.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the verious.com privacy policy that was archived on 2013-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130627024522id_/http%3A//www.verious.com/privacy/index.php) for the most accurate reproduction.*
 
-# Verious - Serious Software for Mobile Apps!
+# Privacy | Verious
 
-Verious, Inc. (“Verious”) knows that you care about how your personal information is used and shared, and we take your privacy seriously. Please read the following to learn more about our privacy policy. By visiting the www.verious.com website and domain name, and any other linked pages, features, content, or application services offered from time to time by Verious in connection therewith (collectively, the "Website"), or using any of our services, you acknowledge that you accept the practices and policies outlined in this Privacy Policy.
+Verious, Inc. (Verious) knows that you care about how your personal information is used and shared, and we take your privacy seriously. Please read the following to learn more about our privacy policy. By visiting the www.verious.com website and domain name, and any other linked pages, features, content, or application services offered from time to time by Verious in connection therewith (collectively, the "Website"), or using any of our services, you acknowledge that you accept the practices and policies outlined in this Privacy Policy.
 
 ### WHAT DOES THIS PRIVACY POLICY COVER?
 
@@ -29,7 +29,7 @@ We often receive a confirmation when you open an email from Verious if your comp
 
 #### What About Cookies?
 
-Cookies are alphanumeric identifiers that we transfer to your computer’s hard drive through your browser to enable our systems to recognize your browser and tell us how and when pages in our site are visited and by how many people. We use cookies to enhance visitors’ experiences, to learn more about their use of the Website and to improve quality.
+Cookies are alphanumeric identifiers that we transfer to your computer hard drive through your browser to enable our systems to recognize your browser and tell us how and when pages in our site are visited and by how many people. We use cookies to enhance visitors’ experiences, to learn more about their use of the Website and to improve quality.
 
 Most browsers have an option for turning off the cookie feature, which will prevent your browser from accepting new cookies, as well as (depending on the sophistication of your browser software) allowing you to decide on acceptance of each new cookie in a variety of ways. We strongly recommend that you leave the cookies activated, however, because cookies enable you to take advantage of some of our Website’s most attractive features.
 
@@ -43,7 +43,7 @@ _Affiliated Businesses We Do Not Control:_ We anticipate that we may become affi
 
 _Agents:_ We employ other companies and people to perform tasks on our behalf and need to share your information with them to provide products or services to you. Unless we tell you differently, Verious’s agents do not have any right to use Personal Information we share with them beyond what is necessary to assist us. You hereby consent to our sharing of Personal Information for the above purposes.
 
-_User profiles:_ User profile information including users’ name, email address, and other information you enter (“User Submissions”) may be displayed to other users to facilitate user interaction within the Website. Email addresses are used to add new User Submissions to user profiles and to communicate through User Submissions. Users’ email addresses will not be directly revealed to other users by Verious, except, when the user is "connected" to another user via a shared group membership, or an invitation, or if the user has chosen to include their email address in their User Profile.
+_User profiles:_ User profile information including users’ name, email address, and other information you enter (User Submissions) may be displayed to other users to facilitate user interaction within the Website. Email addresses are used to add new User Submissions to user profiles and to communicate through User Submissions. Users’ email addresses will not be directly revealed to other users by Verious, except, when the user is "connected" to another user via a shared group membership, or an invitation, or if the user has chosen to include their email address in their User Profile.
 
 _Communication in response to User Submissions:_ As part of the Website and services, you will receive from Verious email and other communication relating to your User Submissions. You acknowledge and agree that by posting such User Submissions, Verious may send you email and other communication that it determines in its sole discretion relate to your User Submissions.
 
@@ -84,7 +84,7 @@ Verious allows you to access the following information about you for the purpose
 #### WHAT CHOICES DO I HAVE?
 
   * As stated previously, you can always opt not to disclose information, even though it may be needed to take advantage of certain features of the Website and services.
-  * You are able to add or update certain information on pages, such as those listed in the “What Personal Information Can I Access” section above. When you update information, however, we often maintain a copy of the unrevised information in our records.
+  * You are able to add or update certain information on pages, such as those listed in the “What Personal Information Can I Access section above. When you update information, however, we often maintain a copy of the unrevised information in our records.
   * You may request deletion of your Verious account by sending an e-mail to privacy@verious.com. Please note that some information may remain in our records after deletion of your account.
   * If you do not wish to receive email or other mail from us, please indicate this preference during the registration process. Please note that if you do not want to receive legal notices from us, such as this Privacy Policy, those legal notices will still govern your use of the Website, and you are responsible for reviewing such legal notices for changes.
 
