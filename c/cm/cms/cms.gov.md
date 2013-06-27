@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the cms.gov privacy policy that was archived on 2012-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121218175340id_/http%3A//cms.gov/About-CMS/Agency-Information/Aboutwebsite/Privacy-Policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cms.gov privacy policy that was archived on 2013-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130627180623id_/http%3A//www.cms.gov/About-CMS/Agency-Information/Aboutwebsite/Privacy-Policy.html) for the most accurate reproduction.*
 
-# Privacy Policy | Centers for Medicare & Medicaid Services
+# Privacy Policy - Centers for Medicare & Medicaid Services
 
 The Office of Management and Budget Memo [M-10-22, Guidance for Online Use of Web Measurement and Customization Technologies](http://www.whitehouse.gov/omb/asset.aspx?AssetId=2774) allows Federal agencies to use session and persistent cookies. When visiting CMS websites, a small text file called a "cookie" may be placed on a user's computer. This allows CMS to collect non-PII (personally identifiable information) data while the user is navigating through the website. CMS uses two types of cookies on its websites:
 
