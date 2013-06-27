@@ -1,16 +1,16 @@
-> *The following text is extracted and transformed from the blackle.com privacy policy that was archived on 2012-10-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121025165532id_/http%3A//blackle.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the blackle.com privacy policy that was archived on 2013-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130627020436id_/http%3A//blackle.com/privacy) for the most accurate reproduction.*
 
 # Blackle - Privacy Policy
 
-[](https://web.archive.org/web/20121025165532id_/http://www.blackle.com/)
+[](https://web.archive.org/web/20130627020436id_/http://www.blackle.com/)
 
 ## Blackle Privacy Policy
 
-30 March 2009
+13 June 2013
 
 ### About Blackle
 
-Blackle.com ("Blackle") is a website owned and operated by Heap Media Pty Ltd ("we", "our", "us").
+Blackle.com ("Blackle") is a website owned and operated by Heap Media ("we", "our", "us").
 
 We are strongly committed to protecting your privacy while interacting with Blackle.
 
@@ -18,7 +18,7 @@ Our goal is to provide you with a satisfying experience while allowing you to co
 
 The Blackle search service is powered by Google Custom Search ("Google"). You should read Google's privacy policy at:
 
-<http://www.google.com/privacy.html>
+[http://www.google.com/policies/privacy](http://www.google.com/policies/privacy/)
 
 We do not exercise control over the sites displayed as search results or links from within Blackle. You should read their privacy policies.
 
@@ -46,7 +46,7 @@ A cookie will not allow us or any third-party to learn any personally identifiab
 
 The use of cookies is an industry standard, and they are currently used on most major websites. Most browsers are initially set up to accept cookies, but you [change your browser's cookie settings](http://www.heapmedia.com/privacy/cookies/) to refuse all cookies or to indicate when a cookie is being sent. Some features and services may not function properly if your cookies are disabled.
 
-Google, a third-party advertising vendor, uses the DART cookie to serve ads based on your visits to Blackle and other sites on the internet. You may opt out of the use of the DART cookie by visiting the [Google ad content network privacy policy](http://www.google.com/privacy_ads.html).
+Google, a third-party advertising vendor, uses the DART cookie to serve ads based on your visits to Blackle and other sites on the internet. You may opt out of the use of the DART cookie by visiting [Google Advertising Policies](http://www.google.com/policies/technologies/ads/).
 
 A web beacon is a small image file that is placed on a web page and used in conjunction with cookies to accurately count the number of unique users who have visited a specific page or viewed a specific advertisement. Any image file on a Web page can act as a Web beacon.
 
@@ -68,7 +68,7 @@ If you have additional questions regarding your privacy and Blackle, please cont
 
 [About Blackle](http://www.blackle.com/about/) \- [Contact Blackle](http://www.heapmedia.com/contact/blackle/team) \- [Privacy Policy](http://www.blackle.com/privacy/) \- [Blackle FAQ](http://www.blackle.com/faq/)
 
-[© 2012 Heap Media](http://www.heapmedia.com/)
+[© 2013 Heap Media](http://www.heapmedia.com/)
 
   
 
