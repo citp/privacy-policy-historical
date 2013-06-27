@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the spanx.com privacy policy that was archived on 2012-10-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121015024613id_/http%3A//www.spanx.com/category/index.jsp%3FcategoryId%3D12969355) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the spanx.com privacy policy that was archived on 2013-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130627034343id_/http%3A//www.spanx.com/category/index.jsp%3FcategoryId%3D12969355) for the most accurate reproduction.*
 
 # Spanx.com - Our Privacy Policy
 
