@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the rubytuesday.com privacy policy that was archived on 2012-11-17.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121117004428id_/http%3A//www.rubytuesday.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the rubytuesday.com privacy policy that was archived on 2013-06-27.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130627144935id_/http%3A//rubytuesday.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd"><html lang="en"><head><meta http-equiv="Content-Type" content="text/html; charset=utf-8"><title>
 	
@@ -7,11 +7,14 @@
     Privacy Policy - Ruby Tuesday
 
 
-</title><meta name="description" content="From our endless Fresh Garden Bar to Fork-Tender Ribs and our signature New Orleans Seafood to Steak &amp; Lobster Tail, we can satisfy any craving. And we serve all with gracious hospitality in comfortable, up-to-date surroundings. Better quality, better variety, better value. Only at Ruby Tuesday."><link rel="Shortcut Icon" href="/favicon.ico"><meta name="viewport" content="width = 1020">
+</title><meta name="description" content="From our endless Fresh Garden Bar to Fork-Tender Ribs and our signature New Orleans Seafood to Steak &amp; Lobster Tail, we can satisfy any craving. And we serve all with gracious hospitality in comfortable, up-to-date surroundings. Better quality, better variety, better value. Only at Ruby Tuesday."><link rel="Shortcut Icon" href="/favicon.ico"><meta name="viewport" content="width = 1020"><meta property="og:title" content="Ruby Tuesday"><meta property="og:type" content="restaurant"><meta property="og:url" content="http://www.rubytuesday.com"><meta property="og:image" content="/content/img/logo90x90.jpg">
+
+
+
      <!--Webfonts script-->
     <script type="text/javascript" src="http://fast.fonts.com/jsapi/dcb3cdcb-5070-4425-838e-aac6f13f2750.js?v=2.0"></script>
 
-    <link rel="stylesheet" type="text/css" href="/compressor.ashx?css=rt1,fancybox&amp;v=1.1">
+    <link rel="stylesheet" type="text/css" href="/compressor.ashx?css=rt1,fancybox&amp;v=1.3">
 
     <script src="http://ds.serving-sys.com/BurstingRes/CustomScripts/mmConversionTag.js"></script>
     
@@ -40,7 +43,7 @@
 <meta property="fb:app_id" content="162187530478462">
    
 </head>
-<body class="unknown0">
+<body class="mozilla5">
 	<div id="pre-header" style="display: none;">
 		Please <a href="http://support.microsoft.com/gp/howtoscript" target="_blank">enable javascript</a> in your browser to use this site.
 	</div>
@@ -233,7 +236,7 @@ We are committed to following the Safe Harbor Principles for all personal inform
 					
 					<li id="footer-faq"><a href="/faq/">FAQ</a></li>
 				</ul>
-				<div id="footer-copyright" class="fancy-sans">© 2012 Ruby Tuesday, Inc. All Rights Reserved | <a href="/privacy/">Privacy Policy</a></div>
+				<div id="footer-copyright" class="fancy-sans">© 2013 Ruby Tuesday, Inc. All Rights Reserved | <a href="/privacy/">Privacy Policy</a></div>
 			</div>
 			<div class="footer-right">
 				<ul id="social">
@@ -250,10 +253,15 @@ We are committed to following the Safe Harbor Principles for all personal inform
     
     <!-- google js -->
 	<script type="text/javascript" src="http://www.google.com/jsapi"></script>
+    
+    
+    
+
+
 	<script type="text/javascript" charset="utf-8">
 		google.load("jquery", "1.4.2", { uncompressed: false });
 		//google.load("maps", "2", { "other_params": "client=gme-rubytuesday&sensor=false" });
-		google.load("maps", "2");
+		//google.load("maps", "3", { other_params: 'client=gme-rubytuesday&sensor=false' });
         var roadBlockId = 2;
 		function onLoad() {
 			pageReady();
@@ -274,12 +282,19 @@ We are committed to following the Safe Harbor Principles for all personal inform
         * microsoftmvcajax.js
      -->
     <script type="text/javascript" src="/content/js/compressed/libs.js"> </script>
+    
+    
+    <link href="/content/css/jquery.bxslider.css" rel="stylesheet">
+    
+    <script type="text/javascript" src="/Content/js/jquery.bxslider.min.js"></script>
+    
 
     <!--Page specific javascript - Reserve A Table. Feedback-->
     
     
 
-
+    
+    <script type="text/javascript" src="/Content/js/jquery.ui.datepicker.js"></script>
     <!-- Site specific javascript -->
     <script type="text/javascript" src="/compressor.ashx?js=rt,tracking"></script> 
     
@@ -289,6 +304,24 @@ We are committed to following the Safe Harbor Principles for all personal inform
         -->
         </script>
     
+    
+
+
+
+<script>
+
+    $(document).ready(function () {
+        $('.btn-viewonta').click(function (e) {
+            e.preventDefault();
+            var linkUrl = $(this).parent().children('div').find('a').attr('href');
+            window.open(linkUrl, "_tab");
+        });
+        $('.location-loc-tripadvisor .TA_logoWidget div a').each(function (i, u) {
+            var linkurl = $(this).attr('href');
+            $(this).parent().parent().parent().find('a.btn-viewonta').attr('href', linkurl);
+        });
+    });
+</script>
 
     <!-- Google Code for All Site Visitors Remarketing List --> 
 	<!-- removing for now end of campaing per Tim "Please save comment out current code so we have an easy refresh back to original at the end of the campaign" -->
