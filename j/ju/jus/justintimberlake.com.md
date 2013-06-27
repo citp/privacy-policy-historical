@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the justintimberlake.com privacy policy that was archived on 2012-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121231230728id_/http%3A//justintimberlake.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the justintimberlake.com privacy policy that was archived on 2013-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130627023533id_/http%3A//justintimberlake.com/privacy-policy) for the most accurate reproduction.*
 
 # Justin Timberlake | Privacy Policy
 
@@ -48,7 +48,7 @@ Certain Third Party Transactions. Tennman Digital may work with its business par
 
 ### 3\. CHILDREN
 
-Tennman Digital does not knowingly collect or solicit personal information from anyone under the age of 13 or knowingly allow such persons to register. If you are under 13, you should not attempt to register for the Website or Services or send information about yourself to us, including your name, address, telephone number, or email address. No one under age 13 may provide any personal information to or on the Website. If a child under 13 submits information through any part of the Website without verification of parental consent, and we learn the person submitting the information is a child or such consent has not been verified, we will attempt to delete this information as soon as possible. Because we do not knowingly collect any personal information from children under 13, we do not use or disclose such information to third parties. If you believe that Tennman Digital may have any information about a child under 13, please contact us at  _360 Ritch Street, 3rd Floor, San Francisco, CA 94107_.
+Tennman Digital does not knowingly collect or solicit personal information from anyone under the age of 13 or knowingly allow such persons to register. If you are under 13, you should not attempt to register for the Website or Services or send information about yourself to us, including your name, address, telephone number, or email address. No one under age 13 may provide any personal information to or on the Website. If a child under 13 submits information through any part of the Website without verification of parental consent, and we learn the person submitting the information is a child or such consent has not been verified, we will attempt to delete this information as soon as possible. Because we do not knowingly collect any personal information from children under 13, we do not use or disclose such information to third parties. If you believe that Tennman Digital may have any information about a child under 13, please contact us at _P.O. Box 11740, Beverly Hills, CA 90213_.
 
 ### 4\. SECURITY
 
@@ -56,7 +56,7 @@ No data transmissions over the Internet can be guaranteed to be 100% secure. Con
 
 You understand and acknowledge that, even after removal, copies of your information or Content posted by you may remain viewable in cashed or archived pages or if other users who you permitted to access your information have copied or stored your information.
 
-If Tennman Digital learns of a security systems breach we may attempt to notify you electronically so that you can take appropriate protective steps. By using this Website or providing personal information to us, you agree that we can communicate with you electronically regarding security, privacy and administrative issues relating to your use of the Website. Tennman Digital may post a notice on our Website if a security breach occurs. If this happens, you will need a web browser enabling you to view the Website. In these circumstances, Tennman Digital may also send an email to you at the email address you have provided to us. Depending on where you live, you may have a legal right to receive notice of a security breach in writing. To receive free written notice of a security breach (or to withdraw your consent from receiving electronic notice) you should notify us at  _360 Ritch Street, 3rd Floor, San Francisco, CA 94107_.
+If Tennman Digital learns of a security systems breach we may attempt to notify you electronically so that you can take appropriate protective steps. By using this Website or providing personal information to us, you agree that we can communicate with you electronically regarding security, privacy and administrative issues relating to your use of the Website. Tennman Digital may post a notice on our Website if a security breach occurs. If this happens, you will need a web browser enabling you to view the Website. In these circumstances, Tennman Digital may also send an email to you at the email address you have provided to us. Depending on where you live, you may have a legal right to receive notice of a security breach in writing. To receive free written notice of a security breach (or to withdraw your consent from receiving electronic notice) you should notify us at  _P.O. Box 11740, Beverly Hills, CA 90213_.
 
 ### 5\. INTERNATIONAL VISITORS AND CUSTOMERS
 
@@ -80,14 +80,14 @@ When you provide Tennman Digital with personal information, you agree that we ma
 
 ### 8\. CONTACTING TENNMAN DIGITAL
 
-If you have any questions, comments, or concerns about this Privacy Policy, or would like to make changes to your personal information or contact preferences, or delete personal information you have provided to us, please email us at [support@tennmandigital.com](mailto:support@tennmandigital.com). You may make changes to your personal information or contact preferences through the Website after you login using your username and password.
+If you have any questions, comments, or concerns about this Privacy Policy, or would like to make changes to your personal information or contact preferences, or delete personal information you have provided to us, please email us at [support@justintimberlake.com](mailto:support@justintimberlake.com). You may make changes to your personal information or contact preferences through the Website after you login using your username and password.
 
 #### Postal Mail Address:
 
 _Tennman Digital LLC  
-360 Ritch St., 3rd Floor  
-San Francisco, CA 94107_
+P.O. Box 11740  
+Beverly Hills, CA 90213_
 
-If you have a privacy concern regarding Tennman Digital or this Privacy Policy and if you cannot satisfactorily resolve it through the use of this Website you should then write to: 360 Ritch Street, 3rd Floor, San Francisco, CA 94107. In the event that we are still unable to resolve your concerns Tennman Digital is committed to cooperating to achieve a proper resolution of your privacy concerns.
+If you have a privacy concern regarding Tennman Digital or this Privacy Policy and if you cannot satisfactorily resolve it through the use of this Website you should then write to: _P.O. Box 11740, Beverly Hills, CA 90213_. In the event that we are still unable to resolve your concerns Tennman Digital is committed to cooperating to achieve a proper resolution of your privacy concerns.
 
 **Effective Date: May 8, 2009**
