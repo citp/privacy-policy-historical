@@ -1,18 +1,18 @@
-> *The following text is extracted and transformed from the chargers.com privacy policy that was archived on 2012-10-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121005150535id_/http%3A//www.chargers.com/footer/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chargers.com privacy policy that was archived on 2013-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130627165417id_/http%3A//www.chargers.com/footer/privacy-policy.html) for the most accurate reproduction.*
 
 # San Diego Chargers | Privacy Policy
 
 ###### San Diego Chargers Website Privacy Policy
 
-[](http://www.truste.org/ivalidate.php?companyName=National%20Football%20League&sealid=101&ctv_group=San%20Diego%20Chargers "TRUSTe Verify Mark") **Revised policy updated as of February 17, 2006.**
+**Revised policy updated as of June 4, 2013.**
 
-This privacy policy applies to the San Diego Chargers' website located at [www.chargers.com](http://www.chargers.com/) and [www.sandiegochargers.com](http://www.sandiegochargers.com/) (the "Website"). The purpose of this privacy policy is to disclose to you what information we may collect, how we may collect it, with whom we may share it, and certain other matters related to such information, including the choices you have regarding our collection of information and our use and disclosure to other parties of information we may have collected from you.
+This privacy policy applies to the San Diego Chargers' website located at www.chargers.com and (the "Website"). The purpose of this privacy policy is to disclose to you what information we may collect, how we may collect it, with whom we may share it, and certain other matters related to such information, including the choices you have regarding our collection of information and our use and disclosure to other parties of information we may have collected from you.
 
 The Website is operated by the San Diego Chargers.
 
-The San Diego Chargers is a licensee of the TRUSTe Privacy Program. TRUSTe is an independent, non-profit organization whose mission is to build user's trust and confidence in the Internet by promoting the use of fair information practices. This privacy statement covers the sites [www.sandiegochargers.com](http://www.chargers.com/%3Ewww.chargers.com%3C/A%3E%20and%20%3CA%20href=) . Because this Web site wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices and have its privacy practices reviewed for compliance by TRUSTe.
+The San Diego Chargers has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with [TRUSTe's program requirements](http://www.truste.com/privacy_seals_and_services/consumer_privacy/privacy-programs-requirements.html) including transparency, accountability and choice regarding the collection and use of your personal information.  The TRUSTe program covers the site www.chargers.com.   TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions.
 
-If you have questions or concerns regarding this statement, you should first contact us at [webmaster@chargers.com](mailto:webmaster@chargers.com) . If you do not receive acknowledgement of your inquiry or your inquiry has not been satisfactorily address, you should contact TRUSTe at <http://www.truste.org/consumers/watchdog_complaint.php>. TRUSTe will then serve as a liaison with us to resolve your concerns.
+If you have questions or concerns regarding this statement, you should first contact us at [webmaster@chargers.nfl.com](mailto:webmaster@chargers.nfl.com). If you are not satisfied with our response you can contact [TRUSTe here](http://watchdog.truste.com/pvr.php?page=complaint)..
 
 The TRUSTe program covers only information that is collected through this Web site, and does not cover information that may be collected through software downloaded from this site.
 
@@ -78,7 +78,7 @@ WITH WHOM THE INFORMATION MAY BE SHARED
 At times, we may share your personal information with others for various purposes. The following outlines the ways in which your information may be shared with others and the ways in which you may opt-out of having your information shared:
 
   * **Agents:** We employ other businesses, certain services and individuals to perform functions on our behalf. Examples include fulfilling orders, sending e-mail, removing repetitive information from customer lists, Website analysis, analyzing data, providing marketing assistance, processing credit card payments, and providing customer service. They may have access to personally identifiable information needed to perform their functions, but may not use it for their own purposes, like sending you marketing offers about their products.
-  * **Dreams Retail** ([http://shop.chargers.com](http://shop.chargers.com/)), **Ticketmaster** ([http://www.ticketmaster.com](http://www.ticketmaster.com/)) and **LoadMail** ([http://webmail.gobolts.com](http://webmail.gobolts.com/)) are powered by these individual companies and their privacy policies apply to all information collected. Some of these sites may have the look and feel of the Chargers, but you are actually entering your information on these third party sites. Aggregate Information: We may share aggregate information, such as demographics and Website usage statistics, with advertisers, sponsors or other organizations. When this type of information is shared, the other parties do not have access to your personally identifiable information.
+  * **Dreams Retail** (http://shop.chargers.com), **Ticketmaster** (http://www.ticketmaster.com) and **LoadMail** (http://webmail.gobolts.com) are powered by these individual companies and their privacy policies apply to all information collected. Some of these sites may have the look and feel of the Chargers, but you are actually entering your information on these third party sites. Aggregate Information: We may share aggregate information, such as demographics and Website usage statistics, with advertisers, sponsors or other organizations. When this type of information is shared, the other parties do not have access to your personally identifiable information.
   * **Other Promotional Offers:** We may send offers to you on behalf of our marketing partners. When we do this, we do not give that partner your name and address. If you do not want to receive such offers, you may use the opt out method detailed in the email or change your preferences by logging into your account.
   * **Third-Party Ad Serving & Audience and Traffic Measurement Services:** The Website may use a third party network advertiser to serve the advertisements on the Website or may use a traffic measurement service to analyze the traffic on the Website. Network advertisers are third parties that display advertisements based on your visits to this Website and other Websites you have visited. Third-party ad serving enables us to target advertisements to you for products or Websites you might be interested in. Audience and Traffic Measurement Services allow us to collect anonymous traffic and behavior information from our Website by monitoring anonymous visitor activity. Although advertisers or other companies do not have access to the Website cookies, the Website's advertisers, sponsors and/or traffic measurement services may themselves set and access their own cookies on your computer if you choose to have your cookies enabled in your browser. Cookies allow third party advertisers to show you advertisements or content you might be interested in. Other companies' use of their cookies is subject to their own privacy policies, not this one.
   * **Business Transfers:** In the event that all or substantially all of our assets are sold or transferred to another party, or another transaction occurs in which your personally identifiable information is one of the business assets transferred, all personally identifiable information that has been collected and saved may be one of the business assets we transfer. Please see "Your Acceptance of the Privacy Policy and Notification of Changes to the Policy" section below.
@@ -92,38 +92,36 @@ This Website incorporates reasonable safeguards to protect the security, integri
 
 CHAT ROOMS, FORUMS, AND MESSAGE BOARDS
 
-The Website may make chat rooms, forums and message boards available to its users. You are not required to provide any personal information when using these areas but you may choose to do so. If you post personal information online, it will be publicly available and you may receive unsolicited messages from other parties. We cannot ensure the security of any information you choose to make public in a chat room, forum, or message board. Also, we cannot ensure that parties who have access to such publicly available information will respect your privacy. Please exercise caution when deciding to disclose personal information in these areas.
+The Website may make chat rooms, forums and message boards available to its users. You are not required to provide any personal information when using these areas but you may choose to do so. If you post personal information online, it will be publicly available and you may receive unsolicited messages from other parties. We cannot ensure the security of any information you choose to make public in a chat room, forum, or message board. Also, we cannot ensure that parties who have access to such publicly available information will respect your privacy. Please exercise caution when deciding to disclose personal information in these areas. To request removal of your personal information from our community forum, contact us at [webmaster@chargers.nfl.com](mailto:webmaster@chargers.nfl.com).  In some cases, we may not be able to remove your personal information, in which case we will let you know if we are unable to do so and why.
 
-LINKS TO OTHER WEBSITES
+SOCIAL MEDIA (Features) AND WIDGETS:   
+Our Web site includes Social Media Features, such as the Facebook Like button and Widgets, such as the Share this button or interactive mini-programs that run on our site. These Features may collect your IP address, which page you are visiting on our site, and may set a cookie to enable the Feature to function properly. Social Media Features and Widgets are either hosted by a third party or hosted directly on our Site. Your interactions with these Features are governed by the privacy policy of the company providing it.
 
+LINKS TO OTHER WEBSITES  
 You should be aware that when you are on the Website you could be directed to other Websites beyond our control. For example, if you "click" on a banner advertisement, the "click" may take you off the Website onto a different Website. This includes links from advertisers, sponsors and marketing partners that may use the Website's logo as part of a co-branding agreement. These other Websites may send their own cookies to you, independently collect data or solicit personal information and may or may not have their own published privacy policies. If you visit a Website that is linked to our Website, you should consult that Website's privacy policy before providing any personal information.
 
-A SPECIAL NOTE FOR PARENTS CONCERNING PRIVACY
-
-The Website is a general audience Website. We do not currently collect any personal information from children under the age of thirteen on the Website. If in the future, we collect personally identifiable information from children, it will do so in compliance with the Children's Online Privacy Protection Act of 1998 (15 U.S.C. 6501 et seq.) including, without limitation, obtaining necessary parental consent.
-
+A SPECIAL NOTE FOR PARENTS CONCERNING PRIVACY  
+The Website is a general audience Website. We do not currently collect any personal information from children under the age of thirteen on the Website. If in the future, we collect personally identifiable information from children, it will do so in compliance with the Children's Online Privacy Protection Act of 1998 (15 U.S.C. 6501 et seq.) including, without limitation, obtaining necessary parental consent.  
 The Internet offers children wonderful educational and entertainment resources. Your guidance and involvement are essential to help ensure that children have a safe and rewarding online experience. We encourage you to visit the Direct Marketing Association's Web Website (www.the-dma.org) and explore the Get CyberSavvy! Program as well as the GetNetWise Website (www.getnetwise.org) to learn more about parental control tools.
 
-YOUR ACCEPTANCE OF THE PRIVACY POLICY AND NOTIFICATION OF CHANGES TO THE POLICY
-
+YOUR ACCEPTANCE OF THE PRIVACY POLICY AND NOTIFICATION OF CHANGES TO THE POLICY  
 By using this Website, you signify your agreement to the terms of our privacy policy. We may amend this privacy policy at any time. If we make a material change to the way in which we collect, use, and/or share your personal information, we will post a notice on our website and / or send an email to users who have provided an email address. We will assume that you have given your permission for your information to be used under the terms of the new privacy policy, if you do not respond to our email within thirty days or continue to use the Website thirty days after a notice is posted. Please note that you should always update your personal information to provide us with a current email address.
 
-CORRECTING/UPDATING PERSONAL INFORMATION
+CORRECTING/UPDATING PERSONAL INFORMATION  
+If your personally identifiable information changes (such as your email address or zip code), or if you no longer desire to access our Website, we will endeavor to provide a way to correct, update or remove the personal data you have provided to us. This can be done in the Fan Forum section by making changes to your message board profile, by using an opt out message in an email, or by emailing us at [webmaster@chargers.nfl.com](mailto:webmaster@chargers.nfl.com). We will respond to your access request within 30 days.
 
-If your personally identifiable information changes (such as your email address or zip code), or if you no longer desire to access our Website, we will endeavor to provide a way to correct, update or remove the personal data you have provided to us. This can be done in the Fan Forum section by making changes to your message board profile, by using an opt out message in an email, or by emailing us at [webmaster@chargers.nfl.com](mailto:webmaster@chargers.nfl.com).
+DATA RETENTION **:**   
+We will retain your information for as long as your account is active or as needed to provide you services. If you wish to cancel your account or request that we no longer use your information to provide you services contact us at webmaster@chargers.nfl.com.  We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.
 
-YOUR CALIFORNIA PRIVACY RIGHTS
-
+YOUR CALIFORNIA PRIVACY RIGHTS  
 A California privacy law that went into eTRUSTe Trust Markffect on January 1, 2005, allows California residents to obtain specific information about a business's privacy practices if it shares information with other companies for those companies' direct marketing purposes.
 
 As explained in this privacy policy, whenever you agree to let us collect personal information about you, we will always provide you with an option to prevent this information from being shared for non-administrative purposes with third parties. You can exercise this option at any time by following the steps outlined above.
 
-Because this website has a comprehensive privacy policy and provides you with details on how you may opt-in / opt-out of the use of your personal information by third parties for direct marketing purposes, we are not required to provide you with this information.
-
+Because this website has a comprehensive privacy policy and provides you with details on how you may opt-in / opt-out of the use of your personal information by third parties for direct marketing purposes, we are not required to provide you with this information.  
 If you are a California resident and have questions about our compliance with this law, please send an email to webmaster@chargers.nfl.com or write to us at San Diego Chargers, Website CA Privacy Rights, 4020 Murphy Canyon Rd, San Diego, CA 92123.
 
-QUESTIONS ABOUT THIS PRIVACY POLICY
-
+QUESTIONS ABOUT THIS PRIVACY POLICY  
 If you have any questions about this privacy policy or the privacy practices of this Website, contact [webmaster@chargers.nfl.com](mailto:webmaster@chargers.nfl.com)
 
 Questions regarding this statement should be directed to:
@@ -132,3 +130,5 @@ San Diego Chargers,
 Attn: Website Privacy Policy  
 4020 Murphy Canyon Rd  
 San Diego, CA 92123.
+
+[](https://privacy.truste.com/privacy-seal/National-Football-League/validation?rid=1c2d20ff-1fdb-4a61-938b-81d828f4bf50 "TRUSTe online privacy certification")
