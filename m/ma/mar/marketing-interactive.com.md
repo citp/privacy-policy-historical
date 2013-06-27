@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the marketing-interactive.com privacy policy that was archived on 2012-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121229085816id_/http%3A//www.marketing-interactive.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the marketing-interactive.com privacy policy that was archived on 2013-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130628015014id_/http%3A//marketing-interactive.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Market-interactive.com
 
@@ -8,7 +8,7 @@ Sometimes third parties, called third-party ad servers or ad networks, deliver a
 
 Please be assured that we take your concerns about privacy quite seriously, and we intend to take every reasonable effort to protect it. To that end, Lighthouse Independent Media has developed a comprehensive privacy policy. If you'd like more information about our use of customer data, please review Lighthouse Independent Media Customer Privacy Policy Statement below.
 
-Questions or comments can be sent to [Justin Randles](mailto:jr@marketing-interactive.com).
+Questions or comments can be sent to [June Tan](mailto:dns-hk@marketing-interactive.com).
 
 If you prefer not to receive relevant business information from companies outside Lighthouse Independent Media, you may contact our circulations department at [subscriptions@marketing-interactive.com](mailto:subscriptions@marketing-interactive.com).                  
 
