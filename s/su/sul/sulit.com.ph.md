@@ -1,16 +1,14 @@
-> *The following text is extracted and transformed from the sulit.com.ph privacy policy that was archived on 2012-11-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121117165053id_/http%3A//www.sulit.com.ph/index.php/faq%2Bview/category/11/Sulit.com.ph%2BRules%2Band%2BPolicies%23f61) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sulit.com.ph privacy policy that was archived on 2013-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130627203849id_/http%3A//www.sulit.com.ph/index.php/faq%2Bview/category/11/Sulit.com.ph%2BRules%2Band%2BPolicies%23f61) for the most accurate reproduction.*
 
 # FAQ - Sulit.com.ph Rules and Policies Philippines
 
-Introduction
+**Introduction**
 
-Sulit.com.ph respects each individual’s right to personal privacy.  We will collect and use information through our Web site only in the ways disclosed in this statement.  This statement applies solely to information collected at Sulit.com.ph’s Web site.
+Sulit.com.ph respects each individual’s right to personal privacy.  We will collect and use information through our Website only in the ways disclosed in this statement.  This statement applies solely to information collected at Sulit.com.ph’s Website.
 
-Part I.  Information Collection  
+**Part I.   Information Collection**
 
-
-Sulit.com.ph collects information through our Web site at several points.  We collect the following information about primary visitors: Name and E-mail Address.  
-
+Sulit.com.ph collects information through our Website at several points.  We collect the following information about primary visitors: Name and E-mail Address.
 
 Sulit.com.ph does not actively market to children, and we never knowingly ask a child under eighteen (18) to divulge personal information.
 
@@ -22,38 +20,38 @@ We do employ cookies. A cookie is a small text file that our Web server places o
 
 We store the IP address of the computer or device used to access our system.  IP address is a unique identifier that identifies your computer or device in the internet.
 
-Part II.  Information Usage.
+**Part II.   Information Usage.**
 
 The information collected by Sulit.com.ph will be used for the purpose of getting in touch with the members.  Users who provide information will receive e-mail notification services regarding items posted in our system.
 
 Registered users will receive additional announcements from us about products, services, special deals, and a newsletter. Out of respect for the privacy of our users we present the option not to receive these types of communications.
 
-The information we collect will not be used to create customer profiles based on browsing or purchasing history.  We will not supplement information collected at our Web site with data from other sources.
+The information we collect will not be used to create customer profiles based on browsing or purchasing history.  We will not supplement information collected at our Website with data from other sources.
 
-We will not share data with any third parties; provided that, in the event that Sulit.com.ph is directed by any competent governmental authority to disclose such data, Sulit.com.ph shall not be held liable for such disclosure.
+Subject always to applicable law, Sulit.com.ph may share the data of users and members (particularly, names and contact information such as email addresses and phone numbers) with companies that form part of the same group of companies as Sulit.com.ph (the "Group Companies"). Such sharing of data shall solely be for the purpose of allowing the Group Companies to offer their respective services/products to users and members if, in Sulit.com.ph's opinion, the users and members will be interested in such services/products.
 
-We offer links to other Web sites.  Please note: When you click on links to other Web sites, we encourage you to read their privacy policies.  Their standards may differ from ours.
+Sulit.com.ph may be directed by any competent governmental authority to disclose such data. In those cases, Sulit.com.ph shall not be held liable for the disclosure.
 
-Our Web site offers listings, chats, forums and/or message boards.  Please be advised that information posted in these venues becomes public knowledge.
+We offer links to other Websites.  Please note: When you click on links to other Websites, we encourage you to read their privacy policies.  Their standards may differ from ours.
+
+Our Website offers listings, chats, forums and/or message boards.  Please be advised that information posted in these venues becomes public knowledge.
 
 The IP address of the computer or device related to your last access to our system will be used to identify its location (town, city and country).  This location will be added to all data that you have submitted to the system.
 
 If our policy on information collection or uses changes, we will advise you through our monthly newsletter or by posting an announcement through our system.
 
-Part III.  Access to Information  
+**Part III.   Access to Information**
 
+Sulit.com.ph maintains the accuracy of our information.  Users may access their own personal information and change any inaccuracies they may find by updating their profile.  Users may delete their information from our database by updating their profile or sending us a support ticket to deactivate their member account.
 
-Sulit.com.ph maintains the accuracy of our information.  Users may access their own personal information and change any inaccuracies they may find by updating their profile.  Users may delete their information from our database by updating their profile or sending us a support ticket to inactivate their member account.
-
-Part IV. Problem Resolution
+**Part IV. Problem Resolution**
 
 If problems arise, members and/or users may contact Sulit.com.ph by submitting a support ticket at our Help Center.  We are committed to resolving disputes within the most expedient time.
 
-Part V. Data Storage and Security  
+**Part V. Data Storage and Security**
 
+Sulit.com.ph uses reasonable endeavors to protect user information by using secure servers. Nonetheless, Sulit.com.ph may not be held liable for any loss of information and/or data.
 
-Sulit.com.ph protects user information by using secure servers. Nonetheless, Sulit.com.ph may not be held liable for any loss of information and/or data.
+**Part VI. Third Party Advertising**
 
-Part VI. Third Party Advertising
-
-We use third-party advertising companies to serve ads when you visit our website. These companies may use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, [click here](http://www.networkadvertising.org/managing/opt_out.asp).
+We use third-party advertising companies to serve ads when you visit our Website. These companies may use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, [click here](http://www.networkadvertising.org/managing/opt_out.asp).
