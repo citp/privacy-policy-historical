@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the timesofindia.com privacy policy that was archived on 2012-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121231190927id_/http%3A//www.indiatimes.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the timesofindia.com privacy policy that was archived on 2013-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130627055348id_/http%3A//www.indiatimes.com/privacypolicy) for the most accurate reproduction.*
 
-# Indiatimes: India News, Business, Movies, Cricket, Shopping, more...
+# Privacy Policy | Indiatimes.com
 
 Times Internet Ltd, (TIL) a wholly owned subsidiary of Bennett Coleman & Co. Limited. Indiatimes located at [in.indiatimes.com](http://in.indiatimes.com/) is the mother brand of TIL and powers / manages the Online Properties (Brand Names) of the 'Times Group' interalia [www.timesofindia.com](http://www.timesofindia.com/), [www.economictimes.com](http://www.economictimes.com/), [www.navbharattimes.com](http://www.navbharattimes.com/), [www.maharashtratimes.com](http://www.maharashtratimes.com/) including various internet sites and community boards and services, to name a few, (Indiatimes Channels) hereinafter collectively referred to as TIL. 
 
