@@ -1,26 +1,24 @@
-> *The following text is extracted and transformed from the moiz.co.uk privacy policy that was archived on 2012-10-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121029034405id_/http%3A//www.emoiz.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the moiz.co.uk privacy policy that was archived on 2013-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130627234549id_/http%3A//www.moiz.co.uk/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | EMOIZ.COM
+# Privacy Policy | MOIZ.CO.UK
 
 We keep and maintain our visitors information while they visit **EMOIZ.COM** or create an account on it. We just use this information to evaluate the interests, likes, dislikes and preferences of our visitors. Here we conform that your stored data on our side is completely safe and we are not allowed to sell it to anyone else. Furthermore, you can read our following statement, which tells that what type of visitor information we keep.
 
- **Visitor Log**  
+**Visitor Log**  
 We maintain the log files to keep the information of visitors. Information stored includes:
 
   * Your Computer IP address
   * ISP (internet service provider) information
-  * Internet browser application (IE, Firefox, Opera etc) information, which you are using while visiting emoiz.com
+  * Internet browser application (IE, Firefox, Opera etc) information, which you are using while visiting moiz.co.uk
   * Time stamp includes time when you visit our web site
   * Web Pages which are visited by you
 
 
 
- **Cookies**  
-[](http://www.naeem.pk/)[](http://www.naeem.pk/ "Naeem")
-
+**Cookies**  
 We use web Cookies to store visitors or account holders information on **EMOIZ.COM**. Cookies keep track of your authentication, session tracking. These just relate to your site preferences and we use it to maintain user information. Moreover, cookies depict the visitor interaction with our site.
 
- **Advertisers**  
+**Advertisers**  
 Different advertisement companies support our site **EMOIZ.COM**. They may acquire from us the information regarding our visitors in a sense that what the advantage they could get from placing their advertisement on our site or what type of advertisements they could place. As Google AdSense Program gives us opportunity to place the relevant Google adds on our site. So, the visitor’s log files and cookies could be demanded by the advertisers.
 
 Advertisers are using different technologies to evaluate the visitor’s information which supports to their further decisions regarding advertisements. They also want to get the information about the geographical locations of visitors. By doing this they just mean to target the right segment of customer ship by their ads. For example when someone visits **EMOIZ.COM** form Asia or Europe, he’ll find advertisement according to his geographical location and mostly related to our web contents. That’s why we have to provide our visitor information or log files to the advertisers.
