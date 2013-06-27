@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the usatoday.com privacy policy that was archived on 2012-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121231182346id_/http%3A//www.usatoday.com/legal/privacynotice.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the usatoday.com privacy policy that was archived on 2013-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130627030417id_/http%3A//www.usatoday.com/legal/privacynotice.html) for the most accurate reproduction.*
 
 # USA TODAY
 
@@ -57,7 +57,9 @@ Please also note that as our business grows, we may buy or sell various assets. 
 
 ## Data Collected in Connection with Ad Serving and Targeting
 
-We operate in compliance with the Digital Advertising Alliance's Self-Regulatory Principles for Online Behavioral Advertising, [www.aboutads.info](http://www.aboutads.info/). We may use cookies, web beacons and similar technologies, and/or a third-party ad serving software, to automatically collect information about site users and site activity, and we may use this information to, among other things, serve targeted advertisements on this site. The information collected allows us to analyze how users use the site and to track user interests, trends and patterns, thus allowing us to deliver more relevant advertisements to users.
+We operate in compliance with the Digital Advertising Alliance's Self-Regulatory Principles for Online Behavioral Advertising, [www.aboutads.info](http://www.aboutads.info/).
+
+We may use cookies, web beacons and similar technologies, and/or a third-party ad serving software, to automatically collect information about site users and site activity, and we may use this information to, among other things, serve targeted advertisements on this site. The information collected allows us to analyze how users use the site and to track user interests, trends and patterns, thus allowing us to deliver more relevant advertisements to users.
 
 We also may use third-party service providers, to target and serve some of the advertisements you see on the pages of our Site. We may share technical or aggregate information about your interaction with our Site, such as type of pages viewed and categories of interest, from our Site with these service providers for their use in displaying ads on our Site. These providers may use their own cookies, web beacons and similar technologies to collect similar information from our Site. These service providers may use that information, sometimes in conjunction with similar information gathered through other websites, to deliver advertisements on this Site, and on other websites that participate in our service providers’ advertising networks, that are tailored to match the perceived interests of consumers. The information obtained by our third-party service providers also may be used to help measure and research an advertisement’s effectiveness, or for other purposes.
 
