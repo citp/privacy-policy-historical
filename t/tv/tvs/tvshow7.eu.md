@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the tvshow7.eu privacy policy that was archived on 2012-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121130073807id_/http%3A//www.tvshow7.eu/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tvshow7.eu privacy policy that was archived on 2013-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130627154933id_/http%3A//www.tvshow7.eu/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Tv Show7
+# Privacy Policy
 
 Never trifle with privacy… Consequently, Tvshow7.eu takes the confidentiality of your personal information into account. Hereinafter, you will find a record that can help you understand which data we collect, how we gather it, how we use it and the circumstances under which we may share it. Predominantly, there is picked non-personal information that allows us to know how the website works, such as statistical and other analytical data from an aggregate basis of all visitors to Tvshow7.eu.
 
