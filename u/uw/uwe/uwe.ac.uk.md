@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the uwe.ac.uk privacy policy that was archived on 2012-10-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121010063735id_/http%3A//www.uwe.ac.uk/aboutus/websiteinformation/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the uwe.ac.uk privacy policy that was archived on 2013-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130627133806id_/http%3A//www.uwe.ac.uk/aboutus/websiteinformation/privacy) for the most accurate reproduction.*
 
 # Privacy - UWE Bristol: Website information
 
@@ -56,7 +56,7 @@ You should not use the e-mail facility within Blackboard to e-mail _en masse_ to
 
 The following relates to e-mails that link to this page at their base.
 
-Using the information that you provided on registration UWE may, from time to time, contact you by e-mail. UWE uses [Emailcenter UK](http://www.emailcenteruk.com/privacy.php) to send such e-mails. Emailcenter UK uses unique identifiers in those e-mails to perform tracking functions. We use the tracking data they collect to ensure our e-mails are both relevant to your interests and also to ensure we do not e-mail you needlessly. You can prevent this tracking by not allowing images to download when you open our e-mails. Information on how to do this can be found online or in your e-mail program instructions. You may choose to opt out of e-mails sent by UWE using the link provided on the e-mail.
+Using the information that you provided on registration UWE may, from time to time, contact you by e-mail. UWE uses [dotMailer](http://www.dotmailer.co.uk/) to send such e-mails. dotMailer uses unique identifiers in those e-mails to perform tracking functions. We use the tracking data they collect to ensure our e-mails are both relevant to your interests and also to ensure we do not e-mail you needlessly. Information on how to disable this can be found online or in your e-mail program instructions. You may choose to opt out of e-mails sent by UWE using the link provided on the e-mail.
 
 UWE does not send unsolicited e-mail. If you appear to have received unsolicited e-mails from us please use the unsubscribe link on the e-mail or contact us and we will remove you from our lists.
 
