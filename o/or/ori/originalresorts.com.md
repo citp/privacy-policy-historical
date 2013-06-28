@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the originalresorts.com privacy policy that was archived on 2012-10-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121001083609id_/http%3A//originalresorts.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the originalresorts.com privacy policy that was archived on 2013-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130629000042id_/http%3A//www.originalresorts.com/privacy.asp) for the most accurate reproduction.*
 
 # Original Resorts Newsletter Temptation Resorts, Desire Resorts, Sea Adventure Resorts
 
