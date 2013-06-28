@@ -1,37 +1,56 @@
-> *The following text is extracted and transformed from the getprismatic.com privacy policy that was archived on 2012-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121120122005id_/http%3A//getprismatic.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the getprismatic.com privacy policy that was archived on 2013-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130629003217id_/http%3A//www.getprismatic.com/privacy) for the most accurate reproduction.*
 
 # Prismatic
+
+Privacy Policy
 
 Your privacy is central to us. We build products and services that are designed to be interesting to you, and in order to do this, we need to understand your interests deeply and broadly, and we know that this relationship must be based on a foundation of mutual trust. We are humbled that you would consider us as your personal servant of interestingness. If we’re going to play nice together, there are a few things we need to talk about:
 
   
 
-* You should assume that, as you interact with Prismatic, we learn more about your interests than any other service you use - that’s our job.
+
+  * You should assume that, as you interact with Prismatic, we learn more about your interests than any other service you use - that’s our job.
+
   
 
-* We respectfully accept that managing your personal information is a necessary part of us doing our job properly. We don’t overstep - we only use your data to help you find more interesting stuff and share it.
+
+  * We respectfully accept that managing your personal information is a necessary part of us doing our job properly. We don’t overstep - we only use your data to help you find more interesting stuff and share it.
+
   
 
-* You can enter Prismatic in stealth mode if you want, without providing any external information. You don’t have to tell us anything about you at all. But since we left our crystal ball at home, we won’t be able to find you any interesting stuff unless you have patience or do more manual labor to get started - and even then, you’ll have a far better experience when you connect other accounts.
+
+  * You can enter Prismatic in stealth mode if you want, without providing any external information. You don’t have to tell us anything about you at all. But since we left our crystal ball at home, we won’t be able to find you any interesting stuff unless you have patience or do more manual labor to get started - and even then, you’ll have a far better experience when you connect other accounts.
+
   
 
-* The more personal information you give us, the better we can do our job on your behalf. Whenever we ask you to connect something, it is always in your service - making it easier to discover new stuff, remember all your interests, uncover new interests, or connect and share with friends. We put a ton of work into helping you find new interests based on your activity on other accounts. We’re working hard on making the Prismatic the most interesting place to find stuff and the easiest place to share it. We care about every little detail that makes it easier for you to share - knowing all the people you might want to share with (i.e. your very broad address book across social networks, email, etc) allows us to add features like cross-network autocomplete, and it lets us help you connect with friends based on common interests.
+
+  * The more personal information you give us, the better we can do our job on your behalf. Whenever we ask you to connect something, it is always in your service - making it easier to discover new stuff, remember all your interests, uncover new interests, or connect and share with friends. We put a ton of work into helping you find new interests based on your activity on other accounts. We’re working hard on making the Prismatic the most interesting place to find stuff and the easiest place to share it. We care about every little detail that makes it easier for you to share - knowing all the people you might want to share with (i.e. your very broad address book across social networks, email, etc) allows us to add features like cross-network autocomplete, and it lets us help you connect with friends based on common interests.
+
   
 
-* We never spam your friends. In order to share, we often need write access to your social accounts. We don’t take this lightly, and we always share only when you take explicit social actions. On that note, we really encourage sharing. If you find interesting stuff on Prismatic, consider sharing it with friends and starting a discussion. If you think you might not have found the story otherwise, we’d love it if you link to us and let your friends know that you found it via Prismatic - it’s helps us grow though the endorsements of satisfied customers. It’s in your interest to limit the amount of time the team spends on marketing because we’ll use that time to make the service better. So we won’t spam your friends, and you shouldn’t either, but a healthy amount of sharing and shout outs to Prismatic never hurts. :)
+
+  * We never spam your friends. In order to share, we often need write access to your social accounts. We don’t take this lightly, and we always share only when you take explicit social actions. On that note, we really encourage sharing. If you find interesting stuff on Prismatic, consider sharing it with friends and starting a discussion. If you think you might not have found the story otherwise, we’d love it if you link to us and let your friends know that you found it via Prismatic - it’s helps us grow though the endorsements of satisfied customers. It’s in your interest to limit the amount of time the team spends on marketing because we’ll use that time to make the service better. So we won’t spam your friends, and you shouldn’t either, but a healthy amount of sharing and shout outs to Prismatic never hurts. :)
+
   
 
-* We have a store-what’s-needed policy; so if we get a bunch of your data from a service you connect, and we only need an aggregated result, like say the top 100 interests we estimate and their weights, or a list of friends, then we will store only the processed result - what we actually need for the on-going operation of one of our services.
+
+  * We have a store-what’s-needed policy; so if we get a bunch of your data from a service you connect, and we only need an aggregated result, like say the top 100 interests we estimate and their weights, or a list of friends, then we will store only the processed result - what we actually need for the on-going operation of one of our services.
+
   
 
-* We don’t share your personal information with anyone except to comply with the law, develop our products, or protect our rights.
+
+  * We don’t share your personal information with anyone except to comply with the law, develop our products, or protect our rights.
+
   
 
-* We make it easy to control what you make public. Your Profile is public by default when you create it, and you can decide to make your Interests and Social Actions public or private.
+
+  * We make it easy to control what you make public. Your Profile is public by default when you create it, and you can decide to make your Interests and Social Actions public or private.
+
+
 
 Below is our privacy policy which incorporates these goals.
 
-If you have questions about deleting or correcting your personal data please [contact feedback](mailto://feedback@getprismatic.com). 
+If you have questions about deleting or correcting your personal data please [send us feedback](mailto:feedback@getprismatic.com).
 
 Woven, Inc. (“Prismatic”) operates websites, mobile applications, and other services including getprismatic.com, iPhone, iPad, and Android applications, and APIs (collectively, the “Services”). It is is Prismatic’s policy to respect your privacy regarding any information we may collect while operating our Services.
 
