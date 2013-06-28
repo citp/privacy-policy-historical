@@ -1,19 +1,18 @@
-> *The following text is extracted and transformed from the responsys.com privacy policy that was archived on 2012-10-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121018185254id_/http%3A//www.responsys.com/legal/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the responsys.com privacy policy that was archived on 2013-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130628190429id_/http%3A//responsys.com/privacy-policy) for the most accurate reproduction.*
 
-# Recognized Leader in Email and Cross-Channel Marketing
+# Legal - Privacy Policy | Responsys
 
-## Effective Date: April 10, 2012
+## Effective Date: January 11, 2013
 
-Responsys, Inc. and its subsidiaries (together, “Responsys,” “us,” “our” or “we”) make the same firm commitment to privacy for our Web site visitors as for our customers using our Web-based hosted service, Responsys Interact®. We created this Online Privacy Policy (“Privacy Policy”) to give you confidence as you visit and use the Responsys Web site, located at [www.responsys.com](http://www.responsys.com/) (the “Web site”), and the Responsys Interact® service (“Service”) to demonstrate our commitment to the protection of your privacy. This Privacy Policy is only applicable to the Web site and Service, and not to any other web sites or services that you may be able to access from the Web site, each of which may have data collection and use practices and policies that differ materially from this Privacy Policy. By using the Responsys Web site or Service, you are agreeing to the terms of this Privacy Policy.
+Responsys, Inc. and its subsidiaries (together, “Responsys,” “us,” “our” or “we”) make the same firm commitment to privacy for our Web site visitors as for our customers using our Web-based hosted service, Responsys Interact®. We created this Online Privacy Policy (“Privacy Policy”) to give you confidence as you visit and use the Responsys Web site, located at [www.responsys.com](http://www.responsys.com/) (the “Web site”), and the Responsys Interact® service (“Service”) to demonstrate our commitment to the protection of your privacy. This Privacy Policy is only applicable to the Web site and Service, and not to any other web sites or services that you may be able to access from the Web site, each of which may have data collection and use practices and policies that differ materially from this Privacy Policy. By using the Responsys Web site or Service, you are agreeing to the terms of this Privacy Policy.
 
 ## Notification of Privacy Policy Changes
 
-We reserve the right to change this Privacy Policy at any time. If we decide to revise this Privacy Policy, we will post a notice at least thirty days prior to making any material changes. If we make material changes to this policy, we will notify you here, by email, or by means of a notice on our home page. Your continued use of the Web site or Service, including use after the posting of any changes to these terms, will be deemed acceptance by you of this Privacy Policy.  
-
+We reserve the right to change this Privacy Policy at any time. If we decide to revise this Privacy Policy, we will post a notice at least thirty days prior to making any material changes. If we make material changes to this policy, we will notify you here, by email, or by means of a notice on our home page. Your continued use of the Web site or Service, including use after the posting of any changes to these terms, will be deemed acceptance by you of this Privacy Policy.
 
 Responsys is a licensee of the TRUSTe Privacy Program, which is further described below.
 
-For privacy questions related to an email message you may have received from a company using Responsys Interact, please see our [Permission Marketing Policy](https://web.archive.org/web/20121018185254id_/http%3A//www.responsys.com/legal/index.php), as well as the privacy policies of the sender(s) of the email message that you received.
+For privacy questions related to an email message you may have received from a company using Responsys Interact, please see our [Permission Marketing Policy](http://www.responsys.com/permission-marketing-policy), as well as the privacy policies of the sender(s) of the email message that you received.
 
 ## Notice Concerning Children
 
@@ -21,9 +20,9 @@ PLEASE NOTE: We are a general audience site, and do not direct any of our conten
 
 ## TRUSTe Privacy Program
 
-Responsys has been awarded TRUSTe's Privacy Seal signifying that this Privacy Policy and our practices have been reviewed by TRUSTe for compliance with TRUSTe’s [Program Requirements](http://www.truste.com/privacy-program-requirements/program_requirements_website_privacy.html) and the [TRUSTed Cloud Program Requirements](http://www.truste.com/privacy-program-requirements/trusted-cloud/index.html) including transparency, accountability and choice regarding the collection and use of your personal information. TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. If you have questions or complaints regarding this Privacy Policy or our practices, please contact us at [privacy@responsys.com](mailto:privacy@responsys.com). If you are not satisfied with our response you can contact [TRUSTe here.](http://watchdog.truste.com/pvr.php?page=complaint)
+Responsys has been awarded TRUSTe's Privacy Seal signifying that this Privacy Policy and our practices have been reviewed by TRUSTe for compliance with TRUSTe’s [Program Requirements](http://www.truste.com/privacy-program-requirements/program_requirements_website_privacy.html) and the [TRUSTed Cloud Program Requirements](http://www.truste.com/privacy-program-requirements/trusted-cloud/index.html) including transparency, accountability and choice regarding the collection and use of your personal information. TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. If you have questions or complaints regarding this Privacy Policy or our practices, please contact us at [privacy@responsys.com](mailto:privacy@responsys.com). If you are not satisfied with our response you can contact [TRUSTe here.](http://watchdog.truste.com/pvr.php?page=complaint)
 
-Responsys complies with the U.S.-EU Safe Harbor framework and the U.S.-Swiss Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use and retention of personal information from European Union member countries and Switzerland. Responsys has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access and enforcement. To learn more about the Safe Harbor program, and to view Responsys’ certification, please visit <http://www.export.gov/safeharbor/>. In addition, as part of our participation in the Safe Harbor program, we have agreed to TRUSTe dispute resolution for disputes relating to our compliance with the program. If you have any complaints regarding our compliance with the program, you should first contact us. If contacting us does not resolve your complaint, you may raise your complaint with TRUSTe by using the contact information provided above.
+Responsys complies with the U.S.-EU Safe Harbor framework and the U.S.-Swiss Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use and retention of personal information from European Union member countries and Switzerland. Responsys has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access and enforcement. To learn more about the Safe Harbor program, and to view Responsys’ certification, please visit <http://www.export.gov/safeharbor/>. In addition, as part of our participation in the Safe Harbor program, we have agreed to TRUSTe dispute resolution for disputes relating to our compliance with the program. If you have any complaints regarding our compliance with the program, you should first contact us. If contacting us does not resolve your complaint, you may raise your complaint with TRUSTe by using the contact information provided above.
 
 ## Information Hosting, Processing and Collection Practices
 
@@ -45,7 +44,7 @@ Responsys hosts information provided to it by its clients and processes that inf
 
 #### Access to Data Controlled by our Clients
 
-Because Responsys has no direct relationship with the individuals whose personal data it processes, an individual who seeks access, or who seeks to correct, amend, or delete inaccurate data should direct his query to Responsys’ client (the data controller). If the client requests Responsys to remove the data, we will respond to their request within 30 days. 
+Because Responsys has no direct relationship with the individuals whose personal data it processes, an individual who seeks access, or who seeks to correct, amend, or delete inaccurate data should direct his query to Responsys’ client (the data controller). If the client requests Responsys to remove the data, we will respond to their request within 30 days.
 
 #### Data Retention
 
@@ -63,8 +62,22 @@ If you are a client of Responsys (or work on behalf of a Responsys client), thro
 
 Our servers automatically recognize visitors’ IP addresses (the number assigned to computers on the Internet), domain names, the activity of the visitor’s browser when the visitor is viewing the Web site; the site path of visitors; the time visitors come to the Web site; and length of visit. No personal information about you is revealed in the process. The Web site may also gather anonymous traffic data that does not personally identify you but that may be helpful for marketing purposes or for improving the services we offer, and Responsys reserves the right to use and display such anonymous, aggregate summary information regarding its visitors for promotional purposes.
 
-Responsys uses "cookies" and "web beacons" to collect data. A cookie is a small text file containing a random and unique identifier that either Responsys, or its third party web analytics providers on behalf of Responsys, transfers to your computer's hard drive through your web browser (unless you set your browser to reject cookies) that enables Responsys’ or its third party web analytics providers’ systems to recognize your browser. Responsys uses cookies to track your movement through the Web site and verify the login status of clients using products or services linked directly within the Responsys Web site. Cookies are also used to track point of entry to point of registration for those users participating in our affiliate signup programs or to track and measure the success of a particular marketing campaign. Neither Responsys nor its third party web analytics providers store any personally identifiable information in cookies. Web beacons (also known as clear gifs) are typically transparent graphic images (usually 1 pixel x 1 pixel) that are placed on a site or in an email and used by Responsys and its third party web analytics providers in combination with cookies to help us understand how you interact with the Responsys Web site and Service. We use web beacons to measure visitor and recipient behavior, help us improve visitor experience, and help us manage site content.
+### Cookies and Web Beacons
 
+A “cookie” is a small text file containing a random and unique identifier that either Responsys or a business partner, such as a third party web analytics provider, transfers to your computer through your web browser (unless you set your browser to reject cookies). Responsys uses cookies to, among other things, recognize your browser, track your movement through the Web site, verify your login status, track point of entry to point of registration for those users signing up for mailings or programs, track and measure the success of a particular marketing campaign, help us deliver to you relevant marketing content, or provide our clients the ability to deliver to their customers relevant marketing content. Neither Responsys nor its partners store any personally identifiable information in cookies. You may disable cookies via your browser. Note that if you do so, the Web site and/or Service may not work properly, and content that is delivered to you may be less relevant. Web beacons (also known as “web bugs,” “tracking pixels” or “clear gifs”) are typically transparent graphic images (usually 1 pixel x 1 pixel) that are placed on a website or in an email and used by Responsys and its third party web analytics providers. We use web beacons, in combination with cookies, to among other things measure visitor and recipient behavior, help us understand and improve user experience, help us manage site content, and help us deliver relevant marketing content to you or on behalf of our clients to their customers. We do not share any information collected via web beacons or cookies with third parties other than our subsidiaries or affiliates helping us to deliver services. The following table describes cookies used by Responsys:
+
+**Cookie name** | **Purpose**  
+---|---  
+has_js | Technical cookie that expires at the end of a session and is used to identify whether a user’s browser has JavaScript enabled  
+RECENT, RVST | Used to present appropriate content to users who have recently visited the Web site  
+RIOMNI | Used to track completion of download requests and contact forms  
+v0, v11, v12 | Used to track download requests associated with certain campaigns  
+_utma, _utmb, _utmc, _utmz | Google analytics cookies used to collection information about how visitors use the Web site and where they came from. For more information, visit: <http://www.google.com/analytics/learn/privacy.html>.   
+s_cc, s_sq, s_vi, X-Mapping-kcnkeakg | Adobe analytics cookies used to collection information about how visitors use the Web site and where they came from. For more information, visit: <http://www.adobe.com/privacy/analytics.html>.   
+bh, uid, ckid, cktst, dph, gcma, ph, rmxc, meld_sess, anj, sess, uuid2, test_cookie | Adara Media cookies used to help deliver relevant display advertising content to users. For more information, visit: <http://www.adaramedia.com/privacy-promise.php>.  
+uuid2, sess, icu, anj, token, acb, PHPSESSID | AppNexus cookies used to help deliver relevant display advertising content to users. For more information, visit: <http://www.appnexus.com/cookies>.  
+__utm_dsp | Responsys cookie used to help deliver relevant display advertising content to users  
+  
 ### Security and Privacy
 
 Responsys' Web site and Service use security measures to help protect against the loss, misuse, and alteration of the information under our control. We store the information in a database in a secure environment at our data centers. When you enter sensitive information (such as login credentials) we encrypt the transmission of that information using secure socket layer technology (SSL).
@@ -77,19 +90,23 @@ Responsys is not responsible for the privacy practices or the content of any oth
 
 ### Updating and Choice/Opt-Out
 
-Visitors who request information on our Web site have the following options for reviewing, modifying and deleting any personally identifiable information that has previously been provided to Responsys, as well as updating their profiles and unsubscribing (opting out) to avoid receiving future communications from Responsys: 
+Visitors who request information on our Web site have the following options for reviewing, modifying and deleting any personally identifiable information that has previously been provided to Responsys, as well as updating their profiles and unsubscribing (opting out) to avoid receiving future communications from Responsys:
 
   * Sending an email message to [privacy@responsys.com](mailto:privacy@responsys.com). We will reply within 30 days of receiving your request confirming any corrections or updates requested.
   * If you are subscribed to newsletters or other commercial emails from us, you may send us a request to unsubscribe from receiving such emails at any time by following the unsubscribe instructions within the email. We will comply with your unsubscribe request within 10 business days after receipt of such request (or any shorter time period, if required by law).
 
 
 
-Note that if you wish to unsubscribe from emails sent by our clients (as opposed to emails sent by Responsys directly), you will need to follow the unsubscribe or opt-out instructions in such emails. See our [Permission Marketing Policy](https://web.archive.org/web/20121018185254id_/http%3A//www.responsys.com/legal/index.php).
+Note that if you wish to unsubscribe from emails sent by our clients (as opposed to emails sent by Responsys directly), you will need to follow the unsubscribe or opt-out instructions in such emails. See our [Permission Marketing Policy](http://www.responsys.com/permission-marketing-policy).
 
 ## Contacting Us
 
 If you have any questions about this Privacy Policy or this Web site, please contact us directly at [privacy@responsys.com](mailto:privacy@responsys.com). or:   
 Responsys, Inc.  
-1100 Grundy Lane. Suite 300  
+1100 Grundy Lane, 3rd Floor  
 San Bruno, CA 94066  
 (650) 745-1700
+
+[](http://clicktoverify.truste.com/pvr.php?page=validate&url=www.responsys.com&sealid=101) [](http://clicktoverify.truste.com/pvr.php?page=validate&url=www.responsys.com&sealid=102)
+
+[](http://www.espcoalition.org/)
