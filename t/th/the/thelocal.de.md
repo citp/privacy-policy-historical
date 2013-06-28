@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thelocal.de privacy policy that was archived on 2012-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121231013339id_/http%3A//www.thelocal.de/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thelocal.de privacy policy that was archived on 2013-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130628065352id_/http%3A//www.thelocal.de/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy - The Local
 
@@ -61,3 +61,167 @@ At all times, you may adjust your computer's web browser settings to refuse all 
 You can also remove all cookies from your computer – or specific cookies that you wish to remove –by opening your internet browser’s settings and finding the privacy or content settings.
 
 ## More information
+
+KEEP IN TOUCH
+
+RECEIVE OUR NEWSLETTER AND ALERTS 
+
+Highlights
+
+[](https://web.archive.org/sci-tech/20130620-50421.html)
+
+[](https://web.archive.org/lifestyle/20130619-50403.html)
+
+[](https://web.archive.org/opinion/20130619-50409.html)
+
+[](https://web.archive.org/opinion/20130613-50275.html)
+
+[](https://web.archive.org/society/20130614-50297.html)
+
+[](https://web.archive.org/national/20130612-50253.html)
+
+[](https://web.archive.org/opinion/20130611-50245.html)
+
+[](https://web.archive.org/society/20130606-50147.html)
+
+[](https://web.archive.org/lifestyle/20130604-50091.html)
+
+[](https://web.archive.org/sci-tech/20130603-50071.html)
+
+[](https://web.archive.org/lifestyle/20130530-49993.html)
+
+[](https://web.archive.org/lifestyle/20130527-49883.html)
+
+[](https://web.archive.org/opinion/20130524-49901.html)
+
+[](https://web.archive.org/lifestyle/20130523-49873.html)
+
+[](https://web.archive.org/national/20130523-49867.html)
+
+[](https://web.archive.org/lifestyle/20130516-49757.html)
+
+[](https://web.archive.org/opinion/20130514-49701.html)
+
+[](https://web.archive.org/opinion/20130506-49369.html)
+
+[](https://web.archive.org/lifestyle/20130424-49317.html)
+
+[](https://web.archive.org/opinion/20130325-48679.html)
+
+[](https://web.archive.org/national/20130130-47651.html)
+
+[](https://web.archive.org/national/20130315-48549.html)
+
+[](https://web.archive.org/sci-tech/20130511-49641.html)
+
+[](https://web.archive.org/travel/20130502-49739.html)
+
+[](https://web.archive.org/education/20130412-49001.html)
+
+[](https://web.archive.org/opinion/20130606-50141.html)
+
+Latest news from The Local in France
+
+  * 28/06 [Blanc unfazed at not being PSG's first choice »](http://www.thelocal.fr/page/view/blanc-unfazed-at-not-being-first-choice-for-psg)
+  * 28/06 [France 'on course' to break public deficit limit »](http://www.thelocal.fr/page/view/france-on-course-to-break-public-deficit-limit)
+
+
+
+[More news from France at thelocal.fr](http://www.thelocal.fr/)
+
+Latest news from The Local in Norway
+
+  * 23/06 [Melting ice pushes Norway closer to Asia »](http://www.thelocal.no/page/view/melting-ice-pushes-norway-closer-to-asia)
+  * 22/06 [Olympic bid divides Oslo residents »](http://www.thelocal.no/page/view/almost-half-of-oslo-residents-opposed-to-olympic-bid)
+
+
+
+[More news from Norway at thelocal.no](http://www.thelocal.no/)
+
+Latest news from The Local in Sweden
+
+  * 28/06 [Stockholm arena bomb was 'murder attempt' »](http://www.thelocal.se/48744/20130628/)
+  * 28/06 [Swedish bus strike over after pay deal »](http://www.thelocal.se/48742/20130628/)
+
+
+
+[More news from Sweden at thelocal.se](http://www.thelocal.se/)
+
+Latest news from The Local in Switzerland
+
+  * 27/06 [NestlÃ© unveils European youth jobs scheme »](http://www.thelocal.ch/page/view/nestle-unveils-youth-job-creation-scheme)
+  * 27/06 [Snowden trashes 'racist Swiss' on chat site »](http://www.thelocal.ch/page/view/snowden-trashes-racist-swiss-on-chat-site)
+
+
+
+[More news from Switzerland at thelocal.ch](http://www.thelocal.ch/)
+
+Jobs in Germany, in English
+
+**891** jobs available  
+**613** new jobs this week  
+**157** new jobs today 
+
+  * [Business process architect Material & Services Management (f/m)](https://web.archive.org/jobs/?l=123160227&j=90621069&c=163)
+  * [Team Assistant in Business Development with book-keeping knowledge (m/f)](https://web.archive.org/jobs/?l=123158906&j=90620108&c=163)
+  * [Freelance QA Representative-GMP Professional/ Rhein-Main](https://web.archive.org/jobs/?l=123156280&j=90618039&c=163)
+  * [Senior IT System Professional (m/w)](https://web.archive.org/jobs/?l=123155809&j=90617681&c=163)
+  * [Financial Controller (m/f)](https://web.archive.org/jobs/?l=123151739&j=90614370&c=163)
+  * [Assistant to the Office Manager (m/f)](https://web.archive.org/jobs/?l=123146257&j=90609906&c=163)
+  * [MANAGEMENT CONSULTANT (M/F) (GBS - 11737-12)](https://web.archive.org/jobs/?l=122992928&j=90503652&c=163)
+  * [IT MANAGING CONSULTANT / PROJECT MANAGER (M/F) (GBS - 11739-12)](https://web.archive.org/jobs/?l=122992926&j=90503650&c=163)
+  * [SENIOR CONSULTANT / PROJECT MANAGER (M/F) (GBS - 11740-12)](https://web.archive.org/jobs/?l=122992925&j=90503649&c=163)
+  * [Inside Associate Sales Manager](https://web.archive.org/jobs/?l=122988888&j=90500961&c=163)
+
+
+
+[ALL JOBS »](https://web.archive.org/jobs/)
+
+Blog
+
+[](https://web.archive.org/travel/traveleriq.php)
+
+Essentials
+
+[**Dating**](https://web.archive.org/dating/)  
+[Looking for your own blonde bombshell? Or is the strong, silent type more your style? Find a German sweetheart here.](https://web.archive.org/dating/)
+
+[**Weather**](https://web.archive.org/weather/)  
+["After clouds comes clear weather," say the Germans. But what about after that? Find out in The Local's weather section.](https://web.archive.org/weather/)
+
+[**Blog**](https://web.archive.org/blog/)  
+[German stuff that's distracting us today.](https://web.archive.org/blog/)
+
+[**Noticeboard**](https://web.archive.org/noticeboard/)  
+[Whether you want to buy, sell, hire, announce or promote something, here's the place to do it - completely free of charge.](https://web.archive.org/noticeboard/)
+
+[**Discuss**](https://web.archive.org/discuss/)  
+[Debate the news, ask for advice, make friends - or just let off steam.](https://web.archive.org/discuss/)
+
+Register
+
+Register now for:  
+> Free use of noticeboard  
+> Special discounts  
+> Weekly news roundup  
+> Unlimited use of discuss
+
+[REGISTER FOR FREE »](https://web.archive.org/members/register.php)
+
+News from Young Germany
+
+  * [The Highs and Lows of Paying Rent](http://www.young-germany.de/topic/live/the-highs-and-lows-of-paying-rent)  
+A recent survey of apartment offerings throughout Germany by WG-Gesucht revealed some surprising numbers. Find out where Germany’s happiest students find their apartments.
+  * [Beyond Berlin Fashion Week](http://www.young-germany.de/topic/live/life-style/beyond-berlin-fashion-week)  
+Fashion Week transforms Berlin into an international fashion stage. However, exciting new designs can also be found away from the large catwalks.
+  * [Christopher Street Day parades](http://www.young-germany.de/topic/play/day-night/christopher-street-day-parades)  
+Gays and lesbians call for equal rights on Christopher Street Day.
+  * [Urban Gardening in Germany](http://www.young-germany.de/topic/live/food-fun/urban-gardening-in-germany)  
+A new generation of gardeners are transforming the urban landscape. From balconies to empty lots, urban gardeners are greening the city and growing their own food. These days it is easy being green.
+  * [The school holidays start in Germany](http://www.young-germany.de/topic/live/travel-location/the-school-holidays-start-in-germany)  
+In some of the federal states the school holidays have already started. In others the children are still looking forward to their break.
+
+
+
+  
+
