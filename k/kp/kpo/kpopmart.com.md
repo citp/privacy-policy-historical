@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kpopmart.com privacy policy that was archived on 2012-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121227141826id_/http%3A//kpopmart.com/cms.php%3Fid_cms%3D2) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kpopmart.com privacy policy that was archived on 2013-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130628232124id_/http%3A//kpopmart.com/cms.php%3Fid_cms%3D2) for the most accurate reproduction.*
 
 # privacy and security - Kpop Mart
 
