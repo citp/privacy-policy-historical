@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the metroparkusa.com privacy policy that was archived on 2012-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121201043527id_/http%3A//www.metroparkusa.com/customer-service%23privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the metroparkusa.com privacy policy that was archived on 2013-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130628025259id_/http%3A//www.metroparkusa.com/customer-service%23privacy) for the most accurate reproduction.*
 
 # Metropark / Customer Service
-
-For the holiday season, METROPARKUSA.com will extend the period allowed for returns to accept all non-clearance items purchased after November 1st to be returned for a full refund by January 15th, 2013. 
 
 ##  Website Orders
 
@@ -78,8 +76,6 @@ Please note that shipping charges do not include taxes or duty. The customer is 
 
 ##  Returns
 
-For the holiday season, METROPARKUSA.com will extend the period allowed for returns to accept all non-clearance items purchased after November 1st to be returned for a full refund by January 15th, 2012. 
-
 If you are not satisfied with your online purchase, please follow our guidelines for returns: 
 
   * All returns require a Return Authorization (RA) number (see instructions below).
@@ -103,7 +99,7 @@ If you would like to exchange an item for another color or size, please contact 
 
 ###  How to Return Merchandise
 
-Return Authorization (RA) number issued by must accompany all returns. To obtain an RA number, [request one online](https://web.archive.org/returns) or feel free to call Customer Service at 888.273.1125. Fill out the RA form and include it in the package. If you don't have a form, include a note with your RA#, name, address, phone number, email address and reason for return. (Please note that being issued an RA number does not guarantee automatic approval/credit of your return. Items are still subject to inspection.) Ship the merchandise securely wrapped, pre-paid and insured to: 
+Return Authorization (RA) number issued by METROPARKUSA.com must accompany all returns. To obtain an RA number, [ request one online](https://web.archive.org/returns) or feel free to call Customer Service at 888.273.1125. Fill out the RA form and include it in the package. If you don't have a form, include a note with your RA#, name, address, phone number, email address and reason for return. (Please note that being issued an RA number does not guarantee automatic approval/credit of your return. Items are still subject to inspection.) Ship the merchandise securely wrapped, pre-paid and insured to: 
 
 METROPARKUSA.com  
 Attn: Internet Returns  
@@ -150,7 +146,7 @@ Bethesda, MD 20814
 
 ###  How do I know my information is kept private?
 
-This Privacy Statement describes how we collect and use your information, and gives you options as to how your information is used. We suggest you review this Privacy Statement periodically, as we may update it from time to time. We post any changes on this page so that you are always aware of the information we collect, how we use it, and under what circumstances we disclose it. By using our web site, you consent to the collection and use of your information by , and it's parent companies Cole Jacob LLC and Skye Associates LLC.. Any communication or material sent to will be considered confidential and will become the property of , which reserves the right to use and reproduce it for any purpose whatsoever. Access and use of the Site is subject to the terms, conditions and applicable laws construed in accordance with the Laws of the State of Maryland. When you purchase from our site, we collect information that you volunteer, such as your name, email address, postal address, phone number and other information necessary to process your order. Periodically we will send you email about new products and services, discounts, special promotions or upcoming events ONLY if you have elected to receive these mailings. We also collect information you provide us when you register to participate in a contest or promotion, fill out a survey or questionnaire, or contact us (i.e. via email).
+This Privacy Statement describes how we collect and use your information and gives you options as to how your information is used. We suggest you review this Privacy Statement periodically, as we may update it from time to time. We post any changes on this page so that you are always aware of the information we collect, how we use it, and under what circumstances we disclose it. By using our web site, you consent to the collection and use of your information by Skye Associates, LLC. Any communication or material sent to you will be considered confidential and will become the property of Skye Associates, LLC which reserves the right to use and reproduce it for any purpose whatsoever. Access and use of the Site is subject to the terms, conditions and applicable laws construed in accordance with the laws of the State of Maryland. When you purchase from our site, we collect information that you volunteer, such as your name, email address, postal address, phone number and other information necessary to process your order. Periodically we will send you email about new products and services, discounts, special promotions or upcoming events ONLY if you have elected to receive these mailings. We also collect information you provide us when you register to participate in a contest or promotion, fill out a survey or questionnaire, or contact us.
 
 ###  How do I know my information is secure?
 
@@ -158,7 +154,9 @@ We have appropriate security measures in place to protect against the loss, misu
 
 ###  What are 'cookies' and how does use them?
 
-A "cookie" is a small data file that contains a unique identifier. Cookies can be used to store personal information about you, right on your computer. The cookie ensures that only the computer used to select items will have access to products you have chosen and billing information you've entered. Using a cookie is the safest way to make sure that only you can see the contents of your shopping cart and order form. METROPARKUSA.com does not believe that storing your personal information on a cookie is a responsible use of this information. We do not use cookies to store any of your personal or financial information on your computer. We guarantee that your data is not used for any other purpose than improving our web site and overall shopping experience.
+A "cookie" is a small data file that contains a unique identifier. Cookies can be used to store personal information about you on your computer. The cookie ensures that only the computer used to select items will have access to products you have chosen and billing information you've entered. Using a cookie is the safest way to make sure that only you can see the contents of your shopping cart and order form. 
+
+METROPARKUSA.com does not believe in storing your personal information on a cookie. This is not a responsible use of this information. We do not use cookies to store any of your personal or financial information. We guarantee that your data is not used for any other purpose than improving our web site and overall shopping experience.
 
 ###  Can I copy anything from the site?
 
@@ -166,6 +164,6 @@ By law, the material displayed on the site may not be downloaded for anything ot
 
 ###  And...Last but not least...
 
-By accessing and using this site, you submit to the jurisdiction of the Federal District Court and the District Court of Maryland and accept all terms and conditions without limitation or qualification. Everything on this site is copyrighted unless otherwise noted, and may not be used without the written permission of METROPARKUSA.com. Images of people, places, buttons and items displayed on the site are either the property of, or used with permission by, METROPARKUSA.com. The use of these images is prohibited unless specifically permitted by METROPARKUSA.com. Any unauthorized use of the images may violate copyright laws, trademark laws, the laws of privacy and publicity, and communications regulations and statutes. In addition, archiving, redistribution, republication or derivation of any information contained or downloaded from this site, in any medium, including but not limited to electronic, CD-ROM, or database, or publication in print, requires the written consent of METROPARKUSA.com. The trademarks, the logo and all the published names displayed on the site are the property of METROPARKUSA.com. Nothing contained on the site should be construed as granting any license or right to use any trademarks displayed on the site without the written permission of its owners. Use of the trademarks or other materials displayed on the site is completely prohibited.
+By accessing and using this site, you submit to the jurisdiction of the Federal District Court for the District Court of Maryland and accept all terms and conditions without limitation or qualification. Everything on this site is copyrighted unless otherwise noted, and may not be used without the written permission of METROPARKUSA.com. Images of people, places, buttons and items displayed on the site are either the property of, or used with permission by, METROPARKUSA.com. The use of these images is prohibited unless specifically permitted by METROPARKUSA.com. Any unauthorized use of the images may violate copyright laws, trademark laws, the laws of privacy and publicity, and communications regulations and statutes. In addition, archiving, redistribution, re-publication or derivation of any information contained or downloaded from this site, in any medium, including but not limited to electronic, CD-ROM, or database, or publication in print, requires the written consent of METROPARKUSA.com. The trademarks, the logo and all the published names displayed on the site are the property of METROPARKUSA.com. Nothing contained on the site should be construed as granting any license or right to use any trademarks displayed on the site without the written permission of its owners. Use of the trademarks or other materials displayed on the site is completely prohibited. 
 
 Thank you for visiting METROPARKUSA.com
