@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the banklocations.in privacy policy that was archived on 2012-07-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120720231527id_/http%3A//banklocations.in/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the banklocations.in privacy policy that was archived on 2013-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130628084635id_/http%3A//banklocations.in/privacy_policy.html) for the most accurate reproduction.*
 
 # Bank Branches - Privacy Policy
 
