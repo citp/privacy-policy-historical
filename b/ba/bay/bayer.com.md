@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bayer.com privacy policy that was archived on 2012-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121215101614id_/http%3A//www.bayer.com/en/privacy-statement.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bayer.com privacy policy that was archived on 2013-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130628041108id_/http%3A//www.bayer.com/en/privacy-statement.aspx) for the most accurate reproduction.*
 
 # Privacy Statement - Bayer
 
@@ -40,47 +40,77 @@ Most browsers are set-up to accept these Cookies automatically. In addition, you
 
 ## Cookies used on this website
 
-Name
+Name 
 
 | 
 
-Purpose
+Purpose 
 
 | 
 
-Lifespan  
+Lifespan   
   
 ---|---|---  
   
-ASP.NET_SessionId
+ASP.NET_SessionID, PHPSESSID 
 
 | 
 
-The anonymous identification of a session (website visit) for technical purposes only. No personal data is collected.
+The anonymous identification of a session (website visit) for technical purposes only. No personal data is collected. 
 
 | 
 
 Duration of the session: the cookie is deleted when the browser is closed.   
   
-bayerdePublikationen_ShoppingCart
+lang 
 
 | 
 
-Shopping cart for publication orders
+Set the language for the VideoCenter. 
 
 | 
 
-1 day  
+Duration of the session: the cookie is deleted when the browser is closed.   
   
-WT_FPC
+bayerdePublikationen_ShoppingCart 
 
 | 
 
-The anonymous identification of a visit for statistical analysis in order to optimize the website. No personal data is collected.
+Shopping cart for publication orders 
 
 | 
 
-30 days  
+1 day   
+  
+intro 
+
+| 
+
+Skip intro of “150 Years of Bayer”. 
+
+| 
+
+7 days   
+  
+WT_FPC 
+
+| 
+
+The anonymous identification of a visit for statistical analysis in order to optimize the website. No personal data is collected. 
+
+| 
+
+30 days   
+  
+version 
+
+| 
+
+Choice for the mobile or desktop website. 
+
+| 
+
+60 days   
   
 ## Security
 
@@ -102,7 +132,7 @@ Bayer AG
 Communications  
 Building W 11  
 51368 Leverkusen, Germany  
-[E-mail](https://secure.bayer.com/bayer/contact.aspx?lang=en)
+[E-mail](https://secure.bayer.com/bayer-group/contact.aspx?lang=en)
 
 Corporate Data Protection Officer of Bayer AG:  
 Rainer Meyer  
@@ -110,6 +140,6 @@ Building K56
 51368 Leverkusen, Germany  
 Phone: +49 (0) 214 30 2 05 22  
 Fax: +49 (0) 214 30 2 03 46  
-[E-mail](https://secure.bayer.com/bayer/ContactDataprotectionOfficer.aspx?lang=en)
+[E-mail](https://secure.bayer.com/bayer-group/ContactDataprotectionOfficer.aspx?lang=en)
 
 The constant development of the internet requires occasional adjustments to our privacy statement. We retain the right to make changes when necessary. 
