@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sba.gov privacy policy that was archived on 2012-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121201143532id_/http%3A//www.sba.gov/about-sba-info/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sba.gov privacy policy that was archived on 2013-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130628082141id_/http%3A//www.sba.gov/about-sba-info/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | SBA.gov
 
