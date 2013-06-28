@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hypermart.net privacy policy that was archived on 2012-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121119044238id_/http%3A//www.hypermart.net/about/privacy.bml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hypermart.net privacy policy that was archived on 2013-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130628234342id_/http%3A//www.hypermart.net/about/privacy.bml) for the most accurate reproduction.*
 
 # HyperMart's Privacy Policy
 
@@ -82,6 +82,6 @@ Please note: HyperMart reserves the right to send you email communications that 
 
 
 
-This file was last modified May 3, 2012. [View comparison version.](https://web.archive.org/web/20121119044238id_/http://www.hypermart.net/legal/legal_privacy.bml?showchanges=1)  
+This file was last modified June 21, 2013. [View comparison version.](https://web.archive.org/web/20130628234342id_/http://www.hypermart.net/legal/legal_privacy.bml?showchanges=1)  
   
 ---|---
