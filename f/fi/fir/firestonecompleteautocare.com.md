@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the firestonecompleteautocare.com privacy policy that was archived on 2012-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121213061932id_/http%3A//www.firestonecompleteautocare.com/privacy-statement/index.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the firestonecompleteautocare.com privacy policy that was archived on 2013-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130628112351id_/http%3A//www.firestonecompleteautocare.com/privacy-statement) for the most accurate reproduction.*
 
 # Privacy Statement | Firestone Complete Auto Care
 
@@ -8,9 +8,9 @@ Use of this Site constitutes your consent to the collection and use of the infor
 
 This Privacy Policy explains how Firestone Complete Auto Care collects, uses and discloses your personal information. This Privacy Policy also explains the steps Firestone Complete Auto Care has taken to ensure that your personal information is secure. Finally, this Privacy Policy explains your choices regarding the collection, use and disclosure of your personal information.
 
-**THE SITE INCLUDES LINKS TO THE WEB SITES OF THIRD PARTIES. WE PROVIDE THESE LINKS AS A CONVENIENCE TO OUR USERS. THE INCLUSION OF ANY LINK DOES NOT IMPLY FIRESTONE COMPLETE AUTO CARE'S ENDORSEMENT OF ANY COMPANY, ITS WEB SITE, OR THE PRODUCTS AND SERVICES IT SELLS. PLEASE NOTE THAT FIRESTONE COMPLETE AUTO CARE IS NOT RESPONSIBLE FOR ANY CONTENT OR THE PRIVACY PRACTICES OF ANY WEB SITE OTHER THAN OUR OWN SITE.**
+**The site includes links to the web sites of third parties. we provide these links as a convenience to our users. The inclusion of any link does not imply Firestone Complete Auto Care’s endorsement of any company, its web site, or the products and services it sells. please note that Firestone Complete Auto Care is not responsible for any content or the privacy practices of any web site other than our own site.**
 
-**THE SITE ALSO INCLUDES CERTAIN PAGES THAT ARE “FRAMED” TO PROVIDE INFORMATION FROM WEB SITES OF THIRD PARTIES. SUCH FRAMED PAGES WILL BE IDENTIFIED ON THE PAGE AND THE PAGE OWNER IDENTIFIED. WE PROVIDE THESE FRAMED PAGES AS A CONVENIENCE TO OUR USERS. PLEASE NOTE THAT FIRESTONE COMPLETE AUTO CARE IS NOT RESPONSIBLE FOR ANY CONTENT OR THE PRIVACY PRACTICES OF ANY FRAMED PAGES. THE TERMS AND POLICIES OF THE PAGE OWNER IDENTIFIED ON THE FRAMED PAGE WILL CONTROL.**
+**The site also includes certain pages that are “framed” to provide information from web sites of third parties. such framed pages will be identified on the page and the page owner identified. We provide these framed pages as a convenience to our users. please note that Firestone Complete Auto Care is not responsible for any content or the privacy practices of any framed pages. the terms and policies of the page owner identified on the framed page will control.**
 
 ## Information Collection and Use
 
@@ -47,7 +47,7 @@ Please note that because a customer information database is customarily consider
 
 This Site incorporates various physical, electronic and administrative procedures to safeguard the confidentiality of your personal information. Access to your personal information is restricted. Only employees who need access to your personal information to perform a specific job are granted access to your personal information. Finally, the servers where Firestone Complete Auto Care stores your personal information are kept in a secure environment, behind locked doors and a firewall.
 
-WHILE FIRESTONE COMPLETE AUTO CARE HAS TAKEN COMMERCIALLY REASONABLE PRECAUTIONS TO SAFEGUARD YOUR PERSONAL INFORMATION, FIRESTONE COMPLETE AUTO CARE CANNOT GUARANTEE COMPLETE SECURITY BECAUSE COMPLETE SECURITY DOES NOT PRESENTLY EXIST ON THE INTERNET.
+While Firestone Complete Auto Care has taken commercially reasonable precautions to safeguard your personal information, Firestone Complete Auto Care cannot guarantee complete security because complete security does not presently exist on the internet.
 
 ## Opt Out/Corrections
 
