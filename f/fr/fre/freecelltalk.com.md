@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the freecelltalk.com privacy policy that was archived on 2012-07-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120713031834id_/http%3A//freecelltalk.com/Privacy_Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freecelltalk.com privacy policy that was archived on 2013-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130628120504id_/http%3A//freecelltalk.com/Privacy_Policy) for the most accurate reproduction.*
 
-# Earn Free Mobile Service | MLM Secrets
+# My Cell Phone Pays My Mortgage | MLM Secrets
 
 This privacy policy (the “Privacy Policy”) discloses the information gathering and dissemination practices for this website. We will notify you of changes to our Privacy Policy by posting the new policy on this website. Review our Privacy Policy regularly so that you can stay informed of our practices, as they may change in the future.
 
@@ -23,4 +23,4 @@ Contact us at the address below if you want us to change or delete any informati
 
 Copyright © 2011 Licensed for use by the owner of this website at Delaughter.org. All Rights Reserved. No portion of this document may be copied or used by anyone other than the licensee without the express written permission of the copyright owner.
 
-[Legal Disclaimers](https://web.archive.org/web/20120713031834id_/http://Income%20Disclaimer/)  -  [Privacy Policy](https://web.archive.org/web/20120713031834id_/http://Privacy%20Policy/)
+[Legal Disclaimers](https://web.archive.org/web/20130628120504id_/http://Income%20Disclaimer/)  -  [Privacy Policy](https://web.archive.org/web/20130628120504id_/http://Privacy%20Policy/)
