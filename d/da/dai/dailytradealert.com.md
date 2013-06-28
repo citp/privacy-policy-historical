@@ -1,20 +1,23 @@
-> *The following text is extracted and transformed from the dailytradealert.com privacy policy that was archived on 2012-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121213101704id_/http%3A//dailytradealert.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dailytradealert.com privacy policy that was archived on 2013-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130628025331id_/http%3A//dailytradealert.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Daily Trade Alert
 
-Last Updated: 7/25/2011
+Last Updated: 5/11/2013
 
 **What information do we collect?**
 
-We collect information from you when you subscribe to our free _Daily Trade Alert_ newsletter, register for our “Buffett & Gates Tracker,” fill out our “Contact Us” form or respond to an email or subscriber survey.
+We collect information from you when you subscribe to our free _Daily Trade Alert_ newsletter, fill out our “Contact Us” form or respond to an email or subscriber survey.
 
-When subscribing or registering on our site, as appropriate, you may be asked to enter your: name, email address, mailing address, billing address, phone number, PayPal or credit card information. You may, however, visit our site anonymously.
+When subscribing to our newsletter or submitting a message or inquiry to us through our “Contact Us” form, as appropriate, you may be asked to enter your name and email address. You may, however, visit our site anonymously.
 
 Google, as a third party vendor, uses cookies to serve ads on our site. Google’s use of the DART cookie enables it to serve ads to our users based on their visit to our site and other sites on the Internet. Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy.
 
 **What do we use your information for?**
 
 Any of the information we collect from you may be used in one of the following ways:
+
+• To send you emails  
+(The email address you provide to us is used primarily for the fulfillment of our newsletter,  _Daily Trade Alert_. In addition, we occasionally send you important company news or service changes, “Buffett & Gates Tracker” alerts, urgent trade alerts, surveys, or related third-party advertisements that help fund our operations.)
 
 • To personalize your experience  
 (your information helps us to better respond to your individual needs)
@@ -24,12 +27,6 @@ Any of the information we collect from you may be used in one of the following w
 
 • To improve customer service  
 (your information helps us to more effectively respond to your customer service requests and support needs)
-
-• To process transactions  
-(If you subscribe to our paid “Buffett & Gates Tracker” service, we require your information in order to process the transaction through our payment processor, PayPal.)
-
-• To send you emails  
-(The email address you provide to us is used primarily for the fulfillment of our newsletter, _Daily Trade Alert_. In addition, we may occasionally send you important company news or service changes, “Buffett & Gates Tracker” alerts, urgent trade alerts, surveys, or related third-party advertisements that help fund our operations.)
 
 Note: If at any time you would like to unsubscribe from receiving future emails from us, we include simple, hassle-free unsubscribe instructions at the bottom of each and every email.
 
@@ -81,7 +78,7 @@ By using our site, you consent to our privacy policy.
 
 If we decide to change our privacy policy, we will post those changes on this page, and/or update the Privacy Policy modification date below. Policy changes will apply only to information collected after the date of the change.
 
-This policy was last modified on **07/25/2011**
+This policy was last modified on **05/11/2013**
 
 **Contacting Us**
 
@@ -113,4 +110,4 @@ Respectfully,
 Daily Trade Alert  
 www.DailyTradeAlert.com
 
-[](http://www.printfriendly.com/print/v2?url=http://dailytradealert.com/privacy-policy/)
+[](http://www.printfriendly.com/print?url=http://dailytradealert.com/privacy-policy/)
