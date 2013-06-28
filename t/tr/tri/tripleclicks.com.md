@@ -1,42 +1,31 @@
-> *The following text is extracted and transformed from the tripleclicks.com privacy policy that was archived on 2012-11-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121111223713id_/http%3A//www.tripleclicks.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tripleclicks.com privacy policy that was archived on 2013-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130628092930id_/http%3A//www.tripleclicks.com/privacy_policy.php) for the most accurate reproduction.*
 
 # TripleClicks Privacy Policy
 
 TripleClicks members are saving up to 99% on these items, which are being bid on right now!
 
-LG BD670 3D Wireless Network Blu-ray Disc Player with Smart TV
+TCredits - 300 pack
 
-Current Price: $0.79*
+Current Price: $1.25*
 
-[BID NOW!](https://web.archive.org/pbDetails.php)
+[BID NOW!](https://web.archive.org/pb.php?atype=X)
 
-TCredits - 250 pack
+Samsung Chromebook 
 
-Current Price: $2.92*
+Current Price: $1.39*
 
-[BID NOW!](https://web.archive.org/pbXRA.php)
+[BID NOW!](https://web.archive.org/pb.php?atype=F)
 
-TCredits - 250 pack
+TCredits - 300 pack
 
-Starting In: 05:22:47*
+Starting In: 00:00:30*
 
 Bid on these items  
 before they're gone!
 
 *Refresh browser for updated information
 
-  
-
-
-  
-• FREE Monthly TCredits!  
-• FREE Monthly Member Rewards Points! (MRP)  
-• Win $100's in our weekly drawing!  
-• Earn unlimited add'l TCredits/MRP!  
-• Exclusive member-only specials!  
-• Free song of the month download!
-
-[Join the wave](https://web.archive.org/Wave3/Wave3.php) and get all this & more!
+[](https://web.archive.org/ECA/ECAGW.php)
 
 [](http://www.facebook.com/pages/TripleClickscom/172874702800289) [](http://twitter.com/#!/GoTripleClicks)
 
@@ -64,4 +53,6 @@ We retain this information for a period of time to allow for the possibility of 
 
 We request a phone number on order forms in case we need to contact you about your order. We NEVER sell, rent, or loan our list of customer phone numbers, nor any other information about customers. If you order a product or service sold by one of our E-Commerce Associates, they will be provided your phone number in case they need to contact you about your order. They are, of course, also provided your shipping address.
 
-Copyright © 2012, Carson Services, Inc. 
+Copyright © 2013, Carson Services, Inc. 
+
+a
