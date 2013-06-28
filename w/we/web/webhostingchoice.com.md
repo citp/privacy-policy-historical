@@ -1,23 +1,86 @@
-> *The following text is extracted and transformed from the webhostingchoice.com privacy policy that was archived on 2012-09-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120920021730id_/http%3A//webhostingchoice.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the webhostingchoice.com privacy policy that was archived on 2013-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130628032641id_/http%3A//www.webhostingchoice.com/about/privacy) for the most accurate reproduction.*
 
-# Privacy Policy - Web Hosting Choice
+# Privacy Policy - WebHostingChoice.com
 
-Web Hosting Choice has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses the information gathering and dissemination practices for this Web site: [Web Hosting Choice](http://webhostingchoice.com/)
+This document was last updated on April 19, 2013
 
-**Information Automatically Logged**  
-We use your IP address to help diagnose problems with our server and to administer our Web site. The IP is simply stored for security purposes, such as a DOS attack. Your IP is not used for any other purposes. 
+### What information do we collect from users and how is it used?
 
-**Advertisers**  
-We use an outside ad company to display ads on our site. These ads may contain cookies. We do not use cookies in this website, and cookies received with ads are collected by our ad company, and we do not have access to this information.
+This Privacy Policy governs the manner in which WebHostingChoice.com collects, uses, maintains and discloses information collected from users (each, a "User") of the [WebHostingChoice.com](http://www.webhostingchoice.com/) website ("Site"). This privacy policy applies to the Site and all services offered by WebHostingChoice.com.
 
-**Personal Information**  
-This Web site does not request any personal information or collect any information that personally identifies you or allows you to be personally contacted unless you explicity input such information when submitting a review. Individual responses are not kept on file, and none of this information is sold to anyone outside the site. At no time is personal information collected without explicit consent. 
+### Personal Identification Information
 
-**External Links**  
-This site contains links to other sites. Webhostingchoice.com is not responsible for the privacy practices or the content of such Web sites. 
+We may collect personal identification information from Users in a variety of ways, including, but not limited to, when Users visit our site, register on the site, place an order, and in connection with other activities, services, features or resources we make available on our Site. Users may visit our Site anonymously. We will collect personal identification information from Users only if they voluntarily submit such information to us. Users can always refuse to supply personally identification information, except that it may prevent them from engaging in certain Site related activities.
 
-**Security**  
-This site has security measures in place to protect the loss, misuse, and alteration of the information under our control. 
+### Non-personal Identification Information
 
-**Contacting the Web Site**  
-If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact : [webmaster@webhostingchoice.com](mailto:webmaster@webhostingchoice.com). 
+We may collect non-personal identification information about Users whenever they interact with our Site. Non-personal identification information may include the browser name, the type of computer and technical information about Users means of connection to our Site, such as the operating system and the Internet service providers utilized and other similar information.
+
+### Web Browser Cookies
+
+Our Site may use "cookies" to enhance User experience. User's web browser places cookies on their hard drive for record-keeping purposes and sometimes to track information about them. User may choose to set their web browser to refuse cookies, or to alert you when cookies are being sent. If they do so, note that some parts of the Site may not function properly.
+
+### How We Use Collected Information
+
+WebHostingChoice.com may collect and use Users personal information for the following purposes:
+
+  * To improve customer service  
+Information you provide helps us respond to your customer service requests and support needs more efficiently.
+  * To personalize user experience  
+We may use information in the aggregate to understand how our Users as a group use the services and resources provided on our Site.
+  * To improve our Site  
+We may use feedback you provide to improve our products and services.
+  * To share your information with third parties  
+We may share information with third parties for marketing or other purposes.
+  * To run a promotion, contest, survey or other Site feature
+  * To send Users information they agreed to receive about topics we think will be of interest to them.
+
+
+
+### How We Protect Your Information
+
+We adopt appropriate data collection, storage and processing practices and security measures to protect against unauthorized access, alteration, disclosure or destruction of your personal information and data stored on our Site.
+
+### Third Party Websites
+
+Users may find advertising or other content on our Site that link to the sites and services of our partners, suppliers, advertisers, sponsors, licensors and other third parties. We do not control the content or links that appear on these sites and are not responsible for the practices employed by websites linked to or from our Site. In addition, these sites or services, including their content and links, may be constantly changing. These sites and services may have their own privacy policies and customer service policies. Browsing and interaction on any other website, including websites which have a link to our Site, is subject to that website's own terms and policies.
+
+### Advertising
+
+Ads appearing on our site may be delivered to Users by advertising partners, who may set cookies. These cookies allow the ad server to recognize your computer each time they send you an online advertisement to compile non personal identification information about you or others who use your computer. This information allows ad networks to, among other things, deliver targeted advertisements that they believe will be of most interest to you. This privacy policy does not cover the use of cookies by any advertisers.
+
+### Changes to This Privacy Policy
+
+WebHostingChoice.com has the discretion to update this privacy policy at any time. When we do, we will revise the updated date at the bottom of this page. We encourage Users to frequently check this page for any changes to stay informed about how we are helping to protect the personal information we collect. You acknowledge and agree that it is your responsibility to review this privacy policy periodically and become aware of modifications.
+
+### Your Acceptance Of These Terms
+
+By using this Site, you signify your acceptance of this policy. If you do not agree to this policy, please do not use our Site. Your continued use of the Site following the posting of changes to this policy will be deemed your acceptance of those changes.
+
+### Data Request
+
+Upon request we provide site visitors with access to all information [including proprietary information] that we maintain about them. Consumers can access this information by e-mailing us at the below address.
+
+### WebHostingChoice Cookie Options
+
+Instruction on how to delete cookies on your computer. [Click Here](http://www.aboutcookies.org/)
+
+Disable third-party cookies in Firefox, [Learn Here...](http://support.mozilla.org/en-US/kb/disable-third-party-cookies)
+
+Disable third-party cookies in Chrome:[ Learn Here...](http://support.google.com/chrome/bin/answer.py?hl=en&answer=95647)
+
+Disable third-party cookies in Explorer:[ Learn Here...](http://windows.microsoft.com/en-US/windows-vista/block-or-allow-cookies)
+
+### Contacting Us
+
+If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us at:
+
+WebHostingChoice.com  
+1000 5th St Suite 206  
+Miami Beach Fl 33139
+
+  
+[privacy@WebHostingChoice.com](http://www.webhostingchoice.com/mailto:privacy@WebHostingChoice.com)
+
+  
+Back to previous page 
