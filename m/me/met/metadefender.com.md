@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the metadefender.com privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231204209id_/http%3A//www.opswat.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the metadefender.com privacy policy that was archived on 2013-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130629002531id_/http%3A//www.opswat.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | OPSWAT | Software manageability and multiple engine scanning solutions
 
