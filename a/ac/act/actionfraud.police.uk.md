@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the actionfraud.police.uk privacy policy that was archived on 2012-10-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121015224009id_/http%3A//www.actionfraud.police.uk/e-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the actionfraud.police.uk privacy policy that was archived on 2013-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130628053219id_/http%3A//www.actionfraud.police.uk/e-privacy-policy) for the most accurate reproduction.*
 
 # E-Privacy Policy | Action Fraud
 
@@ -86,6 +86,10 @@ Twitter
 
 LinkedIn
 
+Mookie1.com
+
+Doubleclick.net
+
 | 
 
 ASP.NET_SessionId
@@ -106,6 +110,15 @@ _qca
 _leo_profile  
 _lipt
 
+  
+id  
+OAX  
+mdata  
+RMF*  
+NSC*
+
+id
+
 | 
 
 This cookie indicates the start of our online web chat function.
@@ -115,7 +128,9 @@ These cookies enable the sharing functionality to be used on the website.
   
 These cookies enable the sharing functionality to be used on the website.
 
-These cookies enable the sharing functionality to be used on the website.  
+These cookies enable the sharing functionality to be used on the website.
+
+We use paid advertising to make people aware of the website. These cookies track what advertisement you came from and the data enables us to make them more relevant.  
   
 ### What if I refuse cookies?
 
@@ -135,4 +150,4 @@ You should exercise caution and look at the privacy statement applicable to the 
 
 If this privacy policy changes in any way, we will place an updated version on this page. Regularly reviewing this page ensures you are always aware of what information we collect, how we use it and under what circumstances, if any, we will share it with other parties.
 
-This page was last updated on – 14th August 2012
+This page was last updated on – 31st January 2013
