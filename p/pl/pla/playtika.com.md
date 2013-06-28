@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the playtika.com privacy policy that was archived on 2012-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121221233632id_/http%3A//playtika.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the playtika.com privacy policy that was archived on 2013-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130628232415id_/http%3A//playtika.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Playtika Ltd.’s Privacy Policy
 
@@ -118,4 +118,4 @@ For Playtika’s policy regarding the purchase of “coins” or other virtual c
 
 Contacting Us  
 For any questions about its Privacy Policy or any other issue please contact Playtika at:   
-[fb_support@playtika.com](mailto:fb_support@playtika.com)
+[info@playtika.com](mailto:info@playtika.com)
