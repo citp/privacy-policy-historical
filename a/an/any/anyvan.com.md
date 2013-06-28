@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the anyvan.com privacy policy that was archived on 2012-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120603043114id_/http%3A//www.anyvan.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the anyvan.com privacy policy that was archived on 2013-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130628112351id_/http%3A//www.anyvan.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | ANYVAN | The Delivery Auction Site
 
@@ -27,3 +27,22 @@ If you email a delivery listing to a friends, we will ask you for your friend's 
 We use your personal information, including your email address, to help facilitate our services to you. We use your personal information in the file we maintain about you, and other information we products and services; inform you about online and offline offers, products, services, and updates; customize your experience; detect and protect us against error, fraud and other criminal activity; enforce our User Agreement; and as otherwise described to you at the time of collection. We may examine your personal information to identify users using multiple User IDs. We may also compare and review your personal information for errors, omissions and for accuracy.
 
 You agree that we may use personal information, including your email address to help our marketing and promotional efforts. These uses improve the Site and better tailor it to meet your needs.
+
+#### COMPANY DETAILS
+
+ANYVAN LTD – Trading as ANYVAN is a company registered in England and Wales and having its registered address at:
+
+The Triangle,  
+5-17 Hammersmith Grove,  
+Hammersmith,  
+London,  
+W6 0LG
+
+Registered under the Data Protection Act.
+
+You can contact ANYVAN on:
+
+Phone: 020 3005 6000  
+E-mail: [info@anyvan.com](mailto:info@anyvan.com)
+
+To unsubscribe from our mailing list simply click on the unsubscribe link at the bottom of every marketing email and you will be opted out of all email communications.
