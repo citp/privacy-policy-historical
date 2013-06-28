@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the osram.com privacy policy that was archived on 2012-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121114051102id_/http%3A//www.osram.com/osram_com/_metapages/privacy-policy/index.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the osram.com privacy policy that was archived on 2013-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130628053504id_/http%3A//www.osram.com/osram_com/_metapages/privacy-policy/index.jsp) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -59,7 +59,7 @@ OSRAM will not knowingly collect personal data from children without insisting t
 
 ##### Security
 
-o protect your personal data against accidental or unlawful destruction, loss or alteration and against unauthorized disclosure or access, OSRAM uses technical and organizational security measures. Links to Other Web Sites OSRAM Web sites contain links to other Web sites. OSRAM is not responsible for the privacy practices or the content of other Web sites.
+To protect your personal data against accidental or unlawful destruction, loss or alteration and against unauthorized disclosure or access, OSRAM uses technical and organizational security measures. Links to Other Web Sites OSRAM Web sites contain links to other Web sites. OSRAM is not responsible for the privacy practices or the content of other Web sites.
 
 ##### Questions and Comments
 
