@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the artfido.com privacy policy that was archived on 2012-11-30.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121130102619id_/http%3A//www.artfido.com/privacy-policy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the artfido.com privacy policy that was archived on 2013-06-28.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130628031831id_/http%3A//www.artfido.com/privacy-policy.php) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns:fb="http://www.facebook.com/2008/fbml"><head>
         <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
@@ -22,7 +22,7 @@
         <link rel="shortcut icon" href="favicon.ico" type="image/x-icon">
         <meta name="keywords" content="Donald Friend, Matthys Gerber, James Gleeson, Fiona Hall, Louise Hearman, Bill Henson, Joy Hester, Robert Juniper, Kitty Kantilla, Rosemary Laing, Richard Larter, Lindy Lee, Norman Lindsay, Noel McKenna, Robert MacPherson, Tracey Moffatt, Albert Namatjira, John Olsen, Lin Onus, Mike Parr, Kathleen Petyarre">
         				
-                <script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="inc/jquery.js"></script>
+                <script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-8K6G"></script><script type="text/javascript" src="inc/jquery.js"></script>
                 <script type="text/javascript" src="inc/jquery.validate.js"></script>
                 <script type="text/javascript" src="inc/jquery.meta.js"></script>
                 <script type="text/javascript" src="inc/jquery.facebox.js"></script>
@@ -61,14 +61,86 @@
         		</style>
     </head>
     <body onload="RedirNonHttps();">
-    	    	<div class="outerWrapper">
+		        <!-- Google Tag Manager -->
+<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-8K6G"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-8K6G');</script>
+<!-- End Google Tag Manager -->    	<div class="outerWrapper">
         	<div class="headerOuterWrapper">
             	<div class="headerInnerWrapper">
-                	<h1><a href="http://www.artfido.com"><img class="artFidoLogo" src="img/artFido-logo.png" width="205" height="80" alt="artFido is a online sales and auction site for the Australian and New Zealand art market and is dedicated entirely to the sale of original art. If you are an art gallery, artist, or art lover you can buy and sell your art on artFido. Browse our online art gallery or start searching for affordable art online and original paintings for sale. You can find and buy art online at artFido such as contemporary art, modern art, abstract art, canvas art, aboriginal art, or oil paintings. Welcome Australia, NZ, America and the globe to the new way to buy and sell art!" border="0"></a></h1>
+                	<h1><a href="http://www.artfido.com"><img class="artFidoLogo" src="/img/artFido-logo.png" width="205" height="80" alt="artFido is a online sales and auction site for the Australian and New Zealand art market and is dedicated entirely to the sale of original art. If you are an art gallery, artist, or art lover you can buy and sell your art on artFido. Browse our online art gallery or start searching for affordable art online and original paintings for sale. You can find and buy art online at artFido such as contemporary art, modern art, abstract art, canvas art, aboriginal art, or oil paintings. Welcome Australia, NZ, America and the globe to the new way to buy and sell art!" border="0"></a></h1>
 <div class="artWorksCounterWrapper">
-    
+    <script>
+		var regex = /^([a-zA-Z0-9_\.\-\+])+\@(([a-zA-Z0-9\-])+\.)+([a-zA-Z0-9]{2,4})+$/;
+		$(document).ready(function(){
+			$('#txtSubscribeEmail').on('focus', function(){
+					var $this = $(this);
+					if($this.val() == 'Email address'){
+						$this.val('');
+					}
+				}).on('blur', function(){
+				var $this = $(this);
+				if($this.val() == ''){
+					$this.val('Email address');
+				}
+			});
+			
+			$("#btnSubscribe").click(function(){
+				
+				var demail = $("#txtSubscribeEmail").attr("value");
+				if(!regex.test(demail)){
+					alert("Please enter a valid email address");
+					return false;
+				}else{
+					var dataString = $("#frmSubscription").serialize();
+					$.ajax({
+						url: '/cgi/process-subscription.php',
+						type: 'POST',
+						data: dataString,
+						dataType: 'json',
+						beforeSend: function(){ 
+							$("#subscribeButtonWrapper").css("display", "none");
+							$("#subscribeLoader").css("display", "inline-block");
+						},
+						success: function(data){
+							if(data.status == "valid"){
+								alert("Thank you. You are now subscribed.");
+								location.reload();
+								$("#subscribeButtonWrapper").css("display", "none");
+								$("#subscribeLoader").css("display", "inline-block");
+								return false;
+							}else if(data.status == "already subscribed"){
+								alert("You are already subscribed.");
+								location.reload();
+								$("#subscribeButtonWrapper").css("display", "none");
+								$("#subscribeLoader").css("display", "inline-block");
+								return false;
+							}
+						}
+					});
+					return false;
+				}
+			});
+		});
+	</script>
     <div class="clearBoth"></div>
-	    <div class="small" id="flip-counter">
+    <div class="subscribeWrapper">
+        <form name="frmSubscription" id="frmSubscription">
+            <input type="text" name="txtSubscribeEmail" id="txtSubscribeEmail" value="Email address" class="formFieldSubscribe">
+            <input type="hidden" name="action" id="action" value="subscribe">
+            <div id="subscribeButtonWrapper" class="subscribeButtonWrapper">
+                <a id="btnSubscribe" class="blackButton" href="javascript: void(0);">Subscribe</a>
+            </div>
+            <img src="/img/loader.gif" width="16" height="16" border="0" alt="Subscription loader" class="subscribeLoader" id="subscribeLoader">
+        </form>
+    </div>
+    <div class="clearBoth"></div>
+	    <h1 class="dedicatedMessage"><a href="/popular-art" class="orangeLink hoverNoLink">BUY ART ONLINE DIRECT FROM THE ARTIST</a></h1>
+    <div class="small" id="flip-counter">
         <ul>
         	<li class="digit">
                 <div class="digit-wrap do-digit-animate" id="digit-a0">
@@ -100,27 +172,36 @@
         	                        <li class="digit">
                             <div class="digit-wrap do-digit-animate" id="digit-a0">
                                 <div class="shadow"></div>
-                                <div class="top-new"><span>9</span></div>
+                                <div class="top-new"><span>2</span></div>
                                 <div class="digit-hinge">
-                                    <div class="top-old"><span>9</span></div>
+                                    <div class="top-old"><span>2</span></div>
                                 </div>
                             </div>
                         </li>
-                                    <li class="digit">
-                            <div class="digit-wrap do-digit-animate" id="digit-a0">
-                                <div class="shadow"></div>
-                                <div class="top-new"><span>3</span></div>
-                                <div class="digit-hinge">
-                                    <div class="top-old"><span>3</span></div>
-                                </div>
-                            </div>
-                        </li>
-                                    <li class="digit">
+                                                <li class="digit">
                             <div class="digit-wrap do-digit-animate" id="digit-a0">
                                 <div class="shadow"></div>
                                 <div class="top-new"><span>1</span></div>
                                 <div class="digit-hinge">
                                     <div class="top-old"><span>1</span></div>
+                                </div>
+                            </div>
+                        </li>
+                                    <li class="digit">
+                            <div class="digit-wrap do-digit-animate" id="digit-a0">
+                                <div class="shadow"></div>
+                                <div class="top-new"><span>2</span></div>
+                                <div class="digit-hinge">
+                                    <div class="top-old"><span>2</span></div>
+                                </div>
+                            </div>
+                        </li>
+                                    <li class="digit">
+                            <div class="digit-wrap do-digit-animate" id="digit-a0">
+                                <div class="shadow"></div>
+                                <div class="top-new"><span>0</span></div>
+                                <div class="digit-hinge">
+                                    <div class="top-old"><span>0</span></div>
                                 </div>
                             </div>
                         </li>
@@ -131,13 +212,13 @@
 </div>          
         <div class="headerMenuWrapper notLogged">
             <ul class="headerMenu">
-                <li><a href="http://www.artfido.com/register.php">Register</a></li>
+                <li><a href="https://www.artfido.com/register.php">Register</a></li>
                 <li>|</li>
-                <li><a href="http://www.artfido.com/sign-in.php">Sign in</a></li>
+                <li><a href="https://www.artfido.com/sign-in.php">Sign in</a></li>
                 <li>|</li>
-                <li><a href="http://www.artfido.com/sign-in.php?redirect=my-summary">My <span class="registeredTrademark">artFido</span></a></li>
+                <li><a href="https://www.artfido.com/sign-in.php?redirect=my-summary">My <span class="registeredTrademark">artFido</span></a></li>
                 <li>|</li>
-                <li><a href="http://www.artfido.com/sign-in.php?redirect=new-listing" class="sellMyArtRed boldFont">Sell My Art</a></li>
+                <li><a href="https://www.artfido.com/sign-in.php?redirect=new-listing" class="orangeLink boldFont">Sell My Art</a></li>
             </ul>
         </div>
 <div class="clearRight"></div>
@@ -149,13 +230,13 @@
 </div>
 <script>
 	$("#youtubelink").click(function(){
-		$.facebox({ ajax: "http://www.artfido.com/inc/youtube.php" });
+		$.facebox({ ajax: "/inc/youtube.php" });
 	});
 	$("#twitterlink").click(function(){
-		$.facebox({ ajax: "http://www.artfido.com/inc/twitter.php" });
+		$.facebox({ ajax: "/inc/twitter.php" });
 	});
 	$("#facebooklink").click(function(){
-		$.facebox({ ajax: "http://www.artfido.com/inc/facebook.php" });
+		$.facebox({ ajax: "/inc/facebook.php" });
 	});
 </script>                    <div class="clearBoth"></div>
                 </div>
@@ -166,291 +247,182 @@
 		$("#mainNavigation").show();
 		$("#mainNavigationLoaderWrapper").hide();
 		
-		
-		$(".subject").click(function(e) {
-			e.preventDefault();
-			$("div#subjectMenu").toggle();
-			$(".subject").toggleClass("menu-open");
-		});
-		$("div#subjectMenu").mouseup(function() {
-			return false
-		});
-		$(document).mouseup(function(e) {
-			if($(e.target).parent("a.subject").length==0) {
-				$(".subject").removeClass("menu-open");
-				$("div#subjectMenu").hide();
-			}
-		});
-		
-		$(".medium").click(function(e) {
-			e.preventDefault();
-			$("div#mediumMenu").toggle();
-			$(".medium").toggleClass("menu-open");
-		});
-		$("div#mediumMenu").mouseup(function() {
-			return false
-		});
-		$(document).mouseup(function(e) {
-			if($(e.target).parent("a.medium").length==0) {
-				$(".medium").removeClass("menu-open");
-				$("div#mediumMenu").hide();
-			}
-		});
-		
-		$(".style").click(function(e) {
-			e.preventDefault();
-			$("div#styleMenu").toggle();
-			$(".style").toggleClass("menu-open");
-		});
-		$("div#styleMenu").mouseup(function() {
-			return false
-		});
-		$(document).mouseup(function(e) {
-			if($(e.target).parent("a.style").length==0) {
-				$(".style").removeClass("menu-open");
-				$("div#styleMenu").hide();
-			}
-		});
-		
-		$(".size").click(function(e) {
-			e.preventDefault();
-			$("div#sizeMenu").toggle();
-			$(".size").toggleClass("menu-open");
-		});
-		$("div#sizeMenu").mouseup(function() {
-			return false
-		});
-		$(document).mouseup(function(e) {
-			if($(e.target).parent("a.size").length==0) {
-				$(".size").removeClass("menu-open");
-				$("div#sizeMenu").hide();
-			}
-		});
-		
-		$(".colour").click(function(e) {
-			e.preventDefault();
-			$("div#colourMenu").toggle();
-			$(".colour").toggleClass("menu-open");
-		});
-		$("div#colourMenu").mouseup(function() {
-			return false
-		});
-		$(document).mouseup(function(e) {
-			if($(e.target).parent("a.colour").length==0) {
-				$(".colour").removeClass("menu-open");
-				$("div#colourMenu").hide();
-			}
-		});
-		
-		$(".price").click(function(e) {
-			e.preventDefault();
-			$("div#priceMenu").toggle();
-			$(".price").toggleClass("menu-open");
-		});
-		$("div#colourMenu").mouseup(function() {
-			return false
-		});
-		$(document).mouseup(function(e) {
-			if($(e.target).parent("a.price").length==0) {
-				$(".price").removeClass("menu-open");
-				$("div#priceMenu").hide();
-			}
-		});
 		$("#btnSearch").click(function(){
 			if($("#frmSearch").valid()){
 				$("#frmSearch").submit();
 				return false;
 			}
 		});
+		
+		$('#nav li').hover(
+			function () {
+				//show its submenu
+				$('ul', this).stop(true, true).slideDown(100);
+	
+			}, 
+			function () {
+				//hide its submenu
+				$('ul', this).stop(true, true).slideUp(100);			
+			}
+		);
 	});
-</script> 
+</script>
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
 <div class="mainNavigationOuterWrapper">
     <div class="mainNavigationInnerWrapper">
+    	<h2 class="searchListingsBy">search art listings by...</h2>
+        <!--<div class="popularLinkWrapper">
+        	<a class="popularLink orangeLink" href="/popular-art.php">Popular</a>
+        </div>-->
+        <div class="clearBoth"></div>
     	<div id="mainNavigation">
             <div class="mainNavigationWrapper left">
-                <div id="mainNavigationWrapper">
-                    <div id="subjectTopNav" class="mainNavigationTopNav">
-                        <a href="/subject" class="subject"><span>Subject</span></a>
-                    </div>
-                    <div id="subjectMenu" class="mainNavigationMenu">
+            	<ul id="nav">
+                    <li><a href="http://www.artfido.com/popular-art" class="orangeLink boldFont"><span>Popular</span></a></li><div class="mainNavigationSeparator"></div>
+                    <li><a href="http://www.artfido.com/listing-search.php?submit=Submit+Query&amp;sortByType=timeListed&amp;page=1" class="orangeLink boldFont"><span>All</span></a></li><div class="mainNavigationSeparator"></div>
+                    <li><a href="javascript:void(0);"><span>Subject</span><span class="menuArrow"><img src="/img/menu-arrow-down.png"></span></a>
                         <ul class="mainNavigation">
-                                                        <li class="mainNavigationItem"><a href="http://www.artfido.com/listing-search.php?subject=Animals" title="Animals">Animals</a></li>
-                                                        <li class="mainNavigationItem"><a href="http://www.artfido.com/listing-search.php?subject=Architecture" title="Architecture">Architecture</a></li>
-                                                        <li class="mainNavigationItem"><a href="http://www.artfido.com/listing-search.php?subject=Botanical" title="Botanical">Botanical</a></li>
-                                                        <li class="mainNavigationItem"><a href="http://www.artfido.com/listing-search.php?subject=Cars%2C+Planes%2C+Trains" title="Cars, Planes, Trains">Cars, Planes, Trains</a></li>
-                                                        <li class="mainNavigationItem"><a href="http://www.artfido.com/listing-search.php?subject=Children" title="Children">Children</a></li>
-                                                        <li class="mainNavigationItem"><a href="http://www.artfido.com/listing-search.php?subject=Fantasy" title="Fantasy">Fantasy</a></li>
-                                                        <li class="mainNavigationItem"><a href="http://www.artfido.com/listing-search.php?subject=Interiors" title="Interiors">Interiors</a></li>
-                                                        <li class="mainNavigationItem"><a href="http://www.artfido.com/listing-search.php?subject=Landscape" title="Landscape">Landscape</a></li>
-                                                        <li class="mainNavigationItem"><a href="http://www.artfido.com/listing-search.php?subject=Nudes" title="Nudes">Nudes</a></li>
-                                                        <li class="mainNavigationItem"><a href="http://www.artfido.com/listing-search.php?subject=Other" title="Other">Other</a></li>
-                                                        <li class="mainNavigationItem"><a href="http://www.artfido.com/listing-search.php?subject=People" title="People">People</a></li>
-                                                        <li class="mainNavigationItem"><a href="http://www.artfido.com/listing-search.php?subject=Portrait" title="Portrait">Portrait</a></li>
-                                                        <li class="mainNavigationItem"><a href="http://www.artfido.com/listing-search.php?subject=Religious" title="Religious">Religious</a></li>
-                                                        <li class="mainNavigationItem"><a href="http://www.artfido.com/listing-search.php?subject=Seascape%2C+Marine" title="Seascape, Marine">Seascape, Marine</a></li>
-                                                        <li class="mainNavigationItem"><a href="http://www.artfido.com/listing-search.php?subject=Sports" title="Sports">Sports</a></li>
-                                                        <li class="mainNavigationItem"><a href="http://www.artfido.com/listing-search.php?subject=Still+Life" title="Still Life">Still Life</a></li>
-                                                </ul>
-                    </div>
-                </div>
-                <div class="mainNavigationSeparator"></div>
-                <div id="mainNavigationWrapper">
-                    <div id="styleTopNav" class="mainNavigationTopNav">
-                        <a href="/style" class="style"><span>Style</span></a>
-                    </div>
-                    <div id="styleMenu" class="mainNavigationMenu">
+							                                    <li><a href="http://www.artfido.com/listing-search.php?subject=Animals" title="Animals">Animals</a></li>
+                                                                <li><a href="http://www.artfido.com/listing-search.php?subject=Architecture" title="Architecture">Architecture</a></li>
+                                                                <li><a href="http://www.artfido.com/listing-search.php?subject=Botanical" title="Botanical">Botanical</a></li>
+                                                                <li><a href="http://www.artfido.com/listing-search.php?subject=Cars%2C+Planes%2C+Trains" title="Cars, Planes, Trains">Cars, Planes, Trains</a></li>
+                                                                <li><a href="http://www.artfido.com/listing-search.php?subject=Children" title="Children">Children</a></li>
+                                                                <li><a href="http://www.artfido.com/listing-search.php?subject=Fantasy" title="Fantasy">Fantasy</a></li>
+                                                                <li><a href="http://www.artfido.com/listing-search.php?subject=Interiors" title="Interiors">Interiors</a></li>
+                                                                <li><a href="http://www.artfido.com/listing-search.php?subject=Landscape" title="Landscape">Landscape</a></li>
+                                                                <li><a href="http://www.artfido.com/listing-search.php?subject=Nudes" title="Nudes">Nudes</a></li>
+                                                                <li><a href="http://www.artfido.com/listing-search.php?subject=Other" title="Other">Other</a></li>
+                                                                <li><a href="http://www.artfido.com/listing-search.php?subject=People" title="People">People</a></li>
+                                                                <li><a href="http://www.artfido.com/listing-search.php?subject=Portrait" title="Portrait">Portrait</a></li>
+                                                                <li><a href="http://www.artfido.com/listing-search.php?subject=Religious" title="Religious">Religious</a></li>
+                                                                <li><a href="http://www.artfido.com/listing-search.php?subject=Seascape%2C+Marine" title="Seascape, Marine">Seascape, Marine</a></li>
+                                                                <li><a href="http://www.artfido.com/listing-search.php?subject=Sports" title="Sports">Sports</a></li>
+                                                                <li><a href="http://www.artfido.com/listing-search.php?subject=Still+Life" title="Still Life">Still Life</a></li>
+                                                    </ul>
+                        <div class="clear"></div>
+                    </li><div class="mainNavigationSeparator"></div>
+                    <li><a href="javascript:void(0);"><span>Style</span><span class="menuArrow"><img src="/img/menu-arrow-down.png"></span></a>
                         <ul class="mainNavigation">
-                                                        <li class="mainNavigationItem"><a href="http://www.artfido.com/listing-search.php?style=Aboriginal%2FOceanic" title="Aboriginal/Oceanic">Aboriginal/Oceanic</a></li>
-                                                        <li class="mainNavigationItem"><a href="http://www.artfido.com/listing-search.php?style=Abstract" title="Abstract">Abstract</a></li>
-                                                        <li class="mainNavigationItem"><a href="http://www.artfido.com/listing-search.php?style=Artefact" title="Artefact">Artefact</a></li>
-                                                        <li class="mainNavigationItem"><a href="http://www.artfido.com/listing-search.php?style=Asian" title="Asian">Asian</a></li>
-                                                        <li class="mainNavigationItem"><a href="http://www.artfido.com/listing-search.php?style=Cartoon" title="Cartoon">Cartoon</a></li>
-                                                        <li class="mainNavigationItem"><a href="http://www.artfido.com/listing-search.php?style=Colonial" title="Colonial">Colonial</a></li>
-                                                        <li class="mainNavigationItem"><a href="http://www.artfido.com/listing-search.php?style=Contemporary" title="Contemporary">Contemporary</a></li>
-                                                        <li class="mainNavigationItem"><a href="http://www.artfido.com/listing-search.php?style=Decorative+Art" title="Decorative Art">Decorative Art</a></li>
-                                                        <li class="mainNavigationItem"><a href="http://www.artfido.com/listing-search.php?style=Graffiti%2C+Street+Art" title="Graffiti, Street Art">Graffiti, Street Art</a></li>
-                                                        <li class="mainNavigationItem"><a href="http://www.artfido.com/listing-search.php?style=Impressionism" title="Impressionism">Impressionism</a></li>
-                                                        <li class="mainNavigationItem"><a href="http://www.artfido.com/listing-search.php?style=International" title="International">International</a></li>
-                                                        <li class="mainNavigationItem"><a href="http://www.artfido.com/listing-search.php?style=Maori%2FPasifica" title="Maori/Pasifica">Maori/Pasifica</a></li>
-                                                        <li class="mainNavigationItem"><a href="http://www.artfido.com/listing-search.php?style=Modern" title="Modern">Modern</a></li>
-                                                        <li class="mainNavigationItem"><a href="http://www.artfido.com/listing-search.php?style=Naive" title="Naive">Naive</a></li>
-                                                        <li class="mainNavigationItem"><a href="http://www.artfido.com/listing-search.php?style=Other" title="Other">Other</a></li>
-                                                        <li class="mainNavigationItem"><a href="http://www.artfido.com/listing-search.php?style=Pop" title="Pop">Pop</a></li>
-                                                        <li class="mainNavigationItem"><a href="http://www.artfido.com/listing-search.php?style=Realism" title="Realism">Realism</a></li>
-                                                        <li class="mainNavigationItem"><a href="http://www.artfido.com/listing-search.php?style=Surrealism" title="Surrealism">Surrealism</a></li>
-                                                </ul>
-                    </div>
-                </div>
-                <div class="mainNavigationSeparator"></div>
-                <div id="mainNavigationWrapper">
-                    <div id="mediumTopNav" class="mainNavigationTopNav">
-                        <a href="/medium" class="medium"><span>Medium</span></a>
-                    </div>
-                    <div id="mediumMenu" class="mainNavigationMenu">
-                        <ul class="mainNavigation">
-                                                        <li class="mainNavigationItem"><a href="http://www.artfido.com/listing-search.php?medium=Acrylic" title="Acrylic">Acrylic</a></li>
-                                                        <li class="mainNavigationItem"><a href="http://www.artfido.com/listing-search.php?medium=Ceramics" title="Ceramics">Ceramics</a></li>
-                                                        <li class="mainNavigationItem"><a href="http://www.artfido.com/listing-search.php?medium=Charcoal" title="Charcoal">Charcoal</a></li>
-                                                        <li class="mainNavigationItem"><a href="http://www.artfido.com/listing-search.php?medium=Drawing" title="Drawing">Drawing</a></li>
-                                                        <li class="mainNavigationItem"><a href="http://www.artfido.com/listing-search.php?medium=Lithographs%2C+Etchings" title="Lithographs, Etchings">Lithographs, Etchings</a></li>
-                                                        <li class="mainNavigationItem"><a href="http://www.artfido.com/listing-search.php?medium=Mixed+Media" title="Mixed Media">Mixed Media</a></li>
-                                                        <li class="mainNavigationItem"><a href="http://www.artfido.com/listing-search.php?medium=Ochre" title="Ochre">Ochre</a></li>
-                                                        <li class="mainNavigationItem"><a href="http://www.artfido.com/listing-search.php?medium=Oil" title="Oil">Oil</a></li>
-                                                        <li class="mainNavigationItem"><a href="http://www.artfido.com/listing-search.php?medium=Other" title="Other">Other</a></li>
-                                                        <li class="mainNavigationItem"><a href="http://www.artfido.com/listing-search.php?medium=Pencil%2C+Pen%2C+Ink" title="Pencil, Pen, Ink">Pencil, Pen, Ink</a></li>
-                                                        <li class="mainNavigationItem"><a href="http://www.artfido.com/listing-search.php?medium=Photography" title="Photography">Photography</a></li>
-                                                        <li class="mainNavigationItem"><a href="http://www.artfido.com/listing-search.php?medium=Prints%2C+Posters" title="Prints, Posters">Prints, Posters</a></li>
-                                                        <li class="mainNavigationItem"><a href="http://www.artfido.com/listing-search.php?medium=Sculpture%2C+Installation" title="Sculpture, Installation">Sculpture, Installation</a></li>
-                                                        <li class="mainNavigationItem"><a href="http://www.artfido.com/listing-search.php?medium=Textile" title="Textile">Textile</a></li>
-                                                        <li class="mainNavigationItem"><a href="http://www.artfido.com/listing-search.php?medium=Time-Based+Art+%28Film%2C+Video%2C+Digital%29" title="Time-Based Art (Film, Video, Digital)">Time-Based Art (Film, Video, Digital)</a></li>
-                                                        <li class="mainNavigationItem"><a href="http://www.artfido.com/listing-search.php?medium=Water+Colour" title="Water Colour">Water Colour</a></li>
-                                                </ul>
-                    </div>
-                </div>
-                <div class="mainNavigationSeparator"></div>
-                <div id="mainNavigationWrapper">
-                    <div id="sizeTopNav" class="mainNavigationTopNav">
-                        <a href="/size" class="size"><span>Size</span></a>
-                    </div>
-                    <div id="sizeMenu" class="mainNavigationMenu">
-                        <ul class="mainNavigation">
-                                                        <li class="mainNavigationItem"><a href="http://www.artfido.com/listing-search.php?size=Under+60cm+%282+feet%29" title="Under 60cm (2 feet)">Under 60cm (2 feet)</a></li>
-                                                        <li class="mainNavigationItem"><a href="http://www.artfido.com/listing-search.php?size=60cm+to+90cm+%282+to+3+feet%29" title="60cm to 90cm (2 to 3 feet)">60cm to 90cm (2 to 3 feet)</a></li>
-                                                        <li class="mainNavigationItem"><a href="http://www.artfido.com/listing-search.php?size=90cm+to+120cm+%283+to+4+feet%29" title="90cm to 120cm (3 to 4 feet)">90cm to 120cm (3 to 4 feet)</a></li>
-                                                        <li class="mainNavigationItem"><a href="http://www.artfido.com/listing-search.php?size=120cm+to+150cm+%284+to+5+feet%29" title="120cm to 150cm (4 to 5 feet)">120cm to 150cm (4 to 5 feet)</a></li>
-                                                        <li class="mainNavigationItem"><a href="http://www.artfido.com/listing-search.php?size=Over+150cm+%28over+5+feet%29" title="Over 150cm (over 5 feet)">Over 150cm (over 5 feet)</a></li>
-                                                </ul>
-                    </div>
-                </div>
-                <div class="mainNavigationSeparator"></div>
-                <div id="mainNavigationWrapper">
-                    <div id="colourTopNav" class="mainNavigationTopNav">
-                        <a href="/colour" class="colour"><span>Colour</span></a>
-                    </div>
-                    <div id="colourMenu" class="mainNavigationMenu">
-                        <ul class="mainNavigation">
-                                                        <li class="mainNavigationItem mainNavigationColour"><a href="http://www.artfido.com/listing-search.php?colour=Blue" title="Blue"><img class="mainMenuSwatch" src="/img/colour-palette/blue.png"></a><a href="/listing-search.php?colour=Blue" title="Blue" class="mainNavigationColourLink">Blue</a></li>
-                                                        <li class="mainNavigationItem mainNavigationColour"><a href="http://www.artfido.com/listing-search.php?colour=Dark+Blue" title="Dark Blue"><img class="mainMenuSwatch" src="/img/colour-palette/dark-blue.png"></a><a href="/listing-search.php?colour=Dark Blue" title="Dark Blue" class="mainNavigationColourLink">Dark Blue</a></li>
-                                                        <li class="mainNavigationItem mainNavigationColour"><a href="http://www.artfido.com/listing-search.php?colour=Purple" title="Purple"><img class="mainMenuSwatch" src="/img/colour-palette/purple.png"></a><a href="/listing-search.php?colour=Purple" title="Purple" class="mainNavigationColourLink">Purple</a></li>
-                                                        <li class="mainNavigationItem mainNavigationColour"><a href="http://www.artfido.com/listing-search.php?colour=Pink" title="Pink"><img class="mainMenuSwatch" src="/img/colour-palette/pink.png"></a><a href="/listing-search.php?colour=Pink" title="Pink" class="mainNavigationColourLink">Pink</a></li>
-                                                        <li class="mainNavigationItem mainNavigationColour"><a href="http://www.artfido.com/listing-search.php?colour=Red" title="Red"><img class="mainMenuSwatch" src="/img/colour-palette/red.png"></a><a href="/listing-search.php?colour=Red" title="Red" class="mainNavigationColourLink">Red</a></li>
-                                                        <li class="mainNavigationItem mainNavigationColour"><a href="http://www.artfido.com/listing-search.php?colour=Orange" title="Orange"><img class="mainMenuSwatch" src="/img/colour-palette/orange.png"></a><a href="/listing-search.php?colour=Orange" title="Orange" class="mainNavigationColourLink">Orange</a></li>
-                                                        <li class="mainNavigationItem mainNavigationColour"><a href="http://www.artfido.com/listing-search.php?colour=Yellow" title="Yellow"><img class="mainMenuSwatch" src="/img/colour-palette/yellow.png"></a><a href="/listing-search.php?colour=Yellow" title="Yellow" class="mainNavigationColourLink">Yellow</a></li>
-                                                        <li class="mainNavigationItem mainNavigationColour"><a href="http://www.artfido.com/listing-search.php?colour=Green" title="Green"><img class="mainMenuSwatch" src="/img/colour-palette/green.png"></a><a href="/listing-search.php?colour=Green" title="Green" class="mainNavigationColourLink">Green</a></li>
-                                                        <li class="mainNavigationItem mainNavigationColour"><a href="http://www.artfido.com/listing-search.php?colour=Dark+Green" title="Dark Green"><img class="mainMenuSwatch" src="/img/colour-palette/dark-green.png"></a><a href="/listing-search.php?colour=Dark Green" title="Dark Green" class="mainNavigationColourLink">Dark Green</a></li>
-                                                        <li class="mainNavigationItem mainNavigationColour"><a href="http://www.artfido.com/listing-search.php?colour=Brown" title="Brown"><img class="mainMenuSwatch" src="/img/colour-palette/brown.png"></a><a href="/listing-search.php?colour=Brown" title="Brown" class="mainNavigationColourLink">Brown</a></li>
-                                                        <li class="mainNavigationItem mainNavigationColour"><a href="http://www.artfido.com/listing-search.php?colour=Beige" title="Beige"><img class="mainMenuSwatch" src="/img/colour-palette/beige.png"></a><a href="/listing-search.php?colour=Beige" title="Beige" class="mainNavigationColourLink">Beige</a></li>
-                                                        <li class="mainNavigationItem mainNavigationColour"><a href="http://www.artfido.com/listing-search.php?colour=Grey" title="Grey"><img class="mainMenuSwatch" src="/img/colour-palette/grey.png"></a><a href="/listing-search.php?colour=Grey" title="Grey" class="mainNavigationColourLink">Grey</a></li>
-                                                        <li class="mainNavigationItem mainNavigationColour"><a href="http://www.artfido.com/listing-search.php?colour=Black" title="Black"><img class="mainMenuSwatch" src="/img/colour-palette/black.png"></a><a href="/listing-search.php?colour=Black" title="Black" class="mainNavigationColourLink">Black</a></li>
-                                                        <li class="mainNavigationItem mainNavigationColour"><a href="http://www.artfido.com/listing-search.php?colour=White" title="White"><img class="mainMenuSwatch" src="/img/colour-palette/white.png"></a><a href="/listing-search.php?colour=White" title="White" class="mainNavigationColourLink">White</a></li>
-                                                        <li class="mainNavigationItem mainNavigationColour"><a href="http://www.artfido.com/listing-search.php?colour=N%2FA" title="N/A"><img class="mainMenuSwatch" src="/img/colour-palette/na.png"></a><a href="/listing-search.php?colour=N/A" title="N/A" class="mainNavigationColourLink">N/A</a></li>
-                                                </ul>
-                    </div>
-                </div>
-                
-                <div class="mainNavigationSeparator"></div>
-                <div id="mainNavigationWrapper">
-                    <div id="priceTopNav" class="mainNavigationTopNav">
-                        <a href="/price" class="price"><span>Price</span></a>
-                    </div>
-                    <div id="priceMenu" class="mainNavigationMenu">
-                        <ul class="mainNavigation">
-                                                        <li class="mainNavigationItem"><a href="http://www.artfido.com/listing-search.php?price_low=0&amp;price_high=250" title="priceDetails">Art under $250</a></li>
-                                                        <li class="mainNavigationItem"><a href="http://www.artfido.com/listing-search.php?price_low=251&amp;price_high=500" title="priceDetails">$250 to $500</a></li>
-                                                        <li class="mainNavigationItem"><a href="http://www.artfido.com/listing-search.php?price_low=501&amp;price_high=1000" title="priceDetails">$500 to $1000</a></li>
-                                                        <li class="mainNavigationItem"><a href="http://www.artfido.com/listing-search.php?price_low=1001&amp;price_high=2000" title="priceDetails">$1,000 to $2,000</a></li>
-                                                        <li class="mainNavigationItem"><a href="http://www.artfido.com/listing-search.php?price_low=2001&amp;price_high=4000" title="priceDetails">$2,000 to $4,000</a></li>
-                                                        <li class="mainNavigationItem"><a href="http://www.artfido.com/listing-search.php?price_low=4001&amp;price_high=7500" title="priceDetails">$4,000 to $7,500</a></li>
-                                                        <li class="mainNavigationItem"><a href="http://www.artfido.com/listing-search.php?price_low=7501&amp;price_high=15000" title="priceDetails">$7,500 to $15,000</a></li>
-                                                        <li class="mainNavigationItem"><a href="http://www.artfido.com/listing-search.php?price_low=15001&amp;price_high=30000" title="priceDetails">$15,000 to $30,000</a></li>
-                                                        <li class="mainNavigationItem"><a href="http://www.artfido.com/listing-search.php?price_low=30001&amp;price_high=50001" title="priceDetails">$30,000 to $50,000</a></li>
-                                                        <li class="mainNavigationItem"><a href="http://www.artfido.com/listing-search.php?price_low=50001&amp;price_high=999999999" title="priceDetails">$50,000+</a></li>
-                                                </ul>
-                    </div>
-                </div>
-                <div class="mainNavigationSeparator"></div>
-                <div id="mainNavigationWrapper">
-                    <div id="artistTopNav" class="mainNavigationTopNav">
-                        <a href="http://www.artfido.com/artist-list.php?view=registered" class="artistList"><span>Artists</span></a>
-                    </div>
-                </div>
-                <div class="mainNavigationSeparator"></div>
-                <div id="mainNavigationWrapper">
-                    <div id="galleryTopNav" class="mainNavigationTopNav">
-                        <a href="http://www.artfido.com/gallery-list.php" class="gallery-list"><span>Galleries</span></a>
-                    </div>
-                </div>
-                <div class="mainNavigationSeparator"></div>
-                
-                <!--<script src="/inc/jquery.tipsy.js" type="text/javascript" charset="utf-8"></script>
-                <script>
-                    $(function(){
-                        $('.selfRepresentedArtistTooltip').tipsy({fallback: "Artist", gravity: 's'});
-                    });
-                </script>
-                <div id="mainNavigationWrapper">
-                    <div id="selfRepresentedArtistTopNav" class="mainNavigationTopNav">
-                        <a href="self-represented-artist-list.php" class="self-represented-artist-list selfRepresentedArtistTooltip"><span>SRA</span></a>
-                    </div>
-                </div>
-                <div class="mainNavigationSeparator"></div>-->
-                <div id="mainNavigationWrapper">
-                    <div id="allWorksTopNav" class="mainNavigationTopNav">
-                        <a href="http://www.artfido.com/listing-search.php?submit=Submit+Query&amp;sortByType=timeListed&amp;page=1" class="allWorks"><span>All Artworks</span></a>
-                    </div>
-                </div>
+							                                    <li><a href="http://www.artfido.com/listing-search.php?style=Aboriginal%2FOceanic" title="Aboriginal/Oceanic">Aboriginal/Oceanic</a></li>
+                                                                <li><a href="http://www.artfido.com/listing-search.php?style=Abstract" title="Abstract">Abstract</a></li>
+                                                                <li><a href="http://www.artfido.com/listing-search.php?style=Artefact" title="Artefact">Artefact</a></li>
+                                                                <li><a href="http://www.artfido.com/listing-search.php?style=Asian" title="Asian">Asian</a></li>
+                                                                <li><a href="http://www.artfido.com/listing-search.php?style=Cartoon" title="Cartoon">Cartoon</a></li>
+                                                                <li><a href="http://www.artfido.com/listing-search.php?style=Colonial" title="Colonial">Colonial</a></li>
+                                                                <li><a href="http://www.artfido.com/listing-search.php?style=Contemporary" title="Contemporary">Contemporary</a></li>
+                                                                <li><a href="http://www.artfido.com/listing-search.php?style=Decorative+Art" title="Decorative Art">Decorative Art</a></li>
+                                                                <li><a href="http://www.artfido.com/listing-search.php?style=Impressionism" title="Impressionism">Impressionism</a></li>
+                                                                <li><a href="http://www.artfido.com/listing-search.php?style=International" title="International">International</a></li>
+                                                                <li><a href="http://www.artfido.com/listing-search.php?style=Maori%2FPasifica" title="Maori/Pasifica">Maori/Pasifica</a></li>
+                                                                <li><a href="http://www.artfido.com/listing-search.php?style=Modern" title="Modern">Modern</a></li>
+                                                                <li><a href="http://www.artfido.com/listing-search.php?style=Naive" title="Naive">Naive</a></li>
+                                                                <li><a href="http://www.artfido.com/listing-search.php?style=Other" title="Other">Other</a></li>
+                                                                <li><a href="http://www.artfido.com/listing-search.php?style=Pop" title="Pop">Pop</a></li>
+                                                                <li><a href="http://www.artfido.com/listing-search.php?style=Realism" title="Realism">Realism</a></li>
+                                                                <li><a href="http://www.artfido.com/listing-search.php?style=Street+Art" title="Street Art">Street Art</a></li>
+                                                                <li><a href="http://www.artfido.com/listing-search.php?style=Surrealism" title="Surrealism">Surrealism</a></li>
+                                                                <li><a href="http://www.artfido.com/listing-search.php?style=Tattoo+Inspired+Art" title="Tattoo Inspired Art">Tattoo Inspired Art</a></li>
+                                                    </ul>
+                        <div class="clear"></div>
+                    </li><div class="mainNavigationSeparator"></div>
+                    <li><a href="javascript:void(0);"><span>Medium</span><span class="menuArrow"><img src="/img/menu-arrow-down.png"></span></a>
+                        <ul>
+																<li><a href="http://www.artfido.com/listing-search.php?medium=Acrylic" title="Acrylic">Acrylic</a></li>
+																<li><a href="http://www.artfido.com/listing-search.php?medium=Ceramics" title="Ceramics">Ceramics</a></li>
+																<li><a href="http://www.artfido.com/listing-search.php?medium=Charcoal" title="Charcoal">Charcoal</a></li>
+																<li><a href="http://www.artfido.com/listing-search.php?medium=Drawing" title="Drawing">Drawing</a></li>
+																<li><a href="http://www.artfido.com/listing-search.php?medium=Lithographs%2C+Etchings" title="Lithographs, Etchings">Lithographs, Etchings</a></li>
+																<li><a href="http://www.artfido.com/listing-search.php?medium=Mixed+Media" title="Mixed Media">Mixed Media</a></li>
+																<li><a href="http://www.artfido.com/listing-search.php?medium=Ochre" title="Ochre">Ochre</a></li>
+																<li><a href="http://www.artfido.com/listing-search.php?medium=Oil" title="Oil">Oil</a></li>
+																<li><a href="http://www.artfido.com/listing-search.php?medium=Other" title="Other">Other</a></li>
+																<li><a href="http://www.artfido.com/listing-search.php?medium=Pencil%2C+Pen%2C+Ink" title="Pencil, Pen, Ink">Pencil, Pen, Ink</a></li>
+																<li><a href="http://www.artfido.com/listing-search.php?medium=Photography" title="Photography">Photography</a></li>
+																<li><a href="http://www.artfido.com/listing-search.php?medium=Prints%2C+Posters" title="Prints, Posters">Prints, Posters</a></li>
+																<li><a href="http://www.artfido.com/listing-search.php?medium=Sculpture%2C+Installation" title="Sculpture, Installation">Sculpture, Installation</a></li>
+																<li><a href="http://www.artfido.com/listing-search.php?medium=Textile" title="Textile">Textile</a></li>
+																<li><a href="http://www.artfido.com/listing-search.php?medium=Time-Based+Art+%28Film%2C+Video%2C+Digital%29" title="Time-Based Art (Film, Video, Digital)">Time-Based Art (Film, Video, Digital)</a></li>
+																<li><a href="http://www.artfido.com/listing-search.php?medium=Water+Colour" title="Water Colour">Water Colour</a></li>
+							                        </ul>
+                        <div class="clear"></div>
+                    </li><div class="mainNavigationSeparator"></div>
+                    <li><a href="javascript:void(0);"><span>Size</span><span class="menuArrow"><img src="/img/menu-arrow-down.png"></span></a>
+                        <ul>
+																<li><a href="http://www.artfido.com/listing-search.php?size=Under+60cm+%282+feet%29" title="Under 60cm (2 feet)">Under 60cm (2 feet)</a></li>
+																<li><a href="http://www.artfido.com/listing-search.php?size=60cm+to+90cm+%282+to+3+feet%29" title="60cm to 90cm (2 to 3 feet)">60cm to 90cm (2 to 3 feet)</a></li>
+																<li><a href="http://www.artfido.com/listing-search.php?size=90cm+to+120cm+%283+to+4+feet%29" title="90cm to 120cm (3 to 4 feet)">90cm to 120cm (3 to 4 feet)</a></li>
+																<li><a href="http://www.artfido.com/listing-search.php?size=120cm+to+150cm+%284+to+5+feet%29" title="120cm to 150cm (4 to 5 feet)">120cm to 150cm (4 to 5 feet)</a></li>
+																<li><a href="http://www.artfido.com/listing-search.php?size=Over+150cm+%28over+5+feet%29" title="Over 150cm (over 5 feet)">Over 150cm (over 5 feet)</a></li>
+							                        </ul>
+                        <div class="clear"></div>
+                    </li><div class="mainNavigationSeparator"></div>
+                    <li><a href="javascript:void(0);"><span>Colour</span><span class="menuArrow"><img src="/img/menu-arrow-down.png"></span></a>
+                        <ul>
+							<li class="">
+							<div class="clearBoth"></div>									<span style="float:left; width: 120px;"><a href="http://www.artfido.com/listing-search.php?colour=Blue" title="Blue"><img class="" src="/img/colour-palette/blue.png"><span class="navColourLink">Blue</span></a></span>
+									
+																<span style="float:left; width: 120px;"><a href="http://www.artfido.com/listing-search.php?colour=Dark+Blue" title="Dark Blue"><img class="" src="/img/colour-palette/dark-blue.png"><span class="navColourLink">Dark Blue</span></a></span>
+									
+							<div class="clearBoth"></div>									<span style="float:left; width: 120px;"><a href="http://www.artfido.com/listing-search.php?colour=Purple" title="Purple"><img class="" src="/img/colour-palette/purple.png"><span class="navColourLink">Purple</span></a></span>
+									
+																<span style="float:left; width: 120px;"><a href="http://www.artfido.com/listing-search.php?colour=Pink" title="Pink"><img class="" src="/img/colour-palette/pink.png"><span class="navColourLink">Pink</span></a></span>
+									
+							<div class="clearBoth"></div>									<span style="float:left; width: 120px;"><a href="http://www.artfido.com/listing-search.php?colour=Red" title="Red"><img class="" src="/img/colour-palette/red.png"><span class="navColourLink">Red</span></a></span>
+									
+																<span style="float:left; width: 120px;"><a href="http://www.artfido.com/listing-search.php?colour=Orange" title="Orange"><img class="" src="/img/colour-palette/orange.png"><span class="navColourLink">Orange</span></a></span>
+									
+							<div class="clearBoth"></div>									<span style="float:left; width: 120px;"><a href="http://www.artfido.com/listing-search.php?colour=Yellow" title="Yellow"><img class="" src="/img/colour-palette/yellow.png"><span class="navColourLink">Yellow</span></a></span>
+									
+																<span style="float:left; width: 120px;"><a href="http://www.artfido.com/listing-search.php?colour=Green" title="Green"><img class="" src="/img/colour-palette/green.png"><span class="navColourLink">Green</span></a></span>
+									
+							<div class="clearBoth"></div>									<span style="float:left; width: 120px;"><a href="http://www.artfido.com/listing-search.php?colour=Dark+Green" title="Dark Green"><img class="" src="/img/colour-palette/dark-green.png"><span class="navColourLink">Dark Green</span></a></span>
+									
+																<span style="float:left; width: 120px;"><a href="http://www.artfido.com/listing-search.php?colour=Brown" title="Brown"><img class="" src="/img/colour-palette/brown.png"><span class="navColourLink">Brown</span></a></span>
+									
+							<div class="clearBoth"></div>									<span style="float:left; width: 120px;"><a href="http://www.artfido.com/listing-search.php?colour=Beige" title="Beige"><img class="" src="/img/colour-palette/beige.png"><span class="navColourLink">Beige</span></a></span>
+									
+																<span style="float:left; width: 120px;"><a href="http://www.artfido.com/listing-search.php?colour=Grey" title="Grey"><img class="" src="/img/colour-palette/grey.png"><span class="navColourLink">Grey</span></a></span>
+									
+							<div class="clearBoth"></div>									<span style="float:left; width: 120px;"><a href="http://www.artfido.com/listing-search.php?colour=Black" title="Black"><img class="" src="/img/colour-palette/black.png"><span class="navColourLink">Black</span></a></span>
+									
+																<span style="float:left; width: 120px;"><a href="http://www.artfido.com/listing-search.php?colour=White" title="White"><img class="" src="/img/colour-palette/white.png"><span class="navColourLink">White</span></a></span>
+									
+							<div class="clearBoth"></div>									<span style="float:left; width: 120px;"><a href="http://www.artfido.com/listing-search.php?colour=N%2FA" title="N/A"><img class="" src="/img/colour-palette/na.png"><span class="navColourLink">N/A</span></a></span>
+									
+							                            </li>
+                        </ul>
+                        <div class="clearBoth"></div>
+                    </li><div class="mainNavigationSeparator"></div>
+                    <li><a href="javascript:void(0);"><span>Price</span><span class="menuArrow"><img src="/img/menu-arrow-down.png"></span></a>
+                        <ul>
+																<li><a href="http://www.artfido.com/listing-search.php?price_low=0&amp;price_high=250" title="priceDetails">Art under $250</a></li>
+																<li><a href="http://www.artfido.com/listing-search.php?price_low=251&amp;price_high=500" title="priceDetails">$250 to $500</a></li>
+																<li><a href="http://www.artfido.com/listing-search.php?price_low=501&amp;price_high=1000" title="priceDetails">$500 to $1000</a></li>
+																<li><a href="http://www.artfido.com/listing-search.php?price_low=1001&amp;price_high=2000" title="priceDetails">$1,000 to $2,000</a></li>
+																<li><a href="http://www.artfido.com/listing-search.php?price_low=2001&amp;price_high=4000" title="priceDetails">$2,000 to $4,000</a></li>
+																<li><a href="http://www.artfido.com/listing-search.php?price_low=4001&amp;price_high=7500" title="priceDetails">$4,000 to $7,500</a></li>
+																<li><a href="http://www.artfido.com/listing-search.php?price_low=7501&amp;price_high=15000" title="priceDetails">$7,500 to $15,000</a></li>
+																<li><a href="http://www.artfido.com/listing-search.php?price_low=15001&amp;price_high=30000" title="priceDetails">$15,000 to $30,000</a></li>
+																<li><a href="http://www.artfido.com/listing-search.php?price_low=30001&amp;price_high=50001" title="priceDetails">$30,000 to $50,000</a></li>
+																<li><a href="http://www.artfido.com/listing-search.php?price_low=50001&amp;price_high=999999999" title="priceDetails">$50,000+</a></li>
+							                        </ul>
+                        <div class="clear"></div>
+                    </li><div class="mainNavigationSeparator"></div>
+                    <li><a href="http://www.artfido.com/artist-list.php?view=registered"><span>Artist</span></a></li><div class="mainNavigationSeparator"></div>
+                    <li><a href="http://www.artfido.com/gallery-list.php"><span>Gallery</span></a></li>
+                </ul>
             </div>
         </div>
         <div id="mainNavigationLoaderWrapper" style="display: none;">
-            <img src="../img/loader.gif" width="15" height="15" border="0" class="mainNavigationLoader" id="mainNavigationLoader">
+            <img src="/img/loader.gif" width="15" height="15" border="0" class="mainNavigationLoader" id="mainNavigationLoader">
             <p class="mainNavigationLoader">Loading navigation...</p>
         </div>
         <div class="searchFieldWrapper">
-            <form name="frmSearch" id="frmSearch" method="get" action="listing-search.php">
+            <form name="frmSearch" id="frmSearch" method="get" action="/listing-search.php">
                 <div class="searchButtonWrapper">
-                    <a href="javascript: void(0);" class="blackButton" id="btnSearch">Fetch</a>
+                    <a href="javascript: void(0);" class="submitBidButton" id="btnSearch">Fetch</a>
                 </div>
-                <input type="text" class="searchField" name="search_query" id="search_query" value="">
+                <input type="text" class="searchField" name="search_query" id="search_query" value="" placeholder="Search here...">
             </form>
         </div>
         <div class="clearBoth"></div>
@@ -1484,217 +1456,7 @@
                 </div>
             </div>      
             <div class="clearBoth"></div>
-            <!--<script>
-	var regex = /^([a-zA-Z0-9_\.\-\+])+\@(([a-zA-Z0-9\-])+\.)+([a-zA-Z0-9]{2,4})+$/;
-	$(document).ready(function(){
-		$('#txtSubscribeEmail').on('focus', function(){
-				var $this = $(this);
-				if($this.val() == 'Email address'){
-					$this.val('');
-				}
-			}).on('blur', function(){
-			var $this = $(this);
-			if($this.val() == ''){
-				$this.val('Email address');
-			}
-		});
-		
-		$("#btnSubscribe").click(function(){
-			
-			var demail = $("#txtSubscribeEmail").attr("value");
-			if(!regex.test(demail)){
-				alert("Please enter a valid email address");
-				return false;
-			}else{
-				var dataString = $("#frmSubscription").serialize();
-				$.ajax({
-					url: 'cgi/process-subscription.php',
-					type: 'POST',
-					data: dataString,
-					dataType: 'json',
-					beforeSend: function(){ 
-						$("#subscribeButtonWrapper").css("display", "none");
-						$("#subscribeLoader").css("display", "inline-block");
-					},
-					success: function(data){
-						if(data.status == "valid"){
-							alert("Thank you. You are now subscribed.");
-							location.reload();
-							$("#subscribeButtonWrapper").css("display", "none");
-							$("#subscribeLoader").css("display", "inline-block");
-							return false;
-						}else if(data.status == "already subscribed"){
-							alert("You are already subscribed.");
-							location.reload();
-							$("#subscribeButtonWrapper").css("display", "none");
-							$("#subscribeLoader").css("display", "inline-block");
-							return false;
-						}
-					}
-				});
-				return false;
-			}
-		});
-	});
-</script>
-<div class="clearBoth"></div>
-<div class="footerOuterWrapper">
-    <div class="footerInnerWrapper ">
-        
-        <div class="footerLinks">
-            <ul class="footerMenu">
-                <li><a href="http://www.artfido.com/about-us.php">About Us</a></li>
-                <li class="footerMenuPipe">|</li>
-                <li><a href="http://www.artfido.com/faq.php">FAQ<span class="lowercase">s</span></a></li>
-                <li class="footerMenuPipe">|</li>
-                <li><a href="http://www.artfido.com/art-watchdogs.php"><img class="artWatchdog" src="/img/art-watchdog.png" width="20" height="23" border="0" />Art Watchdogs</a></li>
-                <li class="footerMenuPipe">|</li>
-                <li><a href="http://www.artfido.com/terms-use.php">Terms of Use</a></li>
-                <li class="footerMenuPipe">|</li>
-                <li><a href="http://www.artfido.com/privacy-policy.php">Privacy Policy</a></li>
-                <li class="footerMenuPipe">|</li>
-                <li><a href="http://www.artfido.com/contact-us.php">Contact Us</a></li>
-                <li class="footerMenuPipe">|</li>
-                <li><a href="http://www.artfido.com/blog/press" target="_blank">Press</a></li>
-                <li class="footerMenuPipe">|</li>
-                <li><a target="_blank" href="http://www.artfido.com/blog">Blog</a></li>
-            </ul>
             <div class="clearBoth"></div>
-            <div class="safeTradingWrapper">
-            	<ul class="footerSubMenu">
-                    <li><a href="http://www.artfido.com/faq.php#safeTradingartFido" class="safeTradingLink">SAFE TRADING ON artFido</a></li>
-                    <li class="footerMenuPipe">|</li>
-                    <li><a href="http://www.artfido.com/announcements.php" class="announcementsLink">Announcements</a></li>
-                </ul>
-            </div>
-            <div class="footerCopyrightWrapper">
-                <p class="copyright">Copyright &copy; 2011 - 2012 artFido Pty Ltd. All rights reserved. All trademarks and brands are the property of their respective owners.</p>
-                <p class="copyright">Use of this Website constitutes acceptance of the artFido <a href="http://www.artfido.com/terms-use.php">Terms of Use</a> and <a href="http://www.artfido.com/privacy-policy.php">Privacy Policy</a>.</p>
-            </div>
-        </div>
-        
-        <div class="footerRightContentWrapper">
-            <div class="subscribeOuterWrapper">
-                <form name="frmSubscription" id="frmSubscription">
-                    <input type="text" name="txtSubscribeEmail" id="txtSubscribeEmail" value="Email address" class="formFieldSubscribe" />
-                    <input type="hidden" name="action" id="action" value="subscribe" />
-                    <div id="subscribeButtonWrapper" class="subscribeButtonWrapper">
-                        <a id="btnSubscribe" class="blackButton" href="javascript: void(0);">Subscribe</a>
-                    </div>
-                    <img src="/img/loader.gif" width="16" height="16" border="0" alt="Subscription loader" class="subscribeLoader" id="subscribeLoader" />
-                </form>
-            </div>
-            <div class="payPalVerifiedWrapper">
-                <img src="/img/paypal1.jpg" width="110" height="65" border="0" alt="PayPal Verified" />
-            </div>
-            
-                                <div class="left footerSocial">
-                        <div class="addthis_toolbox addthis_default_style">
-                            <a class="addthis_button_preferred_2"></a>
-                            <a class="addthis_button_google_plusone" g:plusone:size="medium" g:plusone:count="false"></a>
-                            <a class="addthis_button_compact"></a>
-                        </div>
-                        <div class="footerFacebookLike">
-                            <iframe scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:130px; height:35px;" src="//www.facebook.com/plugins/like.php?href=http%3A%2F%2Fwww.facebook.com%2Fartfido&amp;layout=button_count" allowtransparency="true"></iframe>
-                        </div>
-                        <script type="text/javascript" src="https://s7.addthis.com/js/250/addthis_widget.js#pubid=ra-4e819bc162ab4c38"></script>
-                        <div class="mt10">
-                            <span id="siteseal"><a href="javascript: void(0);" onclick="window.open('/img/godaddy-verification.png','goDaddyVerification','width=585,height=435'); return false;"><img src="/img/ssl_seal.gif" width="132" height="31" border="0" alt="Site Seal" /></a></span>
-                        </div>
-                    </div>
-                    </div>
-        <div class="clearBoth"></div>
-    </div>
-    <div class="proudlyAssociatedWithWrapper">
-        <p class="proudlyAssociatedWith boldFont">Proudly associated with:</p>
-        <a href="http://www.aasd.com.au/" target="_blank"><img src="/img/aasd-185.png" width="185" height="54" class="aasdLogo" border="0" /></a>
-        <a href="http://www.acaa.org.au/" target="_blank"><img src="/img/acaa.jpg" width="115" height="66" class="acaaLogo" border="0" /></a>
-        <a href="http://www.aiam100.com/" target="_blank"><img src="/img/AIAM.png" border="0" width="137" height="59" class="aiamLogo" alt="AIAM.png (7,168 bytes)" /></a>
-    </div>
-</div>
-		<script type="text/javascript">
-        var addthis_config =
-        {
-           data_track_addressbar: true
-        }
-        </script>
-        <script type="text/javascript">
-        
-          var _gaq = _gaq || [];
-          _gaq.push(['_setAccount', 'UA-26875675-1']);
-          _gaq.push(['_trackPageview']);
-        
-          (function() {
-            var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-            ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
-            var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
-          })();
-        
-        </script>
--->
-
-
-
-
-
-
-
-
-
-<script>
-	var regex = /^([a-zA-Z0-9_\.\-\+])+\@(([a-zA-Z0-9\-])+\.)+([a-zA-Z0-9]{2,4})+$/;
-	$(document).ready(function(){
-		$('#txtSubscribeEmail').on('focus', function(){
-				var $this = $(this);
-				if($this.val() == 'Email address'){
-					$this.val('');
-				}
-			}).on('blur', function(){
-			var $this = $(this);
-			if($this.val() == ''){
-				$this.val('Email address');
-			}
-		});
-		
-		$("#btnSubscribe").click(function(){
-			
-			var demail = $("#txtSubscribeEmail").attr("value");
-			if(!regex.test(demail)){
-				alert("Please enter a valid email address");
-				return false;
-			}else{
-				var dataString = $("#frmSubscription").serialize();
-				$.ajax({
-					url: 'cgi/process-subscription.php',
-					type: 'POST',
-					data: dataString,
-					dataType: 'json',
-					beforeSend: function(){ 
-						$("#subscribeButtonWrapper").css("display", "none");
-						$("#subscribeLoader").css("display", "inline-block");
-					},
-					success: function(data){
-						if(data.status == "valid"){
-							alert("Thank you. You are now subscribed.");
-							location.reload();
-							$("#subscribeButtonWrapper").css("display", "none");
-							$("#subscribeLoader").css("display", "inline-block");
-							return false;
-						}else if(data.status == "already subscribed"){
-							alert("You are already subscribed.");
-							location.reload();
-							$("#subscribeButtonWrapper").css("display", "none");
-							$("#subscribeLoader").css("display", "inline-block");
-							return false;
-						}
-					}
-				});
-				return false;
-			}
-		});
-	});
-</script>
-<div class="clearBoth"></div>
 <div class="footerOuterWrapper">
     <div class="footerNewInnerWrapper">
     	<div class="footerSingleColumnWrapper">
@@ -1708,8 +1470,8 @@
         <div class="footerSingleColumnWrapper">
         	<ul class="footerLinkList">
             	<li><a href="http://www.artfido.com/tips-to-selling-on-artfido.php">Selling tips</a></li>
-            	<li><a href="http://www.artfido.com/faq.php#safeTradingartFido">Safe trading</a></li>
-            	<li><a href="http://www.artfido.com/faq.php">FAQ's</a></li>
+            	<li><a href="http://www.artfido.com/faq.php?id=1372389509#safeTradingartFido">Safe trading</a></li>
+            	<li><a href="http://www.artfido.com/faq.php">FAQs</a></li>
             	<li><a href="http://www.artfido.com/art-watchdogs.php"><img class="artWatchdog" src="/img/art-watchdog.png" width="15" border="0">Art Watchdogs</a></li>
             </ul>
         </div>
@@ -1729,24 +1491,11 @@
             </ul>
         </div>
         <div class="footerDoubleColumnWrapper footerColumnRightAlign">
-        	<div class="subscribeWrapper">
-            	<form name="frmSubscription" id="frmSubscription">
-                    <input type="text" name="txtSubscribeEmail" id="txtSubscribeEmail" value="Email address" class="formFieldSubscribe">
-                    <input type="hidden" name="action" id="action" value="subscribe">
-                    <div id="subscribeButtonWrapper" class="subscribeButtonWrapper">
-                        <a id="btnSubscribe" class="blackButton" href="javascript: void(0);">Subscribe</a>
-                    </div>
-                    <img src="/img/loader.gif" width="16" height="16" border="0" alt="Subscription loader" class="subscribeLoader" id="subscribeLoader">
-                </form>
-            </div>
-            <div class="clearBoth"></div>
+        	
             <div class="footerPaymentOptionsWrapper">
             	<ul class="footerPaymentImages">
-                	<li><img src="../img/footer-logos/visa.png" width="50" height="31" border="0" alt="Visa"></li>
-                    <li><img src="../img/footer-logos/mastercard.png" width="55" height="31" border="0" alt="Mastercard"></li>
-                    <li><img src="../img/footer-logos/american-express.png" width="49" height="31" border="0" alt="American Express"></li>
-                    <li><img src="../img/footer-logos/paypal.png" width="49" height="31" border="0" alt="PayPal"></li>
-                    <li><a href="javascript: void(0);" onclick="window.open('/img/godaddy-verification.png','goDaddyVerification','width=585,height=435'); return false;"><img src="../img/ssl_seal.gif" width="132" height="31" border="0" alt="GoDaddy Site Seal"></a></li>
+                	<li><img src="/img/footer-logos/payment-options.png" width="218" height="33" border="0" alt="Payment Options"></li>
+                    <li><a href="javascript: void(0);" onclick="window.open('/img/godaddy-verification.png','goDaddyVerification','width=585,height=435'); return false;"><img src="/img/ssl_seal.gif" width="132" height="31" border="0" alt="GoDaddy Site Seal"></a></li>
                 </ul>
             </div>
             <div class="clearBoth"></div>
@@ -1756,14 +1505,11 @@
                             <a class="addthis_button_preferred_2"></a>
                             <a class="addthis_button_google_plusone" g:plusone:size="medium" g:plusone:count="false"></a>
                             <a class="addthis_button_compact"></a>
-                            <iframe scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:75px; height:35px;" src="//www.facebook.com/plugins/like.php?href=http%3A%2F%2Fwww.facebook.com%2Fartfido&amp;layout=button_count" allowtransparency="true"></iframe>
+                            <iframe scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:85px; height:35px;" src="//www.facebook.com/plugins/like.php?href=http%3A%2F%2Fwww.facebook.com%2Fartfido&amp;layout=button_count" allowtransparency="true"></iframe>
                         </div>
                         <script type="text/javascript" src="https://s7.addthis.com/js/250/addthis_widget.js#pubid=ra-4e819bc162ab4c38"></script>
                     </div>
-        	            
-            
-            
-        </div>
+        	        </div>
         <div class="clearBoth"></div>
         <div class="footerNewDisclaimerWrapper">
         	<p class="copyright">Copyright © 2011 - 2012 artFido Pty Ltd. All rights reserved. All trademarks and brands are the property of their respective owners.</p>
@@ -1772,31 +1518,31 @@
         <div class="clearBoth"></div>
         <div class="proudlyAssociatedWrapper">
             <p class="proudlyAssociated">Proudly associated with:</p>
-            <a href="http://www.aasd.com.au/" target="_blank"><img src="/img/aasd-185.png" width="185" height="54" class="aasdLogo" border="0"></a>
-            <a href="http://www.acaa.org.au/" target="_blank"><img src="/img/acaa-small.png" width="115" height="66" class="acaaLogo" border="0"></a>
-            <a href="http://www.aiam100.com/" target="_blank"><img src="/img/AIAM.png" border="0" width="137" height="59" class="aiamLogo" alt="AIAM.png (7,168 bytes)"></a>
+            <a target="_blank" href="http://www.aasd.com.au/"><img width="185" height="54" border="0" class="aasdLogo" src="/img/aasd-185.png"></a>
+            <a target="_blank" href="http://www.acaa.org.au/"><img width="115" height="66" border="0" class="acaaLogo" src="/img/acaa-small.png"></a>
+            <a target="_blank" href="http://www.aiam100.com/"><img width="137" height="59" border="0" alt="AIAM.png (7,168 bytes)" class="aiamLogo" src="/img/AIAM.png"></a>
         </div>
     </div>
 </div>
-		<script type="text/javascript">
-        var addthis_config =
-        {
-           data_track_addressbar: true
-        }
-        </script>
-        <script type="text/javascript">
-        
-          var _gaq = _gaq || [];
-          _gaq.push(['_setAccount', 'UA-26875675-1']);
-          _gaq.push(['_trackPageview']);
-        
-          (function() {
-            var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-            ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
-            var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
-          })();
-        
-        </script>
+                <script type="text/javascript">
+					var addthis_config =
+					{
+					   data_track_addressbar: false
+					}
+				</script>
+				<!--<script type="text/javascript">
+				
+				  var _gaq = _gaq || [];
+				  _gaq.push(['_setAccount', 'UA-26875675-1']);
+				  _gaq.push(['_trackPageview']);
+				
+				  (function() {
+					var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+					ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+					var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+				  })();
+				
+				</script>-->
         </div>
         		<!--<script type="text/javascript">setTimeout(function(){var a=document.createElement("script");var b=document.getElementsByTagName('script')[0];a.src=document.location.protocol+"//dnn506yrbagrg.cloudfront.net/pages/scripts/0012/6051.js?"+Math.floor(new Date().getTime()/3600000);a.async=true;a.type="text/javascript";b.parentNode.insertBefore(a,b)}, 1);</script>-->    
 </body></html>
