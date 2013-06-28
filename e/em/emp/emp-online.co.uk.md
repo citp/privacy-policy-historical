@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the emp-online.co.uk privacy policy that was archived on 2012-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120519091933id_/http%3A//www.emp-online.co.uk/ter_dataprotection) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the emp-online.co.uk privacy policy that was archived on 2013-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130628192735id_/http%3A//www.emp-online.co.uk/ter_dataprotection) for the most accurate reproduction.*
 
 # Terms of delivery - EMP Mail Order UK Ltd. ::: The Heavy Metal Mailorder ::: Merchandise, Shirts and more!
 
@@ -47,9 +47,62 @@ The registration is free and you have no obligation to order.
 
 You can delete your customer account at any time. You can do this in the "My EMP" section (once you have logged in to your account). To delete the account, simply click the link "Delete my account irrevocably now". Please note that once the account has been deleted, you must re-register if you wish to place a new order.
 
-## Cookies
+## eKomi Customer Feedback
 
-Cookies are small text documents that are saved on your computer's hard-drive. Our cookies do not contain any personal information, they are used for navigation and recognition purposes only.
+We always really value your comments and reviews so we can constantly try and improve our service to you. We have therefore added to our website some software from **eKomi** – a user friendly Feedback system that will allow you to give your feedback.  After purchase, you get the opportunity to rate our online shop – when the merchandise has been delivered, you will receive an email requesting your review. You don’t have to write a review or use this software of course it is only there to make it easy for you if you do want to offer feedback!
+
+eKomi is obliged to handle your data according to data protection laws. It will take all organisational and technical measures to protect your data. Using a web-based social commerce SaaS technology, customers are politely encouraged to offer an authentic and valuable customer feedback. Initially, eKomi does not receive any customer data from the data base of our online shop via an interface – this is just a unique ID (for identification purposes and review purposes via link generation). eKomi only receives the respective email address for contact purposes in the unlikely event that an arbitration process is required between EMP and the customer. The email address is only used for verification and communication purposes between the customer, our online shop, and eKomi.
+
+To summarise: by placing your order, you agree to an electronic review request. You may choose to ignore this review request, or you can add eKomi to your spam filter at any time - although your review would be very helpful for us and other customers.
+
+More info [http://www.ekomi.co.uk/](https://www.ekomi.co.uk/ "ekomi")
+
+##  **The Use of Cookies at EMP -   “Cookie" Policy details.**
+
+At EMP we treat your privacy with the utmost respect. Your personal details and the way you like to shop are private so we treat it with the utmost confidentiality. We will never pass this information on to other companies and you can rest assured that any customer information we have is kept 100% secure with us. This also applies to website function “cookies” that we have in place to enhance your shopping experience on our websites.
+
+EMP have an overriding desire to make your online shopping efficient, quick and informative as possible so you get access only to the things that are of specific interest to you. In order to do this the website uses some “cookies” to assist the efficient shopping process . So that our site operates properly and so you see our best offers, we recommend that you enable cookies.
+
+ **What are Cookies?**
+
+Cookies are a small text file record that can be left on your computer or mobile shopping device when you visit a website. It records the things you are interested in order to try and present you things that are relevant to your interest, rather than bother you with irrelevant information and also to also help make your shopping processes more efficient. The cookie files are sent back to the originating website each time you subsequently visit or by other websites that have been enabled to recognise the cookie.
+
+There are two general types of Cookie:
+
+ **Persistent cookies** stay on your computer, mobile device for a designated period of time. They are activated each time the website that created the specific cookie is visited.
+
+ **Session cookies** are temporary codes that enable website administrators to draw conclusions from actions of a user whilst browsing or shopping on a site. These “Session” cookies are then deleted when the browser is closed.
+
+New EU legislation regarding the use of cookies requires us to advise you about our cookie policy and give you the option to decline their use. If you choose to decline the use of cookies unfortunately at the moment this means that some aspects of the site would not function for you and you cannot effectively order online.  If you have any concerns about EMP use of “cookies” at the present time we politely request you place your order via telephone with our UK Service team on 01548 831620 where they will also be able to advise you about the use of “cookies” and set your mind at rest.
+
+Further information on Cookies can be found at: [www.allaboutcookies.org](http://www.allaboutcookies.org/ "All about cookies") and [www.youronlinechoices.eu.](http://www.youronlinechoices.eu./ "Online choices")
+
+ **Details of the few Cookies used by EMP UK**
+
+ **Session Cookies:**
+
+ **SHOP6PHPSESSID .** This cookie, identifies you each time you come to the site and assists with populating forms with relevant information so the site can work for you. Without it the user can't login, fill his shopping cart or wish list and therefore can't order.
+
+ **emos_jcsid.  **This cookie collects data about the behaviour of the user whilst they are browsing or shopping on the site. It is used so that we can tailor-make the experience and offer products that are likely to be of interest.
+
+ **Persistent cookies**
+
+ **dtdb98.** This cookie has the same functionality as the SHOP6PHPSESSID session cookie only it holds the shopping preferences data until the end of the year. Without this we will not be able tailor make the site for you.
+
+ **emos_jcvid   **This cookie tracks your shopping preferences and how you use the site. It is valid for three years and allows EMP to offer products tailor made to your preferences. Without this we will not be able tailor make the site for you.
+
+ **datr  
+lsd  
+reg_ext_ref  
+reg_fb_gate  
+reg_fb_ref**
+
+These are Facebook cookies - used if you use the EMP Facebook page. They collect the number of likes and counts the data of our Facebook page. Without them EMP is unable to count how many Facebook “likes” they have and it would restrict the functionality of Facebook. These codes  last 1 month.
+
+ **NID  
+PREF**
+
+This is a cookie used by Google if you have a Google+  EMP account. It collects data about google+-“likes” and visited pages. This lasts for 2 years.
 
 ## EMP email Newsletter
 
@@ -60,3 +113,9 @@ By clicking "Subscribe now" you agree that EMP Mail Order UK Ltd., Chene Court, 
 Your email address will be permanently stored and will not be passed onto third parties!
 
 If you no longer wish to receive information by email, you may cancel your subscription by clicking on the link at the end of the newsletter. This will then remove your email address from the mailing list and you will no longer receive the newsletter.
+
+## Retargeting
+
+We use retargeting technology from a third party supplier: Criteo GmbH ([www.criteo.com](http://www.criteo.com/)) for our online shop. This makes it possible to provide Internet users who are already interested in our shop and the products in it with targeted advertising. Studies show that advertising with personalised product recommendations is more interesting to customers than ads with little or no personal connection. In addition, the advertisements for products that are probably of interest to you make it easier to go back directly to the advertised products. Because people are frequently interrupted in their online shopping and later have difficulty finding the products they had picked out before. Personalised banners, however, lead you back directly to the products easily.
+
+If you do not wish to use this function during your visit to our site, you can opt out **here**.
