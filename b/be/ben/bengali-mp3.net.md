@@ -1,11 +1,8 @@
-> *The following text is extracted and transformed from the bengali-mp3.net privacy policy that was archived on 2012-09-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120914220713id_/http%3A//bengali-mp3.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bengali-mp3.net privacy policy that was archived on 2013-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130628162053id_/http%3A//bengali-mp3.com/privacy.php) for the most accurate reproduction.*
 
 # PRIVACY POLICY
 
-  
-
-
-* * *
+PRIVACY POLICY
 
 At Bengali-MP3, we respect and protect the privacy of our customers and those who use our website. The following Privacy Statement provides details about how your personal information is collected and used. This privacy statement applies to the network of Bengali-MP3 websites, products and services that are located in, but not limited to the Bengali-MP3.In domains. 
 
