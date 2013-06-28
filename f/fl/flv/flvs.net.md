@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the flvs.net privacy policy that was archived on 2012-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120626003928id_/http%3A//flvs.net/areas/flvscourses/Pages/Policies/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the flvs.net privacy policy that was archived on 2013-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130628215318id_/http%3A//www.flvs.net/myFLVS/student-handbook/Pages/Policies/Privacy.aspx) for the most accurate reproduction.*
 
-# Florida Virtual School - Privacy
+# myFLVS - Privacy - Florida Virtual School
 
 Privacy Policy
 
