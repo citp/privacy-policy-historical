@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the civilbeat.com privacy policy that was archived on 2012-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121227144704id_/http%3A//www.civilbeat.com/info/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the civilbeat.com privacy policy that was archived on 2013-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130628073450id_/http%3A//www.civilbeat.com/info/privacy) for the most accurate reproduction.*
 
 # Civil Beat Privacy Policy
 
@@ -31,6 +31,16 @@ Improving our Service. We may use personal information to better understand user
 Aggregated Non-Personal Information. We may share aggregated non-personal information with third parties. 
 
 We do not sell or rent your personal information to third parties without your explicit consent.
+
+## Remarketing
+
+We are using a third party technology to remarket our website/products based on your behaviour while using this site. Note that only non-personally identifiable information is used in this process. This means that depending which pages you visit on this website, your browser can become part of an audience, thus be exposed to our ads though third-party ad networks (including Google) across the Internet.
+
+These third-party vendors (including Google) use cookies to serve ads based on your past visits to this website.
+
+You can opt out of being included in remarketing by visiting the [Network Advertising Initiative opt-out page](http://www.networkadvertising.org/choices/).
+
+We are also using Doubleclick remarketing pixels, you can opt out of Doubleclick’s use of cookies by visiting the [Network Advertising Initiative opt-out page](http://www.networkadvertising.org/choices/) or the [DoubleClick opt-out page](https://www.google.com/settings/ads/onweb#display_optout).
 
 ## How We Protect Your Information
 
