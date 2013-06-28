@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bankofcanada.ca privacy policy that was archived on 2012-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121109205537id_/http%3A//www.bankofcanada.ca/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bankofcanada.ca privacy policy that was archived on 2013-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130628184343id_/http%3A//www.bankofcanada.ca/privacy) for the most accurate reproduction.*
 
 # Privacy - Bank of Canada
 
@@ -34,7 +34,7 @@ If you do not wish to have your information shared with the Analytics software, 
 
 ### Unclaimed balances and Privacy
 
-Please see: [Unclaimed balances - FAQ ](http://www.bankofcanada.ca/about/faq/)
+Please see: [Unclaimed balances - FAQ ](http://www.bankofcanada.ca/about/educational-resources/faq/)
 
 ### Outside Links
 
