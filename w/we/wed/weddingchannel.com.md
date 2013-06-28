@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the weddingchannel.com privacy policy that was archived on 2012-10-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121005071645id_/http%3A//weddings.weddingchannel.com/advertising-promotion-partnership-opportunities/privacy-policy/articles/Privacy-Policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the weddingchannel.com privacy policy that was archived on 2013-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130628192552id_/http%3A//weddings.weddingchannel.com/advertising-promotion-partnership-opportunities/privacy-policy/articles/Privacy-Policy.aspx) for the most accurate reproduction.*
 
 # WeddingChannel.com Privacy Policy - Your Privacy Rights
 
@@ -16,13 +16,14 @@ So, to understand how any information collected may be used, you should review b
 The following are links to the privacy policies of some of the retailers and companies featured on this website that may receive your personal information:
 
 [Privacy Policy - Amazon.com](http://www.amazon.com/gp/help/customer/display.html?ie=UTF8&nodeId=468496)   
+[Privacy Policy - Baby Earth](http://www.babyearth.com/privacy.html)   
 [Privacy Policy - BabySuperMall](http://www.babysupermall.com/Help/Privacy.html)   
 [Privacy Policy - Bed Bath & Beyond](http://www.bedbathandbeyond.com/policyPrivacy.asp)   
 [Privacy Policy - Belk](http://www.belk.com/AST/Misc/Belk_Stores/Customer_Service/Policies_Guidelines/Privacy.jsp)   
 [Privacy Policy - Bloomingdale's](http://www1.bloomingdales.com/service/policies/privacy.jsp)   
 [Privacy Policy - Bottlenotes](http://www.bottlenotes.com/privacy-policy)   
 [Privacy Policy - buybuy BABY](http://www.buybuybaby.com/policyPrivacy.asp?order_num=-1&)   
-[Privacy Policy - Cord Blood Registry](http://www.cordblood.com/cbr%20home/privacy)  
+[Privacy Policy - The Container Store](http://www.containerstore.com/help/privacy.html)  
 [Privacy Policy - Crate and Barrel](http://www.crateandbarrel.com/Customer-Service/Privacy-Policy.aspx)   
 [Privacy Policy - Crowdrise Charity Registry](http://www.crowdrise.com/about/privacy)   
 [Privacy Policy - Diapers.com](http://www.diapers.com/track.aspx?site=wc&dest=%2FHelpCenter%2FPrivacyPolicy.aspx)  
@@ -36,9 +37,7 @@ The following are links to the privacy policies of some of the retailers and com
 [Privacy Policy - Michael C. Fina](http://www.michaelcfina.com/customer-service/privacy-policy.html?id=nqe3u5Cr)   
 [Privacy Policy - Pottery Barn](http://www.potterybarn.com/about-us/privacy-policy.html)   
 [Privacy Policy - Pottery Barn Kids](http://www.potterybarnkids.com/about-us/privacy-policy.html)   
-[Privacy Policy - REI](https://web.archive.org/web/20121005071645id_/http%3A//weddings.weddingchannel.com/advertising-promotion-partnership-opportunities/privacy-policy/articles/3)   
-[Privacy Policy - Restoration Hardware](http://www.restorationhardware.com/customer-service/privacy-policy.jsp)   
-[Privacy Policy - Restoration Hardware Baby & Child](http://www.rhbabyandchild.com/customer-service/privacy-policy.jsp)   
+[Privacy Policy - REI](http://www.rei.com/help/privacy-policy.html)   
 [Privacy Policy - Right Start](http://www.rightstart.com/privacy-policy)  
 [Privacy Policy - Sur La Table](http://reg.weddingchannel.com/track/link.action?r14690&fu=http%3A%2F%2Fwww.surlatable.com%2Fcommon%2FcmpyPrivacy.jsp%3Fref%3Dy%26wcsid%3DWCSID_VAL%26affsrcid%3DAff0004)  
 [Privacy Policy - Target](http://sites.target.com/site/en/spot/page.jsp?title=privacy_policy)   
@@ -113,5 +112,3 @@ Please be aware our website has advertisements and links to other websites that 
 **By Mail:** WeddingChannel.com, Inc., 5757 Wilshire Blvd, Los Angeles, CA 90036  
  **By Phone:** 877-335-5252  
  **By E-mail:** [customerservice@weddingchannel.com](mailto:customerservice@weddingchannel.com)
-
-Feb 08, 2012 
