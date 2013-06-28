@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bsaving.com privacy policy that was archived on 2012-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121226225613id_/http%3A//www.bsaving.com/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bsaving.com privacy policy that was archived on 2013-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130628113123id_/http%3A//bsaving.com/privacy) for the most accurate reproduction.*
 
 # bSaving
 
@@ -55,5 +55,10 @@ In order to do the foregoing, bSaving may provide your Information to third part
 **_Opting Out From Offers From bSaving_**. At any time, a user may opt out from receiving future offers from bSaving by following the instructions contained within each marketing communication. Such opting out will not apply to any communications from third parties to whom bSaving may have provided Information regarding the user. Third parties' use of the Information is subject to such parties' own privacy policies, for which bSaving shall not be responsible. 
 
 **_Your California Privacy Rights_**. Beginning on January 1, 2005, California Civil Code Section 1798.83 permits customers of bSaving who are California residents to request certain information regarding bSaving's disclosure of personal information for their direct marketing purposes. To make such a request, please write to: 2200 SW 10th Street, Deerfield Beach, FL 33442. Within thirty days of receiving such a request, bSaving will provide a list of the categories of personal information disclosed to third parties for third-party direct marketing purposes during the immediately preceding calendar year, along with the names and addresses of these third parties. This request may be made no more than once per calendar year. bSaving reserves its right not to respond to requests submitted other than to the address specified in this paragraph.
+
+2200 SW 10th St   
+Deerfield Beach, FL 33442   
+954.312.4700  
+[sitehelp@bsaving.com](mailto:sitehelp@bsaving.com)
 
 Policy Last Revised: November 23, 2011 
