@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the auspost.com.au privacy policy that was archived on 2012-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121122083353id_/http%3A//auspost.com.au/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the auspost.com.au privacy policy that was archived on 2013-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130628081925id_/http%3A//www.auspost.com.au/privacy.html) for the most accurate reproduction.*
 
-# Privacy Policy - Australia Post
-
-This policy describes how Australia Post manages your personal information.
+# Privacy - Australia Post
 
 ## Table of contents
 
@@ -94,7 +92,7 @@ We do not share your personal information with other organisations unless you gi
 
 When we temporarily provide personal information to companies who perform services for us, such as specialist information technology companies, mail houses or other contractors to Australia Post we require those companies to protect your personal information as diligently as we do. 
 
-## Your rights and choices
+## Your rights and choices
 
 You may interact with us anonymously where this is lawful and practicable. 
 
@@ -219,7 +217,7 @@ Your right to access your personal information is not absolute. In certain circu
 
 In addition to privacy laws, you may have rights to access your personal information contained in certain Australia Post documents. Details on how to apply for access to these documents are contained in the Freedom of Information Act 1982 (FOI Act).
 
-More information is available at [freedom of information](https://web.archive.org/about-us/freedom-of-information.html). 
+More information is available at [freedom of information](https://web.archive.org/about-us/freedom-of-Information.html). 
 
 ## Information security
 
@@ -247,7 +245,7 @@ We use cookies and other internet technologies to manage our website and certain
 Our internet server logs the following information which is provided by your browser for statistical purposes only:
 
   * the type of browser and operating system you are using 
-  * your Internet Service Provider and top level domain name (for example \- .com, .gov, .au, .uk etc) 
+  * your Internet Service Provider and top level domain name (for example - .com, .gov, .au, .uk etc) 
   * the address of any referring web site (for example - the previous web site you visited), and 
   * your computer's IP (Internet Protocol) address (a number which is unique to the machine through which you are connected to the internet). 
 
