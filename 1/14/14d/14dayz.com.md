@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 14dayz.com privacy policy that was archived on 2012-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120503214726id_/http%3A//www.14dayz.com/en/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 14dayz.com privacy policy that was archived on 2013-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130628054943id_/http%3A//www.14dayz.com/en/privacy.php) for the most accurate reproduction.*
 
 # 14Dayz.com - Time Tracking Made Simple
 
