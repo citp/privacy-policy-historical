@@ -1,10 +1,18 @@
-> *The following text is extracted and transformed from the volaris.com.mx privacy policy that was archived on 2012-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121121045312id_/http%3A//www.volaris.mx/en/privacy-notice) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the volaris.com.mx privacy policy that was archived on 2013-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130628065354id_/http%3A//volaris.mx/en/privacy-notice) for the most accurate reproduction.*
 
 # Privacy Notice - volaris.mx
 
-In the web site ([www.volaris.com](http://www.volaris.com/en/)) and the Call Center of Concesionaria Vuela Compañía de Aviación, S.A.P.I. de C.V. (‘‘Volaris’’), with domicile at Antonio Dovali Jaime, número 70, Torre B, Piso 13, Colonia Zedec Santa Fe, Delegación Álvaro Obregón, C.P. 01210, México, Distrito Federal, our compromise is to Project your privacy. This privacy notice details the information that, as user of our web site you provide us, how we obtain it, what we do with it and how we protect it.
+In the web site ([www.volaris.com](http://www.volaris.com/en/)) and the Call Center of Concesionaria Vuela Compañía de Aviación, S.A.P.I. de C.V. (‘‘Volaris’’), with domicile at Antonio Dovali Jaime, no 70, Torre B, Piso 13, Colonia Zedec Santa Fe, Delegación Álvaro Obregón, C.P. 01210, México, Distrito Federal, our compromise is to project your privacy. This privacy notice details the information that, as user of our web site or call center, you provide us, how we obtain it, what we do with it and how we protect it.
 
-**Information that is collected**
+**Contact** ** **
+
+You can contact via e-mail at datos.personales@volaris.com, or you can write to us to the address Antonio Dovalí Jaime no. 70, Torre B, Piso 13, Col. Zedec Santa Fe, C.P. 01210, México, Distrito Federal, Attention- Protección de Datos Personales.
+
+**What we do with your personal information?** ** **
+
+The personal information you provide us will be used exclusively in reference to follow up, update and confirm  the air tickets you buy with us and other products you may buy, follow-up on your reservation, make surveys and provide information via e-mail regarding promotions and additional services we or our commercial partners offer.
+
+**Personal Information that is collected**
 
 Contact:
 
@@ -29,37 +37,65 @@ User registration:
   * Marital Status ** **
   * Hobby ** **
   * Occupation ** **
-  * Work Trip ** **
-  * Leisure Trip ** **
-  * Family Trip ** **
+  * Kind of Trip (work, leisure, family visit)
 
 
 
-Credit Card Data: **  
-**
+Credit Card Data: ** **
 
-  * Credit Card Payments ** **
   * Credit Card Number ** **
   * Card Holder´s Name ** **
   * Expiration date
 
 
 
-**1\. Use**
+**Sensitive personal information**
 
-The personal information you provide us as a user of our website or Call Center will be used exclusively in reference to the contracted air transport service, follow-up on your reservation, surveys and providing information via e-mail regarding promotions and additional services we offer.
+Please note that to comply with the purposes set out in this privacy notice, we may collect and process sensitive personal information, such as sexual preference, fitness, health, disability and medical documents, banking information, among some others, in which case we will ask for your express consent for their collection.
 
-**2\. Security**
+We commit that they will be treated under strict security measures to ensure their confidentiality.
 
-In Volaris we follow appropriate procedures to guarantee the security of the information that as a user of our web site you provide us. When we receive and transfer sensible information, such as financial information, itinerary or personal information, we will notify you through a notice in our web site that you will be directed to a secure Server.
+**Limitation of use of your personal information** ** **
 
-In our physical quarters, we have the appropriate measures to protect the information that as a user of our web site you provide us, against loss, misuse or alteration. Our security processes when using our web site, require that you prove your identity before reveling important information regarding your flight reservation and itinerary. The visitors of our web site will not be able to receive information that we may have obtained and keep about them.
+You may limit the use of your personal information in order not to receive information about promotions and additional services we offer by sending your request to the email address datos.personales@volaris.com or in writing to the following address: Antonio Jaime Dovali, No.70, Torre B, Piso 13, Col. Zedec Santa Fe, Del. Álvaro Obregón, C.P. 01210, México, Distrito Federaal, Attention – Protección de Datos Personales.
 
-The personal information that you provide us could be transferred to third parties who provide us hosting services, Call Center services, additional services that you contract, advertising agencies as well as our affiliates and subsidiaries, which you accept expressly when you use our website
+**Exercise of ARCO rights (Access, Rectification, Cancellation y Opposition)** ** **
 
-The personal information that your provide us when using our reservation system, will only be transferred to third parties different from those mentioned in the paragraph above through: (i) Express consent, (ii) a resolution by an administrative or judicial authority and (iii) when it is regarding personal information that as stated in any law is considered public.
+You may access your personal information that we possess and the details of their treatment and you can rectify it if it is inaccurate or incomplete; you also may cancel it if you consider that it is not required for any of the purposes specified in this privacy notice, if it is being used for any other purposes without your consent or if we have already provided the applicable service. 
 
-**3\. Protection**
+You can exercise these rights sending a written request to the email address [datos.personales@volaris.com](mailto:datos.personales@volaris.com) or  to the following address: Dovali Jaime Antonio, no. 70, Torre B, Piso 13, Zedec Colonia Santa Fe, Álvaro Obregón, C.P. 01210, México, Distrito Federal, Attention- Protección de Datos Personales.
+
+The request must contain your full name (or names), a copy of your official identification, the clear and precise description of the personal information, indicating the email or physical address for notifications and designate a contact phone number.
+
+We will answer your request within twenty days from the date of receipt of your request for access, rectification, cancellation or opposition, and we will send it to the email address you specified in the request or by sending a letter to the physical address you specified for that purpose (the response will be deemed as delivered when it is in the postal office). ** **
+
+**Transfer of your personal information  ** ** **
+
+TheWe may transfer your personal information inside and outside Mexico. Your personal information may be shared with third parties that toprovide us the hosting services of our web page and other third parties related to them, such as third parties who provide us hosting services, Call Centercall center services, additional services you contractacquired through us, advertising agencies, banking institutions and our affiliates and subsidiaries, whenfor the purpose of providing the air travel services  properly and for informational, promotional, advertising and commercial purposes, all of which by making use of our website expressly you agree to.
+
+Personal information may only be transferred to third parties other than those mentioned in the previous paragraph with: (i) your consent, (ii) by resolution or order of a competent court or administrative authority, and (iii) in when the personal information is  consider public by law.
+
+**Modifications to this privacy notice** ** **
+
+We reserve the right to make changes at any time or updates to this privacy notice in attention to the applicable legislation, internal policies or new requirements for the provision or offering of our services or products.
+
+These modifications will be available to the public through either of the following means: (i) ads visible in our customer service centers, (ii) leaflets or brochures available in our service centers, (iii) in our website [privacy notice section], (iv) or they will be sent to the last email that you have provided.
+
+**Cookies   **use and web beacons****
+
+Cookies are text files that are automatically downloaded and stored on the hard drive of the users computer equipment to navigate in a specific website, which allow the web server to remember some facts about this person, including their preferences for the display of pages on that server, username and password. You are not obliged to accept the cookies that we send you, and  you can reset your browser to refuse cookies.
+
+Web beacons are images embedded in a website or email, which can be used to monitor the behavior of a visitor, and store information about the user's IP address, length of interaction time on that page and the type of browser used, among others.
+
+Volaris in its webs site uses cookies to record information of the session, such as services incorporated to the reservation or specific information about pages that as user you usually visit, but such information is used as an anonymous source and incorporated in a way that you will not be identified.
+
+When you visit our website, our serve will record your IP address as well as the time, date and duration of the visit. An IP address is an assigned number, similar to a phone number, which allows your computer to be connected to the Internet.
+
+**Links to third party web sites**
+
+The Privacy Notice only includes our web site. This does not include links to third parties web sites. The use of the collected information by these web sites is fully the responsibility of said third parties. You must consider that these organizations have their own privacy notices regarding the obtaining and use of personal information, as well as the use of cookies. If you are worried about the use that other web sites give to your information, we recommend you read their privacy policy or contact the organization owner of the web site.
+
+**Protection**
 
 The security and confidentiality of the data that the users provide us when acquiring our services or products online, will be protected by a secure Server Ander the protocol Secure Socket Layer (SSL), and so the sent data will be encrypted when transmitted to ensure their safety.
 
@@ -67,31 +103,10 @@ To verify that you are in a protected environment, make sure that an **S** appea
 
 However, and despite having every day saber tools, the protection of the data sent through the Internet may not be guaranteed to 100%; and so, once received, we’ll make our best effort to safeguard the information.
 
-**4\. Cookies**
+**Improper handling of their personal information** ** **
 
-They are small files that may be placed on the hard drive of your computer or on a web site. The cookies do not recover information that you have archived on your hard drive and do not damage your computer or your files. You are not obligated to accept the cookies that me send you, notwithstanding the fact that you can simple modify your browser to avoid accepting cookies.
+If you believe that your right of protection of your personal information has been breached by any conduct of our employees or our actions or responses, the treatment of your personal information has suffered any violation of the provisions of the Mexican Federal Personal Data Protection Law ( _Ley Federal de Protección de Datos Personales en Posesión de los Particulares_ ), you may file a complaint with the Federal Institution of Information Access (IFAI  _Instituto Federal de Acceso a la Información_ ), for more information visit [www.ifai.org.mx](http://www.ifai.org.mx/).
 
-Volaris in its webs site uses cookies to record information of the session, such as services incorporated to the reservation or specific information about pages that as user you usually visit, but such information is used as an anonymous source and incorporated in a way that you will not be identified.
-
-When you visit our website, our serve will record your IP address as well as the time, date and duration of the visit. An IP address is an assigned number, similar to a phone number, which allows your computer to be connected to the Internet.
-
-**5\. Links to third party web sites**
-
-The Privacy Notice only includes our web site. This does not include links to third parties web sites. The use of the collected information by these web sites is fully the responsibility of said third parties. You must consider that these organizations have their own privacy notices regarding the obtaining and use of personal information, as well as the use of cookies. If you are worried about the use that other web sites give to your information, we recommend you read their privacy policy or contact the organization owner of the web site.
-
-**6\. Changes in the privacy notice**
-
-Volaris reserves the right to totally or partially modify this Privacy Policy, in which case, we will notify you of said changes with an option to, as user of our web site, reject if it is your choice the use of the information that you provide us for these new uses, so we recommend you visit our web site periodically.
-
-**7\. Acceptance of the Privacy Notice and exercise of rights ARCO**
-
-When you make your purchase or register as a Volaris member, you will be shown a summary of this Privacy Notice and you accept it electronically.
-
-Users of our website and Call Center can exercise their rights of access, rectification, cancellation and opposition (ARCO) regarding of the personal information obtained and the limit their use by sending a request via e-mail to datos.personales@volaris.com.mx or in writing to the address: Antonio Dovali Jaime, número 70, Torre B, Piso 13, Colonia Zedec Santa Fe, Delegación Álvaro Obregón, C.P. 01210, México, Distrito Federal, Attention- Protección de Datos Personales. ** **
-
-You can write to us in the section “Tell us about your experience” on[ www.volaris.com](http://www.volaris.com/en/) **  
-**
-
-**8\. Contact information**
+**Contact information**
 
 You can contact us on the phone number 1102 8000 if you are calling from Mexico City, or its metropolitan area 01800 1228000 if you are calling from any other part of Mexico and 1866 988 3527, without lada cost, from the USA.
