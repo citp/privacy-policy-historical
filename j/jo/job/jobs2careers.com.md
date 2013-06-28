@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the jobs2careers.com privacy policy that was archived on 2012-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121216200834id_/http%3A//www.jobs2careers.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jobs2careers.com privacy policy that was archived on 2013-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130628064916id_/http%3A//www.jobs2careers.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy | Jobs2Careers
 
 ## Privacy Policy
 
-Last update on: April 4th, 2012
+Last update on: June 13th, 2013
 
 Jobs-to-Careers.com and Jobs2Careers.com ("Jobs2Careers" or "we") is a website owned by InsidersReferral.com Inc. We know you are concerned about your privacy, so we developed this Privacy Policy to explain how we collect, use, share and disclose personally identifiable information (referred to as "personal information" in this Privacy Policy
 
@@ -18,7 +18,9 @@ In order to become a Jobs2Careers user, you may optionally create an account on 
 
 ### **Cookies, Log Files & IP Address:**
 
-As you use our Service, we may also passively collect certain information, including your Internet protocol address, browser type, domain names, access times, and operating system. We may also use passive tools such as cookies, clear GIFs, and navigational data like Uniform Resource Locators (URLs) to gather information regarding the date and time of your use of the Service. This type of information is collected to make our Services more useful to you and to help us improve the Site. You must accept cookies to access Jobs2Careers as a registered user. If we link or associate any information gathered through passive means with personal information, we treat the combined information as personal information under this Privacy Policy. Otherwise, we use information collected by passive means in non-personally identifiable form only.
+As you use our Service, we may also passively collect certain information, including your Internet protocol address, browser type, domain names, access times, and operating system. We may also use passive tools such as cookies, clear GIFs, and navigational data like Uniform Resource Locators (URLs) to gather information regarding the date and time of your use of the Service. This type of information is collected to make our Services more useful to you and to help us improve the Site. We may also use third party vendors to support our Site and optimize our display advertising. Some of these vendors, for example Google, may use technology like Remarketing with Google Analytics, and this type of information to inform, optimize, and serve ads based on your past visits to our website. You must accept cookies to access Jobs2Careers as a registered user. If we link or associate any information gathered through passive means with personal information, we treat the combined information as personal information under this Privacy Policy. Otherwise, we use information collected by passive means in non-personally identifiable form only.
+
+You are free to set your Internet browser to decline cookies, but by doing so, you may not be able to use certain features on the Site or take full advantage of all of our offerings. Check the "Help" menu of your browser to learn how to change your cookie preferences. To learn more about the use of cookies or other technologies to deliver more relevant advertising and to know your choices about not having this information used by certain Service Providers, please click [here](http://www.networkadvertising.org/choices/) and [here](http://www.google.com/analytics/learn/privacy.html). To learn how to manage privacy and storage settings for Flash cookies, please click [here](http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager.html). You may opt-out of Google Analytics for Display Advertising and customize Google Display Network ads using the Ads Preferences Manager [here](https://www.google.com/settings/ads/onweb/).
 
 Once we redirect you to a job page hosted by third-party sites, third parties may be placing and reading cookies on your browser, or using web beacons to collect information. You understand that Jobs2Careers has no control over third-party sites, thus your privacy is subject to third-party site's privacy policy.
 
@@ -44,7 +46,13 @@ If you opt-in to receive education consultation, Jobs2Careers may share your per
 
 Please be aware that we may send you certain communications relating to the Jobs2Careers service, such as service announcements, administrative messages and the Jobs2Careers Newsletter, that are considered "transactional or relationship" messages or are otherwise non-commercial, without offering you the opportunity to opt out of receiving them. 
 
-####  Data Security
+By registering on Jobs2Careers, you agree that this act constitutes an inquiry and/or application for purposes of telemarketing laws, and notwithstanding that your telephone and/or cell number may be listed with the federal Do-Not-Call Registry you expressly opt-in to: (a) receive an offer or service from one or more of our partners or affiliates; (b) receive future information about products and services from us, our partners, affiliates and other third parties to whom we may provide your information; (c) permit us, our partners, affiliates and other third parties to contact you pursuant to the business relationship we have established using the information you provided to us for any purpose such as contacting you by e-mail address, phone and/or mobile phone number (including use of automated dialing equipment), text (SMS) message or any means of communication for any purpose that, among other things, your wireless device may be capable of receiving (e.g. mms, video etc.) 
+
+#### Third Party Cookies
+
+Notwithstanding anything else in this policy, we or a data provider we have engaged may place or recognize a unique cookie on your browser to enable you to receive customized ads or content. These cookies contain no personally identifiable information. The cookies may reflect de-identified demographic or other data linked to data you voluntarily have submitted to us, e.g., your email address, that we may share with a data provider solely in hashed, non-human readable form. To opt-out of these cookies, please go to <http://www.aboutads.info/choices>.
+
+#### Data Security
 
 We use reasonable security measures to protect personal information from unauthorized use, alteration, and disclosure. We restrict access of your personal information from our employees, unless we believe it is reasonably necessary to do their jobs. 
 
