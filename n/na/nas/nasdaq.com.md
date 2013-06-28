@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nasdaq.com privacy policy that was archived on 2012-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121101025751id_/http%3A//www.nasdaq.com/sitespecific/privacy.stm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nasdaq.com privacy policy that was archived on 2013-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130628103535id_/http%3A//www.nasdaq.com/sitespecific/privacy.aspx) for the most accurate reproduction.*
 
 # NASDAQ OMX Privacy Statement
 
@@ -74,7 +74,7 @@ We use both session ID cookies and/or persistent cookies. We use session cookies
 
 Some cookies contain the email address, site logon or first name provided by you when completing an email profile for that site. This information is used to populate an email address box, logon box or display your first name when you logon on the site, respectively. Where appropriate some sites generate disclaimer/notice cookies to confirm that you have read and agreed to its terms of use. In the course of serving advertisements to this site, our third-party advertiser may place or recognize a unique "cookie" on your browser. Persistent cookies also enable us to track and target the interests of our users to enhance the experience on our site. 
 
-This privacy statement covers the use of cookies by all NASDAQ OMX web sites and does not cover the use of cookies by any advertisers. [See the “Third Party advertising " section.] 
+This privacy statement covers the use of cookies by all NASDAQ OMX web sites and does not cover the use of cookies by any advertisers. [See the “Third Party advertising” section.]
 
 **Flash LSOs** Some third parties use Flash LSOs also known as Flash cookies, on our sites to display content based upon what you view on our site to personalize your visit. Third Parties, with whom we partner to provide certain features on our site or to display advertising based upon your Web browsing activity, use Flash cookies to collect and store information.
 
@@ -131,7 +131,7 @@ Website: <http://www.emi.nasdaq.com/>
 User Profile update: [ http://emi.nasdaq.com/Management.aspx?tab=home&page=updateUserInfo](http://emi.nasdaq.com/Management.aspx?tab=home&page=updateUserInfo)  
 Email: [emi@nasdaq.com](mailto:emi@nasdaq.com)
 
-Website: [www.nasdaqtrader.com/enastraq](https://web.archive.org/web/20121101025751id_/http%3A//www.nasdaq.com/sitespecific/www.nasdaqtrader.com/enastraq)  
+Website: [www.nasdaqtrader.com/enastraq](https://web.archive.org/web/20130628103535id_/http%3A//www.nasdaq.com/sitespecific/www.nasdaqtrader.com/enastraq)  
 Email: [enastraq@nastraq.com](mailto:enastraq@nastraq.com)
 
 **Mailing address:**  
@@ -147,8 +147,8 @@ Website: <http://www.nasdaqinsurance.com/>
 Website: <http://www.nasdaqtrader.com/>  
 Website: [https://www.nasdaq.net](https://www.nasdaq.net/)  
 Website: <http://www.nasdaq.com/>  
-Website: [www.nasdaqtrader.com/enastraq](https://web.archive.org/web/20121101025751id_/http%3A//www.nasdaq.com/sitespecific/www.nasdaqtrader.com/enastraq)
+Website: [www.nasdaqtrader.com/enastraq](https://web.archive.org/web/20130628103535id_/http%3A//www.nasdaq.com/sitespecific/www.nasdaqtrader.com/enastraq)
 
-Because NASDAQ wants to demonstrate its commitment to your privacy, we has agreed to disclose its information practices and have its privacy practices reviewed for compliance by TRUSTe. If you have questions or concerns regarding this statement, you should first contact the appropriate contact from the list above. If you do not receive acknowledgement of your inquiry or your inquiry has not been satisfactorily address, you should contact TRUSTe at [ http://watchdog.truste.com/pvr.php?page=complaint&url=http://www.nasdaq.com](http://watchdog.truste.com/pvr.php?page=complaint&url=http://www.nasdaq.com). TRUSTe will then serve as a liaison with us to resolve your concerns. 
+Because NASDAQ wants to demonstrate its commitment to your privacy, we has agreed to disclose its information practices and have its privacy practices reviewed for compliance by TRUSTe. If you have questions or concerns regarding this statement, you should first contact the appropriate contact from the list above. If you do not receive acknowledgement of your inquiry or your inquiry has not been satisfactorily address, you should contact TRUSTe at [http://watchdog.truste.com/pvr.php?page=complaint&url=http://www.nasdaq.com](http://watchdog.truste.com/pvr.php?page=complaint&url=http://www.nasdaq.com). TRUSTe will then serve as a liaison with us to resolve your concerns. 
 
 The TRUSTe program covers only information that is collected through this Web site, and does not cover information that may be collected through software downloaded from this site. 
