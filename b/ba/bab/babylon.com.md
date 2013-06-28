@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the babylon.com privacy policy that was archived on 2012-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121231060437id_/http%3A//www.babylon.com/info/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the babylon.com privacy policy that was archived on 2013-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130628022436id_/http%3A//www.babylon.com/info/privacy) for the most accurate reproduction.*
 
 # Privacy Statement for Babylon
 
@@ -23,4 +23,4 @@ Users should also be aware of the following:
 
  **c.** Babylon gathers information related to our users' use of the our Software (''Usage Patterns'') to better understand how such users, as a group, use the software and the various features thereof, as well as to help Babylon tailor offerings to user groups with specific profiles, and to conduct market research. The Parameters and the Usage Patterns may be used in the aggregate for commercial purposes, including without limitation, for marketing, co-registration to other services, promotional activities or any other activity, including, without limitation, the protection of Babylon's proprietary and other rights all subject to the provisions herein.
 
-Questions about this privacy statement should be directed to [privacy@babylon.com](mailto:privacy@babylon.com).
+Questions about this privacy statement should be directed to [info@babylon.com](mailto:info@babylon.com).
