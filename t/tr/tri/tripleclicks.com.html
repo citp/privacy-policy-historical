@@ -1,7 +1,8 @@
-<!--The following is the downloaded HTML source of the tripleclicks.com privacy policy that was archived on 2012-11-11.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121111223713id_/http%3A//www.tripleclicks.com/privacy_policy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the tripleclicks.com privacy policy that was archived on 2013-06-28.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130628092930id_/http%3A//www.tripleclicks.com/privacy_policy.php) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
+
 
 <script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" async="" src="https://cdn.livechatinc.com/tracking.js"></script><script type="text/javascript">
     var __lc = {};
@@ -16,12 +17,12 @@
 </script>
 
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<meta http-equiv="CACHE-CONTROL" content="NO-CACHE">
 <meta name="google-translate-customization" content="fb8e4d1fc6a35aac-139c96ecf1993366-ged454ab21aa3a8fa-10">
 <meta name="verify-v1" content="qvu/+sf801hlEKa/ubeE7GtycPyASNlEkzrvIGjpZV4=">
 <title>TripleClicks Privacy Policy</title>
 <link href="/common/styles/TCdefault.css?123412341234" rel="stylesheet" type="text/css">
 <link href="/common/styles/colorbox.css" rel="stylesheet" type="text/css">
+<link href="/common/styles/buttons.css" rel="stylesheet" type="text/css">
 <link rel="stylesheet" href="/common/modal/windowfiles/dhtmlwindow.css" type="text/css">
 <link href="/common/styles/TConnectECA.css" rel="stylesheet" type="text/css">
 <script type="text/javascript" src="/common/modal/windowfiles/dhtmlwindow.js"></script><style type="text/css">.highslide img {cursor: url(/common/highslide/highslide/graphics/zoomin.cur), pointer !important;}.highslide-viewport-size {position: fixed; width: 100%; height: 100%; left: 0; top: 0}</style></head><body onload=""><div id="dhtmlwindowholder"><span style="display:none">.</span></div>
@@ -29,7 +30,7 @@
 <script type="text/javascript" src="/common/modal/modalfiles/modal.js"></script><div id="interVeil"></div>
 <script src="//ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js" type="text/javascript"></script>
 <script type="text/javascript" src="//apis.google.com/js/plusone.js"></script>
-<script type="text/javascript" src="/common/javascript.js?1352673433.2156"></script>
+<script type="text/javascript" src="/common/javascript.js?1372411770.9225"></script>
 <script type="text/javascript" src="/common/jquery.jcarousel.js"></script>
 <script src="/common/pro_dropdown_2/stuHover.js" type="text/javascript"></script>
 
@@ -38,7 +39,7 @@
 <script type="text/javascript" src="/common/highslide/highslide-with-gallery.js"></script>
 <script type="text/javascript" src="/common/highslide/highslide/highslide.js"></script>
 <script type="text/javascript" src="/common/mediaelement/mediaelement-and-player.min.js"></script>
-<script type="text/javascript" src="/common/music.js?1352673433.2156"></script>
+<script type="text/javascript" src="/common/music.js?1372411770.9225"></script>
 <link rel="stylesheet" type="text/css" href="/common/highslide/highslide/highslide.css">
 <link rel="stylesheet" type="text/css" href="/common/mediaelement/mediaelementplayer.min.css">
 <link rel="stylesheet" type="text/css" href="/common/pro_dropdown_2/pro_dropdown_2.css">
@@ -60,34 +61,8 @@ hs.registerOverlay({
             </script>
 
 
-
-
-<!--
-<script type="text/javascript">
-	$.getScript('/common/jquery.translate-CUSTOM-1.3.9.js', function(){ //when the script is loaded
-		$.translate(function(){ //when the Google Language API is loaded
-			$('#lang_select').change(function(){ //when selecting another language
-			 	$.cookies.set('language', $(this).val(), 365);
- 				$('body').translate( 'english', $(this).val(), {
-						not: 'option #lang_select'
-				 });
-			})
-			$('body').translate( 'english', $.cookies.get('language'), { 
-				not: 'option, #lang_select'
-			 });
-		});
-	});
-</script>
--->
 <style type="text/css">
 
-
-.lscurrent{
-  background:#66ccff;
-  color:#FFFFFF;
-  font-weight:700;
-  padding:3px;
-}  
 
 #dropmenudiv{
 position:absolute;
@@ -128,49 +103,75 @@ padding:0px;
 background-color:#fff;
 border:1px solid #ccc;
 }
-   
+
 a.newECAsale:link, a.newECAsale:visited { font-size:11px; font-weight:900; background:#CC0000; border-radius:5px; padding:4px; text-decoration:none; float:right; margin-top:10px; box-shadow:1px 1px 3px #C00; -webkit-box-shadow:1px 1px 3px #C00; -moz-box-shadow:1px 1px 3px #C00;}
 
 
 </style>
 <script type="text/javascript">
+$(document).ready(function()
+{
+	$(document).on('mouseenter', ".lsbox", function ()
+    {
+    	$(".lscurrent").removeClass('lscurrent');
+        $(this).addClass('lscurrent');
+    });
+    $(document).on('mouseleave', ".lsbox", function ()
+    {
+        $(this).removeClass('lscurrent')
+    });
+    $(document).on('click', ".lsbox", function ()
+    {
+    	var url = $(this).find('a').attr('href');
 
-$(document).ready(function(){
-    $('.lsbox').hover(function (){            
-        $(this).attr('class', 'lsbox lscurrent')
-        }, function (){
-            $(this).attr('class', 'lsbox');
+    	document.location.href = url;
     });
 
 
 
     $('#text_search').keyup(
     function (e){
-        var curr = $('#liveSearch').find('.lscurrent');
-        if (e.keyCode == 40) {                                      
+        var curr = $('#liveSearch .lscurrent').first();
+        if (e.keyCode == 40) {
             if(curr.length) {
-                $(curr).attr('class', 'lsbox');
-                $(curr).next().attr('class', 'lsbox lscurrent');
+                $(curr).removeClass('lscurrent');
+                $(curr).next('.lsbox').addClass('lscurrent');;
             } else{
-                $('#liveSearch div:first-child').attr('class', 'lsbox lscurrent');
-            }                    
+                $('#liveSearch .lsbox').first().addClass('lscurrent');
+            }
             return false;
-        } else if(e.keyCode==38) {                                        
-            if(curr.length) {                            
-                $(curr).attr('class', 'lsbox');
-                $(curr).prev().attr('class', 'lsbox lscurrent');
+        } else if(e.keyCode==38) {
+            if(curr.length) {
+                $(curr).removeClass('lscurrent');
+                $(curr).prev('.lsbox').addClass('lscurrent');
             } else{
-                $('#liveSearch div:last-child').attr('class', 'lsbox lscurrent');
-            }            
+                $('#liveSearch .lsbox').last().addClass('lscurrent');;
+            }
             return false;
         } else if (e.keyCode == 13) {
-            if (curr.length) {
+            if (curr.length)
+            {
                 $(curr).click();
+                return false;
             }
         } else {
             showLiveResults($('#text_search').val());
             return true;
         }
+    });
+
+    $("#text_search").on('keypress', function(e)
+    {
+    	if (e.keyCode == 13)
+    	{
+    		var curr = $('#liveSearch .lscurrent').first();
+    		if (curr.length > 0)
+    		{
+    			window.location.href = $(curr).find('a').attr('href');
+		    	return false;
+	    	}
+    	}
+    	return true;
     });
 
     $('#text_search').keydown(
@@ -190,21 +191,21 @@ $(document).ready(function(){
          if (el.value == 'What are you looking for?') {
              el.value='';
          }
-         
+
      }
 
     function showLiveResults (str) {
         var d = document.getElementById('liveSearch'); // this is pop up panel
         var t = document.getElementById('text_search');
-        if (str.length==0) { 
+        if (str.length==0) {
             d.style.display="none";
             document.getElementById("liveSearch").innerHTML="";
             document.getElementById("liveSearch").style.border="0px";
             return;
         }
-        if (window.XMLHttpRequest) {// code for IE7+, Firefox, Chrome, Opera, Safari
+        if (window.XMLHttpRequest) { // code for IE7+, Firefox, Chrome, Opera, Safari
             xmlhttp=new XMLHttpRequest();
-        } else {// code for IE6, IE5
+        } else { // code for IE6, IE5
             xmlhttp=new ActiveXObject("Microsoft.XMLHTTP");
         }
         xmlhttp.onreadystatechange=function() {
@@ -218,28 +219,26 @@ $(document).ready(function(){
                 document.getElementById("liveSearch").innerHTML=xmlhttp.responseText;
                 document.getElementById("liveSearch").style.border="1px solid #A5ACB2";
                 document.getElementById("liveSearch").style.borderTop="0px";
-                document.getElementById("liveSearch").style.padding="10px";		
-                document.getElementById("liveSearch").style.borderRadius="0px 0px 5px 5px";				
+                document.getElementById("liveSearch").style.padding="10px";
+                document.getElementById("liveSearch").style.borderRadius="0px 0px 5px 5px";
             }
         }
-        xmlhttp.open("GET","/liveSearch.php?q="+str,true);
+        xmlhttp.open("GET","/liveSearch.php?tab=member_center&q="+str,true);
         xmlhttp.send();
 
     }
 
-
 </script>
 
-
 <!--
-<div id="floatSC" style="position:absolute;width:300px;height:50px;left:0px;top:0px;padding:16px;background:#FFFFFF;border:1px solid #2266AA">  
+<div id="floatSC" style="position:absolute;width:300px;height:50px;left:0px;top:0px;padding:16px;background:#FFFFFF;border:1px solid #2266AA">
 <div id="floatSCinner">
 <table border=0>
 <tr><td colspan=2>Shopping Cart</td></tr>
 <tr><td>Price</td><td>Qty</td></tr>
 </table>
 </div>
-</div>  
+</div>
 
 <script type="text/javascript" src="/common/floating.js"></script>
 -->
@@ -1158,6 +1157,13 @@ $(document).ready(function(){
 				x_setServiceActive.arguments);
 		}
 		
+				
+		// wrapper for getAuctionCountdownProgress		
+		function x_getAuctionCountdownProgress() {
+			sajax_do_call("getAuctionCountdownProgress",
+				x_getAuctionCountdownProgress.arguments);
+		}
+		
 		
 updateCart();
 /***********************************************
@@ -1195,7 +1201,7 @@ var menu2=new Array()
     menu2[24]='<a href="/results.php?dept=16">Tools & Automotive</a>'
     menu2[25]='<a href="/results.php?dept=17">Toys, Kids & Baby</a>'
     menu2[26]='<a href="/results.php?dept=243">Travel</a>'
-		
+
 var menuwidth='175px' //default menu width
 var menubgcolor='#eeeeee'  //menu bgcolor
 var disappeardelay=250  //menu disappear speed onMouseout (in miliseconds)
@@ -1328,11 +1334,14 @@ document.onclick=hidemenu
 
 </script>
 
+
 <!-- -->
 <link href="//fonts.googleapis.com/css?family=Lato:300,900|Abel" rel="stylesheet" type="text/css">
 
 <script src="/common/jquery.iphone-switch.js" type="text/javascript"></script>
-
+<!-- ADDED BY BL FOR TOOLTIPS-->
+<!-- <link type="text/css" href="/common/styles/atooltip.css" rel="stylesheet"  media="screen" />	-->
+<script type="text/javascript" src="/common/jquery.atooltip.js"></script>
 
 <script type="text/javascript">
 
@@ -1346,6 +1355,18 @@ document.onclick=hidemenu
     var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
   })();
 
+  	// ADDED BY BL FOR TOOLTIPS
+	$(document).ready(function()
+	{
+		if (($("a.fixedTip")).length)
+		{
+			/*
+			$('a.fixedTip').aToolTip({
+		   		fixed: true
+			});
+			*/
+		}
+	});
 
 </script>
 
@@ -1489,22 +1510,22 @@ document.onclick=hidemenu
     <div id="headerInfo">
     <br>
     <div style="padding-top:30px; line-height:18px;">
-                        <form method="post" action="/privacy_policy.php">
-            E-mail or ID #
+                                    <form method="post" action="https://www.tripleclicks.com/privacy_policy.php">
+                        E-mail or ID #
                 <input name="username" type="text" id="username" size="15" class="forms" value="">
-                Password 
+                Password
                 <input name="password" type="password" id="password" size="10" class="forms">
                 <input type="image" src="/images/buttons/b_Login.gif" alt="Go" width="43" height="18" align="absmiddle" border="0">
                 <br>
                 Not yet a TripleClicks Member? <a href="member_benefits.php">Join FREE here</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="/get">Forget Password?</a><br>
-                            
-                        
-            </form>        
+                
+            
+            </form>
                     </div>
                 <!--<br />
             <a href="/ECA/ECAOrderManager.php" class="newECAsale" style="color:#FFF;">YOU HAVE A NEW SALE!</a>-->
 	</div>
-    
+
     <div id="logo">
 		<a href="/"><img src="/images/logos/logo-TCv3.gif" border="0" width="300" height="69" style="padding:10px 0px 15px 0px;"></a>
 	</div>
@@ -1515,24 +1536,25 @@ document.onclick=hidemenu
 		<li><a href="/indexProducts.php">PRODUCTS</a></li>
 		<!--<li><a href="#">SERVICES</a></li>-->
 		<li><a href="/indexAuctions.php">AUCTIONS</a></li>
-		<!-- <li><a href="/indexECAs.php">ECAs</a></li>               --> 
+		<!-- <li><a href="/indexECAs.php">ECAs</a></li>               -->
 		<li><a href="/music/index.php">MUSIC</a></li>
 		<!--<li><a href="#">WANTS</a></li>-->
-		<li><a href="/indexContests.php">FREE &amp; CONTESTS</a></li>
+		<li><a href="/indexContests.php">GAMES</a></li>
+		<li><a href="/member_rewards.php">REWARDS</a></li>
 	</ul>
-	
-	<ul class="menuRight">	
-		<li class="menuRightLI"><a href="/myaccount/" class="selected" style="color:#FFFFFF;">MEMBER CENTER</a></li>	
+
+	<ul class="menuRight">
+		<li class="menuRightLI"><a href="/myaccount/" class="selected" style="color:#FFFFFF;">MEMBER CENTER</a></li>
 	</ul>
-	
-	<div class="clearboth0"></div>	
+
+	<div class="clearboth0"></div>
 
 	<div class="headerSearchBox" style="border-top-left-radius: 5px; ">
 		<span style="float:right; line-height:20px;"><a href="/adv_search.php" style="color:#FFFFFF; position:relative; top:2px;">Advanced Search</a></span>
-		
+
 			<form method="post" action="/search/resultsv2.php" id="searchForm">
             <input type="hidden" name="search" value="t">
-            <input type="text" name="text_search" class="searchBox" value="What are you looking for?" id="text_search" onclick="clearSearchBox(this);" autocomplete="off">	
+            <input type="text" name="text_search" class="searchBox" value="What are you looking for?" id="text_search" onclick="clearSearchBox(this);" autocomplete="off">
 			<label for="searchDropdown" style="position:relative; top:2px; float:left; ">in</label>
 
             <select name="dept" id="dept" class="dropdown" style="width:150px;">
@@ -1566,10 +1588,10 @@ document.onclick=hidemenu
                                     <option value="243">Travel</option>
                             </select>
 		<input type="image" src="/images/site/bg_searchButton.png" alt="Go" id="searchButton">
-            </form>	
-		
-		<div class="clearboth0"></div>		
-	
+            </form>
+
+		<div class="clearboth0"></div>
+
 	</div>
 
 </div>
@@ -1582,7 +1604,7 @@ document.onclick=hidemenu
 
 <!--[if IE 8]><div style="height:10px;"></div><![endif]-->
 
-<div id="liveSearch" style="cursor: pointer;position:absolute;width:550px;border: 3px dashed black; padding: 8px;left:0px;top:0px;z-index:100;display:none;background-color:white;"></div>
+<div id="liveSearch" style="position:absolute;width:550px;border: 3px dashed black; padding: 8px;left:0px;top:0px;z-index:100;display:none;background-color:white;"></div>
 <div style="margin:0 auto; width:960px;">
 <img src="/images/site/h_tcsh-cstcare960.jpg" alt="ECA" width="960" height="60" border="0" usemap="#ECA">
 <map name="ECA" id="ECA">
@@ -1665,65 +1687,46 @@ a.mainSidebarLink3:hover {
 -->
 
 	<div style="font-size:11px;">
-		
+
 		<div>
 			<p align="center"><img src="/images/site/h_PBsidebar.gif" alt="Pricebenders" width="170" height="55" style="margin-bottom:5px;"></p>
 			<p align="center">TripleClicks members are saving up to 99% on these items, which are being bid on right now!</p>
 			<p>&nbsp;</p>
+
 			
-							
-								
-					
-				                        	                                    					<p align="center"></p>			
-					<p align="center" style="font-size:11px; font-weight:bold;">LG BD670 3D Wireless Network Blu-ray Disc Player with Smart TV</p>
-					<p align="center"><img src="/SFIImages/AUCLGBD670Bluray.jpg" width="160" style="margin:5px; "></p>
-					<p align="center" style="font-size:14px; font-weight:bold; color:#CC0000;">Current Price: $0.79*</p>
-					<p align="center"><a href="/pbDetails.php" target="_blank" class="HPbutton" style="border-radius:4px;">BID NOW!</a></p>
+			
+									<p align="center"></p>
+					<p align="center" style="font-size:11px; font-weight:bold;">TCredits - 300 pack</p>
+					<p align="center"><img src="/image_output.php?id=63873" width="160" style="margin:5px; "></p>
+					<p align="center" style="font-size:14px; font-weight:bold; color:#CC0000;">Current Price: $1.25*</p>
+					<p align="center"><a href="/pb.php?atype=X" target="_blank" class="HPbutton" style="border-radius:4px;">BID NOW!</a></p>
+					<p>&nbsp;</p>
+
+									<p align="center"></p>
+					<p align="center" style="font-size:11px; font-weight:bold;">Samsung Chromebook </p>
+					<p align="center"><img src="/image_output.php?id=171938" width="160" style="margin:5px; "></p>
+					<p align="center" style="font-size:14px; font-weight:bold; color:#CC0000;">Current Price: $1.39*</p>
+					<p align="center"><a href="/pb.php?atype=F" target="_blank" class="HPbutton" style="border-radius:4px;">BID NOW!</a></p>
+					<p>&nbsp;</p>
+
+													<p align="center"></p>
+					<p align="center" style="font-size:11px; font-weight:bold;">TCredits - 300 pack</p>
+					<p align="center"><img src="/image_output.php?id=63873" width="160" style="margin:5px; "></p>
+					<p align="center" style="font-size:14px; font-weight:bold; color:#CC0000;">Starting In: 00:00:30*</p>
 					<p>&nbsp;</p>
 				
-				                                        	                    					<p align="center"></p>			
-					<p align="center" style="font-size:11px; font-weight:bold;">TCredits - 250 pack</p>
-					<p align="center"><img src="/SFIImages/AUCTCredit250.jpg" width="160" style="margin:5px; "></p>
-					<p align="center" style="font-size:14px; font-weight:bold; color:#CC0000;">Current Price: $2.92*</p>
-					<p align="center"><a href="/pbXRA.php" target="_blank" class="HPbutton" style="border-radius:4px;">BID NOW!</a></p>
-					<p>&nbsp;</p>
-				
-																		<p align="center"></p>
-					<p align="center" style="font-size:11px; font-weight:bold;">TCredits - 250 pack</p>
-					<p align="center"><img src="/SFIImages/AUCTCredit250.jpg" width="160" style="margin:5px; "></p>
-					<p align="center" style="font-size:14px; font-weight:bold; color:#CC0000;">Starting In: 05:22:47*</p>
-<!-- 					<p align="center"><a href="/detail.php?auc=1&item=63869" class="HPbutton" style="border-radius:4px;">BID NOW!</a></p> -->
-					<p>&nbsp;</p>
-								
-				<p align="center">Bid on these items<br> 
+				<p align="center">Bid on these items<br>
 				before they're gone!</p>
-				<p align="center" style="font-size:11px; font-style:italic;">*Refresh browser for updated information</p>	
-			
-											
-		</div>
-		
+				<p align="center" style="font-size:11px; font-style:italic;">*Refresh browser for updated information</p>
+
+					</div>
+
 	</div>
-	
+
 <div class="dividerDotted"></div>
-			<div style="font-size:11px; margin-top:10px;">
-		
-			<div>
-				<div align="center"><img src="/images/logos/logo-wave3_ban.gif" alt="TC logo" width="120" height="93"><br>
-				</div>
-				<p><br>
-					• FREE Monthly TCredits!<br>
-					• FREE Monthly Member Rewards Points! (MRP)<br>
-					• Win $100's in our weekly drawing!<br>
-					• Earn unlimited add'l TCredits/MRP!<br>
-					• Exclusive member-only specials!<br>
-					• Free song of the month download!</p>
-				<p>&nbsp;</p>
-				<p><a href="/Wave3/Wave3.php">Join the wave</a> and get all this &amp; more!</p>		
-			</div>
-				
-		</div>
-		
-<div class="dividerDotted"></div>	
+			<a href="/ECA/ECAGW.php"><img src="/images/site/ban_ECA.gif" alt="Sell Products Online?  Click Here!" width="190" height="361" border="0" style="_width:190px;"></a>
+	<!--
+<div class="dividerDotted"></div>
 
 <span id="LiveChat_1343922413" style="display:block; text-align:center; background-color:#eee; padding:10px; border-radius:5px;"></span>
 
@@ -1740,14 +1743,14 @@ a.mainSidebarLink3:hover {
         });
     </script>
 
-
-
-<div class="dividerDotted"></div>	
+</script>
+-->
+<div class="dividerDotted"></div>
 
 <a href="http://www.facebook.com/pages/TripleClickscom/172874702800289" target="_blank"><img src="/images/buttons/logo-Facebook.gif" border="0" style="margin-left:11px;"></a>
 <a href="http://twitter.com/#!/GoTripleClicks" target="_blank"><img src="/images/buttons/logo-Twitter.gif" border="0" style="margin-left:8px;"></a></div>
 
-	
+
 
 
 <!------------------------------------------------------------------------------ end TripleClicks Sidebar -->
@@ -1815,8 +1818,9 @@ a.mainSidebarLink3:hover {
 	<div id="customerCare2">
 	<span class="footerHeader">Customer Care</span><br>
 	<br>
-		<a href="/contact_us.php">Contact Us</a><br>
-		<!--Start AliveChat Chat Link Code-->
+		<a href="/Support/">Contact Us</a><br>
+		<a href="/Support/">Support</a><br>        
+		<!--<!--Start AliveChat Chat Link Code
         Live Chat: 
 <span id="LiveChat_1343922417"></span>
 
@@ -1833,10 +1837,10 @@ a.mainSidebarLink3:hover {
         });
     </script>
 
+</script>
 
-
-		<!--End AliveChat Chat Link Code-->
-		<br>
+		End AliveChat Chat Link Code
+		<br />-->
       	<a href="/myaccount/order_status.php">Order Status</a><br>
         <a href="/myaccount/payment_options.php">Payment Options</a><br>
 		<a href="/returns_refunds.php">Returns &amp; Refunds</a><br>
@@ -1862,55 +1866,26 @@ a.mainSidebarLink3:hover {
        
    </div>
     
-		<div style="float:left; width:140px; text-align:center; ">
+		<div style="float:left; width:140px; text-align:center; ">     
         
-    <!-- BBB -->
-<div style="padding-left:20px; padding-bottom:5px;">    
-<a id="bbblink" class="rbhzbus" href="http://www.bbb.org/nebraska/business-reviews/internet-marketing-services/sfi-marketing-group-in-lincoln-ne-207000239#bbblogo" title="SFI Marketing Group, Internet Marketing Services, Lincoln, NE" style="display: block;position: relative;overflow: hidden; width: 100px; height: 38px; margin: 0px; padding: 0px;"><img style="padding: 0px; border: none;" id="bbblinkimg" src="https://seal-nebraska.bbb.org/logo/rbhzbus/sfi-marketing-group-207000239.png" width="200" height="38" alt="SFI Marketing Group, Internet Marketing Services, Lincoln, NE"></a><script type="text/javascript">var bbbprotocol = ( ("https:" == document.location.protocol) ? "https://" : "http://" ); document.write(unescape("%3Cscript src='" + bbbprotocol + 'seal-nebraska.bbb.org' + unescape('%2Flogo%2Fsfi-marketing-group-207000239.js') + "' type='text/javascript'%3E%3C/script%3E"));</script><script src="https://seal-nebraska.bbb.org/logo/sfi-marketing-group-207000239.js" type="text/javascript"></script>    
-</div>    
-   <!-- BBB -->        
-        
-			                <!-- IF HTTP -->
-                TripleClicks features secure checkout from Verisign
-			<br><br>
-            <!--
-				<strong>Currency:</strong><br />
-				<select name="currency" id="currency" class="forms" style="margin-top:3px;" onChange="updateCurrency();">
-									<option value="USD" >United States Dollars</option>
-									<option value="EUR" >Euros</option>
-									<option value="GBP" >United Kingdom Pounds</option>
-									<option value="JPY" >Japanese Yen</option>
-									<option value="CAD" >Canadian Dollars</option>
-									<option value="AUD" >Australian Dollars</option>
-									<option value="RUB" >Russian Rubles</option>
-									<option value="MXN" >Mexican Pesos</option>
-									<option value="NZD" >New Zealand Dollars</option>
-									<option value="SGD" >Singapore Dollars</option>
-									<option value="HKD" >Hong Kong Dollars</option>
-									<option value="SEK" >Swedish Kronor</option>
-									<option value="NOK" >Norwegian Kroner</option>
-									<option value="MYR" >Malaysian Ringgit</option>
-									<option value="ZAR" >South African Rand</option>
-									<option value="CHF" >Swiss Francs</option>
-									<option value="INR" >Indian Rupees</option>
-									<option value="PHP" >Philippine Peso</option>
-									<option value="IDR" >Indonesian Rupiah</option>
-									<option value="NGN" >Nigerian Naira</option>
-									<option value="PKR" >Pakistani Rupee</option>
-									<option value="BDT" >Bangladeshi Taka</option>
-									<option value="KES" >Kenyan Shilling</option>
-									<option value="AED" >UAE Dirham</option>
-									<option value="HUF" >Hungarian Forint</option>
-									<option value="UGX" >Ugandan Shilling</option>
-									<option value="BRL" >Brazilian Real</option>
-									<option value="LKR" >Sri Lankan Rupee</option>
-									<option value="EGP" >Egyptian Pound</option>
-									<option value="RON" >Romanian Leu</option>
-									<option value="UZS" >Uzbekistani Som</option>
-									<option value="SAR" >Saudi Riyal</option>
-								</select>			
-                -->
-            		
+                <div style="float:left; width:140px; text-align:center; margin-bottom:5px">
+                
+                <!-- GeoTrust True Site [tm] Smart Icon tag. Do not edit. -->
+                
+                <script language="JavaScript" type="text/javascript" src="//smarticon.geotrust.com/si.js"></script>
+                
+                <!-- end GeoTrust Smart Icon tag -->
+                
+                </div>		
+                
+			<div style="clear:both; height:0px;"></div> 
+                
+                <!-- BBB -->
+            <div style="padding-left:20px; padding-bottom:5px;">    
+            <a id="bbblink" class="rbhzbus" href="http://www.bbb.org/nebraska/business-reviews/internet-marketing-services/sfi-marketing-group-in-lincoln-ne-207000239#bbblogo" title="SFI Marketing Group, Internet Marketing Services, Lincoln, NE" style="display: block;position: relative;overflow: hidden; width: 100px; height: 38px; margin: 0px; padding: 0px;"><img style="padding: 0px; border: none;" id="bbblinkimg" src="https://seal-nebraska.bbb.org/logo/rbhzbus/sfi-marketing-group-207000239.png" width="200" height="38" alt="SFI Marketing Group, Internet Marketing Services, Lincoln, NE"></a><script type="text/javascript">var bbbprotocol = ( ("https:" == document.location.protocol) ? "https://" : "http://" ); document.write(unescape("%3Cscript src='" + bbbprotocol + 'seal-nebraska.bbb.org' + unescape('%2Flogo%2Fsfi-marketing-group-207000239.js') + "' type='text/javascript'%3E%3C/script%3E"));</script><script src="https://seal-nebraska.bbb.org/logo/sfi-marketing-group-207000239.js" type="text/javascript"></script>    
+            </div>    
+               <!-- BBB -->  
+                
 		</div>
 	</div>
 	
@@ -1933,37 +1908,38 @@ function googleTranslateElementInit()
 	    <br>
 			<select name="currency" id="currency" class="forms" style="margin-top:2px; padding-bottom:5px;" onchange="updateCurrency(this);">
 			<option value="USD" multiplier="1.00" sign="$">United States Dollars</option>
-			<option value="EUR" multiplier="0.79" sign="€">Euros</option>
-			<option value="GBP" multiplier="0.63" sign="£">United Kingdom Pounds</option>
-			<option value="JPY" multiplier="79.12" sign="¥">Japanese Yen</option>
-			<option value="CAD" multiplier="1.00" sign="$">Canadian Dollars</option>
-			<option value="AUD" multiplier="0.97" sign="$">Australian Dollars</option>
-			<option value="RUB" multiplier="31.62" sign="¤">Russian Rubles</option>
-			<option value="MXN" multiplier="13.23" sign="$">Mexican Pesos</option>
-			<option value="NZD" multiplier="1.23" sign="$">New Zealand Dollars</option>
-			<option value="SGD" multiplier="1.23" sign="S$">Singapore Dollars</option>
-			<option value="HKD" multiplier="7.75" sign="HK$">Hong Kong Dollars</option>
-			<option value="SEK" multiplier="6.75" sign="kr">Swedish Kronor</option>
-			<option value="NOK" multiplier="5.75" sign="kr">Norwegian Kroner</option>
-			<option value="MYR" multiplier="3.06" sign="rm">Malaysian Ringgit</option>
-			<option value="ZAR" multiplier="8.76" sign="R">South African Rand</option>
+			<option value="EUR" multiplier="0.77" sign="€">Euros</option>
+			<option value="GBP" multiplier="0.65" sign="£">United Kingdom Pounds</option>
+			<option value="JPY" multiplier="98.17" sign="¥">Japanese Yen</option>
+			<option value="CAD" multiplier="1.04" sign="$">Canadian Dollars</option>
+			<option value="AUD" multiplier="1.07" sign="$">Australian Dollars</option>
+			<option value="RUB" multiplier="32.79" sign="¤">Russian Rubles</option>
+			<option value="MXN" multiplier="13.05" sign="$">Mexican Pesos</option>
+			<option value="NZD" multiplier="1.28" sign="$">New Zealand Dollars</option>
+			<option value="SGD" multiplier="1.26" sign="S$">Singapore Dollars</option>
+			<option value="HKD" multiplier="7.76" sign="HK$">Hong Kong Dollars</option>
+			<option value="SEK" multiplier="6.72" sign="kr">Swedish Kronor</option>
+			<option value="NOK" multiplier="6.05" sign="kr">Norwegian Kroner</option>
+			<option value="MYR" multiplier="3.17" sign="rm">Malaysian Ringgit</option>
+			<option value="ZAR" multiplier="9.95" sign="R">South African Rand</option>
 			<option value="CHF" multiplier="0.95" sign="¤">Swiss Francs</option>
-			<option value="INR" multiplier="54.78" sign="₹">Indian Rupees</option>
-			<option value="PHP" multiplier="41.18" sign="₱">Philippine Peso</option>
+			<option value="INR" multiplier="60.20" sign="₹">Indian Rupees</option>
+			<option value="PHP" multiplier="43.31" sign="₱">Philippine Peso</option>
 			<option value="IDR" multiplier="9615.00" sign="Rp">Indonesian Rupiah</option>
-			<option value="NGN" multiplier="157.03" sign="₦">Nigerian Naira</option>
-			<option value="PKR" multiplier="95.85" sign="₨">Pakistani Rupee</option>
-			<option value="BDT" multiplier="81.30" sign="Tk">Bangladeshi Taka</option>
-			<option value="KES" multiplier="85.18" sign="KSh">Kenyan Shilling</option>
+			<option value="NGN" multiplier="161.57" sign="₦">Nigerian Naira</option>
+			<option value="PKR" multiplier="99.11" sign="₨">Pakistani Rupee</option>
+			<option value="BDT" multiplier="77.91" sign="Tk">Bangladeshi Taka</option>
+			<option value="KES" multiplier="85.99" sign="KSh">Kenyan Shilling</option>
 			<option value="AED" multiplier="3.67" sign="د.إ">UAE Dirham</option>
-			<option value="HUF" multiplier="218.82" sign="Ft">Hungarian Forint</option>
+			<option value="HUF" multiplier="226.35" sign="Ft">Hungarian Forint</option>
 			<option value="UGX" multiplier="2592.50" sign="USh">Ugandan Shilling</option>
-			<option value="BRL" multiplier="2.03" sign="R$">Brazilian Real</option>
-			<option value="LKR" multiplier="130.15" sign="Rs">Sri Lankan Rupee</option>
-			<option value="EGP" multiplier="6.11" sign="E£">Egyptian Pound</option>
-			<option value="RON" multiplier="3.50" sign="lei">Romanian Leu</option>
+			<option value="BRL" multiplier="2.18" sign="R$">Brazilian Real</option>
+			<option value="LKR" multiplier="130.45" sign="Rs">Sri Lankan Rupee</option>
+			<option value="EGP" multiplier="7.02" sign="E£">Egyptian Pound</option>
+			<option value="RON" multiplier="3.42" sign="lei">Romanian Leu</option>
 			<option value="UZS" multiplier="1952.60" sign="¤">Uzbekistani Som</option>
 			<option value="SAR" multiplier="3.75" sign="ر.س">Saudi Riyal</option>
+			<option value="KRW" multiplier="1054.70" sign="₩">South Korean Won</option>
 		</select>
 	</div>	
 
@@ -1972,7 +1948,10 @@ function googleTranslateElementInit()
 		<br>
 		<img src="/images/logos/logo-sfi_sm.gif" width="59" height="25"><br>
 		<br>
-			</div>	
+			
+			Your Affiliate is:<br>
+			<strong>Nadia Fredericks</strong>
+   			</div>	
 	
 	<div style="clear:both; height:0px;"></div>		
 
@@ -1981,9 +1960,21 @@ function googleTranslateElementInit()
 <div class="tcClearBoth"></div>
 
 
-
 <div align="center" style="text-align:center; padding-top:10px; font-size:11px;">
-	Copyright © 2012, Carson Services, Inc.
+	Copyright © 2013, Carson Services, Inc.
+     <div id="xyzzy_res" align="center" style="display:none;">rendered by node05 in -0.76375198364258</div>
+        <script>
+        $(function() {
+        $('div#xyzzy').hover(function() {
+        $('div#xyzzy_res').show();
+        });
+        $('div#xyzzy_res').hover(function() {
+        }, function() {
+        $('div#xyzzy_res').hide();
+        });
+        });
+    </script>
+   <div id="xyzzy" align="center" style="color:white">a</div>
 </div>
 
 
