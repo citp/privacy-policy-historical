@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the myxertones.com privacy policy that was archived on 2012-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121228041421id_/http%3A//www.myxer.com/privacy/%3Floc%3Df) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myxertones.com privacy policy that was archived on 2013-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130629014159id_/http%3A//www.myxer.com/privacy/%3Floc%3Df) for the most accurate reproduction.*
 
 # Myxer - Privacy Policy
 
@@ -26,6 +26,8 @@ Myxer collects information when you visit myxer.com pages, register with us thro
 ## HOW DO WE USE COOKIES?
 
 Myxer uses third-party advertising companies to serve ads when you visit our website. These companies may use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, [click here](http://www.networkadvertising.org/managing/opt_out.asp). 
+
+Notwithstanding anything else in this policy, we or a data provider we have engaged may place or recognize a unique cookie on your browser to enable you to receive customized ads or content. These cookies contain no personally identifiable information. The cookies may reflect de-identified demographic or other data linked to data you voluntarily have submitted to us, e.g., your email address, that we may share with a data provider solely in hashed, non-human readable form. To opt-out of these cookies, please go to [www.aboutads.info/choices](http://www.aboutads.info/choices). 
 
 Google is one of the third-party advertising companies used to serve ads on our site. Google's use of the DART cookie enables it to serve ads to users based on their visits to this site and other sites on the Internet. Users may opt out of the use of the DART cookie by visiting the [Google ad and content network privacy policy](http://www.google.com/privacy_ads.html). 
 
@@ -78,4 +80,4 @@ We customarily release alpha and beta versions of our products, which are furthe
 If you have questions about the privacy aspects of our products or services or would like to make a complaint, please contact: [support@myxer.com](mailto:support@myxer.com)
 
 NOTE: mVisible®, Myxer®, MyxerTones®, MyxerTags™, MyxerCodes™, and MyxerPix™ are trademarks of Myxer Inc.  
-Last modified: April 23rd, 2012 
+Last modified: February 27th, 2013 
