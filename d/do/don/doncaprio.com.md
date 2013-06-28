@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the doncaprio.com privacy policy that was archived on 2012-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121122105716id_/http%3A//www.doncaprio.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the doncaprio.com privacy policy that was archived on 2013-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130629013235id_/http%3A//www.doncaprio.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy | A Geek's Tech Journal
 
 If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at admin(at)capriofiles(.)com.  
 At www.doncaprio.com, the privacy of our visitors is of extreme importance to us. This privacy policy document outlines the types of personal information is received and collected by www.doncaprio.com and how it is used.
