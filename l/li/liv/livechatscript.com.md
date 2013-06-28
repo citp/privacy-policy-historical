@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the livechatscript.com privacy policy that was archived on 2012-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121224035503id_/http%3A//www.livechatscript.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the livechatscript.com privacy policy that was archived on 2013-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130628032735id_/http%3A//livechatscript.com/privacy.aspx) for the most accurate reproduction.*
 
-# Free Live Chat Script |Live Chat Software for Mobile, tablets, PC, Linux, Mac
+# Free Live Chat Software | Script for Mobile, Tablets, PC, Linux, Mac
 
 Privacy Policy
 
@@ -8,7 +8,7 @@ Privacy Policy
 
 We collect information from you when you sign up to our software. 
 
-Google, as a third party vendor, uses cookies to serve ads on your site. Google's use of the DART cookie enables it to serve ads to your users based on their visit to your sites and other sites on the Internet. Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy..
+Google, as a third party vendor, uses cookies to serve ads on our site. Google's use of the DART cookie enables it to serve ads to our users based on their visit to your sites and other sites on the Internet. Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy..
 
 **What do we use your information for?**
 
