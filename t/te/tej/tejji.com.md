@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tejji.com privacy policy that was archived on 2012-09-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120919083051id_/http%3A//tejji.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tejji.com privacy policy that was archived on 2013-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130628115105id_/http%3A//tejji.com/privacy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy | Tejji
 
@@ -6,16 +6,16 @@ Last Date of Revision: 29th December 2009
 
 ###  Introduction
 
-At Tejji we recognize that privacy is important. This Privacy Policy applies to all of the products and services offered by website [Tejji.com](http://tejji.com/).
+At Tejji we recognize that privacy is important. This Privacy Policy applies to all of the products and services offered by website [Tejji.com](http://tejji.com/). 
 
-Or, you can write to us at address mentioned below  
+Or, you can write to us at address mentioned below   
 Tejji.com . No. 181/A, 1st Main Road, Padmanabhangar, Bangalore - 560070 India [contactus@tejji.com](mailto:contactus@tejji.com)
 
 ###  Information we receive and how we use it
 
-Our offering have services that do not require you to register yourself at Tejji and create an account or provide any personal information to us, such as Typing Test. However to provide you with services, we may collect the following types of information:
+Our offering have services that do not require you to register yourself at Tejji and create an account or provide any personal information to us, such as Typing Test. However to provide you with services, we may collect the following types of information: 
 
-  * **Information provided by you** – In case when you register yourself for a Tejji account, you are been asked for personal information like your name, email address, password etc. And in some case we my ask you details like your address etc. We may combine these information you provide on Tejji with other Tejji services or third parties in order to improve our quality of services. This information we collect we do not knowingly share it with third party without your consent. However we may provide aggregate statistics about our visitors to thrid parties, but these statistics will not include personally identifiable information. However there are some information that are being share with you and our other visitiors which are mentioned below.
+  * **Information provided by you** – In case when you register yourself for a Tejji account, you are been asked for personal information like your name, email address, password etc. And in some case we my ask you details like your address etc. We may combine these information you provide on Tejji with other Tejji services or third parties in order to improve our quality of services. This information we collect we do not knowingly share it with third party without your consent. However we may provide aggregate statistics about our visitors to thrid parties, but these statistics will not include personally identifiable information. However there are some information that are being share with you and our other visitiors which are mentioned below. 
 
 **Information that is shared**
 
@@ -55,7 +55,7 @@ Information that we collect from you are governed by the privacy policy mentione
 
 If you decline to provide some of the mandatory information then you would not be able to use some of our services.
 
-In case if you do not want us to use the information for the purpose intended to then we would try our best to provide you with the mechanism to opt out those information from being used in particular manner.
+In case if you do not want us to use the information for the purpose intended to then we would try our best to provide you with the mechanism to opt out those information from being used in particular manner. 
 
 ###  Sharing of Information
 
@@ -63,7 +63,7 @@ Information collected from your are being share only in following cases.
 
   * You have agreed to share such information or we have your consent
   * Such information is processed by third party who agree to operate under same privacy policies
-  * We have reason to believe that the preservation or disclosure of such information is nessary to
+  * We have reason to believe that the preservation or disclosure of such information is nessary to 
     * Legal requirements enforced by respective government
     * Protect against harm to the rights, property or safety of Tejji, its users or the public as permitted by law
 
@@ -71,11 +71,11 @@ Information collected from your are being share only in following cases.
 
 Please contact us if you have further clarification regarding sharing of information.
 
-###  Changes to Privacy Policies
+###  Changes to Privacy Policies 
 
-Privacy Policy mentioned here may change time to time. In case of changes we will try our best not to reduce the protection level of your information from current level. However me may change the policy without your consent. Last date of change will be mentioned in the document.
+Privacy Policy mentioned here may change time to time. In case of changes we will try our best not to reduce the protection level of your information from current level. However me may change the policy without your consent. Last date of change will be mentioned in the document. 
 
 If you have any concerns with respect to Privacy Policy then please feel free to write to us through this website.
 
-Thank you for you attention.  
+Thank you for you attention.   
 Tejji.com
