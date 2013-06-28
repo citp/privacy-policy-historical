@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the fxoro.com privacy policy that was archived on 2012-12-19.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121219160524id_/http%3A//www.fxoro.com/scripts/pagebase.aspx%3Ffolder%3Dcmp%26what%3Dprivacydoc%26ext%3Dhtm) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the fxoro.com privacy policy that was archived on 2013-06-28.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130628065557id_/http%3A//www.fxoro.com/scripts/pagebase.aspx%3Ffolder%3Dcmp%26what%3Dprivacydoc%26ext%3Dhtm) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN"><html><head id="pageBaseHeader"><title>
 	FXORO Online Trading, Forex Trading, Online Currency Trading
@@ -37,7 +37,7 @@
 			<tbody><tr>
 			<!--<td onmouseover="hideSubMenus();"></td>-->
 				<td>
-					<form name="ctl00" method="post" action="/scripts/pagebase.aspx?folder=cmp&amp;what=privacydoc&amp;ext=htm" id="ctl00">
+					<form name="ctl00" method="post" action="pagebase.aspx?folder=cmp&amp;what=privacydoc&amp;ext=htm" id="ctl00">
 <div>
 <input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwULLTE5MTk1MzM4MTJkZA==">
 </div>
@@ -88,7 +88,7 @@ function handleSuccess(component, eventId)
 }
 function SendEvent(eventname,username)
 {try{if(eventname=='hphit')eventname='%3Fhphit';	
-		emerpec.document.location="/emerp/events/EMERPEventCollector.aspx?p=0&EventName="+eventname+"&DoOnSuccess=true&account="+username;}catch(ex){}
+		emerpec.document.location="/emerp/events/emerpec.html?p=0&EventName="+eventname+"&DoOnSuccess=true&account="+username;}catch(ex){}
 }
 function GotoRegister()
 {	doHourglass();
@@ -99,9 +99,11 @@ function GotoRegisterPost() {document.location.href = '/emerp/landing/masterLP/i
 
 
 function GotoLoginPost() {
-    
+    if (window.location.hostname == "www.fxoro.co.uk"){
+    document.location.href = loginUrl_co_uk + gotoLang;}
+	else{
     document.location.href = loginUrl + gotoLang;
-    
+    }
 
 	
 	return false;
@@ -121,7 +123,11 @@ function goToDownloadJapanese(windowname) {
 
 
 function GotoLoginPost2() {
+if (window.location.hostname == "www.fxoro.co.uk"){
+    document.location.href = loginUrl_co_uk + gotoLang;}
+	else{
 	document.location.href = loginUrl + gotoLang;
+	}
 	return false;
 }
 
@@ -147,17 +153,17 @@ function GotoLoginTrader2()
 	
 
    
-function SendEvent2(){try{emerpec.document.location.replace("/emerp/events/EMERPEventCollector.aspx?p=0&EventName=playnow&OnSuccess=handleSuccess2&account=");}catch(ex){}}	
-function SendEvent3(){try{emerpec.document.location.replace("/emerp/events/EMERPEventCollector.aspx?p=0&EventName=demoreg&OnSuccess=handleSuccess2&account=");}catch(ex){}}	
+function SendEvent2(){try{emerpec.document.location.replace("/emerp/events/emerpec.html?p=0&EventName=playnow&OnSuccess=handleSuccess2&account=");}catch(ex){}}	
+function SendEvent3(){try{emerpec.document.location.replace("/emerp/events/emerpec.html?p=0&EventName=demoreg&OnSuccess=handleSuccess2&account=");}catch(ex){}}	
 function SendEventWithCallback(eventname, username, callback){
 try{callback = (callback) ? callback : "handleSuccess";if(eventname=='hphit')eventname='%3Fhphit';
-emerpec.document.location.replace("/emerp/events/EMERPEventCollector.aspx?p=0&EventName="+eventname+"&OnSuccess="+callback+"&account="+username);}catch(ex){}}
+emerpec.document.location.replace("/emerp/events/emerpec.html?p=0&EventName="+eventname+"&OnSuccess="+callback+"&account="+username);}catch(ex){}}
 
 </script>
 <input id="pcode" type="hidden" name="pcode" value="0000">
 <input id="scode" type="hidden" name="scode" value="0000">
 <input id="dynamicSerialsInput" type="hidden" name="dynamicSerialsInput" value="">
-<iframe id="emerpec" name="emerpec" frameborder="0" width="0" height="0" style="position:absolute; top:0; left:0;" src="http://events.fxoro.com/Emerp/events/EMERPEventCollector.aspx?ref=&amp;&amp;SID=&amp;return=http%3A%2F%2Fweb.archive.org%2FEmerp%2Fevents%2FEMERPEventCollector.aspx%3Fp%3D0%26DoOnSuccess%3Dtrue%26EventName%3D%3Fhphit%26userguid%3D%5Bguid%5D%26SID%3D%5Bsid%5D%26%5Bdsp%5D"></iframe>
+<iframe id="emerpec" name="emerpec" frameborder="0" width="0" height="0" style="position:absolute; top:0; left:0;" src="http://events.fxoro.com/Emerp/events/emerpec.html?ref=&amp;&amp;SID=&amp;return=http%3A%2F%2Fweb.archive.org%2FEmerp%2Fevents%2Femerpec.html%3Fp%3D0%26DoOnSuccess%3Dtrue%26EventName%3D%3Fhphit%26userguid%3D%5Bguid%5D%26SID%3D%5Bsid%5D%26%5Bdsp%5D"></iframe>
 <script type="text/javascript">
 
     var sourcedomain = "http://" + document.location.host;
@@ -184,11 +190,11 @@ emerpec.document.location.replace("/emerp/events/EMERPEventCollector.aspx?p=0&Ev
     if (inIfr == "") {
         /* If the domain is not the main domain(www.fxoro.com) */
         if (sourcedomain != originaldomain) {
-            document.getElementById("emerpec").src = originaldomain + "/Emerp/events/EMERPEventCollector.aspx?ref=" + r + "&" + document.location.search.substring(1) + "&SID=" + serial + "&return=" + encodeURIComponent(sourcedomain + "/Emerp/events/EMERPEventCollector.aspx?p=0&DoOnSuccess=true&EventName=?hphit&userguid=[guid]&SID=[sid]&[dsp]");
+            document.getElementById("emerpec").src = originaldomain + "/Emerp/events/emerpec.html?ref=" + r + "&" + document.location.search.substring(1) + "&SID=" + serial + "&return=" + encodeURIComponent(sourcedomain + "/Emerp/events/emerpec.html?p=0&DoOnSuccess=true&EventName=?hphit&userguid=[guid]&SID=[sid]&[dsp]");
         }
         else {
             var tmpParams = "&EventName=%3Fhphit";
-            document.getElementById("emerpec").src = "/emerp/events/EMERPEventCollector.aspx?ref=" + r + "&p=0&DoOnSuccess=true" + tmpParams;
+            document.getElementById("emerpec").src = "/emerp/events/emerpec.html?ref=" + r + "&p=0&DoOnSuccess=true" + tmpParams;
         }
     }
 </script>	
@@ -290,14 +296,14 @@ emerpec.document.location.replace("/emerp/events/EMERPEventCollector.aspx?p=0&Ev
 		<td style="width:778px;" colspan="2" align="center">
 			<table id="CtlUpMenu1_tblRootMenu" cellspacing="0" cellpadding="0" border="0" style="border-collapse:collapse;">
 	<tbody><tr>
-		<td id="CtlUpMenu1_rc0" class="rootMenu" onmouseover="showSubMenu(0,this);" style="width:129px;">Forex and CFDS</td><td id="CtlUpMenu1_rc1" class="rootMenu" onmouseover="showSubMenu(1,this);" style="width:129px;">Research</td><td id="CtlUpMenu1_rc2" class="rootMenu" onmouseover="showSubMenu(2,this);" style="width:129px;">Help</td><td id="CtlUpMenu1_rc3" class="rootMenu" onmouseover="showSubMenu(3,this);" style="width:129px;">Education</td><td id="CtlUpMenu1_rc4" class="rootMenu" onmouseover="showSubMenu(4,this);" style="width:129px;">About Us</td><td id="CtlUpMenu1_rc5" class="rootMenu" onmouseover="showSubMenu(5,this);" style="width:129px;">Contact Us</td>
+		<td id="CtlUpMenu1_rc0" class="rootMenu" onmouseover="showSubMenu(0,this);" style="width:129px;">Trading Instruments</td><td id="CtlUpMenu1_rc1" class="rootMenu" onmouseover="showSubMenu(1,this);" style="width:129px;">Research</td><td id="CtlUpMenu1_rc2" class="rootMenu" onmouseover="showSubMenu(2,this);" style="width:129px;">Help</td><td id="CtlUpMenu1_rc3" class="rootMenu" onmouseover="showSubMenu(3,this);" style="width:129px;">Education</td><td id="CtlUpMenu1_rc4" class="rootMenu" onmouseover="showSubMenu(4,this);" style="width:129px;">About Us</td><td id="CtlUpMenu1_rc5" class="rootMenu" onmouseover="showSubMenu(5,this);" style="width:129px;">Contact Us</td>
 	</tr>
 </tbody></table>
 		</td>
 	</tr>
 	<tr>
 		<td>
-			<div id="dv0" style="z-index:1000;visibility:hidden;position:absolute;left:1;"><table onmouseover="currentMenu='tb0';" onmouseout="chkMenu(event,'tb0');" id="tb0" cellpadding="0" cellspacing="1" style="background-color:#ffffff;width:154;margin-right:0;margin-left:0;"><tbody><tr><td class="subMenu" style="cursor:hand;" onmouseout="LI_DeHiLight(this);" onclick="document.location.href='/scripts/rates/aerates.aspx?type=flashmaj'" onmouseover="LI_HiLight(this)"><a onmouseover="LI_HiLight(this.parentNode)" class="subA" href="/scripts/rates/aerates.aspx?type=flashmaj">Forex Quotes</a></td></tr><tr><td class="subMenu" style="cursor:hand;" onmouseout="LI_DeHiLight(this);" onclick="document.location.href='/scripts/pagebase.aspx?folder=cmp&amp;what=oil&amp;ext=htm'" onmouseover="LI_HiLight(this)"><a onmouseover="LI_HiLight(this.parentNode)" class="subA" href="/scripts/pagebase.aspx?folder=cmp&amp;what=oil&amp;ext=htm">CFD Trading</a></td></tr><tr><td class="subMenu" style="cursor:hand;" onmouseout="LI_DeHiLight(this);" onclick="document.location.href='/scripts/pagebase.aspx?folder=cmp&amp;what=margin&amp;ext=htm'" onmouseover="LI_HiLight(this)"><a onmouseover="LI_HiLight(this.parentNode)" class="subA" href="/scripts/pagebase.aspx?folder=cmp&amp;what=margin&amp;ext=htm">Margin</a></td></tr><tr><td class="subMenu" style="cursor:hand;" onmouseout="LI_DeHiLight(this);" onclick="document.location.href='/scripts/pagebase.aspx?folder=cmp&amp;what=stoploss&amp;ext=htm'" onmouseover="LI_HiLight(this)"><a onmouseover="LI_HiLight(this.parentNode)" class="subA" href="/scripts/pagebase.aspx?folder=cmp&amp;what=stoploss&amp;ext=htm">Stop Loss Execution Policy</a></td></tr></tbody></table></div><div id="dv1" style="z-index:1001;visibility:hidden;position:absolute;left:130;"><table onmouseover="currentMenu='tb1';" onmouseout="chkMenu(event,'tb1');" id="tb1" cellpadding="0" cellspacing="1" style="background-color:#ffffff;width:154;margin-right:0;margin-left:0;"><tbody><tr><td class="subMenu" style="cursor:hand;" onmouseout="LI_DeHiLight(this);" onclick="document.location.href='/scripts/fxdata/calendar.aspx'" onmouseover="LI_HiLight(this)"><a onmouseover="LI_HiLight(this.parentNode)" class="subA" href="/scripts/fxdata/calendar.aspx">Economic Calendar</a></td></tr><tr><td class="subMenu" style="cursor:hand;" onmouseout="LI_DeHiLight(this);" onclick="document.location.href='/scripts/analysis/tech.aspx'" onmouseover="LI_HiLight(this)"><a onmouseover="LI_HiLight(this.parentNode)" class="subA" href="/scripts/analysis/tech.aspx">Market Analysis</a></td></tr><tr><td class="subMenu" style="cursor:hand;" onmouseout="LI_DeHiLight(this);" onclick="document.location.href='/scripts/pagebase.aspx?folder=cmp&amp;what=charts&amp;ext=htm'" onmouseover="LI_HiLight(this)"><a onmouseover="LI_HiLight(this.parentNode)" class="subA" href="/scripts/pagebase.aspx?folder=cmp&amp;what=charts&amp;ext=htm">Charts</a></td></tr><tr><td class="subMenu" style="cursor:hand;" onmouseout="LI_DeHiLight(this);" onclick="document.location.href='/scripts/fxdata/interest.aspx?type=wwwintr'" onmouseover="LI_HiLight(this)"><a onmouseover="LI_HiLight(this.parentNode)" class="subA" href="/scripts/fxdata/interest.aspx?type=wwwintr">Forwards Interest Rates</a></td></tr><tr><td class="subMenu" style="cursor:hand;" onmouseout="LI_DeHiLight(this);" onclick="document.location.href='/scripts/fxdata/forward.aspx'" onmouseover="LI_HiLight(this)"><a onmouseover="LI_HiLight(this.parentNode)" class="subA" href="/scripts/fxdata/forward.aspx">Forward Pips Calculator</a></td></tr><tr><td class="subMenu" style="cursor:hand;" onmouseout="LI_DeHiLight(this);" onclick="document.location.href='/scripts/rates/convert.aspx'" onmouseover="LI_HiLight(this)"><a onmouseover="LI_HiLight(this.parentNode)" class="subA" href="/scripts/rates/convert.aspx">Currency Converter</a></td></tr><tr><td class="subMenu" style="cursor:hand;" onmouseout="LI_DeHiLight(this);" onclick="document.location.href='/scripts/rates/history.aspx'" onmouseover="LI_HiLight(this)"><a onmouseover="LI_HiLight(this.parentNode)" class="subA" href="/scripts/rates/history.aspx">Historical Rates</a></td></tr></tbody></table></div><div id="dv2" style="z-index:1002;visibility:hidden;position:absolute;left:259;"><table onmouseover="currentMenu='tb2';" onmouseout="chkMenu(event,'tb2');" id="tb2" cellpadding="0" cellspacing="1" style="background-color:#ffffff;width:154;margin-right:0;margin-left:0;"><tbody><tr><td class="subMenu" style="cursor:hand;" onmouseout="LI_DeHiLight(this);" onclick="document.location.href='/scripts/pagebase.aspx?folder=cmp&amp;what=faq&amp;ext=htm'" onmouseover="LI_HiLight(this)"><a onmouseover="LI_HiLight(this.parentNode)" class="subA" href="/scripts/pagebase.aspx?folder=cmp&amp;what=faq&amp;ext=htm">FAQ</a></td></tr><tr><td class="subMenu" style="cursor:hand;" onmouseout="LI_DeHiLight(this);" onclick="document.location.href='/scripts/pagebase.aspx?folder=cmp&amp;what=center&amp;ext=htm'" onmouseover="LI_HiLight(this)"><a onmouseover="LI_HiLight(this.parentNode)" class="subA" href="/scripts/pagebase.aspx?folder=cmp&amp;what=center&amp;ext=htm">Customer support</a></td></tr></tbody></table></div><div id="dv3" style="z-index:1003;visibility:hidden;position:absolute;left:388;"><table onmouseover="currentMenu='tb3';" onmouseout="chkMenu(event,'tb3');" id="tb3" cellpadding="0" cellspacing="1" style="background-color:#ffffff;width:154;margin-right:0;margin-left:0;"><tbody><tr><td class="subMenu" style="cursor:hand;" onmouseout="LI_DeHiLight(this);" onclick="document.location.href='/scripts/pagebase.aspx?folder=droom&amp;what=deals&amp;ext=htm'" onmouseover="LI_HiLight(this)"><a onmouseover="LI_HiLight(this.parentNode)" class="subA" href="/scripts/pagebase.aspx?folder=droom&amp;what=deals&amp;ext=htm">What is FOREX</a></td></tr></tbody></table></div><div id="dv4" style="z-index:1004;visibility:hidden;position:absolute;left:517;"><table onmouseover="currentMenu='tb4';" onmouseout="chkMenu(event,'tb4');" id="tb4" cellpadding="0" cellspacing="1" style="background-color:#ffffff;width:154;margin-right:0;margin-left:0;"><tbody><tr><td class="subMenu" style="cursor:hand;" onmouseout="LI_DeHiLight(this);" onclick="document.location.href='/scripts/pagebase.aspx?folder=cmp&amp;what=profile&amp;ext=htm'" onmouseover="LI_HiLight(this)"><a onmouseover="LI_HiLight(this.parentNode)" class="subA" href="/scripts/pagebase.aspx?folder=cmp&amp;what=profile&amp;ext=htm">About FXORO</a></td></tr><tr><td class="subMenu" style="cursor:hand;" onmouseout="LI_DeHiLight(this);" onclick="document.location.href='/scripts/pagebase.aspx?folder=droom&amp;what=dealing&amp;ext=htm'" onmouseover="LI_HiLight(this)"><a onmouseover="LI_HiLight(this.parentNode)" class="subA" href="/scripts/pagebase.aspx?folder=droom&amp;what=dealing&amp;ext=htm">FXORO Advantages</a></td></tr><tr><td class="subMenu" style="cursor:hand;" onmouseout="LI_DeHiLight(this);" onclick="document.location.href='/scripts/pagebase.aspx?folder=cmp&amp;what=serviceExellence&amp;ext=htm'" onmouseover="LI_HiLight(this)"><a onmouseover="LI_HiLight(this.parentNode)" class="subA" href="/scripts/pagebase.aspx?folder=cmp&amp;what=serviceExellence&amp;ext=htm">Quality of Service</a></td></tr><tr><td class="subMenu" style="cursor:hand;" onmouseout="LI_DeHiLight(this);" onclick="document.location.href='/scripts/pagebase.aspx?folder=cmp&amp;what=news_updates&amp;ext=htm'" onmouseover="LI_HiLight(this)"><a onmouseover="LI_HiLight(this.parentNode)" class="subA" href="/scripts/pagebase.aspx?folder=cmp&amp;what=news_updates&amp;ext=htm">News &amp; Updates</a></td></tr><tr><td class="subMenu" style="cursor:hand;" onmouseout="LI_DeHiLight(this);" onclick="document.location.href='/index.aspx?hp=yes'" onmouseover="LI_HiLight(this)"><a onmouseover="LI_HiLight(this.parentNode)" class="subA" href="/index.aspx?hp=yes">Home</a></td></tr></tbody></table></div><div id="dv5" style="z-index:1005;visibility:hidden;position:absolute;left:646;"><table onmouseover="currentMenu='tb5';" onmouseout="chkMenu(event,'tb5');" id="tb5" cellpadding="0" cellspacing="1" style="background-color:#ffffff;width:154;margin-right:0;margin-left:0;"><tbody><tr><td class="subMenu" style="cursor:hand;" onmouseout="LI_DeHiLight(this);" onclick="document.location.href='/scripts/pagebase.aspx?folder=cmp&amp;what=contactInter&amp;ext=htm'" onmouseover="LI_HiLight(this)"><a onmouseover="LI_HiLight(this.parentNode)" class="subA" href="/scripts/pagebase.aspx?folder=cmp&amp;what=contactInter&amp;ext=htm">Contact Information</a></td></tr><tr><td class="subMenu" style="cursor:hand;" onmouseout="LI_DeHiLight(this);" onclick="document.location.href='/scripts/cmp/contact.aspx'" onmouseover="LI_HiLight(this)"><a onmouseover="LI_HiLight(this.parentNode)" class="subA" href="/scripts/cmp/contact.aspx">Send a Query</a></td></tr></tbody></table></div>
+			<div id="dv0" style="z-index:1000;visibility:hidden;position:absolute;left:1;"><table onmouseover="currentMenu='tb0';" onmouseout="chkMenu(event,'tb0');" id="tb0" cellpadding="0" cellspacing="1" style="background-color:#ffffff;width:154;margin-right:0;margin-left:0;"><tbody><tr><td class="subMenu" style="cursor:hand;" onmouseout="LI_DeHiLight(this);" onclick="document.location.href='/scripts/rates/aerates.aspx?type=flashmaj'" onmouseover="LI_HiLight(this)"><a onmouseover="LI_HiLight(this.parentNode)" class="subA" href="/scripts/rates/aerates.aspx?type=flashmaj">Forex Quotes</a></td></tr><tr><td class="subMenu" style="cursor:hand;" onmouseout="LI_DeHiLight(this);" onclick="document.location.href='/scripts/pagebase.aspx?folder=cmp&amp;what=oil&amp;ext=htm'" onmouseover="LI_HiLight(this)"><a onmouseover="LI_HiLight(this.parentNode)" class="subA" href="/scripts/pagebase.aspx?folder=cmp&amp;what=oil&amp;ext=htm">CFD Trading</a></td></tr><tr><td class="subMenu" style="cursor:hand;" onmouseout="LI_DeHiLight(this);" onclick="document.location.href='/scripts/pagebase.aspx?folder=cmp&amp;what=BinaryOptions&amp;ext=htm'" onmouseover="LI_HiLight(this)"><a onmouseover="LI_HiLight(this.parentNode)" class="subA" href="/scripts/pagebase.aspx?folder=cmp&amp;what=BinaryOptions&amp;ext=htm">Binary Options</a></td></tr><tr><td class="subMenu" style="cursor:hand;" onmouseout="LI_DeHiLight(this);" onclick="document.location.href='/scripts/pagebase.aspx?folder=cmp&amp;what=Stocks&amp;ext=htm'" onmouseover="LI_HiLight(this)"><a onmouseover="LI_HiLight(this.parentNode)" class="subA" href="/scripts/pagebase.aspx?folder=cmp&amp;what=Stocks&amp;ext=htm">Stocks</a></td></tr><tr><td class="subMenu" style="cursor:hand;" onmouseout="LI_DeHiLight(this);" onclick="document.location.href='/scripts/pagebase.aspx?folder=cmp&amp;what=margin&amp;ext=htm'" onmouseover="LI_HiLight(this)"><a onmouseover="LI_HiLight(this.parentNode)" class="subA" href="/scripts/pagebase.aspx?folder=cmp&amp;what=margin&amp;ext=htm">Margin</a></td></tr><tr><td class="subMenu" style="cursor:hand;" onmouseout="LI_DeHiLight(this);" onclick="document.location.href='/scripts/pagebase.aspx?folder=cmp&amp;what=stoploss&amp;ext=htm'" onmouseover="LI_HiLight(this)"><a onmouseover="LI_HiLight(this.parentNode)" class="subA" href="/scripts/pagebase.aspx?folder=cmp&amp;what=stoploss&amp;ext=htm">Stop Loss Execution Policy</a></td></tr></tbody></table></div><div id="dv1" style="z-index:1001;visibility:hidden;position:absolute;left:130;"><table onmouseover="currentMenu='tb1';" onmouseout="chkMenu(event,'tb1');" id="tb1" cellpadding="0" cellspacing="1" style="background-color:#ffffff;width:154;margin-right:0;margin-left:0;"><tbody><tr><td class="subMenu" style="cursor:hand;" onmouseout="LI_DeHiLight(this);" onclick="document.location.href='/scripts/fxdata/calendar.aspx'" onmouseover="LI_HiLight(this)"><a onmouseover="LI_HiLight(this.parentNode)" class="subA" href="/scripts/fxdata/calendar.aspx">Economic Calendar</a></td></tr><tr><td class="subMenu" style="cursor:hand;" onmouseout="LI_DeHiLight(this);" onclick="document.location.href='/scripts/analysis/tech.aspx'" onmouseover="LI_HiLight(this)"><a onmouseover="LI_HiLight(this.parentNode)" class="subA" href="/scripts/analysis/tech.aspx">Market Analysis</a></td></tr><tr><td class="subMenu" style="cursor:hand;" onmouseout="LI_DeHiLight(this);" onclick="document.location.href='/scripts/pagebase.aspx?folder=cmp&amp;what=charts&amp;ext=htm'" onmouseover="LI_HiLight(this)"><a onmouseover="LI_HiLight(this.parentNode)" class="subA" href="/scripts/pagebase.aspx?folder=cmp&amp;what=charts&amp;ext=htm">Charts</a></td></tr><tr><td class="subMenu" style="cursor:hand;" onmouseout="LI_DeHiLight(this);" onclick="document.location.href='/scripts/fxdata/interest.aspx?type=wwwintr'" onmouseover="LI_HiLight(this)"><a onmouseover="LI_HiLight(this.parentNode)" class="subA" href="/scripts/fxdata/interest.aspx?type=wwwintr">Forwards Interest Rates</a></td></tr><tr><td class="subMenu" style="cursor:hand;" onmouseout="LI_DeHiLight(this);" onclick="document.location.href='/scripts/fxdata/forward.aspx'" onmouseover="LI_HiLight(this)"><a onmouseover="LI_HiLight(this.parentNode)" class="subA" href="/scripts/fxdata/forward.aspx">Forward Pips Calculator</a></td></tr><tr><td class="subMenu" style="cursor:hand;" onmouseout="LI_DeHiLight(this);" onclick="document.location.href='/scripts/rates/convert.aspx'" onmouseover="LI_HiLight(this)"><a onmouseover="LI_HiLight(this.parentNode)" class="subA" href="/scripts/rates/convert.aspx">Currency Converter</a></td></tr><tr><td class="subMenu" style="cursor:hand;" onmouseout="LI_DeHiLight(this);" onclick="document.location.href='/scripts/rates/history.aspx'" onmouseover="LI_HiLight(this)"><a onmouseover="LI_HiLight(this.parentNode)" class="subA" href="/scripts/rates/history.aspx">Historical Rates</a></td></tr></tbody></table></div><div id="dv2" style="z-index:1002;visibility:hidden;position:absolute;left:259;"><table onmouseover="currentMenu='tb2';" onmouseout="chkMenu(event,'tb2');" id="tb2" cellpadding="0" cellspacing="1" style="background-color:#ffffff;width:154;margin-right:0;margin-left:0;"><tbody><tr><td class="subMenu" style="cursor:hand;" onmouseout="LI_DeHiLight(this);" onclick="document.location.href='/scripts/pagebase.aspx?folder=cmp&amp;what=faq&amp;ext=htm'" onmouseover="LI_HiLight(this)"><a onmouseover="LI_HiLight(this.parentNode)" class="subA" href="/scripts/pagebase.aspx?folder=cmp&amp;what=faq&amp;ext=htm">FAQ</a></td></tr><tr><td class="subMenu" style="cursor:hand;" onmouseout="LI_DeHiLight(this);" onclick="document.location.href='/scripts/pagebase.aspx?folder=cmp&amp;what=center&amp;ext=htm'" onmouseover="LI_HiLight(this)"><a onmouseover="LI_HiLight(this.parentNode)" class="subA" href="/scripts/pagebase.aspx?folder=cmp&amp;what=center&amp;ext=htm">Customer support</a></td></tr></tbody></table></div><div id="dv3" style="z-index:1003;visibility:hidden;position:absolute;left:388;"><table onmouseover="currentMenu='tb3';" onmouseout="chkMenu(event,'tb3');" id="tb3" cellpadding="0" cellspacing="1" style="background-color:#ffffff;width:154;margin-right:0;margin-left:0;"><tbody><tr><td class="subMenu" style="cursor:hand;" onmouseout="LI_DeHiLight(this);" onclick="document.location.href='/scripts/pagebase.aspx?folder=droom&amp;what=deals&amp;ext=htm'" onmouseover="LI_HiLight(this)"><a onmouseover="LI_HiLight(this.parentNode)" class="subA" href="/scripts/pagebase.aspx?folder=droom&amp;what=deals&amp;ext=htm">What is FOREX</a></td></tr></tbody></table></div><div id="dv4" style="z-index:1004;visibility:hidden;position:absolute;left:517;"><table onmouseover="currentMenu='tb4';" onmouseout="chkMenu(event,'tb4');" id="tb4" cellpadding="0" cellspacing="1" style="background-color:#ffffff;width:154;margin-right:0;margin-left:0;"><tbody><tr><td class="subMenu" style="cursor:hand;" onmouseout="LI_DeHiLight(this);" onclick="document.location.href='/scripts/pagebase.aspx?folder=cmp&amp;what=profile&amp;ext=htm'" onmouseover="LI_HiLight(this)"><a onmouseover="LI_HiLight(this.parentNode)" class="subA" href="/scripts/pagebase.aspx?folder=cmp&amp;what=profile&amp;ext=htm">About FXORO</a></td></tr><tr><td class="subMenu" style="cursor:hand;" onmouseout="LI_DeHiLight(this);" onclick="document.location.href='/scripts/pagebase.aspx?folder=droom&amp;what=dealing&amp;ext=htm'" onmouseover="LI_HiLight(this)"><a onmouseover="LI_HiLight(this.parentNode)" class="subA" href="/scripts/pagebase.aspx?folder=droom&amp;what=dealing&amp;ext=htm">FXORO Advantages</a></td></tr><tr><td class="subMenu" style="cursor:hand;" onmouseout="LI_DeHiLight(this);" onclick="document.location.href='/scripts/pagebase.aspx?folder=cmp&amp;what=serviceExellence&amp;ext=htm'" onmouseover="LI_HiLight(this)"><a onmouseover="LI_HiLight(this.parentNode)" class="subA" href="/scripts/pagebase.aspx?folder=cmp&amp;what=serviceExellence&amp;ext=htm">Quality of Service</a></td></tr><tr><td class="subMenu" style="cursor:hand;" onmouseout="LI_DeHiLight(this);" onclick="document.location.href='/scripts/pagebase.aspx?folder=cmp&amp;what=news_updates&amp;ext=htm'" onmouseover="LI_HiLight(this)"><a onmouseover="LI_HiLight(this.parentNode)" class="subA" href="/scripts/pagebase.aspx?folder=cmp&amp;what=news_updates&amp;ext=htm">News &amp; Updates</a></td></tr><tr><td class="subMenu" style="cursor:hand;" onmouseout="LI_DeHiLight(this);" onclick="document.location.href='/scripts/pagebase.aspx?folder=cmp&amp;what=Regulations&amp;ext=htm'" onmouseover="LI_HiLight(this)"><a onmouseover="LI_HiLight(this.parentNode)" class="subA" href="/scripts/pagebase.aspx?folder=cmp&amp;what=Regulations&amp;ext=htm">Regulations</a></td></tr><tr><td class="subMenu" style="cursor:hand;" onmouseout="LI_DeHiLight(this);" onclick="document.location.href='/index.aspx?hp=yes'" onmouseover="LI_HiLight(this)"><a onmouseover="LI_HiLight(this.parentNode)" class="subA" href="/index.aspx?hp=yes">Home</a></td></tr></tbody></table></div><div id="dv5" style="z-index:1005;visibility:hidden;position:absolute;left:646;"><table onmouseover="currentMenu='tb5';" onmouseout="chkMenu(event,'tb5');" id="tb5" cellpadding="0" cellspacing="1" style="background-color:#ffffff;width:154;margin-right:0;margin-left:0;"><tbody><tr><td class="subMenu" style="cursor:hand;" onmouseout="LI_DeHiLight(this);" onclick="document.location.href='/scripts/pagebase.aspx?folder=cmp&amp;what=contactInter&amp;ext=htm'" onmouseover="LI_HiLight(this)"><a onmouseover="LI_HiLight(this.parentNode)" class="subA" href="/scripts/pagebase.aspx?folder=cmp&amp;what=contactInter&amp;ext=htm">Contact Information</a></td></tr><tr><td class="subMenu" style="cursor:hand;" onmouseout="LI_DeHiLight(this);" onclick="document.location.href='/scripts/cmp/contact.aspx'" onmouseover="LI_HiLight(this)"><a onmouseover="LI_HiLight(this.parentNode)" class="subA" href="/scripts/cmp/contact.aspx">Send a Query</a></td></tr></tbody></table></div>
 		</td>
 	</tr>
 	<tr>
@@ -311,7 +317,7 @@ emerpec.document.location.replace("/emerp/events/EMERPEventCollector.aspx?p=0&Ev
 
 <script type="text/javascript">
 
-var domLang = "www.fxoro.com_English,tr.fxoro.com_Turkish";
+var domLang = "www.fxoro.com_English,tr.fxoro.com_Turkish,www.fxoro.co.uk_English";
 var mainDomain = "www.fxoro.com";
 var activesLanguages = "English,United Kingdom,Russian,Indonesian,Malay,Filipino,Portuguese,Japanese,Chinese,German,Hungarian,Dutch,Romanian,Arabic,Hindi,Spanish,chineseTRA,Espana(EU),Italiano,Hebrew,Turkish,Francais,Portugal,Farsi,Scandinavian,Polish,Korean,Korean-en,Indonesian-en,Malay-en";
 var tmpImg = new Image();
@@ -967,110 +973,125 @@ function eraseCookie(name) {
 										
 									</td>
 									<td width="460" style="background-color:#ffffff;">
-										<img vspace="0" style="margin-top:20px;margin-left:15px;margin-right:5px; vertical-align:-3px;" src="/img/fxoroimg/ArrowOrange-Right.jpg"><span style="color:#cc9a00;font-size:23px; font-family:Verdana, Arial, Tahoma;">Privacy Policy</span>
+										<img vspace="0" style="margin-top:20px;margin-left:15px;margin-right:5px; vertical-align:-3px;" src="/img/fxoroimg/ArrowOrange-Right.jpg"><span style="color:#cc9a00;font-size:23px; font-family:Verdana, Arial, Tahoma;">PRIVACY AND SECURITY POLICY</span>
 <div style="width:412px;height:5px;margin-left:15px;background:url('/img/gen/line_dot412.gif') no-repeat;"></div>
 <div style="width:412px;margin-left:15px;">
 <p class="mh45">
 <b>Our commitment</b>
 <br><br>
-This Privacy and  Security  Policy  explains  how  MCA INTELIFUNDS LTD, trading as “<b>FXORO</b>”, (“<b>FXORO</b>”),  collects its Clients’ personal data, and how this is maintained, used and disclosed.
+This Privacy and Security Policy explains how MCA INTELIFUNDS LTD, trading as “<b>FXORO</b>”, (“<b>FXORO</b>”) <b>FXORO</b> collects personal data about you and how it maintains, uses and discloses that data. 
 <br><br>
-FXORO’s primary interest lies in the safeguarding of its Clients’ privacy, by ensuring that all personal data which is obtained from its Clients, including all the data that is obtained by FXORO when a Client visits the FXORO websites. Information collected by FXORO is handled, retained and processed only by means that are in accordance with mandatory legal requirements and only to the extent it is strictly necessary for the achievement of the purposes set out herein.
+FXORO is committed to protecting the privacy of all personal data which is obtained from you, including the data we obtain during your visits to the FXORO websites. FXORO handles, retains and processes your data only insofar as this is in accordance with the applicable legal requirements and only to the extent it is necessary for the achievement of the purposes set out herein.
 <br><br>
-<b>Personal Information Collected</b>
+<b>What information do we collect from you?</b>
 <br><br>
-FXORO collects and processes personal information of its clients only insofar as to provide its    Clients with the relevant services, as these are set out in the section “<b>Use of personal information</b>” below.  In addition, personal information of Clients may also be obtained for the purpose of identifying clients through the various authentication requirements set out by FXORO in its Terms and Conditions. Clients’ personal information may also be authenticated by external and independent Credit Reference Agencies (who may keep a record of this information) for the purpose of fraud prevention. 
+In order for FXORO to provide its clients with the investment services, FXORO is required to collect, process and retain personal data of its clients in accordance with mandatory legal requirements. This includes, among others, your date of birth, your address, a certified photocopy of your national ID card, passport or other form of ID and a certified photocopy of a recent utility bill or other proof of address.
 <br><br>
-Personal information may also be collected by FXORO given the Clients’ use of the website. Such information will be stored in a Client’s personal file. Information collected via the use of the website may include pages viewed,   frequency  and  duration  of  visits,  types  of  transactions  conducted,  documents downloaded and other websites which may have referred Clients to FXORO’s website, or websites to which Clients link the FXORO website.
+FXORO also collects and processes personal information about you that is necessary for it to provide you with its services, as listed below in the section “How do we use and share your personally identifiable information?” This includes information about you when you complete an online application or another type of form and when you access and trade through your FXORO account. Additionally, we may also obtain personal information as a result of authentication or identity checks, including checks with credit reference agencies (who may keep a record of the information) to prevent fraud.
 <br><br>
-By visiting the FXORO websites, the Client accepts and consents to the practices described in this Privacy Policy, including acceptance and consent to FXORO’s practice of collecting anonymous site statistics (including frequently visited pages and search requests) which FXORO may pass to trusted third parties. It is explicitly noted that the statistics collected in the manner described above never include any information that can identify any of FXORO’s clients personally.
+FXORO may also derive information from your use of the FXORO websites and software client and may store this information with your personal profile. This information may include site areas visited, pages viewed, frequency and duration of visits, Internet Protocol (IP) address, computer identification parameters, types of transactions conducted, documents downloaded, mouse clicks, mouse movements, scrolling activity as well as text you type in this website and which website referred you to ours or to which websites you link. 
 <br><br>
 <b>Links</b>
 <br><br>
-FXORO’s Privacy Policy does not extend to other websites to which a Client may be linked through by visiting FXORO’s website. FXORO is not, in any way, responsible for any personal information that may be submitted by its Clients to any third parties through its website.
+When you use the FXORO websites, you may be able to link to other websites. This Privacy &amp; Security Policy does not apply to those other sites which we link to and FXORO is not responsible for any personal information collected by third parties via those other sites.
 <br><br>
-<b>Handling of personal information</b>
+<b>Processing of personal information</b>
 <br><br>
-FXORO employees are committed to complying with very strict standards of confidentiality in the process of handling personal information.  For this reason, the accessing of personal information is prohibited for FXORO employees, with the exception of those employees who are in charge for the handling and processing of such information.
+Access to personal information is restricted to those employees, partners, contractors and affiliates of FXORO (including without limitations, parent, sister and subsidiary companies) who need to access such information for the purposes described in this policy. Those with access to personal information are obligated to comply with strict standards of confidentiality when managing personal and other data.
 <br><br>
 <b>Security</b>
 <br><br>
-FXORO takes all steps reasonably possible to ensure that the appropriate safeguards are maintained and that the privacy of the Client’s data and/or personal information that the Client is secured and not misused in any way. Measures and safeguards taken by FXORO ensure that the data is encrypted during  their transmission, that the proper authentication mechanism are in place, and that all machines and data are kept separate for the provision of secure areas.
+FXORO makes efforts to maintain the appropriate safeguards in order to ensure that the security, integrity and privacy of the data and personal information that you have provided is not misused. Such measures and safeguards include encryption during data transmission, strong authentication mechanisms and the separation of machines and data to provide secure areas. While such systems and procedures reduce the risk of security breaches, they do not provide absolute security. Therefore FXORO cannot guarantee that our service will be immune from any wrongdoings, malfunctions, unlawful interceptions or unauthorized access to the information stored therein and to other information security risks, or that your private communications on or through our service will remain private.
 <br><br>
-<b>Use of personal information</b>
+<b>How do we use and share anonymous statistical information?</b>
 <br><br>
-Anonymous statistical information concerning its Clients is collected by FXORO. This procedure ensures that the needs of FXORO’s clients are met through the intensive monitoring and constant improving the services offered by FXORO to its Clients.
+FXORO collects anonymous statistical information in order to ensure that it meets the needs of its clients. By collecting such data, FXORO is able to monitor and improve the services which it offers to its existing and potential clients. We may share such information third parties.
 <br><br>
-Personal information is collected by FXORO for the following uses:
-<br>
+<b>How do we use and share your personally identifiable information?</b>
+<br><br>
+FXORO may use your personal information and share it with partners contractors, service providers, advisors, transaction processors and affiliates of FXORO (including parent, sister and subsidiary companies) (the “<b>Partners</b>”) for the following purposes only, or subject to your explicit consent:
+<br><br>
 <table style=" width: 390px; text-align: justify;" cellpadding="0" cellspacing="0">
             <tbody><tr>
                 <td style="text-align: justify; font-size: 10pt;">
                     <ul>
-                        <br><li style="color: #C89B07;"><span style="color: #494949; text-decoration: none; cursor: text;">The provision of survives to Clients, including the processing of transactions;</span></li>
-                        <br><li style="color: #C89B07;"><span style="color: #494949; text-decoration: none; cursor: text;">The confirmation of Clients’ identity;</span></li>
-                        <br><li style="color: #C89B07;"><span style="color: #494949; text-decoration: none; cursor: text;">The assessment of Clients’ suitability in relation to the products and services provided by FXORO.</span></li>
-                        <br><li style="color: #C89B07;"><span style="color: #494949; text-decoration: none; cursor: text;">Maintaining the Clients’ personal profile;</span></li>
-                        <br><li style="color: #C89B07;"><span style="color: #494949; text-decoration: none; cursor: text;">The general management of Clients’ Accounts;</span></li>
-                        <br><li style="color: #C89B07;"><span style="color: #494949; text-decoration: none; cursor: text;">The personal contact with Clients to ensure that Clients are informed where necessary or appropriate in relation to the services being provided to them;</span></li>
-                        <br><li style="color: #C89B07;"><span style="color: #494949; text-decoration: none; cursor: text;">Keeping Clients constantly up-to-date with regards to their trading activities with FXORO;</span></li>
-                        <br><li style="color: #C89B07;"><span style="color: #494949; text-decoration: none; cursor: text;">The management and administrations of products provided by FXORO to its Clients;</span></li>
-                        <br><li style="color: #C89B07;"><span style="color: #494949; text-decoration: none; cursor: text;">The personalization of the website to meet the needs and interests of FXORO’s Clients and the improvement and creation of new products and services that may be of interest to the Client;</span></li>
-                        <br><li style="color: #C89B07;"><span style="color: #494949; text-decoration: none; cursor: text;">The gathering of statistical data for the purposes described above, which in no way identify a Client personally.</span></li>
+                        <br><li style="color: #C89B07;"><span style="color: #494949; text-decoration: none; cursor: text;">to provide you the services that you have requested including processing transactions;</span></li>
+                        <br><li style="color: #C89B07;"><span style="color: #494949; text-decoration: none; cursor: text;">to confirm your identity;</span></li>
+                        <br><li style="color: #C89B07;"><span style="color: #494949; text-decoration: none; cursor: text;">to assess your suitability to the products and services we provide;</span></li>
+                        <br><li style="color: #C89B07;"><span style="color: #494949; text-decoration: none; cursor: text;">to maintain your personal profile;</span></li>
+                        <br><li style="color: #C89B07;"><span style="color: #494949; text-decoration: none; cursor: text;">to manage your account;</span></li>
+                        <br><li style="color: #C89B07;"><span style="color: #494949; text-decoration: none; cursor: text;">to contact you when necessary or appropriate in relation to the services being provided to you, including via a third party mailing platform;</span></li>
+                        <br><li style="color: #C89B07;"><span style="color: #494949; text-decoration: none; cursor: text;">to keep you updated while you are a client in relation to matters such as contracts you have traded and activities of FXORO;</span></li>
+                        <br><li style="color: #C89B07;"><span style="color: #494949; text-decoration: none; cursor: text;">to manage and administer the products and services provided to you;</span></li>
+                        <br><li style="color: #C89B07;"><span style="color: #494949; text-decoration: none; cursor: text;">for marketing purposes, including, but not limited to providing you with information regarding the products and services offered by FXORO and its Partners;</span></li>
+                        <br><li style="color: #C89B07;"><span style="color: #494949; text-decoration: none; cursor: text;">to develop an understanding of the products and services that you may be interested in obtaining from FXORO and to tailor the website to your needs and interests;</span></li>
+						<br><li style="color: #C89B07;"><span style="color: #494949; text-decoration: none; cursor: text;">to create impersonalized statistical data;</span></li>
+						<br><li style="color: #C89B07;"><span style="color: #494949; text-decoration: none; cursor: text;">to conduct surveys and questionnaires;</span></li>
+						<br><li style="color: #C89B07;"><span style="color: #494949; text-decoration: none; cursor: text;">to enforce the governing terms and conditions;</span></li>
+						<br><li style="color: #C89B07;"><span style="color: #494949; text-decoration: none; cursor: text;">if FXORO believes that you have breached the governing terms and conditions, or abused your rights to use the services, or performed any act or omission that FXORO believes to be violating any applicable law, rules, or regulations, then FXORO may share your information with law enforcement agencies and other competent authorities as well as with other third parties, as may be required;</span></li>
+						<br><li style="color: #C89B07;"><span style="color: #494949; text-decoration: none; cursor: text;">if FXORO is required, or believes that it is required by law to share or disclose your information to financial authorities or to any other third party;</span></li>
+						<br><li style="color: #C89B07;"><span style="color: #494949; text-decoration: none; cursor: text;">In any case of dispute, or legal proceeding of any kind between you and FXORO, or between you and other clients or third parties with respect to, or in relation with the services FXORO provides;</span></li>
+						<br><li style="color: #C89B07;"><span style="color: #494949; text-decoration: none; cursor: text;">In any case where FXORO believes that sharing information is necessary to prevent imminent physical harm or damage to property;</span></li>
+						<br><li style="color: #C89B07;"><span style="color: #494949; text-decoration: none; cursor: text;">If FXORO organizes the operation of its services within a different framework, or through another legal structure or entity, or if FXORO is acquired by, or merged with another entity, provided however, that those entities agree to be bound by the provisions of this policy, with respective changes taken into consideration;</span></li>
+						<br>
                     </ul>
-                       <br><br>
-                       <span class="mh45">By registering with FXORO, the Clients will also be given the opportunity to accept or reject a subscription to the following services, for the purpose of Marketing:</span>
-                    <ul> 
-                        <br><li style="color: #C89B07;"><span style="color: #494949; text-decoration: none; cursor: text;">the provision to the Client of information on the products and services offered by FXORO;</span></li>
-                        <br><li style="color: #C89B07;"><span style="color: #494949; text-decoration: none; cursor: text;">the provision to the Client of information regarding opportunities that FXORO believes may be relevant to the Client. </span></li>
-                    </ul>
-<br><br>
+
 <span class="mh45">
-FXORO does not sell or otherwise transmit its Clients’ personal information to third parties for marketing purposes.
+
+<b>Choice and opt-out </b>
 <br><br>
-<b>Unsubscribing</b>
-<br><br>
-At all times, the Clients will be given the option to unsubscribe from any marketing services to which they previously subscribed, by clicking the relevant link at the bottom of the respective service’s e-mail.
-<br><br>
-<b>Transmission of data in the European Economic Area</b>
-<br><br>
-Customer registration with FXORO means the Clients consent to the disclosure and transfer of their personal information by FXORO within the European Economic Area (“EEA”) to the following institutions and solely for the following purposes:</span>
-                        <ul><li style="color: #C89B07;"><span style="color: #494949; text-decoration: none; cursor: text;">Financial institutions and other similar organisations that, in the course of executing Client orders, liaise with FXORO;</span></li>
-                        <br><li style="color: #C89B07;"><span style="color: #494949; text-decoration: none; cursor: text;">Financial institutions and other similar organisations that, in the course of executing Client orders, are nominated by the Clients; </span></li>
-                        <br><li style="color: #C89B07;"><span style="color: #494949; text-decoration: none; cursor: text;">External service providers and professional advisors that provide services to FXORO in order to enable FXORO to provide the services the Clients request;</span></li>
-                        <br><li style="color: #C89B07;"><span style="color: #494949; text-decoration: none; cursor: text;">At the Clients’ request, any Organization or any persons acting on behalf of the Clients, including but not limited to financial advisors, brokers, solicitors or accountants;</span></li>
-                        <br><li style="color: #C89B07;"><span style="color: #494949; text-decoration: none; cursor: text;">Third parties that may process transactions or provide services requested by the Clients; or</span></li>  
-                        <br><li style="color: #C89B07;"><span style="color: #494949; text-decoration: none; cursor: text;">Any local or international authority that may request any such information from FXORO.</span></li>        
-                        
+In the registration process with FXORO as a client, you will be given the option to opt-out of subscribing to the following additional services:</span>
+                        <ul><li style="color: #C89B07;"><span style="color: #494949; text-decoration: none; cursor: text;">Marketing services, which provides you with information regarding the products and services offered by FXORO or its partners; and opportunities that we believe may be relevant to you;Client orders, liaise with FXORO;</span></li>
+                        <br><li style="color: #C89B07;"><span style="color: #494949; text-decoration: none; cursor: text;">Newsletters;</span></li>
+                        <br><li style="color: #C89B07;"><span style="color: #494949; text-decoration: none; cursor: text;">SMS (text) messages;</span></li>
+                        <br><li style="color: #C89B07;"><span style="color: #494949; text-decoration: none; cursor: text;">Other electronic communications.</span></li>
                         </ul></td></tr></tbody></table>
+
+If you no longer wish to receive the above mentioned communications, you may opt-out of receiving them by following the instructions included in each communication.
 <br><br>
-Information will be disclosed by FXORO to the above institutions only where it is satisfied that ate any particular case separately, the said institutes provide the proper safeguards for data protection.
+<b>Transfer of data to third countries</b>
 <br><br>
-<b>Transmission of data to third parties</b>
+Personal data may be transferred by FXORO to third parties in European Economic Area Member States as well as to non-European Economic Area Member States for the purposes described in this policy. You give your express and unambiguous consent to such transfer.
 <br><br>
-By completing the registration procedure, Clients are deemed to consent to the transmission of their personal data to countries which are not Member States of the EEA. Transmission under these circumstances is only effected where the   transmission of such data is permitted by law and the laws of the third country in question ensure an adequate level of protection with respect to the processing of the personal data transferred.
+<b>Updating your information</b>
 <br><br>
-<b>Client Information Update</b>
-<br><br>
-The Client may, at any time, inform FXORO that their personal details have changed or that the Clients wishes for FXORO to delete their personal information from its files, by sending an e-mail to <a style="color:#C89B07;text-decoration:underline;" href="mailto:cs@fxoro.com"><nobr>cs@fxoro.com</nobr></a>. Where FXORO is not obliged to hold such information due to regulatory or legal obligations, or where the information is necessary for the adequate provision of its services, FXORO will change or delete its Clients’ information upon such request.
+ You may inform FXORO at any time that your personal details have changed or that you wish FXORO to delete personal information we hold about you by emailing us at <a style="color:#C89B07;text-decoration:underline;" href="mailto:cs@fxoro.com"><nobr>cs@fxoro.com</nobr></a>. We will change or delete your personal information in accordance with your instructions, except to the extent that we are required to hold your personal information for regulatory or legal purposes, to provide you with the services you have requested or to maintain adequate business records. In any case, FXORO may keep any aggregated or anonymized information for the purposes described in this Privacy and Security Policy, indefinitely.
 <br><br>
 <b>Cookies</b>
 <br><br>
-Upon registration, Clients must use FXORO’s software for trading purposes. The said software enables FXORO to use cookies in relation to the Clients’ access to its website. (For information purposes, the Client is informed that Cookies are small files of information, which  often  include  a  unique  identification  number  or  value,  which, due to the use of FXORO’s software and accessing FXORO’s websites,  are  stored  on  the Clients’ computer).
+Cookies are small files of information, which often include a unique identification number or value, which are stored on your computer's hard drive as a result of your use of the FXORO trading software and/or access of the FXORO websites.
 <br><br>
-FXORO uses session ID cookies and persistent cookies. Session ID cookie expire upon closing the browser. Persistent cookies remain on the Clients’ hard drive for an extended period of time. These Persistent cookies are used by FXORO for statistical purposes, for tracking and targeting the location and interests of users, and for enhancing the services provided by FXORO. Persistent cookies may be removed as per the instructions in each Internet browser’s “help” file.
+We use both session ID cookies and persistent cookies. A session ID cookie expires when you close your browser. A persistent cookie remains on your hard drive for an extended period of time. 
 <br><br>
-<b>Client’s rights</b>
+We set a persistent cookie for statistical purposes. Persistent cookies also enable us to track and target the location and the interests of our users and to enhance the experience of our services on our site.
 <br><br>
-Clients are under no obligation to provide FXORO with any of their personal data. However, non-provision of the requested information may mean that FXORO will be forced to reject Clients’ applications for opening an account with FXORO, or will not be able to provide a Client with any services, information, assistance, or be in a position to improve the services requested and provided by FXORO. 
+You can remove persistent cookies by following directions provided in your Internet browser's "help" file. If you do not wish to receive cookies altogether, you may be able to change the settings of your browser to refuse all cookies or to have your computer notify you each time a cookie is sent to it, and thereby give yourself the choice whether to accept it or not. However, this may impair the quality of the services that we provide to you in relation to your account. Some persistent cookies, such as Flash cookies, cannot be removed and cannot be blocked by changing your browser's settings.
 <br><br>
-<b>Changes</b>
+<b>Some persistent cookies will not be removed or blocked by your internet browser. If you wish to disable all cookies, please send a request to <a style="color:#C89B07;text-decoration:underline;" href="mailto:cs@fxoro.com"><nobr>cs@fxoro.com</nobr></a>.</b>
 <br><br>
-FXORO reserves the right to make, from time to time, alterations, additions or deletions to its Privacy Policy, for any reason. Clients will be notified of such changes through the FXORO website, where the most updated version of the Privacy Policy will be posted. It is the Clients’ responsibility to stay constantly informed of the Privacy Policy. Where a Client uses the FXORO website after such changes to the Privacy Policy, the Client is deemed to have consented to the said changes.
+<b>Remarketing with Google Analytics</b>
 <br><br>
-<b>Contact</b>
+We may use the information we collect to assist us in delivering relevant ads to you (Remarketing). Remarketing is a way for us to connect with our websites and ads visitors, based upon their past interactions with our website and ads. Third-party marketing vendors may be hired by FXORO to perform such remarketing services. As a result, third-party vendors, including Google, may show FXORO’s ads on internet sites. Such third-party vendors, including Google, may also use their cookies, third party cookies and similar technologies to serve ads based on a visitor’s prior visits to FXORO's website. 
 <br><br>
-For any issues which have not been expressly addressed in this Privacy Policy, the laws of Cyprus apply. Where a Client wishes to contact FXORO for the purpose of submitting a comment, or complaint, or communicate the alleged infringement of their privacy rights, the Client may contact FXORO by e-mail at <a style="color:#C89B07;text-decoration:underline;" href="mailto:cs@fxoro.com"><nobr>cs@fxoro.com</nobr></a> , or directly contact one of our customer service representatives on telephone number +357-25-20-5555  , or fax number +357-25-37-8131.
+You may opt out of Google Analytics for Display Advertisers and opt out of customized Google Display Network ads by visiting <a style="color:#C89B07;text-decoration:underline;" href="http://www.google.com/settings/ads/onweb/?sig=ACi0TCiRDcnrXrdffABE6Nifr9QppTwHkj_NTB8gd0FaMd9YV_wg5YIp3OvYIp-y-pdTWNhIhLjQXh6TyIek2jcL233J8XokduMKuR1N-zHOJP2Ls6zIAM_wKkwTu-xTmML-Aucg-KSrCOB6oLAL11n-sPX9rEefGBMsmC7iVBTJsDKZmWkr3jnzCeVGR-wzwiV8cGO96yfR&amp;hl=en">Google’s Ads Preferences Manager</a>. You are also encouraged to visit <a style="color:#C89B07;text-decoration:underline;" href="http://tools.google.com/dlpage/gaoptout/">Google Analytics Opt-out Browser Add-on</a>.
+<br><br>
+For further information you can also visit <a style="color:#C89B07;text-decoration:underline;" href="http://www.google.com/policies/privacy/">Google’s privacy center</a>.  
+<br><br>
+<b>What are your rights?</b>
+<br><br>
+You do not have to provide us with any of the personal data requested by FXORO. However, without providing the information requested in the application form, FXORO may not be able to open an account for you, or to provide you with any other services, information or assistance you have sought or evaluate the appropriateness of the service you are requesting.
+<br><br>
+<b>Enforcement</b>
+<br><br>
+FXORO is doing its utmost to comply with this Privacy and Security Policy. If you have any questions, concerns or complaints regarding this Privacy and Security Policy and the enforcement thereof, please refer them to: <a style="color:#C89B07;text-decoration:underline;" href="mailto:support@FXORO.com">support@FXORO.com</a>. After receiving your complaint, FXORO may contact you to better understand your concerns and will make all efforts to promptly answer your question, or resolve your complaint to your full satisfaction. 
+<br><br>
+<b>Amendments to policy</b>
+<br><br>
+FXORO may change and update the terms of this Privacy and Security Policy from time to time. All changes will take effect seven (7) days after their initial posting on the Website, unless FXORO amends the Privacy and Security Policy to comply with legal or regulatory requirements. In the latter cases the amendments will become effective as required, or ordered.
+<br><br>
+<b>Governing Law</b>
+<br><br>
+In respect of issues not addressed in the present Privacy and Security Policy, the law of Cyprus will apply.
 <br>
 
 </p>
@@ -1529,10 +1550,10 @@ if (Lang == 'Arabic') qType = 'delArabicBR2';
 
 var qURL = function() {
     if (typeof ratesDomain != 'undefined' ) {
-        return ratesDomain + '/scripts/inc/quotes2JS.aspx';
+		return '//rates.fxoro.com/rates/hosts/quotes2js.php';
     }
     else {
-        return 'http://rates.fxoro.com/scripts/inc/quotes2JS.aspx';
+        return '//rates.fxoro.com/rates/hosts/quotes2js.php';
     }
 }
 var qInt=null;
@@ -1967,17 +1988,21 @@ window.onresize=function(){
                     <td align="center">
                         <img src="/img/gen/seperator_footeer.gif">
                     </td>
+                    
                     <td class="bot_favorites3">
                         <nobr>
-                            <a id="ctl09_hlrisk" class="link_menu1_footer" href="/scripts/pagebase.aspx?folder=cmp&amp;what=riskdoc&amp;ext=htm">Risk Warning</a></nobr>
+                            <a id="ctl09_hlriskpdf" class="link_menu1_footer" href="/scripts/fxnet/pdf/fxoro/English/Risk_warning.pdf">Risk Warning</a></nobr>
                     </td>
+                    
                     <td align="center">
                         <img src="/img/gen/seperator_footeer.gif">
                     </td>
+                    
                     <td class="bot_favorites4">
                         <nobr>
-                            <a id="ctl09_hldisc" class="link_menu1_footer" href="/scripts/pagebase.aspx?folder=cmp&amp;what=disclaimdoc&amp;ext=htm">Terms and Conditions</a></nobr>
+                            <a id="ctl09_hldiscpdf" class="link_menu1_footer" href="/scripts/fxnet/pdf/fxoro/English/Terms_and_Conditions.pdf">Terms and Conditions</a></nobr>
                     </td>
+                    
                     <td align="center">
                         <img src="/img/gen/seperator_footeer.gif">
                     </td>
@@ -2041,7 +2066,7 @@ window.onresize=function(){
 <div class="authorized">
     <span id="ctl09_lblAuthorize">MCA Intelifunds Ltd Authorized and regulated by the Cyprus Securities and Exchange Commission.
                 <br>CYSEC <a style="text-decoration:underline;color:#494949;font-size:9px;" href="/scripts/pagebase.aspx?folder=cmp&amp;what=Licence&amp;ext=htm">License number: 126/10</a>. Address: 1 Chrysanthou Mylona &amp; Griva Digeni Street,Limassol, Cyprus.
-                <br><br>MCA INTELIFUNDS LTD, trading as “FXORO”, (“FXORO”) is a financial services company incorporated and registered under the laws of the Republic of Cyprus. CFDs are intricate leverages financial assets. Trading Forex, Commodity and Index based CFDs or any other underlying instruments implies a high degree of risk and can lead to the loss of your investment. Because of such, CFDs may not be the ideal investment for everyone. The high rate of leverage that is available to CFD traders can work for or against you. You should only invest money that you can afford to lose. Before getting involved with trading, consider your financial goals, your skills and gage the possible risks associated with trading a CFD. Derivative assets like CFDs and likely instruments from other markets can present extreme volatility. CFDs may shift price rapidly and may depict change in market conditions that result from unforeseeable occurrences. None of these facts can be manipulated by either you or  FXORO. It's best to consult with a licensed financial counselor.FXORO does not avail its customers with financial advice. Make sure to read the "Risk Warning" to get a clear picture of the risks inherent with trading CFDs.</span>
+                <br><br>MCA INTELIFUNDS LTD, trading as “FXORO”, (“FXORO”) is a financial services company incorporated and registered under the laws of the Republic of Cyprus. CFDs are intricate leverages financial assets. Trading Forex, Commodity and Index based CFDs, Binary Options or any other underlying instruments (Company’s Products) implies a high degree of risk and can lead to the loss of your investment. Because of such, CFDs and Binary Options may not be the ideal investment for everyone. The high rate of leverage that is available to CFD traders can work for or against you. Trading in Binary options involves in two possible outcomes, one of them may include the loss of the entire investment amount. You should only invest money that you can afford to lose. Before getting involved with trading, consider your financial goals, your skills and gage the possible risks associated with trading Company’s Products. Derivative assets like CFDs Binary Options and likely instruments from other markets can present extreme volatility. CFDs may shift price rapidly and may depict change in market conditions that result from unforeseeable occurrences. None of these facts can be manipulated by either you or FXORO. It's best to consult with a licensed financial counselor. FXORO does not avail its customers with financial advice. Make sure to read the "Risk Warning" to get a clear picture of the risks inherent with trading Company’s Products.</span>
 </div>
 
 <!-- add COMODO at the buttom of the page -->
