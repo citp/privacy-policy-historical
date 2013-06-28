@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ballyfitness.com privacy policy that was archived on 2012-10-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121010141350id_/http%3A//www.ballyfitness.com/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ballyfitness.com privacy policy that was archived on 2013-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130629001404id_/http%3A//ballyfitness.com/Privacy.aspx) for the most accurate reproduction.*
 
 # Bally Fitness | Privacy Policy | Bally Total Fitness
 
@@ -15,6 +15,3 @@ Bally Total Fitness collects the domain name of each visitor to our site. Aggreg
 The information we collect is used to improve the content and layout of our web site. It may be used to customize the content and/or layout of our page for each individual user, to notify consumers about updates to our web site, and used by us to contact consumers for marketing purposes.
 
 If you wish to be removed from our database, proceed below. This is not a registration page, to have Fitness Tips and exciting Bally news e-mailed directly to you, complete our simple [online registration form](https://web.archive.org/EmailRegistration.aspx).
-
-**Bally BFit Club – SMS Messaging Information:**   
-The subscription for the Bally BFit Club is a recurring service; **5 messages per month. Message and data rates may apply**. Text **HELP** to **35253** for info, or contact [support@hipcricket.com](mailto:support@hipcricket.com) or 1-866-HIP-CRIK (866.447.2745). Send **STOP** to **35253** to cancel the service. You must have a two-way text-enabled phone with compatible carrier and plan. Compatible carriers include Alltel Wireless, AT&T, Boost Mobile, Cricket Wireless, MetroPCS, Nextel, Sprint, T-Mobile (R), U.S. Cellular, Verizon Wireless and Virgin Mobile USA. Text messaging is not available in all areas of the United States. 
