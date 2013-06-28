@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the zennioptical.com privacy policy that was archived on 2012-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121211010313id_/http%3A//www.zennioptical.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zennioptical.com privacy policy that was archived on 2013-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130628023429id_/http%3A//www.zennioptical.com/privacy) for the most accurate reproduction.*
 
 # Zenni Optical - Eyeglasses, Privacy Policy Glasses
 
-Date: February 3, 2012
+Date: April 3, 2013
 
 To place an order from this Web site, you must first complete your Login or Register using the registration form and create a user name and password. During registration, and if you want to place an order, you are required to give contact information (such as name and email address), credit information for charges and related data. Your Personally Identifying information differs from your ‘Traffic Data’, in that there is no personal information contained in Traffic Data. We use this information to contact you about the services on our site in which you have expressed interest.
 
@@ -50,4 +50,4 @@ Content provided by our customers include, but are not limited to, customer info
 
 5\. DISPUTE RESOLUTION MECHANISM. If you have a dispute with this Policy or want to make a claim, first please email us at privacy@zennioptical.com or call us at 800-211-2105 and we agree to handle our dispute in arbitration at San Francisco, California. By using this web site you agree to use this mechanism. (See our Terms of Use).
 
-© 2012 Zenni Optical, Inc. 
+© 2013 Zenni Optical, Inc. 
