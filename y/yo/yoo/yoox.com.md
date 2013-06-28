@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the yoox.com privacy policy that was archived on 2012-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121120171330id_/http%3A//www.yoox.com/cms/legal/privacypolicy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yoox.com privacy policy that was archived on 2013-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130628171511id_/http%3A//www.yoox.com/cms/legal/privacypolicy.asp) for the most accurate reproduction.*
 
 # YOOX.COM - Legal area
 
@@ -9,9 +9,9 @@ We also invite you to read the YOOX.COM General Conditions, because they also co
 
  **Data controller**
 
-The data controller of the information collected through this website is Yoox S.p.A., with registered office in Italy at Via Nannetti 1, 40069, Zola Predosa (Bologna), business register number, tax code and VAT number 02050461207, fully paid share capital of EUR 570,544.00 (hereinafter "YOOX"): YOOX independently establishes the purposes and methods of data processing and the implementation of security procedures to guarantee the privacy, integrity and availability of such data.
+The data controller of the information collected through this website is Yoox S.p.A., with registered office in Italy at Via Nannetti 1, 40069, Zola Predosa (Bologna), business register number, tax code and VAT number 02050461207, fully paid share capital of EUR 574,451.80  (hereinafter "YOOX"): YOOX independently establishes the purposes and methods of data processing and the implementation of security procedures to guarantee the privacy, integrity and availability of such data. 
 
- **Optional or compulsory communication of personal data**
+**Optional or compulsory communication of personal data**
 
 Communicating your personal data to YOOX when requested in any of the many instances where personal data is collected through the site may be essential in order to achieve the purposes set down by the communication itself, or not prejudicial in this regard.  
 The compulsory or optional nature of the data provision is specified each time – with reference to the specific data requested – at the point of input for each data collection, by marking compulsory information with an asterisk (*).  
@@ -23,8 +23,8 @@ Communicating additional data to YOOX, other than those marked as compulsory (su
 Currently some of the data supervisors charged with processing your personal data are the following: 
 
   * [United Parcel Service](http://www.ups.com/), that processes the data required to organise and carry out shipment, delivery and return of products purchased on our web site; 
-  * BT Italia S.p.A. that processes the data required to manage and maintain the YOOX servers; 
-  * InterConnexia LDA, that processes the data needed to provide call centre and customer care services to our users.
+  * BT Italia S.p.A., that processes the data required to manage and maintain the YOOX servers; 
+  * InterConnexia LDA, that processes the data needed to provide call centre and customer care services to our users. 
 
 
 
@@ -106,13 +106,6 @@ YOOX reserves the right to eliminate MYOOX accounts and all related data if illi
 YOOX has chosen to call on other companies for processing your personal data, for certain specific activities. The companies that conduct such operations have been carefully selected and are experienced, capable and trustworthy, and offer sufficient guarantees that they abide by the applicable laws and regulations that regulate data processing, including the security profile of such data.  
 These companies have therefore been appointed data supervisors, and they conduct their activities according to the instructions and under the control of YOOX. We verify on a regular basis that they have fulfilled the duties assigned to them and that they continue to offer sufficient guarantees of compliance with the provisions that govern the protection of personal data.  
 Your personal data is also processed by our employees assigned to specific services; the categories of employees involved in these activities depend on the purposes for which the data was communicated and are always specified in the notice displayed when you communicate your personal data.
-
- **Cookies**
-
-Our site uses automatic systems to collect data that is not directly communicated by the user, such as cookies. A cookie is an application transmitted to the user’s hard disk; it does not contain any comprehensible information but associates the user with the personal information registered on the web site. Cookies are stored on our server and no one has access to the information they contain. Only YOOX processes the information collected through cookies, only in anonymous and aggregate status, in order to optimize our services and our site in relation to the specific requirements and preferences of our users.  
-We have set up cookies, for example, connected to catalogue browsing, online purchasing of MYOOX products and services.  
-Internet browsers have a function that makes it possible to cancel cookies after each session. The browser provides instructions on the cancellation procedure. Familiarise yourself with it.   
-Acceptance of automatic data collection and use of cookies are both necessary to make use of the site and its services, including online sales. If you have activated cookie cancellation, YOOX cannot guarantee that you will have access to full visualization of certain web pages, or be entitled to obtain certain services, such as for example the memorisation and visualisation, on given web pages, of the products you have selected during the process of online buying.
 
  **Security measures**
 
