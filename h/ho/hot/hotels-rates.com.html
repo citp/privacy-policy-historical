@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the hotels-rates.com privacy policy that was archived on 2012-10-16.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121016212631id_/http%3A//www.hotels-rates.com/aspx-975/privacy.aspx) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the hotels-rates.com privacy policy that was archived on 2013-06-29.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130629003802id_/http%3A//www.hotels-rates.com/aspx-975/privacy.aspx) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xmlns:og="http://ogp.me/ns#" xmlns:fb="http://www.facebook.com/2008/fbml"><head>
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
@@ -8,9 +8,9 @@
     <title>Privacy Policy - Hotels-Rates.com</title>
     <link rel="canonical" href="http://www.hotels-rates.com/privacy.asp">
     <link rel="stylesheet" type="text/css" href="/styles/s-975.css">
-    <script type="text/javascript" src="/jquery-1.4.4.min.js">
+    <script type="text/javascript" async="" src="https://logs.hotels-rates.com/logging?page_id=4&amp;cfs=6&amp;pfs=29&amp;server=84&amp;load_time=23&amp;is_new=false&amp;url=https%3A%2F%2Fweb.archive.org%2Fweb%2F20130629003802id_%2Fhttp%253A%2F%2Fwww.hotels-rates.com%2Faspx-975%2Fprivacy.aspx&amp;screen_width=800&amp;screen_height=600&amp;screen_available_width=800&amp;screen_available_height=600&amp;screen_color_depth=24"></script><script type="text/javascript" src="/jquery-1.4.4.min.js">
     </script>
-    <script type="text/javascript">var _ihsLq=_ihsLq||[];var _ihsLp=_ihsLp||{page_id:4,cfs:6,pfs:29,server:'83',load_time:(new Date().getTime())};var _ihsLs=_ihsLs||{host:('https:'==document.location.protocol?'https://logs':'http://logs')+'.hotels-rates.com',inclusive:true,cls:'hr_track'};</script>
+    <script type="text/javascript">var _ihsLq=_ihsLq||[];var _ihsLp=_ihsLp||{page_id:4,cfs:6,pfs:29,server:'84',load_time:(new Date().getTime())};var _ihsLs=_ihsLs||{host:('https:'==document.location.protocol?'https://logs':'http://logs')+'.hotels-rates.com',inclusive:true,cls:'hr_track'};</script>
     <script type="text/javascript">var _gaq = _gaq || [];_gaq.push(['_setAccount', 'UA-8901652-1']);_gaq.push(['_setDomainName', '.hotels-rates.com']);</script>
   </head>
   <body>
@@ -314,7 +314,7 @@
           <br>
         </div>
         <div id="copyright" xmlns="">
-			Copyright 1999-2011 Hotels-Rates.com All Rights Reserved. See <a class="7white" href="http://www.hotels-rates.com/aspx-975/legal.aspx">Legal Information</a> 
+			Copyright 1999-2013 Hotels-Rates.com All Rights Reserved. See <a class="7white" href="http://www.hotels-rates.com/aspx-975/legal.aspx">Legal Information</a> 
 			and <a class="7white" href="http://www.hotels-rates.com/aspx-975/privacy.aspx">Privacy Policy</a><pre class="loadimage"><!--<img alt="" width="975" height="11" src="/images/bottomBorder.gif">--></pre></div>
       </div>
       <div id="top">
@@ -364,14 +364,14 @@
       </div>
     </div>
     <div id="js-root">
-    <script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" async="" src="https://logs.hotels-rates.com/js/logging.js"></script><script type="text/javascript" async="" src="/cc.js"></script></div>
+    <script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" async="" src="/cc.js"></script></div>
     <script type="text/javascript">
 					// Add a script element as a child of the body
 					function downloadJSAtOnload() {
 					var ga=document.createElement('script');ga.type='text/javascript';ga.async=true;ga.src=('https:'==document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
 					document.getElementById('js-root').appendChild(ga);
-					var lg=document.createElement('script');lg.type='text/javascript';lg.async=true;lg.src=_ihsLs['host']+'/js/logging.js';
-					document.getElementById('js-root').appendChild(lg);
+					//var lg=document.createElement('script');lg.type='text/javascript';lg.async=true;lg.src=_ihsLs['host']+'/js/logging.js';
+					//document.getElementById('js-root').appendChild(lg);
 					var cc=document.createElement('script');cc.type='text/javascript';cc.async=true;cc.src='/cc.js';
 					document.getElementById('js-root').appendChild(cc);
 					}
@@ -384,6 +384,16 @@
 					window.onload = downloadJSAtOnload;
 				</script>
     <script type="text/javascript" xmlns="">
+function getQueryParameter( name ) {
+    name = name.replace(/[\[]/,"\\\[").replace(/[\]]/,"\\\]");
+    var regexS = "[\\?&]"+name+"=([^&#]*)";
+    var regex = new RegExp( regexS );
+    var results = regex.exec( window.location.href );
+    if( results == null )
+        return "";
+    else
+        return results[1];
+}
 function getCookie(name) {
 	if(document.cookie) {
 		name+='=';
@@ -408,29 +418,61 @@ function createCookie(name,value,expires) {
 	}
 	document.cookie=name+'='+value+'; expires='+expires+'; path=/; domain='+d+';';
 }
-var ccVer = '.010';
+var ccVer = '.011';
+var web_id_new = getCookie('web_id_new')
+if (web_id_new != null && web_id_new == 'true') {
+	_ihsLp['is_new'] = true;
+	createCookie('web_id_new','false',365);
+}
+else
+	_ihsLp['is_new'] = false;
 //paid
+var pn = getCookie('pn');
+if (pn==null) {
+	pn = getQueryParameter('pn');
+	if (pn==null)
+		createCookie('pn',pn);
+}
 var hr = getCookie('hr');
+if (hr==null) 
+	hr = getQueryParameter('hr');
 try {
-if (hr=='bing') {
-	if (getCookie('affiliateid') == null)
-		createCookie('affiliateid','7275');
-	_ihsLp['pfs'] = '7275';
+if (hr=='bing' || hr=='google') {
+	if (hr=='bing'){
+		if (getCookie('affiliateid') != '7275')
+			createCookie('affiliateid','7275');
+		_ihsLp['pfs'] = '7275';
+	} else if (hr=='google') {
+		if (getCookie('affiliateid') != '7324')
+			createCookie('affiliateid','7324');
+		_ihsLp['pfs'] = '7324';
+	}
 	_ihsLp['is_paid']=true;
 	if (getCookie('cc_phone_number') == null) {
-	if (_ihsLp['city_name'] != null && _ihsLp['city_state_province_abbreviation'] != null)
+		if (_ihsLp['city_name'] != null && _ihsLp['city_state_province_abbreviation'] != null)
 			_ihsLp['seed'] = _ihsLp['city_name'] + ' ' + _ihsLp['city_state_province_abbreviation'];
 		if (_ihsLp['city_id'] != null && _ihsLp['city_id'] != '')
 			_ihsLp['seed'] = _ihsLp['city_id'];
 	}
 }
-if (getCookie('entrypageid') == null && _ihsLp != null && _ihsLp['page_id'] != null)
+else {
+	var affiliateid = getCookie('affiliateid');
+	if (affiliateid != null)
+		_ihsLp['pfs'] = affiliateid;
+}
+var entrypageid = getCookie('entrypageid');
+if ( entrypageid == null && _ihsLp != null && _ihsLp['page_id'] != null) {
 	createCookie('entrypageid',_ihsLp['page_id']);
+	entrypageid = _ihsLp['page_id'];
+}
 //look for hash set affiliateid
 if (window.location.hash.length > 0 && window.location.hash.indexOf('vip') >= 0) {
 	var affiliateid = getCookie('affiliateid');
-	if (affiliateid!='7021')
+	if (affiliateid != '7021')
         createCookie('affiliateid','7021');
+	_ihsLp['pfs'] = affiliateid;
+	if (getCookie('pn')!='877-595-9070')
+        createCookie('pn','877-595-9070');
 }
 var gaCV5 = getCookie('gacv5');
 var pageid = _ihsLp['page_id'];
@@ -480,6 +522,73 @@ try {
     _gaq.push(['_trackEvent', 'JS', 'Error-js-body.xsl-2', err.message]);
 }
 _gaq.push(['_trackPageview']);
+
+
+
+
+</script>
+    <script type="text/javascript" xmlns="">
+function _ihsQ(n) {
+	var s = [];
+	for(key in n) {
+		s[s.length] = encodeURIComponent(key) + "=" + encodeURIComponent(n[key]);
+	}
+	return s.join("&").replace(/%20/g, "+");
+}
+function _ihsG(n) {
+	if(document.cookie) {
+		n+="=";
+		var cs=document.cookie.split(';');
+		for(var i=0;i<cs.length;i++) {
+			var c=cs[i].replace(/^\s+|\s+$/g,"");
+			if(c.indexOf(n)==0) {
+				return c.substring(n.length,c.length);
+			}
+		}
+	}
+	return null;
+}
+_ihsLp['load_time'] = new Date().getTime() - _ihsLp['load_time'];
+if(!_ihsLp['web_id'] && _ihsG('web_id') != null) {
+	_ihsLp['web_id'] = _ihsG('web_id');	
+}
+if(!_ihsLp['request_id'] && _ihsG('request_id') != null) {
+	_ihsLp['request_id'] = _ihsG('request_id');
+}
+if(_ihsG('r') != null) {
+	_ihsLp['referrer'] = _ihsG('r');
+} else if(document.referrer) {
+	_ihsLp['referrer'] = document.referrer;
+}
+if(_ihsLp['web_id'] && _ihsG('web_pfs') != null) {
+	var currentPfs = _ihsG('web_pfs');
+	if(_ihsLp['pfs'] != currentPfs) {
+		_ihsLp['previous_web_id'] = _ihsLp['web_id'];
+		delete _ihsLp['web_id'];
+	}
+}
+_ihsLp['url'] = location.href;
+if(!_ihsLp['web_id'] && _ihsG('q') != null) {
+	if(_ihsLp['url'].indexOf('?') < 0) {
+		_ihsLp['url'] = _ihsLp['url'] + '?' + _ihsG('q');
+	} else {
+		_ihsLp['url'] = _ihsLp['url'] + _ihsG('q');
+	}
+}
+	
+if(screen && screen.width != null) {
+	_ihsLp['screen_width'] = screen.width;
+	_ihsLp['screen_height'] = screen.height;
+	_ihsLp['screen_available_width'] = screen.availWidth;
+	_ihsLp['screen_available_height'] = screen.availHeight;
+	_ihsLp['screen_color_depth'] = screen.colorDepth;
+}
+var x=document.createElement('script');
+x.type='text/javascript';
+x.async=true;
+x.src=_ihsLs['host']+'/logging?' + _ihsQ(_ihsLp);
+var s=document.getElementsByTagName('script')[0];
+s.parentNode.insertBefore(x,s);
 </script>
   
 
