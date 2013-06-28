@@ -1,63 +1,109 @@
-> *The following text is extracted and transformed from the angrybirds.com privacy policy that was archived on 2011-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111228113039id_/http%3A//shop.angrybirds.com/pages/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the angrybirds.com privacy policy that was archived on 2013-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130628221821id_/http%3A//www.rovio.com/Privacy) for the most accurate reproduction.*
 
-# Angry Birds — Privacy Policy
+# Privacy Policy - Rovio Entertainment Ltd
 
-Rovio Privacy Policy
+[en français](http://www.rovio.com/Privacy-french)   
+[på svenska](http://www.rovio.com/Privacy-swedish)  
+[suomeksi](http://www.rovio.com/Privacy-finnish)
 
-Section 10, Finnish Personal Data Act (523/1999)  
-Angry Birds is developed and published by a Finnish company Rovio Mobile Ltd (“Rovio”). Rovio respects your (“You”) privacy. We kindly ask You to carefully read this description of data file (“Privacy Policy”) before visiting the shop.angrybirds.com website.
+Last updated:   April 2013
 
-This Privacy Policy defines how the information You provide to Rovio through the website, via Rovio customer support or by means of Your other interactions with Rovio is processed (hereinafter collectively referred to as the “Service”). The Service is made available by Rovio Mobile Ltd, Finnish Business Identity Code 1863026-2.
+**Rovio Entertainment Ltd Privacy Policy**
 
-By using the Service You accept the terms and conditions of this Privacy Policy and give Rovio Your explicit and informed consent to the processing of Your personal data in accordance with this Privacy Policy as well as the disclosures of such data in accordance with Section 7 (Disclosures of Personal Data) of this Privacy Policy. If You do not accept the processing of personal data in accordance with this Privacy Policy, You should not use the Service.
+Rovio Entertainment Ltd, including its affiliates (“ **Rovio** ”) collects, stores, and uses your personal information as a data controller in connection with Rovio’s products, services and websites (together “ **Services** ”) according to this privacy policy (“ **Privacy Policy** ”).
 
-If You are under 18 years of age or a minor in your country of residence, please ask Your legal guardian to complete your registration to the Service for you. If You are under 10 years of age You are not entitled to use the Service.
+For questions and information about Privacy Policy, please contact us at privacy[a]rovio.com or alternatively at Rovio Entertainment Ltd, Legal Department, Keilaranta 17 C, 02150 Espoo, Finland.
 
-Rovio reserves the right to reasonably amend this file description so please review it frequently. Rovio will notify You of substantial amendments via the Service. Your continued use of the Service after such notice shall be deemed as Your acceptance of the amendments.
+**All Rovio Services are governed by this Privacy Policy and by using or accessing a Service You give consent to the processing, use and disclosure of your data. Please do not install or use the Services if you do not agree to this Privacy Policy.**
 
-1    Data Controller   
-Rovio Mobile Ltd  
-Address: Keilaranta 17, FI-02150 Espoo, Finland 
+Rovio reserves the right to modify this Privacy Policy. Your continued use of Services will signify your acceptance of the changes to this Privacy Policy.
 
-2    Person in Charge for Matters pertaining to this Privacy Policy  
-Niklas Kari  
-E-mail: shop@rovio.com
+**1.  Your data**
 
-3    Name of the Personal Data File   
-The name of the personal data file is the “Angry birds online shop customer data file” (“Data File”).
+Likely situations when you make personal data available to Rovio include, but are not limited to: (i) registration for Services, contests and special events; (ii) accessing Services using a third party ID, such as social networking sites or gaming services; (iii) subscribing to newsletters; (iv) purchasing a product or services through Rovio’s online stores; (v) using “tell a friend,” "email this page," or other similar features; (vi) requesting technical support; and (vii) otherwise through use of Rovio Services where personal data is required for use and/or participation.
 
-4    Purpose of the Processing of Personal Data  
-The purpose of the processing of personal data is to manage and maintain the customer relationships between Rovio and its customers. The personal data is used to identify users of the Service and for the activation, execution, management and invoicing of the Service as well as for the providing of information and notifications to the customers. Further, Your personal data may be used for the purposes of direct marketing, provided that You have consented to this, as well as for investigation and follow up in cases of misuse.
+Rovio may use Flurry analytics tool in order to develop and analyze use of the Services. If you wish to opt-out from Flurry analytics, please follow this link: [http://www.flurry.com/resources/privacy.html](http://www.flurry.com/resources/privacy.html?KeepThis=true&amp;TB_iframe=true&amp;height=600&amp;width=800).
 
-Personal data may also be used for the planning and development of Rovio’s business and services and to measure the amount of customers using the Service. In addition, Rovio may use and disclose personal data contained in the data file for justifiable purposes (such as direct marketing, distance selling, other direct advertising, opinion polls or marketing research) in accordance with the Finnish Personal Data Act, the Finnish Act on the Protection of Privacy in Electronic Communications (516/2004) and other applicable legislation.
+Rovio may supplement your data with data received from third parties in connection with demographic, advertisement, market and other analytics surveys or services.
 
-5    Information Rovio collects from You  
-Rovio collects the following information from You: Your contact information such as e-mail address, delivery address and other contact information that You may have provided to Rovio. Further, Rovio collects certain personal information regarding Your order, such as payment information, ordered Products, shipment method and Product order number. Rovio may also collect other personal information that You have submitted to Rovio in connection with the use of the Service.
+**2\. Ad Serving Technology**
 
-Rovio may use third party tools or service providers in order to track Your visits to the Service and Your actions and movements within the Service (such as time, location within the Service and IP address) as well as movements to the Service from another website and movements from the Service to another website as well as computer-specific ID (the ID of the computers on which You have logged in to the Service) and information regarding Your browser type and Your operating system (“Traffic Data”).
+Rovio reserves the right to use and disclose the collected non-personal data for purposes of advertisement by Rovio or Rovio’s partners and contractors.
 
-6    Regular Sources of Information   
-The personal data in the Data File is acquired from You when You use the Service. Further, personal data may be acquired from You when You contact Rovio via e-mail or by another equivalent means of communication with regard to the Service.
+Rovio may employ third party ad serving technologies that use certain methods to collect information as a result of ad serving through Services.
 
-Rovio may use cookies for the purposes of acquiring Your information. Cookies are small pieces of information stored on Your computer by means of the web browser You use. No personal data is stored on the cookies themselves.
+Rovio or third parties operating the ad serving technology may use demographic and location information as well as information logged from your hardware or device to ensure that appropriate advertising is presented within the Service. Rovio or third parties may collect and use data for this purpose including, but not limited to IP address (including but not limited to for purposes of determining your coarse location), Device ID, MAC, software, applications, hardware, browser information, internet and on-line usage information and in-game information.
 
-7    Disclosures of Personal Data  
-Rovio does not disclose personal data contained in the Data File to third parties on a regular basis. Personal data may, however, occasionally be disclosed in accordance with the laws of Finland. Further, personal data may be disclosed for research and marketing purposes (including direct marketing) provided that You have consented to this.
+The foregoing data may be used and disclosed in accordance with this Privacy Policy and the privacy policy of the company providing the ad serving technology.
 
-Rovio may transfer Your personal data to its affiliates outside the EU/EEA. Further, Rovio may disclose Your data to companies that Rovio plans to merge with or be acquired by, such disclosures however being subject to the requirement that the company in question follows this Privacy Policy with respect to your personal data.
+Rovio may display to you behaviorally targeted advertising. If you wish to "opt out" of certain targeted advertising, please visit [http://www.youradchoices.com](http://www.youradchoices.com/) and/or [www.networkadvertising.org](http://www.networkadvertising.org/). Please note that the links above may not reach all Rovio’s advertising partners and certain behaviorally targeted advertising may still be displayed to you. If you want to be certain that no behaviorally targeted advertisements are not displayed to you, please do not use or access the Services.
 
-Rovio is entitled to use subcontractors in connection with the provision and development of the Service in order to better provide the Service to You. In this context personal data may be transferred to subcontractors to the extent that this is necessary for the fulfillment of the services, including but not limited to the storage of data on a server maintained by a third party on assignment by Rovio or for the purposes of analyzing Traffic Data in order for Rovio to better understand how the users of the Service interact with it (“Subcontracting”). This may involve the transfer of data to countries outside the EU/EEA which may not have similar laws governing the privacy and protection of personal data as those of the Member States of the EU/EEA. Such data transfers will however only be made if they are necessary for and proportionate to the performance or conclusion of an agreement in Your interest between Rovio and a third party or the performance of an agreement between Rovio and You.
+Additionally please note that if you “opt out” it does not mean that you will no longer receive advertising. It just means that the advertising you see displayed will not be customized to you and your interests and may be less relevant to you.
 
-8    Correctness of  Data and Data Retention  
-Rovio does not verify the correctness of the personal data. The data relating to the use of the Service is removed when their storage is no longer necessary.
+**3\. Location Data**
 
-9    Protection of Personal Data File  
-Only those persons with a need to process Your data in connection with the fulfillment of their tasks in accordance with the purposes of this Privacy Policy and for the purposes of performing technical maintenance, have access to the Data File. All data contained in the Data File are protected in accordance with general industry practice.
+To the extent Rovio makes location enabled Services available and you use such Services, Rovio may collect and process your location data to provide location related Services and advertisements. For example, some add-ons or offers may be available at dedicated locations.
 
-10    Links to Third Party Websites  
-The Service may contain links to third party websites, such as Twitter and Facebook. The linked websites are not under the control of Rovio and Rovio is not responsible for any content on such third party websites or the links that they may contain. Should You visit a linked website, Rovio recommends You to review the privacy policy and other applicable terms and conditions of the third party website in question.
+Rovio may use various technologies to determine location, such as GPS, Wi-Fi or other network-based data such as IP address.
 
-11    Further information  
-Should You have any questions relating to this personal data file description, please contact us at shop@rovio.com.
+Your GPS geo-location is not accessed without your consent. Notwithstanding Rovio’s partners who are providing location related parts of the Service, Rovio will not share your GPS geo-location with third parties without your consent. To the extent Rovio makes available GPS geo-location to third parties in accordance with this Privacy Policy, it will be provided anonymously.
 
-You can also find additional information on the use of the Service in our Terms of Service (https://checkout.shopify.com/orders/581212/0e42e49ae4746e52d554cb0ff873dc7c/policies?policy_id=170512).
+**4.  Friends **
+
+If you choose to use Rovio’s "tell a friend" or a similar service about Rovio Services or order a gift certificate for your friend, Rovio may store your friend's name and contact details that you provide to Rovio.
+
+Please note that certain features of the Services may be able to connect to your social networking sites to obtain additional information about you. In such cases, Rovio may be able to collect certain information from your social networking profile when your social networking site permits it, and when you consent to allow your social networking site to make that information available to Rovio. This information may include, but is not limited to, your name, profile picture, gender, user ID, email address, your country, your language, your time zone, the organizations and links on your profile page, the names and profile pictures of your social networking site “friends” and other information you have included in your social networking site profile. Rovio may associate and/or combine as well as use information collected by Rovio and/or obtained through such social networking sites.
+
+**5\. Disclosure and Transfer of Personal Data**
+
+Personal data may be disclosed to third parties in accordance with applicable legislation and this Privacy Policy.
+
+Rovio may use third parties to collect and process personal data on Rovio’s behalf and in according to Rovio’s instructions. Rovio is not liable for the acts and omissions of these third parties, except as provided by mandatory law.
+
+Rovio may also disclose your personal data to third parties when Rovio has a reason to believe that a disclosure is necessary to address potential or actual injury or interference with Rovio’s rights, property, operations, users or others who may be harmed or may suffer loss or damage, or Rovio believes that such disclosure is necessary to protect Rovio’s rights, combat fraud and/or comply with a judicial proceeding, court order, or legal process served on Rovio. To the extent permitted by applicable law, Rovio will make reasonable efforts to notify you of such disclosure through Rovio’s website or in another reasonable manner.
+
+**6\. Data Retention and Correctness**
+
+Rovio retains the collected data for the period necessary to fulfill the purposes outlined in this Privacy Policy unless a longer retention period is required or permitted by law. Thereafter Rovio deletes all aforementioned data in its possession within a reasonable timeframe. Rovio does not verify the correctness of personal data.
+
+Please note that some data may be further retained if necessary to resolve disputes, enforce Rovio user agreements, and comply with technical and legal requirements and constraints related to the security, integrity and operation of Services. ****
+
+**7\. Cookies, beacons and tracking**
+
+The Services may use “cookies” and other technologies such as pixel tags, locally shared objects, clear GIFs and web beacons. Rovio treats information collected by cookies and similar technologies as non-personal data.
+
+Cookies: A “cookie” is a small bit of record-keeping information that websites often store on a user's computer. Rovio’s cookies do not include personal data and are typically used to quickly identify your device and to “remember” you. You can disable cookies or set your browser to alert you when cookies are being sent to your device; however, disabling cookies may affect your ability to use the Services.
+
+Flash cookies & HTML5: Rovio may also use Flash cookies (locally shared objects) and HTML5 storage (locally stored objects). Locally shared objects are small files similar to browser cookies and are used to remember your settings to personalize the look and feel of the Services. Locally shared objects only collect data in the aggregate. You may prevent locally shared objects from being placed by disabling locally stored objects in your browser or visit www.adobe.com. Locally stored objects, such as HTML5 Web Storage, are used for similar purposes as cookies but typically may contain a greater amount and different types of data than browser cookies.
+
+Web Beacons and pixel tags: A “web beacon” or a “pixel tag” is an electronic image that allows Rovio to count users who have visited certain pages or viewed certain advertisements. Web beacons, like cookies, do not include personal data. E-mails and other electronic communications Rovio sends to you may contain pixel tags that enable Rovio to track your usage of the communication, including whether the communication was opened and/or what links were followed, if any.
+
+**8\. Third Party Terms and Conditions   **
+
+Please note that your access to and use of the Services may be subject to certain third party and Rovio is not liable for any such third party terms and conditions and their use of your personal data.
+
+Certain Services that Rovio may offer, such as multiplayer gaming, social networking and gaming console services, may use third party services to provide authentication for the Services with a gaming console ID, social networking ID or gaming network account. In connection with such use, certain personally identifiable user and/or membership data may be transferred automatically to and from Rovio. ****
+
+Rovio may disclose your personal data to third parties in connection with a corporate merger, consolidation, restructuring, the sale of substantially all of Rovio’s stock and/or assets or other corporate change, including, without limitation, during the course of any due diligence process provided, however, that this Privacy Policy shall continue to govern such personal data.
+
+**9\. Safeguards**
+
+Rovio follows generally accepted industry standards and maintains reasonable safeguards to attempt to ensure the security, integrity and privacy of the information in Rovio’s possession.
+
+**10\. Other**
+
+You may choose to disclose data about yourself in the course of contributing user generated content to the Services.
+
+Any data that you disclose in any of these forums, blogs, chats or the like will become **public information** , and there is no expectation of privacy or confidentiality.
+
+Rovio does not knowingly collect any personal information from children under 13 years of age and if Rovio learns that Rovio has inadvertently gathered personal data from children under 13 years of age, Rovio will take reasonable measures to promptly erase such personal data from Rovio’s records.
+
+Rovio may store and/or transfer your personal data to its affiliates and partners in and outside of EU/EEA member states and the United States in accordance with mandatory legislation and this Privacy Policy.
+
+**11\. Further information**
+
+This Privacy Policy is governed by Finnish law excluding its choice of law provisions.
+
+Rovio makes good faith efforts to enable you to review, update or correct your personal data in Rovio’s possession.
+
+Rovio will need sufficient information from you to establish your identity and to verify your access request, and also to assist us in handling your request.
