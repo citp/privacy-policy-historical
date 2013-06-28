@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the rubiconproject.com privacy policy that was archived on 2012-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121130071008id_/http%3A//www.rubiconproject.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rubiconproject.com privacy policy that was archived on 2013-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130628184600id_/http%3A//www.rubiconproject.com/privacy) for the most accurate reproduction.*
 
-# Rubicon Project Privacy Dashboard - The Rubicon Project
+# Rubicon Project Privacy Dashboard - Rubicon Project
 
 Last Updated: February 1, 2012
 
@@ -41,8 +41,8 @@ For more information, or if you have questions, please contact the Rubicon Proje
 
 Rubicon Project  
 Attn: Privacy Officer  
-1925 S. Bundy Drive  
-Los Angeles, CA 90025
+12181 Bluff Creek Drive, 4th Floor  
+Playa Vista, CA 90094
 
 Phone: 310.207.0272
 
