@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the cloudmade.com privacy policy that was archived on 2012-09-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120915063842id_/http%3A//cloudmade.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cloudmade.com privacy policy that was archived on 2013-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130628073226id_/http%3A//cloudmade.com/privacy-policy) for the most accurate reproduction.*
 
-# CloudMade Privacy Policy
+# CloudMade Privacy Policy | CloudMade - The Location Platform Serving OEMs, Enterprises & Developers
 
 CloudMade ( **"CloudMade"** ) values the privacy of our users, members, and others who visit and use cloudmade.com and its associated products and services (the **"CloudMade Service"** ) (collectively or individually **"Users"** ). This statement governs information you provide to us or that we learn from your use of the CloudMade Service and tells you how we may collect, use, and in some instances share this information.
 
@@ -10,7 +10,7 @@ CloudMade ( **"CloudMade"** ) values the privacy of our users, members, and othe
 
 **"Cookies" Information** : When you visit the CloudMade Service, we may send one or more cookies – a small text file containing a string of alphanumeric characters – to your computer. CloudMade uses both session cookies and persistent cookies. A persistent cookie remains after you close your browser and may be used by your browser on subsequent visits to the CloudMade Service. By using these cookies, we can "remember" what you have done on the CloudMade Service before and personalize our site for you. These persistent types of cookies can be removed, but each web browser is a little different, so please look through your browser "Help" file to learn the correct way to modify your cookies set-up. Please note that disabling cookies may prevent you from accessing some of the functionality and site offerings available via the CloudMade Service.
 
-**"Automatically Collected" Information** : When you visit the CloudMade Service or open one of our HTML emails, we may record certain information from your web browser by using different types of technology, including "clear gifs" or "web beacons". This "automatically collected" information may include your Internet Protocol address ( **"IP Address"** ), web browser type, the web pages or sites that you visit just before or just after the CloudMade Service, the pages you view on our site, and the dates and times that you visit.
+**"Automatically Collected" Information** : When you visit the CloudMade Service or open one of our HTML emails, we may record certain information from your web browser by using different types of technology, including "clear gifs" or "web beacons". This "automatically collected" information may include your Internet Protocol address ("IP Address"), web browser type, the web pages or sites that you visit just before or just after the CloudMade Service, the pages you view on our site, and the dates and times that you visit.
 
 ### The Way CloudMade Uses Information
 
@@ -36,11 +36,11 @@ We do not share User information with other third-party organizations for their 
 
 You have access to your personal information and you may update, correct, or delete your member information and email subscription preferences at any time.
 
-To protect your privacy and security, we take reasonable steps to verify your identity before granting User’s profile access. You are responsible for maintaining the secrecy of your unique password and account information at all times.
+To protect your privacy and security, we take reasonable steps to verify your identity before granting User’s profile access. YOU ARE RESPONSIBLE FOR MAINTAINING THE SECRECY OF YOUR UNIQUE PASSWORD AND ACCOUNT INFORMATION AT ALL TIMES.
 
 ### Children
 
-Consistent with the federal Children’s Online Privacy Protection Act of 1998 (COPPA), we will never knowingly request personally identifiable information from anyone under the age of thirteen (13) without requiring parental consent. Any person who provides their personal information to CloudMade through the CloudMade Service represents that they are 13 years of age or older.
+Consistent with the federal Children’s Online Privacy Protection Act of 1998 (COPPA), we will never knowingly request personally identifiable information from anyone under the age of thirteen (13) without requiring parental consent. Any person who provides their personal information to CloudMade through the CloudMade Service represents that they are 13 years of age or older
 
 ### Third-party Advertisers, Links to Other Sites
 
@@ -78,5 +78,3 @@ We may occasionally update this Privacy Policy. When we do, we will also revise 
 If you have any questions, comments, or concerns about this Privacy Policy, please email us at [info@cloudmade.com](mailto:info@cloudmade.com) or write to us at:
 
 Postal Mail Address: CloudMade, 1370 Willow Road, 2nd Floor, Menlo Park, CA 94025 USA.
-
-#### Last Updated February 4, 2009
