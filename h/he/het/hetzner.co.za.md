@@ -1,14 +1,10 @@
-> *The following text is extracted and transformed from the hetzner.co.za privacy policy that was archived on 2012-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121227075929id_/http%3A//www.hetzner.co.za/index.php/hosting/legal/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hetzner.co.za privacy policy that was archived on 2013-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130628043521id_/http%3A//www.hetzner.co.za/legal/privacy-policy) for the most accurate reproduction.*
 
-# Hetzner: Privacy policy
-
-_(Last updated: 21 April 2010)_
-
-_(Previous versions: 1 August 2007)_
+# Privacy Policy | Hetzner
 
 **1\. Introduction**
 
-Unless the context clearly indicates to the contrary, any capitalised term in this Privacy Policy shall bear the same meaning as defined in the Hetzner General Terms located at <http://www.hetzner.co.za/index.php/hosting/legal/terms-of-service/> which definitions shall be deemed to have been incorporated herein by reference.
+Unless the context clearly indicates to the contrary, any capitalised term in this Privacy Policy shall bear the same meaning as defined in the Hetzner General Terms located at <http://www.hetzner.co.za/legal/our-hosting-terms> which definitions shall be deemed to have been incorporated herein by reference.
 
 **2\. Compliance with Applicable Law**
 
