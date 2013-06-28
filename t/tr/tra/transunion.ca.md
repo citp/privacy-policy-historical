@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the transunion.ca privacy policy that was archived on 2012-07-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120728220056id_/http%3A//www.transunion.ca/ca/privacypolicy_en.page) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the transunion.ca privacy policy that was archived on 2013-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130628053726id_/http%3A//www.transunion.ca/ca/privacypolicy_en.page) for the most accurate reproduction.*
 
 # TransUnion Canada: Privacy Policy
 
@@ -26,7 +26,7 @@ TransUnion's Approach to the Collection, Use and Disclosure of Personal Informat
 **Scope of this Privacy Policy  
 ** We are committed to protecting your privacy, and support a general policy of openness about how we collect, use and disclose the personal information of Canadian consumers.
 
-This TransUnion Privacy Policy provides an overview of our business and explains how we collect, use and disclose the information about Canadian consumers that appears in our databases. For specific information about how we collect, use and disclose information from you when you visit or use our website, please see our Online Privacy Statement.
+This TransUnion Privacy Policy provides an overview of our business and explains how we collect, use and disclose the information about Canadian consumers that appears in our databases. For specific information about how we collect, use and disclose information from you when you visit or use our website, please see our Online Privacy Statement.
 
  **Definitions  
 ** In this Privacy Policy, we will use the following terms:
@@ -51,7 +51,7 @@ We also provide a suite of authentication services to assist our clients in iden
 
  **Our Collection Practices**
 
- We primarily collect your personal information from the following sources:
+We primarily collect your personal information from the following sources:
 
   * reports about you that are provided to us by credit grantors or other institutions that are responsible for obtaining your consent to provide the information to us;
 
@@ -68,8 +68,8 @@ If you call us, we may record and retain the recording to ensure the accuracy of
 
  **Information We Collect**
 
- **(a)  What is Included in Your Credit Report  
-**TransUnion's credit reports may contain the following personal information:
+ **(a) What is Included in Your Credit Report  
+** TransUnion's credit reports may contain the following personal information:
 
   *  **Identifying information** : Consumer name, current and previous addresses, Social Insurance Number, telephone number, date of birth, and current and previous employers;
 
@@ -84,7 +84,7 @@ If you call us, we may record and retain the recording to ensure the accuracy of
 
 
 
- **(b)  Identification Requirements**
+ **(b) Identification Requirements**
 
 We also collect other information you have provided to confirm your identity, which we maintain for quality control and authentication purposes. This information may include copies of, or information from, your driver's licence, birth certificate, passport, credit cards, signature, photograph, and copies of bills or correspondence. This information is not part of your credit report.
 
@@ -124,12 +124,14 @@ Specifically, we use and disclose personal information in the following circumst
 
 
 
-In addition, we may provide anonymous information (i.e., information that does not identify individual consumers) in the form of aggregate or demographic data to our clients or service providers.    
+In addition, we may provide anonymous information (i.e., information that does not identify individual consumers) in the form of aggregate or demographic data to our clients or service providers.   
+We may also generate and use anonymous information to develop, enhance or validate our products, processes or services. Personal information will necessarily be used to generate anonymous information and, when required, to research, validate and test the use of anonymous information in such processes, products, services and enhancements.
+
+TransUnion may share personal information with third parties engaged to assist us in providing services and information to our clients. These service providers are prohibited from using your personal information for any purpose other than to provide this assistance and are required to protect personal information disclosed by TransUnion and to comply with the general privacy principles described in this Privacy Policy. Some of these service providers are located outside of Canada. As a result, your personal information may be subject to local laws, which may be different from Canadian laws. 
+
 We require our clients to limit the use of personal information obtained from TransUnion to those purposes that have been disclosed to the consumer, and for which appropriate consents have been obtained, or which are otherwise permitted by law.
 
-TransUnion may share personal information with third parties engaged to assist us in providing services and information to our clients. These service providers are prohibited from using your personal information for any purpose other than to provide this assistance and are required to protect personal information disclosed by TransUnion and to comply with the general privacy principles described in this Privacy Policy. Some of these service providers are located outside of Canada. As a result, your personal information may be subject to local laws, which may be different from Canadian laws.
-
- **Obtaining Consent  
+**Obtaining Consent  
 ** We do not, except where otherwise permitted by law, collect, use or disclose personal information unless the consumer is aware of the purposes for which the information will be used or disclosed, and has given his or her consent to such use or disclosure.
 
 In almost all cases, consumers will not provide such consent directly to us, but to our clients. We work with our clients to make them aware of the importance of obtaining consumer consent prior to providing TransUnion with consumers' personal information, and prior to accessing the personal information contained in our credit reports.
@@ -152,7 +154,7 @@ When gathering personal information, we work with our clients to increase their 
 When our clients base their credit decision about a consumer on information from us, we advise them to inform their consumers that they obtained the credit information from us. Clients are advised to provide consumers who are declined credit with our toll-free number.
 
  **Retention of Your Personal Information  
-** TransUnion retains your personal information in our credit information database for as long as necessary to fulfill the purpose(s) for which it was collected and to comply with applicable laws.  Consumer reporting legislation also imposes certain restrictions on the retention of personal credit information.  Please review our website at [www.transunion.ca](http://www.transunion.ca/) for additional information.
+** TransUnion retains your personal information in our credit information database for as long as necessary to fulfill the purpose(s) for which it was collected and to comply with applicable laws. Consumer reporting legislation also imposes certain restrictions on the retention of personal credit information. In addition, TransUnion may delete personal information reported about you by a data supplier if our relationship with the data supplier comes to an end. The end of a data supplier relationship may impede our ability to maintain a current and accurate credit file and/or carry out our investigation procedures. We delete personal information in these circumstances to ensure that your credit file remains as accurate, complete and up-to-date as possible. Please review our website at [www.transunion.ca](http://www.transunion.ca/) for additional information.
 
  **Contacting Us  
 ** We welcome consumers to contact us to obtain more information or if they have questions. Our Consumer Relations Centre is staffed by trained personnel who can assist consumers in obtaining and understanding their credit report.
@@ -161,23 +163,23 @@ Consumers can visit our website at [www.transunion.ca](http://www.transunion.ca/
 
 Any consumers who have recently applied for credit or obtained a copy of their credit report may contact us at:
 
- **For residents of Quebec:  
-** TransUnion       
+ **For service in French:  
+** TransUnion   
 1 Place Laval, Suite 370,  
 Laval, PQ H7N 1A1
 
-Telephone:  (877) 713-3393 or (514) 335-0374  
-Hours of Operation:  8:30 a.m. - 5:00 p.m. ET (Monday to Thursday)  
-                                      8:30 a.m. - 4:30 p.m. ET (Friday)
+Telephone: (877) 713-3393 or (514) 335-0374  
+Hours of Operation: 8:30 a.m. - 5:00 p.m. ET (Monday-Thursday)  
+8:30 a.m. - 4:30 p.m. ET (Friday)
 
- **For all other provinces:  
-** TransUnion      
-PO Box 338 LCD1,       
+ **For service in English:  
+** TransUnion   
+PO Box 338 LCD1,   
 Hamilton, ON L8L 7W2
 
-Telephone:  (800) 663-9980  
+Telephone: (800) 663-9980  
 E-mail: [privacy@transunion.ca](mailto:privacy@transunion.ca)  
-Hours of operation:  8:00 a.m. - 8:00 p.m. ET
+Hours of operation: 8:00 a.m. - 8:00 p.m. ET
 
  **Protecting Yourself from Identity Theft  
 ** Identity theft is one of Canada's fastest growing crimes, and one which the victim may not discover until long after significant damage has been done to his or her credit report. There are a variety of ways that you could fall victim to this crime, including "phishing" (seemingly genuine, but forged, e-mails purportedly sent from a reputable company that require you to provide personal information in a linked website or risk losing certain benefits from that company), and "Dumpster diving" (where individuals sort through garbage looking for bank statements, invoices, etc., that reveal an individual's personal information).
@@ -185,7 +187,7 @@ Hours of operation:  8:00 a.m. - 8:00 p.m. ET
 The best way to guard against identity theft is to learn about this crime in order to identify suspicious activity. Please visit our website for tips on how to protect yourself at [www.transunion.ca](http://www.transunion.ca/).
 
  **More Information  
-** To review our Online Privacy Statement that addresses the manner in which we collect, use and disclose the personal information that we collect from you on our websites click here.
+** To review our Online Privacy Statement that addresses the manner in which we collect, use and disclose the personal information that we collect from you on our websites click here.
 
  **Looking to the Future  
 ** Privacy is an evolving consumer issue, and we are committed to working with federal and provincial Privacy Commissioners and ministries, and other stakeholders in the credit-reporting industry, including credit-grantors and consumers, to develop fair, efficient and effective policies and procedures for the preservation of the privacy and accuracy of personal information in our files.
@@ -193,7 +195,7 @@ The best way to guard against identity theft is to learn about this crime in ord
  **Changes to this Privacy Policy  
 ** TransUnion reserves the right to modify this Privacy Policy at anytime without notice. The Privacy Policy posted at any time or from time to time via this website shall be deemed to be the Privacy Policy then in effect.
 
-Last revised March 2007.
+Last revised March 2013.
 
 Back to top
 
