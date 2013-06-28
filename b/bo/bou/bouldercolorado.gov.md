@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bouldercolorado.gov privacy policy that was archived on 2012-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121128054536id_/http%3A//bouldercolorado.gov/index.php%3Foption%3Dcom_content%26task%3Dview%26id%3D10130%26Itemid%3D27) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bouldercolorado.gov privacy policy that was archived on 2013-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130629012251id_/http%3A//bouldercolorado.gov/index.php%3Foption%3Dcom_content%26task%3Dview%26id%3D10130%26Itemid%3D27) for the most accurate reproduction.*
 
 # Privacy Policy
 
