@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the iclarified.com privacy policy that was archived on 2012-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121110151653id_/http%3A//iclarified.com/about/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the iclarified.com privacy policy that was archived on 2013-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130628075457id_/http%3A//www.iclarified.com/about/privacy.php) for the most accurate reproduction.*
 
 # iClarified - Privacy
 
@@ -49,6 +49,10 @@ We do not sell, trade, or otherwise transfer to outside parties your personally 
 
 Occasionally, at our discretion, we may include or offer third party products or services on our website. These third party sites have separate and independent privacy policies. We therefore have no responsibility or liability for the content and activities of these linked sites. Nonetheless, we seek to protect the integrity of our site and welcome any feedback about these sites.
 
+ **Third Party Ad Servers**
+
+We may use third-party advertising companies to serve ads when you visit our Web Site. If so, a list of these ad serving companies will be available here. These companies may use information (generally, not including your name, address, e-mail address or telephone number) about your visits to this Web Site and to other web sites in order to provide advertisements about goods and services of interest to you. These companies may employ cookies and clear GIFs to measure advertising effectiveness. Any information that these third parties collect via cookies and clear GIFs is generally not personally identifiable (unless, for example, you provide personally identifiable information to them through an ad or e-mail message). We encourage you to read these businesses' privacy policies if you should have any concerns about how they will care for your personal information. If you would like more information about this practice and to know your choices about not having this information used by these companies, see the Network Advertising Initiative's consumer web site at <http://www.networkadvertising.org/managing/opt_out.asp>.
+
  **California Online Privacy Protection Act Compliance**
 
 Because we value your privacy we have taken the necessary precautions to be in compliance with the California Online Privacy Protection Act. We therefore will not distribute your personal information to outside parties without your consent.
@@ -67,7 +71,7 @@ By using our site, you consent to our [web site privacy policy](http://www.freep
 
 If we decide to change our privacy policy, we will post those changes on this page. 
 
-This policy was last modified on August 10, 2012
+This policy was last modified on January 18, 2013
 
  **Contacting Us**
 
