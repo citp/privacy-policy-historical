@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the techlogon.com privacy policy that was archived on 2011-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110623131250id_/http%3A//techlogon.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the techlogon.com privacy policy that was archived on 2013-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130628080033id_/http%3A//techlogon.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy » TechLogon
+# Privacy Policy
 
 **Privacy Policy for Techlogon.com**
 
@@ -13,7 +13,7 @@ We do use cookies to store information, such as your personal preferences when y
 
 We also use third party advertisements on Techlogon.com to support the site. Some of these advertisers may use technology such as cookies and/or web beacons when they advertise on our site, which will also send these advertisers (such as Google through the Google AdSense program) information including your IP address, your ISP, the browser you used to visit our site, and in some cases, whether you have Adobe Flash Player installed. This is generally used for geotargeting purposes (showing New York airport adverts to someone in New York, for example) or showing certain adverts based on specific sites you have visited (e.g. showing music adverts to someone who frequents music sites).
 
-Techlogon is a participant in the Amazon Services LLC Associates Program, an affiliate advertising program designed to provide a means for sites to earn advertising fees by advertising and linking to amazon.com.
+Techlogon is a participant in the Amazon Services LLC Associates Program, an affiliate advertising program designed to provide a means for sites to earn advertising fees by advertising and linking to amazon.com and/or other international amazon sites.
 
 **DoubleClick DART cookies**  
 We may also use DART cookies for advert serving through Google’s DoubleClick, which places a cookie on your computer when you are browsing the web and visit a site using DoubleClick advertising (including some Google AdSense advertisements). This cookie is used to serve adverts specific to you and your interests (i.e. ‘interest based targeting’). The adverts served will be targeted based on your previous browsing history. (For example, if you have been viewing sites about visiting Washington, you may see Washington hotel adverts when viewing a non-related site, such as on a site about baseball).
