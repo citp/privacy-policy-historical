@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the movieinsider.com privacy policy that was archived on 2012-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121217160156id_/http%3A//www.movieinsider.com/contact/%23privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the movieinsider.com privacy policy that was archived on 2013-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130628231546id_/http%3A//www.movieinsider.com/contact/%23privacy) for the most accurate reproduction.*
 
 # Contact Us - About Us - Privacy Policy - Movie Insider
 
@@ -16,7 +16,7 @@ With an October 2010 domain arbritration case, Brian was granted "movieinsider.c
 
 About Brian D. Renner ([@briandrenner](http://twitter.com/#!/briandrenner))
 
-Brian is the Founder and Managing Member of The Movie Insider LLC. From 2009 to 2011, Brian worked as a Digital Marketing Manager at the Detroit field office of Allied Integrated Marketing, an entertainment promotion/publicity agency. In 2008, Brian interned with the Worldwide Post-Production Planning team at Walt Disney Pictures where he assisted in the management of animated and live-action post-production timelines. Brian was honored as one of ["Twenty in their 20's"](http://www.crainsdetroit.com/files/twenty07/20_renner.html) by _Crain's Detroit Business_ in May 2007. 
+Brian is the Founder and Managing Member of The Movie Insider LLC. From 2009 to 2011, Brian worked as a Digital Marketing Manager at the Detroit field office of Allied Integrated Marketing, an entertainment promotion/publicity agency. In 2008, Brian interned with the Worldwide Post-Production Planning team at Walt Disney Pictures where he assisted in the management of animated and live-action post-production timelines. Brian was honored as one of ["Twenty in their 20's"](http://www.crainsdetroit.com/files/twenty07/20_renner.html) by _Crain's Detroit Business_ in May 2007.
 
 Movie Insider is owned and operated by The Movie Insider LLC. 
 
@@ -60,7 +60,7 @@ Under no circumstances will Movie Insider be liable in anyway for any content, i
 
 Harm to Your Computer
 
-You understand and agree that the use, access and/or download of information through Movie Insider website is at your own discretion and risk. You will be solely responsible for any damage to your proprerty and any loss of data that results from the use of our website.
+You understand and agree that the use, access and/or download of information through Movie Insider website is at your own discretion and risk. You will be solely responsible for any damage to your property and any loss of data that results from the use of our website.
 
 ### Privacy Policy
 
@@ -108,4 +108,4 @@ Acceptance of Policy
 
 By using this website, you agree to the terms mentioned above. If you do not agree to this policy, you should stop using this site. This policy may be revised or changed from time to time. Your continued use of the Movie Insider website after the posting of changes means you accept those changes.
 
-Last Updated: June 2, 2012
+Last Updated: March 5, 2013
