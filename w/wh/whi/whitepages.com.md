@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the whitepages.com privacy policy that was archived on 2012-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121213093921id_/http%3A//www.whitepagescustomers.com/data-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the whitepages.com privacy policy that was archived on 2013-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130628122432id_/http%3A//www.whitepagescustomers.com/data-policy) for the most accurate reproduction.*
 
 # Data Policy
 
-Last updated on October 2nd, 2012
+Last updated on April 9, 2013.
 
-This policy is designed to provide you with information regarding about data collection and use in connection with our products and services.  If you have questions about your listing, please click [here](http://www.whitepagescustomers.com/).
+This policy is designed to provide you with information regarding data collection and use in connection with our products and services.  If you have questions about your listing, please click [here](http://www.whitepagescustomers.com/).
 
 **A. INFORMATION WE COLLECT FROM YOU**
 
@@ -14,7 +14,7 @@ We collect information in order to provide useful products and services to you a
 
 **2\. What kinds of information do you collect?**
 
-We collect information that (i) you provide to us or authorize us to collect from your social media account(s) and (ii) information about your use of our products and services (e.g., browser type, search categories, location).
+We collect information that (i) you provide to us or authorize us to collect as a result of using our products ( _e.g._  social media accounts, call and text logs, etc.) and (ii) information about your use of our products and services (e.g., browser type, search categories, location).
 
 **3\. How do you use the information you collect?**
 
@@ -48,7 +48,7 @@ Third parties may collect information in order to (i) deliver relevant online an
 
 **4\. How will they use the information they collect? Will they share it?**
 
-Collection and use of data is subject to the privacy policies of those third party companies, such as the privacy policy of [AdMarvel](http://www.admarvel.com/AdMarvel_Privacy_Policy_2011.pdf) or [Google](http://www.google.com/intl/en/policies/privacy/). Accordingly, please review those policies for specific information.
+Collection and use of data is subject to the privacy policies of those third party companies, such as the privacy policy of [AdMarvel](http://www.admarvel.com/AdMarvel_Privacy_Policy_2012.pdf) or [Google](http://www.google.com/intl/en/policies/privacy/). Accordingly, please review those policies for specific information.
 
 **5\. How do I stop the collection and use of my information by third parties?**
 
