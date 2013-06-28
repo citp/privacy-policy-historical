@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the uploading.com privacy policy that was archived on 2012-11-23.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121123054647id_/http%3A//uploading.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the uploading.com privacy policy that was archived on 2013-06-28.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130628073356id_/http%3A//uploading.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en" class="js no-touch hashchange history draganddrop rgba boxshadow textshadow opacity fontface video audio cookies formvalidation fieldsetdisabled styleableinputrange details polyfill-important"><!--<![endif]--><head>
 	<meta charset="utf-8">
@@ -16,8 +16,8 @@
 	<link rel="shortcut icon" href="http://uploading.com/favicon.ico">
 	<link rel="apple-touch-icon" href="http://uploading.com/apple-touch-icon.png">
 
-	<link rel="stylesheet" type="text/css" href="/static/css/style.css?v=fc5394f636">
-	<link rel="stylesheet" type="text/css" href="/static/css/pages/filemanager/index.css?v=9171516d33">
+	<link rel="stylesheet" type="text/css" href="/static/css/style.css?v=214499772d">
+	<link rel="stylesheet" type="text/css" href="/static/css/pages/filemanager/index.css?v=433a909c6b">
 	<link rel="stylesheet" type="text/css" href="/static/css//libs/jquery.noty.css?v=330b849aa5">
 	
 
@@ -38,7 +38,7 @@
 
 	<script type="text/javascript" src="/static/js/plugins.js?v=330b849aa5"></script>
 	<script type="text/javascript" src="/static/js/ajaxfileupload.js?v=50f9d5c0a3"></script>
-	<script type="text/javascript" src="/static/js/main.js?v=2c573970a4"></script>
+	<script type="text/javascript" src="/static/js/main.js?v=9e2282a115"></script>
 	<script type="text/javascript" src="/static/js/upload_file.js?v=330b849aa5"></script>
 	<script type="text/javascript" src="/static/js/libs/jquery.form.js?v=ab4caaf465"></script>
 	<script type="text/javascript" src="/static/js/libs/jquery.noty.js?v=759bd36ad2"></script>
@@ -296,7 +296,7 @@
 <input type="hidden" name="affiliate_id" value="#affiliate_id#">
 </form>
 
-<span style="display: none" id="time_stamp">2012-11-23.06:46:47</span>
+<span style="display: none" id="time_stamp">2013-06-28.09:33:56</span>
 
 
 <script>
@@ -314,7 +314,7 @@ function set_payment(plan, method) {
 	premium_method = method;
 
 	
-			showAuthorisation();
+			app.auth.showSignup({premium: true});
 	
 	}
 
@@ -408,6 +408,11 @@ function submit_form(bill, vars) {
 				<input type="hidden" name="mode" value="premium">
 				<span class="info">Login to buy premium</span>
 			</div>
+
+			<div class="login_action addFile">
+				<input type="hidden" name="mode" value="addFile">
+				<span class="info">Login to add file to your account.</span>
+			</div>
 		</div>
 
 		<form action="http://uploading.com/general/login_form" method="post" id="login_form" onsubmit="return app.auth.doLogin(this)" class="footer_up header_or">
@@ -416,23 +421,19 @@ function submit_form(bill, vars) {
 			<div id="active_login_actions"></div>
 
 
-                            <div id="login_identity">
-                        
-                            <input type="email" class="txt txt-mail" name="email" id="login_email" value="" placeholder="Type your email" required="required">
-                                            </div>
+            <div id="login_identity">
+                        <input type="email" class="txt txt-mail" name="email" id="login_email" value="" placeholder="Type your email" required="required">
+                        </div>
 
+            <input type="password" class="txt txt-pass" name="password" id="login_password" value="" placeholder="Password" required="required">
 
-                            <input type="password" class="txt txt-pass" name="password" id="login_password" value="" placeholder="Password" required="required">
-
-
-
-			<input type="hidden" name="back_url" id="back_url" value="https://web.archive.org/web/20121123054647id_/http://uploading.com/privacy/">
+			<input type="hidden" name="back_url" id="back_url" value="https://web.archive.org/web/20130628073356id_/http%3A//uploading.com/privacy">
             <div class="field-auth">
                 <label>
-                        <i class="fm-checkbox">
-                            <input type="checkbox">
-                        </i>
-                       <!--- <input type="checkbox" name="remember" checked="checked"> !--->
+                    <i class="fm-checkbox">
+                        <input type="checkbox" id="remember_checkbox" name="remember" value="on">
+                    </i>
+                   <!--- <input type="checkbox" name="remember" checked="checked"> !--->
                     Remember Me
                 </label>
                 <a href="#recover" id="retrieve_box_open">Reset Password</a>
@@ -441,17 +442,12 @@ function submit_form(bill, vars) {
 				<button type="submit" class="btn-new login-submit">Login</button>
 			</div>
 
-                <a class="btn btn-bare goto_signup" href="#singup">Need an account? Sign up now</a>
-
+            <a class="btn btn-bare goto_signup" href="#singup">Need an account? Sign up now</a>
 
 		</form>
 
 		<form id="retrieve_form" action="http://uploading.com/retrieve" class="" method="post" style="display: none">
-
-                        <input type="email" class="txt txt-mail-reminder" id="reminder_email" name="reminder_email" placeholder="Type your email" required="required">
-
-
-
+            <input type="email" class="txt txt-mail-reminder" id="reminder_email" name="reminder_email" placeholder="Type your email" required="required">
 
 			<div class="field">
 				<button type="submit" class="btn-new">Send</button>
@@ -500,6 +496,11 @@ function submit_form(bill, vars) {
 				<input type="hidden" name="mode" value="premium">
 				<span class="info">Register to buy premium</span>
 			</div>
+
+			<div class="login_action addFile">
+				<input type="hidden" name="mode" value="addFile">
+				<span class="info">Signup to add file to your account.</span>
+			</div>
 		</div>
         <form action="http://uploading.com/partners/terms" method="post" id="signup_form" onsubmit="return app.auth.doSignup(this)" class="footer_up header_or">
 
@@ -511,17 +512,16 @@ function submit_form(bill, vars) {
 				<input type="hidden" class="text" name="fast_signup" id="fast_signup" value="0">
 			</div>
 
-                            <input type="email" class="txt txt-mail" name="email" id="email" placeholder="Type your email" value="" required="required">
+            <input type="email" class="txt txt-mail" name="email" id="email" placeholder="Type your email" value="" required="required">
 
-                            <input type="text" class="txt txt-user" name="nick_name" placeholder="Full name" value="">
+            <input type="text" class="txt txt-user" name="nick_name" placeholder="Full name" value="">
 
-                            <input type="password" class="txt txt-pass" id="pass" name="password" placeholder="Password" required="required">
+            <input type="password" class="txt txt-pass" id="pass" name="password" placeholder="Password" required="required">
 
 			<p class="terms">I agree to <a href="/terms/" target="_blank" class="no_a">Terms &amp; Conditions</a></p>
 
 			<div class="field">
 				<button class="btn-new" type="submit">Register</button>
-
 			</div>
             <a class="btn btn-bare goto_login" href="#login">I have an account. Log in</a>
 		</form>
@@ -593,14 +593,13 @@ function cancel_not_you() {
 <div id="popup_layer_wrap" class="scroll_fix_wrap fixed" style="visibility:hidden;" data-visible="false">
 	<div id="popup_layer">
 
-		<div class="window reusable" id="popup">
-			<div class="m_window">
-				<div class="close"></div>
+		<div class="window reusable popup" id="popup">
+			<div class="popup_wrap clearfix">
+				<div class="popup_head">
+					<h1 id="fm-popup-head">Upload Your Files</h1><i class="icon icon-close"></i>
+				</div>
 
-				<div class="window_content">
-
-					<h2 class="title">Upload Your Files</h2>
-
+				<div class="popup_content">
 					<div class="inner_window_content">
 
 						<div class="upload">
@@ -779,7 +778,7 @@ function cancel_not_you() {
 								done_url:					'http://uploading.com/',
 								is_logged:					false,
 								max_file_size:				2097152000,
-								urls:						{"upload_url":"http:\/\/fs381.uploading.com\/upload_file\/%3Doc0%7CAvk3w48ySYNjjbS4qJepFnNqyU3MaXGpaqh4ZUixnJffma%7CBO6CiOvZxhovvsEHHy4wBK-Hn6L%7CBTxkLGdpLz%7CAbKeIb1AODOaQvwy8HEcARhzxRZ52X8ZZkQdgyjnOqU%7C5APxMOrNfNrgLdiQ7ul3g3QaCuDlAgKhMPNqc","progress_url":"http:\/\/fs381.uploading.com\/show_progress\/%3Doc0%7CAvk3w48ySYNjjbS4qJepFnNqyU3MaXGpaqh4ZUixnJffma%7CBO6CiOvZxhovvsEHHy4wBK-Hn6L%7CBTxkLGdpLz%7CAbKeIb1AODOaQvwy8HEcARhzxRZ52X8ZZkQdgyjnOqU%7C5APxMOrNfNrgLdiQ7ul3g3QaCuDlAgKhMPNqc","get_progress_url":"http:\/\/fs381.uploading.com\/progress\/%3Doc0%7CAvk3w48ySYNjjbS4qJepFnNqyU3MaXGpaqh4ZUixnJffma%7CBO6CiOvZxhovvsEHHy4wBK-Hn6L%7CBTxkLGdpLz%7CAbKeIb1AODOaQvwy8HEcARhzxRZ52X8ZZkQdgyjnOqU%7C5APxMOrNfNrgLdiQ7ul3g3QaCuDlAgKhMPNqc","api_progress_url":"http:\/\/fs381.uploading.com\/api_progress\/%3Doc0%7CAvk3w48ySYNjjbS4qJepFnNqyU3MaXGpaqh4ZUixnJffma%7CBO6CiOvZxhovvsEHHy4wBK-Hn6L%7CBTxkLGdpLz%7CAbKeIb1AODOaQvwy8HEcARhzxRZ52X8ZZkQdgyjnOqU%7C5APxMOrNfNrgLdiQ7ul3g3QaCuDlAgKhMPNqc","upload_iframe_url":"http:\/\/fs381.uploading.com\/upload_iframe\/%3Doc0%7CAvk3w48ySYNjjbS4qJepFnNqyU3MaXGpaqh4ZUixnJffma%7CBO6CiOvZxhovvsEHHy4wBK-Hn6L%7CBTxkLGdpLz%7CAbKeIb1AODOaQvwy8HEcARhzxRZ52X8ZZkQdgyjnOqU%7C5APxMOrNfNrgLdiQ7ul3g3QaCuDlAgKhMPNqc","upload_target_url":"http:\/\/fs381.uploading.com\/upload_target_iframe\/"},
+								urls:						{"upload_url":"http:\/\/fs226.uploading.com\/upload_file\/%3DAv0cY-ekK7HhfVxLO0PIntL9%7Cl1ORJCUdaXEtPlOB1wLT7VkzQAK97CiOvZxhovvsEHHy4wBK-Hn6L%7CBTxkLGdpLz%7CAbKeIb1AODOaQvwy8HEcARhzxRZ52X8ZZkQdgyjnOqU%7C5APxMOrNfNrgLdiQ7ul3g3QaCuDlAgKhMPNqc","progress_url":"http:\/\/fs226.uploading.com\/show_progress\/%3DAv0cY-ekK7HhfVxLO0PIntL9%7Cl1ORJCUdaXEtPlOB1wLT7VkzQAK97CiOvZxhovvsEHHy4wBK-Hn6L%7CBTxkLGdpLz%7CAbKeIb1AODOaQvwy8HEcARhzxRZ52X8ZZkQdgyjnOqU%7C5APxMOrNfNrgLdiQ7ul3g3QaCuDlAgKhMPNqc","get_progress_url":"http:\/\/fs226.uploading.com\/progress\/%3DAv0cY-ekK7HhfVxLO0PIntL9%7Cl1ORJCUdaXEtPlOB1wLT7VkzQAK97CiOvZxhovvsEHHy4wBK-Hn6L%7CBTxkLGdpLz%7CAbKeIb1AODOaQvwy8HEcARhzxRZ52X8ZZkQdgyjnOqU%7C5APxMOrNfNrgLdiQ7ul3g3QaCuDlAgKhMPNqc","api_progress_url":"http:\/\/fs226.uploading.com\/api_progress\/%3DAv0cY-ekK7HhfVxLO0PIntL9%7Cl1ORJCUdaXEtPlOB1wLT7VkzQAK97CiOvZxhovvsEHHy4wBK-Hn6L%7CBTxkLGdpLz%7CAbKeIb1AODOaQvwy8HEcARhzxRZ52X8ZZkQdgyjnOqU%7C5APxMOrNfNrgLdiQ7ul3g3QaCuDlAgKhMPNqc","upload_iframe_url":"http:\/\/fs226.uploading.com\/upload_iframe\/%3DAv0cY-ekK7HhfVxLO0PIntL9%7Cl1ORJCUdaXEtPlOB1wLT7VkzQAK97CiOvZxhovvsEHHy4wBK-Hn6L%7CBTxkLGdpLz%7CAbKeIb1AODOaQvwy8HEcARhzxRZ52X8ZZkQdgyjnOqU%7C5APxMOrNfNrgLdiQ7ul3g3QaCuDlAgKhMPNqc","upload_target_url":"http:\/\/fs226.uploading.com\/upload_target_iframe\/"},
 								max_extention_length:		7,
 								max_queue_length:			10,
 								is_iframe:					false,
@@ -787,7 +786,7 @@ function cancel_not_you() {
 								progress_id:				0,
 			                    fmanager_url:				'http://uploading.com/filemanager',
 								post_params:				{
-									'SID': 'a9172d582e64239967ebf8a01e9468c0'
+									'SID': 'b20ea4be87400e4359f87f1a94ff6a9c'
 								}
 							});
 
@@ -821,7 +820,7 @@ function cancel_not_you() {
 											upload_success_handler: fileUploadSuccess,
 											upload_complete_handler: fileUploadComplete,
 											upload_error_handler: fileUploadError,
-											upload_url: 'http://fs381.uploading.com/upload_file/%3Doc0%7CAvk3w48ySYNjjbS4qJepFnNqyU3MaXGpaqh4ZUixnJffma%7CBO6CiOvZxhovvsEHHy4wBK-Hn6L%7CBTxkLGdpLz%7CAbKeIb1AODOaQvwy8HEcARhzxRZ52X8ZZkQdgyjnOqU%7C5APxMOrNfNrgLdiQ7ul3g3QaCuDlAgKhMPNqc',
+											upload_url: 'http://fs226.uploading.com/upload_file/%3DAv0cY-ekK7HhfVxLO0PIntL9%7Cl1ORJCUdaXEtPlOB1wLT7VkzQAK97CiOvZxhovvsEHHy4wBK-Hn6L%7CBTxkLGdpLz%7CAbKeIb1AODOaQvwy8HEcARhzxRZ52X8ZZkQdgyjnOqU%7C5APxMOrNfNrgLdiQ7ul3g3QaCuDlAgKhMPNqc',
 
 											queue_complete_handler: fileQueueComplete,
 
@@ -927,7 +926,7 @@ function cancel_not_you() {
 		(function(d,t){var g=d.createElement(t),s=d.getElementsByTagName(t)[0];g.async=1;g.src=('https:'==location.protocol?'//ssl':'//www')+'.google-analytics.com/ga.js';s.parentNode.insertBefore(g,s)}(document,'script'));
 		document.write("<" + "img src='http://www.jscount.com/a/5/c773cf25/z?ref="+escape(document.referrer)+"&url="+escape(document.URL)+"&rand="+Math.random()+"' width=1 height=1 alt='' style='display:none' /" + ">");
 	
-		</script><img src="http://www.jscount.com/a/5/c773cf25/z?ref=&amp;url=https%3A//web.archive.org/web/20121123054647id_/http%3A//uploading.com/privacy/&amp;rand=0.9083912380845156" width="1" height="1" alt="" style="display:none">
+		</script><img src="http://www.jscount.com/a/5/c773cf25/z?ref=&amp;url=https%3A//web.archive.org/web/20130628073356id_/http%253A//uploading.com/privacy&amp;rand=0.23021153726956833" width="1" height="1" alt="" style="display:none">
 
 	<noscript>
 		<div id="noscript-warning">Uploading.com works best with JavaScript enabled</div>
@@ -939,7 +938,7 @@ function cancel_not_you() {
 			<div id="content">
 				<div class="error_page wrapper error_403" style="width: 506px">
 					<h1>Oops! Seems like you're using Uploading.com via 3rd-party service.</h1>
-					<p>Please try to open this page using original <a href="http://uploading.com/privacy/">http://uploading.com/privacy/</a> link.</p>
+					<p>Please try to open this page using original <a href="http://uploading.com/privacy">http://uploading.com/privacy</a> link.</p>
 				</div>
 			</div>
 		</div>
