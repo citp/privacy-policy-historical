@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the ericwelke.com privacy policy that was archived on 2012-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121127170758id_/http%3A//ericwelke.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ericwelke.com privacy policy that was archived on 2013-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130628105542id_/http%3A//ericwelke.com/privacy_policy) for the most accurate reproduction.*
 
-# Privacy Policy - EricWelke.com
+# Privacy Policy – EricWelke.com
 
 Your privacy is very important to us. Accordingly, we have developed this Policy in order for you to understand how we collect, use, communicate and make use of personal information. The following outlines our Privacy Policy. 
 
