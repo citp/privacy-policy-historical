@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the wolframalpha.com privacy policy that was archived on 2012-12-11.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121211133426id_/http%3A//www.wolframalpha.com/privacypolicy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the wolframalpha.com privacy policy that was archived on 2013-06-28.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130628232939id_/http%3A//www.wolframalpha.com/privacypolicy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" class=" js"><head>
     <title>Wolfram|Alpha Privacy Policy</title>
@@ -273,10 +273,12 @@ body #pageTitle {
         <li><a href="http://community.wolframalpha.com/" title="Wolfram|Alpha Community Forum">Forum</a></li>
         <li><a href="/participate/" title="Participate in the Wolfram|Alpha Project">Participate</a></li>
         <li><a href="/contact.html" title="Contact Wolfram|Alpha">Contact</a></li>
-	<li class="foot-connect"><a href="/social/" title="Connect" class="connect">Connect<span></span></a></li>
+        <li class="foot-connect">
+            <a href="/social/" title="Connect" class="connect">Connect <i class="fb"></i><i class="tw"></i><i class="rss"></i><i class="mail"></i><i class="linkedin"></i><i class="tumblr"></i></a>
+        </li>
     </ul>
     <ul class="copy">
-        <li class="noimg">© 2012 Wolfram Alpha LLC—A <a href="http://www.wolfram.com/">Wolfram Research</a> Company</li>
+        <li class="noimg">© 2013 Wolfram Alpha LLC—A <a href="http://www.wolfram.com/">Wolfram Research</a> Company</li>
         <li><a href="/termsofuse.html" title="Wolfram|Alpha Terms of Use">Terms</a></li>
         <li><a href="/privacypolicy.html" title="Wolfram|Alpha Privacy Policy">Privacy</a></li>
         <!-- <li><a href="/entities/index/" title="Wolfram|Alpha Entity Index">Entity Index</a></li>  -->
@@ -303,7 +305,7 @@ body #pageTitle {
      Sign Up for Wolfram|Alpha News
    </div>
    <div class="content round-bottom">
-     <form id="notifyForm" action="http://www.wolframalpha.com/input/sendFormData.jsp" method="post">
+     <form id="notifyForm" action="" method="post">
        <div class="lbox-wob-tophalf">
          <div>
            <label for="name">Name <span class="optional">(optional)</span></label>
@@ -325,6 +327,7 @@ body #pageTitle {
          <a href="" class="sendImg" title="Send">&nbsp;</a>
        </div>
        <input type="hidden" name="filename" value="notifyForm.html">
+       <input type="hidden" name="hiddenField" value="hidden">
      </form>
    </div>
    <div class="bottom round-bottom"></div>
@@ -355,7 +358,12 @@ body #pageTitle {
 <script>
   lboxBindNotify("#follow .news");
 </script>
-<script src="/Calculate/cookietest.jsp"></script>
+<script>
+/*  Replace relative URL with absolute URL on non-WolframAlpha domains */
+if(!(new RegExp("(?:^|;\\s*)" + escape("CookieWarning").replace(/[\-\.\+\*]/g, "\\$&") + "\\s*\\=")).test(document.cookie)){
+    document.write('\x3Cscr'+'ipt src="/input/cookietest.jsp" type="text/javascript">\x3C'+'/script>');
+}
+</script><script src="/input/cookietest.jsp" type="text/javascript"></script>
 
 
 <script src="/javascript/index.js"></script>
