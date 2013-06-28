@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tests.com privacy policy that was archived on 2010-04-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100409002503id_/http%3A//www.tests.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tests.com privacy policy that was archived on 2013-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130629011211id_/http%3A//tests.com/privacy) for the most accurate reproduction.*
 
 # PRIVACY POLICY | Tests.com
 
