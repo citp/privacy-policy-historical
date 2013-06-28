@@ -1,10 +1,8 @@
-> *The following text is extracted and transformed from the fivebooks.com privacy policy that was archived on 2012-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121230182327id_/http%3A//m.thebrowser.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fivebooks.com privacy policy that was archived on 2013-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130628041436id_/http%3A//fivebooks.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | The Browser
+# Privacy Policy | Five Books
 
-## Privacy Policy
-
-(last update: Feb 2012)
+(last update: Feb 2013)
 
 **Information we gather**
 
@@ -12,20 +10,18 @@ The following information is gathered from our website visitors and app users:
 IP address  
 Email address (when registering).  
 As appropriate, you may be asked to enter your e-mail address. You may, however, use our app and site services anonymously (with limited functionality).  
-We do not ask for, use or store your credit card or other payment information; billing is performed via external billing services (such as iTunes) and we do not have access to your payment information during the process. 
+
 
 **How we use the information we gather**
 
-We use the information to enhance your visitor experience and to provide your subscription service across web, iOS apps and other media.   
+We use the information to enhance your visitor experience and to provide your subscription service across web and other media.   
 As a subscriber to our services, you may receive related product or service information via email, notifications about technical issues with the service, maintenance periods etc.   
-In addition, if you decide to opt-in to receiving our email newsletter, we will send you periodic emails with information from the site (the email address you provide will only be used to send you information and site updates). More information about our newsletters can be found [here](http://thebrowser.com/newsletters).  
+In addition, if you decide to opt-in to receiving our email newsletter, we will send you periodic emails with information from the site (the email address you provide will only be used to send you information and site updates). More information about our newsletters can be found [here](http://fivebooks.com/newsletters).  
 Please note: If at any time you would like to unsubscribe from receiving future emails, we include detailed unsubscribe instructions at the bottom of each email.
 
 **The people that are given access to this information**
 
 Your personal information is accessible by server administrator, and by our marketing department.
-
-Your nickname may be displayed in non-protected contexts on the site, and will be visible if you choose to share your reading list with others. 
 
 **The security measures we have in place to protect your personal information**
 
@@ -64,4 +60,4 @@ If we decide to change our privacy policy, we will post those changes on this pa
 
 **Contacting Us**
 
-If you have any questions regarding this privacy policy please email feedback[at]thebrowser[dot]com.
+If you have any questions regarding this privacy policy please email editor[at]fivebooks[dot]com.
