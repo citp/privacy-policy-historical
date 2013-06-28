@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the 8tracks.com privacy policy that was archived on 2012-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121231151955id_/http%3A//8tracks.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 8tracks.com privacy policy that was archived on 2013-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130628222140id_/http%3A//8tracks.com/privacy) for the most accurate reproduction.*
 
-# Privacy policy | 8tracks
+# Privacy policy | 8tracks radio
+
+## **Privacy policy**
 
 **Last Revised: November 13 th, 2012**
 
