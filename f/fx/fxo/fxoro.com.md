@@ -1,145 +1,160 @@
-> *The following text is extracted and transformed from the fxoro.com privacy policy that was archived on 2012-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121219160524id_/http%3A//www.fxoro.com/scripts/pagebase.aspx%3Ffolder%3Dcmp%26what%3Dprivacydoc%26ext%3Dhtm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fxoro.com privacy policy that was archived on 2013-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130628065557id_/http%3A//www.fxoro.com/scripts/pagebase.aspx%3Ffolder%3Dcmp%26what%3Dprivacydoc%26ext%3Dhtm) for the most accurate reproduction.*
 
 # FXORO Online Trading, Forex Trading, Online Currency Trading
 
 **Our commitment**
 
-This Privacy and Security Policy explains how MCA INTELIFUNDS LTD, trading as “ **FXORO** ”, (“ **FXORO** ”), collects its Clients’ personal data, and how this is maintained, used and disclosed. 
+This Privacy and Security Policy explains how MCA INTELIFUNDS LTD, trading as “ **FXORO** ”, (“ **FXORO** ”) **FXORO** collects personal data about you and how it maintains, uses and discloses that data. 
 
-FXORO’s primary interest lies in the safeguarding of its Clients’ privacy, by ensuring that all personal data which is obtained from its Clients, including all the data that is obtained by FXORO when a Client visits the FXORO websites. Information collected by FXORO is handled, retained and processed only by means that are in accordance with mandatory legal requirements and only to the extent it is strictly necessary for the achievement of the purposes set out herein. 
+FXORO is committed to protecting the privacy of all personal data which is obtained from you, including the data we obtain during your visits to the FXORO websites. FXORO handles, retains and processes your data only insofar as this is in accordance with the applicable legal requirements and only to the extent it is necessary for the achievement of the purposes set out herein. 
 
-**Personal Information Collected**
+**What information do we collect from you?**
 
-FXORO collects and processes personal information of its clients only insofar as to provide its Clients with the relevant services, as these are set out in the section “ **Use of personal information** ” below. In addition, personal information of Clients may also be obtained for the purpose of identifying clients through the various authentication requirements set out by FXORO in its Terms and Conditions. Clients’ personal information may also be authenticated by external and independent Credit Reference Agencies (who may keep a record of this information) for the purpose of fraud prevention. 
+In order for FXORO to provide its clients with the investment services, FXORO is required to collect, process and retain personal data of its clients in accordance with mandatory legal requirements. This includes, among others, your date of birth, your address, a certified photocopy of your national ID card, passport or other form of ID and a certified photocopy of a recent utility bill or other proof of address. 
 
-Personal information may also be collected by FXORO given the Clients’ use of the website. Such information will be stored in a Client’s personal file. Information collected via the use of the website may include pages viewed, frequency and duration of visits, types of transactions conducted, documents downloaded and other websites which may have referred Clients to FXORO’s website, or websites to which Clients link the FXORO website. 
+FXORO also collects and processes personal information about you that is necessary for it to provide you with its services, as listed below in the section “How do we use and share your personally identifiable information?” This includes information about you when you complete an online application or another type of form and when you access and trade through your FXORO account. Additionally, we may also obtain personal information as a result of authentication or identity checks, including checks with credit reference agencies (who may keep a record of the information) to prevent fraud. 
 
-By visiting the FXORO websites, the Client accepts and consents to the practices described in this Privacy Policy, including acceptance and consent to FXORO’s practice of collecting anonymous site statistics (including frequently visited pages and search requests) which FXORO may pass to trusted third parties. It is explicitly noted that the statistics collected in the manner described above never include any information that can identify any of FXORO’s clients personally. 
+FXORO may also derive information from your use of the FXORO websites and software client and may store this information with your personal profile. This information may include site areas visited, pages viewed, frequency and duration of visits, Internet Protocol (IP) address, computer identification parameters, types of transactions conducted, documents downloaded, mouse clicks, mouse movements, scrolling activity as well as text you type in this website and which website referred you to ours or to which websites you link. 
 
 **Links**
 
-FXORO’s Privacy Policy does not extend to other websites to which a Client may be linked through by visiting FXORO’s website. FXORO is not, in any way, responsible for any personal information that may be submitted by its Clients to any third parties through its website. 
+When you use the FXORO websites, you may be able to link to other websites. This Privacy & Security Policy does not apply to those other sites which we link to and FXORO is not responsible for any personal information collected by third parties via those other sites. 
 
-**Handling of personal information**
+**Processing of personal information**
 
-FXORO employees are committed to complying with very strict standards of confidentiality in the process of handling personal information. For this reason, the accessing of personal information is prohibited for FXORO employees, with the exception of those employees who are in charge for the handling and processing of such information. 
+Access to personal information is restricted to those employees, partners, contractors and affiliates of FXORO (including without limitations, parent, sister and subsidiary companies) who need to access such information for the purposes described in this policy. Those with access to personal information are obligated to comply with strict standards of confidentiality when managing personal and other data. 
 
 **Security**
 
-FXORO takes all steps reasonably possible to ensure that the appropriate safeguards are maintained and that the privacy of the Client’s data and/or personal information that the Client is secured and not misused in any way. Measures and safeguards taken by FXORO ensure that the data is encrypted during their transmission, that the proper authentication mechanism are in place, and that all machines and data are kept separate for the provision of secure areas. 
+FXORO makes efforts to maintain the appropriate safeguards in order to ensure that the security, integrity and privacy of the data and personal information that you have provided is not misused. Such measures and safeguards include encryption during data transmission, strong authentication mechanisms and the separation of machines and data to provide secure areas. While such systems and procedures reduce the risk of security breaches, they do not provide absolute security. Therefore FXORO cannot guarantee that our service will be immune from any wrongdoings, malfunctions, unlawful interceptions or unauthorized access to the information stored therein and to other information security risks, or that your private communications on or through our service will remain private. 
 
-**Use of personal information**
+**How do we use and share anonymous statistical information?**
 
-Anonymous statistical information concerning its Clients is collected by FXORO. This procedure ensures that the needs of FXORO’s clients are met through the intensive monitoring and constant improving the services offered by FXORO to its Clients. 
+FXORO collects anonymous statistical information in order to ensure that it meets the needs of its clients. By collecting such data, FXORO is able to monitor and improve the services which it offers to its existing and potential clients. We may share such information third parties. 
 
-Personal information is collected by FXORO for the following uses: 
+**How do we use and share your personally identifiable information?**
 
-  
-
-  * The provision of survives to Clients, including the processing of transactions;
-  
-
-  * The confirmation of Clients’ identity;
-  
-
-  * The assessment of Clients’ suitability in relation to the products and services provided by FXORO.
-  
-
-  * Maintaining the Clients’ personal profile;
-  
-
-  * The general management of Clients’ Accounts;
-  
-
-  * The personal contact with Clients to ensure that Clients are informed where necessary or appropriate in relation to the services being provided to them;
-  
-
-  * Keeping Clients constantly up-to-date with regards to their trading activities with FXORO;
-  
-
-  * The management and administrations of products provided by FXORO to its Clients;
-  
-
-  * The personalization of the website to meet the needs and interests of FXORO’s Clients and the improvement and creation of new products and services that may be of interest to the Client;
-  
-
-  * The gathering of statistical data for the purposes described above, which in no way identify a Client personally.
-
-
-
-By registering with FXORO, the Clients will also be given the opportunity to accept or reject a subscription to the following services, for the purpose of Marketing:
+FXORO may use your personal information and share it with partners contractors, service providers, advisors, transaction processors and affiliates of FXORO (including parent, sister and subsidiary companies) (the “ **Partners** ”) for the following purposes only, or subject to your explicit consent: 
 
   
 
-  * the provision to the Client of information on the products and services offered by FXORO;
+  * to provide you the services that you have requested including processing transactions;
   
 
-  * the provision to the Client of information regarding opportunities that FXORO believes may be relevant to the Client. 
-
-
-
-FXORO does not sell or otherwise transmit its Clients’ personal information to third parties for marketing purposes. 
-
-**Unsubscribing**
-
-At all times, the Clients will be given the option to unsubscribe from any marketing services to which they previously subscribed, by clicking the relevant link at the bottom of the respective service’s e-mail. 
-
-**Transmission of data in the European Economic Area**
-
-Customer registration with FXORO means the Clients consent to the disclosure and transfer of their personal information by FXORO within the European Economic Area (“EEA”) to the following institutions and solely for the following purposes:
-
-  * Financial institutions and other similar organisations that, in the course of executing Client orders, liaise with FXORO;
+  * to confirm your identity;
   
 
-  * Financial institutions and other similar organisations that, in the course of executing Client orders, are nominated by the Clients; 
+  * to assess your suitability to the products and services we provide;
   
 
-  * External service providers and professional advisors that provide services to FXORO in order to enable FXORO to provide the services the Clients request;
+  * to maintain your personal profile;
   
 
-  * At the Clients’ request, any Organization or any persons acting on behalf of the Clients, including but not limited to financial advisors, brokers, solicitors or accountants;
+  * to manage your account;
   
 
-  * Third parties that may process transactions or provide services requested by the Clients; or
+  * to contact you when necessary or appropriate in relation to the services being provided to you, including via a third party mailing platform;
   
 
-  * Any local or international authority that may request any such information from FXORO.
+  * to keep you updated while you are a client in relation to matters such as contracts you have traded and activities of FXORO;
+  
+
+  * to manage and administer the products and services provided to you;
+  
+
+  * for marketing purposes, including, but not limited to providing you with information regarding the products and services offered by FXORO and its Partners;
+  
+
+  * to develop an understanding of the products and services that you may be interested in obtaining from FXORO and to tailor the website to your needs and interests;
+  
+
+  * to create impersonalized statistical data;
+  
+
+  * to conduct surveys and questionnaires;
+  
+
+  * to enforce the governing terms and conditions;
+  
+
+  * if FXORO believes that you have breached the governing terms and conditions, or abused your rights to use the services, or performed any act or omission that FXORO believes to be violating any applicable law, rules, or regulations, then FXORO may share your information with law enforcement agencies and other competent authorities as well as with other third parties, as may be required;
+  
+
+  * if FXORO is required, or believes that it is required by law to share or disclose your information to financial authorities or to any other third party;
+  
+
+  * In any case of dispute, or legal proceeding of any kind between you and FXORO, or between you and other clients or third parties with respect to, or in relation with the services FXORO provides;
+  
+
+  * In any case where FXORO believes that sharing information is necessary to prevent imminent physical harm or damage to property;
+  
+
+  * If FXORO organizes the operation of its services within a different framework, or through another legal structure or entity, or if FXORO is acquired by, or merged with another entity, provided however, that those entities agree to be bound by the provisions of this policy, with respective changes taken into consideration;
+  
+
+**Choice and opt-out**
+
+In the registration process with FXORO as a client, you will be given the option to opt-out of subscribing to the following additional services:
+
+  * Marketing services, which provides you with information regarding the products and services offered by FXORO or its partners; and opportunities that we believe may be relevant to you;Client orders, liaise with FXORO;
+  
+
+  * Newsletters;
+  
+
+  * SMS (text) messages;
+  
+
+  * Other electronic communications.
 
 
 
-Information will be disclosed by FXORO to the above institutions only where it is satisfied that ate any particular case separately, the said institutes provide the proper safeguards for data protection. 
+If you no longer wish to receive the above mentioned communications, you may opt-out of receiving them by following the instructions included in each communication. 
 
-**Transmission of data to third parties**
+**Transfer of data to third countries**
 
-By completing the registration procedure, Clients are deemed to consent to the transmission of their personal data to countries which are not Member States of the EEA. Transmission under these circumstances is only effected where the transmission of such data is permitted by law and the laws of the third country in question ensure an adequate level of protection with respect to the processing of the personal data transferred. 
+Personal data may be transferred by FXORO to third parties in European Economic Area Member States as well as to non-European Economic Area Member States for the purposes described in this policy. You give your express and unambiguous consent to such transfer. 
 
-**Client Information Update**
+**Updating your information**
 
-The Client may, at any time, inform FXORO that their personal details have changed or that the Clients wishes for FXORO to delete their personal information from its files, by sending an e-mail to 
+You may inform FXORO at any time that your personal details have changed or that you wish FXORO to delete personal information we hold about you by emailing us at 
 
 [cs@fxoro.com](mailto:cs@fxoro.com)
 
-. Where FXORO is not obliged to hold such information due to regulatory or legal obligations, or where the information is necessary for the adequate provision of its services, FXORO will change or delete its Clients’ information upon such request. 
+. We will change or delete your personal information in accordance with your instructions, except to the extent that we are required to hold your personal information for regulatory or legal purposes, to provide you with the services you have requested or to maintain adequate business records. In any case, FXORO may keep any aggregated or anonymized information for the purposes described in this Privacy and Security Policy, indefinitely. 
 
 **Cookies**
 
-Upon registration, Clients must use FXORO’s software for trading purposes. The said software enables FXORO to use cookies in relation to the Clients’ access to its website. (For information purposes, the Client is informed that Cookies are small files of information, which often include a unique identification number or value, which, due to the use of FXORO’s software and accessing FXORO’s websites, are stored on the Clients’ computer). 
+Cookies are small files of information, which often include a unique identification number or value, which are stored on your computer's hard drive as a result of your use of the FXORO trading software and/or access of the FXORO websites. 
 
-FXORO uses session ID cookies and persistent cookies. Session ID cookie expire upon closing the browser. Persistent cookies remain on the Clients’ hard drive for an extended period of time. These Persistent cookies are used by FXORO for statistical purposes, for tracking and targeting the location and interests of users, and for enhancing the services provided by FXORO. Persistent cookies may be removed as per the instructions in each Internet browser’s “help” file. 
+We use both session ID cookies and persistent cookies. A session ID cookie expires when you close your browser. A persistent cookie remains on your hard drive for an extended period of time. 
 
-**Client’s rights**
+We set a persistent cookie for statistical purposes. Persistent cookies also enable us to track and target the location and the interests of our users and to enhance the experience of our services on our site. 
 
-Clients are under no obligation to provide FXORO with any of their personal data. However, non-provision of the requested information may mean that FXORO will be forced to reject Clients’ applications for opening an account with FXORO, or will not be able to provide a Client with any services, information, assistance, or be in a position to improve the services requested and provided by FXORO. 
+You can remove persistent cookies by following directions provided in your Internet browser's "help" file. If you do not wish to receive cookies altogether, you may be able to change the settings of your browser to refuse all cookies or to have your computer notify you each time a cookie is sent to it, and thereby give yourself the choice whether to accept it or not. However, this may impair the quality of the services that we provide to you in relation to your account. Some persistent cookies, such as Flash cookies, cannot be removed and cannot be blocked by changing your browser's settings. 
 
-**Changes**
+**Some persistent cookies will not be removed or blocked by your internet browser. If you wish to disable all cookies, please send a request to[ cs@fxoro.com](mailto:cs@fxoro.com).**
 
-FXORO reserves the right to make, from time to time, alterations, additions or deletions to its Privacy Policy, for any reason. Clients will be notified of such changes through the FXORO website, where the most updated version of the Privacy Policy will be posted. It is the Clients’ responsibility to stay constantly informed of the Privacy Policy. Where a Client uses the FXORO website after such changes to the Privacy Policy, the Client is deemed to have consented to the said changes. 
+**Remarketing with Google Analytics**
 
-**Contact**
+We may use the information we collect to assist us in delivering relevant ads to you (Remarketing). Remarketing is a way for us to connect with our websites and ads visitors, based upon their past interactions with our website and ads. Third-party marketing vendors may be hired by FXORO to perform such remarketing services. As a result, third-party vendors, including Google, may show FXORO’s ads on internet sites. Such third-party vendors, including Google, may also use their cookies, third party cookies and similar technologies to serve ads based on a visitor’s prior visits to FXORO's website. 
 
-For any issues which have not been expressly addressed in this Privacy Policy, the laws of Cyprus apply. Where a Client wishes to contact FXORO for the purpose of submitting a comment, or complaint, or communicate the alleged infringement of their privacy rights, the Client may contact FXORO by e-mail at 
+You may opt out of Google Analytics for Display Advertisers and opt out of customized Google Display Network ads by visiting [Google’s Ads Preferences Manager](http://www.google.com/settings/ads/onweb/?sig=ACi0TCiRDcnrXrdffABE6Nifr9QppTwHkj_NTB8gd0FaMd9YV_wg5YIp3OvYIp-y-pdTWNhIhLjQXh6TyIek2jcL233J8XokduMKuR1N-zHOJP2Ls6zIAM_wKkwTu-xTmML-Aucg-KSrCOB6oLAL11n-sPX9rEefGBMsmC7iVBTJsDKZmWkr3jnzCeVGR-wzwiV8cGO96yfR&hl=en). You are also encouraged to visit [Google Analytics Opt-out Browser Add-on](http://tools.google.com/dlpage/gaoptout/). 
 
-[cs@fxoro.com](mailto:cs@fxoro.com)
+For further information you can also visit [Google’s privacy center](http://www.google.com/policies/privacy/). 
 
-, or directly contact one of our customer service representatives on telephone number +357-25-20-5555 , or fax number +357-25-37-8131.   
+**What are your rights?**
 
+You do not have to provide us with any of the personal data requested by FXORO. However, without providing the information requested in the application form, FXORO may not be able to open an account for you, or to provide you with any other services, information or assistance you have sought or evaluate the appropriateness of the service you are requesting. 
+
+**Enforcement**
+
+FXORO is doing its utmost to comply with this Privacy and Security Policy. If you have any questions, concerns or complaints regarding this Privacy and Security Policy and the enforcement thereof, please refer them to: [support@FXORO.com](mailto:support@FXORO.com). After receiving your complaint, FXORO may contact you to better understand your concerns and will make all efforts to promptly answer your question, or resolve your complaint to your full satisfaction. 
+
+**Amendments to policy**
+
+FXORO may change and update the terms of this Privacy and Security Policy from time to time. All changes will take effect seven (7) days after their initial posting on the Website, unless FXORO amends the Privacy and Security Policy to comply with legal or regulatory requirements. In the latter cases the amendments will become effective as required, or ordered. 
+
+**Governing Law**
+
+In respect of issues not addressed in the present Privacy and Security Policy, the law of Cyprus will apply. 
