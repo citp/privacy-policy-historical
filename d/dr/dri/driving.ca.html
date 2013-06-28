@@ -1,9 +1,9 @@
-<!--The following is the downloaded HTML source of the driving.ca privacy policy that was archived on 2012-12-31.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121231171541id_/http%3A//www.canada.com/aboutus/privacy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the driving.ca privacy policy that was archived on 2013-06-28.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130628163001id_/http%3A//www.canada.com/aboutus/privacy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 <!-- this script must be the first element in the head -->
-<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script src="https://sso.canada.com/sso.js" type="text/javascript"></script>
+<script async="" src="https://sb.scorecardresearch.com/beacon.js"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script src="https://sso.canada.com/sso.js" type="text/javascript"></script>
 <script type="text/javascript">
 	JANRAIN.SSO.CAPTURE.check_login({
 		sso_server: 'https://sso.canada.com',
@@ -72,6 +72,22 @@
                         function getCookies() { return ""; }
                         </script>
                         <script type="text/javascript">
+
+                        function get_aamCookie(c_name)
+                        {
+                        var i,x,y,ARRcookies=document.cookie.split(";");
+                        for (i=0;i<ARRcookies.length;i++)
+                           {
+                           x=ARRcookies[i].substr(0,ARRcookies[i].indexOf("="));
+                           y=ARRcookies[i].substr(ARRcookies[i].indexOf("=")+1);
+                           x=x.replace(/^\s+|\s+$/g,"");
+                           if (x==c_name)
+                              {
+                              return unescape(y);
+                              }
+                           }
+                        }
+
                         Array.prototype.uniqueAry = function ()
                         {
                             var r = new Array();
@@ -156,14 +172,26 @@
 
                         //Setup for adcookie.
                         var adcookieTag = getAdCookie(); // Get the ad cookie string
+
                         </script>
                     
                         <script type="text/javascript">
-                        adcookieTag = typeof(adcookieTag) != 'undefined' ? adcookieTag : '';
+                        adcookieTag = typeof(adcookieTag) != 'undefined' ? adcookieTag : '';                        
                         dartad_tile = typeof(dartad_tile) != 'undefined' ? dartad_tile + 1 : 1;
-                        var dartad_url = "http://ad.ca.doubleclick.net/N3081/adj/ccn.com/aboutus/privacy;loc=theTop;loc=top;sz=468x60,728x90;dcopt=ist;kw=ron;kw=aboutus;nk=ccn;pr=ccn;ck=aboutus;page=privacy;tile="+dartad_tile+";"+adcookieTag+surroundTag+"ord=54099213?"; // script ad code with adcookie, used for debug
-                        document.write('<script language="JavaScript1.1" src="http://ad.ca.doubleclick.net/N3081/adj/ccn.com/aboutus/privacy;loc=theTop;loc=top;sz=468x60,728x90;dcopt=ist;kw=ron;kw=aboutus;nk=ccn;pr=ccn;ck=aboutus;page=privacy;tile='+dartad_tile+';'+adcookieTag+surroundTag+'ord=54099213?"><\/script>');
-                        </script><script language="JavaScript1.1" src="http://ad.ca.doubleclick.net/N3081/adj/ccn.com/aboutus/privacy;loc=theTop;loc=top;sz=468x60,728x90;dcopt=ist;kw=ron;kw=aboutus;nk=ccn;pr=ccn;ck=aboutus;page=privacy;tile=1;ord=54099213?"></script>
+                        
+                        var adtag = get_aamCookie('aam_adtag');
+                        var uuid = get_aamCookie('aam_uuid');
+                        adtag = typeof adtag != 'undefined' ? adtag : '';
+                        uuid = typeof uuid != 'undefined' ? uuid : '';
+
+                        var dartad_url = "http://ad.ca.doubleclick.net/N3081/adj/ccn.com/aboutus/privacy;loc=theTop;loc=top;sz=468x60,728x90;dcopt=ist;kw=ron;kw=aboutus;nk=ccn;pr=ccn;ck=aboutus;page=privacy;tile='+dartad_tile+';'+adcookieTag+surroundTag+adtag+';u='+uuid+';ord=37723859?"; // script ad code with adcookie, used for debug
+                        
+                        if (adtag != '' && adtag != null && uuid != '' && uuid != null)
+                            document.write('<script language="JavaScript1.1" src="http://ad.ca.doubleclick.net/N3081/adj/ccn.com/aboutus/privacy;loc=theTop;loc=top;sz=468x60,728x90;dcopt=ist;kw=ron;kw=aboutus;nk=ccn;pr=ccn;ck=aboutus;page=privacy;tile='+dartad_tile+';'+adcookieTag+surroundTag+adtag+';u='+uuid+';ord=37723859?"><\/script>');
+                        else
+                            document.write('<script language="JavaScript1.1" src="http://ad.ca.doubleclick.net/N3081/adj/ccn.com/aboutus/privacy;loc=theTop;loc=top;sz=468x60,728x90;dcopt=ist;kw=ron;kw=aboutus;nk=ccn;pr=ccn;ck=aboutus;page=privacy;tile='+dartad_tile+adcookieTag+surroundTag+';ord=37723859;"><\/script>');
+                        
+                        </script><script language="JavaScript1.1" src="http://ad.ca.doubleclick.net/N3081/adj/ccn.com/aboutus/privacy;loc=theTop;loc=top;sz=468x60,728x90;dcopt=ist;kw=ron;kw=aboutus;nk=ccn;pr=ccn;ck=aboutus;page=privacy;tile=1;ord=37723859;"></script>
                     
                         <script type="text/javascript">
                         if(adid != "") // check if the ad should start a surround session only if a surround session has not yet started
@@ -173,7 +201,7 @@
                         }
                         </script>
                         <noscript>
-			    <a target="_blank" href="http://ad.ca.doubleclick.net/N3081/jump/ccn.com/aboutus/privacy;loc=theTop;loc=top;sz=468x60,728x90;dcopt=ist;kw=ron;kw=aboutus;nk=ccn;pr=ccn;ck=aboutus;page=privacy;ord=54099213?"><img align="TOP" border="0" vspace="0" hspace="0" src="http://ad.ca.doubleclick.net/N3081/ad/ccn.com/aboutus/privacy;loc=theTop;loc=top;sz=468x60,728x90;dcopt=ist;kw=ron;kw=aboutus;nk=ccn;pr=ccn;ck=aboutus;page=privacy;ord=54099213?" /></a>
+			    <a target="_blank" href="http://ad.ca.doubleclick.net/N3081/jump/ccn.com/aboutus/privacy;loc=theTop;loc=top;sz=468x60,728x90;dcopt=ist;kw=ron;kw=aboutus;nk=ccn;pr=ccn;ck=aboutus;page=privacy;ord=37723859?"><img align="TOP" border="0" vspace="0" hspace="0" src="http://ad.ca.doubleclick.net/N3081/ad/ccn.com/aboutus/privacy;loc=theTop;loc=top;sz=468x60,728x90;dcopt=ist;kw=ron;kw=aboutus;nk=ccn;pr=ccn;ck=aboutus;page=privacy;ord=37723859?" /></a>
                 </noscript>
 </div>
 
@@ -221,7 +249,6 @@
 							<option value="http://www.windsorstar.com/">Windsor Star</option>
 							<option value="http://www.ottawacitizen.com/">Ottawa Citizen</option>
 							<option value="http://www.montrealgazette.com/">The Gazette (Montreal)</option>
-							<option value="http://www.dose.ca/">DOSE</option>
 							<option value="http://www.canada.com/postmediacommunitypublishing/">Postmedia Community Publishing</option>
 							<option value="http://www.canada.com/nanaimodailynews/">Nanaimo Daily News</option>
 						</select>
@@ -306,9 +333,7 @@
 				
 			</ul></ul></form></div>
 			<div class="clear">&nbsp;</div>
-				<ul class="ypg">
-					<li><a href="http://canadacom.yellowpages.ca"><span>Find a business or person</span></a></li>
-				</ul>
+				
 			<!-- headersearch ends -->
 		</div>
 		<!-- headersearch ends -->
@@ -346,11 +371,6 @@
 <!-- legoctl: ctl02 --><!-- CACHE HIT: syndication1 -->
 <!-- Source="1194660.atom" --><ul class="bullet on">
   <li>
-    <a href="http://www.canada.com/life/theholidayguide12/index.html">
-      <span>Holiday Guide</span>
-    </a>
-  </li>
-  <li>
     <a href="http://www.canada.com/news/postmedia/index.html">
       <span>Happening Now</span>
     </a>
@@ -376,18 +396,8 @@
     </a>
   </li>
   <li>
-    <a href="http://www.canada.com/entertainment/tiff12/index.html">
-      <span>TIFF 2012</span>
-    </a>
-  </li>
-  <li>
-    <a href="/olympics">
-      <span>Olympics 2012</span>
-    </a>
-  </li>
-  <li>
-    <a href="http://www.canada.com/euro2012/">
-      <span>Euro 2012</span>
+    <a href="http://www.canada.com/news/oddities/index.html">
+      <span>Oddities</span>
     </a>
   </li>
   <li>
@@ -398,11 +408,6 @@
   <li>
     <a href="http://www.canada.com/life/fashionshows/index.html">
       <span>Fashion Shows</span>
-    </a>
-  </li>
-  <li>
-    <a href="http://www.canada.com/news/oddities/index.html">
-      <span>Oddities</span>
     </a>
   </li>
   <li>
@@ -480,7 +485,6 @@
 								<li id="food"><a href="/life/food/index.html"><span>Food</span></a></li>
 								<li id="parenting"><a href="/life/parenting/index.html"><span>Parenting</span></a></li>
 								<li id="relationships"><a href="/life/relationships/index.html"><span>Relationships</span></a></li>
-								<li id="diversions"><a href="/life/diversions/index.html"><span>Diversions</span></a></li>
 								<li id="lotteries"><a href="http://www2.canada.com/findit/lotteries/index.html"><span>Lotteries</span></a></li>
 								<li id="summerguide"><a href="/life/summer-guide2010/"><span>Summer Guide</span></a></li>
 								<li id="astrology" class="lastlink"><a href="http://www2.canada.com/topics/lifestyle/astrology/index.html"><span>Astrology</span></a></li>
@@ -508,13 +512,10 @@
 						<li id="technology" class="mainnav lastlink">
 							<a class="navitem" href="/technology/index.html"><span>Technology</span></a>
 							<ul class="subnav">
-								<li id="youtube"><a href="/technology/youtube/index.html"><span>Best of YouTube</span></a></li>
-								<li id="gaming" class="lastlink"><a href="/technology/gaming/index.html"><span>Gaming</span></a></li>
-								<li id="science"><a href="/technology/science/index.html"><span>Science</span></a></li>
+								<li id="gaming" class="lastlink"><a href="/technology/gaming/index.html"><span>Gaming</span></a></li>						
                                 <li id="internet"><a href="/technology/internet/index.html"><span>Internet</span></a></li>
 								<li id="tech-biz"><a href="/technology/tech-biz/index.html"><span>Tech–Biz</span></a></li>
 								<li id="space"><a href="/technology/space/index.html"><span>Space</span></a></li>
-								<li id="environment"><a href="/technology/environment/index.html"><span>Environment</span></a></li>
 								<li id="personal-tech"><a href="/technology/personal-tech/index.html"><span>Personal Tech</span></a></li>
 
 
@@ -628,12 +629,12 @@ By submitting your personal information, subscribing to our services or products
 			</div>
 			<!-- section_title ends-->
 			<div class="clear">&nbsp;</div>
-			<p class="content">Western Canada (Times Colonist, The Vancouver Sun, The Province, Calgary Herald, Edmonton Journal):  <a href="mailto:WesternPrivacyOfficer@postmedia.com">WesternPrivacyOfficer@postmedia.com</a></p>
+			<p class="content">Western Canada (The Vancouver Sun, The Province, Calgary Herald, Edmonton Journal):  <a href="mailto:WesternPrivacyOfficer@postmedia.com">WesternPrivacyOfficer@postmedia.com</a></p>
 			<div class="clear">&nbsp;</div>
 			
 			<p class="content">Eastern Canada (Leader-Post, StarPhoenix, National Post, Ottawa Citizen, The Windsor Star, The Gazette):  <a href="mailto:EasternPrivacyOfficer@postmedia.com">EasternPrivacyOfficer@postmedia.com</a> </p>
 			<div class="clear">&nbsp;</div>
-			<p class="content">Digital Media (canada.com, dose.ca, FPinfomart.ca): <a href="mailto:PDPrivacyOfficer@postmedia.com">PDPrivacyOfficer@postmedia.com</a> </p>
+			<p class="content">Digital Media (canada.com, FPinfomart.ca): <a href="mailto:PDPrivacyOfficer@postmedia.com">PDPrivacyOfficer@postmedia.com</a> </p>
 			<div class="clear">&nbsp;</div>
 			<p class="content">Corporate: <a href="mailto:CorporatePrivacyOfficer@postmedia.com">CorporatePrivacyOfficer@postmedia.com</a></p>
 			<div class="clear">&nbsp;</div>
@@ -648,7 +649,7 @@ By submitting your personal information, subscribing to our services or products
 		Toronto, Ontario M3B 2X7<br>
 	<div class="clear">&nbsp;</div>
 	<p class="content">
-	Updated: January 10, 2012
+	Updated: April 30, 2013 
 </p>
 			
 		</div>
@@ -667,11 +668,22 @@ By submitting your personal information, subscribing to our services or products
 <!-- legoctl: ctl03 --><!-- NO CACHE: dartad2 -->
 
                         <script type="text/javascript">
-                        adcookieTag = typeof(adcookieTag) != 'undefined' ? adcookieTag : '';
+                        adcookieTag = typeof(adcookieTag) != 'undefined' ? adcookieTag : '';                        
                         dartad_tile = typeof(dartad_tile) != 'undefined' ? dartad_tile + 1 : 1;
-                        var dartad_url = "http://ad.ca.doubleclick.net/N3081/adj/ccn.com/aboutus/privacy;loc=top_box;loc=top;sz=250x250,300x250,300x600;kw=ron;kw=aboutus;nk=ccn;pr=ccn;ck=aboutus;page=privacy;tile="+dartad_tile+";"+adcookieTag+surroundTag+"ord=54099213?"; // script ad code with adcookie, used for debug
-                        document.write('<script language="JavaScript1.1" src="http://ad.ca.doubleclick.net/N3081/adj/ccn.com/aboutus/privacy;loc=top_box;loc=top;sz=250x250,300x250,300x600;kw=ron;kw=aboutus;nk=ccn;pr=ccn;ck=aboutus;page=privacy;tile='+dartad_tile+';'+adcookieTag+surroundTag+'ord=54099213?"><\/script>');
-                        </script><script language="JavaScript1.1" src="http://ad.ca.doubleclick.net/N3081/adj/ccn.com/aboutus/privacy;loc=top_box;loc=top;sz=250x250,300x250,300x600;kw=ron;kw=aboutus;nk=ccn;pr=ccn;ck=aboutus;page=privacy;tile=2;ord=54099213?"></script>
+                        
+                        var adtag = get_aamCookie('aam_adtag');
+                        var uuid = get_aamCookie('aam_uuid');
+                        adtag = typeof adtag != 'undefined' ? adtag : '';
+                        uuid = typeof uuid != 'undefined' ? uuid : '';
+
+                        var dartad_url = "http://ad.ca.doubleclick.net/N3081/adj/ccn.com/aboutus/privacy;loc=top_box;loc=top;sz=250x250,300x250,300x600;kw=ron;kw=aboutus;nk=ccn;pr=ccn;ck=aboutus;page=privacy;tile='+dartad_tile+';'+adcookieTag+surroundTag+adtag+';u='+uuid+';ord=37723859?"; // script ad code with adcookie, used for debug
+                        
+                        if (adtag != '' && adtag != null && uuid != '' && uuid != null)
+                            document.write('<script language="JavaScript1.1" src="http://ad.ca.doubleclick.net/N3081/adj/ccn.com/aboutus/privacy;loc=top_box;loc=top;sz=250x250,300x250,300x600;kw=ron;kw=aboutus;nk=ccn;pr=ccn;ck=aboutus;page=privacy;tile='+dartad_tile+';'+adcookieTag+surroundTag+adtag+';u='+uuid+';ord=37723859?"><\/script>');
+                        else
+                            document.write('<script language="JavaScript1.1" src="http://ad.ca.doubleclick.net/N3081/adj/ccn.com/aboutus/privacy;loc=top_box;loc=top;sz=250x250,300x250,300x600;kw=ron;kw=aboutus;nk=ccn;pr=ccn;ck=aboutus;page=privacy;tile='+dartad_tile+adcookieTag+surroundTag+';ord=37723859;"><\/script>');
+                        
+                        </script><script language="JavaScript1.1" src="http://ad.ca.doubleclick.net/N3081/adj/ccn.com/aboutus/privacy;loc=top_box;loc=top;sz=250x250,300x250,300x600;kw=ron;kw=aboutus;nk=ccn;pr=ccn;ck=aboutus;page=privacy;tile=2;ord=37723859;"></script>
                     
                         <script type="text/javascript">
                         if(adid != "") // check if the ad should start a surround session only if a surround session has not yet started
@@ -681,7 +693,7 @@ By submitting your personal information, subscribing to our services or products
                         }
                         </script>
                         <noscript>
-			    <a target="_blank" href="http://ad.ca.doubleclick.net/N3081/jump/ccn.com/aboutus/privacy;loc=top_box;loc=top;sz=250x250,300x250,300x600;kw=ron;kw=aboutus;nk=ccn;pr=ccn;ck=aboutus;page=privacy;ord=54099213?"><img align="TOP" border="0" vspace="0" hspace="0" src="http://ad.ca.doubleclick.net/N3081/ad/ccn.com/aboutus/privacy;loc=top_box;loc=top;sz=250x250,300x250,300x600;kw=ron;kw=aboutus;nk=ccn;pr=ccn;ck=aboutus;page=privacy;ord=54099213?" /></a>
+			    <a target="_blank" href="http://ad.ca.doubleclick.net/N3081/jump/ccn.com/aboutus/privacy;loc=top_box;loc=top;sz=250x250,300x250,300x600;kw=ron;kw=aboutus;nk=ccn;pr=ccn;ck=aboutus;page=privacy;ord=37723859?"><img align="TOP" border="0" vspace="0" hspace="0" src="http://ad.ca.doubleclick.net/N3081/ad/ccn.com/aboutus/privacy;loc=top_box;loc=top;sz=250x250,300x250,300x600;kw=ron;kw=aboutus;nk=ccn;pr=ccn;ck=aboutus;page=privacy;ord=37723859?" /></a>
                 </noscript>
 </div>
 
@@ -720,33 +732,33 @@ By submitting your personal information, subscribing to our services or products
 <!-- legoctl: ctl04 --><!-- CACHE HIT: syndication3 -->
 <!-- Source="/scripts/mostpopular.aspx?stattype=story&catalog=all" --><ul class="bullet">
   <li>
-    <a href="/news/Canada+remains+undefeated+after+over/7757998/story.html">
-      <span>Canada remains undefeated after 2-1 win over U.S.</span>
+    <a href="/news/Alberta+flooding+unlikely+stymie+federal+plans+slay+deficit/8589407/story.html">
+      <span>Alberta flooding unlikely to stymie federal plans to slay deficit</span>
     </a>
   </li>
   <li>
-    <a href="/news/Canada+remains+undefeated+after+over/7757960/story.html">
-      <span>Canada remains undefeated after 2-1 win over U.S.</span>
+    <a href="/news/Hell+Residents+angry+RCMP+seize+guns+from+High+River+homes+with+video/8588851/story.html">
+      <span>‘Hell to pay:’ Residents angry as RCMP seize guns from High River homes (with video)</span>
     </a>
   </li>
   <li>
-    <a href="/news/Clark+warns+Canada+First+Nations+headed+dangerous+direction/7758100/story.html">
-      <span>Ex-PM Joe Clark warns Canada, First Nations headed in 'dangerous direction'</span>
+    <a href="/news/Smoke+mirrors+cloak+carbon+emissions+bottom+line/8588236/story.html">
+      <span>Smoke and mirrors cloak carbon emissions bottom line</span>
     </a>
   </li>
   <li>
-    <a href="/news/Winter+storm+blasts+Maritimes+with+blowing+snow+rain+thousands+lose+power/7758193/story.html">
-      <span>Winter storm blasts Maritimes with blowing snow, rain; thousands lose power</span>
+    <a href="/news/Boston+beat+Toronto+Blue+Jays+Chien+Ming+Wang/8589995/story.html">
+      <span>Boston Red Sox beat up on Toronto Blue Jays’ Chien-Ming Wang</span>
     </a>
   </li>
   <li>
-    <a href="/news/After+Crossfire+UPDATED+Santos+Velasquez/7757588/story.html">
-      <span>After The Crossfire – UPDATED – UFC 155: Dos Santos vs Velasquez II</span>
+    <a href="/news/wasn+appointed+just+rubber+stamp+everything+senator/8588704/story.html">
+      <span>‘I wasn’t appointed just to rubber-stamp everything’: B.C. senator</span>
     </a>
   </li>
   <li>
-    <a href="/news/Fans+juniors+span+Canada+embraced/7758608/story.html">
-      <span>Fans of juniors span Canada, embraced by Ufa</span>
+    <a href="/news/tips+healthy+summer+eating/8582610/story.html">
+      <span>10 tips for healthy summer eating</span>
     </a>
   </li>
 </ul>
@@ -762,7 +774,24 @@ By submitting your personal information, subscribing to our services or products
 				<div class="content content_02">
 					<div id="syndication4">
 <!-- legoctl: ctl05 --><!-- CACHE HIT: syndication4 -->
-<!-- Source="/scripts/mostpopular.aspx?stattype=email&catalog=all" --></div>
+<!-- Source="/scripts/mostpopular.aspx?stattype=email&catalog=all" --><ul class="bullet">
+  <li>
+    <a href="/Burgers+Canada/8587419/story.html">
+      <span>Burgers fit for Canada Day</span>
+    </a>
+  </li>
+  <li>
+    <a href="/Hell+Residents+angry+RCMP+seize+guns+from+High+River+homes+with+video/8588851/story.html">
+      <span>‘Hell to pay:’ Residents angry as RCMP seize guns from High River homes (with video)</span>
+    </a>
+  </li>
+</ul>
+<div class="clear">&nbsp;</div>
+<div class="morelinks">
+  <a href="">
+    <span>more</span>
+  </a> »
+		</div></div>
 
 				</div>
 				<!-- content ends -->
@@ -817,8 +846,17 @@ By submitting your personal information, subscribing to our services or products
 <div class="col_160">
 	<div class="col_140">
     	<div class="content">
-		<a href="http://www.canada.com/scripts/go.aspx?g=contests&amp;n=cc_WWSD_fromspotlight&amp;u=http%3A%2F%2Fwww.canada.com%2Flife%2Ftheholidayguide12%2Fquiz%2FWWSD%2Findex.html"><img src="http://www.canada.com/life/theholidayguide12/quiz/WWSD/images/WWSD_Tile_140x70.gif" border="0" height="70" width="140"></a>
+			<a href="http://www.canada.com/scripts/go.aspx?g=contests&amp;n=cc_LincolnonDVD_fromspotlight&amp;u=http%3A%2F%2Fwww.canada.com%2Fcontests%2FLincolnonDVD%2Fcontest.html"><img src="http://www.canada.com/contests/LincolnonDVD/images/LINCOLNDVD_PAPERS_140x70.gif" border="0" height="70" width="140"></a>
 		</div>
+	</div>
+</div>
+<div class="col_140">
+	<div class="content">
+		<span class="text">
+			<a href="http://www.canada.com/scripts/go.aspx?g=contests&amp;n=cc_LincolnonDVD_fromspotlight&amp;u=http%3A%2F%2Fwww.canada.com%2Fcontests%2FLincolnonDVD%2Fcontest.html">Enter for your chance to win a trip for 2 to Virginia!</a>
+		</span>
+	    <div class="clear">&nbsp;</div>
+		<div class="legacy"><span><a href="/contests/index.html"><span>More Contests and quizzes » </span></a></span></div>
 	</div>
 </div>
 
@@ -862,14 +900,14 @@ By submitting your personal information, subscribing to our services or products
             <div id="featurewidget" class="smallfeature">
               <div class="featurecontent">
                 <div class="newsimage">
-                  <a href="/sports/hockey/worldjuniors2013/Canada+defeats+Russia+advance+straight+semifinal/7760410/story.html">
-                    <img border="0" src="7760411.bin?size=140x95" alt="Dougie Hamilton; Ryan Murphy" title="Dougie Hamilton; Ryan Murphy">
+                  <a href="http://www.driving.ca/research-car/news/Motor+Mouth+Driving+Range+Rover+through/8592217/story.html">
+                    <img border="0" src="cms/binary/8592240.jpg?size=140x95" alt="David Booth excitedly manoeuvres a new Range Rover Sport through an obstacle course in a Boeing 747." title="David Booth excitedly manoeuvres a new Range Rover Sport through an obstacle course in a Boeing 747.">
                   </a>
                 </div>
                 <h3>
-                  <a href="/sports/hockey/worldjuniors2013/Canada+defeats+Russia+advance+straight+semifinal/7760410/story.html">
+                  <a href="http://www.driving.ca/research-car/news/Motor+Mouth+Driving+Range+Rover+through/8592217/story.html">
                     <span>
-                      <span>Canada defeats Russia to advance straight to semifinal</span>
+                      <span>Driving a Range Rover through a 747</span>
                     </span>
                   </a>
                 </h3>
@@ -888,14 +926,14 @@ By submitting your personal information, subscribing to our services or products
             <div id="featurewidget" class="smallfeature">
               <div class="featurecontent">
                 <div class="newsimage">
-                  <a href="/sports/hockey/worldjuniors2013/advances+junior+hockey+worlds+with+romp+over/7760217/story.html">
-                    <img border="0" src="7760190.bin?size=140x95" alt="Team USA teammates huddle before playing against Slovakia during first period IIHF World Junior Championships hockey action in Ufa, Russia on Monday, Dec. 31, 2012." title="Team USA teammates huddle before playing against Slovakia during first period IIHF World Junior Championships hockey action in Ufa, Russia on Monday, Dec. 31, 2012.">
+                  <a href="http://o.canada.com/2013/06/28/best-of-food-and-drink-this-week-55/">
+                    <img border="0" src="cms/binary/8592500.jpg?size=140x95" alt="Pineapple Passion Fruit Grilled Chicken, left, and Passion Fruit and Mint Panna Cotta" title="Pineapple Passion Fruit Grilled Chicken, left, and Passion Fruit and Mint Panna Cotta">
                   </a>
                 </div>
                 <h3>
-                  <a href="/sports/hockey/worldjuniors2013/advances+junior+hockey+worlds+with+romp+over/7760217/story.html">
+                  <a href="http://o.canada.com/2013/06/28/best-of-food-and-drink-this-week-55/">
                     <span>
-                      <span>U.S. romp Slovakia 9-3</span>
+                      <span>Best of food and drink this week</span>
                     </span>
                   </a>
                 </h3>
@@ -914,14 +952,14 @@ By submitting your personal information, subscribing to our services or products
             <div id="featurewidget" class="smallfeature">
               <div class="featurecontent">
                 <div class="newsimage">
-                  <a href="http://www.canada.com/life/theholidayguide12/Worldwide+helium+shortage+could+deflate+Year+party/7760322/story.html">
-                    <img border="0" src="7760340.bin?size=140x95" alt="Balloons" title="Balloons">
+                  <a href="http://www.househunting.ca/buying-homes/Gallery+Gated+estate+West+Vancouver/8580844/story.html">
+                    <img border="0" src="cms/binary/8580903.jpg?size=140x95" alt="2940 Mathers Avenue, Altamount, West Vancouver, BC" title="2940 Mathers Avenue, Altamount, West Vancouver, BC">
                   </a>
                 </div>
                 <h3>
-                  <a href="http://www.canada.com/life/theholidayguide12/Worldwide+helium+shortage+could+deflate+Year+party/7760322/story.html">
+                  <a href="http://www.househunting.ca/buying-homes/Gallery+Gated+estate+West+Vancouver/8580844/story.html">
                     <span>
-                      <span>Worldwide helium shortage could deflate NYE</span>
+                      <span>Gallery: Gated estate in West Vancouver -- $8.98M</span>
                     </span>
                   </a>
                 </h3>
@@ -940,14 +978,14 @@ By submitting your personal information, subscribing to our services or products
             <div id="featurewidget" class="smallfeature">
               <div class="featurecontent">
                 <div class="newsimage">
-                  <a href="http://www.canada.com/life/theholidayguide12/Gallery+Year/7760272/story.html">
-                    <img border="0" src="7760298.bin?size=140x95" alt="Red lips" title="Red lips">
+                  <a href="Video+Christian+Louboutin+defends+towering+heels/8592859/story.html">
+                    <img border="0" src="cms/binary/5236356.jpg?size=140x95" alt="Actress Victoria Raposo" title="Actress Victoria Raposo">
                   </a>
                 </div>
                 <h3>
-                  <a href="http://www.canada.com/life/theholidayguide12/Gallery+Year/7760272/story.html">
+                  <a href="Video+Christian+Louboutin+defends+towering+heels/8592859/story.html">
                     <span>
-                      <span>Gallery: New Year, New You</span>
+                      <span>Video: Christian Louboutin defends his towering heels</span>
                     </span>
                   </a>
                 </h3>
@@ -966,14 +1004,14 @@ By submitting your personal information, subscribing to our services or products
             <div id="featurewidget" class="smallfeature">
               <div class="featurecontent">
                 <div class="newsimage">
-                  <a href="http://www.driving.ca/research-car/news/photos/Gallery+drives+2012/7748599/story.html">
-                    <img border="0" src="7748665.bin?size=140x95" alt="2012 Audi R8 GT" title="2012 Audi R8 GT">
+                  <a href="http://o.canada.com/2013/06/27/seasonal-sips-pimms-cup-revisited/">
+                    <img border="0" src="cms/binary/8586700.jpg?size=140x95" alt="Pimm's Cup revisited" title="Pimm's Cup revisited">
                   </a>
                 </div>
                 <h3>
-                  <a href="http://www.driving.ca/research-car/news/photos/Gallery+drives+2012/7748599/story.html">
+                  <a href="http://o.canada.com/2013/06/27/seasonal-sips-pimms-cup-revisited/">
                     <span>
-                      <span>Gallery: Tim Yip's top 10 drives of 2012</span>
+                      <span>Seasonal Sips: Pimm's Cup revisited</span>
                     </span>
                   </a>
                 </h3>
@@ -992,14 +1030,14 @@ By submitting your personal information, subscribing to our services or products
             <div id="featurewidget" class="smallfeature">
               <div class="featurecontent">
                 <div class="newsimage">
-                  <a href="http://www.canada.com/life/theholidayguide12/Gallery+covetable+things+Pantone+Colour+year+Emerald/7752622/story.html">
-                    <img border="0" src="7753398.bin?size=140x95" alt="Pantone in fashion" title="Pantone in fashion">
+                  <a href="http://www.driving.ca/research-car/news/photos/Gallery+Classic+cars+block+Goodwood+auction/8581527/story.html">
+                    <img border="0" src="cms/binary/8581702.jpg?size=140x95" alt="1965 Ferrari 330GT" title="1965 Ferrari 330GT">
                   </a>
                 </div>
                 <h3>
-                  <a href="http://www.canada.com/life/theholidayguide12/Gallery+covetable+things+Pantone+Colour+year+Emerald/7752622/story.html">
+                  <a href="http://www.driving.ca/research-car/news/photos/Gallery+Classic+cars+block+Goodwood+auction/8581527/story.html">
                     <span>
-                      <span>Gallery: Pantone's colour of the year in fashion</span>
+                      <span>Gallery: Classic cars on the block at Goodwood auction</span>
                     </span>
                   </a>
                 </h3>
@@ -1018,14 +1056,14 @@ By submitting your personal information, subscribing to our services or products
             <div id="featurewidget" class="smallfeature">
               <div class="featurecontent">
                 <div class="newsimage">
-                  <a href="http://www.canada.com/life/theholidayguide12/Gallery+Five+dressy+casual+Year+outfits+guys/7748838/story.html">
-                    <img border="0" src="7749130.bin?size=140x95" alt="Five &quot;dressy casual&quot; New Year's Eve outfits for guys" title="Five &quot;dressy casual&quot; New Year's Eve outfits for guys">
+                  <a href="http://www.househunting.ca/buying-homes/Gallery+Rustic+beauty+Quebec/8580652/story.html">
+                    <img border="0" src="cms/binary/8580706.jpg?size=140x95" alt="740 Ch. Williams, Hemmingford - Canton, Quebec J0L1H0" title="740 Ch. Williams, Hemmingford - Canton, Quebec J0L1H0">
                   </a>
                 </div>
                 <h3>
-                  <a href="http://www.canada.com/life/theholidayguide12/Gallery+Five+dressy+casual+Year+outfits+guys/7748838/story.html">
+                  <a href="http://www.househunting.ca/buying-homes/Gallery+Rustic+beauty+Quebec/8580652/story.html">
                     <span>
-                      <span>Gallery: "Dressy casual" New Year's Eve outfits for guys</span>
+                      <span>Gallery: Rustic beauty in Quebec -- $999,995</span>
                     </span>
                   </a>
                 </h3>
@@ -1044,14 +1082,14 @@ By submitting your personal information, subscribing to our services or products
             <div id="featurewidget" class="smallfeature">
               <div class="featurecontent">
                 <div class="newsimage">
-                  <a href="http://www.driving.ca/driving+photo+galleries+2012/7732199/story.html">
-                    <img border="0" src="6503557.bin?size=140x95" alt="2012 Beijing International Automotive Exhibition" title="2012 Beijing International Automotive Exhibition">
+                  <a href="/travel/Edinburgh+always+braw+shindig/8526225/story.html">
+                    <img border="0" src="cms/binary/8440280.jpg?size=140x95" alt="Edinburgh Castle." title="Edinburgh Castle.">
                   </a>
                 </div>
                 <h3>
-                  <a href="http://www.driving.ca/driving+photo+galleries+2012/7732199/story.html">
+                  <a href="/travel/Edinburgh+always+braw+shindig/8526225/story.html">
                     <span>
-                      <span>The top driving.ca photo galleries of 2012</span>
+                      <span>Edinburgh always has a 'braw shindig'</span>
                     </span>
                   </a>
                 </h3>
@@ -1070,14 +1108,14 @@ By submitting your personal information, subscribing to our services or products
             <div id="featurewidget" class="smallfeature">
               <div class="featurecontent">
                 <div class="newsimage">
-                  <a href="http://www.househunting.ca/decorating/Gallery+Pantone+colour+year+decor/7752685/story.html">
-                    <img border="0" src="7752702.bin?size=140x95" alt="Pantone colour of the year" title="Pantone colour of the year">
+                  <a href="/life/fashionshows/paris/Gallery+Louis+Vuitton+Paris+Collections+Menswear+Spring+2014/8587260/story.html">
+                    <img border="0" src="cms/binary/8587288.jpg?size=140x95" alt="Louis Vuitton Menswear Spring 2014 collection" title="Louis Vuitton Menswear Spring 2014 collection">
                   </a>
                 </div>
                 <h3>
-                  <a href="http://www.househunting.ca/decorating/Gallery+Pantone+colour+year+decor/7752685/story.html">
+                  <a href="/life/fashionshows/paris/Gallery+Louis+Vuitton+Paris+Collections+Menswear+Spring+2014/8587260/story.html">
                     <span>
-                      <span>Gallery: Pantone's colour of the year in decor</span>
+                      <span>Gallery: Louis Vuitton -- Paris Collections Menswear Spring 2014</span>
                     </span>
                   </a>
                 </h3>
@@ -1096,14 +1134,14 @@ By submitting your personal information, subscribing to our services or products
             <div id="featurewidget" class="smallfeature">
               <div class="featurecontent">
                 <div class="newsimage">
-                  <a href="http://www.canada.com/life/theholidayguide12/Gallery+Year+dresses+every+style+shape/7743184/story.html">
-                    <img border="0" src="7743208.bin?size=140x95" alt="New Year's dresses" title="New Year's dresses">
+                  <a href="/health/diet-fitness/Patricia+Chuey+tips+healthy+summer+eating/8582610/story.html">
+                    <img border="0" src="cms/binary/8562144.jpg?size=140x95" alt="Dietitian Patricia Chuey and her son Walty, 8, set the table for a nutritious outdoor family dinner." title="Dietitian Patricia Chuey and her son Walty, 8, set the table for a nutritious outdoor family dinner.">
                   </a>
                 </div>
                 <h3>
-                  <a href="http://www.canada.com/life/theholidayguide12/Gallery+Year+dresses+every+style+shape/7743184/story.html">
+                  <a href="/health/diet-fitness/Patricia+Chuey+tips+healthy+summer+eating/8582610/story.html">
                     <span>
-                      <span>Gallery: New Year's dresses for every style, age and shape</span>
+                      <span>10 tips for healthy summer eating</span>
                     </span>
                   </a>
                 </h3>
@@ -1183,11 +1221,6 @@ By submitting your personal information, subscribing to our services or products
 <!-- legoctl: ctl07 --><!-- CACHE HIT: syndication6 -->
 <!-- Source="1194660.atom" --><ul class="bullet">
   <li>
-    <a href="http://www.canada.com/life/theholidayguide12/index.html">
-      <span>Holiday Guide</span>
-    </a>
-  </li>
-  <li>
     <a href="http://www.canada.com/news/postmedia/index.html">
       <span>Happening Now</span>
     </a>
@@ -1213,18 +1246,8 @@ By submitting your personal information, subscribing to our services or products
     </a>
   </li>
   <li>
-    <a href="http://www.canada.com/entertainment/tiff12/index.html">
-      <span>TIFF 2012</span>
-    </a>
-  </li>
-  <li>
-    <a href="/olympics">
-      <span>Olympics 2012</span>
-    </a>
-  </li>
-  <li>
-    <a href="http://www.canada.com/euro2012/">
-      <span>Euro 2012</span>
+    <a href="http://www.canada.com/news/oddities/index.html">
+      <span>Oddities</span>
     </a>
   </li>
   <li>
@@ -1235,11 +1258,6 @@ By submitting your personal information, subscribing to our services or products
   <li>
     <a href="http://www.canada.com/life/fashionshows/index.html">
       <span>Fashion Shows</span>
-    </a>
-  </li>
-  <li>
-    <a href="http://www.canada.com/news/oddities/index.html">
-      <span>Oddities</span>
     </a>
   </li>
   <li>
@@ -1273,18 +1291,18 @@ By submitting your personal information, subscribing to our services or products
 <!-- legoctl: ctl08 --><!-- CACHE HIT: syndication7 -->
 <!-- Source="/scripts/mostpopular.aspx?stattype=story" --><ul class="bullet">
   <li>
-    <a href="Canada+remains+undefeated+after+over/7757998/story.html">
-      <span>Canada remains undefeated after 2-1 win over U.S.</span>
+    <a href="Boston+beat+Toronto+Blue+Jays+Chien+Ming+Wang/8589995/story.html">
+      <span>Boston Red Sox beat up on Toronto Blue Jays’ Chien-Ming Wang</span>
     </a>
   </li>
   <li>
-    <a href="After+Crossfire+UPDATED+Santos+Velasquez/7757588/story.html">
-      <span>After The Crossfire – UPDATED – UFC 155: Dos Santos vs Velasquez II</span>
+    <a href="tips+healthy+summer+eating/8582610/story.html">
+      <span>10 tips for healthy summer eating</span>
     </a>
   </li>
   <li>
-    <a href="forecast+Bomb+Girls+Texas+Chainsaw+Nashville/7758262/story.html">
-      <span>Pop forecast (Bomb Girls, Texas Chainsaw 3D, Nashville)</span>
+    <a href="Burgers+Canada/8587419/story.html">
+      <span>Burgers fit for Canada Day</span>
     </a>
   </li>
 </ul>
@@ -1410,81 +1428,83 @@ By submitting your personal information, subscribing to our services or products
 				<!-- pagewrapper ends -->
 		</div>
 		<!-- page ends -->
-		<!-- iperceptions -->
-
-<!-- Google Analytics Code -->
-<script type="text/javascript">
-
-  var _gaq = _gaq || [];
-  _gaq.push(['_setAccount', 'UA-24419597-3']);
-  _gaq.push(['_setDomainName', '.canada.com']);
-  _gaq.push(['_trackPageview']);
-
-  (function() {
-    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
-    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
-  })();
-
-</script>
-
-<!-- iperceptions -->
-
-<form name="frmPage" method="post" action="/aboutus/privacy.html" id="frmPage">
+		<form name="frmPage" method="post" action="/aboutus/privacy.html" id="frmPage">
 <input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUJMTY4NzU4NDkzZGQsLGdv3agKRBOg2QT5Wwi3R8+PZg==">
 </form>
-                        <!-- SiteCatalyst code version: H.17.
+                        <script language="JavaScript" type="text/javascript">
+                            // Google Analytics
+
+                            var _gaq = _gaq || [];
+                            _gaq.push(['_setAccount', 'UA-24419597-13']);
+                            _gaq.push(['_setDomainName', document.location.hostname]);
+                            _gaq.push(['_trackPageview']);
+                            (function() {
+                            var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+                            ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+                            var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+                            })();
+                        </script>
+                        
+                        <!-- Begin comScore Tag -->
+                        <script>
+                            var _comscore = _comscore || [];
+                            _comscore.push({ c1: '2', c2: '10276888' });
+                            (function() {
+                                var s = document.createElement('script'), el = document.getElementsByTagName('script')[0]; s.async = true;
+                                s.src = (document.location.protocol == 'https:' ? 'https://sb' : 'http://b') + '.scorecardresearch.com/beacon.js';
+                                el.parentNode.insertBefore(s, el);
+                            })();
+                        </script>
+                        <noscript>
+                            <img src='http://b.scorecardresearch.com/p?c1=2&c2=10276888&cv=2.0&cj=1' />
+                        </noscript>
+                        <!-- End comScore Tag -->
+                        <!-- SiteCatalyst code version: H.25.4.
                         Copyright 1997-2008 Omniture, Inc. More info available at
                         http://www.omniture.com -->
 
                         <script language="JavaScript" type="text/javascript" src="/js/account_s_code.js"></script>
-                        <script language="JavaScript" type="text/javascript" src="http://www.canada.com/js/global_canwest_s_code.js"></script>
+                        <script language="JavaScript" type="text/javascript" src="http://www.canada.com/js/global_s_code.js"></script>
                         <script language="JavaScript" type="text/javascript" src="/js/local_s_code.js"></script>
                 
-                        <script language="JavaScript" type="text/javascript">
-                        <!--
-                        /* You may give each page an identifying name, server, and channel on
-                        the next lines. */
-                        s.pageName='/aboutus/privacy.html';
-                        s.server=window.location.hostname.toLowerCase();
-                        s.channel='aboutus';
-                        s.pageType='';
-                        s.prop1='aboutus';
-                        s.prop2='aboutus';
-                        s.prop3='canwest';
-                        s.prop4='Non-Registered';
-                        s.prop5=s.prop4 + ': ' + s.pageName;
-                        s.prop6='';
-                        s.prop7='';
-                        s.prop8='';
-                        s.prop9='';
-                        s.prop10='';
-                        s.prop11='';
-                        s.prop13='';
-                        s.prop23=document.title;
-                        s.prop24=s.prop8;
-                        s.prop25='privacy';
-                        s.prop26='aboutus';            
-                        s.prop27='';  
-                        s.prop28=''; 
-                        s.prop29='';
-                        s.prop36=''; 
-                        s.prop37='ccn.com'; 
-                        s.prop43='';
-                        s.prop44='';
-                        /* E-commerce Variables */
+                            <script language="JavaScript" type="text/javascript">
+                            <!--
+                            /* You may give each page an identifying name, server, and channel on
+                            the next lines. */
+                            s.pageName='/aboutus/privacy.html';
+                            s.server=window.location.hostname.toLowerCase();
+                            s.channel='aboutus';
+                            s.pageType='';                            
+                            s.prop2='aboutus';
+                            s.prop3='postmedia';
+                            s.prop4='Non-Registered';
+                            s.prop6='Free Content';
+                            s.prop7='';
+                            s.prop8='';
+                            s.prop10='';
+                            s.prop11='';
+                            s.prop13='';
+                            s.prop23=document.title;
+                            s.prop25='privacy';
+                            s.prop27='';  
+                            s.prop28=''; 
+                            s.prop29='';
+                            s.prop36=''; 
+                            s.prop37='ccn.com'; 
+                            
                         
-                        s.events='';
-                        s.products='';
-                        s.purchaseID='';
-                        s.transactionID = s.purchaseID;
+                            /* E-commerce Variables */
+                            
+                            s.events='';
+                            s.products='';
+                            s.purchaseID='';
+                            s.transactionID = s.purchaseID;
                         /************* DO NOT ALTER ANYTHING BELOW THIS LINE ! **************/
                         var s_code=s.t();if(s_code)document.write(s_code)//--></script>
                         <script language="JavaScript" type="text/javascript"><!--
                         if(navigator.appVersion.indexOf('MSIE')>=0)document.write(unescape('%3C')+'\!-'+'-')
-                        //--></script><noscript><a href='http://www.omniture.com/' title='Web Analytics'>
-                        <img src='http://canwest.112.207.net/b/ss/canwestglobal,canwest/5/48999126?pageName=/aboutus/privacy.html&g=http%3a%2f%2fwww.canada.com%2faboutus%2fprivacy.html&ch=aboutus&sv=www.canada.com&c1=aboutus&c2=aboutus&c7=&c8=&c23=canada.com+-+Customer+Privacy+Statement&c25=privacy&c26=aboutus&c27=&c28=&c35=canada.com&c41=canwestglobal,canwest' alt='' width='5' height='5' /></a></noscript><!--/DO NOT REMOVE/-->
-                        <!-- End SiteCatalyst code version: H.17. -->
+                        //--></script><noscript><img src='http://canwest.112.2o7.net/b/ss/canwestglobal,canwest/1/H.25.4--NS/O' alt='' width='1' height='1' border='0' /></noscript><!--/DO NOT REMOVE/-->
+                        <!-- End SiteCatalyst code version: H.25.4. -->
 
-<!-- WPGCCWEB06 16 -->
+<!-- WPGPDWEB54 47 -->
 </body></html>
