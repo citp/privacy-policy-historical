@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ekmpowershop.com privacy policy that was archived on 2012-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121209072353id_/http%3A//www.ekmpowershop.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ekmpowershop.com privacy policy that was archived on 2013-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130628112257id_/http%3A//www.ekmpowershop.com/privacy.asp) for the most accurate reproduction.*
 
 # Ekm Systems Privacy Policy
 
@@ -7,6 +7,8 @@ At Ekm Systems Ltd we are committed to protecting and respecting the privacy or 
 The information collected from customers when signing up is used for billing and administration purposes only and will be kept confidential. Contact information collected will be contact details and payment information (credit or debit card).
 
 When visitors use the website, information such as the ISP's domain, the time accessed and the pages visited will be stored by us. This is to analyse the web traffic and improve content of the site.
+
+This site uses ClickTale web analytics service. ClickTale may record mouse clicks, mouse movements, scrolling activity as well as text you type in this website. This site does not use ClickTale to collect any personally identifiable information entered in this website. ClickTale does not track your browsing habits across web sites which do not use ClickTale services. For more information see [Privacy Policy for Information Collected by the ClickTale Web Analytics Service](http://www.clicktale.com/privacy_service.aspx). We are using the information collected by ClickTale service to improve our website, make it more user-friendly and monitor that it is performing correctly. You can choose to disable the Service at <http://www.clicktale.net/disable.html>.
 
 Any personal information contained within customer's websites and online shops is their own responsibility. We have taken security measures to ensure that our customers are protected against loss, alteration or misuse.
 
@@ -18,15 +20,15 @@ When browsing the internet and using online services, this sometimes involves pl
 
 Cookies are used to improve services for you, for example:
 
-  * Enabling a site to recognise your web enabled device so you don’t have to repeat information already given
-  * Recognising that you may already have username and password so you don’t need to enter this every time your requested
+  * Enabling a site to recognise your web enabled device so you don't have to repeat information already given
+  * Recognising that you may already have username and password so you don't need to enter this every time your requested
   * Measuring how many people are using the site, so usability can be improved
 
 
 
 You can read more about these small files yourself, via the following link [Internet browser cookies - what they are and how to manage them](http://www.direct.gov.uk/en/SiteInformation/Cookies/DG_WP201851?CID=Central&PLA=url_mon&CRE=managing_cookies).
 
-ekmPowershop.com uses cookies in several places – we’ve listed each of them below with more details about why we use them and how long they will last.
+ekmPowershop.com uses cookies in several places we've listed each of them below with more details about why we use them and how long they will last.
 
 Name | Purpose | Content | Expires  
 ---|---|---|---  
@@ -40,7 +42,7 @@ After viewing our website and logging into our ekmPowershop.com system, you will
 
 Name | Purpose | Content | Expires  
 ---|---|---|---  
-ekmpowershop | Authentication Cookie |  TestCookies=ACTIVE&RS=FALSE&  
+ekmpowershop | Authentication Cookie | TestCookies=ACTIVE&RS=FALSE&  
 logged_in=USERNAME&ServerID=***  | 72hrs - (3 days)  
 demoshop_accessed | Stores a reference to the specific demoshop the visitor was using. | username=demoshop2 | On Exit  
 ekmPowershop_website | Logs your username | username=***&accessed=YES | 144hrs - (6 days)  
