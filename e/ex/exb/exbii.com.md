@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the exbii.com privacy policy that was archived on 2012-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121222060402id_/http%3A//www.xb-wiki.com/index.php/Privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the exbii.com privacy policy that was archived on 2013-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130628090734id_/http%3A//www.xb-wiki.com/index.php/Privacy_policy) for the most accurate reproduction.*
 
 # Privacy policy - Xb
 
