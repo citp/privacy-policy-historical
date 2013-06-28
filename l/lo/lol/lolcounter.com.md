@@ -1,35 +1,77 @@
-> *The following text is extracted and transformed from the lolcounter.com privacy policy that was archived on 2012-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121214213814id_/http%3A//lolcounter.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lolcounter.com privacy policy that was archived on 2013-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130628214139id_/http%3A//www.solomid.net/privacy.php) for the most accurate reproduction.*
 
-# Privacy Policy - LoL counter - League of Legends Counter Picks
+# Privacy Policy - SoloMid.NET - League of Legends Competitive Gaming Community
 
-If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at stras77@gmail.com. 
+**What information do we collect?**
 
-At http://www.lolcounter.com/, the privacy of our visitors is of extreme importance to us. This privacy policy document outlines the types of personal information is received and collected by http://www.lolcounter.com/ and how it is used. 
+We collect information from you when you register on our site. 
 
-**Log Files**  
-Like many other Web sites, http://www.lolcounter.com/ makes use of log files. The information inside the log files includes internet protocol ( IP ) addresses, type of browser, Internet Service Provider ( ISP ), date/time stamp, referring/exit pages, and number of clicks to analyze trends, administer the site, track users movement around the site, and gather demographic information. IP addresses, and other such information are not linked to any information that is personally identifiable. 
+When ordering or registering on our site, as appropriate, you may be asked to enter your: e-mail address. You may, however, visit our site anonymously.
 
-**Cookies and Web Beacons**  
-http://www.lolcounter.com/ does not use cookies. 
+Google, as a third party vendor, uses cookies to serve ads on your site. Google's use of the DART cookie enables it to serve ads to your users based on their visit to your sites and other sites on the Internet. Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy..
 
-## DoubleClick DART Cookie
+ **What do we use your information for?**
 
-\- Google, as a third party vendor, uses cookies to serve ads on http://www.lolcounter.com/.  
-\- Google's use of the DART cookie enables it to serve ads to your users based on their visit to http://www.lolcounter.com/ and other sites on the Internet.   
-\- Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at the following URL:   
-http://www.google.com/privacy_ads.html 
+Any of the information we collect from you may be used in one of the following ways: 
 
-## Advertising partners
+; To personalize your experience  
+(your information helps us to better respond to your individual needs)
 
-Some of our advertising partners may use cookies and web beacons on our site. Our advertising partners include:  
-Google Adsense   
-Popads  
-Adfly 
+; To improve our website  
+(we continually strive to improve our website offerings based on the information and feedback we receive from you)
 
-These third-party ad servers or ad networks use technology to the advertisements and links that appear on http://www.lolcounter.com/ send directly to your browsers. They automatically receive your IP address when this occurs. Other technologies ( such as cookies, JavaScript, or Web Beacons ) may also be used by the third-party ad networks to measure the effectiveness of their advertisements and / or to personalize the advertising content that you see. 
+; To administer a contest, promotion, survey or other site feature
 
-http://www.lolcounter.com/ has no access to or control over these cookies that are used by third-party advertisers. 
+ **How do we protect your information?**
 
-You should consult the respective privacy policies of these third-party ad servers for more detailed information on their practices as well as for instructions about how to opt-out of certain practices. http://www.lolcounter.com/'s privacy policy does not apply to, and we cannot control the activities of, such other advertisers or web sites. 
+We implement a variety of security measures to maintain the safety of your personal information when you enter, submit, or access your personal information. 
 
-If you wish to disable cookies, you may do so through your individual browser options. More detailed information about cookie management with specific web browsers can be found at the browsers' respective websites. 
+We offer the use of a secure server. All supplied sensitive/credit information is transmitted via Secure Socket Layer (SSL) technology and then encrypted into our Payment gateway providers database only to be accessible by those authorized with special access rights to such systems, and are required to?keep the information confidential.
+
+After a transaction, your private information (credit cards, social security numbers, financials, etc.) will not be stored on our servers.
+
+ **Do we use cookies?**
+
+Yes (Cookies are small files that a site or its service provider transfers to your computers hard drive through your Web browser (if you allow) that enables the sites or service providers systems to recognize your browser and capture and remember certain information
+
+We use cookies to understand and save your preferences for future visits.
+
+ **Do we disclose any information to outside parties?**
+
+We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information. This does not include trusted third parties who assist us in operating our website, conducting our business, or servicing you, so long as those parties agree to keep this information confidential. We may also release your information when we believe release is appropriate to comply with the law, enforce our site policies, or protect ours or others rights, property, or safety. However, non-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses.
+
+ **California Online Privacy Protection Act Compliance**
+
+Because we value your privacy we have taken the necessary precautions to be in compliance with the California Online Privacy Protection Act. We therefore will not distribute your personal information to outside parties without your consent.
+
+As part of the California Online Privacy Protection Act, all users of our site may make any changes to their information at anytime by logging into their control panel on the forums and going to the 'My Settings' page.
+
+ **Childrens Online Privacy Protection Act Compliance**
+
+We are in compliance with the requirements of COPPA (Childrens Online Privacy Protection Act), we do not collect any information from anyone under 13 years of age. Our website, products and services are all directed to people who are at least 13 years old or older.
+
+ **Online Privacy Policy Only**
+
+This online privacy policy applies only to information collected through our website and not to information collected offline.
+
+ **Terms and Conditions**
+
+Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website at <http://www.solomid.net/tos.php>
+
+**Your Consent**
+
+By using our site, you consent to our privacy policy.
+
+ **Changes to our Privacy Policy**
+
+If we decide to change our privacy policy, we will post those changes on this page, and/or update the Privacy Policy modification date below. 
+
+This policy was last modified on August 7, 2011
+
+ **Contacting Us**
+
+If there are any questions regarding this privacy policy you may contact us using the information below. 
+
+http://www.solomid.net/
+
+This policy is powered by Trust Guard PCI compliant security scanning.
