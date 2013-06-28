@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the eurosport.co.uk privacy policy that was archived on 2012-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121228171916id_/http%3A//info.yahoo.com/privacy/uk/yahoo) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eurosport.co.uk privacy policy that was archived on 2013-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130628215852id_/http%3A//info.yahoo.com/privacy/uk/yahoo) for the most accurate reproduction.*
 
 # Yahoo! Privacy Centre
 
@@ -36,7 +36,7 @@ Yahoo! does not rent, sell, or share information about you (including personally
 
   * to provide the information to trusted partners who work on behalf of or with Yahoo! under confidentiality agreements. These companies may use such information to help Yahoo! communicate with you (to the extent consented by you) about offers from Yahoo! and our marketing partners. However, these companies do not have any independent right to share this information. 
   * to respond to subpoenas, court orders, legal process, or to any legitimate request by authorities with which compliance is required, or to establish or exercise legal rights or defend against legal claims. 
-  * to believe it is necessary to share such information in order to investigate, prevent, or take action regarding illegal activities, suspected fraud, situations involving potential threats to the physical safety of any person, violations of Yahoo!'s terms of use, or as otherwise required by law. 
+  * to share, when we believe it is necessary, such information in order to investigate, prevent, or take action regarding illegal activities, suspected fraud, situations involving potential threats to the physical safety of any person, violations of Yahoo!'s terms of use, or as otherwise required by law. 
   * to transfer such information about you if Yahoo! acquires, or is acquired by or merged with, another company. In this event, Yahoo! will notify you before information about you is transferred and becomes subject to a different privacy policy. 
 
 
@@ -101,7 +101,7 @@ Return to top
 
 ## QUESTIONS OR SUGGESTIONS
 
-If you have questions or suggestions complete a [feedback form](http://help.yahoo.com/fast/help/uk/privacy/cgi_feedback). 
+If you have questions or suggestions complete a [feedback form](http://io.help.yahoo.com/contact/index?locale=en_GB&y=PROD_ACCT&page=contact). 
 
 Last Updated: Oct 14, 2009
 
