@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the enpundit.com privacy policy that was archived on 2012-10-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121005041910id_/http%3A//enpundit.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the enpundit.com privacy policy that was archived on 2013-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130628200041id_/http%3A//enpundit.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Enpundit
+# Privacy Policy – Enpundit
 
 The privacy of our visitors at enpundit.com is important to us.
 
