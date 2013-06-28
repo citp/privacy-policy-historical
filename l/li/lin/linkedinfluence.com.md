@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the linkedinfluence.com privacy policy that was archived on 2012-10-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121031000431id_/http%3A//linkedinfluence.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the linkedinfluence.com privacy policy that was archived on 2013-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130628072916id_/http%3A//linkedinfluence.com/privacy.php) for the most accurate reproduction.*
 
 # Terms of Service | LinkedInfluence
 
@@ -7,8 +7,8 @@
 Our mailing address is:
 
 Inspired marketing  
-868 N. Park st  
-Columbus OH 43215  
+430 Carrillo st   
+Santa Barbara , CA 93105  
 support@linkedinfluence.com
 
 We can be reached via e-mail at support@linkedinfluence.com.
