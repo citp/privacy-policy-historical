@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the primelocation.com privacy policy that was archived on 2012-12-14.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121214200408id_/http%3A//www.primelocation.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the primelocation.com privacy policy that was archived on 2013-06-28.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130628230222id_/http%3A//www.primelocation.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en" xmlns:fb="http://www.facebook.com/2008/fbml" xmlns:og="http://opengraphprotocol.org/schema/"><head>
 
@@ -16,15 +16,14 @@
 
     
 
-    <link rel="stylesheet" href="http://c.zoocdn.com/static/1355154198/www/_b/css/common.css" type="text/css" media="screen">
-    <link rel="stylesheet" href="http://c.zoocdn.com/static/1353076258/www/_b/css/print.css" type="text/css" media="print">
+    <link rel="stylesheet" href="http://c.zoocdn.com/static/1372321843/www/_b/css/common.css" type="text/css">
 
 
     <link rel="alternate" media="only screen and (max-width: 640px)" href="http://m.primelocation.com/privacy/">
 
 
-    <!--[if IE 6 ]><link rel="stylesheet" href="http://c.zoocdn.com/static/1340294492/www/_b/css/ie6.css" type="text/css" media="screen"><![endif]-->
-    <!--[if lt IE 8 ]><link rel="stylesheet" href="http://c.zoocdn.com/static/1349097803/www/_b/css/ie.css" type="text/css" media="screen"><![endif]-->
+    <!--[if IE 6 ]><link rel="stylesheet" href="http://c.zoocdn.com/static/1372160194/www/_b/css/ie6.css" type="text/css" media="screen"><![endif]-->
+    <!--[if lt IE 8 ]><link rel="stylesheet" href="http://c.zoocdn.com/static/1371122576/www/_b/css/ie.css" type="text/css" media="screen"><![endif]-->
 
 
 
@@ -32,7 +31,10 @@
             
 
 
-        <link rel="stylesheet" href="http://c.zoocdn.com/static/1354277883/www/w/primelocation/css/whitelabel.css" type="text/css" media="all">
+
+            <link rel="stylesheet" href="http://c.zoocdn.com/static/1372160194/www/w/primelocation/css/brand.css" type="text/css" media="all">
+
+
 
 
     
@@ -40,22 +42,26 @@
         <link rel="canonical" href="http://www.primelocation.com/privacy/">
 
 
-    <script async="" type="text/javascript" src="https://www.googletagservices.com/tag/js/gpt.js"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript">
+    <script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-7MG4"></script><script type="text/javascript" async="" charset="UTF-8" src="//rum-static.pingdom.net/prum.min.js"></script><script async="" type="text/javascript" src="https://www.googletagservices.com/tag/js/gpt.js"></script><script type="text/javascript" async="" src="https://stats.g.doubleclick.net/dc.js"></script><script type="text/javascript">
 
     var _gaq = _gaq || [];
 
     _gaq.push(
-        
 
-        ['_setCustomVar', 44, 'RHSvsLHS', 'original', 1],
-        ['_setCustomVar', 46, 'Contact agent form field order', 'original', 1],        
-        ['_setCustomVar', 47, 'Rated people split', 'original', 1],
-        ['_setCustomVar', 48, 'Contact agent appraisal order', 'original', 1],
-        ['_setCustomVar', 50, 'Generic', 'original', 1],
-        
+
         ['_setAccount', 'UA-32844516-1'],
-        ['_setDomainName', 'www.primelocation.com'],
+        ['_setDomainName', 'primelocation.com'],
         ['_setAllowLinker', true],
+        ['_deleteCustomVar', 39],
+        ['_deleteCustomVar', 43],
+        ['_deleteCustomVar', 48],
+
+
+
+        ['_setCustomVar', 47, 'Combined Listed By widget', 'variation', 1],
+        ['_setCustomVar', 49, 'Horizontal Action Buttons', 'original', 1],
+        ['_setCustomVar', 50, 'Details Page Tab CTA', 'original', 1],
+
         ['_trackPageview']
 
     );
@@ -66,7 +72,7 @@
 
         (function(){
             var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-            ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+            ga.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'stats.g.doubleclick.net/dc.js';
             var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
         })();
 
@@ -79,19 +85,33 @@
 
     
 
+
     <script>
-        var googletag = googletag || {};
-        googletag.cmd = googletag.cmd || [];
-        (function() {
-        var gads = document.createElement('script');
-        gads.async = true;
-        gads.type = 'text/javascript';
-        var useSSL = 'https:' == document.location.protocol;
-        gads.src = (useSSL ? 'https:' : 'http:') +
-        '//www.googletagservices.com/tag/js/gpt.js';
-        var node = document.getElementsByTagName('script')[0];
-        node.parentNode.insertBefore(gads, node);
-        })();
+
+        var isAppWrapper;
+
+        // Hide these scripts on mobile app_wrapper
+        if ('localStorage' in window && window['localStorage'] !== null) {
+            isAppWrapper = window.localStorage.getItem('app_wrapper');
+        }
+
+        if ( !isAppWrapper ) {
+
+            var googletag = googletag || {};
+            googletag.cmd = googletag.cmd || [];
+            (function() {
+            var gads = document.createElement('script');
+            gads.async = true;
+            gads.type = 'text/javascript';
+            var useSSL = 'https:' == document.location.protocol;
+            gads.src = (useSSL ? 'https:' : 'http:') +
+            '//www.googletagservices.com/tag/js/gpt.js';
+            var node = document.getElementsByTagName('script')[0];
+            node.parentNode.insertBefore(gads, node);
+            })();
+
+        }
+
     </script>
 
     
@@ -100,9 +120,11 @@
 
     <script>
 
-        googletag.cmd.push(function() {
+        if ( !isAppWrapper ) {
 
-            
+            googletag.cmd.push(function() {
+
+                
 
 
 
@@ -110,26 +132,36 @@
 
 
 
+  googletag.defineSlot('/5765/ZPG/Primelocation', [1, 1], 'dfp-zpg-primelocation-1x1-0').addService(googletag.companionAds()).addService(googletag.pubads()).setTargeting('pos', '0');
 
 
-                googletag.pubads().setTargeting("area_name", "UK");
-                googletag.pubads().setTargeting("page", "/privacy/");
-                googletag.pubads().setTargeting("price_min", "200000");
-                googletag.pubads().setTargeting("price_max", "250000");
-                googletag.pubads().setTargeting("url", "/privacy/");
-                googletag.pubads().setTargeting("zindex", "228140");
-                googletag.pubads().enableAsyncRendering();
 
-            googletag.pubads().enableSingleRequest();
-            googletag.pubads().collapseEmptyDivs();
-            googletag.companionAds().setRefreshUnfilledSlots(true)
-            googletag.enableServices();
+                    googletag.pubads().setTargeting("area_name", "UK");
+                    googletag.pubads().setTargeting("page", "/privacy/");
+                    googletag.pubads().setTargeting("url", "/privacy/");
+                    googletag.pubads().setTargeting("zindex", "230924");
+                    googletag.pubads().setTargeting("price_min", "200000");
+                    googletag.pubads().setTargeting("price_max", "250000");
+                    googletag.pubads().enableAsyncRendering();
 
-        });
+                    googletag.pubads().enableSingleRequest();
+
+                googletag.pubads().collapseEmptyDivs();
+                googletag.companionAds().setRefreshUnfilledSlots(true)
+                googletag.enableServices();
+
+            });
+
+        }
 
     </script>
 
 
+
+
+
+    
+    <script type="application/javascript">var _prum={id:"5167c6b9abe53d2e37000001"};var PRUM_EPISODES=PRUM_EPISODES||{};PRUM_EPISODES.q=[];PRUM_EPISODES.mark=function(b,a){PRUM_EPISODES.q.push(["mark",b,a||new Date().getTime()])};PRUM_EPISODES.measure=function(b,a,b){PRUM_EPISODES.q.push(["measure",b,a,b||new Date().getTime()])};PRUM_EPISODES.done=function(a){PRUM_EPISODES.q.push(["done",a])};PRUM_EPISODES.mark("firstbyte");(function(){var b=document.getElementsByTagName("script")[0];var a=document.createElement("script");a.type="text/javascript";a.async=true;a.charset="UTF-8";a.src="//rum-static.pingdom.net/prum.min.js";b.parentNode.insertBefore(a,b)})();</script>
 
 
 
@@ -148,22 +180,25 @@
 
 
 
-            
+                
 
 
-                <div id="wl-wrap" class="wl-primelocation">
+            <div id="wl-wrap" class="wl-primelocation">
 
 
         <div id="header-wrapper" class="wrap left">
 
             
-<div id="pl-header" class="clearfix ">
+<div id="header" class="clearfix ">
 
-    <div id="pl-header-nav">
+    <div id="header-nav">
 
-        <div id="pl-header-wrap">
+        <div id="header-wrap">
 
-            <div id="pl-logo"><a href="/"><span>PrimeLocation</span></a></div>
+            <div id="logo" itemscope="" itemtype="http://schema.org/Organization">
+                <a itemprop="url" href="http://www.primelocation.com/">Home</a>
+                <img itemprop="logo" src="http://www.primelocation.com/static/images/logo.png">
+            </div>
 
             
 <div id="utilities">
@@ -174,11 +209,12 @@
 
                 <li><a id="register-ajax" href="/register/" data-action="register">Register</a></li>
 
-                <li class="last"><a id="signin-ajax" href="/signin/" data-action="signin">Login</a></li>
-                    
+                <li class="last"><a data-ga-category="myPrimeLocation" data-ga-action="signin" data-ga-label="/tracking/privacy/" id="signin-ajax" href="/signin/">Login</a></li>
+
 
 
     </ul>
+
 
 </div>
 
@@ -186,49 +222,50 @@
 
             
 
+
 <div class="clearfix" id="pl-main-nav">
 
     <ul>
 
         <li id="pl-mn-buy">
 
-            <a href="/for-sale/" data-ga-category="Navbar" data-ga-action="For sale" data-ga-label="/tracking/privacy/"><span>For sale</span></a>
+            <a href="/for-sale/"><span>For sale</span></a>
 
         </li>
 
         <li id="pl-mn-rent">
 
-            <a href="/to-rent/" data-ga-category="Navbar" data-ga-action="To rent" data-ga-label="/tracking/To rent"><span>To rent</span></a>
+            <a href="/to-rent/"><span>To rent</span></a>
 
         </li>
 
         <li id="pl-mn-prices">
 
-            <a href="/house-prices/" data-ga-category="Navbar" data-ga-action="Sold prices" data-ga-label="/tracking/Sold prices"><span>Sold prices</span></a>
+            <a href="/house-prices/"><span>Sold prices</span></a>
 
         </li>
 
         <li id="pl-mn-new">
 
-            <a href="/new-homes/" data-ga-category="Navbar" data-ga-action="New homes" data-ga-label="/tracking/New homes"><span>New homes</span></a>
+            <a href="/new-homes/"><span>New homes</span></a>
 
         </li>
 
         <li id="pl-mn-overseas">
 
-            <a href="/overseas/" data-ga-category="Navbar" data-ga-action="International" data-ga-label="/tracking/International"><span>International</span></a>
+            <a href="/overseas/"><span>International</span></a>
 
         </li>
 
         <li id="pl-mn-agents">
 
-            <a href="/find-agents/" data-ga-category="Navbar" data-ga-action="Find Agents" data-ga-label="/tracking/Find Agents"><span>Find agents</span></a>
+            <a href="/find-agents/"><span>Find agents</span></a>
 
         </li>
 
         <li id="pl-mn-advice">
 
-            <a href="/guides/" data-ga-category="Navbar" data-ga-action="Advice" data-ga-label="/tracking/Advice"><span>Advice</span></a>
+            <a href="/guides/"><span>Advice</span></a>
 
         </li>
 
@@ -240,13 +277,13 @@
 
     <ul id="pl-sn-buy">
 
-        <li><a href="/for-sale/" data-ga-category="Navbar" data-ga-action="For sale" data-ga-label="/tracking/Property for sale">Property for sale</a></li>
+        <li><a href="/for-sale/">Property for sale</a></li>
 
-        <li><a href="/new-homes/" data-ga-category="Navbar" data-ga-action="For sale" data-ga-label="/tracking/New homes"><span>New homes for sale</span></a></li>
+        <li><a href="/new-homes/"><span>New homes for sale</span></a></li>
 
-        <li><a href="/overseas/" data-ga-category="Navbar" data-ga-action="For sale" data-ga-label="/tracking/International property for sale"><span>International property for sale</span></a></li>
+        <li><a href="/overseas/"><span>International property for sale</span></a></li>
 
-        <li class="last"><a href="/find-agents/estate-agents/" data-ga-category="Navbar" data-ga-action="For sale" data-ga-label="/tracking/Find estate agents"><span>Find estate agents</span></a></li>
+        <li class="last"><a href="/find-agents/estate-agents/"><span>Find estate agents</span></a></li>
 
 
 
@@ -254,47 +291,49 @@
 
     <ul id="pl-sn-rent">
 
-        <li><a href="/to-rent/" data-ga-category="Navbar" data-ga-action="To rent" data-ga-label="/tracking/Property to rent"><span>Property to rent</span></a></li>
+        <li><a href="/to-rent/"><span>Property to rent</span></a></li>
 
 
-        <li class="last"><a href="/find-agents/letting-agents/" data-ga-category="Navbar" data-ga-action="To rent" data-ga-label="/tracking/Find letting agents"><span>Find letting agents</span></a></li>
+        <li><a href="/find-agents/letting-agents/"><span>Find letting agents</span></a></li>
+
+        <li class="last"><a href=" http://holidayrentals.primelocation.com/" rel="nofollow"><span>Holiday lettings</span></a></li>
 
 
     </ul>
 
     <ul id="pl-sn-prices">
 
-        <li class="last"><a href="/house-prices/" data-ga-category="Navbar" data-ga-action="Sold house prices" data-ga-label="/tracking/Sold house prices"><span>Sold house prices</span></a></li>
+        <li class="last"><a href="/house-prices/"><span>Sold house prices</span></a></li>
 
     </ul>
 
     <ul id="pl-sn-new">
 
-        <li><a href="/new-homes/" data-ga-category="Navbar" data-ga-action="New homes" data-ga-label="/tracking/New homes for sale"><span>New homes for sale</span></a></li>
+        <li><a href="/new-homes/"><span>New homes for sale</span></a></li>
 
-        <li><a href="/new-homes/developers/" data-ga-category="Navbar" data-ga-action="New homes" data-ga-label="/tracking/Find developers"><span>Find developers</span></a></li>
+        <li><a href="/new-homes/developers/"><span>Find developers</span></a></li>
 
-        <li class="last"><a href="/firstbuy/" data-ga-category="Navbar" data-ga-action="New Homes" data-ga-label="/tracking/First buy"><span>First buy</span></a></li>
+        <li class="last"><a href="/firstbuy/"><span>First buy</span></a></li>
 
 
     </ul>
 
     <ul id="pl-sn-overseas">
 
-        <li class="last"><a href="/overseas/" data-ga-category="Navbar" data-ga-action="New homes" data-ga-label="/tracking/International property for sale"><span>International property for sale</span></a></li>
+        <li class="last"><a href="/overseas/"><span>International property for sale</span></a></li>
 
 
     </ul>
 
     <ul id="pl-sn-agents">
 
-        <li><a href="/find-agents/estate-agents/" data-ga-category="Navbar" data-ga-action="Find agents" data-ga-label="/tracking/Find estate agents"><span>Find estate agents</span></a></li>
+        <li><a href="/find-agents/estate-agents/"><span>Find estate agents</span></a></li>
 
-        <li><a href="/find-agents/letting-agents/" data-ga-category="Navbar" data-ga-action="Find agents" data-ga-label="/tracking/Find letting agents"><span>Find letting agents</span></a></li>
+        <li><a href="/find-agents/letting-agents/"><span>Find letting agents</span></a></li>
 
-        <li><a href="/appraisal/" data-ga-category="Navbar" data-ga-action="Find agents" data-ga-label="/tracking/Get agent appraisal"><span>Get agent appraisal</span></a></li>
-        
-        <li class="last"><a href="/agent-of-the-year/" data-ga-category="Navbar" data-ga-action="Find agents" data-ga-label="/tracking/Award winning agents"><span>Award winning agents</span></a></li>
+        <li><a href="/appraisal/"><span>Get agent appraisal</span></a></li>
+
+        <li class="last"><a href="/award-winning-agents/"><span>Award winning agents</span></a></li>
 
     </ul>
 
@@ -303,11 +342,11 @@
 
 
 
-        <li><a href="/homes-news/" data-ga-category="Navbar" data-ga-action="Advice" data-ga-label="/tracking/Property news"><span>Property news</span></a></li>
+        <li><a href="/homes-news/"><span>Property news</span></a></li>
 
-        <li><a href="/guides/" data-ga-category="Navbar" data-ga-action="Advice" data-ga-label="/tracking/Property guides"><span>Property guides</span></a></li>
+        <li><a href="/guides/"><span>Property guides</span></a></li>
 
-        <li class="last"><a href="http://blog.primelocation.com/" target="_blank" data-ga-category="Navbar" data-ga-action="Advice" data-ga-label="/tracking/PrimeLocation Blog"><span>PrimeLocation Blog</span></a></li>
+        <li class="last"><a href="http://blog.primelocation.com/" target="_blank"><span>PrimeLocation Blog</span></a></li>
 
     </ul>
 
@@ -421,7 +460,7 @@
 
             <input type="hidden" name="include_shared_ownership" value="true">
 
-            <input type="hidden" name="include_retirement_homes" value="true" data-section="for-sale">
+            <input type="hidden" name="include_retirement_homes" value="true">
 
 
                 <input type="hidden" name="new_homes" value="include">
@@ -438,18 +477,16 @@
 </div>
 
 
-
         </div>
 
         <div class="wrap">
 
             <div id="mbody">
 
-                <div id="content">
+                <div id="content" class=" ">
 
 
                         
-
 
 
 <h1>Privacy policy</h1>
@@ -464,7 +501,7 @@
 
 <p>When you use the Services you will have the option to provide us with personal information, such as your email address, so that we may keep you informed.</p>
 
-<p>When visiting our website, we may place one or more cookies (a small file that is stored by your browser to recognise you and store your preferences) on your computer. This helps us to improve our Services by personalising information you may want. You may adjust the settings on your browser to refuse cookies but some of the Services may not work if you do so. We may also log information from your computer including the existence of cookies, your IP address and information about your browser program in order to allow us to diagnose problems, administer and track your usage of the Services.</p>
+<p>When visiting our website, we may place one or more cookies (a small file that is stored by your browser to recognise you and store your preferences) on your computer. This helps us to improve our Services by personalising information you may want. You may adjust the settings on your browser to refuse cookies but some of the Services may not work if you do so. We may also log information from your computer including the existence of cookies, your IP address and information about your browser program in order to allow us to diagnose problems, administer and track your usage of the Services. <a href="/privacy/cookies/">View our Cookie Policy</a></p>
 
 <h2>How we use information</h2>
 
@@ -487,7 +524,7 @@
 
 <h2>Third parties</h2>
 
-<p>We use third parties to serve advertisements on our website and these third parties may use cookies or other means to help measure the effectiveness of their advertisements. Our website may also include links to other unrelated websites and/or contact forms to other unrelated parties which may collect personal information.  Our privacy policy does not extend to these third parties or other websites and we recommend that users refer directly to these parties regarding their privacy policies before supplying personal details to these companies.</p>
+<p>We use third parties to serve advertisements on our website and these third parties may use parties or other means to help measure the effectiveness of their advertisements. Our website may also include links to other unrelated websites and/or contact forms to other unrelated parties which may collect personal information.  Our privacy policy does not extend to these third parties or other websites and we recommend that users refer directly to these parties regarding their privacy policies before supplying personal details to these companies. <a href="/privacy/cookies/">View our Cookie Policy</a></p>
 
 <h2>Safety and security</h2>
 
@@ -505,15 +542,19 @@
 
 
 
+
+
+
+
                 </div>
 
-                <div id="sidebar">
 
-                        <hr class="none">
 
-                    
+                    <div id="sidebar">
 
-                    
+                        
+
+                        
 
 <div class="sidebar sbt">
 
@@ -525,7 +566,8 @@
 
 
 
-                </div>
+                    </div>
+
 
                 <hr class="none">
 
@@ -543,29 +585,32 @@
 
     <p id="pl-footer-links" class="noprint">
 
-        <a href="/about/">About PrimeLocation</a> |
-        <a href="/press/">Press</a> |
-        <a href="/homes-news/">Property news</a> |
+        <a href="/about/">About</a> |
+
+
+            <a href="/press/">Press</a> |
+
+
+        <a href="/homes-news/">News</a> |
         <a href="http://blog.primelocation.com/">Blog</a> |
         <a href="/apps/">Mobile</a> |
-        <a href="http://www.zooplapropertygroup.com/agents/" target="_blank">Agents</a> |
-        <a href="/contact/">Contact PrimeLocation</a> |
+        <a href="http://www.zooplapropertygroup.com" target="_blank">Advertise</a> |
+        <a href="http://www.zooplapropertygroup.com/about-us/jobs/" target="_blank">Jobs</a> |
+        <a href="/privacy/">Privacy</a> |
         <a href="/terms/">Terms of use</a> |
-        <a href="/privacy/">Privacy policy and cookies</a> |
-
-        <a href="http://m.primelocation.com/?m=1">Mobile site</a> |
-
+        <a href="/contact/">Contact us</a> |
         <a href="/help/">Help</a> |
 
 
             <a href="/sitemap/">Sitemap</a>
 
 
+
     </p>
 
     <p id="pl-footer-terms" class="small">
 
-        © 2012 Zoopla Property Group Limited. All rights reserved.
+        © 2013 Zoopla Property Group Limited. All rights reserved.
 
         Data on sold
 
@@ -573,9 +618,21 @@
             <a href="/">house prices</a>
 
 
-        provided by Land Registry/Registers of Scotland. © Crown copyright 2012.
+        provided by Land Registry/Registers of Scotland. © Crown copyright 2013.
+
+        <br>
 
     </p>
+
+    <div id="pl_footer_locale">
+
+        <div id="pl_footer_flags" class="clearfix">
+
+            <a href="/ru/"><img src="/static/images/locale/flag_russia.png"></a>
+
+        </div>
+
+    </div>
 
 </div>
 
@@ -600,10 +657,40 @@
 
 
 
-        <script src="http://c.zoocdn.com/static/1355399185/www/_b/scripts/main.js"></script>
+        <script src="http://c.zoocdn.com/static/1371724637/www/_b/scripts/main.js"></script>
 
 
         
+
+
+        
+<script type="text/javascript">
+$(function() {
+
+    var message = [
+            '<div class="js-cookie-policy" style="text-align: left; margin: 1em auto; width: 70em; padding: .5em .8em; background: #ddd;">',
+                'We use cookies to give you the best possible experience on our site. By continuing to use the site you agree to our use of cookies. <a href="/privacy/cookies">Find out more.</a>',
+                '<span class="js-cookie-policy-close" style="float: right; font-size: 1.5em; cursor: pointer;">&times;</span>',
+            '</div>'
+        ].join(" ");
+
+    if ( $.cookie('cookie_policy_acceptance') !== '1' ) {
+
+        $('body').prepend(message);
+
+    }
+
+    $('.js-cookie-policy-close').on('click', function() {
+
+        $('.js-cookie-policy').remove();
+        $.cookie( 'cookie_policy_acceptance', '1', { expires: 365, path: '/' } );
+
+    });
+
+});
+</script>
+
+
 
         
 
@@ -629,10 +716,46 @@
             
 
 
+        
+<script>
+    dataLayer = [{
+
+        'criteoAccount': '6995',
+        'pageName': '/privacy/'
+
+    }];
+</script>
+
+
+
+        <!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-7MG4');</script>
+<!-- End Google Tag Manager -->
+
+
 
         
 
+        
+
+    <img src="http://dis.criteo.com/dis/dis.aspx?p=1455&amp;t1=sendEvent&amp;p1=v%3D2%26pt1%3D0%26pt2%3D1%26wi%3D7710314&amp;kpid=428&amp;kw=&amp;t2=sendEvent&amp;p2=v%3D2%26pt1%3D4%26wi%3D7710314%26nbrp%3D5%26loc%3D&amp;resptype=gif&amp;cb=3779033309&amp;ref=" width="1" height="1" style="position:absolute;left:-999em;top-999em;">
+
+
+
+
+
+
+                <div id="dfp-zpg-primelocation-1x1-0" class="dfp-banner dfp-banner-1x1"></div>
+
+
+
+
     
+
 
 
 
