@@ -1,10 +1,10 @@
-<!--The following is the downloaded HTML source of the doba.com privacy policy that was archived on 2012-12-08.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121208145624id_/http%3A//www.doba.com/site/privacy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the doba.com privacy policy that was archived on 2013-06-28.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130628021922id_/http%3A//www.doba.com/site/privacy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html><head>
 		<!-- JiffyTrack Page Load Statistics -->
-<script type="text/javascript" async="" src="//doug1izaerwt3.cloudfront.net/0bac3dce67fb22e46a0445aa84a30657f1431377.1.js"></script><script type="text/javascript" async="" src="//i.kissmetrics.com/i.js"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script>
-var jiffy_data={IP:'204.236.235.245',SID:'uvjedmte0e1lsfcb4n5o87jbo8suahag',UA:'ia_archiver (+http://www.alexa.com/site/help/webmasters; crawler@alexa.com)',HN:'Web02',TS:'1354977502',SET:'0.16114783287048',UID:'0',j:0};
+<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script>
+var jiffy_data={IP:'204.236.235.245',SID:'pm8s4ii8a6n5h1aoh5jfuvmaspukae08',UA:'ia_archiver (+http://www.alexa.com/site/help/webmasters; crawler@alexa.com)',HN:'Web02',TS:'1372385962',SET:'0.12664699554443',UID:'0',j:0};
 </script>
 <script src="/site/scripts/jiffy-3.js"></script>		<meta content="text/html;charset=UTF-8" http-equiv="Content-Type">
 		<meta name="section" content="privacy">
@@ -25,7 +25,7 @@ var jiffy_data={IP:'204.236.235.245',SID:'uvjedmte0e1lsfcb4n5o87jbo8suahag',UA:'
 		
 		
 					
-				<link rel="stylesheet" type="text/css" href="http://static08.product-warehouse.com/style/doba/logged_out-26.css">
+				<link rel="stylesheet" type="text/css" href="http://static08.product-warehouse.com/style/doba/logged_out-29.css">
 <!-- [name: privacy] [media: all] -->
 <link rel="stylesheet" type="text/css" href="http://static07.product-warehouse.com/style/doba/print-10.css" media="print">
 
@@ -73,7 +73,33 @@ var jiffy_data={IP:'204.236.235.245',SID:'uvjedmte0e1lsfcb4n5o87jbo8suahag',UA:'
 		<script src="http://static08.product-warehouse.com/scripts/jquery/jquery_1.7.1.min-1.js"></script>
 		<script type="text/javascript">
 		
-			$(function(){$("ul#navigation li").hover(function(){$('ul:first',this).stop(true,true).slideDown(150);},function(){$('ul:first',this).stop(true,true).slideUp(250);});$("ul.dropdown li ul li:has(ul)").find("a:first").append(" &raquo; ");});
+			$(function(){$("ul#navigation li").hover(function(){$('ul:first',this).stop(true,true).slideDown(150);},function(){$('ul:first',this).stop(true,true).slideUp(250);});$("ul.dropdown li ul li:has(ul)").find("a:first").append(" &raquo; ");
+// Set jQuery window variable
+var $window = $(window);
+
+// function that checks the width of the window
+function checkWidth() {
+  var windowsize = $window.width();
+  if(windowsize <= 1200){
+    $('html').css('min-width','1200px !important');
+                $('#tupperware').css('width','1200px');
+                $('#greenBackground').css('width','1200px');
+                $('#brandBackground').css('width','1200px');
+                $('#mainDivBackground').css('width','1200px');
+  }else{
+                $('#tupperware').css('width','100%');
+                $('#greenBackground').css('width','100%');
+                $('#brandBackground').css('width','100%');
+                $('#mainDivBackground').css('width','100%');
+  }
+}
+
+// run the method on window load
+checkWidth();
+
+// run checkWidth when the window is resized
+$(window).resize(checkWidth);
+            });
 		
 		</script>
 
@@ -93,10 +119,11 @@ var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga
 })();
 
 </script>
-			</head>
+	</head>
 	<body id="body" class="loggedout_site">
 		
-		<div id="tupperware">
+                  <div id="greenBackground" style="width:100%; height:139px; background:#8fc742 url(http://static06.product-warehouse.com/images/doba/log-out/new_title_bg.png) repeat-x; position:absolute; z-index:0; top:127px;"></div>
+        		<div id="tupperware">
 			<div id="header">
 				<a href="/">
 				<img src="http://static06.product-warehouse.com/images/doba/log-out/new_logo.png" id="doba_logo" alt="Dropshipping, dropship logo, wholesale dropshippers" title="Doba">
@@ -125,6 +152,9 @@ var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga
 					<li>
 													<a id="how_doba_works_tab" class="top_nav_tabs" href="/how-dropshipping-works">&nbsp;How Doba Works&nbsp;</a>
 													<ul id="dropDown_how">
+                <li>
+                                  <a href="/drop-shipping-services">Features</a>
+                                </li>
 								<li>
 																	<a href="/how-dropshipping-works/drop-shipping-basics.html" title="Basics of Dropshipping">Drop Shipping Basics</a>
 																</li>
@@ -140,7 +170,7 @@ var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga
 								<li>
 																	<a href="/why-dropship-with-doba/lowest-wholesale-price.html" title="Lowest wholesale price!">Lowest Wholesale Price</a>
 																</li>
-															</ul>
+							</ul>
 					</li>
 					<!--<li>
 													<a href="/why-dropship-with-doba">Why Us</a>
@@ -148,17 +178,15 @@ var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga
 					<!--<li>
 													<a class="top_nav_tabs" href="/api-solution">API Solution</a>
 											</li>-->
-
-					<li>
-													<a class="top_nav_tabs" href="/drop-shipping-services">Features</a>
-											</li>
-
 					<li>
 													<a class="top_nav_tabs" href="/success-stories">Success Stories</a>
 											</li>
 
 					<li>
-													<a class="top_nav_tabs" href="/api-solution">Enterprise</a>
+													<a class="top_nav_tabs" href="/enterprise">Enterprise</a>
+											</li>
+					<li>
+													<a class="top_nav_tabs" href="/about-suppliers">Suppliers</a>
 											</li>
 
 					<!--<li><a class="top_nav_tabs" href="http://www.dropshippingblog.com/">&nbsp;&nbsp; Blog &nbsp;&nbsp;</a></li>-->
@@ -196,6 +224,10 @@ var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga
 												<div class="footer_nav_column">
 	<h3><a href="/pressroom">Press Room</a></h3>
 	<ul>
+					<li><strong>Jun 14, 2013:</strong>
+							<a href="http://www.doba.com/pressroom/release/view/14jun2013">Doba Adds Record Number of New Suppliers in May</a>
+						<div class="sexy_line"></div>
+			</li>
 					<li><strong>Jun 14, 2011:</strong>
 							<a href="http://www.doba.com/pressroom/release/view/14jun2011">Doba Co-Founder Leads Drop Shipping Session at IRCE 2011</a>
 						<div class="sexy_line"></div>
@@ -206,10 +238,6 @@ var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga
 			</li>
 					<li><strong>Apr 25, 2011:</strong>
 							<a href="http://www.doba.com/pressroom/release/view/25apr2011">Doba's My Deals App Serve Up Millions Worth of "F-Commerce" in First Year</a>
-						<div class="sexy_line"></div>
-			</li>
-					<li><strong>Jan 31, 2011:</strong>
-							<a href="http://www.doba.com/pressroom/release/view/31jan2011">2010 was another strong year for Doba</a>
 						<div class="sexy_line"></div>
 			</li>
 			</ul>
@@ -243,12 +271,12 @@ var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga
 						<div class="footer_nav_column">
 	<h3><a href="http://www.dropshippingblog.com/">Drop Shipping Blog</a></h3>
 	<ul>
-					<li><a href="http://feedproxy.google.com/~r/DobaDropshippingBlog/~3/OmpQAqZkjTo/" rel="external">Meet the Team: Sales Manager Nate Cottle</a><div class="sexy_line"></div>
-					</li><li><a href="http://feedproxy.google.com/~r/DobaDropshippingBlog/~3/Xwc5av376O4/" rel="external">Meet The Team: Director of Operations Tyson Wanlass</a><div class="sexy_line"></div>
-					</li><li><a href="http://feedproxy.google.com/~r/DobaDropshippingBlog/~3/Xoy5zkPk87U/" rel="external">How to Evaluate Drop-Ship Suppliers and Distributors</a><div class="sexy_line"></div>
-					</li><li><a href="http://feedproxy.google.com/~r/DobaDropshippingBlog/~3/HYKiioiSKRY/" rel="external">Doba Water Cooler Stories</a><div class="sexy_line"></div>
-					</li><li><a href="http://feedproxy.google.com/~r/DobaDropshippingBlog/~3/jRc6KsuK0PU/" rel="external">Tis the Season to Get Quickstart</a><div class="sexy_line"></div>
-					</li><li><a href="http://feedproxy.google.com/~r/DobaDropshippingBlog/~3/ujSGUnIX6jE/" rel="external">How Online Retailers Can Use Pinterest to Increase Sales</a><div class="sexy_line"></div>
+					<li><a href="http://feedproxy.google.com/~r/DobaDropshippingBlog/~3/4uWv5F0yITU/" rel="external">Profiting from the Ambition of Others: Lessons from the California Gold Rush</a><div class="sexy_line"></div>
+					</li><li><a href="http://feedproxy.google.com/~r/DobaDropshippingBlog/~3/cG4pRtLHGKM/" rel="external">The Rise and Fall of Auction-Style Listings on eBay</a><div class="sexy_line"></div>
+					</li><li><a href="http://feedproxy.google.com/~r/DobaDropshippingBlog/~3/BQDcU0pog0o/" rel="external">Competing on Trust -- Part III: Building Customer Confidence with the Right Affiliations</a><div class="sexy_line"></div>
+					</li><li><a href="http://feedproxy.google.com/~r/DobaDropshippingBlog/~3/kayl6UK0_f8/" rel="external">Competing on Trust -- Part II: Earning Trust with Excellent Customer Service</a><div class="sexy_line"></div>
+					</li><li><a href="http://feedproxy.google.com/~r/DobaDropshippingBlog/~3/ieX4Duaag_4/" rel="external">Competing on Trust - Part I: Conveying Trust With Your Webstore Design</a><div class="sexy_line"></div>
+					</li><li><a href="http://feedproxy.google.com/~r/DobaDropshippingBlog/~3/rC0kB0c4dDY/" rel="external">Choosing Your Market Niche</a><div class="sexy_line"></div>
 			</li></ul>
 </div>					</div> <!--end footernav_innner_wrapper-->
 									</div>
@@ -266,7 +294,7 @@ var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga
 																<li><a href="/site/terms.html">Terms of use</a></li>
 								<li><a href="/site/privacy.html">Privacy Policy</a></li>
 							</ul>
-							<span class="copyright">© 2012 Doba. All Rights Reserved.</span>
+							<span class="copyright">© 2013 Doba. All Rights Reserved.</span>
 					</div>
 					<div class="right">
 													<div class="social_media">
@@ -294,66 +322,10 @@ var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga
 				</div> <!--footer-contents-->
 			</div> <!--end footer-->
 		</div>
-		<!-- KISSmetrics Tracker -->
-
-
-	<script type="text/javascript">
- 		var _kmq = _kmq || [];
-    	var _kmk = _kmk || '0bac3dce67fb22e46a0445aa84a30657f1431377';
-	  	function _kms(u){
-	    	setTimeout(function(){
-	    	    var d = document, f = d.getElementsByTagName('script')[0],
-				s = d.createElement('script');
-				s.type = 'text/javascript'; s.async = true; s.src = u;
-				f.parentNode.insertBefore(s, f);
-			}, 1);
-		}
-		_kms('//i.kissmetrics.com/i.js');
-		_kms('//doug1izaerwt3.cloudfront.net/' + _kmk + '.1.js');
-	</script>
 
 		<script>Jiffy.measure("footer");</script>
-		<script src="/site/scripts/s_code-9.js"></script><script src="/site/scripts/s_convert-7.js"></script>		
-		<!-- SiteCatalyst code version: H.19.4. Copyright 1997-2009 Omniture, Inc. More info available at http://www.omniture.com -->
-	<script type="text/javascript"><!--
-	/* You may give each page an identifying name, server, and channel on the next lines. */
-	s.pageName=getPageName('/site/privacy.html');
-	s.server="";
-	s.channel="privacy";
-	s.pageType="";
-	s.prop1="";
-	s.prop2="";
-	s.prop3="";
-	s.prop4="";
-	s.prop5="";
-	s.prop6 = (typeof s__prop6 !== 'undefined') ? s__prop6 : ""; 	s.prop7 = '';
-	s.prop8 = '';
-	s.prop9 = '';
-
-	/* E-commerce Variables */
-	s.campaign=getSource();
-	s.state="";
-	s.zip="";
-	s.events = (typeof s__events !== 'undefined') ? s__events : ""; 	s.products="";
-	s.purchaseID="";
-	s.eVar1=getSourceKey();
-	s.eVar2="";
-	s.eVar3=getValFromQueryString('campaign_code');
-	s.eVar4="";
-	s.eVar5="";
-	s.eVar6="";
-	s.eVar7 = (typeof s__eVar7 !== 'undefined') ? s__eVar7 : ""; 	s.eVar8 = '';
-	s.eVar9 = '';
-
-
-	/************* DO NOT ALTER ANYTHING BELOW THIS LINE ! **************/
-	var s_code=s.t();if(s_code)document.write(s_code)//--></script>
-	<script type="text/javascript"><!--
-	if(navigator.appVersion.indexOf('MSIE')>=0)document.write(unescape('%3C')+'\!-'+'-')
-	//--></script><noscript><div><a href="http://www.omniture.com" title="Web Analytics"><img src="http://wm-wholesalemarketercom.112.2o7.net/b/ss/wm-wholesalemarketercom/1/H.19.4--NS/0" height="1" width="1" style="border:none;display:none;" alt=""></a></div></noscript><!--/DO NOT REMOVE/-->
-	<!-- End SiteCatalyst code version: H.19.4. -->
-				<div id="steel_house_media" style="height:0;overflow:hidden;">
-	<script type="text/javascript" src="https://px.steelhousemedia.com/st?aid=9180&amp;cb=84551493505801040&amp;shcv=SHOPPING CART VALUE&amp;shcq=SHOPPING CART QUANTITY&amp;shcp=SHOPPING CART COMMA SEPARATED LIST OF PRODUCT IDs&amp;shpn=PRODUCT NAME&amp;shpc=PRODUCT CATEGORY&amp;shpp=PRODUCT PRICE&amp;shpb=PRODUCT BRAND&amp;shpi=PRODUCT%20IMAGE%20URL&amp;tdr= &amp;plh=https%3A%2F%2Fweb.archive.org%2Fweb%2F20121208145624id_%2Fhttp%253A%2F%2Fwww.doba.com%2Fsite%2Fprivacy.htmlInsert additional data starting with &amp;"></script><script type="text/javascript">
+								<div id="steel_house_media" style="height:0;overflow:hidden;">
+	<script type="text/javascript" src="https://px.steelhousemedia.com/st?aid=9180&amp;cb=50435177824017944&amp;shcv=SHOPPING CART VALUE&amp;shcq=SHOPPING CART QUANTITY&amp;shcp=SHOPPING CART COMMA SEPARATED LIST OF PRODUCT IDs&amp;shpn=PRODUCT NAME&amp;shpc=PRODUCT CATEGORY&amp;shpp=PRODUCT PRICE&amp;shpb=PRODUCT BRAND&amp;shpi=PRODUCT%20IMAGE%20URL&amp;tdr= &amp;plh=https%3A%2F%2Fweb.archive.org%2Fweb%2F20130628021922id_%2Fhttp%253A%2F%2Fwww.doba.com%2Fsite%2Fprivacy.htmlInsert additional data starting with &amp;"></script><script type="text/javascript">
 		
 		// tracking pixel
 		//var aid='9180';
