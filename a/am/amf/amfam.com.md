@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the amfam.com privacy policy that was archived on 2012-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121108120953id_/http%3A//www.amfam.com/security/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the amfam.com privacy policy that was archived on 2013-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130629012415id_/http%3A//www.amfam.com/security/privacy.asp) for the most accurate reproduction.*
 
 # Privacy and Security Policy | American Family Insurance
 
@@ -53,6 +53,7 @@ When you interact with the American Family Insurance website, we strive to make 
 
 ### Health Information Privacy Notice (for health insurance policyholders)
 
-We understand the personal nature of your medical information and are committed to protecting it. If you have a health insurance policy from American Family Insurance Group, we provide you the following [Notice of Privacy Practices for Health Information](https://web.archive.org/pdf/insurance/health/21872.pdf)1.
+We understand the personal nature of your medical information and are committed to protecting it. If you have an American Family health insurance policy, our policy administrator (American Enterprise Group Companies) provides you the following [Notice of Privacy Practices for Health Information](https://web.archive.org/pdf/insurance/health/health-privacy-notice.pdf),1 effective Jan. 1, 2013.   
+
 
 1A PDF reader is required to open a PDF. American Family Insurance is not liable for any direct or indirect technical or system issues or consequences from your use of third-party technologies or programs accessible through our site.
