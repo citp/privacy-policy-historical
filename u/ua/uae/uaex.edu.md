@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the uaex.edu privacy policy that was archived on 2012-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121228045101id_/http%3A//division.uaex.edu/statements.htm%23Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the uaex.edu privacy policy that was archived on 2013-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130628132627id_/http%3A//division.uaex.edu/statements.htm%23Privacy) for the most accurate reproduction.*
 
 # Statements, Disclaimers and Freedom of Information for the U of A Division of Agriculture
 
