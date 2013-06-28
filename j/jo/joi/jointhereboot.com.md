@@ -1,74 +1,235 @@
-> *The following text is extracted and transformed from the jointhereboot.com privacy policy that was archived on 2012-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121203081355id_/http%3A//www.jointhereboot.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jointhereboot.com privacy policy that was archived on 2013-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130629014904id_/http%3A//www.rebootwithjoe.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Reboot Your Life
+# Reboot with Joe Privacy Policy | Reboot With Joe
 
-This Privacy Policy explains what Reboot Holdings Pty Ltd and its affiliated entities (collectively, “Reboot”, “we” or “us”) do with the personal information that is collected from the users of our website currently located at http://www.jointhereboot.com (our “Site”) and via the services we provide in connection with our Site. Reboot may change its policy from time to time, so it is suggested that you check the Site from time to time to ensure that you know about our current policy. If you have any questions or concerns regarding this policy, you should contact us via our Contact Page.
+Reboot with Joe ( _“Reboot”_ ) understands that your privacy is important and we respect your privacy choices. In addition, we want to ensure that you know exactly how your information may be used. This Privacy Policy reflects our commitment to those principles and explains:
 
-Our Site contains links to other sites. Once you enter another website (whether through an advertisement, service, or content link), be aware that Reboot is not responsible for the privacy practices of these other sites. We encourage you to look for and review the privacy statements of each and every website that you visit through a link or advertisement on our Site or through a service provided by Reboot.
+  * How we use your information
+  * How we protect your information
+  * Choices you have regarding your personal information
+  * How to contact us
 
-#### CHILDREN
 
-While our Site is intended for a general audience, our Site is not designed or intended to attract children under the age of 13. We do not collect personally identifiable information from any person we actually know is under the age of 13.
 
-#### INFORMATION WE COLLECT
+This Privacy Policy applies to web sites owned and operated by Reboot as well as mobile device applications (“Apps”) for the iPhone, the iPad and mobile devices operating with the Android operating system.
 
-Our Site collects information from users in a number of different ways. Any time you use our Site, some basic, general information is collected. This general information is used internally in connection with our business to improve our Site, including our marketing and advertising efforts.
+**Information We Collect**
 
-When you set up an account on our Site, we collect additional personally identifiable information provided by you that may include your: (i) first and last name; (ii) address; (iii) email address; (iv) phone number; and (v) browsing and activity patterns. When you order a product directly from us, and not one of our partners (such as Amazon.com), we may also collect credit card and other billing information.
+_Personal Information_
 
-Additionally, when you register for a Reboot programme, we may also collect personally identifiable health information voluntarily provided by you. Please note that while we will work to maintain the privacy of any personally identifiable health information that you may provide us, Reboot is not subject to the privacy and security requirements of the Health Insurance Portability and Accountability Act of 1996 (HIPAA) or any other laws applicable to medical professionals and health care providers (or other “covered entities”).
+Should you provide it, we may collect the following types of information from you ( _“Personal Information”_ ), which may include information that can be used to identify you:
 
-#### HOW REBOOT USES AND SHARES YOUR PERSONAL INFORMATION
+  * Age
+  * Email Address
+  * Mailing Address
+  * Telephone Number(s)
+  * Credit Card Information
+  * Social Networking Handle or Username
+  * Photo or Video
 
-While we are committed to maintain the privacy of your billing information and personally identifiable health information, we may share or sell any of your other personal information for any legally permissible purpose at our discretion, including, but not limited to, those described in this Privacy Policy.
 
-Reboot may specifically disclose the personal information that you provide us in the following circumstances:  
-Reboot may employ other companies and individuals to perform functions on our behalf. They may have access to personal information needed to perform their functions, but will not be able to legally use it for other purposes.  
-Reboot might change, sell, reorganize or liquidate via bankruptcy its business. If so, your information will of course be one of the transferred assets, although we may retain a copy of your information.  
-We may release account and other personal information when we believe release is appropriate to comply with law, or to protect the rights, property, or safety of Reboot, our users, or others. In the event that we are legally compelled to disclose your personally identifiable information to a third party, we will use reasonable attempts to notify you unless doing so would violate the law or court order.
 
-#### SHARING OF GENERAL OR DEMOGRAPHIC INFORMATION
+In certain cases, we may request that you provide some of the information identified above in order to obtain specific products or services. If you choose not to provide the information we request, you may still use our web site but you may be unable to access certain features or services. When you register to receive any products or services from Reboot or provide information to Reboot in any other manner, you agree to provide only true, accurate, current and complete information.
 
-Reboot will, from time to time, share aggregated, general or demographic information we collect about our users and their use of our Site with our partners and advertisers in a manner which does not identify any individual user. We may use an outside shipping company to ship orders placed on our Site and a credit card processing company to bill users for goods and services purchased on our Site. Such companies will not retain, share, store or use any of our user’s personal information for any secondary purposes. We may partner with other parties to provide specific services that are available on our Site. When a user signs up for these services, we will share the user’s name or other contact information that is necessary for the third party to provide these services to the user, but these parties will not be allowed to use such personal information except for the purpose of providing these services.
+_Non-Personal Information_
 
-#### OUR COMMUNITY AREAS
+We may automatically receive and log certain types of information that cannot be used to identify you ( _“Non-Personal Information”_ ) when you visit or interact with the Reboot web site, services, Apps or other products, including:
 
-Our Site features community areas and other public forums where users can share information and support one another, or where users can post questions for others, including Reboot and our team, to answer. Our communities and forums are open to the public and should not be considered private.
+  * Browser Information
+  * Operating System Information
+  * Mobile Device Information (e.g., device identifier, mobile operating system, etc.)
+  * IP Address
+  * Internet Service Provider
+  * Content Viewed
+  * Geographic Location
+  * Connection Speed
+  * Time of Visit
+  * Referring Site, Application or Service
+  * Registration Time
 
-Any information shared in any on-line community area or other public forum is, by design, open to the public and is not private. Please think carefully before posting any personally identifiable information, especially health-related information, in any public forum. What you post may be seen, disclosed to or collected by third parties and may be used by others in ways we cannot control or predict. As with any public forum on any website, the information you post may also show up in third-party search engines like Google, Yahoo, MSN, Bing etc.
 
-#### COOKIES AND WEB BEACONS
 
-To enhance your on-line experience, we use “cookies” or similar technologies. Cookies are text files placed in your computer’s browser to store your preferences. Cookies do not contain personally identifiable information; however, once you choose to furnish a site with personally identifiable information, this information may be linked to the data stored in the cookie. We use cookies to understand site and Internet usage and to improve or customize the content, offerings or advertisements on our sites. For example, we may use cookies to personalize your experience at our Site (e.g., to recognize you by name when you return), save your password in password-protected areas, and enable you to use shopping carts on our Site. We also may use cookies to help us offer you products, programmes, or services that may be of interest to you and to deliver relevant advertising.
+Non-Personal Information about your use of the Reboot web site and your use of other web sites is collected through the use of Cookies and Web Beacons. “Cookies” are small data files that are stored on the hard drive of the computer you use to view a web site. Every computer that accesses the Reboot web site is assigned a unique cookie by Reboot. “Web Beacons” are graphic image files imbedded in a web page typically used to monitor activity on a web page and send back to its home server (which can belong to the host site, a network advertiser or some other third party) information from your browser, such as the IP address, the URL of the page on which the Web Beacon is located, the type browser that is accessing the site and the ID number of any Cookies on your computer previously placed by that server.
 
-We, our third party service providers, our advertisers or our partners may use cookies to manage and measure the performance of advertisements displayed on or delivered by or through our Site and may also use “web beacons” or clear .gifs, or similar technologies, which are small pieces of code placed on a web page, to monitor the behavior and collect data about the visitors viewing a web page.
+In addition, third parties under contract with Reboot may use Cookies or Web Beacons to collect Non-Personal Information about your usage of the Reboot web site. These third party advertising service providers may use this information, on our behalf, to help Reboot deliver advertising on the Reboot web site as well as on other sites on the Internet based on your browsing activity on our sites. Reboot may further tailor the advertising on these third party sites based on additional Non-Personal Information to the extent known by Reboot or these third parties.
 
-You can change your privacy preferences regarding the use of cookies and similar technologies through your web browser. You may set your web browser to accept all cookies, block certain cookies, require your consent before a cookie is placed in your web browser, or block all cookies. Blocking all cookies will affect your on-line experience and may prevent you from enjoying the full features offered at our Site.
+_Social Networking Sites_
 
-#### LOG FILES
+If you choose to use any third party website or service that is integrated with Reboot, such as Facebook, Google+ or Twitter ( _“Social Networking Sites”_ ), we may receive Personal Information from such Social Networking Sites, including, but not limited to:
 
-Like most websites, we use log files on our servers. These log files store information regarding IP (internet protocol) addresses, browser type, ISP (internet service provider), referring/exit pages, platform type, date/time stamp, and number of clicks. These log files are used to analyze trends, administer our Site, track user’s movements in the aggregate, and gather broad demographic information for our use.
+  * Name
+  * Nickname or Username
+  * Photo or Graphic Avatar
+  * Unique Third Party Website Identifier (e.g., Facebook User ID)
+  * Biographical or Demographic Information (e.g. professional title, gender, college attended, etc.)
+  * Likes and Interests
+  * Contacts / Friends / Associations
+  * Any Information that Is Publicly Available on Third Party Websites
 
-#### CO-BRANDED WEBSITES
 
-When accessing certain areas of our Site that are co-branded with a third-party’s trademarks, please be aware that even though the pages may have the same look and feel as that of our Site, you are actually entering your personal information on a co-branded partner website and should refer to the privacy policy applicable to that website.
 
-#### SURVEYS AND CONTESTS
+Reboot offers the ability to use certain Social Networking Sites to facilitate your registration on Reboot. We may also use information about your profile and connections on Social Networking Sites to allow you to share or connect with your friends and contacts on Reboot or to personalize your experience.
 
-From time to time, our Site may request information from our users via surveys or contests. Participation in these surveys or contests is completely voluntary and you have the choice of whether or not to participate in such survey or content or provide us with such information. Information requested may include contact information, such as name and shipping address, and demographic information, such as post code and age. Contact information will generally be used to notify the winners of contests and award prizes. Survey information will generally be used to monitor or improve the use and efficiency of our Site. All such information shall be subject to the terms of this Privacy Policy and our Terms of Use.
+Your decision to use, or share with, a Social Networking Site when accessing or using the Reboot web site is completely voluntary. Reboot is not responsible for compliance with the policies or practices of any Social Networking Site. You should ensure that you are comfortable with the information such Social Networking Sites may make available to Reboot by reviewing those Social Networking Sites’ privacy policies and service terms, and by modifying your privacy settings and preferences on those web sites accordingly.
 
-#### COMMUNICATIONS WITH US
+Any information we receive from Social Networking Sites will be governed by this Privacy Policy.
 
-Reboot may send you occasional notices or newsletters about our services, unless you tell us not to. If you do not want to receive such offers and mailings, you can click the unsubscribe link, which you will find on our email messages, or send an email at any time via our Contact Page.
+_Reboot Apps_
 
-#### HOW TO EDIT THE INFORMATION REBOOT HAS ABOUT YOU
+When you download and install a Reboot App onto your mobile device we assign a random number to your App installation. This number cannot be used to identify you personally, and we cannot identify you personally unless you choose to become a registered user of a Reboot App. We use this random number in a manner similar to our use of Cookies as described above. Unlike Cookies, the random number is assigned to your installation of an App itself and not a browser, because Apps do not work through your browser. If you do not want us to use the random number for the purposes for which we use Cookies, please do not use any Reboot Apps and please use your mobile device browser to access the Reboot web site or our mobile optimized sites. We do not obtain any information about your mobile device other than the brand, make and model and type of operating software your device uses.
 
-If you want to correct or change any information we have about you, please send us an email via our Contact Page.
+_Analytics Services_
 
-#### SECURITY
+Reboot uses third party analytics providers and products to obtain, compile and analyze information (that may include Personal Information) about how users are using and interacting with the Reboot web site. Reboot may provide information (including Personal Information) to these analytics providers for the purpose of obtaining statistics and other information about how users are using and interacting with the Reboot web site. These analytics providers may use tracking techniques other than Cookies to recognize your computer or device and/or to collect or compile this information. These techniques may be used directly on the Reboot web site. Reboot has no responsibility for the technologies, tools or practices of the third parties that provide analytics products and services to Reboot. Please be aware that your web browser may not permit you to block the use of these techniques, and that browser settings that block conventional Cookies may have no effect on such techniques.
 
-Reboot takes reasonable precautions to protect our users’ information. If you have any concerns about the security on our Site, you can send us an email via our Contact Page.
+_Non-Personal Information Collected by Third Parties Not Acting on Reboot’s Behalf_
 
-#### CONDITIONS OF USE
+We work with third parties to display advertising that reflects the interests and preferences of our users. Sponsors or advertisers on the Reboot web site may use their own Cookies, Web Beacons or other online tracking technologies in the banner advertisements served on the Reboot web site and in emails, special promotions, Daily Posts or Newsletters we send you. Their advertisements may be displayed on the Reboot web site or on other sites that you visit after you visit the Reboot web site. Some advertisers use companies other than Reboot to serve their ads and to monitor users’ responses to ads, and these companies (“Ad Servers”) may also collect Non-Personal Information through the use of Cookies or Web Beacons on the Reboot web site.
 
-Any dispute over privacy is subject to our Terms of Use including limitations on damages, venue of disputes, and the application of the laws of the state of New York.
+We do not control how third parties use Cookies or Web Beacons or how they manage the Non-Personal Information they gather through the use of these technologies on the Reboot web site. However, we do require sponsors, advertisers and Ad Servers who collect Cookie or Web Beacon information through the Reboot web site to agree that they will not collect any Personal Information from the Reboot web site without your consent. They have promised us they will not link any Non-Personal Information collected by them on the Reboot web site to Personal Information they or others collect in other ways or from other sites.
+
+_Personal Health Information_
+
+In connection with certain services offered by Reboot, we may request information regarding your health history. To the extent we collect any personal health information, we will comply with all applicable laws and regulations relating to the privacy and security requirements for such information. While we will work to maintain the privacy of all health information that you may provide to us, Reboot is currently not subject to the privacy and security requirements of the Health Insurance Portability and Accountability Act of 1996 (HIPAA) or any other laws applicable to medical professionals and health care providers (or other “covered entities”).
+
+**How We Use Your Information**
+
+We may use information we collect about you to:
+
+  * Administer your account
+  * Provide you with access to particular services
+  * Respond to your inquiries and send you communications
+  * Obtain your feedback on our sites and our offerings
+  * Statistically analyze user behavior and activity
+  * Provide you with more relevant content and advertisements
+  * Conduct research and measurement activities
+  * Send you personalized emails or secure electronic messages pertaining to your interests, including news, announcements, reminders and opportunities
+
+
+
+_Use of Personal Information_
+
+We use the information we obtain from you to provide Reboot products and services, fulfill your requests, improve our products and services, personalize and tailor your experience on our web site, operate our business, and understand how users are engaging with Reboot. In addition, we may use information from you to facilitate the delivery of content or advertisements that we believe may be of interest to you, or to communicate with you about new or existing products and services or special offers.
+
+Reboot does not make your Personal Information available to third parties for marketing purposes.
+
+_Use of Non-Personal Information_
+
+We may combine Personal and Non-Personal Information about you, and may combine this information with information from external sources. Third parties may also use Non-Personal Information in order to display advertising that reflects the interests and preferences of our users.
+
+We also use Cookies in order to conduct surveys for our own use and on behalf of our advertisers. These Cookies are used to determine whether you have seen certain content or advertising so that we may request your opinions. We may also use Cookies to authenticate respondents or to help you pick up where you left off in a survey. If you have Cookies disabled you may not be able to participate in some surveys.
+
+_Remarketing on Third Party Web Sites_
+
+The Reboot web site employs Google AdWords Remarketing ( _“Adwords”_ ) to advertise Reboot goods and services across the Internet. This is how it works: AdWords uses Cookies to track which parts of the Reboot web site you have viewed. Then, using the Non-Personal Information obtained through those Cookies, third party vendors (e.g., Google) display Reboot ads specifically tailored to you on third party web sites that you visit. This way, we are able to advertise Reboot goods and services in a way that best suits your specific needs.
+
+If you do not wish to participate in AdWords, you can opt out by visiting Google’s Ads Preferences Manager. You can also opt out of any third-party vendor’s use of Cookies by visiting [www.networkadvertising.org/choices](http://www.networkadvertising.org/choices).
+
+_Research and Measurement Activities_
+
+Information that Reboot collects about you may be combined by Reboot with other information available to Reboot through third parties for research and measurement purposes, including measuring the effectiveness of content, advertising or programs. This information from other sources may include age, gender, demographic, location, personal interests, product purchase activity or other information. We may report aggregate information, which is not able to be identified back to an individual user of the Reboot web site, to our current or prospective advertisers and other business partners. We do not sell or share any Personal Information with any third parties, except contractors performing services on our behalf who agree not to use this information received from us for any purpose other than performing services on our behalf.
+
+_Disclosures to Reboot Operations and Maintenance Contractor_
+
+Reboot contractors sometimes have limited access to your Personal and Non-Personal Information in the course of providing products or services to Reboot. These contractors include vendors and suppliers that provide us with technology, services, data analysis, research, advertising and marketing assistance and/or content for the operation and maintenance of the Reboot web site. We contractually require that our operations and maintenance contractors: (1) protect the privacy of your Personal and Non-Personal Information consistent with this Privacy Policy and (2) not use or disclose your Personal or Non-Personal Information for any purpose other than providing the limited service or function for Reboot.
+
+_Disclosures to Third Party Web Sites_
+
+Certain content, services and advertisements offered to you through the Reboot web site are served on, or contain links to, web sites hosted and operated by a company other than Reboot (“Third Party Web Sites”). Reboot does not disclose your Personal Information to these Third Party Web Sites without your consent, but you should be aware that any information you disclose to the other web sites once you access these other web sites is not subject to this Privacy Policy. Reboot does not endorse and is not responsible for the privacy practices of these Third Party Web Sites. You should review the privacy policy posted on the other web site to understand how that Third Party Web Site collects and uses your Personal Information and Non-Personal Information.
+
+_Third Party Promotions_
+
+From time to time, Reboot may provide you with the opportunity to opt-in to receive promotional offers and marketing communications from our affiliates and commercial partners. If you do not opt-in, Reboot will not send you any such promotional offers. You may also opt-out of receiving any such promotional offers at any time by clicking the “unsubscribe” link in the body of the communication.
+
+_Mandatory Disclosures_
+
+Except as described in this Privacy Policy or as specifically agreed to by you, Reboot will not disclose any Personal Information it gathers from you through the Reboot web site. We may only release Personal Information to third parties:
+
+  1. To comply with legal requirements such as a law, regulation, search warrant, subpoena or court order.
+  2. In special cases, such as to protect property or defend or assert legal rights.
+  3. In the event of a corporate change in control resulting from, for example, a sale to another entity, or in the event of a sale of assets or a bankruptcy, Reboot reserves the right to transfer your Personal Information to the new party in control or the party acquiring assets. In the event of such a change, your Personal Information will continue to be treated in accordance with this Privacy Policy unless any changes to the Privacy Policy are made in accordance with the section below titled “Changes to This Privacy Policy.”
+
+
+
+**How We Protect Your Information**
+
+_Internal Safeguards_
+
+The security of your Personal Information is important to us. We use commercially reasonable administrative, technical, personnel and physical measures to safeguard Personal Information in our possession against loss, theft and unauthorized use, disclosure or modification.
+
+Despite Reboot’s efforts to protect your Personal Information, there is always some risk that an unauthorized third party may find a way around our security systems or that transmissions of your information over the Internet may be intercepted.
+
+We will retain your Personal Information as long as your account is active or needed to provide you services. At any time you can remove your Personal Information or instruct us to remove it, but you should be aware that it is not technologically possible to remove each and every record of the information you have provided to Reboot from our servers. Reboot tools that collect and store Personal Information allow you to correct, update or review information you have submitted by going back to the specific tool, logging-in and making the desired changes. We will also retain your Personal Information as necessary to comply with legal obligations, resolve disputes and enforce our agreements.
+
+_Children Under the Age of 13_
+
+We are committed to protecting the privacy of children. The Reboot web site is not designed or intended to attract children under the age of 13. The Reboot web site does not collect Personal Information from any person we actually know is under the age of 13.
+
+**Choices You Have Regarding Your Personal Information**
+
+There are several options available to you if you do not want your Personal Information used by Reboot as provided in this Privacy Policy.
+
+_Registering an Account Is Optional_
+
+You should not register as a member or for any specific service or application that collects Personal Information. You may correct, update or review any Personal Information you have submitted through registration by signing in and updating your registration information. If you have registered and no longer want Reboot to use your Personal Information, you should delete such information from your account.
+
+_Reviewing and Modifying Your Personal Information_
+
+At any time, you may update Personal Information that is stored on the Reboot web site or change your account preferences on the Reboot web site:
+
+  1. If you have an account on the Reboot web site, you can log in and update or change your account information
+  2. You may unsubscribe to any of our email updates, posts, newsletters or products by following the unsubscribe instructions in the body of any message
+  3. You may contact us at kari@rebootwithjoe.com
+
+
+
+_Use Caution When Sharing Information in Community Forums_
+
+Reboot features public forums where users with similar interests can share information and support one another. Such forums are open to the public and should not be considered private. Any information (including Personal Information) you share in any online community area is not private. You should think carefully before posting any Personal Information in any public forum. What you post can be seen, disclosed to or collected by third parties and may be used by others in ways we cannot control or predict, including to contact you for unauthorized purposes. As with any public forum on any site, the information you post may also show up in third-party search engines.
+
+If you mistakenly post Personal Information in our community areas and would like it removed, you can send us an email to request that we remove it by using the Contact Us link on every page of the Reboot web site. In some cases, we may not be able to remove your Personal Information.
+
+_Disabling Cookies_
+
+Most browsers offer instructions on how to reset the browser to reject Cookies in the “Help” section of the toolbar. If you reject our Cookies, certain of the functions and conveniences of the Reboot web site may not work properly but you do not have to accept our Cookies in order to productively use the Reboot web site. It is important to note that in order to use the opt-out services described below, you must not reject all Cookies because these opt-out procedures work by placing Cookies on your browser that enable these opt-out procedures to function. The “opt-out Cookies” are placed, for example, in order to help prevent the placement of Cookies used for the targeting of advertising.
+
+Certain Ad Servers allow you to prevent them from collecting data through the use of Cookies. In order to do so, you must Opt-out of such data collection with each individual site. You can find additional information and resources about how to opt out of advertising and related Cookies by visiting the World Privacy Forum’s site at [www.worldprivacyforum.org](http://www.worldprivacyforum.org/).
+
+In addition, as set forth above, you can opt out of any third-party vendor’s use of Cookies by visiting [www.networkadvertising.org/choices](http://www.networkadvertising.org/choices).
+
+_Opt-Out_
+
+You can choose to opt-out of receiving Reboot’s Daily Posts, Newsletters or other materials at any time by unsubscribing. Simply:
+
+  * Follow the directions included at the bottom of the newsletter; or
+  * Log in to your Reboot account and uncheck the newsletters you no longer wish to receive.
+
+
+
+In addition, if you previously requested that we send you third party promotional offers, you may opt-out of receiving such materials at any time by clicking the “unsubscribe” link in the body of the communication.
+
+_Electronic Communications You Send to Reboot_
+
+This Privacy Policy does not apply to information, content, business information, ideas, concepts or inventions that you send to Reboot by email, text message or other means of electronic communication. If you want to keep content or business information, ideas, concepts or inventions private or proprietary, do not send them electronically to Reboot.
+
+**California Privacy Rights**
+
+California Law permits those visitors to our web site who are California residents to request certain information regarding our disclosure of Personal Information to third parties for their own direct marketing purposes. To make such a request, please write to us at our address set forth above and include your name and the address to which you would like us to respond.
+
+**Cross-Border Transfer**
+
+Your Personal Information may be stored and processed in any country where Reboot has facilities or in which we engage service providers, and by using our products and services you consent to the transfer of information to countries outside of your country of residence, including the United States, which may have different data protection rules than in your country.
+
+**How to Contact Us**
+
+If you have questions about our Privacy Policy, please contact us at kari@rebootwithjoe.com. You can also contact Reboot’s Privacy Office at:
+
+540 Broadway, Suite 203  
+New York, NY 10012  
+Attn: Kari Thorstensen
+
+**Changes to this Privacy Policy**
+
+We may change this Privacy Policy from time to time, so it is suggested that you check the Reboot web site from time to time to ensure that you know about our current policy. We reserve the right to change or modify this Privacy Policy or any of our tools or services at any time and any changes will be effective upon being posted unless we advise otherwise. If we make any material changes to this policy we will notify you by email (sent to the email address specified when you register) and/or by means of a notice on this website prior to the change becoming effective. We encourage you to periodically review this website for the latest information on our privacy practices. If you do not accept the terms of this Privacy Policy, we ask that you do not register with us and that you do not use the Reboot web site. Please exit the Reboot web site immediately if you do not agree to the terms of this Privacy Policy.
+
+Effective June 1, 2013
