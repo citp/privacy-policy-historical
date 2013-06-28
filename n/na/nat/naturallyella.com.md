@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the naturallyella.com privacy policy that was archived on 2012-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121228054652id_/http%3A//naturallyella.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the naturallyella.com privacy policy that was archived on 2013-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130628071628id_/http%3A//naturallyella.com/privacy-policy) for the most accurate reproduction.*
 
 # Naturally Ella | Privacy Policy | Naturally Ella
 
