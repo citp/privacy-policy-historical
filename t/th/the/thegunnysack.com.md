@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the thegunnysack.com privacy policy that was archived on 2012-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121106102036id_/http%3A//www.thegunnysack.com/p/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thegunnysack.com privacy policy that was archived on 2013-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130628074632id_/http%3A//www.thegunnysack.com/privacy-policy) for the most accurate reproduction.*
 
-# The Gunny Sack: Privacy Policy
+# Privacy Policy | The Gunny Sack
 
 **What information do we collect?**
 
