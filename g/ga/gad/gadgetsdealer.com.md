@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gadgetsdealer.com privacy policy that was archived on 2012-10-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121028095327id_/http%3A//www.gadgetsdealer.com/m-article-id-83.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gadgetsdealer.com privacy policy that was archived on 2013-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130628044657id_/http%3A//www.gadgetsdealer.com/m-article-id-83.html) for the most accurate reproduction.*
 
 # Privacy Policies - Gadgetsdealer.com
 
@@ -35,9 +35,13 @@ Transaction mail, Shipping notification, Weekly deal, Promotion, Activity.
 
   
 1333 Arlington Blvd, Davis, CA 95616-2658, USA +1 530-419-5986, [Contact Us ](http://www.gadgetsdealer.com/eload_admin/m-article-id-12.html)  
-Email:support@gadgetsdealer.com
+Email:support@gadgetsdealer.com  
+This address does not accept returns.  
 
- **How to unsubscribe?**
+
+Note:  
+After registering,you will receive our newsletters with information about sales,coupons,and special promotions.
 
   
+**How to unsubscribe?**  
 You can unsubscribe by using the link from any email newsletter or your personal subscribe setting after logged in.
