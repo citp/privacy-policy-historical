@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the flv2mp3.com privacy policy that was archived on 2012-11-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121117052124id_/http%3A//flv2mp3.com/info/policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the flv2mp3.com privacy policy that was archived on 2013-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130628184139id_/http%3A//www.flv2mp3.com/info/policy) for the most accurate reproduction.*
 
 # 
 
@@ -7,8 +7,6 @@
   * [Privacy Policy](http://www.flv2mp3.com/info/policy)
   *  · 
   * [FAQ](http://www.flv2mp3.com/info/faq)
-  *  · 
-  * [Top 1000](http://www.flv2mp3.com/top/top1000)
   *  · 
   * [Feedback](http://www.flv2mp3.com/feedback/)
 
