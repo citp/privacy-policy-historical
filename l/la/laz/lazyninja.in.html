@@ -1,0 +1,472 @@
+<!--The following is the downloaded HTML source of the lazyninja.in privacy policy that was archived on 2013-06-28.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130628044658id_/http%3A//lazyninja.in/index.php%3Froute%3Dinformation/information%26information_id%3D3) for the most accurate reproduction.-->
+
+<!DOCTYPE html><html dir="ltr" lang="en"><head>
+<meta charset="UTF-8">
+<title>Privacy Policy</title>
+<base href="http://lazyninja.in/">
+<script async="" src="//connect.facebook.net/en_US/fp.js"></script><script type="text/javascript" src="catalog/view/javascript/jquery/jquery-1.7.1.min.js"></script>
+<script type="text/javascript" src="catalog/view/javascript/jquery/ui/jquery-ui-1.8.16.custom.min.js"></script>
+<script type="text/javascript" src="catalog/view/javascript/jquery/ui/external/jquery.cookie.js"></script>
+<script type="text/javascript" src="catalog/view/javascript/jquery/colorbox/jquery.colorbox.js"></script>
+<script type="text/javascript" src="catalog/view/javascript/jquery/tabs.js"></script>
+
+<script type="text/javascript" src="catalog/view/theme/rgen-opencart/js/common.js"></script>
+<link rel="stylesheet" type="text/css" href="catalog/view/javascript/jquery/ui/themes/ui-lightness/jquery-ui-1.8.16.custom.css">
+<link rel="stylesheet" type="text/css" href="catalog/view/javascript/jquery/colorbox/colorbox.css" media="screen">
+<link href="http://fonts.googleapis.com/css?family=Lato:400,700,900,400italic,700italic,900italic" rel="stylesheet" type="text/css">
+<link rel="stylesheet" type="text/css" href="catalog/view/theme/rgen-opencart/stylesheet/stylesheet.css">
+<link rel="stylesheet" type="text/css" href="catalog/view/theme/rgen-opencart/stylesheet/theme.css">
+
+<!--[if IE 7]>
+<link rel="stylesheet" type="text/css" href="catalog/view/theme/default/stylesheet/ie7.css" />
+<![endif]-->
+<!--[if lt IE 7]>
+<link rel="stylesheet" type="text/css" href="catalog/view/theme/default/stylesheet/ie6.css" />
+<script type="text/javascript" src="catalog/view/javascript/DD_belatedPNG_0.0.8a-min.js"></script>
+<script type="text/javascript">
+DD_belatedPNG.fix('#logo img');
+</script>
+<![endif]-->
+<!--[if IE]>
+<link rel="stylesheet" type="text/css" href="catalog/view/theme/default/stylesheet/ie.css" />
+<![endif]-->
+
+
+
+
+<style type="text/css">
+</style>
+
+
+
+<link rel="stylesheet" type="text/css" href="catalog/view/javascript/sliding-cart/sliding-cart.css"> 
+<script type="text/javascript" src="catalog/view/javascript/sliding-cart/jquery.tabSlideOut.v1.3.js"></script>
+
+
+
+
+
+
+</head>
+<body>
+<div id="container">
+	<div id="header-wrapper"><div id="header">
+			
+			<div class="top-options">
+				<div id="cart">
+	<div class="heading">
+		<a>
+			<span id="cart-total">
+				
+			</span>
+		</a>
+	</div>
+	<div class="content">
+		<b class="cart-arrow"></b>
+				<div class="empty">
+			Your shopping cart is empty!			
+			<span class="empty-cart">
+							<span>Rs.0.00</span>
+							<span>Rs.0.00</span>
+						</span>
+			
+		</div>
+		
+		
+			</div>
+</div>
+
+<script type="text/javascript">
+
+function cartChk(){
+		
+	var getTotal = $('.mini-cart-total').find('tr:last').find('td:last').html();
+	var emptyTotal = $('.empty-cart').find('span:last').text();
+
+	if(getTotal != null){
+		$('#cart').find('#cart-total').html(getTotal);
+	}else{
+		$('#cart-total').text(emptyTotal);
+		$('.empty-cart').empty();
+	}
+}
+
+cartChk();
+
+$('#cart > .heading a').live('click', function() {
+	
+	$('#cart').addClass('active');
+	
+	$('#cart').load('index.php?route=module/cart #cart > *', function(){
+		cartChk();
+		//removePrd();
+	});
+	
+	$('#cart').live('mouseleave', function() {
+		$(this).removeClass('active');
+	});
+});
+
+</script>												<div class="links">
+					<!--<a href="http://lazyninja.in/index.php?route=common/home">Home</a> -->
+					<a href="http://lazyninja.in/index.php?route=checkout/simplecheckout">Shopping Cart</a>
+					<a href="http://lazyninja.in/index.php?route=account/wishlist" id="wishlist-total">Wish List (0)</a>
+					<a href="http://lazyninja.in/index.php?route=checkout/simplecheckout">Checkout</a>
+					<a href="http://lazyninja.in/index.php?route=account/account">My Account</a>
+				</div>
+			</div>
+			
+			
+			<div id="search">
+				<div class="button-search"></div>
+								<span class="search-box"><span class="search-close"></span><input type="text" name="filter_name" value="Search" onclick="this.value = '';" onkeydown="this.style.color = '#000000';"></span>
+							</div>
+			
+			<div id="welcome">
+								Welcome visitor you can <a href="http://lazyninja.in/index.php?route=account/login">login</a> or <a href="http://lazyninja.in/index.php?route=account/simpleregister">create an account</a>.							</div>
+			
+			
+		</div>		<div class="navigation-bar">
+			<div class="store-logo">
+								<a href="http://lazyninja.in/index.php?route=common/home" id="logo" style="margin-left:-98px; margin-top:-30px;">
+					<img src="http://lazyninja.in/image/data/logo/logolazy.jpg" width="180" height="60" title="LazyNinja" alt="LazyNinja">				</a>
+							</div>
+						<div id="menu">
+				<a href="http://lazyninja.in/index.php?route=common/home" title="LazyNinja" class="home-btn">LazyNinja</a>
+				<ul>
+										<li><a href="http://lazyninja.in/cool-tshirts" class="top-lvl">Cool Tees</a>
+												<div>
+														<ul>
+																																<li><a href="http://lazyninja.in/cool-tshirts/tvseriestees" class="sub-lvl">TV Series Tees</a></li>
+																																<li><a href="http://lazyninja.in/cool-tshirts/Cool-Funny-Tees" class="sub-lvl">Cool &amp; Funny Tees</a></li>
+																							</ul>
+														<ul>
+																																<li><a href="http://lazyninja.in/cool-tshirts/Superhero-Tees" class="sub-lvl">Superhero Tees</a></li>
+																																<li><a href="http://lazyninja.in/cool-tshirts/spoof-tees" class="sub-lvl">Spoof Tees</a></li>
+																							</ul>
+													</div>
+											</li>
+										<li><a href="http://lazyninja.in/customizedtshirts" class="top-lvl">Customized T-Shirts</a>
+											</li>
+										<li><a href="http://lazyninja.in/discountdeals" class="top-lvl">Discount Offers</a>
+											</li>
+										<li><a href="http://lazyninja.in/contest" class="top-lvl">Ongoing Contest</a>
+											</li>
+										<li><a href="http://lazyninja.in/jobs-at-lazyninja" class="top-lvl">Careers</a>
+											</li>
+									</ul>
+			</div>
+					
+		</div>
+		
+	</div>
+	
+	
+	<div id="notification"></div>
+	
+	
+<div id="content">
+	
+	<!--CONTENT LEFT -->
+	 
+	
+	<!--CONTENT RIGHT -->
+		
+	<!--PAGE CONTENT WRAPPER -->
+	<div class="content-body">
+		
+		<div class="breadcrumb">
+				<span></span><a href="http://lazyninja.in/index.php?route=common/home">Home</a>
+				<span> » </span><a href="http://lazyninja.in/index.php?route=information/information&amp;information_id=3">Privacy Policy</a>
+				</div>
+		
+		<h1 class="page-heading"><strong>Privacy Policy</strong></h1>
+		
+				<p>
+	&nbsp;</p>
+<div id="content" style="font-family: Verdana,Arial,Helvetica,sans-serif; width: 950px; float: left; margin: 0px 0px 10px; padding-right: 20px; min-height: 975px; color: rgb(0, 0, 0); text-align: left;">
+	<div class="middle" style="padding: 10px 0px 0px; min-height: 380px; width: 730px;">
+		<p style="margin-top: 0px;">
+			This privacy policy is about how we use and protect any information that you give to LazyNinja.in</p>
+		<p style="margin-top: 0px;">
+			We take atmost care to protect your information which you share with us. Should we ask you to provide certain information by which you can be identified when using this website, then you can be assured that it will only be used in accordance with this privacy statement.</p>
+		<p style="margin-top: 0px;">
+			This privacy policy is active from 1st Jan 2013. It may change time to time but our basic terms will not change.</p>
+		<p style="margin-top: 0px;">
+			<b>What we collect</b></p>
+		<p style="margin-top: 0px;">
+			We may collect the following information:</p>
+		<ul>
+			<li>
+				name&nbsp;</li>
+			<li>
+				contact information including email address</li>
+			<li>
+				demographic information such as postcode or zipcode, city, state</li>
+			<li>
+				other information relevant to customer surveys and/or offers</li>
+		</ul>
+		<p style="margin-top: 0px;">
+			What we do with the information collected?</p>
+		<p style="margin-top: 0px;">
+			The information is collected to understand your needs and provide you with a better service, and for the following reasons:</p>
+		<ul>
+			<li>
+				For improving our products and services</li>
+			<li>
+				For keeping track of all the users of website</li>
+			<li>
+				We may periodically send promotional emails about new products, special offers or other information which we think you may find interesting to you</li>
+			<li>
+				From time to time, we may also use your information to contact you for market research purposes. We may contact you by email, phone, fax or mail. We may use the information to customise the website according to your interests.</li>
+		</ul>
+		<p style="margin-top: 0px;">
+			<b>Security</b></p>
+		<p style="margin-top: 0px;">
+			In order to prevent unauthorised access or disclosure, we have put in place suitable physical, electronic and managerial procedures to safeguard and secure the information we collect from our users.&nbsp;We are committed to ensuring the security of your information.</p>
+		<p style="margin-top: 0px;">
+			&nbsp;</p>
+	</div>
+</div>
+<p>
+	&nbsp;</p>
+		<div class="buttons">
+			<div class="right"><a href="http://lazyninja.in/index.php?route=common/home" class="button dark-bt">Continue</a></div>
+		</div>
+		
+	</div>
+	<link rel="stylesheet" href="catalog/view/theme/default/social-slides/social-slides.css">
+<link href="https://plus.google.com/" rel="publisher"><script type="text/javascript" src="https://apis.google.com/js/plusone.js">{lang: 'en'}</script>
+<script type="text/javascript">
+jQuery(document).ready(function(){
+ jQuery("#facebook_right").hover(function(){ jQuery(this).stop(true,false).animate({right:  0}, 500); },function(){ jQuery("#facebook_right").stop(true,false).animate({right: -300}, 500); }); 
+ jQuery("#twitter_right").hover(function(){ jQuery(this).stop(true,false).animate({right:  0}, 500); },function(){ jQuery("#twitter_right").stop(true,false).animate({right: -250}, 500); }); 
+ jQuery("#google_plus_right").hover(function(){ jQuery(this).stop(true,false).animate({right:  0}, 500); },function(){ jQuery("#google_plus_right").stop(true,false).animate({right: -316}, 500); }); 
+ jQuery("#pinterest_right").hover(function(){ jQuery(this).stop(true,false).animate({right:  0}, 500); },function(){ jQuery("#pinterest_right").stop(true,false).animate({right: -228}, 500); });
+ jQuery("#youtube_right").hover(function(){ jQuery(this).stop(true,false).animate({right:  0}, 500); },function(){ jQuery("#youtube_right").stop(true,false).animate({right: -279}, 500); }); 
+ jQuery("#feedburner_right").hover(function(){ jQuery(this).stop(true,false).animate({right:  0}, 500); },function(){ jQuery("#feedburner_right").stop(true,false).animate({right: -303}, 500); }); 
+});
+</script>
+<div id="on">
+    <div id="facebook_right" style="top: 15%;">
+        <div id="facebook_div">
+            <img src="catalog/view/theme/default/social-slides/facebook.png" alt="">            
+           <iframe src="http://www.facebook.com/plugins/likebox.php?href=http%3A%2F%2Ffacebook.com%2Fpages%2Flazyninja.in/475788345801243&amp;locale=en_GB&amp;width=300&amp;connections=15&amp;stream=&amp;header=false&amp;show_faces=true&amp;height=340" scrolling="no"></iframe>
+        </div>
+    </div>
+</div>
+<div id="on">
+    <div id="twitter_right" style="top: 21%;">
+        <div id="twitter_div">
+            <img id="twitter_right_img" src="catalog/view/theme/default/social-slides/twitter.png">
+            <script src="http://widgets.twimg.com/j/2/widget.js"></script>
+            <script>
+                new TWTR.Widget({
+                version: 2,
+                type: 'profile',
+                rpp: 4,
+                interval: 1000,
+                width: 246,
+                height: 265,
+                theme: {
+                shell: {
+                background: '#63BEFD',
+                color: '#FFFFFF'
+                },
+                tweets: {
+                background: '#FFFFFF',
+                color: '#000000',
+                links: '#38b0e3'}
+                },
+                features: {
+                loop: false,live: true,
+                scrollbar: false,hashtags: false,timestamp: true,avatars: true,behavior: 'all'}
+                }).render().setUser('lazyninjatees').start();
+            </script>
+        </div>
+    </div>
+</div>
+<div id="off">
+    <div id="google_plus_right" style="top: %;">
+        <div id="google_plus_div">
+          <img id="google_plus_right_img" src="catalog/view/theme/default/social-slides/google.png">
+          <div style="float:left;margin-left:3px;"><g:plus href="https://plus.google.com/" width="307" height="131" theme="light"></g:plus></div>
+    </div>
+  </div>
+</div>
+<div id="off">
+    <div id="pinterest_right" style="top: %;">
+        <div id="pinterest_div">          
+          <div style="float:left;margin-left:5px;margin-top:3px;">
+          <a href="http://pinterest.com//" target="_blank"><img src="http://passets-cdn.pinterest.com/images/about/buttons/follow-me-on-pinterest-button.png" width="169" height="28" alt="Follow Me on Pinterest"></a>
+          </div>
+          <div style="clear:left;float:left;margin-left:70px;margin-top:5px;"><a href="http://pinterest.com/pin/create/button/?url=http://lazyninja.in/&amp;media=http://lazyninja.in/image/data/logo.png" class="pin-it-button" count-layout="vertical"><img border="0" src="http://assets.pinterest.com/images/PinExt.png" title="Pin It"></a>
+          <script type="text/javascript" src="http://assets.pinterest.com/js/pinit.js"></script>
+          </div>
+          <img id="pinterest_right_img" src="catalog/view/theme/default/social-slides/pinterest.png">
+    </div>
+  </div>
+</div>
+<div id="off">
+    <div id="youtube_right" style="top: %;">
+        <div id="youtube_div">
+<iframe id="fr" src="http://www.youtube.com/subscribe_widget?p=" style="overflow: hidden; height: 105px; width: 275px; border: 0;" scrolling="no" frameborder="0"></iframe>
+            <img id="youtube_right_img" src="catalog/view/theme/default/social-slides/youtube.png">
+        </div>
+    </div>
+</div>
+<div id="off">
+    <div id="feedburner_right" style="top: %;">
+        <div id="feedburner_div">
+            <center>
+            <h4 style="color:#f57917; text-align: left; padding-left: 25px;">FeedBurner - Receive Free Email Updates:</h4> 
+            <form action="http://feedburner.google.com/fb/a/mailverify" method="post" target="popupwindow" onsubmit="window.open('http://feedburner.google.com/fb/a/mailverify?uri=', 'popupwindow', 'scrollbars=yes,width=550,height=520');return true">
+            <input gtbfieldid="10" class="enteryouremail" name="email" value="Enter your email here..." onblur="if (this.value == '') {this.value = 'Enter your email here...';}" onfocus="if (this.value == 'Enter your email here...') {this.value = '';}" type="text">
+            <input value="" name="uri" type="hidden"><input value="Submit" class="submitbutton" type="submit"></form>
+            </center>
+            <img id="feedburner_right_img" src="catalog/view/theme/default/social-slides/feedburner.png">
+        </div>
+    </div>
+</div>
+
+</div>
+
+
+<div id="footer">
+		<div class="column">
+		<h3 class="header-3">Information</h3>
+		<ul>
+						<li><a href="http://lazyninja.in/about_us">About us</a></li>
+						<li><a href="http://lazyninja.in/index.php?route=information/information&amp;information_id=6">Delivery Policy</a></li>
+						<li><a href="http://lazyninja.in/index.php?route=information/information&amp;information_id=3">Privacy Policy</a></li>
+						<li><a href="http://lazyninja.in/return-policy">Return Policy</a></li>
+						<li><a href="http://lazyninja.in/index.php?route=information/information&amp;information_id=5">Terms &amp; Conditions</a></li>
+						<li><a href="http://lazyninja.in/index.php?route=information/information&amp;information_id=15">Disclaimer</a></li>
+						<li><a href="http://lazyninja.in/index.php?route=information/information&amp;information_id=32">Refund Policy</a></li>
+					</ul>
+	</div>
+		<div class="column">
+		<h3 class="header-3">Customer Service</h3>
+		<ul>
+			<li><a href="http://lazyninja.in/index.php?route=information/contact">Contact Us</a></li>
+			<li><a href="http://lazyninja.in/index.php?route=account/return/insert">Returns</a></li>
+			<li><a href="http://lazyninja.in/index.php?route=information/sitemap">Site Map</a></li>
+		</ul>
+	</div>
+	<div class="column">
+		<h3 class="header-3">Extras</h3>
+		<ul>
+			<li><a href="http://lazyninja.in/index.php?route=product/manufacturer">Brands</a></li>
+			<li><a href="http://lazyninja.in/index.php?route=account/voucher">Gift Vouchers</a></li>
+			<li><a href="http://lazyninja.in/index.php?route=affiliate/account">Affiliates</a></li>
+			<li><a href="http://lazyninja.in/index.php?route=product/special">Specials</a></li>
+		</ul>
+	</div>
+	<div class="column">
+		<h3 class="header-3">My Account</h3>
+		<ul>
+			<li><a href="http://lazyninja.in/index.php?route=account/account">My Account</a></li>
+			<li><a href="http://lazyninja.in/index.php?route=account/order">Order History</a></li>
+			<li><a href="http://lazyninja.in/index.php?route=account/wishlist">Wish List</a></li>
+			<li><a href="http://lazyninja.in/index.php?route=account/newsletter">Newsletter</a></li>
+		</ul>
+	</div>
+	
+		<div class="column contact-info">
+		<ul>
+						<li>
+				<span class="ph-image" title="Phone"></span>
+				<span class="ph-text">
+					7709010131<br>
+					8698945022				</span>
+			</li>
+						
+						
+						<li>
+				<span class="email-image" title="Email us"></span>
+				<a href="mailto:hello@lazyninja.in" class="email-text">Click here<br> to email us</a>
+			</li>
+			
+		</ul>
+	</div>
+		
+</div>
+<div class="footer-bt">
+	<table width="100%">
+		<tbody><tr>
+			<td>
+								<a href="https://www.facebook.com/lazyninja.in" target="_blank" class="facebook-icon"></a>
+								
+								<a href="https://twitter.com/lazyninjatees" target="_blank" class="twitter-icon"></a>
+								
+								
+								
+									<a class="mailto-icon addthis_button_email"></a>
+								
+									<a class="addthis-icon addthis_button_compact"></a>
+					<script type="text/javascript" src="//s7.addthis.com/js/250/addthis_widget.js"></script> 
+								
+			</td>
+			<td class="cards"><img src="catalog/view/theme/rgen-opencart/image/rgen/crads.png" class="credit-cards"></td>
+		</tr>
+	</tbody></table>
+
+</div>
+<div class="cp-text" id="powered">All rights reserved. LazyNinja © 2013  -  Crafted &amp; Legally Owned by <a href="http://www.evonixtech.com" target="_blank">Evonix Technologies</a></div>
+</div>
+
+
+
+<!-- Start of StatCounter Code for Default Guide -->
+<script type="text/javascript">
+var sc_project=8726477; 
+var sc_invisible=1; 
+var sc_security="7b159430"; 
+var scJsHost = (("https:" == document.location.protocol) ?
+"https://secure." : "http://www.");
+document.write("<sc"+"ript type='text/javascript' src='" +
+scJsHost+
+"statcounter.com/counter/counter.js'></"+"script>");
+</script><script type="text/javascript" src="https://secure.statcounter.com/counter/counter.js"></script>
+<noscript><div class="statcounter"><a title="site stats"
+href="http://statcounter.com/" target="_blank"><img
+class="statcounter"
+src="http://c.statcounter.com/8726477/0/7b159430/1/"
+alt="site stats"></a></div></noscript>
+<!-- End of StatCounter Code for Default Guide -->
+
+
+<!--<script type="text/javascript">
+(function(d, s, id) {
+var js, vjs = d.getElementsByTagName(s)[0];
+if (d.getElementById(id)) return;
+js = d.createElement(s); js.id = id;
+js.src = "//cdn.viralmint.com/js/viralmint-min.js";
+js.acc_id = "1352630597"; js.async=true;
+vjs.parentNode.insertBefore(js, vjs);
+}(document, "script", "viralmint-js"));
+</script>-->
+
+
+<!-- FB Pixel Tracking -->
+
+<script type="text/javascript">
+var fb_param = {};
+fb_param.pixel_id = '6007561305409';
+fb_param.value = '0.00';
+(function(){
+  var fpw = document.createElement('script');
+  fpw.async = true;
+  fpw.src = '//connect.facebook.net/en_US/fp.js';
+  var ref = document.getElementsByTagName('script')[0];
+  ref.parentNode.insertBefore(fpw, ref);
+})();
+</script>
+<noscript><img height="1" width="1" alt="" style="display:none" src="https://www.facebook.com/offsite_event.php?id=6007561305409&amp;value=0" /></noscript>
+
+
+
+
+
+</body></html>
