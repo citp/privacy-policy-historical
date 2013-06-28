@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kayako.com privacy policy that was archived on 2012-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121107144506id_/http%3A//www.kayako.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kayako.com privacy policy that was archived on 2013-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130628065721id_/http%3A//www.kayako.com/privacy) for the most accurate reproduction.*
 
 # Privacy policy - Kayako
 
@@ -81,15 +81,25 @@ You can contact eTrust regarding this privacy policy via their website: <http://
 
 ## Contacting Kayako
 
-You may contact Kayako using any of the methods outlined here: <http://www.kayako.com/company/contact/>.
+You may contact Kayako using any of the methods outlined here: [www.kayako.com/company/contac/](http://www.kayako.com/company/contact/).
 
-Our mailing address is:
+Our mailing addresses are:
 
-Kayako Inc.  
-917 Lusk Street, Suite 110  
+Kayako Helpdesk Pvt. Ltd.   
+Midas Corporate Park v 37 G.T. Road   
+Jalandhar   
+Punjab, 144001   
+India   
+
+
+and
+
+Kayako Inc.   
+Suite 203   
+420 Mainstreet   
 Boise  
-Idaho 83706  
-United States of America
+Idaho, 83706   
+United States
 
 ## Changes to this policy
 
