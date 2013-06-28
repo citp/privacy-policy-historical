@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pmtonline.co.uk privacy policy that was archived on 2012-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121205230816id_/http%3A//www.pmtonline.co.uk/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pmtonline.co.uk privacy policy that was archived on 2013-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130628052320id_/http%3A//www.pmtonline.co.uk/privacy-policy.html) for the most accurate reproduction.*
 
 # PMT Online Privacy Policy
 
