@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mainetourism.com privacy policy that was archived on 2012-09-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120919185127id_/http%3A//www.mainetourism.com/content/4067/Privacy_Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mainetourism.com privacy policy that was archived on 2013-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130628062733id_/http%3A//www.mainetourism.com/content/4067/Privacy_Policy) for the most accurate reproduction.*
 
 # Privacy Policy | Maine Tourism Association
 
@@ -18,8 +18,8 @@ Your privacy is very important to us. If you elect to fill out the forms on our 
 
 ## Latest Maine Memories
 
+[Bass Cottage](http://memoir.mainetourism.com/memoir/Bass-Cottage/50aaa083-e090-47d5-807e-463fad2de791)  
+We wandered into Bar Harbor while on our honeymoon in August of 1974. With no reservations, we pulled into a motel across from where the Blue Nose Ferry was docked. There was no vacancy, but the...
+
 [Looping with the Boy @ Traditions](http://memoir.mainetourism.com/memoir/Looping-with-the-Boy-Traditions/504a05f8-8dc0-404f-862f-50d5ad2de791)  
 It was a bright and sunny sunday afternoon, when my son brought up going to "hit a few". Although initially I thought it was too late in the day- we decided to give Traditions a look-see. 2 buckets...
-
-[Moosehead Lake & Family fun](http://memoir.mainetourism.com/memoir/Moosehead-Lake-Family-fun/4f075ee4-4c50-4911-8934-2b2bad2de791)  
-One of my best memories of Maine, happened just this past summer. Since my husband and I work all summer at our business, Northeast Guide Service, it's tough to get away with friends and family...
