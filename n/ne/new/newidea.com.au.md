@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the newidea.com.au privacy policy that was archived on 2012-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121229165322id_/http%3A//info.yahoo.com/privacy/au/yahoo) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the newidea.com.au privacy policy that was archived on 2013-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130628213909id_/http%3A//info.yahoo.com/privacy/au/yahoo) for the most accurate reproduction.*
 
 # Yahoo!7 Privacy Policy
 
@@ -96,7 +96,7 @@ Return to top
 
 ##  QUESTIONS AND SUGGESTIONS 
 
-If you have questions or suggestions, please complete a [feedback form](http://add.yahoo.com/fast/help/us/privacy/cgi_feedback?radio30=radio305) or you can contact us at:
+If you have questions or suggestions, please complete a [feedback form](http://io.help.yahoo.com/contact/index?locale=en_AU&y=PROD_ACCT&page=contact) or you can contact us at:
 
 Yahoo!7 Pty Limited.  
 Legal Department - Privacy Policy Issues  
