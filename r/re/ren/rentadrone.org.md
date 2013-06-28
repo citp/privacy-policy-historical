@@ -1,13 +1,17 @@
-> *The following text is extracted and transformed from the rentadrone.org privacy policy that was archived on 2012-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120514021033id_/http%3A//blog.livenewschat.tv/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rentadrone.org privacy policy that was archived on 2013-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130628040011id_/http%3A//www.livenewschat.tv/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Live News Chat – Live News Streams & Chat
+# Privacy Policy | Live News Stream Chat - Latest News Headlines
 
-What information do we collect? We collect information from you when you register on our site, subscribe to our newsletter or respond to a survey. 
+[](http://www.hupso.com/share/)
 
-When ordering or registering on our site, as appropriate, you may be asked to enter your: name or e-mail address.
+Last Update: 08.10.2012
+
+We use third-party advertising companies to serve ads when you visit our Website. These companies may use information ( **not** including your name, address email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, visit networkadvertising.org.
 
 Google, as a third party vendor, uses cookies to serve ads on this site. Google’s use of the DART cookie enables it to serve ads to users based on their visit to our sites and other sites on the Internet.  
 Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy.
+
+When ordering or registering on our site, as appropriate, you may be asked to enter your: name or e-mail address.
 
 What do we use your information for? 
 
@@ -48,7 +52,7 @@ No, we do not sell, trade, or otherwise transfer to outside parties your persona
 
 Terms and Conditions 
 
-Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website at http://www.livenewschat.tv
+Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website at http://www.livenewschat.eu
 
 Your Consent 
 
@@ -62,4 +66,4 @@ Contacting Us
 
 If there are any questions regarding this privacy policy you may contact us using email below. 
 
-mail(at)livenewschat.tv
+mail(at)livenewschat.eu
