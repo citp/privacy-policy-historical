@@ -1,34 +1,65 @@
-> *The following text is extracted and transformed from the hackershubh.in privacy policy that was archived on 2012-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121215092636id_/http%3A//hackershubh.in/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hackershubh.in privacy policy that was archived on 2013-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130629000702id_/http%3A//hackershubh.in/privacypolicy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
-## hackershubh.in Privacy Policy
+This Privacy Policy governs the manner in which HackerShubh collects, uses, maintains and discloses information collected from users (each, a "User") of the [www.hackershubh.in](https://web.archive.org/web/20130629000702id_/http%3A//hackershubh.in/www.hackershubh.in) website ("Site"). This privacy policy applies to the Site and all products and services offered by HackerShubh.
 
-The following discloses our information gathering and dissemination practices for this Web site: Byethost Free Web Hosting.  
-We use your IP address to help diagnose problems with our server, and to administer our Web site. Your IP address is used to help identify you and your ISP and to gather broad demographic information. We use cookies to save your password so you don't have to re-enter it each time you visit our site and for other purposes.  
-This site contains links to other sites. Byethost Free Web Hosting is not responsible for the privacy practices or the content of such Web sites.  
-  
-Our site uses an order form for customers to request information, products, and services. We collect visitor's contact information (like their email address), financial information (like their account or credit card numbers), and demographic information (like their zip code, age, or income level). Contact information from the order form is used to send information about our company and promotional material from some of our partners to our customers. The customer's contact information is also used to get in touch with the visitor when necessary and shared with other companies who may want to contact our visitors. Users may opt-out of receiving future mailings; see the choice/opt-out section below. Demographic and profile data is also collected at our site. We use this data to tailor our visitor's experience at our site, showing them content that we think they might be interested in, and displaying the content according to their preferences. This information is shared with advertisers on an aggregate basis.  
-We use an outside ad company to display ads on our site. These ads may contain cookies. While we use cookies in other parts of our Web site, cookies received with banner ads are collected by our ad company, and we do not have access to this information. Some customer data is shared with the advertising companies.
+**Personal identification information**
 
-ADVERTISING  
-We may use third-party advertising companies to serve ads when you use our service, this may change without prior notification being served. Our third-party advertising company also separately places or recognizes a cookie file on your browser in the course of delivering advertisements to this Site. These companies may use information (not including your name, address email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies.
+We may collect personal identification information from Users in a variety of ways, including, but not limited to, when Users visit our site, register on the site, fill out a form, and in connection with other activities, services, features or resources we make available on our Site. Users may be asked for, as appropriate, name, email address. Users may, however, visit our Site anonymously. We will collect personal identification information from Users only if they voluntarily submit such information to us. Users can always refuse to supply personally identification information, except that it may prevent them from engaging in certain Site related activities.
 
-PUBLIC FORUMS  
-This site makes chat rooms, forums, message boards, and/or news groups available to its users. Please remember that any information that is disclosed in these areas becomes public information and you should exercise caution when deciding to disclose your personal information.
+**Non-personal identification information**
 
-SECURITY  
-This site has security measures in place to protect the loss, misuse and alteration of the information under our control.
+We may collect non-personal identification information about Users whenever they interact with our Site. Non-personal identification information may include the browser name, the type of computer and technical information about Users means of connection to our Site, such as the operating system and the Internet service providers utilized and other similar information.
 
-CHOICE/OPT OUT  
-Our site provides users the opportunity to opt-out of receiving communications from us and our partners at the point where we request information about the visitor.This site gives users the following options for removing their information from our database to not receive future communications or to no longer receive our service.  
-You can contact us at The support system in your control panel 
+**Web browser cookies**
 
-CORRECT/UPDATE  
-This site gives users the following options for changing and modifying information previously provided.   
-You can contact us at The support system in your control panel 
+Our Site may use "cookies" to enhance User experience. User's web browser places cookies on their hard drive for record-keeping purposes and sometimes to track information about them. User may choose to set their web browser to refuse cookies, or to alert you when cookies are being sent. If they do so, note that some parts of the Site may not function properly.
 
-CONTACTING THE WEBSITE  
-If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, You can contact us at The support system in your control panel
+**How we use collected information**
 
-[click here to sign up for free hosting](https://web.archive.org/web/20121215092636id_/http%3A//hackershubh.in/signup.php)
+HackerShubh may collect and use Users personal information for the following purposes:
+
+  * _\- To improve customer service_  
+Information you provide helps us respond to your customer service requests and support needs more efficiently.
+  * _\- To personalize user experience_  
+We may use information in the aggregate to understand how our Users as a group use the services and resources provided on our Site.
+  * _\- To improve our Site_  
+We may use feedback you provide to improve our products and services.
+  * _\- To run a promotion, contest, survey or other Site feature_  
+To send Users information they agreed to receive about topics we think will be of interest to them.
+  * _\- To send periodic emails_  
+We may use the email address to respond to their inquiries, questions, and/or other requests. If User decides to opt-in to our mailing list, they will receive emails that may include company news, updates, related product or service information, etc. If at any time the User would like to unsubscribe from receiving future emails, we include detailed unsubscribe instructions at the bottom of each email or User may contact us via our Site.
+
+**How we protect your information**
+
+We adopt appropriate data collection, storage and processing practices and security measures to protect against unauthorized access, alteration, disclosure or destruction of your personal information, username, password, transaction information and data stored on our Site.
+
+Our Site is in compliance with PCI vulnerability standards in order to create as secure of an environment as possible for Users.
+
+**Sharing your personal information**
+
+We do not sell, trade, or rent Users personal identification information to others. We may share generic aggregated demographic information not linked to any personal identification information regarding visitors and users with our business partners, trusted affiliates and advertisers for the purposes outlined above.
+
+**Advertising**
+
+Ads appearing on our site may be delivered to Users by advertising partners, who may set cookies. These cookies allow the ad server to recognize your computer each time they send you an online advertisement to compile non personal identification information about you or others who use your computer. This information allows ad networks to, among other things, deliver targeted advertisements that they believe will be of most interest to you. This privacy policy does not cover the use of cookies by any advertisers.
+
+**Changes to this privacy policy**
+
+HackerShubh has the discretion to update this privacy policy at any time. When we do, we will revise the updated date at the bottom of this page. We encourage Users to frequently check this page for any changes to stay informed about how we are helping to protect the personal information we collect. You acknowledge and agree that it is your responsibility to review this privacy policy periodically and become aware of modifications.
+
+**Your acceptance of these terms**
+
+By using this Site, you signify your acceptance of this policy and [terms of service](http://hackershubh.in/tos.html). If you do not agree to this policy, please do not use our Site. Your continued use of the Site following the posting of changes to this policy will be deemed your acceptance of those changes.
+
+**Contacting us**
+
+If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us at:  
+[HackerShubh](https://web.archive.org/web/20130629000702id_/http%3A//hackershubh.in/www.hackershubh.in)  
+[www.hackershubh.in](https://web.archive.org/web/20130629000702id_/http%3A//hackershubh.in/www.hackershubh.in)  
+Kanpur, UPE, IN  
++91 8756149523  
+info@hackershubh.in
+
+This document was last updated on February 05, 2013
