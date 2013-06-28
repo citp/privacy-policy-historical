@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the soapzone.com privacy policy that was archived on 2012-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121228222409id_/http%3A//soapzone.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the soapzone.com privacy policy that was archived on 2013-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130629014748id_/http%3A//soapzone.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Statement
 
@@ -55,3 +55,10 @@ The member database is password-protected and the password list is encrypted. Th
 ###  Contacting the Web Site 
 
 If you have any questions about this privacy statement, the practices of this site, or your dealings with this web site, you can use the feedback form at: <http://soapzone.com/doc/webmasterfeedback.html>
+
+Or write to us at:
+
+JEFF JUNGBLUT  
+SOAPZONE.COM  
+PO BOX 211585  
+CHULA VISTA, CA 92121-1585 
