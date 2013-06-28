@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the whnt.com privacy policy that was archived on 2012-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121115092454id_/http%3A//whnt.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the whnt.com privacy policy that was archived on 2013-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130628063113id_/http%3A//whnt.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | WHNT.com — Huntsville News & Weather from WHNT Television News19 HD
+# Privacy Policy | WHNT.com
 
 **PRIVACY POLICY**
 
