@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the markethealth.com privacy policy that was archived on 2012-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121129230213id_/http%3A//www.markethealth.com/privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the markethealth.com privacy policy that was archived on 2013-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130628085039id_/http%3A//www.markethealth.com/privacypolicy.php) for the most accurate reproduction.*
 
 # Health and Beauty Affiliate Programs by MarketHealth.com
 
