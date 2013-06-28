@@ -1,12 +1,10 @@
-> *The following text is extracted and transformed from the zeeptravel.com privacy policy that was archived on 2012-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120602081743id_/http%3A//www.zeeptravel.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zeeptravel.com privacy policy that was archived on 2013-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130629013602id_/http%3A//www.zeeptravel.com/AffiliatePage/PrivacyPolicy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
-| WAKANOW’S PRIVACY POLICY STATEMENT |   
+|   |  |    
 ---|---|---  
-  
-  
-
+  | 
 
   * Wakanow is strongly committed to the protection of your privacy online and accordingly, we take protective measures to protect the personal information provided to us by you. We also take further measures to comply with the relevant statement regarding what we can do with personal information we obtain from you.
   * We are notified under the Data Protection Act 1998 and intend to comply with all our obligations under that Act. You consent to our processing of your information.
@@ -16,7 +14,7 @@
   * Wakanow may use your personal information to send to you services and products that you purchase, supply to you services that you purchase, send you statements and invoices, collect payments from you and send you marketing communications.
   * Where Wakanow discloses your personal information to its agents or sub-contractors for these purposes, the agent or sub-contractor in question will be obligated to use that personal information in accordance with the terms of this privacy statement.
   * In addition to the disclosures reasonably necessary for the purposes identified elsewhere above, Wakanow may disclose your personal information to the extent that it is required to do so by law, in connection with any legal proceedings or prospective legal proceedings, and in order to establish, exercise or defend its legal rights.
-  * We may provide the data collected from you to members of our group companies or other third party including our agents and contractors in connection with the service. We will inform you prior to disclosing your information to any third party. If you can be identified from the information that is disclosed, then we will not disclose such information without prior notification to you and we will obtain your permission to do so. **You may inform us at any time not to pass on or share your personal information with any third parties.**
+  * We may provide the data collected from you to members of our group companies or other third party including our agents and contractors in connection with the service. We will inform you prior to disclosing your information to any third party. If you can be identified from the information that is disclosed, then we will not disclose such information without prior notification to you and we will obtain your permission to do so.  **You may inform us at any time not to pass on or share your personal information with any third parties.**
   * The registration information you provide may be required to use the service or Site. We will store this information and data and use it to contact you, provide you with further details of the services and otherwise for the normal use, provision of services and improvement of the Site, unless you ask us not to do so.
   * The information may be disclosed to third parties to enable you to gain access to any restricted part of the Site, enable you to receive information, which you have requested to be sent to you by post or for you to receive specified services.
   * Information that Wakanow collects may be stored and processed in and transferred between any of the countries in which Wakanow operates to enable the use of the information in accordance with this privacy policy.
@@ -38,3 +36,5 @@
   * The Company cannot guarantee the security of any personal information or data disclosed to it or collected by it.
 
 
+
+|  
