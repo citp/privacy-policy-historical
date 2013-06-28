@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mommybunch.com privacy policy that was archived on 2012-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121115143957id_/http%3A//mommybunch.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mommybunch.com privacy policy that was archived on 2013-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130628162257id_/http%3A//mommybunch.com/privacy-policy) for the most accurate reproduction.*
 
 # The Mommy Bunch, Blogging from the Midwest
 
