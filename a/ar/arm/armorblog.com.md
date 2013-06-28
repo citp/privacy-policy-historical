@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the armorblog.com privacy policy that was archived on 2012-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121226014905id_/http%3A//armorgames.com/page/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the armorblog.com privacy policy that was archived on 2013-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130628084807id_/http%3A//armorgames.com/page/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Armor Games
 
@@ -19,6 +19,18 @@ Whatever the activity may be, we will only collect information to the extent dee
 
 Opt out  
 If you are receiving e-mails or regular mail and at a later date you choose to opt out and have your name removed from the e-mailing list, you can do so by using the link included with a ArmorGames.com e-mail. 
+
+When We Might Disclose Information  
+As part of our regular business conduct, we may share information with companies or individuals providing services or acting on our behalf, such as companies providing technological or fulfillment services. In the event that there is a change of corporate ownership, the new owners will of course be provided with our files, including information you have submitted. We will also share information with government officials, including law enforcement officials or court authorities, in order to cooperate with a legitimate investigation.
+
+Unless we tell you first (such as at the time we collect information from you), or unless it is part of a specific program or feature in which you have elected to participate, we do not share personally identifiable information that we have collected (such as name or email address) with other, third-party companies for their own commercial or marketing purposes.
+
+Links and Third Parties  
+From time to time we may include at the Site links to other websites as a service to you. The third party sites are operated by companies that are outside of our control, and your activities at those sites will be governed by the policies and practices of those third parties. We encourage you to review the privacy practices of these third parties before disclosing any personally identifiable information, as we are not responsible for the privacy practices of those sites.
+
+We sometimes work with third parties to add features or advertisements to our Site. These third parties may place cookies on your browser when you visit certain pages of our Site, or collect cookies that they have previously placed, along with the URL of the page you visited. We do not control those third parties or their use of data. In some cases we may provide tools for you to limit data sent to third parties. This privacy policy does not cover those third parties’ use of data.
+
+To personalize the Site, and to simplify the registration process, we give you the option to link your account with Facebook. When you link your account, Facebook may share data about you with us, and we may share information about you with Facebook. In addition, Armor Games players who are your friends on Facebook may be shown your Armor Games username if you have both linked your Facebook accounts. 
 
 Cookies  
 ArmorGames.com may use cookies to improve the use of our websites. A "cookie" is a small file that websites often store on a user's computer. Storage of cookies on your system provides an easy and convenient method for us to personalize your experience on our websites. For example, cookies allow us to remember your screen name, tell us that you have visited our website before, and may contain information that will make your next visit to our website more enjoyable. However, we do not use cookies to store personal information such as your name. In addition, ArmorGames.com does not use cookies to retrieve information from your computer that was not originally sent in a cookie. You can always disable cookies or set your browser to alert you when cookies are being sent to your computer. 
