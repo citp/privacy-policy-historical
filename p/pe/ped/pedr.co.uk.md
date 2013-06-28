@@ -1,16 +1,22 @@
-> *The following text is extracted and transformed from the pedr.co.uk privacy policy that was archived on 2012-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121116100257id_/http%3A//www.pedr.co.uk/textpage.asp%3FPageNo%3D27%26area%3Dmain) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pedr.co.uk privacy policy that was archived on 2013-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130628110423id_/http%3A//www.pedr.co.uk/Home/PrivacyPolicy) for the most accurate reproduction.*
 
-# Privacy Policy
+# PEDR Privacy Policy
 
-[Printer Friendly version](https://web.archive.org/web/20121116100257id_/http%3A//www.pedr.co.uk/printpage.asp?PageNo=27&area=main)
+###  Privacy Policy
 
 Our commitment to your privacy
+
+#### 1\. WHAT INFORMATION WE COLLECT
 
 We store all the information you enter when you register to use this site. If you subscribe to the PEDR all information relating to your records is also stored. We also record the date you subscribed, the last time you logged in and, if you pay for PEDR, the method of payment. We do not store any credit card details. 
 
 We also keep records relating to site access, e.g. pages visited, time of visits, but this information is not related to individuals. 
 
+#### 2\. HOW WE USE YOUR INFORMATION
+
 If you agreed at the time of registration we may contact you from time to time with details of products, surveys and special offers. You can opt out from this at any time by visiting your account. 
+
+#### 3\. WILL THE INFORMATION BE DISCLOSED TO OTHER PARTIES?
 
 This website is a joint venture between the Royal Institute of British Architects (RIBA) and RIBA Enterprises. Both parties have access to your information. Your registration details may also be passed on to Professional Studies Advisors, if you are completing the PEDR Recording records. 
 
@@ -21,6 +27,8 @@ When you register to use the PEDR website, RIBA Enterprises Ltd will store your 
 We never disclose your information to any third parties outside of the RIBA Enterprises Group of companies and the RIBA unless specifically requested to. The information may also be used to notify you of products and services from RIBA Enterprises Ltd which may be of interest to you, unless you advise RIBA Enterprises Ltd in writing of your wish not to receive such information. 
 
 By disclosing your personal information to RIBA Enterprises Ltd, you agree to collection, storage and processing of your personal information in the manner set out here. 
+
+#### 4\. COOKIES
 
 The site uses a type of cookie called a session variable. These are never written on the hard drive and they do not collect any information from the user's computer. These are automatically deleted from the user's computer when the browser is closed. For more information see [www.aboutcookies.org](http://www.aboutcookies.org/)
 
