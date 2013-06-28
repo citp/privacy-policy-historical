@@ -1,90 +1,73 @@
-> *The following text is extracted and transformed from the jobirn.com privacy policy that was archived on 2012-07-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120703062334id_/http%3A//jobirn.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jobirn.com privacy policy that was archived on 2013-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130628064916id_/http%3A//www.jobs2careers.com/privacy.php) for the most accurate reproduction.*
 
-# Privacy Policy|Your Insider Referral Network- Jobirn
+# Privacy Policy | Jobs2Careers
 
-  
+## Privacy Policy
 
+Last update on: June 13th, 2013
 
-## **Last Updated:** Feb 1, 2011
+Jobs-to-Careers.com and Jobs2Careers.com ("Jobs2Careers" or "we") is a website owned by InsidersReferral.com Inc. We know you are concerned about your privacy, so we developed this Privacy Policy to explain how we collect, use, share and disclose personally identifiable information (referred to as "personal information" in this Privacy Policy
 
-At InsidersReferral.com, Inc. ("Jobirn" or "we"), we know you are concerned about your privacy, so we developed this Privacy Policy to explain how we collect, use, share and disclose your Personal Information. 
+By registering with Jobs2Careers and/or using our site at www.Jobs2Careers.com ("the Site") or any other site that is operated by Jobs2Careers and displays a link to this Privacy Policy, you are accepting the policies and practices described in this Privacy Policy. Each time you visit the Site or provide us with information you agree that you are consenting to our use and disclosure of the information that you provide, and consenting to receive emails, as described in this Privacy Policy. 
 
-By registering with Jobirn and/or using this site ("the Site") or any other site that is operated by Jobirn, you are accepting the policies and practices described in this Privacy Policy. Each time you visit the Site or provide us with information you agree that you are consenting to our use and disclosure of the information that you provide, and consenting to receive emails, as described in this Privacy Policy. This Privacy Policy is incorporated into the Jobirn [Terms of Use](http://jobirn.com/term_and_conditions.html). If a term is capitalized and not defined in this Privacy Policy, it is defined in the [Terms of Use](http://jobirn.com/term_and_conditions.html). 
+####  Information Collection 
 
-## **Information Collection**
+### **Account Information:**
 
-**_Account Information:_**
+In order to become a Jobs2Careers user, you may optionally create an account on the Site. To create an account, you are required to provide: your email address, telephone number, your working experience, and first and last name. 
 
-In order to become an Jobirn user, you must first create an account on this web site. To create an account you are required to provide the following contact information: your instant-messenger (" **IM** ", including MSN, Yahoo! Messenger, Google Talk and AIM) or email address, your date of birth, and choose a password and screen name. 
+### **Cookies, Log Files & IP Address:**
 
-**_Profile Information:_**
+As you use our Service, we may also passively collect certain information, including your Internet protocol address, browser type, domain names, access times, and operating system. We may also use passive tools such as cookies, clear GIFs, and navigational data like Uniform Resource Locators (URLs) to gather information regarding the date and time of your use of the Service. This type of information is collected to make our Services more useful to you and to help us improve the Site. We may also use third party vendors to support our Site and optimize our display advertising. Some of these vendors, for example Google, may use technology like Remarketing with Google Analytics, and this type of information to inform, optimize, and serve ads based on your past visits to our website. You must accept cookies to access Jobs2Careers as a registered user. If we link or associate any information gathered through passive means with personal information, we treat the combined information as personal information under this Privacy Policy. Otherwise, we use information collected by passive means in non-personally identifiable form only.
 
-If you choose to build a Profile, whatever member type you choose, you will be required to enter information regarding name, email address, country, ZIP/postal code, street address, home Phone. You will also be able to enter information about your cell phone and work phone, and alumni information (including your college, graduated year, major, degree and summary). 
+You are free to set your Internet browser to decline cookies, but by doing so, you may not be able to use certain features on the Site or take full advantage of all of our offerings. Check the "Help" menu of your browser to learn how to change your cookie preferences. To learn more about the use of cookies or other technologies to deliver more relevant advertising and to know your choices about not having this information used by certain Service Providers, please click [here](http://www.networkadvertising.org/choices/) and [here](http://www.google.com/analytics/learn/privacy.html). To learn how to manage privacy and storage settings for Flash cookies, please click [here](http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager.html). You may opt-out of Google Analytics for Display Advertising and customize Google Display Network ads using the Ads Preferences Manager [here](https://www.google.com/settings/ads/onweb/).
 
-According to the member type you choose, we also require you to enter other information to help you. To become an applicant, you must also enter your working experience, primary industry, job function and upload your resume. You can choose to enter your favorite companies. To become a referrer, your company, job function and working experience is required. To become a recruiter, your (staffing) company, primary industry to recruit for and working years as a Recruiter is required. 
+Once we redirect you to a job page hosted by third-party sites, third parties may be placing and reading cookies on your browser, or using web beacons to collect information. You understand that Jobs2Careers has no control over third-party sites, thus your privacy is subject to third-party site's privacy policy.
 
-**_Information about your Contacts:_**
+### **Information from Other Sources:**
 
-In order to invite others to connect with you directly or get recommended from others in Jobirn, you will need to enter their names and IM/email addresses. This information will be used by Jobirn to send your invitation including a message that you write. The names and IM/email addresses of people that you invite will be used only to send your invitation and reminders. 
+We may receive information about you, including personal information, from third parties, and may combine this information with other personal information we maintain about you. If we do so, this policy governs any combined information that we maintain in personally identifiable format.
 
-**_Cookies, Log Files & IP Address:_**
+#### Children
 
-As you use our Service, we may also passively collect certain information, including your Internet protocol address, browser type, domain names, access times, and operating system. We also use Cookies, clear GIFs, and navigational data like Uniform Resource Locators (URLs) to gather information regarding the date and time of your use of the Service. This type of information is collected to make our Services more useful to you and to help us improve the Site. You must accept cookies to access Jobirn as a registered user. 
+Minors (users under the age of 18) are not eligible to use Jobs2Careers, and we ask that minors (under the age of 18) do not submit any personal information to us or use the service. 
 
-We use third-party advertising companies to serve ads when you visit our website. These companies may use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, click [here](http://www.google.com/privacy_ads.html).
+#### Use of Information
 
-**_Children:_**
+We use personal information to enhance, improve, operate, and maintain Jobs2Careers; to provide you with services you request;  to contact you in connection with your transactions, postings and other activities on the Site, to forward to you messages from other users, and to communicate with you about Job opportunities and other products and services that we believe may be of interest to you. 
 
-Children are not eligible to use our service and we ask that minors (under the age of 18) do not submit any personal information to us or use the service. 
+#### Information Sharing and Disclosure
 
-## **Use of Information**
+Jobs2Careers collects the following categories of personally identifiable information: first and last name; home address, including name of a city and state or zip code; email address; telephone number, information about your job candidacy and job search (e.g., the number of years of work experience you have), information about your activities on Jobs2Careers, and demographic information, such as gender, geographic area, and preferences, when any of this information is linked to personal information that identifies you. 
 
-**_Use of_** **_Personally Identifiable Information by Jobirn:_**
+Jobs2Careers may share this personal information with the following categories of third party persons: any person or entity to whom you have given us permission to share personal information; any third party affiliate, agent, service provider or business partner of such person or entity; any affiliate, agent, service provider or business partner who provides a service that you request on our site; any court, law enforcement agency or other investigator; any owner, successor or purchaser of Jobs2Careers or its assets. The use of information by each of these third parties is subject to such third-party's privacy policy. 
 
-We use the collected personally identifiable information to verify you and to contact you in connection with your transactions, postings and other activities on the Site, to forward to you messages from other Users, to communicate with you about Job opportunities of interest to you and to operate the Jobirn Service.   
-Use of our invitation or get recommended service to tell a friend about our Site or a job opportunity, or your request for recommendation, or to participate in a referral chain, requires that you enter your friend's IM/email address. We will automatically send your friend a one-time IM/email inviting him or her to visit the site or view the opportunity. Jobirn stores this information to send this one-time IM/email, to register a friend connection if your invitation is accepted, and to track the success of the Jobirn referral program. Your friend may contact us at Jobirn to request that we remove this information from view in our active database (please use Jobirn Privacy in the subject line). 
+If you opt-in to receive education consultation, Jobs2Careers may share your personal information with third-party education lead-generation companies to provide the requested consultation. They may call you by phone and send emails to you to provide education related information. 
 
-**_Use of Personally Identifiable Information by Other Users:_**
+Please be aware that we may send you certain communications relating to the Jobs2Careers service, such as service announcements, administrative messages and the Jobs2Careers Newsletter, that are considered "transactional or relationship" messages or are otherwise non-commercial, without offering you the opportunity to opt out of receiving them. 
 
-Other users will be able to search and view the personally identifiable information that you provide on your profile, except your contact information and resume (could search, but can't view). We allow referrers or recruiters to view and download your resume, for the purpose of employment. 
+By registering on Jobs2Careers, you agree that this act constitutes an inquiry and/or application for purposes of telemarketing laws, and notwithstanding that your telephone and/or cell number may be listed with the federal Do-Not-Call Registry you expressly opt-in to: (a) receive an offer or service from one or more of our partners or affiliates; (b) receive future information about products and services from us, our partners, affiliates and other third parties to whom we may provide your information; (c) permit us, our partners, affiliates and other third parties to contact you pursuant to the business relationship we have established using the information you provided to us for any purpose such as contacting you by e-mail address, phone and/or mobile phone number (including use of automated dialing equipment), text (SMS) message or any means of communication for any purpose that, among other things, your wireless device may be capable of receiving (e.g. mms, video etc.) 
 
-Other users may choose to contact you, and you may choose to contact other users. Jobirn has developed a process that uses a "double-blind" email system, which hides the IM/email addresses of both the sender and recipient of messages to protect the privacy of both the sender and receiver. When using the process on the site, it is up to you to choose when you are comfortable disclosing your IM/email address, or any other contact information, to others through private communications. 
+#### Third Party Cookies
 
-Your contact information will only be shared with another user if both of you have indicated that you would like to establish contact with each other. 
+Notwithstanding anything else in this policy, we or a data provider we have engaged may place or recognize a unique cookie on your browser to enable you to receive customized ads or content. These cookies contain no personally identifiable information. The cookies may reflect de-identified demographic or other data linked to data you voluntarily have submitted to us, e.g., your email address, that we may share with a data provider solely in hashed, non-human readable form. To opt-out of these cookies, please go to <http://www.aboutads.info/choices>.
 
-## **Information Sharing and Disclosure**
+#### Data Security
 
-We may disclose your personal information that you provide, such as your name, address, e-mail address, telephone number, credit card number, etc., to third parties, including business partners, independent contractors, auditors, lawyers for purposes that we deem appropriate. If you choose to receive a service offered on Jobirn, and if that that service is provided by a partner or third-party company (e.g. education opportunity, resume services which are provided by third parties), personal information about you (such as your contact information and other information collected during your visit to Jobirn) will be shared with those partners to the extent necessary for them to provide these services. Third party lead generation company may contact you by phone and/or by email to provide education related information. These third party service providers are only allowed to use personally identifiable information for the purpose of providing the specific services.
+We use reasonable security measures to protect personal information from unauthorized use, alteration, and disclosure. We restrict access of your personal information from our employees, unless we believe it is reasonably necessary to do their jobs. 
 
-In addition, if we sell all or part of our business or make a sale or transfer of all or a material part of our assets or are otherwise involved in a merger or transfer of all or a material part of our business, we may transfer your personal information to the party or parties involved as part of that transaction. 
+#### Links to Other Sites
 
-## **Update/Delete Your Information and Preferences**
+The Site contains links to other sites (including co-branded links). Please be aware that Jobs2Careers does not exercise control over the information, products, services or policies of third party companies accessible through our site. We encourage our users to be aware when they leave our site and to read the privacy policies of each and every third party site. This Privacy Policy applies solely to the information collected by this site. 
 
-We reserve the right to send you certain communications relating to the Jobirn service, such as service announcements, administrative messages and the Jobirn Newsletter, that are considered "transactional or relationship" messages, or otherwise part of your Jobirn account, without offering you the opportunity to opt out of receiving them. 
+####  Changes to this Privacy Policy 
 
-You can delete your Jobirn account by clicking on "Close account" in "Setting" tab after you login. Jobirn may retain your information for our own records. 
+Jobs2Careers reserves the right to update this Privacy Policy at any point. Users will always have access to our current Privacy Policy by visiting Jobs2Careers .com. If we change this Privacy Policy, we will notify users by posting notice on our site or by notice sent using contact information we have on file, and will update the "last updated" date at the top of this Privacy Policy. If we make a change that is materially less restrictive upon our use and disclosure of personal information that we collected prior to the effective date of the change, we will notify users as described above and will seek consent before using or disclosing any previously-collected information in a manner that would violate the prior privacy policy. 
 
-## **Confidentiality and Security**
+####  Opt-out
 
-We use reasonable security measures to protect personal information from unauthorized use, alteration, and disclosure. We restrict access of your personal information from our employees, unless we believe it is reasonably necessary to do their jobs.
+To stop receiving job alerts and marketing offers from Jobs2Careers.com, click [here](https://web.archive.org/unsubscribe.php). It may take up to 3 business days for the opt-out notification to be fully processed. 
 
-##  **Links to Other Sites**
+####  Contact Us
 
-This site contains links to other sites (including co-branded links). Please be aware that Jobirn does not exercise control over the information, products, services or policies of third party companies accessible through our site. We encourage our users to be aware when they leave our site and to read the privacy policies of each and every third party site. This Privacy Policy applies solely to the information collected by this site.
-
-##  **Changes to this Privacy Policy**
-
-Jobirn reserves the right to update this Privacy Policy at any point. Users will always have access to our current Privacy Policy by visiting [jobirn.com](http://jobirn.com/). If we change this Privacy Policy, we will notify users by posting notice on our site or by notice sent using contact information we have on file, and will update the "last updated" date at the top of this Privacy Policy. If we make a change that is materially less restrictive upon our use and disclosure of personal information that we collected prior to the effective date of the change, we will notify users as described above and will seek consent before using or disclosing any previously-collected information in a manner that would violate the prior privacy policy. 
-
-## **Questions and Suggestions**
-
-If you have any questions or suggestions, please contact us at:  
-InsidersReferral.com, Inc.   
-ATTN: Agreement Issues   
-1230 Oakmead Pkwy, Suite 312  
-Sunnyvale, CA 94085
-
-## Effective Date: May 8, 2008 
-
-  
-
+If you have any questions or concerns about this Privacy Policy, please contact us at [privacy@jobs2careers.com](mailto:privacy@jobs2careers.com). or by mail to: InsidersReferral.com, Inc. 3945 Freedom Circle Ste 320 Santa Clara, CA 95054 
