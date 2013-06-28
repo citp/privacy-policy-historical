@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the optonline.net privacy policy that was archived on 2012-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121101080927id_/http%3A//www.optimum.net/Privacy/Sub) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the optonline.net privacy policy that was archived on 2013-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130628022742id_/http%3A//www.optimum.net/Privacy/Sub) for the most accurate reproduction.*
 
-# Optimum Online - Privacy Policy - Customer
+# Optimum Online - Privacy Notice - Customer
 
 Protecting Your Privacy
 
@@ -9,22 +9,23 @@ At Cablevision, we value your privacy.
 * * *
 
   * [Website  
-Privacy Policy](https://web.archive.org/Privacy)
+Privacy Notice](https://web.archive.org/Privacy)
   * Cablevision Customer  
-Privacy Policy
+Privacy Notice
+  * [Cablevision Mobile Application Privacy Notice](https://web.archive.org/privacy/mobile)
 
   
 
 
 * * *
 
-Cablevision Customer Privacy Policy
+Cablevision Customer Privacy Notice
 
 Click below for specific information about: 
 
-Cablevision is committed to protecting the privacy of its customers. This notice is designed to give you a general understanding of how Cablevision protects your privacy in connection with our cable television services (such as iO TV), our high-speed Internet services (such as Optimum Online), our voice services (such as Optimum Voice) and any other cable service or communication service we may provide to you using our cable system as such services are defined by applicable law (together "Covered Services").
+Cablevision is committed to protecting the privacy of its customers. This notice is designed to give you a general understanding of how Cablevision protects your privacy in connection with our cable television services (such as Optimum TV), our high-speed Internet services (such as Optimum Online), our voice services (such as Optimum Voice) and any other cable service or communication service we may provide to you using our cable system as such services are defined by applicable law (together "Covered Services").
 
-This notice does not generally cover Cablevision's websites, such as Optimum.com, interactive television channels, such as Optimum Autos and Optimum Homes, or other products or services that may be accessed through Covered Services. These other services are governed by separate privacy policies, which we encourage you to review when using these other services to understand how your information is handled. This notice does not cover Cablevision's Lightpath service.
+This notice does not generally cover Cablevision's websites, such as Optimum.com, interactive television channels, such as Optimum Autos and Optimum Homes, or other products or services that may be accessed through Covered Services. These other services are governed by separate privacy notices, which we encourage you to review when using these other services to understand how your information is handled. This notice does not cover Cablevision's Lightpath service.
 
 In this notice, "we" and "Cablevision" refer to CSC Holdings LLC (formerly CSC Holdings, Inc.) and/or any affiliate of CSC Holdings LLC that owns, operates, or provides Covered Services.
 
@@ -34,15 +35,15 @@ In connection with the initiation and ongoing provisioning of Covered Services, 
 
 Subscriber Information may include information which you provide to us such as your name, service address, billing address, work address, email address, home telephone number, work telephone number, mobile phone number, date of birth, social security number, drivers license number, credit card number and expiration date, bank account number, and other financial information. In addition, as part of our normal course of business, we generate and maintain billing and account information such as your billing history, the services to which you have subscribed, your payment history, your maintenance and repair history, the kind, location, configuration, device identifiers, MAC, and IP addresses of equipment (including TV sets, set-top boxes, CableCARDs, modems, telephones, IP enabled devices) connected to our facilities.
 
-Sometimes, we also obtain additional information from publicly available sources such as research consultants and marketing firms to supplement your information. From time to time, we may combine this publicly available information with information that we collect from you.
+Sometimes, we also obtain additional information from publicly available sources such as research consultants, data service providers, and marketing firms to supplement your information. From time to time, we may combine this publicly available information with information that we collect from you.
 
 For customer services purposes, we also may keep copies of correspondence concerning your account or records of complaints or inquiries that may be made about our service. In addition, we may sometimes collect responses to customer satisfaction surveys for analytics and research purposes. We may also collect information that helps us detect unauthorized use of our services.
 
 We may also collect service-specific Subscriber Information depending on the Covered Services to which you subscribe: 
 
   * **Optimum Voice**. If you are a subscriber of a covered Cablevision voice service such as Optimum Voice (which is an interconnected Voice-over-Internet Protocol "VoIP" service), we may collect customer proprietary network information ("CPNI"). CPNI is information that relates to the quantity, technical configuration, type, destination, location, and amount of use of an interconnected VoIP service or telecommunications service subscribed to by any customer, and that is made available to the carrier by the customer solely by virtue of the provider-customer relationship; and information contained in the bills pertaining to interconnected VoIP service, telephone exchange service or telephone toll service received by a customer. The disclosure and use of CPNI is subject to specialized restrictions as described in Section F below.
-  * **Internet Service, including Optimum Online**. If you subscribe to a covered Cablevision high-speed Internet service such as Optimum Online, we may maintain records of Internet Protocol addresses and email accounts that we assign to you, as well as any violations or alleged violations of applicable terms and conditions of usage. We may also collect usage information as it relates to portions of our websites which subscribers may access for the purpose of managing or operating their use of the Covered Services. Additional information about our privacy practices specific to our high-speed Internet service can be found in the [Additional Privacy Information for Cablevision's High Speed Internet Service](https://web.archive.org/Privacy/OOL).
-  * **iO Digital Cable**. If you are a digital cable television subscriber, we may also automatically collect information when providing services, when you interact with our systems such as changing your television channel, reviewing listings in an electronic program guide, using your remote, interacting with your DVR, ordering or viewing on-demand programming, engaging in other interactive programming features, or when you use the Optimum App for iPad or other similar IP enabled device applications. This information is maintained on a de-identified basis, except in connection with billing, troubleshooting, operations, or other service related purposes such as VOD, pay-per-view, program and content recommendation features and functions, and e-Bill or use of certain Optimum Select services such as requests for information or product purchases.
+  * **Internet Service, including Optimum Online**. If you subscribe to a covered Cablevision high-speed Internet service such as Optimum Online, we may maintain records of Internet Protocol addresses and email accounts that we assign to you, as well as any violations or alleged violations of applicable terms and conditions of usage. We may also collect usage information as it relates to portions of our websites which subscribers may access for the purpose of managing or operating their use of the Covered Services. Additional information about our privacy practices specific to our high-speed Internet service can be found in the [Additional Privacy Information for Cablevision's High Speed Internet Service.](https://web.archive.org/Privacy/OOL).
+  * **Optimum TV**. If you are a digital cable television subscriber, we may also automatically collect information when providing services, when you interact with our systems such as changing your television channel, reviewing listings in an electronic program guide, using your remote, interacting with your DVR, ordering or viewing on-demand programming, engaging in other interactive programming features, or when using the Optimum App or other similar IP enabled device applications. This information is maintained on a de-identified basis, except in connection with billing, troubleshooting, operations, or other service related purposes such as VOD, pay-per-view, program and content recommendation features and functions, and e-Bill or use of certain Optimum Select services such as requests for information or product purchases.
 
 
 
@@ -57,19 +58,21 @@ We use Personally Identifiable Information primarily to conduct business activit
   * provide you with accurate and high quality customer service, including responding to subscriber inquiries and troubleshooting;
   * comply with tax obligations, accounting rules, and contractual obligations to vendors;
   * ensure that you receive information about products and services that may be of interest to you;
-  * ensure compliance with applicable laws and the terms, conditions and policies governing the Covered Services; 
+  * ensure compliance with applicable laws and the terms, conditions, notices and policies governing the Covered Services; 
   * protect our rights, such as preventing fraud, service theft, and abusive practices; and
   * improve our facilities and the services that we provide over them.
 
 
 
-We may use Subscriber Information to generate de-identified or aggregated information - that is, data from which Personally Identifiable Information has been removed. We may also employ automated processes to generate de-identified or aggregated information from any of our Covered Services. De-identified or aggregated information does not identify you, and our collection, use, and disclosure of de-identified or aggregate information is not subject to any of the restrictions in this policy and its use and disclosure is subject to our discretion. We may use de-identified or aggregated information for programmer, advertiser and internal research and to improve our systems, the content that subscribers receive and their service experience (for example, to measure viewership of channels, TV shows and commercials). We may also use de-identified information to provide targeted content for our services such as programming and advertising or provide our recommendation features or functions to you. We may also use this information to deliver relevant third party advertising/promotional messages using your set-top box or through other IP enabled device applications without disclosing Personally Identifiable Information to these third party advertisers.
+We may use Subscriber Information to generate de-identified or aggregated information - that is, data from which Personally Identifiable Information has been removed. We may also employ automated processes to generate de-identified or aggregated information from any of our Covered Services. De-identified or aggregated information does not identify you, and our collection, use, and disclosure of de-identified or aggregate information is not subject to any of the restrictions in this notice and its use and disclosure is subject to our discretion. We may use de-identified or aggregated information for programmer, advertiser and internal research, and to improve our systems, the content that subscribers receive and their service experience (for example, to measure viewership of channels, TV shows and commercials). We may also use de-identified information to provide targeted content for our services such as programming and advertising or provide our recommendation features or functions to you. We may also use this information to deliver relevant third party advertising/promotional messages using your set-top box or through other IP-enabled device applications without disclosing Personally Identifiable Information to these third party advertisers.
 
-Although not required to do so, we do offer you a choice as to whether you wish to have targeted third party advertising/promotional messages delivered to your set-top box, PLEASE CALL US AT 1-888-425-2591 or visit [www.optimum.net/Privacy/Preferences](https://web.archive.org/Privacy/Preferences). Additionally, Cablevision provides Subscribers with the opportunity to restrict the use of program and content recommendations in association with certain Cablevision services, including Movie Explorer and other of our recommendations features and functions, by visiting [www.optimum.net/Privacy/Preferences](https://web.archive.org/Privacy/Preferences). Please note, your preferences may not take effect immediately.
+We may use certain Personally Identifiable Information for marketing purposes, including to facilitate display ads for our products and services shown to you on other websites and web services across the Internet. When we do this, we may provide third party service providers with access to certain of your Personally Identifiable Information in order to place de-identified coded data into cookies on your browser (or employ similar technology), and to provide you with more relevant offers and updates through display media. If you do not wish to receive these types of ads, you may opt out of most such advertising by going to: <http://networkadvertising.org/choices> or [http://www.aboutads.info](http://www.aboutads.info/).
+
+Similarly, although not required to do so, we do offer you a choice as to whether you wish to have targeted third party advertising/promotional messages delivered to your set-top box or other IP-enabled device applications, PLEASE CALL US AT 1-888-425-2591 or visit [www.optimum.net/Privacy/Preferences](https://web.archive.org/Privacy/Preferences). Additionally, Cablevision provides Subscribers with the opportunity to restrict the use of program and content recommendations in association with certain Cablevision services, including Movie Explorer and other of our recommendations features and functions, by visiting [http://www.optimum.net/Privacy/Preferences](https://web.archive.org/Privacy/Preferences). Please note, your preferences may not take effect immediately.
 
 Our use of certain Subscriber Information associated with voice service however, is limited as described in Section F below.
 
-Individuals who may be authorized to have access to Personally Identifiable Information include our employees, agents, and affiliates within our family of affiliated businesses (including but not limited to Newsday, Madison Square Garden and Rainbow Media Holdings), though we seek to limit access to individuals on a need to know basis. Sometimes, we may provide access to certain information to select third parties to assist us in providing services or for other legitimate business purposes. For example, we may provide access to certain information to companies providing services to us, including installation and repair, billing, call center, sales and marketing, market research, fulfillment, mailings, data storage, analysis and processing, bill collection, auditing and accounting, credit reporting, and legal services. We may also provide access to third parties who assist us in providing targeted advertising and audience analysis initiatives. We will provide access to CPNI for use in sales and marketing only to our agents and affiliates. The frequency of such access depends on our business needs.
+Individuals who may be authorized to have access to Personally Identifiable Information include our employees, agents, and affiliates within our family of affiliated businesses (including but not limited to Newsday, Madison Square Garden and AMC Networks), though we seek to limit access to individuals on a need to know basis. Sometimes, we may provide access to certain information to select third parties to assist us in providing services or for other legitimate business purposes. For example, we may provide access to certain information to companies providing services to us, including installation and repair, billing, call center, sales and marketing, market research, fulfillment, mailings, data storage, data scrubbing, data analytics and processing, bill collection, auditing and accounting, credit reporting, and legal services. We may also provide access to third parties who assist us in providing targeted advertising and audience analysis initiatives. We will provide access to CPNI for use in sales and marketing only to our agents and affiliates. The frequency of such access depends on our business needs.
 
 C. When We Disclose Subscriber Information
 
@@ -86,12 +89,12 @@ If you subscribe to a covered Cablevision voice service such as Optimum Voice, a
 
 We may also provide your Personally Identifiable Information to third parties when you expressly consent to such disclosure, such as when you make purchases from third party vendors using our Optimum Select technology or request information from third parties through certain interactive channels.
 
-We may furnish certain de-identified information, on either an aggregate or non-aggregate basis, regarding viewing habits and system interaction to third parties, such as advertisers and programmers, for purposes that may include but not be limited to providing you with more relevant programming, advertising and features, increasing the value of the Covered Services, providing you with information or offers about products or services that we believe may be of interest to you, or assisting third parties with media, programming and content planning and purchasing efforts. We will not provide advertisers, content providers, or these other third parties with personally identifiable information about you unless we have received your consent first, except as required by law. 
+We may furnish certain de-identified information, on either an aggregate or non-aggregate basis, regarding viewing habits and system interaction to third parties, such as advertisers and programmers, for purposes that may include, but not be limited to providing you with more relevant programming, advertising and features, increasing the value of the Covered Services, providing you with information or offers about products or services that we believe may be of interest to you, or assisting third parties with media, programming and content planning and purchasing efforts. We will not disclose to advertisers, content providers, or these other third parties personally identifiable information about you unless we have received your consent first, except as required by law. 
 
 You acknowledge, consent and agree that we may access, preserve and disclose your Subscriber Information, including your Personally Identifiable Information, your account information and content if required to do so by law or in a good faith belief that such access, preservation or disclosure is reasonably necessary to: 
 
   * comply with legal process;
-  * enforce our Terms of Service, Privacy Policy, or other contracts with you;
+  * enforce our Terms of Service, Privacy Notice(s), or other contracts with you;
   * respond to claims that any content violates the rights of third parties;
   * respond to your requests for customer service;
   * respond to inquiries from government agencies regarding customer-initiated complaints provided to such agencies;
@@ -115,7 +118,7 @@ Subscribers may choose not to receive promotional or marketing telephone calls o
 
 F. Special Rules About Telephone-Related Information
 
-Under federal law, you have a right, and we have a duty, to protect the confidentiality of a category of telephone-related information known as "customer proprietary network information" or "CPNI." Cablevision restricts access to your CPNI. For example, call detail records, which contain information about the calls you make are available online. In order to access call detail records online, you must have an Optimum ID and password. All other CPNI is restricted by requiring a password and by requiring that you provide certain non-public verification information over the phone to confirm your identity. A written request may also be used to obtain your CPNI. You must send the written request to Cablevision OV at 6 Corporate Center Drive, Melville New York 11747, Attn. Shared Services- CDR. All requests will be verified.
+Under federal law, you have a right, and we have a duty, to protect the confidentiality of a category of telephone-related information known as "customer proprietary network information" or "CPNI." Cablevision restricts access to your CPNI. For example, call detail records, which contain information about the calls you make are available online. In order to access call detail records online, you must have an Optimum ID and password. All other CPNI is restricted by requiring a password and/or by requiring that you provide certain non-public verification information over the phone to confirm your identity. A written request may also be used to obtain your CPNI. You must send the written request to Cablevision OV at 6 Corporate Center Drive, Melville New York 11747, Attn. Shared Services - CDR. All requests will be verified.
 
 Cablevision also restricts the use of your CPNI. Unless we have your express permission, Cablevision does not share your CPNI with non-affiliates for marketing purposes. We may, however, use CPNI or share de-identified information to tailor your service and to market related Cablevision Optimum Voice products and services to you.
 
@@ -125,21 +128,21 @@ The Cable Act imposes limitations with respect to the collection and disclosure 
 
 H. How We Protect Subscriber Information
 
-We employ physical, electronic and procedural safeguards to protect Subscriber Information. For example, we utilize secure socket layer (SSL) encryption to protect certain information you provide to us; employ verification measures to protect e-mail during delivery; maintain certain subscriber databases in restricted areas and secure the content by use of firewalls and other security methods. We also limit access to databases containing subscribers' Personally Identifiable Information to specifically authorized employees and agents and other parties identified in the disclosure section above.
+We employ physical, electronic, and procedural safeguards to protect Subscriber Information. For example, we utilize secure socket layer (SSL) encryption to protect certain information you provide to us; employ verification measures to protect e-mail during delivery; maintain certain subscriber databases in restricted areas; and secure the content by use of firewalls and other security methods. We also limit access to databases containing subscribers' Personally Identifiable Information to specifically authorized employees and agents and other parties identified in the disclosure section above.
 
 Despite these measures, we do not guarantee the security of information stored in our database or that unauthorized parties will not intercept information you send or receive over the Internet. As a shared resource, the Internet subjects our services and you to the risk of unauthorized access to files and data, even when security measures are implemented. If you use Cablevision's high-speed Internet service such as Optimum Online, to send, receive or post personal or confidential information, you do so at your own risk.
 
-I. Questions About The Policy
+I. Questions About This Notice
 
-If you have any questions about our privacy protections and policies, please write to us at: 
+If you have any questions about our privacy protections, notices and policies, please write to us at: 
 
-Cablevision Corporation,  
-Attn. Shared Services Dept,  
-6 Corporate Center Drive,  
-Melville NY 11747.
+CSC Holdings, LLC  
+Attn. Shared Services Dept  
+6 Corporate Center Drive  
+Melville NY 11747
 
-J. Updates To The Policy
+J. Updates To This Notice
 
-We will review this privacy policy periodically as we deem appropriate and when we change or update Covered Services. We will notify you of any material changes by posting the revised policy on our Optimum website or by written or electronic correspondence. Your use of the Covered Service(s) following the notice of a revised policy constitutes your acceptance of the revised privacy policy.
+We will review this privacy notice periodically as we deem appropriate and when we change or update Covered Services. We will notify you of any material changes by posting the revised notice on our Optimum website or by written or electronic correspondence. Your use of the Covered Service(s) following the notice of a revised notice constitutes your acceptance of the revised privacy notice.
 
-Effective April 1, 2012 
+Effective June 22, 2013 
