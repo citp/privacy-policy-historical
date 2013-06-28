@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the solrepublic.com privacy policy that was archived on 2012-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121116050153id_/http%3A//www.solrepublic.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the solrepublic.com privacy policy that was archived on 2013-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130628230059id_/http%3A//www.solrepublic.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | SOL Republic
 
@@ -40,7 +40,7 @@ Your Information, Your Choice
 To update us with your information-sharing preferences, you may contact us using one of the following methods:
 
 • [support@SOLREPUBLIC.com](mailto:support@SOLREPUBLIC.com)  
-• SOLREPUBLIC.com/support
+• [SOLREPUBLIC.com/support](http://solrepublic.com/support)
 
 Please note your preference as stated below:
 
@@ -68,7 +68,7 @@ If you choose to provide SOL REPUBLIC with personal information, you consent to 
 Customers shipping internationally who wish to inquire about or update personal information or change marketing preferences, or anyone who wants to receive information about our international privacy program should contact us directly using one of the following methods:
 
 • [support@SOLREPUBLIC.com](mailto:support@SOLREPUBLIC.com)  
-• SOLREPUBLIC.com/support
+• [SOLREPUBLIC.com/support](http://solrepublic.com/support)
 
 In order to comply with the Safe Harbor Privacy Principles, SOL REPUBLIC commits to resolve any inquiries or complaints for all international shoppers including European Union citizens relating to privacy and our collection or use of personal information. Any complaints which cannot be resolved directly with SOL REPUBLIC will be resolved through the Council of Better Business Bureaus, Inc.'s Safe Harbor Privacy Dispute Resolution Procedures.
 
@@ -94,6 +94,6 @@ If you're not comfortable shopping online (and would prefer to make your purchas
 
 If you have questions regarding our Privacy Policy please contact us at:  
 • [support@SOLREPUBLIC.com](mailto:support@SOLREPUBLIC.com)  
-• SOLREPUBLIC.com/support
+• [SOLREPUBLIC.com/support](http://solrepublic.com/support)
 
 The examples contained in this Privacy Policy are illustrations only, and are not intended to be exhaustive.
