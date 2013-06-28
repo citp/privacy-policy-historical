@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the herald-review.com privacy policy that was archived on 2012-01-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120125081653id_/http%3A//herald-review.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the herald-review.com privacy policy that was archived on 2013-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130628073447id_/http%3A//herald-review.com/privacy) for the most accurate reproduction.*
 
 # Privacy
 
-Welcome to the web sites of the Herald & Review. We (which includes our parent company, Lee Enterprises, Incorporated) believe in your right to know what information is collected during your visit to our web sites and how that information is used and safeguarded. 
+Welcome to the web sites of the Herald and Review. We (which includes our parent company, Lee Enterprises, Incorporated) believe in your right to know what information is collected during your visit to our web sites and how that information is used and safeguarded. 
 
 ### Information Automatically Gathered About All Visitors
 
