@@ -1,16 +1,16 @@
-> *The following text is extracted and transformed from the 6pm.com privacy policy that was archived on 2012-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121211030201id_/http%3A//www.6pm.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 6pm.com privacy policy that was archived on 2013-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130628040954id_/http%3A//www.6pm.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | 6pm.com
 
-Last updated: May 1, 2010. To see what has changed, [click here](https://web.archive.org/c/privacy-policy-changes-1).
+Last updated: January 1, 2013. To see what has changed, [click here](https://web.archive.org/c/privacy-policy-changes-1).
 
-Thank you for accessing the 6pm.com Website (“Site”) operated by Zappos Development, Inc. We respect your privacy and want to protect your personal information. To learn more, please read this Privacy Policy.
+Thank you for accessing the 6pm.com Website (“Site”) operated by Zappos IP, Inc. We respect your privacy and want to protect your personal information. To learn more, please read this Privacy Policy.
 
 This Privacy Policy explains how we collect, use and (under certain conditions) disclose your personal information. This Privacy Policy also explains the steps we have taken to secure your personal information. Finally, this Privacy Policy explains your options regarding the collection, use and disclosure of your personal information. By visiting the Site directly or through another site, you accept the practices described in this Policy.
 
 **This privacy policy applies to the Site. This privacy policy does not necessarily apply to any offline collection of your personal information. Please see below for details.**
 
-**We are not responsible for the content or privacy practices on any web site not operated by Zappos Development, Inc. to which the Site links or that links to the Site.**
+**We are not responsible for the content or privacy practices on any web site not operated by Zappos IP, Inc. to which the Site links or that links to the Site.**
 
 **INFORMATION COLLECTION AND USE**
 
@@ -69,7 +69,7 @@ This Privacy Policy explains how we collect, use and (under certain conditions) 
 
 **DATA SECURITY**
 
-The Site incorporates physical, electronic, and administrative procedures to safeguard the confidentiality of your personal information, including Secure Sockets Layer (“SSL”) for all financial transactions through the Site. We use SSL encryption to protect your personal information online, and we also take several steps to protect your personal information in our facilities. Access to your personal information is [restricted](https://web.archive.org/restricted). Only employees who need access to your personal information to perform a specific job are granted access to your personal information. Finally, we rely on third-party service providers for the physical security of some of our computer hardware. We believe that their security procedures are adequate. For example, when you visit the Site, you access servers that are kept in a secure physical environment, behind a locked cage and an electronic firewall.
+The Site incorporates physical, electronic, and administrative procedures to safeguard the confidentiality of your personal information, including Secure Sockets Layer (“SSL”) for all financial transactions through the Site. We use SSL encryption to protect your personal information online, and we also take several steps to protect your personal information in our facilities. Access to your personal information is restricted. Only employees who need access to your personal information to perform a specific job are granted access to your personal information. Finally, we rely on third-party service providers for the physical security of some of our computer hardware. We believe that their security procedures are adequate. For example, when you visit the Site, you access servers that are kept in a secure physical environment, behind a locked cage and an electronic firewall.
 
 While we use industry-standard precautions to safeguard your personal information, we cannot guarantee complete security. 100% complete security does not presently exist anywhere online or offline.
 
@@ -89,4 +89,4 @@ As you might expect from us, the majority of information that we collect is obta
 
 If we change or update this Privacy Policy, we will post changes and updates on the Site so that you will always be aware of what information we collect, use and disclose. We encourage you to review this Privacy Policy from time to time so you will know if the Privacy Policy has been changed or updated. If you have any questions about the Privacy Policy, please contact us at 1-888-676-2660 or [cs@6pm.com](mailto:cs@6pm.com).
 
-Effective May 1, 2010
+Effective January 1, 2013
