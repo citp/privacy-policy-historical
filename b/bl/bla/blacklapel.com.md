@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the blacklapel.com privacy policy that was archived on 2012-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121216033616id_/http%3A//www.blacklapel.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the blacklapel.com privacy policy that was archived on 2013-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130629005150id_/http%3A//www.blacklapel.com/privacy-policy) for the most accurate reproduction.*
 
 # Black Lapel - Privacy Policy
 
