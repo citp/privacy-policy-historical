@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the kuklaskorner.com privacy policy that was archived on 2012-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121228041140id_/http%3A//kuklaskorner.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kuklaskorner.com privacy policy that was archived on 2013-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130629013153id_/http%3A//kuklaskorner.com/privacy) for the most accurate reproduction.*
 
-# KuklasKorner
+# Kukla's Korner
 
 ## Privacy Policy
 
