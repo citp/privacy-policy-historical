@@ -1,33 +1,32 @@
-> *The following text is extracted and transformed from the xtendedview.com privacy policy that was archived on 2012-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121228130442id_/http%3A//xtendedview.com/Privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the xtendedview.com privacy policy that was archived on 2013-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130628035403id_/http%3A//xtendedview.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy: www.xtendedview.com
+
+[Home](http://xtendedview.com/)  »  Privacy Policy: www.xtendedview.com
 
 **Privacy Policy for xtendedview.com**  
 If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at tushar[at]xtendedview.com or you can use this page to [contact us](http://xtendedview.com/contact-us/).
 
-At xtendedview.com, the privacy of our visitors is of extreme importance to us. This privacy policy document outlines the types of personal information is received and collected by xtendedview.com and how it is used.
+Here, the privacy of your information is important and the below are the details of what kind of data is collected from you and how it is stored. Your personal data will never be sold to third parties.
 
 **Log Files**
 
-Like many other Web sites, xtendedview.com makes use of log files. The information inside the log files includes internet protocol ( IP ) addresses, type of browser, Internet Service Provider ( ISP ), date/time stamp, referring/exit pages, and number of clicks to analyze trends, administer the site, track user’s movement around the site, and gather demographic information. IP addresses, and other such information are not linked to any information that is personally identifiable.
+The information on logs include few details of your IP address, ISP- (Internet Service Provider), Browser Name, your browsing habits and the kind of information you love to read here and also the time and pages you visited.
 
-**Cookies and Web Beacons**
+**Cookies and History:**
 
-xtendedview.com does use cookies to store information about visitors preferences, record user-specific information on which pages the user access or visit, customize Web page content based on visitors browser type or other information that the visitor sends via their browser.
+The cookies are used to store information like your time of stay, personal data you provide in comment section. As you might have noticed, few third party advertisements are also used on this site which may use cookies and web beacons which are needed for them to collect some information like your IP address, ISP, browser and in some cases if you have flash installed to run flash ads. Also there are website performance and stat tracking tools used here which collect few information as discussed above. These details are used so as to present you with a relevant kind of ad which you would like to browse through.
 
-**DoubleClick DART Cookie**
+You may disable cookies on your browser but it affects your interaction with this site.
 
-.:: Google, as a third party vendor, uses cookies to serve ads on xtendedview.com.  
-.:: Google’s use of the DART cookie enables it to serve ads to users based on their visit to xtendedview.com and other sites on the Internet.  
-.:: Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at the following URL – <http://www.google.com/privacy_ads.html>
+**Advertising and Privacy:**
 
-Some of our advertising partners may use cookies and web beacons on our site. Our advertising partners include ….  
-Google Adsense
+We use Google Adsense as the major advertising network. Google, as a third party vendor, uses cookies to serve ads on your site. Google’s use of the [DART cookie](http://www.doubleclick.com/privacy/faq.aspx) enables it to serve ads to your users based on their visit to your sites and other sites on the Internet. Users may opt out of the use of the DART cookie by visiting the [Google ad and content network privacy policy](http://www.google.com/privacy_ads.html). You may read more about Adsense privacy policies [here](https://www.google.com/adsense/support/bin/answer.py?answer=100557).
 
-These third-party ad servers or ad networks use technology to the advertisements and links that appear on xtendedview.com send directly to your browsers. They automatically receive your IP address when this occurs. Other technologies ( such as cookies, JavaScript, or Web Beacons ) may also be used by the third-party ad networks to measure the effectiveness of their advertisements and / or to personalize the advertising content that you see.
+**Interest Based Advertising:**
 
-xtendedview.com has no access to or control over these cookies that are used by third-party advertisers.
+Google Adsense will soon start serving ads based on the interest of the user/visitor. If you visit sports related sites very regularly which uses adsense, then you will be grouped into “sports enthusiast” category. This is called [Interest based advertising](https://www.google.com/adsense/support/bin/answer.py?answer=113771) and to achieve this, they collect some data from visitos which do not include your name, mail id, phone number, address or any such details. You may read more about it [here](http://adsense.blogspot.com/2009/03/driving-monetization-with-ads-that.html).
 
-You should consult the respective privacy policies of these third-party ad servers for more detailed information on their practices as well as for instructions about how to opt-out of certain practices. xtendedview.com’s privacy policy does not apply to, and we cannot control the activities of, such other advertisers or web sites.
+**Comment and Contact:**
 
-If you wish to disable cookies, you may do so through your individual browser options. More detailed information about cookie management with specific web browsers can be found at the browsers’ respective websites.
+We collect your name and email id in the comment section and also the contact form. This information will be used only to contact you in any case of need which may occur. That will only be used to make new announcements or sometimes to reply your queries. The information collected at the comment section and contact form is totally safe and will not be disclosed to anyone.
