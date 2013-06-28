@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the brucespringsteen.net privacy policy that was archived on 2012-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121223121220id_/http%3A//www.sonymusic.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the brucespringsteen.net privacy policy that was archived on 2013-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130628080723id_/http%3A//www.sonymusic.com/privacypolicy.html) for the most accurate reproduction.*
 
 # SONY MUSIC ENTERTAINMENT PRIVACY POLICY | Sony Music Entertainment
 
