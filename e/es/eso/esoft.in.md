@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the esoft.in privacy policy that was archived on 2011-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110506065436id_/http%3A//www.esoft.in/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the esoft.in privacy policy that was archived on 2013-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130628234326id_/http%3A//www.esoft.me/privacy_policy.html) for the most accurate reproduction.*
 
-# eSoft.in Downloads
+# eSoft Downloads Privacy Policy
 
-**eSoft.in Downloads** and associated companies and affiliated companies hereinafter to be collectively reffered to as **eSoft.in Downloads** through its websites hereinafter to be collectively called "the Site" is committed to providing a secure experience and safeguarding your personal information. This Privacy Statement was created to explain why we collect particular information and how we will protect your personal privacy within our Web site. We reserve the right to change this policy at any time, and will post any new privacy policy here. By using or navigating around the Site or utilizing any of the services we provide here, you acknowledge that you have read and understand and agree to be bound by this Privacy Statement. If you do not agree to be so bound, do not remain on the Site. 
+**eSoft Downloads** and associated companies and affiliated companies hereinafter to be collectively reffered to as **eSoft Downloads** through its websites hereinafter to be collectively called "the Site" is committed to providing a secure experience and safeguarding your personal information. This Privacy Statement was created to explain why we collect particular information and how we will protect your personal privacy within our Web site. We reserve the right to change this policy at any time, and will post any new privacy policy here. By using or navigating around the Site or utilizing any of the services we provide here, you acknowledge that you have read and understand and agree to be bound by this Privacy Statement. If you do not agree to be so bound, do not remain on the Site. 
 
 **Contact Information**
 
-Some areas of our Site request or require you to provide your contact information (such as your name and email address). Your contact information may be used to communicate with you when necessary with respect to transactions conducted through the Site and material changes in the Site's policies. We may also send you information about **eSoft.in Downloads** and/or promotional materials from the Site and some of our partners. We will not sell, share or rent any contact information collected from you except as disclosed in this Privacy Statement. All contact information provided to the Site is maintained on our secure servers
+Some areas of our Site request or require you to provide your contact information (such as your name and email address). Your contact information may be used to communicate with you when necessary with respect to transactions conducted through the Site and material changes in the Site's policies. We may also send you information about **eSoft Downloads** and/or promotional materials from the Site and some of our partners. We will not sell, share or rent any contact information collected from you except as disclosed in this Privacy Statement. All contact information provided to the Site is maintained on our secure servers
 
 **Demographic Information**
 
@@ -18,7 +18,7 @@ We collect an IP address from all visitors to our Site. We use your IP address f
 
 **Third Party Service Providers**
 
-We may disclose your personal information in special cases if required to do so by law, court order or other government or law enforcement authority; or when we believe in good faith that disclosing this information is otherwise necessary or advisable, including, for instance, to identify, contact or bring legal action against someone who may be causing injury to or interfering with the rights or property of **eSoft.in Downloads** , another user or anyone else that could be harmed by such activities.
+We may disclose your personal information in special cases if required to do so by law, court order or other government or law enforcement authority; or when we believe in good faith that disclosing this information is otherwise necessary or advisable, including, for instance, to identify, contact or bring legal action against someone who may be causing injury to or interfering with the rights or property of **eSoft Downloads** , another user or anyone else that could be harmed by such activities.
 
 **Cookies**
 
@@ -40,4 +40,4 @@ This Site makes available chat rooms, forums, message boards, and/or news groups
 
 **Third Party Links**
 
-The Site contains links to other World Wide Web Internet sites, resources and sponsors of **eSoft.in Downloads**. Selection of an ad banner or link will redirect you off of the Site to a third party Web site. **eSoft.in Downloads** is not responsible for the privacy practices of such sites. You should make sure that you read and understand the privacy policies of these sites and direct any concerns regarding any external link to the site administrator or Webmaster of that third party Web site.
+The Site contains links to other World Wide Web Internet sites, resources and sponsors of **eSoft Downloads**. Selection of an ad banner or link will redirect you off of the Site to a third party Web site. **eSoft Downloads** is not responsible for the privacy practices of such sites. You should make sure that you read and understand the privacy policies of these sites and direct any concerns regarding any external link to the site administrator or Webmaster of that third party Web site.
