@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the utorrent.com privacy policy that was archived on 2012-10-14.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121014103633id_/http%3A//www.utorrent.com/legal/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the utorrent.com privacy policy that was archived on 2013-06-28.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130628080634id_/http%3A//www.utorrent.com/legal/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 <title>Privacy Policy - µTorrent - a (very) tiny BitTorrent client</title>
@@ -15,18 +15,20 @@
 	js.src = "//connect.facebook.net/en_US/all.js#xfbml=1";
 	fjs.parentNode.insertBefore(js, fjs);
 }(document, 'script', 'facebook-jssdk'));</script>
-<meta name="description" content="µTorrent is a lightweight and efficient BitTorrent client for Windows or Mac with many features.">
-<meta name="keywords" content="utorrent, µTorrent, torrent, bittorrent, microtorrent, client, windows, mac, osx">
-<link rel="shortcut icon" href="/favicon.ico">
-<link href="http://ll.static.utorrent.com/stylesheets/screen.css?1349994049" rel="stylesheet" type="text/css">
+	
+	<meta name="description" content="µTorrent is a lightweight and efficient BitTorrent client for Windows or Mac with many features.">
+	<meta name="keywords" content="utorrent, µTorrent, torrent, bittorrent, microtorrent, client, windows, mac, osx">
+
+<link rel="shortcut icon" href="/faviconUT.ico">
+<link href="http://ll.static.utorrent.com/stylesheets/screen.css?1372404280" rel="stylesheet" type="text/css">
 <script type="text/javascript">var _sf_startpt=(new Date()).getTime()</script>
 <script type="text/javascript">
 </script>
 
-<!--[if IE]><link rel="stylesheet" href="/stylesheets/iefixes.css?1349994049"><![endif]-->
-<!--[if IE 6]><link rel="stylesheet" href="/stylesheets/ie6fixes.css?1349994049"><![endif]-->
-<!--[if IE 7]><link rel="stylesheet" href="/stylesheets/ie7fixes.css?1349994049"><![endif]-->
-<!--[if IE 8]><link rel="stylesheet" href="/stylesheets/ie8fixes.css?1349994049"><![endif]-->
+<!--[if IE]><link rel="stylesheet" href="/stylesheets/iefixes.css?1372404280"><![endif]-->
+<!--[if IE 6]><link rel="stylesheet" href="/stylesheets/ie6fixes.css?1372404280"><![endif]-->
+<!--[if IE 7]><link rel="stylesheet" href="/stylesheets/ie7fixes.css?1372404280"><![endif]-->
+<!--[if IE 8]><link rel="stylesheet" href="/stylesheets/ie8fixes.css?1372404280"><![endif]-->
 <script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js"></script>
 
 <script type="text/javascript" src="http://partner.googleadservices.com/gampad/google_service.js">
@@ -61,44 +63,61 @@
 
 <script type="text/javascript">
 	//<![CDATA[
-	var languages = ["zh_cn","de","es","fr","it","ko","nl","ru","pl","pt","pt_br","tr","ja"];
-	var userlang = (!navigator.language) ? navigator.userLanguage : navigator.language;
-	var uselang = false;
-	var cookies = document.cookie.split(';');
-	for (i=0;i<cookies.length;i++) {
-		if (cookies[i].indexOf('language') != -1) {
-			languagedata = cookies[i].split('=');
-			userlang = languagedata[1];
-		}
-	}
-	if (userlang.substring(0,2) != 'en' && window.location.pathname.indexOf('/intl/') == -1) {
-		for (i=0; i<languages.length; i++) {
-			if (userlang == languages[i]) {
-				uselang = userlang;
-				break;
-			}
-		}
-		if (!uselang) {
-			for (i=0; i<languages.length; i++) {
-				if (userlang.substring(0,2) == languages[i]) {
-					uselang = userlang.substring(0,2);
-					break;
+	$.ajax({
+	    url: "http://www.utorrent.com/scripts/headers.php",
+	    dataType: 'jsonp',
+	    success: function(headers) {
+	        language = headers['Accept-Language'];
+			var userlang = language.substring(0,2);
+			var languages = ["zh_cn","de","es","fr","it","ko","nl","ru","pl","pt","pt_br","tr","ja"];
+			var uselang = false;
+			var cookies = document.cookie.split(';');
+			for (i=0;i<cookies.length;i++) {
+				if (cookies[i].indexOf('language') != -1) {
+					languagedata = cookies[i].split('=');
+					userlang = languagedata[1];
 				}
 			}
+			if (userlang.substring(0,2) != 'en' && window.location.pathname.indexOf('/intl/') == -1) {
+				for (i=0; i<languages.length; i++) {
+					if (userlang == languages[i]) {
+						uselang = userlang;
+						break;
+					}
+					else if(userlang == 'zh'){
+						uselang = 'zh_cn';
+						break;
+					}
+				}
+				if (!uselang) {
+					for (i=0; i<languages.length; i++) {
+						if (userlang.substring(0,2) == languages[i]) {
+							uselang = userlang.substring(0,2);
+							break;
+						}
+					}
+				}
+			}
+			if (uselang) {
+
+				window.location = window.location.pathname.replace("/","/intl/"+uselang+"/")+window.location.search;
+			}
 		}
-	}
-	if (uselang) {
-		window.location = window.location.pathname.replace("/","/intl/"+uselang+"/")+window.location.search;
-	}
+	});
 	//]]>
+
 </script>
 
 <script type="text/javascript">
 
 	var _gaq = _gaq || [];
+	var pluginUrl = '//www.google-analytics.com/plugins/ga/inpage_linkid.js';
+	_gaq.push(['_require', 'inpage_linkid', pluginUrl]);
 	_gaq.push(['_setAccount', 'UA-116155-1']);
 	_gaq.push(['_setDomainName', 'utorrent.com']);
 	_gaq.push(['_trackPageview']);
+	_gaq.push(['_setAllowLinker', true]);
+
 
 	(function() {
 		var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
@@ -137,8 +156,7 @@ document.getElementsByTagName('head')[0].appendChild(twitterWidgets);
 	<!-- Begin Header -->
 	<div id="headerwrapper">
 		<div class="header">
-			<p class="logo"><a href="http://www.utorrent.com/" title="µTorrent - Home" class="logoimg">µTorrent</a></p>
-			<p class="tagline">a (very) tiny BitTorrent client</p>
+			<p class="logo"><a href="http://www.utorrent.com/" title="µTorrent - Home" class="logoimg" id="retina">µTorrent</a></p>
 			<script type="text/javascript">
 	//<![CDATA[
 	var toggleLanguage = function() {
@@ -146,6 +164,7 @@ document.getElementsByTagName('head')[0].appendChild(twitterWidgets);
 	}
 	//]]>
 </script>
+
 <ul class="globalnav">
 			<li class="topli">
 			<a class="topa langtoggle" onclick="toggleLanguage();return false;">
@@ -174,8 +193,10 @@ document.getElementsByTagName('head')[0].appendChild(twitterWidgets);
 				<li class="topli"><a href="https://twitter.com/utorrent" class="twitter-follow-button" data-show-count="false" data-show-screen-name="false" style="font-size:8px; text-decoration:none;color:#666">Follow</a>
 <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="//platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script></li>
 				
-				<li class="topli"><div class="fb-like" data-href="http://www.facebook.com/utorrent" data-send="false" data-layout="button_count" data-width="450" data-show-faces="false"></div><script type="text/javascript">_ga.trackFacebook();</script></li>
-		</ul>
+		<li class="topli"><a href="http://www.facebook.com/utorrent" target="_blank"><img border="0" style="border:none;" src="/images/interface/like_bttn_hack.gif"></a>
+		<script type="text/javascript">_ga.trackFacebook();</script></li>
+
+</ul>
     		<!-- Begin Navigation -->
 			<ul class="primarynav">
 			<li class="topli"><a href="http://www.utorrent.com/get-started" class="topa get-started">Get Started</a>
@@ -224,19 +245,22 @@ document.getElementsByTagName('head')[0].appendChild(twitterWidgets);
 		
 		
 	<script type="text/javascript">
-			var OS = navigator.platform;
-			if (OS.indexOf('Mac') != -1) {
-				document.getElementById('downloadlink').href = 'http://www.utorrent.com/downloads/complete/os/mac';
-			} else if (OS.indexOf('Linux') != -1) {
-				document.getElementById('downloadlink').href = 'http://www.utorrent.com/downloads/complete/os/linux';
-			}
-			
+		var retina = window.devicePixelRatio > 1 ;
+		if(retina) 
+			document.getElementById('retina').setAttribute('class', 'retina');;
+	
+		var OS = navigator.platform;
+		if (OS.indexOf('Mac') != -1) {
+			document.getElementById('downloadlink').href = 'http://www.utorrent.com/downloads/complete/os/osx';
+		} else if (OS.indexOf('Linux') != -1) {
+			document.getElementById('downloadlink').href = 'http://www.utorrent.com/downloads/complete/os/linux';
+		}
 	</script>
 	
 	<script type="text/javascript">
 			var OS = navigator.platform;
 			if (OS.indexOf('Mac') != -1) {
-				document.getElementById('PlusDownloadLink').href = 'http://www.utorrent.com/downloads/complete/os/mac';
+				document.getElementById('PlusDownloadLink').href = 'http://www.utorrent.com/downloads/complete/os/osx';
 			} else if (OS.indexOf('Linux') != -1) {
 				document.getElementById('PlusDownloadLink').href = 'http://www.utorrent.com/downloads/complete/os/linux';
 			}
@@ -244,6 +268,7 @@ document.getElementsByTagName('head')[0].appendChild(twitterWidgets);
 	</script>
 	<span class="copyrightfloat">&nbsp;</span>
 	<div id="main">
+
 
 
 <!-- Begin Page Content -->
@@ -315,13 +340,12 @@ document.getElementsByTagName('head')[0].appendChild(twitterWidgets);
             <h3>Questions? Contact us.</h3>
             <p>If you have any questions about our privacy practices, please do not hesitate to contact:</p>
 <pre>BitTorrent, Inc.
-303 2nd St. Suite S200
+303 2nd St. Suite S600
 San Francisco, California 94107</pre>
 
             <h3>End User License Agreements and Terms and Conditions.</h3>
             <p>Please also read any applicable End User License Agreements and/or Terms and Conditions that apply to individual µTorrent Applications and Services.</p>
             
-   
     </div>
     <!-- End Page Content -->
 <div id="sharing">
@@ -334,12 +358,10 @@ San Francisco, California 94107</pre>
 			</script>
 		</div>
 		
-		<div style="float:right;margin-top:0;">
-			<div class="fb-like" data-href="http://www.facebook.com/utorrent" data-send="false" data-width="450" data-show-faces="false"></div>
+		<div style="margin-top:0;">
+			<a href="http://www.facebook.com/utorrent" target="_blank"><img border="0" style="border:none;" src="/images/interface/like_bttn_hack.gif"></a><script type="text/javascript">_ga.trackFacebook();</script>
 		</div>
 	</div>
-
-
 </div>
 </div>
 <!-- Begin Footer -->
@@ -352,59 +374,60 @@ San Francisco, California 94107</pre>
 			</div>
 			<div class="footerpath">
 				<h5><a href="http://blog.utorrent.com"><span class="blog">&nbsp;</span>µTorrent Blog</a></h5>
-								<p>Access µTorrent Remote on Your iPhone<br>
-				<a href="http://blog.utorrent.com/2012/10/08/download-%c2%b5torrent-remote-on-your-iphone/"><strong>View Post</strong></a></p>
-									</div>
+								<p>Introducing BTC: A Torrenting Shortcut<br>
+				<a href="http://blog.utorrent.com/2013/01/24/introducing-btc-a-torrenting-shortcut/"><strong>View Post</strong></a></p>
+								</div>
 				<div class="footerpath footerpathlast">
 					<h5><a href="http://forum.utorrent.com"><span class="forum">&nbsp;</span>Community Forums</a></h5>
-										<p>µTorrent not opening torrents<br>
-					<a href="http://forum.utorrent.com/viewtopic.php?id=125588&amp;action=new"><strong>View Post</strong></a></p>
+										<p>µTorrent Remote for Windows Phone<br>
+					<a href="http://forum.utorrent.com/viewtopic.php?id=125740&amp;action=new"><strong>View Post</strong></a></p>
 											</div>
 				</div>
 
 				<ul class="footernav clearfix">
-					<li class="section"><a href="http://www.utorrent.com/get-started" class="sectionheader">Get Started</a>
+					<li class="section"><a href="/get-started" class="sectionheader">Get Started</a>
 						<ul>
-							<li><a href="http://www.utorrent.com/get-started">Find Torrents</a></li>
-							<li><a href="http://www.utorrent.com/get-started/skins">Skins</a></li>
+							<li><a href="/get-started">Find Torrents</a></li>
+							<li><a href="/get-started/skins">Skins</a></li>
 						</ul>
 					</li>
 
-					<li class="section"><a href="http://www.utorrent.com/community" class="sectionheader">Community</a>
+					<li class="section"><a href="/community" class="sectionheader">Community</a>
 						<ul>
 							<li><a href="http://forum.utorrent.com">Forums</a></li>
-							<li><a href="http://www.utorrent.com/community/ideabank">Idea Bank</a></li>
-							<li><a href="http://www.utorrent.com/community/developers">Developers</a></li>
+							<li><a href="/community/ideabank">Idea Bank</a></li>
+							<li><a href="/community/developers">Developers</a></li>
 							<li><a href="http://www.twitter.com/utorrent">Twitter</a></li>
 							<li><a href="http://www.facebook.com/pages/uTorrent/123388254363684">Facebook</a></li>
 						</ul>
 					</li>
-					<li class="section"><a href="http://www.utorrent.com/help" class="sectionheader">Help</a>
+					<li class="section"><a href="/help" class="sectionheader">Help</a>
 						<ul>
-							<li><a href="http://www.utorrent.com/help/faq">FAQ</a></li>
+							<li><a href="/help/faq">FAQ</a></li>
 							<li><a href="http://forum.utorrent.com">Forums</a></li>
-							<li><a href="http://www.utorrent.com/help/guides">Videos &amp; Guides</a></li>
+							<li><a href="/help/guides">Videos &amp; Guides</a></li>
 						</ul>
 					</li>
-					<li class="section last"><a class="footerdownloadlink sectionheader" href="http://www.utorrent.com/downloads/complete/os/win">Products</a>
+					<li class="section last"><a class="footerdownloadlink sectionheader" href="/downloads/complete/os/win">Products</a>
 						<ul>
-							<li><a href="http://www.utorrent.com/downloads">Windows</a></li>
-												<li><a href="http://www.utorrent.com/downloads/mac">Mac</a></li>
-							<li><a href="http://www.utorrent.com/downloads/linux">Linux</a></li>
+							<li><a href="/downloads">Windows</a></li>
+												<li><a href="/downloads/mac">Mac</a></li>
+							<li><a href="/downloads/linux">Linux</a></li>
 							<li><a href="https://remote.utorrent.com/">µTorrent Remote</a></li>
 						</ul>
 					</li>
 				</ul>
 				<div class="footerdownload">
-					<p class="downloadbutton"><a href="http://www.utorrent.com/downloads/complete/os/win" class="hgb hgb1 footerdownloadbutton" id="footerDownloadLink"><span class="hgb hgb2"><span class="hgb hgb3">Get µTorrent<br><span class="version">Version 3.2.1 for Windows</span></span></span></a></p>
-					<p><a href="http://www.utorrent.com/downloads" class="otherlanguages">Other Platforms &amp; Languages</a></p>
+					<p class="downloadbutton"><a href="/downloads/complete/os/win" class="hgb hgb1 footerdownloadbutton" id="footerDownloadLink"><span class="hgb hgb2"><span class="hgb hgb3">Get µTorrent<br><span class="version">Version 3.3 for Windows</span></span></span></a></p>
+					<p><a href="/downloads" class="otherlanguages">Other Platforms &amp; Languages</a></p>
 				</div>
-				<p class="legalinfo"><a href="http://www.bittorrent.com">© 2012 BitTorrent, Inc.</a> µTorrent is a trademark of BitTorrent, Inc.					<a href="http://www.bittorrent.com/company/about">About Us</a>
+				<p class="legalinfo"><a href="http://www.bittorrent.com">© 2013 BitTorrent, Inc.</a> µTorrent is a trademark of BitTorrent, Inc.					<a href="http://www.bittorrent.com/company/about">About Us</a>
 					<a href="http://blog.utorrent.com/">Blog</a>
 					<a href="http://www.bittorrent.com/company/about/press">Press</a>
-					<a href="http://www.utorrent.com/legal/privacy">Privacy Policy</a>
+					<a href="/legal/privacy">Privacy</a>
 					<a href="http://www.bittorrent.com/legal/eula" target="_blank">EULA</a>
-					<a href="http://www.utorrent.com/community/irc">IRC</a>
+					<a href="http://www.utorrent.com/legal/terms-of-use">Terms</a>
+					<a href="/community/irc">IRC</a>
 				</p>
 			</div>
 		</div>
@@ -416,37 +439,21 @@ San Francisco, California 94107</pre>
 //<![CDATA[
 var OS = navigator.platform;
 if (OS.indexOf('Mac') != -1) {
- 	$(".footerdownloadbutton, .footerdownloadlink, .hpdownload, .downloadbutton a").attr("href", 'http://www.utorrent.com/downloads/complete/os/mac');
-	$(".footerdownloadbutton .version, .downloadbutton .version").text("Version 1.6.5 for Mac");
+ 	$(".footerdownloadbutton, .footerdownloadlink, .hpdownload, .downloadbutton a").attr("href", '/downloads/complete/os/osx');
+	$(".footerdownloadbutton .version, .downloadbutton .version").text("Version 1.8.4 for Mac");
+	$(".otherlanguages").attr("href", '/downloads/mac');
+	$(".otherlangtext").attr("href", '/downloads/mac');
 } else if (OS.indexOf('Linux') != -1) {
-	$(".footerdownloadbutton, .footerdownloadlink, .hpdownload, .downloadbutton a").attr("href", 'http://www.utorrent.com/downloads/complete/os/linux');
-	$(".footerdownloadbutton .version, .downloadbutton .version").text("Version 3.0 (27079) for Linux");
+	$(".footerdownloadbutton, .footerdownloadlink, .hpdownload, .downloadbutton a").attr("href", '/downloads/complete/os/linux');
+	$(".footerdownloadbutton .version, .downloadbutton .version").text("Version  () for Linux");
+	$(".otherlanguages").attr("href",'/downloads/linux');
+	$(".otherlangtext").attr("href",'/downloads/linux');
 }
 //]]>
 </script>
 <script type="text/javascript" src="/scripts/app.js"></script>
 <script type="text/javascript" src="/scripts/jquery.colorbox.js"></script>
 
-<script type="text/javascript">
-	//<![CDATA[
-	$(document).ready(function(){
-		var json = [{"text":"You guys are awesome! Thank you! RT <a href=\"http:\/\/www.twitter.com\/utorrent\" target=\"_blank\">@utorrent<\/a>: <a href=\"http:\/\/www.twitter.com\/loseit\" target=\"_blank\">@loseit<\/a> thanks for creating such a great app. We're huge fans!","id":"255803516025720832"},{"text":"Been using your great software for years and it has opened up a whole new world to me that has enriched my cultural life,thanks <a href=\"http:\/\/www.twitter.com\/utorrent\" target=\"_blank\">@utorrent<\/a>","id":"243424575482908672"},{"text":"<a href=\"http:\/\/www.twitter.com\/utorrent\" target=\"_blank\">@utorrent<\/a> <a href=\"http:\/\/www.twitter.com\/slashdot\" target=\"_blank\">@slashdot<\/a> nop, I have a Focus Flash... I hate big I-can't-walk-with-them-in-pocket-without-everybody-noticing-it phones :P","id":"226346782202925057"},{"text":"<a href=\"http:\/\/www.twitter.com\/utorrent\" target=\"_blank\">@utorrent<\/a> Thanks! You may want to post this recommendation over at the forums so the other members will also be aware of the remedy to this","id":"222302038602686464"},{"text":"<a href=\"http:\/\/www.twitter.com\/utorrent\" target=\"_blank\">@utorrent<\/a> Thank you so much for what you guys do.. Amazing work","id":"205708370622152705"},{"text":"<a href=\"http:\/\/www.twitter.com\/countingcrows\" target=\"_blank\">@countingcrows<\/a> you guys rock for sharing, this is the future of music distribution. <a href=\"http:\/\/t.co\/v0Lq4oBj\" target=\"_blank\">http:\/\/t.co\/v0Lq4oBj<\/a> Kudos to the <a href=\"http:\/\/www.twitter.com\/utorrent\" target=\"_blank\">@utorrent<\/a> team","id":"202155670634643456"},{"text":"So awesome to have companies we love inside <a href=\"http:\/\/www.twitter.com\/gklst\" target=\"_blank\">@gklst<\/a>!!! welcome <a href=\"http:\/\/www.twitter.com\/BitTorrent\" target=\"_blank\">@BitTorrent<\/a> and <a href=\"http:\/\/www.twitter.com\/utorrent\" target=\"_blank\">@utorrent<\/a> !!! <a href=\"http:\/\/t.co\/pONwf227\" target=\"_blank\">http:\/\/t.co\/pONwf227<\/a> <a href=\"http:\/\/t.co\/KsBUcWb0\" target=\"_blank\">http:\/\/t.co\/KsBUcWb0<\/a>","id":"197028174243176448"},{"text":"Check out my new Geeklist name! <a href=\"http:\/\/t.co\/Zqo5lT5a.\" target=\"_blank\">http:\/\/t.co\/Zqo5lT5a.<\/a> You should get yours here: <a href=\"http:\/\/t.co\/5rtJzr5D\" target=\"_blank\">http:\/\/t.co\/5rtJzr5D<\/a>","id":"197026121827622912"},{"text":"Testament - yeah! On stage right now at the <a href=\"http:\/\/www.twitter.com\/deanguitars\" target=\"_blank\">@deanguitars<\/a> NAMM Jam - <a href=\"http:\/\/www.twitter.com\/BitTorrent\" target=\"_blank\">@BitTorrent<\/a> is streaming live: <a href=\"http:\/\/t.co\/1jkGvM83\" target=\"_blank\">http:\/\/t.co\/1jkGvM83<\/a> <a href=\"http:\/\/t.co\/DgKoMYPU\" target=\"_blank\">http:\/\/t.co\/DgKoMYPU<\/a>","id":"160634085214130176"},{"text":"RT <a href=\"http:\/\/www.twitter.com\/BitTorrent\" target=\"_blank\">@BitTorrent<\/a> NEWS: We've partnered with <a href=\"http:\/\/www.twitter.com\/thetunnelmovie\" target=\"_blank\">@thetunnelmovie<\/a> to premiere the film to global <a href=\"http:\/\/www.twitter.com\/utorrent\" target=\"_blank\">@utorrent<\/a> users 5\/18! <a href=\"http:\/\/bit.ly\/iwA5xz\" target=\"_blank\">http:\/\/bit.ly\/iwA5xz<\/a>","id":"69242491924250624"},{"text":"Want to send large cellphone videos to your friends? Now drag it into <a href=\"http:\/\/www.twitter.com\/utorrent\" target=\"_blank\">@utorrent<\/a> and send friends a link...http:\/\/bit.ly\/eEiApm","id":"60552272089858048"},{"text":"\u00b5Torrent 3.0 Beta just released! Streaming, ratings and sending...Blog: <a href=\"http:\/\/bit.ly\/eEiApm,\" target=\"_blank\">http:\/\/bit.ly\/eEiApm,<\/a> Download: <a href=\"http:\/\/bit.ly\/bPZECM\" target=\"_blank\">http:\/\/bit.ly\/bPZECM<\/a>","id":"60403115073085440"},{"text":"Video: <a href=\"http:\/\/www.twitter.com\/BitTorrent\" target=\"_blank\">@BitTorrent<\/a>'s <a href=\"http:\/\/www.twitter.com\/bramcohen\" target=\"_blank\">@bramcohen<\/a> interviewed by the iconic  <a href=\"http:\/\/www.twitter.com\/tina_kandelaki\" target=\"_blank\">@tina_kandelaki<\/a> on Russian TV <a href=\"http:\/\/bit.ly\/hL1fom\" target=\"_blank\">http:\/\/bit.ly\/hL1fom<\/a> (English)","id":"55691372996468737"},{"text":"NEW: Captive, a new novel by <a href=\"http:\/\/www.twitter.com\/meganlisajones\" target=\"_blank\">@meganlisajones<\/a>, just released directly to <a href=\"http:\/\/www.twitter.com\/BitTorrent\" target=\"_blank\">@BitTorrent<\/a> + <a href=\"http:\/\/www.twitter.com\/utorrent\" target=\"_blank\">@utorrent<\/a> fans. Download free! <a href=\"http:\/\/bit.ly\/fBaeAq\" target=\"_blank\">http:\/\/bit.ly\/fBaeAq<\/a>","id":"53502532726689792"},{"text":"Pioneer One Episode 3 has been released by <a href=\"http:\/\/www.twitter.com\/pioneeronetv\" target=\"_blank\">@pioneeronetv<\/a>! Download it from the <a href=\"http:\/\/www.twitter.com\/utorrent\" target=\"_blank\">@utorrent<\/a> App Studio or VODO <a href=\"http:\/\/vo.do\/pioneerone\" target=\"_blank\">http:\/\/vo.do\/pioneerone<\/a>","id":"52461193041944576"},{"text":"RT <a href=\"http:\/\/www.twitter.com\/BitTorrent\" target=\"_blank\">@BitTorrent<\/a> NEW: BT spotlights part one of new thriller film Zenith. cc <a href=\"http:\/\/www.twitter.com\/Zenithfilm\" target=\"_blank\">@Zenithfilm<\/a> <a href=\"http:\/\/www.twitter.com\/vodoreleases\" target=\"_blank\">@vodoreleases<\/a>. Download now! <a href=\"http:\/\/bit.ly\/e1Me1Z\" target=\"_blank\">http:\/\/bit.ly\/e1Me1Z<\/a>","id":"48084239442382848"},{"text":"RT <a href=\"http:\/\/www.twitter.com\/BitTorrent\" target=\"_blank\">@BitTorrent<\/a> BitTorrent Mainline and \u00b5Torrent now have a combined 100+ million users (and growing fast!): <a href=\"http:\/\/bit.ly\/hAVrDx\" target=\"_blank\">http:\/\/bit.ly\/hAVrDx<\/a>","id":"23076242970386432"},{"text":"RT <a href=\"http:\/\/www.twitter.com\/NewTeeVee\" target=\"_blank\">@NewTeeVee<\/a> BitTorrent Betting Big On Device Integration, Live Streams <a href=\"http:\/\/dlvr.it\/Cp0fR\" target=\"_blank\">http:\/\/dlvr.it\/Cp0fR<\/a>","id":"23076091904135168"}];
-		if (json) {
-			var content = $('#chat-content p');
-			var i = 1;
-			content.html(json[0]['text']);
-			content.after('<a href="http://twitter.com/#!/utorrent/status/'+json[0]['id']+'"><strong>View Tweet</strong></a>');
-			setInterval(function(){
-				if (i > json.length-1) i=0;
-				content.fadeOut('fast', function(){
-					$(this).html(json[i]['text']).next().remove();
-					$(this).after('<a href="http://twitter.com/#!/utorrent/status/'+json[i++]['id']+'"><strong>View Tweet</strong></a>');
-				}).fadeIn();
-			}, 6000);
-		};
-	});
-	//]]>
-</script>
 
 
  <script type="text/javascript">
@@ -455,25 +462,12 @@ if (OS.indexOf('Mac') != -1) {
 		$(document).ready(function(context) {
 			linkMap = {
 				// Footer / Returning Visitor / Navigation Link
-				'#footerDownloadLink, #headerDownloadLink, #downloadlink' :
-				'http://download.utorrent.com/3.2.1/uTorrent.exe',
-				'#client-stable-0': 'http://download.utorrent.com/3.2.1/uTorrent.exe?tbf=0',
-'#client-stable-1': 'http://download.utorrent.com/3.2.1/uTorrent.exe?tbf=1',
-'#client-stable-3': 'http://download.utorrent.com/3.2.1/uTorrent.exe?tbf=3',
-'#client-stable-5': 'http://download.utorrent.com/3.2.1/uTorrent.exe?tbf=5',
-'#client-stable-7': 'http://download.utorrent.com/3.2.1/uTorrent.exe?tbf=7',
-'#client-stable-8': 'http://download.utorrent.com/3.2.1/uTorrent.exe?tbf=8',
-'#client-stable-9': 'http://download.utorrent.com/3.2.1/uTorrent.exe?tbf=9',
-'#client-stable-11': 'http://download.utorrent.com/3.2.1/uTorrent.exe?tbf=11',
-'#client-stable-13': 'http://download.utorrent.com/3.2.1/uTorrent.exe?tbf=13',
-'#client-stable-15': 'http://download.utorrent.com/3.2.1/uTorrent.exe?tbf=15',
-'#client-stable-windows-ut a.client-download-link': 'http://download.utorrent.com/3.2.1/uTorrent.exe',
-'#client-beta-windows-ut a.client-download-link': 'http://download.utorrent.com/latest/uTorrent-3.2.2.exe',
-'#client-alpha-windows-ut a.client-download-link': 'http://download.utorrent.com/latest/uTorrent-3.3.exe',
-'#client-stable-mac-ut a.client-download-link': 'http://download.utorrent.com/1.6.5/uTorrent.dmg',
-'#client-beta-mac-ut a.client-download-link': 'http://download.utorrent.com/latest/uTorrent-1.7.11.dmg',
-'#client-stable-linux-ut a.client-download-link': 'http://download.utorrent.com/linux/utorrent-server-3.0-ubuntu-10.10-27079.tar.gz',
-'#client-stablex64-linux-ut a.client-download-link': 'http://download.utorrent.com/linux/utorrent-server-3.0-ubuntu-10.10-27079.x64.tar.gz'			}
+				'#footerDownloadLink, #headerDownloadLink, #downloadlink, #downloadlink2' :
+				'http://download-new.utorrent.com/endpoint/utorrent/os/windows/track/stable/',
+				'#client-windows-stable a.client-download-link': 'http://download-new.utorrent.com/endpoint/utorrent/os/windows/track/stable/',
+'#client-windows-rc a.client-download-link': 'http://download-new.utorrent.com/endpoint/utorrent/os/windows/track/rc/',
+'#client-windows-beta a.client-download-link': 'http://download-new.utorrent.com/endpoint/utorrent/os/windows/track/beta/',
+'#client-windows-alpha a.client-download-link': 'http://download-new.utorrent.com/endpoint/utorrent/os/windows/track/alpha/'			}
 
 			// for msie browser, download must be initiated via click to avoid security warning
 			for (key in linkMap) {
@@ -493,11 +487,7 @@ if (OS.indexOf('Mac') != -1) {
 		$(window).load(function(context) {
 			// for msie browser, download must be initiated via click to avoid security warning
 			// for non-msie browsers, automatically download
-			if ( $('a#alternate-client-download-link').length ) {
-				download_link = (Math.random() < 0) ? $('a#alternate-client-download-link') : $('a#auto-client-download-link');
-			} else {
-				download_link = $('a#auto-client-download-link');
-			}
+			download_link = $('a#auto-client-download-link');
 			download_link.each(function(context) {
 				if (this.href != undefined) {
 					window.location = this.href;
@@ -526,5 +516,6 @@ alt="Quantcast"/>
 <!-- End Quantcast tag -->
 <!-- Add This JS -->
 <script type="text/javascript" src="//s7.addthis.com/js/250/addthis_widget.js#username=utorrent" defer="defer"></script>
+
 
 </body></html>
