@@ -1,69 +1,63 @@
-> *The following text is extracted and transformed from the growace.com privacy policy that was archived on 2012-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120503233706id_/http%3A//growace.com/information/info_id-3.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the growace.com privacy policy that was archived on 2013-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130628030918id_/http%3A//growace.com/privacy-policy) for the most accurate reproduction.*
 
-# GrowAce.com
+# Privacy Policy
 
-**What information do we collect?**
+Niche Webstores, Inc. ("Niche Webstores, Inc.") respects your privacy, and we are committed to protecting it. Please read this privacy policy ("Privacy Policy") to learn more about the manner in which we collect and use information that is generated when you visit www.GrowAce.com and its affiliated sites (the "Site").
 
-We collect information from you when you register on the site, place an order, enter a contest or sweepstakes, respond to a survey or communication such as e-mail, or participate in another site feature. When ordering or registering, we may ask you for your name, e-mail address, mailing address, phone number, credit card information or other information. You may, however, visit our site anonymously. We also collect information about gift recipients so that we can fulfill the gift purchase. The information we collect about gift recipients is not used for marketing purposes. Like many websites, we use "cookies" to enhance your experience and gather information about visitors and visits to our websites. Please refer to the "Do we use 'cookies'?" section below for information about cookies and how we use them.  
-**  
-How do we use your information?**
+If you visit the Site and/or choose to create an account and/or place an order with us, we have designed our system to protect your privacy. Our system will be able to ascertain your geographic location from your IP (Internet Protocol) address, but we do not collect e-mail addresses or track the sites that you access while you use our services unless (i) we are required to do so by law; (ii) we have reason to believe that you have violated the terms and conditions of the Niche Webstores, Inc. Terms of Use; (iii) you have caused or attempted to cause harm to us or the other users of our Site; and/or (iv) you voluntarily provide us with personal information (as described below).
 
-We may use the information we collect from you when you register, purchase products, enter a contest or promotion, respond to a survey or marketing communication, surf the website, or use certain other site features in the following ways:
+Two types of information may be collected when you visit our Site:
 
-To personalize your site experience and to allow us to deliver the type of content and product offerings in which you are most interested. 
+**Personal information** (such as name, address, telephone number, e-mail address, password, or credit card information), which is only collected by us if you voluntarily submit it to us. For example, if you voluntarily place an order on the Site, we use the information we collect to confirm and process your order, to keep you updated on the status of your order, and to respond to any questions you may have. If you voluntarily create an account with us on our Site, we will receive the account information you submit so that we may better ensure that you receive streamlined service, special discounts, faster checkout, order history, and other products, information and/or services you requested. Where required, we also share this information with certain intermediaries (such as freight carriers, shipping companies and product manufacturers) to process and ship your order.
 
-To allow us to better service you in responding to your customer service requests. 
+**Aggregate information** (such as log files/information about how many visitors log on to the Site and other non-identifying statistics), which is automatically collected from your use of the Site. Our servers will log IP addresses and collect third-party sites (and information from these sites) from your use of the Site. Niche Webstores, Inc. uses this information to measure the use of our Site, to improve the content of our Site, and to provide our users with the best possible services. Our Site may also use your IP address to help identify you and your shopping cart.
 
-To quickly process your transactions. 
+In sum, you can visit our Site without telling us who you are or revealing personal information about yourself. However, you can, if you choose, participate in additional secured applications. For access to these applications, you are required to create an account with us or provide personal information when placing an order. If you place an order and/or create an account with us, we may also, from time to time, send you information about special offers, new products and services, system changes, and other information we think may be of interest. If for any reason you do not wish to receive this information, you may reply to any of our e-mails and type "unsubscribe" in the subject line or send an e-mail to our customer service e-mail to opt out. You may opt out of receiving future e-mails at any time.
 
-To administer a contest, promotion, survey or other site feature. 
+Niche Webstores, Inc. does not rent, sell, or share personal information about you with other people or non-affiliated companies except to provide services that you have requested, when we have your permission, or under the following circumstances:
 
-If you have opted-in to receive our e-mail newsletter, we may send you periodic e-mails. If you would no longer like to receive promotional e-mail from us, please refer to the "How can you opt-out, remove or modify information you have provided to us?" section below. If you have not opted-in to receive e-mail newsletters, you will not receive these e-mails. Visitors who register or participate in other site features such as marketing programs and 'members-only' content will be given a choice whether they would like to be on our e-mail list and receive e-mail communications from us.  
-**  
-How do we protect visitor information?**
+We respond to subpoenas, court orders, or legal process, or to establish or exercise our legal rights or defend against legal claims.
 
-We implement a variety of security measures to maintain the safety of your personal information. Your personal information is contained behind secured networks and is only accessible by a limited number of persons who have special access rights to such systems, and are required to keep the information confidential. When you place orders or access your personal information, we offer the use of a secure server. All sensitive/credit information you supply is transmitted via Secure Socket Layer (SSL) technology and then encrypted into our databases to be only accessed as stated above.
+We believe it is necessary to share information in order to investigate, prevent, or take action regarding illegal activities, suspected fraud, situations involving potential threats to the physical safety of any person, violations of our Terms of Use, or as otherwise required by law.
 
-**Do we use "cookies"?**
+We may transfer information about you if Niche Webstores, Inc. is acquired by or merged with another organization. In this event, Niche Webstores, Inc. will notify you before information about you is transferred and becomes subject to a different privacy policy.
 
-Yes. Cookies are small files that a site or its service provider transfers to your computer's hard drive through your Web browser (if you allow) that enables the site's or service provider's systems to recognize your browser and capture and remember certain information. For instance, we use cookies to help us remember and process the items in your shopping cart. They are also used to help us understand your preferences based on previous or current site activity, which enables us to provide you with improved services. We also use cookies to help us compile aggregate data about site traffic and site interaction so that we can offer better site experiences and tools in the future.
+We may share information gleaned from your use of the Site or the purchases you make with companies with whom we have marketing or other business relationships.
 
-We may contract with third-party service providers to assist us in better understanding our site visitors. These service providers are not permitted to use the information collected on our behalf except to help us conduct and improve our business.
+We share information with certain intermediaries (such as freight carriers, shipping companies and product manufacturers) where required to process and ship your order.
 
-You can choose to have your computer warn you each time a cookie is being sent, or you can choose to turn off all cookies. You do this through your browser (like Netscape Navigator or Internet Explorer) settings. Each browser is a little different, so look at your browser Help menu to learn the correct way to modify your cookies. If you turn cookies off, you won't have access to many features that make your site experience more efficient and some of our services will not function properly. However, you can still place orders over the telephone by contacting customer service.
+**"E-mail to a Friend" Feature**
 
-**Do we disclose the information we collect to outside parties?**
+There are several "e-mail to a friend" features on our Site that allow you to easily share product or other valuable information with your friends and family. Any e-mail addresses provided to us in the use of these features are used solely for direction of the e-mail communications. These e-mail addresses are not retained in our database, nor are they used for any communication other than the purposes for which they are originally solicited.
 
-We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information unless we provide you with advance notice, except as described below. The term "outside parties" does not include Mini Trade USA. It also does not include website hosting partners and other parties who assist us in operating our website, conducting our business, or servicing you, so long as those parties agree to keep this information confidential. We may also release your information when we believe release is appropriate to comply with the law, enforce our site policies, or protect ours or others' rights, property, or safety.
+**Cookies**
 
-However, non-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses.
+A cookie is a small file containing a string of characters that is sent to your computer when you visit a website. When you visit the website again, the cookie allows that site to recognize your browser. We use cookies to keep track of your shopping cart and ordering history. We work with third-party companies who may place cookies and/or web beacons/pixel tags (collectively "cookies") on your web browser. These cookies collect information that educates us on such things as how you navigate around our site, what products you browse and what products you purchase. This information allows us to better understand how you use our websites and how we can better serve your interests and provide you with better and more personalized product offerings. Generally, the information we collect using cookies does not identify you personally.
 
-**How can you opt-out, remove or modify information you have provided to us?**
+You may set your browser to reject cookies or to alert you when a cookie is placed on your computer. You may also delete cookies as soon as you leave our sites. Although you are not required to accept cookies when you visit our sites, if you set your browser to reject cookies, you will not be able to use all of the features and functionality of this site. If you would like to place an order on our sites but object to or are otherwise unable to use cookies, please feel free to place your order via our toll-free number: 1-888-880-4884.
 
-To modify your e-mail subscriptions, please let us know by modifying your preferences in the "My Account" section. Please note that due to email production schedules you may receive any emails already in production.
+**Links to Other Sites**
 
-To delete all of your online account information from our database, sign into the "My Account" section of our site and remove your shipping addresses, billing addresses & payment information. Please note that we may maintain information about an individual sales transaction in order to service that transaction and for record keeping.
+We provide links to a number of third-party external sites. The inclusion of any link does not imply our endorsement of the external site company, its Website or Websites, or the products or services it promotes or sells. When you leave our Site to visit one of these linked sites, the only information transferred to the third party is the fact that you came from our Site.
 
-**Third party links**
+Niche Webstores, Inc. is not responsible or liable for the independent privacy policies of these third-party Websites. You should consult the privacy policies at these Websites to determine how your information may be used.
 
-In an attempt to provide you with increased value, we may include third party links on our site. These linked sites have separate and independent privacy policies. We therefore have no responsibility or liability for the content and activities of these linked sites. Nonetheless, we seek to protect the integrity of our site and welcome any feedback about these linked sites (including if a specific link does not work).
+**Data Security**
 
-**Changes to our policy**
+Niche Webstores, Inc. is committed to online data security, and for that reason we take steps to make all information received from you online as secure as reasonably possible from unauthorized access and use. We utilize a firewall, and our secure server software uses industry-standard Secure Socket Layer (SSL) encryption technology. SSL encodes your personal information, including credit card number, name, and address, as it travels over the Internet so that all transactions are secure.
 
-If we decide to change our privacy policy, we will post those changes on this page. Policy changes will apply only to information collected after the date of the change. **This policy was last modified on August 6, 2003.**
+Please note that unauthorized access of our Site is prohibited and punishable under the Computer Fraud and Abuse Act of 1986 and the National Information Infrastructure Protection Act.
 
-**Questions and feedback**
+**Children's Privacy**
 
-We welcome your questions, comments, and concerns about privacy. Please send us any and all feedback pertaining to privacy, or any other issue.
+We believe that protecting the privacy of children is especially important, and for that reason it is our intention to never collect or maintain information from children at our Site unless the disclosure of such information is done with verifiable parental or guardian consent.
 
-**Online Policy Only**
+**Your Consent**
 
-This online privacy policy applies only to information collected through our website and not to information collected offline.
+By using our Site, you consent to the collection and use of this information in the manner we describe.
 
-**Terms and Conditions**
+**Modifications**
 
-Please also visit our [Terms and Conditions](http://growace.com/information/info_id-1.html) section establishing the use, disclaimers, and limitations of liability governing the use of our website.
+If we decide to change our Privacy Policy in whole or in part, we will post a notice on our Site. Those changes will go into effect on the date posted in the notice and will apply to all users of our Site.
 
-**Your consent**
-
-By using our site, you consent to our privacy policy. 
+Should you have any questions or concerns about our shipping policy, please [contact us](https://web.archive.org/~bikeberr/contacts).
