@@ -1,21 +1,29 @@
-<!--The following is the downloaded HTML source of the bsaving.com privacy policy that was archived on 2012-12-26.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121226225613id_/http%3A//www.bsaving.com/Privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the bsaving.com privacy policy that was archived on 2013-06-28.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130628113123id_/http%3A//bsaving.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html><head>
     <title>bSaving</title>
     <meta name="google-site-verification" content="E2wWc3xPrX2OK7K7KZ8btUWLXVDFBenDQIroPI5dj5Q">
+    <meta name="wot-verification" content="f9e8e1d1fb6377f810fd">
+    <meta property="fb:admins" content="241424515904951">
+    <meta property="fb:app_id" content="330017720413064">
     
 
 
 <link href="http://fonts.googleapis.com/css?family=Quicksand:400,700" rel="stylesheet" type="text/css">
 <script src="https://secure.quantserve.com/quant.js" async="" type="text/javascript"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script id="twitter-wjs" src="//platform.twitter.com/widgets.js"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script id="facebook-jssdk" src="http://connect.facebook.net/en_US/all.js#xfbml=1&amp;appId=330017720413064"></script>
 <script src="http://code.jquery.com/jquery-latest.js"></script>
+<script src="http://cdn.bsaving.com/bsaving_site/jquery.browser.min.js"></script>
 <script src="http://cdn.bsaving.com/bsaving_site/pop/js/jquery.simplemodal.js"></script>
 <script src="http://cdn.bsaving.com/bsaving_site/pop/js/basic.js"></script>
 <script type="text/javascript" src="http://cdn.bsaving.com/bsaving_site/site_091812.js"></script>
 <script type="text/javascript" src="http://cdn.bsaving.com/bsaving_site/Sha1-min.js"></script>
 <link rel="stylesheet" type="text/css" href="http://cdn.bsaving.com/bsaving_site/style_072612a.css">
 <link rel="icon" type="image/x-icon" href="http://cdn.bsaving.com/bsaving_site/images/favicon.ico">
+<link rel="apple-touch-icon" sizes="57x57" href="http://cdn.bsaving.com/bsaving_site/images/touch-icon-iphone-114.png">
+<link rel="apple-touch-icon" sizes="114x114" href="http://cdn.bsaving.com/bsaving_site/images/touch-icon-iphone-114.png">
+<link rel="apple-touch-icon" sizes="72x72" href="http://cdn.bsaving.com/bsaving_site/images/touch-icon-ipad-144.png">
+<link rel="apple-touch-icon" sizes="144x144" href="http://cdn.bsaving.com/bsaving_site/images/touch-icon-ipad-144.png">
 <script type="text/javascript" src="http://cdn.bsaving.com/bsaving_site/jquery.zclip.min.js"></script>
 
 <script type="text/javascript">
@@ -51,6 +59,16 @@ function recordOutboundLink(link, category, action) {
 <![endif]-->
 </head>
 <body>
+<!-- START: Facebook comments -->
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/all.js#xfbml=1";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+<!-- END: Facebook comment -->
 <div id="login_box">
 	<div id="login_form">
 		<label for="email_login">Email:</label>
@@ -69,9 +87,11 @@ function recordOutboundLink(link, category, action) {
 	<div id="nav">
 		<ul>
 			<li class="first"><a href="/">Home</a></li>
-			<li><a href="/SearchQuery/Online?p=1">Online Coupons</a></li>
-			<li id="printable_link"><a href="/Printable">Printable Grocery Coupons</a></li>
-			<li id="freebies_link"><a href="/samples-coupons-and-deals">Freebies</a></li>
+			<li><a href="/searchquery/online?p=1">Online Coupons</a></li>
+			<li id="printable_link"><a href="/printable">Printable Grocery Coupons</a></li>
+			<li id="freebies_link"><a href="/samples-coupons-and-deals">Recent</a></li>
+      <li id="samples_link"><a href="/BlogPosts/samples-and-freebies">Free Samples</a></li>
+      <li id="deals_link"><a href="/BlogPosts/deals">Deals</a></li>
 			<li class="last" id="rewards_link" style="display:none;"><a href="/rewards">Your Rewards</a></li>
 		</ul>
 		
@@ -115,7 +135,7 @@ $(document).ready(function() {
 	}
 	
 	else {
-		$("#freebies_link").addClass("last");
+		$("#deals_link").addClass("last");
 	}
 	
 	var memberLoginText = $('#member_login').text();
@@ -157,6 +177,51 @@ $(document).ready(function() {
 	font-size: 11px;
 }
 
+#search_box {
+	width:640px;
+	overflow:hidden;
+	margin:0 auto;
+	padding-left:60px;
+	margin-top:56px;
+}
+
+#search_bar_bg {
+	width:511px;
+	height:44px;
+	background-image:url('http://cdn.acquinity.com/bsaving_site/images/search_bg.gif');
+	background-repeat:no-repeat;
+	float:left;
+	line-height:40px;
+}
+
+#search_textbar {
+	width:480px;
+	font-size:15px;
+	margin-left:11px;
+	padding:0px;
+	border:0px;
+	background:none;
+	height:40px;
+	color:#919597;
+}
+
+#search_submit {
+	display:block;
+	float:left;
+	width:116px;
+	margin-left:8px;
+}
+
+
+#search_arrow_home {
+    height: 44px;
+    left: 134px;
+    position: absolute;
+    top: 130px;
+    width: 48px;
+}
+
+
 </style>
 <script type="text/javascript">
 
@@ -193,6 +258,78 @@ $(document).ready(function() {
 		openWindowWithHelper($(this));
 		return false;
 	});
+	
+	
+	$('#search_textbar').on('keyup', function(e) {
+	//alert(e.keyCode);
+	if(e.keyCode == 13) {
+		var regex = new RegExp(' ', 'g');
+		var searchvalue=$(this).val();
+		searchvalue= searchvalue.replace(regex, '-').toLowerCase();
+		//searchvalue= searchvalue.replace('&', 'and');
+		//searchvalue= searchvalue.replace('+', 'plus');
+		//searchvalue= searchvalue.replace('%', 'percent');
+		
+		searchvalue= searchvalue.replace('<', '[lt]');
+		searchvalue=encodeURIComponent(searchvalue);
+		
+		if(searchvalue.trim()== "search-for-savings..." || searchvalue.trim() == "")
+		{
+			window.location="http://www.bsaving.com";
+		}
+		else
+		{
+			//window.location="/couponsearch/" + searchvalue.toLowerCase();
+			
+			window.location="/couponsearch?q=" + searchvalue.toLowerCase();
+		}
+	}
+	});
+	
+	// default search box value
+	$('#search_textbar').each(function() {
+    	var default_value = this.value;
+    	$(this).css('color', '#919597');
+    	$(this).focus(function() {
+        	if(this.value == default_value) {
+            	this.value = '';
+            	$(this).css('color', '#000000');
+        	}
+    	});
+    	$(this).blur(function() {
+        	if(this.value == '') {
+            	$(this).css('color', '#919597');
+            	this.value = default_value;
+        	}
+    	});
+	});
+	
+	$('a:contains("Search")').click(function () {
+		var regex = new RegExp(' ', 'g');
+		var searchvalue=$("#search_textbar").val();
+		searchvalue= searchvalue.replace(regex, '-').toLowerCase();
+		//searchvalue= searchvalue.replace('&', 'and');
+		//searchvalue= searchvalue.replace('+', 'plus');
+		//searchvalue= searchvalue.replace('%', 'percent');
+		
+		searchvalue= searchvalue.replace('<', '[lt]');
+		searchvalue=encodeURIComponent(searchvalue);
+		
+		
+		if(searchvalue.trim()== "search-for-savings..." || searchvalue.trim() == "")
+		{
+			window.location="http://www.bsaving.com";
+		}
+		else
+		{
+			//window.location="/couponsearch/" + searchvalue.toLowerCase();
+			window.location="/couponsearch?q=" + searchvalue.toLowerCase();
+		}
+	});
+	
+	
+	
+		
 });
 </script>
 <div class="search_wrap">
@@ -201,17 +338,16 @@ $(document).ready(function() {
 		<img src="http://cdn.bsaving.com/bsaving_site/images/logo.png" id="logo">
 		
 		<div id="search_box">
-			<img src="http://cdn.bsaving.com/bsaving_site/images/arrow.png" id="search_arrow">
-			<div id="search_bar_bg" style="display:none;">
-				<input type="text" name="search" id="search_bar" value="Search for savings...">
+			<img id="search_arrow_home" src="http://cdn.bsaving.com/bsaving_site/images/arrow.png">
+			
+			<div id="search_bar_bg">
+				<input id="search_textbar" type="text" style="color: rgb(145, 149, 151);" value="Search for savings..." name="search">
 			</div>
-			<div class="blue_button" id="search_submit" style="display:none;">
-				<a href="/signup">Search</a>
+			
+			<div id="search_submit" class="blue_button">
+				<a href="#">Search</a>
 			</div>
-			<select name="search" id="dropdown_bar">
-				<option value="/">Choose a category to start saving...</option>
-				<option value="/Category/Accessories">Accessories</option><option value="/Category/Automotive">Automotive</option><option value="/Category/Baby">Baby</option><option value="/Category/Beauty">Beauty</option><option value="/Category/Books">Books</option><option value="/Category/Business-Career">Business &amp; Career</option><option value="/Category/Children">Children</option><option value="/Category/Clothing">Clothing</option><option value="/Category/Clothing-Shoes">Clothing &amp; Shoes</option><option value="/Category/Computers">Computers</option><option value="/Category/Department Stores">Department Stores</option><option value="/Category/Education">Education</option><option value="/Category/Electronics">Electronics</option><option value="/Category/Entertainment">Entertainment</option><option value="/Category/Family">Family</option><option value="/Category/Financial">Financial</option><option value="/Category/Flowers">Flowers</option><option value="/Category/Food">Food</option><option value="/Category/Free Shipping">Free Shipping</option><option value="/Category/Furniture">Furniture</option><option value="/Category/Games-Toys">Games &amp; Toys</option><option value="/Category/Gifts">Gifts</option><option value="/Category/Health-Beauty">Health &amp; Beauty</option><option value="/Category/Hobbies-Collectibles">Hobbies &amp; Collectibles</option><option value="/Category/Home-Garden">Home &amp; Garden</option><option value="/Category/Kids">Kids</option><option value="/Category/Miscellaneous">Miscellaneous</option><option value="/Category/Office Supplies">Office Supplies</option><option value="/Category/Party Supplies">Party Supplies</option><option value="/Category/Personal Services">Personal Services</option><option value="/Category/Pet">Pet</option><option value="/Category/Photography">Photography</option><option value="/Category/Services">Services</option><option value="/Category/Shoes">Shoes</option><option value="/Category/Sporting Goods">Sporting Goods</option><option value="/Category/Supplies">Supplies</option><option value="/Category/Toys-Kids">Toys &amp; Kids</option><option value="/Category/Travel">Travel</option>
-			</select>
+			
 		</div>
 	</div>
 </div>
@@ -359,7 +495,7 @@ function submitIfValidPassword(f) {
     	$("#change-password-loading").css("display","block");
     	$.ajax({
 			type: 'POST',
-			url: '/ResetPasswordComplete',
+			url: '/ResetPwdComplete',
 			data: {
 				email: poster.elements["email"].value,
 				token: poster.elements["token"].value,
@@ -368,7 +504,7 @@ function submitIfValidPassword(f) {
 			success: function (response) {
 				$("#resetpass-form").css("display","none");
 
-				if ((response.indexOf('Password Changed!') != -1)) {
+				if (response == "Success"){
 					$("#resetpass-success-form").css("display","block");
 					setTimeout(function(){ closeSuccessForm(); }, 4000);
 				}
@@ -484,6 +620,11 @@ function submitLogin(f) {
 	</form>
   </div>
 </div>
+<style type="text/css">
+	#fb_box {
+	display: none;
+}
+</style>
 	<div class="page">
 		<div id="content">
 			<div class="left_column">										
@@ -556,11 +697,30 @@ In order to do the foregoing, bSaving may provide your Information to third part
 
 <b><u>Your California Privacy Rights</u></b>. Beginning on January 1, 2005, California Civil Code Section 1798.83 permits customers of bSaving who are California residents to request certain information regarding bSaving's disclosure of personal information for their direct marketing purposes. To make such a request, please write to: 2200 SW 10th Street, Deerfield Beach, FL 33442. Within thirty days of receiving such a request, bSaving will provide a list of the categories of personal information disclosed to third parties for third-party direct marketing purposes during the immediately preceding calendar year, along with the names and addresses of these third parties. This request may be made no more than once per calendar year.  bSaving reserves its right not to respond to requests submitted other than to the address specified in this paragraph.<br><br>
 
+
+2200 SW 10th St <br>
+Deerfield Beach, FL 33442 <br>
+954.312.4700<br>
+<a href="mailto:sitehelp@bsaving.com">sitehelp@bsaving.com</a>
+<br><br>
+
 Policy Last Revised: November 23, 2011
 </div>
 				
+<div style="padding-top:20px;"><script type="text/javascript"><!--
+google_ad_client = "ca-pub-9108147844898389";
+/* bSaving - Non-Homepage Footer 468x60 */
+google_ad_slot = "1720218904";
+google_ad_width = 468;
+google_ad_height = 60;
+//-->
+</script>
+<script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script></div>
+				
 			</div>
 			<div class="right_column">
+				
 				<div id="social">
 	<!--
 	<span>Share:</span>
@@ -568,63 +728,31 @@ Policy Last Revised: November 23, 2011
 	<div id="big_share_buttons" style="text-align: center; font-size: 10px; font-weight: bold; line-height: 14px;">
           FOLLOW US	
 		<br>
-		<div class="fb-like" data-href="https://www.facebook.com/AlwaysBSaving" data-send="false" data-layout="button_count" data-width="90" data-show-faces="false" id="big_fb_share"></div>&nbsp;&nbsp;&nbsp;
-		<a href="https://twitter.com/bsaving" class="twitter-follow-button" data-show-count="false">Follow @bsaving</a>
+		<div style="float:left;" class="fb-like" data-href="https://www.facebook.com/AlwaysBSaving" data-send="false" data-layout="button_count" data-width="90" data-show-faces="false" id="big_fb_share"></div>
+		<div style="width:115px; float:left; margin-left:10px;"><a href="https://twitter.com/bsaving" class="twitter-follow-button" data-show-count="false">Follow @bsaving</a></div>
 <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="//platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
-&nbsp;&nbsp;&nbsp;
-<a href="http://pinterest.com/bsaving/" target="_blank"><img src="http://cdn.bsaving.com/bsaving_site/images/pinterest-follow-button.png" width="51" height="18" alt="Follow Me on Pinterest"></a>
+
+<div style="width:51px; float:left; margin-left:10px;"><a href="http://pinterest.com/bsaving/" target="_blank"><img src="http://cdn.bsaving.com/bsaving_site/images/pinterest-follow-button.png" width="51" height="18" alt="Follow Me on Pinterest"></a></div>
 	</div>
 </div>
 
-<style type="text/css">
-.cybermonday {
-	width:260px;
-	margin-top: 15px; 
-	border:1px solid #d3d4d7; 
-	padding: 20px;
-	font-size: 12px;
-	line-height: 17px;
-}
 
-.cybermonday strong {
-	font-weight: bold;
-}
-
-.cybermonday a {
-	color: #3c4b77;
-	text-decoration: none;
-}
-
-.cybermonday a:hover {
-	text-decoration: underline;
-}
-
-.cybercode {
-	color: #3251af;
-	font-weight: bold;
-}
-</style>
-
-<div class="cybermonday" style="display:none;">
-	<img src="http://cdn.bsaving.com/bsaving_site/images/sony.gif"><br>
-	<b style="font-size:20px; font-weight:bold; color: #f25000; line-height: 26px;">bSaving Black Friday &amp; Cyber Monday Deals</b><br><br>
-	
-	<a href="http://www.tkqlhce.com/click-PID-11220304">Save $150 on the <strong>Sony VAIO 15.5" S Series Custom Laptop</strong> (SVS151190X Standard) now only $699.99. Plus get Free Shipping (11/22-11/25).</a><br>
-Code: <b class="cybercode">BLCKFRDAY150</b><br><br>
-
-	<a href="http://www.tkqlhce.com/click-PID-11220309">Save an extra $20 on the <strong>Sony VAIO E Series 15 Custom Laptop</strong> (SVE151290X standard) now starting at $479.99. Plus get Free Shipping (11/26-11/26).</a><br>
-Code: <b class="cybercode">CYBRMNDYV20E15</b><br><br>
-
-	<a href="http://www.tkqlhce.com/click-PID-11220300">Save an extra $10 on the <strong>Sony Cyber-shot Digital Camera W620</strong> (DSCW620/R). Plus get Free Shipping (11/26-11/26).</a><br>
-Code: <b class="cybercode">CYBRMNDY10</b>
-
-</div>
 
 <div id="fb_box" class="fb-like-box" data-href="https://www.facebook.com/AlwaysBSaving" data-width="300" data-show-faces="true" data-stream="false" data-header="true"></div>
+				<div style="margin-top:10px;"><script type="text/javascript"><!--
+google_ad_client = "ca-pub-9108147844898389";
+/* bSaving - Upper Box */
+google_ad_slot = "6047843708";
+google_ad_width = 300;
+google_ad_height = 250;
+//-->
+</script>
+<script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script></div>
 				
 				<div id="categories">
 					<span class="sidebar_header"><b>Hot</b> Categories</span>
-					<ul class="category_left"><li><a href="/Category/Accessories">Accessories</a></li><li><a href="/Category/Automotive">Automotive</a></li><li><a href="/Category/Baby">Baby</a></li><li><a href="/Category/Beauty">Beauty</a></li><li><a href="/Category/Books">Books</a></li><li><a href="/Category/Business-Career">Business &amp; Career</a></li><li><a href="/Category/Children">Children</a></li><li><a href="/Category/Clothing">Clothing</a></li><li><a href="/Category/Clothing-Shoes">Clothing &amp; Shoes</a></li><li><a href="/Category/Computers">Computers</a></li><li><a href="/Category/Department Stores">Department Stores</a></li><li><a href="/Category/Education">Education</a></li><li><a href="/Category/Electronics">Electronics</a></li><li><a href="/Category/Entertainment">Entertainment</a></li><li><a href="/Category/Family">Family</a></li><li><a href="/Category/Financial">Financial</a></li><li><a href="/Category/Flowers">Flowers</a></li><li><a href="/Category/Food">Food</a></li><li><a href="/Category/Free Shipping">Free Shipping</a></li></ul><ul class="category_right"><li><a href="/Category/Furniture">Furniture</a></li><li><a href="/Category/Games-Toys">Games &amp; Toys</a></li><li><a href="/Category/Gifts">Gifts</a></li><li><a href="/Category/Health-Beauty">Health &amp; Beauty</a></li><li><a href="/Category/Hobbies-Collectibles">Hobbies &amp; Collectibles</a></li><li><a href="/Category/Home-Garden">Home &amp; Garden</a></li><li><a href="/Category/Kids">Kids</a></li><li><a href="/Category/Miscellaneous">Miscellaneous</a></li><li><a href="/Category/Office Supplies">Office Supplies</a></li><li><a href="/Category/Party Supplies">Party Supplies</a></li><li><a href="/Category/Personal Services">Personal Services</a></li><li><a href="/Category/Pet">Pet</a></li><li><a href="/Category/Photography">Photography</a></li><li><a href="/Category/Services">Services</a></li><li><a href="/Category/Shoes">Shoes</a></li><li><a href="/Category/Sporting Goods">Sporting Goods</a></li><li><a href="/Category/Supplies">Supplies</a></li><li><a href="/Category/Toys-Kids">Toys &amp; Kids</a></li><li><a href="/Category/Travel">Travel</a></li></ul>
+					<ul class="category_left"><li><a href="/category/accessories">Accessories</a></li><li><a href="/category/automotive">Automotive</a></li><li><a href="/category/baby">Baby</a></li><li><a href="/category/beauty">Beauty</a></li><li><a href="/category/books">Books</a></li><li><a href="/category/business-career">Business &amp; Career</a></li><li><a href="/category/children">Children</a></li><li><a href="/category/clothing">Clothing</a></li><li><a href="/category/clothing-shoes">Clothing &amp; Shoes</a></li><li><a href="/category/computers">Computers</a></li><li><a href="/category/department stores">Department Stores</a></li><li><a href="/category/education">Education</a></li><li><a href="/category/electronics">Electronics</a></li><li><a href="/category/entertainment">Entertainment</a></li><li><a href="/category/family">Family</a></li><li><a href="/category/financial">Financial</a></li><li><a href="/category/flowers">Flowers</a></li><li><a href="/category/food">Food</a></li><li><a href="/category/free shipping">Free Shipping</a></li></ul><ul class="category_right"><li><a href="/category/furniture">Furniture</a></li><li><a href="/category/games-toys">Games &amp; Toys</a></li><li><a href="/category/gifts">Gifts</a></li><li><a href="/category/health-beauty">Health &amp; Beauty</a></li><li><a href="/category/hobbies-collectibles">Hobbies &amp; Collectibles</a></li><li><a href="/category/home-garden">Home &amp; Garden</a></li><li><a href="/category/kids">Kids</a></li><li><a href="/category/miscellaneous">Miscellaneous</a></li><li><a href="/category/office supplies">Office Supplies</a></li><li><a href="/category/party supplies">Party Supplies</a></li><li><a href="/category/personal services">Personal Services</a></li><li><a href="/category/pet">Pet</a></li><li><a href="/category/photography">Photography</a></li><li><a href="/category/services">Services</a></li><li><a href="/category/shoes">Shoes</a></li><li><a href="/category/sporting goods">Sporting Goods</a></li><li><a href="/category/supplies">Supplies</a></li><li><a href="/category/toys-kids">Toys &amp; Kids</a></li><li><a href="/category/travel">Travel</a></li></ul>
 				</div> 
 				<div id="sidebar_banner">
 					<script type="text/javascript"><!--
@@ -642,15 +770,15 @@ Code: <b class="cybercode">CYBRMNDY10</b>
 		</div>
 	<div id="footer">
 		<span class="left_footer">
-			Copyright © 2012 bSaving.com
+			Copyright © 2013 bSaving.com
 		</span>
 		<span class="right_footer">
 			<ul>
-				<li><a href="/Search/_?p=0&amp;ps=0">Coupons</a></li>
-				<li><a href="/Printable">Grocery Coupons</a></li>
-				<li><a href="/Privacy">Privacy Policy</a></li>
-				<li><a href="/Terms">Terms &amp; Conditions</a></li>
-				<li><a href="/contact">Contact</a></li>
+				<li><a href="/search/_?p=0&amp;ps=0">Coupons</a></li>
+				<li><a href="/printable">Grocery Coupons</a></li>
+				<li><a href="/privacy">Privacy Policy</a></li>
+				<li><a href="/terms">Terms &amp; Conditions</a></li>
+				<li><a href="http://bsaving.desk.com">Contact/Help</a></li>
 			</ul>
 		</span>
 	</div>
@@ -698,6 +826,7 @@ Code: <b class="cybercode">CYBRMNDY10</b>
 <div style="display:none;">
 	<img src="http://cdn.bsaving.com/bsaving_site/pop/img/basic/close.png" alt="">
 </div>
+
 <script type="text/javascript">
 
   var _gaq = _gaq || [];
@@ -737,10 +866,11 @@ qacct:"p-f4MnwrBT16OzA"
 </noscript>
 <!-- End Quantcast tag -->
 
-<div id="getsat-widget-1915"></div>
+<!-- Get Satisfaction widget -->
+<!--<div id="getsat-widget-1915"></div>
 <script type="text/javascript" src="https://loader.engage.gsfn.us/loader.js"></script>
 <script type="text/javascript">
 if (typeof GSFN !== "undefined") { GSFN.loadWidget(1915,{"containerId":"getsat-widget-1915"}); }
-</script>
+</script>-->
 
 </body></html>
