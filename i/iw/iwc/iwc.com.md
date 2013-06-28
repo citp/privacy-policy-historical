@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the iwc.com privacy policy that was archived on 2012-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121128172740id_/http%3A//www.iwc.com/en/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the iwc.com privacy policy that was archived on 2013-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130629005714id_/http%3A//www.iwc.com/en/privacy) for the most accurate reproduction.*
 
 # IWC Schaffhausen | Fine Timepieces From Switzerland | Privacy Policy
 
@@ -10,7 +10,7 @@ Requests for information made by telephone may be recorded for quality control a
 
 Personal Information provided to IWC by you will be made available for joint use by duly authorised IWC personnel in Switzerland, its subsidiaries and affiliated companies worldwide, its Customer Relations management agencies and occasionally to other persons or companies who carry out operations in relation to our business, joint marketing operations and data cleansing. Our subsidiaries and some of our business partners are located outside Switzerland and consequently you accept and consent that your Personal Information may be either imported to Switzerland and/or transferred abroad for the purposes set out herein. All such persons and companies are subject to confidentiality agreements, and protection of your Personal Information shall be ensured at all times in accordance with applicable data protection and privacy laws.
 
-The Personal Information made available by you will be used exclusively to provide the requested services and may be used both for marketing research purposes relating to IWC’s business and to provide you with information on IWC’s products, services and events. Personal Information will be stored by IWC for a maximum time of seven years. If you have registered for an e-mail service you no longer wish to receive, you can opt-out through an automated service by following the instructions at the end of the e-mail
+The Personal Information made available by you will be used exclusively to provide the requested services and may be used both for marketing research purposes relating to IWC’s business and to provide you with information on IWC’s products, services and events. If you have registered for an e-mail service you no longer wish to receive, you can opt-out through an automated service by following the instructions at the end of the e-mail
 
 ### NOTE TO CHILDREN
 
