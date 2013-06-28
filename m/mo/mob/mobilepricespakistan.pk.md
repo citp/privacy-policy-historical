@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mobilepricespakistan.pk privacy policy that was archived on 2012-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121225064406id_/http%3A//mobilepricespakistan.pk/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mobilepricespakistan.pk privacy policy that was archived on 2013-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130628222217id_/http%3A//mobilepricespakistan.pk/privacy.php) for the most accurate reproduction.*
 
 # http://mobilepricespakistan.pk : Privacy Notice
 
@@ -39,7 +39,7 @@ Any of the information we collect from you may be used in one of the following w
 
 **Do we use cookies?**
 
-Yes (Cookies are small files that a site or its service provider transfers to your computers hard drive through your Web browser (if you allow) that enables the sites or service providers systems to recognize your browser and capture and remember certain information
+Yes(Cookies are small files that a site or its service provider transfers to your computers hard drive through your Web browser (if you allow) that enables the sites or service providers systems to recognize your browser and capture and remember certain information
 
 We use cookies to understand and save your preferences for future visits, keep track of advertisements and compile aggregate data about site traffic and site interaction so that we can offer better site experiences and tools in the future. We may contract with third-party service providers to assist us in better understanding our site visitors. These service providers are not permitted to use the information collected on our behalf except to help us conduct and improve our business.
 
