@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the koovs.com privacy policy that was archived on 2012-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121222191503id_/http%3A//www.koovs.com/info/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the koovs.com privacy policy that was archived on 2013-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130628134416id_/http%3A//www.koovs.com/info/privacy) for the most accurate reproduction.*
 
 # Koovs.com - Online Fashion Store for Women
 
