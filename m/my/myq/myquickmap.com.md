@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the myquickmap.com privacy policy that was archived on 2012-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121223083350id_/http%3A//www.crawler.com/privacy_policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myquickmap.com privacy policy that was archived on 2013-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130628074235id_/http%3A//www.crawler.com/privacy_policy.aspx) for the most accurate reproduction.*
 
 # Crawler.com - Privacy Policy
 
