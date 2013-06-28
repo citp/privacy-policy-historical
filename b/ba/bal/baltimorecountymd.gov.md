@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the baltimorecountymd.gov privacy policy that was archived on 2012-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121226064513id_/http%3A//www.baltimorecountymd.gov/UserGuide/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the baltimorecountymd.gov privacy policy that was archived on 2013-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130628032900id_/http%3A//www.baltimorecountymd.gov/UserGuide/privacy.html) for the most accurate reproduction.*
 
 # Baltimore County Md. User Guide - Privacy and Security Notice
 
@@ -32,6 +32,6 @@ We are committed to using any information you provide to us in a responsible man
 
 Baltimore County welcomes your comments or questions regarding this policy. You may contact us at [webmaster@baltimorecountymd.gov](http://www.baltimorecountymd.gov/Contact/webmaster "Contact Baltimore County via e-mail, webmaster@baltimorecountymd.gov.")
 
- _Revised January 10, 2012_
+ _Revised March 13, 2013_
 
  
