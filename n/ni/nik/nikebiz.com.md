@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nikebiz.com privacy policy that was archived on 2012-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121225111515id_/http%3A//help-us.nikeinc.com/app/answers/detail/article/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nikebiz.com privacy policy that was archived on 2013-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130628115625id_/http%3A//help-us.nikeinc.com/app/answers/detail/article/privacy-policy) for the most accurate reproduction.*
 
 # NIKE, Inc. - NIKE Digital Privacy Policy
 
@@ -79,7 +79,7 @@ Sharing Information
 NIKE Family
 
   
-We may provide your information to NIKE, Inc. companies and affiliates, including Converse, Hurley and Cole Haan ("NIKE Family"), some of which may be outside the U.S.  
+We may provide your information to NIKE, Inc. companies and affiliates, including Converse and Hurley ("NIKE Family"), some of which may be outside the U.S.  
 
   
 Service Providers  
