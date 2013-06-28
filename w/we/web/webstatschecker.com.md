@@ -1,11 +1,6 @@
-> *The following text is extracted and transformed from the webstatschecker.com privacy policy that was archived on 2012-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121203214101id_/http%3A//www.webstatschecker.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the webstatschecker.com privacy policy that was archived on 2013-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130628233136id_/http%3A//webstatschecker.com/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy
-
-  
-
-
-* * *
 
 ## Your Privacy
 
