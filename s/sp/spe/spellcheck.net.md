@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the spellcheck.net privacy policy that was archived on 2012-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121011012506id_/http%3A//www.spellcheck.net/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the spellcheck.net privacy policy that was archived on 2013-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130628064134id_/http%3A//www.spellcheck.net/privacy-policy.html) for the most accurate reproduction.*
 
 # SpellCheck.net - Free Online Spell Checker
-
-Add Spell Checking to virtually any text box on your web site. Visit [www.spellchecker.net](http://www.spellchecker.net/) for details.
 
 ## Privacy Policy for [www.spellcheck.net](https://web.archive.org/)
 
