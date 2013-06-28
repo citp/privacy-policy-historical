@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the statigr.am privacy policy that was archived on 2012-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121123090527id_/http%3A//statigr.am/statigram_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the statigr.am privacy policy that was archived on 2013-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130628085601id_/http%3A//statigr.am/statigram_policy.php) for the most accurate reproduction.*
 
 # Statigram | Privacy Policy
 
