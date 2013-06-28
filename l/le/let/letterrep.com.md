@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the letterrep.com privacy policy that was archived on 2012-10-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121026120831id_/http%3A//www.letterrep.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the letterrep.com privacy policy that was archived on 2013-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130628061041id_/http%3A//www.letterrep.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy Page - We care about your privacy.
 
-**_Revised January 2011  
+**_Revised January 201 3  
 _**Depending on what you do when you visit any web site, you are providing information about your visit to the site's owners. This includes LetterRep.com. We value privacy and think you do too, so we want you to have the information you need to make your own decisions about your personal privacy. When you visit or supply information to any web site, we think it's a good idea for you to first understand what that site's privacy policies are. If the site doesn't tell you, don't hesitate to ask. At www.LetterRep.com and its related sites (collectively "LetterRep.com"), we use the information that we get from your visit for internal tracking purposes, to make LetterRep.com as useful and interesting to you as we can, and to respond to your requests for information or other services.  _**LetterRep.com will never sell your private information to any third party.   LetterRep.com will, however, comply with all requests for information from law enforcement agencies, subpoenas, court orders, or similar requests or orders. **_
 
 **_Browsing:_**  
@@ -31,4 +31,4 @@ Please remember that when you use a link to go from LetterRep.com to another web
 This Privacy Policy was updated in January 2011. LetterRep.com reserves the right to change, modify or amend this policy at any time. LetterRep.com takes privacy matters very seriously, and intends to stay at the forefront of privacy policy and protection matters. LetterRep.com will occasionally update our privacy policy and we will post those updates on this page. _You are responsible for revisiting this page to review our privacy policy updates_. 
 
 **_How to contact LetterRep.com:_**  
-Please note that whenever you submit any information to us in connection with any LetterRep.com related services, you consent to LetterRep's processing of this information in the United States as necessary to provide the services in which you are participating. If you have any questions, comments, criticisms, or complaints about LetterRep.com's privacy policy and/or the way it affects you, please feel free to [_e-mail us_](https://web.archive.org/web/20121026120831id_/http%3A/contact_us.php).
+Please note that whenever you submit any information to us in connection with any LetterRep.com related services, you consent to LetterRep's processing of this information in the United States as necessary to provide the services in which you are participating. If you have any questions, comments, criticisms, or complaints about LetterRep.com's privacy policy and/or the way it affects you, please feel free to [_e-mail us_](https://web.archive.org/web/20130628061041id_/http%3A/contact_us.php).
