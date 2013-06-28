@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the calgaryherald.com privacy policy that was archived on 2011-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110629104937id_/http%3A//www.canada.com/aboutus/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the calgaryherald.com privacy policy that was archived on 2013-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130628163001id_/http%3A//www.canada.com/aboutus/privacy.html) for the most accurate reproduction.*
 
 # canada.com - Customer Privacy Statement
 
-[Version français](https://web.archive.org/web/20110629104937id_/http%3A//www.canada.com/aboutus/privacy_fr.html)
+[Version français](https://web.archive.org/web/20130628163001id_/http%3A//www.canada.com/aboutus/privacy_fr.html)
 
 Postmedia Network Canada Corp. and its affiliated and subsidiary entities, including Postmedia Network Inc. ("Postmedia Network", "we" or "us") is committed to protecting your privacy and safeguarding your personal information. This Privacy Statement describes how we may collect, use and disclose personal information. This Privacy Statement applies to any personal information we collect or receive about you, from any source. However, it does not apply to personal information that we collect, use or disclose for journalistic purposes. 
 
@@ -42,13 +42,11 @@ Our Privacy Officers are accountable for our compliance with this Privacy Statem
 
 ### By Email:
 
-Western Canada (Times Colonist, The Vancouver Sun, The Province, Calgary Herald, Edmonton Journal): [WesternPrivacyOfficer@postmedia.com](mailto:WesternPrivacyOfficer@postmedia.com)
+Western Canada (The Vancouver Sun, The Province, Calgary Herald, Edmonton Journal): [WesternPrivacyOfficer@postmedia.com](mailto:WesternPrivacyOfficer@postmedia.com)
 
 Eastern Canada (Leader-Post, StarPhoenix, National Post, Ottawa Citizen, The Windsor Star, The Gazette): [EasternPrivacyOfficer@postmedia.com](mailto:EasternPrivacyOfficer@postmedia.com)
 
-Community Newspapers: [CommunityPrivacyOfficer@postmedia.com](mailto:CommunityPrivacyOfficer@postmedia.com)
-
-Digital Media (canada.com, dose.ca, FPinfomart.ca): [PDPrivacyOfficer@postmedia.com](mailto:PDPrivacyOfficer@postmedia.com)
+Digital Media (canada.com, FPinfomart.ca): [PDPrivacyOfficer@postmedia.com](mailto:PDPrivacyOfficer@postmedia.com)
 
 Corporate: [CorporatePrivacyOfficer@postmedia.com](mailto:CorporatePrivacyOfficer@postmedia.com)
 
@@ -58,4 +56,4 @@ Chief Privacy Officer
 1450 Don Mills Road  
 Toronto, Ontario M3B 2X7
 
-Updated: December 1, 2010 
+Updated: April 30, 2013 
