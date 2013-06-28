@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ipo.gov.uk privacy policy that was archived on 2012-10-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121030090854id_/http%3A//www.ipo.gov.uk/cookies.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ipo.gov.uk privacy policy that was archived on 2013-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130628025230id_/http%3A//www.ipo.gov.uk/cookies.htm) for the most accurate reproduction.*
 
 # Intellectual Property Office - Cookies and Privacy
 
@@ -12,7 +12,7 @@ These pieces of information are used to improve services for you through, for ex
 
 
 
-You can manage these small files and learn more about them from [Directgov: Internet browser cookies - what they are and how to manage them ](http://www.direct.gov.uk/en/SiteInformation/DG_197506?CID=Central&PLA=url_mon&CRE=managing_cookies "Internet browser cookies - what they are and how to manage them").
+You can manage these small files and learn more about them from [Directgov: Internet browser cookies - what they are and how to manage them ](http://www.gov.uk/support/cookies "Internet browser cookies - what they are and how to manage them").
 
 For further information on how to control and delete cookies, [visit About Cookies ](http://www.aboutcookies.org/Default.aspx?page=1 "Visit AboutCookies.org").
 
@@ -118,6 +118,15 @@ These cookies are set by our website and are also referred to as 'first-party' c
   *  **Purpose** : Used by some of our web applications to identify if you have come to us via the businesslink website.
   *  **Benefit** : To remember the selections or preferences you’ve already made when looking at information or using a service.
   *  **Data stored by cookie** : Information about the session; the cookie itself contains no personal information.
+  *  **Duration of cookie** : Expires when you close your browser.
+
+
+
+### ANONID & DUG
+
+  *  **Purpose** : A 'session identifier'; To manage automated traffic visiting our website.
+  *  **Benefit** : To enable genuine users of our site to have the most fluid experience while automated systems are prevented from saturating our computing resources with requests.
+  *  **Data stored by cookie** : Information about the state of a security check; the cookie itself contains no personal information.
   *  **Duration of cookie** : Expires when you close your browser.
 
 
