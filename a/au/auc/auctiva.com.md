@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the auctiva.com privacy policy that was archived on 2010-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100525225132id_/http%3A//www.auctiva.com/about/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the auctiva.com privacy policy that was archived on 2013-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130628085744id_/http%3A//www.auctiva.com/about/privacy.aspx) for the most accurate reproduction.*
 
 # Auctiva Privacy
 
@@ -8,7 +8,7 @@ This privacy statement discloses the types of information we gather, how we use 
 
 ### What personal information we collect
 
-Auctiva collects personally identifiable information when you register on our site. The information collected may include any of the following: email, name, IP address, browser information, address, billing address. Any comments or questions you submit are recorded as well. Also, comments about you as a seller or buyer will be collected and may be viewable by other clients. Collection of information takes place at various times while navigating Auctiva’s site and using its software. When entering Auctiva’s site, information may be collected about previous sites the person has viewed. If questions or comments have been submitted via email or a forum on our website, personal information is collected as well. 
+Auctiva collects personally identifiable information when you register on our site. The information collected may include any of the following: email, name, IP address, browser information, address, billing address or phone number.. Any comments or questions you submit are recorded as well. Also, comments about you as a seller or buyer will be collected and may be viewable by other clients. Collection of information takes place at various times while navigating Auctiva’s site and using its software. When entering Auctiva’s site, information may be collected about previous sites the person has viewed. If questions or comments have been submitted via email or a forum on our website, personal information is collected as well. 
 
 ### Storage of information collected
 
@@ -34,7 +34,7 @@ By submitting personal information to us or using our site, you agree that we ma
 
 ### Removal from our Database
 
-To request removal from the database, simply [file a support request](https://web.archive.org/web/20100525225132id_/http%3A//www.auctiva.com/help/requesthelp.aspx) and we will be happy to remove your information immediately. Every email sent to you from Auctiva will also include a link to remove your email address from the mail server. If you request that we modify or remove all of your personal information, we will promptly do so, to the extent possible. Once your personal information has been removed you will not be able to use our services unless you re-register. 
+To request removal from the database, simply [file a support request](https://web.archive.org/web/20130628085744id_/http%3A//www.auctiva.com/help/requesthelp.aspx) and we will be happy to remove your information immediately. Every email sent to you from Auctiva will also include a link to remove your email address from the mail server. If you request that we modify or remove all of your personal information, we will promptly do so, to the extent possible. Once your personal information has been removed you will not be able to use our services unless you re-register. 
 
 ### Children
 
@@ -42,7 +42,7 @@ Auctiva uses reasonable efforts not to collect, use, or disclose individually id
 
 ### Privacy and Security while online
 
-Auctiva provides a high security environment while Online with the assistance of ScanAlert. Hacker Safe by ScanAlert tests and certifies Auctiva’s systems every day to ensure they pass the FBI/SANS Internet Security Test. For more information about the ScanAlert Hacker Safe program, please visit [ScanAlert](http://www.scanalert.com/). 
+Auctiva provides a high security environment while Online with the assistance of McAfee SECURE. SECURE by McAfee tests and certifies Auctiva's systems every day to ensure they pass the FBI/SANS Internet Security Test. For more information about the McAfee SECURE program, please visit [McAfee SECURE](http://www.mcafeesecure.com/). 
 
 ### Cookies
 
@@ -50,7 +50,7 @@ Cookies are small files on the site that help Auctiva customize the site to assi
 
 ### Third parties
 
-Auctiva does have partnerships with companies such as Sellathon. If you do not sign up for a company's products directly on their site, and receive an email from them, do not reply to it. However, if you did sign up for their products directly on their site, you may receive emails from them. If you use their products, but signed up through Auctiva's website, any emails sent about product information or promotions will be filtered through Auctiva's systems and sent out as an Auctiva email. Links to these sites are provided on Auctiva's site and at certain points in the sign up and listing phase of an auction. 
+Auctiva does have partnerships with many online companies. If you do not sign up for a company's products directly on their site, and receive an email from them, do not reply to it. However, if you did sign up for their products directly on their site, you may receive emails from them. If you use their products, but signed up through Auctiva's website, any emails sent about product information or promotions will be filtered through Auctiva's systems and sent out as an Auctiva email. Links to these sites are provided on Auctiva's site and at certain points in the sign up and listing phase of an auction. 
 
 ### Changing of personal information
 
