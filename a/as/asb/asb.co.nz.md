@@ -1,61 +1,43 @@
-> *The following text is extracted and transformed from the asb.co.nz privacy policy that was archived on 2012-10-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121030201306id_/https%3A//www.asb.co.nz/story335.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the asb.co.nz privacy policy that was archived on 2013-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130628161842id_/https%3A//www.asb.co.nz/story335.aspx) for the most accurate reproduction.*
 
 # Privacy - ASB Bank New Zealand
 
-ASB Bank Limited ("ASB") recognises the importance of safeguarding your personal and financial information. As an institution offering financial services ASB needs to obtain personal information about you in the course of providing our products and services. Because this information is confidential and important to you, we think it's important you know how we treat your information.
+**Privacy**
 
-ASB assures you that:
+ASB Bank Limited ("ASB") recognises the importance of safeguarding your personal and financial information. As an institution offering financial services, ASB needs to obtain personal information about you in the course of providing our products and services. 
 
-We understand your personal information is important and we are committed to protecting your privacy in the online environment.
+To ensure your security, you will need to take appropriate steps to ensure that your Internet browser is capable of supporting our website's encryption requirements. 
 
-We only use your personal information to:
+We do not collect personal information about you unless specifically requested by you or us. 
 
-  * Help us to provide our products and services;
-  * Improve our service; 
-  * Inform you of products you have indicated an interest in; 
-  * Inform you about additional services. 
+**Collection and use of information**
 
+If you submit personal information to us, we store that information and use it for the purposes for which you provided it.
 
+Where our customers submit personal information to us, we use it for the purposes detailed in the relevant terms and conditions that apply.
 
-ASB will not sell your information to third parties. We may in the future contact you to inform you of services and products available from ASB or the ASB Group of companies. If you do not wish to receive these offers please email us or call us on 0800 803 804.
+This information is collected and held by ASB, PO Box 35, Auckland 1015.
 
-To ensure full security you will need to take appropriate steps to ensure that your Internet browser is capable of supporting our website's encryption requirements. More information on the Internet browsers we recommend can be found [here](https://www.asb.co.nz/Personal/Banking-with-ASB/Internet-banking/Question-and-Answers#registration). Our website does not collect personal identifying information about you except where specifically requested by you or us. 
+You have rights of access to, and correction of, your information.
 
-ASB does use technology in order to offer you the most convenient, secure and relevant services. An example of the technology that ASB uses is a "cookie". Some cookies can be used to provide you with tailored information from a website. A cookie is an element of data that the website can send to your browser, which may then store it on your system. ASB presently uses cookies to maintain our security requirements during your use of our website.
+You do not have to provide us with information we request, though it may affect which products or services we can provide you with. 
 
-It is also important that you know that to transact with ASB you do not necessarily need to enable your browser to accept the cookies. Please note some information and/or services may not be available if you disable your browser not to accept cookies. 
+We will not sell your information to third parties.
 
-You may be able to get your browser to notify you when you receive a cookie giving you the chance to decide whether or not to accept it. There is also a lot of information on the Internet in respect of cookies. 
+**Cookies**
 
-Throughout asb.co.nz the Google Analytics measurement system is used to monitor traffic flows as part of our drive to improve our online services. Further information regarding the Google Analytics system can be found at <http://www.google.com/analytics/>.
+ASB uses technology in order to offer you the most convenient, secure and relevant services. An example of the technology that ASB uses is a "cookie". 
 
-Please also note that while the ASB website hyperlinks to various other websites, ASB is not responsible for the privacy practice of those websites and/or the reliability of the information published on those websites. 
+Cookies are very small text files that your browser stores on your computer when you visit certain websites. Every time you visit a website that has issued a cookie to your computer, your browser sends the data that it has stored in that cookie back to the website's server. Extensive information about how cookies work can be found by searching the internet. 
 
-**Privacy Act 1993**
+We use cookies for a number of purposes, including to maintain the secure connection between your browser and our servers while you are using our secure websites. These cookies can be identified as being issued from the website domains fnb.asb.co.nz or asbbank.co.nz.
 
-Under the Privacy Act 1993 we advise that: 
+You may be able to configure your browser to notify you when you are offered a cookie and decide whether or not to accept it. You may choose not to accept cookies when browsing our websites. However, you may be unable to log on to our secure services without accepting the cookies outlined above.
 
-The ASB website contains applications which collect personal information about you ("Information") so that ASB can offer you its products and services, process your application, carry out credit checks, verify your identity and monitor your ongoing credit-worthiness. 
+**Third party partners and analytics**
 
-This Information is being collected and held by ASB, PO Box 35, Auckland 1015; 
+ASB promotes its products and services on ASB websites and mobile apps. Third party vendors, including Google, show ASB advertisements on sites throughout the internet. Both ASB and these vendors may use cookies, separate to those required to maintain secure connections, to assist in serving the most relevant available ASB advertisements to you based on your prior visits to ASB's websites and mobile apps. You do not need to accept these cookies to transact with ASB and may opt out of Google's use of cookies by visiting the [Google advertising opt-out page](http://www.google.com/policies/technologies/ads/ "Google advertising opt-out page").
 
-The intended recipients of the Information are ASB (which is part of the ASB Group), other members of the ASB Group of companies, other providers of credit, credit reference agencies, research and/or marketing firms engaged by ASB; and
+Throughout ASB's public websites, the Google Analytics web analytics system is used to measure anonymised site activity in order to understand and optimise user experiences. Further information regarding Google Analytics can be found at <http://www.google.com/analytics/>.
 
-Failure to provide, or the supply of incorrect Information may result in your application being declined or services being withdrawn;   
-You have rights of access to, and correction of, Information.
-
- **Authorisations**
-
-  * By completing an application, you agree to authorise the following:
-  * You agree that your Information held by ASB may be used by other companies within the ASB Group to advise you about other products and services;
-  * You authorise ASB to obtain, use and disclose any and all your Information for the purposes set out above and you further authorise the release to ASB of any Information held by credit reference agencies and credit providers for the purposes set out above;
-  * You authorise ASB to disclose Information held about you to other credit providers, credit reference agencies and any other party that is authorised by you from time to time.
-  * You authorise ASB's credit reference agency to:  
-i) Hold your personal information on its systems and use your personal information to provide its credit reporting services;  
-ii) Provide your personal information to its customers when they use its credit reporting services.   
-You authorise ASB to use its credit reference agency in the future for purposes related to the provision of credit to you.
-  * You authorise:  
-i) ASB to give its credit reference agency information about any default in your payment obligations;  
-ii) ASB's credit reference agency to give information about your default to its other customers.
-
-
+Please also note, that while ASB websites may hyperlink to various other non-ASB websites, ASB is not responsible for the privacy practices of those websites and/or the reliability of the information published on those websites.
