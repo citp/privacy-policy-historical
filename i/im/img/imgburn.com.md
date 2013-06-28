@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the imgburn.com privacy policy that was archived on 2012-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121226010208id_/http%3A//www.imgburn.com/index.php%3Fact%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the imgburn.com privacy policy that was archived on 2013-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130628064715id_/http%3A//imgburn.com/index.php%3Fact%3Dprivacy) for the most accurate reproduction.*
 
 # The Official ImgBurn Website
 
-Last Modified: July 16th, 2010 
+Last Modified: January 25th, 2013 
 
 We are committed to safeguarding your privacy online. Please read the following policy to understand how your personal information will be treated as you make full use of the website imgburn.com. This policy may change from time to time so please check back periodically. 
 
@@ -12,12 +12,13 @@ This policy will let you know:
   2. What cookies are and how they are used
   3. How your information is used
   4. Who is collecting your information
-  5. Special AdSense Notification for imgburn.com
-  6. With whom your information may be shared
-  7. What choices are available to you regarding collection, use, and distribution of your information
-  8. How you can access, update or delete your information
-  9. The kind of security precautions that are in place to protect the loss, misuse, or alteration of your information
-  10. What else you should know about your online privacy
+  5. Special Google AdSense Notification for imgburn.com
+  6. Special Google Analytics Notification for imgburn.com
+  7. With whom your information may be shared
+  8. What choices are available to you regarding collection, use, and distribution of your information
+  9. How you can access, update or delete your information
+  10. The kind of security precautions that are in place to protect the loss, misuse, or alteration of your information
+  11. What else you should know about your online privacy
 
 
 
@@ -31,13 +32,15 @@ Wherever we collect personal information we make an effort to include a link to 
 
 As part of offering and providing customisable and personalised services, the site uses cookies to store and sometimes track information about you. A cookie is a small amount of data that is sent to your browser from a web server and stored on your computer's hard drive. All sites on imgburn.com where you are prompted to login or that are customisable require that you accept cookies. (See "What are my choices regarding collection, use and distribution of my information?" for more information on cookies.) 
 
-Generally, we use cookies to: 
+We use Google AdSense on this website. Third-party vendors, including Google, use cookies to serve ads based on your website visits. Google’s use of the DART cookie enables it and its partners to serve ads based on your web browsing activity. You may opt out of the use of the DART cookie by visiting <http://www.google.co.uk/policies/privacy/ads/>
 
-  1. Streamline your experience with the website through use of the forum. This cookie is set when you register or "Sign In" and is modified when you "Sign Out" of our services.
-  2. We do not track or monitor audience size and forum usage.
-  3. We may collect other personally identifiable information in order to track usage of the site, including approximate geography, language, and computer hardware identification.
+We use Google Analytics on this website. Google Analytics generates statistical information about website use by means of cookies. The information generated relating to our website is used to create reports about the use of the website. Google will store this information. Google's privacy policy is available at: <http://www.google.co.uk/policies/privacy/>
 
+We use IP.Board forum software from IPS, Inc. on this website. Using cookies is optional, but strongly recommended. Cookies are used to keep track of many various bits of information on the board, including automatically logging you in when returning to the board. 
 
+We use Social Networking plug-ins on this website. The plug-ins may create cookies when you 'Like' (Facebook) or 'Follow' (Twitter) us. 
+
+Most browsers allow you to refuse to accept cookies. (For example, in Internet Explorer you can refuse all cookies by clicking 'Tools', 'Internet Options', 'Privacy', and selecting 'Block all cookies' using the sliding selector.) This will, however, have a negative impact upon the usability of many websites, including ours. 
 
 **How does this site use my information?**
 
@@ -49,7 +52,7 @@ When you are using this site and are asked for personal information, you are sha
 
 Please be aware that advertisers or Web sites that have links on our site may collect personally identifiable information about you. The information practices of those Web sites linked to imgburn.com are not covered by this privacy statement. 
 
-**Special AdSense Notification for imgburn.com**
+**Special Google AdSense Notification for imgburn.com**
 
 In this usage policy, the AdSense usage disclaimer has been added by the recommendation of Google, which serves ads on imgburn.com through its AdSense program. 
 
@@ -57,7 +60,11 @@ When you visit imgburn.com and click an advertisement syndicated by Google, a co
 
 If you do not wish to get the cookie on your browser, you can visit Google ad and content network privacy policy. 
 
-This is done in accordance with the Google AdSense policies, Google AdSense terms and conditions, and the latest notification of changes in Google's official Inside AdSense blog here. 
+This is done in accordance with the Google AdSense policies, Google AdSense terms and conditions, and the latest notification of changes in Google's official Inside AdSense blog [here](http://adsense.blogspot.co.uk/). 
+
+**Special Google Analytics Notification for imgburn.com**
+
+"This website uses Google Analytics, a web analytics service provided by Google, Inc. ("Google"). Google Analytics uses "cookies", which are text files placed on your computer, to help the website analyse how users use the site. The information generated by the cookie about your use of the website (including your IP address) will be transmitted to and stored by Google on servers in the USA. Google will use this information for the purpose of evaluating your use of the website, compiling reports on website activity for website operators and providing other services relating to website activity and internet usage. Google may also transfer this information to third parties where required to do so by law, or where such third parties process the information on Google's behalf. Google will not associate your IP address with any other data held by Google. You may refuse the use of cookies by selecting the appropriate settings on your browser, however please note that if you do this you may not be able to use the full functionality of this website. By using this website, you consent to the processing of data about you by Google in the manner and for the purposes set out above." 
 
 **With whom do you share my information?**
 
