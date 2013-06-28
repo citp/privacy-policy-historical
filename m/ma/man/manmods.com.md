@@ -1,103 +1,88 @@
-> *The following text is extracted and transformed from the manmods.com privacy policy that was archived on 2012-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121228040008id_/http%3A//manmods.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the manmods.com privacy policy that was archived on 2013-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130628234544id_/http%3A//manmods.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy
 
-We take the privacy rights of users of this Site very seriously and seek to ensure the highest standards of compliance with International Protection Laws and Regulations.
+**Privacy Policy**
 
-This Privacy Policy is incorporated in and subject to the Site Terms and Conditions. This Privacy Policy explains to you how We may use Your Data when You register as a Member (as relevant) or otherwise use the Site.
+Twilight Social Media, (“TSM”) operators of the manmods.com web site (“Site”), is committed to respecting your privacy. We take reasonable precautions to protect personal information from loss, misuse, unauthorized access, disclosure, alteration and destruction. We also take reasonable steps to ensure that personal information is relevant for the purposes for which it is to be used. Because the Site is global, information about you that we collect or that you submit may be transferred to, processed in, and held in countries other than the one in which you reside. By using the Site you explicitly consent to such use of your information.   
+Please read the following policy to understand how your personal information will be treated. This policy may change from time to time so please check back periodically. This policy will let you know the following:
 
-1\. Your Data 
+  1. What personally identifiable information is collected from me
+  2. What are cookies and tracking pixels and how they are used by TSM?
+  3. How is my information used?
+  4. Who is collecting my information?
+  5. With whom will my information be shared?
+  6. How can I access, update or delete my information?
+  7. What does “opt-out” mean?
+  8. What else should I know about my privacy?
+  9. Other legal notices.
 
-1.1 "Your Data" means any information about You which is personally identifiable, including, without limitation, Your name, address, telephone number, email address, financial details, Member Name, Password, comments, profiles, personal descriptions, photos and other information from which You can be identified and which You may disclose to Us or otherwise via the Site at any time. 
 
-2\. When do We collect Your data? 
 
-2.1 If You register as a Member, We collect Data when You: 
+  
+1\. What personally identifiable information is collected from me?
 
-2.1.1 register as a Member; 
+  
+On some Lingerie League Web pages, you can make payments and requests and/or receive materials. The types of personal information collected at these pages are your name, gender, age, e-mail address and standard contact information, including addresses and phone numbers and your screen name.
 
-2.1.2 update Your Member Profile or Settings; and 
+  
+We may also ask you to voluntarily provide us with information regarding your personal or professional interests, demographics, and experience with the services we provide and contact preferences. Wherever TSM collects personal information, we make an effort to include a link to this Privacy Policy on that page.
 
-2.1.3 post an entry on the Site. 
+  
+2\. What are cookies and how they are used by TSM?
 
-2.2 If You otherwise use the Site (whether or not You are a Member), We collect Your Data from You: 
+  
+We automatically collect certain information to help us understand how you use the Site. Each time you visit manmods.com, we automatically collect your IP address (the Internet address of a computer), browser and computer type, access times, the web page from which you came and the web page(s) you access. In addition, TSM may place Internet cookies on your hard drive or use tracking pixels embedded in our web pages. Internet cookies are small files that may be placed on your hard disk for record-keeping purposes. Cookies and tracking pixels are used to (1) remind us of who you are in order to deliver you better service; (2) estimate our audience size by determining repeat usage of the Site to help target advertisements based on user interests and behavior; (3) track your progress and entries in promotions, sweepstakes and contests, if any; and (4) measure certain traffic patterns for use as a research tool to understand how our users’ habits are similar or different from one another. You can set your browser to notify you when you receive a cookie, giving you the chance to decide whether or not to accept it. By not accepting cookies, some Web pages may not display properly or you may not be permitted to access certain information.
 
-2.2.1 when You make a complaint or enquiry or provide other feedback to Us; 
+  
+TSM may also collect IP addresses to track a user’s session while the user remains anonymous. We analyze this data for certain trends in statistics, such as which parts of our Site users are visiting and how much time they spend there.
 
-2.2.2 when You submit an entry to a competition or prize draw; 
+  
+3\. How is my information used?
 
-2.2.3 when You request to be sent Our Newsletter; 
+  
+TSM will not sell, rent or lease your personally identifiable information to others without your consent. The information you provide will be used to support your customer relationship with TSM. Your information may be shared with agents, contractors or business partners for the purpose of performing services for TSM.
 
-2.2.4 in monitoring Your communications sent via and use of the Site ensure and check compliance with the Terms and Conditions of Use or Membership Terms and Conditions or otherwise as required by law; and 
+We want to help you quickly find information on Lingerie League and be alerted to specific offers, updated information, and other new products and services from Lingerie League. Accordingly, we may send you an e-mail to your external e-mail address about a special contest or promotion or about our various products and services or other products and services we feel may be of interest to you. If you do not want to receive such mailings, simply “opt-out” by the means provided for in the mailings or by contacting support@manmods.com.
 
-2.2.5 when You disclose Your Data to Us or otherwise through the Site at any other point. 
+  
+Notwithstanding, TSM does research on our users’ demographics, interests and behavior based on the information provided to us during your use of the Site. This research is compiled and analyzed on an aggregated basis. Aggregated data does not include personally identifiable information. TSM may share this aggregated data with others.
 
-3\. How do We use Your Data: 
+  
+4\. Who is collecting my information?
 
-3.1 We use Your Data to: 
+  
+When you are on the Site and are asked for personal information, you are sharing that information with TSM alone, unless specifically stated otherwise. If data is being collected and/or maintained by any company other than TSM or an agent for TSM, you will be notified prior to the time of the data collection or transfer. If you do not want your data to be shared, you can choose not to allow the transfer by not using that particular service or purchasing those particular goods.
 
-3.1.1 monitor, develop and improve the Site, Services and Your experience; 
+  
+Please be aware that Lingerie League advertisers or Web sites that have links on our Site may collect personally identifiable information about you. The information practices of those Web sites linked to Lingerie League either through advertisements or other hyperlinks are not covered by this privacy statement.
 
-3.1.2 process Your registration as a Member and to process and administer Your Membership (where appropriate); 
+  
+5\. With whom does TSM share my information?
 
-3.1.3 process and deal with any complaints or enquiries made by or about You; 
+  
+We may share the personal data you provide with other TSM agents, contractors or our business partners for the purposes of performing services for TSM. TSM also may share aggregated data with others. Aggregated data does not include personally identifiable information. Notwithstanding anything in this Privacy Policy to the contrary, we also believe it is necessary to share information in order to investigate, prevent, or take action regarding illegal activities, suspected fraud, situations involving potential threats to the physical safety of any person, violations of the Terms of Access or Use, or as otherwise required by law. Such circumstances where we will share information include: (1.) in response to subpoenas, court orders, or legal process, or to establish, protect, or exercise our legal rights or defend against legal claims or demands; (2.) if we believe it is necessary in order to investigate, prevent, or take action regarding illegal activities, fraud, or situations involving potential threats to the safety of any person; (3) if we believe it is necessary to investigate, prevent or take action regarding situations that involve abuses of our network infrastructure or the Internet in general (such as voluminous spamming, denial or service attacks or attempts to compromise the security of the Site or our network infrastructure). Except as provided above or in the event of a merger, consolidation, or sale of all or substantially all of TSM’s assets, we will not share any of your information with any third party without your permission.
 
-3.1.4 investigate any suspected breach of the Terms and Conditions of Use or Membership Terms and Conditions (as relevant) made by or otherwise relating to You and to monitor compliance including by way of checking postings to the Site, retaining forum or chat room exchanges and using keyword triggers to investigate usage that may be inappropriate; 
+  
+6\. How do I access, update or delete my information?
 
-3.1.5 where (and only where) requested by You, to send You and keep You updated with information by email about existing and new services and special offers from Us; 
+  
+You can request the individual information that TSM has collected about you, correct factual inaccuracies in your information, remove personal information from TSM’s databases and/or update your personal information here or by contacting support@manmods.com. Please note however, that we reserve the right to send you administrative messages relating to the Site, including messages about changes to this Privacy Policy. If at any time you would like us to deactivate your member profile and remove it from public and member viewing on the Site, please e-mail us at support@manmods.com. Please note that we will retain your personal information in back-up storage after deactivation and we are not responsible for removing information about you from the database of any third parties to whom you previously authorized us to share your personal information.
 
-3.1.6 where (and only where) requested by You, to send You information by e-mail about related products or services of selected third parties that may be of interest to You; and 
+  
+7\. What does “opt-out” mean?
 
-3.1.7 where you are a prize winner, to publish or otherwise make available a list of prize winners. 
+  
+To “opt-out” means that you have notified TSM that we no longer have permission to use your information for an enumerated particular purpose. For example, when we send you information on a new product to your external e-mail account, you will be given the opportunity to “opt-out” of receiving such information in the future.
 
-To opt-out of receiving any information pursuant to paragraphs 3.1.5 or 3.1.6, You can: 
+  
+8\. What else should I know about my privacy?
 
-i. amend Your preferences accordingly in Your Profile or Settings; 
+  
+Third party Internet sites and services accessible through the Site have separate privacy and data collection practices, independent of us. TSM has no responsibility or liability for these independent policies or actions. Please be careful and responsible online. If you post personal information online that is accessible to the public, you may receive unsolicited messages from other parties in return. While we strive to protect your information, TSM cannot ensure or warrant the security of any information through the transmission process and you do so at your own risk.
 
-ii. use the facility contained in any such communication; or 
+  
+9\. Other Legal Notices.
 
-iii. Contact us stating Your Profile name, the Site You are registered with and who You do not wish to receive further communications from. 
-
-4\. Will we pass on Your Data to third parties? 
-
-4.1 We may pass Your Data to other parties as follows: 
-
-4.1.1 Where relevant, Your Member Name and information you voluntarily provide in Your Member profile will be published on the Members' area of the site and this will be the identity by which You are known on the Site. Where other Members wish to chat or otherwise contact You, they will be able to identify You by Your Member Name and any other information You may yourself disclose via the Site. 
-
-4.1.2 To Our employees and agents to administer Your Membership and the services provided to You by Us now or in the future. 
-
-4.1.3 Some general statistical information about the Site User base, sales patterns, traffic volumes and related matters may be passed on to reputable third parties but these details will not include information personally identifying You. 
-
-4.1.4 We may disclose Your Data to the police, regulatory bodies or legal advisers in connection with any alleged criminal offence or suspected breach of the Terms and Conditions of Use and (where appropriate) Membership Terms and Conditions by You or otherwise where required by law. 
-
-4.2 We do not pass or sell Your Data to third persons for any other purpose than those set out in 4.1 above. Any marketing under paragraph 3.1.6 is conducted by Us on behalf of third parties and they do not have any access to Your Data unless You Yourself choose to contact them. 
-
-4.3 Always think carefully before disclosing Your Data or other information to other Members or otherwise posting Your Data on the Site. It is important that You are aware that any of Your Data or other information which You disclose to another Member may then be disclosed on the Site by that Member. As stated in the Terms and Conditions, We have no responsibility or control over the contents of communications made between Members. 
-
-5\. Data Security 
-
-5.1 We endeavour to take all reasonable steps to protect Your Data. All the Data collected by Us is stored on a secure server. The secure server software encrypts all information You input before it is sent to Us. 
-
-6\. Cookies 
-
-6.1 Cookies are small pieces of information stored by Your browser on Your computer's hard drive. We use cookies to allow Us to understand who has seen which pages and advertisements, to determine how frequently particular pages are visited, to determine the most popular areas of the Site and generally in order to monitor usage of the Site. Most web browsers automatically accept cookies, though You do not have to. We do not control the use of cookies by third parties. If You wish to disable cookies then You can do so by readjusting Your browser settings although please note that by disabling cookies You may not be able to register with or use all features of the Site. 
-
-6.2 For more information on cookies and how to disable them, You can consult the information provided by the Interactive Advertising Bureau at [www.allaboutcookies.org](http://www.allaboutcookies.org/)
-
-7\. Access to and Updating Your Data 
-
-7.1 Where You are a Member, You may access and update Your Data contained in Your Member Account accessed by the "Settings" link. You must make sure that You update Your Data as soon as possible with any and all relevant changes. 
-
-7.2 If You are not a Member but would like to update Your Data, then please contact Us setting out Your Profile name, the Site to which you are registered and the details that You wish to change. 
-
-8\. Other links 
-
-8.1 Please be aware that the Site may link to other web sites that may be accessed by You through Our Site. We are not responsible for the data policies, content or security of these linked web sites. We do not have any control over the use to which third parties may put Your Data where You choose to purchase products or services or otherwise to contact them via this Site. 
-
-9\. Data Transfer 
-
-9.1 This Site is accessible via the internet and therefore may potentially be accessed by anyone around the world. Where You post Your Data on the Site, this could be accessed from anywhere around the world and therefore a transfer of Your Data outside of your area may be deemed to have occurred. You consent to such transfer of Your Data for and by way of this purpose. 
-
-10\. Contact Us 
-
-10.1 If You have any comments or queries in connection with Our privacy policy, please contact us, stating Your Profile name, the Site to which You are registered and/or to which Your complaint relates. 
+  
+Any dispute over privacy is subject to this privacy policy and our Terms of Access and Use, including limitations on damages and application of the law of the area in which we are based. If you have any concern about your privacy in connection with this policy, please send us a thorough description to support@manmods.com, and we will try to resolve it. We may post a revised Privacy Policy on our Site. Please note that the use of information that we gather is subject to the Privacy Policy in effect at the time of use. You should check our Site frequently to see recent changes.
