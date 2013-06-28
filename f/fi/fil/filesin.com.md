@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the filesin.com privacy policy that was archived on 2012-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121222112108id_/http%3A//www.filesin.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the filesin.com privacy policy that was archived on 2013-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130628093700id_/http%3A//www.filesin.com/privacy_policy.html) for the most accurate reproduction.*
 
 # FilesIn.com | Upload your files fast,easy and free
 
@@ -23,4 +23,4 @@ We use third-party advertising companies to serve ads when you visit our Web sit
 **Third Party Cookies**  
 In the course of serving advertisements to this site, our third-party advertiser may place or recognize a unique "cookie" on your browser or using web beacons to collect information.
 
-﻿ 
+﻿
