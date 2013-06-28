@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the scotland.gov.uk privacy policy that was archived on 2012-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120627192617id_/http%3A//www.scotland.gov.uk/Disclaimers) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the scotland.gov.uk privacy policy that was archived on 2013-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130628201224id_/http%3A//www.scotland.gov.uk/Disclaimers) for the most accurate reproduction.*
 
 # devolved government scotland – scottish assembly, civil service – Scottish Government Privacy Policy
 
@@ -10,13 +10,15 @@ Any personal data collected through this website will be treated as confidential
 
 ###  Cookies and Website Traffic Analysis
 
-When users enter the Scottish Government website their computers will automatically be issued with 'cookies'. Cookies are text files which identify users' computers to the Scottish Government's server. The website then creates 'session' cookies to store some of the preferences of users moving around the website, e.g. retaining a text-only preference. Cookies in themselves do not identify individual users but identify only the computer used. Scottish Government session cookies are deleted on departure from the website. However, those from third parties may persist.
+When users enter the Scottish Government website their computers will automatically be issued with 'cookies'. Cookies are text files which identify users' computers to the Scottish Government's server. The website then creates 'session' cookies to store some of the preferences of users moving around the website, e.g. retaining a text-only preference.
+
+Cookies in themselves do not identify individual users but identify only the computer used. Scottish Government session cookies are deleted on departure from the website. However, those from third parties may persist.
 
 Many websites use cookies to track traffic flows, whenever users visit those websites.
 
-The Scottish Government website uses third-party cookies to measure use of the website including number of visitors, how frequently pages are viewed, and the city and country of origin of users. This helps to determine what is popular and can influence future content and development. For this purpose, the Government uses Google Analytics to measure and analyse usage of the website. The information collected by the Scottish Government will include IP Address, pages visited, browser type and operating system. **The data will not be used to identify any user personally**.
+The Scottish Government website uses cookies to measure use of the website including number of visitors, how frequently pages are viewed, and the city and country of origin of users. This helps to determine what is popular and can influence future content and development. For this purpose, the Government uses web analytics to measure and analyse usage of the website. The information collected by the Scottish Government will include IP Address, pages visited, browser type and operating system. **The data will not be used to identify any user personally**.
 
-Users have the opportunity to set their computers to accept all cookies, to notify them when a cookie is issued, or not to receive cookies at any time. The last of these means that certain personalised services cannot then be provided to that user.
+Most modern web browsers allow users to control cookies through the browser settings. To find out more about cookies, including how to see what cookies have been set and how to manage and delete them, visit [www.aboutcookies.org](http://www.aboutcookies.org/) or [www.allaboutcookies.org](http://www.allaboutcookies.org/).
 
 ######  Cookies used on our site:
 
@@ -32,49 +34,80 @@ Users have the opportunity to set their computers to accept all cookies, to noti
   
 ######  **Cookie Control**
 
-|  civicAllowCookies |  Cookie Control: When you click "I'm happy with this..." on the Cookie Control user interface, a cookie is set in order to remember your preference. These cookies are set only after the user has given consent to us to use cookies.  
+|  civicAllowCookies |  Cookie Control: When you click to turn cookies on or off on the Cookie Control user interface, a cookie is set in order to remember your preference.  
 civicShowCookieIcon |     
-  |    |     
   
 ######  **Google Analytics**
 
 |  __utma |  Google Analytics: We use Google Analytics to monitor traffic levels, search queries and visits to this website.  
-__utmb |  Google Analytics stores IP address anonamously on its servers in the US, and neither CIVIC or Google associate your IP address with any personally identifiable information.  
+__utmb |  Google Analytics stores IP address anonamously on its servers in the US, and neither the Scottish Government or Google associate your IP address with any personally identifiable information.  
 __utmc |  These cookies enable Google to determine whether you are a return visitor to the site, and to track the pages that you visit during your session.  
-__utmz |     
-  |    |     
-  
-######  **Piwik Analytics**
+__utmz | 
 
-|  _pk_id.* |  Piwik: We use Piwik to monitor traffic levels, search queries and visits to this website.  
-_pk_ses.* |  These cookies enable Piwik to determine whether you are a return visitor to the site, and to track the pages that you visit during your session.  
-PIWIK_SESSID |  These cookies are set only after the user has given consent to us to use cookies.  
-  |    |     
+[Google Privacy Policy](http://www.google.com/policies/privacy/)  
+  
+######  Website Survey 2013
+
+|  Survey2013Taken | 
+
+These cookies are used to remember the choices for the website evaluation survey which runs on the site from January until the end of February 2013.
+
+This cookie is used if you took the survey, or chose not to take the survey to stop the survey pop-up appearing.  
+  
+  |  Survey2013Later | 
+
+This cookie is set to hide the survey pop-up for a period of time and then notify you of the survey again.
+
+See the [Website Evaluation Survey 2013](https://web.archive.org/About/Web-Survey) page for more information.  
+  
 **Other 3rd party cookies** |    |     
   
 ######  **Twitter**
 
-|  guest_id |     
+|  guest_id |  We use Twitter embed code on some pages within our site.  Twitter may set cookies on your PC.  
   
 ######  **Twitter API**
 
-|  k |  Twitter cookies. These cookies are set only after the user has given consent to us to use cookies.   
-  |    |     
+|  k |  [Twitter Privacy Policy](http://twitter.com/privacy)  
   
 ######  **Yahoo (Flickr)**
 
-|  B |  Flickr cookies. These cookies are set only after the user has given consent to us to use cookies.  
+|  B |  We use Flickr to store and display photographs of ministerial events. Flickr may set cookies on your PC.  
   
 ######  **Flickr photos**
 
-|  BX |  Flickr cookies. These cookies are set only after the user has given consent to us to use cookies.  
-  |    |     
+|  BX | 
+
+[Flickr Cookie Policy](http://info.yahoo.com/privacy/uk/yahoo/cookies/#t1)  
   
 ######  **Youtube**
 
-|  VISITOR_INFO1_LIVE |  YouTube cookies. These cookies are set only after the user has given consent to us to use cookies.  
+|  VISITOR_INFO1_LIVE |  We embed videos from our official YouTube channel using YouTube’s privacy-enhanced mode. This mode may set cookies on your computer once you click on the YouTube video player.  
+[Youtube Privacy Policy](http://www.google.co.uk/intl/en/policies/privacy/)  
   
-### Log files
+###  **Twitter Policy**
+
+The Scottish Government Twitter account @scotgov is managed by the Digital Communications team.
+
+Tweets will be about: Scottish Government news
+
+Following: We will not automatically follow anyone who follows us. Being followed by @scotgov does not imply an endorsement of any kind.
+
+Availability: Social media channels will  usually be updated during office hours Monday to Friday 9am to 5pm.
+
+Twitter may occasionally be unavailable, we accept no responsibility for interruptions in service due to Twitter downtime.
+
+@Replies and Direct Messages
+
+We will respond to @ replies where it is appropriate to do so. The Scottish Government cannot engage on issues of party politics.
+
+###  Blogs
+
+All comments submitted are moderated in advance of being made public. There may be a time delay between submission and posting. Anything that is abusive, indecent, unlawful or defamatory will not be displayed. Individuals are personally liable for the comments they submit. E-mail addresses will not be displayed.
+
+Please note that comments will usually be limited to a maximum of approximately 500 words.
+
+###  Log files
 
 Log files stored on the Government's web server allow the recording and analysis of users' use of the website. Log files do not contain any personal information.
 
@@ -132,9 +165,3 @@ Phone: 08457 741 741 [charged at the local call rate from any landline within th
 Email: [newswebsite@scotland.gsi.gov.uk](mailto:newswebsite@scotland.gsi.gov.uk),   
 Postal address: News Website, 3W.03, St Andrew's House, Regent Road, Edinburgh, EH1 3DG, U.K.   
 Web site URL: [http://www.scotland.gov.uk](https://web.archive.org/Topics/Statistics/Browse/Economy/GDP/research)
-
-### Blogs
-
-All comments submitted are moderated in advance of being made public. There may be a time delay between submission and posting. Anything that is abusive, indecent, unlawful or defamatory will not be displayed. Individuals are personally liable for the comments they submit. E-mail addresses will not be displayed.
-
-Please note that comments will usually be limited to a maximum of approximately 500 words.
