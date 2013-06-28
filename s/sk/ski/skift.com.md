@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the skift.com privacy policy that was archived on 2012-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121226060142id_/http%3A//skift.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the skift.com privacy policy that was archived on 2013-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130628121144id_/http%3A//skift.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy - Skift - Travel Intelligence. Global Smartness
+# Privacy Policy by Skift
 
 This User Agreement and Privacy Policy governs each website, mobile site, application, and/or other service, regardless of how distributed, transmitted, published, or broadcast (each, a “Service”) provided by Skift, Inc and its subsidiaries and/or affiliates (“we,” “us,” or “our”) that links to this User Agreement and Privacy Policy, which is binding on all those who access, visit and/or use the service, whether acting as an individual or on behalf of an entity, including you and all persons, entities, or digital engines of any kind that harvest, crawl, index, scrape, spider, or mine digital content by an automated or manual process or otherwise (collectively, “you” or “your”).
 
