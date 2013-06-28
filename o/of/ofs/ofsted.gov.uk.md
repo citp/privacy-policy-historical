@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ofsted.gov.uk privacy policy that was archived on 2012-10-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121031012422id_/http%3A//www.ofsted.gov.uk/terms-of-use/privacy-statement-and-cookie-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ofsted.gov.uk privacy policy that was archived on 2013-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130629002317id_/http%3A//www.ofsted.gov.uk/terms-of-use/privacy-statement-and-cookie-policy) for the most accurate reproduction.*
 
 # Ofsted | Privacy statement and cookie policy
 
@@ -72,7 +72,7 @@ These pieces of information are used to improve services for you through, for ex
 
 
 
-For further information on how to manage cookies and to learn more about about them, go to the [Internet browser cookies – what they are and how to manage them page on the Directgov website](http://www.direct.gov.uk/en/SiteInformation/DG_197506?CID=Central&PLA=url_mon&CRE=managing_cookies "Opens in a new window: Opens in a new window"). If you'd like to learn how to remove cookies set on your device, visit: <http://www.aboutcookies.org/Default.aspx?page=1>
+Aboutcookies.org has information about: [cookie law](http://www.aboutcookies.org/default.aspx?page=3); [controlling cookies](http://www.aboutcookies.org/default.aspx?page=1); and [deleting cookies](http://www.aboutcookies.org/default.aspx?page=2).
 
 ### Our use of cookies
 
@@ -98,7 +98,7 @@ Name: _utmz
 Typical content: randomly generated number and information on how the site was reached (for example directly or via a link, organic search or paid search)  
 Expires: six months
 
-For further information on the cookies set by Google Analytics, go to the [Google code website](http://code.google.com/apis/analytics/docs/concepts/gaConceptsCookies.html#cookiesSet "Opens in a new window").
+For further information on the cookies set by Google Analytics, go to the [Google code website](http://code.google.com/apis/analytics/docs/concepts/gaConceptsCookies.html#cookiesSet).
 
 _Javascript_
 
