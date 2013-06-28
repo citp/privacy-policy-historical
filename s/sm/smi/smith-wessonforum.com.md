@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the smith-wessonforum.com privacy policy that was archived on 2012-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121120003017id_/http%3A//www.intermarkets.net/ourCompany/legal/index.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the smith-wessonforum.com privacy policy that was archived on 2013-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130628064906id_/http%3A//www.intermarkets.net/ourCompany/legal/index.html) for the most accurate reproduction.*
 
 # Intermarkets, Inc.
 
@@ -110,7 +110,7 @@ When you use the Intermarkets website, you are accepting the terms and condition
 
 ## Additional information
 
-For the privacy policies for each of our Portfolio publishers, please visit their sites.  Links to our Portfolio publishers’ websites are located in our [Media Kit](https://web.archive.org/web/20121120003017id_/http%3A//www.intermarkets.net/advertisers/index.html). 
+For the privacy policies for each of our Portfolio publishers, please visit their sites.  Links to our Portfolio publishers’ websites are located in our [Media Kit](https://web.archive.org/web/20130628064906id_/http%3A//www.intermarkets.net/advertisers/index.html). 
 
 RETURN TO TOP
 
