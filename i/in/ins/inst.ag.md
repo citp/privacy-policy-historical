@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the inst.ag privacy policy that was archived on 2012-09-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120926225133id_/http%3A//inst.ag/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the inst.ag privacy policy that was archived on 2013-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130629104940id_/http%3A//inst.ag/privacy) for the most accurate reproduction.*
 
 # Inst.ag Privacy Policy 2012-06-26.docx
 
@@ -109,7 +109,7 @@ We endeavor to take security measures to guard against unauthorized access to th
 
 5\.          UPDATING YOUR INFORMATION
 
-Through the process provided on our site, We allow you to access certain information about you for the purpose of viewing, and in certain situations, updating that information. The types of information that you can access and update will change as our site changes. You may request deletion of your account by sending an e-mail developer account deletion at [developers@pokki.com](mailto:developers@pokki.com) and responding affirmatively to any confirmation e-mails that We may send. Please note that some information may remain in our records after deletion of your account.
+Through the process provided on our site, We allow you to access certain information about you for the purpose of viewing, and in certain situations, updating that information. The types of information that you can access and update will change as our site changes. You may request deletion of your account by sending an e-mail developer account deletion at [privacy@pokki.com](mailto:privacy@pokki.com) and responding affirmatively to any confirmation e-mails that We may send. Please note that some information may remain in our records after deletion of your account.
 
 6\.          Children's Online Privacy Protection Act
 
