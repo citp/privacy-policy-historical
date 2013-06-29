@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sinclair.edu privacy policy that was archived on 2012-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121224153431id_/http%3A//www.sinclair.edu/about/information/privacy/index.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sinclair.edu privacy policy that was archived on 2013-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130629190930id_/http%3A//sinclair.edu/about/information/privacy/index.cfm) for the most accurate reproduction.*
 
 # About Sinclair
 
