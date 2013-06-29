@@ -1,6 +1,9 @@
-> *The following text is extracted and transformed from the anewmorning.com privacy policy that was archived on 2012-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121231044844id_/http%3A//www.anewmorning.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the anewmorning.com privacy policy that was archived on 2013-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130629153151id_/http%3A//www.anewmorning.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
+
+  
+
 
 **Privacy Policy**
 
@@ -42,3 +45,6 @@ If you have any questions, please contact me through the contact page.
 
 Thanks,  
 MoiN Anjum
+
+  
+
