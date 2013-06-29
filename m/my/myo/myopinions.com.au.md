@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the myopinions.com.au privacy policy that was archived on 2012-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121213035946id_/http%3A//www.myopinions.com.au/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myopinions.com.au privacy policy that was archived on 2013-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130629172417id_/http%3A//www.myopinions.com.au/privacy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy - MyOpinions
 
@@ -48,9 +48,11 @@ In the event that we detect fraud or abuse of our program or our web site and co
 
 ## What are cookies and why does MyOpinions use them?
 
-A cookie is a piece of data stored on a user's computer hard drive, containing information about that user. A cookie can only be accessed across the Internet by the web site that placed it there. Cookies are used by the MyOpinions web site to enable web site sign in, and to track the source of new members joining the web site. The use of cookies in this way is wide-spread and commonly accepted by the Internet community. MyOpinions does not use cookies for routing or for the tracking of user behaviour.
+A cookie is a piece of data stored on a user's computer hard drive, containing information about that user. A cookie can only be accessed across the Internet by the web site that placed it there. Cookies are used by the MyOpinions web site to enable web site sign in, and to track the source of new members joining the web site. The use of cookies in this way is wide-spread and commonly accepted by the Internet community. MyOpinions also uses cookies (including third-party cookies) to gather information about users that complete surveys in order to enhance MyOpinions' ability to compile useful data from those surveys.
 
-You may choose to reject a cookie that the MyOpinions web site attempts to place on your computer (by using the options and controls in your web browser software), however you may then be limited in your use of some areas of the web site. 
+For example, a MyOpinions or third party cookie may track and correlate a user's MyOpinions ID number together with that member's visit to other web sites containing online ads. This data would then be used to enhance the selection process when inviting users to participate in a survey about those ads. In all instances, cookies used by MyOpinions would not contain personally identifiable information such as your name or email address.
+
+You may choose to reject a cookie that the MyOpinions web site attempts to place on your computer (by using the options and controls in your web browser software), however you may then be limited in your use of some areas of the web site.
 
 ## What happens to my personal information on other Web sites?
 
