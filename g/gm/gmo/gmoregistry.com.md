@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gmoregistry.com privacy policy that was archived on 2012-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121118203324id_/http%3A//www.gmo-registry.com/en/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gmoregistry.com privacy policy that was archived on 2013-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130629194739id_/http%3A//www.gmo-registry.com/en/privacy) for the most accurate reproduction.*
 
 # 
 
