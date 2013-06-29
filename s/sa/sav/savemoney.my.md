@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the savemoney.my privacy policy that was archived on 2012-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121229140201id_/http%3A//savemoney.my/%3Fpage_id%3D365) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the savemoney.my privacy policy that was archived on 2013-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130629183259id_/http%3A//savemoney.my/%3Fpage_id%3D365) for the most accurate reproduction.*
 
-# Privacy Policy | Save Money Malaysia |SaveMoney.my
+# Privacy Policy | Save Money Malaysia |
 
 Saving Experts Sdn. Bhd. (“we” or “us”) owns and operates this website and we take your privacy very seriously. This Privacy Policy discloses the privacy practices for this website and should be read together with our **Terms of Use**.
 
-PLEASE READ THIS PRIVACY POLICY CAREFULLY. BY ACCESSING OUR WEBSITE, YOU ACKNOWLEDGE THAT YOU HAVE READ, UNDERSTAND, AND AGREE TO BE BOUND BY ALL THE TERMS AND CONDITIONS OF THIS PRIVACY POLICY AND OUR WEBSITE **TERMS OF USE**. IF YOU DO NOT AGREE TO THESE TERMS, PLEASE EXIT THIS PAGE AND DO NOT ACCESS THE WEBSITE.
+PLEASE READ THIS PRIVACY POLICY CAREFULLY. BY ACCESSING OUR WEBSITE, YOU ACKNOWLEDGE THAT YOU HAVE READ, UNDERSTAND, AND AGREE TO BE BOUND BY ALL THE TERMS AND CONDITIONS OF THIS PRIVACY POLICY AND OUR WEBSITE’S  **TERMS OF USE**. IF YOU DO NOT AGREE TO THESE TERMS, PLEASE EXIT THIS PAGE AND DO NOT ACCESS THE WEBSITE.
 
-We are ready to address your questions and concerns regarding this policy and our privacy practices. If you would like to contact us, please do so via email at [support@savemoney.my](https://web.archive.org/web/20121229140201id_/http://savemoney.my/privacy-policy/support@savemoney.my)
+We are ready to address your questions and concerns regarding this policy and our privacy practices. If you would like to contact us, please do so via email at support@savemoney.my
 
 **1.        ****Types and Uses of Collected Information**
 
@@ -44,14 +44,16 @@ We also use Third Party Service Providers to track and analyze Non-Personally Id
 
 **6\. Changes**
 
-****In Saving Experts Sdn. Bhd.’s sole discretion, we may, from time to time make changes to this privacy policy to reflect any changes to our privacy practices in accordance with changes to legislation, best practice or website enhancements. We will let you know what these changes are by posting them to this page, but it is your responsibility as a user to make sure that you are aware of them, by checking for any changes on a regular basis. Changes will become effective as soon as they are posted and your continued use of this site after any change in this Privacy Policy will constitute your acceptance of such change.
+****At Saving Experts Sdn. Bhd.’s sole discretion, we may, from time to time make changes to this privacy policy to reflect any changes to our privacy practices in accordance with changes to legislation, best practice or website enhancements. We will let you know what these changes are by posting them to this page, but it is your responsibility as a user to make sure that you are aware of them, by checking for any changes on a regular basis. Changes will become effective as soon as they are posted and your continued use of this site after any change in this Privacy Policy will constitute your acceptance of such change.
 
 **7\. Contact Us**
 
 ****If you have any feedback or queries regarding your personal information and our Privacy Policy, please contact us by writing to:
 
 Saving Experts Sdn. Bhd.  
-D-3A-10 Southgate Commercial Centre  
-2 Jalan Dua off Jalan Chan Sow Lin  
-55200 Kuala Lumpur  
+C-13A-2 Wisma Goshen, Plaza Pantai  
+5 Jalan 4/83a off Jalan Pantai Baru  
+59200 Kuala Lumpur  
+Malaysia
+
 This Privacy Policy was last modified on 25 February 2012.
