@@ -1,16 +1,16 @@
-> *The following text is extracted and transformed from the rhinoarticles.com privacy policy that was archived on 2012-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121230230656id_/http%3A//www.empowernetwork.com/privacy.php%3Fid%3DPaulMoore) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rhinoarticles.com privacy policy that was archived on 2013-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130629091656id_/http%3A//www.empowernetwork.com/privacy.php%3Fid%3Dpaulmoore) for the most accurate reproduction.*
 
 # Empower Network: Privacy Policy
 
 This site (the "Site") is owned by Empower Network, LLC, a Florida limited liability company ("us," "we," or "Company"). We created this Privacy Policy ("Privacy Policy") to explain how we use the information we collect on the Site. This Privacy Policy is only applicable to the Site, and not to any other websites that you may be able to access from the Site, each of which may have data collection, storage, and use practices and policies that differ materially from this Privacy Policy. 
 
-## Information We Collect
+### Information We Collect
 
 We automatically track and collect the following categories of information when you visit our Site: 1) IP addresses; 2) domain servers; 3) types of computers accessing the Site; and 4) types of web browsers used to access the Site (collectively "Traffic Data"). Traffic Data is anonymous information that does not personally identify you but is helpful for marketing purposes and for improving your experience on the Site. We also use "cookies" to customize content specific to your interests. 
 
 Our Site provides a range of products and services for you to use in connection with marketing campaigns (collectively, the "Marketing Tools"). In order for us to be able to contact you about your use of the Site and Marketing Tools, we require you to provide us with certain information that personally identifies you ("Personal Information"). Personal Information includes the following categories of information: 1) Contact Data (such as your name, company name, contact information, telephone number, email address, and login name); 2) Financial Data (such as the credit/debit account information for the account you want to establish for billing purposes); and 3) Transaction Data (for example, the name of the person who referred you to us, the names and contact information for people you refer to us, data about specific marketing campaigns and results, consumer contact information such as email addresses and phone numbers, and related marketing materials). If you communicate with us by e-mail, post messages to any of our blogs, chat groups, bulletin boards, or forums, or otherwise complete online forms, any information provided in such communication may be collected as Personal Information. 
 
-## How your Personal Information is Used
+### How your Personal Information is Used
 
 We use Personal Information in the following ways: 1) to enable you to use our Site and Marketing Tools; 2) to contact you about our Site, Marketing Tools, and other related products and services in which we think you may be interested; and 3) to customize and tailor your experience on our Site. 
 
@@ -20,7 +20,7 @@ Additionally, the registered member that referred you to our Site is able to vie
 
 You may choose not to provide us with any Personal Information. In such an event, you will not be able to access and use our Site, Marketing Tools, or some of the services it provides. 
 
-## Confidentiality and Security of Personal Information
+### Confidentiality and Security of Personal Information
 
 We may also (and you authorize us to) disclose your Personal Information to: a) comply with a court order or other legal process or inquiry; b) protect our rights or property; or c) enforce our Terms and Conditions. Your Personal Information is stored on secure servers that are not accessible by third parties. We provide you with the capability to transmit your Personal Information via secured and encrypted channels if you use a similarly equipped web browser. 
 
@@ -40,4 +40,4 @@ St. Petersburg, Florida 33701
 Suite 201  
 Effective Date: November 7, 2011 
 
-[Click here to continue to signup page](https://web.archive.org/web/20121230230656id_/http%3A//www.empowernetwork.com/commissionloophole.php?id=PaulMoore)
+[Continue to signup page](https://web.archive.org/web/20130629091656id_/http%3A//www.empowernetwork.com/commissionloophole.php?id=paulmoore)
