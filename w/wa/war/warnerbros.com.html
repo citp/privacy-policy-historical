@@ -1,7 +1,7 @@
-<!--The following is the downloaded HTML source of the warnerbros.com privacy policy that was archived on 2012-12-31.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121231005306id_/http%3A//www.warnerbros.com/privacy/policy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the warnerbros.com privacy policy that was archived on 2013-06-29.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130629070520id_/http%3A//www.warnerbros.com/privacy/policy.html) for the most accurate reproduction.-->
 
-<!DOCTYPE html><html><head>
+<!DOCTYPE html><html class="  ext-strict"><head>
     <!-- Google Website Optimizer Control Script -->
     <script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script>
     function utmx_section(){}function utmx(){}
@@ -13,7 +13,7 @@
     +'/siteopt.js?v=1&utmxkey='+k+'&utmx='+(x?x:'')+'&utmxx='+(xx?xx:'')+'&utmxtime='
     +new Date().valueOf()+(h?'&utmxhash='+escape(h.substr(1)):'')+
     '" type="text/javascript" charset="utf-8"></sc'+'ript>')})();
-    </script><script src="https://ssl.google-analytics.com/siteopt.js?v=1&amp;utmxkey=2833221967&amp;utmx=&amp;utmxx=&amp;utmxtime=1580489664242" type="text/javascript" charset="utf-8"></script>
+    </script><script src="https://ssl.google-analytics.com/siteopt.js?v=1&amp;utmxkey=2833221967&amp;utmx=&amp;utmxx=&amp;utmxtime=1580471198273" type="text/javascript" charset="utf-8"></script>
     <!-- End of Google Website Optimizer Control Script -->
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
     
@@ -30,7 +30,7 @@
     <link href="/css/ext-all.css" type="text/css" rel="stylesheet">
     <link href="/css/xtheme-gray.css" type="text/css" rel="stylesheet">
     <link href="/css/global.css" type="text/css" rel="stylesheet">
-    <link href="/css/privacy.css?1355856342" media="screen" rel="stylesheet" type="text/css">
+    <link href="/css/privacy.css?1372097192" media="screen" rel="stylesheet" type="text/css">
     
     <link rel="stylesheet" media="all and (max-device-width: 480px)" href="/css/global-iphone.css"> 
     <link rel="stylesheet" media="all and (min-device-width: 481px) and (max-device-width: 1024px) and (orientation:portrait)" href="/css/global-ipad-portrait.css"> 
@@ -42,10 +42,9 @@
     <!-- Default CSS -->
     <!-- IE -->
     <!--[if IE]>
-        <link href="/css/global-ie.css?1355856340" media="screen" rel="stylesheet" type="text/css" />
+        <link href="/css/global-ie.css?1372097096" media="screen" rel="stylesheet" type="text/css" />
         <link href="/css/privacy-ie.css" media="screen" rel="stylesheet" type="text/css" />
-        <script src="/js/global.js?1355856344" type="text/javascript"></script>
-        <script src="/js/lib/excanvas.js?1349388601" type="text/javascript"></script>
+        <script src="/js/lib/excanvas.js?1365816484" type="text/javascript"></script>
     <![endif]-->
     <!-- IE 7 Specific -->
     <!--[if IE 7]>
@@ -59,10 +58,10 @@
     
     <!-- END WEBSITE OPTIMIZER -->
     <script>var SM2_DEFER = true;</script>
-    <script src="/js/lib/adapter/ext/ext-base.js?1349388601" type="text/javascript"></script>
-    <script src="/js/lib/ext-all.js?1349388601" type="text/javascript"></script>
-    <script src="/js/global.js?1355856344" type="text/javascript"></script>
-    <script src="/js/privacy.js?1355856344" type="text/javascript"></script>
+    <script src="/js/lib/adapter/ext/ext-base.js?1365816533" type="text/javascript"></script>
+    <script src="/js/lib/ext-all.js?1365816533" type="text/javascript"></script>
+    <script src="/js/global.js?1372097271" type="text/javascript"></script>
+    <script src="/js/privacy.js?1372097273" type="text/javascript"></script>
     <script src="http://ajax.googleapis.com/ajax/libs/swfobject/2.2/swfobject.js" type="text/javascript"></script>
     <script src="http://www.kaltura.com/p/357521/sp/35752100/embedIframeJs/uiconf_id/2858382/partner_id/357521" type="text/javascript"></script>
       <link href="/css/privacyprint.css" type="text/css" rel="stylesheet" media="print">
@@ -74,13 +73,14 @@
       //Ready callback for Kaltura player
       function jsCallbackReady() {
           try {
-              document.getElementById('videoPlayerSwf').addJsListener("playerPlayEnd", "changeMedia");
+              document.getElementById("trailerTakeoverKaltura").addJsListener("playerPlayEnd", "trailerTakeoverComplete");
+              document.getElementById("videoPlayerSwf").addJsListener("playerPlayEnd", "changeMedia");
           } catch(e) {}
       }
     </script>
     
     <meta name="csrf-param" content="authenticity_token">
-<meta name="csrf-token" content="l+/rAXQ28USTNbkHyQgRJXiyK/uSCYOuTYgXFMdH1Lg=">
+<meta name="csrf-token" content="NtysLJNs6MLl+75mljclzZp2yCE3M/9bUnCUpQNVGYw=">
 
     <!-- Google Analytics -->
 <script type="text/javascript">
@@ -98,7 +98,21 @@
 </script>
     
 </head>
-<body>
+<body class="   ext-webkit ext-safari ext-safari4 ext-linux">
+
+<!-- Trailer Takeover -->
+<div id="trailerTakeover">
+    <div class="trailerContainer">
+        <div class="trailerTitle"></div>
+        <div class="trailerVideo" id="trailerTakeoverVideo">
+            <div id="trailerTakeoverKaltura"></div>
+            <iframe class="youtube-player" type="text/html" id="trailerTakeoverYouTube" frameborder="0" allowfullscreen=""></iframe>
+        </div>
+        <a href="/" class="trailerClose">Continue to WarnerBros.com »</a>
+    </div>
+</div>
+<!-- End Trailer Takeover -->
+
 <div id="mainContainer">
   <div id="logo">
       <a href="/"><img src="/images/wb_logo_white.png" alt="WarnerBros.com" title="WarnerBros.com"></a>
@@ -123,7 +137,7 @@
   </div>
 
   <!-- TOP NAV -->
-  <div id="topNav">
+  <div id="topNav" class="nocontent">
       <div id="mainmenubar">
           <ul class="btns">
               <li id="studioBtn" class="menuItem">
@@ -205,6 +219,15 @@
                       <li>
                           <a class="MenuLink" href="/wbpresents90/bestmusicals.html">Musicals</a>
                       </li>
+                      <li>
+                          <a class="MenuLink" href="/wbpresents90/bestromance.html">Romance</a>
+                      </li>
+                      <li>
+                          <a class="MenuLink" href="/wbpresents90/bestcomedy.html">Comedy</a>
+                      </li>
+                      <li>
+                          <a class="MenuLink" href="/wbpresents90/moviemadness.html">Movie Madness 2013</a>
+                      </li>
                   </ul>
               </li>
               <li id="shopBtn" class="menuItem last">
@@ -221,7 +244,7 @@
       </div>
   </div>
   <div id="columnContainer">
-    <div id="leftColumn">
+    <div id="leftColumn" class="nocontent">
         <div class="lightbg">
             <div class="lightheader">
                 <div class="title">ADDITIONAL INFORMATION</div>
@@ -337,7 +360,7 @@
 </div>
 
   <div class="clear"></div>
-  <div id="footer">
+  <div id="footer" class="noconent">
     <!--
     240 x 198 time new roman 10pt, arial regular 10pt
     963 x 60  arial regular 8pt
@@ -345,39 +368,48 @@
     <div id="links">
         <ul>
             <li id="allWBSites" class="headerColumn">
-                <p>ALL WB SITES</p>
+                <p>OTHER WB SITES</p>
                 <ul class="linkColumn">
                     <li>
                         <a class="FooterLink" href="http://www.wbshop.com/home.do?adid=wbportalfooter" target="_blank">WB Shop</a>
                     </li>
                     <li>
-                        <a class="FooterLink" href="http://www.thewb.com/?adid=wbpbottomnav" target="_blank">The WB</a>
+                        <a class="FooterLink" href="http://www.warnerbroscareers.com/?frompage=wbp_bottomnav" target="_blank">Careers</a>
                     </li>
                     <li>
-                        <a class="FooterLink" href="http://www.cwtv.com/?frompage=wbp_homepagebottomnav" target="_blank">The CW</a>
+                        <a class="FooterLink" href="http://www2.warnerbros.com/web/all/link/partner.jsp?url=http://www.dccomics.com/&amp;frompage=wbp_bottomnav" target="_blank">DC Comics</a>
+                    </li>
+                    <li>
+                        <a class="FooterLink" href="http://www.dvd2blu.com/?frompage=wbp_bottomnav" target="_blank">DVD2Blu</a>
+                    </li>
+                    <li>
+                        <a class="FooterLink" href="http://harrypotter.warnerbros.com/?frompage=wbp_bottomnav" target="_blank">Harry Potter</a>
                     </li>
                     <li>
                         <a class="FooterLink" href="http://www.kidswb.com/?frompage=wbp_bottomnav" target="_blank">KidsWB</a>
                     </li>
                     <li>
-                        <a class="FooterLink" href="http://www.warnerbroscareers.com/?frompage=wbp_bottomnav" target="_blank">Careers</a>
+                        <a class="FooterLink" href="http://www.motionpictureimaging.com/?frompage=wbp_bottomnav" target="_blank">MPI</a>
+                    </li>
+                    <li>
+                        <a class="FooterLink" href="https://www.outmywindow.com" target="_blank">out<b>my</b>window</a>
                     </li>
                     <li>
                         <a class="FooterLink" href="http://www2.warnerbros.com/wbsf/?frompage=wbp_bottomnav" target="_blank">Studio Facilities</a>
+                    </li>
+                </ul>
+                <ul class="headerColumn">
+                    <li>
+                        <a class="FooterLink" href="http://www.cwtv.com/?frompage=wbp_homepagebottomnav" target="_blank">The CW</a>
+                    </li>
+                    <li>
+                        <a class="FooterLink" href="http://www.thewb.com/?adid=wbpbottomnav" target="_blank">The WB</a>
                     </li>
                     <li>
                         <a class="FooterLink" href="http://www2.warnerbros.com/vipstudiotour/?frompage=wbp_bottomnav" target="_blank">VIP Studio Tours</a>
                     </li>
                     <li>
-                        <a class="FooterLink" href="http://www.wbspecialevents.com/?frompage=wbp_bottomnav" target="_blank">WB Special Events</a>
-                    </li>
-                    <li>
-                        <a class="FooterLink" href="http://www.motionpictureimaging.com/?frompage=wbp_bottomnav" target="_blank">MPI</a>
-                    </li>
-                </ul>
-                <ul class="headerColumn">
-                    <li>
-                        <a class="FooterLink" href="http://wbpostproduction.warnerbros.com/?frompage=wbp_bottomnav" target="_blank">WB Post Production</a>
+                        <a class="FooterLink" href="http://instant.warnerarchive.com/?adid=wbpbottomnav" target="_blank">Warner Archive Instant</a>
                     </li>
                     <li>
                         <a class="FooterLink" href="http://www.wbcitizenship.com/?frompage=wbp_bottomnav" target="_blank">WB Citizenship</a>
@@ -386,10 +418,10 @@
                         <a class="FooterLink" href="http://wbphotolab.warnerbros.com/?frompage=wbp_bottomnav" target="_blank">WB Photo Lab</a>
                     </li>
                     <li>
-                        <a class="FooterLink" href="http://harrypotter.warnerbros.com/?frompage=wbp_bottomnav" target="_blank">Harry Potter</a>
+                        <a class="FooterLink" href="http://wbpostproduction.warnerbros.com/?frompage=wbp_bottomnav" target="_blank">WB Post Production</a>
                     </li>
                     <li>
-                        <a class="FooterLink" href="http://www2.warnerbros.com/web/all/link/partner.jsp?url=http://www.dccomics.com/&amp;frompage=wbp_bottomnav" target="_blank">D.C. Comics</a>
+                        <a class="FooterLink" href="http://www.wbspecialevents.com/?frompage=wbp_bottomnav" target="_blank">WB Special Events</a>
                     </li>
                 </ul>
             </li>
@@ -397,51 +429,16 @@
                 <p>INTERNATIONAL SITES</p>
                 <ul class="linkColumn">
                     <li>
-                        <a class="FooterLink" href="http://wwws.ww.warnerbros.com/portal_uk/?frompage=wbp_bottomnav" target="_blank">U.K.</a>
+                        <a class="FooterLink" href="http://www.warnerbros.com.au/?frompage=wbp_bottomnav" target="_blank">Australia</a>
                     </li>
                     <li>
-                        <a class="FooterLink" href="http://www.la.warnerbros.com/web/main/homepage/homepage.jsp?frompage=wbp_bottomnav" target="_blank">Latin America</a>
-                    </li>
-                    <li>
-                        <a class="FooterLink" href="http://wwws.ww.warnerbros.com/portal_es/#?frompage=wbp_bottomnav" target="_blank">Spain</a>
-                    </li>
-                    <li>
-                        <a class="FooterLink" href="http://www.it.warnerbros.com/?frompage=wbp_bottomnav" target="_blank">Italy</a>
-                    </li>
-                    <li>
-                        <a class="FooterLink" href="http://wwws.ww.warnerbros.com/portal_de/#?fromwbp_bottomnav" target="_blank">Germany</a>
-                    </li>
-                    <li>
-                        <a class="FooterLink" href="http://www.warnerbros.fr/" target="_blank">France </a>
+                        <a class="FooterLink" href="http://www.be.warnerbros.com/?frompage=wbp_bottomnav" target="_blank">Belgium</a>
                     </li>
                     <li>
                         <a class="FooterLink" href="http://www.br.warnerbros.com/" target="_blank">Brazil</a>
                     </li>
                     <li>
-                        <a class="FooterLink" href="http://www.warnerbros.co.jp/main/homepage/homepage.html?frompage=wbp_bottomnav" target="_blank">Japan</a>
-                    </li>
-                    <li>
-                        <a class="FooterLink" href="http://wwws.ww.warnerbros.com/portal_no/?frompage=wbp_bottomnav" target="_blank">Norway</a>
-                    </li>
-                </ul>
-                <ul class="linkColumn">
-                    <li>
-                        <a class="FooterLink" href="http://www.be.warnerbros.com/?frompage=wbp_bottomnav" target="_blank">Belgium</a>
-                    </li>
-                    <li>
-                        <a class="FooterLink" href="http://www.nl.warnerbros.com/main/homepage/homepage.html?frompage=wbp_bottomnav" target="_blank">Netherlands</a>
-                    </li>
-                    <li>
-                        <a class="FooterLink" href="http://www.pt.warnerbros.com/web/main/homepage/homepage.jsp?frompage=wbp_bottomnav" target="_blank">Portugal</a>
-                    </li>
-                    <li>
                         <a class="FooterLink" href="http://www.warnerbroscanada.com/?frompage=wbp_bottomnav" target="_blank">Canada</a>
-                    </li>
-                    <li>
-                        <a class="FooterLink" href="http://www.warnerbros.com.au/?frompage=wbp_bottomnav" target="_blank">Australia</a>
-                    </li>
-                    <li>
-                        <a class="FooterLink" href="http://wwws.ww.warnerbros.com/portal_se/?frompage=wbp_bottomnav" target="_blank">Sweden</a>
                     </li>
                     <li>
                         <a class="FooterLink" href="http://wwws.ww.warnerbros.com/portal_dk/?frompage=wbp_bottomnav" target="_blank">Denmark</a>
@@ -449,25 +446,63 @@
                     <li>
                         <a class="FooterLink" href="http://wwws.ww.warnerbros.com/portal_fi/?frompage=wbp_bottomnav" target="_blank">Finland</a>
                     </li>
+                    <li>
+                        <a class="FooterLink" href="http://www.warnerbros.fr/" target="_blank">France </a>
+                    </li>
+                    <li>
+                        <a class="FooterLink" href="http://wwws.ww.warnerbros.com/portal_de/#?fromwbp_bottomnav" target="_blank">Germany</a>
+                    </li>
+                    <li>
+                        <a class="FooterLink" href="http://www.it.warnerbros.com/?frompage=wbp_bottomnav" target="_blank">Italy</a>
+                    </li>
+                </ul>
+                <ul class="linkColumn">
+                    <li>
+                        <a class="FooterLink" href="http://www.warnerbros.co.jp/main/homepage/homepage.html?frompage=wbp_bottomnav" target="_blank">Japan</a>
+                    </li>
+                    <li>
+                        <a class="FooterLink" href="http://www.la.warnerbros.com/web/main/homepage/homepage.jsp?frompage=wbp_bottomnav" target="_blank">Latin America</a>
+                    </li>
+                    <li>
+                        <a class="FooterLink" href="http://www.nl.warnerbros.com/main/homepage/homepage.html?frompage=wbp_bottomnav" target="_blank">Netherlands</a>
+                    </li>
+                    <li>
+                        <a class="FooterLink" href="http://wwws.ww.warnerbros.com/portal_no/?frompage=wbp_bottomnav" target="_blank">Norway</a>
+                    </li>
+                    <li>
+                        <a class="FooterLink" href="http://www.pt.warnerbros.com/web/main/homepage/homepage.jsp?frompage=wbp_bottomnav" target="_blank">Portugal</a>
+                    </li>
+                    <li>
+                        <a class="FooterLink" href="http://wwws.ww.warnerbros.com/portal_es/#?frompage=wbp_bottomnav" target="_blank">Spain</a>
+                    </li>
+                    <li>
+                        <a class="FooterLink" href="http://wwws.ww.warnerbros.com/portal_se/?frompage=wbp_bottomnav" target="_blank">Sweden</a>
+                    </li>
+                    <li>
+                        <a class="FooterLink" href="http://wwws.ww.warnerbros.com/portal_uk/?frompage=wbp_bottomnav" target="_blank">U.K.</a>
+                    </li>
                 </ul>
             </li>
             <li id="socialNetworks" class="headerColumn">
                 <p>SOCIAL NETWORKS</p>
                 <ul class="linkColumnWide">
                     <li>
-                        <a class="FooterLink" href="http://twitter.com/Warnerbrosent?frompage=wbp_bottomnav" target="_blank">WB Entertainment Twitter</a>
+                        <a class="FooterLink" href="http://www.facebook.com/warnerbrosent?frompage=wbp_bottomnav" target="_blank">Facebook: WB Entertainment</a>
                     </li>
                     <li>
-                        <a class="FooterLink" href="http://www.facebook.com/warnerbrosent?frompage=wbp_bottomnav" target="_blank">WB Entertainment Facebook</a>
+                        <a class="FooterLink" href="http://www.facebook.com/warnerarchive?frompage=wbp_bottomnav" target="_blank">Facebook: Warner Archive</a>
                     </li>
                     <li>
-                        <a class="FooterLink" href="http://www.youtube.com/user/WarnerBrosOnline?frompage=wbp_bottomnav" target="_blank">WB YouTube</a>
+                        <a class="FooterLink" href="http://pinterest.com/warnerbrosent?frompage=wbp_bottomnav" target="_blank">Pinterest: WB Entertainment</a>
                     </li>
                     <li>
-                        <a class="FooterLink" href="http://www.facebook.com/warnerarchive?frompage=wbp_bottomnav" target="_blank">Warner Archive Facebook</a>
+                        <a class="FooterLink" href="http://twitter.com/Warnerbrosent?frompage=wbp_bottomnav" target="_blank">Twitter: WB Entertainment</a>
                     </li>
                     <li>
-                        <a class="FooterLink" href="http://twitter.com/warnerbrostours?frompage=wbp_bottomnav" target="_blank">Studio Tours Twitter</a>
+                        <a class="FooterLink" href="http://twitter.com/warnerbrostours?frompage=wbp_bottomnav" target="_blank">Twitter: Studio Tours</a>
+                    </li>
+                    <li>
+                        <a class="FooterLink" href="http://www.youtube.com/user/WarnerBrosOnline?frompage=wbp_bottomnav" target="_blank">YouTube: WB Entertainment</a>
                     </li>
                 </ul>
             </li>
@@ -510,7 +545,7 @@
     </div>
     <div class="clear"></div>
     <div id="copyright">
-        <p>TM &amp; © 2012 Warner Bros. Entertainment Inc. All rights reserved</p>
+        <p>TM &amp; © 2013 Warner Bros. Entertainment Inc. All rights reserved</p>
     </div>
   </div>
 </div>
@@ -529,7 +564,7 @@ gwoTracker._trackPageview("/2833221967/test");
 <!-- SiteCatalyst code version: H.20.3.
 Copyright 1997-2009 Adobe, Inc. More info available at
 http://www.Adobe.com -->
-<script src="/js/lib/omniture/s_code_wbcom.js?1349388601" type="text/javascript"></script>
+<script src="/js/lib/omniture/s_code_wbcom.js?1365816533" type="text/javascript"></script>
 <script language="JavaScript" type="text/javascript"><!--
 /* You may give each page an identifying name, server, and channel on
 the next lines. */
