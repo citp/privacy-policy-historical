@@ -1,0 +1,111 @@
+> *The following text is extracted and transformed from the pointshound.com privacy policy that was archived on 2013-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130629021421id_/https%3A//pointshound.com/terms) for the most accurate reproduction.*
+
+# PointsHound
+
+#### Terms used in this Agreement
+
+The terms "we", "us", and "our" refer to Accruity Inc, a Delaware Corporation and/or our subsidiaries and corporate affiliates. The term "you" refers to the customer visiting the Website and/or booking a reservation through us on this Website, or through our customer service agents. 
+
+#### Purpose of this Website
+
+This Website is provided solely to assist you to gather travel information, determine the availability of travel-related goods and services, make legitimate reservations or otherwise transacting business with travel suppliers, and for no other purposes. 
+
+This Website is offered to you conditional upon your acceptance without modification of all the terms, conditions, and notices set forth below (collectively, the "Agreement"). By accessing or using this Website in any manner, you agree to be bound by this Agreement. To the extent you book any travel-related products or services on this Website through call center agents, you agree that this Agreement shall apply to all such transactions. Please read the Agreement carefully. If you do not accept all of these terms and conditions, please do not use this Website. 
+
+Be sure to return to this page periodically to review the most current version of the Agreement. We reserve the right at any time, at our sole discretion, to change or otherwise modify the Agreement without prior notice, and your continued access or use of this Website signifies your acceptance of the updated or modified Agreement. 
+
+#### Use of the Website
+
+As a condition of your use of this Website, you warrant that (i) you are at least 18 years of age; (ii) you possess the legal authority to create a binding legal obligation; (iii) you will use this Website in accordance with this Agreement; (iv) you will only use this Website to make legitimate reservations for you or for another person for whom you are legally authorized to act; (v) you will inform such other persons about the terms and conditions that apply to the reservations you have made on their behalf, including all rules and restrictions applicable thereto; and (vi) all information supplied by you on this Website is true, accurate, current and complete. We retain the right at our sole discretion to deny access to anyone to this Website and the services we offer, at any time and for any reason, including, but not limited to, for violation of this Agreement. 
+
+#### Prohibited Activities
+
+The content and information on this Website (including, but not limited to, price and availability of travel services), as well as the infrastructure used to provide such content and information, is proprietary to us or our suppliers and providers. While you may make limited copies of your travel itinerary (and related documents) for travel or services booked through this Website, you agree not to otherwise modify, copy, distribute, transmit, display, perform, reproduce, publish, license, create derivative works from, transfer, or sell or re-sell any information, software, products, or services obtained from or through this Website. Additionally, you agree not to: 
+
+  * use this Website or its contents for any commercial purpose; 
+  * make any speculative, false, or fraudulent claims about your membership to any loyalty rewards program make any speculative, false, or fraudulent reservation or any reservation in anticipation of demand; 
+  * access, monitor or copy any content or information of this Website using any robot, spider, scraper or other automated means or any manual process for any purpose without our express written permission;
+  * violate the restrictions in any robot exclusion headers on this Website or bypass or circumvent other measures employed to prevent or limit access to this Website; 
+  * take any action that imposes, or may impose, in our discretion, an unreasonable or disproportionately large load on our infrastructure; 
+  * deep-link to any portion of this Website (including, without limitation, the purchase path for any travel services) for any purpose without our express written permission; 
+  * or "frame", "mirror" or otherwise incorporate any part of this Website into any other website without our prior written authorization.
+
+
+
+#### Supplier rules and restrictions
+
+Additional terms and conditions will apply to your reservation and purchase of travel-related goods and services that you select. Please read these additional terms and conditions carefully. You agree to abide by the terms and conditions of purchase imposed by any supplier and loyalty rewards program with whom you elect to deal, including, but not limited to, payment of all amounts when due and compliance with the supplier's rules and restrictions regarding availability and use of fares, products, or services. 
+
+#### PointsHound Signup Bonuses
+
+PointsHound may provide PointsHound members with Sign-up bonuses when members join PointsHound ("Sign-up Bonuses") with a confirmed email address. Sign-up bonuses are granted at PointsHound's sole discretion and only one Sign-up Bonus is allowed per member. In order for a member to be eligible to receive Sign-up Bonuses new member must join PointsHound via a qualifying sign-up link. Sign-up Bonuses can only claimed when the new member assigns a loyalty program with a valid loyalty program account number to the Sign-up Bonus through their My Accounts page. For some loyalty programs it may take up 30 days from friends' hotel checkout date for miles or points associated with Sign-up Bonuses to post to members' loyalty rewards program account. Sign-up Bonuses do not have a cash value, and you may only use a Sign-up Bonus in connection with a confirmed account on the PointsHound website. PointsHound reserves the right to revoke your Sign-up Bonus if PointsHound determines that you have engaged in fraudulent Sign-up activity (e.g. using or creating fake email addresses with which to join PointsHound) or otherwise violated our Terms of Use, or if we terminate your membership. Sign-up Bonuses expire 12 months after they are granted. Sign-up Bonuses are not transferable or sellable, and are not gift cards. PointsHound reserves the right at any time without notice to you to change the terms applicable to the Sign-up Bonuses, including expiration period and/or your ability to redeem existing Sign-up Bonuses, PointsHound does not impose any fee on your use of Sign-up Bonuses. To see your Sign-up Bonuses, click on your [My account](https://web.archive.org/account) page. 
+
+#### PointsHound Referral Bonus
+
+PointsHound may provide PointsHound members with referral bonuses when members invite their friends to join PointsHound ("Referral Bonuses"). Referral Bonuses may be awarded to the referrer when her friends complete their first reservation purchased on PointsHound.com (e.g. checks-out of their hotel reservation). Referral bonuses are granted at PointsHound's sole discretion. In order for a member to be eligible to receive Referral Bonuses for friends booking with PointsHound, the new friend must join PointsHound via the referring member's unique referral link. Referral Bonuses can only claimed when the referrer assigns a loyalty program with a valid loyalty program account number to the Referral Bonus through their My account page. For some loyalty programs it may take up 30 days from friends' hotel checkout date for miles or points associated with Referral Bonuses to post to referrer's loyalty rewards program account. Referral Bonuses do not have a cash value, and you may only use Referral Bonuses in connection with a qualifying purchase on the PointsHound website. PointsHound reserves the right to revoke your Referral Bonuses if PointsHound determines that you have engaged in fraudulent referral activity (e.g. inviting fake people to join PointsHound) or otherwise violated our Terms of Use, or if we terminate your membership. Referral Bonuses expire 12 months after they are granted. Referral Bonuses are not transferable or sellable, and are not gift cards. PointsHound reserves the right at any time without notice to you to change the terms applicable to the Referral Bonuses, including expiration period and/or your ability to redeem existing Referral Bonuses, PointsHound does not impose any fee on your use of Referral Bonuses. To see your Referral Bonuses, click on your click on your [My account](https://web.archive.org/account) page. 
+
+#### PointsHound Member Levels
+
+PointsHound may provide PointsHound members with Levels that correspond to a member's transaction history and other interactions with PointsHound.com ("Member Levels"). Higher Member Levels typically earn points/miles at higher rates. Member Levels and benefits associated with Member Levels are granted at PointsHound's sole discretion. In general, a member must book at least five room nights with in a six month period in order to be eligible for a Member Level advancement. PointsHound reserves the right to revoke your Member Level if PointsHound determines that you have engaged in fraudulent booking activity (e.g. making fake reservations ) or otherwise violated our Terms of Use, or if we terminate your membership. Member Levels expire six months after they are granted. PointsHound reserves the right at any time without notice to you to change the terms applicable to the Member Levels, including expiration period and/or accrual rates at exiting Member Levels. To see your Member Level, click on your [My account](https://web.archive.org/account) page. 
+
+### Privacy Policy
+
+We promise never to sell or rent any of your personal information without your prior consent. Your trust and confidence are our highest priority.
+
+#### Terms used in this Agreement
+
+The terms "we", "us", and "our" refer to Accruity Inc, a Delaware Corporation and/or our subsidiaries and corporate affiliates. The term "you" refers to the customer visiting the Website and/or booking a reservation through us on this Website, or through our customer service agents. 
+
+#### Information we collect from you
+
+When you make a booking, we ask for the basics - including your name, email address and a password as well as your billing and delivery information. This information is shared with our fulfillment partners so that they can provide you with post-booking support. This information is not used for any other purpose besides servicing your purchase with us. 
+
+For all site visitors we collect information such as IP addresses, browser type, domain names, access times, duration of visit, referring URL, platform, new/repeat information, timestamp and exit page information. One of the uses for which this data is gathered is for statistical purposes so that we may analyze trends and performances over time. PointsHound.com uses third-party service providers to help us gather and analyze information about our customers. These service providers are contractually restricted from using your information in any manner, other than in helping us to provide you with the products and services available on our Site. 
+
+#### How your information is used
+
+The data we gather is used to process your booking, notify you of your booked travel itineraries, contact you if problems arise (e.g., your flight is changed or cancelled by the airline) and, if you have selected to receive them, send you marketing messages. All data is saved in a secure environment. 
+
+#### How your information is protected
+
+PointsHound.com maintains data handling and storage practices and procedures that are designed to ensure the integrity and confidentiality of customer information. When you book a reservation, you are doing so in a safe and secure environment. Credit card information is transmitted online using industry standard security measures called secure socket layer encryption (SSL). Current Internet security methods and technologies are used to prevent unauthorized access, maintain data accuracy and ensure correct use of information. These safeguards are expressly implemented for the purpose of protecting your information. 
+
+#### When we may share your information
+
+When you book with PointsHound.com, the personal information you provide will be shared with the third parties necessary to ensure the completion of your booking. This includes the hotel supplier and loyalty rewards partner, with whom your itinerary is booked, as well as any third parties responsible for facilitating the transaction (e.g., credit card authorization company, fulfillment agency etc.). The personal information provided to the third parties will not be used for any purpose other than the completion of your travel arrangements and points accrual. 
+
+PointsHound.com will also share your information with business firms contracted to provide specific services to us, in a manner consistent with this Privacy Policy. For instance, if PointsHound.com were to send out promotional emails to users who opt-ed-in on our site, we may choose to hire an email administration firm to handle the promotion. In situations such as this where your data is shared with a third-party firm, these firms are contractually obligated to only use your personal data for the purpose for which the relationship exists. These firms do not have the right to share your data with other organizations or contact you outside the bounds of their contract with us. From time to time, we may share general statistical information about our Site and visitors - such as number of visitors, aggregate and non-personally identifiable demographic data, number and type of goods and services booked, etc. - with our advertisers and partners. However, we do not reveal your name, address or other personal data for anything other than the use it was originally intended without giving you the opportunity to opt out. 
+
+PointsHound.com may disclose information about you to others if we have a good-faith belief that we are required to do so by law or legal process, to respond to claims, or to protect the rights, property, or safety of PointsHound.com or others. This includes, but is not limited to, customer fraud, technical malfunctions, or abuse of our network or systems. We also may provide customer information to third parties, such as credit card companies, for the purpose of resolving disputes that arise in the normal course of business. Except as otherwise stated above, PointsHound.com will not disclose your personal information with any third party without your consent. PointsHound.com is not responsible for information collection and privacy practices of third-party sites that are accessed via links from any PointsHound.com Site. 
+
+#### Email communication you may choose to share with us
+
+Once you complete and submit your registration you have opted-in to receive email communication from us. You may opt-out at any time. Opted-in, you will receive communication from us we believe will be of use and interest to you. For example: 
+
+  * We update you on any important functionality changes to our Site via email.
+  * We keep you informed about travel deals, sweepstakes, programs, etc., and other special promotions that we think you will find valuable.
+
+
+
+From time to time, we may ask you to fill out optional personal profiles that will shape our future offers and promotions.  
+With the exception of emails confirming registration, and emails relating directly to a booking made on our site, PointsHound.com will not send you any postal mail or emails unless you elect to receive communications from us. If you are no longer interested in receiving communications from PointsHound.com, our emails include instructions on how to unsubscribe yourself from our email list. 
+
+#### Cookies
+
+A cookie is a unique identifier sent to your computer by a Web server and stored on your computer's hard drive. A cookie lets a computer server identify your computer. At PointsHound.com, we use cookies to improve your shopping experience and reduce the time it takes for you to complete a booking. Our cookies do not include any sensitive information, but they do help us track which of our Web pages are visited and what services are most often used. Please note that in order to use our Site, your Web browser must be configured to accept cookies. You can rest assured, however, that due to the way the technology of the Internet works, PointsHound.com does not and cannot use cookies to retrieve personal information from your computer. 
+
+#### Third-party advertising
+
+From time to time, PointsHound.com may use a third-party advertising company to serve advertising on our behalf. Through the use of technology devices - commonly referred to as cookies and action tags - this third-party ad-serving company can measure the effectiveness of our ads. PointsHound.com does not have access to the third-party company's cookies, which are similar to our own cookies. The company employs an action tag - also known as a Web Beacon or a one-pixel .gif file - to set or read cookies. PointsHound.com’ third-party ad server will also receive specific information about your order, such as the order number and product category. Rest assured that this shared information is anonymous and does not contain any sensitive information. The company may use information about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. 
+
+#### Mergers / Acquisitions
+
+In the event that PointsHound.com or substantially all of PointsHound.com’ assets are acquired, customer information may be transferred to PointsHound.com' successor company. In the event such a transfer occurs, your personal information will be subject to the same protection as it was prior to the transfer. 
+
+#### Children
+
+Children are not eligible to use our services and we ask that minors (anyone under the age of 18) not submit any personal information to us. PointsHound.com does not knowingly collect personal information from anyone under the age of 18 or permit them to use our Site. 
+
+#### International Users - Applicable Law
+
+PointsHound.com collects, processes, stores, discloses and disposes of personal information that you submit to us in accordance with applicable United States law. Please note that the personal information you submit to our Site will be transferred to the United States to be processed by PointsHound.com in order to provide this Site and its services to you or for such other purposes as set forth in this Privacy Policy. If you are not a resident of the United States, you acknowledge and agree that we may collect and use your personal information, as discussed in this privacy policy, outside your resident jurisdiction. In addition, we may store such personal information in the United States, outside your resident jurisdiction. In particular, you are advised that the United States uses a sectoral model of privacy protection that relies on a mix of legislation, governmental regulation and self-regulation. Please be aware that United States law may offer different levels of protection for personal information than may be available in your country. 
