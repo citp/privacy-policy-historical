@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the accessplace.com privacy policy that was archived on 2012-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121212165322id_/http%3A//www.accessplace.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the accessplace.com privacy policy that was archived on 2013-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130629110700id_/http%3A//www.accessplace.com/privacy.htm) for the most accurate reproduction.*
 
 # AccessPlace privacy policy, personal user data, third party sites, children and user consent
 
 ## Privacy
 
-At AccessPlace we respect the privacy of our users and follow a strict privacy policy. This Privacy Policy is applicable to any personal information which we may receive via the web site located at AccessPlace, and is devised to help you feel more confident about the privacy and security of your personal details. Be assured that the information you share with AccessPlace is kept strictly confidential and fully secure, and that AccessPlace will never misuse this information. If you have any questions or concerns about this statement, please contact us at [info@accessplace.com](mailto:info@accessplace.com).
+At AccessPlace we respect the privacy of our users and follow a strict privacy policy. This Privacy Policy is applicable to any personal information which we may receive via the web site located at AccessPlace, and is devised to help you feel more confident about the privacy and security of your personal details. Be assured that the information you share with AccessPlace is kept strictly confidential and fully secure, and that AccessPlace will never misuse this information.
 
 The following discloses our information gathering and dissemination practices for AccessPlace. 
 
@@ -42,12 +42,8 @@ It is an AccessPlace policy that we will not disclose personally identifiable in
 
 We welcome users of all ages to our content and services. If you are under the age of thirteen (13), we do, however, specifically request that you have the permission of your parents or legal guardian to view any content at AccessPlace and to take part in any and all services we offer, as we cannot and will not be held responsible for any information received or disclosed by our users. 
 
-## Notes to Parents
-
-We respect that you may wish to monitor the content and services your child uses on the Internet. If you wish for your child to be removed from any and/or all AccessPlace services, please send an email specifically requesting your wish to [info@accessplace.com](mailto:info@accessplace.com). Please note, however, that while we will subsequently use our best endeavours to prevent your child from using our services, we cannot and will not be held responsible for access to our services your child may subsequently gain, as this is out of our control. 
-
 ## User Consent
 
 By using our Web site, you consent to the collection and uses of the information detailed here. Any changes in our Privacy Policy will appear on this page so you are aware of what we collect and how we use it. 
 
-If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact [info@accessplace.com](mailto:info@accessplace.com).
+If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can [contact us](http://www.accessplace.com/about.htm#contact).
