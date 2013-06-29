@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the grabone.co.nz privacy policy that was archived on 2012-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121225021910id_/http%3A//www.grabone.co.nz/legal/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the grabone.co.nz privacy policy that was archived on 2013-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130629032646id_/http%3A//www.grabone.co.nz/legal/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy – GrabOne
 
