@@ -1,10 +1,30 @@
-> *The following text is extracted and transformed from the ingdirect.co.uk privacy policy that was archived on 2012-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121205131603id_/http%3A//www.ingdirect.co.uk/home/privacypolicy.asp%3Fsection%3Dhome) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ingdirect.co.uk privacy policy that was archived on 2013-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130630004919id_/http%3A//www.ingdirect.co.uk/home/privacypolicy.asp%3Fsection%3Dhome) for the most accurate reproduction.*
 
-# Privacy Policy > About ING Direct > ING Direct
+# Barclays Direct, Formerly I N G Direct
 
 ## Website privacy policy 
 
 The privacy of our website users is important to us and we take care to safeguard it. This policy explains how we use the personal information we hold about you. Click on the links below to navigate to the relevant section. 
+
+**Important information**
+
+**Queries**
+
+If you have privacy questions which are not answered by this Website Privacy Policy or any other concerns about how we use your personal information, please write to us or contact Customer Services on **0845 603 8888.**
+
+**Changes**
+
+Our Website Privacy Policy is regularly reviewed to make sure that we continue to serve your privacy interests. We reserve the right to modify or otherwise update this privacy policy and these changes will be posted on our website. We encourage you to visit this page from time to time to ensure that you are aware of any changes we may have made. 
+
+**Processing applications and providing services to you**
+
+If you apply for or use our products, we will also use your personal information in accordance with the following:
+
+  * [ING Direct Savings and Your Personal Information](https://web.archive.org/home/tandc/savings_fpn.pdf "ING Direct Savings and Your Personal Information")
+  * [ING Direct Mortgages and Your Personal Information](https://web.archive.org/home/tandc/personal_info_mortgage.pdf "ING Direct Mortgages and Your Personal Information")
+  * [ING Direct Business Savings and Your Personal Information](https://web.archive.org/home/tandc/business_fpn.pdf "ING Direct Business Savings and Your Personal Information")
+
+
 
 **Where we obtain your information from**
 
@@ -18,7 +38,7 @@ The information we collect via this website may also include your IP address (th
 
 **Cookies**
 
-For  information on how we use cookies and similar technologies on this website, please see our [Cookie  policy](https://web.archive.org/web/20121205131603id_/http%3A//www.ingdirect.co.uk/home/cookiepolicy.asp)
+For  information on how we use cookies and similar technologies on this website, please see our [Cookie  policy](https://web.archive.org/web/20130630004919id_/http%3A//www.ingdirect.co.uk/home/cookiepolicy.asp)
 
 Back to the top
 
@@ -43,15 +63,6 @@ We may share personal information about you with:
 
 
 
-We will not pass your information to anyone outside ING Direct N.V. other than for the purposes described above, unless:
-
-  * we have your permission; 
-  * we have to do so or are allowed to do so by law; 
-  * we have a duty to the public to reveal the information; or 
-  * our interests mean we must give the information - for example, to prevent fraud (we will not use this as a reason for giving information about you to anyone else for marketing purposes). 
-
-
-
 **Other websites**
 
 This privacy policy is only intended to cover personal data collected through this website.  While we carefully select the websites which we link to, we are not responsible for the privacy practices or the contents of these websites. 
@@ -67,7 +78,7 @@ Back to the top
 You have a right to receive a copy of certain information we hold about you if you apply in writing.  To do this, simply write to us at 
 
 Data Protection Officer   
-ING Direct   
+Barclays Direct   
 410 Thames Valley Park Drive   
 Reading   
 Berkshire   
