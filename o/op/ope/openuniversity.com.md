@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the openuniversity.com privacy policy that was archived on 2012-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121108165224id_/http%3A//www.open.ac.uk/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the openuniversity.com privacy policy that was archived on 2013-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130629163905id_/http%3A//www.open.ac.uk/privacy) for the most accurate reproduction.*
 
 # Website privacy at the OU | About the OU | Open University
 
@@ -19,7 +19,7 @@ Milton Keynes,
 MK7 6AT.   
 E-mail [data-protection@open.ac.uk](mailto:data-protection@open.ac.uk).
 
-[See Data Protection policy.](http://www3.open.ac.uk/our-student-policies/pdf/dataprotection.pdf)
+[See Data Protection policy.](http://www8.open.ac.uk/students/essential-documents/files/essential-docs-pl/file/ecms/web-content/data-protection.pdf)
 
 ## How we use personal information
 
