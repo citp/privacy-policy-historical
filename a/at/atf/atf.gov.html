@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the atf.gov privacy policy that was archived on 2012-12-27.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121227143431id_/http%3A//www.justice.gov/privacy-file.htm) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the atf.gov privacy policy that was archived on 2013-06-29.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130629101753id_/http%3A//www.justice.gov/privacy-file.htm) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" lang="en"><head>
 		<title id="PageTitle">USDOJ: Privacy Policy</title>
@@ -30,21 +30,55 @@
 		<div class="bdywrpr">
 			<!-- start header -->
 			<div class="hdrwrpr">
-				
-
+				<script type="text/javascript" src="/jquery-1.9.1.min.js"></script>
 <!--[if lt IE 7]>
 <link rel="stylesheet" href="/ltie7.css" type="text/css" />
 <![endif]-->
 <script type="text/javascript" src="/scripts/federated-analytics.js"></script>
-		<script type="text/javascript" src="/jquery-1.2.6.min.js"></script>
-        <script type="text/javascript" src="/jqfunctions.js"></script>
+<script type="text/javascript" src="/jqfunctions.js"></script>
+<script type="text/javascript" src="/redirection-mobile.js"></script>
+<script type="text/javascript" language="Javascript">
+	SA.redirection_mobile({
+		beforeredirection_callback : (function() {
+			var android = navigator.userAgent.match(/Android/i);
+			var iphone = navigator.userAgent.match(/iPhone/i);
+			var berry = navigator.userAgent.match(/BlackBerry/i);
+			var windows = navigator.userAgent.match(/Windows Phone/i);
+			var url = window.location.pathname;
 		
-        
+			var sessionCheck = false;
+			if(window.sessionStorage) {
+				sessionCheck = window.sessionStorage.getItem("mobile_redirect");
+			}
+			else {
+				sessionCheck = document.cookie ? document.cookie.indexOf("mobile_redirect") >= 0 : true;
+			}
+			if((berry || iphone || android || windows) && sessionCheck != "false") {
+				if(url.match("/ag/") || url.match("/agencies/") || url.match("/careers/") || url.match("accessibility_info") || url.match("opa/pr") || url.match("/actioncenter/") || url.match("contact-us") || url.match("privacy-file") || url.match("legalpolicies") || url.match("accessibility_info") || url == "/") {
+					return true;
+				}
+				else {
+					if (window.sessionStorage) {
+						window.sessionStorage.setItem("mobile_redirect", "false");
+					} else {
+						var exdate = new Date();
+						exdate.setTime(exdate.getTime() + (3600*1000));
+						document.cookie = "mobile_redirect=false;expires="+exdate.toUTCString();
+					}
+					return false;
+				}
+			}
+		}),
+		keep_path : true
+	});
+</script>
+       
 <!--[if lt IE 7]>	
 <script type="text/javascript">
 
 onLoadFunctions = function() {
 	mainNav();
+	setMobileButton();
 }
 
 window.onload=onLoadFunctions;
@@ -165,7 +199,7 @@ window.onload=onLoadFunctions;
 					<a href="/opa/justicenews.php">Justice News</a>
 				</li>
 				 <li>
-					<a href="http://blogs.usdoj.gov/blog/">The Justice Blog</a>
+					<a href="http://blogs.justice.gov/blog/">The Justice Blog</a>
 				</li>
 				<li>
 					<a href="/video.php">Videos</a>
@@ -187,13 +221,14 @@ window.onload=onLoadFunctions;
 					<a href="/careers/legal/">Legal Careers</a>
 				</li>
 				<li>
-					<a href="/careers/student-opportunities.html">Student Opportunities</a>
+					<a href="/careers/student_programs.html">Interns, Recent Graduates, and Fellows</a>
 				</li>
 				<li>
 					<a href="/careers/diversity-policy.html">Diversity Policy</a>
 				</li>
+			
 				<li>
-					<a href="/06employment/06-3.html">Internships</a>
+					<a href="/careers/veterans/">Veteran Recruitment</a>
 				</li>
 			</ul>
 			<div class="clear">&nbsp;</div>
@@ -333,7 +368,12 @@ We   believe in the importance of protecting the privacy of children online   an
 <!-- Action Center Box Starts-->
 <div class="actioncenter">
 <p><img src="/images/action-center.jpg" alt="Department of Justice Seal - Department of Justice Action Center"></p>		 
-<p><a href="/actioncenter/crime.html">Report a Crime</a></p>
+<p><a href="/actioncenter/crime.html">Report a Crime</a>
+<!--<div style="margin-left:15px;">Boston Explosions<br />
+FBI Tip Line<br />
+1-800-CALL-FBI <br /> 
+ <a href="mailto:Boston@ic.fbi.gov">Boston@ic.fbi.gov</a><br /></div>-->
+</p>
 <p><a href="/careers/careers.html">Get a Job</a></p>
 <p><a href="/actioncenter/inmate.html">Locate a Prison, Inmate, or Sex Offender</a>	</p>
 <p><a href="/10grants/">Apply for a Grant</a>	</p>
@@ -345,14 +385,14 @@ We   believe in the importance of protecting the privacy of children online   an
 <p><a href="/actioncenter/most-wanted-fugitives.html">Identify Our Most Wanted Fugitives</a></p>
 <p><a href="/forms/dojform.php">Find a Form</a></p>
 <p><a href="/actioncenter/missing-person.html">Report and Identify Missing Persons</a></p>		
-<p><a href="/contact-us.html">Contact Us</a>	</p>
+<p><a href="/contact-us.html">Contact Us</a></p>
+
 <br>
 </div>
 
-<!-- Recovery Act Box -->
-<div class="recoverybox">
-<a id="recoverybox" href="/recovery/" title="The Recovery Act and the Department of Justice- learn about our efforts to jumpstart the economy"><span> Recovery Act</span></a>
-</div>
+<a href="/usao/"><img border="0" src="/images/usao.jpg" alt="Office of the United States Attorneys"></a>
+
+
 
 <!-- New Stay Connected Box -->
 <div class="stayconnectedNew">
@@ -395,10 +435,15 @@ preloadFlag = true;
 
 </div>
 <!-- end stay connected box -->
+
+
+
+
 </div>
 
 <div id="shadowFilter" class="blockout" style="display:none;"></div>
 <div id="exitMsg" class="exitMsg" style="display:none;"></div>
+
 
 
 
@@ -432,7 +477,10 @@ preloadFlag = true;
           <td valign="top" width="55%" align="left"><div class="footerlinksbreak"> <a href="/employees/index.html">For Employees </a></div>
             <div class="footerlinks"> <a href="/oig/">Office of the Inspector General</a> </div>
             <div class="footerlinks1"> <a href="/05publications/other_government_resources.html">Government Resources</a></div>
-            <div class="footerlinksbreak"> <a href="http://www.usa.gov/">USA.gov</a> </div></td>
+            <div class="footerlinksbreak"> <a href="http://www.usa.gov/">USA.gov</a> </div>
+			<div class="footerlinksbreak"> <a href="http://business.usa.gov/">BusinessUSA</a> </div>
+			
+			</td>
         </tr>
         <tr>
           <td colspan="4">&nbsp;</td>
@@ -469,9 +517,9 @@ preloadFlag = true;
     <td width="20" valign="top">&nbsp;</td>
     <td valign="top" align="left"><strong><a href="/careers/careers.html">CAREERS</a></strong><br>
       <div class="footermenu1"> <a href="/careers/legal/">Legal Careers</a> </div>
-      <div class="footermenu1"> <a href="/careers/student-opportunities.html">Student Opportunities</a> </div>
+      <div class="footermenu1"> <a href="/careers/student_programs.html">Interns, Recent Graduates, and Fellows</a></div>
       <div class="footermenu1"> <a href="/careers/diversity-policy.html">Diversity Policy</a> </div>
-      <div class="footermenu2"> <a href="/06employment/06-3.html">Internships</a> </div>
+      <div class="footermenu2"> <a href="/careers/veterans/">Veteran Recruitment</a> </div>
       <hr width="80%" size="1px" style="color:#46494C; background-color:#46494C;" align="left">
       <div class="footermenu3"><strong><a href="/contact-us.html">CONTACT</a></strong></div></td>
   </tr>
