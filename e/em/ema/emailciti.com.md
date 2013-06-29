@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the emailciti.com privacy policy that was archived on 2012-09-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120906013807id_/http%3A//www.emailciti.com/inner/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the emailciti.com privacy policy that was archived on 2013-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130629202955id_/http%3A//emailciti.com/privacy-policy.html) for the most accurate reproduction.*
 
-# Emailciti
+# Privacy Policy - EmailCiti
 
 EmailCiti is committed to protecting the privacy of our members and Partners members. Because we have taken steps to ensure that high standards of data collection and protection are adhered to globally for all the forms of data processing mentioned below. This statement outlines our privacy and data protection policy. 
 
@@ -17,15 +17,15 @@ This information is collected to help us:
   * Ensure, as far as is practical, that our websites and applications are compatible with the browsers and operating systems used by most of our visitors
   * Xonduct member satisfaction, commercial research surveys
   * And, if you allow us to*, we may also:
-    * Tell you about additional products and services from third party or by any of our clients/advertisers.
-    * tell you about other promotional activities across EmailCiti Network of companies or other companies with whom we have a business relationship
-    * Invite you to participate in market research and surveys
-    * Please indicate your privacy preferences using the order, registration or subscription form when ordering, purchasing, registering or subscribing.
+  * Tell you about additional products and services from third party or by any of our clients/advertisers.
+  * tell you about other promotional activities across EmailCiti Network of companies or other companies with whom we have a business relationship
+  * Invite you to participate in market research and surveys
+  * Please indicate your privacy preferences using the order, registration or subscription form when ordering, purchasing, registering or subscribing.
   * We also use your information for in-house research and analysis. This helps us to:
-    * Improve our understanding of members needs
-    * Create marketing profiles
-    * Support strategic development
-    * To enable us to conduct research we may share your information with third party suppliers employed to help. All results of any research and analysis will be anonymized or aggregated information and will not reveal any personal details of individual customers.
+  * Improve our understanding of members needs
+  * Create marketing profiles
+  * Support strategic development
+  * To enable us to conduct research we may share your information with third party suppliers employed to help. All results of any research and analysis will be anonymized or aggregated information and will not reveal any personal details of individual customers.
 
 
 
@@ -41,16 +41,16 @@ A cookie is a small file which is placed on your hard drive when you visit any o
   * You can delete cookies from your hard drive at any time. Bear in mind, though, that if you delete them, any settings such as your stored username and password will have to be reset when you next log in.
   * You will be able to use our emails, newsletters and applications even if your browser is not set to accept cookies. However, certain features and content may not be available to you and you will have to log in every time you visit.
   * If you specifically do not wish us to collect cookie information for the purpose of content and behavioral targeted advertising, you can "opt out" by following the instructions at at your email Opt Out link.
-  * Further information on the use of cookies can be found at: [www.cookiecentral.com/faq.](https://web.archive.org/web/20120906013807id_/http%3A//www.emailciti.com/www.cookiecentral.com/faq)
+  * Further information on the use of cookies can be found at: [www.cookiecentral.com/faq.](http://www.cookiecentral.com/faq)
 
 
 
 **E-mails**
 
-EmailCiti, partners/publisher and affiliate uses reputable third parties to deliver the e-mails you receive if you have subscribed to e-mail newsletters, or have chosen to receive information about EmailCiti and or any of their partners products, services and offers. These third parties use unique identifiers and invisible images (often called "pixel tags" or "clear GIFs") to perform message open sensing, message format sensing, and click-through sensing in order to bring you more relevant information. To find out more about the technologies used in these e-mails sent on our behalf, please visit Silver Pop Privacy policy. Content and some ad services in these e-mails are provided by EmailCiti servers or by a third party.   
-For advertisements appearing on in our digital emails, publisher and affiliate Sites, applications& web forms, we may share anonymised information regarding advertisement viewing patterns with our advertisers, but will not reveal any personal details of individual customers. 
+EmailCiti, partners/publisher and affiliate uses reputable third parties to deliver the e-mails you receive if you have subscribed to e-mail newsletters, or have chosen to receive information about EmailCiti and or any of their partners products, services and offers. These third parties use unique identifiers and invisible images (often called "pixel tags" or "clear GIFs") to perform message open sensing, message format sensing, and click-through sensing in order to bring you more relevant information. To find out more about the technologies used in these e-mails sent on our behalf, please visit Silver Pop Privacy policy. Content and some ad services in these e-mails are provided by EmailCiti servers or by a third party.  
+For advertisements appearing on in our digital emails, publisher and affiliate Sites, applications < web forms, we may share anonymised information regarding advertisement viewing patterns with our advertisers, but will not reveal any personal details of individual customers.
 
-**External links**
+ **External links**
 
 Our Email shots and newsletter may, from time to time, contain links to external sites. EmailCiti is not responsible for the privacy policies or the content of such sites and we recommend that you read the privacy policies on any external sites you use. 
 
