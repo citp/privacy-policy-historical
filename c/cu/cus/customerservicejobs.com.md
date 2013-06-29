@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the customerservicejobs.com privacy policy that was archived on 2012-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121227134914id_/http%3A//www.customerservicejobs.com/mkt/content/js/default.asp%3Fpg%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the customerservicejobs.com privacy policy that was archived on 2013-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130629023350id_/http%3A//www.customerservicejobs.com/mkt/content/js/default.asp%3Fpg%3Dprivacy) for the most accurate reproduction.*
 
 # Jobs | Customer Service Rep, Customer Support Job Listings on CustomerServiceJobs.com
 
