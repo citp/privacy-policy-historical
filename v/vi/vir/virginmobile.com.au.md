@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the virginmobile.com.au privacy policy that was archived on 2012-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121229151529id_/https%3A//www.virginmobile.com.au/en_au/vma/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the virginmobile.com.au privacy policy that was archived on 2013-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130629063443id_/http%3A//www.virginmobile.com.au/privacy) for the most accurate reproduction.*
 
 # Privacy policy – Virgin Mobile
 
@@ -37,58 +37,59 @@ The Telecommunications Act 1997, the Privacy Act 1988 (including the new Nationa
     3. the individual is given an Opt Out in all further instances of Direct Marketing if they have not previously chosen to Opt Out; and
     4. the individual's decision to Opt Out of all Direct Marketing will be respected by us.
   12. We won't use Sensitive Information for Direct Marketing.
-  13. We may use Personal Information to avoid an imminent threat to a person's life or to public safety, and for reasons related to law enforcement or internal investigations into unlawful activities.
-  14. We won't use Personal Information without taking reasonable steps to ensure that the information is accurate, complete and up to date.
+  13. We may use Personal Information to avoid an imminent threat to a person's life or to public safety, and for reasons related to law enforcement or internal investigations into unlawful activities
+  14. We won't use Personal Information without taking reasonable steps to ensure that the information is accurate, complete and up to date
   15. We won't attempt to match unidentified or anonymous data collected through surveys or such online devices as "cookies", with information identifying an individual, without the consent of the relevant individual. 
 
 ### Disclosure
 
   16. We may Disclose Personal Information to related or unrelated third parties if consent has been obtained from the individual, including consent for Disclosures made under the credit reporting requirements of the Privacy Act.
-  17. We may Disclose Personal Information between Related Bodies Corporate, in which case that Related Body Corporate is bound by the original Primary Purpose for which the information was collected.
-  18. We may Disclose Personal Information to unrelated third parties to enable outsourcing of functions (such as billing), for a related Secondary Purpose, in which case the individuals will be notified of our usual Disclosures via the Collection Information, as outlined in 3, or where such Disclosure is within the individual's Reasonable Expectations.
-  19. We will take reasonable steps to ensure that our contracts with third parties include requirements for them to comply with the Use and Disclosure requirements of the Privacy Act.
-  20. We may Disclose Personal Information to law enforcement agencies, government agencies, courts or external advisers where permitted or required by law.
-  21. We may Disclose Personal Information to avoid an imminent threat to a person's life or to public safety.
-  22. If a Disclosure is not for a Primary or Secondary Purpose, or upfront consent has not been obtained, we will only Disclose Personal Information as per the exceptions set out at 16 to 21 above.
-  23. We do not generally sell or share customer lists on a commercial basis with third parties but if we did, we would ensure we had the appropriate consent of the individual involved. If the consent provided is conditional, we will take steps to ensure (by contract) that the use of its customer list by third parties does not exceed the scope of the consent. 
+  17. We may Disclose Personal Information if a payment is substantially overdue and the customer has not reached an agreement for its repayment. In these instances, we may have no choice but to refer the bad debt to a collection agency, to commence legal action, or to sell or transfer the bad debt to a third party. For its repayment, we will need to pass on Personal Information, including the name, address and the amount of the debt for the purposes of enforcement action or the sale or transfer of the bad debt to a third party. In the event of payment difficulties amounting to unpaid debt, we may have no choice but to disclose a customer’s Personal Information, including their unpaid debt, to a third party involved in the sale or transfer of that bad debt.
+  18. We may Disclose Personal Information between Related Bodies Corporate, in which case that Related Body Corporate is bound by the original Primary Purpose for which the information was collected.
+  19. We may Disclose Personal Information to unrelated third parties to enable outsourcing of functions (such as billing), for a related Secondary Purpose, in which case the individuals will be notified of our usual Disclosures via the Collection Information, as outlined in 3, or where such Disclosure is within the individual's Reasonable Expectations.
+  20. We will take reasonable steps to ensure that our contracts with third parties include requirements for them to comply with the Use and Disclosure requirements of the Privacy Act.
+  21. We may Disclose Personal Information to law enforcement agencies, government agencies, courts or external advisers where permitted or required by law.
+  22. We may Disclose Personal Information to avoid an imminent threat to a person's life or to public safety.
+  23. If a Disclosure is not for a Primary or Secondary Purpose, or upfront consent has not been obtained, we will only Disclose Personal Information as per the exceptions set out at 16 to 21 above.
+  24. We do not generally sell or share customer lists on a commercial basis with third parties but if we did, we would ensure we had the appropriate consent of the individual involved. If the consent provided is conditional, we will take steps to ensure (by contract) that the use of its customer list by third parties does not exceed the scope of the consent. 
 
 ### Information quality
 
-  24. We will regularly review our collection and storage practices to ascertain how improvements to accuracy can be achieved.
-  25. We will destroy or de-identify Personal Information after as short a time as possible and after a maximum of seven years, unless the law requires otherwise. 
+  25. We will regularly review our collection and storage practices to ascertain how improvements to accuracy can be achieved.
+  26. We will destroy or de-identify Personal Information after as short a time as possible and after a maximum of seven years, unless the law requires otherwise 
 
 ### Information security
 
-  26. We require employees and contractors to perform their duties in a manner that is consistent with our legal responsibilities in relation to privacy.
-  27. We will take all reasonable steps to ensure that records containing Personal Information are stored in facilities that are only accessible by our staff who have a genuine "need to know" as well as "right to know".
-  28. We will regularly review our information security practices to ascertain how ongoing responsibilities can be achieved and maintained 
+  27. We require employees and contractors to perform their duties in a manner that is consistent with our legal responsibilities in relation to privacy.
+  28. We will take all reasonable steps to ensure that records containing Personal Information are stored in facilities that are only accessible by our staff who have a genuine "need to know" as well as "right to know".
+  29. We will regularly review our information security practices to ascertain how ongoing responsibilities can be achieved and maintained 
 
 ### Access and correction
 
-  29. We will allow our records containing Personal Information to be accessed by the individual concerned in accordance with the Privacy Act.
-  30. We will correct our records containing Personal Information as soon as practically possible, at the request of the individual concerned in accordance with the Privacy Act.
-  31. Individuals wishing to lodge a request to access and/or correct their Personal Information should contact us as per the details at the end of this document.
-  32. We will not charge a fee for processing an access request unless the request is particularly resource intensive. 
+  30. We will allow our records containing Personal Information to be accessed by the individual concerned in accordance with the Privacy Act.
+  31. We will correct our records containing Personal Information as soon as practically possible, at the request of the individual concerned in accordance with the Privacy Act.
+  32. Individuals wishing to lodge a request to access and/or correct their Personal Information should contact us as per the details at the end of this document.
+  33. We will not charge a fee for processing an access request unless the request is particularly resource intensive. 
 
 ### Openness
 
-  33. Individuals wishing to make an inquiry or complaint regarding privacy, should contact our Customer Service department as per the details at the end of this document.
-  34. Privacy complaints will be managed in accordance with our Complaint Handling Policy, which complies with the Australian Communications Industry Forum's Complaint Handling Industry Code.
-  35. Our websites contain a prominently displayed privacy statement and a copy of this Privacy Policy. 
+  34. Individuals wishing to make an inquiry or complaint regarding privacy, should contact our Customer Service department as per the details at the end of this document.
+  35. Privacy complaints will be managed in accordance with our Complaint Handling Policy, which complies with the Australian Communications Industry Forum's Complaint Handling Industry Code.
+  36. Our websites contain a prominently displayed privacy statement and a copy of this Privacy Policy. 
 
 ### Anonymous transactions
 
-  36. We will not make it mandatory for visitors to our web sites to provide Personal Information unless it is required to answer an inquiry or provide a service. We may however request visitors to provide Personal Information voluntarily (for example, as part of a competition or survey).
-  37. We will allow our customers to transact anonymously wherever reasonable and practicable. 
+  37. We will not make it mandatory for visitors to our web sites to provide Personal Information unless it is required to answer an inquiry or provide a service. We may however request visitors to provide Personal Information voluntarily (for example, as part of a competition or survey).
+  38. We will allow our customers to transact anonymously wherever reasonable and practicable. 
 
 ### Transferring personal information overseas
 
-  38. We will take reasonable steps to limit the amount of Personal Information it sends to unrelated organisations overseas.
-  39. If Personal Information must be sent overseas for sound business reasons, we will require the overseas organisation receiving the information to provide a binding undertaking that it will handle that information in accordance with the National Privacy Principles, preferably as part of the services contract. 
+  39. We will take reasonable steps to limit the amount of Personal Information it sends to unrelated organisations overseas.
+  40. If Personal Information must be sent overseas for sound business reasons, we will require the overseas organisation receiving the information to provide a binding undertaking that it will handle that information in accordance with the National Privacy Principles, preferably as part of the services contract. 
 
 ### Future changes
 
-  40. Virgin Mobile aims to be the best in the telecommunications industry. That means our business will continue to evolve as we introduce new products and services and add new features to our web site. Because of this, from time to time, our policies will be reviewed and may be revised. Virgin Mobile reserves the right to change this Privacy Policy at any time and notify you by posting an updated version of the Policy on its web site. The amended Privacy Policy will apply between us whether or not we have given you specific notice of any change. We encourage you to review this Privacy Policy periodically because it may change from time to time.
+  41. Virgin Mobile aims to be the best in the telecommunications industry. That means our business will continue to evolve as we introduce new products and services and add new features to our web site. Because of this, from time to time, our policies will be reviewed and may be revised. Virgin Mobile reserves the right to change this Privacy Policy at any time and notify you by posting an updated version of the Policy on its web site. The amended Privacy Policy will apply between us whether or not we have given you specific notice of any change. We encourage you to review this Privacy Policy periodically because it may change from time to time.
 
 
 
