@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the seobraintrust.com privacy policy that was archived on 2009-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091124023338id_/http%3A//seobraintrust.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the seobraintrust.com privacy policy that was archived on 2013-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130629215522id_/http%3A//seobraintrust.com/privacy-policy) for the most accurate reproduction.*
 
 # SEO BrainTrust Privacy Policy
 
@@ -8,15 +8,15 @@ We collect information from you when you register on our site, place an order or
 
 When ordering or registering on our site, as appropriate, you may be asked to enter your: name, e-mail address, billing address or credit card information. You may, however, visit our site anonymously.
 
-### What do we use your information for? 
+### What do we use your information for?
 
 Any of the information we collect from you may be used in one of the following ways:
 
   * To improve customer service – Your information helps us to more effectively respond to your customer service requests and support needs.
   * To process payment transactions – Your information, whether public or private, will not be sold, exchanged, transferred, or given to any other company for any reason whatsoever, without your consent, other than for the express purpose of delivering the purchased product or service requested by the customer.
-  * To send periodic emails – The email address you provide for order processing, may be used to send you information and updates pertaining to your order or request, in addition to receiving occasional company news, updates, promotions, related product or service information, etc.
+  * To send periodic emails – The email address you provide for order processing, may be used to send you information and updates pertaining to your order or request, in addition to receiving occasional company news, updates, promotions, related product or service information, etc. 
 
-Note: If at any time you would like to unsubscribe from receiving future emails, we include detailed unsubscribe instructions at the bottom of each email.
+Note: If at any time you would like to unsubscribe from receiving future emails, we include detailed unsubscribe instructions at the bottom of each email. 
 
 
 
@@ -79,6 +79,18 @@ This policy was last modified on **September 29, 2009**
 
 If there are any questions regarding this privacy policy you may contact us using the information below.
 
+SEO BrainTrust
+
+4189 N Arnold Mill Rd
+
+Woodstock, Georgia 30188
+
+US
+
+[support@seobraintrust.com](mailto:support@seobraintrust.com)
+
+877-474-3633
+
 ### Privacy Policy Customer Pledge
 
 We have made a dedicated effort to bring the foregoing privacy policy into compliance with the the following important laws and initiatives:
@@ -96,3 +108,11 @@ If at anytime you have a cause that needs to be disputed please fill out the [Tr
 ### Governing law
 
 The SEO Brain Trust is organized and registered in Nevada as SEO Brain LLC and this agreement is governed by Nevada law.
+
+Respectfully,
+
+Leslie Rohde and Dan Thies
+
+The SEO BrainTrust
+
+[http://seobraintrust.com](http://seobraintrust.com/)
