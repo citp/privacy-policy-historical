@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dengee.net privacy policy that was archived on 2012-10-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121010110335id_/http%3A//dengee.net/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dengee.net privacy policy that was archived on 2013-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130629114540id_/http%3A//dengee.net/privacy.html) for the most accurate reproduction.*
 
 # Dengee.NET - Privacy Policy
 
