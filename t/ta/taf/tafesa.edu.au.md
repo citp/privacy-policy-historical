@@ -1,10 +1,12 @@
-> *The following text is extracted and transformed from the tafesa.edu.au privacy policy that was archived on 2012-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121229140628id_/http%3A//sa.gov.au/site/page.cfm%3Fu%3D25) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tafesa.edu.au privacy policy that was archived on 2013-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130629190218id_/http%3A//sa.gov.au/site/page.cfm%3Fu%3D25) for the most accurate reproduction.*
 
 # Privacy and Security Statement - Government of South Australia
 
 This statement sets out this site's policies relating to the privacy and security of your personal information and security of your other information. This privacy and security statement applies only to this site.
 
-This site is operated in compliance with the Government of South Australia's information privacy principles (IPPs), a copy of which can be obtained at  <http://www.premcab.sa.gov.au/pdf/circulars/Privacy.pdf>.
+This site is operated in compliance with the Government of South Australia's information privacy principles (IPPs), a copy of which can be obtained at  [](http://dpc.sa.gov.au/sites/default/files/pubimages/Circulars/PC012_Privacy.pdf "http://www.premcab.sa.gov.au/pdf/circulars/Privacy.pdf")
+
+<http://dpc.sa.gov.au/sites/default/files/pubimages/Circulars/PC012_Privacy.pdf>
 
 This site collects and uses the following information from users:
 
