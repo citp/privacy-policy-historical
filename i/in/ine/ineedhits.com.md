@@ -1,15 +1,13 @@
-> *The following text is extracted and transformed from the ineedhits.com privacy policy that was archived on 2012-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121225174802id_/http%3A//www.ineedhits.com/search-engine-help/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ineedhits.com privacy policy that was archived on 2013-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130629123131id_/http%3A//www.ineedhits.com/search-engine-help/privacy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy and Free Search Engine Submission Information - ineedhits
 
 |  [](http://secure.trust-guard.com/certificates/6495) |  We at ineedhits.com [Ineedhits.com Pty Ltd] pride ourselves on attention to detail regarding our customers’ privacy. Please read the following to learn more about our Privacy Policy.  
 ---|---  
   
-**Last Updated on 21 March 2007**
+**Last Updated on 6 June 2012**
 
-ineedhits.com [Ineedhits.com Pty Ltd] is a licensee of the TRUSTe Privacy Program. TRUSTe is an independent, non-profit organization whose mission is to enable individuals and organizations to establish trusting relationships based on respect for personal identity and information by promoting the use of fair information practices.
-
-This privacy statement covers the site [www.ineedhits.com]. Because this Web site wants to demonstrate its commitment to our users’ privacy, it has agreed to disclose its information practices and have its privacy practices reviewed for compliance by TRUSTe.
+This privacy statement covers the site [www.ineedhits.com].
 
   1. What personally identifiable information does ineedhits.com collect?
   2. What organization/s collects the information?
@@ -20,7 +18,8 @@ This privacy statement covers the site [www.ineedhits.com]. Because this Web sit
   7. How users can correct any inaccuracies in the information.
   8. What happens if our Privacy Policy changes?
 
-If users have questions or concerns regarding this statement, they should first contact our Customer Care by emailing to [query@ineedhits.com](mailto:query@ineedhits.com). If users do not receive acknowledgment of their inquiry or their inquiry is not satisfactorily addressed, they should then contact TRUSTe through the [TRUSTe Watchdog Dispute Resolution Process](http://www.truste.org/consumers/watchdog_complaint.php) TRUSTe will serve as a liaison with the Web site to resolve users concerns.
+  
+
 
 ##  1. What personally identifiable information does ineedhits.com collect?
 
