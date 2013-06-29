@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the arcadelots.com privacy policy that was archived on 2012-10-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121010080641id_/http%3A//www.arcadelots.com/pages/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the arcadelots.com privacy policy that was archived on 2013-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130629162029id_/http%3A//www.arcadelots.com/pages/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Arcadelots
 
-[ ](http://www.car-racing-games.org/)
+[ ](http://www.africangames.net/)
 
 [ ](http://www.racing-games.org/)
 
