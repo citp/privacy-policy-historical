@@ -1,13 +1,9 @@
-> *The following text is extracted and transformed from the afghan123.com privacy policy that was archived on 2012-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121109061125id_/http%3A//www.afghan123.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the afghan123.com privacy policy that was archived on 2013-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130629042839id_/http%3A//www.afghan123.com/privacy) for the most accurate reproduction.*
 
 # Afghan123.com Privacy Policy
 
-| 
-
-[](http://www.adbrite.com/mb/commerce/purchase_form.php?opid=2202799&afsid=1)
-
-| Information We Collect and its Usage  
----  
+Your privacy is very important to us. Accordingly, we have developed this Policy in order for you to understand how we collect, use, communicate and disclose and make use of personal information. The following outlines our privacy policy.  
+Information We Collect and its Usage  
   
 We collect information from you when you register on our web site or fill out our contact form or feed back form. 
 
@@ -39,10 +35,4 @@ By using our site, you consent to our [Privacy Policy](http://www.afghan123.com/
   
 Changes to Privacy Policy  
 If we decide to change our privacy policy, we will post those changes on this page  
-This Policy was last reviewed on 25/August/2012.  
-  
-  [](http://www.adbrite.com/mb/commerce/purchase_form.php?opid=2202799&afsid=1)
-
-Copyright © 2007-2012 Afghan123 Network All Rights Reserved  
-  
-   
+This Policy was last reviewed on 08/May/2013.
