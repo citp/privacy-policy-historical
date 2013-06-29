@@ -1,59 +1,67 @@
-> *The following text is extracted and transformed from the westcoastchoppers.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217084852id_/http%3A//www.westcoastchoppers.com/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the westcoastchoppers.com privacy policy that was archived on 2013-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130629045522id_/http%3A//www.westcoastchoppers.com/store/privacy-policy) for the most accurate reproduction.*
 
-# West Coast Choppers - Privacy
+# Privacy Policy: West Coast Choppers
 
-### PRIVACY POLICY
+We collect information from you when you register on our site, place an order or subscribe to our newsletter. 
 
-Protecting your privacy is important to us at West Coast Choppers. Through this website, www.westcoastchoppers.com (the "Site"), West Coast Choppers and its affiliated companies (collectively, "West Coast Choppers" or "we"/"us"/"our") provide information about West Coast Choppers, Jesse James, Monster Garage and other projects and various products and services, access to the community of Jesse James fans and links to other websites. We collect information from you and use this information to improve your experience in using the Site and our various products and services; this information also aids in communications among West Coast Choppers, you and other Site users and to notify you of products and services that we think may be of interest to you.. Please read on for more details concerning our Privacy Policy.
+When ordering or registering on our site, as appropriate, you may be asked to enter your: name, e-mail address, mailing address, phone number or credit card information. You may, however, visit our site anonymously.
 
-_What Personal Information Does West Coast Choppers Collect?_
+Any of the information we collect from you may be used in one of the following ways: 
 
-  * Information You Give Us: We collect information you choose to provide us through the Site or through email. For example, we obtain information when you complete a registration form and/or email the [Shit Shit Section] to friends. This information includes, for example, your name and email address and the email address of the recipient of the Sick Shit. You can choose not to provide us with certain personal information, but then you may not be able to fully take advantage of certain features of our Site.
-  * Automatic Collection of Information: Like many websites on the Internet, we employ the use of "cookies" in certain areas of our Site to allow us to provide information which is targeted to your interests and to make your online experience more convenient. A cookie is a small amount of data that is sent to your browser from a Web server and stored on your computer's hard drive. Most cookies we may use will be "session cookies," meaning that they will be automatically deleted at the end of a Site visit. You are always free to decline any cookies we use if your browser permits.
+\--To personalize your experience  
+(your information helps us to better respond to your individual needs)
 
+\--To improve our website  
+(we continually strive to improve our website offerings based on the information and feedback we receive from you)
 
+\--To improve customer service  
+(your information helps us to more effectively respond to your customer service requests and support needs)
 
-_Who is Collecting Your Information?_
+\--To process transactions
 
-When you provide information through the Site, the information is transmitted through the Internet and stored on servers owned and maintained by our third-party Internet Service Provider ("ISP"). Our ISP shares the information collected only with us through our marketing agency, unless you are informed otherwise. You will be informed if any other party is involved in collecting information from you through use of the Site. In such situations, you can elect not to share the information requested.
+> Your information, whether public or private, will not be sold, exchanged, transferred, or given to any other company for any reason whatsoever, without your consent, other than for the express purpose of delivering the purchased product or service requested.
 
-West Coast Choppers affiliates and partners and other entities that have links on the Site may also collect information about you when you visit their websites or otherwise communicate with them. Although we encourage such third parties to adopt and follow their own consumer privacy policies, we are not responsible for their collection and use of user information. The information practices of those websites linked to the Site are not covered by this Privacy Policy. You should refer to the privacy policies and statements of other websites or contact the respective Webmasters of those websites to obtain information regarding their information collection, use and disclosure policies.
+\--To administer a contest, promotion, survey or other site feature
 
-_With Whom Do We Share Your Information?_
+\--To send periodic emails
 
-Contact information we collect may be used to send (1) orders, (2) information about our company, and (3) promotional material from some of our partners to our users. A customer's contact information is also used to get in touch with that customer when necessary. Users may opt-out of receiving future mailings; see the choice/opt-out section immediately below.
+> The email address you provide for order processing, may be used to send you information and updates pertaining to your order, in addition to receiving occasional company news, updates, related product or service information, etc.
 
-To Opt-out of receiving future mailings and/or promotions:
+Note: If at any time you would like to unsubscribe from receiving future emails, we include detailed unsubscribe instructions at the bottom of each email.
 
-1\. You can send email to [info@westcoastchoppers.com](mailto:info@westcoastchoppers.com).
+We implement a variety of security measures to maintain the safety of your personal information when you place an order or enter, submit, or access your personal information. All supplied sensitive/credit information is transmitted via Secure Socket Layer (SSL) technology and then encrypted into our Payment gateway providers database. This is only accessible to those authorized with special access rights to such systems, and they are required to keep the information confidential. 
 
-2\. You can send mail to the following postal address: West Coast Choppers, Inc., 718 W. Anaheim St., Long Beach, California 90813.  
-In addition, we will share the personal identifying information we collect from you under the following circumstances:
+We offer the use of a secure server. All supplied sensitive/credit information is transmitted via Secure Socket Layer (SSL) technology and then encrypted into our Payment gateway providers database only to be accessible by those authorized with special access rights to such systems, and are required to?keep the information confidential.
 
-  * _Protection of rights._ We will release user information: (1) if we believe the law requires it or in response to any demand by law enforcement authorities or to comply with legal process, such as a court order or subpoena, (2) if we believe such action is appropriate to enforce the Terms of Use for the Site, or (3) if we believe such action is appropriate to protect the rights, property or personal safety of West Coast Choppers, its employees, other Site users or others.
-  * _Asset transfers._ If we should choose to sell some or all of our assets, user information, including the information collected from you through this Site, could be included in the transferred assets.
-  * _Independent Contractors._ We may share user information with independent contractors that we hire from time to time in connection with the operation of the Site or other operation(s) related to our business.
+After a transaction, your private information (credit cards, social security numbers, financials, etc.) will not be stored on our servers.
 
+Yes (Cookies are small files that a site or its service provider transfers to your computer's hard drive through your Web browser (if you allow) that enables the sites or service provider's systems to recognize your browser and capture and remember certain information.
 
+We use cookies to help us remember and process the items in your shopping cart and save your preferences for future visits.
 
-In all other circumstances, if we disclose any user information to a third party it will be in the form of aggregated statistical data that doesn't identify any user individually. This non-identifying information may include, for example, the purchasing patterns, trends, preferences, and other collective characteristics of our users. Disclosure of this information serves to help us, our affiliates and others evaluate and tailor our communications, advertisements, products, services and general business practices to the needs of users of the Site.
+If you prefer, you can choose to have your computer warn you each time a cookie is being sent, or you can choose to turn off all cookies via your browser settings. if you turn your cookies off, like most websites, some of our services may not function properly. However, you can still place orders over the telephone.
 
-_Control of Your Information_
+We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information. This does not include trusted third parties who assist us in operating our website, conducting our business, or servicing you, so long as those parties agree to keep this information confidential. We may also release your information when we believe release is appropriate to comply with the law, enforce our site policies, or protect ours or others rights, property, or safety. However, non-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses.
 
-You can correct, update or delete the information you provide West Coast Choppers by contacting our Webmaster by sending an email to [info@westcoastchoppers.com](mailto:info@westcoastchoppers.com).
+Because we value your privacy we have taken the necessary precautions to be in compliance with the California Online Privacy Protection Act. We therefore will not distribute your personal information to outside parties without your consent.
 
-_Bulletin Boards and Chat Rooms_
+As part of the California Online Privacy Protection Act, all users of our site may make any changes to their information at anytime by logging into their control panel and going to the 'My Profile' page.
 
-We provide chat sessions and rooms, forums, message boards and/or bulletin boards for users to receive information about West Coast Choppers, Jesse James and related topics. Please remember that any information disclosed in these areas may be viewed by other users of the Site. If you post on any of these areas, please use care not to disclose any personal identifying information. We are not responsible or liable for the uses that others may make of the information you post on any of these areas.
+We are in compliance with the requirements of COPPA (Childrens Online Privacy Protection Act), we do not collect any information from anyone under 13 years of age. Our website, products and services are all directed to people who are at least 13 years old or older.
 
-_Security_
+This online privacy policy applies only to information collected through our website and not to information collected offline.
 
-The personal identifying information that you provide to us is stored on servers, which are located in secured facilities with restricted access, and protected by protocols and procedures designed to ensure the security of such information. In addition, all West Coast Choppers' personnel who have access to such information are trained in the maintenance and security of such information, and we limit access of such information by our employees to the information reasonably required in order to provide prompt, high quality service. However, no server, computer network or system, or data transmission over the Internet can be guaranteed to be 100% secure. As a result, while we strive to protect user information, we cannot ensure or warrant the security of any information you transmit to us or from our Site and you provide such information to us and engage in such transmissions at your own risk. Once we receive a transmission from you, we will endeavor to maintain its security on our, and our ISP's, systems.
+Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website at <http://westcoastchoppers.com/store/terms-and-conditions>
 
-_Children's Privacy_
+By using our site, you consent to our privacy policy.
 
-The Site is a general audience website and no portion of the Site is directed to children under the age of 13. We do not collect personal identifying information from any person we actually know is a child under the age of 13.
+If we decide to change our privacy policy, we will post those changes on this page. 
 
-_Summary_
+If there are any questions regarding this privacy policy you may contact us using the information below. 
 
-At West Coast Choppers, protecting your privacy is important to us. By accessing and using the Site, you consent to the collection, use and disclosure of information by West Coast Choppers as described in this Privacy Policy. This Privacy Policy is subject to change from time to time and we will post all changes on this page. If you have any questions concerning this Privacy Policy, please send an email to our Webmaster at [info@westcoastchoppers.com](mailto:info@westcoastchoppers.com).
+http://westcoastchoppers.com  
+2485 Merritt Dr  
+Garland, Texas 75041  
+USA  
+customerservice@westcoastchoppers.com  
+Phone: 1-800-461-5650
