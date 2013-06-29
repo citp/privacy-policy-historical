@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ansav.com privacy policy that was archived on 2012-10-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121022041936id_/http%3A//www.ansav.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ansav.com privacy policy that was archived on 2013-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130629070912id_/http%3A//www.ansav.com/privacy-policy.php) for the most accurate reproduction.*
 
 # ANSAV - Simple Indonesian Antivirus
 
@@ -44,4 +44,4 @@ Forum posts are generally visible to all site visitors, and may be archived or d
 
 If you choose to sign up for the Ansav forums, you must provide an email address for confirmation. Optionally, you may also provide your time zone. This information is kept confidential.
 
-Gunakan [Ansav Forum Community](http://www.ansav.com/forum/) untuk mendiskusikan permasalahan yang kita hadapi. Jika anda mempunyai pertanyaan ataupun pesan, please visit [Contact Us](http://www.ansav.com/forum/sendmessage.php) page.
+Gunakan [Ansav Forum Community](http://www.ansav.com/forum/) untuk mendiskusikan permasalahan yang kita hadapi. Jika anda mempunyai pertanyaan ataupun pesan, please visit [Contact Us](http://www.ansav.com/forum/sendmessage.php) page [JalanTikus.com : Download Gratis, Aman dan Cepat](http://omponk.routelink.net/category/jalantikus-download-gratis-aman-cepat/ "JalanTikus.com : Download Gratis, Aman dan Cepat").
