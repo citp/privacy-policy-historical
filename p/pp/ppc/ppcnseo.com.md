@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ppcnseo.com privacy policy that was archived on 2012-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121228203100id_/http%3A//ppcnseo.com/Privacy-Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ppcnseo.com privacy policy that was archived on 2013-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130629214529id_/http%3A//ppcnseo.com/Privacy-Policy) for the most accurate reproduction.*
 
 # 
 
