@@ -1,110 +1,183 @@
-> *The following text is extracted and transformed from the landregistry.gov.uk privacy policy that was archived on 2012-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121227134724id_/http%3A//www.landregistry.gov.uk/public/information/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the landregistry.gov.uk privacy policy that was archived on 2013-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130629022908id_/http%3A//www.landregistry.gov.uk/public/information/privacy) for the most accurate reproduction.*
 
 # Privacy statement - Land Registry for England and Wales
 
-## [](http://www.landregistry.gov.uk/cookies)Privacy statement
+Land Registry has created this privacy statement in order to demonstrate our firm commitment to maintaining the security and confidentiality of personal information. We collect information in order to provide customers and users with a better service and provide a smooth, efficient and personalised experience while using our website, or services. Please note that customers cannot ask us to remove or delete information from the register of title which we are obliged to publish.
 
-Land Registry has created this privacy statement in order to demonstrate our firm commitment to maintaining the security and confidentiality of personal information collected on our website. The purpose of this Online Privacy Statement is to inform you about the types of information we gather online about you when you visit our websites, how we may use that information, whether we disclose it to anyone, and the choices you have regarding our use of, and your ability to correct, that information.
+## How we use your information
 
-This statement may change from time to time, so please check back periodically.
+This privacy notice tells you what to expect when Land Registry collects personal information. It applies to information we collect about:
 
-### This statement covers:
-
-  * Websites covered by this statement
-  * What information we collect
-  * Why we collect your information
-  * How we use your information
-  * Your choices
-  * Accessing and changing your information
-  * Choice/opt–out
-  * [Use of cookies on this website](http://www.landregistry.gov.uk/cookies)
-  * Protecting your information
-  * Security
-  * Links to other websites
-  * Changes to this statement
-  * Contact us
+  * visitors to our websites (with the exception of Land Registry's test sites) 
+  * users of our services by making paper applications
+  * users of our online public services
+  * people who use our business e-services
+  * job applicants and our current and former employees
 
 
 
-#### **1\. Websites covered by this statement**
+### Visitors to our websites 
 
-This Privacy Statement covers the collection and use of data on all Land Registry websites except for the Land Registry Online and Land Registry Direct websites which have their own privacy statements.
+When someone visits our websites we collect standard internet log information and details of visitor behavior patterns. We do this to find out things such as the number of visitors to the various parts of the site. We collect this information in a way which does not identify anyone. We do not make any attempt to find out the identities of those visiting either of our websites. We will not associate any data gathered from this site with any personally identifying information from any other source. If we do want to collect personally identifiable information through our website, we will be up front about this and say so.
 
-For the convenience of visitors some pages on our websites contain links to the websites of third parties. Third party websites are outside our control and this privacy statement does not apply to them.
+Our online surveys may ask users and customers of our services for contact information (such as an email address). The contact information will be used to contact customers when appropriate. Users may opt out if they choose. 
 
-#### **2\. What information we collect**
+Please see our [Cookies statement](http://www.landregistry.gov.uk/cookies) for details.
 
-The information generally falls into two categories: Personally Identifiable Information and Non-Personally Identifiable Information.
+### People who call our Customer Contact Centre 
 
-Personally Identifiable Information: This information lets us know the specifics of who you are. It may include but is not limited to your name, mailing address, phone number, email address, employer, and job title. We request Personally Identifiable Information when you order a product or service, participate in certain promotional activities, fill out surveys, and correspond with us. We also collect Personally Identifiable Information when you ask that we send products or information directly to other people; in these cases, we will collect the information you submit about the recipient. When you ask us to send products or information directly to other people, you confirm that the recipient has appointed you to act on the recipient's behalf and has agreed to you providing the recipient's personal information to us and to our processing of it in accordance with this privacy statement. It will be clear when you are on a part of our website that requires personal information, because we will ask you for it.
+When you call our Customer Contact Centre we collect information. We use this information to help improve its efficiency and effectiveness. Some telephone calls are recorded for quality assurance. We also collect information from customers who want to arrange an appointment to attend one of our Customer Information Centres. The information collected includes names, contact details, title information. For information on our Voice Recording Policy – See [Voice Recording policy](http://www.landregistry.gov.uk/public/about-us/policy-statements/voice-recording-policy). We will retain telephone recordings for 60 calendar days.
 
-Non-Personally Identifiable Information: This is information that does not by itself identify a specific individual. The non-personally identifiable data we collect when you visit our website may include the Uniform Resource Locator ("URL") of the website that you came from before visiting our web site, which pages you visit on our website, which website you go to next, which browser you used to come to our website, your Internet Protocol ("IP") address, and any search terms entered on our website. This Statement also contains more information about how we use cookies and other technology to collect this data.
+### People who use our forms
 
-#### **3\. Why we collect your information**
+Our sites use forms for customers to request information, products and services, give feedback. We may collect contact information such as email addresses and financial information such as bank account details and credit cards numbers. In relation to credit cards, we comply with the Payment Card Industry Data Security Standards where applicable. Contact information from the order forms is used to send out orders, customer contact information may be used to get in touch with customers when necessary. Financial information may be used where appropriate to charge for product and services.
 
-Our primary goals in collecting information are to provide customers with a better service and to provide all visitors a smooth, efficient, and personalised experience while using our website. Forms on our site may invite users to give us contact information (including their name and email address). This information is used to contact the visitor when necessary. For example, if you request information on our website, we use your Personally Identifiable Information to fill your order or provide the requested information. We use Non-Personally Identifiable Information on an aggregated basis to analyse customer behaviour to help us understand how visitors use our website and to measure interest in the various pages. We use this information to help improve the content of our website, to make it easier to use.
+### People who use our online public service
 
-Our site uses forms for customers to request information, products, and services, give feedback etc. We may collect visitor's contact information (for example, their email address), and financial information (such as their bank account or credit card numbers). Contact information from the order form is used to send orders to our customers. The customer's contact information may be used to get in touch with the customer when necessary. Customers may opt-out of receiving future mailings; see the choice/opt-out section below. Financial information that is collected is used where appropriate to bill the customer for products and services. Unique identifiers (such as email addresses) are collected from website visitors to verify the user's identity and for use as account numbers in our record system.
+Our terms and conditions set out what we may use your information for. You should note that any information we may hold may be disclosed to or shared with others where appropriate. See Disclosure of personal information and Sharing information.
 
-Our online surveys may ask customers for contact information (such as their email address). The customer's contact information is used to contact the customer when necessary. Users may opt-out of receiving future mailings; see the choice/opt-out section below.
+Customers using our Find a property e–service will make payment in advance for services by credit/debit card. In relation to credit and debit cards, we comply with the Payment Card Industry Data Security Standards where applicable. When you pay for the services it will be via RBS Worldpay. Card holder information is held by the third party and not Land Registry. Your attention is drawn to the [privacy policy](http://www.rbsworldpay.com/about_us/index.php?page=terms&c=UK)  of RBS Worldpay. 
 
-#### **4\. How we use your information**
+### People who use our business e-services
 
-We gather and use information in a number of ways, including the following:
+For customers using our e-services (including Portal and Business Gateway), we will capture information including details of the enquiry against the records we hold on our Customer Relationship Management system. For all other businesses (including those who have a specified Customer Team) or citizen customers, enquiries may be logged against the business details or generically. We will collect the name and contact details of the person making the enquiry when we have a need to contact them to resolve the enquiry or when there is a need for our Customer Contact Centre to refer the enquiry with Land Registry such as local Land Registry Office.
 
-Online surveys and polling: We collect Personally Identifiable Information from customers who volunteer to complete surveys or participate in polls. We use this information to improve our products and services. This information may be collected directly by Land Registry or a contracted third party.
+Our Conditions of Use and the Full Network Access Agreement ** ** sets out how we may use the information collected on businesses and their employees. 
 
-Newsletters and promotional emails: We collect Personally Identifiable Information when you ask to receive newsletters, promotional emails, and other information. We use this information to provide you with the information you request.
+You should note that any information we may hold may be disclosed to or shared with others where appropriate. See Disclosure of personal information and Sharing Information.
 
-Contact information: If you contact us, we may keep a record of your correspondence or comments, including Personally Identifiable Information, in a file specific to you. We use this information to help us provide better service in the event that you contact us again.
+### People who make applications
 
-We do not sell, trade, or rent to others the Personally Identifiable Information we collect.
+Customers who lodge applications or correspondence with us in connection with a registered title or about the registration of land and properties  are providing us with information. The use of this information is governed by the Land Registration Act 2002 and Land Registration Rules 2003. This includes hold both personal and non-personal information. Official copies of registers of titles and title plans are publicly available upon payment of the prescribed fee. It is also possible to apply for or inspect copies of documents held by Land Registry including scanned electronic images. This information is also publicly available (also upon payment of ther prescribed fee) and governed by section 66 of the Land Registration Act 2002 which sets out the protocol. As the information is made available under this statutory access code, the same information is not available using the Freedom of Information Act 2000.
 
-#### **5\. Your choices**
+This information is held indefinitely. The Public Records Act 1958 as amended ordinarily requires that public records selected for permanent preservation are transferred to The National Archives once they are 20 years old. However, this requirement does not apply where the Lord Chancellor has given his approval for their retention by the body holding them. We have obtained an Instrument of Retention in respect of our registers and associated documents, which includes all the associated paperwork, which means we have physical custody of all of those records.
 
-Land Registry will not use or share the Personally Identifiable Information collected on our website in ways unrelated to the purpose for which you provided the information without providing you with a choice whether to permit any such unrelated uses.
+When we handle personal information supplied by you as part of our statutory functions, your rights under the Data Protection Act 1998 are limited. The Data Protection Act 1998 permits us to use personal information for these official purposes. The information is exempt from the disclosure provisions, as it falls within section 34 of that Act. This exempts information that has to be made available to the public under legislation.
 
-#### **6\. Accessing and changing your information**
+In order to maintain the integrity of the register of title we may disclose to or share with others any information we may hold – see Disclosure of personal information and Sharing Information.
 
-Land Registry seeks to ensure that your information and preferences are accurate and complete. If you wish to view or change your information, where possible you may do this online, in other circumstances please let us know by sending an email with your name, full mailing address, email address, and relevant information about subscriptions and registrations you have with Land Registry to [privacy@landregistry.gov.uk](mailto:privacy@landregistry.gov.uk) and we will use reasonable endeavours to meet your request.
+### People who make a complaint to us
 
-#### **7\. Choice/opt-out**
+### 
 
-Our sites provide visitors with the opportunity to opt-out of receiving communications from us at the point where we request information about the visitor.
+When we receive a complaint from a person we make up a file containing the details of the complaint. This normally contains the identity of the complainant and any other individuals involved in the complaint.
 
-If you do not opt-out at the time that you provide information to us but subsequently decide that you would like to opt-out, you can ask us in one of the following ways to remove your information from our databases so that you do not receive further communications.
+We will only use the personal information we collect to process the complaint and to check on the level of service we provide. We do compile and publish statistics but not in a form which identifies anyone.
 
-  * Send an email to: [privacy@landregistry.gov.uk](mailto:privacy@landregistry.gov.uk)
-  * Or write to: FREEPOST RSZE-TEZA-JCTH, Land Registry CRM Team, Land Registry Croydon Office, Trafalgar House, 1 Bedford Park, Croydon, CR0 2AQ. 
+We usually have to disclose the complainant’s identity to whoever the complaint is about. This is inevitable where, for example, the accuracy of a title is in dispute. If a complainant doesn’t want information identifying him or her to be disclosed, we will, in exceptional citcumstances try to respect that but it  will not usually not be possible to handle a complaint on an anonymous basis.
+
+We will keep personal information contained in complaint files in line with our retention policy for a period of 10 years. Our Document Disposal Policy and list is available on request. It will be retained in a secure environment and access to it will be restricted according to the ‘need to know’ principle.
+
+Similarly, where enquiries are submitted to us we will only use the information supplied to us to deal with the enquiry and any subsequent issues and to check on the level of service we provide.
+
+Usually we do not, identify any complainants unless the details have already been made public.
+
+Information from complaint files is not available under Land Registry’s statutory inspection protocol and Open Register. 
+
+### People who use our other services
+
+Land Registry offers various services to the public. For example, we send out public guides and other publications. We may use a third party to deal with some services.
+
+We have to hold the details of those who have requested  any particular service in order to provide it. However, we only use these details to provide the service requested and for other related purposes. For example, we might use information about people who have requested a publication to carry out a survey to find out if they are happy with the level of service they received. 
+
+### Job applicants, current and former employees
+
+When individuals apply to work at Land Registry we will only use the information they supply to us to process their application and to monitor recruitment statistics. Where we want to disclose information to a third party, for example where we want to take up a reference,we will not do so without informing them beforehand unless the disclosure is required by law. 
+
+Personal information about unsuccessful candidates will be held for 24 months after the recruitment exercise has been completed, it will then be destroyed or deleted. We retain de-personalised statistical information about applicants to help inform our recruitment activities, but no individuals are identifiable from that data.
+
+Once a person has taken up employment with Land Registry, we will compile a file relating to their employment. Our Staff Information Charter sets out what we do.
+
+### Complaints or queries
+
+Land Registry tries to meet the highest standards when collecting and using personal information. For this reason, we take any complaints we receive about this very seriously. We encourage people to bring it to our attention if they think that our collection or use of information is inaccurate, unfair or misleading. We would also welcome any suggestions for improving our procedures.
+
+This privacy notice was drafted primarily with brevity and clarity in mind. It does not provide exhaustive detail of all aspects of Land Registry’s collection and use of personal information. However, we are happy to provide any additional information or explanation needed. Any requests for this should be sent to the address below.
+
+### Access to personal information
+
+Land Registry tries to be as open as it can be in terms of giving people access to their personal information. Individuals can find out if we hold any personal information by making a ‘subject access request’ under the Data Protection Act 1998. If we do hold information about you we will:
+
+  * give you a description of it; 
+  * tell you why we are holding it; 
+  * tell you who it could be disclosed to; and 
+  * let you have a copy of the information in an intelligible form.
 
 
 
-#### 8\. Use of cookies on this website
+For further information see [DPA page on website](http://www.landregistry.gov.uk/public/information/data-protection). You should note that there are exceptions under the Data Protection Act 1998 and if these apply, we may not necessarily provide you with information requested.
 
-To use some of our services such as Find a property or Business e-services you must enable cookies.
+If we do hold information about you, you can ask us to correct any mistakes by, once again, contacting the Data Protection Officer.
 
-A "cookie" is a small data file created by your web browser and stored on your computer's hard drive. We use cookies when you visit our website, respond to online surveys or polls, or request information. Accepting the cookies used on our website does not give us access to your Personally Identifiable Information and your browser should allow only our website (and no other) to access the information in any cookie(s) set by us. The information collected permits us to analyse traffic patterns on our website. This can enable us over time to provide you with a better experience on our website by improving the content and making it easier to use.
+### Your choices 
 
-Most browsers automatically accept cookies, but you can usually refuse cookies, or selectively accept certain cookies, by adjusting the preferences in your browser. If you turn off cookies, though, there may be some features of our website that will not be available to you and some web pages may not display properly. Some of our systems require non-persistent cookies to be enabled.
+Land Registry seeks to ensure that your information and prefernces are accurate and complete. If you wish to view, change your information or opt out of receiving information from us, please let us know by sending your name, full address, email address and company name (if applicable) either:
 
-**9 . Protecting your information**
+  * by email to [privacy@landregistry.gov.uk](mailto:privacy@landregistry.gov.uk)
+  * or write to us at FREEPOST RSZE - TEZA - JCTH, Land Registry, CRM Team, Land Registry Croydon Office, Trafalgar House, 1 Bedford Park, Croydon, CR0 2AQ.  
 
-Land Registry acknowledges your trust and is committed to protecting the information you provide to us. To prevent unauthorised access, maintain accuracy, and ensure proper use of information, we employ physical, electronic, and managerial processes to safeguard and secure the information we collect online.
 
-#### **10 Security**
 
-Our site has security measures in place to protect against the loss, misuse and alteration of the information under our control. These include but are not limited to a secured database containing personal data. The database is located off the main server and is not accessible directly.
+**Please note that you cannot use this to ask us to make changes to the register of title for example, by the removal of price paid information in the register.**
 
-Whilst we will use all reasonable efforts to safeguard your personal data, you acknowledge that the use of the internet is not entirely secure and for this reason we cannot guarantee the security or integrity of any personal data in transit from you or to you via the internet.
+### 
 
-#### **11\. Links to other websites**
+### Disclosure of personal information
 
-Parts of our websites contain links to third-party websites for your convenience and information. If you use these links, you will leave the Land Registry website. When you access a non-Land Registry website, even one that may contain the Land Registry logo, please understand that we do not control the content and are not responsible for the privacy practices of that website. We are not responsible for the content or reliability of any linked websites. Nor do we necessarily endorse the views expressed in them. We cannot guarantee that these links will work all of the time and we have no control over the availability of the linked pages. We suggest that you carefully review the privacy policies of each website you visit. This Privacy Statement does not cover the information practices of those third-party websites linked to our websites. Third-party websites may send their own cookies to users, collect data, or solicit personal information.
+In many circumstances we will not disclose or use personal data without consent. However there will be occasions when we will need to disclose or share or otherwise use personal information within our own internal departments and/or with other government departments and agencies, law enforcement and regulatory agencies and other relevant bodies. Examples of such occasions are when we investigate a land registration matter or complaint or to prevent and detect crime.
 
-#### **12\. Changes to this statement**
+Our Information Charter sets out the standards that you can expect from us. [See Information Charter.](http://www.landregistry.gov.uk/public/information/information-charter)
 
-If there are changes or additions to the terms of this Online Privacy Statement, we will post those changes here so that you will always know what information we collect online, how we use it, and what choices you have. Please be sure to check this page before proceeding to use our website.
+You can also get further information by contacting The Data Protection Officer  \- See details below. 
 
-#### **13\. Contact us**
+### Freedom of Information
 
-If you have any questions or concerns about Land Registry's use of your information, about this privacy statement, or your dealings with this website, please send an email to [privacy@landregistry.gov.uk](mailto:privacy@landregistry.gov.uk).
+You should note that we are under a duty to comply with the Freedom of Information Act 2000 and the Environmental Information Regulations 2004. We may disclose information in order to comply with any legislation including the Freedom of Information Act 2000 and Environmental Information Regulations 2004 or an order of court, without obtaining your consent so that we can comply with any applicable information disclosure requirements. 
+
+### Sharing of Information
+
+Land Registry may, where appropriate, share any information held with third parties such as other government departments, law enforcement and regulatory agencies and other relevant bodies, (including Specified Anti – Fraud Organisations under section 68 Serious Crime Act 2007, counter fraud department, and counter fraud organisations and their members)  if it is considered to be:
+
+  * in the public interest , for example, investigation of land banking schemes and/or 
+  * for the prevention and detection of crime including prevention, detection and investigation of registration fraud,
+
+
+
+Information that relates to confirmed fraud will be routinely shared with the Police for one or more of the following policing purposes:
+
+  * Protecting life and property 
+  * Preserving order 
+  * Preventing the commission of offences 
+  * Bringing offenders to justice 
+  * Any duty or responsibility of the police arising from common or statute law. 
+
+
+
+We follow the Information Commissioner’s Data Sharing Code of Practice so far as practicable. There may be occasions when we may share information on a limited basis in order to assess whether data sharing on a formal basis is beneficial for these purposes. 
+
+### Protecting your information
+
+We acknowledge that your trust and are committed to protecting the information you provide us. To prevent unauthorized access, maintain accuracy and ensure proper use of information, we have physical, electronic and managerial processes to safeguard and secure the information we collect.
+
+### Security
+
+We have security measures in place on our sites and services to protect against loss, misuse and alteration of information under our control. We will use all reasonable efforts to safeguard your personal information, you acknowledge that the use of the internet is not secure and for this reasons we cannot guarantee the security or integrity of any information in transit from or to you. 
+
+### Links to other websites
+
+This privacy notice does not cover the links within this site linking to other websites. We encourage you to read the privacy statements on the other websites you visit. 
+
+### Changes to this privacy notice
+
+We keep our privacy notice under regular review.
+
+### How to contact us
+
+Requests for information about our privacy policy can be emailed to our [Data Protection Officer](mailto:dataprotection@landregistry.gsi.gov.uk) or by writing to:
+
+The Data Protection Officer  
+Land Registry  
+Trafalgar House  
+1 Bedford Park  
+Croydon  
+CR0 2AQ
