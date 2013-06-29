@@ -1,10 +1,6 @@
-> *The following text is extracted and transformed from the galoo.com privacy policy that was archived on 2012-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121207124208id_/http%3A//galoo.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the galoo.com privacy policy that was archived on 2013-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130629074608id_/http%3A//galoo.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Before you buy it, galoo it!
-
-want it ... galoo it ... buy it ... for less
-
-Privacy Policy
+# Privacy Policy
 
 Galoo® Services Ltd. is committed to ensuring that your privacy is protected. Should we ask you to provide certain information by which you can be identified when using this website, then you can be assured that it will only be used in accordance with this privacy statement.
 
@@ -55,12 +51,33 @@ Controlling your personal information
 You may choose to restrict the collection or use of your personal information in the following ways:
 
   * whenever you are asked to fill in a form on the website, look for the box that you can click to indicate that you do not want the information to be used by anybody for direct marketing purposes
-  * if you have previously agreed to us using your personal information for direct marketing purposes, you may change your mind at any time by writing to or emailing us at [info@galoo.com](mailto:info@galoo.com)
+  * if you have previously agreed to us using your personal information for direct marketing purposes, you may change your mind at any time by writing to or emailing us at [info@galoo.com](mailto:info@galoo.com)
 
 
 
 We will not sell, distribute or lease your personal information to third parties unless we have your permission or are required by law to do so. We may use your personal information to send you promotional information about third parties which we think you may find interesting if you tell us that you wish this to happen.
 
-You may request details of personal information which we hold about you under the Data Protection Act 1998. A small fee will be payable. If you would like a copy of the information held on you please write to [info@galoo.com](mailto:info@galoo.com)
+You may request details of personal information which we hold about you under the Data Protection Act 1998. A small fee will be payable. If you would like a copy of the information held on you please write to [info@galoo.com](mailto:info@galoo.com)
 
 If you believe that any information we are holding on you is incorrect or incomplete, please write to or email us as soon as possible, at the above address. We will promptly correct any information found to be incorrect.
+
+1\. Enter the title of the product or service you want to buy, enter short description and choose the type of your request.  
+2\. If you want to, you can upload image of the product so that the sellers can make better offer for you.   
+3\. Choose category or the subcategory for the product or service you want to buy.   
+4\. Enter the price you wish to buy at and choose its type - whether it is fixed or negotiable.   
+5\. Enter the quantity or the number of products you want to buy. Please enter only whole numbers.   
+6\. Determine how long your request will be valid by picking the date.   
+7\. If you want to, you can fill in additional information about the product or service you want.   
+8\. Choose country in which your request will be published. The sellers from the countries you chose will be able to see your request and make an offer for you.   
+9\. Post your Buyer request!
+
+1\. Enter the title of the product or service you want to sell, enter short description and choose the type of the offer.  
+2\. If you want to, you can upload image of the product/service so that the buyers can make better offer for you.  
+3\. Choose category or the subcategory for the product or service you want to sell.  
+4\. Enter the price you want to get and choose its type - whether it is fixed or negotiable.  
+5\. Enter the floor price if you want. This price will not be displayed at anytime to anyone. This is the lowest price you are willing to accept. The floor price system is optional and can be used to automatically approve a buyers offer.  
+6\. Enter the quantity or the number of products you want to sell. Please enter only whole numbers.  
+7\. Determine how long your offer will be valid by picking the date.  
+8\. If you want to, you can fill in additional information about the product or service you sell.  
+9\. Choose countries (locations) your offer is limited. The buyers from the countries you chose will be able to see your product/service and make an offer for you.  
+10\. Post your Featured Product! 
