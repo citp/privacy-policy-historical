@@ -1,16 +1,16 @@
-> *The following text is extracted and transformed from the onelogin.com privacy policy that was archived on 2012-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120527061139id_/http%3A//www.onelogin.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the onelogin.com privacy policy that was archived on 2013-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130629053143id_/http%3A//www.onelogin.com/privacy) for the most accurate reproduction.*
 
-# privacy | OneLogin
+# Privacy Policy | OneLogin
 
 **Effective as of March 23, 2012.**
 
-When you register with OneLogin, Inc. ("OneLogin") for a OneLogin account you can be certain that we have implemented comprehensive security practices to ensure that only you and those people you provide authorized access to can see your account. We respect your right to privacy and feel it is important for you to know how we handle the information we receive from you via our website at www.onelogin.com (the “Site”) and through our on-demand support platform, tools and services offered on the Site (the “Service”). The use of information collected through our service shall be limited to the purpose of providing the Service for which the Client has engaged OneLogin.
+When you register with OneLogin, Inc. (“OneLogin”) for a OneLogin account you can be certain that we have implemented comprehensive security practices to ensure that only you and those people you provide authorized access to can see your account. We respect your right to privacy and feel it is important for you to know how we handle the information we receive from you via our website at www.onelogin.com (the “Site”) and through our on-demand support platform, tools and services offered on the Site (the “Service”). The use of information collected through our service shall be limited to the purpose of providing the Service for which the Client has engaged OneLogin.
 
 [](https://privacy.truste.com/privacy-seal/OneLogin/validation?rid=4094734b-bd20-4bf8-8c70-fac24b5dba2c "Validate TRUSTe privacy certification")
 
-OneLogin has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with TRUSTe’s [Program Requirements](http://www.truste.com/privacy-program-requirements/program_requirements_website_privacy) and the [TRUSTed Cloud Program Requirements](http://www.truste.com/privacy-program-requirements/trusted-cloud/) including transparency, accountability and choice regarding the collection and use of your personal information. TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy policy or practices, please contact us at [privacy@onelogin.com](mailto:privacy@onelogin.com?subject=Privacy%20Policy). If you are not satisfied with our response you can contact [TRUSTe here](http://watchdog.truste.com/pvr.php?page=complaint).
+OneLogin has been awarded TRUSTe’s Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with TRUSTe’s [Program Requirements](http://www.truste.com/privacy-program-requirements/program_requirements_website_privacy) and the [TRUSTed Cloud Program Requirements](http://www.truste.com/privacy-program-requirements/trusted-cloud/) including transparency, accountability and choice regarding the collection and use of your personal information. TRUSTe’s mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy policy or practices, please contact us at [privacy@onelogin.com](mailto:privacy@onelogin.com?subject=Privacy%20Policy). If you are not satisfied with our response you can contact [TRUSTe here](http://watchdog.truste.com/pvr.php?page=complaint).
 
-[](https://safeharbor.export.gov/list.aspx)
+[](http://safeharbor.export.gov/companyinfo.aspx?id=18980)
 
 OneLogin complies with the U.S.-EU Safe Harbor Framework and the U.S.-Swiss Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries and Switzerland. OneLogin has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view OneLogin’s certification, please visit <http://www.export.gov/safeharbor>
 
@@ -20,7 +20,7 @@ When you register for the Service, we ask for information such as your name, com
 
 OneLogin collects information under the direction of its Clients, and has no direct relationship with the individuals whose personal data it processes. OneLogin works with its Clients to help them provide notice to their customers concerning the purpose for which personal information is collected.
 
-OneLogin has no direct relationship with the individuals whose personal data it processes. An individual who seeks access, or who seeks to correct, amend, or delete inaccurate data should direct his query to OneLogin's Client Administrator (the data controller). If the Client requests OneLogin to remove the data, we will respond to their request within 30 bueinss days.
+OneLogin has no direct relationship with the individuals whose personal data it processes. An individual who seeks access, or who seeks to correct, amend, or delete inaccurate data should direct his query to OneLogin’s Client Administrator (the data controller). If the Client requests OneLogin to remove the data, we will respond to their request within 30 bueinss days.
 
 OneLogin uses a third-party intermediary to manage credit card processing. This intermediary is not permitted to store, retain, or use your billing information except for the sole purpose of credit card processing on OneLogin’s behalf. OneLogin also uses third party intermediaries to send out emails on our behalf and provide customer support including via live chat software.
 
@@ -66,7 +66,7 @@ Our Web site offers publicly accessible blogs or community forums. You should be
 
 ## Testimonials
 
-We post customer testimonials on our web site which may contain personally identifiable information. We do obtain the customer's consent via email prior to posting the testimonial to post their name along with their testimonial. If you want your testimonial removed please contact us at [privacy@onelogin.com](mailto:privacy@onelogin.com?subject=Privacy%20Policy).
+We post customer testimonials on our web site which may contain personally identifiable information. We do obtain the customer’s consent via email prior to posting the testimonial to post their name along with their testimonial. If you want your testimonial removed please contact us at [privacy@onelogin.com](mailto:privacy@onelogin.com?subject=Privacy%20Policy).
 
 ## Surveys
 
@@ -80,14 +80,6 @@ We do not use a third party service provider to conduct these surveys or contest
 
 OneLogin may update this policy from time to time. you can review the most current version of this privacy policy at any time at <http://www.onelogin.com/privacy>. If we make any material changes we will notify you by email (sent to the e-mail address specified in your account) or by means of a notice on this Site prior to the change becoming effective. Your only remedy, if you do not accept the terms of this privacy policy, is to discontinue use of the Site and Service.
 
-## CHANGES TO PRIVACY POLICY
-
-OneLogin may update this policy from time to time. you can review the most current version of this privacy policy at any time at http://www.onelogin.com/privacy. Your continued use of the Site or Service constitutes your agreement to be bound by such changes to the privacy policy. Your only remedy, if you do not accept the terms of this privacy policy, is to discontinue use of the Site and Service.
-
-## BUSINESS TRANSACTIONS
-
-OneLogin may assign or transfer this privacy policy, and your user account and related information and data, to any person or entity that acquires or is merged with OneLogin.
-
 ## TERMS OF SERVICE
 
 When you access and use the Service, you are subject to the OneLogin Terms of Service.
@@ -100,5 +92,3 @@ OneLogin, Inc.
 One Market Street  
 Spear Tower, 36th Floor  
 San Francisco, CA 94105
-
-© Copyright 2012 OneLogin, Inc. All rights reserved.
