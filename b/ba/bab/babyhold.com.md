@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the babyhold.com privacy policy that was archived on 2012-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121229134458id_/http%3A//www.sheknows.com/mediakit/articles/813566/privacy-policy-1) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the babyhold.com privacy policy that was archived on 2013-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130630011330id_/http%3A//www.sheknows.com/mediakit/articles/813566/privacy-policy-1) for the most accurate reproduction.*
 
 # Privacy Policy
 
