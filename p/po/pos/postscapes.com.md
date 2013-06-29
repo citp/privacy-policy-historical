@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the postscapes.com privacy policy that was archived on 2012-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121210200946id_/http%3A//postscapes.com/7-postscapes-general/4-postscapes-legal-terms-of-service-and-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the postscapes.com privacy policy that was archived on 2013-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130629075959id_/http%3A//postscapes.com/7-postscapes-general/4-postscapes-legal-terms-of-service-and-privacy-policy) for the most accurate reproduction.*
 
 # Postscapes General - Postscapes Legal: Terms of Service and Privacy Policy - Postscapes
 
@@ -82,4 +82,4 @@ http://postscapes.com
 3728 Manzanita Dr  
 Loveland, CO 80537  
 USA  
-[hello@postscapes.com](mailto:hello@postscapes.com)
+hello@postscapes.com
