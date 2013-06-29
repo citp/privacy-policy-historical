@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cpxinteractive.com privacy policy that was archived on 2012-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121222093916id_/http%3A//www.cpxinteractive.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cpxinteractive.com privacy policy that was archived on 2013-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130629130340id_/http%3A//www.cpxinteractive.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
