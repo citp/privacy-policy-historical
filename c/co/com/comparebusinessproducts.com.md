@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the comparebusinessproducts.com privacy policy that was archived on 2012-11-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121111175308id_/http%3A//www.comparebusinessproducts.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the comparebusinessproducts.com privacy policy that was archived on 2013-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130629112216id_/http%3A//www.comparebusinessproducts.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Reviews, Comparisons and Buyer’s Guides
 
