@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the aquacard.co.uk privacy policy that was archived on 2012-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121223091112id_/http%3A//www.aquacard.co.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aquacard.co.uk privacy policy that was archived on 2013-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130629185051id_/http%3A//www.aquacard.co.uk/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy - aqua
 
@@ -131,7 +131,7 @@ We try to limit our customer contact programme to acceptable levels, but if you 
 
 ### Viewing notifications
 
-Organisations must lodge a notification with the Information Commissioner describing the purposes for which they process personal information. The details are publicly available from the Information Commissioner's office and you can view ours notification at: [<http://www.ico.gov.uk/ESDWebPages/search.asp>].
+Organisations must lodge a notification with the Information Commissioner describing the purposes for which they process personal information. The details are publicly available from the Information Commissioner's office and you can view them [here](http://www.ico.gov.uk/ESDWebPages/search.asp "http://www.ico.gov.uk/ESDWebPages/search.asp").
 
 ### Changes to Privacy Notice
 
