@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the va.gov privacy policy that was archived on 2012-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121230162148id_/http%3A//www.va.gov/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the va.gov privacy policy that was archived on 2013-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130629193054id_/http%3A//www.va.gov/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - U.S. Department of Veterans Affairs
 
