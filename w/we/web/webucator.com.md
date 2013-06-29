@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the webucator.com privacy policy that was archived on 2012-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121115092916id_/http%3A//www.webucator.com/about-us/privacy-policy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the webucator.com privacy policy that was archived on 2013-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130629225628id_/http%3A//www.webucator.com//about-us/privacy-policy.cfm) for the most accurate reproduction.*
 
 # Customized Instructor-Led Training
 
@@ -61,9 +61,11 @@ If we decide to change our privacy policy, we will post those changes on this pa
 
 If there are any questions regarding this privacy policy you may contact us using the information below:
 
-> [www.webucator.com  
->  ](http://www.webucator.com/)4933 Jamesville Rd.  
->  Jamesville, NY 13078-9428   
->  USA [  
->  sales@webucator.com](mailto:sales@webucator.com)  
->  877-932-8228
+> [www.webucator.com](http://www.webucator.com/)  
+>  Webucator, Inc.  
+>  201 West Genesee Street  
+>  Suite 113  
+>  Fayetteville, NY 13066-1313  
+>  USA  
+>  [sales@webucator.com](mailto:sales@webucator.com)  
+>  877-932-8228 
