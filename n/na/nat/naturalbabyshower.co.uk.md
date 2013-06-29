@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the naturalbabyshower.co.uk privacy policy that was archived on 2012-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121201014156id_/http%3A//www.naturalbabyshower.co.uk/online-media/privacy-policy-cookie-restriction-mode.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the naturalbabyshower.co.uk privacy policy that was archived on 2013-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130629023707id_/http%3A//www.naturalbabyshower.co.uk/online-media/privacy-policy-cookie-restriction-mode.html) for the most accurate reproduction.*
 
 # Privacy Policy | Natural Baby Shower
 
-This privacy policy sets out how Natural Baby Shower uses and protects any information that you give Natural Baby Shower when you use this website. Natural Baby Shower is committed to ensuring that your privacy is protected. Should we ask you to provide certain information by which you can be identified when using this website, then you can be assured that it will only be used in accordance with this privacy statement. Natural Baby Shower may change this policy from time to time by updating this page. You should check this page from time to time to ensure that you are happy with any changes.
+This privacy policy sets out how Natural Baby Shower Ltd uses and protects any information that you give Natural Baby Shower Ltd when you use this website. Natural Baby Shower Ltd is committed to ensuring that your privacy is protected. Should we ask you to provide certain information by which you can be identified when using this website, then you can be assured that it will only be used in accordance with this privacy statement. Natural Baby Shower Ltd may change this policy from time to time by updating this page. You should check this page from time to time to ensure that you are happy with any changes.
 
 ## What we collect
 
@@ -55,7 +55,7 @@ You may choose to restrict the collection or use of your personal information in
 
 We will not sell, distribute or lease your personal information to third parties unless we have your permission or are required by law to do so. We may use your personal information to send you promotional information about third parties which we think you may find interesting if you tell us that you wish this to happen.
 
-You may request details of personal information which we hold about you under the Data Protection Act 1998. A small fee will be payable. If you would like a copy of the information held on you please write to 25a Windsor Street Chertsey Surrey UK KT16 8AY.
+You may request details of personal information which we hold about you under the Data Protection Act 1998. A small fee will be payable. If you would like a copy of the information held on you please write to The Coach House 25a Windsor Street Chertsey Surrey KT16 8AY United Kingdom.
 
 If you believe that any information we are holding on you is incorrect or incomplete, please write to or email us as soon as possible, at the above address. We will promptly correct any information found to be incorrect.
 
