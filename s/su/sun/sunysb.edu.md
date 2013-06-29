@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sunysb.edu privacy policy that was archived on 2012-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121208153242id_/http%3A//www.stonybrook.edu/sb/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sunysb.edu privacy policy that was archived on 2013-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130629190030id_/http%3A//www.stonybrook.edu/sb/privacy.shtml) for the most accurate reproduction.*
 
 # Stony Brook University -Copyright Disclaimer
 
