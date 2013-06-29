@@ -1,58 +1,7 @@
-> *The following text is extracted and transformed from the listbuck.com privacy policy that was archived on 2012-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121226044134id_/http%3A//listbuck.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the listbuck.com privacy policy that was archived on 2013-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130629035059id_/http%3A//listbuck.com/privacy.php) for the most accurate reproduction.*
 
 # ListBuck: The Credit Mailer with Cash Rewards
 
-| Text Advertisements  
----  
-|    
----  
-Free to join!!  
-Exciting PreLaunch  
-The Most Innovative  
-Powerhouse Advert  
-[ **Click Here Now!**](https://web.archive.org/web/20121226044134id_/http%3A//listbuck.com/tr1.php?id=3220)  
-|    
----  
-How Refreshing!!!  
-A New Concept  
-In Social Media   
-aWorldOfOpportunity  
-[ **Click Here Now!**](https://web.archive.org/web/20121226044134id_/http%3A//listbuck.com/tr1.php?id=3235)  
-|    
----  
-Get Paid 2 Click  
-Paying since 2007  
-Multiple ways 2 earn  
-Unlimited referrals  
-[ **Click Here Now!**](https://web.archive.org/web/20121226044134id_/http%3A//listbuck.com/tr1.php?id=3225)  
-|    
----  
-$25 Per Referral  
-Put up to 5 Sites on  
-Auto-Pilot, 24 Hours  
-Daily For You!  
-[ **Click Here Now!**](https://web.archive.org/web/20121226044134id_/http%3A//listbuck.com/tr1.php?id=3230)  
-|    
----  
-100 FREE Leads!  
-FREE to Join!  
-Do Not Have To Buy  
-Anything! Daily Pay!  
-[ **Click Here Now!**](https://web.archive.org/web/20121226044134id_/http%3A//listbuck.com/tr1.php?id=3224)  
-|    
----  
-Fast Easy Traffic  
-Get Your Ads Seen!  
-Now Faster, Easier!  
-Better than ever!  
-[ **Click Here Now!**](https://web.archive.org/web/20121226044134id_/http%3A//listbuck.com/tr1.php?id=3234)  
-|    
----  
-300% In Profits  
-3% Daily, 60 Days  
-Passive Income  
-No Sponsoring Needed  
-[ **Click Here Now!**](https://web.archive.org/web/20121226044134id_/http%3A//listbuck.com/tr1.php?id=3226)  
 Privacy Policy
 
 What information do we collect?  
