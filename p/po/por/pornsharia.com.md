@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pornsharia.com privacy policy that was archived on 2012-09-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120920002846id_/http%3A//pornsharia.com/pages/p6_privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pornsharia.com privacy policy that was archived on 2013-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130629194522id_/http%3A//pornsharia.com/pages/p6_privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -21,6 +21,3 @@ With respect to security: We always use industry-standard encryption technologie
  
 
 If you feel that this site is not following its stated information policy, you may contact us via e-mail at [admin@pornsharia.com](mailto:admin@pornsharia.com)
-
-  
-
