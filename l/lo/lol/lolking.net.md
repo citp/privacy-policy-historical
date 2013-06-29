@@ -1,6 +1,10 @@
-> *The following text is extracted and transformed from the lolking.net privacy policy that was archived on 2012-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121211011616id_/http%3A//www.lolking.net/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lolking.net privacy policy that was archived on 2013-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130629073446id_/http%3A//www.lolking.net/privacy) for the most accurate reproduction.*
 
-# Privacy Policy - League of Legends Statistics - lolking.net
+# Privacy Policy - LolKing
+
+Online: NA EUW EUNE BR RU Offline: TR
+
+[](https://web.archive.org/)
 
 The LoLKing Website ([www.LoLKing.net](http://www.lolking.net/)) is maintained by [ZAM Network, LLC](http://www.zam.com/). Protecting your privacy is important to ZAM Network, LLC, and this statement is intended to make you aware of our commitments to you as an important visitor to our website. This policy may change from time to time, so please check back periodically.
 
