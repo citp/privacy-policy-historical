@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ibay.com.mv privacy policy that was archived on 2012-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121227142836id_/http%3A//www.ibay.com.mv/pg-privacystatement.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ibay.com.mv privacy policy that was archived on 2013-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130629153720id_/http%3A//www.ibay.com.mv/pg-privacystatement.html) for the most accurate reproduction.*
 
 # Buy & Sell on Maldives No.1 Trade Website | ibay - Privacy Statement
 
