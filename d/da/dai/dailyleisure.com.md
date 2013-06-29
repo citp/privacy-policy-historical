@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the dailyleisure.com privacy policy that was archived on 2012-09-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120922052739id_/http%3A//dailyleisure.com/disclosure-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dailyleisure.com privacy policy that was archived on 2013-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130629220624id_/http%3A//dailyleisure.com/disclosure-privacy-policy) for the most accurate reproduction.*
 
-# Disclosure & Privacy Policy
+# Disclosure & Privacy Policy - Daily Leisure
 
 ### Disclosure Policy
 
