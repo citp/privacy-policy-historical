@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sbobetuk.com privacy policy that was archived on 2011-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110623055944id_/http%3A//info.sbobet.com/en/article/AA-00273) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sbobetuk.com privacy policy that was archived on 2013-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130629122651id_/http%3A//info.sbobet.com/en/article/AA-00273) for the most accurate reproduction.*
 
 # Privacy Policy | SBOBET Information Center
 
@@ -8,7 +8,7 @@
 
 ### 1\. PRIVACY POLICY
 
-  1. This is the privacy policy (" **Privacy Policy** ") of Celton Manx Limited with its registered office at Burleigh Manor, Peel Road, Douglas, Isle of Man IM1 5EP British Isles (the " **Operator** ") and explains how the Operator receives, uses and protects your personal information. Protecting your privacy and your personal information is important to the Operator. 
+  1. This is the privacy policy (" **Privacy Policy** ") of Celton Manx Limited with its registered office at Celton House, Isle of Man Business Park, Douglas, Isle of Man, IM2 2QZ, British Isles (the " **Operator** ") and explains how the Operator receives, uses and protects your personal information. Protecting your privacy and your personal information is important to the Operator. 
   2. Your personal information will be held and processed in the Isle of Man. All data will be held in accordance with the Isle of Man Data Protection Act 2002.  
 
 
