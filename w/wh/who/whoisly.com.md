@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the whoisly.com privacy policy that was archived on 2012-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121218000650id_/http%3A//whoisly.com/blog/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the whoisly.com privacy policy that was archived on 2013-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130629185132id_/http%3A//whoisly.com/blog/privacy) for the most accurate reproduction.*
 
 # The Whoisly.com Privacy Policy
 
