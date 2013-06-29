@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dcccd.edu privacy policy that was archived on 2012-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121207070331id_/http%3A//www.dcccd.edu/Pages/Privacy%2520and%2520Security%2520Commitment.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dcccd.edu privacy policy that was archived on 2013-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130629225848id_/http%3A//www.dcccd.edu/Pages/PrivacySecurity.aspx) for the most accurate reproduction.*
 
 # Privacy and Security Commitment
 
@@ -23,7 +23,7 @@ DCCCD is a public higher education institution and therefore bound by the Texas 
 
 The [Texas Public Information Act](http://www.oag.state.tx.us/open/requestors.shtml) requires disclosure of information by a public body -- unless the law specifically protects the information. Most information kept by a public body is public under the Act. The State Attorney General enforces this Act. 
 
-[Back to the top](https://web.archive.org/Pages/Privacy%20and%20Security%20Commitment.aspx#top)
+[Back to the top](https://web.archive.org/Pages/privacysecurity.aspx#top)
 
 **Family Education Rights and Privacy Act of 1974 (FERPA)**
 
@@ -51,7 +51,7 @@ Unless you request that your information be withheld, to comply with FERPA, DCCC
 
 
   
-[Back to the top](https://web.archive.org/Pages/Privacy%20and%20Security%20Commitment.aspx#top)
+[Back to the top](https://web.archive.org/Pages/privacysecurity.aspx#top)
 
   
 **How to request that your directory information be withheld**
@@ -60,13 +60,13 @@ A student may request that the institution withhold from the public all or any p
 
 Directory information is released only upon written request unless permitted by law. Telephone requests are not acceptable. Transcripts or academic records are not released without a student's written consent except as allowed by law.
 
-[Back to the top](https://web.archive.org/Pages/Privacy%20and%20Security%20Commitment.aspx#top)
+[Back to the top](https://web.archive.org/Pages/privacysecurity.aspx#top)
 
 **Information collected by DCCCD  
 **  
 DCCCD's Web servers record only the visitor's Internet Protocol (IP) address, but not the email address. 
 
-[Back to the top](https://web.archive.org/Pages/Privacy%20and%20Security%20Commitment.aspx#top)
+[Back to the top](https://web.archive.org/Pages/privacysecurity.aspx#top)
 
 **Cookies and how they are used  
 **  
@@ -80,7 +80,7 @@ We use [cookies](http://www.netlingo.com/word/cookies.php) to:
 
 
 
-[Back to the top](https://web.archive.org/Pages/Privacy%20and%20Security%20Commitment.aspx#top)
+[Back to the top](https://web.archive.org/Pages/privacysecurity.aspx#top)
 
  **How to view your information**
 
@@ -103,7 +103,7 @@ Currently enrolled (or recently enrolled) credit students who are registered at 
 
 
   
-[Back to the top](https://web.archive.org/Pages/Privacy%20and%20Security%20Commitment.aspx#top)
+[Back to the top](https://web.archive.org/Pages/privacysecurity.aspx#top)
 
 **How to update/correct your student record**
 
@@ -111,7 +111,7 @@ Currently enrolled (or recently enrolled students) credit students can correct t
 
 If any of the remaining personal information in your student record contains an error, please visit the Registrar's Office and request that the error be corrected. Make sure you take a photo identification card with you. Dallas TeleCollege students should visit the [Dallas TeleCollege Registrar's Contact Us website](http://dallastelecollege.dcccd.edu/contactUs.html).
 
-[Back to the top](https://web.archive.org/Pages/Privacy%20and%20Security%20Commitment.aspx#top)
+[Back to the top](https://web.archive.org/Pages/privacysecurity.aspx#top)
 
 **Security**
 
@@ -120,7 +120,7 @@ DCCCD has carefully implemented the information technology industry's best pract
 
 Industry standard technologies like Secure Socket Layers (SSL) are used to protect your credit card information, email address, social security number and other information so it cannot be read as it travels on the Internet. [Verisign](http://www.verisign.com/), the leading provider of digital trust services, provides secure payment processing for your online transactions with DCCCD's eConnect. For Verisign's security information please visit their website at <http://www.verisign.com/truste>.
 
-[Back to the top](https://web.archive.org/Pages/Privacy%20and%20Security%20Commitment.aspx#top)
+[Back to the top](https://web.archive.org/Pages/privacysecurity.aspx#top)
 
   
 Please send comments or questions to [DCCCD's Director of Internet Publishing](mailto:gemoss@dcccd.edu). 
