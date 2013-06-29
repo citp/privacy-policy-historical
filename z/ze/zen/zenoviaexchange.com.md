@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the zenoviaexchange.com privacy policy that was archived on 2012-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120624005804id_/http%3A//zenoviaexchange.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zenoviaexchange.com privacy policy that was archived on 2013-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130629153040id_/http%3A//www.zenoviaexchange.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Zenovia Digital Exchange | Website Privacy Policy
 
-This information and the privacy statement below apply to our corporate website, ZenoviaExchange.com. If you have any questions about this policy, email privacy@zenoviaexchange.com. This policy does not apply to use of the Zenovia platform for delivering online advertising, including the use of the Zenovia Platform on ZenoviaExchange.com. For information about privacy on the Zenovia Platform click here. Zenoviaexchange.com may contain content or links to content or services provided by third parties. This policy does not apply to the practices of those third parties.
+This information and the privacy statement below apply to our corporate website, ZenoviaExchange.com. If you have any questions about this policy, email privacy@zenoviaexchange.com. This policy does not apply to use of the Zenovia platform for delivering online advertising, including the use of the Zenovia Platform on ZenoviaExchange.com. For information about privacy on the Zenovia Platform [click here](http://www.zenoviaexchange.com/zenovia-exchange-privacy-policy). Zenoviaexchange.com may contain content or links to content or services provided by third parties. This policy does not apply to the practices of those third parties.
 
 #### Collection, Use, and Retention of Personally Identifiable Information (PII)
 
@@ -12,19 +12,19 @@ We collect PII via this website when it is provided to us. The PII we collect ma
 
 We collect non-PII on our website using cookies, web beacons, and tags for the operation of the site (e.g. managing user sessions), including analyzing site usage, detecting and preventing malicious behavior on the site, and improving the content and organization of the site. We also engage other companies that will use similar methods to collect non-PII on our website for analyzing site usage.
 
-We use the Zenovia Platform on ZenoviaExchange.com to collect non-PII to be used for advertising our business on other websites. The [Zenovia Platform Privacy Statement [link]](https://web.archive.org/platform-policy "Zenovia Platform Privacy Statement") applies to this collection and use of information.
+We use the Zenovia Platform on ZenoviaExchange.com to collect non-PII to be used for advertising our business on other websites. The [Zenovia Platform Privacy Statement ](http://www.zenoviaexchange.com/zenovia-exchange-privacy-policy)applies to this collection and use of information.
 
 #### Information Sharing
 
 We will not rent, share, or sell to third parties the PII we collect via ZenoviaExchange.com, except for the reasons stated in this Privacy Statement.
 
-We may share non-PII or PII with affiliates, subsidiaries, vendors, or other third parties to perform services on our behalf that are related to marketing and operating Zenovia's business.
+We may share non-PII or PII with affiliates, subsidiaries, vendors, or other third parties to perform services on our behalf that are related to marketing and operating Zenovia’s business.
 
 We may disclose your information to third parties when we reasonably believe we are obligated to do so by law, and in order to investigate, prevent, or take action regarding suspected or actual prohibited activities, including but not limited to fraud and situations involving potential threats to the physical safety of any person.
 
 We may transfer information, including any PII, to a successor entity in connection with a corporate merger, consolidation, sale of assets, bankruptcy, or other corporate change.
 
-Information about children 
+#### Information about children
 
 This site is not intended for, or designed to attract, children. We do not collect personally identifiable information from any person we actually know is an individual under the age of 13.
 
@@ -36,7 +36,7 @@ We will not use PII provided to us for purposes incompatible with the purpose fo
 
 For sensitive information, as required by the Safe Harbor Principles, we will obtain authorization prior to sharing the information or using it for a purpose other than that for which it was collected.
 
-For choices relating to interest-based advertising on the Zenovia Platform, see the [Zenovia Platform Privacy Statement.](https://web.archive.org/web/20120624005804id_/http%3A//zenoviaexchange.com/platform-privacy.php "Zenovia Platform Privacy Statement")
+For choices relating to interest-based advertising on the Zenovia Platform, see the Zenovia Platform Privacy Statement [link].
 
 #### Changes to this Policy
 
@@ -44,6 +44,6 @@ We may from time to time change our practices with regard to information collect
 
 #### Questions?
 
-If you have questions or requests regarding our collection and use of information, please email us at [privacy@zenoviaexchange.com](mailto:privacy@zenoviaexchange.com "privacy policy email").
+If you have questions or requests regarding our collection and use of information, please email us at privacy@zenoviaexchange.com.
 
 Last Updated: 29 March 2012
