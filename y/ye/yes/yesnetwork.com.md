@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the yesnetwork.com privacy policy that was archived on 2008-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080611010647id_/http%3A//web.yesnetwork.com/about/privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yesnetwork.com privacy policy that was archived on 2013-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130629202523id_/http%3A//web.yesnetwork.com/about/privacy.jsp) for the most accurate reproduction.*
 
-# YESNetwork.com: About: Privacy Policy
+# Privacy Policy
 
 YESNETWORK.com Privacy Statement
 
@@ -28,7 +28,7 @@ The law requires that we may be required to share your personal information and 
 Your preferences are password protected for your privacy and security. In certain areas, we use industry-standard SSL encryption to protect data transmissions. 
 
 **How You Can Review Your Personal Information**  
-If you want to review your personal information, you can revise your preferences. Your preferences include your shipping, payment and account information, as well as whether you want to receive communications from us. If you want to close your account with us and have us delete the personal information in it (except for information that we keep for record-keeping purposes), you should contact our [Privacy Administrator](mailto:info@yesnetwork.com). 
+If you want to review your personal information, you can revise your preferences. Your preferences include your shipping, payment and account information, as well as whether you want to receive communications from us. If you want to close your account with us and have us delete the personal information in it (except for information that we keep for record-keeping purposes), you should contact our Privacy Administrator. 
 
 **Choice**  
 Our registration and order forms contain a box for you to indicate whether or not you consent to receive special offers and promotions from us. Unless you give us your consent to use your personal information for these purposes, we and our partners will only use it to complete the transaction or provide the service or product you have requested. If you indicate that you consent to receive communications or solicitations, but you later change your mind, you can revise your preferences. 
@@ -38,22 +38,25 @@ The Website contains links to other sites produced by YES and MLBAM - and websit
 
 **The Privacy Policy applies only to this Website.**
 
-**Special Rules For Children**  
-Because of federal law, we cannot collect any personal information from a child under the age of thirteen without the consent of that child's parent. The statements in this Privacy Policy generally about our collection and use of personal information also apply to our treatment of personal information from children under the age of thirteen, with the added protection of the special rules that follow. 
+**Special Rules For Children Under the Age of 13**  
+Because of federal law, we cannot knowingly collect any personal information from a child under the age of 13 without the consent of that child's parent. The statements in this Privacy Policy generally about our collection and use of personal information also apply to our treatment of personal information from children under the age of thirteen, with the added protection of the special "Parental Consent" rules that follow. Some services on our Website (e.g., the Shop) require the submission of a credit card number along with personal information in connection with a purchase, and are therefore not available to children without their parent's consent. Other services on our Website (e.g., messages and chats) are not available to children under the age of thirteen. If a child who YES and/or MLBAM knows to be under the age of thirteen attempts to utilize a service on this Website which is not available to children, he/she will receive a message which states "You are not eligible" for the service. 
 
-**Information Collected**  
-Depending on the special service requested, personal information collected may include a name, e-mail address, telephone number (e.g., home, mobile and/or fax), address or age of a child. We will not condition a child's participation in any activity on the Website, such as a fantasy game, on the child's disclosing more information than is reasonably necessary to participate in that activity. A parent can review his or her child's personal information by accessing the child's preferences. A parent can instruct us to delete the child's personal information or to stop collecting or using the child's personal information by contacting the [Privacy Administrator](mailto:info@yesnetwork.com). 
+_**Parental Consent**_
 
-**Information Use**  
-We may use the personal information to provide the child with the special services for which he or she has registered, as well as for fulfilling a requested transaction, record keeping, marketing back to the child or making it publicly available through a chat room. (Please note that when anyone, including a child, uses a message board or chat room on the Website, the communications are publicly available to the other participants.) 
+Parents who are interested in services that are available to children under the age of thirteen should contact our Website's Privacy Administrator for a consent form. The consent form will include a notice describing this Privacy Policy and will ask for the parent's consent to our collection and use of personal information from or about their child. If the consent form is not completed by the parent and not returned to our [Privacy Administrator](http://mlb.mlb.com/mlb/official_info/about_mlb_com/privacy_policy.jsp#i9), the child will not be able to access those of our activities requiring registration and we will not knowingly collect any personal information from that child. A child's parent has the option to consent to our collection and use of their child's personal information without consenting to the disclosure of that information to third parties, but if such disclosure is necessary to make available a service which has been requested, then the child will not have access to such service.
 
-**Information Disclosure**  
-After obtaining the consent of the parent, we, and our service providers will maintain the confidentiality, security, and integrity of the personal information collected about their child. A child's information will only be disclosed to our third party service providers as described in this Privacy Policy. They cannot use your child's personal information without your consent for any purpose other than the service you have requested on behalf of your child. 
+_Information Collected_. Depending on the special service requested, personal information collected may include a full name, email address, street address, or age of a child. We will not condition a child's participation in any activity on this Website on the child's disclosing more information than is reasonably necessary to participate in that activity.
+
+If a parent has consented to our collection of personal information about his/her child, the parent can review his/her child's personal information by accessing the child's Website account. A parent can instruct us to delete the child's personal information or to stop collecting or using the child's personal information by contacting the [Privacy Administrator](http://mlb.mlb.com/mlb/official_info/about_mlb_com/privacy_policy.jsp#i9). 
+
+_Information Use_. We may use the personal information we collect to provide the child with the special services for which he or she has registered, as well as for fulfilling a requested transaction, record keeping, or marketing back to the child. Please note that when anyone, including a child, uses a message board or chat room on our Website, the communications are publicly available to the other participants. 
+
+_Information Disclosure_. After obtaining the consent of the child's parent, we, and our service providers will maintain the confidentiality, security, and integrity of the personal information collected about the child. A child's information will only be disclosed to our third-party service providers as described in this Privacy Policy. 
 
 **Contact Us**  
-If you have questions or concerns about this Privacy Policy, you can contact us at: YESNETWORK.com, Privacy Administrator c/o MLBAM, 75 Ninth Avenue, New York, New York 10011 Phone: (212) 485-8421 Fax: (212) 485-8111; or send an e-mail to Privacy Administrator ([info@yesnetwork.com](mailto:info@yesnetwork.com)). 
+If you have questions or concerns about this Privacy Policy, you can contact us at: YESNETWORK.com, Privacy Administrator c/o MLBAM, 75 Ninth Avenue, New York, New York 10011 or send an e-mail to Privacy Administrator ([info@yesnetwork.com](mailto:info@yesnetwork.com)). 
 
 **Notification of Changes**  
 If we decide to make an important change to our Privacy Policy, we will post a notification and link on our homepage so that you can review the updated policy. If at any point we wish to use your personal information in a manner different from that stated at the time it was collected, we will notify you by means of an e-mail and give you the opportunity to indicate whether you consent to the proposed use. 
 
-LAST UPDATED AND EFFECTIVE DATE: June 13, 2006 
+LAST UPDATED AND EFFECTIVE DATE: May 27, 2010 
