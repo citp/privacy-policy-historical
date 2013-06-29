@@ -1,18 +1,18 @@
-> *The following text is extracted and transformed from the popcrunch.com privacy policy that was archived on 2012-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120616055233id_/http%3A//www.popcrunch.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the popcrunch.com privacy policy that was archived on 2013-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130629124804id_/http%3A//www.popcrunch.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Pop CrunchPrivacy Policy
 
 **Privacy Policy – Last Updated May, 2012**  
 Thank you for visiting a SeaWaves Technology ("we" or "us") Web site. Your privacy is important to us. To better protect your privacy, we provide this notice explaining our online information practices and the choices you can make about the collection and use of the personal information you submit on Web pages where this policy is posted.
 
 As we operate internationally, and many of our computer systems are currently based in the United States, your personal data will be processed by us in the U.S. where data protection and privacy regulations may not offer the same level of protection as in other parts of the world, such as the European Union. If you create a user account with this site as a visitor from outside the United States, you will be asked during the initial registration to consent to the collection and/or processing in the United States of your personally identifiable information, which includes the use of cookies as described below.
 
- **The Information We Collect**  
+**The Information We Collect**  
 At some SeaWaves Technology Web sites, you can order products, enter contests, vote in polls or otherwise express an opinion, subscribe to one of our services such as our online newsletters, or participate in one of our online forums or communities. The types of personally identifiable information that may be collected at these pages include: name, address, e-mail address, telephone number, fax number, credit card information, and information about your interests in and use of various products, programs, and services.
 
-At certain parts of some of our sites, only persons who provide us with the requested personally identifiable information will be able to order products, programs, and services, or otherwise participate in the site’s activities and offerings. We also collect certain non-personally identifiable information when you visit many of our Web pages such as the type of browser you are using (e.g., Netscape, Internet Explorer), the type of operating system you are using (e.g., Windows 2000 or Mac OS), and the domain name of your Internet service provider (e.g., America Online, Earthlink).
+At certain parts of some of our sites, only persons who provide us with the requested personally identifiable information will be able to order products, programs, and services, or otherwise participate in the site’s activities and offerings. We also collect certain non-personally identifiable information when you visit many of our Web pages such as the type of browser you are using (e.g., Netscape, Internet Explorer), the type of operating system you are using (e.g., Windows 2000 or Mac OS), and the domain name of your Internet service provider (e.g., America Online, Earthlink). 
 
- **How We Use The Information**  
+**How We Use The Information**  
 We use the information you provide about yourself to fulfill your requests for our products, programs, and services, to respond to your inquiries about our offerings, and to offer you other products, programs or services that we believe may be of interest to you.
 
 We use this information to communicate with you, such as to notify you when you have won one of our contests or when we make changes to our subscriber agreements, to fulfill a request by you for an online newsletter, or to contact you about your account with us.
@@ -37,10 +37,10 @@ Some of our sites contain links to other sites whose information practices may b
 
 We sometimes may offer content (e.g., contests, sweepstakes, or promotions) that is sponsored by or co-branded with identified third parties. By virtue of these relationships, the third parties may obtain personally identifiable information that visitors voluntarily submit to participate in the site activity. We have no control over these third parties’ use of this information. The site will notify you at the time of requesting personally identifiable information if these third parties will obtain such information.
 
-At some SeaWaves Technology Web sites, reputable third parties may present or serve the advertisements. Our Privacy Policy does not cover any use of information that a third party ad server may collect from you.
+At some SeaWaves Technology Web sites, reputable third parties may present or serve the advertisements. Our Privacy Policy does not cover any use of information that a third party ad server may collect from you. 
 
- **Google’s Use of the DART Cookie  
-**Google, a third party vendor, uses cookies to serve ads on some of sites. Google uses what is caled a DART cookie which enables it to serve ads that are based on your visit to various sites on the Internet. You may opt out of the use of the DART cookie by visiting the [Google ad and content network privacy policy](http://www.google.com/privacy_ads.html).
+**Google’s Use of the DART Cookie  
+**Google, a third party vendor, uses cookies to serve ads on some of sites. Google uses what is caled a DART cookie which enables it to serve ads that are based on your visit to various sites on the Internet. You may opt out of the use of the DART cookie by visiting the [Google ad and content network privacy policy](http://www.google.com/privacy_ads.html). 
 
 **Cookies and Other Technical Information**  
 We send "cookies" to your computer primarily to enhance your online experience. "Cookies" are files that can identify you as a unique customer and store your personal preferences as well as technical information (including click through and click stream data). Cookies can either be permanent (i.e., they remain on your computer until you delete them) or temporary (i.e., they last only until you close your browser). We may also use "Web beacons" that monitor your use of our sites. Web beacons (or Web bugs) are small strings of code that provide a method for delivering a graphic image on a Web page for the purpose of transferring data, such as the IP (Internet Protocol) address of the computer that downloaded the page on which the Web beacon appears, the URL (Uniform Resource Locator) of the page on which the Web beacon appears, the time the page containing the Web beacon was viewed, the types of browser that fetched the Web beacon and the identification number of any cookie on the computer previously placed by that server. When corresponding with you via HTML capable e-mail, Web beacons let us know whether you received and opened our e-mail.
@@ -63,7 +63,7 @@ Visitors to this site may participate in many activities without providing any p
 **Notification Regarding Updates**  
 From time to time, we may update this privacy notice. We will notify you about material changes in the way we treat personally identifiable information by placing a notice on our site. We encourage you to periodically check back and review this policy so that you always will know what information we collect, how we use it, and to whom we disclose it.
 
- **Cookies & 3rd Party Advertisements**  
+**Cookies & 3rd Party Advertisements**  
 Google, as a third party vendor, uses cookies to serve ads on your site. Google’s use of the DART cookie enables it to serve ads to your users based on their visit to your sites and other sites on the Internet. Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy.
 
 We allow third-party companies to serve ads and/or collect certain anonymous information when you visit our web site. These companies may use non-personally identifiable information (e.g., click stream information, browser type, time and date, subject of advertisements clicked or scrolled over) during your visits to this and other Web sites in order to provide advertisements about goods and services likely to be of greater interest to you. These companies typically use a cookie or third party web beacon to collect this information. To learn more about this behavioral advertising practice or to opt-out of this type of advertising, you can visit http://www.networkadvertising.org/managing/opt_out.asp.
