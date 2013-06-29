@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the solarbuzz.com privacy policy that was archived on 2012-10-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121005203407id_/http%3A//www.solarbuzz.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the solarbuzz.com privacy policy that was archived on 2013-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130629184622id_/http%3A//www.solarbuzz.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Solarbuzz
 
