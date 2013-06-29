@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the linkbucket.info privacy policy that was archived on 2012-11-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121111185156id_/http%3A//www.linkbucket.info/index.php%3Foption%3Dcom_content%26view%3Darticle%26id%3D7) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the linkbucket.info privacy policy that was archived on 2013-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130630001216id_/http%3A//www.linkbucket.info/index.php%3Foption%3Dcom_content%26view%3Darticle%26id%3D7) for the most accurate reproduction.*
 
 # Privacy Policy
 
