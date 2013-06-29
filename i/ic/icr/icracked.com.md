@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the icracked.com privacy policy that was archived on 2012-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121228203404id_/http%3A//www.icracked.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the icracked.com privacy policy that was archived on 2013-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130629233731id_/http%3A//www.icracked.com/privacy-policy) for the most accurate reproduction.*
 
 # iCracked, Privacy Policy
 
@@ -29,5 +29,3 @@ By accessing and using iCracked.com or any iCracked service, you consent to iCra
 
   
 
-
-© iCracked Inc, 2012. All rights reserved. iPhone, iPod, and iPad are trademarks of Apple Inc. iCracked is an Independent Service Company and is no way affiliated with Apple Inc. But, we love them.
