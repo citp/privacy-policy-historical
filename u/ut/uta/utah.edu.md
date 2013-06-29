@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the utah.edu privacy policy that was archived on 2012-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121222144145id_/http%3A//www.utah.edu/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the utah.edu privacy policy that was archived on 2013-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130629161722id_/http%3A//www.utah.edu/privacy) for the most accurate reproduction.*
 
 # Privacy Statement - The University of Utah
 
@@ -71,7 +71,7 @@ University policies are subject to change. We encourage you to check back for up
 University Webmaster  
 101 South Wasatch Drive #215  
 Salt Lake City, UT 84112  
-(801) 587-9888  
+(801) 585-7320  
 [webmaster@utah.edu](mailto:webmaster@utah.edu)
 
 **Last Updated** : 1/3/05
