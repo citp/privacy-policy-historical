@@ -1,49 +1,281 @@
-> *The following text is extracted and transformed from the webofknowledge.com privacy policy that was archived on 2009-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091126013328id_/http%3A//www.thomsonreuters.com/content/footer/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the webofknowledge.com privacy policy that was archived on 2013-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130629193021id_/http%3A//ip-science.thomsonreuters.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy - Thomson Reuters
+# Privacy Policy - IP & Science - Thomson Reuters
 
-#### WHAT INFORMATION ABOUT YOU DO WE COLLECT? 
+### SCOPE
 
-When you visit our Web Site, you may provide us with two types of information: (1) personally identifiable information that you knowingly choose to disclose, which is collected on an individual basis, and (2) general user information that does not contain personally identifiable information, which is collected on an aggregate basis as you browse the Web Site. In some cases, if you choose not to provide us with requested information, you may not be able to access all of our Web Site's content or services. 
+Your privacy is important to Thomson Reuters, and we go to great lengths to protect it. This Privacy Statement applies to the online collection of personal information via websites and mobile applications operated by the Intellectual Property & Science business of Thomson Reuters, and its worldwide affiliated companies and subsidiaries. This Statement does not apply to information collected in any other way, including offline. 
 
-##### Personally Identifiable Information You Choose to Provide. 
+Our website may contain links to sites maintained by others. This Privacy Statement does not reflect the privacy practices of those sites.
 
-We may ask for certain personal information from you for the purpose of providing to you content and/or services that you request. For example, if you indicate an interest in receiving press releases about Thomson Reuters, you are asked to submit your name and e-mail address, which we retain on file, so that we may send you the information that you requested. If you indicate on our E-mail Alert registration form that you are a member of the press, we may also send you information regarding our business. We also request your name and e-mail address each time you contact us by clicking on the "Contact Us" link. We may retain a record of users who have contacted us in order to respond properly to questions or concerns and for purposes of future communications. 
+### HIGHLIGHTS 
 
-##### Non-Personally Identifiable Information We Collect. 
+**What personal information is collected and how is that information used?**
 
-Cookies/ Web server logs: Similar to other commercial Web sites, our Web Site utilizes standard technology called "cookies" and Web server logs to collect information about how our Web Site is used. Cookies are a feature of Web browser software that allows Web servers to recognize the computer used to access a Web site. Cookies are small pieces of data that are stored by a user's Web browser on the user's hard drive. Information gathered through cookies and Web server logs may include the date and time of visits, the pages viewed, time spent at our Web Site, and the Web sites visited just before and just after our Web Site. This information is collected on an aggregate basis. None of this information is associated with you as an individual.
+  * We collect information about our users in three ways: directly from the user (for example, when ordering a product, registering an account, or signing up for a newsletter), from our web server logs, and through cookies. 
+  * We use the information primarily to provide you with a personalized Internet or mobile application experience that delivers the information, resources, and services that are most relevant and helpful to you. 
+  * We do not share with others any of the information you provide, unless we say so in this Privacy Statement, or when we believe in good faith that the law requires it. 
 
-You can, of course, disable cookies on your computer by indicating this in the preferences or options menus in your browser. However, it is possible that some parts of our Web Site will not operate correctly if you disable cookies. You should consult with your browser's provider/manufacturer if you have any questions regarding disabling cookies. 
 
-#### HOW DO WE USE THE INFORMATION WE COLLECT? 
 
-We use your personally identifiable information to provide you with the information or content that you have requested, and, in some cases, to contact you about our programs, products, features or services. If you no longer wish to receive press releases or any other type of information from us, you may send us an email through our "Contact Us" link or use our E-mail Alert form to change your preferences.
+**How is my personal information protected?**
 
-We use non-identifying information collected on our Web Site in the aggregate to better understand your use of the Web Site and to enhance your enjoyment and experience. For example, we may use the information to improve the design and content of our Web Site or to analyze the programs and services that we offer.
+  * We have implemented certain appropriate security measures to help protect your personal information from accidental loss and from unauthorized access, use, or disclosure. 
+  * We store the information about you in a data center with restricted access and appropriate monitoring. 
+  * We use intrusion detection and virus protection software. 
+  * Despite these measures, we cannot guarantee that unauthorized persons will always be unable to defeat our security measures. 
 
-We may employ other companies and individuals to perform functions on our behalf. Our employees, agents and contractors who have access to personally identifiable information are required to protect the information in a manner that is consistent with this Privacy Statement.
 
-We may provide access to your personally identifiable information when legally required to do so, to cooperate with police investigations or other legal proceedings, to protect against misuse or unauthorized use of our Web Site, to limit our legal liability and protect our rights, or to protect the rights and safety of visitors to this Web Site or the public. In those instances, the information is provided only for that limited purpose.
 
-We will not share your personally identifiable information in ways unrelated to those described above without providing you with an opportunity to opt out of such use or otherwise prohibit such unrelated uses. 
+**Who has access to the personal information?**
 
-#### HOW DO YOU ACCESS AND/OR MODIFY YOUR INFORMATION OR CHOICES? 
+  * We will not sell, rent, or lease mailing lists or other customer data to others, and we will not make your personal information available to any unaffiliated parties, except our approved agents and contractors, or as otherwise described in this Privacy Statement. 
+  * We rely on some of our affiliates for support of the products and services we offer, and we share some of our back-office functions with other Thomson Reuters companies; our affiliates are all required to preserve the confidentiality of any personal information they may access. 
+  * We will not disclose any personal information or information about your usage of our websites or mobile applications to unaffiliated third parties, except as necessary to service the account, to enforce the terms of use, to meet our obligations to content and technology providers, as required by law, or as otherwise indicated in this Statement. 
 
-If you visit our Web Site and volunteer personally identifiable information, you may modify, update or delete such information at any time by visiting the E-mail Alert area where you will have the opportunity to access and revise certain of your personally identifiable information, and to update your preferences regarding what information you want to receive from us, or by clicking on the "Contact Us" link and sending us an e-mail. You should be aware, however, that it is not always possible to completely remove or modify information in our databases. In addition, please be aware that your ability to opt out from receiving marketing and promotional materials does not change our right to contact you regarding your use of our Web Site. 
 
-#### PRIVACY PROTECTIONS FOR CHILDREN USING THE INTERNET 
 
-Protecting children's privacy is important to us. For that reason, we do not collect or maintain information on our Web Site from those we actually know are under the age of 13, nor is any part of our Web Site targeted to attract anyone under 13. We request that all visitors to our Web Site who are under 13 not disclose or provide any personally identifiable information. If we discover that a child under 13 has provided us with personally identifiable information, we will delete that child's personally identifiable information from our records. 
+**How may I correct, amend, or delete my personal information, or update my preferences?**
 
-#### DATA SECURITY 
+  * You may cancel your registration or update your preferences at any time. 
+  * If you do not want to receive information about our products or services, please update your account preferences (where available), check the appropriate box when registering and/or utilize the "unsubscribe" mechanism within the communications that you receive from us. 
+  * If you have any additional questions or concerns related to this statement and/or our practices, please [contact our Data Privacy Team](http://science.thomsonreuters.com/info/policy_request/). 
 
-We take reasonable steps to maintain the security of the personally identifiable information that we collect, including limiting the number of people who have physical access to our database servers, as well as installing electronic security systems that guard against unauthorized access. However, no data transmission over the Internet can be guaranteed to be completely secure. Accordingly, we cannot ensure or warrant the security of any information that you transmit to us, so you do so at your own risk. 
 
-#### CONSENT TO TRANSFER 
 
-This Web Site is operated in the United States. If you are located outside of the United States, please be aware that any information you provide to us will be transferred to the United States. By using our Web Site, participating in any of our services and/or providing us with your information, you consent to this transfer. 
+### FULL PRIVACY STATEMENT
 
-#### LINKS 
+**WHAT PERSONAL INFORMATION DOES THE IP & SCIENCE BUSINESS OF THOMSON REUTERS COLLECT AND HOW DO WE USE IT? **  
+We collect information about our users in three ways: directly from the user, from our web server logs, and through cookies. We use the information primarily to provide you with a personalized Internet experience that delivers the information, resources, and services that are most relevant and helpful to you. We don't share any of the information you provide with others, unless we say so in this Privacy Statement, or when we believe in good faith that the law requires it.  
 
-This Web Site contains links to third party sites as well as to other sites owned and/or operated by Thomson Reuters. Please be aware that Thomson Reuters is not responsible for the privacy practices of any third party sites. Please also be aware that the privacy policies of other Thomson Reuters sites may differ significantly from the privacy policy of this Web Site. Therefore, we encourage our users to read the privacy statement of each and every Web site that collects personally identifiable information. This Privacy Statement applies solely to information collected by this Web Site. 
+
+**User-Supplied Information**  
+When you register for our services or order products via our site, we ask you to provide some personal information, for example, your name, address, phone number, email address, payment card information, and/or certain additional categories of information resulting from use of our websites and services, such as research requests. We keep this information in a contact database for future reference, as needed. We may use certain information you provide to offer you products and services that we believe may be of interest to you. If you don't wish to receive such offers, you may opt out (unsubscribe) [via this form](http://science.thomsonreuters.com/optout/)
+
+If you contact us for customer support, we may ask you to provide information about your computer or about the issues you are trying to resolve. This information is necessary to help us answer your questions. We may record your requests and our responses for quality control purposes.
+
+Some Thomson Reuters websites make chat rooms, forums, message boards, or news groups available to you. Please remember that any information disclosed in these areas is public. You should exercise caution when disclosing personal information in these areas. Don't disclose information in these public forums that might be considered confidential. 
+
+**Web server logs**  
+When you visit our website, we may track information about your visit and store that information in web server logs, which are records of the activities on our sites. Our servers automatically capture and save the information electronically. Examples of the information we may collect include: 
+
+  * Your unique Internet protocol address 
+  * The name of your unique Internet service provider
+  * The city, state, and country from which you access our website
+  * The kind of browser or computer you use 
+  * The number of links you click within the site 
+  * The date and time of your visit 
+  * The web page from which you arrived to our site
+  * The pages you viewed on the site
+  * Certain searches/queries that you conducted via our website(s) 
+
+
+
+The information we collect in web server logs helps us administer the site, analyze its usage, protect the website and its content from inappropriate use, and improve the user's experience.
+
+**Cookies**  
+In order to offer and provide a customized and personal service, we may use cookies to store and help track information about you. Cookies are simply small pieces of data that are sent to your browser from a web server and stored on your computer's hard drive. We use cookies to help remind us who you are and to help you navigate our sites during your visits. Cookies enable us to save passwords and preferences for you so you won't have to re-enter them each time you visit. 
+
+The use of cookies is relatively standard. Most browsers are initially set up to accept cookies. The table below describes the cookies we use on this site and what we use them for. We currently operate an ‘implied consent’ policy which means that we assume that by using our web site you are happy with our use of cookies. However, if you are not happy, you can choose to:
+
+  * not use our sites
+  * set your browser to notify you when you receive a cookie
+  * set your browser to refuse to accept cookies
+  * delete our cookies after visiting our site
+  * browse our site using your browser’s anonymous usage setting (called “Incognito” in Chrome, “InPrivate” for Internet Explorer, "Private Browsing" in Firefox and Safari etc.). 
+
+
+
+You should understand that some features of our web site may not function properly if you don't accept cookies.
+
+If you do not know how to control or delete cookies, then we recommend you visit [http://www.aboutcookies.org ](http://www.aboutcookies.org/)for detailed guidance. For information on how to do this on the browser of your mobile phone you will need to refer to your handset manual.
+
+**Thomson Reuters cookies:**  
+The cookies we use include, but are not limited to, the following:
+
+**Cookie name** | 
+
+**Description**
+
+| 
+
+**Additional information**  
+  
+---|---|---  
+  
+LiSESSIONID
+
+| 
+
+Manages session on community.thomsonreuters.com.
+
+| 
+
+<http://www.lithium.com/privacy-policy/>  
+  
+tr-scientific
+
+| 
+
+Saves the content of form fields so they do not need to be re-entered. 
+
+| 
+
+<http://ip-science.thomsonreuters.com/>  
+  
+wid
+
+| 
+
+Session cookie that identifies program winners.
+
+| 
+
+<http://top100innovators.com/>  
+  
+SESS*
+
+| 
+
+Manages session on ip.thomsonreuters.com.
+
+| 
+
+<http://ip.thomsonreuters.com/>  
+  
+SESS*
+
+| 
+
+Manages session on info.thomsoninnovation.com.
+
+| 
+
+<http://info.thomsoninnovation.com/>  
+  
+sid
+
+| 
+
+manages session on apps.isiknowledge.com
+
+|   
+  
+customer
+
+| 
+
+identifies institution name on apps.isiknowledge.com
+
+|   
+  
+jsessionid
+
+| 
+
+Identifies user name on Thomson Reuters Pharma, Thomson Reuters Cortellis, Thomson Reuters Integrity, Thomson Reuters Drug News, Thomson Reuters Forecast, Thomson Reuters KOLexperts, Derwent Discovery, DOLPHIN, IDRAC, Newport Premium, Thomson Innovation, ResearcherID, EndNote and InCites.
+
+|   
+  
+laccount
+
+| 
+
+Identifies user name on Thomson Reuters Pharma, Thomson Reuters Cortellis, Thomson Reuters Integrity, Thomson Reuters Drug News, Thomson Reuters Forecast, Thomson Reuters KOLexperts, Derwent Discovery, DOLPHIN, IDRAC, Newport Premium, Thomson Innovation, ResearcherID, EndNote and InCites.
+
+|   
+  
+luser
+
+| 
+
+Identifies user name on Thomson Reuters Pharma, Thomson Reuters Cortellis, Thomson Reuters Integrity, Thomson Reuters Drug News, Thomson Reuters Forecast, Thomson Reuters KOLexperts, Derwent Discovery, DOLPHIN, IDRAC, Newport Premium, Thomson Innovation, ResearcherID, EndNote and InCites.
+
+|   
+  
+**Third party cookies:**  
+
+
+**Cookie name**
+
+| 
+
+**Description**
+
+| 
+
+**Additional information**  
+  
+---|---|---  
+  
+Omniture
+
+| 
+
+Provides anonymous user data to help us understand how our site is being used in order to improve the user experience.
+
+| 
+
+<http://www.omniture.com/en/privacy/2o7>  
+  
+Google Analytics
+
+| 
+
+Provides anonymous user data to help us understand how our site is being used in order to improve the user experience. 
+
+| 
+
+<http://www.google.co.uk/intl/en/analytics/privacyoverview.html>  
+  
+Eloqua  
+(Tracking Cookie)
+
+| 
+
+Gathers user information to help us optimise the user experience and future interactions with our users.
+
+| 
+
+<http://www.eloqua.com/trust/Privacy_Policy.html>  
+  
+AddThis
+
+| 
+
+Allows users to share content on social networking sites.
+
+| 
+
+<http://www.addthis.com/privacy>  
+  
+**Third Party Services**  
+We may use services hosted by third parties such as Google Analytics, to assist in providing our services and to help us understand our customers' use of our products. These services may collect information sent by your browser as part of a web page request, including your IP address or cookies. If these third party services collect information, they do so anonymously and in the aggregate to provide information helpful to us such as website trends, without identifying individual visitors. Please see "Cookies" in the section above for information on how you can control the use of cookies on your computer.
+
+**HOW DOES THE IP & SCIENCE BUSINESS OF THOMSON REUTERS PROTECT THE PERSONAL INFORMATION THAT IT COLLECTS?**  
+We have implemented certain appropriate security measures to help protect your personal information from accidental loss and from unauthorized access, use, or disclosure. For example, some of our websites are protected with Secure Sockets Layer (SSL) technology. Also, we store the information about you in a data center with restricted access and appropriate monitoring, and we use a variety of technical security measures to secure your data. In addition, we use intrusion detection and virus protection software. **However, please note that we cannot guarantee that unauthorized persons will always be unable to defeat our security measures**.
+
+Also, please note that we may store and process your personal information in systems located outside of your home country. However, regardless of where storage and processing may occur, we take appropriate steps to ensure that your information is protected, consistent with the principles set forth under this Statement.
+
+**WHO HAS ACCESS TO THE PERSONAL INFORMATION?**  
+We will not sell, rent, or lease mailing lists or other customer data to others, and we will not make your personal information available to any unaffiliated parties, except as follows:
+
+  * To agents and/or contractors who may use it on our behalf or in connection with their relationship with us (for example, we may use third parties to help us with promotional campaigns). 
+  * As required by law, in a matter of public safety or policy, as needed in connection with the transfer of our business assets (for example, if we are acquired by another company or if we are liquidated during bankruptcy proceedings), or if we believe in good faith that sharing the data is necessary to protect our rights or property. 
+
+
+
+We also rely on some of our affiliates for support of the products and services we offer, and we share some of our back-office functions with other Thomson Reuters companies. Our affiliates are all required to preserve the confidentiality of any personal information they may access. 
+
+We will not disclose any information about your usage to unaffiliated third parties, except as necessary to service the account, to enforce the terms of use, to meet our obligations to content and technology providers, or as required by law. We may also use statistics regarding usage for product development purposes, but we only use those statistics in the aggregate and they don't include any personally identifiable information about individual users.
+
+Your access to some of our services and content may be password protected. We recommend that you refrain from disclosing your username(s) and password(s) to anyone. We also recommend that you sign out of your account or service at the end of each session. You may also wish to close your browser window when you have finished your work, especially if you share a computer with someone else or if you are using a computer in a public place like a library or Internet cafe.
+
+**HOW CAN I UPDATE MY PERSONAL INFORMATION AND EMAIL PREFERENCES?**  
+You can update your email preferences at any time via our [preference center](http://resources.science.thomsonreuters.com/forms/ProfileCenterAccess1). We include an unsubscribe mechanism in all our emails, and you can also [unsubscribe here](http://ip-science.thomsonreuters.com/optout/).
+
+**QUESTIONS?**  
+If you have any additional questions or concerns related to this statement and/or our practices, please [contact our Data Privacy team](http://science.thomsonreuters.com/info/policy_request/). 
+
+**PRIVACY STATEMENT CHANGES**  
+If our information practices change in a significant way, we will post the policy changes here. This Privacy Statement was last updated on 18 June 2012.
