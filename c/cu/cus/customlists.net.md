@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the customlists.net privacy policy that was archived on 2012-10-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121005164524id_/http%3A//www.customlists.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the customlists.net privacy policy that was archived on 2013-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130629075209id_/http%3A//www.customlists.net/privacy-policy) for the most accurate reproduction.*
 
 # The CustomLists.net Privacy Policy - CustomLists.net
 
-This privacy policy sets out how CustomLists.net uses and protects any information that you give CustomLists.net when you use this website. CustomLists.net is committed to ensuring that your privacy is protected. Should we ask you to provide certain information by which you can be identified when using this website, then you can be assured that it will only be used in accordance with this privacy statement.
+This privacy policy sets out how CustomLists.net uses and protects any information that you give us when you use this website. We are committed to ensuring that your privacy is protected. Should we ask you to provide certain information by which you can be identified when using this website, then you can be assured that it will only be used in accordance with this privacy statement.
 
-CustomLists.net may change this policy from time to time by updating this page. You should check this page from time to time to ensure that you are happy with any changes. This policy is effective from 1st November 2010.
+CustomLists.net may change this policy from time to time by updating this page. You should check this page from time to time to ensure that you are happy with any changes. This policy is effective from December 1st, 2011.
 
 ### **Shop with Confidence at CustomLists.net**
 
-At CustomLists.net, we understand your concerns about online security. We use encryption technology to ensure the secure transmission of any personal information you provide while using CustomLists.net. All transactions at our site are conducted using 128-bit Secure Sockets Layer (SSL) encryption. You can easily determine when you're sending data securely by looking at the web address (URL) in your browser window: the first few letters will change from "http" to "https" when you are transmitting information protected by SSL encryption. The "s" in "https" stands for "secure."
+At CustomLists.net, we understand your concerns about online security. We use encryption technology to ensure the secure transmission of any personal information you provide while using CustomLists.net. All transactions at our site are conducted using 256-bit Secure Sockets Layer (SSL) encryption. You can easily determine when you're sending data securely by looking at the web address (URL) in your browser window: the first few letters will change from "http" to "https" when you are transmitting information protected by SSL encryption. The "s" in "https" stands for "secure."
 
 ### **What we Collect**
 
@@ -21,7 +21,7 @@ We may collect the following information:
 
 
 
-### **What we do with the Information we Gather**
+### **What we do with the Information Gathered**
 
 We require this information to understand your needs and provide you with a better service, and in particular for the following reasons:
 
@@ -49,21 +49,15 @@ You can choose to accept or decline cookies. Most web browsers automatically acc
 
 ### **Links to other Websites**
 
-Our website may contain links to other websites of interest. However, once you have used these links to leave our site, you should note that we do not have any control over that other website. Therefore, we cannot be responsible for the protection and privacy of any information which you provide whilst visiting such sites and such sites are not governed by this privacy statement. You should exercise caution and look at the privacy statement applicable to the website in question.
+Our website may contain links to other websites of interest. However, once you have used these links to leave our site, you should note that we do not have any control over that other website. Therefore, we cannot be responsible for the protection and privacy of any information which you provide while visiting such sites and such sites are not governed by this privacy statement. You should exercise caution and look at the privacy statement applicable to the website in question.
 
 ### **Controlling Your Personal Information**
 
 You may choose to restrict the collection or use of your personal information in the following ways:
 
-  * Whenever you are asked to fill in a form on the website, look for the box that you can click to indicate that you do not want the information to be used by anybody for direct marketing purposes
-  * If you have previously agreed to us using your personal information for direct marketing purposes, you may change your mind at any time by writing to or emailing us at info@customlists.net
+  * Whenever you are asked to fill out a form on the website, look for the box that you can click to indicate that you do not want the information to be used by anybody for direct marketing purposes
+  * If you have previously agreed to us using your personal information for direct marketing purposes, you may change your mind at any time by emailing us at info@customlists.net
 
 
 
-We will not sell, distribute or lease your personal information to third parties unless we have your permission or are required by law to do so. We may use your personal information to send you promotional information about third parties which we think you may find interesting if you tell us that you wish this to happen.
-
-You may request details of personal information which we hold about you under the Data Protection Act 1998. A small fee will be payable. If you would like a copy of the information held on you please email us at info@customlists.net
-
-If you believe that any information we are holding on you is incorrect or incomplete, please write to or email us as soon as possible, at the above address. We will promptly correct any information found to be incorrect.
-
-Looking for the secret [CustomLists.net coupon code](http://www.customlists.net/coupon-code)?
+We will not sell, distribute or lease your personal information to third parties unless we have your permission or are required by law to do so. We may use your personal information to send you promotional information about third parties which we think you may find interesting if you tell us that you wish this to happen. You may request details of personal information which we hold about you under the Data Protection Act 1998. A small fee will be payable. If you would like a copy of the information held on you please email us at info@customlists.net. If you believe that any information we are holding about you is incorrect or incomplete, please email us as soon as possible, at the above address. We will promptly correct any information found to be incorrect.
