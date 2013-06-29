@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rafflecopter.com privacy policy that was archived on 2012-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121227173016id_/https%3A//www.rafflecopter.com/rafl/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rafflecopter.com privacy policy that was archived on 2013-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130629111504id_/http%3A//www.rafflecopter.com/rafl/privacy) for the most accurate reproduction.*
 
 # Rafflecopter - Privacy Policy :)
 
@@ -150,7 +150,7 @@ $59.99/mo.
   * E-Z Terms/Conditions
   * Email reminders
   * More entry options 
-    * +PINTEREST, SURVEYS, RSS
+    * +PINTEREST AND SURVEYS
   * Mobile-friendly FB app
   * Rafflecopter branding
   * Real-time analytics
@@ -166,7 +166,7 @@ $59.99/mo.
   * E-Z Terms/Conditions
   * Email reminders
   * More entry options 
-    * +PINTEREST, SURVEYS, RSS
+    * +PINTEREST AND SURVEYS
   * Mobile-friendly FB app
   * No Rafflecopter branding
   * Real-time analytics
