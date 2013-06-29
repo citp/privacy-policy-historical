@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the flipline.com privacy policy that was archived on 2012-09-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120920011306id_/http%3A//www.flipline.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the flipline.com privacy policy that was archived on 2013-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130629033231id_/http%3A//www.flipline.com/privacy.html) for the most accurate reproduction.*
 
-# Privacy Policy | Flipline Studios : Home of Free Games like Papa's Pancakeria and Papa's Freezeria
+# Privacy | Flipline Studios : Home of Free Games like Papa's Pancakeria and Papa's Wingeria
 
 This Privacy Policy discloses the privacy practices for www.flipline.com. This policy may be updated from time to time, and the revised policy will appear on this website.
 
