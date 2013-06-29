@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lpwebhosting.com privacy policy that was archived on 2012-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121113151731id_/http%3A//www.lpwebhosting.com/legal/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lpwebhosting.com privacy policy that was archived on 2013-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130629050304id_/http%3A//www.lpwebhosting.com/legal/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Lunarpages Web Hosting
 
@@ -28,7 +28,7 @@ We reserve the right to disclose your personally identifiable information as req
 
 #### Cookies
 
-A cookie is a small text file that is stored on a user’s computer for record-keeping purposes. We use cookies on the Lunarpages web sites. We do not link the information we store in cookies to any personally identifiable information you submit while on our site.
+A cookie is a small text file that is stored on a user’s computer for record-keeping purposes. We use cookies on the Lunarpages web sites. We do not link the information we store in cookies to any personally identifiable information you submit while on our site. By using the Lunarpages website you agree to our use of cookies as described in our cookie policy.
 
 We use session ID cookies which expire when you close your browser. These cookies make it easier for you to navigate our site. If you reject cookies, you may still use our site, but your ability to use some areas of our site, such as contests or surveys, will be limited.
 
@@ -93,6 +93,6 @@ Or email: [support@lunarpages.com](mailto:support@lunarpages.com)
 
 Lunarpages reserves the right to revise, amend, or modify this policy and our other policies and agreements at any time and in any manner. Any revision, amendment, or modification will be posted on our web site: www.lunarpages.com.
 
-Version 3.1
+Version 3.2
 
 Effective 10/1/2008
