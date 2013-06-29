@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ubykotex.com privacy policy that was archived on 2012-10-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121030092108id_/http%3A//ubykotex.com/legal/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ubykotex.com privacy policy that was archived on 2013-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130629222637id_/http%3A//www.ubykotex.com/legal/privacy-policy) for the most accurate reproduction.*
 
 # U by Kotex* – All the necessary legal details are found here.
 
@@ -18,11 +18,11 @@ Information is collected from you directly and with your knowledge. There are so
 
 ## What We Do with Your Information
 
-When you voluntarily sign up on this Site, we add your name, email address and street address to our mailing list. If you do not wish to receive these mailings, you may request to be removed from our mailing list by visiting this page, or by calling 1-888-525-8373. With your permission, we may share information such as your name, email address and street address with carefully selected companies ("partners") whose offers may be of interest to you. Your permission is given by "opting in" to programs with partners. Even if you "opt in", your date of birth, the dates of birth of your family members and credit card information are never shared. You may “opt out” of partner offers and programs at any time by updating your [User Profile](https://web.archive.org/account/sign_in?returnUrl=/account/update_profile), [Contacting us](https://web.archive.org/legal/contact_us) or calling 1-800-665-9773 (on weekdays during 8 AM to 4 PM Central Standard Time). Our partners are prohibited from using your contact information for purposes other than presenting relevant offers and programs, and they are required to maintain your contact information in confidence. Our Site sometimes includes notices of sweepstakes or other promotions we are conducting, and we may permit you to send your entry electronically in some cases. If that occurs, we will use the information you provide for the purpose of conducting the promotion (i.e., to contact you if you're a winner).
+When you voluntarily sign up on this Site, we add your name, email address and street address to our mailing list. If you do not wish to receive these mailings, you may request to be removed from our mailing list by visiting this page, or by calling 1-888-525-8373. With your permission, we may share information such as your name, email address and street address with carefully selected companies ("partners") whose offers may be of interest to you. Your permission is given by "opting in" to programs with partners. Even if you "opt in", your date of birth, the dates of birth of your family members and credit card information are never shared. You may “opt out” of partner offers and programs at any time by updating your [User Profile](https://web.archive.org/account/sign_in?returnUrl=/account/update_profile), [contacting us](https://web.archive.org/legal/contact-us) or calling 1-800-665-9773 (on weekdays during 8 AM to 4 PM Central Standard Time). Our partners are prohibited from using your contact information for purposes other than presenting relevant offers and programs, and they are required to maintain your contact information in confidence. Our Site sometimes includes notices of sweepstakes or other promotions we are conducting, and we may permit you to send your entry electronically in some cases. If that occurs, we will use the information you provide for the purpose of conducting the promotion (i.e., to contact you if you're a winner).
 
 ## Interest-Based Advertising
 
-Kimberly-Clark participates in interest-based (on-line behavior) advertising. This means that you may see advertising on our website tailored to how you browse or shop, or you may see advertising for Kimberly-Clark products on other websites based on your browsing behavior across websites. You may opt-out of such interest-based advertising through the same "opt out" methods identified in the previous paragraph. Kimberly-Clark voluntarily participates in the Digital Advertising Alliance self-regulation program. As part of this self-regulation program, Kimberly-Clark supports deployment of the Advertising Option icon ("Ad Choices") in partnership with Evidon.
+Kimberly-Clark participates in interest-based (on-line behavior) advertising. This means that you may see advertising on our website tailored to how you browse or shop, or you may see advertising for Kimberly-Clark products on other websites based on your browsing behavior across websites. Kimberly-Clark voluntarily participates in the Digital Advertising Alliance self-regulation program. As part of this self-regulation program, Kimberly-Clark supports deployment of the Advertising Option icon ("Ad Choices") in partnership with Evidon.
 
 ## Privacy for Mobile Applications
 
@@ -50,7 +50,7 @@ Like many companies, Kimberly-Clark uses "cookie" technology on our Site. Cookie
 
 ## Contact Us
 
-If you have any questions about our Privacy Policy, you can contact us via via [Contacting Us](https://web.archive.org/legal/contact_us) or phone us by calling 1-800-665-9773 (on weekdays during 8 AM to 4 PM Central Standard Time). For postal mail, please write to us at:
+If you have any questions about our Privacy Policy, [contact us here](https://web.archive.org/legal/contact-us) or call 1-800-665-9773 (weekdays during 8 AM to 4 PM Central Standard Time). For postal mail, please write to us at:
 
 Kimberly-Clark Corporation  
 P.O. Box 2020  
