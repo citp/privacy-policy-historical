@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the mtvi.com privacy policy that was archived on 2012-12-23.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121223161218id_/http%3A//www.mtv.com/sitewide/legal/privacy.jhtml) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the mtvi.com privacy policy that was archived on 2013-06-29.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130629092620id_/http%3A//www.mtv.com/sitewide/legal/privacy.jhtml) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
@@ -160,7 +160,9 @@
 <![endif]--> 
 
 <script type="text/javascript">
-var inputTheme = (MTV.getTheme()!=undefined) ? MTV.getTheme() : "";
+try{
+
+var inputTheme = (MTV.getTheme()!= undefined) ? MTV.getTheme() : "";
 
 var tempTheme = '';
 var mtv_TS = new ThemeScheduler();
@@ -169,22 +171,27 @@ mtv_TS.makeSchedule();
 if (mtv_TS.scheduledTheme != null) inputTheme = mtv_TS.scheduledTheme;
 
 if(inputTheme==""){
-if(MTV.getHat()!=undefined) inputTheme = "/sitewide/css/charlie/hats.jhtml";
+if(MTV.getHat() != undefined ){
+inputTheme = "/sitewide/css/charlie/hats.jhtml";
+}else{
 
-else{
 var themeNum = Math.floor(66*Math.random());
 inputTheme = "/sitewide/css/charlie/themes/" + themeNum + "/theme.jhtml";
+
 }
 }
 if(inputTheme.charAt(0)!="/" && inputTheme.indexOf("http://") == -1) inputTheme = "/sitewide/css/charlie/theme" + inputTheme + "/theme.css"; // support for old themes
 
 document.write('<link id="theme" rel="stylesheet" type="text/css" media="screen, projection" href="' + inputTheme + '" />');
-</script><link id="theme" rel="stylesheet" type="text/css" media="screen, projection" href="/sitewide/css/charlie/themes/46/theme.jhtml">
-<script type="text/javascript" src="https://web.archive.org/web/20110203083408/https://sb.scorecardresearch.com/beacon.js?c1=2&amp;c2=6036034&amp;c3=&amp;c4=/web/20121223161218id_/http%253A//www.mtv.com/sitewide/legal/privacy.jhtml&amp;c5=20000&amp;c6=&amp;c15="></script></head>
+}catch(e){
+//Do nothing
+}
+</script><link id="theme" rel="stylesheet" type="text/css" media="screen, projection" href="/sitewide/css/charlie/themes/60/theme.jhtml">
+<script type="text/javascript" src="https://web.archive.org/web/20110203083408/https://sb.scorecardresearch.com/beacon.js?c1=2&amp;c2=6036034&amp;c3=&amp;c4=/web/20130629092620id_/http%253A//www.mtv.com/sitewide/legal/privacy.jhtml&amp;c5=20000&amp;c6=&amp;c15="></script></head>
 
-<body class=" hat52">	
+<body class=" hat14">	
 
-<script type="text/javascript">
+<script type="text/javascript">	
 
 MTV.Flux.ucid = "D3FCFFFF0002D51D0002FFFFFCD3";
 
@@ -252,7 +259,7 @@ mtv
 <a href="http://www.mtv.com/artists/">Artists.MTV: One Million Artists</a>
 </li>
 <li>
-<a href="/music/artists/push.jhtml">PUSH: Artist Of The Week</a>
+<a href="http://www.mtv.com/artists/collections/artists-to-watch/896317/">Artist To Watch</a>
 </li>
 </ul>
 <ul class="centerCol" style="height: 99px;">
@@ -263,7 +270,7 @@ mtv
 <a href="/most-popular/music-videos/?metric=numberOfViews&amp;range=today&amp;order=desc">Most Popular Videos</a>
 </li>
 <li>
-<a href="/music/video/premieres.jhtml">Video Premieres</a>
+<a href="/videos/?id=1518071">Video Premieres</a>
 </li>
 </ul>
 <ul class="centerCol" style="height: 99px;">
@@ -288,7 +295,7 @@ mtv
 <a href="http://www.mtvhive.com/">MTV Hive: Indie</a>
 </li>
 <li>
-<a href="/news/grammys/">2013 Grammy Awards</a>
+<a href="http://www.mtv.com/music/hangout-festival/">Hangout Music Festival</a>
 </li>
 </ul>
 <ul class="centerCol last" style="height: 99px;">
@@ -318,7 +325,7 @@ mtv
 <ul class="gridContainer" style="z-index: 510;">
 <li>
 <div class="grid" id="shows-grid">
-<ul class="centerCol wide" style="height: 239px;">
+<ul class="centerCol wide" style="height: 251px;">
 <li class="first">
 <span>Popular Shows</span>
 </li>
@@ -330,6 +337,9 @@ mtv
 <a href="/shows/16_and_pregnant/season_4/series.jhtml">16 and Pregnant</a>
 </li>
 <li>
+<a href="/shows/the_alectrix/series.jhtml">The Alectrix</a>
+</li>
+<li>
 <a href="/shows/awkward/series.jhtml">Awkward.</a>
 </li>
 <li>
@@ -339,13 +349,13 @@ mtv
 <a href="/shows/buckwild/series.jhtml">BUCKWILD</a>
 </li>
 <li>
-<a href="/shows/buried_life/season_2/series.jhtml">The Buried Life</a>
-</li>
-<li>
 <a href="/shows/catfish/series.jhtml">Catfish: The TV Show</a>
 </li>
 <li>
-<a href="/shows/rwrr_challenge/battle_of_the_seasons/series.jhtml">The Challenge: Battle Of The Seasons</a>
+<a href="/shows/rwrr_challenge/rivals_2/series.jhtml">The Challenge: Rivals II</a>
+</li>
+<li>
+<a href="/shows/failosophy/series.jhtml">Failosophy</a>
 </li>
 <li>
 <a href="/shows/friendzone/series.jhtml">Friendzone</a>
@@ -356,13 +366,22 @@ mtv
 <a href="/shows/geordie_shore/series.jhtml">Geordie Shore</a>
 </li>
 <li>
-<a href="http://style.mtv.com/house-of-style/">House Of Style</a>
+<a href="/shows/girl_code/series.jhtml">Girl Code</a>
+</li>
+<li>
+<a href="/shows/girl_get_your_mind_right/series.jhtml">Girl Get Your Mind Right</a>
 </li>
 <li>
 <a href="/shows/jersey_shore/series.jhtml">Jersey Shore</a>
 </li>
 <li>
+<a href="/shows/kesha_my_crazy_beautiful_life/series.jhtml">Ke$ha: My Crazy Beautiful Life</a>
+</li>
+<li>
 <a href="/shows/made/series.jhtml">MADE</a>
+</li>
+<li>
+<a href="/shows/money_from_strangers/series.jhtml">Money From Strangers</a>
 </li>
 <li>
 <a href="/music/unplugged/">MTV Unplugged</a>
@@ -371,19 +390,19 @@ mtv
 <a href="/shows/nikki_and_sara/series.jhtml">Nikki &amp; Sara LIVE</a>
 </li>
 <li>
-<a href="/shows/pauly_d_project/series.jhtml">Pauly D Project</a>
-</li>
-<li>
 <a href="/shows/pranked/series.jhtml">Pranked</a>
 </li>
 <li>
-<a href="/shows/real_world/st_thomas/series.jhtml">Real World St. Thomas</a>
-</li>
-<li>
-<a href="/shows/ridiculousness/series.jhtml">Ridiculousness</a>
+<a href="/shows/real_world/portland/series.jhtml">Real World Portland</a>
 </li>
 </ul>
 <ul>
+<li>
+<a href="/shows/ridiculousness/series.jhtml">Ridiculousness</a>
+</li>
+<li>
+<a href="/shows/show_with_vinny/series.jhtml">The Show With Vinny</a>
+</li>
 <li>
 <a href="/shows/snooki_jwoww/series.jhtml">Snooki &amp; JWOWW</a>
 </li>
@@ -397,19 +416,13 @@ mtv
 <a href="/shows/teen_wolf/series.jhtml">Teen Wolf</a>
 </li>
 <li>
-<a href="/shows/this_is_how_i_made_it/series.jhtml">This Is How I Made It</a>
-</li>
-<li>
-<a href="/shows/totally_clueless/series.jhtml">Totally Clueless</a>
-</li>
-<li>
 <a href="/shows/truelife/series.jhtml">True Life</a>
 </li>
 <li>
-<a href="/shows/underemployed/series.jhtml">Underemployed</a>
+<a href="/shows/world_of_jenks/series.jhtml">World Of Jenks</a>
 </li>
 <li>
-<a href="/shows/washington_heights/series.jhtml">Washington Heights</a>
+<a href="/shows/zach_stone_is_gonna_be_famous/series.jhtml">Zach Stone Is Gonna Be Famous</a>
 </li>
 <li class="allshowsLabel">
 <a href="/ontv/all/" class=" allshows">
@@ -418,45 +431,42 @@ All Shows
 </li>
 </ul>
 </ul>
-<ul class="centerCol" style="height: 239px;">
+<ul class="centerCol" style="height: 251px;">
 <li class="first">
 <span>specials</span>
 </li>
 <li>
-<a href="/ontv/vma/2012/">2012 Video Music Awards</a>
+<a href="/ontv/movieawards/2013/">2013 Movie Awards</a>
 </li>
 <li>
-<a href="/shows/ema/series.jhtml">2012 EMA</a>
+<a href="/ontv/woodieawards/2013/">2013 mtvU Woodie Awards</a>
 </li>
 <li>
 <a href="http://artbreaks.mtv.com">Art Breaks</a>
 </li>
 <li>
-<a href="/shows/im_positive/series.jhtml">I'm Positive</a>
+<a href="/shows/ema/series.jhtml">EMA</a>
 </li>
 <li>
 <a href="/shows/inocente/series.jhtml">Inocente</a>
 </li>
 <li>
-<a href="/videos/marvel-now-behind-the-reevolution-ep-2-all-new-x-men/1698149/playlist.jhtml#series=2211&amp;seriesId=580&amp;channelId=1">Marvel: New X-Men</a>
+<a href="/shows/ladies_man_made_movie/series.jhtml">Ladies Man: A Made Movie</a>
 </li>
 <li>
-<a href="/ontv/movieawards/">Movie Awards</a>
-</li>
-<li>
-<a href="/ontv/woodieawards/2012/">mtvU Woodie Awards</a>
-</li>
-<li>
-<a href="/shows/new_years_eve/series.jhtml">New Years Eve</a>
+<a href="/videos/marvel-now-behind-the-reevolution-ep-5-thor-god-of-thunder/1700424/playlist.jhtml">Marvel: Thor</a>
 </li>
 <li>
 <a href="http://www.omusicawards.com/" target="_blank">O Music Awards</a>
 </li>
 <li>
-<a href="http://www.mtv.com/specials/restore-the-shore/" target="_blank">Restore The Shore</a>
+<a href="/shows/spring_break/2013/series.jhtml">Spring Break</a>
+</li>
+<li>
+<a href="/ontv/vma/">Video Music Awards</a>
 </li>
 </ul>
-<ul class="centerCol last" style="height: 239px;">
+<ul class="centerCol last" style="height: 251px;">
 <li class="first">
 <span>More</span>
 </li>
@@ -473,7 +483,7 @@ All Shows
 <a href="/ontv/castingcall/">MTV Casting Call</a>
 </li>
 <li>
-<a href="http://shop.mtv.com/content/Shows.htm?utm_source=mtv:site:topnav:shows" target="_blank">Shop MTV Shows</a>
+<a href="http://on.mtv.com/12BzOf7" target="_blank">Shop MTV Shows</a>
 </li>
 </ul>
 </div>
@@ -504,9 +514,6 @@ All Shows
 </li>
 <li>
 <a href="/news/photo/index.jhtml">News Photos</a>
-</li>
-<li>
-<a href="http://www.mtv.com/news/articles/1698577/best-songs-2012.jhtml">Best Songs Of 2012</a>
 </li>
 </ul>
 <ul class="centerCol" style="height: 159px;">
@@ -604,16 +611,13 @@ All Shows
 <span>Popular Topics</span>
 </li>
 <li>
-<a href="http://www.mtv.com/news/articles/1698923/best-movies-2012.jhtml">Best Movies Of 2012</a>
+<a href="http://www.mtv.com/movies/movie/465248/moviemain.jhtml">Man Of Steel</a>
 </li>
 <li>
-<a href="http://www.mtv.com/movies/movie/466015/moviemain.jhtml">Iron Man 3</a>
+<a href="http://www.mtv.com/movies/movie/439798/moviemain.jhtml">The Wolverine</a>
 </li>
 <li>
-<a href="http://www.mtv.com/movies/movie/423423/moviemain.jhtml">Star Trek Into Darkness</a>
-</li>
-<li>
-<a href="http://www.mtv.com/movies/oscars/">Oscars 2013</a>
+<a href="http://www.mtv.com/movies/movie/484954/moviemain.jhtml">The Hunger Games: Catching Fire</a>
 </li>
 </ul>
 <ul class="centerCol last" style="height: 99px;">
@@ -670,7 +674,7 @@ MTVN.Ads.additionalValues += 'dcove=o;!category=mtv_hub_idx;!category=float;!cat
 MTV.BTG.init();</script><div id="header"> 
 <div id="adContainer">
 <div id="ad-728x90">
-<script type="text/javascript">mtvn.btg.Controller.placeAd({size:'728x90'});</script><script type="text/javascript" id="ad1" onreadystatechange="if(this.readyState=='complete')mtvn.btg.ads.AdManager.adLoadNotify('ad1');" onload="mtvn.btg.ads.AdManager.adLoadNotify('ad1');" src="http://ad.doubleclick.net/adj/mtv.mtvi/atf_j_s/web/_20121223161218id_/http_3A//www_mtv_com/si;sec0=web;sec1=_20121223161218id_;sec2=http_3A;sec3=www_mtv_com;sec4=sitewide;sec5=legal;sec6=privacy;!category=mtv_hub_idx;!category=float;!category=pop;!category=video;!category=expand;!category=pointroll;pos=atf;tag=adj;mtype=standard;sz=728x90;tile=1;demo=D;dcopt=ist;dcove=o;u=!category-mtv_hub_idx|!category-float|!category-pop|!category-video|!category-expand|!category-pointroll|pos-atf|tag-adj|mtype-standard|sz-728x90|tile-1|demo-D|dcopt-ist|dcove-o;ord=585274755022850700?"></script>
+<script type="text/javascript">mtvn.btg.Controller.placeAd({size:'728x90'});</script><script type="text/javascript" id="ad1" onreadystatechange="if(this.readyState=='complete')mtvn.btg.ads.AdManager.adLoadNotify('ad1');" onload="mtvn.btg.ads.AdManager.adLoadNotify('ad1');" src="http://ad.doubleclick.net/adj/mtv.mtvi/atf_j_s/web/_20130629092620id_/http_3A//www_mtv_com/si;sec0=web;sec1=_20130629092620id_;sec2=http_3A;sec3=www_mtv_com;sec4=sitewide;sec5=legal;sec6=privacy;!category=mtv_hub_idx;!category=float;!category=pop;!category=video;!category=expand;!category=pointroll;pos=atf;tag=adj;mtype=standard;sz=728x90;tile=1;demo=D;dcopt=ist;dcove=o;u=!category-mtv_hub_idx|!category-float|!category-pop|!category-video|!category-expand|!category-pointroll|pos-atf|tag-adj|mtype-standard|sz-728x90|tile-1|demo-D|dcopt-ist|dcove-o;ord=751939925640643300?"></script>
 </div>
 </div>
 </div>
@@ -678,7 +682,7 @@ MTV.BTG.init();</script><div id="header">
 <div id="container-outer">
 <div id="backgroundAd" style="position: absolute; width:100%; height:100%;"> </div>
 <div id="container">
-<div id="container-inner" class="">
+<div id="container-inner">
 <div id="wrap">
 <div id="wrap-inner" class="w-180x600x180">
 <div id="inner" class="group">
@@ -1340,7 +1344,7 @@ This Privacy Policy was last modified on the date indicated above and is effecti
 <div class="group-c">
 <div class="mdl mdl-ad">
 <div class="adv">
-<script type="text/javascript">mtvn.btg.Controller.placeAd({size:'160x600'});</script><script type="text/javascript" id="ad2" onreadystatechange="if(this.readyState=='complete')mtvn.btg.ads.AdManager.adLoadNotify('ad2');" onload="mtvn.btg.ads.AdManager.adLoadNotify('ad2');" src="http://ad.doubleclick.net/adj/mtv.mtvi/atf_j_s/web/_20121223161218id_/http_3A//www_mtv_com/si;sec0=web;sec1=_20121223161218id_;sec2=http_3A;sec3=www_mtv_com;sec4=sitewide;sec5=legal;sec6=privacy;!category=mtv_hub_idx;!category=float;!category=pop;!category=video;!category=expand;!category=pointroll;pos=atf;tag=adj;mtype=standard;sz=160x600;tile=2;demo=D;dcove=o;u=!category-mtv_hub_idx|!category-float|!category-pop|!category-video|!category-expand|!category-pointroll|pos-atf|tag-adj|mtype-standard|sz-160x600|tile-2|demo-D|dcove-o;ord=585274755022850700?"></script>
+<script type="text/javascript">mtvn.btg.Controller.placeAd({size:'160x600'});</script><script type="text/javascript" id="ad2" onreadystatechange="if(this.readyState=='complete')mtvn.btg.ads.AdManager.adLoadNotify('ad2');" onload="mtvn.btg.ads.AdManager.adLoadNotify('ad2');" src="http://ad.doubleclick.net/adj/mtv.mtvi/atf_j_s/web/_20130629092620id_/http_3A//www_mtv_com/si;sec0=web;sec1=_20130629092620id_;sec2=http_3A;sec3=www_mtv_com;sec4=sitewide;sec5=legal;sec6=privacy;!category=mtv_hub_idx;!category=float;!category=pop;!category=video;!category=expand;!category=pointroll;pos=atf;tag=adj;mtype=standard;sz=160x600;tile=2;demo=D;dcove=o;u=!category-mtv_hub_idx|!category-float|!category-pop|!category-video|!category-expand|!category-pointroll|pos-atf|tag-adj|mtype-standard|sz-160x600|tile-2|demo-D|dcove-o;ord=751939925640643300?"></script>
 </div>
 </div>
 </div>
@@ -1467,21 +1471,15 @@ This Privacy Policy was last modified on the date indicated above and is effecti
 </li>
 </ul>
 <ul class="gft-col">
-<li class="gft-col-header">FEEDBACK / HELP</li>
+<li class="gft-col-header">FEEDBACK / SUPPORT</li>
 <li>
-<a href="http://community.mtv.com/Content/Discussions/DiscussionResults.aspx?tcid=22916">Site Feedback</a>
+<a href="http://www.mtv.com/sitewide/legal/frequently_asked_questions.jhtml">Help / FAQ</a>
 </li>
 <li>
-<a href="http://community.mtv.com/Content/Discussions/DiscussionResults.aspx?tcid=22922">Suggestion Box</a>
+<a href="http://www.mtv.com/sitewide/legal/tips_and_resources.jhtml">Dealing With An Issue? Get Help Now</a>
 </li>
 <li>
-<a href="http://community.mtv.com/Content/Discussions/DiscussionResults.aspx?tcid=22921">Community Feedback</a>
-</li>
-<li>
-<a href="http://community.mtv.com/Content/Discussions/DiscussionResults.aspx?tcid=22920">Technical Support</a>
-</li>
-<li>
-<a href="/sitewide/legal/tips_and_resources.jhtml">Dealing With An Issue? Get Help Now</a>
+<a href="http://media.viacom.com/accessibility/">Closed Captioning Contact</a>
 </li>
 </ul>
 <ul class="gft-col">
@@ -1530,14 +1528,14 @@ This Privacy Policy was last modified on the date indicated above and is effecti
 </div>
 <div class="gft-row" id="gft-sponsors">
 <div class="gft-row-subrow">
-<div class="gft-row-header">SPONSORS</div>AD: <script type="text/javascript">mtvn.btg.Controller.placeAd({size:'1x4'});</script><script type="text/javascript" id="ad3" onreadystatechange="if(this.readyState=='complete')mtvn.btg.ads.AdManager.adLoadNotify('ad3');" onload="mtvn.btg.ads.AdManager.adLoadNotify('ad3');" src="http://ad.doubleclick.net/adj/mtv.mtvi/btf_j_s/web/_20121223161218id_/http_3A//www_mtv_com/si;sec0=web;sec1=_20121223161218id_;sec2=http_3A;sec3=www_mtv_com;sec4=sitewide;sec5=legal;sec6=privacy;!category=mtv_hub_idx;!category=float;!category=pop;!category=video;!category=expand;!category=pointroll;pos=btf;tag=adj;mtype=standard;sz=1x4;tile=3;demo=D;dcove=o;u=!category-mtv_hub_idx|!category-float|!category-pop|!category-video|!category-expand|!category-pointroll|pos-btf|tag-adj|mtype-standard|sz-1x4|tile-3|demo-D|dcove-o;ord=585274755022850700?"></script>
+<div class="gft-row-header">SPONSORS</div>AD: <script type="text/javascript">mtvn.btg.Controller.placeAd({size:'1x4'});</script><script type="text/javascript" id="ad3" onreadystatechange="if(this.readyState=='complete')mtvn.btg.ads.AdManager.adLoadNotify('ad3');" onload="mtvn.btg.ads.AdManager.adLoadNotify('ad3');" src="http://ad.doubleclick.net/adj/mtv.mtvi/btf_j_s/web/_20130629092620id_/http_3A//www_mtv_com/si;sec0=web;sec1=_20130629092620id_;sec2=http_3A;sec3=www_mtv_com;sec4=sitewide;sec5=legal;sec6=privacy;!category=mtv_hub_idx;!category=float;!category=pop;!category=video;!category=expand;!category=pointroll;pos=btf;tag=adj;mtype=standard;sz=1x4;tile=3;demo=D;dcove=o;u=!category-mtv_hub_idx|!category-float|!category-pop|!category-video|!category-expand|!category-pointroll|pos-btf|tag-adj|mtype-standard|sz-1x4|tile-3|demo-D|dcove-o;ord=751939925640643300?"></script>
 </div>
 </div>
 <div id="gft-mtvnetworks">
 <div id="gft-logo">
 <span class="mtv-logo-wide">MTV Logo: </span>
 </div>
-<div id="gft-copy">©2012 Viacom International Inc. All Rights Reserved. MTV and all related titles and logos are trademarks of Viacom International Inc.</div>
+<div id="gft-copy">©2013 Viacom International Inc. All Rights Reserved. MTV and all related titles and logos are trademarks of Viacom International Inc.</div>
 <div id="gft-adChoicesLogo">
 <a href="http://srp.mtvn.com/sitefaq.html">
 <span class="mtv-adChoicesLogo">Ad Choices logo</span>
