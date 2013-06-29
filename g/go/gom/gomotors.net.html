@@ -1,13 +1,14 @@
-<!--The following is the downloaded HTML source of the gomotors.net privacy policy that was archived on 2012-12-29.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121229135204id_/http%3A//gomotors.net/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the gomotors.net privacy policy that was archived on 2013-06-29.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130629161635id_/http%3A//gomotors.net/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en"><head>
+        <meta name="debug" content="privacy|cat=>privacy">
+		<meta name="google-site-verification" content="PSYPS3AE-vsKbTvTzYYYwNJw1jaVBk-46i6KdEBJblo">
 		<meta http-equiv="content-type" content="text/html; charset=UTF-8">
 		<meta charset="utf-8">
-		<title>Privacy - articles, features, gallery, photos, buy cars - Go Motors</title>
+		<title>Privacy - photos, videos, specs, car listings, news &amp; reviews | Gomotors.net</title>
 		<meta name="description" content="">
-		<meta name="telderi" content="a2965a4d1a6eff4cc47c8084efde5b4f">
-				<script type="text/javascript" async="" src="https://mc.yandex.ru/metrika/watch.js"></script><script type="text/javascript" async="" src="https://www.google.com/cse/cse.js?cx=016542024315821153078:rma9bdpw5se"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript">
+		<script type="text/javascript" async="" src="https://www.google.com/cse/cse.js?cx=016542024315821153078:rma9bdpw5se"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript">
 			var _gaq = _gaq || [];
 			_gaq.push(['_setAccount', 'UA-37217425-1']);
 			_gaq.push(['_trackPageview']);
@@ -26,18 +27,22 @@
 			}, 4000);
 		</script>
 		<link rel="stylesheet" type="text/css" media="screen" href="/css/reset.css">
-		<link rel="stylesheet" type="text/css" media="screen" href="/css/style.css?v3">
+		<link rel="stylesheet" type="text/css" media="screen" href="/css/style.css">
 		<link rel="stylesheet" type="text/css" media="screen" href="/css/grid.css">
 		<link rel="stylesheet" type="text/css" media="screen" href="/css/superfish.css">
 		<link rel="stylesheet" type="text/css" media="screen" href="/css/slider.css">
 		<link rel="stylesheet" type="text/css" media="screen" href="/css/jqtransform.css">
 		<link rel="stylesheet" type="text/css" media="screen" href="/css/lightbox.css">
+		<link rel="stylesheet" type="text/css" media="screen" href="/css/caroufredsel.css">
 		<link rel="shortcut icon" href="/images/favicon.png" type="image/png">
 		<script src="/js/jquery.js"></script>
 		<script src="/js/slider.js"></script>
 		<!-- <script src="/js/totop.js"></script> -->
 		<script src="/js/superfish.js"></script>
 		<script src="/js/lightbox.js"></script>
+		<script src="/js/vdialog.js"></script>
+		<script src="/js/csearch.js"></script>
+		<script src="/js/jquery.carouFredSel-6.2.1-packed.js"></script>
 				<script>
 			function trackEvent(category, action, label){
 				if(typeof(_gaq)!='undefined'){
@@ -176,64 +181,54 @@
 				'//www.google.com/cse/cse.js?cx=' + cx;
 			var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(gcse, s);
 		  })();
-		</script>
+		</script>	
 	</head>
 	<body>
+		<div id="overlay"></div>
+		
 		<div class="main">
 			<!-- Header -->
 			<header>
-				<!--
-				<div class="header-block">
-					<span class="fleft"></span>
-					<span class="fright">
-						
-					</span>
-				</div>
-				-->
-				<nav>
-					<h1><a href="/" onclick="trackEvent('header', 'logo');">Go Motors</a></h1>
-					<style>
-						.ss-1 {
-							color: #DADADA !important;
-						}
-						.ss-1:hover {
-							color: White !important;
-						}
-					</style>
-					<ul class="sf-menu sf-js-enabled">
-						<li><a href="/brands/" onclick="trackEvent('menu', 'brands');" class="ss-1"><strong>Brands</strong></a></li>
-						<li><a href="/news/" onclick="trackEvent('menu', 'news');"><strong>News</strong></a></li>
-						<li><a href="/reviews/" onclick="trackEvent('menu', 'reviews');"><strong>Reviews</strong></a></li>
-						<li><a href="/buy/" onclick="trackEvent('menu', 'buy');"><strong>Buy Posters</strong></a></li>
-						<li>
-							<a target="_blank" href="/go/?url=aHR0cDovL3BpbnRlcmVzdC5jb20vY2FyaW5zdGFuY2Uv" onclick="trackEvent('menu', 'pinterest-followme');" class="pinterest-follow" style="padding-top: 28px;">
-								<img src="/images/pinterest-button.png" width="80" height="28" alt="Follow Me on Pinterest">
-							</a>
-						</li>
-					</ul>
-					<div class="clear"></div>
-				</nav>
-			</header>
+<!--
+<div class="header-block">
+	<span class="fleft"></span>
+	<span class="fright">
+		
+	</span>
+</div>
+-->
+<nav>
+	<h1><a href="/" onclick="trackEvent('header', 'logo');">Go Motors</a></h1>
+	<style>
+		.ss-1 {
+			color: #DADADA !important;
+		}
+		.ss-1:hover {
+			color: White !important;
+		}
+	</style>
+	<ul class="sf-menu sf-js-enabled">
+		<li><a href="/brands/" onclick="trackEvent('menu', 'brands');" class="ss-1"><strong>Brands</strong></a></li>
+		<li><a href="/news/" onclick="trackEvent('menu', 'news');"><strong>News</strong></a></li>
+		<li><a href="/reviews/" onclick="trackEvent('menu', 'reviews');"><strong>Reviews</strong></a></li>
+		<li><a href="/buy_car/" onclick="trackEvent('menu', 'buy_car');"><strong>Buy Cars</strong></a></li>
+		<li><a href="/specs/" onclick="trackEvent('menu', 'specs');"><strong>Car Specs</strong></a></li>
+		<li>
+			<a target="_blank" href="/go/?url=aHR0cDovL3BpbnRlcmVzdC5jb20vY2FyaW5zdGFuY2Uv" onclick="trackEvent('menu', 'pinterest-followme');" class="pinterest-follow" style="padding-top: 28px;">
+				<img src="/images/pinterest-button.png" width="80" height="28" alt="Follow Me on Pinterest">
+			</a>
+		</li>
+	</ul>
+	<div class="clear"></div>
+</nav>			</header>
 			<!-- Content -->
 			<section id="content" class="main-content">
-				<div class="container_12">
-										
-										
+				<div class="container_12"> 
 					<div class="grid_8">
-													<div class="ads-box bg-white aligncenter" style="padding: 20px 0;">
-																	<div style="display: inline-block; *display: inline; *zoom: 1; margin-right: 30px; vertical-align: middle;">
-										<script type="text/javascript"><!--
-										google_ad_client = "ca-pub-7809413575324035";
-										/* gomotors - content - 250x250 - top-white-1 */
-										google_ad_slot = "1577932928";
-										google_ad_width = 250;
-										google_ad_height = 250;
-										//-->
-										</script>
-										<script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
-										</script>
-									</div>
-																		<div style="display: inline-block; *display: inline; *zoom: 1; vertical-align: middle;">
+							<div class="ads-box bg-white aligncenter" style="padding: 20px 0;">
+																
+									<div style="display: inline-block; *display: inline; *zoom: 1; margin-right: 30px; vertical-align: middle;">
+										
 										<script type="text/javascript"><!--
 										google_ad_client = "ca-pub-7809413575324035";
 										/* gomotors - content - 300x250 - top-white-2 */
@@ -244,9 +239,22 @@
 										</script>
 										<script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
 										</script>
+									
+								</div>
+								
+																		<div style="display: inline-block; *display: inline; *zoom: 1; vertical-align: middle;">
+										<script type="text/javascript"><!--
+										google_ad_client = "ca-pub-7809413575324035";
+										// gomotors - content - 250x250 - top-white-1 
+										google_ad_slot = "1577932928";
+										google_ad_width = 250;
+										google_ad_height = 250;
+										//-->
+										</script>
+										<script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+										</script>
 									</div>
-																</div>
-														<h2 class="h2-border sel-1">Privacy Policy</h2>
+																</div>							<h2 class="h2-border sel-1">Privacy Policy</h2>
 							<div class="bg-invert text">
 								<p>
 	<strong>GoMotors Team (hereinafter referred to as "GoMotors")</strong> recognizes that its customers, visitors, users, and others who use www.gomotors.net or other web Website owned or operated by GoMotors (the "GoMotors Website") (collectively or individually "Users") value their privacy. This Privacy Notice details important information regarding the use and disclosure of User information collected on the GoMotors Website. GoMotors provides this Privacy Notice to help you make an informed decision about whether to use or continue using the GoMotors Website.
@@ -312,11 +320,7 @@
 	To protect your privacy and security, we take reasonable steps (such as requesting a unique password) to verify your identity before granting you profile access or making corrections. You are responsible for maintaining the secrecy of your unique password and account information at all times.
 </p>
 <p>
-	Please contact GoMotors with any questions or comments about this Privacy Notice, your personal information, your consent, or your opt-in or opt-out choices by emailing <a href="mailto:gomotors.net@gmail.com">gomotors.net@gmail.com<script type="text/javascript">
-/* <![CDATA[ */
-(function(){try{var s,a,i,j,r,c,l,b=document.getElementsByTagName("script");l=b[b.length-1].previousSibling;a=l.getAttribute('data-cfemail');if(a){s='';r=parseInt(a.substr(0,2),16);for(j=2;a.length-j;j+=2){c=parseInt(a.substr(j,2),16)^r;s+=String.fromCharCode(c);}s=document.createTextNode(s);l.parentNode.replaceChild(s,l);}}catch(e){}})();
-/* ]]> */
-</script></a>
+	Please contact GoMotors with any questions or comments about this Privacy Notice, your personal information, your consent, or your opt-in or opt-out choices by emailing <a href="mailto:gomotors.net@gmail.com">gomotors.net@gmail.com</a>
 </p>
 
 <h3>Third-party Advertisers, Links to Other Website</h3>
@@ -335,11 +339,7 @@
 	GoMotors uses commercially reasonable physical, managerial, and technical safeguards to preserve the integrity and security of your personal information. We cannot, however, ensure or warrant the security of any information you transmit to GoMotors and you do so at your own risk. Once we receive your transmission of information, GoMotors makes commercially reasonable efforts to ensure the security of our systems. However, please note that this is not a guarantee that such information may not be accessed, disclosed, altered, or destroyed by breach of any of our physical, technical, or managerial safeguards.
 </p>
 <p>
-	If GoMotors learns of a security systems breach, then we may attempt to notify you electronically so that you can take appropriate protective steps. GoMotors may post a notice on the GoMotors Website if a security breach occurs. Depending on where you live, you may have a legal right to receive notice of a security breach in writing. To receive a free written notice of a security breach (or to withdraw your consent from receiving electronic notice) you should notify us using <a href="mailto:gomotors.net@gmail.com">gomotors.net@gmail.com<script type="text/javascript">
-/* <![CDATA[ */
-(function(){try{var s,a,i,j,r,c,l,b=document.getElementsByTagName("script");l=b[b.length-1].previousSibling;a=l.getAttribute('data-cfemail');if(a){s='';r=parseInt(a.substr(0,2),16);for(j=2;a.length-j;j+=2){c=parseInt(a.substr(j,2),16)^r;s+=String.fromCharCode(c);}s=document.createTextNode(s);l.parentNode.replaceChild(s,l);}}catch(e){}})();
-/* ]]> */
-</script></a>.
+	If GoMotors learns of a security systems breach, then we may attempt to notify you electronically so that you can take appropriate protective steps. GoMotors may post a notice on the GoMotors Website if a security breach occurs. Depending on where you live, you may have a legal right to receive notice of a security breach in writing. To receive a free written notice of a security breach (or to withdraw your consent from receiving electronic notice) you should notify us using <a href="mailto:gomotors.net@gmail.com">gomotors.net@gmail.com</a>.
 </p>
 
 <h3>Our Commitment To Childrens' Privacy</h3>
@@ -366,262 +366,164 @@
 
 <h3>Contact Information</h3>
 <p>
-	Please contact GoMotors with any questions or comments about this Privacy Notice at <a href="gomotors.net@gmail.com">gomotors.net@gmail.com<script type="text/javascript">
-/* <![CDATA[ */
-(function(){try{var s,a,i,j,r,c,l,b=document.getElementsByTagName("script");l=b[b.length-1].previousSibling;a=l.getAttribute('data-cfemail');if(a){s='';r=parseInt(a.substr(0,2),16);for(j=2;a.length-j;j+=2){c=parseInt(a.substr(j,2),16)^r;s+=String.fromCharCode(c);}s=document.createTextNode(s);l.parentNode.replaceChild(s,l);}}catch(e){}})();
-/* ]]> */
-</script></a>
+	Please contact GoMotors with any questions or comments about this Privacy Notice at <a href="gomotors.net@gmail.com">gomotors.net@gmail.com</a>
 </p>							</div>
-							<div class="clear"></div>
-												</div>
-					
-					
-					
-										
+							<div class="clear"></div>					</div>
 					<div class="grid_4">
-													<div class="bg-white" style="padding: 2px 5px 0px; height: 34px; margin-bottom: 5px;">
+					<div class="clear"></div>
+							<div class="bg-white" style="padding: 2px 5px 0px; height: 34px; margin-bottom: 5px;">
 								<gcse:searchbox-only></gcse:searchbox-only>
 							</div>
-							<div style="height:100px;"></div>
-														<h2 class="h2-border top-2 p1">Interesting cars</h2>
-							<ul class="box-2 col2">
-																	<li>
-										<a href="/Tofas/Tofas-Murat-124.html" title="Tofas Murat 124">
-											<img src="/thumb/pics/Tofas/tofas-murat-124-02_182x105.jpg" alt="Tofas Murat 124">
-											<span class="subtitle">Tofas Murat 124</span>
+							
+							<div style="height:100px;display:none;"></div><h2 style="margin-top:20px">LATEST NEWS </h2>
+							<ul class="box-2">
+															<li>
+									<p>
+																			<a href="/news/Mercedes-SLS-hold-a-new-record-for-electric-cars/" class="link-3" rel="nofollow">
+											<img class="preview-3" alt="Mercedes SLS hold a new record for electric cars" src="/timthumb/?src=http%3A%2F%2Fwww.blogcdn.com%2Fwww.autoblog.com%2Fmedia%2F2012%2F09%2Fmercedes-benz-sls-amg-electric-drive-paris.jpg&amp;w=110&amp;h=70&amp;hash=f356aabd32f2de1d14225d46e46c3495">
 										</a>
-									</li>
-																		<li>
-										<a href="/Tofas/Tofas-Murat-131-Kartal.html" title="Tofas Murat 131 Kartal">
-											<img src="/thumb/pics/Tofas/tofas-murat-131-kartal-02_182x105.jpg" alt="Tofas Murat 131 Kartal">
-											<span class="subtitle">Tofas Murat 131 Kartal</span>
-										</a>
-									</li>
-																		<li>
-										<a href="/Tofas/Tofas-Murat-131.html" title="Tofas Murat 131">
-											<img src="/thumb/pics/Tofas/tofas-murat-131-02_182x105.jpg" alt="Tofas Murat 131">
-											<span class="subtitle">Tofas Murat 131</span>
-										</a>
-									</li>
-																		<li>
-										<a href="/Tofas/Tofas-Ahin.html" title="Tofas Ahin">
-											<img src="/thumb/pics/Tofas/tofas-ahin-02_182x105.jpg" alt="Tofas Ahin">
-											<span class="subtitle">Tofas Ahin</span>
-										</a>
-									</li>
-																		<li>
-										<a href="/Tofas/Tofas-Dogan-SLX-16-ie.html" title="Tofas Dogan SLX 16 ie">
-											<img src="/thumb/pics/Tofas/tofas-dogan-slx-16-ie-02_182x105.jpg" alt="Tofas Dogan SLX 16 ie">
-											<span class="subtitle">Tofas Dogan SLX 16 ie</span>
-										</a>
-									</li>
-																		<li>
-										<a href="/Tofas/Tofas-Kartal.html" title="Tofas Kartal">
-											<img src="/thumb/pics/Tofas/tofas-kartal-02_182x105.jpg" alt="Tofas Kartal">
-											<span class="subtitle">Tofas Kartal</span>
-										</a>
-									</li>
-																		<li>
-										<a href="/Tofas/Tofas-Sahin.html" title="Tofas Sahin">
-											<img src="/thumb/pics/Tofas/tofas-sahin-02_182x105.jpg" alt="Tofas Sahin">
-											<span class="subtitle">Tofas Sahin</span>
-										</a>
-									</li>
-																		<li>
-										<a href="/Tofas/Tofas-All.html" title="Tofas All">
-											<img src="/thumb/pics/Tofas/tofas-all-02_182x105.jpg" alt="Tofas All">
-											<span class="subtitle">Tofas All</span>
-										</a>
-									</li>
-																		<li>
-										<a href="/Tofas/Tofas-Fiat-124.html" title="Tofas Fiat 124">
-											<img src="/thumb/pics/Tofas/tofas-fiat-124-02_182x105.jpg" alt="Tofas Fiat 124">
-											<span class="subtitle">Tofas Fiat 124</span>
-										</a>
-									</li>
-																		<li>
-										<a href="/Tofas/Tofas-Dogan.html" title="Tofas Dogan">
-											<img src="/thumb/pics/Tofas/tofas-dogan-02_182x105.jpg" alt="Tofas Dogan">
-											<span class="subtitle">Tofas Dogan</span>
-										</a>
-									</li>
-																</ul>
-							<div class="clear"></div>
-							<div style="height:100px;"></div>
-																										<h2 class="h2-border top-2 p1">The Best Cars</h2>
-							<ul class="box-2 col2">
-																	<li>
-										<a href="/Mercedes_Benz/Mercedes_Benz-Actros-MP1-2543.html" title="Mercedes-Benz Actros MP1 2543">
-											<img src="/thumb/pics/Mercedes-Benz/mercedes-benz-actros-mp1-2543-02_182x105.jpg" alt="Mercedes-Benz Actros MP1 2543">
-										</a>
-										<h3>
-											<a href="/Mercedes_Benz/Mercedes_Benz-Actros-MP1-2543.html" title="Mercedes-Benz Actros MP1 2543">
-												Mercedes-Benz Actros MP1 2543											</a>
-										</h3>
-									</li>
-																		<li>
-										<a href="/Mercedes_Benz/Mercedes_Benz-L-1418-R.html" title="Mercedes-Benz L 1418 R">
-											<img src="/thumb/pics/Mercedes-Benz/mercedes-benz-l-1418-r-02_182x105.jpg" alt="Mercedes-Benz L 1418 R">
-										</a>
-										<h3>
-											<a href="/Mercedes_Benz/Mercedes_Benz-L-1418-R.html" title="Mercedes-Benz L 1418 R">
-												Mercedes-Benz L 1418 R											</a>
-										</h3>
-									</li>
-																		<li>
-										<a href="/Mercedes_Benz/Mercedes_Benz-2304.html" title="Mercedes-Benz 2304">
-											<img src="/thumb/pics/Mercedes-Benz/mercedes-benz-2304-02_182x105.jpg" alt="Mercedes-Benz 2304">
-										</a>
-										<h3>
-											<a href="/Mercedes_Benz/Mercedes_Benz-2304.html" title="Mercedes-Benz 2304">
-												Mercedes-Benz 2304											</a>
-										</h3>
-									</li>
-																		<li>
-										<a href="/Mercedes_Benz/Mercedes_Benz-2508.html" title="Mercedes-Benz 2508">
-											<img src="/thumb/pics/Mercedes-Benz/mercedes-benz-2508-02_182x105.jpg" alt="Mercedes-Benz 2508">
-										</a>
-										<h3>
-											<a href="/Mercedes_Benz/Mercedes_Benz-2508.html" title="Mercedes-Benz 2508">
-												Mercedes-Benz 2508											</a>
-										</h3>
-									</li>
-																		<li>
-										<a href="/Mercedes_Benz/Mercedes_Benz-170-S_D.html" title="Mercedes-Benz 170 S-D">
-											<img src="/thumb/pics/Mercedes-Benz/mercedes-benz-170-s-d-02_182x105.jpg" alt="Mercedes-Benz 170 S-D">
-										</a>
-										<h3>
-											<a href="/Mercedes_Benz/Mercedes_Benz-170-S_D.html" title="Mercedes-Benz 170 S-D">
-												Mercedes-Benz 170 S-D											</a>
-										</h3>
-									</li>
-																		<li>
-										<a href="/BMW/BMW-320-Coupe.html" title="BMW 320 Coupe">
-											<img src="/thumb/pics/BMW/bmw-320-coupe-02_182x105.jpg" alt="BMW 320 Coupe">
-										</a>
-										<h3>
-											<a href="/BMW/BMW-320-Coupe.html" title="BMW 320 Coupe">
-												BMW 320 Coupe											</a>
-										</h3>
-									</li>
-																		<li>
-										<a href="/BMW/BMW-501.html" title="BMW 501">
-											<img src="/thumb/pics/BMW/bmw-501-02_182x105.jpg" alt="BMW 501">
-										</a>
-										<h3>
-											<a href="/BMW/BMW-501.html" title="BMW 501">
-												BMW 501											</a>
-										</h3>
-									</li>
-																		<li>
-										<a href="/BMW/BMW-30CS.html" title="BMW 30CS">
-											<img src="/thumb/pics/BMW/bmw-30cs-02_182x105.jpg" alt="BMW 30CS">
-										</a>
-										<h3>
-											<a href="/BMW/BMW-30CS.html" title="BMW 30CS">
-												BMW 30CS											</a>
-										</h3>
-									</li>
-																		<li>
-										<a href="/BMW/BMW-525ee.html" title="BMW 525ee">
-											<img src="/thumb/pics/BMW/bmw-525ee-02_182x105.jpg" alt="BMW 525ee">
-										</a>
-										<h3>
-											<a href="/BMW/BMW-525ee.html" title="BMW 525ee">
-												BMW 525ee											</a>
-										</h3>
-									</li>
-																		<li>
-										<a href="/BMW/BMW-335xi.html" title="BMW 335xi">
-											<img src="/thumb/pics/BMW/bmw-335xi-02_182x105.jpg" alt="BMW 335xi">
-										</a>
-										<h3>
-											<a href="/BMW/BMW-335xi.html" title="BMW 335xi">
-												BMW 335xi											</a>
-										</h3>
-									</li>
-																</ul>
-							<div class="clear"></div>
-							<div style="height:100px;"></div>
-															<div class="box-buy box-replace" id="box-replace-0">
-									<h2 class="h2-border p1">Buy Posters: Cars &amp; Trucks</h2>
-									<ul class="box-2">
-																					<li onclick="trackEvent('ebay', 'widget'); window.open('/go/?url=aHR0cDovL2dvLnJlZGlyZWN0aW5nYXQuY29tP2lkPTM5MzAxWDEwNDU1NDMmeHM9MSZ1cmw9aHR0cCUzQSUyRiUyRnd3dy5lYmF5LmNvbSUyRml0bSUyRlRIUkVFLUhPUlNFUy1QT1NURVItQm9iLUxhbmdyaXNoLWVxdWVzdHJpYW4tcGljdHVyZXMtJTJGMjgxMDQxNzgzMzY0JTNGcHQlM0RVS19BcnRzX1Bvc3RlcnNfUkw%3D', '_blank'); return false;">
-												<div class="desc-4">
-													<a target="_blank" href="/go/?url=aHR0cDovL2dvLnJlZGlyZWN0aW5nYXQuY29tP2lkPTM5MzAxWDEwNDU1NDMmeHM9MSZ1cmw9aHR0cCUzQSUyRiUyRnd3dy5lYmF5LmNvbSUyRml0bSUyRlRIUkVFLUhPUlNFUy1QT1NURVItQm9iLUxhbmdyaXNoLWVxdWVzdHJpYW4tcGljdHVyZXMtJTJGMjgxMDQxNzgzMzY0JTNGcHQlM0RVS19BcnRzX1Bvc3RlcnNfUkw%3D" class="link-4" onclick="return false;">
-														<img class="preview-4" alt="THREE HORSES POSTER - Bob Langrish equestrian pictures" src="/timthumb/?src=http%3A%2F%2Fthumbs1.ebaystatic.com%2Fm%2FmAgQ_FT9J_UFyoMbi3uRi4Q%2F140.jpg&amp;w=140&amp;h=104&amp;hash=3c24e262345d9fc14a568667300573bd">
-													</a>
-													<div class="text-4">
-														THREE HORSES POSTER - Bob Langrish equestrian pictures													</div>
-												</div>
-												<a target="_blank" href="/go/?url=aHR0cDovL2dvLnJlZGlyZWN0aW5nYXQuY29tP2lkPTM5MzAxWDEwNDU1NDMmeHM9MSZ1cmw9aHR0cCUzQSUyRiUyRnd3dy5lYmF5LmNvbSUyRml0bSUyRlRIUkVFLUhPUlNFUy1QT1NURVItQm9iLUxhbmdyaXNoLWVxdWVzdHJpYW4tcGljdHVyZXMtJTJGMjgxMDQxNzgzMzY0JTNGcHQlM0RVS19BcnRzX1Bvc3RlcnNfUkw%3D" class="button buy" onclick="return false;">Buy&nbsp;&nbsp;for&nbsp;&nbsp;$&nbsp;3.27</a>
-												<div style="clear:both;"></div>
-											</li>
-																						<li onclick="trackEvent('ebay', 'widget'); window.open('/go/?url=aHR0cDovL2dvLnJlZGlyZWN0aW5nYXQuY29tP2lkPTM5MzAxWDEwNDU1NDMmeHM9MSZ1cmw9aHR0cCUzQSUyRiUyRnd3dy5lYmF5LmNvbSUyRml0bSUyRkFEQU0tTEVWSU5FLVNFWFktSE9ULU5BS0VELUdJQU5ULVdBTEwtUE9TVEVSLUFSVC1QUklOVC1CMTA1NS0lMkYxNDA2OTc3NTEyNzAlM0ZwdCUzRFVLX0FydHNfUG9zdGVyc19STA%3D%3D', '_blank'); return false;">
-												<div class="desc-4">
-													<a target="_blank" href="/go/?url=aHR0cDovL2dvLnJlZGlyZWN0aW5nYXQuY29tP2lkPTM5MzAxWDEwNDU1NDMmeHM9MSZ1cmw9aHR0cCUzQSUyRiUyRnd3dy5lYmF5LmNvbSUyRml0bSUyRkFEQU0tTEVWSU5FLVNFWFktSE9ULU5BS0VELUdJQU5ULVdBTEwtUE9TVEVSLUFSVC1QUklOVC1CMTA1NS0lMkYxNDA2OTc3NTEyNzAlM0ZwdCUzRFVLX0FydHNfUG9zdGVyc19STA%3D%3D" class="link-4" onclick="return false;">
-														<img class="preview-4" alt="ADAM LEVINE SEXY HOT NAKED GIANT WALL POSTER ART PRINT B1055" src="/timthumb/?src=http%3A%2F%2Fthumbs3.ebaystatic.com%2Fm%2FmwiDWHgN5Z9p_X2QqrXJqkQ%2F140.jpg&amp;w=140&amp;h=104&amp;hash=4ab5984f86bc509ceeb04be69fbf9323">
-													</a>
-													<div class="text-4">
-														ADAM LEVINE SEXY HOT NAKED GIANT WALL POSTER ART PRINT B1055													</div>
-												</div>
-												<a target="_blank" href="/go/?url=aHR0cDovL2dvLnJlZGlyZWN0aW5nYXQuY29tP2lkPTM5MzAxWDEwNDU1NDMmeHM9MSZ1cmw9aHR0cCUzQSUyRiUyRnd3dy5lYmF5LmNvbSUyRml0bSUyRkFEQU0tTEVWSU5FLVNFWFktSE9ULU5BS0VELUdJQU5ULVdBTEwtUE9TVEVSLUFSVC1QUklOVC1CMTA1NS0lMkYxNDA2OTc3NTEyNzAlM0ZwdCUzRFVLX0FydHNfUG9zdGVyc19STA%3D%3D" class="button buy" onclick="return false;">Buy&nbsp;&nbsp;for&nbsp;&nbsp;$&nbsp;11.89</a>
-												<div style="clear:both;"></div>
-											</li>
-																						<li onclick="trackEvent('ebay', 'widget'); window.open('/go/?url=aHR0cDovL2dvLnJlZGlyZWN0aW5nYXQuY29tP2lkPTM5MzAxWDEwNDU1NDMmeHM9MSZ1cmw9aHR0cCUzQSUyRiUyRnd3dy5lYmF5LmNvbSUyRml0bSUyRldhdHNvbi1Mb3ZlLUd1bi1CdXR0ZXJmbGllcy1IZWFydC1QZWFjZS1Qb3N0ZXItQTYwNjUtJTJGMzgwNTQxNDIwMDI0JTNGcHQlM0RBcnRfUG9zdGVycw%3D%3D', '_blank'); return false;">
-												<div class="desc-4">
-													<a target="_blank" href="/go/?url=aHR0cDovL2dvLnJlZGlyZWN0aW5nYXQuY29tP2lkPTM5MzAxWDEwNDU1NDMmeHM9MSZ1cmw9aHR0cCUzQSUyRiUyRnd3dy5lYmF5LmNvbSUyRml0bSUyRldhdHNvbi1Mb3ZlLUd1bi1CdXR0ZXJmbGllcy1IZWFydC1QZWFjZS1Qb3N0ZXItQTYwNjUtJTJGMzgwNTQxNDIwMDI0JTNGcHQlM0RBcnRfUG9zdGVycw%3D%3D" class="link-4" onclick="return false;">
-														<img class="preview-4" alt="Watson Love Gun Butterflies Heart Peace Poster A6065" src="/timthumb/?src=http%3A%2F%2Fthumbs1.ebaystatic.com%2Fm%2FmWqGS4VzkC9vBhjFFIdqJvA%2F140.jpg&amp;w=140&amp;h=104&amp;hash=34a7e9fdfaf4f694b173e5be000bbfc8">
-													</a>
-													<div class="text-4">
-														Watson Love Gun Butterflies Heart Peace Poster A6065													</div>
-												</div>
-												<a target="_blank" href="/go/?url=aHR0cDovL2dvLnJlZGlyZWN0aW5nYXQuY29tP2lkPTM5MzAxWDEwNDU1NDMmeHM9MSZ1cmw9aHR0cCUzQSUyRiUyRnd3dy5lYmF5LmNvbSUyRml0bSUyRldhdHNvbi1Mb3ZlLUd1bi1CdXR0ZXJmbGllcy1IZWFydC1QZWFjZS1Qb3N0ZXItQTYwNjUtJTJGMzgwNTQxNDIwMDI0JTNGcHQlM0RBcnRfUG9zdGVycw%3D%3D" class="button buy" onclick="return false;">Buy&nbsp;&nbsp;for&nbsp;&nbsp;$&nbsp;6.95</a>
-												<div style="clear:both;"></div>
-											</li>
-																						<li onclick="trackEvent('ebay', 'widget'); window.open('/go/?url=aHR0cDovL2dvLnJlZGlyZWN0aW5nYXQuY29tP2lkPTM5MzAxWDEwNDU1NDMmeHM9MSZ1cmw9aHR0cCUzQSUyRiUyRnd3dy5lYmF5LmNvbSUyRml0bSUyRlJlbm9pci1UaGUtT2xkLU1hc3RlcnMtRXhoaWJpdGlvbi1GcmFtZWQtc29sb21vbi1SLUd1Z2dlbmhlaW0tTXVlc2VtLU5ZLU55LSUyRjI5MDgzNTAzOTc2MSUzRnB0JTNEQXJ0X1Bvc3RlcnM%3D', '_blank'); return false;">
-												<div class="desc-4">
-													<a target="_blank" href="/go/?url=aHR0cDovL2dvLnJlZGlyZWN0aW5nYXQuY29tP2lkPTM5MzAxWDEwNDU1NDMmeHM9MSZ1cmw9aHR0cCUzQSUyRiUyRnd3dy5lYmF5LmNvbSUyRml0bSUyRlJlbm9pci1UaGUtT2xkLU1hc3RlcnMtRXhoaWJpdGlvbi1GcmFtZWQtc29sb21vbi1SLUd1Z2dlbmhlaW0tTXVlc2VtLU5ZLU55LSUyRjI5MDgzNTAzOTc2MSUzRnB0JTNEQXJ0X1Bvc3RlcnM%3D" class="link-4" onclick="return false;">
-														<img class="preview-4" alt="Renoir &quot;The Old Masters Exhibition&quot; Framed The solomon R Guggenheim Muesem NY,Ny" src="/timthumb/?src=http%3A%2F%2Fthumbs2.ebaystatic.com%2Fm%2Fmb6KTknF3tokbsiPN1toZ4A%2F140.jpg&amp;w=140&amp;h=104&amp;hash=a37f9afdaf4c501c0667de594209403b">
-													</a>
-													<div class="text-4">
-														Renoir "The Old Masters Exhibition" Framed The solomon R Guggenheim Muesem NY,Ny													</div>
-												</div>
-												<a target="_blank" href="/go/?url=aHR0cDovL2dvLnJlZGlyZWN0aW5nYXQuY29tP2lkPTM5MzAxWDEwNDU1NDMmeHM9MSZ1cmw9aHR0cCUzQSUyRiUyRnd3dy5lYmF5LmNvbSUyRml0bSUyRlJlbm9pci1UaGUtT2xkLU1hc3RlcnMtRXhoaWJpdGlvbi1GcmFtZWQtc29sb21vbi1SLUd1Z2dlbmhlaW0tTXVlc2VtLU5ZLU55LSUyRjI5MDgzNTAzOTc2MSUzRnB0JTNEQXJ0X1Bvc3RlcnM%3D" class="button buy" onclick="return false;">Buy&nbsp;&nbsp;for&nbsp;&nbsp;$&nbsp;13.99</a>
-												<div style="clear:both;"></div>
-											</li>
-																						<li onclick="trackEvent('ebay', 'widget'); window.open('/go/?url=aHR0cDovL2dvLnJlZGlyZWN0aW5nYXQuY29tP2lkPTM5MzAxWDEwNDU1NDMmeHM9MSZ1cmw9aHR0cCUzQSUyRiUyRnd3dy5lYmF5LmNvbSUyRml0bSUyRlNpZ25lZC1FcmljLWNodXJjaC1CbG9vZC1Td2VldC1BbmQtQmVlcnMtVG91ci1MaXRob2dyYXBoLVBvc3Rlci0xMTItMTg1LSUyRjEzMDgyNDA3OTU4NSUzRnB0JTNEQXJ0X1Bvc3RlcnM%3D', '_blank'); return false;">
-												<div class="desc-4">
-													<a target="_blank" href="/go/?url=aHR0cDovL2dvLnJlZGlyZWN0aW5nYXQuY29tP2lkPTM5MzAxWDEwNDU1NDMmeHM9MSZ1cmw9aHR0cCUzQSUyRiUyRnd3dy5lYmF5LmNvbSUyRml0bSUyRlNpZ25lZC1FcmljLWNodXJjaC1CbG9vZC1Td2VldC1BbmQtQmVlcnMtVG91ci1MaXRob2dyYXBoLVBvc3Rlci0xMTItMTg1LSUyRjEzMDgyNDA3OTU4NSUzRnB0JTNEQXJ0X1Bvc3RlcnM%3D" class="link-4" onclick="return false;">
-														<img class="preview-4" alt="Signed Eric church The Blood Sweet And Beers Tour Lithograph Poster 112/185 " src="/timthumb/?src=http%3A%2F%2Fthumbs2.ebaystatic.com%2Fm%2FmYllIyQElPEHMHOkU6wnbYg%2F140.jpg&amp;w=140&amp;h=104&amp;hash=fdf414536f33392fa67499ca9d8a921e">
-													</a>
-													<div class="text-4">
-														Signed Eric church The Blood Sweet And Beers Tour Lithograph Poster 112/185 													</div>
-												</div>
-												<a target="_blank" href="/go/?url=aHR0cDovL2dvLnJlZGlyZWN0aW5nYXQuY29tP2lkPTM5MzAxWDEwNDU1NDMmeHM9MSZ1cmw9aHR0cCUzQSUyRiUyRnd3dy5lYmF5LmNvbSUyRml0bSUyRlNpZ25lZC1FcmljLWNodXJjaC1CbG9vZC1Td2VldC1BbmQtQmVlcnMtVG91ci1MaXRob2dyYXBoLVBvc3Rlci0xMTItMTg1LSUyRjEzMDgyNDA3OTU4NSUzRnB0JTNEQXJ0X1Bvc3RlcnM%3D" class="button buy" onclick="return false;">Buy&nbsp;&nbsp;for&nbsp;&nbsp;$&nbsp;81.0</a>
-												<div style="clear:both;"></div>
-											</li>
-																				</ul>
-									<div class="more-offers">
-										<a class="button buy wide" href="/buy/" onclick="trackEvent('ebay', 'widget');" style="padding: 9px 0;">More Offers Sales</a>
+																			<a class="link-title" href="/news/Mercedes-SLS-hold-a-new-record-for-electric-cars/" rel="nofollow">
+											Mercedes SLS hold a new record for electric cars										</a>
+									</p>
+																		<p class="date-author">Kosta Musteikis</p>
+									<p class="date-author mbt">2013-06-29</p>
+									<div class="news-description-2" id="news-0" onclick="">
+										<a href="/news/Mercedes-SLS-hold-a-new-record-for-electric-cars/" rel="nofollow" class="lnk">
+											
+All-wheel drive electric supercar Mercedes-Benz SLS AMG Electric Drive went the Nurburgring Nordsc…										</a>
 									</div>
-									<div style="height: 10px;">
+									<div style="clear:both;"></div>
+								</li>
+															<li>
+									<p>
+																			<a href="/news/Women-are-killed-in-car-accidents-more-often-than-men-/" class="link-3" rel="nofollow">
+											<img class="preview-3" alt="Women are killed in car accidents more often than men " src="/timthumb/?src=http%3A%2F%2Fweinterrupt.com%2Fwp-content%2Fuploads%2FFemale-driver.jpg&amp;w=110&amp;h=70&amp;hash=3087981155ccd53e1c8fc04f00fa9d1c">
+										</a>
+																			<a class="link-title" href="/news/Women-are-killed-in-car-accidents-more-often-than-men-/" rel="nofollow">
+											Women are killed in car accidents more often than men 										</a>
+									</p>
+																		<p class="date-author">Kosta Musteikis</p>
+									<p class="date-author mbt">2013-06-26</p>
+									<div class="news-description-2" id="news-1" onclick="">
+										<a href="/news/Women-are-killed-in-car-accidents-more-often-than-men-/" rel="nofollow" class="lnk">
+											
+
+According to the research of National Highway Traffic Safety Administration (NHTSA) in the U.S.A…										</a>
 									</div>
-								</div>
-																<div class="clear"></div>
-								<div style="height:100px;"></div>
-														
+									<div style="clear:both;"></div>
+								</li>
+															<li>
+									<p>
+																			<a href="/news/90%25-Hyundai-models-sold-in-Europe-will-come-from-Europe-/" class="link-3" rel="nofollow">
+											<img class="preview-3" alt="90% Hyundai models sold in Europe will come from Europe " src="/timthumb/?src=http%3A%2F%2Fautoplus.su%2Fuploads%2Fposts%2F2011-04%2F1302456040_hyundai-motor.jpg&amp;w=110&amp;h=70&amp;hash=ec1e2bc2fef2de6b2f8982de395ec823">
+										</a>
+																			<a class="link-title" href="/news/90%25-Hyundai-models-sold-in-Europe-will-come-from-Europe-/" rel="nofollow">
+											90% Hyundai models sold in Europe will come from Europe 										</a>
+									</p>
+																		<p class="date-author">Kosta Musteikis</p>
+									<p class="date-author mbt">2013-06-26</p>
+									<div class="news-description-2" id="news-2" onclick="">
+										<a href="/news/90%25-Hyundai-models-sold-in-Europe-will-come-from-Europe-/" rel="nofollow" class="lnk">
+											
+Hyundai Motor announced that after the transfer of the production of a i10 model from India to Tur…										</a>
+									</div>
+									<div style="clear:both;"></div>
+								</li>
+														</ul>
+							<a href="/news/" class="more_btn">more news</a>
+							<div class="clear"></div><h2 style="margin-top:20px">LATEST REVIEWS </h2>
+							<ul class="box-2">
+															<li>
+									<p>
+																			<a href="/reviews/BMW-M1/" class="link-3" rel="nofollow">
+											<img class="preview-3" alt="BMW M1" src="/timthumb/?src=http%3A%2F%2Fmedia.ed.edmunds-media.com%2Fbmw%2Fm1%2Ffe%2Fbmw_m1_actf34_fe_607121_600.jpg&amp;w=110&amp;h=70&amp;hash=5c14762720ff69c898a7d44c00b20bb1">
+										</a>
+																			<a class="link-title" href="/reviews/BMW-M1/" rel="nofollow">
+											BMW M1										</a>
+									</p>
+																		
+									<div class="news-description-2" id="news-0" onclick="">
+										<a href="/reviews/BMW-M1/" rel="nofollow" class="lnk">
+											There's a BMW M1 waiting for me when I get home. Bathed in the early evening light, this wedge of Gi…										</a>
+									</div>
+									<div style="clear:both;"></div>
+								</li>
+															<li>
+									<p>
+																			<a href="/reviews/Suzuki-Swift-Sport/" class="link-3" rel="nofollow">
+											<img class="preview-3" alt="Suzuki Swift Sport" src="/timthumb/?src=http%3A%2F%2Fburntire.ru%2Fcontent%2Fimage%2F2010%2F3%2Fb569269a4449e4485c4b4b74f892b829e8a4.jpg&amp;w=110&amp;h=70&amp;hash=64f52020288699def80c474f5a74c0aa">
+										</a>
+																			<a class="link-title" href="/reviews/Suzuki-Swift-Sport/" rel="nofollow">
+											Suzuki Swift Sport										</a>
+									</p>
+																		
+									<div class="news-description-2" id="news-1" onclick="">
+										<a href="/reviews/Suzuki-Swift-Sport/" rel="nofollow" class="lnk">
+											I sat in the new Swift Sport at the Frankfurt motor show a couple of months ago. This wasn't a parti…										</a>
+									</div>
+									<div style="clear:both;"></div>
+								</li>
+															<li>
+									<p>
+																			<a href="/reviews/Audi-A3-Sportback/" class="link-3" rel="nofollow">
+											<img class="preview-3" alt="Audi A3 Sportback" src="/timthumb/?src=http%3A%2F%2Fimages.thecarconnection.com%2Fmed%2F2014-audi-a3-sportback_100402755_m.jpg&amp;w=110&amp;h=70&amp;hash=3350b9daf1f0addd6f588dfb4745887c">
+										</a>
+																			<a class="link-title" href="/reviews/Audi-A3-Sportback/" rel="nofollow">
+											Audi A3 Sportback										</a>
+									</p>
+																		
+									<div class="news-description-2" id="news-2" onclick="">
+										<a href="/reviews/Audi-A3-Sportback/" rel="nofollow" class="lnk">
+											After tracking the new Audi A3 Sportback's progress in spy shots since this summer, we now see the o…										</a>
+									</div>
+									<div style="clear:both;"></div>
+								</li>
+														</ul>
+							<a href="/reviews/" class="more_btn">more reviews</a>
+							<div class="clear"></div>							<div>
+<script id="mNCC" language="javascript">  medianet_width='300';  medianet_height= '600';  medianet_crid='245033473';  </script>  <script id="mNSC" src="http://contextual.media.net/nmedianet.js?cid=8CUXJ42F8" language="javascript"></script>
+						</div>
+							<div class="clear"></div>
+							<div style="height:20px;"></div><br style="clear:both;">
+<h2>VIDEO NEWS</h2>
+<div class="video-item"><img src="/i/video_thumbs/5172d6456640e.jpg?i" width="120" height="90"><a class="el-1" href="#" target="_blank" onclick="videoDialog.openVideo(&quot;fn4AstZjg-k&quot;); return false">Alex James Lap Behind the Scenes - Series 18 - Top Gear - BBC</a></div><div class="video-item"><img src="/i/video_thumbs/5172d645bfc32.jpg?i" width="120" height="90"><a class="el-1" href="#" target="_blank" onclick="videoDialog.openVideo(&quot;doI8mhVErgs&quot;); return false">Matt Smith Interview and Lap - Top Gear - BBC</a></div><div class="video-item"><img src="/i/video_thumbs/5172d644e653b.jpg?i" width="120" height="90"><a class="el-1" href="#" target="_blank" onclick="videoDialog.openVideo(&quot;bQz7mHhK2_c&quot;); return false">James McAvoy - Behind the Scenes - Top Gear - Series 19 - BBC</a></div><div id="top_gear" style="display:none; clear:left"><div class="video-item"><img src="/i/video_thumbs/5172d644b0615.jpg?i" width="120" height="90"><a class="el-1" href="#" target="_blank" onclick="videoDialog.openVideo(&quot;zKaAYr8Y9Tk&quot;); return false">The $2000 Cattle Drive challenge - Top Gear USA - Series 2</a></div><div class="video-item"><img src="/i/video_thumbs/5172d64527389.jpg?i" width="120" height="90"><a class="el-1" href="#" target="_blank" onclick="videoDialog.openVideo(&quot;inSbFNUccYY&quot;); return false">Homeland star Damien Lewis on the Top Gear track - Series 19 - Behind the scenes -Top Gear - BBC</a></div><div class="video-item"><img src="/i/video_thumbs/5172d644cb347.jpg?i" width="120" height="90"><a class="el-1" href="#" target="_blank" onclick="videoDialog.openVideo(&quot;Zz2KMlcZQpA&quot;); return false">Kimi Raikkonen Lap Behind the Scenes - Top Gear - Series 18 - BBC</a></div><div class="video-item"><img src="/i/video_thumbs/5172d644c2a10.jpg?i" width="120" height="90"><a class="el-1" href="#" target="_blank" onclick="videoDialog.openVideo(&quot;XfqWG1A5R3M&quot;); return false">Slash Lap Behind the Scenes - Top Gear - Series 18 - BBC</a></div><div class="video-item"><img src="/i/video_thumbs/5172d6450d8ee.jpg?i" width="120" height="90"><a class="el-1" href="#" target="_blank" onclick="videoDialog.openVideo(&quot;aZxLjYPpejM&quot;); return false">50 years Of Bond Cars - Top Gear - BBC</a></div><div class="video-item"><img src="/i/video_thumbs/5172d644d41e4.jpg?i" width="120" height="90"><a class="el-1" href="#" target="_blank" onclick="videoDialog.openVideo(&quot;6pazg0iUk9o&quot;); return false">Peugeot ONYX - Behind the scenes - Top Gear - Series 19 - BBC</a></div><div class="video-item"><img src="/i/video_thumbs/5172d644f2390.jpg?i" width="120" height="90"><a class="el-1" href="#" target="_blank" onclick="videoDialog.openVideo(&quot;sEvjuN0NX1Q&quot;); return false">Behind the scenes in Brian's truck - Top Gear - Series 19 - BBC</a></div></div><a href="javascript:void(0)" onclick="$('#top_gear').slideToggle()" class="more_btn">More videos</a><br style="clear:both;"><h2>Auto Show Debuts</h2>
+<div class="video-item"><img src="/i/video_thumbs/519c825d421ed.jpg?i" width="120" height="90"><a class="el-1" href="#" target="_blank" onclick="videoDialog.openVideo(&quot;y3o9nU0Z0Ws&amp;list=SP053D2A98BB747E98&amp;index=29&quot;); return false">TFLcar.com - Fisker Karma Chicago Auto Show Debut</a></div><div class="video-item"><img src="/i/video_thumbs/519c82653826b.jpg?i" width="120" height="90"><a class="el-1" href="#" target="_blank" onclick="videoDialog.openVideo(&quot;l69_b-o2ZbU&amp;list=SP053D2A98BB747E98&amp;index=91&quot;); return false">Watch the 2014 Lexus IS &amp; F Sport Debut at the Detroit Auto Show</a></div><div class="video-item"><img src="/i/video_thumbs/519c8263babd2.jpg?i" width="120" height="90"><a class="el-1" href="#" target="_blank" onclick="videoDialog.openVideo(&quot;-8nMdqu8ldo&amp;list=SP053D2A98BB747E98&amp;index=79&quot;); return false">Watch the new 2014 Infiniti Q50 Debut at the Detroit Auto Show</a></div><div id="Auto_Show_Debuts" style="display:none; clear:left"><div class="video-item"><img src="/i/video_thumbs/519c8266673bc.jpg?i" width="120" height="90"><a class="el-1" href="#" target="_blank" onclick="videoDialog.openVideo(&quot;20NEse3Zg34&amp;list=SP053D2A98BB747E98&amp;index=100&quot;); return false">2014 Toyota Tundra Pickup Debuts at the Chicago Auto Show</a></div><div class="video-item"><img src="/i/video_thumbs/519c8265139ba.jpg?i" width="120" height="90"><a class="el-1" href="#" target="_blank" onclick="videoDialog.openVideo(&quot;3eqFKuW1ZLg&amp;list=SP053D2A98BB747E98&amp;index=90&quot;); return false">Watch the 2014 BMW M6 Gran Coupe Debut at the Detroit Auto Show</a></div><div class="video-item"><img src="/i/video_thumbs/519c82617b1fa.jpg?i" width="120" height="90"><a class="el-1" href="#" target="_blank" onclick="videoDialog.openVideo(&quot;7RzTtBKug8I&amp;list=SP053D2A98BB747E98&amp;index=60&quot;); return false">2013 Fiat 500 Abarth Convertible makes Sexy Topless debut at the LA Auto Show</a></div><div class="video-item"><img src="/i/video_thumbs/519c825b01ad3.jpg?i" width="120" height="90"><a class="el-1" href="#" target="_blank" onclick="videoDialog.openVideo(&quot;UvhKfzveJSA&amp;list=SP053D2A98BB747E98&amp;index=16&quot;); return false">Lamborghini Aventador LP700-4 Geneva Auto Show Debut</a></div><div class="video-item"><img src="/i/video_thumbs/519c82615938c.jpg?i" width="120" height="90"><a class="el-1" href="#" target="_blank" onclick="videoDialog.openVideo(&quot;_UU-wZJlVxI&amp;list=SP053D2A98BB747E98&amp;index=59&quot;); return false">Stunning Jaguar F-Type S convertible revealed at the 2012 LA Auto Show</a></div><div class="video-item"><img src="/i/video_thumbs/519c825c89e72.jpg?i" width="120" height="90"><a class="el-1" href="#" target="_blank" onclick="videoDialog.openVideo(&quot;jzE-0-Qc8d8&amp;list=SP053D2A98BB747E98&amp;index=25&quot;); return false">2012 Dodge Charger SRT8 debuts</a></div><div class="video-item"><img src="/i/video_thumbs/519c826095dad.jpg?i" width="120" height="90"><a class="el-1" href="#" target="_blank" onclick="videoDialog.openVideo(&quot;ulGBQ2iivNQ&amp;list=SP053D2A98BB747E98&amp;index=53&quot;); return false">2012 KIA Optima Limited debuts at the Chicago Auto Show</a></div></div><a href="javascript:void(0)" onclick="$('#Auto_Show_Debuts').slideToggle()" class="more_btn">More videos</a><br style="clear:both;"><h2 style="margin-top:30px">PARTNERS  NEWS</h2><div class="news-item"><img src="/i/news_thumbs/51c84e993ba07.jpg?i" width="120" height="90"><a class="el-1" href="#" target="_blank" onclick="$(&quot;#nmore-1&quot;).toggle(&quot;slow&quot;); return false">Seat latch problem prompts first Tesla Motors Model S recall </a><div id="nmore-1" class="" style="display:none">                                                                                                                                                                                                                                                                                           Add another first to electric car company Tesla Motors’ list of accomplishments -- its first recall of its Model S sporty sedan.                        Tesla will recall about 1,228 of its expensive Model S beca…<a href="http://www.latimes.com/business/autos/la-fi-hy-tesla-models-recall-20130619,0,1038319.story" class="nmore" target="_blank">more</a></div></div><div class="news-item"><img src="/i/news_thumbs/51c84e9909020.jpg?i" width="120" height="90"><a class="el-1" href="#" target="_blank" onclick="$(&quot;#nmore-2&quot;).toggle(&quot;slow&quot;); return false">GM brands make big jump in J.D. Power initial quality rankings</a><div id="nmore-2" class="" style="display:none">                                                                                                                                                                                                                                                                                           General Motors Co. brands made a big jump in the rankings of the 2013 J.D. Power Initial Quality Study, which examines the problems drivers encounter during the first 90 days of owning a new vehicle.Porsche topped the…<a href="http://www.latimes.com/business/autos/la-fi-hy-jdpower-2013-quality-car-rankings-0130618,0,3580212.story" class="nmore" target="_blank">more</a></div></div><div class="news-item"><img src="/i/news_thumbs/51c84e98e8c20.jpg?i" width="120" height="90"><a class="el-1" href="#" target="_blank" onclick="$(&quot;#nmore-3&quot;).toggle(&quot;slow&quot;); return false">Defiant Chrysler says recalled vehicles aren't defective</a><div id="nmore-3" class="" style="display:none">                                                                                                                                                                                                                                                                                           Less than a day after announcing a massive recall of 1.56 million Jeeps, Chrysler again struck a defiant tone, saying that the trailer hitches it agreed to install won’t protect motorists in high speed crashes a…<a href="http://www.latimes.com/business/autos/la-fi-hy-chrysler-recall-hitch-20130619,0,6004127.story" class="nmore" target="_blank">more</a></div></div><div id="hnews" style="display:none; clear:left"><div class="news-item"><img src="/i/news_thumbs/51c84e98b9b55.jpg?i" width="120" height="90"><a class="el-1" href="#" target="_blank" onclick="$(&quot;#nmore-4&quot;).toggle(&quot;slow&quot;); return false">Chevrolet announces 0-60 time for 2014 Corvette Stingray</a><div id="nmore-4" class="" style="display:none">                                                                                                                                                                                                                                                                                           Three point eight seconds. It’s the latest morsel of information Chevrolet has released regarding its highly anticipated 2014 Corvette Stingray.The automaker announced Thursday that the seventh-generation Corvet…<a href="http://www.latimes.com/business/autos/la-fi-hy-autos-chevrolet-corvette-stingray-060-20130620,0,1502372.story" class="nmore" target="_blank">more</a></div></div><div class="news-item"><img src="/i/news_thumbs/51c84e9898a7c.jpg?i" width="120" height="90"><a class="el-1" href="#" target="_blank" onclick="$(&quot;#nmore-5&quot;).toggle(&quot;slow&quot;); return false">Bosch unveils wireless electric car charging stations</a><div id="nmore-5" class="" style="display:none">                                                                                                                                                                                                                                                                                           Bosch will produce the first wireless electric vehicle charging system, the technology supplier announced this week.                        The Plugless L2 System resembles a small launch pad in the middle of the floo…<a href="http://www.latimes.com/business/autos/la-fi-hy-wireless-car-charging-20130618,0,2343304.story" class="nmore" target="_blank">more</a></div></div><div class="news-item"><img src="/i/news_thumbs/51c84e987f022.jpg?i" width="120" height="90"><a class="el-1" href="#" target="_blank" onclick="$(&quot;#nmore-6&quot;).toggle(&quot;slow&quot;); return false">Ryder adds 39 natural gas trucks to rental fleet in California</a><div id="nmore-6" class="" style="display:none">                                                                                                                                                                                                                                                                                           Truck rental company Ryder announced Thursday it would make 39 light- and medium-duty vehicles powered by compressed natural gas available for lease or rent in California.                        Because of their light…<a href="http://www.latimes.com/business/autos/la-fi-hy-ryder-natural-gas-20130620,0,6503090.story" class="nmore" target="_blank">more</a></div></div><div class="news-item"><img src="/i/news_thumbs/51ba2f50cf503.jpg?i" width="120" height="90"><a class="el-1" href="#" target="_blank" onclick="$(&quot;#nmore-7&quot;).toggle(&quot;slow&quot;); return false">2014 Subaru Forester remains more rugged than refined</a><div id="nmore-7" class="" style="display:none">                                                                                                                                                                                                                                                                                           Subaru, long the bastion of all-wheel drive and rugged practicality, is an automaker on a hot streak. And the all-new 2014 Forester crossover shows every sign of becoming another sales hit.                        Suba…<a href="http://www.latimes.com/business/autos/la-fi-hy-autos-subaru-forester-20130608,0,5063673.story" class="nmore" target="_blank">more</a></div></div><div class="news-item"><img src="/i/news_thumbs/51ba2f50bfd28.jpg?i" width="120" height="90"><a class="el-1" href="#" target="_blank" onclick="$(&quot;#nmore-8&quot;).toggle(&quot;slow&quot;); return false">High prices are driving more motorists to rent tires</a><div id="nmore-8" class="" style="display:none">                                                                                                                                                                                                                                                                                           When the tires on their Dodge Caravan had worn so thin that the steel belts were showing through, Don and Florence Cherry couldn't afford to buy a new set.                        So they decided to rent instead.  The …<a href="http://www.latimes.com/business/autos/la-fi-rent-a-tire-20130609,0,1748795.story" class="nmore" target="_blank">more</a></div></div><div class="news-item"><img src="/i/news_thumbs/51ba2f5046b80.jpg?i" width="120" height="90"><a class="el-1" href="#" target="_blank" onclick="$(&quot;#nmore-9&quot;).toggle(&quot;slow&quot;); return false">Safety regulators probe airbag deployments in Honda Odyssey vans</a><div id="nmore-9" class="" style="display:none">                                                                                                                                                                                                                                                                                           Federal safety regulators have opened a probe, looking at whether airbags are deploying without warning in about 320,000 Honda Odyssey vans from the 2003 and 2004 model years.                        The National Highw…<a href="http://www.latimes.com/business/autos/la-fi-hy-honda-odyssey-van-airbag-probe-20130610,0,293115.story" class="nmore" target="_blank">more</a></div></div><div class="news-item"><img src="/i/news_thumbs/51ba2f4faa24c.jpg?i" width="120" height="90"><a class="el-1" href="#" target="_blank" onclick="$(&quot;#nmore-10&quot;).toggle(&quot;slow&quot;); return false">IHS to buy R.L. Polk &amp; Co. for $1.4 billion</a><div id="nmore-10" class="" style="display:none">                                                                                                                                                                                                                                                                                           Business research and analytics giant IHS Inc. said Monday it has signed an agreement to acquire automotive information and marketing firm R.L. Polk &amp; Co. for $1.4 billion.                        Polk is the 15th …<a href="http://www.latimes.com/business/autos/la-fi-hy-ihs-buys-polk-20130610,0,4788757.story" class="nmore" target="_blank">more</a></div></div></div><a href="javascript:void(0)" onclick="$('#hnews').slideToggle()" class="more_btn">More news</a><!-- cars_search -->
+<div class="clear"></div>
+	<div id="searchbox">
+		<h2>Find New &amp; Used cars</h2>
+		<form action="/buy_car/" method="GET">
+			<div class="select">
+				<select name="makes" id="makes" onchange="loadModel()">
+					<option value="">All makes</option>
+					<option value="20001">Acura</option><option value="20047">Alfa Romeo</option><option value="20002">Am General</option><option value="20003">Aston Martin</option><option value="20049">Audi</option><option value="20050">Avanti Motors</option><option value="20051">Bentley</option><option value="20005">BMW</option><option value="33583">Bugatti</option><option value="20006">Buick</option><option value="20052">Cadillac</option><option value="20053">Chevrolet</option><option value="20008">Chrysler</option><option value="20009">Daewoo</option><option value="20055">Daihatsu</option><option value="20056">DeTomaso</option><option value="20012">Dodge</option><option value="20058">Eagle</option><option value="20014">Ferrari</option><option value="20060">Fiat</option><option value="41703">Fisker</option><option value="20015">Ford</option><option value="20062">Geo</option><option value="20061">GMC</option><option value="20017">Honda</option><option value="20018">Hummer</option><option value="20064">Hyundai</option><option value="20019">Infiniti</option><option value="20065">International</option><option value="20020">Isuzu</option><option value="20066">Jaguar</option><option value="20021">Jeep</option><option value="20068">Kia</option><option value="33663">Koenigsegg</option><option value="20069">Lamborghini</option><option value="20024">Land Rover</option><option value="20070">Lexus</option><option value="20025">Lincoln</option><option value="20071">Lotus</option><option value="20072">Maserati</option><option value="20027">Maybach</option><option value="20073">Mazda</option><option value="47903">McLaren</option><option value="20028">Mercedes-Benz</option><option value="20074">Mercury</option><option value="20075">MINI</option><option value="20030">Mitsubishi</option><option value="20076">Morgan</option><option value="20077">Nissan</option><option value="20032">Oldsmobile</option><option value="20079">Panoz</option><option value="20034">Peugeot</option><option value="20080">Plymouth</option><option value="20035">Pontiac</option><option value="20081">Porsche</option><option value="20036">Qvale</option><option value="44763">RAM</option><option value="20037">Rolls-Royce</option><option value="20038">Saab</option><option value="20084">Saleen</option><option value="20039">Saturn</option><option value="20085">Scion</option><option value="20228">Smart</option><option value="33584">Spyker</option><option value="20040">Sterling</option><option value="20041">Subaru</option><option value="20042">Suzuki</option><option value="28263">Tesla</option><option value="20088">Toyota</option><option value="20089">Volkswagen</option><option value="20044">Volvo</option><option value="20045">Yugo</option>				
+				</select>
+			</div>
+			<div class="select">
+				<select name="models" id="models">
+					<option value="">All Models</option>
+					
+				
+				</select>
+			</div>
+			<div class="select">
+				<select name="price">
+					<option value="">No maximum price</option>
+					<option value="1000">$1,000</option><option value="2000">$2,000</option><option value="3000">$3,000</option><option value="4000">$4,000</option><option value="5000">$5,000</option><option value="6000">$6,000</option><option value="7000">$7,000</option><option value="8000">$8,000</option><option value="9000">$9,000</option><option value="10000">$10,000</option><option value="11000">$11,000</option><option value="12000">$12,000</option><option value="13000">$13,000</option><option value="14000">$14,000</option><option value="15000">$15,000</option><option value="16000">$16,000</option><option value="17000">$17,000</option><option value="18000">$18,000</option><option value="19000">$19,000</option><option value="20000">$20,000</option><option value="21000">$21,000</option><option value="22000">$22,000</option><option value="23000">$23,000</option><option value="24000">$24,000</option><option value="25000">$25,000</option><option value="25000">$25,000</option><option value="30000">$30,000</option><option value="35000">$35,000</option><option value="40000">$40,000</option><option value="45000">$45,000</option><option value="50000">$50,000</option><option value="55000">$55,000</option><option value="60000">$60,000</option><option value="65000">$65,000</option><option value="70000">$70,000</option><option value="75000">$75,000</option><option value="80000">$80,000</option><option value="85000">$85,000</option><option value="90000">$90,000</option><option value="95000">$95,000</option><option value="100000">$100,000</option>				
+				</select>
+			</div>
+			<input type="submit" value="Search" name="search" class="btn">
+		</form>
+	</div> 
+<!-- /cars_search -->
 					</div>
-					
-					
-					
-										
-					
-					
 					<div class="clear"></div>
 				</div>
 			</section>
-			<!-- Footer -->
+			<div style="margin: 0 auto 30px;width: 730px;">
+				<!-- Banners -->
+				<script id="mNCC" language="javascript">  medianet_width='728';  medianet_height= '90';  medianet_crid='555947972';  </script>  <script id="mNSC" src="http://contextual.media.net/nmedianet.js?cid=8CUXJ42F8" language="javascript"></script> 
+				<!-- // Banners -->
+							</div>			<!-- Footer -->
 			<footer>
 				<div>
 					<div class="grid_12">
@@ -630,166 +532,166 @@
 																	<li>
 										<a href="/Alfa%20Romeo/">Alfa Romeo</a>
 									</li>
-																		<li>
+																	<li>
 										<a href="/Audi/">Audi</a>
 									</li>
-																		<li>
+																	<li>
 										<a href="/Austin/">Austin</a>
 									</li>
-																		<li>
+																	<li>
 										<a href="/BMW/">BMW</a>
 									</li>
-																		<li>
+																	<li>
 										<a href="/Buick/">Buick</a>
 									</li>
-																		<li>
+																	<li>
 										<a href="/Cadillac/">Cadillac</a>
 									</li>
-																		<li>
+																	<li>
 										<a href="/Chevrolet/">Chevrolet</a>
 									</li>
-																		<li>
+																	<li>
 										<a href="/Chrysler/">Chrysler</a>
 									</li>
-																		<li>
+																	<li>
 										<a href="/Citroen/">Citroen</a>
 									</li>
-																		<li>
+																	<li>
 										<a href="/Daewoo/">Daewoo</a>
 									</li>
-																		<li>
+																	<li>
 										<a href="/DAF/">DAF</a>
 									</li>
-																		<li>
+																	<li>
 										<a href="/Daihatsu/">Daihatsu</a>
 									</li>
-																		<li>
+																	<li>
 										<a href="/Datsun/">Datsun</a>
 									</li>
-																		<li>
+																	<li>
 										<a href="/Dodge/">Dodge</a>
 									</li>
-																		<li>
+																	<li>
 										<a href="/Ferrari/">Ferrari</a>
 									</li>
-																		<li>
+																	<li>
 										<a href="/Fiat/">Fiat</a>
 									</li>
-																		<li>
+																	<li>
 										<a href="/Ford/">Ford</a>
 									</li>
-																		<li>
+																	<li>
 										<a href="/GMC/">GMC</a>
 									</li>
-																		<li>
+																	<li>
 										<a href="/Holden/">Holden</a>
 									</li>
-																		<li>
+																	<li>
 										<a href="/Honda/">Honda</a>
 									</li>
-																		<li>
+																	<li>
 										<a href="/Hyundai/">Hyundai</a>
 									</li>
-																		<li>
+																	<li>
 										<a href="/International/">International</a>
 									</li>
-																		<li>
+																	<li>
 										<a href="/Isuzu/">Isuzu</a>
 									</li>
-																		<li>
+																	<li>
 										<a href="/Iveco/">Iveco</a>
 									</li>
-																		<li>
+																	<li>
 										<a href="/Jaguar/">Jaguar</a>
 									</li>
-																		<li>
+																	<li>
 										<a href="/Jeep/">Jeep</a>
 									</li>
-																		<li>
+																	<li>
 										<a href="/Kia/">Kia</a>
 									</li>
-																		<li>
+																	<li>
 										<a href="/Lada/">Lada</a>
 									</li>
-																		<li>
+																	<li>
 										<a href="/Land%20Rover/">Land Rover</a>
 									</li>
-																		<li>
+																	<li>
 										<a href="/Lincoln/">Lincoln</a>
 									</li>
-																		<li>
+																	<li>
 										<a href="/MAN/">MAN</a>
 									</li>
-																		<li>
+																	<li>
 										<a href="/Mazda/">Mazda</a>
 									</li>
-																		<li>
+																	<li>
 										<a href="/Mercedes-Benz/">Mercedes-Benz</a>
 									</li>
-																		<li>
+																	<li>
 										<a href="/Mercury/">Mercury</a>
 									</li>
-																		<li>
+																	<li>
 										<a href="/MG/">MG</a>
 									</li>
-																		<li>
+																	<li>
 										<a href="/Mitsubishi/">Mitsubishi</a>
 									</li>
-																		<li>
+																	<li>
 										<a href="/Nissan/">Nissan</a>
 									</li>
-																		<li>
+																	<li>
 										<a href="/Oldsmobile/">Oldsmobile</a>
 									</li>
-																		<li>
+																	<li>
 										<a href="/Opel/">Opel</a>
 									</li>
-																		<li>
+																	<li>
 										<a href="/Packard/">Packard</a>
 									</li>
-																		<li>
+																	<li>
 										<a href="/Peugeot/">Peugeot</a>
 									</li>
-																		<li>
+																	<li>
 										<a href="/Plymouth/">Plymouth</a>
 									</li>
-																		<li>
+																	<li>
 										<a href="/Pontiac/">Pontiac</a>
 									</li>
-																		<li>
+																	<li>
 										<a href="/Porsche/">Porsche</a>
 									</li>
-																		<li>
+																	<li>
 										<a href="/Renault/">Renault</a>
 									</li>
-																		<li>
+																	<li>
 										<a href="/SAAB/">SAAB</a>
 									</li>
-																		<li>
+																	<li>
 										<a href="/Scania/">Scania</a>
 									</li>
-																		<li>
+																	<li>
 										<a href="/Skoda/">Skoda</a>
 									</li>
-																		<li>
+																	<li>
 										<a href="/Studebaker/">Studebaker</a>
 									</li>
-																		<li>
+																	<li>
 										<a href="/Subaru/">Subaru</a>
 									</li>
-																		<li>
+																	<li>
 										<a href="/Suzuki/">Suzuki</a>
 									</li>
-																		<li>
+																	<li>
 										<a href="/Toyota/">Toyota</a>
 									</li>
-																		<li>
+																	<li>
 										<a href="/Volkswagen/">Volkswagen</a>
 									</li>
-																		<li>
+																	<li>
 										<a href="/Volvo/">Volvo</a>
 									</li>
-																</ul>
+															</ul>
 						</div>
 					</div>
 				</div>
@@ -801,6 +703,7 @@
 						| <a href="/privacy/" onclick="trackEvent('footer', 'privacy');">Privacy Policy</a>
 						| <a href="/terms/" onclick="trackEvent('footer', 'terms');">Terms &amp; Conditions</a>
 						| <a href="/dmca/" onclick="trackEvent('footer', 'dmca');">DMCA</a>
+						| <a href="/specs/" onclick="trackEvent('footer', 'specs');">CARS SPECS</a>
 					</p>
 					<p class="aligncenter top-3">
 					© 2012, GoMotors Team
@@ -811,11 +714,6 @@
 			<!-- Footer -->
 		</div>
 		<a style="margin-right: -556px; right: 50%; display: none;" href="#" id="toTop"><span style="opacity: 0;" id="toTopHover"></span></a>
-		<!-- Yandex.Metrika counter --><script type="text/javascript">(function (d, w, c) { (w[c] = w[c] || []).push(function() { try { w.yaCounter15176794 = new Ya.Metrika({id:15176794, enableAll: true, webvisor:true}); } catch(e) {} }); var n = d.getElementsByTagName("script")[0], s = d.createElement("script"), f = function () { n.parentNode.insertBefore(s, n); }; s.type = "text/javascript"; s.async = true; s.src = (d.location.protocol == "https:" ? "https:" : "http:") + "//mc.yandex.ru/metrika/watch.js"; if (w.opera == "[object Opera]") { d.addEventListener("DOMContentLoaded", f); } else { f(); } })(document, window, "yandex_metrika_callbacks");</script><noscript><div><img src="//mc.yandex.ru/watch/15176794" style="position:absolute; left:-9999px;" alt="" /></div></noscript><!-- /Yandex.Metrika counter -->
-					<script type="text/javascript">
-/* <![CDATA[ */
-(function(){try{var s,a,i,j,r,c,l=document.getElementsByTagName("a"),t=document.createElement("textarea");for(i=0;l.length-i;i++){try{a=l[i].getAttribute("href");if(a&&"www.cloudflare.com/email-protection"==a.substr(7 ,35)){s='';j=43;r=parseInt(a.substr(j,2),16);for(j+=2;a.length-j&&a.substr(j,1)!='X';j+=2){c=parseInt(a.substr(j,2),16)^r;s+=String.fromCharCode(c);}j+=1;s+=a.substr(j,a.length-j);t.innerHTML=s.replace(/</g,"&lt;").replace(/>/g,"&gt;");l[i].setAttribute("href","mailto:"+t.value);}}catch(e){}}}catch(e){}})();
-/* ]]> */
-</script>
-
+						<script type="text/javascript" src="http://s.skimresources.com/js/43462X1133347.skimlinks.js"></script>
+	
 </body></html>
