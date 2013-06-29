@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the unb.ca privacy policy that was archived on 2012-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121229142235id_/http%3A//www.unb.ca/privacy/index.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the unb.ca privacy policy that was archived on 2013-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130629222248id_/https%3A//www.unb.ca/privacy/index.html) for the most accurate reproduction.*
 
 # UNB | Privacy
 
@@ -8,7 +8,7 @@ The University of New Brunswick is committed to protecting your personal informa
 
 Personal information is not automatically collected from you when you visit UNB’s website.  You may choose to provide personal information via web form or email when applying for a university service or when using our web feedback form.  Any personal information that you provide will be protected in accordance with applicable privacy laws and UNB policy.
 
-Additionally, members of the UNB community may log in to secure pages, using their unique UNB login ID.  The UNB login ID may be stored in a log along with the uniform resource locator of the secure page(s) that were visited. However, the content displayed on those pages is not stored.
+Additionally, members of the UNB community may log in to secure pages, using their unique UNB login ID.  The UNB login ID may be stored in a log along with the uniform resource locator of the secure page(s) that were visited. 
 
 ## Information gathered automatically
 
@@ -22,4 +22,4 @@ Our [myUNB](http://my.unb.ca/ "My.UNB") section uses cookies, small pieces of 
 
 ## Want to know more?
 
-For more information, or if you have questions or concerns regarding privacy or management of personal information at UNB, you can visit the [Right to Information and Protection of Privacy website](http://www.unb.ca/secretariat/rtippa/index.html).
+For more information, or if you have questions or concerns regarding the protection of personal privacy at UNB, you can visit the [Right to Information and Protection of Privacy website](http://www.unb.ca/secretariat/rtippa/index.html) or consult the University Secretariat, University of New Brunswick, PO Box 4400, Fredericton, NB, E3B 5A3 [www.unb.ca/secretariat](http://www.unb.ca/secretariat) (506) 453-4613.
