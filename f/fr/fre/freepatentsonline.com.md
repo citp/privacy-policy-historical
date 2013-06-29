@@ -1,9 +1,6 @@
-> *The following text is extracted and transformed from the freepatentsonline.com privacy policy that was archived on 2012-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120505013512id_/http%3A//www.freepatentsonline.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freepatentsonline.com privacy policy that was archived on 2013-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130629094627id_/http%3A//www.freepatentsonline.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy and Terms of Use
-
-  
-
 
 **Personally Identifying Information**
 
@@ -22,7 +19,4 @@ FreePatentsOnline.com may use third-party advertising companies, such as Google 
 Google, as a third party vendor, may use cookies to serve ads on our website. Google may also use what is known as a DART cookie to serve ads to your users based on their visit to your sites and other sites on the Internet. Users may opt out of the use of the DART cookie by visiting the [Google ad and content network privacy policy.](http://www.google.com/privacy_ads.html)
 
 No warranty, explicit or implied, is made with respect to the completeness or accuracy of the data contained in this site, and FreePatentsOnline.com will not accept responsibility for any actual or consequential damages that may arise from the use of this site. Access of the FreePatentsOnline.com database in an automated manner is not permitted, and may result in banning from the site, as well as legal action. Data from this site may not be resold or redistributed. FreePatentsOnline.com reserves the right to ban users from this site, whether using automated means or not, if, in our sole opinion, they are abusing our data or database.  
-
-
-  
 
