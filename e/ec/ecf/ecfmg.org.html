@@ -1,13 +1,13 @@
-<!--The following is the downloaded HTML source of the ecfmg.org privacy policy that was archived on 2012-12-25.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121225112259id_/http%3A//www.ecfmg.org/annc/privacy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the ecfmg.org privacy policy that was archived on 2013-06-29.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130629110923id_/http%3A//www.ecfmg.org/annc/privacy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en"><head>
       <title>ECFMG | ECFMG Privacy Policy</title>
       <meta name="description" content="">
       <meta http-equiv="content-type" content="text/html; charset=utf-8">
       <base href="http://www.ecfmg.org">
-      <link rel="shortcut icon" href="images/ecfmg.favicon.ico" type="image/vnd.microsoft.icon">
-      <link rel="icon" href="images/ecfmg.favicon.ico" type="image/vnd.microsoft.icon">
+      <link rel="shortcut icon" href="http://www.ecfmg.org/images/ecfmg.favicon.ico" type="image/vnd.microsoft.icon">
+      <link rel="icon" href="http://www.ecfmg.org/images/ecfmg.favicon.ico" type="image/vnd.microsoft.icon">
       
       <link rel="stylesheet" href="css/ecfmg.reset.css" type="text/css"><!-- defines browser defaults -->
       <link rel="stylesheet" href="css/ecfmg.text.css" type="text/css">
@@ -24,14 +24,13 @@
       <!--[if IE 6]><link rel="stylesheet" href="css/ecfmg.fix.ie6.css" type="text/css" /><![endif]-->
       <!--[if IE 6]><link rel="stylesheet" href="css/ecfmg.fix.ie6.tooltips.tooltips.css" type="text/css" /><![endif]-->
       
-      <script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script src="jquery_library_1.4.2/jquery.min.js"></script><!-- jquery library v 1.4.2 must load first -->
-      <!--<script src="http://cdn.jquerytools.org/1.2.5/full/jquery.tools.min.js"></script>-->
-      <script src="jquery_tools_1.2.5/jquery.tools.min.js"></script><!-- jquery tools (flowplayer) v 1.2.5 must load after jquery library -->
+      <script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script src="http://code.jquery.com/jquery-1.8.3.js"></script>
+      <script src="http://code.jquery.com/ui/1.9.2/jquery-ui.js"></script>
       <script src="js/jquery.prettyPhoto.js"></script><!-- jQuery compatible lightbox clone -->
       <script src="scripts/scrolltoanchor.js"></script><!-- jQuery compatible scroll to top  -->
       <script type="text/javascript" src="jwplayer/swfobject.js"></script><!-- for jwplayer -->
       <script type="text/javascript" src="jwplayer/jwplayer.js"></script><!-- for jwplayer -->
-      <script type="text/javascript" src="js/jquery.scrollTo-min.js"></script><!-- for contact page vertical scroll feature -->
+      <script type="text/javascript" src="js/jquery.scrollTo-1.4.3.1-min.js"></script><!-- for vertical scroll feature -->
       <script type="text/javascript"><!--
         function aboutHover() {
             var divRoll = document.getElementById("aboutId");
@@ -116,7 +115,17 @@ window.open(url,'name','toolbar=0,scrollbars=1,location=0,statusbar=1,menubar=0,
     var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
   })();
 
-</script>      
+</script> 
+<script type="text/javascript"> /* for vertical scrolling - uses jquery.scrollTo-1.4.3.1-min.js */
+$(document).ready(function() {
+               
+                $('.scrolltoanchor').click(function(){
+                                $.scrollTo( this.hash, 500, { easing:'swing' }); /* 1000 = 1 sec, 500 = half second */
+                                return false;
+                });
+               
+});
+</script>     
   </head>
   <body>
   <div class="grid_980">
@@ -262,18 +271,23 @@ window.open(url,'name','toolbar=0,scrollbars=1,location=0,statusbar=1,menubar=0,
                 <div class="tttext">Sponsoring physicians on J-1 Exchange Visitor visas and ensuring that Exchange Visitors and their host institutions meet the federal requirements for participation in the Exchange Visitor Program</div>
               </div>
             </a>
-          </div><!-- end fifty-fifty -->
-          <div class="fifty-fifty border-left">          
-            <a href="/eics/index.html">          
-              <div class="eics">
-                <h5 class="header">ECFMG International Credentials Services</h5>
-                <div class="tttext">Serving international regulatory authorities by obtaining primary-source verification of credentials of physicians educated or trained outside of their jurisdictions </div>
-              </div>
-            </a>
             <a href="/echo/index.html">
               <div class="echo">
                 <h5 class="header">ECFMG Certificate Holders Office (ECHO)</h5>
                 <div class="tttext">Providing support and service to ECFMG-certified physicians as they plan their medical careers</div>
+              </div>
+            </a>
+          </div><!-- end fifty-fifty -->
+          <div class="fifty-fifty border-left"> 
+            <a href="http://www.ecfmgepic.org" target="_blank">
+              <div class="epic">
+                <h5 class="header">Electronic Portfolio of International Credentials (EPIC<sup>SM</sup>)</h5>
+                <div class="tttext">Providing individual physicians with an on-line tool for building a career portfolio of their primary-source verified medical credentials, and for demonstrating the authenticity of those credentials to the entities that register/license, educate, and employ them. Providing medical regulatory authorities, hospitals, and other organizations with access to verification reports on medical credentials requested by individual physicians.</div>
+              </div>       
+            </a><a href="/eics/index.html">          
+              <div class="eics">
+                <h5 class="header">ECFMG International Credentials Services</h5>
+                <div class="tttext">Serving international regulatory authorities by obtaining primary-source verification of credentials of physicians educated or trained outside of their jurisdictions </div>
               </div>
             </a>
              <a href="/programs/performance-data-provision.html">
@@ -298,74 +312,79 @@ window.open(url,'name','toolbar=0,scrollbars=1,location=0,statusbar=1,menubar=0,
           <div class="fifty-fifty">
             <div class="h4holder"><h4>For International Medical Graduates</h4></div>
             <a href="https://secure2.ecfmg.org/emain.asp?app=iwa" onclick="_gaq.push(['_trackEvent', 'virtual link', 'IWA click']);">
-              <div class="iwa">
+              <div class="ols">
                 <h5 class="header">IWA—Interactive Web Applications</h5>
-                <div class="tttext">Complete the Application for ECFMG Certification; apply for USMLE; access USMLE scheduling permits; request extension of Step1/2 CK eligibility period; request to have USMLE results withheld from your medical school</div>
               </div>
             </a>
             <a href="https://oasis2.ecfmg.org/" onclick="_gaq.push(['_trackEvent', 'virtual link', 'OASIS click']);">
-              <div class="oasis">
+              <div class="ols">
                 <h5 class="header">OASIS—On-line Applicant Status and Information System</h5>
-                <div class="tttext">Review and manage your ECFMG record; manage your financial account; check the status of your ECFMG applications, medical education credentials, and Standard ECFMG Certificate; view USMLE score reports; access ERAS Support Services; complete the physician portion of an on-line application for J-1 visa sponsorship</div>
               </div>
             </a>
             <a href="https://secure2.ecfmg.org/emain.asp?app=csess" onclick="_gaq.push(['_trackEvent', 'virtual link', 'Step 2 CS Scheduling click']);">
-              <div class="step2cs">
+              <div class="ols">
                 <h5 class="header">Step 2 CS Calendar and Scheduling</h5>
-                <div class="tttext">Check test dates and schedule testing appointments</div>
               </div> 
             </a> 
             <a href="https://cvsonline2.ecfmg.org/" onclick="_gaq.push(['_trackEvent', 'virtual link', 'CVS ONLINE click']);">         
-              <div class="cvsonlineL">
+              <div class="ols">
                 <h5 class="header">CVS ON-LINE—Certification Verification Service On-line</h5>
-                <div class="tttext">Request a status report be sent to a medical licensing authority</div>
               </div>
             </a>
             <a href="/echo/ian-index.html">         
-              <div class="ian">
+              <div class="ols">
                 <h5 class="header">IAN—IMG Advisors Network</h5>
-                <div class="tttext">Connect with an IMG advisor to ask questions about participating in U.S. graduate medical education and living in the United States; volunteer to be an advisor</div>
               </div>
             </a>
-            </div><!-- end fifty-fifty -->
-            <div class="fifty-fifty border-left">
+            <a href="https://epic.ecfmgepic.org/" target="_blank">         
+              <div class="olsepic">
+                <h5 class="header">EPIC<sup>SM</sup>—Electronic Portfolio of International Credentials  Physician Portal</h5>
+              </div>
+            </a>
             <div class="h4holder"><h4>For International Medical Schools</h4></div>
             <a href="https://emswp.ecfmg.org" onclick="_gaq.push(['_trackEvent', 'virtual link', 'EMSWP click']);">
-              <div class="emswp">
+              <div class="ols">
                 <h5 class="header">EMSWP—ECFMG Medical School Web Portal</h5>
-                <div class="tttext">Verify the status of students/graduates for USMLE registration; verify the medical education credentials of their students/graduates; access data on the USMLE performance of students/graduates; upload and track supporting documents on behalf of students/graduates participating in ERAS</div>
               </div>
             </a>
-            <div class="h4holder"><h4>For Residency Programs/Licensing Authorities</h4></div>
+            <a href="https://epic.ecfmgepic.org/epicrecipient" target="_blank">         
+              <div class="olsepicnobottomborder">
+                <h5 class="header">EPIC<sup>SM</sup>—Electronic Portfolio of International Credentials<br>Report Portal</h5>
+              </div>
+            </a>
+          </div><!-- end fifty-fifty -->
+          <div class="fifty-fifty border-left">
+            <div class="h4holderR"><h4>For Residency Programs/Licensing Authorities</h4></div>
             <a href="https://cvsonline2.ecfmg.org/" onclick="_gaq.push(['_trackEvent', 'virtual link', 'CVS ONLINE click']);">
-              <div class="cvsonline">
-                <h5 class="header">CVS ON-LINE—Certification Verification Service On-line</h5>
-                <div class="tttext">Request an IMG’s certification status</div>
+              <div class="olsR">
+                <h5 class="header right">CVS ON-LINE—Certification Verification Service On-line</h5>
               </div>
             </a>
             <a href="https://evnet.ecfmg.org" onclick="_gaq.push(['_trackEvent', 'virtual link', 'EVNet click']);">         
-              <div class="evn">
-                <h5 class="header">EVNet—Exchange Visitor Network</h5>
-                <div class="tttext">Submit appointment profile details for J-1 visa sponsorship applicants; view reports on currently sponsored J-1 physicians</div>
+              <div class="olsR">
+                <h5 class="header right">EVNet—Exchange Visitor Network</h5>
               </div>
             </a>
-            <div class="h4holder"><h4>For All Users</h4></div>
+            <a href="https://epic.ecfmgepic.org/epicrecipient" target="_blank">         
+              <div class="olsepicR">
+                <h5 class="header right">EPIC<sup>SM</sup>—Electronic Portfolio of International Credentials<br>Report Portal</h5>
+              </div>
+            </a>
+            <div class="h4holderR"><h4>For All Users</h4></div>
             <a href="http://www.faimer.org/resources/imed.html" onclick="_gaq.push(['_trackEvent', 'virtual link', 'IMED click']);">
-              <div class="imed">
-                <h5 class="header">IMED—International Medical Education Directory</h5>
-                <div class="tttext">Search for medical schools</div>
+              <div class="olsR">
+                <h5 class="header right">IMED—International Medical Education Directory</h5>
               </div>
             </a>
             <a href="/about/careers.html">
-              <div class="employment">
-                <h5 class="header">Employment Application </h5>
-                <div class="tttext">View and apply for jobs</div>
+              <div class="olsR">
+                <h5 class="header right">Employment Application </h5>
               </div>
             </a>
             <a href="/online-services/">
               <div class="overview">
                 <h5 class="header">On-line Services Overview »</h5>
-                <div class="tttext"></div>
+                <div class="tttext">Not sure which on-line service you need? Click here for a detailed description of what you can use each service to do.</div>
               </div>
             </a>
           </div><!-- end fifty-fifty -->
@@ -377,12 +396,12 @@ window.open(url,'name','toolbar=0,scrollbars=1,location=0,statusbar=1,menubar=0,
         <div class="tooltipmenu">
           <!--[if IE 8]><![endif]-->
             <ul class="newslist">
-              <li><a href="http://www.ecfmg.org/news/?p=742" class="listone">ECFMG Developing New Service to Facilitate and Promote International Exchange in Medical Education</a> (DEC 21, 2012)</li>
-              <li><a href="http://www.ecfmg.org/news/?p=745" class="listone">Change in the Performance Standard of the Step 2 CS Examination, Effective January 1, 2013</a> (DEC 21, 2012)</li>            
-              <li><a href="http://www.ecfmg.org/news/?p=727" class="listone">Now Available: ECHO’s December Resources for ECFMG-certified Physicians</a> (DEC 20, 2012)</li>
-              <li><a href="http://www.ecfmg.org/news/?p=734" class="listone">IWA Unavailable December 31-January 1</a> (DEC 20, 2012)</li>  
-              <li><a href="http://www.ecfmg.org/news/?p=730" class="listone">Application Fee Increases for 2013</a> (DEC 20, 2012)</li>   
-              <li><a href="http://www.ecfmg.org/news/?p=705" class="listone">Delay in Score Reporting for Step 3 in 2013</a> (NOV 30, 2012)</li>                                          
+              <li><a href="http://www.ecfmg.org/news/?p=962" class="listone">ERAS 2014 Residency Tokens Now Available</a> (JUN 27, 2013)</li>
+              <li><a href="http://www.ecfmg.org/news/?p=945" class="listone">Step 2 CK - Schedule for Score Reporting</a> (JUN 20, 2013)</li>
+              <li><a href="http://www.ecfmg.org/news/?p=941" class="listone">Change in Minimum Passing Requirements for Step 2 CK</a> (JUN 20, 2013)</li>
+              <li><a href="http://www.ecfmg.org/news/?p=948" class="listone">The 2014 Schedule for Reporting Step 2 CS Results Is Available</a> (JUN 20, 2013)</li>              
+  			  <li><a href="http://www.ecfmg.org/news/?p=932" class="listone">ERAS 2014 Program Information for IMGs Now Available</a> (JUN 7, 2013)</li> 
+              <li><a href="http://www.ecfmg.org/news/?p=924" class="listone">Now Available: New ECHO Resources for ECFMG-certified Physicians</a> (MAY 31, 2013)</li> 
             </ul>
             <ul class="allnews">
               <li><a href="http://www.ecfmg.org/news/">All News »</a></li>
@@ -453,18 +472,43 @@ window.open(url,'name','toolbar=0,scrollbars=1,location=0,statusbar=1,menubar=0,
     <!-- code for tooltips -->
     <script type="text/javascript"><!--
       $(document).ready(function() { 
-        $('div.about').tooltip({position: 'bottom'});                      // triggers about tooltip
-        $('div.programs').tooltip({position: 'bottom'});                   // triggers programs tooltip
-        $('div.onlineservices').tooltip({position: 'bottom'});             // triggers onlineservices tooltip
-        $('div.news').tooltip({position: 'bottom'});                       // triggers news tooltip
-        $('div.resources').tooltip({position: 'bottom'});                  // triggers resources tooltip
+        
+        $('.about').mouseover(function(){$('div.ttAbout').show()}); // if about is moused over, show tooltip
+        $('.about').mouseout(function(){$('div.ttAbout').hide()}); // if about is moused out, hide tooltip
+        $('div.ttAbout').mouseover(function(){$(this).show()}); // if tooltip div is moused over, remain showing
+        $('div.ttAbout').mouseout(function(){$(this).hide()}); // if tooltip div is moused out, hide itself
+        
+        $('a.programs').mouseover(function(){$('div.ttPrograms').show()}); // if programs is moused over, show div
+        $('a.programs').mouseout(function(){$('div.ttPrograms').hide()}); // if programs is moused out, hide div
+        $('div.ttPrograms').mouseover(function(){$(this).show()}); // if tooltip div is moused over, remain showing
+        $('div.ttPrograms').mouseout(function(){$(this).hide()}); // if tooltip div is moused out, hide itself
+        
+        $('a.onlineservices').mouseover(function(){$('div.ttOnlineservices').show()}); // if programs is moused over, show div
+        $('a.onlineservices').mouseout(function(){$('div.ttOnlineservices').hide()}); // if programs is moused out, hide div
+        $('div.ttOnlineservices').mouseover(function(){$(this).show()}); // if tooltip div is moused over, remain showing
+        $('div.ttOnlineservices').mouseout(function(){$(this).hide()}); // if tooltip div is moused out, hide itself
+        
+        $('a.news').mouseover(function(){$('div.ttNews').show()}); // if programs is moused over, show div
+        $('a.news').mouseout(function(){$('div.ttNews').hide()}); // if programs is moused out, hide div
+        $('div.ttNews').mouseover(function(){$(this).show()}); // if tooltip div is moused over, remain showing
+        $('div.ttNews').mouseout(function(){$(this).hide()}); // if tooltip div is moused out, hide itself
+        
+        $('a.resources').mouseover(function(){$('div.ttResources').show()}); // if programs is moused over, show div
+        $('a.resources').mouseout(function(){$('div.ttResources').hide()}); // if programs is moused out, hide div
+        $('div.ttResources').mouseover(function(){$(this).show()}); // if tooltip div is moused over, remain showing
+        $('div.ttResources').mouseout(function(){$(this).hide()}); // if tooltip div is moused out, hide itself
+        
         $("#acculturation-video a[rel^='prettyPhoto']").prettyPhoto({autoplay_slideshow: false, counter_separator_label: '/', social_tools:false}); // acculturation video id
         $("#echo-video a[rel^='prettyPhoto']").prettyPhoto({autoplay_slideshow: false, counter_separator_label: '/', social_tools:false}); // echo video id
         $("#section1 a[rel^='prettyPhoto']").prettyPhoto({autoplay_slideshow: false, counter_separator_label: '/', social_tools:false}); // test id for photos
         $("#flashbox a[rel^='prettyPhoto']").prettyPhoto({autoplay_slideshow: false, counter_separator_label: '/', social_tools:false}); // test id for video
         $("#youtube-test a[rel^='prettyPhoto']").prettyPhoto({autoplay_slideshow: false, counter_separator_label: '/', social_tools:false}); // test id for youtube vids
         
-        /************************** about rollovers **********************/      
+        /************************** about rollovers **********************/  
+        if (!$.support.leadingWhitespace) {
+        /* no rollovers for ie7 and ie8 because of flickering */
+        } else { /* make rollovers for all other browsers */
+            
         $('.aboutoverview')
           .mouseover(function(){$(this).css("background-color","#c9e5e8")})
           .mouseout(function(){$(this).css("background-color","transparent")})
@@ -509,6 +553,9 @@ window.open(url,'name','toolbar=0,scrollbars=1,location=0,statusbar=1,menubar=0,
         $('.eics')
           .mouseover(function(){$(this).css("background-color","#c9e5e8")})
           .mouseout(function(){$(this).css("background-color","transparent")})
+        $('.epic')
+          .mouseover(function(){$(this).css("background-color","#c9e5e8")})
+          .mouseout(function(){$(this).css("background-color","transparent")})
         $('.echo')
           .mouseover(function(){$(this).css("background-color","#c9e5e8")})
           .mouseout(function(){$(this).css("background-color","transparent")})
@@ -520,6 +567,21 @@ window.open(url,'name','toolbar=0,scrollbars=1,location=0,statusbar=1,menubar=0,
           .mouseout(function(){$(this).css("background-color","transparent")})
           
           /****************** onlineservices rollovers *******************/
+        $('.ols')
+          .mouseover(function(){$(this).css("background-color","#f8f0d5")})
+          .mouseout(function(){$(this).css("background-color","transparent")})
+        $('.olsepic')
+          .mouseover(function(){$(this).css("background-color","#f8f0d5")})
+          .mouseout(function(){$(this).css("background-color","transparent")}) 
+        $('.olsR')
+          .mouseover(function(){$(this).css("background-color","#f8f0d5")})
+          .mouseout(function(){$(this).css("background-color","transparent")})
+        $('.olsepicR')
+          .mouseover(function(){$(this).css("background-color","#f8f0d5")})
+          .mouseout(function(){$(this).css("background-color","transparent")})
+        $('.olsepicnobottomborder')
+          .mouseover(function(){$(this).css("background-color","#f8f0d5")})
+          .mouseout(function(){$(this).css("background-color","transparent")})  
         $('.iwa')
           .mouseover(function(){$(this).css("background-color","#f8f0d5")})
           .mouseout(function(){$(this).css("background-color","transparent")})
@@ -566,7 +628,8 @@ window.open(url,'name','toolbar=0,scrollbars=1,location=0,statusbar=1,menubar=0,
           .mouseout(function(){$(this).css("background-color","transparent")})  
         $('.roverview')
           .mouseover(function(){$(this).css("background-color","#fde9ca")})
-          .mouseout(function(){$(this).css("background-color","transparent")}) 
+          .mouseout(function(){$(this).css("background-color","transparent")})
+          } /* end conditional block targeting ie7 and ie8 */ 
       });
     //done hiding code--></script>    
     <!---->
@@ -582,7 +645,7 @@ window.open(url,'name','toolbar=0,scrollbars=1,location=0,statusbar=1,menubar=0,
 
 <p>1) <b>Collection of Personal Information from Site Users</b> </p>
 
-<p>While visiting our Site, you may choose to provide personal information to us in the process of completing various on-line forms for participation in ECFMG’s programs and services for international medical students/graduates, international medical schools, U.S. medical licensing authorities, U.S. graduate medical education programs, credentialing agencies, and others. This information may include, but is not limited to, your name, date of birth, e-mail address, postal address, telephone number, credit card information, social security and/or national identification numbers, country of birth, citizenship, family status, employment information and information related to your medical education, training, and licensure. You may also choose to provide personal information to us in the process of filling out an on-line application for employment with ECFMG. This information may include, but is not limited to, your name, e-mail address, postal address, telephone number, employment history, and list of references. By providing your personal information on-line, you consent to allow ECFMG to use that information in accordance with this Policy. </p> 
+<p>While visiting our Site, you may choose to provide personal information to us in the process of completing various on-line forms for participation in ECFMG’s programs and services for international medical students/graduates, international medical schools, U.S. medical licensing authorities, U.S. graduate medical education programs, credentialing agencies, and others. This information may include, but is not limited to, your name, gender, date of birth, e-mail address, postal address, telephone number, credit card or electronic check information, social security and/or national identification numbers, country of birth, citizenship, family status, employment information and information related to your medical education, training, and registration/licensure. This information may also include your photo; image of your passport; and images of documents related to your medical education, training, and registration/licensure. You may also choose to provide personal information to us in the process of filling out an on-line application for employment with ECFMG. This information may include, but is not limited to, your name, e-mail address, postal address, telephone number, employment history, and list of references. By providing your personal information on-line, you consent to allow ECFMG to use that information in accordance with this Policy. </p> 
 
 <p>In general, applicants for participation in ECFMG’s programs and services and applicants for employment with ECFMG are required to respond to all of the questions on our application forms. During the course of applying for ECFMG Certification, applicants may be asked about their ethnicity. Applicants for Certification, however, are not required to provide information regarding ethnicity. Providing information regarding your ethnicity is optional and choosing a particular answer or choosing not to provide this information will not affect the outcome of your application for ECFMG Certification. ECFMG uses information about the ethnicity of its applicants for research purposes, and it is kept confidential. Except in cases where ECFMG is recruiting standardized patients to participate in clinical skills exams, ECFMG does not require candidates for employment to provide information regarding ethnicity.</p> 
 
@@ -594,23 +657,25 @@ window.open(url,'name','toolbar=0,scrollbars=1,location=0,statusbar=1,menubar=0,
 
 <p>Through EMSWP, ECFMG provides international medical schools with access to a program through which they can verify the authenticity of medical education credentials of the schools’ students and graduates. These credentials include medical diplomas, final medical school transcripts, and transcripts to document transferred credits. If your school participates in the EMSWP Credentials Verification program, your school may transmit to ECFMG via the Internet your medical diploma and transcripts. Your school also may transmit to ECFMG additional information about your education, including your dates of attendance; the date your medical degree was conferred; the title of your medical degree; title of your undergraduate degree; and details on unusual circumstances that occurred during your medical education, including interruptions or exceptions and the reasons for same, academic or disciplinary probation, disciplinary action, investigations, and limitations and/or special requirements imposed upon you. Medical schools that choose not to participate in EMSWP Credentials Verification may continue to use our established paper-based credential verification process.</p>
 
-<p>Through the Exchange Visitor Network (EVNet), ECFMG provides authorized Training Program Liaisons (TPLs) at U.S. teaching hospitals and research institutions with the ability to submit information on-line to ECFMG about positions that have been offered to physicians who are applying to ECFMG for J-1 visa sponsorship. If you are a physician applying to ECFMG for J-1 sponsorship, the TPL at your proposed program will use EVNet to provide to ECFMG certain information about the position offered to you, including the specialty/subspecialty, post-graduate year (PGY) level, training dates, and stipend. If you are a TPL using EVNet to submit information to ECFMG about such positions, certain information about you, including your name and contact information, will be available to the physicians who have been offered these positions.</p>
+<p>Through the Exchange Visitor Network (EVNet), ECFMG provides authorized Training Program Liaisons (TPLs) at U.S. teaching hospitals and research institutions with the ability to submit information and supporting documentation on-line to ECFMG about positions that have been offered to physicians who are applying to ECFMG for J-1 visa sponsorship. If you are a physician applying to ECFMG for J-1 sponsorship, the TPL at your proposed program will use EVNet to provide to ECFMG certain information about the position offered to you, including the specialty/subspecialty, post-graduate year (PGY) level, training dates, and stipend. If you are a TPL using EVNet to submit information to ECFMG about such positions, certain information about you, including your name and contact information, will be available to the physicians who have been offered these positions.</p>
 
-<p>Through the On-line Applicant Status and Information System (OASIS), ECFMG provides applicants for J-1 visa sponsorship with the ability to submit personal information about themselves and their proposed J-2 dependents and to review and accept the details of positions offered to them. If you are applying to ECFMG for J-1 sponsorship, you will be required to provide to ECFMG information, such as your country of most recent legal permanent residence, information about previous J-1 visa sponsorship, and a statement of educational objectives. If you also are applying to ECFMG for J-2 visa sponsorship for your dependents, you will be required to provide to ECFMG the dependents’ personal information, including name as it appears on their passport, gender, date of birth, relationship to you, country of birth, country of citizenship, country of most recent legal permanent residence, and, if applicable, USMLE/ECFMG Identification Number.</p>
+<p>Through the On-line Applicant Status and Information System (OASIS), ECFMG provides applicants for J-1 visa sponsorship with the ability to submit personal information about themselves and their proposed J-2 dependents, to upload supporting documentation, and to review and accept the details of positions offered to them. If you are applying to ECFMG for J-1 sponsorship, you will be required to provide to ECFMG information, such as your country of most recent legal permanent residence, information about previous J-1 visa sponsorship, and a statement of educational objectives. If you also are applying to ECFMG for J-2 visa sponsorship for your dependents, you will be required to provide to ECFMG the dependents’ personal information, including name as it appears on their passport, gender, date of birth, relationship to you, country of birth, country of citizenship, country of most recent legal permanent residence, and, if applicable, USMLE/ECFMG Identification Number.</p>
 
 <p>Through OASIS, ECFMG provides ERAS applicants with the ability to submit Medical Student Performance Evaluations (MSPEs), medical school transcripts, photographs, Postgraduate Training Authorization Letter (PTAL) or “California Letter”, and letters of recommendation (LoRs). Applicants who choose not to submit these documents electronically through OASIS may submit them to ECFMG by postal mail or courier service (with the exception of the photograph, which must be submitted through OASIS). ERAS applicants also can use OASIS to submit an electronic request for letters of recommendation. Applicants who choose not to submit electronic requests for letters of recommendation through OASIS may contact potential letter writers through other means.</p>
 
 <p>Through the ERAS Letter Writer Portal (LWP), ECFMG provides letter of recommendation writers with the ability to submit letters, written in support of applicants’ ERAS applications, electronically to ECFMG. Letter of recommendation writers who choose not to submit their letters to ECFMG via ERAS LWP may decline the request and send their letters to ECFMG by postal mail or courier service.</p>
 
+<p>Through the Electronic Portfolio of International Credentials (EPIC<sup>SM</sup>) Physician Portal, ECFMG provides physicians with the ability to upload medical credentials, to have those credentials primary-source verified by ECFMG and stored in a web-based repository, and to request credentials and verification reports for medical regulatory authorities, medical education and training programs, hospitals, and other entities. To use the EPIC Physician Portal, you will be required to provide your name, date of birth, country of birth, country of citizenship at birth, country of citizenship at entrance to medical school, current country of citizenship, e-mail address, postal address, information related to your medical education, photo, image of your passport, and credit card or electronic check information. Through the EPIC Report Portal, ECFMG also provides medical regulatory authorities, medical education and training programs, hospitals, and other entities with web-based access to credentials and verification reports requested by physicians. To use the EPIC Report Portal, your institution will be required to provide your name, job title, date of birth, country of birth, e-mail address, and telephone number to ECFMG.</p>
+
 <p>ECFMG offers users of and applicants to selected programs and services the ability to communicate with ECFMG representatives via Live Chat, hosted by Velaro. Individuals who use Live Chat to communicate with ECFMG are asked to provide their name, e-mail address, and, if applicable, USMLE/ECFMG Identification Number; provision of this information is voluntary. Information provided by users, including the contents of on-line conversations, or “chats,” is stored by Velaro. For more information on Velaro’s information collection practices, please see Velaro’s Privacy Policy at <a href="http://www.velaro.com/privacy-policy" target="_blank">http://www.velaro.com/privacy-policy</a>. ECFMG may access, transfer, and store information provided by users, including the contents of chats. Additionally, chats may be monitored by ECFMG for quality assurance purposes. Individuals who choose not to communicate with ECFMG using Live Chat may <a href="../contact.html" target="_blank">contact ECFMG</a> by telephone or e-mail.</p>
 
-<p>Applications for ECFMG Certification, USMLE, J visa sponsorship, employment with ECFMG, and participation in ECFMG’s IMG Advisors Network (IAN) may not be downloaded from the Site or requested via phone, fax, or mail. Such applications must be completed on-line through the Site. Requests to have results of a USMLE exam administration withheld from a User’s medical school may not be made via phone, fax, or mail. Such requests must be made on-line through the Site.</p>
+<p>Applications for ECFMG Certification, USMLE, J visa sponsorship, EPIC, employment with ECFMG, and participation in ECFMG’s IMG Advisors Network (IAN) may not be downloaded from the Site or requested via phone, fax, or mail. Such applications must be completed on-line through the Site. Requests to have results of a USMLE exam administration withheld from a User’s medical school may not be made via phone, fax, or mail. Such requests must be made on-line through the Site.</p>
 
-<p>When a User accesses any of the on-line services at the Site, cookies are stored in the User’s browser memory and/or written to the User’s computer. A cookie is a small piece of data that is sent to your computer and allows identification of the User. The cookies are used solely to identify the same user from web page to web page and to indicate, in the case of Users with a user id, that the User has been properly authenticated. Cookies stored in the browser’s memory are removed when the User leaves the Site and the browser is closed. Cookies written to the User’s computer become permanently inaccessible either when the User leaves the Site or after a short, pre-determined time out period has expired. Cookies placed by the Live Chat service remain valid and are used to identify a returning user for the purpose of locating past chats with that user. With the exception of the authentication, payment, on-line employment application, OASIS, Interactive Web Applications (IWA), International Medical Education Directory (IMED), IMED Subscription Service, Step 2 CS Calendar and Scheduling, Certification Verification Service (CVS) ON-LINE, IAN, EMSWP pages, EVNet, ERAS LWP, and Live Chat, all non-service web pages are hosted by Verio. For more information regarding Verio's information collection practices, please see Verio's privacy policy at <a href="http://www.verio.com/about/legal/privacy/" target="_blank">www.verio.com/about/legal/privacy/</a>.</p>
+<p>When a User accesses any of the on-line services at the Site, cookies are stored in the User’s browser memory and/or written to the User’s computer. A cookie is a small piece of data that is sent to your computer and allows identification of the User. The cookies are used solely to identify the same user from web page to web page and to indicate, in the case of Users with a user id, that the User has been properly authenticated. Cookies stored in the browser’s memory are removed when the User leaves the Site and the browser is closed. Cookies written to the User’s computer become permanently inaccessible either when the User leaves the Site or after a short, pre-determined time out period has expired. Cookies placed by the Live Chat service remain valid and are used to identify a returning user for the purpose of locating past chats with that user. With the exception of the authentication, payment, on-line employment application, OASIS, Interactive Web Applications (IWA), International Medical Education Directory (IMED), IMED Subscription Service, Step 2 CS Calendar and Scheduling, Certification Verification Service (CVS) ON-LINE, IAN, EMSWP pages, EVNet, ERAS LWP, Live Chat, and EPIC, all non-service web pages are hosted by Verio. For more information regarding Verio's information collection practices, please see Verio's privacy policy at <a href="http://www.verio.com/about/legal/privacy/" target="_blank">www.verio.com/about/legal/privacy/</a>.</p>
 
 <p>2) <b>Security</b></p> 
 
-<p>As part of ECFMG’s pledge to protect your privacy, we employ Secure Sockets Layer (SSL) technology and password protection to portions of the Site to prevent unauthorized access to your personal information. In order to access your personal information, you must first authenticate your identity by entering your user id, password, and, in some cases, answers to challenge questions. All authentication pages are secured by SSL technology. Similarly, as you prepare to pay for your programs and services, you will enter our secure payment web page and will have a limited amount of time to enter the required information. Please note that pages other than the authentication pages, payment pages, on-line employment application, OASIS, IWA, IMED, IMED Subscription Service, CVS ON-LINE, IAN, EMSWP, EVNet, ERAS LWP, and Live Chat are not secured by SSL or other encryption programs.</p> 
+<p>As part of ECFMG’s pledge to protect your privacy, we employ Secure Sockets Layer (SSL) technology and password protection to portions of the Site to prevent unauthorized access to your personal information. In order to access your personal information, you must first authenticate your identity by entering your user id, password, and, in some cases, answers to challenge questions. All authentication pages are secured by SSL technology. Similarly, as you prepare to pay for your programs and services, you will enter our secure payment web page and will have a limited amount of time to enter the required information. Please note that pages other than the authentication pages, payment pages, on-line employment application, OASIS, IWA, IMED, IMED Subscription Service, CVS ON-LINE, IAN, EMSWP, EVNet, ERAS LWP, Live Chat, and EPIC are not secured by SSL or other encryption programs.</p> 
 
 <p>ECFMG uses third-party vendors, such as VeriSign and TeleCheck, in order to process your on-line payments. Please see VeriSign’s Privacy Policy at <a href="http://www.verisign.com/truste/index.html" target="_blank">www.verisign.com/truste/index.html</a> and TeleCheck’s Privacy Policy at <a href="http://www.firstdata.com/en_us/privacy.html" target="_blank">www.firstdata.com/en_us/privacy.html</a> for more information regarding their security and privacy practices.</p>
 
@@ -638,11 +703,11 @@ window.open(url,'name','toolbar=0,scrollbars=1,location=0,statusbar=1,menubar=0,
 
 <p>Through EMSWP, ECFMG also provides international medical schools with access to a program through which they can upload medical school transcripts, MSPEs, and LoRs on behalf of their students and graduates who participate in ERAS. International medical schools can also use EMSWP to track receipt of these supporting documents by ECFMG. If your school participates in the EMSWP ERAS program and you request an ERAS Token from ECFMG and/or register that Token with AAMC’s ERAS website, ECFMG will provide your medical school with certain information via the Internet, such as your name; USMLE/ECFMG Identification Number; AAMC Identification Number; date of birth; date on which your Token was requested; whether you have indicated you are a student or a graduate; whether or not you participated in the previous ERAS season; whether or not a photograph, medical school transcript, MSPE, and LoRs have been submitted to ECFMG as part of your ERAS application; and the date on which these documents were submitted to ECFMG.</p>
 
-<p>Through EMSWP, ECFMG also provides international medical schools with access to a program through which they can verify the authenticity of medical education credentials of the schools’ students and graduates. If your school participates in the EMSWP Credentials Verification program, ECFMG may provide your medical school with certain information via the Internet, such as your name, USMLE/ECFMG Identification Number, medical school identification number, and date of birth. ECFMG also may provide your medical school with copies of certain documents via the Internet, such as your medical credentials, medical school release forms, and <i>Certification of Identification Form</i> (Form 186) or <i>Certification Statement</i> (Form 183).</p>
+<p>Through EMSWP, ECFMG also provides international medical schools with access to a program through which they can verify the authenticity of medical education credentials of the schools’ students and graduates. If your school participates in the EMSWP Credentials Verification program, ECFMG may provide your medical school with certain information via the Internet, such as your name, gender, date of birth, USMLE/ECFMG Identification Number, medical school identification number, and, if applicable, EPIC Identification Number. ECFMG also may provide your medical school with copies of certain documents via the Internet, such as your medical credentials, medical school release forms, <i>Certification of Identification Form</i> (Form 186) or <i>Certification Statement</i> (Form 183), and, if applicable, EPIC Identification Form.</p>
 
 <p>If you are a medical school staff member and use EMSWP, your medical school’s EMSWP Coordinator will have access to your EMSWP User Name, and will have access to and be able to request changes to personal information associated with your EMSWP account, including your name, date of birth, birth country, job title, and contact information, including your e-mail address. This information will be exchanged with ECFMG via the Internet. Additionally, actions that you perform in EMSWP may be associated with your name, and other authorized users at your medical school may have access to this information. If you use EMSWP Credentials Verification to verify medical education credentials, a digitized image of your signature will be included in verifications that you submit to ECFMG via the Internet.</p>
 
-<p>Through EVNet, ECFMG provides authorized Training Program Liaisons (TPLs) with the ability to submit information on-line to ECFMG about positions that have been offered to physicians who are applying to ECFMG for J-1 visa sponsorship and to manage the J-1 visa sponsorship process. If you are applying to ECFMG for J-1 visa sponsorship or are currently sponsored by ECFMG for the J-1 visa, ECFMG may provide to the TPL via the Internet certain information about you and your J-2 dependents, such as name, USMLE/ECFMG Identification Number, gender, date of birth, and information on countries of citizenship and most recent legal permanent residence. </p>
+<p>Through EVNet, ECFMG provides authorized Training Program Liaisons (TPLs) with the ability to submit information and supporting documentation on-line to ECFMG about positions that have been offered to physicians who are applying to ECFMG for J-1 visa sponsorship and to manage the J-1 visa sponsorship process. If you are applying to ECFMG for J-1 visa sponsorship or are currently sponsored by ECFMG for the J-1 visa, ECFMG may provide to the TPL via the Internet certain information about you and your J-2 dependents, such as name, USMLE/ECFMG Identification Number, gender, date of birth, and information on countries of citizenship and most recent legal permanent residence. </p>
 
 <p>Through OASIS, ECFMG provides ERAS applicants with the ability to submit an electronic request for letters of recommendation. If you make such a request through OASIS, your request will be sent by e-mail to the individual you designate as a letter writer. The e-mail request will include your name, AAMC Identification Number, and information specific to your request, including the medical specialty you are pursuing and whether you have waived your right to view the letter. Letter writers who receive such requests may submit your letters of recommendation to ECFMG electronically.</p>
 
@@ -651,17 +716,29 @@ window.open(url,'name','toolbar=0,scrollbars=1,location=0,statusbar=1,menubar=0,
 
 <p>Applicants for examination should also note that by signing and submitting the Certification Statement or Certification of Identification Form associated with the USMLE application, you authorize ECFMG to transmit the information contained in your application, or that otherwise may become available to ECFMG, to “any federal, state or local governmental department or agency, to any hospital or to any other organization or individual who, in the judgment of ECFMG, has a legitimate interest in such information.”</p>
 
+<p>Physicians who request an EPIC Physician Portal account should note that by signing and submitting the EPIC Identification Form associated with establishing an account, you authorize ECFMG to transmit any information in its possession, or that may otherwise become available to ECFMG, bearing on the content of your request or any other document submitted to ECFMG, to “any federal, state, or local governmental department or agency, to any hospital or to any other organization or individual who, in the judgment of ECFMG, has a legitimate interest in such information.”</p>
+
 <p>By participating in IAN as an advisor, you acknowledge that information about yourself that you submit to the IAN database, such as your family status, training institution, and training specialty, and other information from your ECFMG record, such as your name, gender, and medical school, will be available to eligible users of the IAN database. Advisees who select an advisor from the IAN database acknowledge that personal information from their ECFMG record and application for ECFMG J-1 visa sponsorship, including their name, medical school, graduation year, and training specialty and institution, as well as the e-mail address they submit to the IAN database will be sent by e-mail to each advisor they select, unless they choose not to include such information in the e-mail message to the selected advisor.</p>
 
 <p>If you are approved for J-1 visa sponsorship by ECFMG, personal information about you and your J-2 dependents and information about the position offered to you will be shared with the Student and Exchange Visitor Information System (SEVIS), a U.S. government database administered by the U.S. Department of State and the U.S. Department of Homeland Security. Additionally, in accordance with the requirements of ECFMG’s designation by the Department of State as a J-1 visa sponsor, ECFMG may be required to disclose personal information to third parties.</p>
 
 <p>ECFMG also shares certain information about applicants for ECFMG Certification (e.g., name, ECFMG applicant number and certification status, medical school and/or date of birth) with the American Medical Association (the “AMA”) and the Association of American Medical Colleges (the "AAMC"). These organizations use the data that we provide to update and maintain their medical provider databases.</p> 
 
-<p>Other than the instances described above, or as ECFMG shall notify User of in the future, ECFMG pledges not to sell, rent, offer, or otherwise disclose any personal information, such as names, e-mail addresses, postal addresses, telephone numbers, credit card information, employment history and other personal information that User voluntarily provides to ECFMG, to any organization or individual without such a legitimate interest (collectively “Third Parties”), except to the extent necessary to comply with applicable laws or valid legal processes, or to protect the rights or property of ECFMG. </p>
+<p>Through the EPIC Physician Portal, ECFMG provides Users with the ability to upload their medical credentials to ECFMG and to request primary-source verification of those credentials. As part of the primary-source verification process, ECFMG provides authorized staff of the institution/organization that issued the credential with access via the Internet to an electronic copy of the credential and to certain information, such as the User’s name, gender, photograph, date of birth, EPIC Identification Number, and, if applicable, medical school identification number.</p> 
+
+<p>Through the EPIC Physician Portal, ECFMG also provides Users with the ability to request reports demonstrating the authenticity of their credentials for medical regulatory authorities, medical licensing and training organizations, hospitals, and other entities. These reports, which ECFMG makes available to these organizations via the Internet, include information such as the User’s name, date of birth, gender, and photograph. ECFMG also provides the organization with access to a copy of the medical credential for which the report was requested and may also provide the associated English translation, if applicable.</p>
+
+<p>To become an authorized User of the EPIC Report Portal, you must provide designated individual(s) at your organization with personal information including your name, date of birth, job title, and contact information, including your e-mail address. Your organization will provide this information to ECFMG. To change the personal information associated with your account, you must provide the updated information to your organization’s EPIC Coordinator. Your organization’s EPIC Coordinator will exchange the information with ECFMG via e-mail.</p>
+
+<p>Other than the instances described above, or as ECFMG shall notify User of in the future, ECFMG pledges not to sell, rent, offer, or otherwise disclose any personal information, such as names, e-mail addresses, postal addresses, telephone numbers, credit card information, employment history and other personal information that User voluntarily provides to ECFMG, to any organization or individual without such a legitimate interest (collectively “Third Parties”), except to the extent necessary to comply with applicable laws or valid legal processes, or to protect the rights or property of ECFMG.</p>
 
 <p>As noted above, ECFMG uses third-party vendors to process your on-line payment transactions. In order to process these transactions, your payment information must be disclosed to these third parties. You may review VeriSign's Privacy Policy by clicking <a href="http://www.verisign.com/truste/index.html" target="_blank">here</a> and you may review TeleCheck’s Privacy Policy by clicking <a href="http://www.firstdata.com/en_us/privacy.html" target="_blank">here</a>. By paying for your programs and/or services by on-line check, you authorize TeleCheck to obtain a report of your check-writing history in order to prevent fraud and for other authentication purposes. </p>
 
 <p>5) <b>Access and Ability to Correct Personal Data</b> </p>
+
+<p>Using the EPIC Physician Portal, properly identified Users may access and change such personal information as postal address, e-mail address, telephone and fax numbers, social security number and/or national identification number, and information related to their medical education, training, and registration/licensure. Properly identified Users may also use the EPIC Physician Portal to check the status of their financial account and the status of the verification of their credentials and verification reports. To request changes to certain personal information, including name, date of birth, and gender, Users must contact EPIC Support Services at ECFMG at <a href="mailto:info@ecfmgepic.org">info@ecfmgepic.org</a>.</p> 
+
+<p>To change or update their personal information, authorized Users of the EPIC Report Portal should contact their organization’s EPIC Coordinator. The organization’s EPIC Coordinator can request such changes for all Users at the organization by contacting EPIC Support Services at ECFMG at <a href="mailto:info@ecfmgepic.org">info@ecfmgepic.org</a>.</p>
 
 <p>Using <a href="https://oasis2.ecfmg.org" target="_blank">OASIS</a>, properly identified applicants for ECFMG Certification and ECFMG-certified physicians may access and verify or change such personal information as name of record, postal address, e-mail address, fax number and status of their financial account. You may also check the status of your USMLE applications and score reports, USMLE scheduling permits, and medical education credentials. In order to add to or change information in OASIS, you must have both your USMLE/ECFMG Identification Number and a password. If you do not have a password, you may obtain one by accessing <a href="https://oasis2.ecfmg.org" target="_blank">OASIS</a> and following the instructions for establishing a new account. OASIS is available 24 hours a day, 7 days a week, with the exception of maintenance periods. </p>
 
@@ -683,7 +760,7 @@ window.open(url,'name','toolbar=0,scrollbars=1,location=0,statusbar=1,menubar=0,
 
 <p>7) <b>Inquiries and Concerns</b> </p>
 
-<p>The foregoing Policy is effective as of September 12, 2012. ECFMG reserves the right to change this Policy at any time by notifying Users of the existence and location of the new or revised Privacy Policy. Your continued use of the Site after notice of a change shall constitute your acceptance of any such changes to this Policy.</p>
+<p>The foregoing Policy is effective as of April 15, 2013. ECFMG reserves the right to change this Policy at any time by notifying Users of the existence and location of the new or revised Privacy Policy. Your continued use of the Site after notice of a change shall constitute your acceptance of any such changes to this Policy.</p>
 
 <p>If you have any questions regarding this Privacy Policy, you may contact us at <a href="mailto:webmaster@ecfmg.org">webmaster@ecfmg.org</a>. If you would like to review and/or change your personal information, you may do so on-line (please see Item 5 of this Policy) or you may contact us at:</p> 
 
@@ -699,9 +776,9 @@ Email:  <a href="mailto:info@ecfmg.org">info@ecfmg.org</a></p>
 </div><!-- grid_960 -->
     <div class="footer960">
       <div class="footerleft">
-	[Posted April 4, 2003; updated April 29, 2003, January 14, 2004, August 31, 2004, June 13, 2006, August 31, 2006, December 7, 2006, December 19, 2006, February 15, 2007, March 23, 2007, February 4, 2008, November 20, 2008, December 11, 2008, November 2, 2009, August 2, 2010, August 6, 2010, July 1, 2011, July 8, 2011, August 15, 2011, August 31, 2011, October 18, 2011, December 27, 2011, January 9, 2012, January 11, 2012, June 11, 2012, September 12, 2012]<br><br>
+	[Posted April 4, 2003; updated April 29, 2003, January 14, 2004, August 31, 2004, June 13, 2006, August 31, 2006, December 7, 2006, December 19, 2006, February 15, 2007, March 23, 2007, February 4, 2008, November 20, 2008, December 11, 2008, November 2, 2009, August 2, 2010, August 6, 2010, July 1, 2011, July 8, 2011, August 15, 2011, August 31, 2011, October 18, 2011, December 27, 2011, January 9, 2012, January 11, 2012, June 11, 2012, September 12, 2012, April 4, 2013, April 15, 2013]<br><br>
           ® Registered in the US Patent and Trademark Office.<br> 
-          Copyright © 1996-2012 by the Educational Commission for Foreign Medical Graduates. All rights reserved.
+          Copyright © 1996-2013 by the Educational Commission for Foreign Medical Graduates. All rights reserved.
       </div>
       <div class="footerright">
                 <div style="margin-top:35px;"><a href="annc/terms.html">Terms</a>  |  <a href="annc/privacy.html">Privacy</a>  |  <a href="sitemap.html">Sitemap</a>  |  <a href="about/careers.html">Careers</a>  |  <a href="contact.html">Contact</a></div>
