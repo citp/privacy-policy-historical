@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bellroy.com privacy policy that was archived on 2012-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121118072417id_/http%3A//au.bellroy.com/pages/customer-care%23privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bellroy.com privacy policy that was archived on 2013-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130629202801id_/http%3A//bellroy.com/pages/customer-care/%23privacy) for the most accurate reproduction.*
 
 # Customer Care - Slim Leather Wallets by Bellroy
 
@@ -16,13 +16,15 @@ If you live down a donkey track in Tuana Tuva, please allow a little bit extra.
 
 Destination| Regular| Express  
 ---|---|---  
-Australia/NZ| $4.00 AUD| $6.00 AUD  
-USA| Free!| $9.00 AUD  
-Canada| $6.00 AUD| $12.00 AUD  
-UK/Europe| $10.00 AUD| $16.00 AUD  
-Asia| $8.00 AUD| $14.00 AUD  
-South America| $11.00 AUD| $18.00 AUD  
-Other Countries| $11.00 AUD| $18.00 AUD  
+Australia| Free!| $6.00 USD  
+New Zealand| Free!| $14.00 USD  
+USA| Free!| $9.00 USD  
+Canada| $6.00 USD| $12.00 USD  
+UK| Free!| $9.00 USD  
+Europe| Free!| $12.00 USD  
+Asia| $8.00 USD| $14.00 USD  
+South America| $11.00 USD| $18.00 USD  
+Other Countries| $11.00 USD| $18.00 USD  
   
 ## 3 YEAR WARRANTY
 
@@ -32,7 +34,7 @@ This warranty does not apply to damage caused by normal wear and tear, or unreas
 
 Please keep your receipt, as retailers will usually require proof of purchase.
 
-For more assistance, email [customerservice@bellroy.com](mailto:customerservice@bellroy.com)
+For more assistance, email [support@bellroy.com](mailto:support@bellroy.com)
 
 ## TERMS
 
@@ -42,7 +44,7 @@ Please review the following basic terms that govern your use of and purchase of 
 
 ### 1\. Transaction Currency and Pricing
 
-All transactions are processed in Australian Dollars (AUD) and include GST (Goods and services tax).
+All transactions are processed in the currency shown in the bottom right corner of each page and include GST (Goods and services tax) in Australia.
 
 ### 2\. Shipping and Delivery
 
@@ -52,13 +54,15 @@ Bellroy delivers products to most of the planet. Shipping rates are outlined on 
 
 Bellroy is committed to providing exceptional customer service and quality products. We endeavour to make sure that all products listed on our website are currently in stock and pricing is true and correct. Standard dispatch timeframes are between 1-3 business days; in the event that an ordered item is not available or we are unable to fulfil your order we will notify you within 2 business days to arrange an agreeable alternative item, a backorder or a full refund.
 
-### 4\. Refund Policy
+### 4\. Return Policy
 
-Please choose carefully. We do not give refunds if you simply change your mind or make a wrong decision. If the goods are faulty, have been wrongly described, are different to the product purchased on the website or don't do what they are supposed to do, get in touch with us and you can choose between a refund, exchange or credit.
+Bellroy stands by the quality of our products with a 3 year warranty. If the wallet is faulty or flawed, no worries — get in touch with us and we'll get an exchange or refund sorted out for you straight away.
+
+However, we discourage returns simply for a change of mind. Please choose carefully. Unnecessary shipping and processing goes against our [core goals](https://web.archive.org/pages/environment/).
 
 ### 5\. Warranty
 
-Bellroy products are covered by a 3 year warranty. Full details are on our warranty page.
+Bellroy products are covered by a 3 year warranty. Full details are [here](https://web.archive.org/pages/customer-care/#warranty).
 
 ### 6\. Copyright
 
@@ -70,13 +74,15 @@ You may not reproduce (except as noted above), publish, transmit, distribute, di
 
 ### 7\. Security
 
-When purchasing from Bellroy your ?nancial details are passed through a secure server using the latest 128-bit SSL (secure sockets layer) encryption technology. 128-bit SSL encryption is the current industry standard. If you have any questions regarding our security policy, please contact us via email at [moderncraft@bellroy.com](mailto:moderncraft@bellroy.com).
+When purchasing from Bellroy your financial details are passed through a secure server using the latest 128-bit SSL (secure sockets layer) encryption technology. 128-bit SSL encryption is the current industry standard. If you have any questions regarding our security policy, please contact us via email at [moderncraft@bellroy.com](mailto:moderncraft@bellroy.com).
 
 ## PRIVACY POLICY
 
 Bellroy is dedicated to keeping your details private. Any information we collect in relation to you is kept strictly secured. We do not pass on, sell or swap any of your personal details with anyone else. We use this information to identify your orders, provide you with Bellroy updates (if requested) and to personalise your shopping experience with us.
 
 Bellroy uses cookies to allow you to login to your account and to maintain a shopping cart between sessions. Bellroy will work without cookies enabled, but they allow us to give you a more friendly, interesting and enjoyable shopping experience.
+
+We use remarketing (sometimes called retargeting) to better target our ads to interested customers. When you visit the Bellroy site, you may see additional Bellroy ads on participating websites, including the Google Display Network and Facebook. You can change your advertising preferences and view additional information using the [Ads Preference Manager](https://www.google.com/settings/ads/onweb/?hl=en&sig=ACi0TCg4VHd0m21adYaAg9yNDxJFQTiTSdorWliAwloVbVUTgmchctwp2GJgAjNVdX5eTnvU_liK7Nw1FGvAO2MinLUps2ts4sc__SSyVF7FCU6gglVus727677iacDuZaJDGl9s2vkWKy9gmbFnJTyVHgeNeMVjqG3WCh_5C10Gqr73KbdwD0__6mf5ax3UV_6tHffg9HzX). Personally identifiable information is never disclosed.
 
 Whenever you use our web site, or any other web site, the computer on which the web pages are stored (the Web server) needs to know the network address of your computer so that it can send the requested web pages to your Internet browser. The unique network address of your computer is called its "IP address," and is sent automatically each time you access any Internet site. From a computer's IP address, it is possible to determine the general geographic location of that computer but otherwise it is anonymous.
 
