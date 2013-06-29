@@ -1,24 +1,42 @@
-<!--The following is the downloaded HTML source of the stockpromoters.com privacy policy that was archived on 2012-12-11.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121211093456id_/http%3A//stockpromoters.com/Stock-Promoters-Privacy-Policy.aspx) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the stockpromoters.com privacy policy that was archived on 2013-06-29.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130629175328id_/http%3A//stockpromoters.com/Stock-Promoters-Privacy-Policy.aspx) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head><link rel="stylesheet" type="text/css" href="css/main.css"><link rel="stylesheet" type="text/css" href="css/spage.css"><link rel="stylesheet" type="text/css" href="css/inside.css"><link rel="stylesheet" type="text/css" href="css/quotemedia_module.css"><link rel="stylesheet" type="text/css" href="css/quotemedia_tools.css">
-<script type="text/javascript" language="javascript" src="js/jquery.js"></script>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
+<!-- IZ63EtZnH2Suto_oPwKK3QcGTmQ -->
+<meta name="alexaVerifyID" content="IZ63EtZnH2Suto_oPwKK3QcGTmQ"><link rel="stylesheet" type="text/css" href="css/main.css">
+<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" language="javascript" src="js/jquery.js"></script>
 <script type="text/javascript" language="javascript" src="../admin/javaScript/jquery-1.4.1.min.js"></script>
 <script type="text/javascript" language="javascript" src="js/jquery.extend.js"></script>
 <script type="text/javascript" language="javascript" src="js/jquery.dropdown.js"></script>
 <script type="text/javascript" language="javascript" src="js/sp.js"></script>
 <script type="text/javascript" language="javascript" src="js/crotator.js"></script>
-<script type="text/javascript" language="javascript">
-function SearchSubmit(pageURL)
-{
-	document.getElementById(pageURL).submit();
-	
-}
-</script>
 
-<meta name="description"><meta name="keyword">
+<meta name="description" content="Stock Promoters Privacy Policy"><meta name="keywords" content="Stock Promoters Privacy Policy">
+<style type="text/css">
+  #sRightContent {
+            font-family: arial;
+            color: #5A656B;
+            background: #FFF;
+            border: #c7c7c7 solid 1px;
+            padding:0 20px 20px 20px;
+            margin-left: 28px;           
+            float:left;
+			width:658px;
+			font-size:12px;
+			text-align:justify;
+        }
+		 #sRightContent table td{
+            border:none;
+			padding:10px;
+			border:1px solid #CCC;
+			background:#ececec;
+			    }
+		 table {
+			border:none;}
+		
+        </style>
 <title>
-	
+	Stock Promoters Privacy Policy
 </title></head>
 <body>
 
@@ -28,8 +46,9 @@ function SearchSubmit(pageURL)
         <!-- Start Header-->
          
          
-<script type="text/javascript" language="javascript" src="../js/modal.popup.js"></script>
-<script type="text/javascript" language="javascript" src="../js/jquery.dropdown.js"></script>
+<script type="text/javascript" language="javascript" src="/js/modal.popup.js"></script>
+<script type="text/javascript" language="javascript" src="/js/jquery.dropdown.js"></script>
+
 <script language="javascript" type="text/javascript">
 $(document).ready(function() {
 	var align = 'center';
@@ -43,13 +62,13 @@ $(document).ready(function() {
 	var fadeOutTime = 300;
 	var disableColor = '#666666';
 	var disableOpacity = 40;
-	var loadingImage = '../images/loading.gif';
+	var loadingImage = '/images/loading.gif';
 	
     var source = "";
     
     $("a.modal").live("click", function(){ 
         js_message_id = $(this).attr('id');
-        source = 'GmailMessage.aspx?message_id='+js_message_id;
+        source = '/gmailmessage.aspx?message_id='+js_message_id;
         modalPopup(align, top, width, padding, disableColor, disableOpacity, backgroundColor, borderColor, borderWeight, borderRadius, fadeOutTime, source, loadingImage);
      }); 
 
@@ -59,6 +78,31 @@ $(document).ready(function() {
 	    }
     });
 });
+
+function ToggolPennyStock(mode)
+{
+    if(mode == "0")
+    {
+        $('#NewsletterSort').hide();
+        $('#SymbolSort').show();
+        
+        $('#ToggolSymbol').hide();
+        $('#ToggolNewsletter').show();
+    }
+    else
+    {
+        $('#NewsletterSort').show();
+        $('#SymbolSort').hide();
+        
+        $('#ToggolSymbol').show();
+        $('#ToggolNewsletter').hide();
+    } 
+}
+
+function SearchSubmit(obj)
+{
+	document.getElementById($(obj).attr('rel')).submit();
+}
 
 function LoadNewAlert()
 {
@@ -73,9 +117,9 @@ function LoadNewAlert()
 	var fadeOutTime = 300;
 	var disableColor = '#666666';
 	var disableOpacity = 40;
-	var loadingImage = '../images/loading.gif';
+	var loadingImage = '/images/loading.gif';
 
-    modalPopup(align, top, width, padding, disableColor, disableOpacity, backgroundColor, borderColor, borderWeight, borderRadius, fadeOutTime, 'New-Alert-Popup.aspx', loadingImage);
+    modalPopup(align, top, width, padding, disableColor, disableOpacity, backgroundColor, borderColor, borderWeight, borderRadius, fadeOutTime, 'new-alert-popup.aspx', loadingImage);
 }
 </script>
 <script type="text/javascript">
@@ -104,18 +148,12 @@ $(document).ready(function () {
 
 function link_twitter()
 {
-	//alert("Coming Soon!");
-	//return false;
-	
-	mypopWindow = window.open('http://stockpromoters.com/Twitter.aspx','PopWindow','width=400,height=400,resizable=no,menubar=no,toolbar=no');
+	mypopWindow = window.open('http://stockpromoters.com/twitter.aspx','PopWindow','width=400,height=400,resizable=no,menubar=no,toolbar=no');
 	mypopWindow.focus();
 }
 function link_facebook()
 {
-	//alert("Coming Soon!");
-	//return false;
-	
-	mypopWindow = window.open('http://stockpromoters.com/Facebook.aspx','PopWindow','width=760,height=400,resizable=no,menubar=no,toolbar=no');
+	mypopWindow = window.open('http://stockpromoters.com/facebook.aspx','PopWindow','width=760,height=400,resizable=no,menubar=no,toolbar=no');
 	mypopWindow.focus();
 }
 
@@ -128,7 +166,7 @@ function post_to_twitter(js_EncodedPromotionMessage, js_PromoterPromotionID)
 	    $.ajax({
 
 	        type        : "GET",
-	        url        : 'http://stockpromoters.com/TwitterPost.aspx',
+	        url        : 'http://stockpromoters.com/twitterpost.aspx',
 
 	        data        : {
 	        	EncodedPromotionMessage : js_EncodedPromotionMessage,
@@ -164,7 +202,7 @@ function post_to_facebook(js_EncodedPromotionMessage, js_PromoterPromotionID)
 	    $.ajax({
 
 	        type        : "GET",
-	        url        : 'http://stockpromoters.com/FacebookPost.aspx',
+	        url        : 'http://stockpromoters.com/facebookpost.aspx',
 
 	        data        : {
 	        	EncodedPromotionMessage : js_EncodedPromotionMessage,
@@ -201,7 +239,7 @@ function post_counter_for_social(js_PassPipeParameter, js_EncodedPromotionMessag
 
 	        type        : "GET",
 	        dataType    : "json",
-	        url        : 'http://stockpromoters.com/SocialCounterPost.aspx',
+	        url        : 'http://stockpromoters.com/socialcounterpost.aspx',
 
 	        data        : {
 	        	PassPipeParameter : js_PassPipeParameter,
@@ -230,19 +268,16 @@ function post_counter_for_social(js_PassPipeParameter, js_EncodedPromotionMessag
 </script>
 <div id="topHeader">
     <div id="topHeaderLeft">
-        <ul class="noList followIcons">
-            <li class="followIconFacebook"><a href="http://www.facebook.com/#!/stockpromoters" target="_blank">
-                <img src="img/icon_follow.gif" id="ctl00_ContentPlaceHolderyy_Footer1_Img1" alt="Follow us on Facebook"></a></li>
-            <li class="followIconTwitter"><a href="http://twitter.com/StockPromoters" target="_blank">
-                <img src="img/icon_follow.gif" id="ctl00_ContentPlaceHolderyy_Footer1_Img2" alt="Follow us on Twitter"></a></li>
-            <li class="followIconFriendfeed"><a href="http://friendfeed.com/stockpromoters" target="_blank">
-                <img src="img/icon_follow.gif" id="ctl00_ContentPlaceHolderyy_Footer1_Img3" alt="Follow us on FriendsFeed"></a></li>
-            <li class="topHeaderDate">
-                <span id="ctl00_ContentPlaceHolderyy_Footer1_lblMarketInfo">Tue, Dec 11, 2012 4:35:01 AM EST, Market opens in 04:54</span></li>
-        </ul>
+        <!-- Start SocialFollow.com Button Code -->
+        <img src="https://www.socialfollow.com/button/image/?b=18730" class="socialFollowImage" alt="Follow Me!">
+        <script type="text/javascript" src="https://www.socialfollow.com/button/?b=18730"></script>
+        <script type="text/javascript">socialfollow.init("socialFollowImage");</script>
+        <!-- End SocialFollow.com Button Code -->    
+        <!--header.ascx.txt-->
     </div>
     <div id="topHeaderRight">
         <!-- login -->
+        <!-- IZ63EtZnH2Suto_oPwKK3QcGTmQ -->
 
         <div id="ctl00_ContentPlaceHolderyy_Footer1_pnlLogin">
 	
@@ -252,7 +287,7 @@ function post_counter_for_social(js_PassPipeParameter, js_EncodedPromotionMessag
                         <td>
                             <ul class="noList">
                                 <li class="joinLink">
-                                    <a id="ctl00_ContentPlaceHolderyy_Footer1_hlSignup" href="http://stockpromoters.com/Join-Stock-Promoters-For-Free.aspx">Join For Free</a>
+                                    <a id="ctl00_ContentPlaceHolderyy_Footer1_hlSignup" href="http://stockpromoters.com/join-stock-promoters-for-free.aspx">Join For Free</a>
                                 </li>
                             </ul>
                         </td>
@@ -302,7 +337,7 @@ function post_counter_for_social(js_PassPipeParameter, js_EncodedPromotionMessag
          
         <div id="ctl00_ContentPlaceHolderyy_Footer1_pnlLogout2">
 	
-            <div id="ctl00_ContentPlaceHolderyy_Footer1_headerBanner"><br><a href="http://www.cohenresearch.com" target="_blank"><img src="/images/Advertisers/banners/CIRGbanner720x88-9-05-11.gif" width="720px" height="88px" runat="server"></a></div>
+            <div id="ctl00_ContentPlaceHolderyy_Footer1_headerBanner"><br><a href="http://www.pennystockcrowd.com" target="_blank"><img src="/images/Advertisers/banners/178x90_psc.gif" width="720px" height="88px" runat="server"></a></div>
         
 </div>
     </div>
@@ -312,54 +347,51 @@ function post_counter_for_social(js_PassPipeParameter, js_EncodedPromotionMessag
 <div id="mainMenu" style="position:relative; z-index:10;">
     <div id="dropdown">
         <ul>
-            <li><a href="http://stockpromoters.com/Services.aspx">StockPromoters Services</a>
+            <li><a href="http://stockpromoters.com/services.aspx">StockPromoters Services</a>
                 <ul>
-                    <li><a href="http://stockpromoters.com/Investor-Awareness.aspx">Investor Awareness</a></li>
-                    <li><a href="http://stockpromoters.com/Consulting-Services.aspx">Consulting Services</a></li>
-                    <li><a href="http://stockpromoters.com/Internet-Marketing.aspx">Internet Marketing</a></li>
-                    <li><a href="http://stockpromoters.com/Wire-Services.aspx">Wire Services</a></li>
-                    <li><a href="http://stockpromoters.com/Restricted-Stock-Solutions.aspx">Restricted Stock Solutions</a></li>
-                    <li><a href="http://stockpromoters.com/Useful-Stock-Market-Links.aspx">Useful Links</a></li>
-                    <li><a href="http://stockpromoters.com/View-Changes-In-The-Rules.aspx">Changes in the Rules</a></li>
-                    <li><a href="http://stockpromoters.com/Join-Stock-Promoters-For-Free.aspx">Join StockPromoters For Free</a></li>
+                    <li><a href="http://stockpromoters.com/investor-awareness.aspx">Investor Awareness</a></li>
+                    <li><a href="http://stockpromoters.com/consulting-services.aspx">Consulting Services</a></li>
+                    <li><a href="http://stockpromoters.com/internet-marketing.aspx">Internet Marketing</a></li>
+                    <li><a href="http://stockpromoters.com/wire-services.aspx">Wire Services</a></li>
+                    <li><a href="http://stockpromoters.com/useful-stock-market-links.aspx">Useful Links</a></li>
+                    <li><a href="http://stockpromoters.com/join-stock-promoters-for-free.aspx">Join StockPromoters For Free</a></li>
+                    <li><a href="http://stockpromoters.com/data-licensing.aspx">Data Licensing</a></li>
                 </ul>
             </li>
-            <li><a href="http://stockpromoters.com/Stock-Promotions.aspx">Stock Promotions</a>
+            <li><a href="http://stockpromoters.com/stock-chat.aspx">Stock Chat</a></li>
+            <li><a href="http://stockpromoters.com/stock-promotions.aspx">Stock Promotions</a>
                 <ul>
-                    <li><a href="http://stockpromoters.com/Daily-Stock-Promotions.aspx">Daily Promotions</a></li>
-                    <li><a href="http://stockpromoters.com/First-Time-Stock-Promotions.aspx">First Time Promotions</a></li>
-                    <li><a href="http://stockpromoters.com/Real-Time-Stock-Promotions.aspx">Real Time Promotions</a></li>
-                    <li><a href="http://stockpromoters.com/Stock-Promotion-Email-Archive.aspx">Stock Promotion Email Archive</a></li>
-                    <li><a href="http://stockpromoters.com/View-Stock-Promotions-By-Symbol.aspx">View Promotions by Symbol</a></li>
-                    <li><a href="http://stockpromoters.com/View-Promotions-By-Promoter.aspx">View Promotions by Promoter</a></li>
-                    <li><a href="http://stockpromoters.com/Todays-EOD-Promotions.aspx">Todays End of Day Promotions</a></li>
+                    <li><a href="http://stockpromoters.com/stock-promotions-today.aspx">Stock Promotions Today</a></li>
+                    <li><a href="http://stockpromoters.com/first-time-stock-promotions.aspx">First Time Promotions</a></li>
+                    <li><a href="http://stockpromoters.com/stock-promotion-history.aspx">Stock Promotion History</a></li>
+                    <li><a href="http://stockpromoters.com/stock-promotion-email-archive.aspx">Stock Promotion Email Archive</a></li>
+                    <li><a href="http://stockpromoters.com/view-stock-promotions-by-symbol.aspx">View Promotions by Symbol</a></li>
+                    <li><a href="http://stockpromoters.com/view-promotions-by-promoter.aspx">View Promotions by Promoter</a></li>
+                    <li><a href="http://stockpromoters.com/todays-eod-promotions.aspx">Todays End of Day Promotions</a></li>
                 </ul>
             </li>
-            <li><a href="http://stockpromoters.com/Stock-Promoters.aspx">Promoters</a>
+            <li><a href="http://stockpromoters.com/stock-promoters.aspx">Promoters</a>
                 <ul>
-                    <li><a href="http://stockpromoters.com/Featured-Stock-Promoters.aspx">Featured Promoters</a></li>
-                    <li><a href="http://stockpromoters.com/Yesterdays-Top-Promotions.aspx">Yesterdays Top Promotions</a></li>
-                    <li><a href="http://stockpromoters.com/Top-Stock-Promoters.aspx">Top Promoters (Best)</a></li>
-                    <li><a href="http://stockpromoters.com/Worst-Stock-Promoters.aspx">Bottom Promoters (Worst)</a></li>
-                    <li><a href="http://stockpromoters.com/Stock-Promoter-Watch-List.aspx">Stock Promoter Watch List</a></li>
-                    <li><a href="http://stockpromoters.com/View-Stock-Promoters-By-Services.aspx">View Promoters by Services</a></li>
-                    <li><a href="http://stockpromoters.com/Stock-Promoters-To-Avoid.aspx">Promoters to Avoid</a></li>
-                    <li><a href="http://stockpromoters.com/Stock-Promoters-In-The-News.aspx">Stock Promoters in the News</a></li>
-                    <li style="white-space:nowrap;"><a href="http://stockpromoters.com/Add-Stock-Promoter-To-Be-Tracked.aspx">Add Stock Promoter to be Tracked</a></li>
+                    <li><a href="http://stockpromoters.com/featured-stock-promoters.aspx">Featured Promoters</a></li>
+                    <li><a href="http://stockpromoters.com/top-stock-promoters.aspx">Top Promoters (Best)</a></li>
+                    <li><a href="http://stockpromoters.com/yesterdays-top-promotions.aspx">Yesterdays Top Promotions</a></li>
+                    <li><a href="http://stockpromoters.com/stock-promoter-watch-list.aspx">Stock Promoter Watch List</a></li>
+                    <li><a href="http://stockpromoters.com/view-stock-promoters-by-services.aspx">View Promoters by Services</a></li>
+                    <li><a href="http://stockpromoters.com/stock-promoters-to-avoid.aspx">Promoters to Avoid</a></li>
+                    <li><a href="http://stockpromoters.com/stock-promoters-in-the-news.aspx">Stock Promoters in the News</a></li>
+                    <li style="white-space:nowrap;"><a href="http://stockpromoters.com/add-stock-promoter-to-be-tracked.aspx">Add Stock Promoter to be Tracked</a></li>
                 </ul>
             </li>
-            <li><a href="http://stockpromoters.com/PublicCompanies.aspx">Public Companies</a>
+            <li><a href="http://stockpromoters.com/public-companies.aspx">Public Companies</a>
                 <ul>
-                  <li><a href="http://stockpromoters.com/View-Companies-Looking-To-Go-Public.aspx">Co's Looking to Go Public (List)</a></li>
-                  <li><a href="http://stockpromoters.com/Public-Companies-Seeking-Promotion.aspx">Co's Seeking Promotion (List)</a></li>
-                  <li><a href="http://stockpromoters.com/View-Public-Companies-Seeking-Financing.aspx">Co's Seeking Financing (List)</a></li>
-                  <li><a href="http://stockpromoters.com/Public-Companies-Seeking-Financing.aspx">Add Your Company</a></li>
+                  <li><a href="http://stockpromoters.com/public-companies-seeking-promotion.aspx">Co's Seeking Promotion (List)</a></li>
+                  <li><a href="http://stockpromoters.com/view-public-companies-seeking-financing.aspx">Co's Seeking Financing (List)</a></li>
+                  <li><a href="http://stockpromoters.com/view-companies-looking-to-go-public.aspx">Co's Looking to Go Public (List)</a></li>
+                  <li><a href="http://stockpromoters.com/public-companies-seeking-financing.aspx">Add Your Company</a></li>
+                  <li><a href="http://stockpromoters.com/otc-market-news.aspx">OTC Market News</a></li>
                 </ul>
             </li>
-            <li><a href="http://stockpromoters.com/Contact-Stock-Promoters.aspx">Contact Stock Promoters</a>
-                <!--<ul>
-                    <li style="white-space:nowrap;"><a href="http://stockpromoters.com/submit-general-comments-or-questions.aspx">Submit Your General Questions & Comments</a></li>
-                </ul>-->
+            <li><a href="http://stockpromoters.com/contact-stock-promoters.aspx">Contact Stock Promoters</a>
             </li>
         </ul>
     </div>
@@ -391,33 +423,28 @@ function post_counter_for_social(js_PassPipeParameter, js_EncodedPromotionMessag
             <input src="/img/btn_go.gif" name="ctl00$ContentPlaceHolderyy$Footer1$Image1" type="image" id="ctl00_ContentPlaceHolderyy_Footer1_Image1"></p>
         </form>
     </div>
-    <!--<div class="symbolLookup">
-        <form action="../Stock_Quote/symboldata.aspx" method="get">
+    <div class="siteSearch" style="margin-right:10px;">
+        <form name="frmPromoter" action="/view-promotions-by-promoter.aspx" method="get">
         <p>
             <label>
-                Symbol Lookup</label></p>
+                Search by Promoter</label></p>
         <p>
-            <input name="symbol" type="text" />
+            <input name="promoter" type="text"></p>
+        <p>
+            <input id="Image3" type="image" src="/img/btn_go.gif"></p>
+        </form>
+    </div>
+    <div class="symbolLookup" style="float:right; margin-right:10px;">
+        <form action="/view-stock-promotions-by-symbol.aspx" method="get">
+        <p>
+            <label>Search by Symbol</label></p>
+        <p>
+            <input name="symbol" type="text">
             </p>
-            <input type="hidden" name="action" value="showDetailedQuote" />
         <p>
-            <input src="img/btn_go.gif" name="ctl00$ContentPlaceHolderyy$Footer1$Image2" type="image" id="ctl00_ContentPlaceHolderyy_Footer1_Image2" /></p>
-        <p>
-            <a href="#">Advanced</a></p>
+            <input src="/img/btn_go.gif" name="ctl00$ContentPlaceHolderyy$Footer1$Image2" type="image" id="ctl00_ContentPlaceHolderyy_Footer1_Image2"></p>
         </form>
-    </div>-->
-    <!--<div class="siteSearch">
-        <form action="../Stock_Quote/symboldata.aspx" method="get">
-        <p>
-            <label>
-                Search</label></p>
-        <p>
-            <input name="symbol" type="text" title="Promoter, Public Company, Stock" /></p>
-            <input type="hidden" name="action" value="showDetailedQuote" />
-        <p>
-            <input src="img/btn_go.gif" name="ctl00$ContentPlaceHolderyy$Footer1$Image3" type="image" id="ctl00_ContentPlaceHolderyy_Footer1_Image3" /></p>
-        </form>
-    </div>-->
+    </div>    
     <div class="wrapper">
     </div>
 </div>
@@ -429,345 +456,89 @@ function post_counter_for_social(js_PassPipeParameter, js_EncodedPromotionMessag
             <div id="contentContainer">
                 
 
+<script type="text/javascript">
+function MM_openBrWindow(theURL,winName,features) { //v2.0
+  window.open(theURL,winName,features);
+}
+</script>
+
 <div id="sPageLeftSideBar">
-        <div id="ctl00_Main_ucleftContent_pnlLogin2">
+  <div id="ctl00_Main_ucleftContent_pnlLogin2">
 	
-            <div id="dataTerminalBG" style="width:212px;">
-                <div id="dataTerminal" style="width:195px;">
-                    <div style="width: auto; padding: 5px 0px 5px 0px; font-size: 12px; font-weight:bold; color: #ffcc33;
-                        text-transform: uppercase; text-align: center;">
-                        StockPromoters.com Live Data Terminal
-                    </div>
-                    <div style="padding: 5px 0px 0px 0px; width: auto; color: #ccc; width: auto; text-align: center; font-size: 11px;">
-                        <span style="padding: 0px 0px 0px 0px;">Promotions Tracked To Date: <span id="ctl00_Main_ucleftContent_lblPromotions"><b>144154</b></span></span>
-                    </div>
-                    <div style="padding: 5px 0px 0px 0px; width: auto; color: #ccc; width: auto; text-align: center; font-size: 11px;">
-                        <span style="padding: 0px 0px 0px 0px;">Promoters Tracked: <span id="ctl00_Main_ucleftContent_lblPromoters"><b>1761</b></span></span>
-                    </div>
-                    <div style="padding: 5px 0px 0px 0px; width: auto; color: #ccc; width: auto; text-align: center; font-size: 11px;">
-                        <span style="padding: 0px 0px 0px 0px;">Companies Looking to go <a href="http://stockpromoters.com/View-Companies-Looking-To-Go-Public.aspx" style="color: #ffcc33; text-decoration:underline;">Public</a>: <span id="ctl00_Main_ucleftContent_lblLookingPublic"><b>3</b></span></span>
-                    </div>
-                    <div style="padding: 5px 0px 0px 0px; width: auto; color: #ccc; width: auto; text-align: center; font-size: 11px;">
-                        <span style="padding: 0px 0px 0px 0px;">Public&nbsp;Companies&nbsp;Seeking&nbsp;<a href="http://stockpromoters.com/Public-Companies-Seeking-Promotion.aspx" style="color: #ffcc33; text-decoration:underline;">Promotion</a>: <span id="ctl00_Main_ucleftContent_lblSeekingPromotion"><b>13</b></span></span>                        
-                    </div>
-                    <div style="padding: 5px 0px 0px 0px; width: auto; color: #ccc; width: auto; text-align: center; font-size: 11px;">
-                        <span style="padding: 0px 0px 0px 0px;">Public&nbsp;Companies&nbsp;Seeking&nbsp;<a href="http://stockpromoters.com/View-Public-Companies-Seeking-Financing.aspx" style="color: #ffcc33; text-decoration:underline;">Financing</a>: <span id="ctl00_Main_ucleftContent_lblSeekingFinancing"><b>11</b></span></span>
-                    </div>
-                </div>
-            </div>
-        
-</div>
-        <br>
-        
-
-    <div style="background-color:White; border: 1px #C7C7C7 solid;font-family:Arial,Helvetica,sans-serif; padding-left:5px; padding-top:5px;padding-bottom:20px">
-        <table>
-    <tbody><tr>
-    <td align="center">
-    <span style="font-size:20px;line-height:21px">The Most Promoted Penny Stocks This Week</span>
-    </td>
-    </tr>
-    <tr>
-    <td align="center">
-    <span style="font-size:10px; color:Black">(Last 5 Trading Days)</span>
-    </td>
-    </tr>
-    </tbody></table>
-       
-        
-        <hr style="width:90%">
-        <br>
-        <ul style=" margin:0px; padding-left:0;">
-    
-        
-            
-                <li style="text-align:left; background: url(img/bullted.gif) no-repeat left; padding:0 0 0 40px; list-style:none;  line-height:35px">
-		<form action="http://stockpromoters.com/Stock_Quote/symboldata.aspx" method="get" id="USGT">
-			<input name="symbol" type="hidden" value="USGT" style="display:none">
-			<input name="action" type="hidden" value="showDetailedQuote">
-                  <a href='javascript:SearchSubmit("USGT")' style="font-size:13px; font-family:Arial,Helvetica,sans-serif; color: #0577f8; text-decoration: underline">USGT</a>
-                  <span style="font-family:Arial,Helvetica,sans-serif; color:black">by</span>&nbsp;
-                 <a style="font-size:12px; font-family:Arial,Helvetica,sans-serif; color: #0577f8; text-decoration: underline" href="http://stockpromoters.com/News-Letters.aspx?symbol=USGT">42&nbsp;newsletters</a> 
-		</form>
-                </li>
-          
-    
-        
-            
-                <li style="text-align:left; background: url(img/bullted.gif) no-repeat left; padding:0 0 0 40px; list-style:none;  line-height:35px">
-		<form action="http://stockpromoters.com/Stock_Quote/symboldata.aspx" method="get" id="WTCG">
-			<input name="symbol" type="hidden" value="WTCG" style="display:none">
-			<input name="action" type="hidden" value="showDetailedQuote">
-                  <a href='javascript:SearchSubmit("WTCG")' style="font-size:13px; font-family:Arial,Helvetica,sans-serif; color: #0577f8; text-decoration: underline">WTCG</a>
-                  <span style="font-family:Arial,Helvetica,sans-serif; color:black">by</span>&nbsp;
-                 <a style="font-size:12px; font-family:Arial,Helvetica,sans-serif; color: #0577f8; text-decoration: underline" href="http://stockpromoters.com/News-Letters.aspx?symbol=WTCG">46&nbsp;newsletters</a> 
-		</form>
-                </li>
-          
-    
-        
-            
-                <li style="text-align:left; background: url(img/bullted.gif) no-repeat left; padding:0 0 0 40px; list-style:none;  line-height:35px">
-		<form action="http://stockpromoters.com/Stock_Quote/symboldata.aspx" method="get" id="LVVV">
-			<input name="symbol" type="hidden" value="LVVV" style="display:none">
-			<input name="action" type="hidden" value="showDetailedQuote">
-                  <a href='javascript:SearchSubmit("LVVV")' style="font-size:13px; font-family:Arial,Helvetica,sans-serif; color: #0577f8; text-decoration: underline">LVVV</a>
-                  <span style="font-family:Arial,Helvetica,sans-serif; color:black">by</span>&nbsp;
-                 <a style="font-size:12px; font-family:Arial,Helvetica,sans-serif; color: #0577f8; text-decoration: underline" href="http://stockpromoters.com/News-Letters.aspx?symbol=LVVV">39&nbsp;newsletters</a> 
-		</form>
-                </li>
-          
-    
-        
-            
-                <li style="text-align:left; background: url(img/bullted.gif) no-repeat left; padding:0 0 0 40px; list-style:none;  line-height:35px">
-		<form action="http://stockpromoters.com/Stock_Quote/symboldata.aspx" method="get" id="GBEN">
-			<input name="symbol" type="hidden" value="GBEN" style="display:none">
-			<input name="action" type="hidden" value="showDetailedQuote">
-                  <a href='javascript:SearchSubmit("GBEN")' style="font-size:13px; font-family:Arial,Helvetica,sans-serif; color: #0577f8; text-decoration: underline">GBEN</a>
-                  <span style="font-family:Arial,Helvetica,sans-serif; color:black">by</span>&nbsp;
-                 <a style="font-size:12px; font-family:Arial,Helvetica,sans-serif; color: #0577f8; text-decoration: underline" href="http://stockpromoters.com/News-Letters.aspx?symbol=GBEN">111&nbsp;newsletters</a> 
-		</form>
-                </li>
-          
-    
-        
-            
-                <li style="text-align:left; background: url(img/bullted.gif) no-repeat left; padding:0 0 0 40px; list-style:none;  line-height:35px">
-		<form action="http://stockpromoters.com/Stock_Quote/symboldata.aspx" method="get" id="SVEN">
-			<input name="symbol" type="hidden" value="SVEN" style="display:none">
-			<input name="action" type="hidden" value="showDetailedQuote">
-                  <a href='javascript:SearchSubmit("SVEN")' style="font-size:13px; font-family:Arial,Helvetica,sans-serif; color: #0577f8; text-decoration: underline">SVEN</a>
-                  <span style="font-family:Arial,Helvetica,sans-serif; color:black">by</span>&nbsp;
-                 <a style="font-size:12px; font-family:Arial,Helvetica,sans-serif; color: #0577f8; text-decoration: underline" href="http://stockpromoters.com/News-Letters.aspx?symbol=SVEN">39&nbsp;newsletters</a> 
-		</form>
-                </li>
-          
-    
-        
-            
-                <li style="text-align:left; background: url(img/bullted.gif) no-repeat left; padding:0 0 0 40px; list-style:none;  line-height:35px">
-		<form action="http://stockpromoters.com/Stock_Quote/symboldata.aspx" method="get" id="SPOW">
-			<input name="symbol" type="hidden" value="SPOW" style="display:none">
-			<input name="action" type="hidden" value="showDetailedQuote">
-                  <a href='javascript:SearchSubmit("SPOW")' style="font-size:13px; font-family:Arial,Helvetica,sans-serif; color: #0577f8; text-decoration: underline">SPOW</a>
-                  <span style="font-family:Arial,Helvetica,sans-serif; color:black">by</span>&nbsp;
-                 <a style="font-size:12px; font-family:Arial,Helvetica,sans-serif; color: #0577f8; text-decoration: underline" href="http://stockpromoters.com/News-Letters.aspx?symbol=SPOW">30&nbsp;newsletters</a> 
-		</form>
-                </li>
-          
-    
-        
-            
-                <li style="text-align:left; background: url(img/bullted.gif) no-repeat left; padding:0 0 0 40px; list-style:none;  line-height:35px">
-		<form action="http://stockpromoters.com/Stock_Quote/symboldata.aspx" method="get" id="NANI">
-			<input name="symbol" type="hidden" value="NANI" style="display:none">
-			<input name="action" type="hidden" value="showDetailedQuote">
-                  <a href='javascript:SearchSubmit("NANI")' style="font-size:13px; font-family:Arial,Helvetica,sans-serif; color: #0577f8; text-decoration: underline">NANI</a>
-                  <span style="font-family:Arial,Helvetica,sans-serif; color:black">by</span>&nbsp;
-                 <a style="font-size:12px; font-family:Arial,Helvetica,sans-serif; color: #0577f8; text-decoration: underline" href="http://stockpromoters.com/News-Letters.aspx?symbol=NANI">47&nbsp;newsletters</a> 
-		</form>
-                </li>
-          
-    
-        
-            
-                <li style="text-align:left; background: url(img/bullted.gif) no-repeat left; padding:0 0 0 40px; list-style:none;  line-height:35px">
-		<form action="http://stockpromoters.com/Stock_Quote/symboldata.aspx" method="get" id="EKNL">
-			<input name="symbol" type="hidden" value="EKNL" style="display:none">
-			<input name="action" type="hidden" value="showDetailedQuote">
-                  <a href='javascript:SearchSubmit("EKNL")' style="font-size:13px; font-family:Arial,Helvetica,sans-serif; color: #0577f8; text-decoration: underline">EKNL</a>
-                  <span style="font-family:Arial,Helvetica,sans-serif; color:black">by</span>&nbsp;
-                 <a style="font-size:12px; font-family:Arial,Helvetica,sans-serif; color: #0577f8; text-decoration: underline" href="http://stockpromoters.com/News-Letters.aspx?symbol=EKNL">39&nbsp;newsletters</a> 
-		</form>
-                </li>
-          
-    
-        
-            
-                <li style="text-align:left; background: url(img/bullted.gif) no-repeat left; padding:0 0 0 40px; list-style:none;  line-height:35px">
-		<form action="http://stockpromoters.com/Stock_Quote/symboldata.aspx" method="get" id="IMNG">
-			<input name="symbol" type="hidden" value="IMNG" style="display:none">
-			<input name="action" type="hidden" value="showDetailedQuote">
-                  <a href='javascript:SearchSubmit("IMNG")' style="font-size:13px; font-family:Arial,Helvetica,sans-serif; color: #0577f8; text-decoration: underline">IMNG</a>
-                  <span style="font-family:Arial,Helvetica,sans-serif; color:black">by</span>&nbsp;
-                 <a style="font-size:12px; font-family:Arial,Helvetica,sans-serif; color: #0577f8; text-decoration: underline" href="http://stockpromoters.com/News-Letters.aspx?symbol=IMNG">33&nbsp;newsletters</a> 
-		</form>
-                </li>
-          
-    
-        
-            
-                <li style="text-align:left; background: url(img/bullted.gif) no-repeat left; padding:0 0 0 40px; list-style:none;  line-height:35px">
-		<form action="http://stockpromoters.com/Stock_Quote/symboldata.aspx" method="get" id="KWBT">
-			<input name="symbol" type="hidden" value="KWBT" style="display:none">
-			<input name="action" type="hidden" value="showDetailedQuote">
-                  <a href='javascript:SearchSubmit("KWBT")' style="font-size:13px; font-family:Arial,Helvetica,sans-serif; color: #0577f8; text-decoration: underline">KWBT</a>
-                  <span style="font-family:Arial,Helvetica,sans-serif; color:black">by</span>&nbsp;
-                 <a style="font-size:12px; font-family:Arial,Helvetica,sans-serif; color: #0577f8; text-decoration: underline" href="http://stockpromoters.com/News-Letters.aspx?symbol=KWBT">23&nbsp;newsletters</a> 
-		</form>
-                </li>
-          
-    
-        
-            
-                <li style="text-align:left; background: url(img/bullted.gif) no-repeat left; padding:0 0 0 40px; list-style:none;  line-height:35px">
-		<form action="http://stockpromoters.com/Stock_Quote/symboldata.aspx" method="get" id="GHSE">
-			<input name="symbol" type="hidden" value="GHSE" style="display:none">
-			<input name="action" type="hidden" value="showDetailedQuote">
-                  <a href='javascript:SearchSubmit("GHSE")' style="font-size:13px; font-family:Arial,Helvetica,sans-serif; color: #0577f8; text-decoration: underline">GHSE</a>
-                  <span style="font-family:Arial,Helvetica,sans-serif; color:black">by</span>&nbsp;
-                 <a style="font-size:12px; font-family:Arial,Helvetica,sans-serif; color: #0577f8; text-decoration: underline" href="http://stockpromoters.com/News-Letters.aspx?symbol=GHSE">35&nbsp;newsletters</a> 
-		</form>
-                </li>
-          
-    
-        
-            
-                <li style="text-align:left; background: url(img/bullted.gif) no-repeat left; padding:0 0 0 40px; list-style:none;  line-height:35px">
-		<form action="http://stockpromoters.com/Stock_Quote/symboldata.aspx" method="get" id="LTCH">
-			<input name="symbol" type="hidden" value="LTCH" style="display:none">
-			<input name="action" type="hidden" value="showDetailedQuote">
-                  <a href='javascript:SearchSubmit("LTCH")' style="font-size:13px; font-family:Arial,Helvetica,sans-serif; color: #0577f8; text-decoration: underline">LTCH</a>
-                  <span style="font-family:Arial,Helvetica,sans-serif; color:black">by</span>&nbsp;
-                 <a style="font-size:12px; font-family:Arial,Helvetica,sans-serif; color: #0577f8; text-decoration: underline" href="http://stockpromoters.com/News-Letters.aspx?symbol=LTCH">28&nbsp;newsletters</a> 
-		</form>
-                </li>
-          
-    
-        
-            
-                <li style="text-align:left; background: url(img/bullted.gif) no-repeat left; padding:0 0 0 40px; list-style:none;  line-height:35px">
-		<form action="http://stockpromoters.com/Stock_Quote/symboldata.aspx" method="get" id="PBCW">
-			<input name="symbol" type="hidden" value="PBCW" style="display:none">
-			<input name="action" type="hidden" value="showDetailedQuote">
-                  <a href='javascript:SearchSubmit("PBCW")' style="font-size:13px; font-family:Arial,Helvetica,sans-serif; color: #0577f8; text-decoration: underline">PBCW</a>
-                  <span style="font-family:Arial,Helvetica,sans-serif; color:black">by</span>&nbsp;
-                 <a style="font-size:12px; font-family:Arial,Helvetica,sans-serif; color: #0577f8; text-decoration: underline" href="http://stockpromoters.com/News-Letters.aspx?symbol=PBCW">20&nbsp;newsletters</a> 
-		</form>
-                </li>
-          
-    
-        
-            
-                <li style="text-align:left; background: url(img/bullted.gif) no-repeat left; padding:0 0 0 40px; list-style:none;  line-height:35px">
-		<form action="http://stockpromoters.com/Stock_Quote/symboldata.aspx" method="get" id="SLTD">
-			<input name="symbol" type="hidden" value="SLTD" style="display:none">
-			<input name="action" type="hidden" value="showDetailedQuote">
-                  <a href='javascript:SearchSubmit("SLTD")' style="font-size:13px; font-family:Arial,Helvetica,sans-serif; color: #0577f8; text-decoration: underline">SLTD</a>
-                  <span style="font-family:Arial,Helvetica,sans-serif; color:black">by</span>&nbsp;
-                 <a style="font-size:12px; font-family:Arial,Helvetica,sans-serif; color: #0577f8; text-decoration: underline" href="http://stockpromoters.com/News-Letters.aspx?symbol=SLTD">16&nbsp;newsletters</a> 
-		</form>
-                </li>
-          
-    
-        
-            
-                <li style="text-align:left; background: url(img/bullted.gif) no-repeat left; padding:0 0 0 40px; list-style:none;  line-height:35px">
-		<form action="http://stockpromoters.com/Stock_Quote/symboldata.aspx" method="get" id="TAON">
-			<input name="symbol" type="hidden" value="TAON" style="display:none">
-			<input name="action" type="hidden" value="showDetailedQuote">
-                  <a href='javascript:SearchSubmit("TAON")' style="font-size:13px; font-family:Arial,Helvetica,sans-serif; color: #0577f8; text-decoration: underline">TAON</a>
-                  <span style="font-family:Arial,Helvetica,sans-serif; color:black">by</span>&nbsp;
-                 <a style="font-size:12px; font-family:Arial,Helvetica,sans-serif; color: #0577f8; text-decoration: underline" href="http://stockpromoters.com/News-Letters.aspx?symbol=TAON">23&nbsp;newsletters</a> 
-		</form>
-                </li>
-          
-    
-        
-            
-                <li style="text-align:left; background: url(img/bullted.gif) no-repeat left; padding:0 0 0 40px; list-style:none;  line-height:35px">
-		<form action="http://stockpromoters.com/Stock_Quote/symboldata.aspx" method="get" id="PFNI">
-			<input name="symbol" type="hidden" value="PFNI" style="display:none">
-			<input name="action" type="hidden" value="showDetailedQuote">
-                  <a href='javascript:SearchSubmit("PFNI")' style="font-size:13px; font-family:Arial,Helvetica,sans-serif; color: #0577f8; text-decoration: underline">PFNI</a>
-                  <span style="font-family:Arial,Helvetica,sans-serif; color:black">by</span>&nbsp;
-                 <a style="font-size:12px; font-family:Arial,Helvetica,sans-serif; color: #0577f8; text-decoration: underline" href="http://stockpromoters.com/News-Letters.aspx?symbol=PFNI">13&nbsp;newsletters</a> 
-		</form>
-                </li>
-          
-    
-        
-            
-                <li style="text-align:left; background: url(img/bullted.gif) no-repeat left; padding:0 0 0 40px; list-style:none;  line-height:35px">
-		<form action="http://stockpromoters.com/Stock_Quote/symboldata.aspx" method="get" id="GALE">
-			<input name="symbol" type="hidden" value="GALE" style="display:none">
-			<input name="action" type="hidden" value="showDetailedQuote">
-                  <a href='javascript:SearchSubmit("GALE")' style="font-size:13px; font-family:Arial,Helvetica,sans-serif; color: #0577f8; text-decoration: underline">GALE</a>
-                  <span style="font-family:Arial,Helvetica,sans-serif; color:black">by</span>&nbsp;
-                 <a style="font-size:12px; font-family:Arial,Helvetica,sans-serif; color: #0577f8; text-decoration: underline" href="http://stockpromoters.com/News-Letters.aspx?symbol=GALE">11&nbsp;newsletters</a> 
-		</form>
-                </li>
-          
-    
-        
-            
-                <li style="text-align:left; background: url(img/bullted.gif) no-repeat left; padding:0 0 0 40px; list-style:none;  line-height:35px">
-		<form action="http://stockpromoters.com/Stock_Quote/symboldata.aspx" method="get" id="ABBY">
-			<input name="symbol" type="hidden" value="ABBY" style="display:none">
-			<input name="action" type="hidden" value="showDetailedQuote">
-                  <a href='javascript:SearchSubmit("ABBY")' style="font-size:13px; font-family:Arial,Helvetica,sans-serif; color: #0577f8; text-decoration: underline">ABBY</a>
-                  <span style="font-family:Arial,Helvetica,sans-serif; color:black">by</span>&nbsp;
-                 <a style="font-size:12px; font-family:Arial,Helvetica,sans-serif; color: #0577f8; text-decoration: underline" href="http://stockpromoters.com/News-Letters.aspx?symbol=ABBY">18&nbsp;newsletters</a> 
-		</form>
-                </li>
-          
-    
-        
-            
-                <li style="text-align:left; background: url(img/bullted.gif) no-repeat left; padding:0 0 0 40px; list-style:none;  line-height:35px">
-		<form action="http://stockpromoters.com/Stock_Quote/symboldata.aspx" method="get" id="FNRC">
-			<input name="symbol" type="hidden" value="FNRC" style="display:none">
-			<input name="action" type="hidden" value="showDetailedQuote">
-                  <a href='javascript:SearchSubmit("FNRC")' style="font-size:13px; font-family:Arial,Helvetica,sans-serif; color: #0577f8; text-decoration: underline">FNRC</a>
-                  <span style="font-family:Arial,Helvetica,sans-serif; color:black">by</span>&nbsp;
-                 <a style="font-size:12px; font-family:Arial,Helvetica,sans-serif; color: #0577f8; text-decoration: underline" href="http://stockpromoters.com/News-Letters.aspx?symbol=FNRC">13&nbsp;newsletters</a> 
-		</form>
-                </li>
-          
-    
-        
-            
-                <li style="text-align:left; background: url(img/bullted.gif) no-repeat left; padding:0 0 0 40px; list-style:none;  line-height:35px">
-		<form action="http://stockpromoters.com/Stock_Quote/symboldata.aspx" method="get" id="BRZV">
-			<input name="symbol" type="hidden" value="BRZV" style="display:none">
-			<input name="action" type="hidden" value="showDetailedQuote">
-                  <a href='javascript:SearchSubmit("BRZV")' style="font-size:13px; font-family:Arial,Helvetica,sans-serif; color: #0577f8; text-decoration: underline">BRZV</a>
-                  <span style="font-family:Arial,Helvetica,sans-serif; color:black">by</span>&nbsp;
-                 <a style="font-size:12px; font-family:Arial,Helvetica,sans-serif; color: #0577f8; text-decoration: underline" href="http://stockpromoters.com/News-Letters.aspx?symbol=BRZV">17&nbsp;newsletters</a> 
-		</form>
-                </li>
-          
-    
-    </ul>
-        </div>
-    
-
-        <!--<div id="sQuotemediaMD">-->
-            <!--   Start of Quotemedia.com Tab Indices Chart Tool Code   -->
-            <!--<script language="javascript" type="text/javascript" src="http://app.quotemedia.com/quotetools/miniTabQuotes.go?cp=off&toolWidth=200&chhig=120&chbdr=cccccc&dji=dl&symbols=.dji&symbols=comp&symbols=.sp500&chfill=0E9E1E&chfill2=97BF9B&chln=444444&webmasterId=95599"></script>-->
-            <!--   End of Quotemedia.com Tab Indices Chart Tool Code   -->
-            <!--<img src="../images/pixshim.gif" height="5" width="1" alt=""/>-->
-            <!--   Start of Quotemedia.com Vertical Actives/Gainers/Losers Tool Code   -->
-            <!--<script language="javascript" type="text/javascript" src="http://app.quotemedia.com/quotetools/scalingMarketStats.go?webmasterId=95599&toolWidth=200&statExchange=OTC&stat=va&htext=OTC+Vol.+Actives&statTop=8&cp=off&detailURL=http://stockpromoters.com/Stock_Quote/companydata.asp"></script>-->
-            <!--   End of Quotemedia.com Vertical Actives/Gainers/Losers Tool Code   -->
-            <!--<img src="../images/pixshim.gif" height="5" width="1" alt=""/>-->
-            <!--   Start of Quotemedia.com Vertical Actives/Gainers/Losers Tool Code   -->
-            <!--<script language="javascript" type="text/javascript" src="http://app.quotemedia.com/quotetools/scalingMarketStats.go?webmasterId=95599&toolWidth=200&statExchange=OTC&stat=dg&htext=OTC+%24+Gainers&statTop=8&cp=off&detailURL=http://stockpromoters.com/Stock_Quote/companydata.asp"></script>-->
-            <!--   End of Quotemedia.com Vertical Actives/Gainers/Losers Tool Code   -->
-            <!--<img src="../images/pixshim.gif" height="5" width="1" alt="" />-->
-            <!--   Start of Quotemedia.com Vertical Actives/Gainers/Losers Tool Code   -->
-            <!--<script language="javascript" type="text/javascript" src="http://app.quotemedia.com/quotetools/scalingMarketStats.go?webmasterId=95599&toolWidth=200&statExchange=OTC&stat=pg&htext=OTC+%25+Gainers&statTop=8&cp=off&detailURL=http://stockpromoters.com/Stock_Quote/companydata.asp"></script>-->
-            <!--   End of Quotemedia.com Vertical Actives/Gainers/Losers Tool Code   -->
-        <!--</div>-->
-        <div id="ctl00_Main_ucleftContent_headerCompanyBanner"><br><br><a href="http://www.agent155.com/" target="_blank"><img src="/images/Advertisers/banners/AGMC-SP-BANNER.jpg" runat="server"></a><br><br><a href="http://www.ecco2tech.com" target="_blank"><img src="/images/Advertisers/banners/RVPL-SP-BANNER.jpg" runat="server"></a><br><br><a href="http://www.bluecalypso.com" target="_blank"><img src="/images/Advertisers/banners/BCYP-SP-BANNER.jpg" runat="server"></a></div>
+    <div id="dataTerminalBG" style="width:212px;">
+      <div id="dataTerminal" style="width:195px;">
+        <div style="width: auto; padding: 5px 0px 5px 0px; font-size: 12px; font-weight:bold; color: #ffcc33;
+                        text-transform: uppercase; text-align: center;"> StockPromoters.com Live Data Terminal </div>
+        <div style="padding: 5px 0px 0px 0px; width: auto; color: #ccc; width: auto; text-align: center; font-size: 11px;"> <span style="padding: 0px 0px 0px 0px;">Promotions Tracked To Date:
+          <span id="ctl00_Main_ucleftContent_lblPromotions"><b>168669</b></span>
+          </span> </div>
+        <div style="padding: 5px 0px 0px 0px; width: auto; color: #ccc; width: auto; text-align: center; font-size: 11px;"> <span style="padding: 0px 0px 0px 0px;">Promoters Tracked:
+          <span id="ctl00_Main_ucleftContent_lblPromoters"><b>2276</b></span>
+          </span> </div>
+        <div style="padding: 5px 0px 0px 0px; width: auto; color: #ccc; width: auto; text-align: center; font-size: 11px;"> <span style="padding: 0px 0px 0px 0px;">Companies Looking to go <a href="http://stockpromoters.com/view-companies-looking-to-go-public.aspx" style="color: #ffcc33; text-decoration:underline;">Public</a>:
+          <span id="ctl00_Main_ucleftContent_lblLookingPublic"><b>7</b></span>
+          </span> </div>
+        <div style="padding: 5px 0px 0px 0px; width: auto; color: #ccc; width: auto; text-align: center; font-size: 11px;"> <span style="padding: 0px 0px 0px 0px;">Public&nbsp;Companies&nbsp;Seeking&nbsp;<a href="http://stockpromoters.com/public-companies-seeking-promotion.aspx" style="color: #ffcc33; text-decoration:underline;">Promotion</a>:
+          <span id="ctl00_Main_ucleftContent_lblSeekingPromotion"><b>21</b></span>
+          </span> </div>
+        <div style="padding: 5px 0px 0px 0px; width: auto; color: #ccc; width: auto; text-align: center; font-size: 11px;"> <span style="padding: 0px 0px 0px 0px;">Public&nbsp;Companies&nbsp;Seeking&nbsp;<a href="http://stockpromoters.com/view-public-companies-seeking-financing.aspx" style="color: #ffcc33; text-decoration:underline;">Financing</a>:
+          <span id="ctl00_Main_ucleftContent_lblSeekingFinancing"><b>16</b></span>
+          </span> </div>
+      </div>
     </div>
+    
+</div>
+  <br>
+  <div>
+    <div align="center"> 
+      <!-- FOR CHAT CODE BEGIN -->
+      <div align="center"> <a href="#" title="Join Chat (Flash) Click Here"><img src="/img/social-media/stockpromoters-chat-home-flash.png" alt="StockPromoters Chat" width="210" height="193" onclick="MM_openBrWindow('http://stockpromoters.com/chat.aspx?type=flash','','resizable=yes,width=800,height=600')"></a></div>
+      <!--    FOR CHAT CODE END -->
+      <br>
+      <!-- FOR CHAT CODE BEGIN -->
+      <div align="center"> <a href="#" title="Join Chat (HTML) Click Here"><img src="/img/social-media/stockpromoters-chat-home-html.png" alt="StockPromoters Chat" width="210" height="193" onclick="MM_openBrWindow('http://stockpromoters.com/chat.aspx?type=html','','resizable=yes,width=800,height=600')"></a></div>
+      <!--    FOR CHAT CODE END -->
+      <br>
+      <script type="text/javascript"><!--
+google_ad_client = "ca-pub-9384586983045815";
+/* SP - LT COLUMN */
+google_ad_slot = "3775857212";
+google_ad_width = 200;
+google_ad_height = 200;
+//-->
+</script> 
+      <script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script> 
+      <br>
+      <br>
+      <a href="https://s3.amazonaws.com/com.alexa.toolbar/atbp/wfrKBE/download/index.htm" target="_blank"><img src="/img/social-media/alexa-toolbar-sp-home.jpg" width="210" height="125" alt="Stock Promoters Alexa Toolbar"></a></div>
+  </div>
+  <br>
+  <div align="center"><a href="http://forum.stockpromoters.com" target="_blank"><img src="/img/social-media/stockpromoters-forum-home.png" width="210" height="290" alt="Stock Promoters Forum"></a></div>
+  <br>
+  <div id="ctl00_Main_ucleftContent_ucList_rptTop10Promoted"><div style="background-color:White; border: 1px #C7C7C7 solid;font-family:Arial,Helvetica,sans-serif; padding-left:5px; padding-top:5px;padding-bottom:20px"><table><tbody><tr><td align="center"><span style="font-size:20px;line-height:21px">The Most Promoted Penny Stocks This Week</span></td></tr><tr><td align="center"><span style="font-size:10px; color:Black">(Last 5 Trading Days)</span></td></tr></tbody></table><hr style="width:90%"><span id="ToggolSymbol"><a href="javascript:void(0);" onclick="return ToggolPennyStock(0);" style="margin-left:13px;">Sort by Symbol</a></span><span id="ToggolNewsletter" style="display:none"><a href="javascript:void(0);" onclick="return ToggolPennyStock(1);" style="margin-left:13px;">Sort by Newsletter</a></span><br><ul style="margin:0px; padding-left:0;" id="NewsletterSort"><li style="text-align:left; background: url(img/bullted.gif) no-repeat left; padding:0 0 0 40px; list-style:none;  line-height:35px"><form action="http://stockpromoters.com/Stock_Quote/symboldata.aspx" method="get" id="frmNewsTRLR"><input name="symbol" type="hidden" value="TRLR" style="display:none"><input name="action" type="hidden" value="showDetailedQuote"><a href="javascript:void(0);" onclick="return SearchSubmit(this);" rel="frmNewsTRLR" style="font-size:13px; font-family:Arial,Helvetica,sans-serif; color: #0577f8; text-decoration: underline">TRLR</a><span style="font-family:Arial,Helvetica,sans-serif; color:black">&nbsp;by&nbsp;</span><a style="font-size:12px; font-family:Arial,Helvetica,sans-serif; color: #0577f8; text-decoration: underline" href="http://stockpromoters.com/news-letters.aspx?symbol=TRLR">231&nbsp;newsletters</a></form></li><li style="text-align:left; background: url(img/bullted.gif) no-repeat left; padding:0 0 0 40px; list-style:none;  line-height:35px"><form action="http://stockpromoters.com/Stock_Quote/symboldata.aspx" method="get" id="frmNewsSIPN"><input name="symbol" type="hidden" value="SIPN" style="display:none"><input name="action" type="hidden" value="showDetailedQuote"><a href="javascript:void(0);" onclick="return SearchSubmit(this);" rel="frmNewsSIPN" style="font-size:13px; font-family:Arial,Helvetica,sans-serif; color: #0577f8; text-decoration: underline">SIPN</a><span style="font-family:Arial,Helvetica,sans-serif; color:black">&nbsp;by&nbsp;</span><a style="font-size:12px; font-family:Arial,Helvetica,sans-serif; color: #0577f8; text-decoration: underline" href="http://stockpromoters.com/news-letters.aspx?symbol=SIPN">147&nbsp;newsletters</a></form></li><li style="text-align:left; background: url(img/bullted.gif) no-repeat left; padding:0 0 0 40px; list-style:none;  line-height:35px"><form action="http://stockpromoters.com/Stock_Quote/symboldata.aspx" method="get" id="frmNewsWPNV"><input name="symbol" type="hidden" value="WPNV" style="display:none"><input name="action" type="hidden" value="showDetailedQuote"><a href="javascript:void(0);" onclick="return SearchSubmit(this);" rel="frmNewsWPNV" style="font-size:13px; font-family:Arial,Helvetica,sans-serif; color: #0577f8; text-decoration: underline">WPNV</a><span style="font-family:Arial,Helvetica,sans-serif; color:black">&nbsp;by&nbsp;</span><a style="font-size:12px; font-family:Arial,Helvetica,sans-serif; color: #0577f8; text-decoration: underline" href="http://stockpromoters.com/news-letters.aspx?symbol=WPNV">131&nbsp;newsletters</a></form></li><li style="text-align:left; background: url(img/bullted.gif) no-repeat left; padding:0 0 0 40px; list-style:none;  line-height:35px"><form action="http://stockpromoters.com/Stock_Quote/symboldata.aspx" method="get" id="frmNewsCLNO"><input name="symbol" type="hidden" value="CLNO" style="display:none"><input name="action" type="hidden" value="showDetailedQuote"><a href="javascript:void(0);" onclick="return SearchSubmit(this);" rel="frmNewsCLNO" style="font-size:13px; font-family:Arial,Helvetica,sans-serif; color: #0577f8; text-decoration: underline">CLNO</a><span style="font-family:Arial,Helvetica,sans-serif; color:black">&nbsp;by&nbsp;</span><a style="font-size:12px; font-family:Arial,Helvetica,sans-serif; color: #0577f8; text-decoration: underline" href="http://stockpromoters.com/news-letters.aspx?symbol=CLNO">129&nbsp;newsletters</a></form></li><li style="text-align:left; background: url(img/bullted.gif) no-repeat left; padding:0 0 0 40px; list-style:none;  line-height:35px"><form action="http://stockpromoters.com/Stock_Quote/symboldata.aspx" method="get" id="frmNewsFITX"><input name="symbol" type="hidden" value="FITX" style="display:none"><input name="action" type="hidden" value="showDetailedQuote"><a href="javascript:void(0);" onclick="return SearchSubmit(this);" rel="frmNewsFITX" style="font-size:13px; font-family:Arial,Helvetica,sans-serif; color: #0577f8; text-decoration: underline">FITX</a><span style="font-family:Arial,Helvetica,sans-serif; color:black">&nbsp;by&nbsp;</span><a style="font-size:12px; font-family:Arial,Helvetica,sans-serif; color: #0577f8; text-decoration: underline" href="http://stockpromoters.com/news-letters.aspx?symbol=FITX">105&nbsp;newsletters</a></form></li><li style="text-align:left; background: url(img/bullted.gif) no-repeat left; padding:0 0 0 40px; list-style:none;  line-height:35px"><form action="http://stockpromoters.com/Stock_Quote/symboldata.aspx" method="get" id="frmNewsLVGI"><input name="symbol" type="hidden" value="LVGI" style="display:none"><input name="action" type="hidden" value="showDetailedQuote"><a href="javascript:void(0);" onclick="return SearchSubmit(this);" rel="frmNewsLVGI" style="font-size:13px; font-family:Arial,Helvetica,sans-serif; color: #0577f8; text-decoration: underline">LVGI</a><span style="font-family:Arial,Helvetica,sans-serif; color:black">&nbsp;by&nbsp;</span><a style="font-size:12px; font-family:Arial,Helvetica,sans-serif; color: #0577f8; text-decoration: underline" href="http://stockpromoters.com/news-letters.aspx?symbol=LVGI">82&nbsp;newsletters</a></form></li><li style="text-align:left; background: url(img/bullted.gif) no-repeat left; padding:0 0 0 40px; list-style:none;  line-height:35px"><form action="http://stockpromoters.com/Stock_Quote/symboldata.aspx" method="get" id="frmNewsDOMK"><input name="symbol" type="hidden" value="DOMK" style="display:none"><input name="action" type="hidden" value="showDetailedQuote"><a href="javascript:void(0);" onclick="return SearchSubmit(this);" rel="frmNewsDOMK" style="font-size:13px; font-family:Arial,Helvetica,sans-serif; color: #0577f8; text-decoration: underline">DOMK</a><span style="font-family:Arial,Helvetica,sans-serif; color:black">&nbsp;by&nbsp;</span><a style="font-size:12px; font-family:Arial,Helvetica,sans-serif; color: #0577f8; text-decoration: underline" href="http://stockpromoters.com/news-letters.aspx?symbol=DOMK">65&nbsp;newsletters</a></form></li><li style="text-align:left; background: url(img/bullted.gif) no-repeat left; padding:0 0 0 40px; list-style:none;  line-height:35px"><form action="http://stockpromoters.com/Stock_Quote/symboldata.aspx" method="get" id="frmNewsXUII"><input name="symbol" type="hidden" value="XUII" style="display:none"><input name="action" type="hidden" value="showDetailedQuote"><a href="javascript:void(0);" onclick="return SearchSubmit(this);" rel="frmNewsXUII" style="font-size:13px; font-family:Arial,Helvetica,sans-serif; color: #0577f8; text-decoration: underline">XUII</a><span style="font-family:Arial,Helvetica,sans-serif; color:black">&nbsp;by&nbsp;</span><a style="font-size:12px; font-family:Arial,Helvetica,sans-serif; color: #0577f8; text-decoration: underline" href="http://stockpromoters.com/news-letters.aspx?symbol=XUII">63&nbsp;newsletters</a></form></li><li style="text-align:left; background: url(img/bullted.gif) no-repeat left; padding:0 0 0 40px; list-style:none;  line-height:35px"><form action="http://stockpromoters.com/Stock_Quote/symboldata.aspx" method="get" id="frmNewsCLGZF"><input name="symbol" type="hidden" value="CLGZF" style="display:none"><input name="action" type="hidden" value="showDetailedQuote"><a href="javascript:void(0);" onclick="return SearchSubmit(this);" rel="frmNewsCLGZF" style="font-size:13px; font-family:Arial,Helvetica,sans-serif; color: #0577f8; text-decoration: underline">CLGZF</a><span style="font-family:Arial,Helvetica,sans-serif; color:black">&nbsp;by&nbsp;</span><a style="font-size:12px; font-family:Arial,Helvetica,sans-serif; color: #0577f8; text-decoration: underline" href="http://stockpromoters.com/news-letters.aspx?symbol=CLGZF">54&nbsp;newsletters</a></form></li><li style="text-align:left; background: url(img/bullted.gif) no-repeat left; padding:0 0 0 40px; list-style:none;  line-height:35px"><form action="http://stockpromoters.com/Stock_Quote/symboldata.aspx" method="get" id="frmNewsAGIN"><input name="symbol" type="hidden" value="AGIN" style="display:none"><input name="action" type="hidden" value="showDetailedQuote"><a href="javascript:void(0);" onclick="return SearchSubmit(this);" rel="frmNewsAGIN" style="font-size:13px; font-family:Arial,Helvetica,sans-serif; color: #0577f8; text-decoration: underline">AGIN</a><span style="font-family:Arial,Helvetica,sans-serif; color:black">&nbsp;by&nbsp;</span><a style="font-size:12px; font-family:Arial,Helvetica,sans-serif; color: #0577f8; text-decoration: underline" href="http://stockpromoters.com/news-letters.aspx?symbol=AGIN">52&nbsp;newsletters</a></form></li><li style="text-align:left; background: url(img/bullted.gif) no-repeat left; padding:0 0 0 40px; list-style:none;  line-height:35px"><form action="http://stockpromoters.com/Stock_Quote/symboldata.aspx" method="get" id="frmNewsSTTK"><input name="symbol" type="hidden" value="STTK" style="display:none"><input name="action" type="hidden" value="showDetailedQuote"><a href="javascript:void(0);" onclick="return SearchSubmit(this);" rel="frmNewsSTTK" style="font-size:13px; font-family:Arial,Helvetica,sans-serif; color: #0577f8; text-decoration: underline">STTK</a><span style="font-family:Arial,Helvetica,sans-serif; color:black">&nbsp;by&nbsp;</span><a style="font-size:12px; font-family:Arial,Helvetica,sans-serif; color: #0577f8; text-decoration: underline" href="http://stockpromoters.com/news-letters.aspx?symbol=STTK">47&nbsp;newsletters</a></form></li><li style="text-align:left; background: url(img/bullted.gif) no-repeat left; padding:0 0 0 40px; list-style:none;  line-height:35px"><form action="http://stockpromoters.com/Stock_Quote/symboldata.aspx" method="get" id="frmNewsSTSC"><input name="symbol" type="hidden" value="STSC" style="display:none"><input name="action" type="hidden" value="showDetailedQuote"><a href="javascript:void(0);" onclick="return SearchSubmit(this);" rel="frmNewsSTSC" style="font-size:13px; font-family:Arial,Helvetica,sans-serif; color: #0577f8; text-decoration: underline">STSC</a><span style="font-family:Arial,Helvetica,sans-serif; color:black">&nbsp;by&nbsp;</span><a style="font-size:12px; font-family:Arial,Helvetica,sans-serif; color: #0577f8; text-decoration: underline" href="http://stockpromoters.com/news-letters.aspx?symbol=STSC">47&nbsp;newsletters</a></form></li><li style="text-align:left; background: url(img/bullted.gif) no-repeat left; padding:0 0 0 40px; list-style:none;  line-height:35px"><form action="http://stockpromoters.com/Stock_Quote/symboldata.aspx" method="get" id="frmNewsPWEB"><input name="symbol" type="hidden" value="PWEB" style="display:none"><input name="action" type="hidden" value="showDetailedQuote"><a href="javascript:void(0);" onclick="return SearchSubmit(this);" rel="frmNewsPWEB" style="font-size:13px; font-family:Arial,Helvetica,sans-serif; color: #0577f8; text-decoration: underline">PWEB</a><span style="font-family:Arial,Helvetica,sans-serif; color:black">&nbsp;by&nbsp;</span><a style="font-size:12px; font-family:Arial,Helvetica,sans-serif; color: #0577f8; text-decoration: underline" href="http://stockpromoters.com/news-letters.aspx?symbol=PWEB">42&nbsp;newsletters</a></form></li><li style="text-align:left; background: url(img/bullted.gif) no-repeat left; padding:0 0 0 40px; list-style:none;  line-height:35px"><form action="http://stockpromoters.com/Stock_Quote/symboldata.aspx" method="get" id="frmNewsSRBL"><input name="symbol" type="hidden" value="SRBL" style="display:none"><input name="action" type="hidden" value="showDetailedQuote"><a href="javascript:void(0);" onclick="return SearchSubmit(this);" rel="frmNewsSRBL" style="font-size:13px; font-family:Arial,Helvetica,sans-serif; color: #0577f8; text-decoration: underline">SRBL</a><span style="font-family:Arial,Helvetica,sans-serif; color:black">&nbsp;by&nbsp;</span><a style="font-size:12px; font-family:Arial,Helvetica,sans-serif; color: #0577f8; text-decoration: underline" href="http://stockpromoters.com/news-letters.aspx?symbol=SRBL">41&nbsp;newsletters</a></form></li><li style="text-align:left; background: url(img/bullted.gif) no-repeat left; padding:0 0 0 40px; list-style:none;  line-height:35px"><form action="http://stockpromoters.com/Stock_Quote/symboldata.aspx" method="get" id="frmNewsHIMR"><input name="symbol" type="hidden" value="HIMR" style="display:none"><input name="action" type="hidden" value="showDetailedQuote"><a href="javascript:void(0);" onclick="return SearchSubmit(this);" rel="frmNewsHIMR" style="font-size:13px; font-family:Arial,Helvetica,sans-serif; color: #0577f8; text-decoration: underline">HIMR</a><span style="font-family:Arial,Helvetica,sans-serif; color:black">&nbsp;by&nbsp;</span><a style="font-size:12px; font-family:Arial,Helvetica,sans-serif; color: #0577f8; text-decoration: underline" href="http://stockpromoters.com/news-letters.aspx?symbol=HIMR">38&nbsp;newsletters</a></form></li><li style="text-align:left; background: url(img/bullted.gif) no-repeat left; padding:0 0 0 40px; list-style:none;  line-height:35px"><form action="http://stockpromoters.com/Stock_Quote/symboldata.aspx" method="get" id="frmNewsWDAS"><input name="symbol" type="hidden" value="WDAS" style="display:none"><input name="action" type="hidden" value="showDetailedQuote"><a href="javascript:void(0);" onclick="return SearchSubmit(this);" rel="frmNewsWDAS" style="font-size:13px; font-family:Arial,Helvetica,sans-serif; color: #0577f8; text-decoration: underline">WDAS</a><span style="font-family:Arial,Helvetica,sans-serif; color:black">&nbsp;by&nbsp;</span><a style="font-size:12px; font-family:Arial,Helvetica,sans-serif; color: #0577f8; text-decoration: underline" href="http://stockpromoters.com/news-letters.aspx?symbol=WDAS">37&nbsp;newsletters</a></form></li><li style="text-align:left; background: url(img/bullted.gif) no-repeat left; padding:0 0 0 40px; list-style:none;  line-height:35px"><form action="http://stockpromoters.com/Stock_Quote/symboldata.aspx" method="get" id="frmNewsFOYJ"><input name="symbol" type="hidden" value="FOYJ" style="display:none"><input name="action" type="hidden" value="showDetailedQuote"><a href="javascript:void(0);" onclick="return SearchSubmit(this);" rel="frmNewsFOYJ" style="font-size:13px; font-family:Arial,Helvetica,sans-serif; color: #0577f8; text-decoration: underline">FOYJ</a><span style="font-family:Arial,Helvetica,sans-serif; color:black">&nbsp;by&nbsp;</span><a style="font-size:12px; font-family:Arial,Helvetica,sans-serif; color: #0577f8; text-decoration: underline" href="http://stockpromoters.com/news-letters.aspx?symbol=FOYJ">36&nbsp;newsletters</a></form></li><li style="text-align:left; background: url(img/bullted.gif) no-repeat left; padding:0 0 0 40px; list-style:none;  line-height:35px"><form action="http://stockpromoters.com/Stock_Quote/symboldata.aspx" method="get" id="frmNewsLUVE"><input name="symbol" type="hidden" value="LUVE" style="display:none"><input name="action" type="hidden" value="showDetailedQuote"><a href="javascript:void(0);" onclick="return SearchSubmit(this);" rel="frmNewsLUVE" style="font-size:13px; font-family:Arial,Helvetica,sans-serif; color: #0577f8; text-decoration: underline">LUVE</a><span style="font-family:Arial,Helvetica,sans-serif; color:black">&nbsp;by&nbsp;</span><a style="font-size:12px; font-family:Arial,Helvetica,sans-serif; color: #0577f8; text-decoration: underline" href="http://stockpromoters.com/news-letters.aspx?symbol=LUVE">25&nbsp;newsletters</a></form></li><li style="text-align:left; background: url(img/bullted.gif) no-repeat left; padding:0 0 0 40px; list-style:none;  line-height:35px"><form action="http://stockpromoters.com/Stock_Quote/symboldata.aspx" method="get" id="frmNewsBLBK"><input name="symbol" type="hidden" value="BLBK" style="display:none"><input name="action" type="hidden" value="showDetailedQuote"><a href="javascript:void(0);" onclick="return SearchSubmit(this);" rel="frmNewsBLBK" style="font-size:13px; font-family:Arial,Helvetica,sans-serif; color: #0577f8; text-decoration: underline">BLBK</a><span style="font-family:Arial,Helvetica,sans-serif; color:black">&nbsp;by&nbsp;</span><a style="font-size:12px; font-family:Arial,Helvetica,sans-serif; color: #0577f8; text-decoration: underline" href="http://stockpromoters.com/news-letters.aspx?symbol=BLBK">24&nbsp;newsletters</a></form></li><li style="text-align:left; background: url(img/bullted.gif) no-repeat left; padding:0 0 0 40px; list-style:none;  line-height:35px"><form action="http://stockpromoters.com/Stock_Quote/symboldata.aspx" method="get" id="frmNewsMULI"><input name="symbol" type="hidden" value="MULI" style="display:none"><input name="action" type="hidden" value="showDetailedQuote"><a href="javascript:void(0);" onclick="return SearchSubmit(this);" rel="frmNewsMULI" style="font-size:13px; font-family:Arial,Helvetica,sans-serif; color: #0577f8; text-decoration: underline">MULI</a><span style="font-family:Arial,Helvetica,sans-serif; color:black">&nbsp;by&nbsp;</span><a style="font-size:12px; font-family:Arial,Helvetica,sans-serif; color: #0577f8; text-decoration: underline" href="http://stockpromoters.com/news-letters.aspx?symbol=MULI">21&nbsp;newsletters</a></form></li></ul><ul style="margin:0px; padding-left:0; display:none;" id="SymbolSort"><li style="text-align:left; background: url(img/bullted.gif) no-repeat left; padding:0 0 0 40px; list-style:none;  line-height:35px"><form action="http://stockpromoters.com/Stock_Quote/symboldata.aspx" method="get" id="frmSymbolAGIN"><input name="symbol" type="hidden" value="AGIN" style="display:none"><input name="action" type="hidden" value="showDetailedQuote"><a href="javascript:void(0);" onclick="return SearchSubmit(this);" rel="frmSymbolAGIN" style="font-size:13px; font-family:Arial,Helvetica,sans-serif; color: #0577f8; text-decoration: underline">AGIN</a><span style="font-family:Arial,Helvetica,sans-serif; color:black">&nbsp;by&nbsp;</span><a style="font-size:12px; font-family:Arial,Helvetica,sans-serif; color: #0577f8; text-decoration: underline" href="http://stockpromoters.com/news-letters.aspx?symbol=AGIN">52&nbsp;newsletters</a></form></li><li style="text-align:left; background: url(img/bullted.gif) no-repeat left; padding:0 0 0 40px; list-style:none;  line-height:35px"><form action="http://stockpromoters.com/Stock_Quote/symboldata.aspx" method="get" id="frmSymbolBLBK"><input name="symbol" type="hidden" value="BLBK" style="display:none"><input name="action" type="hidden" value="showDetailedQuote"><a href="javascript:void(0);" onclick="return SearchSubmit(this);" rel="frmSymbolBLBK" style="font-size:13px; font-family:Arial,Helvetica,sans-serif; color: #0577f8; text-decoration: underline">BLBK</a><span style="font-family:Arial,Helvetica,sans-serif; color:black">&nbsp;by&nbsp;</span><a style="font-size:12px; font-family:Arial,Helvetica,sans-serif; color: #0577f8; text-decoration: underline" href="http://stockpromoters.com/news-letters.aspx?symbol=BLBK">24&nbsp;newsletters</a></form></li><li style="text-align:left; background: url(img/bullted.gif) no-repeat left; padding:0 0 0 40px; list-style:none;  line-height:35px"><form action="http://stockpromoters.com/Stock_Quote/symboldata.aspx" method="get" id="frmSymbolCLGZF"><input name="symbol" type="hidden" value="CLGZF" style="display:none"><input name="action" type="hidden" value="showDetailedQuote"><a href="javascript:void(0);" onclick="return SearchSubmit(this);" rel="frmSymbolCLGZF" style="font-size:13px; font-family:Arial,Helvetica,sans-serif; color: #0577f8; text-decoration: underline">CLGZF</a><span style="font-family:Arial,Helvetica,sans-serif; color:black">&nbsp;by&nbsp;</span><a style="font-size:12px; font-family:Arial,Helvetica,sans-serif; color: #0577f8; text-decoration: underline" href="http://stockpromoters.com/news-letters.aspx?symbol=CLGZF">54&nbsp;newsletters</a></form></li><li style="text-align:left; background: url(img/bullted.gif) no-repeat left; padding:0 0 0 40px; list-style:none;  line-height:35px"><form action="http://stockpromoters.com/Stock_Quote/symboldata.aspx" method="get" id="frmSymbolCLNO"><input name="symbol" type="hidden" value="CLNO" style="display:none"><input name="action" type="hidden" value="showDetailedQuote"><a href="javascript:void(0);" onclick="return SearchSubmit(this);" rel="frmSymbolCLNO" style="font-size:13px; font-family:Arial,Helvetica,sans-serif; color: #0577f8; text-decoration: underline">CLNO</a><span style="font-family:Arial,Helvetica,sans-serif; color:black">&nbsp;by&nbsp;</span><a style="font-size:12px; font-family:Arial,Helvetica,sans-serif; color: #0577f8; text-decoration: underline" href="http://stockpromoters.com/news-letters.aspx?symbol=CLNO">129&nbsp;newsletters</a></form></li><li style="text-align:left; background: url(img/bullted.gif) no-repeat left; padding:0 0 0 40px; list-style:none;  line-height:35px"><form action="http://stockpromoters.com/Stock_Quote/symboldata.aspx" method="get" id="frmSymbolDOMK"><input name="symbol" type="hidden" value="DOMK" style="display:none"><input name="action" type="hidden" value="showDetailedQuote"><a href="javascript:void(0);" onclick="return SearchSubmit(this);" rel="frmSymbolDOMK" style="font-size:13px; font-family:Arial,Helvetica,sans-serif; color: #0577f8; text-decoration: underline">DOMK</a><span style="font-family:Arial,Helvetica,sans-serif; color:black">&nbsp;by&nbsp;</span><a style="font-size:12px; font-family:Arial,Helvetica,sans-serif; color: #0577f8; text-decoration: underline" href="http://stockpromoters.com/news-letters.aspx?symbol=DOMK">65&nbsp;newsletters</a></form></li><li style="text-align:left; background: url(img/bullted.gif) no-repeat left; padding:0 0 0 40px; list-style:none;  line-height:35px"><form action="http://stockpromoters.com/Stock_Quote/symboldata.aspx" method="get" id="frmSymbolFITX"><input name="symbol" type="hidden" value="FITX" style="display:none"><input name="action" type="hidden" value="showDetailedQuote"><a href="javascript:void(0);" onclick="return SearchSubmit(this);" rel="frmSymbolFITX" style="font-size:13px; font-family:Arial,Helvetica,sans-serif; color: #0577f8; text-decoration: underline">FITX</a><span style="font-family:Arial,Helvetica,sans-serif; color:black">&nbsp;by&nbsp;</span><a style="font-size:12px; font-family:Arial,Helvetica,sans-serif; color: #0577f8; text-decoration: underline" href="http://stockpromoters.com/news-letters.aspx?symbol=FITX">105&nbsp;newsletters</a></form></li><li style="text-align:left; background: url(img/bullted.gif) no-repeat left; padding:0 0 0 40px; list-style:none;  line-height:35px"><form action="http://stockpromoters.com/Stock_Quote/symboldata.aspx" method="get" id="frmSymbolFOYJ"><input name="symbol" type="hidden" value="FOYJ" style="display:none"><input name="action" type="hidden" value="showDetailedQuote"><a href="javascript:void(0);" onclick="return SearchSubmit(this);" rel="frmSymbolFOYJ" style="font-size:13px; font-family:Arial,Helvetica,sans-serif; color: #0577f8; text-decoration: underline">FOYJ</a><span style="font-family:Arial,Helvetica,sans-serif; color:black">&nbsp;by&nbsp;</span><a style="font-size:12px; font-family:Arial,Helvetica,sans-serif; color: #0577f8; text-decoration: underline" href="http://stockpromoters.com/news-letters.aspx?symbol=FOYJ">36&nbsp;newsletters</a></form></li><li style="text-align:left; background: url(img/bullted.gif) no-repeat left; padding:0 0 0 40px; list-style:none;  line-height:35px"><form action="http://stockpromoters.com/Stock_Quote/symboldata.aspx" method="get" id="frmSymbolHIMR"><input name="symbol" type="hidden" value="HIMR" style="display:none"><input name="action" type="hidden" value="showDetailedQuote"><a href="javascript:void(0);" onclick="return SearchSubmit(this);" rel="frmSymbolHIMR" style="font-size:13px; font-family:Arial,Helvetica,sans-serif; color: #0577f8; text-decoration: underline">HIMR</a><span style="font-family:Arial,Helvetica,sans-serif; color:black">&nbsp;by&nbsp;</span><a style="font-size:12px; font-family:Arial,Helvetica,sans-serif; color: #0577f8; text-decoration: underline" href="http://stockpromoters.com/news-letters.aspx?symbol=HIMR">38&nbsp;newsletters</a></form></li><li style="text-align:left; background: url(img/bullted.gif) no-repeat left; padding:0 0 0 40px; list-style:none;  line-height:35px"><form action="http://stockpromoters.com/Stock_Quote/symboldata.aspx" method="get" id="frmSymbolLUVE"><input name="symbol" type="hidden" value="LUVE" style="display:none"><input name="action" type="hidden" value="showDetailedQuote"><a href="javascript:void(0);" onclick="return SearchSubmit(this);" rel="frmSymbolLUVE" style="font-size:13px; font-family:Arial,Helvetica,sans-serif; color: #0577f8; text-decoration: underline">LUVE</a><span style="font-family:Arial,Helvetica,sans-serif; color:black">&nbsp;by&nbsp;</span><a style="font-size:12px; font-family:Arial,Helvetica,sans-serif; color: #0577f8; text-decoration: underline" href="http://stockpromoters.com/news-letters.aspx?symbol=LUVE">25&nbsp;newsletters</a></form></li><li style="text-align:left; background: url(img/bullted.gif) no-repeat left; padding:0 0 0 40px; list-style:none;  line-height:35px"><form action="http://stockpromoters.com/Stock_Quote/symboldata.aspx" method="get" id="frmSymbolLVGI"><input name="symbol" type="hidden" value="LVGI" style="display:none"><input name="action" type="hidden" value="showDetailedQuote"><a href="javascript:void(0);" onclick="return SearchSubmit(this);" rel="frmSymbolLVGI" style="font-size:13px; font-family:Arial,Helvetica,sans-serif; color: #0577f8; text-decoration: underline">LVGI</a><span style="font-family:Arial,Helvetica,sans-serif; color:black">&nbsp;by&nbsp;</span><a style="font-size:12px; font-family:Arial,Helvetica,sans-serif; color: #0577f8; text-decoration: underline" href="http://stockpromoters.com/news-letters.aspx?symbol=LVGI">82&nbsp;newsletters</a></form></li><li style="text-align:left; background: url(img/bullted.gif) no-repeat left; padding:0 0 0 40px; list-style:none;  line-height:35px"><form action="http://stockpromoters.com/Stock_Quote/symboldata.aspx" method="get" id="frmSymbolMULI"><input name="symbol" type="hidden" value="MULI" style="display:none"><input name="action" type="hidden" value="showDetailedQuote"><a href="javascript:void(0);" onclick="return SearchSubmit(this);" rel="frmSymbolMULI" style="font-size:13px; font-family:Arial,Helvetica,sans-serif; color: #0577f8; text-decoration: underline">MULI</a><span style="font-family:Arial,Helvetica,sans-serif; color:black">&nbsp;by&nbsp;</span><a style="font-size:12px; font-family:Arial,Helvetica,sans-serif; color: #0577f8; text-decoration: underline" href="http://stockpromoters.com/news-letters.aspx?symbol=MULI">21&nbsp;newsletters</a></form></li><li style="text-align:left; background: url(img/bullted.gif) no-repeat left; padding:0 0 0 40px; list-style:none;  line-height:35px"><form action="http://stockpromoters.com/Stock_Quote/symboldata.aspx" method="get" id="frmSymbolPWEB"><input name="symbol" type="hidden" value="PWEB" style="display:none"><input name="action" type="hidden" value="showDetailedQuote"><a href="javascript:void(0);" onclick="return SearchSubmit(this);" rel="frmSymbolPWEB" style="font-size:13px; font-family:Arial,Helvetica,sans-serif; color: #0577f8; text-decoration: underline">PWEB</a><span style="font-family:Arial,Helvetica,sans-serif; color:black">&nbsp;by&nbsp;</span><a style="font-size:12px; font-family:Arial,Helvetica,sans-serif; color: #0577f8; text-decoration: underline" href="http://stockpromoters.com/news-letters.aspx?symbol=PWEB">42&nbsp;newsletters</a></form></li><li style="text-align:left; background: url(img/bullted.gif) no-repeat left; padding:0 0 0 40px; list-style:none;  line-height:35px"><form action="http://stockpromoters.com/Stock_Quote/symboldata.aspx" method="get" id="frmSymbolSIPN"><input name="symbol" type="hidden" value="SIPN" style="display:none"><input name="action" type="hidden" value="showDetailedQuote"><a href="javascript:void(0);" onclick="return SearchSubmit(this);" rel="frmSymbolSIPN" style="font-size:13px; font-family:Arial,Helvetica,sans-serif; color: #0577f8; text-decoration: underline">SIPN</a><span style="font-family:Arial,Helvetica,sans-serif; color:black">&nbsp;by&nbsp;</span><a style="font-size:12px; font-family:Arial,Helvetica,sans-serif; color: #0577f8; text-decoration: underline" href="http://stockpromoters.com/news-letters.aspx?symbol=SIPN">147&nbsp;newsletters</a></form></li><li style="text-align:left; background: url(img/bullted.gif) no-repeat left; padding:0 0 0 40px; list-style:none;  line-height:35px"><form action="http://stockpromoters.com/Stock_Quote/symboldata.aspx" method="get" id="frmSymbolSRBL"><input name="symbol" type="hidden" value="SRBL" style="display:none"><input name="action" type="hidden" value="showDetailedQuote"><a href="javascript:void(0);" onclick="return SearchSubmit(this);" rel="frmSymbolSRBL" style="font-size:13px; font-family:Arial,Helvetica,sans-serif; color: #0577f8; text-decoration: underline">SRBL</a><span style="font-family:Arial,Helvetica,sans-serif; color:black">&nbsp;by&nbsp;</span><a style="font-size:12px; font-family:Arial,Helvetica,sans-serif; color: #0577f8; text-decoration: underline" href="http://stockpromoters.com/news-letters.aspx?symbol=SRBL">41&nbsp;newsletters</a></form></li><li style="text-align:left; background: url(img/bullted.gif) no-repeat left; padding:0 0 0 40px; list-style:none;  line-height:35px"><form action="http://stockpromoters.com/Stock_Quote/symboldata.aspx" method="get" id="frmSymbolSTSC"><input name="symbol" type="hidden" value="STSC" style="display:none"><input name="action" type="hidden" value="showDetailedQuote"><a href="javascript:void(0);" onclick="return SearchSubmit(this);" rel="frmSymbolSTSC" style="font-size:13px; font-family:Arial,Helvetica,sans-serif; color: #0577f8; text-decoration: underline">STSC</a><span style="font-family:Arial,Helvetica,sans-serif; color:black">&nbsp;by&nbsp;</span><a style="font-size:12px; font-family:Arial,Helvetica,sans-serif; color: #0577f8; text-decoration: underline" href="http://stockpromoters.com/news-letters.aspx?symbol=STSC">47&nbsp;newsletters</a></form></li><li style="text-align:left; background: url(img/bullted.gif) no-repeat left; padding:0 0 0 40px; list-style:none;  line-height:35px"><form action="http://stockpromoters.com/Stock_Quote/symboldata.aspx" method="get" id="frmSymbolSTTK"><input name="symbol" type="hidden" value="STTK" style="display:none"><input name="action" type="hidden" value="showDetailedQuote"><a href="javascript:void(0);" onclick="return SearchSubmit(this);" rel="frmSymbolSTTK" style="font-size:13px; font-family:Arial,Helvetica,sans-serif; color: #0577f8; text-decoration: underline">STTK</a><span style="font-family:Arial,Helvetica,sans-serif; color:black">&nbsp;by&nbsp;</span><a style="font-size:12px; font-family:Arial,Helvetica,sans-serif; color: #0577f8; text-decoration: underline" href="http://stockpromoters.com/news-letters.aspx?symbol=STTK">47&nbsp;newsletters</a></form></li><li style="text-align:left; background: url(img/bullted.gif) no-repeat left; padding:0 0 0 40px; list-style:none;  line-height:35px"><form action="http://stockpromoters.com/Stock_Quote/symboldata.aspx" method="get" id="frmSymbolTRLR"><input name="symbol" type="hidden" value="TRLR" style="display:none"><input name="action" type="hidden" value="showDetailedQuote"><a href="javascript:void(0);" onclick="return SearchSubmit(this);" rel="frmSymbolTRLR" style="font-size:13px; font-family:Arial,Helvetica,sans-serif; color: #0577f8; text-decoration: underline">TRLR</a><span style="font-family:Arial,Helvetica,sans-serif; color:black">&nbsp;by&nbsp;</span><a style="font-size:12px; font-family:Arial,Helvetica,sans-serif; color: #0577f8; text-decoration: underline" href="http://stockpromoters.com/news-letters.aspx?symbol=TRLR">231&nbsp;newsletters</a></form></li><li style="text-align:left; background: url(img/bullted.gif) no-repeat left; padding:0 0 0 40px; list-style:none;  line-height:35px"><form action="http://stockpromoters.com/Stock_Quote/symboldata.aspx" method="get" id="frmSymbolWDAS"><input name="symbol" type="hidden" value="WDAS" style="display:none"><input name="action" type="hidden" value="showDetailedQuote"><a href="javascript:void(0);" onclick="return SearchSubmit(this);" rel="frmSymbolWDAS" style="font-size:13px; font-family:Arial,Helvetica,sans-serif; color: #0577f8; text-decoration: underline">WDAS</a><span style="font-family:Arial,Helvetica,sans-serif; color:black">&nbsp;by&nbsp;</span><a style="font-size:12px; font-family:Arial,Helvetica,sans-serif; color: #0577f8; text-decoration: underline" href="http://stockpromoters.com/news-letters.aspx?symbol=WDAS">37&nbsp;newsletters</a></form></li><li style="text-align:left; background: url(img/bullted.gif) no-repeat left; padding:0 0 0 40px; list-style:none;  line-height:35px"><form action="http://stockpromoters.com/Stock_Quote/symboldata.aspx" method="get" id="frmSymbolWPNV"><input name="symbol" type="hidden" value="WPNV" style="display:none"><input name="action" type="hidden" value="showDetailedQuote"><a href="javascript:void(0);" onclick="return SearchSubmit(this);" rel="frmSymbolWPNV" style="font-size:13px; font-family:Arial,Helvetica,sans-serif; color: #0577f8; text-decoration: underline">WPNV</a><span style="font-family:Arial,Helvetica,sans-serif; color:black">&nbsp;by&nbsp;</span><a style="font-size:12px; font-family:Arial,Helvetica,sans-serif; color: #0577f8; text-decoration: underline" href="http://stockpromoters.com/news-letters.aspx?symbol=WPNV">131&nbsp;newsletters</a></form></li><li style="text-align:left; background: url(img/bullted.gif) no-repeat left; padding:0 0 0 40px; list-style:none;  line-height:35px"><form action="http://stockpromoters.com/Stock_Quote/symboldata.aspx" method="get" id="frmSymbolXUII"><input name="symbol" type="hidden" value="XUII" style="display:none"><input name="action" type="hidden" value="showDetailedQuote"><a href="javascript:void(0);" onclick="return SearchSubmit(this);" rel="frmSymbolXUII" style="font-size:13px; font-family:Arial,Helvetica,sans-serif; color: #0577f8; text-decoration: underline">XUII</a><span style="font-family:Arial,Helvetica,sans-serif; color:black">&nbsp;by&nbsp;</span><a style="font-size:12px; font-family:Arial,Helvetica,sans-serif; color: #0577f8; text-decoration: underline" href="http://stockpromoters.com/news-letters.aspx?symbol=XUII">63&nbsp;newsletters</a></form></li></ul></div></div>
+  <!--leftmenu.ascx.txt--->
+  <br>
+  <br>
+  <script type="text/javascript"><!--
+   google_ad_client = "ca-pub-9384586983045815";
+   /* SP - LT COLUMN BM */
+   google_ad_slot = "8257612415";
+   google_ad_width = 160;
+   google_ad_height = 600;
+   //-->
+  </script> 
+  <script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+  </script> 
+  <br>
+  <div id="ctl00_Main_ucleftContent_headerCompanyBanner"></div>
+</div>
 
 
-<div id="sPageRightContent">
-    <div id="ctl00_Main_divStaticPageContent" style="width: 658px"><h2 style="padding:10px 0px 10px 0px">
-	Privacy Policy</h2>
-<hr size="1" style="margin:0 0 8px 0;">
+<div id="sRightContent">
+    <div id="ctl00_Main_divStaticPageContent" style="width: 658px"><h1 style="padding: 10px 0px;">
+	Stock Promoters Privacy Policy</h1>
+<hr size="1" style="margin: 0px 0px 8px;">
 <table border="0" width="100%">
 	<tbody>
 		<tr style="font-weight: bold;">
@@ -866,6 +637,7 @@ function post_counter_for_social(js_PassPipeParameter, js_EncodedPromotionMessag
 		</tr>
 	</tbody>
 </table>
+<br>
 </div>
     <div class="wrapper"></div>
 </div>
@@ -873,98 +645,102 @@ function post_counter_for_social(js_PassPipeParameter, js_EncodedPromotionMessag
             </div>
             <!-- Start Footer -->
             
-<!-- Developer: TirupathiRao.B -->
-<!-- Created By: JIVA Team -->
-<!-- Date: 23-Dec-2010 -->
-<!-- Start Footer Section -->
 <div id="footer">
-    <div id="footerL1">
+  <div id="footerL1">
+    <ul>
+      <li>
+        <h6>StockPromoters Services</h6>
         <ul>
-            <li>
-                <h6>StockPromoters Services</h6>
-                <ul>
-                  <li><a href="http://stockpromoters.com/Investor-Awareness.aspx">Quarterbacked IR Campaigns</a></li>
-                  <li><a href="http://stockpromoters.com/Consulting-Services.aspx">Consulting Services</a></li>
-                  <li><a href="http://stockpromoters.com/Wire-Services.aspx">Wire Services</a></li>
-                  <li><a href="http://stockpromoters.com/Restricted-Stock-Solutions.aspx">Restricted Stock Solutions</a></li>
-                  <li><a href="http://stockpromoters.com/Useful-Stock-Market-Links.aspx">Useful Links</a></li>
-                  <li><a href="http://stockpromoters.com/View-Changes-In-The-Rules.aspx">Changes in the Rules</a></li>
-                  <li><a href="http://stockpromoters.com/Join-Stock-Promoters-For-Free.aspx">Join StockPromoters For Free</a></li>
-                </ul>
-           </li>
-           <li>
-                <h6>Stock Promotions</h6>
-                <ul>
-                    <li><a href="http://stockpromoters.com/Daily-Stock-Promotions.aspx">Daily Promotions</a></li>
-                    <li><a href="http://stockpromoters.com/First-Time-Stock-Promotions.aspx">First Time Promotions</a></li>
-                    <li><a href="http://stockpromoters.com/Real-Time-Stock-Promotions.aspx">Real Time Promotions</a></li>
-                    <li><a href="http://stockpromoters.com/Stock-Promotion-Email-Archive.aspx">Stock Promotion Email Archive</a></li>
-                    <li><a href="http://stockpromoters.com/View-Stock-Promotions-By-Symbol.aspx">View Promotions by Symbol</a></li>
-                    <li><a href="http://stockpromoters.com/View-Promotions-By-Promoter.aspx">View Promotions by Promoter</a></li>
-                    <li><a href="http://stockpromoters.com/Todays-EOD-Promotions.aspx">Todays End of Day Promotions</a></li>
-                </ul>
-            </li>
-            <li>
-                <h6>Promoters</h6>
-                <ul>
-                    <li><a href="http://stockpromoters.com/Featured-Stock-Promoters.aspx">Featured Promoters</a></li>
-                    <li><a href="http://stockpromoters.com/Yesterdays-Top-Promotions.aspx">Yesterdays Top Promotions</a></li>
-                    <li><a href="http://stockpromoters.com/Top-Stock-Promoters.aspx">Top Promoters (Best)</a></li>
-                    <li><a href="http://stockpromoters.com/Worst-Stock-Promoters.aspx">Bottom Promoters (Worst)</a></li>
-                    <li><a href="http://stockpromoters.com/Stock-Promoter-Watch-List.aspx">Stock Promoter Watch List</a></li>
-                    <li><a href="http://stockpromoters.com/View-Stock-Promoters-By-Services.aspx">View Promoters by Services</a></li>
-                    <li><a href="http://stockpromoters.com/Stock-Promoters-To-Avoid.aspx">Promoters to Avoid</a></li>
-                    <li><a href="http://stockpromoters.com/Stock-Promoters-In-The-News.aspx">Stock Promoters in the News</a></li>
-                    <li><a href="http://stockpromoters.com/Add-Stock-Promoter-To-Be-Tracked.aspx">Add Promoter to be Tracked</a></li>
-                </ul>
-            </li>
-            <li>
-                <h6>Public Companies</h6>
-                <ul>
-                    <li><a href="http://stockpromoters.com/View-Companies-Looking-To-Go-Public.aspx">Co's Looking to Go Public (List)</a></li>
-                    <li><a href="http://stockpromoters.com/Public-Companies-Seeking-Promotion.aspx">Co's Seeking Promotion (List)</a></li>
-                    <li><a href="http://stockpromoters.com/View-Public-Companies-Seeking-Financing.aspx">Co's Seeking Financing (List)</a></li>
-                    <li><a href="http://stockpromoters.com/Public-Companies-Seeking-Financing.aspx">Add Your Company</a></li>
-              </ul>
-          </li>
+          <li><a href="http://stockpromoters.com/investor-awareness.aspx">Quarterbacked IR Campaigns</a></li>
+          <li><a href="http://stockpromoters.com/consulting-services.aspx">Consulting Services</a></li>
+          <li><a href="http://stockpromoters.com/wire-services.aspx">Wire Services</a></li>
+          <li><a href="http://stockpromoters.com/useful-stock-market-links.aspx">Useful Links</a></li>
+          <li><a href="http://stockpromoters.com/join-stock-promoters-for-free.aspx">Join StockPromoters For Free</a></li>
         </ul>
-      <div class="wrapper">
-        </div>
+      </li>
+      <li>
+        <h6>Stock Promotions</h6>
+        <ul>
+          <li><a href="http://stockpromoters.com/stock-promotions-today.aspx">Stock Promotions Today</a></li>
+          <li><a href="http://stockpromoters.com/first-time-stock-promotions.aspx">First Time Promotions</a></li>
+          <li><a href="http://stockpromoters.com/stock-promotion-history.aspx">Stock Promotion History</a></li>
+          <li><a href="http://stockpromoters.com/stock-promotion-email-archive.aspx">Stock Promotion Email Archive</a></li>
+          <li><a href="http://stockpromoters.com/view-stock-promotions-by-symbol.aspx">View Promotions by Symbol</a></li>
+          <li><a href="http://stockpromoters.com/view-promotions-by-promoter.aspx">View Promotions by Promoter</a></li>
+          <li><a href="http://stockpromoters.com/todays-eod-promotions.aspx">Todays End of Day Promotions</a></li>
+        </ul>
+      </li>
+      <li>
+        <h6>Promoters</h6>
+        <ul>
+          <li><a href="http://stockpromoters.com/featured-stock-promoters.aspx">Featured Promoters</a></li>
+          <li><a href="http://stockpromoters.com/top-stock-promoters.aspx">Top Promoters (Best)</a></li>
+          <li><a href="http://stockpromoters.com/yesterdays-top-promotions.aspx">Yesterdays Top Promotions</a></li>
+          <li><a href="http://stockpromoters.com/stock-promoter-watch-list.aspx">Stock Promoter Watch List</a></li>
+          <li><a href="http://stockpromoters.com/view-stock-promoters-by-services.aspx">View Promoters by Services</a></li>
+          <li><a href="http://stockpromoters.com/stock-promoters-to-avoid.aspx">Promoters to Avoid</a></li>
+          <li><a href="http://stockpromoters.com/stock-promoters-in-the-news.aspx">Stock Promoters in the News</a></li>
+          <li><a href="http://stockpromoters.com/add-stock-promoter-to-be-tracked.aspx">Add Promoter to be Tracked</a></li>
+        </ul>
+      </li>
+      <li>
+        <h6>Public Companies</h6>
+        <ul>
+          <li><a href="http://stockpromoters.com/public-companies-seeking-promotion.aspx">Co's Seeking Promotion (List)</a></li>
+          <li><a href="http://stockpromoters.com/view-public-companies-seeking-financing.aspx">Co's Seeking Financing (List)</a></li>
+          <li><a href="http://stockpromoters.com/view-companies-looking-to-go-public.aspx">Co's Looking to Go Public (List)</a></li>
+          <li><a href="http://stockpromoters.com/public-companies-seeking-financing.aspx">Add Your Company</a></li>
+          <li><a href="http://stockpromoters.com/otc-market-news.aspx">OTC Market News</a></li>
+        </ul>
+      </li>
+    </ul>
+    <div class="wrapper"> </div>
+  </div>
+  <div id="footerL2"> <a href="http://stockpromoters.com/about-stock-promoters.aspx">About StockPromoters</a> <a href="http://stockpromoters.com/stock-promoters-faq.aspx">F.A.Q.</a> <a href="http://stockpromoters.com/whats-new-at-stock-promoters.aspx">What's New</a> <a href="http://stockpromoters.com/stock-promoters-privacy-policy.aspx">Privacy</a> <a href="http://stockpromoters.com/disclaimer.aspx">Disclaimer</a> <a href="http://stockpromoters.com/view-member-comments.aspx">Member Comments</a> <a href="http://stockpromoters.com/contact-stock-promoters.aspx">Contact Us</a> </div>
+  <div id="footerL3">
+    <div class="footerCopyright">
+      <p> Copyright ©
+        <span id="ctl00_ucMainFooter_lblCopyrightYear">2013</span>
+        Stockpromoters.com.</p>
+      <p> All Rights Reserved. (<a href="http://stockpromoters.com/terms-and-conditions.aspx">Terms and Conditions</a>)</p>
     </div>
-    <div id="footerL2">
-        <a href="http://stockpromoters.com/About-Stock-Promoters.aspx">About StockPromoters</a>
-        <a href="http://stockpromoters.com/Stock-Promoters-FAQ.aspx">F.A.Q.</a>
-        <a href="http://stockpromoters.com/Whats-New-At-Stock-Promoters.aspx">What's New</a>
-        <a href="http://stockpromoters.com/Stock-Promoters-Privacy-Policy.aspx">Privacy</a>
-        <a href="http://stockpromoters.com/Disclaimer.aspx">Disclaimer</a>
-        <a href="http://stockpromoters.com/View-Member-Comments.aspx">Member Comments</a>
-        <a href="http://stockpromoters.com/Contact-Stock-Promoters.aspx">Contact Us</a>
+    <div class="footerTerms">
+      <p> Financial Market Data powered by <a href="http://www.quotemedia.com" target="_blank"> Quotemedia.com</a>. All rights reserved. Terms and conditions.</p>
+      <p> NYSE/AMEX data delayed 20 minutes. NASDAQ/other data delayed 15 minutes unless indicated.</p>
     </div>
-<div id="footerL3">
-        <div class="footerCopyright">
-            <p>
-                Copyright ©
-                <span id="ctl00_ucMainFooter_lblCopyrightYear">2012</span>
-                Stockpromoters.com.</p>
-            <p>
-                All Rights Reserved. (<a href="http://stockpromoters.com/Terms-And-Conditions.aspx">Terms and Conditions</a>)</p>
-        </div>
-        <div class="footerTerms">
-            <p>
-                Financial Market Data powered by <a href="http://www.quotemedia.com" target="_blank">
-                    Quotemedia.com</a>. All rights reserved. Terms and conditions.</p>
-            <p>
-                NYSE/AMEX data delayed 20 minutes. NASDAQ/other data delayed 15 minutes unless indicated.</p>
-        </div>
-    </div>
-    <div class="wrapper">
-    </div>
-    <br>
-	<br>
+  </div>
+  <div class="wrapper"> </div>
+  <br>
+  <br>
 </div>
-<!-- END Footer Section-->
-<!-- <script src="http://cdn.wibiya.com/Toolbars/dir_0626/Toolbar_626591/Loader_626591.js" type="text/javascript"></script><noscript></noscript> -->
+<!-- END Footer Section--> 
 
+<script type="text/javascript"> 
+
+  var _gaq = _gaq || [];
+  var pluginUrl = 
+  '//www.google-analytics.com/plugins/ga/inpage_linkid.js';
+  _gaq.push(['_require', 'inpage_linkid', pluginUrl]);
+  _gaq.push(['_setAccount', 'UA-18912837-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+
+            
+<script type="text/javascript">var switchTo5x=true;</script>
+<script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script>
+<script type="text/javascript" src="http://s.sharethis.com/loader.js"></script>
+<script type="text/javascript">stLight.options({publisher: "283c542e-8677-4cfe-ac3f-0021202168aa", doNotHash: false, doNotCopy: false, hashAddressBar: false});</script> 
+<script>
+var options={ "publisher": "283c542e-8677-4cfe-ac3f-0021202168aa", "position": "left", "ad": { "visible": false, "openDelay": 5, "closeDelay": 0}, "chicklets": { "items": ["facebook", "twitter", "googleplus", "stumbleupon", "linkedin", "pinterest", "email", "sharethis"]}};
+var st_hover_widget = new sharethis.widgets.hoverbuttons(options);
+</script>
             <!-- END Footer -->
         </div>
     </div>
