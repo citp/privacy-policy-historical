@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the revelup.com privacy policy that was archived on 2012-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121228220535id_/http%3A//revelsystems.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the revelup.com privacy policy that was archived on 2013-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130629021244id_/http%3A//revelsystems.com/privacy-policy) for the most accurate reproduction.*
 
-# iPad POS | iPad Retail and Restaurant Point of Sale System Software | Restaurant POS
+# Privacy Policy - RevelSystems.com
 
 Your privacy is critically important to us. At Revel Systems we have a few fundamental principles:
 
@@ -10,7 +10,7 @@ Your privacy is critically important to us. At Revel Systems we have a few funda
 
 
 
-Revel Systems Inc. (“ **Revel Systems** ”) operates several websites including RevelSystems.com, st.revelsystems.com, revelup.com. It is Revel Systems’s policy to respect your privacy regarding any information we may collect while operating our websites.
+Revel Systems Inc. (“ **Revel Systems** ”) operates several websites including but not limited to RevelSystems.com, revelution.com, revelup.com. It is Revel Systems’s policy to respect your privacy regarding any information we may collect while operating our websites.
 
 **Website Visitors**
 
@@ -20,7 +20,7 @@ Revel Systems also collects potentially personally-identifying information like 
 
 **Gathering of Personally-Identifying Information**
 
-Certain visitors to Revel Systems’s websites choose to interact with Revel Systems in ways that require Revel Systems to gather personally-identifying information. The amount and type of information that Revel Systems gathers depends on the nature of the interaction. For example, we ask visitors who sign up for a blog or the store at st.[revelsystems.com](http://www.wordpress.com/) and revelsystems.com to provide a username and email address. Those who engage in transactions with Revel Systems – by purchasing access to the Akismet comment spam prevention service, for example – are asked to provide additional information, including as necessary the personal and financial information required to process those transactions. In each case, Revel Systems collects such information only insofar as is necessary or appropriate to fulfill the purpose of the visitor’s interaction with Revel Systems. Revel Systems does not disclose personally-identifying information other than as described below. And visitors can always refuse to supply personally-identifying information, with the caveat that it may prevent them from engaging in certain website-related activities.
+Certain visitors to Revel Systems’s websites choose to interact with Revel Systems in ways that require Revel Systems to gather personally-identifying information. The amount and type of information that Revel Systems gathers depends on the nature of the interaction. For example, we ask visitors who sign up for a blog or the store at revelsystems.com to provide a username and email address. Those who engage in transactions with Revel Systems – by purchasing access to the Akismet comment spam prevention service, for example – are asked to provide additional information, including as necessary the personal and financial information required to process those transactions. In each case, Revel Systems collects such information only insofar as is necessary or appropriate to fulfill the purpose of the visitor’s interaction with Revel Systems. Revel Systems does not disclose personally-identifying information other than as described below. And visitors can always refuse to supply personally-identifying information, with the caveat that it may prevent them from engaging in certain website-related activities.
 
 **Aggregated Statistics**
 
