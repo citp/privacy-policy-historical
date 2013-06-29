@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the freepbx.org privacy policy that was archived on 2012-10-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121017111659id_/http%3A//www.freepbx.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freepbx.org privacy policy that was archived on 2013-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130630011334id_/http%3A//www.freepbx.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | FreePBX
 
@@ -56,7 +56,4 @@ You can access and correct your order and contact information by contacting us. 
 
 Contact Information
 
-Should you have other questions or concerns about this our privacy policies, please contact us at [privacy@freepbx.org](mailto:privacy@freepbx.org)
-
-  
-
+Should you have other questions or concerns about this our privacy policies, please contact us at [privacy@freepbx.org]()
