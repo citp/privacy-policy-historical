@@ -1,100 +1,118 @@
-> *The following text is extracted and transformed from the csnne.com privacy policy that was archived on 2010-01-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100108084516id_/http%3A//www.csnne.com/pages/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the csnne.com privacy policy that was archived on 2013-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130629222107id_/http%3A//www.csnne.com/privacy-policy) for the most accurate reproduction.*
 
-# Comcast SportsNet New England - Privacy Policy
+# Privacy Policy | Comcast SportsNet - CSNNE.com
 
-Privacy Policy
+Comcast SportsNet New England, LP (“Network,” “we,” or “us”) operates the [www.csnne.com](http://www.csnne.com/) website (each such website a “Site” and collectively the “Sites”) and Network focuses on delivering sports news and information to our Internet users in the market we serve.  Network is similarly focused on respecting and protecting the privacy of its users.  This privacy policy (“Privacy Policy”) tells you how we collect information from you, how we use it and to whom we share it.  When you access the Sites, we recognize you may be entrusting us with personally identifiable information and we are committed to honoring that trust by working to safeguard your privacy.  This Privacy Policy describes the principles that govern our information practices and other privacy aspects of the Sites.  In this Privacy Policy, we refer to information that specifically identifies you or can be used to contact you as “personally identifiable information” or “personal information.” This Privacy Policy applies only to information collected by Network online and does not apply to information collected or obtained by Network by any other means.  
 
-Comcast Sports Management Services, LLC (“SportsNet”), on behalf of its subsidiaries Comcast SportsNet Philadelphia, L.P., Comcast SportsNet Mid-Atlantic, L.P., Comcast SportsNet Chicago, LLC and Comcast SportsNet West, Inc., through the comcastsportsnet.com Website, focuses on delivering sports news and information to our Internet users in the different markets we serve.  SportsNet is similarly focused on respecting and protecting the privacy of its users. This policy statement tells you how we collect information from you and how we use it.  When you access the comcastsportsnet.com Website, we recognize you may be entrusting us with personally identifiable information and we are committed to honoring that trust by working to safeguard your privacy.  This Privacy Policy describes the principles that govern our information practices and other privacy aspects of the comcastsportsnet.com Website. 
+Network’s Security Measures
 
-In this Privacy Policy, we refer to information that specifically identifies you as “personally identifiable information.”  This Privacy Policy applies only to information collected by SportsNet online and does not apply to information collected or obtained by SportsNet by any other means.
+Since even the best Privacy Policy doesn’t mean much if your information isn’t safe, Network uses industry standard physical and electronic procedures (including firewalls) to protect your personally identifiable information. Digital certificates encrypt certain sensitive data using Secure Sockets Layer (SSL) technology, the industry standard method for protecting web communications.  The SSL security protocol provides data encryption, server authentication, message integrity, and optional client authentication for a TCP/IP connection.  SSL has been universally accepted on the Internet for authenticated and encrypted communication between members’ computers and our servers.  Although we cannot guarantee the security of any communication over the Internet, SSL helps to secure information exchanged between your computer and our servers over the Internet and prevent unauthorized access.  
 
-SportsNet’s Security Measures  
-Since even the best Privacy Policy doesn’t mean much if your information isn’t safe, SportsNet uses industry standard physical and electronic procedures (including firewalls) to protect your personally identifiable information.  Digital certificates encrypt data using Secure Sockets Layer (SSL) technology, the industry standard method for protecting web communications.  The SSL security protocol provides data encryption, server authentication, message integrity, and optional client authentication for a TCP/IP connection.  SSL has been universally accepted on the Internet for authenticated and encrypted communication between members’ computers and our servers.  SSL ensures that information exchanged between your computers and our servers over the 
+Please note that you are responsible for protecting any user name(s) and password(s) that provide you with access to the Site.  Network disclaims any responsibility for a breach of privacy as a result of your willingly or inadvertently disclosing user name(s) and password(s) to others.
 
-Internet is secure and can’t be accessed by third parties. The Information SportsNet Collects and How It Is Used
+The Information Network Collects and How It Is Used
 
-Collection of Personally Identifiable Information  
-When using the comcastsportsnet.com Website, you may be asked to provide various types of personally identifiable information to enhance your experience on our site.  For example, the comcastsportsnet.com Website asks for personally identifiable information such as your name, address, zip code, phone number, and e-mail address when you enter a contest, post a question, or participate in a promotion.  You can always go back to read this Privacy Policy by clicking on the Privacy Policy link on the bottom of all of the pages on the comcastsportsnet.com Website.  Please also see below about “cookies” and what other information is collected.
+Collection of Personally Identifiable Information 
 
-Children’s Privacy  
-Simply stated, SportsNet does not knowingly collect personal information from children under the age of 13.  If we learn that we have collected personal information on a child under the age of 13, we will delete that data from our systems.  SportsNet encourages parents and guardians to go online with their children and suggests the following to help make a child’s online experience safer:
+When using the Sites, you may be asked to provide various types of personally identifiable information to enhance your experience on the Site.  For example, the Site asks for personally identifiable information (such as your name, address, zip code, phone number, and email address) when you register for an account, make a purchase, sign up for email newsletters, use the forward information function, enter a contest, post or ask a question, or participate in a promotion.  You can always go back to read this Privacy Policy by clicking on the Privacy Policy link on the bottom of all of the pages on Site.  Please also see below about “cookies” and what other information is collected.
 
-    * Teach children never to give personal information (such as name, address, phone number, school, etc.) unless supervised by a parent or responsible adult.  
-    * Know the sites your children are visiting and which sites are appropriate.  
-    * Look for website privacy policies. Know how your child’s information is treated.
+Children’s Privacy
 
+Simply stated, Network does not knowingly collect personally identifiable information from children under the age of 13.  If we learn that we have collected personally identifiable information on a child under the age of 13, we will delete that data from our systems.  Network encourages parents and guardians to go online with their children and suggests the following to help make a child’s online experience safer:   
+•    Teach children never to give personally identifiable information (such as name, address, phone number, school, etc.) unless supervised by a parent or responsible adult;  
+•    Know the websites your children are visiting and which websites are appropriate; and   
+•    Look for website privacy policies. Know how your child’s information is treated.  
 Use of Personally Identifiable Information  
-Generally, the only people who have access to your personally identifiable information are SportsNet employees and these employees may use this personally identifiable information to take actions such as:
+We use and share the personally identifiable information you provide on the Site for several purposes.  For example, Network may use the information:  
+•    To provide the services you request;  
+•    To process your purchases and subscriptions;  
+•    To provide your personally identifiable information to third parties for such third parties direct marketing purposes;  
+•    By sharing personal information with our affiliates for promotional, operational or other lawful purposes;  
+•    To send you promotional emails and emails containing information about the Site.  If you don’t want to receive promotional emails from us, please refer to the Email Opt-Out Policy below;  
+•    To help provide you with the ability to create personal profile areas;  
+•    To provide customer feedback, service and support;  
+•    To support and run contests, sweepstakes or other marketing or promotional activities on the Site;   
+•    To conduct questionnaires and surveys in order to provide better products and services to our customers;  
+•    To understand more about you, so we can personalize newsletters and websites to your preferences;  
+•    To enhance your web browsing experience and help personalize the Site for your viewing preferences;  
+•    To allow you to forward information to another individual such as a friend or co-worker.  Network does not store the personal information about the third party to whom you forward such information; we only collect the information for the sole purpose of sending a one-time email.  If you choose to use our referral service to inform a colleague or friend, we will only ask for a contact name and email address;   
+•    To meet contractual obligations; and  
+•    As permitted by applicable law.
 
-    * Help provide you with the ability to create personal profile areas;  
-    * Provide customer feedback, service and support;  
-    * Support and run contests, sweepstakes or other marketing or promotional activities on the comcastsportsnet.com Website;  
-    * Conduct questionnaires and surveys in order to provide better products and services to our customers;  
-    * To understand more about you, so we can personalize newsletters and websites to your preferences;  
-    * To enhance your web browsing experience and help personalize the comcastsportsnet.com Website for your viewing preferences;  
-    * To allow you to forward information to another individual such as a friend or co-worker. SportsNet does not store the personal information about the third party to whom you forward such information; we only collect the information for the sole purpose of sending a one-time email. If you choose to use our referral service to inform a colleague or friend, we will only ask for a contact name and email address; and  
-    * To meet contractual obligations.
+Aggregate Information
 
-Please note that you are responsible for protecting any user name(s) and password(s) that provide you with access to the comcastsportsnet.com Website. 
+On an aggregate basis only, we collect comprehensive demographic information and data, and other non-personally identifying information about users of the Sites.  We do not typically disclose any personally identifiable information as part of this aggregate information, but we may lend, sell, share or otherwise disclose aggregate information with others so we can perform research and provide the results to third parties, enhance and market the Site, and conduct accounting and process record keeping functions.  To the extent aggregate information is associated with your personal information, Network will treat the associated information as personal information under this privacy policy.
 
-SportsNet disclaims any responsibility for a breach of privacy as a result of your willingly or inadvertently disclosing user name(s) and password(s) to others.
+Service Providers
 
-Registration and Purchase Information.  We also may use your email address to send you informational emails, such as news, information about contests or 
+We use operational service providers to perform certain services on our behalf, such as maintaining the Site and our mailing lists, storing, processing and transmitting data, creating and executing email campaigns, processing purchase and subscription transactions, and providing marketing assistance, web analytics and data analysis.  We may provide your personally identifiable information to these operational service providers when the information is necessary for them to perform their duties.  We request that our operational service providers protect your privacy and not disclose your personally identifiable information to third party marketers that are not associated with Network.  Additionally, we request such providers not to use your personally identifiable information for their own marketing or promotional purposes.
 
-promotions, or changes or enhancements to the comcastsportsnet.com Website. If you don’t want to receive these informational email communications, please refer to the Opt-Out Policy below.
+Comcast.net Users
 
-Co-Branded Offers  
-In arranging to have marketing and promotional information of certain companies or businesses with whom SportsNet may have formed a strategic alliance (“Affiliated Companies”), we may disclose to the Affiliated Companies your personally identifiable information, including information such as your address, billing information, telephone number and credit card information. If you do not want to us to disclose your personally identifiable information to the Affiliated Companies, please refer to the Opt-Out Policy below.
+If you arrive at the Site by clicking through a link from the Comcast.net web site and subsequently provide us with any information in connection with your use of the Site, we may provide that information to Comcast Interactive Media, LLC, Comcast Cable Communications Management, LLC and their respective subsidiaries and affiliates that own and operate web sites and Internet services on their behalf (collectively, “Comcast”).  The use of your information by Comcast will be governed by Comcast’s privacy policy, currently located at [http://xfinity.comcast.net/privacy/2011-03](http://xfinity.comcast.net/privacy/2011-03%27%29%29;).  Our use of the information you provide to us will continue to be governed by this Privacy Policy.  
 
-Third-Party Offers  
- In arranging to have marketing and promotional information of third-party companies that we think might be of interest to you, we may disclose your personal information, including information such as your address, billing information, telephone number and credit card information to nonaffiliated third parties not controlled by SportsNet.  If you do not want to us to disclose your personal information to third-party companies, please refer to the Opt-Out Policy below.
+Cookies and IP Address Information
 
-Aggregate Information  
-On an aggregate basis only, we collect comprehensive demographic information and data, and other non-identifying information about users of the comcastsportsnet.com Website.  SportsNet will never disclose any personally identifiable information as part of this aggregate information but we may lend, sell, share or otherwise disclose aggregate information with others so we can perform research and provide the results to third parties, enhance and market the comcastsportsnet.com Website, and conduct accounting and process record keeping functions.
+Network uses a feature of your browser called a “cookie.”  Cookies are small text files sent to and accessed from your computer.  Your cookie automatically identifies your computer - but not you - to our servers when you visit the Site and allows us to correlate your computer with certain usage patterns which are stored in our log files.  We use cookies to gather general, aggregate statistics about the overall usage of the Site in our continual attempt to improve our products and services.  Network also uses temporary cookies, often referred to as session cookies, to keep a user logged into the system and aid in the exchange of information between pages without loss of data.  Such a cookie, however, is only stored for the current browsing session and is deleted once the browser is closed.  Our service providers may also place cookies at the Site in connection with the services they provide.  Search for Cookies under your Web browser’s Help menu for more information on cookie management features available to you.  If your browser is set to reject all cookies, the Site may not function properly.  
 
-Cookies and IP Address Information  
-SportsNet uses a feature of your browser called a “cookie.”  Your cookie automatically identifies your computer - but not you - to our servers when you visit the comcastsportsnet.com Website and allows us to correlate your computer with certain usage patterns which are stored in our log files.  We use cookies to gather general, aggregate statistics about the overall usage of the comcastsportsnet.com Website in our continual attempt to improve our products and services.  SportsNet also uses temporary cookies, often referred to as session cookies, to keep a user logged into the system and aid in the exchange of information between pages without loss of data.  Such a cookie, however, is only stored for the current browsing session and is deleted once the browser is closed.  SportsNet can only read cookies from the comcastsportsnet.com Website.  Search for Cookies under your Web browser’s Help menu for more information on cookie management features available to you.  If your browser is set to reject all cookies, the comcastsportsnet.com Website may not function properly. 
+Additionally, we may use IP address information to count and track aggregate visits to the Site, to help diagnose problems with our server, and to administer the Site.  It is not our policy to link IP addresses to anything personally identifiable; while a particular user’s session can be tracked, the user typically remains completely anonymous.
 
-Additionally, we may use IP address information to count and track aggregate visits to the comcastsportsnet.com Website, to help diagnose problems with our server, and to administer the comcastsportsnet.com Website.  SportsNet does not link IP addresses to anything personally identifiable so while a particular user’s session can be tracked, the user remains completely anonymous.
+Third Party Ad Servers
 
-Clear Gifs  
-We also may collect information through the use of clear gifs (also called Web Beacons and Web Bugs) in selected email messages we send you. These are tiny graphic files, not visible to the human eye, that are included in HTML-based emails and used to let us know which emails we send are opened.  Clear gifs may also see or read cookies on your computer.  When authorized by SportsNet, third parties specializing in monitoring aggregate statistical use of our site with whom we contract, may use cookies, our web log files, web beacons, and other monitoring technologies to compile anonymous aggregate data.
+We may use third-party advertising companies and advertising networks to serve certain ads to you on our behalf when you visit the Site or other websites.  These third-party delivered ads appearing on the Site may be delivered to you by DoubleClick and 24/7 Real Media.  Please be aware that we may add or subtract from this list of third-party advertising companies in the future, in our sole discretion and without notice to you.  Information (not including your name, address email address or telephone number) about your visits to this and other websites, may be used in order to provide advertisements about goods and services of interest to you.  In the course of serving advertisements to this Site, a third-party advertising company may place or recognize a unique cookie or web beacon on your browser. For more information about DoubleClick and 24/7 Real Media, cookies, and how to "opt-out," please [click here](http://www.networkadvertising.org/managing/opt_out.asp).
 
-Privacy Policy Coverage and Links to Other Sites  
-We may include links to other websites we think may be of interest to you or operated by our business partners, affiliates, advertisers and others. These third parties have separate data collection and privacy practices independent from ours, and SportsNet cannot be responsible for their policies or activities. Please contact those third parties directly if you have questions about their privacy policies.
+Clear Gifs
 
-Changes to Our Privacy Policy  
-We encourage you to review our Privacy Policy not just the first time you visit the comcastsportsnet.com Website but periodically afterwards since we may modify our Privacy Policy from time to time.  The date of the last update of the Privacy Policy will always be posted below:
+We also may collect information through the use of clear gifs (also called Web Beacons and Web Bugs) in selected email messages we send you.  These are tiny graphic files, not visible to the human eye, that are included in HTML-based emails and used to let us know which emails we send are opened.  Clear gifs may also see or read cookies on your computer.  When authorized by Network, third parties specializing in monitoring aggregate statistical use of the Site with whom we contract, may use cookies, our web log files, web beacons, and other monitoring technologies to compile anonymous aggregate data.
 
-THIS PRIVACY POLICY WAS LAST REVISED ON JANUARY 25, 2007.
+Information Posted to Any Community Feature
 
-If we make any substantive changes to our Privacy Policy in the future with regard to how we use your personally identifiable information, we will incorporate those changes here.  Your continued use of the comcastsportsnet.com Website after the changes are posted constitutes your agreement to the changes, both with regard to information we have previously collected from you and with regard to information we collect from you in the future. If you do not agree to the changes, please discontinue use of the comcastsportsnet.com Website.  Lastly, if SportsNet is sold or merged with another company, your personally identifiable information will be included as part of the sale but unless you’re notified that the Privacy Policy is changed, your personally identifiable information will be maintained in the same manner.
+If you chose to use a forum, a blog, participate in a chat room or otherwise use a community feature available through the Site, you should be aware that any personally identifiable or other information you post can be read, collected or used by other users of the Site, and could be used to send you unsolicited messages or used in an otherwise unauthorized manner.  We cannot be responsible for any personally identifiable or other information you choose to post through those means and we recommend careful consideration before you post such information.
 
-Accessing and Updating Information  
-To access or update the personally identifiable information that SportsNet may have, please send an email to csnwebmaster@comcastsportsnet.com with your request.   Please include your email address and indicate the nature of your request or the information you wish to change. In addition, you may delete the cookie stored on your computer, which will cause our system to perceive you as a new user with no known user data. You may also set your browser to reject cookies, but doing so may prevent you from using some of our services.  There may be certain instances when SportsNet may not be able to respond, such as when access would violate the privacy of another individual, when access is prohibited by law, or when the personally identifiable information has been lawfully obtained from third party sources.
+Privacy Policy Coverage and Links to Other Websites
 
-Opt-Out Policy  
-You may opt out of receiving communication from us by emailing us at: csnwebmaster@comcastsportsnet.com or writing to us at:  Comcast SportsNet, 3601 
+We may include links to other websites we think may be of interest to you or operated by our business partners, affiliates, advertisers and others.  These websites include, but are not limited to, the SNY.TV website.  These third parties may have separate data collection and privacy practices independent from ours, and Network cannot be responsible for their policies or activities.  Please contact those third parties directly if you have questions about their privacy policies.
 
-South Broad Street, Philadelphia, PA 19148, Attn:  Website Department  
+Changes to Our Privacy Policy
+
+We encourage you to review our Privacy Policy not just the first time you visit the Site, but periodically afterwards since we may modify our Privacy Policy from time to time.  The date of the last update of the Privacy Policy will always be posted below:
+
+THIS PRIVACY POLICY WAS LAST REVISED ON JUNE 8, 2011.
+
+If we make any substantive changes to our Privacy Policy in the future with regard to how we use your personally identifiable information, we will incorporate those changes here.  Your continued use of the Site after the changes are posted constitutes your agreement to the changes.  If you do not agree to the changes, please discontinue use of the Sites.  Lastly, if Network is sold or merged with another company, your personally identifiable information will be included as part of the sale but unless you’re notified that the Privacy Policy is changed, your personally identifiable information will be maintained in the same manner.
+
+Accessing and Updating Information 
+
+To access or update the personally identifiable information that Network may have, please send an email to [legal@comcastsportsnet.com](mailto:legal@comcastsportsnet.com) with your request.   Please include your email address and indicate the nature of your request or the information you wish to change.  In addition, you may delete the cookie stored on your computer, which will cause our system to perceive you as a new user with no known user data.  You may also set your browser to reject cookies, but doing so may prevent you from using some of our services.  There may be certain instances when Network may not be able to respond, such as when access would violate the privacy of another individual, when access is prohibited by law, or when the personally identifiable information has been lawfully obtained from third party sources. 
+
+Email Opt-Out Policy
+
+You may opt-out of receiving promotional email communications from us by emailing us at: [legal@comcastsportsnet.com](mailto:legal@comcastsportsnet.com) or writing to us at:  Comcast Sports Group, One Comcast Center, Philadelphia, PA 19103, Attn:  Business and Legal Affairs.
+
 In addition, when we contact you via email, we may include instructions to unsubscribe from future emails if you so choose.
 
-International Users  
-The comcastsportsnet.com Website is solely intended for users located in the U.S.  However, like almost every website, the comcastsportsnet.com Website is accessible around the world.  By visiting the comcastsportsnet.com Website and providing your personally identifiable information, you acknowledge and agree that your personally identifiable information can be stored for the purposes identified in this Privacy Policy.  We process and store your personally identifiable information in the United States of America and your personally identifiable information may be stored on servers located outside your residential jurisdiction and which may have less stringent privacy practices than your own.  If you access the comcastsportsnet.com Website from outside the United States, your usage constitutes consent to the transfer of your data outside of your country and to the United States of America. 
+Please allow sufficient time for us to process your opt-out request.
 
-Legal Disclaimer  
-Though we will make every effort to preserve user privacy, we may need to disclose personally identifiable information when required by law or if we have a good-faith belief the action is necessary to comply with a pending judicial proceeding, a court order or legal process served on SportsNet or to protect our rights or the rights of others, to fight fraud, identity theft, to ensure the integrity and operation of our business and systems, or to protect the rights, property or safety of SportsNet, its employees, members or others.
+International Users
 
-Contacting SportsNet  
-Please feel free to share any comments and concerns with us. If you have any questions about this Privacy Policy or the practices of the comcastsportsnet.com
+The Site is solely intended for users located in the U.S.  However, like almost every website, the Site is accessible around the world.  By visiting the Site and providing your personally identifiable information, you acknowledge and agree that your personally identifiable information can be collected, processed and stored for the purposes identified in this Privacy Policy.  We collect, process and store your personally identifiable information in the United States of America.  You acknowledge that your personally identifiable information may be stored on servers located outside your residential jurisdiction in jurisdictions which may have less stringent privacy practices than your own.  If you access the Site from outside the United States, your usage constitutes consent to the transfer of your data outside of your country and to the United States of America.  
 
-Please contact us at:
+California Privacy Rights 
 
-Comcast SportsNet  
-3601 South Broad Street  
-Philadelphia, PA 19148  
-Attn:  Website Department
+If you are a California resident and would like to opt-out from the disclosure of personally identifiable information to third parties for their direct marketing purposes, please make your request by email to: [legal@comcastsportsnet.com](mailto:legal@comcastsportsnet.com) or write to us at:  :  Comcast Sports Group, One Comcast Center, Philadelphia, PA 19103, Attn:  Business and Legal Affairs.
 
-Or by e-mail at: csnwebmaster@comcastsportsnet.com
+Legal Disclaimer
 
-**Thank you for visiting!**
+Though we will make every effort to preserve user privacy, we may need to disclose personally identifiable information when required by law or if we have a good-faith belief the action is necessary to comply with a pending judicial proceeding, a court order or legal process served on Network or to protect our rights or the rights of others, to fight fraud, identity theft, to ensure the integrity and operation of our business and systems, or to protect the rights, property or safety of Network, its employees, members or others.
+
+Contact Us 
+
+Please feel free to share any comments and concerns with us.  If you have any questions about this Privacy Policy or the privacy practices of the Site, please contact us at:
+
+Comcast Sports Group  
+One Comcast Center  
+Philadelphia, PA 19103  
+Attn:  Business and Legal Affairs.  
+Or by email at: [legal@comcastsportsnet.com](mailto:legal@comcastsportsnet.com)
+
+©2011 Comcast Sports Management Services, LLC.  All rights reserved.
