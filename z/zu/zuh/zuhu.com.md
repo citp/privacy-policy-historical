@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the zuhu.com privacy policy that was archived on 2012-10-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121015203058id_/http%3A//www.zuhu.com/pages/2/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zuhu.com privacy policy that was archived on 2013-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130629182012id_/http%3A//www.zuhu.com/pages/2/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -50,5 +50,3 @@ By using our website, you hereby consent to our privacy policy and agree to its 
 
  **Update**  
 This Privacy Policy was last updated on: Wednesday, November 16th, 2011. 
-
-[](http://www.zuhu.com/play/27682/caryl.html)
