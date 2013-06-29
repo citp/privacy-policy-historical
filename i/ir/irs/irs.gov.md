@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the irs.gov privacy policy that was archived on 2012-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121213151807id_/http%3A//www.irs.gov/uac/IRS-Privacy-Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the irs.gov privacy policy that was archived on 2013-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130629083212id_/http%3A//www.irs.gov/uac/IRS-Privacy-Policy) for the most accurate reproduction.*
 
 # IRS Privacy Policy
 
@@ -49,4 +49,4 @@ _**PLEASE NOTE:**_ Do not respond to unsolicited e-mails that claim to come from
 
 For more information contact the Treasury Inspector General for Tax Administration (TIGTA) at 800-366-4484 or visit the [TIGTA website](http://www.treas.gov/tigta).
 
-Page Last Reviewed or Updated: 2012-08-23
+Page Last Reviewed or Updated: 30-Apr-2013
