@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the viator.com privacy policy that was archived on 2012-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121016092250id_/http%3A//www.viator.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the viator.com privacy policy that was archived on 2013-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130629041746id_/http%3A//www.viator.com/privacy-policy) for the most accurate reproduction.*
 
 # Viator Customer Care - 24/7 Assistance | Viator.com
 
@@ -38,7 +38,14 @@ You can contribute to the site in a number of different ways, including writing 
 
 First-Party Cookies: At Viator we make use of cookies to store your preferences, record session information, collect information on how you visit and access our websites, and to tailor our web pages to your needs. We also use cookies to analyze and measure the effectiveness of our email communications, website features and offerings, and advertisements.
 
-Most web browsers allow you to turn off cookies; however, turning off cookies will limit your use of our websites.
+Most web browsers allow you to turn off cookies; however, turning off cookies will limit your use of our websites. To learn more about changing your browser's cookie settings, please see the appropriate informational link: 
+
+  * Internet Explorer: <http://windows.microsoft.com/en-US/windows-vista/Cookies-frequently-asked-questions>
+  * Firefox: <http://support.mozilla.org/en-US/kb/cookies-information-websites-store-on-your-computer>
+  * Chrome: [https://support.google.com/chrome/bin/answer.py?hl=en&answer=95647&p=cpn_cookies](https://support.google.com/chrome/bin/answer.py?hl=en&answer=95647&p=cpn_cookies)
+  * Safari: <http://support.apple.com/kb/PH5042>
+
+
 
 Third-Party Cookies: We also use third-party advertising companies to serve ads while you are visiting our websites and we permit these companies to place and access their own cookies on your computer in the course of serving advertisements. Such advertisers do not have access to the information we collect through Viator cookies. Other companies' use of their cookies is subject to their own privacy policies and not ours.
 
@@ -115,4 +122,4 @@ For some Viator services you can access and update your registration and Persona
 
 To correct or update any other Personal Information, or if you have questions about Viator's Privacy Policy, please email our Privacy Officer at [privacy@viator.com](mailto:privacy@viator.com).
 
-**_LAST UPDATED:_** July 11, 2012
+Last updated: October 10, 2012
