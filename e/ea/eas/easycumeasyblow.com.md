@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the easycumeasyblow.com privacy policy that was archived on 2012-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120505080956id_/http%3A//www.easycumeasyblow.com/policies/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the easycumeasyblow.com privacy policy that was archived on 2013-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130629103649id_/http%3A//www.easycumeasyblow.com/policies/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - EasyCumEasyBlow.com
 
