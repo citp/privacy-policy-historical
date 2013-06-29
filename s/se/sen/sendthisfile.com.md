@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sendthisfile.com privacy policy that was archived on 2012-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121222172359id_/http%3A//www.sendthisfile.com/policy/privacy-policy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sendthisfile.com privacy policy that was archived on 2013-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130629075407id_/http%3A//www.sendthisfile.com/policy/privacy-policy.jsp) for the most accurate reproduction.*
 
 # Privacy Policy | SendThisFile
 
