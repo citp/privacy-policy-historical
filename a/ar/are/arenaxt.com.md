@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the arenaxt.com privacy policy that was archived on 2012-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120629090031id_/http%3A//arenaxt.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the arenaxt.com privacy policy that was archived on 2013-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130629185842id_/http%3A//arenaxt.com/privacy.php) for the most accurate reproduction.*
 
 # privacy policy
 
@@ -19,6 +19,8 @@ We may collect the following information:
   * the email address you used to create a stand alone account or shared through facebook 
 
   * your facebook numeric id when facebook is used to connect 
+
+  * the facebook numeric id of your friends that are playing the game 
 
   * your public IP address which is publicly provided by your Internet Service Provider
 
@@ -70,7 +72,7 @@ Our website may contain links to other websites of interest. However, once you h
 
 ### Private messages in ArenaXtreme!
 
-Private chat is just private. That means no other player, guard, agent, editor or unauthorized user can see what you two say to each other. But you should avoid sending sensitive personal information such as passwords or credit card numbers. Please also note that your private posts are subject to your home country's applicable laws and we take no responsibility for them. You can also use the application provided report feature to report inappropriate content in order to take appropriate action.
+Private chat is just private. That means no other player, moderator or unauthorized user can see what you two say to each other. But you should avoid sending sensitive personal information such as passwords or credit card numbers. Please also note that your private posts are subject to your home country's applicable laws and we take no responsibility for them. You can also use the application provided report feature to report inappropriate content in order to take appropriate action.
 
 ### Controlling your personal information
 
