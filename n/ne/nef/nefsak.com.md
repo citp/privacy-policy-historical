@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nefsak.com privacy policy that was archived on 2012-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121115120501id_/http%3A//www.nefsak.com/privacy_statement.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nefsak.com privacy policy that was archived on 2013-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130629175058id_/http%3A//www.nefsak.com/privacy_statement.html) for the most accurate reproduction.*
 
 # Privacy statement :: nefsak.com
 
