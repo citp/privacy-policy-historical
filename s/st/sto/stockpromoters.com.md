@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the stockpromoters.com privacy policy that was archived on 2012-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121211093456id_/http%3A//stockpromoters.com/Stock-Promoters-Privacy-Policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stockpromoters.com privacy policy that was archived on 2013-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130629175328id_/http%3A//stockpromoters.com/Stock-Promoters-Privacy-Policy.aspx) for the most accurate reproduction.*
 
-# 
+# Stock Promoters Privacy Policy
 
 Privacy is our priority.  
 We are committed to protecting our customers' personal and financial information. In the course of providing financial products and services, we need to collect and maintain certain nonpublic personal information. This Privacy Statement answers some questions about what nonpublic personal information we collect, what we do with it, and how we protect it.
