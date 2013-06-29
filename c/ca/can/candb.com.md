@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the candb.com privacy policy that was archived on 2012-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120622185932id_/http%3A//www.candb.com/en/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the candb.com privacy policy that was archived on 2013-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130630001855id_/http%3A//www.candb.com/en/privacypolicy) for the most accurate reproduction.*
 
-# Privacy Policy - candb.com - Candb.com
+# Privacy Policy - candb.com
 
 This service is provided to you by Cook & Becker. Cook & Becker is committed to protecting your privacy. Please read this privacy policy (the “Privacy Policy”) below in reference to the Cook & Becker website at http://www.candb.com and/or its affiliated services (“Cook & Becker Service”) that you may use. By using the Cook & Becker Service you agree to this Privacy Policy. Cook & Becker is responsible for your data processing through the Cook & Becker Services.
 
