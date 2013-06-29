@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jabong.com privacy policy that was archived on 2012-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121218045045id_/http%3A//www.jabong.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jabong.com privacy policy that was archived on 2013-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130629144038id_/http%3A//www.jabong.com/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -40,11 +40,7 @@ We use standard and authorized payment services and our Credit Check and Fraud P
 
 ### Other uses of your personal information
 
-We may use your personal information for opinion and market research. Your details are anonymous and will only be used for statistical purposes in Jabong.com. You can choose to opt out of this at any time. Any answers to surveys or opinion polls Jabong.com may ask you to complete will not be forwarded on to third parties. Disclosing your email address is only necessary if you would like to take part in competitions. We save the answers to our surveys separately from your email address.
-
-We may also send you other information about us, the Site, our other websites, our products, sales promotions, our newsletters, anything relating to other companies in our group or our business partners. If you would prefer not to receive any of this additional information as detailed in this paragraph (or any part of it) please click the “unsubscribe” link in any email that we send to you. Within 7 working days (days which are neither (i) a Saturday or Sunday, nor (ii) a public holiday anywhere in India) of receipt of your instruction we will cease to send you information as requested. If your instruction is unclear we will contact you for clarification.
-
-We may further anonymize data about users of the Site generally and use it for various purposes, including ascertaining the general location of the users and usage of certain aspects of the Site or a link contained in an email to those registered to receive them, and supplying that anonymized data to third parties such as publishers. However, that anonymized data will not be capable of identifying you personally.
+We may also send you other information about us, the Site, our other websites, our products, sales promotions, our newsletters, SMS updates, anything relating to other companies in our group or our business partners. If you would prefer not to receive any of this additional information as detailed in this paragraph (or any part of it) please click the “unsubscribe” link in any email that we send to you or follow the unsubscription process as detailed in the SMS. Kindly note that unsubscribing from one medium does not automatically lead to unsubscription from the other.. Within 7 working days (days which are neither (i) a Saturday or Sunday, nor (ii) a public holiday anywhere in India) of receipt of your instruction we will cease to send you information as requested. If your instruction is unclear we will contact you for clarification.
 
 ### Competitions
 
