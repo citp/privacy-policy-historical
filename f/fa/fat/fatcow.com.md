@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fatcow.com privacy policy that was archived on 2012-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121218014830id_/http%3A//www.fatcow.com/legal/legal_privacy.bml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fatcow.com privacy policy that was archived on 2013-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130629104954id_/https%3A//www.fatcow.com/legal/legal_privacy.bml) for the most accurate reproduction.*
 
 # FatCow's Privacy Policy
 
@@ -80,4 +80,4 @@ Please note: FatCow reserves the right to send you email communications that rel
 
 
 
-This file was last modified December 10, 2012. [View comparison version.](https://web.archive.org/web/20121218014830id_/http%3A//www.fatcow.com/legal/legal_privacy.bml?showchanges=1)
+This file was last modified June 21, 2013. [View comparison version.](https://web.archive.org/web/20130629104954id_/https%3A//www.fatcow.com/legal/legal_privacy.bml?showchanges=1)
