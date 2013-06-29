@@ -1,16 +1,10 @@
-> *The following text is extracted and transformed from the vendio.com privacy policy that was archived on 2012-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121228222529id_/http%3A//www.vendio.com/ecommerce/terms/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vendio.com privacy policy that was archived on 2013-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130629030007id_/http%3A//www.vendio.com/ecommerce/terms/privacy) for the most accurate reproduction.*
 
 # Vendio Privacy Statement
 
-### Effective on: June 14, 2012
+### Effective on: May 17, 2013
 
-These terms are incorporated by reference into Vendio's User Agreement at <http://www.vendio.com/ecommerce/terms> and are subject to such User Agreement. Your use of any of Vendio's services is subject to the User Agreement in its entirety. 
-
-[](http://www.truste.org/ivalidate.php?url=www.vendio.com&sealid=101)
-
-**1\. Background**
-
-**1.1. TRUSTe Privacy Program.** As a licensee of the TRUSTe Privacy Program, (solely with respect to the Vendio.com website) Vendio has agreed to disclose its information practices and have its privacy practices reviewed for compliance by TRUSTe. TRUSTe is an independent, non-profit organization whose mission is to build users' trust and confidence in the Internet by promoting the use of fair information practices. By displaying the TRUSTe trustmark, this web site (www.vendio.com) has agreed to notify you of: 
+These terms are incorporated by reference into Vendio's User Agreement at <http://www.vendio.com/ecommerce/terms> and are subject to such User Agreement. Your use of any of Vendio's services is subject to the User Agreement in its entirety.  **1\. Background** This privacy policy explains: 
 
   1. What personally identifiable information of yours or third party personally identifiable information that is collected from you through the web site
   2. The organization collecting the information 
@@ -20,13 +14,10 @@ These terms are incorporated by reference into Vendio's User Agreement at <http:
   6. The kind of security procedures that are in place to protect the loss, misuse or alteration of information under Vendio's control 
   7. How you can correct any inaccuracies in the information. 
 
+  
 
 
-**1.2. Questions.** If you have questions or concerns regarding this statement, you should first contact Vendio at [privacy@corp.vendio.com](mailto:privacy@corp.vendio.com). If you do not receive acknowledgment of your inquiry or your inquiry has not been satisfactorily addressed, you should then contact TRUSTe <http://truste.org/consumers/watchdog_complaint.php>. TRUSTe will then serve as a liaison with the Web site to resolve your concerns.
-
-**1.3. Downloadable Software.** The TRUSTe program covers only information that is collected through this Web site, and does not cover information that may be collected through software downloaded from the site. 
-
-**2\. Passwords**  
+If you have questions or concerns regarding this statement, please contact Vendio at [privacy@corp.vendio.com](mailto:privacy@corp.vendio.com). **2\. Passwords**  
 You may not disclose your password to any third party. If you lose control of your password, you may lose substantial control over your personally identifiable information. In addition, you may run the risk of another user accessing your password and using it to falsely represent your identity. If you have reason to believe that your password has been compromised for any reason, Vendio strongly recommends that you immediately change your password.  **3\. Information Collected**
 
 **3.1. Cookies.** We also use cookies on certain pages of our site, and for services requiring registration. This is done primarily for your benefit as cookies allow you to log on only once per session. Our site may also contain affiliate links to partner sites. Clicking on affiliate links will direct you to the corresponding partner sites who may set their own affiliate cookies. Most cookies are automatically deleted at the end of a session. In addition, many browsers offer users the option of declining cookies. If you do not wish to accept cookies, please modify the settings in your browser. Your browser must be set to accept cookies if you wish to use the Vendio services available only to registered members. These cookies are not tied to your personal information. 
@@ -85,9 +76,9 @@ If you have any questions about this privacy statement, or the privacy practices
 You can also contact us at: 
 
 Vendio Services, Inc.  
-2121 South El Camino Real  
-Suite 300  
-San Mateo, CA 94403  
+1510 Fashion Island Blvd  
+Suite 100  
+San Mateo, CA 94404  
 (650)293-3500  
 
 
