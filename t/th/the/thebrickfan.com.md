@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thebrickfan.com privacy policy that was archived on 2012-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121109061439id_/http%3A//www.thebrickfan.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thebrickfan.com privacy policy that was archived on 2013-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130629123353id_/http%3A//www.thebrickfan.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - The Brick Fan - LEGO Reviews and News
 
