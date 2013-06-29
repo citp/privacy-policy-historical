@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wufoo.com privacy policy that was archived on 2012-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121227071932id_/http%3A//wufoo.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wufoo.com privacy policy that was archived on 2013-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130629073330id_/http%3A//www.wufoo.com/privacy) for the most accurate reproduction.*
 
 # Wufoo · Privacy Policy
 
@@ -75,4 +75,4 @@ Infinity Box may periodically update this policy. We will notify you about signi
 
 Any questions about this Privacy Policy should be addressed to [privacy@wufoo.com](mailto:privacy@wufoo.com) or by mail at: **Stuart Loh , Attorney** 285 Hamilton Avenue, Suite 500, Palo Alto, CA 94301
 
-**Updated :** June 18th, 2012 
+**Updated :** June 12th, 2013 
