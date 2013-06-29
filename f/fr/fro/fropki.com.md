@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fropki.com privacy policy that was archived on 2012-02-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120214145909id_/http%3A//www.fropki.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fropki.com privacy policy that was archived on 2013-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130629190231id_/http%3A//www.fropki.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy - Fropki.com
 
@@ -37,7 +37,7 @@ In general, we will not disclose your personal information to third parties exce
 
 We use Google Adsense and DoubleClick to display Ads on our website. Google may display Interest-based advertisements on your computer which will allow advertisers to show ads based on a user's previous interactions with them, such as visits to advertiser website and also to reach users based on their interests (e.g. "sports enthusiast"). To develop interest categories, Google Adsense will recognize the types of web pages users visit throughout the Google content network. As an example, if they visit a number of sports pages, Google Adsense will add them to the "sports enthusiast" interest category. 
 
-Google, as a third party vendor, uses cookies to serve ads on our website. Google's use of the DART cookie enables it to serve ads to our users based on their visit to our site. Users may opt out of the use of the DART cookie by visiting the [Google ad and content network privacy policy](http://www.google.com/privacy/ads/). In addition, Google allows third party advertisers to serve ads on the Google Display Network. Using a tool created by the [Network Advertising Initiative](http://www.networkadvertising.org/), you can [opt out](http://www.networkadvertising.org/managing/opt_out.asp) of several third party ad servers and networks cookies simultaneously.
+Google, as a third party vendor, uses cookies to serve ads on our website. Google's use of the DART cookie enables it to serve ads to our users based on their visit to our site. Users may opt out of the use of the DART cookie by visiting the [Google ad and content network privacy policy](http://www.google.com/privacy/ads/). We also track users information using Google Analytics. Users can optout by [clicking here](https://tools.google.com/dlpage/gaoptout). In addition, Google allows third party advertisers to serve ads on the Google Display Network. Using a tool created by the [Network Advertising Initiative](http://www.networkadvertising.org/), you can [opt out](http://www.networkadvertising.org/managing/opt_out.asp) of several third party ad servers and networks cookies simultaneously.
 
 The Opt-out Tool is cookie-based. In order for the Tool to work on your computer, your browser must be set to accept third party cookies. If you buy a new computer, change web browsers or delete this cookie, you will need to perform the opt-out task again.
 
@@ -67,7 +67,7 @@ By using Fropki, you signify your acceptance of this Privacy Statement. If you a
 
 If you have any questions regarding this privacy policy or information that you have submitted to us you can contact us in any of the methods given below: 
 
-  * [Click here](https://web.archive.org/web/20120214145909id_/http%3A//www.fropki.com/contact.php) to fill in the Contact Us form or 
+  * [Click here](https://web.archive.org/web/20130629190231id_/http%3A//www.fropki.com/contact.php) to fill in the Contact Us form or 
   * Mail us at the following address:   
        'Fropki.com',   
        'SHIVA Computers',   
