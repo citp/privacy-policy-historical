@@ -1,33 +1,29 @@
-> *The following text is extracted and transformed from the gamevid.com privacy policy that was archived on 2011-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111216162739id_/http%3A//gamevid.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gamevid.com privacy policy that was archived on 2013-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130629213930id_/http%3A//www.gamevid.com/policy) for the most accurate reproduction.*
 
-# Games Videos, Video Games clips, game trailers, best gamers at GameVid.com
+# GameVid
 
-The Gamevid privacy policy describes how Gamevid treats personal information when you use the Site services, including information provided when you use Gamevid.com. In addition, the following describes privacy practices specific to Gamevid. To understand how we treat the information you give us as you use Gamevid, you should read this policy.
+#### Privacy policy
 
-## Personal Information
+Gamevid.com is committed to protecting your privacy. This Privacy Policy explains the type of information Gamevid.com collects through its website and what Gamevid.com does with it. Please read the following privacy policy carefully before using the Gamevid.com website. If you use the Gamevid.com website, you will be bound by the terms of this Privacy Policy. This policy may change from time to time so you should check it frequently. Gamevid.com does not attempt to determine the identity of any Gamevid.com user by analyzing Web usage paths. 
 
-  * Non-Account Activity.   You can watch videos on Site without having an Account
-  * Account-Related Activity.  Certain other activities on Site -like posting comments or watching certain restricted videos-require you to have an Account. We ask for some personal information when you create an Account, including your email address and a password, which is used to protect your account from unauthorized access.
-  * Usage Information.  We may record information about your usage, such as when you use the Site, the channels, groups, and favourites you subscribe to, as well as information you display or click on in the Site (including UI elements, settings, and other information). If you are logged in, we may associate that information with your account.
-  * Content Uploaded to Site.  Any personal information or video content that you voluntarily disclose online (on discussion boards, in messages and chat areas, within your playback or profile pages, etc.) becomes publicly available and can be collected and used by others.
+####  What Information Do We Collect?
 
+From time to time we may request that an entity making application for an account with Gamevid.com provide us with certain personal information (such as their name, email address, etc.) in connection with various services offered on our site. We do not collect any personal information except when an individual specifically and knowingly provides such information. When we request information, we explain how this information may be used and give you an opportunity to request that the information not be used for those purposes. We also give you an opportunity to opt out of future communications from us. 
 
+#### Cookies
 
-## Uses
+For account management purposes and like most sites, Gamevid.com uses cookies. Cookies are data files stored on your computer that identify you as a unique user. Cookies enable us to track user trends, preferences and patterns to better understand our user base and to improve the quality of our service. Most browsers permit users to refuse cookies or to be notified before a cookie is accepted. You can visit our site without using cookies.
 
-  * If you submit personally identifiable information to us through the Site, we use your personal information to operate, maintain, and provide to you the features and functionality of the Site, as well as provide special personalized features to you.
-  * Your account name (not your email address) is displayed to other Users when you comment videos through the Site and other Users can contact you through comments. Any videos that you submit to the Site may be redistributed through the internet and other media channels, and may be viewed by the general public.
-  * We do not use your email address or other personally identifiable information to send commercial or marketing messages without your consent or except as part of a specific program or feature for which you will have the ability to opt-in or opt-out. We may, however, use your email address without further consent for non-marketing or administrative purposes (such as notifying you of major Site changes or for customer service purposes).
-  * We use both your personally identifiable information and certain non-personally-identifiable information (such as anonymous User usage data, cookies, IP addresses, browser type, click stream data, etc.) to improve the quality and design of the Site and to create new features, promotions, functionality, and services by storing, tracking, and analyzing User preferences and trends.
-  * We use cookies, clear gifs, and log file information to: (a) store information so that you will not have to re-enter it during your visit or the next time you visit the Site; (b) provide custom, personalized content and information; (c) monitor the effectiveness of our marketing campaigns; (d) monitor aggregate metrics such as total number of visitors, pages viewed, etc.; and (e) track your entries, submissions, and status in promotions, sweepstakes, and contests.
-  * To clean all the information the NAI member ad network stores about you for behavioral advertising purposes you can use Opt-out option. You will still get online advertisements but the network from which you opted out will no longer deliver ads tailored to your Web preferences and usage patterns. More detailed here <http://www.networkadvertising.org/managing/opt_out.asp>. 
+####  Links to Other Sites 
 
+Gamevid.com contains links to other sites. These sites may send their own cookies to users, collect data, or solicit personal information. Since we do not control these sites; we are not responsible or liable for the privacy practices or content of such sites. 
 
+####  With Whom Do We Share Information?
 
-## Your Choices
+Gamevid.com may share non-personal and non-personally identifiable information about our users with advertisers, business partners, sponsors, and other third parties. However, we only divulge aggregate information, such as how often the average user visits Gamevid.com. We will not share personally identifiable information with any third party without your express consent. 
 
-  * You may, of course, decline to submit personally identifiable information through the Site, in which case you can still view videos and explore the Site, but we may not be able to provide certain services to you.
+#### Consent and Changes to this Privacy Statement 
 
+By using our site, you consent to the collection and use of your information as we have outlined in this privacy statement and to our Terms of Service. Gamevid.com may decide to change this privacy statement from time to time. When we do, we will post the changes on this page so that you are always aware of the information we collect, how we use it, and under what circumstances we disclose it.
 
-
-Last updated: April 26th, 2011.
+We use third-party advertising companies to serve ads when you visit our Web site. These companies may use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, [click here](https://web.archive.org/web/20130629213930id_/http%3A//www.gamevid.com/www.networkadvertising.org/choices/). 
