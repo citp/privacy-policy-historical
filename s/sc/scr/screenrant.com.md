@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the screenrant.com privacy policy that was archived on 2012-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121226225931id_/http%3A//screenrant.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the screenrant.com privacy policy that was archived on 2013-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130629201653id_/http%3A//screenrant.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -19,6 +19,8 @@ If you do not want to receive e-mail from us in the future, please let us know b
 Ad Servers: To try and bring you offers that are of interest to you, we have relationships with other companies that we allow to place ads on our Web pages. As a result of your visit to our site, ad server companies may collect information such as your domain type, your IP address and clickstream information. Our advertisers may engage in the collection of non-personally identifiable information about end users by third parties through the use of cookies and pixel tags.
 
 We are participating in the Digital Advertising Alliance’s (DAA) Self-Regulatory Program for Online Behavioral Advertising ([Ad Choices](http://www.aboutads.info/choices/)).
+
+We use third-party advertising companies to serve ads when you visit our Web site. These companies may use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please see: [http://www.networkadvertising.org/managing/opt_out.asp](http://www.networkadvertising.org/managing/opt_out.asp)
 
 For further information, consult the privacy policies of:
 
