@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the tibco.com privacy policy that was archived on 2012-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121103224733id_/http%3A//www.tibco.com/company/privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tibco.com privacy policy that was archived on 2013-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130629152728id_/http%3A//www.tibco.com/company/privacy.jsp) for the most accurate reproduction.*
 
-# TIBCO | Privacy Policy
+# Privacy Policy | TIBCO
 
 TIBCO Software Inc. ("TIBCO" "we" or "us") is committed to protecting our users' privacy. We feel it is important that you fully understand the terms and conditions under which we use the information we gather from you through the use of our Web sites, such as those located at URL [www.tibco.com](http://www.tibco.com/),  [www.tibcommunity.com](http://www.tibcommunity.com/),  [www.tibbr.com](http://www.tibbr.com/),  [www.loyaltylab.com](http://www.loyaltylab.com/),  [www.loyaltylibrary.com](http://www.loyaltylibrary.com/),  and [developer.tibco.com](http://developer.tibco.com/ "developer.tibco.com") (our "Sites") and tibbr® our mobile application (our “Mobile App”). Please read this Privacy Policy ("Policy") carefully to understand how we will use and protect your personal information. We will never share your personal information with anyone except as described in this Policy. Changes to this Policy will be announced on the home page of our Sites and Mobile App so please check back periodically.
 
