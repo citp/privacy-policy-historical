@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the doctortushy.com privacy policy that was archived on 2012-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120526135506id_/http%3A//www.doctortushy.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the doctortushy.com privacy policy that was archived on 2013-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130629072545id_/http%3A//doctortushy.com/privacy.html) for the most accurate reproduction.*
 
 # DoctorTushy.com
 
