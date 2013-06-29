@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the cpagrip.com privacy policy that was archived on 2012-08-19.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120819034041id_/http%3A//www.cpagrip.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the cpagrip.com privacy policy that was archived on 2013-06-29.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130629164949id_/http%3A//cpagrip.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-gb" lang="en-gb"><head>
 	<link href="/favicon.ico" rel="shortcut icon" type="image/x-icon">
@@ -24,8 +24,6 @@
   <link rel="stylesheet" href="/templates/rt_tachyon/css/demo-styles.css" type="text/css">
   <link rel="stylesheet" href="/templates/rt_tachyon/css/splicemenu.css" type="text/css">
   <link rel="stylesheet" href="/templates/rt_tachyon/css/template.css" type="text/css">
-  <link rel="stylesheet" href="/modules/mod_rokajaxsearch/css/rokajaxsearch.css" type="text/css">
-  <link rel="stylesheet" href="/modules/mod_rokajaxsearch/themes/blue/rokajaxsearch-theme.css" type="text/css">
   <style type="text/css">
 #rt-top a, #rt-header a, #rt-navigation a, .menutop ul li > .item:hover, .menutop ul li.active > .item, .menutop ul li.f-menuparent-itemfocus > .item {color:006EB8;}
 a, .readonstyle-link .readon span, .readonstyle-link .readon .button, #more-articles, .roktabs-links ul li.active span, .roktabs-links ul li.active:hover span, .promo .rt-module-surround:hover .title, .newsfeed-content a  {color:#0B86E5;}
@@ -50,7 +48,6 @@ body #rt-logo {width:450px;height:115px;}
   <script src="/libraries/gantry/js/gantry-inputs.js" type="text/javascript"></script>
   <script src="/templates/rt_tachyon/js/gantry-splicemenu-mt1.2.js" type="text/javascript"></script>
   <script src="/templates/rt_tachyon/js/gantry-pillanim-mt1.2.js" type="text/javascript"></script>
-  <script src="/modules/mod_rokajaxsearch/js/rokajaxsearch.js" type="text/javascript"></script>
   <script type="text/javascript">
 window.addEvent('load', function() {
 				new JCaption('img.caption');
@@ -88,41 +85,52 @@ window.addEvent('domready', function() {
 window.addEvent('load', function() {
 });
 
-window.addEvent((window.webkit) ? 'load' : 'domready', function() {
-				window.rokajaxsearch = new RokAjaxSearch({
-					'results': 'Results',
-					'close': '',
-					'websearch': 0,
-					'blogsearch': 0,
-					'imagesearch': 0,
-					'videosearch': 0,
-					'imagesize': 'MEDIUM',
-					'safesearch': 'MODERATE',
-					'search': 'Search...',
-					'readmore': 'Read more...',
-					'noresults': 'No results',
-					'advsearch': 'Advanced search',
-					'page': 'Page',
-					'page_of': 'of',
-					'searchlink': 'http://cpagrip.com/index.php?option=com_search&amp;view=search&amp;tmpl=component',
-					'advsearchlink': 'http://cpagrip.com/index.php?option=com_search&amp;view=search',
-					'uribase': 'http://cpagrip.com/',
-					'limit': '10',
-					'perpage': '3',
-					'ordering': 'newest',
-					'phrase': 'any',
-					'hidedivs': '',
-					'includelink': 1,
-					'viewall': 'View all results',
-					'estimated': 'estimated',
-					'showestimated': 1,
-					'showpagination': 1,
-					'showcategory': 1,
-					'showreadmore': 1,
-					'showdescription': 1
-				});
-			});
   </script>
+	<style>
+		.rt-menubar{
+			height: 35px;
+		}
+		
+		::-webkit-input-placeholder{
+			
+		}
+		:-moz-placeholder{
+			
+		}
+		::-moz-placeholder{
+			
+		}
+		:-ms-input-placeholder{
+			
+		}
+		.input_login{
+			border: 1px solid #BBBBBB;
+    		border-radius: 3px 3px 3px 3px;
+    		vertical-align:middle;
+    		font-size: 12px;
+    		padding: 1px;
+    		background-color:#393A38;
+    		color:white;
+		}
+	</style>
+	<script language="JavaScript">
+		function DetectEnterPressed(e) {
+			var characterCode
+			if(e && e.which){ // NN4 specific code
+				e = e
+				characterCode = e.which
+			}else{
+				e = event
+				characterCode = e.keyCode // IE specific code
+			}
+			if (characterCode == 13){// Enter key is 13
+				document.login_form.submit();
+				return true;
+			}else{
+				return false;
+			}
+		}
+	</script>
 </head>
 	<body class="bodylevel-high modulehover-1 readonstyle-button fixedheader font-family-helvetica font-size-is-default menu-type-splicemenu col12 option-com-content menu-privacy">
 		<div id="rt-page-surround">
@@ -192,13 +200,19 @@ window.addEvent((window.webkit) ? 'load' : 'domready', function() {
 	
 </div>
 								<div class="clear"></div>
+
 								<div style="position:absolute;">
-									<div style="    background: none repeat scroll 0 0 #EAEAEA; border-bottom: 1px solid #FFFFFF; border-radius: 5px 5px 5px 5px; border-top: 1px solid #CCCCCC; left: 793px; padding: 4px 12px; position: relative; top: -121px;">
-										<a style="" href="/admin/?action=register" title="Click here to join our network."><img src="/admin/images/tiny_punch.png" border="0" style="vertical-align: text-bottom;"> Register</a>
-										&nbsp;&nbsp;|&nbsp;&nbsp;
-										<a style="" href="/admin/?action=login" title="Click here to login."><img src="/admin/images/tiny_punch.png" border="0" style="vertical-align: text-bottom;"> Login</a>
+									<div style="font-size:12px; background: none repeat scroll 0 0 #EAEAEA; border-bottom: 1px solid #FFFFFF; border-radius: 5px 5px 5px 5px; border-top: 1px solid #CCCCCC; left: 555px; padding: 1px 2px 0 10px; position: relative; top: -120px;">
+										<form name="login_form" id="login_form" action="/admin/index.php" method="post">
+											<input type="hidden" name="login" value="true">
+											<span style="color: #789A1E; vertical-align:middle; font-weight:bold;">Login </span>
+											<input onkeypress="DetectEnterPressed(event);" name="email" id="user_login" class="input_login" placeholder="Email Address" tabindex="10" type="text" style="width:150px;">
+											<input onkeypress="DetectEnterPressed(event);" name="pwd" id="user_pass" class="input_login" value="" placeholder="Password" tabindex="20" type="password" style="width:125px;">
+											<img style="cursor:pointer; vertical-align:middle;" src="/images/login_small.png" onclick="document.forms['login_form'].submit();">
+										</form>
 									</div>
 								</div>
+
 							</div>
 							
 						</div>
@@ -269,32 +283,7 @@ window.addEvent((window.webkit) ? 'load' : 'domready', function() {
 								</div>
 		            <div class="rt-grid-3 ">
                 <div id="rt-sidebar-a">
-                                        <div class="rt-block">
-				<div class="rt-module-surround">
-										<div class="module-title-surround"><div class="module-title"><h2 class="title">Search Network</h2></div></div>
-	                					<div class="rt-module-inner">
-						<div class="module-content">
-		                	<form name="rokajaxsearch" id="rokajaxsearch" class="blue" action="http://cpagrip.com/" method="get">
-<div class="rokajaxsearch">
-	<div class="roksearch-wrapper">
-		<input id="roksearch_search_str" name="searchword" type="text" class="inputbox" value="Search...">
-	</div>
-	<input type="hidden" name="searchphrase" value="any">
-	<input type="hidden" name="limit" value="20">
-	<input type="hidden" name="ordering" value="newest">
-	<input type="hidden" name="view" value="search">
-	<input type="hidden" name="option" value="com_search">
-
-	
-	<div id="roksearch_results"></div>
-</div>
-<div id="rokajaxsearch_tmp" style="visibility:hidden;display:none;"></div>
-</form>							<div class="clear"></div>
-						</div>
-					</div>
-				</div>
-								            </div>
-        	                <div class="title3 box7">
+                                    <div class="title1 box7">
                     <div class="rt-block">
 				<div class="rt-module-surround">
 										<div class="module-title-surround"><div class="module-title"><h2 class="title">Publisher Features</h2></div></div>
@@ -325,7 +314,7 @@ window.addEvent((window.webkit) ? 'load' : 'domready', function() {
 				</div>
 								            </div>
                 </div>
-		                <div class="title3 box7">
+		                <div class="title1 box7">
                     <div class="rt-block">
 				<div class="rt-module-surround">
 										<div class="module-title-surround"><div class="module-title"><h2 class="title">Network Tools</h2></div></div>
@@ -338,6 +327,34 @@ window.addEvent((window.webkit) ? 'load' : 'domready', function() {
 	<li class="latestnews">
 		<a href="/publishers/15-network-tools/53-rss-offer-feeds" class="latestnews">RSS Offer Feeds</a>
 	</li>
+</ul>							<div class="clear"></div>
+						</div>
+					</div>
+				</div>
+								            </div>
+                </div>
+		                <div class="title1 box7">
+                    <div class="rt-block">
+				<div class="rt-module-surround">
+										<div class="module-title-surround"><div class="module-title"><h2 class="title">Industry News</h2></div></div>
+	                					<div class="rt-module-inner">
+						<div class="module-content">
+		                	<ul class="latestnews">
+<li class="latestnews">
+	<a class="latestnews" style="line-height:15px; font-size:13px; margin-bottom: 5px;" href="/newsread?newsid=1141&amp;title=Twitter Purchases Spindle for Real-Time Local Search">Twitter Purchases Spindle for Real-Time Local Search</a>
+</li>
+<li class="latestnews">
+	<a class="latestnews" style="line-height:15px; font-size:13px; margin-bottom: 5px;" href="/newsread?newsid=1142&amp;title=FTC Cracking Down on Search Engines">FTC Cracking Down on Search Engines</a>
+</li>
+<li class="latestnews">
+	<a class="latestnews" style="line-height:15px; font-size:13px; margin-bottom: 5px;" href="/newsread?newsid=1143&amp;title=Aaron Hernandez – A Chilling Lesson for Affiliates">Aaron Hernandez – A Chilling Lesson for Affiliates</a>
+</li>
+<li class="latestnews">
+	<a class="latestnews" style="line-height:15px; font-size:13px; margin-bottom: 5px;" href="/newsread?newsid=1140&amp;title=Epic Media Group &amp; Kinetic Social Refuse To Pay">Epic Media Group &amp; Kinetic Social Refuse To Pay</a>
+</li>
+<li class="latestnews">
+	<a class="latestnews" style="line-height:15px; font-size:13px; margin-bottom: 5px;" href="/newsread?newsid=1137&amp;title=Google to Kill Payday Loans?">Google to Kill Payday Loans?</a>
+</li>
 </ul>							<div class="clear"></div>
 						</div>
 					</div>
@@ -391,20 +408,20 @@ window.addEvent((window.webkit) ? 'load' : 'domready', function() {
 		                	
 
 <div class="custom">
-	<img src="/images/stories/demo/frontpage/bot-icon1.png" class="png floatright" alt="image" width="72" height="42">
-<p class="nomarginbottom"><em class="bold nobold bot-icon-text" affiliate="" publisher="" testimony<="" em=""></em></p><em class="bold nobold bot-icon-text" affiliate="" publisher="" testimony<="" em="">
-
-<div class="quote-l nomargintop"><div class="quote-r"><em class="nobold">When I started using cpagrip to monetize my website the revenue instantly made our company a success!</em></div></div>
-
-<a href="http://www.cpagrip.com/admin/?action=register" class="readon bot-readon" target="_blank"><span>Join the network!</span></a></em></div><em class="bold nobold bot-icon-text" affiliate="" publisher="" testimony<="" em="">
+	<img src="/images/stories/demo/frontpage/bot-icon1.png" class="png floatright" alt="image" height="42" width="72">
+<p class="nomarginbottom">&nbsp;</p>
+<div class="quote-l nomargintop">
+<div class="quote-r"><em class="nobold">I would like to give a big Thank You to cpagrip for making me so much money!</em></div>
+</div>
+<a href="/admin/?action=register" class="readon bot-readon" target="_blank"><span>Join the network!</span></a></div>
 							<div class="clear"></div>
-						</em></div><em class="bold nobold bot-icon-text" affiliate="" publisher="" testimony<="" em="">
-					</em></div><em class="bold nobold bot-icon-text" affiliate="" publisher="" testimony<="" em="">
-				</em></div><em class="bold nobold bot-icon-text" affiliate="" publisher="" testimony<="" em="">
-								            </em></div><em class="bold nobold bot-icon-text" affiliate="" publisher="" testimony<="" em="">
+						</div>
+					</div>
+				</div>
+								            </div>
         	
-    </em></div><em class="bold nobold bot-icon-text" affiliate="" publisher="" testimony<="" em="">
-</em></div><em class="bold nobold bot-icon-text" affiliate="" publisher="" testimony<="" em="">
+    </div>
+</div>
 <div class="rt-grid-3 rt-omega">
 	<div class="bottomdiv-r">
     	                    <div class="rt-block">
@@ -422,11 +439,11 @@ window.addEvent((window.webkit) ? 'load' : 'domready', function() {
  <!--
  var prefix = '&#109;a' + 'i&#108;' + '&#116;o';
  var path = 'hr' + 'ef' + '=';
- var addy64280 = 's&#117;pp&#111;rt' + '&#64;';
- addy64280 = addy64280 + 'cp&#97;gr&#105;p' + '&#46;' + 'c&#111;m';
- var addy_text64280 = 's&#117;pp&#111;rt' + '&#64;' + 'cp&#97;gr&#105;p' + '&#46;' + 'c&#111;m';
- document.write('<a ' + path + '\'' + prefix + ':' + addy64280 + '\'>');
- document.write(addy_text64280);
+ var addy51344 = 's&#117;pp&#111;rt' + '&#64;';
+ addy51344 = addy51344 + 'cp&#97;gr&#105;p' + '&#46;' + 'c&#111;m';
+ var addy_text51344 = 's&#117;pp&#111;rt' + '&#64;' + 'cp&#97;gr&#105;p' + '&#46;' + 'c&#111;m';
+ document.write('<a ' + path + '\'' + prefix + ':' + addy51344 + '\'>');
+ document.write(addy_text51344);
  document.write('<\/a>');
  //-->\n </script><a href="mailto:support@cpagrip.com">support@cpagrip.com</a><script type="text/javascript">
  <!--
@@ -439,7 +456,14 @@ window.addEvent((window.webkit) ? 'load' : 'domready', function() {
  document.write('span>');
  //-->
  </script></span></p>
-<div class="clear bot-div">&nbsp;</div></div>
+<div class="clear bot-div">&nbsp;</div>
+<span class="st_plusone_large" displaytext="Google +1"></span>
+<span class="st_facebook_large" displaytext="Facebook"></span>
+<span class="st_twitter_large" displaytext="Tweet"></span>
+<span class="st_email_large" displaytext="Email"></span>
+<script type="text/javascript">var switchTo5x=true;</script>
+<script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script>
+<script type="text/javascript">stLight.options({publisher: "1e5fea56-1303-4a3a-919b-7a6a88e6504c"}); </script></div>
 							<div class="clear"></div>
 						</div>
 					</div>
@@ -448,11 +472,11 @@ window.addEvent((window.webkit) ? 'load' : 'domready', function() {
         	
     </div>
 </div>
-								</em></div><em class="bold nobold bot-icon-text" affiliate="" publisher="" testimony<="" em="">
-							</em></div><em class="bold nobold bot-icon-text" affiliate="" publisher="" testimony<="" em="">
+								</div>
+							</div>
 							<div class="clear"></div>
-						</em></div><em class="bold nobold bot-icon-text" affiliate="" publisher="" testimony<="" em="">
-					</em></div><em class="bold nobold bot-icon-text" affiliate="" publisher="" testimony<="" em="">
+						</div>
+					</div>
 																				<div id="rt-copyright">
 						<div class="rt-container">
 							<div class="rt-grid-12 rt-alpha rt-omega">
@@ -465,9 +489,9 @@ window.addEvent((window.webkit) ? 'load' : 'domready', function() {
 							<div class="clear"></div>
 						</div>
 					</div>
-														</em></div><em class="bold nobold bot-icon-text" affiliate="" publisher="" testimony<="" em="">
-							</em></div><em class="bold nobold bot-icon-text" affiliate="" publisher="" testimony<="" em="">
-														</em></div><em class="bold nobold bot-icon-text" affiliate="" publisher="" testimony<="" em="">
+														</div>
+							</div>
+														</div>
 	
 
-</em></body></html>
+</body></html>
