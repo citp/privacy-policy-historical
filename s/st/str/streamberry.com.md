@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the streamberry.com privacy policy that was archived on 2012-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121222004050id_/http%3A//streamberry.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the streamberry.com privacy policy that was archived on 2013-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130629092652id_/http%3A//streamberry.com/privacy) for the most accurate reproduction.*
 
 # Streamberry - Privacy Policy
 
@@ -90,4 +90,4 @@ We may occasionally update this Privacy Policy. When we do, we will indicate the
 
 11.Contacting Streamberry.
 
-If you have any questions regarding this Privacy Policy, please [contact us by clicking here](http://streamberry.com/contactus/)
+If you have any questions regarding this Privacy Policy, please [contact us by clicking here](http://streamberry.com/contact/)
