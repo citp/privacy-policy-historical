@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the totalbeauty.com privacy policy that was archived on 2012-10-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121023085404id_/http%3A//www.totalbeauty.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the totalbeauty.com privacy policy that was archived on 2013-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130629050257id_/http%3A//www.totalbeauty.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy for TotalBeauty.com
 
@@ -146,7 +146,7 @@ We may provide this information in a standardized format that is not specific to
 
 Last updated on March 15, 2012. 
 
-© 2008 - 2012 Total Beauty Media, Inc. All rights reserved.
+© 2008 - 2013 Total Beauty Media, Inc. All rights reserved.
 
 Interest Based Advertising Information and Opt-out 
 
