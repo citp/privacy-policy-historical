@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the w3schools.com privacy policy that was archived on 2012-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121130151021id_/http%3A//www.w3schools.com/about/about_privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the w3schools.com privacy policy that was archived on 2013-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130629123401id_/http%3A//www.w3schools.com/about/about_privacy.asp) for the most accurate reproduction.*
 
 # About Privacy
 
@@ -59,4 +59,18 @@ For any questions about this privacy statement, please contact:
 
 * * *
 
-* * *
+## Your suggestion:
+
+Your E-mail (optional):
+
+Page address:
+
+Description:
+
+Close [X]
+
+## Thank You For Helping Us!
+
+Your message has been sent to W3Schools.
+
+Close [X]
