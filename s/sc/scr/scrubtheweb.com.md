@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the scrubtheweb.com privacy policy that was archived on 2012-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121130101644id_/http%3A//www.scrubtheweb.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the scrubtheweb.com privacy policy that was archived on 2013-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130629150739id_/http%3A//www.scrubtheweb.com/privacy.html) for the most accurate reproduction.*
 
 # Scrub The Web | Privacy Policy
 
@@ -69,8 +69,8 @@ If you have any questions about anything in this Privacy Policy, or about collec
 
 Business and Legal Affairs  
 Scrub The Web  
-1050 E. Ray Rd. #A5-128  
-Chandler, AZ 85225  
+2487 S. Gilbert Rd. #106-176  
+Gilbert, AZ 85295  
 Phone: 480-633-5548  
 Fax: 480.626.8410
 
