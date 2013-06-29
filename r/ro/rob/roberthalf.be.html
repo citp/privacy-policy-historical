@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the roberthalf.be privacy policy that was archived on 2012-11-26.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121126043233id_/http%3A//www.roberthalf.be/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the roberthalf.be privacy policy that was archived on 2013-06-29.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130629090134id_/http%3A//www.roberthalf.be/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 	        
@@ -65,20 +65,20 @@
 	</head>
 	<body><div id="cboxOverlay" style="display: none;"></div><div id="colorbox" style="padding-bottom: 6px; padding-right: 6px; display: none;"><div id="cboxWrapper"><div><div id="cboxTopLeft" style="float: left;"></div><div id="cboxTopCenter" style="float: left;"></div><div id="cboxTopRight" style="float: left;"></div></div><div><div id="cboxMiddleLeft" style="float: left;"></div><div id="cboxContent" style="float: left;"><div id="cboxLoadedContent" class="" style="width: 0px; height: 0px;"></div><div id="cboxLoadingOverlay" class=""></div><div id="cboxLoadingGraphic" class=""></div><div id="cboxTitle" class=""></div><div id="cboxCurrent" class=""></div><div id="cboxSlideshow" class=""></div><div id="cboxNext" class=""></div><div id="cboxPrevious" class=""></div><div id="cboxClose" class=""></div></div><div id="cboxMiddleRight" style="float: left;"></div></div><div><div id="cboxBottomLeft" style="float: left;"></div><div id="cboxBottomCenter" style="float: left;"></div><div id="cboxBottomRight" style="float: left;"></div></div></div><div style="position:absolute; top:0; left:0; width:9999px; height:0;"></div></div>
 		
-<!-- BEGIN DATALICIOUS INCLUDES -->
-	<script type="text/javascript">
-		/* The Datalicious cache buster generates a date stamp that is added to the web-tracking.js file request below to avoid caching */
-		var cbd=new Date();
-		cbd=cbd.getUTCDate().toString()+cbd.getUTCHours().toString();
-		
-		/* The datalicious.js file loads all other web analytics files including the Omniture s_code.js */
-		document.write('<scr'+'ipt type="text/javascript" src="/iz/scripts/datalicious.js?cb='+cbd+'"></scr'+'ipt>')
-	</script><script type="text/javascript" src="/iz/scripts/datalicious.js?cb=310"></script>
-	<script type="text/javascript">
-		/* The Datalicious top d.t() function is defined in the webtracking.js file and triggers all web analytics server requests including the Omniture s.t function */		
-		if (typeof d != 'undefined') if(typeof d.t == 'function') d.t();
-	</script>
+<!-- BEGIN DATALICIOUS INCLUDES --> 
+<script type="text/javascript"> 
+/* The Datalicious cache buster generates a date stamp that is added to the web-tracking.js file request below to avoid caching */ 
+var cbd=new Date(); 
+cbd=cbd.getUTCDate().toString()+cbd.getUTCHours().toString(); 
+/* The datalicious.js file loads all other web analytics files including the Omniture s_code.js */ 
+document.write('<scr'+'ipt type="text/javascript" src="/iz/scripts/datalicious.js?cb='+cbd+'"></scr'+'ipt>') 
+</script><script type="text/javascript" src="/iz/scripts/datalicious.js?cb=310"></script> 
+<script type="text/javascript"> 
+/* The Datalicious top _dt.t() function is defined in the webtracking.js file and triggers all web analytics server requests including the Omniture s.t function */ 
+if (typeof _dt != 'undefined') if(typeof _dt.t == 'function') _dt.t(); 
+</script> 
 <!-- END DATALICIOUS INCLUDES -->
+
 
 
 
@@ -90,7 +90,7 @@
 scTrackDomain=scCheckDomain();
 localPageName="";
 if (scTrackDomain == 'yes') {
-	s.pageName="rh:be:en:legal info:privacy statement";
+	_sc.pageName="rh:be:en:legal info:privacy statement";
 	localPageName="rh:be:en:legal info:privacy statement";
 }
 </script>
@@ -156,8 +156,12 @@ function changeLanguage(language){
 	// declare object
     var queryObj = {};
     var finalQueryStr="?";
-    // loop through each name-value pair and populate object
-    for ( var i=0; i<querystring.length; i++ ) {
+
+	//mere presence of the function doJobSearchSubmit() determines the user wants to change the language from the job search page 
+	//and we do special processing for that
+    if(window.doJobSearchSubmit == undefined){
+    	// loop through each name-value pair and populate object
+    	for ( var i=0; i<querystring.length; i++ ) {
           // get name and value          
           var name = querystring[i].split('=')[0];
           var value = querystring[i].split('=')[1];
@@ -171,15 +175,22 @@ function changeLanguage(language){
               	else          
               		finalQueryStr=finalQueryStr+name+"="+value;
             }
-    }   
-        //append lng
-        if(querystring.length >1)
-            finalQueryStr=finalQueryStr+"&lng="+language;
-        else
-            finalQueryStr="?lng="+language;
-            
+    	}
+  		//append lng
+    	if(querystring.length >1){
+        	finalQueryStr=finalQueryStr+"&lng="+language;
+    	}else{
+        	finalQueryStr="?lng="+language;
+    		}
+        
 		var newURL = window.location.protocol + "//" + window.location.host + window.location.pathname + finalQueryStr;	
 		window.location.href=newURL;
+	
+    }else{
+    	var newURL = window.location.protocol + "//" + window.location.host + "/"+"jobs?lng="+language;
+    	window.location.href=newURL;
+    }   
+        
 }
 </script>
 
@@ -252,7 +263,7 @@ function changeLanguage(language){
 
 
 	<div class="shareControl">
-		<p><!-- Facebook --><a href="https://www.facebook.com/sharer.php?u=http://www.roberthalf.be/portal/site/rh-be/menuitem.313f0a1247007e97e7dfed10c3809fa0/&amp;t=Site map" target="_blank"><img src="http://www.roberthalf.net/iz/images/icons/fb-16.gif" alt="Share on facebook"></a><!-- Twitter --><a href="https://twitter.com/share?text=Site map http://www.roberthalf.be/portal/site/rh-be/menuitem.313f0a1247007e97e7dfed10c3809fa0/" target="_blank"><img src="http://www.roberthalf.net/iz/images/icons/twitter-16.png" alt="Share on Twitter"></a><!-- LinkedIn --><a href="http://www.linkedin.com/shareArticle?mini=true&amp;url=http://www.roberthalf.be/portal/site/rh-be/menuitem.313f0a1247007e97e7dfed10c3809fa0/&amp;title=Site map&amp;summary=Robert Half - Site map&amp;source=Robert Half" target="_blank"><img src="http://www.roberthalf.net/iz/images/icons/linkedin-16.png"></a><!-- Google+ --><a href="https://plus.google.com/share?url=http://www.roberthalf.be/portal/site/rh-be/menuitem.313f0a1247007e97e7dfed10c3809fa0/" target="_blank"><img src="http://www.roberthalf.net/iz/images/icons/google-plus-16.png"></a></p>
+		<!--AddThis Button BEGIN --><div class="addthis_toolbox addthis_default_style"><a class="addthis_button_google_plusone" g:plusone:annotation="none"></a> <a class="addthis_button_facebook"></a> <a class="addthis_button_twitter"> </a><a class="addthis_button_linkedin"></a><a class="addthis_button_compact"></a></div><p><script type="text/javascript">var addthis_config = {data_use_cookies:false};</script><script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js#pubid=izroberthalf"></script></p><!-- AddThis Button END -->
 	</div>
 
 	<!-- SHARE CONTROL END -->
@@ -490,7 +501,47 @@ function changeLanguage(language){
 
 
 		<div><div><div class="skin_blank"><h1>Privacy Statement</h1>
-This website ("Site") privacy statement ("Statement") describes how Robert Half&nbsp;SPRL ("We", "we", or "RH") may use and disclose personally identifiable information that we may collect about you through the Site ("Personal Data").<br> Robert Half SPRL (Alfons Gossetlaan 28A, box 7; 1702 Groot-Bijgaarden) is responsible for the processing of your Personal Data, collected through this Site.<br> By using this Site, you agree with the processing of your Personal Data in accordance with and as described in this Statement. <h5><b>Collections and Uses of Personal Data</b></h5> <p>When you use or register with the Site, we may ask for certain Personal Data. The categories of Personal Data we may request include your name and contact information (email, address and phone number). Depending on the nature of your inquiry or activities on the Site, we may also ask for your job search criteria and preferences, your employment experience, educational history, your skills, your salary, expectations, personality, references information, background information, other information contained in your resume, and any login ID and password created by you.<br> Information about your health and/or court/criminal record is processed in accordance with the restrictions imposed by law and only if it is relevant to your application. If you provide Robert Half SPRL with information about third parties, Robert Half SPRL will assume that the third party in question has given you permission to do so and to Robert Half to collect, to process and to transfer their Personal Data to the same extent as yours.</p> <p>The Site also utilizes cookies to track your online activities, including, but not limited to, registration, submissions, and information requests. A cookie is a small text file placed on your hard drive by our web page server. You can choose whether or not to use a cookie by altering the settings of your browser. A cookie will make the use of this Site faster and easier.<br> You are giving Robert Half SPRL permission to get in touch with the references you provided and to collect, process, transfer and use your Personal Data, including sensitive data, within the meaning described above, for such period as needed for achieving the purposes as set forth above</p> <p>You declare that all information which you have provided or will provide to Robert Half SPRL is true, correct and not misleading. Should any of this information change, you shall inform Robert Half SPRL without any delay <b>.</b></p> <h5><b>Purposes of the processing of Personal Data</b></h5> <p>Robert Half SPRL will process your Personal Data within the context of private employment mediation (temporary employment and/or recruitment), for the purpose of producing statistics and complying with regulations and to otherwise to provide you with requested information or services. Robert Half SPRL may also use these Personal Data to inform you about its products and services unless you expressly state your opposition to this.</p> <p>By accepting our Terms and Conditions you authorise Robert Half SPRL to use your Personal Data for the purpose of sending you automated email messages or other electronic messages or marketing materials regarding our services, including employment information. You always have the opportunity to choose to no longer receive such messages or other direct marketing information by contacting Robert Half BVBA/SPRL via the following e-mail address: <a href="mailto:reactions@rhi.net">reactions@rhi.net</a> or on the above mentioned postal address.</p> <h5><b>Disclosures of Personal Data</b></h5> <p>RHI may disclose Personal Data to third parties including intra-group. The disclosure to third parties would occur in the following circumstances.<br> We will disclose information to our clients where necessary and appropriate in connection with the provision of staffing services.<br> We may disclose information to companies and individuals we employ to perform business functions and services on our behalf. Such functions may include, for example, hosting our Web servers, analyzing data, providing legal, accounting and marketing services.</p> <p>We may disclose information to the extent necessary or appropriate to government agencies, advisors, and other third parties in order to comply with applicable laws, the service of legal process, or if we reasonably believe that such action is necessary to (a) comply with the law requiring such disclosure; (b) protect the rights or property of RHI or its affiliated companies; (c) prevent a crime or protect national security or (d) protect the personal safety of the users or the public.</p> <h5><b>Transfer of Personal Data outside the European Economic Area ("EEA")</b></h5> <p>Robert Half SPRL is part of an international group of companies operating globally; Robert Half SPRL may also communicate your Personal Data to third parties and other group companies of Robert Half, including its parent company Robert Half International Inc. in the United States, who may use or process your Personal Data for the same purpose as described above.</p> <p>You are giving Robert Half SPRL permission to transfer your collected and held Personal Data to any country, including countries outside the EEA, which may not have an adequate level of data protection, for any of the purposes as described in this Statement.</p> <h5><b>Right of access to and correction of Personal Data</b></h5> <p>If you wish to make use of your right to consult and correct your Personal Data, to object against the use of your Personal Data for direct marketing purposes or if you have any other questions in connection with their being processed, please get in touch with Robert Half SPRL; Alfons Gossetlaan 28A, box 7; 1702 Groot-Bijgaarden.</p> <h5><b>Revisions to the Statement</b></h5> <p>If we change this privacy statement we will post any updates here for your review. If we change material terms in this Statement, we will provide notice of the revised statement for 30 days on the home page at <a href="http://www.roberthalf.be/" target="_blank">www.roberthalf.be</a> with a link back to this page.</p></div></div>
+<p>This website ("Site") privacy statement ("Statement") describes how Robert Half BVBA/SPRL ("We", "we", or "RH") may use and disclose personally identifiable information that we may collect about you through the Site ("Personal Data").<br>
+Robert Half BVBA/SPRL (Alfons Gossetlaan 28A, box 7; 1702 Groot-Bijgaarden) is responsible for the processing of your Personal Data, collected through this Site.<br>
+By using this Site, you agree with the processing of your Personal Data in accordance with and as described in this Statement.</p>
+
+<h5><b>Collections and Uses of Personal Data</b></h5>
+
+<p>When you use or register with the Site, we may ask for certain Personal Data. The categories of Personal Data we may request include your name and contact information (email, address and phone number). Depending on the nature of your inquiry or activities on the Site, we may also ask for your job search criteria and preferences, your employment experience, educational history, your skills, your salary, expectations, personality, references information, background information, other information contained in your resume, and any login ID and password created by you.<br>
+Information about your health and/or court/criminal record is processed in accordance with the restrictions imposed by law and only if it is relevant to your application. If you provide Robert Half BVBA/SPRL with information about third parties, Robert Half BVBA/SPRL will assume that the third party in question has given you permission to do so and to Robert Half to collect, to process and to transfer their Personal Data to the same extent as yours.</p>
+
+<p>The Site also utilizes cookies to track your online activities, including, but not limited to, registration, submissions, and information requests. A cookie is a small text file placed on your hard drive by our web page server. You can choose whether or not to use a cookie by altering the settings of your browser. A cookie will make the use of this Site faster and easier.<br>
+You are giving Robert Half BVBA/SPRL permission to get in touch with the references you provided and to collect, process, transfer and use your Personal Data, including sensitive data, within the meaning described above, for such period as needed for achieving the purposes as set forth above</p>
+
+<p>You declare that all information which you have provided or will provide to Robert Half BVBA/SPRL is true, correct and not misleading. Should any of this information change, you shall inform Robert Half BVBA/SPRL without any delay <b>.</b></p>
+
+<h5><b>Purposes of the processing of Personal Data</b></h5>
+
+<p>Robert Half BVBA/SPRL will process your Personal Data within the context of private employment mediation (temporary employment and/or recruitment), for the purpose of producing statistics and complying with regulations and to otherwise to provide you with requested information or services. Robert Half BVBA/SPRL may also use these Personal Data to inform you about its products and services unless you expressly state your opposition to this.</p>
+
+<p>By accepting our Terms and Conditions you authorise Robert Half BVBA/SPRL to use your Personal Data for the purpose of sending you automated email messages or other electronic messages or marketing materials regarding our services, including employment information. You always have the opportunity to choose to no longer receive such messages or other direct marketing information by contacting Robert Half BVBA/SPRL via the following e-mail address: <a href="mailto:reactions@rhi.net">reactions@rhi.net</a> or on the above mentioned postal address.</p>
+
+<h5><b>Disclosures of Personal Data</b></h5>
+
+<p>RHI may disclose Personal Data to third parties including intra-group. The disclosure to third parties would occur in the following circumstances.<br>
+We will disclose information to our clients where necessary and appropriate in connection with the provision of staffing services.<br>
+We may disclose information to companies and individuals we employ to perform business functions and services on our behalf. Such functions may include, for example, hosting our Web servers, analyzing data, providing legal, accounting and marketing services.</p>
+
+<p>We may disclose information to the extent necessary or appropriate to government agencies, advisors, and other third parties in order to comply with applicable laws, the service of legal process, or if we reasonably believe that such action is necessary to (a) comply with the law requiring such disclosure; (b) protect the rights or property of RHI or its affiliated companies; (c) prevent a crime or protect national security or (d) protect the personal safety of the users or the public.</p>
+
+<h5><b>Transfer of Personal Data outside the European Economic Area ("EEA")</b></h5>
+
+<p>Robert Half BVBA/SPRL is part of an international group of companies operating globally; Robert Half BVBA/SPRL may also communicate your Personal Data to third parties and other group companies of Robert Half, including its parent company Robert Half International Inc. in the United States, who may use or process your Personal Data for the same purpose as described above.</p>
+
+<p>You are giving Robert Half BVBA/SPRL permission to transfer your collected and held Personal Data to any country, including countries outside the EEA, which may not have an adequate level of data protection, for any of the purposes as described in this Statement.</p>
+
+<h5><b>Right of access to and correction of Personal Data</b></h5>
+
+<p>If you wish to make use of your right to consult and correct your Personal Data, to object against the use of your Personal Data for direct marketing purposes or if you have any other questions in connection with their being processed, please get in touch with Robert Half BVBA/SPRL; Alfons Gossetlaan 28A, box 7; 1702 Groot-Bijgaarden.</p>
+
+<h5><b>Revisions to the Statement</b></h5>
+
+<p>If we change this privacy statement we will post any updates here for your review. If we change material terms in this Statement, we will provide notice of the revised statement for 30 days on the home page at <a target="_blank" href="http://www.roberthalf.be/">www.roberthalf.be</a> with a link back to this page.</p></div></div>
 </div>
 
 	  
@@ -605,7 +656,7 @@ This website ("Site") privacy statement ("Statement") describes how Robert Half&
 
 
 <script language="JavaScript">
-	var totalJobs = '502';
+	var totalJobs = '849';
 	if (document.getElementById('divfortotaljobs')){
 		document.getElementById('divfortotaljobs').innerHTML = totalJobs;
 	}
@@ -778,8 +829,8 @@ This website ("Site") privacy statement ("Statement") describes how Robert Half&
 	</tbody></table>
 </div>
 <div id="footer-bottom">
-	<p class="links"><a href="/website-terms">Website terms of use</a> | <a href="/privacy">Privacy statement</a> | <a href="/ro-candidates">R&amp;O candidates</a> | <a href="/corporate-info">Corporate info</a> | <a href="/sitemap">Site map</a></p>
-	<p class="copyright">© 2012 Robert Half International. All rights reserved.</p>
+	<p class="links"><a href="/website-terms">Website terms of use</a> | <a href="/website-terms#cookies">Cookies</a> | <a href="/privacy">Privacy statement</a> | <a href="/ro-candidates">R&amp;O candidates</a> | <a href="/corporate-info">Corporate info</a> | <a href="/sitemap">Site map</a></p>
+	<p class="copyright">© 2013 Robert Half International. All rights reserved.</p>
 </div></div>
 </div>
 
@@ -827,11 +878,11 @@ This website ("Site") privacy statement ("Statement") describes how Robert Half&
 <!-- End Google analytics -->
 
 
-		
-<script type="text/javascript">
-/* The Datalicious bottom d.b() function is defined in web-tracking.js, triggers all web analytics server requests including the Omnitures.t function */
-if (typeof d != 'undefined') if(typeof d.b == 'function') d.b();
-</script>
+<script type="text/javascript"> 
+/* The Datalicious bottom _dt.b() function is defined in web-tracking.js, triggers all web analytics server requests including the Omnitures.t function */ 
+if (typeof _dt != 'undefined') if(typeof _dt.b == 'function') _dt.b(); 
+</script>		
+
 
 		
 
@@ -848,28 +899,24 @@ if (typeof d != 'undefined') if(typeof d.b == 'function') d.b();
 				<li><a href="http://www.roberthalf.com.br/"><img src="/iz/images/flags/BR_flag.gif" style="border-width:0"> Brazil</a></li>
 				<li><a href="http://www.roberthalf.com/"><img src="/iz/images/flags/CA_flag.gif" style="border-width:0"> Canada (en)</a></li>
 				<li><a href="http://www.roberthalf.ca/"><img src="/iz/images/flags/blank_flag.gif" style="border-width:0"> Quebec (en-fr)</a></li>
-                                <li><a href="http://www.roberthalf.cl/"><img src="/iz/images/flags/CL_flag.gif" style="border-width:0"> Chile</a></li>
-				<li><a href="http://www.roberthalf.cn/"><img src="/iz/images/flags/CN_flag.gif" style="border-width:0"> China</a></li>
-			   
-			    
+                <li><a href="http://www.roberthalf.cl/"><img src="/iz/images/flags/CL_flag.gif" style="border-width:0"> Chile</a></li>
 		   	</ul>
 		</div>
 		<div class="column">
 			<ul>
-                                <li><a href="http://www.roberthalf.cz/"><img src="/iz/images/flags/CZ_flag.gif" style="border-width:0"> Czech Republic</a></li>				
-                                <li><a href="http://www.roberthalf.fr/"><img src="/iz/images/flags/FR_flag.gif" style="border-width:0"> France</a></li>			
+				<li><a href="http://www.roberthalf.cn/"><img src="/iz/images/flags/CN_flag.gif" style="border-width:0"> China</a></li>
+                <li><a href="http://www.roberthalf.fr/"><img src="/iz/images/flags/FR_flag.gif" style="border-width:0"> France</a></li>			
 				<li><a href="http://www.roberthalf.de/"><img src="/iz/images/flags/DE_flag.gif" style="border-width:0"> Germany</a></li>
 				<li><a href="http://www.roberthalf.com.hk/"><img src="/iz/images/flags/HK_flag.gif" style="border-width:0"> Hong Kong</a></li>
 				<li><a href="http://www.roberthalf.it/"><img src="/iz/images/flags/IT_flag.gif" style="border-width:0"> Italy</a></li>
 			   	<li><a href="http://www.roberthalf.jp/"><img src="/iz/images/flags/JP_flag.gif" style="border-width:0"> Japan</a></li>
-			        <li><a href="http://www.roberthalf.lu/"><img src="/iz/images/flags/LU_flag.gif" style="border-width:0"> Luxembourg</a></li>
-			   
+			    <li><a href="http://www.roberthalf.lu/"><img src="/iz/images/flags/LU_flag.gif" style="border-width:0"> Luxembourg</a></li>
 			</ul>
 		</div>
 		<div class="column">
 			<ul>
-                                <li><a href="http://www.roberthalf.nl/"><img src="/iz/images/flags/NL_flag.gif" style="border-width:0"> Netherlands</a></li>				
-                                <li><a href="http://www.roberthalf.co.nz/"><img src="/iz/images/flags/NZ_flag.gif" style="border-width:0"> New Zealand</a></li>
+                <li><a href="http://www.roberthalf.nl/"><img src="/iz/images/flags/NL_flag.gif" style="border-width:0"> Netherlands</a></li>				
+                <li><a href="http://www.roberthalf.co.nz/"><img src="/iz/images/flags/NZ_flag.gif" style="border-width:0"> New Zealand</a></li>
 				<li><a href="http://www.roberthalf.com.sg/"><img src="/iz/images/flags/SG_flag.gif" style="border-width:0"> Singapore</a></li>
 				<li><a href="http://www.roberthalf.ch/"><img src="/iz/images/flags/CH_flag.gif" style="border-width:0"> Switzerland</a></li>
 				<li><a href="http://www.roberthalf.ae"><img src="/iz/images/flags/AE_flag.gif" style="border-width:0"> UAE</a></li>
@@ -878,4 +925,4 @@ if (typeof d != 'undefined') if(typeof d.b == 'function') d.b();
 			</ul>
 		</div>
 	</div>
-</div><div class="anylinkshadow" style="width: 412px; height: 241px; opacity: 0.3;"></div></body></html>
+</div><div class="anylinkshadow" style="width: 412px; height: 215px; opacity: 0.3;"></div></body></html>
