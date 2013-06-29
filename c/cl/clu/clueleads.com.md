@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the clueleads.com privacy policy that was archived on 2012-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121223071358id_/http%3A//clueleads.com/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the clueleads.com privacy policy that was archived on 2013-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130629234512id_/http%3A//www.clueleads.com/Privacy.aspx) for the most accurate reproduction.*
 
 # mlm,India mlm news,mlm classifieds,India mlm companies,networker views,mlm articles,mlm directory,mlm software,Network marketing in Andhrapradesh,India
 
@@ -24,6 +24,4 @@ Users of this Site may contact [clueleads.com](http://www.clueleads.com/) to mod
 |   
 ---  
   
-[](http://www.elitebiz.in/)  
-  
-[](http://www.parivar.in/)
+[](http://www.royalrecharge.in/)
