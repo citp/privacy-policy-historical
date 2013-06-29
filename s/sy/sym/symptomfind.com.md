@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the symptomfind.com privacy policy that was archived on 2012-10-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121018194032id_/http%3A//www.symptomfind.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the symptomfind.com privacy policy that was archived on 2013-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130629023744id_/http%3A//www.symptomfind.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy - Symptom Find
 
@@ -46,5 +46,3 @@ SymptomFind.com
 PO Box 168  
 Monrovia, CA 91017  
 E-Mail: [contact us](https://web.archive.org/contact.html)
-
-Note: The information provided on this site is for informational purposes only, and it may be provided by third parties. The owners, operators, and contributors of this site do not guarantee the accuracy, completeness, and compliance of the content on this site and shall not be responsible and liable for your reliance on information contained on and linked from this site. Such content is not and shall not be deemed tax, legal, financial, professional medical, or other advice, and we encourage you to confirm the accuracy of the content. The content on this site is not intended to be a substitute for medical treatment by a qualified healthcare provider, and we hope that when necessary you seek advice from your doctor(s) or other qualified healthcare provider(s) and that in cases of a medical emergency you call 9-1-1. References or links to a site, product, company, and/or organization from this site are not endorsements and/or recommendations of those sites, products, companies, and material contained on those sites. You use this site and the contents herein at your own risk. Use of this site shall be deemed acceptance of the above.
