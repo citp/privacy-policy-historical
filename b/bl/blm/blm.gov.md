@@ -1,10 +1,8 @@
-> *The following text is extracted and transformed from the blm.gov privacy policy that was archived on 2012-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121125064112id_/http%3A//www.doi.gov/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the blm.gov privacy policy that was archived on 2013-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130629092151id_/http%3A//www.doi.gov/privacy.cfm) for the most accurate reproduction.*
 
 # Privacy Policy
 
-[Updated February 24, 2012]
-
-Thank you for visiting the Department of the Interior website and reviewing our privacy policy.   How we handle information we learn about you from your visit to our website depends upon what you do when visiting our site.
+Thank you for visiting the Department of the Interior website and reviewing our privacy policy.   How we handle information we learn about you from your visit to our website depends upon what you do when visiting our site. 
 
 #### Information Collected and Stored Automatically 
 
