@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the astrid.com privacy policy that was archived on 2012-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121223191600id_/http%3A//astrid.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the astrid.com privacy policy that was archived on 2013-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130629193546id_/http%3A//astrid.com/privacy) for the most accurate reproduction.*
 
 # Astrid - Privacy Policy
 
@@ -85,4 +85,4 @@ Attn: Privacy Policy Officer
 660 4th Street #259   
 San Francisco, CA 94107   
 Email: [compliance.officer@todoroo.com](mailto:compliance.officer@todoroo.com)   
-Telephone: 1-888-832-7251 
+Telephone: 1-415-364-8308 
