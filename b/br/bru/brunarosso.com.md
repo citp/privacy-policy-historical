@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the brunarosso.com privacy policy that was archived on 2012-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121011235931id_/http%3A//www.brunarosso.com/page/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the brunarosso.com privacy policy that was archived on 2013-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130629194615id_/http%3A//www.brunarosso.com/page/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - BRUNAROSSO Italian Luxury Shop - CUNEO - Prada Gucci Miu Miu Tod's Hogan Shoes Handbags
+# Privacy Policy - Italian Fashion Shopping - Worldwide Shipping
 
 We are committed to protecting and respecting your privacy.
 
