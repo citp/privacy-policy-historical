@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the slowfoodusa.org privacy policy that was archived on 2012-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121221173146id_/http%3A//www.slowfoodusa.org/index.php/about_us/details/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the slowfoodusa.org privacy policy that was archived on 2013-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130629213754id_/http%3A//www.slowfoodusa.org/index.php/about_us/details/privacy_policy) for the most accurate reproduction.*
 
 # About Us : Slow Food USA
 
@@ -8,11 +8,11 @@
 
 ## CONSUMER CHOICE
 
-We believe a visitor to our site is the one to best determine: 
+We believe a visitor to our site is the one to best determine:
 
-  * When—and under what conditions—to provide “personally identifiable information” (e.g. data that may be used to identify, contact, or locate a person). 
+  * When—and under what conditions—to provide “personally identifiable information” (e.g. data that may be used to identify, contact, or locate a person).
 
-  * When such information may be shared with other organizations. 
+  * When such information may be shared with other organizations.
 
   * When to remain anonymous.
 
@@ -20,15 +20,15 @@ We believe a visitor to our site is the one to best determine:
 
 ## Informed Consent
 
-If personally identifiable information is collected, we believe a visitor to our site has the right to: 
+If personally identifiable information is collected, we believe a visitor to our site has the right to:
 
-  * Know when we are collecting personal information. 
+  * Know when we are collecting personal information.
 
-  * Know what personal information is collected, and the purpose of collection. 
+  * Know what personal information is collected, and the purpose of collection.
 
-  * Expect the opportunity to choose whether or not personal information will be provided to any third parties. 
+  * Expect the opportunity to choose whether or not personal information will be provided to any third parties.
 
-  * Expect reasonable steps to be taken to protect personal information from unauthorized use. 
+  * Expect reasonable steps to be taken to protect personal information from unauthorized use.
 
   * Review the accuracy of personal information and update it.
 
