@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the benchmarkemail.com privacy policy that was archived on 2012-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121231024049id_/http%3A//www.benchmarkemail.com/email-marketing/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the benchmarkemail.com privacy policy that was archived on 2013-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130629224850id_/http%3A//www.benchmarkemail.com/email-marketing/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Benchmark Email
 
@@ -7,6 +7,8 @@
 #### Privacy Policy for Benchmark Email
 
 Effective Date: 12/14/2012
+
+[](http://privacy.truste.com/privacy-seal/Benchmark-Internet-Group/validation?rid=9e3387aa-5104-4306-8e12-0b31721a51fc "Validate TRUSTe privacy certification")
 
 Welcome to Benchmark Email, owned and operated by Benchmark Internet Group, LLC (herein after referred to as "Benchmark," "company," "us," "we," and/or "our").
 
