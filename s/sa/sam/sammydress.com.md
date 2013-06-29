@@ -1,13 +1,15 @@
-> *The following text is extracted and transformed from the sammydress.com privacy policy that was archived on 2012-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121206052546id_/http%3A//www.sammydress.com/m-article-id-27.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sammydress.com privacy policy that was archived on 2013-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130629225927id_/http%3A//www.sammydress.com/m-article-id-27.html) for the most accurate reproduction.*
 
 # Privacy Policy - Sammydress.com
 
 Sammydress.com respect the privacy of our visitors/customers, which is extremely important to us. We take your online safety seriously. To better serve you and to make you understand how your information is used on our site, we have explained our privacy policy below. **1.The information we collect**  
-We believe it’s important for you to know what types of information we collect when you use our site. The information includes your Email, Name, Company Name, Street Address, Post Code, City, Country, Telephone Number, Password and so on. We collect this information in several different ways; to begin with, we use cookies that are needed to compile and aggregate non-personally identifiable information about the visitors to our web site. Personally identifiable information consists of information that is unique to you, such as credit card number and bank account numbers. The information is unique to you. **2.The use of information**  
+We believe it's important for you to know what types of information we collect when you use our site. The information includes your Email, Name, Company Name, Street Address, Post Code, City, Country, Telephone Number, Password and so on. We collect this information in several different ways; to begin with, we use cookies that are needed to compile and aggregate non-personally identifiable information about the visitors to our web site. Personally identifiable information consists of information that is unique to you, such as credit card number and bank account numbers. The information is unique to you. **2.The use of information**  
 Help us make this site easier for you to use by not having to enter information more than once.  
 Helps you quickly locate information, products, and services.  
 Helps us create content on this site that is most relevant to you.  
-Alert you to new information, products, and services that we offer.  
+Alert you to new information, products, and services that we offer.
+
+After registering, you will receive our newsletters with information about sales, coupons, and special promotions. You can unsubscribe by using the link from any email newsletter or your personal subscribe setting after logged in.   
  **Registration and Ordering:**  
 During registration, you will be prompted to provide us your name, shipping and billing address, phone number, email address and credit card number. In addition, we may also ask you for your country so that we can comply with applicable laws and regulations, and we might also ask for your gender. These types of personal information are used for billing purposes, to fulfill your orders, to communicate with you about your order and our site, and for internal marketing purposes. If we encounter a problem when processing your order, we may use the personal information you provide us with to contact you.  
  **Email Addresses:**  
@@ -21,7 +23,9 @@ Transaction mail, Shipping notification, Weekly deal, Promotion, Activity,
  **Address and Email**  
 417 Mace Blvd, Ste. J, #338 Davis, CA 95616 USA.  
 +1 909-581-9508  
-[support@sammydress.com](http://www.sammydress.com/eload_admin/mailto;support@sammydress.com)
+[Support@sammydress.com](mailto:%20support@sammydress.com)
+
+Note：This address does not accept returns
 
  **How do I unsubscribe?**  
 You can unsubscribe by using the link from any email newsletter or your personal subscribe setting after logged in.
