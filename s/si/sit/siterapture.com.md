@@ -1,8 +1,7 @@
-> *The following text is extracted and transformed from the siterapture.com privacy policy that was archived on 2012-09-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120922160612id_/http%3A//www.siterapture.com/privacypolicy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the siterapture.com privacy policy that was archived on 2013-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130630000943id_/http%3A//siterapture.com/privacypolicy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy - SiteRapture
 
-  
 SiteRapture.com (SR) aims to be the leading research and discovery service (social researching) bridging the gap between online consumers and the myriad of web-based products and services available to consumers. 
 
 SiteRapture Inc. has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses our information gathering and dissemination practices for the SiteRapture.com Web site. No third parties are involved in these practices. This document was last updated on September 1, 2007.
