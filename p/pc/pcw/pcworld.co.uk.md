@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pcworld.co.uk privacy policy that was archived on 2012-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121113090431id_/http%3A//www.pcworld.co.uk/gbuk/privacy_on_pc_world-157-commercial.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pcworld.co.uk privacy policy that was archived on 2013-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130629110606id_/http%3A//www.pcworld.co.uk/gbuk/privacy_on_pc_world-157-commercial.html) for the most accurate reproduction.*
 
 # Cookie Guide & Privacy Information | PC World
 
@@ -7,65 +7,67 @@
   * [](http://www.pcworld.co.uk/gbuk/s/home.html)
   * [**Laptops**](http://www.pcworld.co.uk/gbuk/laptops-netbooks-72-u.html)
     * [Laptops](http://www.pcworld.co.uk/gbuk/laptops-netbooks/laptops-703-c.html)
-    * [MacBooks](http://www.pcworld.co.uk/gbuk/apple-laptops/703_7009_70009_xx_xx/xx-criteria.html)
-    * [Mobile Broadband](http://www.pcworld.co.uk/gbuk/pay-as-you-go-mobile-broadband/801_7301_70362_xx_xx/xx-criteria.html)
+    * [MacBooks](http://www.pcworld.co.uk/gbuk/laptops-netbooks/laptops/apple-laptops/703_7009_70009_xx_xx/xx-criteria.html)
+    * [Mobile Broadband](http://www.pcworld.co.uk/gbuk/broadband-sat-nav-phones/mobile-phones-broadband/pay-as-you-go-mobile-broadband/801_7301_70362_xx_xx/xx-criteria.html)
     * [Laptop Accessories](http://www.pcworld.co.uk/gbuk/laptops-netbooks/laptop-bags-netbook-cases-705-c.html)
-    * [Clearance]()
-    * [Feature]()
+    * Clearance
+    * Feature
   * [**Desktops**](http://www.pcworld.co.uk/gbuk/desktop-pc-monitors-73-u.html)
     * [Desktop PCs](http://www.pcworld.co.uk/gbuk/desktop-pc-monitors/desktop-pcs-706-c.html)
-    * [Monitors](http://www.pcworld.co.uk/gbuk/pc-monitors/708_7030_70030_xx_xx/xx-criteria.html)
+    * [Monitors](http://www.pcworld.co.uk/gbuk/desktop-pc-monitors/monitor-projectors/pc-monitors/708_7030_70030_xx_xx/xx-criteria.html)
     * [Projectors](http://www.pcworld.co.uk/gbuk/desktop-pc-monitors/monitor-projectors/projectors-7032-m.html)
-    * [Clearance]()
-    * [Feature]()
+    * Clearance
+    * Feature
   * [**iPads & Tablets**](http://www.pcworld.co.uk/gbuk/laptops-netbooks-72-u.html)
-    * [Apple iPad](http://www.pcworld.co.uk/gbuk/apple-ipad/889_7550_70700_xx_xx/xx-criteria.html)
-    * [Tablets](http://www.pcworld.co.uk/gbuk/tablets/889_7505_70535_xx_xx/xx-criteria.html)
-    * [eReaders](http://www.pcworld.co.uk/gbuk/ereaders/889_7485_70515_xx_xx/xx-criteria.html)
+    * [Apple iPad](http://www.pcworld.co.uk/gbuk/laptops-netbooks/ipad-tablets-and-ereaders/apple-ipad/889_7550_70700_xx_xx/xx-criteria.html)
+    * [Tablets](http://www.pcworld.co.uk/gbuk/laptops-netbooks/ipad-tablets-and-ereaders/tablets/889_7505_70535_xx_xx/xx-criteria.html)
+    * [eReaders](http://www.pcworld.co.uk/gbuk/laptops-netbooks/ipad-tablets-and-ereaders/ereaders/889_7485_70515_xx_xx/xx-criteria.html)
     * [Mobile Broadband](http://www.pcworld.co.uk/gbuk/pay-as-you-go-mobile-broadband/801_7301_70362_xx_xx/xx-criteria.html)
-    * [Feature]()
+    * Feature
   * [**Software**](http://www.pcworld.co.uk/gbuk/software-gaming-books-79-u.html)
-    * [Antivirus & security](http://www.pcworld.co.uk/gbuk/internet-security-antivirus/740_7129_70138_xx_xx/xx-criteria.html)
+    * [Antivirus & security](http://www.pcworld.co.uk/gbuk/software-gaming-books/software/business-home-office/internet-security-antivirus/740_7129_70138_xx_xx/xx-criteria.html)
     * [Business & Home Office](http://www.pcworld.co.uk/gbuk/software-gaming-books/software/business-home-office-7129-m.html)
     * [Music and Video](http://www.pcworld.co.uk/gbuk/software-gaming-books/software/creativity-7685-m.html)
     * [ Education & Reference](http://www.pcworld.co.uk/gbuk/software-gaming-books/software/leisure-education-reference-7130-m.html)
-    * [Games](http://www.pcworld.co.uk/gbuk/pc-games/742_7316_70378_xx_xx/xx-criteria.html)
-    * [Clearance]()
-    * [Feature]()
+    * [Games](http://www.pcworld.co.uk/gbuk/software-gaming-books/gaming/pc-games/742_7316_70378_xx_xx/xx-criteria.html)
+    * Clearance
+    * Feature
   * [**Printers & Office**](http://www.pcworld.co.uk/gbuk/printers-ink-74-u.html)
     * [Printers](http://www.pcworld.co.uk/gbuk/printers-ink/printers-scanners-709-c.html)
-    * [Scanners](http://www.pcworld.co.uk/gbuk/scanners/709_7368_70457_xx_xx/xx-criteria.html)
+    * [Scanners](http://www.pcworld.co.uk/gbuk/printers-ink/printers-scanners/scanners/709_7368_70457_xx_xx/xx-criteria.html)
     * [Ink, Toner & Paper](http://www.pcworld.co.uk/gbuk/printers-ink/ink-toner-711-c.html)
     * [Networking](http://www.pcworld.co.uk/gbuk/networking/networking-727-c.html)
     * [Office Supplies](http://www.pcworld.co.uk/gbuk/office-supplies/office-supplies-756-c.html)
-    * [Feature]()
+    * Feature
   * [**Accessories**](http://www.pcworld.co.uk/gbuk/pc-accessories-78-u.html)
-    * [iPad & Tablet Accessories](http://www.pcworld.co.uk/gbuk/apple-accessories/805_7310_70371_xx_xx/xx-criteria.html)
+    * [iPad & Tablet Accessories](http://www.pcworld.co.uk/gbuk/pc-accessories/apple-accessories/apple-accessories/805_7310_70371_xx_xx/xx-criteria.html)
     * [Laptop Accessories](http://www.pcworld.co.uk/gbuk/laptops-netbooks/laptop-bags-netbook-cases-705-c.html)
-    * [Keyboards, Mice & Smart Pens](http://www.pcworld.co.uk/gbuk/mice/729_7101_70110_xx_xx/xx-criteria.html)
+    * [Keyboards, Mice & Smart Pens](http://www.pcworld.co.uk/gbuk/pc-accessories/mice/mice/729_7101_70110_xx_xx/xx-criteria.html)
     * [Webcams, Headsets & Speakers](http://www.pcworld.co.uk/gbuk/pc-accessories/webcams-headsets-728-c.html)
     * [Cables and Power Accessories](http://www.pcworld.co.uk/gbuk/pc-accessories/cables-and-power-accessories-735-c.html)
     * [Music and Video](http://www.pcworld.co.uk/gbuk/pc-accessories/music-and-video-transfer-739-c.html)
     * [PC Gaming Accessories](http://www.pcworld.co.uk/gbuk/pc-accessories/pc-gaming-accessories-731-c.html)
-    * [Clearance]()
-    * [Feature]()
-  * [**Drives & Storage**](http://www.pcworld.co.uk/gbuk/data-storage-76-u.html)
+    * [Mobile Phone Accessories](http://www.pcworld.co.uk/gbuk/mobile-phone-accessories/801_7565_70719_xx_xx/xx-criteria.html)
+    * Clearance
+    * Feature
+  * [**Network & Storage**](http://www.pcworld.co.uk/gbuk/data-storage-76-u.html)
     * [Networking](http://www.pcworld.co.uk/gbuk/networking/networking-727-c.html)
     * [External Hard Drives](http://www.pcworld.co.uk/gbuk/data-storage/hard-drives-720-c.html)
     * [Internal Hard Drives](http://www.pcworld.co.uk/gbuk/components-upgrades/internal-hard-drives-715-c.html)
-    * [USB flash drives](http://www.pcworld.co.uk/gbuk/portable-usb-memory-sticks/721_7069_70076_xx_xx/xx-criteria.html)
+    * [USB flash drives](http://www.pcworld.co.uk/gbuk/data-storage/portable-usb-memory-sticks/portable-usb-memory-sticks/721_7069_70076_xx_xx/xx-criteria.html)
     * [ Blu-ray & DVD Drives](http://www.pcworld.co.uk/gbuk/components-upgrades/cd-dvd-blu-ray-drives-714-c.html)
     * [Blank media](http://www.pcworld.co.uk/gbuk/data-storage/cds-dvds-blu-ray-discs-725-c.html)
-    * [Clearance]()
-    * [Feature]()
+    * [Mobile Broadband](http://www.pcworld.co.uk/gbuk/broadband-sat-nav-phones/mobile-phones-broadband-801-c.html)
+    * Clearance
+    * Feature
   * [**Upgrades**](http://www.pcworld.co.uk/gbuk/components-upgrades-75-u.html)
     * [Graphic & Sound Cards](http://www.pcworld.co.uk/gbuk/components-upgrades/sound-interface-cards-717-c.html)
     * [Memory](http://www.pcworld.co.uk/gbuk/components-upgrades/memory-713-c.html)
     * [Processors & Motherboards](http://www.pcworld.co.uk/gbuk/components-upgrades/processors-motherboards-719-c.html)
     * [Hard Drives & Storage](http://www.pcworld.co.uk/gbuk/components-upgrades/internal-hard-drives-715-c.html)
     * [Cases, Power & Cables](http://www.pcworld.co.uk/gbuk/components-upgrades/other-components-718-c.html)
-    * [Clearance]()
-    * [Feature]()
+    * Clearance
+    * Feature
   * [**TV, Audio & Photo**](http://www.pcworld.co.uk/gbuk/tv-dvd-audio-80-u.html)
     * [Televisions](http://www.pcworld.co.uk/gbuk/tv-dvd-audio/televisions-743-c.html)
     * [Blu-ray, DVD & Home Cinema](http://www.pcworld.co.uk/gbuk/tv-dvd-audio/dvd-blu-ray-home-cinema-745-c.html)
@@ -75,8 +77,8 @@
     * [Audio](http://www.pcworld.co.uk/gbuk/tv-dvd-audio/audio-747-c.html)
     * [Gaming](http://www.pcworld.co.uk/gbuk/software-gaming-books/gaming-742-c.html)
     * [Sat Nav](http://www.pcworld.co.uk/gbuk/broadband-sat-nav-phones/sat-nav-900-c.html)
-    * [Clearance]()
-    * [Feature]()
+    * Clearance
+    * Feature
 
 
 
@@ -86,17 +88,29 @@
 
 Browse Services __
 
+  * What are Cookies?
+  *  
+  * PC World Cookies
+  *  
+  * Cookies & Your Computer
+  *  
+  * Advertising
+  *  
+  * Privacy on PC World
+
+
+
 ### Computing Cookies
 
-When you are browsing websites on the internet, many of these websites store tiny text files called cookies on your computer, to help track your use of the site and to personalise your journey around the website. These cookies can be stored so that if you return to a website, that website server can call the information from the cookies stored on your computer to tailor your experience of the site.
+When you are browsing websites on the internet, many of these websites store tiny text files called cookies on your computer, to help track your use of the site and to personalise your journey around the website. These cookies can be stored so that if you return to a website, that website server can call the information from the cookies stored on your computer to tailor your experience of the site. 
 
-PCWorld.co.uk is no different, we use cookies to help you shop our website more effectively and to place online orders - **we do not store personally identifiable information in our cookie data**. We also use some carefully selected 3rd party suppliers to enhance your online experience and they will place cookies on your computer for use on our website too. >
+PCWorld.co.uk is no different, we use cookies to help you shop our website more effectively and to place online orders - **we do not store personally identifiable information in our cookie data**. We also use some carefully selected 3rd party suppliers to enhance your online experience and they will place cookies on your computer for use on our website too. 
 
-Cookies are perfectly safe to be stored on your computer and almost all web browsers have cookie storing enabled as default. However, all browsers have the option of disabling cookies being stored on your computer if you wish to do this.
+Cookies are perfectly safe to be stored on your computer and almost all web browsers have cookie storing enabled as default. However, all browsers have the option of disabling cookies being stored on your computer if you wish to do this. 
 
-**Please be aware** that disabling cookies on your browser will reduce your ability to shop online with PCWorld.co.uk. We use cookies to process products in your basket and orders. Disabling your cookies will mean you cannot purchase through our website. This would also be a common experience of reduced functionality across many websites.
+**Please be aware** that disabling cookies on your browser will reduce your ability to shop online with PCWorld.co.uk. We use cookies to process products in your basket and orders. Disabling your cookies will mean you cannot purchase through our website. This would also be a common experience of reduced functionality across many websites. 
 
-To learn about how change the cookie settings for your browser on our Cookies & Your Computer page.
+To learn about how change the cookie settings for your browser on our Cookies & Your Computer page. 
 
 Recent legislation from the European Union has meant that websites must provide clear information about their use of cookies to their customers, something we at PC World fully support. We want to ensure that you, as our valued customer, are fully aware of the use of cookies on our website, and we are proud of our reputation as a transparent and honest retailer that you can trust.
 
