@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gumtree.com.au privacy policy that was archived on 2012-10-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121021120234id_/https%3A//help.gumtree.com.au/knowledgebase.php%3Farticle%3D121) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gumtree.com.au privacy policy that was archived on 2013-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130629062458id_/https%3A//help.gumtree.com.au/knowledgebase.php%3Farticle%3D121) for the most accurate reproduction.*
 
 # Gumtree Australia - Gumtree Privacy Policy
 
@@ -41,7 +41,7 @@ This privacy policy describes how the Gumtree website, tools, applications, and 
 
 **Registration and sharing through third-party services**. Gumtree may offer single sign-on services that allow you to use third party login credentials to sign into Gumtree, With your permission, Gumtree may also transfer profile information contained in your third-party profile. Gumtree may also, for your use, enable you to import information about who you are connected, as well as enable you to share information with those third-party sites (other than listings), at your discretion. If you wish to discontinue you such sharing, you will be able to do so through your preference page.
 
-**Communications and email tools**. You agree to receive marketing communications from us unless you tell us that you prefer not to receive such communications. If you don't wish to receive marketing communications from us, simply indicate your preference by following directions provided with the communication. You may not use our site or communication tools to harvest addresses, send spam or otherwise breach our Terms of Use or Privacy Policy. Gumtree may automatically scan and manually filter email messages sent via our communication tools for malicious activity or prohibited content, but Gumtree does not permanently store such messages. If you use our tools to send content to a friend, Gumtree doesn't permanently store your friends; addresses or use or disclose them for marketing purposes. To report spam from other users, please contact [**customer support**](https://help.gumtree.com.au/index.php?a=add).
+**Communications and email tools**. You agree to receive marketing communications from us unless you tell us that you prefer not to receive such communications. If you don't wish to receive marketing communications from us, simply indicate your preference by following directions provided with the communication. You may not use our site or communication tools to harvest addresses, send spam or otherwise breach our Terms of Use or Privacy Policy. Gumtree may automatically scan and manually filter email messages sent via our communication tools for malicious activity or prohibited content, but Gumtree does not permanently store such messages. Your message will be emailed to the poster and not made public. If you use our tools to send content to a friend, Gumtree doesn't permanently store your friends; addresses or use or disclose them for marketing purposes. To report spam from other users, please contact [**customer support**](https://help.gumtree.com.au/index.php?a=add).
 
 **Access, Modification, and Deletion**. You can see, modify or erase most of your personal information by reviewing and modifying your posting or account status page, by signing on to “My Gumtree” or by contacting [**customer support**](https://help.gumtree.com.au/index.php?a=add) to review any personal information Gumtree stores that is not available on Gumtree. There may be a charge associated with such requests but these will not exceed the amounts permitted by law. Gumtree deletes personal information when Gumtree no longer need it for the purposes we described earlier. Gumtree retains personal information as permitted by law to resolve disputes, enforce our policies; and prevent bad guys from coming back. If you have further questions, you can write to the Data Controller:
 
@@ -75,10 +75,10 @@ Was this article helpful? [yes](javascript:void\(0\)) / [no](javascript:void\(0\
 
 | Article ID:  | 121  
 ---|---  
-Topic:  | [Gumtree Policies](https://web.archive.org/web/20121021120234id_/https%3A//help.gumtree.com.au/knowledgebase.php?category=5)  
+Topic:  | [Gumtree Policies](https://web.archive.org/web/20130629062458id_/https%3A//help.gumtree.com.au/knowledgebase.php?category=5)  
 Date added:  | 2009-09-29 10:07:35  
-Views:  | 129113  
-Rating (Votes): |  (7123)  
+Views:  | 270645  
+Rating (Votes): |  (7622)  
   
    
 « Go back
