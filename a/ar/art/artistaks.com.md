@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the artistaks.com privacy policy that was archived on 2012-10-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121006015043id_/http%3A//www.artistaks.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the artistaks.com privacy policy that was archived on 2013-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130629044129id_/http%3A//www.artistaks.com/privacy-policy) for the most accurate reproduction.*
 
 # Free Article Directory | Submit Articles - Artistaks.com
 
