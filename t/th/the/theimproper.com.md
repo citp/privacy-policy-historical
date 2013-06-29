@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the theimproper.com privacy policy that was archived on 2012-08-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120831185614id_/http%3A//www.theimproper.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theimproper.com privacy policy that was archived on 2013-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130629072659id_/http%3A//www.theimproper.com/privacy) for the most accurate reproduction.*
 
-# Privacy | TheImproper.com
+# Privacy — TheImproper.com: Breaking News on Pop Culture, Arts, Music, Theater, Film, TV & Fashion
 
 Please read this statement carefully before accessing and using TheImproper.com. Your use of TheImproper.com indicates your agreement to abide by the Terms in effect.
 
@@ -50,4 +50,4 @@ If you have any questions or suggestions regarding our privacy policy, please co
 
 **DMCA Compliance  
 **  
-TheImproper is fully compliant with the Digital Millennium Copyright Act. If material is posted on this site on which you believe you hold a copyright, please contact us immediately and accept our assurance and our apologies that the material was posted in error and without knowledge of the said copyright and will be removed immediately upon notification in accordance with Title 17, United States Code, Section 512(c)(1) also known as the Safe Harbor provision of the Act. Contact: Keith Girard at kgirard@theimproper.com, or by calling 646-246-4477, if you any questions or claims regarding this notice. 
+TheImproper is fully compliant with the Digital Millennium Copyright Act. If material is posted on this site on which you believe you hold a copyright, please contact us immediately and accept our assurance and our apologies that the material was posted in error and without knowledge of the said copyright and will be removed immediately upon notification in accordance with Title 17, United States Code, Section 512(c)(1) also known as the Safe Harbor provision of the Act. Contact: Keith Girard at kgirard@theimproper.com, or by calling 646-246-4477, if you any questions or claims regarding this notice.
