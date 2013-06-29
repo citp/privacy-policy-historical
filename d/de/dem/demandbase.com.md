@@ -1,10 +1,12 @@
-> *The following text is extracted and transformed from the demandbase.com privacy policy that was archived on 2012-10-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121012085940id_/http%3A//www.demandbase.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the demandbase.com privacy policy that was archived on 2013-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130630010051id_/http%3A//www.demandbase.com/who-is-demandbase/about-demandbase/privacy) for the most accurate reproduction.*
 
-# Privacy Policy » Demandbase.com
+# Privacy :: Demandbase :: B2B Marketing, Account-Based Targeting and Personalization Platform
+
+## Privacy Policy
 
 ### Driving stronger privacy across the industry is an essential part of the Demandbase strategy.
 
-We do this by helping marketers better target their audience and optimize their web experience. Demandbase solutions are focused on improving marketing results and lowering the costs associated with marketing and selling.
+Demandbase is a Real-time Targeting and Personalization platform for B2B. Demandbase works by identifying the companies that are visiting a website, and then by making that insight actionable in your existing Marketing and Sales programs and technologies. Demandbase offers Company-Targeted display advertising, website engagement and conversion modules, and CRM integration for a consistent view of account behavior across our client's digital presence. The Demandbase platform does this without placing cookies on browser hard drives and without the use of behavioral targeting or any personally identifiable information about a web visitor. “Personally Identifiable Information” means any information that identifies you personally, including, without limitation, your name, e-mail address, password, login ID and other contact information that you voluntarily submit to us. Demandbase does not use cookies for ad serving.
 
 **Anti-Abuse**
 
@@ -14,35 +16,35 @@ If you suspect a client of abusing our services, please contact us at [abuse@de
 
 Demandbase has aligned with recognized leaders in the digital and direct marketing industry and hopes to influence how practices are shaped in the future. Please contact us at [privacy@demandbase.com](mailto:privacy@demandbase.com) to learn more.
 
-### Non-Personally Identifiable Information
+**Cookies**
 
-When you are on one of the Demandbase partner websites, Demandbase collects certain Non-Personally Indentifiable Information (PII), including but not limited to your browser type and your operating system. In addition, the sites in the network collect information about your browsing behavior, such as the date and time you visit the websites, the ads that were on pages you visited, and other click-stream data, none of which includes personal information about you. Finally, Demandbase may collect Non-PII about your IP address, such as where your computer is located or what domain it is using to access the internet.
+Demandbase does employ cookies at Demandbase.com in order for its server to recognize a return visitor as a unique user. Cookies are small text files placed in the 'Cookies' folder on a visitor's hard disk and allow Demandbase to remember the visitor. The cookies placed by the Demandbase server are readable only by Demandbase, and cookies cannot access, read or modify any other data on a computer. All web-browsers offer the option to refuse any cookie. If a visitor refuses the Demandbase cookie, Demandbase does not gather any information on that visitor, but doing so will require you to re-enter certain information at each visit, or prevent us from customizing the site's features according to your preferences. You may also delete a cookie manually from your hard drive. Cookies themselves do not contain any personal information. We do not link the information we store in cookies to any personally identifiable information you submit while on our site.
 
-### How Demandbase uses and protects your personal information.
+### **How Demandbase uses and protects your personal information.**
 
 **Scope**
 
-This privacy policy describes how we handle the personal information that you supply to us and/or concerning your use of our services available through the [www.demandbase.com](http://www.demandbase.com/) Web site (the “Site”) and applies generally to any affiliated Web sites. By accepting the Privacy Policy and the User Agreement in registration, you expressly consent to our collection, storage, use and disclosure of your personal information as described in this Privacy Policy.
+This privacy policy describes how we handle the personal information that you supply to us and/or concerning your use of our services available through the [www.demandbase.com](http://www.demandbase.com/page-not-found/) Web site (the “Site”) and applies generally to any affiliated Web sites. By accepting the Privacy Policy and the User Agreement in registration, you expressly consent to our collection, storage, use and disclosure of your personal information as described in this Privacy Policy.
 
 This Privacy Policy is effective on August 1, 2006 for any current users, and upon acceptance for all new users.
 
 **Collection of Personal Information**
 
-You can browse the Demandbase site without telling us who you are or revealing any personal information about yourself. Once you give us your personal information, you are no longer anonymous to us. If you choose to provide us with personal information, you consent to the transfer and storage of that information to our servers located in the United States.
+The Demandbase Site will gather information such as what kind of browser visitors are on, what operating system they are using, their IP address, cookie information, time stamp (time page accessed as well as timespent per web page) and their clickstream information (for example, which pages they have viewed and how long they have been there). Note that information is only gathered while the visitor is on the Site. Demandbase monitors how a visitor arrives at the Site, but cannot and will not gather information about other third party sites the user has visited. Demandbase automatically receives and records such information on our server logs from your browser.
 
-We may collect and store the following information: 
+In certain sections of the Site, Demandbase may invite you to contact us to pose questions, request information, or complete a registration form. We may ask for Personally Identifiable Information to beentered as a means of registration before accessing a certain part of the Site.
 
-  * email address, physical contact information, and, depending on the requirements of the service used financial information, such as credit card or payment methods; 
-  * transactional information based on your activities on the Site (including but not limited to purchases you make, purchase content, and searches conducted, as related to your account activity); 
-  * billing and other information you provide to access our site and/or content;
-  * correspondence through the Site, and correspondence sent to us;
-  * computer sign-on data, statistics on page views, traffic to and from the Site, ad data and other information, including IP addresses and standard Web log information; and supplemental information from third parties.
+Visitors of the Site can also choose not to enter any of their Personally Identifiable Information.
 
+Demandbase may also collect Personally Identifiable Information when you use certain Demandbase services, through the use of the Site or hypersite web pages, or when you enter promotions or contests offered by Demandbase on and through the Site.
 
+When you visit the Demandbase Websites, we collect information, including PII that you provide, in order to provide you with the products and services you requested or with offers or promotions that may interest you, service your accounts, and save you time and better respond to your needs.
+
+Use of the Demandbase platform on a client website is subject to the client's privacy statement and will apply to their use of PII. Please consult with our client's privacy policy if you have questions about the client's use of the Demandbase platform or your PII within their Site.
 
 **Marketing**
 
-We don't sell or rent the personal information we collect from your using our Site to third parties for their marketing purposes without your explicit consent. We may combine your information with information we collect from other companies (such as demographic data) to improve and personalize the services provided to you. If you don't wish to receive marketing communications from us, simply "unsubscribe" located at the end of all marketing communication.
+We don't sell or rent the personal information we collect from your using our Site to third parties for their marketing purposes. We may combine your information with information we collect from other companies (such as demographic data) to improve and personalize the services provided to you. If you don't wish to receive marketing communications from us, simply "unsubscribe" from email communication using the link located at the end of all marketing communication.
 
 **Use of Information**
 
@@ -69,40 +71,9 @@ Our primary purpose in collecting personal information is to provide you with an
 
 Without limiting the above, in an effort to respect your privacy we will not otherwise disclose your personal information except when we believe in good faith that the disclosure of information is necessary to prevent imminent physical harm or financial loss or to report suspected illegal activity. ** **
 
-**Cookies**  
-
-We use "cookies" (small files placed on your hard drive) on certain pages of the Demandbase Site to help analyze our Web page flow, customize our services, measure promotional effectiveness, and promote trust and safety. We use cookies to provide services to you.
-
-A few important things you should know about cookies:
-
-  *  we use cookies to help identify you and maintain your signed-in status;
-  * most cookies are "session cookies" meaning that they are automatically deleted from your hard drive at the end of a session;
-  * you are always free to decline our cookies if your browser permits, although doing so may interfere with your use of the Site. 
-
-
-
- Cookies allow:
-
-  * you to enter your password less frequently during your use of the Site;
-  * us to provide information that is targeted to your interests;
-  * us to promote and enforce trust and safety;
-  * us to offer certain features that are only available through the use of cookies;
-  * us to measure promotional effectiveness;
-  * us to analyze our Web page flow.
-
-
-
-You are always free to decline cookies if your browser permits. However, if you decline cookies, you may not be able to use certain features on the Site, and you may be required to reenter your password more frequently while using the Site.
-
-When you are on one of the Demandbase partner websites, we do not collect cookies nor use them for ad serving.
-
 **Account Protection**
 
 Your password is the key to your account. We recommend the use of unique numbers, letters, and special characters in combination and that you not disclose your Demanbase password to anyone. If you do share your password or your personal information with others, remember that you are responsible for all actions taken in the name of your account. If you lose control of your password, you may lose substantial control over your personal information and may be subject to legally binding actions taken on your behalf. Therefore, if your password has been compromised for any reason, you should immediately notify us and change your password. 
-
-**Accessing, Reviewing and Changing Your Personal Information**
-
-You can see, review and change most of your personal information by logging into the Site. Generally, we will not manually modify your personal information because it is very difficult to verify your identity remotely. You must promptly update your personal information if it changes or is inaccurate. Upon your request, we will close your account and remove your personal information from view as soon as reasonably possible, based on your account activity and in accordance with applicable law. We do retain personal information from closed accounts in order to comply with applicable law, prevent fraud, collect any fees owed, resolve disputes, troubleshoot problems, assist with investigations, enforce our User Agreement, and take other actions permitted by law with respect to the account maintenance and management.
 
 **Security**
 
