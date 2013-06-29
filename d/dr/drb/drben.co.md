@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the drben.co privacy policy that was archived on 2012-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121223114614id_/http%3A//benadkins.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the drben.co privacy policy that was archived on 2013-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130629035705id_/http%3A//benadkins.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy « The Official Blog of Dr. Ben Adkins
 
