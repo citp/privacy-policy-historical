@@ -1,0 +1,486 @@
+<!--The following is the downloaded HTML source of the oceanclubwest.com privacy policy that was archived on 2013-06-29.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130629023321id_/http%3A//oceanclubresorts.com/privacy-policy) for the most accurate reproduction.-->
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head>
+<link rel="shortcut icon" href="http://www.oceanclubresorts.com/favicon.ico">
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+	
+		<link rel="stylesheet" href="http://oceanclubresorts.com/new/wp-content/themes/ocr/css/template_css.css" type="text/css" media="screen">
+	    <link rel="stylesheet" href="http://oceanclubresorts.com/new/wp-content/themes/ocr/css/calendar-brown.css" type="text/css" media="screen">
+    <link rel="stylesheet" type="text/css" href="http://oceanclubresorts.com/new/wp-content/themes/ocr/css/calendar-brown.css" title="win2k-cold-1">
+	<link rel="stylesheet" href="http://oceanclubresorts.com/new/wp-content/themes/ocr/scripts/lightbox.css" type="text/css" media="screen">
+	<link rel="stylesheet" href="http://oceanclubresorts.com/new/wp-content/themes/ocr/css/lytebox.css" type="text/css" media="screen">
+
+	<script type="text/javascript" language="javascript" src="http://oceanclubresorts.com/new/wp-content/themes/ocr/scripts/lytebox.js"></script>
+	<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.4/jquery.min.js"></script>
+	<script type="text/javascript" src="http://oceanclubresorts.com/new/wp-content/themes/ocr/scripts/AC_RunActiveContent.js"></script>
+	<script type="text/javascript" src="http://oceanclubresorts.com/new/wp-content/themes/ocr/scripts/AC_OETags.js"></script>
+	<script type="text/javascript" src="http://oceanclubresorts.com/new/wp-content/themes/ocr/scripts/calendar.js"></script>
+	<script type="text/javascript" src="http://oceanclubresorts.com/new/wp-content/themes/ocr/scripts/calendar-setup.js"></script>
+	<script type="text/javascript" src="http://oceanclubresorts.com/new/wp-content/themes/ocr/scripts/calendar-en.js"></script>
+	
+	
+    
+
+
+<script type="text/javascript">
+
+//returns true if user is using one of the following mobile browsers
+var ismobile=navigator.userAgent.match(/(iPad)|(iPhone)|(iPod)|(android)|(webOS)/i)
+//alert(navigator.userAgent);
+
+			              var BrowserDetect = {
+                  init: function () {
+                      this.browser = this.searchString(this.dataBrowser) || "An unknown browser";
+                      this.version = this.searchVersion(navigator.userAgent)
+   || this.searchVersion(navigator.appVersion)
+   || "an unknown version";
+                      this.OS = this.searchString(this.dataOS) || "an unknown OS";
+                  },
+                  searchString: function (data) {
+                      for (var i = 0; i < data.length; i++) {
+                          var dataString = data[i].string;
+                          var dataProp = data[i].prop;
+                          this.versionSearchString = data[i].versionSearch || data[i].identity;
+                          if (dataString) {
+                              if (dataString.indexOf(data[i].subString) != -1)
+                                  return data[i].identity;
+                          }
+                          else if (dataProp)
+                              return data[i].identity;
+                      }
+                  },
+                  searchVersion: function (dataString) {
+                      var index = dataString.indexOf(this.versionSearchString);
+                      if (index == -1) return;
+                      return parseFloat(dataString.substring(index + this.versionSearchString.length + 1));
+                  },
+                  dataBrowser: [
+  {
+      string: navigator.userAgent,
+      subString: "Chrome",
+      identity: "Chrome"
+  },
+  { string: navigator.userAgent,
+      subString: "OmniWeb",
+      versionSearch: "OmniWeb/",
+      identity: "OmniWeb"
+  },
+  {
+      string: navigator.vendor,
+      subString: "Apple",
+      identity: "Safari",
+      versionSearch: "Version"
+  },
+  
+      {
+      string: navigator.userAgent,
+      subString: "Safari",
+      identity: "Safari",
+      identity: "Safari"
+  },
+ 
+  
+        {
+      string: navigator.userAgent,
+      subString: "AppleWebKit",
+      identity: "AppleWebKit",
+      identity: "AppleWebKit"
+  },
+  
+  {
+      prop: window.opera,
+      identity: "Opera"
+  },
+  {
+      string: navigator.vendor,
+      subString: "iCab",
+      identity: "iCab"
+  },
+  {
+      string: navigator.vendor,
+      subString: "KDE",
+      identity: "Konqueror"
+  },
+  {
+      string: navigator.userAgent,
+      subString: "Firefox",
+      identity: "Firefox"
+  },
+  {
+      string: navigator.vendor,
+      subString: "Camino",
+      identity: "Camino"
+  },
+  {  // for newer Netscapes (6+)
+      string: navigator.userAgent,
+      subString: "Netscape",
+      identity: "Netscape"
+  },
+  {
+      string: navigator.userAgent,
+      subString: "MSIE",
+      identity: "Explorer",
+      versionSearch: "MSIE"
+  },
+  {
+      string: navigator.userAgent,
+      subString: "Gecko",
+      identity: "Mozilla",
+      versionSearch: "rv"
+  },
+  {   // for older Netscapes (4-)
+      string: navigator.userAgent,
+      subString: "Mozilla",
+      identity: "Netscape",
+      versionSearch: "Mozilla"
+  }
+ ],
+                  dataOS: [
+  {
+      string: navigator.platform,
+      subString: "Win",
+      identity: "Windows"
+  },
+  {
+      string: navigator.platform,
+      subString: "Mac",
+      identity: "Mac"
+  },
+  {
+      string: navigator.platform,
+      subString: "iPhone",
+      identity: "iPhone/iPod"
+  },
+  
+  	{
+      string: navigator.platform,
+      subString: "iPad",
+      identity: "iPad"
+  },
+  
+  {
+      string: navigator.platform,
+      subString: "Linux",
+      identity: "Linux"
+  }
+ ]
+
+              };
+              BrowserDetect.init();
+
+
+         
+$(document).ready(function(){
+//alert(navigator.userAgent);
+//alert(navigator.platform);
+//alert (navigator.vendor);
+
+	if(navigator.userAgent.indexOf('Chrome')>-1){
+		//alert("this is Chrome");
+		$("#flashcontent").remove();
+		$("#ipad").remove();
+		$("#iphone").remove();
+		}
+		
+	if(navigator.userAgent.indexOf('Firefox')>-1){
+		//alert("this is Firefox");
+		$("#chrome").remove();
+		$("#ipad").remove();
+		$("#iphone").remove();
+		}
+	
+	if(navigator.userAgent.indexOf('MSIE')>-1){
+		//alert("this is MSIE");
+		$("#chrome").remove();
+		$("#ipad").remove();
+		$("#iphone").remove();
+		}
+	
+	if(navigator.userAgent.indexOf('Safari')>-1 && navigator.platform.indexOf("iPad")<0 && navigator.platform.indexOf("iPhone")<0){
+		//alert("this is Safari");
+		//$("#chrome").remove();
+		$("#flashcontent").remove();
+		$("#iphone").remove();
+		$("#ipad").remove();
+		}
+	
+	if(navigator.platform.indexOf("iPad")>-1){
+		//alert("this is an iPad");
+		$("#chrome").remove();
+		$("#flashcontent").remove();
+		$("#iphone").remove();
+		}
+		
+	if(navigator.platform.indexOf("iPhone")>-1){
+		//alert("this is an iPhone");
+		$("#chrome").remove();
+		$("#flashcontent").remove();
+		$("#ipad").remove();
+		}	
+
+}
+);			 
+
+	
+</script>
+
+<!--
+<script type="text/javascript">
+// CALENDAR DATE SAVE and AUTOFILL
+   var uarrivalDate = "u.arrivalDate";
+   var udepartureDate = "u.departureDate";
+
+   function saveSearchDateInformation() {
+      // Save user information from the form!
+      jQuery.cookie(uarrivalDate, jQuery("input[@name='arrivalDate']").val());
+      jQuery.cookie(udepartureDate, jQuery("input[@name='departureDate']").val());
+   }
+
+   function initSearchForm() {
+      // Autofill user information if available
+      jQuery("input[@name='arrivalDate']").val(jQuery.cookie(uarrivalDate));
+      jQuery("input[@name='departureDate']").val(jQuery.cookie(udepartureDate));
+
+      // Save search information when form is submitted
+      jQuery("form[@name='search']").submit(saveSearchDateInformation);
+   }
+
+   jQuery(document).ready(initSearchForm);
+
+</script> -->
+
+	<title>  Privacy Policy - Ocean Club Resorts</title>
+
+</head>
+
+<body>
+	<div id="container2">
+		<div id="header">
+		<a href="http://oceanclubresorts.com"><img id="logo" src="http://oceanclubresorts.com/new/wp-content/themes/ocr/images/logo_09.gif" alt="Ocean Club Resorts"><span class="logo_text">US/Canada  Reservations 800 457 8787</span></a>
+		
+
+<div id="socialbar">
+
+
+    <div id="socialIcon" title="Facebook">
+        <a href="http://www.facebook.com/OceanClubResorts">
+		<img alt="Facebook" src="http://oceanclubresorts.com/new/wp-content/themes/ocr/images/facebook.png"></a>  
+    </div>
+    <div id="socialIcon" title="Twitter">
+        <a href="http://twitter.com/oceanclubresort">
+        <img alt="Twitter" src="http://oceanclubresorts.com/new/wp-content/themes/ocr/images/twitter.png"></a>
+    </div>
+				<div id="socialIcon" title="YouTube">
+				<a href="http://www.youtube.com/oceanclubresort">
+				<img alt="Twitter" src="/cms/templates/oceanclub/images/youtube.png"></a>
+			</div>
+			<div id="socialIcon" title="Pintrest">
+				<a href="http://pinterest.com/oceanclubresort/">
+				<img alt="Twitter" src="/cms/templates/oceanclub/images/pintrest.png"></a>
+			</div>
+</div>
+
+		<div id="topNav">
+			<ul>
+				<li class="faq"><a class="homeLogin" href="http://oceanclubresorts.com/faq/">FAQ</a></li>
+        <li><a class="homeLogin" href="http://oceanclubresorts.com/press/">Press</a></li>
+		
+		 <li><a class="homeLogin" href="http://oceanclubresorts.com/our-resorts/activities/seafari/"><img alt="Seafari" src="http://oceanclubresorts.com/new/wp-content/themes/ocr/images/seafari_menu.jpg"></a></li>
+		
+				<li><a class="homeLogin" href="http://oceanclubresorts.com/contact-us/">Contact Us</a></li>
+			</ul>
+		</div>
+    	<div id="mainNav">
+        	<ul>
+            	<li><a href="http://oceanclubresorts.com"><big>H</big>ome</a></li>
+                <li class="pipe">|</li>
+                <li><a href="http://oceanclubresorts.com/our-resorts/"><big>O</big>ur <big>R</big>esorts</a></li>
+              	<li class="pipe">|</li>
+                <li><a href="http://oceanclubresorts.com/rates-packages/"><big>R</big>ates <big>&amp;</big> <big>P</big>ackages</a></li>
+                <li class="pipe">|</li>
+                <li><a href="http://oceanclubresorts.com/rates-packages/weddingpackages/"><big>W</big>eddings <big>&amp;</big> <big>H</big>oneymoons</a></li>
+                <li class="pipe">|</li>
+                <li><a href="http://oceanclubresorts.com/turks-caicos/"><big>T</big>urks <big>&amp;</big> <big>C</big>aicos</a></li>
+                <li class="pipe">|</li>
+                <li><a href="http://oceanclubresorts.com/real-estate/"><big>R</big>eal <big>E</big>state</a></li>
+            </ul>
+        </div>    
+    </div>
+<div id="twoColContainer">
+	<div id="leftCol">
+		<div id="jomResSearchModule">
+
+<script type="text/javascript">
+  var mlist = new Array( 
+                         'https://gc.synxis.com/rez.aspx?Hotel=28985&Chain=11894',
+                         'https://gc.synxis.com/rez.aspx?Hotel=28986&Chain=11894'
+                       );
+
+  function submitSearch(){
+  var the_value;
+  the_value = jQuery('#purchaseEngine input:radio:checked').val();
+    jQuery('#purchaseEngine').attr('action', mlist[the_value]);
+  }
+</script>
+
+<form id="purchaseEngine" action="https://gc.synxis.com/rez.aspx?Hotel=28985&amp;Chain=11894" method="post">
+<br>
+
+		<h2>RATE QUOTES</h2>
+			<div id="reservation">
+				<div class="selectHolder">
+				<label><input type="radio" name="selectbox" value="0"> Ocean Club </label> &nbsp; &nbsp;
+				<label><input type="radio" name="selectbox" value="1"> Ocean Club West</label>
+				</div>
+				<div class="clearBoth"></div>
+			</div>
+				<div style="clear: both;"></div><br>&nbsp; &nbsp; &nbsp;
+				<input style="margin-left: 25px;" type="image" src="http://oceanclubresorts.com/new/wp-content/themes/ocr/images/bttn_booknow_updated.gif" onclick="submitSearch();">
+				</form>
+		</div>	
+
+<!-- Start Special Button -->
+		<div style="clear: both;"></div><br>
+		<p><a href="http://oceanclubresorts.com/special-offers/"><img src="http://oceanclubresorts.com/new/wp-content/themes/ocr/images/sidebar_special.gif" alt="Specials"></a></p><br><div style="clear: both;"></div>
+<!-- End Special Button -->
+
+<div id="leftNav">
+	
+<table width="100%" border="0" cellpadding="0" cellspacing="0">
+<tbody><tr align="left"><td><a href="http://oceanclubresorts.com/rates-packages/nightlyrates/" class="mainlevel" id="active_menu">Nightly Rates</a></td></tr>
+<tr align="left"><td><a href="http://oceanclubresorts.com/rates-packages/resortpackages/" class="mainlevel">Resort Packages</a></td></tr>
+<tr align="left"><td><a href="http://oceanclubresorts.com/rates-packages/weddingpackages" class="mainlevel">Wedding Packages</a></td></tr>
+<tr align="left"><td><a href="http://oceanclubresorts.com/rates-packages/spaservices/" class="mainlevel">Spa Services</a></td></tr>
+<tr align="left"><td><a href="http://oceanclubresorts.com/rates-packages/addonpackages/" class="mainlevel">Add-on Packages</a></td></tr>
+<tr align="left"><td><a href="http://oceanclubresorts.com/rates-packages/groups2/" class="mainlevel">Groups</a></td></tr>
+</tbody></table>
+	
+<div style="clear: both;"></div></div>
+<div style="clear: both;"></div></div>
+
+
+
+
+<div id="rightCol">
+        	
+    <div id="flashHolder">
+	<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.4/jquery.min.js"></script>
+	<script type="text/javascript" src="http://ajax.aspnetcdn.com/ajax/jquery.cycle/2.99/jquery.cycle.js"></script>
+	<!-- <script type="text/javascript" src="/main/scripts/AC_RunActiveContent.js"></script> -->
+	<!-- <script type="text/javascript" src="/main/scripts/AC_OETags.js"></script> -->
+
+	
+	
+<script language="JavaScript" type="text/javascript">
+
+
+
+ $(document).ready(function() 
+{$('.slideshow1').cycle({
+                        fx: 'fade',
+                        speed:    600, 
+                        timeout:  5500 
+						});
+});
+        
+
+
+        
+    function button1() {
+        document.getElementById('slideshow1').style.display = "";
+        document.getElementById('slideshow2').style.display = "none";
+        document.getElementById('slideshow3').style.display = "none";
+    }
+    
+
+   
+
+   
+
+    
+    </script>
+    
+    <style type="text/css">
+    
+		.slideContainer {
+		  left: 200px;
+			margin-bottom: 180px;
+			margin-left: -198px;
+			margin-top: -95px;
+			padding-bottom: 100px;
+			position: relative;
+			top: 110px;
+			width: 695px;
+		}
+        
+
+        
+        #slideshow1 {
+            position: absolute;
+            top: 0px;
+            left: 0px;
+        }
+        
+
+    </style>    	
+	
+<span class="article_seperator">&nbsp;</span>
+
+
+
+<div class="mainTextArea">
+<div class="mainTitle">Privacy Policy</div>
+<h3>INFORMATION COLLECTION</h3>
+<p>Ocean Club Resorts is the sole owner of the information collected on this website. Ocean Club Resorts collects information from our users at several different points on our Web site.</p>
+<h3>BOOKING ENGINE</h3>
+<p>We request information from the user on our brochure request forms and in our booking engines. A user must provide contact information (such as name, email, and mailing address). This information is used for billing purposes. If we have trouble processing an order, the information is used to contact the user. Complete credit card data is only required for making booking deposits but is NOT stored on our servers.</p>
+<h3>COOKIES</h3>
+<p>A cookie is a piece of data stored on the user’s computer tied to information about the user. Usage of a cookie is in no way linked to any personally identifiable information while on our site. We use both session ID cookies and persistent cookies. For the session ID cookie, once users close the browser, the cookie simply terminates. A persistent cookie is a small text file stored on the user’s hard drive for an extended period of time. Persistent cookies can be removed by following Internet browser help file directions.</p>
+<h3>CUSTOMER SERVICE</h3>
+<p>We communicate with users on a regular basis to provide requested services and in regards to issues relating to their account we reply via email or phone, in accordance with the users wishes.</p>
+
+</div>
+
+
+</div>
+</div>
+	
+	<div style="clear: both;"></div>
+	
+	
+   
+	
+
+    <span class="article_seperator">&nbsp;</span>
+	 <div id="footerTop">
+		  <div id="footerBttnCont">
+<a href="http://www.oceanclubresorts.com/popup.php" target="popup" onclick="wopen('#', 'popup', '550', '620'); return false;"><img src="http://oceanclubresorts.com/new/wp-content/themes/ocr/images/footer_bttn_07.gif" alt="Image of the day"></a>
+<a href="http://oceanclubresorts.com/resortVideo/resortvideo.html" target="popup" onclick="wopen('#', 'popup', '800', '520'); return false;"><img src="http://oceanclubresorts.com/new/wp-content/themes/ocr/images/footer_bttn_08.gif" alt="New Video"></a>
+<!--<a href="http://www.oceanclubresorts.com/webcam_instructions.html" target="popup" onClick="wopen('#', 'popup', '470', '520'); return false;"><img src="http://oceanclubresorts.com/new/wp-content/themes/ocr/images/footer_bttn_09.gif" alt="Webcam" /></a> -->
+<a href="/cms/weather.pdf" target="popup" onclick="wopen('/cms/weather.pdf', 'popup', '0', '0'); return false;">
+        <img src="http://www.oceanclubresorts.com/cms/templates/oceanclub/images/footer_bttn_weather.gif" alt="Weather">
+			</a>
+<a href="http://oceanclubresorts.com/lazy-day-club/" rel="lyteframe" rev="width: 600px; height: 400px; scrolling: no;"><img src="http://oceanclubresorts.com/new/wp-content/themes/ocr/images/footer_bttn_10.gif"></a>
+<a href="http://oceanclubresorts.com/rates-packages/special-offers/"><img src="http://oceanclubresorts.com/new/wp-content/themes/ocr/images/footer_bttn_11.gif" alt="Special Offers"></a>
+      </div>
+    </div>
+	
+	
+    <div style="clear: both;"></div>
+
+	    
+
+
+<div id="footer">
+    	<div class="homeFootCont">
+ <a class="homeFoot" href="http://oceanclubresorts.com/homeowners-login/welcome/">Homeowners Login</a>  
+        	
+        </div>
+        <div class="footCopy"><a href="http://oceanclubresorts.com/privacy-policy">Privacy Policy</a>&nbsp;|&nbsp;<a href="http://oceanclubresorts.com/cancellation-policy">Cancellation Policy</a>&nbsp;|&nbsp;<span>Copyright 2008 Ocean Club Resorts. All Rights Reserved</span>
+        </div>  
+    </div>
+</div>  
+
+
+</div></body></html>
