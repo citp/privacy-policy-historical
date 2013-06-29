@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the anastasiadate.com privacy policy that was archived on 2012-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121226231734id_/http%3A//www.anastasiadate.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the anastasiadate.com privacy policy that was archived on 2013-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130629144001id_/http%3A//www.anastasiadate.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -67,7 +67,7 @@ We may use information to:
 
 When you send us an email, we use your email address to thank you for your comment and/or reply to your question, and we will store your communication and our reply in case we correspond further. Beyond our initial reply, we will never use your email address to send you any unsolicited message or information, nor will we share it with or sell it to anyone else for such use.
 
-You will also receive our email newsletters, account updates and special offers targeted to your interests sent to you by AnastasiaDatea.
+You may also daily receive any combination of our email newsletters, account updates, or special offers targeted to your interests sent to you by AnastasiaGlobal.
 
 We will not use your address or other information to provide you with any unsolicited message or information (unless that is part of the service you are requesting), nor will we share it with or sell, rent or lease it to any third party for such use.
 
@@ -89,7 +89,7 @@ Children under eighteen years of age are prohibited from using Our Websites. We 
 
 AnastasiaDate.com may periodically send you email messages describing updates, new features, or promotional offers related to this Web site. You can choose to stop receiving this email at any time.
 
-To unsubscribe follow the instructions at <http://unsubscribe.anastasiadate.com/> or email us at [unsubscribe@anastasiadate.com](mailto:unsubscribe@anastasiadate.com). You can also follow the 'unsubscribe' instructions and link provided with each email or as we otherwise provide.
+To unsubscribe follow the instructions at <http://unsubscribe.anastasiadate.com/> or email us at [unsubscribe@anastasiadate.com](mailto:unsubscribe@anastasiadate.com). You can also follow the 'unsubscribe' instructions and link provided at the bottom with each email or as we otherwise provide.
 
 ## III. Access
 
@@ -135,4 +135,8 @@ AnastasiaDate.com reserves the right to change, modify or amend this policy at a
 
 ### Effective Date
 
-This privacy statement was last revised on May 06, 2010.
+This privacy statement was last revised on April 02, 2013.
+
+### Company address
+
+103 Sham Peng Tong plaza, Victoria, Mahe, Seychelles
