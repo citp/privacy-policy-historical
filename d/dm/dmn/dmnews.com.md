@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the dmnews.com privacy policy that was archived on 2012-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121130010540id_/http%3A//www.dmnews.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dmnews.com privacy policy that was archived on 2013-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130629224508id_/http%3A//www.dmnews.com/privacypolicy) for the most accurate reproduction.*
 
 # Direct Marketing News
 
-**Last updated: May 2012**
+**Last updated: June 2013**
 
 US Privacy Policy | International Privacy Policy
 
@@ -73,7 +73,11 @@ Haymarket eSeminars produces sponsored webcasts and online trade shows for a var
 
 Haymarket eSeminars also automatically receives and records information on our server logs from your browser, including your IP address, Internet connection speed, Internet connection duration, and Real Media and Windows Media player information. This is done in conjunction with our broadcast providers. Your data is collected and retained by our broadcast providers for the sole purposes of delivering eSeminars content appropriately, traffic reporting, and enabling re-registration for future events. In addition, our broadcast providers use cookie technology to identify you as a registered user of the eSeminars service.
 
-If you have any questions, please contact eSeminars@haymarketmedia.com.
+If you have any questions, please contact eSeminars@haymarketmedia.com. 
+
+**Social Rewards Program**
+
+A number of Haymarket’s sites have online social rewards programs. Registering to an applicable site automatically enrolls you in these programs. Any applicable site activity can be published in the various activity leaderboards. If you would prefer not to have your activity published you can change this by selecting the Settings button within the leaderboard and de-selecting the ‘Publish Activity’ tickbox. 
 
 **Email A Friend**
 
