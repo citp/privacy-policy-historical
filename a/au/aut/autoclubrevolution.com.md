@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the autoclubrevolution.com privacy policy that was archived on 2012-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121102215320id_/http%3A//autoclubrevolution.com/en/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the autoclubrevolution.com privacy policy that was archived on 2013-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130629072559id_/http%3A//autoclubrevolution.com/en/privacypolicy) for the most accurate reproduction.*
 
-# Auto Club Revolution - The Online Racing Game and Car Community
+# Play the online racing game Auto Club Revolution free today. Join car game fans from around the world to race together.
 
 Privacy Policy And Consent To Use Of Data
 
