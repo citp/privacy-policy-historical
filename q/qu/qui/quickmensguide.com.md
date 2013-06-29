@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the quickmensguide.com privacy policy that was archived on 2012-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121125035050id_/http%3A//www.quickmensguide.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the quickmensguide.com privacy policy that was archived on 2013-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130629182739id_/http%3A//www.quickmensguide.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy - Quick Men's Guide
 
 Quick Men’s Guide owns and operates this website. We are committed to the privacy and security of our visitors’ information. The following is a statement of our privacy practices:
 
