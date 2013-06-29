@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wowmb.net privacy policy that was archived on 2012-09-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120919081836id_/http%3A//www.wowmb.net/index.php%3Fpage%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wowmb.net privacy policy that was archived on 2013-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130630015241id_/http%3A//www.wowmb.net/index.php%3Fpage%3Dprivacy) for the most accurate reproduction.*
 
 # The Warlocks Den - Privacy Statement
 
@@ -18,29 +18,29 @@ Please Register to Remove these Ads
 Latest Posts | Latest Forum News  
 | Thread |   |  Date, Time |  Posted By  
 ---|---|---|---  
- [solo onyxia](http://wowmb.net/forums/f49/33236-solo_onyxia/) | [ ▼](http://wowmb.net/forums/f49/33236-solo_onyxia/) |  18-09, 23:32 |  [hefron](http://wowmb.net/forums/members/hefron/)  
- [solo'ing Kael'thas in tempest...](http://wowmb.net/forums/f49/41238-soloing_kaelthas_tempest_keep/) | [ ▼](http://wowmb.net/forums/f49/41238-soloing_kaelthas_tempest_keep/) |  18-09, 23:25 |  [hefron](http://wowmb.net/forums/members/hefron/)  
- [Grimoire of Sac---I must be...](http://wowmb.net/forums/f9/43041-grimoire_sac_i_must_blind/) | [ ▼](http://wowmb.net/forums/f9/43041-grimoire_sac_i_must_blind/) |  18-09, 10:42 |  [Tragik](http://wowmb.net/forums/members/tragik/)  
- [Gearing up from heroics in...](http://wowmb.net/forums/f22/43424-gearing_up_heroics_mists_pandaria/) | [ ▼](http://wowmb.net/forums/f22/43424-gearing_up_heroics_mists_pandaria/) |  18-09, 04:25 |  [Aghast](http://wowmb.net/forums/members/aghast/)  
- [Affli vs Destro vs Demo in...](http://wowmb.net/forums/f9/43374-affli_vs_destro_vs_demo_5_04_a/) | [ ▼](http://wowmb.net/forums/f9/43374-affli_vs_destro_vs_demo_5_04_a/) |  17-09, 22:23 |  [Scathbais](http://wowmb.net/forums/members/scathbais/)  
- [To glyph or not to glyph.....](http://wowmb.net/forums/f9/43211-glyph_not_glyph_mop/) | [ ▼](http://wowmb.net/forums/f9/43211-glyph_not_glyph_mop/) |  17-09, 22:19 |  [Scathbais](http://wowmb.net/forums/members/scathbais/)  
- [Professions for a new warlock](http://wowmb.net/forums/f10/32119-professions_new_warlock/) | [ ▼](http://wowmb.net/forums/f10/32119-professions_new_warlock/) |  16-09, 04:48 |  [D1RE](http://wowmb.net/forums/members/d1re/)  
- [Demonology pvp](http://wowmb.net/forums/f43/41246-demonology_pvp/) | [ ▼](http://wowmb.net/forums/f43/41246-demonology_pvp/) |  12-09, 23:08 |  [marcevil](http://wowmb.net/forums/members/marcevil/)  
- [Weapon change?](http://wowmb.net/forums/f22/43321-weapon_change/) | [ ▼](http://wowmb.net/forums/f22/43321-weapon_change/) |  12-09, 11:47 |  [Owewa](http://wowmb.net/forums/members/owewa/)  
- [This place is getting annoying](http://wowmb.net/forums/f8/43072-place_getting_annoying/) | [ ▼](http://wowmb.net/forums/f8/43072-place_getting_annoying/) |  12-09, 10:46 |  [Supernex](http://wowmb.net/forums/members/supernex/)  
-|  [Thanks to the active...](http://wowmb.net/forums/f71/42812-thanks_active_reporters_den/) |  14-08  
+ [Patch 5.4 Patch Notes](http://wowmb.net/forums/f8/43534-patch_5_4_patch_notes/) | [ ▼](http://wowmb.net/forums/f8/43534-patch_5_4_patch_notes/) |  23-06, 00:42 |  [marcevil](http://wowmb.net/forums/members/marcevil/)  
+ [Show off your UI - Thread #4...](http://wowmb.net/forums/f23/40881-show_off_your_ui_thread_4_cataclysm/) | [ ▼](http://wowmb.net/forums/f23/40881-show_off_your_ui_thread_4_cataclysm/) |  11-06, 11:53 |  [Caolela](http://wowmb.net/forums/members/caolela/)  
+ [5.3 thoughts?](http://wowmb.net/forums/f8/43531-5_3_thoughts/) | [ ▼](http://wowmb.net/forums/f8/43531-5_3_thoughts/) |  11-06, 11:43 |  [Caolela](http://wowmb.net/forums/members/caolela/)  
+ [tribute to the little lock on...](http://wowmb.net/forums/f12/41818-tribute_little_lock_hill/) | [ ▼](http://wowmb.net/forums/f12/41818-tribute_little_lock_hill/) |  05-06, 17:22 |  [Caolela](http://wowmb.net/forums/members/caolela/)  
+ [Affliction help on will of...](http://wowmb.net/forums/f49/43453-affliction_help_will_emperor/) | [ ▼](http://wowmb.net/forums/f49/43453-affliction_help_will_emperor/) |  03-06, 15:54 |  [shdwboxn](http://wowmb.net/forums/members/shdwboxn/)  
+ [Nvidia drivers virus](http://wowmb.net/forums/f19/43530-nvidia_drivers_virus/) | [ ▼](http://wowmb.net/forums/f19/43530-nvidia_drivers_virus/) |  29-05, 12:29 |  [kernii](http://wowmb.net/forums/members/kernii/)  
+ [Gearing for 5.3 PvP](http://wowmb.net/forums/f43/43533-gearing_5_3_pvp/) | [ ▼](http://wowmb.net/forums/f43/43533-gearing_5_3_pvp/) |  26-05, 13:36 |  [Caolela](http://wowmb.net/forums/members/caolela/)  
+ [5.2 - Warlock QUEST - Last...](http://wowmb.net/forums/f8/43519-5_2_warlock_quest_last_boss/) | [ ▼](http://wowmb.net/forums/f8/43519-5_2_warlock_quest_last_boss/) |  20-05, 15:26 |  [ESPERICH](http://wowmb.net/forums/members/esperich/)  
+ [Destro and afflic in PvP](http://wowmb.net/forums/f43/43527-destro_afflic_pvp/) | [ ▼](http://wowmb.net/forums/f43/43527-destro_afflic_pvp/) |  06-05, 07:50 |  [ESPERICH](http://wowmb.net/forums/members/esperich/)  
+ [PvP gearing in 5.2](http://wowmb.net/forums/f43/43529-pvp_gearing_5_2_a/) | [ ▼](http://wowmb.net/forums/f43/43529-pvp_gearing_5_2_a/) |  03-05, 08:09 |  [ESPERICH](http://wowmb.net/forums/members/esperich/)  
+|  [5.2 and Warlocks](http://wowmb.net/forums/f71/43516-5_2_warlocks/) |  05-03  
 ---|---  
+ [Shape up or ship out!](http://wowmb.net/forums/f71/43499-shape_up_ship_out/) |  15-01  
+ [Thanks to the active...](http://wowmb.net/forums/f71/42812-thanks_active_reporters_den/) |  14-08  
  [Urgent: Important Security...](http://wowmb.net/forums/f71/42779-urgent_important_security_update/) |  10-08  
  [Huge Warlock buff!!](http://wowmb.net/forums/f71/42777-huge_warlock_buff/) |  09-08  
- [Mists of Pandaria release...](http://wowmb.net/forums/f71/42740-mists_pandaria_release_date_has_been_confirmed/) |  25-07  
- [Some Warlock Q&A](http://wowmb.net/forums/f71/42722-some_warlock_q/) |  23-06  
 Latest Blog Entries  
-|  [Home's where my heart is](http://wowmb.net/forums/blogs/d1re/748-homes_where_my_heart.html) | [D1RE](http://wowmb.net/forums/members/d1re/)  
+|  [Character Journals](http://wowmb.net/forums/blogs/warpy/756-character_journals.html) | [Warpy](http://wowmb.net/forums/members/warpy/)  
 ---|---  
- [Tiny little annoyances](http://wowmb.net/forums/blogs/cormanthor/746-tiny_little_annoyances.html) | [Cormanthor](http://wowmb.net/forums/members/cormanthor/)  
- [We are 1 year old](http://wowmb.net/forums/blogs/gnomeobie/745-we_1_year_old.html) | [Gnomeobie](http://wowmb.net/forums/members/gnomeobie/)  
- [Oh look, a kitty!](http://wowmb.net/forums/blogs/cormanthor/744-oh_look_kitty.html) | [Cormanthor](http://wowmb.net/forums/members/cormanthor/)  
- [Build a better mousetrap](http://wowmb.net/forums/blogs/cormanthor/743-build_better_mousetrap.html) | [Cormanthor](http://wowmb.net/forums/members/cormanthor/)  
+ [Never Say "Never...](http://wowmb.net/forums/blogs/warpy/755-never_say_never_again.html) | [Warpy](http://wowmb.net/forums/members/warpy/)  
+ [The Quiet Gamer II](http://wowmb.net/forums/blogs/muhney/754-quiet_gamer_ii.html) | [Muhney](http://wowmb.net/forums/members/muhney/)  
+ [I feel pretty](http://wowmb.net/forums/blogs/gnomeobie/753-i_feel_pretty.html) | [Gnomeobie](http://wowmb.net/forums/members/gnomeobie/)  
+ [My thoughts on MOP](http://wowmb.net/forums/blogs/gnomeobie/752-my_thoughts_mop.html) | [Gnomeobie](http://wowmb.net/forums/members/gnomeobie/)  
   
 [](http://feeds.feedburner.com/TheWarlocksDen) [RSS Feed](http://feeds.feedburner.com/TheWarlocksDen)
 
