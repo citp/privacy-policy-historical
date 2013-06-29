@@ -1,12 +1,10 @@
-> *The following text is extracted and transformed from the hrbathomegiveaway.com privacy policy that was archived on 2012-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121126091407id_/http%3A//www.hrblock.com/universal/web_privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hrbathomegiveaway.com privacy policy that was archived on 2013-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130629203631id_/http%3A//www.hrblock.com/universal/web_privacy_policy.html) for the most accurate reproduction.*
 
 # H&R Block Privacy Policy - H&R Block®
 
 H&R Block offers a wide range of tax and financial services, including tax preparation, tax planning, banking, and business services through various affiliates and franchisees. Because we offer a variety of services both online (via the Internet) and throughout H&R Block's nationwide network of offices, H&R Block's privacy practices will vary depending on how you interact with H&R Block. The following guidelines set forth general privacy principles that apply to information collected on the www.hrblock.com web site, independent of any particular business relationship you enter into with H&R Block. If you enter into a business relationship with H&R Block as our customer (such as when you are utilizing our tax preparation or other software or online tax preparation tools), we will make you aware of the privacy practices that apply to that particular business or relationship you enter into with H&R Block. 
 
 [](https://privacy.truste.com/privacy-seal/HRB-Tax-Group,-Inc--/validation?rid=cdc0844d-4f96-4586-a730-5673e62d1e3c "TRUSTe online privacy certification")
-
-[](https://privacy.truste.com/privacy-seal/HRB-Tax-Group,-Inc--/validation?rid=8002c2f3-1d34-47c4-93fc-077eb2f7b716&lang=es "TRUSTe online privacy certification")
 
 These practices do not apply to our physical offices you may visit for services, and these practices do not apply to specific relationships you may establish with H&R Block Bank, H&R Block Digital LLC, or other affiliates of H&R Block. Those H&R Block affiliates will provide you with their privacy notices when you enter into a business relationship with them. If you are a user of H&R Block's software, mobile or online tax preparation services, the ["Privacy Notice for H&R Block At Home™ Tax Services "](https://web.archive.org/universal/privacy_policy.html) will apply to information collected by H&R Block. 
 
@@ -39,7 +37,9 @@ Flash cookies are different from browser cookies because of the amount of, type 
 
 Like most Sites, H&R Block uses log files. Information collected in log files may include internet protocol (IP) addresses, browser type, internet service provider (ISP), referring/exit pages, platform type, date/time stamp, and number of clicks. We utilize this information to analyze trends, administer the site, track user's movement in the aggregate, and gather broad demographic information for aggregate use. This information is not personally identifiable. When you use certain online tax services, IP addresses are tied to personally identifiable information to enable users to file or transmit tax returns to the Internal Revenue Service. For more information on these technologies - specific to your use of this Site - please click [ Privacy Technology Definitions](http://www.hrblock.com/universal/privacy_technology_definitions.html) for a discussion of these terms. 
 
-We allow third-party companies to serve ads and/or collect certain anonymous information when you visit our Site. These companies may use non-personally identifiable information (e.g., click stream information, browser type, time and date, subject of advertisements clicked or scrolled over) during your visits to our Sites and other Web sites in order to provide advertisements about goods and services likely to be of greater interest to you. These companies typically use a cookie or third party web beacon to collect this information. To opt-out of this type of advertising, please complete both forms at [http://ad.adlegend.com/TE_optout.html ](http://ad.adlegend.com/TE_optout.html) and <http://www.networkadvertising.org/managing/opt_out.asp>. We may engage different providers to provide similar services from time to time. 
+We allow third-party companies to serve ads and/or collect certain anonymous information when you visit our Site. These companies may use non-personally identifiable information (e.g., click stream information, browser type, time and date, subject of advertisements clicked or scrolled over) during your visits to our Sites and other Web sites in order to provide advertisements about goods and services likely to be of greater interest to you. These companies typically use a cookie or third party web beacon to collect this information. To opt-out of this type of advertising, please complete both forms at [http://webmedia.hrblock.com/optout.html ](http://webmedia.hrblock.com/optout.html) and <http://www.networkadvertising.org/managing/opt_out.asp>. We may engage different providers to provide similar services from time to time. 
+
+We may record anonymous data from your device such as Apple IDFA, general characteristics of your device and or other device ID's. If you would like to opt-out of tracking please visit <https://ad-x.co.uk/dont_track.php>. 
 
 **How We May Disclose Your Information**
 
@@ -102,4 +102,4 @@ Updated: 3/01/2012
 H&R Block World Headquarters   
 One H&R Block Way   
 Kansas City, MO 64105   
-1-800-472-5625. 
+1-800-472-5625.
