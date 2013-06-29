@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sibcycline.com privacy policy that was archived on 2012-10-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121029153749id_/http%3A//www.sibcycline.com/PrivacyPolicy/Privacy%2520Policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sibcycline.com privacy policy that was archived on 2013-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130629160558id_/http%3A//sibcycline.com/PrivacyPolicy/Privacy%2520Policy.htm) for the most accurate reproduction.*
 
 # 
 
