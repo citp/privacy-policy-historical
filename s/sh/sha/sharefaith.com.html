@@ -1,17 +1,18 @@
-<!--The following is the downloaded HTML source of the sharefaith.com privacy policy that was archived on 2012-12-09.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121209041637id_/http%3A//www.sharefaith.com/faith/privacyPolicy/view.do) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the sharefaith.com privacy policy that was archived on 2013-06-29.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130629074741id_/http%3A//www.sharefaith.com/faith/privacyPolicy/view.do) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xmlns:fb="http://www.facebook.com/2008/fbml" xml:lang="en" lang="en"><head>
     
 
-    <link href="/favicon.ico" rel="Shortcut Icon">
+    <link href="/favicon.ico?v=4" rel="Shortcut Icon">
     <link href="/css/styles.css?n=1" type="text/css" rel="stylesheet" media="screen, projection">
     <link href="/css/jquery-ui-1.8.9.custom.css" type="text/css" rel="stylesheet">
     <!--[if IE 6]><link rel="stylesheet" href="/css/ie6.css" type="text/css" media="screen, projection"><![endif]-->
     <!--[if IE 7]><link rel="stylesheet" href="/css/ie7.css" type="text/css" media="screen, projection"><![endif]-->
     <!--[if IE 8]><link rel="stylesheet" href="/css/ie8.css" type="text/css" media="screen, projection"><![endif]-->
 
-    <script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script id="facebook-jssdk" src="//connect.facebook.net/en_US/all.js#xfbml=1"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script src="https://ajax.googleapis.com/ajax/libs/jquery/1.6/jquery.min.js" type="text/javascript"></script>
+
+    <script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script id="facebook-jssdk" src="//connect.facebook.net/en_US/all.js#xfbml=1"></script><script type="text/javascript" async="" src="https://cdn.mxpnl.com/libs/mixpanel-2.2.min.js"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script src="https://ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js" type="text/javascript"></script>
     <script src="https://ajax.googleapis.com/ajax/libs/jqueryui/1.8.11/jquery-ui.min.js" type="text/javascript"></script>
 
     <script src="/js/global-js.js" type="text/javascript"></script>
@@ -41,7 +42,6 @@
 -->
 
 <!-- updated to sharefaith google tracking code 10.23.12 -->
-
 <script type="text/javascript">
 
   var _gaq = _gaq || [];
@@ -58,6 +58,76 @@
 <!--end google tracking code-->
 
 <script type="text/javascript" src="https://apis.google.com/js/plusone.js"></script>
+
+
+
+
+<!-- start Mixpanel -->
+<script type="text/javascript">(function(e,b){if(!b.__SV){var a,f,i,g;window.mixpanel=b;a=e.createElement("script");a.type="text/javascript";a.async=!0;a.src=("https:"===e.location.protocol?"https:":"http:")+'//cdn.mxpnl.com/libs/mixpanel-2.2.min.js';f=e.getElementsByTagName("script")[0];f.parentNode.insertBefore(a,f);b._i=[];b.init=function(a,e,d){function f(b,h){var a=h.split(".");2==a.length&&(b=b[a[0]],h=a[1]);b[h]=function(){b.push([h].concat(Array.prototype.slice.call(arguments,0)))}}var c=b;"undefined"!==
+typeof d?c=b[d]=[]:d="mixpanel";c.people=c.people||[];c.toString=function(b){var a="mixpanel";"mixpanel"!==d&&(a+="."+d);b||(a+=" (stub)");return a};c.people.toString=function(){return c.toString(1)+".people (stub)"};i="disable track track_pageview track_links track_forms register register_once alias unregister identify name_tag set_config people.set people.increment people.append people.track_charge people.clear_charges people.delete_user".split(" ");for(g=0;g<i.length;g++)f(c,i[g]);b._i.push([a,
+e,d])};b.__SV=1.2}})(document,window.mixpanel||[]);
+mixpanel.init("03095c086c4912c11992e62b90c99e64");</script>
+
+
+<!-- custom mixpanel data -->
+<script type="text/javascript">
+
+//==========================================
+// Track event will only track events where the 'tracking' property is set to true. (only tracking from UTM sources) 
+// For now were only worried about UTM source tracking.  See Logic Toggle below
+function trackEvent(event, data) {
+  
+  //Check to see if the logic toggle for tracking on this page is true.  Toggle is a property called 'tracking'
+  if (!mixpanel.get_property || !mixpanel.get_property("tracking")) {
+    return false;
+  }
+
+//setting properties?
+  var email = $("#id_member_login").text();
+  //var member_plan = '${member_plan}';
+  data = data || {};
+
+  //Allows for people tracking.  Not really using right now
+  if (email.length) {
+    mixpanel.name_tag(email);
+  }
+
+ //Mix Panel Track Event Call
+  mixpanel.track(event, data);//Register
+
+  return true;
+}
+
+
+//=====================
+// Fires off on every page load. 
+
+$(function() {
+
+  //====================
+  //Logic Toggle is set to only track from UTM sources (from our third party sources) : Track inbound utm_medium links :
+  if (window.location.search.indexOf('utm_medium') != -1) {
+
+    //This will initially begin the tracking process for this user,
+    mixpanel.register({'tracking' : true});
+
+    var pathname = window.location.pathname;
+    pathname = pathname.substr(pathname.lastIndexOf('/'));//just last part
+    trackEvent("Inbound Page", {'URL': pathname});
+  }
+
+  //Tracking Web Demo button clicks : 300ms BLOCKING 
+  if (mixpanel && mixpanel.get_property && mixpanel.get_property("tracking")) {
+    mixpanel.track_links('#web_template_container #demo_site', "Visit Demo", function(el) { return {"demo": el.href.substr("http://demo.sharefaithwebsites.com/".length, 10)}; });
+  }
+
+});
+
+</script>
+<!-- end Mixpanel -->
+
+
+
     <!--- end header.jsp -->
 
 
@@ -66,7 +136,6 @@
 <!-- begin html site-head.jsp -->
 
 <script src="/js/mouseover.js" type="text/javascript"></script>
-
 </head><body><div id="fb-root"><script async="" src="https://connect.facebook.net/en_US/all.js"></script></div>
 <script>
 (function(d, s, id) {
@@ -106,8 +175,8 @@
                     <a href="/faith/learnmore.do">Learn More</a>
                 </div>
 
-                <a href="/faith/joinNow.do?id=63&amp;coupon=2012TopNav" class="visitorOptionJoin top_jn_btn"></a>
-<a href="/feature/sharefaith-10-day-free-trial.html" class="visitorOptionJoin top_ft_btn"></a>
+                <a href="/faith/planSelection.do" class="visitorOptionJoin top_jn_btn"></a>
+<a href="/feature/sharefaith-free-trial.html" class="visitorOptionJoin top_ft_btn"></a>
            </div>
           
 
@@ -120,8 +189,29 @@
 
     <hr>  <hr>
 
-    <!--Main Nav Bar-->
-    <ul class="menu">                  
+    <!--Search/Menu Box -->
+    <div id="wrapper_searchMenuBox">
+
+        <!-- Start Search -->
+        <input id="hd_searchFieldPrompt" type="hidden" value="Enter keywords...">
+        <form id="searchForm" method="post" action="/faith/validateSearch.do">
+          <div id="topsearch">
+
+              <button type="submit" id="mainSearchBtn" name="submit" value="search" class="searchbtn" title="Search"></button>
+              <div class="wrapper_searchtext"><input type="text" id="searchTextBox" class="search_text_field" name="query" autocomplete="off" title="Enter keywords..." value=""></div>
+              <style type="text/css"></style><div class="wrapper_selectfilter hide"><select id="mainFilterDDL" name="filterType" class="searchFilterDDL"><option value="-1">Any</option><option value="28">Stock Photos</option><option value="13">Powerpoints</option><option value="25">Triple Wide Videos</option><option value="18">Church Motion Loops</option><option value="18">Welcome Video Loops</option><option value="17">Worship Background Loops</option><option value="19">Countdown Videos</option><option value="16">Sermon Videos</option><option value="22">Flyers</option><option value="20">Newsletters</option><option value="21">Bulletins</option><option value="8">Backgrounds</option><option value="1">Clipart</option><option value="23">Website Banners</option></select></div>
+          </div>
+        </form>
+        <!-- End Search -->
+
+        <!--Main Nav Bar-->
+        <style type="text/css">
+/* fix android 7in tablets... kinda */
+/*#topnav { width: 685px; }*/
+.menu { white-space: nowrap; }
+</style>
+
+<ul class="menu">                  
 <li><a href="http://www.sharefaith.com/category/church-websites.html">Church Websites</a><span></span>
 <div class="dropdown_1column">
 <div class="col_1 firstcolumn">
@@ -130,7 +220,7 @@
     <li><a href="http://www.sharefaith.com/category/website-banners.html">Website Banners</a></li>
     <li><a href="http://www.sharefaith.com/category/website-sidebar.html">Website Sidebar Widgets</a></li>
     <li><a href="http://www.sharefaith.com/category/church-website-tutorials.html">ChurchWebsite Tutorials</a></li>
-    <li><a href="http://www.sharefaith.com/category/church-website-features.html">ChurchWebsite Features</a></li>
+    
 </ul>
 </div>
 </div>
@@ -142,107 +232,84 @@
 <div class="col_1 firstcolumn">
 <ul>
     <li><a href="http://www.sharefaith.com/category/church-powerpoint-templates.html" class="blue">All Church PowerPoints</a></li>
+    <li><a href="http://www.sharefaith.com/category/church-event-stills-.html">Church Event Slides</a></li>
     <li><a href="http://www.sharefaith.com/category/powerpoint-sermons.html">Sermon Themes</a></li>
-    <li><a href="http://www.sharefaith.com/category/christmas-powerpoints.html">Christmas</a></li>
     <li><a href="http://www.sharefaith.com/category/spanish-powerpoint.html">Spanish Themes</a></li>
-    <li><a href="http://www.sharefaith.com/category/easter-sunday-resurrection-powerpoints.html">Easter Sunday Resurrection</a></li>
+    <li><a href="http://www.sharefaith.com/category/mother%27s-day-powerpoints.html">Mother's Day</a></li>
+    <li><a href="http://www.sharefaith.com/category/pentecost-powerpoints.html">Pentecost</a></li>
+    <li><a href="http://www.sharefaith.com/category/father%27s-day-powerpoint.html">Father's Day</a></li>
     <li><a href="http://www.sharefaith.com/category/women-of-the-bible-powerpoints.html">Women Of The Bible</a></li>
-    <li><a href="http://www.sharefaith.com/category/sunday-school-powerpoints.html">Sunday School</a></li>
+    <li><a href="http://www.sharefaith.com/category/graduation-day-powerpoints.html">Graduation PowerPoints</a></li>
     <li><a href="http://www.sharefaith.com/category/new-testament-books.html">New Testament Books</a></li>
     <li><a href="http://www.sharefaith.com/category/heroes-of-the-bible-powerpoints.html">Heroes of The Bible</a></li>
-    <li><a href="http://www.sharefaith.com/category/back-to-school-powerpoints.html">Back To School</a></li>
-    <li><a href="http://www.sharefaith.com/category/church-new-year-presentations.html">Happy New Year</a></li>
  </ul>
 </div>
+
 <div class="col_1">
 <ul>
+    <li><a href="http://www.sharefaith.com/category/christmas-powerpoints.html">Christmas</a></li>
+    <li><a href="http://www.sharefaith.com/category/easter-sunday-resurrection-powerpoints.html">Easter Sunday Resurrection</a></li>
     <li><a href="http://www.sharefaith.com/category/lent-powerpoints.html">The Season of Lent</a></li>
-    <li><a href="http://www.sharefaith.com/category/mother%27s-day-powerpoints.html">Mother's Day</a></li>
-    <li><a href="http://www.sharefaith.com/category/father%27s-day-powerpoint.html">Father's Day</a></li>
-    <li><a href="http://www.sharefaith.com/category/pentecost-powerpoints.html">Pentecost</a></li>
     <li><a href="http://www.sharefaith.com/category/martin-luther-king-jr.-day.html">Martin Luther King Jr.</a></li>
     <li><a href="http://www.sharefaith.com/category/independence-day-powerpoints.html">Independence Day</a></li>
     <li><a href="http://www.sharefaith.com/category/memorial-day-powerpoints.html">Memorial Day</a></li>
     <li><a href="http://www.sharefaith.com/category/thanksgiving-art-powerpoints.html">Thanksgiving</a></li>
     <li><a href="http://www.sharefaith.com/category/fall-powerpoints.html">Fall Harvest</a></li>
     <li><a href="http://www.sharefaith.com/category/valentine%27s-day-powerpoints.html">Valentine's Day </a></li>
+    <li><a href="http://www.sharefaith.com/category/back-to-school-powerpoints.html">Back To School</a></li>
+    <li><a href="http://www.sharefaith.com/category/church-new-year-presentations.html">Happy New Year</a></li>
 </ul>
 </div>
 </div>
 </li>
+
 <li><a href="http://www.sharefaith.com/category/christian-video.html" class="drop">Video</a><span></span>
 <div class="dropdown_1column">
 <div class="col_1 firstcolumn">
 <ul>
     <li><a href="http://www.sharefaith.com/category/christian-video.html">Christian Videos</a></li>
+    <li><a href="http://www.sharefaith.com/category/sermon-video.html">Sermon Videos</a></li>
     <li><a href="http://www.sharefaith.com/category/worship-video.html">Worship Video Loops</a></li>
     <li><a href="http://www.sharefaith.com/category/triple-wide-videos.html">Triple Wide Videos</a></li>
     <li><a href="http://www.sharefaith.com/category/welcome-video-loops.html">Welcome Video Loops</a></li>
     <li><a href="http://www.sharefaith.com/category/motion-loops.html">Motion Video Loops</a></li>
     <li><a href="http://www.sharefaith.com/category/church-countdown-timers.html">Church Countdown Timers</a></li>
     <li><a href="http://www.sharefaith.com/category/easter-video.html">Easter Videos</a></li>
-    <li><a href="http://www.sharefaith.com/category/sermon-video.html">Sermon Videos</a></li>
-    <li><a href="http://www.sharefaith.com/category/holiday-video-loops.html">Holiday Video Loops</a></li>
-    <li><a href="http://www.sharefaith.com/category/christmas-video.html">Christmas Video</a></li>
+      <li><a href="http://www.sharefaith.com/category/christmas-video.html">Christmas Video</a></li>
 </ul>
 </div>
 </div>
 </li>
 
+<li><a href="http://www.sharefaith.com/category/church-bulletin-covers.html">Bulletins</a></li>
+<li><a href="http://www.sharefaith.com/category/flyer-templates.html">Flyers</a></li>
+<li><a href="http://www.sharefaith.com/category/newsletter-templates.html">Newsletters</a></li>
 
-<li><a class="drop">Print Templates</a><span></span>
+<li>
+<a href="http://www.sharefaith.com/category/church-powerpoint-templates.html" class="drop">Images</a><span></span>
 <div class="dropdown_1column">
 <div class="col_1 firstcolumn">
 <ul>
-    <li><a href="http://www.sharefaith.com/category/church-bulletin-covers.html">Church Bulletins</a></li>
-    <li><a href="http://www.sharefaith.com/category/flyer-templates.html">Flyers</a></li>
-    <li><a href="http://www.sharefaith.com/category/newsletter-templates.html">Newsletters</a></li>
-    <li><a href="http://www.sharefaith.com/faith/browse.do">Clipart</a></li>
-</ul>
+    <li><a href="http://www.sharefaith.com/category/top-christian-stock-photos-and-religious-stock-images.html" class="blue">Religious Stock Photos</a></li>
+    <li><a href="http://www.sharefaith.com/faith/browse.do">Christian Clipart</a></li>
+
+ </ul>
 </div>
-</div>
-</li>
+</div></li>
 
 
-<!--<li><a href="http://www.sharefaith.com/category/worship-backgrounds.html">Backgrounds</a></li>-->
-<li><a class="drop">Background Stills</a><span></span>
-<div class="dropdown_1column">
-<div class="col_1 firstcolumn">
-<ul>
-    <li><a href="http://www.sharefaith.com/category/church-event-backgrounds.html">Church Event Slides</a></li>
-    <li><a href="http://www.sharefaith.com/category/worship-backgrounds.html">Worship Backgrounds</a></li> 
-</ul>
-</div>
-</div>
-</li>
+<li><a href="http://www.sharefaith.com/category/worship-backgrounds.html">Backgrounds</a></li>
 
 
+<li><a href="http://www.sharefaith.com/blog/">Blog</a></li>
 
-
-<li><a>Blogs</a><span></span>
-<div class="dropdown_1column">
-<div class="col_1 firstcolumn">
-<ul>
-    <li><a href="http://crossleadership.com/" class="blue">Crossleadership</a></li>
-    <li><a href="http://www.sharefaith.com/blog/">Sharefaithblog</a></li>
-</ul>
-</div>
-</div>
-</li>
-<li class="last"><a href="http://www.sharefaith.com/feature/sharefaith-print-center.html">Print Center</a></li>  
+<li class="last"><a href="http://www.sharefaith.com/feature/presentation-software-for-easy-worship-projection.html">Presentation Software</a></li>
+  
 </ul>
 
-      <!-- Start Search -->
-      <input id="hd_searchFieldPrompt" type="hidden" value="Enter keywords...">
-      <form id="searchForm" method="post" action="/faith/validateSearch.do">
-          <div id="topsearch">
 
-              <button type="submit" id="mainSearchBtn" name="submit" value="search" class="searchbtn" title="Search"></button>
-              <div class="wrapper_searchtext"><input type="text" id="searchTextBox" class="search_text_field" name="query" autocomplete="off" title="Enter keywords..." value=""></div>
-              <style type="text/css"></style><div class="wrapper_selectfilter hide"><select id="mainFilterDDL" name="filterType" class="searchFilterDDL"><option value="-1">Any</option><option value="13">Powerpoints</option><option value="25">Triple Wide Videos</option><option value="17"> Worship Video Loop</option><option value="18">Welcome Video Loop</option><option value="19">Countdown Videos</option><option value="16">Sermon Videos</option><option value="22">Flyers</option><option value="20">Newsletters</option><option value="21">Bulletins</option><option value="8">Backgrounds</option><option value="1">Clipart</option><option value="23">Website Banners</option></select></div>
-          </div>
-      </form>
-     <!-- End Search -->
+     </div>
+
      <hr>
     </div>
   </div><!--/header-->
@@ -278,8 +345,12 @@ Used by over 19,000 churches. Was <del>$149</del>. Save 15%. Now only $126.65/y.
 
 
 
-<!-- POP UP : Account Expire-->
+
+
+
+
  
+
 
 
 
@@ -330,7 +401,7 @@ Sharefaith values your privacy. You may contact us any time to learn more about 
 
 
 <br><br>
-<a href="https://www.sharefaith.com/faith/register.do"><img src="/images/free-trial.gif" border="0"></a>
+<a href="https://www.sharefaith.com/faith/freeTrial.do"><img src="/images/free-trial.gif" border="0"></a>
 
 
 
@@ -366,7 +437,9 @@ Tel: 888-317-4018 <br>
 
     <!-- quick links -->
     <div id="footer_quicklinks"><div class="container">
-      <div class="leftlinks">
+
+         <!-- Text Block : Footer_Top_Links-->
+            <div class="leftlinks">
           <a href="http://www.sharefaith.com/">Home</a>&nbsp;|
           <a href="http://www.sharefaith.com/faith/privacyPolicy/view.do">Privacy</a>&nbsp;|
           <a href="http://www.sharefaith.com/faith/usagePolicy/view.do">Terms Of Use</a>&nbsp;|
@@ -374,13 +447,15 @@ Tel: 888-317-4018 <br>
           <a href="http://crossleadership.com/">Crossleadership</a>&nbsp;|
           <a href="http://www.exaltnow.com/">ExaltNow</a>&nbsp;|
           <a href="http://www.sharefaith.com/faith/about/view.do">About Sharefaith</a>&nbsp;|
-          <a href="http://www.sharefaith.com/faith/sitemap.do">Sitemap</a>
+          <a href="http://www.sharefaith.com/faith/sitemap.do">Sitemap</a>&nbsp;|
+          <a href="http://www.sharefaith.com/feature/sharefaith-job-openings.html">Employment</a>
       </div>
 
       <div class="rightlinks">
         Tel: <span>888-317-4018</span>&nbsp;|
         <a href="mailto:contact@sharefaith.com">contact@sharefaith.com</a>
       </div>
+
     </div></div>
 
     <!-- newsletter -->
@@ -395,13 +470,20 @@ Tel: 888-317-4018 <br>
                     you big monthly prizes, new product releases, relevant<br> 
                     church news and motivational leadership insight. 
                  </p>
-                 <form name="ccoptin" action="http://visitor.r20.constantcontact.com/d.jsp" target="_blank" method="post" style="margin-bottom: 2;">
+<!--
+                 <form name="ccoptin" action="http://visitor.r20.constantcontact.com/d.jsp" target="_blank"
+                 method="post" style="margin-bottom: 2;">
                  <input type="hidden" name="llr" value="85x6bddab">
                  <input type="hidden" name="m" value="1102835539931">
                  <input type="hidden" name="p" value="oi">
-                 <input type="text" title="YOUR EMAIL HERE" class="text prompt_text" onfocus="clearPromptFromTitle(this);" onblur="showPromptFromTitle(this);" value="YOUR EMAIL HERE" name="ea">
-                 <input class="submit" type="submit" value="" name="go">
+                 <input type="text" title="YOUR EMAIL HERE" class="text prompt_text" onfocus="clearPromptFromTitle(this);" onblur="showPromptFromTitle(this);" value="YOUR EMAIL HERE" name="ea" />
+                 <input class="submit" type="submit" value="" name="go" />
                  </form>               
+-->
+                 <form action="http://sharefaith.us6.list-manage.com/subscribe/post?u=a18d3c291be94979ab0150651&amp;id=c4d4890405" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate="">
+                    <input type="email" title="YOUR EMAIL HERE" value="YOUR EMAIL HERE" name="EMAIL" class="required text prompt_text" id="mce-EMAIL" onfocus="clearPromptFromTitle(this);" onblur="showPromptFromTitle(this);">
+                    <input type="submit" value="Subscribe" name="subscribe" id="mc-embedded-subscribe" class="submit" style="text-indent:-9999em;">
+                 </form>
              </div>          
         </div>
 
@@ -434,7 +516,7 @@ Tel: 888-317-4018 <br>
             <div class="socialIcons">
                 <a class="facebook" href="http://www.facebook.com/SharefaithPage"></a>
                 <a class="twitter" href="http://twitter.com/#!/sharefaith"></a>
-                <a class="youtube" href="http://www.youtube.com/user/FaithClipart/featured"></a>
+                
                <a class="vmeo" href="http://vimeo.com/sharefaith"></a>
             </div>
 
