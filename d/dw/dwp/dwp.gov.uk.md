@@ -1,10 +1,16 @@
-> *The following text is extracted and transformed from the dwp.gov.uk privacy policy that was archived on 2012-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121228161602id_/http%3A//dwp.gov.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dwp.gov.uk privacy policy that was archived on 2013-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130629021226id_/http%3A//dwp.gov.uk/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - DWP
 
+You can manage cookies yourself and learn more about them on Directgov.
+
+  * [ Internet browser cookies – what they are and how to manage them](http://www.direct.gov.uk/managingcookies) (Directgov)
+
+
+
 This page explains the privacy policy for the Department for Work and Pensions and how we will use and protect any information we collect about you when you visit this website.
 
-  * How we collect and use information
+  * How DWP collects and uses information
   * The Data Protection Act
   * Email
   * Cookies
@@ -15,7 +21,7 @@ This page explains the privacy policy for the Department for Work and Pensions a
 
 ## How DWP collects and uses information 
 
-The Department for Work and Pensions collects information to deal with social security (including Housing Benefit and Council Tax Benefit), child support, vaccine damage, employment and training, the Financial Assistance Scheme, promoting financial planning for retirement, and policy relating to occupational and personal pension schemes. The information we collect about you depends on the reason for your business with us, but we may use the information for any of these purposes.
+The Department for Work and Pensions collects information to deal with social security (including Housing Benefit, Council Tax Reduction schemes and Local Welfare Provision), child support, vaccine damage, employment and training, the Financial Assistance Scheme, promoting financial planning for retirement, and policy relating to occupational and personal pension schemes. The information we collect about you depends on the reason for your business with us, but we may use the information for any of these purposes.
 
 We may check information about you with other information we have. We may get information about you from other people and certain other organisations. We may give information to certain other organisations, as the law allows, to:
 
@@ -65,7 +71,7 @@ These pieces of information are used to improve services by, for example:
 
 
 
-You can manage cookies yourself and learn more about them on Directgov.
+You can manage cookies yourself and learn more about them on GOV.UK.
 
 If you delete cookies or you set your browser not to accept cookies, you will not be able to use some of our services.
 
@@ -73,9 +79,9 @@ If you delete cookies or you set your browser not to accept cookies, you will no
 
 
 
-You can manage cookies yourself and learn more about them on Directgov.
+You can manage cookies yourself and learn more about them on GOV.UK.
 
-  * [Internet browser cookies – what they are and how to manage them](http://www.direct.gov.uk/managingcookies) (Directgov)
+  * [Internet browser cookies – what they are and how to manage them](https://www.gov.uk/support/cookies) (GOV.UK)
 
 
 
