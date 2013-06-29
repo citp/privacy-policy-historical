@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thirteen.org privacy policy that was archived on 2012-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121229142441id_/http%3A//www.thirteen.org/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thirteen.org privacy policy that was archived on 2013-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130629222438id_/http%3A//www.thirteen.org/about/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | THIRTEEN - New York Public Media
 
