@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the longwarjournal.org privacy policy that was archived on 2012-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121229090340id_/http%3A//www.longwarjournal.org/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the longwarjournal.org privacy policy that was archived on 2013-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130629130820id_/http%3A//www.longwarjournal.org/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy for the The Long War Journal
 
@@ -28,4 +28,6 @@ LINKS
 
 This Web site contains links to other sites. Please be aware that The Long War Journal is not responsible for the privacy practices of such other sites. We encourage readers leaving our site to read the privacy statements of each and every Web site that collects personally identifiable information. This privacy statement applies solely to information collected by this Web site. Links to other Web sites are provided as a convenience. By clicking on them, you will be leaving The Long War Journal's Web site. The Long War Journal does not approve or control these sites and does not guarantee the accuracy of their information. 
 
-| 
+|   
+  
+Copyright ©2007 through 2010, Public Multimedia Inc. All Rights Reserved.
