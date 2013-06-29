@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the freeads.co.uk privacy policy that was archived on 2012-10-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121010084222id_/http%3A//www.freeads.co.uk/info/privacy%23privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freeads.co.uk privacy policy that was archived on 2013-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130629181254id_/http%3A//www.freeads.co.uk/info/privacy%23privacy) for the most accurate reproduction.*
 
 # Freeads.co.uk - Classified ads
 
@@ -46,4 +46,4 @@ Under the Data Protection Act 1988, you have the right to be told what personal 
 
 ## Contact
 
-Freeads Classifieds Ltd, Westmead House, Westmead, Farnborough, Hampshire, GU14 7LP 
+Freeads Classifieds Ltd, 52 Grosvenor Gardens, London, W1W 0AU 
