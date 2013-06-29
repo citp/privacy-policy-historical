@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the babycenter.com privacy policy that was archived on 2012-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121227221018id_/http%3A//www.babycenter.com/help-privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the babycenter.com privacy policy that was archived on 2013-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130629064017id_/http%3A//www.babycenter.com/help-privacy) for the most accurate reproduction.*
 
 # About Us - Privacy Policy - Main | BabyCenter
 
@@ -20,15 +20,15 @@ The Sites are not intended for children under the age of 13. We do not knowingly
 
 You actively send information to us when you sign up with us a member on a Site, participate in surveys or promotions, post opinions on our bulletin boards, respond to us or otherwise contact us. Depending on your choices, you may send us personally identifiable information such as your email address, name, mailing address, phone number, birthday, and gender; password; baby due date/birthday, name and gender. But, you can also use certain features of our Sites without telling us your name and if you do not tell us who you are, we do not try to find out.
 
-We also track information about how our Site is used by you through cookies, Internet tags or web beacons, and navigational data collection (log files, server logs, clickstream -- for more information click [here](https://web.archive.org/help-privacy-1)). For example, your Internet browser automatically transmits to us information such as the URL of the website you just came from and the Internet Protocol (IP) address and the browser version your computer is currently using.
+We also track information about how you use our Site through cookies, Internet tags or web beacons, and [navigational data collection](https://web.archive.org/help-privacy-1) (log files, server logs, clickstream). For example, your Internet browser automatically transmits to us information such as the URL of the website you just came from and the Internet Protocol (IP) address and the browser version your computer is currently using.
 
-To accomplish some of the foregoing data processing, we utilize independent contractors. Click [here](https://web.archive.org/help-privacy-3) to read about examples of some of our contractors and how we work with them.
+To accomplish some of the foregoing data processing, we utilize independent contractors. [Read about examples](https://web.archive.org/help-privacy-3) of some of our contractors and how we work with them.
 
 #### Ad Choices
 
 The majority of advertisements on our Sites are served to you on our behalf by our third party ad serving contractor Doubleclick. However, we do allow third parties (such as advertisers, ad agencies, and ad networks) to serve some of the advertisements on our Sites. Please remember that BabyCenter does not have access to, or control over the placement of cookies or other tracking mechanisms that these third parties may use or the information these third parties may collect. Such third parties may use cookies which have been placed on your computer to gather information about you and understand the types of pages visited by you and content that you view on our Sites and other websites. These third parties may associate your browser with relevant interest categories and use these categories to show you interest-based advertisements. For example, if you frequently visit travel websites, they may direct to you ads related to travel.
 
-You do have choices about the collection of information by third parties on our web site. Many, but not all, third parties engaged in interest based advertising participate in an industry wide self regulatory program which has developed consumer-friendly standards for interest based advertising. You can opt out of interest based advertising offered by participating third parties by visiting [http://www.aboutads.info](http://www.aboutads.info/). With respect to third parties that do not participate in this program, they may or may not offer a mechanism for opting out of interest based advertising.
+You do have choices about the collection of information by third parties on our web site. Many, but not all, third parties engaged in interest based advertising participate in an industry wide self regulatory program which has developed consumer-friendly standards for interest based advertising. You can [opt out](http://www.aboutads.info/) of interest-based advertising offered by participating third parties. With respect to third parties that do not participate in this program, they may or may not offer a mechanism for opting out of interest based advertising.
 
 In addition to the foregoing, you can set your browser to notify you when a cookie is sent or to refuse or delete cookies altogether, but certain features of the Sites might not work without certain cookies.
 
@@ -36,7 +36,7 @@ If you have actively sent us your name or other personally identifiable informat
 
 #### Purposes of Data Collection
 
-We collect information about you because we want to determine what you may like or find interesting, so we can provide you with targeted information and advertising (on our Site, in newsletters, via email and otherwise). In addition, we use data to create statistics and reports where personally identifiable information has been removed and aggregated (such that it is anonymous as regards any specific user) for various business purposes. [Click here](https://web.archive.org/help-privacy-2) for additional information.
+We collect information about you because we want to determine what you may like or find interesting, so we can provide you with targeted information and advertising (on our Site, in newsletters, via email and otherwise). In addition, we [use data](https://web.archive.org/help-privacy-2) to create statistics and reports where personally identifiable information has been removed and aggregated (such that it is anonymous as regards any specific user) for various business purposes.
 
 #### Disclosure of Data
 
@@ -46,7 +46,7 @@ We keep your personally identifiable information confidential and we generally d
   * If we ever sell a Site or substantial parts of our business, we may disclose your personally identifiable information to a (prospective) buyer on the condition that such buyer agrees to comply with this Privacy Policy.
   * We may also share your personally identifiable information to respond to law enforcement requests, court orders or other legal process or if we believe that such disclosure is necessary to investigate, prevent or respond to illegal activities, fraud, physical threats to you or others or as otherwise required by any applicable law or regulation.
   * Even though we do not provide any personally identifiable information about you specifically to any advertising customers, they can occasionally find out information indirectly. For example, we frequently agree on target audiences for particular ads (for example, an advertiser may ask us to send certain information on infant safety products to parents with small children who may be particularly interested). If you choose to respond to such targeted advertisements, the advertiser may deduce that you are a member of the target audience to whom we sent the ad.
-  * If you sign up for our services on a third party website, such third party may know - from you - that you signed up on one or our Sites.
+  * If you sign up for our services on a third party website, such third party may know—from you— that you signed up on one or our Sites.
   * Before we disclose your personally identifiable data to a third party for their own business purposes (such as a survey or a sweepstake), we will first obtain your consent, for example via email, click-through, an online opportunity to opt-out or otherwise.
   * We may share personally identifiable information with affiliated companies.
   * We freely use and disclose data in anonymous form, for example, in statistics or reports to our advertising customers.
@@ -65,7 +65,7 @@ Please keep your personally identifiable information, accurate, current, and com
 
 #### Opt-Out, Communication Preferences
 
-You may modify your communication preferences and/or opt-out from specific communications at any time. Please specify and adjust your preferences [here](http://www.babycenter.com/accountDetails.htm).
+You may [modify your communication preferences and/or opt-out](http://www.babycenter.com/accountDetails.htm) from specific communications at any time. Please specify and adjust your preferences.
 
 #### Changes to This Privacy Policy
 
