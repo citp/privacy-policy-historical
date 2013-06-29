@@ -1,53 +1,56 @@
-> *The following text is extracted and transformed from the opinionlab.com privacy policy that was archived on 2012-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121228203251id_/http%3A//www.opinionlab.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the opinionlab.com privacy policy that was archived on 2013-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130629215541id_/http%3A//www.opinionlab.com/privacy-policy) for the most accurate reproduction.*
 
-# privacy policy – OpinionLab - Omnichannel Digital Feedback Management - Voice of Customer Feedback Anytime, Anywhere ™
+# privacy policy – OpinionLab | Omnichannel Voice of Customer Feedback | Customer Feedback Management
 
-General Statement for the OpinionLab Website ([http://www.opinionlab.com](http://www.opinionlab.com/)): OpinionLab, Inc. has created this statement in order to demonstrate our commitment to privacy. The following discloses our information gathering and dissemination practices for the Website: [http://www.opinionlab.com](http://www.opinionlab.com/).
+This website is operated by us, OpinionLab Inc., a corporation organized and existing under the laws of the State of Delaware. Our principal place of business is at 600 Central Avenue, Suite 265, Highland Park, IL 60035.
 
-We track IP addresses and host names to associate gathered data with a unique Internet entity. This data is also used to determine if multiple requests are coming from the same host and to perform top-level domain reporting.
+OpinionLab is a Voice of Customer company that empowers consumers with an easy tool for sending comments to the brands they use. At the same time, we help those brands better listen to and engage with customers by making sure your message is heard, understood, and acted on.
 
-We also collect aggregate information on pages that users access or visit and information volunteered by the user, such as page specific feedback. The information we collect is used to improve the content of our Web page and not shared with other organizations for commercial purposes.
+This Privacy Statement describes OpinionLab’s collection of information from visitors to our website, located at [http://www.opinionlab.com](http://www.opinionlab.com/), including subscribers who purchase our products or services. It also covers information collected from subscribers through their use of the subscriber only parts of our website.
 
-For those who register to use or participate in our OnlineOpinion line of products, we have Privacy Policies that specifically address the unique privacy concerns related to OnlineOpinion. We use cookies within [http://www.opinionlab.com](http://www.opinionlab.com/) to remember returning users and to store basic account information such as login ID and password (if the subscriber chooses this option). Cookies must be active in order to use our reporting system. The user establishes their unique login ID and password when they register.
+This Privacy Statement does not cover information collected through the websites of our subscribers that may feature the [+] feedback link or other OpinionLab product(s). Please see the relevant privacy statement of the subscriber’s website for details regarding information gathered through that subscriber’s website.
 
-Privacy Statement for Users Who Submit Feedback on a Subscriber Website: OpinionLab, Inc. has created this statement in order to demonstrate our commitment to privacy. The following discloses our information gathering and dissemination practices for the websites: [http://www.opinionlab.com](http://www.opinionlab.com/) and https://secure.opinionlab.com
+## What Information Does OpinionLab Collect From Visitors to This Website?
 
-IP addresses and host names are tracked to associate gathered data with a unique Internet entity. It is also used to determine if multiple requests are coming from the same host and to perform top-level domain reporting.
+**All Website Visitors**  
+We collect information you provide on our website such as contact information or feedback. We also collect basic traffic information such as IP addresses, host names and web pages visited. We do not collect personally identifiable information from website visitors who are not subscribers. However, information collected from prior visits could be associated with personally identifiable information if you later become a subscriber to OpinionLab services.
 
-We also collect aggregate information on what pages users access. This information we collect is used to improve the content of our Web page and is not shared with other organizations for commercial purposes.
+**Visitors Who Subscribe to OpinionLab Products or Services and their Authorized Users**  
+OpinionLab collects additional information from subscribers who purchase our services and any users they may authorize to act on their behalf. When a subscriber account is created, we collect the subscriber’s name, job title, phone number, email address, company name, industry and mailing address. Where the subscriber is a corporate entity, like a company, this may include information about the person registering on the subscriber’s behalf. 
 
-We use cookie technology when we accept page-rating data using the OnlineOpinion icon to determine if a page has already been rated. Additionally, we plant a cookie to remember if the user has ever rated any page using OnlineOpinion. Inside this cookie, we assign a unique ID that is associated with every future rating.
+**Cookies**  
+We may use cookies and similar technologies such as web beacons to support the functionality of our customer portal, monitor traffic patterns and collect information about your previous visits to our web site. For more information, visit our cookies page at <http://www.opinionlab.com/company/cookies-policy>.
 
-Information provided by website users through the OnlineOpinion icon is collected by OpinionLab, Inc. and is made available to the website manager according to the type of reporting service they request. The information may also be used by OpinionLab to develop proprietary case studies, benchmarks or algorithms in which data may be published anonymously in aggregate form.
+## How Does OpinionLab Use Information Collected From Visitors?
 
-This site has security measures (SSL encryption) in place to protect the loss, misuse and alteration of the information under our control.
+We use information collected from website visitors to improve the content and browsing experience of our website and to fulfill any contractual obligations we have to you. This information is not sold or disclosed to third parties for marketing purposes.
 
-Privacy Statement for Subscribers to the OnlineOpinion System: OpinionLab, Inc. has created this statement in order to demonstrate our commitment to privacy. The following discloses our information gathering and dissemination practices for the websites: http://www.opinionlab.com and https://secure.opinionlab.com
+OpinionLab may disclose information collected from website visitors to:
 
-IP addresses and host names are tracked to associate gathered data with a unique Internet entity. It is also used to determine if multiple requests are coming from the same host and to perform top-level domain reporting.
-
-We also collect aggregate information on pages that users access or visit. This information we collect is used to improve the content of our Web page and is not shared with other organizations for commercial purposes.
-
-When a user registers to create an account with us or requests files, we collect the user’s name, job title, phone number, email address, company name, industry and mailing address. In addition, if a user purchases our products, we collect their billing information such as credit card number, credit card type, credit card expiration date and billing address. We only use billing information to process your order. We use subscriber contact information from the registration forms to send information about our company should the subscriber request to receive such information. Subscribers may opt-out of receiving future mailings (see the choice/opt-out section below). All information is kept confidential.
-
-Under no circumstances will we use this information for anything not described in this privacy policy.
-
-**Choice/Opt-Out** : Our site provides subscribers the opportunity to opt-out of receiving communications from us at the point where we request information about them. They may uncheck the box that grants us permission to send them additional company information before they submit their contact information. After they have submitted their contact information, we provide subscribers the following options for removing their information from our database, at any time, to prevent receiving future communications or to no longer receive our service:
-
-  * Subscribers can send email to [info@opinionlab.com](mailto:info@opinionlab.com).
-  * Subscribers can login to their account and edit their profile online at our website.
+  * trusted services providers who work on our behalf, who do not have an independent use of the information we disclose to them, and who have agreed to adhere to the rules set forth in the privacy statement;
+  * third parties as required by law, such as to comply with a subpoena or similar legal process;
+  * third parties as we deem necessary, based on our good faith belief, (i) to protect our rights, your safety or the safety of others, (ii) to investigate fraud, or (iii) to respond to a government request; and
+  * third parties in conjunction with a merger, acquisition or sale of OpinionLab. If OpinionLab is involved in a merger, acquisition, or sale of all or a portion of its assets, you will be notified via email and/or a prominent notice on our website of any change in ownership or uses of this information, as well as any choices you may have regarding this information.
 
 
 
-**Change/Modify** : Users may access, review and/or correct all their personally identifiable information that we collect online by the following methods:
+Information from subscribers who purchase products or services from OpinionLab may also be used to process orders and to send information to them. A subscriber may choose to opt-out of receiving unrequested communications when creating an account with us or at any time by emailing [info@opinionlab.com](mailto:info@opinionlab.com) or by changing the profile settings after logging into our website.
 
-  * Subscribers can send email to [info@opinionlab.com](mailto:info@opinionlab.com).
+**Security**  
+We are concerned about safeguarding the confidentiality of your information. We provide physical, electronic, and procedural safeguards to protect information we process and maintain. 
 
+**Changes**  
+This Privacy Statement may be updated from time to time for any reason. We will notify you of any changes to our Privacy Statement by posting the new Privacy Statement here, [http://www.opinionlab.com/privacy-policy](http://www.opinionlab.com/privacy-policy/). Please consult this Privacy Statement regularly for any changes.
 
+**Your Consent**  
+By using our website, you consent to the collection, processing and storage of information as described in this Privacy Statement. Processing activities may take place in the United States or Canada. If you reside outside of the United States, your information may be transferred to, and processed and stored in, the United States, Canada or other jurisdictions in accordance with applicable law in that jurisdiction. If you do not agree to these terms, do not use this website or OpinionLab products or services.
 
-OpinionLab, Inc.  
-600 Central Avenue Suite 265
+**Change/Modify**  
+Subscribers who purchase OpinionLab products or services may access, review and/or correct all their personally identifiable information that we collect online by sending an email to info@opinionlab.com.
 
+OpinionLab, Inc. 600 Central Avenue Suite 265  
 Highland Park, IL 60035  
-[info@opinionlab.com](mailto:info@opinionlab.com)  
 United States of America
+
+**Contact Us**  
+If you have any questions about how we collect, store and use your information, you may contact us by telephoning (847) 681-6100 or by e-mailing us at [info@opinionlab.com](mailto:info@opinionlab.com). 
