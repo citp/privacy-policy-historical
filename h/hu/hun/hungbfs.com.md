@@ -1,10 +1,11 @@
-> *The following text is extracted and transformed from the hungbfs.com privacy policy that was archived on 2012-09-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120919065414id_/http%3A//join.hungbfs.com/information/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hungbfs.com privacy policy that was archived on 2013-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130629033049id_/http%3A//join.hungbfs.com/information/privacy_policy.html) for the most accurate reproduction.*
 
 # Privacy Policy Statement
 
 **Hung BFs**
 
 **PRIVACY POLICY STATEMENT**  
+  
   
 
 
