@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the happyschoolsblog.com privacy policy that was archived on 2012-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121219064633id_/http%3A//www.happyschoolsblog.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the happyschoolsblog.com privacy policy that was archived on 2013-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130629084310id_/http%3A//www.happyschoolsblog.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy - Happy Schools Blog
 
 **HappySchoolsBlog.com PRIVACY POLICY (UPDATED 10/2012)**
 
