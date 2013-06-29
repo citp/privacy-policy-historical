@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the wetandpissy.com privacy policy that was archived on 2012-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121230061029id_/http%3A//www.wetandpissy.com/misc/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wetandpissy.com privacy policy that was archived on 2013-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130629222057id_/http%3A//www.wetandpissy.com/misc/privacy) for the most accurate reproduction.*
 
 # Privacy policy | Wetandpissy.com
 
-Members Access Models: **494**    |    Scenes: **624**    |    Videos: **605**    |    Hours: **173h 4' 8''**    |    Pics: **36185** All Our Girls Love To Show Their Hot Piss!
+Members Access Models: **562**    |    Scenes: **713**    |    Videos: **700**    |    Hours: **209h 9' 57''**    |    Pics: **47897** All Our Girls Love To Show Their Hot Piss!
 
 To protect your privacy we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used.
 
