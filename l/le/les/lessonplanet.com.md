@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lessonplanet.com privacy policy that was archived on 2012-10-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121021134059id_/http%3A//www.lessonplanet.com/us/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lessonplanet.com privacy policy that was archived on 2013-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130629155924id_/http%3A//www.lessonplanet.com/us/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy | Lesson Planet
 
@@ -60,7 +60,7 @@ Please contact us with any questions regarding our privacy statement.
 
 Email [support@lessonplanet.com](mailto:support@lessonplanet.com)
 
-or call toll free: (877) 328-1201
+or call toll free: (800) 304-2635
 
 You can also write to us at:
 
