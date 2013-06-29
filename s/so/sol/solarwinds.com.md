@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the solarwinds.com privacy policy that was archived on 2012-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121214040758id_/http%3A//www.solarwinds.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the solarwinds.com privacy policy that was archived on 2013-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130629185718id_/http%3A//solarwinds.com/privacy.aspx) for the most accurate reproduction.*
 
 # Solarwinds - Privacy Policy
 
@@ -11,11 +11,14 @@ User should be aware that portions of this Website contain functions for collect
   2. Entry by User/Update  
 Certain areas of this Website will require entry by the User of certain personal information as indicated above. SolarWinds requires that the actual User input such information and that such information be the most recent available and accurate. Please inform SolarWinds of any change of name, address, or other information. In addition, User may request that SolarWinds update, modify, or delete User's registered information by sending an email to [webmaster@solarwinds.com](mailto:webmaster@solarwinds.com) with the words "UPDATE USER INFORMATION" in the subject line. 
   3. Use of User Information  
-SolarWinds reserves the right to compile, save, use within the scope of SolarWinds' activities, and analyze any and all User data (registration data, use history, etc.). SolarWinds intends to use such User data for internal purposes only, including without limitation, for the purposes of providing User support, responding to User requests for information, and for contacting User. SolarWinds may provide aggregated statistics about users (including User) to third parties, but such information will be aggregated so that it does not identify a particular individual or company, including User. 
+SolarWinds reserves the right to compile, save, use within the scope of SolarWinds' activities, and analyze any and all User data (registration data, use history, etc.). SolarWinds, its affiliates, agents, and contractors/vendors intend to use such User data for internal purposes only, including without limitation, for the purposes of providing User support, responding to User requests for information, and for contacting User. Additionally, SolarWinds may disclose your personal information in association with law enforcement, fraud prevention, a subpoena, or other legal action; as required by law, rule, or regulation; or if SolarWinds reasonably believes it is required to protect SolarWinds, its customers, or the public. 
+
+SolarWinds may provide aggregated statistics about users (including User) to third parties, but such information will be aggregated so that it does not identify a particular individual or company, including User. 
+
   4. Choice/Opt-Out  
 SolarWinds may periodically send User information regarding SolarWinds and its products. If User has been receiving such information and does not wish to continue receiving such information, please contact SolarWinds at [webmaster@solarwinds.com](mailto:webmaster@solarwinds.com), and let SolarWinds know that User no longer wishes to receive such information. Alternatively, User can simply reply to an email from SolarWinds and type "REMOVE" in the subject line. 
   5. Disclosure of User Information  
-SolarWinds will, to the extent possible, control User information, and, except as otherwise set forth herein, not disclose such User information to third parties. However, in the event disclosure of any User information by SolarWinds is required by law, SolarWinds may disclose such User information without the consent of User. 
+SolarWinds will, to the extent possible, control User information, and, except as otherwise set forth herein, not disclose such User information to third parties. However, in the event disclosure of any User information by SolarWinds is required by law, rule, or regulation, for law enforcement reasons, or for the safety of the SolarWinds community, SolarWinds may disclose such User information without the consent of User. 
   6. Cookies  
 A "cookie" is a piece of data stored on User's hard drive containing information about the User. SolarWinds may use cookies in order to collect certain information about User, such as IP addresses (e.g., whether User is logged on from a .com, .gov, or .edu domain), domain names (the Internet address of a computer), and type of computer and operating system being used. SolarWinds may collect such information in order to better operate the Website so as to enhance User's use of the Website. By using cookies, SolarWinds is able to recognize User when User revisits the Website, and it is able to remember certain information about User, such as User's contact information. Depending on the type of browser User is using, it may be set to alert User of cookies. User does not have to accept all cookies sent to User by the SolarWinds Website; however, depending on the particular cookie User rejects, User may not be able to use some of the features in the Website if a particular cookie is rejected. 
   7. Third Party Sites   
@@ -27,5 +30,5 @@ This Privacy Statement and the Terms of Use of the SolarWinds Website constitute
 
 
 
-Copyright 2012 SolarWinds Worldwide, LLC All Rights Reserved.  
-Last Updated 02/01/2012 
+Copyright 2013 SolarWinds Worldwide, LLC All Rights Reserved.  
+Last Updated 06/11/2013 
