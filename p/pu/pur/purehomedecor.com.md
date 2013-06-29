@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the purehomedecor.com privacy policy that was archived on 2012-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121224235232id_/http%3A//www.purehomedecor.com/page/8/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the purehomedecor.com privacy policy that was archived on 2013-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130629063441id_/http%3A//www.purehomedecor.com/page/8/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -32,6 +32,9 @@ Information collected generally includes the IP address of the user accessing pu
 **Third Party Service Providers**  
 To make our online sales website operate efficiently, we may use third party service providers. Operation paraphernalia may include hosting, data analysis, email handling, providing search results and links, assistance in order fulfillment, etc. Your information provided at purehomedecor.com may be accessed by few of the service providers who are involved in the order fulfillment, transaction and shipping process. Only relevant information on a need-to-know basis is provided to the corresponding service providers.  
 Exclusions Your personal information may be disclosed by Pure Home Decor only in compliance with a court order, subpoena, administrative order, governmental order, or an event related to law. At its sole discretion, Pure Home Decor considers it necessary to protect our/others's rights to avert harm to persons/property, to fight fraud and credit risk, or to put into effect/apply terms of use of purehomedecor.com. Personally identifiable information may be transferred as an asset on account of a sale/merger (including bankruptcy) involving the entire or fraction of our business. The transfer may also happen as part of a stock sale, a corporate reorganization, etc.
+
+**Push Notifications/Alerts**  
+With your consent, we may send push notifications or alerts to your mobile device regarding your purchase. You can deactivate these messages/SMS at any time by changing the notification settings on your mobile device. We confirm, not to use this information to send any promotional or other material to your mobile device.
 
 **Change in Privacy Policy**  
 Your acknowledgement to our Privacy Policy indicates that you agree to the Terms of Use. As a member of purehomedecor.com, you unreservedly agree to our Privacy Policy. If you disagree with this Privacy Policy, please do not use purehomedecor.com. Your visit and the entire transaction including any dispute that may arise over privacy are subject to this policy.  
