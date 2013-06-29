@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the golfwrx.com privacy policy that was archived on 2012-11-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121111172607id_/http%3A//www.golfwrx.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the golfwrx.com privacy policy that was archived on 2013-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130629235938id_/http%3A//www.golfwrx.com/privacy-policy) for the most accurate reproduction.*
 
-# GolfWRX.com – Privacy Policy
+# Privacy Policy - GolfWRX
 
 **Privacy Policy**
 
