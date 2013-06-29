@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the bloggersentral.com privacy policy that was archived on 2012-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121225030315id_/http%3A//www.bloggersentral.com/p/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bloggersentral.com privacy policy that was archived on 2013-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130629100850id_/http%3A//www.bloggersentral.com/p/privacy.html) for the most accurate reproduction.*
 
-# Blogger Sentral: Privacy | Blogging tips, tricks, tutorials and widgets
+# Privacy
 
 **Privacy Policy for[http://www.bloggersentral.com](http://www.bloggersentral.com/ "http://bloggersentral.blogspot.com")**[ ****](http://bloggersentral.blogspot.com/ "http://bloggersentral.blogspot.com")
 
