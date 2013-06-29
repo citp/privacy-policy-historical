@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vam.ac.uk privacy policy that was archived on 2012-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121101145912id_/http%3A//www.vam.ac.uk/content/articles/p/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vam.ac.uk privacy policy that was archived on 2013-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130629063506id_/http%3A//www.vam.ac.uk/content/articles/p/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy and use of cookies - Victoria and Albert Museum
 
@@ -7,7 +7,7 @@ Your privacy is important to us. This page explains our online information pract
 
 We may amend this privacy policy at any time by posting changes on this page. Amendments will automatically take effect upon publication. The last date of revision will always appear on the privacy policy.
 
- **Last updated: 06 June 2012**
+ **Last updated: 20 November 2012**
 
 * * *
 
@@ -15,7 +15,7 @@ We may amend this privacy policy at any time by posting changes on this page. Am
 
 This notice applies to all information collected or submitted on the Victoria and Albert Museum's domains www.vam.ac.uk and www.museumofchildhood.org.uk and includes areas of the website where you can create an account, comment on blogs, sign up for newsletters, enter competitions and book tickets for events or exhibitions as well as information collected automatically by cookies, if enabled.
 
-For information about your protection while making an online purchase from the online V&A Shop, please refer to the [V&A Shop Privacy & Security](http://http//www.vandashop.com/page.php?xPage=security.html "V&A Shop security page") page.
+For information about your protection while making an online purchase from the online V&A Shop, please refer to the [V&A Shop Privacy & Security](http://www.vandashop.com/info/privacy) page.
 
 The V&A is not responsible for the privacy policy of services on third party websites (for example Facebook, Twitter, YouTube, etc). You should refer to the appropriate privacy policies of each individual third party website for further information about them and their terms.
 
@@ -49,8 +49,9 @@ We use Google Analytics to collect information about site usage and performance.
 
 This table lists the cookies that we use, how they help you use particular services, what type of cookie they are and the websites that are setting the cookies on your computer.
 
-  Blogs on the site | Allows a logged in status to enable posting comments on blogs | Long term | persistent | www.vam.ac.uk | CHOCOL ATECHIP  
+    User survey 2012| Store non-personal data about survey responses to a web visitor survey in 2012. The survey asks you for your reason for visiting. Cookies are used to record the overall number of answers to the survey question and to link these to web stats. They do not store your personal data. The cookie is also used to allow the form to be hidden on your return visits. This is to prevent you from being shown the form again unnecessarily. This survey is part of a cross-organisational research project and (anonymous) data from this survey will be shared with other cultural organisations and research findings will be openly published. | 2 years| persistent| www.vam.ac.uk| ki_u, ki_s , ki_t  
 ---|---|---|---|---|---  
+Blogs on the site | Allows a logged in status to enable posting comments on blogs | Long term | persistent | www.vam.ac.uk | CHOCOL ATECHIP  
 Recently viewed feature | maintains a list of recently viewed articles for your convenience | During visit only | session | www.vam.ac.uk | asset-id-history  
 Buying tickets online | allows the creation of a shopping basket for tickets and logging in/creating an account for buying tickets | During visit only | session | transactions.vam.ac.uk | ASPSESSIONIDSSDBDDQQ  
 Buying tickets online | allows the creation of a shopping basket for tickets and logging in/creating an account for buying tickets | During visit only | session | transactions.vam.ac.uk | eSRO%5FUID  
