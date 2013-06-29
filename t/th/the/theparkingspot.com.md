@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the theparkingspot.com privacy policy that was archived on 2011-10-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111005185450id_/http%3A//www.theparkingspot.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theparkingspot.com privacy policy that was archived on 2013-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130630002959id_/http%3A//www.theparkingspot.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy – The Parking Spot
 
-As part of the operation of this website (the "Website"), PRG Parking Management, L.L.C., a Delaware limited liability company d/b/a The Parking Spot gathers certain types of information about users of this Website. This policy describes the types of information gathered, what is done with it, and how to correct or change the information.
+As part of the operation of this website (the "Website"), TPS Parking Management, LLC, a Delaware limited liability company d/b/a The Parking Spot gathers certain types of information about users of this Website. This policy describes the types of information gathered, what is done with it, and how to correct or change the information.
 
 1. ** _Information Collected_.** The Parking Spot collects two types of personally identifying information from users who use this Website: personal information (such as names and e-mail addresses) and aggregated information (such as information about how many users log into this Website on a daily basis, and other information about traffic patterns on this Website).
 
