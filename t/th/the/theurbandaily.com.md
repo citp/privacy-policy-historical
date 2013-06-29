@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the theurbandaily.com privacy policy that was archived on 2012-11-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121117233357id_/http%3A//theurbandaily.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theurbandaily.com privacy policy that was archived on 2013-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130629084659id_/http%3A//theurbandaily.com/privacy) for the most accurate reproduction.*
 
 # Privacy | The Urban Daily
 
