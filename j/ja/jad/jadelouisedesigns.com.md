@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jadelouisedesigns.com privacy policy that was archived on 2012-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121228045746id_/http%3A//jadelouisedesigns.com/privacy-policy-jadelouise-designs) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jadelouisedesigns.com privacy policy that was archived on 2013-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130629032720id_/http%3A//jadelouisedesigns.com/privacy-policy-jadelouise-designs) for the most accurate reproduction.*
 
 # Privacy Policy for JadeLouise Designs - Jade Louise Designs| A Family Lifestyle Blog
 
@@ -33,3 +33,5 @@ Please contact those vendors and others directly if you have any questions about
 For any other information email [webmaster](mailto:amber@jadelouisedesigns.com) 
 
 This privacy policy is subject to change without notice.
+
+**0** Flares Twitter 0 Facebook 0 Google+ 0 Reddit 0 StumbleUpon 0 LinkedIn 0 Email \-- [Email to a friend](mailto:?body=Check%20out%20this%20article%20I%20found%20on%20Jade%20Louise%20Designs%7C%20A%20Family%20Lifestyle%20Blog%3A%0D%0A%0D%0APrivacy%20Policy%20for%20JadeLouise%20Designs%0D%0Ahttp%3A%2F%2Fjadelouisedesigns.com%2Fprivacy-policy-jadelouise-designs%2F&subject=Check%20out%20this%20article%20I%20found%20on%20Jade%20Louise%20Designs%7C%20A%20Family%20Lifestyle%20Blog "Email to a friend") **0** Flares ×
