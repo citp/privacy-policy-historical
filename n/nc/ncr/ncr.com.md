@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ncr.com privacy policy that was archived on 2012-10-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121020044529id_/http%3A//www.ncr.com/home/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ncr.com privacy policy that was archived on 2013-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130629163900id_/http%3A//www.ncr.com/home/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | NCR.com | NCR
 
@@ -61,7 +61,7 @@ We will take appropriate steps to safeguard Personal Information to reduce the r
 We are always working to improve our business methods and policies. As a result, this policy may be updated or amended. If we substantially change it, we will post a notice on this site for at least 30 days, describing the change, and we will revise the "last updated" date above to reflect the change.
 
 **Contacting us with privacy questions and/or concerns**  
-We want to address any concerns you may have. You may email any comments or questions regarding this policy, or NCR’s handling of your Personal Information, to [privacy@ncr.com](mailto:privacy@ncr.com), or mail it to:
+We want to address any concerns you may have. You may email any comments or questions regarding this policy, or NCR’s handling of your Personal Information, to [NCR Privacy Office](mailto:OP230007@ncr.com), or mail it to:
 
 Privacy Office, Law Department  
 NCR Corporation  
