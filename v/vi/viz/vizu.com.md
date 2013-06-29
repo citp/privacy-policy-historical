@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vizu.com privacy policy that was archived on 2012-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121120133100id_/http%3A//www.vizu.com/w3c/policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vizu.com privacy policy that was archived on 2013-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130629205606id_/http%3A//www.vizu.com/w3c/policy.htm) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -10,11 +10,11 @@ Where necessary, a detailed privacy policy for your country is available below i
 
 We provide research services to advertisers and marketers so that they understand how well (or not) their online advertising campaigns are working. Our information is used for understanding advertising performance only, and is not used to target ads to consumers. 
 
-You may have reached this page by clicking on a privacy policy link from one of our surveys running across the Internet. This survey unit is how we collect our data, by surveying actual users on the Internet as they are being exposed to online advertising. 
+You may have reached this page by clicking on a privacy policy link from one of our surveys running across the Internet or on a mobile device. This survey unit is how we collect our data, by surveying actual users on the Internet as they are being exposed to online advertising. 
 
 **What information about me does Vizu collect?**
 
-As you surf websites on the Internet, you are exposed to advertising that is the primary source of revenue for those sites. We provide a technology that is used with these ads to understand if they are affecting opinions. When you are exposed to one of these ads Vizu collects some anonymous information related to your exposure history (e.g., how many individual ads in each campaign you were exposed to, how many times you saw each one, which site you were on when you saw each advertisement, and your survey response if you answered). This data is used to measure the impact the campaign is having on users. 
+As you surf websites on the Internet and access applications on mobile devices, you are exposed to advertising that is the primary source of revenue for those sites. We provide a technology that is used with these ads to understand if they are affecting opinions. When you are exposed to one of these ads Vizu collects some anonymous information related to your exposure history (e.g., how many individual ads in each campaign you were exposed to, how many times you saw each one, which site you were on when you saw each advertisement, and your survey response if you answered). This data is used to measure the impact the campaign is having on users. 
 
 The information that we collect is strictly limited to the ad campaign data described above. We never know who you are and we would not have the ability to identify you or tie any survey response back to you. 
 
@@ -32,38 +32,44 @@ Vizu plays an important role in this ecosystem by providing a safe and anonymous
 
 **Can I opt out of Vizu collecting any information about me?**
 
-Yes, by clicking the button below. This will download an "opt-out" cookie onto your computer which will prevent any future data collection by Vizu. As long as this opt-out cookie remains on your computer Vizu will not collect any data about you. 
+You can opt out of in-browser tracking, by clicking the button below. This will download an "opt-out" cookie onto your computer which will prevent any future data collection on your computer. As long as this opt-out cookie remains on your computer Vizu will not collect any data about you on your computer. To opt out of tracking on your mobile device, you can update the setting on the device itself to limit ad tracking. 
 
   * Click here to view the privacy policy for the United States and Australia.
   * Click here to view the privacy policy for the United Kingdom.
 
 
 
-**Last Updated: September 20, 2012**
+**Last Updated: 22 February 2013**
 
-Vizu Corporation ("Vizu," "we," or "us"), located at 185 Berry Street Suite 5200, San Francisco, California 94107, USA, is a member of the Nielsen family of companies ("Nielsen"). We recognize the importance of protecting the privacy rights of our users and we have created this Privacy Policy to explain our privacy practices so you will understand when and how information is collected, used, disclosed and protected through our Ad Catalyst service located at the primary domain of Vizu.com (the "Site"). By accessing our Site or services, or responding to any survey through the services, you agree to the terms and conditions of this Privacy Policy. 
+Vizu Corporation ("Vizu," "we," or "us"), located at 185 Berry Street Suite 5200, San Francisco, California 94107, USA, is a member of the Nielsen family of companies ("Nielsen"). We recognize the importance of protecting the privacy rights of our users and we have created this Privacy Policy to explain our privacy practices so you will understand when and how information is collected, used, disclosed and protected through our Ad Catalyst service located at the primary Internet domain of Vizu.com (the "Site"). By accessing our Site or services, or responding to any survey through the services, you agree to the terms and conditions of this Privacy Policy. 
 
 **What does Vizu do?**
 
-Vizu provides a survey research and measurement service that monitors the performance of brand advertising campaigns on the Internet to help advertisers and marketers understand how effectively their online advertising campaigns perform. 
+Vizu provides a survey research and measurement service that monitors the performance of brand advertising campaigns on the Internet and in ad-supported mobile applications to help advertisers and marketers understand how effectively their digital advertising campaigns perform. 
 
-**How Vizu Uses Cookies**
+**How Vizu Uses Cookies and Unique Identifiers**
 
-We use cookies at the Site, [www.vizu.com](http://www.vizu.com/), and in our Ad Catalyst measurement service. Cookies are small text files that are placed on your computer by websites that you visit. They are widely used in order to make websites work, or work more efficiently, or to provide information to the owners of the site as well as doing web analytics, which means statistical market research services. 
+We use cookies at the Site, [www.vizu.com](http://www.vizu.com/), and in the Internet version of our Ad Catalyst measurement service. Cookies are small text files that are placed on your computer by websites that you visit. They are widely used in order to make websites work, or work more efficiently, or to provide information to the owners of the site as well as doing web analytics, which means statistical market research services. In the version of Ad Catalyst that works in ad-supported mobile applications (the “in-app” version), we use a hashed version of a mobile device’s identifier instead of a cookie. Hashing makes the device’s identifier anonymous while keeping it unique. 
 
 _At Vizu.com_
 
 We use two kinds of cookies at our Site. The Google Analytics cookie collects information about how visitors use our Site, which we use to help improve it. Among other things, the cookies collect information about the number of visitors to the Site, where visitors have come to the Site from and the pages they visit while they are here. The Google Analytics cookie remains on your computer after you close your browser; this type of cookie is known as a "persistent" cookie. We use another persistent cookie when Vizu clients log in to the Ad Catalyst dashboard through the Site. This cookie keeps track of when Vizu clients log into the dashboard. 
 
-_In Ad Catalyst_
+_In Internet Ad Catalyst_
 
 Ad Catalyst is a web analytics service that uses a cookie with a unique identifier to record whether an advertisement was displayed to a particular browser and whether a person using that browser answered a survey about that particular advertising campaign. The information collected using these cookies is limited to a list of the advertising creative units in the campaigns that were displayed to the computer, the sites on which the advertisements appeared, along with the number of times each unit was shown and the day/time of each exposure. 
 
-If you do not want information collected through the use of cookies, there is a simple procedure in most browsers that allows you to decline the use of cookies. Some features of the service, including opting out, may not work properly if you decline the use of cookies. To learn more about cookies, please visit <http://www.allaboutcookies.org/>. For more information about how to opt-out of our services, see the section entitled " Opting Out" below. To opt out of being tracked by Google Analytics across all websites visit <http://tools.google.com/dlpage/gaoptout>. 
+If you do not want information collected through the use of cookies on the Internet, there is a simple procedure in most browsers that allows you to decline the use of cookies. Some features of the service, including opting out, may not work properly if you decline the use of cookies. To learn more about cookies, please visit <http://www.allaboutcookies.org/>. For more information about how to opt-out of our services, see the section entitled "Opting Out" below. To opt out of being tracked by Google Analytics across all websites visit <http://tools.google.com/dlpage/gaoptout>. 
+
+_In "In-App" Ad Catalyst_
+
+In the mobile in-app environment, Ad Catalyst uses a hashed version of a mobile device’s ID as an anonymous unique identifier to record whether an advertisement was displayed on a particular mobile device. The information collected using these unique identifiers is limited to a list of the advertising creative units in the campaigns that were displayed on the device, the apps in which the advertisements appeared, along with the number of times each ad unit was shown and the day/time of each exposure. 
+
+If you do not want your in-app ad exposure measured, or you would like to clear your tracking history, you can adjust the settings on your mobile device. On an iOS 6 device, go to the device’s Settings menu, and change the setting to limit ad tracking. To reset your tracking on Android mobile devices, go to the Settings menu and reset your device to its original factory settings. 
 
 **How Vizu's survey research and measurement service works**
 
-Advertisers include a Vizu tag with their ads and then place the ads on select sites around the web. The information collected includes the number of impressions each ad receives, how many individual ads in each campaign each viewer was exposed to, how many times a viewer saw each ad, and which site the viewer was on when the viewer saw the ad. No personal data are collected from viewers of advertisements and the IP address of a viewer's computer, mobile or other device is not collected, recorded or stored. 
+Advertisers include a Vizu tag with their ads and then place the ads on select sites around the web and in select mobile applications. The information collected includes the number of impressions each ad receives, how many individual ads in each campaign each Internet browser session or mobile device was exposed to, how many times each ad was displayed, and which site the viewer was on or which ad-supported mobile application was running when the the ad was displayed. No personal data are collected from viewers of advertisements or from their mobile devices, and the IP address of a viewer’s computer, mobile or other device is not collected or stored. 
 
 The service also presents a single survey question randomly to a small subset of the viewers of an advertising campaign. This question is a multiple choice question with a predetermined set of answer choices related to the primary marketing objective of the ad campaign. Responses are voluntary. If the viewer responds to a survey question, the response is stored in a database. The surveys do not ask for or collect any personal data; all survey responses are anonymous and are **_not_** linked to the Vizu cookie. 
 
@@ -83,19 +89,29 @@ Your "IP address" is a number that is automatically assigned by your Internet se
 
 _From Customers_
 
-For Vizu customers who are using the service to measure their advertising efforts, registration is required to enable access to some features, functionality, and information on the Site, to send them specific information related to their service, to allow them to access stored information, and to facilitate communication from Vizu. When registering on Vizu, customers may need to provide their full name and email address. Customers must also select a username and password for their account. 
+For Vizu customers who are using the service to measure their advertising efforts, registration is required to enable access to some features, functionality, and information on the Site, to send them specific information related to their service, to allow them to access stored information, and to facilitate communication from Vizu. When registering on Vizu.com, customers may need to provide their full name and email address. Customers must also select a username and password for their account. 
 
-_From Viewers_
+_From Internet Viewers_
 
 Vizu records how many times a Vizu-tagged advertisement was displayed to a browser that has a Vizu cookie ("viewer"), how many different ads in a particular campaign were displayed to a viewer, and on which websites the advertisements were seen. This information is used to understand what impact the campaign is having on users. 
 
-_From Survey Respondents_
+_From Mobile Application Viewers_
 
-As mentioned before, the Vizu service presents a single survey question to a small subset of the viewers of an advertising campaign. Responses are entirely voluntary. 
+Vizu can record how many times a Vizu-tagged advertisement was displayed on a mobile device (“viewer”), how many different ads in a particular campaign were displayed to a viewer, and on which ad-supported mobile applications the advertisements were seen. This information is used to understand what impact the campaign is having on users. 
 
-Vizu records whether a survey relating to a Vizu-tagged advertising campaign was presented to particular browser with a stored Vizu cookie and whether the viewer answered the survey question. Vizu also records the respondent's answer to the survey question but does not link the survey answers to the Vizu Ad Catalyst cookie. Surveys do not ask for or collect any personally-identifiable information. The information that we collect is non-personally identifiable and strictly limited to the ad campaign data described above. 
+_From Internet Survey Respondents_
 
-By responding to a survey and providing such information, you consent to the collection and use of the information as described in this policy. 
+As mentioned before, the Vizu service presents a single survey question to a small subset of the viewers of an Internet advertising campaign. Responses are entirely voluntary. 
+
+Vizu records whether a survey relating to a Vizu-tagged advertising campaign was presented to particular browser with a stored Vizu cookie and whether the viewer answered the survey question. Vizu also records the respondent’s answer to the survey question but does not link the survey answers to the Vizu Ad Catalyst cookie. Surveys do not ask for or collect any personally-identifiable information. The information that we collect is non-personally identifiable and strictly limited to the ad campaign data described above. 
+
+_From Mobile Application Survey Respondents_
+
+The Vizu service presents a single survey question to a small subset of the viewers of an in-app mobile advertising campaign. Responses are entirely voluntary. 
+
+Vizu records whether the viewer answered the survey question. Vizu also records the respondent’s answer to the survey question. Surveys do not ask for or collect any personally-identifiable information. The information that we collect is non-personally identifiable and strictly limited to the ad campaign data described above. 
+
+By responding to a Vizu Internet or mobile application survey and providing such information, you consent to the collection and use of the information as described in this policy. 
 
 **How do we use this information?**
 
@@ -113,7 +129,7 @@ Vizu may disclose collected information pursuant to a subpoena or other judicial
 
 **How do we protect your information?**
 
-We store the information described in this Privacy Policy for as long as needed for the market research purposes as described in this Policy. We have implemented certain commercially reasonable organizational, technical and administrative security measures designed to help protect the security and confidentiality of information while controlled by us. We limit access to your information to employees and agents who we believe reasonably need to come into contact with that information, all of whom are bound by this Privacy Policy. Access or use of information for any purpose other than those explained in this Privacy Policy will not be authorized. 
+We store the information described in this Privacy Policy for as long as needed for the market research purposes as described in this Policy. We have implemented certain commercially reasonable organizational, technical and administrative security measures designed to help protect the security and confidentiality of information while controlled by us. We limit access to information to employees and agents who we believe reasonably need to come into contact with that information, all of whom are bound by this Privacy Policy. Access or use of information for any purpose other than those explained in this Privacy Policy will not be authorized. 
 
 Unfortunately, no data transmission over the Internet can be guaranteed to be 100% secure. We strongly recommend that you employ a secure browser - one that supports secure transmission of data across the Internet. For more information, consult your browser's help feature. If you have reason to believe that your interaction with us is no longer secure (for example, if you feel that the security of any account you might have with us has been compromised), please immediately notify us of the problem by contacting us as set forth below. 
 
@@ -121,17 +137,19 @@ Please note, if you are a customer and do not logout once registered for service
 
 **Opting Out**
 
-Viewers of ad campaigns are free to opt-out of measurement by the Vizu service at any time. An opt-out button to accomplish this is provided at the bottom of this page. This will download an "opt-out" or "do-not-track" cookie onto your machine and you will no longer be tracked or surveyed about ad campaigns that you may view. As long as this opt-out cookie remains on your computer Vizu will not collect any data about you. You must keep this do-not-track cookie on your computer and not remove it in order to remain opt-ed out of the collection of information through the Vizu service. If your machine automatically removes cookies or you remove the opt-out cookie periodically, you will have to opt out again. 
+Viewers of Internet ad campaigns are free to opt-out of measurement by the Vizu service at any time. An opt-out button to accomplish this is provided at the bottom of this page. This will download an "opt-out" or "do-not-track" cookie onto your computer and you will no longer be tracked or surveyed by Vizu about ad campaigns that you may view. As long as this opt-out cookie remains on your computer Vizu will not collect any data about you. You must keep this do-not-track cookie on your computer and not remove it in order to remain opt-ed out of the collection of information through the Vizu service. If your machine automatically removes cookies or you remove the opt-out cookie periodically, you will have to opt out again. 
+
+Viewers of ad campaigns that appear within mobile applications can opt out of tracking advertising exposure on an iOS 6 device by changing the setting to limit ad tracking in the Settings menu of the device. To reset your tracking on Android mobile devices, in the Settings menu, reset your device to original factory settings. 
 
 _To opt-out please click the button above._
 
 ##  Children Under 13 
 
-Vizu's Site and service are not directed at children under the age of 13 and Vizu does not collect personally identifiable information from anyone, including children under the age of 13. If a parent or guardian believes that this Site has collected the personally identifiable information of a child under the age of 13 (for example, if a child has registered for an account), please contact Vizu at the address below and we will use our best efforts to remove the information from our records. 
+Vizu's Site and service are not directed to children under the age of 13 and Vizu does not collect personally identifiable information from anyone, including children under the age of 13. If a parent or guardian believes that this Site has collected the personal information of a child under the age of 13 (for example, if a child has registered for an account), please contact Vizu at the address below and we will use our best efforts to remove the information from our records. 
 
 **Updates to this Privacy Policy**
 
-Vizu reserves the right to update and change this Privacy Policy. If we make any material changes to our Privacy Policy, we will post a new statement on our Site and update the "Last Updated" date at the top of the Privacy Policy. Therefore, we encourage you to check this Privacy Policy frequently to stay apprised of any updates and changes. Please take a look at the "Last Updated" legend at the top of this page to see when this Privacy Policy was last revised. Any changes to this Privacy Policy will become effective when we post the revised Privacy Policy on the Site. Your responses to surveys or use of the Site and service following these changes mean that you accept the revised Privacy Policy. 
+Vizu reserves the right to update and change this Privacy Policy. If we make any material changes to our Privacy Policy, we will post a new statement on our Site and update the "Last Updated" date at the top of the Privacy Policy. Therefore, we encourage you to check this Privacy Policy frequently to stay apprised of any updates and changes. Please take a look at the "Last Updated" legend at the top of this page to see when this Privacy Policy was last revised. Any changes to this Privacy Policy will become effective when we post the revised Privacy Policy on the Site. Your responses to Internet or mobile application surveys or use of the Site and service following these changes mean that you accept the revised Privacy Policy. 
 
 **Third Party Privacy Policies**
 
