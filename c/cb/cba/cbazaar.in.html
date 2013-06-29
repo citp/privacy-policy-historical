@@ -1,565 +1,1245 @@
-<!--The following is the downloaded HTML source of the cbazaar.in privacy policy that was archived on 2012-11-20.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121120001948id_/http%3A//www.cbazaar.in/privacy-policy.aspx) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the cbazaar.in privacy policy that was archived on 2013-06-29.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130629092627id_/http%3A//www.cbazaar.in/privacy-policy.aspx) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en"><head><title>
 
-</title><link href="/Resources/Styles/NAT.css" rel="stylesheet" type="text/css">
+</title><link rel="stylesheet" type="text/css" href="/Resources/Styles/MinifiedStyles/10combined_513D554BEFC92C5BCFF19657C9CD1AFE.css"><script type="text/javascript" async="" src="https://tracking.sokrati.com/javascripts/tracker.js"></script><script type="text/javascript" async="" src="https://stats.g.doubleclick.net/dc.js"></script><script type="text/javascript" src="/Resources/JavaScripts/Minifiedjs/10combined_3F078BDE6641EE168D406A40C8BF8856.js"></script>
+   
+    
     <!--[if IE 7]>
     <link href="/Resources/Styles/ie7.css" rel="stylesheet" type="text/css" />
     <![endif]-->
-    <script type="text/javascript" async="" src="//doug1izaerwt3.cloudfront.net/e388473fd207511871745b53167fc9745e0a1dbb.1.js"></script><script type="text/javascript" async="" src="//i.kissmetrics.com/i.js"></script><script async="" charset="utf-8" src="//cdn.zopim.com/?hNYCW8ZTs1TPyGl1S0R6xwFfb3AELCtD" type="text/javascript"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" async="" src="https://insight.torbit.com/v1/insight.min.js"></script><script src="/Resources/JavaScripts/jquery-1.6.2.min.js" type="text/javascript"></script>
-    <script src="/Resources/JavaScripts/jquery-ui-1.8.18.custom.min.js" type="text/javascript"></script>
-    <script src="/Resources/JavaScripts/jquery.colorbox.js" type="text/javascript"></script>
-    <script src="/Resources/JavaScripts/jquery.easing.1.3.js" type="text/javascript"></script>
-    <script src="/Resources/JavaScripts/jquery.jscrollpane.js" type="text/javascript"></script>
-    <script src="/Resources/JavaScripts/main.js" type="text/javascript"></script>
-    <script src="/Resources/JavaScripts/helper.js" type="text/javascript"></script>    
-    <script src="/Resources/JavaScripts/Social_Tracker.js" type="text/javascript"></script>
-    <script src="/Resources/JavaScripts/jquery.tmpl.min.js" type="text/javascript"></script>
-    <script language="javascript" type="text/javascript">
+    
+    <script type="text/javascript">
+
+
+        //Start of Unbxd Search        
+        function checkKey(el, dummy, e) {
+            //gDomain
+            var keynum;
+            if (window.event) { // IE		
+                keynum = e.keyCode;
+            } else if (e.which) { // Netscape/Firefox/Opera		
+                keynum = e.which;
+            }
+            if (keynum == 13) {
+                var vSearchText;
+                //if ($("#genericSrch").is(":checked") == true) 
+                var regExp = /([{!#$%^&*\'"<>`~}])/;
+
+                vSearchText = $.trim($("#expTextInput1").val().toLowerCase());
+                if (vSearchText != "Start typing here" && vSearchText.replace(/ /g, '') != "" && regExp.test(vSearchText) != true && vSearchText.length > 0) {
+                    Helper.UnbxdCookieCreation(vSearchText);
+                }
+                else {
+                    $("#dvGenSearch").addClass("exploreBarerror");
+                    return false;
+                }
+
+
+
+            } else {
+                ajax_showOptions(el, '', e);
+            }
+            return false;
+        }
+
+        //        $(function () {
+        //            var $scroller = $("#scroller");
+        //            $scroller.vTicker('init', { height: 14, showItems: 1 });
+        //        });
+
+        //End of Unbxd Search
         $(document).ready(function () {
             UserDetails.LogOutEvents();
             UserDetails.NewsLetter();
+            /*Append Colorbox in Default Signup popup*/
+            if ((gUserId == "0" || isNaN(gUserId) || gUserId == "") && window.location.pathname.length > 1 && window.location.href.substr(window.location.href.lastIndexOf("/") + 1) != "default.aspx") {
+                Helper.VerifyRGV();
+            }
+
+            $(".feedbackform").click(function () {
+                $(".surveyMonkeyweblink").empty();
+                $('<iframe src="https://www.surveymonkey.com/s/HPBnewlook" rel="nofollow" frameborder="0" scrolling="yes" height="100%" width="100%" id="surveyMonkeyFrame"></iframe>').appendTo('.surveyMonkeyweblink');
+            });
+
+            $(".livechat").click(function () {
+                _gaq.push(['_trackEvent', 'Liveperson', 'click', 'LivePersonCustIni']);
+                var liveperson = 'https://server.iad.liveperson.net/hc/82357780/?cmd=file&file=visitorWantsToChat&site=82357780&LEAppKey=f907f2d9acd64b7f8c00b83bed3c2822&referrer=';
+                var httpurl = document.location.href.split('//');
+                var wwwurl = "";
+                if (httpurl.length > 1)
+                    wwwurl = httpurl[1].split('/')[0];
+                else
+                    wwwurl = httpurl[0].split('/')[0];
+                var liverpersonurl = liveperson + 'http://' + wwwurl + '/&referrer=' + escape(document.location);
+
+                liverpersonurl = (typeof (lpAppendVisitorCookies) != 'undefined' ? lpAppendVisitorCookies(liverpersonurl) : liverpersonurl);
+                liverpersonurl = ((typeof (lpMTag) != 'undefined' && typeof (lpMTag.addFirstPartyCookies) != 'undefined') ? lpMTag.addFirstPartyCookies(liverpersonurl) : liverpersonurl);
+                window.open(liverpersonurl, 'chat82357780', 'width=475,height=400,resizable=yes');
+                return false;
+            });
+            $(".livechat2").click(function () {
+                _gaq.push(['_trackEvent', 'Liveperson', 'click', 'LivePersonCustIni']);
+            });
+
+            (function ($) {
+                $.extend(jQuery.tmpl.tag, {
+                    "for": {
+                        _default: { $2: "var i=1;i<=1;i++" },
+                        open: 'for ($2){',
+                        close: '};'
+                    }
+                });
+            })(jQuery);
+            var data = {};
         });
     </script>
-    <link id="EsFavicon" rel="shortcut icon" type="image/x-icon" href="/Resources/PL_Images/10.ico">
-    <!--Torbit script start-->
+    <!-- Start Visual Website Optimizer Asynchronous Code -->
     <script type="text/javascript">
-        var TBRUM = TBRUM || {}; TBRUM.q = TBRUM.q || []; TBRUM.q.push(['mark', 'firstbyte', (new Date).getTime()]);
-        (function () {
-            var a = document.createElement('script'); a.type = 'text/javascript'; a.async = true;
-            a.src = document.location.protocol + '//insight.torbit.com/v1/insight.min.js';
-            var b = document.getElementsByTagName('script')[0]; b.parentNode.insertBefore(a, b)
-        })();
+        var _vwo_code = (function () {
+            var account_id = 35876,
+        settings_tolerance = 2000,
+        library_tolerance = 1500,
+        use_existing_jquery = false,
+            // DO NOT EDIT BELOW THIS LINE
+        f = false, d = document; return { use_existing_jquery: function () { return use_existing_jquery; }, library_tolerance: function () { return library_tolerance; }, finish: function () { if (!f) { f = true; var a = d.getElementById('_vis_opt_path_hides'); if (a) a.parentNode.removeChild(a); } }, finished: function () { return f; }, load: function (a) { var b = d.createElement('script'); b.src = a; b.type = 'text/javascript'; b.innerText; b.onerror = function () { _vwo_code.finish(); }; d.getElementsByTagName('head')[0].appendChild(b); }, init: function () { settings_timer = setTimeout('_vwo_code.finish()', settings_tolerance); this.load('//dev.visualwebsiteoptimizer.com/j.php?a=' + account_id + '&u=' + encodeURIComponent(d.URL) + '&r=' + Math.random()); var a = d.createElement('style'), b = 'body{opacity:0 !important;filter:alpha(opacity=0) !important;background:none !important;}', h = d.getElementsByTagName('head')[0]; a.setAttribute('id', '_vis_opt_path_hides'); a.setAttribute('type', 'text/css'); if (a.styleSheet) a.styleSheet.cssText = b; else a.appendChild(d.createTextNode(b)); h.appendChild(a); return settings_timer; } };
+        } ()); _vwo_settings_timer = _vwo_code.init();
+    </script><script src="//dev.visualwebsiteoptimizer.com/j.php?a=35876&amp;u=https%3A%2F%2Fweb.archive.org%2Fweb%2F20130629092627id_%2Fhttp%253A%2F%2Fwww.cbazaar.in%2Fprivacy-policy.aspx&amp;r=0.9155798317807229" type="text/javascript"></script>
+    <!-- End Visual Website Optimizer Asynchronous Code -->
+
+    <script type="text/javascript"> 
+        
     </script>
-    <!--Torbit script end-->
+
+
+    <link id="EsFavicon" rel="shortcut icon" type="image/x-icon" href="/Resources/PL_Images/10.ico">
+    <link rel="stylesheet" type="text/css" href="/Resources/Styles/MinifiedStyles/10combined_992189ED434FA58021F4853D5B30D013.css">
     
-<script type="text/javascript"> var _gaq = _gaq || [];_gaq.push(['_setAccount', 'UA-238952-9']);_gaq.push(['_trackPageview']);_gaq.push(['_trackPageLoadTime']);(function () {var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true; ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js'; var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);})();</script><script type="text/javascript">var _kmq = _kmq || []; var _kmk = _kmk || 'e388473fd207511871745b53167fc9745e0a1dbb';  function _kms(u){ setTimeout(function(){ var d = document, f = d.getElementsByTagName('script')[0], s = d.createElement('script'); s.type = 'text/javascript'; s.async = true; s.src = u; f.parentNode.insertBefore(s, f);  }, 1);  } _kms('//i.kissmetrics.com/i.js');  _kms('//doug1izaerwt3.cloudfront.net/' + _kmk + '.1.js'); </script><script async="true" type="text/javascript" src="https://s.adroll.com/j/roundtrip.js"></script></head>
-<body><div id="cboxOverlay" style="display: none;"></div><div id="colorbox" class="" style="padding-bottom: 42px; padding-right: 42px; display: none;"><div id="cboxWrapper" style=""><div style=""><div id="cboxTopLeft" style="float: left;"></div><div id="cboxTopCenter" style="float: left;"></div><div id="cboxTopRight" style="float: left;"></div></div><div style="clear: left;"><div id="cboxMiddleLeft" style="float: left;"></div><div id="cboxContent" style="float: left;"><div id="cboxLoadedContent" class="" style="width: 0px; height: 0px; overflow: hidden;"></div><div id="cboxLoadingOverlay" class="" style=""></div><div id="cboxLoadingGraphic" class="" style=""></div><div id="cboxTitle" class="" style=""></div><div id="cboxCurrent" class="" style=""></div><div id="cboxNext" class="" style=""></div><div id="cboxPrevious" class="" style=""></div><div id="cboxSlideshow" class="" style=""></div><div id="cboxClose" class="" style=""></div></div><div id="cboxMiddleRight" style="float: left;"></div></div><div style="clear: left;"><div id="cboxBottomLeft" style="float: left;"></div><div id="cboxBottomCenter" style="float: left;"></div><div id="cboxBottomRight" style="float: left;"></div></div></div><div style="position: absolute; width: 9999px; visibility: hidden; display: none;"></div></div>
+<script type="text/javascript"> var _gaq = _gaq || [];_gaq.push(['_setAccount', 'UA-238952-9']);_gaq.push(['_setDomainName','none']);_gaq.push(['_setAllowLinker',true]);_gaq.push(['_setAllowHash',false]);_gaq.push(['_setSiteSpeedSampleRate', 15]);_gaq.push(['_trackPageview']);(function () {var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true; ga.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'stats.g.doubleclick.net/dc.js'; var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);})();</script><script type="text/javascript" src="/Resources/JavaScripts/Social_Tracker.js"></script><script type="text/javascript">var s = document.createElement('script');s.src = 'http://analytics.unbxdapi.com/json.js';s.type = 'text/javascript';s.async = true;document.getElementsByTagName('head').item(0).appendChild(s);</script><script src="http://analytics.unbxdapi.com/json.js" type="text/javascript" async=""></script><script type="text/javascript">var UnbxdKey = 'u773651887-cbazaar-in-3d991d47b9c73f506722ad45b79d194b';var UnbxdCustName = 'cbazaar';var s = document.createElement('script');s.src = 'http://analytics.unbxdapi.com/unbxdAnalytics.js';s.type = 'text/javascript';s.async = true;document.getElementsByTagName('head').item(0).appendChild(s);</script><script src="http://analytics.unbxdapi.com/unbxdAnalytics.js" type="text/javascript" async=""></script><script charset="UTF-8" src="https://lptag.liveperson.net/tag/tag.js?site=82357780"></script></head>
+<body>
     <form method="post" action="privacy-policy.aspx" id="form1">
-<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUJNjkzODcwNjcwZGQRvOVqlkN1ET24KZZUTVg9bkyygO/zSZbP53UizpigSA==">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwULLTE4NjM3Mzg3MDJkZIv0nGy1kJxu0JmdID871/ZHFZ4v114CgvWZL36zIKd0">
 
-    <header>
-    <div class="headerWrapper">
-    		<div class="header">    			
-                <div class="logo">
-                   <a title="Cbazaar" href="http://www.cbazaar.in">
-                   <img src="/Resources/PL_Images/logo_cbazaar.png" alt="cbazaar logo" width="273" height="61"></a>
-                </div>
-
-            <ul class="topLinks">
-            
-                <li class="user">
-                  <h2>Welcome</h2>
-               </li>   
-                
-                <li class="logIn"><a id="alogin" oncontextmenu="return false;" title="Log In" href="/Resources/Widgets/loginPopup.htm" class="cboxElement">Log in</a></li>               
-               <li class="calNw last"><a id="hrefquickcall" oncontextmenu="return false;" title="Call now" href="/Resources/Widgets/question-callus.htm" class="cboxElement">Call now</a></li>   
-               
-               <li class="cart">
-                    <div class="shoppingcarto">
-                        <div class="spl">
-                            <div class="shCont">
-                                <div class="lnks shLnk" id="divPopCart">
-                                   <div class="medDarkGrey2"><p id="spnUsrCartCnt">0 Items</p>
-                                   </div>                                  
-                                </div>
-                                <div class="lnkDet3 shDet" id="divCart" style="display:none">
-                                    <em></em><a class="close" alt="Close" title="Close">close</a>
-                                    <div class="shoppingscroll">                            
-                                        <ul id="divCartPopUp">
-                                        </ul>                                       
-                                    </div>
-                                     <div class="shoppingcartoPopUp" id="divPurchase">
-                                            <a id="aBtnBuyNow" href="/singlecheckout.aspx" class="qbuynow2" style="display:none;" onclick="_gaq.push(['_trackPageview', '/vp-buynow.aspx']);"><span><b>I have finished shopping</b><i>Buy Now</i></span></a>
+<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEWAgKy74geAvTq89UKbIJUKVfwDYjNIf37gdvIQD8gZ1fShhJUxOrwXY3EHKo=">
+        <header>
+            <div class="headerWrapper">
+                <div class="header">
+                    <div class="logo" itemscope="" itemtype="http://schema.org/Organization">
+                        <a title="Cbazaar" href="http://www.cbazaar.in">
+                            <img src="/Resources/PL_Images/logo_cbazaar.png" alt="Cbazaar" width="273" height="61" itemprop="logo"></a>
+                    </div>
+                    
+                    <div class="shipCountry">
+                    </div>
+                    
+                    <div class="topLinks">
+                        <div id="divTopInfo">
+         <ul class="topinfo">                        
+            <li class="best"><span>Best prices</span></li> 
+            <li class="cod"><span>Cash on delivery</span></li>
+            <li class="easy"><span>Easy returns</span></li>
+            <li class="customize"><span>Choose &amp; customize</span></li>                       
+        </ul>       
+        </div>
+                        <div id="divHeaderOff">
+        <div class="fsordermsgin">
+            <ul>
+                <li>Free shipping all over India</li>
+            </ul>
+        </div>
+    </div>
+                        <ul>
+                            
+                            <li class="user">
+                                <div class="h2head">Welcome</div>
+                            </li>
+                            
+                            <li class="logIn"><a id="alogin" oncontextmenu="return false;" title="Login/Sign up">Login/Sign up</a></li>
+                            <li class="calNw last"><a id="hrefquickcall" oncontextmenu="return false;" title="Call now">Call now</a></li>
+                            
+                        </ul>
+                    </div>
+                    <div class="exploreBarWrapper">
+                        <div class="exploreBar guide">
+                            <input type="text" class="exploreTextInput" id="expTextInput" value="Start typing here">
+                            <input type="button" value="explore now" class="exploreBtn" id="btnGuideSearch">
+                        </div>
+                        <div id="dvGenSearch" class="exploreBar generic">
+                            <input type="text" class="exploreTextInput" id="expTextInput1" value="Start typing here" unbxdattr="sq" onkeyup="checkKey(this,'',event)">
+                            <input type="button" value="explore now" unbxdattr="sq_bt" class="exploreBtn" id="btnGenericSearch">
+                        </div>
+                        <ul class="searchOpt">
+                            <li class="dnone">
+                                <input id="genericSrch" type="radio" name="search" checked="checked"><label for="genericSrch">Generic
+                                search</label>
+                            </li>
+                            
+                            
+                        </ul>
+                    </div>
+                    <div class="cartitems">
+                        <div class="shoppingcarto">
+                            <div class="spl">
+                                <div class="shCont">
+                                    <div class="lnks shLnk" id="divPopCart">
+                                        <div class="medDarkGrey2" title="Cart Items">
+                                            <p id="spnUsrCartCnt">
+                                                Items
+                                            </p>
                                         </div>
-                                    <div id="NoCartPopUp" style="display:none">                                    
-                                        <b>No - More Items found in your cart</b>
                                     </div>
-                                    <div id="dvLoading" class="loadingbar" style="display:none">
-                                        &nbsp;<br>
-                                        <span></span>
+                                    <div class="lnkDet3 shDet" id="divCart" style="display: none">
+                                        <em></em><a class="close" title="Close">Close</a>
+                                        <div class="shoppingscroll">
+                                            <ul id="divCartPopUp">
+                                            </ul>
+                                            <ul id="divOutOfStock">
+                                            </ul>
+                                            <ul id="divCartCashBack" class="CartCashBack">
+                                                <li><span class="total" id="dvCashAmt"></span><span>Total Cashback value</span>
+                                                </li>
+                                            </ul>
+                                        </div>
+                                        <div class="shoppingcartoPopUp" id="divPurchase">
+                                            <a id="aBtnBuyNow" href="/singlecheckout.aspx" class="qbuynow2" style="display: none;" rel="nofollow" onclick="_gaq.push(['_trackPageview', '/vp-buynow.aspx']);"><span><i>Pay now</i><sub></sub><b></b></span></a>
+                                        </div>
+                                        <div id="NoCartPopUp" style="display: none">
+                                            <p>
+                                                No - More Items found in your cart
+                                            </p>
+                                        </div>
+                                        <div id="dvLoading" class="loadingbar" style="display: none">
+                                            &nbsp;<br>
+                                            <span></span>
+                                        </div>
                                     </div>
                                 </div>
                             </div>
+                            <div>
+                            </div>
                         </div>
-                        <div>
-                        </div>
                     </div>
-                </li>
-            </ul>
-                <div class="exploreBarWrapper">
-                    <div class="exploreBar guide">
-                         <input type="text" class="exploreTextInput" id="expTextInput" value="Start typing here">
-                         <input type="button" value="explore now" class="exploreBtn" id="btnGuideSearch">
-                    </div>
-                    <div id="dvGenSearch" class="exploreBar generic">
-                         <input type="text" class="exploreTextInput" id="expTextInput1" value="Start typing here">
-                         <input type="button" value="explore now" class="exploreBtn" id="btnGenericSearch">
-                    </div>
-                    <ul class="searchOpt">
-                      <li class="dnone">
-                         <input id="genericSrch" type="radio" name="search" checked="checked"><label for="genericSrch">Generic search</label>
-                      </li>
-                    
-                     
-                   </ul>
+                    <a class="fsmsg hidden" id="freeshipmsg">Avail Free Shipping </a>
                 </div>
-    		</div>
-    	</div>
-    <nav>
-        <div id="navMenu" class="navWrapper"><div class="nav">
-  <ul class="rootMenu">
-    <li class="sel"><a>Women</a><div class="subMenu" style="display: block;">
-        <ul class="subnav sel">
-          <li class="shwCselstItem"><a href="/readymade-kurti/pt-krr.html">Kurtis</a><div class="inMenu" style="display: none;">
-              <ul>
-                <li class="shwCselstItem"><a href="/readymade-kurti/cotton_kurti-specialty/c-sb.html" title="Cotton Kurtis">Cotton Kurtis</a></li>
-                <li class="shwCselstItem"><a href="/readymade-kurti/casual-style/c-sb.html" title="Casual Kurtis">Casual Kurtis</a></li>
-                <li class="shwCselstItem"><a href="/readymade-kurti/party_wear-occasion/c-sb.html" title="Party Wear Kurtis">Party Wear Kurtis</a></li>
-                <li class="shwCselstItem"><a href="/readymade-kurti/formal_wear-occasion/c-sb.html" title="Formal Kurtis">Formal Kurtis</a></li>
-                <li class="shwCselstItem"><a href="/readymade-kurti/anarkali-specialty/c-sb.html" title="Anarkali Kurtis">Anarkali Kurtis</a></li>
-                <li class="shwCselstItem"><a href="/readymade-kurti/long_kurtis-specialty/c-sb.html" title="Long Kurtis">Long Kurtis</a></li>
-                <li class="shwCselstItem"><a href="/kurti/casual-kurtis/c-2-618-982.html" title="Custom Casual Kurtis">Custom Casual Kurtis</a></li>
-                <li class="shwCselstItem"><a href="/kurti/partywear-kurtis/c-2-618-1087.html" title="Custom Partywear Kurtis">Custom Partywear Kurtis</a></li>
-              </ul>
-              <div class="stdbtn"><a href="/readymade-kurti/rair-brand/c-sb.html" title="Rair" class="btnlatest"><span>Rair</span></a><a href="/readymade-kurti/bollywood_vogue-brand/c-sb.html" title="Bollywood vogue" class="btnlatest"><span>Bollywood vogue</span></a><a href="/readymade-kurti/modni-brand/c-sb.html" title="Modni" class="btnlatest"><span>Modni</span></a><a href="/readymade-kurti/inr-price-between_1_499/c-sb.html" title="Below Rs.499" class="btnlatest"><span>Below Rs.499</span></a><a href="/readymade-kurti/latest-arrival.html" title="Latest Arrivals" class="btnlatest"><span>Latest Arrivals</span></a><a href="/readymade-kurti/c-sb.html" title="View All" class="btnlatest"><span>View All</span></a></div>
-              <div class="desc">
-                <h2>
-        Beauty and Decor make the life colorful
-      </h2>
+            </div>
+            <nav>
+                <div id="navMenu" class="navWrapper"><div class="cbzmenu">
+  <ul id="cbzmenu">
+    <li><a>Women</a><div class="drop-menu" style="display: none">
+        <ul class="float-left submenu">
+          <li><a href="/saree/pt-sa.html"><span>Saree</span></a><div class="inmenu">
+              <div class="float-left licol dvcategory">
+                <div class="menu">
+                  <p>Shop by category</p>
+                  <ul>
+                    <li><a href="/saree/cotton-fabric/c-sb.html" title="Cotton">Cotton</a></li>
+                    <li><a href="/saree/digital_prints-specialty/c-sb.html" title="Digital Prints">Digital Prints</a></li>
+                    <li><a href="/saree/kancheepuram_silk-art_style/c-sb.html" title="Kancheepuram Silk">Kancheepuram Silk</a></li>
+                    <li><a href="/saree/benarasi-art_style/c-sb.html" title="Benarasi">Benarasi</a></li>
+                    <li><a href="/saree/casual-style/c-sb.html" title="Casual">Casual</a></li>
+                    <li><a href="/saree/classic-style/c-sb.html" title="Traditional">Traditional</a></li>
+                    <li><a href="/saree/party_wear-occasion/c-sb.html" title="Party Wear">Party Wear</a></li>
+                    <li><a href="/saree/bridal-occasion/c-sb.html" title="Bridal">Bridal</a></li>
+                    <li><a href="/saree/lehenga_saree-specialty/c-sb.html" title="Lehenga saree">Lehenga saree</a></li>
+                    <li><a href="/saree/half_n_half_saree-specialty/c-sb.html" title="Half &amp; Half sarees">Half &amp; Half sarees</a></li>
+                    <li><a href="/half-saree/c-sb.html" title="Pavada Davani - Half Saree">Pavada Davani - Half Saree</a></li>
+                    <li><a href="/saree-blouse/c-sb.html" title="Custom Blouse">Custom Blouse</a></li>
+                    <li><a href="/readymade-saree-blouse/c-sb.html" title="Readymade Blouse">Readymade Blouse</a></li>
+                  </ul>
+                </div>
               </div>
+              <div class="float-left licol dvbrand">
+                <div class="menu">
+                  <p>Shop by Brand</p>
+                  <ul>
+                    <li><a href="/saree/rair-brand/c-sb.html" title="RaiR"><span>RaiR</span></a></li>
+                    <li><a href="/saree/bollywood_vogue-brand/c-sb.html" title="Bollywood vogue"><span>Bollywood vogue</span></a></li>
+                    <li><a href="/saree/modni-brand/c-sb.html" title="Modni"><span>Modni</span></a></li>
+                  </ul>
+                </div>
+              </div>
+              <div class="stdbtn"><a href="/saree/express-shipping.html" title="Express Shipping" class="btnready"><span>Express Shipping</span></a><a href="/saree/latest-arrival.html" title="Latest Arrivals" class="btnlatest"><span>Latest Arrivals</span></a><a href="/saree/pt-sa.html" title="View All" class="btnlatest"><span>View All</span></a></div>
+              <div class="float-left licol dvocassion"><img class="MenuImg" src="/Resources/PL_images/lazyloading.gif" original="http://images.cbazaar.com/PL_Images/BannerImages/women-saree.png"></div>
             </div>
           </li>
-          <li class="shwCselstItem"><a href="/saree/pt-sa.html">Saree</a><div class="inMenu" style="display: none;">
-              <ul>
-                <li class="shwCselstItem"><a href="/saree/party_wear-occasion/c-sb.html" title="Party Wear Sarees">Party Wear Sarees</a></li>
-                <li class="shwCselstItem"><a href="/saree/lehenga_saree-specialty/c-sb.html" title="Lehenga Sarees">Lehenga Sarees</a></li>
-                <li class="shwCselstItem"><a href="/saree/bridal-occasion/c-sb.html" title="Bridal Sarees">Bridal Sarees</a></li>
-                <li class="shwCselstItem"><a href="/saree/wedding-occasion/c-sb.html" title="Wedding Sarees">Wedding Sarees</a></li>
-                <li class="shwCselstItem"><a href="/saree/c-sb.html" title="Exclusive Sarees">Exclusive Sarees</a></li>
-                <li class="shwCselstItem"><a href="/saree/ready_pleated_saree-specialty/c-sb.html" title="Ready Pleated Sarees">Ready Pleated Sarees</a></li>
-                <li class="shwCselstItem"><a href="/saree/casual_wear-occasion/c-sb.html" title="Casual Sarees">Casual Sarees</a></li>
-                <li class="shwCselstItem"><a href="/traditional-saree/traditional-silks/c-2-758-500.html" title="Traditional Sarees">Traditional Sarees</a></li>
-                <li class="shwCselstItem"><a href="/readymade-saree-blouse/c-sb.html" title="Blouse (Readymade)">Blouse (Readymade)</a></li>
-                <li class="shwCselstItem"><a href="/half-saree/c-sb.html" title="Half Saree (Pavada Davani)">Half Saree (Pavada Davani)</a></li>
-                <li class="shwCselstItem"><a href="/saree/fall_winter_collection-specialty/c-sb.html" title="Fall Winter Collection">Fall Winter Collection</a></li>
-              </ul>
-              <div class="stdbtn"><a href="/saree/rair-brand/c-sb.html" title="Rair" class="btnlatest"><span>Rair</span></a><a href="/saree/bollywood_vogue-brand/c-sb.html" title="Bollywood vogue" class="btnlatest"><span>Bollywood vogue</span></a><a href="/saree/modni-brand/c-sb.html" title="Modni" class="btnlatest"><span>Modni</span></a><a href="/saree/inr-price-between_1_749/c-sb.html" title="Below Rs.749" class="btnlatest"><span>Below Rs.749</span></a><a href="/saree/latest-arrival.html" title="Latest Arrivals" class="btnlatest"><span>Latest Arrivals</span></a><a href="/saree/c-sb.html" title="View All" class="btnlatest"><span>View All</span></a></div>
-              <div class="desc">
-                <h2>
-        Checkout the hottest variety for every seasonal celebrations!
-      </h2>
+          <li><a href="/salwar-kameez/pt-sl.html"><span>Salwar Kameez</span></a><div class="inmenu">
+              <div class="float-left licol dvcategory">
+                <div class="menu">
+                  <p>Shop by category</p>
+                  <ul>
+                    <li><a href="/salwar-kameez/anarkali_suit-specialty/c-sb.html" title="Anarkali">Anarkali</a></li>
+                    <li><a href="/salwar-kameez/churidar_suit-specialty/c-sb.html" title="Churidar">Churidar</a></li>
+                    <li><a href="/salwar-kameez/cotton-fabric/c-sb.html" title="Cotton">Cotton</a></li>
+                    <li><a href="/salwar-kameez/casual-style/c-sb.html" title="Casual">Casual</a></li>
+                    <li><a href="/salwar-kameez/formal_wear-occasion/c-sb.html" title="Formal">Formal</a></li>
+                    <li><a href="/salwar-kameez/contemporary-style/c-sb.html" title="Contemporary">Contemporary</a></li>
+                    <li><a href="/salwar-kameez/chanderi-art_style/c-sb.html" title="Chanderi">Chanderi</a></li>
+                    <li><a href="/salwar-kameez/pakistani_suit-specialty/c-sb.html" title="Pakistani">Pakistani</a></li>
+                    <li><a href="/salwar-kameez/party_wear-occasion/c-sb.html" title="Party Wear">Party Wear</a></li>
+                    <li><a href="/salwar-kameez/bridal-occasion/c-sb.html" title="Bridal">Bridal</a></li>
+                    <li><a href="/salwar-kameez/wedding-occasion/c-sb.html" title="Wedding">Wedding</a></li>
+                  </ul>
+                </div>
               </div>
+              <div class="float-left licol dvbrand">
+                <div class="menu">
+                  <p>Shop by Brand</p>
+                  <ul>
+                    <li><a href="/salwar-kameez/rair-brand/c-sb.html" title="RaiR"><span>RaiR</span></a></li>
+                    <li><a href="/salwar-kameez/bollywood_vogue-brand/c-sb.html" title="Bollywood vogue"><span>Bollywood vogue</span></a></li>
+                    <li><a href="/salwar-kameez/modni-brand/c-sb.html" title="Modni"><span>Modni</span></a></li>
+                  </ul>
+                </div>
+              </div>
+              <div class="stdbtn"><a href="/salwar-kameez/express-shipping.html" title="Express Shipping" class="btnready"><span>Express Shipping</span></a><a href="/salwar-kameez/latest-arrival.html" title="Latest Arrivals" class="btnlatest"><span>Latest Arrivals</span></a><a href="/salwar-kameez/pt-sl.html" title="View All" class="btnlatest"><span>View All</span></a></div>
+              <div class="float-left licol dvocassion"><img class="MenuImg" src="/Resources/PL_images/lazyloading.gif" original="http://images.cbazaar.com/PL_Images/BannerImages/women-salwar-kameez.png"></div>
             </div>
           </li>
-          <li class="shwCselstItem"><a href="/salwar-kameez/pt-sl.html">Salwar Kameez</a><div class="inMenu" style="display: none;">
-              <ul>
-                <li class="shwCselstItem"><a href="/salwar-kameez/cotton-fabric/c-sb.html" title="Cotton Salwar Kameez">Cotton Salwar Kameez</a></li>
-                <li class="shwCselstItem"><a href="/salwar-kameez/casual-style/c-sb.html" title="Casual Salwar Kameez">Casual Salwar Kameez</a></li>
-                <li class="shwCselstItem"><a href="/salwar-kameez/c-sb.html" title="Exclusive Salwar Kameez">Exclusive Salwar Kameez</a></li>
-                <li class="shwCselstItem"><a href="/salwar-kameez/party_wear-occasion/c-sb.html" title="Party Wear Salwar Kameez">Party Wear Salwar Kameez</a></li>
-                <li class="shwCselstItem"><a href="/salwar-kameez/designer-style/c-sb.html" title="Designer Salwar Kameez">Designer Salwar Kameez</a></li>
-                <li class="shwCselstItem"><a href="/salwar-kameez/wedding-occasion/c-sb.html" title="Wedding Salwar Kameez">Wedding Salwar Kameez</a></li>
-                <li class="shwCselstItem"><a href="/salwar-kameez/anarkali_suit-specialty/c-sb.html" title="Anarkali Suits">Anarkali Suits</a></li>
-                <li class="shwCselstItem"><a href="/salwar-kameez/digital_prints-specialty/c-sb.html" title="Digital Printed Salwar Kameez">Digital Printed Salwar Kameez</a></li>
-                <li class="shwCselstItem"><a href="/salwar-kameez/fall_winter_collection-specialty/c-sb.html" title="Fall Winter Collection">Fall Winter Collection</a></li>
-              </ul>
-              <div class="stdbtn"><a href="/salwar-kameez/inr-price-between_1_749/c-sb.html" title="Below Rs.749" class="btnlatest"><span>Below Rs.749</span></a><a href="/salwar-kameez/latest-arrival.html" title="Latest Arrivals" class="btnlatest"><span>Latest Arrivals</span></a><a href="/salwar-kameez/c-sb.html" title="View All" class="btnlatest"><span>View All</span></a></div>
-              <div class="desc">
-                <h2>
-        Ebony of joy and light enclosed together
-      </h2>
+          <li><a href="/readymade-salwar/pt-slr.html"><span>Readymade Salwar</span></a><div class="inmenu">
+              <div class="float-left licol dvcategory">
+                <div class="menu">
+                  <p>Shop by category</p>
+                  <ul>
+                    <li><a href="/readymade-salwar/anarkali_suit-specialty/c-sb.html" title="Anarkali">Anarkali</a></li>
+                    <li><a href="/readymade-salwar/churidar_suit-specialty/c-sb.html" title="Churidar">Churidar</a></li>
+                    <li><a href="/readymade-salwar/patiala_suit-specialty/c-sb.html" title="Patiala">Patiala</a></li>
+                    <li><a href="/readymade-salwar/casual-style/c-sb.html" title="Casual">Casual</a></li>
+                    <li><a href="/readymade-salwar/formal_wear-occasion/c-sb.html" title="Formal">Formal</a></li>
+                    <li><a href="/readymade-salwar/party_wear-occasion/c-sb.html" title="Party Wear">Party Wear</a></li>
+                    <li><a href="/readymade-salwar/bridal-occasion/c-sb.html" title="Bridal">Bridal</a></li>
+                    <li><a href="/readymade-salwar/wedding-occasion/c-sb.html" title="Wedding">Wedding</a></li>
+                  </ul>
+                </div>
               </div>
+              <div class="float-left licol dvbrand">
+                <div class="menu">
+                  <p>Shop by Brand</p>
+                  <ul>
+                    <li><a href="/readymade-salwar/bollywood_vogue-brand/c-sb.html" title="Bollywood Vogue"><span>Bollywood Vogue</span></a></li>
+                    <li><a href="/readymade-salwar/modni-brand/c-sb.html" title="Modni"><span>Modni</span></a></li>
+                  </ul>
+                </div>
+                <div class="menu">
+                  <p>Shop by Size</p>
+                  <ul class="readysize">
+                    <li><a href="/readymade-salwar/1022-rmsize/c-sb.html" title="30"><span>30</span></a></li>
+                    <li><a href="/readymade-salwar/1015-rmsize/c-sb.html" title="32"><span>32</span></a></li>
+                    <li><a href="/readymade-salwar/1002-rmsize/c-sb.html" title="34"><span>34</span></a></li>
+                    <li><a href="/readymade-salwar/1003-rmsize/c-sb.html" title="36"><span>36</span></a></li>
+                    <li><a href="/readymade-salwar/1005-rmsize/c-sb.html" title="38"><span>38</span></a></li>
+                    <li><a href="/readymade-salwar/1007-rmsize/c-sb.html" title="40"><span>40</span></a></li>
+                    <li><a href="/readymade-salwar/1009-rmsize/c-sb.html" title="42"><span>42</span></a></li>
+                    <li><a href="/readymade-salwar/1011-rmsize/c-sb.html" title="44"><span>44</span></a></li>
+                    <li><a href="/readymade-salwar/1013-rmsize/c-sb.html" title="46"><span>46</span></a></li>
+                    <li><a href="/readymade-salwar/1016-rmsize/c-sb.html" title="48"><span>48</span></a></li>
+                  </ul>
+                </div>
+              </div>
+              <div class="stdbtn"><a href="/readymade-salwar/express-shipping.html" title="Express Shipping" class="btnready"><span>Express Shipping</span></a><a href="/readymade-salwar/latest-arrival.html" title="Latest Arrivals" class="btnlatest"><span>Latest Arrivals</span></a><a href="/readymade-salwar/pt-slr.html" title="View All" class="btnlatest"><span>View All</span></a></div>
+              <div class="float-left licol dvocassion"><img class="MenuImg" src="/Resources/PL_images/lazyloading.gif" original="http://images.cbazaar.com/PL_Images/BannerImages/women-readymade-salwar.png"></div>
             </div>
           </li>
-          <li class="shwCselstItem"><a href="/readymade-salwar/pt-slr.html">Readymade Salwar</a><div class="inMenu" style="display: none;">
-              <ul>
-                <li class="shwCselstItem"><a href="/readymade-salwar/cotton-fabric/c-sb.html" title="Cotton Salwar Kameez">Cotton Salwar Kameez</a></li>
-                <li class="shwCselstItem"><a href="/readymade-salwar/party_wear-occasion/c-sb.html" title="Party Salwar Kameez">Party Salwar Kameez</a></li>
-                <li class="shwCselstItem"><a href="/readymade-salwar/c-sb.html" title="Exclusive Salwar Kameez">Exclusive Salwar Kameez</a></li>
-                <li class="shwCselstItem"><a href="/readymade-salwar/designer-style-anarkali_suit-specialty/c-sb.html" title="Designer Salwar Kameez">Designer Salwar Kameez</a></li>
-                <li class="shwCselstItem"><a href="/readymade-salwar/wedding-occasion-trendy-style/c-sb.html" title="Wedding Salwar Kameez">Wedding Salwar Kameez</a></li>
-                <li class="shwCselstItem"><a href="/readymade-salwar/anarkali_suit-specialty/c-sb.html" title="Anarkali Suits">Anarkali Suits</a></li>
-                <li class="shwCselstItem"><a href="/readymade-salwar/patiala_suit-specialty/c-sb.html" title="Patiala Suits">Patiala Suits</a></li>
-                <li class="shwCselstItem"><a href="/readymade-salwar/pakistani_suit-specialty/c-sb.html" title="Pakistani Suits">Pakistani Suits</a></li>
-                <li class="shwCselstItem"><a href="/readymade-salwar/churidar_suit-specialty/c-sb.html" title="Churidar Suits">Churidar Suits</a></li>
-                <li class="shwCselstItem"><a href="/readymade-salwar/fall_winter_collection-specialty/c-sb.html" title="Fall Winter Collection">Fall Winter Collection</a></li>
-              </ul>
-              <div class="stdbtn"><a href="/readymade-salwar/latest-arrival.html" title="Latest Arrivals" class="btnlatest"><span>Latest Arrivals</span></a><a href="/readymade-salwar/c-sb.html" title="View All" class="btnlatest"><span>View All</span></a></div>
-              <div class="desc">
-                <h2>
-        The best deal now on hold it fast!
-      </h2>
+          <li><a href="/readymade-kurti/pt-krr.html"><span>Kurtis</span></a><div class="inmenu">
+              <div class="float-left licol dvcategory">
+                <div class="menu">
+                  <p>Shop by category</p>
+                  <ul>
+                    <li><a href="/readymade-kurti/casual-style/c-sb.html" title="Casual">Casual</a></li>
+                    <li><a href="/readymade-kurti/trendy-style/c-sb.html" title="Trendy">Trendy</a></li>
+                    <li><a href="/readymade-kurti/college_wear-occasion/c-sb.html" title="College Wear">College Wear</a></li>
+                    <li><a href="/readymade-kurti/cotton-fabric/c-sb.html" title="Cotton">Cotton</a></li>
+                    <li><a href="/readymade-kurti/formal_wear-occasion/c-sb.html" title="Formal">Formal</a></li>
+                    <li><a href="/readymade-kurti/faux_chiffon-fabric/c-sb.html" title="Chiffon">Chiffon</a></li>
+                    <li><a href="/kurti/partywear-kurtis/c-2-618-1087.html" title="Party Wear">Party Wear</a></li>
+                  </ul>
+                </div>
               </div>
+              <div class="float-left licol dvbrand">
+                <div class="menu">
+                  <p>Shop by Brand</p>
+                  <ul>
+                    <li><a href="/readymade-kurti/bollywood_vogue-brand/c-sb.html" title="Bollywood vogue"><span>Bollywood vogue</span></a></li>
+                    <li><a href="/readymade-kurti/modni-brand/c-sb.html" title="Modni"><span>Modni</span></a></li>
+                    <li><a href="/readymade-kurti/global_desi-brand/c-sb.html" title="Global Desi"><span>Global Desi</span></a></li>
+                    <li><a href="/readymade-kurti/w-brand/c-sb.html" title="W"><span>W</span></a></li>
+                    <li><a href="/readymade-kurti/aurelia-brand/c-sb.html" title="Aurelia"><span>Aurelia</span></a></li>
+                    <li><a href="/readymade-kurti/18_fire-brand/c-sb.html" title="18 Fire"><span>18 Fire</span></a></li>
+                  </ul>
+                </div>
+                <div class="menu">
+                  <p>Shop by Size</p>
+                  <ul class="readysize">
+                    <li><a href="/readymade-kurti/1022-rmsize/c-sb.html" title="30"><span>30</span></a></li>
+                    <li><a href="/readymade-kurti/1015-rmsize/c-sb.html" title="32"><span>32</span></a></li>
+                    <li><a href="/readymade-kurti/1002-rmsize/c-sb.html" title="34"><span>34</span></a></li>
+                    <li><a href="/readymade-kurti/1003-rmsize/c-sb.html" title="36"><span>36</span></a></li>
+                    <li><a href="/readymade-kurti/1005-rmsize/c-sb.html" title="38"><span>38</span></a></li>
+                    <li><a href="/readymade-kurti/1007-rmsize/c-sb.html" title="40"><span>40</span></a></li>
+                    <li><a href="/readymade-kurti/1009-rmsize/c-sb.html" title="42"><span>42</span></a></li>
+                    <li><a href="/readymade-kurti/1011-rmsize/c-sb.html" title="44"><span>44</span></a></li>
+                    <li><a href="/readymade-kurti/1013-rmsize/c-sb.html" title="46"><span>46</span></a></li>
+                    <li><a href="/readymade-kurti/1016-rmsize/c-sb.html" title="48"><span>48</span></a></li>
+                  </ul>
+                </div>
+              </div>
+              <div class="stdbtn"><a href="/readymade-kurti/express-shipping.html" title="Express Shipping" class="btnready"><span>Express Shipping</span></a><a href="/readymade-kurti/latest-arrival.html" title="Latest Arrivals" class="btnlatest"><span>Latest Arrivals</span></a><a href="/readymade-kurti/pt-krr.html" title="View All" class="btnlatest"><span>View All</span></a></div>
+              <div class="float-left licol dvocassion"><img class="MenuImg" src="/Resources/PL_images/lazyloading.gif" original="http://images.cbazaar.com/PL_Images/BannerImages/women-kurti.png"></div>
             </div>
           </li>
-          <li class="shwCselstItem"><a href="/lehenga/pt-gh.html">Lehenga</a><div class="inMenu" style="display: none;">
-              <ul>
-                <li class="shwCselstItem"><a href="/lehenga/c-sb.html" title="Exclusive Lehenga">Exclusive Lehenga</a></li>
-                <li class="shwCselstItem"><a href="/lehenga/designer-style/c-sb.html" title="Designer Lehenga">Designer Lehenga</a></li>
-                <li class="shwCselstItem"><a href="/lehenga/wedding-occasion/c-sb.html" title="Wedding Lehenga">Wedding Lehenga</a></li>
-                <li class="shwCselstItem"><a href="/lehenga/bridal-occasion/c-sb.html" title="Bridal Lehenga">Bridal Lehenga</a></li>
-                <li class="shwCselstItem"><a href="/bridesmaid-and-family/lehenga-choli/c-878-1192-1193.html" title="Brides Maid Lehenga">Brides Maid Lehenga</a></li>
-                <li class="shwCselstItem"><a href="/lehenga/sangeet-occasion/c-sb.html" title="Sangeet Lehenga">Sangeet Lehenga</a></li>
-                <li class="shwCselstItem"><a href="/lehenga/fish_cut_lehenga-specialty/c-sb.html" title="Fish Cut Lehenga">Fish Cut Lehenga</a></li>
-                <li class="shwCselstItem"><a href="/lehenga/long_choli_lehenga-specialty/c-sb.html" title="Long Choli Lehenga">Long Choli Lehenga</a></li>
-                <li class="shwCselstItem"><a href="/lehenga/fall_winter_collection-specialty/c-sb.html" title="Fall Winter Collection">Fall Winter Collection</a></li>
-              </ul>
-              <div class="stdbtn"><a href="/lehenga/latest-arrival.html" title="Latest Arrivals" class="btnlatest"><span>Latest Arrivals</span></a><a href="/lehenga/c-sb.html" title="View All" class="btnlatest"><span>View All</span></a></div>
-              <div class="desc">
-                <h2>
-        Diverse choice with adorable range!
-      </h2>
+          <li><a href="/lehenga/pt-gh.html"><span>Lehenga</span></a><div class="inmenu">
+              <div class="float-left licol dvcategory">
+                <div class="menu">
+                  <p>Shop by category</p>
+                  <ul>
+                    <li><a href="/lehenga/engagement-occasion/c-sb.html" title="Engagement">Engagement</a></li>
+                    <li><a href="/lehenga/mehendi-occasion/c-sb.html" title="Mehendi">Mehendi</a></li>
+                    <li><a href="/lehenga/sangeet-occasion/c-sb.html" title="Sangeet">Sangeet</a></li>
+                    <li><a href="/lehenga/bridal-occasion/c-sb.html" title="Bridal">Bridal</a></li>
+                    <li><a href="/lehenga/wedding-occasion/c-sb.html" title="Wedding">Wedding</a></li>
+                    <li><a href="/bridesmaid-and-family/lehenga-choli/c-878-1192-1193.html" title="Bridesmaid">Bridesmaid</a></li>
+                    <li><a href="/lehenga/designer-style/c-sb.html" title="Designer">Designer</a></li>
+                    <li><a href="/lehenga/classic-style/c-sb.html" title="Classic Style">Classic Style</a></li>
+                    <li><a href="/lehenga/fish_cut_lehenga-specialty/c-sb.html" title="Fish Cut">Fish Cut</a></li>
+                  </ul>
+                </div>
               </div>
+              <div class="float-left licol dvbrand">
+                <div class="menu">
+                  <p>Shop by Brand</p>
+                  <ul>
+                    <li><a href="/lehenga/bollywood_vogue-brand/c-sb.html" title="Bollywood Vogue"><span>Bollywood Vogue</span></a></li>
+                  </ul>
+                </div>
+              </div>
+              <div class="stdbtn"><a href="/lehenga/express-shipping.html" title="Express Shipping" class="btnready"><span>Express Shipping</span></a><a href="/lehenga/latest-arrival.html" title="Latest Arrivals" class="btnlatest"><span>Latest Arrivals</span></a><a href="/lehenga/pt-gh.html" title="View All" class="btnlatest"><span>View All</span></a></div>
+              <div class="float-left licol dvocassion"><img class="MenuImg" src="/Resources/PL_images/lazyloading.gif" original="http://images.cbazaar.com/PL_Images/BannerImages/women-lehenga.png"></div>
             </div>
           </li>
-          <li class="shwCselstItem"><a href="/readymade-lehenga/pt-ghr.html">Readymade Lehengas</a><div class="inMenu" style="display: none;">
-              <ul>
-                <li class="shwCselstItem"><a href="/readymade-lehenga/fish_cut_lehenga-specialty/c-sb.html" title="Fish Cut Ready Made Lehenga">Fish Cut Ready Made Lehenga</a></li>
-                <li class="shwCselstItem"><a href="/gowns/pt-gw.html" title="Gowns">Gowns</a></li>
-                <li class="shwCselstItem"><a href="/gowns/readymade-gowns/c-878-109-968.html" title="Party Wear Gowns"><b>Party Wear Gowns</b></a></li>
-              </ul>
-              <div class="stdbtn"><a href="/readymade-lehenga/latest-arrival.html" title="Latest Arrivals" class="btnlatest"><span>Latest Arrivals</span></a><a href="/readymade-lehenga/c-sb.html" title="View All" class="btnlatest"><span>View All</span></a></div>
-              <div class="desc">
-                <h2>
-        Set ready with easy deals
-      </h2>
+          <li><a href="/readymade-lehenga/pt-ghr.html"><span>Readymade Lehengas</span></a><div class="inmenu">
+              <div class="float-left licol dvcategory">
+                <div class="menu">
+                  <p>Shop by category</p>
+                  <ul>
+                    <li><a href="/readymade-lehenga/engagement-occasion/c-sb.html" title="Engagement">Engagement</a></li>
+                    <li><a href="/readymade-lehenga/mehendi-occasion/c-sb.html" title="Mehendi">Mehendi</a></li>
+                    <li><a href="/readymade-lehenga/sangeet-occasion/c-sb.html" title="Sangeet">Sangeet</a></li>
+                    <li><a href="/readymade-lehenga/bridal-occasion/c-sb.html" title="Bridal">Bridal</a></li>
+                    <li><a href="/readymade-lehenga/wedding-occasion/c-sb.html" title="Wedding">Wedding</a></li>
+                    <li><a href="/readymade-lehenga/designer-style/c-sb.html" title="Designer">Designer</a></li>
+                    <li><a href="/readymade-lehenga/classic-style/c-sb.html" title="Classic Style">Classic Style</a></li>
+                    <li><a href="/gowns/c-sb.html" title="Gowns">Gowns</a></li>
+                  </ul>
+                </div>
               </div>
+              <div class="float-left licol dvbrand">
+                <div class="menu">
+                  <p>Shop by Brand</p>
+                  <ul>
+                    <li><a href="/readymade-lehenga/bollywood_vogue-brand/c-sb.html" title="Bollywood Vogue"><span>Bollywood Vogue</span></a></li>
+                  </ul>
+                </div>
+                <div class="menu">
+                  <p>Shop by Size</p>
+                  <ul class="readysize">
+                    <li><a href="/readymade-lehenga/1022-rmsize/c-sb.html" title="30"><span>30</span></a></li>
+                    <li><a href="/readymade-lehenga/1015-rmsize/c-sb.html" title="32"><span>32</span></a></li>
+                    <li><a href="/readymade-lehenga/1002-rmsize/c-sb.html" title="34"><span>34</span></a></li>
+                    <li><a href="/readymade-lehenga/1003-rmsize/c-sb.html" title="36"><span>36</span></a></li>
+                    <li><a href="/readymade-lehenga/1005-rmsize/c-sb.html" title="38"><span>38</span></a></li>
+                    <li><a href="/readymade-lehenga/1007-rmsize/c-sb.html" title="40"><span>40</span></a></li>
+                    <li><a href="/readymade-lehenga/1009-rmsize/c-sb.html" title="42"><span>42</span></a></li>
+                  </ul>
+                </div>
+              </div>
+              <div class="stdbtn"><a href="/readymade-lehenga/express-shipping.html" title="Express Shipping" class="btnready"><span>Express Shipping</span></a><a href="/readymade-lehenga/latest-arrival.html" title="Latest Arrivals" class="btnlatest"><span>Latest Arrivals</span></a><a href="/readymade-lehenga/pt-ghr.html" title="View All" class="btnlatest"><span>View All</span></a></div>
+              <div class="float-left licol dvocassion"><img class="MenuImg" src="/Resources/PL_images/lazyloading.gif" original="http://images.cbazaar.com/PL_Images/BannerImages/women-readymade-lehenga.png"></div>
             </div>
           </li>
-          <li class="shwCselstItem"><a href="/womens-bottoms/pt-wb.html">Bottoms</a><div class="inMenu" style="display: none;">
-              <ul>
-                <li class="shwCselstItem"><a href="/womens-bottoms/c-sb.html" title="Leggings">Leggings</a></li>
-                <li class="shwCselstItem"><a href="/womens-bottoms/harem_pants-specialty/c-sb.html" title="Harem Pants">Harem Pants</a></li>
-              </ul>
-              <div class="stdbtn"><a href="/womens-bottoms/latest-arrival/c-sb.html" title="Latest Arrivals" class="btnlatest"><span>Latest Arrivals</span></a><a href="/womens-bottoms/c-sb.html" title="View All" class="btnlatest"><span>View All</span></a></div>
-              <div class="desc">
-                <h2>
-        Abundant flavor with enticing variety of choices
-      </h2>
+          <li><a href="/womens-bottoms/pt-wb.html"><span>Womens Bottoms</span></a><div class="inmenu">
+              <div class="float-left licol dvcategory">
+                <div class="menu">
+                  <p>Shop by category</p>
+                  <ul>
+                    <li><a href="/womens-bottoms/leggings-specialty/c-sb.html" title="Leggings">Leggings</a></li>
+                    <li><a href="/womens-bottoms/dhoti_style-specialty/c-sb.html" title="Dhoti style">Dhoti style</a></li>
+                    <li><a href="/womens-bottoms/patiala-specialty/c-sb.html" title="Patiala">Patiala</a></li>
+                    <li><a href="/womens-bottoms/harem_pants-specialty/c-sb.html" title="Harem Pants">Harem Pants</a></li>
+                  </ul>
+                </div>
+              </div>
+              <div class="float-left licol dvbrand"></div>
+              <div class="stdbtn"><a href="/womens-bottoms/express-shipping.html" title="Express Shipping" class="btnready"><span>Express Shipping</span></a><a href="/womens-bottoms/latest-arrival.html" title="Latest Arrivals" class="btnlatest"><span>Latest Arrivals</span></a><a href="/womens-bottoms/pt-wb.html" title="View All" class="btnlatest"><span>View All</span></a></div>
+              <div class="float-left licol dvocassion"><img class="MenuImg" src="/Resources/PL_images/lazyloading.gif" original="http://images.cbazaar.com/PL_Images/BannerImages/women-bottom.png"></div>
+            </div>
+          </li>
+          <li><a href="/readymade-kaftan/pt-kfr.html"><span>Islamic Kaftan</span></a><div class="inmenu">
+              <div class="float-left licol dvcategory">
+                <div class="menu">
+                  <p>Shop by category</p>
+                  <ul>
+                    <li><a href="/readymade-kaftan/c-sb.html" title="Long Kaftan">Long Kaftan</a></li>
+                  </ul>
+                </div>
+              </div>
+              <div class="float-left licol dvbrand"></div>
+              <div class="stdbtn"><a href="/readymade-kaftan/express-shipping.html" title="Express Shipping" class="btnready"><span>Express Shipping</span></a><a href="/readymade-kaftan/latest-arrival.html" title="Latest Arrivals" class="btnlatest"><span>Latest Arrivals</span></a><a href="/readymade-kaftan/pt-kfr.html" title="View All" class="btnlatest"><span>View All</span></a></div>
+              <div class="float-left licol dvocassion"></div>
+            </div>
+          </li>
+          <li><a><span>Abaya</span></a><div class="inmenu">
+              <div class="float-left licol dvcategory">
+                <div class="menu">
+                  <p>Shop by category</p>
+                  <ul>
+                    <li><a href="/readymade-abaya/c-sb.html" title="Stylish Abaya">Stylish Abaya</a></li>
+                  </ul>
+                </div>
+              </div>
+              <div class="float-left licol dvbrand"></div>
+              <div class="stdbtn"><a href="/readymade-abaya/c-sb.html" title="View All" class="btnlatest"><span>View All</span></a></div>
+              <div class="float-left licol dvocassion"></div>
+            </div>
+          </li>
+        </ul>
+      </div>
+    </li>
+    <li><a>Men</a><div class="drop-menu" style="display: none">
+        <ul class="float-left submenu">
+          <li><a href="/readymade-kurta-pajama/pt-kpr.html"><span>Readymade Kurta Pyjama</span></a><div class="inmenu">
+              <div class="float-left licol dvcategory">
+                <div class="menu">
+                  <p>Shop by category</p>
+                  <ul>
+                    <li><a href="/readymade-kurta-pajama/pathani_suits-specialty/c-sb.html" title="Pathani Suits">Pathani Suits</a></li>
+                    <li><a href="/readymade-kurta-pajama/breeches_style-specialty/c-sb.html" title="Breeches Style">Breeches Style</a></li>
+                    <li><a href="/readymade-kurta-pajama/party_wear-occasion/c-sb.html" title="Party Wear">Party Wear</a></li>
+                    <li><a href="/readymade-kurta-pajama/mehendi-occasion/c-sb.html" title="Mehendi Kurta Pajama">Mehendi Kurta Pajama</a></li>
+                    <li><a href="/readymade-kurta-pajama/sangeet-occasion/c-sb.html" title="Sangeet Mens Kurta pajama">Sangeet Mens Kurta pajama</a></li>
+                    <li><a href="/readymade-kurta-pajama/wedding-occasion/c-sb.html" title="Wedding">Wedding</a></li>
+                    <li><a href="/readymade-kurta/c-sb.html" title="Short Kurta">Short Kurta</a></li>
+                  </ul>
+                </div>
+              </div>
+              <div class="float-left licol dvbrand">
+                <div class="menu">
+                  <p>Shop by Brand</p>
+                  <ul>
+                    <li><a href="/readymade-kurta-pajama/bollywood_vogue-brand/c-sb.html" title="Bollywood Vogue"><span>Bollywood Vogue</span></a></li>
+                    <li><a href="/readymade-kurta/modni-brand/c-sb.html" title="Modni Kurta"><span>Modni Kurta</span></a></li>
+                    <li><a href="/readymade-kurta-pajama/modni-brand/c-sb.html" title="Modni Readymade Kurta Pajama"><span>Modni Readymade Kurta Pajama</span></a></li>
+                  </ul>
+                </div>
+                <div class="menu">
+                  <p>Shop by Size</p>
+                  <ul class="readysize">
+                    <li><a href="/readymade-kurta-pajama/1123-rmsize/c-sb.html" title="38"><span>38</span></a></li>
+                    <li><a href="/readymade-kurta-pajama/1124-rmsize/c-sb.html" title="40"><span>40</span></a></li>
+                    <li><a href="/readymade-kurta-pajama/1125-rmsize/c-sb.html" title="42"><span>42</span></a></li>
+                    <li><a href="/readymade-kurta-pajama/1126-rmsize/c-sb.html" title="44"><span>44</span></a></li>
+                    <li><a href="/readymade-kurta-pajama/1404-rmsize/c-sb.html" title="48"><span>48</span></a></li>
+                  </ul>
+                </div>
+              </div>
+              <div class="stdbtn"><a href="/readymade-kurta-pajama/express-shipping.html" title="Express Shipping" class="btnready"><span>Express Shipping</span></a><a href="/readymade-kurta-pajama/latest-arrival.html" title="Latest Arrivals" class="btnlatest"><span>Latest Arrivals</span></a><a href="/readymade-kurta-pajama/pt-kpr.html" title="View All" class="btnlatest"><span>View All</span></a></div>
+              <div class="float-left licol dvocassion"><img class="MenuImg" src="/Resources/PL_images/lazyloading.gif" original="http://images.cbazaar.com/PL_Images/BannerImages/mens-kurta.png"></div>
+            </div>
+          </li>
+          <li><a href="/sherwani/c-sb.html"><span>Sherwani</span></a><div class="inmenu">
+              <div class="float-left licol dvcategory">
+                <div class="menu">
+                  <p>Shop by category</p>
+                  <ul>
+                    <li><a href="/sherwani/bridal-occasion/c-sb.html" title="Grooms Sherwani">Grooms Sherwani</a></li>
+                    <li><a href="/sherwani/wedding-occasion/c-sb.html" title="Wedding">Wedding</a></li>
+                    <li><a href="/sherwani/sangeet-occasion/c-sb.html" title="Sangeet Mens Shewani">Sangeet Mens Shewani</a></li>
+                    <li><a href="/sherwani/engagement-occasion/c-sb.html" title="Engagement">Engagement</a></li>
+                    <li><a href="/sherwani/breeches_style-specialty/c-sb.html" title="Breaches Style">Breaches Style</a></li>
+                    <li><a href="/sherwani/collar_style-specialty/c-sb.html" title="Standing Collar Style">Standing Collar Style</a></li>
+                    <li><a href="/sherwani/dhoti_style-specialty/c-sb.html" title="Dhoti Style">Dhoti Style</a></li>
+                    <li><a href="/sherwani/indowestern-specialty/c-sb.html" title="Indo Western">Indo Western</a></li>
+                    <li><a href="/sherwani/designer-style/c-sb.html" title="Designer">Designer</a></li>
+                    <li><a href="/sherwani/trendy-style/c-sb.html" title="Trendy">Trendy</a></li>
+                    <li><a href="/readymade-sherwani/c-sb.html" title="Readymade Sherwani">Readymade Sherwani</a></li>
+                  </ul>
+                </div>
+              </div>
+              <div class="float-left licol dvbrand">
+                <div class="menu">
+                  <p>Shop by Brand</p>
+                  <ul>
+                    <li><a href="/readymade-sherwani/bollywood_vogue-brand/c-sb.html" title="Bollywood Vogue"><span>Bollywood Vogue</span></a></li>
+                  </ul>
+                </div>
+                <div class="menu">
+                  <p>Shop by Size</p>
+                  <ul class="readysize">
+                    <li><a href="/readymade-sherwani/1123-rmsize/c-sb.html" title="38"><span>38</span></a></li>
+                    <li><a href="/readymade-sherwani/1124-rmsize/c-sb.html" title="40"><span>40</span></a></li>
+                    <li><a href="/readymade-sherwani/1125-rmsize/c-sb.html" title="42"><span>42</span></a></li>
+                    <li><a href="/readymade-sherwani/1126-rmsize/c-sb.html" title="44"><span>44</span></a></li>
+                    <li><a href="/readymade-sherwani/1404-rmsize/c-sb.html" title="48"><span>48</span></a></li>
+                  </ul>
+                </div>
+              </div>
+              <div class="stdbtn"><a href="/gv-product-detail.aspx" title="E-Gift Voucher" class="btnlatest"><span>E-Gift Voucher</span></a><a href="/sherwani/latest-arrival.html" title="Latest Arrivals" class="btnlatest"><span>Latest Arrivals</span></a><a href="/sherwani/c-sb.html" title="View All" class="btnlatest"><span>View All</span></a></div>
+              <div class="float-left licol dvocassion"><img class="MenuImg" src="/Resources/PL_images/lazyloading.gif" original="http://images.cbazaar.com/PL_Images/BannerImages/mens-sherwani.png"></div>
+            </div>
+          </li>
+          <li><a href="/mens-suits/c-sb.html"><span>Mens Suits</span></a><div class="inmenu">
+              <div class="float-left licol dvcategory">
+                <div class="menu">
+                  <p>Shop by category</p>
+                  <ul>
+                    <li><a href="/mens-suits/designer-style/c-sb.html" title="Designer">Designer</a></li>
+                    <li><a href="/mens-suits/trendy-style/c-sb.html" title="Trendy Styles">Trendy Styles</a></li>
+                    <li><a href="/mens-suits/party_wear-occasion/c-sb.html" title="Party Wear">Party Wear</a></li>
+                    <li><a href="/mens-suits/sangeet-occasion/c-sb.html" title="Sangeet">Sangeet</a></li>
+                    <li><a href="/mens-suits/wedding-occasion/c-sb.html" title="Wedding">Wedding</a></li>
+                    <li><a href="/mens-suits/contemporary-style/c-sb.html" title="Contemporary Designs">Contemporary Designs</a></li>
+                    <li><a href="/mens-suits/collar_style-specialty/c-sb.html" title="Collar Style">Collar Style</a></li>
+                    <li><a href="/mens-suits/lapel-specialty/c-sb.html" title="Lapel Style">Lapel Style</a></li>
+                  </ul>
+                </div>
+              </div>
+              <div class="float-left licol dvbrand"></div>
+              <div class="stdbtn"><a href="/gv-product-detail.aspx" title="E-Gift Voucher" class="btnlatest"><span>E-Gift Voucher</span></a><a href="/mens-suits/latest-arrival.html" title="Latest Arrivals" class="btnlatest"><span>Latest Arrivals</span></a><a href="/mens-suits/c-sb.html" title="View All" class="btnlatest"><span>View All</span></a></div>
+              <div class="float-left licol dvocassion"><img class="MenuImg" src="/Resources/PL_images/lazyloading.gif" original="http://images.cbazaar.com/PL_Images/BannerImages/mens-suit.png"></div>
+            </div>
+          </li>
+          <li><a href="/mens-bottoms/pt-mb.html"><span>Mens Bottom</span></a><div class="inmenu">
+              <div class="float-left licol dvcategory">
+                <div class="menu">
+                  <p>Shop by category</p>
+                  <ul>
+                    <li><a href="/mens-bottoms/dhoti-specialty/c-sb.html" title="Dhoti">Dhoti</a></li>
+                  </ul>
+                </div>
+              </div>
+              <div class="float-left licol dvbrand"></div>
+              <div class="stdbtn"><a href="/gv-product-detail.aspx" title="E-Gift Voucher" class="btnlatest"><span>E-Gift Voucher</span></a><a href="/mens-bottoms/latest-arrival.html" title="Latest Arrivals" class="btnlatest"><span>Latest Arrivals</span></a><a href="/mens-bottoms/pt-mb.html" title="View All" class="btnlatest"><span>View All</span></a></div>
+              <div class="float-left licol dvocassion"><img class="MenuImg" src="/Resources/PL_images/lazyloading.gif" original="http://images.cbazaar.com/PL_Images/BannerImages/mens-bottom.png"></div>
+            </div>
+          </li>
+          <li><a href="/turban/pt-tb.html"><span>Turbans</span></a><div class="inmenu">
+              <div class="float-left licol dvcategory">
+                <div class="menu">
+                  <p>Shop by category</p>
+                  <ul>
+                    <li><a href="/turban/c-sb.html" title="Turbans">Turbans</a></li>
+                  </ul>
+                </div>
+              </div>
+              <div class="float-left licol dvbrand"></div>
+              <div class="stdbtn"><a href="/turban/express-shipping.html" title="Express Shipping" class="btnready"><span>Express Shipping</span></a><a href="/turban/latest-arrival.html" title="Latest Arrivals" class="btnlatest"><span>Latest Arrivals</span></a><a href="/turban/pt-tb.html" title="View All" class="btnlatest"><span>View All</span></a></div>
+              <div class="float-left licol dvocassion"></div>
+            </div>
+          </li>
+        </ul>
+      </div>
+    </li>
+    <li><a>Kidswear</a><div class="drop-menu" style="display: none">
+        <ul class="float-left submenu">
+          <li><a href="/kids-wear-boys/pt-kdb.html"><span>Boys</span></a><div class="inmenu">
+              <div class="float-left licol dvcategory">
+                <div class="menu">
+                  <p>Shop by category</p>
+                  <ul>
+                    <li><a href="/kids-wear-boys/kurta_pyjama-specialty/c-sb.html" title="Kurta Pyjama">Kurta Pyjama</a></li>
+                    <li><a href="/kids-wear-boys/party_wear-occasion/c-sb.html" title="Party Wear">Party Wear</a></li>
+                  </ul>
+                </div>
+              </div>
+              <div class="float-left licol dvbrand"></div>
+              <div class="stdbtn"><a href="/kids-wear-boys/express-shipping.html" title="Express Shipping" class="btnready"><span>Express Shipping</span></a><a href="/kids-wear-boys/latest-arrival.html" title="Latest Arrivals" class="btnlatest"><span>Latest Arrivals</span></a><a href="/kids-wear-boys/pt-kdb.html" title="View All" class="btnlatest"><span>View All</span></a></div>
+              <div class="float-left licol dvocassion"><img class="MenuImg" src="/Resources/PL_images/lazyloading.gif" original="http://images.cbazaar.com/PL_Images/BannerImages/kids-boy.png"></div>
+            </div>
+          </li>
+          <li><a href="/kids-wear-girls/pt-kdg.html"><span>Girls</span></a><div class="inmenu">
+              <div class="float-left licol dvcategory">
+                <div class="menu">
+                  <p>Shop by category</p>
+                  <ul>
+                    <li><a href="/kids-wear-girls/churidar_suit-specialty/c-sb.html" title="Churidar Suits">Churidar Suits</a></li>
+                    <li><a href="/kids-wear-girls/anarkali_suit-specialty/c-sb.html" title="Anarkali Salwars">Anarkali Salwars</a></li>
+                    <li><a href="/kids-wear-girls/kids_lehenga-specialty/c-sb.html" title="Lehenga">Lehenga</a></li>
+                    <li><a href="/kids-wear-girls/party_wear-occasion/c-sb.html" title="Party Wear">Party Wear</a></li>
+                    <li><a href="/kids-wear-girls/indowestern-specialty/c-sb.html" title="Indo-western">Indo-western</a></li>
+                  </ul>
+                </div>
+              </div>
+              <div class="float-left licol dvbrand"></div>
+              <div class="stdbtn"><a href="/kids-wear-girls/express-shipping.html" title="Express Shipping" class="btnready"><span>Express Shipping</span></a><a href="/kids-wear-girls/latest-arrival.html" title="Latest Arrivals" class="btnlatest"><span>Latest Arrivals</span></a><a href="/kids-wear-girls/pt-kdg.html" title="View All" class="btnlatest"><span>View All</span></a></div>
+              <div class="float-left licol dvocassion"><img class="MenuImg" src="/Resources/PL_images/lazyloading.gif" original="http://images.cbazaar.com/PL_Images/BannerImages/kids-girl.png"></div>
+            </div>
+          </li>
+        </ul>
+      </div>
+    </li>
+    <li><a>Accessories</a><div class="drop-menu" style="display: none">
+        <ul class="float-left submenu">
+          <li><a href="/necklace/pt-jy.html"><span>Necklace</span></a><div class="inmenu">
+              <div class="float-left licol dvcategory">
+                <div class="menu">
+                  <p>Shop by category</p>
+                  <ul>
+                    <li><a href="/specialty/mangalsutra/sb.html" title="Mangalsutra">Mangalsutra</a></li>
+                    <li><a href="/necklace/bridal-occasion/c-sb.html" title="Bridal">Bridal</a></li>
+                    <li><a href="/necklace/wedding-occasion/c-sb.html" title="Wedding">Wedding</a></li>
+                    <li><a href="/necklace/party_wear-occasion/c-sb.html" title="Party Wear">Party Wear</a></li>
+                    <li><a href="/necklace/designer-style/c-sb.html" title="Designer">Designer</a></li>
+                    <li><a href="/necklace/kundan-specialty/c-sb.html" title="Kundan">Kundan</a></li>
+                    <li><a href="/necklace/polki-specialty/c-sb.html" title="Polki">Polki</a></li>
+                  </ul>
+                </div>
+              </div>
+              <div class="float-left licol dvbrand"></div>
+              <div class="stdbtn"><a href="/necklace/express-shipping.html" title="Express Shipping" class="btnready"><span>Express Shipping</span></a><a href="/necklace/latest-arrival.html" title="Latest Arrivals" class="btnlatest"><span>Latest Arrivals</span></a><a href="/necklace/pt-jy.html" title="View All" class="btnlatest"><span>View All</span></a></div>
+              <div class="float-left licol dvocassion"><img class="MenuImg" src="/Resources/PL_images/lazyloading.gif" original="http://images.cbazaar.com/PL_Images/BannerImages/necklace.png"></div>
+            </div>
+          </li>
+          <li><a href="/pendant/pt-pen.html"><span>Pendant Sets</span></a><div class="inmenu">
+              <div class="float-left licol dvcategory">
+                <div class="menu">
+                  <p>Shop by category</p>
+                  <ul>
+                    <li><a href="/pendant/kitty_party-occasion/c-sb.html" title="Kitty Party">Kitty Party</a></li>
+                    <li><a href="/pendant/trendy-style/c-sb.html" title="Trendy">Trendy</a></li>
+                    <li><a href="/pendant/party_wear-occasion/c-sb.html" title="Party Wear">Party Wear</a></li>
+                    <li><a href="/pendant/silver-specialty/c-sb.html" title="Silver">Silver</a></li>
+                    <li><a href="/pendant/stone_studded-specialty/c-sb.html" title="Stone Studded">Stone Studded</a></li>
+                    <li><a href="/pendant/moti-specialty/c-sb.html" title="Moti">Moti</a></li>
+                  </ul>
+                </div>
+              </div>
+              <div class="float-left licol dvbrand"></div>
+              <div class="stdbtn"><a href="/pendant/express-shipping.html" title="Express Shipping" class="btnready"><span>Express Shipping</span></a><a href="/pendant/latest-arrival.html" title="Latest Arrivals" class="btnlatest"><span>Latest Arrivals</span></a><a href="/pendant/pt-pen.html" title="View All" class="btnlatest"><span>View All</span></a></div>
+              <div class="float-left licol dvocassion"><img class="MenuImg" src="/Resources/PL_images/lazyloading.gif" original="http://images.cbazaar.com/PL_Images/BannerImages/pendant.png"></div>
+            </div>
+          </li>
+          <li><a href="/earrings/pt-er.html"><span>Earrings</span></a><div class="inmenu">
+              <div class="float-left licol dvcategory">
+                <div class="menu">
+                  <p>Shop by category</p>
+                  <ul>
+                    <li><a href="/earrings/classic-style/c-sb.html" title="Traditional">Traditional</a></li>
+                    <li><a href="/earrings/designer-style/c-sb.html" title="Designer">Designer</a></li>
+                    <li><a href="/earrings/trendy-style/c-sb.html" title="Trendy">Trendy</a></li>
+                    <li><a href="/earrings/party_wear-occasion/c-sb.html" title="Party Wear">Party Wear</a></li>
+                    <li><a href="/earrings/stone_studded-specialty/c-sb.html" title="Stone Studded">Stone Studded</a></li>
+                    <li><a href="/earrings/jhumka-specialty/c-sb.html" title="Jhumka">Jhumka</a></li>
+                  </ul>
+                </div>
+              </div>
+              <div class="float-left licol dvbrand"></div>
+              <div class="stdbtn"><a href="/earrings/express-shipping.html" title="Express Shipping" class="btnready"><span>Express Shipping</span></a><a href="/earrings/latest-arrival.html" title="Latest Arrivals" class="btnlatest"><span>Latest Arrivals</span></a><a href="/earrings/pt-er.html" title="View All" class="btnlatest"><span>View All</span></a></div>
+              <div class="float-left licol dvocassion"><img class="MenuImg" src="/Resources/PL_images/lazyloading.gif" original="http://images.cbazaar.com/PL_Images/BannerImages/earring.png"></div>
+            </div>
+          </li>
+          <li><a href="/bangles-and-bracelet/pt-br.html"><span>Bangles &amp; Kada</span></a><div class="inmenu">
+              <div class="float-left licol dvcategory">
+                <div class="menu">
+                  <p>Shop by category</p>
+                  <ul>
+                    <li><a href="/bangles-and-bracelet/trendy-style/c-sb.html" title="Trendy Designs">Trendy Designs</a></li>
+                    <li><a href="/bangles-and-bracelet/classic-style/c-sb.html" title="Traditional Designs">Traditional Designs</a></li>
+                    <li><a href="/bangles-and-bracelet/party_wear-occasion/c-sb.html" title="Party Wear">Party Wear</a></li>
+                    <li><a href="/bangles-and-bracelet/wedding-occasion/c-sb.html" title="Wedding Bangles">Wedding Bangles</a></li>
+                    <li><a href="/bangles-and-bracelet/bridal-occasion/c-sb.html" title="Bridal">Bridal</a></li>
+                    <li><a href="/bangles-and-bracelet/polki-specialty/c-sb.html" title="Polki">Polki</a></li>
+                    <li><a href="/bangles-and-bracelet/stone_studded-specialty/c-sb.html" title="Stone Studded">Stone Studded</a></li>
+                  </ul>
+                </div>
+              </div>
+              <div class="float-left licol dvbrand"></div>
+              <div class="stdbtn"><a href="/bangles-and-bracelet/express-shipping.html" title="Express Shipping" class="btnready"><span>Express Shipping</span></a><a href="/bangles-and-bracelet/latest-arrival.html" title="Latest Arrivals" class="btnlatest"><span>Latest Arrivals</span></a><a href="/bangles-and-bracelet/pt-br.html" title="View All" class="btnlatest"><span>View All</span></a></div>
+              <div class="float-left licol dvocassion"><img class="MenuImg" src="/Resources/PL_images/lazyloading.gif" original="http://images.cbazaar.com/PL_Images/BannerImages/bangles.png"></div>
+            </div>
+          </li>
+          <li><a href="/hand-bag/pt-hb.html"><span>Hand Bags &amp; Clutches</span></a><div class="inmenu">
+              <div class="float-left licol dvcategory">
+                <div class="menu">
+                  <p>Shop by category</p>
+                  <ul>
+                    <li><a href="/hand-bag/clutches-specialty/c-sb.html" title="Clutches">Clutches</a></li>
+                    <li><a href="/hand-bag/hand_bags-specialty/c-sb.html" title="Armcandy">Armcandy</a></li>
+                    <li><a href="/hand-bag/cane-specialty/c-sb.html" title="Cane">Cane</a></li>
+                    <li><a href="/hand-bag/party_wear-occasion/c-sb.html" title="Party Wear">Party Wear</a></li>
+                    <li><a href="/hand-bag/wedding-occasion/c-sb.html" title="Wedding">Wedding</a></li>
+                  </ul>
+                </div>
+              </div>
+              <div class="float-left licol dvbrand"></div>
+              <div class="stdbtn"><a href="/hand-bag/express-shipping.html" title="Express Shipping" class="btnready"><span>Express Shipping</span></a><a href="/hand-bag/latest-arrival.html" title="Latest Arrivals" class="btnlatest"><span>Latest Arrivals</span></a><a href="/hand-bag/pt-hb.html" title="View All" class="btnlatest"><span>View All</span></a></div>
+              <div class="float-left licol dvocassion"><img class="MenuImg" src="/Resources/PL_images/lazyloading.gif" original="http://images.cbazaar.com/PL_Images/BannerImages/hand-bag.png"></div>
+            </div>
+          </li>
+          <li><a href="/dupattas/pt-dp.html"><span>Dupatta &amp; Stoles</span></a><div class="inmenu">
+              <div class="float-left licol dvcategory">
+                <div class="menu">
+                  <p>Shop by category</p>
+                  <ul>
+                    <li><a href="/dupattas/c-sb.html" title="Dupatta">Dupatta</a></li>
+                  </ul>
+                </div>
+              </div>
+              <div class="float-left licol dvbrand">
+                <div class="menu">
+                  <p>Shop by Brand</p>
+                  <ul>
+                    <li><a href="/dupattas/modni-brand/c-sb.html" title="Modni"><span>Modni</span></a></li>
+                  </ul>
+                </div>
+              </div>
+              <div class="stdbtn"><a href="/dupattas/express-shipping.html" title="Express Shipping" class="btnready"><span>Express Shipping</span></a><a href="/dupattas/latest-arrival.html" title="Latest Arrivals" class="btnlatest"><span>Latest Arrivals</span></a><a href="/dupattas/pt-dp.html" title="View All" class="btnlatest"><span>View All</span></a></div>
+              <div class="float-left licol dvocassion"><img class="MenuImg" src="/Resources/PL_images/lazyloading.gif" original="http://images.cbazaar.com/PL_Images/BannerImages/dupatta.png"></div>
+            </div>
+          </li>
+        </ul>
+      </div>
+    </li>
+    <li><a>Brands</a><div class="drop-menu" style="display: none">
+        <ul class="float-left submenu">
+          <li><a href="/brand/rair/sb.html"><span>RaiR</span></a><div class="inmenu">
+              <div class="float-left licol dvcategory">
+                <div class="menu">
+                  <p>Shop by category</p>
+                  <ul>
+                    <li><a href="/saree/rair-brand/c-sb.html" title="Saree">Saree</a></li>
+                    <li><a href="/salwar-kameez/rair-brand/c-sb.html" title="Salwar Kameez">Salwar Kameez</a></li>
+                  </ul>
+                </div>
+              </div>
+              <div class="float-left licol dvbrand"></div>
+              <div class="stdbtn"><a href="/gv-product-detail.aspx" title="E-Gift Voucher" class="btnlatest"><span>E-Gift Voucher</span></a></div>
+              <div class="float-left licol dvocassion"><img class="MenuImg" src="/Resources/PL_images/lazyloading.gif" original="http://images.cbazaar.com/PL_Images/BannerImages/brand-rair.png"></div>
+            </div>
+          </li>
+          <li><a href="/brand/bollywood-vogue/sb.html"><span>Bollywood Vogue</span></a><div class="inmenu">
+              <div class="float-left licol dvcategory">
+                <div class="menu">
+                  <p>Shop by category</p>
+                  <ul>
+                    <li><a href="/saree/bollywood_vogue-brand/c-sb.html" title="Saree">Saree</a></li>
+                    <li><a href="/readymade-salwar/bollywood_vogue-brand/c-sb.html" title="Readymade Salwar">Readymade Salwar</a></li>
+                    <li><a href="/lehenga/bollywood_vogue-brand/c-sb.html" title="Lehenga">Lehenga</a></li>
+                    <li><a href="/readymade-kurti/bollywood_vogue-brand/c-sb.html" title="Kurtis">Kurtis</a></li>
+                    <li><a href="/readymade-sherwani/bollywood_vogue-brand/c-sb.html" title="Readymade Sherwani">Readymade Sherwani</a></li>
+                  </ul>
+                </div>
+              </div>
+              <div class="float-left licol dvbrand"></div>
+              <div class="stdbtn"><a href="/gv-product-detail.aspx" title="E-Gift Voucher" class="btnlatest"><span>E-Gift Voucher</span></a></div>
+              <div class="float-left licol dvocassion"><img class="MenuImg" src="/Resources/PL_images/lazyloading.gif" original="http://images.cbazaar.com/PL_Images/BannerImages/brand-bollywood.png"></div>
+            </div>
+          </li>
+          <li><a href="/brand/modni/sb.html"><span>Modni</span></a><div class="inmenu">
+              <div class="float-left licol dvcategory">
+                <div class="menu">
+                  <p>Shop by category</p>
+                  <ul>
+                    <li><a href="/saree/modni-brand/c-sb.html" title="Saree">Saree</a></li>
+                    <li><a href="/readymade-salwar/modni-brand/c-sb.html" title="Readymade Salwar">Readymade Salwar</a></li>
+                    <li><a href="/readymade-kurti/modni-brand/c-sb.html" title="Kurtis">Kurtis</a></li>
+                    <li><a href="/readymade-kurta/modni-brand/c-sb.html" title="Kurta">Kurta</a></li>
+                    <li><a href="/salwar-kameez/modni-brand/c-sb.html" title="Salwar Kameez">Salwar Kameez</a></li>
+                    <li><a href="/readymade-kurta-pajama/modni-brand/c-sb.html" title="Kurta Pyjama">Kurta Pyjama</a></li>
+                    <li><a href="/dupattas/modni-brand/c-sb.html" title="Dupattas">Dupattas</a></li>
+                  </ul>
+                </div>
+              </div>
+              <div class="float-left licol dvbrand"></div>
+              <div class="stdbtn"><a href="/gv-product-detail.aspx" title="E-Gift Voucher" class="btnlatest"><span>E-Gift Voucher</span></a></div>
+              <div class="float-left licol dvocassion"><img class="MenuImg" src="/Resources/PL_images/lazyloading.gif" original="http://images.cbazaar.com/PL_Images/BannerImages/brand-modni.png"></div>
+            </div>
+          </li>
+          <li><a href="/readymade-kurti/global_desi-brand/c-sb.html"><span>Global Desi</span></a><div class="inmenu">
+              <div class="float-left licol dvcategory">
+                <div class="menu">
+                  <p>Shop by category</p>
+                  <ul>
+                    <li><a href="/readymade-kurti/global_desi-brand/c-sb.html" title="Readymade Kurtis">Readymade Kurtis</a></li>
+                  </ul>
+                </div>
+              </div>
+              <div class="float-left licol dvbrand"></div>
+              <div class="stdbtn"><a href="/gv-product-detail.aspx" title="E-Gift Voucher" class="btnlatest"><span>E-Gift Voucher</span></a></div>
+              <div class="float-left licol dvocassion"><img class="MenuImg" src="/Resources/PL_images/lazyloading.gif" original="http://images.cbazaar.com/PL_Images/BannerImages/brand-global-desi.png"></div>
+            </div>
+          </li>
+          <li><a href="/readymade-kurti/w-brand/c-sb.html"><span>W</span></a><div class="inmenu">
+              <div class="float-left licol dvcategory">
+                <div class="menu">
+                  <p>Shop by category</p>
+                  <ul>
+                    <li><a href="/readymade-kurti/w-brand/c-sb.html" title="Kurtis">Kurtis</a></li>
+                    <li><a href="/readymade-plus-size-kurti/w-brand/c-sb.html" title="Readymade Plus Size Kurti">Readymade Plus Size Kurti</a></li>
+                  </ul>
+                </div>
+              </div>
+              <div class="float-left licol dvbrand"></div>
+              <div class="stdbtn"><a href="/gv-product-detail.aspx" title="E-Gift Voucher" class="btnlatest"><span>E-Gift Voucher</span></a></div>
+              <div class="float-left licol dvocassion"><img class="MenuImg" src="/Resources/PL_images/lazyloading.gif" original="http://images.cbazaar.com/PL_Images/BannerImages/brand-w.png"></div>
+            </div>
+          </li>
+          <li><a href="/readymade-kurti/aurelia-brand/c-sb.html"><span>Aurelia</span></a><div class="inmenu">
+              <div class="float-left licol dvcategory">
+                <div class="menu">
+                  <p>Shop by category</p>
+                  <ul>
+                    <li><a href="/readymade-kurti/aurelia-brand/c-sb.html" title="Readymade Kurtis">Readymade Kurtis</a></li>
+                  </ul>
+                </div>
+              </div>
+              <div class="float-left licol dvbrand"></div>
+              <div class="stdbtn"><a href="/gv-product-detail.aspx" title="E-Gift Voucher" class="btnlatest"><span>E-Gift Voucher</span></a></div>
+              <div class="float-left licol dvocassion"><img class="MenuImg" src="/Resources/PL_images/lazyloading.gif" original="http://images.cbazaar.com/PL_Images/BannerImages/brand-aurelia.png"></div>
+            </div>
+          </li>
+          <li><a href="/readymade-kurti/18_fire-brand/c-sb.html"><span>18 fire</span></a><div class="inmenu">
+              <div class="float-left licol dvcategory">
+                <div class="menu">
+                  <p>Shop by category</p>
+                  <ul>
+                    <li><a href="/readymade-kurti/18_fire-brand/c-sb.html" title="Kurtis">Kurtis</a></li>
+                  </ul>
+                </div>
+              </div>
+              <div class="float-left licol dvbrand"></div>
+              <div class="stdbtn"><a href="/gv-product-detail.aspx" title="E-Gift Voucher" class="btnlatest"><span>E-Gift Voucher</span></a></div>
+              <div class="float-left licol dvocassion"><img class="MenuImg" src="/Resources/PL_images/lazyloading.gif" original="http://images.cbazaar.com/PL_Images/BannerImages/brand-18-fire.png"></div>
+            </div>
+          </li>
+        </ul>
+      </div>
+    </li>
+    <li><a>Shop By</a><div class="drop-menu" style="display: none">
+        <ul class="float-left submenu">
+          <li><a><span>Designers</span></a><div class="inmenu">
+              <div class="float-left licol dvcategory">
+                <div class="menu">
+                  <p>Shop by category</p>
+                  <ul>
+                    <li><a href="/manish_arora-designer/x-sb.html" title="Manish Arora">Manish Arora</a></li>
+                    <li><a href="/taika_by_poonam_bhagat-designer/x-sb.html" title="TAIKA by Poonam Bhagat">TAIKA by Poonam Bhagat</a></li>
+                    <li><a href="/ampm-designer/x-sb.html" title="AM:PM">AM:PM</a></li>
+                    <li><a href="/nida_mahmood-designer/x-sb.html" title="Nida Mahmood">Nida Mahmood</a></li>
+                    <li><a href="/mynahs_by_reynu_tandon-designer/x-sb.html" title="Mynah's By Reynu Tandon">Mynah's By Reynu Tandon</a></li>
+                    <li><a href="/sonia_jetleey-designer/x-sb.html" title="Sonia Jetleey">Sonia Jetleey</a></li>
+                    <li><a href="/abhijeet_khanna-designer/x-sb.html" title="Abhijeet Khanna">Abhijeet Khanna</a></li>
+                    <li><a href="/5_elements_by_radhika_gupta-designer/x-sb.html" title="5 Elements By Radhika Gupta">5 Elements By Radhika Gupta</a></li>
+                    <li><a href="/meera_mahadevia-designer/x-sb.html" title="Meera Mahadevia">Meera Mahadevia</a></li>
+                  </ul>
+                </div>
+              </div>
+              <div class="float-left licol dvbrand"></div>
+              <div class="stdbtn"><a href="/gv-product-detail.aspx" title="E-Gift Voucher" class="btnlatest"><span>E-Gift Voucher</span></a></div>
+              <div class="float-left licol dvocassion"><img class="MenuImg" src="/Resources/PL_images/lazyloading.gif" original="http://images.cbazaar.com/PL_Images/BannerImages/menu-Designers.png"></div>
+            </div>
+          </li>
+          <li><a><span>Celebrities</span></a><div class="inmenu">
+              <div class="float-left licol dvcategory">
+                <div class="menu">
+                  <p>Shop by category</p>
+                  <ul>
+                    <li><a href="/celebrities/sonam-kapoor/sb.html" title="Sonam Kapoor">Sonam Kapoor</a></li>
+                    <li><a href="/celebrities/sonakshi-sinha/sb.html" title="Sonakshi Sinha">Sonakshi Sinha</a></li>
+                    <li><a href="/celebrities/rani-mukherjee/sb.html" title="Rani Mukherjee">Rani Mukherjee</a></li>
+                    <li><a href="/celebrities/mahi-gill/sb.html" title="Mahi Gill">Mahi Gill</a></li>
+                    <li><a href="/celebrities/soha-ali-khan/sb.html" title="Soha Ali Khan">Soha Ali Khan</a></li>
+                    <li><a href="/celebrities/divya-punar-vivaah-2/sb.html" title="Divya from Punar Vivaah 2">Divya from Punar Vivaah 2</a></li>
+                    <li><a href="/celebrities/sarita-punar-vivaah-2/sb.html" title="Sarita from Punar Vivaah 2">Sarita from Punar Vivaah 2</a></li>
+                    <li><a href="/celebrities/mukta-uttaran/sb.html" title="Mukta from Uttaran">Mukta from Uttaran</a></li>
+                    <li><a href="/celebrities/meethi-uttaran/sb.html" title="Meethi from Uttaran">Meethi from Uttaran</a></li>
+                    <li><a href="/celebrities/iccha-uttaran/sb.html" title="Icchha from Uttaran">Icchha from Uttaran</a></li>
+                    <li><a href="/celebrities/tapasya-uttaran/sb.html" title="Tapasya from Uttaran">Tapasya from Uttaran</a></li>
+                    <li><a href="/celebrities/madhubala/sb.html" title="Madhubala">Madhubala</a></li>
+                    <li><a href="/celebrities/rk-madhubala/sb.html" title="RK from Madhubala">RK from Madhubala</a></li>
+                  </ul>
+                </div>
+              </div>
+              <div class="float-left licol dvbrand"></div>
+              <div class="stdbtn"><a href="/gv-product-detail.aspx" title="E-Gift Voucher" class="btnlatest"><span>E-Gift Voucher</span></a></div>
+              <div class="float-left licol dvocassion"><img class="MenuImg" src="/Resources/PL_images/lazyloading.gif" original="http://images.cbazaar.com/PL_Images/BannerImages/shopby-celebrities.png"></div>
+            </div>
+          </li>
+          <li><a href="/promotions.aspx?movie"><span>Films</span></a><div class="inmenu">
+              <div class="float-left licol dvcategory">
+                <div class="menu">
+                  <p>Shop by category</p>
+                  <ul>
+                    <li><a href="/films/lootera/sb.html" title="Lootera">Lootera</a></li>
+                    <li><a href="/films/raanjhanaa/sb.html" title="Raanjhanaa">Raanjhanaa</a></li>
+                    <li><a href="/films/saheb-biwi-aur-gangster/sb.html" title="Saheb Biwi aur Gangster">Saheb Biwi aur Gangster</a></li>
+                    <li><a href="/films/son-of-sardar/sb.html" title="Son Of Sardar">Son Of Sardar</a></li>
+                    <li><a href="/films/aiyyaa/sb.html" title="Aiyyaa">Aiyyaa</a></li>
+                    <li><a href="/saree/dabangg_2-films/c-sb.html" title="Dabangg 2">Dabangg 2</a></li>
+                  </ul>
+                </div>
+              </div>
+              <div class="float-left licol dvbrand"></div>
+              <div class="stdbtn"><a href="/gv-product-detail.aspx" title="E-Gift Voucher" class="btnlatest"><span>E-Gift Voucher</span></a></div>
+              <div class="float-left licol dvocassion"><img class="MenuImg" src="/Resources/PL_images/lazyloading.gif" original="http://images.cbazaar.com/PL_Images/BannerImages/shopby-film.png"></div>
+            </div>
+          </li>
+          <li><a><span>TV Serials</span></a><div class="inmenu">
+              <div class="float-left licol dvcategory">
+                <div class="menu">
+                  <p>Shop by category</p>
+                  <ul>
+                    <li><a href="/promotions.aspx?punar-vivaah" title="Punar Vivaah - Zee TV">Punar Vivaah - Zee TV</a></li>
+                    <li><a href="/salwar-kameez/anamika-tv_serials/c-sb.html" title="Anamika – Sony">Anamika – Sony</a></li>
+                    <li><a href="/promotions.aspx?uttaran" title="Uttaran – Aapka Colors">Uttaran – Aapka Colors</a></li>
+                    <li><a href="/promotions.aspx?madhubala" title="Madhubala">Madhubala</a></li>
+                  </ul>
+                </div>
+              </div>
+              <div class="float-left licol dvbrand"></div>
+              <div class="stdbtn"><a href="/gv-product-detail.aspx" title="E-Gift Voucher" class="btnlatest"><span>E-Gift Voucher</span></a></div>
+              <div class="float-left licol dvocassion"><img class="MenuImg" src="/Resources/PL_images/lazyloading.gif" original="http://images.cbazaar.com/PL_Images/BannerImages/shopby-tv.png"></div>
+            </div>
+          </li>
+          <li><a><span>Brands</span></a><div class="inmenu">
+              <div class="float-left licol dvcategory">
+                <div class="menu">
+                  <p>Shop by category</p>
+                  <ul>
+                    <li><a href="/brand/rair/sb.html" title="RaiR">RaiR</a></li>
+                    <li><a href="/brand/global-desi/sb.html" title="Global Desi">Global Desi</a></li>
+                    <li><a href="/brand/18-fire/sb.html" title="18 fire">18 fire</a></li>
+                    <li><a href="/brand/bollywood-vogue/sb.html" title="Bollywood Vogue">Bollywood Vogue</a></li>
+                    <li><a href="/readymade-kurti/w-brand/c-sb.html" title="W">W</a></li>
+                    <li><a href="/brand/modni/sb.html" title="Modni">Modni</a></li>
+                    <li><a href="/readymade-kurti/aurelia-brand/c-sb.html" title="Aurelia">Aurelia</a></li>
+                  </ul>
+                </div>
+              </div>
+              <div class="float-left licol dvbrand"></div>
+              <div class="stdbtn"><a href="/gv-product-detail.aspx" title="E-Gift Voucher" class="btnlatest"><span>E-Gift Voucher</span></a></div>
+              <div class="float-left licol dvocassion"><img class="MenuImg" src="/Resources/PL_images/lazyloading.gif" original="http://images.cbazaar.com/PL_Images/BannerImages/shop-brand.png"></div>
+            </div>
+          </li>
+          <li><a><span>Occasion</span></a><div class="inmenu">
+              <div class="float-left licol dvcategory">
+                <div class="menu">
+                  <p>Shop by category</p>
+                  <ul>
+                    <li><a href="/occasion/formal-wear/sb.html" title="Formal Dressing">Formal Dressing</a></li>
+                    <li><a href="/occasion/casual-wear/sb.html" title="Casual Chic">Casual Chic</a></li>
+                    <li><a href="/occasion/party-wear/sb.html" title="Evening Affair">Evening Affair</a></li>
+                    <li><a href="/occasion/wedding/sb.html" title="Festive Finery">Festive Finery</a></li>
+                    <li><a href="/occasion/bridal/sb.html" title="Bride's Delight">Bride's Delight</a></li>
+                  </ul>
+                </div>
+              </div>
+              <div class="float-left licol dvbrand"></div>
+              <div class="stdbtn"><a href="/gv-product-detail.aspx" title="E-Gift Voucher" class="btnlatest"><span>E-Gift Voucher</span></a><a href="https://www.surveymonkey.com/s/fashionfriend" title="FashionFriend" target="_blank" class="btnlatest" rel="nofollow"><span>FashionFriend</span></a></div>
+              <div class="float-left licol dvocassion"><img class="MenuImg" src="/Resources/PL_images/lazyloading.gif" original="http://images.cbazaar.com/PL_Images/BannerImages/shop-occassion.png"></div>
+            </div>
+          </li>
+          <li><a><span>Monsoon Offer</span></a><div class="inmenu">
+              <div class="float-left licol dvcategory">
+                <div class="menu">
+                  <p>Shop by category</p>
+                  <ul>
+                    <li><a href="/saree/offer.html" title="Saree">Saree</a></li>
+                    <li><a href="/readymade-salwar/offer.html" title="Readymade Salwar">Readymade Salwar</a></li>
+                    <li><a href="/salwar-kameez/offer.html" title="Salwar Kameez">Salwar Kameez</a></li>
+                    <li><a href="/readymade-kurti/offer.html" title="Readymade Kurti">Readymade Kurti</a></li>
+                    <li><a href="/tunic/offer.html" title="Tunic">Tunic</a></li>
+                    <li><a href="/lehenga/offer.html" title="Lehenga">Lehenga</a></li>
+                    <li><a href="/readymade-lehenga/offer.html" title="Readymade Lehenga">Readymade Lehenga</a></li>
+                    <li><a href="/readymade-plus-size-kurti/offer.html" title="Readymade Plus Size Kurtis">Readymade Plus Size Kurtis</a></li>
+                    <li><a href="/readymade-plus-size-salwar-kameez/offer.html" title="Readymade Plus Size Salwar Kameez">Readymade Plus Size Salwar Kameez</a></li>
+                    <li><a href="/readymade-kurta-pajama/offer.html" title="Mens Kurta Pajama">Mens Kurta Pajama</a></li>
+                    <li><a href="/kids-wear-girls/offer.html" title="Kids Wear Girls">Kids Wear Girls</a></li>
+                    <li><a href="/kids-wear-boys/offer.html" title="Kids Wear Boys">Kids Wear Boys</a></li>
+                  </ul>
+                </div>
+              </div>
+              <div class="float-left licol dvbrand"></div>
+              <div class="stdbtn"><a href="/gv-product-detail.aspx" title="E-Gift Voucher" class="btnlatest"><span>E-Gift Voucher</span></a></div>
+              <div class="float-left licol dvocassion"><img class="MenuImg" src="/Resources/PL_images/lazyloading.gif" original="http://images.cbazaar.com/PL_Images/BannerImages/monsoon.png"></div>
+            </div>
+          </li>
+          <li><a><span>Size</span></a><div class="inmenu">
+              <div class="float-left licol shopsize">
+                <div class="menu">
+                  <p>Readymade Salwar</p>
+                  <ul class="readysize">
+                    <li><a href="/readymade-salwar/1022-rmsize/c-sb.html" title="30">30</a></li>
+                    <li><a href="/readymade-salwar/1015-rmsize/c-sb.html" title="32">32</a></li>
+                    <li><a href="/readymade-salwar/1002-rmsize/c-sb.html" title="34">34</a></li>
+                    <li><a href="/readymade-salwar/1003-rmsize/c-sb.html" title="36">36</a></li>
+                    <li><a href="/readymade-salwar/1005-rmsize/c-sb.html" title="38">38</a></li>
+                    <li><a href="/readymade-salwar/1007-rmsize/c-sb.html" title="40">40</a></li>
+                    <li><a href="/readymade-salwar/1009-rmsize/c-sb.html" title="42">42</a></li>
+                    <li><a href="/readymade-salwar/1011-rmsize/c-sb.html" title="44">44</a></li>
+                    <li><a href="/readymade-salwar/1013-rmsize/c-sb.html" title="46">46</a></li>
+                    <li><a href="/readymade-salwar/1016-rmsize/c-sb.html" title="48">48</a></li>
+                  </ul>
+                </div>
+                <div class="menu">
+                  <p>Readymade Lehenga</p>
+                  <ul class="readysize">
+                    <li><a href="/readymade-lehenga/1022-rmsize/c-sb.html" title="30">30</a></li>
+                    <li><a href="/readymade-lehenga/1015-rmsize/c-sb.html" title="32">32</a></li>
+                    <li><a href="/readymade-lehenga/1002-rmsize/c-sb.html" title="34">34</a></li>
+                    <li><a href="/readymade-lehenga/1003-rmsize/c-sb.html" title="36">36</a></li>
+                    <li><a href="/readymade-lehenga/1005-rmsize/c-sb.html" title="38">38</a></li>
+                    <li><a href="/readymade-lehenga/1007-rmsize/c-sb.html" title="40">40</a></li>
+                    <li><a href="/readymade-lehenga/1009-rmsize/c-sb.html" title="42">42</a></li>
+                  </ul>
+                </div>
+                <div class="menu">
+                  <p>Readymade Kurti</p>
+                  <ul class="readysize">
+                    <li><a href="/readymade-kurti/1022-rmsize/c-sb.html" title="30">30</a></li>
+                    <li><a href="/readymade-kurti/1015-rmsize/c-sb.html" title="32">32</a></li>
+                    <li><a href="/readymade-kurti/1002-rmsize/c-sb.html" title="34">34</a></li>
+                    <li><a href="/readymade-kurti/1003-rmsize/c-sb.html" title="36">36</a></li>
+                    <li><a href="/readymade-kurti/1005-rmsize/c-sb.html" title="38">38</a></li>
+                    <li><a href="/readymade-kurti/1007-rmsize/c-sb.html" title="40">40</a></li>
+                    <li><a href="/readymade-kurti/1009-rmsize/c-sb.html" title="42">42</a></li>
+                    <li><a href="/readymade-kurti/1011-rmsize/c-sb.html" title="44">44</a></li>
+                    <li><a href="/readymade-kurti/1013-rmsize/c-sb.html" title="46">46</a></li>
+                    <li><a href="/readymade-kurti/1016-rmsize/c-sb.html" title="48">48</a></li>
+                  </ul>
+                </div>
+                <div class="menu">
+                  <p>Readymade Sherwani</p>
+                  <ul class="readysize">
+                    <li><a href="/readymade-sherwani/1123-rmsize/c-sb.html" title="38">38</a></li>
+                    <li><a href="/readymade-sherwani/1124-rmsize/c-sb.html" title="40">40</a></li>
+                    <li><a href="/readymade-sherwani/1125-rmsize/c-sb.html" title="42">42</a></li>
+                    <li><a href="/readymade-sherwani/1126-rmsize/c-sb.html" title="44">44</a></li>
+                    <li><a href="/readymade-sherwani/1404-rmsize/c-sb.html" title="48">48</a></li>
+                  </ul>
+                </div>
+                <div class="menu">
+                  <p>Readymade Kurta Pajama</p>
+                  <ul class="readysize">
+                    <li><a href="/readymade-kurta-pajama/1123-rmsize/c-sb.html" title="38">38</a></li>
+                    <li><a href="/readymade-kurta-pajama/1124-rmsize/c-sb.html" title="40">40</a></li>
+                    <li><a href="/readymade-kurta-pajama/1125-rmsize/c-sb.html" title="42">42</a></li>
+                    <li><a href="/readymade-kurta-pajama/1126-rmsize/c-sb.html" title="44">44</a></li>
+                    <li><a href="/readymade-kurta-pajama/1404-rmsize/c-sb.html" title="48">48</a></li>
+                  </ul>
+                </div>
               </div>
             </div>
           </li>
         </ul>
       </div>
     </li>
-    <li><a>Men</a><div class="subMenu" style="display: none;">
-        <ul class="subnav sel">
-          <li class="shwCselstItem"><a href="/readymade-kurta-pajama/pt-kpr.html">Readymade Kurta Pyjama</a><div class="inMenu" style="display: none;">
-              <ul>
-                <li class="shwCselstItem"><a href="/readymade-kurta-pajama/designer-style/c-sb.html" title="Designer Kurta Pyjama">Designer Kurta Pyjama</a></li>
-                <li class="shwCselstItem"><a href="/readymade-kurta-pajama/wedding-occasion/c-sb.html" title="Wedding Kurta Pyjama">Wedding Kurta Pyjama</a></li>
-                <li class="shwCselstItem"><a href="/readymade-kurta-pajama/cotton-fabric/c-sb.html" title="Cotton Kurta Pyjama">Cotton Kurta Pyjama</a></li>
-                <li class="shwCselstItem"><a href="/readymade-kurta/c-sb.html" title="Readymade Kurtas">Readymade Kurtas</a></li>
-                <li class="shwCselstItem"><a href="/readymade-kurta-pajama/jacquard-art_style/c-sb.html" title="Jacuard Kurta Pyjama">Jacuard Kurta Pyjama</a></li>
-              </ul>
-              <div class="stdbtn"><a href="/readymade-kurta-pajama/latest-arrival.html" title="Latest Arrivals" class="btnlatest"><span>Latest Arrivals</span></a><a href="/readymade-kurta-pajama/c-sb.html" title="View All" class="btnlatest"><span>View All</span></a></div>
-              <div class="desc">
-                <h2>
-        Immense range of collection for exotic night out!
-      </h2>
+    <li><a><b>New</b>
+      Eid Collection
+    </a><div class="drop-menu" style="display: none">
+        <ul class="float-left submenu">
+          <li><a><span>Eid Collection 2013</span></a><div class="inmenu">
+              <div class="float-left licol dvcategory">
+                <div class="menu">
+                  <p>Shop by category</p>
+                  <ul>
+                    <li><a href="/saree/eid-occasion/c-sb.html" title="Saree">Saree</a></li>
+                    <li><a href="/salwar-kameez/eid-occasion/c-sb.html" title="Salwar Kameez">Salwar Kameez</a></li>
+                    <li><a href="/readymade-salwar/eid-occasion/c-sb.html" title="Readymade Salwar">Readymade Salwar</a></li>
+                    <li><a href="/lehenga/eid-occasion/c-sb.html" title="Lehenga">Lehenga</a></li>
+                    <li><a href="/readymade-lehenga/eid-occasion/c-sb.html" title="Readymade Lehenga">Readymade Lehenga</a></li>
+                    <li><a href="/readymade-kurti/eid-occasion/c-sb.html" title="Readymade Kurti">Readymade Kurti</a></li>
+                    <li><a href="/sherwani/eid-occasion/c-sb.html" title="Sherwani">Sherwani</a></li>
+                    <li><a href="/readymade-kurta-pajama/eid-occasion/c-sb.html" title="Readymade Kurta Pajama">Readymade Kurta Pajama</a></li>
+                    <li><a href="/kids-wear-boys/eid-occasion/c-sb.html" title="Kids Wear Boys">Kids Wear Boys</a></li>
+                    <li><a href="/kids-wear-girls/eid-occasion/c-sb.html" title="Kids Wear Girls">Kids Wear Girls</a></li>
+                    <li><a href="/readymade-kaftan/c-sb.html" title="Kaftans">Kaftans</a></li>
+                    <li><a href="/readymade-abaya/c-sb.html" title="Abaya">Abaya</a></li>
+                  </ul>
+                </div>
               </div>
-            </div>
-          </li>
-          <li class="shwCselstItem"><a href="/sherwani/pt-sh.html">Sherwani</a><div class="inMenu" style="display: none;">
-              <ul>
-                <li class="shwCselstItem"><a href="/sherwani/wedding-occasion/c-sb.html" title="Wedding Sherwani">Wedding Sherwani</a></li>
-                <li class="shwCselstItem"><a href="/sherwani/designer-style/c-sb.html" title="Designer Sherwani">Designer Sherwani</a></li>
-                <li class="shwCselstItem"><a href="/sherwani/bridal-occasion/c-sb.html" title="Bridegroom Sherwani">Bridegroom Sherwani</a></li>
-                <li class="shwCselstItem"><a href="/sherwani/dhoti_style-specialty/c-sb.html" title="Dhoti Style Sherwani">Dhoti Style Sherwani</a></li>
-                <li class="shwCselstItem"><a href="/readymade-sherwani/c-sb.html" title="Readymade Sherwani">Readymade Sherwani</a></li>
-                <li class="shwCselstItem"><a href="/bridegrooms/indowestern-suits/c-878-1183-1090.html" title="Indowestern">Indowestern</a></li>
-              </ul>
-              <div class="stdbtn"><a href="/sherwani/latest-arrival.html" title="Latest Arrivals" class="btnlatest"><span>Latest Arrivals</span></a><a href="/sherwani/c-sb.html" title="View All" class="btnlatest"><span>View All</span></a></div>
-              <div class="desc">
-                <h2>
-        Exalted clothing with reasonable offers!
-      </h2>
-              </div>
-            </div>
-          </li>
-          <li class="shwCselstItem"><a href="/mens-suits/pt-su.html">Mens Suit</a><div class="inMenu" style="display: none;">
-              <ul>
-                <li class="shwCselstItem"><a href="/mens-suits/designer-style/c-sb.html" title="Designer Mens Suit">Designer Mens Suit</a></li>
-                <li class="shwCselstItem"><a href="/mens-suits/wedding-occasion/c-sb.html" title="Wedding Suit">Wedding Suit</a></li>
-              </ul>
-              <div class="stdbtn"><a href="/mens-suits/latest-arrival.html" title="Latest Arrivals" class="btnlatest"><span>Latest Arrivals</span></a><a href="/mens-suits/c-sb.html" title="View All" class="btnlatest"><span>View All</span></a></div>
-              <div class="desc">
-                <h2>
-        Engrave the best of best!
-      </h2>
-              </div>
+              <div class="float-left licol dvbrand"></div>
+              <div class="stdbtn"><a href="/gv-product-detail.aspx" title="E-Gift Voucher" class="btnlatest"><span>E-Gift Voucher</span></a></div>
+              <div class="float-left licol dvocassion"><img class="MenuImg" src="/Resources/PL_images/lazyloading.gif" original="http://images.cbazaar.com/PL_Images/BannerImages/menu-eid.png"></div>
             </div>
           </li>
         </ul>
       </div>
     </li>
-    <li><a>Kids</a><div class="subMenu" style="display: none;">
-        <ul class="subnav sel">
-          <li class="shwCselstItem"><a href="/kids-wear-girls/pt-kdg.html">Kids - Girls</a><div class="inMenu" style="display: none;">
-              <ul>
-                <li class="shwCselstItem"><a href="/kids-wear-girls/indowestern-specialty/c-sb.html" title="Indowestern">Indowestern</a></li>
-                <li class="shwCselstItem"><a href="/kids-wear-girls/churidar_suit-specialty/c-sb.html" title="Churidar Suit">Churidar Suit</a></li>
-                <li class="shwCselstItem"><a href="/kids-wear-girls/anarkali_suit-specialty/c-sb.html" title="Anarkali Suit">Anarkali Suit</a></li>
-                <li class="shwCselstItem"><a href="/kids-wear-girls/a_line_lehenga-specialty/c-sb.html" title="Lehenga">Lehenga</a></li>
-                <li class="shwCselstItem"><a href="/kids-wear-girls/umbrella_cut-specialty/c-sb.html" title="Umbrella Cut Lehenga">Umbrella Cut Lehenga</a></li>
-                <li class="shwCselstItem"><a href="/kids-clothing/gowns-for-girls/c-4-528-146.html" title="Gown">Gown</a></li>
-              </ul>
-              <div class="stdbtn"><a href="/kids-wear-girls/latest-arrival.html" title="Latest Arrivals" class="btnlatest"><span>Latest Arrivals</span></a><a href="/kids-wear-girls/c-sb.html" title="View All" class="btnlatest"><span>View All</span></a></div>
-              <div class="desc">
-                <h2>
-        Immense range of collection for exotic night out!
-      </h2>
+    <li><a>
+      Styles &amp; Trends
+    </a><div class="drop-menu" style="display: none">
+        <ul class="float-left submenu">
+          <li><a><span>Local Tadka</span></a><div class="inmenu">
+              <div class="float-left licol dvcategory">
+                <div class="menu">
+                  <p>Shop by category</p>
+                  <ul>
+                    <li><a href="/readymade-salwar/punjabi-specialty/c-sb.html" title="Punjabi">Punjabi</a></li>
+                    <li><a href="/specialty/mughal-flavor/sb.html" title="Mughal">Mughal</a></li>
+                    <li><a href="/specialty/south-indian/sb.html" title="South Indian">South Indian</a></li>
+                    <li><a href="/specialty/kutch/sb.html" title="Kutch">Kutch</a></li>
+                    <li><a href="/specialty/persian/sb.html" title="Persian">Persian</a></li>
+                  </ul>
+                </div>
               </div>
+              <div class="float-left licol dvbrand"></div>
+              <div class="stdbtn"><a href="/gv-product-detail.aspx" title="E-Gift Voucher" class="btnlatest"><span>E-Gift Voucher</span></a></div>
+              <div class="float-left licol dvocassion"><img class="MenuImg" src="/Resources/PL_images/lazyloading.gif" original="http://images.cbazaar.com/PL_Images/BannerImages/local-tadka.png"></div>
             </div>
           </li>
-          <li class="shwCselstItem"><a href="/kids-wear-boys/pt-kdb.html">Kids - Boys</a><div class="inMenu" style="display: none;">
-              <ul>
-                <li class="shwCselstItem"><a href="/kids-wear-boys/dhoti_style-specialty/c-sb.html" title="Dhoti Style Kurta Pyjama">Dhoti Style Kurta Pyjama</a></li>
-                <li class="shwCselstItem"><a href="/kids-wear-boys/kurta_pyjama-specialty/c-sb.html" title="Kurta Pyjama">Kurta Pyjama</a></li>
-                <li class="shwCselstItem"><a href="/kids-wear-boys/suits-specialty/c-sb.html" title="Suits">Suits</a></li>
-              </ul>
-              <div class="stdbtn"><a href="/kids-wear-boys/latest-arrival.html" title="Latest Arrivals" class="btnlatest"><span>Latest Arrivals</span></a><a href="/kids-wear-boys/c-sb.html" title="View All" class="btnlatest"><span>View All</span></a></div>
-              <div class="desc">
-                <h2>
-        Pounce on the rare collections now
-      </h2>
+          <li><a href="/cbuzz.html"><span>CBuzz</span></a><div class="inmenu">
+              <div class="float-left licol dvcategory">
+                <div class="menu">
+                  <p>Shop by category</p>
+                  <ul>
+                    <li><a href="/cbuzz.aspx?q=may-2013" title="May 13"><b>New</b>May 13</a></li>
+                    <li><a href="/cbuzz.aspx?q=apr-2013" title="Apr 13">Apr 13</a></li>
+                  </ul>
+                </div>
               </div>
+              <div class="float-left licol dvbrand"></div>
+              <div class="stdbtn"><a href="/cbuzz.aspx" title="View all editions" class="btnlatest"><span>View all editions</span></a></div>
+              <div class="float-left licol dvocassion"><img class="MenuImg" src="/Resources/PL_images/lazyloading.gif" original="http://images.cbazaar.com/PL_Images/BannerImages/cbuzz.png"></div>
             </div>
           </li>
-        </ul>
-      </div>
-    </li>
-    <li><a>Jewelry</a><div class="subMenu" style="display: none;">
-        <ul class="subnav sel">
-          <li class="shwCselstItem"><a href="/necklace/pt-jy.html">Necklace</a><div class="inMenu" style="display: none;">
-              <ul>
-                <li class="shwCselstItem"><a href="/necklace/kundan-specialty/c-sb.html" title="Kundan Necklace Set">Kundan Necklace Set</a></li>
-                <li class="shwCselstItem"><a href="/necklace/polki-specialty/c-sb.html" title="Polki Necklace Sets">Polki Necklace Sets</a></li>
-                <li class="shwCselstItem"><a href="/necklace/contemporary-style/c-sb.html" title="Contemporary Necklace">Contemporary Necklace</a></li>
-                <li class="shwCselstItem"><a href="/necklace/designer-style/c-sb.html" title="Designer Necklace">Designer Necklace</a></li>
-                <li class="shwCselstItem"><a href="/necklace/moti-specialty/c-sb.html" title="Moti Necklace Set">Moti Necklace Set</a></li>
-                <li class="shwCselstItem"><a href="/necklace/stone_studded-specialty/c-sb.html" title="Stone Studded Necklace Sets">Stone Studded Necklace Sets</a></li>
-                <li class="shwCselstItem"><a href="/necklace/wedding-occasion/c-sb.html" title="Wedding Necklace Set">Wedding Necklace Set</a></li>
-              </ul>
-              <div class="stdbtn"><a href="/necklace/latest-arrival.html" title="Latest Arrivals" class="btnlatest"><span>Latest Arrivals</span></a><a href="/necklace/c-sb.html" title="View All" class="btnlatest"><span>View All</span></a></div>
-              <div class="desc">
-                <h2>
-        Clump up the best choice of vivid compilation
-      </h2>
+          <li><a><span>Trends</span></a><div class="inmenu">
+              <div class="float-left licol dvcategory">
+                <div class="menu">
+                  <p>Shop by category</p>
+                  <ul>
+                    <li><a href="/specialty/persian/sb.html" title="The Muse of Persia">The Muse of Persia</a></li>
+                    <li><a href="/specialty/gliterati/sb.html" title="Gliterati">Gliterati</a></li>
+                    <li><a href="/celebrities/your-favorite-stars/sb.html" title="Bollywood Closet">Bollywood Closet</a></li>
+                    <li><a href="/specialty/miss-tequilla-sunshine/sb.html" title="Ms. Tequilla Sunshine">Ms. Tequilla Sunshine</a></li>
+                    <li><a href="/specialty/safari-collection/sb.html" title="Safari Collection">Safari Collection</a></li>
+                    <li><a href="/specialty/color-blocking/sb.html" title="Color Blocking">Color Blocking</a></li>
+                    <li><a href="/saree/the_evergreen_siren-specialty/c-sb.html" title="The Evergreen Siren">The Evergreen Siren</a></li>
+                    <li><a href="/specialty/time-to-shine/sb.html" title="Time To Shine">Time To Shine</a></li>
+                    <li><a href="/specialty/vintage-sixties/sb.html" title="Vintage Sixties">Vintage Sixties</a></li>
+                    <li><a href="/specialty/sand-safari/sb.html" title="Sand Safari">Sand Safari</a></li>
+                    <li><a href="/specialty/take-it-far/sb.html" title="Take it Far">Take it Far</a></li>
+                    <li><a href="/specialty/urban-lives/sb.html" title="Urban Lives">Urban Lives</a></li>
+                    <li><a href="/specialty/fine-feathers/sb.html" title="Fine Feathers">Fine Feathers</a></li>
+                  </ul>
+                </div>
               </div>
+              <div class="float-left licol dvbrand"></div>
+              <div class="stdbtn"><a href="/gv-product-detail.aspx" title="E-Gift Voucher" class="btnlatest"><span>E-Gift Voucher</span></a></div>
+              <div class="float-left licol dvocassion"><img class="MenuImg" src="/Resources/PL_images/lazyloading.gif" original="http://images.cbazaar.com/PL_Images/BannerImages/style_trends.png"></div>
             </div>
           </li>
-          <li class="shwCselstItem"><a href="/pendant/pt-pen.html">Pendant Sets</a><div class="inMenu" style="display: none;">
-              <ul>
-                <li class="shwCselstItem"><a href="/pendant/polki-specialty/c-sb.html" title="Polki style">Polki style</a></li>
-                <li class="shwCselstItem"><a href="/pendant/trendy-style/c-sb.html" title="Trendy style">Trendy style</a></li>
-                <li class="shwCselstItem"><a href="/pendant/trendy-style/c-sb.html" title="Contemporary Style">Contemporary Style</a></li>
-                <li class="shwCselstItem"><a href="/pendant/stone_studded-specialty/c-sb.html" title="Stone Studded Style">Stone Studded Style</a></li>
-              </ul>
-              <div class="stdbtn"><a href="/pendant/latest-arrival.html" title="Latest Arrivals" class="btnlatest"><span>Latest Arrivals</span></a><a href="/pendant/c-sb.html" title="View All" class="btnlatest"><span>View All</span></a></div>
-              <div class="desc">
-                <h2>
-        Posh and Prime would be the latest look
-      </h2>
+          <li><a><span>Blogs</span></a><div class="inmenu">
+              <div class="float-left licol dvcategory">
+                <div class="menu">
+                  <p>Shop by category</p>
+                  <ul>
+                    <li><a href="http://blog.cbazaar.com" title="C-Blog" target="_blank">C-Blog</a></li>
+                    <li><a href="http://www.bollywoodvogue.com" title="Bollywood Vogue" target="_blank">Bollywood Vogue</a></li>
+                  </ul>
+                </div>
               </div>
-            </div>
-          </li>
-          <li class="shwCselstItem"><a href="/earrings/pt-er.html">Earrings</a><div class="inMenu" style="display: none;">
-              <ul>
-                <li class="shwCselstItem"><a href="/earrings/c-sb.html" title="Trendy Style Earrings">Trendy Style Earrings</a></li>
-                <li class="shwCselstItem"><a href="/earrings/jhumka-specialty/c-sb.html" title="Jhumka Style Earrings">Jhumka Style Earrings</a></li>
-              </ul>
-              <div class="stdbtn"><a href="/earrings/latest-arrival.html" title="Latest Arrivals" class="btnlatest"><span>Latest Arrivals</span></a><a href="/earrings/c-sb.html" title="View All" class="btnlatest"><span>View All</span></a></div>
-              <div class="desc">
-                <h2>
-        Grab all blushing beauty in just one click
-      </h2>
-              </div>
-            </div>
-          </li>
-          <li class="shwCselstItem"><a href="/bangles-and-bracelet/pt-br.html">Bangles and Kada</a><div class="inMenu" style="display: none;">
-              <ul>
-                <li class="shwCselstItem"><a href="/bangles-and-bracelet/kundan-specialty/c-sb.html" title="Kundan Style">Kundan Style</a></li>
-                <li class="shwCselstItem"><a href="/bangles-and-bracelet/polki-specialty/c-sb.html" title="Polki Style">Polki Style</a></li>
-                <li class="shwCselstItem"><a href="/bangles-and-bracelet/stone_studded-specialty/c-sb.html" title="Stone Studded Style">Stone Studded Style</a></li>
-              </ul>
-              <div class="stdbtn"><a href="/bangles-and-bracelet/latest-arrival.html" title="Latest Arrivals" class="btnlatest"><span>Latest Arrivals</span></a><a href="/bangles-and-bracelet/c-sb.html" title="View All" class="btnlatest"><span>View All</span></a></div>
-              <div class="desc">
-                <h2>
-        Homley gleaming collections
-      </h2>
-              </div>
-            </div>
-          </li>
-        </ul>
-      </div>
-    </li>
-    <li><a>Accessories</a><div class="subMenu" style="display: none;">
-        <ul class="subnav sel">
-          <li class="shwCselstItem"><a href="/hand-bag/pt-hb.html">Hand Bags and Clutches</a><div class="inMenu" style="display: none;">
-              <ul>
-                <li class="shwCselstItem"><a href="/hand-bag/hand_bags-specialty/c-sb.html" title="Hand bags">Hand bags</a></li>
-                <li class="shwCselstItem"><a href="/hand-bag/clutches-specialty/c-sb.html" title="Clutches">Clutches</a></li>
-                <li class="shwCselstItem"><a href="/hand-bag/cane-specialty/c-sb.html" title="Cane Hand Bag">Cane Hand Bag</a></li>
-              </ul>
-              <div class="stdbtn"><a href="/hand-bag/latest-arrival.html" title="Latest Arrivals" class="btnlatest"><span>Latest Arrivals</span></a><a href="/hand-bag/c-sb.html" title="View All" class="btnlatest"><span>View All</span></a></div>
-              <div class="desc">
-                <h2>
-        Entice the crowd with gorgeous range
-      </h2>
-              </div>
-            </div>
-          </li>
-          <li class="shwCselstItem"><a href="/dupattas/pt-dp.html">Dupatta and Stoles</a><div class="inMenu" style="display: none;">
-              <ul>
-                <li class="shwCselstItem"><a href="/dupattas/latest-arrival.html" title="Latest Arrivals">Latest Arrivals</a></li>
-                <li class="shwCselstItem"><a href="/dupattas/c-sb.html" title="View All">View All</a></li>
-              </ul>
-              <div class="stdbtn">
-              </div>
-              <div class="desc">
-                <h2>
-        Match the best color of your choice
-      </h2>
-              </div>
-            </div>
-          </li>
-        </ul>
-      </div>
-    </li>
-    <li><a class="brands-new">Brands</a><div class="subMenu" style="display: none;">
-        <ul class="subnav sel">
-          <li class="shwCselstItem"><a href="/brand/rair/sb.html">Rair</a><div class="inMenu" style="display: none;">
-              <ul>
-                <li class="shwCselstItem"><a href="/saree/rair-brand/c-sb.html" title="Saree">Saree</a></li>
-                <li class="shwCselstItem"><a href="/salwar-kameez/rair-brand/c-sb.html" title="Salwar Kameez">Salwar Kameez</a></li>
-              </ul>
-              <div class="stdbtn">
-              </div>
-              <div class="desc">
-                <h2>
-        Pounce on the rare collections now
-      </h2>
-              </div>
-            </div>
-          </li>
-          <li class="shwCselstItem"><a href="/brand/bollywood-vogue/sb.html">Bollywood Vogue</a><div class="inMenu" style="display: none;">
-              <ul>
-                <li class="shwCselstItem"><a href="/saree/bollywood_vogue-brand/c-sb.html" title="Saree">Saree</a></li>
-                <li class="shwCselstItem"><a href="/readymade-salwar/bollywood_vogue-brand/c-sb.html" title="Readymade Salwar">Readymade Salwar</a></li>
-                <li class="shwCselstItem"><a href="/lehenga/bollywood_vogue-brand/c-sb.html" title="Lehenga">Lehenga</a></li>
-                <li class="shwCselstItem"><a href="/readymade-kurti/bollywood_vogue-brand/c-sb.html" title="Kurtis">Kurtis</a></li>
-                <li class="shwCselstItem"><a href="/readymade-kurta-pajama/bollywood_vogue-brand/c-sb.html" title="Kurta Pajama">Kurta Pajama</a></li>
-              </ul>
-              <div class="stdbtn">
-              </div>
-              <div class="desc">
-                <h2>
-        Amusing heroic collections at your door steps!
-      </h2>
-              </div>
-            </div>
-          </li>
-          <li class="shwCselstItem"><a href="/brand/modni/sb.html">Modni</a><div class="inMenu" style="display: none;">
-              <ul>
-                <li class="shwCselstItem"><a href="/saree/modni-brand/c-sb.html" title="Saree">Saree</a></li>
-                <li class="shwCselstItem"><a href="/readymade-salwar/modni-brand/c-sb.html" title="Readymade Salwar">Readymade Salwar</a></li>
-                <li class="shwCselstItem"><a href="/readymade-kurti/modni-brand/c-sb.html" title="Kurtis">Kurtis</a></li>
-                <li class="shwCselstItem"><a href="/readymade-kurta/modni-brand/c-sb.html" title="Kurta">Kurta</a></li>
-              </ul>
-              <div class="stdbtn">
-              </div>
-              <div class="desc">
-                <h2>
-        Sleek and neat just at reasonable price
-      </h2>
-              </div>
-            </div>
-          </li>
-        </ul>
-      </div>
-    </li>
-    <li><a>Shop By</a><div class="subMenu" style="display: none;">
-        <ul class="subnav sel">
-          <li class="shwCselstItem"><a>By Occasion</a><div class="inMenu" style="display: none;">
-              <ul>
-                <li class="shwCselstItem"><a href="/occasion/casual-wear/sb.html" title="Casual wear">Casual wear</a></li>
-                <li class="shwCselstItem"><a href="/occasion/party-wear/sb.html" title="Party wear">Party wear</a></li>
-                <li class="shwCselstItem"><a href="/occasion/wedding/sb.html" title="Wedding">Wedding</a></li>
-                <li class="shwCselstItem"><a href="/occasion/bridal/sb.html" title="Bridal">Bridal</a></li>
-                <li class="shwCselstItem"><a href="/occasion/formal-wear/sb.html" title="Formal wear">Formal wear</a></li>
-                <li class="shwCselstItem"><a href="/occasion/diwali/sb.html" title="Diwali">Diwali</a></li>
-              </ul>
-              <div class="stdbtn">
-              </div>
-              <div class="desc">
-                <h2>
-        Latest and the rarest range of products for every season
-      </h2>
-              </div>
-            </div>
-          </li>
-          <li class="shwCselstItem"><a>By Color</a><div class="inMenu" style="display: none;">
-              <ul>
-                <li class="shwCselstItem"><a href="/color/white/sb.html" title="White">White</a></li>
-                <li class="shwCselstItem"><a href="/color/blue/sb.html" title="Blue">Blue</a></li>
-                <li class="shwCselstItem"><a href="/color/green/sb.html" title="Green">Green</a></li>
-                <li class="shwCselstItem"><a href="/color/red/sb.html" title="Red">Red</a></li>
-                <li class="shwCselstItem"><a href="/color/black/sb.html" title="Black">Black</a></li>
-                <li class="shwCselstItem"><a href="/color/yellow/sb.html" title="Yellow">Yellow</a></li>
-                <li class="shwCselstItem"><a href="/color/purple/sb.html" title="Purple">Purple</a></li>
-                <li class="shwCselstItem"><a href="/color/orange/sb.html" title="Orange">Orange</a></li>
-                <li class="shwCselstItem"><a href="/color/pink/sb.html" title="Pink">Pink</a></li>
-                <li class="shwCselstItem"><a href="/color/grey/sb.html" title="Grey">Grey</a></li>
-                <li class="shwCselstItem"><a href="/color/rust/sb.html" title="Rust">Rust</a></li>
-                <li class="shwCselstItem"><a href="/color/violet/sb.html" title="Violet">Violet</a></li>
-              </ul>
-              <div class="stdbtn">
-              </div>
-              <div class="desc">
-                <h2>
-        Drape the alluring look with stunning party wear
-      </h2>
-              </div>
-            </div>
-          </li>
-          <li class="shwCselstItem"><a>By Deals</a><div class="inMenu" style="display: none;">
-              <ul>
-                <li class="shwCselstItem"><a href="/deals.aspx" title="All Deals">All Deals</a></li>
-                <li class="shwCselstItem"><a href="/clearance-sale.html" title="All Clearance Sale">All Clearance Sale</a></li>
-                <li class="shwCselstItem"><a href="/saree/sale.html" title="Sarees">Sarees</a></li>
-                <li class="shwCselstItem"><a href="/salwar-kameez/sale.html" title="Salwar Kameez">Salwar Kameez</a></li>
-                <li class="shwCselstItem"><a href="/readymade-salwar/sale.html" title="Readymade Salwars">Readymade Salwars</a></li>
-                <li class="shwCselstItem"><a href="/readymade-kurti/sale.html" title="Kurti">Kurti</a></li>
-                <li class="shwCselstItem"><a href="/lehenga/sale.html" title="Lehenga">Lehenga</a></li>
-                <li class="shwCselstItem"><a href="/sherwani/sale.html" title="Sherwani">Sherwani</a></li>
-                <li class="shwCselstItem"><a href="/kids-wear-girls/sale.html" title="Kids Wear for Girls">Kids Wear for Girls</a></li>
-                <li class="shwCselstItem"><a href="/kids-wear-boys/sale.html" title="Kids Wear for Boys">Kids Wear for Boys</a></li>
-                <li class="shwCselstItem"><a href="/necklace/sale.html" title="Jewelry">Jewelry</a></li>
-              </ul>
-              <div class="stdbtn">
-              </div>
-              <div class="desc">
-                <h2>
-        Make your deals the best of best
-      </h2>
-              </div>
-            </div>
-          </li>
-          <li class="shwCselstItem"><a>By Films</a><div class="inMenu" style="display: none;">
-              <ul>
-                <li class="shwCselstItem"><a href="/films/aiyyaa/sb.html" title="Aiyyaa">Aiyyaa</a></li>
-                <li class="shwCselstItem"><a href="/films/son-of-sardar/sb.html" title="Son Of Sardar">Son Of Sardar</a></li>
-              </ul>
-              <div class="stdbtn">
-              </div>
-              <div class="desc">
-                <h2>
-        It's a chice for Fan follwers! Shop now!
-      </h2>
-              </div>
+              <div class="float-left licol dvbrand"></div>
+              <div class="stdbtn"><a href="/gv-product-detail.aspx" title="E-Gift Voucher" class="btnlatest"><span>E-Gift Voucher</span></a></div>
+              <div class="float-left licol dvocassion"></div>
             </div>
           </li>
         </ul>
@@ -567,25 +1247,29 @@
     </li>
   </ul>
 </div></div>
-    </nav>
-    </header>
-    <section>
-    
+            </nav>
+        </header>
+        <section>
+            
     <div class="topInfo">
         <div class="breadCrum">
             <ul>
                 <li class="home"><a href="/default.aspx" title="Home">Home</a></li>
-                <li class="sel"><a>Privacy Policy</a> </li>
+                <li class="sel"><a>Privacy policy</a> </li>
             </ul>
             <div class="prodFind">
                 <ul>
                     <li><span>Find Cbazaar on</span></li>
-                    <li class="last"><a href="https://www.facebook.com/cbazaar" target="_blank" rel="nofollow" title="Share on Facebook" class="fb">Facebook</a></li>
-                    <li class="last"><a href="http://twitter.com/cbazaarfashion/" target="_blank" rel="nofollow" title="Share on Twitter" class="tw">Twitter</a></li>
-                    <li class="last"><a href="http://pinterest.com/cbazaar/" target="_blank" class="pinit" rel="nofollow" title="Cbazaar on Pinterest">Pinterest</a></li>
-                    <li class="last"><a href="http://www.youtube.com/cbazaarsarees" target="_blank" class="youtube" rel="nofollow" title="Cbazaar on Youtube">Youtube</a></li>
-                    <li class="last"><a href="http://blog.cbazaar.com/" target="_blank" class="blog" rel="nofollow" title="Cbazaar Blog">Blog</a></li>
-                </ul>
+                    <li class="last"><a href="https://www.facebook.com/cbazaar" target="_blank" title="Share on Facebook" class="fb">Facebook</a></li>
+                    <li class="last"><a href="http://twitter.com/cbazaarfashion/" target="_blank" title="Share on Twitter" class="tw">Twitter</a></li>
+                    <li class="last"><a href="http://pinterest.com/cbazaar/" target="_blank" class="pinit" title="Cbazaar on Pinterest">Pinterest</a></li>
+                    <li class="last"><a href="http://www.youtube.com/cbazaarsarees" target="_blank" class="youtube" title="Cbazaar on Youtube">Youtube</a></li>
+                    <li class="last"><a href="http://blog.cbazaar.com/" target="_blank" class="blog" title="Cbazaar Blog">Blog</a></li>
+                    <li class="last"><a href="https://plus.google.com/u/0/109953755887406949617/about" target="_blank" class="gplus" title="Google+">Google+</a></li>
+                    <li class="last"><a href="http://www.windowsphone.com/en-in/store/app/cbazaar/ed6d0d95-0cb3-4847-93b8-46d591df71ae" target="_blank" class="wp" rel="nofollow" title="Cbazaar on Windows Phone">Cbazaar
+                        on Windows Phone</a></li>
+                    <li class="last"><a href="http://apps.microsoft.com/windows/en-us/app/cbazaar/c5ad3b22-dd09-4403-b3c2-57f3088d576d" target="_blank" class="win8" rel="nofollow" title="Cbazaar on Windows 8">Cbazaar
+                        on Windows 8</a></li></ul>
             </div>
         </div>
     </div>
@@ -593,7 +1277,7 @@
         <div class="hImgShowcase">
             <div class="genericContent">
                 <h2>
-                    Privacy Policy</h2>
+                    Privacy policy</h2>
                 <div class="checkOutCont">
                     <div class="leftDet">
                         <p>
@@ -658,264 +1342,451 @@
         </div>
     </div>
 
-    </section>
-    <footer>    	
-        <div class="deepGreyCont">
-            <div class="newslettersSecWrapper">
-            <div class="newslettersSec">
-         
-                
-                   <img src="/Resources/PL_Images/strip-cbazaar-reasons-in.png" width="940" height="32" border="0">
-
-
-                
-
-    				<h2>Receive newsletters</h2>
-                <ul>
-	                <li class="emailFld">
-		                <span><input type="text" id="eMail" name="eMail"></span>
-                        <div id="dvSucc" class="succmsg dnone">Successfully subscribed for newsletter</div>
-	                </li>
-	                <li class="sbmtBtn">
-		                <a><span id="btnNewsLetr">Submit</span></a>
-	                </li>
-	                <li class="desc">
-		                <p>Receive exclusive email offers and  updates about our new products  directly in your inbox.</p>
-	                </li>
-                </ul>
-    		</div>
-    		<div class="usefulLnkSecWrapper">
-    			<div class="usefulLnkSec">
-    				<h2>Useful links</h2>
-                <ul>
-	                <li>
-		                <h3>Support</h3>
-		                <ul>
-			                <li><a href="/contact-us.aspx" rel="nofollow" title="Contact Us">Contact Us</a></li>
-			                <li><a href="/post-query.aspx" rel="nofollow" title="Feedback">Feedback</a></li>
-			                <li><a href="/recommend-us.aspx" rel="nofollow" title="Recommend Us">Recommend Us</a></li>
-			                <li><a rel="nofollow" id="hrefTrackOrder" oncontextmenu="return false;" title="Track Order">Track Order</a></li>
-			                <li><a href="/faq.aspx?mode=FAQ" rel="nofollow" title="FAQ">FAQ</a></li>
-			                <li><a href="/site-map.aspx" rel="nofollow" title="Sitemap">Sitemap</a></li>
-		                </ul>
-	                </li>
-	                <li>
-		                <h3>Payments</h3>
-		                <ul>
-			                <li><a href="/payment-options.aspx" rel="nofollow" title="Payment Options">Payment Options</a></li>
-			                <li><a href="/wire-transfer-details.aspx" rel="nofollow" title="Wire Transfer Details">Wire Transfer Details</a></li>
-			                <li><a href="/payment-secuirty.aspx" rel="nofollow" title="Payment Security">Payment Security</a></li>
-		                </ul>
-	                </li>
-	                <li>
-		                <h3>Policies</h3>
-		                <ul>
-			                <li><a href="/shipping-policy.aspx" rel="nofollow" title="Shipping Policy">Shipping Policy</a></li>
-			                <li><a href="/return-policy.aspx" rel="nofollow" title="Return Policy">Return Policy</a></li>
-			                <li><a href="/privacy-policy.aspx" rel="nofollow" title="Privacy Policy">Privacy Policy</a></li>
-			                <li><a href="/terms-and-conditions.aspx" rel="nofollow" title="Terms &amp; Conditions">Terms &amp; Conditions</a></li>
-			                <li><a href="/copyrights.aspx" rel="nofollow" title="Copyrights">Copyrights</a></li>
-			                <li><a href="/pricing-policy.aspx" rel="nofollow" title="Pricing Policy">Pricing Policy</a></li>
-		                </ul>
-	                </li>
-	                <li>
-		                <h3>Bulk trade</h3>
-		                <ul>
-			                <li><a href="http://wholesale.cbazaar.com/Registration.aspx?op=Add" title="Registration" target="_blank">Registration</a></li>
-			                <li><a href="/bulk-trade-benefits.aspx" rel="nofollow" title="Bulk Trade Benefits &amp; Policies">Bulk Trade Benefits &amp; Policies</a></li>
-		                </ul>
-	                </li>
-	                <li>
-		                <h3>Cbazaar</h3>
-		                <ul>
-			                <li><a href="/about-us.aspx" rel="nofollow" title="About Us">About Us</a></li>
-			                <li><a href="/request-product.aspx" rel="nofollow" title="Request a Product">Request a Product</a></li>
-			                <li><a href="/testimony.aspx" rel="nofollow" title="Testimonials">Testimonials</a></li>
-			                <li><a href="/resources-1.html" title="Resources">Resources</a></li>
-		                </ul>
-	                </li>
-	                <li>
-		                <h3><a href="/knowledge-base.html" title="Knowledge base">Knowledge base</a></h3>
-		                <ul>
-			                <li><a href="/saree/knowledge-base.html" title="Saree">Saree</a></li>			                
-			                <li><a href="/salwar-kameez/knowledge-base.html" title="Salwar Kameez">Salwar Kameez</a></li>
-                            <li><a href="/readymade-kurti/readymade-kurtis/kb.html" title="Readymde Kurti">Readymade Kurti</a></li>
-			                <li><a href="/lehenga/lehanga-choli/kb.html" title="Lehenga">Lehenga</a></li>
-			                <li><a href="/kurta-pyjama/kurta-pyjama/kb.html" title="Kurta Pyjama">Kurta Pyjama</a></li>
-		                </ul>
-	                </li>
-                </ul>
-	    		</div>
-    		</div>
-    		<div class="ftrSec">
-    			<p class="cpRight">
-                <a href="http://www.cbazaar.in">www.cbazaar.in</a>
-                 
-                           Fashionista Retail Private Ltd, India. #18 Race course, Guindy, Chennai - 600032.
-                            
-                 © 2012
-                </p>                
-                 <div class="ico-payment-in" title="Secure Payment Options"></div>             
+        </section>
+        <footer>
+            <div class="deepGreyCont">
+                <div class="newslettersSecWrapper">
+                    <div class="newslettersSec">
+                        <h2>Receive newsletters</h2>
+                        <ul>
+                            <li class="emailFld"><span>
+                                <input type="text" id="eMail" name="eMail"></span>
+                                <div id="dvSucc" class="succmsg dnone">
+                                </div>
+                            </li>
+                            <li class="sbmtBtn"><a id="linkNewsLetr"><span id="btnNewsLetr">Submit</span></a>
+                                <div id="NewsLettLoading" class="dvloading hidden">
+                                    <span></span>
+                                </div>
+                            </li>
+                            <li class="desc">
+                                <p>
+                                    Receive exclusive email offers and updates about our new products directly in your
+                                inbox.
+                                </p>
+                            </li>
+                        </ul>
+                    </div>
+                    <div class="foosocial">
+                        <h2>Find Cbazaar on</h2>
+                        <ul>
+                            <li class="hidden"><span>Find Cbazaar on</span></li>
+                            <li class="last"><a href="https://www.facebook.com/cbazaar" target="_blank" title="Share on Facebook" class="fb" onclick="_gaq.push(['_trackEvent', 'homepage', 'click', 'HP_FB']);">Facebook</a></li>
+                            <li class="last"><a href="http://twitter.com/cbazaarfashion/" target="_blank" title="Share on Twitter" class="tw" onclick="_gaq.push(['_trackEvent', 'homepage', 'click', 'HP_TW']);">Twitter</a></li>
+                            <li class="last"><a href="http://pinterest.com/cbazaar/" target="_blank" class="pinit" title="Cbazaar on Pinterest" onclick="_gaq.push(['_trackEvent', 'homepage', 'click', 'HP_PINT']);">Pinterest</a></li>
+                            <li class="last"><a href="http://www.youtube.com/cbazaarsarees" target="_blank" class="youtube" title="Cbazaar on Youtube" onclick="_gaq.push(['_trackEvent', 'homepage', 'click', 'HP_YTB']);">Youtube</a></li>
+                            <li class="last"><a href="http://blog.cbazaar.com/" target="_blank" class="blog" title="Cbazaar Blog" onclick="_gaq.push(['_trackEvent', 'homepage', 'click', 'HP_BLG']);">Blog</a></li>
+                            <li class="last"><a href="https://plus.google.com/u/0/109953755887406949617/about" target="_blank" class="gplus" title="Google+" onclick="_gaq.push(['_trackEvent', 'homepage', 'click', 'HP_G+']);">Google+</a></li>
+                            <li class="last"><a href="http://www.windowsphone.com/en-in/store/app/cbazaar/ed6d0d95-0cb3-4847-93b8-46d591df71ae" target="_blank" class="wp" rel="nofollow" title="Cbazaar on Windows Phone" onclick="_gaq.push(['_trackEvent', 'homepage', 'click', 'HP_WP']);">Cbazaar
+                            on Windows Phone</a></li>
+                            <li class="last"><a href="http://apps.microsoft.com/windows/en-us/app/cbazaar/c5ad3b22-dd09-4403-b3c2-57f3088d576d" target="_blank" class="win8" rel="nofollow" title="Cbazaar on Windows 8" onclick="_gaq.push(['_trackEvent', 'homepage', 'click', 'HP_W8']);">Cbazaar
+                            on Windows 8</a></li>
+                        </ul>
+                    </div>
                 </div>
-    	    </div>
+                <div class="usefulLnkSecWrapper">
+                    <div class="usefulLnkSec">
+                        
+                        <ul>
+                            <li>
+                                <h3>Support</h3>
+                                <ul>
+                                    <li><a href="/contact-us.aspx" rel="nofollow" title="Contact Us">Contact Us</a></li>
+                                    <li><a href="/post-query.aspx" rel="nofollow" title="Feedback">Feedback</a></li>
+                                    <li><a href="/recommend-us.aspx" rel="nofollow" title="Recommend Us">Recommend Us</a></li>
+                                    <li><a rel="nofollow" id="hrefTrackOrder" oncontextmenu="return false;" title="Track Order">Track Order</a></li>
+                                    <li><a href="/faq.aspx?mode=FAQ" title="FAQ">FAQ</a></li>
+                                    <li><a href="/site-map.aspx" title="Sitemap">Sitemap</a></li>
+                                </ul>
+                            </li>
+                            <li>
+                                <h3>Payments</h3>
+                                <ul>
+                                    <li><a href="/payment-options.aspx" rel="nofollow" title="Payment Options">Payment Options</a></li>
+                                    
+                                    <li><a href="/payment-secuirty.aspx" rel="nofollow" title="Payment Security">Payment
+                                    Security</a></li>
+                                </ul>
+                            </li>
+                            <li>
+                                <h3>Policies</h3>
+                                <ul>
+                                    <li><a href="/shipping-policy.aspx" rel="nofollow" title="Shipping Policy">Shipping
+                                    Policy</a></li>
+                                    <li><a href="/return-policy.aspx" rel="nofollow" title="Return Policy">Return Policy</a></li>
+                                    <li><a href="/privacy-policy.aspx" rel="nofollow" title="Privacy Policy">Privacy Policy</a></li>
+                                    <li><a href="/terms-and-conditions.aspx" rel="nofollow" title="Terms &amp; Conditions">Terms &amp; Conditions</a></li>
+                                    <li><a href="/copyrights.aspx" rel="nofollow" title="Copyrights">Copyrights</a></li>
+                                    <li><a href="/pricing-policy.aspx" rel="nofollow" title="Pricing Policy">Pricing Policy</a></li>
+                                </ul>
+                            </li>
+                            <li>
+                                <h3>Bulk trade</h3>
+                                <ul>
+                                    <li><a href="http://wholesale.cbazaar.com/Registration.aspx?op=Add" title="Registration" target="_blank" rel="nofollow">Registration</a></li>
+                                    <li><a href="/bulk-trade-benefits.aspx" rel="nofollow" title="Bulk Trade Benefits &amp; Policies">Bulk Trade Benefits &amp; Policies</a></li>
+                                </ul>
+                            </li>
+                            <li>
+                                
+                                <h3>
+                                    <a id="cbzabout">Cbazaar</a>
+                                </h3>
+                                <div class="aboutPopUp hidden" id="cbzabtcontent">
+                                    <div class="prdtypePopUp2">
+                                        <div class="prdtypecon2">
+                                            <h2>India's Largest Ethnic Online Shop!</h2>
+                                            <p>
+                                                Gone are the days when people use to go to the physical store and purchase their
+                                            clothing but now the concept of shopping has changed completely. Every single shopping
+                                            and payment is done online without wasting time and energy. Since, shopping is instant
+                                            and time-saving everyone are interested in online purchasing. Thus, to satisfy people
+                                            and make the shopping platform easier Cbazaar, the pioneer online shopping portal
+                                            was launched in India in the year 2005. A one-stop shopping destination Worldwide
+                                            not only for every shopaholic but also for every common individual. We are actually
+                                            blended with the people to give them the easiest buying experience that can never
+                                            be experienced anywhere else.
+                                            </p>
+                                            <p>
+                                                Cbazaar has gradually earned the niche and became the largest Indian online store.
+                                            We concentrate more on Indian ethnic clothing because Indian clothing fashion has
+                                            their own charisma and grace. Especially, Indian ethnic wears are more attractive
+                                            and suitable for all festive and seasonal gatherings.
+                                            </p>
+                                            <h3>So what we exactly do to make your shopping experience more enthusiastic?</h3>
+                                            <p>
+                                                Every day we attempt to exceed customer expectations at every stage of the shopping
+                                            process through our worldwide fast deliverance, lavish packaging, and incomparable
+                                            customer service.
+                                            </p>
+                                            <p>
+                                                We mainly focus on the wide range of cost-effective access to the ethnic apparel
+                                            that may reach every common person. Our selling zone is hassle free and user friendly.
+                                            We have made all effort to provide you a shopping that is quick and easy.
+                                            </p>
+                                            <h3>Single Click Shopping:
+                                            </h3>
+                                            <p>
+                                                Just a single click your purchased is made. This is the most outstanding choice
+                                            to enjoy your shopping without any delay.
+                                            </p>
+                                            <h3>Neat and Sleek Look:
+                                            </h3>
+                                            <p>
+                                                A complete neat and sleek looking webpage with a clear layout.
+                                            </p>
+                                            <h3>Quick Look:
+                                            </h3>
+                                            <p>
+                                                Make your wish and select your choice of outfit just at a quick look.
+                                            </p>
+                                            <h3>Product Details:
+                                            </h3>
+                                            <p>
+                                                We want every customer to have a through the shopping experience without any complaints
+                                            thus, we provide all the details of the product and instruct you to make your choice.
+                                            </p>
+                                            <h3>Readymade- Made Ready to Wear:
+                                            </h3>
+                                            <p>
+                                                All mind-blowing variety of collections with multiple options for women, men, and
+                                            kids, the offer includes accessories, handbags, clutches, and Dupattas'. Cbazaar
+                                            highlights the royal quality of both Ready to wear and custom-made outfits in a
+                                            vast range. Right from Saris to kurta pyjamas, almost all Indian clothing is available
+                                            in our store. You can just make your choice of selection from the vast variety of
+                                            collections.
+                                            </p>
+                                            <h3>Custom Made and New Brands of Collection:
+                                            </h3>
+                                            <p>
+                                                This is something inimitable as no other online shop may offer you to get your clothes
+                                            stitched with your size and reach you as a complete stitched outfit that is ready
+                                            to wear. Be it a Saree blouse, Lehenga choli, Salwar Kameez, or a Sherwani, kurta
+                                            pyjama you will get your outfit stitched perfectly by our tailors exclusively with
+                                            all your required specifications in the stitching and finally send to you. If you
+                                            feel you need to check the stitching quality, even then you have a choice. Just
+                                            send your perfect size and you may get a sample-stitched cloth to check the fitting
+                                            size. This option is especially done only to make the customers do happy shopping.
+                                            Therefore, without raising your eyebrows you can just order blindly for your clothing
+                                            and receive it at your doorsteps with all customized stitching done. As we are very
+                                            well, known for the best quality of clothing and flawless varieties Cbazaar has
+                                            also introduced new brands to all our customers to cherish with more and more authentic
+                                            variety of collections.
+                                            </p>
+                                            <p>
+                                                As a pioneer, we are always interested in providing our customers a new variety
+                                            of clothing style and thus try to come up with some innovative ideas. The result
+                                            is we recently ended up in providing the following services. In order to serve you
+                                            better with the best collection, we have launched the private labels: Rair, Bollywood
+                                            Vogue and Modini.
+                                            </p>
+                                            <h3>RaiR:
+                                            </h3>
+                                            <p>
+                                                A collection of timeless fashion heritage of India that exquisite the attires that
+                                            evolved during the sovereignty of emperors and kings. RaiR, reinvents this splendorous
+                                            beauty of clothing back to this age and to treasure the customers smile while wearing
+                                            the outfit.
+                                            </p>
+                                            <h3>Bollywood Vogue:
+                                            </h3>
+                                            <p>
+                                                Brings you a range of sarees, salwar kameezes, lehengas, kurtis, and Indo-western
+                                            attire in dreamy fabrics sprinkled with shimmer and embroidery, draping you in the
+                                            most flattering style. As every fan falls in love with the the costumes of their
+                                            favorite Bollywood stars, Cbazaar wanted to quench their wish and make them delighted
+                                            by providing all the exclusive variety of costumes of bollywood in the market.
+                                            </p>
+                                            <h3>Modni:</h3>
+                                            <p>
+                                                To enlight, the essence of Indian fashion -- the ethnic attires. To emphasize the
+                                            importance and the elegance of Indian clothing, Cbazaar has introduced this Modni
+                                            range of products and moreover it is available in all moderate rates. This is especially
+                                            for every Indian to celebrate the fashion sense of Indian clothing.
+                                            </p>
+                                            <p>
+                                                Cbazaar, being a complete Indian ethnic store with all venerable collections and
+                                            exceptional quality of products and as a pioneer of online shopping still prefers
+                                            to take every single customer as a guest. Thus, avails customer care service 24/7
+                                            to benefited with all the details, make your shopping experience more interesting,
+                                            and tempt you to shop more!
+                                            </p>
+                                        </div>
+                                    </div>
+                                </div>
+                                
+                                <ul>
+                                    <li><a href="/about-us.aspx" rel="nofollow" title="About Us">About Us</a> </li>
+                                    <li><a href="/request-product.aspx" rel="nofollow" title="Request a Product">Request
+                                    a Product</a></li>
+                                    <li><a href="/testimony.aspx" title="Testimonials">Testimonials</a></li>
+                                    <li><a href="/resources-1.html" title="Resources">Resources</a></li>
+                                </ul>
+                            </li>
+                            <li>
+                                <h3>
+                                    <a href="/knowledge-base.html" title="Knowledge base">Knowledge base</a></h3>
+                                <ul>
+                                    <li><a href="/saree/knowledge-base.html" title="Saree">Saree</a></li>
+                                    <li><a href="/salwar-kameez/knowledge-base.html" title="Salwar Kameez">Salwar Kameez</a></li>
+                                    <li><a href="/readymade-kurti/readymade-kurtis/kb.html" title="Readymde Kurti">Readymade
+                                    Kurti</a></li>
+                                    <li><a href="/lehenga/lehanga-choli/kb.html" title="Lehenga">Lehenga</a></li>
+                                    <li><a href="/kurta-pyjama/kurta-pyjama/kb.html" title="Kurta Pyjama">Kurta Pyjama</a></li>
+                                </ul>
+                            </li>
+                        </ul>
+                    </div>
+                </div>
+                <div class="ico-payment">
+                    <h3>Secure payment options</h3>
+                    <div class="ico-payment-in" title="Secure Payment Options">
+                       </div>
+                    
+                </div>
+                <div class="ftrSec">
+                    <p class="cpRight">
+                        <a href="http://www.cbazaar.in">
+                            www.cbazaar.in</a><span class="fooyear">©
+                            2013</span>
+                    </p>
+                    <p class="cpRight" id="dvAddress">
+                    </p>
+                </div>
+                
+                
+                <script type="text/javascript">
+                    /* <![CDATA[ */
+                    var google_conversion_id = 1006763160;
+                    var google_conversion_label = "ST7xCMC9nAMQmPmH4AM";
+                    var google_custom_params = window.google_tag_params;
+                    var google_remarketing_only = true;
+                   
+                    /* ]]> */
+                </script>
+                <script type="text/javascript" src="//www.googleadservices.com/pagead/conversion.js">
+                </script>
+                <noscript>
+                    <div style="display: inline;">
+                        <img height="1" width="1" style="border-style: none;" alt="" src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/1006763160/?value=0&amp;label=ST7xCMC9nAMQmPmH4AM&amp;guid=ON&amp;script=0" />
+                    </div>
+                </noscript>
+                
+                
             </div>
-                       
-	</footer>
-    
-    <!-- Sokarti script starts here -->
-    <script type="text/javascript">
-        _sokClient = '215';
-    </script>
-    <script type="text/javascript">
-        var protocol = ("https:" == document.location.protocol) ? "https:" : "http:";
-        var sokratiJS = protocol + '//tracking.sokrati.com/javascripts/tracker.js';
-        document.write(unescape("%3Cscript src='" + sokratiJS + "' type='text/javascript'%3E%3C/script%3E"));
-    </script><script src="https://tracking.sokrati.com/javascripts/tracker.js" type="text/javascript"></script>
-    <script type="text/javascript">
-        var paramList = {};
-    </script>
-    <script type="text/javascript">
-        try { sokrati.beaconParams("default", "default", paramList); }
-        catch (err) { }
-    </script>
-    <!-- Sokarti script ends here -->
-    
-    <script language="javascript" type="text/javascript">
-        var gStrApiBasePath = '/nat/api/nat.svc';
-        var gStrCurrency = 'INR';
-        var gStrSessionID = 'ad50467a-4a8d-42cc-b95b-b97ff64f75bd';
-        var gEsId = '10';
-        var gUserId = '0';
-        var gDomain = 'www.cbazaar.in';
-        var gGCS = '016994241929537274521:za6lgdjxtx0';
-        var gInDomain = '|new.cbazaar.in|www.cbazaar.in|'
-        var gClientAccessPointId = 'WEB02';
-        var gAccessPointEnable = 'true';
-        var gUserName = '';
-        var gUserLoginId = '';
-    </script>
-    <!--Start of Zopim Live Chat Script-->
-    <script type="text/javascript">
-        window.$zopim || (function (d, s) {
-            var z = $zopim = function (c) { z._.push(c) }, $ = z.s =
-        d.createElement(s), e = d.getElementsByTagName(s)[0]; z.set = function (o) {
-            z.set.
-        _.push(o)
-        }; z._ = []; z.set._ = []; $.async = !0; $.setAttribute('charset', 'utf-8');
-            $.src = '//cdn.zopim.com/?hNYCW8ZTs1TPyGl1S0R6xwFfb3AELCtD'; z.t = +new Date; $.
-        type = 'text/javascript'; e.parentNode.insertBefore($, e)
-        })(document, 'script');
-    </script>
-    <!--End of Zopim Live Chat Script-->
+            
+        </footer>
+        
+        <script type="text/javascript">
+            _sokClient = '215'; //Change client id
+            var paramList = {};
+            (function (a) {
+                var doc = document,
+                                        script = doc.createElement("script"),
+                                        track = function () {
+                                            try {
+                                                sokrati.beaconParams("<PRODUCT CATEGORY>", "<ITEM ID>", a);
+                                            } catch (err) {
+                                                console.log("Error Caught err::" + err)
+                                            }
+                                        }, firstScriptTag = doc.getElementsByTagName("script")[0];
+                script.type = "text/javascript";
+                script.async = true;
+                if (script.onload === null) {
+                    script.onload = track
+                } else {
+                    if (script.readyState !== undefined) {
+                        script.onreadystatechange = function () {
+                            if (this.readyState === "loaded") {
+                                track()
+                            }
+                        }
+                    }
+                }
+                script.src = (("https:" == document.location.protocol) ? "https:" : "http:") + "//tracking.sokrati.com/javascripts/tracker.js";
+                firstScriptTag.parentNode.insertBefore(script, firstScriptTag)
+            })(paramList);
+        </script>
+        
+        
+        <script type="text/javascript" async="" src="//ssl.widgets.webengage.com/js/widget/webengage-min-v-3.0.js"></script><script id="_webengage_script_tag" type="text/javascript">
+           window.webengageWidgetInit = window.webengageWidgetInit || function () {
+               webengage.init({
+                   licenseCode: '~716807a8'
+               }).onReady(function () {
+                   webengage.render();
+               });
+           };
 
-  <!-- BEGIN LivePerson Monitor. -->
-
-<!-- END LivePerson Monitor. -->
-
+           (function (d) {
+               var _we = d.createElement('script');
+               _we.type = 'text/javascript';
+               _we.async = true;
+               _we.src = (d.location.protocol == 'https:' ? "//ssl.widgets.webengage.com" : "//cdn.widgets.webengage.com") +"/js/widget/webengage-min-v-3.0.js";
+               var _sNode = d.getElementById('_webengage_script_tag');
+               _sNode.parentNode.insertBefore(_we, _sNode);
+           })(document);
+        </script>
+        
+        
+        <script language="javascript" type="text/javascript">
+            var gStrApiBasePath = '/nat/api/nat.svc';
+            var gStrCurrency = 'INR';
+            var gStrSessionID = '7dfc8b3a-1061-4336-ae8d-ab1429c0a9ea';
+            var gEsId = '10';
+            var gUserId = '0';
+            var gDomain = 'www.cbazaar.in';
+            var gGCS = '016994241929537274521:za6lgdjxtx0';
+            var gInDomain = '|new.cbazaar.in|www.cbazaar.in|'
+            var gClientAccessPointId = 'WEB02';
+            var gAccessPointEnable = 'true';
+            var gUserName = '';
+            var gUserLoginId = '';
+            var unbxdUrl = 'http://u773651887-cbazaar-in-3d991d47b9c73f506722ad45b79d194b.search.unbxdapi.com/5fb8e2c7d00889c87d819f2efeb5f903/';
+            var gStrShipCountryCode = '';
+            var gImageUrl = 'http://images.cbazaar.com/images/';
+            var gLeggings = 'KRFREELEGGING';
+            var gHtmlBasePath='Resources/HTML/';
+        </script>
+        
+        
+        <div class="livechat2" id="LP_DIV_1354250652617">
+        </div>
+        <script type="text/javascript">
+            if (window.location.href.indexOf('default.aspx') < 0 && window.location.href != window.location.protocol + "//" + window.location.hostname + "/") {
+                window.lpTag = { site: '82357780', _v: '1.1', protocol: location.protocol, events: { bind: function (app, ev, fn) { lpTag.defer(function () { lpTag.events.bind(app, ev, fn); }); }, trigger: function (app, ev, json) { lpTag.defer(function () { lpTag.events.trigger(app, ev, json); }); } }, defer: function (fn) { this._defL = this._defL || []; this._defL.push(fn); }, load: function (src, chr, id) { var t = this; setTimeout(function () { t._load(src, chr, id); }, 0); }, _load: function (src, chr, id) { var url = src; if (!src) { url = this.protocol + '//' + ((this.ovr && this.ovr.domain) ? this.ovr.domain : 'lptag.liveperson.net') + '/tag/tag.js?site=' + this.site; } var s = document.createElement('script'); s.setAttribute('charset', chr ? chr : 'UTF-8'); if (id) { s.setAttribute('id', id); } s.setAttribute('src', url); document.getElementsByTagName('head').item(0).appendChild(s); }, init: function () { this._timing = this._timing || {}; this._timing.start = (new Date()).getTime(); var that = this; if (window.attachEvent) { window.attachEvent('onload', function () { that._domReady('domReady'); }); } else { window.addEventListener('DOMContentLoaded', function () { that._domReady('contReady'); }, false); window.addEventListener('load', function () { that._domReady('domReady'); }, false); } if (typeof (window._lptStop) == 'undefined') { this.load(); } }, _domReady: function (n) { if (!this.isDom) { this.isDom = true; this.events.trigger('LPT', 'DOM_READY', { t: n }); } this._timing[n] = (new Date()).getTime(); } }; lpTag.init();
+            }
+        </script>
+        <input name="ctl00$hdnUNBXDAPIURL" type="hidden" id="hdnUNBXDAPIURL" value="http://u773651887-cbazaar-in-3d991d47b9c73f506722ad45b79d194b.search.unbxdapi.com/5fb8e2c7d00889c87d819f2efeb5f903/">
+        
     </form>
     
-    <script type="text/javascript" language="javascript" src="http://www.google.com/jsapi"></script>
-    <script type="text/javascript" language="javascript">
-        google.load('search', '1');
-        function onLoad() {
-            $("<form>").attr({ id: "frmGCS", method: "POST", action: "javascript:formGCSSubmit();", target: "_parent" }).appendTo("body");
-            var cse_id = '016994241929537274521:za6lgdjxtx0';
-            google.search.CustomSearchControl.attachAutoCompletion(cse_id, document.getElementById('expTextInput1'), 'frmGCS');
-        }
-        google.setOnLoadCallback(onLoad);         
-    </script>
-    <script type="text/javascript" language="javascript">
-        function formGCSSubmit(order, id) {
-            window.location.href = "http://" + window.location.host + "/smart-search.aspx?q=" + $("#expTextInput1").val().replace(/ /g, '-');
-        };
-    </script>
+
+
+    
+   
     
 
 
-    <!-- Feedback start here -->
-    <a class="feedbackform cboxElement" href="#surveyMonkeyInfo"></a>
-    <div class="dnone">
-        <div id="surveyMonkeyInfo">
-            <div>
-                <script src="https://www.surveymonkey.com/jsEmbed.aspx?sm=Okm6a9trUZFjD0dZShI51g_3d_3d"> </script>
-            </div>
-            Create your <a href="https://www.surveymonkey.com/">free online surveys</a> with
-            SurveyMonkey, the world's leading questionnaire tool.
-            <img src="/Resources/PL_Images/trans.gif" alt="Cbazaar" height="1" width="1">
-        </div>
-    </div>
-    <!-- Feedback end here-->
     
-    <!-- Google Code for All Users Remarketing List start -->
-    <script type="text/javascript">
-        /* <![CDATA[ */
-        var google_conversion_id = 1006763160;
-        var google_conversion_label = 'ST7xCMC9nAMQmPmH4AM';
-        var google_custom_params = window.google_tag_params;
-        var google_remarketing_only = true;
-        /* ]]> */
-    </script>
-  
-
-    <script type="text/javascript" src="//www.googleadservices.com/pagead/conversion.js">
-    </script>
-    <noscript>
-        <div style="display: inline;">
-            <img height="1" width="1" style="border-style: none;" alt="" src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/1006763160/?value=0&amp;label=ST7xCMC9nAMQmPmH4AM&amp;guid=ON&amp;script=0" />
-        </div>
-    </noscript>
-    <!-- Google Code for All Users Remarketing List end -->
     
-    <!--Start Of Barilliance script-->
     <script type="text/javascript">
         var cbarProtocol = (("https:" == document.location.protocol) ? "https://" : "http://");
         document.write(unescape("%3Cscript src='" + cbarProtocol + "s3.amazonaws.com/cdn.barilliance.com/cbazaar.in/cbar.js.php'  type='text/javascript'%3E%3C/script%3E"));    
     </script><script src="https://s3.amazonaws.com/cdn.barilliance.com/cbazaar.in/cbar.js.php" type="text/javascript"></script>
-    <!--End Of Barilliance script-->
+    
     
     <script type="text/javascript">
-        adroll_adv_id = "X4FE6GIYNFGFHDJ4Q2672T";
-        adroll_pix_id = "LM7IZE7WR5GZTEMPPDG2MJ";
-        (function () {
-            var oldonload = window.onload;
-            window.onload = function () {
-                __adroll_loaded = true;
-                var scr = document.createElement("script");
-                var host = (("https:" == document.location.protocol) ? "https://s.adroll.com" : "http://a.adroll.com");
-                scr.setAttribute('async', 'true');
-                scr.type = "text/javascript";
-                scr.src = host + "/j/roundtrip.js";
-                ((document.getElementsByTagName('head') || [null])[0] ||
-    document.getElementsByTagName('script')[0].parentNode).appendChild(scr);
-                if (oldonload) { oldonload() }
-            };
-        } ());
+        if (document.location.protocol == 'http:') {
+            var Tynt = Tynt || []; Tynt.push('b5nm6yw_er4Rw2acwqm_6l');
+            (function () { var s = document.createElement('script'); s.async = "async"; s.type = "text/javascript"; s.src = 'http://tcr.tynt.com/ti.js'; var h = document.getElementsByTagName('script')[0]; h.parentNode.insertBefore(s, h); })();
+        }
     </script>
     
-    <script id="tplPopUpCart" type="text/x-jquery-tmpl">  
-
-    <li>
-        <img src='http://images.cbazaar.com/images/${PrdImg}' width="60" height="60" />
-        <div class="txtour">
-            <h2>
-                ${PrdDesc} ${PrdGenDtl}
-            </h2>
-            <h3>
-                ${PrdCode}
-            </h3>         
-            <p>
-                <a onclick="Helper.RemoveCart(${PrdCartId});">Delete</a>
-            </p>   
-        </div>    
-        <div  class="txtour3">
-            <div class="qty">${PrdQty}</div>          
-        </div>    
-        <div class="txtour2">
-            <div class="price">
-               <i class="cursymb"></i> ${PrdAmount}</div>
-        </div>
-    </li>
-           
+    <script id="tplPopUpCart" type="text/x-jquery-tmpl">
+        <li>
+            <img src="${gImageUrl}${PrdImg}" width="60" height="60" />
+            <div class="txtour">
+                <h2>${PrdDesc} ${PrdGenDtl}
+                </h2>
+                <div class='perouter'>
+                    <span class='pdrcodeh3'>${PrdCode}</span>
+                    {{if PrdDiscPercentage!='0'}}  
+                        <div class='peroff'><span>${PrdDiscPercentage}% <i>off</i></span></div>
+                    {{/if}}
+                    <span class="delete">
+                        <a onclick="Helper.RemoveCart(${PrdCartId});" title='Remove Item'>Delete</a>
+                    </span>
+                </div>
+            </div>
+            <div class="txtour3">
+                <span style="display: none">{{if (PrdAvailQty == 1 && PrdQty == 1) || (PrdCode == 'CBZGV01' || PrdTypeSCode == 'WSP')}}
+                ${( $data.Edit = 'display:none')}               
+                {{else}}
+                ${( $data.Edit = 'display:block')}               
+                {{/if}}
+                </span>
+                {{if (PrdAvailQty== 1 && PrdQty == 1) || (PrdCode == 'CBZGV01' || PrdTypeSCode == 'WSP')}}
+               <div class="qty">${PrdQty}</div>
+                {{else}}
+                <div class="qty">
+                    ${PrdQty} <span title='Edit Quantity' class="EditQty" onclick="Helper.EditQtyInCart(${PrdCartId},this,${PrdAvailQty},${PrdQty});">Edit</span><select rel="${PrdQty}" style="${Edit}" alt="${PrdAvailQty}" class="ddlAvailQty" id="${PrdCartId}"></select><img id="imgCartLoader" style="display: none;" src="/Resources/PL_Images/zoomloader.gif" />
+                </div>
+                {{/if}}                            
+            </div>
+            <div class="txtour2">
+                <div class="price">
+                    <i class="cursymb"></i>${PrdAmount}
+                </div>
+            </div>
+        </li>
+    </script>
+    <script id="tblOutOfStockCart" type="text/x-jquery-tmpl">
+        <li>
+            <img src='${gImageUrl}${PrdImg}' width="60" height="60" />
+            <div class="txtour">
+                <h2>${PrdDesc} ${PrdGenDtl}
+                </h2>
+                <div class='perouter'>
+                    <span>${PrdCode}
+                    </span>
+                    <span class="delete">
+                        <a onclick="Helper.RemoveCart(${PrdCartId});" title='Remove Item'>Delete</a>
+                    </span>
+                </div>
+            </div>
+            <div class="txtour3">
+                <div class="qty">${PrdQty}</div>
+            </div>
+            <div class="txtour2">
+                <div class="price">
+                    <i class="cursymb"></i>${PrdAmount}
+                </div>
+            </div>
+            <div>
+                <span class="outofstock" style="color: red; font-weight: bold;">Out of Stock</span>
+            </div>
+        </li>
     </script>
 
 
