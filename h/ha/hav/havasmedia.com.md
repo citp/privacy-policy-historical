@@ -1,84 +1,87 @@
-> *The following text is extracted and transformed from the havasmedia.com privacy policy that was archived on 2012-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121125015456id_/http%3A//www.havasmedia.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the havasmedia.com privacy policy that was archived on 2013-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130629201548id_/http%3A//www.havasmedia.com/utilites/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Havas Media
 
-This website is provided by the Havas Media group of companies (“Havas Media”). We take very seriously the privacy of visitors to this website. The purpose of this privacy policy is to inform you about the information that we may obtain about you via this website, located at www.havasmedia.com. We ask you to read this privacy policy carefully. By using this website, you agree to this privacy policy and by introducing personal data on this website you agree to the processing of these data which you will be informed about beforehand.
+##  29 June 2013
 
-We may change our privacy policy from time to time. We therefore ask you to check it occasionally to ensure that you are aware of the most recent version that will apply each time you access this website.
+## PRIVACY AND PERSONAL DATA  
 
-## COLLECTION AND USE OF INFORMATION BY HAVAS MEDIA
 
-### Personal Data:
+We inform you that the website www.havasmedia.com (the “Website”) is operated by Havas Media, S.L. (hereinafter, “Havas Media”, “we”, “us” or “our”), with Tax I.D. Code (“C.I.F.”) B.-64627672, entered at the Commercial Registry of Barcelona on volume 39.828, folio 91, section 8ª, page B-352.874, and registered office at Barcelona, C/ Can Rabia 3-5. Havas Media is adhered to Confianza On-line. You may obtain further information on Havas Media in the section “Who we are” and “What we do” of the Website or by sending an e-mail to the following e-mail address [privacy.hvm@havasmedia.com](mailto:privacy.hvm@havasmedia.com) “You” and “Your” means you as the user of our Website.
 
-Personal data is any information that would permit Havas Media to contact you directly and includes, for example, your name, address, telephone/fax number or, e-mail address.  
-Havas Media will not collect any personal data about you via this website unless you give it to us.
+This privacy policy ("Privacy Policy") is intended to inform You how we gather, define, and use Your Information (as defined below). This Privacy Policy, and our separate Terms of Use and our Cookies Policy, make up our Website “Terms and Conditions”.
 
-Therefore, if you do not wish Havas Media to obtain personal data about you via this website, please do not submit it to us.
+Access to and use of the Website by You implies Your full acceptance of the Website Terms and Conditions. In this regard, if You access and use the Website You agree to comply with the provisions indicated in the mentioned legal documents. The provision of the Website service is limited to the period during which You are connected to the Website or to any of the services provided via same. Therefore, You must read this Privacy Policy carefully each time You intend to use the Website, since it may undergo changes.
 
-For example, you may choose to send us personal data about yourself in an email or by completing an online form on this website in order to ask a question, sign up for a newsletter, or to inquire about employment within Havas. We use this information only to contact you to respond to your inquiry, or to fulfill your request for our newsletter as the case may be. Once collected, we will store your personal data for a reasonable time for record keeping purposes.
+All Your personal Information shall be held and used in accordance with the Personal Data Protection Law (the "Legislation"). If You want to know what information we collect and hold about You, please write to us at [privacy.hvm@havasmedia.com](mailto:privacy.hvm@havasmedia.com).
 
-### Non-Personally Identifiable Data:
+Havas Media is the data controller of the personal data that we will collect from You.  
 
-Non-personally identifiable data is information that is not sufficient to enable Havas Media to contact you directly, and includes the type of Internet browser you use, the name of your Internet Service Provider, the date and time you access the Havas Media website, and the Internet address of the website from which you linked directly to the Havas Media website. Non-personally identifiable data is automatically collected when you access the Havas Media website.
 
-We use this information to help us administer the website, to measure the number of aggregate visitors to the different sections of the website, and to help make the website more useful to visitors.
+## WHAT INFORMATION DO WE COLLECT  
 
-### Cookies:
 
-We may use cookies to help us administer this website. Cookies are small files that are sent to your web browser and stored on your computer’s hard drive. You may set your web browser to notify you of cookie placement requests or to decline cookies completely. You can remove cookies by following directions provided in your Internet browser’s “help” file. For more information about cookies please visit <http://www.allaboutcookies.org/cookies/>.
+When You visit our Website You may provide us with personal data in a number of ways, among other:  
 
-## THIRD PARTY COLLECTION, USE OR TRANSFER
 
-### Website Analytics:
+  1. by completing a data collection form on our Website or
+  2. by corresponding with us by email, in which case we may retain the content of Your email messages together with Your email address and our responses.  
 
-The Havas Media website uses Google Analytics, a web analytics service provided by Google, Inc. (“Google”). Google Analytics uses “cookies”, which are text files placed on your computer, to help the website analyze how you and other users use the website. The information generated by the cookie about your use of the Havas Media website (which may include your IP address, the internet browser and language you use, preferences, the date and hour of your access to the web page and the websites you access after visiting Havas Media website) will be transmitted to and stored by Google on servers in the United States. Google will use this information for the purpose of evaluating your use of the Havas Media website, compiling reports on website activity for website operators and providing other services relating to website activity and Internet usage. Google may also transfer this information to third parties where required to do so by law, or where such third parties process the information on Google’s behalf. Google will not associate your IP address with any other data held by Google. You may refuse the use of cookies by selecting the appropriate settings on your browser, however please note that if you do this you may not be able to use the full functionality of this website. By using this website, you consent to the processing of data about you by Google in the manner and for the purposes set out above.
 
-### Third-Party Contractors:
 
-Havas Media may engage third-party contractors to process information collected via this website. We contractually require all third-party contractors to adhere to this privacy policy.
 
-### Business Transfers and Legal Process:
+Furthermore, by accessing the Website we may also collect information about Your computer, including where available Your IP address, operating system and browser type of Your computer, for system administration.
 
-In the event that Havas Media or substantially all of its assets are acquired, information collected on this website will of course be one of the transferred assets.
+## HOW DO WE USE THE INFORMATION THAT YOU PROVIDE TO US?  
 
-We may also transfer information to third parties where required to do so by law.
 
-## ACCESS, CORRECTIONS, DELETION AND OBJECTION TO THE USE OF PERSONAL DATA
+In compliance with the legislation, we inform You that the personal data collected through Your access to the Website or through any data collection forms of the Website will be included in a personal data filing system of which Havas Media is the data controller.
 
-Under European data protection law you have a right to request access to personal data which are held about you. You also have the right to require any inaccuracies in your information to be corrected, and you can object to the use of personal data or require the deletion of it.
+We use Your information with the purposes to (i) manage Your navigation through the Website and (ii) for the purposes indicated in each data collection forms. Please note that when You click the button “submit” included in each data collection form, You declare that the information and personal data provided are accurate and updated.  
 
-To do so, e-mail us at [privacy@HavasMedia.com](mailto:privacy@havasmedia.com) and we deal with your request.
 
-## COLLECTION OF INFORMATION FROM CHILDREN
+With Your consent, we may disclose Your personal information to the entities of our group indicated in section “Who we are” of the Website with the purposes indicated in each registration form included in the Website.  
 
-Havas Media will not collect any personal data from children under the age of fourteen on this website, unless we are provided with the previous authorization of a parent or legal guardian.
 
-## STORAGE AND SECURITY OF YOUR INFORMATION
+In limited circumstances we may pass Your Information to other third party organisations if we are under a duty to disclose or share Your Information to comply with any legal obligation or in order to enforce or apply our Terms and Conditions and other agreements or protect the rights, property, or safety of our clients, or others. This includes exchanging information with other companies and organisations for fraud protection and credit risk reduction.  
 
-All information collected via Havas Media website is stored on servers located in Spain. Therefore, we have implemented the security measures that are required by the Spanish data protection legislation.
 
-No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore, while we strive to use commercially acceptable means to protect your information, we cannot guarantee its absolute security.
+## COMMERCIAL COMMUNICATIONS  
 
-## CONTACT HAVAS MEDIA
 
-If you have any questions about Havas Media’s privacy policy, please email us at [privacy@HavasMedia.com](mailto:privacy@havasmedia.com). Alternatively, you may contact us by mail at:
+We inform You that we can collect Your consent with the purposes to send You commercial communications through each data collection form. Where You have expressly consented, by filling in the opt-in box that may appear in the data collection form when browsing our Website we may contact You by email, post, sms, or through any other equivalent electronic communication mean, with information about our products or services that we feel may be of interest to You. You can let us know at any time if You no longer wish to receive these communications by contacting [privacy.hvm@havasmedia.com](mailto:privacy.hvm@havasmedia.com).  
 
-Havas Media  
-Attn: Privacy Office  
-Dr. Fleming, 17  
-08017 Barcelona, Spain
 
-## ADDITIONAL LEGAL INFORMATION
+## COOKIES
 
-The information on this website is intended to be useful and informative for clients of and investors in Havas Media and its subsidiaries. Havas Media will use reasonable care to ensure that information is accurate at the time it is added on the website. Please note, however, that Havas Media cannot guarantee the information is accurate and it shall not be liable for any losses or damage that anyone may suffer as a result of relying on this information. The information may be changed by Havas Media at any time.
+Similar to other commercial websites, our Website uses a technology called "cookies" and web server logs to collect information about how our Website is used. For details about how we use cookies, please see our Cookies Policy.  
 
-Havas Media does not review or monitor any websites linked to this website and is not responsible for the content of any such linked websites. Your use of such linked websites is at your own risk. In addition, the existence of a link between this website and another website shall not constitute the endorsement by Havas Media (or its parents, subsidiaries or affiliates, or any client of any of the foregoing) of the owner or proprietor of such linked website or of any products or services of such owner or proprietor, nor shall it constitute an endorsement by the owner or proprietor of such linked website of Havas Media, its parents, subsidiaries or affiliates, any client of any of the foregoing, or the products or services of any of the foregoing.
 
-This website does not constitute an offer to sell or a solicitation of an offer to purchase any securities of Havas Media in the United States of America or in any other jurisdiction in which such offer or solicitation is not authorized or to any person to whom it is unlawful to make such offer or solicitation. Users of this website are requested to inform themselves about and to observe any such restrictions. The information set forth on this website must not be distributed in the United States of America, to U.S. persons as defined under the Securities Act of 1933, or to any publications with a general circulation in the United State. Failure to observe the above limitations may constitute a violation of the United States securities laws.
+## YOUR CONSENT  
 
-© HAVAS MEDIA 2008  
-  
-In accordance with laws governing literary and artistic property rights or other similar rights, the reproduction or redistribution of the elements that make up the Havas website, in whole or in part, is strictly prohibited.
 
-All of the brands cited herein are registered trademarks.  
+By using our Website You consent to our collection and use of certain data as described in this Privacy Policy and our Cookie Policy. If we change our privacy policies and procedures, we will post those changes on our Website to keep You aware of what information we collect, how we use it and under what circumstances we may disclose it.  
 
+
+We also inform You that You may revoke the consent given for the processing of Your data, whenever this is legally appropriate, by sending a notice to Havas Media as provided below.
+
+## HOW CAN YOU ACCESS YOUR INFORMATION  
+
+
+We inform You that You may exercise at any time Your rights of access, rectification, cancellation and objection to the processing of Your personal data by sending a written notice, attaching a photocopy of a document evidencing Your identity, to the following address: Avenida General Perón 38 or [privacy.hvm@havasmedia.com](mailto:privacy.hvm@havasmedia.com). Such notice shall be sent for the attention of the L.O.P.D. Consultation Office (Oficina de Consulta L.O.P.D.).
+
+## WHERE WE STORE YOUR PERSONAL DATA  
+
+
+Personal data and information we collect from You may be transferred to and stored at a destination outside the European Economic Area ("EEA"). All the previous will be in accordance with Legislation. Furthermore, we will take all steps reasonably necessary to ensure that Your Information is treated securely and in accordance with this Privacy Policy and our Cookies Policy.  
+
+
+## SECURITY
+
+We have implemented and we maintain the highest standards of security required by the Legislation to protect Your personal information from accidental loss and from unauthorized access, use, or disclosure. However the transmission of information via Internet is not completely secure. So, whilst we will do our best to protect Your Information, we cannot ensure the security of Your data during transit to our Website. Any information You submit is sent at Your own risk. Once we have received Your Information we will use strict procedures and security features to prevent unauthorised access.  
+
+
+## THIRD PARTY SITES  
+
+
+Our Website browser and application may contain links to sites controlled by third parties. Please remember that when You use a link to go from our Website to another website, our Privacy Policy and [Cookies Policy](https://web.archive.org/utilites/cookie-policy " Cookie Policy ") is no longer in effect. This Privacy Policy does not reflect the privacy practices of those third party sites. Please bear in mind that we are not responsible for the privacy and data processing of other websites. Your browsing and interaction on any other website, including websites which are linked to ours, is subject to that website’s own rules and policies. We recommend that You read the privacy and data processing policies of other websites that You may visit using the link in our Website or in any other manner. For more information please see our [Terms of Use](https://web.archive.org/utilites/terms-of-use " Terms and Conditions ").
