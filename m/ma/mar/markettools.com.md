@@ -1,15 +1,13 @@
-> *The following text is extracted and transformed from the markettools.com privacy policy that was archived on 2012-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121108053730id_/http%3A//markettools.com/company/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the markettools.com privacy policy that was archived on 2013-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130629040649id_/http%3A//markettools.com/company/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | MarketTools, Inc.
+# Privacy Policy | MarketTools
 
-**[](http://www.truste.org/ivalidate.php?url=www.markettools.com&sealid=102)Website Privacy Statement**
+**Website Privacy Statement**
 
-In this Web Site Privacy Statement ("statement"), we, MarketTools, a MetrixLab Company, headquartered in San Francisco, California, USA provide information about how we collect, use and transfer personally identifiable data from you, a web site visitor to web sites that we operate (collectively the "site"). The TRUSTe portions of this policy are applicable to ztelligence.com and markettools.com.
+In this Web Site Privacy Statement ("statement"), we, MarketTools, a MetrixLab Company, headquartered in San Francisco, California, USA provide information about how we collect, use and transfer personally identifiable data from you, a web site visitor to web sites that we operate (collectively the "site").
 
 **Scope**  
 This statement covers data collected through the site. This statement does not cover any other data collection or processing, including, without limitation, data collection practices of other web pages to which MarketTools links or data processing practices of users of our service. When MarketTools refers to this statement in notices and consent requests related to surveys, special-purpose web pages or otherwise, this statement applies as modified in the particular notice or consent request (e.g., with respect to types of data collected or purposes of collection).
-
-MarketTools complies with the U.S. – E.U. Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use and retention of personal data from European Union member countries.   MarketTools has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access and enforcement.  To learn more about the Safe Harbor program, and to view MarketTools' certification, please visit  <http://www.export.gov/safeharbor/>.
 
 **Types of Data and Collection Methods**  
 Through the site, MarketTools receives data that you actively submit as well as data that MarketTools tracks:
@@ -69,10 +67,7 @@ The site is intended for adults in the United States. MarketTools does not inten
 Your use of our site is governed by our Terms of Use, which contain disclaimers, limitations of liability, and a choice of California law and jurisdiction.
 
 **Effective Date, Amendments**  
-This statement is effective as of 2012. MarketTools reserves the right to change, modify, supplement or replace all or part of this statement from time to time and in our sole discretion, but will alert you that changes have been made by indicating on the statement the date it was last updated. Before any material changes to this privacy policy MarketTools will post a prominent notice on our home page no less than 30 days before these changes go into effect. When you visit the site, you are accepting the current version of this statement as posted on the site at that time. MarketTools recommends that users revisit this statement on occasion to learn of any changes.
-
-**TRUSTe**  
-MarketTools is a participant in the TRUSTe Privacy and EU Safe Harbor programs. TRUSTe is an independent organization whose mission is to build user's trust and confidence in the Internet by promoting the use of fair information practices.
+This statement is effective as of 2013. MarketTools reserves the right to change, modify, supplement or replace all or part of this statement from time to time and in our sole discretion, but will alert you that changes have been made by indicating on the statement the date it was last updated. Before any material changes to this privacy policy MarketTools will post a prominent notice on our home page no less than 30 days before these changes go into effect. When you visit the site, you are accepting the current version of this statement as posted on the site at that time. MarketTools recommends that users revisit this statement on occasion to learn of any changes.
 
 **Contact Us**  
-Please feel free to contact us with any comments, questions, complaints or suggestions you might have regarding the information practices described in this statement. You may send us an e-mail at [info@markettools.com](mailto:info@markettools.com) or MarketTools, 150 Spear Street, Suite 600, San Francisco, CA 94105. If you do not receive acknowledgement of your inquiry or your inquiry has not been satisfactorily addressed, you can also contact TRUSTe at <http://watchdog.truste.com/pvr.php?page=complaint>. TRUSTe will then serve as a liaison with us to resolve your concerns. TRUSTe will act as a liaison for any complaints arising from the use of MarketTools products and services.
+Please feel free to contact us with any comments, questions, complaints or suggestions you might have regarding the information practices described in this statement. You may send us an e-mail at [info@markettools.com](mailto:info@markettools.com) or MarketTools, 201 Mission Street, Suite 1400, San Francisco, CA 94105.
