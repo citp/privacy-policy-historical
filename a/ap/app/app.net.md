@@ -1,57 +1,94 @@
-> *The following text is extracted and transformed from the app.net privacy policy that was archived on 2012-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120616011704id_/http%3A//app.net/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the app.net privacy policy that was archived on 2013-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130629104821id_/https%3A//account.app.net/legal/privacy) for the most accurate reproduction.*
 
-# Privacy - App.net
+# App.net - Privacy Policy
 
-This Privacy Policy describes how Mixed Media Labs, Inc. (“ **MixedMediaLabs** ,” “We,” “ **Us** ,” or “ **Our** ”) protects your privacy when you use App.net (the “ **Service** ”) which includes the Web site located at www.App.net along with web pages and embeddable buttons or widgets created by third-party developers and hosted by Mixed Media Labs (the “ **Sites** ”).
+Last Revised: February 7, 2013
 
-PLEASE READ THIS PRIVACY POLICY CAREFULLY. BY ACCESSING OR USING THE SERVICE, YOU AGREE TO BE BOUND BY THE TERMS AND CONDITIONS DESCRIBED HEREIN AND ALL TERMS AND CONDITIONS INCORPORATED BY REFERENCE. IF YOU DO NOT AGREE TO ALL OF THE TERMS AND CONDITIONS SET FORTH BELOW, YOU MAY NOT USE THE SERVICE.
+Our privacy policy applies to information we collect when you use or access our website located at http://app.net, use the App.net development tools and social networking services, or just interact with us. We may change this privacy policy from time to time. Whenever we make changes to this privacy policy, the changes are effective six (6) weeks after we post the revised privacy policy to our website (as indicated by revising the date at the top of our privacy policy). We encourage you to review our privacy policy whenever you access our services to stay informed about our information practices and the ways you can help protect your privacy.
 
-This Privacy Policy applies to information (including, personal information) collected through the Service. For the purpose of this Privacy Policy, “personal information” means information that identifies you personally, either alone or in combination with other information available to us. Personal information does not include "aggregate" information, which is data we collect about the use of the Service or about a group or category of services or users, from which individual identities or other personal information has been removed. This Privacy Policy in no way restricts or limits our collection and use of aggregate information, and we may share aggregate data about our users with third parties for various purposes. This Privacy Policy is part of and incorporated into MixedMediaLabs’s [Terms and Conditions of Use ](https://web.archive.org/terms/) (“ **Site Terms** ”).
+## Collection of Information
 
-#### The What & How of Information We Collect
+### Information You Provide to Us
 
-Personal information may be collected in a number of ways. We may collect certain information that you voluntarily provide to us which may contain personal information. For example, we may collect your name, email address, user name, credit card, social network information and other information you provide us when you register, set up an account, contact us by email or use our services. We may also obtain information from other companies and combine that with information we collect on the Service.
+We collect information you provide directly to us. For example, we collect information when you create an account, subscribe, participate in any interactive features of our services, fill out a form, request customer support or otherwise communicate with us. The types of information we may collect include your name, email address, postal address, credit card information and other contact or identifying information you choose to provide.
 
-When you visit the Sites, some information may be automatically collected. For example, it is standard for your Web browser to automatically send information to every Web site you visit including ours. Such information includes your computer’s Internet Protocol (“ **IP** ”) address, access times, browser type and language, and referring Web site addresses. We may also collect information about your phone or computer’s operating system and information about your usage and activity on the Site.
+### Information We Collect Automatically When You Use the Services
 
-Cookies – We may automatically collect certain information through the use of "cookies." Cookies are small data files that are stored on your hard drive by a Web site. Among other things, the use of cookies helps us to improve the Site and your experience on the Site. We use cookies to see which areas and features of the Site are most popular, to count the number of computers accessing the Site, to personalize your experience and to remember your preferences. If your browser is set not to accept cookies or if you reject a cookie, you may not be able to access certain features or services of the Site.
+When you access or use our services, we automatically collect information about you, including:
 
-Web Beacons – Web beacons, also known as gifs, are electronic images that may be used on the Site or in our emails. A Web beacon may be used on our Web pages to collect information, deliver cookies, count visits, compile statistics on usage and campaign effectiveness and in our emails to tell if an email has been opened and acted upon.
+  *  **Log Information** : We log information about your use of our services, including the type of browser you use, access times, pages viewed, your IP address and the page you visited before navigating to our services.
+  *  **Device Information** : We collect information about the computer you use to access our services, including the hardware model, and operating system and version.
+  *  **Information Collected by Cookies and Other Tracking Technologies** : We use various technologies to collect information, and this may include sending cookies to your computer. Cookies are small data files stored on your hard drive or in your device memory that helps us to improve our services and your experience, see which areas and features of our services are popular and count visits. We may also collect information using web beacons (also known as "tracking pixels"). Web beacons are electronic images that may be used in our services or emails and to track count visits or understand usage and campaign effectiveness. For more information about cookies, and how to disable them, please see "Your Information Choices" below.
 
-#### Storage of Information & Transfer of Data
 
-Most of the information we collect is retained by us on our servers. If you are using the Service from a country other than the country in which our Web servers are located (currently the United States of America) the various communications will necessarily result in the transfer of information across international boundaries. By visiting the Site and communicating electronically with us, you consent to the processing and transfer of your data as set out in this Privacy Policy.
 
-#### How We Use Your Personal Information
+### Information We Collect From Other Sources
 
-We use the information collected through the Service: (i) to provide the services, products, or information you request, and to process and complete any transactions in connection therewith; (ii) to request feedback and to otherwise contact you about your use of the Sites; (iii) to respond to your emails, submissions, questions, comments, requests, and complaints and provide customer service (iv) to conduct analytics and reporting, monitor and analyze site usage and trends and personalize and improve the Sites, the App.net Platform, and our services; (v) to provide you with news and information about our or third party events, activities, offers, promotions, products, and services we think will be of interest to you; (vi) to send you confirmations, updates, security alerts, and support and administrative messages and otherwise facilitate your use of, and our administration and operation of, the Sites; (vii) to notify you about important changes to the Service; and (viii) for any other purpose for which the information was collected.
+In order to provide you with access to the Service, or to provide you with better service in general, we may combine information obtained from other sources (for example, a third-party developer whose application you have authorized) and combine that with information we collect through our services.
 
-#### With Whom We Share Your Personal Information
+## Use of Information
 
-Personal information collected through the Service may be shared with companies and organizations that perform services on our behalf (for example, companies that provide data management or other support services to us such as data storage and Web hosting services). 
+We do not use your information for serving up ads.
 
-Also, we may disclose the personal information we collect through the Service when we, in good faith, believe disclosure is appropriate to: (i) comply with applicable law (or a court order or subpoena); (ii) prevent or investigate a possible crime, such as fraud or identity theft; (iii) enforce the Site Terms or other agreements that govern your use of the Service and/or our services; (iv) to protect the rights, property or safety of us, our users or others; or (v) to protect your vital interests.
+We use information about you for various purposes, including to:
 
-Personal information submitted to the Service or collected by us is our asset and will become part of our normal business records. Your personal information and other data collected by us may be transferred to another company that has acquired our stock or assets, for example, as a result of a sale, merger, reorganization, dissolution or liquidation. If such a transfer occurs, the acquiring company’s use of your personal information will still be subject to this Privacy Policy.
+  * Provide, maintain and improve our services;
+  * Provide services you request, process transactions and to send you related information, including confirmations and invoices,
+  * Send you technical notices, updates, security alerts and support and administrative messages;
+  * Respond to your comments, questions and requests and provide customer service;
+  * Communicate with you about App.net-related news and information;
+  * Monitor and analyze trends, usage and activities in connection with our services; and
+  * Personalize and improve our services.
 
-#### Opt-Out
 
-You may "opt-out" of receiving promotional communications including, but not limited to, promotional emails, from us by emailing us at dev-support@App.net. Transactional service communications including, but not limited to, messages about your registration, will not be subject to the foregoing opt-out procedures. 
 
-#### Security of Your Personal Information
+By accessing and using our services, you consent to the processing and transfer of your information in and to the United States and other countries.
 
-We take reasonable security measures to protect your personal information (including, preventing the loss, misuse, unauthorized access, disclosure, alteration and destruction of your personal information). Please be aware, however, that despite our efforts, no security measures are impenetrable.
+## Sharing of Information
 
-If you use a password on the Service, you are responsible for keeping it confidential. Do not share it with any other person. If you believe your password has been misused, please advise us immediately.
+Remember, we don't share your information with advertisers.
 
-#### Links to Other Websites
+We may share personal information about you as follows:
 
-Our Sites may contain links to Developer Apps and other websites. Any personal information you provide on any linked application or pages is provided directly to that third party and is subject to that third party's privacy policy. This Policy does not apply to such linked sites or applications, and we are not responsible for the content or privacy and security practices and policies of these websites, applications or any other sites or applications that are linked to from the Sites. We encourage you to learn about their privacy and security practices and policies before providing them with personal information. 
+  * With third party vendors and other service providers who need access to your information to carry out work on our behalf (e.g., our payment processors who handle the payment portion of your subscriptions);
+  * If we believe disclosure is reasonably necessary to comply with any applicable law, regulation, legal process or governmental request;
+  * To enforce applicable user agreements or policies, including our [Terms of Service](https://web.archive.org/legal/terms/); and to protect App.net, our users or the public from harm or illegal activities;
+  * In connection with any merger, sale of App.net assets, financing or acquisition of all or a portion of our business to another company; and
+  * If we notify you through our services (or in our privacy policy) that the information you provide will be shared in a particular manner and you provide such information.
 
-#### Changes to this Privacy Policy
 
-We may change this Privacy Policy from time-to-time. If we make any changes to this Privacy Policy, we will change the "Last Updated" date above. We encourage you to review this Privacy Policy whenever you visit the Service to understand how your personal information is used.
 
-#### Questions
+We may also share aggregated or anonymized information that does not directly identify you.
 
-If you have any questions about this Privacy Policy, please contact us [here](https://web.archive.org/contact/).
+## Third Party Analytics
+
+We may allow third parties to provide analytics services. These third parties may use cookies, web beacons and other technologies to collect information about your use of the services and other websites, including your IP address, web browser, pages viewed, time spent on pages, links clicked and conversion information. This information may be used by App.net and third parties to, among other things, analyze and track data, determine the popularity of certain content and other websites and better understand your online activity. Our privacy policy does not apply to, and we are not responsible for, third party cookies, web beacons or other tracking technologies and we encourage you to check the privacy policies of these third parties to learn more about their privacy practices.
+
+## Security
+
+App.net takes reasonable measures to help protect personal information from loss, theft, misuse and unauthorized access, disclosure, alteration and destruction.
+
+## Your Information Choices
+
+### Account Information
+
+You may update, correct or delete information about you at any time by logging into your online account and modifying your personal profile. If you wish to delete or suspend your account, please email us at [support@app.net](mailto:support@app.net), but note that we may retain certain information as required by law or for legitimate business purposes. We may also retain cached or archived copies of your information for a certain period of time. In any case, deleted content will not remain in our system or backups for more than two (2) months.
+
+### Cookies
+
+Most web browsers are set to accept cookies by default. If you prefer, you can usually choose to set your browser to remove or reject browser cookies. Please note that if you choose to remove or reject cookies, this could affect the availability and functionality of our services.
+
+### Promotional Communications
+
+You may opt out of receiving promotional emails from App.net by following the instructions in those emails. If you opt out, we may still send you non-promotional communications, such as those about your account or our ongoing business relations.
+
+## Contact Us
+
+If you have any questions about this privacy policy, please contact us at:
+
+App.net Privacy Team  
+c/o Mixed Media Labs, Inc.  
+650 5th St., Suite 403  
+San Francisco, CA 94107
+
+[support@app.net](mailto:support@app.net)
