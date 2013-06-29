@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mendeley.com privacy policy that was archived on 2012-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121229135605id_/http%3A//www.mendeley.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mendeley.com privacy policy that was archived on 2013-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130629170352id_/http%3A//www.mendeley.com/privacy) for the most accurate reproduction.*
 
 # Privacy | Mendeley
 
@@ -147,7 +147,7 @@ We may disclose your personal information to third parties:
 
 Generally, you can edit and delete any personal data you upload to our Site. If you wish to deactivate your account you may do so by sending a request to . Removed information may persist in backup copies for a reasonable period of time and as necessary to comply with our legal obligations. However, please note that this information will not be generally available to other users or registered members.
 
-Non-personal information about research documents, such as bibliographic information, abstracts, keywords, or cited references will persist in our database and will not be deleted automatically when you deactivate your account, unless you specifically request this by contacting us at . If non-personal information about research documents is in the public domain or has also been uploaded by other users, we may opt to retain it in our database to ensure continued service to these other users. Where you make use of the interactive features of the service to share information with other users and registered members (e.g. sending a personal message to another user) you may not be able to remove such communications.
+Non-personal information about research documents, such as bibliographic information, abstracts, keywords, or cited references will persist in our database and will not be deleted automatically when you deactivate your account. To delete this information, please contact us at instead of using the automated account deactivation tool. If non-personal information about research documents is in the public domain or has also been uploaded by other users, we may opt to retain it in our database to ensure continued service to these other users. Where you make use of the interactive features of the service to share information with other users and registered members (e.g. sending a personal message to another user) you may not be able to remove such communications.
 
 * TOP
 
