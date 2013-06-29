@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the totalfilmy.com privacy policy that was archived on 2012-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121229142220id_/http%3A//www.totalfilmy.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the totalfilmy.com privacy policy that was archived on 2013-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130629222218id_/http%3A//totalfilmy.com/privacy_policy.html) for the most accurate reproduction.*
 
 # Privacy Policy | Total Filmy
 
@@ -28,7 +28,7 @@ We may get data from or about you in other ways not specifically described in th
 
 **Data Changes.**  
 If you terminate your account or delete/change your data or content, we usually update our live databases immediately. To do this, please edit your Member Profile. However, some data may update more slowly, and some old data may remain in our archives and records. Also, we may be unable to propagate changes to partners who receive your data or content. If your account is being terminated or suspended, we may maintain some data to prevent re-registration.  
-**  
+ **  
 Government Relations and Lawsuits.**  
 We may disclose data about you to the government if we are required to do so or if we think the disclosure is appropriate, and you authorize these disclosures. We may also disclose data about you in connection with actual or potential lawsuits (a) if we are required to do so, (b) if such disclosures may potentially mitigate our liability, or (c) to enforce our rights.
 
@@ -37,10 +37,10 @@ You may not harvest personal data (including email addresses) from the site, and
 
 **Limits on Our Abilities.**  
 Our site is very complicated, so we might inadvertently use or disclose your data in ways inconsistent with this statement. For example, a temporary software glitch could lead to public display of your personal data despite your preferences otherwise. We might also make ad hoc uses of your data in ways not mentioned here. In these anomalous situations, your sole remedy is that we will try to rectify the anomaly as soon as we can.  
-**  
+ **  
 Security.**  
 We use industry-standard security protocols, such as (if and where appropriate) firewalls and restrictions on which employees can access user data. However, perfect security does not exist on the Internet. Also, in theory third parties can intercept Internet transmissions containing your personal data, and we don't control the privacy/security of transmissions to and from the site while in transit.  
-****
+ ****
 
 We use third-party advertising companies to serve ads when you visit our Web site. These companies may use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please see: http://www.networkadvertising.org/managing/opt_out.asp
 
