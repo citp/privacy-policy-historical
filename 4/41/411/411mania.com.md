@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 411mania.com privacy policy that was archived on 2012-09-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120919182955id_/http%3A//www.411mania.com/about_us/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 411mania.com privacy policy that was archived on 2013-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130629054117id_/http%3A//www.411mania.com/about_us/privacy) for the most accurate reproduction.*
 
 # 411mania.com: About Us
 
