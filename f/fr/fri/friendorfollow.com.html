@@ -1,284 +1,201 @@
-<!--The following is the downloaded HTML source of the friendorfollow.com privacy policy that was archived on 2012-12-17.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121217050926id_/http%3A//friendorfollow.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the friendorfollow.com privacy policy that was archived on 2013-06-29.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130629030012id_/http%3A//friendorfollow.com/privacy) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head>
-	<script type="text/javascript">var _sf_startpt=(new Date()).getTime()</script>
+<!DOCTYPE html><html><head>
+        <!-- chartbeat --><script type="text/javascript" async="" src="//widget.uservoice.com/QgPKMcI8dO85ZIrFkB7kw.js"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript">var NREUMQ=NREUMQ||[];NREUMQ.push(["mark","firstbyte",new Date().getTime()]);</script>
+<script type="text/javascript">var _sf_startpt=(new Date()).getTime()</script>
 
-    <script src="http://platform.twitter.com/anywhere.js?id=9cL9ITbuW2KbuLZw0oFk4Q&amp;v=1.2"></script>
-
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-<meta http-equiv="X-UA-Compatible" content="IE=EmulateIE7">
-
-
+<meta charset="utf-8">
 <title>Privacy Policy | Friend or Follow</title>
 
-<link href="http://c3340665.r65.cf0.rackcdn.com/favicon.ico" rel="icon" type="image/x-icon">
-<link rel="apple-touch-icon" href="http://c3340665.r65.cf0.rackcdn.com/apple-touch-icon-57x57.png">
-<link rel="apple-touch-icon" sizes="72x72" href="http://c3340665.r65.cf0.rackcdn.com/apple-touch-icon-72x72.png">
-<link rel="apple-touch-icon" sizes="114x114" href="http://c3340665.r65.cf0.rackcdn.com/apple-touch-icon-114x114.png">
+<link href="/css/bootstrap.min.css" rel="stylesheet" type="text/css">
+<link href="/css/style.1370492231.css" rel="stylesheet" type="text/css">
 
-<link rel="stylesheet" type="text/css" href="/css/all.css" media="screen">
-<!--[if IE]><link rel="stylesheet" type="text/css" href="/css/ie.css" media="screen"/><![endif]-->
+<!--[if lt IE 9]>
+    <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+<![endif]-->
 
-    <link rel="stylesheet" type="text/css" href="http://ajax.googleapis.com/ajax/libs/jqueryui/1.8.13/themes/smoothness/jquery-ui.css" media="screen">
-
-<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.6.2/jquery.min.js" type="text/javascript"></script>
-
-    <script src="http://ajax.googleapis.com/ajax/libs/jqueryui/1.8.15/jquery-ui.min.js" type="text/javascript"></script>
-
-<script type="text/javascript" src="/js/friendorfollow.js"></script>
+<!--[if IE]>
+      <link href="/css/ie.1366844798.css" rel="stylesheet" type="text/css">
+<![endif]-->
 
 
-    
+<link rel="stylesheet" type="text/css" href="//ajax.googleapis.com/ajax/libs/jqueryui/1.9.1/themes/smoothness/jquery-ui.css" media="screen">
 
-    <script type="text/javascript">
+<script src="//ajax.googleapis.com/ajax/libs/jquery/1.8.3/jquery.min.js" type="text/javascript"></script>
+<script src="//ajax.googleapis.com/ajax/libs/jqueryui/1.9.1/jquery-ui.min.js" type="text/javascript"></script>
+<script src="/js/bootstrap.min.js" type="text/javascript"></script>
+<script src="/js/fof.1366844798.js" type="text/javascript"></script>
 
-    var twitterObj;
+<link href="//c3340665.r65.cf0.rackcdn.com/favicon.ico" rel="icon" type="image/x-icon">
+<link rel="apple-touch-icon" href="//c3340665.r65.cf0.rackcdn.com/apple-touch-icon-57x57.png">
+<link rel="apple-touch-icon" sizes="72x72" href="//c3340665.r65.cf0.rackcdn.com/apple-touch-icon-72x72.png">
+<link rel="apple-touch-icon" sizes="114x114" href="//c3340665.r65.cf0.rackcdn.com/apple-touch-icon-114x114.png">
 
-    jQuery.ajaxPrefilter(function( options ) {
-        options.global = true;
-    });
-
-        $(document).ready(function () {
-
-            
-            twttr.anywhere(function(T)
-            {
-                twitterObj = T;
-
-                T.bind("authComplete", function (e, user) {
-                    url = window.location.href;
-
-                    urlSplit = url.split("/");
-                    type = urlSplit[4];
-
-                    if(type != 'fans' && type != 'friends')
-                        type = 'following';
-
-                    username = T.currentUser.data('screen_name');
-
-                    window.location.href = '/' + username.toLowerCase() + '/' + type + '/';
-                });
-
-
-                T.bind("signOut", function (e) {
-                    $.cookie('twitter_anywhere_identity', null, { path: '/' });
-
-                    url = window.location.href;
-                    urlSplit = url.split("/");
-
-                    type = urlSplit[4];
-
-                    if(type == 'account')
-                    {
-                        type = 'following';
-                        username = urlSplit[3];
-                        window.location.href = '/' + username.toLowerCase() + '/' + type + '/';
-                    }
-                    else
-                        window.location.reload(true);
-                });
-
-                T(".hc").hovercards({
-                    expanded: true,
-                    username: function(node) {
-                        return node.alt;
-                    }
-                });
-
-                T(".tUser").hovercards({
-                    infer: true,
-                    expanded: true
-                });
-
-                loggedIn = T.isConnected();
-
-                if (loggedIn)
-                {	user = T.currentUser;
-                    screenName = T.currentUser.data('screen_name');
-                    setTimeout(refresh, 60000*5);
-                }
-                else
-                {
-                    $.cookie('twitter_anywhere_identity', null, { path: '/' });
-                }
-            });
-
-            var time = new Date().getTime();
-            $(document.body).bind("mousemove keypress", function(e) {
-                time = new Date().getTime();
-            });
-
-            function refresh() {
-                if(new Date().getTime() - time >= 60000*30)
-                {
-                    $.cookie('twitter_anywhere_identity', null, { path: '/' });
-                    twttr.anywhere.signOut();
-                    window.location.reload(true);
-                }
-                else
-                     setTimeout(refresh, 60000*5);
-            }
-
-            //<![CDATA[
-                        lazyLoadYouTubeVideo();
-                        //]]>
-        // end document ready
-        });
-    </script>
-
-
-<!-- Start Google -->
 <script type="text/javascript">
+
   var _gaq = _gaq || [];
   _gaq.push(['_setAccount', 'UA-2238927-7']);
-  _gaq.push(['setAllowLinker', true]);
-  _gaq.push(['setDomainName', 'none']);
   _gaq.push(['_trackPageview']);
 
   (function() {
-    var ga = document.createElement('script');
-    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
-    ga.setAttribute('async', 'true');
-    document.documentElement.firstChild.appendChild(ga);
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : '//www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
   })();
 
+</script>
+    </head>
 
-// ADD THIS AT THE BOTTOM OF YOUR GOOGLE ANALYTICS TRACKING CODE //
-window.onerror = function(message, file, line) {
-   var sFormattedMessage = '[' + file + ' (' + line + ')] ' + message;
-   _gaq.push(['_trackEvent', 'Exceptions', 'Application', sFormattedMessage, null, true]);
-}
+    <body class="main-bg-inner page">
+   	<div id="wrapper">
+            <header class="clearfix">
+              <div class="container">
+                  
+<div class="navbar navbar-fixed-top">
+    <div class="navbar-inner">
+        <div class="container">
+            <a class="brand" href="/"><img src="http://8381f26007110c2ae7f1-5c397fac8458b43aea13e0e5b8da2e06.r46.cf1.rackcdn.com/friendorfollow-202x127.png" alt="Friend or Follow" height="127" width="202"></a>
 
-</script><script src="https://ssl.google-analytics.com/ga.js" async="true"></script>
-<!-- End Google -->       
+                <ul class="nav">
+                    <li class=""><a href="/about/">About Us</a></li>
+                    <li class="divider-vertical"></li>
+                    <li class=""><a href="/plans/">Plans &amp; Pricing</a></li>
+                    <li class="divider-vertical"></li>
+                    <li class=""><a href="/faq/">Help</a></li>
+                </ul>
 
-</head>
+                            <ul class="nav pull-right">
+                    <li class=""><a href="/sign-up/">Sign Up</a></li>
+                    <li class="divider-vertical"></li>
+                                            <li class="dropdown">
+                            <a class="dropdown-toggle" href="#" data-toggle="dropdown">Sign In <strong class="caret"></strong></a>
+                            <div class="dropdown-menu" style="padding: 15px; padding-bottom: 0px;">
+                                <form method="post" action="https://friendorfollow.com/sign-in/" accept-charset="UTF-8">
+                                    <input style="margin-bottom: 15px;" type="text" placeholder="Email" id="email" name="email">
+                                    <input style="margin-bottom: 15px;" type="password" placeholder="Password" id="password" name="password">
+                                    <input style="float: left; margin-right: 10px;" type="checkbox" name="remember-me" id="remember-me" value="1">
+                                    <label class="string optional" for="user_remember_me"> Remember me</label>
+                                    <input class="btn btn-primary btn-block" type="submit" id="sign-in" value="Sign In">
+                                </form>
+                            </div>
+                        </li>
+                                    </ul>
+                    </div>
+    </div>
+</div>
 
-<body id="static-page" class="lang-en">
+              </div>
+            </header>
 
-	<div class="w1">
-		<noscript><div class="javascriptnotloaded">Please enable JavaScript to use Friend or Follow.</div></noscript>
-		<div class="w2">
-			<div class="w3">
-				<h1 class="logo"><a href="/" itemprop="name">Friend or Follow</a></h1>				<a class="hidden" href="#nav">Skip to navigation</a>
-				<!-- start wrapper -->
-				<div id="wrapper">
-					<!-- start main -->
-					<div id="main">
-						<div class="seo-holder">
-							<!-- start content -->
-							<div id="content" class="page">
-								<div class="inner-page">
-								<h1>Privacy Policy </h1> 
-<p> If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at dusty@dustyreagan.com. </p> 
-<p> At FriendOrFollow.com, the privacy of our visitors is of extreme importance to us. This privacy policy document outlines the types of personal information is received and collected by FriendOrFollow.com and how it is used. </p> 
-<p> <b>Log Files</b><br> Like many other Web sites, FriendOrFollow.com makes use of log files. The information inside the log files includes internet protocol ( IP ) addresses, type of browser, Internet Service Provider ( ISP ), date/time stamp, referring/exit pages, and number of clicks to analyze trends, administer the site, track user's movement around the site, and gather demographic information. IP addresses, and other such information are not linked to any information that is personally identifiable. </p> 
 
-<p> <b>Cookies and Web Beacons</b><br> FriendOrFollow.com does use cookies to store information about visitors preferences, record user-specific information on which pages the user access or visit, customize Web page content based on visitors browser type or other information that the visitor sends via their browser. </p> 
-<b>DoubleClick DART Cookie</b><br> 
-<p> 
-.:: Google, as a third party vendor, uses cookies to serve ads on FriendOrFollow.com.<br> 
-.:: Google's use of the DART cookie enables it to serve ads to your users based on their visit to FriendOrFollow.com and other sites on the Internet. <br> 
-.:: Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at the following URL - http://www.google.com/privacy_ads.html </p> 
-<p> Some of our advertising partners may use cookies and web beacons on our site. Our advertising partners include: 
-<br> Google AdSense 
+
+           <div class="section bottom-section">
+            	<section class="clearfix">
+               	  <div class="span11">
+                         <div class="well well-large well-white">
+                             <div class="privacy">
+<h1 class="page-title">Privacy Policy</h1>
+<p> If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at support@friendorfollow.com. </p>
+<p> At FriendOrFollow.com, the privacy of our visitors is of extreme importance to us. This privacy policy document outlines the types of personal information is received and collected by FriendOrFollow.com and how it is used. </p>
+
+    <h2>Log Files</h2>
+
+    <p> Like many other Web sites, FriendOrFollow.com makes use of log files. The information inside the log files includes internet protocol ( IP ) addresses, type of browser, Internet Service Provider ( ISP ), date/time stamp, referring/exit pages, and number of clicks to analyze trends, administer the site, track user's movement around the site, and gather demographic information. IP addresses, and other such information are not linked to any information that is personally identifiable. </p>
+
+    <h2>Cookies and Web Beacons</h2>
+    <p>FriendOrFollow.com does use cookies to store information about visitors preferences, record user-specific information on which pages the user access or visit, customize Web page content based on visitors browser type or other information that the visitor sends via their browser. </p>
+
+
+    <h2>DoubleClick DART Cookie</h2>
+<p>
+.:: Google, as a third party vendor, uses cookies to serve ads on FriendOrFollow.com.<br>
+.:: Google's use of the DART cookie enables it to serve ads to your users based on their visit to FriendOrFollow.com and other sites on the Internet. <br>
+.:: Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at the following URL - http://www.google.com/privacy_ads.html </p>
+<p> Some of our advertising partners may use cookies and web beacons on our site. Our advertising partners include:
+<br> Google AdSense
 <br> FeaturedUsers.com
 <br>BuySellAds.com
 <br>ValueClick Media
-</p> 
-<p> These third-party ad servers or ad networks use technology to the advertisements and links that appear on FriendOrFollow.com send directly to your browsers. They automatically receive your IP address when this occurs. Other technologies ( such as cookies, JavaScript, or Web Beacons ) may also be used by the third-party ad networks to measure the effectiveness of their advertisements and / or to personalize the advertising content that you see. </p> 
-<p> FriendOrFollow.com has no access to or control over these cookies that are used by third-party advertisers. </p> 
-<p> You should consult the respective privacy policies of these third-party ad servers for more detailed information on their practices as well as for instructions about how to opt-out of certain practices. FriendOrFollow.com's privacy policy does not apply to, and we cannot control the activities of, such other advertisers or web sites. </p> 
+</p>
+<p> These third-party ad servers or ad networks use technology to the advertisements and links that appear on FriendOrFollow.com send directly to your browsers. They automatically receive your IP address when this occurs. Other technologies ( such as cookies, JavaScript, or Web Beacons ) may also be used by the third-party ad networks to measure the effectiveness of their advertisements and / or to personalize the advertising content that you see. </p>
+<p> FriendOrFollow.com has no access to or control over these cookies that are used by third-party advertisers. </p>
+<p> You should consult the respective privacy policies of these third-party ad servers for more detailed information on their practices as well as for instructions about how to opt-out of certain practices. FriendOrFollow.com's privacy policy does not apply to, and we cannot control the activities of, such other advertisers or web sites. </p>
 <p> If you wish to disable cookies, you may do so through your individual browser options. More detailed information about cookie management with specific web browsers can be found at the browsers' respective websites. </p>
-								</div>
-							</div>
-							<!-- start header -->
-							<div id="header">
-								<div class="frame">
-									<div class="top-bar">
-	<div class="t">&nbsp;</div>
-	<div class="c">
-		<div class="bg">
-			<ul>
-                <li><a href="http://tumblr.friendorfollow.com/">Tumblr</a></li>
-                <li><a href="http://instagram.friendorfollow.com/">Instagram</a></li>
-				<li class=""><a href="/top-100/most-followed-twitter-users/">Top 100</a></li>
-				<li class=""><a href="/faq/">FAQ</a></li>
-				<li id="myResultsBullet" class="signedIn hidden "><a href="//following/">My Results</a></li>
-				<li id="myAccountBullet" class="signedIn hidden "><a href="//account/">My Account</a></li>
-				<li id="signoutBullet" class="signedIn hidden "><a href="javascript:twttr.anywhere.signOut();">Sign Out</a></li>
-				<li id="signinBullet" class="signedOut  "><a href="javascript:twitterObj.signIn();">Sign In</a></li>
-			</ul>
-                        <p><a href="javascript:showUpgradePopUp();">Treat yourself to Friend or Follow Gold.</a></p>
-                    </div>
-	</div>
-	<div class="b">&nbsp;</div>
-</div>
+</div>                         </div>
 
-<!-- start signup-popup -->
-<div class="signup-popup">
-	<a href="javascript:$('.signup-popup').bPopup().close()" class="pclose"><span>close</span></a>
-	<div class="t">
-					<p>Already a Gold Member? <a href="javascript:twitterObj.signIn();">Login here.</a></p>
-				<strong class="title">Go Gold!</strong>
-	</div>
-	<div class="c">
-		<div class="content">
-			<div class="video">
-                <div style="text-align:center;"><a class="youtube-lazy-link" href="http://www.youtube.com/embed/3dK30Lvdki4?rel=0&amp;hd=1" style="width: 425px;height:349px;" title="Click to play!"><b>Friend or Follow Gold Demo</b></a></div>
-                
-			</div>
-			<div class="text-holder">
-				<div class="box">
-					<h3>Becoming a Gold Member unlocks these most excellent features:</h3>
-					<ul>
-						<li>Unfollow or Follow multiple accounts at once</li>
-						<li>View accounts in a list view</li>
-						<li>Export your results to CSV</li>
-						<li>View Friend or Follow ad free</li>
-					</ul>
-					<p>Gold memberships are <strong>free to try for 7 days</strong>, and <strong>$9.99/month</strong> thereafter. You can <strong>cancel anytime.</strong></p>
-				</div>
-				<span class="cta cta-yellow cta-subhead" onclick="goToProSignupPage();" style="color:#fff;cursor:pointer;"><span class="icon-check">Subscribe Now<i>First 7 Days Free!</i></span></span>
-			</div>
-		</div>
-	</div>
-	<div class="b">&nbsp;</div>
-</div>
-   									<!-- start card-box -->
-									<div class="card-box">
-										<img class="print-logo" src="http://c3340665.r65.cf0.rackcdn.com/bg-logo.png" alt="Friend or Follow" width="222" height="138">
-									</div>
-									
-									<a class="hidden" href="#wrapper">Back to top</a>
-								</div>
-							</div>
-						</div>
-					</div>
-					<div id="footer">
-	<div class="holder">
-		<!-- google_ad_section_start(weight=ignore) -->
-		<ul>
-			<li>© 2012 <a href="http://floatingheadstudios.com/" target="_blank">Floating Head Studios</a></li>
-			<li><a href="/privacy/">Privacy Policy</a></li>
-			<li><a href="/tos/">Terms of Service</a></li>
-            <li><a href="/jobs/">Jobs</a></li>
-		</ul>
-		<!-- google_ad_section_end(weight=ignore) -->
-	</div>
-	<div class="b">&nbsp;</div>
+                  </div>
+                </section>
+           </div>
 
-    <div style="text-align: center;margin-top:10px" "=""><a href="http://bit.ly/icHHpv" target="_blank">
-        <img style="border:none" src="http://c3340665.r65.cf0.rackcdn.com/Powered-by-MongoLab-170x43-v2.png" height="43" width="170" alt="Powered by MongoLab.com">
-        </a>
+
+          <div class="footer">
+              <div class="row">
+    <div class="container">
+        <div class="span2" style="width:150px">
+            <ul class="unstyled">
+                <li><h5>Friend or Follow</h5></li>
+                <li><a href="/about/">About Us</a></li>
+                <li><a href="/plans/">Plans &amp; Pricing</a></li>
+                <li><a title="Jobs at Floating Head Studios" href="/careers/">Join the Team</a></li>
+                <li><a href="/privacy/">Privacy Policy</a></li>
+                <li><a href="/tos/">Terms of Service</a></li>
+            </ul>
+        </div>
+        <div class="span2" style="width:150px">
+            <ul class="unstyled">
+                <li><h5>Support</h5></li>
+                <li><a href="/faq/"><abbr title="Frequently Asked Questions">FAQ</abbr></a></li>
+                <li><a href="/forgot-password/">Forgot Password</a></li>
+                <li><a href="http://friendorfollow.uservoice.com" target="_blank">Feedback Forum</a></li>
+                <li><a href="mailto:support@friendorfollow.com">Email Support</a></li>
+            </ul>
+        </div>
+        <div class="span2" style="width:120px">
+            <ul class="unstyled">
+                <li><h5>Community</h5></li>
+                <li><a href="http://twitter.com/friendorfollow" target="_blank">Twitter</a></li>
+                <li><a href="http://facebook.com/friendorfollow" target="_blank">Facebook</a></li>
+                <li><a href="http://blog.friendorfollow.com/" target="_blank">Our Blog</a></li>
+            </ul>
+        </div>
+
+        <div class="span2" style="width:160px">
+            <ul class="unstyled">
+                <li><h5>Top 100</h5></li>
+                <li><a href="/twitter/most-followers/">Most Followers</a></li>
+                <li><a href="/twitter/following-the-most/">Following The Most</a></li>
+                <li><a href="/twitter/most-tweets/">Most Tweets</a></li>
+            </ul>
+        </div>
+        <div class="span3 align-right" style="width:200px">
+            <p class="copyright">© 2013 <a href="http://floatingheadstudios.com" target="_blank">Floating Head Studios</a></p>
+            <a href="http://rackspacecloud.com" target="_blank"><img style="margin-bottom:10px" alt="Powered by: RackSpace Cloud" src="http://8381f26007110c2ae7f1-5c397fac8458b43aea13e0e5b8da2e06.r46.cf1.rackcdn.com/rackspace-150.png" width="128" height="38"></a>
+            <a href="http://mongolab.com" target="_blank"><img alt="Powered by: Mongolab" src="http://8381f26007110c2ae7f1-5c397fac8458b43aea13e0e5b8da2e06.r46.cf1.rackcdn.com/powered-by-mongolab-shiny-v2.png" width="103" height="38"></a>
+        </div>
     </div>
-</div> 
-				</div>
-			</div>
-		</div>
-	</div>
-<a id="uv-feedback" target="_blank" href="http://friendorfollow.uservoice.com/forums/4202-general" onmouseover="this.className='uv-mouseover';return false;" onmouseout="this.className='uv-mouseout';return false;" class="uv-mouseout">feedback</a>
+</div>          </div>
+
+
+
+   	</div>
+       <!-- UserVoice JavaScript SDK (only needed once on a page) -->
+<script>(function(){var uv=document.createElement('script');uv.type='text/javascript';uv.async=true;uv.src='//widget.uservoice.com/QgPKMcI8dO85ZIrFkB7kw.js';var s=document.getElementsByTagName('script')[0];s.parentNode.insertBefore(uv,s)})()</script>
+
+<!-- A tab to launch the Classic Widget -->
+<script>
+UserVoice = window.UserVoice || [];
+UserVoice.push(['showTab', 'classic_widget', {
+  mode: 'feedback',
+  primary_color: '#cc6d00',
+  link_color: '#007dbf',
+  forum_id: 174841,
+  tab_label: 'Give Feedback',
+  tab_color: '#cc6d00',
+  tab_position: 'middle-right',
+  tab_inverted: false
+}]);
+</script>
 
 <!-- Start Chartbeat -->
 <script type="text/javascript">
@@ -302,5 +219,7 @@ var _sf_async_config={uid:2799,domain:"friendorfollow.com"};
 </script>
 <!-- End Chartbeat -->
 
+    <script type="text/javascript">if(!NREUMQ.f){NREUMQ.f=function(){NREUMQ.push(["load",new Date().getTime()]);var e=document.createElement("script");e.type="text/javascript";e.src=(("http:"===document.location.protocol)?"http:":"https:")+"//"+"rpm-images.newrelic.com/42/eum/rum.js";document.body.appendChild(e);if(NREUMQ.a)NREUMQ.a();};NREUMQ.a=window.onload;window.onload=NREUMQ.f;};NREUMQ.push(["nrfj","beacon-1.newrelic.com","752accba01","1856687","bwEENRcCDUFRAENaVlZLMxMMTApcVAZPHUlQFA==",0,146,new Date().getTime(),"","","","",""]);</script>
 
-<script language="javascript" type="text/javascript" src="https://s3.amazonaws.com/static.chartbeat.com/js/chartbeat.js"></script></body></html>
+
+<script type="text/javascript" src="https://rpm-images.newrelic.com/42/eum/rum.js"></script><script language="javascript" type="text/javascript" src="https://s3.amazonaws.com/static.chartbeat.com/js/chartbeat.js"></script></body></html>
