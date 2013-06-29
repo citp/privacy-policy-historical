@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the federalreserve.gov privacy policy that was archived on 2012-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121223161520id_/http%3A//federalreserve.gov/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the federalreserve.gov privacy policy that was archived on 2013-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130629124819id_/http%3A//federalreserve.gov/privacy.htm) for the most accurate reproduction.*
 
 # FRB: Privacy
 
@@ -117,6 +117,8 @@ The Board complies with the E-Government Act of 2002. The Act requires an agency
 
 [Automated Loan Examination Review Tool (PDF)](https://web.archive.org/files/pia_alert.pdf)
 
+[Chain Banking Application (PDF)](https://web.archive.org/files/PIA_Chain_Banking.pdf)
+
 [CHAT Suite of Analysis Tools (PDF)](https://web.archive.org/files/pia_chat.pdf)
 
 [Consumer Advisory Council Web Nomination System (PDF)](https://web.archive.org/files/pia_cac_wns.pdf)
@@ -124,6 +126,8 @@ The Board complies with the E-Government Act of 2002. The Act requires an agency
 [Consumer Complaint and Inquiry Systems (PDF)](https://web.archive.org/files/pia-ccis.pdf)
 
 [Document Management System for Division of Banking Supervision and Regulation and Division of Consumer and Community Affairs (PDF)](https://web.archive.org/files/pia_bsr_dcca_docmgmt.pdf)
+
+[eClearance System (PDF)](https://web.archive.org/files/PIA_eClearance.pdf)
 
 [Electronic Applications System (PDF)](https://web.archive.org/files/pia_eapps.pdf)
 
@@ -148,6 +152,8 @@ The Board complies with the E-Government Act of 2002. The Act requires an agency
 [Office of the Secretary Electronic Comments Routing System (PDF)](https://web.archive.org/files/pia_for_secrs_final.pdf)
 
 [Office of the Secretary Freedom of Information Act and Privacy Act Case Tracking and Reporting System (PDF)](https://web.archive.org/files/pia_osec_foia_pactrs.pdf)
+
+[Oracle Financials (PDF)](https://web.archive.org/files/PIA_Oracle_Financials.pdf)
 
 [Passport and Visa System (PDF)](https://web.archive.org/files/pia_passportvisa.pdf)
 
