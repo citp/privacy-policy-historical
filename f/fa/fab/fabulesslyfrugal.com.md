@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the fabulesslyfrugal.com privacy policy that was archived on 2012-09-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120919085007id_/http%3A//fabulesslyfrugal.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fabulesslyfrugal.com privacy policy that was archived on 2013-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130629194922id_/http%3A//fabulesslyfrugal.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Free Printable Coupons, coupon blog, DIY, Learn How to Coupon, and Make Ahead Meals | Fabulessly Frugal
+# Privacy Policy | Fabulessly Frugal: A Coupon Blog sharing Amazon Deals, Printable Coupons, DIY, How to Extreme Coupon, and Make Ahead Meals
 
 Privacy Policy for www.fabulesslyfrugal.com
 
@@ -42,5 +42,3 @@ www.fabulesslyfrugal.com has no access to or control over these cookies that ar
 You should consult the respective privacy policies of these third-party ad servers for more detailed information on their practices as well as for instructions about how to opt-out of certain practices. www.fabulesslyfrugal.com’s privacy policy does not apply to, and we cannot control the activities of, such other advertisers or web sites.
 
 If you wish to disable cookies, you may do so through your individual browser options. More detailed information about cookie management with specific web browsers can be found at the browsers’ respective websites.
-
-[](http://www.printfriendly.com/print/v2?url=http://fabulesslyfrugal.com/privacy-policy)
