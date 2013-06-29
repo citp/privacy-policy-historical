@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the openmedia.ca privacy policy that was archived on 2012-10-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121003043748id_/http%3A//openmedia.ca/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the openmedia.ca privacy policy that was archived on 2013-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130629151749id_/http%3A//openmedia.ca/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | OpenMedia.ca
 
@@ -10,12 +10,12 @@ OpenMedia.ca is strongly committed to protecting your privacy online.
 
 ## Your Personal Information
 
-OpenMedia.ca will send you updates by e-mail. If at any time you would like to unsubscribe from our email list, you may do so by replying to an email, or sending a message to [contact@openmedia.ca](mailto:contact@openmedia.ca) with the subject heading "UNSUBSCRIBE".
+OpenMedia.ca will send you updates by e-mail. **If at any time you would like to unsubscribe from our email list, you may do so by[clicking here](http://openmedia.ca/email/unsubscribe).** You may also do so by replying to an email, or sending a message to [contact@openmedia.ca](mailto:contact@openmedia.ca) with the subject heading "UNSUBSCRIBE".
 
-We do not share the information you’ve given us with unaffiliated groups without your explicit permission. We may share some of your personal information with the following affiliated groups:
+We do not share the information you’ve given us with unaffiliated groups without your explicit permission. We may share some of your personal information with the following groups:
 
-  * Affiliated Third Parties – for example, our database administrators – for the sole purpose of helping Us do our work. These groups do not share your personal information or use it for any purpose other than as instructed by Us.
-  * Third Party Administrators, such as organizations we engage to facilitate large distribution of messages. The content of these emails will be from OpenMedia.ca and these third parties do not have direct access to your personally identifiable information.
+  * Third Party Service Providers – for example, our database administrators – for the sole purpose of helping Us do our work. These groups do not share your personal information or use it for any purpose other than as instructed by Us.
+  * Third Party Administrators – such as organizations we engage to facilitate large distribution of messages. The content of these emails will be from OpenMedia.ca and these third parties do not have direct access to your personally identifiable information.
 
 
 
@@ -36,6 +36,10 @@ This privacy policy applies to transactions and activities in which you engage a
 ## Petitions and Email Campaigns
 
 For petitions and email campaigns in which you've participated, we treat your name, location, and comments as public information—for example, we may provide compilations of petitions, with your comments, to Canadian policy makers and other targets, or to the press. We will not make your street address publicly available, but we may transmit it to the designated target as part of a petition. This is a standard industry practice in such situations. In no such case will we disclose your email address or phone number, without your permission. OpenMedia.ca is not responsible for the use of your email address by campaign targets.
+
+**Coalition Partners**
+
+Sometimes, on a campaign by campaign basis, a coalition partner will be granted access to information you provide via a petition or email campaign. In such cases, links to the privacy policies of those coalition partners will appear on the campaign sign-up page.
 
 ## Sending Emails Via OpenMedia.ca
 
