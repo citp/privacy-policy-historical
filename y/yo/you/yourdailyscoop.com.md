@@ -1,100 +1,97 @@
-> *The following text is extracted and transformed from the yourdailyscoop.com privacy policy that was archived on 2011-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110627154744id_/http%3A//www.godaddy.com/agreements/ShowDoc.aspx%3Fpageid%3Dprivacy_parkedpage) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yourdailyscoop.com privacy policy that was archived on 2013-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130630011719id_/http%3A//www.yourdailyscoop.com/privacy) for the most accurate reproduction.*
 
-# Legal Agreement
+# Privacy Policy for YourDailyScoop.com
 
-**Go Daddy Respects Your Privacy**
+Privacy Policy for YourDailyScoop.com
 
-**This Privacy Policy explains our privacy and information gathering practices, such as the types of information we collect and under what circumstances that information is shared.**
+This privacy policy (“Policy”) describes how YourDailyScoop.com and its related companies (“Company”) collect, use and share personal information of consumer users of this website, http://www.YourDailyScoop.com (the “Site”). This Policy also applies to any of our other websites that post this Policy. This Policy does not apply to websites that post different statements.
 
-**Please take the time to review the terms of this Policy.   By using this Site, you agree to accept the terms provided.**
+ **WHAT WE COLLECT**
 
-**Other than as described in this Policy, we will not give any information about you to others without your express permission.**
+We get information about you in a range of ways.
 
-**Information Collection and Use**
+ **Information You Give Us.**
 
-Although this Site is primarily for informational purposes, we may ask you to provide us with your name, email address or other information that could be used to identify you personally.  For example, we may collect this information in the event that you register as a member of this Site, post a comment, sign-up to receive email communications, or submit demographic information as part of a survey.
+We collect your name, postal address, email address, demographic information (such as your gender and occupation), birthday and other information you directly give us on our Site.
 
-We receive and store any information you enter on our Site or give us in any other way, including through email, telephone, or other communications. If you contact us for support, we will keep an internal record of our communication with you.
+ **Information Automatically Collected.**
 
-We may use your information to contact you regarding the information and services available on our Site, functionality changes to our Site, and special offers we think you'll find valuable. If you would rather not receive this information, please see the "Updating Your Information" section below on how to change your preferences.
+We automatically log information about you and your computer. For example, when visiting our Site, we log your computer operating system type, browser type, browser language, the website you visited before browsing to our Site, pages you viewed, how long you spent on a page, access times, Internet protocol (IP) address and information about your use of and actions on our Site.
 
-We may also use your information to present a co-branded offer with our partners or affiliates. If we collect information from you in connection with a co-branded offer, it will be clear at the point of collection who is collecting the information and whose privacy statement applies.
+ **Cookies.**  We may log information using “cookies.” Cookies are small data files stored on your hard drive by a website. Cookies help us make our Site and your visit better. We use cookies to see which parts of our Site people use and like and to count visits to our Site.
 
-We use information gathered about you from our Site statistics (for example, your IP address) to help diagnose problems with our server, and to administer our Site. We also gather broad demographic information from this data to help us improve our Site and make your browsing and purchasing experience more enjoyable. This is not linked to any personally identifiable information, except as necessary to prevent fraud or abuse on our system.
+ **Web Beacons.**  We may log information using digital images called Web beacons on our Site or in our emails. We use Web beacons to manage cookies, count visits, and to learn what marketing works and what does not. We also use Web Beacons to tell if you open or act on our emails.
 
-Our Site uses cookies to enhance your experience with our Site.  Cookies are data files that are placed in your browser to keep track of your personal preferences and to facilitate easy navigation through our Site.  We use cookies to identify you so you don't need to log in each time you visit our Site.  You may opt-out of the use of cookies by altering settings on your browser.  Please note, however, that some areas of the Site will be easier to navigate with the use of cookies..
+ **USE OF PERSONAL INFORMATION**
 
-This Site also contains links to other websites. Unfortunately, we are not responsible for the privacy practices or the content of such sites.
+We use your personal information as follows:
 
-**Security**
+  * We use your personal information to operate, maintain, and improve our sites, products, and services.
+  * We use your personal information to process and deliver contest entries and rewards.
+  * We use your personal information to respond to comments and questions and provide customer service.
+  * We use your personal information to send information including confirmations, invoices, technical notices, updates, security alerts, and support and administrative messages.
+  * We use your personal information to communicate about promotions, upcoming events, and other news about products and services offered by us and our selected partners. We use your personal information to provide and deliver products and services customers request.
 
-This Site has security measures in place to protect against the loss, misuse or alteration of the information under our control.
 
-**Updating Your Information**
 
-You may alter your account information or opt out of receiving communications from us and our partners at any time. We have the following options for changing and modifying your account information or contact preferences.
+ **SHARING OF PERSONAL INFORMATION**
 
-        i.      You may send an email to [support@godaddy.com ](mailto:support@godaddy.com)
+We may share personal information as follows:
 
-       ii.      You may send mail to Go Daddy at the following postal address:   
-               14455 North Hayden Road, Suite 219, Scottsdale, AZ. 85260 USA
+  * We may share personal information with your consent. For example, you may let us share personal information with others for their own marketing uses. Those uses will be subject to their privacy policies.
+  * We may share personal information when we do a business deal, or negotiate a business deal, involving sale or transfer of all or a part of our business or assets. These deals can include any merger, financing, acquisition, or bankruptcy transaction or proceeding.
+  * We may share personal information for legal, protection, and safety purposes.
+  * We may share information to comply with laws.
+  * We may share information to respond to lawful requests and legal process.
+  * We may share information to protect the rights and property of YourDailyScoop.com, our agents, customers, and others. This includes enforcing our agreements, policies, and terms of use.
+  * We may share information in an emergency. This includes protecting the safety of our employees and agents, our customers, or any person.
+  * We may share information with those who need it to do work for us.
 
-      iii.      You may call us at: (480) 505-8800
 
-       iv.      You may fax us at: (480) 505-8844
 
-**Sending Emails**
+We may also share aggregated and/or anonymized data with others for their own uses.
 
-We use emails to communicate with you and to send information that you have requested.  We also provide email links to allow you to contact us directly. We strive to promptly reply to your messages.
+ **THIRD PARTY OFFERS**
 
-The information you send to us may be stored and used to improve this Site and our products, or it may be reviewed and discarded.
+When you register with YourDailyScoop.com, you can elect to sign up with some of our marketing partners so they may to contact you with their special offers. It is solely at your discretion if you choose to provide additional personally identifiable information to a marketer by making a purchase, requesting additional information, or communicating directly with the company or organization after using its website.
 
-**Compliance with Laws and Law Enforcement**
+ **INFORMATION CHOICES AND CHANGES**
 
-We cooperate with government and law enforcement officials and private parties to enforce and comply with the law. We will disclose any information about you to government or law enforcement officials or private parties as we, in our sole discretion, believe necessary or appropriate to respond to claims and legal process (including without limitation subpoenas), to protect our property and rights or the property and rights of a third party, to protect the safety of the public or any person, or to prevent or stop activity we consider to be illegal or unethical. We will also share your information to the extent necessary to comply with ICANN's rules, regulations and policies.
+Our emails include instructions on how to “opt-out.” By following these instructions you can discontinue receiving emails from YourDailyScoop.com. To do so now, please visit our [unsubscribe page](http://weheartfreebies.us4.list-manage.com/unsubscribe?u=d3fe1726a2d3543a1355172b6&id=5ae7995254).
 
-**Third Party Service Providers**
+You may send requests about personal information to our Contact Information below. You can request to change contact choices, opt-out of our sharing with others, and update your personal information.
 
-We may at times provide information about you to third parties to provide various services on our behalf, such as serving advertisements, conducting contests or surveys, performing analyses of our user demographics, shipping of goods or services, and user relationship management. We will only share information about you that is necessary for the third party to provide the requested service. These companies are prohibited from retaining, sharing, storing or using your personally identifiable information for any secondary purposes.
+You can typically remove and reject cookies from our Site with your browser settings. Many browsers are set to accept cookies until you change your settings. If you remove or reject our cookies, it could affect how our Site works for you.
 
-In the event that we use third party advertising companies to serve ads on our behalf, these companies may employ cookies and action tags (also known as single pixel gift or web beacons) to measure advertising effectiveness. Any information that these third parties collect via cookies and action tags is completely anonymous. If you would like more information about this practice and your choices, click [here. ](http://www.networkadvertising.org/managing/opt_out.asp)
+ **SECURITY OF YOUR PERSONAL INFORMATION**
 
-**Supplementation of Information**
+We take steps to help protect personal information. No company can fully prevent security risks, however. Mistakes may happen. Bad actors may defeat even the best safeguards.
 
-In order to provide certain services to you, we may on occasion supplement the personal information you submit to us with information from third party sources ( _e.g.,_ information from our strategic partners, service providers, or the United States Postal Service).  We do this to enhance our ability to serve you, to tailor our products and services to you, and to offer you opportunities to purchase products or services that we believe may be of interest to you.
+ **CHILDRENS ONLINE PRIVACY PROTECTION ACT COMPLIANCE**
 
-**Contests/Surveys**
+We are in compliance with the requirements of COPPA (Childrens Online Privacy Protection Act), we do not collect any information from anyone under 13 years of age. Our website, products and services are all directed to people who are at least 13 years old or older.
 
-From time-to-time, we may provide you with the opportunity to participate in contests or surveys. If you choose to participate, we may request certain personally identifiable information from you. Participation in these contests or surveys is completely voluntary and you therefore have a choice whether or not to disclose the requested information. The requested information typically includes contact information (such as name and address), and demographic information (such as zip code and age level - note that you must be 18 or above to enter). We use this information to notify contest winners and award prizes, to monitor Site traffic, and to personalize our Site.
+ **YOUR CALIFORNIA PRIVACY RIGHTS**
 
-We may use a third party service provider to conduct these surveys or contests. When we do, that company will be prohibited from using our users' personally identifiable information for any other purpose. We will not share the personally identifiable information you provide through a contest or survey with other third parties unless we give you prior notice and choice.
+Beginning January 1, 2005, California residents who provide personal information in obtaining products or services for personal, family or household use are entitled to either (1) a list detailing the categories of information shared and the entities to which such information was provided, or (2) be notified of a mechanism by which a consumer may opt-out of having their information shared with third parties.
 
-**Tell-A-Friend**
+To opt-out of having your information shared with third parties, send your request, including your full name, email address and postal address to:
 
-If a user elects to use our referral service to inform a friend about our Site, we ask the user for the friend's name and email address. Go Daddy will automatically send the friend a one-time email inviting them to visit our Site. Go Daddy stores this information for the sole purpose of sending this one-time email. The friend may contact Go Daddy at [support@godaddy.com ](mailto:support@godaddy.com)to request the removal of this information from our database.
+YourDailyScoop.com  
+5020 Clark Rd Ste 106  
+Sarasota, FL 34233  
+Team@YourDailyScoop.com
 
-**What Happens to my Personal Information if I Opt Out?**
+ **CONTACT INFORMATION**
 
-If you advise us that you wish to opt out of receiving further communications from us, we will place your personally identifiable information in "deactivated" status on our relevant databases. However, you should know that placement of your information in "deactivated" status does not mean your personally identifiable information has been deleted from our database entirely. We will retain and use your personally identifiable information if necessary in order to comply with our legal obligations, resolve disputes, or enforce our agreements.
+We welcome your comments or questions about this Privacy Policy via email at Team@YourDailyScoop.com. You may also contact us at our address:
 
-**Transfer of Data Abroad**
+YourDailyScoop.com  
+5020 Clark Rd Ste 106  
+Sarasota, FL 34233
 
-If you are visiting this Site from a country other than the country in which our servers are located, your communications with us may result in the transfer of information across international boundaries.  By visiting this Site and communicating electronically with us, you consent to such transfers.
+ **CHANGES TO THIS PRIVACY POLICY**
 
-**Changes in Our Practices**
+We may change this Privacy Policy. If we make any changes, we will change the Last Updated date below.
 
-We reserve the right to modify this Privacy Policy at any time. If we decide to change our Privacy Policy, we will post those changes to this Privacy Policy and any other places we deem appropriate, so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it.
-
-If we make material changes to this Policy, we will notify you here, by email, or by means of a notice on our home page, at least thirty (30) days prior to the implementation of the changes.
-
-**Contacting Our Site**
-
-If you have any questions about our Privacy Policy, the practices of this Site, or your dealings with this Site, please contact us at:
-
-* * *
-
-Go Daddy   
-ATTN: Web Team   
-14455 North Hayden Rd.   
-Suite 219   
-Scottsdale, AZ, 85260, U.S.A.
+This Privacy Policy was last Updated on 3/7/2013.
