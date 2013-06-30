@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thumbshots.com privacy policy that was archived on 2012-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121130014047id_/http%3A//www.thumbshots.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thumbshots.com privacy policy that was archived on 2013-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130630085735id_/http%3A//www.thumbshots.com/privacy.aspx) for the most accurate reproduction.*
 
 # Free preview thumbnails on your site. Web page screenshot image
 
