@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kickbacklife.com privacy policy that was archived on 2012-10-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121015075237id_/http%3A//www.kickbacklife.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kickbacklife.com privacy policy that was archived on 2013-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130630123130id_/http%3A//www.kickbacklife.com/privacy_policy.html) for the most accurate reproduction.*
 
 # KickBack Lifestyle Club Insider Secrets
 
@@ -11,7 +11,7 @@ Positively Fit
 32565 B Golden Lantern #341  
 Dana Point, CA 92629  
 We can be reached via e-mail at marketannihilator@gmail.com  
-or you can reach us by telephone at 877-370-2576
+or you can reach us by telephone at 877-501-8286
 
 For each visitor to our Web page, our Web server automatically recognizes no information regarding the domain or e-mail address.
 
