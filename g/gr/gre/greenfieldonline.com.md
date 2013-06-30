@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the greenfieldonline.com privacy policy that was archived on 2012-10-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121030072141id_/http%3A//us.toluna.com/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the greenfieldonline.com privacy policy that was archived on 2013-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130630212316id_/http%3A//us.toluna.com/Privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Toluna
 
@@ -41,13 +41,17 @@ In some circumstances, Toluna may ask you to inform us of your sensitive persona
 
 If you take a survey or provide us with personal information without being a member of our panel, the only personally identifiable information we will preserve is your Email address, gender, age, ethnicity and zip code, machine ID and IP address. We do this so we may contact you if you have won a prize or are entitled to an incentive, to match you to appropriate surveys and improve the user experience. Unless you elect to become a member of the Toluna panel, we will not contact you for any reason other than to notify you that you have won a prize or are eligible for an incentive. If you are entitled to a prize or an incentive, we will collect and maintain such personally identifiable information, as we are required to maintain or report by virtue of any law or regulation.
 
-If you use the Community Forum Area on our website to post blogs, bulletins or chat with fellow community members, you should be aware that any personally identifiable information you submit there can be read, collected, or used by other users of these forums, and could be used to send you unsolicited messages. We are not responsible for the personally identifiable information you choose to submit in these forums.
+You should be aware that any personally identifiable information you choose to make public on the site, in the Community area (under a public message on your wall, as an opinion, topic, battle, thumb it, or any other public area or forum) can be read, collected, or used by other users and could be used to send you unsolicited messages. We are not responsible for the personally identifiable information you choose to submit or make public. In addition, we are not responsible for the content you publicly post on the site that can be found via web-based search engines.
 
 ## Use of this information
 
 Toluna does not sell or transfer the personally identifiable information collected about the members of its panels or the individuals that take surveys for us. Information which is personally identifiable will only be transferred with your prior permission on a case by case basis, except for the narrow exceptions specified below. If you are a member of the Toluna panel, your information is stored in our proprietary database so we may call upon it to determine which people match up with specific research studies. If we think your profile makes you a potential candidate for a study, we will Email you an invitation to make you aware of this opportunity. From time to time Toluna may use third-party software for Email list management and Email distribution, or may use third party list management providers to match the members of our Panel to members of other lists or panels, or to validate accuracy of personal information you provide. We may use third parties to provide us with data they have collected about you, and append this data to your demographic profile. In such cases only a minimum amount of information is transferred to these third parties so as to enable them to perform specific functions on our behalf. We also may share your information with our service providers, such as to provide prizes you have won or other incentives for your participation in our panels.
 
 Your information may be transferred to other countries, including the United States. All such transfers shall solely be made in accordance with applicable law.
+
+## Sharing
+
+Though we make every effort to preserve your privacy, we may need to disclose your personal information when we have a good-faith belief that such action is necessary to comply with a judicial proceeding or a court order or if we believe it is necessary in order to investigate, prevent or take action regarding illegal activities, suspected fraud, situations involving potential threats to the physical safety of any person, violations of the Toluna site terms, or as otherwise required by law. Toluna may also disclose your personal information to third parties where it has your express permission to do so, or where it can reasonably be inferred from the circumstances that you consent to the disclosure to the third parties. 
 
 ## The Use of Cookies and Local Shared Objects on Our Site
 
@@ -76,7 +80,7 @@ Please note that the local shared object may restore a deleted HTML cookie in or
 
 If in the future you change your mind about participating in the application program, please contact: [privacyna@toluna.com](mailto:privacyna@toluna.com).
 
-We will record your preference not to participate in the application. We and our client take commercially reasonable efforts to keep your data secure, including technical, physical and administrative safeguards. For example, all of our storage servers are protected by firewalls. 
+We will record your preference not to participate in the application. We and our clients take commercially reasonable efforts to keep your data secure, including technical, physical and administrative safeguards. For example, all of our storage servers are protected by firewalls. 
 
 ## Digital Finger printing:
 
@@ -92,7 +96,7 @@ In the event that Toluna discovers or learns of any unethical conduct in connect
 
 In accordance with the provisions of Law No. 78-17 concerning Data Processing and Civil Rights, dated 6 January 1978, you have the right to gain access to your data and correct it. In order to access this data you may either write to the address below or Contact Us at privacyna@toluna.com. 
 
-We provide you with a Members Area on our site; here you may correct or update your membership information or delete your membership. If you are a panel member and delete your membership, all your profile information will be permanently removed from our database, but may be stored in our disaster recovery databases, and in such circumstances will not be used for commercial purposes. Please note that in some cases it may take two to three business days for your information to be completely removed from our records.
+We provide you with a Members Area on our site; here you may correct or update your membership information or delete your membership. If you are a panel member and delete your membership, all your profile information will be permanently removed from our database, but may be stored in our disaster recovery databases, and in such circumstances will not be used for commercial purposes. Please note that in some cases it may take up to fifteen business days for your information to be removed.
 
 ## Opt-Out Policy
 
@@ -104,15 +108,15 @@ If you need to correct any of your profile information or if you would like to u
 
 ## Delete/Deactivate policy;
 
-If you choose to end your membership with Toluna or to require us to cease processing your personal data, you may automatically discontinue your membership by clicking on [Unsubscribe](https://web.archive.org/Home/Unsubscribe) under My Account Maintenance found in the Members area. By following the appropriate directions, your record will be marked as "do not contact", and you will no longer receive communications from Toluna. In addition, you will forfeit any incentive balance that has not been requested as of the time you opt out. Please allow two to three business days for processing of this change. In the meantime, you may receive Emails from us and we apologise for any inconvenience this may cause. As an alternative, you may send an Email directly to [help@toluna.com](mailto:help@toluna.com) requesting to be removed. Email links are provided on the site so that you may contact us directly with any questions or concerns you may have. Each Email we receive is read and responded to individually; please allow two to three business days for us to get back to you.
+If you choose to end your membership with Toluna or to require us to cease processing your personal data, you may automatically discontinue your membership by clicking on [Unsubscribe](https://web.archive.org/Home/Unsubscribe) under My Account Maintenance found in the Members area. By following the appropriate directions, your record will be marked as "do not contact", and you will no longer receive communications from Toluna. In addition, you will forfeit any incentive balance that has not been requested as of the time you opt out. In most cases it will take 2 to 3 days to process this change, but please allow up to two full weeks for your status to be finalized. In the meantime, you may receive emails from us. As an alternative, you may send an Email directly to [contact@toluna.com](mailto:contact@toluna.com) requesting to be removed. Email links are provided on the site so that you may contact us directly with any questions or concerns you may have. Each email we receive is read and responded to individually; please allow two to three business days for us to get back to you.
 
 ## Winners policy and privacy guarantee
 
-Panel members and others who take our surveys are randomly selected to win prizes for participation in surveys, polls, and other promotions. All winners are notified by email of their winnings. Once we deposit winnings in accounts, panelists have the option to request that a check be mailed to them at any time. For more information, please visit our **Terms and Conditions** page. Cash and other prizes awarded to non-panel members will be awarded directly. Occasionally we ask a prize winner to grant us permission to post his/her name on the Winners page on the Toluna website. We will never post a name on our Winners page without an individual's prior permission.
+Panel members and others who take our surveys are randomly selected to win prizes for participation in surveys, polls, and other promotions. All winners are notified by email of their winnings. For more information, please visit our **Terms and Conditions** page. Cash and other prizes awarded to non-panel members will be awarded directly. Toluna shall post the usernames of winners in the following locations: Toluna.com sites, Toluna owned blogs, http://gifties.com, Gifties Facebook App, and Toluna newsletters.
 
 ## Notification of changes
 
-If we decide to change our privacy policy, we will post those changes to this privacy statement, the home page, and other places we deem appropriate so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it.  
+If we decide to change our privacy policy, we will post those changes to this privacy statement, the home page, or other places we deem appropriate so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it.  
 We reserve the right to modify this privacy statement at any time, so please review it frequently. If we make material changes to this policy, we will notify you here, by Email, or by means of a notice on our home page.
 
 ## Security
