@@ -1,13 +1,8 @@
-> *The following text is extracted and transformed from the steals.com privacy policy that was archived on 2012-11-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121117020112id_/http%3A//www.steals.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the steals.com privacy policy that was archived on 2013-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130630031542id_/http%3A//steals.com//privacy.php) for the most accurate reproduction.*
 
-# Steals.com® | Daily Deals at 9am/9pm for Baby, Kids, Scrapbooking & Women
+# STEALS.com® | Daily Deals at 9am/9pm for Baby, Kids, Scrapbooking & Women
 
-[](http://baby.steals.com/stealtime.php)
-
-  
-
-
-This privacy notice discloses the privacy practices for [BabySteals.com](http://babysteals.stealnetwork.com/), [ScrapbookSteals.com](http://kidsteals.stealnetwork.com/), [KidSteals.com](http://kidsteals.stealnetwork.com/), and [SheSteals.com](http://shesteals.stealnetwork.com/). This privacy notice applies solely to information collected by these web sites. It will notify you of the following:
+This privacy notice discloses the privacy practices for [babySTEALS.com](http://baby.steals.com/), [scrapbookSTEALS.com](http://kid.steals.com/), [kidSTEALS.com](http://kid.steals.com/), and [sheSTEALS.com](http://she.steals.com/). This privacy notice applies solely to information collected by these web sites. It will notify you of the following:
 
   1. What personally identifiable information is collected from you through the web site, how it is used and with whom it may be shared.
   2. What choices are available to you regarding the use of your data.
