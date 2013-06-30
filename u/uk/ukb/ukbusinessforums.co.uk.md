@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ukbusinessforums.co.uk privacy policy that was archived on 2012-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121230192955id_/http%3A//www.ukbusinessforums.co.uk/forums/faq.php%3Ffaq%3Drules_welcome%23faq_privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ukbusinessforums.co.uk privacy policy that was archived on 2013-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130630201413id_/http%3A//www.ukbusinessforums.co.uk/forums/faq.php%3Ffaq%3Drules_welcome%23faq_privacy_policy) for the most accurate reproduction.*
 
 # UK Business Forums - Rules: Welcome to UK Business Forums
 
