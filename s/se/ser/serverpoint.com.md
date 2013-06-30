@@ -1,28 +1,20 @@
-> *The following text is extracted and transformed from the serverpoint.com privacy policy that was archived on 2012-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121230190507id_/http%3A//www.serverpoint.com/en/policies/privacy.phtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the serverpoint.com privacy policy that was archived on 2013-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130630233512id_/http%3A//www.serverpoint.com/en/policies/privacy.phtml) for the most accurate reproduction.*
 
 # Affordable and reliable web hosting, domain registration, dedicated server, virtual private server, colocation hosting, Wordpress hosting from Serverpoint.
 
-* * *
+ServerPoint.com cares about your privacy. We collect the minimum amount of information about you that is commensurate with providing you with a satisfactory service. Your information is never sold or shared with any company not related to ServerPoint.com.
 
-ServerPoint.com cares about your privacy. Your information is never sold or shared with any company not related to ServerPoint.com.
+Credit card information is of course shared with our credit card processor (First Data Corporation) in order to charge your credit card.
 
-Credit card information is of course shared with our credit card processor (First Data Corporation) in order to charge your credit card. 
+For ServerPoint your privacy is very important. All of our employee's sign strict non-disclosure agreements. This makes them liable for any unauthorized information disclosure about the company's business or its customers. 
 
-For ServerPoint your privacy is very important. All of our employee's sign strict non-disclosure agreements. This makes them liable for any unauthorized information disclosure about the company's business or its customers. As in any business we gather important information about our customers. We believe that you as our customer have the right to know how this information is used.
-
-  
-
-
-## General
+General
 
 * * *
 
-ServerPoint is in the business of web hosting, not marketing. We use you personal data for internal purposes only, contact information, billing information, technical information, usage information and reseller information. The use of this information is mainly to assure quality service for our customers, and of course collect payment. On the other hand, visitor information is also use for internal purposes only. We conduct research with this data to improve our marketing strategy. In addition, we will not use any of this information to sell data or spam users, customers or visitors. ServerPoint also stores all correspondence between us and our customers for record keeping and historical service reference. ServerPoint does engage computer tracking with the SOLE purpose of identifying illegal usage or fraudulent behavior of some individuals or organizations that may be trying to operate or are in operations on our servers.
+ServerPoint is in the business of web hosting, not marketing. We use you personal data for internal purposes only, contact information, billing information, technical information, usage information and reseller information. The use of this information is mainly to assure quality service for our customers, and of course collect payment. On the other hand, visitor information is also use for internal purposes only. We conduct research with this data to improve our marketing strategy. In addition, we will not use any of this information to sell data or spam users, customers or visitors. ServerPoint also stores all correspondence between us and our customers for record keeping and historical service reference. ServerPoint does engage computer tracking with the SOLE purpose of identifying illegal usage or fraudulent behavior of some individuals or organizations that may be trying to operate or are in operations on our servers. 
 
-  
-
-
-## Information Gathered
+Information Gathered
 
 * * *
 
@@ -30,12 +22,9 @@ When you order web hosting services ("Services") from us, you are required to pr
 
 After you have signed up for our Services, we may be in communication with you about your account, technical questions you may have about the Services, or any other matter relating to the Services. These communications are essential to our relationship with you and to our ability to provide you with quality Services that are responsive to your needs. As a result, we may maintain information about our communications with you for future use.
 
-We will not use your information for internal secondary uses (i.e., uses that do not directly relate to your ordering or ongoing use of our Services), or share your information with any third parties for any purpose other than your ordering and ongoing use of our Services.
+We do not disclose any personal information obtained about you from this website to third parties. This does not apply to affiliates that provide services to you, wherein information will be shared to facilitate your use of additional amenities included with your account. 
 
-  
-
-
-## Third Party Advertising and Cookies
+Third Party Advertising and Cookies
 
 * * *
 
@@ -43,82 +32,61 @@ We may at times use cookies, which are small pieces of information that a Web si
 
 Our Web site may allow for a chat function. Chat functions allow you to participate in "live" online conversations with us on our Web site. Although the transcripts from the chats may be stored internally on in-house servers for our records only, we collect no personally identifiable information about you when you participate unless you choose to provide that information to us.
 
-The basic user information collected is used to help us analyze Web traffic, improve the content of our Web site and improve your experience on our Web site. We do not trade, rent or sell your personal information to others, except as detailed in this Policy.
+The basic user information collected is used to help us analyze Web traffic, improve the content of our Web site and improve your experience on our Web site. We do not trade, rent or sell your personal information to others, except as detailed in this Policy. 
 
-  
-
-
-## Data Security
+Data Security
 
 * * *
 
-ServerPoint has security measures in place to help prevent the loss, misuse and alteration of the information under our control. When you place an order online, your information, including your credit card number, is protected using Secure Socket Layer (SSL) encryption technology. This encrypts order data and is designed to aid in ensuring the accuracy and security of that customer information. We monitor our systems 24/7, always on the lookout for misuse of the system. This means that we know what is happening in our servers, thus safeguarding the integrity of its databases.
+ServerPoint has security measures in place to help prevent the loss, misuse and alteration of the information under our control. When you place an order online, your information, including your credit card number, is protected using Secure Socket Layer (SSL) encryption technology. This encrypts order data and is designed to aid in ensuring the accuracy and security of that customer information. We monitor our systems 24/7, always on the lookout for misuse of the system. This means that we know what is happening in our servers, thus safeguarding the integrity of its databases. 
 
-  
-
-
-## Data Quality and Access
+Data Quality and Access
 
 * * *
 
-We at ServerPoint continuously update our databases and we keep track of outdated information. We send notifications when some of your information needs to be updated (like when a credit card expires) so we can assure the continuation of your services and keep our customers informed.
+We at ServerPoint continuously update our databases and we keep track of outdated information. We send notifications when some of your information needs to be updated (like when a credit card expires) so we can assure the continuation of your services and keep our customers informed. 
 
-  
-
-
-## Links
+Links
 
 * * *
 
-Our Web site provides links to other Web sites that may be maintained by companies that are not affiliates of ours. We are not responsible for the privacy practices or the content of such Web sites and we encourage you to use caution. In particular, we recommend that you view the privacy policy posted on each site to confirm the sites policies are acceptable to you.
+Our Web site provides links to other Web sites that may be maintained by companies that are not affiliates of ours. We are not responsible for the privacy practices or the content of such Web sites and we encourage you to use caution. In particular, we recommend that you view the privacy policy posted on each site to confirm the sites policies are acceptable to you. 
 
-  
-
-
-## Children?s Privacy
+Children's Privacy
 
 * * *
 
-ServerPoint does not sell products or services for purchase by children. Customers must be at least 18 years of age to sign up for our services.
+ServerPoint does not sell products or services for purchase by children. Customers must be at least 18 years of age to sign up for our services. 
 
-  
-
-
-## Changes to our Policy
+Changes to our Policy
 
 * * *
 
-ServerPoint reserves the right to change this Policy simply by posting such changes on our site. We encourage you to periodically check our site for changes to this Policy since your continued use of the site following any changes to this Policy will be deemed to constitute your acceptance of such change. The operative and effective version of this Policy will be the latest version available on the site.
+ServerPoint reserves the right to change this Policy simply by posting such changes on our site. Any changes to our Privacy Policy will be placed here and will supersede this version of our Policy. We encourage you to periodically check our site for changes to this Policy since your continued use of the site following any changes to this Policy will be deemed to constitute your acceptance of such change. The operative and effective version of this Policy will be the latest version available on the site. 
 
-  
-
-
-## Limitations
+Limitations
 
 * * *
 
 ServerPoint is not responsible for the personal data collected by web sites and companies hosted on our servers.
 
-  
-
-
 ServerPoint is extremely jealous of the information provided by our customers and this information will not be disclosed, unless:
 
-* we have the consent of the customer; or   
+* we have the consent of the customer; or  
 * by the authority of the law.
 
-By the authority of law means that if for any reason in an investigation by the United States Federal Government (e. i. Federal Bureau of Investigations, Internal Revenue Service, US Department of Defense, US Department of Justice and the such) or by the order any United States and/or State Court that would subpoena that information, the information will be disclosed to the appropriate authorities. All in accordance to US Federal Law and State law depending on the customer's original jurisdiction. ServerPoint will abide by any legislation, past and future, regarding privacy protection by the United States Federal Government.
+By the authority of law means that if for any reason in an investigation by the United States Federal Government (e. i. Federal Bureau of Investigations, Internal Revenue Service, US Department of Defense, US Department of Justice and the such) or by the order any United States and/or State Court that would subpoena that information, the information will be disclosed to the appropriate authorities. All in accordance to US Federal Law and State law depending on the customer's original jurisdiction. ServerPoint will abide by any legislation, past and future, regarding privacy protection by the United States Federal Government. 
 
-  
+Contacting Us
 
+* * *
 
-## Effective Date
+If you have any questions about our Privacy Policy, or if you want to know what information we have collected about you, please contact our Customer Service Department. You can also contact us to correct any factual errors in that information or require us to remove your details from any list under our control. 
+
+Effective Date
 
 * * *
 
 This Privacy Policy was last updated on March 29, 2005.
 
-We are not responsible for any typographical or translation error.
-
-  
-
+We are not responsible for any typographical or translation error. 
