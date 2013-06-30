@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the ncbex.org privacy policy that was archived on 2012-07-13.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120713102610id_/http%3A//www.ncbex.org/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the ncbex.org privacy policy that was archived on 2013-06-30.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130630180044id_/http%3A//ncbex.org/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 <base href="http://www.ncbex.org/">
@@ -9,19 +9,37 @@
 
 <title>Home</title>
 <link href="themes/ncbe/css/style.css" rel="stylesheet" type="text/css">
-<script src="themes/ncbe/js/maxheight.js" type="text/javascript"></script>
+<script async="" src="//www.google-analytics.com/analytics.js"></script><script src="themes/ncbe/js/maxheight.js" type="text/javascript"></script>
 <!-- script src="themes/ncbe/js/AC_RunActiveContent.js" type="text/javascript"></script -->
 <script type="text/javascript" src="themes/ncbe/udm-resources/udm-custom.js"></script>
 <script type="text/javascript" src="themes/ncbe/udm-resources/udm-control.js"></script>
 <script type="text/javascript" src="themes/ncbe/udm-resources/udm-style.js"></script>
-<link rel="stylesheet" type="text/css" href="http://www.ncbex.org/themes/ncbe/css/layout.css?m=1320338528">
-<link rel="stylesheet" type="text/css" href="http://www.ncbex.org/themes/ncbe/css/typography.css?m=1309447062">
-<link rel="stylesheet" type="text/css" href="http://www.ncbex.org/themes/ncbe/css/form.css?m=1318272446">
+<script type="text/javascript" src="themes/ncbe/js/jquery.js"></script>
+<script type="text/javascript">
+  jQuery().ready(function() {
+	  jQuery("#NCBESearchForm_SearchForm_Search").focus(function() {
+		  jQuery("#NCBESearchForm_SearchForm_Search").val("");
+	});
+	});
+</script>
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-41733575-1', 'ncbex.org');
+  ga('send', 'pageview');
+
+</script>
+<link rel="stylesheet" type="text/css" href="http://www.ncbex.org/themes/ncbe/css/layout.css?m=1352209815">
+<link rel="stylesheet" type="text/css" href="http://www.ncbex.org/themes/ncbe/css/typography.css?m=1352209815">
+<link rel="stylesheet" type="text/css" href="http://www.ncbex.org/themes/ncbe/css/form.css?m=1352209815">
 </head>
 
 <body id="index_2" onload="new ElementMaxHeight();">
 	<!-- menu script -->
-	<script type="text/javascript" src="http://www.ncbex.org/sapphire/thirdparty/prototype/prototype.js?m=1311691331"></script><script type="text/javascript" src="http://www.ncbex.org/sapphire/thirdparty/behaviour/behaviour.js?m=1311691347"></script><script type="text/javascript" src="http://www.ncbex.org/sapphire/javascript/prototype_improvements.js?m=1311691352"></script><script type="text/javascript" src="http://www.ncbex.org/sapphire/javascript/i18n.js?m=1311691330"></script><script type="text/javascript" src="http://www.ncbex.org/sapphire/javascript/lang/en_US.js?m=1311691347"></script><script type="text/javascript" src="http://www.ncbex.org/sapphire/javascript/Validator.js?m=1311691319"></script><script type="text/javascript">//<![CDATA[
+	<script type="text/javascript" src="http://www.ncbex.org/sapphire/thirdparty/prototype/prototype.js?m=1311691331"></script><script type="text/javascript" src="http://www.ncbex.org/sapphire/thirdparty/behaviour/behaviour.js?m=1311691347"></script><script type="text/javascript" src="http://www.ncbex.org/sapphire/javascript/prototype_improvements.js?m=1311691352"></script><script type="text/javascript" src="http://www.ncbex.org/sapphire/javascript/i18n.js?m=1311691330"></script><script type="text/javascript" src="http://www.ncbex.org/sapphire/javascript/lang/en_US.js?m=1311691347"></script><script type="text/javascript" src="http://www.ncbex.org/sapphire/javascript/Validator.js?m=1311691319"></script><script type="text/javascript" src="http://www.ncbex.org/sapphire/thirdparty/jquery/jquery.js?m=1311691365"></script><script type="text/javascript" src="http://www.ncbex.org/sapphire/javascript/ImageFormAction.js?m=1311691350"></script><script type="text/javascript">//<![CDATA[
 Behaviour.register({
 	'#NCBESearchForm_SearchForm': {
 		validate : function(fromAnOnBlur) {
@@ -77,6 +95,118 @@ Behaviour.register({
 	}
 });
 
+//]]></script><script type="text/javascript">//<![CDATA[
+Behaviour.register({
+	'#AdministrativeNavigationForm_AdministrativeNavigationForm': {
+		validate : function(fromAnOnBlur) {
+			initialiseForm(this, fromAnOnBlur);
+			
+
+			var error = hasHadFormError();
+			if(!error && fromAnOnBlur) clearErrorMessage(fromAnOnBlur);
+			if(error && !fromAnOnBlur) focusOnFirstErroredField();
+			
+			return !error;
+		},
+		onsubmit : function() {
+			if(typeof this.bypassValidation == 'undefined' || !this.bypassValidation) return this.validate();
+		}
+	},
+	'#AdministrativeNavigationForm_AdministrativeNavigationForm input' : {
+		initialise: function() {
+			if(!this.old_onblur) this.old_onblur = function() { return true; } 
+			if(!this.old_onfocus) this.old_onfocus = function() { return true; } 
+		},
+		onblur : function() {
+			if(this.old_onblur()) {
+				// Don't perform instant validation for CalendarDateField fields; it creates usability wierdness.
+				if(this.parentNode.className.indexOf('calendardate') == -1 || this.value) {
+					return $('AdministrativeNavigationForm_AdministrativeNavigationForm').validate(this);
+				} else {
+					return true;
+				}
+			}
+		}
+	},
+	'#AdministrativeNavigationForm_AdministrativeNavigationForm textarea' : {
+		initialise: function() {
+			if(!this.old_onblur) this.old_onblur = function() { return true; } 
+			if(!this.old_onfocus) this.old_onfocus = function() { return true; } 
+		},
+		onblur : function() {
+			if(this.old_onblur()) {
+				return $('AdministrativeNavigationForm_AdministrativeNavigationForm').validate(this);
+			}
+		}
+	},
+	'#AdministrativeNavigationForm_AdministrativeNavigationForm select' : {
+		initialise: function() {
+			if(!this.old_onblur) this.old_onblur = function() { return true; } 
+		},
+		onblur : function() {
+			if(this.old_onblur()) {
+				return $('AdministrativeNavigationForm_AdministrativeNavigationForm').validate(this); 
+			}
+		}
+	}
+});
+
+//]]></script><script type="text/javascript">//<![CDATA[
+Behaviour.register({
+	'#ApplicantNavigationForm_ApplicantNavigationForm': {
+		validate : function(fromAnOnBlur) {
+			initialiseForm(this, fromAnOnBlur);
+			
+
+			var error = hasHadFormError();
+			if(!error && fromAnOnBlur) clearErrorMessage(fromAnOnBlur);
+			if(error && !fromAnOnBlur) focusOnFirstErroredField();
+			
+			return !error;
+		},
+		onsubmit : function() {
+			if(typeof this.bypassValidation == 'undefined' || !this.bypassValidation) return this.validate();
+		}
+	},
+	'#ApplicantNavigationForm_ApplicantNavigationForm input' : {
+		initialise: function() {
+			if(!this.old_onblur) this.old_onblur = function() { return true; } 
+			if(!this.old_onfocus) this.old_onfocus = function() { return true; } 
+		},
+		onblur : function() {
+			if(this.old_onblur()) {
+				// Don't perform instant validation for CalendarDateField fields; it creates usability wierdness.
+				if(this.parentNode.className.indexOf('calendardate') == -1 || this.value) {
+					return $('ApplicantNavigationForm_ApplicantNavigationForm').validate(this);
+				} else {
+					return true;
+				}
+			}
+		}
+	},
+	'#ApplicantNavigationForm_ApplicantNavigationForm textarea' : {
+		initialise: function() {
+			if(!this.old_onblur) this.old_onblur = function() { return true; } 
+			if(!this.old_onfocus) this.old_onfocus = function() { return true; } 
+		},
+		onblur : function() {
+			if(this.old_onblur()) {
+				return $('ApplicantNavigationForm_ApplicantNavigationForm').validate(this);
+			}
+		}
+	},
+	'#ApplicantNavigationForm_ApplicantNavigationForm select' : {
+		initialise: function() {
+			if(!this.old_onblur) this.old_onblur = function() { return true; } 
+		},
+		onblur : function() {
+			if(this.old_onblur()) {
+				return $('ApplicantNavigationForm_ApplicantNavigationForm').validate(this); 
+			}
+		}
+	}
+});
+
 //]]></script><script type="text/javascript" src="themes/ncbe/udm-resources/udm-dom.js"></script>
 	<!-- keyboard navigation module -->
 	
@@ -86,29 +216,54 @@ Behaviour.register({
 			<!--header -->
 			<div class="content" id="header">
 				<div class="h_logo">
-						<div class="left">&nbsp;
-						</div>
-					<div class="right">
-						<p><a href="https://secure.ncbex2.org/"><img src="themes/ncbe/images/LOCK_white.gif" alt="" width="16" height="16"> NCBE Secure Site</a>
-						<a href="http://www.ncbex2.org/catalog"><img src="themes/ncbe/images/CART_white.gif" alt="" width="16" height="16"> Online Store</a></p>
+					<div class="right2 header_right" style="text-align: left">
 						<form id="NCBESearchForm_SearchForm" action="/privacy-policy/SearchForm" method="get" enctype="application/x-www-form-urlencoded">
 	<fieldset>
+		<label for="NCBESearchForm_SearchForm_Search" style="display:none;">Search</label>
 		
-			<div id="Search" class="field text "><label class="left" for="NCBESearchForm_SearchForm_Search">Search</label><div class="middleColumn"><input type="text" class="text" id="NCBESearchForm_SearchForm_Search" name="Search" value=""></div></div>
+			<div id="Search" class="field text  nolabel"><div class="middleColumn"><input type="text" class="text nolabel" id="NCBESearchForm_SearchForm_Search" name="Search" value="Search"></div></div>
 		
 		
-			<input class="action " id="NCBESearchForm_SearchForm_action_results" type="submit" name="action_results" value="Go" title="Go">
+			<input class="action" id="NCBESearchForm_SearchForm_action_results" type="image" name="action_results" src="themes/ncbe/images/SEARCHicon.gif" title="Search Entire Site" alt="Search Entire Site">
 		
 	</fieldset>
 </form>
 
+						<div style="padding-top: 4px">
+<form name="AdministrativeNavigationForm_AdministrativeNavigationForm" id="AdministrativeNavigationForm_AdministrativeNavigationForm" action="/privacy-policy/navresultsadmin" method="post" enctype="application/x-www-form-urlencoded" class="loginForm">
+	<label for="ssLoginSelectAdministrators">Administrative Login</label><br>
+	<select name="ssLoginAdministrators" id="ssLoginSelectAdministrators" class="loginSelect">
+		<option value="">--Select Login Type--</option>
+		<option value="BADM">Bar admissions staff</option>
+		<option value="BADM">Bar examiners</option>
+		<option value="GRD">Graders</option>
+		<option value="STF">NCBE staff</option>
+		<option value="OTH">NCBE other</option>
+	</select>
+	
+	<input type="image" name="applicantLoginButton" src="themes/ncbe/images/GOicon.gif" alt="Login to Selected Site">
+	<input class="hidden" type="hidden" id="BarAdmissionOfficeForm_BarAdmissionOfficeForm_SecurityID" name="SecurityID" value="566020a91b31eb711d62e896e7e144c56f62335b">
+</form>
+</div>
 				  </div>
-				  <div class="clear"></div>
+				  <div class="right header_right" style="text-align: left">
+						<form name="ApplicantNavigationForm_ApplicantNavigationForm" id="ApplicantNavigationForm_ApplicantNavigationForm" action="/privacy-policy/navresults" method="post" enctype="application/x-www-form-urlencoded" class="loginForm">
+	<label for="ssLoginSelect">Applicant Login</label><br>
+	<select name="ssLogin" id="ssLoginSelect" class="loginSelect">
+		<option value="">--Select Login Type--</option>
+		<option value="CNF">Character &amp; Fitness Application</option>
+		<option value="NUM">NCBE Number Account</option>
+		<option value="OPE">Online Practice Exam Account</option>
+		<option value="STR">Online Store Account</option>
+	</select>
+	<input type="image" name="applicantLoginButton" src="themes/ncbe/images/GOicon.gif" alt="Login to Selected Site">
+	<input class="hidden" type="hidden" id="BarAdmissionOfficeForm_BarAdmissionOfficeForm_SecurityID" name="SecurityID" value="566020a91b31eb711d62e896e7e144c56f62335b">
+</form>
+				  </div>
 				</div>
 				<div id="menu">
 				  <div class="rightbg">
 				    <div class="leftbg">
-					  <div class="padding">
 								<ul id="udm" class="udm">
 									
 									<li>
@@ -136,16 +291,26 @@ Behaviour.register({
 									</ul>
 									
 									</li><li>
-										<a href="/character-and-fitness/" title="Go to the &quot;Character &amp; Fitness&quot; page">Character &amp; Fitness Services</a>
+										<a href="/score-services/" title="Go to the &quot;Score Services&quot; page">Score Services</a>
 										
 									<ul>
+									
+										<li class="link"><a href="/multistate-tests/mpre/mpre-score-services/" title="Go to the &quot;MPRE Score Services&quot; page">MPRE Score Services</a></li>
+									
+										<li class="link"><a href="/multistate-tests/mbe/mbe-score-services/" title="Go to the &quot;MBE Score Services&quot; page">MBE Score Services</a></li>
+									
+										<li class="link"><a href="/multistate-tests/ube/ube-transcript-services/" title="Go to the &quot;UBE Score Services&quot; page">UBE Score Services</a></li>
 									
 									</ul>
 									
 									</li><li>
-										<a href="/bar-admissions/" title="Go to the &quot;Bar Admission Services&quot; page">Bar Admission Services</a>
+										<a href="/character-and-fitness/" title="Go to the &quot;Character &amp; Fitness&quot; page">Character &amp; Fitness</a>
 										
 									<ul>
+									
+										<li class="link"><a href="/character-and-fitness/character-and-fitness-electronic-application/" title="Go to the &quot;Character and Fitness Electronic Application&quot; page">Application</a></li>
+									
+										<li class="link"><a href="/character-and-fitness/character-and-fitness-faqs/" title="Go to the &quot;Character and Fitness FAQs&quot; page">FAQs</a></li>
 									
 									</ul>
 									
@@ -154,20 +319,37 @@ Behaviour.register({
 										
 									<ul>
 									
+										<li class="link"><a href="/publications/the-bar-examiner/" title="Go to the &quot;The Bar Examiner&quot; page">The Bar Examiner</a></li>
+									
+										<li class="link"><a href="http://www.ncbex.org/assets/media_files/Comp-Guide/CompGuide.pdf" title="Go to the &quot;Bar Admissions Guide&quot; page">Bar Admissions Guide</a></li>
+									
+										<li class="link"><a href="/publications/statistics/" title="Go to the &quot;Statistics&quot; page">Statistics</a></li>
+									
+										<li class="link"><a href="/publications/ncbe-job-analysis/" title="Go to the &quot;NCBE Job Analysis&quot; page">NCBE Job Analysis</a></li>
+									
+										<li class="link"><a href="/publications/research/" title="Go to the &quot;Research&quot; page">Covington Award</a></li>
+									
 									</ul>
 									
-									</li><li class="last">
-										<a href="/contact-us/" title="Go to the &quot;Contact Us&quot; page">Contact Us</a>
+									</li><li>
+										<a href="https://secure.ncbex2.org/php/ncbe_number/views/home.php" title="Go to the &quot;NCBE Number&quot; page">NCBE Number</a>
+										
+									<ul>
+									
+									</ul>
+									
+									</li><li>
+										<a href="/contacts/" title="Go to the &quot;Contacts&quot; page">Contacts</a>
 										
 									<ul>
 									
 									</ul>
 									
 									</li>
+									<li class="last"><a href="http://www.ncbex2.org/catalog" title="Purchase Study Aids from NCBE"><img src="themes/ncbe/images/CART.gif" alt=""> Store</a></li>
 								</ul>
-					  </div>
 				    </div>
-					</div>
+				  </div>
 				</div>
 			  </div>
 			<p><img class="left" src="assets/images/header-images/_resampled/resizedimage800148-headersmdome_2.jpg" width="800" height="148" alt="" title=""></p>
@@ -249,8 +431,10 @@ Behaviour.register({
 			<!--footer -->
 			<div id="footer">
 				<div class="indent">
-					©2012 National Conference of Bar Examiners • <a href="/privacy-policy">Privacy Policy</a>
-					• <a href="/website-terms-and-conditions-of-use">Terms and Conditions of Use</a></div>
+					©2013 National Conference of Bar Examiners • <a href="/privacy-policy">Privacy Policy</a>
+					• <a href="/website-terms-and-conditions-of-use">Terms and Conditions of Use</a>
+					• <a href="/contact-us">Contact Us</a>
+					</div>
 		  </div>
 			<!--footer end-->
 		</div>
